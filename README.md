@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hello, world 👋
 
-![](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
+### Top languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact)
 
 <!--
 **AlexRogalskiy/AlexRogalskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,13 +29,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### [NPM Statistics](http://npm-stats.com/AlexRogalskiy)
+### NPM Statistics
 
-### Top languages
+![Statistics](http://npm-stats.com/AlexRogalskiy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact)
-
-### Github stats
+### Github Statistics
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
 
-## Connect with me
+## Contacts
+
+### Connect with me
 
 <p align="center">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
 <div align="center">

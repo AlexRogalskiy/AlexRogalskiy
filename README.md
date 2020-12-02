@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### NPM Statistics
 
-![Statistics](http://npm-stats.com/AlexRogalskiy)
+[Statistics](http://npm-stats.com/AlexRogalskiy)
 
 ### Github Statistics
 

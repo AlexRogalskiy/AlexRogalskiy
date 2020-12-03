@@ -1,4 +1,4 @@
-## Hello, world 👋
+## Hello, world! 👋
 
 ### Top languages
 
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/alexrogalskiy?tab=followers">
     <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/alexrogalskiy">
+    <img src="https://img.shields.io/github/stars/AlexRogalskiy?label=Stars&logo=GitHub&style=for-the-badge" />
   </a>
   <a href="http://twitter.com/alexrogalskiy">
     <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
@@ -58,10 +61,10 @@ Here are some ideas to get you started:
 
 <p align="center">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
 <div align="center">
-    <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/mail.svg" width="20" height="20" alt=""></a>&nbsp;
-    <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/linkedin.svg" width="20" height="20" alt=""></a>&nbsp;
-    <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/github.svg" width="20" height="20" alt=""></a>&nbsp;
-    <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codepen.svg" width="20" height="20" alt=""></a>&nbsp;
-    <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codersrank.svg" width="20" height="20" alt=""></a>&nbsp;
-    <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/sourcerer.svg" width="20" height="20" alt=""></a>
+    <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/mail.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/linkedin.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/github.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codepen.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codersrank.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/sourcerer.svg" width="30" height="30" alt=""></a>
 </div>

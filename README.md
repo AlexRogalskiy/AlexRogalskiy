@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 
 ## Statistics
 
+### General statistics
+
+<p align="center">
+  <a href="https://github.com/alexrogalskiy?tab=followers">
+    <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/alexrogalskiy">
+    <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 ### Contributions graph
 
 <p align="center">
@@ -33,7 +44,7 @@ Here are some ideas to get you started:
 
 [Statistics](http://npm-stats.com/AlexRogalskiy)
 
-### Github Statistics
+### Github statistics
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 

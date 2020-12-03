@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### General statistics
 
-<p style="text-align:center;">
+<p align="center" style="text-align:center;">
   <a href="https://github.com/alexrogalskiy?tab=followers">
     <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
   </a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Contributions graph
 
-<p style="text-align:center;">
+<p align="center" style="text-align:center;">
   <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexrogalskiy&width=600" alt="CodersRank skills chart" />
   </a>
@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<p style="text-align:center;">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
-<div style="text-align:center;">
+<p align="center" style="text-align:center;">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
+<div align="center" style="text-align:center;">
     <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/mail.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/opencollective.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/linkedin.svg" width="30" height="30" alt=""></a>&nbsp;

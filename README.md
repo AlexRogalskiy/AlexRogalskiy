@@ -1,3 +1,5 @@
+![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/header-banner.jpg)
+
 ## Hello, world! 👋
 
 ### Top languages

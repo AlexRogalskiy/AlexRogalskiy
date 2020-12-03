@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/alexrogalskiy?tab=followers">
     <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/alexrogalskiy">
+  <a href="https://github.com/alexrogalskiy?tab=stars">
     <img src="https://img.shields.io/github/stars/AlexRogalskiy?label=Stars&logo=GitHub&style=for-the-badge" />
   </a>
   <a href="http://twitter.com/alexrogalskiy">
@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/mail.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/linkedin.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://www.facebook.com/alexander.v.rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/facebook.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://www.hackster.io/alexander-v-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/hackster.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://www.instructables.com/member/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/instructables.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/github.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codepen.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/codersrank.svg" width="30" height="30" alt=""></a>&nbsp;

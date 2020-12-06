@@ -68,7 +68,6 @@ Here are some ideas to get you started:
     <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/mail.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/calendly.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/opencollective.svg" width="30" height="30" alt=""></a>&nbsp;
-    <a href="https://withspectrum.github.io/badge/badge.svg"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/opencollective.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/linkedin.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://www.facebook.com/alexander.v.rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/facebook.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://dev.to/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/devto.svg" width="30" height="30" alt=""></a>&nbsp;

@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ## Contacts
 
-[![Nullables community](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/nullables-io)
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/nullables-io)
 
 ### Connect with me
 

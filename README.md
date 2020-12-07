@@ -50,7 +50,10 @@ Here are some ideas to get you started:
 
 ### _Github statistics_
 
-[![Page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<br />
+![GitHub page statistics](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?sanitize=true&url=https://github.com/AlexRogalskiy/hit-counter)
+<img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?sanitize=true&url=https://github.com/AlexRogalskiy/hit-counter">
 <br />
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 

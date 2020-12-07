@@ -46,33 +46,25 @@ Here are some ideas to get you started:
 
 ### _NPM Statistics_
 
-<p align="center" style="text-align:center;">
-	[Statistics](http://npm-stats.com/AlexRogalskiy)
-</p>
+[Npm statistics](http://npm-stats.com/AlexRogalskiy)
 
 ### _Github statistics_
 
-<p align="center" style="text-align:center;">
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-	<br />
-	![Statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
-</p>
+[![Page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<br />
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
 ### _Github trophies_
 
-<p align="center" style="text-align:center;">
-	![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
 
 ## _Contacts_
 
 ### _Community_
 
-<p align="center" style="text-align:center;">
-	[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/nullables-io)
-</p>
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/nullables-io)
 
-### _Social&Media_
+### _Social & Media_
 
 <p align="center" style="text-align:center;">
 	Feel free to reach me out at:

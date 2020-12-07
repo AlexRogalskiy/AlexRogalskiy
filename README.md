@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
 
+### _Coding competitions_
+
+[![Codewars Badge](https://www.codewars.com/users/AlexRogalskiy/badges/micro)](https://www.codewars.com/users/AlexRogalskiy)
+
 ## _Contacts_
 
 ### _Community_

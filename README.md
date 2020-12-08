@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 
 ### _Community_
 
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/nullables-io)
-[![Join the community on Mattermost](https://nullables-io.cloud.mattermost.com/main/channels/community)
+[![Join the community on Spectrum](https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge)](https://spectrum.chat/nullables-io)
+[![Join the community on Mattermost](https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge)](https://nullables-io.cloud.mattermost.com/main/channels/community)
 
 ### _Social & Media_
 

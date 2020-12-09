@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 </p>
 	
 <div align="center" style="text-align:center;">
-    <a href="mailto:alexander.rogalsky@yandex.ru"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/opencollective.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/linkedin.svg" width="30" height="30" alt=""></a>&nbsp;

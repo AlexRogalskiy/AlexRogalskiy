@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### _Coding skills_
 
 <p align="center" style="text-align:center;">
-	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--header-bg-color:#FFF3F6--border-radius:10px" />
+	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </p>
 
 ### _NPM Statistics_

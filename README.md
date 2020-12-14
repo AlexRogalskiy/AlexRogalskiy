@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
+### _Coding skills_
+
+<p align="center" style="text-align:center;">
+	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+</p>
+
 ### _NPM Statistics_
 
 [Npm statistics](http://npm-stats.com/AlexRogalskiy)

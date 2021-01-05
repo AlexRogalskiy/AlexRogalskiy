@@ -94,6 +94,7 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/alexander.v.rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/facebook.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://dev.to/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/devto.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://www.hackster.io/alexander-v-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/hackster.svg" width="30" height="30" alt=""></a>&nbsp;
+    <a href="https://stackshare.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/stackshare.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://www.instructables.com/member/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instructables.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/github.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://gitmemory.com/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/gitmemory.svg" width="30" height="30" alt=""></a>&nbsp;

@@ -1,13 +1,13 @@
 ![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/banner/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
-## _Languages_
+## 🗺️ _Languages_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact)
 
-## _Statistics_
+## 🧮 _Statistics_
 
-### _General Statistics_
+### 📄 _General Statistics_
 
 <p align="center" style="text-align:center;">
 	<a href="https://github.com/alexrogalskiy?tab=followers">
@@ -21,14 +21,14 @@
 	</a>
 </p>
 
-### _Github Review_
+### 💡 _Github Review_
 
 [![Years Badge](https://badges.pufler.dev/years/AlexRogalskiy)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/AlexRogalskiy)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/AlexRogalskiy)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/AlexRogalskiy)](https://badges.pufler.dev)
 
-### _Contributions Graph_
+### ☀️ _Contributions Graph_
 
 <p align="center" style="text-align:center;">
 	<a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -36,17 +36,17 @@
 	</a>
 </p>
 
-### _Coding Skills_
+### 🎓 _Coding Skills_
 
 <p align="center" style="text-align:center;">
 	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </p>
 
-### _NPM Statistics_
+### ✨ _NPM Statistics_
 
 [Npm statistics](http://npm-stats.com/AlexRogalskiy)
 
-### _Github Statistics_
+### 🔥 _Github Statistics_
 
 [![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -57,22 +57,22 @@
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
-### _Github Trophies_
+### 🎌 _Github Trophies_
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
 
-### _Coding Competitions_
+### 🧪 _Coding Competitions_
 
 [![Codewars Badge](https://www.codewars.com/users/AlexRogalskiy/badges/micro)](https://www.codewars.com/users/AlexRogalskiy)
 
-## _Contacts_
+## 📮 _Contacts_
 
-### _Community Membership_
+### 🔗 _Community Membership_
 
 [![Join the community on Spectrum](https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge)](https://spectrum.chat/nullables-io)
 [![Join the community on Mattermost](https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge)](https://nullables-io.cloud.mattermost.com/main/channels/community)
 
-### _Social & Media_
+### 🧲 _Social & Media_
 
 <p align="center" style="text-align:center;">
 	Feel free to reach me out at:

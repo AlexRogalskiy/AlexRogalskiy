@@ -5,24 +5,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact)
 
-<!--
-**AlexRogalskiy/AlexRogalskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## _Statistics_
 
-### _General statistics_
+### _General Statistics_
 
 <p align="center" style="text-align:center;">
 	<a href="https://github.com/alexrogalskiy?tab=followers">
@@ -36,7 +21,14 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-### _Contributions graph_
+### _Github Review_
+
+[![Years Badge](https://badges.pufler.dev/years/AlexRogalskiy)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/AlexRogalskiy)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/AlexRogalskiy)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/AlexRogalskiy)](https://badges.pufler.dev)
+
+### _Contributions Graph_
 
 <p align="center" style="text-align:center;">
 	<a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -44,7 +36,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-### _Coding skills_
+### _Coding Skills_
 
 <p align="center" style="text-align:center;">
 	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
@@ -54,7 +46,7 @@ Here are some ideas to get you started:
 
 [Npm statistics](http://npm-stats.com/AlexRogalskiy)
 
-### _Github statistics_
+### _Github Statistics_
 
 [![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -65,11 +57,11 @@ Here are some ideas to get you started:
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
-### _Github trophies_
+### _Github Trophies_
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
 
-### _Coding competitions_
+### _Coding Competitions_
 
 [![Codewars Badge](https://www.codewars.com/users/AlexRogalskiy/badges/micro)](https://www.codewars.com/users/AlexRogalskiy)
 

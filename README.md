@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## _Contacts_
 
-### _Community_
+### _Community Membership_
 
 [![Join the community on Spectrum](https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge)](https://spectrum.chat/nullables-io)
 [![Join the community on Mattermost](https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge)](https://nullables-io.cloud.mattermost.com/main/channels/community)
@@ -102,3 +102,8 @@ Here are some ideas to get you started:
     <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/codersrank.svg" width="30" height="30" alt=""></a>&nbsp;
     <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/sourcerer.svg" width="30" height="30" alt=""></a>
 </div>
+
+## ⏰ _Recent Activities_
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

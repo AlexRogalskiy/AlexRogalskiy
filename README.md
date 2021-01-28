@@ -98,4 +98,9 @@
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/1) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+2. 🎉 Merged PR [#13](https://github.com/AlexRogalskiy/java4you/pull/13) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
+3. 🎉 Merged PR [#14](https://github.com/AlexRogalskiy/java4you/pull/14) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
+4. 🎉 Merged PR [#3](https://github.com/AlexRogalskiy/java4you/pull/3) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
+5. 🎉 Merged PR [#4](https://github.com/AlexRogalskiy/java4you/pull/4) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
 <!--END_SECTION:activity-->

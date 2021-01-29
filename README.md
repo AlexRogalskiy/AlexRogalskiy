@@ -98,9 +98,9 @@
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/1) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 🎉 Merged PR [#13](https://github.com/AlexRogalskiy/java4you/pull/13) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
-3. 🎉 Merged PR [#14](https://github.com/AlexRogalskiy/java4you/pull/14) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
-4. 🎉 Merged PR [#3](https://github.com/AlexRogalskiy/java4you/pull/3) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
-5. 🎉 Merged PR [#4](https://github.com/AlexRogalskiy/java4you/pull/4) in [AlexRogalskiy/java4you](https://github.com/AlexRogalskiy/java4you)
+1. 🎉 Merged PR [#12](https://github.com/AlexRogalskiy/java-patterns/pull/12) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+2. 🎉 Merged PR [#11](https://github.com/AlexRogalskiy/java-patterns/pull/11) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+3. 💪 Opened PR [#11](https://github.com/AlexRogalskiy/java-patterns/pull/11) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+4. 🎉 Merged PR [#10](https://github.com/AlexRogalskiy/java-patterns/pull/10) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+5. 🎉 Merged PR [#9](https://github.com/AlexRogalskiy/java-patterns/pull/9) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
 <!--END_SECTION:activity-->

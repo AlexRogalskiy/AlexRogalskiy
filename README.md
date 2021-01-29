@@ -95,6 +95,10 @@
     <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/sourcerer.svg" width="30" height="30" alt=""></a>
 </div>
 
+## 📖 _Quotes_
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming)
+
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->

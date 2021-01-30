@@ -113,9 +113,9 @@
         </a>
     </p>
     <p align="center">
-        Currently, the weather is: <b> -2°C, <i>light snow</i></b>
+        Currently, the weather is: <b> -3°C, <i>snow</i></b>
         </br>
-        Today, the sun rises at <b>09:16</b> and sets at <b>17:07</b>.
+        Today, the sun rises at <b>09:14</b> and sets at <b>17:10</b>.
     </p>
 </div>
 <!--views:photo-marker:end-->

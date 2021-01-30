@@ -23,7 +23,7 @@
   "homepage": "https://github.com/AlexRogalskiy/AlexRogalskiy",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
+    "mustache": "^4.1.0",
     "node-fetch": "^3.0.0-beta.9",
     "puppeteer": "^5.5.0",
     "replace-in-file": "^6.1.0",

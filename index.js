@@ -1,4 +1,6 @@
 require('dotenv').config();
+require('https').globalAgent.options.ca = require('ssl-root-cas').create();
+
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
@@ -48,14 +50,16 @@ async function setInstagramPosts() {
     DATA.img3 = instagramImages[2];
 }
 
-async function generateReadMe() {
+async function generateReadMePhotoBlock() {
     await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
         const options = {
+            allowEmptyPaths: true,
+            disableGlobs: true,
             files: 'README.md',
-            from: "<!--views:photo-marker:start-->(.*?)<!--views:photo-marker:end-->",
-            to: output,
+            from: /<!--views:photo-marker:start-->[\s\S]*?<!--views:photo-marker:end-->/gm,
+            to: '<!--views:photo-marker:start-->\n' + output + '\n<!--views:photo-marker:end-->'
         };
         replaceContent(options);
     });
@@ -63,33 +67,33 @@ async function generateReadMe() {
 
 async function replaceContent(options) {
     try {
-        const results = await replace.replaceInFile(options)
+        const results = await replace(options)
         console.log('Replacement results:', results);
     } catch (error) {
         console.error('Error occurred:', error);
     }
 }
 
-async function action() {
+async function runWorkflow() {
     /**
-     * Fetch Weather
+     * Fetching weather data
      */
     await setWeatherInformation();
 
     /**
-     * Get pictures
+     * Getting posted pictures
      */
     await setInstagramPosts();
 
     /**
-     * Generate README
+     * Generating README block by mustache template
      */
-    await generateReadMe();
+    await generateReadMePhotoBlock();
 
     /**
-     * Fermeture de la boutique 👋
+     * Destructuring puppeteer service
      */
     await puppeteerService.close();
 }
 
-action();
+runWorkflow();

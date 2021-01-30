@@ -99,6 +99,11 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming)
 
+## 🏝️ _Travel & Leisure_
+
+<!--views:photo-marker:start-->
+<!--views:photo-marker:end-->
+
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->

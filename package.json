@@ -1,0 +1,31 @@
+{
+  "name": "AlexRogalskiy",
+  "version": "1.0.0",
+  "description": "GitHub action to fetch data from external services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRogalskiy/AlexRogalskiy.git"
+  },
+  "keywords": [
+    "README.md",
+    "github-actions",
+    "javascript"
+  ],
+  "author": "Alexander Rogalskiys",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/AlexRogalskiy/AlexRogalskiy/issues"
+  },
+  "homepage": "https://github.com/AlexRogalskiy/AlexRogalskiy",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0",
+    "replace-in-file": "^6.1.0"
+  }
+}

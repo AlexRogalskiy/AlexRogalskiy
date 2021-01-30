@@ -102,6 +102,22 @@
 ## 🏝️ _Travel & Leisure_
 
 <!--views:photo-marker:start-->
+<div data="photo-maker">
+    <p align="center">
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;144340811_221817952651848_3217634361804151970_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;9MEy-1g4FdgAX-kUtAb&amp;tp&#x3D;1&amp;oh&#x3D;028bbadb49f2bb374ccc642fc10435e4&amp;oe&#x3D;6040CCA7" alt="" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;FFmGE9oOjXwAX8ZasHd&amp;tp&#x3D;1&amp;oh&#x3D;3097237c695a0b2f7d2a588a886db9e3&amp;oe&#x3D;6040545B" alt="" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;143331125_1116347758789390_4225283867819351740_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;nk3Ljatm2OMAX96UwCk&amp;tp&#x3D;1&amp;oh&#x3D;e5fc0e499c7095884186f3bdafbb7d2d&amp;oe&#x3D;6017AE7F" alt="" />
+    </p>
+    <p align="center">
+        Above are the last 3 pictures posted by
+        <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20" alt="Instagram" /> @visitpetersburg!
+        </a>
+    </p>
+    <p align="center">
+        Currently, the weather is: <b> -2°C, <i>light snow</i></b>
+        </br>
+        Today, the sun rises at <b>09:16</b> and sets at <b>17:07</b>.
+    </p>
+</div>
 <!--views:photo-marker:end-->
 
 ## ⏰ _Recent Activities_

@@ -102,9 +102,9 @@
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/AlexRogalskiy/java-patterns/pull/12) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-2. 🎉 Merged PR [#11](https://github.com/AlexRogalskiy/java-patterns/pull/11) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-3. 💪 Opened PR [#11](https://github.com/AlexRogalskiy/java-patterns/pull/11) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-4. 🎉 Merged PR [#10](https://github.com/AlexRogalskiy/java-patterns/pull/10) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-5. 🎉 Merged PR [#9](https://github.com/AlexRogalskiy/java-patterns/pull/9) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+1. 🎉 Merged PR [#9](https://github.com/AlexRogalskiy/kotlin-patterns/pull/9) in [AlexRogalskiy/kotlin-patterns](https://github.com/AlexRogalskiy/kotlin-patterns)
+2. 🎉 Merged PR [#10](https://github.com/AlexRogalskiy/scala-patterns/pull/10) in [AlexRogalskiy/scala-patterns](https://github.com/AlexRogalskiy/scala-patterns)
+3. 🎉 Merged PR [#23](https://github.com/AlexRogalskiy/java-patterns/pull/23) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+4. 🎉 Merged PR [#6](https://github.com/AlexRogalskiy/android-patterns/pull/6) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+5. 🎉 Merged PR [#5](https://github.com/AlexRogalskiy/android-patterns/pull/5) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
 <!--END_SECTION:activity-->

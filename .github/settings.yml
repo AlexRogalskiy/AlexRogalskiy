@@ -1,7 +1,7 @@
 # Repository settings set via https://github.com/probot/settings
 ---
 repository:
-  description: "AlexRogalskiy Profile Page"
+  description: "AlexRogalskiy"
   homepage: https://github.com/AlexRogalskiy/AlexRogalskiy
   topics: web, documents, visualization
   private: false

@@ -24,10 +24,20 @@
 
 ### 💡 _Github Review_
 
-[![Years Badge](https://badges.pufler.dev/years/AlexRogalskiy)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/AlexRogalskiy)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/AlexRogalskiy)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/AlexRogalskiy)](https://badges.pufler.dev)
+<div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center;">
+    <a href="https://badges.pufler.dev" target="_blank">
+        <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
+    </a>
+    <a href="https://badges.pufler.dev" target="_blank">
+        <img src="https://badges.pufler.dev/repos/AlexRogalskiy" alt="GitHub repos" />
+    </a>
+    <a href="https://badges.pufler.dev" target="_blank">
+        <img src="https://badges.pufler.dev/gists/AlexRogalskiy" alt="GitHub gists" />
+    </a>
+    <a href="https://badges.pufler.dev" target="_blank">
+        <img src="https://badges.pufler.dev/monthly/AlexRogalskiy" alt="GitHub monthly commits" />
+    </a>
+</div>
 
 ### ☀️ _Contributions Graph_
 
@@ -46,7 +56,9 @@
 ### ✨ _NPM Statistics_
 
 <div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
-    <a href="http://npm-stats.com/AlexRogalskiy" target="_blank"><i>NPM statistics</i></a>
+    <a href="http://npm-stats.com/AlexRogalskiy" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20statistics-on%20npm-CB0000.svg?logo=npm&style=for-the-badge" alt="NPM statistics" />
+    </a>
 </div>
 
 ### 🔥 _Profile Statistics_

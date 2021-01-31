@@ -129,8 +129,8 @@
     <p align="center" style="text-align:center;">
         Above are the latest pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram" />
-            <span style="font:italic bold 12px/30px Georgia, serif;"><i>@visitpetersburg!</i></span>
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
+            <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
     </p>
     <p align="center" style="text-align:center;">

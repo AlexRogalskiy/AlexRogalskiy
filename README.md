@@ -1,4 +1,5 @@
-#![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/banner/header.jpg)
+#
+![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/banner/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 ## 🗺️ _Languages_
@@ -49,12 +50,6 @@
 ### 🔥 _Github Statistics_
 
 [![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-<!--
-![GitHub page statistics](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?sanitize=true&url=https://github.com/AlexRogalskiy/hit-counter)
-<br />
--->
-
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
 ### 🎌 _Github Trophies_

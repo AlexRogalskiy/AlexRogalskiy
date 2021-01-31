@@ -10,17 +10,17 @@
 
 ### 📄 _General Statistics_
 
-<p align="center" style="text-align:center;">
-    <a href="https://github.com/alexrogalskiy?tab=followers">
+<div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center;">
+    <a href="https://github.com/alexrogalskiy?tab=followers" target="_blank">
         <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
     </a>
-    <a href="https://github.com/alexrogalskiy?tab=stars">
+    <a href="https://github.com/alexrogalskiy?tab=stars" target="_blank">
         <img src="https://img.shields.io/github/stars/AlexRogalskiy?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub stars"/>
     </a>
-    <a href="http://twitter.com/alexrogalskiy">
-        <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge"  alt="Twitter follows"/>
+    <a href="http://twitter.com/alexrogalskiy" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter follows"/>
     </a>
-</p>
+</div>
 
 ### 💡 _Github Review_
 
@@ -31,21 +31,23 @@
 
 ### ☀️ _Contributions Graph_
 
-<p align="center" style="text-align:center;">
+<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexrogalskiy&width=600" alt="CodersRank skills chart" />
     </a>
-</p>
+</div>
 
 ### 🎓 _Coding Skills_
 
-<p align="center" style="text-align:center;">
+<div id="statistics_coding_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
-</p>
+</div>
 
 ### ✨ _NPM Statistics_
 
-[Npm statistics](http://npm-stats.com/AlexRogalskiy)
+<div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
+    <a href="http://npm-stats.com/AlexRogalskiy" target="_blank"><i>NPM statistics</i></a>
+</div>
 
 ### 🔥 _Profile Statistics_
 
@@ -67,19 +69,19 @@
 
 ### 🔗 _Community Membership_
 
-<p align="center" style="text-align:center;">
+<div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://spectrum.chat/nullables-io" target="_blank">
         <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge" alt="Join the community on Spectrum" />
     </a>
     <a href="https://nullables-io.cloud.mattermost.com/main/channels/community" target="_blank">
         <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge" alt="Join the community on Mattermost" />
     </a>
-</p>
+</div>
 
 ### 🧲 _Social & Media_
 
-<p align="center" style="text-align:center;font:italic small-caps bold 12px/30px Georgia, serif;">Feel free to reach me out at:</p>
-<div align="center" style="text-align:center;">
+<div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center;">
+    <p align="center" style="text-align:center; font:italic bold 12px/30px Georgia, serif;"><i>Feel free to reach me out at:</i></p>
     <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
     <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/opencollective.svg" width="30" height="30" alt="OpenCollective"></a>&nbsp;
@@ -98,14 +100,14 @@
 
 ## 📖 _Quotes_
 
-<p align="center" style="text-align:center;">
-    <img width="100%" height="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
-</p>
+<div id="contacts_quotes_block_id" align="center" style="align-content: center">
+    <img width="600" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
+</div>
 
 ## 🏝️ _Travel & Leisure_
 
 <!--views:photo-marker:start-->
-<div data="photo-maker">
+<div id="contacts_travel_block_id" align="center" style="align-content: center; text-align:center;">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;144340811_221817952651848_3217634361804151970_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;YHwkRY-eQvUAX9tsjPN&amp;tp&#x3D;1&amp;oh&#x3D;12848cfd30bc0a6ffae43bbb46909d41&amp;oe&#x3D;6040CCA7" alt="L’amour pour toujours ❤️  Совсем скоро наступит один из самых романтических дней в году! 👩‍❤️‍💋‍👨  Хочешь устроить незабываемый сюрприз для своей второй половинки? ❤️❤️  Совместно с @dominastpetersburg мы решили разыграть для вас незабываемый уик-энд на двоих в одном из самых романтичных городов мира😍  Условия крайне простые😌  ✅Подпишись на @visitpetersburg и @dominastpetersburg  ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @dominastpetersburg  ✅ Напиши в комментариях чем прекрасен Петербург и отметь человека с которым хочешь провести незабываемый романтический уик-энд   Количество комментариев не ограничено. Чем больше комментариев, тем выше шансы на победу 😉  ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел  С любовью, ваш #visitpetersburg 💚💛🧡  Фото @lina_by_photo   #14февраля #розыгрыш #кудасходитьспб #питер #saintpetersburg #russia #путешествуй #открывайроссию" />
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;FFmGE9oOjXwAX_BsoMo&amp;tp&#x3D;1&amp;oh&#x3D;2518b0e8c153da250d7b7028facc7d58&amp;oe&#x3D;6040545B" alt="Привет всем✌🏼 и рады поделиться с вами новостью, что уже 30 января в 17:00 будет грандиозное чаепитие с самым большим брецелем в России 🥨   На маркете в @nikolskiye испекут 3 огромных брецеля, размер каждого составит 80 х 60 см, а вес около 6 кг. На сегодняшний день рекордные по размеру брецели в России не зарегистрированы🤤Единственный схожий рекорд зафиксирован в 2017 году в Тамбове — тогда был испечен самый большой в России крендель размером 71 х 57,5 см и весом 5 кг.   🥨Увидеть и попробовать гигантский брецель смогут все желающие!   Встречаемся на маркете @nikolskiye в 17:00!   Адрес: Садовая ул., 62  Фото @karisha222   #visitpetersburg #кудасходитьспб #выходныеспб #зима #выходные #туризм #путешествие #россия #Серебряное_ожерелье" />
@@ -115,8 +117,8 @@
     <p align="center" style="text-align:center;">
         Above are the latest pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" />
-            <span style="font:italic small-caps bold 12px/30px Georgia, serif;">@visitpetersburg!</span>
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram" />
+            <span style="font:italic bold 12px/30px Georgia, serif;"><i>@visitpetersburg!</i></span>
         </a>
     </p>
     <p align="center" style="text-align:center;">

@@ -113,7 +113,7 @@
         </a>
     </p>
     <p align="center">
-        Currently, the weather is: <b> -4°C, <i>light snow</i></b>
+        Currently, the weather is: <b> -3°C, <i>broken clouds</i></b>
         </br>
         Today, the sun rises at <b>09:14</b> and sets at <b>17:10</b>.
     </p>

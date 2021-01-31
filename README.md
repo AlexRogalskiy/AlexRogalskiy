@@ -47,9 +47,12 @@
 
 [Npm statistics](http://npm-stats.com/AlexRogalskiy)
 
-### 🔥 _Github Statistics_
+### 🔥 _Profile Statistics_
 
 [![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+### 🎉 _Github Statistics_
+
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
 
 ### 🎌 _Github Trophies_
@@ -64,12 +67,18 @@
 
 ### 🔗 _Community Membership_
 
-[![Join the community on Spectrum](https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge)](https://spectrum.chat/nullables-io)
-[![Join the community on Mattermost](https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge)](https://nullables-io.cloud.mattermost.com/main/channels/community)
+<p align="center" style="text-align:center;">
+    <a href="https://spectrum.chat/nullables-io" target="_blank">
+        <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge" alt="Join the community on Spectrum" />
+    </a>
+    <a href="https://nullables-io.cloud.mattermost.com/main/channels/community" target="_blank">
+        <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge" alt="Join the community on Mattermost" />
+    </a>
+</p>
 
 ### 🧲 _Social & Media_
 
-<p align="center" style="text-align:center;">Feel free to reach me out at:</p>
+<p align="center" style="text-align:center;font:italic small-caps bold 12px/30px Georgia, serif;">Feel free to reach me out at:</p>
 <div align="center" style="text-align:center;">
     <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
@@ -90,7 +99,7 @@
 ## 📖 _Quotes_
 
 <p align="center" style="text-align:center;">
-    <img width="400" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
+    <img width="100%" height="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
 </p>
 
 ## 🏝️ _Travel & Leisure_
@@ -106,7 +115,7 @@
     <p align="center" style="text-align:center;">
         Above are the latest pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" style="font:italic small-caps bold 12px/30px Georgia, serif;"/> @visitpetersburg!
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" /> @visitpetersburg!
         </a>
     </p>
     <p align="center" style="text-align:center;">

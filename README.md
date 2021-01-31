@@ -129,8 +129,8 @@
     <p align="center" style="text-align:center;">
         Above are the latest pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram" />
-            <span style="font:italic bold 12px/30px Georgia, serif;"><i>@visitpetersburg!</i></span>
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
+            <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
     </p>
     <p align="center" style="text-align:center;">
@@ -140,6 +140,16 @@
     </p>
 </div>
 <!--views:photo-marker:end-->
+
+## 🔣 _Recent News_
+
+<!--views:rss-marker:start--> 
+* [Another Google VR App Dies, Is Reborn as an Open-Source Project](https://www.reviewgeek.com/69277/google-open-sources-the-tilt-brush-vr-app-as-official-support-ends/) 
+* [Sonic the Hedgehog Loses His Iconic Voice After 10 Years](https://www.reviewgeek.com/69336/sonic-the-hedgehog-loses-his-iconic-voice-after-10-years/) 
+* [How to Add Headers or Footers in Google Sheets](https://www.howtogeek.com/708845/how-to-add-headers-or-footers-in-google-sheets/) 
+* [The 'Rocket League' Super Bowl Event Touches Down February 3rd](https://www.reviewgeek.com/69250/american-football-is-coming-to-rocket-league-next-week/) 
+* [How to Save a Microsoft PowerPoint Slide as an Image](https://www.howtogeek.com/707583/how-to-save-a-microsoft-powerpoint-slide-as-an-image/)
+<!--views:rss-marker:end-->
 
 ## ⏰ _Recent Activities_
 

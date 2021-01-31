@@ -141,6 +141,16 @@
 </div>
 <!--views:photo-marker:end-->
 
+## 🔣 _Recent news_
+
+<!--views:rss-marker:start--> 
+* [Another Google VR App Dies, Is Reborn as an Open-Source Project](https://www.reviewgeek.com/69277/google-open-sources-the-tilt-brush-vr-app-as-official-support-ends/) 
+* [Sonic the Hedgehog Loses His Iconic Voice After 10 Years](https://www.reviewgeek.com/69336/sonic-the-hedgehog-loses-his-iconic-voice-after-10-years/) 
+* [How to Add Headers or Footers in Google Sheets](https://www.howtogeek.com/708845/how-to-add-headers-or-footers-in-google-sheets/) 
+* [The 'Rocket League' Super Bowl Event Touches Down February 3rd](https://www.reviewgeek.com/69250/american-football-is-coming-to-rocket-league-next-week/) 
+* [How to Save a Microsoft PowerPoint Slide as an Image](https://www.howtogeek.com/707583/how-to-save-a-microsoft-powerpoint-slide-as-an-image/)
+<!--views:rss-marker:end-->
+
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->

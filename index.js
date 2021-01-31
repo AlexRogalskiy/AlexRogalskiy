@@ -26,7 +26,7 @@ let DATA = {
 
 async function updateWeatherInformation() {
     await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=Saint%20Petersburg&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?q=Saint%20Petersburg&appid=b7dceb21dc2af8512f1b27ca64e56fb7&units=metric`
     )
         .then(r => r.json())
         .then(r => {

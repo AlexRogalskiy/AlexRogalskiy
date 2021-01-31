@@ -1,4 +1,4 @@
-![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/banner/header.jpg)
+#![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/banner/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 ## 🗺️ _Languages_
@@ -10,15 +10,15 @@
 ### 📄 _General Statistics_
 
 <p align="center" style="text-align:center;">
-	<a href="https://github.com/alexrogalskiy?tab=followers">
-		<img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
-	</a>
-	<a href="https://github.com/alexrogalskiy?tab=stars">
-		<img src="https://img.shields.io/github/stars/AlexRogalskiy?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub stars"/>
-	</a>
-	<a href="http://twitter.com/alexrogalskiy">
-		<img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge"  alt="Twitter follows"/>
-	</a>
+    <a href="https://github.com/alexrogalskiy?tab=followers">
+        <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/alexrogalskiy?tab=stars">
+        <img src="https://img.shields.io/github/stars/AlexRogalskiy?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub stars"/>
+    </a>
+    <a href="http://twitter.com/alexrogalskiy">
+        <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge"  alt="Twitter follows"/>
+    </a>
 </p>
 
 ### 💡 _Github Review_
@@ -31,15 +31,15 @@
 ### ☀️ _Contributions Graph_
 
 <p align="center" style="text-align:center;">
-	<a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
-		<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexrogalskiy&width=600" alt="CodersRank skills chart" />
-	</a>
+    <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexrogalskiy&width=600" alt="CodersRank skills chart" />
+    </a>
 </p>
 
 ### 🎓 _Coding Skills_
 
 <p align="center" style="text-align:center;">
-	<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </p>
 
 ### ✨ _NPM Statistics_
@@ -74,10 +74,7 @@
 
 ### 🧲 _Social & Media_
 
-<p align="center" style="text-align:center;">
-	Feel free to reach me out at:
-</p>
-	
+<p align="center" style="text-align:center;">Feel free to reach me out at:</p>
 <div align="center" style="text-align:center;">
     <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
@@ -97,25 +94,30 @@
 
 ## 📖 _Quotes_
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming)
+<p align="center" style="text-align:center;">
+    <img width="400" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
+</p>
 
 ## 🏝️ _Travel & Leisure_
 
 <!--views:photo-marker:start-->
 <div data="photo-maker">
-    <p align="center">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;144340811_221817952651848_3217634361804151970_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;9MEy-1g4FdgAX-kUtAb&amp;tp&#x3D;1&amp;oh&#x3D;028bbadb49f2bb374ccc642fc10435e4&amp;oe&#x3D;6040CCA7" alt="L’amour pour toujours ❤️  Совсем скоро наступит один из самых романтических дней в году! 👩‍❤️‍💋‍👨  Хочешь устроить незабываемый сюрприз для своей второй половинки? ❤️❤️  Совместно с @dominastpetersburg мы решили разыграть для вас незабываемый уик-энд на двоих в одном из самых романтичных городов мира😍  Условия крайне простые😌  ✅Подпишись на @visitpetersburg и @dominastpetersburg  ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @dominastpetersburg  ✅ Напиши в комментариях чем прекрасен Петербург и отметь человека с которым хочешь провести незабываемый романтический уик-энд   Количество комментариев не ограничено. Чем больше комментариев, тем выше шансы на победу 😉  ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел  С любовью, ваш #visitpetersburg 💚💛🧡  Фото @lina_by_photo   #14февраля #розыгрыш #кудасходитьспб #питер #saintpetersburg #russia #путешествуй #открывайроссию" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;FFmGE9oOjXwAX8ZasHd&amp;tp&#x3D;1&amp;oh&#x3D;3097237c695a0b2f7d2a588a886db9e3&amp;oe&#x3D;6040545B" alt="Привет всем✌🏼 и рады поделиться с вами новостью, что уже 30 января в 17:00 будет грандиозное чаепитие с самым большим брецелем в России 🥨   На маркете в @nikolskiye испекут 3 огромных брецеля, размер каждого составит 80 х 60 см, а вес около 6 кг. На сегодняшний день рекордные по размеру брецели в России не зарегистрированы🤤Единственный схожий рекорд зафиксирован в 2017 году в Тамбове — тогда был испечен самый большой в России крендель размером 71 х 57,5 см и весом 5 кг.   🥨Увидеть и попробовать гигантский брецель смогут все желающие!   Встречаемся на маркете @nikolskiye в 17:00!   Адрес: Садовая ул., 62  Фото @karisha222   #visitpetersburg #кудасходитьспб #выходныеспб #зима #выходные #туризм #путешествие #россия #Серебряное_ожерелье" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;143331125_1116347758789390_4225283867819351740_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;nk3Ljatm2OMAX96UwCk&amp;tp&#x3D;1&amp;oh&#x3D;e5fc0e499c7095884186f3bdafbb7d2d&amp;oe&#x3D;6017AE7F" alt="27 января 1944 года – день полного освобождения Ленинграда от фашистской блокады 🎇   27th of January - the Day of a Complete Liberation  of Leningrad from the Siege🎇  Photo by @_marri.g_   #помнимгордимся" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.172.1440.1440a&#x2F;s640x640&#x2F;141134624_867926440631665_3383728040276700951_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;zOZYcJpyS04AX98BF-r&amp;tp&#x3D;1&amp;oh&#x3D;4329c3a17cbcb6a88c594dd5a25ab10b&amp;oe&#x3D;6040EA7C" alt="Эрмитаж сделал студентам подарок в Татьянин день 🔥  С 26 января студенты смогут бесплатно 🆓 попасть в Главный штаб Эрмитажа.   🗓 Посетить музей можно будет со вторника по воскресенье. Сеансы пройдут в 12.00, 13.00, 14.00, 15.00, 16.00 и в 17.00. По пятницам будет действовать дополнительный сеанс в 18.00.  ‼️Количество билетов на каждый сеанс ограничено. Длительность сеанса — два часа.   📲 Для получения бесплатного билета лучше всего оформить бронирование на сайте Эрмитажа.   ✅  В день посещения, перед началом сеанса, необходимо обменять электронный заказ на бесплатный входной билет в кассах Главного Штаба. Для этого необходимо предъявить кассиру электронный заказ, документ🛂, удостоверяющий личность, и действующий студенческий билет или служебное удостоверение для курсантов.  📸  @vavooli   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
+    <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;144340811_221817952651848_3217634361804151970_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;9MEy-1g4FdgAX-kUtAb&amp;tp&#x3D;1&amp;oh&#x3D;028bbadb49f2bb374ccc642fc10435e4&amp;oe&#x3D;6040CCA7" alt="L’amour pour toujours ❤️  Совсем скоро наступит один из самых романтических дней в году! 👩‍❤️‍💋‍👨  Хочешь устроить незабываемый сюрприз для своей второй половинки? ❤️❤️  Совместно с @dominastpetersburg мы решили разыграть для вас незабываемый уик-энд на двоих в одном из самых романтичных городов мира😍  Условия крайне простые😌  ✅Подпишись на @visitpetersburg и @dominastpetersburg  ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @dominastpetersburg  ✅ Напиши в комментариях чем прекрасен Петербург и отметь человека с которым хочешь провести незабываемый романтический уик-энд   Количество комментариев не ограничено. Чем больше комментариев, тем выше шансы на победу 😉  ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел  С любовью, ваш #visitpetersburg 💚💛🧡  Фото @lina_by_photo   #14февраля #розыгрыш #кудасходитьспб #питер #saintpetersburg #russia #путешествуй #открывайроссию" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;FFmGE9oOjXwAX8ZasHd&amp;tp&#x3D;1&amp;oh&#x3D;3097237c695a0b2f7d2a588a886db9e3&amp;oe&#x3D;6040545B" alt="Привет всем✌🏼 и рады поделиться с вами новостью, что уже 30 января в 17:00 будет грандиозное чаепитие с самым большим брецелем в России 🥨   На маркете в @nikolskiye испекут 3 огромных брецеля, размер каждого составит 80 х 60 см, а вес около 6 кг. На сегодняшний день рекордные по размеру брецели в России не зарегистрированы🤤Единственный схожий рекорд зафиксирован в 2017 году в Тамбове — тогда был испечен самый большой в России крендель размером 71 х 57,5 см и весом 5 кг.   🥨Увидеть и попробовать гигантский брецель смогут все желающие!   Встречаемся на маркете @nikolskiye в 17:00!   Адрес: Садовая ул., 62  Фото @karisha222   #visitpetersburg #кудасходитьспб #выходныеспб #зима #выходные #туризм #путешествие #россия #Серебряное_ожерелье" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;143331125_1116347758789390_4225283867819351740_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;nk3Ljatm2OMAX96UwCk&amp;tp&#x3D;1&amp;oh&#x3D;e5fc0e499c7095884186f3bdafbb7d2d&amp;oe&#x3D;6017AE7F" alt="27 января 1944 года – день полного освобождения Ленинграда от фашистской блокады 🎇   27th of January - the Day of a Complete Liberation  of Leningrad from the Siege🎇  Photo by @_marri.g_   #помнимгордимся" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.172.1440.1440a&#x2F;s640x640&#x2F;141134624_867926440631665_3383728040276700951_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;zOZYcJpyS04AX98BF-r&amp;tp&#x3D;1&amp;oh&#x3D;4329c3a17cbcb6a88c594dd5a25ab10b&amp;oe&#x3D;6040EA7C" alt="Эрмитаж сделал студентам подарок в Татьянин день 🔥  С 26 января студенты смогут бесплатно 🆓 попасть в Главный штаб Эрмитажа.   🗓 Посетить музей можно будет со вторника по воскресенье. Сеансы пройдут в 12.00, 13.00, 14.00, 15.00, 16.00 и в 17.00. По пятницам будет действовать дополнительный сеанс в 18.00.  ‼️Количество билетов на каждый сеанс ограничено. Длительность сеанса — два часа.   📲 Для получения бесплатного билета лучше всего оформить бронирование на сайте Эрмитажа.   ✅  В день посещения, перед началом сеанса, необходимо обменять электронный заказ на бесплатный входной билет в кассах Главного Штаба. Для этого необходимо предъявить кассиру электронный заказ, документ🛂, удостоверяющий личность, и действующий студенческий билет или служебное удостоверение для курсантов.  📸  @vavooli   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
     </p>
-    <p align="center">
+    <p align="center" style="text-align:center;">
         Above are the latest pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" /> @visitpetersburg!
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" style="font:italic small-caps bold 12px/30px Georgia, serif;"/> @visitpetersburg!
         </a>
     </p>
-    <p align="center">
-        Currently, the weather is: <b> -3°C, <i>light snow</i></b>
+    <p align="center" style="text-align:center;">
+        Currently, the weather in Saint-Petersburg is: <b> -4°C, <i>light snow</i></b>
         </br>
-        Today, the sun rises at <b>09:14</b> and sets at <b>17:10</b>.
+        Today, the Sun rises at <b>09:14</b> and sets at <b>17:10</b>.
     </p>
 </div>
 <!--views:photo-marker:end-->

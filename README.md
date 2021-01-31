@@ -141,7 +141,7 @@
 </div>
 <!--views:photo-marker:end-->
 
-## 🔣 _Recent news_
+## 🔣 _Recent News_
 
 <!--views:rss-marker:start--> 
 * [Another Google VR App Dies, Is Reborn as an Open-Source Project](https://www.reviewgeek.com/69277/google-open-sources-the-tilt-brush-vr-app-as-official-support-ends/) 

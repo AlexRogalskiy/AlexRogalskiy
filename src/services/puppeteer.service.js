@@ -44,59 +44,29 @@ class PuppeteerService {
     /**
      * Returns latest posts from Instagram
      * @param {string} acc Account to crawl
-     * @param {number} n Qty of image to fetch
+     * @param {number} num Qty of image to fetch
      */
-    async getLatestInstagramPostsFromAccount(acc, n) {
+    async getLatestInstagramPostsFromAccount(acc, num) {
         const page = `https://www.picuki.com/profile/${acc}`;
         await this.goToPage(page);
 
         try {
             let previousHeight = await this.#page.evaluate(`document.body.scrollHeight`);
             await this.#page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-            // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+            await this.#page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
             await this.#page.waitFor(1000);
 
             const nodes = await this.#page.evaluate(() => {
                 const images = document.querySelectorAll(`.post-image`);
-                return [].map.call(images, img => img.src);
+                return [].map.call(images, img => [{src: img.src, alt: img.alt}]);
             });
 
-            return nodes.slice(0, 3);
+            return nodes.slice(0, num);
         } catch (error) {
             console.log('Error', error);
             process.exit();
         }
     }
-
-    // async getLatestMediumPublications(acc, n) {
-    //   const page = `https://medium.com/${acc}`;
-
-    //   await this.goToPage(page);
-
-    //   console.log('PP', page);
-    //   let previousHeight;
-
-    //   try {
-    //     previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-    //     console.log('MED1');
-    //     await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-    //     console.log('MED2', previousHeight);
-    //     await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-    //     console.log('MED3');
-    //     await this.page.waitFor(1000);
-    //     console.log('MED4');
-
-    //     const nodes = await this.page.evaluate(() => {
-    //       const posts = document.querySelectorAll('.fs.ft.fu.fv.fw.z.c');
-    //       return [].map.call(posts);
-    //     });
-    //     console.log('POSTS', nodes);
-    //     return;
-    //   } catch (error) {
-    //     console.log('Error', error);
-    //     process.exit();
-    //   }
-    // }
 }
 
 const puppeteerService = new PuppeteerService();

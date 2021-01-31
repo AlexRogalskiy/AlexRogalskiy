@@ -48,9 +48,10 @@ async function updateWeatherInformation() {
 
 async function updateInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(SERVICE_PROPS.INSTAGRAM.tag, SERVICE_PROPS.INSTAGRAM.number);
-    DATA.img1 = instagramImages[0];
-    DATA.img2 = instagramImages[1];
-    DATA.img3 = instagramImages[2];
+    for (let i = 1; i <= instagramImages.length; i++) {
+        DATA[`img${i}_src`] = instagramImages[i-1][0].src;
+        DATA[`img${i}_alt`] = instagramImages[i-1][0].alt.replace(/(?:\r\n|\r|\n)/g, ' ')
+    }
 }
 
 async function updatePhotoView() {

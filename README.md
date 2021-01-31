@@ -104,15 +104,15 @@
         <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.172.1440.1440a&#x2F;s640x640&#x2F;141134624_867926440631665_3383728040276700951_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;zOZYcJpyS04AX98BF-r&amp;tp&#x3D;1&amp;oh&#x3D;4329c3a17cbcb6a88c594dd5a25ab10b&amp;oe&#x3D;6040EA7C" alt="Эрмитаж сделал студентам подарок в Татьянин день 🔥  С 26 января студенты смогут бесплатно 🆓 попасть в Главный штаб Эрмитажа.   🗓 Посетить музей можно будет со вторника по воскресенье. Сеансы пройдут в 12.00, 13.00, 14.00, 15.00, 16.00 и в 17.00. По пятницам будет действовать дополнительный сеанс в 18.00.  ‼️Количество билетов на каждый сеанс ограничено. Длительность сеанса — два часа.   📲 Для получения бесплатного билета лучше всего оформить бронирование на сайте Эрмитажа.   ✅  В день посещения, перед началом сеанса, необходимо обменять электронный заказ на бесплатный входной билет в кассах Главного Штаба. Для этого необходимо предъявить кассиру электронный заказ, документ🛂, удостоверяющий личность, и действующий студенческий билет или служебное удостоверение для курсантов.  📸  @vavooli   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
     </p>
     <p align="center" style="text-align:center;">
-        Above are the latest pictures posted by
+        Above are the last 3 pictures posted by
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
-            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instagram.svg" width="20" height="20" alt="Instagram" style="font:italic small-caps bold 12px/30px Georgia, serif;"/> @visitpetersburg!
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20" alt="Instagram" style="font:italic small-caps bold 12px/30px Georgia, serif;"/> @visitpetersburg!
         </a>
     </p>
     <p align="center" style="text-align:center;">
-        Currently, the weather in Saint-Petersburg is: <b> -4°C, <i>light snow</i></b>
+        Currently, the weather is: <b> -4°C, <i>light snow</i></b>
         </br>
-        Today, the Sun rises at <b>09:14</b> and sets at <b>17:10</b>.
+        Today, the sun rises at <b>09:14</b> and sets at <b>17:10</b>.
     </p>
 </div>
 <!--views:photo-marker:end-->

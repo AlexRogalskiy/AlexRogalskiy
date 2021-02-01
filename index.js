@@ -31,8 +31,15 @@ async function updateWeatherInformation() {
         .then(r => r.json())
         .then(r => {
             DATA.city_temperature = Math.round(r.main.temp);
+            DATA.city_pressure = Math.round(r.main.pressure);
+            DATA.city_humidity = Math.round(r.main.humidity);
+
+            DATA.city_clouds = Math.round(r.clouds.all);
+            DATA.city_wind = Math.round(r.wind.speed);
+
             DATA.city_weather = r.weather[0].description;
             DATA.city_weather_icon = r.weather[0].icon;
+
             DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
                 hour: '2-digit',
                 minute: '2-digit',

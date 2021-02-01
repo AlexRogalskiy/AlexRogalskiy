@@ -113,8 +113,13 @@
 ## 📖 _Quotes_
 
 <div id="contacts_quotes_block_id" align="center" style="align-content: center">
+    <img width="100%" height="70%" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+</div>
+<!--
+<div id="contacts_quotes_block_id" align="center" style="align-content: center">
     <img width="600" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
 </div>
+-->
 
 ## 🏝️ _Travel & Leisure_
 

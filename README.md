@@ -30,6 +30,9 @@
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
     </a>-->
+    <a href="https://gitwar.herokuapp.com/" target="_blank">
+        <img src="https://gitwar.herokuapp.com/badge?username=AlexRogalskiy&color=green" alt="GitWar score" />
+    </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/repos/AlexRogalskiy" alt="GitHub repos" />
     </a>

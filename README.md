@@ -12,7 +12,7 @@
 
 ### 📄 _General_
 
-<div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center;margin: 20px 20px">
     <a href="https://github.com/alexrogalskiy?tab=followers" target="_blank">
         <img src="https://img.shields.io/github/followers/alexrogalskiy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
     </a>
@@ -26,7 +26,7 @@
 
 ### 💡 _Review_
 
-<div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center;margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
     </a>-->
@@ -42,14 +42,15 @@
     <a href="https://hits.seeyoufarm.com" target="_blank">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="GitHub page hits" />
     </a>
-    <p align="center" style="align-content: center; text-align:center;">
-        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub statistics" />
-        <br />
-        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="GitHub repos per language statistics" />
-        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/2-most-commit-language.svg" alt="GitHub repos most commit language statistics" />
-        <br />
-        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub general statistics" />
-    </p>
+</div>
+
+<div id="statistics_review_detailed_block_id" align="center" style="align-content: center; text-align:center;">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub statistics" />
+    <br />
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="GitHub repos per language statistics" />
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/2-most-commit-language.svg" alt="GitHub repos most commit language statistics" />
+    <br />
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub general statistics" />
 </div>
 
 ### ☀ _Contributions_
@@ -76,7 +77,7 @@
 
 ### 🎉 _Github Profile_
 
-<div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center;margin: 20px 20px">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
 </div>
 
@@ -104,18 +105,18 @@
 
 ### 🔗 _Community_
 
-<div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center;margin: 20px 20px">
     <a href="https://spectrum.chat/nullables-io" target="_blank">
-        <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge" alt="Join the community on Spectrum" />
+        <img src="https://img.shields.io/badge/join%20the%20community-on%20spectrum-7116FB.svg?logo=spectrum&style=for-the-badge" alt="Join the community on Spectrum" />
     </a>
     <a href="https://nullables-io.cloud.mattermost.com/main/channels/community" target="_blank">
-        <img width="200" src="https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge" alt="Join the community on Mattermost" />
+        <img src="https://img.shields.io/badge/join%20the%20community-on%20mattermost-1875F0.svg?logo=mattermost&style=for-the-badge" alt="Join the community on Mattermost" />
     </a>
 </div>
 
 ### 🧲 _Social & Media_
 
-<div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center;margin: 20px 20px">
     <p align="center" style="text-align:center; font:italic bold 12px/30px Georgia, serif;"><i>Feel free to reach me out at:</i></p>
     <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
     <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
@@ -136,7 +137,7 @@
 ## 📖 _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img height="250px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img height="220px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">

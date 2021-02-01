@@ -42,6 +42,14 @@
     <a href="https://hits.seeyoufarm.com" target="_blank">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="GitHub page hits" />
     </a>
+    <p align="center" style="align-content: center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub statistics" />
+        <br />
+        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="GitHub repos per language statistics" />
+        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/2-most-commit-language.svg" alt="GitHub repos most commit language statistics" />
+        <br />
+        <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub general statistics" />
+    </p>
 </div>
 
 ### ☀ _Contributions_
@@ -70,6 +78,12 @@
 
 <div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
+</div>
+
+<div id="statistics_github_summary_block_id" align="center" style="align-content: center; text-align:center;">
+    <a href="https://profile-summary-for-github.com/user/AlexRogalskiy" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20statistics-on%20github-7CBAE6.svg?logo=github&style=for-the-badge" alt="GitHub profile summary" />
+    </a>
 </div>
 
 ### 🎌 _Github Trophies_
@@ -149,7 +163,7 @@
     </p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is: <b> -3°C, <i>light snow</i></b>
-        </br>
+        <br />
         Today, the sun rises at <b>09:12</b> and sets at <b>17:12</b>.
     </p>
 </div>

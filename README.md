@@ -5,12 +5,12 @@
 ## 🗺️ _Languages_
 
 <div id="languages_block_id" align="center" style="align-content: center; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" />
 </div>
 
 ## 🧮 _Statistics_
 
-### 📄 _General Statistics_
+### 📄 _General_
 
 <div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://github.com/alexrogalskiy?tab=followers" target="_blank">
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-### 💡 _Github Review_
+### 💡 _Review_
 
 <div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center;">
     <!--<a href="https://badges.pufler.dev" target="_blank">
@@ -44,7 +44,7 @@
     </a>
 </div>
 
-### ☀ _Contributions Graph_
+### ☀ _Contributions_
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -58,7 +58,7 @@
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </div>
 
-### ✨ _NPM Statistics_
+### ✨ _NPM_
 
 <div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
     <a href="http://npm-stats.com/AlexRogalskiy" target="_blank">
@@ -66,7 +66,7 @@
     </a>
 </div>
 
-### 🎉 _Github Statistics_
+### 🎉 _Github Profile_
 
 <div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
@@ -88,7 +88,7 @@
 
 ## 📮 _Contacts_
 
-### 🔗 _Community Membership_
+### 🔗 _Community_
 
 <div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://spectrum.chat/nullables-io" target="_blank">

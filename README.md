@@ -162,8 +162,8 @@
         </a>
     </p>
     <p align="center" style="text-align:center;">
-        Currently, the weather in Saint-Petersburg is: <b> -3°C, <i>light snow</i></b>
-        <br />
+        Currently, the weather in Saint-Petersburg is: <b> -3°C, <i>broken clouds</i></b>
+        </br>
         Today, the sun rises at <b>09:12</b> and sets at <b>17:12</b>.
     </p>
 </div>

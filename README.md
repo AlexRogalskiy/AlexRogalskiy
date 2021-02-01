@@ -27,18 +27,18 @@
 ### 💡 _Github Review_
 
 <div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center;">
-    <a href="https://badges.pufler.dev" target="_blank">
+    <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
-    </a>
+    </a>-->
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/repos/AlexRogalskiy" alt="GitHub repos" />
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/gists/AlexRogalskiy" alt="GitHub gists" />
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/monthly/AlexRogalskiy" alt="GitHub monthly commits" />
-    </a>
+    </a>-->
     <a href="https://hits.seeyoufarm.com" target="_blank">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="GitHub page hits" />
     </a>

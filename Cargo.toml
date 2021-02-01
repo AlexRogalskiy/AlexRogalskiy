@@ -11,4 +11,4 @@ path = "rss/main.rs"
 [dependencies]
 regex = "1.4.3"
 chrono = "0.4.19"
-rss = { version = "1.5", features = ["from_url"] }
+rss = { version = "1.10", features = ["from_url"] }

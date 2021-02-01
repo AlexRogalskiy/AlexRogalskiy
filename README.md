@@ -30,6 +30,9 @@
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
     </a>-->
+    <a href="https://gitwar.herokuapp.com/" target="_blank">
+        <img src="https://gitwar.herokuapp.com/badge?username=AlexRogalskiy&color=green" alt="GitWar score" />
+    </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/repos/AlexRogalskiy" alt="GitHub repos" />
     </a>
@@ -165,9 +168,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-3°C, <i>light snow</i>, humidity: 80, pressure: 1002, wind: 3 (m/s), cloudy: 75</b>
+        <b>-4°C (<i>snow</i>), humidity: 80%, pressure: 1004 (mbar), wind: 3 (m/s), cloudy: 40%</b>
         <br />
-        Today, the sun rises at <b>09:12</b> and sets at <b>17:12</b>.
+        Today, the sun rises at <b>09:09 am</b> and sets at <b>17:15 pm</b>.
     </p>
 </div>
 <!--views:photo-marker:end-->

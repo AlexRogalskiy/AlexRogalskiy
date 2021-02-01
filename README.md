@@ -67,7 +67,7 @@
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </div>
 
-### ✨ _NPM_
+### ✨ _Node Package Manager_
 
 <div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
     <a href="http://npm-stats.com/AlexRogalskiy" target="_blank">
@@ -137,7 +137,7 @@
 ## 📖 _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img height="220px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img height="250px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">

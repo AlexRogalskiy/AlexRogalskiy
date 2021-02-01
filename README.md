@@ -4,7 +4,9 @@
 
 ## 🗺️ _Languages_
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact)
+<div id="languages_block_id" align="center" style="align-content: center; text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</div>
 
 ## 🧮 _Statistics_
 
@@ -37,9 +39,12 @@
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/monthly/AlexRogalskiy" alt="GitHub monthly commits" />
     </a>
+    <a href="https://hits.seeyoufarm.com" target="_blank">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="GitHub page hits" />
+    </a>
 </div>
 
-### ☀️ _Contributions Graph_
+### ☀ _Contributions Graph_
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -49,7 +54,7 @@
 
 ### 🎓 _Coding Skills_
 
-<div id="statistics_coding_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="statistics_skills_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </div>
 
@@ -61,21 +66,25 @@
     </a>
 </div>
 
-### 🔥 _Profile Statistics_
-
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ### 🎉 _Github Statistics_
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true)
+<div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
+</div>
 
 ### 🎌 _Github Trophies_
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alexrogalskiy)
+<div id="statistics_trophies_block_id" align="center" style="align-content: center; text-align:center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=alexrogalskiy" alt="GitHub trophies" />
+</div>
 
 ### 🧪 _Coding Competitions_
 
-[![Codewars Badge](https://www.codewars.com/users/AlexRogalskiy/badges/micro)](https://www.codewars.com/users/AlexRogalskiy)
+<div id="statistics_competitions_block_id" align="center" style="align-content: center; text-align:center;">
+    <a href="https://www.codewars.com/users/AlexRogalskiy" target="_blank">
+        <img src="https://www.codewars.com/users/AlexRogalskiy/badges/micro" alt="Codewars" />
+    </a>
+</div>
 
 ## 📮 _Contacts_
 
@@ -113,7 +122,7 @@
 ## 📖 _Quotes_
 
 <div id="contacts_quotes_block_id" align="center" style="align-content: center">
-    <img width="100%" height="70%" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="100%" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="contacts_quotes_block_id" align="center" style="align-content: center">

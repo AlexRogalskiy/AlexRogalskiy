@@ -26,7 +26,16 @@
 
 ### 💡 _Review_
 
-<div id="statistics_review_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+<div id="statistics_review_summary_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://img.shields.io/badge/Account%20age-{{ ACCOUNT_AGE }}-CB0000.svg?logo=github" alt="Total account ages" />
+    <img src="https://img.shields.io/badge/Issues-{{ ISSUES }}-CB0000.svg?logo=github" alt="Total issues" />
+    <img src="https://img.shields.io/badge/Commits-{{ COMMITS }}-CB0000.svg?logo=github" alt="Total commits" />
+    <img src="https://img.shields.io/badge/Pull%20requests-{{ PULL_REQUESTS }}-CB0000.svg?logo=github" alt="Total pull requests" />
+    <img src="https://img.shields.io/badge/Repos%20contributions-{{ REPOSITORIES_CONTRIBUTED_TO }}-CB0000.svg?logo=github" alt="Total repos contributions" />
+    <img src="https://img.shields.io/badge/Stars-{{ STARS }}-CB0000.svg?logo=github" alt="Total stars" />
+</div>
+
+<div id="statistics_review_badges_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
     </a>-->
@@ -47,7 +56,7 @@
     </a>
 </div>
 
-<div id="statistics_review_detailed_block_id" align="center" style="align-content: center; text-align:center;">
+<div id="statistics_review_cards_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub statistics" />
     <br />
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="GitHub repos per language statistics" />

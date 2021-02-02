@@ -1,3 +1,5 @@
+'use strict';
+
 const puppeteer = require('puppeteer');
 
 class PuppeteerService {

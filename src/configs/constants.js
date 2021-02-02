@@ -1,3 +1,5 @@
+'use strict';
+
 // configuration properties
 const CONFIG_PROPS = {
   "locale": "en-GB",

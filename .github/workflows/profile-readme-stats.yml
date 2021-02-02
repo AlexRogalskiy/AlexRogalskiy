@@ -30,7 +30,8 @@ jobs:
 
       - name: Find and Replace
         run: |
-          sed -i -E "s/<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->/${{ steps.file_data.outputs.current_data }}/" README.md
+          value=$(echo "${{ steps.file_data.outputs.current_data }}" | sed 's///\//g; s/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g')
+          sed -i -E "s/<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->/$value/" README.md
         shell: bash
 
       #      - name: Find and Replace

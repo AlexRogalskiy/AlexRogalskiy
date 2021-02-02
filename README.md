@@ -164,7 +164,7 @@
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
-    </p>photo-travel
+    </p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />

@@ -164,11 +164,11 @@
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
-    </p>photo-travel
+    </p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-3°C (<i>light snow</i>), humidity: 86%, pressure: 1011 (mbar), wind: 3 (m/s), cloudy: 75%</b>
+        <b>-3°C (<i>light snow</i>), humidity: 93%, pressure: 1010 (mbar), wind: 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the sun rises at <b>09:09 am</b> and sets at <b>17:15 pm</b>.
     </p>
@@ -178,19 +178,19 @@
 ## 🔣 _Recent News_
 
 <!--views:rss-marker:start--> 
-* [Another Google VR App Dies, Is Reborn as an Open-Source Project](https://www.reviewgeek.com/69277/google-open-sources-the-tilt-brush-vr-app-as-official-support-ends/) 
-* [Sonic the Hedgehog Loses His Iconic Voice After 10 Years](https://www.reviewgeek.com/69336/sonic-the-hedgehog-loses-his-iconic-voice-after-10-years/) 
-* [How to Add Headers or Footers in Google Sheets](https://www.howtogeek.com/708845/how-to-add-headers-or-footers-in-google-sheets/) 
-* [The 'Rocket League' Super Bowl Event Touches Down February 3rd](https://www.reviewgeek.com/69250/american-football-is-coming-to-rocket-league-next-week/) 
-* [How to Save a Microsoft PowerPoint Slide as an Image](https://www.howtogeek.com/707583/how-to-save-a-microsoft-powerpoint-slide-as-an-image/)
+* [Stadia Game Studio is Dead, Stadia Game Streaming Lives On (For Now)](https://www.reviewgeek.com/69543/stadia-game-studio-is-dead-stadia-game-streaming-lives-on-for-now/) 
+* [Apple's Face ID Will Soon Work With Masks---If You Own an Apple Watch](https://www.reviewgeek.com/69537/apples-face-id-will-soon-work-with-masks-if-you-own-an-apple-watch/) 
+* [PSA: AirPods Max Battery Drain Is Real---Don't Buy Them (For Now)](https://www.reviewgeek.com/69492/psa-airpods-max-battery-drain-is-real-dont-buy-them-for-now/) 
+* [Farewell to the Pixel Slate, the Tablet Even Google Forgot](https://www.reviewgeek.com/69470/farewell-to-the-pixel-slate-the-tablet-even-google-forgot/) 
+* [ExpressVPN's New Lightway Protocol Promises Speeds That Don't Suck](https://www.reviewgeek.com/69457/expressvpns-new-lightway-protocol-promises-speeds-that-dont-suck/)
 <!--views:rss-marker:end-->
 
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/35) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 🎉 Merged PR [#34](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/34) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 💪 Opened PR [#34](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/34) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#19](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/19) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 🎉 Merged PR [#26](https://github.com/AlexRogalskiy/kotlin-patterns/pull/26) in [AlexRogalskiy/kotlin-patterns](https://github.com/AlexRogalskiy/kotlin-patterns)
+1. 🎉 Merged PR [#54](https://github.com/AlexRogalskiy/java-patterns/pull/54) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+2. 🎉 Merged PR [#27](https://github.com/AlexRogalskiy/android-patterns/pull/27) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+3. 💪 Opened PR [#27](https://github.com/AlexRogalskiy/android-patterns/pull/27) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+4. 🎉 Merged PR [#26](https://github.com/AlexRogalskiy/android-patterns/pull/26) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+5. 🎉 Merged PR [#6](https://github.com/AlexRogalskiy/javascript-patterns/pull/6) in [AlexRogalskiy/javascript-patterns](https://github.com/AlexRogalskiy/javascript-patterns)
 <!--END_SECTION:activity-->

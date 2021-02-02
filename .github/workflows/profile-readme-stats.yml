@@ -32,13 +32,11 @@ jobs:
       #          echo ::set-output name=current_data::${template_result}
       #        shell: bash
 
-      - name: Install global dependencies
-        run: |
-          npm i -g replace-in-file
-
       - name: Find and Replace
         run: |
-          node ./.github/scripts/transform-commands/replace_data.js
+          cd ./.github/scripts/transform-commands/
+          npm install
+          node replace_data.js
 
       #      - name: Find and Replace
       #        run: |

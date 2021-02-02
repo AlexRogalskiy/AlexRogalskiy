@@ -33,7 +33,9 @@ jobs:
       #        shell: bash
 
       - name: Find and Replace
-        run: node ./.github/scripts/transform-commands/replace_data.js
+        run: |
+          npm install --global replace-in-file
+          node ./.github/scripts/transform-commands/replace_data.js
 
       #      - name: Find and Replace
       #        run: |

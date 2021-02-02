@@ -178,11 +178,11 @@
 ## 🔣 _Recent News_
 
 <!--views:rss-marker:start--> 
-* [Another Google VR App Dies, Is Reborn as an Open-Source Project](https://www.reviewgeek.com/69277/google-open-sources-the-tilt-brush-vr-app-as-official-support-ends/) 
-* [Sonic the Hedgehog Loses His Iconic Voice After 10 Years](https://www.reviewgeek.com/69336/sonic-the-hedgehog-loses-his-iconic-voice-after-10-years/) 
-* [How to Add Headers or Footers in Google Sheets](https://www.howtogeek.com/708845/how-to-add-headers-or-footers-in-google-sheets/) 
-* [The 'Rocket League' Super Bowl Event Touches Down February 3rd](https://www.reviewgeek.com/69250/american-football-is-coming-to-rocket-league-next-week/) 
-* [How to Save a Microsoft PowerPoint Slide as an Image](https://www.howtogeek.com/707583/how-to-save-a-microsoft-powerpoint-slide-as-an-image/)
+* [Stadia Game Studio is Dead, Stadia Game Streaming Lives On (For Now)](https://www.reviewgeek.com/69543/stadia-game-studio-is-dead-stadia-game-streaming-lives-on-for-now/) 
+* [Apple's Face ID Will Soon Work With Masks---If You Own an Apple Watch](https://www.reviewgeek.com/69537/apples-face-id-will-soon-work-with-masks-if-you-own-an-apple-watch/) 
+* [PSA: AirPods Max Battery Drain Is Real---Don't Buy Them (For Now)](https://www.reviewgeek.com/69492/psa-airpods-max-battery-drain-is-real-dont-buy-them-for-now/) 
+* [Farewell to the Pixel Slate, the Tablet Even Google Forgot](https://www.reviewgeek.com/69470/farewell-to-the-pixel-slate-the-tablet-even-google-forgot/) 
+* [ExpressVPN's New Lightway Protocol Promises Speeds That Don't Suck](https://www.reviewgeek.com/69457/expressvpns-new-lightway-protocol-promises-speeds-that-dont-suck/)
 <!--views:rss-marker:end-->
 
 ## ⏰ _Recent Activities_

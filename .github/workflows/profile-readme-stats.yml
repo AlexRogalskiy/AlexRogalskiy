@@ -20,7 +20,7 @@ jobs:
         with:
           template: ./README.md
           readme: ./README.md
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.USER_TOKEN }}
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4

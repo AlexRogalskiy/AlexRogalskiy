@@ -24,19 +24,22 @@ jobs:
           readme: ./templates/statistics.md
           token: ${{ secrets.USER_TOKEN }}
 
-      - name: Get template data
-        id: file_data
-        run: |
-          template_data=`cat ./templates/statistics.md`
-          template_result=$(printf "%s'%s'%s" "<!--views:github-stats:start-->\n" "$template_data" "\n<!--views:github-stats:end-->")
-          echo ::set-output name=current_data::${template_result}
-        shell: bash
+      #      - name: Get template data
+      #        id: file_data
+      #        run: |
+      #          template_data=`cat ./templates/statistics.md`
+      #          template_result=$(printf "%s'%s'%s" "<!--views:github-stats:start-->\n" "$template_data" "\n<!--views:github-stats:end-->")
+      #          echo ::set-output name=current_data::${template_result}
+      #        shell: bash
 
       - name: Find and Replace
-        run: |
-          npm install --global replace-in-files-cli
-          replace-in-files --regex='<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->' --replacement="${{ steps.file_data.outputs.current_data }}" README.md
-        shell: bash
+        run: node ./github/scripts/transform-commands/replace_data.js
+
+      #      - name: Find and Replace
+      #        run: |
+      #          npm install --global replace-in-files-cli
+      #          replace-in-files --regex='<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->' --replacement="${{ steps.file_data.outputs.current_data }}" README.md
+      #        shell: bash
 
       #      - name: Find and Replace
       #        uses: jacobtomlinson/gha-find-replace@master

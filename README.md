@@ -33,9 +33,17 @@
     <img src="https://img.shields.io/badge/Pull%20requests-{{ PULL_REQUESTS }}-CB0000.svg?logo=github" alt="Total pull requests" />
     <img src="https://img.shields.io/badge/Repos%20contributions-{{ REPOSITORIES_CONTRIBUTED_TO }}-CB0000.svg?logo=github" alt="Total repos contributions" />
     <img src="https://img.shields.io/badge/Stars-{{ STARS }}-CB0000.svg?logo=github" alt="Total stars" />
+    <img src="https://img.shields.io/badge/Gists-{{ GISTS }}-CB0000.svg?logo=github" alt="Total gists" />
+    <img src="https://img.shields.io/badge/Repos-{{ REPOSITORIES }}-CB0000.svg?logo=github" alt="Total repositories" />
 </div>
 
-<div id="statistics_review_badges_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+<div id="statistics_review_streak_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRogalskiy&currStreakNum=2FD3EB&fire=pink" alt="Total contributions, current streak, and longest streak on GitHub" />
+    </a>
+</div>
+
+<div id="statistics_review_badge_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
     </a>-->
@@ -173,7 +181,7 @@
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
-    </p>photo-travel
+    </p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />

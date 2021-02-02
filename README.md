@@ -27,12 +27,12 @@
 ### 💡 _Review_
 
 <div id="statistics_review_summary_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
-    <img src="https://img.shields.io/badge/Account%20age-{{ ACCOUNT_AGE }}-CB0000.svg?logo=github" alt="Total account ages" />
-    <img src="https://img.shields.io/badge/Issues-{{ ISSUES }}-CB0000.svg?logo=github" alt="Total issues" />
-    <img src="https://img.shields.io/badge/Commits-{{ COMMITS }}-CB0000.svg?logo=github" alt="Total commits" />
-    <img src="https://img.shields.io/badge/Pull%20requests-{{ PULL_REQUESTS }}-CB0000.svg?logo=github" alt="Total pull requests" />
-    <img src="https://img.shields.io/badge/Repos%20contributions-{{ REPOSITORIES_CONTRIBUTED_TO }}-CB0000.svg?logo=github" alt="Total repos contributions" />
-    <img src="https://img.shields.io/badge/Stars-{{ STARS }}-CB0000.svg?logo=github" alt="Total stars" />
+    <img src="https://img.shields.io/badge/Account%20age-7-CB0000.svg?logo=github" alt="Total account ages" />
+    <img src="https://img.shields.io/badge/Issues-4-CB0000.svg?logo=github" alt="Total issues" />
+    <img src="https://img.shields.io/badge/Commits-7907-CB0000.svg?logo=github" alt="Total commits" />
+    <img src="https://img.shields.io/badge/Pull%20requests-255-CB0000.svg?logo=github" alt="Total pull requests" />
+    <img src="https://img.shields.io/badge/Repos%20contributions-0-CB0000.svg?logo=github" alt="Total repos contributions" />
+    <img src="https://img.shields.io/badge/Stars-4-CB0000.svg?logo=github" alt="Total stars" />
 </div>
 
 <div id="statistics_review_badges_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">

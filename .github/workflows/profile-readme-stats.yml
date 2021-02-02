@@ -1,11 +1,9 @@
 name: Profile README statistics
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
+    - cron: '0 0 * * 0' # every week
 
 jobs:
   publish:
@@ -18,9 +16,24 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v1
         with:
-          template: ./README.md
-          readme: ./README.md
+          template: ./templates/README.md.tpl
+          readme: ./templates/README.md
           token: ${{ secrets.USER_TOKEN }}
+
+      - name: Get template data
+        id: file_data
+        run: |
+          template_data=`cat ./templates/README.md`
+          template_result="<!--views:github-stats:start-->\n${template_data}\n<!--views:github-stats:end-->"
+          echo ::set-output name=current_data::${template_result}
+        shell: bash
+
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: /<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->/gm
+          replace: ${{ steps.file_data.outputs.current_data }}
+          include: "README.md"
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4

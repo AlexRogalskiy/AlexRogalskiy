@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-          -
+
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v1
         with:

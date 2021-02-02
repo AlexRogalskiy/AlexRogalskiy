@@ -48,7 +48,7 @@ fn get_latest_articles() -> String {
 
     // Filter las 5 articles + format each one as markdown list string
     return posts[..5].iter().fold("".to_string(), |acc, item| {
-        format!("{} \n* [{}]({})", acc, item.title, item.link)
+        format!("{}\n* [{}]({})", acc, item.title, item.link)
     });
 }
 

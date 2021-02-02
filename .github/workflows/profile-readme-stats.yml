@@ -34,7 +34,7 @@ jobs:
         with:
           find: /<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->/gm
           replace: ${{ steps.file_data.outputs.current_data }}
-          include: "README.md"
+#          include: "README.md"
 
       - name: Check outputs and modified files
         run: |

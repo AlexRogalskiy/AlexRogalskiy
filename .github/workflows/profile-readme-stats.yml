@@ -24,22 +24,27 @@ jobs:
         id: file_data
         run: |
           template_data=`cat ./templates/statistics.md`
-          template_result="<!--views:stats:start-->\n${template_data}\n<!--views:stats:end-->"
+          template_result="<!--views:github-stats:start-->\n${template_data}\n<!--views:github-stats:end-->"
           echo ::set-output name=current_data::${template_result}
         shell: bash
 
       - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@master
-        id: selftest
-        with:
-          find: "/<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->/gm"
-          replace: ${{ steps.file_data.outputs.current_data }}
-          include: "README.md"
-
-      - name: Check outputs and modified files
         run: |
-          test "${{ steps.selftest.outputs.modifiedFiles }}" == "1"
+          sed -i -E "s/<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->/${{ steps.file_data.outputs.current_data }}/" README.md
         shell: bash
+
+      #      - name: Find and Replace
+      #        uses: jacobtomlinson/gha-find-replace@master
+      #        id: selftest
+      #        with:
+      #          find: /<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->/gm
+      #          replace: ${{ steps.file_data.outputs.current_data }}
+      #          include: "README.md"
+
+      #      - name: Check outputs and modified files
+      #        run: |
+      #          test "${{ steps.selftest.outputs.modifiedFiles }}" == "1"
+      #        shell: bash
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4

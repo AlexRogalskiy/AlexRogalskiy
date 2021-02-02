@@ -164,11 +164,11 @@
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
-    </p>
+    </p>photo-travel
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-4°C (<i>snow</i>), humidity: 80%, pressure: 1004 (mbar), wind: 3 (m/s), cloudy: 40%</b>
+        <b>-3°C (<i>light snow</i>), humidity: 86%, pressure: 1011 (mbar), wind: 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the sun rises at <b>09:09 am</b> and sets at <b>17:15 pm</b>.
     </p>

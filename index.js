@@ -1,27 +1,21 @@
 require('dotenv').config();
 require('https').globalAgent.options.ca = require('ssl-root-cas').create();
 
-// services
+// general
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./src/services/puppeteer.service');
 const replace = require('replace-in-file');
 
-// constants
-const CONFIG_PROPS = require("./src/configs/constants.js").CONFIG_PROPS
-const SERVICE_PROPS = require("./src/configs/constants.js").SERVICE_PROPS
+// services
+const puppeteerService = require('./src/services/puppeteer.service');
+const {calculateDirections, calculateDate} = require('./src/utils/commons');
 
-let DATA = {
-    refresh_date: new Date().toLocaleDateString('en-GB', {
-        weekday: 'long',
-        month: 'long',
-        day: 'numeric',
-        hour: 'numeric',
-        minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'Europe/Moscow',
-    }),
+// constants
+const {CONFIG_PROPS, SERVICE_PROPS} = require("./src/configs/constants.js");
+
+const DATA = {
+    refresh_date: new Date().toLocaleDateString(CONFIG_PROPS.locale, CONFIG_PROPS.long_date_format),
 };
 
 async function updateWeatherInformation() {
@@ -30,26 +24,19 @@ async function updateWeatherInformation() {
     )
         .then(r => r.json())
         .then(r => {
-            DATA.city_temperature = Math.round(r.main.temp);
-            DATA.city_pressure = Math.round(r.main.pressure);
-            DATA.city_humidity = Math.round(r.main.humidity);
+            DATA.temperature = Math.round(r.main.temp);
+            DATA.pressure = Math.round(r.main.pressure);
+            DATA.humidity = Math.round(r.main.humidity);
 
-            DATA.city_clouds = Math.round(r.clouds.all);
-            DATA.city_wind = Math.round(r.wind.speed);
+            DATA.clouds = Math.round(r.clouds.all);
+            DATA.wind = Math.round(r.wind.speed);
+            DATA.wind_direction = calculateDirections(r.wind.deg);
 
-            DATA.city_weather = r.weather[0].description;
-            DATA.city_weather_icon = r.weather[0].icon;
+            DATA.weather = r.weather[0].description;
+            DATA.weather_icon = r.weather[0].icon;
 
-            DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: 'Europe/Moscow',
-            });
-            DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: 'Europe/Moscow',
-            });
+            DATA.sunrise = calculateDate(r.sys.sunrise);
+            DATA.sunset = calculateDate(r.sys.sunset);
         });
 }
 

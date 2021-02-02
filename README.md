@@ -26,7 +26,7 @@
 
 ### 💡 _Review_
 
-<!--views:github-stats:start--><!--views:github-stats:end-->
+<!--views:stats:start--><!--views:stats:end-->
 
 <div id="statistics_review_badge_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">

@@ -28,12 +28,6 @@
 
 <!--views:github-stats:start--><!--views:github-stats:end-->
 
-<div id="statistics_review_streak_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRogalskiy&currStreakNum=2FD3EB&fire=pink" alt="Total contributions, current streak, and longest streak on GitHub" />
-    </a>
-</div>
-
 <div id="statistics_review_badge_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/AlexRogalskiy" alt="GitHub years" />
@@ -52,6 +46,12 @@
     </a>-->
     <a href="https://hits.seeyoufarm.com" target="_blank">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="GitHub page hits" />
+    </a>
+</div>
+
+<div id="statistics_review_streak_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexRogalskiy&currStreakNum=2FD3EB&fire=pink" alt="Total contributions, current streak, and longest streak on GitHub" />
     </a>
 </div>
 

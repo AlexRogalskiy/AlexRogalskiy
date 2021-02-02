@@ -1,7 +1,7 @@
 // constants
 const {CONFIG_PROPS} = require("../configs/constants.js");
 
-const calculateDirections = (angle) => {
+const calculateDirection = (angle) => {
     return CONFIG_PROPS.directions[Math.round(((angle %= 360) < 0 ? angle + 360 : angle) / 45) % 8];
 }
 
@@ -10,6 +10,6 @@ const calculateDate = (value) => {
 }
 
 module.exports = {
-    calculateDirections,
+    calculateDirection,
     calculateDate
 }

@@ -9,7 +9,7 @@ const replace = require('replace-in-file');
 
 // services
 const puppeteerService = require('./src/services/puppeteer.service');
-const {calculateDirections, calculateDate} = require('./src/utils/commons');
+const {calculateDirection, calculateDate} = require('./src/utils/commons');
 
 // constants
 const {CONFIG_PROPS, SERVICE_PROPS} = require("./src/configs/constants.js");
@@ -30,7 +30,7 @@ async function updateWeatherInformation() {
 
             DATA.clouds = Math.round(r.clouds.all);
             DATA.wind = Math.round(r.wind.speed);
-            DATA.wind_direction = calculateDirections(r.wind.deg);
+            DATA.wind_direction = calculateDirection(r.wind.deg);
 
             DATA.weather = r.weather[0].description;
             DATA.weather_icon = r.weather[0].icon;

@@ -188,9 +188,9 @@
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/35) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 🎉 Merged PR [#34](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/34) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 💪 Opened PR [#34](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/34) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#19](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/19) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 🎉 Merged PR [#26](https://github.com/AlexRogalskiy/kotlin-patterns/pull/26) in [AlexRogalskiy/kotlin-patterns](https://github.com/AlexRogalskiy/kotlin-patterns)
+1. 🎉 Merged PR [#54](https://github.com/AlexRogalskiy/java-patterns/pull/54) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+2. 🎉 Merged PR [#27](https://github.com/AlexRogalskiy/android-patterns/pull/27) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+3. 💪 Opened PR [#27](https://github.com/AlexRogalskiy/android-patterns/pull/27) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+4. 🎉 Merged PR [#26](https://github.com/AlexRogalskiy/android-patterns/pull/26) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+5. 🎉 Merged PR [#6](https://github.com/AlexRogalskiy/javascript-patterns/pull/6) in [AlexRogalskiy/javascript-patterns](https://github.com/AlexRogalskiy/javascript-patterns)
 <!--END_SECTION:activity-->

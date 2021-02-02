@@ -32,9 +32,9 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         id: selftest
         with:
-          find: /<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->/gm
+          find: "<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->"
           replace: ${{ steps.file_data.outputs.current_data }}
-#          include: "README.md"
+          include: "README.md"
 
       - name: Check outputs and modified files
         run: |

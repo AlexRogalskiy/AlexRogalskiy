@@ -13,6 +13,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+          -
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v1
         with:
@@ -30,8 +34,8 @@ jobs:
 
       - name: Find and Replace
         run: |
-          sudo npm install --global replace-in-files-cli
-          sudo replace-in-files --regex='<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->' --replacement="${{ steps.file_data.outputs.current_data }}" README.md
+          npm install --global replace-in-files-cli
+          replace-in-files --regex='<!--views:github-stats:start-->[\s\S]*?<!--views:github-stats:end-->' --replacement="${{ steps.file_data.outputs.current_data }}" README.md
         shell: bash
 
       #      - name: Find and Replace

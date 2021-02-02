@@ -32,7 +32,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         id: selftest
         with:
-          find: "<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->"
+          find: "/<!--views:stats:start-->[\s\S]*?<!--views:stats:end-->/gm"
           replace: ${{ steps.file_data.outputs.current_data }}
           include: "README.md"
 

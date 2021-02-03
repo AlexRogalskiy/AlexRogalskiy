@@ -35,6 +35,7 @@ jobs:
         shell: bash
 
       - name: Find and Replace
+        id: selftest
         run: |
           npm install --global replace-in-files-cli
           replace-in-files --regex="<!--views:github-stats:start-->(.*?)<!--views:github-stats:end-->" --replacement="${{ steps.file_data.outputs.current_data }}" README.md

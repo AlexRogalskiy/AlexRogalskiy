@@ -37,7 +37,7 @@ jobs:
       - name: Find and Replace
         run: |
           npm install --global replace-in-files-cli
-          replace-in-files --regex="<!--views:github-stats:start-->(.*?)<!--views:github-stats:end-->" --replacement=${{ steps.file_data.outputs.current_data }} README.md
+          replace-in-files --regex="<!--views:github-stats:start-->(.*?)<!--views:github-stats:end-->" --replacement='"'"${{ steps.file_data.outputs.current_data }}"'"' README.md
         shell: bash
 
       - name: Check outputs and modified files

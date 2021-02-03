@@ -27,11 +27,11 @@ jobs:
       - name: Get template data
         id: file_data
         run: |
-          template_data=`cat ./templates/statistics.md | tr -d "\n\r" | tr -d "<" "\<" | tr -d ">" "\>"`
-          template_result="<!--views:github-stats:start-->\n$template_data\n<!--views:github-stats:end-->"
-          echo "${template_result//\"/\\\"}"
-          template_result=`echo "${template_result//\"/\\\"}"`
-          echo ::set-output name=current_data::${template_result}
+          template_data=`cat ./templates/statistics.md | tr -d "\n\r"`
+          template_data='<!--views:github-stats:start-->\n'"$template_data"'\n<!--views:github-stats:end-->'
+          echo "${template_data//\"/\\\"}" > ./templates/README.md
+          template_data=`cat ./templates/statistics.md`
+          echo ::set-output name=current_data::${template_data}
         shell: bash
 
       - name: Find and Replace

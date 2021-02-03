@@ -1,3 +1,5 @@
+'use strict';
+
 // constants
 const { CONFIG_PROPS } = require('../configs/constants.js')
 

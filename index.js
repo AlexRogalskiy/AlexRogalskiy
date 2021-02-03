@@ -1,3 +1,5 @@
+'use strict';
+
 require('dotenv').config()
 require('https').globalAgent.options.ca = require('ssl-root-cas').create()
 

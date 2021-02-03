@@ -1,4 +1,4 @@
-<div id="statistics_review_summary_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+<div id="statistics_review_summary_block_id" align="center">
     <img src="https://img.shields.io/badge/Account%20age-{{ ACCOUNT_AGE }}-CB0000.svg?logo=github" alt="Total account ages" />
     <img src="https://img.shields.io/badge/Issues-{{ ISSUES }}-CB0000.svg?logo=github" alt="Total issues" />
     <img src="https://img.shields.io/badge/Commits-{{ COMMITS }}-CB0000.svg?logo=github" alt="Total commits" />

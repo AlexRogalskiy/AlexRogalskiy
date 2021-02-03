@@ -31,7 +31,6 @@ jobs:
           template_data='<!--views:github-stats:start-->\n'"$template_data"'\n<!--views:github-stats:end-->'
           echo "${template_data//\"/\\\"}" > ./templates/README.md
           template_data=`cat ./templates/statistics.md`
-          template_data="\"$template_data\""
           echo ::set-output name=current_data::${template_data}
         shell: bash
 

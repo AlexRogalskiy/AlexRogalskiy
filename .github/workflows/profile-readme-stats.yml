@@ -40,6 +40,11 @@ jobs:
           replace-in-files --regex="<!--views:github-stats:start-->(.*?)<!--views:github-stats:end-->" --replacement="${{ steps.file_data.outputs.current_data }}" README.md
         shell: bash
 
+      - name: Remove temporary files
+        run: |
+          rm -rf ./templates/statistics.md
+        shell: bash
+
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

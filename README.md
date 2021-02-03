@@ -26,7 +26,9 @@
 
 ### 💡 _Review_
 
-<!--views:github-stats:start--><!--views:github-stats:end-->
+<!--views:github-stats:start-->
+<div id="statistics_review_summary_block_id" align="center"> <img src="https://img.shields.io/badge/Account%20age-7-CB0000.svg?logo=github" alt="Total account ages" /> <img src="https://img.shields.io/badge/Issues-4-CB0000.svg?logo=github" alt="Total issues" /> <img src="https://img.shields.io/badge/Commits-7907-CB0000.svg?logo=github" alt="Total commits" /> <img src="https://img.shields.io/badge/Pull%20requests-255-CB0000.svg?logo=github" alt="Total pull requests" /> <img src="https://img.shields.io/badge/Repos%20contributions-0-CB0000.svg?logo=github" alt="Total repos contributions" /> <img src="https://img.shields.io/badge/Stars-4-CB0000.svg?logo=github" alt="Total stars" /> <img src="https://img.shields.io/badge/Gists-871-CB0000.svg?logo=github" alt="Total gists" /> <img src="https://img.shields.io/badge/Repos-624-CB0000.svg?logo=github" alt="Total repositories" /></div>
+<!--views:github-stats:end-->
 
 <div id="statistics_review_badge_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">

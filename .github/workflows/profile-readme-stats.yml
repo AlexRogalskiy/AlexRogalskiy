@@ -18,7 +18,7 @@ jobs:
           node-version: '12.x'
 
       - name: Generate README.md
-        uses: teoxoy/profile-readme-stats@v1
+        uses: teoxoy/profile-readme-stats@v1.1
         with:
           template: ./templates/statistics.md.tpl
           readme: ./templates/statistics.md

@@ -26,7 +26,7 @@
 
 ### 💡 _Review_
 
-<!--views:github-stats:start--><!--views:github-stats:end-->
+<div id=statistics_review_summary_block_id align=center> <img src=https://img.shields.io/badge/Account%20age-7-CB0000.svg?logo=github alt=Total
 
 <div id="statistics_review_badge_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <!--<a href="https://badges.pufler.dev" target="_blank">

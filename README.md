@@ -150,7 +150,7 @@
 ## 📖 _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img height="250px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img height="250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">

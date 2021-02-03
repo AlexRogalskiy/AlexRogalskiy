@@ -27,7 +27,7 @@ jobs:
       - name: Get template data
         id: file_data
         run: |
-          template_data=`cat ./templates/statistics.md`
+          template_data=`cat ./templates/statistics.md | tr -d "\n\r"`
           template_result="<!--views:github-stats:start-->\n$template_data\n<!--views:github-stats:end-->"
           template_result=`echo "${template_result//\"/\\\"}"`
           echo ::set-output name=current_data::${template_result}

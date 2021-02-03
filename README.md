@@ -186,12 +186,12 @@
 
 ## 🔣 _Recent News_
 
-<!--views:rss-marker:start--> 
-* [Stadia Game Studio is Dead, Stadia Game Streaming Lives On (For Now)](https://www.reviewgeek.com/69543/stadia-game-studio-is-dead-stadia-game-streaming-lives-on-for-now/) 
-* [Apple's Face ID Will Soon Work With Masks---If You Own an Apple Watch](https://www.reviewgeek.com/69537/apples-face-id-will-soon-work-with-masks-if-you-own-an-apple-watch/) 
-* [PSA: AirPods Max Battery Drain Is Real---Don't Buy Them (For Now)](https://www.reviewgeek.com/69492/psa-airpods-max-battery-drain-is-real-dont-buy-them-for-now/) 
-* [Farewell to the Pixel Slate, the Tablet Even Google Forgot](https://www.reviewgeek.com/69470/farewell-to-the-pixel-slate-the-tablet-even-google-forgot/) 
-* [ExpressVPN's New Lightway Protocol Promises Speeds That Don't Suck](https://www.reviewgeek.com/69457/expressvpns-new-lightway-protocol-promises-speeds-that-dont-suck/)
+<!--views:rss-marker:start-->
+* [Stadia Needed a "Killer App" Game---Now It's Probably Never Getting One](https://www.reviewgeek.com/69563/stadia-needed-a-killer-app-game-now-its-probably-never-getting-one/)
+* [These Pregnancy Apps Offer Tools, Tracking, Exercises, and More](https://www.lifesavvy.com/46618/the-12-best-apps-for-pregnant-women-to-download/)
+* [What Is the Newest Google Pixel Phone?](https://www.reviewgeek.com/68813/what-is-the-newest-google-pixel-phone/)
+* [Quick Tip: Use Brick Hound to Score Hard-To-Find LEGO Sets](https://www.reviewgeek.com/69571/quick-tip-use-brick-hound-to-score-hard-to-find-lego-sets/)
+* [Disney+ Just Made it Easier to Bundle Ad-Free Hulu](https://www.reviewgeek.com/69573/disney-just-made-it-easier-to-bundle-ad-free-hulu/)
 <!--views:rss-marker:end-->
 
 ## ⏰ _Recent Activities_

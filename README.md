@@ -150,7 +150,7 @@
 ## 📖 _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img height="250px" src="https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img height="250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">
@@ -178,7 +178,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-4°C (<i>snow</i>), humidity: 86%, pressure: 999 (mbar), wind: /south-west/ 3 (m/s), cloudy: 90%</b>
+        <b>-5°C (<i>snow</i>), humidity: 93%, pressure: 998 (mbar), wind: /east/ 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>09:07 am</b> and sets at <b>17:17 pm</b>.
     </p>

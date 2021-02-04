@@ -11,8 +11,13 @@ jobs:
     name: check-comment
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@master
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Cookie fortune teller
+        uses: vincetse/fortune-cookie-action@v3
 
       - run: ./.github/scripts/process-comment.sh
         env:

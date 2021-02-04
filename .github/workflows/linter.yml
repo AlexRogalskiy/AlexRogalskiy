@@ -29,6 +29,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Cookie fortune teller
+        uses: vincetse/fortune-cookie-action@v3
+
       - name: Lint Code Base
         uses: github/super-linter@v3
         env:

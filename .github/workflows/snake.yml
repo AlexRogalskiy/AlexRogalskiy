@@ -10,19 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v2
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: AlexRogalskiy
           svg_out_path: ./images/generated/github-contribution-grid-snake.svg
-
-      - name: Get current working path
-        id: file_data
-        run: |
-          cd ${{ github.workspace }}
-          pwd
-          ls -la
-        shell: bash
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4

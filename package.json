@@ -3,7 +3,6 @@
     "version": "0.1.0",
     "description": "GitHub action to fetch data from external services",
     "main": "index.js",
-    "author": "Alexander Rogalskiys",
     "license": "GPLv3",
     "scripts": {
         "test": "jest"
@@ -32,5 +31,10 @@
     "bugs": {
         "url": "https://github.com/AlexRogalskiy/AlexRogalskiy/issues"
     },
-    "homepage": "https://github.com/AlexRogalskiy/AlexRogalskiy"
+    "homepage": "https://github.com/AlexRogalskiy/AlexRogalskiy",
+    "author": {
+        "name": "Alexander Rogalskiy",
+        "url": "https://github.com/AlexRogalskiy"
+    },
+    "funding": "https://github.com/sponsors/AlexRogalskiy"
 }

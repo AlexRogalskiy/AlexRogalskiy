@@ -19,6 +19,7 @@ jobs:
       - name: Get current working path
         id: file_data
         run: |
+          cd ${{ github.workspace }}
           pwd
           ls -la
         shell: bash

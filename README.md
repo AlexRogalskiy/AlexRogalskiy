@@ -91,7 +91,7 @@
 ### 🎉 _Github Profile_
 
 <div id="statistics_github_animation_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
-    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/generated/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
 </div>
 
 <div id="statistics_github_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">

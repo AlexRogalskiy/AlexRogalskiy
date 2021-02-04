@@ -14,13 +14,21 @@ jobs:
         id: snake-gif
         with:
           github_user_name: AlexRogalskiy
-          svg_out_path: images/generated/github-contribution-grid-snake.svg
+          svg_out_path: ./images/generated/github-contribution-grid-snake.svg
+
+      - name: Get current working path
+        id: file_data
+        run: |
+          pwd
+        shell: bash
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: master
           skip_dirty_check: true
+          skip_fetch: true
+          repository: ./
           commit_message: "docs: updates on GitHub animation\n\n Added information on GitHub animation"
           commit_options: '--no-verify --signoff'
           commit_user_name: GitHub Bot

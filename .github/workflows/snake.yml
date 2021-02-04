@@ -10,17 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v2
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: alexrogalskiy
-          svg_out_path: images/generated/github-contribution-grid-snake.svg
+          github_user_name: AlexRogalskiy
+          svg_out_path: ./images/generated/github-contribution-grid-snake.svg
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: master
           skip_dirty_check: true
+          skip_fetch: true
           commit_message: "docs: updates on GitHub animation\n\n Added information on GitHub animation"
           commit_options: '--no-verify --signoff'
           commit_user_name: GitHub Bot

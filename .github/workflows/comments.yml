@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: Cookie fortune teller
-        uses: vincetse/fortune-cookie-action@v3
+        uses: vincetse/fortune-cookie-action@v4
 
       - run: ./.github/scripts/process-comment.sh
         env:

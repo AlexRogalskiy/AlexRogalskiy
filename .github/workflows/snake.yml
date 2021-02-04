@@ -20,6 +20,7 @@ jobs:
         id: file_data
         run: |
           pwd
+          ls -la
         shell: bash
 
       - name: Commit update
@@ -28,7 +29,6 @@ jobs:
           branch: master
           skip_dirty_check: true
           skip_fetch: true
-          repository: ./
           commit_message: "docs: updates on GitHub animation\n\n Added information on GitHub animation"
           commit_options: '--no-verify --signoff'
           commit_user_name: GitHub Bot

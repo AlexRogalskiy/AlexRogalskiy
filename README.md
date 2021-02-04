@@ -189,11 +189,11 @@
 ## 🔣 _Recent News_
 
 <!--views:rss-marker:start-->
-* [Stadia Needed a "Killer App" Game---Now It's Probably Never Getting One](https://www.reviewgeek.com/69563/stadia-needed-a-killer-app-game-now-its-probably-never-getting-one/)
-* [These Pregnancy Apps Offer Tools, Tracking, Exercises, and More](https://www.lifesavvy.com/46618/the-12-best-apps-for-pregnant-women-to-download/)
-* [What Is the Newest Google Pixel Phone?](https://www.reviewgeek.com/68813/what-is-the-newest-google-pixel-phone/)
-* [Quick Tip: Use Brick Hound to Score Hard-To-Find LEGO Sets](https://www.reviewgeek.com/69571/quick-tip-use-brick-hound-to-score-hard-to-find-lego-sets/)
-* [Disney+ Just Made it Easier to Bundle Ad-Free Hulu](https://www.reviewgeek.com/69573/disney-just-made-it-easier-to-bundle-ad-free-hulu/)
+* [It's Time to Trash Your Wink Hub and Move On](https://www.reviewgeek.com/69784/its-time-to-trash-your-wink-hub-and-move-on/)
+* [Deal Alert: Grab the DJI Osmo Pocket 4K Gimbal Camera for Half Off](https://www.reviewgeek.com/69781/deal-grab-the-dji-osmo-pocket-4k-gimbal-camera-for-half-off/)
+* [Watch America's Favorite Rom-Com This Valentine's Day](https://www.lifesavvy.com/54962/watch-americas-favorite-rom-com-this-valentines-day/)
+* [Zoom Imagines a 'Jetsons'-like Return to the Office](https://www.reviewgeek.com/69764/zoom-imagines-a-jetsons-like-return-to-the-office/)
+* [Poly's New $815 Monitor Has a Built-In Webcam, Microphone, and Ring Light](https://www.reviewgeek.com/69766/polys-new-815-monitor-has-a-built-in-webcam-microphone-and-ring-light/)
 <!--views:rss-marker:end-->
 
 ## ⏰ _Recent Activities_

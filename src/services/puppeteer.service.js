@@ -68,6 +68,32 @@ class PuppeteerService {
       process.exit();
     }
   }
+
+  /**
+   * Returns latest posts from Pinterest
+   * @param {string} acc Account to crawl
+   * @param {number} num Qty of image to fetch
+   */
+  async getLatestPinterestPostsFromAccount(acc, num) {
+    const page = `https://www.pinterest.ru/dictionarycom/${acc}`;
+    await this.goToPage(page);
+
+    try {
+      let previousHeight = await this.#page.evaluate(`document.body.scrollHeight`);
+      await this.#page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+      await this.#page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+
+      const nodes = await this.#page.evaluate(() => {
+        const images = document.querySelectorAll(`.GrowthUnauthPinImage__Image`);
+        return [].map.call(images, img => [ { src: img.src, alt: img.alt } ]);
+      });
+
+      return nodes.slice(0, num);
+    } catch (error) {
+      console.log('Error', error);
+      process.exit();
+    }
+  }
 }
 
 const puppeteerService = new PuppeteerService();

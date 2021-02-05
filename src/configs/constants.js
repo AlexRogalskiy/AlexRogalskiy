@@ -26,9 +26,21 @@ const SERVICE_PROPS = {
   INSTAGRAM: {
     "number": 4,
     "tag": "visitpetersburg",
-    "view": "./src/views/photo-travel.view.mustache",
-    "placeholder": /<!--views:photo-marker:start-->[\s\S]*?<!--views:photo-marker:end-->/gm,
-    "replacer": (value) => '<!--views:photo-marker:start-->\n' + value + '\n<!--views:photo-marker:end-->'
+    "view": "./src/views/instagram.mustache",
+    "placeholder": /<!--views:instagram-marker:start-->[\s\S]*?<!--views:instagram-marker:end-->/gm,
+    "replacer": (value) => '<!--views:instagram-marker:start-->\n' + value + '\n<!--views:instagram-marker:end-->'
+  },
+  PINTEREST: {
+    "number": 4,
+    "tag": "word-of-the-day",
+    "view": "./src/views/pinterest.mustache",
+    "placeholder": /<!--views:pinterest-marker:start-->[\s\S]*?<!--views:pinterest-marker:end-->/gm,
+    "replacer": (value) => '<!--views:pinterest-marker:start-->\n' + value + '\n<!--views:pinterest-marker:end-->'
+  },
+  WEATHER: {
+    "view": "./src/views/weather.mustache",
+    "placeholder": /<!--views:weather-marker:start-->[\s\S]*?<!--views:weather-marker:end-->/gm,
+    "replacer": (value) => '<!--views:weather-marker:start-->\n' + value + '\n<!--views:weather-marker:end-->'
   }
 }
 

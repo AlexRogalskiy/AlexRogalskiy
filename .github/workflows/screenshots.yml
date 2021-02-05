@@ -3,7 +3,7 @@ name: Screenshots for README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *' # every day
+    - cron: '0 2 * * *' # every day
 
 jobs:
   screenshot-brainyquote:
@@ -66,56 +66,6 @@ jobs:
             width: 600
             height: 600
             tag: 'apoemaday'
-    steps:
-      - uses: actions/checkout@v2
-      - name: Screenshot Website
-        uses: swinton/screenshot-website@v1.x
-        with:
-          source: ${{ matrix.url }}
-          destination: screenshot-${{ matrix.tag }}.png
-          width: ${{ matrix.width }}
-          height: ${{ matrix.height }}
-          full-page: false
-
-      - name: Find and copy images
-        run: |
-          cp -rf ${{ runner.temp }}/screenshot-*.png ${{ github.workspace }}/images/generated
-        shell: bash
-
-      - name: Prepare git config
-        run: |
-          git config --global core.autocrlf false
-          git config --global core.ignorecase false
-          git config --global help.autocorrect 1
-          git config --global core.fileMode false
-          git config --local user.email "github-actions@nullables.io"
-          git config --local user.name "GitHub Actions"
-
-      - name: Commit changeset
-        run: |
-          git add .
-          git commit -am "[nodoc] Update screenshots\n\nAdded screenshot files" || echo "No changes to commit"
-
-      - name: Pull changeset
-        run: |
-          git pull origin master
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-
-  screenshot-pinterest:
-    name: Screenshots
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        include:
-          - url: 'https://pinterest.com/dictionarycom/word-of-the-day/'
-            width: 860
-            height: 500
-            tag: 'pinterest'
     steps:
       - uses: actions/checkout@v2
       - name: Screenshot Website

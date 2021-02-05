@@ -1,5 +1,10 @@
 'use strict';
 
+// general
+const Mustache = require('mustache')
+const fs = require('fs')
+const replace = require('replace-in-file')
+
 // constants
 const { CONFIG_PROPS } = require('../configs/constants.js')
 
@@ -30,8 +35,33 @@ const formatDateByLongPattern = (value) => {
   return new Date(value).toLocaleDateString(CONFIG_PROPS.locale, CONFIG_PROPS.long_date_format)
 }
 
+const renderView = async (source, target, model, from, to) => {
+  await fs.readFile(source, (err, data) => {
+    if (err) throw err
+    const output = Mustache.render(data.toString(), model)
+    const options = {
+      allowEmptyPaths: true,
+      disableGlobs: true,
+      files: target,
+      from: from,
+      to: to(output)
+    }
+    replaceContent(options)
+  })
+}
+
+const replaceContent = async (options) => {
+  try {
+    const results = await replace(options)
+    console.log('Replacement results:', results)
+  } catch (error) {
+    console.error('Error occurred:', error)
+  }
+}
+
 module.exports = {
   formatSideDirection,
   formatDateByShortPattern,
-  formatDateByLongPattern
+  formatDateByLongPattern,
+  renderView
 }

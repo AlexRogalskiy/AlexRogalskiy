@@ -172,19 +172,35 @@
 
 ## 💬 _Word of the Day_
 
-<div id="word_of_the_day_block_id" align="center" style="align-content: center">
+<div id="poem_block_id" align="center" style="align-content: center">
     <a href="https://apoemaday.tumblr.com/" target="_blank">
         <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-apoemaday.png" alt="Poem of the Day" />
     </a>
-    <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
-        <img width="800" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-pinterest.png" alt="Word of the Day" />
-    </a>
 </div>
+
+<!--views:pinterest-marker:start-->
+<div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8f&#x2F;02&#x2F;6b&#x2F;8f026b84c86dbb370437f2514351ba9c.jpg" alt="Lustrum is the Word of the Day, but it won&#39;t last for five years. See where it comes from at Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3d&#x2F;e2&#x2F;0c&#x2F;3de20c3d9bdda53056c66d226ce58227.jpg" alt="Today&#39;s Word of the Day gets us right in the feels. It&#39;s lachrymose. Learn more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;73&#x2F;0b&#x2F;72730bbbef15d13b2ffb2c2e5a52f325.jpg" alt="Is it time to add uitwaaien to your self-care routine? It&#39;s the Dictionary.com Word of the Day. Click through to learn more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;3b&#x2F;52&#x2F;f73b5237aa10ba3129a8c97c7d1ef8d7.jpg" alt="We can&#39;t tell the future, but harbinger is the Word of the Day. Want more? Learn a new vocabulary word every day at Dictionary.com." />
+    </p>
+    <p align="center" style="text-align:center;">
+        Above are the latest pictures posted by
+        <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/pinterest.svg" width="20" height="20" alt="Pinterest photos" />
+            <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@pinterest!</b></i></span>
+        </a>
+    </p>
+</div>
+
+<!--views:pinterest-marker:end-->
 
 ## 🏝️ _Travel & Leisure_
 
-<!--views:photo-marker:start-->
-<div id="contacts_travel_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+<!--views:instagram-marker:start-->
+<div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;145204072_448760802979294_7892777162196181981_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;LT2MKyp4nNwAX-tgCNa&amp;tp&#x3D;1&amp;oh&#x3D;d17884f4a7a67c8a61dae37b1196ab14&amp;oe&#x3D;601F4EE3" alt="-🇺🇸- The first cryptozoological museum &amp;quot;Bestiary&amp;quot; @bestiary.space opened in St. Petersburg! 🔍  This is the most fantastic of all science museums and the most scientific of all fantasy museums!  Thanks to the use of the latest materials in the creation of scenery and multimedia technologies, you will find yourself in an exciting fantasy world, which consists of 4 spaces.  You will meet legendary creatures and incredible monsters!   📍 The “Grand Canyon” shopping mall, 3rd floor of, in the space &amp;quot;Divny gorod! ♦️Age limit 6.  -🇷🇺- В Петербурге открылся криптозоологичекий музей «Бестиарий» @bestiary.space 👀  Это самый фантастический из всех научных и самый научный из всех фантастических музеев!  Благодаря использованию новейших материалов в создании декораций и мультимедиа технологий, вы окажетесь в захватывающем фэнтези мире, который состоит из 4-х пространств. Познакомитесь с легендарными существами и невероятными монстрами!   📍 ТРК «Гранд-Каньон», 3 этаж, пространство «Дивный город»! ♦️Возрастное ограничение 6+  #visitpetersburg #russiatravel #spb #museum #tourism #vacations #путешествуй" />
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;145143834_1057754714744147_7021185300127364857_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;Y7UgpqFeNnMAX_hgDeJ&amp;tp&#x3D;1&amp;oh&#x3D;e0344a65a7d2a24f4ae546596abb2e70&amp;oe&#x3D;604803B9" alt="-🇺🇸- 🌸 The Japanese camellias bloom season continues in botanical garden in Saint Petersburg.  🌿 There’re also multimedia project “Garden of light”, where you can see the new kinds of digital art and the beauty of nature.  🗓 till the end of February  📍 Saint Petersburg Botanical Garden  -🇷🇺-  🌸В Ботаническом саду продолжается сезон цветения японских камелий!  🌿Посетители могут полюбоваться этими нежными цветами на Субтропическом маршруте оранжереи.  🔦Также до конца февраля, ежедневно с 17:30 до 22:30, в Ботаническом саду проходит мультимедийный проект Сад Света, соединивший в себе новые виды цифрового искусства и красоту природы.   🎇Светящиеся арт-объекты украшают парковый маршрут длинной более километра.  🗓 до конца февраля 📍 Ботанический сад Петра Великого  📸 @snegiribird   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
@@ -198,16 +214,22 @@
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
     </p>
+</div>
+
+<!--views:instagram-marker:end-->
+
+<!--views:weather-marker:start-->
+<div id="weather_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-15°C (<i>scattered clouds</i>), humidity: 85%, pressure: 1016 (mbar), wind: /east/ 5 (m/s), cloudy: 40%</b>
+        <b>-15°C (<i>light snow</i>), humidity: 78%, pressure: 1016 (mbar), wind: /north-east/ 5 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>09:02 am</b> and sets at <b>17:23 pm</b>.
     </p>
 </div>
 
-<!--views:photo-marker:end-->
+<!--views:weather-marker:end-->
 
 ## 🔣 _Recent News_
 

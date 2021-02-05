@@ -7,22 +7,26 @@ on:
 
 jobs:
   screenshot:
-    name: Screenshot
+    name: Screenshots
+    runs-on: ubuntu-latest
     strategy:
       matrix:
-        os: [ ubuntu-latest ]
-        width: [ 600 ]
-        height: [ 500 ]
-        site: [ 'https://www.brainyquote.com/quote_of_the_day' ]
-        prefix: [ 'brainyquote' ]
-    runs-on: ${{ matrix.os }}
+        include:
+          - url: 'https://www.brainyquote.com/quote_of_the_day'
+            width: 600
+            height: 500
+            tag: 'brainyquote'
+          - url: 'https://www.transparent.com/word-of-the-day/today/french.html'
+            width: 600
+            height: 700
+            tag: 'transparent_fr'
     steps:
       - uses: actions/checkout@v2
       - name: Screenshot Website
         uses: swinton/screenshot-website@v1.x
         with:
           source: ${{ matrix.site }}
-          destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}-${{ matrix.height }}.png
+          destination: screenshot-${{ matrix.tag }}.png
           width: ${{ matrix.width }}
           height: ${{ matrix.height }}
           full-page: false
@@ -41,7 +45,7 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "github-actions@example.com"
+          git config --local user.email "github-actions@nullables.io"
           git config --local user.name "GitHub Actions"
           git add .
           git commit -am "[nodoc] Update screenshots\n\nAdded screenshot files" || echo "No changes to commit"

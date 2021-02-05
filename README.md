@@ -166,7 +166,15 @@
 
 <div id="image_of_the_day_block_id" align="center" style="align-content: center">
     <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
-        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-brainyquote-ubuntu-latest-600-500.png" alt="Image of the Day" />
+        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-brainyquote.png" alt="Image of the Day" />
+    </a>
+</div>
+
+## 💬 _Word of the Day_
+
+<div id="word_of_the_day_block_id" align="center" style="align-content: center">
+    <a href="https://www.transparent.com/word-of-the-day/today/french.html" target="_blank">
+        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-transparent_fr.png" alt="Word of the Day" />
     </a>
 </div>
 

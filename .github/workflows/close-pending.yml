@@ -4,7 +4,7 @@ on:
   schedule:
     ## https://crontab.guru/examples.html
     # Every day
-    - cron: '0 1 * * *'
+    - cron: '50 1 * * *'
 
 jobs:
   close-pending:

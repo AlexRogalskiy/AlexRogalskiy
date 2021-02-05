@@ -27,7 +27,7 @@ jobs:
 
       - name: Find and copy images
         run: |
-          yes | cp -rf ${{ runner.temp }}/screenshot-*.png ${{ github.workspace }}/images/generated
+          cp -rf ${{ runner.temp }}/screenshot-*.png ${{ github.workspace }}/images/generated
         shell: bash
 
       - name: Commit update

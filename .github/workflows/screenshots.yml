@@ -16,10 +16,15 @@ jobs:
             width: 600
             height: 500
             tag: 'brainyquote'
-          - url: 'https://www.transparent.com/word-of-the-day/today/french.html'
+          - url: 'https://www.poetryfoundation.org/poems/poem-of-the-day'
             width: 600
+            height: 500
+            tag: 'poetryfoundation'
+          - url: 'https://in.pinterest.com/dictionarycom/word-of-the-day/'
+            width: 800
             height: 700
-            tag: 'transparent_fr'
+            tag: 'pinterest'
+
     steps:
       - uses: actions/checkout@v2
       - name: Screenshot Website

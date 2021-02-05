@@ -174,12 +174,10 @@
 
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
-<a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank">
-<span>I Live My Life in Widening Circles</span>
-</a>
-<div style="display:block;text-overflow: ellipsis;width: 200px;overflow: hidden; white-space: nowrap;">
+<details>
+<summary><a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank"><i>I Live My Life in Widening Circles</i></a></summary>
 <p>by Rainer Maria Rilke</p><p>I live my life in widening circles<br/>that reach out across the world.<br/>I may not complete this last one<br/>but I give myself to it.<br/><br/>I circle around God, around the primordial tower.<br/>I’ve been circling for thousands of years<br/>and I still don’t know: am I a falcon,<br/>a storm, or a great song?</p>
-</div>
+</details>
 </div>
 <!--views:poem-rss-marker:end-->
 

@@ -12,7 +12,7 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
         width: [ 600 ]
-        height: [ 450 ]
+        height: [ 500 ]
         site: [ 'https://www.brainyquote.com/quote_of_the_day' ]
         prefix: [ 'brainyquote' ]
     runs-on: ${{ matrix.os }}

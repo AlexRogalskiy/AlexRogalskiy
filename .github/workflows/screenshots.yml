@@ -16,13 +16,13 @@ jobs:
             width: 600
             height: 500
             tag: 'brainyquote'
-          - url: 'https://www.poetryfoundation.org/poems/poem-of-the-day'
+          - url: 'https://apoemaday.tumblr.com/'
             width: 600
             height: 500
-            tag: 'poetryfoundation'
-          - url: 'https://in.pinterest.com/dictionarycom/word-of-the-day/'
+            tag: 'apoemaday'
+          - url: 'https://pinterest.com/dictionarycom/word-of-the-day/'
             width: 800
-            height: 700
+            height: 500
             tag: 'pinterest'
 
     steps:

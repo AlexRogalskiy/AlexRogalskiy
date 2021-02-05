@@ -181,12 +181,6 @@
 </div>
 <!--views:poem-rss-marker:end-->
 
-<div id="poem_block_id" align="center" style="align-content: center">
-    <a href="https://apoemaday.tumblr.com/" target="_blank">
-        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-apoemaday.png" alt="Poem of the Day" />
-    </a>
-</div>
-
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">

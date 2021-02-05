@@ -166,7 +166,18 @@
 
 <div id="image_of_the_day_block_id" align="center" style="align-content: center">
     <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
-        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-brainyquote-ubuntu-latest-600-500.png" alt="Image of the Day" />
+        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-brainyquote.png" alt="Image of the Day" />
+    </a>
+</div>
+
+## 💬 _Word of the Day_
+
+<div id="word_of_the_day_block_id" align="center" style="align-content: center">
+    <a href="https://apoemaday.tumblr.com/" target="_blank">
+        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-apoemaday.png" alt="Poem of the Day" />
+    </a>
+    <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
+        <img width="800" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-pinterest.png" alt="Word of the Day" />
     </a>
 </div>
 
@@ -190,7 +201,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-17°C (<i>broken clouds</i>), humidity: 78%, pressure: 1013 (mbar), wind: /east/ 4 (m/s), cloudy: 75%</b>
+        <b>-14°C (<i>scattered clouds</i>), humidity: 78%, pressure: 1015 (mbar), wind: /north-east/ 6 (m/s), cloudy: 40%</b>
         <br />
         Today, the Sun rises at <b>09:02 am</b> and sets at <b>17:23 pm</b>.
     </p>

@@ -162,6 +162,14 @@
 </div>
 -->
 
+## 📷 _Image of the Day_
+
+<div id="image_of_the_day_block_id" align="center" style="align-content: center">
+    <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
+        <img width="600" src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/generated/screenshot-brainyquote-ubuntu-latest-600.png" alt="Image of the Day" />
+    </a>
+</div>
+
 ## 🏝️ _Travel & Leisure_
 
 <!--views:photo-marker:start-->

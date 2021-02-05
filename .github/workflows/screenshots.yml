@@ -3,7 +3,7 @@ name: Screenshots for README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 0' # every week
+    - cron: '0 1 * * *' # every day
 
 jobs:
   screenshot:
@@ -12,7 +12,8 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
         width: [ 1200, 600 ]
-        site: [ https://www.pinterest.com/merriamwebster/word-of-the-day/, https://www.pinterest.com/dictionarycom/word-of-the-day/ ]
+        site: [ 'https://www.brainyquote.com/quote_of_the_day' ]
+        prefix: [ 'brainyquote' ]
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
@@ -20,7 +21,7 @@ jobs:
         uses: swinton/screenshot-website@v1.x
         with:
           source: ${{ matrix.site }}
-          destination: ./images/generated/screenshot-${{ matrix.site }}-${{ matrix.os }}-${{ matrix.width }}.png
+          destination: ../images/generated/screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}.png
           width: ${{ matrix.width }}
           full-page: true
 

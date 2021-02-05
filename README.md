@@ -162,6 +162,14 @@
 </div>
 -->
 
+## 📷 _Image of the Day_
+
+<div id="image_of_the_day_block_id" align="center" style="align-content: center">
+    <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
+        <img width="600" src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/generated/screenshot-brainyquote-ubuntu-latest-600.png" alt="Image of the Day" />
+    </a>
+</div>
+
 ## 🏝️ _Travel & Leisure_
 
 <!--views:photo-marker:start-->
@@ -182,9 +190,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>few clouds</i>), humidity: 85%, pressure: 1010 (mbar), wind: /east/ 4 (m/s), cloudy: 20%</b>
+        <b>-15°C (<i>broken clouds</i>), humidity: 85%, pressure: 1011 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
         <br />
-        Today, the Sun rises at <b>09:05 am</b> and sets at <b>17:20 pm</b>.
+        Today, the Sun rises at <b>09:02 am</b> and sets at <b>17:23 pm</b>.
     </p>
 </div>
 

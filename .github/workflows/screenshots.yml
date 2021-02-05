@@ -25,7 +25,7 @@ jobs:
       - name: Screenshot Website
         uses: swinton/screenshot-website@v1.x
         with:
-          source: ${{ matrix.site }}
+          source: ${{ matrix.url }}
           destination: screenshot-${{ matrix.tag }}.png
           width: ${{ matrix.width }}
           height: ${{ matrix.height }}

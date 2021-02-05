@@ -11,6 +11,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     strategy:
       max-parallel: 1
       matrix:
@@ -25,13 +26,26 @@ jobs:
           cargo run --bin ${{ matrix.bin }}
         shell: bash
 
-      - name: Commit update
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Prepare git config
+        run: |
+          git config --global core.autocrlf false
+          git config --global core.ignorecase false
+          git config --global help.autocorrect 1
+          git config --global core.fileMode false
+          git config --local user.email "github-actions@nullables.io"
+          git config --local user.name "GitHub Actions"
+
+      - name: Commit changeset
+        run: |
+          git add .
+          git commit -am "[nodoc] Update feeds\n\nAdded feeds" || echo "No changes to commit"
+
+      - name: Pull changeset
+        run: |
+          git pull origin master
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          branch: master
-          skip_dirty_check: true
-          commit_message: "docs: updates on README:feeds\n\n Added information on feeds"
-          commit_options: '--no-verify --signoff'
-          commit_user_name: GitHub Bot
-          commit_user_email: github-actions@nullables.io
-          commit_author: GitHub Bot <github-actions@nullables.io>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

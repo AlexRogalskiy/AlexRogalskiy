@@ -113,7 +113,7 @@ jobs:
       matrix:
         include:
           - url: 'https://pinterest.com/dictionarycom/word-of-the-day/'
-            width: 830
+            width: 860
             height: 500
             tag: 'pinterest'
     steps:

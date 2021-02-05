@@ -10,19 +10,19 @@ use regex::Captures;
 
 struct FeedItem {
     title: String,
+    description: String,
     link: String,
     pub_date: String,
 }
 
-pub fn create_readme() -> std::io::Result<()> {
+pub fn create_poem_rss() -> std::io::Result<()> {
     let tpl =
         fs::read_to_string("README.md")
         .expect("Something went wrong reading the README.md file");
 
-    let re = Regex::new(r"<!--views:rss-marker:start-->[\s\S]*?<!--views:rss-marker:end-->").unwrap();
-    let last_articles = format!("{}{}\n{}", "<!--views:rss-marker:start-->", get_latest_articles(), "<!--views:rss-marker:end-->");
+    let re = Regex::new(r"<!--views:poem-rss-marker:start-->[\s\S]*?<!--views:poem-rss-marker:end-->").unwrap();
+    let last_articles = format!("{}{}\n{}", "<!--views:poem-rss-marker:start-->", get_latest_articles(), "<!--views:poem-rss-marker:end-->");
     let result = re.replace(&tpl, |_caps: &Captures| { &last_articles });
-    println!("{}", result);
     return fs::write(
         "README.md",
         &*result
@@ -47,19 +47,20 @@ fn get_latest_articles() -> String {
     });
 
     // Filter las 5 articles + format each one as markdown list string
-    return posts[..5].iter().fold("".to_string(), |acc, item| {
-        format!("{}\n* [{}]({})", acc, item.title, item.link)
+    return posts[..1].iter().fold("".to_string(), |_, item| {
+        format!("\n<div align=\"center\" style=\"align-content: center\">\n<a href=\"{}\" target=\"_blank\">\n<span>{}</span>\n</a>\n<div style=\"display:block;text-overflow: ellipsis;width: 200px;overflow: hidden;white-space: nowrap;\">\n{}\n</div>\n</div>", item.link, item.title, item.description)
     });
 }
 
 // Fetch all articles of my blog on rss.xml
 fn get_blog_rss() -> Vec<FeedItem> {
-    return Channel::from_url("https://feeds.howtogeek.com/HowToGeek")
+    return Channel::from_url("https://apoemaday.tumblr.com/rss")
         .unwrap()
         .items()
         .iter()
         .map(|item| FeedItem {
             title: item.title().unwrap().to_string(),
+            description: item.description().unwrap().to_string(),
             link: item.link().unwrap().to_string(),
             pub_date: item.pub_date().unwrap().to_string(),
         })

@@ -172,6 +172,17 @@
 
 ## 💬 _Word of the Day_
 
+<!--views:poem-rss-marker:start-->
+<div align="center" style="align-content: center">
+<a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank">
+<span>I Live My Life in Widening Circles</span>
+</a>
+<div style="display:block;text-overflow: ellipsis;width: 200px;overflow: hidden; white-space: nowrap;">
+<p>by Rainer Maria Rilke</p><p>I live my life in widening circles<br/>that reach out across the world.<br/>I may not complete this last one<br/>but I give myself to it.<br/><br/>I circle around God, around the primordial tower.<br/>I’ve been circling for thousands of years<br/>and I still don’t know: am I a falcon,<br/>a storm, or a great song?</p>
+</div>
+</div>
+<!--views:poem-rss-marker:end-->
+
 <div id="poem_block_id" align="center" style="align-content: center">
     <a href="https://apoemaday.tumblr.com/" target="_blank">
         <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-apoemaday.png" alt="Poem of the Day" />
@@ -233,13 +244,13 @@
 
 ## 🔣 _Recent News_
 
-<!--views:rss-marker:start-->
-* [It's Time to Trash Your Wink Hub and Move On](https://www.reviewgeek.com/69784/its-time-to-trash-your-wink-hub-and-move-on/)
-* [Deal Alert: Grab the DJI Osmo Pocket 4K Gimbal Camera for Half Off](https://www.reviewgeek.com/69781/deal-grab-the-dji-osmo-pocket-4k-gimbal-camera-for-half-off/)
-* [Watch America's Favorite Rom-Com This Valentine's Day](https://www.lifesavvy.com/54962/watch-americas-favorite-rom-com-this-valentines-day/)
-* [Zoom Imagines a 'Jetsons'-like Return to the Office](https://www.reviewgeek.com/69764/zoom-imagines-a-jetsons-like-return-to-the-office/)
-* [Poly's New $815 Monitor Has a Built-In Webcam, Microphone, and Ring Light](https://www.reviewgeek.com/69766/polys-new-815-monitor-has-a-built-in-webcam-microphone-and-ring-light/)
-<!--views:rss-marker:end-->
+<!--views:reviewgeek-rss-marker:start-->
+* [PSA: Google Will Delete Your Play Music Library Before the End of February](https://www.reviewgeek.com/70128/psa-google-will-delete-your-play-music-library-before-the-end-of-february/)
+* [Airspeeder Reveals the World's First Electric Flying "Race Car"](https://www.reviewgeek.com/70120/airspeeder-reveals-the-worlds-first-electric-flying-race-car/)
+* [You Can Now Pre-Order 'Raya and the Last Dragon' on Disney+ for Thirty Bucks](https://www.reviewgeek.com/70117/you-can-now-pre-order-raya-and-the-last-dragon-on-disney-for-thirty-bucks/)
+* [The Great Suspender Tab Freezing Extension Is Dead, But You Don't Need It Anyway](https://www.reviewgeek.com/70105/the-great-suspender-tab-freezing-extension-is-dead-but-you-dont-need-it-anyway/)
+* [[Update: Statement] Hackers Might Be Turning Your Plex Server Into a Powerful DDOS Botnet](https://www.reviewgeek.com/70102/hackers-might-be-turning-your-plex-server-into-a-powerful-ddos-botnet/)
+<!--views:reviewgeek-rss-marker:end-->
 
 ## ⏰ _Recent Activities_
 

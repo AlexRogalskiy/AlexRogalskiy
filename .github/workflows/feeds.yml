@@ -1,4 +1,4 @@
-name: README rss feeds
+name: Update README on rss feeds
 
 on:
   workflow_dispatch:
@@ -11,18 +11,24 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        include:
+          - bin: reviewgeek-rss
+          - bin: poem-rss
     steps:
       - uses: actions/checkout@v2
       - name: Build
         # Replace "cargo build" to "cargo run" to run the script
-        run: cargo run
+        run: cargo run --bin {{ matrix.bin }}
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: master
           skip_dirty_check: true
-          commit_message: "docs: updates on README:news\n\n Added information on news"
+          commit_message: "docs: updates on README:feeds\n\n Added information on feeds"
           commit_options: '--no-verify --signoff'
           commit_user_name: GitHub Bot
           commit_user_email: github-actions@nullables.io

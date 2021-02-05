@@ -187,7 +187,7 @@
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;3b&#x2F;52&#x2F;f73b5237aa10ba3129a8c97c7d1ef8d7.jpg" alt="We can&#39;t tell the future, but harbinger is the Word of the Day. Want more? Learn a new vocabulary word every day at Dictionary.com." />
     </p>
     <p align="center" style="text-align:center;">
-        Above are the latest pictures posted by
+        <i>Above are the latest pictures posted by</i>
         <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/pinterest.svg" width="20" height="20" alt="Pinterest photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@pinterest!</b></i></span>
@@ -208,7 +208,7 @@
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;EmOGDAwDcUAAX-pRIxJ&amp;tp&#x3D;1&amp;oh&#x3D;d6486d3e82a545f19705fc617d5cbd00&amp;oe&#x3D;60483D5B" alt="Привет всем✌🏼 и рады поделиться с вами новостью, что уже 30 января в 17:00 будет грандиозное чаепитие с самым большим брецелем в России 🥨   На маркете в @nikolskiye испекут 3 огромных брецеля, размер каждого составит 80 х 60 см, а вес около 6 кг. На сегодняшний день рекордные по размеру брецели в России не зарегистрированы🤤Единственный схожий рекорд зафиксирован в 2017 году в Тамбове — тогда был испечен самый большой в России крендель размером 71 х 57,5 см и весом 5 кг.   🥨Увидеть и попробовать гигантский брецель смогут все желающие!   Встречаемся на маркете @nikolskiye в 17:00!   Адрес: Садовая ул., 62  Фото @karisha222   #visitpetersburg #кудасходитьспб #выходныеспб #зима #выходные #туризм #путешествие #россия #Серебряное_ожерелье" />
     </p>
     <p align="center" style="text-align:center;">
-        Above are the latest pictures posted by
+        <i>Above are the latest pictures posted by</i>
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>

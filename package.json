@@ -17,7 +17,7 @@
     },
     "devDependencies": {
         "jest": "^27.0.0-next.2",
-        "prettier": "^2.1.2"
+        "prettier": "^2.2.1"
     },
     "repository": {
         "type": "git",

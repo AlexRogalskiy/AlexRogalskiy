@@ -36,19 +36,23 @@ jobs:
           cp -rf ${{ runner.temp }}/screenshot-*.png ${{ github.workspace }}/images/generated
         shell: bash
 
-      - name: Prepare git
+      - name: Prepare git config
         run: |
           git config --global core.autocrlf false
           git config --global core.ignorecase false
           git config --global help.autocorrect 1
           git config --global core.fileMode false
-
-      - name: Commit files
-        run: |
           git config --local user.email "github-actions@nullables.io"
           git config --local user.name "GitHub Actions"
+
+      - name: Commit changeset
+        run: |
           git add .
           git commit -am "[nodoc] Update screenshots\n\nAdded screenshot files" || echo "No changes to commit"
+
+      - name: Pull changeset
+        run: |
+          git pull origin master
 
       - name: Push changes
         uses: ad-m/github-push-action@master

@@ -36,21 +36,15 @@ jobs:
           git config --global core.ignorecase false
           git config --global help.autocorrect 1
           git config --global core.fileMode false
-          git config github.token ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch git commits
+      - name: Commit files
         run: |
-          git pull origin master
-        shell: bash
+          git config --local user.email "github-actions@example.com"
+          git config --local user.name "GitHub Actions"
+          git commit -am "[nodoc] Update screenshots\n\nAdded screenshot files" || echo "No changes to commit"
 
-      - name: Commit update
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          branch: master
-          skip_dirty_check: true
-          skip_fetch: true
-          commit_message: "docs: updates on GitHub screenshots\n\n Added information on GitHub screenshots"
-          commit_options: '--no-verify --signoff'
-          commit_user_name: GitHub Bot
-          commit_user_email: github-actions@nullables.io
-          commit_author: GitHub Bot <github-actions@nullables.io>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

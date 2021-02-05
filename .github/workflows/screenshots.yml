@@ -23,7 +23,7 @@ jobs:
           source: ${{ matrix.site }}
           destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}.png
           width: ${{ matrix.width }}
-          full-page: true
+          full-page: false
 
       - name: Find and copy images
         run: |

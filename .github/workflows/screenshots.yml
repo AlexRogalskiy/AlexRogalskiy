@@ -11,7 +11,8 @@ jobs:
     strategy:
       matrix:
         os: [ ubuntu-latest ]
-        width: [ 1200, 600 ]
+        width: [ 600 ]
+        height: [ 1020 ]
         site: [ 'https://www.brainyquote.com/quote_of_the_day' ]
         prefix: [ 'brainyquote' ]
     runs-on: ${{ matrix.os }}
@@ -21,8 +22,9 @@ jobs:
         uses: swinton/screenshot-website@v1.x
         with:
           source: ${{ matrix.site }}
-          destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}.png
+          destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}x${{ matrix.height }}.png
           width: ${{ matrix.width }}
+          height: ${{ matrix.height }}
           full-page: false
 
       - name: Find and copy images

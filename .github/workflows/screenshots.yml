@@ -18,10 +18,10 @@ jobs:
             tag: 'brainyquote'
           - url: 'https://apoemaday.tumblr.com/'
             width: 600
-            height: 500
+            height: 600
             tag: 'apoemaday'
           - url: 'https://pinterest.com/dictionarycom/word-of-the-day/'
-            width: 800
+            width: 830
             height: 500
             tag: 'pinterest'
 

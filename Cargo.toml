@@ -2,11 +2,15 @@
 name = "rss-feeds-provider"
 version = "0.1.0"
 edition = "2018"
-authors = ["AlexRogalskiy"]
+authors = ["Alexander Rogalskiy"]
 
 [[bin]]
-name = "rss"
-path = "rss/main.rs"
+name = "reviewgeek-rss"
+path = "rss/reviewgeek/main.rs"
+
+[[bin]]
+name = "poem-rss"
+path = "rss/poem/main.rs"
 
 [dependencies]
 regex = "1.4.3"

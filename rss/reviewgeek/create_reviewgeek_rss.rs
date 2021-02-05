@@ -14,15 +14,14 @@ struct FeedItem {
     pub_date: String,
 }
 
-pub fn create_readme() -> std::io::Result<()> {
+pub fn create_reviewgeek_rss() -> std::io::Result<()> {
     let tpl =
         fs::read_to_string("README.md")
         .expect("Something went wrong reading the README.md file");
 
-    let re = Regex::new(r"<!--views:rss-marker:start-->[\s\S]*?<!--views:rss-marker:end-->").unwrap();
-    let last_articles = format!("{}{}\n{}", "<!--views:rss-marker:start-->", get_latest_articles(), "<!--views:rss-marker:end-->");
+    let re = Regex::new(r"<!--views:reviewgeek-rss-marker:start-->[\s\S]*?<!--views:reviewgeek-rss-marker:end-->").unwrap();
+    let last_articles = format!("{}{}\n{}", "<!--views:reviewgeek-rss-marker:start-->", get_latest_articles(), "<!--views:reviewgeek-rss-marker:end-->");
     let result = re.replace(&tpl, |_caps: &Captures| { &last_articles });
-    println!("{}", result);
     return fs::write(
         "README.md",
         &*result

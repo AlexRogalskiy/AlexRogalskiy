@@ -172,19 +172,38 @@
 
 ## 💬 _Word of the Day_
 
-<div id="word_of_the_day_block_id" align="center" style="align-content: center">
-    <a href="https://apoemaday.tumblr.com/" target="_blank">
-        <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-apoemaday.png" alt="Poem of the Day" />
-    </a>
-    <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
-        <img width="800" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-pinterest.png" alt="Word of the Day" />
-    </a>
+<!--views:poem-rss-marker:start-->
+<div align="center" style="align-content: center">
+<details>
+<summary><a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank"><i>I Live My Life in Widening Circles</i></a></summary>
+<p>by Rainer Maria Rilke</p><p>I live my life in widening circles<br/>that reach out across the world.<br/>I may not complete this last one<br/>but I give myself to it.<br/><br/>I circle around God, around the primordial tower.<br/>I’ve been circling for thousands of years<br/>and I still don’t know: am I a falcon,<br/>a storm, or a great song?</p>
+</details>
 </div>
+<!--views:poem-rss-marker:end-->
+
+<!--views:pinterest-marker:start-->
+<div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8f&#x2F;02&#x2F;6b&#x2F;8f026b84c86dbb370437f2514351ba9c.jpg" alt="Lustrum is the Word of the Day, but it won&#39;t last for five years. See where it comes from at Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3d&#x2F;e2&#x2F;0c&#x2F;3de20c3d9bdda53056c66d226ce58227.jpg" alt="Today&#39;s Word of the Day gets us right in the feels. It&#39;s lachrymose. Learn more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;73&#x2F;0b&#x2F;72730bbbef15d13b2ffb2c2e5a52f325.jpg" alt="Is it time to add uitwaaien to your self-care routine? It&#39;s the Dictionary.com Word of the Day. Click through to learn more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;3b&#x2F;52&#x2F;f73b5237aa10ba3129a8c97c7d1ef8d7.jpg" alt="We can&#39;t tell the future, but harbinger is the Word of the Day. Want more? Learn a new vocabulary word every day at Dictionary.com." />
+    </p>
+    <p align="center" style="text-align:center;">
+        <i>Above are the latest pictures posted by</i>
+        <a href="https://www.pinterest.ru/dictionarycom/word-of-the-day/" target="_blank">
+            <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/pinterest.svg" width="20" height="20" alt="Pinterest photos" />
+            <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@pinterest!</b></i></span>
+        </a>
+    </p>
+</div>
+
+<!--views:pinterest-marker:end-->
 
 ## 🏝️ _Travel & Leisure_
 
-<!--views:photo-marker:start-->
-<div id="contacts_travel_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+<!--views:instagram-marker:start-->
+<div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;145204072_448760802979294_7892777162196181981_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;LT2MKyp4nNwAX-tgCNa&amp;tp&#x3D;1&amp;oh&#x3D;d17884f4a7a67c8a61dae37b1196ab14&amp;oe&#x3D;601F4EE3" alt="-🇺🇸- The first cryptozoological museum &amp;quot;Bestiary&amp;quot; @bestiary.space opened in St. Petersburg! 🔍  This is the most fantastic of all science museums and the most scientific of all fantasy museums!  Thanks to the use of the latest materials in the creation of scenery and multimedia technologies, you will find yourself in an exciting fantasy world, which consists of 4 spaces.  You will meet legendary creatures and incredible monsters!   📍 The “Grand Canyon” shopping mall, 3rd floor of, in the space &amp;quot;Divny gorod! ♦️Age limit 6.  -🇷🇺- В Петербурге открылся криптозоологичекий музей «Бестиарий» @bestiary.space 👀  Это самый фантастический из всех научных и самый научный из всех фантастических музеев!  Благодаря использованию новейших материалов в создании декораций и мультимедиа технологий, вы окажетесь в захватывающем фэнтези мире, который состоит из 4-х пространств. Познакомитесь с легендарными существами и невероятными монстрами!   📍 ТРК «Гранд-Каньон», 3 этаж, пространство «Дивный город»! ♦️Возрастное ограничение 6+  #visitpetersburg #russiatravel #spb #museum #tourism #vacations #путешествуй" />
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;145143834_1057754714744147_7021185300127364857_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;Y7UgpqFeNnMAX_hgDeJ&amp;tp&#x3D;1&amp;oh&#x3D;e0344a65a7d2a24f4ae546596abb2e70&amp;oe&#x3D;604803B9" alt="-🇺🇸- 🌸 The Japanese camellias bloom season continues in botanical garden in Saint Petersburg.  🌿 There’re also multimedia project “Garden of light”, where you can see the new kinds of digital art and the beauty of nature.  🗓 till the end of February  📍 Saint Petersburg Botanical Garden  -🇷🇺-  🌸В Ботаническом саду продолжается сезон цветения японских камелий!  🌿Посетители могут полюбоваться этими нежными цветами на Субтропическом маршруте оранжереи.  🔦Также до конца февраля, ежедневно с 17:30 до 22:30, в Ботаническом саду проходит мультимедийный проект Сад Света, соединивший в себе новые виды цифрового искусства и красоту природы.   🎇Светящиеся арт-объекты украшают парковый маршрут длинной более километра.  🗓 до конца февраля 📍 Ботанический сад Петра Великого  📸 @snegiribird   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
@@ -192,32 +211,38 @@
         <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;143243380_223107236116421_4482637881901123170_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;EmOGDAwDcUAAX-pRIxJ&amp;tp&#x3D;1&amp;oh&#x3D;d6486d3e82a545f19705fc617d5cbd00&amp;oe&#x3D;60483D5B" alt="Привет всем✌🏼 и рады поделиться с вами новостью, что уже 30 января в 17:00 будет грандиозное чаепитие с самым большим брецелем в России 🥨   На маркете в @nikolskiye испекут 3 огромных брецеля, размер каждого составит 80 х 60 см, а вес около 6 кг. На сегодняшний день рекордные по размеру брецели в России не зарегистрированы🤤Единственный схожий рекорд зафиксирован в 2017 году в Тамбове — тогда был испечен самый большой в России крендель размером 71 х 57,5 см и весом 5 кг.   🥨Увидеть и попробовать гигантский брецель смогут все желающие!   Встречаемся на маркете @nikolskiye в 17:00!   Адрес: Садовая ул., 62  Фото @karisha222   #visitpetersburg #кудасходитьспб #выходныеспб #зима #выходные #туризм #путешествие #россия #Серебряное_ожерелье" />
     </p>
     <p align="center" style="text-align:center;">
-        Above are the latest pictures posted by
+        <i>Above are the latest pictures posted by</i>
         <a href="https://www.instagram.com/visitpetersburg/" target="_blank">
             <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instagram.svg" width="20" height="20" alt="Instagram photos" />
             <span style="font:italic bold 12px/30px Georgia, serif;"><i><b>@visitpetersburg!</b></i></span>
         </a>
     </p>
+</div>
+
+<!--views:instagram-marker:end-->
+
+<!--views:weather-marker:start-->
+<div id="weather_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>scattered clouds</i>), humidity: 78%, pressure: 1015 (mbar), wind: /north-east/ 6 (m/s), cloudy: 40%</b>
+        <b>-15°C (<i>broken clouds</i>), humidity: 85%, pressure: 1016 (mbar), wind: /north-east/ 5 (m/s), cloudy: 75%</b>
         <br />
-        Today, the Sun rises at <b>09:02 am</b> and sets at <b>17:23 pm</b>.
+        Today, the Sun rises at <b>09:00 am</b> and sets at <b>17:25 pm</b>.
     </p>
 </div>
 
-<!--views:photo-marker:end-->
+<!--views:weather-marker:end-->
 
 ## 🔣 _Recent News_
 
-<!--views:rss-marker:start-->
-* [It's Time to Trash Your Wink Hub and Move On](https://www.reviewgeek.com/69784/its-time-to-trash-your-wink-hub-and-move-on/)
-* [Deal Alert: Grab the DJI Osmo Pocket 4K Gimbal Camera for Half Off](https://www.reviewgeek.com/69781/deal-grab-the-dji-osmo-pocket-4k-gimbal-camera-for-half-off/)
-* [Watch America's Favorite Rom-Com This Valentine's Day](https://www.lifesavvy.com/54962/watch-americas-favorite-rom-com-this-valentines-day/)
-* [Zoom Imagines a 'Jetsons'-like Return to the Office](https://www.reviewgeek.com/69764/zoom-imagines-a-jetsons-like-return-to-the-office/)
-* [Poly's New $815 Monitor Has a Built-In Webcam, Microphone, and Ring Light](https://www.reviewgeek.com/69766/polys-new-815-monitor-has-a-built-in-webcam-microphone-and-ring-light/)
-<!--views:rss-marker:end-->
+<!--views:reviewgeek-rss-marker:start-->
+* [PSA: Google Will Delete Your Play Music Library Before the End of February](https://www.reviewgeek.com/70128/psa-google-will-delete-your-play-music-library-before-the-end-of-february/)
+* [Airspeeder Reveals the World's First Electric Flying "Race Car"](https://www.reviewgeek.com/70120/airspeeder-reveals-the-worlds-first-electric-flying-race-car/)
+* [You Can Now Pre-Order 'Raya and the Last Dragon' on Disney+ for Thirty Bucks](https://www.reviewgeek.com/70117/you-can-now-pre-order-raya-and-the-last-dragon-on-disney-for-thirty-bucks/)
+* [The Great Suspender Tab Freezing Extension Is Dead, But You Don't Need It Anyway](https://www.reviewgeek.com/70105/the-great-suspender-tab-freezing-extension-is-dead-but-you-dont-need-it-anyway/)
+* [[Update: Statement] Hackers Might Be Turning Your Plex Server Into a Powerful DDOS Botnet](https://www.reviewgeek.com/70102/hackers-might-be-turning-your-plex-server-into-a-powerful-ddos-botnet/)
+<!--views:reviewgeek-rss-marker:end-->
 
 ## ⏰ _Recent Activities_
 

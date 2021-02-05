@@ -12,8 +12,8 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
         width: [ 1200, 600 ]
-        site: [ https://www.brainyquote.com/quote_of_the_day ]
-        prefix: [ brainyquote ]
+        site: [ 'https://www.brainyquote.com/quote_of_the_day' ]
+        prefix: [ 'brainyquote' ]
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2

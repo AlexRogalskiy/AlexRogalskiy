@@ -22,7 +22,7 @@ jobs:
         uses: swinton/screenshot-website@v1.x
         with:
           source: ${{ matrix.site }}
-          destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}x${{ matrix.height }}.png
+          destination: screenshot-${{ matrix.prefix }}-${{ matrix.os }}-${{ matrix.width }}-${{ matrix.height }}.png
           width: ${{ matrix.width }}
           height: ${{ matrix.height }}
           full-page: false

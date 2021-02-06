@@ -249,6 +249,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
+- [Language Log » The directed graph of stereotypical incomprehensibility](https://languagelog.ldc.upenn.edu/nll/?p=1024)
+- [How to Write Readable Code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
+- [Things Nerds Can Appreciate about Football’s Game Design](https://jessegalef.com/2021/02/05/things-nerds-can-appreciate-about-footballs-game-design/)
+- [GameStop mania may not have been the retail trader rebellion it was perceived as](https://www.cnbc.com/2021/02/05/gamestop-mania-may-not-have-been-the-retail-trader-rebellion-it-was-perceived-to-be-data-shows.html)
+- [Show HN: Temps-lite – 5mb clone of 43mb Electron weather app](https://github.com/GirkovArpa/temps-lite)
+- [Three's a crowd: A rare form of polyorchidism with sertoli cell adenomas](https://www.sciencedirect.com/science/article/pii/S2214442020304010?via%3Dihub)
+- [AI Art Generators](https://aiartists.org/ai-generated-art-tools)
+- [Bat People on the Moon: A Great Moment in 19th Century Science Journalism](https://www.science20.com/science_20/bat_people_moon_great_moment_19th_century_science_journalism-82004)
+- [Dropbox Paper persisting author history when copied from a different source](https://twitter.com/ariel_n/status/1357823049223966722)
+- [UK pressured to follow US in ending arms sales to Saudi](https://www.telegraph.co.uk/news/2021/02/05/uk-pressured-follow-us-ending-arms-sales-saudi/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

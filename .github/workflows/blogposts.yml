@@ -27,3 +27,8 @@ jobs:
           max_post_count: "10"
           comment_tag_name: "YCOMBINATOR-POST-LIST"
           feed_list: "https://news.ycombinator.com/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "COMPUTERWORLD-POST-LIST"
+          feed_list: "https://www.computerworld.com/index.rss"

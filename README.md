@@ -264,6 +264,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
+- [Coronavirus live news: Greece limits AstraZeneca jab to under 65s; close contacts of Melbourne hotel worker test negative](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [New Zealand celebrates Waitangi Day with dawn service, bacon butties](https://www.theguardian.com/world/2021/feb/06/new-zealand-celebrates-waitangi-day-with-dawn-service-bacon-butties)
+- [Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'](https://www.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden)
+- [Man fatally stabbed and 10 injured in multiple incidents in Croydon](https://www.theguardian.com/uk-news/2021/feb/06/man-fatally-stabbed-and-10-injured-in-multiple-incidents-in-croydon)
+- [HS2 activist escapes bailiffs and heads back into Euston tunnels](https://www.theguardian.com/environment/2021/feb/05/bailiffs-spend-12-hours-trying-remove-hs2-activist-euston-tunnel)
+- [Allegations against TI and Tiny prompt call to support Black sexual assault survivors](https://www.theguardian.com/us-news/2021/feb/05/ti-tiny-sexual-assault-allegations-black-survivors-metoo)
+- [The Investigation review – Kim Wall drama offers a new kind of true crime](https://www.theguardian.com/tv-and-radio/2021/feb/05/the-investigation-review-bbc-kim-wall-drama)
+- [Francesca Jones shows patience in face of a flurry of attention in Melbourne](https://www.theguardian.com/sport/2021/feb/05/tennis-francesca-jones-shows-patience-in-face-of-a-flurry-of-attention-in-melbourne)
+- [Jürgen Klopp wants Liverpool to be brave and rebuild Anfield fortress](https://www.theguardian.com/football/2021/feb/05/jurgen-klopp-says-liverpool-must-be-brave-to-rebuild-anfield-fortress)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/05/20-photographs-of-the-week)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -291,6 +291,11 @@
 - [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
+### _ComputerWorld posts_
+
+<!-- COMPUTERWORLD-POST-LIST:START -->
+<!-- COMPUTERWORLD-POST-LIST:END -->
+
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
@@ -300,3 +305,7 @@
 4. 🎉 Merged PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 5. 💪 Opened PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
+
+## 📌 _Links_
+
+- [World Tour](https://world-tour.vercel.app/)

@@ -46,7 +46,7 @@ fn get_latest_articles() -> String {
         }
     });
 
-    // Filter las 5 articles + format each one as markdown list string
+    // Filter the last article + format each one as markdown list string
     return posts[..1].iter().fold("".to_string(), |_, item| {
         format!("\n<div align=\"center\" style=\"align-content: center\">\n<details>\n<summary><a href=\"{}\" target=\"_blank\"><i>{}</i></a></summary>\n{}\n</details>\n</div>", item.link, item.title, item.description)
     });

@@ -3,7 +3,7 @@ name: Screenshots for README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *' # every day
+    - cron: '0 7 * * *' # every day
 
 jobs:
   screenshot-brainyquote:

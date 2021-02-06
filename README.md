@@ -249,51 +249,61 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Language Log » The directed graph of stereotypical incomprehensibility](https://languagelog.ldc.upenn.edu/nll/?p=1024)
-- [How to Write Readable Code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
-- [Things Nerds Can Appreciate about Football’s Game Design](https://jessegalef.com/2021/02/05/things-nerds-can-appreciate-about-footballs-game-design/)
-- [GameStop mania may not have been the retail trader rebellion it was perceived as](https://www.cnbc.com/2021/02/05/gamestop-mania-may-not-have-been-the-retail-trader-rebellion-it-was-perceived-to-be-data-shows.html)
-- [Show HN: Temps-lite – 5mb clone of 43mb Electron weather app](https://github.com/GirkovArpa/temps-lite)
-- [Three's a crowd: A rare form of polyorchidism with sertoli cell adenomas](https://www.sciencedirect.com/science/article/pii/S2214442020304010?via%3Dihub)
-- [AI Art Generators](https://aiartists.org/ai-generated-art-tools)
-- [Bat People on the Moon: A Great Moment in 19th Century Science Journalism](https://www.science20.com/science_20/bat_people_moon_great_moment_19th_century_science_journalism-82004)
-- [Dropbox Paper persisting author history when copied from a different source](https://twitter.com/ariel_n/status/1357823049223966722)
-- [UK pressured to follow US in ending arms sales to Saudi](https://www.telegraph.co.uk/news/2021/02/05/uk-pressured-follow-us-ending-arms-sales-saudi/)
+- [Selling all my crypto because of an authoritarian government](https://www.reddit.com/r/CryptoCurrency/comments/ldh53f/selling_all_my_crypto_because_of_an_authoritarian/)
+- [Complexity Explained](https://complexityexplained.github.io/)
+- [The Science of Swearing](https://readable.com/blog/the-science-of-swearing/)
+- [Myanmar in midst of 'national-scale internet blackout' – monitor](https://www.reuters.com/article/myanmar-politics-internet-int-idUSKBN2A608U)
+- [Database for Open Source Vulnerabilities](https://osv.dev/)
+- [How I collect and use 50 sources of my personal data](https://beepb00p.xyz/my-data.html)
+- [The end of the privacy of digital correspondence](https://european-pirateparty.eu/the-end-of-the-privacy-of-digital-correspondence/)
+- [Wsl2 sometime corrupt .zsh_history and Git (insider build fix)](https://github.com/microsoft/WSL/issues/5026#issuecomment-755515389)
+- [Samsung Pitches $17B Chip Plant in Texas – Manufacturing Business Technology](https://www.mbtmag.com/home/video/21259981/samsung-pitches-17b-chip-plant-in-texas)
+- [The Guide to Git I wish I had before I started my current job](https://webdevetc.com/blog/guide-to-git-i-wish-i-had/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Greece limits AstraZeneca jab to under 65s; close contacts of Melbourne hotel worker test negative](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
-- [New Zealand celebrates Waitangi Day with dawn service, bacon butties](https://www.theguardian.com/world/2021/feb/06/new-zealand-celebrates-waitangi-day-with-dawn-service-bacon-butties)
-- [Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'](https://www.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden)
-- [Man fatally stabbed and 10 injured in multiple incidents in Croydon](https://www.theguardian.com/uk-news/2021/feb/06/man-fatally-stabbed-and-10-injured-in-multiple-incidents-in-croydon)
-- [HS2 activist escapes bailiffs and heads back into Euston tunnels](https://www.theguardian.com/environment/2021/feb/05/bailiffs-spend-12-hours-trying-remove-hs2-activist-euston-tunnel)
-- [Allegations against TI and Tiny prompt call to support Black sexual assault survivors](https://www.theguardian.com/us-news/2021/feb/05/ti-tiny-sexual-assault-allegations-black-survivors-metoo)
-- [The Investigation review – Kim Wall drama offers a new kind of true crime](https://www.theguardian.com/tv-and-radio/2021/feb/05/the-investigation-review-bbc-kim-wall-drama)
-- [Francesca Jones shows patience in face of a flurry of attention in Melbourne](https://www.theguardian.com/sport/2021/feb/05/tennis-francesca-jones-shows-patience-in-face-of-a-flurry-of-attention-in-melbourne)
-- [Jürgen Klopp wants Liverpool to be brave and rebuild Anfield fortress](https://www.theguardian.com/football/2021/feb/05/jurgen-klopp-says-liverpool-must-be-brave-to-rebuild-anfield-fortress)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/05/20-photographs-of-the-week)
+- [India v England: Root hits double hundred on day two of first Test – live!](https://www.theguardian.com/sport/live/2021/feb/06/india-v-england-first-test-day-two-live)
+- [Coronavirus live: Boris Johnson says 'still early days' to talk about lifting restrictions; Russia reports 16,627 cases](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [Extremists like Marjorie Taylor Greene are the real face of the new Republican party | Lloyd Green](https://www.theguardian.com/commentisfree/2021/feb/06/extremists-marjorie-taylor-greene-real-new-republican-party)
+- ['Forget trends – do what makes you feel good': how to style a happy home](https://www.theguardian.com/lifeandstyle/2021/feb/06/forget-trends-do-what-makes-you-feel-good-how-to-style-a-happy-home)
+- [Massive Attack: 'You resurrect ghosts when you bring something back from the past'](https://www.theguardian.com/culture/2021/feb/06/massive-attack-you-resurrect-ghosts-when-you-bring-something-back-from-the-past)
+- [Canadian museum's ancient carving is one I made earlier, says local artist](https://www.theguardian.com/world/2021/feb/06/canada-stone-figure-ray-boudreau-royal-british-columbia-museum)
+- [Francis Spufford: 'I’m still angry about what has been done to this country'](https://www.theguardian.com/books/2021/feb/06/francis-spufford-im-still-angry-about-what-has-been-done-to-this-country)
+- [Boris Johnson planning NHS England overhaul, leaked paper shows](https://www.theguardian.com/politics/2021/feb/06/boris-johnson-planning-nhs-england-overhaul-leaked-paper-shows)
+- [Myanmar military shuts down internet as thousands protest against coup](https://www.theguardian.com/world/2021/feb/06/myanmar-military-shuts-down-internet-as-thousands-protest-against-coup)
+- [‘Inactivity is an ongoing pandemic’: the life-saving impact of moving your body](https://www.theguardian.com/lifeandstyle/2021/feb/06/inactivity-is-an-ongoing-pandemic-the-life-saving-impact-of-moving-your-body)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
+- [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
+- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
+- [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
+- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
+- [Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
 - [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
-- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
 - [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
 - [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
-- [Sauropod Vertebra Picture of the Week](https://svpow.com/)
 - [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 - [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
-- [Android emulator abused to introduce malware onto PCs](https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/)
-- [How will 'chipageddon' affect you?](https://www.bbc.com/news/technology-55936011)
-- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Zoom Rooms tweaks aim to bolster a safe re-opening of offices](https://www.computerworld.com/article/3606590/zoom-rooms-tweaks-aim-to-bolster-a-safe-re-opening-of-offices.html#tk.rss_all)
+- [How to fix five Windows 10 headaches](https://www.computerworld.com/article/3182846/how-to-fix-five-windows-10-headaches.html#tk.rss_all)
+- [Podcast: iOS 14.5: New features and release date](https://www.computerworld.com/article/3606111/podcast-ios-145-new-features-and-release-date.html#tk.rss_all)
+- [Android's underappreciated keyboard advantage](https://www.computerworld.com/article/3606128/android-keyboard-advantage.html#tk.rss_all)
+- [8K displays, eye-tracking for Apple’s AR glasses, are coming, report claims](https://www.computerworld.com/article/3606153/8k-displays-eye-tracking-for-apples-ar-glasses-are-coming-report-claims.html#tk.rss_all)
+- [Microsoft unveils Viva, its employee-experience platform for Teams](https://www.computerworld.com/article/3606072/microsoft-unveils-viva-its-employee-experience-platform-for-teams.html#tk.rss_all)
+- [Atlassian launches Cloud Enterprise to meet core customer needs](https://www.computerworld.com/article/3606133/atlassian-launches-cloud-enterprise-to-meet-core-customer-needs.html#tk.rss_all)
+- [Microsoft pushes 'in cloud' settings collection to simplify PC management](https://www.computerworld.com/article/3606134/microsoft-pushes-in-cloud-settings-collection-to-simplify-pc-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ## ⏰ _Recent Activities_

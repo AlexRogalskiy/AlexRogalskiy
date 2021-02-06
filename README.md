@@ -294,6 +294,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Zoom Rooms tweaks aim to bolster a safe re-opening of offices](https://www.computerworld.com/article/3606590/zoom-rooms-tweaks-aim-to-bolster-a-safe-re-opening-of-offices.html#tk.rss_all)
+- [How to fix five Windows 10 headaches](https://www.computerworld.com/article/3182846/how-to-fix-five-windows-10-headaches.html#tk.rss_all)
+- [Podcast: iOS 14.5: New features and release date](https://www.computerworld.com/article/3606111/podcast-ios-145-new-features-and-release-date.html#tk.rss_all)
+- [Android's underappreciated keyboard advantage](https://www.computerworld.com/article/3606128/android-keyboard-advantage.html#tk.rss_all)
+- [8K displays, eye-tracking for Apple’s AR glasses, are coming, report claims](https://www.computerworld.com/article/3606153/8k-displays-eye-tracking-for-apples-ar-glasses-are-coming-report-claims.html#tk.rss_all)
+- [Microsoft unveils Viva, its employee-experience platform for Teams](https://www.computerworld.com/article/3606072/microsoft-unveils-viva-its-employee-experience-platform-for-teams.html#tk.rss_all)
+- [Atlassian launches Cloud Enterprise to meet core customer needs](https://www.computerworld.com/article/3606133/atlassian-launches-cloud-enterprise-to-meet-core-customer-needs.html#tk.rss_all)
+- [Microsoft pushes 'in cloud' settings collection to simplify PC management](https://www.computerworld.com/article/3606134/microsoft-pushes-in-cloud-settings-collection-to-simplify-pc-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ## ⏰ _Recent Activities_

@@ -184,10 +184,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a5&#x2F;c2&#x2F;47a5c2db4e81f77a4a9b1f0fdf39091d.jpg" alt="Don&#39;t get swept up. Limerence is the Word of the Day. Get example sentences and more at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8f&#x2F;02&#x2F;6b&#x2F;8f026b84c86dbb370437f2514351ba9c.jpg" alt="Lustrum is the Word of the Day, but it won&#39;t last for five years. See where it comes from at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3d&#x2F;e2&#x2F;0c&#x2F;3de20c3d9bdda53056c66d226ce58227.jpg" alt="Today&#39;s Word of the Day gets us right in the feels. It&#39;s lachrymose. Learn more at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;73&#x2F;0b&#x2F;72730bbbef15d13b2ffb2c2e5a52f325.jpg" alt="Is it time to add uitwaaien to your self-care routine? It&#39;s the Dictionary.com Word of the Day. Click through to learn more." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;3b&#x2F;52&#x2F;f73b5237aa10ba3129a8c97c7d1ef8d7.jpg" alt="We can&#39;t tell the future, but harbinger is the Word of the Day. Want more? Learn a new vocabulary word every day at Dictionary.com." />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-11°C (<i>overcast clouds</i>), humidity: 79%, pressure: 1019 (mbar), wind: /north-east/ 5 (m/s), cloudy: 90%</b>
+        <b>-12°C (<i>light snow</i>), humidity: 85%, pressure: 1019 (mbar), wind: /north-east/ 6 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>09:00 am</b> and sets at <b>17:25 pm</b>.
     </p>

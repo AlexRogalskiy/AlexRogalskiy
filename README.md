@@ -135,20 +135,20 @@
 
 <div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center; font:italic bold 12px/30px Georgia, serif;"><i>Feel free to reach me out at:</i></p>
-    <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
-    <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
-    <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/opencollective.svg" width="30" height="30" alt="OpenCollective"></a>&nbsp;
-    <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/linkedin.svg" width="30" height="30" alt="LinkedIn"></a>&nbsp;
-    <a href="https://www.facebook.com/alexander.v.rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/facebook.svg" width="30" height="30" alt="Facebook"></a>&nbsp;
-    <a href="https://dev.to/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/devto.svg" width="30" height="30" alt="DevTo"></a>&nbsp;
-    <a href="https://www.hackster.io/alexander-v-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/hackster.svg" width="30" height="30" alt="Hackster"></a>&nbsp;
-    <a href="https://stackshare.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/stackshare.svg" width="30" height="30" alt="StackShare"></a>&nbsp;
-    <a href="https://www.instructables.com/member/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/instructables.svg" width="30" height="30" alt="Instructables"></a>&nbsp;
-    <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/github.svg" width="30" height="30" alt="GitHub"></a>&nbsp;
-    <a href="https://gitmemory.com/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/gitmemory.svg" width="30" height="30" alt="GitMemory"></a>&nbsp;
-    <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/codepen.svg" width="30" height="30" alt="CodePen"></a>&nbsp;
-    <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/codersrank.svg" width="30" height="30" alt="CodersRank"></a>&nbsp;
-    <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/main/images/social/sourcerer.svg" width="30" height="30" alt="Sourcerer"></a>
+    <a href="https://contact.do/n5RD"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/mail.svg" width="30" height="30" alt="Mail"></a>&nbsp;
+    <a href="https://calendly.com/alexander-rogalsky"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/calendly.svg" width="30" height="30" alt="Calendly"></a>&nbsp;
+    <a href="https://opencollective.com/alexander-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/opencollective.svg" width="30" height="30" alt="OpenCollective"></a>&nbsp;
+    <a href="https://ru.linkedin.com/in/alexander-rogalskiy-985a4828"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/linkedin.svg" width="30" height="30" alt="LinkedIn"></a>&nbsp;
+    <a href="https://www.facebook.com/alexander.v.rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/facebook.svg" width="30" height="30" alt="Facebook"></a>&nbsp;
+    <a href="https://dev.to/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/devto.svg" width="30" height="30" alt="DevTo"></a>&nbsp;
+    <a href="https://www.hackster.io/alexander-v-rogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/hackster.svg" width="30" height="30" alt="Hackster"></a>&nbsp;
+    <a href="https://stackshare.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/stackshare.svg" width="30" height="30" alt="StackShare"></a>&nbsp;
+    <a href="https://www.instructables.com/member/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/instructables.svg" width="30" height="30" alt="Instructables"></a>&nbsp;
+    <a href="https://github.com/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/github.svg" width="30" height="30" alt="GitHub"></a>&nbsp;
+    <a href="https://gitmemory.com/AlexRogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/gitmemory.svg" width="30" height="30" alt="GitMemory"></a>&nbsp;
+    <a href="https://codepen.io/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/codepen.svg" width="30" height="30" alt="CodePen"></a>&nbsp;
+    <a href="https://profile.codersrank.io/user/alexrogalskiy"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/codersrank.svg" width="30" height="30" alt="CodersRank"></a>&nbsp;
+    <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/sourcerer.svg" width="30" height="30" alt="Sourcerer"></a>
 </div>
 
 ## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png) _Quotes_

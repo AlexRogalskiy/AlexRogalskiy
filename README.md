@@ -2,15 +2,15 @@
 ![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/banner/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/glossary.png) _Languages_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/glossary.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Languages_
 
 <div id="languages_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" />
 </div>
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/statistics.png) _Statistics_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/statistics.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Statistics_
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/bookmark.png) _General_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/bookmarks.png" alt="" width="20px" height="20px" style="max-width:100%;"> _General_
 
 <div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <a href="https://github.com/alexrogalskiy?tab=followers" target="_blank">
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/idea.png) _Review_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/idea.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Review_
 
 <!--views:github-stats:start-->
 <div id="statistics_review_summary_block_id" align="center"> <img src="https://img.shields.io/badge/Account%20age-7-CB0000.svg?logo=github" alt="Total account ages" /> <img src="https://img.shields.io/badge/Issues-4-CB0000.svg?logo=github" alt="Total issues" /> <img src="https://img.shields.io/badge/Commits-7907-CB0000.svg?logo=github" alt="Total commits" /> <img src="https://img.shields.io/badge/Pull%20requests-255-CB0000.svg?logo=github" alt="Total pull requests" /> <img src="https://img.shields.io/badge/Repos%20contributions-0-CB0000.svg?logo=github" alt="Total repos contributions" /> <img src="https://img.shields.io/badge/Stars-4-CB0000.svg?logo=github" alt="Total stars" /> <img src="https://img.shields.io/badge/Gists-871-CB0000.svg?logo=github" alt="Total gists" /> <img src="https://img.shields.io/badge/Repos-624-CB0000.svg?logo=github" alt="Total repositories" /></div>
@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub general statistics" />
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/star.png) _Contributions_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/star.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Contributions_
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -74,13 +74,13 @@
     </a>
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tools.png) _Coding Skills_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tools.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Coding Skills_
 
 <div id="statistics_skills_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/npm.png) _Node Package Manager_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/npm.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Node Package Manager_
 
 <div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
     <a href="http://npm-stats.com/AlexRogalskiy" target="_blank">
@@ -88,7 +88,7 @@
     </a>
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/profile.png) _Github Profile_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/profile.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Github Profile_
 
 <div id="statistics_github_animation_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
@@ -104,13 +104,13 @@
     </a>
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/trophy.png) _Github Trophies_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/trophy.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Github Trophies_
 
 <div id="statistics_trophies_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://github-profile-trophy.vercel.app/?username=alexrogalskiy" alt="GitHub trophies" />
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tshirt.png) _Coding Competitions_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tshirt.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Coding Competitions_
 
 <div id="statistics_competitions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://www.codewars.com/users/AlexRogalskiy" target="_blank">
@@ -118,9 +118,9 @@
     </a>
 </div>
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/contacts.png) _Contacts_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/contacts.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Contacts_
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/sharing.png) _Community_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/sharing.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Community_
 
 <div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <a href="https://spectrum.chat/nullables-io" target="_blank">
@@ -131,7 +131,7 @@
     </a>
 </div>
 
-### ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/gadget.png) _Social & Media_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/gadget.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Social & Media_
 
 <div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center; font:italic bold 12px/30px Georgia, serif;"><i>Feel free to reach me out at:</i></p>
@@ -151,7 +151,7 @@
     <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/sourcerer.svg" width="30" height="30" alt="Sourcerer"></a>
 </div>
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png) _Quotes_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
     <img height="250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
@@ -162,7 +162,7 @@
 </div>
 -->
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png) _Image of the Day_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Image of the Day_
 
 <div id="image_of_the_day_block_id" align="center" style="align-content: center">
     <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
@@ -170,7 +170,7 @@
     </a>
 </div>
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png) _Word of the Day_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
 
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
@@ -200,7 +200,7 @@
 
 <!--views:pinterest-marker:end-->
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/travel.png) _Travel & Leisure_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/travel.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Travel & Leisure_
 
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
@@ -234,7 +234,7 @@
 
 <!--views:weather-marker:end-->
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/news.png) _Recent News_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/news.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent News_
 
 ### _Review Geek posts_
 
@@ -306,7 +306,7 @@
 - [Microsoft pushes 'in cloud' settings collection to simplify PC management](https://www.computerworld.com/article/3606134/microsoft-pushes-in-cloud-settings-collection-to-simplify-pc-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png) _Recent Activities_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
@@ -316,6 +316,6 @@
 5. 💪 Opened PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
-## ![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png) _Links_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Links_
 
 - [World Tour](https://world-tour.vercel.app/)

@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-15°C (<i>broken clouds</i>), humidity: 85%, pressure: 1016 (mbar), wind: /north-east/ 5 (m/s), cloudy: 75%</b>
+        <b>-13°C (<i>broken clouds</i>), humidity: 78%, pressure: 1016 (mbar), wind: /north-east/ 6 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>09:00 am</b> and sets at <b>17:25 pm</b>.
     </p>
@@ -236,6 +236,8 @@
 
 ## 🔣 _Recent News_
 
+### _Review Geek posts_
+
 <!--views:reviewgeek-rss-marker:start-->
 * [PSA: Google Will Delete Your Play Music Library Before the End of February](https://www.reviewgeek.com/70128/psa-google-will-delete-your-play-music-library-before-the-end-of-february/)
 * [Airspeeder Reveals the World's First Electric Flying "Race Car"](https://www.reviewgeek.com/70120/airspeeder-reveals-the-worlds-first-electric-flying-race-car/)
@@ -244,12 +246,57 @@
 * [[Update: Statement] Hackers Might Be Turning Your Plex Server Into a Powerful DDOS Botnet](https://www.reviewgeek.com/70102/hackers-might-be-turning-your-plex-server-into-a-powerful-ddos-botnet/)
 <!--views:reviewgeek-rss-marker:end-->
 
+### _Hacker News posts_
+
+<!-- HNRSS-POST-LIST:START -->
+- [Language Log » The directed graph of stereotypical incomprehensibility](https://languagelog.ldc.upenn.edu/nll/?p=1024)
+- [How to Write Readable Code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
+- [Things Nerds Can Appreciate about Football’s Game Design](https://jessegalef.com/2021/02/05/things-nerds-can-appreciate-about-footballs-game-design/)
+- [GameStop mania may not have been the retail trader rebellion it was perceived as](https://www.cnbc.com/2021/02/05/gamestop-mania-may-not-have-been-the-retail-trader-rebellion-it-was-perceived-to-be-data-shows.html)
+- [Show HN: Temps-lite – 5mb clone of 43mb Electron weather app](https://github.com/GirkovArpa/temps-lite)
+- [Three's a crowd: A rare form of polyorchidism with sertoli cell adenomas](https://www.sciencedirect.com/science/article/pii/S2214442020304010?via%3Dihub)
+- [AI Art Generators](https://aiartists.org/ai-generated-art-tools)
+- [Bat People on the Moon: A Great Moment in 19th Century Science Journalism](https://www.science20.com/science_20/bat_people_moon_great_moment_19th_century_science_journalism-82004)
+- [Dropbox Paper persisting author history when copied from a different source](https://twitter.com/ariel_n/status/1357823049223966722)
+- [UK pressured to follow US in ending arms sales to Saudi](https://www.telegraph.co.uk/news/2021/02/05/uk-pressured-follow-us-ending-arms-sales-saudi/)
+<!-- HNRSS-POST-LIST:END -->
+
+### _Guardian posts_
+
+<!-- GUARDIAN-POST-LIST:START -->
+- [Coronavirus live news: Greece limits AstraZeneca jab to under 65s; close contacts of Melbourne hotel worker test negative](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [New Zealand celebrates Waitangi Day with dawn service, bacon butties](https://www.theguardian.com/world/2021/feb/06/new-zealand-celebrates-waitangi-day-with-dawn-service-bacon-butties)
+- [Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'](https://www.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden)
+- [Man fatally stabbed and 10 injured in multiple incidents in Croydon](https://www.theguardian.com/uk-news/2021/feb/06/man-fatally-stabbed-and-10-injured-in-multiple-incidents-in-croydon)
+- [HS2 activist escapes bailiffs and heads back into Euston tunnels](https://www.theguardian.com/environment/2021/feb/05/bailiffs-spend-12-hours-trying-remove-hs2-activist-euston-tunnel)
+- [Allegations against TI and Tiny prompt call to support Black sexual assault survivors](https://www.theguardian.com/us-news/2021/feb/05/ti-tiny-sexual-assault-allegations-black-survivors-metoo)
+- [The Investigation review – Kim Wall drama offers a new kind of true crime](https://www.theguardian.com/tv-and-radio/2021/feb/05/the-investigation-review-bbc-kim-wall-drama)
+- [Francesca Jones shows patience in face of a flurry of attention in Melbourne](https://www.theguardian.com/sport/2021/feb/05/tennis-francesca-jones-shows-patience-in-face-of-a-flurry-of-attention-in-melbourne)
+- [Jürgen Klopp wants Liverpool to be brave and rebuild Anfield fortress](https://www.theguardian.com/football/2021/feb/05/jurgen-klopp-says-liverpool-must-be-brave-to-rebuild-anfield-fortress)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/05/20-photographs-of-the-week)
+<!-- GUARDIAN-POST-LIST:END -->
+
+### _YCombinator posts_
+
+<!-- YCOMBINATOR-POST-LIST:START -->
+- [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
+- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
+- [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
+- [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
+- [Sauropod Vertebra Picture of the Week](https://svpow.com/)
+- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
+- [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
+- [Android emulator abused to introduce malware onto PCs](https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/)
+- [How will 'chipageddon' affect you?](https://www.bbc.com/news/technology-55936011)
+- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
+<!-- YCOMBINATOR-POST-LIST:END -->
+
 ## ⏰ _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/75) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 🎉 Merged PR [#76](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/76) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 💪 Opened PR [#76](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/76) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#74](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/74) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 🎉 Merged PR [#73](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/73) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. 🎉 Merged PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+2. 💪 Opened PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+3. 🎉 Merged PR [#81](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/81) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+4. 🎉 Merged PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+5. 💪 Opened PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->

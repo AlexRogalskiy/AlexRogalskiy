@@ -1,0 +1,29 @@
+name: Latest articles and podcasts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '0 2 * * *'
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest articles and podcasts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "HNRSS-POST-LIST"
+          feed_list: "https://hnrss.org/newest"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "GUARDIAN-POST-LIST"
+          feed_list: "https://www.theguardian.com/uk/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "YCOMBINATOR-POST-LIST"
+          feed_list: "https://news.ycombinator.com/rss"

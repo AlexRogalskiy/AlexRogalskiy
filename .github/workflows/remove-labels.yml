@@ -1,4 +1,5 @@
 name: Remove outdated labels
+
 on:
   pull_request_target:
     types:

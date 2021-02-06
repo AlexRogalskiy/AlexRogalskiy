@@ -279,6 +279,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
+- [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
+- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
+- [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
+- [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
+- [Sauropod Vertebra Picture of the Week](https://svpow.com/)
+- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
+- [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
+- [Android emulator abused to introduce malware onto PCs](https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/)
+- [How will 'chipageddon' affect you?](https://www.bbc.com/news/technology-55936011)
+- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ## ⏰ _Recent Activities_

@@ -236,6 +236,8 @@
 
 ## 🔣 _Recent News_
 
+### _Review Geek posts_
+
 <!--views:reviewgeek-rss-marker:start-->
 * [PSA: Google Will Delete Your Play Music Library Before the End of February](https://www.reviewgeek.com/70128/psa-google-will-delete-your-play-music-library-before-the-end-of-february/)
 * [Airspeeder Reveals the World's First Electric Flying "Race Car"](https://www.reviewgeek.com/70120/airspeeder-reveals-the-worlds-first-electric-flying-race-car/)
@@ -243,6 +245,21 @@
 * [The Great Suspender Tab Freezing Extension Is Dead, But You Don't Need It Anyway](https://www.reviewgeek.com/70105/the-great-suspender-tab-freezing-extension-is-dead-but-you-dont-need-it-anyway/)
 * [[Update: Statement] Hackers Might Be Turning Your Plex Server Into a Powerful DDOS Botnet](https://www.reviewgeek.com/70102/hackers-might-be-turning-your-plex-server-into-a-powerful-ddos-botnet/)
 <!--views:reviewgeek-rss-marker:end-->
+
+### _Hacker News posts_
+
+<!-- HNRSS-POST-LIST:START -->
+<!-- HNRSS-POST-LIST:END -->
+
+### _Guardian posts_
+
+<!-- GUARDIAN-POST-LIST:START -->
+<!-- GUARDIAN-POST-LIST:END -->
+
+### _YCombinator posts_
+
+<!-- YCOMBINATOR-POST-LIST:START -->
+<!-- YCOMBINATOR-POST-LIST:END -->
 
 ## ⏰ _Recent Activities_
 

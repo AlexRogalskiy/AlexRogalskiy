@@ -279,16 +279,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
+- [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
+- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
+- [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
+- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
+- [Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
 - [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
-- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
 - [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
 - [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
-- [Sauropod Vertebra Picture of the Week](https://svpow.com/)
 - [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 - [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
-- [Android emulator abused to introduce malware onto PCs](https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/)
-- [How will 'chipageddon' affect you?](https://www.bbc.com/news/technology-55936011)
-- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

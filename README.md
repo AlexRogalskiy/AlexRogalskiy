@@ -359,6 +359,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
+- [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
+- [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
+- [Inventory Software - Physical and Network](https://www.reddit.com/r/InformationTechnology/comments/ldtdti/inventory_software_physical_and_network/)
+- [Is Google IT support certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ldsxf9/is_google_it_support_certification_worth_it/)
+- [AVADA PORTFOLIO - Metricpixels](https://www.reddit.com/r/InformationTechnology/comments/ldsruv/avada_portfolio_metricpixels/)
+- [IT Degree or IT Certificate?](https://www.reddit.com/r/InformationTechnology/comments/ldno5p/it_degree_or_it_certificate/)
+- [Help with an overwritten folder on an USB and Desktop](https://www.reddit.com/r/InformationTechnology/comments/ldmdo9/help_with_an_overwritten_folder_on_an_usb_and/)
+- [it](https://www.reddit.com/r/InformationTechnology/comments/ldewp8/it/)
+- [Power Up Your Barcode Scanner With Scripts](https://www.reddit.com/r/InformationTechnology/comments/ldcvuy/power_up_your_barcode_scanner_with_scripts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

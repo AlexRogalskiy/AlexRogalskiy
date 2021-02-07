@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-13°C (<i>light snow</i>), humidity: 78%, pressure: 1018 (mbar), wind: /east/ 7 (m/s), cloudy: 20%</b>
+        <b>-9°C (<i>snow</i>), humidity: 85%, pressure: 1018 (mbar), wind: /north-east/ 7 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:57 am</b> and sets at <b>17:28 pm</b>.
     </p>
@@ -254,22 +254,24 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RFC 1925 - The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
-- [How Does the Internet Work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Fluid Dynamics of Speech and Covid-19 Transmission](https://www.youtube.com/watch?v=fLsD9tEuRYA)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Engines of Sacrality: A Footnote on Randall Collins’ Interaction Ritual Chains](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
-- [20GB of Intel source code and proprietary data dumped online. ME, FSP (Aug 2020)](https://arstechnica.com/information-technology/2020/08/intel-is-investigating-the-leak-of-20gb-of-its-source-code-and-private-data/)
-- [How to stop social media algorithms from hurting us](https://venturebeat.com/2021/02/06/from-the-election-lie-to-gamestop-how-to-stop-social-media-algorithms-from-hurting-us/)
-- [Google Chrome Zero-Day Afflicts Windows, Mac Users](https://threatpost.com/google-chrome-zero-day-windows-mac/163688/)
-- [Gifts, Work, Vices, Hurt](https://kyle.af/vices)
+- [Hayao Miyazaki response to AI animation is a stinging critique for all of Tech](https://www.youtube.com/watch?v=ngZ0K3lWKRc)
+- [Work Towards Solving Ultimate Tic Tac Toe](https://minimax.dev/docs/ultimate/)
+- [First Dairy-Identical Vegan Ice Cream Launches at 5k Stores](https://vegnews.com/2021/2/dairy-identical-vegan-ice-cream-at-5-000-stores)
+- [Yesterday was my last day at Google](https://twitter.com/vineshgkannan/status/1357115873723637764)
+- [Fun with a Functional Programming Interview Question](https://danielbmarkham.com/fun-with-an-interview-question/)
+- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
+- [Dazzle Camouflage](https://en.wikipedia.org/wiki/Dazzle_camouflage)
+- [Building a Stock Market API in 30 Minutes](https://zach.codes/stock-api-in-30-minutes/)
+- [Revisiting Coroutines [pdf]](http://www.inf.puc-rio.br/~roberto/docs/MCC15-04.pdf)
+- [Why greed is an unhelpful characterisation of rational economic choices](https://www.robertwarrengilmore.com/blog/unregulated-competition-considered-harmful/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: Western Australia details vaccine rollout; more than 11.4m in UK have had first jab](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [Coronavirus live: Australians to get Covid 'vaccine certificates'; AstraZeneca jab may be less effective against South African variant](https://www.theguardian.com/world/live/2021/feb/07/coronavirus-covid-vaccine-variant-pandemic-uk-us-europe-australia-africa-asia)
+- ['A door has opened': Pope Francis appoints first woman to senior synod post](https://www.theguardian.com/world/2021/feb/07/a-door-has-opened-pope-francis-appoints-first-woman-to-senior-synod-post)
+- [Grandfather becomes oldest person to row 3,000 miles solo across Atlantic](https://www.theguardian.com/uk-news/2021/feb/07/grandfather-becomes-oldest-person-to-row-3000-miles-solo-across-atlantic)
 - [AstraZeneca set to weather Covid in better health than rivals](https://www.theguardian.com/business/2021/feb/07/astrazeneca-set-to-weather-covid-in-better-health-than-rivals)
 - [MPs to investigate LV= takeover bid amid fears members could lose out](https://www.theguardian.com/business/2021/feb/07/mps-to-investigate-lv-takeover-bid-amid-fears-members-could-lose-out)
 - [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
@@ -277,13 +279,13 @@
 - [Lad: A Yorkshire Story – the slow-burn film setting Amazon alight](https://www.theguardian.com/film/2021/feb/06/lad-a-yorkshire-story-the-slow-burn-film-setting-amazon-alight)
 - [Andy Murray pinpoints lack of vigilance at Roehampton for catching Covid](https://www.theguardian.com/sport/2021/feb/06/andy-murray-pinpoints-lack-of-vigilance-at-roehampton-for-catching-covid)
 - [Perfect storm: have the influencers selling a dream lost their allure?](https://www.theguardian.com/media/2021/feb/06/perfect-storm-have-the-influencers-selling-a-dream-lost-their-allure)
-- ['Keeping it real is the key to my success as a lifestyle blogger'](https://www.theguardian.com/media/2021/feb/06/keeping-it-real-is-the-key-to-my-success-as-a-lifestyle-blogger)
-- [Sahara sand covers European ski resorts and cities – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/feb/06/sahara-sand-covers-european-ski-resorts-cities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
+- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
 - [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
 - [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
@@ -292,8 +294,6 @@
 - [Qcocal VAX – Free Public-Access Digital Dec OpenVMS VAX Hobbyist Server](http://sanyalnet-openvms-vax.freeddns.org:82/)
 - [The Rise and Fall of Bitcoin Billionaire Arthur Hayes](https://www.vanityfair.com/news/2021/02/the-rise-and-fall-of-bitcoin-billionaire-arthur-hayes#intcid=recommendations_vf-trending-legacy_a6f46dda-cf48-4781-8493-4e8dda1026ff_popular4-1)
 - [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
-- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
-- [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -359,7 +359,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which to take?](https://www.reddit.com/r/InformationTechnology/comments/lecupd/which_to_take/)
 - [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
+- [IT Senior and Internship](https://www.reddit.com/r/InformationTechnology/comments/le6pkb/it_senior_and_internship/)
 - [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
 - [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
 - [Inventory Software - Physical and Network](https://www.reddit.com/r/InformationTechnology/comments/ldtdti/inventory_software_physical_and_network/)
@@ -367,8 +369,6 @@
 - [AVADA PORTFOLIO - Metricpixels](https://www.reddit.com/r/InformationTechnology/comments/ldsruv/avada_portfolio_metricpixels/)
 - [IT Degree or IT Certificate?](https://www.reddit.com/r/InformationTechnology/comments/ldno5p/it_degree_or_it_certificate/)
 - [Help with an overwritten folder on an USB and Desktop](https://www.reddit.com/r/InformationTechnology/comments/ldmdo9/help_with_an_overwritten_folder_on_an_usb_and/)
-- [it](https://www.reddit.com/r/InformationTechnology/comments/ldewp8/it/)
-- [Power Up Your Barcode Scanner With Scripts](https://www.reddit.com/r/InformationTechnology/comments/ldcvuy/power_up_your_barcode_scanner_with_scripts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
@@ -389,11 +389,11 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 💪 Opened PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 🎉 Merged PR [#81](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/81) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 💪 Opened PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. 🎉 Merged PR [#90](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/90) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+2. 💪 Opened PR [#90](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/90) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+3. 🎉 Merged PR [#89](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/89) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+4. 🎉 Merged PR [#88](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/88) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+5. 💪 Opened PR [#88](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/88) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Links_

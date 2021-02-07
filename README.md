@@ -184,10 +184,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8a&#x2F;d2&#x2F;58&#x2F;8ad258391b5e71bb0e7bfddb9d926cc4.jpg" alt="Today&#39;s #WordOfTheDay isn&#39;t splashy, but it is plashy. Click through to see where it comes from." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a5&#x2F;c2&#x2F;47a5c2db4e81f77a4a9b1f0fdf39091d.jpg" alt="Don&#39;t get swept up. Limerence is the Word of the Day. Get example sentences and more at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8f&#x2F;02&#x2F;6b&#x2F;8f026b84c86dbb370437f2514351ba9c.jpg" alt="Lustrum is the Word of the Day, but it won&#39;t last for five years. See where it comes from at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3d&#x2F;e2&#x2F;0c&#x2F;3de20c3d9bdda53056c66d226ce58227.jpg" alt="Today&#39;s Word of the Day gets us right in the feels. It&#39;s lachrymose. Learn more at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;73&#x2F;0b&#x2F;72730bbbef15d13b2ffb2c2e5a52f325.jpg" alt="Is it time to add uitwaaien to your self-care routine? It&#39;s the Dictionary.com Word of the Day. Click through to learn more." />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-9°C (<i>light snow</i>), humidity: 92%, pressure: 1018 (mbar), wind: /east/ 4 (m/s), cloudy: 75%</b>
+        <b>-8°C (<i>light snow</i>), humidity: 86%, pressure: 1017 (mbar), wind: /north-east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:57 am</b> and sets at <b>17:28 pm</b>.
     </p>

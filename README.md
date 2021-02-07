@@ -254,16 +254,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RFC 1925 - The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
-- [How Does the Internet Work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Fluid Dynamics of Speech and Covid-19 Transmission](https://www.youtube.com/watch?v=fLsD9tEuRYA)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Engines of Sacrality: A Footnote on Randall Collins’ Interaction Ritual Chains](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
-- [20GB of Intel source code and proprietary data dumped online. ME, FSP (Aug 2020)](https://arstechnica.com/information-technology/2020/08/intel-is-investigating-the-leak-of-20gb-of-its-source-code-and-private-data/)
-- [How to stop social media algorithms from hurting us](https://venturebeat.com/2021/02/06/from-the-election-lie-to-gamestop-how-to-stop-social-media-algorithms-from-hurting-us/)
-- [Google Chrome Zero-Day Afflicts Windows, Mac Users](https://threatpost.com/google-chrome-zero-day-windows-mac/163688/)
-- [Gifts, Work, Vices, Hurt](https://kyle.af/vices)
+- [Hayao Miyazaki response to AI animation is a stinging critique for all of Tech](https://www.youtube.com/watch?v=ngZ0K3lWKRc)
+- [Work Towards Solving Ultimate Tic Tac Toe](https://minimax.dev/docs/ultimate/)
+- [First Dairy-Identical Vegan Ice Cream Launches at 5k Stores](https://vegnews.com/2021/2/dairy-identical-vegan-ice-cream-at-5-000-stores)
+- [Yesterday was my last day at Google](https://twitter.com/vineshgkannan/status/1357115873723637764)
+- [Fun with a Functional Programming Interview Question](https://danielbmarkham.com/fun-with-an-interview-question/)
+- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
+- [Dazzle Camouflage](https://en.wikipedia.org/wiki/Dazzle_camouflage)
+- [Building a Stock Market API in 30 Minutes](https://zach.codes/stock-api-in-30-minutes/)
+- [Revisiting Coroutines [pdf]](http://www.inf.puc-rio.br/~roberto/docs/MCC15-04.pdf)
+- [Why greed is an unhelpful characterisation of rational economic choices](https://www.robertwarrengilmore.com/blog/unregulated-competition-considered-harmful/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -284,16 +284,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
-- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
-- [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
-- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
-- [Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
-- [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
-- [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
-- [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
-- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
-- [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
+- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
+- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
+- [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
+- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
+- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
+- [Qcocal VAX – Free Public-Access Digital Dec OpenVMS VAX Hobbyist Server](http://sanyalnet-openvms-vax.freeddns.org:82/)
+- [The Rise and Fall of Bitcoin Billionaire Arthur Hayes](https://www.vanityfair.com/news/2021/02/the-rise-and-fall-of-bitcoin-billionaire-arthur-hayes#intcid=recommendations_vf-trending-legacy_a6f46dda-cf48-4781-8493-4e8dda1026ff_popular4-1)
+- [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
+- [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

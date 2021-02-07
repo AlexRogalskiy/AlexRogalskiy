@@ -175,8 +175,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank"><i>I Live My Life in Widening Circles</i></a></summary>
-<p>by Rainer Maria Rilke</p><p>I live my life in widening circles<br/>that reach out across the world.<br/>I may not complete this last one<br/>but I give myself to it.<br/><br/>I circle around God, around the primordial tower.<br/>I’ve been circling for thousands of years<br/>and I still don’t know: am I a falcon,<br/>a storm, or a great song?</p>
+<summary><a href="https://apoemaday.tumblr.com/post/642397317187698688" target="_blank"><i>Blessing</i></a></summary>
+<p>by John O’Donohue</p><p><i>for Josie, my mother</i></p><p>On the day when<br/> the weight deadens<br/> on your shoulders<br/> and you stumble,<br/> may the clay dance<br/> to balance you.</p><p>And when your eyes<br/> freeze behind<br/> the grey window<br/> and the ghost of loss<br/> gets into you,<br/> may a flock of colours,<br/> indigo, red, green<br/> and azure blue,<br/> come to awaken in you<br/> a meadow of delight.</p><p>When the canvas frays<br/> in the currach of thought<br/> and a stain of ocean<br/> blackens beneath you,<br/> may there come across the waters<br/> a path of yellow moonlight<br/> to bring you safely home.</p><p>May the nourishment of the earth be yours,<br/> may the clarity of light be yours,<br/> may the fluency of the ocean be yours,<br/> may the protection of the ancestors be yours.</p><p>And so may a slow<br/> wind work these words<br/> of love around you,<br/> an invisible cloak<br/> to mind your life.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

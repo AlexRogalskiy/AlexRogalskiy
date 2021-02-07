@@ -374,6 +374,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today – Week in Review for February 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-5-2021/441772)
+- [How AIOps will transform enterprise IT in 2021](https://www.itworldcanada.com/blog/how-aiops-will-transform-enterprise-it-in-2021/441872)
+- [New 21-Day Data Challenge from Lighthouse Labs will help Canadians gain experience working with data](https://www.itworldcanada.com/article/new-21-day-lighthouse-labs-challenge-to-give-canadians-experience-working-with-data/441839)
+- [Microsoft launches Microsoft Viva employee experience platform](https://www.itworldcanada.com/article/microsoft-launches-microsoft-viva-employee-experience-platform/441791)
+- [ITWC scores big at COPAs with 4 gold](https://www.itworldcanada.com/article/itwc-scores-big-at-copas-with-4-gold/441831)
+- [Hashtag Trending – Google engineers resign over Gebru firing; Amazon’s “Megacycle” shift for warehouse workers; Clearview AI troubles in Canada](https://www.itworldcanada.com/article/hashtag-trending-google-engineers-resign-over-gebru-firing-amazons-megacycle-shift-for-warehouse-workers-clearview-ai-troubles-in-canada/441819)
+- [Cyber Security Today – Bad passwords, bad bugs, a threat to high performance computers and more](https://www.itworldcanada.com/article/cyber-security-today-bad-passwords-bad-bugs-a-threat-to-high-performance-computers-and-more/441801)
+- [Accenture names Jennifer Jackson Canada’s Accenture Cloud First Lead](https://www.itworldcanada.com/article/accenture-names-jennifer-jackson-canadas-accenture-cloud-first-lead/441804)
+- [The fight against cybercriminals needs talent – and that starts with you](https://www.itworldcanada.com/article/the-fight-against-cybercriminals-needs-talent-and-that-starts-with-you/441775)
+- [Technicity West welcomes Calgary Mayor Naheed Nenshi](https://www.itworldcanada.com/article/technicity-west-welcomes-calgary-mayor-naheed-nenshi/441768)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

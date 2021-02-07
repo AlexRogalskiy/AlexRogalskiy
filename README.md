@@ -269,16 +269,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India v England: Root hits double hundred on day two of first Test – live!](https://www.theguardian.com/sport/live/2021/feb/06/india-v-england-first-test-day-two-live)
-- [Coronavirus live: Boris Johnson says 'still early days' to talk about lifting restrictions; Russia reports 16,627 cases](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
-- [Extremists like Marjorie Taylor Greene are the real face of the new Republican party | Lloyd Green](https://www.theguardian.com/commentisfree/2021/feb/06/extremists-marjorie-taylor-greene-real-new-republican-party)
-- ['Forget trends – do what makes you feel good': how to style a happy home](https://www.theguardian.com/lifeandstyle/2021/feb/06/forget-trends-do-what-makes-you-feel-good-how-to-style-a-happy-home)
-- [Massive Attack: 'You resurrect ghosts when you bring something back from the past'](https://www.theguardian.com/culture/2021/feb/06/massive-attack-you-resurrect-ghosts-when-you-bring-something-back-from-the-past)
-- [Canadian museum's ancient carving is one I made earlier, says local artist](https://www.theguardian.com/world/2021/feb/06/canada-stone-figure-ray-boudreau-royal-british-columbia-museum)
-- [Francis Spufford: 'I’m still angry about what has been done to this country'](https://www.theguardian.com/books/2021/feb/06/francis-spufford-im-still-angry-about-what-has-been-done-to-this-country)
-- [Boris Johnson planning NHS England overhaul, leaked paper shows](https://www.theguardian.com/politics/2021/feb/06/boris-johnson-planning-nhs-england-overhaul-leaked-paper-shows)
-- [Myanmar military shuts down internet as thousands protest against coup](https://www.theguardian.com/world/2021/feb/06/myanmar-military-shuts-down-internet-as-thousands-protest-against-coup)
-- [‘Inactivity is an ongoing pandemic’: the life-saving impact of moving your body](https://www.theguardian.com/lifeandstyle/2021/feb/06/inactivity-is-an-ongoing-pandemic-the-life-saving-impact-of-moving-your-body)
+- [Coronavirus live: Western Australia details vaccine rollout; more than 11.4m in UK have had first jab](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [AstraZeneca set to weather Covid in better health than rivals](https://www.theguardian.com/business/2021/feb/07/astrazeneca-set-to-weather-covid-in-better-health-than-rivals)
+- [MPs to investigate LV= takeover bid amid fears members could lose out](https://www.theguardian.com/business/2021/feb/07/mps-to-investigate-lv-takeover-bid-amid-fears-members-could-lose-out)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Calvert-Lewin stuns Manchester United to snatch last-gasp Everton draw](https://www.theguardian.com/football/2021/feb/06/manchester-united-everton-premier-league-match-report)
+- [Lad: A Yorkshire Story – the slow-burn film setting Amazon alight](https://www.theguardian.com/film/2021/feb/06/lad-a-yorkshire-story-the-slow-burn-film-setting-amazon-alight)
+- [Andy Murray pinpoints lack of vigilance at Roehampton for catching Covid](https://www.theguardian.com/sport/2021/feb/06/andy-murray-pinpoints-lack-of-vigilance-at-roehampton-for-catching-covid)
+- [Perfect storm: have the influencers selling a dream lost their allure?](https://www.theguardian.com/media/2021/feb/06/perfect-storm-have-the-influencers-selling-a-dream-lost-their-allure)
+- ['Keeping it real is the key to my success as a lifestyle blogger'](https://www.theguardian.com/media/2021/feb/06/keeping-it-real-is-the-key-to-my-success-as-a-lifestyle-blogger)
+- [Sahara sand covers European ski resorts and cities – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/feb/06/sahara-sand-covers-european-ski-resorts-cities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

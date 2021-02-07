@@ -329,6 +329,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub increases developer’s cut of GitHub Marketplace sales](https://www.infoworld.com/article/3606490/github-increases-developers-cut-of-github-marketplace-sales.html#tk.rss_all)
+- [You’re doing cloud-based AI and machine learning wrong](https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html#tk.rss_all)
+- [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_all)
+- [Got the Python basics down? Read this book next](https://www.infoworld.com/article/3605454/got-the-python-basics-down-read-this-book-next.html#tk.rss_all)
+- [3 ways to experiment with text analytics](https://www.infoworld.com/article/3604738/3-ways-to-experiment-with-text-analytics.html#tk.rss_all)
+- [Microsoft Azure Quantum opens for public preview](https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html#tk.rss_all)
+- [Oracle adds GraalVM to Java subscription](https://www.infoworld.com/article/3606069/oracle-adds-graalvm-to-java-subscription.html#tk.rss_all)
+- [Why Andy Jassy was picked to fill Jeff Bezos’s big shoes at Amazon](https://www.infoworld.com/article/3605968/why-andy-jassy-was-picked-to-fill-jeff-bezoss-big-shoes-at-amazon.html#tk.rss_all)
+- [7 data science predictions for 2021](https://www.infoworld.com/article/3605649/7-data-science-predictions-for-2021.html#tk.rss_all)
+- [InfoWorld’s 2021 Technology of the Year Award winners](https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -226,9 +226,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-12°C (<i>snow</i>), humidity: 72%, pressure: 1019 (mbar), wind: /north-east/ 7 (m/s), cloudy: 75%</b>
+        <b>-13°C (<i>light snow</i>), humidity: 78%, pressure: 1018 (mbar), wind: /east/ 7 (m/s), cloudy: 20%</b>
         <br />
-        Today, the Sun rises at <b>09:00 am</b> and sets at <b>17:25 pm</b>.
+        Today, the Sun rises at <b>08:57 am</b> and sets at <b>17:28 pm</b>.
     </p>
 </div>
 
@@ -239,11 +239,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [PSA: Google Will Delete Your Play Music Library Before the End of February](https://www.reviewgeek.com/70128/psa-google-will-delete-your-play-music-library-before-the-end-of-february/)
-* [Airspeeder Reveals the World's First Electric Flying "Race Car"](https://www.reviewgeek.com/70120/airspeeder-reveals-the-worlds-first-electric-flying-race-car/)
-* [You Can Now Pre-Order 'Raya and the Last Dragon' on Disney+ for Thirty Bucks](https://www.reviewgeek.com/70117/you-can-now-pre-order-raya-and-the-last-dragon-on-disney-for-thirty-bucks/)
-* [The Great Suspender Tab Freezing Extension Is Dead, But You Don't Need It Anyway](https://www.reviewgeek.com/70105/the-great-suspender-tab-freezing-extension-is-dead-but-you-dont-need-it-anyway/)
-* [[Update: Statement] Hackers Might Be Turning Your Plex Server Into a Powerful DDOS Botnet](https://www.reviewgeek.com/70102/hackers-might-be-turning-your-plex-server-into-a-powerful-ddos-botnet/)
+* [Slack Stored Some Passwords in Plain Text, You May Need to Change Yours](https://www.reviewgeek.com/70188/slack-stored-some-passwords-in-plain-text-you-may-need-to-change-yours/)
+* [A Hand-Built, Original Apple 1 Computer Is Yours for Just 1.5 Million Dollars](https://www.reviewgeek.com/70164/a-hand-built-original-apple-1-computer-is-yours-for-just-1-5-million-dollars/)
+* [How to Transpose Excel Data from Rows to Columns (or Vice Versa)](https://www.howtogeek.com/702803/how-to-transpose-excel-data-from-rows-to-columns-or-vice-versa/)
+* [PSA: After Nearly a Year, Name Brand Webcams Are Back in Stock](https://www.reviewgeek.com/70160/psa-after-nearly-a-year-name-brand-webcams-are-back-in-stock/)
+* [How to Send Disappearing Messages in Instagram](https://www.howtogeek.com/708070/how-to-send-disappearing-messages-on-instagram/)
+* [How to Delete Your Signal Account](https://www.howtogeek.com/710591/how-to-delete-your-signal-account/)
+* [How to Disable Twitter Sound Effects on iPhone and Android](https://www.howtogeek.com/709253/how-to-disable-twitter-sound-effects-on-iphone-and-android/)
+* [What Is an Android Icon Pack and How Do You Use Them?](https://www.reviewgeek.com/66568/what-is-an-android-icon-pack-and-how-do-you-use-them/)
+* [How to Transfer Your Games and Save Files From PS4 to PS5](https://www.howtogeek.com/710280/how-to-transfer-your-games-and-save-files-from-ps4-to-ps5/)
+* [How Does Walmart+ Stack Up Against Amazon Prime?](https://www.reviewgeek.com/69397/how-well-does-walmart-stack-up-against-amazon-prime/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

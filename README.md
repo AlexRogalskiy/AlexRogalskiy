@@ -344,6 +344,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EncroChat: Appeal court finds ‘digital phone tapping’ admissible in criminal trials](https://www.computerweekly.com/news/252495964/EncroChat-Appeal-court-finds-digital-phone-tapping-admissible-in-criminal-trials)
+- [Mayor of London launches digital inclusion initiative](https://www.computerweekly.com/news/252495935/Mayor-of-London-launches-digital-inclusion-initiative)
+- [Government R&D funding fails to maximise ‘catapult’ potential](https://www.computerweekly.com/news/252495926/Government-RD-funding-fails-to-maximise-catapult-potential)
+- [Google Chrome update to patch serious zero-day](https://www.computerweekly.com/news/252495921/Google-Chrome-update-to-patch-serious-zero-day)
+- [Financial regulatory body bombarded with malicious emails](https://www.computerweekly.com/news/252495928/Financial-regulatory-body-bombarded-with-malicious-emails)
+- [Security firm Stormshield loses source code in cyber attack](https://www.computerweekly.com/news/252495912/Security-firm-Stormshield-loses-source-code-in-cyber-attack)
+- [Microsoft launches Viva as employee experience platform born out of Teams](https://www.computerweekly.com/news/252495868/Microsoft-launches-Viva-as-employee-experience-platform-born-out-of-Teams)
+- [Nurture software developer heroes](https://www.computerweekly.com/news/252495867/Nurture-software-developer-heroes)
+- [Five key points about unstructured data storage on-prem and cloud](https://www.computerweekly.com/feature/Five-key-points-about-unstructured-data-storage-on-prem-and-cloud)
+- [Revolut rewrites policy to include permanent remote working](https://www.computerweekly.com/news/252495857/Revolut-rewrites-policy-to-include-permanent-remote-working)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

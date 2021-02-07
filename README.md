@@ -269,7 +269,9 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: Western Australia details vaccine rollout; more than 11.4m in UK have had first jab](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [Coronavirus live: Australians to get Covid 'vaccine certificates'; AstraZeneca jab may be less effective against South African variant](https://www.theguardian.com/world/live/2021/feb/07/coronavirus-covid-vaccine-variant-pandemic-uk-us-europe-australia-africa-asia)
+- ['A door has opened': Pope Francis appoints first woman to senior synod post](https://www.theguardian.com/world/2021/feb/07/a-door-has-opened-pope-francis-appoints-first-woman-to-senior-synod-post)
+- [Grandfather becomes oldest person to row 3,000 miles solo across Atlantic](https://www.theguardian.com/uk-news/2021/feb/07/grandfather-becomes-oldest-person-to-row-3000-miles-solo-across-atlantic)
 - [AstraZeneca set to weather Covid in better health than rivals](https://www.theguardian.com/business/2021/feb/07/astrazeneca-set-to-weather-covid-in-better-health-than-rivals)
 - [MPs to investigate LV= takeover bid amid fears members could lose out](https://www.theguardian.com/business/2021/feb/07/mps-to-investigate-lv-takeover-bid-amid-fears-members-could-lose-out)
 - [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
@@ -277,8 +279,6 @@
 - [Lad: A Yorkshire Story – the slow-burn film setting Amazon alight](https://www.theguardian.com/film/2021/feb/06/lad-a-yorkshire-story-the-slow-burn-film-setting-amazon-alight)
 - [Andy Murray pinpoints lack of vigilance at Roehampton for catching Covid](https://www.theguardian.com/sport/2021/feb/06/andy-murray-pinpoints-lack-of-vigilance-at-roehampton-for-catching-covid)
 - [Perfect storm: have the influencers selling a dream lost their allure?](https://www.theguardian.com/media/2021/feb/06/perfect-storm-have-the-influencers-selling-a-dream-lost-their-allure)
-- ['Keeping it real is the key to my success as a lifestyle blogger'](https://www.theguardian.com/media/2021/feb/06/keeping-it-real-is-the-key-to-my-success-as-a-lifestyle-blogger)
-- [Sahara sand covers European ski resorts and cities – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/feb/06/sahara-sand-covers-european-ski-resorts-cities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

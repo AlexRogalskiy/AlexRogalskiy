@@ -254,16 +254,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Selling all my crypto because of an authoritarian government](https://www.reddit.com/r/CryptoCurrency/comments/ldh53f/selling_all_my_crypto_because_of_an_authoritarian/)
-- [Complexity Explained](https://complexityexplained.github.io/)
-- [The Science of Swearing](https://readable.com/blog/the-science-of-swearing/)
-- [Myanmar in midst of 'national-scale internet blackout' – monitor](https://www.reuters.com/article/myanmar-politics-internet-int-idUSKBN2A608U)
-- [Database for Open Source Vulnerabilities](https://osv.dev/)
-- [How I collect and use 50 sources of my personal data](https://beepb00p.xyz/my-data.html)
-- [The end of the privacy of digital correspondence](https://european-pirateparty.eu/the-end-of-the-privacy-of-digital-correspondence/)
-- [Wsl2 sometime corrupt .zsh_history and Git (insider build fix)](https://github.com/microsoft/WSL/issues/5026#issuecomment-755515389)
-- [Samsung Pitches $17B Chip Plant in Texas – Manufacturing Business Technology](https://www.mbtmag.com/home/video/21259981/samsung-pitches-17b-chip-plant-in-texas)
-- [The Guide to Git I wish I had before I started my current job](https://webdevetc.com/blog/guide-to-git-i-wish-i-had/)
+- [RFC 1925 - The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
+- [How Does the Internet Work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [Fluid Dynamics of Speech and Covid-19 Transmission](https://www.youtube.com/watch?v=fLsD9tEuRYA)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Engines of Sacrality: A Footnote on Randall Collins’ Interaction Ritual Chains](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
+- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
+- [20GB of Intel source code and proprietary data dumped online. ME, FSP (Aug 2020)](https://arstechnica.com/information-technology/2020/08/intel-is-investigating-the-leak-of-20gb-of-its-source-code-and-private-data/)
+- [How to stop social media algorithms from hurting us](https://venturebeat.com/2021/02/06/from-the-election-lie-to-gamestop-how-to-stop-social-media-algorithms-from-hurting-us/)
+- [Google Chrome Zero-Day Afflicts Windows, Mac Users](https://threatpost.com/google-chrome-zero-day-windows-mac/163688/)
+- [Gifts, Work, Vices, Hurt](https://kyle.af/vices)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

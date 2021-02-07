@@ -389,11 +389,11 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 💪 Opened PR [#82](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/82) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 🎉 Merged PR [#81](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/81) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 💪 Opened PR [#80](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/80) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. 🎉 Merged PR [#90](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/90) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+2. 💪 Opened PR [#90](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/90) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+3. 🎉 Merged PR [#89](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/89) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+4. 🎉 Merged PR [#88](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/88) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+5. 💪 Opened PR [#88](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/88) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Links_

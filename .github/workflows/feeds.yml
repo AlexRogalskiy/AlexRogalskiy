@@ -3,7 +3,7 @@ name: Update README on rss feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 */1 * *" # each day at 00:00 UTC
+    - cron: "0 2 * * *"
 
 env:
   CARGO_TERM_COLOR: always

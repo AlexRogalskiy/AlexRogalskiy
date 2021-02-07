@@ -175,8 +175,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642306952549089280" target="_blank"><i>I Live My Life in Widening Circles</i></a></summary>
-<p>by Rainer Maria Rilke</p><p>I live my life in widening circles<br/>that reach out across the world.<br/>I may not complete this last one<br/>but I give myself to it.<br/><br/>I circle around God, around the primordial tower.<br/>I’ve been circling for thousands of years<br/>and I still don’t know: am I a falcon,<br/>a storm, or a great song?</p>
+<summary><a href="https://apoemaday.tumblr.com/post/642397317187698688" target="_blank"><i>Blessing</i></a></summary>
+<p>by John O’Donohue</p><p><i>for Josie, my mother</i></p><p>On the day when<br/> the weight deadens<br/> on your shoulders<br/> and you stumble,<br/> may the clay dance<br/> to balance you.</p><p>And when your eyes<br/> freeze behind<br/> the grey window<br/> and the ghost of loss<br/> gets into you,<br/> may a flock of colours,<br/> indigo, red, green<br/> and azure blue,<br/> come to awaken in you<br/> a meadow of delight.</p><p>When the canvas frays<br/> in the currach of thought<br/> and a stain of ocean<br/> blackens beneath you,<br/> may there come across the waters<br/> a path of yellow moonlight<br/> to bring you safely home.</p><p>May the nourishment of the earth be yours,<br/> may the clarity of light be yours,<br/> may the fluency of the ocean be yours,<br/> may the protection of the ancestors be yours.</p><p>And so may a slow<br/> wind work these words<br/> of love around you,<br/> an invisible cloak<br/> to mind your life.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-13°C (<i>light snow</i>), humidity: 78%, pressure: 1019 (mbar), wind: /east/ 5 (m/s), cloudy: 75%</b>
+        <b>-13°C (<i>light snow</i>), humidity: 78%, pressure: 1018 (mbar), wind: /east/ 7 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>08:57 am</b> and sets at <b>17:28 pm</b>.
     </p>
@@ -254,46 +254,46 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Selling all my crypto because of an authoritarian government](https://www.reddit.com/r/CryptoCurrency/comments/ldh53f/selling_all_my_crypto_because_of_an_authoritarian/)
-- [Complexity Explained](https://complexityexplained.github.io/)
-- [The Science of Swearing](https://readable.com/blog/the-science-of-swearing/)
-- [Myanmar in midst of 'national-scale internet blackout' – monitor](https://www.reuters.com/article/myanmar-politics-internet-int-idUSKBN2A608U)
-- [Database for Open Source Vulnerabilities](https://osv.dev/)
-- [How I collect and use 50 sources of my personal data](https://beepb00p.xyz/my-data.html)
-- [The end of the privacy of digital correspondence](https://european-pirateparty.eu/the-end-of-the-privacy-of-digital-correspondence/)
-- [Wsl2 sometime corrupt .zsh_history and Git (insider build fix)](https://github.com/microsoft/WSL/issues/5026#issuecomment-755515389)
-- [Samsung Pitches $17B Chip Plant in Texas – Manufacturing Business Technology](https://www.mbtmag.com/home/video/21259981/samsung-pitches-17b-chip-plant-in-texas)
-- [The Guide to Git I wish I had before I started my current job](https://webdevetc.com/blog/guide-to-git-i-wish-i-had/)
+- [RFC 1925 - The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
+- [How Does the Internet Work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [Fluid Dynamics of Speech and Covid-19 Transmission](https://www.youtube.com/watch?v=fLsD9tEuRYA)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Engines of Sacrality: A Footnote on Randall Collins’ Interaction Ritual Chains](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
+- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
+- [20GB of Intel source code and proprietary data dumped online. ME, FSP (Aug 2020)](https://arstechnica.com/information-technology/2020/08/intel-is-investigating-the-leak-of-20gb-of-its-source-code-and-private-data/)
+- [How to stop social media algorithms from hurting us](https://venturebeat.com/2021/02/06/from-the-election-lie-to-gamestop-how-to-stop-social-media-algorithms-from-hurting-us/)
+- [Google Chrome Zero-Day Afflicts Windows, Mac Users](https://threatpost.com/google-chrome-zero-day-windows-mac/163688/)
+- [Gifts, Work, Vices, Hurt](https://kyle.af/vices)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India v England: Root hits double hundred on day two of first Test – live!](https://www.theguardian.com/sport/live/2021/feb/06/india-v-england-first-test-day-two-live)
-- [Coronavirus live: Boris Johnson says 'still early days' to talk about lifting restrictions; Russia reports 16,627 cases](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
-- [Extremists like Marjorie Taylor Greene are the real face of the new Republican party | Lloyd Green](https://www.theguardian.com/commentisfree/2021/feb/06/extremists-marjorie-taylor-greene-real-new-republican-party)
-- ['Forget trends – do what makes you feel good': how to style a happy home](https://www.theguardian.com/lifeandstyle/2021/feb/06/forget-trends-do-what-makes-you-feel-good-how-to-style-a-happy-home)
-- [Massive Attack: 'You resurrect ghosts when you bring something back from the past'](https://www.theguardian.com/culture/2021/feb/06/massive-attack-you-resurrect-ghosts-when-you-bring-something-back-from-the-past)
-- [Canadian museum's ancient carving is one I made earlier, says local artist](https://www.theguardian.com/world/2021/feb/06/canada-stone-figure-ray-boudreau-royal-british-columbia-museum)
-- [Francis Spufford: 'I’m still angry about what has been done to this country'](https://www.theguardian.com/books/2021/feb/06/francis-spufford-im-still-angry-about-what-has-been-done-to-this-country)
-- [Boris Johnson planning NHS England overhaul, leaked paper shows](https://www.theguardian.com/politics/2021/feb/06/boris-johnson-planning-nhs-england-overhaul-leaked-paper-shows)
-- [Myanmar military shuts down internet as thousands protest against coup](https://www.theguardian.com/world/2021/feb/06/myanmar-military-shuts-down-internet-as-thousands-protest-against-coup)
-- [‘Inactivity is an ongoing pandemic’: the life-saving impact of moving your body](https://www.theguardian.com/lifeandstyle/2021/feb/06/inactivity-is-an-ongoing-pandemic-the-life-saving-impact-of-moving-your-body)
+- [Coronavirus live: Western Australia details vaccine rollout; more than 11.4m in UK have had first jab](https://www.theguardian.com/world/live/2021/feb/06/coronavirus-live-news-greece-astrazeneca-vaccine-under-65s-melbourne-lebanon-covid-19-uk-europe)
+- [AstraZeneca set to weather Covid in better health than rivals](https://www.theguardian.com/business/2021/feb/07/astrazeneca-set-to-weather-covid-in-better-health-than-rivals)
+- [MPs to investigate LV= takeover bid amid fears members could lose out](https://www.theguardian.com/business/2021/feb/07/mps-to-investigate-lv-takeover-bid-amid-fears-members-could-lose-out)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Calvert-Lewin stuns Manchester United to snatch last-gasp Everton draw](https://www.theguardian.com/football/2021/feb/06/manchester-united-everton-premier-league-match-report)
+- [Lad: A Yorkshire Story – the slow-burn film setting Amazon alight](https://www.theguardian.com/film/2021/feb/06/lad-a-yorkshire-story-the-slow-burn-film-setting-amazon-alight)
+- [Andy Murray pinpoints lack of vigilance at Roehampton for catching Covid](https://www.theguardian.com/sport/2021/feb/06/andy-murray-pinpoints-lack-of-vigilance-at-roehampton-for-catching-covid)
+- [Perfect storm: have the influencers selling a dream lost their allure?](https://www.theguardian.com/media/2021/feb/06/perfect-storm-have-the-influencers-selling-a-dream-lost-their-allure)
+- ['Keeping it real is the key to my success as a lifestyle blogger'](https://www.theguardian.com/media/2021/feb/06/keeping-it-real-is-the-key-to-my-success-as-a-lifestyle-blogger)
+- [Sahara sand covers European ski resorts and cities – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/feb/06/sahara-sand-covers-european-ski-resorts-cities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
-- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
-- [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
-- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
-- [Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
-- [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
-- [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
-- [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
-- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
-- [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
+- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
+- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
+- [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
+- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
+- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
+- [Qcocal VAX – Free Public-Access Digital Dec OpenVMS VAX Hobbyist Server](http://sanyalnet-openvms-vax.freeddns.org:82/)
+- [The Rise and Fall of Bitcoin Billionaire Arthur Hayes](https://www.vanityfair.com/news/2021/02/the-rise-and-fall-of-bitcoin-billionaire-arthur-hayes#intcid=recommendations_vf-trending-legacy_a6f46dda-cf48-4781-8493-4e8dda1026ff_popular4-1)
+- [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
+- [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -310,6 +310,81 @@
 - [Atlassian launches Cloud Enterprise to meet core customer needs](https://www.computerworld.com/article/3606133/atlassian-launches-cloud-enterprise-to-meet-core-customer-needs.html#tk.rss_all)
 - [Microsoft pushes 'in cloud' settings collection to simplify PC management](https://www.computerworld.com/article/3606134/microsoft-pushes-in-cloud-settings-collection-to-simplify-pc-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
+
+### _Information Week posts_
+
+<!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [New Opportunities from Tech-Driven Industry Convergence](https://www.informationweek.com/strategic-cio/it-strategy/new-opportunities-from-tech-driven-industry-convergence/a/d-id/1340027?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What Comes Next for AWS with Jassy to Become Amazon CEO](https://www.informationweek.com/cloud/what-comes-next-for-aws-with-jassy-to-become-amazon-ceo/d/d-id/1340057?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Aegis Sciences CIO on Scaling IT to Meet COVID Testing Demand](https://www.informationweek.com/strategic-cio/aegis-sciences-cio-on-scaling-it-to-meet-covid-testing-demand/a/d-id/1340053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Why the Financial Services Industry is Embracing the Cloud](https://www.informationweek.com/cloud/why-the-financial-services-industry-is-embracing-the-cloud/a/d-id/1340050?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [XOps: Real or Hype?](https://www.informationweek.com/big-data/xops-real-or-hype/a/d-id/1340038?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Continuous Delivery: Why You Need It and How to Get Started](https://www.informationweek.com/devops/continuous-delivery-why-you-need-it-and-how-to-get-started/a/d-id/1340025?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The IT Leader's New Imperative: Constructing the Culture](https://www.informationweek.com/strategic-cio/team-building-and-staffing/the-it-leaders-new-imperative-constructing-the-culture-/a/d-id/1340007?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Is There a Case for Using Low Code to Develop End-User Apps?](https://www.informationweek.com/devops/is-there-a-case-for-using-low-code-to-develop-end-user-apps/a/d-id/1340019?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+<!-- INFORMATIONWEEK-POST-LIST:END -->
+
+### _InfoWorld posts_
+
+<!-- INFOWORLD-POST-LIST:START -->
+- [GitHub increases developer’s cut of GitHub Marketplace sales](https://www.infoworld.com/article/3606490/github-increases-developers-cut-of-github-marketplace-sales.html#tk.rss_all)
+- [You’re doing cloud-based AI and machine learning wrong](https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html#tk.rss_all)
+- [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_all)
+- [Got the Python basics down? Read this book next](https://www.infoworld.com/article/3605454/got-the-python-basics-down-read-this-book-next.html#tk.rss_all)
+- [3 ways to experiment with text analytics](https://www.infoworld.com/article/3604738/3-ways-to-experiment-with-text-analytics.html#tk.rss_all)
+- [Microsoft Azure Quantum opens for public preview](https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html#tk.rss_all)
+- [Oracle adds GraalVM to Java subscription](https://www.infoworld.com/article/3606069/oracle-adds-graalvm-to-java-subscription.html#tk.rss_all)
+- [Why Andy Jassy was picked to fill Jeff Bezos’s big shoes at Amazon](https://www.infoworld.com/article/3605968/why-andy-jassy-was-picked-to-fill-jeff-bezoss-big-shoes-at-amazon.html#tk.rss_all)
+- [7 data science predictions for 2021](https://www.infoworld.com/article/3605649/7-data-science-predictions-for-2021.html#tk.rss_all)
+- [InfoWorld’s 2021 Technology of the Year Award winners](https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html#tk.rss_all)
+<!-- INFOWORLD-POST-LIST:END -->
+
+### _Computer Weekly posts_
+
+<!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EncroChat: Appeal court finds ‘digital phone tapping’ admissible in criminal trials](https://www.computerweekly.com/news/252495964/EncroChat-Appeal-court-finds-digital-phone-tapping-admissible-in-criminal-trials)
+- [Mayor of London launches digital inclusion initiative](https://www.computerweekly.com/news/252495935/Mayor-of-London-launches-digital-inclusion-initiative)
+- [Government R&D funding fails to maximise ‘catapult’ potential](https://www.computerweekly.com/news/252495926/Government-RD-funding-fails-to-maximise-catapult-potential)
+- [Google Chrome update to patch serious zero-day](https://www.computerweekly.com/news/252495921/Google-Chrome-update-to-patch-serious-zero-day)
+- [Financial regulatory body bombarded with malicious emails](https://www.computerweekly.com/news/252495928/Financial-regulatory-body-bombarded-with-malicious-emails)
+- [Security firm Stormshield loses source code in cyber attack](https://www.computerweekly.com/news/252495912/Security-firm-Stormshield-loses-source-code-in-cyber-attack)
+- [Microsoft launches Viva as employee experience platform born out of Teams](https://www.computerweekly.com/news/252495868/Microsoft-launches-Viva-as-employee-experience-platform-born-out-of-Teams)
+- [Nurture software developer heroes](https://www.computerweekly.com/news/252495867/Nurture-software-developer-heroes)
+- [Five key points about unstructured data storage on-prem and cloud](https://www.computerweekly.com/feature/Five-key-points-about-unstructured-data-storage-on-prem-and-cloud)
+- [Revolut rewrites policy to include permanent remote working](https://www.computerweekly.com/news/252495857/Revolut-rewrites-policy-to-include-permanent-remote-working)
+<!-- COMPUTERWEEKLY-POST-LIST:END -->
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+- [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
+- [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
+- [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
+- [Inventory Software - Physical and Network](https://www.reddit.com/r/InformationTechnology/comments/ldtdti/inventory_software_physical_and_network/)
+- [Is Google IT support certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ldsxf9/is_google_it_support_certification_worth_it/)
+- [AVADA PORTFOLIO - Metricpixels](https://www.reddit.com/r/InformationTechnology/comments/ldsruv/avada_portfolio_metricpixels/)
+- [IT Degree or IT Certificate?](https://www.reddit.com/r/InformationTechnology/comments/ldno5p/it_degree_or_it_certificate/)
+- [Help with an overwritten folder on an USB and Desktop](https://www.reddit.com/r/InformationTechnology/comments/ldmdo9/help_with_an_overwritten_folder_on_an_usb_and/)
+- [it](https://www.reddit.com/r/InformationTechnology/comments/ldewp8/it/)
+- [Power Up Your Barcode Scanner With Scripts](https://www.reddit.com/r/InformationTechnology/comments/ldcvuy/power_up_your_barcode_scanner_with_scripts/)
+<!-- REDDIT-POST-LIST:END -->
+
+### _ITWorld Canada posts_
+
+<!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today – Week in Review for February 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-5-2021/441772)
+- [How AIOps will transform enterprise IT in 2021](https://www.itworldcanada.com/blog/how-aiops-will-transform-enterprise-it-in-2021/441872)
+- [New 21-Day Data Challenge from Lighthouse Labs will help Canadians gain experience working with data](https://www.itworldcanada.com/article/new-21-day-lighthouse-labs-challenge-to-give-canadians-experience-working-with-data/441839)
+- [Microsoft launches Microsoft Viva employee experience platform](https://www.itworldcanada.com/article/microsoft-launches-microsoft-viva-employee-experience-platform/441791)
+- [ITWC scores big at COPAs with 4 gold](https://www.itworldcanada.com/article/itwc-scores-big-at-copas-with-4-gold/441831)
+- [Hashtag Trending – Google engineers resign over Gebru firing; Amazon’s “Megacycle” shift for warehouse workers; Clearview AI troubles in Canada](https://www.itworldcanada.com/article/hashtag-trending-google-engineers-resign-over-gebru-firing-amazons-megacycle-shift-for-warehouse-workers-clearview-ai-troubles-in-canada/441819)
+- [Cyber Security Today – Bad passwords, bad bugs, a threat to high performance computers and more](https://www.itworldcanada.com/article/cyber-security-today-bad-passwords-bad-bugs-a-threat-to-high-performance-computers-and-more/441801)
+- [Accenture names Jennifer Jackson Canada’s Accenture Cloud First Lead](https://www.itworldcanada.com/article/accenture-names-jennifer-jackson-canadas-accenture-cloud-first-lead/441804)
+- [The fight against cybercriminals needs talent – and that starts with you](https://www.itworldcanada.com/article/the-fight-against-cybercriminals-needs-talent-and-that-starts-with-you/441775)
+- [Technicity West welcomes Calgary Mayor Naheed Nenshi](https://www.itworldcanada.com/article/technicity-west-welcomes-calgary-mayor-naheed-nenshi/441768)
+<!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 

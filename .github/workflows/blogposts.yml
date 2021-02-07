@@ -32,3 +32,28 @@ jobs:
           max_post_count: "10"
           comment_tag_name: "COMPUTERWORLD-POST-LIST"
           feed_list: "https://www.computerworld.com/index.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "INFORMATIONWEEK-POST-LIST"
+          feed_list: "https://www.informationweek.com/rss_simple.asp"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "INFOWORLD-POST-LIST"
+          feed_list: "https://www.infoworld.com/index.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "COMPUTERWEEKLY-POST-LIST"
+          feed_list: "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDDIT-POST-LIST"
+          feed_list: "https://www.reddit.com/r/InformationTechnology/.rss?format=xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "ITWORLDCANADA-POST-LIST"
+          feed_list: "https://www.itworldcanada.com/feed"

@@ -306,6 +306,31 @@
 - [Microsoft pushes 'in cloud' settings collection to simplify PC management](https://www.computerworld.com/article/3606134/microsoft-pushes-in-cloud-settings-collection-to-simplify-pc-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
+### _Information Week posts_
+
+<!-- INFORMATIONWEEK-POST-LIST:START -->
+<!-- INFORMATIONWEEK-POST-LIST:END -->
+
+### _InfoWorld posts_
+
+<!-- INFOWORLD-POST-LIST:START -->
+<!-- INFOWORLD-POST-LIST:END -->
+
+### _Computer Weekly posts_
+
+<!-- COMPUTERWEEKLY-POST-LIST:START -->
+<!-- COMPUTERWEEKLY-POST-LIST:END -->
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+<!-- REDDIT-POST-LIST:END -->
+
+### _ITWorld Canada posts_
+
+<!-- ITWORLDCANADA-POST-LIST:START -->
+<!-- ITWORLDCANADA-POST-LIST:END -->
+
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->

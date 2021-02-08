@@ -284,16 +284,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
-- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
-- [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
-- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
-- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
-- [Qcocal VAX – Free Public-Access Digital Dec OpenVMS VAX Hobbyist Server](http://sanyalnet-openvms-vax.freeddns.org:82/)
-- [The Rise and Fall of Bitcoin Billionaire Arthur Hayes](https://www.vanityfair.com/news/2021/02/the-rise-and-fall-of-bitcoin-billionaire-arthur-hayes#intcid=recommendations_vf-trending-legacy_a6f46dda-cf48-4781-8493-4e8dda1026ff_popular4-1)
-- [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
+- [AWS Announces Amazon Aurora Supports PostgreSQL 12](https://www.infoq.com/news/2021/02/amazon-aurora-postgresql-12/)
+- [What happens when the NYT and New Yorker make mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
+- [Don't Offer a Free Plan](https://nofreeplan.com)
+- [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
+- [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/)
+- [Soldat: a 2D (side-view) multiplayer action game](https://github.com/Soldat/soldat)
+- [Mux (YC W16) is hiring product and brand designers excited about dev tools](https://mux.com/jobs?hnj=designers)
+- [Xpdf](http://www.xpdfreader.com/)
+- [DVD-Drive Based Laser Scanning Microscope](https://loetlabor-jena.de/doku.php?id=projekte:dvdlsm:start)
+- [Solar flare-style rocket thruster ‘could send astronauts to outer solar system’](https://www.imeche.org/news/news-article/solar-flare-style-rocket-thruster-could-send-astronauts-to-outer-solar-system)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

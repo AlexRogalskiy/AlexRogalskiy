@@ -226,7 +226,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-10°C (<i>overcast clouds</i>), humidity: 86%, pressure: 1018 (mbar), wind: /east/ 6 (m/s), cloudy: 90%</b>
+        <b>-10°C (<i>broken clouds</i>), humidity: 86%, pressure: 1019 (mbar), wind: /north-east/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:55 am</b> and sets at <b>17:31 pm</b>.
     </p>
@@ -239,16 +239,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Slack Stored Some Passwords in Plain Text, You May Need to Change Yours](https://www.reviewgeek.com/70188/slack-stored-some-passwords-in-plain-text-you-may-need-to-change-yours/)
-* [A Hand-Built, Original Apple 1 Computer Is Yours for Just 1.5 Million Dollars](https://www.reviewgeek.com/70164/a-hand-built-original-apple-1-computer-is-yours-for-just-1-5-million-dollars/)
-* [How to Transpose Excel Data from Rows to Columns (or Vice Versa)](https://www.howtogeek.com/702803/how-to-transpose-excel-data-from-rows-to-columns-or-vice-versa/)
-* [PSA: After Nearly a Year, Name Brand Webcams Are Back in Stock](https://www.reviewgeek.com/70160/psa-after-nearly-a-year-name-brand-webcams-are-back-in-stock/)
-* [How to Send Disappearing Messages in Instagram](https://www.howtogeek.com/708070/how-to-send-disappearing-messages-on-instagram/)
-* [How to Delete Your Signal Account](https://www.howtogeek.com/710591/how-to-delete-your-signal-account/)
-* [How to Disable Twitter Sound Effects on iPhone and Android](https://www.howtogeek.com/709253/how-to-disable-twitter-sound-effects-on-iphone-and-android/)
-* [What Is an Android Icon Pack and How Do You Use Them?](https://www.reviewgeek.com/66568/what-is-an-android-icon-pack-and-how-do-you-use-them/)
-* [How to Transfer Your Games and Save Files From PS4 to PS5](https://www.howtogeek.com/710280/how-to-transfer-your-games-and-save-files-from-ps4-to-ps5/)
-* [How Does Walmart+ Stack Up Against Amazon Prime?](https://www.reviewgeek.com/69397/how-well-does-walmart-stack-up-against-amazon-prime/)
+* [80s Classic Cartoon 'The Real Ghostbusters' Lands on YouTube (Legally)](https://www.reviewgeek.com/70152/80s-classic-cartoon-the-real-ghostbusters-lands-on-youtube-legally/)
+* [Zap Your Bad Typing Habits Away with This Electrifying Keyboard](https://www.reviewgeek.com/70169/zap-your-bad-typing-habits-away-with-this-electrifying-keyboard/)
+* [How to Prevent Members From Editing a WhatsApp Group’s Details](https://www.howtogeek.com/708368/how-to-prevent-members-from-editing-a-whatsapp-groups-details/)
+* [How to Listen to Apple Music on a Windows PC](https://www.howtogeek.com/706476/how-to-listen-to-apple-music-on-a-windows-pc/)
+* [How to Send Disappearing Messages in Signal](https://www.howtogeek.com/709515/how-to-send-disappearing-messages-in-signal/)
+* [Stay Warm During Winter Workouts with These 12 Essentials](https://www.lifesavvy.com/44627/stay-warm-during-winter-workouts-with-these-twelve-essentials/)
+* [How to Pin Live Sports Scores to Your Android Home Screen](https://www.howtogeek.com/710097/how-to-pin-live-sports-scores-to-your-android-home-screen/)
+* [The Board Games are Perfect for 'Among Us' Fans](https://www.reviewgeek.com/67874/the-best-board-games-for-among-us-fans/)
+* [How to Stream Super Bowl 2021 Without Cable](https://www.howtogeek.com/711046/how-to-stream-super-bowl-55-without-cable/)
+* [The Best Screen Recording and Broadcasting Software](https://www.reviewgeek.com/68169/the-best-screen-recording-and-broadcasting-software/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

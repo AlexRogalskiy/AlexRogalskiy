@@ -269,16 +269,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: Australians to get Covid 'vaccine certificates'; AstraZeneca jab may be less effective against South African variant](https://www.theguardian.com/world/live/2021/feb/07/coronavirus-covid-vaccine-variant-pandemic-uk-us-europe-australia-africa-asia)
-- ['A door has opened': Pope Francis appoints first woman to senior synod post](https://www.theguardian.com/world/2021/feb/07/a-door-has-opened-pope-francis-appoints-first-woman-to-senior-synod-post)
-- [Grandfather becomes oldest person to row 3,000 miles solo across Atlantic](https://www.theguardian.com/uk-news/2021/feb/07/grandfather-becomes-oldest-person-to-row-3000-miles-solo-across-atlantic)
-- [AstraZeneca set to weather Covid in better health than rivals](https://www.theguardian.com/business/2021/feb/07/astrazeneca-set-to-weather-covid-in-better-health-than-rivals)
-- [MPs to investigate LV= takeover bid amid fears members could lose out](https://www.theguardian.com/business/2021/feb/07/mps-to-investigate-lv-takeover-bid-amid-fears-members-could-lose-out)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Calvert-Lewin stuns Manchester United to snatch last-gasp Everton draw](https://www.theguardian.com/football/2021/feb/06/manchester-united-everton-premier-league-match-report)
-- [Lad: A Yorkshire Story – the slow-burn film setting Amazon alight](https://www.theguardian.com/film/2021/feb/06/lad-a-yorkshire-story-the-slow-burn-film-setting-amazon-alight)
-- [Andy Murray pinpoints lack of vigilance at Roehampton for catching Covid](https://www.theguardian.com/sport/2021/feb/06/andy-murray-pinpoints-lack-of-vigilance-at-roehampton-for-catching-covid)
-- [Perfect storm: have the influencers selling a dream lost their allure?](https://www.theguardian.com/media/2021/feb/06/perfect-storm-have-the-influencers-selling-a-dream-lost-their-allure)
+- [Super Bowl LV: Kansas City Chiefs v Tampa Bay Buccaneers – live!](https://www.theguardian.com/sport/live/2021/feb/07/super-bowl-55-kansas-city-chiefs-tampa-bay-buccaneers-brady-mahomes-nfl-football-latest-score)
+- [Super Bowl ads and half-time show: The Weeknd creates energy without a huge crowd – live](https://www.theguardian.com/culture/live/2021/feb/07/super-bowl-ads-commercials-music-celebrities-culture-live)
+- [Australian Open 2021 day one: Serena Williams in action, Naomi Osaka into second round – live!](https://www.theguardian.com/sport/live/2021/feb/08/australian-open-2021-tennis-live-day-one-schedule-draw-naomi-osaka-serena-williams-fixture-order-of-play-coverage-latest-news-updates)
+- [Coronavirus live news: Biden says herd immunity 'difficult' by end summer; South Africa suspends Oxford vaccine](https://www.theguardian.com/world/live/2021/feb/08/coronavirus-live-news-biden-warns-herd-immunity-difficult-by-end-of-summer-south-africa-suspends-oxford-vaccine)
+- [Ebola virus kills woman in Democratic Republic of Congo, health ministry says](https://www.theguardian.com/world/2021/feb/08/ebola-virus-kills-woman-in-democratic-republic-of-congo-health-ministry-says)
+- [Peer is asked to investigate the activities of extreme right and left](https://www.theguardian.com/politics/2021/feb/08/peer-is-asked-to-investigate-the-activities-of-extreme-right-and-left)
+- [NHS dental patients 'told to go private' as watchdog warns of crisis](https://www.theguardian.com/society/2021/feb/08/nhs-dental-patients-told-to-go-private-as-watchdog-warns-of-crisis-covid)
+- [Nancy Sinatra: I was too shy for showbusiness](https://www.theguardian.com/music/2021/feb/08/nancy-sinatra-i-was-too-shy-for-showbusiness)
+- [Covid hits exam-taking and poorer pupils worst, study finds](https://www.theguardian.com/education/2021/feb/08/covid-hits-exam-taking-poorer-pupils-worst-england-study-finds)
+- [Police name stabbing victim after weekend of attacks in London](https://www.theguardian.com/uk-news/2021/feb/07/police-name-one-of-two-men-killed-series-london-stabbings-sven-badzak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -254,16 +254,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hayao Miyazaki response to AI animation is a stinging critique for all of Tech](https://www.youtube.com/watch?v=ngZ0K3lWKRc)
-- [Work Towards Solving Ultimate Tic Tac Toe](https://minimax.dev/docs/ultimate/)
-- [First Dairy-Identical Vegan Ice Cream Launches at 5k Stores](https://vegnews.com/2021/2/dairy-identical-vegan-ice-cream-at-5-000-stores)
-- [Yesterday was my last day at Google](https://twitter.com/vineshgkannan/status/1357115873723637764)
-- [Fun with a Functional Programming Interview Question](https://danielbmarkham.com/fun-with-an-interview-question/)
-- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
-- [Dazzle Camouflage](https://en.wikipedia.org/wiki/Dazzle_camouflage)
-- [Building a Stock Market API in 30 Minutes](https://zach.codes/stock-api-in-30-minutes/)
-- [Revisiting Coroutines [pdf]](http://www.inf.puc-rio.br/~roberto/docs/MCC15-04.pdf)
-- [Why greed is an unhelpful characterisation of rational economic choices](https://www.robertwarrengilmore.com/blog/unregulated-competition-considered-harmful/)
+- [Quantifying Memory Unsafety and Reactions to It [pdf]](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2021_slides_gaynor.pdf)
+- [Do Offer a Free Plan](https://www.chrisfrantz.com/how-to-kill-a-unicorn/)
+- [Ask HN: Does anyone have examples of how they've worked with a VA effectively?](https://news.ycombinator.com/item?id=26060017)
+- [How the United States Lost to Hackers](https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html)
+- [Deepfake Voice Technology: The Good. The Bad. The Future](https://www.econotimes.com/Deepfake-Voice-Technology-The-Good-The-Bad-The-Future-1601278)
+- [Jassy Talking Points](https://www.tbray.org/ongoing/When/202x/2021/02/05/Jassy-Talking-Points)
+- [Kowloon Walled City in My Backyard](https://pedestrianobservations.com/2021/01/27/kwcimby/)
+- [Setting a maximum wage for CEOs would be good for everyone](https://aeon.co/ideas/setting-a-maximum-wage-for-ceos-would-be-good-for-everyone)
+- [PHPetite: A Single File Blog](https://phpetite.org/)
+- [Snoop Dogg and Gene Simmons Join Elon's Musk's 'Dogecoin Army'](https://cointelegraph.com/news/snoop-dogg-and-gene-simmons-join-elon-s-musk-s-dogecoin-army)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

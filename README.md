@@ -359,16 +359,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where do you study?](https://www.reddit.com/r/InformationTechnology/comments/lf0w0r/where_do_you_study/)
+- [CCNA or CompTIA?](https://www.reddit.com/r/InformationTechnology/comments/les6j3/ccna_or_comptia/)
 - [Which to take?](https://www.reddit.com/r/InformationTechnology/comments/lecupd/which_to_take/)
 - [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
-- [IT Senior and Internship](https://www.reddit.com/r/InformationTechnology/comments/le6pkb/it_senior_and_internship/)
 - [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
 - [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
 - [Inventory Software - Physical and Network](https://www.reddit.com/r/InformationTechnology/comments/ldtdti/inventory_software_physical_and_network/)
 - [Is Google IT support certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ldsxf9/is_google_it_support_certification_worth_it/)
 - [AVADA PORTFOLIO - Metricpixels](https://www.reddit.com/r/InformationTechnology/comments/ldsruv/avada_portfolio_metricpixels/)
 - [IT Degree or IT Certificate?](https://www.reddit.com/r/InformationTechnology/comments/ldno5p/it_degree_or_it_certificate/)
-- [Help with an overwritten folder on an USB and Desktop](https://www.reddit.com/r/InformationTechnology/comments/ldmdo9/help_with_an_overwritten_folder_on_an_usb_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

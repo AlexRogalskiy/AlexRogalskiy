@@ -269,16 +269,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Bowl LV: Kansas City Chiefs v Tampa Bay Buccaneers – live!](https://www.theguardian.com/sport/live/2021/feb/07/super-bowl-55-kansas-city-chiefs-tampa-bay-buccaneers-brady-mahomes-nfl-football-latest-score)
-- [Super Bowl ads and half-time show: The Weeknd creates energy without a huge crowd – live](https://www.theguardian.com/culture/live/2021/feb/07/super-bowl-ads-commercials-music-celebrities-culture-live)
-- [Australian Open 2021 day one: Serena Williams in action, Naomi Osaka into second round – live!](https://www.theguardian.com/sport/live/2021/feb/08/australian-open-2021-tennis-live-day-one-schedule-draw-naomi-osaka-serena-williams-fixture-order-of-play-coverage-latest-news-updates)
-- [Coronavirus live news: Biden says herd immunity 'difficult' by end summer; South Africa suspends Oxford vaccine](https://www.theguardian.com/world/live/2021/feb/08/coronavirus-live-news-biden-warns-herd-immunity-difficult-by-end-of-summer-south-africa-suspends-oxford-vaccine)
-- [Ebola virus kills woman in Democratic Republic of Congo, health ministry says](https://www.theguardian.com/world/2021/feb/08/ebola-virus-kills-woman-in-democratic-republic-of-congo-health-ministry-says)
-- [Peer is asked to investigate the activities of extreme right and left](https://www.theguardian.com/politics/2021/feb/08/peer-is-asked-to-investigate-the-activities-of-extreme-right-and-left)
-- [NHS dental patients 'told to go private' as watchdog warns of crisis](https://www.theguardian.com/society/2021/feb/08/nhs-dental-patients-told-to-go-private-as-watchdog-warns-of-crisis-covid)
-- [Nancy Sinatra: I was too shy for showbusiness](https://www.theguardian.com/music/2021/feb/08/nancy-sinatra-i-was-too-shy-for-showbusiness)
-- [Covid hits exam-taking and poorer pupils worst, study finds](https://www.theguardian.com/education/2021/feb/08/covid-hits-exam-taking-poorer-pupils-worst-england-study-finds)
-- [Police name stabbing victim after weekend of attacks in London](https://www.theguardian.com/uk-news/2021/feb/07/police-name-one-of-two-men-killed-series-london-stabbings-sven-badzak)
+- [Coronavirus live news: WHO says it is 'too early' to dismiss AstraZeneca vaccine](https://www.theguardian.com/world/live/2021/feb/09/coronavirus-live-news-who-says-it-is-too-early-to-dismiss-astrazeneca-vaccine)
+- [Trump impeachment: Schumer says agreement reached on rules for trial – as it happened](https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates)
+- ['Witch' tweets reflect society's fear of older women, says Mary Beard](https://www.theguardian.com/books/2021/feb/09/mary-beard-witch-tweets-reflect-society-fear-older-women)
+- [BA plans transatlantic flights partially fuelled by recycled waste in 2022](https://www.theguardian.com/business/2021/feb/09/ba-plans-transatlantic-flights-partially-fuelled-by-recycled-waste-in-2022)
+- [UK risks ‘turning clock back’ on gender equality in pandemic](https://www.theguardian.com/lifeandstyle/2021/feb/09/uk-risks-turning-clock-back-on-gender-equality-in-pandemic)
+- [Keep £20 a week universal credit Covid top-up, MPs urge](https://www.theguardian.com/world/2021/feb/09/keep-universal-credit-covid-top-up-mps-urge)
+- [Tens of thousands of UK nurses yet to receive first dose of Covid vaccine](https://www.theguardian.com/society/2021/feb/09/tens-of-thousands-of-uk-nurses-yet-to-receive-first-dose-of-covid-vaccine)
+- [Facebook bans misinformation about all vaccines after years of controversy](https://www.theguardian.com/technology/2021/feb/08/facebook-bans-vaccine-misinformation)
+- [Outcry as more than 20 babies and children deported by US to Haiti](https://www.theguardian.com/us-news/2021/feb/08/us-ice-immigration-customs-enforcement-haiti-deportations)
+- ['We’re not talking about it, we’re doing it': Aims takes inclusivity action | Paul MacInnes](https://www.theguardian.com/football/2021/feb/08/were-not-talking-about-it-were-doing-it-aims-takes-inclusivity-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -344,16 +344,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [EncroChat: Appeal court finds ‘digital phone tapping’ admissible in criminal trials](https://www.computerweekly.com/news/252495964/EncroChat-Appeal-court-finds-digital-phone-tapping-admissible-in-criminal-trials)
-- [Mayor of London launches digital inclusion initiative](https://www.computerweekly.com/news/252495935/Mayor-of-London-launches-digital-inclusion-initiative)
-- [Government R&D funding fails to maximise ‘catapult’ potential](https://www.computerweekly.com/news/252495926/Government-RD-funding-fails-to-maximise-catapult-potential)
-- [Google Chrome update to patch serious zero-day](https://www.computerweekly.com/news/252495921/Google-Chrome-update-to-patch-serious-zero-day)
-- [Financial regulatory body bombarded with malicious emails](https://www.computerweekly.com/news/252495928/Financial-regulatory-body-bombarded-with-malicious-emails)
-- [Security firm Stormshield loses source code in cyber attack](https://www.computerweekly.com/news/252495912/Security-firm-Stormshield-loses-source-code-in-cyber-attack)
-- [Microsoft launches Viva as employee experience platform born out of Teams](https://www.computerweekly.com/news/252495868/Microsoft-launches-Viva-as-employee-experience-platform-born-out-of-Teams)
-- [Nurture software developer heroes](https://www.computerweekly.com/news/252495867/Nurture-software-developer-heroes)
-- [Five key points about unstructured data storage on-prem and cloud](https://www.computerweekly.com/feature/Five-key-points-about-unstructured-data-storage-on-prem-and-cloud)
-- [Revolut rewrites policy to include permanent remote working](https://www.computerweekly.com/news/252495857/Revolut-rewrites-policy-to-include-permanent-remote-working)
+- [UK Cyber Security Council to take charge of skills strategy](https://www.computerweekly.com/news/252496004/UK-Cyber-Security-Council-to-take-charge-of-skills-strategy)
+- [IBM refreshes entry-level FlashSystem arrays with a little NVMe](https://www.computerweekly.com/news/252496017/IBM-refreshes-entry-level-FlashSystem-arrays-with-a-little-NVMe)
+- [Interview: Robert Opp, chief digital officer, United Nations Development Programme](https://www.computerweekly.com/news/252495923/Interview-Robert-Opp-chief-digital-officer-UNDP)
+- [North-West England ‘perfect’ growth area for tech startups](https://www.computerweekly.com/news/252496007/North-West-of-England-perfect-growth-area-for-tech-startups)
+- [Too few UK organisations offering cyber training for remote work](https://www.computerweekly.com/news/252495994/Too-few-UK-organisations-offering-cyber-training-for-remote-work)
+- [Get ready for fake work epidemic](https://www.computerweekly.com/news/252495987/Get-ready-for-fake-work-epidemic)
+- [Data of thousands of Dutch citizens leaked from government Covid-19 systems](https://www.computerweekly.com/news/252495983/Data-of-thousands-of-Dutch-citizens-leaked-from-government-Covid-19-systems)
+- [Sweden to establish national cyber security centre](https://www.computerweekly.com/news/252495978/Sweden-to-establish-national-cyber-security-centre)
+- [Almost 70% of IT staff say firms working on tech gender diversity](https://www.computerweekly.com/news/252495975/Almost-70-of-IT-staff-say-firms-working-on-tech-gender-diversity)
+- [Trends in collaboration technologies](https://www.computerweekly.com/feature/Trends-in-collaboration-technologies)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

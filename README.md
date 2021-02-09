@@ -239,16 +239,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [80s Classic Cartoon 'The Real Ghostbusters' Lands on YouTube (Legally)](https://www.reviewgeek.com/70152/80s-classic-cartoon-the-real-ghostbusters-lands-on-youtube-legally/)
-* [Zap Your Bad Typing Habits Away with This Electrifying Keyboard](https://www.reviewgeek.com/70169/zap-your-bad-typing-habits-away-with-this-electrifying-keyboard/)
-* [How to Prevent Members From Editing a WhatsApp Group’s Details](https://www.howtogeek.com/708368/how-to-prevent-members-from-editing-a-whatsapp-groups-details/)
-* [How to Listen to Apple Music on a Windows PC](https://www.howtogeek.com/706476/how-to-listen-to-apple-music-on-a-windows-pc/)
-* [How to Send Disappearing Messages in Signal](https://www.howtogeek.com/709515/how-to-send-disappearing-messages-in-signal/)
-* [Stay Warm During Winter Workouts with These 12 Essentials](https://www.lifesavvy.com/44627/stay-warm-during-winter-workouts-with-these-twelve-essentials/)
-* [How to Pin Live Sports Scores to Your Android Home Screen](https://www.howtogeek.com/710097/how-to-pin-live-sports-scores-to-your-android-home-screen/)
-* [The Board Games are Perfect for 'Among Us' Fans](https://www.reviewgeek.com/67874/the-best-board-games-for-among-us-fans/)
-* [How to Stream Super Bowl 2021 Without Cable](https://www.howtogeek.com/711046/how-to-stream-super-bowl-55-without-cable/)
-* [The Best Screen Recording and Broadcasting Software](https://www.reviewgeek.com/68169/the-best-screen-recording-and-broadcasting-software/)
+* [Fitbit Adds Blood Glucose Tracking on Android and iOS](https://www.reviewgeek.com/70402/fitbit-adds-blood-glucose-tracking-on-android-and-ios/)
+* [The SpeedTest App Now Tells You How Much Your Video Streaming Sucks](https://www.reviewgeek.com/70381/the-speedtest-app-now-tells-you-how-much-your-video-streaming-sucks/)
+* [Target and Amazon Have B2G1 on Games, Books, Movies, and Toys Today](https://www.reviewgeek.com/70379/target-and-amazon-have-b2g1-on-games-books-movies-and-toys-today/)
+* [LEGO is Giving Everyone a Free Minifig in a New Contest](https://www.reviewgeek.com/70358/lego-is-giving-everyone-a-free-minifig-in-a-new-contest/)
+* [A Popular Android App Turned Into Malware: Check Your Phone Now](https://www.reviewgeek.com/70327/a-popular-android-app-turned-into-malware-check-your-phone-now/)
+* [How to Change the Google Assistant’s Voice](https://www.howtogeek.com/712125/how-to-change-the-google-assistants-voice/)
+* [8 Ways to Lock Your Mac](https://www.howtogeek.com/703785/8-ways-to-lock-your-mac/)
+* [How to Delete Your Telegram Account](https://www.howtogeek.com/710602/how-to-delete-your-telegram-account/)
+* [How to Get Started With Doctl, DigitalOcean's Command-Line Client](https://www.cloudsavvyit.com/9498/how-to-get-started-with-doctl-digitaloceans-command-line-client/)
+* [How to Change Your Windows 10 Lock Screen Background](https://www.howtogeek.com/708418/how-to-change-your-windows-10-lock-screen-background/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

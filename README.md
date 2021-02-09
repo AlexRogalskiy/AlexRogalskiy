@@ -175,7 +175,7 @@
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Idioms/Colours/yellow_streak_380.php" target="_blank"><i>yellow streak</i></a>
-<span>&nbps;=&nbps;</span>
+<span> = </span>
 <span>If someone has a yellow streak, they can sometimes act in a cowardly way and not be very brave.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
@@ -183,7 +183,7 @@
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/bent_1142.php" target="_blank"><i>bent</i></a>
-<span>&nbps;=&nbps;</span>
+<span> = </span>
 <span>dishonest, corrupt</span>
 </div>
 <!--views:slang-rss-marker:end-->
@@ -191,7 +191,7 @@
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Truth_will_out_942.php" target="_blank"><i>Truth will out</i></a>
-<span>&nbps;=&nbps;</span>
+<span> = </span>
 <span>In the end, what is true will come to be known. The truth always appears eventually, despite all efforts to hide it. It is impossible to keep something secret forever.</span>
 </div>
 <!--views:saying-rss-marker:end-->
@@ -199,7 +199,7 @@
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/let/let_off_2__2067.php" target="_blank"><i>let off (2)</i></a>
-<span>&nbps;=&nbps;</span>
+<span> = </span>
 <span>to make something explode</span>
 </div>
 <!--views:phrase-rss-marker:end-->

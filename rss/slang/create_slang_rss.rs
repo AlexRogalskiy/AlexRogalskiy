@@ -48,7 +48,7 @@ fn get_latest_articles() -> String {
 
     // Filter the last article + format each one as markdown list string
     return posts[..1].iter().fold("".to_string(), |_, item| {
-        format!("\n<div align=\"left\" style=\"align-content: flex-start\">\n<a href=\"{}\" target=\"_blank\"><i>{}</i></a>\n<span>&nbps;=&nbps;</span><span>{}</span>\n</div>", item.link, item.title, item.description)
+        format!("\n<div align=\"left\" style=\"align-content: flex-start\">\n<a href=\"{}\" target=\"_blank\"><i>{}</i></a>\n<span>&nbps;=&nbps;</span>\n<span>{}</span>\n</div>", item.link, item.title, item.description)
     });
 }
 

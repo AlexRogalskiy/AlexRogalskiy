@@ -1,6 +1,8 @@
 extern crate chrono;
 extern crate rss;
 
+static SEPARATOR: &str = " = ";
+
 use chrono::DateTime;
 use rss::Channel;
 use std::cmp::Ordering;
@@ -13,6 +15,7 @@ struct FeedItem {
     description: String,
     link: String,
     pub_date: String,
+    separator: String
 }
 
 pub fn create_slang_rss() -> std::io::Result<()> {
@@ -48,7 +51,7 @@ fn get_latest_articles() -> String {
 
     // Filter the last article + format each one as markdown list string
     return posts[..1].iter().fold("".to_string(), |_, item| {
-        format!("\n<div align=\"left\" style=\"align-content: flex-start\">\n<a href=\"{}\" target=\"_blank\"><i>{}</i></a>\n<span> = </span>\n<span>{}</span>\n</div>", item.link, item.title, item.description)
+        format!("\n<div align=\"left\" style=\"align-content: flex-start\">\n<a href=\"{}\" target=\"_blank\"><i>{}</i></a>\n<span>{}</span>\n<span>{}</span>\n</div>", item.link, item.title, item.separator, item.description)
     });
 }
 
@@ -63,6 +66,7 @@ fn get_blog_rss() -> Vec<FeedItem> {
             description: item.description().unwrap().to_string(),
             link: item.link().unwrap().to_string(),
             pub_date: item.pub_date().unwrap().to_string(),
+            separator: SEPARATOR.to_string()
         })
         .collect();
 }

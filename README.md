@@ -374,16 +374,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Government funded high-speed internet coming to rural Niagara region](https://www.itworldcanada.com/article/government-funded-high-speed-internet-coming-to-rural-niagara-region/442043)
+- [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
+- [Tales from the trenches: dealing with internal threats](https://www.itworldcanada.com/blog/tales-from-the-trenches-trust-but-verify-dealing-with-internal-threats/441767)
+- [B.C. privacy commissioner says privacy laws alone can’t restrain big tech’s ‘predatory behaviour’](https://www.itworldcanada.com/article/b-c-privacy-commissioner-says-privacy-laws-alone-cant-restrain-big-techs-predatory-behaviour/441954)
+- [Dell Precision 5550 workstation laptop review: nearly perfect](https://www.itworldcanada.com/article/dell-precision-5550-workstation-laptop-review/441851)
+- [Ransomware attempt on British Columbia realtor raises question of supply chain attack](https://www.itworldcanada.com/article/ransomware-attempt-on-british-columbia-realtor-raises-question-of-supply-chain-attack/441914)
+- [Cyber Security Today – Data breaches at SitePoint and Emsisoft, Morse code used for hiding a phishing attack and watch for bad browser extensions](https://www.itworldcanada.com/article/cyber-security-today-data-breaches-at-sitepoint-and-emsisoft-morse-code-used-for-hiding-a-phishing-attack-and-watch-for-bad-browser-extensions/441930)
+- [Hashtag Trending – Police seize $60M worth of bitcoin; Tech helping teens’ mental health; Microsoft won’t back lawmakers who voted against Electoral College confirmation](https://www.itworldcanada.com/article/hashtag-trending-police-seize-60m-worth-of-bitcoin-tech-helping-teens-mental-health-microsoft-wont-back-lawmakers-who-voted-against-electoral-college-confirmation/441939)
 - [Should we be concerned about the digital literacy of Canadian board of directors?](https://www.itworldcanada.com/blog/should-we-be-concerned-about-the-digital-literacy-of-canadian-board-of-directors/441935)
 - [Five ways you can celebrate Black History Month virtually](https://www.itworldcanada.com/slideshow/five-ways-you-can-celebrate-black-history-month-virtually)
-- [Cyber Security Today – Week in Review for February 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-5-2021/441772)
-- [How AIOps will transform enterprise IT in 2021](https://www.itworldcanada.com/blog/how-aiops-will-transform-enterprise-it-in-2021/441872)
-- [New 21-Day Data Challenge from Lighthouse Labs will help Canadians gain experience working with data](https://www.itworldcanada.com/article/new-21-day-lighthouse-labs-challenge-to-give-canadians-experience-working-with-data/441839)
-- [Microsoft launches Microsoft Viva employee experience platform](https://www.itworldcanada.com/article/microsoft-launches-microsoft-viva-employee-experience-platform/441791)
-- [ITWC scores big at COPAs with 4 gold](https://www.itworldcanada.com/article/itwc-scores-big-at-copas-with-4-gold/441831)
-- [Hashtag Trending – Google engineers resign over Gebru firing; Amazon’s “Megacycle” shift for warehouse workers; Clearview AI troubles in Canada](https://www.itworldcanada.com/article/hashtag-trending-google-engineers-resign-over-gebru-firing-amazons-megacycle-shift-for-warehouse-workers-clearview-ai-troubles-in-canada/441819)
-- [Cyber Security Today – Bad passwords, bad bugs, a threat to high performance computers and more](https://www.itworldcanada.com/article/cyber-security-today-bad-passwords-bad-bugs-a-threat-to-high-performance-computers-and-more/441801)
-- [Accenture names Jennifer Jackson Canada’s Accenture Cloud First Lead](https://www.itworldcanada.com/article/accenture-names-jennifer-jackson-canadas-accenture-cloud-first-lead/441804)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

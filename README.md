@@ -200,15 +200,6 @@
 </div>
 <!--views:phrase-rss-marker:end-->
 
-<!--views:poem-rss-marker:start-->
-<div align="center" style="align-content: center">
-<details>
-<summary><a href="https://apoemaday.tumblr.com/post/642578732305072128" target="_blank"><i>“May we raise children who love the unloved things”</i></a></summary>
-<p>by Nicolette Sowder</p><p>May we raise children<br/>who love the unloved<br/>things&ndash;the dandelion, the<br/>worms and spiderlings.<br/>Children who sense<br/>the rose needs the thorn</p><p>&amp; run into rainswept days<br/>the same way they<br/>turn towards sun&hellip;</p><p>And when they’re grown &amp;<br/>someone has to speak for those<br/>who have no voice</p><p>may they draw upon that<br/>wilder bond, those days of<br/>tending tender things</p><p>and be the ones.</p>
-</details>
-</div>
-<!--views:poem-rss-marker:end-->
-
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
@@ -227,6 +218,17 @@
 </div>
 
 <!--views:pinterest-marker:end-->
+
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/puzzle.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Poem of the Day_
+
+<!--views:poem-rss-marker:start-->
+<div align="center" style="align-content: center">
+<details>
+<summary><a href="https://apoemaday.tumblr.com/post/642578732305072128" target="_blank"><i>“May we raise children who love the unloved things”</i></a></summary>
+<p>by Nicolette Sowder</p><p>May we raise children<br/>who love the unloved<br/>things&ndash;the dandelion, the<br/>worms and spiderlings.<br/>Children who sense<br/>the rose needs the thorn</p><p>&amp; run into rainswept days<br/>the same way they<br/>turn towards sun&hellip;</p><p>And when they’re grown &amp;<br/>someone has to speak for those<br/>who have no voice</p><p>may they draw upon that<br/>wilder bond, those days of<br/>tending tender things</p><p>and be the ones.</p>
+</details>
+</div>
+<!--views:poem-rss-marker:end-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/travel.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Travel & Leisure_
 

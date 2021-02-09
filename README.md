@@ -314,6 +314,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The 'It' Factors in IT Transformation](https://www.informationweek.com/strategic-cio/digital-business/the-it-factors-in-it-transformation/a/d-id/1340063?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [New Opportunities from Tech-Driven Industry Convergence](https://www.informationweek.com/strategic-cio/it-strategy/new-opportunities-from-tech-driven-industry-convergence/a/d-id/1340027?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Comes Next for AWS with Jassy to Become Amazon CEO](https://www.informationweek.com/cloud/what-comes-next-for-aws-with-jassy-to-become-amazon-ceo/d/d-id/1340057?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -322,8 +324,6 @@
 - [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [XOps: Real or Hype?](https://www.informationweek.com/big-data/xops-real-or-hype/a/d-id/1340038?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Continuous Delivery: Why You Need It and How to Get Started](https://www.informationweek.com/devops/continuous-delivery-why-you-need-it-and-how-to-get-started/a/d-id/1340025?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The IT Leader's New Imperative: Constructing the Culture](https://www.informationweek.com/strategic-cio/team-building-and-staffing/the-it-leaders-new-imperative-constructing-the-culture-/a/d-id/1340007?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Is There a Case for Using Low Code to Develop End-User Apps?](https://www.informationweek.com/devops/is-there-a-case-for-using-low-code-to-develop-end-user-apps/a/d-id/1340019?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -18,6 +18,10 @@ jobs:
         include:
           - bin: reviewgeek-rss
           - bin: poem-rss
+          - bin: idiom-rss
+          - bin: slang-rss
+          - bin: saying-rss
+          - bin: phrase-rss
     steps:
       - uses: actions/checkout@v2
       - name: Build

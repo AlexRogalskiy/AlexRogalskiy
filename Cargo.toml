@@ -12,6 +12,22 @@ path = "rss/reviewgeek/main.rs"
 name = "poem-rss"
 path = "rss/poem/main.rs"
 
+[[bin]]
+name = "idiom-rss"
+path = "rss/idiom/main.rs"
+
+[[bin]]
+name = "slang-rss"
+path = "rss/slang/main.rs"
+
+[[bin]]
+name = "saying-rss"
+path = "rss/saying/main.rs"
+
+[[bin]]
+name = "phrase-rss"
+path = "rss/phrase/main.rs"
+
 [dependencies]
 regex = "1.4.3"
 chrono = "0.4.19"

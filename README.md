@@ -254,16 +254,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quantifying Memory Unsafety and Reactions to It [pdf]](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2021_slides_gaynor.pdf)
-- [Do Offer a Free Plan](https://www.chrisfrantz.com/how-to-kill-a-unicorn/)
-- [Ask HN: Does anyone have examples of how they've worked with a VA effectively?](https://news.ycombinator.com/item?id=26060017)
-- [How the United States Lost to Hackers](https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html)
-- [Deepfake Voice Technology: The Good. The Bad. The Future](https://www.econotimes.com/Deepfake-Voice-Technology-The-Good-The-Bad-The-Future-1601278)
-- [Jassy Talking Points](https://www.tbray.org/ongoing/When/202x/2021/02/05/Jassy-Talking-Points)
-- [Kowloon Walled City in My Backyard](https://pedestrianobservations.com/2021/01/27/kwcimby/)
-- [Setting a maximum wage for CEOs would be good for everyone](https://aeon.co/ideas/setting-a-maximum-wage-for-ceos-would-be-good-for-everyone)
-- [PHPetite: A Single File Blog](https://phpetite.org/)
-- [Snoop Dogg and Gene Simmons Join Elon's Musk's 'Dogecoin Army'](https://cointelegraph.com/news/snoop-dogg-and-gene-simmons-join-elon-s-musk-s-dogecoin-army)
+- [A.I. Brings These Historical Figures in Paintings to Life](https://mossandfog.com/see-how-a-i-brings-these-historical-figures-in-paintings-to-life/)
+- [How to send an 'E mail' – Database – 1984](https://www.youtube.com/watch?v=szdbKz5CyhA)
+- [Ask HN: What would business process workflow tools look like in 2021?](https://news.ycombinator.com/item?id=26073026)
+- [Hyundai: The carmaker aiming to become a tech firm](https://www.bbc.com/news/business-55806568)
+- [Saving the Butterfly Forest](https://www.newyorker.com/magazine/2021/02/15/saving-the-butterfly-forest)
+- [New Hope for B-Cell Lymphoma Patients as FDA Approves BMS' CAR-T Therapy](https://www.biospace.com/article/fda-greenlights-bristol-myers-squibb-s-breyanzi-for-b-cell-lymphoma/)
+- [Have you considered Rewriting It In Rust? (2016)](https://transitiontech.ca/random/RIIR)
+- [Steve Jobs introduces the Macintosh (1984)](https://youtube.com/watch?v=1tQ5XwvjPmA)
+- [Fn programming framework and language official web page](http://efeinfo.com)
+- [New York Times refuses to delete my account](https://twitter.com/rharter/status/1358809000905736194)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

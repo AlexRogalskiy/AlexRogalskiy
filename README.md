@@ -153,10 +153,8 @@
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
-![Digital Tools](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
-
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="100%" height="100%" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="100%" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">

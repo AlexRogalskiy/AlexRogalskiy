@@ -380,16 +380,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK Cyber Security Council to take charge of skills strategy](https://www.computerweekly.com/news/252496004/UK-Cyber-Security-Council-to-take-charge-of-skills-strategy)
+- [Facebook sued for data-sharing practices with third parties](https://www.computerweekly.com/news/252496091/Facebook-sued-for-data-sharing-practices-with-third-parties)
+- [IR35 private sector reforms: Deloitte confirms post-April 2021 ban on PSCs](https://www.computerweekly.com/news/252496082/IR35-private-sector-reforms-Deloitte-confirms-post-April-2021-ban-on-PSCs)
+- [Data breaches are a ticking timebomb for consumers](https://www.computerweekly.com/news/252496079/Data-breaches-are-a-ticking-timebomb-for-consumers)
 - [IBM refreshes entry-level FlashSystem arrays with a little NVMe](https://www.computerweekly.com/news/252496017/IBM-refreshes-entry-level-FlashSystem-arrays-with-a-little-NVMe)
-- [Interview: Robert Opp, chief digital officer, United Nations Development Programme](https://www.computerweekly.com/news/252495923/Interview-Robert-Opp-chief-digital-officer-UNDP)
-- [North-West England ‘perfect’ growth area for tech startups](https://www.computerweekly.com/news/252496007/North-West-of-England-perfect-growth-area-for-tech-startups)
-- [Too few UK organisations offering cyber training for remote work](https://www.computerweekly.com/news/252495994/Too-few-UK-organisations-offering-cyber-training-for-remote-work)
-- [Get ready for fake work epidemic](https://www.computerweekly.com/news/252495987/Get-ready-for-fake-work-epidemic)
-- [Data of thousands of Dutch citizens leaked from government Covid-19 systems](https://www.computerweekly.com/news/252495983/Data-of-thousands-of-Dutch-citizens-leaked-from-government-Covid-19-systems)
-- [Sweden to establish national cyber security centre](https://www.computerweekly.com/news/252495978/Sweden-to-establish-national-cyber-security-centre)
-- [Almost 70% of IT staff say firms working on tech gender diversity](https://www.computerweekly.com/news/252495975/Almost-70-of-IT-staff-say-firms-working-on-tech-gender-diversity)
-- [Trends in collaboration technologies](https://www.computerweekly.com/feature/Trends-in-collaboration-technologies)
+- [Cyberpunk 2077 developer refuses to pay up after ransomware attack](https://www.computerweekly.com/news/252496068/Cyberpunk-2077-developer-refuses-to-pay-up-after-ransomware-attack)
+- [‘Batman Begins’ cyber attack is a warning to CNI providers](https://www.computerweekly.com/news/252496071/Batman-Begins-cyber-attack-is-a-warning-to-CNI-providers)
+- [Data teams struggle to maximise business benefits](https://www.computerweekly.com/news/252496070/Data-teams-struggle-to-maximise-business-benefits)
+- [NHS reports fewer phishing emails in 2020](https://www.computerweekly.com/news/252496065/NHS-reports-fewer-phishing-emails-in-2020)
+- [Security Think Tank: Biden has a chance to renew cyber alliances](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-has-a-chance-to-renew-cyber-alliances)
+- [Russia’s Sber launches international AI contest for children](https://www.computerweekly.com/news/252496062/Russias-Sber-launches-international-AI-contest-for-children)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

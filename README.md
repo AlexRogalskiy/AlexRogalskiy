@@ -290,16 +290,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A.I. Brings These Historical Figures in Paintings to Life](https://mossandfog.com/see-how-a-i-brings-these-historical-figures-in-paintings-to-life/)
-- [How to send an 'E mail' – Database – 1984](https://www.youtube.com/watch?v=szdbKz5CyhA)
-- [Ask HN: What would business process workflow tools look like in 2021?](https://news.ycombinator.com/item?id=26073026)
-- [Hyundai: The carmaker aiming to become a tech firm](https://www.bbc.com/news/business-55806568)
-- [Saving the Butterfly Forest](https://www.newyorker.com/magazine/2021/02/15/saving-the-butterfly-forest)
-- [New Hope for B-Cell Lymphoma Patients as FDA Approves BMS' CAR-T Therapy](https://www.biospace.com/article/fda-greenlights-bristol-myers-squibb-s-breyanzi-for-b-cell-lymphoma/)
-- [Have you considered Rewriting It In Rust? (2016)](https://transitiontech.ca/random/RIIR)
-- [Steve Jobs introduces the Macintosh (1984)](https://youtube.com/watch?v=1tQ5XwvjPmA)
-- [Fn programming framework and language official web page](http://efeinfo.com)
-- [New York Times refuses to delete my account](https://twitter.com/rharter/status/1358809000905736194)
+- [Dependency Hijacking Software Supply Chain Attack Hits More Than 35 Orgs](https://blog.sonatype.com/dependency-hijacking-software-supply-chain-attack-hits-more-than-35-organizations)
+- [CEO of Unilever: “Every Country Is Shifting Towards Plant-Based Diets”](https://thebeet.com/ceo-of-unilever-every-country-is-shifting-towards-plant-based-diets/)
+- [0-day used to DoS Minecraft server](https://www.openwall.com/lists/oss-security/2021/02/09/7)
+- [Guix SD: risk of local privilege escalation via setuid programs](https://guix.gnu.org/blog/2021/risk-of-local-privilege-escalation-via-setuid-programs/)
+- [PHPetite: A Single File Blog Generator](https://phpetite.org/)
+- [Chia Network Business Whitepaper [pdf]](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
+- [Excel Now Turing Complete](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/?OCID=msr_blog_lambda_tw&ocid=usoc_TWITTER_M365_spl100001841896010)
+- [Apple – Legal](https://www.apple.com/legal/)
+- [The Tuxedo Polaris Linux Laptop: Overview](https://boilingsteam.com/the-polaris-gaming-linux-laptop-from-tuxedo/)
+- [Will Google’s Core Update in May Decimate Your Traffic? How to Prepare](https://capitalandgrowth.org/answers/Article/3544243/Will-Google-s-Core-Update-in-May-Decimate-Your-Traffic-How-to-Prepare)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

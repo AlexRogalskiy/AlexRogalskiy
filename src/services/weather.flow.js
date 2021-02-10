@@ -18,7 +18,7 @@ async function runWeatherFlow() {
 
   async function updateWeatherPosts() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=Saint%20Petersburg&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=${SERVICE_PROPS.WEATHER.tag}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )
       .then(r => r.json())
       .then(r => {

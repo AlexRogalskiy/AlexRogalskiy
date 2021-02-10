@@ -154,7 +154,7 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img height="250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 <!--
 <div id="quotes_block_id" align="center" style="align-content: center">
@@ -241,10 +241,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;147290615_225958462506972_6172015558840803486_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;rG1hvSJOVp0AX8Hrbu6&amp;tp&#x3D;1&amp;oh&#x3D;8a0305a0e3c4d597b5025a342a52a3f0&amp;oe&#x3D;6023CADF" alt="Помните легендарный советский автомобиль СМЗ С-3А на котором ездили Трус, Балбес и Бывалый из фильма «Операция «Ы» или новые приключения Шурика»?🤓  А что если мы скажем, что вы можете увидеть этот автомобиль и другие шедевры отечественного автопрома своими глазами ?!  В  @ov_pulkovo проходит бесплатная 🆓 выставка советских ретро автомобилей @velgutsgarage.ru 🚘  Мы настолько вдохновились, что решили смонтировать для вас видео и погрузить в историю советского автомобилестроения.  Visit Petersburg ✅ рекомендует посетить данную выставку всей семьей 👨‍👩‍👧‍👦  📸 @lizlizliss   #visitpetersburg #events #car #volga #piter #art #travel #see #tiktok #spb #speed #drift" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;146735045_480931243310523_1763051824217641625_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;_3XnEnTnyAoAX-Pnw1O&amp;tp&#x3D;1&amp;oh&#x3D;a93b92197399526836c71c38df39aae8&amp;oe&#x3D;602367A1" alt="Уматурман 14 февраля 2021 в 20:00 в концертном зале А2❤️  Группа «Uma2rman» - это проект двух родных братьев Владимира и Сергея Кристовских 🎼  В 2004 году и «Прасковья», и лирическая композиция «Проститься» стали абсолютными хитами, а группу признали «Лучшим дебютом» на премии MTVRussian Music Awards🏆  Успех коллектива закрепила песня «Ночной дозор», ставшая саундтреком для одноименного блокбастера Тимура Бекмамбетова  Первая пластинка группы «В городе N» разошлась тиражом более 1 000 000 экземпляров и получила статус платиновой  ❗️14 февраля 2021 в 20:00 на сцене концертного зала А2 состоится концерт Uma2rman!   Братья Кристовские порадуют своих поклонников любимыми хитами “Прасковья”, “Ночной дозор”, “Проститься” и многими другими  Спешите, пока билеты есть в наличии🔝 на Kassir.ru  #visitpetersburg #концерт #14февраля #деньвсехвлюбленных #питер #спб #кудасходитьспб#местапитер" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;146085299_861850097719201_3256704652696938466_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;fzgzu3cflOcAX990jdY&amp;tp&#x3D;1&amp;oh&#x3D;85b384d145355d37e605d8c908b72329&amp;oe&#x3D;604B3A20" alt="Всем любви ❤️  Нам очень хочется порадовать вас и сделать как можно больше сюрпризов в преддверии Дня всех влюблённых 👩‍❤️‍💋‍👨  Мы разыграем два билета в кинотеатр @cinema_grand_palace — единственный премиум-кинотеатр, расположенный в самом сердце Петербурга на Невском проспекте. Здесь 7 совершенно разных, при этом максимально комфортных и камерных VIP-кинозала от 2 до 40 мест. При этом каждый зал можно арендовать под персональный просмотр в кругу своих друзей и близких. Это место ценят за особую атмосферу комфорта, роскоши и неповторимого сервиса.   Шикарный подарок, не так ли?😍   Условия простые😌  ✅Подпишись на @visitpetersburg и @cinema_grand_palace   ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @cinema_grand_palace   ✅ Напиши в комментариях своё любимое место для свиданий в Петербурге и отметь двух друзей   ‼️Важно‼️ 🛑 Один комментарий – один участник   ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел.  С любовью, ваш Visit Petersburg 💚💛" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;145204072_448760802979294_7892777162196181981_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;3e4ouk8mGBEAX_Hq-Hc&amp;tp&#x3D;1&amp;oh&#x3D;267a56c59d98e23680ee18579ace292d&amp;oe&#x3D;60234363" alt="-🇺🇸- The first cryptozoological museum &amp;quot;Bestiary&amp;quot; @bestiary.space opened in St. Petersburg! 🔍  This is the most fantastic of all science museums and the most scientific of all fantasy museums!  Thanks to the use of the latest materials in the creation of scenery and multimedia technologies, you will find yourself in an exciting fantasy world, which consists of 4 spaces.  You will meet legendary creatures and incredible monsters!   📍 The “Grand Canyon” shopping mall, 3rd floor of, in the space &amp;quot;Divny gorod! ♦️Age limit 6.  -🇷🇺- В Петербурге открылся криптозоологичекий музей «Бестиарий» @bestiary.space 👀  Это самый фантастический из всех научных и самый научный из всех фантастических музеев!  Благодаря использованию новейших материалов в создании декораций и мультимедиа технологий, вы окажетесь в захватывающем фэнтези мире, который состоит из 4-х пространств. Познакомитесь с легендарными существами и невероятными монстрами!   📍 ТРК «Гранд-Каньон», 3 этаж, пространство «Дивный город»! ♦️Возрастное ограничение 6+  #visitpetersburg #russiatravel #spb #museum #tourism #vacations #путешествуй" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;147317430_416556439653823_1032390497261390485_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;QcfsUdMGJg0AX-1mRKT&amp;tp&#x3D;1&amp;oh&#x3D;7ef443469eb4516fd7aff557f5b94c49&amp;oe&#x3D;604AB330" alt="-🇺🇸- St. Valentine’s day at Outlet Village Pulkovo! @ov_pulkovo 🥰  Valentines Day is the most romantic holiday of the year. On February 14, Outlet Village Pulkovo will create a special atmosphere in honor of all couples.  🎼From 13:00 to 18:00 live music will be played at the outlet, which will bring a festive mood.   📸Also, from 13:00 to 18:00, all couples can take a memorable photo on Polaroid.   🤗A charming mime will walk around the territory to capture the lovers at the outlet.  👝And at the Information center you can get a complimentary shopper bag for a picture in Instagram Stories.   🌟Outlet Village Pulkovo stores have prepared additional discounts and special offers for the holiday. Treat yourself and your significant other with beneficial shopping!  -🇷🇺- День всех влюбленных в Outlet Village Pulkovo! @ov_pulkovo ❤  День святого Валентина – самый романтичный праздник в году. 14 февраля в Outlet Village Пулково в честь всех влюбленных создаст особую атмосферу.  🎷С 13:00 до 18:00 в аутлете будет играть живая музыка, которая подарит праздничное настроение.  📸 Также с 13:00 до 18:00 все пары смогут сделать памятную фотографию на Polaroid.  😇 Обаятельный мим будет гулять по территории, чтобы запечатлеть возлюбленных в аутлете.  🛍А в Информационном центре аутлета за фотографию в Instagram Stories вам подарят стильный шопер.  😍 Магазины Outlet Village Пулково подготовили дополнительные скидки и специальные предложения к празднику. Порадуйте себя и вашу вторую половинку выгодным шопингом!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;147290615_225958462506972_6172015558840803486_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;NHik5MoiAO0AX-lQgT3&amp;tp&#x3D;1&amp;oh&#x3D;f432e81d546d131c5f353c58ef00d402&amp;oe&#x3D;60251C5F" alt="Помните легендарный советский автомобиль СМЗ С-3А на котором ездили Трус, Балбес и Бывалый из фильма «Операция «Ы» или новые приключения Шурика»?🤓  А что если мы скажем, что вы можете увидеть этот автомобиль и другие шедевры отечественного автопрома своими глазами ?!  В  @ov_pulkovo проходит бесплатная 🆓 выставка советских ретро автомобилей @velgutsgarage.ru 🚘  Мы настолько вдохновились, что решили смонтировать для вас видео и погрузить в историю советского автомобилестроения.  Visit Petersburg ✅ рекомендует посетить данную выставку всей семьей 👨‍👩‍👧‍👦  📸 @lizlizliss   #visitpetersburg #events #car #volga #piter #art #travel #see #tiktok #spb #speed #drift" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;146735045_480931243310523_1763051824217641625_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;jpzFIQMNHO4AX87gc-i&amp;tp&#x3D;1&amp;oh&#x3D;831f3db067e419e0d4debff219f377b0&amp;oe&#x3D;602561E1" alt="Уматурман 14 февраля 2021 в 20:00 в концертном зале А2❤️  Группа «Uma2rman» - это проект двух родных братьев Владимира и Сергея Кристовских 🎼  В 2004 году и «Прасковья», и лирическая композиция «Проститься» стали абсолютными хитами, а группу признали «Лучшим дебютом» на премии MTVRussian Music Awards🏆  Успех коллектива закрепила песня «Ночной дозор», ставшая саундтреком для одноименного блокбастера Тимура Бекмамбетова  Первая пластинка группы «В городе N» разошлась тиражом более 1 000 000 экземпляров и получила статус платиновой  ❗️14 февраля 2021 в 20:00 на сцене концертного зала А2 состоится концерт Uma2rman!   Братья Кристовские порадуют своих поклонников любимыми хитами “Прасковья”, “Ночной дозор”, “Проститься” и многими другими  Спешите, пока билеты есть в наличии🔝 на Kassir.ru  #visitpetersburg #концерт #14февраля #деньвсехвлюбленных #питер #спб #кудасходитьспб#местапитер" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;146085299_861850097719201_3256704652696938466_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;WPdazY0tcDQAX-foH3M&amp;tp&#x3D;1&amp;oh&#x3D;2ba2229c468dbd0c96803411c38e796a&amp;oe&#x3D;604B3A20" alt="Всем любви ❤️  Нам очень хочется порадовать вас и сделать как можно больше сюрпризов в преддверии Дня всех влюблённых 👩‍❤️‍💋‍👨  Мы разыграем два билета в кинотеатр @cinema_grand_palace — единственный премиум-кинотеатр, расположенный в самом сердце Петербурга на Невском проспекте. Здесь 7 совершенно разных, при этом максимально комфортных и камерных VIP-кинозала от 2 до 40 мест. При этом каждый зал можно арендовать под персональный просмотр в кругу своих друзей и близких. Это место ценят за особую атмосферу комфорта, роскоши и неповторимого сервиса.   Шикарный подарок, не так ли?😍   Условия простые😌  ✅Подпишись на @visitpetersburg и @cinema_grand_palace   ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @cinema_grand_palace   ✅ Напиши в комментариях своё любимое место для свиданий в Петербурге и отметь двух друзей   ‼️Важно‼️ 🛑 Один комментарий – один участник   ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел.  С любовью, ваш Visit Petersburg 💚💛" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -262,9 +262,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>overcast clouds</i>), humidity: 85%, pressure: 1020 (mbar), wind: /west/ 1 (m/s), cloudy: 88%</b>
+        <b>-14°C (<i>broken clouds</i>), humidity: 78%, pressure: 1021 (mbar), wind: /south-west/ 1 (m/s), cloudy: 75%</b>
         <br />
-        Today, the Sun rises at <b>08:52 am</b> and sets at <b>17:33 pm</b>.
+        Today, the Sun rises at <b>08:50 am</b> and sets at <b>17:36 pm</b>.
     </p>
 </div>
 
@@ -275,66 +275,69 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Fitbit Adds Blood Glucose Tracking on Android and iOS](https://www.reviewgeek.com/70402/fitbit-adds-blood-glucose-tracking-on-android-and-ios/)
-* [The SpeedTest App Now Tells You How Much Your Video Streaming Sucks](https://www.reviewgeek.com/70381/the-speedtest-app-now-tells-you-how-much-your-video-streaming-sucks/)
-* [Target and Amazon Have B2G1 on Games, Books, Movies, and Toys Today](https://www.reviewgeek.com/70379/target-and-amazon-have-b2g1-on-games-books-movies-and-toys-today/)
-* [LEGO is Giving Everyone a Free Minifig in a New Contest](https://www.reviewgeek.com/70358/lego-is-giving-everyone-a-free-minifig-in-a-new-contest/)
-* [A Popular Android App Turned Into Malware: Check Your Phone Now](https://www.reviewgeek.com/70327/a-popular-android-app-turned-into-malware-check-your-phone-now/)
-* [How to Change the Google Assistant’s Voice](https://www.howtogeek.com/712125/how-to-change-the-google-assistants-voice/)
-* [8 Ways to Lock Your Mac](https://www.howtogeek.com/703785/8-ways-to-lock-your-mac/)
-* [How to Delete Your Telegram Account](https://www.howtogeek.com/710602/how-to-delete-your-telegram-account/)
-* [How to Get Started With Doctl, DigitalOcean's Command-Line Client](https://www.cloudsavvyit.com/9498/how-to-get-started-with-doctl-digitaloceans-command-line-client/)
-* [How to Change Your Windows 10 Lock Screen Background](https://www.howtogeek.com/708418/how-to-change-your-windows-10-lock-screen-background/)
+* [How to Disable Reddit’s “Open in App” Pop-Up](https://www.howtogeek.com/713115/how-to-disable-reddits-open-in-app-pop-up/)
+* [JLab's New Affordable USB-C Talk Series Microphones Start at $50](https://www.reviewgeek.com/70542/jlabs-new-affordable-usb-c-talk-series-microphones-start-at-50/)
+* [SLING TV Unlocks 100 Primetime Channels for Free Until Valentine's Day](https://www.reviewgeek.com/70533/sling-tv-unlocks-100-primetime-channels-for-free-until-valentines-day/)
+* [Amazon Has a Bunch of Deals on Fire and Echo Devices for Valentine's Day](https://www.reviewgeek.com/70517/amazon-has-a-bunch-of-deals-on-fire-and-echo-devices-for-valentines-day/)
+* [Zoom's New Face Filters Will Lighten Up Your Next Video Call](https://www.reviewgeek.com/70485/zooms-new-face-filters-will-lighten-up-your-next-video-call/)
+* ['Forza Horizon 4' is Coming to Steam, No Longer a Microsoft Store Exclusive](https://www.reviewgeek.com/70488/forza-horizon-4-is-coming-to-steam-no-longer-a-microsoft-store-exclusive/)
+* [How to Use 3D Facial Effects on Zoom](https://www.howtogeek.com/713042/how-to-use-3d-facial-effects-on-zoom/)
+* [Google Play Store vs. Google Store: What’s the Difference?](https://www.howtogeek.com/708991/google-play-store-vs.-google-store-whats-the-difference/)
+* ['Cyberpunk 2077' Game Developer Hacked and Blackmailed, Irony Lost on No One](https://www.reviewgeek.com/70483/cyberpunk-2077-game-developer-hacked-and-blackmailed-irony-lost-on-no-one/)
+* [Update Your New Chromecast to Fix Its Stupid Reboot Bug](https://www.reviewgeek.com/70481/update-your-new-chromecast-to-fix-its-stupid-reboot-bug/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A.I. Brings These Historical Figures in Paintings to Life](https://mossandfog.com/see-how-a-i-brings-these-historical-figures-in-paintings-to-life/)
-- [How to send an 'E mail' – Database – 1984](https://www.youtube.com/watch?v=szdbKz5CyhA)
-- [Ask HN: What would business process workflow tools look like in 2021?](https://news.ycombinator.com/item?id=26073026)
-- [Hyundai: The carmaker aiming to become a tech firm](https://www.bbc.com/news/business-55806568)
-- [Saving the Butterfly Forest](https://www.newyorker.com/magazine/2021/02/15/saving-the-butterfly-forest)
-- [New Hope for B-Cell Lymphoma Patients as FDA Approves BMS' CAR-T Therapy](https://www.biospace.com/article/fda-greenlights-bristol-myers-squibb-s-breyanzi-for-b-cell-lymphoma/)
-- [Have you considered Rewriting It In Rust? (2016)](https://transitiontech.ca/random/RIIR)
-- [Steve Jobs introduces the Macintosh (1984)](https://youtube.com/watch?v=1tQ5XwvjPmA)
-- [Fn programming framework and language official web page](http://efeinfo.com)
-- [New York Times refuses to delete my account](https://twitter.com/rharter/status/1358809000905736194)
+- [Dependency Hijacking Software Supply Chain Attack Hits More Than 35 Orgs](https://blog.sonatype.com/dependency-hijacking-software-supply-chain-attack-hits-more-than-35-organizations)
+- [CEO of Unilever: “Every Country Is Shifting Towards Plant-Based Diets”](https://thebeet.com/ceo-of-unilever-every-country-is-shifting-towards-plant-based-diets/)
+- [0-day used to DoS Minecraft server](https://www.openwall.com/lists/oss-security/2021/02/09/7)
+- [Guix SD: risk of local privilege escalation via setuid programs](https://guix.gnu.org/blog/2021/risk-of-local-privilege-escalation-via-setuid-programs/)
+- [PHPetite: A Single File Blog Generator](https://phpetite.org/)
+- [Chia Network Business Whitepaper [pdf]](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
+- [Excel Now Turing Complete](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/?OCID=msr_blog_lambda_tw&ocid=usoc_TWITTER_M365_spl100001841896010)
+- [Apple – Legal](https://www.apple.com/legal/)
+- [The Tuxedo Polaris Linux Laptop: Overview](https://boilingsteam.com/the-polaris-gaming-linux-laptop-from-tuxedo/)
+- [Will Google’s Core Update in May Decimate Your Traffic? How to Prepare](https://capitalandgrowth.org/answers/Article/3544243/Will-Google-s-Core-Update-in-May-Decimate-Your-Traffic-How-to-Prepare)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO says it is 'too early' to dismiss AstraZeneca vaccine](https://www.theguardian.com/world/live/2021/feb/09/coronavirus-live-news-who-says-it-is-too-early-to-dismiss-astrazeneca-vaccine)
-- [Trump impeachment: Schumer says agreement reached on rules for trial – as it happened](https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates)
-- ['Witch' tweets reflect society's fear of older women, says Mary Beard](https://www.theguardian.com/books/2021/feb/09/mary-beard-witch-tweets-reflect-society-fear-older-women)
-- [BA plans transatlantic flights partially fuelled by recycled waste in 2022](https://www.theguardian.com/business/2021/feb/09/ba-plans-transatlantic-flights-partially-fuelled-by-recycled-waste-in-2022)
-- [UK risks ‘turning clock back’ on gender equality in pandemic](https://www.theguardian.com/lifeandstyle/2021/feb/09/uk-risks-turning-clock-back-on-gender-equality-in-pandemic)
-- [Keep £20 a week universal credit Covid top-up, MPs urge](https://www.theguardian.com/world/2021/feb/09/keep-universal-credit-covid-top-up-mps-urge)
-- [Tens of thousands of UK nurses yet to receive first dose of Covid vaccine](https://www.theguardian.com/society/2021/feb/09/tens-of-thousands-of-uk-nurses-yet-to-receive-first-dose-of-covid-vaccine)
-- [Facebook bans misinformation about all vaccines after years of controversy](https://www.theguardian.com/technology/2021/feb/08/facebook-bans-vaccine-misinformation)
-- [Outcry as more than 20 babies and children deported by US to Haiti](https://www.theguardian.com/us-news/2021/feb/08/us-ice-immigration-customs-enforcement-haiti-deportations)
-- ['We’re not talking about it, we’re doing it': Aims takes inclusivity action | Paul MacInnes](https://www.theguardian.com/football/2021/feb/08/were-not-talking-about-it-were-doing-it-aims-takes-inclusivity-action)
+- [Coronavirus live news: annual vaccine may be needed, says J&J chief; Spain tops 3m cases](https://www.theguardian.com/world/live/2021/feb/10/coronavirus-live-news-annual-vaccine-may-be-needed-says-jj-chief-spain-tops-3m-cases)
+- [Sim-swapping: UK police arrest eight over attacks on celebrities](https://www.theguardian.com/uk-news/2021/feb/10/sim-swapping-uk-police-arrest-eight-over-attacks-on-celebrities)
+- [Trump impeachment: Senate votes to proceed with trial](https://www.theguardian.com/us-news/2021/feb/09/trump-impeachment-senate-vote-trial)
+- [Care homes failed by lack of PPE during UK Covid first wave, say MPs](https://www.theguardian.com/society/2021/feb/10/care-homes-failed-by-lack-of-ppe-during-uk-covid-first-wave-say-mps)
+- [Elton John and Michael Caine star in video to promote Covid vaccination](https://www.theguardian.com/world/2021/feb/10/elton-john-and-michael-caine-star-in-video-to-promote-covid-vaccination)
+- [Thousands of clinically vulnerable not reached at start of Covid crisis, watchdog finds](https://www.theguardian.com/world/2021/feb/10/thousands-of-clinically-vulnerable-not-reached-at-start-of-covid-crisis-watchdog-finds)
+- [Steep rise in UK's consumption of organic food](https://www.theguardian.com/environment/2021/feb/10/steep-rise-in-uks-consumption-of-organic-food)
+- [Ryan Reynolds and Rob McElhenney complete takeover of Wrexham](https://www.theguardian.com/football/2021/feb/09/ryan-reynolds-and-rob-mcelhenney-complete-takeover-of-wrexham)
+- [Scott McTominay sinks West Ham to put Manchester United in quarter-final](https://www.theguardian.com/football/2021/feb/09/manchester-united-west-ham-fa-cup-fifth-round-match-report)
+- [Swedish embassy in Minsk harbours two Belarusians for five months](https://www.theguardian.com/world/2021/feb/09/swedish-embassy-in-minsk-harbours-two-belarusians-for-five-months)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fueling Reddit’s Future](https://redditblog.com/2021/02/08/fueling-reddits-future/)
-- [Sirum (YC W15) Is Hiring Software Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26072562)
-- [20% of requests for Wikimedia Commons are for one image of a flower](https://phabricator.wikimedia.org/T273741)
-- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
-- [Hacker increased chemical level at Oldsmar's city water system, sheriff says](https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd)
-- [The Exclusive Website](https://exclusive.website/)
-- [Show HN: Clerk – all of user management as-a-service, not just authentication](https://clerk.dev/blog/all-of-user-management-not-just-authentication)
-- [Gradient Descent Models Are Kernel Machines](https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html)
-- [Automatic differentiation does incur truncation errors (kinda)](https://www.oxinabox.net/2021/02/08/AD-truncation-error.html)
-- [TechEmpower Framework Benchmarks: Round 20](https://www.techempower.com/benchmarks/#section=data-r20)
+- [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
+- [Github1s – One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
+- [iRacing Telemetry with F#](https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/)
+- [An SQL Solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
+- [GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31](https://bugzilla.mozilla.org/show_bug.cgi?id=1690807)
+- [SDL Moves to GitHub](https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5)
+- [OpenStreetMap proven to be a highly accurate map in top US cities](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec)
+- [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
+- [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
+- [Cops are playing music while citizens are filming to trigger copyright filters](https://twitter.com/jason_koebler/status/1359213426740895744)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft issues green light for Windows 10 2004. (But what's the point?)](https://www.computerworld.com/article/3606837/microsoft-issues-green-light-for-windows-10-2004-but-whats-the-point.html#tk.rss_all)
+- [10 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/handy-hidden-android-features.html#tk.rss_all)
+- [It’s time for an App Store scam app crackdown](https://www.computerworld.com/article/3606732/its-time-for-an-app-store-scam-app-crackdown.html#tk.rss_all)
 - [Microsoft to replace legacy Edge in April with Chromium-based version](https://www.computerworld.com/article/3606788/microsoft-to-replace-legacy-edge-in-april-with-chromium-based-version.html#tk.rss_all)
 - [US IT jobs grow in January, defying broader employment struggles](https://www.computerworld.com/article/3542681/us-it-jobs-grow-in-january-defying-broader-employment-struggles.html#tk.rss_all)
 - [Ahead of Patch Tuesday, a cautionary tale](https://www.computerworld.com/article/3606391/ahead-of-patch-tuesday-a-cautionary-tale.html#tk.rss_all)
@@ -342,14 +345,13 @@
 - [Remote work 2.0 — when WFH really means 'work from anywhere'](https://www.computerworld.com/article/3604736/remote-work-20-when-wfh-really-means-work-from-anywhere.html#tk.rss_all)
 - [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Zoom Rooms tweaks aim to bolster a safe re-opening of offices](https://www.computerworld.com/article/3606590/zoom-rooms-tweaks-aim-to-bolster-a-safe-re-opening-of-offices.html#tk.rss_all)
-- [How to fix five Windows 10 headaches](https://www.computerworld.com/article/3182846/how-to-fix-five-windows-10-headaches.html#tk.rss_all)
-- [Podcast: iOS 14.5: New features and release date](https://www.computerworld.com/article/3606111/podcast-ios-145-new-features-and-release-date.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The 'It' Factors in IT Transformation](https://www.informationweek.com/strategic-cio/digital-business/the-it-factors-in-it-transformation/a/d-id/1340063?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -358,13 +360,12 @@
 - [Aegis Sciences CIO on Scaling IT to Meet COVID Testing Demand](https://www.informationweek.com/strategic-cio/aegis-sciences-cio-on-scaling-it-to-meet-covid-testing-demand/a/d-id/1340053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why the Financial Services Industry is Embracing the Cloud](https://www.informationweek.com/cloud/why-the-financial-services-industry-is-embracing-the-cloud/a/d-id/1340050?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [XOps: Real or Hype?](https://www.informationweek.com/big-data/xops-real-or-hype/a/d-id/1340038?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Continuous Delivery: Why You Need It and How to Get Started](https://www.informationweek.com/devops/continuous-delivery-why-you-need-it-and-how-to-get-started/a/d-id/1340025?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Should you care about quantum computing?](https://www.infoworld.com/article/3606573/should-you-care-about-quantum-computing.html#tk.rss_all)
 - [Java 17 proposal would enhance PRNGs](https://www.infoworld.com/article/3606833/java-17-proposal-would-enhance-prngs.html#tk.rss_all)
 - [Homebrew 3 brings Apple Silicon support](https://www.infoworld.com/article/3606748/homebrew-3-brings-apple-silicon-support.html#tk.rss_all)
 - [How to use implicit and explicit operators in C#](https://www.infoworld.com/article/3606436/how-to-use-implicit-and-explicit-operators-in-csharp.html#tk.rss_all)
@@ -374,62 +375,61 @@
 - [GitHub increases developer’s cut of GitHub Marketplace sales](https://www.infoworld.com/article/3606490/github-increases-developers-cut-of-github-marketplace-sales.html#tk.rss_all)
 - [You’re doing cloud-based AI and machine learning wrong](https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html#tk.rss_all)
 - [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_all)
-- [Got the Python basics down? Read this book next](https://www.infoworld.com/article/3605454/got-the-python-basics-down-read-this-book-next.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK Cyber Security Council to take charge of skills strategy](https://www.computerweekly.com/news/252496004/UK-Cyber-Security-Council-to-take-charge-of-skills-strategy)
+- [Facebook sued for data-sharing practices with third parties](https://www.computerweekly.com/news/252496091/Facebook-sued-for-data-sharing-practices-with-third-parties)
+- [IR35 private sector reforms: Deloitte confirms post-April 2021 ban on PSCs](https://www.computerweekly.com/news/252496082/IR35-private-sector-reforms-Deloitte-confirms-post-April-2021-ban-on-PSCs)
+- [Data breaches are a ticking timebomb for consumers](https://www.computerweekly.com/news/252496079/Data-breaches-are-a-ticking-timebomb-for-consumers)
 - [IBM refreshes entry-level FlashSystem arrays with a little NVMe](https://www.computerweekly.com/news/252496017/IBM-refreshes-entry-level-FlashSystem-arrays-with-a-little-NVMe)
-- [Interview: Robert Opp, chief digital officer, United Nations Development Programme](https://www.computerweekly.com/news/252495923/Interview-Robert-Opp-chief-digital-officer-UNDP)
-- [North-West England ‘perfect’ growth area for tech startups](https://www.computerweekly.com/news/252496007/North-West-of-England-perfect-growth-area-for-tech-startups)
-- [Too few UK organisations offering cyber training for remote work](https://www.computerweekly.com/news/252495994/Too-few-UK-organisations-offering-cyber-training-for-remote-work)
-- [Get ready for fake work epidemic](https://www.computerweekly.com/news/252495987/Get-ready-for-fake-work-epidemic)
-- [Data of thousands of Dutch citizens leaked from government Covid-19 systems](https://www.computerweekly.com/news/252495983/Data-of-thousands-of-Dutch-citizens-leaked-from-government-Covid-19-systems)
-- [Sweden to establish national cyber security centre](https://www.computerweekly.com/news/252495978/Sweden-to-establish-national-cyber-security-centre)
-- [Almost 70% of IT staff say firms working on tech gender diversity](https://www.computerweekly.com/news/252495975/Almost-70-of-IT-staff-say-firms-working-on-tech-gender-diversity)
-- [Trends in collaboration technologies](https://www.computerweekly.com/feature/Trends-in-collaboration-technologies)
+- [Cyberpunk 2077 developer refuses to pay up after ransomware attack](https://www.computerweekly.com/news/252496068/Cyberpunk-2077-developer-refuses-to-pay-up-after-ransomware-attack)
+- [‘Batman Begins’ cyber attack is a warning to CNI providers](https://www.computerweekly.com/news/252496071/Batman-Begins-cyber-attack-is-a-warning-to-CNI-providers)
+- [Data teams struggle to maximise business benefits](https://www.computerweekly.com/news/252496070/Data-teams-struggle-to-maximise-business-benefits)
+- [NHS reports fewer phishing emails in 2020](https://www.computerweekly.com/news/252496065/NHS-reports-fewer-phishing-emails-in-2020)
+- [Security Think Tank: Biden has a chance to renew cyber alliances](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-has-a-chance-to-renew-cyber-alliances)
+- [Russia’s Sber launches international AI contest for children](https://www.computerweekly.com/news/252496062/Russias-Sber-launches-international-AI-contest-for-children)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [If I use an external mic and computer's built in speakers, will the mic pic us audio from the computer speakers? (ie. during a virtual meeting)](https://www.reddit.com/r/InformationTechnology/comments/lfgvnc/if_i_use_an_external_mic_and_computers_built_in/)
-- [Can you install one antivirus on multiple computers?](https://www.reddit.com/r/InformationTechnology/comments/lff6d5/can_you_install_one_antivirus_on_multiple/)
-- [PC GLITCH](https://www.reddit.com/r/InformationTechnology/comments/lf67ox/pc_glitch/)
-- [Where do you study?](https://www.reddit.com/r/InformationTechnology/comments/lf0w0r/where_do_you_study/)
-- [CCNA or CompTIA?](https://www.reddit.com/r/InformationTechnology/comments/les6j3/ccna_or_comptia/)
-- [Which to take?](https://www.reddit.com/r/InformationTechnology/comments/lecupd/which_to_take/)
-- [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
-- [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
-- [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
-- [Is Google IT support certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ldsxf9/is_google_it_support_certification_worth_it/)
+- [Big Reference Source?](https://www.reddit.com/r/InformationTechnology/comments/lgh948/big_reference_source/)
+- [Any Successful Zero-Touch Deployments out there? (PC)](https://www.reddit.com/r/InformationTechnology/comments/lggwsd/any_successful_zerotouch_deployments_out_there_pc/)
+- [What is Horizon PKI automation Hub and how does it work?](https://www.reddit.com/r/InformationTechnology/comments/lgfxbx/what_is_horizon_pki_automation_hub_and_how_does/)
+- [Can I get into cyber security with no certs and just with my degree in cyber security?](https://www.reddit.com/r/InformationTechnology/comments/lgce8e/can_i_get_into_cyber_security_with_no_certs_and/)
+- [How private is working from home on a private device?](https://www.reddit.com/r/InformationTechnology/comments/lg9kmy/how_private_is_working_from_home_on_a_private/)
+- [cs850m](https://www.reddit.com/r/InformationTechnology/comments/lg88qu/cs850m/)
+- [How to answer Interview questions](https://www.reddit.com/r/InformationTechnology/comments/lg52oo/how_to_answer_interview_questions/)
+- [IT Learning](https://www.reddit.com/r/InformationTechnology/comments/lg4zwd/it_learning/)
+- [Website Tagging Software for testing?](https://www.reddit.com/r/InformationTechnology/comments/lg3rzo/website_tagging_software_for_testing/)
+- [Im burnt out](https://www.reddit.com/r/InformationTechnology/comments/lfv7aj/im_burnt_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Telus and Google Cloud ink 10-year collaboration deal](https://www.itworldcanada.com/article/telus-and-google-cloud-inks-10-year-collaboration-deal/442170)
+- [Cyberattack on Florida water treatment plant raises alarms in Canada](https://www.itworldcanada.com/article/cyberattack-on-florida-water-treatment-plant-raises-alarms-in-canada/442088)
+- [Technicity West: Experts urge municipalities to participate in pilots and play nice with neighbours](https://www.itworldcanada.com/article/technicity-west-vendors-want-to-address-use-cases-not-the-nice-to-haves/442060)
+- [Technicity West panel dives deep into effective digital enablement](https://www.itworldcanada.com/article/technicity-west-digital-enablement-and-innovation-panel/441942)
+- [Technicity West: Citizen engagement a serious challenge for those without access](https://www.itworldcanada.com/article/accessibility-for-those-who-have-access-going-digital-a-double-edged-sword-for-municipalities/442013)
+- [Data loss, credential compromise up in phishing attacks in 2020, says vendor report](https://www.itworldcanada.com/article/data-loss-credential-compromise-up-in-phishing-attacks-in-2020-says-vendor-report/442082)
+- [SpaceX Starlink satellite internet now taking pre-orders in Canada](https://www.itworldcanada.com/article/spacex-starlink-satellite-internet-now-taking-pre-orders-in-canada/442101)
+- [Hashtag Trending – Tesla loves Bitcoin; Unionization at Amazon; Twitter’s verified users love fake news](https://www.itworldcanada.com/article/hashtag-trending-tesla-loves-bitcoin-unionization-at-amazon-twitters-verified-users-love-fake-news/442068)
 - [Government funded high-speed internet coming to rural Niagara region](https://www.itworldcanada.com/article/government-funded-high-speed-internet-coming-to-rural-niagara-region/442043)
 - [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
-- [Tales from the trenches: dealing with internal threats](https://www.itworldcanada.com/blog/tales-from-the-trenches-trust-but-verify-dealing-with-internal-threats/441767)
-- [B.C. privacy commissioner says privacy laws alone can’t restrain big tech’s ‘predatory behaviour’](https://www.itworldcanada.com/article/b-c-privacy-commissioner-says-privacy-laws-alone-cant-restrain-big-techs-predatory-behaviour/441954)
-- [Dell Precision 5550 workstation laptop review: nearly perfect](https://www.itworldcanada.com/article/dell-precision-5550-workstation-laptop-review/441851)
-- [Ransomware attempt on British Columbia realtor raises question of supply chain attack](https://www.itworldcanada.com/article/ransomware-attempt-on-british-columbia-realtor-raises-question-of-supply-chain-attack/441914)
-- [Cyber Security Today – Data breaches at SitePoint and Emsisoft, Morse code used for hiding a phishing attack and watch for bad browser extensions](https://www.itworldcanada.com/article/cyber-security-today-data-breaches-at-sitepoint-and-emsisoft-morse-code-used-for-hiding-a-phishing-attack-and-watch-for-bad-browser-extensions/441930)
-- [Hashtag Trending – Police seize $60M worth of bitcoin; Tech helping teens’ mental health; Microsoft won’t back lawmakers who voted against Electoral College confirmation](https://www.itworldcanada.com/article/hashtag-trending-police-seize-60m-worth-of-bitcoin-tech-helping-teens-mental-health-microsoft-wont-back-lawmakers-who-voted-against-electoral-college-confirmation/441939)
-- [Should we be concerned about the digital literacy of Canadian board of directors?](https://www.itworldcanada.com/blog/should-we-be-concerned-about-the-digital-literacy-of-canadian-board-of-directors/441935)
-- [Five ways you can celebrate Black History Month virtually](https://www.itworldcanada.com/slideshow/five-ways-you-can-celebrate-black-history-month-virtually)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/95) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 💪 Opened PR [#95](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/95) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 🎉 Merged PR [#93](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/93) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#94](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/94) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 💪 Opened PR [#65](https://github.com/AlexRogalskiy/java-patterns/pull/65) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+1. 🎉 Merged PR [#68](https://github.com/AlexRogalskiy/java-patterns/pull/68) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+2. 🎉 Merged PR [#67](https://github.com/AlexRogalskiy/java-patterns/pull/67) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+3. 🎉 Merged PR [#66](https://github.com/AlexRogalskiy/java-patterns/pull/66) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+4. 🎉 Merged PR [#65](https://github.com/AlexRogalskiy/java-patterns/pull/65) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
+5. 🎉 Merged PR [#100](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/100) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Links_

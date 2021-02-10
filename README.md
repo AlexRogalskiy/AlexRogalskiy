@@ -395,16 +395,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [If I use an external mic and computer's built in speakers, will the mic pic us audio from the computer speakers? (ie. during a virtual meeting)](https://www.reddit.com/r/InformationTechnology/comments/lfgvnc/if_i_use_an_external_mic_and_computers_built_in/)
-- [Can you install one antivirus on multiple computers?](https://www.reddit.com/r/InformationTechnology/comments/lff6d5/can_you_install_one_antivirus_on_multiple/)
-- [PC GLITCH](https://www.reddit.com/r/InformationTechnology/comments/lf67ox/pc_glitch/)
-- [Where do you study?](https://www.reddit.com/r/InformationTechnology/comments/lf0w0r/where_do_you_study/)
-- [CCNA or CompTIA?](https://www.reddit.com/r/InformationTechnology/comments/les6j3/ccna_or_comptia/)
-- [Which to take?](https://www.reddit.com/r/InformationTechnology/comments/lecupd/which_to_take/)
-- [Comptia A+](https://www.reddit.com/r/InformationTechnology/comments/le7vdf/comptia_a/)
-- [Best route to take for CCNA?](https://www.reddit.com/r/InformationTechnology/comments/le65u9/best_route_to_take_for_ccna/)
-- [What I Wish I Would've Known Before My BS, MIS degree](https://www.reddit.com/r/InformationTechnology/comments/le4e5z/what_i_wish_i_wouldve_known_before_my_bs_mis/)
-- [Is Google IT support certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ldsxf9/is_google_it_support_certification_worth_it/)
+- [Big Reference Source?](https://www.reddit.com/r/InformationTechnology/comments/lgh948/big_reference_source/)
+- [Any Successful Zero-Touch Deployments out there? (PC)](https://www.reddit.com/r/InformationTechnology/comments/lggwsd/any_successful_zerotouch_deployments_out_there_pc/)
+- [What is Horizon PKI automation Hub and how does it work?](https://www.reddit.com/r/InformationTechnology/comments/lgfxbx/what_is_horizon_pki_automation_hub_and_how_does/)
+- [Can I get into cyber security with no certs and just with my degree in cyber security?](https://www.reddit.com/r/InformationTechnology/comments/lgce8e/can_i_get_into_cyber_security_with_no_certs_and/)
+- [How private is working from home on a private device?](https://www.reddit.com/r/InformationTechnology/comments/lg9kmy/how_private_is_working_from_home_on_a_private/)
+- [cs850m](https://www.reddit.com/r/InformationTechnology/comments/lg88qu/cs850m/)
+- [How to answer Interview questions](https://www.reddit.com/r/InformationTechnology/comments/lg52oo/how_to_answer_interview_questions/)
+- [IT Learning](https://www.reddit.com/r/InformationTechnology/comments/lg4zwd/it_learning/)
+- [Website Tagging Software for testing?](https://www.reddit.com/r/InformationTechnology/comments/lg3rzo/website_tagging_software_for_testing/)
+- [Im burnt out](https://www.reddit.com/r/InformationTechnology/comments/lfv7aj/im_burnt_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

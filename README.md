@@ -275,16 +275,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Fitbit Adds Blood Glucose Tracking on Android and iOS](https://www.reviewgeek.com/70402/fitbit-adds-blood-glucose-tracking-on-android-and-ios/)
-* [The SpeedTest App Now Tells You How Much Your Video Streaming Sucks](https://www.reviewgeek.com/70381/the-speedtest-app-now-tells-you-how-much-your-video-streaming-sucks/)
-* [Target and Amazon Have B2G1 on Games, Books, Movies, and Toys Today](https://www.reviewgeek.com/70379/target-and-amazon-have-b2g1-on-games-books-movies-and-toys-today/)
-* [LEGO is Giving Everyone a Free Minifig in a New Contest](https://www.reviewgeek.com/70358/lego-is-giving-everyone-a-free-minifig-in-a-new-contest/)
-* [A Popular Android App Turned Into Malware: Check Your Phone Now](https://www.reviewgeek.com/70327/a-popular-android-app-turned-into-malware-check-your-phone-now/)
-* [How to Change the Google Assistant’s Voice](https://www.howtogeek.com/712125/how-to-change-the-google-assistants-voice/)
-* [8 Ways to Lock Your Mac](https://www.howtogeek.com/703785/8-ways-to-lock-your-mac/)
-* [How to Delete Your Telegram Account](https://www.howtogeek.com/710602/how-to-delete-your-telegram-account/)
-* [How to Get Started With Doctl, DigitalOcean's Command-Line Client](https://www.cloudsavvyit.com/9498/how-to-get-started-with-doctl-digitaloceans-command-line-client/)
-* [How to Change Your Windows 10 Lock Screen Background](https://www.howtogeek.com/708418/how-to-change-your-windows-10-lock-screen-background/)
+* [How to Disable Reddit’s “Open in App” Pop-Up](https://www.howtogeek.com/713115/how-to-disable-reddits-open-in-app-pop-up/)
+* [JLab's New Affordable USB-C Talk Series Microphones Start at $50](https://www.reviewgeek.com/70542/jlabs-new-affordable-usb-c-talk-series-microphones-start-at-50/)
+* [SLING TV Unlocks 100 Primetime Channels for Free Until Valentine's Day](https://www.reviewgeek.com/70533/sling-tv-unlocks-100-primetime-channels-for-free-until-valentines-day/)
+* [Amazon Has a Bunch of Deals on Fire and Echo Devices for Valentine's Day](https://www.reviewgeek.com/70517/amazon-has-a-bunch-of-deals-on-fire-and-echo-devices-for-valentines-day/)
+* [Zoom's New Face Filters Will Lighten Up Your Next Video Call](https://www.reviewgeek.com/70485/zooms-new-face-filters-will-lighten-up-your-next-video-call/)
+* ['Forza Horizon 4' is Coming to Steam, No Longer a Microsoft Store Exclusive](https://www.reviewgeek.com/70488/forza-horizon-4-is-coming-to-steam-no-longer-a-microsoft-store-exclusive/)
+* [How to Use 3D Facial Effects on Zoom](https://www.howtogeek.com/713042/how-to-use-3d-facial-effects-on-zoom/)
+* [Google Play Store vs. Google Store: What’s the Difference?](https://www.howtogeek.com/708991/google-play-store-vs.-google-store-whats-the-difference/)
+* ['Cyberpunk 2077' Game Developer Hacked and Blackmailed, Irony Lost on No One](https://www.reviewgeek.com/70483/cyberpunk-2077-game-developer-hacked-and-blackmailed-irony-lost-on-no-one/)
+* [Update Your New Chromecast to Fix Its Stupid Reboot Bug](https://www.reviewgeek.com/70481/update-your-new-chromecast-to-fix-its-stupid-reboot-bug/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

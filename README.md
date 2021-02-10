@@ -350,6 +350,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The 'It' Factors in IT Transformation](https://www.informationweek.com/strategic-cio/digital-business/the-it-factors-in-it-transformation/a/d-id/1340063?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -358,8 +360,6 @@
 - [Aegis Sciences CIO on Scaling IT to Meet COVID Testing Demand](https://www.informationweek.com/strategic-cio/aegis-sciences-cio-on-scaling-it-to-meet-covid-testing-demand/a/d-id/1340053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why the Financial Services Industry is Embracing the Cloud](https://www.informationweek.com/cloud/why-the-financial-services-industry-is-embracing-the-cloud/a/d-id/1340050?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [XOps: Real or Hype?](https://www.informationweek.com/big-data/xops-real-or-hype/a/d-id/1340038?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Continuous Delivery: Why You Need It and How to Get Started](https://www.informationweek.com/devops/continuous-delivery-why-you-need-it-and-how-to-get-started/a/d-id/1340025?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

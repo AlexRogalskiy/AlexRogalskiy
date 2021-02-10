@@ -2,15 +2,15 @@
 ![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/banner/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/glossary.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Languages_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/glossary.png" alt="Languages icon" width="30px" height="30px" style="max-width:100%;"> _Languages_
 
 <div id="languages_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrogalskiy&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/statistics.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Statistics_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/statistics.png" alt="Statistics icon" width="30px" height="30px" style="max-width:100%;"> _Statistics_
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/bookmarks.png" alt="" width="20px" height="20px" style="max-width:100%;"> _General_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/bookmarks.png" alt="Summary statistics icon" width="20px" height="20px" style="max-width:100%;"> _Summary_
 
 <div id="statistics_general_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <a href="https://github.com/alexrogalskiy?tab=followers" target="_blank">
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/idea.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Review_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/idea.png" alt="Review icon" width="20px" height="20px" style="max-width:100%;"> _Review_
 
 <!--views:github-stats:start-->
 <div id="statistics_review_summary_block_id" align="center"> <img src="https://img.shields.io/badge/Account%20age-7-CB0000.svg?logo=github" alt="Total account ages" /> <img src="https://img.shields.io/badge/Issues-4-CB0000.svg?logo=github" alt="Total issues" /> <img src="https://img.shields.io/badge/Commits-7907-CB0000.svg?logo=github" alt="Total commits" /> <img src="https://img.shields.io/badge/Pull%20requests-255-CB0000.svg?logo=github" alt="Total pull requests" /> <img src="https://img.shields.io/badge/Repos%20contributions-0-CB0000.svg?logo=github" alt="Total repos contributions" /> <img src="https://img.shields.io/badge/Stars-4-CB0000.svg?logo=github" alt="Total stars" /> <img src="https://img.shields.io/badge/Gists-871-CB0000.svg?logo=github" alt="Total gists" /> <img src="https://img.shields.io/badge/Repos-624-CB0000.svg?logo=github" alt="Total repositories" /></div>
@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub general statistics" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/star.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Contributions_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/star.png" alt="Contributions icon" width="20px" height="20px" style="max-width:100%;"> _Contributions_
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile.codersrank.io/user/alexrogalskiy" target="_blank">
@@ -74,13 +74,13 @@
     </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tools.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Coding Skills_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tools.png" alt="Coding skills icon" width="20px" height="20px" style="max-width:100%;"> _Coding Skills_
 
 <div id="statistics_skills_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexRogalskiy&badges=3&show-avatar=false&style=--border-radius:10px" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/npm.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Node Package Manager_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/npm.png" alt="NPM icon" width="20px" height="20px" style="max-width:100%;"> _Node Package Manager_
 
 <div id="statistics_npm_block_id" align="center" style="align-content: center; text-align:center; font:italic bold 12px/30px Georgia, serif;">
     <a href="http://npm-stats.com/AlexRogalskiy" target="_blank">
@@ -88,7 +88,7 @@
     </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/profile.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Github Profile_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/profile.png" alt="Profile icon" width="20px" height="20px" style="max-width:100%;"> _Github Profile_
 
 <div id="statistics_github_animation_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
@@ -104,13 +104,13 @@
     </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/trophy.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Github Trophies_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/trophy.png" alt="Trophies icon" width="20px" height="20px" style="max-width:100%;"> _Github Trophies_
 
 <div id="statistics_trophies_block_id" align="center" style="align-content: center; text-align:center;">
     <img src="https://github-profile-trophy.vercel.app/?username=alexrogalskiy" alt="GitHub trophies" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tshirt.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Coding Competitions_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/tshirt.png" alt="Coding competitions icon" width="20px" height="20px" style="max-width:100%;"> _Coding Competitions_
 
 <div id="statistics_competitions_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://www.codewars.com/users/AlexRogalskiy" target="_blank">
@@ -118,9 +118,9 @@
     </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/contacts.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Contacts_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/contacts.png" alt="Contacts icon" width="30px" height="30px" style="max-width:100%;"> _Contacts_
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/sharing.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Community_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/sharing.png" alt="Community icon" width="20px" height="20px" style="max-width:100%;"> _Community_
 
 <div id="contacts_community_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <a href="https://spectrum.chat/nullables-io" target="_blank">
@@ -131,7 +131,7 @@
     </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/gadget.png" alt="" width="20px" height="20px" style="max-width:100%;"> _Social & Media_
+### <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/gadget.png" alt="Social & Media icon" width="20px" height="20px" style="max-width:100%;"> _Social & Media_
 
 <div id="contacts_social_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center; font:italic bold 12px/30px Georgia, serif;"><i>Feel free to reach me out at:</i></p>
@@ -151,7 +151,7 @@
     <a href="https://sourcerer.io/alexrogalskiy" title="See my profile on Sourcerer"><img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/social/sourcerer.svg" width="30" height="30" alt="Sourcerer"></a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Quotes_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="Quotes icon" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
@@ -162,15 +162,21 @@
 </div>
 -->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Image of the Day_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/chart.png" alt="Graphs & Charts icon" width="30px" height="30px" style="max-width:100%;"> _Graphs & Charts_
 
-<div id="image_of_the_day_block_id" align="center" style="align-content: center">
+<div id="charts_block_id" align="center" style="align-content: center">
+    <img width="100%" style="min-height: 250px" src="https://styled-charts.vercel.app/api?url=https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/1.json&width=600&height=400" alt="Graphs & Charts" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png" alt="Image of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Image of the Day_
+
+<div id="images_block_id" align="center" style="align-content: center">
     <a href="https://www.brainyquote.com/quote_of_the_day" target="_blank">
         <img width="600" height="auto" src="https://github.com/AlexRogalskiy/AlexRogalskiy/raw/master/images/generated/screenshot-brainyquote.png" alt="Image of the Day" />
     </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
@@ -225,7 +231,7 @@
 
 <!--views:pinterest-marker:end-->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/puzzle.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Poem of the Day_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/puzzle.png" alt="Poem of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Poem of the Day_
 
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
@@ -236,15 +242,15 @@
 </div>
 <!--views:poem-rss-marker:end-->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/travel.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Travel & Leisure_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/travel.png" alt="Travel&Leisure icon" width="30px" height="30px" style="max-width:100%;"> _Travel & Leisure_
 
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;147317430_416556439653823_1032390497261390485_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;QcfsUdMGJg0AX-1mRKT&amp;tp&#x3D;1&amp;oh&#x3D;7ef443469eb4516fd7aff557f5b94c49&amp;oe&#x3D;604AB330" alt="-🇺🇸- St. Valentine’s day at Outlet Village Pulkovo! @ov_pulkovo 🥰  Valentines Day is the most romantic holiday of the year. On February 14, Outlet Village Pulkovo will create a special atmosphere in honor of all couples.  🎼From 13:00 to 18:00 live music will be played at the outlet, which will bring a festive mood.   📸Also, from 13:00 to 18:00, all couples can take a memorable photo on Polaroid.   🤗A charming mime will walk around the territory to capture the lovers at the outlet.  👝And at the Information center you can get a complimentary shopper bag for a picture in Instagram Stories.   🌟Outlet Village Pulkovo stores have prepared additional discounts and special offers for the holiday. Treat yourself and your significant other with beneficial shopping!  -🇷🇺- День всех влюбленных в Outlet Village Pulkovo! @ov_pulkovo ❤  День святого Валентина – самый романтичный праздник в году. 14 февраля в Outlet Village Пулково в честь всех влюбленных создаст особую атмосферу.  🎷С 13:00 до 18:00 в аутлете будет играть живая музыка, которая подарит праздничное настроение.  📸 Также с 13:00 до 18:00 все пары смогут сделать памятную фотографию на Polaroid.  😇 Обаятельный мим будет гулять по территории, чтобы запечатлеть возлюбленных в аутлете.  🛍А в Информационном центре аутлета за фотографию в Instagram Stories вам подарят стильный шопер.  😍 Магазины Outlet Village Пулково подготовили дополнительные скидки и специальные предложения к празднику. Порадуйте себя и вашу вторую половинку выгодным шопингом!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;147290615_225958462506972_6172015558840803486_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;NHik5MoiAO0AX-lQgT3&amp;tp&#x3D;1&amp;oh&#x3D;f432e81d546d131c5f353c58ef00d402&amp;oe&#x3D;60251C5F" alt="Помните легендарный советский автомобиль СМЗ С-3А на котором ездили Трус, Балбес и Бывалый из фильма «Операция «Ы» или новые приключения Шурика»?🤓  А что если мы скажем, что вы можете увидеть этот автомобиль и другие шедевры отечественного автопрома своими глазами ?!  В  @ov_pulkovo проходит бесплатная 🆓 выставка советских ретро автомобилей @velgutsgarage.ru 🚘  Мы настолько вдохновились, что решили смонтировать для вас видео и погрузить в историю советского автомобилестроения.  Visit Petersburg ✅ рекомендует посетить данную выставку всей семьей 👨‍👩‍👧‍👦  📸 @lizlizliss   #visitpetersburg #events #car #volga #piter #art #travel #see #tiktok #spb #speed #drift" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;146735045_480931243310523_1763051824217641625_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;jpzFIQMNHO4AX87gc-i&amp;tp&#x3D;1&amp;oh&#x3D;831f3db067e419e0d4debff219f377b0&amp;oe&#x3D;602561E1" alt="Уматурман 14 февраля 2021 в 20:00 в концертном зале А2❤️  Группа «Uma2rman» - это проект двух родных братьев Владимира и Сергея Кристовских 🎼  В 2004 году и «Прасковья», и лирическая композиция «Проститься» стали абсолютными хитами, а группу признали «Лучшим дебютом» на премии MTVRussian Music Awards🏆  Успех коллектива закрепила песня «Ночной дозор», ставшая саундтреком для одноименного блокбастера Тимура Бекмамбетова  Первая пластинка группы «В городе N» разошлась тиражом более 1 000 000 экземпляров и получила статус платиновой  ❗️14 февраля 2021 в 20:00 на сцене концертного зала А2 состоится концерт Uma2rman!   Братья Кристовские порадуют своих поклонников любимыми хитами “Прасковья”, “Ночной дозор”, “Проститься” и многими другими  Спешите, пока билеты есть в наличии🔝 на Kassir.ru  #visitpetersburg #концерт #14февраля #деньвсехвлюбленных #питер #спб #кудасходитьспб#местапитер" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;146085299_861850097719201_3256704652696938466_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;WPdazY0tcDQAX-foH3M&amp;tp&#x3D;1&amp;oh&#x3D;2ba2229c468dbd0c96803411c38e796a&amp;oe&#x3D;604B3A20" alt="Всем любви ❤️  Нам очень хочется порадовать вас и сделать как можно больше сюрпризов в преддверии Дня всех влюблённых 👩‍❤️‍💋‍👨  Мы разыграем два билета в кинотеатр @cinema_grand_palace — единственный премиум-кинотеатр, расположенный в самом сердце Петербурга на Невском проспекте. Здесь 7 совершенно разных, при этом максимально комфортных и камерных VIP-кинозала от 2 до 40 мест. При этом каждый зал можно арендовать под персональный просмотр в кругу своих друзей и близких. Это место ценят за особую атмосферу комфорта, роскоши и неповторимого сервиса.   Шикарный подарок, не так ли?😍   Условия простые😌  ✅Подпишись на @visitpetersburg и @cinema_grand_palace   ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @cinema_grand_palace   ✅ Напиши в комментариях своё любимое место для свиданий в Петербурге и отметь двух друзей   ‼️Важно‼️ 🛑 Один комментарий – один участник   ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел.  С любовью, ваш Visit Petersburg 💚💛" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;147317430_416556439653823_1032390497261390485_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;QcfsUdMGJg0AX_7scgl&amp;tp&#x3D;1&amp;oh&#x3D;0de13c00f2c36d446b7774600fc13720&amp;oe&#x3D;604EA7B0" alt="-🇺🇸- St. Valentine’s day at Outlet Village Pulkovo! @ov_pulkovo 🥰  Valentines Day is the most romantic holiday of the year. On February 14, Outlet Village Pulkovo will create a special atmosphere in honor of all couples.  🎼From 13:00 to 18:00 live music will be played at the outlet, which will bring a festive mood.   📸Also, from 13:00 to 18:00, all couples can take a memorable photo on Polaroid.   🤗A charming mime will walk around the territory to capture the lovers at the outlet.  👝And at the Information center you can get a complimentary shopper bag for a picture in Instagram Stories.   🌟Outlet Village Pulkovo stores have prepared additional discounts and special offers for the holiday. Treat yourself and your significant other with beneficial shopping!  -🇷🇺- День всех влюбленных в Outlet Village Pulkovo! @ov_pulkovo ❤  День святого Валентина – самый романтичный праздник в году. 14 февраля в Outlet Village Пулково в честь всех влюбленных создаст особую атмосферу.  🎷С 13:00 до 18:00 в аутлете будет играть живая музыка, которая подарит праздничное настроение.  📸 Также с 13:00 до 18:00 все пары смогут сделать памятную фотографию на Polaroid.  😇 Обаятельный мим будет гулять по территории, чтобы запечатлеть возлюбленных в аутлете.  🛍А в Информационном центре аутлета за фотографию в Instagram Stories вам подарят стильный шопер.  😍 Магазины Outlet Village Пулково подготовили дополнительные скидки и специальные предложения к празднику. Порадуйте себя и вашу вторую половинку выгодным шопингом!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;147290615_225958462506972_6172015558840803486_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;NHik5MoiAO0AX8WfmHm&amp;tp&#x3D;1&amp;oh&#x3D;a49817835d41ba9b7d9e3e631dbf16af&amp;oe&#x3D;60266DDF" alt="Помните легендарный советский автомобиль СМЗ С-3А на котором ездили Трус, Балбес и Бывалый из фильма «Операция «Ы» или новые приключения Шурика»?🤓  А что если мы скажем, что вы можете увидеть этот автомобиль и другие шедевры отечественного автопрома своими глазами ?!  В  @ov_pulkovo проходит бесплатная 🆓 выставка советских ретро автомобилей @velgutsgarage.ru 🚘  Мы настолько вдохновились, что решили смонтировать для вас видео и погрузить в историю советского автомобилестроения.  Visit Petersburg ✅ рекомендует посетить данную выставку всей семьей 👨‍👩‍👧‍👦  📸 @lizlizliss   #visitpetersburg #events #car #volga #piter #art #travel #see #tiktok #spb #speed #drift" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;146735045_480931243310523_1763051824217641625_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;jpzFIQMNHO4AX9vMpqY&amp;tp&#x3D;1&amp;oh&#x3D;b0f49447857222604fd07cce3406fae9&amp;oe&#x3D;6026B361" alt="Уматурман 14 февраля 2021 в 20:00 в концертном зале А2❤️  Группа «Uma2rman» - это проект двух родных братьев Владимира и Сергея Кристовских 🎼  В 2004 году и «Прасковья», и лирическая композиция «Проститься» стали абсолютными хитами, а группу признали «Лучшим дебютом» на премии MTVRussian Music Awards🏆  Успех коллектива закрепила песня «Ночной дозор», ставшая саундтреком для одноименного блокбастера Тимура Бекмамбетова  Первая пластинка группы «В городе N» разошлась тиражом более 1 000 000 экземпляров и получила статус платиновой  ❗️14 февраля 2021 в 20:00 на сцене концертного зала А2 состоится концерт Uma2rman!   Братья Кристовские порадуют своих поклонников любимыми хитами “Прасковья”, “Ночной дозор”, “Проститься” и многими другими  Спешите, пока билеты есть в наличии🔝 на Kassir.ru  #visitpetersburg #концерт #14февраля #деньвсехвлюбленных #питер #спб #кудасходитьспб#местапитер" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;146085299_861850097719201_3256704652696938466_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;WPdazY0tcDQAX_LGtg1&amp;tp&#x3D;1&amp;oh&#x3D;66418ff165123ca82ac5ad1186cb8426&amp;oe&#x3D;604F2EA0" alt="Всем любви ❤️  Нам очень хочется порадовать вас и сделать как можно больше сюрпризов в преддверии Дня всех влюблённых 👩‍❤️‍💋‍👨  Мы разыграем два билета в кинотеатр @cinema_grand_palace — единственный премиум-кинотеатр, расположенный в самом сердце Петербурга на Невском проспекте. Здесь 7 совершенно разных, при этом максимально комфортных и камерных VIP-кинозала от 2 до 40 мест. При этом каждый зал можно арендовать под персональный просмотр в кругу своих друзей и близких. Это место ценят за особую атмосферу комфорта, роскоши и неповторимого сервиса.   Шикарный подарок, не так ли?😍   Условия простые😌  ✅Подпишись на @visitpetersburg и @cinema_grand_palace   ✅ Поставь лайк этой публикации   ✅Сделай репост этой записи к себе в сторис с отметкой @visitpetersburg и @cinema_grand_palace   ✅ Напиши в комментариях своё любимое место для свиданий в Петербурге и отметь двух друзей   ‼️Важно‼️ 🛑 Один комментарий – один участник   ✅ Ваш аккаунт должен быть открытым   Вот и всё😉  🗓 Итоги подведём 11 февраля.  ❗️Участвовать могут только живые профили, аккаунты, созданные для участия в конкурсах учитываться не будут❗️  🔢 Победителя определим с помощью генератора случайных чисел.  С любовью, ваш Visit Petersburg 💚💛" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -262,7 +268,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>broken clouds</i>), humidity: 78%, pressure: 1021 (mbar), wind: /south-west/ 1 (m/s), cloudy: 75%</b>
+        <b>-14°C (<i>scattered clouds</i>), humidity: 85%, pressure: 1022 (mbar), wind: /west/ 2 (m/s), cloudy: 40%</b>
         <br />
         Today, the Sun rises at <b>08:50 am</b> and sets at <b>17:36 pm</b>.
     </p>
@@ -270,7 +276,7 @@
 
 <!--views:weather-marker:end-->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/news.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent News_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/news.png" alt="Recent News icon" width="30px" height="30px" style="max-width:100%;"> _Recent News_
 
 ### _Review Geek posts_
 
@@ -422,7 +428,7 @@
 - [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#68](https://github.com/AlexRogalskiy/java-patterns/pull/68) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
@@ -432,6 +438,6 @@
 5. 🎉 Merged PR [#100](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/100) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
-## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Links_
+## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="Links icon" width="30px" height="30px" style="max-width:100%;"> _Links_
 
 - [World Tour](https://world-tour.vercel.app/)

@@ -410,16 +410,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Telus and Google Cloud ink 10-year collaboration deal](https://www.itworldcanada.com/article/telus-and-google-cloud-inks-10-year-collaboration-deal/442170)
+- [Cyberattack on Florida water treatment plant raises alarms in Canada](https://www.itworldcanada.com/article/cyberattack-on-florida-water-treatment-plant-raises-alarms-in-canada/442088)
+- [Technicity West: Experts urge municipalities to participate in pilots and play nice with neighbours](https://www.itworldcanada.com/article/technicity-west-vendors-want-to-address-use-cases-not-the-nice-to-haves/442060)
+- [Technicity West panel dives deep into effective digital enablement](https://www.itworldcanada.com/article/technicity-west-digital-enablement-and-innovation-panel/441942)
+- [Technicity West: Citizen engagement a serious challenge for those without access](https://www.itworldcanada.com/article/accessibility-for-those-who-have-access-going-digital-a-double-edged-sword-for-municipalities/442013)
+- [Data loss, credential compromise up in phishing attacks in 2020, says vendor report](https://www.itworldcanada.com/article/data-loss-credential-compromise-up-in-phishing-attacks-in-2020-says-vendor-report/442082)
+- [SpaceX Starlink satellite internet now taking pre-orders in Canada](https://www.itworldcanada.com/article/spacex-starlink-satellite-internet-now-taking-pre-orders-in-canada/442101)
+- [Hashtag Trending – Tesla loves Bitcoin; Unionization at Amazon; Twitter’s verified users love fake news](https://www.itworldcanada.com/article/hashtag-trending-tesla-loves-bitcoin-unionization-at-amazon-twitters-verified-users-love-fake-news/442068)
 - [Government funded high-speed internet coming to rural Niagara region](https://www.itworldcanada.com/article/government-funded-high-speed-internet-coming-to-rural-niagara-region/442043)
 - [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
-- [Tales from the trenches: dealing with internal threats](https://www.itworldcanada.com/blog/tales-from-the-trenches-trust-but-verify-dealing-with-internal-threats/441767)
-- [B.C. privacy commissioner says privacy laws alone can’t restrain big tech’s ‘predatory behaviour’](https://www.itworldcanada.com/article/b-c-privacy-commissioner-says-privacy-laws-alone-cant-restrain-big-techs-predatory-behaviour/441954)
-- [Dell Precision 5550 workstation laptop review: nearly perfect](https://www.itworldcanada.com/article/dell-precision-5550-workstation-laptop-review/441851)
-- [Ransomware attempt on British Columbia realtor raises question of supply chain attack](https://www.itworldcanada.com/article/ransomware-attempt-on-british-columbia-realtor-raises-question-of-supply-chain-attack/441914)
-- [Cyber Security Today – Data breaches at SitePoint and Emsisoft, Morse code used for hiding a phishing attack and watch for bad browser extensions](https://www.itworldcanada.com/article/cyber-security-today-data-breaches-at-sitepoint-and-emsisoft-morse-code-used-for-hiding-a-phishing-attack-and-watch-for-bad-browser-extensions/441930)
-- [Hashtag Trending – Police seize $60M worth of bitcoin; Tech helping teens’ mental health; Microsoft won’t back lawmakers who voted against Electoral College confirmation](https://www.itworldcanada.com/article/hashtag-trending-police-seize-60m-worth-of-bitcoin-tech-helping-teens-mental-health-microsoft-wont-back-lawmakers-who-voted-against-electoral-college-confirmation/441939)
-- [Should we be concerned about the digital literacy of Canadian board of directors?](https://www.itworldcanada.com/blog/should-we-be-concerned-about-the-digital-literacy-of-canadian-board-of-directors/441935)
-- [Five ways you can celebrate Black History Month virtually](https://www.itworldcanada.com/slideshow/five-ways-you-can-celebrate-black-history-month-virtually)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

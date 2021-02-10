@@ -335,6 +335,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft issues green light for Windows 10 2004. (But what's the point?)](https://www.computerworld.com/article/3606837/microsoft-issues-green-light-for-windows-10-2004-but-whats-the-point.html#tk.rss_all)
+- [10 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/handy-hidden-android-features.html#tk.rss_all)
+- [It’s time for an App Store scam app crackdown](https://www.computerworld.com/article/3606732/its-time-for-an-app-store-scam-app-crackdown.html#tk.rss_all)
 - [Microsoft to replace legacy Edge in April with Chromium-based version](https://www.computerworld.com/article/3606788/microsoft-to-replace-legacy-edge-in-april-with-chromium-based-version.html#tk.rss_all)
 - [US IT jobs grow in January, defying broader employment struggles](https://www.computerworld.com/article/3542681/us-it-jobs-grow-in-january-defying-broader-employment-struggles.html#tk.rss_all)
 - [Ahead of Patch Tuesday, a cautionary tale](https://www.computerworld.com/article/3606391/ahead-of-patch-tuesday-a-cautionary-tale.html#tk.rss_all)
@@ -342,9 +345,6 @@
 - [Remote work 2.0 — when WFH really means 'work from anywhere'](https://www.computerworld.com/article/3604736/remote-work-20-when-wfh-really-means-work-from-anywhere.html#tk.rss_all)
 - [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Zoom Rooms tweaks aim to bolster a safe re-opening of offices](https://www.computerworld.com/article/3606590/zoom-rooms-tweaks-aim-to-bolster-a-safe-re-opening-of-offices.html#tk.rss_all)
-- [How to fix five Windows 10 headaches](https://www.computerworld.com/article/3182846/how-to-fix-five-windows-10-headaches.html#tk.rss_all)
-- [Podcast: iOS 14.5: New features and release date](https://www.computerworld.com/article/3606111/podcast-ios-145-new-features-and-release-date.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

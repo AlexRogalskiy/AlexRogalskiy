@@ -305,16 +305,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO says it is 'too early' to dismiss AstraZeneca vaccine](https://www.theguardian.com/world/live/2021/feb/09/coronavirus-live-news-who-says-it-is-too-early-to-dismiss-astrazeneca-vaccine)
-- [Trump impeachment: Schumer says agreement reached on rules for trial – as it happened](https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates)
-- ['Witch' tweets reflect society's fear of older women, says Mary Beard](https://www.theguardian.com/books/2021/feb/09/mary-beard-witch-tweets-reflect-society-fear-older-women)
-- [BA plans transatlantic flights partially fuelled by recycled waste in 2022](https://www.theguardian.com/business/2021/feb/09/ba-plans-transatlantic-flights-partially-fuelled-by-recycled-waste-in-2022)
-- [UK risks ‘turning clock back’ on gender equality in pandemic](https://www.theguardian.com/lifeandstyle/2021/feb/09/uk-risks-turning-clock-back-on-gender-equality-in-pandemic)
-- [Keep £20 a week universal credit Covid top-up, MPs urge](https://www.theguardian.com/world/2021/feb/09/keep-universal-credit-covid-top-up-mps-urge)
-- [Tens of thousands of UK nurses yet to receive first dose of Covid vaccine](https://www.theguardian.com/society/2021/feb/09/tens-of-thousands-of-uk-nurses-yet-to-receive-first-dose-of-covid-vaccine)
-- [Facebook bans misinformation about all vaccines after years of controversy](https://www.theguardian.com/technology/2021/feb/08/facebook-bans-vaccine-misinformation)
-- [Outcry as more than 20 babies and children deported by US to Haiti](https://www.theguardian.com/us-news/2021/feb/08/us-ice-immigration-customs-enforcement-haiti-deportations)
-- ['We’re not talking about it, we’re doing it': Aims takes inclusivity action | Paul MacInnes](https://www.theguardian.com/football/2021/feb/08/were-not-talking-about-it-were-doing-it-aims-takes-inclusivity-action)
+- [Coronavirus live news: annual vaccine may be needed, says J&J chief; Spain tops 3m cases](https://www.theguardian.com/world/live/2021/feb/10/coronavirus-live-news-annual-vaccine-may-be-needed-says-jj-chief-spain-tops-3m-cases)
+- [Sim-swapping: UK police arrest eight over attacks on celebrities](https://www.theguardian.com/uk-news/2021/feb/10/sim-swapping-uk-police-arrest-eight-over-attacks-on-celebrities)
+- [Trump impeachment: Senate votes to proceed with trial](https://www.theguardian.com/us-news/2021/feb/09/trump-impeachment-senate-vote-trial)
+- [Care homes failed by lack of PPE during UK Covid first wave, say MPs](https://www.theguardian.com/society/2021/feb/10/care-homes-failed-by-lack-of-ppe-during-uk-covid-first-wave-say-mps)
+- [Elton John and Michael Caine star in video to promote Covid vaccination](https://www.theguardian.com/world/2021/feb/10/elton-john-and-michael-caine-star-in-video-to-promote-covid-vaccination)
+- [Thousands of clinically vulnerable not reached at start of Covid crisis, watchdog finds](https://www.theguardian.com/world/2021/feb/10/thousands-of-clinically-vulnerable-not-reached-at-start-of-covid-crisis-watchdog-finds)
+- [Steep rise in UK's consumption of organic food](https://www.theguardian.com/environment/2021/feb/10/steep-rise-in-uks-consumption-of-organic-food)
+- [Ryan Reynolds and Rob McElhenney complete takeover of Wrexham](https://www.theguardian.com/football/2021/feb/09/ryan-reynolds-and-rob-mcelhenney-complete-takeover-of-wrexham)
+- [Scott McTominay sinks West Ham to put Manchester United in quarter-final](https://www.theguardian.com/football/2021/feb/09/manchester-united-west-ham-fa-cup-fifth-round-match-report)
+- [Swedish embassy in Minsk harbours two Belarusians for five months](https://www.theguardian.com/world/2021/feb/09/swedish-embassy-in-minsk-harbours-two-belarusians-for-five-months)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

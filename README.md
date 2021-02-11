@@ -444,16 +444,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: annual vaccine may be needed, says J&J chief; Spain tops 3m cases](https://www.theguardian.com/world/live/2021/feb/10/coronavirus-live-news-annual-vaccine-may-be-needed-says-jj-chief-spain-tops-3m-cases)
-- [Sim-swapping: UK police arrest eight over attacks on celebrities](https://www.theguardian.com/uk-news/2021/feb/10/sim-swapping-uk-police-arrest-eight-over-attacks-on-celebrities)
-- [Trump impeachment: Senate votes to proceed with trial](https://www.theguardian.com/us-news/2021/feb/09/trump-impeachment-senate-vote-trial)
-- [Care homes failed by lack of PPE during UK Covid first wave, say MPs](https://www.theguardian.com/society/2021/feb/10/care-homes-failed-by-lack-of-ppe-during-uk-covid-first-wave-say-mps)
-- [Elton John and Michael Caine star in video to promote Covid vaccination](https://www.theguardian.com/world/2021/feb/10/elton-john-and-michael-caine-star-in-video-to-promote-covid-vaccination)
-- [Thousands of clinically vulnerable not reached at start of Covid crisis, watchdog finds](https://www.theguardian.com/world/2021/feb/10/thousands-of-clinically-vulnerable-not-reached-at-start-of-covid-crisis-watchdog-finds)
-- [Steep rise in UK's consumption of organic food](https://www.theguardian.com/environment/2021/feb/10/steep-rise-in-uks-consumption-of-organic-food)
-- [Ryan Reynolds and Rob McElhenney complete takeover of Wrexham](https://www.theguardian.com/football/2021/feb/09/ryan-reynolds-and-rob-mcelhenney-complete-takeover-of-wrexham)
-- [Scott McTominay sinks West Ham to put Manchester United in quarter-final](https://www.theguardian.com/football/2021/feb/09/manchester-united-west-ham-fa-cup-fifth-round-match-report)
-- [Swedish embassy in Minsk harbours two Belarusians for five months](https://www.theguardian.com/world/2021/feb/09/swedish-embassy-in-minsk-harbours-two-belarusians-for-five-months)
+- [Coronavirus live news: Two masks 'substantially reduce' exposure; Italy to reopen ski resorts](https://www.theguardian.com/world/live/2021/feb/11/coronavirus-live-news-two-masks-substantially-reduce-exposure-italy-to-reopen-ski-resorts)
+- [Australian Open 2021 day four: Ash Barty v Daria Gavrilova and more – live!](https://www.theguardian.com/sport/live/2021/feb/11/australian-open-2021-tennis-live-scores-day-four-ash-barty-tv-schedule-draw-results-fixtures-order-of-play-melbourne-park-coverage-latest-news-updates)
+- [New footage of Capitol riot shows Eugene Goodman rushing to save Mitt Romney – Trump impeachment live](https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates)
+- [Jeep 'pauses' Springsteen Super Bowl ad after singer's drunken driving charge](https://www.theguardian.com/music/2021/feb/10/bruce-springsteen-drunk-driving-charge-new-jersey)
+- [Schitt’s Creek mansion put up for sale for $15m](https://www.theguardian.com/tv-and-radio/2021/feb/11/schitts-creek-mansion-put-up-for-sale-for-15m)
+- [England's Mako Vunipola 'good to go' against Italy in Six Nations after lay-off](https://www.theguardian.com/sport/2021/feb/11/england-mako-vunipola-italy-six-nations)
+- [Obesity bigger killer than smoking in England and Scotland – study](https://www.theguardian.com/society/2021/feb/11/obesity-bigger-killer-than-smoking-in-england-and-scotland-study)
+- [Larry Flynt, publisher of Hustler magazine, dies aged 78](https://www.theguardian.com/us-news/2021/feb/10/larry-flynt-publisher-of-hustler-magazine-dies-aged-78)
+- [Inquest hears Liam Treadwell died after taking cocktail of strong drugs](https://www.theguardian.com/sport/2021/feb/11/inquest-hears-liam-treadwell-died-after-taking-cocktail-of-strong-drugs)
+- [UK housing market slowed at start of year – survey](https://www.theguardian.com/society/2021/feb/11/uk-housing-market-slowed-at-start-of-year-survey)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

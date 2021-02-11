@@ -489,6 +489,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Microsoft Viva Heralds New Wave of Collaboration Tools](https://www.informationweek.com/software/productivity-collaboration-apps/microsoft-viva-heralds-new-wave-of-collaboration-tools/d/d-id/1340097?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Why DevOps is Critical to Digital Transformation](https://www.informationweek.com/devops/why-devops-is-critical-to-digital-transformation/a/d-id/1340082?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [For Modernization, Be Nimble, Be Agile, and Go Fast](https://www.informationweek.com/devops/for-modernization-be-nimble-be-agile-and-go-fast/d/d-id/1340037?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -496,9 +499,6 @@
 - [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [New Opportunities from Tech-Driven Industry Convergence](https://www.informationweek.com/strategic-cio/it-strategy/new-opportunities-from-tech-driven-industry-convergence/a/d-id/1340027?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Comes Next for AWS with Jassy to Become Amazon CEO](https://www.informationweek.com/cloud/what-comes-next-for-aws-with-jassy-to-become-amazon-ceo/d/d-id/1340057?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Aegis Sciences CIO on Scaling IT to Meet COVID Testing Demand](https://www.informationweek.com/strategic-cio/aegis-sciences-cio-on-scaling-it-to-meet-covid-testing-demand/a/d-id/1340053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why the Financial Services Industry is Embracing the Cloud](https://www.informationweek.com/cloud/why-the-financial-services-industry-is-embracing-the-cloud/a/d-id/1340050?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [RISE with SAP Gives CIOs a Simpler Path to S/4HANA Cloud](https://www.informationweek.com/software/enterprise-applications/rise-with-sap-gives-cios-a-simpler-path-to-s-4hana-cloud/d/d-id/1340040?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

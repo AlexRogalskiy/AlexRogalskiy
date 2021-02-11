@@ -429,16 +429,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dependency Hijacking Software Supply Chain Attack Hits More Than 35 Orgs](https://blog.sonatype.com/dependency-hijacking-software-supply-chain-attack-hits-more-than-35-organizations)
-- [CEO of Unilever: “Every Country Is Shifting Towards Plant-Based Diets”](https://thebeet.com/ceo-of-unilever-every-country-is-shifting-towards-plant-based-diets/)
-- [0-day used to DoS Minecraft server](https://www.openwall.com/lists/oss-security/2021/02/09/7)
-- [Guix SD: risk of local privilege escalation via setuid programs](https://guix.gnu.org/blog/2021/risk-of-local-privilege-escalation-via-setuid-programs/)
-- [PHPetite: A Single File Blog Generator](https://phpetite.org/)
-- [Chia Network Business Whitepaper [pdf]](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf)
-- [Excel Now Turing Complete](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/?OCID=msr_blog_lambda_tw&ocid=usoc_TWITTER_M365_spl100001841896010)
-- [Apple – Legal](https://www.apple.com/legal/)
-- [The Tuxedo Polaris Linux Laptop: Overview](https://boilingsteam.com/the-polaris-gaming-linux-laptop-from-tuxedo/)
-- [Will Google’s Core Update in May Decimate Your Traffic? How to Prepare](https://capitalandgrowth.org/answers/Article/3544243/Will-Google-s-Core-Update-in-May-Decimate-Your-Traffic-How-to-Prepare)
+- [Tencent Executive Held by China over Links to Corruption Case](https://www.wsj.com/articles/tencent-executive-held-by-china-over-links-to-corruption-case-11613009016)
+- [Piercing the Fog: Observability Tools from the Future](https://www.infoq.com/articles/observability-tools-future/)
+- [Let's unclog the FDA and save lives](https://danelton.substack.com/p/lets-unclog-the-fda-and-save-lives)
+- [Parents eligible to receive $3k per child annually](https://reason.com/2021/02/10/have-kids-mitt-romney-and-joe-biden-want-the-government-to-pay-you-thousands-every-year/)
+- [ETL Speaker Series: Vlad Tenev, CEO of Robinhood](https://www.youtube.com/watch?v=aSYPc8xsLbU)
+- [VR helping treat fear of heights](https://nuadox.com/post/642786101323579392/vr-fear-of-heights-treatment)
+- [A free, open-source future for Mailspring](https://community.getmailspring.com/t/a-free-open-source-future-for-mailspring/484/2)
+- [Writing isn’t thinking. It’s a tool for thinking more effectively](https://inleaves.com/writing/)
+- [Bitcoin consumes more electricity than Argentina](https://www.bbc.com/news/technology-56012952)
+- [What Did the Old Telephone Network Sound Like? Overview of the Recordings](https://www.youtube.com/watch?v=eiQ2MwMdYPk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

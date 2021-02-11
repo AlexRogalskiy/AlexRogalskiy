@@ -519,16 +519,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Facebook sued for data-sharing practices with third parties](https://www.computerweekly.com/news/252496091/Facebook-sued-for-data-sharing-practices-with-third-parties)
-- [IR35 private sector reforms: Deloitte confirms post-April 2021 ban on PSCs](https://www.computerweekly.com/news/252496082/IR35-private-sector-reforms-Deloitte-confirms-post-April-2021-ban-on-PSCs)
-- [Data breaches are a ticking timebomb for consumers](https://www.computerweekly.com/news/252496079/Data-breaches-are-a-ticking-timebomb-for-consumers)
-- [IBM refreshes entry-level FlashSystem arrays with a little NVMe](https://www.computerweekly.com/news/252496017/IBM-refreshes-entry-level-FlashSystem-arrays-with-a-little-NVMe)
-- [Cyberpunk 2077 developer refuses to pay up after ransomware attack](https://www.computerweekly.com/news/252496068/Cyberpunk-2077-developer-refuses-to-pay-up-after-ransomware-attack)
-- [‘Batman Begins’ cyber attack is a warning to CNI providers](https://www.computerweekly.com/news/252496071/Batman-Begins-cyber-attack-is-a-warning-to-CNI-providers)
-- [Data teams struggle to maximise business benefits](https://www.computerweekly.com/news/252496070/Data-teams-struggle-to-maximise-business-benefits)
-- [NHS reports fewer phishing emails in 2020](https://www.computerweekly.com/news/252496065/NHS-reports-fewer-phishing-emails-in-2020)
-- [Security Think Tank: Biden has a chance to renew cyber alliances](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-has-a-chance-to-renew-cyber-alliances)
-- [Russia’s Sber launches international AI contest for children](https://www.computerweekly.com/news/252496062/Russias-Sber-launches-international-AI-contest-for-children)
+- [Dating app users warned to watch out for scammers](https://www.computerweekly.com/news/252496156/Dating-app-users-warned-to-watch-out-for-scammers)
+- [Oracle fleshes out hybrid cloud and edge computing strategy with Roving Edge Infrastructure devices](https://www.computerweekly.com/news/252496146/Oracle-fleshes-out-hybrid-cloud-and-edge-computing-strategy-with-Roving-Edge-Infrastructure-devices)
+- [HelloKitty almost certainly behind CD Projekt ransomware attack](https://www.computerweekly.com/news/252496143/HelloKitty-almost-certainly-behind-CD-Projekt-ransomware-attack)
+- [Société Générale adopts work-from-home policy](https://www.computerweekly.com/news/252496149/Societe-Generale-adopts-work-from-home-policy)
+- [Disinformation and the US DNC emails leak controversy – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Disinformation-and-the-US-DNC-emails-leak-controversy-Computer-Weekly-Downtime-Upload-podcast)
+- [£2bn Zero Carbon Delivery Framework goes live to help public sector datacentres go green](https://www.computerweekly.com/news/252496131/2bn-Zero-Carbon-Delivery-Framework-goes-live-to-help-public-sector-datacentres-go-green)
+- [TCS to recruit 1,500 UK tech professionals this year](https://www.computerweekly.com/news/252496140/TCS-to-recruit-1500-UK-tech-professionals-this-year)
+- [Windows 10, Server 2019 users must patch serious zero-day](https://www.computerweekly.com/news/252496139/Windows-10-Server-2019-users-must-patch-serious-zero-day)
+- [Sim-swapping crooks targeted celebrities, influencers](https://www.computerweekly.com/news/252496135/Sim-swapping-crooks-targeted-celebrities-influencers)
+- [Tech sector calls for renewed cooperation in global digital tax talks](https://www.computerweekly.com/news/252496133/Tech-sector-calls-for-renewed-cooperation-in-global-digital-tax-talks)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

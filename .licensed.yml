@@ -9,6 +9,3 @@ allowed:
   - mit
   - cc0-1.0
   - unlicense
-
-reviewed:
-  npm:

@@ -504,16 +504,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to design AI into your applications](https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html#tk.rss_all)
+- [Use DirectML to add machine learning to C code](https://www.infoworld.com/article/3606736/use-directml-to-add-machine-learning-to-c-code.html#tk.rss_all)
+- [Speed up Python functions with memoization and lru_cache](https://www.infoworld.com/article/3606188/speed-up-python-functions-with-memoization-and-lrucache.html#tk.rss_all)
+- [Rust language moves to independent foundation](https://www.infoworld.com/article/3606774/rust-language-moves-to-independent-foundation.html#tk.rss_all)
 - [Should you care about quantum computing?](https://www.infoworld.com/article/3606573/should-you-care-about-quantum-computing.html#tk.rss_all)
 - [Java 17 proposal would enhance PRNGs](https://www.infoworld.com/article/3606833/java-17-proposal-would-enhance-prngs.html#tk.rss_all)
 - [Homebrew 3 brings Apple Silicon support](https://www.infoworld.com/article/3606748/homebrew-3-brings-apple-silicon-support.html#tk.rss_all)
 - [How to use implicit and explicit operators in C#](https://www.infoworld.com/article/3606436/how-to-use-implicit-and-explicit-operators-in-csharp.html#tk.rss_all)
 - [Hidden figures: 7 Black programmers you should know](https://www.infoworld.com/article/3606070/hidden-figures-7-black-programmers-you-should-know.html#tk.rss_all)
 - [7 best practices for remote development teams](https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html#tk.rss_all)
-- [The future of work: Coming sooner than you think](https://www.cio.com/article/3606349/the-future-of-work-coming-sooner-than-you-think.html#tk.rss_all)
-- [GitHub increases developer’s cut of GitHub Marketplace sales](https://www.infoworld.com/article/3606490/github-increases-developers-cut-of-github-marketplace-sales.html#tk.rss_all)
-- [You’re doing cloud-based AI and machine learning wrong](https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html#tk.rss_all)
-- [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

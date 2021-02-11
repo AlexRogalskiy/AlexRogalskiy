@@ -431,11 +431,11 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/AlexRogalskiy/java-patterns/pull/68) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-2. 🎉 Merged PR [#67](https://github.com/AlexRogalskiy/java-patterns/pull/67) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-3. 🎉 Merged PR [#66](https://github.com/AlexRogalskiy/java-patterns/pull/66) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-4. 🎉 Merged PR [#65](https://github.com/AlexRogalskiy/java-patterns/pull/65) in [AlexRogalskiy/java-patterns](https://github.com/AlexRogalskiy/java-patterns)
-5. 🎉 Merged PR [#100](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/100) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. 🎉 Merged PR [#105](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/105) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+2. 💪 Opened PR [#105](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/105) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+3. 🎉 Merged PR [#104](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/104) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+4. 🎉 Merged PR [#103](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/103) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+5. 💪 Opened PR [#103](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/103) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="Links icon" width="30px" height="30px" style="max-width:100%;"> _Links_

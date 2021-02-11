@@ -6,8 +6,10 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
     name: Check licenses
+    runs-on: ubuntu-latest
+    env:
+      LICENSED_VERSION: "2.14.4"
     steps:
       - uses: actions/checkout@v2
 
@@ -16,7 +18,7 @@ jobs:
       - name: Install licensed
         run: |
           cd $RUNNER_TEMP
-          curl -Lfs -o licensed.tar.gz https://github.com/github/licensed/releases/download/2.14.4/licensed-2.14.4-linux-x64.tar.gz
+          curl -Lfs -o licensed.tar.gz "https://github.com/github/licensed/archive/${LICENSED_VERSION}.tar.gz"
           sudo tar -xzf licensed.tar.gz
           sudo mv licensed /usr/local/bin/licensed
 

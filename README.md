@@ -534,16 +534,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you do it? - mini freakout](https://www.reddit.com/r/InformationTechnology/comments/lh6y9l/how_do_you_do_it_mini_freakout/)
+- [Need to find voltage/temperature logging software to run on my PC, that can log realtime readings to a file. Any recommendations?](https://www.reddit.com/r/InformationTechnology/comments/lh5hf3/need_to_find_voltagetemperature_logging_software/)
+- [Ruggedized or no](https://www.reddit.com/r/InformationTechnology/comments/lh58ef/ruggedized_or_no/)
+- [My first term at Western Governor's University for Network Operations and Security](https://www.reddit.com/r/InformationTechnology/comments/lgzali/my_first_term_at_western_governors_university_for/)
+- [Embedded Systems/Digital Controller where do I begin](https://www.reddit.com/r/InformationTechnology/comments/lgx99r/embedded_systemsdigital_controller_where_do_i/)
+- [Should I just go back?](https://www.reddit.com/r/InformationTechnology/comments/lgovm9/should_i_just_go_back/)
+- [Windows Antivirus doesn't allow machine drivers to be installed properly.](https://www.reddit.com/r/InformationTechnology/comments/lgkv86/windows_antivirus_doesnt_allow_machine_drivers_to/)
+- [Wsl2 vs HyperV](https://www.reddit.com/r/InformationTechnology/comments/lgk80t/wsl2_vs_hyperv/)
 - [Big Reference Source?](https://www.reddit.com/r/InformationTechnology/comments/lgh948/big_reference_source/)
 - [Any Successful Zero-Touch Deployments out there? (PC)](https://www.reddit.com/r/InformationTechnology/comments/lggwsd/any_successful_zerotouch_deployments_out_there_pc/)
-- [What is Horizon PKI automation Hub and how does it work?](https://www.reddit.com/r/InformationTechnology/comments/lgfxbx/what_is_horizon_pki_automation_hub_and_how_does/)
-- [Can I get into cyber security with no certs and just with my degree in cyber security?](https://www.reddit.com/r/InformationTechnology/comments/lgce8e/can_i_get_into_cyber_security_with_no_certs_and/)
-- [How private is working from home on a private device?](https://www.reddit.com/r/InformationTechnology/comments/lg9kmy/how_private_is_working_from_home_on_a_private/)
-- [cs850m](https://www.reddit.com/r/InformationTechnology/comments/lg88qu/cs850m/)
-- [How to answer Interview questions](https://www.reddit.com/r/InformationTechnology/comments/lg52oo/how_to_answer_interview_questions/)
-- [IT Learning](https://www.reddit.com/r/InformationTechnology/comments/lg4zwd/it_learning/)
-- [Website Tagging Software for testing?](https://www.reddit.com/r/InformationTechnology/comments/lg3rzo/website_tagging_software_for_testing/)
-- [Im burnt out](https://www.reddit.com/r/InformationTechnology/comments/lfv7aj/im_burnt_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

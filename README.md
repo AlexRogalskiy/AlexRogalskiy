@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/bent_1142.php" target="_blank"><i>bent</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/janky_1302.php" target="_blank"><i>janky</i></a>
 <span> = </span>
-<span>dishonest, corrupt</span>
+<span>poorly made, of low quality</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

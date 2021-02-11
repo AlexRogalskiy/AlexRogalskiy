@@ -32,5 +32,8 @@ jobs:
           bundle config set with 'licensed'
           bundle install --jobs 4 --retry 3
 
+      - name: Update licenses list in cache
+        run: bundle exec licensed cache
+
       - name: Check gems and npm modules
         run: bundle exec licensed status

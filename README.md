@@ -474,16 +474,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 update (and retirement) calendar: Mark these dates](https://www.idginsiderpro.com/article/3234766/windows-10-update-and-retirement-calendar-mark-these-dates.html#tk.rss_all)
+- [BrandPost: Partnering for Success in the New Normal: Why IT Needs Help Protecting Remote Devices](https://www.computerworld.com/article/3607168/partnering-for-success-in-the-new-normal-why-it-needs-help-protecting-remote-devices.html#tk.rss_all)
+- [10 useful Mac tips for busy workers](https://www.computerworld.com/article/3606442/10-useful-mac-tips-for-busy-workers.html#tk.rss_all)
+- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [PowerPoint for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3606749/powerpoint-for-microsoft-365-cheat-sheet.html#tk.rss_all)
+- [PowerPoint for Microsoft 365 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3606832/powerpoint-for-microsoft-365-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
 - [Microsoft issues green light for Windows 10 2004. (But what's the point?)](https://www.computerworld.com/article/3606837/microsoft-issues-green-light-for-windows-10-2004-but-whats-the-point.html#tk.rss_all)
-- [10 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/handy-hidden-android-features.html#tk.rss_all)
-- [It’s time for an App Store scam app crackdown](https://www.computerworld.com/article/3606732/its-time-for-an-app-store-scam-app-crackdown.html#tk.rss_all)
-- [Microsoft to replace legacy Edge in April with Chromium-based version](https://www.computerworld.com/article/3606788/microsoft-to-replace-legacy-edge-in-april-with-chromium-based-version.html#tk.rss_all)
-- [US IT jobs grow in January, defying broader employment struggles](https://www.computerworld.com/article/3542681/us-it-jobs-grow-in-january-defying-broader-employment-struggles.html#tk.rss_all)
-- [Ahead of Patch Tuesday, a cautionary tale](https://www.computerworld.com/article/3606391/ahead-of-patch-tuesday-a-cautionary-tale.html#tk.rss_all)
-- [The future of work: Coming sooner than you think](https://www.cio.com/article/3606349/the-future-of-work-coming-sooner-than-you-think.html#tk.rss_all)
-- [Remote work 2.0 — when WFH really means 'work from anywhere'](https://www.computerworld.com/article/3604736/remote-work-20-when-wfh-really-means-work-from-anywhere.html#tk.rss_all)
-- [Is there a human consequence to WFH?](https://www.computerworld.com/article/3606470/is-there-a-human-consequence-to-wfh.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

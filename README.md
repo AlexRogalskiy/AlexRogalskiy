@@ -549,16 +549,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Telesat contracts Thales Alenia Space to build satellite broadband](https://www.itworldcanada.com/article/telesat-contracts-thales-alenia-space-to-build-satellite-broadband/442221)
+- [Calgary Mayor Naheed Nenshi: Using tech to ‘make people’s lives better’ every day](https://www.itworldcanada.com/article/calgary-mayor-naheed-nenshi-using-tech-to-make-peoples-lives-better-every-day/442245)
+- [Former BlackBerry exec joins network security firm iboss](https://www.itworldcanada.com/article/former-blackberry-exec-joins-network-security-firm-iboss/442238)
+- [Prepared to pivot – tips from Surrey, B.C.](https://www.itworldcanada.com/article/prepared-to-pivot-tips-from-surrey-b-c/442212)
+- [Taking advantage of data in a changing economy: Edmonton, Alberta](https://www.itworldcanada.com/article/taking-advantage-of-data-in-a-changing-economy-edmonton-alberta/442205)
+- [Harnessing open data and IoT keys for growth, says Winnipeg mayor](https://www.itworldcanada.com/article/harnessing-open-data-and-iot-keys-for-growth-says-winnipeg-mayor/442195)
+- [Cyber Security Today – Phishing service taken down, phony COVID vaccination documents for sale, Linux hosting site forced to close and more](https://www.itworldcanada.com/article/cyber-security-today-phishing-service-taken-down-phony-covid-vaccination-documents-for-sale-linux-hosting-site-forced-to-close-and-more/442167)
+- [Hashtag Trending – Facebook expands false claims policy; Dogecoin skyrockets; AI picks apart Super Bowl ads](https://www.itworldcanada.com/article/hashtag-trending-facebook-expands-false-claims-policy-dogecoin-skyrockets-ai-picks-apart-super-bowl-ads/442188)
 - [Telus and Google Cloud ink 10-year collaboration deal](https://www.itworldcanada.com/article/telus-and-google-cloud-inks-10-year-collaboration-deal/442170)
 - [Cyberattack on Florida water treatment plant raises alarms in Canada](https://www.itworldcanada.com/article/cyberattack-on-florida-water-treatment-plant-raises-alarms-in-canada/442088)
-- [Technicity West: Experts urge municipalities to participate in pilots and play nice with neighbours](https://www.itworldcanada.com/article/technicity-west-vendors-want-to-address-use-cases-not-the-nice-to-haves/442060)
-- [Technicity West panel dives deep into effective digital enablement](https://www.itworldcanada.com/article/technicity-west-digital-enablement-and-innovation-panel/441942)
-- [Technicity West: Citizen engagement a serious challenge for those without access](https://www.itworldcanada.com/article/accessibility-for-those-who-have-access-going-digital-a-double-edged-sword-for-municipalities/442013)
-- [Data loss, credential compromise up in phishing attacks in 2020, says vendor report](https://www.itworldcanada.com/article/data-loss-credential-compromise-up-in-phishing-attacks-in-2020-says-vendor-report/442082)
-- [SpaceX Starlink satellite internet now taking pre-orders in Canada](https://www.itworldcanada.com/article/spacex-starlink-satellite-internet-now-taking-pre-orders-in-canada/442101)
-- [Hashtag Trending – Tesla loves Bitcoin; Unionization at Amazon; Twitter’s verified users love fake news](https://www.itworldcanada.com/article/hashtag-trending-tesla-loves-bitcoin-unionization-at-amazon-twitters-verified-users-love-fake-news/442068)
-- [Government funded high-speed internet coming to rural Niagara region](https://www.itworldcanada.com/article/government-funded-high-speed-internet-coming-to-rural-niagara-region/442043)
-- [The rise of the fake commute, and why it’s good for your mental health – CNN](https://www.itworldcanada.com/post/the-rise-of-the-fake-commute-and-why-its-good-for-your-mental-health-cnn)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -18,7 +18,7 @@ jobs:
       - name: Install licensed
         run: |
           cd $RUNNER_TEMP
-          curl -Lfs -o licensed.tar.gz "https://github.com/github/licensed/archive/${LICENSED_VERSION}.tar.gz"
+          curl -Lfs -o licensed.tar.gz https://github.com/github/licensed/archive/${LICENSED_VERSION}.tar.gz
           sudo tar -xzf licensed.tar.gz
           sudo mv licensed /usr/local/bin/licensed
 

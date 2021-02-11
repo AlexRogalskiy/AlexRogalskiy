@@ -66,5 +66,6 @@ header: # `header` section is configurations for source codes license header.
     - '**/*.toml'
     - '**/*.svg'
     - '**/*.mustache'
+    - '**/*.js'
 
   comment: on-failure # on what condition license-eye will comment on the pull request, `on-failure`, `always`, `never`.

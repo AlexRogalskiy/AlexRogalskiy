@@ -1,0 +1,16 @@
+name: Graph charts
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  graph-charts:
+    name: Generate graph chart
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@master
+
+

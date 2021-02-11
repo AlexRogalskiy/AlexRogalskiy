@@ -63,6 +63,7 @@ header: # `header` section is configurations for source codes license header.
     - '**/*.yaml'
     - '**/*.yml'
     - '**/*.json'
+    - '**/*.toml'
     - '**/*.svg'
     - '**/*.mustache'
 

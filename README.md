@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Truth_will_out_942.php" target="_blank"><i>Truth will out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Any_port_in_a_storm_850.php" target="_blank"><i>Any port in a storm</i></a>
 <span> = </span>
-<span>In the end, what is true will come to be known. The truth always appears eventually, despite all efforts to hide it. It is impossible to keep something secret forever.</span>
+<span>In times of danger, any shelter is better than none. In an emergency, we have to accept whatever solution presents itself (for the time being).</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

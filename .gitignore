@@ -32,6 +32,7 @@ bin/
 tmp/
 build/*
 packages/
+coverage/
 target/
 log/
 site/

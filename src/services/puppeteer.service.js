@@ -17,9 +17,9 @@ class PuppeteerService {
         '--ignore-certifcate-errors-spki-list',
         '--incognito',
         '--proxy-server=http=194.67.37.90:3128',
-        '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"'
+        '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"',
       ],
-      headless: true
+      headless: true,
     });
   }
 
@@ -34,7 +34,7 @@ class PuppeteerService {
     });
 
     await this.#page.goto(url, {
-      waitUntil: `networkidle0`,
+      waitUntil: 'networkidle0',
     });
   }
 
@@ -53,13 +53,13 @@ class PuppeteerService {
     await this.goToPage(page);
 
     try {
-      let previousHeight = await this.#page.evaluate(`document.body.scrollHeight`);
-      await this.#page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+      let previousHeight = await this.#page.evaluate('document.body.scrollHeight');
+      await this.#page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
       await this.#page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
 
       const nodes = await this.#page.evaluate(() => {
-        const images = document.querySelectorAll(`.post-image`);
-        return [].map.call(images, img => [ { src: img.src, alt: img.alt } ]);
+        const images = document.querySelectorAll('.post-image');
+        return [].map.call(images, img => [{ src: img.src, alt: img.alt }]);
       });
 
       return nodes.slice(0, num);
@@ -79,13 +79,13 @@ class PuppeteerService {
     await this.goToPage(page);
 
     try {
-      let previousHeight = await this.#page.evaluate(`document.body.scrollHeight`);
-      await this.#page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+      let previousHeight = await this.#page.evaluate('document.body.scrollHeight');
+      await this.#page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
       await this.#page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
 
       const nodes = await this.#page.evaluate(() => {
-        const images = document.querySelectorAll(`.GrowthUnauthPinImage__Image`);
-        return [].map.call(images, img => [ { src: img.src, alt: img.alt } ]);
+        const images = document.querySelectorAll('.GrowthUnauthPinImage__Image');
+        return [].map.call(images, img => [{ src: img.src, alt: img.alt }]);
       });
 
       return nodes.slice(0, num);

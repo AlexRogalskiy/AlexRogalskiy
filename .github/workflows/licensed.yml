@@ -22,4 +22,5 @@ jobs:
           sudo tar -xzf licensed.tar.gz
           sudo mv licensed-${LICENSED_VERSION} /usr/local/bin/licensed
 
+      - name: Rune licensed
       - run: /usr/local/bin/licensed status

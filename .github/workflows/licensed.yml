@@ -17,9 +17,10 @@ jobs:
 
       - name: Install licensed
         run: |
-          cd $RUNNER_TEMP
+          cd ${{ runner.temp }}
           curl -Lfs -o licensed.tar.gz https://github.com/github/licensed/archive/2.14.4.tar.gz
           sudo tar -xzf licensed.tar.gz
-          sudo mv licensed /usr/local/bin/licensed
+          ls -la
+          sudo mv ${{ runner.temp }}/licensed /usr/local/bin/licensed
 
       - run: licensed status

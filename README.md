@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Colours/yellow_streak_380.php" target="_blank"><i>yellow streak</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/up_in_arms_364.php" target="_blank"><i>up in arms</i></a>
 <span> = </span>
-<span>If someone has a yellow streak, they can sometimes act in a cowardly way and not be very brave.</span>
+<span>If you are up in arms, you are angry about something that you think is unfair or wrong.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

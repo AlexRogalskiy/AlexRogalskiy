@@ -1,5 +1,5 @@
 sources:
-  npm: true
+  npm: false
 
 allowed:
   - apache-2.0

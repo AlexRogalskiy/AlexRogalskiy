@@ -1,9 +1,7 @@
 name: Graph charts
 
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
 
 jobs:
   graph-charts:
@@ -13,4 +11,35 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@master
 
+      - name: Graph charts
+        uses: alexrogalskiy/github-action-charts@master
+        with:
+          url: "https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/0.json"
+          name: "chart"
+          path: "images/generated"
+          width: 400
+          height: 400
 
+      - name: Prepare git config
+        run: |
+          git config --global core.autocrlf false
+          git config --global core.ignorecase false
+          git config --global help.autocorrect 1
+          git config --global core.fileMode false
+          git config --local user.email "github-actions@nullables.io"
+          git config --local user.name "GitHub Actions"
+
+      - name: Commit changeset
+        run: |
+          git add .
+          git commit -am "[nodoc] Update graph charts\n\nAdded graph charts files" || echo "No changes to commit"
+
+      - name: Pull changeset
+        run: |
+          git pull origin master
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

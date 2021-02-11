@@ -281,16 +281,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Disable Reddit’s “Open in App” Pop-Up](https://www.howtogeek.com/713115/how-to-disable-reddits-open-in-app-pop-up/)
-* [JLab's New Affordable USB-C Talk Series Microphones Start at $50](https://www.reviewgeek.com/70542/jlabs-new-affordable-usb-c-talk-series-microphones-start-at-50/)
-* [SLING TV Unlocks 100 Primetime Channels for Free Until Valentine's Day](https://www.reviewgeek.com/70533/sling-tv-unlocks-100-primetime-channels-for-free-until-valentines-day/)
-* [Amazon Has a Bunch of Deals on Fire and Echo Devices for Valentine's Day](https://www.reviewgeek.com/70517/amazon-has-a-bunch-of-deals-on-fire-and-echo-devices-for-valentines-day/)
-* [Zoom's New Face Filters Will Lighten Up Your Next Video Call](https://www.reviewgeek.com/70485/zooms-new-face-filters-will-lighten-up-your-next-video-call/)
-* ['Forza Horizon 4' is Coming to Steam, No Longer a Microsoft Store Exclusive](https://www.reviewgeek.com/70488/forza-horizon-4-is-coming-to-steam-no-longer-a-microsoft-store-exclusive/)
-* [How to Use 3D Facial Effects on Zoom](https://www.howtogeek.com/713042/how-to-use-3d-facial-effects-on-zoom/)
-* [Google Play Store vs. Google Store: What’s the Difference?](https://www.howtogeek.com/708991/google-play-store-vs.-google-store-whats-the-difference/)
-* ['Cyberpunk 2077' Game Developer Hacked and Blackmailed, Irony Lost on No One](https://www.reviewgeek.com/70483/cyberpunk-2077-game-developer-hacked-and-blackmailed-irony-lost-on-no-one/)
-* [Update Your New Chromecast to Fix Its Stupid Reboot Bug](https://www.reviewgeek.com/70481/update-your-new-chromecast-to-fix-its-stupid-reboot-bug/)
+* [Ring Doorbell Pro and Alexa Can Now Greet Your Visitors With Custom Messages](https://www.reviewgeek.com/70736/ring-doorbell-pro-and-alexa-can-now-greet-your-visitors-with-custom-messages/)
+* [You Can Send Music to Your Friends' Echos 👀](https://www.reviewgeek.com/70686/you-can-send-music-to-your-friends-echos-%f0%9f%91%80/)
+* [Amazon Prime Includes a Bunch of Free, Live TV Channels You May Not Know About](https://www.reviewgeek.com/69560/amazon-prime-includes-a-bunch-of-free-live-tv-channels-you-may-not-know-about/)
+* [Celebrate National Cheddar Day with Some Cheesy Kitchen Gear](https://www.lifesavvy.com/54252/celebrate-national-cheddar-day-with-some-cheesy-kitchen-gear/)
+* [OSU'S Swift Coding Courses Are Now Available Without College Enrollment](https://www.reviewgeek.com/70681/osus-swift-coding-courses-are-now-available-without-college-enrollment/)
+* [Ikea's Line of "Gamer Gear" is Clean and Minimal, No RGB In Sight](https://www.reviewgeek.com/70650/ikeas-line-of-gamer-gear-is-clean-and-minimal-no-rgb-in-sight/)
+* [Update Your Windows 10 Device Now to Patch a Critical Vulnerability](https://www.reviewgeek.com/70657/update-your-windows-10-device-now-to-patch-a-critical-vulnerability/)
+* [Satechi's Reversible USB-C Puck Charges Your Apple Watch or AirPods](https://www.reviewgeek.com/70651/satechis-reversible-usb-c-puck-charges-your-apple-watch-or-airpods/)
+* [How to Pause Family Bell Announcements From Google Assistant](https://www.howtogeek.com/710001/how-to-pause-family-bell-announcements-from-google-assistant/)
+* [How to Remove the Background From a Picture in Excel](https://www.howtogeek.com/707651/how-to-remove-the-background-from-a-picture-in-excel/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

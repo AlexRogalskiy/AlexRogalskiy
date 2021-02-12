@@ -180,33 +180,33 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/M/more_often_than_not_322.php" target="_blank"><i>more often than not</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/British/make_a_song_and_dance_about_something_664.php" target="_blank"><i>make a song and dance about something</i></a>
 <span> = </span>
-<span>If something happens more often than not, it happens quite often, but not all the time.</span>
+<span>If you make a song and dance about something, you make a big deal out of, or a fuss over, something that isn't very important.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/P/pickle_1342.php" target="_blank"><i>pickle</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/footy_1048.php" target="_blank"><i>footy</i></a>
 <span> = </span>
-<span>trouble, a difficult situation</span>
+<span>Australian Rules Football,  Aussie Rules Football</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/The_spirit_is_willing_but_the_flesh_is_weak_955.php" target="_blank"><i>The spirit is willing, but the flesh is weak</i></a>
 <span> = </span>
-<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
+<span>Even though we may want to say "No" to temptation (doing something bad), our body may be unable to resist it.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wait_up_2327.php" target="_blank"><i>wait up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/R/rub_off_2170.php" target="_blank"><i>rub off</i></a>
 <span> = </span>
-<span>If you wait up, you stay up late at night waiting for something or someone.</span>
+<span>If a quality someone has rubs off on other people, they start to show that quality as well.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 
@@ -215,10 +215,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d6&#x2F;80&#x2F;c1&#x2F;d680c165a9f6031236e6f1458fb1d9fe.jpg" alt="Today’s Word of the Day is brought to you by the sun and the moon. It’s lunisolar. Learn all about it at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;52&#x2F;93&#x2F;08&#x2F;529308f906fea2ad678e8bcab5264c11.jpg" alt="Galimatias is the Word of the Day. Got it? Learn how to say it at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0c&#x2F;e4&#x2F;86&#x2F;0ce486e795f9c0df220a941279222f5a.jpg" alt="Meritocracy has earned a place as our Word of the Day. Get example sentences and more at Dictionary.com! #English #Writing #Learn #Vocabulary #Spelling" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;67&#x2F;12&#x2F;ac&#x2F;6712acb65313c852a63915c351828152.jpg" alt="Are you up for some badinage? It&#39;s the Word of the Day. Learn how to say it and more at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8a&#x2F;d2&#x2F;58&#x2F;8ad258391b5e71bb0e7bfddb9d926cc4.jpg" alt="Today&#39;s #WordOfTheDay isn&#39;t splashy, but it is plashy. Click through to see where it comes from." />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -236,19 +236,23 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642840788622049280" target="_blank"><i>The Floating Poem</i></a></summary>
-<p>by Adrienne Rich</p><p>Whatever happens with us, your body<br/>
-	will haunt mine—tender, delicate<br/>
-	your lovemaking, like the half-curled frond<br/>
-	of the fiddlehead fern in forests<br/>
-	just washed by sun. Your traveled, generous thighs<br/>
-	between which my whole face has come and come—<br/>
-	the innocence and wisdom of the place my tongue has found there—<br/>
-	the live, insatiate dance of your nipples in my mouth—<br/>
-	your touch on me, firm, protective, searching<br/>
-	me out, your strong tongue and slender fingers<br/>
-	reaching where I had been waiting for years for you<br/>
-	in my rose-wet cave—whatever happens, this is.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/642941119815172096" target="_blank"><i>Everything</i></a></summary>
+<p>by Mary Oliver</p><p>I want to make poems that say right out, plainly<br/>
+what I mean, that don’t go looking for the<br/>
+laces of elaboration, puffed sleeves. I want to<br/>
+keep close and use often words like<br/>
+heavy, heart, joy, soon, and to cherish<br/>
+the question mark and her bold sister</p><p>the dash. I want to write with quiet hands. I<br/>
+want to write while crossing the fields that are<br/>
+fresh with daisies and everlasting and the<br/>
+ordinary grass. I want to make poems while thinking of<br/>
+the bread of heaven and the<br/>
+cup of astonishment; let them be</p><p>songs in which nothing is neglected,<br/>
+not a hope, not a promise. I want to make poems<br/>
+that look into the earth and the heavens<br/>
+and see the unseeable. I want them to honor<br/>
+both the heart of faith, and the light of the world;<br/>
+the gladness that says, without any words, everything.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -279,7 +283,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-15°C (<i>light snow</i>), humidity: 85%, pressure: 1028 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
+        <b>-17°C (<i>light snow</i>), humidity: 85%, pressure: 1028 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:44 am</b> and sets at <b>17:41 pm</b>.
     </p>
@@ -292,16 +296,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Android is Finally Getting Google Photos' Advanced Video Tools from iOS](https://www.reviewgeek.com/70822/android-is-finally-getting-google-photos-advanced-video-tools-from-ios/)
-* [Nest Hubs to Get Family Sticky Notes and Sunrise Alarms in Latest Update](https://www.reviewgeek.com/70824/nest-hubs-to-get-family-sticky-notes-and-sunrise-alarms-in-latest-update/)
-* [You're Not Imagining It---Allergy Season Has Gotten Longer](https://www.lifesavvy.com/56536/youre-not-imagining-it-allergy-season-has-gotten-longer/)
-* [United's Short-Range Electric Planes Will Take Off (Vertically) in 2024](https://www.reviewgeek.com/70809/uniteds-short-range-electric-planes-will-take-off-vertically-in-2024/)
-* [Controller Hog: Pigs Can Play Video Games, Says Peer-Reviewed Study](https://www.reviewgeek.com/70781/controller-hog-pigs-can-play-video-games-says-peer-review-study/)
-* [Quick! Grab the iPad Air for up to $60 off at Amazon While It Lasts](https://www.reviewgeek.com/70807/quick-grab-the-ipad-air-for-up-to-60-off-at-amazon-while-it-lasts/)
-* [How to Check if Your Android Device Is Certified](https://www.howtogeek.com/710940/how-to-check-if-your-android-device-is-certified/)
-* [7 Accessories to Cozy Up Your Kitchen](https://www.lifesavvy.com/55315/7-picks-to-help-cozy-up-your-kitchen/)
-* [How to Change Your Status in Microsoft Teams](https://www.howtogeek.com/708743/how-to-change-your-status-in-microsoft-teams/)
-* [How to Use Telegram Without Sharing Your Contacts](https://www.howtogeek.com/711226/how-to-use-telegram-without-sharing-your-contacts/)
+* [Why Your iPhone Says “COVID-19 Exposure Notifications Are Available”](https://www.howtogeek.com/713595/why-your-iphone-says-covid-19-exposure-notifications-are-available/)
+* [LG's Gram Laptops Weigh Less than The Money You'll Spend on It Today](https://www.reviewgeek.com/71003/lgs-gram-laptop-weighs-less-than-the-money-youll-spend-on-it-today/)
+* [The 7 Best Lap Desks for Working from the Couch](https://www.reviewgeek.com/70045/the-best-lap-desks-for-working-from-the-couch/)
+* [Apple Watches Might Detect COVID-19 up to a Week Early, a Study Suggests](https://www.reviewgeek.com/70988/a-study-suggests-apple-watches-might-detect-covid-19-up-to-a-week-early/)
+* [This Buy 2 Nest Audios and Save $30 Sale Is Music to Our Ears](https://www.reviewgeek.com/70996/this-buy-2-nest-audios-and-save-30-sale-is-music-to-our-ears/)
+* [Upgrade Your Bed with These 10 President's Day Mattress Sales](https://www.lifesavvy.com/56999/upgrade-your-bed-with-these-10-presidents-day-mattress-sales/)
+* [Just $20: Switch to Metro And Get a Motorola One 5G Ace for Dirt Cheap](https://www.reviewgeek.com/70976/just-20-switch-to-metro-and-get-a-motorola-one-5g-ace-for-dirt-cheap/)
+* [How to Start Google Maps in Satellite View](https://www.howtogeek.com/709185/how-to-start-google-maps-in-satellite-view/)
+* [The New PopMount Photo Is a Tripod Mount for Your PopGrip-Equipped Phone](https://www.reviewgeek.com/70968/the-new-popmount-photo-is-a-tripod-mount-for-your-popgrip-equipped-phone/)
+* [How to Split Data Into Multiple Columns in Excel](https://www.howtogeek.com/702520/how-to-split-data-into-multiple-columns-in-excel/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

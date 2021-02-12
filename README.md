@@ -352,6 +352,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple wants Safari in iOS to be your private browser](https://www.computerworld.com/article/3607368/apple-wants-safari-in-ios-to-be-your-private-browser.html#tk.rss_all)
+- [Android launchers are officially exciting again](https://www.computerworld.com/article/3606851/android-launchers.html#tk.rss_all)
+- [iGenius’ Crystal: An enterprise-class digital assistant at last?](https://www.computerworld.com/article/3607191/igenius-crystal-an-enterprise-class-digital-assistant-at-last.html#tk.rss_all)
 - [Windows 10 update (and retirement) calendar: Mark these dates](https://www.idginsiderpro.com/article/3234766/windows-10-update-and-retirement-calendar-mark-these-dates.html#tk.rss_all)
 - [BrandPost: Partnering for Success in the New Normal: Why IT Needs Help Protecting Remote Devices](https://www.computerworld.com/article/3607168/partnering-for-success-in-the-new-normal-why-it-needs-help-protecting-remote-devices.html#tk.rss_all)
 - [10 useful Mac tips for busy workers](https://www.computerworld.com/article/3606442/10-useful-mac-tips-for-busy-workers.html#tk.rss_all)
@@ -359,9 +362,6 @@
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [PowerPoint for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3606749/powerpoint-for-microsoft-365-cheat-sheet.html#tk.rss_all)
-- [PowerPoint for Microsoft 365 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3606832/powerpoint-for-microsoft-365-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
-- [Microsoft issues green light for Windows 10 2004. (But what's the point?)](https://www.computerworld.com/article/3606837/microsoft-issues-green-light-for-windows-10-2004-but-whats-the-point.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

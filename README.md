@@ -322,16 +322,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Two masks 'substantially reduce' exposure; Italy to reopen ski resorts](https://www.theguardian.com/world/live/2021/feb/11/coronavirus-live-news-two-masks-substantially-reduce-exposure-italy-to-reopen-ski-resorts)
-- [Australian Open 2021 day four: Ash Barty v Daria Gavrilova and more – live!](https://www.theguardian.com/sport/live/2021/feb/11/australian-open-2021-tennis-live-scores-day-four-ash-barty-tv-schedule-draw-results-fixtures-order-of-play-melbourne-park-coverage-latest-news-updates)
-- [New footage of Capitol riot shows Eugene Goodman rushing to save Mitt Romney – Trump impeachment live](https://www.theguardian.com/us-news/live/2021/feb/10/donald-trump-impeachment-senate-trial-live-news-updates)
-- [Jeep 'pauses' Springsteen Super Bowl ad after singer's drunken driving charge](https://www.theguardian.com/music/2021/feb/10/bruce-springsteen-drunk-driving-charge-new-jersey)
-- [Schitt’s Creek mansion put up for sale for $15m](https://www.theguardian.com/tv-and-radio/2021/feb/11/schitts-creek-mansion-put-up-for-sale-for-15m)
-- [England's Mako Vunipola 'good to go' against Italy in Six Nations after lay-off](https://www.theguardian.com/sport/2021/feb/11/england-mako-vunipola-italy-six-nations)
-- [Obesity bigger killer than smoking in England and Scotland – study](https://www.theguardian.com/society/2021/feb/11/obesity-bigger-killer-than-smoking-in-england-and-scotland-study)
-- [Larry Flynt, publisher of Hustler magazine, dies aged 78](https://www.theguardian.com/us-news/2021/feb/10/larry-flynt-publisher-of-hustler-magazine-dies-aged-78)
-- [Inquest hears Liam Treadwell died after taking cocktail of strong drugs](https://www.theguardian.com/sport/2021/feb/11/inquest-hears-liam-treadwell-died-after-taking-cocktail-of-strong-drugs)
-- [UK housing market slowed at start of year – survey](https://www.theguardian.com/society/2021/feb/11/uk-housing-market-slowed-at-start-of-year-survey)
+- [Ties with Myanmar military put pressure on western companies](https://www.theguardian.com/world/2021/feb/12/ties-with-myanmar-military-put-pressure-on-western-companies)
+- [Impeachment trial: Democrats rest case with warning that Trump remains a threat](https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate)
+- [British families ready to spend billions, says Bank of England man](https://www.theguardian.com/business/2021/feb/12/british-families-ready-to-spend-billions-says-bank-of-england-man)
+- [No need to quarantine after Covid contact if fully vaccinated, says CDC – as it happened](https://www.theguardian.com/world/live/2021/feb/11/coronavirus-live-news-two-masks-substantially-reduce-exposure-italy-to-reopen-ski-resorts)
+- [Britney Spears: judge denies father's request in hearing on conservatorship](https://www.theguardian.com/music/2021/feb/10/britney-spears-conservatorship-court-hearing-los-angeles)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/12/premier-league-10-things-to-look-out-for-this-weekend)
+- [Talking Horses: BHA decides against disqualifying jockey that placed bets](https://www.theguardian.com/sport/2021/feb/12/talking-horses-bha-decides-against-disqualifying-jockey-that-placed-bets)
+- [Hotline set up for gymnasts alleging abuse receives over 220 calls](https://www.theguardian.com/sport/2021/feb/12/hotline-set-up-for-gymnasts-alleging-abuse-receives-over-220-calls)
+- [Youngest pupils in England worst affected by Covid learning loss](https://www.theguardian.com/education/2021/feb/12/youngest-pupils-in-england-worst-affected-by-covid-learning-loss)
+- [Huawei to seek UK court order to access HSBC records in bid to clear CFO](https://www.theguardian.com/technology/2021/feb/12/huawei-to-seek-uk-court-order-to-access-hsbc-records-in-bid-to-clear-cfo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

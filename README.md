@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/janky_1302.php" target="_blank"><i>janky</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/P/pickle_1342.php" target="_blank"><i>pickle</i></a>
 <span> = </span>
-<span>poorly made, of low quality</span>
+<span>trouble, a difficult situation</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

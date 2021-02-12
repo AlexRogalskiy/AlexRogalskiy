@@ -51,9 +51,10 @@ jobs:
           key: ${{ runner.os }}-cargo-build-target-${{ hashFiles('**/Cargo.lock') }}
 
       - name: Build
-        uses: actions-rs/cargo@v1
-        with:
-          command: run --bin ${{ matrix.bin }}
+        # Replace "cargo build" to "cargo run" to run the script
+        run: |
+          cargo run --bin ${{ matrix.bin }}
+        shell: bash
 
       - name: Prepare git config
         run: |

@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wait_up_2327.php" target="_blank"><i>wait up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/R/rub_off_2170.php" target="_blank"><i>rub off</i></a>
 <span> = </span>
-<span>If you wait up, you stay up late at night waiting for something or someone.</span>
+<span>If a quality someone has rubs off on other people, they start to show that quality as well.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

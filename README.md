@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/The_spirit_is_willing_but_the_flesh_is_weak_955.php" target="_blank"><i>The spirit is willing, but the flesh is weak</i></a>
 <span> = </span>
-<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
+<span>Even though we may want to say "No" to temptation (doing something bad), our body may be unable to resist it.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

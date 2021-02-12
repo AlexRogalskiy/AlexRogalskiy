@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/P/pickle_1342.php" target="_blank"><i>pickle</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/footy_1048.php" target="_blank"><i>footy</i></a>
 <span> = </span>
-<span>trouble, a difficult situation</span>
+<span>Australian Rules Football,  Aussie Rules Football</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

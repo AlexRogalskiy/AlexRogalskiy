@@ -236,141 +236,19 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642759929943539712" target="_blank"><i>Afterimages</i></a></summary>
-<p>by Audre Lorde</p><p><i>I.</i><br/>
- However the image enters<br/>
- its force remains within<br/>
- my eyes<br/>
- rockstrewn caves where dragonfish evolve   <br/>
- wild for life, relentless and acquisitive   <br/>
- learning to survive<br/>
- where there is no food<br/>
- my eyes are always hungry<br/>
- and remembering<br/>
- however the image enters<br/>
- its force remains.<br/>
- A white woman stands bereft and empty<br/>
- a black boy hacked into a murderous lesson   <br/>
- recalled in me forever<br/>
- like a lurch of earth on the edge of sleep   <br/>
- etched into my visions<br/>
- food for dragonfish that learn<br/>
- to live upon whatever they must eat<br/>
- fused images beneath my pain.<br/><br/><i>II.</i><br/>
- The Pearl River floods through the streets of Jackson   <br/>
- A Mississippi summer televised.<br/>
- Trapped houses kneel like sinners in the rain<br/>
- a white woman climbs from her roof to a passing boat   <br/>
- her fingers tarry for a moment on the chimney   <br/>
- now awash<br/>
- tearless and no longer young, she holds   <br/>
- a tattered baby&rsquo;s blanket in her arms.<br/>
- In a flickering afterimage of the nightmare rain   <br/>
- a microphone<br/>
- thrust up against her flat bewildered words<br/>
- “we jest come from the bank yestiddy   <br/>
- borrowing money to pay the income tax   <br/>
- now everything&rsquo;s gone. I never knew   <br/>
- it could be so hard.”<br/>
- Despair weighs down her voice like Pearl River mud   <br/>
- caked around the edges<br/>
- her pale eyes scanning the camera for help or explanation<br/>
- unanswered<br/>
- she shifts her search across the watered street, dry-eyed   <br/>
- “hard, but not this hard.”<br/>
- Two tow-headed children hurl themselves against her   <br/>
- hanging upon her coat like mirrors<br/>
- until a man with ham-like hands pulls her aside   <br/>
- snarling “She ain&rsquo;t got nothing more to say!”<br/>
- and that lie hangs in his mouth<br/>
- like a shred of rotting meat.<br/><br/><i>III.</i><br/>
- I inherited Jackson, Mississippi.<br/>
- For my majority it gave me Emmett Till   <br/>
- his 15 years puffed out like bruises   <br/>
- on plump boy-cheeks<br/>
- his only Mississippi summer<br/>
- whistling a 21 gun salute to Dixie<br/>
- as a white girl passed him in the street   <br/>
- and he was baptized my son forever   <br/>
- in the midnight waters of the Pearl.<br/><br/>
- His broken body is the afterimage of my 21st year<br/>
- when I walked through a northern summer<br/>
- my eyes averted<br/>
- from each corner&rsquo;s photographies   <br/>
- newspapers protest posters magazines   <br/>
- Police Story, Confidential, True   <br/>
- the avid insistence of detail<br/>
- pretending insight or information<br/>
- the length of gash across the dead boy&rsquo;s loins<br/>
- his grieving mother&rsquo;s lamentation   <br/>
- the severed lips, how many burns   <br/>
- his gouged out eyes<br/>
- sewed shut upon the screaming covers   <br/>
- louder than life<br/>
- all over<br/>
- the veiled warning, the secret relish   <br/>
- of a black child&rsquo;s mutilated body   <br/>
- fingered by street-corner eyes   <br/>
- bruise upon livid bruise<br/>
- and wherever I looked that summer<br/>
- I learned to be at home with children&rsquo;s blood<br/>
- with savored violence<br/>
- with pictures of black broken flesh   <br/>
- used, crumpled, and discarded   <br/>
- lying amid the sidewalk refuse   <br/>
- like a raped woman&rsquo;s face.<br/><br/>
- A black boy from Chicago<br/>
- whistled on the streets of Jackson, Mississippi<br/>
- testing what he&rsquo;d been taught was a manly thing to do<br/>
- his teachers<br/>
- ripped his eyes out his sex his tongue<br/>
- and flung him to the Pearl weighted with stone<br/>
- in the name of white womanhood<br/>
- they took their aroused honor<br/>
- back to Jackson<br/>
- and celebrated in a whorehouse<br/>
- the double ritual of white manhood<br/>
- confirmed.<br/><br/><i>IV.</i><br/><i><small>“If earth and air and water do not judge them who are<br/></small><small>
- we to refuse a crust of bread?”</small></i><br/>
-       <br/>
- Emmett Till rides the crest of the Pearl, whistling<br/>
- 24 years his ghost lay like the shade of a raped woman   <br/>
- and a white girl has grown older in costly honor   <br/>
- (what did she pay to never know its price?)<br/>
- now the Pearl River speaks its muddy judgment   <br/>
- and I can withhold my pity and my bread.<br/><br/>
- “Hard, but not this hard.”<br/>
- Her face is flat with resignation and despair   <br/>
- with ancient and familiar sorrows<br/>
- a woman surveying her crumpled future<br/>
- as the white girl besmirched by Emmett&rsquo;s whistle   <br/>
- never allowed her own tongue<br/>
- without power or conclusion<br/>
- unvoiced<br/>
- she stands adrift in the ruins of her honor   <br/>
- and a man with an executioner&rsquo;s face<br/>
- pulls her away.<br/><br/>
- Within my eyes<br/>
- the flickering afterimages of a nightmare rain<br/>
- a woman wrings her hands<br/>
- beneath the weight of agonies remembered<br/>
- I wade through summer ghosts   <br/>
- betrayed by vision<br/>
- hers and my own<br/>
- becoming dragonfish to survive   <br/>
- the horrors we are living<br/>
- with tortured lungs<br/>
- adapting to breathe blood.<br/><br/>
- A woman measures her life&rsquo;s damage<br/>
- my eyes are caves, chunks of etched rock<br/>
- tied to the ghost of a black boy   <br/>
- whistling<br/>
- crying and frightened<br/>
- her tow-headed children cluster   <br/>
- like little mirrors of despair   <br/>
- their father&rsquo;s hands upon them   <br/>
- and soundlessly<br/>
- a woman begins to weep.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/642840788622049280" target="_blank"><i>The Floating Poem</i></a></summary>
+<p>by Adrienne Rich</p><p>Whatever happens with us, your body<br/>
+	will haunt mine—tender, delicate<br/>
+	your lovemaking, like the half-curled frond<br/>
+	of the fiddlehead fern in forests<br/>
+	just washed by sun. Your traveled, generous thighs<br/>
+	between which my whole face has come and come—<br/>
+	the innocence and wisdom of the place my tongue has found there—<br/>
+	the live, insatiate dance of your nipples in my mouth—<br/>
+	your touch on me, firm, protective, searching<br/>
+	me out, your strong tongue and slender fingers<br/>
+	reaching where I had been waiting for years for you<br/>
+	in my rose-wet cave—whatever happens, this is.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -307,16 +307,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tencent Executive Held by China over Links to Corruption Case](https://www.wsj.com/articles/tencent-executive-held-by-china-over-links-to-corruption-case-11613009016)
-- [Piercing the Fog: Observability Tools from the Future](https://www.infoq.com/articles/observability-tools-future/)
-- [Let's unclog the FDA and save lives](https://danelton.substack.com/p/lets-unclog-the-fda-and-save-lives)
-- [Parents eligible to receive $3k per child annually](https://reason.com/2021/02/10/have-kids-mitt-romney-and-joe-biden-want-the-government-to-pay-you-thousands-every-year/)
-- [ETL Speaker Series: Vlad Tenev, CEO of Robinhood](https://www.youtube.com/watch?v=aSYPc8xsLbU)
-- [VR helping treat fear of heights](https://nuadox.com/post/642786101323579392/vr-fear-of-heights-treatment)
-- [A free, open-source future for Mailspring](https://community.getmailspring.com/t/a-free-open-source-future-for-mailspring/484/2)
-- [Writing isn’t thinking. It’s a tool for thinking more effectively](https://inleaves.com/writing/)
-- [Bitcoin consumes more electricity than Argentina](https://www.bbc.com/news/technology-56012952)
-- [What Did the Old Telephone Network Sound Like? Overview of the Recordings](https://www.youtube.com/watch?v=eiQ2MwMdYPk)
+- [The perfect global grid system is impossible; HexGeoGrids.jl](https://evanfields.github.io/No-Perfect-Geo-Grid/)
+- [Rare NASA photos reveal Amazon 'gold rivers'](https://news.yahoo.com/rare-nasa-photos-reveal-amazon-170931547.html)
+- [Walker Evans](https://www.metmuseum.org/toah/hd/evan/hd_evan.htm)
+- [Integrating AI: Best Practices and Resources to Get Started](https://techcommunity.microsoft.com/t5/azure-ai/integrating-ai-best-practices-and-resources-to-get-started/ba-p/2115408?WT.mc_id=aiml-10397-ayyonet)
+- [Client must pay law firm £25,000 in libel damages for negative Trustpilot review](https://www.dailymail.co.uk/news/article-9235149/Client-pay-law-firm-25-000-libel-damages-negative-Trustpilot-review.html)
+- [Didaktik 8-Bit Computers](https://en.wikipedia.org/wiki/Didaktik)
+- [Microsoft calls on other countries to 'copy' Australian media bargaining code](https://www.abc.net.au/news/2021-02-12/microsoft-calls-on-countries-to-copy-media-bargaining-code/13147892)
+- [Celebrities trying to kill Dakota Pipeline are private jet users](https://www.foxnews.com/entertainment/celebrities-trying-to-kill-dakota-pipeline-jobs-often-flew-on-private-jets)
+- [Cuomo administration hid nursing home data to keep it from DOJ](https://www.foxnews.com/us/cuomo-aide-nursing-home-data-trump-doj)
+- [Creepy Tracking of Ubuntu Installs on Azure](https://www.theregister.com/2021/02/11/microsoft_azure_ubuntu_data_sharing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

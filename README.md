@@ -236,19 +236,23 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642840788622049280" target="_blank"><i>The Floating Poem</i></a></summary>
-<p>by Adrienne Rich</p><p>Whatever happens with us, your body<br/>
-	will haunt mine—tender, delicate<br/>
-	your lovemaking, like the half-curled frond<br/>
-	of the fiddlehead fern in forests<br/>
-	just washed by sun. Your traveled, generous thighs<br/>
-	between which my whole face has come and come—<br/>
-	the innocence and wisdom of the place my tongue has found there—<br/>
-	the live, insatiate dance of your nipples in my mouth—<br/>
-	your touch on me, firm, protective, searching<br/>
-	me out, your strong tongue and slender fingers<br/>
-	reaching where I had been waiting for years for you<br/>
-	in my rose-wet cave—whatever happens, this is.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/642941119815172096" target="_blank"><i>Everything</i></a></summary>
+<p>by Mary Oliver</p><p>I want to make poems that say right out, plainly<br/>
+what I mean, that don’t go looking for the<br/>
+laces of elaboration, puffed sleeves. I want to<br/>
+keep close and use often words like<br/>
+heavy, heart, joy, soon, and to cherish<br/>
+the question mark and her bold sister</p><p>the dash. I want to write with quiet hands. I<br/>
+want to write while crossing the fields that are<br/>
+fresh with daisies and everlasting and the<br/>
+ordinary grass. I want to make poems while thinking of<br/>
+the bread of heaven and the<br/>
+cup of astonishment; let them be</p><p>songs in which nothing is neglected,<br/>
+not a hope, not a promise. I want to make poems<br/>
+that look into the earth and the heavens<br/>
+and see the unseeable. I want them to honor<br/>
+both the heart of faith, and the light of the world;<br/>
+the gladness that says, without any words, everything.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

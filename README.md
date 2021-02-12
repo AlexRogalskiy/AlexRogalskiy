@@ -427,16 +427,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [What Canadian CIOs need to know in 2021](https://www.itworldcanada.com/blog/what-canadian-cios-need-to-know-in-2021/442325)
+- [Herjavec Group to be acquired by U.K.-based Apax Funds](https://www.itworldcanada.com/article/herjavec-group-to-be-acquired-by-u-k-based-apax-funds/442296)
+- [Skeptical about the model used for AI-derived recommendations? Here are the questions to ask](https://www.itworldcanada.com/blog/skeptical-about-the-model-used-for-ai-derived-recommendations-here-are-the-questions-to-ask/440951)
+- [What you need for responsible leadership and innovation in 2021 – a breakout year for leadership](https://www.itworldcanada.com/blog/what-you-need-for-responsible-leadership-and-innovation-in-2021-a-breakout-year-for-leadership/441431)
+- [Microsoft Surface Duo smartphone arrives in Canada](https://www.itworldcanada.com/article/microsoft-surface-duo-smartphone-arrives-in-canada/442293)
+- [IBM hands out $3M in cybersecurity funding for U.S. public schools](https://www.itworldcanada.com/article/ibm-hands-out-3m-in-cybersecurity-funding-for-u-s-public-schools/442196)
+- [Technicity West: A full recap in case you missed it](https://www.itworldcanada.com/article/technicity-west-a-full-recap-in-case-you-missed-it/442227)
+- [Hashtag Trending – Salesforce and the 9-5 workweek, Twitter and subscription models; Kitty lawyer mishap](https://www.itworldcanada.com/article/hashtag-trending-salesforce-and-the-9-5-workweek-twitter-and-subscription-models-kitty-lawyer-mishap/442284)
 - [Telesat contracts Thales Alenia Space to build satellite broadband](https://www.itworldcanada.com/article/telesat-contracts-thales-alenia-space-to-build-satellite-broadband/442221)
 - [Calgary Mayor Naheed Nenshi: Using tech to ‘make people’s lives better’ every day](https://www.itworldcanada.com/article/calgary-mayor-naheed-nenshi-using-tech-to-make-peoples-lives-better-every-day/442245)
-- [Former BlackBerry exec joins network security firm iboss](https://www.itworldcanada.com/article/former-blackberry-exec-joins-network-security-firm-iboss/442238)
-- [Prepared to pivot – tips from Surrey, B.C.](https://www.itworldcanada.com/article/prepared-to-pivot-tips-from-surrey-b-c/442212)
-- [Taking advantage of data in a changing economy: Edmonton, Alberta](https://www.itworldcanada.com/article/taking-advantage-of-data-in-a-changing-economy-edmonton-alberta/442205)
-- [Harnessing open data and IoT keys for growth, says Winnipeg mayor](https://www.itworldcanada.com/article/harnessing-open-data-and-iot-keys-for-growth-says-winnipeg-mayor/442195)
-- [Cyber Security Today – Phishing service taken down, phony COVID vaccination documents for sale, Linux hosting site forced to close and more](https://www.itworldcanada.com/article/cyber-security-today-phishing-service-taken-down-phony-covid-vaccination-documents-for-sale-linux-hosting-site-forced-to-close-and-more/442167)
-- [Hashtag Trending – Facebook expands false claims policy; Dogecoin skyrockets; AI picks apart Super Bowl ads](https://www.itworldcanada.com/article/hashtag-trending-facebook-expands-false-claims-policy-dogecoin-skyrockets-ai-picks-apart-super-bowl-ads/442188)
-- [Telus and Google Cloud ink 10-year collaboration deal](https://www.itworldcanada.com/article/telus-and-google-cloud-inks-10-year-collaboration-deal/442170)
-- [Cyberattack on Florida water treatment plant raises alarms in Canada](https://www.itworldcanada.com/article/cyberattack-on-florida-water-treatment-plant-raises-alarms-in-canada/442088)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

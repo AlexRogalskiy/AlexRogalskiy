@@ -215,10 +215,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d6&#x2F;80&#x2F;c1&#x2F;d680c165a9f6031236e6f1458fb1d9fe.jpg" alt="Today’s Word of the Day is brought to you by the sun and the moon. It’s lunisolar. Learn all about it at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;52&#x2F;93&#x2F;08&#x2F;529308f906fea2ad678e8bcab5264c11.jpg" alt="Galimatias is the Word of the Day. Got it? Learn how to say it at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0c&#x2F;e4&#x2F;86&#x2F;0ce486e795f9c0df220a941279222f5a.jpg" alt="Meritocracy has earned a place as our Word of the Day. Get example sentences and more at Dictionary.com! #English #Writing #Learn #Vocabulary #Spelling" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;67&#x2F;12&#x2F;ac&#x2F;6712acb65313c852a63915c351828152.jpg" alt="Are you up for some badinage? It&#39;s the Word of the Day. Learn how to say it and more at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8a&#x2F;d2&#x2F;58&#x2F;8ad258391b5e71bb0e7bfddb9d926cc4.jpg" alt="Today&#39;s #WordOfTheDay isn&#39;t splashy, but it is plashy. Click through to see where it comes from." />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -283,7 +283,7 @@ the gladness that says, without any words, everything.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-15°C (<i>light snow</i>), humidity: 85%, pressure: 1028 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
+        <b>-17°C (<i>light snow</i>), humidity: 85%, pressure: 1028 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:44 am</b> and sets at <b>17:41 pm</b>.
     </p>

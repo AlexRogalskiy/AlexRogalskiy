@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit changeset
         run: |
-          git diff --exit-code
+          git diff --exit-code .
           if (%ERRORLEVEL% EQU 1) (
             git add .
             git commit -am "[nodoc] Update graph charts\n\nAdded graph charts files"

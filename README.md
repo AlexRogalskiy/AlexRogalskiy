@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/T/talk_round_2390.php" target="_blank"><i>talk round</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wait_up_2327.php" target="_blank"><i>wait up</i></a>
 <span> = </span>
-<span>If you talk somebody round, you persuade them to do what you want them to do, or to agree with you.<BR></span>
+<span>If you wait up, you stay up late at night waiting for something or someone.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

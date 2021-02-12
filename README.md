@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/up_in_arms_364.php" target="_blank"><i>up in arms</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/M/more_often_than_not_322.php" target="_blank"><i>more often than not</i></a>
 <span> = </span>
-<span>If you are up in arms, you are angry about something that you think is unfair or wrong.</span>
+<span>If something happens more often than not, it happens quite often, but not all the time.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

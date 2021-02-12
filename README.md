@@ -397,16 +397,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Dating app users warned to watch out for scammers](https://www.computerweekly.com/news/252496156/Dating-app-users-warned-to-watch-out-for-scammers)
-- [Oracle fleshes out hybrid cloud and edge computing strategy with Roving Edge Infrastructure devices](https://www.computerweekly.com/news/252496146/Oracle-fleshes-out-hybrid-cloud-and-edge-computing-strategy-with-Roving-Edge-Infrastructure-devices)
-- [HelloKitty almost certainly behind CD Projekt ransomware attack](https://www.computerweekly.com/news/252496143/HelloKitty-almost-certainly-behind-CD-Projekt-ransomware-attack)
-- [Société Générale adopts work-from-home policy](https://www.computerweekly.com/news/252496149/Societe-Generale-adopts-work-from-home-policy)
-- [Disinformation and the US DNC emails leak controversy – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Disinformation-and-the-US-DNC-emails-leak-controversy-Computer-Weekly-Downtime-Upload-podcast)
-- [£2bn Zero Carbon Delivery Framework goes live to help public sector datacentres go green](https://www.computerweekly.com/news/252496131/2bn-Zero-Carbon-Delivery-Framework-goes-live-to-help-public-sector-datacentres-go-green)
-- [TCS to recruit 1,500 UK tech professionals this year](https://www.computerweekly.com/news/252496140/TCS-to-recruit-1500-UK-tech-professionals-this-year)
-- [Windows 10, Server 2019 users must patch serious zero-day](https://www.computerweekly.com/news/252496139/Windows-10-Server-2019-users-must-patch-serious-zero-day)
-- [Sim-swapping crooks targeted celebrities, influencers](https://www.computerweekly.com/news/252496135/Sim-swapping-crooks-targeted-celebrities-influencers)
-- [Tech sector calls for renewed cooperation in global digital tax talks](https://www.computerweekly.com/news/252496133/Tech-sector-calls-for-renewed-cooperation-in-global-digital-tax-talks)
+- [Benioff projects future of work onto Salesforce’s ‘Cloud 3.0’](https://www.computerweekly.com/news/252496221/Benioff-projects-future-of-work-onto-Salesforces-Cloud-30)
+- [Hacked Finnish therapy business collapses](https://www.computerweekly.com/news/252496227/Hacked-Finnish-therapy-business-collapses)
+- [Goldman Sachs reopens UK digital savings account](https://www.computerweekly.com/news/252496213/Goldman-Sachs-reopens-UK-digital-account)
+- [HPE on the ISS: In space, no one can hear your CPU fans](https://www.computerweekly.com/news/252496219/HPE-on-the-ISS-In-space-no-one-can-hear-your-CPU-fans)
+- [Low-complexity CVEs a growing concern](https://www.computerweekly.com/news/252496201/Low-complexity-CVEs-a-growing-concern)
+- [Future security stars shine in first round of CyberFirst Girls contest](https://www.computerweekly.com/news/252496207/Future-security-stars-shine-in-first-round-of-CyberFirst-Girls-contest)
+- [Is it time to ban ransomware insurance payments?](https://www.computerweekly.com/feature/Is-it-time-to-ban-ransomware-insurance-payments)
+- [Nordic states launch joint drone development initiative](https://www.computerweekly.com/news/252496204/Nordic-states-launch-joint-drone-development-initiative)
+- [Nationwide Building Society kicks off search for tech apprentices](https://www.computerweekly.com/news/252496199/Nationwide-Building-Society-kicks-off-search-for-tech-apprentices)
+- [CW Benelux: Is reluctance to report cyber crimes in the Netherlands helping the criminals get away?](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Is-reluctance-to-report-cyber-crimes-in-the-Netherlands-helping-the-criminals-get-away)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

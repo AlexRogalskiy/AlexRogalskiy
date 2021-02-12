@@ -382,16 +382,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Rust 1.50](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Angular 12 beta preview arrives](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Go language gets graph-based ORM](https://www.infoworld.com/article/3607188/entity-framework-for-go-golang-is-geared-to-data-models.html#tk.rss_all)
+- [Plot in R with echarts4r](https://www.infoworld.com/article/3607068/plot-in-r-with-echarts4r.html#tk.rss_all)
+- [Angular, React, Vue: JavaScript frameworks compared](https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html#tk.rss_all)
+- [Developing a Turing test for ethical AI](https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html#tk.rss_all)
 - [How to design AI into your applications](https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html#tk.rss_all)
 - [Use DirectML to add machine learning to C code](https://www.infoworld.com/article/3606736/use-directml-to-add-machine-learning-to-c-code.html#tk.rss_all)
 - [Speed up Python functions with memoization and lru_cache](https://www.infoworld.com/article/3606188/speed-up-python-functions-with-memoization-and-lrucache.html#tk.rss_all)
-- [Rust language moves to independent foundation](https://www.infoworld.com/article/3606774/rust-language-moves-to-independent-foundation.html#tk.rss_all)
-- [Should you care about quantum computing?](https://www.infoworld.com/article/3606573/should-you-care-about-quantum-computing.html#tk.rss_all)
-- [Java 17 proposal would enhance PRNGs](https://www.infoworld.com/article/3606833/java-17-proposal-would-enhance-prngs.html#tk.rss_all)
-- [Homebrew 3 brings Apple Silicon support](https://www.infoworld.com/article/3606748/homebrew-3-brings-apple-silicon-support.html#tk.rss_all)
-- [How to use implicit and explicit operators in C#](https://www.infoworld.com/article/3606436/how-to-use-implicit-and-explicit-operators-in-csharp.html#tk.rss_all)
-- [Hidden figures: 7 Black programmers you should know](https://www.infoworld.com/article/3606070/hidden-figures-7-black-programmers-you-should-know.html#tk.rss_all)
-- [7 best practices for remote development teams](https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

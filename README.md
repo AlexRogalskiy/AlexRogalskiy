@@ -180,17 +180,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/M/more_often_than_not_322.php" target="_blank"><i>more often than not</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/British/make_a_song_and_dance_about_something_664.php" target="_blank"><i>make a song and dance about something</i></a>
 <span> = </span>
-<span>If something happens more often than not, it happens quite often, but not all the time.</span>
+<span>If you make a song and dance about something, you make a big deal out of, or a fuss over, something that isn't very important.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/P/pickle_1342.php" target="_blank"><i>pickle</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/footy_1048.php" target="_blank"><i>footy</i></a>
 <span> = </span>
-<span>trouble, a difficult situation</span>
+<span>Australian Rules Football,  Aussie Rules Football</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -236,19 +236,23 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642840788622049280" target="_blank"><i>The Floating Poem</i></a></summary>
-<p>by Adrienne Rich</p><p>Whatever happens with us, your body<br/>
-	will haunt mine—tender, delicate<br/>
-	your lovemaking, like the half-curled frond<br/>
-	of the fiddlehead fern in forests<br/>
-	just washed by sun. Your traveled, generous thighs<br/>
-	between which my whole face has come and come—<br/>
-	the innocence and wisdom of the place my tongue has found there—<br/>
-	the live, insatiate dance of your nipples in my mouth—<br/>
-	your touch on me, firm, protective, searching<br/>
-	me out, your strong tongue and slender fingers<br/>
-	reaching where I had been waiting for years for you<br/>
-	in my rose-wet cave—whatever happens, this is.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/642941119815172096" target="_blank"><i>Everything</i></a></summary>
+<p>by Mary Oliver</p><p>I want to make poems that say right out, plainly<br/>
+what I mean, that don’t go looking for the<br/>
+laces of elaboration, puffed sleeves. I want to<br/>
+keep close and use often words like<br/>
+heavy, heart, joy, soon, and to cherish<br/>
+the question mark and her bold sister</p><p>the dash. I want to write with quiet hands. I<br/>
+want to write while crossing the fields that are<br/>
+fresh with daisies and everlasting and the<br/>
+ordinary grass. I want to make poems while thinking of<br/>
+the bread of heaven and the<br/>
+cup of astonishment; let them be</p><p>songs in which nothing is neglected,<br/>
+not a hope, not a promise. I want to make poems<br/>
+that look into the earth and the heavens<br/>
+and see the unseeable. I want them to honor<br/>
+both the heart of faith, and the light of the world;<br/>
+the gladness that says, without any words, everything.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -292,16 +296,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Android is Finally Getting Google Photos' Advanced Video Tools from iOS](https://www.reviewgeek.com/70822/android-is-finally-getting-google-photos-advanced-video-tools-from-ios/)
-* [Nest Hubs to Get Family Sticky Notes and Sunrise Alarms in Latest Update](https://www.reviewgeek.com/70824/nest-hubs-to-get-family-sticky-notes-and-sunrise-alarms-in-latest-update/)
-* [You're Not Imagining It---Allergy Season Has Gotten Longer](https://www.lifesavvy.com/56536/youre-not-imagining-it-allergy-season-has-gotten-longer/)
-* [United's Short-Range Electric Planes Will Take Off (Vertically) in 2024](https://www.reviewgeek.com/70809/uniteds-short-range-electric-planes-will-take-off-vertically-in-2024/)
-* [Controller Hog: Pigs Can Play Video Games, Says Peer-Reviewed Study](https://www.reviewgeek.com/70781/controller-hog-pigs-can-play-video-games-says-peer-review-study/)
-* [Quick! Grab the iPad Air for up to $60 off at Amazon While It Lasts](https://www.reviewgeek.com/70807/quick-grab-the-ipad-air-for-up-to-60-off-at-amazon-while-it-lasts/)
-* [How to Check if Your Android Device Is Certified](https://www.howtogeek.com/710940/how-to-check-if-your-android-device-is-certified/)
-* [7 Accessories to Cozy Up Your Kitchen](https://www.lifesavvy.com/55315/7-picks-to-help-cozy-up-your-kitchen/)
-* [How to Change Your Status in Microsoft Teams](https://www.howtogeek.com/708743/how-to-change-your-status-in-microsoft-teams/)
-* [How to Use Telegram Without Sharing Your Contacts](https://www.howtogeek.com/711226/how-to-use-telegram-without-sharing-your-contacts/)
+* [Why Your iPhone Says “COVID-19 Exposure Notifications Are Available”](https://www.howtogeek.com/713595/why-your-iphone-says-covid-19-exposure-notifications-are-available/)
+* [LG's Gram Laptops Weigh Less than The Money You'll Spend on It Today](https://www.reviewgeek.com/71003/lgs-gram-laptop-weighs-less-than-the-money-youll-spend-on-it-today/)
+* [The 7 Best Lap Desks for Working from the Couch](https://www.reviewgeek.com/70045/the-best-lap-desks-for-working-from-the-couch/)
+* [Apple Watches Might Detect COVID-19 up to a Week Early, a Study Suggests](https://www.reviewgeek.com/70988/a-study-suggests-apple-watches-might-detect-covid-19-up-to-a-week-early/)
+* [This Buy 2 Nest Audios and Save $30 Sale Is Music to Our Ears](https://www.reviewgeek.com/70996/this-buy-2-nest-audios-and-save-30-sale-is-music-to-our-ears/)
+* [Upgrade Your Bed with These 10 President's Day Mattress Sales](https://www.lifesavvy.com/56999/upgrade-your-bed-with-these-10-presidents-day-mattress-sales/)
+* [Just $20: Switch to Metro And Get a Motorola One 5G Ace for Dirt Cheap](https://www.reviewgeek.com/70976/just-20-switch-to-metro-and-get-a-motorola-one-5g-ace-for-dirt-cheap/)
+* [How to Start Google Maps in Satellite View](https://www.howtogeek.com/709185/how-to-start-google-maps-in-satellite-view/)
+* [The New PopMount Photo Is a Tripod Mount for Your PopGrip-Equipped Phone](https://www.reviewgeek.com/70968/the-new-popmount-photo-is-a-tripod-mount-for-your-popgrip-equipped-phone/)
+* [How to Split Data Into Multiple Columns in Excel](https://www.howtogeek.com/702520/how-to-split-data-into-multiple-columns-in-excel/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

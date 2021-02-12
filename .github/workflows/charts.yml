@@ -31,8 +31,11 @@ jobs:
 
       - name: Commit changeset
         run: |
-          git add .
-          git commit -am "[nodoc] Update graph charts\n\nAdded graph charts files" || echo "No changes to commit"
+          git diff --exit-code
+          if (%ERRORLEVEL% EQU 1) (
+            git add .
+            git commit -am "[nodoc] Update graph charts\n\nAdded graph charts files"
+          )
 
       - name: Pull changeset
         run: |

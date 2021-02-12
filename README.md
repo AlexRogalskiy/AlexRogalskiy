@@ -414,16 +414,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ring Doorbell Pro and Alexa Can Now Greet Your Visitors With Custom Messages](https://www.reviewgeek.com/70736/ring-doorbell-pro-and-alexa-can-now-greet-your-visitors-with-custom-messages/)
-* [You Can Send Music to Your Friends' Echos 👀](https://www.reviewgeek.com/70686/you-can-send-music-to-your-friends-echos-%f0%9f%91%80/)
-* [Amazon Prime Includes a Bunch of Free, Live TV Channels You May Not Know About](https://www.reviewgeek.com/69560/amazon-prime-includes-a-bunch-of-free-live-tv-channels-you-may-not-know-about/)
-* [Celebrate National Cheddar Day with Some Cheesy Kitchen Gear](https://www.lifesavvy.com/54252/celebrate-national-cheddar-day-with-some-cheesy-kitchen-gear/)
-* [OSU'S Swift Coding Courses Are Now Available Without College Enrollment](https://www.reviewgeek.com/70681/osus-swift-coding-courses-are-now-available-without-college-enrollment/)
-* [Ikea's Line of "Gamer Gear" is Clean and Minimal, No RGB In Sight](https://www.reviewgeek.com/70650/ikeas-line-of-gamer-gear-is-clean-and-minimal-no-rgb-in-sight/)
-* [Update Your Windows 10 Device Now to Patch a Critical Vulnerability](https://www.reviewgeek.com/70657/update-your-windows-10-device-now-to-patch-a-critical-vulnerability/)
-* [Satechi's Reversible USB-C Puck Charges Your Apple Watch or AirPods](https://www.reviewgeek.com/70651/satechis-reversible-usb-c-puck-charges-your-apple-watch-or-airpods/)
-* [How to Pause Family Bell Announcements From Google Assistant](https://www.howtogeek.com/710001/how-to-pause-family-bell-announcements-from-google-assistant/)
-* [How to Remove the Background From a Picture in Excel](https://www.howtogeek.com/707651/how-to-remove-the-background-from-a-picture-in-excel/)
+* [Android is Finally Getting Google Photos' Advanced Video Tools from iOS](https://www.reviewgeek.com/70822/android-is-finally-getting-google-photos-advanced-video-tools-from-ios/)
+* [Nest Hubs to Get Family Sticky Notes and Sunrise Alarms in Latest Update](https://www.reviewgeek.com/70824/nest-hubs-to-get-family-sticky-notes-and-sunrise-alarms-in-latest-update/)
+* [You're Not Imagining It---Allergy Season Has Gotten Longer](https://www.lifesavvy.com/56536/youre-not-imagining-it-allergy-season-has-gotten-longer/)
+* [United's Short-Range Electric Planes Will Take Off (Vertically) in 2024](https://www.reviewgeek.com/70809/uniteds-short-range-electric-planes-will-take-off-vertically-in-2024/)
+* [Controller Hog: Pigs Can Play Video Games, Says Peer-Reviewed Study](https://www.reviewgeek.com/70781/controller-hog-pigs-can-play-video-games-says-peer-review-study/)
+* [Quick! Grab the iPad Air for up to $60 off at Amazon While It Lasts](https://www.reviewgeek.com/70807/quick-grab-the-ipad-air-for-up-to-60-off-at-amazon-while-it-lasts/)
+* [How to Check if Your Android Device Is Certified](https://www.howtogeek.com/710940/how-to-check-if-your-android-device-is-certified/)
+* [7 Accessories to Cozy Up Your Kitchen](https://www.lifesavvy.com/55315/7-picks-to-help-cozy-up-your-kitchen/)
+* [How to Change Your Status in Microsoft Teams](https://www.howtogeek.com/708743/how-to-change-your-status-in-microsoft-teams/)
+* [How to Use Telegram Without Sharing Your Contacts](https://www.howtogeek.com/711226/how-to-use-telegram-without-sharing-your-contacts/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

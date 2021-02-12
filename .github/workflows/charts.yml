@@ -11,7 +11,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@master
 
-      - name: Graph charts
+      - name: Create graph charts
         uses: alexrogalskiy/github-action-charts@master
         with:
           url: "https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/0.json"

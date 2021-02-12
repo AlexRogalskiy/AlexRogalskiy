@@ -412,16 +412,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
+- [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
+- [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
+- [Linux Cert.](https://www.reddit.com/r/InformationTechnology/comments/lhpkng/linux_cert/)
+- [Network/IT Transition Questions](https://www.reddit.com/r/InformationTechnology/comments/lholty/networkit_transition_questions/)
+- [c++ project](https://www.reddit.com/r/InformationTechnology/comments/lhhy49/c_project/)
+- [Where do I Begin?](https://www.reddit.com/r/InformationTechnology/comments/lhhpud/where_do_i_begin/)
+- [Thinking about a career in IT](https://www.reddit.com/r/InformationTechnology/comments/lhf0b1/thinking_about_a_career_in_it/)
+- [Blocked](https://www.reddit.com/r/InformationTechnology/comments/lhcl3n/blocked/)
 - [How do you do it? - mini freakout](https://www.reddit.com/r/InformationTechnology/comments/lh6y9l/how_do_you_do_it_mini_freakout/)
-- [Need to find voltage/temperature logging software to run on my PC, that can log realtime readings to a file. Any recommendations?](https://www.reddit.com/r/InformationTechnology/comments/lh5hf3/need_to_find_voltagetemperature_logging_software/)
-- [Ruggedized or no](https://www.reddit.com/r/InformationTechnology/comments/lh58ef/ruggedized_or_no/)
-- [My first term at Western Governor's University for Network Operations and Security](https://www.reddit.com/r/InformationTechnology/comments/lgzali/my_first_term_at_western_governors_university_for/)
-- [Embedded Systems/Digital Controller where do I begin](https://www.reddit.com/r/InformationTechnology/comments/lgx99r/embedded_systemsdigital_controller_where_do_i/)
-- [Should I just go back?](https://www.reddit.com/r/InformationTechnology/comments/lgovm9/should_i_just_go_back/)
-- [Windows Antivirus doesn't allow machine drivers to be installed properly.](https://www.reddit.com/r/InformationTechnology/comments/lgkv86/windows_antivirus_doesnt_allow_machine_drivers_to/)
-- [Wsl2 vs HyperV](https://www.reddit.com/r/InformationTechnology/comments/lgk80t/wsl2_vs_hyperv/)
-- [Big Reference Source?](https://www.reddit.com/r/InformationTechnology/comments/lgh948/big_reference_source/)
-- [Any Successful Zero-Touch Deployments out there? (PC)](https://www.reddit.com/r/InformationTechnology/comments/lggwsd/any_successful_zerotouch_deployments_out_there_pc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

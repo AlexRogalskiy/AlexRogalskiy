@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Any_port_in_a_storm_850.php" target="_blank"><i>Any port in a storm</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
 <span> = </span>
-<span>In times of danger, any shelter is better than none. In an emergency, we have to accept whatever solution presents itself (for the time being).</span>
+<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

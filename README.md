@@ -401,6 +401,9 @@ the gladness that says, without any words, everything.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [University benefited from early virtual desktop investments when pandemic struck](https://www.computerweekly.com/news/252496279/University-benefited-from-early-virtual-desktop-investments-as-pandemic-struck)
+- [UK border surveillance regime highly privatised, says Privacy International](https://www.computerweekly.com/news/252496244/UK-border-surveillance-regime-highly-privatised-says-Privacy-International)
+- [Security Think Tank: Biden must address insider security threat first](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-must-address-insider-security-threat-first)
 - [Benioff projects future of work onto Salesforce’s ‘Cloud 3.0’](https://www.computerweekly.com/news/252496221/Benioff-projects-future-of-work-onto-Salesforces-Cloud-30)
 - [Hacked Finnish therapy business collapses](https://www.computerweekly.com/news/252496227/Hacked-Finnish-therapy-business-collapses)
 - [Goldman Sachs reopens UK digital savings account](https://www.computerweekly.com/news/252496213/Goldman-Sachs-reopens-UK-digital-account)
@@ -408,9 +411,6 @@ the gladness that says, without any words, everything.</p>
 - [Low-complexity CVEs a growing concern](https://www.computerweekly.com/news/252496201/Low-complexity-CVEs-a-growing-concern)
 - [Future security stars shine in first round of CyberFirst Girls contest](https://www.computerweekly.com/news/252496207/Future-security-stars-shine-in-first-round-of-CyberFirst-Girls-contest)
 - [Is it time to ban ransomware insurance payments?](https://www.computerweekly.com/feature/Is-it-time-to-ban-ransomware-insurance-payments)
-- [Nordic states launch joint drone development initiative](https://www.computerweekly.com/news/252496204/Nordic-states-launch-joint-drone-development-initiative)
-- [Nationwide Building Society kicks off search for tech apprentices](https://www.computerweekly.com/news/252496199/Nationwide-Building-Society-kicks-off-search-for-tech-apprentices)
-- [CW Benelux: Is reluctance to report cyber crimes in the Netherlands helping the criminals get away?](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Is-reluctance-to-report-cyber-crimes-in-the-Netherlands-helping-the-criminals-get-away)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

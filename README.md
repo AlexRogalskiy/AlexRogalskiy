@@ -446,11 +446,11 @@ the gladness that says, without any words, everything.</p>
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/105) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-2. 💪 Opened PR [#105](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/105) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-3. 🎉 Merged PR [#104](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/104) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-4. 🎉 Merged PR [#103](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/103) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
-5. 💪 Opened PR [#103](https://github.com/AlexRogalskiy/AlexRogalskiy/pull/103) in [AlexRogalskiy/AlexRogalskiy](https://github.com/AlexRogalskiy/AlexRogalskiy)
+1. 🎉 Merged PR [#7](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/7) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
+2. 🎉 Merged PR [#10](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/10) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
+3. 🎉 Merged PR [#16](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/16) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
+4. 🎉 Merged PR [#21](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/21) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
+5. ❗️ Closed issue [#1](https://github.com/AlexRogalskiy/github-action-branch-mapper/issues/1) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
 <!--END_SECTION:activity-->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/links.png" alt="Links icon" width="30px" height="30px" style="max-width:100%;"> _Links_

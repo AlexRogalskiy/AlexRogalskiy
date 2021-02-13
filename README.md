@@ -371,6 +371,8 @@ the gladness that says, without any words, everything.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Questions to Ask About DevOps Strategy On-Prem vs. the Cloud](https://www.informationweek.com/devops/questions-to-ask-about-devops-strategy-on-prem-vs-the-cloud/a/d-id/1340146?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Overcoming Digital Transformation Challenges With The Cloud](https://www.informationweek.com/cloud/overcoming-digital-transformation-challenges-with-the-cloud/a/d-id/1340118?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Exploring Diverse Talent to Fill Tech and Cybersecurity Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/exploring-diverse-talent-to-fill-tech-and-cybersecurity-jobs/d/d-id/1340128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Autonomous Businesses Next?](https://www.informationweek.com/big-data/ai-machine-learning/are-autonomous-businesses-next/a/d-id/1340111?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Microsoft Viva Heralds New Wave of Collaboration Tools](https://www.informationweek.com/software/productivity-collaboration-apps/microsoft-viva-heralds-new-wave-of-collaboration-tools/d/d-id/1340097?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -379,8 +381,6 @@ the gladness that says, without any words, everything.</p>
 - [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The 'It' Factors in IT Transformation](https://www.informationweek.com/strategic-cio/digital-business/the-it-factors-in-it-transformation/a/d-id/1340063?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Keep Machine Learning Steady and Balanced](https://www.informationweek.com/big-data/ai-machine-learning/how-to-keep-machine-learning-steady-and-balanced/a/d-id/1340067?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

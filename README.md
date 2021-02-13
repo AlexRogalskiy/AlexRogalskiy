@@ -416,16 +416,16 @@ the gladness that says, without any words, everything.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Former Black Hat?](https://www.reddit.com/r/InformationTechnology/comments/liorkz/former_black_hat/)
+- [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
+- [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
+- [Methods to study an any given technology in a standardized and methodical way?](https://www.reddit.com/r/InformationTechnology/comments/li5guq/methods_to_study_an_any_given_technology_in_a/)
 - [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
 - [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
 - [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
 - [Linux Cert.](https://www.reddit.com/r/InformationTechnology/comments/lhpkng/linux_cert/)
 - [Network/IT Transition Questions](https://www.reddit.com/r/InformationTechnology/comments/lholty/networkit_transition_questions/)
 - [c++ project](https://www.reddit.com/r/InformationTechnology/comments/lhhy49/c_project/)
-- [Where do I Begin?](https://www.reddit.com/r/InformationTechnology/comments/lhhpud/where_do_i_begin/)
-- [Thinking about a career in IT](https://www.reddit.com/r/InformationTechnology/comments/lhf0b1/thinking_about_a_career_in_it/)
-- [Blocked](https://www.reddit.com/r/InformationTechnology/comments/lhcl3n/blocked/)
-- [How do you do it? - mini freakout](https://www.reddit.com/r/InformationTechnology/comments/lh6y9l/how_do_you_do_it_mini_freakout/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

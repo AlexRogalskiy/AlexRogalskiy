@@ -326,16 +326,16 @@ the gladness that says, without any words, everything.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ties with Myanmar military put pressure on western companies](https://www.theguardian.com/world/2021/feb/12/ties-with-myanmar-military-put-pressure-on-western-companies)
-- [Impeachment trial: Democrats rest case with warning that Trump remains a threat](https://www.theguardian.com/us-news/2021/feb/11/trump-impeachment-trial-democrats-senate)
-- [British families ready to spend billions, says Bank of England man](https://www.theguardian.com/business/2021/feb/12/british-families-ready-to-spend-billions-says-bank-of-england-man)
-- [No need to quarantine after Covid contact if fully vaccinated, says CDC – as it happened](https://www.theguardian.com/world/live/2021/feb/11/coronavirus-live-news-two-masks-substantially-reduce-exposure-italy-to-reopen-ski-resorts)
-- [Britney Spears: judge denies father's request in hearing on conservatorship](https://www.theguardian.com/music/2021/feb/10/britney-spears-conservatorship-court-hearing-los-angeles)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/12/premier-league-10-things-to-look-out-for-this-weekend)
-- [Talking Horses: BHA decides against disqualifying jockey that placed bets](https://www.theguardian.com/sport/2021/feb/12/talking-horses-bha-decides-against-disqualifying-jockey-that-placed-bets)
-- [Hotline set up for gymnasts alleging abuse receives over 220 calls](https://www.theguardian.com/sport/2021/feb/12/hotline-set-up-for-gymnasts-alleging-abuse-receives-over-220-calls)
-- [Youngest pupils in England worst affected by Covid learning loss](https://www.theguardian.com/education/2021/feb/12/youngest-pupils-in-england-worst-affected-by-covid-learning-loss)
-- [Huawei to seek UK court order to access HSBC records in bid to clear CFO](https://www.theguardian.com/technology/2021/feb/12/huawei-to-seek-uk-court-order-to-access-hsbc-records-in-bid-to-clear-cfo)
+- [Coronavirus live news: WHO cautions against relaxing restrictions; Australian state of Victoria begins lockdown](https://www.theguardian.com/world/live/2021/feb/13/coronavirus-live-news-who-cautions-against-relaxing-restrictions-australian-state-of-victoria-braces-for-more-cases)
+- [Trump impeachment: defense wraps up, claiming free speech is at stake –as it happened](https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates)
+- [As KPMG’s boss has learned, caring about employees is now cool](https://www.theguardian.com/business/2021/feb/13/as-kpmgs-boss-has-learned-caring-about-employees-is-now-cool)
+- [Cambodia is turning the tide on looted statues, but some things cannot be returned | Ashley Thompson and Stephen Murphy](https://www.theguardian.com/commentisfree/2021/feb/13/cambodia-looted-statues-ancient-khmer-objects)
+- [British barrister Karim Khan elected ICC's new chief prosecutor](https://www.theguardian.com/law/2021/feb/12/karim-khan-international-criminal-court-prosecutor)
+- [Contraceptive pill could be sold over counter in UK first](https://www.theguardian.com/uk-news/2021/feb/12/contraceptive-pills-could-be-sold-over-counter-for-first-time-in-uk)
+- [Fight, fight, fight: Trump lawyers subject senators to repetitive strain | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/12/trump-impeachment-lawyers-fight-video-whataboutism)
+- [Mars, Nestlé and Hershey to face child slavery lawsuit in US](https://www.theguardian.com/global-development/2021/feb/12/mars-nestle-and-hershey-to-face-landmark-child-slavery-lawsuit-in-us)
+- [Gregg Wallace: Big Weekends Away review – TV's shoutiest tour guide](https://www.theguardian.com/tv-and-radio/2021/feb/12/gregg-wallace-big-weekends-away-review)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/12/20-photographs-of-the-week)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

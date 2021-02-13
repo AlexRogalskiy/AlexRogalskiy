@@ -356,16 +356,16 @@ the gladness that says, without any words, everything.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: How Regular Device Rotations Plus Support Plans Keep Users Productive and Thriving](https://www.computerworld.com/article/3607429/how-regular-device-rotations-plus-support-plans-keep-users-productive-and-thriving.html#tk.rss_all)
+- [What's not to love with this month’s Patch Tuesday?](https://www.computerworld.com/article/3607454/whats-not-to-love-with-this-months-patch-tuesday.html#tk.rss_all)
+- [Can Apple Watch boost your endpoint security?](https://www.computerworld.com/article/3607473/can-apple-watch-boost-your-endpoint-security.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Podcast: Worldwide chip shortage affects the iPhone 12; Apple Car rumors](https://www.computerworld.com/article/3607389/podcast-worldwide-chip-shortage-affects-the-iphone-12-apple-car-rumors.html#tk.rss_all)
 - [Apple wants Safari in iOS to be your private browser](https://www.computerworld.com/article/3607368/apple-wants-safari-in-ios-to-be-your-private-browser.html#tk.rss_all)
 - [Android launchers are officially exciting again](https://www.computerworld.com/article/3606851/android-launchers.html#tk.rss_all)
 - [iGenius’ Crystal: An enterprise-class digital assistant at last?](https://www.computerworld.com/article/3607191/igenius-crystal-an-enterprise-class-digital-assistant-at-last.html#tk.rss_all)
 - [Windows 10 update (and retirement) calendar: Mark these dates](https://www.idginsiderpro.com/article/3234766/windows-10-update-and-retirement-calendar-mark-these-dates.html#tk.rss_all)
 - [BrandPost: Partnering for Success in the New Normal: Why IT Needs Help Protecting Remote Devices](https://www.computerworld.com/article/3607168/partnering-for-success-in-the-new-normal-why-it-needs-help-protecting-remote-devices.html#tk.rss_all)
-- [10 useful Mac tips for busy workers](https://www.computerworld.com/article/3606442/10-useful-mac-tips-for-busy-workers.html#tk.rss_all)
-- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

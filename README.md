@@ -431,16 +431,16 @@ the gladness that says, without any words, everything.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Universities form alliance to address ‘atrociously small’ number of Indigenous and Black engineering faculty in Ontario](https://www.itworldcanada.com/article/universities-form-alliance-to-address-atrociously-small-number-of-indigenous-and-black-engineering-faculty/442134)
+- [Researcher says Florida water plant attack was ‘immature, rushed or unintentional’](https://www.itworldcanada.com/article/researcher-says-florida-water-plant-attack-was-immature-rushed-or-unintentional/442338)
+- [Cyber Security Today – Don’t be blue on Valentine’s Day, SIM-swapping gang broken, US can search devices without a warrant at the border](https://www.itworldcanada.com/article/cyber-security-today-dont-be-blue-on-valentines-day-sim-swapping-gang-broken-us-can-search-devices-without-a-warrant-at-its-border-and-more/442322)
+- [Hashtag Trending – Farmers hacking tractors; Bitcoin’s carbon footprint; Frustration over Uber Eats’ pay system](https://www.itworldcanada.com/article/hashtag-trending-farmers-hacking-tractors-bitcoins-carbon-footprint-frustration-over-uber-eats-pay-system/442326)
 - [What Canadian CIOs need to know in 2021](https://www.itworldcanada.com/blog/what-canadian-cios-need-to-know-in-2021/442325)
 - [Herjavec Group to be acquired by U.K.-based Apax Funds](https://www.itworldcanada.com/article/herjavec-group-to-be-acquired-by-u-k-based-apax-funds/442296)
 - [Skeptical about the model used for AI-derived recommendations? Here are the questions to ask](https://www.itworldcanada.com/blog/skeptical-about-the-model-used-for-ai-derived-recommendations-here-are-the-questions-to-ask/440951)
 - [What you need for responsible leadership and innovation in 2021 – a breakout year for leadership](https://www.itworldcanada.com/blog/what-you-need-for-responsible-leadership-and-innovation-in-2021-a-breakout-year-for-leadership/441431)
 - [Microsoft Surface Duo smartphone arrives in Canada](https://www.itworldcanada.com/article/microsoft-surface-duo-smartphone-arrives-in-canada/442293)
 - [IBM hands out $3M in cybersecurity funding for U.S. public schools](https://www.itworldcanada.com/article/ibm-hands-out-3m-in-cybersecurity-funding-for-u-s-public-schools/442196)
-- [Technicity West: A full recap in case you missed it](https://www.itworldcanada.com/article/technicity-west-a-full-recap-in-case-you-missed-it/442227)
-- [Hashtag Trending – Salesforce and the 9-5 workweek, Twitter and subscription models; Kitty lawyer mishap](https://www.itworldcanada.com/article/hashtag-trending-salesforce-and-the-9-5-workweek-twitter-and-subscription-models-kitty-lawyer-mishap/442284)
-- [Telesat contracts Thales Alenia Space to build satellite broadband](https://www.itworldcanada.com/article/telesat-contracts-thales-alenia-space-to-build-satellite-broadband/442221)
-- [Calgary Mayor Naheed Nenshi: Using tech to ‘make people’s lives better’ every day](https://www.itworldcanada.com/article/calgary-mayor-naheed-nenshi-using-tech-to-make-peoples-lives-better-every-day/442245)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

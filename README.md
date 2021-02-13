@@ -386,6 +386,9 @@ the gladness that says, without any words, everything.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
+- [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
+- [3 must-haves for your multicloud architecture](https://www.infoworld.com/article/3607193/3-must-haves-for-your-multicloud-architecture.html#tk.rss_all)
 - [What’s new in Rust 1.50](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Angular 12 beta preview arrives](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
@@ -393,9 +396,6 @@ the gladness that says, without any words, everything.</p>
 - [Plot in R with echarts4r](https://www.infoworld.com/article/3607068/plot-in-r-with-echarts4r.html#tk.rss_all)
 - [Angular, React, Vue: JavaScript frameworks compared](https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html#tk.rss_all)
 - [Developing a Turing test for ethical AI](https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html#tk.rss_all)
-- [How to design AI into your applications](https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html#tk.rss_all)
-- [Use DirectML to add machine learning to C code](https://www.infoworld.com/article/3606736/use-directml-to-add-machine-learning-to-c-code.html#tk.rss_all)
-- [Speed up Python functions with memoization and lru_cache](https://www.infoworld.com/article/3606188/speed-up-python-functions-with-memoization-and-lrucache.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

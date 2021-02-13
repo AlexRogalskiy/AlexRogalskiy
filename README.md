@@ -311,16 +311,16 @@ the gladness that says, without any words, everything.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The perfect global grid system is impossible; HexGeoGrids.jl](https://evanfields.github.io/No-Perfect-Geo-Grid/)
-- [Rare NASA photos reveal Amazon 'gold rivers'](https://news.yahoo.com/rare-nasa-photos-reveal-amazon-170931547.html)
-- [Walker Evans](https://www.metmuseum.org/toah/hd/evan/hd_evan.htm)
-- [Integrating AI: Best Practices and Resources to Get Started](https://techcommunity.microsoft.com/t5/azure-ai/integrating-ai-best-practices-and-resources-to-get-started/ba-p/2115408?WT.mc_id=aiml-10397-ayyonet)
-- [Client must pay law firm £25,000 in libel damages for negative Trustpilot review](https://www.dailymail.co.uk/news/article-9235149/Client-pay-law-firm-25-000-libel-damages-negative-Trustpilot-review.html)
-- [Didaktik 8-Bit Computers](https://en.wikipedia.org/wiki/Didaktik)
-- [Microsoft calls on other countries to 'copy' Australian media bargaining code](https://www.abc.net.au/news/2021-02-12/microsoft-calls-on-countries-to-copy-media-bargaining-code/13147892)
-- [Celebrities trying to kill Dakota Pipeline are private jet users](https://www.foxnews.com/entertainment/celebrities-trying-to-kill-dakota-pipeline-jobs-often-flew-on-private-jets)
-- [Cuomo administration hid nursing home data to keep it from DOJ](https://www.foxnews.com/us/cuomo-aide-nursing-home-data-trump-doj)
-- [Creepy Tracking of Ubuntu Installs on Azure](https://www.theregister.com/2021/02/11/microsoft_azure_ubuntu_data_sharing/)
+- [Bill Gates Says the Next Horrible Virus Could Be Engineered by Terrorists](https://futurism.com/bill-gates-next-virus-engineered-terrorists)
+- [DockLike, a beautiful and modern dock-like plugin for the XFCE panel](https://github.com/nsz32/docklike-plugin)
+- [Law of the Unconscious Statistician](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
+- [Tag-team reading of “In Search of Lost Time” to be completed in 2057](https://www.economist.com/books-and-arts/2021/02/06/a-tag-team-reading-of-in-search-of-lost-time)
+- [UMass Amherst Prohibits Students from Leaving Dorms for Walks](https://www.nbcboston.com/news/local/amid-covid-outbreak-umass-amherst-prohibits-students-from-leaving-dorms-for-walks/2299189/)
+- [hartmut esslinger's early apple computer and tablet designs](https://www.designboom.com/technology/hartmut-esslingers-early-apple-computer-and-tablet-designs/)
+- [Apple, Spotify, and the impossible problem of moderating shows](https://www.theverge.com/22273071/podcast-moderation-apple-spotify-podbean-steve-bannon)
+- [How much energy is the solar wind producing per area or volume?](https://physics.stackexchange.com/questions/614250/how-much-energy-per-area-or-volume-is-the-solar-wind-producing)
+- [How Simulations Work](http://www.anuncommonlab.com/articles/how-simulations-work/)
+- [Photo from Space Reveals ‘Gold Rivers’ Slicing Through the Amazon](https://petapixel.com/2021/02/12/photo-from-space-reveals-gold-rivers-slicing-through-the-amazon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

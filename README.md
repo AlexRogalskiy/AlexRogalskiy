@@ -341,16 +341,16 @@ the gladness that says, without any words, everything.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stanford archive to highlight Black histories of Silicon Valley](https://news.stanford.edu/2021/02/11/archiving-black-histories-silicon-valley/)
-- [Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?](https://docs.particubes.com/)
-- [Show HN: git-peek – git repo to local editor instantly](https://github.com/jarred-sumner/git-peek)
-- [Pravetz Computers](https://en.wikipedia.org/wiki/Pravetz_computers)
-- [Show HN: Sleepy Time Conference—conferences that comes together while you sleep](https://github.com/breck7/sleepytimeconference/blob/main/README.md)
-- [A reverse-engineered description of Adobe Type 1 fonts. (1989)](https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html)
-- [QuestDB (YC S20) is hiring C++ and columnar database programmers](https://questdb.io/careers/)
-- [Kubernetes Failure Stories](https://k8s.af)
-- [Tell HN: A case of negative SEO I caught on my service and how I dealt with it](https://news.ycombinator.com/item?id=26105890)
-- [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/)
+- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
+- [With 777 Kanji, 90% Coverage of Kanji in the Wild](https://japanesecomplete.com/777)
+- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
+- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
+- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
+- [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
+- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
+- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
+- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
+- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

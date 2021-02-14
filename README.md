@@ -180,17 +180,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/British/make_a_song_and_dance_about_something_664.php" target="_blank"><i>make a song and dance about something</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/F/friends_in_high_places_288.php" target="_blank"><i>friends in high places</i></a>
 <span> = </span>
-<span>If you make a song and dance about something, you make a big deal out of, or a fuss over, something that isn't very important.<BR></span>
+<span>If you have friends in high places, you know people in powerful positions in business or government.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/footy_1048.php" target="_blank"><i>footy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_3/meathead_1203.php" target="_blank"><i>meathead</i></a>
 <span> = </span>
-<span>Australian Rules Football,  Aussie Rules Football</span>
+<span>a stupid person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -236,23 +236,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642941119815172096" target="_blank"><i>Everything</i></a></summary>
-<p>by Mary Oliver</p><p>I want to make poems that say right out, plainly<br/>
-what I mean, that don’t go looking for the<br/>
-laces of elaboration, puffed sleeves. I want to<br/>
-keep close and use often words like<br/>
-heavy, heart, joy, soon, and to cherish<br/>
-the question mark and her bold sister</p><p>the dash. I want to write with quiet hands. I<br/>
-want to write while crossing the fields that are<br/>
-fresh with daisies and everlasting and the<br/>
-ordinary grass. I want to make poems while thinking of<br/>
-the bread of heaven and the<br/>
-cup of astonishment; let them be</p><p>songs in which nothing is neglected,<br/>
-not a hope, not a promise. I want to make poems<br/>
-that look into the earth and the heavens<br/>
-and see the unseeable. I want them to honor<br/>
-both the heart of faith, and the light of the world;<br/>
-the gladness that says, without any words, everything.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643031708520890368" target="_blank"><i>Swept</i></a></summary>
+<p>by Hayden Carruth</p><p>When we say I<br/>miss you what<br/>we mean is I’m<br/>filled with<br/><br/>dread. At night<br/>alone going<br/>to bed is<br/>like lying down<br/><br/>in a wave. Total<br/>absence of light.<br/>Swept away to<br/>gone.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -283,7 +268,7 @@ the gladness that says, without any words, everything.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-8°C (<i>snow</i>), humidity: 93%, pressure: 1020 (mbar), wind: /north-east/ 2 (m/s), cloudy: 75%</b>
+        <b>-8°C (<i>light snow</i>), humidity: 86%, pressure: 1019 (mbar), wind: /north-east/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:39 am</b> and sets at <b>17:46 pm</b>.
     </p>
@@ -296,61 +281,61 @@ the gladness that says, without any words, everything.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Why Your iPhone Says “COVID-19 Exposure Notifications Are Available”](https://www.howtogeek.com/713595/why-your-iphone-says-covid-19-exposure-notifications-are-available/)
-* [LG's Gram Laptops Weigh Less than The Money You'll Spend on It Today](https://www.reviewgeek.com/71003/lgs-gram-laptop-weighs-less-than-the-money-youll-spend-on-it-today/)
-* [The 7 Best Lap Desks for Working from the Couch](https://www.reviewgeek.com/70045/the-best-lap-desks-for-working-from-the-couch/)
-* [Apple Watches Might Detect COVID-19 up to a Week Early, a Study Suggests](https://www.reviewgeek.com/70988/a-study-suggests-apple-watches-might-detect-covid-19-up-to-a-week-early/)
-* [This Buy 2 Nest Audios and Save $30 Sale Is Music to Our Ears](https://www.reviewgeek.com/70996/this-buy-2-nest-audios-and-save-30-sale-is-music-to-our-ears/)
-* [Upgrade Your Bed with These 10 President's Day Mattress Sales](https://www.lifesavvy.com/56999/upgrade-your-bed-with-these-10-presidents-day-mattress-sales/)
-* [Just $20: Switch to Metro And Get a Motorola One 5G Ace for Dirt Cheap](https://www.reviewgeek.com/70976/just-20-switch-to-metro-and-get-a-motorola-one-5g-ace-for-dirt-cheap/)
-* [How to Start Google Maps in Satellite View](https://www.howtogeek.com/709185/how-to-start-google-maps-in-satellite-view/)
-* [The New PopMount Photo Is a Tripod Mount for Your PopGrip-Equipped Phone](https://www.reviewgeek.com/70968/the-new-popmount-photo-is-a-tripod-mount-for-your-popgrip-equipped-phone/)
-* [How to Split Data Into Multiple Columns in Excel](https://www.howtogeek.com/702520/how-to-split-data-into-multiple-columns-in-excel/)
+* [What We're Watching: 'Primal' is a Pure, Bloody Celebration of Animation](https://www.reviewgeek.com/70595/what-were-watching-primal-is-a-pure-bloody-celebration-of-animation/)
+* [Stock Up on Video Games with Best Buy's President's Day Sale](https://www.reviewgeek.com/71085/stock-up-on-video-games-with-best-buys-presidents-day-sale/)
+* [How to Make Safari Always Open Your Previous Tabs on Mac](https://www.howtogeek.com/710003/how-to-make-safari-always-open-your-previous-tabs-on-mac/)
+* [So Sue Me: dbrand Taunts Sony with Custom PS5 Plates You Can Buy](https://www.reviewgeek.com/71040/so-sue-me-dbrand-taunts-sony-with-custom-ps5-plates-you-can-buy/)
+* [How to View a List of All the Links You’ve Clicked on Instagram](https://www.howtogeek.com/707879/how-to-view-a-list-of-all-the-links-youve-clicked-on-instagram/)
+* [Hyundai's Tiger Rover Glides Across Rocks With Inspector Gadget Legs](https://www.reviewgeek.com/70944/hyundais-tiger-rover-glides-across-rocks-with-inspector-gadget-legs/)
+* [How to Download PS5 Games From Your Phone](https://www.howtogeek.com/711021/how-to-download-ps5-games-from-your-phone/)
+* [Raspberry Pi Finally Gets a Great Text Editor---From Microsoft](https://www.reviewgeek.com/71050/raspberry-pi-finally-gets-a-great-text-editor-from-microsoft/)
+* [How to Add an Expiration Date to Emails in Gmail](https://www.howtogeek.com/707667/how-to-add-an-expiration-date-to-emails-in-gmail/)
+* [How to Use Bangs in DuckDuckGo (to Search Other Websites)](https://www.howtogeek.com/711984/how-to-use-bangs-in-duckduckgo-to-search-other-websites/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill Gates Says the Next Horrible Virus Could Be Engineered by Terrorists](https://futurism.com/bill-gates-next-virus-engineered-terrorists)
-- [DockLike, a beautiful and modern dock-like plugin for the XFCE panel](https://github.com/nsz32/docklike-plugin)
-- [Law of the Unconscious Statistician](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
-- [Tag-team reading of “In Search of Lost Time” to be completed in 2057](https://www.economist.com/books-and-arts/2021/02/06/a-tag-team-reading-of-in-search-of-lost-time)
-- [UMass Amherst Prohibits Students from Leaving Dorms for Walks](https://www.nbcboston.com/news/local/amid-covid-outbreak-umass-amherst-prohibits-students-from-leaving-dorms-for-walks/2299189/)
-- [hartmut esslinger's early apple computer and tablet designs](https://www.designboom.com/technology/hartmut-esslingers-early-apple-computer-and-tablet-designs/)
-- [Apple, Spotify, and the impossible problem of moderating shows](https://www.theverge.com/22273071/podcast-moderation-apple-spotify-podbean-steve-bannon)
-- [How much energy is the solar wind producing per area or volume?](https://physics.stackexchange.com/questions/614250/how-much-energy-per-area-or-volume-is-the-solar-wind-producing)
-- [How Simulations Work](http://www.anuncommonlab.com/articles/how-simulations-work/)
-- [Photo from Space Reveals ‘Gold Rivers’ Slicing Through the Amazon](https://petapixel.com/2021/02/12/photo-from-space-reveals-gold-rivers-slicing-through-the-amazon/)
+- [Nvidia wants to buy CPU designer Arm–Qualcomm is not happy about it](https://arstechnica.com/gadgets/2021/02/nvidia-wants-to-buy-cpu-designer-arm-qualcomm-is-not-happy-about-it/)
+- [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
+- [Adam Curtis: Can't Get You Out of My Head (YouTube Channel)](https://www.youtube.com/watch?v=MHFrhIAj0ME)
+- [`mov` is Turing-complete [pdf]](http://stedolan.net/research/mov.pdf)
+- [Ask HN: What language would you code if you didn't need to make money?](https://news.ycombinator.com/item?id=26128959)
+- [Default to tabs instead of spaces for an 'accessible first' environment (2019)](https://alexandersandberg.com/tabs-for-accessibility/)
+- [Ask HN: Good Referral / Rewards Service?](https://news.ycombinator.com/item?id=26128909)
+- [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
+- [Cancel The New York Times](http://robrhinehart.com/the-new-york-times/)
+- [Show HN: Meme Captioning Discord Bot](https://memeprodiscord.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO cautions against relaxing restrictions; Australian state of Victoria begins lockdown](https://www.theguardian.com/world/live/2021/feb/13/coronavirus-live-news-who-cautions-against-relaxing-restrictions-australian-state-of-victoria-braces-for-more-cases)
-- [Trump impeachment: defense wraps up, claiming free speech is at stake –as it happened](https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates)
-- [As KPMG’s boss has learned, caring about employees is now cool](https://www.theguardian.com/business/2021/feb/13/as-kpmgs-boss-has-learned-caring-about-employees-is-now-cool)
-- [Cambodia is turning the tide on looted statues, but some things cannot be returned | Ashley Thompson and Stephen Murphy](https://www.theguardian.com/commentisfree/2021/feb/13/cambodia-looted-statues-ancient-khmer-objects)
-- [British barrister Karim Khan elected ICC's new chief prosecutor](https://www.theguardian.com/law/2021/feb/12/karim-khan-international-criminal-court-prosecutor)
-- [Contraceptive pill could be sold over counter in UK first](https://www.theguardian.com/uk-news/2021/feb/12/contraceptive-pills-could-be-sold-over-counter-for-first-time-in-uk)
-- [Fight, fight, fight: Trump lawyers subject senators to repetitive strain | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/12/trump-impeachment-lawyers-fight-video-whataboutism)
-- [Mars, Nestlé and Hershey to face child slavery lawsuit in US](https://www.theguardian.com/global-development/2021/feb/12/mars-nestle-and-hershey-to-face-landmark-child-slavery-lawsuit-in-us)
-- [Gregg Wallace: Big Weekends Away review – TV's shoutiest tour guide](https://www.theguardian.com/tv-and-radio/2021/feb/12/gregg-wallace-big-weekends-away-review)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/12/20-photographs-of-the-week)
+- [Coronavirus live: Victoria calls for quarantine rethink; New Zealand records three local cases](https://www.theguardian.com/world/live/2021/feb/14/coronavirus-live-victoria-calls-for-quarantine-rethink-venezuela-receives-sputnik-v-vaccine)
+- [Biden press aide TJ Ducklo resigns over 'abhorrent' remarks to female journalist](https://www.theguardian.com/us-news/2021/feb/14/biden-press-aide-tj-ducklo-resigns-over-abhorrent-remarks-to-female-journalist)
+- [Donald Trump acquitted in second impeachment trial](https://www.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial)
+- [Barclays boss hopes to avoid more stormy weather](https://www.theguardian.com/business/2021/feb/14/barclays-boss-hopes-to-avoid-more-stormy-weather)
+- [Hammersmith Bridge illuminated in Valentine's message to government](https://www.theguardian.com/uk-news/2021/feb/14/hammersmith-bridge-illuminated-red-in-valentines-message-to-government)
+- [Josh Warrington suffers shock knockout defeat to Mauricio Lara](https://www.theguardian.com/sport/2021/feb/13/josh-warrington-suffers-shock-knockout-defeat-to-mauricio-lara)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Simone Rocha at high street prices: in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/simone-rocha-at-high-street-prices-in-pictures)
+- [Senate Republicans stand by their man and Trump wins his second acquittal | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/13/trump-impeachment-trial-senate-republicans)
+- [Tory MPs tell Johnson to commit to lifting Covid restrictions by end of April](https://www.theguardian.com/world/2021/feb/13/tory-mps-tell-johnson-to-commit-to-lifting-covid-restrictions-by-end-of-april)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
-- [With 777 Kanji, 90% Coverage of Kanji in the Wild](https://japanesecomplete.com/777)
-- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
-- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
-- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
-- [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
-- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
-- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
-- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
-- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
+- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
+- [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
+- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
+- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
+- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
+- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
+- [Solving Magic Squares Using Backtracking](http://www.eurisko.us/solving-magic-squares-using-backtracking/)
+- [Comp.lang.c Google Group has been banned](https://groups.google.com/g/comp.lang.c)
+- [Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94](https://www.rupertneve.com/news/rupert-neve-1926-2021/)
+- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -416,6 +401,9 @@ the gladness that says, without any words, everything.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
+- [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
+- [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
 - [Former Black Hat?](https://www.reddit.com/r/InformationTechnology/comments/liorkz/former_black_hat/)
 - [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
 - [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
@@ -423,9 +411,6 @@ the gladness that says, without any words, everything.</p>
 - [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
 - [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
 - [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
-- [Linux Cert.](https://www.reddit.com/r/InformationTechnology/comments/lhpkng/linux_cert/)
-- [Network/IT Transition Questions](https://www.reddit.com/r/InformationTechnology/comments/lholty/networkit_transition_questions/)
-- [c++ project](https://www.reddit.com/r/InformationTechnology/comments/lhhy49/c_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

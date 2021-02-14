@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/The_spirit_is_willing_but_the_flesh_is_weak_955.php" target="_blank"><i>The spirit is willing, but the flesh is weak</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Talk_of_the_Devil_and_he_is_bound_to_appear_938.php" target="_blank"><i>Talk of the Devil, and he is bound to appear</i></a>
 <span> = </span>
-<span>Even though we may want to say "No" to temptation (doing something bad), our body may be unable to resist it.</span>
+<span>1. Speaking about the Devil may invite him to come. 2. We often say "Talk of the devil!" (or "Speak of the devil!") when somebody that we have just been speaking about suddenly appears.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

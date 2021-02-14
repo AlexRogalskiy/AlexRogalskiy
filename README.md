@@ -341,16 +341,16 @@ the gladness that says, without any words, everything.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
-- [With 777 Kanji, 90% Coverage of Kanji in the Wild](https://japanesecomplete.com/777)
-- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
-- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
-- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
-- [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
-- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
-- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
-- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
-- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
+- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
+- [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
+- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
+- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
+- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
+- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
+- [Solving Magic Squares Using Backtracking](http://www.eurisko.us/solving-magic-squares-using-backtracking/)
+- [Comp.lang.c Google Group has been banned](https://groups.google.com/g/comp.lang.c)
+- [Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94](https://www.rupertneve.com/news/rupert-neve-1926-2021/)
+- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/British/make_a_song_and_dance_about_something_664.php" target="_blank"><i>make a song and dance about something</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/F/friends_in_high_places_288.php" target="_blank"><i>friends in high places</i></a>
 <span> = </span>
-<span>If you make a song and dance about something, you make a big deal out of, or a fuss over, something that isn't very important.<BR></span>
+<span>If you have friends in high places, you know people in powerful positions in business or government.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

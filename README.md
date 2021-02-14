@@ -416,6 +416,9 @@ the gladness that says, without any words, everything.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
+- [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
+- [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
 - [Former Black Hat?](https://www.reddit.com/r/InformationTechnology/comments/liorkz/former_black_hat/)
 - [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
 - [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
@@ -423,9 +426,6 @@ the gladness that says, without any words, everything.</p>
 - [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
 - [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
 - [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
-- [Linux Cert.](https://www.reddit.com/r/InformationTechnology/comments/lhpkng/linux_cert/)
-- [Network/IT Transition Questions](https://www.reddit.com/r/InformationTechnology/comments/lholty/networkit_transition_questions/)
-- [c++ project](https://www.reddit.com/r/InformationTechnology/comments/lhhy49/c_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

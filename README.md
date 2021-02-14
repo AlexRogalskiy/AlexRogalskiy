@@ -296,16 +296,16 @@ the gladness that says, without any words, everything.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Why Your iPhone Says “COVID-19 Exposure Notifications Are Available”](https://www.howtogeek.com/713595/why-your-iphone-says-covid-19-exposure-notifications-are-available/)
-* [LG's Gram Laptops Weigh Less than The Money You'll Spend on It Today](https://www.reviewgeek.com/71003/lgs-gram-laptop-weighs-less-than-the-money-youll-spend-on-it-today/)
-* [The 7 Best Lap Desks for Working from the Couch](https://www.reviewgeek.com/70045/the-best-lap-desks-for-working-from-the-couch/)
-* [Apple Watches Might Detect COVID-19 up to a Week Early, a Study Suggests](https://www.reviewgeek.com/70988/a-study-suggests-apple-watches-might-detect-covid-19-up-to-a-week-early/)
-* [This Buy 2 Nest Audios and Save $30 Sale Is Music to Our Ears](https://www.reviewgeek.com/70996/this-buy-2-nest-audios-and-save-30-sale-is-music-to-our-ears/)
-* [Upgrade Your Bed with These 10 President's Day Mattress Sales](https://www.lifesavvy.com/56999/upgrade-your-bed-with-these-10-presidents-day-mattress-sales/)
-* [Just $20: Switch to Metro And Get a Motorola One 5G Ace for Dirt Cheap](https://www.reviewgeek.com/70976/just-20-switch-to-metro-and-get-a-motorola-one-5g-ace-for-dirt-cheap/)
-* [How to Start Google Maps in Satellite View](https://www.howtogeek.com/709185/how-to-start-google-maps-in-satellite-view/)
-* [The New PopMount Photo Is a Tripod Mount for Your PopGrip-Equipped Phone](https://www.reviewgeek.com/70968/the-new-popmount-photo-is-a-tripod-mount-for-your-popgrip-equipped-phone/)
-* [How to Split Data Into Multiple Columns in Excel](https://www.howtogeek.com/702520/how-to-split-data-into-multiple-columns-in-excel/)
+* [What We're Watching: 'Primal' is a Pure, Bloody Celebration of Animation](https://www.reviewgeek.com/70595/what-were-watching-primal-is-a-pure-bloody-celebration-of-animation/)
+* [Stock Up on Video Games with Best Buy's President's Day Sale](https://www.reviewgeek.com/71085/stock-up-on-video-games-with-best-buys-presidents-day-sale/)
+* [How to Make Safari Always Open Your Previous Tabs on Mac](https://www.howtogeek.com/710003/how-to-make-safari-always-open-your-previous-tabs-on-mac/)
+* [So Sue Me: dbrand Taunts Sony with Custom PS5 Plates You Can Buy](https://www.reviewgeek.com/71040/so-sue-me-dbrand-taunts-sony-with-custom-ps5-plates-you-can-buy/)
+* [How to View a List of All the Links You’ve Clicked on Instagram](https://www.howtogeek.com/707879/how-to-view-a-list-of-all-the-links-youve-clicked-on-instagram/)
+* [Hyundai's Tiger Rover Glides Across Rocks With Inspector Gadget Legs](https://www.reviewgeek.com/70944/hyundais-tiger-rover-glides-across-rocks-with-inspector-gadget-legs/)
+* [How to Download PS5 Games From Your Phone](https://www.howtogeek.com/711021/how-to-download-ps5-games-from-your-phone/)
+* [Raspberry Pi Finally Gets a Great Text Editor---From Microsoft](https://www.reviewgeek.com/71050/raspberry-pi-finally-gets-a-great-text-editor-from-microsoft/)
+* [How to Add an Expiration Date to Emails in Gmail](https://www.howtogeek.com/707667/how-to-add-an-expiration-date-to-emails-in-gmail/)
+* [How to Use Bangs in DuckDuckGo (to Search Other Websites)](https://www.howtogeek.com/711984/how-to-use-bangs-in-duckduckgo-to-search-other-websites/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/footy_1048.php" target="_blank"><i>footy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_3/meathead_1203.php" target="_blank"><i>meathead</i></a>
 <span> = </span>
-<span>Australian Rules Football,  Aussie Rules Football</span>
+<span>a stupid person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

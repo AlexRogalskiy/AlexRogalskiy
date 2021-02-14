@@ -311,16 +311,16 @@ the gladness that says, without any words, everything.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill Gates Says the Next Horrible Virus Could Be Engineered by Terrorists](https://futurism.com/bill-gates-next-virus-engineered-terrorists)
-- [DockLike, a beautiful and modern dock-like plugin for the XFCE panel](https://github.com/nsz32/docklike-plugin)
-- [Law of the Unconscious Statistician](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
-- [Tag-team reading of “In Search of Lost Time” to be completed in 2057](https://www.economist.com/books-and-arts/2021/02/06/a-tag-team-reading-of-in-search-of-lost-time)
-- [UMass Amherst Prohibits Students from Leaving Dorms for Walks](https://www.nbcboston.com/news/local/amid-covid-outbreak-umass-amherst-prohibits-students-from-leaving-dorms-for-walks/2299189/)
-- [hartmut esslinger's early apple computer and tablet designs](https://www.designboom.com/technology/hartmut-esslingers-early-apple-computer-and-tablet-designs/)
-- [Apple, Spotify, and the impossible problem of moderating shows](https://www.theverge.com/22273071/podcast-moderation-apple-spotify-podbean-steve-bannon)
-- [How much energy is the solar wind producing per area or volume?](https://physics.stackexchange.com/questions/614250/how-much-energy-per-area-or-volume-is-the-solar-wind-producing)
-- [How Simulations Work](http://www.anuncommonlab.com/articles/how-simulations-work/)
-- [Photo from Space Reveals ‘Gold Rivers’ Slicing Through the Amazon](https://petapixel.com/2021/02/12/photo-from-space-reveals-gold-rivers-slicing-through-the-amazon/)
+- [Nvidia wants to buy CPU designer Arm–Qualcomm is not happy about it](https://arstechnica.com/gadgets/2021/02/nvidia-wants-to-buy-cpu-designer-arm-qualcomm-is-not-happy-about-it/)
+- [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
+- [Adam Curtis: Can't Get You Out of My Head (YouTube Channel)](https://www.youtube.com/watch?v=MHFrhIAj0ME)
+- [`mov` is Turing-complete [pdf]](http://stedolan.net/research/mov.pdf)
+- [Ask HN: What language would you code if you didn't need to make money?](https://news.ycombinator.com/item?id=26128959)
+- [Default to tabs instead of spaces for an 'accessible first' environment (2019)](https://alexandersandberg.com/tabs-for-accessibility/)
+- [Ask HN: Good Referral / Rewards Service?](https://news.ycombinator.com/item?id=26128909)
+- [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
+- [Cancel The New York Times](http://robrhinehart.com/the-new-york-times/)
+- [Show HN: Meme Captioning Discord Bot](https://memeprodiscord.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

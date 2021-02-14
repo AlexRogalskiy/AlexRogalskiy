@@ -236,23 +236,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/642941119815172096" target="_blank"><i>Everything</i></a></summary>
-<p>by Mary Oliver</p><p>I want to make poems that say right out, plainly<br/>
-what I mean, that don’t go looking for the<br/>
-laces of elaboration, puffed sleeves. I want to<br/>
-keep close and use often words like<br/>
-heavy, heart, joy, soon, and to cherish<br/>
-the question mark and her bold sister</p><p>the dash. I want to write with quiet hands. I<br/>
-want to write while crossing the fields that are<br/>
-fresh with daisies and everlasting and the<br/>
-ordinary grass. I want to make poems while thinking of<br/>
-the bread of heaven and the<br/>
-cup of astonishment; let them be</p><p>songs in which nothing is neglected,<br/>
-not a hope, not a promise. I want to make poems<br/>
-that look into the earth and the heavens<br/>
-and see the unseeable. I want them to honor<br/>
-both the heart of faith, and the light of the world;<br/>
-the gladness that says, without any words, everything.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643031708520890368" target="_blank"><i>Swept</i></a></summary>
+<p>by Hayden Carruth</p><p>When we say I<br/>miss you what<br/>we mean is I’m<br/>filled with<br/><br/>dread. At night<br/>alone going<br/>to bed is<br/>like lying down<br/><br/>in a wave. Total<br/>absence of light.<br/>Swept away to<br/>gone.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

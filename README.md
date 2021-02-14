@@ -326,16 +326,16 @@ the gladness that says, without any words, everything.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO cautions against relaxing restrictions; Australian state of Victoria begins lockdown](https://www.theguardian.com/world/live/2021/feb/13/coronavirus-live-news-who-cautions-against-relaxing-restrictions-australian-state-of-victoria-braces-for-more-cases)
-- [Trump impeachment: defense wraps up, claiming free speech is at stake –as it happened](https://www.theguardian.com/us-news/live/2021/feb/12/donald-trump-impeachment-senate-trial-defense-lwayer-republican-senators-coronavirus-covid-live-updates)
-- [As KPMG’s boss has learned, caring about employees is now cool](https://www.theguardian.com/business/2021/feb/13/as-kpmgs-boss-has-learned-caring-about-employees-is-now-cool)
-- [Cambodia is turning the tide on looted statues, but some things cannot be returned | Ashley Thompson and Stephen Murphy](https://www.theguardian.com/commentisfree/2021/feb/13/cambodia-looted-statues-ancient-khmer-objects)
-- [British barrister Karim Khan elected ICC's new chief prosecutor](https://www.theguardian.com/law/2021/feb/12/karim-khan-international-criminal-court-prosecutor)
-- [Contraceptive pill could be sold over counter in UK first](https://www.theguardian.com/uk-news/2021/feb/12/contraceptive-pills-could-be-sold-over-counter-for-first-time-in-uk)
-- [Fight, fight, fight: Trump lawyers subject senators to repetitive strain | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/12/trump-impeachment-lawyers-fight-video-whataboutism)
-- [Mars, Nestlé and Hershey to face child slavery lawsuit in US](https://www.theguardian.com/global-development/2021/feb/12/mars-nestle-and-hershey-to-face-landmark-child-slavery-lawsuit-in-us)
-- [Gregg Wallace: Big Weekends Away review – TV's shoutiest tour guide](https://www.theguardian.com/tv-and-radio/2021/feb/12/gregg-wallace-big-weekends-away-review)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/12/20-photographs-of-the-week)
+- [Coronavirus live: Victoria calls for quarantine rethink; New Zealand records three local cases](https://www.theguardian.com/world/live/2021/feb/14/coronavirus-live-victoria-calls-for-quarantine-rethink-venezuela-receives-sputnik-v-vaccine)
+- [Biden press aide TJ Ducklo resigns over 'abhorrent' remarks to female journalist](https://www.theguardian.com/us-news/2021/feb/14/biden-press-aide-tj-ducklo-resigns-over-abhorrent-remarks-to-female-journalist)
+- [Donald Trump acquitted in second impeachment trial](https://www.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial)
+- [Barclays boss hopes to avoid more stormy weather](https://www.theguardian.com/business/2021/feb/14/barclays-boss-hopes-to-avoid-more-stormy-weather)
+- [Hammersmith Bridge illuminated in Valentine's message to government](https://www.theguardian.com/uk-news/2021/feb/14/hammersmith-bridge-illuminated-red-in-valentines-message-to-government)
+- [Josh Warrington suffers shock knockout defeat to Mauricio Lara](https://www.theguardian.com/sport/2021/feb/13/josh-warrington-suffers-shock-knockout-defeat-to-mauricio-lara)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Simone Rocha at high street prices: in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/simone-rocha-at-high-street-prices-in-pictures)
+- [Senate Republicans stand by their man and Trump wins his second acquittal | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/13/trump-impeachment-trial-senate-republicans)
+- [Tory MPs tell Johnson to commit to lifting Covid restrictions by end of April](https://www.theguardian.com/world/2021/feb/13/tory-mps-tell-johnson-to-commit-to-lifting-covid-restrictions-by-end-of-april)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/R/rub_off_2170.php" target="_blank"><i>rub off</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/H/hand_over_1854.php" target="_blank"><i>hand over</i></a>
 <span> = </span>
-<span>If a quality someone has rubs off on other people, they start to show that quality as well.</span>
+<span>If you hand something over, you give it to someone who has demanded it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

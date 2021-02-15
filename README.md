@@ -345,16 +345,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
-- [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
-- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
-- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
-- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
-- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
-- [Solving Magic Squares Using Backtracking](http://www.eurisko.us/solving-magic-squares-using-backtracking/)
-- [Comp.lang.c Google Group has been banned](https://groups.google.com/g/comp.lang.c)
-- [Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94](https://www.rupertneve.com/news/rupert-neve-1926-2021/)
-- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
+- [The Hazards of Asset Allocation in a Late-Stage Major Bubble](https://www.gmo.com/americas/research-library/waiting-for-the-last-dance/)
+- [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
+- [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
+- [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
+- [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
+- [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
+- [Journalism, particularly at the highest level, is about raw power](https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php)
+- [What ever happened to scandium bike frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
+- [A second look at "no code" tools (2019)](https://webflow.com/blog/no-code-is-a-lie)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

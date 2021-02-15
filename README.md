@@ -420,6 +420,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with monitoring Mac while in different room, without surpassing internet data cap.](https://www.reddit.com/r/InformationTechnology/comments/lk1u69/help_with_monitoring_mac_while_in_different_room/)
+- [Today I came accross a blogspot that defined DALL-E, an AI which is developed by OPEN AI.](https://www.reddit.com/r/InformationTechnology/comments/ljtbf0/today_i_came_accross_a_blogspot_that_defined/)
+- [Trends in IT vs. Emerging Technologies in IT](https://www.reddit.com/r/InformationTechnology/comments/ljfh0f/trends_in_it_vs_emerging_technologies_in_it/)
 - [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
 - [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
 - [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
@@ -427,9 +430,6 @@
 - [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
 - [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
 - [Methods to study an any given technology in a standardized and methodical way?](https://www.reddit.com/r/InformationTechnology/comments/li5guq/methods_to_study_an_any_given_technology_in_a/)
-- [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
-- [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
-- [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

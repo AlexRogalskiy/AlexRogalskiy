@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/F/friends_in_high_places_288.php" target="_blank"><i>friends in high places</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/deep_pockets_616.php" target="_blank"><i>deep pockets</i></a>
 <span> = </span>
-<span>If you have friends in high places, you know people in powerful positions in business or government.</span>
+<span>You can say a person or an organisation has deep pockets if they have lots of money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_3/meathead_1203.php" target="_blank"><i>meathead</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/H/hairy_1177.php" target="_blank"><i>hairy</i></a>
 <span> = </span>
-<span>a stupid person</span>
+<span>dangerous, risky, scary</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

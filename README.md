@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Talk_of_the_Devil_and_he_is_bound_to_appear_938.php" target="_blank"><i>Talk of the Devil, and he is bound to appear</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Rags_to_rags_in_three_generations_585.php" target="_blank"><i>Rags to rags in three generations</i></a>
 <span> = </span>
-<span>1. Speaking about the Devil may invite him to come. 2. We often say "Talk of the devil!" (or "Speak of the devil!") when somebody that we have just been speaking about suddenly appears.</span>
+<span>The first generation in a family makes money (goes from rags to riches); the second generation holds or keeps the money; and the third generation squanders or loses the money (and so goes back to rags).</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

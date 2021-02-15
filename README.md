@@ -330,16 +330,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: Victoria calls for quarantine rethink; New Zealand records three local cases](https://www.theguardian.com/world/live/2021/feb/14/coronavirus-live-victoria-calls-for-quarantine-rethink-venezuela-receives-sputnik-v-vaccine)
-- [Biden press aide TJ Ducklo resigns over 'abhorrent' remarks to female journalist](https://www.theguardian.com/us-news/2021/feb/14/biden-press-aide-tj-ducklo-resigns-over-abhorrent-remarks-to-female-journalist)
-- [Donald Trump acquitted in second impeachment trial](https://www.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial)
-- [Barclays boss hopes to avoid more stormy weather](https://www.theguardian.com/business/2021/feb/14/barclays-boss-hopes-to-avoid-more-stormy-weather)
-- [Hammersmith Bridge illuminated in Valentine's message to government](https://www.theguardian.com/uk-news/2021/feb/14/hammersmith-bridge-illuminated-red-in-valentines-message-to-government)
-- [Josh Warrington suffers shock knockout defeat to Mauricio Lara](https://www.theguardian.com/sport/2021/feb/13/josh-warrington-suffers-shock-knockout-defeat-to-mauricio-lara)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Simone Rocha at high street prices: in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/simone-rocha-at-high-street-prices-in-pictures)
-- [Senate Republicans stand by their man and Trump wins his second acquittal | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/13/trump-impeachment-trial-senate-republicans)
-- [Tory MPs tell Johnson to commit to lifting Covid restrictions by end of April](https://www.theguardian.com/world/2021/feb/13/tory-mps-tell-johnson-to-commit-to-lifting-covid-restrictions-by-end-of-april)
+- [Coronavirus live news: UK variant hits New Zealand; CDC says 'absolutely' too soon to lift US mask mandate](https://www.theguardian.com/world/live/2021/feb/15/coronavirus-live-news-uk-variant-reaches-new-zealand-absolutely-too-soon-to-lift-us-mask-mandate-says-cdc-chief)
+- [Bill Gates: ‘Carbon neutrality in a decade is a fairytale. Why peddle fantasies?’](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
+- [Clubhouse app: what is it and how do you get an invite to the audio app Elon Musk uses?](https://www.theguardian.com/technology/2021/feb/15/clubhouse-app-invite-what-is-it-how-to-get-audio-chat-elon-musk)
+- [Catalonia election poll suggests separatists will retain majority](https://www.theguardian.com/world/2021/feb/14/catalonia-regional-election-covid-voting)
+- [Johnson should repay north of England voters with private investment – report](https://www.theguardian.com/uk-news/2021/feb/15/johnson-should-repay-north-of-england-voters-with-private-investment-report)
+- [Father of missing chef Claudia Lawrence dies at 74](https://www.theguardian.com/uk-news/2021/feb/15/father-of-missing-chef-claudia-lawrence-dies-at-74)
+- [BBC aims to lift the Covid blues with festival of comedy](https://www.theguardian.com/tv-and-radio/2021/feb/15/bbc-aims-to-lift-the-covid-blues-with-festival-of-comedy)
+- [MPs urge government to spell out economic and health impacts of easing lockdown](https://www.theguardian.com/world/2021/feb/15/mps-urge-government-to-spell-out-economic-and-health-impacts-of-easing-lockdown)
+- [Demand for detached houses rose in Covid lockdown, says Halifax](https://www.theguardian.com/business/2021/feb/15/demand-for-detached-houses-rose-in-covid-lockdown-says-halifax)
+- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/blog/2021/feb/15/premier-league-10-talking-points-from-the-weekends-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

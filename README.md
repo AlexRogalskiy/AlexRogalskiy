@@ -281,16 +281,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'Primal' is a Pure, Bloody Celebration of Animation](https://www.reviewgeek.com/70595/what-were-watching-primal-is-a-pure-bloody-celebration-of-animation/)
-* [Stock Up on Video Games with Best Buy's President's Day Sale](https://www.reviewgeek.com/71085/stock-up-on-video-games-with-best-buys-presidents-day-sale/)
-* [How to Make Safari Always Open Your Previous Tabs on Mac](https://www.howtogeek.com/710003/how-to-make-safari-always-open-your-previous-tabs-on-mac/)
-* [So Sue Me: dbrand Taunts Sony with Custom PS5 Plates You Can Buy](https://www.reviewgeek.com/71040/so-sue-me-dbrand-taunts-sony-with-custom-ps5-plates-you-can-buy/)
-* [How to View a List of All the Links You’ve Clicked on Instagram](https://www.howtogeek.com/707879/how-to-view-a-list-of-all-the-links-youve-clicked-on-instagram/)
-* [Hyundai's Tiger Rover Glides Across Rocks With Inspector Gadget Legs](https://www.reviewgeek.com/70944/hyundais-tiger-rover-glides-across-rocks-with-inspector-gadget-legs/)
-* [How to Download PS5 Games From Your Phone](https://www.howtogeek.com/711021/how-to-download-ps5-games-from-your-phone/)
-* [Raspberry Pi Finally Gets a Great Text Editor---From Microsoft](https://www.reviewgeek.com/71050/raspberry-pi-finally-gets-a-great-text-editor-from-microsoft/)
-* [How to Add an Expiration Date to Emails in Gmail](https://www.howtogeek.com/707667/how-to-add-an-expiration-date-to-emails-in-gmail/)
-* [How to Use Bangs in DuckDuckGo (to Search Other Websites)](https://www.howtogeek.com/711984/how-to-use-bangs-in-duckduckgo-to-search-other-websites/)
+* [Are You Brave Enough to Eat 3D-Printed Steak?](https://www.reviewgeek.com/71012/are-you-brave-enough-to-eat-3d-printed-steak/)
+* [Elon Musk Wants the Tesla Roadster to Hover, Hopefully without Killing You](https://www.reviewgeek.com/71093/elon-musk-wants-the-tesla-roadster-to-hover-hopefully-without-killing-you/)
+* [How to Mute Your Google Smart Speaker or Display’s Microphone](https://www.howtogeek.com/710764/how-to-mute-your-google-smart-speaker-or-displays-microphone/)
+* [NASA and Fitbit Partner Up to Catch COVID-19 Cases Early](https://www.reviewgeek.com/70940/nasa-and-fitbit-partner-up-to-catch-covid-19-cases-early/)
+* [How to Reduce Twitter Data Usage on iPhone and Android](https://www.howtogeek.com/709647/how-to-reduce-twitter-data-usage-on-iphone-and-android/)
+* [Hackers Stole $100 Million in Cryptocurrency Using SIM Card Spoofs](https://www.reviewgeek.com/71060/hackers-stole-100-million-in-cryptocurrency-using-sim-card-spoofs/)
+* [How to Change Your TikTok Username](https://www.howtogeek.com/712850/how-to-change-your-tiktok-username/)
+* [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://www.howtogeek.com/708768/how-to-create-and-insert-a-pyramid-in-microsoft-powerpoint/)
+* [This $300 Limited-Edition 'Super Mario' Switch Is Both Red and Rad](https://www.reviewgeek.com/71001/this-300-limited-edition-super-mario-switch-is-both-red-and-rad/)
+* [The 10 Best Rom-Coms to Stream This Valentine’s Day](https://www.howtogeek.com/712812/the-10-best-rom-coms-to-stream-this-valentines-day/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

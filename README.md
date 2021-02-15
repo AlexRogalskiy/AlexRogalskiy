@@ -315,16 +315,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia wants to buy CPU designer Arm–Qualcomm is not happy about it](https://arstechnica.com/gadgets/2021/02/nvidia-wants-to-buy-cpu-designer-arm-qualcomm-is-not-happy-about-it/)
-- [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
-- [Adam Curtis: Can't Get You Out of My Head (YouTube Channel)](https://www.youtube.com/watch?v=MHFrhIAj0ME)
-- [`mov` is Turing-complete [pdf]](http://stedolan.net/research/mov.pdf)
-- [Ask HN: What language would you code if you didn't need to make money?](https://news.ycombinator.com/item?id=26128959)
-- [Default to tabs instead of spaces for an 'accessible first' environment (2019)](https://alexandersandberg.com/tabs-for-accessibility/)
-- [Ask HN: Good Referral / Rewards Service?](https://news.ycombinator.com/item?id=26128909)
-- [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
-- [Cancel The New York Times](http://robrhinehart.com/the-new-york-times/)
-- [Show HN: Meme Captioning Discord Bot](https://memeprodiscord.github.io/)
+- [Amanda Gorman and the Rise of the Poet Propagandist](https://safetypropaganda.substack.com/p/amanda-gorman-and-the-rise-of-the)
+- ['Carbon neutrality in a decade is a fairytale. Why peddle fantasies?'](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
+- [Step by Step Spring Batch Tutorial](https://betterjavacode.com/spring-boot/step-by-step-spring-batch-tutorial)
+- [The Future of Nuclear Arms Control?](https://theconsequentialist.wordpress.com/2021/02/15/the-future-of-nuclear-arms-control/)
+- [How the Hell Do You Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
+- [Python Pattern Matching Tutorial](https://github.com/gvanrossum/patma/blob/master/README.md#tutorial)
+- [Good Ideas, Through the Looking Glass (PDF, 2005)](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
+- [The spot price for electricity in Texas is currently about $9000 per MW-hr](https://twitter.com/The92ers/status/1361119791831015424)
+- [Hype Man of the Century – Justin Sun](https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china)
+- [The Bombhole Era](https://taibbi.substack.com/p/the-bombhole-era-0cb)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

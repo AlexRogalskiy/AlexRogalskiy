@@ -236,8 +236,27 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643031708520890368" target="_blank"><i>Swept</i></a></summary>
-<p>by Hayden Carruth</p><p>When we say I<br/>miss you what<br/>we mean is I’m<br/>filled with<br/><br/>dread. At night<br/>alone going<br/>to bed is<br/>like lying down<br/><br/>in a wave. Total<br/>absence of light.<br/>Swept away to<br/>gone.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643121700937023488" target="_blank"><i>At a Window</i></a></summary>
+<p>by Carl Sandburg</p><p>Give me hunger, 
+<br/>O you gods that sit and give 
+<br/>The world its orders. 
+<br/>Give me hunger, pain and want, 
+<br/>Shut me out with shame and failure 
+<br/>From your doors of gold and fame, 
+<br/>Give me your shabbiest, weariest hunger! 
+<br/><br/>But leave me a little love, 
+<br/>A voice to speak to me in the day end, 
+<br/>A hand to touch me in the dark room 
+<br/>Breaking the long loneliness. 
+<br/>In the dusk of day-shapes 
+<br/>Blurring the sunset, 
+<br/>One little wandering, western star 
+<br/>Thrust out from the changing shores of shadow. 
+<br/>Let me go to the window, 
+<br/>Watch there the day-shapes of dusk 
+<br/>And wait and know the coming 
+<br/>Of a little love.
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -247,10 +266,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;149452498_517618395867197_15563957671134042_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;xnlOESqCBXYAX8iDom7&amp;tp&#x3D;1&amp;oh&#x3D;c54bb1057638a3060f82d820c7621bf6&amp;oe&#x3D;602A9111" alt="МЫ ЗНАЕМ КУДА СХОДИТЬ😉  ❤️День святого Валентина❤️- особенный праздник для влюбленных и у @planetarium.1 есть космические идеи как можно порадовать вашего любимого землянина 🛸   🎶 МУЗЫКА ДЛЯ ВЛЮБЛЁННЫХ в Планетарии 1  💕LOVE STORY в Люмьер-Холле   👩‍❤️‍💋‍👨СВИДАНИЕ НА КАТКЕ   Так что бегом за билетами в @planetarium.1 к 14 февраля🪐   Будьте счастливы, любите и будьте любимы💙ваш #visitpetersburg   #местаспб #кудасходитьспб #питер #спб #stpetersburg #saintpetersburg #космос" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;148747661_182711320308015_3706897904265001456_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;LihZ01amjooAX9V0Sbo&amp;tp&#x3D;1&amp;oh&#x3D;798645cf8e7cb6c3eada578feed9c8ce&amp;oe&#x3D;6053D19F" alt="-🇺🇸- 🎊 On February 13, in honor of the Lunar New Year, themed activities will be held at @ov_pulkovo   Guests of the St. Petersburg’s outlet village will be able to see the Great Chinese Dragon show 🐲 and receive fortune cookies🍪  Traditionally, the Chinese New Year is timed to coincide with the winter new moon🌙, and the holiday marks the first day of spring and the awakening of nature.   From the Chinese lunar calendar, we’ve adopted 12 zodiac animals, which in turn become the symbol of a year.🐮  🎉From 13:00 to 17:00, a series of the memorable Big Chinese Dragon show will take place at the outlet. A team of artists will perform a traditional Chinese dragon dance.  🛍Discounts and special offers continue at Outlet Village Pulkovo stores, so the event can be combined with profitable shopping.  -🇷🇺- Китайский Новый год в @ov_pulkovo 🎎  🎉13 февраля в честь Нового года по лунному календарю в Outlet Village Пулково пройдут тематические активности. Гости петербургского аутлета смогут принять посмотреть шоу Большого китайского дракона🐲 и получить печенье с предсказанием🍪  По традиции Китайский Новый год приурочен к зимнему новолунию🌙, а праздник знаменует первый день весны и пробуждение природы. Именно из китайского лунного календаря мы получили 12 зодиакальных животных, которые по очереди становятся символом года.🐮  🥳С 13:00 до 17:00 на территории аутлета состоится серия запоминающееся шоу Большого китайского дракона. Команда артистов исполнит традиционный китайский танец фигурой дракона.  🛍В магазинах Outlet Village Пулково продолжают действовать скидки и выгодные предложения, поэтому мероприятие можно будет совместить с выгодным шопингом.   #visitpetersburg #travel #newyear #chinesenewyear #event #spb" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;147475496_983868295757041_3885273883346006572_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;Nx0SQX3VlKwAX9DukOB&amp;tp&#x3D;1&amp;oh&#x3D;3c5e2f25c37ffecfb52d2e53de486888&amp;oe&#x3D;602AEA0A" alt="Мы не дадим вам замерзнуть 🥶 в самые романтичные выходные этого года! ❤️  Инструкция:   🧣надеваем свитер, варежки, шапку и шарф! Следим за второй половиной, чтобы не забыла надеть перчатки🧤  😄Берём хорошее настроение  🗺 Выстраиваем маршрут до Севкабель Порт @sevcableport   Делаем обзорную экскурсию👀, катаемся на коньках⛸, пьём вкусный кофе☕️, пробуем😋 интересные блюда авторских кухонь🔝  😍Запоминаем этот день навсегда!   Удачи !😉  #visitpetersburg #spb #piter #location #wheretogo #stvalentinesday #love #couple #romantic #кудасходитьспб #местапитер #выходные #14февоаля #спб" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;147317430_416556439653823_1032390497261390485_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;_iPyH5pOU1gAX9-YPrs&amp;tp&#x3D;1&amp;oh&#x3D;a3721a318459139ffe4e4ef8fa164f07&amp;oe&#x3D;60529C30" alt="-🇺🇸- St. Valentine’s day at Outlet Village Pulkovo! @ov_pulkovo 🥰  Valentines Day is the most romantic holiday of the year. On February 14, Outlet Village Pulkovo will create a special atmosphere in honor of all couples.  🎼From 13:00 to 18:00 live music will be played at the outlet, which will bring a festive mood.   📸Also, from 13:00 to 18:00, all couples can take a memorable photo on Polaroid.   🤗A charming mime will walk around the territory to capture the lovers at the outlet.  👝And at the Information center you can get a complimentary shopper bag for a picture in Instagram Stories.   🌟Outlet Village Pulkovo stores have prepared additional discounts and special offers for the holiday. Treat yourself and your significant other with beneficial shopping!  -🇷🇺- День всех влюбленных в Outlet Village Pulkovo! @ov_pulkovo ❤  День святого Валентина – самый романтичный праздник в году. 14 февраля в Outlet Village Пулково в честь всех влюбленных создаст особую атмосферу.  🎷С 13:00 до 18:00 в аутлете будет играть живая музыка, которая подарит праздничное настроение.  📸 Также с 13:00 до 18:00 все пары смогут сделать памятную фотографию на Polaroid.  😇 Обаятельный мим будет гулять по территории, чтобы запечатлеть возлюбленных в аутлете.  🛍А в Информационном центре аутлета за фотографию в Instagram Stories вам подарят стильный шопер.  😍 Магазины Outlet Village Пулково подготовили дополнительные скидки и специальные предложения к празднику. Порадуйте себя и вашу вторую половинку выгодным шопингом!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;149523248_238633301239507_9032078493942372165_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;3AqPAe-95uMAX_yscH6&amp;tp&#x3D;1&amp;oh&#x3D;08c4b2c325b2c81ea82a5754b49dccea&amp;oe&#x3D;602C4879" alt="Наверное все вы думаете, что подарить своей второй половине к 14 февраля!?👩‍❤️‍👨  Мы вам подскажем🤫 романтический ужин в ресторане «Империал» при отеле “Corinthia» @corinthiastpetersburg в самом центре Петербурга!   Поверьте, вы оба оцените изысканные блюда, умопомрачительные десерты от французского шеф-повара и игристые напитки🤪 все это уже ждёт вас ❤️❤️ в это воскресенье!  Не благотворите за наводку🙂маленькие подсказки ещё никому не мешали  📲Бронь столика 8 (812) 380 20 01 📍 Невский проспект, 57  📸 @christina_spb_ @lizlizliss   #visitpetersburg #spb #event #restaurant #corinthiapetersburg #love #stvalentinesday #14февраля #14февраляподарок" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;149452498_517618395867197_15563957671134042_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;xnlOESqCBXYAX-Bv0Gt&amp;tp&#x3D;1&amp;oh&#x3D;eb016f583140df95f24a9cd45551b7b9&amp;oe&#x3D;602BE291" alt="МЫ ЗНАЕМ КУДА СХОДИТЬ😉  ❤️День святого Валентина❤️- особенный праздник для влюбленных и у @planetarium.1 есть космические идеи как можно порадовать вашего любимого землянина 🛸   🎶 МУЗЫКА ДЛЯ ВЛЮБЛЁННЫХ в Планетарии 1  💕LOVE STORY в Люмьер-Холле   👩‍❤️‍💋‍👨СВИДАНИЕ НА КАТКЕ   Так что бегом за билетами в @planetarium.1 к 14 февраля🪐   Будьте счастливы, любите и будьте любимы💙ваш #visitpetersburg   #местаспб #кудасходитьспб #питер #спб #stpetersburg #saintpetersburg #космос" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.160.1280.1280a&#x2F;s640x640&#x2F;148747661_182711320308015_3706897904265001456_n.jpg?_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;bY_deNQsHn0AX-P947D&amp;tp&#x3D;1&amp;oh&#x3D;5105b2291b18f285a71b81e7ac9bebb7&amp;oe&#x3D;6053D19F" alt="-🇺🇸- 🎊 On February 13, in honor of the Lunar New Year, themed activities will be held at @ov_pulkovo   Guests of the St. Petersburg’s outlet village will be able to see the Great Chinese Dragon show 🐲 and receive fortune cookies🍪  Traditionally, the Chinese New Year is timed to coincide with the winter new moon🌙, and the holiday marks the first day of spring and the awakening of nature.   From the Chinese lunar calendar, we’ve adopted 12 zodiac animals, which in turn become the symbol of a year.🐮  🎉From 13:00 to 17:00, a series of the memorable Big Chinese Dragon show will take place at the outlet. A team of artists will perform a traditional Chinese dragon dance.  🛍Discounts and special offers continue at Outlet Village Pulkovo stores, so the event can be combined with profitable shopping.  -🇷🇺- Китайский Новый год в @ov_pulkovo 🎎  🎉13 февраля в честь Нового года по лунному календарю в Outlet Village Пулково пройдут тематические активности. Гости петербургского аутлета смогут принять посмотреть шоу Большого китайского дракона🐲 и получить печенье с предсказанием🍪  По традиции Китайский Новый год приурочен к зимнему новолунию🌙, а праздник знаменует первый день весны и пробуждение природы. Именно из китайского лунного календаря мы получили 12 зодиакальных животных, которые по очереди становятся символом года.🐮  🥳С 13:00 до 17:00 на территории аутлета состоится серия запоминающееся шоу Большого китайского дракона. Команда артистов исполнит традиционный китайский танец фигурой дракона.  🛍В магазинах Outlet Village Пулково продолжают действовать скидки и выгодные предложения, поэтому мероприятие можно будет совместить с выгодным шопингом.   #visitpetersburg #travel #newyear #chinesenewyear #event #spb" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;147475496_983868295757041_3885273883346006572_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;Zrhw8nxBaQAAX-oDB57&amp;tp&#x3D;1&amp;oh&#x3D;536f646ee13dfd664bb95090afe6c6b8&amp;oe&#x3D;602C3B8A" alt="Мы не дадим вам замерзнуть 🥶 в самые романтичные выходные этого года! ❤️  Инструкция:   🧣надеваем свитер, варежки, шапку и шарф! Следим за второй половиной, чтобы не забыла надеть перчатки🧤  😄Берём хорошее настроение  🗺 Выстраиваем маршрут до Севкабель Порт @sevcableport   Делаем обзорную экскурсию👀, катаемся на коньках⛸, пьём вкусный кофе☕️, пробуем😋 интересные блюда авторских кухонь🔝  😍Запоминаем этот день навсегда!   Удачи !😉  #visitpetersburg #spb #piter #location #wheretogo #stvalentinesday #love #couple #romantic #кудасходитьспб #местапитер #выходные #14февоаля #спб" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -268,7 +287,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-13°C (<i>light snow</i>), humidity: 72%, pressure: 1027 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
+        <b>-19°C (<i>light snow</i>), humidity: 78%, pressure: 1027 (mbar), wind: /east/ 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:36 am</b> and sets at <b>17:49 pm</b>.
     </p>
@@ -281,61 +300,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'Primal' is a Pure, Bloody Celebration of Animation](https://www.reviewgeek.com/70595/what-were-watching-primal-is-a-pure-bloody-celebration-of-animation/)
-* [Stock Up on Video Games with Best Buy's President's Day Sale](https://www.reviewgeek.com/71085/stock-up-on-video-games-with-best-buys-presidents-day-sale/)
-* [How to Make Safari Always Open Your Previous Tabs on Mac](https://www.howtogeek.com/710003/how-to-make-safari-always-open-your-previous-tabs-on-mac/)
-* [So Sue Me: dbrand Taunts Sony with Custom PS5 Plates You Can Buy](https://www.reviewgeek.com/71040/so-sue-me-dbrand-taunts-sony-with-custom-ps5-plates-you-can-buy/)
-* [How to View a List of All the Links You’ve Clicked on Instagram](https://www.howtogeek.com/707879/how-to-view-a-list-of-all-the-links-youve-clicked-on-instagram/)
-* [Hyundai's Tiger Rover Glides Across Rocks With Inspector Gadget Legs](https://www.reviewgeek.com/70944/hyundais-tiger-rover-glides-across-rocks-with-inspector-gadget-legs/)
-* [How to Download PS5 Games From Your Phone](https://www.howtogeek.com/711021/how-to-download-ps5-games-from-your-phone/)
-* [Raspberry Pi Finally Gets a Great Text Editor---From Microsoft](https://www.reviewgeek.com/71050/raspberry-pi-finally-gets-a-great-text-editor-from-microsoft/)
-* [How to Add an Expiration Date to Emails in Gmail](https://www.howtogeek.com/707667/how-to-add-an-expiration-date-to-emails-in-gmail/)
-* [How to Use Bangs in DuckDuckGo (to Search Other Websites)](https://www.howtogeek.com/711984/how-to-use-bangs-in-duckduckgo-to-search-other-websites/)
+* [Are You Brave Enough to Eat 3D-Printed Steak?](https://www.reviewgeek.com/71012/are-you-brave-enough-to-eat-3d-printed-steak/)
+* [Elon Musk Wants the Tesla Roadster to Hover, Hopefully without Killing You](https://www.reviewgeek.com/71093/elon-musk-wants-the-tesla-roadster-to-hover-hopefully-without-killing-you/)
+* [How to Mute Your Google Smart Speaker or Display’s Microphone](https://www.howtogeek.com/710764/how-to-mute-your-google-smart-speaker-or-displays-microphone/)
+* [NASA and Fitbit Partner Up to Catch COVID-19 Cases Early](https://www.reviewgeek.com/70940/nasa-and-fitbit-partner-up-to-catch-covid-19-cases-early/)
+* [How to Reduce Twitter Data Usage on iPhone and Android](https://www.howtogeek.com/709647/how-to-reduce-twitter-data-usage-on-iphone-and-android/)
+* [Hackers Stole $100 Million in Cryptocurrency Using SIM Card Spoofs](https://www.reviewgeek.com/71060/hackers-stole-100-million-in-cryptocurrency-using-sim-card-spoofs/)
+* [How to Change Your TikTok Username](https://www.howtogeek.com/712850/how-to-change-your-tiktok-username/)
+* [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://www.howtogeek.com/708768/how-to-create-and-insert-a-pyramid-in-microsoft-powerpoint/)
+* [This $300 Limited-Edition 'Super Mario' Switch Is Both Red and Rad](https://www.reviewgeek.com/71001/this-300-limited-edition-super-mario-switch-is-both-red-and-rad/)
+* [The 10 Best Rom-Coms to Stream This Valentine’s Day](https://www.howtogeek.com/712812/the-10-best-rom-coms-to-stream-this-valentines-day/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia wants to buy CPU designer Arm–Qualcomm is not happy about it](https://arstechnica.com/gadgets/2021/02/nvidia-wants-to-buy-cpu-designer-arm-qualcomm-is-not-happy-about-it/)
-- [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
-- [Adam Curtis: Can't Get You Out of My Head (YouTube Channel)](https://www.youtube.com/watch?v=MHFrhIAj0ME)
-- [`mov` is Turing-complete [pdf]](http://stedolan.net/research/mov.pdf)
-- [Ask HN: What language would you code if you didn't need to make money?](https://news.ycombinator.com/item?id=26128959)
-- [Default to tabs instead of spaces for an 'accessible first' environment (2019)](https://alexandersandberg.com/tabs-for-accessibility/)
-- [Ask HN: Good Referral / Rewards Service?](https://news.ycombinator.com/item?id=26128909)
-- [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
-- [Cancel The New York Times](http://robrhinehart.com/the-new-york-times/)
-- [Show HN: Meme Captioning Discord Bot](https://memeprodiscord.github.io/)
+- [Amanda Gorman and the Rise of the Poet Propagandist](https://safetypropaganda.substack.com/p/amanda-gorman-and-the-rise-of-the)
+- ['Carbon neutrality in a decade is a fairytale. Why peddle fantasies?'](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
+- [Step by Step Spring Batch Tutorial](https://betterjavacode.com/spring-boot/step-by-step-spring-batch-tutorial)
+- [The Future of Nuclear Arms Control?](https://theconsequentialist.wordpress.com/2021/02/15/the-future-of-nuclear-arms-control/)
+- [How the Hell Do You Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
+- [Python Pattern Matching Tutorial](https://github.com/gvanrossum/patma/blob/master/README.md#tutorial)
+- [Good Ideas, Through the Looking Glass (PDF, 2005)](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
+- [The spot price for electricity in Texas is currently about $9000 per MW-hr](https://twitter.com/The92ers/status/1361119791831015424)
+- [Hype Man of the Century – Justin Sun](https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china)
+- [The Bombhole Era](https://taibbi.substack.com/p/the-bombhole-era-0cb)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: Victoria calls for quarantine rethink; New Zealand records three local cases](https://www.theguardian.com/world/live/2021/feb/14/coronavirus-live-victoria-calls-for-quarantine-rethink-venezuela-receives-sputnik-v-vaccine)
-- [Biden press aide TJ Ducklo resigns over 'abhorrent' remarks to female journalist](https://www.theguardian.com/us-news/2021/feb/14/biden-press-aide-tj-ducklo-resigns-over-abhorrent-remarks-to-female-journalist)
-- [Donald Trump acquitted in second impeachment trial](https://www.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial)
-- [Barclays boss hopes to avoid more stormy weather](https://www.theguardian.com/business/2021/feb/14/barclays-boss-hopes-to-avoid-more-stormy-weather)
-- [Hammersmith Bridge illuminated in Valentine's message to government](https://www.theguardian.com/uk-news/2021/feb/14/hammersmith-bridge-illuminated-red-in-valentines-message-to-government)
-- [Josh Warrington suffers shock knockout defeat to Mauricio Lara](https://www.theguardian.com/sport/2021/feb/13/josh-warrington-suffers-shock-knockout-defeat-to-mauricio-lara)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Simone Rocha at high street prices: in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/13/simone-rocha-at-high-street-prices-in-pictures)
-- [Senate Republicans stand by their man and Trump wins his second acquittal | David Smith's sketch](https://www.theguardian.com/us-news/2021/feb/13/trump-impeachment-trial-senate-republicans)
-- [Tory MPs tell Johnson to commit to lifting Covid restrictions by end of April](https://www.theguardian.com/world/2021/feb/13/tory-mps-tell-johnson-to-commit-to-lifting-covid-restrictions-by-end-of-april)
+- [Coronavirus live news: UK variant hits New Zealand; CDC says 'absolutely' too soon to lift US mask mandate](https://www.theguardian.com/world/live/2021/feb/15/coronavirus-live-news-uk-variant-reaches-new-zealand-absolutely-too-soon-to-lift-us-mask-mandate-says-cdc-chief)
+- [Bill Gates: ‘Carbon neutrality in a decade is a fairytale. Why peddle fantasies?’](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
+- [Clubhouse app: what is it and how do you get an invite to the audio app Elon Musk uses?](https://www.theguardian.com/technology/2021/feb/15/clubhouse-app-invite-what-is-it-how-to-get-audio-chat-elon-musk)
+- [Catalonia election poll suggests separatists will retain majority](https://www.theguardian.com/world/2021/feb/14/catalonia-regional-election-covid-voting)
+- [Johnson should repay north of England voters with private investment – report](https://www.theguardian.com/uk-news/2021/feb/15/johnson-should-repay-north-of-england-voters-with-private-investment-report)
+- [Father of missing chef Claudia Lawrence dies at 74](https://www.theguardian.com/uk-news/2021/feb/15/father-of-missing-chef-claudia-lawrence-dies-at-74)
+- [BBC aims to lift the Covid blues with festival of comedy](https://www.theguardian.com/tv-and-radio/2021/feb/15/bbc-aims-to-lift-the-covid-blues-with-festival-of-comedy)
+- [MPs urge government to spell out economic and health impacts of easing lockdown](https://www.theguardian.com/world/2021/feb/15/mps-urge-government-to-spell-out-economic-and-health-impacts-of-easing-lockdown)
+- [Demand for detached houses rose in Covid lockdown, says Halifax](https://www.theguardian.com/business/2021/feb/15/demand-for-detached-houses-rose-in-covid-lockdown-says-halifax)
+- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/blog/2021/feb/15/premier-league-10-talking-points-from-the-weekends-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
-- [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
-- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
-- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
-- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
-- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
-- [Solving Magic Squares Using Backtracking](http://www.eurisko.us/solving-magic-squares-using-backtracking/)
-- [Comp.lang.c Google Group has been banned](https://groups.google.com/g/comp.lang.c)
-- [Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94](https://www.rupertneve.com/news/rupert-neve-1926-2021/)
-- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
+- [The Hazards of Asset Allocation in a Late-Stage Major Bubble](https://www.gmo.com/americas/research-library/waiting-for-the-last-dance/)
+- [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
+- [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
+- [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
+- [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
+- [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
+- [Journalism, particularly at the highest level, is about raw power](https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php)
+- [What ever happened to scandium bike frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
+- [A second look at "no code" tools (2019)](https://webflow.com/blog/no-code-is-a-lie)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -401,6 +420,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with monitoring Mac while in different room, without surpassing internet data cap.](https://www.reddit.com/r/InformationTechnology/comments/lk1u69/help_with_monitoring_mac_while_in_different_room/)
+- [Today I came accross a blogspot that defined DALL-E, an AI which is developed by OPEN AI.](https://www.reddit.com/r/InformationTechnology/comments/ljtbf0/today_i_came_accross_a_blogspot_that_defined/)
+- [Trends in IT vs. Emerging Technologies in IT](https://www.reddit.com/r/InformationTechnology/comments/ljfh0f/trends_in_it_vs_emerging_technologies_in_it/)
 - [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
 - [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
 - [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
@@ -408,14 +430,13 @@
 - [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
 - [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
 - [Methods to study an any given technology in a standardized and methodical way?](https://www.reddit.com/r/InformationTechnology/comments/li5guq/methods_to_study_an_any_given_technology_in_a/)
-- [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
-- [Automated Offboarding Software](https://www.reddit.com/r/InformationTechnology/comments/lht81a/automated_offboarding_software/)
-- [Cyber Security or Networking Degree](https://www.reddit.com/r/InformationTechnology/comments/lhsqhe/cyber_security_or_networking_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian vehicle rental service hit by ransomware](https://www.itworldcanada.com/article/canadian-vehicle-rental-service-hit-by-ransomware/442384)
+- [Cyber Security Today – Week in Review for Friday February 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-february-12-2021/442313)
 - [Universities form alliance to address ‘atrociously small’ number of Indigenous and Black engineering faculty in Ontario](https://www.itworldcanada.com/article/universities-form-alliance-to-address-atrociously-small-number-of-indigenous-and-black-engineering-faculty/442134)
 - [Researcher says Florida water plant attack was ‘immature, rushed or unintentional’](https://www.itworldcanada.com/article/researcher-says-florida-water-plant-attack-was-immature-rushed-or-unintentional/442338)
 - [Cyber Security Today – Don’t be blue on Valentine’s Day, SIM-swapping gang broken, US can search devices without a warrant at the border](https://www.itworldcanada.com/article/cyber-security-today-dont-be-blue-on-valentines-day-sim-swapping-gang-broken-us-can-search-devices-without-a-warrant-at-its-border-and-more/442322)
@@ -424,8 +445,6 @@
 - [Herjavec Group to be acquired by U.K.-based Apax Funds](https://www.itworldcanada.com/article/herjavec-group-to-be-acquired-by-u-k-based-apax-funds/442296)
 - [Skeptical about the model used for AI-derived recommendations? Here are the questions to ask](https://www.itworldcanada.com/blog/skeptical-about-the-model-used-for-ai-derived-recommendations-here-are-the-questions-to-ask/440951)
 - [What you need for responsible leadership and innovation in 2021 – a breakout year for leadership](https://www.itworldcanada.com/blog/what-you-need-for-responsible-leadership-and-innovation-in-2021-a-breakout-year-for-leadership/441431)
-- [Microsoft Surface Duo smartphone arrives in Canada](https://www.itworldcanada.com/article/microsoft-surface-duo-smartphone-arrives-in-canada/442293)
-- [IBM hands out $3M in cybersecurity funding for U.S. public schools](https://www.itworldcanada.com/article/ibm-hands-out-3m-in-cybersecurity-funding-for-u-s-public-schools/442196)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

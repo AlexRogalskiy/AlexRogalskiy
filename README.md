@@ -236,8 +236,27 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643031708520890368" target="_blank"><i>Swept</i></a></summary>
-<p>by Hayden Carruth</p><p>When we say I<br/>miss you what<br/>we mean is I’m<br/>filled with<br/><br/>dread. At night<br/>alone going<br/>to bed is<br/>like lying down<br/><br/>in a wave. Total<br/>absence of light.<br/>Swept away to<br/>gone.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643121700937023488" target="_blank"><i>At a Window</i></a></summary>
+<p>by Carl Sandburg</p><p>Give me hunger, 
+<br/>O you gods that sit and give 
+<br/>The world its orders. 
+<br/>Give me hunger, pain and want, 
+<br/>Shut me out with shame and failure 
+<br/>From your doors of gold and fame, 
+<br/>Give me your shabbiest, weariest hunger! 
+<br/><br/>But leave me a little love, 
+<br/>A voice to speak to me in the day end, 
+<br/>A hand to touch me in the dark room 
+<br/>Breaking the long loneliness. 
+<br/>In the dusk of day-shapes 
+<br/>Blurring the sunset, 
+<br/>One little wandering, western star 
+<br/>Thrust out from the changing shores of shadow. 
+<br/>Let me go to the window, 
+<br/>Watch there the day-shapes of dusk 
+<br/>And wait and know the coming 
+<br/>Of a little love.
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

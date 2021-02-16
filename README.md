@@ -300,16 +300,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Are You Brave Enough to Eat 3D-Printed Steak?](https://www.reviewgeek.com/71012/are-you-brave-enough-to-eat-3d-printed-steak/)
-* [Elon Musk Wants the Tesla Roadster to Hover, Hopefully without Killing You](https://www.reviewgeek.com/71093/elon-musk-wants-the-tesla-roadster-to-hover-hopefully-without-killing-you/)
-* [How to Mute Your Google Smart Speaker or Display’s Microphone](https://www.howtogeek.com/710764/how-to-mute-your-google-smart-speaker-or-displays-microphone/)
-* [NASA and Fitbit Partner Up to Catch COVID-19 Cases Early](https://www.reviewgeek.com/70940/nasa-and-fitbit-partner-up-to-catch-covid-19-cases-early/)
-* [How to Reduce Twitter Data Usage on iPhone and Android](https://www.howtogeek.com/709647/how-to-reduce-twitter-data-usage-on-iphone-and-android/)
-* [Hackers Stole $100 Million in Cryptocurrency Using SIM Card Spoofs](https://www.reviewgeek.com/71060/hackers-stole-100-million-in-cryptocurrency-using-sim-card-spoofs/)
-* [How to Change Your TikTok Username](https://www.howtogeek.com/712850/how-to-change-your-tiktok-username/)
-* [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://www.howtogeek.com/708768/how-to-create-and-insert-a-pyramid-in-microsoft-powerpoint/)
-* [This $300 Limited-Edition 'Super Mario' Switch Is Both Red and Rad](https://www.reviewgeek.com/71001/this-300-limited-edition-super-mario-switch-is-both-red-and-rad/)
-* [The 10 Best Rom-Coms to Stream This Valentine’s Day](https://www.howtogeek.com/712812/the-10-best-rom-coms-to-stream-this-valentines-day/)
+* [Hear the Sound of Color with Google's Synesthesia Tool](https://www.reviewgeek.com/71092/hear-the-sound-of-color-with-googles-synesthesia-tool/)
+* [Spider Legs Build Webs Autonomously, without Help from the Brain](https://www.reviewgeek.com/71067/spider-legs-build-webs-autonomously-without-help-from-the-brain/)
+* [Arcade1Up's Latest Collab Is a Limited-Edition 'Street Fighter' Counter-Cade](https://www.reviewgeek.com/71064/arcade1ups-latest-collab-is-a-limited-edition-street-fighter-counter-cade/)
+* [How to Delete Google Assistant Recordings](https://www.howtogeek.com/713484/how-to-delete-google-assistant-recordings/)
+* [Netflix Will Quest for the Sword of Martin in a 'Redwall' Film and Series](https://www.reviewgeek.com/70881/netflix-will-quest-for-the-sword-of-martin-in-a-redwall-film-and-series/)
+* [How to Use Pivot Tables to Analyze Excel Data](https://www.howtogeek.com/701536/how-to-use-pivot-tables-to-analyze-excel-data/)
+* [Chrome Incognito Tabs Might Soon be Locked with Face ID on iOS](https://www.reviewgeek.com/71074/chrome-incognito-tabs-might-soon-be-locked-with-face-id-on-ios/)
+* [How to Hide Your “Last Seen Online” Time in Telegram](https://www.howtogeek.com/710383/how-to-hide-your-last-seen-online-time-in-telegram/)
+* [When and Where You Can Watch NASA's Perseverance Land on Mars](https://www.lifesavvy.com/56933/when-and-where-you-can-watch-nasas-perseverance-land-on-mars/)
+* [Swapping File Managers in Mint 20](https://www.cloudsavvyit.com/9474/swapping-file-managers-in-mint-20/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

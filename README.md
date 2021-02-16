@@ -338,16 +338,16 @@ Ten thousand years.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: UK variant hits New Zealand; CDC says 'absolutely' too soon to lift US mask mandate](https://www.theguardian.com/world/live/2021/feb/15/coronavirus-live-news-uk-variant-reaches-new-zealand-absolutely-too-soon-to-lift-us-mask-mandate-says-cdc-chief)
-- [Bill Gates: ‘Carbon neutrality in a decade is a fairytale. Why peddle fantasies?’](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
-- [Clubhouse app: what is it and how do you get an invite to the audio app Elon Musk uses?](https://www.theguardian.com/technology/2021/feb/15/clubhouse-app-invite-what-is-it-how-to-get-audio-chat-elon-musk)
-- [Catalonia election poll suggests separatists will retain majority](https://www.theguardian.com/world/2021/feb/14/catalonia-regional-election-covid-voting)
-- [Johnson should repay north of England voters with private investment – report](https://www.theguardian.com/uk-news/2021/feb/15/johnson-should-repay-north-of-england-voters-with-private-investment-report)
-- [Father of missing chef Claudia Lawrence dies at 74](https://www.theguardian.com/uk-news/2021/feb/15/father-of-missing-chef-claudia-lawrence-dies-at-74)
-- [BBC aims to lift the Covid blues with festival of comedy](https://www.theguardian.com/tv-and-radio/2021/feb/15/bbc-aims-to-lift-the-covid-blues-with-festival-of-comedy)
-- [MPs urge government to spell out economic and health impacts of easing lockdown](https://www.theguardian.com/world/2021/feb/15/mps-urge-government-to-spell-out-economic-and-health-impacts-of-easing-lockdown)
-- [Demand for detached houses rose in Covid lockdown, says Halifax](https://www.theguardian.com/business/2021/feb/15/demand-for-detached-houses-rose-in-covid-lockdown-says-halifax)
-- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/blog/2021/feb/15/premier-league-10-talking-points-from-the-weekends-action)
+- [Coronavirus live news: UK to consider giving excess vaccine to other countries; WHO approves Oxford jab](https://www.theguardian.com/world/live/2021/feb/16/coronavirus-live-news-uk-to-consider-giving-excess-vaccine-to-other-countries-who-approves-oxford-jab)
+- [Australian Open 2021 day nine: Hsieh Su-wei v Naomi Osaka – live!](https://www.theguardian.com/sport/live/2021/feb/16/australian-open-2021-tennis-live-scores-day-nine-naomi-osaka-serena-williams-simona-halep-novak-djokovic-tv-schedule-draw-results-fixtures-order-of-play-melbourne-park-coverage-latest-news-updates)
+- [Myanmar coup: fresh internet blackout imposed as troops clear protesters](https://www.theguardian.com/world/2021/feb/16/myanmar-coup-internet-blackout-soldiers-protesters)
+- [Google and Facebook: the landmark Australian law that will make them pay for news content](https://www.theguardian.com/technology/2021/feb/16/google-and-facebook-the-landmark-australian-law-that-will-make-them-pay-for-news-content)
+- [Pelosi announces plans for 9/11-style commission to examine Capitol riot](https://www.theguardian.com/us-news/2021/feb/15/pelosi-congress-commission-investigate-capitol-riot)
+- [Talking Horses: Skelton confident of big Cheltenham run from Allmankind](https://www.theguardian.com/sport/2021/feb/15/skelton-quietly-confident-of-a-big-cheltenham-run-from-allmankind)
+- [Coventry to seek planning permission for electric car battery 'gigafactory'](https://www.theguardian.com/business/2021/feb/16/coventry-to-seek-planning-permission-for-electric-car-battery-gigafactory)
+- [Stars including Sir Ian McKellen urge changes to visa rules for artists](https://www.theguardian.com/stage/2021/feb/16/stars-including-sir-ian-mckellen-urge-changes-to-visa-rules-for-artists)
+- [IFS urges Rishi Sunak to extend support to tackle 'triple challenge' to economy](https://www.theguardian.com/business/2021/feb/16/ifs-urges-rishi-sunak-to-extend-support-to-tackle-triple-challenge-to-economy)
+- [Sylvester McCoy says doubts about female Doctor were 'stupid sexism'](https://www.theguardian.com/tv-and-radio/2021/feb/16/sylvester-mccoy-says-doubts-about-female-doctor-were-stupid-sexism)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

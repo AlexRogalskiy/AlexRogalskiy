@@ -443,6 +443,7 @@ Ten thousand years.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today – More allegations of hacked Supermicro motherboards, reports of ransomware group arrested and warning to tax professionals](https://www.itworldcanada.com/article/cyber-security-today-more-allegations-of-hacked-supermicro-motherboards-reports-of-ransomware-group-arrested-and-warning-to-tax-professionals/442391)
 - [Canadian vehicle rental service hit by ransomware](https://www.itworldcanada.com/article/canadian-vehicle-rental-service-hit-by-ransomware/442384)
 - [Cyber Security Today – Week in Review for Friday February 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-february-12-2021/442313)
 - [Universities form alliance to address ‘atrociously small’ number of Indigenous and Black engineering faculty in Ontario](https://www.itworldcanada.com/article/universities-form-alliance-to-address-atrociously-small-number-of-indigenous-and-black-engineering-faculty/442134)
@@ -452,7 +453,6 @@ Ten thousand years.</p>
 - [What Canadian CIOs need to know in 2021](https://www.itworldcanada.com/blog/what-canadian-cios-need-to-know-in-2021/442325)
 - [Herjavec Group to be acquired by U.K.-based Apax Funds](https://www.itworldcanada.com/article/herjavec-group-to-be-acquired-by-u-k-based-apax-funds/442296)
 - [Skeptical about the model used for AI-derived recommendations? Here are the questions to ask](https://www.itworldcanada.com/blog/skeptical-about-the-model-used-for-ai-derived-recommendations-here-are-the-questions-to-ask/440951)
-- [What you need for responsible leadership and innovation in 2021 – a breakout year for leadership](https://www.itworldcanada.com/blog/what-you-need-for-responsible-leadership-and-innovation-in-2021-a-breakout-year-for-leadership/441431)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

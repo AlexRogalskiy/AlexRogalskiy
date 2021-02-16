@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/deep_pockets_616.php" target="_blank"><i>deep pockets</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_2/a_bag_of_tricks_142.php" target="_blank"><i>a bag of tricks</i></a>
 <span> = </span>
-<span>You can say a person or an organisation has deep pockets if they have lots of money.</span>
+<span>Someone's bag of tricks is their collection of techniques or methods for getting a job done or for achieving a goal.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

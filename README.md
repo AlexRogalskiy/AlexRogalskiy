@@ -398,16 +398,16 @@ Ten thousand years.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [How to work with record types in C#](https://www.infoworld.com/article/3607372/how-to-work-with-record-types-in-csharp.html#tk.rss_all)
+- [Boosting science and engineering in the cloud](https://www.infoworld.com/article/3606809/unleashing-science-and-engineering-in-the-cloud.html#tk.rss_all)
+- [Programming jobs for losers — and how to escape them](https://www.infoworld.com/article/3606772/programming-jobs-for-losers-and-how-to-escape-them.html#tk.rss_all)
 - [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
 - [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
 - [3 must-haves for your multicloud architecture](https://www.infoworld.com/article/3607193/3-must-haves-for-your-multicloud-architecture.html#tk.rss_all)
 - [What’s new in Rust 1.50](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Angular 12 beta preview arrives](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Go language gets graph-based ORM](https://www.infoworld.com/article/3607188/entity-framework-for-go-golang-is-geared-to-data-models.html#tk.rss_all)
-- [Plot in R with echarts4r](https://www.infoworld.com/article/3607068/plot-in-r-with-echarts4r.html#tk.rss_all)
-- [Angular, React, Vue: JavaScript frameworks compared](https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html#tk.rss_all)
-- [Developing a Turing test for ethical AI](https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

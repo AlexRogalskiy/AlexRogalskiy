@@ -353,16 +353,16 @@ Ten thousand years.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
-- [The Hazards of Asset Allocation in a Late-Stage Major Bubble](https://www.gmo.com/americas/research-library/waiting-for-the-last-dance/)
-- [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
-- [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
-- [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
-- [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
-- [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
-- [Journalism, particularly at the highest level, is about raw power](https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php)
-- [What ever happened to scandium bike frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-- [A second look at "no code" tools (2019)](https://webflow.com/blog/no-code-is-a-lie)
+- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
+- [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
+- [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
+- [Performance Optimization Contest](https://easyperf.net/blog/2019/02/02/Performance-optimization-contest)
+- [Windows Refund Day](http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought)
+- [The Worst Experience I've Had with an Aarch64 MacBook](https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15)
+- [What security offers a default OpenBSD installation?](https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html)
+- [Sonobus: Open-source app for low latency peer-to-peer audio](https://sonobus.net/)
+- [Are the New M1 Macbooks Any Good for Deep Learning?](https://www.betterdatascience.com/m1-deep-learning/)
+- [The Libet experiment doesn't disprove free will (2019)](https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/K/knock_around_2__2362.php" target="_blank"><i>knock around (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/look/look_for_1659.php" target="_blank"><i>look for</i></a>
 <span> = </span>
-<span>If you knock around with someone, you spend time together because you're friends.</span>
+<span>If you are looking for something, you're trying to find it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -413,16 +413,16 @@ Ten thousand years.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [University benefited from early virtual desktop investments when pandemic struck](https://www.computerweekly.com/news/252496279/University-benefited-from-early-virtual-desktop-investments-as-pandemic-struck)
-- [UK border surveillance regime highly privatised, says Privacy International](https://www.computerweekly.com/news/252496244/UK-border-surveillance-regime-highly-privatised-says-Privacy-International)
-- [Security Think Tank: Biden must address insider security threat first](https://www.computerweekly.com/opinion/Security-Think-Tank-Biden-must-address-insider-security-threat-first)
-- [Benioff projects future of work onto Salesforce’s ‘Cloud 3.0’](https://www.computerweekly.com/news/252496221/Benioff-projects-future-of-work-onto-Salesforces-Cloud-30)
-- [Hacked Finnish therapy business collapses](https://www.computerweekly.com/news/252496227/Hacked-Finnish-therapy-business-collapses)
-- [Goldman Sachs reopens UK digital savings account](https://www.computerweekly.com/news/252496213/Goldman-Sachs-reopens-UK-digital-account)
-- [HPE on the ISS: In space, no one can hear your CPU fans](https://www.computerweekly.com/news/252496219/HPE-on-the-ISS-In-space-no-one-can-hear-your-CPU-fans)
-- [Low-complexity CVEs a growing concern](https://www.computerweekly.com/news/252496201/Low-complexity-CVEs-a-growing-concern)
-- [Future security stars shine in first round of CyberFirst Girls contest](https://www.computerweekly.com/news/252496207/Future-security-stars-shine-in-first-round-of-CyberFirst-Girls-contest)
-- [Is it time to ban ransomware insurance payments?](https://www.computerweekly.com/feature/Is-it-time-to-ban-ransomware-insurance-payments)
+- [Digital investments will add £232bn to UK economy by 2040](https://www.computerweekly.com/news/252496346/Digital-investments-will-add-232bn-to-UK-economy-by-2040)
+- [BP joins IBM Quantum Network to support emission goals](https://www.computerweekly.com/news/252496350/BP-joins-IBM-Quantum-Network-to-support-emission-goals)
+- [Post Office to offer digital ID services to customers](https://www.computerweekly.com/news/252496349/Post-Office-to-offer-digital-ID-services-to-customers)
+- [Almost half of firms looking to recruit tech workers](https://www.computerweekly.com/news/252496338/Almost-half-of-firms-looking-to-recruit-tech-workers)
+- [NCSC recognises UK’s top cyber schools](https://www.computerweekly.com/news/252496343/NCSC-recognises-UKs-top-cyber-schools)
+- [NHS trust expedites data management with Qlik in pandemic](https://www.computerweekly.com/news/252496084/NHS-trust-expedites-data-management-with-Qlik-in-pandemic)
+- [ENIAC anniversary: What 75 years of computer technology have delivered](https://www.computerweekly.com/news/252496341/ENIAC-anniversary-What-75-years-of-computer-technology-have-delivered)
+- [Wellcome Sanger Institute embarks on cost-saving energy efficiency drive at Cambridge datacentre](https://www.computerweekly.com/news/252496334/Wellcome-Sanger-Institute-embarks-on-cost-saving-energy-efficiency-drive-at-Cambridge-datacentre)
+- [Government to impose new digital identity system across all Gov.uk services](https://www.computerweekly.com/news/252496337/Government-to-impose-new-digital-identity-system-across-all-Govuk-services)
+- [Security Think Tank: Renewed US stability may ease cyber tensions](https://www.computerweekly.com/opinion/Security-Think-Tank-Renewed-US-stability-may-ease-cyber-tensions)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

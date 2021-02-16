@@ -323,16 +323,16 @@ Ten thousand years.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Amanda Gorman and the Rise of the Poet Propagandist](https://safetypropaganda.substack.com/p/amanda-gorman-and-the-rise-of-the)
-- ['Carbon neutrality in a decade is a fairytale. Why peddle fantasies?'](https://www.theguardian.com/technology/2021/feb/15/bill-gates-carbon-neutrality-in-a-decade-is-a-fairytale-why-peddle-fantasies)
-- [Step by Step Spring Batch Tutorial](https://betterjavacode.com/spring-boot/step-by-step-spring-batch-tutorial)
-- [The Future of Nuclear Arms Control?](https://theconsequentialist.wordpress.com/2021/02/15/the-future-of-nuclear-arms-control/)
-- [How the Hell Do You Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
-- [Python Pattern Matching Tutorial](https://github.com/gvanrossum/patma/blob/master/README.md#tutorial)
-- [Good Ideas, Through the Looking Glass (PDF, 2005)](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
-- [The spot price for electricity in Texas is currently about $9000 per MW-hr](https://twitter.com/The92ers/status/1361119791831015424)
-- [Hype Man of the Century – Justin Sun](https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china)
-- [The Bombhole Era](https://taibbi.substack.com/p/the-bombhole-era-0cb)
+- [Centre deregulates geospatial data and map-making in India](https://www.hindustantimes.com/india-news/centre-deregulates-geospatial-data-and-map-making-in-india-101613410526630.html)
+- [Ketogenic diets inhibit mitochondrial biogenesis and induce cardiac fibrosis](https://www.nature.com/articles/s41392-020-00411-4)
+- [Supersonic electric VTOL aircraft analysis in Python](https://github.com/gusgordon/electric_jet)
+- [The A1100 Project](http://a1100.arananet.net/)
+- [17 Years of NixOS contributions visualized](https://www.visualsource.net/repo/github.com/NixOS/nix)
+- [Parler Is Back Online](https://www.washingtonpost.com/technology/2021/02/15/parler-returns-online/)
+- [Miami mayor says Elon Musk will tunnel under the city for just $30M](https://www.theverge.com/2021/2/5/22269188/elon-musk-boring-company-miami-tunnel-mayor-francis-suarez)
+- [Ask HN: How do you securely handle user-generated content](https://news.ycombinator.com/item?id=26150050)
+- [Parler is back: the world's town square](https://www.parler.com/auth/access)
+- [More on the Ethics of Bitcoin](https://sevenpillarsinstitute.org/more-on-the-ethics-of-bitcoin/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

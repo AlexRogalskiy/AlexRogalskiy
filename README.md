@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Rags_to_rags_in_three_generations_585.php" target="_blank"><i>Rags to rags in three generations</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Don_t_bite_the_hand_that_feeds_you_528.php" target="_blank"><i>Don't bite the hand that feeds you</i></a>
 <span> = </span>
-<span>The first generation in a family makes money (goes from rags to riches); the second generation holds or keeps the money; and the third generation squanders or loses the money (and so goes back to rags).</span>
+<span>It is not be a good idea to hurt the person (or company) that pays you or takes care of you.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

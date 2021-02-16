@@ -236,27 +236,35 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643121700937023488" target="_blank"><i>At a Window</i></a></summary>
-<p>by Carl Sandburg</p><p>Give me hunger, 
-<br/>O you gods that sit and give 
-<br/>The world its orders. 
-<br/>Give me hunger, pain and want, 
-<br/>Shut me out with shame and failure 
-<br/>From your doors of gold and fame, 
-<br/>Give me your shabbiest, weariest hunger! 
-<br/><br/>But leave me a little love, 
-<br/>A voice to speak to me in the day end, 
-<br/>A hand to touch me in the dark room 
-<br/>Breaking the long loneliness. 
-<br/>In the dusk of day-shapes 
-<br/>Blurring the sunset, 
-<br/>One little wandering, western star 
-<br/>Thrust out from the changing shores of shadow. 
-<br/>Let me go to the window, 
-<br/>Watch there the day-shapes of dusk 
-<br/>And wait and know the coming 
-<br/>Of a little love.
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/643212916334755840" target="_blank"><i>Above Pate Valley</i></a></summary>
+<p>by Gary Snyder</p><p>We finished clearing the last<br/>
+Section of trail by noon,<br/>
+High on the ridge-side<br/>
+Two thousand feet above the creek<br/>
+Reached the pass, went on<br/>
+Beyond the white pine groves,<br/>
+Granite shoulders, to a small<br/>
+Green meadow watered by the snow,<br/>
+Edged with Aspen—sun<br/>
+Straight high and blazing<br/>
+But the air was cool.<br/>
+Ate a cold fried trout in the<br/>
+Trembling shadows. I spied<br/>
+A glitter, and found a flake<br/>
+Black volcanic glass—obsidian—<br/>
+By a flower. Hands and knees<br/>
+Pushing the Bear grass, thousands<br/>
+Of arrowhead leavings over a<br/>
+Hundred yards. Not one good<br/>
+Head, just razor flakes<br/>
+On a hill snowed all but summer,<br/>
+A land of fat summer deer,<br/>
+They came to camp. On their<br/>
+Own trails. I followed my own<br/>
+Trail here. Picked up the cold-drill,<br/>
+Pick, singlejack, and sack<br/>
+Of dynamite.<br/>
+Ten thousand years.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

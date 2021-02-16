@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/H/hairy_1177.php" target="_blank"><i>hairy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/dweeb_746.php" target="_blank"><i>dweeb</i></a>
 <span> = </span>
-<span>dangerous, risky, scary</span>
+<span>a studious but socially inept person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

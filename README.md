@@ -383,6 +383,8 @@ Ten thousand years.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Finding the Great Predictors for Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/finding-the-great-predictors-for-machine-learning/a/d-id/1340137?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [3 Ways to Empower Female Software Engineers on Your Team](https://www.informationweek.com/strategic-cio/team-building-and-staffing/3-ways-to-empower-female-software-engineers-on-your-team/a/d-id/1340119?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Questions to Ask About DevOps Strategy On-Prem vs. the Cloud](https://www.informationweek.com/devops/questions-to-ask-about-devops-strategy-on-prem-vs-the-cloud/a/d-id/1340146?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Overcoming Digital Transformation Challenges With The Cloud](https://www.informationweek.com/cloud/overcoming-digital-transformation-challenges-with-the-cloud/a/d-id/1340118?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Exploring Diverse Talent to Fill Tech and Cybersecurity Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/exploring-diverse-talent-to-fill-tech-and-cybersecurity-jobs/d/d-id/1340128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -391,8 +393,6 @@ Ten thousand years.</p>
 - [Why DevOps is Critical to Digital Transformation](https://www.informationweek.com/devops/why-devops-is-critical-to-digital-transformation/a/d-id/1340082?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [For Modernization, Be Nimble, Be Agile, and Go Fast](https://www.informationweek.com/devops/for-modernization-be-nimble-be-agile-and-go-fast/d/d-id/1340037?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What's New in IT Security?](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/whats-new-in-it-security/a/d-id/1340099?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Explain AI, ML, and NLP to Business Leaders in Plain Language](https://www.informationweek.com/big-data/ai-machine-learning/how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language/a/d-id/1340052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

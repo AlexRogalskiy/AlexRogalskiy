@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Don_t_bite_the_hand_that_feeds_you_528.php" target="_blank"><i>Don't bite the hand that feeds you</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/G/Good_wine_needs_no_bush_593.php" target="_blank"><i>Good wine needs no bush</i></a>
 <span> = </span>
-<span>It is not be a good idea to hurt the person (or company) that pays you or takes care of you.</span>
+<span>Something of good quality does not need to be advertised.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

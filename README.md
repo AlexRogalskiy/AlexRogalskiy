@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_2/a_bag_of_tricks_142.php" target="_blank"><i>a bag of tricks</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/lose_your_head_318.php" target="_blank"><i>lose your head</i></a>
 <span> = </span>
-<span>Someone's bag of tricks is their collection of techniques or methods for getting a job done or for achieving a goal.</span>
+<span>If you lose your head, you become very angry about something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

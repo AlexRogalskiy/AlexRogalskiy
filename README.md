@@ -402,16 +402,16 @@ flesh, there is no</p><p>hurry</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Digital investments will add £232bn to UK economy by 2040](https://www.computerweekly.com/news/252496346/Digital-investments-will-add-232bn-to-UK-economy-by-2040)
-- [BP joins IBM Quantum Network to support emission goals](https://www.computerweekly.com/news/252496350/BP-joins-IBM-Quantum-Network-to-support-emission-goals)
-- [Post Office to offer digital ID services to customers](https://www.computerweekly.com/news/252496349/Post-Office-to-offer-digital-ID-services-to-customers)
-- [Almost half of firms looking to recruit tech workers](https://www.computerweekly.com/news/252496338/Almost-half-of-firms-looking-to-recruit-tech-workers)
-- [NCSC recognises UK’s top cyber schools](https://www.computerweekly.com/news/252496343/NCSC-recognises-UKs-top-cyber-schools)
-- [NHS trust expedites data management with Qlik in pandemic](https://www.computerweekly.com/news/252496084/NHS-trust-expedites-data-management-with-Qlik-in-pandemic)
-- [ENIAC anniversary: What 75 years of computer technology have delivered](https://www.computerweekly.com/news/252496341/ENIAC-anniversary-What-75-years-of-computer-technology-have-delivered)
-- [Wellcome Sanger Institute embarks on cost-saving energy efficiency drive at Cambridge datacentre](https://www.computerweekly.com/news/252496334/Wellcome-Sanger-Institute-embarks-on-cost-saving-energy-efficiency-drive-at-Cambridge-datacentre)
-- [Government to impose new digital identity system across all Gov.uk services](https://www.computerweekly.com/news/252496337/Government-to-impose-new-digital-identity-system-across-all-Govuk-services)
-- [Security Think Tank: Renewed US stability may ease cyber tensions](https://www.computerweekly.com/opinion/Security-Think-Tank-Renewed-US-stability-may-ease-cyber-tensions)
+- [TransferGo to harness Google-inspired tech capability](https://www.computerweekly.com/news/252496412/TransferGo-to-harness-Google-inspired-tech-capability)
+- [North Korea accused of Pfizer Covid vaccine cyber attack](https://www.computerweekly.com/news/252496416/North-Korea-accused-of-Pfizer-Covid-vaccine-cyber-attack)
+- [Covid-19: Risk model identifies 800,000 vulnerable individuals](https://www.computerweekly.com/news/252496411/Covid-19-Risk-model-identifies-800000-vulnerable-individuals)
+- [C40, C60 R3, go! Pure adds to FlashArray//C QLC flash range](https://www.computerweekly.com/news/252496404/C40-C60-R3-go-Pure-adds-to-FlashArray-C-QLC-flash-range)
+- [Covid-19 drives growth in low-code development tools](https://www.computerweekly.com/news/252496408/Covid-19-drives-growth-in-low-code-development-tools)
+- [RDP, SSH exposures off the charts thanks to remote working](https://www.computerweekly.com/news/252496393/RDP-SSH-exposures-off-the-charts-thanks-to-remote-working)
+- [A Computer Weekly buyer’s guide to identity and access management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-identity-and-access-management)
+- [Qatar regulator launches platform to monitor human understanding of financial crime](https://www.computerweekly.com/news/252496385/Qatar-regulator-launches-platform-to-monitor-human-understanding-of-financial-crime)
+- [Egregor ransomware associates arrested amid disruption](https://www.computerweekly.com/news/252496384/Egregor-ransomware-associates-arrested-amid-disruption)
+- [IR35 private sector reforms: HMRC reminds firms to use ‘reasonable care’ when applying new tax rules](https://www.computerweekly.com/news/252496381/IR35-private-sector-reforms-HMRC-reminds-firms-to-use-reasonable-care-when-applying-new-tax-rules)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

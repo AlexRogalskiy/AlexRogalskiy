@@ -357,16 +357,16 @@ flesh, there is no</p><p>hurry</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft bucks history, pegs Windows 10 21H1 as 'minor' upgrade](https://www.computerworld.com/article/3607978/microsoft-bucks-history-pegs-windows-10-21h1-as-minor-upgrade.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [iPad gains much-improved Microsoft Office app](https://www.computerworld.com/article/3607671/ipad-gains-much-improved-microsoft-office-app.html#tk.rss_all)
+- [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings.html#tk.rss_all)
+- [Back to the future: Microsoft moves to push Windows 10 users to the cloud](https://www.computerworld.com/article/3607648/back-to-the-future-microsoft-moves-to-push-windows-10-users-to-the-cloud.html#tk.rss_all)
 - [How to password protect PDFs on Macs (for free)](https://www.computerworld.com/article/3607713/how-to-password-protect-pdfs-on-macs-for-free.html#tk.rss_all)
 - [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [For February, a 'bumpy' Patch Tuesday ride](https://www.computerworld.com/article/3607749/for-february-a-bumpy-patch-tuesday-ride.html#tk.rss_all)
 - [BrandPost: How Regular Device Rotations Plus Support Plans Keep Users Productive and Thriving](https://www.computerworld.com/article/3607429/how-regular-device-rotations-plus-support-plans-keep-users-productive-and-thriving.html#tk.rss_all)
 - [What's not to love with this month’s Patch Tuesday?](https://www.computerworld.com/article/3607454/whats-not-to-love-with-this-months-patch-tuesday.html#tk.rss_all)
-- [Can Apple Watch boost your endpoint security?](https://www.computerworld.com/article/3607473/can-apple-watch-boost-your-endpoint-security.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Podcast: Worldwide chip shortage affects the iPhone 12; Apple Car rumors](https://www.computerworld.com/article/3607389/podcast-worldwide-chip-shortage-affects-the-iphone-12-apple-car-rumors.html#tk.rss_all)
-- [Apple wants Safari in iOS to be your private browser](https://www.computerworld.com/article/3607368/apple-wants-safari-in-ios-to-be-your-private-browser.html#tk.rss_all)
-- [Android launchers are officially exciting again](https://www.computerworld.com/article/3606851/android-launchers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

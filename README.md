@@ -312,16 +312,16 @@ flesh, there is no</p><p>hurry</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Centre deregulates geospatial data and map-making in India](https://www.hindustantimes.com/india-news/centre-deregulates-geospatial-data-and-map-making-in-india-101613410526630.html)
-- [Ketogenic diets inhibit mitochondrial biogenesis and induce cardiac fibrosis](https://www.nature.com/articles/s41392-020-00411-4)
-- [Supersonic electric VTOL aircraft analysis in Python](https://github.com/gusgordon/electric_jet)
-- [The A1100 Project](http://a1100.arananet.net/)
-- [17 Years of NixOS contributions visualized](https://www.visualsource.net/repo/github.com/NixOS/nix)
-- [Parler Is Back Online](https://www.washingtonpost.com/technology/2021/02/15/parler-returns-online/)
-- [Miami mayor says Elon Musk will tunnel under the city for just $30M](https://www.theverge.com/2021/2/5/22269188/elon-musk-boring-company-miami-tunnel-mayor-francis-suarez)
-- [Ask HN: How do you securely handle user-generated content](https://news.ycombinator.com/item?id=26150050)
-- [Parler is back: the world's town square](https://www.parler.com/auth/access)
-- [More on the Ethics of Bitcoin](https://sevenpillarsinstitute.org/more-on-the-ethics-of-bitcoin/)
+- [HN: The Good Parts](https://danluu.com/hn-comments/)
+- [Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
+- [POPL 2021: A Programmable Cloud: Calm Foundations and Open Challenges [video]](https://www.youtube.com/watch?v=dgOhwMmiiG0)
+- [Parler Is Coming Back Online, but Its Users Have Already Moved On](https://www.vice.com/en/article/v7mnjy/parler-is-coming-back-online-but-its-users-have-already-moved-on)
+- [China wants to be carbon neutral by 2060, but can its provinces manage it?](https://www.scmp.com/news/china/politics/article/3121901/china-wants-be-carbon-neutral-2060-can-its-provinces-manage-it)
+- [Narrative Fallacy](https://models.substack.com/p/narrative-fallacy)
+- [Generate Music on a Quantum Computer](https://github.com/alexfreed7/algorythms)
+- [Sup.js: Saves URL parameters and put them into forms](https://github.com/gkogan/sup-save-url-parameters)
+- [Show HN: FactCheck – search experts opinions on topics](http://fact-check.herokuapp.com/)
+- [Judge Rules Lenders Can Keep $500M of Citibank’s Accidental Wire Transfer](https://www.complex.com/style/judge-rules-revlon-lenders-keep-500-million-citigroup-accidental-wire-transfer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

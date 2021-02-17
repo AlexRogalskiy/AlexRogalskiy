@@ -432,16 +432,16 @@ flesh, there is no</p><p>hurry</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The Florida water plant attack signals a new era of digital warfare — it’s time to fight back](https://www.itworldcanada.com/sponsored/the-florida-water-plant-attack-signals-a-new-era-of-digital-warfare-its-time-to-fight-back)
+- [SAP Canada appoints new COO to design and implement business strategies](https://www.itworldcanada.com/article/sap-canada-appoints-new-coo-to-design-and-implement-business-strategies/442433)
+- [Former U.S. Commissioner of the FCC appointed to the board of BAI Communications](https://www.itworldcanada.com/article/former-u-s-commissioner-of-the-fcc-appointed-to-the-board-of-bai-communications/442426)
+- [A Conti ransomware attack: fast, deep and persistent](https://www.itworldcanada.com/article/a-conti-ransomware-attack-fast-deep-and-persistent/442409)
+- [Hashtag Trending – Canada and Huawei partnership; Netflix office in Canada; Unemployment hotline in Reddit](https://www.itworldcanada.com/article/hashtag-trending-canada-and-huawei-partnership-netflix-office-in-canada-unemployment-hotline-in-reddit/442423)
+- [President to President with Andrew Eppich, managing director at Equinix Canada](https://www.itworldcanada.com/video/president-to-president-with-andrew-eppich-managing-director-at-equinix-canada)
 - [Cyber Security Today – More allegations of hacked Supermicro motherboards, reports of ransomware group arrested and warning to tax professionals](https://www.itworldcanada.com/article/cyber-security-today-more-allegations-of-hacked-supermicro-motherboards-reports-of-ransomware-group-arrested-and-warning-to-tax-professionals/442391)
 - [Canadian vehicle rental service hit by ransomware](https://www.itworldcanada.com/article/canadian-vehicle-rental-service-hit-by-ransomware/442384)
 - [Cyber Security Today – Week in Review for Friday February 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-february-12-2021/442313)
 - [Universities form alliance to address ‘atrociously small’ number of Indigenous and Black engineering faculty in Ontario](https://www.itworldcanada.com/article/universities-form-alliance-to-address-atrociously-small-number-of-indigenous-and-black-engineering-faculty/442134)
-- [Researcher says Florida water plant attack was ‘immature, rushed or unintentional’](https://www.itworldcanada.com/article/researcher-says-florida-water-plant-attack-was-immature-rushed-or-unintentional/442338)
-- [Cyber Security Today – Don’t be blue on Valentine’s Day, SIM-swapping gang broken, US can search devices without a warrant at the border](https://www.itworldcanada.com/article/cyber-security-today-dont-be-blue-on-valentines-day-sim-swapping-gang-broken-us-can-search-devices-without-a-warrant-at-its-border-and-more/442322)
-- [Hashtag Trending – Farmers hacking tractors; Bitcoin’s carbon footprint; Frustration over Uber Eats’ pay system](https://www.itworldcanada.com/article/hashtag-trending-farmers-hacking-tractors-bitcoins-carbon-footprint-frustration-over-uber-eats-pay-system/442326)
-- [What Canadian CIOs need to know in 2021](https://www.itworldcanada.com/blog/what-canadian-cios-need-to-know-in-2021/442325)
-- [Herjavec Group to be acquired by U.K.-based Apax Funds](https://www.itworldcanada.com/article/herjavec-group-to-be-acquired-by-u-k-based-apax-funds/442296)
-- [Skeptical about the model used for AI-derived recommendations? Here are the questions to ask](https://www.itworldcanada.com/blog/skeptical-about-the-model-used-for-ai-derived-recommendations-here-are-the-questions-to-ask/440951)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

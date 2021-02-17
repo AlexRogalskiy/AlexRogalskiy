@@ -417,16 +417,16 @@ flesh, there is no</p><p>hurry</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning python from scratch](https://www.reddit.com/r/InformationTechnology/comments/lleq8n/learning_python_from_scratch/)
+- [how to forget my passwords on a laptop](https://www.reddit.com/r/InformationTechnology/comments/lleb9d/how_to_forget_my_passwords_on_a_laptop/)
+- [Online IT school bootcamp recommendations ?](https://www.reddit.com/r/InformationTechnology/comments/ll9mhe/online_it_school_bootcamp_recommendations/)
+- [What are some of the certification do you recommend for IT graduates?](https://www.reddit.com/r/InformationTechnology/comments/ll2bcc/what_are_some_of_the_certification_do_you/)
 - [Help with monitoring Mac while in different room, without surpassing internet data cap.](https://www.reddit.com/r/InformationTechnology/comments/lk1u69/help_with_monitoring_mac_while_in_different_room/)
 - [Trends in IT vs. Emerging Technologies in IT](https://www.reddit.com/r/InformationTechnology/comments/ljfh0f/trends_in_it_vs_emerging_technologies_in_it/)
 - [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
 - [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
 - [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
 - [Former Black Hat?](https://www.reddit.com/r/InformationTechnology/comments/liorkz/former_black_hat/)
-- [Beginner JavaScript](https://www.reddit.com/r/InformationTechnology/comments/lih7og/beginner_javascript/)
-- [Network connection says "ethernet is disconnected" even though my ethernet cable is plugged](https://www.reddit.com/r/InformationTechnology/comments/libm2i/network_connection_says_ethernet_is_disconnected/)
-- [Methods to study an any given technology in a standardized and methodical way?](https://www.reddit.com/r/InformationTechnology/comments/li5guq/methods_to_study_an_any_given_technology_in_a/)
-- [Applying to remote jobs](https://www.reddit.com/r/InformationTechnology/comments/lhvcjt/applying_to_remote_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

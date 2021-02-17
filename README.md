@@ -308,16 +308,16 @@ Ten thousand years.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hear the Sound of Color with Google's Synesthesia Tool](https://www.reviewgeek.com/71092/hear-the-sound-of-color-with-googles-synesthesia-tool/)
-* [Spider Legs Build Webs Autonomously, without Help from the Brain](https://www.reviewgeek.com/71067/spider-legs-build-webs-autonomously-without-help-from-the-brain/)
-* [Arcade1Up's Latest Collab Is a Limited-Edition 'Street Fighter' Counter-Cade](https://www.reviewgeek.com/71064/arcade1ups-latest-collab-is-a-limited-edition-street-fighter-counter-cade/)
-* [How to Delete Google Assistant Recordings](https://www.howtogeek.com/713484/how-to-delete-google-assistant-recordings/)
-* [Netflix Will Quest for the Sword of Martin in a 'Redwall' Film and Series](https://www.reviewgeek.com/70881/netflix-will-quest-for-the-sword-of-martin-in-a-redwall-film-and-series/)
-* [How to Use Pivot Tables to Analyze Excel Data](https://www.howtogeek.com/701536/how-to-use-pivot-tables-to-analyze-excel-data/)
-* [Chrome Incognito Tabs Might Soon be Locked with Face ID on iOS](https://www.reviewgeek.com/71074/chrome-incognito-tabs-might-soon-be-locked-with-face-id-on-ios/)
-* [How to Hide Your “Last Seen Online” Time in Telegram](https://www.howtogeek.com/710383/how-to-hide-your-last-seen-online-time-in-telegram/)
-* [When and Where You Can Watch NASA's Perseverance Land on Mars](https://www.lifesavvy.com/56933/when-and-where-you-can-watch-nasas-perseverance-land-on-mars/)
-* [Swapping File Managers in Mint 20](https://www.cloudsavvyit.com/9474/swapping-file-managers-in-mint-20/)
+* [How to Fix and Use Custom Search Keywords in Google Chrome](https://www.howtogeek.com/714040/how-to-fix-and-use-custom-searches-keywords-in-google-chrome/)
+* [Pre-Order Wyze's New $35 Color Smart Bulb 4-Pack ($165 Less Than Philips Hue)](https://www.reviewgeek.com/71168/wyze-opens-up-pre-orders-for-its-first-color-smart-bulb/)
+* [Garmin's New Enduro Watch Has an 80-Hour Battery with Solar Charging](https://www.reviewgeek.com/71213/garmins-new-enduro-watch-has-an-80-hour-battery-with-solar-charging/)
+* [Roku's New Customizable Remote Can't Arrive Soon Enough](https://www.reviewgeek.com/71183/rokus-new-customizable-remote-cant-arrive-soon-enough/)
+* [LastPass Free Users Will Have to Choose Between Desktop and Mobile Next Month](https://www.reviewgeek.com/71178/lastpass-free-users-will-have-to-choose-between-desktop-and-mobile-next-month/)
+* [How to Hear a Weather Forecast With Your Alarm on Android](https://www.howtogeek.com/708501/how-to-hear-a-weather-forecast-with-your-alarm-on-android/)
+* [The Audeze Mobius Is an Amazing PC Headset, But Not a Very Good One](https://www.reviewgeek.com/69436/the-audeze-mobius-is-an-amazing-pc-headset-but-not-a-very-good-one/)
+* [How to Lock Your Mac Using Terminal](https://www.howtogeek.com/708728/how-to-lock-your-mac-using-terminal/)
+* [More Than Booze and Beads: The History of Mardi Gras](https://www.lifesavvy.com/18365/more-than-booze-and-beads-the-history-of-mardi-gras/)
+* [How to See and Manage Linked Devices in Signal](https://www.howtogeek.com/710388/how-to-see-and-manage-linked-devices-in-signal/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

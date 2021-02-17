@@ -327,16 +327,16 @@ flesh, there is no</p><p>hurry</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: UK to consider giving excess vaccine to other countries; WHO approves Oxford jab](https://www.theguardian.com/world/live/2021/feb/16/coronavirus-live-news-uk-to-consider-giving-excess-vaccine-to-other-countries-who-approves-oxford-jab)
-- [Australian Open 2021 day nine: Hsieh Su-wei v Naomi Osaka – live!](https://www.theguardian.com/sport/live/2021/feb/16/australian-open-2021-tennis-live-scores-day-nine-naomi-osaka-serena-williams-simona-halep-novak-djokovic-tv-schedule-draw-results-fixtures-order-of-play-melbourne-park-coverage-latest-news-updates)
-- [Myanmar coup: fresh internet blackout imposed as troops clear protesters](https://www.theguardian.com/world/2021/feb/16/myanmar-coup-internet-blackout-soldiers-protesters)
-- [Google and Facebook: the landmark Australian law that will make them pay for news content](https://www.theguardian.com/technology/2021/feb/16/google-and-facebook-the-landmark-australian-law-that-will-make-them-pay-for-news-content)
-- [Pelosi announces plans for 9/11-style commission to examine Capitol riot](https://www.theguardian.com/us-news/2021/feb/15/pelosi-congress-commission-investigate-capitol-riot)
-- [Talking Horses: Skelton confident of big Cheltenham run from Allmankind](https://www.theguardian.com/sport/2021/feb/15/skelton-quietly-confident-of-a-big-cheltenham-run-from-allmankind)
-- [Coventry to seek planning permission for electric car battery 'gigafactory'](https://www.theguardian.com/business/2021/feb/16/coventry-to-seek-planning-permission-for-electric-car-battery-gigafactory)
-- [Stars including Sir Ian McKellen urge changes to visa rules for artists](https://www.theguardian.com/stage/2021/feb/16/stars-including-sir-ian-mckellen-urge-changes-to-visa-rules-for-artists)
-- [IFS urges Rishi Sunak to extend support to tackle 'triple challenge' to economy](https://www.theguardian.com/business/2021/feb/16/ifs-urges-rishi-sunak-to-extend-support-to-tackle-triple-challenge-to-economy)
-- [Sylvester McCoy says doubts about female Doctor were 'stupid sexism'](https://www.theguardian.com/tv-and-radio/2021/feb/16/sylvester-mccoy-says-doubts-about-female-doctor-were-stupid-sexism)
+- [Joe Biden pledges 600m vaccine doses by end of July in town hall – live](https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates)
+- [Australian Open 2021 women's quarter-final: Ash Barty v Karolina Muchova – live!](https://www.theguardian.com/sport/live/2021/feb/17/australian-open-2021-tennis-live-scores-day-10-ash-barty-karolina-muchova-tv-schedule-draw-results-fixtures-order-of-play-melbourne-park-coverage-latest-news-updates)
+- [Millions without power and 21 dead as ferocious winter weather sweeps US](https://www.theguardian.com/us-news/2021/feb/16/texas-weather-snow-storm-latest-news-power-outages-deaths)
+- [Charge dropped against white woman who called police on Black birdwatcher](https://www.theguardian.com/us-news/2021/feb/16/amy-cooper-charges-dropped-confrontation-black-birdwatcher)
+- [Jürgen Klopp hails Liverpool spirit and Alisson after win over RB Leipzig](https://www.theguardian.com/football/2021/feb/17/jurgen-klopp-hails-alisson-and-liverpool-spirit-after-win-over-rb-leipzig)
+- [Europe launches recruitment drive for female and disabled astronauts](https://www.theguardian.com/science/2021/feb/17/europe-launches-recruitment-drive-for-female-and-disabled-astronauts)
+- [Cut VAT for green home improvements and repairs, MPs urge](https://www.theguardian.com/environment/2021/feb/17/cut-vat-for-green-home-improvements-and-repairs-mps-urge)
+- [Dominic Raab calls for ceasefires to enable Covid vaccinations](https://www.theguardian.com/politics/2021/feb/17/dominic-raab-calls-for-ceasefires-to-enable-covid-vaccinations)
+- [BBC extends deadline for over-75s to set up TV licence after lack of response](https://www.theguardian.com/media/2021/feb/16/bbc-extends-deadline-for-over-75s-to-set-up-paid-tv-licence-after-lack-of-response)
+- [Framing Britney Spears review – a sobering look at sexism and celebrity](https://www.theguardian.com/tv-and-radio/2021/feb/16/framing-britney-spears-review-a-sobering-look-at-sexism-and-celebrity-sky-now)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

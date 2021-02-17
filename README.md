@@ -372,6 +372,8 @@ flesh, there is no</p><p>hurry</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Generation Z Is Bringing Dramatic Transformation to the Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/generation-z-is-bringing-dramatic-transformation-to-the-workforce-/a/d-id/1340125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Finding the Great Predictors for Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/finding-the-great-predictors-for-machine-learning/a/d-id/1340137?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [3 Ways to Empower Female Software Engineers on Your Team](https://www.informationweek.com/strategic-cio/team-building-and-staffing/3-ways-to-empower-female-software-engineers-on-your-team/a/d-id/1340119?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Questions to Ask About DevOps Strategy On-Prem vs. the Cloud](https://www.informationweek.com/devops/questions-to-ask-about-devops-strategy-on-prem-vs-the-cloud/a/d-id/1340146?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -380,8 +382,6 @@ flesh, there is no</p><p>hurry</p>
 - [Are Autonomous Businesses Next?](https://www.informationweek.com/big-data/ai-machine-learning/are-autonomous-businesses-next/a/d-id/1340111?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Microsoft Viva Heralds New Wave of Collaboration Tools](https://www.informationweek.com/software/productivity-collaboration-apps/microsoft-viva-heralds-new-wave-of-collaboration-tools/d/d-id/1340097?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why DevOps is Critical to Digital Transformation](https://www.informationweek.com/devops/why-devops-is-critical-to-digital-transformation/a/d-id/1340082?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [For Modernization, Be Nimble, Be Agile, and Go Fast](https://www.informationweek.com/devops/for-modernization-be-nimble-be-agile-and-go-fast/d/d-id/1340037?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What the Team Up of Palantir with IBM Means for AI & Cloud](https://www.informationweek.com/big-data/ai-machine-learning/what-the-team-up-of-palantir-with-ibm-means-for-ai-and-cloud/d/d-id/1340102?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

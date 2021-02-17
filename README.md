@@ -342,16 +342,16 @@ flesh, there is no</p><p>hurry</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
-- [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
-- [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
-- [Performance Optimization Contest](https://easyperf.net/blog/2019/02/02/Performance-optimization-contest)
-- [Windows Refund Day](http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought)
-- [The Worst Experience I've Had with an Aarch64 MacBook](https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15)
-- [What security offers a default OpenBSD installation?](https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html)
-- [Sonobus: Open-source app for low latency peer-to-peer audio](https://sonobus.net/)
-- [Are the New M1 Macbooks Any Good for Deep Learning?](https://www.betterdatascience.com/m1-deep-learning/)
-- [The Libet experiment doesn't disprove free will (2019)](https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/)
+- [Front-of-the-Front-End and Back-of-the-Front-End Web Development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
+- [The Database Inside Your Codebase](https://feifan.blog/posts/the-database-inside-your-codebase)
+- [Malware in open-source web extensions](https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/)
+- [What went wrong with the Texas power grid?](https://www.houstonchronicle.com/business/energy/article/Wholesale-power-prices-spiking-across-Texas-15951684.php)
+- [The most important part of modern government is database management](https://twitter.com/rcolvile/status/1361673425140543490)
+- [Clubhouse Bio Generator](https://perchance.org/owh9gelu4t)
+- [NASA's Perseverance rover will attempt to land on Mars this week](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-perseverance-rover-landing-on-mars-overview)
+- [An anniversary for great justice: Remembering “All Your Base” 20 years later](https://arstechnica.com/gaming/2021/02/get-ready-to-feel-old-the-all-your-base-music-video-turns-20-today/)
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Organizations Using the D Language](https://dlang.org/orgs-using-d.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -236,35 +236,24 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643212916334755840" target="_blank"><i>Above Pate Valley</i></a></summary>
-<p>by Gary Snyder</p><p>We finished clearing the last<br/>
-Section of trail by noon,<br/>
-High on the ridge-side<br/>
-Two thousand feet above the creek<br/>
-Reached the pass, went on<br/>
-Beyond the white pine groves,<br/>
-Granite shoulders, to a small<br/>
-Green meadow watered by the snow,<br/>
-Edged with Aspen—sun<br/>
-Straight high and blazing<br/>
-But the air was cool.<br/>
-Ate a cold fried trout in the<br/>
-Trembling shadows. I spied<br/>
-A glitter, and found a flake<br/>
-Black volcanic glass—obsidian—<br/>
-By a flower. Hands and knees<br/>
-Pushing the Bear grass, thousands<br/>
-Of arrowhead leavings over a<br/>
-Hundred yards. Not one good<br/>
-Head, just razor flakes<br/>
-On a hill snowed all but summer,<br/>
-A land of fat summer deer,<br/>
-They came to camp. On their<br/>
-Own trails. I followed my own<br/>
-Trail here. Picked up the cold-drill,<br/>
-Pick, singlejack, and sack<br/>
-Of dynamite.<br/>
-Ten thousand years.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643303567889973248" target="_blank"><i>Late August</i></a></summary>
+<p>by Margaret Atwood</p><p>Late August—<br/>
+This is the plum season, the nights<br/>
+blue and distended, the moon<br/>
+hazed, this is the season of peaches</p><p>with their lush lobed bulbs<br/>
+that glow in the dusk, apples<br/>
+that drop and rot<br/>
+sweetly, their brown skins veined as glands</p><p>No more the shrill voices<br/>
+that cried <i>Need Need</i><br/>
+from the cold pond, bladed<br/>
+and urgent as new grass</p><p>Now it is the crickets<br/>
+that say <i>Ripe Ripe</i><br/>
+slurred in the darkness, while the plums</p><p>dripping on the lawn outside<br/>
+our window, burst<br/>
+with a sound like thick syrup<br/>
+muffled and slow</p><p>The air is still<br/>
+warm, flesh moves over<br/>
+flesh, there is no</p><p>hurry</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

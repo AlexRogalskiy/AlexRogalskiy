@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/look/look_for_1659.php" target="_blank"><i>look for</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/L/lock_up_2438.php" target="_blank"><i>lock up</i></a>
 <span> = </span>
-<span>If you are looking for something, you're trying to find it.</span>
+<span>to lock the doors and windows of a building or a car to make it secure<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

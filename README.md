@@ -297,16 +297,16 @@ flesh, there is no</p><p>hurry</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Fix and Use Custom Search Keywords in Google Chrome](https://www.howtogeek.com/714040/how-to-fix-and-use-custom-searches-keywords-in-google-chrome/)
-* [Pre-Order Wyze's New $35 Color Smart Bulb 4-Pack ($165 Less Than Philips Hue)](https://www.reviewgeek.com/71168/wyze-opens-up-pre-orders-for-its-first-color-smart-bulb/)
-* [Garmin's New Enduro Watch Has an 80-Hour Battery with Solar Charging](https://www.reviewgeek.com/71213/garmins-new-enduro-watch-has-an-80-hour-battery-with-solar-charging/)
-* [Roku's New Customizable Remote Can't Arrive Soon Enough](https://www.reviewgeek.com/71183/rokus-new-customizable-remote-cant-arrive-soon-enough/)
-* [LastPass Free Users Will Have to Choose Between Desktop and Mobile Next Month](https://www.reviewgeek.com/71178/lastpass-free-users-will-have-to-choose-between-desktop-and-mobile-next-month/)
-* [How to Hear a Weather Forecast With Your Alarm on Android](https://www.howtogeek.com/708501/how-to-hear-a-weather-forecast-with-your-alarm-on-android/)
-* [The Audeze Mobius Is an Amazing PC Headset, But Not a Very Good One](https://www.reviewgeek.com/69436/the-audeze-mobius-is-an-amazing-pc-headset-but-not-a-very-good-one/)
-* [How to Lock Your Mac Using Terminal](https://www.howtogeek.com/708728/how-to-lock-your-mac-using-terminal/)
-* [More Than Booze and Beads: The History of Mardi Gras](https://www.lifesavvy.com/18365/more-than-booze-and-beads-the-history-of-mardi-gras/)
-* [How to See and Manage Linked Devices in Signal](https://www.howtogeek.com/710388/how-to-see-and-manage-linked-devices-in-signal/)
+* [Ring's New Geofence Reminds You To Arm Your Security System When You Leave Home](https://www.reviewgeek.com/71244/ring-security-devices-gain-geofence-automations-for-free/)
+* [Uninstall the ShareIt Android App Now to Avoid Critical Vulnerabilities](https://www.reviewgeek.com/71318/uninstall-the-shareit-android-app-now-to-avoid-critical-vulnerabilities/)
+* [Skip the Wallet: Google Maps is Getting Parking and Transit Fare Payments](https://www.reviewgeek.com/71321/skip-the-wallet-google-maps-is-getting-parking-and-transit-fare-payments/)
+* [Back These Weird Smart Devices in Amazon's Kickstarter-Like Venture](https://www.reviewgeek.com/71275/will-you-help-crowdsource-amazons-smart-cuckoo-clock/)
+* [4K Streaming and Offline Viewing Will Come to YouTube TV as an Add-On Package](https://www.reviewgeek.com/71293/4k-streaming-and-offline-viewing-will-come-to-youtube-tv-as-an-add-on-package/)
+* [How to Turn off Google Assistant Speech Output on Your Phone](https://www.howtogeek.com/713159/how-to-turn-off-google-assistant-speech-output-on-your-phone/)
+* [How to Create a Custom List in Microsoft Excel](https://www.howtogeek.com/707962/how-to-create-a-custom-list-in-microsoft-excel/)
+* [How to Turn on Registration Lock in Signal](https://www.howtogeek.com/712592/how-to-turn-on-registration-lock-in-signal/)
+* [How to Check the Privacy Policies of Your Installed iPhone Apps](https://www.howtogeek.com/712070/how-to-check-the-privacy-policies-of-your-installed-iphone-apps/)
+* [How to Hibernate or Sleep Linux From the Command Line](https://www.cloudsavvyit.com/9607/how-to-hibernate-or-sleep-linux-from-the-command-line/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

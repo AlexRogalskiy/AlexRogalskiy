@@ -386,16 +386,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [TransferGo to harness Google-inspired tech capability](https://www.computerweekly.com/news/252496412/TransferGo-to-harness-Google-inspired-tech-capability)
-- [North Korea accused of Pfizer Covid vaccine cyber attack](https://www.computerweekly.com/news/252496416/North-Korea-accused-of-Pfizer-Covid-vaccine-cyber-attack)
-- [Covid-19: Risk model identifies 800,000 vulnerable individuals](https://www.computerweekly.com/news/252496411/Covid-19-Risk-model-identifies-800000-vulnerable-individuals)
-- [C40, C60 R3, go! Pure adds to FlashArray//C QLC flash range](https://www.computerweekly.com/news/252496404/C40-C60-R3-go-Pure-adds-to-FlashArray-C-QLC-flash-range)
-- [Covid-19 drives growth in low-code development tools](https://www.computerweekly.com/news/252496408/Covid-19-drives-growth-in-low-code-development-tools)
-- [RDP, SSH exposures off the charts thanks to remote working](https://www.computerweekly.com/news/252496393/RDP-SSH-exposures-off-the-charts-thanks-to-remote-working)
-- [A Computer Weekly buyer’s guide to identity and access management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-identity-and-access-management)
-- [Qatar regulator launches platform to monitor human understanding of financial crime](https://www.computerweekly.com/news/252496385/Qatar-regulator-launches-platform-to-monitor-human-understanding-of-financial-crime)
-- [Egregor ransomware associates arrested amid disruption](https://www.computerweekly.com/news/252496384/Egregor-ransomware-associates-arrested-amid-disruption)
-- [IR35 private sector reforms: HMRC reminds firms to use ‘reasonable care’ when applying new tax rules](https://www.computerweekly.com/news/252496381/IR35-private-sector-reforms-HMRC-reminds-firms-to-use-reasonable-care-when-applying-new-tax-rules)
+- [North Korean Lazarus Group hackers indicted in US](https://www.computerweekly.com/news/252496494/North-Korean-Lazarus-Group-hackers-indicted-in-US)
+- [Finnish IT sector demand increases after months of decline](https://www.computerweekly.com/news/252496458/Finnish-IT-sector-demand-increases-after-months-of-decline)
+- [Healthcare digitisation at point financial services was in 1990s](https://www.computerweekly.com/opinion/Healthcare-digitisation-at-point-financial-services-was-in-1990s)
+- [Vaccine passports highlight social impact of systems design](https://www.computerweekly.com/opinion/Vaccine-passports-highlight-social-impact-of-systems-design)
+- [Security pros agree: We need to take a break](https://www.computerweekly.com/news/252496482/Security-pros-agree-We-need-to-take-a-break)
+- [Egregor ransomware arrests confirmed](https://www.computerweekly.com/news/252496480/Egregor-ransomware-arrests-confirmed)
+- [HMRC denies misleading House of Lords over IT contractors’ use of tax avoidance schemes](https://www.computerweekly.com/news/252496481/HMRC-denies-misleading-House-of-Lords-over-IT-contractors-use-of-tax-avoidance-schemes)
+- [Swedish central bank extends digital currency project](https://www.computerweekly.com/news/252496466/Swedish-central-bank-extends-digital-currency-project)
+- [Emotional intelligence, empathy increasingly valued in CISOs](https://www.computerweekly.com/news/252496468/Emotional-intelligence-empathy-increasingly-valued-in-CISOs)
+- [How software developers can make more dough](https://www.computerweekly.com/news/252496463/How-software-developers-can-make-more-dough)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

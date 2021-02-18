@@ -371,16 +371,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Go 1.16 arrives with library, runtime enhancements](https://www.infoworld.com/article/3601938/go-116-arrives-with-library-runtime-enhancements.html#tk.rss_all)
+- [Swift for TensorFlow project shuts down](https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html#tk.rss_all)
+- [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
+- [How to make better technology investments](https://www.infoworld.com/article/3607708/how-to-make-better-technology-investments.html#tk.rss_all)
 - [Google Cloud funds Python projects](https://www.infoworld.com/article/3607977/google-cloud-funds-python-projects.html#tk.rss_all)
 - [Run containers on Azure App Service](https://www.infoworld.com/article/3607791/run-containers-on-azure-app-service.html#tk.rss_all)
 - [Make database normalization part of cloud migration](https://www.infoworld.com/article/3607712/make-database-normalization-part-of-cloud-migration.html#tk.rss_all)
 - [Entry-level software developer? Learn React to get that first job](https://www.infoworld.com/article/3607234/entry-level-software-developer-learn-react-to-get-that-first-job.html#tk.rss_all)
 - [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [How to work with record types in C#](https://www.infoworld.com/article/3607372/how-to-work-with-record-types-in-csharp.html#tk.rss_all)
-- [Boosting science and engineering in the cloud](https://www.infoworld.com/article/3606809/unleashing-science-and-engineering-in-the-cloud.html#tk.rss_all)
-- [Programming jobs for losers — and how to escape them](https://www.infoworld.com/article/3606772/programming-jobs-for-losers-and-how-to-escape-them.html#tk.rss_all)
-- [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
-- [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

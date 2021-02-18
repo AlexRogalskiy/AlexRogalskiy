@@ -341,6 +341,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech salaries rose in 2020 — despite COVID-19](https://www.computerworld.com/article/3608348/tech-salaries-rose-in-2020-despite-covid-19.html#tk.rss_all)
+- [If you liked the M1 Macs, you'll love the M1X](https://www.computerworld.com/article/3607979/if-you-liked-the-m1-macs-youll-love-the-m1x.html#tk.rss_all)
+- [Is Windows 10 a secret Slack slayer?](https://www.computerworld.com/article/3607909/is-windows-10-a-secret-slack-slayer.html#tk.rss_all)
 - [Microsoft bucks history, pegs Windows 10 21H1 as 'minor' upgrade](https://www.computerworld.com/article/3607978/microsoft-bucks-history-pegs-windows-10-21h1-as-minor-upgrade.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [iPad gains much-improved Microsoft Office app](https://www.computerworld.com/article/3607671/ipad-gains-much-improved-microsoft-office-app.html#tk.rss_all)
@@ -348,9 +351,6 @@
 - [Back to the future: Microsoft moves to push Windows 10 users to the cloud](https://www.computerworld.com/article/3607648/back-to-the-future-microsoft-moves-to-push-windows-10-users-to-the-cloud.html#tk.rss_all)
 - [How to password protect PDFs on Macs (for free)](https://www.computerworld.com/article/3607713/how-to-password-protect-pdfs-on-macs-for-free.html#tk.rss_all)
 - [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
-- [For February, a 'bumpy' Patch Tuesday ride](https://www.computerworld.com/article/3607749/for-february-a-bumpy-patch-tuesday-ride.html#tk.rss_all)
-- [BrandPost: How Regular Device Rotations Plus Support Plans Keep Users Productive and Thriving](https://www.computerworld.com/article/3607429/how-regular-device-rotations-plus-support-plans-keep-users-productive-and-thriving.html#tk.rss_all)
-- [What's not to love with this month’s Patch Tuesday?](https://www.computerworld.com/article/3607454/whats-not-to-love-with-this-months-patch-tuesday.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

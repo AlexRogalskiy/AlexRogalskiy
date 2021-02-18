@@ -296,16 +296,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HN: The Good Parts](https://danluu.com/hn-comments/)
-- [Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
-- [POPL 2021: A Programmable Cloud: Calm Foundations and Open Challenges [video]](https://www.youtube.com/watch?v=dgOhwMmiiG0)
-- [Parler Is Coming Back Online, but Its Users Have Already Moved On](https://www.vice.com/en/article/v7mnjy/parler-is-coming-back-online-but-its-users-have-already-moved-on)
-- [China wants to be carbon neutral by 2060, but can its provinces manage it?](https://www.scmp.com/news/china/politics/article/3121901/china-wants-be-carbon-neutral-2060-can-its-provinces-manage-it)
-- [Narrative Fallacy](https://models.substack.com/p/narrative-fallacy)
-- [Generate Music on a Quantum Computer](https://github.com/alexfreed7/algorythms)
-- [Sup.js: Saves URL parameters and put them into forms](https://github.com/gkogan/sup-save-url-parameters)
-- [Show HN: FactCheck – search experts opinions on topics](http://fact-check.herokuapp.com/)
-- [Judge Rules Lenders Can Keep $500M of Citibank’s Accidental Wire Transfer](https://www.complex.com/style/judge-rules-revlon-lenders-keep-500-million-citigroup-accidental-wire-transfer)
+- [The Oatmeal fights back, snaps photo of cash, sends money to charity (2012)](https://arstechnica.com/tech-policy/2012/07/the-oatmeal-fights-backs-snaps-photo-of-cash-sends-money-to-charity/)
+- [Facebook pulls news content for Australia](https://www.itnews.com.au/news/facebook-pulls-news-content-for-australia-561183)
+- [Git by a Bus: Estimate unique and at-risk knowledge in your source code](https://github.com/tomheon/git_by_a_bus)
+- [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
+- [How to Create a Custom Slick Slider](https://robdoylecreative.com/learn-how-to-create-a-vertical-slick-slider-with-custom-dots-and-arrows/)
+- [$5,152 Power Bill? Texas’ Winter Storm Hell Only Gets Worse](https://www.msn.com/en-us/news/us/5-152-power-bill-texas-winter-storm-hell-only-gets-worse/ar-BB1dLKDE)
+- [Motherboards and Beer: Virtual Event Addressing Coreboot / OSS Firmware Prospect](https://www.phoronix.com/scan.php?page=news_item&px=3mdeb-Firmware-Virtual-Event)
+- [Apple Transit – Clipper Card on iPhone](https://transit.applepay.apple/san-francisco)
+- [Data Literacy, Storytelling and Visualisation – a trilogy of talks](http://macbryla.com/posts/data-matters-series/)
+- [DARPA, Linux Foundation Partner to Advance 5G](https://www.nextgov.com/emerging-tech/2021/02/darpa-linux-foundation-partner-advance-5g/172118/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

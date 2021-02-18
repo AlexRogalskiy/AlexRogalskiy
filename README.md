@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/G/Good_wine_needs_no_bush_593.php" target="_blank"><i>Good wine needs no bush</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/A_fool_and_his_money_are_soon_parted_881.php" target="_blank"><i>A fool and his money are soon parted</i></a>
 <span> = </span>
-<span>Something of good quality does not need to be advertised.</span>
+<span>Stupid people spend their money carelessly and soon become poor.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

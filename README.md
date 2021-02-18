@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/L/lock_up_2438.php" target="_blank"><i>lock up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/save_up_1688.php" target="_blank"><i>save up</i></a>
 <span> = </span>
-<span>to lock the doors and windows of a building or a car to make it secure<BR></span>
+<span>to put something aside for the future</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

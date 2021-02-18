@@ -447,9 +447,9 @@ flesh, there is no</p><p>hurry</p>
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/7) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
-2. 🎉 Merged PR [#10](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/10) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
-3. 🎉 Merged PR [#16](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/16) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
+1. 🎉 Merged PR [#36](https://github.com/AlexRogalskiy/android-patterns/pull/36) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+2. 🎉 Merged PR [#37](https://github.com/AlexRogalskiy/android-patterns/pull/37) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
+3. 🎉 Merged PR [#39](https://github.com/AlexRogalskiy/android-patterns/pull/39) in [AlexRogalskiy/android-patterns](https://github.com/AlexRogalskiy/android-patterns)
 4. 🎉 Merged PR [#21](https://github.com/AlexRogalskiy/github-action-branch-mapper/pull/21) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
 5. ❗️ Closed issue [#1](https://github.com/AlexRogalskiy/github-action-branch-mapper/issues/1) in [AlexRogalskiy/github-action-branch-mapper](https://github.com/AlexRogalskiy/github-action-branch-mapper)
 <!--END_SECTION:activity-->

@@ -416,16 +416,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Panasonic updates Toughbook CF-33 ruggedized 2-in-1 PC](https://www.itworldcanada.com/article/panasonic-updates-toughbook-cf-33-ruggedized-2-in-1-pc/442462)
+- [10 Black tech leaders you should know about](https://www.itworldcanada.com/slideshow/10-black-tech-leaders-you-should-know-about)
+- [Cyber Security Today – Security of file-sharing Android app questioned, a new payment card skimmer found and hack of a French IT monitoring application discovered](https://www.itworldcanada.com/article/cyber-security-today-security-of-file-sharing-android-app-questioned-a-new-payment-card-skimmer-found-and-hack-of-a-french-it-monitoring-application-discovered/442448)
+- [Hashtag Trending – LastPass to remove options from free tier sub; Planning tool headaches; Clubhouse is running hot](https://www.itworldcanada.com/article/hashtag-trending-lastpass-to-remove-options-from-free-tier-sub-planning-tool-headaches-clubhouse-is-running-hot/442451)
 - [The Florida water plant attack signals a new era of digital warfare — it’s time to fight back](https://www.itworldcanada.com/sponsored/the-florida-water-plant-attack-signals-a-new-era-of-digital-warfare-its-time-to-fight-back)
 - [SAP Canada appoints new COO to design and implement business strategies](https://www.itworldcanada.com/article/sap-canada-appoints-new-coo-to-design-and-implement-business-strategies/442433)
 - [Former U.S. Commissioner of the FCC appointed to the board of BAI Communications](https://www.itworldcanada.com/article/former-u-s-commissioner-of-the-fcc-appointed-to-the-board-of-bai-communications/442426)
 - [A Conti ransomware attack: fast, deep and persistent](https://www.itworldcanada.com/article/a-conti-ransomware-attack-fast-deep-and-persistent/442409)
 - [Hashtag Trending – Canada and Huawei partnership; Netflix office in Canada; Unemployment hotline in Reddit](https://www.itworldcanada.com/article/hashtag-trending-canada-and-huawei-partnership-netflix-office-in-canada-unemployment-hotline-in-reddit/442423)
 - [President to President with Andrew Eppich, managing director at Equinix Canada](https://www.itworldcanada.com/video/president-to-president-with-andrew-eppich-managing-director-at-equinix-canada)
-- [Cyber Security Today – More allegations of hacked Supermicro motherboards, reports of ransomware group arrested and warning to tax professionals](https://www.itworldcanada.com/article/cyber-security-today-more-allegations-of-hacked-supermicro-motherboards-reports-of-ransomware-group-arrested-and-warning-to-tax-professionals/442391)
-- [Canadian vehicle rental service hit by ransomware](https://www.itworldcanada.com/article/canadian-vehicle-rental-service-hit-by-ransomware/442384)
-- [Cyber Security Today – Week in Review for Friday February 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-february-12-2021/442313)
-- [Universities form alliance to address ‘atrociously small’ number of Indigenous and Black engineering faculty in Ontario](https://www.itworldcanada.com/article/universities-form-alliance-to-address-atrociously-small-number-of-indigenous-and-black-engineering-faculty/442134)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

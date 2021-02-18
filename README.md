@@ -401,16 +401,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is on-the-job training even a thing?](https://www.reddit.com/r/InformationTechnology/comments/lm7rud/is_onthejob_training_even_a_thing/)
+- [Offloading CAT5 cables](https://www.reddit.com/r/InformationTechnology/comments/lm2p8c/offloading_cat5_cables/)
+- [How can someone host video services like netflix in AWS with prohibitively expensive egress cost?](https://www.reddit.com/r/InformationTechnology/comments/lm25d9/how_can_someone_host_video_services_like_netflix/)
+- [What would you do ?](https://www.reddit.com/r/InformationTechnology/comments/lm23hx/what_would_you_do/)
+- [MSSP Vetting](https://www.reddit.com/r/InformationTechnology/comments/llwvei/mssp_vetting/)
+- [Easiest way to import into Excel a url that contains raw JSON?](https://www.reddit.com/r/InformationTechnology/comments/lltrik/easiest_way_to_import_into_excel_a_url_that/)
+- [Centos or ubuntu?](https://www.reddit.com/r/InformationTechnology/comments/lltfex/centos_or_ubuntu/)
+- [Do you generally need a computer to set up a new printer?](https://www.reddit.com/r/InformationTechnology/comments/llmbyr/do_you_generally_need_a_computer_to_set_up_a_new/)
 - [Learning python from scratch](https://www.reddit.com/r/InformationTechnology/comments/lleq8n/learning_python_from_scratch/)
 - [how to forget my passwords on a laptop](https://www.reddit.com/r/InformationTechnology/comments/lleb9d/how_to_forget_my_passwords_on_a_laptop/)
-- [Online IT school bootcamp recommendations ?](https://www.reddit.com/r/InformationTechnology/comments/ll9mhe/online_it_school_bootcamp_recommendations/)
-- [What are some of the certification do you recommend for IT graduates?](https://www.reddit.com/r/InformationTechnology/comments/ll2bcc/what_are_some_of_the_certification_do_you/)
-- [Help with monitoring Mac while in different room, without surpassing internet data cap.](https://www.reddit.com/r/InformationTechnology/comments/lk1u69/help_with_monitoring_mac_while_in_different_room/)
-- [Trends in IT vs. Emerging Technologies in IT](https://www.reddit.com/r/InformationTechnology/comments/ljfh0f/trends_in_it_vs_emerging_technologies_in_it/)
-- [BIOS Problem](https://www.reddit.com/r/InformationTechnology/comments/ljezx0/bios_problem/)
-- [Router Question - 2 IP addresses](https://www.reddit.com/r/InformationTechnology/comments/lj7aco/router_question_2_ip_addresses/)
-- [Help me please](https://www.reddit.com/r/InformationTechnology/comments/lj42ok/help_me_please/)
-- [Former Black Hat?](https://www.reddit.com/r/InformationTechnology/comments/liorkz/former_black_hat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

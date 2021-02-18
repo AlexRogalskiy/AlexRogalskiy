@@ -215,10 +215,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;bd&#x2F;f4&#x2F;b2&#x2F;bdf4b2dbf7242840061f7dfcc03ebbaf.jpg" alt="Prosopopoeia is the Word of the Day. Need a little pronunciation help? Learn how to say it at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cf&#x2F;52&#x2F;dc&#x2F;cf52dc9b844ee9b2d940ec932370c21d.jpg" alt="We have an announcement. Proclamation is the #WordOfTheDay. Get example sentences at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;44&#x2F;09&#x2F;19&#x2F;44091933dcb21b6a73fbf9f0d9045088.jpg" alt="We feel so close to this Word of the Day. It’s camaraderie. See where it comes from at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d6&#x2F;80&#x2F;c1&#x2F;d680c165a9f6031236e6f1458fb1d9fe.jpg" alt="Today’s Word of the Day is brought to you by the sun and the moon. It’s lunisolar. Learn all about it at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;52&#x2F;93&#x2F;08&#x2F;529308f906fea2ad678e8bcab5264c11.jpg" alt="Galimatias is the Word of the Day. Got it? Learn how to say it at Dictionary.com!" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -268,7 +268,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-13°C (<i>scattered clouds</i>), humidity: 72%, pressure: 1025 (mbar), wind: /east/ 3 (m/s), cloudy: 40%</b>
+        <b>-16°C (<i>broken clouds</i>), humidity: 78%, pressure: 1025 (mbar), wind: /east/ 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:28 am</b> and sets at <b>17:57 pm</b>.
     </p>

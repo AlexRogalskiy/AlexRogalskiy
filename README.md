@@ -236,24 +236,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643303567889973248" target="_blank"><i>Late August</i></a></summary>
-<p>by Margaret Atwood</p><p>Late August—<br/>
-This is the plum season, the nights<br/>
-blue and distended, the moon<br/>
-hazed, this is the season of peaches</p><p>with their lush lobed bulbs<br/>
-that glow in the dusk, apples<br/>
-that drop and rot<br/>
-sweetly, their brown skins veined as glands</p><p>No more the shrill voices<br/>
-that cried <i>Need Need</i><br/>
-from the cold pond, bladed<br/>
-and urgent as new grass</p><p>Now it is the crickets<br/>
-that say <i>Ripe Ripe</i><br/>
-slurred in the darkness, while the plums</p><p>dripping on the lawn outside<br/>
-our window, burst<br/>
-with a sound like thick syrup<br/>
-muffled and slow</p><p>The air is still<br/>
-warm, flesh moves over<br/>
-flesh, there is no</p><p>hurry</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643394131127877632" target="_blank"><i>It’s Raining in Love</i></a></summary>
+<p>by Richard Brautigan</p><p>I don’t know what it is,<br/>but I distrust myself<br/>when I start to like a girl<br/>a lot.<br/><br/>It makes me nervous.<br/>I don’t say the right things<br/>or perhaps I start<br/>to examine,<br/>evaluate<br/>compute<br/>what I am saying.<br/><br/>If I say, “Do you think it’s going to rain?”<br/>and she says, “I don’t know,”<br/>I start thinking: Does she really like me?<br/><br/>In other words<br/>I get a little creepy.<br/><br/>A friend of mine once said,<br/>“It’s twenty times better to be friends<br/>with someone<br/>than it is to be in love with them.”<br/><br/>I think he’s right and besides,<br/>it’s raining somewhere, programming flowers<br/>and keeping snails happy.<br/>That’s all taken care of.<br/><br/>BUT<br/>if a girl likes me a lot<br/>and starts getting real nervous<br/>and suddenly begins asking me funny questions<br/>and looks sad if I give the wrong answers<br/>and she says things like,<br/>“Do you think it’s going to rain?”<br/>and I say, “It beats me,”<br/>and she says, “Oh,”<br/>and looks a little sad<br/>at the clear blue California sky,<br/>I think: Thank God, it’s you, baby, this time<br/>instead of me.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

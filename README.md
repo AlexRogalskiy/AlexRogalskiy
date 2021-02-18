@@ -326,16 +326,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Front-of-the-Front-End and Back-of-the-Front-End Web Development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
-- [The Database Inside Your Codebase](https://feifan.blog/posts/the-database-inside-your-codebase)
-- [Malware in open-source web extensions](https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/)
-- [What went wrong with the Texas power grid?](https://www.houstonchronicle.com/business/energy/article/Wholesale-power-prices-spiking-across-Texas-15951684.php)
-- [The most important part of modern government is database management](https://twitter.com/rcolvile/status/1361673425140543490)
-- [Clubhouse Bio Generator](https://perchance.org/owh9gelu4t)
-- [NASA's Perseverance rover will attempt to land on Mars this week](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-perseverance-rover-landing-on-mars-overview)
-- [An anniversary for great justice: Remembering “All Your Base” 20 years later](https://arstechnica.com/gaming/2021/02/get-ready-to-feel-old-the-all-your-base-music-video-turns-20-today/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Organizations Using the D Language](https://dlang.org/orgs-using-d.html)
+- [Rick Perry says Texans would rather be without power over more federal oversight](https://cbsaustin.com/news/local/rick-perry-says-texans-would-rather-be-without-power-for-days-than-have-more-fed-oversight)
+- [Dapr – Distributed Application Runtime](https://dapr.io/)
+- [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
+- [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
+- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
+- [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
+- [Taking a Fall](https://www.popularmechanics.com/adventure/outdoors/a35340487/how-to-fall-from-a-plane-and-survive/?utm_source=DamnInteresting)
+- [How this Ends](https://avc.com/2021/02/how-this-ends/)
+- [Ask HN: Advice for finding an entry-level remote job?](https://news.ycombinator.com/item?id=26171008)
+- [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

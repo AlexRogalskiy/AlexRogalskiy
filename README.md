@@ -356,6 +356,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How GIS Data Can Help Fix Vaccine Distribution](https://www.informationweek.com/big-data/big-data-analytics/how-gis-data-can-help-fix-vaccine-distribution/d/d-id/1340164?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [CIOs: Are You Ready Today for Tomorrow's Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Generation Z Is Bringing Dramatic Transformation to the Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/generation-z-is-bringing-dramatic-transformation-to-the-workforce-/a/d-id/1340125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Finding the Great Predictors for Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/finding-the-great-predictors-for-machine-learning/a/d-id/1340137?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -364,8 +366,6 @@
 - [Overcoming Digital Transformation Challenges With The Cloud](https://www.informationweek.com/cloud/overcoming-digital-transformation-challenges-with-the-cloud/a/d-id/1340118?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Exploring Diverse Talent to Fill Tech and Cybersecurity Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/exploring-diverse-talent-to-fill-tech-and-cybersecurity-jobs/d/d-id/1340128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Autonomous Businesses Next?](https://www.informationweek.com/big-data/ai-machine-learning/are-autonomous-businesses-next/a/d-id/1340111?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Microsoft Viva Heralds New Wave of Collaboration Tools](https://www.informationweek.com/software/productivity-collaboration-apps/microsoft-viva-heralds-new-wave-of-collaboration-tools/d/d-id/1340097?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why DevOps is Critical to Digital Transformation](https://www.informationweek.com/devops/why-devops-is-critical-to-digital-transformation/a/d-id/1340082?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

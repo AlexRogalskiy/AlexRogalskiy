@@ -296,16 +296,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Oatmeal fights back, snaps photo of cash, sends money to charity (2012)](https://arstechnica.com/tech-policy/2012/07/the-oatmeal-fights-backs-snaps-photo-of-cash-sends-money-to-charity/)
-- [Facebook pulls news content for Australia](https://www.itnews.com.au/news/facebook-pulls-news-content-for-australia-561183)
-- [Git by a Bus: Estimate unique and at-risk knowledge in your source code](https://github.com/tomheon/git_by_a_bus)
-- [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
-- [How to Create a Custom Slick Slider](https://robdoylecreative.com/learn-how-to-create-a-vertical-slick-slider-with-custom-dots-and-arrows/)
-- [$5,152 Power Bill? Texas’ Winter Storm Hell Only Gets Worse](https://www.msn.com/en-us/news/us/5-152-power-bill-texas-winter-storm-hell-only-gets-worse/ar-BB1dLKDE)
-- [Motherboards and Beer: Virtual Event Addressing Coreboot / OSS Firmware Prospect](https://www.phoronix.com/scan.php?page=news_item&px=3mdeb-Firmware-Virtual-Event)
-- [Apple Transit – Clipper Card on iPhone](https://transit.applepay.apple/san-francisco)
-- [Data Literacy, Storytelling and Visualisation – a trilogy of talks](http://macbryla.com/posts/data-matters-series/)
-- [DARPA, Linux Foundation Partner to Advance 5G](https://www.nextgov.com/emerging-tech/2021/02/darpa-linux-foundation-partner-advance-5g/172118/)
+- [Apple Platform Security](https://support.apple.com/en-au/guide/security/welcome/web)
+- [CodeRibbon: An Atom plug-in for efficiently navigating code](https://utk-se.github.io/CodeRibbon/)
+- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
+- [We Can't Tell Good Wine from Bad](https://www.theatlantic.com/health/archive/2011/10/you-are-not-so-smart-why-we-cant-tell-good-wine-from-bad/247240/)
+- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
+- [5-MeO-DMT: The Story Behind the '“God Molecule” (2020)](https://doubleblindmag.com/5-meo-dmt-the-story-behind-the-god-molecule/)
+- [Command line utility to generate functioning virtual escape room frm JSON config](https://github.com/csurfer/escaperoom)
+- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Remotion](https://github.com/JonnyBurger/remotion-trailer)
+- [Variable tyre pressure wheelset is a mountain biking breakthrough – Ride24](https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

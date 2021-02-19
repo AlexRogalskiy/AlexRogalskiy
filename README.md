@@ -401,16 +401,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
+- [Problematic UniFi IP Address](https://www.reddit.com/r/InformationTechnology/comments/lmu8w2/problematic_unifi_ip_address/)
+- [Are books information technology?](https://www.reddit.com/r/InformationTechnology/comments/lmedte/are_books_information_technology/)
+- [Computer information systems major](https://www.reddit.com/r/InformationTechnology/comments/lmbdrr/computer_information_systems_major/)
 - [Is on-the-job training even a thing?](https://www.reddit.com/r/InformationTechnology/comments/lm7rud/is_onthejob_training_even_a_thing/)
 - [Offloading CAT5 cables](https://www.reddit.com/r/InformationTechnology/comments/lm2p8c/offloading_cat5_cables/)
-- [How can someone host video services like netflix in AWS with prohibitively expensive egress cost?](https://www.reddit.com/r/InformationTechnology/comments/lm25d9/how_can_someone_host_video_services_like_netflix/)
 - [What would you do ?](https://www.reddit.com/r/InformationTechnology/comments/lm23hx/what_would_you_do/)
 - [MSSP Vetting](https://www.reddit.com/r/InformationTechnology/comments/llwvei/mssp_vetting/)
 - [Easiest way to import into Excel a url that contains raw JSON?](https://www.reddit.com/r/InformationTechnology/comments/lltrik/easiest_way_to_import_into_excel_a_url_that/)
 - [Centos or ubuntu?](https://www.reddit.com/r/InformationTechnology/comments/lltfex/centos_or_ubuntu/)
-- [Do you generally need a computer to set up a new printer?](https://www.reddit.com/r/InformationTechnology/comments/llmbyr/do_you_generally_need_a_computer_to_set_up_a_new/)
-- [Learning python from scratch](https://www.reddit.com/r/InformationTechnology/comments/lleq8n/learning_python_from_scratch/)
-- [how to forget my passwords on a laptop](https://www.reddit.com/r/InformationTechnology/comments/lleb9d/how_to_forget_my_passwords_on_a_laptop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

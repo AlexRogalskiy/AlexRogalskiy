@@ -341,16 +341,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: M1X chip: The next generation of Apple Silicon](https://www.computerworld.com/article/3608649/podcast-m1x-chip-the-next-generation-of-apple-silicon.html#tk.rss_all)
+- [Apple publishes in-depth M1, Mac, and iOS security guide](https://www.computerworld.com/article/3608330/apple-publishes-in-depth-m1-mac-and-ios-security-guide.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [What’s next for remote workers? A virtual ‘watercooler’](https://www.computerworld.com/article/3607976/whats-next-for-remote-workers-a-virtual-watercooler.html#tk.rss_all)
 - [Tech salaries rose in 2020 — despite COVID-19](https://www.computerworld.com/article/3608348/tech-salaries-rose-in-2020-despite-covid-19.html#tk.rss_all)
 - [If you liked the M1 Macs, you'll love the M1X](https://www.computerworld.com/article/3607979/if-you-liked-the-m1-macs-youll-love-the-m1x.html#tk.rss_all)
 - [Is Windows 10 a secret Slack slayer?](https://www.computerworld.com/article/3607909/is-windows-10-a-secret-slack-slayer.html#tk.rss_all)
 - [Microsoft bucks history, pegs Windows 10 21H1 as 'minor' upgrade](https://www.computerworld.com/article/3607978/microsoft-bucks-history-pegs-windows-10-21h1-as-minor-upgrade.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [iPad gains much-improved Microsoft Office app](https://www.computerworld.com/article/3607671/ipad-gains-much-improved-microsoft-office-app.html#tk.rss_all)
-- [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings.html#tk.rss_all)
-- [Back to the future: Microsoft moves to push Windows 10 users to the cloud](https://www.computerworld.com/article/3607648/back-to-the-future-microsoft-moves-to-push-windows-10-users-to-the-cloud.html#tk.rss_all)
-- [How to password protect PDFs on Macs (for free)](https://www.computerworld.com/article/3607713/how-to-password-protect-pdfs-on-macs-for-free.html#tk.rss_all)
-- [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

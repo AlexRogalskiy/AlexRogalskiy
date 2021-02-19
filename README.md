@@ -326,16 +326,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rick Perry says Texans would rather be without power over more federal oversight](https://cbsaustin.com/news/local/rick-perry-says-texans-would-rather-be-without-power-for-days-than-have-more-fed-oversight)
-- [Dapr – Distributed Application Runtime](https://dapr.io/)
-- [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
-- [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
-- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
-- [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
-- [Taking a Fall](https://www.popularmechanics.com/adventure/outdoors/a35340487/how-to-fall-from-a-plane-and-survive/?utm_source=DamnInteresting)
-- [How this Ends](https://avc.com/2021/02/how-this-ends/)
-- [Ask HN: Advice for finding an entry-level remote job?](https://news.ycombinator.com/item?id=26171008)
-- [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
+- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Hawai'i could be 2nd state to legalize psychedelic mushrooms](https://www.kitv.com/story/43360017/hawaii-could-be-2nd-state-to-legalize-psychedelic-mushrooms)
+- [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
+- [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
+- [California State Legislator Introduces Bill to Decriminalize Psychedelics](https://maps.org/news/media/8885-statement-california-state-legislator-introduces-bill-to-decriminalize-psychedelics)
+- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
+- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
+- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
+- [Python 3.x: RCE in Python applications that accept floats as untrusted input](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

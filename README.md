@@ -416,16 +416,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [British Columbia receives $6.7 million project to improve internet connectivity](https://www.itworldcanada.com/article/british-columbia-receives-6-7-million-project-to-improve-internet-connectivity/442532)
+- [Canadian privacy expert says 2021 could be the year for digital ID projects](https://www.itworldcanada.com/article/canadian-privacy-expert-says-2021-could-be-the-year-for-digital-id-projects/442500)
+- [Investment and audit key for security in 2021](https://www.itworldcanada.com/sponsored/investment-and-audit-key-for-security-in-2021)
+- [Hashtag Trending, Feb. 18 – Bitcoin goes nuclear; New York sues Amazon; Shopify rides small biz wave](https://www.itworldcanada.com/article/hashtag-trending-feb-18-bitcoin-goes-nuclear-new-york-sues-amazon-shopify-rides-small-biz-wave/442515)
 - [Panasonic updates Toughbook CF-33 ruggedized 2-in-1 PC](https://www.itworldcanada.com/article/panasonic-updates-toughbook-cf-33-ruggedized-2-in-1-pc/442462)
 - [10 Black tech leaders you should know about](https://www.itworldcanada.com/slideshow/10-black-tech-leaders-you-should-know-about)
 - [Cyber Security Today – Security of file-sharing Android app questioned, a new payment card skimmer found and hack of a French IT monitoring application discovered](https://www.itworldcanada.com/article/cyber-security-today-security-of-file-sharing-android-app-questioned-a-new-payment-card-skimmer-found-and-hack-of-a-french-it-monitoring-application-discovered/442448)
 - [Hashtag Trending – LastPass to remove options from free tier sub; Planning tool headaches; Clubhouse is running hot](https://www.itworldcanada.com/article/hashtag-trending-lastpass-to-remove-options-from-free-tier-sub-planning-tool-headaches-clubhouse-is-running-hot/442451)
 - [The Florida water plant attack signals a new era of digital warfare — it’s time to fight back](https://www.itworldcanada.com/sponsored/the-florida-water-plant-attack-signals-a-new-era-of-digital-warfare-its-time-to-fight-back)
 - [SAP Canada appoints new COO to design and implement business strategies](https://www.itworldcanada.com/article/sap-canada-appoints-new-coo-to-design-and-implement-business-strategies/442433)
-- [Former U.S. Commissioner of the FCC appointed to the board of BAI Communications](https://www.itworldcanada.com/article/former-u-s-commissioner-of-the-fcc-appointed-to-the-board-of-bai-communications/442426)
-- [A Conti ransomware attack: fast, deep and persistent](https://www.itworldcanada.com/article/a-conti-ransomware-attack-fast-deep-and-persistent/442409)
-- [Hashtag Trending – Canada and Huawei partnership; Netflix office in Canada; Unemployment hotline in Reddit](https://www.itworldcanada.com/article/hashtag-trending-canada-and-huawei-partnership-netflix-office-in-canada-unemployment-hotline-in-reddit/442423)
-- [President to President with Andrew Eppich, managing director at Equinix Canada](https://www.itworldcanada.com/video/president-to-president-with-andrew-eppich-managing-director-at-equinix-canada)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

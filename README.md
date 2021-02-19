@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/British/come_a_cropper_396.php" target="_blank"><i>come a cropper</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/jump_the_gun_81.php" target="_blank"><i>jump the gun</i></a>
 <span> = </span>
-<span>If you come a cropper, you fall over, or you make a mistake which has serious consequences for you.</span>
+<span>If you jump the gun, you start doing something too soon.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

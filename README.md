@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/pooped_1568.php" target="_blank"><i>pooped</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Drink_Drugs/user_1485.php" target="_blank"><i>user</i></a>
 <span> = </span>
-<span>very tired, exhausted</span>
+<span>a person who regularly takes mind-altering drugs</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

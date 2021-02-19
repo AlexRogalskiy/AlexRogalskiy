@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/A_fool_and_his_money_are_soon_parted_881.php" target="_blank"><i>A fool and his money are soon parted</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Looks/Beauty_is_only_skin_deep_518.php" target="_blank"><i>Beauty is only skin deep</i></a>
 <span> = </span>
-<span>Stupid people spend their money carelessly and soon become poor.</span>
+<span>Physical beauty is superficial. A pleasing exterior is no guide to a person's interior or character.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

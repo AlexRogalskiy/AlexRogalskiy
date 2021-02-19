@@ -268,7 +268,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>light snow</i>), humidity: 72%, pressure: 1023 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
+        <b>-14°C (<i>light snow</i>), humidity: 78%, pressure: 1023 (mbar), wind: /north/ 1 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:25 am</b> and sets at <b>17:59 pm</b>.
     </p>
@@ -281,16 +281,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ring's New Geofence Reminds You To Arm Your Security System When You Leave Home](https://www.reviewgeek.com/71244/ring-security-devices-gain-geofence-automations-for-free/)
-* [Uninstall the ShareIt Android App Now to Avoid Critical Vulnerabilities](https://www.reviewgeek.com/71318/uninstall-the-shareit-android-app-now-to-avoid-critical-vulnerabilities/)
-* [Skip the Wallet: Google Maps is Getting Parking and Transit Fare Payments](https://www.reviewgeek.com/71321/skip-the-wallet-google-maps-is-getting-parking-and-transit-fare-payments/)
-* [Back These Weird Smart Devices in Amazon's Kickstarter-Like Venture](https://www.reviewgeek.com/71275/will-you-help-crowdsource-amazons-smart-cuckoo-clock/)
-* [4K Streaming and Offline Viewing Will Come to YouTube TV as an Add-On Package](https://www.reviewgeek.com/71293/4k-streaming-and-offline-viewing-will-come-to-youtube-tv-as-an-add-on-package/)
-* [How to Turn off Google Assistant Speech Output on Your Phone](https://www.howtogeek.com/713159/how-to-turn-off-google-assistant-speech-output-on-your-phone/)
-* [How to Create a Custom List in Microsoft Excel](https://www.howtogeek.com/707962/how-to-create-a-custom-list-in-microsoft-excel/)
-* [How to Turn on Registration Lock in Signal](https://www.howtogeek.com/712592/how-to-turn-on-registration-lock-in-signal/)
-* [How to Check the Privacy Policies of Your Installed iPhone Apps](https://www.howtogeek.com/712070/how-to-check-the-privacy-policies-of-your-installed-iphone-apps/)
-* [How to Hibernate or Sleep Linux From the Command Line](https://www.cloudsavvyit.com/9607/how-to-hibernate-or-sleep-linux-from-the-command-line/)
+* [What’s New in Windows 10’s 21H1 Update, Coming Spring 2021](https://www.howtogeek.com/685996/whats-new-in-windows-10s-21h1-update-coming-spring-2021/)
+* [What’s New in Windows 10’s 21H2 Update, Coming Winter 2021](https://www.howtogeek.com/714485/whats-new-in-windows-10s-21h2-update-coming-winter-2021/)
+* [YouTube TV's Latest Bundle Nets a Discount on HBO Max, Showtime, and Starz](https://www.reviewgeek.com/71450/youtube-tvs-latest-bundle-nets-a-discount-on-hbo-max-showtime-and-starz/)
+* [Apple Makes Good on Its Promise, Releases the TV App for the New Chromecast](https://www.reviewgeek.com/71435/apple-makes-good-on-its-promise-releases-the-tv-app-for-the-new-chromecast/)
+* [Android 12's Dev Preview Promises a Cleaner, Faster, More Immersive Experience](https://www.reviewgeek.com/71427/android-12s-dev-preview-promises-a-cleaner-faster-more-immersive-experience/)
+* [Your Next Pair of Sennheiser Earbuds Could Be Custom-Fit to Your Ear Canals](https://www.reviewgeek.com/71409/your-next-pair-of-sennheiser-earbuds-could-be-custom-fit-to-your-ear-canals/)
+* [The RTX 3060 Graphics Card Is Terrible for Mining, and That's a Good Thing](https://www.reviewgeek.com/71417/the-rtx-3060-graphics-card-is-terrible-for-mining-and-thats-a-good-thing/)
+* [Get a $40 Credit from Amazon for Trying its In-Garage Delivery Service](https://www.reviewgeek.com/71419/get-a-40-credit-from-amazon-for-trying-its-in-garage-delivery-service/)
+* [How to Safely Remove USB Flash Drives From a Chromebook](https://www.howtogeek.com/713317/how-to-safely-remove-usb-flash-drives-from-a-chromebook/)
+* [How to Put Borders Around Images in Microsoft Word](https://www.howtogeek.com/708082/how-to-put-borders-around-images-in-microsoft-word/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

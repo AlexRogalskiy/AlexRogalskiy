@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/save_up_1688.php" target="_blank"><i>save up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_1/own_up_1785.php" target="_blank"><i>own up</i></a>
 <span> = </span>
-<span>to put something aside for the future</span>
+<span>If you own up to something, you admit that you've done something wrong or made a mistake.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

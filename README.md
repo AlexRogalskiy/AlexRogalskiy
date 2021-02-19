@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/British/come_a_cropper_396.php" target="_blank"><i>come a cropper</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/jump_the_gun_81.php" target="_blank"><i>jump the gun</i></a>
 <span> = </span>
-<span>If you come a cropper, you fall over, or you make a mistake which has serious consequences for you.</span>
+<span>If you jump the gun, you start doing something too soon.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -236,8 +236,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643394131127877632" target="_blank"><i>It’s Raining in Love</i></a></summary>
-<p>by Richard Brautigan</p><p>I don’t know what it is,<br/>but I distrust myself<br/>when I start to like a girl<br/>a lot.<br/><br/>It makes me nervous.<br/>I don’t say the right things<br/>or perhaps I start<br/>to examine,<br/>evaluate<br/>compute<br/>what I am saying.<br/><br/>If I say, “Do you think it’s going to rain?”<br/>and she says, “I don’t know,”<br/>I start thinking: Does she really like me?<br/><br/>In other words<br/>I get a little creepy.<br/><br/>A friend of mine once said,<br/>“It’s twenty times better to be friends<br/>with someone<br/>than it is to be in love with them.”<br/><br/>I think he’s right and besides,<br/>it’s raining somewhere, programming flowers<br/>and keeping snails happy.<br/>That’s all taken care of.<br/><br/>BUT<br/>if a girl likes me a lot<br/>and starts getting real nervous<br/>and suddenly begins asking me funny questions<br/>and looks sad if I give the wrong answers<br/>and she says things like,<br/>“Do you think it’s going to rain?”<br/>and I say, “It beats me,”<br/>and she says, “Oh,”<br/>and looks a little sad<br/>at the clear blue California sky,<br/>I think: Thank God, it’s you, baby, this time<br/>instead of me.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643484719837757440" target="_blank"><i>Tear It Down</i></a></summary>
+<p>by Jack Gilbert<br/></p><p>We find out the heart only by dismantling what<br/>the heart knows. By redefining the morning,<br/>we find a morning that comes just after darkness.<br/>We can break through marriage into marriage.<br/>By insisting on love we spoil it, get beyond<br/>affection and wade mouth-deep into love.<br/>We must unlearn the constellations to see the stars.<br/>But going back toward childhood will not help.<br/>The village is not better than Pittsburgh.<br/>Only Pittsburgh is more than Pittsburgh.<br/>Rome is better than Rome in the same way the sound<br/>of racoon tongues licking the inside walls<br/>of the garbage tub is more than the stir<br/>of them in the muck of the garbage. Love is not<br/>enough. We die and are put into the earth forever.<br/>We should insist while there is still time. We must<br/>eat through the wildness of her sweet body already<br/>in our bed to reach the body within the body.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -268,7 +268,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-14°C (<i>light snow</i>), humidity: 72%, pressure: 1023 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
+        <b>-14°C (<i>light snow</i>), humidity: 78%, pressure: 1023 (mbar), wind: /north/ 1 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:25 am</b> and sets at <b>17:59 pm</b>.
     </p>
@@ -281,151 +281,151 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ring's New Geofence Reminds You To Arm Your Security System When You Leave Home](https://www.reviewgeek.com/71244/ring-security-devices-gain-geofence-automations-for-free/)
-* [Uninstall the ShareIt Android App Now to Avoid Critical Vulnerabilities](https://www.reviewgeek.com/71318/uninstall-the-shareit-android-app-now-to-avoid-critical-vulnerabilities/)
-* [Skip the Wallet: Google Maps is Getting Parking and Transit Fare Payments](https://www.reviewgeek.com/71321/skip-the-wallet-google-maps-is-getting-parking-and-transit-fare-payments/)
-* [Back These Weird Smart Devices in Amazon's Kickstarter-Like Venture](https://www.reviewgeek.com/71275/will-you-help-crowdsource-amazons-smart-cuckoo-clock/)
-* [4K Streaming and Offline Viewing Will Come to YouTube TV as an Add-On Package](https://www.reviewgeek.com/71293/4k-streaming-and-offline-viewing-will-come-to-youtube-tv-as-an-add-on-package/)
-* [How to Turn off Google Assistant Speech Output on Your Phone](https://www.howtogeek.com/713159/how-to-turn-off-google-assistant-speech-output-on-your-phone/)
-* [How to Create a Custom List in Microsoft Excel](https://www.howtogeek.com/707962/how-to-create-a-custom-list-in-microsoft-excel/)
-* [How to Turn on Registration Lock in Signal](https://www.howtogeek.com/712592/how-to-turn-on-registration-lock-in-signal/)
-* [How to Check the Privacy Policies of Your Installed iPhone Apps](https://www.howtogeek.com/712070/how-to-check-the-privacy-policies-of-your-installed-iphone-apps/)
-* [How to Hibernate or Sleep Linux From the Command Line](https://www.cloudsavvyit.com/9607/how-to-hibernate-or-sleep-linux-from-the-command-line/)
+* [What’s New in Windows 10’s 21H1 Update, Coming Spring 2021](https://www.howtogeek.com/685996/whats-new-in-windows-10s-21h1-update-coming-spring-2021/)
+* [What’s New in Windows 10’s 21H2 Update, Coming Winter 2021](https://www.howtogeek.com/714485/whats-new-in-windows-10s-21h2-update-coming-winter-2021/)
+* [YouTube TV's Latest Bundle Nets a Discount on HBO Max, Showtime, and Starz](https://www.reviewgeek.com/71450/youtube-tvs-latest-bundle-nets-a-discount-on-hbo-max-showtime-and-starz/)
+* [Apple Makes Good on Its Promise, Releases the TV App for the New Chromecast](https://www.reviewgeek.com/71435/apple-makes-good-on-its-promise-releases-the-tv-app-for-the-new-chromecast/)
+* [Android 12's Dev Preview Promises a Cleaner, Faster, More Immersive Experience](https://www.reviewgeek.com/71427/android-12s-dev-preview-promises-a-cleaner-faster-more-immersive-experience/)
+* [Your Next Pair of Sennheiser Earbuds Could Be Custom-Fit to Your Ear Canals](https://www.reviewgeek.com/71409/your-next-pair-of-sennheiser-earbuds-could-be-custom-fit-to-your-ear-canals/)
+* [The RTX 3060 Graphics Card Is Terrible for Mining, and That's a Good Thing](https://www.reviewgeek.com/71417/the-rtx-3060-graphics-card-is-terrible-for-mining-and-thats-a-good-thing/)
+* [Get a $40 Credit from Amazon for Trying its In-Garage Delivery Service](https://www.reviewgeek.com/71419/get-a-40-credit-from-amazon-for-trying-its-in-garage-delivery-service/)
+* [How to Safely Remove USB Flash Drives From a Chromebook](https://www.howtogeek.com/713317/how-to-safely-remove-usb-flash-drives-from-a-chromebook/)
+* [How to Put Borders Around Images in Microsoft Word](https://www.howtogeek.com/708082/how-to-put-borders-around-images-in-microsoft-word/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Oatmeal fights back, snaps photo of cash, sends money to charity (2012)](https://arstechnica.com/tech-policy/2012/07/the-oatmeal-fights-backs-snaps-photo-of-cash-sends-money-to-charity/)
-- [Facebook pulls news content for Australia](https://www.itnews.com.au/news/facebook-pulls-news-content-for-australia-561183)
-- [Git by a Bus: Estimate unique and at-risk knowledge in your source code](https://github.com/tomheon/git_by_a_bus)
-- [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
-- [How to Create a Custom Slick Slider](https://robdoylecreative.com/learn-how-to-create-a-vertical-slick-slider-with-custom-dots-and-arrows/)
-- [$5,152 Power Bill? Texas’ Winter Storm Hell Only Gets Worse](https://www.msn.com/en-us/news/us/5-152-power-bill-texas-winter-storm-hell-only-gets-worse/ar-BB1dLKDE)
-- [Motherboards and Beer: Virtual Event Addressing Coreboot / OSS Firmware Prospect](https://www.phoronix.com/scan.php?page=news_item&px=3mdeb-Firmware-Virtual-Event)
-- [Apple Transit – Clipper Card on iPhone](https://transit.applepay.apple/san-francisco)
-- [Data Literacy, Storytelling and Visualisation – a trilogy of talks](http://macbryla.com/posts/data-matters-series/)
-- [DARPA, Linux Foundation Partner to Advance 5G](https://www.nextgov.com/emerging-tech/2021/02/darpa-linux-foundation-partner-advance-5g/172118/)
+- [Apple Platform Security](https://support.apple.com/en-au/guide/security/welcome/web)
+- [CodeRibbon: An Atom plug-in for efficiently navigating code](https://utk-se.github.io/CodeRibbon/)
+- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
+- [We Can't Tell Good Wine from Bad](https://www.theatlantic.com/health/archive/2011/10/you-are-not-so-smart-why-we-cant-tell-good-wine-from-bad/247240/)
+- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
+- [5-MeO-DMT: The Story Behind the '“God Molecule” (2020)](https://doubleblindmag.com/5-meo-dmt-the-story-behind-the-god-molecule/)
+- [Command line utility to generate functioning virtual escape room frm JSON config](https://github.com/csurfer/escaperoom)
+- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Remotion](https://github.com/JonnyBurger/remotion-trailer)
+- [Variable tyre pressure wheelset is a mountain biking breakthrough – Ride24](https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Pfizer says vaccine offers two-thirds less protection from South African variant](https://www.theguardian.com/world/live/2021/feb/18/coronavirus-live-news-un-says-130-countries-have-not-received-a-single-vaccine-dose)
-- ['Wildly unfair': UN says 130 countries have not received a single Covid vaccine dose](https://www.theguardian.com/world/2021/feb/18/wildly-unfair-un-says-130-countries-have-not-received-a-single-covid-vaccine-dose)
-- [Talking Horses: Royale Pagaille owners told to target Gold Cup](https://www.theguardian.com/sport/2021/feb/17/horse-racingroyale-pagaille-should-target-gold-cup-advisor-cheltenham)
-- [UK garment factory workers at higher risk of dying with Covid – study](https://www.theguardian.com/business/2021/feb/18/uk-garment-factory-workers-at-higher-risk-of-dying-with-covid-study)
-- ['Outstanding' Carnegie medal longlist includes three previous winners](https://www.theguardian.com/books/2021/feb/18/outstanding-carnegie-medal-longlist-includes-three-previous-winners)
-- [Demand for UK nursing degrees rises by a third in pandemic](https://www.theguardian.com/society/2021/feb/18/demand-for-uk-nursing-degrees-rises-by-a-third-in-pandemic)
-- [Covid optimism lifts business confidence in UK to five-year high](https://www.theguardian.com/business/2021/feb/18/covid-optimism-uk-business-confidence-lockdown-easing-sales)
-- [Haskell and Cudmore launch new lobby group with letter to World Rugby](https://www.theguardian.com/sport/2021/feb/18/jamie-cudmore-james-haskell-progressive-rugby-with-letter-to-world-rugby)
-- [Chancellor urged to use budget to tackle rent debt crisis](https://www.theguardian.com/society/2021/feb/18/chancellor-urged-to-use-budget-to-tackle-rent-debt-crisis)
-- [Manchester City go 10 points clear after Silva seals win at Everton](https://www.theguardian.com/football/2021/feb/17/everton-manchester-city-premier-league-match-report)
+- [Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme](https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme)
+- [Mars rover landing: Nasa's Perseverance safely touches down in search of life](https://www.theguardian.com/science/2021/feb/18/nasa-perseverance-rover-mars-lands-life)
+- [Kevin Rudd says Australian politicians ‘frightened’ of ‘Murdoch media beast’ in Senate inquiry](https://www.theguardian.com/australia-news/2021/feb/19/kevin-rudd-says-australian-politicians-frightened-of-murdoch-media-beast-in-senate-inquiry)
+- [Iran nuclear deal: US agrees to join talks brokered by EU](https://www.theguardian.com/world/2021/feb/19/iran-nuclear-deal-us-agrees-to-join-talks-brokered-by-eu)
+- [Learning time for children declined as 2020 Covid lockdown progressed – study](https://www.theguardian.com/education/2021/feb/19/learning-time-for-children-declined-as-2020-covid-lockdown-progressed-study)
+- [One in six new universal credit claimants forced to skip meals](https://www.theguardian.com/society/2021/feb/19/new-universal-credit-claimants-forced-skip-meals-covid)
+- [Special needs pupils in England 'pushed to one side' in Covid crisis](https://www.theguardian.com/education/2021/feb/19/special-needs-pupils-in-england-pushed-to-one-side-in-covid-crisis)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/19/premier-league-10-things-to-look-out-for-this-weekend)
+- [Unearthed figurine suggests ancient Britons favoured mullets](https://www.theguardian.com/science/2021/feb/19/when-mullets-rocked-figurine-suggests-ancient-britons-favoured-hairstyle)
+- [Vaccine passport plan could help Britons holiday in Greece](https://www.theguardian.com/world/2021/feb/18/vaccine-passport-plan-could-help-britons-holiday-in-greece)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rick Perry says Texans would rather be without power over more federal oversight](https://cbsaustin.com/news/local/rick-perry-says-texans-would-rather-be-without-power-for-days-than-have-more-fed-oversight)
-- [Dapr – Distributed Application Runtime](https://dapr.io/)
-- [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
-- [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
-- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
-- [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
-- [Taking a Fall](https://www.popularmechanics.com/adventure/outdoors/a35340487/how-to-fall-from-a-plane-and-survive/?utm_source=DamnInteresting)
-- [How this Ends](https://avc.com/2021/02/how-this-ends/)
-- [Ask HN: Advice for finding an entry-level remote job?](https://news.ycombinator.com/item?id=26171008)
-- [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
+- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Hawai'i could be 2nd state to legalize psychedelic mushrooms](https://www.kitv.com/story/43360017/hawaii-could-be-2nd-state-to-legalize-psychedelic-mushrooms)
+- [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
+- [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
+- [California State Legislator Introduces Bill to Decriminalize Psychedelics](https://maps.org/news/media/8885-statement-california-state-legislator-introduces-bill-to-decriminalize-psychedelics)
+- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
+- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
+- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
+- [Python 3.x: RCE in Python applications that accept floats as untrusted input](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: M1X chip: The next generation of Apple Silicon](https://www.computerworld.com/article/3608649/podcast-m1x-chip-the-next-generation-of-apple-silicon.html#tk.rss_all)
+- [Apple publishes in-depth M1, Mac, and iOS security guide](https://www.computerworld.com/article/3608330/apple-publishes-in-depth-m1-mac-and-ios-security-guide.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [What’s next for remote workers? A virtual ‘watercooler’](https://www.computerworld.com/article/3607976/whats-next-for-remote-workers-a-virtual-watercooler.html#tk.rss_all)
 - [Tech salaries rose in 2020 — despite COVID-19](https://www.computerworld.com/article/3608348/tech-salaries-rose-in-2020-despite-covid-19.html#tk.rss_all)
 - [If you liked the M1 Macs, you'll love the M1X](https://www.computerworld.com/article/3607979/if-you-liked-the-m1-macs-youll-love-the-m1x.html#tk.rss_all)
 - [Is Windows 10 a secret Slack slayer?](https://www.computerworld.com/article/3607909/is-windows-10-a-secret-slack-slayer.html#tk.rss_all)
 - [Microsoft bucks history, pegs Windows 10 21H1 as 'minor' upgrade](https://www.computerworld.com/article/3607978/microsoft-bucks-history-pegs-windows-10-21h1-as-minor-upgrade.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [iPad gains much-improved Microsoft Office app](https://www.computerworld.com/article/3607671/ipad-gains-much-improved-microsoft-office-app.html#tk.rss_all)
-- [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings.html#tk.rss_all)
-- [Back to the future: Microsoft moves to push Windows 10 users to the cloud](https://www.computerworld.com/article/3607648/back-to-the-future-microsoft-moves-to-push-windows-10-users-to-the-cloud.html#tk.rss_all)
-- [How to password protect PDFs on Macs (for free)](https://www.computerworld.com/article/3607713/how-to-password-protect-pdfs-on-macs-for-free.html#tk.rss_all)
-- [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CRM Trends 2021: How the Pandemic Altered Customer Behavior Forever](https://www.informationweek.com/software/enterprise-applications/crm-trends-2021-how-the-pandemic-altered-customer-behavior-forever/d/d-id/1340192?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [11 Ways DevOps Is Evolving](https://www.informationweek.com/devops/11-ways-devops-is-evolving/d/d-id/1340185?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How GIS Data Can Help Fix Vaccine Distribution](https://www.informationweek.com/big-data/big-data-analytics/how-gis-data-can-help-fix-vaccine-distribution/d/d-id/1340164?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CIOs: Are You Ready Today for Tomorrow's Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [CIOs: Are You Ready Today for Tomorrow�s Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Generation Z Is Bringing Dramatic Transformation to the Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/generation-z-is-bringing-dramatic-transformation-to-the-workforce-/a/d-id/1340125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Finding the Great Predictors for Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/finding-the-great-predictors-for-machine-learning/a/d-id/1340137?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [3 Ways to Empower Female Software Engineers on Your Team](https://www.informationweek.com/strategic-cio/team-building-and-staffing/3-ways-to-empower-female-software-engineers-on-your-team/a/d-id/1340119?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Questions to Ask About DevOps Strategy On-Prem vs. the Cloud](https://www.informationweek.com/devops/questions-to-ask-about-devops-strategy-on-prem-vs-the-cloud/a/d-id/1340146?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Overcoming Digital Transformation Challenges With The Cloud](https://www.informationweek.com/cloud/overcoming-digital-transformation-challenges-with-the-cloud/a/d-id/1340118?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Exploring Diverse Talent to Fill Tech and Cybersecurity Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/exploring-diverse-talent-to-fill-tech-and-cybersecurity-jobs/d/d-id/1340128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Are Autonomous Businesses Next?](https://www.informationweek.com/big-data/ai-machine-learning/are-autonomous-businesses-next/a/d-id/1340111?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_all)
+- [3 ways to get into reinforcement learning](https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html#tk.rss_all)
+- [Observability: What IT should know as the technology heats up](https://www.infoworld.com/article/3608249/observability-what-it-should-know-as-the-technology-heats-up.html#tk.rss_all)
+- [What is observability? Software monitoring on steroids](https://www.infoworld.com/article/3607980/what-is-observability-software-monitoring-on-steroids.html#tk.rss_all)
 - [Go 1.16 arrives with library, runtime enhancements](https://www.infoworld.com/article/3601938/go-116-arrives-with-library-runtime-enhancements.html#tk.rss_all)
 - [Swift for TensorFlow project shuts down](https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html#tk.rss_all)
 - [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
 - [How to make better technology investments](https://www.infoworld.com/article/3607708/how-to-make-better-technology-investments.html#tk.rss_all)
 - [Google Cloud funds Python projects](https://www.infoworld.com/article/3607977/google-cloud-funds-python-projects.html#tk.rss_all)
 - [Run containers on Azure App Service](https://www.infoworld.com/article/3607791/run-containers-on-azure-app-service.html#tk.rss_all)
-- [Make database normalization part of cloud migration](https://www.infoworld.com/article/3607712/make-database-normalization-part-of-cloud-migration.html#tk.rss_all)
-- [Entry-level software developer? Learn React to get that first job](https://www.infoworld.com/article/3607234/entry-level-software-developer-learn-react-to-get-that-first-job.html#tk.rss_all)
-- [Tech Resume Library: 24 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
-- [How to work with record types in C#](https://www.infoworld.com/article/3607372/how-to-work-with-record-types-in-csharp.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Data lake storage: Cloud vs on-premise data lakes](https://www.computerweekly.com/feature/Data-lake-storage-Cloud-vs-on-premise-data-lakes)
+- [Swedish police fined for unlawful use of facial-recognition app](https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app)
+- [HMRC accused of 'utter hypocrisy' over use of IT contractors enrolled in tax avoidance schemes](https://www.computerweekly.com/news/252496534/HMRC-accused-of-utter-hypocrisy-over-use-of-IT-contractors-enrolled-in-tax-avoidance-schemes)
+- [City of Helsinki adopts MyData principles to improve digital services](https://www.computerweekly.com/news/252496546/City-of-Helsinki-adopts-MyData-principles-to-improve-digital-services)
+- [Why technology leaders must drive post-Covid agenda](https://www.computerweekly.com/news/252496539/Why-technology-leaders-must-drive-post-Covid-agenda)
+- [2020 a record year for cyber, thanks to Covid](https://www.computerweekly.com/news/252496528/2020-a-record-year-for-cyber-thanks-to-Covid)
+- [Fingerprints will help payment cards retain relevance](https://www.computerweekly.com/news/252496529/Fingerprints-will-help-payment-cards-retain-relevance)
+- [Assessing UK law enforcement data adequacy](https://www.computerweekly.com/news/252496527/Assessing-UK-law-enforcement-data-adequacy)
 - [North Korean Lazarus Group hackers indicted in US](https://www.computerweekly.com/news/252496494/North-Korean-Lazarus-Group-hackers-indicted-in-US)
 - [Finnish IT sector demand increases after months of decline](https://www.computerweekly.com/news/252496458/Finnish-IT-sector-demand-increases-after-months-of-decline)
-- [Healthcare digitisation at point financial services was in 1990s](https://www.computerweekly.com/opinion/Healthcare-digitisation-at-point-financial-services-was-in-1990s)
-- [Vaccine passports highlight social impact of systems design](https://www.computerweekly.com/opinion/Vaccine-passports-highlight-social-impact-of-systems-design)
-- [Security pros agree: We need to take a break](https://www.computerweekly.com/news/252496482/Security-pros-agree-We-need-to-take-a-break)
-- [Egregor ransomware arrests confirmed](https://www.computerweekly.com/news/252496480/Egregor-ransomware-arrests-confirmed)
-- [HMRC denies misleading House of Lords over IT contractors’ use of tax avoidance schemes](https://www.computerweekly.com/news/252496481/HMRC-denies-misleading-House-of-Lords-over-IT-contractors-use-of-tax-avoidance-schemes)
-- [Swedish central bank extends digital currency project](https://www.computerweekly.com/news/252496466/Swedish-central-bank-extends-digital-currency-project)
-- [Emotional intelligence, empathy increasingly valued in CISOs](https://www.computerweekly.com/news/252496468/Emotional-intelligence-empathy-increasingly-valued-in-CISOs)
-- [How software developers can make more dough](https://www.computerweekly.com/news/252496463/How-software-developers-can-make-more-dough)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
+- [Problematic UniFi IP Address](https://www.reddit.com/r/InformationTechnology/comments/lmu8w2/problematic_unifi_ip_address/)
+- [Are books information technology?](https://www.reddit.com/r/InformationTechnology/comments/lmedte/are_books_information_technology/)
+- [Computer information systems major](https://www.reddit.com/r/InformationTechnology/comments/lmbdrr/computer_information_systems_major/)
 - [Is on-the-job training even a thing?](https://www.reddit.com/r/InformationTechnology/comments/lm7rud/is_onthejob_training_even_a_thing/)
 - [Offloading CAT5 cables](https://www.reddit.com/r/InformationTechnology/comments/lm2p8c/offloading_cat5_cables/)
-- [How can someone host video services like netflix in AWS with prohibitively expensive egress cost?](https://www.reddit.com/r/InformationTechnology/comments/lm25d9/how_can_someone_host_video_services_like_netflix/)
 - [What would you do ?](https://www.reddit.com/r/InformationTechnology/comments/lm23hx/what_would_you_do/)
 - [MSSP Vetting](https://www.reddit.com/r/InformationTechnology/comments/llwvei/mssp_vetting/)
 - [Easiest way to import into Excel a url that contains raw JSON?](https://www.reddit.com/r/InformationTechnology/comments/lltrik/easiest_way_to_import_into_excel_a_url_that/)
 - [Centos or ubuntu?](https://www.reddit.com/r/InformationTechnology/comments/lltfex/centos_or_ubuntu/)
-- [Do you generally need a computer to set up a new printer?](https://www.reddit.com/r/InformationTechnology/comments/llmbyr/do_you_generally_need_a_computer_to_set_up_a_new/)
-- [Learning python from scratch](https://www.reddit.com/r/InformationTechnology/comments/lleq8n/learning_python_from_scratch/)
-- [how to forget my passwords on a laptop](https://www.reddit.com/r/InformationTechnology/comments/lleb9d/how_to_forget_my_passwords_on_a_laptop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [British Columbia receives $6.7 million project to improve internet connectivity](https://www.itworldcanada.com/article/british-columbia-receives-6-7-million-project-to-improve-internet-connectivity/442532)
+- [Canadian privacy expert says 2021 could be the year for digital ID projects](https://www.itworldcanada.com/article/canadian-privacy-expert-says-2021-could-be-the-year-for-digital-id-projects/442500)
+- [Investment and audit key for security in 2021](https://www.itworldcanada.com/sponsored/investment-and-audit-key-for-security-in-2021)
+- [Hashtag Trending, Feb. 18 – Bitcoin goes nuclear; New York sues Amazon; Shopify rides small biz wave](https://www.itworldcanada.com/article/hashtag-trending-feb-18-bitcoin-goes-nuclear-new-york-sues-amazon-shopify-rides-small-biz-wave/442515)
 - [Panasonic updates Toughbook CF-33 ruggedized 2-in-1 PC](https://www.itworldcanada.com/article/panasonic-updates-toughbook-cf-33-ruggedized-2-in-1-pc/442462)
 - [10 Black tech leaders you should know about](https://www.itworldcanada.com/slideshow/10-black-tech-leaders-you-should-know-about)
 - [Cyber Security Today – Security of file-sharing Android app questioned, a new payment card skimmer found and hack of a French IT monitoring application discovered](https://www.itworldcanada.com/article/cyber-security-today-security-of-file-sharing-android-app-questioned-a-new-payment-card-skimmer-found-and-hack-of-a-french-it-monitoring-application-discovered/442448)
 - [Hashtag Trending – LastPass to remove options from free tier sub; Planning tool headaches; Clubhouse is running hot](https://www.itworldcanada.com/article/hashtag-trending-lastpass-to-remove-options-from-free-tier-sub-planning-tool-headaches-clubhouse-is-running-hot/442451)
 - [The Florida water plant attack signals a new era of digital warfare — it’s time to fight back](https://www.itworldcanada.com/sponsored/the-florida-water-plant-attack-signals-a-new-era-of-digital-warfare-its-time-to-fight-back)
 - [SAP Canada appoints new COO to design and implement business strategies](https://www.itworldcanada.com/article/sap-canada-appoints-new-coo-to-design-and-implement-business-strategies/442433)
-- [Former U.S. Commissioner of the FCC appointed to the board of BAI Communications](https://www.itworldcanada.com/article/former-u-s-commissioner-of-the-fcc-appointed-to-the-board-of-bai-communications/442426)
-- [A Conti ransomware attack: fast, deep and persistent](https://www.itworldcanada.com/article/a-conti-ransomware-attack-fast-deep-and-persistent/442409)
-- [Hashtag Trending – Canada and Huawei partnership; Netflix office in Canada; Unemployment hotline in Reddit](https://www.itworldcanada.com/article/hashtag-trending-canada-and-huawei-partnership-netflix-office-in-canada-unemployment-hotline-in-reddit/442423)
-- [President to President with Andrew Eppich, managing director at Equinix Canada](https://www.itworldcanada.com/video/president-to-president-with-andrew-eppich-managing-director-at-equinix-canada)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

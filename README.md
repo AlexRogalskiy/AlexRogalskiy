@@ -386,16 +386,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Data lake storage: Cloud vs on-premise data lakes](https://www.computerweekly.com/feature/Data-lake-storage-Cloud-vs-on-premise-data-lakes)
+- [Swedish police fined for unlawful use of facial-recognition app](https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app)
+- [HMRC accused of 'utter hypocrisy' over use of IT contractors enrolled in tax avoidance schemes](https://www.computerweekly.com/news/252496534/HMRC-accused-of-utter-hypocrisy-over-use-of-IT-contractors-enrolled-in-tax-avoidance-schemes)
+- [City of Helsinki adopts MyData principles to improve digital services](https://www.computerweekly.com/news/252496546/City-of-Helsinki-adopts-MyData-principles-to-improve-digital-services)
+- [Why technology leaders must drive post-Covid agenda](https://www.computerweekly.com/news/252496539/Why-technology-leaders-must-drive-post-Covid-agenda)
+- [2020 a record year for cyber, thanks to Covid](https://www.computerweekly.com/news/252496528/2020-a-record-year-for-cyber-thanks-to-Covid)
+- [Fingerprints will help payment cards retain relevance](https://www.computerweekly.com/news/252496529/Fingerprints-will-help-payment-cards-retain-relevance)
+- [Assessing UK law enforcement data adequacy](https://www.computerweekly.com/news/252496527/Assessing-UK-law-enforcement-data-adequacy)
 - [North Korean Lazarus Group hackers indicted in US](https://www.computerweekly.com/news/252496494/North-Korean-Lazarus-Group-hackers-indicted-in-US)
 - [Finnish IT sector demand increases after months of decline](https://www.computerweekly.com/news/252496458/Finnish-IT-sector-demand-increases-after-months-of-decline)
-- [Healthcare digitisation at point financial services was in 1990s](https://www.computerweekly.com/opinion/Healthcare-digitisation-at-point-financial-services-was-in-1990s)
-- [Vaccine passports highlight social impact of systems design](https://www.computerweekly.com/opinion/Vaccine-passports-highlight-social-impact-of-systems-design)
-- [Security pros agree: We need to take a break](https://www.computerweekly.com/news/252496482/Security-pros-agree-We-need-to-take-a-break)
-- [Egregor ransomware arrests confirmed](https://www.computerweekly.com/news/252496480/Egregor-ransomware-arrests-confirmed)
-- [HMRC denies misleading House of Lords over IT contractors’ use of tax avoidance schemes](https://www.computerweekly.com/news/252496481/HMRC-denies-misleading-House-of-Lords-over-IT-contractors-use-of-tax-avoidance-schemes)
-- [Swedish central bank extends digital currency project](https://www.computerweekly.com/news/252496466/Swedish-central-bank-extends-digital-currency-project)
-- [Emotional intelligence, empathy increasingly valued in CISOs](https://www.computerweekly.com/news/252496468/Emotional-intelligence-empathy-increasingly-valued-in-CISOs)
-- [How software developers can make more dough](https://www.computerweekly.com/news/252496463/How-software-developers-can-make-more-dough)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

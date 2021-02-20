@@ -236,8 +236,59 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643484719837757440" target="_blank"><i>Tear It Down</i></a></summary>
-<p>by Jack Gilbert<br/></p><p>We find out the heart only by dismantling what<br/>the heart knows. By redefining the morning,<br/>we find a morning that comes just after darkness.<br/>We can break through marriage into marriage.<br/>By insisting on love we spoil it, get beyond<br/>affection and wade mouth-deep into love.<br/>We must unlearn the constellations to see the stars.<br/>But going back toward childhood will not help.<br/>The village is not better than Pittsburgh.<br/>Only Pittsburgh is more than Pittsburgh.<br/>Rome is better than Rome in the same way the sound<br/>of racoon tongues licking the inside walls<br/>of the garbage tub is more than the stir<br/>of them in the muck of the garbage. Love is not<br/>enough. We die and are put into the earth forever.<br/>We should insist while there is still time. We must<br/>eat through the wildness of her sweet body already<br/>in our bed to reach the body within the body.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643566135994908672" target="_blank"><i>Apolitical Intellectuals</i></a></summary>
+<p>by Otto Rene Castillo</p><p>One day,<br/>
+the apolitical<br/>
+intellectuals<br/>
+of my country<br/>
+will be interrogated<br/>
+by the humblest <br/>
+of our people.</p><p> They will be asked<br/>
+what they did<br/>
+when their country was slowly<br/>
+dying out,<br/>
+like a sweet campfire,<br/>
+small and abandoned.</p><p> No one will ask them<br/>
+about their dress<br/>
+or their long<br/>
+siestas<br/>
+after lunch,<br/>
+or about their futile struggles<br/>
+against “nothingness,”<br/>
+or about their ontological<br/>
+way<br/>
+to make money,<br/>
+No, they won’t be questioned<br/>
+on Greek mythology,<br/>
+or about the self-disgust they felt<br/>
+when someone deep inside them<br/>
+was getting ready to die<br/>
+the coward’s death.</p><p>They will be asked nothing <br/>
+about their absurd<br/>
+justifications<br/>
+nurtured in the shadow<br/>
+of a huge lie.</p><p> On that day,<br/>
+the humble people will come,<br/>
+those who never had a place<br/>
+in the books and poems<br/>
+of the apolitical intellectuals</p><p>but who daily delivered<br/>
+their bread and milk,<br/>
+their eggs and tortillas;<br/>
+those who mended their clothes,<br/>
+those who drove their cars,<br/>
+those who took care of their dogs and gardens,<br/>
+and worked for them,<br/>
+and they will ask:<br/>
+“What did you do when the poor<br/>
+suffered, when tenderness and life<br/>
+were dangerously burning out in them?”</p><p> Apolitical intellectuals<br/>
+of my sweet country,<br/>
+you will have nothing to say.</p><p>  A vulture of silence<br/>
+will eat your gut.<br/>
+Your own misery<br/>
+will gnaw at your souls.<br/>
+And you will be mute<br/>
+in your shame.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

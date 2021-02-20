@@ -467,16 +467,16 @@ in your shame.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The Remote Working Marathon – Moral, Flexibility and The Gender Divide – Forbes](https://www.itworldcanada.com/post/the-remote-working-marathon-moral-flexibility-and-the-gender-divide-forbes)
+- [Security and efficiency, disparaging partners or complimentary pairs?](https://www.itworldcanada.com/blog/security-and-efficiency-disparaging-partners-or-complimentary-pairs/442407)
+- [Cyber Security Today – Week in Review for February 19, 2020](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-19-2020/442556)
+- [Let’s Encrypt upgrades infrastructure, can now issue 200 million certificates in a day](https://www.itworldcanada.com/article/lets-encrypt-upgrades-infrastructure-can-now-issue-200-million-certificates-in-a-day/442547)
+- [U.S. Justice Department says Canadian to plead guilty to laundering money stolen by North Korean cyberattackers](https://www.itworldcanada.com/article/canadian-to-plead-guilty-to-laundering-money-stolen-by-north-korean-cyber-attackers-says-u-s/442503)
+- [Cyber Security Today – Stopping teens from accessing online porn, FBI warning to home buyers and inside a cryptojacking scheme](https://www.itworldcanada.com/article/cyber-security-today-stop-teens-from-accessing-online-porn-fbi-warning-to-home-buyers-and-inside-a-cryptojacking-scheme/442541)
+- [Skeptical about the data and model congruity used for AI-derived recommendations?](https://www.itworldcanada.com/blog/skeptical-about-the-data-and-model-congruity-used-for-ai-derived-recommendations/442330)
+- [Hashtag Trending, Feb. 19 – CRA locks users’ online accounts; Facebook banks news in Australia; Uber takes down UberChats app](https://www.itworldcanada.com/article/the-canadian-revenue-agency-says-online-accounts-were-locked-because-of-an-external-threat-facebook-picks-the-nuclear-option-and-bans-news-on-its-platform-in-australia-and-uber-takes-down-the-ub/442543)
 - [British Columbia receives $6.7 million project to improve internet connectivity](https://www.itworldcanada.com/article/british-columbia-receives-6-7-million-project-to-improve-internet-connectivity/442532)
 - [Canadian privacy expert says 2021 could be the year for digital ID projects](https://www.itworldcanada.com/article/canadian-privacy-expert-says-2021-could-be-the-year-for-digital-id-projects/442500)
-- [Investment and audit key for security in 2021](https://www.itworldcanada.com/sponsored/investment-and-audit-key-for-security-in-2021)
-- [Hashtag Trending, Feb. 18 – Bitcoin goes nuclear; New York sues Amazon; Shopify rides small biz wave](https://www.itworldcanada.com/article/hashtag-trending-feb-18-bitcoin-goes-nuclear-new-york-sues-amazon-shopify-rides-small-biz-wave/442515)
-- [Panasonic updates Toughbook CF-33 ruggedized 2-in-1 PC](https://www.itworldcanada.com/article/panasonic-updates-toughbook-cf-33-ruggedized-2-in-1-pc/442462)
-- [10 Black tech leaders you should know about](https://www.itworldcanada.com/slideshow/10-black-tech-leaders-you-should-know-about)
-- [Cyber Security Today – Security of file-sharing Android app questioned, a new payment card skimmer found and hack of a French IT monitoring application discovered](https://www.itworldcanada.com/article/cyber-security-today-security-of-file-sharing-android-app-questioned-a-new-payment-card-skimmer-found-and-hack-of-a-french-it-monitoring-application-discovered/442448)
-- [Hashtag Trending – LastPass to remove options from free tier sub; Planning tool headaches; Clubhouse is running hot](https://www.itworldcanada.com/article/hashtag-trending-lastpass-to-remove-options-from-free-tier-sub-planning-tool-headaches-clubhouse-is-running-hot/442451)
-- [The Florida water plant attack signals a new era of digital warfare — it’s time to fight back](https://www.itworldcanada.com/sponsored/the-florida-water-plant-attack-signals-a-new-era-of-digital-warfare-its-time-to-fight-back)
-- [SAP Canada appoints new COO to design and implement business strategies](https://www.itworldcanada.com/article/sap-canada-appoints-new-coo-to-design-and-implement-business-strategies/442433)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

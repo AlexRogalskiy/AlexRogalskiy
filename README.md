@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/jump_the_gun_81.php" target="_blank"><i>jump the gun</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/the_moment_of_truth_91.php" target="_blank"><i>the moment of truth</i></a>
 <span> = </span>
-<span>If you jump the gun, you start doing something too soon.</span>
+<span>The moment of truth is a time when the truth about something is revealed, or when an important decision is made.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

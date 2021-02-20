@@ -377,16 +377,16 @@ in your shame.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
-- [Hawai'i could be 2nd state to legalize psychedelic mushrooms](https://www.kitv.com/story/43360017/hawaii-could-be-2nd-state-to-legalize-psychedelic-mushrooms)
-- [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
-- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
-- [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
-- [California State Legislator Introduces Bill to Decriminalize Psychedelics](https://maps.org/news/media/8885-statement-california-state-legislator-introduces-bill-to-decriminalize-psychedelics)
-- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
-- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
-- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
-- [Python 3.x: RCE in Python applications that accept floats as untrusted input](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177)
+- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
+- [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
+- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
+- [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
+- [Diablo II: Resurrected](https://diablo2.blizzard.com/)
+- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
+- [Has Amazon Ruined the Name Alexa?](https://www.statista.com/chart/13907/babies-named-alexa/)
+- [BTC Endgame](https://github.com/mikekelly/btc-endgame)
+- [Circle Medical (YC S15) Is Hiring a Growth Engineer](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea)
+- [Cockpit – Integrated, glanceable, web-based interface for servers](https://cockpit-project.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -281,16 +281,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What’s New in Windows 10’s 21H1 Update, Coming Spring 2021](https://www.howtogeek.com/685996/whats-new-in-windows-10s-21h1-update-coming-spring-2021/)
-* [What’s New in Windows 10’s 21H2 Update, Coming Winter 2021](https://www.howtogeek.com/714485/whats-new-in-windows-10s-21h2-update-coming-winter-2021/)
-* [YouTube TV's Latest Bundle Nets a Discount on HBO Max, Showtime, and Starz](https://www.reviewgeek.com/71450/youtube-tvs-latest-bundle-nets-a-discount-on-hbo-max-showtime-and-starz/)
-* [Apple Makes Good on Its Promise, Releases the TV App for the New Chromecast](https://www.reviewgeek.com/71435/apple-makes-good-on-its-promise-releases-the-tv-app-for-the-new-chromecast/)
-* [Android 12's Dev Preview Promises a Cleaner, Faster, More Immersive Experience](https://www.reviewgeek.com/71427/android-12s-dev-preview-promises-a-cleaner-faster-more-immersive-experience/)
-* [Your Next Pair of Sennheiser Earbuds Could Be Custom-Fit to Your Ear Canals](https://www.reviewgeek.com/71409/your-next-pair-of-sennheiser-earbuds-could-be-custom-fit-to-your-ear-canals/)
-* [The RTX 3060 Graphics Card Is Terrible for Mining, and That's a Good Thing](https://www.reviewgeek.com/71417/the-rtx-3060-graphics-card-is-terrible-for-mining-and-thats-a-good-thing/)
-* [Get a $40 Credit from Amazon for Trying its In-Garage Delivery Service](https://www.reviewgeek.com/71419/get-a-40-credit-from-amazon-for-trying-its-in-garage-delivery-service/)
-* [How to Safely Remove USB Flash Drives From a Chromebook](https://www.howtogeek.com/713317/how-to-safely-remove-usb-flash-drives-from-a-chromebook/)
-* [How to Put Borders Around Images in Microsoft Word](https://www.howtogeek.com/708082/how-to-put-borders-around-images-in-microsoft-word/)
+* [IKEA's TRADFRI Smart Motion Sensor Now Supports Apple HomeKit](https://www.reviewgeek.com/71519/ikeas-tradfri-smart-motion-sensor-now-supports-apple-homekit/)
+* [Get $100 Off the M1 Mac Mini and MacBook Pro at Select Retailers](https://www.reviewgeek.com/71515/get-100-off-the-m1-mac-mini-and-macbook-pro-at-select-retailers/)
+* [Build a LEGO Raspberry Pi Video Jukebox With Free Instructions and Code](https://www.reviewgeek.com/71508/build-a-lego-raspberry-pi-video-jukebox-with-free-instructions-and-code/)
+* [Microsoft Office 2021 Launches Later This Year With Shortened Support Cycle](https://www.reviewgeek.com/71496/microsoft-office-2021-launches-later-this-year-with-shortened-support-cycle/)
+* [America's First Electric Cruiser Motorcycle Looks Like a Dieselpunk Dream](https://www.reviewgeek.com/71500/americas-first-electric-cruiser-motorcycle-looks-like-a-dieselpunk-dream/)
+* [What Is the Google Assistant “Snapshot” Feature?](https://www.howtogeek.com/712331/what-is-the-google-assistant-snapshot-feature/)
+* [How to Send RSS Feeds to a Microsoft Teams Channel](https://www.howtogeek.com/708799/how-to-send-rss-feeds-to-a-microsoft-teams-channel/)
+* [How to Watch Every Season of ‘The Muppet Show’ Without Cable](https://www.howtogeek.com/714508/how-to-stream-the-muppet-show/)
+* [How to Have Your Apple Watch Speak the Time Out Loud](https://www.howtogeek.com/711777/how-to-have-your-apple-watch-speak-the-time-out-loud/)
+* [How to Quickly Create QR Codes With Bing](https://www.howtogeek.com/709582/how-to-quickly-create-qr-codes-with-bing/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

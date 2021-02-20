@@ -347,16 +347,16 @@ in your shame.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple Platform Security](https://support.apple.com/en-au/guide/security/welcome/web)
-- [CodeRibbon: An Atom plug-in for efficiently navigating code](https://utk-se.github.io/CodeRibbon/)
-- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
-- [We Can't Tell Good Wine from Bad](https://www.theatlantic.com/health/archive/2011/10/you-are-not-so-smart-why-we-cant-tell-good-wine-from-bad/247240/)
-- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
-- [5-MeO-DMT: The Story Behind the '“God Molecule” (2020)](https://doubleblindmag.com/5-meo-dmt-the-story-behind-the-god-molecule/)
-- [Command line utility to generate functioning virtual escape room frm JSON config](https://github.com/csurfer/escaperoom)
-- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
-- [Remotion](https://github.com/JonnyBurger/remotion-trailer)
-- [Variable tyre pressure wheelset is a mountain biking breakthrough – Ride24](https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125)
+- [Covid-19 Was Spreading in China Before First Confirmed Cases](https://www.wsj.com/articles/covid-19-was-spreading-in-china-before-first-confirmed-cases-fresh-evidence-suggests-11613730600)
+- [Ask HN: Could you store data in the stock market?](https://news.ycombinator.com/item?id=26200762)
+- [The problems with MVPs in legacy replacement](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement)
+- [Request for Startup: 1.800.VACCINE](https://news.ycombinator.com/item?id=26200722)
+- [The Evolution of LINQ and Its Impact on the Design of C#](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/june/the-evolution-of-linq-and-its-impact-on-the-design-of-csharp)
+- [Fuji Jari Carbon 1.1 review: a fascinating fence-sitter – CyclingTips](https://cyclingtips.com/2021/02/fuji-jari-carbon-1-1-review-a-fascinating-fence-sitter/)
+- [Bill Gates: My Green Manifesto](https://www.ft.com/content/c11bb885-1274-4677-ba05-fcbac67dc808)
+- [FAA Tracking All 737 Max Flights Around World with Satellites](https://www.bloomberg.com/news/articles/2021-02-19/faa-tracking-all-737-max-flights-around-world-with-satellites)
+- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
+- [Why all the world's coronavirus would fit in a can of cola](https://www.bbc.com/future/article/20210210-why-the-entire-coronavirus-would-fit-in-a-can-of-coca-cola)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

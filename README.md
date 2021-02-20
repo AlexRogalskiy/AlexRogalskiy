@@ -452,16 +452,16 @@ in your shame.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT peeps, how do I get my company's IT department to fix an IT problem?](https://www.reddit.com/r/InformationTechnology/comments/lnsti8/it_peeps_how_do_i_get_my_companys_it_department/)
+- [Good entry level IT certifications?](https://www.reddit.com/r/InformationTechnology/comments/lnniwk/good_entry_level_it_certifications/)
+- [Spiceworks Los Angeles Corps Virtual Happy Hour this eve 5pm PST](https://www.reddit.com/r/InformationTechnology/comments/lnmfju/spiceworks_los_angeles_corps_virtual_happy_hour/)
+- [If you are looking for an internship or job in Orlando, FL and identify as an autistic person](https://www.reddit.com/r/InformationTechnology/comments/lnacvc/if_you_are_looking_for_an_internship_or_job_in/)
+- [help with better internet at work](https://www.reddit.com/r/InformationTechnology/comments/lna8jy/help_with_better_internet_at_work/)
+- [Looking to start a security / tech blog](https://www.reddit.com/r/InformationTechnology/comments/ln55tp/looking_to_start_a_security_tech_blog/)
 - [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
 - [Problematic UniFi IP Address](https://www.reddit.com/r/InformationTechnology/comments/lmu8w2/problematic_unifi_ip_address/)
 - [Are books information technology?](https://www.reddit.com/r/InformationTechnology/comments/lmedte/are_books_information_technology/)
 - [Computer information systems major](https://www.reddit.com/r/InformationTechnology/comments/lmbdrr/computer_information_systems_major/)
-- [Is on-the-job training even a thing?](https://www.reddit.com/r/InformationTechnology/comments/lm7rud/is_onthejob_training_even_a_thing/)
-- [Offloading CAT5 cables](https://www.reddit.com/r/InformationTechnology/comments/lm2p8c/offloading_cat5_cables/)
-- [What would you do ?](https://www.reddit.com/r/InformationTechnology/comments/lm23hx/what_would_you_do/)
-- [MSSP Vetting](https://www.reddit.com/r/InformationTechnology/comments/llwvei/mssp_vetting/)
-- [Easiest way to import into Excel a url that contains raw JSON?](https://www.reddit.com/r/InformationTechnology/comments/lltrik/easiest_way_to_import_into_excel_a_url_that/)
-- [Centos or ubuntu?](https://www.reddit.com/r/InformationTechnology/comments/lltfex/centos_or_ubuntu/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

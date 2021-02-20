@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Drink_Drugs/user_1485.php" target="_blank"><i>user</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Computer/on_the_blink_1561.php" target="_blank"><i>on the blink</i></a>
 <span> = </span>
-<span>a person who regularly takes mind-altering drugs</span>
+<span>out of order, not working</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

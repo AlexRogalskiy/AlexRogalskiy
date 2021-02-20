@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_1/own_up_1785.php" target="_blank"><i>own up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/G/go_away_2__2050.php" target="_blank"><i>go away (2)</i></a>
 <span> = </span>
-<span>If you own up to something, you admit that you've done something wrong or made a mistake.</span>
+<span>to stop existing, or to stop being noticeable</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

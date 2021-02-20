@@ -362,16 +362,16 @@ in your shame.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme](https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme)
-- [Mars rover landing: Nasa's Perseverance safely touches down in search of life](https://www.theguardian.com/science/2021/feb/18/nasa-perseverance-rover-mars-lands-life)
-- [Kevin Rudd says Australian politicians ‘frightened’ of ‘Murdoch media beast’ in Senate inquiry](https://www.theguardian.com/australia-news/2021/feb/19/kevin-rudd-says-australian-politicians-frightened-of-murdoch-media-beast-in-senate-inquiry)
-- [Iran nuclear deal: US agrees to join talks brokered by EU](https://www.theguardian.com/world/2021/feb/19/iran-nuclear-deal-us-agrees-to-join-talks-brokered-by-eu)
-- [Learning time for children declined as 2020 Covid lockdown progressed – study](https://www.theguardian.com/education/2021/feb/19/learning-time-for-children-declined-as-2020-covid-lockdown-progressed-study)
-- [One in six new universal credit claimants forced to skip meals](https://www.theguardian.com/society/2021/feb/19/new-universal-credit-claimants-forced-skip-meals-covid)
-- [Special needs pupils in England 'pushed to one side' in Covid crisis](https://www.theguardian.com/education/2021/feb/19/special-needs-pupils-in-england-pushed-to-one-side-in-covid-crisis)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/19/premier-league-10-things-to-look-out-for-this-weekend)
-- [Unearthed figurine suggests ancient Britons favoured mullets](https://www.theguardian.com/science/2021/feb/19/when-mullets-rocked-figurine-suggests-ancient-britons-favoured-hairstyle)
-- [Vaccine passport plan could help Britons holiday in Greece](https://www.theguardian.com/world/2021/feb/18/vaccine-passport-plan-could-help-britons-holiday-in-greece)
+- [Biden to declare major disaster in Texas as millions hit by water shortages](https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm)
+- [Visits to UK care homes to be allowed as lockdown eases, says Matt Hancock](https://www.theguardian.com/society/2021/feb/20/visits-to-uk-care-homes-to-be-allowed-as-lockdown-eases-says-matt-hancock)
+- [Pub and travel bosses demand plan for easing lockdown in England](https://www.theguardian.com/business/2021/feb/20/pub-travel-lockdown-easing-plan-england)
+- [Google fires Margaret Mitchell, another top researcher on its AI ethics team](https://www.theguardian.com/technology/2021/feb/19/google-fires-margaret-mitchell-ai-ethics-team)
+- [Billie Eilish granted restraining order against alleged stalker](https://www.theguardian.com/music/2021/feb/19/billie-eilish-granted-restraining-order-against-alleged-stalker)
+- [‘Something bit my butt’: Alaska woman using outhouse attacked by bear](https://www.theguardian.com/us-news/2021/feb/19/alaska-woman-outhouse-attacked-bear)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/19/20-photographs-of-the-week)
+- [Fear and loathing in Liverpool as derby rivals prepare for feisty rematch | Andy Hunter](https://www.theguardian.com/football/blog/2021/feb/19/liverpool-everton-merseyside-derby-rivals-rematch)
+- [WSL, Women's Championship and netball to receive survival grants](https://www.theguardian.com/sport/2021/feb/19/womens-sport-prioritised-through-emergency-government-funding)
+- [Kim Kardashian and Kanye West file for divorce](https://www.theguardian.com/music/2021/feb/19/kim-kardashian-kanye-west-divorce)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

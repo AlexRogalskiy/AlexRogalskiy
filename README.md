@@ -422,16 +422,16 @@ in your shame.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The Linux Foundation adds 7 projects to combat racial injustice](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Microsoft unveils first .NET 6 preview](https://www.infoworld.com/article/3608611/microsoft-unveils-first-net-6-preview.html#tk.rss_all)
+- [Cloud overspending spotlights the need for cost governance](https://www.infoworld.com/article/3608528/cloud-overspending-spotlights-the-need-for-cost-governance.html#tk.rss_all)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_all)
 - [3 ways to get into reinforcement learning](https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html#tk.rss_all)
 - [Observability: What IT should know as the technology heats up](https://www.infoworld.com/article/3608249/observability-what-it-should-know-as-the-technology-heats-up.html#tk.rss_all)
 - [What is observability? Software monitoring on steroids](https://www.infoworld.com/article/3607980/what-is-observability-software-monitoring-on-steroids.html#tk.rss_all)
 - [Go 1.16 arrives with library, runtime enhancements](https://www.infoworld.com/article/3601938/go-116-arrives-with-library-runtime-enhancements.html#tk.rss_all)
 - [Swift for TensorFlow project shuts down](https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html#tk.rss_all)
-- [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
-- [How to make better technology investments](https://www.infoworld.com/article/3607708/how-to-make-better-technology-investments.html#tk.rss_all)
-- [Google Cloud funds Python projects](https://www.infoworld.com/article/3607977/google-cloud-funds-python-projects.html#tk.rss_all)
-- [Run containers on Azure App Service](https://www.infoworld.com/article/3607791/run-containers-on-azure-app-service.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

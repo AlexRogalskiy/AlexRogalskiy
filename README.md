@@ -437,16 +437,16 @@ in your shame.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK to launch 'high-risk, high-reward' research agency, dubbed ARIA](https://www.computerweekly.com/news/252496636/UK-to-launch-high-risk-high-reward-research-agency-dubbed-ARIA)
+- [Fixing government digital transformation – lessons from the early days of GDS](https://www.computerweekly.com/opinion/Fixing-government-digital-transformation-lessons-from-the-early-days-of-GDS)
+- [European Commission proposes UK data adequacy agreement](https://www.computerweekly.com/news/252496631/European-Commission-proposes-UK-data-adequacy-agreement)
+- [NCSC cyber defence scheme blocked thousands of scams in 2019](https://www.computerweekly.com/news/252496621/NCSC-cyber-defence-scheme-blocked-thousands-of-scams-in-2019)
+- [Gaurav Dhillon: Silicon Valley is poised to grow up to seize a more spiritual future](https://www.computerweekly.com/feature/Gaurav-Dhillon-Silicon-Valley-is-poised-to-grow-up-to-seize-a-more-spiritual-future)
+- [Interview: From healthcare to healthcare IT provider](https://www.computerweekly.com/news/252496456/Interview-From-healthcare-to-healthcare-IT-provider)
+- [Uber drivers should be classified as ‘workers’, UK Supreme Court confirms](https://www.computerweekly.com/news/252496602/Uber-drivers-should-be-classified-as-workers-UK-Supreme-Court-confirms)
+- [Biden will act on cyber security to fix SolarWinds mess](https://www.computerweekly.com/news/252496598/Biden-will-act-on-cyber-security-to-fix-SolarWinds-mess)
+- [Fujitsu bosses knew about Post Office Horizon IT flaws, says insider](https://www.computerweekly.com/news/252496560/Fujitsu-bosses-knew-about-Post-Office-Horizon-IT-flaws-says-insider)
 - [Data lake storage: Cloud vs on-premise data lakes](https://www.computerweekly.com/feature/Data-lake-storage-Cloud-vs-on-premise-data-lakes)
-- [Swedish police fined for unlawful use of facial-recognition app](https://www.computerweekly.com/news/252496545/Swedish-police-fined-for-unlawful-use-of-facial-recognition-app)
-- [HMRC accused of 'utter hypocrisy' over use of IT contractors enrolled in tax avoidance schemes](https://www.computerweekly.com/news/252496534/HMRC-accused-of-utter-hypocrisy-over-use-of-IT-contractors-enrolled-in-tax-avoidance-schemes)
-- [City of Helsinki adopts MyData principles to improve digital services](https://www.computerweekly.com/news/252496546/City-of-Helsinki-adopts-MyData-principles-to-improve-digital-services)
-- [Why technology leaders must drive post-Covid agenda](https://www.computerweekly.com/news/252496539/Why-technology-leaders-must-drive-post-Covid-agenda)
-- [2020 a record year for cyber, thanks to Covid](https://www.computerweekly.com/news/252496528/2020-a-record-year-for-cyber-thanks-to-Covid)
-- [Fingerprints will help payment cards retain relevance](https://www.computerweekly.com/news/252496529/Fingerprints-will-help-payment-cards-retain-relevance)
-- [Assessing UK law enforcement data adequacy](https://www.computerweekly.com/news/252496527/Assessing-UK-law-enforcement-data-adequacy)
-- [North Korean Lazarus Group hackers indicted in US](https://www.computerweekly.com/news/252496494/North-Korean-Lazarus-Group-hackers-indicted-in-US)
-- [Finnish IT sector demand increases after months of decline](https://www.computerweekly.com/news/252496458/Finnish-IT-sector-demand-increases-after-months-of-decline)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

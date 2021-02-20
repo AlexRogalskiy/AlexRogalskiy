@@ -392,16 +392,16 @@ in your shame.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Apple is investing in 6G, but it doesn’t matter (yet)](https://www.computerworld.com/article/3608551/apple-is-investing-in-6g-but-it-doesnt-matter-yet.html#tk.rss_all)
+- [This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day](https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html#tk.rss_all)
+- [Need simple IT infrastructure for a small business? Try V2 Cloud](https://www.computerworld.com/article/3607746/need-simple-it-infrastructure-for-a-small-business-try-v2-cloud.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Trello, now 10, offers up an ambitious platform overhaul](https://www.computerworld.com/article/3608748/trello-now-10-offers-up-an-ambitious-platform-overhaul.html#tk.rss_all)
+- [6 secret settings for smarter sharing in Chrome on Android](https://www.computerworld.com/article/3607981/chrome-android-sharing-settings.html#tk.rss_all)
+- [Esports —  the next enterprise productivity tool?](https://www.computerworld.com/article/3608550/esports-the-next-enterprise-productivity-tool.html#tk.rss_all)
 - [Podcast: M1X chip: The next generation of Apple Silicon](https://www.computerworld.com/article/3608649/podcast-m1x-chip-the-next-generation-of-apple-silicon.html#tk.rss_all)
 - [Apple publishes in-depth M1, Mac, and iOS security guide](https://www.computerworld.com/article/3608330/apple-publishes-in-depth-m1-mac-and-ios-security-guide.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [What’s next for remote workers? A virtual ‘watercooler’](https://www.computerworld.com/article/3607976/whats-next-for-remote-workers-a-virtual-watercooler.html#tk.rss_all)
-- [Tech salaries rose in 2020 — despite COVID-19](https://www.computerworld.com/article/3608348/tech-salaries-rose-in-2020-despite-covid-19.html#tk.rss_all)
-- [If you liked the M1 Macs, you'll love the M1X](https://www.computerworld.com/article/3607979/if-you-liked-the-m1-macs-youll-love-the-m1x.html#tk.rss_all)
-- [Is Windows 10 a secret Slack slayer?](https://www.computerworld.com/article/3607909/is-windows-10-a-secret-slack-slayer.html#tk.rss_all)
-- [Microsoft bucks history, pegs Windows 10 21H1 as 'minor' upgrade](https://www.computerworld.com/article/3607978/microsoft-bucks-history-pegs-windows-10-21h1-as-minor-upgrade.html#tk.rss_all)
-- [iPad gains much-improved Microsoft Office app](https://www.computerworld.com/article/3607671/ipad-gains-much-improved-microsoft-office-app.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

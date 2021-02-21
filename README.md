@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Time/the_moment_of_truth_91.php" target="_blank"><i>the moment of truth</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/for_the_time_being_167.php" target="_blank"><i>for the time being</i></a>
 <span> = </span>
-<span>The moment of truth is a time when the truth about something is revealed, or when an important decision is made.</span>
+<span>If something will be the way it is "for the time being", it will be that way for a limited period of time only.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -188,9 +188,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Computer/on_the_blink_1561.php" target="_blank"><i>on the blink</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/scam_824.php" target="_blank"><i>scam</i></a>
 <span> = </span>
-<span>out of order, not working</span>
+<span>a scheme to get money dishonestly</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

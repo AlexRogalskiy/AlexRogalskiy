@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/One_good_turn_deserves_another_558.php" target="_blank"><i>One good turn deserves another</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/They_that_sow_the_wind_shall_reap_the_whirlwind_840.php" target="_blank"><i>They that sow the wind shall reap the whirlwind</i></a>
 <span> = </span>
-<span>If someone helps you, they merit being helped in return.</span>
+<span>A warning that we must expect to suffer serious consequences as the result of our own bad actions. We get back what we give out.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

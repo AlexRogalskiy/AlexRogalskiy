@@ -347,16 +347,16 @@ in your shame.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Covid-19 Was Spreading in China Before First Confirmed Cases](https://www.wsj.com/articles/covid-19-was-spreading-in-china-before-first-confirmed-cases-fresh-evidence-suggests-11613730600)
-- [Ask HN: Could you store data in the stock market?](https://news.ycombinator.com/item?id=26200762)
-- [The problems with MVPs in legacy replacement](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement)
-- [Request for Startup: 1.800.VACCINE](https://news.ycombinator.com/item?id=26200722)
-- [The Evolution of LINQ and Its Impact on the Design of C#](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/june/the-evolution-of-linq-and-its-impact-on-the-design-of-csharp)
-- [Fuji Jari Carbon 1.1 review: a fascinating fence-sitter – CyclingTips](https://cyclingtips.com/2021/02/fuji-jari-carbon-1-1-review-a-fascinating-fence-sitter/)
-- [Bill Gates: My Green Manifesto](https://www.ft.com/content/c11bb885-1274-4677-ba05-fcbac67dc808)
-- [FAA Tracking All 737 Max Flights Around World with Satellites](https://www.bloomberg.com/news/articles/2021-02-19/faa-tracking-all-737-max-flights-around-world-with-satellites)
-- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [Why all the world's coronavirus would fit in a can of cola](https://www.bbc.com/future/article/20210210-why-the-entire-coronavirus-would-fit-in-a-can-of-coca-cola)
+- [The 1998 game Barbie Riding Club and Windows Appcompat DB](https://twitter.com/pwnallthethings/status/1363260064929362047)
+- [Texas Crisis Exposes a Nation's Vulnerability to Climate Change](https://www.nytimes.com/2021/02/20/climate/united-states-infrastructure-storms.html)
+- [Peppa Peg – An Ultra Lightweight Peg Parser in ANSI C](https://news.ycombinator.com/item?id=26210196)
+- [Xbox Series X SoC: Power, Thermal, and Yield Tradeoffs](https://www.anandtech.com/show/16489/xbox-series-x-soc-power-thermal-and-yield-tradeoffs)
+- [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
+- [Short sellers are the only sheriff in town in a rigged market](https://wolfstreet.com/2021/02/05/exposed-by-a-short-seller-luckin-coffee-another-chinese-company-that-defrauded-us-investors-filed-for-bankruptcy-in-new-york-today/)
+- [Ask HN: How do a SaaS compete when others offer a free plan](https://news.ycombinator.com/item?id=26210131)
+- [Taking Orders from an AI Boss](https://www.bbc.com/news/business-56023932)
+- [LambdaNetworks: Modeling Long-Range Interactions Without Attention](https://arxiv.org/abs/2102.08602)
+- [BioNTech/Pfizer Covid vaccine no longer needs ultra-cold storage](https://www.ft.com/content/919d16c8-0a40-4389-bac9-04a48fdb0a36)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

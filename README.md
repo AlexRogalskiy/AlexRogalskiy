@@ -332,16 +332,16 @@ in your shame.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [IKEA's TRADFRI Smart Motion Sensor Now Supports Apple HomeKit](https://www.reviewgeek.com/71519/ikeas-tradfri-smart-motion-sensor-now-supports-apple-homekit/)
-* [Get $100 Off the M1 Mac Mini and MacBook Pro at Select Retailers](https://www.reviewgeek.com/71515/get-100-off-the-m1-mac-mini-and-macbook-pro-at-select-retailers/)
-* [Build a LEGO Raspberry Pi Video Jukebox With Free Instructions and Code](https://www.reviewgeek.com/71508/build-a-lego-raspberry-pi-video-jukebox-with-free-instructions-and-code/)
-* [Microsoft Office 2021 Launches Later This Year With Shortened Support Cycle](https://www.reviewgeek.com/71496/microsoft-office-2021-launches-later-this-year-with-shortened-support-cycle/)
-* [America's First Electric Cruiser Motorcycle Looks Like a Dieselpunk Dream](https://www.reviewgeek.com/71500/americas-first-electric-cruiser-motorcycle-looks-like-a-dieselpunk-dream/)
-* [What Is the Google Assistant “Snapshot” Feature?](https://www.howtogeek.com/712331/what-is-the-google-assistant-snapshot-feature/)
-* [How to Send RSS Feeds to a Microsoft Teams Channel](https://www.howtogeek.com/708799/how-to-send-rss-feeds-to-a-microsoft-teams-channel/)
-* [How to Watch Every Season of ‘The Muppet Show’ Without Cable](https://www.howtogeek.com/714508/how-to-stream-the-muppet-show/)
-* [How to Have Your Apple Watch Speak the Time Out Loud](https://www.howtogeek.com/711777/how-to-have-your-apple-watch-speak-the-time-out-loud/)
-* [How to Quickly Create QR Codes With Bing](https://www.howtogeek.com/709582/how-to-quickly-create-qr-codes-with-bing/)
+* [Scientists Cloned an Endangered Black-Footed Ferret (And It's Super Cute!)](https://www.reviewgeek.com/71606/scientists-cloned-an-endangered-black-footed-ferret-and-its-super-cute/)
+* [Creative's Sound Blaster USB-C DAC Can Fix Your Coworker's Annoying Zoom Audio](https://www.reviewgeek.com/71587/creatives-sound-blaster-usb-c-dac-can-fix-your-coworkers-annoying-zoom-audio/)
+* [How to Add Special Effects to Your Instagram Messages](https://www.howtogeek.com/711043/how-to-add-special-effects-to-your-instagram-messages/)
+* [Save 50% on Three Months of Google Fi Unlimited for New Accounts or Lines](https://www.reviewgeek.com/71490/save-50-on-three-months-of-google-fi-unlimited-for-new-accounts-or-lines/)
+* [What Do Blue Dots Mean on an iPhone or iPad Home Screen?](https://www.howtogeek.com/710250/what-do-blue-dots-mean-on-an-iphone-or-ipad-home-screen/)
+* [How to Connect Bluetooth Headphones to a Nintendo Switch](https://www.howtogeek.com/709326/how-to-connect-bluetooth-headphones-to-a-nintendo-switch/)
+* [How to Connect an Xbox Controller to Apple TV](https://www.howtogeek.com/710971/how-to-connect-an-xbox-controller-to-apple-tv/)
+* [The 8 Best Blackout Curtains for Deep, Dark, Restful Sleep](https://www.lifesavvy.com/54572/the-8-best-blackout-curtains-for-your-bedroom/)
+* [Niagara Pro Android Launcher Review: A New Take on Homescreens](https://www.reviewgeek.com/69535/niagara-pro-android-launcher-review-a-new-take-on-homescreens/)
+* [How to Install Xbox Series X or S Games From Your Phone](https://www.howtogeek.com/713427/how-to-install-xbox-series-x-or-s-games-from-your-phone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

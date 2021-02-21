@@ -268,7 +268,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-7°C (<i>snow</i>), humidity: 86%, pressure: 1017 (mbar), wind: /south-west/ 3 (m/s), cloudy: 90%</b>
+        <b>-6°C (<i>heavy snow</i>), humidity: 86%, pressure: 1014 (mbar), wind: /south-west/ 4 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:20 am</b> and sets at <b>18:05 pm</b>.
     </p>
@@ -281,61 +281,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [IKEA's TRADFRI Smart Motion Sensor Now Supports Apple HomeKit](https://www.reviewgeek.com/71519/ikeas-tradfri-smart-motion-sensor-now-supports-apple-homekit/)
-* [Get $100 Off the M1 Mac Mini and MacBook Pro at Select Retailers](https://www.reviewgeek.com/71515/get-100-off-the-m1-mac-mini-and-macbook-pro-at-select-retailers/)
-* [Build a LEGO Raspberry Pi Video Jukebox With Free Instructions and Code](https://www.reviewgeek.com/71508/build-a-lego-raspberry-pi-video-jukebox-with-free-instructions-and-code/)
-* [Microsoft Office 2021 Launches Later This Year With Shortened Support Cycle](https://www.reviewgeek.com/71496/microsoft-office-2021-launches-later-this-year-with-shortened-support-cycle/)
-* [America's First Electric Cruiser Motorcycle Looks Like a Dieselpunk Dream](https://www.reviewgeek.com/71500/americas-first-electric-cruiser-motorcycle-looks-like-a-dieselpunk-dream/)
-* [What Is the Google Assistant “Snapshot” Feature?](https://www.howtogeek.com/712331/what-is-the-google-assistant-snapshot-feature/)
-* [How to Send RSS Feeds to a Microsoft Teams Channel](https://www.howtogeek.com/708799/how-to-send-rss-feeds-to-a-microsoft-teams-channel/)
-* [How to Watch Every Season of ‘The Muppet Show’ Without Cable](https://www.howtogeek.com/714508/how-to-stream-the-muppet-show/)
-* [How to Have Your Apple Watch Speak the Time Out Loud](https://www.howtogeek.com/711777/how-to-have-your-apple-watch-speak-the-time-out-loud/)
-* [How to Quickly Create QR Codes With Bing](https://www.howtogeek.com/709582/how-to-quickly-create-qr-codes-with-bing/)
+* [Scientists Cloned an Endangered Black-Footed Ferret (And It's Super Cute!)](https://www.reviewgeek.com/71606/scientists-cloned-an-endangered-black-footed-ferret-and-its-super-cute/)
+* [Creative's Sound Blaster USB-C DAC Can Fix Your Coworker's Annoying Zoom Audio](https://www.reviewgeek.com/71587/creatives-sound-blaster-usb-c-dac-can-fix-your-coworkers-annoying-zoom-audio/)
+* [How to Add Special Effects to Your Instagram Messages](https://www.howtogeek.com/711043/how-to-add-special-effects-to-your-instagram-messages/)
+* [Save 50% on Three Months of Google Fi Unlimited for New Accounts or Lines](https://www.reviewgeek.com/71490/save-50-on-three-months-of-google-fi-unlimited-for-new-accounts-or-lines/)
+* [What Do Blue Dots Mean on an iPhone or iPad Home Screen?](https://www.howtogeek.com/710250/what-do-blue-dots-mean-on-an-iphone-or-ipad-home-screen/)
+* [How to Connect Bluetooth Headphones to a Nintendo Switch](https://www.howtogeek.com/709326/how-to-connect-bluetooth-headphones-to-a-nintendo-switch/)
+* [How to Connect an Xbox Controller to Apple TV](https://www.howtogeek.com/710971/how-to-connect-an-xbox-controller-to-apple-tv/)
+* [The 8 Best Blackout Curtains for Deep, Dark, Restful Sleep](https://www.lifesavvy.com/54572/the-8-best-blackout-curtains-for-your-bedroom/)
+* [Niagara Pro Android Launcher Review: A New Take on Homescreens](https://www.reviewgeek.com/69535/niagara-pro-android-launcher-review-a-new-take-on-homescreens/)
+* [How to Install Xbox Series X or S Games From Your Phone](https://www.howtogeek.com/713427/how-to-install-xbox-series-x-or-s-games-from-your-phone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Covid-19 Was Spreading in China Before First Confirmed Cases](https://www.wsj.com/articles/covid-19-was-spreading-in-china-before-first-confirmed-cases-fresh-evidence-suggests-11613730600)
-- [Ask HN: Could you store data in the stock market?](https://news.ycombinator.com/item?id=26200762)
-- [The problems with MVPs in legacy replacement](https://www.thoughtworks.com/insights/blog/part-1-problems-mvps-legacy-replacement)
-- [Request for Startup: 1.800.VACCINE](https://news.ycombinator.com/item?id=26200722)
-- [The Evolution of LINQ and Its Impact on the Design of C#](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/june/the-evolution-of-linq-and-its-impact-on-the-design-of-csharp)
-- [Fuji Jari Carbon 1.1 review: a fascinating fence-sitter – CyclingTips](https://cyclingtips.com/2021/02/fuji-jari-carbon-1-1-review-a-fascinating-fence-sitter/)
-- [Bill Gates: My Green Manifesto](https://www.ft.com/content/c11bb885-1274-4677-ba05-fcbac67dc808)
-- [FAA Tracking All 737 Max Flights Around World with Satellites](https://www.bloomberg.com/news/articles/2021-02-19/faa-tracking-all-737-max-flights-around-world-with-satellites)
-- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [Why all the world's coronavirus would fit in a can of cola](https://www.bbc.com/future/article/20210210-why-the-entire-coronavirus-would-fit-in-a-can-of-coca-cola)
+- [The 1998 game Barbie Riding Club and Windows Appcompat DB](https://twitter.com/pwnallthethings/status/1363260064929362047)
+- [Texas Crisis Exposes a Nation's Vulnerability to Climate Change](https://www.nytimes.com/2021/02/20/climate/united-states-infrastructure-storms.html)
+- [Peppa Peg – An Ultra Lightweight Peg Parser in ANSI C](https://news.ycombinator.com/item?id=26210196)
+- [Xbox Series X SoC: Power, Thermal, and Yield Tradeoffs](https://www.anandtech.com/show/16489/xbox-series-x-soc-power-thermal-and-yield-tradeoffs)
+- [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
+- [Short sellers are the only sheriff in town in a rigged market](https://wolfstreet.com/2021/02/05/exposed-by-a-short-seller-luckin-coffee-another-chinese-company-that-defrauded-us-investors-filed-for-bankruptcy-in-new-york-today/)
+- [Ask HN: How do a SaaS compete when others offer a free plan](https://news.ycombinator.com/item?id=26210131)
+- [Taking Orders from an AI Boss](https://www.bbc.com/news/business-56023932)
+- [LambdaNetworks: Modeling Long-Range Interactions Without Attention](https://arxiv.org/abs/2102.08602)
+- [BioNTech/Pfizer Covid vaccine no longer needs ultra-cold storage](https://www.ft.com/content/919d16c8-0a40-4389-bac9-04a48fdb0a36)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden to declare major disaster in Texas as millions hit by water shortages](https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm)
-- [Visits to UK care homes to be allowed as lockdown eases, says Matt Hancock](https://www.theguardian.com/society/2021/feb/20/visits-to-uk-care-homes-to-be-allowed-as-lockdown-eases-says-matt-hancock)
-- [Pub and travel bosses demand plan for easing lockdown in England](https://www.theguardian.com/business/2021/feb/20/pub-travel-lockdown-easing-plan-england)
-- [Google fires Margaret Mitchell, another top researcher on its AI ethics team](https://www.theguardian.com/technology/2021/feb/19/google-fires-margaret-mitchell-ai-ethics-team)
-- [Billie Eilish granted restraining order against alleged stalker](https://www.theguardian.com/music/2021/feb/19/billie-eilish-granted-restraining-order-against-alleged-stalker)
-- [‘Something bit my butt’: Alaska woman using outhouse attacked by bear](https://www.theguardian.com/us-news/2021/feb/19/alaska-woman-outhouse-attacked-bear)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/19/20-photographs-of-the-week)
-- [Fear and loathing in Liverpool as derby rivals prepare for feisty rematch | Andy Hunter](https://www.theguardian.com/football/blog/2021/feb/19/liverpool-everton-merseyside-derby-rivals-rematch)
-- [WSL, Women's Championship and netball to receive survival grants](https://www.theguardian.com/sport/2021/feb/19/womens-sport-prioritised-through-emergency-government-funding)
-- [Kim Kardashian and Kanye West file for divorce](https://www.theguardian.com/music/2021/feb/19/kim-kardashian-kanye-west-divorce)
+- [Coronavirus: UK should donate vaccines to poorer nations now, says new WTO chief; French cities facing tougher lockdowns](https://www.theguardian.com/world/live/2021/feb/20/coronavirus-two-die-amid-lockdown-protests-in-gabon-italian-police-investigate-fake-covid-vaccines)
+- [Spain braces for fifth nigth of protest over arrest of Pablo Hasél](https://www.theguardian.com/world/2021/feb/20/spain-braces-for-fifth-night-of-protests-over-rappers-arrest)
+- [Human rights and climate crisis give HSBC an image problem](https://www.theguardian.com/business/2021/feb/21/human-rights-and-climate-crisis-give-hsbc-an-image-problem)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Dig it: Brit brand wardrobe classics for men and women - in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/dig-it-brit-brand-wardrobe-classics-for-men-and-women-in-pictures)
+- [Donald Trump to address CPAC on future of Republican party](https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party)
+- [Ban on outside sport can end, top scientist urges Johnson](https://www.theguardian.com/world/2021/feb/20/ban-on-outside-sport-can-end-top-scientist-urges-johnson)
+- [NHS sees surge in referrals for eating disorders among under-18s during Covid](https://www.theguardian.com/society/2021/feb/20/covid-eating-disorder-referrals-rise-under-18s)
+- [Passenger plane drops debris on Denver suburbs then lands safely](https://www.theguardian.com/world/2021/feb/20/passenger-plane-drops-debris-denver-suburbs-lands-safely)
+- [Rees-Zammit in Eddie Jones's sights but free-flowing future is bigger vision | Paul Rees](https://www.theguardian.com/sport/2021/feb/20/louis-rees-zammit-eddie-jones-wales-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
-- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
-- [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
-- [Diablo II: Resurrected](https://diablo2.blizzard.com/)
-- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
-- [Has Amazon Ruined the Name Alexa?](https://www.statista.com/chart/13907/babies-named-alexa/)
-- [BTC Endgame](https://github.com/mikekelly/btc-endgame)
-- [Circle Medical (YC S15) Is Hiring a Growth Engineer](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea)
-- [Cockpit – Integrated, glanceable, web-based interface for servers](https://cockpit-project.org/)
+- [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
+- [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
+- [NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
+- [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138)
+- [United B772 at Denver on Feb 20th 2021, engine inlet separates from engine](https://avherald.com/h?article=4e35503b&opt=0)
+- [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
+- [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
+- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
+- [California would decriminalize psychedelics, paving way for medical treatment](https://www.theguardian.com/us-news/2021/feb/17/california-bill-decriminalize-psychedelic-drugs)
+- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -401,6 +401,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wireless Printer](https://www.reddit.com/r/InformationTechnology/comments/lome31/wireless_printer/)
+- [Which degree is more beneficial for a high paying career?](https://www.reddit.com/r/InformationTechnology/comments/lolfzz/which_degree_is_more_beneficial_for_a_high_paying/)
+- [Lessons I learned building outsourcing agency from scratch](https://www.reddit.com/r/InformationTechnology/comments/lo8j2j/lessons_i_learned_building_outsourcing_agency/)
 - [IT peeps, how do I get my company's IT department to fix an IT problem?](https://www.reddit.com/r/InformationTechnology/comments/lnsti8/it_peeps_how_do_i_get_my_companys_it_department/)
 - [Good entry level IT certifications?](https://www.reddit.com/r/InformationTechnology/comments/lnniwk/good_entry_level_it_certifications/)
 - [Spiceworks Los Angeles Corps Virtual Happy Hour this eve 5pm PST](https://www.reddit.com/r/InformationTechnology/comments/lnmfju/spiceworks_los_angeles_corps_virtual_happy_hour/)
@@ -408,9 +411,6 @@
 - [help with better internet at work](https://www.reddit.com/r/InformationTechnology/comments/lna8jy/help_with_better_internet_at_work/)
 - [Looking to start a security / tech blog](https://www.reddit.com/r/InformationTechnology/comments/ln55tp/looking_to_start_a_security_tech_blog/)
 - [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
-- [Problematic UniFi IP Address](https://www.reddit.com/r/InformationTechnology/comments/lmu8w2/problematic_unifi_ip_address/)
-- [Are books information technology?](https://www.reddit.com/r/InformationTechnology/comments/lmedte/are_books_information_technology/)
-- [Computer information systems major](https://www.reddit.com/r/InformationTechnology/comments/lmbdrr/computer_information_systems_major/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

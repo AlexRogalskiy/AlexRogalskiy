@@ -377,16 +377,16 @@ in your shame.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
-- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
-- [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
-- [Diablo II: Resurrected](https://diablo2.blizzard.com/)
-- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
-- [Has Amazon Ruined the Name Alexa?](https://www.statista.com/chart/13907/babies-named-alexa/)
-- [BTC Endgame](https://github.com/mikekelly/btc-endgame)
-- [Circle Medical (YC S15) Is Hiring a Growth Engineer](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea)
-- [Cockpit – Integrated, glanceable, web-based interface for servers](https://cockpit-project.org/)
+- [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
+- [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
+- [NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
+- [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138)
+- [United B772 at Denver on Feb 20th 2021, engine inlet separates from engine](https://avherald.com/h?article=4e35503b&opt=0)
+- [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
+- [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
+- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
+- [California would decriminalize psychedelics, paving way for medical treatment](https://www.theguardian.com/us-news/2021/feb/17/california-bill-decriminalize-psychedelic-drugs)
+- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

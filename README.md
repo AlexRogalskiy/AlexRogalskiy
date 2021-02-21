@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/G/go_away_2__2050.php" target="_blank"><i>go away (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/eat_out_1622.php" target="_blank"><i>eat out</i></a>
 <span> = </span>
-<span>to stop existing, or to stop being noticeable</span>
+<span>If you eat out, you eat in a restaurant instead of at home.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

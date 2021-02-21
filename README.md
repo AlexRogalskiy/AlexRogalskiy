@@ -362,16 +362,16 @@ in your shame.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden to declare major disaster in Texas as millions hit by water shortages](https://www.theguardian.com/us-news/2021/feb/19/texas-safe-water-access-winter-storm)
-- [Visits to UK care homes to be allowed as lockdown eases, says Matt Hancock](https://www.theguardian.com/society/2021/feb/20/visits-to-uk-care-homes-to-be-allowed-as-lockdown-eases-says-matt-hancock)
-- [Pub and travel bosses demand plan for easing lockdown in England](https://www.theguardian.com/business/2021/feb/20/pub-travel-lockdown-easing-plan-england)
-- [Google fires Margaret Mitchell, another top researcher on its AI ethics team](https://www.theguardian.com/technology/2021/feb/19/google-fires-margaret-mitchell-ai-ethics-team)
-- [Billie Eilish granted restraining order against alleged stalker](https://www.theguardian.com/music/2021/feb/19/billie-eilish-granted-restraining-order-against-alleged-stalker)
-- [‘Something bit my butt’: Alaska woman using outhouse attacked by bear](https://www.theguardian.com/us-news/2021/feb/19/alaska-woman-outhouse-attacked-bear)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/19/20-photographs-of-the-week)
-- [Fear and loathing in Liverpool as derby rivals prepare for feisty rematch | Andy Hunter](https://www.theguardian.com/football/blog/2021/feb/19/liverpool-everton-merseyside-derby-rivals-rematch)
-- [WSL, Women's Championship and netball to receive survival grants](https://www.theguardian.com/sport/2021/feb/19/womens-sport-prioritised-through-emergency-government-funding)
-- [Kim Kardashian and Kanye West file for divorce](https://www.theguardian.com/music/2021/feb/19/kim-kardashian-kanye-west-divorce)
+- [Coronavirus: UK should donate vaccines to poorer nations now, says new WTO chief; French cities facing tougher lockdowns](https://www.theguardian.com/world/live/2021/feb/20/coronavirus-two-die-amid-lockdown-protests-in-gabon-italian-police-investigate-fake-covid-vaccines)
+- [Spain braces for fifth nigth of protest over arrest of Pablo Hasél](https://www.theguardian.com/world/2021/feb/20/spain-braces-for-fifth-night-of-protests-over-rappers-arrest)
+- [Human rights and climate crisis give HSBC an image problem](https://www.theguardian.com/business/2021/feb/21/human-rights-and-climate-crisis-give-hsbc-an-image-problem)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Dig it: Brit brand wardrobe classics for men and women - in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/dig-it-brit-brand-wardrobe-classics-for-men-and-women-in-pictures)
+- [Donald Trump to address CPAC on future of Republican party](https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party)
+- [Ban on outside sport can end, top scientist urges Johnson](https://www.theguardian.com/world/2021/feb/20/ban-on-outside-sport-can-end-top-scientist-urges-johnson)
+- [NHS sees surge in referrals for eating disorders among under-18s during Covid](https://www.theguardian.com/society/2021/feb/20/covid-eating-disorder-referrals-rise-under-18s)
+- [Passenger plane drops debris on Denver suburbs then lands safely](https://www.theguardian.com/world/2021/feb/20/passenger-plane-drops-debris-denver-suburbs-lands-safely)
+- [Rees-Zammit in Eddie Jones's sights but free-flowing future is bigger vision | Paul Rees](https://www.theguardian.com/sport/2021/feb/20/louis-rees-zammit-eddie-jones-wales-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

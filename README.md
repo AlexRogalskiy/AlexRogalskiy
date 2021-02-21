@@ -236,59 +236,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643566135994908672" target="_blank"><i>Apolitical Intellectuals</i></a></summary>
-<p>by Otto Rene Castillo</p><p>One day,<br/>
-the apolitical<br/>
-intellectuals<br/>
-of my country<br/>
-will be interrogated<br/>
-by the humblest <br/>
-of our people.</p><p> They will be asked<br/>
-what they did<br/>
-when their country was slowly<br/>
-dying out,<br/>
-like a sweet campfire,<br/>
-small and abandoned.</p><p> No one will ask them<br/>
-about their dress<br/>
-or their long<br/>
-siestas<br/>
-after lunch,<br/>
-or about their futile struggles<br/>
-against “nothingness,”<br/>
-or about their ontological<br/>
-way<br/>
-to make money,<br/>
-No, they won’t be questioned<br/>
-on Greek mythology,<br/>
-or about the self-disgust they felt<br/>
-when someone deep inside them<br/>
-was getting ready to die<br/>
-the coward’s death.</p><p>They will be asked nothing <br/>
-about their absurd<br/>
-justifications<br/>
-nurtured in the shadow<br/>
-of a huge lie.</p><p> On that day,<br/>
-the humble people will come,<br/>
-those who never had a place<br/>
-in the books and poems<br/>
-of the apolitical intellectuals</p><p>but who daily delivered<br/>
-their bread and milk,<br/>
-their eggs and tortillas;<br/>
-those who mended their clothes,<br/>
-those who drove their cars,<br/>
-those who took care of their dogs and gardens,<br/>
-and worked for them,<br/>
-and they will ask:<br/>
-“What did you do when the poor<br/>
-suffered, when tenderness and life<br/>
-were dangerously burning out in them?”</p><p> Apolitical intellectuals<br/>
-of my sweet country,<br/>
-you will have nothing to say.</p><p>  A vulture of silence<br/>
-will eat your gut.<br/>
-Your own misery<br/>
-will gnaw at your souls.<br/>
-And you will be mute<br/>
-in your shame.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643665890518450176" target="_blank"><i>Complete Destruction</i></a></summary>
+<p>by William Carlos Williams</p><p>It was an icy day. <br/>We buried the cat, <br/>then took her box <br/>and set fire to it <br/>in the back yard. <br/>Those fleas that escaped <br/>earth and fire <br/>died by the cold. <br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

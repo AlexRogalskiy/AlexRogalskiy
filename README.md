@@ -332,16 +332,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
-- [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
-- [NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
-- [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138)
-- [United B772 at Denver on Feb 20th 2021, engine inlet separates from engine](https://avherald.com/h?article=4e35503b&opt=0)
-- [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
-- [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
-- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
-- [California would decriminalize psychedelics, paving way for medical treatment](https://www.theguardian.com/us-news/2021/feb/17/california-bill-decriminalize-psychedelic-drugs)
-- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
+- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
+- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
+- [Calling for benefit–risk evaluations of Covid-19 control measures](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00193-8/fulltext)
+- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
+- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
+- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
+- [It’s cheaper because we pass the risk on to you](https://shkspr.mobi/blog/2021/02/its-cheaper-because-we-pass-the-risk-on-to-you/)
+- [A Data Pipeline Is a Materialized View](https://nchammas.com/writing/data-pipeline-materialized-view)
+- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
+- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

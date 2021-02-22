@@ -196,9 +196,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/They_that_sow_the_wind_shall_reap_the_whirlwind_840.php" target="_blank"><i>They that sow the wind shall reap the whirlwind</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/None_so_blind_as_those_who_will_not_see_959.php" target="_blank"><i>None so blind as those who will not see</i></a>
 <span> = </span>
-<span>A warning that we must expect to suffer serious consequences as the result of our own bad actions. We get back what we give out.</span>
+<span>Nobody is blinder than the person who decides he does not want to see. Often used in reference to prejudice and intolerance.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

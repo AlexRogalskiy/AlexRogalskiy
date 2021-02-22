@@ -236,8 +236,14 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643665890518450176" target="_blank"><i>Complete Destruction</i></a></summary>
-<p>by William Carlos Williams</p><p>It was an icy day. <br/>We buried the cat, <br/>then took her box <br/>and set fire to it <br/>in the back yard. <br/>Those fleas that escaped <br/>earth and fire <br/>died by the cold. <br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/643747325484974080" target="_blank"><i>Short Talk: on Reading</i></a></summary>
+<p>by Anne Carson</p><p>Some fathers hate to read but love to take the <br/>family on trips. Some 
+children hate trips but <br/>love to read. Funny how often these find 
+them-<br/>selves passengers in the same automobile. I <br/>glimpsed the stupendous 
+clear-cut shoulders <br/>of the Rockies from between paragraphs of <br/><i>Madame 
+Bovary</i>. Cloud shadows roved languidly <br/>across her huge rock throat, 
+traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on female
+ flesh without thinking, Deciduous?</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

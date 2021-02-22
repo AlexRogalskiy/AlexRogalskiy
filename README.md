@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Time/for_the_time_being_167.php" target="_blank"><i>for the time being</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/heads_will_roll_301.php" target="_blank"><i>heads will roll</i></a>
 <span> = </span>
-<span>If something will be the way it is "for the time being", it will be that way for a limited period of time only.</span>
+<span>You can say "heads will roll" if people are going to lose their jobs after making a mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -178,6 +178,10 @@
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
 
+<div id="words_lang_block_id" align="center" style="align-content: center">
+    <img width="100%" height="500px" src="https://styled-wotd.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Word of the Day" />
+</div>
+
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Idioms/Body/heads_will_roll_301.php" target="_blank"><i>heads will roll</i></a>

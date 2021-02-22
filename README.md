@@ -407,6 +407,9 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Uninstalling Crowdstrike falcon server](https://www.reddit.com/r/InformationTechnology/comments/lp47nb/uninstalling_crowdstrike_falcon_server/)
+- [Need urgent advice](https://www.reddit.com/r/InformationTechnology/comments/loxbhn/need_urgent_advice/)
+- [YouTube channels that cover IT stuff](https://www.reddit.com/r/InformationTechnology/comments/lop5ca/youtube_channels_that_cover_it_stuff/)
 - [Wireless Printer](https://www.reddit.com/r/InformationTechnology/comments/lome31/wireless_printer/)
 - [Which degree is more beneficial for a high paying career?](https://www.reddit.com/r/InformationTechnology/comments/lolfzz/which_degree_is_more_beneficial_for_a_high_paying/)
 - [Lessons I learned building outsourcing agency from scratch](https://www.reddit.com/r/InformationTechnology/comments/lo8j2j/lessons_i_learned_building_outsourcing_agency/)
@@ -414,9 +417,6 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 - [Good entry level IT certifications?](https://www.reddit.com/r/InformationTechnology/comments/lnniwk/good_entry_level_it_certifications/)
 - [Spiceworks Los Angeles Corps Virtual Happy Hour this eve 5pm PST](https://www.reddit.com/r/InformationTechnology/comments/lnmfju/spiceworks_los_angeles_corps_virtual_happy_hour/)
 - [If you are looking for an internship or job in Orlando, FL and identify as an autistic person](https://www.reddit.com/r/InformationTechnology/comments/lnacvc/if_you_are_looking_for_an_internship_or_job_in/)
-- [help with better internet at work](https://www.reddit.com/r/InformationTechnology/comments/lna8jy/help_with_better_internet_at_work/)
-- [Looking to start a security / tech blog](https://www.reddit.com/r/InformationTechnology/comments/ln55tp/looking_to_start_a_security_tech_blog/)
-- [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

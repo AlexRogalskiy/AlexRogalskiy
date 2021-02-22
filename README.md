@@ -302,16 +302,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The 1998 game Barbie Riding Club and Windows Appcompat DB](https://twitter.com/pwnallthethings/status/1363260064929362047)
-- [Texas Crisis Exposes a Nation's Vulnerability to Climate Change](https://www.nytimes.com/2021/02/20/climate/united-states-infrastructure-storms.html)
-- [Peppa Peg – An Ultra Lightweight Peg Parser in ANSI C](https://news.ycombinator.com/item?id=26210196)
-- [Xbox Series X SoC: Power, Thermal, and Yield Tradeoffs](https://www.anandtech.com/show/16489/xbox-series-x-soc-power-thermal-and-yield-tradeoffs)
-- [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
-- [Short sellers are the only sheriff in town in a rigged market](https://wolfstreet.com/2021/02/05/exposed-by-a-short-seller-luckin-coffee-another-chinese-company-that-defrauded-us-investors-filed-for-bankruptcy-in-new-york-today/)
-- [Ask HN: How do a SaaS compete when others offer a free plan](https://news.ycombinator.com/item?id=26210131)
-- [Taking Orders from an AI Boss](https://www.bbc.com/news/business-56023932)
-- [LambdaNetworks: Modeling Long-Range Interactions Without Attention](https://arxiv.org/abs/2102.08602)
-- [BioNTech/Pfizer Covid vaccine no longer needs ultra-cold storage](https://www.ft.com/content/919d16c8-0a40-4389-bac9-04a48fdb0a36)
+- [Command E: Your Everything Search](https://getcommande.com)
+- [Ask HN: As a hiring manager do you look at candidate's GitHub Profile](https://news.ycombinator.com/item?id=26219931)
+- [Exponential Growth Is the Baseline](https://rootsofprogress.org/exponential-growth-is-the-baseline)
+- [FAA Statement on Boeing 777 Engine Failure](https://twitter.com/FAANews/status/1363631972682248192/photo/1)
+- [Show HN: ProSudoku – Play Sudoku with Apple Pencil on iPad](https://apps.apple.com/app/pro-sudoku/id1537203265)
+- [How Wall Street Is Devastating Our National Security](https://promarket.org/2021/01/28/wall-street-danger-national-security-roomba-hedge-fund/)
+- [Before You Were a Twinkle in Your Father's Eye](https://memomeproject.blogspot.com/2021/02/before-you-were-twinkle-in-your-fathers.html)
+- [Optionplotr – a visual way to understand option trading](https://www.optionplotr.com/)
+- [What's the Longest Possible Wavelength?](https://www.quora.com/Whats-the-longest-possible-wavelength-lowest-possible-frequency-lowest-possible-energy-of-electromagnetic-radiation?share=1)
+- [Python 0.9.1 source code launched 30 years ago](https://github.com/smontanaro/python-0.9.1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -180,9 +180,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Time/for_the_time_being_167.php" target="_blank"><i>for the time being</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/heads_will_roll_301.php" target="_blank"><i>heads will roll</i></a>
 <span> = </span>
-<span>If something will be the way it is "for the time being", it will be that way for a limited period of time only.</span>
+<span>You can say "heads will roll" if people are going to lose their jobs after making a mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -236,8 +236,14 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643665890518450176" target="_blank"><i>Complete Destruction</i></a></summary>
-<p>by William Carlos Williams</p><p>It was an icy day. <br/>We buried the cat, <br/>then took her box <br/>and set fire to it <br/>in the back yard. <br/>Those fleas that escaped <br/>earth and fire <br/>died by the cold. <br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/643747325484974080" target="_blank"><i>Short Talk: on Reading</i></a></summary>
+<p>by Anne Carson</p><p>Some fathers hate to read but love to take the <br/>family on trips. Some 
+children hate trips but <br/>love to read. Funny how often these find 
+them-<br/>selves passengers in the same automobile. I <br/>glimpsed the stupendous 
+clear-cut shoulders <br/>of the Rockies from between paragraphs of <br/><i>Madame 
+Bovary</i>. Cloud shadows roved languidly <br/>across her huge rock throat, 
+traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on female
+ flesh without thinking, Deciduous?</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -268,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-11°C (<i>heavy snow</i>), humidity: 85%, pressure: 1022 (mbar), wind: /west/ 7 (m/s), cloudy: 75%</b>
+        <b>-11°C (<i>snow</i>), humidity: 85%, pressure: 1022 (mbar), wind: /west/ 8 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>08:17 am</b> and sets at <b>18:07 pm</b>.
     </p>
@@ -281,61 +287,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Cloned an Endangered Black-Footed Ferret (And It's Super Cute!)](https://www.reviewgeek.com/71606/scientists-cloned-an-endangered-black-footed-ferret-and-its-super-cute/)
-* [Creative's Sound Blaster USB-C DAC Can Fix Your Coworker's Annoying Zoom Audio](https://www.reviewgeek.com/71587/creatives-sound-blaster-usb-c-dac-can-fix-your-coworkers-annoying-zoom-audio/)
-* [How to Add Special Effects to Your Instagram Messages](https://www.howtogeek.com/711043/how-to-add-special-effects-to-your-instagram-messages/)
-* [Save 50% on Three Months of Google Fi Unlimited for New Accounts or Lines](https://www.reviewgeek.com/71490/save-50-on-three-months-of-google-fi-unlimited-for-new-accounts-or-lines/)
-* [What Do Blue Dots Mean on an iPhone or iPad Home Screen?](https://www.howtogeek.com/710250/what-do-blue-dots-mean-on-an-iphone-or-ipad-home-screen/)
-* [How to Connect Bluetooth Headphones to a Nintendo Switch](https://www.howtogeek.com/709326/how-to-connect-bluetooth-headphones-to-a-nintendo-switch/)
-* [How to Connect an Xbox Controller to Apple TV](https://www.howtogeek.com/710971/how-to-connect-an-xbox-controller-to-apple-tv/)
-* [The 8 Best Blackout Curtains for Deep, Dark, Restful Sleep](https://www.lifesavvy.com/54572/the-8-best-blackout-curtains-for-your-bedroom/)
-* [Niagara Pro Android Launcher Review: A New Take on Homescreens](https://www.reviewgeek.com/69535/niagara-pro-android-launcher-review-a-new-take-on-homescreens/)
-* [How to Install Xbox Series X or S Games From Your Phone](https://www.howtogeek.com/713427/how-to-install-xbox-series-x-or-s-games-from-your-phone/)
+* [The ecobee SmartCamera Is Now Better at Being a Baby Monitor](https://www.reviewgeek.com/71594/the-ecobee-smartcamera-is-now-better-at-being-a-baby-monitor/)
+* [How to Only Allow Admins to Send a Message in a WhatsApp Group](https://www.howtogeek.com/708332/how-to-only-allow-admins-to-send-a-message-in-a-whatsapp-group/)
+* [LEGO's Latest BrickHeadz Are Adorable Bobble-Headed Fish and Bird Pets](https://www.reviewgeek.com/71581/legos-latest-brickheadz-are-adorable-bobble-headed-fish-and-bird-pets/)
+* [Check Out This Super Rare Yellow Penguin Captured by a Wildlife Photographer](https://www.reviewgeek.com/71597/check-out-this-super-rare-yellow-penguin-captured-by-a-wildlife-photographer/)
+* [How to Make a Facetime Audio Call](https://www.howtogeek.com/710099/how-to-make-a-facetime-audio-call/)
+* [How to Change Ruler Units in Adobe Photoshop](https://www.howtogeek.com/712446/how-to-change-ruler-units-in-adobe-photoshop/)
+* [How to Use Apple Maps in a Browser on Windows and Android](https://www.howtogeek.com/711986/how-to-use-apple-maps-in-a-browser-on-windows-and-android/)
+* [The Best Tabletop RPGs That Aren't 'Dungeons & Dragons'](https://www.reviewgeek.com/70751/the-best-tabletop-rpgs-that-arent-dungeons-dragons/)
+* [How to Adjust Keyboard Brightness on MacBook Air](https://www.howtogeek.com/710830/how-to-adjust-keyboard-brightness-on-macbook-air/)
+* [ASUS Chromebox 4 Review: When a Chromebook Isn't Big Enough](https://www.reviewgeek.com/67984/asus-chromebox-4-when-a-chromebook-isnt-big-enough/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The 1998 game Barbie Riding Club and Windows Appcompat DB](https://twitter.com/pwnallthethings/status/1363260064929362047)
-- [Texas Crisis Exposes a Nation's Vulnerability to Climate Change](https://www.nytimes.com/2021/02/20/climate/united-states-infrastructure-storms.html)
-- [Peppa Peg – An Ultra Lightweight Peg Parser in ANSI C](https://news.ycombinator.com/item?id=26210196)
-- [Xbox Series X SoC: Power, Thermal, and Yield Tradeoffs](https://www.anandtech.com/show/16489/xbox-series-x-soc-power-thermal-and-yield-tradeoffs)
-- [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
-- [Short sellers are the only sheriff in town in a rigged market](https://wolfstreet.com/2021/02/05/exposed-by-a-short-seller-luckin-coffee-another-chinese-company-that-defrauded-us-investors-filed-for-bankruptcy-in-new-york-today/)
-- [Ask HN: How do a SaaS compete when others offer a free plan](https://news.ycombinator.com/item?id=26210131)
-- [Taking Orders from an AI Boss](https://www.bbc.com/news/business-56023932)
-- [LambdaNetworks: Modeling Long-Range Interactions Without Attention](https://arxiv.org/abs/2102.08602)
-- [BioNTech/Pfizer Covid vaccine no longer needs ultra-cold storage](https://www.ft.com/content/919d16c8-0a40-4389-bac9-04a48fdb0a36)
+- [Command E: Your Everything Search](https://getcommande.com)
+- [Ask HN: As a hiring manager do you look at candidate's GitHub Profile](https://news.ycombinator.com/item?id=26219931)
+- [Exponential Growth Is the Baseline](https://rootsofprogress.org/exponential-growth-is-the-baseline)
+- [FAA Statement on Boeing 777 Engine Failure](https://twitter.com/FAANews/status/1363631972682248192/photo/1)
+- [Show HN: ProSudoku – Play Sudoku with Apple Pencil on iPad](https://apps.apple.com/app/pro-sudoku/id1537203265)
+- [How Wall Street Is Devastating Our National Security](https://promarket.org/2021/01/28/wall-street-danger-national-security-roomba-hedge-fund/)
+- [Before You Were a Twinkle in Your Father's Eye](https://memomeproject.blogspot.com/2021/02/before-you-were-twinkle-in-your-fathers.html)
+- [Optionplotr – a visual way to understand option trading](https://www.optionplotr.com/)
+- [What's the Longest Possible Wavelength?](https://www.quora.com/Whats-the-longest-possible-wavelength-lowest-possible-frequency-lowest-possible-energy-of-electromagnetic-radiation?share=1)
+- [Python 0.9.1 source code launched 30 years ago](https://github.com/smontanaro/python-0.9.1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus: UK should donate vaccines to poorer nations now, says new WTO chief; French cities facing tougher lockdowns](https://www.theguardian.com/world/live/2021/feb/20/coronavirus-two-die-amid-lockdown-protests-in-gabon-italian-police-investigate-fake-covid-vaccines)
-- [Spain braces for fifth nigth of protest over arrest of Pablo Hasél](https://www.theguardian.com/world/2021/feb/20/spain-braces-for-fifth-night-of-protests-over-rappers-arrest)
-- [Human rights and climate crisis give HSBC an image problem](https://www.theguardian.com/business/2021/feb/21/human-rights-and-climate-crisis-give-hsbc-an-image-problem)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Dig it: Brit brand wardrobe classics for men and women - in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/dig-it-brit-brand-wardrobe-classics-for-men-and-women-in-pictures)
-- [Donald Trump to address CPAC on future of Republican party](https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party)
-- [Ban on outside sport can end, top scientist urges Johnson](https://www.theguardian.com/world/2021/feb/20/ban-on-outside-sport-can-end-top-scientist-urges-johnson)
-- [NHS sees surge in referrals for eating disorders among under-18s during Covid](https://www.theguardian.com/society/2021/feb/20/covid-eating-disorder-referrals-rise-under-18s)
-- [Passenger plane drops debris on Denver suburbs then lands safely](https://www.theguardian.com/world/2021/feb/20/passenger-plane-drops-debris-denver-suburbs-lands-safely)
-- [Rees-Zammit in Eddie Jones's sights but free-flowing future is bigger vision | Paul Rees](https://www.theguardian.com/sport/2021/feb/20/louis-rees-zammit-eddie-jones-wales-england)
+- [Coronavirus live news: US death toll nears 500,000; England roadmap out of lockdown revealed](https://www.theguardian.com/world/live/2021/feb/22/coronavirus-live-news-us-death-toll-nears-500000-uk-roadmap-out-of-lockdown-revealed)
+- [Boeing 777s grounded by airlines after FAA issues emergency order](https://www.theguardian.com/business/2021/feb/22/boeing-777-grounded-by-airlines-after-faa-japan-issues-emergency-order)
+- [UK's anti-terror chief fears rights group boycott threatens Prevent review](https://www.theguardian.com/uk-news/2021/feb/21/uks-top-counter-terror-officer-backs-prevent-amid-row-over-review)
+- [Talking Horses: Champ moves up in Gold Cup betting after big return](https://www.theguardian.com/sport/2021/feb/21/horse-racing-champ-second-favourite-gold-cup-newbury-game-spirit-chase)
+- ['Painted by a madman': The Scream graffiti reveals Munch's state of mind](https://www.theguardian.com/artanddesign/2021/feb/22/edvard-munch-the-scream-painted-by-a-madman-graffiti)
+- [UK homeless deaths rise by more than a third in a year, study finds](https://www.theguardian.com/society/2021/feb/22/uk-homeless-deaths-rise-by-more-than-a-third-in-a-year-study-finds)
+- [People with extremist views less able to do complex mental tasks, research suggests](https://www.theguardian.com/science/2021/feb/22/people-with-extremist-views-less-able-to-do-complex-mental-tasks-research-suggests)
+- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/2021/feb/21/premier-league-10-talking-points-from-the-weekends-action)
+- [Jacinda Ardern to pay tribute as Christchurch commemorates earthquake victims](https://www.theguardian.com/world/2021/feb/22/christchurch-earthquake-anniversary-jacinda-ardern-pay-tribute-new-zealand-earthquake-victims)
+- [Outsider Jordan Brown stuns Ronnie O’Sullivan in Welsh Open final](https://www.theguardian.com/sport/2021/feb/21/outsider-jordan-brown-stuns-ronnie-osullivan-in-welsh-open-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
-- [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
-- [NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
-- [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138)
-- [United B772 at Denver on Feb 20th 2021, engine inlet separates from engine](https://avherald.com/h?article=4e35503b&opt=0)
-- [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
-- [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
-- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
-- [California would decriminalize psychedelics, paving way for medical treatment](https://www.theguardian.com/us-news/2021/feb/17/california-bill-decriminalize-psychedelic-drugs)
-- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
+- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
+- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
+- [Calling for benefit–risk evaluations of Covid-19 control measures](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00193-8/fulltext)
+- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
+- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
+- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
+- [It’s cheaper because we pass the risk on to you](https://shkspr.mobi/blog/2021/02/its-cheaper-because-we-pass-the-risk-on-to-you/)
+- [A Data Pipeline Is a Materialized View](https://nchammas.com/writing/data-pipeline-materialized-view)
+- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
+- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -401,6 +407,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Uninstalling Crowdstrike falcon server](https://www.reddit.com/r/InformationTechnology/comments/lp47nb/uninstalling_crowdstrike_falcon_server/)
+- [Need urgent advice](https://www.reddit.com/r/InformationTechnology/comments/loxbhn/need_urgent_advice/)
+- [YouTube channels that cover IT stuff](https://www.reddit.com/r/InformationTechnology/comments/lop5ca/youtube_channels_that_cover_it_stuff/)
 - [Wireless Printer](https://www.reddit.com/r/InformationTechnology/comments/lome31/wireless_printer/)
 - [Which degree is more beneficial for a high paying career?](https://www.reddit.com/r/InformationTechnology/comments/lolfzz/which_degree_is_more_beneficial_for_a_high_paying/)
 - [Lessons I learned building outsourcing agency from scratch](https://www.reddit.com/r/InformationTechnology/comments/lo8j2j/lessons_i_learned_building_outsourcing_agency/)
@@ -408,9 +417,6 @@
 - [Good entry level IT certifications?](https://www.reddit.com/r/InformationTechnology/comments/lnniwk/good_entry_level_it_certifications/)
 - [Spiceworks Los Angeles Corps Virtual Happy Hour this eve 5pm PST](https://www.reddit.com/r/InformationTechnology/comments/lnmfju/spiceworks_los_angeles_corps_virtual_happy_hour/)
 - [If you are looking for an internship or job in Orlando, FL and identify as an autistic person](https://www.reddit.com/r/InformationTechnology/comments/lnacvc/if_you_are_looking_for_an_internship_or_job_in/)
-- [help with better internet at work](https://www.reddit.com/r/InformationTechnology/comments/lna8jy/help_with_better_internet_at_work/)
-- [Looking to start a security / tech blog](https://www.reddit.com/r/InformationTechnology/comments/ln55tp/looking_to_start_a_security_tech_blog/)
-- [Math in IT](https://www.reddit.com/r/InformationTechnology/comments/lmzg0z/math_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -281,16 +281,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Cloned an Endangered Black-Footed Ferret (And It's Super Cute!)](https://www.reviewgeek.com/71606/scientists-cloned-an-endangered-black-footed-ferret-and-its-super-cute/)
-* [Creative's Sound Blaster USB-C DAC Can Fix Your Coworker's Annoying Zoom Audio](https://www.reviewgeek.com/71587/creatives-sound-blaster-usb-c-dac-can-fix-your-coworkers-annoying-zoom-audio/)
-* [How to Add Special Effects to Your Instagram Messages](https://www.howtogeek.com/711043/how-to-add-special-effects-to-your-instagram-messages/)
-* [Save 50% on Three Months of Google Fi Unlimited for New Accounts or Lines](https://www.reviewgeek.com/71490/save-50-on-three-months-of-google-fi-unlimited-for-new-accounts-or-lines/)
-* [What Do Blue Dots Mean on an iPhone or iPad Home Screen?](https://www.howtogeek.com/710250/what-do-blue-dots-mean-on-an-iphone-or-ipad-home-screen/)
-* [How to Connect Bluetooth Headphones to a Nintendo Switch](https://www.howtogeek.com/709326/how-to-connect-bluetooth-headphones-to-a-nintendo-switch/)
-* [How to Connect an Xbox Controller to Apple TV](https://www.howtogeek.com/710971/how-to-connect-an-xbox-controller-to-apple-tv/)
-* [The 8 Best Blackout Curtains for Deep, Dark, Restful Sleep](https://www.lifesavvy.com/54572/the-8-best-blackout-curtains-for-your-bedroom/)
-* [Niagara Pro Android Launcher Review: A New Take on Homescreens](https://www.reviewgeek.com/69535/niagara-pro-android-launcher-review-a-new-take-on-homescreens/)
-* [How to Install Xbox Series X or S Games From Your Phone](https://www.howtogeek.com/713427/how-to-install-xbox-series-x-or-s-games-from-your-phone/)
+* [The ecobee SmartCamera Is Now Better at Being a Baby Monitor](https://www.reviewgeek.com/71594/the-ecobee-smartcamera-is-now-better-at-being-a-baby-monitor/)
+* [How to Only Allow Admins to Send a Message in a WhatsApp Group](https://www.howtogeek.com/708332/how-to-only-allow-admins-to-send-a-message-in-a-whatsapp-group/)
+* [LEGO's Latest BrickHeadz Are Adorable Bobble-Headed Fish and Bird Pets](https://www.reviewgeek.com/71581/legos-latest-brickheadz-are-adorable-bobble-headed-fish-and-bird-pets/)
+* [Check Out This Super Rare Yellow Penguin Captured by a Wildlife Photographer](https://www.reviewgeek.com/71597/check-out-this-super-rare-yellow-penguin-captured-by-a-wildlife-photographer/)
+* [How to Make a Facetime Audio Call](https://www.howtogeek.com/710099/how-to-make-a-facetime-audio-call/)
+* [How to Change Ruler Units in Adobe Photoshop](https://www.howtogeek.com/712446/how-to-change-ruler-units-in-adobe-photoshop/)
+* [How to Use Apple Maps in a Browser on Windows and Android](https://www.howtogeek.com/711986/how-to-use-apple-maps-in-a-browser-on-windows-and-android/)
+* [The Best Tabletop RPGs That Aren't 'Dungeons & Dragons'](https://www.reviewgeek.com/70751/the-best-tabletop-rpgs-that-arent-dungeons-dragons/)
+* [How to Adjust Keyboard Brightness on MacBook Air](https://www.howtogeek.com/710830/how-to-adjust-keyboard-brightness-on-macbook-air/)
+* [ASUS Chromebox 4 Review: When a Chromebook Isn't Big Enough](https://www.reviewgeek.com/67984/asus-chromebox-4-when-a-chromebook-isnt-big-enough/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

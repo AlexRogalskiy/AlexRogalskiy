@@ -317,16 +317,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus: UK should donate vaccines to poorer nations now, says new WTO chief; French cities facing tougher lockdowns](https://www.theguardian.com/world/live/2021/feb/20/coronavirus-two-die-amid-lockdown-protests-in-gabon-italian-police-investigate-fake-covid-vaccines)
-- [Spain braces for fifth nigth of protest over arrest of Pablo Hasél](https://www.theguardian.com/world/2021/feb/20/spain-braces-for-fifth-night-of-protests-over-rappers-arrest)
-- [Human rights and climate crisis give HSBC an image problem](https://www.theguardian.com/business/2021/feb/21/human-rights-and-climate-crisis-give-hsbc-an-image-problem)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Dig it: Brit brand wardrobe classics for men and women - in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/20/dig-it-brit-brand-wardrobe-classics-for-men-and-women-in-pictures)
-- [Donald Trump to address CPAC on future of Republican party](https://www.theguardian.com/us-news/2021/feb/20/donald-trump-cpac-republican-party)
-- [Ban on outside sport can end, top scientist urges Johnson](https://www.theguardian.com/world/2021/feb/20/ban-on-outside-sport-can-end-top-scientist-urges-johnson)
-- [NHS sees surge in referrals for eating disorders among under-18s during Covid](https://www.theguardian.com/society/2021/feb/20/covid-eating-disorder-referrals-rise-under-18s)
-- [Passenger plane drops debris on Denver suburbs then lands safely](https://www.theguardian.com/world/2021/feb/20/passenger-plane-drops-debris-denver-suburbs-lands-safely)
-- [Rees-Zammit in Eddie Jones's sights but free-flowing future is bigger vision | Paul Rees](https://www.theguardian.com/sport/2021/feb/20/louis-rees-zammit-eddie-jones-wales-england)
+- [Coronavirus live news: US death toll nears 500,000; England roadmap out of lockdown revealed](https://www.theguardian.com/world/live/2021/feb/22/coronavirus-live-news-us-death-toll-nears-500000-uk-roadmap-out-of-lockdown-revealed)
+- [Boeing 777s grounded by airlines after FAA issues emergency order](https://www.theguardian.com/business/2021/feb/22/boeing-777-grounded-by-airlines-after-faa-japan-issues-emergency-order)
+- [UK's anti-terror chief fears rights group boycott threatens Prevent review](https://www.theguardian.com/uk-news/2021/feb/21/uks-top-counter-terror-officer-backs-prevent-amid-row-over-review)
+- [Talking Horses: Champ moves up in Gold Cup betting after big return](https://www.theguardian.com/sport/2021/feb/21/horse-racing-champ-second-favourite-gold-cup-newbury-game-spirit-chase)
+- ['Painted by a madman': The Scream graffiti reveals Munch's state of mind](https://www.theguardian.com/artanddesign/2021/feb/22/edvard-munch-the-scream-painted-by-a-madman-graffiti)
+- [UK homeless deaths rise by more than a third in a year, study finds](https://www.theguardian.com/society/2021/feb/22/uk-homeless-deaths-rise-by-more-than-a-third-in-a-year-study-finds)
+- [People with extremist views less able to do complex mental tasks, research suggests](https://www.theguardian.com/science/2021/feb/22/people-with-extremist-views-less-able-to-do-complex-mental-tasks-research-suggests)
+- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/2021/feb/21/premier-league-10-talking-points-from-the-weekends-action)
+- [Jacinda Ardern to pay tribute as Christchurch commemorates earthquake victims](https://www.theguardian.com/world/2021/feb/22/christchurch-earthquake-anniversary-jacinda-ardern-pay-tribute-new-zealand-earthquake-victims)
+- [Outsider Jordan Brown stuns Ronnie O’Sullivan in Welsh Open final](https://www.theguardian.com/sport/2021/feb/21/outsider-jordan-brown-stuns-ronnie-osullivan-in-welsh-open-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

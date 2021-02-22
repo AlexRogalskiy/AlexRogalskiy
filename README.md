@@ -204,9 +204,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/eat_out_1622.php" target="_blank"><i>eat out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/B/butter_up_2400.php" target="_blank"><i>butter up</i></a>
 <span> = </span>
-<span>If you eat out, you eat in a restaurant instead of at home.</span>
+<span>to say nice things to someone before asking them to do something for you or to give you something</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

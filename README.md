@@ -381,16 +381,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_all)
+- [IT Salary Survey 2021: Compensation holds steady despite pandemic](https://www.idginsiderpro.com/article/3607982/it-salary-survey-2021-compensation-holds-steady-despite-pandemic.html#tk.rss_all)
+- [The real value of open source in the cloud](https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html#tk.rss_all)
+- [How to use LazyCache in ASP.NET Core MVC 5](https://www.infoworld.com/article/3608568/how-to-use-lazycache-in-aspnet-core-mvc-5.html#tk.rss_all)
+- [Why Microsoft Azure wins with enterprise customers](https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html#tk.rss_all)
 - [The Linux Foundation adds 7 projects to combat racial injustice](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Microsoft unveils first .NET 6 preview](https://www.infoworld.com/article/3608611/microsoft-unveils-first-net-6-preview.html#tk.rss_all)
 - [Cloud overspending spotlights the need for cost governance](https://www.infoworld.com/article/3608528/cloud-overspending-spotlights-the-need-for-cost-governance.html#tk.rss_all)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_all)
-- [3 ways to get into reinforcement learning](https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html#tk.rss_all)
-- [Observability: What IT should know as the technology heats up](https://www.infoworld.com/article/3608249/observability-what-it-should-know-as-the-technology-heats-up.html#tk.rss_all)
-- [What is observability? Software monitoring on steroids](https://www.infoworld.com/article/3607980/what-is-observability-software-monitoring-on-steroids.html#tk.rss_all)
-- [Go 1.16 arrives with library, runtime enhancements](https://www.infoworld.com/article/3601938/go-116-arrives-with-library-runtime-enhancements.html#tk.rss_all)
-- [Swift for TensorFlow project shuts down](https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

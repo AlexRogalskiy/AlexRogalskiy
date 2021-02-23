@@ -321,16 +321,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: US death toll nears 500,000; England roadmap out of lockdown revealed](https://www.theguardian.com/world/live/2021/feb/22/coronavirus-live-news-us-death-toll-nears-500000-uk-roadmap-out-of-lockdown-revealed)
-- [Boeing 777s grounded by airlines after FAA issues emergency order](https://www.theguardian.com/business/2021/feb/22/boeing-777-grounded-by-airlines-after-faa-japan-issues-emergency-order)
-- [UK's anti-terror chief fears rights group boycott threatens Prevent review](https://www.theguardian.com/uk-news/2021/feb/21/uks-top-counter-terror-officer-backs-prevent-amid-row-over-review)
-- [Talking Horses: Champ moves up in Gold Cup betting after big return](https://www.theguardian.com/sport/2021/feb/21/horse-racing-champ-second-favourite-gold-cup-newbury-game-spirit-chase)
-- ['Painted by a madman': The Scream graffiti reveals Munch's state of mind](https://www.theguardian.com/artanddesign/2021/feb/22/edvard-munch-the-scream-painted-by-a-madman-graffiti)
-- [UK homeless deaths rise by more than a third in a year, study finds](https://www.theguardian.com/society/2021/feb/22/uk-homeless-deaths-rise-by-more-than-a-third-in-a-year-study-finds)
-- [People with extremist views less able to do complex mental tasks, research suggests](https://www.theguardian.com/science/2021/feb/22/people-with-extremist-views-less-able-to-do-complex-mental-tasks-research-suggests)
-- [Premier League: 10 talking points from the weekend's action](https://www.theguardian.com/football/2021/feb/21/premier-league-10-talking-points-from-the-weekends-action)
-- [Jacinda Ardern to pay tribute as Christchurch commemorates earthquake victims](https://www.theguardian.com/world/2021/feb/22/christchurch-earthquake-anniversary-jacinda-ardern-pay-tribute-new-zealand-earthquake-victims)
-- [Outsider Jordan Brown stuns Ronnie O’Sullivan in Welsh Open final](https://www.theguardian.com/sport/2021/feb/21/outsider-jordan-brown-stuns-ronnie-osullivan-in-welsh-open-final)
+- [Coronavirus live news: Fauci says political divide added to 'stunning' US deaths; Italy 'misled' WHO](https://www.theguardian.com/world/live/2021/feb/23/coronavirus-live-news-fauci-says-political-divide-added-to-stunning-us-deaths-italy-misled-who)
+- [Rescuers race to save dozens of stranded pilot whales in New Zealand](https://www.theguardian.com/world/2021/feb/23/whale-stranding-new-zealand-farewell-spit-rescue)
+- [BAME Britons more likely to face higher living costs, study finds](https://www.theguardian.com/society/2021/feb/23/bame-britons-more-likely-to-face-higher-living-costs-study-finds)
+- [Mick Jagger narrates film to mark Royal Albert Hall anniversary](https://www.theguardian.com/music/2021/feb/23/mick-jagger-narrates-film-to-mark-royal-albert-hall-anniversary)
+- [Air New Zealand to trial Covid vaccine passport on Sydney flights](https://www.theguardian.com/world/2021/feb/23/air-new-zealand-to-trial-covid-vaccine-passport-on-sydney-flights)
+- [The Simpsons' Dr Hibbert: Harry Shearer replaced by black actor Kevin Michael Richardson](https://www.theguardian.com/tv-and-radio/2021/feb/23/the-simpsons-dr-hibbert-harry-shearer-replaced-by-black-actor-kevin-michael-richardson)
+- [Emma Coronel, wife of El Chapo, arrested on drug trafficking charges](https://www.theguardian.com/world/2021/feb/22/emma-coronel-arrested-wife-el-chapo-drug-trafficking)
+- [US moves to support Australian push to tackle China's 'human and labour rights abuses'](https://www.theguardian.com/australia-news/2021/feb/23/us-moves-to-support-australian-push-to-tackle-chinas-human-and-labour-rights-abuses)
+- [Diego Simeone places faith in Luis Suárez to use his 'gift' against Chelsea](https://www.theguardian.com/football/2021/feb/22/diego-simeone-places-faith-in-luis-suarez-to-use-his-gift-against-chelsea)
+- [Keir Starmer to push for investment in UK food and farming](https://www.theguardian.com/environment/2021/feb/22/keir-starmer-to-push-for-investment-in-uk-food-and-farming)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

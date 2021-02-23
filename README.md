@@ -306,16 +306,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Command E: Your Everything Search](https://getcommande.com)
-- [Ask HN: As a hiring manager do you look at candidate's GitHub Profile](https://news.ycombinator.com/item?id=26219931)
-- [Exponential Growth Is the Baseline](https://rootsofprogress.org/exponential-growth-is-the-baseline)
-- [FAA Statement on Boeing 777 Engine Failure](https://twitter.com/FAANews/status/1363631972682248192/photo/1)
-- [Show HN: ProSudoku – Play Sudoku with Apple Pencil on iPad](https://apps.apple.com/app/pro-sudoku/id1537203265)
-- [How Wall Street Is Devastating Our National Security](https://promarket.org/2021/01/28/wall-street-danger-national-security-roomba-hedge-fund/)
-- [Before You Were a Twinkle in Your Father's Eye](https://memomeproject.blogspot.com/2021/02/before-you-were-twinkle-in-your-fathers.html)
-- [Optionplotr – a visual way to understand option trading](https://www.optionplotr.com/)
-- [What's the Longest Possible Wavelength?](https://www.quora.com/Whats-the-longest-possible-wavelength-lowest-possible-frequency-lowest-possible-energy-of-electromagnetic-radiation?share=1)
-- [Python 0.9.1 source code launched 30 years ago](https://github.com/smontanaro/python-0.9.1)
+- [The precipitous rise of Figma and fall of InVision](https://uxdesign.cc/the-precipitous-rise-of-figma-and-fall-of-invision-435f07e8d1b6)
+- [Berkeley may eliminate historically racist single family zoning](https://www.berkeleyside.com/2021/02/17/berkeley-may-get-rid-of-single-family-zoning-as-a-way-to-correct-the-arc-of-its-ugly-housing-history)
+- [Show HN: Community of professionals, with satisfaction and transparency at core](https://app.everi.one/)
+- [Ask HN: Is it agaisnt SEC regulations to start a gofundme to buy a stock?](https://news.ycombinator.com/item?id=26233022)
+- [Formafantasma – site that claims to be designed to minimize energy consumption](https://formafantasma.com/website)
+- [Three thylacines (Tasmanian wolves) have apparently been photographed alive](https://twitter.com/incunabula/status/1363995423325749254)
+- [Ask HN: Trivia questions about Computer Science](https://news.ycombinator.com/item?id=26232987)
+- [Knuth's Up-Arrow Notation](https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation)
+- ['The Ramsey Effect' – on Frank Ramsey, the influential but lesser-known C (cont)](https://www.lrb.co.uk/the-paper/v43/n04/kieran-setiya/the-ramsey-effect)
+- [SoftBank would buy about 25% of Adam Neumann’s stake in WeWork for $480M](https://www.cnbc.com/2021/02/22/softbank-may-buy-25percent-of-adam-neumanns-wework-stake-for-480-million.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

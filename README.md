@@ -411,16 +411,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hi, I have a quick concept question. Just wanna see if I have a right understand of the osi model.](https://www.reddit.com/r/InformationTechnology/comments/lq2h7e/hi_i_have_a_quick_concept_question_just_wanna_see/)
+- [IT Staff at Hospitals Questions](https://www.reddit.com/r/InformationTechnology/comments/lpygwb/it_staff_at_hospitals_questions/)
+- [Recovering pervious version files](https://www.reddit.com/r/InformationTechnology/comments/lpr40t/recovering_pervious_version_files/)
+- [Interview for IT degree](https://www.reddit.com/r/InformationTechnology/comments/lpppeq/interview_for_it_degree/)
+- [Started an IT degree program this semester. Looking for lectures to supplement my reading.](https://www.reddit.com/r/InformationTechnology/comments/lpoob4/started_an_it_degree_program_this_semester/)
+- [Does it matter what university I get my BSIT degree?](https://www.reddit.com/r/InformationTechnology/comments/lplozh/does_it_matter_what_university_i_get_my_bsit/)
 - [Uninstalling Crowdstrike falcon server](https://www.reddit.com/r/InformationTechnology/comments/lp47nb/uninstalling_crowdstrike_falcon_server/)
 - [Need urgent advice](https://www.reddit.com/r/InformationTechnology/comments/loxbhn/need_urgent_advice/)
 - [YouTube channels that cover IT stuff](https://www.reddit.com/r/InformationTechnology/comments/lop5ca/youtube_channels_that_cover_it_stuff/)
 - [Wireless Printer](https://www.reddit.com/r/InformationTechnology/comments/lome31/wireless_printer/)
-- [Which degree is more beneficial for a high paying career?](https://www.reddit.com/r/InformationTechnology/comments/lolfzz/which_degree_is_more_beneficial_for_a_high_paying/)
-- [Lessons I learned building outsourcing agency from scratch](https://www.reddit.com/r/InformationTechnology/comments/lo8j2j/lessons_i_learned_building_outsourcing_agency/)
-- [IT peeps, how do I get my company's IT department to fix an IT problem?](https://www.reddit.com/r/InformationTechnology/comments/lnsti8/it_peeps_how_do_i_get_my_companys_it_department/)
-- [Good entry level IT certifications?](https://www.reddit.com/r/InformationTechnology/comments/lnniwk/good_entry_level_it_certifications/)
-- [Spiceworks Los Angeles Corps Virtual Happy Hour this eve 5pm PST](https://www.reddit.com/r/InformationTechnology/comments/lnmfju/spiceworks_los_angeles_corps_virtual_happy_hour/)
-- [If you are looking for an internship or job in Orlando, FL and identify as an autistic person](https://www.reddit.com/r/InformationTechnology/comments/lnacvc/if_you_are_looking_for_an_internship_or_job_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

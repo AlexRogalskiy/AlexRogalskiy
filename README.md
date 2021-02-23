@@ -396,16 +396,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK government set to offer fintech visa](https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa)
+- [Startup founders worried about proposed capital gains tax changes](https://www.computerweekly.com/news/252496689/Startup-founders-worried-about-proposed-capital-gains-tax-changes)
+- [Microphones, smartphones, laptops among items stolen from BBC](https://www.computerweekly.com/news/252496680/Microphones-smartphones-laptops-among-items-stolen-from-BBC)
+- [Pandemic has exposed fractures in cyber fraud strategy](https://www.computerweekly.com/news/252496679/Pandemic-has-exposed-fractures-in-cyber-fraud-strategy)
+- [How colocation fits alongside a cloud-native architecture](https://www.computerweekly.com/feature/How-colocation-fits-alongside-a-cloud-native-architecture)
 - [UK to launch 'high-risk, high-reward' research agency, dubbed ARIA](https://www.computerweekly.com/news/252496636/UK-to-launch-high-risk-high-reward-research-agency-dubbed-ARIA)
 - [Fixing government digital transformation – lessons from the early days of GDS](https://www.computerweekly.com/opinion/Fixing-government-digital-transformation-lessons-from-the-early-days-of-GDS)
 - [European Commission proposes UK data adequacy agreement](https://www.computerweekly.com/news/252496631/European-Commission-proposes-UK-data-adequacy-agreement)
 - [NCSC cyber defence scheme blocked thousands of scams in 2019](https://www.computerweekly.com/news/252496621/NCSC-cyber-defence-scheme-blocked-thousands-of-scams-in-2019)
 - [Gaurav Dhillon: Silicon Valley is poised to grow up to seize a more spiritual future](https://www.computerweekly.com/feature/Gaurav-Dhillon-Silicon-Valley-is-poised-to-grow-up-to-seize-a-more-spiritual-future)
-- [Interview: From healthcare to healthcare IT provider](https://www.computerweekly.com/news/252496456/Interview-From-healthcare-to-healthcare-IT-provider)
-- [Uber drivers should be classified as ‘workers’, UK Supreme Court confirms](https://www.computerweekly.com/news/252496602/Uber-drivers-should-be-classified-as-workers-UK-Supreme-Court-confirms)
-- [Biden will act on cyber security to fix SolarWinds mess](https://www.computerweekly.com/news/252496598/Biden-will-act-on-cyber-security-to-fix-SolarWinds-mess)
-- [Fujitsu bosses knew about Post Office Horizon IT flaws, says insider](https://www.computerweekly.com/news/252496560/Fujitsu-bosses-knew-about-Post-Office-Horizon-IT-flaws-says-insider)
-- [Data lake storage: Cloud vs on-premise data lakes](https://www.computerweekly.com/feature/Data-lake-storage-Cloud-vs-on-premise-data-lakes)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -366,6 +366,8 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How AI Can Save the World, or Not](https://www.informationweek.com/big-data/ai-machine-learning/how-ai-can-save-the-world-or-not/d/d-id/1340217?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What Lawyers Want Everyone to Know About AI Liability](https://www.informationweek.com/big-data/ai-machine-learning/what-lawyers-want-everyone-to-know-about-ai-liability/a/d-id/1340211?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIOs Face Decisions on Remote Work for Post-Pandemic Future](https://www.informationweek.com/strategic-cio/cios-face-decisions-on-remote-work-for-post-pandemic-future/a/d-id/1340193?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Build Talent Retention by Failing Fast](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-build-talent-retention-by-failing-fast/a/d-id/1340162?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CRM Trends 2021: How the Pandemic Altered Customer Behavior Forever](https://www.informationweek.com/software/enterprise-applications/crm-trends-2021-how-the-pandemic-altered-customer-behavior-forever/d/d-id/1340192?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -374,8 +376,6 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 - [CIOs: Are You Ready Today for Tomorrow's Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Generation Z Is Bringing Dramatic Transformation to the Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/generation-z-is-bringing-dramatic-transformation-to-the-workforce-/a/d-id/1340125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Finding the Great Predictors for Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/finding-the-great-predictors-for-machine-learning/a/d-id/1340137?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [3 Ways to Empower Female Software Engineers on Your Team](https://www.informationweek.com/strategic-cio/team-building-and-staffing/3-ways-to-empower-female-software-engineers-on-your-team/a/d-id/1340119?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

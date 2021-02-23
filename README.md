@@ -426,16 +426,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The new age of customer experience is CCaaS](https://www.itworldcanada.com/blog/the-new-age-of-customer-experience-is-ccaas/442770)
+- [Telesat to receive $400 million investment from Quebec](https://www.itworldcanada.com/article/telesat-to-receive-400-million-investment-from-quebec/442752)
+- [StrikeUp’s 2021 Digital Conference for Women Entrepreneurs: An opportunity to learn and inspire](https://www.itworldcanada.com/blog/strikeups-2021-digital-conference-for-women-entrepreneurs-an-opportunity-to-learn-and-inspire/442727)
+- [Cloud developers still tripped up by misconfigurations, says vendor report](https://www.itworldcanada.com/article/cloud-developers-still-tripped-up-by-misconfigurations-says-vendor-report/442707)
+- [Cyber Security Today – U.S. supermarket chain says pharmacy records hacked, a slip-up at a Winnipeg school board and the impact of ransomware](https://www.itworldcanada.com/article/cyber-security-today-us-supermarket-chain-says-pharmacy-records-hacked-a-slip-up-at-a-winnipeg-school-board-and-the-impact-of-ransomware/442590)
+- [11 steps to impress your boss and thrive in your job – New York Times](https://www.itworldcanada.com/post/11-steps-to-impress-your-boss-and-thrive-in-your-job-new-york-times)
+- [5 best programming languages to learn during COVID-19 lockdown – Dice](https://www.itworldcanada.com/post/5-best-programming-languages-to-learn-during-covid-19-lockdown-dice)
+- [Hashtag Trending, Feb. 22 – Robinhood gets grilled; Canada issues warning to Facebook; Instacart’s anti-fraud policy causes headaches](https://www.itworldcanada.com/article/hashtag-trending-feb-22-robinhood-gets-grilled-canada-issues-warning-to-facebook-instacarts-anti-fraud-policy-causes-headaches/442618)
+- [Canada’s Top Women in Fintech/Blockchain](https://www.itworldcanada.com/canadas-top-women-in-fintech-blockchain)
 - [The Remote Working Marathon – Moral, Flexibility and The Gender Divide – Forbes](https://www.itworldcanada.com/post/the-remote-working-marathon-moral-flexibility-and-the-gender-divide-forbes)
-- [Security and efficiency, disparaging partners or complimentary pairs?](https://www.itworldcanada.com/blog/security-and-efficiency-disparaging-partners-or-complimentary-pairs/442407)
-- [Cyber Security Today – Week in Review for February 19, 2020](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-19-2020/442556)
-- [Let’s Encrypt upgrades infrastructure, can now issue 200 million certificates in a day](https://www.itworldcanada.com/article/lets-encrypt-upgrades-infrastructure-can-now-issue-200-million-certificates-in-a-day/442547)
-- [U.S. Justice Department says Canadian to plead guilty to laundering money stolen by North Korean cyberattackers](https://www.itworldcanada.com/article/canadian-to-plead-guilty-to-laundering-money-stolen-by-north-korean-cyber-attackers-says-u-s/442503)
-- [Cyber Security Today – Stopping teens from accessing online porn, FBI warning to home buyers and inside a cryptojacking scheme](https://www.itworldcanada.com/article/cyber-security-today-stop-teens-from-accessing-online-porn-fbi-warning-to-home-buyers-and-inside-a-cryptojacking-scheme/442541)
-- [Skeptical about the data and model congruity used for AI-derived recommendations?](https://www.itworldcanada.com/blog/skeptical-about-the-data-and-model-congruity-used-for-ai-derived-recommendations/442330)
-- [Hashtag Trending, Feb. 19 – CRA locks users’ online accounts; Facebook banks news in Australia; Uber takes down UberChats app](https://www.itworldcanada.com/article/the-canadian-revenue-agency-says-online-accounts-were-locked-because-of-an-external-threat-facebook-picks-the-nuclear-option-and-bans-news-on-its-platform-in-australia-and-uber-takes-down-the-ub/442543)
-- [British Columbia receives $6.7 million project to improve internet connectivity](https://www.itworldcanada.com/article/british-columbia-receives-6-7-million-project-to-improve-internet-connectivity/442532)
-- [Canadian privacy expert says 2021 could be the year for digital ID projects](https://www.itworldcanada.com/article/canadian-privacy-expert-says-2021-could-be-the-year-for-digital-id-projects/442500)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

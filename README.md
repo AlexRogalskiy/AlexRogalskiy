@@ -278,7 +278,7 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-12°C (<i>snow</i>), humidity: 85%, pressure: 1028 (mbar), wind: /south-west/ 7 (m/s), cloudy: 90%</b>
+        <b>-11°C (<i>snow</i>), humidity: 79%, pressure: 1027 (mbar), wind: /south-west/ 7 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:14 am</b> and sets at <b>18:10 pm</b>.
     </p>

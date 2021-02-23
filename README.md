@@ -291,16 +291,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [The ecobee SmartCamera Is Now Better at Being a Baby Monitor](https://www.reviewgeek.com/71594/the-ecobee-smartcamera-is-now-better-at-being-a-baby-monitor/)
-* [How to Only Allow Admins to Send a Message in a WhatsApp Group](https://www.howtogeek.com/708332/how-to-only-allow-admins-to-send-a-message-in-a-whatsapp-group/)
-* [LEGO's Latest BrickHeadz Are Adorable Bobble-Headed Fish and Bird Pets](https://www.reviewgeek.com/71581/legos-latest-brickheadz-are-adorable-bobble-headed-fish-and-bird-pets/)
-* [Check Out This Super Rare Yellow Penguin Captured by a Wildlife Photographer](https://www.reviewgeek.com/71597/check-out-this-super-rare-yellow-penguin-captured-by-a-wildlife-photographer/)
-* [How to Make a Facetime Audio Call](https://www.howtogeek.com/710099/how-to-make-a-facetime-audio-call/)
-* [How to Change Ruler Units in Adobe Photoshop](https://www.howtogeek.com/712446/how-to-change-ruler-units-in-adobe-photoshop/)
-* [How to Use Apple Maps in a Browser on Windows and Android](https://www.howtogeek.com/711986/how-to-use-apple-maps-in-a-browser-on-windows-and-android/)
-* [The Best Tabletop RPGs That Aren't 'Dungeons & Dragons'](https://www.reviewgeek.com/70751/the-best-tabletop-rpgs-that-arent-dungeons-dragons/)
-* [How to Adjust Keyboard Brightness on MacBook Air](https://www.howtogeek.com/710830/how-to-adjust-keyboard-brightness-on-macbook-air/)
-* [ASUS Chromebox 4 Review: When a Chromebook Isn't Big Enough](https://www.reviewgeek.com/67984/asus-chromebox-4-when-a-chromebook-isnt-big-enough/)
+* [Watch Perseverance Rover Land, Then Drive It Around Your Home With an AR App](https://www.reviewgeek.com/71789/watch-perseverance-rover-land-then-drive-it-around-your-home-with-an-ar-app/)
+* [Alarming macOS Malware Found on Over 30k Machines (Including M1 Macs)](https://www.reviewgeek.com/71741/alarming-macos-malware-found-on-over-30k-machines-including-m1-macs/)
+* [Netflix's Automatic "Downloads For You" Provides Content When The Internet's Out](https://www.reviewgeek.com/71739/netflixs-automatic-downloads-for-you-provides-content-when-the-internets-out/)
+* [VAIO Marks Its Comeback With a $3,579 Full Carbon Fiber Laptop](https://www.reviewgeek.com/71704/vaio-marks-its-comeback-with-a-3579-full-carbon-fiber-laptop/)
+* [Microsoft Word's Text Prediction Feature Will Finish Your Sentences for You](https://www.reviewgeek.com/71726/microsoft-words-text-prediction-feature-will-finish-your-sentences-for-you/)
+* [Newer Samsung Galaxy Devices Now Get Four Years of Security Updates](https://www.reviewgeek.com/71710/newer-samsung-galaxy-devices-now-get-four-years-of-security-updates/)
+* [How to Search for YouTube Videos by Hashtag](https://www.howtogeek.com/710501/how-to-search-for-youtube-videos-by-hashtag/)
+* [How to Use the TRIM Function in Microsoft Excel](https://www.howtogeek.com/710718/how-to-use-the-trim-function-in-microsoft-excel/)
+* [How to Transfer LastPass Passwords to 1Password](https://www.howtogeek.com/714547/how-to-transfer-lastpass-passwords-to-1password/)
+* [How to Use Two HomePods as a Stereo Pair With the Apple TV](https://www.howtogeek.com/711465/how-to-use-two-homepods-as-a-stereo-pair-with-the-apple-tv/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

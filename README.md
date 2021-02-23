@@ -336,16 +336,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
-- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
-- [Calling for benefit–risk evaluations of Covid-19 control measures](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00193-8/fulltext)
-- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
-- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
-- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
-- [It’s cheaper because we pass the risk on to you](https://shkspr.mobi/blog/2021/02/its-cheaper-because-we-pass-the-risk-on-to-you/)
-- [A Data Pipeline Is a Materialized View](https://nchammas.com/writing/data-pipeline-materialized-view)
-- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
-- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
+- [Berkeley may eliminate historically racist single family zoning](https://www.berkeleyside.com/2021/02/17/berkeley-may-get-rid-of-single-family-zoning-as-a-way-to-correct-the-arc-of-its-ugly-housing-history)
+- [Apple M1 Macbooks are now refurbished by Apple Store](https://www.refurb.me/refurbished/macbook/with-apple-silicon)
+- [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
+- [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
+- [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
+- [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
+- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Gyroplane Accidents 1985-2005](https://pubmed.ncbi.nlm.nih.gov/18856189/)
+- [India's artisanal fountain pens are making their mark](https://www.bbc.com/news/world-asia-india-55314701)
+- [Show HN: Note, my simple command-line note taking app](https://github.com/wsw70/note)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

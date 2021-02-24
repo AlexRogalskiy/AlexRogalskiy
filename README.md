@@ -426,6 +426,8 @@ all that is cold.
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Old programs require TLS 1.1 (FOR SOME WEIRD REASON)](https://www.reddit.com/r/InformationTechnology/comments/lqw0tp/old_programs_require_tls_11_for_some_weird_reason/)
+- [Anyone pass Network+ using just Mike Meyer's Udemy course?](https://www.reddit.com/r/InformationTechnology/comments/lqnuks/anyone_pass_network_using_just_mike_meyers_udemy/)
 - [Hi, I have a quick concept question. Just wanna see if I have a right understand of the osi model.](https://www.reddit.com/r/InformationTechnology/comments/lq2h7e/hi_i_have_a_quick_concept_question_just_wanna_see/)
 - [IT Staff at Hospitals Questions](https://www.reddit.com/r/InformationTechnology/comments/lpygwb/it_staff_at_hospitals_questions/)
 - [Recovering pervious version files](https://www.reddit.com/r/InformationTechnology/comments/lpr40t/recovering_pervious_version_files/)
@@ -434,8 +436,6 @@ all that is cold.
 - [Does it matter what university I get my BSIT degree?](https://www.reddit.com/r/InformationTechnology/comments/lplozh/does_it_matter_what_university_i_get_my_bsit/)
 - [Uninstalling Crowdstrike falcon server](https://www.reddit.com/r/InformationTechnology/comments/lp47nb/uninstalling_crowdstrike_falcon_server/)
 - [Need urgent advice](https://www.reddit.com/r/InformationTechnology/comments/loxbhn/need_urgent_advice/)
-- [YouTube channels that cover IT stuff](https://www.reddit.com/r/InformationTechnology/comments/lop5ca/youtube_channels_that_cover_it_stuff/)
-- [Wireless Printer](https://www.reddit.com/r/InformationTechnology/comments/lome31/wireless_printer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

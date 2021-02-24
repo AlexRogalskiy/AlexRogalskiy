@@ -219,7 +219,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;95&#x2F;04&#x2F;f7&#x2F;9504f771d88a01aa6e2fe7c4d66a64d0.jpg" alt="Would you call yourself a polyglot? It&#39;s our #WordOfTheDay. Want example sentences? Click to learn more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;95&#x2F;04&#x2F;f7&#x2F;9504f771d88a01aa6e2fe7c4d66a64d0.jpg" alt="Would you call yourself a polyglot? It&#39;s our #WordOfTheDay. Want example sentences? Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5e&#x2F;fe&#x2F;1e&#x2F;5efe1ee9756da2d03965129e9e3ed24a.jpg" alt="Exploring the intricacies of language is just a darg for us, and darg is our Word of the Day. See where it comes from and more at Dictionary.com! #English #Word #Learn #Vocabulary " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5c&#x2F;ab&#x2F;5a&#x2F;5cab5a1dc8e29d1bb03cb57a135275ba.jpg" alt="Today’s Word of the Day isn’t really a compliment. It’s snollygoster. Get example sentences and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;bd&#x2F;f4&#x2F;b2&#x2F;bdf4b2dbf7242840061f7dfcc03ebbaf.jpg" alt="Prosopopoeia is the Word of the Day. Need a little pronunciation help? Learn how to say it at Dictionary.com! " />
@@ -293,7 +293,7 @@ all that is cold.
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-9°C (<i>overcast clouds</i>), humidity: 86%, pressure: 1024 (mbar), wind: /south/ 3 (m/s), cloudy: 90%</b>
+        <b>-9°C (<i>overcast clouds</i>), humidity: 92%, pressure: 1023 (mbar), wind: /south/ 4 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:11 am</b> and sets at <b>18:12 pm</b>.
     </p>

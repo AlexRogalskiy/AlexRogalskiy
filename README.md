@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_2/nerd_796.php" target="_blank"><i>nerd</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/L/loopy_1544.php" target="_blank"><i>loopy</i></a>
 <span> = </span>
-<span>a studious person with few social skills</span>
+<span>eccentric, a little crazy</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/None_so_blind_as_those_who_will_not_see_959.php" target="_blank"><i>None so blind as those who will not see</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/A_nod_is_as_good_as_a_wink_to_a_blind_horse_937.php" target="_blank"><i>A nod is as good as a wink to a blind horse</i></a>
 <span> = </span>
-<span>Nobody is blinder than the person who decides he does not want to see. Often used in reference to prejudice and intolerance.</span>
+<span>A very small hint is enough to convey our meaning. It is not always necessary to say what we want explicitly.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

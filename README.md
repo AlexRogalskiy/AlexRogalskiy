@@ -381,6 +381,8 @@ all that is cold.
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IBM's Hernandez Discusses Future of AIOps and Measuring ROI](https://www.informationweek.com/big-data/ai-machine-learning/ibms-hernandez-discusses-future-of-aiops-and-measuring-roi/a/d-id/1340219?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Are Your Strategic Long-Term Partnerships Built to Succeed?](https://www.informationweek.com/strategic-cio/digital-business/are-your-strategic-long-term-partnerships-built-to-succeed-/a/d-id/1340196?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How AI Can Save the World, or Not](https://www.informationweek.com/big-data/ai-machine-learning/how-ai-can-save-the-world-or-not/d/d-id/1340217?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Lawyers Want Everyone to Know About AI Liability](https://www.informationweek.com/big-data/ai-machine-learning/what-lawyers-want-everyone-to-know-about-ai-liability/a/d-id/1340211?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIOs Face Decisions on Remote Work for Post-Pandemic Future](https://www.informationweek.com/strategic-cio/cios-face-decisions-on-remote-work-for-post-pandemic-future/a/d-id/1340193?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -389,8 +391,6 @@ all that is cold.
 - [11 Ways DevOps Is Evolving](https://www.informationweek.com/devops/11-ways-devops-is-evolving/d/d-id/1340185?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How GIS Data Can Help Fix Vaccine Distribution](https://www.informationweek.com/big-data/big-data-analytics/how-gis-data-can-help-fix-vaccine-distribution/d/d-id/1340164?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIOs: Are You Ready Today for Tomorrow's Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Graph-Based AI Enters the Enterprise Mainstream](https://www.informationweek.com/big-data/ai-machine-learning/graph-based-ai-enters-the-enterprise-mainstream/a/d-id/1340141?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Generation Z Is Bringing Dramatic Transformation to the Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/generation-z-is-bringing-dramatic-transformation-to-the-workforce-/a/d-id/1340125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/heads_will_roll_301.php" target="_blank"><i>heads will roll</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/British/take_the_mickey_mick_out_of_someone_488.php" target="_blank"><i>take the mickey | mick out of someone</i></a>
 <span> = </span>
-<span>You can say "heads will roll" if people are going to lose their jobs after making a mistake.</span>
+<span>If you're taking the mickey out of someone, or taking the mick out of them, you're making fun of them or copying their behaviour for a laugh.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

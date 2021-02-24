@@ -396,16 +396,16 @@ all that is cold.
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [IT Salary Survey 2021: Hiring rate expected to increase but priorities will shift](https://www.idginsiderpro.com/article/3608508/it-salary-survey-2021-hiring-rate-expected-to-increase-but-priorities-will-shift.html#tk.rss_all)
+- [Introducing Microsoft .NET 6](https://www.infoworld.com/article/3608951/introducing-microsoft-net-6.html#tk.rss_all)
+- [Higher education embraces cloud computing just in time](https://www.infoworld.com/article/3608716/higher-education-embraces-cloud-computing-just-in-time.html#tk.rss_all)
+- [Are software developers important? Yes, very](https://www.infoworld.com/article/3608558/are-software-developers-important-yes-very.html#tk.rss_all)
 - [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_all)
 - [IT Salary Survey 2021: Compensation holds steady despite pandemic](https://www.idginsiderpro.com/article/3607982/it-salary-survey-2021-compensation-holds-steady-despite-pandemic.html#tk.rss_all)
 - [The real value of open source in the cloud](https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html#tk.rss_all)
 - [How to use LazyCache in ASP.NET Core MVC 5](https://www.infoworld.com/article/3608568/how-to-use-lazycache-in-aspnet-core-mvc-5.html#tk.rss_all)
 - [Why Microsoft Azure wins with enterprise customers](https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html#tk.rss_all)
 - [The Linux Foundation adds 7 projects to combat racial injustice](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Microsoft unveils first .NET 6 preview](https://www.infoworld.com/article/3608611/microsoft-unveils-first-net-6-preview.html#tk.rss_all)
-- [Cloud overspending spotlights the need for cost governance](https://www.infoworld.com/article/3608528/cloud-overspending-spotlights-the-need-for-cost-governance.html#tk.rss_all)
-- [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

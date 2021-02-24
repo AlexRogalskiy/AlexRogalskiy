@@ -441,16 +441,16 @@ all that is cold.
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bombardier latest victim of Accellion FTA-related data theft](https://www.itworldcanada.com/article/bombardier-latest-victim-of-accellion-fta-related-data-theft/442828)
+- [Samsung devices to receive four years of security updates, one more than Pixel phones](https://www.itworldcanada.com/article/samsung-devices-to-receive-four-years-of-security-updates-one-more-than-pixel-phones/442808)
+- [Ontario’s Lakehead University hopes to resume classes this week after cyberattack](https://www.itworldcanada.com/article/ontarios-lakehead-university-hopes-to-resume-classes-this-week-after-cyberattack/442792)
+- [FireEye researchers spot patterns in Accellion FTA attacks](https://www.itworldcanada.com/article/fireeye-researchers-spot-patterns-in-accellion-fta-attacks/442780)
+- [Starlink internet in Canada: A remote worker’s experience so far](https://www.itworldcanada.com/article/starlink-internet-in-canada-a-remote-workers-experience-so-far/442741)
+- [Why workload placement is critical to a successful digital transformation](https://www.itworldcanada.com/blog/why-workload-placement-is-critical-to-a-successful-digital-transformation/442796)
+- [Hashtag Trending, Feb. 23 , 2021 – Apple Mac malware; Trudeau and Biden meet virtually; YouTube blocks chess](https://www.itworldcanada.com/article/hashtag-trending-feb-23-2021-apple-mac-malware-trudeau-and-biden-meet-virtually-youtube-blocks-chess/442777)
 - [The new age of customer experience is CCaaS](https://www.itworldcanada.com/blog/the-new-age-of-customer-experience-is-ccaas/442770)
 - [Telesat to receive $400 million investment from Quebec](https://www.itworldcanada.com/article/telesat-to-receive-400-million-investment-from-quebec/442752)
 - [StrikeUp’s 2021 Digital Conference for Women Entrepreneurs: An opportunity to learn and inspire](https://www.itworldcanada.com/blog/strikeups-2021-digital-conference-for-women-entrepreneurs-an-opportunity-to-learn-and-inspire/442727)
-- [Cloud developers still tripped up by misconfigurations, says vendor report](https://www.itworldcanada.com/article/cloud-developers-still-tripped-up-by-misconfigurations-says-vendor-report/442707)
-- [Cyber Security Today – U.S. supermarket chain says pharmacy records hacked, a slip-up at a Winnipeg school board and the impact of ransomware](https://www.itworldcanada.com/article/cyber-security-today-us-supermarket-chain-says-pharmacy-records-hacked-a-slip-up-at-a-winnipeg-school-board-and-the-impact-of-ransomware/442590)
-- [11 steps to impress your boss and thrive in your job – New York Times](https://www.itworldcanada.com/post/11-steps-to-impress-your-boss-and-thrive-in-your-job-new-york-times)
-- [5 best programming languages to learn during COVID-19 lockdown – Dice](https://www.itworldcanada.com/post/5-best-programming-languages-to-learn-during-covid-19-lockdown-dice)
-- [Hashtag Trending, Feb. 22 – Robinhood gets grilled; Canada issues warning to Facebook; Instacart’s anti-fraud policy causes headaches](https://www.itworldcanada.com/article/hashtag-trending-feb-22-robinhood-gets-grilled-canada-issues-warning-to-facebook-instacarts-anti-fraud-policy-causes-headaches/442618)
-- [Canada’s Top Women in Fintech/Blockchain](https://www.itworldcanada.com/canadas-top-women-in-fintech-blockchain)
-- [The Remote Working Marathon – Moral, Flexibility and The Gender Divide – Forbes](https://www.itworldcanada.com/post/the-remote-working-marathon-moral-flexibility-and-the-gender-divide-forbes)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

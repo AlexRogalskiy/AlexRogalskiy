@@ -411,16 +411,16 @@ all that is cold.
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Subpostmaster group calls for prime minister to pause Horizon ‘whitewash’ inquiry](https://www.computerweekly.com/news/252496767/Subpostmaster-group-calls-for-prime-minister-to-pause-Horizon-whitewash-inquiry)
+- [XDR makes cyber a Stroll in the park for Aston Martin F1](https://www.computerweekly.com/news/252496755/XDR-makes-cyber-a-Stroll-in-the-park-for-Aston-Martin-F1)
+- [Post Office Horizon and the subpostmasters’ justice fight – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Post-Office-Horizon-and-the-subpostmasters-justice-fight-Computer-Weekly-Downtime-Upload-podcast)
+- [Poor data leads to IT squabbles and work stress](https://www.computerweekly.com/news/252496691/Poor-data-leads-to-IT-squabbles-and-work-stress)
+- [AI powers reputational damage insurance policy](https://www.computerweekly.com/news/252496749/AI-powers-reputational-damage-insurance-policy)
+- [BBVA teams up with Google Cloud for IT security strategy revamp](https://www.computerweekly.com/news/252496739/BBVA-teams-up-with-Google-Cloud-for-IT-security-strategy-revamp)
+- [CyberScotland offers centralised security resource hub](https://www.computerweekly.com/news/252496747/CyberScotland-offers-centralised-security-resource-hub)
+- [Computers in space – managing a datacentre on the ISS](https://www.computerweekly.com/ezine/Computer-Weekly/Computers-in-space-managing-a-datacentre-on-the-ISS)
 - [UK government set to offer fintech visa](https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa)
 - [Startup founders worried about proposed capital gains tax changes](https://www.computerweekly.com/news/252496689/Startup-founders-worried-about-proposed-capital-gains-tax-changes)
-- [Microphones, smartphones, laptops among items stolen from BBC](https://www.computerweekly.com/news/252496680/Microphones-smartphones-laptops-among-items-stolen-from-BBC)
-- [Pandemic has exposed fractures in cyber fraud strategy](https://www.computerweekly.com/news/252496679/Pandemic-has-exposed-fractures-in-cyber-fraud-strategy)
-- [How colocation fits alongside a cloud-native architecture](https://www.computerweekly.com/feature/How-colocation-fits-alongside-a-cloud-native-architecture)
-- [UK to launch 'high-risk, high-reward' research agency, dubbed ARIA](https://www.computerweekly.com/news/252496636/UK-to-launch-high-risk-high-reward-research-agency-dubbed-ARIA)
-- [Fixing government digital transformation – lessons from the early days of GDS](https://www.computerweekly.com/opinion/Fixing-government-digital-transformation-lessons-from-the-early-days-of-GDS)
-- [European Commission proposes UK data adequacy agreement](https://www.computerweekly.com/news/252496631/European-Commission-proposes-UK-data-adequacy-agreement)
-- [NCSC cyber defence scheme blocked thousands of scams in 2019](https://www.computerweekly.com/news/252496621/NCSC-cyber-defence-scheme-blocked-thousands-of-scams-in-2019)
-- [Gaurav Dhillon: Silicon Valley is poised to grow up to seize a more spiritual future](https://www.computerweekly.com/feature/Gaurav-Dhillon-Silicon-Valley-is-poised-to-grow-up-to-seize-a-more-spiritual-future)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

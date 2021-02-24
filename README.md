@@ -240,14 +240,29 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/643747325484974080" target="_blank"><i>Short Talk: on Reading</i></a></summary>
-<p>by Anne Carson</p><p>Some fathers hate to read but love to take the <br/>family on trips. Some 
-children hate trips but <br/>love to read. Funny how often these find 
-them-<br/>selves passengers in the same automobile. I <br/>glimpsed the stupendous 
-clear-cut shoulders <br/>of the Rockies from between paragraphs of <br/><i>Madame 
-Bovary</i>. Cloud shadows roved languidly <br/>across her huge rock throat, 
-traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on female
- flesh without thinking, Deciduous?</p>
+<summary><a href="https://apoemaday.tumblr.com/post/643937706658889728" target="_blank"><i>Lamium</i></a></summary>
+<p>by Louise Glück</p><p>This is how you live when you have a cold heart.<br/>
+As I do: in shadows, trailing over cool rock,<br/>
+under the great maple trees.<br/><br/>
+
+The sun hardly touches me.<br/>
+Sometimes I see it in early spring, rising very far away.<br/>
+Then leaves grow over it, completely hiding it. I feel it<br/>
+glinting through the leaves, erratic,<br/>
+like someone hitting the side of a glass with a metal spoon.<br/><br/>
+
+Living things don’t all require<br/>
+light in the same degree. Some of us<br/>
+make our own light: a silver leaf<br/>
+like a path no one can use, a shallow<br/>
+lake of silver in the darkness under the great maples.<br/><br/>
+
+But you know this already.<br/>
+You and the others who think<br/>
+you live for truth and, by extension, love<br/>
+all that is cold.
+
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

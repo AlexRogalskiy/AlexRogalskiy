@@ -366,16 +366,16 @@ all that is cold.
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [This AI And Coding Course Will Change Your Career Forever](https://www.computerworld.com/article/3608761/this-ai-and-coding-course-will-change-your-career-forever.html#tk.rss_all)
+- [Two big buts about Samsung's Android security update announcement](https://www.computerworld.com/article/3608948/samsung-android-security-updates.html#tk.rss_all)
+- [Microsoft slashes Windows 10 long-term support by half](https://www.computerworld.com/article/3608930/microsoft-slashes-windows-10-long-term-support-by-half.html#tk.rss_all)
+- [Something new, something old in Apple’s 2021 MacBook Pro upgrade](https://www.computerworld.com/article/3609110/something-new-something-old-in-apples-2021-macbook-pro-upgrade.html#tk.rss_all)
+- [BrandPost: Why Hyperconverged Infrastructure Can Mean Hyper-reduced Lifetime Costs](https://www.computerworld.com/article/3609111/why-hyperconverged-infrastructure-reduces-lifetime-costs.html#tk.rss_all)
+- [IT Salary Survey 2021: Hiring rate expected to increase but priorities will shift](https://www.idginsiderpro.com/article/3608508/it-salary-survey-2021-hiring-rate-expected-to-increase-but-priorities-will-shift.html#tk.rss_all)
+- [Where to find and recruit Black tech pros](https://www.computerworld.com/article/3608714/where-to-find-and-recruit-black-tech-pros.html#tk.rss_all)
+- [BrandPost: 3 Ways HCI Helps Improve Your Data Center Security](https://www.computerworld.com/article/3608577/3-ways-hci-helps-improve-your-data-center-security.html#tk.rss_all)
 - [Viva Connections: What your intranet wants to be](https://www.computerworld.com/article/3608573/viva-connections-what-your-intranet-wants-to-be.html#tk.rss_all)
 - [Why Apple should let you define private places on iPhones](https://www.computerworld.com/article/3608682/why-apple-should-let-you-define-private-places-on-iphones.html#tk.rss_all)
-- [Apple tramples on security in the name of convenience](https://www.computerworld.com/article/3608715/apple-tramples-on-security-in-the-name-of-convenience.html#tk.rss_all)
-- [The .NET patch failure that wasn’t](https://www.computerworld.com/article/3608375/the-net-patch-failure-that-wasnt.html#tk.rss_all)
-- [IT Salary Survey 2021: Compensation holds steady despite pandemic](https://www.idginsiderpro.com/article/3607982/it-salary-survey-2021-compensation-holds-steady-despite-pandemic.html#tk.rss_all)
-- [How to collaborate with Dropbox Spaces](https://www.computerworld.com/article/3607759/how-to-collaborate-with-dropbox-spaces.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Apple is investing in 6G, but it doesn’t matter (yet)](https://www.computerworld.com/article/3608551/apple-is-investing-in-6g-but-it-doesnt-matter-yet.html#tk.rss_all)
-- [This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day](https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html#tk.rss_all)
-- [Need simple IT infrastructure for a small business? Try V2 Cloud](https://www.computerworld.com/article/3607746/need-simple-it-infrastructure-for-a-small-business-try-v2-cloud.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

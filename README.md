@@ -321,16 +321,16 @@ all that is cold.
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The precipitous rise of Figma and fall of InVision](https://uxdesign.cc/the-precipitous-rise-of-figma-and-fall-of-invision-435f07e8d1b6)
-- [Berkeley may eliminate historically racist single family zoning](https://www.berkeleyside.com/2021/02/17/berkeley-may-get-rid-of-single-family-zoning-as-a-way-to-correct-the-arc-of-its-ugly-housing-history)
-- [Show HN: Community of professionals, with satisfaction and transparency at core](https://app.everi.one/)
-- [Ask HN: Is it agaisnt SEC regulations to start a gofundme to buy a stock?](https://news.ycombinator.com/item?id=26233022)
-- [Formafantasma – site that claims to be designed to minimize energy consumption](https://formafantasma.com/website)
-- [Three thylacines (Tasmanian wolves) have apparently been photographed alive](https://twitter.com/incunabula/status/1363995423325749254)
-- [Ask HN: Trivia questions about Computer Science](https://news.ycombinator.com/item?id=26232987)
-- [Knuth's Up-Arrow Notation](https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation)
-- ['The Ramsey Effect' – on Frank Ramsey, the influential but lesser-known C (cont)](https://www.lrb.co.uk/the-paper/v43/n04/kieran-setiya/the-ramsey-effect)
-- [SoftBank would buy about 25% of Adam Neumann’s stake in WeWork for $480M](https://www.cnbc.com/2021/02/22/softbank-may-buy-25percent-of-adam-neumanns-wework-stake-for-480-million.html)
+- [Empact Foundation Class C++ Library](https://sourceforge.net/projects/empact/)
+- [Amazon Plans Wall-Mounted Echo](https://www.bloomberg.com/news/articles/2021-02-09/amazon-plans-wall-mounted-echo-as-smart-home-command-center)
+- [How Sustainable Is High-Tech Health Care?](https://www.lowtechmagazine.com/2021/02/how-sustainable-is-high-tech-health-care.html)
+- [Apple Bought Another Company Every 3 to 4 Weeks for Last 6 Years, Tim Cook Says](https://gizmodo.com/apple-bought-another-company-every-3-to-4-weeks-for-las-1846340372)
+- [Crypto Reinvents Collateralized Debt Obligations](https://businessblockchainhq.com/business-blockchain-news/collateralized-debt-obligations-make-their-way-into-defi-lending/)
+- [Quill, the messaging app backed by Index, takes on Slack](https://techcrunch.com/2021/02/23/the-new-new-slack-quill/)
+- [Biometrics News, Biometrics Companies, Explaining Biometrics](https://www.biometricupdate.com/)
+- [Single inhalation of vapor from dried toad secretion containing 5-MeO-DMT 2019](https://link.springer.com/article/10.1007/s00213-019-05236-w)
+- [SolarWinds hack was work of 'at least 1k engineers', tech execs tell Senate](https://www.theguardian.com/technology/2021/feb/23/solarwinds-hack-senate-hearing-microsoft)
+- [The GameStop Craze Was Mostly Just Crazy](https://www.nytimes.com/2021/02/23/opinion/gamestop-price-congress-robinhood.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

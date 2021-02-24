@@ -351,16 +351,16 @@ all that is cold.
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Berkeley may eliminate historically racist single family zoning](https://www.berkeleyside.com/2021/02/17/berkeley-may-get-rid-of-single-family-zoning-as-a-way-to-correct-the-arc-of-its-ugly-housing-history)
-- [Apple M1 Macbooks are now refurbished by Apple Store](https://www.refurb.me/refurbished/macbook/with-apple-silicon)
-- [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
-- [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
-- [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
-- [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
-- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Gyroplane Accidents 1985-2005](https://pubmed.ncbi.nlm.nih.gov/18856189/)
-- [India's artisanal fountain pens are making their mark](https://www.bbc.com/news/world-asia-india-55314701)
-- [Show HN: Note, my simple command-line note taking app](https://github.com/wsw70/note)
+- [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
+- [American Airlines Confirms: UFO Contact over New Mexico on Sunday](https://viewfromthewing.com/american-airlines-pilot-reported-ufo-contact-over-new-mexico-on-sunday/)
+- [M1 Mac owners are experiencing high SSD writes over short periods of time](https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/)
+- [Architecture of the Playstation 2](https://www.copetti.org/writings/consoles/playstation-2/)
+- [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
+- [Taking a Stand in the War on General-Purpose Computing](https://cheapskatesguide.org/articles/war-on-gp-computing.html)
+- [Impraise (YC S14) hiring Senior Engineer building a remote working tool for teams](https://jobs.impraise.com/o/senior-backend-developer)
+- [Open Source in the 5G Stack](https://github.blog/2021-02-23-open-source-in-the-5g-stack/)
+- [Try to guess if code is real or GPT2-generated](https://doesnotexist.codes)
+- [Lawrence Ferlinghetti has died](https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

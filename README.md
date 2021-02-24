@@ -291,16 +291,16 @@ traced her fir <br/>flanks. Since those days, I do not look at hair <br/>on fema
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Watch Perseverance Rover Land, Then Drive It Around Your Home With an AR App](https://www.reviewgeek.com/71789/watch-perseverance-rover-land-then-drive-it-around-your-home-with-an-ar-app/)
-* [Alarming macOS Malware Found on Over 30k Machines (Including M1 Macs)](https://www.reviewgeek.com/71741/alarming-macos-malware-found-on-over-30k-machines-including-m1-macs/)
-* [Netflix's Automatic "Downloads For You" Provides Content When The Internet's Out](https://www.reviewgeek.com/71739/netflixs-automatic-downloads-for-you-provides-content-when-the-internets-out/)
-* [VAIO Marks Its Comeback With a $3,579 Full Carbon Fiber Laptop](https://www.reviewgeek.com/71704/vaio-marks-its-comeback-with-a-3579-full-carbon-fiber-laptop/)
-* [Microsoft Word's Text Prediction Feature Will Finish Your Sentences for You](https://www.reviewgeek.com/71726/microsoft-words-text-prediction-feature-will-finish-your-sentences-for-you/)
-* [Newer Samsung Galaxy Devices Now Get Four Years of Security Updates](https://www.reviewgeek.com/71710/newer-samsung-galaxy-devices-now-get-four-years-of-security-updates/)
-* [How to Search for YouTube Videos by Hashtag](https://www.howtogeek.com/710501/how-to-search-for-youtube-videos-by-hashtag/)
-* [How to Use the TRIM Function in Microsoft Excel](https://www.howtogeek.com/710718/how-to-use-the-trim-function-in-microsoft-excel/)
-* [How to Transfer LastPass Passwords to 1Password](https://www.howtogeek.com/714547/how-to-transfer-lastpass-passwords-to-1password/)
-* [How to Use Two HomePods as a Stereo Pair With the Apple TV](https://www.howtogeek.com/711465/how-to-use-two-homepods-as-a-stereo-pair-with-the-apple-tv/)
+* [Android's Latest Features Improve Security, Accessibility, and Convenience](https://www.reviewgeek.com/71869/androids-latest-features-improve-security-accessibility-and-convenience/)
+* [PS5 Is Getting a New VR System Inspired by The DualSense Controller](https://www.reviewgeek.com/71851/ps5-is-getting-a-new-vr-system-inspired-by-the-dualsense-controller/)
+* [Save Over $100 On the Samsung Galaxy Watch 3 or Galaxy S21 Smartphone](https://www.reviewgeek.com/71841/save-over-100-on-the-samsung-galaxy-watch-3-or-galaxy-s21-smartphone/)
+* [Lenovo's Latest Laptops Turn Themselves On When You Come Near](https://www.reviewgeek.com/71836/lenovos-latest-laptops-turn-themselves-on-when-you-come-near/)
+* [How to Schedule Text Messages on Android](https://www.howtogeek.com/705660/how-to-schedule-text-messages-on-android/)
+* [Hyundai's IONIQ 5 EV Can Power Your Home's Refrigerator In an Emergency](https://www.reviewgeek.com/71829/hyundais-ioniq-5-ev-can-power-your-homes-refrigerator-in-an-emergency/)
+* [What Is Google One, and Is It Worth Paying for More Storage?](https://www.howtogeek.com/710427/what-is-google-one/)
+* [How to Create a Progress Bar in Microsoft PowerPoint](https://www.howtogeek.com/709523/how-to-create-a-progress-bar-in-microsoft-powerpoint/)
+* [You Should Replace These 10 Kitchen Items Now](https://www.lifesavvy.com/58091/you-should-replace-these-10-kitchen-items-now/)
+* [How to Pin a Folder or a File to Your Mac’s Dock](https://www.howtogeek.com/712237/how-to-pin-a-folder-or-a-file-to-your-macs-dock/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/B/butter_up_2400.php" target="_blank"><i>butter up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/M/mail_out_2231.php" target="_blank"><i>mail out</i></a>
 <span> = </span>
-<span>to say nice things to someone before asking them to do something for you or to give you something</span>
+<span>to mail copies of something like a catalog or a CV to many people</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -336,16 +336,16 @@ all that is cold.
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Fauci says political divide added to 'stunning' US deaths; Italy 'misled' WHO](https://www.theguardian.com/world/live/2021/feb/23/coronavirus-live-news-fauci-says-political-divide-added-to-stunning-us-deaths-italy-misled-who)
-- [Rescuers race to save dozens of stranded pilot whales in New Zealand](https://www.theguardian.com/world/2021/feb/23/whale-stranding-new-zealand-farewell-spit-rescue)
-- [BAME Britons more likely to face higher living costs, study finds](https://www.theguardian.com/society/2021/feb/23/bame-britons-more-likely-to-face-higher-living-costs-study-finds)
-- [Mick Jagger narrates film to mark Royal Albert Hall anniversary](https://www.theguardian.com/music/2021/feb/23/mick-jagger-narrates-film-to-mark-royal-albert-hall-anniversary)
-- [Air New Zealand to trial Covid vaccine passport on Sydney flights](https://www.theguardian.com/world/2021/feb/23/air-new-zealand-to-trial-covid-vaccine-passport-on-sydney-flights)
-- [The Simpsons' Dr Hibbert: Harry Shearer replaced by black actor Kevin Michael Richardson](https://www.theguardian.com/tv-and-radio/2021/feb/23/the-simpsons-dr-hibbert-harry-shearer-replaced-by-black-actor-kevin-michael-richardson)
-- [Emma Coronel, wife of El Chapo, arrested on drug trafficking charges](https://www.theguardian.com/world/2021/feb/22/emma-coronel-arrested-wife-el-chapo-drug-trafficking)
-- [US moves to support Australian push to tackle China's 'human and labour rights abuses'](https://www.theguardian.com/australia-news/2021/feb/23/us-moves-to-support-australian-push-to-tackle-chinas-human-and-labour-rights-abuses)
-- [Diego Simeone places faith in Luis Suárez to use his 'gift' against Chelsea](https://www.theguardian.com/football/2021/feb/22/diego-simeone-places-faith-in-luis-suarez-to-use-his-gift-against-chelsea)
-- [Keir Starmer to push for investment in UK food and farming](https://www.theguardian.com/environment/2021/feb/22/keir-starmer-to-push-for-investment-in-uk-food-and-farming)
+- [Coronavirus live news: AstraZeneca expected to miss EU vaccine target; WHO reports 20% drop in global deaths](https://www.theguardian.com/world/live/2021/feb/24/coronavirus-live-news-who-says-global-deaths-down-20-since-last-week-cases-declining-for-six-straight-weeks)
+- [Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden](https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden)
+- [AstraZeneca expected to miss EU Covid vaccine supply target by half in second-quarter – report](https://www.theguardian.com/world/2021/feb/24/astrazeneca-expected-to-miss-eu-covid-vaccine-supply-target-by-half-in-second-quarter-report)
+- [Police say Tiger Woods 'lucky to be alive' after car crash in California](https://www.theguardian.com/sport/2021/feb/23/tiger-woods-car-crash-injured-hospital-golf-california)
+- [SolarWinds hack was work of 'at least 1,000 engineers', tech executives tell Senate](https://www.theguardian.com/technology/2021/feb/23/solarwinds-hack-senate-hearing-microsoft)
+- [When Daft Punk went to Wee Waa: an ode to the strangest album launch of all time](https://www.theguardian.com/music/2021/feb/24/when-daft-punk-went-to-wee-waa-an-ode-to-the-strangest-album-launch-of-all-time)
+- [I have no motivation to work. How can I change my attitude? | Leading questions](https://www.theguardian.com/money/2021/feb/24/i-have-no-motivation-to-work-how-can-i-change-my-attitude)
+- [Dozens dead after Ecuador prison riots sparked by gang fights and escape bid](https://www.theguardian.com/world/2021/feb/24/dozens-dead-after-ecuador-prison-riots-sparked-by-gang-fights-and-escape-bid)
+- [Failure to enact public duty law 'has worsened England inequality in pandemic'](https://www.theguardian.com/society/2021/feb/24/failure-to-enact-public-duty-law-has-worsened-england-inequality-in-pandemic)
+- [England's Covid catch-up plan for pupils: summer schools and tutoring](https://www.theguardian.com/education/2021/feb/24/englands-secondaries-given-funding-to-run-summer-schools)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

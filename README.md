@@ -351,16 +351,16 @@ all that is cold.
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
-- [American Airlines Confirms: UFO Contact over New Mexico on Sunday](https://viewfromthewing.com/american-airlines-pilot-reported-ufo-contact-over-new-mexico-on-sunday/)
-- [M1 Mac owners are experiencing high SSD writes over short periods of time](https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/)
-- [Architecture of the Playstation 2](https://www.copetti.org/writings/consoles/playstation-2/)
-- [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
-- [Taking a Stand in the War on General-Purpose Computing](https://cheapskatesguide.org/articles/war-on-gp-computing.html)
-- [Impraise (YC S14) hiring Senior Engineer building a remote working tool for teams](https://jobs.impraise.com/o/senior-backend-developer)
-- [Open Source in the 5G Stack](https://github.blog/2021-02-23-open-source-in-the-5g-stack/)
-- [Try to guess if code is real or GPT2-generated](https://doesnotexist.codes)
-- [Lawrence Ferlinghetti has died](https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html)
+- [Facebook says it will pay news industry $1B over 3 years](https://www.axios.com/facebook-pay-news-industry-1-billion-3-years-1155c23c-d4c6-4539-825c-25e1d6fe3536.html)
+- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
+- [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
+- [rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi](https://github.com/librerpi/rpi-open-firmware)
+- [RFC6238 TOTP implementation in pure PostgreSQL](https://github.com/pyramation/totp)
+- [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
+- [A list of open and open source 5G software projects](https://open5g.info)
+- [2D IsometricRenderer](https://github.com/Grille/2D-isometricRenderer)
+- [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
+- [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

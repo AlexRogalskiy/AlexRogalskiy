@@ -426,16 +426,16 @@ all that is cold.
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [what are the certificates that everyone talks about on here?](https://www.reddit.com/r/InformationTechnology/comments/lrt6na/what_are_the_certificates_that_everyone_talks/)
+- [What to touch up before the first day of a new job.](https://www.reddit.com/r/InformationTechnology/comments/lrolkv/what_to_touch_up_before_the_first_day_of_a_new_job/)
+- [Whats the quickest way to get off the phone?](https://www.reddit.com/r/InformationTechnology/comments/lrkuh8/whats_the_quickest_way_to_get_off_the_phone/)
+- [How to Attract the Best IT Talent in 2021](https://www.reddit.com/r/InformationTechnology/comments/lrid49/how_to_attract_the_best_it_talent_in_2021/)
+- [US IT team needs help with EU IT hardware procurement](https://www.reddit.com/r/InformationTechnology/comments/lrdaqd/us_it_team_needs_help_with_eu_it_hardware/)
+- [Customer service](https://www.reddit.com/r/InformationTechnology/comments/lraczh/customer_service/)
+- [Where should I start to learn Computer Science?](https://www.reddit.com/r/InformationTechnology/comments/lra2v4/where_should_i_start_to_learn_computer_science/)
+- [should I do a maths subject at uni?](https://www.reddit.com/r/InformationTechnology/comments/lr2xh5/should_i_do_a_maths_subject_at_uni/)
+- [Is there a name for this?](https://www.reddit.com/r/InformationTechnology/comments/lqx8ba/is_there_a_name_for_this/)
 - [Old programs require TLS 1.1 (FOR SOME WEIRD REASON)](https://www.reddit.com/r/InformationTechnology/comments/lqw0tp/old_programs_require_tls_11_for_some_weird_reason/)
-- [Anyone pass Network+ using just Mike Meyer's Udemy course?](https://www.reddit.com/r/InformationTechnology/comments/lqnuks/anyone_pass_network_using_just_mike_meyers_udemy/)
-- [Hi, I have a quick concept question. Just wanna see if I have a right understand of the osi model.](https://www.reddit.com/r/InformationTechnology/comments/lq2h7e/hi_i_have_a_quick_concept_question_just_wanna_see/)
-- [IT Staff at Hospitals Questions](https://www.reddit.com/r/InformationTechnology/comments/lpygwb/it_staff_at_hospitals_questions/)
-- [Recovering pervious version files](https://www.reddit.com/r/InformationTechnology/comments/lpr40t/recovering_pervious_version_files/)
-- [Interview for IT degree](https://www.reddit.com/r/InformationTechnology/comments/lpppeq/interview_for_it_degree/)
-- [Started an IT degree program this semester. Looking for lectures to supplement my reading.](https://www.reddit.com/r/InformationTechnology/comments/lpoob4/started_an_it_degree_program_this_semester/)
-- [Does it matter what university I get my BSIT degree?](https://www.reddit.com/r/InformationTechnology/comments/lplozh/does_it_matter_what_university_i_get_my_bsit/)
-- [Uninstalling Crowdstrike falcon server](https://www.reddit.com/r/InformationTechnology/comments/lp47nb/uninstalling_crowdstrike_falcon_server/)
-- [Need urgent advice](https://www.reddit.com/r/InformationTechnology/comments/loxbhn/need_urgent_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

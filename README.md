@@ -381,6 +381,8 @@ all that is cold.
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why 2021 May Turn Out to be a Great Year for Tech Startups](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/why-2021-may-turn-out-to-be-a-great-year-for-tech-startups/a/d-id/1340227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Reimagining Formula 1 Manufacturing to Build a Respiratory Device](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/reimagining-formula-1-manufacturing-to-build-a-respiratory-device/a/d-id/1340210?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IBM's Hernandez Discusses Future of AIOps and Measuring ROI](https://www.informationweek.com/big-data/ai-machine-learning/ibms-hernandez-discusses-future-of-aiops-and-measuring-roi/a/d-id/1340219?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Strategic Long-Term Partnerships Built to Succeed?](https://www.informationweek.com/strategic-cio/digital-business/are-your-strategic-long-term-partnerships-built-to-succeed-/a/d-id/1340196?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How AI Can Save the World, or Not](https://www.informationweek.com/big-data/ai-machine-learning/how-ai-can-save-the-world-or-not/d/d-id/1340217?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -389,8 +391,6 @@ all that is cold.
 - [How to Build Talent Retention by Failing Fast](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-build-talent-retention-by-failing-fast/a/d-id/1340162?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CRM Trends 2021: How the Pandemic Altered Customer Behavior Forever](https://www.informationweek.com/software/enterprise-applications/crm-trends-2021-how-the-pandemic-altered-customer-behavior-forever/d/d-id/1340192?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [11 Ways DevOps Is Evolving](https://www.informationweek.com/devops/11-ways-devops-is-evolving/d/d-id/1340185?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How GIS Data Can Help Fix Vaccine Distribution](https://www.informationweek.com/big-data/big-data-analytics/how-gis-data-can-help-fix-vaccine-distribution/d/d-id/1340164?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CIOs: Are You Ready Today for Tomorrow's Technologies?](https://www.informationweek.com/strategic-cio/cios-are-you-ready-today-for-tomorrows-technologies/a/d-id/1340171?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

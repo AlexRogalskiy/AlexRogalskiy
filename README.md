@@ -396,16 +396,16 @@ all that is cold.
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
+- [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
+- [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_all)
+- [Review: AWS AI and Machine Learning stacks up](https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html#tk.rss_all)
+- [Unleash the power of Python regex](https://www.infoworld.com/article/3608409/unleash-the-power-of-python-regex.html#tk.rss_all)
+- [3 kinds of bias in AI models — and how we can address them](https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html#tk.rss_all)
 - [IT Salary Survey 2021: Hiring rate expected to increase but priorities will shift](https://www.idginsiderpro.com/article/3608508/it-salary-survey-2021-hiring-rate-expected-to-increase-but-priorities-will-shift.html#tk.rss_all)
 - [Introducing Microsoft .NET 6](https://www.infoworld.com/article/3608951/introducing-microsoft-net-6.html#tk.rss_all)
 - [Higher education embraces cloud computing just in time](https://www.infoworld.com/article/3608716/higher-education-embraces-cloud-computing-just-in-time.html#tk.rss_all)
 - [Are software developers important? Yes, very](https://www.infoworld.com/article/3608558/are-software-developers-important-yes-very.html#tk.rss_all)
-- [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_all)
-- [IT Salary Survey 2021: Compensation holds steady despite pandemic](https://www.idginsiderpro.com/article/3607982/it-salary-survey-2021-compensation-holds-steady-despite-pandemic.html#tk.rss_all)
-- [The real value of open source in the cloud](https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html#tk.rss_all)
-- [How to use LazyCache in ASP.NET Core MVC 5](https://www.infoworld.com/article/3608568/how-to-use-lazycache-in-aspnet-core-mvc-5.html#tk.rss_all)
-- [Why Microsoft Azure wins with enterprise customers](https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html#tk.rss_all)
-- [The Linux Foundation adds 7 projects to combat racial injustice](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

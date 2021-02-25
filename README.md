@@ -336,16 +336,16 @@ all that is cold.
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: AstraZeneca expected to miss EU vaccine target; WHO reports 20% drop in global deaths](https://www.theguardian.com/world/live/2021/feb/24/coronavirus-live-news-who-says-global-deaths-down-20-since-last-week-cases-declining-for-six-straight-weeks)
-- [Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden](https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden)
-- [AstraZeneca expected to miss EU Covid vaccine supply target by half in second-quarter – report](https://www.theguardian.com/world/2021/feb/24/astrazeneca-expected-to-miss-eu-covid-vaccine-supply-target-by-half-in-second-quarter-report)
-- [Police say Tiger Woods 'lucky to be alive' after car crash in California](https://www.theguardian.com/sport/2021/feb/23/tiger-woods-car-crash-injured-hospital-golf-california)
-- [SolarWinds hack was work of 'at least 1,000 engineers', tech executives tell Senate](https://www.theguardian.com/technology/2021/feb/23/solarwinds-hack-senate-hearing-microsoft)
-- [When Daft Punk went to Wee Waa: an ode to the strangest album launch of all time](https://www.theguardian.com/music/2021/feb/24/when-daft-punk-went-to-wee-waa-an-ode-to-the-strangest-album-launch-of-all-time)
-- [I have no motivation to work. How can I change my attitude? | Leading questions](https://www.theguardian.com/money/2021/feb/24/i-have-no-motivation-to-work-how-can-i-change-my-attitude)
-- [Dozens dead after Ecuador prison riots sparked by gang fights and escape bid](https://www.theguardian.com/world/2021/feb/24/dozens-dead-after-ecuador-prison-riots-sparked-by-gang-fights-and-escape-bid)
-- [Failure to enact public duty law 'has worsened England inequality in pandemic'](https://www.theguardian.com/society/2021/feb/24/failure-to-enact-public-duty-law-has-worsened-england-inequality-in-pandemic)
-- [England's Covid catch-up plan for pupils: summer schools and tutoring](https://www.theguardian.com/education/2021/feb/24/englands-secondaries-given-funding-to-run-summer-schools)
+- [New Zealand v Australia: second T20 international – live!](https://www.theguardian.com/sport/live/2021/feb/25/t20-cricket-international-live-2021-new-zealand-vs-australia-game-two-start-time-today-teams-scores-latest-dunedin)
+- [Coronavirus live news: EU states to debate vaccine passports on Thursday](https://www.theguardian.com/world/live/2021/feb/25/coronavirus-live-news-pfizer-vaccine-found-94-effective-in-major-study-eu-states-split-over-vaccine-passports)
+- [Pfizer Covid vaccine 94% effective, study of 1.2m people finds](https://www.theguardian.com/world/2021/feb/25/pfizer-covid-vaccine-94-effective-study-of-12m-people-finds)
+- [Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened](https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates)
+- [Sailor survives for 14 hours in Pacific Ocean by clinging to abandoned buoy](https://www.theguardian.com/world/2021/feb/25/sailor-survives-for-14-hours-in-pacific-ocean-by-clinging-to-abandoned-buoy)
+- [Job losses in pandemic due to performance issues, say nearly half of Britons](https://www.theguardian.com/inequality/2021/feb/25/job-losses-in-pandemic-due-to-performance-issues-say-nearly-half-of-britons)
+- [Teachers to get sweeping powers to decide exam results in England](https://www.theguardian.com/education/2021/feb/25/teachers-to-get-sweeping-powers-to-decide-exam-results-in-england)
+- [Royal Mint to commemorate fossil hunter Mary Anning](https://www.theguardian.com/science/2021/feb/25/royal-mint-commemorate-fossil-hunter-mary-anning-50p-coins)
+- [Ikea UK loses £33m after closing stores for nearly three months](https://www.theguardian.com/business/2021/feb/25/ikea-uk-loses-33m-after-closing-stores-for-nearly-three-months)
+- [Fresh Covid ad campaign launches urging England to ‘stay at home’](https://www.theguardian.com/world/2021/feb/24/covid-ad-campaign-launches-to-urge-england-to-stay-at-home)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

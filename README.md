@@ -441,6 +441,9 @@ all that is cold.
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Infosec expert says mandatory cyber incident reporting is worth considering in Canada](https://www.itworldcanada.com/article/infosec-expert-says-mandatory-cyber-incident-reporting-is-worth-considering-in-canada/442869)
+- [Cyber Security Today – An alert for Google Alert users, NetGalley and Bombardier hacked and more](https://www.itworldcanada.com/article/cyber-security-today-an-alert-for-google-alert-users-netgalley-and-bombardier-hacked-and-more/442874)
+- [Hashtag Trending, Feb. 24, 2021 – Facebook/Australia saga continues; Apple dons smartphone crown; CEOs 2021 priorities](https://www.itworldcanada.com/article/hashtag-trending-feb-24-2021-facebook-australia-saga-continues-apple-dons-smartphone-crown-ceos-2021-priorities/442842)
 - [Bombardier latest victim of Accellion FTA-related data theft](https://www.itworldcanada.com/article/bombardier-latest-victim-of-accellion-fta-related-data-theft/442828)
 - [Samsung devices to receive four years of security updates, one more than Pixel phones](https://www.itworldcanada.com/article/samsung-devices-to-receive-four-years-of-security-updates-one-more-than-pixel-phones/442808)
 - [Ontario’s Lakehead University hopes to resume classes this week after cyberattack](https://www.itworldcanada.com/article/ontarios-lakehead-university-hopes-to-resume-classes-this-week-after-cyberattack/442792)
@@ -448,9 +451,6 @@ all that is cold.
 - [Starlink internet in Canada: A remote worker’s experience so far](https://www.itworldcanada.com/article/starlink-internet-in-canada-a-remote-workers-experience-so-far/442741)
 - [Why workload placement is critical to a successful digital transformation](https://www.itworldcanada.com/blog/why-workload-placement-is-critical-to-a-successful-digital-transformation/442796)
 - [Hashtag Trending, Feb. 23 , 2021 – Apple Mac malware; Trudeau and Biden meet virtually; YouTube blocks chess](https://www.itworldcanada.com/article/hashtag-trending-feb-23-2021-apple-mac-malware-trudeau-and-biden-meet-virtually-youtube-blocks-chess/442777)
-- [The new age of customer experience is CCaaS](https://www.itworldcanada.com/blog/the-new-age-of-customer-experience-is-ccaas/442770)
-- [Telesat to receive $400 million investment from Quebec](https://www.itworldcanada.com/article/telesat-to-receive-400-million-investment-from-quebec/442752)
-- [StrikeUp’s 2021 Digital Conference for Women Entrepreneurs: An opportunity to learn and inspire](https://www.itworldcanada.com/blog/strikeups-2021-digital-conference-for-women-entrepreneurs-an-opportunity-to-learn-and-inspire/442727)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

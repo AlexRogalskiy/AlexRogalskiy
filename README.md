@@ -411,16 +411,16 @@ all that is cold.
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Subpostmaster group calls for prime minister to pause Horizon ‘whitewash’ inquiry](https://www.computerweekly.com/news/252496767/Subpostmaster-group-calls-for-prime-minister-to-pause-Horizon-whitewash-inquiry)
-- [XDR makes cyber a Stroll in the park for Aston Martin F1](https://www.computerweekly.com/news/252496755/XDR-makes-cyber-a-Stroll-in-the-park-for-Aston-Martin-F1)
-- [Post Office Horizon and the subpostmasters’ justice fight – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Post-Office-Horizon-and-the-subpostmasters-justice-fight-Computer-Weekly-Downtime-Upload-podcast)
-- [Poor data leads to IT squabbles and work stress](https://www.computerweekly.com/news/252496691/Poor-data-leads-to-IT-squabbles-and-work-stress)
-- [AI powers reputational damage insurance policy](https://www.computerweekly.com/news/252496749/AI-powers-reputational-damage-insurance-policy)
-- [BBVA teams up with Google Cloud for IT security strategy revamp](https://www.computerweekly.com/news/252496739/BBVA-teams-up-with-Google-Cloud-for-IT-security-strategy-revamp)
-- [CyberScotland offers centralised security resource hub](https://www.computerweekly.com/news/252496747/CyberScotland-offers-centralised-security-resource-hub)
-- [Computers in space – managing a datacentre on the ISS](https://www.computerweekly.com/ezine/Computer-Weekly/Computers-in-space-managing-a-datacentre-on-the-ISS)
-- [UK government set to offer fintech visa](https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa)
-- [Startup founders worried about proposed capital gains tax changes](https://www.computerweekly.com/news/252496689/Startup-founders-worried-about-proposed-capital-gains-tax-changes)
+- [Facebook’s AI doctoral research programme makes inroads into UK](https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK)
+- [Vaccine passports prove an ethical minefield](https://www.computerweekly.com/news/252496853/Vaccine-passports-prove-an-ethical-minefield)
+- [Is Clubhouse safe, and should CISOs stop its use?](https://www.computerweekly.com/news/252496764/Is-Clubhouse-safe-and-should-CISOs-stop-its-use)
+- [Internet companies should provide real-time data on disinformation, Lords told](https://www.computerweekly.com/news/252496846/Internet-companies-should-provide-real-time-data-on-disinformation-Lords-told)
+- [Businesses forced to ask IT service providers for help during pandemic](https://www.computerweekly.com/news/252496840/Businesses-forced-to-ask-IT-service-providers-for-help-during-pandemic)
+- [Sadiq Khan wants innovators to support London's recovery](https://www.computerweekly.com/news/252496835/Sadiq-Khan-wants-innovators-to-support-Londons-recovery)
+- [Babuk ransomware unsophisticated, but highly dangerous](https://www.computerweekly.com/news/252496839/Babuk-ransomware-unsophisticated-but-highly-dangerous)
+- [Microsoft builds industry-specific clouds for financial services and manufacturing firms](https://www.computerweekly.com/news/252496824/Microsoft-builds-industry-specific-clouds-for-financial-services-and-manufacturing-firms)
+- [Arcserve and StorageCraft merger aims for ‘single pane of glass’](https://www.computerweekly.com/news/252496821/Arcserve-and-StorageCraft-merger-aims-for-single-pane-of-glass)
+- [Veeam v11 adds continuous data protection and cloud archive](https://www.computerweekly.com/news/252496696/Veeam-v11-adds-continuous-data-protection-and-cloud-archive)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

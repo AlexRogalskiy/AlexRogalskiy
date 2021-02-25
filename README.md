@@ -366,16 +366,16 @@ all that is cold.
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Amazon switches on macOS Big Sur for AWS](https://www.computerworld.com/article/3608938/amazon-switches-on-macos-big-sur-for-aws.html#tk.rss_all)
+- [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
+- [How to hire and retain Black tech pros — for real](https://www.computerworld.com/article/3608653/how-to-hire-and-retain-black-tech-pros-for-real.html#tk.rss_all)
+- [Microsoft 365 Advanced Audit: What you need to know](https://www.csoonline.com/article/3608270/microsoft-365-advanced-audit-what-you-need-to-know.html#tk.rss_all)
 - [This AI And Coding Course Will Change Your Career Forever](https://www.computerworld.com/article/3608761/this-ai-and-coding-course-will-change-your-career-forever.html#tk.rss_all)
 - [Two big buts about Samsung's Android security update announcement](https://www.computerworld.com/article/3608948/samsung-android-security-updates.html#tk.rss_all)
 - [Microsoft slashes Windows 10 long-term support by half](https://www.computerworld.com/article/3608930/microsoft-slashes-windows-10-long-term-support-by-half.html#tk.rss_all)
 - [Something new, something old in Apple’s 2021 MacBook Pro upgrade](https://www.computerworld.com/article/3609110/something-new-something-old-in-apples-2021-macbook-pro-upgrade.html#tk.rss_all)
 - [BrandPost: Why Hyperconverged Infrastructure Can Mean Hyper-reduced Lifetime Costs](https://www.computerworld.com/article/3609111/why-hyperconverged-infrastructure-reduces-lifetime-costs.html#tk.rss_all)
-- [IT Salary Survey 2021: Hiring rate expected to increase but priorities will shift](https://www.idginsiderpro.com/article/3608508/it-salary-survey-2021-hiring-rate-expected-to-increase-but-priorities-will-shift.html#tk.rss_all)
-- [Where to find and recruit Black tech pros](https://www.computerworld.com/article/3608714/where-to-find-and-recruit-black-tech-pros.html#tk.rss_all)
-- [BrandPost: 3 Ways HCI Helps Improve Your Data Center Security](https://www.computerworld.com/article/3608577/3-ways-hci-helps-improve-your-data-center-security.html#tk.rss_all)
-- [Viva Connections: What your intranet wants to be](https://www.computerworld.com/article/3608573/viva-connections-what-your-intranet-wants-to-be.html#tk.rss_all)
-- [Why Apple should let you define private places on iPhones](https://www.computerworld.com/article/3608682/why-apple-should-let-you-define-private-places-on-iphones.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

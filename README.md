@@ -321,16 +321,16 @@ all that is cold.
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Empact Foundation Class C++ Library](https://sourceforge.net/projects/empact/)
-- [Amazon Plans Wall-Mounted Echo](https://www.bloomberg.com/news/articles/2021-02-09/amazon-plans-wall-mounted-echo-as-smart-home-command-center)
-- [How Sustainable Is High-Tech Health Care?](https://www.lowtechmagazine.com/2021/02/how-sustainable-is-high-tech-health-care.html)
-- [Apple Bought Another Company Every 3 to 4 Weeks for Last 6 Years, Tim Cook Says](https://gizmodo.com/apple-bought-another-company-every-3-to-4-weeks-for-las-1846340372)
-- [Crypto Reinvents Collateralized Debt Obligations](https://businessblockchainhq.com/business-blockchain-news/collateralized-debt-obligations-make-their-way-into-defi-lending/)
-- [Quill, the messaging app backed by Index, takes on Slack](https://techcrunch.com/2021/02/23/the-new-new-slack-quill/)
-- [Biometrics News, Biometrics Companies, Explaining Biometrics](https://www.biometricupdate.com/)
-- [Single inhalation of vapor from dried toad secretion containing 5-MeO-DMT 2019](https://link.springer.com/article/10.1007/s00213-019-05236-w)
-- [SolarWinds hack was work of 'at least 1k engineers', tech execs tell Senate](https://www.theguardian.com/technology/2021/feb/23/solarwinds-hack-senate-hearing-microsoft)
-- [The GameStop Craze Was Mostly Just Crazy](https://www.nytimes.com/2021/02/23/opinion/gamestop-price-congress-robinhood.html)
+- [Cathie Wood Ark Funds Whipsawed Amid Record Outflows, Rate Spike](https://www.bloomberg.com/news/articles/2021-02-24/cathie-wood-s-flagship-fund-suffers-biggest-outflow-on-record)
+- [The Mantis Shrimp Inspires a New Material–Made by Bacteria](https://www.wired.com/story/the-mantis-shrimp-inspires-a-new-material-made-by-bacteria/)
+- [The VTEC Engine / 1989](https://global.honda/heritage/episodes/1989vtecengine.html)
+- [Cloud Engineer](https://platform.sh/company/careers/job/?gh_jid=4770789002)
+- [Consumer Demand Snaps Back. Factories Can’t Keep Up](https://www.wsj.com/articles/consumer-demand-snaps-back-factories-cant-keep-up-11614019305)
+- [Nvidia Estimates $100-$300M in Q4 Revenue from Miners](https://www.tomshardware.com/news/nvidia-estimates-dollar100-dollar300-million-in-q4-revenue-from-miners)
+- [A Place with No Places](https://defaultfriend.substack.com/p/63-a-place-with-no-places)
+- [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/abs/2102.12092)
+- [Johnson and Johnson's Covid-19 vaccine, explained](https://www.popsci.com/story/health/johnson-johnson-covid-vaccine/)
+- [Steve Jobs letter to former Power Computing customers (1997)](https://i.imgur.com/vhlXK2m.jpeg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

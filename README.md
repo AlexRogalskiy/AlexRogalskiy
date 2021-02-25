@@ -306,16 +306,16 @@ all that is cold.
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Android's Latest Features Improve Security, Accessibility, and Convenience](https://www.reviewgeek.com/71869/androids-latest-features-improve-security-accessibility-and-convenience/)
-* [PS5 Is Getting a New VR System Inspired by The DualSense Controller](https://www.reviewgeek.com/71851/ps5-is-getting-a-new-vr-system-inspired-by-the-dualsense-controller/)
-* [Save Over $100 On the Samsung Galaxy Watch 3 or Galaxy S21 Smartphone](https://www.reviewgeek.com/71841/save-over-100-on-the-samsung-galaxy-watch-3-or-galaxy-s21-smartphone/)
-* [Lenovo's Latest Laptops Turn Themselves On When You Come Near](https://www.reviewgeek.com/71836/lenovos-latest-laptops-turn-themselves-on-when-you-come-near/)
-* [How to Schedule Text Messages on Android](https://www.howtogeek.com/705660/how-to-schedule-text-messages-on-android/)
-* [Hyundai's IONIQ 5 EV Can Power Your Home's Refrigerator In an Emergency](https://www.reviewgeek.com/71829/hyundais-ioniq-5-ev-can-power-your-homes-refrigerator-in-an-emergency/)
-* [What Is Google One, and Is It Worth Paying for More Storage?](https://www.howtogeek.com/710427/what-is-google-one/)
-* [How to Create a Progress Bar in Microsoft PowerPoint](https://www.howtogeek.com/709523/how-to-create-a-progress-bar-in-microsoft-powerpoint/)
-* [You Should Replace These 10 Kitchen Items Now](https://www.lifesavvy.com/58091/you-should-replace-these-10-kitchen-items-now/)
-* [How to Pin a Folder or a File to Your Mac’s Dock](https://www.howtogeek.com/712237/how-to-pin-a-folder-or-a-file-to-your-macs-dock/)
+* [You Can Grab a Wyze Cam v3 From Micro Center---No Subscription Required](https://www.reviewgeek.com/72090/you-can-grab-a-wyze-cam-v3-from-micro-center-no-subscription-required/)
+* [Anker's Latest Battery Pack Sticks to Your iPhone 12 with MagSafe](https://www.reviewgeek.com/72079/ankers-latest-battery-pack-sticks-to-your-iphone-12-with-magsafe/)
+* [Microsoft Is Removing Windows 10’s “3D Objects” Folder](https://www.howtogeek.com/715362/microsoft-is-removing-windows-10s-3d-objects-folder/)
+* [iRobot's Roombas Can't Go Home, They're Drunk---Update Weeks Away](https://www.reviewgeek.com/72050/irobots-roombas-cant-go-home-theyre-drunk-update-weeks-away/)
+* [T-Mobile's 55+ Plan Adds Free Netflix, More Lines, and a 4K Streaming MAX Tier](https://www.reviewgeek.com/72018/t-mobiles-55-plan-adds-free-netflix-more-lines-and-a-4k-streaming-max-tier/)
+* [Ring's $250 Video Doorbell Pro 2 Knows How Close People Are to Your Home](https://www.reviewgeek.com/72014/rings-250-video-doorbell-pro-2-knows-how-close-people-are-to-your-home/)
+* [YouTube's New Supervised Accounts Keep Your Teens Safe From Bad Videos](https://www.reviewgeek.com/72023/youtubes-new-supervised-accounts-keep-your-teens-safe-from-bad-videos/)
+* [Fans Cracked NASA's Perseverance Rover Parachute Code Hours After Deployment](https://www.reviewgeek.com/71998/fans-cracked-nasas-perseverance-rover-parachute-code-hours-after-deployment/)
+* [Get Over Here! Pre-Order Arcade1Up's $399 'Mortal Kombat' Legacy Cabinet Now](https://www.reviewgeek.com/71977/get-over-here-pre-order-arcade1ups-399-mortal-kombat-legacy-cabinet-now/)
+* [Samsung Lets You "Buy and Try" a Galaxy Foldable for 100 Days](https://www.reviewgeek.com/71983/samsung-lets-you-buy-and-try-a-galaxy-foldable-for-100-days/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

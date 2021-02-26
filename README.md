@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/A_nod_is_as_good_as_a_wink_to_a_blind_horse_937.php" target="_blank"><i>A nod is as good as a wink to a blind horse</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/The_way_to_a_man_s_heart_is_through_his_stomach_504.php" target="_blank"><i>The way to a man's heart is through his stomach</i></a>
 <span> = </span>
-<span>A very small hint is enough to convey our meaning. It is not always necessary to say what we want explicitly.</span>
+<span>Many women have won a man's love by cooking delicious meals for him. They fed his stomach and found love in his heart.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

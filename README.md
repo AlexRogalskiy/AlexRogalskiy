@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cathie Wood Ark Funds Whipsawed Amid Record Outflows, Rate Spike](https://www.bloomberg.com/news/articles/2021-02-24/cathie-wood-s-flagship-fund-suffers-biggest-outflow-on-record)
-- [The Mantis Shrimp Inspires a New Material–Made by Bacteria](https://www.wired.com/story/the-mantis-shrimp-inspires-a-new-material-made-by-bacteria/)
-- [The VTEC Engine / 1989](https://global.honda/heritage/episodes/1989vtecengine.html)
-- [Cloud Engineer](https://platform.sh/company/careers/job/?gh_jid=4770789002)
-- [Consumer Demand Snaps Back. Factories Can’t Keep Up](https://www.wsj.com/articles/consumer-demand-snaps-back-factories-cant-keep-up-11614019305)
-- [Nvidia Estimates $100-$300M in Q4 Revenue from Miners](https://www.tomshardware.com/news/nvidia-estimates-dollar100-dollar300-million-in-q4-revenue-from-miners)
-- [A Place with No Places](https://defaultfriend.substack.com/p/63-a-place-with-no-places)
-- [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/abs/2102.12092)
-- [Johnson and Johnson's Covid-19 vaccine, explained](https://www.popsci.com/story/health/johnson-johnson-covid-vaccine/)
-- [Steve Jobs letter to former Power Computing customers (1997)](https://i.imgur.com/vhlXK2m.jpeg)
+- [Two-Thirds of New York City’s Arts and Culture Jobs Are Gone](https://www.bloomberg.com/news/articles/2021-02-24/two-thirds-of-new-york-city-s-arts-and-culture-jobs-are-gone)
+- [Interactive map of country borders throughout History in 3D](https://historicborders.app/?view=globe)
+- [Benchmarks of Similarity Search Algorithms: Pinecone vs. Faiss vs. Nmslib](https://www.pinecone.io/learn/similarity-search-benchmarks/)
+- [Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
+- [Show HN: Steampipe – select * from cloud;](https://steampipe.io/)
+- [Understanding and avoiding misplaced efforts in conservation](https://www.facetsjournal.com/doi/full/10.1139/facets-2020-0058)
+- [Geoff Hinton 2021 – How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)
+- [Power Source for Mars Rover](https://mars.nasa.gov/mars2020/spacecraft/rover/electrical-power/#:~:text=The%20power%20source%20is%20called,the%20rover%27s%20two%20primary%20batteries.)
+- [Bitcoin and Other Cryptocurrencies Are Fueling Innovation in Space](https://www.forbes.com/sites/rogerhuang/2021/02/25/bitcoin-and-other-cryptocurrencies-are-fueling-innovation-in-space/)
+- [Gender discrimination in hiring: An experimental reexamination](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245513)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

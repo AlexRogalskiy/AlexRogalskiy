@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/L/loopy_1544.php" target="_blank"><i>loopy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/C/chockablock_chock-a-block_chock-full_1514.php" target="_blank"><i>chockablock | chock-a-block | chock-full</i></a>
 <span> = </span>
-<span>eccentric, a little crazy</span>
+<span>completely full of people or things, crammed full</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

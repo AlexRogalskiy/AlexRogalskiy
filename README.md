@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Facebook’s AI doctoral research programme makes inroads into UK](https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK)
-- [Vaccine passports prove an ethical minefield](https://www.computerweekly.com/news/252496853/Vaccine-passports-prove-an-ethical-minefield)
-- [Is Clubhouse safe, and should CISOs stop its use?](https://www.computerweekly.com/news/252496764/Is-Clubhouse-safe-and-should-CISOs-stop-its-use)
-- [Internet companies should provide real-time data on disinformation, Lords told](https://www.computerweekly.com/news/252496846/Internet-companies-should-provide-real-time-data-on-disinformation-Lords-told)
-- [Businesses forced to ask IT service providers for help during pandemic](https://www.computerweekly.com/news/252496840/Businesses-forced-to-ask-IT-service-providers-for-help-during-pandemic)
-- [Sadiq Khan wants innovators to support London's recovery](https://www.computerweekly.com/news/252496835/Sadiq-Khan-wants-innovators-to-support-Londons-recovery)
-- [Babuk ransomware unsophisticated, but highly dangerous](https://www.computerweekly.com/news/252496839/Babuk-ransomware-unsophisticated-but-highly-dangerous)
-- [Microsoft builds industry-specific clouds for financial services and manufacturing firms](https://www.computerweekly.com/news/252496824/Microsoft-builds-industry-specific-clouds-for-financial-services-and-manufacturing-firms)
-- [Arcserve and StorageCraft merger aims for ‘single pane of glass’](https://www.computerweekly.com/news/252496821/Arcserve-and-StorageCraft-merger-aims-for-single-pane-of-glass)
-- [Veeam v11 adds continuous data protection and cloud archive](https://www.computerweekly.com/news/252496696/Veeam-v11-adds-continuous-data-protection-and-cloud-archive)
+- [NCSC Cyber Action Plan emphasises SME security](https://www.computerweekly.com/news/252496935/NCSC-Cyber-Action-Plan-emphasises-SME-security)
+- [IR35 private sector reforms: Contractors call for further delays to April 2021 start date](https://www.computerweekly.com/news/252496952/IR35-private-sector-reforms-Contractors-call-for-further-delays-to-April-2021-start-date)
+- [GCHQ sets out rules of the road for AI in cyber](https://www.computerweekly.com/news/252496940/GCHQ-sets-out-rules-of-the-road-for-AI-in-cyber)
+- [Nearly 80,000 more tech roles filled at end of 2020 compared with end of 2019, says ONS](https://www.computerweekly.com/news/252496930/Nearly-80000-more-tech-roles-filled-at-end-of-2020-compared-with-end-of-2019-says-ONS)
+- [Npower shuts off app after credential stuffing attack](https://www.computerweekly.com/news/252496926/Npower-shuts-off-app-after-credential-stuffing-attack)
+- [Atos and HDF Energy to build ‘green hydrogen-powered’ datacentre by 2023](https://www.computerweekly.com/news/252496929/Atos-and-HDF-Energy-to-build-green-hydrogen-powered-datacentre-by-2023)
+- [Tech-enabled hybrid working enables HSBC to cut 40% of its global office space](https://www.computerweekly.com/news/252496927/Tech-enabled-hybrid-working-enables-HSBC-to-cut-40-of-its-global-office-space)
+- [Deloitte: How organisations can prepare for new look office work](https://www.computerweekly.com/news/252496817/Deloitte-How-organisations-can-prepare-for-new-look-office-work)
+- [MHRA and other agencies to offer new resources for scam victims](https://www.computerweekly.com/news/252496919/MHRA-and-other-agencies-to-offer-new-resources-for-scam-victims)
+- [CW Nordics: Nordic startups aim to take the lead in pet tech advances](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Nordic-startups-aim-to-take-the-lead-in-pet-tech-advances)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

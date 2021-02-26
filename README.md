@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: second T20 international – live!](https://www.theguardian.com/sport/live/2021/feb/25/t20-cricket-international-live-2021-new-zealand-vs-australia-game-two-start-time-today-teams-scores-latest-dunedin)
-- [Coronavirus live news: EU states to debate vaccine passports on Thursday](https://www.theguardian.com/world/live/2021/feb/25/coronavirus-live-news-pfizer-vaccine-found-94-effective-in-major-study-eu-states-split-over-vaccine-passports)
-- [Pfizer Covid vaccine 94% effective, study of 1.2m people finds](https://www.theguardian.com/world/2021/feb/25/pfizer-covid-vaccine-94-effective-study-of-12m-people-finds)
-- [Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened](https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates)
-- [Sailor survives for 14 hours in Pacific Ocean by clinging to abandoned buoy](https://www.theguardian.com/world/2021/feb/25/sailor-survives-for-14-hours-in-pacific-ocean-by-clinging-to-abandoned-buoy)
-- [Job losses in pandemic due to performance issues, say nearly half of Britons](https://www.theguardian.com/inequality/2021/feb/25/job-losses-in-pandemic-due-to-performance-issues-say-nearly-half-of-britons)
-- [Teachers to get sweeping powers to decide exam results in England](https://www.theguardian.com/education/2021/feb/25/teachers-to-get-sweeping-powers-to-decide-exam-results-in-england)
-- [Royal Mint to commemorate fossil hunter Mary Anning](https://www.theguardian.com/science/2021/feb/25/royal-mint-commemorate-fossil-hunter-mary-anning-50p-coins)
-- [Ikea UK loses £33m after closing stores for nearly three months](https://www.theguardian.com/business/2021/feb/25/ikea-uk-loses-33m-after-closing-stores-for-nearly-three-months)
-- [Fresh Covid ad campaign launches urging England to ‘stay at home’](https://www.theguardian.com/world/2021/feb/24/covid-ad-campaign-launches-to-urge-england-to-stay-at-home)
+- [Coronavirus live news: France may impose regional lockdowns; South Korea starts vaccinations](https://www.theguardian.com/world/live/2021/feb/26/coronavirus-live-news-france-may-impose-regional-lockdowns-south-korea-starts-vaccinations)
+- ['This is historic': Malaysian man wins appeal against Islamic gay sex charge](https://www.theguardian.com/world/2021/feb/26/this-is-historic-malaysian-man-wins-appeal-against-islamic-gay-sex-charge)
+- [US carried out airstrikes against Iran-backed militia in Syria](https://www.theguardian.com/world/2021/feb/25/us-airstrike-syria-iran-militia)
+- [German officials bemoan 'non-transparency' of 2032 Olympics bid selection](https://www.theguardian.com/sport/2021/feb/26/german-officials-bemoan-non-transparency-of-2032-olympics-bid-selection)
+- [Elephant kills Spanish zookeeper with one hit from trunk](https://www.theguardian.com/world/2021/feb/26/elephant-kills-spanish-zookeeper-with-one-blow-from-trunk)
+- [Police watchdog castigates forces over use of stop and search](https://www.theguardian.com/law/2021/feb/26/police-watchdog-castigates-forces-over-use-of-stop-and-search)
+- [Thames Water hopes to harness human 'poo power' to heat homes](https://www.theguardian.com/business/2021/feb/26/thames-water-hopes-to-harness-human-poo-power-to-heat-homes)
+- [SUVs and extra traffic cancelling out electric car gains in Britain](https://www.theguardian.com/environment/2021/feb/26/suvs-and-extra-traffic-cancelling-out-electric-car-gains-in-britain)
+- [British Gymnastics faces class action lawsuit from 17 alleging abuse](https://www.theguardian.com/sport/2021/feb/26/british-gymnastics-faces-class-action-lawsuit-from-17-alleging-abuse-jennifer-pinches)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/26/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

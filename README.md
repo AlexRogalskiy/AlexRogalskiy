@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Mike Sharun announces retirement from Dell](https://www.itworldcanada.com/article/mike-sharun-announces-retirement-from-dell/442936)
+- [MapleSEC Satellite 2021: Emerging threats are ready to target critical infrastructure](https://www.itworldcanada.com/article/maplesec-satellite-2021-emerging-threats-are-ready-to-target-critical-infrastructure/442897)
+- [Supreme Court of Canada rejects telecom incumbents’ appeal of CRTC’s 2019 rate-correction ruling](https://www.itworldcanada.com/article/supreme-court-of-canada-rejects-telecom-incumbents-appeal-of-the-crtc-2019-rate-correction-ruling/442925)
+- [Canada’s critical infrastructure an ‘area of increasing concern’ says BlackBerry report](https://www.itworldcanada.com/article/canadas-critical-infrastructure-an-area-of-increasing-concern-says-blackberry-report/442907)
+- [MapleSEC Satellite Session – New threats are ‘accelerated and unpredictable’](https://www.itworldcanada.com/video/maplesec-satellite-session-new-threats-are-accelerated-and-unpredictable)
+- [MapleSEC Satellite Session – New Threats panel](https://www.itworldcanada.com/video/maplesec-satellite-session-new-threats-panel)
+- [VMware picks up new talent including HPE Canadian leader Paula Hodgins](https://www.itworldcanada.com/article/vmware-picks-up-new-talent-including-hpe-canadian-leader-paula-hodgins/442956)
+- [The first line of defense: Equipping employees with the right security training](https://www.itworldcanada.com/sponsored/the-first-line-of-defense-equipping-employees-with-the-right-security-training)
+- [Hashtag Trending, Feb. 25, 2021 – Bye Bye Fry’s; U.S. supply chain updates; USPS trucks get facelift](https://www.itworldcanada.com/article/hashtag-trending-feb-25-2021-bye-bye-frys-u-s-supply-chain-updates-usps-trucks-get-facelift/442905)
 - [Infosec expert says mandatory cyber incident reporting is worth considering in Canada](https://www.itworldcanada.com/article/infosec-expert-says-mandatory-cyber-incident-reporting-is-worth-considering-in-canada/442869)
-- [Cyber Security Today – An alert for Google Alert users, NetGalley and Bombardier hacked and more](https://www.itworldcanada.com/article/cyber-security-today-an-alert-for-google-alert-users-netgalley-and-bombardier-hacked-and-more/442874)
-- [Hashtag Trending, Feb. 24, 2021 – Facebook/Australia saga continues; Apple dons smartphone crown; CEOs 2021 priorities](https://www.itworldcanada.com/article/hashtag-trending-feb-24-2021-facebook-australia-saga-continues-apple-dons-smartphone-crown-ceos-2021-priorities/442842)
-- [Bombardier latest victim of Accellion FTA-related data theft](https://www.itworldcanada.com/article/bombardier-latest-victim-of-accellion-fta-related-data-theft/442828)
-- [Samsung devices to receive four years of security updates, one more than Pixel phones](https://www.itworldcanada.com/article/samsung-devices-to-receive-four-years-of-security-updates-one-more-than-pixel-phones/442808)
-- [Ontario’s Lakehead University hopes to resume classes this week after cyberattack](https://www.itworldcanada.com/article/ontarios-lakehead-university-hopes-to-resume-classes-this-week-after-cyberattack/442792)
-- [FireEye researchers spot patterns in Accellion FTA attacks](https://www.itworldcanada.com/article/fireeye-researchers-spot-patterns-in-accellion-fta-attacks/442780)
-- [Starlink internet in Canada: A remote worker’s experience so far](https://www.itworldcanada.com/article/starlink-internet-in-canada-a-remote-workers-experience-so-far/442741)
-- [Why workload placement is critical to a successful digital transformation](https://www.itworldcanada.com/blog/why-workload-placement-is-critical-to-a-successful-digital-transformation/442796)
-- [Hashtag Trending, Feb. 23 , 2021 – Apple Mac malware; Trudeau and Biden meet virtually; YouTube blocks chess](https://www.itworldcanada.com/article/hashtag-trending-feb-23-2021-apple-mac-malware-trudeau-and-biden-meet-virtually-youtube-blocks-chess/442777)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

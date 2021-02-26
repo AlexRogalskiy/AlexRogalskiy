@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>light intensity drizzle</i>), humidity: 93%, pressure: 1002 (mbar), wind: /south-east/ 4 (m/s), cloudy: 90%</b>
+        <b>5°C (<i>light rain</i>), humidity: 87%, pressure: 999 (mbar), wind: /south-east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:06 am</b> and sets at <b>18:17 pm</b>.
     </p>
@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [You Can Grab a Wyze Cam v3 From Micro Center---No Subscription Required](https://www.reviewgeek.com/72090/you-can-grab-a-wyze-cam-v3-from-micro-center-no-subscription-required/)
-* [Anker's Latest Battery Pack Sticks to Your iPhone 12 with MagSafe](https://www.reviewgeek.com/72079/ankers-latest-battery-pack-sticks-to-your-iphone-12-with-magsafe/)
-* [Microsoft Is Removing Windows 10’s “3D Objects” Folder](https://www.howtogeek.com/715362/microsoft-is-removing-windows-10s-3d-objects-folder/)
-* [iRobot's Roombas Can't Go Home, They're Drunk---Update Weeks Away](https://www.reviewgeek.com/72050/irobots-roombas-cant-go-home-theyre-drunk-update-weeks-away/)
-* [T-Mobile's 55+ Plan Adds Free Netflix, More Lines, and a 4K Streaming MAX Tier](https://www.reviewgeek.com/72018/t-mobiles-55-plan-adds-free-netflix-more-lines-and-a-4k-streaming-max-tier/)
-* [Ring's $250 Video Doorbell Pro 2 Knows How Close People Are to Your Home](https://www.reviewgeek.com/72014/rings-250-video-doorbell-pro-2-knows-how-close-people-are-to-your-home/)
-* [YouTube's New Supervised Accounts Keep Your Teens Safe From Bad Videos](https://www.reviewgeek.com/72023/youtubes-new-supervised-accounts-keep-your-teens-safe-from-bad-videos/)
-* [Fans Cracked NASA's Perseverance Rover Parachute Code Hours After Deployment](https://www.reviewgeek.com/71998/fans-cracked-nasas-perseverance-rover-parachute-code-hours-after-deployment/)
-* [Get Over Here! Pre-Order Arcade1Up's $399 'Mortal Kombat' Legacy Cabinet Now](https://www.reviewgeek.com/71977/get-over-here-pre-order-arcade1ups-399-mortal-kombat-legacy-cabinet-now/)
-* [Samsung Lets You "Buy and Try" a Galaxy Foldable for 100 Days](https://www.reviewgeek.com/71983/samsung-lets-you-buy-and-try-a-galaxy-foldable-for-100-days/)
+* [Oculus Quest Now Supports Hassle-Free Wireless SteamVR Gaming](https://www.reviewgeek.com/72147/oculus-quest-now-supports-hassle-free-wireless-steamvr-gaming/)
+* [Amazon Music's App Arrives on the New Chromecast With Ad-Supported Listening](https://www.reviewgeek.com/72140/amazon-musics-app-arrives-on-the-new-chromecast-with-ad-supported-listening/)
+* [Nerf Unholsters Its New Line of "Hyper" High-Capacity Quick-Shootin' Blasters](https://www.reviewgeek.com/72141/nerf-unholsters-its-new-line-of-hyper-high-capacity-quick-shootin-blasters/)
+* [What is Paramount+, and Does It Replace CBS All Access?](https://www.howtogeek.com/715517/what-is-paramount-plus-and-does-it-replace-cbs-all-access/)
+* [Target Is Opening Mini Apple Stores Inside Some Locations](https://www.reviewgeek.com/72131/target-is-opening-mini-apple-stores-inside-some-locations/)
+* [Paramount+ May Cost Less Than CBS All Access, But There's a Better Deal](https://www.reviewgeek.com/72134/paramount-may-cost-less-than-cbs-all-access-but-theres-a-better-deal/)
+* [How to Uninstall Android Apps From Your Smartphone or Tablet](https://www.howtogeek.com/712069/how-to-uninstall-android-apps-from-your-smartphone-or-tablet/)
+* [How to Send or Forward an Email Directly to Slack](https://www.howtogeek.com/709377/how-to-send-or-forward-an-email-directly-to-slack/)
+* [How to Rename a Bluetooth Device on Your Mac](https://www.howtogeek.com/712257/how-to-rename-a-bluetooth-device-on-your-mac/)
+* [How to Enable Chrome OS’ Android Phone Hub Right Now](https://www.howtogeek.com/715102/how-to-enable-chrome-os-android-phone-hub-right-now/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

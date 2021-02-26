@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
+- [Python developers want static typing](https://www.infoworld.com/article/3609589/python-developers-want-static-typing.html#tk.rss_all)
+- [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_all)
+- [Is geofencing a protective bubble or a heap of trouble?](https://www.infoworld.com/article/3608418/is-geofencing-a-protective-bubble-or-a-heap-of-trouble.html#tk.rss_all)
+- [16 technology winners and losers, post-COVID](https://www.cio.com/article/3561609/covid-technology-winners-and-losers.html#tk.rss_all)
 - [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
 - [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_all)
 - [Review: AWS AI and Machine Learning stacks up](https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html#tk.rss_all)
-- [Unleash the power of Python regex](https://www.infoworld.com/article/3608409/unleash-the-power-of-python-regex.html#tk.rss_all)
-- [3 kinds of bias in AI models — and how we can address them](https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html#tk.rss_all)
-- [IT Salary Survey 2021: Hiring rate expected to increase but priorities will shift](https://www.idginsiderpro.com/article/3608508/it-salary-survey-2021-hiring-rate-expected-to-increase-but-priorities-will-shift.html#tk.rss_all)
-- [Introducing Microsoft .NET 6](https://www.infoworld.com/article/3608951/introducing-microsoft-net-6.html#tk.rss_all)
-- [Higher education embraces cloud computing just in time](https://www.infoworld.com/article/3608716/higher-education-embraces-cloud-computing-just-in-time.html#tk.rss_all)
-- [Are software developers important? Yes, very](https://www.infoworld.com/article/3608558/are-software-developers-important-yes-very.html#tk.rss_all)
+- [Unleash the power of Python regular expressions](https://www.infoworld.com/article/3608409/unleash-the-power-of-python-regular-expressions.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

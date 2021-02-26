@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: 30K Macs infected with "Silver Sparrow" virus; M1 Mac SSD health](https://www.computerworld.com/article/3609611/30k-macs-infected-with-silver-sparrow-virus-m1-mac-ssd-health.html#tk.rss_all)
+- [Android 12 and the big deal with little touches](https://www.computerworld.com/article/3608956/android-12-little-touches.html#tk.rss_all)
+- [Driven by pandemic, the US enters the world of Apple Pay](https://www.computerworld.com/article/3609452/driven-by-pandemic-the-us-enters-the-world-of-apple-pay.html#tk.rss_all)
+- [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
+- [Microsoft to cut perpetual Office support by 50%, raise price by 10%](https://www.computerworld.com/article/3609668/microsoft-to-cut-perpetual-office-support-by-50-raise-price-by-10.html#tk.rss_all)
+- [16 technology winners and losers, post-COVID](https://www.cio.com/article/3561609/covid-technology-winners-and-losers.html#tk.rss_all)
+- [WhatsApp's new 'privacy' policy is a gift to other messaging apps](https://www.computerworld.com/article/3608988/whatsapps-new-privacy-policy-is-a-gift-to-other-messaging-apps.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Amazon switches on macOS Big Sur for AWS](https://www.computerworld.com/article/3608938/amazon-switches-on-macos-big-sur-for-aws.html#tk.rss_all)
 - [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
-- [How to hire and retain Black tech pros — for real](https://www.computerworld.com/article/3608653/how-to-hire-and-retain-black-tech-pros-for-real.html#tk.rss_all)
-- [Microsoft 365 Advanced Audit: What you need to know](https://www.csoonline.com/article/3608270/microsoft-365-advanced-audit-what-you-need-to-know.html#tk.rss_all)
-- [This AI And Coding Course Will Change Your Career Forever](https://www.computerworld.com/article/3608761/this-ai-and-coding-course-will-change-your-career-forever.html#tk.rss_all)
-- [Two big buts about Samsung's Android security update announcement](https://www.computerworld.com/article/3608948/samsung-android-security-updates.html#tk.rss_all)
-- [Microsoft slashes Windows 10 long-term support by half](https://www.computerworld.com/article/3608930/microsoft-slashes-windows-10-long-term-support-by-half.html#tk.rss_all)
-- [Something new, something old in Apple’s 2021 MacBook Pro upgrade](https://www.computerworld.com/article/3609110/something-new-something-old-in-apples-2021-macbook-pro-upgrade.html#tk.rss_all)
-- [BrandPost: Why Hyperconverged Infrastructure Can Mean Hyper-reduced Lifetime Costs](https://www.computerworld.com/article/3609111/why-hyperconverged-infrastructure-reduces-lifetime-costs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

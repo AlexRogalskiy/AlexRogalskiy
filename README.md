@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook says it will pay news industry $1B over 3 years](https://www.axios.com/facebook-pay-news-industry-1-billion-3-years-1155c23c-d4c6-4539-825c-25e1d6fe3536.html)
-- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
-- [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
-- [rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi](https://github.com/librerpi/rpi-open-firmware)
-- [RFC6238 TOTP implementation in pure PostgreSQL](https://github.com/pyramation/totp)
-- [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
-- [A list of open and open source 5G software projects](https://open5g.info)
-- [2D IsometricRenderer](https://github.com/Grille/2D-isometricRenderer)
-- [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
-- [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
+- [Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
+- [Sable (YC S19) Is Hiring a Head of Growth Marketing](https://www.workatastartup.com/jobs/42331)
+- [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
+- [30k Hours (2019)](https://github.com/breck7/30000hours)
+- [1k True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
+- [The battery invented 120 years before its time](https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon#:~:text=Future%20Planet&text=At%20the%20turn%20of%20the,is%20coming%20into%20its%20own.&text=Edison%20claimed%20the%20nickel%2Diron,fast%20as%20lead%2Dacid%20batteries.)
+- [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
+- [Technology Without Industry](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
+- [IoTaWatt Open Source WiFi Electric Power Monitor](https://www.iotawatt.com/)
+- [CP/Mish is an open source sort-of-CP/M distribution for Z80](http://cowlark.com/cpmish/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

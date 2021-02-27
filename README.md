@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Want to work in IT but I am conflicted.](https://www.reddit.com/r/InformationTechnology/comments/ltabm3/want_to_work_in_it_but_i_am_conflicted/)
+- [Got my A+ today](https://www.reddit.com/r/InformationTechnology/comments/lt6kxg/got_my_a_today/)
+- [PC to Monitors solution](https://www.reddit.com/r/InformationTechnology/comments/lszz8k/pc_to_monitors_solution/)
+- [Knowledge Base Tool?](https://www.reddit.com/r/InformationTechnology/comments/lsufyc/knowledge_base_tool/)
+- [M.2 form factor SATA? Confused...](https://www.reddit.com/r/InformationTechnology/comments/lsqtba/m2_form_factor_sata_confused/)
+- [Help desk](https://www.reddit.com/r/InformationTechnology/comments/lsq7s1/help_desk/)
 - [What resources did you use to study for A+?](https://www.reddit.com/r/InformationTechnology/comments/lsg77o/what_resources_did_you_use_to_study_for_a/)
 - [Help creating a Windows 10 bootable USB using Linux](https://www.reddit.com/r/InformationTechnology/comments/lsedi9/help_creating_a_windows_10_bootable_usb_using/)
 - [What to do if I feel underqualified](https://www.reddit.com/r/InformationTechnology/comments/lsck6a/what_to_do_if_i_feel_underqualified/)
 - [Is this place a good start for someone wanting to start off in hardware?](https://www.reddit.com/r/InformationTechnology/comments/lrw22d/is_this_place_a_good_start_for_someone_wanting_to/)
-- [what are the certificates that everyone talks about on here?](https://www.reddit.com/r/InformationTechnology/comments/lrt6na/what_are_the_certificates_that_everyone_talks/)
-- [What to touch up before the first day of a new job.](https://www.reddit.com/r/InformationTechnology/comments/lrolkv/what_to_touch_up_before_the_first_day_of_a_new_job/)
-- [Whats the quickest way to get off the phone?](https://www.reddit.com/r/InformationTechnology/comments/lrkuh8/whats_the_quickest_way_to_get_off_the_phone/)
-- [How to Attract the Best IT Talent in 2021](https://www.reddit.com/r/InformationTechnology/comments/lrid49/how_to_attract_the_best_it_talent_in_2021/)
-- [US IT team needs help with EU IT hardware procurement](https://www.reddit.com/r/InformationTechnology/comments/lrdaqd/us_it_team_needs_help_with_eu_it_hardware/)
-- [Customer service](https://www.reddit.com/r/InformationTechnology/comments/lraczh/customer_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

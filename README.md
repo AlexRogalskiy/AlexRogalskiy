@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [On digital identity, the government gets it wrong again](https://www.computerweekly.com/opinion/On-digital-identity-the-government-gets-it-wrong-again)
+- [Cyber extortionist threatened to bomb NHS targets](https://www.computerweekly.com/news/252497011/Cyber-extortionist-threatened-to-bomb-NHS-targets)
+- [DCMS gives tablet devices to people with learning disabilities](https://www.computerweekly.com/news/252497010/DCMS-gives-tablet-devices-to-people-with-learning-disabilities)
+- [IR35 private sector reforms: Argos to offshore work of digital team in Milton Keynes to Mumbai](https://www.computerweekly.com/news/252497005/IR35-private-sector-reforms-Argos-to-offshore-work-of-digital-team-in-Milton-Keynes-to-Mubai)
+- [Dell bets on continued home working to drive PC demand](https://www.computerweekly.com/news/252496992/Dell-bets-on-continued-home-working-to-drive-PC-demand)
+- [It’s now or never for UK fintech, government told](https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told)
+- [Nordic startups strive to fuel international e-commerce transformation](https://www.computerweekly.com/news/252496921/Nordic-startups-strive-to-fuel-international-e-commerce-transformation)
+- [Amsterdam to open environmental talks with datacentres](https://www.computerweekly.com/news/252496917/Amsterdam-to-open-environmental-talks-with-datacentres)
+- [Palantir once more in sights of civil libertarians over NHS Covid data store](https://www.computerweekly.com/news/252496953/Palantir-once-more-in-sights-of-civil-libertarians-over-NHS-Covid-data-store)
 - [NCSC Cyber Action Plan emphasises SME security](https://www.computerweekly.com/news/252496935/NCSC-Cyber-Action-Plan-emphasises-SME-security)
-- [IR35 private sector reforms: Contractors call for further delays to April 2021 start date](https://www.computerweekly.com/news/252496952/IR35-private-sector-reforms-Contractors-call-for-further-delays-to-April-2021-start-date)
-- [GCHQ sets out rules of the road for AI in cyber](https://www.computerweekly.com/news/252496940/GCHQ-sets-out-rules-of-the-road-for-AI-in-cyber)
-- [Nearly 80,000 more tech roles filled at end of 2020 compared with end of 2019, says ONS](https://www.computerweekly.com/news/252496930/Nearly-80000-more-tech-roles-filled-at-end-of-2020-compared-with-end-of-2019-says-ONS)
-- [Npower shuts off app after credential stuffing attack](https://www.computerweekly.com/news/252496926/Npower-shuts-off-app-after-credential-stuffing-attack)
-- [Atos and HDF Energy to build ‘green hydrogen-powered’ datacentre by 2023](https://www.computerweekly.com/news/252496929/Atos-and-HDF-Energy-to-build-green-hydrogen-powered-datacentre-by-2023)
-- [Tech-enabled hybrid working enables HSBC to cut 40% of its global office space](https://www.computerweekly.com/news/252496927/Tech-enabled-hybrid-working-enables-HSBC-to-cut-40-of-its-global-office-space)
-- [Deloitte: How organisations can prepare for new look office work](https://www.computerweekly.com/news/252496817/Deloitte-How-organisations-can-prepare-for-new-look-office-work)
-- [MHRA and other agencies to offer new resources for scam victims](https://www.computerweekly.com/news/252496919/MHRA-and-other-agencies-to-offer-new-resources-for-scam-victims)
-- [CW Nordics: Nordic startups aim to take the lead in pet tech advances](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Nordic-startups-aim-to-take-the-lead-in-pet-tech-advances)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

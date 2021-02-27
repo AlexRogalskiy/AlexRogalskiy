@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple's indoor maps format is now a standard; here's why that matters](https://www.computerworld.com/article/3609852/apples-indoor-maps-format-is-now-a-standard-heres-why-that-matters.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [The Poly Studio P15: Searching for a better home videoconferencing answer](https://www.computerworld.com/article/3609868/the-poly-studio-p15-searching-for-a-better-home-videoconferencing-answer.html#tk.rss_all)
+- [IT Salary Survey 2021: The results are in](https://www.idginsiderpro.com/article/3608511/it-salary-survey-2021-the-results-are-in.html#tk.rss_all)
+- [Forget macOS — it's Chrome OS vs. Windows for desktop domination](https://www.computerworld.com/article/3608571/forget-macos-its-chrome-os-vs-windows-for-desktop-domination.html#tk.rss_all)
 - [Podcast: 30K Macs infected with "Silver Sparrow" virus; M1 Mac SSD health](https://www.computerworld.com/article/3609611/30k-macs-infected-with-silver-sparrow-virus-m1-mac-ssd-health.html#tk.rss_all)
 - [Android 12 and the big deal with little touches](https://www.computerworld.com/article/3608956/android-12-little-touches.html#tk.rss_all)
 - [Driven by pandemic, the US enters the world of Apple Pay](https://www.computerworld.com/article/3609452/driven-by-pandemic-the-us-enters-the-world-of-apple-pay.html#tk.rss_all)
 - [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
 - [Microsoft to cut perpetual Office support by 50%, raise price by 10%](https://www.computerworld.com/article/3609668/microsoft-to-cut-perpetual-office-support-by-50-raise-price-by-10.html#tk.rss_all)
-- [16 technology winners and losers, post-COVID](https://www.cio.com/article/3561609/covid-technology-winners-and-losers.html#tk.rss_all)
-- [WhatsApp's new 'privacy' policy is a gift to other messaging apps](https://www.computerworld.com/article/3608988/whatsapps-new-privacy-policy-is-a-gift-to-other-messaging-apps.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Amazon switches on macOS Big Sur for AWS](https://www.computerworld.com/article/3608938/amazon-switches-on-macos-big-sur-for-aws.html#tk.rss_all)
-- [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Oculus Quest Now Supports Hassle-Free Wireless SteamVR Gaming](https://www.reviewgeek.com/72147/oculus-quest-now-supports-hassle-free-wireless-steamvr-gaming/)
-* [Amazon Music's App Arrives on the New Chromecast With Ad-Supported Listening](https://www.reviewgeek.com/72140/amazon-musics-app-arrives-on-the-new-chromecast-with-ad-supported-listening/)
-* [Nerf Unholsters Its New Line of "Hyper" High-Capacity Quick-Shootin' Blasters](https://www.reviewgeek.com/72141/nerf-unholsters-its-new-line-of-hyper-high-capacity-quick-shootin-blasters/)
-* [What is Paramount+, and Does It Replace CBS All Access?](https://www.howtogeek.com/715517/what-is-paramount-plus-and-does-it-replace-cbs-all-access/)
-* [Target Is Opening Mini Apple Stores Inside Some Locations](https://www.reviewgeek.com/72131/target-is-opening-mini-apple-stores-inside-some-locations/)
-* [Paramount+ May Cost Less Than CBS All Access, But There's a Better Deal](https://www.reviewgeek.com/72134/paramount-may-cost-less-than-cbs-all-access-but-theres-a-better-deal/)
-* [How to Uninstall Android Apps From Your Smartphone or Tablet](https://www.howtogeek.com/712069/how-to-uninstall-android-apps-from-your-smartphone-or-tablet/)
-* [How to Send or Forward an Email Directly to Slack](https://www.howtogeek.com/709377/how-to-send-or-forward-an-email-directly-to-slack/)
-* [How to Rename a Bluetooth Device on Your Mac](https://www.howtogeek.com/712257/how-to-rename-a-bluetooth-device-on-your-mac/)
-* [How to Enable Chrome OS’ Android Phone Hub Right Now](https://www.howtogeek.com/715102/how-to-enable-chrome-os-android-phone-hub-right-now/)
+* [Electric Buses Will Replace a Maryland School District's Gas-Guzzling Fleet](https://www.reviewgeek.com/72299/electric-buses-will-replace-a-maryland-school-districts-gas-guzzling-fleet/)
+* [Amazon's Free IMDb Streaming Service Arrives on Chromecast with Google TV](https://www.reviewgeek.com/72294/amazons-free-imdb-streaming-service-arrives-on-chromecast-with-google-tv/)
+* [Android App Sleep Tracking Might Be Less Terrible Soon](https://www.reviewgeek.com/72300/android-app-sleep-tracking-might-be-less-terrible-soon/)
+* [The $4 Raspberry Pi Pico Can Now Run FUZIX, a UNIX Clone](https://www.reviewgeek.com/72257/the-4-raspberry-pi-pico-can-now-run-fuzix-a-unix-clone/)
+* [The LastPass Android App Contains 7 Trackers From Third Party Companies 😬](https://www.reviewgeek.com/72272/the-lastpass-android-app-contains-7-trackers-from-third-party-companies-%f0%9f%98%ac/)
+* [How to Send Apps Between Android Devices](https://www.howtogeek.com/714458/how-to-send-apps-between-android-devices/)
+* [How to Delete Version History in Google Docs](https://www.howtogeek.com/709525/how-to-delete-version-history-in-google-docs/)
+* [The Top Five Cloud Security Threats](https://www.cloudsavvyit.com/9754/the-top-five-cloud-security-threats/)
+* [The Top Five Cloud Security Threats](https://www.cloudsavvyit.com/9754/the-top-five-cloud-security-threats/)
+* [How to Disable the Mac Keyboard’s Emoji Shortcut](https://www.howtogeek.com/708537/how-to-disable-the-mac-keyboards-emoji-shortcut/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

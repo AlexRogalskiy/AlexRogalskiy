@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Two-Thirds of New York City’s Arts and Culture Jobs Are Gone](https://www.bloomberg.com/news/articles/2021-02-24/two-thirds-of-new-york-city-s-arts-and-culture-jobs-are-gone)
-- [Interactive map of country borders throughout History in 3D](https://historicborders.app/?view=globe)
-- [Benchmarks of Similarity Search Algorithms: Pinecone vs. Faiss vs. Nmslib](https://www.pinecone.io/learn/similarity-search-benchmarks/)
-- [Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
-- [Show HN: Steampipe – select * from cloud;](https://steampipe.io/)
-- [Understanding and avoiding misplaced efforts in conservation](https://www.facetsjournal.com/doi/full/10.1139/facets-2020-0058)
-- [Geoff Hinton 2021 – How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)
-- [Power Source for Mars Rover](https://mars.nasa.gov/mars2020/spacecraft/rover/electrical-power/#:~:text=The%20power%20source%20is%20called,the%20rover%27s%20two%20primary%20batteries.)
-- [Bitcoin and Other Cryptocurrencies Are Fueling Innovation in Space](https://www.forbes.com/sites/rogerhuang/2021/02/25/bitcoin-and-other-cryptocurrencies-are-fueling-innovation-in-space/)
-- [Gender discrimination in hiring: An experimental reexamination](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245513)
+- [Working with the History API [Adding and modifying history entries]](https://developer.mozilla.org/en-US/docs/Web/API/History_API/Working_with_the_History_API)
+- [Ask HN: How did you find a Joint Venture partner for your SaaS?](https://news.ycombinator.com/item?id=26282044)
+- [Slouching Toward Post-Journalism](https://www.city-journal.org/journalism-advocacy-over-reporting)
+- [Canadian company first to develop biodegradable mask](https://beta.ctvnews.ca/national/coronavirus/2021/2/26/1_5326258.html)
+- [Ask HN: As a software engineer, how do I best learn basic network engineering?](https://news.ycombinator.com/item?id=26281891)
+- [SoftBank reaches settlement with former WeWork CEO Neumann](https://www.channelnewsasia.com/news/business/softbank-reaches-settlement-with-former-wework-ceo-neumann-14293396)
+- [What I learned from sending 2M SMS?](https://devmargin.substack.com/p/what-i-learned-from-sending-2-million)
+- [Mining Ethereum on M1 Mac GPU](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
+- [Perl Cheat Sheet](https://juerd.nl/site.plp/perlcheat)
+- [The Value of Trust in the SaaS Industry](http://toslawyer.com/the-real-value-of-trust-in-the-saas-industry/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: France may impose regional lockdowns; South Korea starts vaccinations](https://www.theguardian.com/world/live/2021/feb/26/coronavirus-live-news-france-may-impose-regional-lockdowns-south-korea-starts-vaccinations)
-- ['This is historic': Malaysian man wins appeal against Islamic gay sex charge](https://www.theguardian.com/world/2021/feb/26/this-is-historic-malaysian-man-wins-appeal-against-islamic-gay-sex-charge)
-- [US carried out airstrikes against Iran-backed militia in Syria](https://www.theguardian.com/world/2021/feb/25/us-airstrike-syria-iran-militia)
-- [German officials bemoan 'non-transparency' of 2032 Olympics bid selection](https://www.theguardian.com/sport/2021/feb/26/german-officials-bemoan-non-transparency-of-2032-olympics-bid-selection)
-- [Elephant kills Spanish zookeeper with one hit from trunk](https://www.theguardian.com/world/2021/feb/26/elephant-kills-spanish-zookeeper-with-one-blow-from-trunk)
-- [Police watchdog castigates forces over use of stop and search](https://www.theguardian.com/law/2021/feb/26/police-watchdog-castigates-forces-over-use-of-stop-and-search)
-- [Thames Water hopes to harness human 'poo power' to heat homes](https://www.theguardian.com/business/2021/feb/26/thames-water-hopes-to-harness-human-poo-power-to-heat-homes)
-- [SUVs and extra traffic cancelling out electric car gains in Britain](https://www.theguardian.com/environment/2021/feb/26/suvs-and-extra-traffic-cancelling-out-electric-car-gains-in-britain)
-- [British Gymnastics faces class action lawsuit from 17 alleging abuse](https://www.theguardian.com/sport/2021/feb/26/british-gymnastics-faces-class-action-lawsuit-from-17-alleging-abuse-jennifer-pinches)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/feb/26/premier-league-10-things-to-look-out-for-this-weekend)
+- [Prison director and gang leader among 25 killed in Haitian jailbreak](https://www.theguardian.com/world/2021/feb/27/prison-director-and-gang-leader-among-25-killed-in-haitian-jailbreak)
+- [Talking Horses: Young Wolf can be another big winner for the two Jonjos](https://www.theguardian.com/sport/blog/2021/feb/27/talking-horses-young-wolf-can-be-another-big-winner-for-the-two-jonjos)
+- [British and Irish Lions consider base in Jersey as contingency plan for tour](https://www.theguardian.com/sport/2021/feb/27/british-and-irish-lions-consider-base-in-jersey-as-contingency-plan-for-south-africa-tour)
+- [Biden visits disaster-hit Texas as Cruz basks in warmth of Florida right-fest](https://www.theguardian.com/us-news/2021/feb/26/ted-cruz-cpac-trump-texas-joe-biden)
+- [Sunak to use budget to start repairing UK's public finances](https://www.theguardian.com/uk-news/2021/feb/26/sunak-to-use-budget-to-start-repairing-the-uks-public-finances)
+- [Jürgen Klopp happy to do the ‘dirty work‘ to spark Liverpool revival](https://www.theguardian.com/football/2021/feb/26/liverpool-jordan-henderson-out-at-least-five-weeks-groin-surgery-jurgen-klopp)
+- [House set to approve $1.9tn Covid aid bill despite minimum wage setback](https://www.theguardian.com/us-news/2021/feb/26/joe-biden-coronavirus-stimulus-bill-aid-package)
+- [Johnson & Johnson one-shot Covid vaccine gets nod from FDA advisory panel](https://www.theguardian.com/world/2021/feb/26/fda-advisory-panel-recommends-authorizing-johnson-vaccine)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/26/20-photographs-of-the-week)
+- [Biden said 'Diplomacy is back!' Then he started dropping bombs | Trita Parsi](https://www.theguardian.com/commentisfree/2021/feb/26/biden-iran-deal-diplomacy-syria)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

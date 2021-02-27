@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
-- [Sable (YC S19) Is Hiring a Head of Growth Marketing](https://www.workatastartup.com/jobs/42331)
-- [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
-- [30k Hours (2019)](https://github.com/breck7/30000hours)
-- [1k True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
-- [The battery invented 120 years before its time](https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon#:~:text=Future%20Planet&text=At%20the%20turn%20of%20the,is%20coming%20into%20its%20own.&text=Edison%20claimed%20the%20nickel%2Diron,fast%20as%20lead%2Dacid%20batteries.)
-- [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
-- [Technology Without Industry](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
-- [IoTaWatt Open Source WiFi Electric Power Monitor](https://www.iotawatt.com/)
-- [CP/Mish is an open source sort-of-CP/M distribution for Z80](http://cowlark.com/cpmish/index.html)
+- [Astranis (YC W16) is hiring a full-cycle tech recruiter to help grow our team](https://jobs.lever.co/astranis/b99fb41e-325d-43ee-b82b-22218d32c07d)
+- [Some small USA towns giving away housing lots](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
+- [Firefox replaces Google Analytics with fake no-op in strict tracking protection](https://twitter.com/__jakub_g/status/1365400306767581185)
+- [Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves](https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/)
+- [Remain Calm: The fox is still in the Firefox logo](https://blog.mozilla.org/firefox/the-fox-is-still-in-the-firefox-logo/)
+- [Graphtage: A semantic diff utility for JSON, HTML, YAML, CSV, etc](https://github.com/trailofbits/graphtage)
+- [SEC suspends trading in 15 securities due to questionable social media activity](https://www.sec.gov/news/press-release/2021-35)
+- [Show HN: Unix tool that visualizes shell commands usage](https://github.com/irevenko/tsukae)
+- [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
+- [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

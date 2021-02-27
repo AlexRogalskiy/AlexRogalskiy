@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_all)
+- [IT Salary Survey 2021: The results are in](https://www.idginsiderpro.com/article/3608511/it-salary-survey-2021-the-results-are-in.html#tk.rss_all)
+- [Does AI-driven cloud computing need ethics guidelines?](https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html#tk.rss_all)
+- [NumPy 1.20 introduces type annotations](https://www.infoworld.com/article/3609521/numpy-120-introduces-type-annotations.html#tk.rss_all)
+- [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
 - [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
 - [Python developers want static typing](https://www.infoworld.com/article/3609589/python-developers-want-static-typing.html#tk.rss_all)
 - [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_all)
 - [Is geofencing a protective bubble or a heap of trouble?](https://www.infoworld.com/article/3608418/is-geofencing-a-protective-bubble-or-a-heap-of-trouble.html#tk.rss_all)
 - [16 technology winners and losers, post-COVID](https://www.cio.com/article/3561609/covid-technology-winners-and-losers.html#tk.rss_all)
-- [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_all)
-- [IT Salary Survey 2021: Over half of IT pros are satisfied at work – but nearly half are job hunting](https://www.idginsiderpro.com/article/3608353/it-salary-survey-2021-over-half-of-it-pros-are-satisfied-at-work-but-nearly-half-are-job-hunting.html#tk.rss_all)
-- [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_all)
-- [Review: AWS AI and Machine Learning stacks up](https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html#tk.rss_all)
-- [Unleash the power of Python regular expressions](https://www.infoworld.com/article/3608409/unleash-the-power-of-python-regular-expressions.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

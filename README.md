@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [VMware’s code-execution flaw has a severity rating of 9.8 out of 10](https://www.itworldcanada.com/article/vmwares-code-execution-flaw-has-a-severity-rating-of-9-8-out-of-10/442986)
+- [Layers the best cybersecurity approach in 2021](https://www.itworldcanada.com/article/layers-the-best-cybersecurity-approach-in-2021/442990)
+- [A one-on-one with a recent business technology management program graduate](https://www.itworldcanada.com/blog/a-one-on-one-with-a-recent-business-technology-management-program-graduate/442974)
+- [Cyber Security Today – Week in Review for February 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-26-2021/442953)
+- [A startup’s answer to market research in a virtual world](https://www.itworldcanada.com/slideshow/a-startups-answer-to-market-research-in-a-virtual-world)
+- [Ransomware the top attack type in Canada last year: IBM report](https://www.itworldcanada.com/article/ransomware-the-top-attack-type-in-canada-last-year-ibm-report/442909)
+- [Five nations issue global alert on vulnerabilities in Accellion FTA application](https://www.itworldcanada.com/article/five-nations-issue-global-alert-on-vulnerabilities-in-accellion-fta-application/442913)
+- [Cyber Security Today, Feb. 26, 2021 – Reports on vulnerabilities, and a warning to the defence sector](https://www.itworldcanada.com/article/cyber-security-today-feb-26-2021-conflicting-reports-on-vulnerabilities-and-a-warning-to-the-defence-sector/442947)
+- [Hashtag Trending, Feb. 26, 2021 – MapleSEC recap; Supreme Court of Canada says no to pricing appeal; Biden signs exec order to address chip shortage](https://www.itworldcanada.com/article/hashtag-trending-feb-26-2021-maplesec-recap-supreme-court-of-canada-says-no-to-pricing-appeal-biden-signs-exec-order-to-address-chip-shortage/442954)
 - [Mike Sharun announces retirement from Dell](https://www.itworldcanada.com/article/mike-sharun-announces-retirement-from-dell/442936)
-- [MapleSEC Satellite 2021: Emerging threats are ready to target critical infrastructure](https://www.itworldcanada.com/article/maplesec-satellite-2021-emerging-threats-are-ready-to-target-critical-infrastructure/442897)
-- [Supreme Court of Canada rejects telecom incumbents’ appeal of CRTC’s 2019 rate-correction ruling](https://www.itworldcanada.com/article/supreme-court-of-canada-rejects-telecom-incumbents-appeal-of-the-crtc-2019-rate-correction-ruling/442925)
-- [Canada’s critical infrastructure an ‘area of increasing concern’ says BlackBerry report](https://www.itworldcanada.com/article/canadas-critical-infrastructure-an-area-of-increasing-concern-says-blackberry-report/442907)
-- [MapleSEC Satellite Session – New threats are ‘accelerated and unpredictable’](https://www.itworldcanada.com/video/maplesec-satellite-session-new-threats-are-accelerated-and-unpredictable)
-- [MapleSEC Satellite Session – New Threats panel](https://www.itworldcanada.com/video/maplesec-satellite-session-new-threats-panel)
-- [VMware picks up new talent including HPE Canadian leader Paula Hodgins](https://www.itworldcanada.com/article/vmware-picks-up-new-talent-including-hpe-canadian-leader-paula-hodgins/442956)
-- [The first line of defense: Equipping employees with the right security training](https://www.itworldcanada.com/sponsored/the-first-line-of-defense-equipping-employees-with-the-right-security-training)
-- [Hashtag Trending, Feb. 25, 2021 – Bye Bye Fry’s; U.S. supply chain updates; USPS trucks get facelift](https://www.itworldcanada.com/article/hashtag-trending-feb-25-2021-bye-bye-frys-u-s-supply-chain-updates-usps-trucks-get-facelift/442905)
-- [Infosec expert says mandatory cyber incident reporting is worth considering in Canada](https://www.itworldcanada.com/article/infosec-expert-says-mandatory-cyber-incident-reporting-is-worth-considering-in-canada/442869)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

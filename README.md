@@ -221,7 +221,7 @@
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6d&#x2F;a8&#x2F;b8&#x2F;6da8b87dc956bb24aec9f47be2a69c51.jpg" alt="Perdure is the #WordOfTheDay, but tomorrow there will be a new one. Want more? Go to Dictionary.com for example sentences, etymology, and more!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3a&#x2F;cb&#x2F;8e&#x2F;3acb8e596e47fba07aaf84f4d8df436a.jpg" alt="Cheeseparing is the Word of the Day. No, not that kind of cheese. Still have questions? Click through to learn more!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;28&#x2F;19&#x2F;f72819a8365c1587c6b89ba4bec3cc25.jpg" alt="We don&#39;t have any tricks up our sleeves, but bamboozle is the Word of the Day. Click for example sentences, word origin, and more! #Writing #Vocabulary #English" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;28&#x2F;19&#x2F;f72819a8365c1587c6b89ba4bec3cc25.jpg" alt="We don&#39;t have any tricks up our sleeves, but bamboozle is the Word of the Day. Click for example sentences, word origin, and more! #Writing #Vocabulary #English Vocabulary Builder, English Vocabulary Words, Learn English Words, English Grammar, English Language, English Study, Rare Words, New Words, Cool Words" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;46&#x2F;04&#x2F;9c&#x2F;46049c66c3097616af65342f0a6ae4e7.jpg" alt="This #WordOfTheDay needs to calm down. It&#39;s frumious. Want more? Go to Dictionary.com! " />
     </p>
     <p align="center" style="text-align:center;">
@@ -273,9 +273,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1020 (mbar), wind: /north/ 1 (m/s), cloudy: 90%</b>
+        <b>1°C (<i>clear sky</i>), humidity: 93%, pressure: 1020 (mbar), wind: /south-east/ 3 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>08:00 am</b> and sets at <b>18:23 pm</b>.
+        Today, the Sun rises at <b>07:57 am</b> and sets at <b>18:25 pm</b>.
     </p>
 </div>
 

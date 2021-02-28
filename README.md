@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/C/chockablock_chock-a-block_chock-full_1514.php" target="_blank"><i>chockablock | chock-a-block | chock-full</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/cop_741.php" target="_blank"><i>cop</i></a>
 <span> = </span>
-<span>completely full of people or things, crammed full</span>
+<span>a policeman or a policewoman</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

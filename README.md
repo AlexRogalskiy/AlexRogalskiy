@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/get_2/get_at_1__2786.php" target="_blank"><i>get at (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/N/nail_down_2__1885.php" target="_blank"><i>nail down (2)</i></a>
 <span> = </span>
-<span>to get hold of something <BR><BR></span>
+<span>If you nail something down, you fasten it to a surface, such as the floor, with a nail.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Astranis (YC W16) is hiring a full-cycle tech recruiter to help grow our team](https://jobs.lever.co/astranis/b99fb41e-325d-43ee-b82b-22218d32c07d)
-- [Some small USA towns giving away housing lots](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
-- [Firefox replaces Google Analytics with fake no-op in strict tracking protection](https://twitter.com/__jakub_g/status/1365400306767581185)
-- [Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves](https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/)
-- [Remain Calm: The fox is still in the Firefox logo](https://blog.mozilla.org/firefox/the-fox-is-still-in-the-firefox-logo/)
-- [Graphtage: A semantic diff utility for JSON, HTML, YAML, CSV, etc](https://github.com/trailofbits/graphtage)
-- [SEC suspends trading in 15 securities due to questionable social media activity](https://www.sec.gov/news/press-release/2021-35)
-- [Show HN: Unix tool that visualizes shell commands usage](https://github.com/irevenko/tsukae)
-- [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
-- [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
+- [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
+- [A 'Lamborghini' of Chariots Is Discovered at Pompeii. Archaeologists Are Wowed](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
+- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
+- [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
+- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
+- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/#/)
+- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
+- [As important as the Beetle? Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
+- [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

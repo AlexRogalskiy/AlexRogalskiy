@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Electric Buses Will Replace a Maryland School District's Gas-Guzzling Fleet](https://www.reviewgeek.com/72299/electric-buses-will-replace-a-maryland-school-districts-gas-guzzling-fleet/)
-* [Amazon's Free IMDb Streaming Service Arrives on Chromecast with Google TV](https://www.reviewgeek.com/72294/amazons-free-imdb-streaming-service-arrives-on-chromecast-with-google-tv/)
-* [Android App Sleep Tracking Might Be Less Terrible Soon](https://www.reviewgeek.com/72300/android-app-sleep-tracking-might-be-less-terrible-soon/)
-* [The $4 Raspberry Pi Pico Can Now Run FUZIX, a UNIX Clone](https://www.reviewgeek.com/72257/the-4-raspberry-pi-pico-can-now-run-fuzix-a-unix-clone/)
-* [The LastPass Android App Contains 7 Trackers From Third Party Companies 😬](https://www.reviewgeek.com/72272/the-lastpass-android-app-contains-7-trackers-from-third-party-companies-%f0%9f%98%ac/)
-* [How to Send Apps Between Android Devices](https://www.howtogeek.com/714458/how-to-send-apps-between-android-devices/)
-* [How to Delete Version History in Google Docs](https://www.howtogeek.com/709525/how-to-delete-version-history-in-google-docs/)
-* [The Top Five Cloud Security Threats](https://www.cloudsavvyit.com/9754/the-top-five-cloud-security-threats/)
-* [The Top Five Cloud Security Threats](https://www.cloudsavvyit.com/9754/the-top-five-cloud-security-threats/)
-* [How to Disable the Mac Keyboard’s Emoji Shortcut](https://www.howtogeek.com/708537/how-to-disable-the-mac-keyboards-emoji-shortcut/)
+* [What We're Reading: The 'Star Wars' Novels Explore a Galaxy Far, Far Away](https://www.reviewgeek.com/72182/what-were-reading-the-star-wars-novels-explore-a-galaxy-far-far-away/)
+* [Asus' New Chromebook Looks Like the Spiritual Successor to the Lenovo Duet](https://www.reviewgeek.com/72338/asus-new-chromebook-looks-like-the-spiritual-successor-to-the-lenovo-duet/)
+* [The New 'Stardew Valley' Board Game Looks Just as Delightful as the Video Game](https://www.reviewgeek.com/72340/the-new-stardew-valley-board-game-looks-just-as-delightful-as-the-video-game/)
+* [How to Automatically Share Your Instagram Stories and Posts on Facebook](https://www.howtogeek.com/711009/how-to-automatically-share-your-instagram-stories-and-posts-on-facebook/)
+* [How to Add Private Labels in Google Maps](https://www.howtogeek.com/710242/how-to-add-private-labels-in-google-maps/)
+* [David Attenborough and Dinosaurs Come to Your Living Room in this AR iPhone App](https://www.reviewgeek.com/72315/david-attenborough-and-dinosaurs-come-to-your-living-room-in-this-ar-iphone-app/)
+* [How to Enable Do Not Disturb During Workouts on Apple Watch](https://www.howtogeek.com/711255/how-to-enable-do-not-disturb-during-workouts-on-apple-watch/)
+* [How to Connect a PS4 Controller to Apple TV](https://www.howtogeek.com/710969/how-to-connect-a-ps4-controller-to-apple-tv/)
+* [What Is Girls Who Code, and Why You Should Care](https://www.reviewgeek.com/70987/what-is-girls-who-code-and-why-you-should-care/)
+* [How to Watch the 2021 Golden Globes Without Cable](https://www.howtogeek.com/714773/how-to-watch-the-2021-golden-globes-without-cable/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

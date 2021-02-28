@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Buildings/chickens_come_home_to_roost_394.php" target="_blank"><i>chickens come home to roost</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/leave_no_stone_unturned_652.php" target="_blank"><i>leave no stone unturned</i></a>
 <span> = </span>
-<span>If chickens are coming home to roost, someone is suffering the unpleasant consequences of their bad actions in the past.</span>
+<span>If you leave no stone unturned, you look everywhere in order to find something, or try everything in order to achieve something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

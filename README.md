@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/The_way_to_a_man_s_heart_is_through_his_stomach_504.php" target="_blank"><i>The way to a man's heart is through his stomach</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Graves_are_of_all_sizes_868.php" target="_blank"><i>Graves are of all sizes</i></a>
 <span> = </span>
-<span>Many women have won a man's love by cooking delicious meals for him. They fed his stomach and found love in his heart.</span>
+<span>People die at all ages; no one is too young to die.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Working with the History API [Adding and modifying history entries]](https://developer.mozilla.org/en-US/docs/Web/API/History_API/Working_with_the_History_API)
-- [Ask HN: How did you find a Joint Venture partner for your SaaS?](https://news.ycombinator.com/item?id=26282044)
-- [Slouching Toward Post-Journalism](https://www.city-journal.org/journalism-advocacy-over-reporting)
-- [Canadian company first to develop biodegradable mask](https://beta.ctvnews.ca/national/coronavirus/2021/2/26/1_5326258.html)
-- [Ask HN: As a software engineer, how do I best learn basic network engineering?](https://news.ycombinator.com/item?id=26281891)
-- [SoftBank reaches settlement with former WeWork CEO Neumann](https://www.channelnewsasia.com/news/business/softbank-reaches-settlement-with-former-wework-ceo-neumann-14293396)
-- [What I learned from sending 2M SMS?](https://devmargin.substack.com/p/what-i-learned-from-sending-2-million)
-- [Mining Ethereum on M1 Mac GPU](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
-- [Perl Cheat Sheet](https://juerd.nl/site.plp/perlcheat)
-- [The Value of Trust in the SaaS Industry](http://toslawyer.com/the-real-value-of-trust-in-the-saas-industry/)
+- [Recap: Sprint #1, I have a Dream](https://blog.rhetoric.app/p/recap-sprint-1-i-have-a-dream?r=g07gu&utm_campaign=post&utm_medium=email&utm_source=hackernews)
+- [Apple gives itself modest marks for product repair potential](https://www.theregister.com/2021/02/27/apple_recycling_scores/)
+- [Ask HN: Did Mozilla get rid of the reload button in Firefox?](https://news.ycombinator.com/item?id=26290062)
+- [Nvidia Reflex SDK](https://developer.nvidia.com/reflex)
+- [Show HN: End to end TypeScript with Adonis.js and Next.js (first draft)](https://github.com/mikealche/Next-Adonis-Typescript)
+- [Logical Nullish Assignment (?=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment)
+- [The state of the Mac, with special guest John Siracusa [audio]](https://daringfireball.net/thetalkshow/2021/02/27/ep-309)
+- [India’s Impermanent Residents](https://www.ft.com/content/a0d2a69a-a96f-11e5-955c-1e1d6de94879)
+- [The Tokio Upgrade from 0.2 to 1.x](https://fly.io/blog/the-tokio-1-x-upgrade/)
+- [Ask HN: Am I blowing an acquihire offer?](https://news.ycombinator.com/item?id=26289994)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

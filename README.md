@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interesting looking mentorship program accepting applications](https://www.reddit.com/r/InformationTechnology/comments/ltwit0/interesting_looking_mentorship_program_accepting/)
+- [How can I send a big file via email?](https://www.reddit.com/r/InformationTechnology/comments/ltlldu/how_can_i_send_a_big_file_via_email/)
+- [Slower than expected NMVe speeds - problem?](https://www.reddit.com/r/InformationTechnology/comments/ltfnx4/slower_than_expected_nmve_speeds_problem/)
 - [Want to work in IT but I am conflicted.](https://www.reddit.com/r/InformationTechnology/comments/ltabm3/want_to_work_in_it_but_i_am_conflicted/)
 - [Got my A+ today](https://www.reddit.com/r/InformationTechnology/comments/lt6kxg/got_my_a_today/)
 - [PC to Monitors solution](https://www.reddit.com/r/InformationTechnology/comments/lszz8k/pc_to_monitors_solution/)
@@ -413,9 +416,6 @@
 - [M.2 form factor SATA? Confused...](https://www.reddit.com/r/InformationTechnology/comments/lsqtba/m2_form_factor_sata_confused/)
 - [Help desk](https://www.reddit.com/r/InformationTechnology/comments/lsq7s1/help_desk/)
 - [What resources did you use to study for A+?](https://www.reddit.com/r/InformationTechnology/comments/lsg77o/what_resources_did_you_use_to_study_for_a/)
-- [Help creating a Windows 10 bootable USB using Linux](https://www.reddit.com/r/InformationTechnology/comments/lsedi9/help_creating_a_windows_10_bootable_usb_using/)
-- [What to do if I feel underqualified](https://www.reddit.com/r/InformationTechnology/comments/lsck6a/what_to_do_if_i_feel_underqualified/)
-- [Is this place a good start for someone wanting to start off in hardware?](https://www.reddit.com/r/InformationTechnology/comments/lrw22d/is_this_place_a_good_start_for_someone_wanting_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

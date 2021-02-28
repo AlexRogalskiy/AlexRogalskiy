@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Prison director and gang leader among 25 killed in Haitian jailbreak](https://www.theguardian.com/world/2021/feb/27/prison-director-and-gang-leader-among-25-killed-in-haitian-jailbreak)
-- [Talking Horses: Young Wolf can be another big winner for the two Jonjos](https://www.theguardian.com/sport/blog/2021/feb/27/talking-horses-young-wolf-can-be-another-big-winner-for-the-two-jonjos)
-- [British and Irish Lions consider base in Jersey as contingency plan for tour](https://www.theguardian.com/sport/2021/feb/27/british-and-irish-lions-consider-base-in-jersey-as-contingency-plan-for-south-africa-tour)
-- [Biden visits disaster-hit Texas as Cruz basks in warmth of Florida right-fest](https://www.theguardian.com/us-news/2021/feb/26/ted-cruz-cpac-trump-texas-joe-biden)
-- [Sunak to use budget to start repairing UK's public finances](https://www.theguardian.com/uk-news/2021/feb/26/sunak-to-use-budget-to-start-repairing-the-uks-public-finances)
-- [Jürgen Klopp happy to do the ‘dirty work‘ to spark Liverpool revival](https://www.theguardian.com/football/2021/feb/26/liverpool-jordan-henderson-out-at-least-five-weeks-groin-surgery-jurgen-klopp)
-- [House set to approve $1.9tn Covid aid bill despite minimum wage setback](https://www.theguardian.com/us-news/2021/feb/26/joe-biden-coronavirus-stimulus-bill-aid-package)
-- [Johnson & Johnson one-shot Covid vaccine gets nod from FDA advisory panel](https://www.theguardian.com/world/2021/feb/26/fda-advisory-panel-recommends-authorizing-johnson-vaccine)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/feb/26/20-photographs-of-the-week)
-- [Biden said 'Diplomacy is back!' Then he started dropping bombs | Trita Parsi](https://www.theguardian.com/commentisfree/2021/feb/26/biden-iran-deal-diplomacy-syria)
+- ['I'm operating': doctor makes Zoom court appearance while in surgery](https://www.theguardian.com/us-news/2021/feb/28/im-operating-doctor-makes-zoom-court-appearance-while-in-surgery)
+- [Coronavirus live news: US approves Johnson & Johnson vaccine; Auckland starts second lockdown in a month](https://www.theguardian.com/world/live/2021/feb/28/coronavirus-live-news-us-approves-johnson-johnson-vaccine-auckland-starts-second-lockdown-in-a-month)
+- [Second ex-aide accuses Andrew Cuomo of sexual harassment](https://www.theguardian.com/us-news/2021/feb/28/second-ex-aide-accuses-andrew-cuomo-of-sexual-harassment)
+- [Old-school Stellantis car factories gear up for the shock of electric](https://www.theguardian.com/business/2021/feb/28/stellantis-old-school-car-factories-gear-up-for-the-shock-of-electric)
+- [‘It’s a funeral march’: French artist JR’s powerful eulogy for Australia's Murray-Darling](https://www.theguardian.com/culture/2021/feb/28/its-a-funeral-march-french-artist-jrs-powerful-homily-for-australias-murray-darling)
+- [Step up: 10 of the best knee-high boots – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/27/step-up-10-of-the-best-knee-high-boots-in-pictures)
+- [FDA approves Johnson & Johnson's single-dose coronavirus vaccine](https://www.theguardian.com/world/2021/feb/27/fda-approves-johnson-johnson-coronavirus-vaccine)
+- [BBC’s Sonja McLaughlan reveals online abuse over Owen Farrell interview](https://www.theguardian.com/sport/2021/feb/27/bbcs-sonja-mclaughlan-reveals-online-abuse-over-owen-farrell-interview)
+- [Sunak’s £5bn plan to rescue high streets from collapse](https://www.theguardian.com/politics/2021/feb/27/sunaks-5bn-plan-to-rescue-high-streets-from-collapse)
+- [Khashoggi: statement clarifying US stance on Saudi Arabia due on Monday](https://www.theguardian.com/world/2021/feb/27/dissidents-shocked-saudi-heir-avoids-sanctions-over-khashoggi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

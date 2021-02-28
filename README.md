@@ -219,10 +219,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6d&#x2F;a8&#x2F;b8&#x2F;6da8b87dc956bb24aec9f47be2a69c51.jpg" alt="Perdure is the #WordOfTheDay, but tomorrow there will be a new one. Want more? Go to Dictionary.com for example sentences, etymology, and more!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3a&#x2F;cb&#x2F;8e&#x2F;3acb8e596e47fba07aaf84f4d8df436a.jpg" alt="Cheeseparing is the Word of the Day. No, not that kind of cheese. Still have questions? Click through to learn more!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;28&#x2F;19&#x2F;f72819a8365c1587c6b89ba4bec3cc25.jpg" alt="We don&#39;t have any tricks up our sleeves, but bamboozle is the Word of the Day. Click for example sentences, word origin, and more! #Writing #Vocabulary #English" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;46&#x2F;04&#x2F;9c&#x2F;46049c66c3097616af65342f0a6ae4e7.jpg" alt="This #WordOfTheDay needs to calm down. It&#39;s frumious. Want more? Go to Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;95&#x2F;04&#x2F;f7&#x2F;9504f771d88a01aa6e2fe7c4d66a64d0.jpg" alt="Would you call yourself a polyglot? It&#39;s our #WordOfTheDay. Want example sentences? Click to learn more! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>broken clouds</i>), humidity: 87%, pressure: 1019 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
+        <b>2°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1020 (mbar), wind: /north/ 1 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>08:00 am</b> and sets at <b>18:23 pm</b>.
     </p>

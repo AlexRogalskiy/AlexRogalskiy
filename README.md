@@ -427,6 +427,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I scan for all switches on a network?](https://www.reddit.com/r/InformationTechnology/comments/luttwo/how_can_i_scan_for_all_switches_on_a_network/)
+- [How MUCH of a program gets loaded into RAM?](https://www.reddit.com/r/InformationTechnology/comments/luru4e/how_much_of_a_program_gets_loaded_into_ram/)
+- [Encontrar a una persona](https://www.reddit.com/r/InformationTechnology/comments/luclts/encontrar_a_una_persona/)
 - [Interesting looking mentorship program accepting applications](https://www.reddit.com/r/InformationTechnology/comments/ltwit0/interesting_looking_mentorship_program_accepting/)
 - [How can I send a big file via email?](https://www.reddit.com/r/InformationTechnology/comments/ltlldu/how_can_i_send_a_big_file_via_email/)
 - [Slower than expected NMVe speeds - problem?](https://www.reddit.com/r/InformationTechnology/comments/ltfnx4/slower_than_expected_nmve_speeds_problem/)
@@ -434,9 +437,6 @@
 - [Got my A+ today](https://www.reddit.com/r/InformationTechnology/comments/lt6kxg/got_my_a_today/)
 - [PC to Monitors solution](https://www.reddit.com/r/InformationTechnology/comments/lszz8k/pc_to_monitors_solution/)
 - [Knowledge Base Tool?](https://www.reddit.com/r/InformationTechnology/comments/lsufyc/knowledge_base_tool/)
-- [M.2 form factor SATA? Confused...](https://www.reddit.com/r/InformationTechnology/comments/lsqtba/m2_form_factor_sata_confused/)
-- [Help desk](https://www.reddit.com/r/InformationTechnology/comments/lsq7s1/help_desk/)
-- [What resources did you use to study for A+?](https://www.reddit.com/r/InformationTechnology/comments/lsg77o/what_resources_did_you_use_to_study_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

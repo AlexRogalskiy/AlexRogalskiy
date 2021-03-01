@@ -337,16 +337,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- ['I'm operating': doctor makes Zoom court appearance while in surgery](https://www.theguardian.com/us-news/2021/feb/28/im-operating-doctor-makes-zoom-court-appearance-while-in-surgery)
-- [Coronavirus live news: US approves Johnson & Johnson vaccine; Auckland starts second lockdown in a month](https://www.theguardian.com/world/live/2021/feb/28/coronavirus-live-news-us-approves-johnson-johnson-vaccine-auckland-starts-second-lockdown-in-a-month)
-- [Second ex-aide accuses Andrew Cuomo of sexual harassment](https://www.theguardian.com/us-news/2021/feb/28/second-ex-aide-accuses-andrew-cuomo-of-sexual-harassment)
-- [Old-school Stellantis car factories gear up for the shock of electric](https://www.theguardian.com/business/2021/feb/28/stellantis-old-school-car-factories-gear-up-for-the-shock-of-electric)
-- [‘It’s a funeral march’: French artist JR’s powerful eulogy for Australia's Murray-Darling](https://www.theguardian.com/culture/2021/feb/28/its-a-funeral-march-french-artist-jrs-powerful-homily-for-australias-murray-darling)
-- [Step up: 10 of the best knee-high boots – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/27/step-up-10-of-the-best-knee-high-boots-in-pictures)
-- [FDA approves Johnson & Johnson's single-dose coronavirus vaccine](https://www.theguardian.com/world/2021/feb/27/fda-approves-johnson-johnson-coronavirus-vaccine)
-- [BBC’s Sonja McLaughlan reveals online abuse over Owen Farrell interview](https://www.theguardian.com/sport/2021/feb/27/bbcs-sonja-mclaughlan-reveals-online-abuse-over-owen-farrell-interview)
-- [Sunak’s £5bn plan to rescue high streets from collapse](https://www.theguardian.com/politics/2021/feb/27/sunaks-5bn-plan-to-rescue-high-streets-from-collapse)
-- [Khashoggi: statement clarifying US stance on Saudi Arabia due on Monday](https://www.theguardian.com/world/2021/feb/27/dissidents-shocked-saudi-heir-avoids-sanctions-over-khashoggi)
+- [Golden Globes 2021: the winners, the speeches, the controversy – live](https://www.theguardian.com/film/live/2021/feb/28/golden-globes-2021-latest-winners-nomadland-tina-fey-amy-poehler-live-updates)
+- [Prince Harry on Oprah Winfrey: my worry of Diana history repeating](https://www.theguardian.com/uk-news/2021/mar/01/prince-harry-meghan-oprah-winfrey-interview-princess-diana)
+- [Coronavirus live news: vaccine acceptance rising in UK, US and France; South Africa eases restrictions](https://www.theguardian.com/world/live/2021/mar/01/coronavirus-live-news-vaccine-acceptance-rising-in-uk-us-and-france-south-africa-eases-restrictions)
+- [People smugglers could get life sentences under new rules, says Home Office](https://www.theguardian.com/uk-news/2021/mar/01/home-office-looking-at-tougher-penalty-of-life-sentence-for-people-smugglers)
+- [20 million people in UK have had first dose of coronavirus vaccine](https://www.theguardian.com/society/2021/feb/28/20-million-britons-have-had-first-dose-of-coronavirus-vaccine)
+- [Women earning two-thirds less than men in top finance roles – report](https://www.theguardian.com/business/2021/mar/01/women-still-earning-two-thirds-less-than-men-top-finance-roles)
+- [Supporters of detained Saudi princess call for UK to help secure release](https://www.theguardian.com/world/2021/mar/01/supporters-of-detained-saudi-princess-call-for-uk-to-help-secure-release)
+- [Uber accused of using 'loaded questions' in drivers survey](https://www.theguardian.com/technology/2021/mar/01/uber-accused-of-using-loaded-questions-in-drivers-survey)
+- [Wales bans smoking at hospitals, schools and playgrounds](https://www.theguardian.com/society/2021/mar/01/wales-bans-smoking-at-hospitals-schools-and-playgrounds)
+- [Thomasina Miers’ recipe for mussels with coconut, turmeric and jasmine rice | The simple fix](https://www.theguardian.com/food/2021/mar/01/thomasina-miers-recipe-mussels-coconut-turmeric-jasmine-rice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

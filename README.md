@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Graves_are_of_all_sizes_868.php" target="_blank"><i>Graves are of all sizes</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/The_tide_must_be_taken_when_it_comes_900.php" target="_blank"><i>The tide must be taken when it comes</i></a>
 <span> = </span>
-<span>People die at all ages; no one is too young to die.</span>
+<span>We should use all opportunities when they come, before it's too late.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

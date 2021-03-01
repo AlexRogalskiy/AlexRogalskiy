@@ -240,9 +240,30 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644300083563757569" target="_blank"><i>History of Desire</i></a></summary>
-<p>by Tony Hoagland</p><p>When you’re seventeen, and drunk<br/>on the husky, late-night flavor<br/>of your first girlfriend’s voice<br/>along the wires of the telephone<br/><br/>what else to do but steal<br/>your father’s El Dorado from the drive,<br/>and cruise out to the park on Driscoll Hill?<br/>Then climb the county water tower<br/><br/>and aerosol her name in spraycan orange<br/>a hundred feet above the town?<br/>Because only the letters of that word,<br/>DORIS, next door to yours,<br/><br/>in yard-high, iridescent script,<br/>are amplified enough to tell the world<br/>who’s playing lead guitar<br/>in the rock band of your blood.<br/><br/>You don’t consider for a moment<br/>the shock in store for you in 10 A.D.,<br/>a decade after Doris, when,<br/>out for a drive on your visit home,<br/><br/>you take the Smallville Road, look up<br/>and see RON LOVES DORIS<br/>still scorched upon the reservoir.<br/>This is how history catches up—<br/><br/>by holding still until you<br/>bump into yourself.<br/>What makes you blush, and shove<br/>the pedal of the Mustang<br/><br/>almost through the floor<br/>as if you wanted to spray gravel<br/>across the features of the past,<br/>or accelerate into oblivion?<br/><br/>Are you so out of love that you<br/>can’t move fast enough away?<br/>But if desire is acceleration,<br/>experience is circular as any<br/><br/>Indianapolis. We keep coming back<br/>to what we are—each time older,<br/>more freaked out, or less afraid.<br/>And you are older now.<br/><br/>You should stop today.<br/>In the name of Doris, stop.
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/644390685045358592" target="_blank"><i>All Watched Over by Machines of Loving Grace</i></a></summary>
+<p>by Richard Brautigan</p><p>I like to think (and
+<br/>the sooner the better!)
+<br/>of a cybernetic meadow
+<br/>where mammals and computers
+<br/>live together in mutually
+<br/>programming harmony
+<br/>like pure water
+<br/>touching clear sky. <br/></p><p>I like to think
+<br/>(right now, please!)
+<br/>of a cybernetic forest
+<br/>filled with pines and electronics
+<br/>where deer stroll peacefully
+<br/>past computers
+<br/>as if they were flowers
+<br/>with spinning blossoms. <br/></p><p>I like to think
+<br/>(it has to be!)
+<br/>of a cybernetic ecology
+<br/>where we are free of our labors
+<br/>and joined back to nature,
+<br/>returned to our mammal
+<br/>brothers and sisters,
+<br/>and all watched over
+<br/>by machines of loving grace.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/cop_741.php" target="_blank"><i>cop</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/I/itchy_feet_1423.php" target="_blank"><i>itchy feet</i></a>
 <span> = </span>
-<span>a policeman or a policewoman</span>
+<span>(in phrase <strong>to get/have itchy feet</strong>) to have a strong desire to travel or move from place to place</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

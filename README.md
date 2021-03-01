@@ -240,9 +240,30 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644300083563757569" target="_blank"><i>History of Desire</i></a></summary>
-<p>by Tony Hoagland</p><p>When you’re seventeen, and drunk<br/>on the husky, late-night flavor<br/>of your first girlfriend’s voice<br/>along the wires of the telephone<br/><br/>what else to do but steal<br/>your father’s El Dorado from the drive,<br/>and cruise out to the park on Driscoll Hill?<br/>Then climb the county water tower<br/><br/>and aerosol her name in spraycan orange<br/>a hundred feet above the town?<br/>Because only the letters of that word,<br/>DORIS, next door to yours,<br/><br/>in yard-high, iridescent script,<br/>are amplified enough to tell the world<br/>who’s playing lead guitar<br/>in the rock band of your blood.<br/><br/>You don’t consider for a moment<br/>the shock in store for you in 10 A.D.,<br/>a decade after Doris, when,<br/>out for a drive on your visit home,<br/><br/>you take the Smallville Road, look up<br/>and see RON LOVES DORIS<br/>still scorched upon the reservoir.<br/>This is how history catches up—<br/><br/>by holding still until you<br/>bump into yourself.<br/>What makes you blush, and shove<br/>the pedal of the Mustang<br/><br/>almost through the floor<br/>as if you wanted to spray gravel<br/>across the features of the past,<br/>or accelerate into oblivion?<br/><br/>Are you so out of love that you<br/>can’t move fast enough away?<br/>But if desire is acceleration,<br/>experience is circular as any<br/><br/>Indianapolis. We keep coming back<br/>to what we are—each time older,<br/>more freaked out, or less afraid.<br/>And you are older now.<br/><br/>You should stop today.<br/>In the name of Doris, stop.
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/644390685045358592" target="_blank"><i>All Watched Over by Machines of Loving Grace</i></a></summary>
+<p>by Richard Brautigan</p><p>I like to think (and
+<br/>the sooner the better!)
+<br/>of a cybernetic meadow
+<br/>where mammals and computers
+<br/>live together in mutually
+<br/>programming harmony
+<br/>like pure water
+<br/>touching clear sky. <br/></p><p>I like to think
+<br/>(right now, please!)
+<br/>of a cybernetic forest
+<br/>filled with pines and electronics
+<br/>where deer stroll peacefully
+<br/>past computers
+<br/>as if they were flowers
+<br/>with spinning blossoms. <br/></p><p>I like to think
+<br/>(it has to be!)
+<br/>of a cybernetic ecology
+<br/>where we are free of our labors
+<br/>and joined back to nature,
+<br/>returned to our mammal
+<br/>brothers and sisters,
+<br/>and all watched over
+<br/>by machines of loving grace.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +294,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>0°C (<i>clear sky</i>), humidity: 86%, pressure: 1020 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>1°C (<i>clear sky</i>), humidity: 93%, pressure: 1019 (mbar), wind: /east/ 5 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>07:57 am</b> and sets at <b>18:25 pm</b>.
     </p>
@@ -286,61 +307,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Reading: The 'Star Wars' Novels Explore a Galaxy Far, Far Away](https://www.reviewgeek.com/72182/what-were-reading-the-star-wars-novels-explore-a-galaxy-far-far-away/)
-* [Asus' New Chromebook Looks Like the Spiritual Successor to the Lenovo Duet](https://www.reviewgeek.com/72338/asus-new-chromebook-looks-like-the-spiritual-successor-to-the-lenovo-duet/)
-* [The New 'Stardew Valley' Board Game Looks Just as Delightful as the Video Game](https://www.reviewgeek.com/72340/the-new-stardew-valley-board-game-looks-just-as-delightful-as-the-video-game/)
-* [How to Automatically Share Your Instagram Stories and Posts on Facebook](https://www.howtogeek.com/711009/how-to-automatically-share-your-instagram-stories-and-posts-on-facebook/)
-* [How to Add Private Labels in Google Maps](https://www.howtogeek.com/710242/how-to-add-private-labels-in-google-maps/)
-* [David Attenborough and Dinosaurs Come to Your Living Room in this AR iPhone App](https://www.reviewgeek.com/72315/david-attenborough-and-dinosaurs-come-to-your-living-room-in-this-ar-iphone-app/)
-* [How to Enable Do Not Disturb During Workouts on Apple Watch](https://www.howtogeek.com/711255/how-to-enable-do-not-disturb-during-workouts-on-apple-watch/)
-* [How to Connect a PS4 Controller to Apple TV](https://www.howtogeek.com/710969/how-to-connect-a-ps4-controller-to-apple-tv/)
-* [What Is Girls Who Code, and Why You Should Care](https://www.reviewgeek.com/70987/what-is-girls-who-code-and-why-you-should-care/)
-* [How to Watch the 2021 Golden Globes Without Cable](https://www.howtogeek.com/714773/how-to-watch-the-2021-golden-globes-without-cable/)
+* [Animated 'Avatar: The Last Airbender' Film Puts Series Creators Back In Charge](https://www.reviewgeek.com/72345/animated-avatar-the-last-airbender-film-puts-series-creators-back-in-charge/)
+* [A 10,000 Year Old Dog Femur Reveals How Early Humans Migrated to America](https://www.reviewgeek.com/72329/a-10000-year-old-dog-femur-reveals-how-early-humans-migrated-to-america/)
+* [Disney's 'Gargoyles' Lives Again as a New Co-Op Board Game](https://www.reviewgeek.com/72328/disneys-gargoyles-lives-again-as-a-new-co-op-board-game/)
+* [How to Reset Network Settings on Android](https://www.howtogeek.com/710873/how-to-reset-network-settings-on-android/)
+* [Google TV's "Basic" Mode Will Make Your Smart TV Dumb Again](https://www.reviewgeek.com/72305/google-tvs-basic-mode-will-make-your-smart-tv-dumb-again/)
+* [How to Connect AirPods to an Apple TV](https://www.howtogeek.com/710967/how-to-connect-airpods-to-an-apple-tv/)
+* [How to Bring Back Photoshop’s Warning Dialogs](https://www.howtogeek.com/712432/how-to-bring-back-photoshops-warning-dialogs/)
+* [Meet Randonautica, an App That Drags You to Random, Sometimes Spooky Places](https://www.reviewgeek.com/71469/meet-randonautica-the-app-that-channels-your-intentions-to-show-you-weird-stuff/)
+* [How to Add a Microsoft Teams Chat Link to Your Email Signature](https://www.howtogeek.com/710663/how-to-add-a-microsoft-teams-chat-link-to-your-email-signature/)
+* [How to Switch Back to the Classic Ribbon in Microsoft Office](https://www.howtogeek.com/714701/how-to-switch-back-to-the-classic-ribbon-in-microsoft-office/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recap: Sprint #1, I have a Dream](https://blog.rhetoric.app/p/recap-sprint-1-i-have-a-dream?r=g07gu&utm_campaign=post&utm_medium=email&utm_source=hackernews)
-- [Apple gives itself modest marks for product repair potential](https://www.theregister.com/2021/02/27/apple_recycling_scores/)
-- [Ask HN: Did Mozilla get rid of the reload button in Firefox?](https://news.ycombinator.com/item?id=26290062)
-- [Nvidia Reflex SDK](https://developer.nvidia.com/reflex)
-- [Show HN: End to end TypeScript with Adonis.js and Next.js (first draft)](https://github.com/mikealche/Next-Adonis-Typescript)
-- [Logical Nullish Assignment (?=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment)
-- [The state of the Mac, with special guest John Siracusa [audio]](https://daringfireball.net/thetalkshow/2021/02/27/ep-309)
-- [India’s Impermanent Residents](https://www.ft.com/content/a0d2a69a-a96f-11e5-955c-1e1d6de94879)
-- [The Tokio Upgrade from 0.2 to 1.x](https://fly.io/blog/the-tokio-1-x-upgrade/)
-- [Ask HN: Am I blowing an acquihire offer?](https://news.ycombinator.com/item?id=26289994)
+- [The easiest way to explore and manipulate your data in your Prisma projects](https://www.prisma.io/studio)
+- [Dot-Com Survivors Have Wisdom for the GameStop Crowd](https://www.bloomberg.com/graphics/2021-opinion-personal-finance-dot-com-survivors-have-wisdom-for-gamestop-crowd)
+- [Awesome AWS Chalice - Infinitely scalable Functions-as-a-Service in Python](https://github.com/magnataurconsulting/awesome-chalice)
+- [Young Black men and teens killed by guns 20 times more than white counterparts](https://www.usatoday.com/story/news/health/2021/02/23/young-black-men-teens-made-up-more-than-third-2019-gun-homicides/4559929001/)
+- [Unhealthy Foods Aren’t Just Bad for You, They May Also Be Addictive](https://www.nytimes.com/2021/02/18/well/eat/food-addiction-fat.html)
+- [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect)
+- [SolarWinds Officials Throw Intern Under the Bus for Solarwinds123 Password Fail](https://gizmodo.com/solarwinds-officials-throw-intern-under-the-bus-for-so-1846373445/)
+- [As border skirmishing increased Chinese malware entered the Indian electric grid](https://www.nytimes.com/2021/02/28/us/politics/china-india-hacking-electricity.html)
+- [What are some other platforms you use to prepare yourself for your career?](https://news.ycombinator.com/item?id=26298927)
+- [A platform to prepare yourself for your career](https://kinobits.kinobi.asia/questions/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- ['I'm operating': doctor makes Zoom court appearance while in surgery](https://www.theguardian.com/us-news/2021/feb/28/im-operating-doctor-makes-zoom-court-appearance-while-in-surgery)
-- [Coronavirus live news: US approves Johnson & Johnson vaccine; Auckland starts second lockdown in a month](https://www.theguardian.com/world/live/2021/feb/28/coronavirus-live-news-us-approves-johnson-johnson-vaccine-auckland-starts-second-lockdown-in-a-month)
-- [Second ex-aide accuses Andrew Cuomo of sexual harassment](https://www.theguardian.com/us-news/2021/feb/28/second-ex-aide-accuses-andrew-cuomo-of-sexual-harassment)
-- [Old-school Stellantis car factories gear up for the shock of electric](https://www.theguardian.com/business/2021/feb/28/stellantis-old-school-car-factories-gear-up-for-the-shock-of-electric)
-- [‘It’s a funeral march’: French artist JR’s powerful eulogy for Australia's Murray-Darling](https://www.theguardian.com/culture/2021/feb/28/its-a-funeral-march-french-artist-jrs-powerful-homily-for-australias-murray-darling)
-- [Step up: 10 of the best knee-high boots – in pictures](https://www.theguardian.com/fashion/gallery/2021/feb/27/step-up-10-of-the-best-knee-high-boots-in-pictures)
-- [FDA approves Johnson & Johnson's single-dose coronavirus vaccine](https://www.theguardian.com/world/2021/feb/27/fda-approves-johnson-johnson-coronavirus-vaccine)
-- [BBC’s Sonja McLaughlan reveals online abuse over Owen Farrell interview](https://www.theguardian.com/sport/2021/feb/27/bbcs-sonja-mclaughlan-reveals-online-abuse-over-owen-farrell-interview)
-- [Sunak’s £5bn plan to rescue high streets from collapse](https://www.theguardian.com/politics/2021/feb/27/sunaks-5bn-plan-to-rescue-high-streets-from-collapse)
-- [Khashoggi: statement clarifying US stance on Saudi Arabia due on Monday](https://www.theguardian.com/world/2021/feb/27/dissidents-shocked-saudi-heir-avoids-sanctions-over-khashoggi)
+- [Golden Globes 2021: the winners, the speeches, the controversy – live](https://www.theguardian.com/film/live/2021/feb/28/golden-globes-2021-latest-winners-nomadland-tina-fey-amy-poehler-live-updates)
+- [Prince Harry on Oprah Winfrey: my worry of Diana history repeating](https://www.theguardian.com/uk-news/2021/mar/01/prince-harry-meghan-oprah-winfrey-interview-princess-diana)
+- [Coronavirus live news: vaccine acceptance rising in UK, US and France; South Africa eases restrictions](https://www.theguardian.com/world/live/2021/mar/01/coronavirus-live-news-vaccine-acceptance-rising-in-uk-us-and-france-south-africa-eases-restrictions)
+- [People smugglers could get life sentences under new rules, says Home Office](https://www.theguardian.com/uk-news/2021/mar/01/home-office-looking-at-tougher-penalty-of-life-sentence-for-people-smugglers)
+- [20 million people in UK have had first dose of coronavirus vaccine](https://www.theguardian.com/society/2021/feb/28/20-million-britons-have-had-first-dose-of-coronavirus-vaccine)
+- [Women earning two-thirds less than men in top finance roles – report](https://www.theguardian.com/business/2021/mar/01/women-still-earning-two-thirds-less-than-men-top-finance-roles)
+- [Supporters of detained Saudi princess call for UK to help secure release](https://www.theguardian.com/world/2021/mar/01/supporters-of-detained-saudi-princess-call-for-uk-to-help-secure-release)
+- [Uber accused of using 'loaded questions' in drivers survey](https://www.theguardian.com/technology/2021/mar/01/uber-accused-of-using-loaded-questions-in-drivers-survey)
+- [Wales bans smoking at hospitals, schools and playgrounds](https://www.theguardian.com/society/2021/mar/01/wales-bans-smoking-at-hospitals-schools-and-playgrounds)
+- [Thomasina Miers’ recipe for mussels with coconut, turmeric and jasmine rice | The simple fix](https://www.theguardian.com/food/2021/mar/01/thomasina-miers-recipe-mussels-coconut-turmeric-jasmine-rice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
-- [A 'Lamborghini' of Chariots Is Discovered at Pompeii. Archaeologists Are Wowed](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
-- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
-- [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
-- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
-- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/#/)
-- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
-- [As important as the Beetle? Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
-- [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
+- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
+- [We should pay politicians more](https://normielisation.substack.com/p/why-we-should-pay-politicians-more)
+- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
+- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
+- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
+- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
+- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
+- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
+- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
+- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,6 +427,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I scan for all switches on a network?](https://www.reddit.com/r/InformationTechnology/comments/luttwo/how_can_i_scan_for_all_switches_on_a_network/)
+- [How MUCH of a program gets loaded into RAM?](https://www.reddit.com/r/InformationTechnology/comments/luru4e/how_much_of_a_program_gets_loaded_into_ram/)
+- [Encontrar a una persona](https://www.reddit.com/r/InformationTechnology/comments/luclts/encontrar_a_una_persona/)
 - [Interesting looking mentorship program accepting applications](https://www.reddit.com/r/InformationTechnology/comments/ltwit0/interesting_looking_mentorship_program_accepting/)
 - [How can I send a big file via email?](https://www.reddit.com/r/InformationTechnology/comments/ltlldu/how_can_i_send_a_big_file_via_email/)
 - [Slower than expected NMVe speeds - problem?](https://www.reddit.com/r/InformationTechnology/comments/ltfnx4/slower_than_expected_nmve_speeds_problem/)
@@ -413,9 +437,6 @@
 - [Got my A+ today](https://www.reddit.com/r/InformationTechnology/comments/lt6kxg/got_my_a_today/)
 - [PC to Monitors solution](https://www.reddit.com/r/InformationTechnology/comments/lszz8k/pc_to_monitors_solution/)
 - [Knowledge Base Tool?](https://www.reddit.com/r/InformationTechnology/comments/lsufyc/knowledge_base_tool/)
-- [M.2 form factor SATA? Confused...](https://www.reddit.com/r/InformationTechnology/comments/lsqtba/m2_form_factor_sata_confused/)
-- [Help desk](https://www.reddit.com/r/InformationTechnology/comments/lsq7s1/help_desk/)
-- [What resources did you use to study for A+?](https://www.reddit.com/r/InformationTechnology/comments/lsg77o/what_resources_did_you_use_to_study_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

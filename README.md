@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/N/nail_down_2__1885.php" target="_blank"><i>nail down (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/invest_in_2__1757.php" target="_blank"><i>invest in (2)</i></a>
 <span> = </span>
-<span>If you nail something down, you fasten it to a surface, such as the floor, with a nail.</span>
+<span>to put your money into a company or a business venture in order to get a share of any profit it makes</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

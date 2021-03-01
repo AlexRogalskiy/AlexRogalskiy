@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Reading: The 'Star Wars' Novels Explore a Galaxy Far, Far Away](https://www.reviewgeek.com/72182/what-were-reading-the-star-wars-novels-explore-a-galaxy-far-far-away/)
-* [Asus' New Chromebook Looks Like the Spiritual Successor to the Lenovo Duet](https://www.reviewgeek.com/72338/asus-new-chromebook-looks-like-the-spiritual-successor-to-the-lenovo-duet/)
-* [The New 'Stardew Valley' Board Game Looks Just as Delightful as the Video Game](https://www.reviewgeek.com/72340/the-new-stardew-valley-board-game-looks-just-as-delightful-as-the-video-game/)
-* [How to Automatically Share Your Instagram Stories and Posts on Facebook](https://www.howtogeek.com/711009/how-to-automatically-share-your-instagram-stories-and-posts-on-facebook/)
-* [How to Add Private Labels in Google Maps](https://www.howtogeek.com/710242/how-to-add-private-labels-in-google-maps/)
-* [David Attenborough and Dinosaurs Come to Your Living Room in this AR iPhone App](https://www.reviewgeek.com/72315/david-attenborough-and-dinosaurs-come-to-your-living-room-in-this-ar-iphone-app/)
-* [How to Enable Do Not Disturb During Workouts on Apple Watch](https://www.howtogeek.com/711255/how-to-enable-do-not-disturb-during-workouts-on-apple-watch/)
-* [How to Connect a PS4 Controller to Apple TV](https://www.howtogeek.com/710969/how-to-connect-a-ps4-controller-to-apple-tv/)
-* [What Is Girls Who Code, and Why You Should Care](https://www.reviewgeek.com/70987/what-is-girls-who-code-and-why-you-should-care/)
-* [How to Watch the 2021 Golden Globes Without Cable](https://www.howtogeek.com/714773/how-to-watch-the-2021-golden-globes-without-cable/)
+* [Animated 'Avatar: The Last Airbender' Film Puts Series Creators Back In Charge](https://www.reviewgeek.com/72345/animated-avatar-the-last-airbender-film-puts-series-creators-back-in-charge/)
+* [A 10,000 Year Old Dog Femur Reveals How Early Humans Migrated to America](https://www.reviewgeek.com/72329/a-10000-year-old-dog-femur-reveals-how-early-humans-migrated-to-america/)
+* [Disney's 'Gargoyles' Lives Again as a New Co-Op Board Game](https://www.reviewgeek.com/72328/disneys-gargoyles-lives-again-as-a-new-co-op-board-game/)
+* [How to Reset Network Settings on Android](https://www.howtogeek.com/710873/how-to-reset-network-settings-on-android/)
+* [Google TV's "Basic" Mode Will Make Your Smart TV Dumb Again](https://www.reviewgeek.com/72305/google-tvs-basic-mode-will-make-your-smart-tv-dumb-again/)
+* [How to Connect AirPods to an Apple TV](https://www.howtogeek.com/710967/how-to-connect-airpods-to-an-apple-tv/)
+* [How to Bring Back Photoshop’s Warning Dialogs](https://www.howtogeek.com/712432/how-to-bring-back-photoshops-warning-dialogs/)
+* [Meet Randonautica, an App That Drags You to Random, Sometimes Spooky Places](https://www.reviewgeek.com/71469/meet-randonautica-the-app-that-channels-your-intentions-to-show-you-weird-stuff/)
+* [How to Add a Microsoft Teams Chat Link to Your Email Signature](https://www.howtogeek.com/710663/how-to-add-a-microsoft-teams-chat-link-to-your-email-signature/)
+* [How to Switch Back to the Classic Ribbon in Microsoft Office](https://www.howtogeek.com/714701/how-to-switch-back-to-the-classic-ribbon-in-microsoft-office/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -352,16 +352,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
-- [A 'Lamborghini' of Chariots Is Discovered at Pompeii. Archaeologists Are Wowed](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
-- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
-- [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
-- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
-- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/#/)
-- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
-- [As important as the Beetle? Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
-- [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
+- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
+- [We should pay politicians more](https://normielisation.substack.com/p/why-we-should-pay-politicians-more)
+- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
+- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
+- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
+- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
+- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
+- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
+- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
+- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -322,16 +322,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recap: Sprint #1, I have a Dream](https://blog.rhetoric.app/p/recap-sprint-1-i-have-a-dream?r=g07gu&utm_campaign=post&utm_medium=email&utm_source=hackernews)
-- [Apple gives itself modest marks for product repair potential](https://www.theregister.com/2021/02/27/apple_recycling_scores/)
-- [Ask HN: Did Mozilla get rid of the reload button in Firefox?](https://news.ycombinator.com/item?id=26290062)
-- [Nvidia Reflex SDK](https://developer.nvidia.com/reflex)
-- [Show HN: End to end TypeScript with Adonis.js and Next.js (first draft)](https://github.com/mikealche/Next-Adonis-Typescript)
-- [Logical Nullish Assignment (?=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment)
-- [The state of the Mac, with special guest John Siracusa [audio]](https://daringfireball.net/thetalkshow/2021/02/27/ep-309)
-- [India’s Impermanent Residents](https://www.ft.com/content/a0d2a69a-a96f-11e5-955c-1e1d6de94879)
-- [The Tokio Upgrade from 0.2 to 1.x](https://fly.io/blog/the-tokio-1-x-upgrade/)
-- [Ask HN: Am I blowing an acquihire offer?](https://news.ycombinator.com/item?id=26289994)
+- [The easiest way to explore and manipulate your data in your Prisma projects](https://www.prisma.io/studio)
+- [Dot-Com Survivors Have Wisdom for the GameStop Crowd](https://www.bloomberg.com/graphics/2021-opinion-personal-finance-dot-com-survivors-have-wisdom-for-gamestop-crowd)
+- [Awesome AWS Chalice - Infinitely scalable Functions-as-a-Service in Python](https://github.com/magnataurconsulting/awesome-chalice)
+- [Young Black men and teens killed by guns 20 times more than white counterparts](https://www.usatoday.com/story/news/health/2021/02/23/young-black-men-teens-made-up-more-than-third-2019-gun-homicides/4559929001/)
+- [Unhealthy Foods Aren’t Just Bad for You, They May Also Be Addictive](https://www.nytimes.com/2021/02/18/well/eat/food-addiction-fat.html)
+- [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect)
+- [SolarWinds Officials Throw Intern Under the Bus for Solarwinds123 Password Fail](https://gizmodo.com/solarwinds-officials-throw-intern-under-the-bus-for-so-1846373445/)
+- [As border skirmishing increased Chinese malware entered the Indian electric grid](https://www.nytimes.com/2021/02/28/us/politics/china-india-hacking-electricity.html)
+- [What are some other platforms you use to prepare yourself for your career?](https://news.ycombinator.com/item?id=26298927)
+- [A platform to prepare yourself for your career](https://kinobits.kinobi.asia/questions/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

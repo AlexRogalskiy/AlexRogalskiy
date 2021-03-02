@@ -360,6 +360,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IT's New Window of Opportunity to Tackle These Top Priorities](https://www.informationweek.com/strategic-cio/it-strategy/its-new-window-of-opportunity-to-tackle-these-top-priorities/d/d-id/1340264?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Do You Know These 4 Tricky Cloud Terms?](https://www.informationweek.com/cloud/do-you-know-these-4-tricky-cloud-terms-/a/d-id/1340250?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Should Have a Separate Training Budget](https://www.informationweek.com/strategic-cio/team-building-and-staffing/why-it-should-have-a-separate-training-budget/a/d-id/1340257?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Hybrid Workplace Is a Reality, but the Office Is Not Dead](https://www.informationweek.com/cloud/the-hybrid-workplace-is-a-reality-but-the-office-is-not-dead/a/d-id/1340235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Does DevSecOps Require Observability to Get the Job Done?](https://www.informationweek.com/devops/does-devsecops-require-observability-to-get-the-job-done/a/d-id/1340246?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,8 +370,6 @@
 - [IBM's Hernandez Discusses Future of AIOps and Measuring ROI](https://www.informationweek.com/big-data/ai-machine-learning/ibms-hernandez-discusses-future-of-aiops-and-measuring-roi/a/d-id/1340219?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Strategic Long-Term Partnerships Built to Succeed?](https://www.informationweek.com/strategic-cio/digital-business/are-your-strategic-long-term-partnerships-built-to-succeed-/a/d-id/1340196?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How AI Can Save the World, or Not](https://www.informationweek.com/big-data/ai-machine-learning/how-ai-can-save-the-world-or-not/d/d-id/1340217?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What Lawyers Want Everyone to Know About AI Liability](https://www.informationweek.com/big-data/ai-machine-learning/what-lawyers-want-everyone-to-know-about-ai-liability/a/d-id/1340211?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CIOs Face Decisions on Remote Work for Post-Pandemic Future](https://www.informationweek.com/strategic-cio/cios-face-decisions-on-remote-work-for-post-pandemic-future/a/d-id/1340193?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

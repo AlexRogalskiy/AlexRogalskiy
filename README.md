@@ -375,16 +375,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to work with static anonymous functions in C# 9](https://www.infoworld.com/article/3609850/how-to-work-with-static-anonymous-functions-in-csharp-9.html#tk.rss_all)
+- [15 ways to leave your cloud provider](https://www.infoworld.com/article/3609595/15-ways-to-leave-your-cloud-provider.html#tk.rss_all)
+- [Nominate yourself for the 2021 Enterprise Architecture Awards](https://www.infoworld.com/article/3609519/nominate-yourself-for-the-2021-enterprise-architecture-awards.html#tk.rss_all)
+- [9 fine libraries for C++ programming](https://www.infoworld.com/article/3516151/9-fine-libraries-for-c-plus-plus-programming.html#tk.rss_all)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_all)
 - [IT Salary Survey 2021: The results are in](https://www.idginsiderpro.com/article/3608511/it-salary-survey-2021-the-results-are-in.html#tk.rss_all)
 - [Does AI-driven cloud computing need ethics guidelines?](https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html#tk.rss_all)
 - [NumPy 1.20 introduces type annotations](https://www.infoworld.com/article/3609521/numpy-120-introduces-type-annotations.html#tk.rss_all)
 - [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
 - [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
-- [Python developers want static typing](https://www.infoworld.com/article/3609589/python-developers-want-static-typing.html#tk.rss_all)
-- [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_all)
-- [Is geofencing a protective bubble or a heap of trouble?](https://www.infoworld.com/article/3608418/is-geofencing-a-protective-bubble-or-a-heap-of-trouble.html#tk.rss_all)
-- [16 technology winners and losers, post-COVID](https://www.cio.com/article/3561609/covid-technology-winners-and-losers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

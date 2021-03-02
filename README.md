@@ -240,30 +240,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644390685045358592" target="_blank"><i>All Watched Over by Machines of Loving Grace</i></a></summary>
-<p>by Richard Brautigan</p><p>I like to think (and
-<br/>the sooner the better!)
-<br/>of a cybernetic meadow
-<br/>where mammals and computers
-<br/>live together in mutually
-<br/>programming harmony
-<br/>like pure water
-<br/>touching clear sky. <br/></p><p>I like to think
-<br/>(right now, please!)
-<br/>of a cybernetic forest
-<br/>filled with pines and electronics
-<br/>where deer stroll peacefully
-<br/>past computers
-<br/>as if they were flowers
-<br/>with spinning blossoms. <br/></p><p>I like to think
-<br/>(it has to be!)
-<br/>of a cybernetic ecology
-<br/>where we are free of our labors
-<br/>and joined back to nature,
-<br/>returned to our mammal
-<br/>brothers and sisters,
-<br/>and all watched over
-<br/>by machines of loving grace.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/644481268053114880" target="_blank"><i>Evening</i></a></summary>
+<p>by Anna Akhmatova</p><p>In the garden there were snatches of music<br/>Wordless, melancholy.<br/>The sharp fresh odors of the sea<br/>Rose from oysters on cracked ice.<br/><br/>He said to me,<br/>“I am faithful friend,”<br/>And touched my dress:<br/>Unlike an embrace<br/>The touch of that hand.<br/><br/>So one pets a cat or a bird<br/>So one looks<br/>at well-built circus riders.<br/>And in his tranquil eyes there was laughter<br/>Under lashes of light gold.<br/><br/>And behind the drifting smoke<br/>The voices of nostalgic violins sang<br/>“Give thanks, thanks to the Gods—<br/>For the first time<br/>You are alone<br/>with your love.”</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The easiest way to explore and manipulate your data in your Prisma projects](https://www.prisma.io/studio)
-- [Dot-Com Survivors Have Wisdom for the GameStop Crowd](https://www.bloomberg.com/graphics/2021-opinion-personal-finance-dot-com-survivors-have-wisdom-for-gamestop-crowd)
-- [Awesome AWS Chalice - Infinitely scalable Functions-as-a-Service in Python](https://github.com/magnataurconsulting/awesome-chalice)
-- [Young Black men and teens killed by guns 20 times more than white counterparts](https://www.usatoday.com/story/news/health/2021/02/23/young-black-men-teens-made-up-more-than-third-2019-gun-homicides/4559929001/)
-- [Unhealthy Foods Aren’t Just Bad for You, They May Also Be Addictive](https://www.nytimes.com/2021/02/18/well/eat/food-addiction-fat.html)
-- [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect)
-- [SolarWinds Officials Throw Intern Under the Bus for Solarwinds123 Password Fail](https://gizmodo.com/solarwinds-officials-throw-intern-under-the-bus-for-so-1846373445/)
-- [As border skirmishing increased Chinese malware entered the Indian electric grid](https://www.nytimes.com/2021/02/28/us/politics/china-india-hacking-electricity.html)
-- [What are some other platforms you use to prepare yourself for your career?](https://news.ycombinator.com/item?id=26298927)
-- [A platform to prepare yourself for your career](https://kinobits.kinobi.asia/questions/)
+- [Hiring a Remote Engineering Manager at Icebreaker.video](https://icebreaker-video.breezy.hr/p/02a277355f67)
+- [How to Make a Simple Looping Background Color Animation with CSS – Techstacker](https://techstacker.com/how-to-loop-background-color-animation-css/)
+- [Literate: A Flexible Literate Programming System](https://zyedidia.github.io/literate/index.html)
+- [Amazon-Owned Twitch Bans Amazon’s Union-Busting Ads](https://www.vice.com/en/article/dy8qza/amazon-owned-twitch-bans-amazons-union-busting-ads)
+- [Venom: A complete JavaScript library for WhatsApp. 100% open source](https://github.com/orkestral/venom)
+- [Activists Are Using Snail Mail to Take on Greedy Landlords](https://www.vice.com/en/article/z3v9m8/activists-are-using-snail-mail-to-take-on-greedy-landlords)
+- [A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud](https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud)
+- [Amazon worker sues company, claiming race and gender bias in corporate hires](https://finance.yahoo.com/news/amazon-worker-sues-company-claiming-000540698.html)
+- [The ‘Mona Lisa’ of Ancient Egyptian Art Depicts Extinct Goose](https://www.forbes.com/sites/grrlscientist/2021/02/28/the-mona-lisa-of-ancient-egyptian-art-depicts-extinct-goose/)
+- [Great Teams Break the “Rules” All the Time](https://cutle.fish/blog/breaking-the-rules/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

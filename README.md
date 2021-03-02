@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Structures/under_lock_and_key_494.php" target="_blank"><i>under lock and key</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Law/mend_your_ways_324.php" target="_blank"><i>mend your ways</i></a>
 <span> = </span>
-<span>If something is under lock and key, it is kept in a very secure place.</span>
+<span>If you mend your ways, you improve your behaviour and stop doing things that cause trouble.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

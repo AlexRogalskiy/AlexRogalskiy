@@ -390,16 +390,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Digital secretary Dowden outlines UK post-Brexit data approach](https://www.computerweekly.com/news/252497074/Digital-secretary-Dowden-outlines-UK-post-Brexit-data-approach)
+- [Covid accelerates Bradford University remote working project](https://www.computerweekly.com/news/252497073/Covid-accelerates-Bradford-University-remote-working-project)
+- [What it means to be born digital](https://www.computerweekly.com/news/252496622/What-it-means-to-be-born-digital)
+- [Budget 2021: Putting tech at the core of the plan for growth](https://www.computerweekly.com/opinion/Budget-2021-Putting-tech-at-the-core-of-the-plan-for-growth)
+- [IR35 private sector reforms: Royal Mail contractors ‘frustrated’ by tax status test regime](https://www.computerweekly.com/news/252497053/IR35-private-sector-reforms-Royal-Mail-contractors-frustrated-by-tax-status-test-regime)
+- [The driving force behind the EU colocation market’s climate-neutral push](https://www.computerweekly.com/feature/The-driving-force-behind-the-EU-colocation-markets-climate-neutral-push)
 - [On digital identity, the government gets it wrong again](https://www.computerweekly.com/opinion/On-digital-identity-the-government-gets-it-wrong-again)
 - [Cyber extortionist threatened to bomb NHS targets](https://www.computerweekly.com/news/252497011/Cyber-extortionist-threatened-to-bomb-NHS-targets)
 - [DCMS gives tablet devices to people with learning disabilities](https://www.computerweekly.com/news/252497010/DCMS-gives-tablet-devices-to-people-with-learning-disabilities)
 - [IR35 private sector reforms: Argos to offshore work of digital team in Milton Keynes to Mumbai](https://www.computerweekly.com/news/252497005/IR35-private-sector-reforms-Argos-to-offshore-work-of-digital-team-in-Milton-Keynes-to-Mubai)
-- [Dell bets on continued home working to drive PC demand](https://www.computerweekly.com/news/252496992/Dell-bets-on-continued-home-working-to-drive-PC-demand)
-- [It’s now or never for UK fintech, government told](https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told)
-- [Nordic startups strive to fuel international e-commerce transformation](https://www.computerweekly.com/news/252496921/Nordic-startups-strive-to-fuel-international-e-commerce-transformation)
-- [Amsterdam to open environmental talks with datacentres](https://www.computerweekly.com/news/252496917/Amsterdam-to-open-environmental-talks-with-datacentres)
-- [Palantir once more in sights of civil libertarians over NHS Covid data store](https://www.computerweekly.com/news/252496953/Palantir-once-more-in-sights-of-civil-libertarians-over-NHS-Covid-data-store)
-- [NCSC Cyber Action Plan emphasises SME security](https://www.computerweekly.com/news/252496935/NCSC-Cyber-Action-Plan-emphasises-SME-security)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

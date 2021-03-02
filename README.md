@@ -330,16 +330,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
-- [We should pay politicians more](https://normielisation.substack.com/p/why-we-should-pay-politicians-more)
-- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
-- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
-- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
-- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
-- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
-- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
-- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
-- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
+- [Show HN: Fast Rolling Quantiles for Python](https://github.com/marmarelis/rolling-quantiles)
+- [Laylo Is Hiring a Senior Front End](https://news.ycombinator.com/item?id=26310633)
+- [WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux](https://github.com/nullpo-head/WSL-Hello-sudo)
+- [U.S. asks Google for detailed search data in antitrust case](https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497)
+- [Compass S-1](https://www.sec.gov/Archives/edgar/data/0001563190/000119312521063859/d36119ds1.htm)
+- [Peer-to-Peer Databases for the Decentralized Web](https://orbitdb.org/)
+- [Chrome does not respect autocomplete=off (2018)](https://bugs.chromium.org/p/chromium/issues/detail?id=914451)
+- [Splitting the Ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split)
+- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

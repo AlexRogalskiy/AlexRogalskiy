@@ -315,16 +315,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Golden Globes 2021: the winners, the speeches, the controversy – live](https://www.theguardian.com/film/live/2021/feb/28/golden-globes-2021-latest-winners-nomadland-tina-fey-amy-poehler-live-updates)
-- [Prince Harry on Oprah Winfrey: my worry of Diana history repeating](https://www.theguardian.com/uk-news/2021/mar/01/prince-harry-meghan-oprah-winfrey-interview-princess-diana)
-- [Coronavirus live news: vaccine acceptance rising in UK, US and France; South Africa eases restrictions](https://www.theguardian.com/world/live/2021/mar/01/coronavirus-live-news-vaccine-acceptance-rising-in-uk-us-and-france-south-africa-eases-restrictions)
-- [People smugglers could get life sentences under new rules, says Home Office](https://www.theguardian.com/uk-news/2021/mar/01/home-office-looking-at-tougher-penalty-of-life-sentence-for-people-smugglers)
-- [20 million people in UK have had first dose of coronavirus vaccine](https://www.theguardian.com/society/2021/feb/28/20-million-britons-have-had-first-dose-of-coronavirus-vaccine)
-- [Women earning two-thirds less than men in top finance roles – report](https://www.theguardian.com/business/2021/mar/01/women-still-earning-two-thirds-less-than-men-top-finance-roles)
-- [Supporters of detained Saudi princess call for UK to help secure release](https://www.theguardian.com/world/2021/mar/01/supporters-of-detained-saudi-princess-call-for-uk-to-help-secure-release)
-- [Uber accused of using 'loaded questions' in drivers survey](https://www.theguardian.com/technology/2021/mar/01/uber-accused-of-using-loaded-questions-in-drivers-survey)
-- [Wales bans smoking at hospitals, schools and playgrounds](https://www.theguardian.com/society/2021/mar/01/wales-bans-smoking-at-hospitals-schools-and-playgrounds)
-- [Thomasina Miers’ recipe for mussels with coconut, turmeric and jasmine rice | The simple fix](https://www.theguardian.com/food/2021/mar/01/thomasina-miers-recipe-mussels-coconut-turmeric-jasmine-rice)
+- [Coronavirus live news: WHO says Covid won't be over this year; China aims to vaccinate 40% of population by June](https://www.theguardian.com/world/live/2021/mar/02/coronavirus-live-news-who-says-covid-wont-be-over-this-year-france-and-germany-fight-astrazeneca-concerns)
+- [Johnson trying to set up charity that could fund No 11 flat revamp](https://www.theguardian.com/politics/2021/mar/02/johnson-trying-to-set-up-charity-that-could-fund-downing-street-flat-revamp)
+- [City firms made plans in Brexit run-up to move assets worth £100bn to EU – survey](https://www.theguardian.com/business/2021/mar/02/city-firms-made-plans-in-brexit-run-up-to-move-assets-worth-100bn-to-eu-survey)
+- [Plug-in hybrid cars burn more fuel than tests record, says Which?](https://www.theguardian.com/business/2021/mar/02/plug-in-hybrid-cars-burn-more-fuel-than-tests-record-says-which)
+- [UK urged to create green apprenticeships to help Covid recovery](https://www.theguardian.com/environment/2021/mar/02/uk-urged-to-create-green-apprenticeships-to-help-covid-recovery)
+- [Drift Away review – fatal error leaves cop all at sea](https://www.theguardian.com/film/2021/mar/02/drift-away-review-fatal-error-leaves-cop-all-at-sea)
+- [Boris Johnson pledges £2.8m towards British and Irish bid for 2030 World Cup](https://www.theguardian.com/football/2021/mar/02/boris-johnson-pledges-28m-towards-british-and-irish-bid-for-2030-world-cup)
+- [Food website that 'fixed' blogger recipes removed after backlash](https://www.theguardian.com/media/2021/mar/01/food-website-that-fixed-blogger-recipes-removed-after-backlash)
+- [Australia's summer the wettest in four years amid cooling La Niña](https://www.theguardian.com/australia-news/2021/mar/02/australia-weather-summer-wettest-four-years-cooling-la-nina)
+- [US refuses to say whether crown prince one of 76 Saudis hit by visa ban](https://www.theguardian.com/us-news/2021/mar/01/us-crown-prince-mohammed-bin-salman-visa-ban-khashoggi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

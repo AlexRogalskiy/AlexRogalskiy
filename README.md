@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/I/itchy_feet_1423.php" target="_blank"><i>itchy feet</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_5/wanker_1248.php" target="_blank"><i>wanker</i></a>
 <span> = </span>
-<span>(in phrase <strong>to get/have itchy feet</strong>) to have a strong desire to travel or move from place to place</span>
+<span>an arrogant or pretentious person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

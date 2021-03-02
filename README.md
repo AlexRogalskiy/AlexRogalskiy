@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/The_tide_must_be_taken_when_it_comes_900.php" target="_blank"><i>The tide must be taken when it comes</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Out_of_debt_out_of_danger_853.php" target="_blank"><i>Out of debt, out of danger</i></a>
 <span> = </span>
-<span>We should use all opportunities when they come, before it's too late.</span>
+<span>When we no longer owe money to anyone, we are safe and secure. The implication is that it is dangerous to owe anyone.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

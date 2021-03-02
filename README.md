@@ -345,6 +345,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple on track for 3nm silicon iPhones and more in 2022](https://www.computerworld.com/article/3609778/apple-on-track-for-3nm-silicon-iphones-and-more-in-2022.html#tk.rss_all)
+- [3 next-level note-taking apps that'll change the way you work](https://www.computerworld.com/article/3608670/3-next-level-note-taking-apps-thatll-change-the-way-you-work.html#tk.rss_all)
 - [Apple's indoor maps format is now a standard; here's why that matters](https://www.computerworld.com/article/3609852/apples-indoor-maps-format-is-now-a-standard-heres-why-that-matters.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [The Poly Studio P15: Searching for a better home videoconferencing answer](https://www.computerworld.com/article/3609868/the-poly-studio-p15-searching-for-a-better-home-videoconferencing-answer.html#tk.rss_all)
@@ -353,8 +355,6 @@
 - [Podcast: 30K Macs infected with "Silver Sparrow" virus; M1 Mac SSD health](https://www.computerworld.com/article/3609611/30k-macs-infected-with-silver-sparrow-virus-m1-mac-ssd-health.html#tk.rss_all)
 - [Android 12 and the big deal with little touches](https://www.computerworld.com/article/3608956/android-12-little-touches.html#tk.rss_all)
 - [Driven by pandemic, the US enters the world of Apple Pay](https://www.computerworld.com/article/3609452/driven-by-pandemic-the-us-enters-the-world-of-apple-pay.html#tk.rss_all)
-- [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
-- [Microsoft to cut perpetual Office support by 50%, raise price by 10%](https://www.computerworld.com/article/3609668/microsoft-to-cut-perpetual-office-support-by-50-raise-price-by-10.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -307,16 +307,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Animated 'Avatar: The Last Airbender' Film Puts Series Creators Back In Charge](https://www.reviewgeek.com/72345/animated-avatar-the-last-airbender-film-puts-series-creators-back-in-charge/)
-* [A 10,000 Year Old Dog Femur Reveals How Early Humans Migrated to America](https://www.reviewgeek.com/72329/a-10000-year-old-dog-femur-reveals-how-early-humans-migrated-to-america/)
-* [Disney's 'Gargoyles' Lives Again as a New Co-Op Board Game](https://www.reviewgeek.com/72328/disneys-gargoyles-lives-again-as-a-new-co-op-board-game/)
-* [How to Reset Network Settings on Android](https://www.howtogeek.com/710873/how-to-reset-network-settings-on-android/)
-* [Google TV's "Basic" Mode Will Make Your Smart TV Dumb Again](https://www.reviewgeek.com/72305/google-tvs-basic-mode-will-make-your-smart-tv-dumb-again/)
-* [How to Connect AirPods to an Apple TV](https://www.howtogeek.com/710967/how-to-connect-airpods-to-an-apple-tv/)
-* [How to Bring Back Photoshop’s Warning Dialogs](https://www.howtogeek.com/712432/how-to-bring-back-photoshops-warning-dialogs/)
-* [Meet Randonautica, an App That Drags You to Random, Sometimes Spooky Places](https://www.reviewgeek.com/71469/meet-randonautica-the-app-that-channels-your-intentions-to-show-you-weird-stuff/)
-* [How to Add a Microsoft Teams Chat Link to Your Email Signature](https://www.howtogeek.com/710663/how-to-add-a-microsoft-teams-chat-link-to-your-email-signature/)
-* [How to Switch Back to the Classic Ribbon in Microsoft Office](https://www.howtogeek.com/714701/how-to-switch-back-to-the-classic-ribbon-in-microsoft-office/)
+* [The Google Pixel Recorder App Can Now Back Up Audio to the Cloud for Sharing](https://www.reviewgeek.com/72499/the-google-pixel-recorder-app-can-now-backup-audio-to-the-cloud-for-sharing/)
+* ['Star Trek: Prodigy' Will Beam to Paramount+ Before Nickelodeon](https://www.reviewgeek.com/72482/star-trek-prodigy-will-beam-to-paramount-before-nickelodeon/)
+* ["Deep Nostalgia" AI Animates Your Old Family Portraits, 'Harry Potter' Style](https://www.reviewgeek.com/72455/deep-nostalgia-ai-animates-your-old-family-portraits-harry-potter-style/)
+* [Walmart's 2-Hour Delivery No Longer Requires a $35 Minimum](https://www.reviewgeek.com/72479/walmarts-2-hour-deliver-no-longer-requires-a-35-minimum/)
+* [Some SmartThings Smart Home Hubs Will Stop Working on June 30, 2021](https://www.reviewgeek.com/72456/some-smartthings-smart-home-hubs-will-stop-working-on-june-30-2021/)
+* [CloudSavvy IT is Looking for New Writers](https://www.cloudsavvyit.com/8107/cloudsavvy-it-is-looking-for-new-writers/)
+* [How to Use Google Assistant Without Unlocking Your Android Phone](https://www.howtogeek.com/715841/how-to-use-google-assistant-without-unlocking-your-android-phone/)
+* [How to Change the Default Search Engine on Android](https://www.howtogeek.com/710307/how-to-change-the-default-search-engine-on-android/)
+* [How to Link or Embed a PowerPoint Slide in a Word Document](https://www.howtogeek.com/709754/how-to-link-or-embed-a-powerpoint-slide-in-a-word-document/)
+* [How to Turn off an Apple Watch](https://www.howtogeek.com/713539/how-to-turn-off-an-apple-watch/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

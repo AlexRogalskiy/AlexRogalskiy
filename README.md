@@ -405,6 +405,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help!!!!!](https://www.reddit.com/r/InformationTechnology/comments/lvr01s/help/)
+- [in a public-private key encryption scheme, why don't attackers just reverse engineer the public key](https://www.reddit.com/r/InformationTechnology/comments/lvcu2o/in_a_publicprivate_key_encryption_scheme_why_dont/)
+- [Recommendation on network setup for new home](https://www.reddit.com/r/InformationTechnology/comments/luzw97/recommendation_on_network_setup_for_new_home/)
 - [How can I scan for all switches on a network?](https://www.reddit.com/r/InformationTechnology/comments/luttwo/how_can_i_scan_for_all_switches_on_a_network/)
 - [How MUCH of a program gets loaded into RAM?](https://www.reddit.com/r/InformationTechnology/comments/luru4e/how_much_of_a_program_gets_loaded_into_ram/)
 - [Encontrar a una persona](https://www.reddit.com/r/InformationTechnology/comments/luclts/encontrar_a_una_persona/)
@@ -412,9 +415,6 @@
 - [How can I send a big file via email?](https://www.reddit.com/r/InformationTechnology/comments/ltlldu/how_can_i_send_a_big_file_via_email/)
 - [Slower than expected NMVe speeds - problem?](https://www.reddit.com/r/InformationTechnology/comments/ltfnx4/slower_than_expected_nmve_speeds_problem/)
 - [Want to work in IT but I am conflicted.](https://www.reddit.com/r/InformationTechnology/comments/ltabm3/want_to_work_in_it_but_i_am_conflicted/)
-- [Got my A+ today](https://www.reddit.com/r/InformationTechnology/comments/lt6kxg/got_my_a_today/)
-- [PC to Monitors solution](https://www.reddit.com/r/InformationTechnology/comments/lszz8k/pc_to_monitors_solution/)
-- [Knowledge Base Tool?](https://www.reddit.com/r/InformationTechnology/comments/lsufyc/knowledge_base_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

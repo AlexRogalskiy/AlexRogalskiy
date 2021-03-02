@@ -420,16 +420,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Supercluster cements global leadership in 5th Machine Age with ground-breaking protein production addressing global food insecurity](https://www.itworldcanada.com/blog/supercluster-cements-global-leadership-in-5th-machine-age-with-ground-breaking-protein-production-addressing-global-food-insecurity/442459)
+- [Fraud Prevention Month: Fight business email fraud](https://www.itworldcanada.com/article/fraud-prevention-month-fight-business-email-fraud/443087)
+- [Max level vulnerability found in Logix PLCs](https://www.itworldcanada.com/article/max-level-vulnerability-found-in-logix-plcs/443152)
+- [Citrix completes acquisition of Wrike](https://www.itworldcanada.com/article/citrix-completes-acquisition-of-wrike/443172)
+- [Understanding Android Malware Families (UAMF) – The Trojan: An impersonator in the background (Article 2)](https://www.itworldcanada.com/blog/understanding-android-malware-families-uamf-the-trojan-an-impersonator-in-the-background-article-2/443083)
+- [Cyber Security Today – Fraud Prevention Month starts, cyber incident costs hospital chain $67 million and problems with COVID apps](https://www.itworldcanada.com/article/cyber-security-today-fraud-prevention-month-starts-cyber-incident-costs-hospital-chain-67-million-and-problems-with-covid-apps/443010)
+- [Hashtag Trending, March 1, 2021 – France’s new ‘repairability’ index; Zoom call during surgery; Blame the interns, says former CEO](https://www.itworldcanada.com/article/hashtag-trending-march-1-2021-frances-new-repairability-index-zoom-call-during-surgery-more-tips-to-fight-zoom-fatigue/443007)
+- [Samantha Liscio appointed as CITO at NIHR Clinical Research Network](https://www.itworldcanada.com/article/samantha-liscio-appointed-as-cito-at-nihr-clinical-research-network/443133)
 - [VMware’s code-execution flaw has a severity rating of 9.8 out of 10](https://www.itworldcanada.com/article/vmwares-code-execution-flaw-has-a-severity-rating-of-9-8-out-of-10/442986)
 - [Layers the best cybersecurity approach in 2021](https://www.itworldcanada.com/article/layers-the-best-cybersecurity-approach-in-2021/442990)
-- [A one-on-one with a recent business technology management program graduate](https://www.itworldcanada.com/blog/a-one-on-one-with-a-recent-business-technology-management-program-graduate/442974)
-- [Cyber Security Today – Week in Review for February 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-26-2021/442953)
-- [A startup’s answer to market research in a virtual world](https://www.itworldcanada.com/slideshow/a-startups-answer-to-market-research-in-a-virtual-world)
-- [Ransomware the top attack type in Canada last year: IBM report](https://www.itworldcanada.com/article/ransomware-the-top-attack-type-in-canada-last-year-ibm-report/442909)
-- [Five nations issue global alert on vulnerabilities in Accellion FTA application](https://www.itworldcanada.com/article/five-nations-issue-global-alert-on-vulnerabilities-in-accellion-fta-application/442913)
-- [Cyber Security Today, Feb. 26, 2021 – Reports on vulnerabilities, and a warning to the defence sector](https://www.itworldcanada.com/article/cyber-security-today-feb-26-2021-conflicting-reports-on-vulnerabilities-and-a-warning-to-the-defence-sector/442947)
-- [Hashtag Trending, Feb. 26, 2021 – MapleSEC recap; Supreme Court of Canada says no to pricing appeal; Biden signs exec order to address chip shortage](https://www.itworldcanada.com/article/hashtag-trending-feb-26-2021-maplesec-recap-supreme-court-of-canada-says-no-to-pricing-appeal-biden-signs-exec-order-to-address-chip-shortage/442954)
-- [Mike Sharun announces retirement from Dell](https://www.itworldcanada.com/article/mike-sharun-announces-retirement-from-dell/442936)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

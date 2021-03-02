@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/invest_in_2__1757.php" target="_blank"><i>invest in (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/get_3/get_in_3__1849.php" target="_blank"><i>get in (3)</i></a>
 <span> = </span>
-<span>to put your money into a company or a business venture in order to get a share of any profit it makes</span>
+<span>to submit or send something like a document, a form or a report</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -390,16 +390,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Digital secretary Dowden outlines UK post-Brexit data approach](https://www.computerweekly.com/news/252497074/Digital-secretary-Dowden-outlines-UK-post-Brexit-data-approach)
-- [Covid accelerates Bradford University remote working project](https://www.computerweekly.com/news/252497073/Covid-accelerates-Bradford-University-remote-working-project)
-- [What it means to be born digital](https://www.computerweekly.com/news/252496622/What-it-means-to-be-born-digital)
-- [Budget 2021: Putting tech at the core of the plan for growth](https://www.computerweekly.com/opinion/Budget-2021-Putting-tech-at-the-core-of-the-plan-for-growth)
-- [IR35 private sector reforms: Royal Mail contractors ‘frustrated’ by tax status test regime](https://www.computerweekly.com/news/252497053/IR35-private-sector-reforms-Royal-Mail-contractors-frustrated-by-tax-status-test-regime)
-- [The driving force behind the EU colocation market’s climate-neutral push](https://www.computerweekly.com/feature/The-driving-force-behind-the-EU-colocation-markets-climate-neutral-push)
-- [On digital identity, the government gets it wrong again](https://www.computerweekly.com/opinion/On-digital-identity-the-government-gets-it-wrong-again)
-- [Cyber extortionist threatened to bomb NHS targets](https://www.computerweekly.com/news/252497011/Cyber-extortionist-threatened-to-bomb-NHS-targets)
-- [DCMS gives tablet devices to people with learning disabilities](https://www.computerweekly.com/news/252497010/DCMS-gives-tablet-devices-to-people-with-learning-disabilities)
-- [IR35 private sector reforms: Argos to offshore work of digital team in Milton Keynes to Mumbai](https://www.computerweekly.com/news/252497005/IR35-private-sector-reforms-Argos-to-offshore-work-of-digital-team-in-Milton-Keynes-to-Mubai)
+- [PGA Tour teams up with AWS to improve fan engagement during tournaments](https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments)
+- [How Aberdeenshire Council is using Cherwell’s ITSM platform](https://www.computerweekly.com/news/252496936/How-Aberdeenshire-council-using-Cherwells-ITSM-platform)
+- [Google prepares for hybrid return to office work](https://www.computerweekly.com/news/252497139/Google-prepares-for-hybrid-return-to-office-work)
+- [Covid-19 and the art and science of data visualisation](https://www.computerweekly.com/feature/Covid-19-and-the-art-and-science-of-data-visualisation)
+- [EU seeking pan-European Covid-19 passport solution](https://www.computerweekly.com/news/252497151/EU-seeking-pan-European-Covid-19-passport-solution)
+- [Goldman Sachs CEO comments highlight need for home working balance](https://www.computerweekly.com/news/252497150/Goldman-Sachs-CEO-comments-highlight-need-for-home-working-balance)
+- [More than 20% of tech employees hesitant to speak about diversity](https://www.computerweekly.com/news/252497146/More-than-20-of-tech-employees-hesitant-to-speak-about-diversity)
+- [CBRE predicts 2021 will be record-breaking year for European colocation demand](https://www.computerweekly.com/news/252497134/CBRE-predicts-2021-will-be-record-breaking-year-for-European-colocation-demand)
+- [HSBC offers to help customers transitioning to digital banking as branch closures continue](https://www.computerweekly.com/news/252497137/HSBC-offers-to-help-customers-transitioning-to-digital-banking-as-branch-closures-continue)
+- [FINN completes Covid-delayed migration to the cloud](https://www.computerweekly.com/news/252497131/FINN-completes-Covid-delayed-migration-to-the-cloud)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

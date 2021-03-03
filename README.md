@@ -375,16 +375,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft Mesh brings mixed-reality apps to Azure](https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html#tk.rss_all)
+- [IT leaders see open source as higher quality](https://www.infoworld.com/article/3609902/it-leaders-see-open-source-as-higher-quality.html#tk.rss_all)
+- [2021’s Ignite shows off new Cosmos DB features](https://www.infoworld.com/article/3609901/2021s-ignite-shows-off-new-cosmos-db-features.html#tk.rss_all)
+- [OpenStreetMap just turned 100 million](https://www.infoworld.com/article/3609894/openstreetmap-just-turned-100-million.html#tk.rss_all)
+- [One application across multiple clouds? 3 big problems](https://www.infoworld.com/article/3609777/one-application-across-multiple-clouds-3-big-problems.html#tk.rss_all)
+- [6 projects that push Python performance](https://www.infoworld.com/article/2880767/6-projects-that-push-python-performance.html#tk.rss_all)
 - [How to work with static anonymous functions in C# 9](https://www.infoworld.com/article/3609850/how-to-work-with-static-anonymous-functions-in-csharp-9.html#tk.rss_all)
 - [15 ways to leave your cloud provider](https://www.infoworld.com/article/3609595/15-ways-to-leave-your-cloud-provider.html#tk.rss_all)
 - [Nominate yourself for the 2021 Enterprise Architecture Awards](https://www.infoworld.com/article/3609519/nominate-yourself-for-the-2021-enterprise-architecture-awards.html#tk.rss_all)
 - [9 fine libraries for C++ programming](https://www.infoworld.com/article/3516151/9-fine-libraries-for-c-plus-plus-programming.html#tk.rss_all)
-- [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_all)
-- [IT Salary Survey 2021: The results are in](https://www.idginsiderpro.com/article/3608511/it-salary-survey-2021-the-results-are-in.html#tk.rss_all)
-- [Does AI-driven cloud computing need ethics guidelines?](https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html#tk.rss_all)
-- [NumPy 1.20 introduces type annotations](https://www.infoworld.com/article/3609521/numpy-120-introduces-type-annotations.html#tk.rss_all)
-- [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
-- [IT Salary Survey 2021: Security and cloud computing certifications on the up](https://www.idginsiderpro.com/article/3608510/it-salary-survey-2021-security-and-cloud-computing-certifications-on-the-up.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -360,6 +360,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Value Stream Management: Fact or Fiction?](https://www.informationweek.com/strategic-cio/enterprise-agility/value-stream-management-fact-or-fiction/a/d-id/1340280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Vaccine Passports Pave the Road to the New Normal](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/vaccine-passports-pave-the-road-to-the-new-normal-/a/d-id/1340275?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT's New Window of Opportunity to Tackle These Top Priorities](https://www.informationweek.com/strategic-cio/it-strategy/its-new-window-of-opportunity-to-tackle-these-top-priorities/d/d-id/1340264?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Do You Know These 4 Tricky Cloud Terms?](https://www.informationweek.com/cloud/do-you-know-these-4-tricky-cloud-terms-/a/d-id/1340250?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Should Have a Separate Training Budget](https://www.informationweek.com/strategic-cio/team-building-and-staffing/why-it-should-have-a-separate-training-budget/a/d-id/1340257?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,8 +370,6 @@
 - [Why 2021 May Turn Out to be a Great Year for Tech Startups](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/why-2021-may-turn-out-to-be-a-great-year-for-tech-startups/a/d-id/1340227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Reimagining Formula 1 Manufacturing to Build a Respiratory Device](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/reimagining-formula-1-manufacturing-to-build-a-respiratory-device/a/d-id/1340210?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IBM's Hernandez Discusses Future of AIOps and Measuring ROI](https://www.informationweek.com/big-data/ai-machine-learning/ibms-hernandez-discusses-future-of-aiops-and-measuring-roi/a/d-id/1340219?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Are Your Strategic Long-Term Partnerships Built to Succeed?](https://www.informationweek.com/strategic-cio/digital-business/are-your-strategic-long-term-partnerships-built-to-succeed-/a/d-id/1340196?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How AI Can Save the World, or Not](https://www.informationweek.com/big-data/ai-machine-learning/how-ai-can-save-the-world-or-not/d/d-id/1340217?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -345,16 +345,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Enterprise collaboration enters the innovation fast lane](https://www.computerworld.com/article/3609603/enterprise-collaboration-enters-the-innovation-fast-lane.html#tk.rss_all)
+- [3 Android 12 features you can bring to any phone today](https://www.computerworld.com/article/3609897/android-12-features.html#tk.rss_all)
+- [Cisco continues to overhaul Webex, now with real-time language transcription](https://www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Google Workspace targets front-line workers with new tier](https://www.computerworld.com/article/3609839/google-workspace-targets-front-line-workers-with-new-tier.html#tk.rss_all)
+- [What's in the latest Firefox upgrade? Proliferating picture-in-picture, even more anti-tracking](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-upgrade-proliferating-picture-in-picture-even-more-anti-tracking.html#tk.rss_all)
 - [Apple on track for 3nm silicon iPhones and more in 2022](https://www.computerworld.com/article/3609778/apple-on-track-for-3nm-silicon-iphones-and-more-in-2022.html#tk.rss_all)
 - [3 next-level note-taking apps that'll change the way you work](https://www.computerworld.com/article/3608670/3-next-level-note-taking-apps-thatll-change-the-way-you-work.html#tk.rss_all)
 - [Apple's indoor maps format is now a standard; here's why that matters](https://www.computerworld.com/article/3609852/apples-indoor-maps-format-is-now-a-standard-heres-why-that-matters.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [The Poly Studio P15: Searching for a better home videoconferencing answer](https://www.computerworld.com/article/3609868/the-poly-studio-p15-searching-for-a-better-home-videoconferencing-answer.html#tk.rss_all)
-- [IT Salary Survey 2021: The results are in](https://www.idginsiderpro.com/article/3608511/it-salary-survey-2021-the-results-are-in.html#tk.rss_all)
-- [Forget macOS — it's Chrome OS vs. Windows for desktop domination](https://www.computerworld.com/article/3608571/forget-macos-its-chrome-os-vs-windows-for-desktop-domination.html#tk.rss_all)
-- [Podcast: 30K Macs infected with "Silver Sparrow" virus; M1 Mac SSD health](https://www.computerworld.com/article/3609611/30k-macs-infected-with-silver-sparrow-virus-m1-mac-ssd-health.html#tk.rss_all)
-- [Android 12 and the big deal with little touches](https://www.computerworld.com/article/3608956/android-12-little-touches.html#tk.rss_all)
-- [Driven by pandemic, the US enters the world of Apple Pay](https://www.computerworld.com/article/3609452/driven-by-pandemic-the-us-enters-the-world-of-apple-pay.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

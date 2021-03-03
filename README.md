@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hiring a Remote Engineering Manager at Icebreaker.video](https://icebreaker-video.breezy.hr/p/02a277355f67)
-- [How to Make a Simple Looping Background Color Animation with CSS – Techstacker](https://techstacker.com/how-to-loop-background-color-animation-css/)
-- [Literate: A Flexible Literate Programming System](https://zyedidia.github.io/literate/index.html)
-- [Amazon-Owned Twitch Bans Amazon’s Union-Busting Ads](https://www.vice.com/en/article/dy8qza/amazon-owned-twitch-bans-amazons-union-busting-ads)
-- [Venom: A complete JavaScript library for WhatsApp. 100% open source](https://github.com/orkestral/venom)
-- [Activists Are Using Snail Mail to Take on Greedy Landlords](https://www.vice.com/en/article/z3v9m8/activists-are-using-snail-mail-to-take-on-greedy-landlords)
-- [A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud](https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud)
-- [Amazon worker sues company, claiming race and gender bias in corporate hires](https://finance.yahoo.com/news/amazon-worker-sues-company-claiming-000540698.html)
-- [The ‘Mona Lisa’ of Ancient Egyptian Art Depicts Extinct Goose](https://www.forbes.com/sites/grrlscientist/2021/02/28/the-mona-lisa-of-ancient-egyptian-art-depicts-extinct-goose/)
-- [Great Teams Break the “Rules” All the Time](https://cutle.fish/blog/breaking-the-rules/)
+- [Show HN: Jidoujisho – A mobile video player for Japanese language learners](https://github.com/lrorpilla/jidoujisho)
+- [China Appears to Warn India: Push Too Hard and the Lights Could Go Out](https://www.nytimes.com/2021/02/28/us/politics/china-india-hacking-electricity.html)
+- [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
+- [Comments on the apparent Schnorr RSA attack](https://twitter.com/isislovecruft/status/1366920613110157312)
+- ["This destroyes the RSA cryptosystem"](https://www.cryptologie.net/article/515/this-destroyes-the-rsa-cryptosystem/)
+- [Data-Driven Humanitarianism](https://www.technologyreview.com/2021/03/02/1020118/data-driven-humanitarianism/)
+- [The Opposite of 2008](https://www.epsilontheory.com/the-opposite-of-2008-2/)
+- [China appears to warn India: Push too hard and your lights could go out](https://economictimes.indiatimes.com/news/defence/china-appears-to-warn-india-push-too-hard-and-the-lights-could-go-out/articleshow/81266286.cms)
+- [The New York Times Further Smears Donald McNeil](https://www.nationalreview.com/corner/the-new-york-times-further-smears-donald-mcneil/)
+- [Show HN: NNext – A Machine Learning feature vector Database](https://news.ycombinator.com/item?id=26323762)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

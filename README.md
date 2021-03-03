@@ -330,16 +330,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
-- [Show HN: Fast Rolling Quantiles for Python](https://github.com/marmarelis/rolling-quantiles)
-- [Laylo Is Hiring a Senior Front End](https://news.ycombinator.com/item?id=26310633)
-- [WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux](https://github.com/nullpo-head/WSL-Hello-sudo)
-- [U.S. asks Google for detailed search data in antitrust case](https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497)
-- [Compass S-1](https://www.sec.gov/Archives/edgar/data/0001563190/000119312521063859/d36119ds1.htm)
-- [Peer-to-Peer Databases for the Decentralized Web](https://orbitdb.org/)
-- [Chrome does not respect autocomplete=off (2018)](https://bugs.chromium.org/p/chromium/issues/detail?id=914451)
-- [Splitting the Ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split)
-- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
+- [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
+- [Deno v1.8 – support for WebGPU, private modules, Intl, and much more](https://deno.land/posts/v1.8#new-features-and-changes)
+- [These 10 companies control all foods you buy](https://www.businessinsider.nl/10-companies-control-the-food-industry-2016-9)
+- [Virtual Unfolding](https://github.com/UnlockingHistory/virtual-unfolding)
+- [Don Lancaster's Guru's Lair Home Page](https://tinaja.com/)
+- [The MIT Press launches Direct to Open](https://mitpress.mit.edu/blog/mit-press-launches-direct-open)
+- [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
+- [Watchy: Hackable $50 Smartwatch](https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch)
+- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
+- [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

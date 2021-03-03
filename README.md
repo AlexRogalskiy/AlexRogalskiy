@@ -420,16 +420,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Payments Canada selects Interac as the exchange solution provider for the Real-Time Rail payments system](https://www.itworldcanada.com/article/payments-canada-selects-interac-as-the-exchange-solution-provider-for-the-real-time-rail-payments-system/443277)
+- [Need a graph DBMS but don’t want one?](https://www.itworldcanada.com/blog/need-a-graph-dbms-but-dont-want-one/442328)
+- [P.E.I to adopt Telus Health’s electronic medical record system](https://www.itworldcanada.com/article/p-e-i-to-adopt-telus-healths-electronic-medical-record-system/443093)
+- [Cisco Webex introduces real-time translation to meetings](https://www.itworldcanada.com/article/cisco-webex-introduces-real-time-translation-to-meetings/443226)
+- [Deeper Dive: Ready, Set, Go (Episode 5)](https://www.itworldcanada.com/article/deeper-dive-ready-set-go-eps-5/443213)
+- [Deeper Dive: Freeing the corporate imagination (Episode 4)](https://www.itworldcanada.com/article/deeper-dive-freeing-the-corporate-imagination-eps-4/443211)
+- [Deeper Dive: You need a new playbook (Episode 1)](https://www.itworldcanada.com/article/deeper-dive-you-need-a-new-playbook-eps-1/442968)
+- [Hashtag Trending – Coinbase goes public; A tech titan royal rumble; Dealing with Zoom fatigue](https://www.itworldcanada.com/article/hashtag-trending-coinbase-goes-public-a-tech-titan-royal-rumble-dealing-with-zoom-fatigue/443229)
 - [Supercluster cements global leadership in 5th Machine Age with ground-breaking protein production addressing global food insecurity](https://www.itworldcanada.com/blog/supercluster-cements-global-leadership-in-5th-machine-age-with-ground-breaking-protein-production-addressing-global-food-insecurity/442459)
-- [Fraud Prevention Month: Fight business email fraud](https://www.itworldcanada.com/article/fraud-prevention-month-fight-business-email-fraud/443087)
-- [Max level vulnerability found in Logix PLCs](https://www.itworldcanada.com/article/max-level-vulnerability-found-in-logix-plcs/443152)
-- [Citrix completes acquisition of Wrike](https://www.itworldcanada.com/article/citrix-completes-acquisition-of-wrike/443172)
-- [Understanding Android Malware Families (UAMF) – The Trojan: An impersonator in the background (Article 2)](https://www.itworldcanada.com/blog/understanding-android-malware-families-uamf-the-trojan-an-impersonator-in-the-background-article-2/443083)
-- [Cyber Security Today – Fraud Prevention Month starts, cyber incident costs hospital chain $67 million and problems with COVID apps](https://www.itworldcanada.com/article/cyber-security-today-fraud-prevention-month-starts-cyber-incident-costs-hospital-chain-67-million-and-problems-with-covid-apps/443010)
-- [Hashtag Trending, March 1, 2021 – France’s new ‘repairability’ index; Zoom call during surgery; Blame the interns, says former CEO](https://www.itworldcanada.com/article/hashtag-trending-march-1-2021-frances-new-repairability-index-zoom-call-during-surgery-more-tips-to-fight-zoom-fatigue/443007)
-- [Samantha Liscio appointed as CITO at NIHR Clinical Research Network](https://www.itworldcanada.com/article/samantha-liscio-appointed-as-cito-at-nihr-clinical-research-network/443133)
-- [VMware’s code-execution flaw has a severity rating of 9.8 out of 10](https://www.itworldcanada.com/article/vmwares-code-execution-flaw-has-a-severity-rating-of-9-8-out-of-10/442986)
-- [Layers the best cybersecurity approach in 2021](https://www.itworldcanada.com/article/layers-the-best-cybersecurity-approach-in-2021/442990)
+- [Deeper Dive: Scenarios: A how-to guide (Episode 3)](https://www.itworldcanada.com/article/deeper-dive-scenarios-a-how-to-guide-eps-3/443209)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

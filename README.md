@@ -315,16 +315,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO says Covid won't be over this year; China aims to vaccinate 40% of population by June](https://www.theguardian.com/world/live/2021/mar/02/coronavirus-live-news-who-says-covid-wont-be-over-this-year-france-and-germany-fight-astrazeneca-concerns)
-- [Johnson trying to set up charity that could fund No 11 flat revamp](https://www.theguardian.com/politics/2021/mar/02/johnson-trying-to-set-up-charity-that-could-fund-downing-street-flat-revamp)
-- [City firms made plans in Brexit run-up to move assets worth £100bn to EU – survey](https://www.theguardian.com/business/2021/mar/02/city-firms-made-plans-in-brexit-run-up-to-move-assets-worth-100bn-to-eu-survey)
-- [Plug-in hybrid cars burn more fuel than tests record, says Which?](https://www.theguardian.com/business/2021/mar/02/plug-in-hybrid-cars-burn-more-fuel-than-tests-record-says-which)
-- [UK urged to create green apprenticeships to help Covid recovery](https://www.theguardian.com/environment/2021/mar/02/uk-urged-to-create-green-apprenticeships-to-help-covid-recovery)
-- [Drift Away review – fatal error leaves cop all at sea](https://www.theguardian.com/film/2021/mar/02/drift-away-review-fatal-error-leaves-cop-all-at-sea)
-- [Boris Johnson pledges £2.8m towards British and Irish bid for 2030 World Cup](https://www.theguardian.com/football/2021/mar/02/boris-johnson-pledges-28m-towards-british-and-irish-bid-for-2030-world-cup)
-- [Food website that 'fixed' blogger recipes removed after backlash](https://www.theguardian.com/media/2021/mar/01/food-website-that-fixed-blogger-recipes-removed-after-backlash)
-- [Australia's summer the wettest in four years amid cooling La Niña](https://www.theguardian.com/australia-news/2021/mar/02/australia-weather-summer-wettest-four-years-cooling-la-nina)
-- [US refuses to say whether crown prince one of 76 Saudis hit by visa ban](https://www.theguardian.com/us-news/2021/mar/01/us-crown-prince-mohammed-bin-salman-visa-ban-khashoggi)
+- [Coronavirus live news: 168m children worldwide have missed school for a year; Brazil reports record deaths](https://www.theguardian.com/world/live/2021/mar/03/coronavirus-live-news-168m-children-worldwide-have-missed-school-for-a-year)
+- [Dolly Parton gets vaccinated with Moderna jab she helped fund](https://www.theguardian.com/music/2021/mar/03/dolly-parton-gets-vaccinated-with-moderna-jab-she-helped-fund)
+- [Cuttlefish have ability to exert self-control, study finds](https://www.theguardian.com/environment/2021/mar/03/cuttlefish-have-ability-to-exert-self-control-study-finds)
+- [Girls doing more housework in Covid lockdown than boys](https://www.theguardian.com/world/2021/mar/03/girls-doing-more-housework-in-covid-lockdown-than-boys)
+- [MPs to consider evidence between head trauma in sport and dementia](https://www.theguardian.com/sport/2021/mar/03/mps-to-consider-evidence-between-head-trauma-in-sport-and-dementia)
+- [Complaints about guarantor loans rise by 3,000% in a year](https://www.theguardian.com/money/2021/mar/03/complaints-about-guarantor-loans-rise-by-3000-in-a-year)
+- [Tory London mayor hopeful says basic income would be used for 'lots of drugs'](https://www.theguardian.com/politics/2021/mar/02/tory-london-mayor-hopeful-says-basic-income-would-be-used-for-lots-of-drugs)
+- [Are poison-packed drones the answer to eastern Australia's mouse plague?](https://www.theguardian.com/australia-news/2021/mar/03/are-poison-packed-drones-the-answer-to-eastern-australias-mouse-plague)
+- [Cuomo stays quiet amid calls to resign over sexual harassment claims](https://www.theguardian.com/us-news/2021/mar/02/andrew-cuomo-new-york-sexual-harassment-claims)
+- [London stock market review does nothing for private retail investors](https://www.theguardian.com/business/nils-pratley-on-finance/2021/mar/02/london-stock-market-review-does-nothing-for-private-retail-investors)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

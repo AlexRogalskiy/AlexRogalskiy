@@ -285,16 +285,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [The Google Pixel Recorder App Can Now Back Up Audio to the Cloud for Sharing](https://www.reviewgeek.com/72499/the-google-pixel-recorder-app-can-now-backup-audio-to-the-cloud-for-sharing/)
-* ['Star Trek: Prodigy' Will Beam to Paramount+ Before Nickelodeon](https://www.reviewgeek.com/72482/star-trek-prodigy-will-beam-to-paramount-before-nickelodeon/)
-* ["Deep Nostalgia" AI Animates Your Old Family Portraits, 'Harry Potter' Style](https://www.reviewgeek.com/72455/deep-nostalgia-ai-animates-your-old-family-portraits-harry-potter-style/)
-* [Walmart's 2-Hour Delivery No Longer Requires a $35 Minimum](https://www.reviewgeek.com/72479/walmarts-2-hour-deliver-no-longer-requires-a-35-minimum/)
-* [Some SmartThings Smart Home Hubs Will Stop Working on June 30, 2021](https://www.reviewgeek.com/72456/some-smartthings-smart-home-hubs-will-stop-working-on-june-30-2021/)
-* [CloudSavvy IT is Looking for New Writers](https://www.cloudsavvyit.com/8107/cloudsavvy-it-is-looking-for-new-writers/)
-* [How to Use Google Assistant Without Unlocking Your Android Phone](https://www.howtogeek.com/715841/how-to-use-google-assistant-without-unlocking-your-android-phone/)
-* [How to Change the Default Search Engine on Android](https://www.howtogeek.com/710307/how-to-change-the-default-search-engine-on-android/)
-* [How to Link or Embed a PowerPoint Slide in a Word Document](https://www.howtogeek.com/709754/how-to-link-or-embed-a-powerpoint-slide-in-a-word-document/)
-* [How to Turn off an Apple Watch](https://www.howtogeek.com/713539/how-to-turn-off-an-apple-watch/)
+* [Volvo Will Only Sell Electric Vehicles by 2030 as It Pivots to Online-Only Sales](https://www.reviewgeek.com/72553/volvo-to-only-sell-electric-vehicles-by-2030-as-it-pivots-to-online-only-sales/)
+* [Microsoft's "Power Automate Desktop" Is Now Free and Can Do Your Work for You](https://www.reviewgeek.com/72556/microsofts-power-automate-desktop-is-now-free-and-can-do-your-work-for-you/)
+* [Samsung Galaxy Watch 3 Loses "Get Location" Feature, Gains SmartThings Find](https://www.reviewgeek.com/72563/samsung-galaxy-watch-3-loses-get-location-feature-gains-smarthings-find/)
+* [DJI's New FPV Drone Lets You Pilot With Flight Vision Goggles](https://www.reviewgeek.com/72535/djis-new-fpv-drone-lets-you-pilot-with-flight-vision-goggles/)
+* [How to Avoid Fake Transparent Images on Google Images](https://www.howtogeek.com/712691/how-to-avoid-fake-transparent-images-on-google-images/)
+* [PlayStation Store to Stop Selling and Renting Videos On August 31st](https://www.reviewgeek.com/72534/playstation-store-to-stop-selling-and-renting-videos-on-august-31st/)
+* [Gatorade Designed a Wearable Patch to Tell You What to Drink When You Work Out](https://www.reviewgeek.com/72533/gatorade-designed-a-wearable-patch-to-tell-you-what-to-drink-when-you-work-out/)
+* [How to Limit Responses in Google Forms](https://www.howtogeek.com/709772/how-to-limit-responses-in-google-forms/)
+* [What Are YouTube Channel Memberships?](https://www.howtogeek.com/716275/what-are-youtube-channel-memberships/)
+* [Kubernetes Alternatives to Docker Commands](https://www.cloudsavvyit.com/9783/kubernetes-alternatives-to-docker-commands/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

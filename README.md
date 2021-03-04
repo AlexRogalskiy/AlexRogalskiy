@@ -330,16 +330,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
-- [Deno v1.8 – support for WebGPU, private modules, Intl, and much more](https://deno.land/posts/v1.8#new-features-and-changes)
-- [These 10 companies control all foods you buy](https://www.businessinsider.nl/10-companies-control-the-food-industry-2016-9)
-- [Virtual Unfolding](https://github.com/UnlockingHistory/virtual-unfolding)
-- [Don Lancaster's Guru's Lair Home Page](https://tinaja.com/)
-- [The MIT Press launches Direct to Open](https://mitpress.mit.edu/blog/mit-press-launches-direct-open)
-- [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
-- [Watchy: Hackable $50 Smartwatch](https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch)
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
-- [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html)
+- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
+- [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
+- [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
+- [Goat Ops](http://www.goatops.com/)
+- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
+- [Live feed of Starship SN10 flight test [video]](https://twitter.com/SpaceX/status/1367250900041953280)
+- [A Terse Guide On Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
+- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
+- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
+- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -420,16 +420,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Getting to know CIOCAN President Philippe Johnston](https://www.itworldcanada.com/article/getting-to-know-ciocan-president-philippe-johnston/443331)
+- [Understanding Canadian Cybersecurity Laws: Legislative Modernization — Responding and Adapting to Technological Change in a Global Domain (Article 9)](https://www.itworldcanada.com/blog/understanding-canadian-cybersecurity-laws-legislative-modernization-responding-and-adapting-to-technological-change-in-a-global-domain-article-9/443132)
+- [Microsoft launches Mesh mixed reality platform at Ignite](https://www.itworldcanada.com/article/microsoft-launches-mesh-mixed-reality-platform-at-ignite/443309)
+- [Microsoft announces three new industry-specific cloud offerings](https://www.itworldcanada.com/article/microsoft-announces-three-new-industry-specific-cloud-offerings/443320)
+- [Microsoft urges admins to patch on-prem Exchange Server installations immediately](https://www.itworldcanada.com/article/microsoft-urges-admins-to-patch-on-prem-exchange-server-installations-immediately/443293)
+- [Cyber Security Today – Stolen password leads to loan company hack; Subcontractor blamed for breach; Why website code needs to be protected](https://www.itworldcanada.com/article/cyber-security-today-stolen-password-leads-to-loan-company-hack-subcontractor-employee-responsible-for-data-breach-and-why-web-site-code-needs-to-be-protected/443288)
+- [First principles and Zero Trust keys to security going forward](https://www.itworldcanada.com/sponsored/first-principles-and-zero-trust-keys-to-security-going-forward)
+- [Hashtag Trending, March 3, 2021 – Students opt out of virtual school; EU’s right-to-repair law; More 2021 tech trends](https://www.itworldcanada.com/article/hashtag-trending-march-3-2021-students-opt-out-of-virtual-school-eus-right-to-repair-law-more-2021-tech-trends/443291)
 - [Payments Canada selects Interac as the exchange solution provider for the Real-Time Rail payments system](https://www.itworldcanada.com/article/payments-canada-selects-interac-as-the-exchange-solution-provider-for-the-real-time-rail-payments-system/443277)
 - [Need a graph DBMS but don’t want one?](https://www.itworldcanada.com/blog/need-a-graph-dbms-but-dont-want-one/442328)
-- [P.E.I to adopt Telus Health’s electronic medical record system](https://www.itworldcanada.com/article/p-e-i-to-adopt-telus-healths-electronic-medical-record-system/443093)
-- [Cisco Webex introduces real-time translation to meetings](https://www.itworldcanada.com/article/cisco-webex-introduces-real-time-translation-to-meetings/443226)
-- [Deeper Dive: Ready, Set, Go (Episode 5)](https://www.itworldcanada.com/article/deeper-dive-ready-set-go-eps-5/443213)
-- [Deeper Dive: Freeing the corporate imagination (Episode 4)](https://www.itworldcanada.com/article/deeper-dive-freeing-the-corporate-imagination-eps-4/443211)
-- [Deeper Dive: You need a new playbook (Episode 1)](https://www.itworldcanada.com/article/deeper-dive-you-need-a-new-playbook-eps-1/442968)
-- [Hashtag Trending – Coinbase goes public; A tech titan royal rumble; Dealing with Zoom fatigue](https://www.itworldcanada.com/article/hashtag-trending-coinbase-goes-public-a-tech-titan-royal-rumble-dealing-with-zoom-fatigue/443229)
-- [Supercluster cements global leadership in 5th Machine Age with ground-breaking protein production addressing global food insecurity](https://www.itworldcanada.com/blog/supercluster-cements-global-leadership-in-5th-machine-age-with-ground-breaking-protein-production-addressing-global-food-insecurity/442459)
-- [Deeper Dive: Scenarios: A how-to guide (Episode 3)](https://www.itworldcanada.com/article/deeper-dive-scenarios-a-how-to-guide-eps-3/443209)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

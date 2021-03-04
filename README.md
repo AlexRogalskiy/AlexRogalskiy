@@ -345,16 +345,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft adds shared channels with Teams Connect](https://www.computerworld.com/article/3610370/microsoft-adds-shared-channels-with-teams-connect.html#tk.rss_all)
+- [Apple-friendly debugger helps make apps and websites accessible](https://www.computerworld.com/article/3610333/apple-friendly-debugger-helps-make-apps-and-websites-accessible.html#tk.rss_all)
+- [This QuickBooks certification training bundle is just $35](https://www.computerworld.com/article/3609861/this-quickbooks-certification-training-bundle-is-just-35.html#tk.rss_all)
+- [Microsoft’s Mesh aims for mixed-reality meetings of the future](https://www.computerworld.com/article/3610236/microsofts-mesh-aims-for-mixed-reality-meetings-of-the-future.html#tk.rss_all)
+- [Of February’s patches, Ignite, and the fate of Windows 10 feature releases](https://www.computerworld.com/article/3610329/of-february-s-patches-ignite-and-the-fate-of-windows-10-feature-releases.html#tk.rss_all)
+- [How to protect Windows Remote Desktop deployments](https://www.csoonline.com/article/3609097/how-to-protect-windows-remote-desktop-deployments.html#tk.rss_all)
 - [Enterprise collaboration enters the innovation fast lane](https://www.computerworld.com/article/3609603/enterprise-collaboration-enters-the-innovation-fast-lane.html#tk.rss_all)
 - [3 Android 12 features you can bring to any phone today](https://www.computerworld.com/article/3609897/android-12-features.html#tk.rss_all)
 - [Cisco continues to overhaul Webex, now with real-time language transcription](https://www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Google Workspace targets front-line workers with new tier](https://www.computerworld.com/article/3609839/google-workspace-targets-front-line-workers-with-new-tier.html#tk.rss_all)
-- [What's in the latest Firefox upgrade? Proliferating picture-in-picture, even more anti-tracking](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-upgrade-proliferating-picture-in-picture-even-more-anti-tracking.html#tk.rss_all)
-- [Apple on track for 3nm silicon iPhones and more in 2022](https://www.computerworld.com/article/3609778/apple-on-track-for-3nm-silicon-iphones-and-more-in-2022.html#tk.rss_all)
-- [3 next-level note-taking apps that'll change the way you work](https://www.computerworld.com/article/3608670/3-next-level-note-taking-apps-thatll-change-the-way-you-work.html#tk.rss_all)
-- [Apple's indoor maps format is now a standard; here's why that matters](https://www.computerworld.com/article/3609852/apples-indoor-maps-format-is-now-a-standard-heres-why-that-matters.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

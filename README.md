@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Law/mend_your_ways_324.php" target="_blank"><i>mend your ways</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/deep_pockets_616.php" target="_blank"><i>deep pockets</i></a>
 <span> = </span>
-<span>If you mend your ways, you improve your behaviour and stop doing things that cause trouble.</span>
+<span>You can say a person or an organisation has deep pockets if they have lots of money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Out_of_debt_out_of_danger_853.php" target="_blank"><i>Out of debt, out of danger</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Truth_has_no_answer_943.php" target="_blank"><i>Truth has no answer</i></a>
 <span> = </span>
-<span>When we no longer owe money to anyone, we are safe and secure. The implication is that it is dangerous to owe anyone.</span>
+<span>It is difficult to argue against facts. We cannot refute what is true.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

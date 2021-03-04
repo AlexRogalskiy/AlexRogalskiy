@@ -360,6 +360,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Tech Skills, Coding Languages to Boost Your Salary](https://www.informationweek.com/strategic-cio/team-building-and-staffing/tech-skills-coding-languages-to-boost-your-salary/d/d-id/1340304?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Microsoft's Satya Nadella Talks Democratizing Tech at Ignite](https://www.informationweek.com/cloud/microsofts-satya-nadella-talks-democratizing-tech-at-ignite/d/d-id/1340303?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Value Stream Management: Fact or Fiction?](https://www.informationweek.com/strategic-cio/enterprise-agility/value-stream-management-fact-or-fiction/a/d-id/1340280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Vaccine Passports Pave the Road to the New Normal](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/vaccine-passports-pave-the-road-to-the-new-normal-/a/d-id/1340275?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT's New Window of Opportunity to Tackle These Top Priorities](https://www.informationweek.com/strategic-cio/it-strategy/its-new-window-of-opportunity-to-tackle-these-top-priorities/d/d-id/1340264?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,8 +370,6 @@
 - [The Hybrid Workplace Is a Reality, but the Office Is Not Dead](https://www.informationweek.com/cloud/the-hybrid-workplace-is-a-reality-but-the-office-is-not-dead/a/d-id/1340235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Does DevSecOps Require Observability to Get the Job Done?](https://www.informationweek.com/devops/does-devsecops-require-observability-to-get-the-job-done/a/d-id/1340246?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why 2021 May Turn Out to be a Great Year for Tech Startups](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/why-2021-may-turn-out-to-be-a-great-year-for-tech-startups/a/d-id/1340227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Reimagining Formula 1 Manufacturing to Build a Respiratory Device](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/reimagining-formula-1-manufacturing-to-build-a-respiratory-device/a/d-id/1340210?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IBM's Hernandez Discusses Future of AIOps and Measuring ROI](https://www.informationweek.com/big-data/ai-machine-learning/ibms-hernandez-discusses-future-of-aiops-and-measuring-roi/a/d-id/1340219?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

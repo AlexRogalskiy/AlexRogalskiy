@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_5/wanker_1248.php" target="_blank"><i>wanker</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Computer/flame_757.php" target="_blank"><i>flame</i></a>
 <span> = </span>
-<span>an arrogant or pretentious person</span>
+<span>to attack someone by posting an abusive message in an online forum or message board</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

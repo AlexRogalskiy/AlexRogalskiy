@@ -285,16 +285,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Volvo Will Only Sell Electric Vehicles by 2030 as It Pivots to Online-Only Sales](https://www.reviewgeek.com/72553/volvo-to-only-sell-electric-vehicles-by-2030-as-it-pivots-to-online-only-sales/)
-* [Microsoft's "Power Automate Desktop" Is Now Free and Can Do Your Work for You](https://www.reviewgeek.com/72556/microsofts-power-automate-desktop-is-now-free-and-can-do-your-work-for-you/)
-* [Samsung Galaxy Watch 3 Loses "Get Location" Feature, Gains SmartThings Find](https://www.reviewgeek.com/72563/samsung-galaxy-watch-3-loses-get-location-feature-gains-smarthings-find/)
-* [DJI's New FPV Drone Lets You Pilot With Flight Vision Goggles](https://www.reviewgeek.com/72535/djis-new-fpv-drone-lets-you-pilot-with-flight-vision-goggles/)
-* [How to Avoid Fake Transparent Images on Google Images](https://www.howtogeek.com/712691/how-to-avoid-fake-transparent-images-on-google-images/)
-* [PlayStation Store to Stop Selling and Renting Videos On August 31st](https://www.reviewgeek.com/72534/playstation-store-to-stop-selling-and-renting-videos-on-august-31st/)
-* [Gatorade Designed a Wearable Patch to Tell You What to Drink When You Work Out](https://www.reviewgeek.com/72533/gatorade-designed-a-wearable-patch-to-tell-you-what-to-drink-when-you-work-out/)
-* [How to Limit Responses in Google Forms](https://www.howtogeek.com/709772/how-to-limit-responses-in-google-forms/)
-* [What Are YouTube Channel Memberships?](https://www.howtogeek.com/716275/what-are-youtube-channel-memberships/)
-* [Kubernetes Alternatives to Docker Commands](https://www.cloudsavvyit.com/9783/kubernetes-alternatives-to-docker-commands/)
+* [Plex Adds Free Live TV From AMC and Other Channels](https://www.reviewgeek.com/72727/plex-adds-free-live-tv-from-amc-and-other-channels/)
+* [We're Not Sure Who Needs a $400,000 Foldaway TV, But Here It Is](https://www.reviewgeek.com/72721/were-not-sure-who-needs-a-400000-foldaway-tv-but-here-it-is/)
+* [Google Promises to Stop Other Companies From Tracking You Across the Internet](https://www.reviewgeek.com/72702/google-promises-to-stop-other-companies-from-tracking-you-across-the-internet/)
+* [Google Trashes Its Carboard VR Googles](https://www.reviewgeek.com/72688/google-trashes-its-carboard-vr-googles/)
+* [How to Secure Chrome Sync With a Custom Sync Passphrase](https://www.howtogeek.com/712645/how-to-secure-chrome-sync-with-a-custom-sync-passphrase/)
+* [How to Send RSS Feeds to a Slack Channel](https://www.howtogeek.com/709819/how-to-send-rss-feeds-to-a-slack-channel/)
+* [How to Capture Mac Window Screenshots Without a Shadow](https://www.howtogeek.com/713725/how-to-capture-mac-window-screenshots-without-a-shadow/)
+* [Microsoft's "Ignite" VR Event Spiraled Into a Virtual Burning Man Festival](https://www.reviewgeek.com/72610/microsofts-ignite-vr-event-spiraled-into-a-virtual-burning-man-festival/)
+* [How to Trigger a Shortcut With Siri on iPhone](https://www.howtogeek.com/710139/how-to-trigger-a-shortcut-with-siri-on-iphone/)
+* [Bits, Bytes, and Binary](https://www.cloudsavvyit.com/9900/bits-bytes-and-binary/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

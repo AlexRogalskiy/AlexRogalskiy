@@ -390,16 +390,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [PGA Tour teams up with AWS to improve fan engagement during tournaments](https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments)
-- [How Aberdeenshire Council is using Cherwell’s ITSM platform](https://www.computerweekly.com/news/252496936/How-Aberdeenshire-council-using-Cherwells-ITSM-platform)
-- [Google prepares for hybrid return to office work](https://www.computerweekly.com/news/252497139/Google-prepares-for-hybrid-return-to-office-work)
-- [Covid-19 and the art and science of data visualisation](https://www.computerweekly.com/feature/Covid-19-and-the-art-and-science-of-data-visualisation)
-- [EU seeking pan-European Covid-19 passport solution](https://www.computerweekly.com/news/252497151/EU-seeking-pan-European-Covid-19-passport-solution)
-- [Goldman Sachs CEO comments highlight need for home working balance](https://www.computerweekly.com/news/252497150/Goldman-Sachs-CEO-comments-highlight-need-for-home-working-balance)
-- [More than 20% of tech employees hesitant to speak about diversity](https://www.computerweekly.com/news/252497146/More-than-20-of-tech-employees-hesitant-to-speak-about-diversity)
-- [CBRE predicts 2021 will be record-breaking year for European colocation demand](https://www.computerweekly.com/news/252497134/CBRE-predicts-2021-will-be-record-breaking-year-for-European-colocation-demand)
-- [HSBC offers to help customers transitioning to digital banking as branch closures continue](https://www.computerweekly.com/news/252497137/HSBC-offers-to-help-customers-transitioning-to-digital-banking-as-branch-closures-continue)
-- [FINN completes Covid-delayed migration to the cloud](https://www.computerweekly.com/news/252497131/FINN-completes-Covid-delayed-migration-to-the-cloud)
+- [Budget 2021: Tax relief for data and cloud, digital skills for SMEs, more IT firepower for HMRC](https://www.computerweekly.com/news/252497224/Budget-2021-Tax-relief-for-data-and-cloud-digital-skills-for-SMEs-more-IT-firepower-for-HMRC)
+- [Three ways to extend a digital vision beyond the tech team](https://www.computerweekly.com/opinion/Three-ways-to-extend-a-tech-vision-beyond-the-tech-team)
+- [Glitch signs collective bargaining agreement with unionised workers](https://www.computerweekly.com/news/252497216/Glitch-signs-collective-bargaining-agreement-with-unionised-workers)
+- [Pandemic brings good online sales growth for smaller retailers](https://www.computerweekly.com/news/252497214/Pandemic-brings-good-online-sales-growth-for-smaller-retailers)
+- [UK’s Arkivum up for €4.8m EU science data archive project](https://www.computerweekly.com/news/252497212/UKs-Arkivum-up-for-48m-EU-science-data-archive-project)
+- [Emergency patch addresses MS Exchange Server zero-days](https://www.computerweekly.com/news/252497200/Emergency-patch-addresses-MS-Exchange-Server-zero-days)
+- [Virgin Media trial demos multi-gigabit upgradeable bandwidth](https://www.computerweekly.com/news/252497202/Virgin-Media-trial-demos-multi-gigabit-upgradeable-bandwidth)
+- [IR35 private sector reforms: Hays calls on Treasury to delay April 2021 start date by a year](https://www.computerweekly.com/news/252497201/IR35-private-sector-reforms-Hays-calls-on-Treasury-to-delay-April-2021-start-date-by-a-year)
+- [Microsoft CEO Satya Nadella backs decentralised clouds to power hybrid working](https://www.computerweekly.com/news/252497195/Microsoft-CEO-Satya-Nadella-backs-decentralised-clouds-to-power-hybrid-working)
+- [SME backup: Card maker ditches tape-only for Nakivo 3-2-1 setup](https://www.computerweekly.com/news/252497196/SME-backup-Card-maker-ditches-tape-only-for-Nakivo-3-2-1-setup)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

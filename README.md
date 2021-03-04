@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Jidoujisho – A mobile video player for Japanese language learners](https://github.com/lrorpilla/jidoujisho)
-- [China Appears to Warn India: Push Too Hard and the Lights Could Go Out](https://www.nytimes.com/2021/02/28/us/politics/china-india-hacking-electricity.html)
-- [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
-- [Comments on the apparent Schnorr RSA attack](https://twitter.com/isislovecruft/status/1366920613110157312)
-- ["This destroyes the RSA cryptosystem"](https://www.cryptologie.net/article/515/this-destroyes-the-rsa-cryptosystem/)
-- [Data-Driven Humanitarianism](https://www.technologyreview.com/2021/03/02/1020118/data-driven-humanitarianism/)
-- [The Opposite of 2008](https://www.epsilontheory.com/the-opposite-of-2008-2/)
-- [China appears to warn India: Push too hard and your lights could go out](https://economictimes.indiatimes.com/news/defence/china-appears-to-warn-india-push-too-hard-and-the-lights-could-go-out/articleshow/81266286.cms)
-- [The New York Times Further Smears Donald McNeil](https://www.nationalreview.com/corner/the-new-york-times-further-smears-donald-mcneil/)
-- [Show HN: NNext – A Machine Learning feature vector Database](https://news.ycombinator.com/item?id=26323762)
+- [Google promises it won’t just keep tracking you after replacing cookies](https://www.theverge.com/2021/3/3/22310332/google-privacy-replacing-third-party-cookies-privacy-sandbox)
+- [U.S. Limits Counterterrorism Drone Strikes Away from War Zones](https://www.nytimes.com/2021/03/03/us/politics/biden-drones.html#click=https://t.co/XwwoEOC0RW)
+- [Applovin S-1](https://www.sec.gov/Archives/edgar/data/1751008/000119312521065782/d73804ds1.htm)
+- [The Uyghur Language](https://twitter.com/asatarbair/status/1366835785769476096)
+- [Zynga Acquires Echtra Games Team](https://investor.zynga.com/news-releases/news-release-details/zynga-acquires-echtra-games-team-led-developers-diablo-and)
+- [Next Insurance to acquire AP Intego in a potential $500M deal](https://www.calcalistech.com/ctech/articles/0,7340,L-3896533,00.html)
+- [Ask HN: Are Docker builds slow? How did you make them fast?](https://news.ycombinator.com/item?id=26337643)
+- [Lisp Is Not Functional (2008)](https://letoverlambda.com/index.cl/guest/chap5.html)
+- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
+- [The most revolutionary invention of the last two thousand years](https://anotheronymous.substack.com/p/invention)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

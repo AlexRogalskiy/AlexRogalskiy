@@ -345,16 +345,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Microsoft adds shared channels with Teams Connect](https://www.computerworld.com/article/3610370/microsoft-adds-shared-channels-with-teams-connect.html#tk.rss_all)
-- [Apple-friendly debugger helps make apps and websites accessible](https://www.computerworld.com/article/3610333/apple-friendly-debugger-helps-make-apps-and-websites-accessible.html#tk.rss_all)
-- [This QuickBooks certification training bundle is just $35](https://www.computerworld.com/article/3609861/this-quickbooks-certification-training-bundle-is-just-35.html#tk.rss_all)
-- [Microsoft’s Mesh aims for mixed-reality meetings of the future](https://www.computerworld.com/article/3610236/microsofts-mesh-aims-for-mixed-reality-meetings-of-the-future.html#tk.rss_all)
-- [Of February’s patches, Ignite, and the fate of Windows 10 feature releases](https://www.computerworld.com/article/3610329/of-february-s-patches-ignite-and-the-fate-of-windows-10-feature-releases.html#tk.rss_all)
-- [How to protect Windows Remote Desktop deployments](https://www.csoonline.com/article/3609097/how-to-protect-windows-remote-desktop-deployments.html#tk.rss_all)
-- [Enterprise collaboration enters the innovation fast lane](https://www.computerworld.com/article/3609603/enterprise-collaboration-enters-the-innovation-fast-lane.html#tk.rss_all)
-- [3 Android 12 features you can bring to any phone today](https://www.computerworld.com/article/3609897/android-12-features.html#tk.rss_all)
-- [Cisco continues to overhaul Webex, now with real-time language transcription](https://www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Podcast: iPhone 13 rumors: More storage, better camera and always-on display](https://www.computerworld.com/article/3610393/iphone-13-rumors-more-storage-better-camera-and-always-on-display.html#tk.rss_all)
+- [UK regulators launch Apple App Store probe](https://www.computerworld.com/article/3610510/uk-regulators-launch-apple-app-store-probe.html#tk.rss_all)
+- [Microsoft Mesh and Viva: Revolutionizing the corporate dynamic for success](https://www.computerworld.com/article/3610416/microsoft-mesh-and-viva-revolutionizing-the-corporate-dynamic-for-success.html#tk.rss_all)
+- [Love Chrome shortcuts? Wait 'til you see this](https://www.computerworld.com/article/3610171/chrome-shortcuts.html#tk.rss_all)
+- [BrandPost: How to Keep a Lid on Your Container Costs](https://www.computerworld.com/article/3610415/how-to-keep-a-lid-on-your-container-costs.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [When Windows bug fixes go bad, IT can now roll back individual changes](https://www.computerworld.com/article/3610413/when-windows-bug-fixes-go-bad-it-can-now-roll-back-individual-changes.html#tk.rss_all)
+- [Microsoft adds shared channels with Teams Connect](https://www.computerworld.com/article/3610370/microsoft-adds-shared-channels-with-teams-connect.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

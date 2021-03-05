@@ -420,16 +420,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [How national standards can help define the future of AI](https://www.itworldcanada.com/blog/how-national-standards-can-help-define-the-future-of-ai/443438)
+- [AMD releases Radeon RX 6700 XT graphics card](https://www.itworldcanada.com/article/amd-releases-radeon-rx-6700-xt-graphics-card/443400)
+- [Tech giant Infosys to bring 500 jobs to Calgary](https://www.itworldcanada.com/article/tech-giant-infosys-to-bring-500-jobs-to-calgary/443412)
+- [Qualys admits its Accellion FTA server compromised by attacker](https://www.itworldcanada.com/article/qualys-admits-its-accellion-fta-server-compromised-by-attacker/443371)
+- [Microsoft Ignite 2021: More Teams updates and enhancements](https://www.itworldcanada.com/article/microsoft-ignite-2021-more-teams-updates-and-enhancements/443340)
+- [Hashtag Trending, March 4, 2021 – Google stops ad sales based on browser history; Back to the office a good idea? And goodbye Google Cardboard](https://www.itworldcanada.com/article/hashtag-trending-march-4-2021-google-stops-ad-sales-based-on-browser-history-back-to-the-office-a-good-idea-and-goodbye-google-cardboard/443368)
 - [Getting to know CIOCAN President Philippe Johnston](https://www.itworldcanada.com/article/getting-to-know-ciocan-president-philippe-johnston/443331)
 - [Understanding Canadian Cybersecurity Laws: Legislative Modernization — Responding and Adapting to Technological Change in a Global Domain (Article 9)](https://www.itworldcanada.com/blog/understanding-canadian-cybersecurity-laws-legislative-modernization-responding-and-adapting-to-technological-change-in-a-global-domain-article-9/443132)
 - [Microsoft launches Mesh mixed reality platform at Ignite](https://www.itworldcanada.com/article/microsoft-launches-mesh-mixed-reality-platform-at-ignite/443309)
 - [Microsoft announces three new industry-specific cloud offerings](https://www.itworldcanada.com/article/microsoft-announces-three-new-industry-specific-cloud-offerings/443320)
-- [Microsoft urges admins to patch on-prem Exchange Server installations immediately](https://www.itworldcanada.com/article/microsoft-urges-admins-to-patch-on-prem-exchange-server-installations-immediately/443293)
-- [Cyber Security Today – Stolen password leads to loan company hack; Subcontractor blamed for breach; Why website code needs to be protected](https://www.itworldcanada.com/article/cyber-security-today-stolen-password-leads-to-loan-company-hack-subcontractor-employee-responsible-for-data-breach-and-why-web-site-code-needs-to-be-protected/443288)
-- [First principles and Zero Trust keys to security going forward](https://www.itworldcanada.com/sponsored/first-principles-and-zero-trust-keys-to-security-going-forward)
-- [Hashtag Trending, March 3, 2021 – Students opt out of virtual school; EU’s right-to-repair law; More 2021 tech trends](https://www.itworldcanada.com/article/hashtag-trending-march-3-2021-students-opt-out-of-virtual-school-eus-right-to-repair-law-more-2021-tech-trends/443291)
-- [Payments Canada selects Interac as the exchange solution provider for the Real-Time Rail payments system](https://www.itworldcanada.com/article/payments-canada-selects-interac-as-the-exchange-solution-provider-for-the-real-time-rail-payments-system/443277)
-- [Need a graph DBMS but don’t want one?](https://www.itworldcanada.com/blog/need-a-graph-dbms-but-dont-want-one/442328)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

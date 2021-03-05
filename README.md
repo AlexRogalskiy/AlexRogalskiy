@@ -375,6 +375,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What is an internal developer platform? PaaS done your way](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html#tk.rss_all)
+- [What is discovery and dependency mapping?](https://www.infoworld.com/article/3609876/what-is-discovery-and-dependency-mapping.html#tk.rss_all)
 - [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_all)
 - [Microsoft’s Power Fx low-code language channels Excel](https://www.infoworld.com/article/3610390/microsofts-power-fx-low-code-language-channels-excel.html#tk.rss_all)
 - [What Python’s new pattern matching can do for you](https://www.infoworld.com/article/3609208/what-pythons-new-pattern-matching-can-do-for-you.html#tk.rss_all)
@@ -383,8 +385,6 @@
 - [Microsoft Mesh brings mixed-reality apps to Azure](https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html#tk.rss_all)
 - [IT leaders see open source as higher quality](https://www.infoworld.com/article/3609902/it-leaders-see-open-source-as-higher-quality.html#tk.rss_all)
 - [2021’s Ignite shows off new Cosmos DB features](https://www.infoworld.com/article/3609901/2021s-ignite-shows-off-new-cosmos-db-features.html#tk.rss_all)
-- [OpenStreetMap just turned 100 million](https://www.infoworld.com/article/3609894/openstreetmap-just-turned-100-million.html#tk.rss_all)
-- [One application across multiple clouds? 3 big problems](https://www.infoworld.com/article/3609777/one-application-across-multiple-clouds-3-big-problems.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

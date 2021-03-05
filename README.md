@@ -285,16 +285,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Plex Adds Free Live TV From AMC and Other Channels](https://www.reviewgeek.com/72727/plex-adds-free-live-tv-from-amc-and-other-channels/)
-* [We're Not Sure Who Needs a $400,000 Foldaway TV, But Here It Is](https://www.reviewgeek.com/72721/were-not-sure-who-needs-a-400000-foldaway-tv-but-here-it-is/)
-* [Google Promises to Stop Other Companies From Tracking You Across the Internet](https://www.reviewgeek.com/72702/google-promises-to-stop-other-companies-from-tracking-you-across-the-internet/)
-* [Google Trashes Its Carboard VR Googles](https://www.reviewgeek.com/72688/google-trashes-its-carboard-vr-googles/)
-* [How to Secure Chrome Sync With a Custom Sync Passphrase](https://www.howtogeek.com/712645/how-to-secure-chrome-sync-with-a-custom-sync-passphrase/)
-* [How to Send RSS Feeds to a Slack Channel](https://www.howtogeek.com/709819/how-to-send-rss-feeds-to-a-slack-channel/)
-* [How to Capture Mac Window Screenshots Without a Shadow](https://www.howtogeek.com/713725/how-to-capture-mac-window-screenshots-without-a-shadow/)
-* [Microsoft's "Ignite" VR Event Spiraled Into a Virtual Burning Man Festival](https://www.reviewgeek.com/72610/microsofts-ignite-vr-event-spiraled-into-a-virtual-burning-man-festival/)
-* [How to Trigger a Shortcut With Siri on iPhone](https://www.howtogeek.com/710139/how-to-trigger-a-shortcut-with-siri-on-iphone/)
-* [Bits, Bytes, and Binary](https://www.cloudsavvyit.com/9900/bits-bytes-and-binary/)
+* [How to Transfer Your iCloud Photo Library to Google Photos](https://www.howtogeek.com/716845/how-to-transfer-your-icloud-photo-library-to-google-photos/)
+* [Paramount+ Arrives on Roku, Chromecast, Apple TV, and Fire TV](https://www.reviewgeek.com/72879/paramount-arrives-on-roku-chromecast-apple-tv-and-fire-tv/)
+* [This Winnie the Pooh LEGO Set Lets you Revisit the Hundred Acre Wood](https://www.reviewgeek.com/72868/this-winnie-the-pooh-lego-set-lets-you-revisit-the-hundred-acre-wood/)
+* [Elgato's Affordable LED Strip and Acoustic Panels Amp Up Your Boring Home Office](https://www.reviewgeek.com/72844/elgatos-affordable-led-strip-and-acoustic-panels-amp-up-your-boring-home-office/)
+* [Qualcomm's "Snapdragon Sound" Hopes to Make Wireless Audio as Good as Wired](https://www.reviewgeek.com/72839/qualcomms-snapdragon-sound-hopes-to-make-wireless-audio-as-good-as-wired/)
+* [How to Cancel Your Paramount+ Subscription](https://www.howtogeek.com/716838/how-to-cancel-your-paramount-plus-subscription/)
+* [Brave Is Launching a Privacy-Focused Search Engine to Compete With Google](https://www.reviewgeek.com/72822/brave-is-launching-a-privacy-focused-search-engine-to-compete-with-google/)
+* [What Are Android Notification Channels?](https://www.howtogeek.com/715614/what-are-android-notification-channels/)
+* [Satechi's Latest Hub is A Productivity Powerhouse for Home and Travel](https://www.reviewgeek.com/72812/satechis-latest-hub-is-a-productivity-powerhouse-for-home-and-travel/)
+* [How to Screen Share a PowerPoint Presentation in Zoom](https://www.howtogeek.com/708822/how-to-screen-share-a-powerpoint-presentation-in-zoom/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/put_2/put_forward_1__2821.php" target="_blank"><i>put forward (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_3/go_for_3__2804.php" target="_blank"><i>go for (3)</i></a>
 <span> = </span>
-<span>to offer an idea, an opinion, a suggestion, etc. for other people to consider <BR><BR></span>
+<span>to physically attack a person or an animal<BR><BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

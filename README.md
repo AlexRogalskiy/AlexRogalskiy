@@ -330,16 +330,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
-- [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
-- [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
-- [Goat Ops](http://www.goatops.com/)
-- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
-- [Live feed of Starship SN10 flight test [video]](https://twitter.com/SpaceX/status/1367250900041953280)
-- [A Terse Guide On Hiring Your First Engineering Manager](https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/)
-- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
-- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
-- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
+- [Open source projects should run office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
+- [US health agency will invest $1B to investigate 'long Covid'](https://www.nature.com/articles/d41586-021-00586-y)
+- [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values/)
+- [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
+- [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
+- [Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services](https://news.ycombinator.com/item?id=26347962)
+- [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h)
+- [Dr. Seuss books deemed offensive will be delisted from eBay](https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201)
+- [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
+- [Turntable.fm is back from the dead – and now there are two](https://www.theverge.com/2021/3/4/22313793/turntable-fm-return-two-versions-original)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

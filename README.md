@@ -360,6 +360,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How We'll Conduct Algorithmic Audits in the New Economy](https://www.informationweek.com/big-data/ai-machine-learning/how-well-conduct-algorithmic-audits-in-the-new-economy/a/d-id/1340299?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Adopting New Technologies in a Multi-Generational Workplace](https://www.informationweek.com/strategic-cio/team-building-and-staffing/adopting-new-technologies-in-a-multi-generational-workplace/a/d-id/1340274?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Tech Skills, Coding Languages to Boost Your Salary](https://www.informationweek.com/strategic-cio/team-building-and-staffing/tech-skills-coding-languages-to-boost-your-salary/d/d-id/1340304?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Microsoft's Satya Nadella Talks Democratizing Tech at Ignite](https://www.informationweek.com/cloud/microsofts-satya-nadella-talks-democratizing-tech-at-ignite/d/d-id/1340303?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Value Stream Management: Fact or Fiction?](https://www.informationweek.com/strategic-cio/enterprise-agility/value-stream-management-fact-or-fiction/a/d-id/1340280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,8 +370,6 @@
 - [Do You Know These 4 Tricky Cloud Terms?](https://www.informationweek.com/cloud/do-you-know-these-4-tricky-cloud-terms-/a/d-id/1340250?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Should Have a Separate Training Budget](https://www.informationweek.com/strategic-cio/team-building-and-staffing/why-it-should-have-a-separate-training-budget/a/d-id/1340257?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Hybrid Workplace Is a Reality, but the Office Is Not Dead](https://www.informationweek.com/cloud/the-hybrid-workplace-is-a-reality-but-the-office-is-not-dead/a/d-id/1340235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Does DevSecOps Require Observability to Get the Job Done?](https://www.informationweek.com/devops/does-devsecops-require-observability-to-get-the-job-done/a/d-id/1340246?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why 2021 May Turn Out to be a Great Year for Tech Startups](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/why-2021-may-turn-out-to-be-a-great-year-for-tech-startups/a/d-id/1340227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

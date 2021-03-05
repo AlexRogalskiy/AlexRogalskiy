@@ -405,16 +405,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [D'Mit I need a pan to the head!](https://www.reddit.com/r/InformationTechnology/comments/lxquuz/dmit_i_need_a_pan_to_the_head/)
+- [Starting my IT degree](https://www.reddit.com/r/InformationTechnology/comments/lxpj2s/starting_my_it_degree/)
+- [Wireless Networking](https://www.reddit.com/r/InformationTechnology/comments/lxmlzj/wireless_networking/)
+- [Best LAN Switches](https://www.reddit.com/r/InformationTechnology/comments/lxmj9l/best_lan_switches/)
+- [blocked .dmg file on Mac](https://www.reddit.com/r/InformationTechnology/comments/lxf662/blocked_dmg_file_on_mac/)
 - [Cpanel not loading on my home network](https://www.reddit.com/r/InformationTechnology/comments/lx7rwp/cpanel_not_loading_on_my_home_network/)
 - [Difficult User](https://www.reddit.com/r/InformationTechnology/comments/lwy73c/difficult_user/)
 - [Should I go for my BS?](https://www.reddit.com/r/InformationTechnology/comments/lwpnis/should_i_go_for_my_bs/)
 - [Anyone using / ever used a Web isolation browser?](https://www.reddit.com/r/InformationTechnology/comments/lwo7dv/anyone_using_ever_used_a_web_isolation_browser/)
-- [Sorry if this is a super easy one, but can others see the documents you open on a P:drive?](https://www.reddit.com/r/InformationTechnology/comments/lwdqfb/sorry_if_this_is_a_super_easy_one_but_can_others/)
 - [What's the best way to administer a Google Workspace domain for someone else?](https://www.reddit.com/r/InformationTechnology/comments/lwavkr/whats_the_best_way_to_administer_a_google/)
-- [Deploy mass PC for clients with pre-install software, imaging?](https://www.reddit.com/r/InformationTechnology/comments/lw80kv/deploy_mass_pc_for_clients_with_preinstall/)
-- [office move - IT assets](https://www.reddit.com/r/InformationTechnology/comments/lw77vg/office_move_it_assets/)
-- [Questionable Remote Access Software](https://www.reddit.com/r/InformationTechnology/comments/lw43w3/questionable_remote_access_software/)
-- [Can't Find any Laptops with Built-in Air Card (Verizon Cell Card)](https://www.reddit.com/r/InformationTechnology/comments/lw37za/cant_find_any_laptops_with_builtin_air_card/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

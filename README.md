@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Truth_has_no_answer_943.php" target="_blank"><i>Truth has no answer</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/F/Fortune_favours_the_bold_535.php" target="_blank"><i>Fortune favours the bold</i></a>
 <span> = </span>
-<span>It is difficult to argue against facts. We cannot refute what is true.</span>
+<span>Successful people are often those who are prepared to take risks.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

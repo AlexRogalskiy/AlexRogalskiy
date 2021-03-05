@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/deep_pockets_616.php" target="_blank"><i>deep pockets</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_2/_it_stands_to_reason_484.php" target="_blank"><i>(it) stands to reason</i></a>
 <span> = </span>
-<span>You can say a person or an organisation has deep pockets if they have lots of money.</span>
+<span>You can say it stands to reason that something should be so if it seems reasonable to you that it should be so.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

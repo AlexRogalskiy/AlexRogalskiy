@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Computer/flame_757.php" target="_blank"><i>flame</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_1/hang_hang_out_766.php" target="_blank"><i>hang | hang out</i></a>
 <span> = </span>
-<span>to attack someone by posting an abusive message in an online forum or message board</span>
+<span>to spend time with</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -390,16 +390,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Budget 2021: Tax relief for data and cloud, digital skills for SMEs, more IT firepower for HMRC](https://www.computerweekly.com/news/252497224/Budget-2021-Tax-relief-for-data-and-cloud-digital-skills-for-SMEs-more-IT-firepower-for-HMRC)
-- [Three ways to extend a digital vision beyond the tech team](https://www.computerweekly.com/opinion/Three-ways-to-extend-a-tech-vision-beyond-the-tech-team)
-- [Glitch signs collective bargaining agreement with unionised workers](https://www.computerweekly.com/news/252497216/Glitch-signs-collective-bargaining-agreement-with-unionised-workers)
-- [Pandemic brings good online sales growth for smaller retailers](https://www.computerweekly.com/news/252497214/Pandemic-brings-good-online-sales-growth-for-smaller-retailers)
-- [UK’s Arkivum up for €4.8m EU science data archive project](https://www.computerweekly.com/news/252497212/UKs-Arkivum-up-for-48m-EU-science-data-archive-project)
-- [Emergency patch addresses MS Exchange Server zero-days](https://www.computerweekly.com/news/252497200/Emergency-patch-addresses-MS-Exchange-Server-zero-days)
-- [Virgin Media trial demos multi-gigabit upgradeable bandwidth](https://www.computerweekly.com/news/252497202/Virgin-Media-trial-demos-multi-gigabit-upgradeable-bandwidth)
-- [IR35 private sector reforms: Hays calls on Treasury to delay April 2021 start date by a year](https://www.computerweekly.com/news/252497201/IR35-private-sector-reforms-Hays-calls-on-Treasury-to-delay-April-2021-start-date-by-a-year)
-- [Microsoft CEO Satya Nadella backs decentralised clouds to power hybrid working](https://www.computerweekly.com/news/252497195/Microsoft-CEO-Satya-Nadella-backs-decentralised-clouds-to-power-hybrid-working)
-- [SME backup: Card maker ditches tape-only for Nakivo 3-2-1 setup](https://www.computerweekly.com/news/252497196/SME-backup-Card-maker-ditches-tape-only-for-Nakivo-3-2-1-setup)
+- [Okta picks up Auth0 for $6.5bn](https://www.computerweekly.com/news/252497278/Okta-picks-up-Auth0-for-65bn)
+- [Microsoft Exchange CVEs more widely exploited than thought](https://www.computerweekly.com/news/252497276/Microsoft-Exchange-CVEs-more-widely-exploited-than-thought)
+- [Bank of Ireland to reduce branch network by almost half](https://www.computerweekly.com/news/252497265/Bank-of-Ireland-to-reduce-branch-network-by-almost-half)
+- [AI projects yield little business value so far](https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far)
+- [IR35 private sector reforms: HMRC under fire over ‘omission’ of employers’ NI from webinar guidance](https://www.computerweekly.com/news/252497274/IR35-private-sector-reforms-HMRC-under-fire-over-omission-of-Employers-NI-from-webinar-guidance)
+- [Progress towards gender equality in cyber still slow](https://www.computerweekly.com/news/252497260/Progress-towards-gender-equality-in-cyber-still-slow)
+- [Qualys caught up in Accellion FTA breach](https://www.computerweekly.com/news/252497263/Qualys-caught-up-in-Accellion-FTA-breach)
+- [Five ways that disaster recovery changes in a pandemic](https://www.computerweekly.com/feature/Five-ways-that-disaster-recovery-changes-in-a-pandemic)
+- [UK contactless payment limit more than doubled](https://www.computerweekly.com/news/252497261/UK-contactless-payment-limit-more-than-doubled)
+- [Parliament bill to create the UK's Advanced Research and Invention Agency](https://www.computerweekly.com/news/252497241/Parliament-bill-to-create-the-UKs-Advanced-Research-and-Invention-Agency)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

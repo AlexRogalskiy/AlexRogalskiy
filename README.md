@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google promises it won’t just keep tracking you after replacing cookies](https://www.theverge.com/2021/3/3/22310332/google-privacy-replacing-third-party-cookies-privacy-sandbox)
-- [U.S. Limits Counterterrorism Drone Strikes Away from War Zones](https://www.nytimes.com/2021/03/03/us/politics/biden-drones.html#click=https://t.co/XwwoEOC0RW)
-- [Applovin S-1](https://www.sec.gov/Archives/edgar/data/1751008/000119312521065782/d73804ds1.htm)
-- [The Uyghur Language](https://twitter.com/asatarbair/status/1366835785769476096)
-- [Zynga Acquires Echtra Games Team](https://investor.zynga.com/news-releases/news-release-details/zynga-acquires-echtra-games-team-led-developers-diablo-and)
-- [Next Insurance to acquire AP Intego in a potential $500M deal](https://www.calcalistech.com/ctech/articles/0,7340,L-3896533,00.html)
-- [Ask HN: Are Docker builds slow? How did you make them fast?](https://news.ycombinator.com/item?id=26337643)
-- [Lisp Is Not Functional (2008)](https://letoverlambda.com/index.cl/guest/chap5.html)
-- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
-- [The most revolutionary invention of the last two thousand years](https://anotheronymous.substack.com/p/invention)
+- [Ask HN: What is the most interesting dataset you've seen and why?](https://news.ycombinator.com/item?id=26351676)
+- [Web Advertising BG](https://github.com/w3c/web-advertising#ideas-and-proposals-links-outside-this-repo)
+- [Exploiting model's ability to read text robustly](https://twitter.com/moyix/status/1367575109305794563)
+- [HEY World (blogging direct from HEY email)](https://hey.com/world/)
+- [The Ultimate Hacking Keyboard: A long term report](https://unhexium.net/hardware/the-ultimate-hacking-keyboard-months-of-use/)
+- [Peak Design congratulates Amazon for copying its signature sling bag so well](https://www.theverge.com/2021/3/3/22311574/peak-design-video-amazon-copy-everyday-sling-bag)
+- [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)
+- [Success King Marketing Inc [Free] 7 Universal Laws of Attracting Wealth](https://skmarketsinc.com/free-7-universal-laws-of-attracting-wealth/)
+- [Show HN: A Whirlwind Lisp Adventure](https://github.com/codr7/whirlisp)
+- [NASA Awards Mars Ascent Propulsion System Contract for Sample Return](https://www.nasa.gov/press-release/nasa-awards-mars-ascent-propulsion-system-contract-for-sample-return)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

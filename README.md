@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_3/go_for_3__2804.php" target="_blank"><i>go for (3)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/get_1/get_up_1__1630.php" target="_blank"><i>get up (1)</i></a>
 <span> = </span>
-<span>to physically attack a person or an animal<BR><BR></span>
+<span>to get out of bed after having been asleep</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

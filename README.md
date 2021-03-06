@@ -319,16 +319,16 @@ ordinary men.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What is the most interesting dataset you've seen and why?](https://news.ycombinator.com/item?id=26351676)
-- [Web Advertising BG](https://github.com/w3c/web-advertising#ideas-and-proposals-links-outside-this-repo)
-- [Exploiting model's ability to read text robustly](https://twitter.com/moyix/status/1367575109305794563)
-- [HEY World (blogging direct from HEY email)](https://hey.com/world/)
-- [The Ultimate Hacking Keyboard: A long term report](https://unhexium.net/hardware/the-ultimate-hacking-keyboard-months-of-use/)
-- [Peak Design congratulates Amazon for copying its signature sling bag so well](https://www.theverge.com/2021/3/3/22311574/peak-design-video-amazon-copy-everyday-sling-bag)
-- [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)
-- [Success King Marketing Inc [Free] 7 Universal Laws of Attracting Wealth](https://skmarketsinc.com/free-7-universal-laws-of-attracting-wealth/)
-- [Show HN: A Whirlwind Lisp Adventure](https://github.com/codr7/whirlisp)
-- [NASA Awards Mars Ascent Propulsion System Contract for Sample Return](https://www.nasa.gov/press-release/nasa-awards-mars-ascent-propulsion-system-contract-for-sample-return)
+- [The Business Costs of Technical Debt [pdf]](https://codescene.com/technical-debt/whitepaper/calculate-business-costs-of-technical-debt.pdf)
+- [PBR Painting with WebGL](https://chro.mx/)
+- [Apple iCloud crashes due to last name “true”](https://twitter.com/RachelTrue/status/1368004197166108676)
+- [Fourty Years On](https://popey.com/blog/2021/03/fourty-years-on/)
+- [We Think We’re Better Investors Than We Are(2016)](https://www.nytimes.com/2016/03/27/your-money/why-we-think-were-better-investors-than-we-are.html)
+- [Ask HN: What's the coolest YouTube channel you've found in the past month?](https://news.ycombinator.com/item?id=26364504)
+- [Last name 'true' breaks iCloud login](https://twitter.com/RachelTrue/status/1365461618977476610)
+- [Curated Articles from News Break Stories – Flipboard](https://flipboard.com/@mehmetyildi2020/news-break-bfc27ukuz)
+- [American Airlines 737 Max declared emergency after engine stall, safely lands](https://www.aljazeera.com/news/2021/3/5/aa-737-max-declared-emergency-after-engine-stall-safely-lands)
+- [Goose Farm-Official Launch on BSC](https://goosefarm.finance/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

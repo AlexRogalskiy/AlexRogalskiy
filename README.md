@@ -439,16 +439,16 @@ ordinary men.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today Week In Review for Friday March 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-5-2021/443424)
+- [Women entrepreneurs adapt to new technology, mental wealth and community to build and grow business](https://www.itworldcanada.com/blog/women-entrepreneurs-adapt-to-new-technology-mental-wealth-and-community-to-build-and-grow-business/443470)
+- [Microsoft discovers more malware used by SolarWinds attacker while FireEye finds new backdoor](https://www.itworldcanada.com/article/microsoft-discovers-more-malware-used-by-solarwinds-attacker-while-fireeye-finds-new-backdoor/443444)
+- [Microsoft introduces Azure Sentinel updates, a mobile security app, new certifications, and much more](https://www.itworldcanada.com/article/security-announcements-at-microsoft-ignite/443445)
+- [Cyber Security Today, March 5, 2021 – Ransomware gang patterns revealed, software code bug exploited, malware hidden in images, and mysterious hacks of criminal forums](https://www.itworldcanada.com/article/cyber-security-today-ransomware-gang-patterns-revealed-software-code-bug-exploited-beware-of-malware-hidden-in-images-and-mysterious-hacks-of-criminal-forums/443430)
+- [Hashtag Trending, March 5, 2021 – Twitter’s plans to grow Canadian engineering hub; Amazon union showdown; Upskilling challenges](https://www.itworldcanada.com/article/hashtag-trending-march-5-2021-twitters-plans-to-grow-canadian-engineering-hub-amazon-union-showdown-upskilling-challenges/443427)
 - [How national standards can help define the future of AI](https://www.itworldcanada.com/blog/how-national-standards-can-help-define-the-future-of-ai/443438)
 - [AMD releases Radeon RX 6700 XT graphics card](https://www.itworldcanada.com/article/amd-releases-radeon-rx-6700-xt-graphics-card/443400)
 - [Tech giant Infosys to bring 500 jobs to Calgary](https://www.itworldcanada.com/article/tech-giant-infosys-to-bring-500-jobs-to-calgary/443412)
 - [Qualys admits its Accellion FTA server compromised by attacker](https://www.itworldcanada.com/article/qualys-admits-its-accellion-fta-server-compromised-by-attacker/443371)
-- [Microsoft Ignite 2021: More Teams updates and enhancements](https://www.itworldcanada.com/article/microsoft-ignite-2021-more-teams-updates-and-enhancements/443340)
-- [Hashtag Trending, March 4, 2021 – Google stops ad sales based on browser history; Back to the office a good idea? And goodbye Google Cardboard](https://www.itworldcanada.com/article/hashtag-trending-march-4-2021-google-stops-ad-sales-based-on-browser-history-back-to-the-office-a-good-idea-and-goodbye-google-cardboard/443368)
-- [Getting to know CIOCAN President Philippe Johnston](https://www.itworldcanada.com/article/getting-to-know-ciocan-president-philippe-johnston/443331)
-- [Understanding Canadian Cybersecurity Laws: Legislative Modernization — Responding and Adapting to Technological Change in a Global Domain (Article 9)](https://www.itworldcanada.com/blog/understanding-canadian-cybersecurity-laws-legislative-modernization-responding-and-adapting-to-technological-change-in-a-global-domain-article-9/443132)
-- [Microsoft launches Mesh mixed reality platform at Ignite](https://www.itworldcanada.com/article/microsoft-launches-mesh-mixed-reality-platform-at-ignite/443309)
-- [Microsoft announces three new industry-specific cloud offerings](https://www.itworldcanada.com/article/microsoft-announces-three-new-industry-specific-cloud-offerings/443320)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

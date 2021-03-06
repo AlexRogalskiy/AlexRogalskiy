@@ -285,16 +285,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Transfer Your iCloud Photo Library to Google Photos](https://www.howtogeek.com/716845/how-to-transfer-your-icloud-photo-library-to-google-photos/)
-* [Paramount+ Arrives on Roku, Chromecast, Apple TV, and Fire TV](https://www.reviewgeek.com/72879/paramount-arrives-on-roku-chromecast-apple-tv-and-fire-tv/)
-* [This Winnie the Pooh LEGO Set Lets you Revisit the Hundred Acre Wood](https://www.reviewgeek.com/72868/this-winnie-the-pooh-lego-set-lets-you-revisit-the-hundred-acre-wood/)
-* [Elgato's Affordable LED Strip and Acoustic Panels Amp Up Your Boring Home Office](https://www.reviewgeek.com/72844/elgatos-affordable-led-strip-and-acoustic-panels-amp-up-your-boring-home-office/)
-* [Qualcomm's "Snapdragon Sound" Hopes to Make Wireless Audio as Good as Wired](https://www.reviewgeek.com/72839/qualcomms-snapdragon-sound-hopes-to-make-wireless-audio-as-good-as-wired/)
-* [How to Cancel Your Paramount+ Subscription](https://www.howtogeek.com/716838/how-to-cancel-your-paramount-plus-subscription/)
-* [Brave Is Launching a Privacy-Focused Search Engine to Compete With Google](https://www.reviewgeek.com/72822/brave-is-launching-a-privacy-focused-search-engine-to-compete-with-google/)
-* [What Are Android Notification Channels?](https://www.howtogeek.com/715614/what-are-android-notification-channels/)
-* [Satechi's Latest Hub is A Productivity Powerhouse for Home and Travel](https://www.reviewgeek.com/72812/satechis-latest-hub-is-a-productivity-powerhouse-for-home-and-travel/)
-* [How to Screen Share a PowerPoint Presentation in Zoom](https://www.howtogeek.com/708822/how-to-screen-share-a-powerpoint-presentation-in-zoom/)
+* [Plex Integration Arrives on Apple's TV app---But Don't Expect Too Much](https://www.reviewgeek.com/72995/plex-integration-arrives-on-apples-tv-app-but-dont-expect-too-much/)
+* [Save Big During Best Buy's 3-Day Sale, Ending Sunday](https://www.reviewgeek.com/72998/save-big-during-best-buys-3-day-sale-ending-sunday/)
+* [Microsoft Edge Adds Vertical Tabs, Improved Anti-Tracking Tools](https://www.reviewgeek.com/72965/microsoft-edge-adds-vertical-tabs-improved-anti-tracking-tools/)
+* [Razer's New Smart Glasses Pump Up the Sound and (Thankfully) Skip the RGB](https://www.reviewgeek.com/72974/razers-new-smart-glasses-pump-up-the-sound-and-thankfully-skip-the-rgb/)
+* [How to Stop Windows 10 From Turning Off Your Screen](https://www.howtogeek.com/714618/how-to-stop-windows-10-from-turning-off-your-screen/)
+* [Amazon Fire TV's Lineup Now Includes 200 Free Live Channels](https://www.reviewgeek.com/72956/amazon-fire-tvs-lineup-now-includes-200-free-live-channels/)
+* [How To Stop Being Overwhelmed by Security Audits](https://www.cloudsavvyit.com/9703/how-to-stop-being-overwhelmed-by-security-audits/)
+* [How To Stop Being Overwhelmed by Security Audits](https://www.cloudsavvyit.com/9703/how-to-stop-being-overwhelmed-by-security-audits/)
+* [How to Use Researcher in Microsoft Word for Essays and Papers](https://www.howtogeek.com/711356/how-to-use-researcher-in-microsoft-word-for-essays-and-papers/)
+* [How to Get Started With Watch Face Customization on Apple Watch](https://www.howtogeek.com/712793/how-to-get-started-with-watch-face-customization-on-apple-watch/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

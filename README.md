@@ -240,8 +240,27 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644753067463573504" target="_blank"><i>I Love You</i></a></summary>
-<p>by Sara Teasdale</p><p>When April bends above me<br/>And finds me fast asleep,<br/>Dust need not keep the secret<br/>A live heart died to keep.</p><p>When April tells the thrushes,<br/>The meadow-larks will know,<br/>And pipe the three words lightly<br/>To all the winds that blow.</p><p>Above his roof the swallows,<br/>In notes like far-blown rain,<br/>Will tell the little sparrow <br/>Beside his window-pane.</p><p>O sparrow, little sparrow,<br/>When I am fast asleep,<br/>Then tell my love the secret<br/>That I have died to keep.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/644843664332423168" target="_blank"><i>Sorrow Song</i></a></summary>
+<p>by Lucille Clifton</p><p>sorrow song<br/>
+for the eyes of the children,<br/>
+the last to melt,<br/>
+the last to vaporize,<br/>
+for the lingering<br/>
+eyes of the children, staring,<br/>
+the eyes of the children of<br/>
+buchenwald,<br/>
+of viet nam and johannesburg,<br/>
+for the eyes of the children<br/>
+of nagasaki,<br/>
+for the eyes of the children<br/>
+of middle passage,<br/>
+for cherokee eyes, ethiopian eyes,<br/>
+russian eyes, american eyes,<br/>
+for all that remains of the children,<br/>
+their eyes,<br/>
+staring at us, amazed to see<br/>
+the extraordinary evil in<br/>
+ordinary men.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/F/Fortune_favours_the_bold_535.php" target="_blank"><i>Fortune favours the bold</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Justice/A_just_war_is_better_than_an_unjust_peace_879.php" target="_blank"><i>A just war is better than an unjust peace</i></a>
 <span> = </span>
-<span>Successful people are often those who are prepared to take risks.</span>
+<span>Fighting between countries for a fair and good cause is better than no fighting in a situation that is unfair.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

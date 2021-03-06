@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_2/_it_stands_to_reason_484.php" target="_blank"><i>(it) stands to reason</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/once_in_a_blue_moon_99.php" target="_blank"><i>once in a blue moon</i></a>
 <span> = </span>
-<span>You can say it stands to reason that something should be so if it seems reasonable to you that it should be so.</span>
+<span>If something happens once in a blue moon, it happens very rarely.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

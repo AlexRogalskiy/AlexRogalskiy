@@ -364,6 +364,9 @@ ordinary men.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [HSBC now offers Mac-friendly choice scheme](https://www.computerworld.com/article/3610689/hsbc-now-offers-mac-friendly-choice-scheme.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Microsoft deepens Teams ties with Dynamics 365](https://www.computerworld.com/article/3610392/microsoft-deepens-teams-ties-with-dynamics-365.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Podcast: iPhone 13 rumors: More storage, better camera and always-on display](https://www.computerworld.com/article/3610393/iphone-13-rumors-more-storage-better-camera-and-always-on-display.html#tk.rss_all)
@@ -371,9 +374,6 @@ ordinary men.</p>
 - [Microsoft Mesh and Viva: Revolutionizing the corporate dynamic for success](https://www.computerworld.com/article/3610416/microsoft-mesh-and-viva-revolutionizing-the-corporate-dynamic-for-success.html#tk.rss_all)
 - [Love Chrome shortcuts? Wait 'til you see this](https://www.computerworld.com/article/3610171/chrome-shortcuts.html#tk.rss_all)
 - [BrandPost: How to Keep a Lid on Your Container Costs](https://www.computerworld.com/article/3610415/how-to-keep-a-lid-on-your-container-costs.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [When Windows bug fixes go bad, IT can now roll back individual changes](https://www.computerworld.com/article/3610413/when-windows-bug-fixes-go-bad-it-can-now-roll-back-individual-changes.html#tk.rss_all)
-- [Microsoft adds shared channels with Teams Connect](https://www.computerworld.com/article/3610370/microsoft-adds-shared-channels-with-teams-connect.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

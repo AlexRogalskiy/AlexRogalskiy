@@ -394,6 +394,8 @@ ordinary men.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio 2019 16.9 brings memory error detection, C++ capabilities](https://www.infoworld.com/article/3610453/visual-studio-2019-169-brings-memory-error-detection-c-capabilities.html#tk.rss_all)
+- [Multicloud architecture decomposition simplified](https://www.infoworld.com/article/3610423/multicloud-architecture-decomposition-simplified.html#tk.rss_all)
 - [What is an internal developer platform? PaaS done your way](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html#tk.rss_all)
 - [What is discovery and dependency mapping?](https://www.infoworld.com/article/3609876/what-is-discovery-and-dependency-mapping.html#tk.rss_all)
 - [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_all)
@@ -402,8 +404,6 @@ ordinary men.</p>
 - [How Aerospike achieves fine-grained global replication](https://www.infoworld.com/article/3607973/how-aerospike-achieves-fine-grained-global-replication.html#tk.rss_all)
 - [How to choose a cloud serverless platform](https://www.infoworld.com/article/3605129/how-to-choose-a-cloud-serverless-platform.html#tk.rss_all)
 - [Microsoft Mesh brings mixed-reality apps to Azure](https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html#tk.rss_all)
-- [IT leaders see open source as higher quality](https://www.infoworld.com/article/3609902/it-leaders-see-open-source-as-higher-quality.html#tk.rss_all)
-- [2021’s Ignite shows off new Cosmos DB features](https://www.infoworld.com/article/3609901/2021s-ignite-shows-off-new-cosmos-db-features.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

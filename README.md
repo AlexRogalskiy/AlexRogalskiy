@@ -349,16 +349,16 @@ ordinary men.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Open source projects should run office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
-- [US health agency will invest $1B to investigate 'long Covid'](https://www.nature.com/articles/d41586-021-00586-y)
-- [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values/)
-- [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
-- [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
-- [Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services](https://news.ycombinator.com/item?id=26347962)
-- [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h)
-- [Dr. Seuss books deemed offensive will be delisted from eBay](https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201)
-- [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
-- [Turntable.fm is back from the dead – and now there are two](https://www.theverge.com/2021/3/4/22313793/turntable-fm-return-two-versions-original)
+- [Burned House Horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
+- [Number Unemployed for 27 Weeks and Over](https://fred.stlouisfed.org/series/UEMP27OV)
+- [How to Build a Community: Starting with “Why?”](https://clrcrl.com/2021/03/03/how-to-build-a-community-why.html)
+- [Intel Core I7-11700K Review: Blasting Off with Rocket Lake](https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake)
+- [FizzBuzz in 65c816 Assembly for Super Mario World](https://computebeauty.com/posts/fbmw/index.html)
+- [Coursera S-1 IPO](https://www.sec.gov/Archives/edgar/data/1651562/000119312521071525/d65490ds1.htm)
+- [Isadore Singer Bridged Math and Physics](https://www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/)
+- [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
+- [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
+- [Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

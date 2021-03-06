@@ -424,16 +424,16 @@ ordinary men.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [D'Mit I need a pan to the head!](https://www.reddit.com/r/InformationTechnology/comments/lxquuz/dmit_i_need_a_pan_to_the_head/)
-- [Starting my IT degree](https://www.reddit.com/r/InformationTechnology/comments/lxpj2s/starting_my_it_degree/)
-- [Wireless Networking](https://www.reddit.com/r/InformationTechnology/comments/lxmlzj/wireless_networking/)
-- [Best LAN Switches](https://www.reddit.com/r/InformationTechnology/comments/lxmj9l/best_lan_switches/)
-- [blocked .dmg file on Mac](https://www.reddit.com/r/InformationTechnology/comments/lxf662/blocked_dmg_file_on_mac/)
-- [Cpanel not loading on my home network](https://www.reddit.com/r/InformationTechnology/comments/lx7rwp/cpanel_not_loading_on_my_home_network/)
-- [Difficult User](https://www.reddit.com/r/InformationTechnology/comments/lwy73c/difficult_user/)
-- [Should I go for my BS?](https://www.reddit.com/r/InformationTechnology/comments/lwpnis/should_i_go_for_my_bs/)
-- [Anyone using / ever used a Web isolation browser?](https://www.reddit.com/r/InformationTechnology/comments/lwo7dv/anyone_using_ever_used_a_web_isolation_browser/)
-- [What's the best way to administer a Google Workspace domain for someone else?](https://www.reddit.com/r/InformationTechnology/comments/lwavkr/whats_the_best_way_to_administer_a_google/)
+- [What classes would be best to “test the waters” before deciding on degree option?](https://www.reddit.com/r/InformationTechnology/comments/lyokiu/what_classes_would_be_best_to_test_the_waters/)
+- [Internship Interview Tips](https://www.reddit.com/r/InformationTechnology/comments/lyk3b6/internship_interview_tips/)
+- [Difference between Pilot and Phased Implementation](https://www.reddit.com/r/InformationTechnology/comments/lyi81g/difference_between_pilot_and_phased_implementation/)
+- [Sharing product image catalog solution?](https://www.reddit.com/r/InformationTechnology/comments/lyfvx2/sharing_product_image_catalog_solution/)
+- [Searching for / Discovery of Sensitive Information](https://www.reddit.com/r/InformationTechnology/comments/lyczln/searching_for_discovery_of_sensitive_information/)
+- [MS Outlook Calendar Visibility](https://www.reddit.com/r/InformationTechnology/comments/lyck1e/ms_outlook_calendar_visibility/)
+- [Mysterious error with the keyboard.](https://www.reddit.com/r/InformationTechnology/comments/lybons/mysterious_error_with_the_keyboard/)
+- [Wanting to get into Networking](https://www.reddit.com/r/InformationTechnology/comments/ly73tn/wanting_to_get_into_networking/)
+- [Swiss Army thumb drive](https://www.reddit.com/r/InformationTechnology/comments/ly46sl/swiss_army_thumb_drive/)
+- [Planning on pursuing a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ly43fy/planning_on_pursuing_a_career_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

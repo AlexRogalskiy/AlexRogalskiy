@@ -334,16 +334,16 @@ ordinary men.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: WHO 'to scrap' interim Wuhan report; UK investigating new variant](https://www.theguardian.com/world/live/2021/mar/05/coronavirus-live-news-who-wuhan-mission-uk-investigating-new-covid-variant)
-- [Thousands of New Zealanders allowed to return home after tsunami alert](https://www.theguardian.com/world/2021/mar/04/new-zealand-tsunami-warning-after-69-magnitude-earthquake)
-- [Astronomically hard: French stargazers hunt for meteorite the size of apricot](https://www.theguardian.com/world/2021/mar/05/france-meteorite-search-apricot)
-- [Brexit: EU to launch legal proceedings against UK 'very soon'](https://www.theguardian.com/politics/2021/mar/05/brexit-eu-to-launch-legal-proceedings-against-uk-very-soon)
-- [Klopp plays down Salah substitution and urges Liverpool to ‘fight harder’](https://www.theguardian.com/football/2021/mar/05/klopp-tells-liverpool-to-fight-harder-after-defeat-by-chelsea)
-- [Spate of firecracker attacks on Taiwan's invasive iguanas sparks alarm](https://www.theguardian.com/world/2021/mar/05/spate-of-firecracker-attacks-on-taiwans-invasive-iguanas-sparks-alarm)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/mar/05/premier-league-10-things-to-look-out-for-this-weekend)
-- [Black British artists send works to inspire children at school](https://www.theguardian.com/artanddesign/2021/mar/05/black-british-artists-send-works-to-inspire-children-at-school)
-- [Artist takes axe to Enlightenment tree taboo with Somerset House forest](https://www.theguardian.com/artanddesign/2021/mar/05/artist-takes-axe-to-enlightenment-tree-taboo-with-somerset-house-forest)
-- [Survey shows UK parents’ concern over Covid effect on children’s activity](https://www.theguardian.com/sport/2021/mar/05/survey-shows-uk-parents-concern-over-covid-effect-on-childrens-activity)
+- [Perseverance Mars rover: Nasa releases first-drive review](https://www.theguardian.com/science/2021/mar/06/perseverance-mars-rover-nasa-releases-first-drive-review)
+- [Downing Street spent £2.6m refurbishing No 9 as media centre](https://www.theguardian.com/politics/2021/mar/06/downing-street-spent-26m-refurbishing-no-9-as-media-centre)
+- [Anger grows at offer of 1% pay rise for NHS staff](https://www.theguardian.com/society/2021/mar/05/anger-grows-at-offer-of-1-pay-rise-for-nhs-staff)
+- [Sanders' minimum-wage effort looks doomed as Covid bill hits roadblocks](https://www.theguardian.com/us-news/2021/mar/05/us-coronavirus-relief-package-congress-senate-biden-sanders)
+- [Pozzi rues Brexit rules that threaten Olympic hopes as Markovc takes gold](https://www.theguardian.com/sport/2021/mar/05/andrew-pozzi-brexit-rules-tokyo-olympic-hurdling-team-gb)
+- [Versace promises a return to glamour in its autumn collection](https://www.theguardian.com/fashion/2021/mar/05/versace-promises-a-return-to-glamour-in-its-autumn-collection)
+- [Soldier dies after being injured in live-fire training exercise in Wales](https://www.theguardian.com/uk-news/2021/mar/05/soldier-dies-injured-in-live-fire-training-exercise-in-wales-pembrokeshire)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/mar/05/20-photographs-of-the-week)
+- [Deutschland 89 review – the end of history? Not quite](https://www.theguardian.com/tv-and-radio/2021/mar/05/deutschland-89-review-the-end-of-history-not-quite)
+- [Lions rule out Australia and may yet play in empty South African venues](https://www.theguardian.com/sport/2021/mar/05/lions-rule-out-australia-and-may-yet-play-in-empty-south-african-venues)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

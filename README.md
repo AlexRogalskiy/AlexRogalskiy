@@ -409,16 +409,16 @@ ordinary men.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Williams F1 car launch disrupted by data leak](https://www.computerweekly.com/news/252497359/Williams-F1-car-launch-disrupted-by-data-leak)
+- [Mandiant: MS Exchange bugs first exploited in January](https://www.computerweekly.com/news/252497349/Mandiant-MS-Exchange-bugs-first-exploited-in-January)
+- [Clarification needed on IT ‘super-deduction’ allowance](https://www.computerweekly.com/news/252497347/Clarification-needed-on-IT-super-deduction-allowance)
+- [Nottinghamshire schools suspend online learning following cyber attack](https://www.computerweekly.com/news/252497342/Nottinghamshire-schools-suspend-online-learning-following-cyber-attack)
+- [Sarah Wilkinson, most influential person in UK tech 2021 – winner’s speech](https://www.computerweekly.com/video/Sarah-Wilkinson-most-influential-person-in-UK-tech-2021-winners-speech)
+- [Dealing with the challenge of beg bounties](https://www.computerweekly.com/feature/Dealing-with-the-challenge-of-beg-bounties)
+- [Affordable legal advice for all – from a robot](https://www.computerweekly.com/news/252497338/Affordable-legal-advice-for-all-from-a-robot)
+- [Innovation underpinned by trustworthy governance, says CDEI](https://www.computerweekly.com/news/252497335/Innovation-underpinned-by-trustworthy-governance-says-CDEI)
 - [Okta picks up Auth0 for $6.5bn](https://www.computerweekly.com/news/252497278/Okta-picks-up-Auth0-for-65bn)
 - [Microsoft Exchange CVEs more widely exploited than thought](https://www.computerweekly.com/news/252497276/Microsoft-Exchange-CVEs-more-widely-exploited-than-thought)
-- [Bank of Ireland to reduce branch network by almost half](https://www.computerweekly.com/news/252497265/Bank-of-Ireland-to-reduce-branch-network-by-almost-half)
-- [AI projects yield little business value so far](https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far)
-- [IR35 private sector reforms: HMRC under fire over ‘omission’ of employers’ NI from webinar guidance](https://www.computerweekly.com/news/252497274/IR35-private-sector-reforms-HMRC-under-fire-over-omission-of-Employers-NI-from-webinar-guidance)
-- [Progress towards gender equality in cyber still slow](https://www.computerweekly.com/news/252497260/Progress-towards-gender-equality-in-cyber-still-slow)
-- [Qualys caught up in Accellion FTA breach](https://www.computerweekly.com/news/252497263/Qualys-caught-up-in-Accellion-FTA-breach)
-- [Five ways that disaster recovery changes in a pandemic](https://www.computerweekly.com/feature/Five-ways-that-disaster-recovery-changes-in-a-pandemic)
-- [UK contactless payment limit more than doubled](https://www.computerweekly.com/news/252497261/UK-contactless-payment-limit-more-than-doubled)
-- [Parliament bill to create the UK's Advanced Research and Invention Agency](https://www.computerweekly.com/news/252497241/Parliament-bill-to-create-the-UKs-Advanced-Research-and-Invention-Agency)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

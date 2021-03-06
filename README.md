@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_1/hang_hang_out_766.php" target="_blank"><i>hang | hang out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/hustler_1__1292.php" target="_blank"><i>hustler (1)</i></a>
 <span> = </span>
-<span>to spend time with</span>
+<span>a person, usually male, who has sex for money</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

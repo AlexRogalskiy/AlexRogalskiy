@@ -349,16 +349,16 @@ ordinary men.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Burned House Horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
-- [Number Unemployed for 27 Weeks and Over](https://fred.stlouisfed.org/series/UEMP27OV)
-- [How to Build a Community: Starting with “Why?”](https://clrcrl.com/2021/03/03/how-to-build-a-community-why.html)
-- [Intel Core I7-11700K Review: Blasting Off with Rocket Lake](https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake)
-- [FizzBuzz in 65c816 Assembly for Super Mario World](https://computebeauty.com/posts/fbmw/index.html)
-- [Coursera S-1 IPO](https://www.sec.gov/Archives/edgar/data/1651562/000119312521071525/d65490ds1.htm)
-- [Isadore Singer Bridged Math and Physics](https://www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/)
-- [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
-- [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
-- [Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
+- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
+- [Californians aren’t leaving the state en masse – but are leaving SF, study says](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
+- [Starlogo TNG: The Next Generation (2009)](http://web.mit.edu/mitstep/projects/starlogo-tng.html)
+- [Nodes.io – a new way to create with code](https://nodes.io/)
+- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
+- [Build Your Machine Today](https://vention.io)
+- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
+- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
+- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

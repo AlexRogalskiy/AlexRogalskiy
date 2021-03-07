@@ -424,16 +424,16 @@ ordinary men.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Technical Support Representative vs IT Help Desk? Differences?](https://www.reddit.com/r/InformationTechnology/comments/lzea1k/technical_support_representative_vs_it_help_desk/)
+- [Educational advice](https://www.reddit.com/r/InformationTechnology/comments/lzbegg/educational_advice/)
+- [Looking for IT books for class](https://www.reddit.com/r/InformationTechnology/comments/lz8a4r/looking_for_it_books_for_class/)
+- [How bad is this?](https://www.reddit.com/r/InformationTechnology/comments/lyw3wl/how_bad_is_this/)
+- [What do they mean "Always Learning"?](https://www.reddit.com/r/InformationTechnology/comments/lyvfq9/what_do_they_mean_always_learning/)
+- [Buy current iMac or wait for new iMac 2021](https://www.reddit.com/r/InformationTechnology/comments/lytcci/buy_current_imac_or_wait_for_new_imac_2021/)
 - [What classes would be best to “test the waters” before deciding on degree option?](https://www.reddit.com/r/InformationTechnology/comments/lyokiu/what_classes_would_be_best_to_test_the_waters/)
 - [Internship Interview Tips](https://www.reddit.com/r/InformationTechnology/comments/lyk3b6/internship_interview_tips/)
 - [Difference between Pilot and Phased Implementation](https://www.reddit.com/r/InformationTechnology/comments/lyi81g/difference_between_pilot_and_phased_implementation/)
 - [Sharing product image catalog solution?](https://www.reddit.com/r/InformationTechnology/comments/lyfvx2/sharing_product_image_catalog_solution/)
-- [Searching for / Discovery of Sensitive Information](https://www.reddit.com/r/InformationTechnology/comments/lyczln/searching_for_discovery_of_sensitive_information/)
-- [MS Outlook Calendar Visibility](https://www.reddit.com/r/InformationTechnology/comments/lyck1e/ms_outlook_calendar_visibility/)
-- [Mysterious error with the keyboard.](https://www.reddit.com/r/InformationTechnology/comments/lybons/mysterious_error_with_the_keyboard/)
-- [Wanting to get into Networking](https://www.reddit.com/r/InformationTechnology/comments/ly73tn/wanting_to_get_into_networking/)
-- [Swiss Army thumb drive](https://www.reddit.com/r/InformationTechnology/comments/ly46sl/swiss_army_thumb_drive/)
-- [Planning on pursuing a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ly43fy/planning_on_pursuing_a_career_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

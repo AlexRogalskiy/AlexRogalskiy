@@ -334,16 +334,16 @@ ordinary men.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Perseverance Mars rover: Nasa releases first-drive review](https://www.theguardian.com/science/2021/mar/06/perseverance-mars-rover-nasa-releases-first-drive-review)
-- [Downing Street spent £2.6m refurbishing No 9 as media centre](https://www.theguardian.com/politics/2021/mar/06/downing-street-spent-26m-refurbishing-no-9-as-media-centre)
-- [Anger grows at offer of 1% pay rise for NHS staff](https://www.theguardian.com/society/2021/mar/05/anger-grows-at-offer-of-1-pay-rise-for-nhs-staff)
-- [Sanders' minimum-wage effort looks doomed as Covid bill hits roadblocks](https://www.theguardian.com/us-news/2021/mar/05/us-coronavirus-relief-package-congress-senate-biden-sanders)
-- [Pozzi rues Brexit rules that threaten Olympic hopes as Markovc takes gold](https://www.theguardian.com/sport/2021/mar/05/andrew-pozzi-brexit-rules-tokyo-olympic-hurdling-team-gb)
-- [Versace promises a return to glamour in its autumn collection](https://www.theguardian.com/fashion/2021/mar/05/versace-promises-a-return-to-glamour-in-its-autumn-collection)
-- [Soldier dies after being injured in live-fire training exercise in Wales](https://www.theguardian.com/uk-news/2021/mar/05/soldier-dies-injured-in-live-fire-training-exercise-in-wales-pembrokeshire)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/mar/05/20-photographs-of-the-week)
-- [Deutschland 89 review – the end of history? Not quite](https://www.theguardian.com/tv-and-radio/2021/mar/05/deutschland-89-review-the-end-of-history-not-quite)
-- [Lions rule out Australia and may yet play in empty South African venues](https://www.theguardian.com/sport/2021/mar/05/lions-rule-out-australia-and-may-yet-play-in-empty-south-african-venues)
+- [Coronavirus live news: Auckland finishes week of lockdown, England prepares to reopen schools](https://www.theguardian.com/world/live/2021/mar/07/coronavirus-live-news-auckland-finishes-week-of-lockdown-england-prepares-to-reopen-schools)
+- [Auckland emerges from strict weeklong Covid lockdown](https://www.theguardian.com/world/2021/mar/07/auckland-emerges-from-strict-weeklong-covid-lockdown)
+- [Most Scots would back remaining in UK, new poll suggests](https://www.theguardian.com/uk-news/2021/mar/07/most-scots-would-back-remaining-in-uk-new-poll-suggests)
+- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- ['Here fire, you hungry?' Idaho Covid protesters burn masks in front of capitol](https://www.theguardian.com/world/2021/mar/06/idaho-covid-protesters-burn-masks-state-capitol)
+- [Jodie Williams takes bronze in European Indoor 400m final](https://www.theguardian.com/sport/2021/mar/06/jodie-williams-takes-bronze-in-european-indoor-400m-final)
+- [Three Alabama professors on leave over racially insensitive Halloween pictures](https://www.theguardian.com/us-news/2021/mar/06/alabama-professors-racially-insensitive-halloween-pictures)
+- [Biden hails 'giant step' as Senate passes $1.9tn coronavirus relief bill](https://www.theguardian.com/us-news/2021/mar/06/coronavirus-relief-bill-passes-senate-joe-biden)
+- [Police name 16-year-old girl killed in south Wales](https://www.theguardian.com/uk-news/2021/mar/06/police-name-16-year-old-girl-killed-in-south-wales)
+- [Murder inquiry launched over missing woman and child as Dundee man charged](https://www.theguardian.com/uk-news/2021/mar/06/man-arrested-dundee-missing-woman-and-children-bennylyn-burke)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

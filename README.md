@@ -319,16 +319,16 @@ ordinary men.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Business Costs of Technical Debt [pdf]](https://codescene.com/technical-debt/whitepaper/calculate-business-costs-of-technical-debt.pdf)
-- [PBR Painting with WebGL](https://chro.mx/)
-- [Apple iCloud crashes due to last name “true”](https://twitter.com/RachelTrue/status/1368004197166108676)
-- [Fourty Years On](https://popey.com/blog/2021/03/fourty-years-on/)
-- [We Think We’re Better Investors Than We Are(2016)](https://www.nytimes.com/2016/03/27/your-money/why-we-think-were-better-investors-than-we-are.html)
-- [Ask HN: What's the coolest YouTube channel you've found in the past month?](https://news.ycombinator.com/item?id=26364504)
-- [Last name 'true' breaks iCloud login](https://twitter.com/RachelTrue/status/1365461618977476610)
-- [Curated Articles from News Break Stories – Flipboard](https://flipboard.com/@mehmetyildi2020/news-break-bfc27ukuz)
-- [American Airlines 737 Max declared emergency after engine stall, safely lands](https://www.aljazeera.com/news/2021/3/5/aa-737-max-declared-emergency-after-engine-stall-safely-lands)
-- [Goose Farm-Official Launch on BSC](https://goosefarm.finance/)
+- [A Digital Audio Workstation (DAW) for Microsoft Excel](https://github.com/DylanTallchiefGit/xlStudio)
+- [The Deplatforming of Father Coughlin](https://slate.com/technology/2021/01/father-coughlin-deplatforming-radio-social-media.html)
+- [A Fastify plugin to serve Vite applications](https://github.com/galvez/fastify-vite)
+- [Tim Cook: Why I Fired Scott Forstall (2012)](https://www.businessinsider.com/tim-cook-why-i-fired-scott-forstall-2012-12)
+- [Watch First Time-Lapse Footage of a Rare Moonflower Cactus Blossoming](https://www.smithsonianmag.com/smart-news/watch-moonflower-cactus-blossom-first-ever-time-lapse-footage-180977139/)
+- [If Data Could Talk: Game Theory and Economic Recovery](https://www.tableau.com/about/blog/2020/5/if-data-could-talk-game-theory-and-economic-recovery)
+- [Google Crushed Many Digital Ad Rivals. But a Challenger Is Rising](https://www.wsj.com/articles/google-crushed-many-digital-ad-rivals-but-a-challenger-is-rising-11614891030)
+- [Preserving privacy and performance will protect the future of advertising](https://www.thinkwithgoogle.com/future-of-marketing/privacy-and-trust/user-privacy-google-advertising/)
+- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
+- [TSMC at the head of history’s tide: two high walls and one sharp knife](https://www.reddit.com/r/hardware/comments/lyvkgi/tsmc_at_the_head_of_historys_tide_two_high_walls/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

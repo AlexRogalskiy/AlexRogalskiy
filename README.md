@@ -304,16 +304,16 @@ ordinary men.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Plex Integration Arrives on Apple's TV app---But Don't Expect Too Much](https://www.reviewgeek.com/72995/plex-integration-arrives-on-apples-tv-app-but-dont-expect-too-much/)
-* [Save Big During Best Buy's 3-Day Sale, Ending Sunday](https://www.reviewgeek.com/72998/save-big-during-best-buys-3-day-sale-ending-sunday/)
-* [Microsoft Edge Adds Vertical Tabs, Improved Anti-Tracking Tools](https://www.reviewgeek.com/72965/microsoft-edge-adds-vertical-tabs-improved-anti-tracking-tools/)
-* [Razer's New Smart Glasses Pump Up the Sound and (Thankfully) Skip the RGB](https://www.reviewgeek.com/72974/razers-new-smart-glasses-pump-up-the-sound-and-thankfully-skip-the-rgb/)
-* [How to Stop Windows 10 From Turning Off Your Screen](https://www.howtogeek.com/714618/how-to-stop-windows-10-from-turning-off-your-screen/)
-* [Amazon Fire TV's Lineup Now Includes 200 Free Live Channels](https://www.reviewgeek.com/72956/amazon-fire-tvs-lineup-now-includes-200-free-live-channels/)
-* [How To Stop Being Overwhelmed by Security Audits](https://www.cloudsavvyit.com/9703/how-to-stop-being-overwhelmed-by-security-audits/)
-* [How To Stop Being Overwhelmed by Security Audits](https://www.cloudsavvyit.com/9703/how-to-stop-being-overwhelmed-by-security-audits/)
-* [How to Use Researcher in Microsoft Word for Essays and Papers](https://www.howtogeek.com/711356/how-to-use-researcher-in-microsoft-word-for-essays-and-papers/)
-* [How to Get Started With Watch Face Customization on Apple Watch](https://www.howtogeek.com/712793/how-to-get-started-with-watch-face-customization-on-apple-watch/)
+* [What We're Watching: Let's Watch 'Star Trek: Voyager' Again to Remember Janeway](https://www.reviewgeek.com/72899/what-were-watching-lets-watch-star-trek-voyager-again-to-remember-janeway/)
+* [This Hero Made a Playable 'Pong' Icon for the macOS Dock](https://www.reviewgeek.com/72994/this-hero-made-a-playable-pong-icon-for-the-macos-dock/)
+* [How to Sign out of All Devices on Spotify at Once](https://www.howtogeek.com/712900/how-to-sign-out-of-all-devices-on-spotify-at-once/)
+* [Norway Now Has the World's Longest Electric Ferry, the Bastø Electric](https://www.reviewgeek.com/73025/norway-now-has-the-worlds-longest-electric-ferry-the-basto-electric/)
+* [How to Find Your Family and Friends Using Google Maps](https://www.howtogeek.com/710447/how-to-find-your-family-and-friends-using-google-maps/)
+* [Survive the Apocalypse with This Raspberry Pi-Powered Doomsday Communicator](https://www.reviewgeek.com/73054/survive-the-apocalypse-with-this-raspberry-pi-powered-doomsday-communicator/)
+* [How to Reduce Background Noise in iMovie on Mac](https://www.howtogeek.com/713005/how-to-reduce-background-noise-in-imovie-on-mac/)
+* [How to Set up Trusted Contacts for Facebook Login Emergencies](https://www.howtogeek.com/711857/how-to-set-up-trusted-contacts-for-facebook-login-emergencies/)
+* [The 7 Best Wireless Controllers for PC](https://www.reviewgeek.com/71287/the-best-wireless-controllers-for-pc/)
+* [How to Add Music to Snapchat Stories and Messages](https://www.howtogeek.com/715590/how-to-add-music-to-snapchat-stories-and-messages/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

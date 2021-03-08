@@ -420,6 +420,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft’s updated script checks for Exchange vulnerabilities](https://www.itworldcanada.com/article/microsofts-updated-script-checks-for-exchange-vulnerabilities/443491)
 - [Cyber Security Today Week In Review for Friday March 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-5-2021/443424)
 - [Women entrepreneurs adapt to new technology, mental wealth and community to build and grow business](https://www.itworldcanada.com/blog/women-entrepreneurs-adapt-to-new-technology-mental-wealth-and-community-to-build-and-grow-business/443470)
 - [Microsoft discovers more malware used by SolarWinds attacker while FireEye finds new backdoor](https://www.itworldcanada.com/article/microsoft-discovers-more-malware-used-by-solarwinds-attacker-while-fireeye-finds-new-backdoor/443444)
@@ -429,7 +430,6 @@
 - [How national standards can help define the future of AI](https://www.itworldcanada.com/blog/how-national-standards-can-help-define-the-future-of-ai/443438)
 - [AMD releases Radeon RX 6700 XT graphics card](https://www.itworldcanada.com/article/amd-releases-radeon-rx-6700-xt-graphics-card/443400)
 - [Tech giant Infosys to bring 500 jobs to Calgary](https://www.itworldcanada.com/article/tech-giant-infosys-to-bring-500-jobs-to-calgary/443412)
-- [Qualys admits its Accellion FTA server compromised by attacker](https://www.itworldcanada.com/article/qualys-admits-its-accellion-fta-server-compromised-by-attacker/443371)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

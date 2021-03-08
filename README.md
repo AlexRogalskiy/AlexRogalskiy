@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Justice/A_just_war_is_better_than_an_unjust_peace_879.php" target="_blank"><i>A just war is better than an unjust peace</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_4/Let_sleeping_dogs_lie_545.php" target="_blank"><i>Let sleeping dogs lie</i></a>
 <span> = </span>
-<span>Fighting between countries for a fair and good cause is better than no fighting in a situation that is unfair.</span>
+<span>Don't restart an old argument or conflict.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

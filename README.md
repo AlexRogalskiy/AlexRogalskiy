@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Digital Audio Workstation (DAW) for Microsoft Excel](https://github.com/DylanTallchiefGit/xlStudio)
-- [The Deplatforming of Father Coughlin](https://slate.com/technology/2021/01/father-coughlin-deplatforming-radio-social-media.html)
-- [A Fastify plugin to serve Vite applications](https://github.com/galvez/fastify-vite)
-- [Tim Cook: Why I Fired Scott Forstall (2012)](https://www.businessinsider.com/tim-cook-why-i-fired-scott-forstall-2012-12)
-- [Watch First Time-Lapse Footage of a Rare Moonflower Cactus Blossoming](https://www.smithsonianmag.com/smart-news/watch-moonflower-cactus-blossom-first-ever-time-lapse-footage-180977139/)
-- [If Data Could Talk: Game Theory and Economic Recovery](https://www.tableau.com/about/blog/2020/5/if-data-could-talk-game-theory-and-economic-recovery)
-- [Google Crushed Many Digital Ad Rivals. But a Challenger Is Rising](https://www.wsj.com/articles/google-crushed-many-digital-ad-rivals-but-a-challenger-is-rising-11614891030)
-- [Preserving privacy and performance will protect the future of advertising](https://www.thinkwithgoogle.com/future-of-marketing/privacy-and-trust/user-privacy-google-advertising/)
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [TSMC at the head of history’s tide: two high walls and one sharp knife](https://www.reddit.com/r/hardware/comments/lyvkgi/tsmc_at_the_head_of_historys_tide_two_high_walls/)
+- [PR-tree-viewer: Viewing GitHub PRs as a tree](https://github.com/Pewww/pr-tree-viewer)
+- [Easy Microsoft Voice Dictation with Win+H](https://support.microsoft.com/en-us/windows/use-dictation-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
+- [Lord Howe Island wildlife flourishes after eradicating 300k rodents](https://www.abc.net.au/news/2021-02-02/lord-howe-island-recovers-from-rat-infestation/13111770)
+- [Onyx BOOX Nova3 Color, the first color ereader supports writing](https://www.boox.com/nova3color/)
+- [Kóryos](https://en.wikipedia.org/wiki/Kóryos)
+- [Imaginary Numbers May Be Essential for Describing Reality](https://www.wired.com/story/imaginary-numbers-may-be-essential-for-describing-reality/)
+- [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
+- [New technique for controlling the microwave-photon/magnon interaction](https://scitechdaily.com/pivotal-discovery-could-open-new-field-of-quantum-technology-called-magnonics/)
+- [Cicada: Solving the Web’s Deepest Mystery (2015)](https://www.rollingstone.com/culture/culture-news/cicada-solving-the-webs-deepest-mystery-84394/)
+- [George Floyd death: How will jurors be selected in Derek Chauvin trial?](https://www.bbc.com/news/world-us-canada-56287265)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

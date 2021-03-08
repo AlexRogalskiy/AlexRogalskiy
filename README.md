@@ -240,27 +240,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644843664332423168" target="_blank"><i>Sorrow Song</i></a></summary>
-<p>by Lucille Clifton</p><p>sorrow song<br/>
-for the eyes of the children,<br/>
-the last to melt,<br/>
-the last to vaporize,<br/>
-for the lingering<br/>
-eyes of the children, staring,<br/>
-the eyes of the children of<br/>
-buchenwald,<br/>
-of viet nam and johannesburg,<br/>
-for the eyes of the children<br/>
-of nagasaki,<br/>
-for the eyes of the children<br/>
-of middle passage,<br/>
-for cherokee eyes, ethiopian eyes,<br/>
-russian eyes, american eyes,<br/>
-for all that remains of the children,<br/>
-their eyes,<br/>
-staring at us, amazed to see<br/>
-the extraordinary evil in<br/>
-ordinary men.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/645024862015029249" target="_blank"><i>Your Night Is of Lilac</i></a></summary>
+<p>by Mahmoud Darwish</p><p>The night sits wherever you are. Your night<br/>is of lilac. Every now and then a gesture escapes<br/>from the beam of your dimples, breaks the wineglass<br/>and lights up the starlight. And your night is your shadow—<br/>a fairy-tale piece of land to make our dreams<br/>equal. I am not a traveler or a dweller<br/>in your lilac night, I am he who was one day<br/>me. Whenever night grew in you I guessed<br/>the heart’s rank between two grades: neither<br/>the self accepts, nor the soul accepts. But in our bodies<br/>a heaven and an earth embrace. And all of you<br/>is your night … radiant night like planet ink. Night<br/>is the covenant of night, crawling in my body<br/>anesthetized like a fox’s sleepiness. Night diffusing a mystery<br/>that illuminates my language, whenever it is clearer<br/>I become more fearful of a tomorrow in the fist. Night<br/>staring at itself safe and assured in its<br/>endlessness, nothing celebrates it except its mirror<br/>and the ancient shepherd songs in a summer of emperors<br/>who get sick on love. Night that flourished in its Jahili poetry<br/>on the whims of Imru’ el-Qyss and others,<br/>and widened for the dreamers the milk path to a hungry<br/>moon in the remoteness of speech…</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -291,7 +272,7 @@ ordinary men.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-6°C (<i>snow</i>), humidity: 86%, pressure: 1000 (mbar), wind: /north/ 5 (m/s), cloudy: 90%</b>
+        <b>-6°C (<i>snow</i>), humidity: 68%, pressure: 1003 (mbar), wind: /north-west/ 6 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>07:36 am</b> and sets at <b>18:42 pm</b>.
     </p>
@@ -304,61 +285,61 @@ ordinary men.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: Let's Watch 'Star Trek: Voyager' Again to Remember Janeway](https://www.reviewgeek.com/72899/what-were-watching-lets-watch-star-trek-voyager-again-to-remember-janeway/)
-* [This Hero Made a Playable 'Pong' Icon for the macOS Dock](https://www.reviewgeek.com/72994/this-hero-made-a-playable-pong-icon-for-the-macos-dock/)
-* [How to Sign out of All Devices on Spotify at Once](https://www.howtogeek.com/712900/how-to-sign-out-of-all-devices-on-spotify-at-once/)
-* [Norway Now Has the World's Longest Electric Ferry, the Bastø Electric](https://www.reviewgeek.com/73025/norway-now-has-the-worlds-longest-electric-ferry-the-basto-electric/)
-* [How to Find Your Family and Friends Using Google Maps](https://www.howtogeek.com/710447/how-to-find-your-family-and-friends-using-google-maps/)
-* [Survive the Apocalypse with This Raspberry Pi-Powered Doomsday Communicator](https://www.reviewgeek.com/73054/survive-the-apocalypse-with-this-raspberry-pi-powered-doomsday-communicator/)
-* [How to Reduce Background Noise in iMovie on Mac](https://www.howtogeek.com/713005/how-to-reduce-background-noise-in-imovie-on-mac/)
-* [How to Set up Trusted Contacts for Facebook Login Emergencies](https://www.howtogeek.com/711857/how-to-set-up-trusted-contacts-for-facebook-login-emergencies/)
-* [The 7 Best Wireless Controllers for PC](https://www.reviewgeek.com/71287/the-best-wireless-controllers-for-pc/)
-* [How to Add Music to Snapchat Stories and Messages](https://www.howtogeek.com/715590/how-to-add-music-to-snapchat-stories-and-messages/)
+* [Scientists Read a 300-Year-Old Folded Letter without Opening It---Here's How](https://www.reviewgeek.com/73068/scientists-read-a-300-year-old-folded-letter-without-opening-it-heres-how/)
+* [Watch an Ultra Rare Moonflower Bloom in a Time-Lapse Video](https://www.reviewgeek.com/73009/watch-an-ultra-rate-moonflower-bloom-in-a-time-lapse-video/)
+* [How to Get Automatic Birthday Reminders on Your iPhone](https://www.howtogeek.com/711887/how-to-get-automatic-birthday-reminders-on-your-iphone/)
+* [Lay's Browser Extension Turns on YouTube Captions When It Hears You Eating Chips](https://www.reviewgeek.com/73035/lays-browser-extension-turns-on-youtube-captions-when-it-hears-you-eating-chips/)
+* [How to Quickly Switch Between Users on a Chromebook](https://www.howtogeek.com/711834/how-to-quickly-switch-between-users-on-a-chromebook/)
+* [How to Enable or Disable Hardware Acceleration in Discord](https://www.howtogeek.com/713913/how-to-enable-or-disable-hardware-acceleration-on-discord/)
+* [How to Use Microsoft Outlook as an RSS Feed Reader](https://www.howtogeek.com/710645/how-to-use-microsoft-outlook-as-an-rss-feed-reader/)
+* [Fire TV Jumps to Vehicles, Starting with Jeep's 2022 Wagoneer](https://www.reviewgeek.com/73063/fire-tv-jumps-to-vehicles-starting-with-jeeps-2022-wagoneer/)
+* [How to Export and Delete Saved Passwords in Chrome](https://www.howtogeek.com/715223/how-to-export-and-delete-saved-passwords-in-chrome/)
+* [8 Fun Tech Gadgets Your Cats and Dogs Are Sure to Love](https://www.reviewgeek.com/71942/8-fun-tech-gadgets-your-cats-and-dogs-are-sure-to-love/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Digital Audio Workstation (DAW) for Microsoft Excel](https://github.com/DylanTallchiefGit/xlStudio)
-- [The Deplatforming of Father Coughlin](https://slate.com/technology/2021/01/father-coughlin-deplatforming-radio-social-media.html)
-- [A Fastify plugin to serve Vite applications](https://github.com/galvez/fastify-vite)
-- [Tim Cook: Why I Fired Scott Forstall (2012)](https://www.businessinsider.com/tim-cook-why-i-fired-scott-forstall-2012-12)
-- [Watch First Time-Lapse Footage of a Rare Moonflower Cactus Blossoming](https://www.smithsonianmag.com/smart-news/watch-moonflower-cactus-blossom-first-ever-time-lapse-footage-180977139/)
-- [If Data Could Talk: Game Theory and Economic Recovery](https://www.tableau.com/about/blog/2020/5/if-data-could-talk-game-theory-and-economic-recovery)
-- [Google Crushed Many Digital Ad Rivals. But a Challenger Is Rising](https://www.wsj.com/articles/google-crushed-many-digital-ad-rivals-but-a-challenger-is-rising-11614891030)
-- [Preserving privacy and performance will protect the future of advertising](https://www.thinkwithgoogle.com/future-of-marketing/privacy-and-trust/user-privacy-google-advertising/)
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [TSMC at the head of history’s tide: two high walls and one sharp knife](https://www.reddit.com/r/hardware/comments/lyvkgi/tsmc_at_the_head_of_historys_tide_two_high_walls/)
+- [PR-tree-viewer: Viewing GitHub PRs as a tree](https://github.com/Pewww/pr-tree-viewer)
+- [Easy Microsoft Voice Dictation with Win+H](https://support.microsoft.com/en-us/windows/use-dictation-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
+- [Lord Howe Island wildlife flourishes after eradicating 300k rodents](https://www.abc.net.au/news/2021-02-02/lord-howe-island-recovers-from-rat-infestation/13111770)
+- [Onyx BOOX Nova3 Color, the first color ereader supports writing](https://www.boox.com/nova3color/)
+- [Kóryos](https://en.wikipedia.org/wiki/Kóryos)
+- [Imaginary Numbers May Be Essential for Describing Reality](https://www.wired.com/story/imaginary-numbers-may-be-essential-for-describing-reality/)
+- [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
+- [New technique for controlling the microwave-photon/magnon interaction](https://scitechdaily.com/pivotal-discovery-could-open-new-field-of-quantum-technology-called-magnonics/)
+- [Cicada: Solving the Web’s Deepest Mystery (2015)](https://www.rollingstone.com/culture/culture-news/cicada-solving-the-webs-deepest-mystery-84394/)
+- [George Floyd death: How will jurors be selected in Derek Chauvin trial?](https://www.bbc.com/news/world-us-canada-56287265)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Auckland finishes week of lockdown, England prepares to reopen schools](https://www.theguardian.com/world/live/2021/mar/07/coronavirus-live-news-auckland-finishes-week-of-lockdown-england-prepares-to-reopen-schools)
-- [Auckland emerges from strict weeklong Covid lockdown](https://www.theguardian.com/world/2021/mar/07/auckland-emerges-from-strict-weeklong-covid-lockdown)
-- [Most Scots would back remaining in UK, new poll suggests](https://www.theguardian.com/uk-news/2021/mar/07/most-scots-would-back-remaining-in-uk-new-poll-suggests)
-- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- ['Here fire, you hungry?' Idaho Covid protesters burn masks in front of capitol](https://www.theguardian.com/world/2021/mar/06/idaho-covid-protesters-burn-masks-state-capitol)
-- [Jodie Williams takes bronze in European Indoor 400m final](https://www.theguardian.com/sport/2021/mar/06/jodie-williams-takes-bronze-in-european-indoor-400m-final)
-- [Three Alabama professors on leave over racially insensitive Halloween pictures](https://www.theguardian.com/us-news/2021/mar/06/alabama-professors-racially-insensitive-halloween-pictures)
-- [Biden hails 'giant step' as Senate passes $1.9tn coronavirus relief bill](https://www.theguardian.com/us-news/2021/mar/06/coronavirus-relief-bill-passes-senate-joe-biden)
-- [Police name 16-year-old girl killed in south Wales](https://www.theguardian.com/uk-news/2021/mar/06/police-name-16-year-old-girl-killed-in-south-wales)
-- [Murder inquiry launched over missing woman and child as Dundee man charged](https://www.theguardian.com/uk-news/2021/mar/06/man-arrested-dundee-missing-woman-and-children-bennylyn-burke)
+- [Meghan and Harry Oprah interview live: Duchess says 'I didn't want to be alive any more'](https://www.theguardian.com/uk-news/live/2021/mar/08/harry-and-meghan-oprah-interview-what-time-tonight-channel-special-live-today-cbs-com-winfrey-prince-documentary-news)
+- [Myanmar police occupy hospitals in Yangon ahead of national strike](https://www.theguardian.com/world/2021/mar/08/myanmar-police-occupy-hospitals-in-yangon-ahead-of-national-strike)
+- [Coronavirus live news: US passes 90m vaccinations; UK daily deaths drop to 82](https://www.theguardian.com/world/live/2021/mar/08/coronavirus-live-news-us-passes-90m-vaccinations-uk-daily-deaths-drop-to-82)
+- [Government to spend £9m on Whitehall 'situation room'](https://www.theguardian.com/politics/2021/mar/08/plan-for-new-9m-whitehall-situation-room-criticised)
+- [NHS to use world's most expensive drug to treat spinal muscular atrophy](https://www.theguardian.com/society/2021/mar/08/nhs-use-worlds-most-expensive-drug-treat-spinal-muscular-atrophy-zolgensma)
+- [UK public urged to find statues of women for gender gap database](https://www.theguardian.com/culture/2021/mar/08/uk-public-urged-find-statues-women-gender-gap-database)
+- [Face masks safe to use during intense exercise, research suggests](https://www.theguardian.com/world/2021/mar/08/face-masks-safe-intense-exercise-gyms-study-covid)
+- [Mel Marshall: 'With equality and diversity, spectacular things can be achieved'](https://www.theguardian.com/sport/2021/mar/08/mel-marshall-with-equality-and-diversity-spectacular-things-can-be-achieved)
+- [Bryson DeChambeau edges out Lee Westwood at Arnold Palmer Invitational](https://www.theguardian.com/sport/2021/mar/08/bryson-dechambeau-edges-out-lee-westwood-at-arnold-palmer-invitational)
+- [Turn out the lights to save our moths](https://www.theguardian.com/environment/2021/mar/07/turn-out-the-lights-to-save-our-moths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [Californians aren’t leaving the state en masse – but are leaving SF, study says](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
-- [Starlogo TNG: The Next Generation (2009)](http://web.mit.edu/mitstep/projects/starlogo-tng.html)
-- [Nodes.io – a new way to create with code](https://nodes.io/)
-- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
-- [Build Your Machine Today](https://vention.io)
-- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
-- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
-- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
+- [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
+- [The Six-Lesson Schoolteacher, by John Taylor Gatto (1991)](https://www.cantrip.org/gatto.html)
+- [Remembering Allan McDonald: He Refused Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
+- [A Solution to the RWP for Exam 1 – Stealing Power (2006)](https://users.physics.unc.edu/~deardorf/phys25/rwp/exam1rwpsolution.html)
+- [What Happens Inside a 100-Hop IPv6 Wireless Mesh Network?](https://www.thingsquare.com/blog/articles/100-hops-ipv6-mesh/)
+- [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/)
+- [UC’s termination of Elsevier contract has had limited negative impact (2020)](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
+- [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
+- [Review: The Book of Why](https://tachy.org/posts/book-of-why/)
+- [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -424,6 +405,9 @@ ordinary men.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career advice](https://www.reddit.com/r/InformationTechnology/comments/m030ox/career_advice/)
+- [Need help with 30 minute interview.](https://www.reddit.com/r/InformationTechnology/comments/lzoj30/need_help_with_30_minute_interview/)
+- [Can my employer see the traffic on my phone using the firms Wifi?](https://www.reddit.com/r/InformationTechnology/comments/lzmyu9/can_my_employer_see_the_traffic_on_my_phone_using/)
 - [Technical Support Representative vs IT Help Desk? Differences?](https://www.reddit.com/r/InformationTechnology/comments/lzea1k/technical_support_representative_vs_it_help_desk/)
 - [Educational advice](https://www.reddit.com/r/InformationTechnology/comments/lzbegg/educational_advice/)
 - [Looking for IT books for class](https://www.reddit.com/r/InformationTechnology/comments/lz8a4r/looking_for_it_books_for_class/)
@@ -431,14 +415,12 @@ ordinary men.</p>
 - [What do they mean "Always Learning"?](https://www.reddit.com/r/InformationTechnology/comments/lyvfq9/what_do_they_mean_always_learning/)
 - [Buy current iMac or wait for new iMac 2021](https://www.reddit.com/r/InformationTechnology/comments/lytcci/buy_current_imac_or_wait_for_new_imac_2021/)
 - [What classes would be best to “test the waters” before deciding on degree option?](https://www.reddit.com/r/InformationTechnology/comments/lyokiu/what_classes_would_be_best_to_test_the_waters/)
-- [Internship Interview Tips](https://www.reddit.com/r/InformationTechnology/comments/lyk3b6/internship_interview_tips/)
-- [Difference between Pilot and Phased Implementation](https://www.reddit.com/r/InformationTechnology/comments/lyi81g/difference_between_pilot_and_phased_implementation/)
-- [Sharing product image catalog solution?](https://www.reddit.com/r/InformationTechnology/comments/lyfvx2/sharing_product_image_catalog_solution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft’s updated script checks for Exchange vulnerabilities](https://www.itworldcanada.com/article/microsofts-updated-script-checks-for-exchange-vulnerabilities/443491)
 - [Cyber Security Today Week In Review for Friday March 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-5-2021/443424)
 - [Women entrepreneurs adapt to new technology, mental wealth and community to build and grow business](https://www.itworldcanada.com/blog/women-entrepreneurs-adapt-to-new-technology-mental-wealth-and-community-to-build-and-grow-business/443470)
 - [Microsoft discovers more malware used by SolarWinds attacker while FireEye finds new backdoor](https://www.itworldcanada.com/article/microsoft-discovers-more-malware-used-by-solarwinds-attacker-while-fireeye-finds-new-backdoor/443444)
@@ -448,7 +430,6 @@ ordinary men.</p>
 - [How national standards can help define the future of AI](https://www.itworldcanada.com/blog/how-national-standards-can-help-define-the-future-of-ai/443438)
 - [AMD releases Radeon RX 6700 XT graphics card](https://www.itworldcanada.com/article/amd-releases-radeon-rx-6700-xt-graphics-card/443400)
 - [Tech giant Infosys to bring 500 jobs to Calgary](https://www.itworldcanada.com/article/tech-giant-infosys-to-bring-500-jobs-to-calgary/443412)
-- [Qualys admits its Accellion FTA server compromised by attacker](https://www.itworldcanada.com/article/qualys-admits-its-accellion-fta-server-compromised-by-attacker/443371)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

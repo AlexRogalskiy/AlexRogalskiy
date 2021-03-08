@@ -240,27 +240,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/644843664332423168" target="_blank"><i>Sorrow Song</i></a></summary>
-<p>by Lucille Clifton</p><p>sorrow song<br/>
-for the eyes of the children,<br/>
-the last to melt,<br/>
-the last to vaporize,<br/>
-for the lingering<br/>
-eyes of the children, staring,<br/>
-the eyes of the children of<br/>
-buchenwald,<br/>
-of viet nam and johannesburg,<br/>
-for the eyes of the children<br/>
-of nagasaki,<br/>
-for the eyes of the children<br/>
-of middle passage,<br/>
-for cherokee eyes, ethiopian eyes,<br/>
-russian eyes, american eyes,<br/>
-for all that remains of the children,<br/>
-their eyes,<br/>
-staring at us, amazed to see<br/>
-the extraordinary evil in<br/>
-ordinary men.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/645024862015029249" target="_blank"><i>Your Night Is of Lilac</i></a></summary>
+<p>by Mahmoud Darwish</p><p>The night sits wherever you are. Your night<br/>is of lilac. Every now and then a gesture escapes<br/>from the beam of your dimples, breaks the wineglass<br/>and lights up the starlight. And your night is your shadow—<br/>a fairy-tale piece of land to make our dreams<br/>equal. I am not a traveler or a dweller<br/>in your lilac night, I am he who was one day<br/>me. Whenever night grew in you I guessed<br/>the heart’s rank between two grades: neither<br/>the self accepts, nor the soul accepts. But in our bodies<br/>a heaven and an earth embrace. And all of you<br/>is your night … radiant night like planet ink. Night<br/>is the covenant of night, crawling in my body<br/>anesthetized like a fox’s sleepiness. Night diffusing a mystery<br/>that illuminates my language, whenever it is clearer<br/>I become more fearful of a tomorrow in the fist. Night<br/>staring at itself safe and assured in its<br/>endlessness, nothing celebrates it except its mirror<br/>and the ancient shepherd songs in a summer of emperors<br/>who get sick on love. Night that flourished in its Jahili poetry<br/>on the whims of Imru’ el-Qyss and others,<br/>and widened for the dreamers the milk path to a hungry<br/>moon in the remoteness of speech…</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

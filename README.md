@@ -330,16 +330,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [Californians aren’t leaving the state en masse – but are leaving SF, study says](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
-- [Starlogo TNG: The Next Generation (2009)](http://web.mit.edu/mitstep/projects/starlogo-tng.html)
-- [Nodes.io – a new way to create with code](https://nodes.io/)
-- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
-- [Build Your Machine Today](https://vention.io)
-- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
-- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
-- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
+- [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
+- [The Six-Lesson Schoolteacher, by John Taylor Gatto (1991)](https://www.cantrip.org/gatto.html)
+- [Remembering Allan McDonald: He Refused Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
+- [A Solution to the RWP for Exam 1 – Stealing Power (2006)](https://users.physics.unc.edu/~deardorf/phys25/rwp/exam1rwpsolution.html)
+- [What Happens Inside a 100-Hop IPv6 Wireless Mesh Network?](https://www.thingsquare.com/blog/articles/100-hops-ipv6-mesh/)
+- [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/)
+- [UC’s termination of Elsevier contract has had limited negative impact (2020)](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
+- [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
+- [Review: The Book of Why](https://tachy.org/posts/book-of-why/)
+- [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

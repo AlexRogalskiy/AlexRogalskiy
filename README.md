@@ -315,16 +315,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Auckland finishes week of lockdown, England prepares to reopen schools](https://www.theguardian.com/world/live/2021/mar/07/coronavirus-live-news-auckland-finishes-week-of-lockdown-england-prepares-to-reopen-schools)
-- [Auckland emerges from strict weeklong Covid lockdown](https://www.theguardian.com/world/2021/mar/07/auckland-emerges-from-strict-weeklong-covid-lockdown)
-- [Most Scots would back remaining in UK, new poll suggests](https://www.theguardian.com/uk-news/2021/mar/07/most-scots-would-back-remaining-in-uk-new-poll-suggests)
-- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- ['Here fire, you hungry?' Idaho Covid protesters burn masks in front of capitol](https://www.theguardian.com/world/2021/mar/06/idaho-covid-protesters-burn-masks-state-capitol)
-- [Jodie Williams takes bronze in European Indoor 400m final](https://www.theguardian.com/sport/2021/mar/06/jodie-williams-takes-bronze-in-european-indoor-400m-final)
-- [Three Alabama professors on leave over racially insensitive Halloween pictures](https://www.theguardian.com/us-news/2021/mar/06/alabama-professors-racially-insensitive-halloween-pictures)
-- [Biden hails 'giant step' as Senate passes $1.9tn coronavirus relief bill](https://www.theguardian.com/us-news/2021/mar/06/coronavirus-relief-bill-passes-senate-joe-biden)
-- [Police name 16-year-old girl killed in south Wales](https://www.theguardian.com/uk-news/2021/mar/06/police-name-16-year-old-girl-killed-in-south-wales)
-- [Murder inquiry launched over missing woman and child as Dundee man charged](https://www.theguardian.com/uk-news/2021/mar/06/man-arrested-dundee-missing-woman-and-children-bennylyn-burke)
+- [Meghan and Harry Oprah interview live: Duchess says 'I didn't want to be alive any more'](https://www.theguardian.com/uk-news/live/2021/mar/08/harry-and-meghan-oprah-interview-what-time-tonight-channel-special-live-today-cbs-com-winfrey-prince-documentary-news)
+- [Myanmar police occupy hospitals in Yangon ahead of national strike](https://www.theguardian.com/world/2021/mar/08/myanmar-police-occupy-hospitals-in-yangon-ahead-of-national-strike)
+- [Coronavirus live news: US passes 90m vaccinations; UK daily deaths drop to 82](https://www.theguardian.com/world/live/2021/mar/08/coronavirus-live-news-us-passes-90m-vaccinations-uk-daily-deaths-drop-to-82)
+- [Government to spend £9m on Whitehall 'situation room'](https://www.theguardian.com/politics/2021/mar/08/plan-for-new-9m-whitehall-situation-room-criticised)
+- [NHS to use world's most expensive drug to treat spinal muscular atrophy](https://www.theguardian.com/society/2021/mar/08/nhs-use-worlds-most-expensive-drug-treat-spinal-muscular-atrophy-zolgensma)
+- [UK public urged to find statues of women for gender gap database](https://www.theguardian.com/culture/2021/mar/08/uk-public-urged-find-statues-women-gender-gap-database)
+- [Face masks safe to use during intense exercise, research suggests](https://www.theguardian.com/world/2021/mar/08/face-masks-safe-intense-exercise-gyms-study-covid)
+- [Mel Marshall: 'With equality and diversity, spectacular things can be achieved'](https://www.theguardian.com/sport/2021/mar/08/mel-marshall-with-equality-and-diversity-spectacular-things-can-be-achieved)
+- [Bryson DeChambeau edges out Lee Westwood at Arnold Palmer Invitational](https://www.theguardian.com/sport/2021/mar/08/bryson-dechambeau-edges-out-lee-westwood-at-arnold-palmer-invitational)
+- [Turn out the lights to save our moths](https://www.theguardian.com/environment/2021/mar/07/turn-out-the-lights-to-save-our-moths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

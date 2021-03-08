@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/hustler_1__1292.php" target="_blank"><i>hustler (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_2/Mickey_Finn_Mickey_mickey_1447.php" target="_blank"><i>Mickey Finn | Mickey | mickey</i></a>
 <span> = </span>
-<span>a person, usually male, who has sex for money</span>
+<span>a drink to which a drug has been added to make the drinker sleepy or unconscious</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

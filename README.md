@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Time/once_in_a_blue_moon_99.php" target="_blank"><i>once in a blue moon</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Food/the_upper_crust_492.php" target="_blank"><i>the upper crust</i></a>
 <span> = </span>
-<span>If something happens once in a blue moon, it happens very rarely.</span>
+<span>If you are one of the upper crust, you are a member of society's highest class.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

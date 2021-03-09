@@ -345,16 +345,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google matches Mozilla, reduces time between Chrome upgrades to four weeks](https://www.computerworld.com/article/3610705/google-matches-mozilla-reduces-time-between-chrome-upgrades-to-four-weeks.html#tk.rss_all)
+- [Apple's AR glasses and a future for 'AppleCare'](https://www.computerworld.com/article/3610753/apples-ar-glasses-and-a-future-for-applecare.html#tk.rss_all)
+- [US IT jobs growth continues, but at a slower pace, in February](https://www.computerworld.com/article/3542681/us-it-jobs-growth-continues-but-at-a-slower-pace-in-february.html#tk.rss_all)
+- [Pause Patch Tuesday updates, watch out for Exchange server attacks](https://www.computerworld.com/article/3610703/pause-patch-tuesday-updates-watch-out-for-exchange-server-attacks.html#tk.rss_all)
+- [WFH security lessons from the pandemic](https://www.computerworld.com/article/3609596/wfh-security-lessons-from-the-pandemic.html#tk.rss_all)
+- [Cybersecurity in 2021: Stopping the madness](https://www.csoonline.com/article/3610369/cybersecurity-in-2021-stopping-the-madness.html#tk.rss_all)
 - [HSBC now offers Mac-friendly choice scheme](https://www.computerworld.com/article/3610689/hsbc-now-offers-mac-friendly-choice-scheme.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Microsoft deepens Teams ties with Dynamics 365](https://www.computerworld.com/article/3610392/microsoft-deepens-teams-ties-with-dynamics-365.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Podcast: iPhone 13 rumors: More storage, better camera and always-on display](https://www.computerworld.com/article/3610393/iphone-13-rumors-more-storage-better-camera-and-always-on-display.html#tk.rss_all)
-- [UK regulators launch Apple App Store probe](https://www.computerworld.com/article/3610510/uk-regulators-launch-apple-app-store-probe.html#tk.rss_all)
-- [Microsoft Mesh and Viva: Revolutionizing the corporate dynamic for success](https://www.computerworld.com/article/3610416/microsoft-mesh-and-viva-revolutionizing-the-corporate-dynamic-for-success.html#tk.rss_all)
-- [Love Chrome shortcuts? Wait 'til you see this](https://www.computerworld.com/article/3610171/chrome-shortcuts.html#tk.rss_all)
-- [BrandPost: How to Keep a Lid on Your Container Costs](https://www.computerworld.com/article/3610415/how-to-keep-a-lid-on-your-container-costs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

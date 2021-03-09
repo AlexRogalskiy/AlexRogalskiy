@@ -375,16 +375,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Devops salaries continued to rise during the pandemic](https://www.infoworld.com/article/3610405/devops-salaries-continued-to-rise-during-the-pandemic.html#tk.rss_all)
+- [Career roadmap: Database Administrator](https://www.idginsiderpro.com/article/3610419/career-roadmap-database-administrator.html#tk.rss_all)
+- [You can’t escape Pulumi and other IaC tools](https://www.infoworld.com/article/3610701/you-cant-escape-pulumi-and-other-iac-tools.html#tk.rss_all)
+- [Visual Studio Code 1.54 runs on Apple Silicon](https://www.infoworld.com/article/3610697/visual-studio-code-154-runs-on-apple-silicon.html#tk.rss_all)
+- [How to work with read-only collections in C#](https://www.infoworld.com/article/3610473/how-to-work-with-read-only-collections-in-csharp.html#tk.rss_all)
+- [6 security risks in software development and how to address them](https://www.infoworld.com/article/3607914/6-security-risks-in-software-development-and-how-to-address-them.html#tk.rss_all)
+- [Cybersecurity in 2021: Stopping the madness](https://www.csoonline.com/article/3610369/cybersecurity-in-2021-stopping-the-madness.html#tk.rss_all)
 - [Visual Studio 2019 16.9 brings memory error detection, C++ capabilities](https://www.infoworld.com/article/3610453/visual-studio-2019-169-brings-memory-error-detection-c-capabilities.html#tk.rss_all)
 - [Multicloud architecture decomposition simplified](https://www.infoworld.com/article/3610423/multicloud-architecture-decomposition-simplified.html#tk.rss_all)
 - [What is an internal developer platform? PaaS done your way](https://www.infoworld.com/article/3610335/what-is-an-internal-developer-platform-paas-done-your-way.html#tk.rss_all)
-- [What is discovery and dependency mapping?](https://www.infoworld.com/article/3609876/what-is-discovery-and-dependency-mapping.html#tk.rss_all)
-- [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_all)
-- [Microsoft’s Power Fx low-code language channels Excel](https://www.infoworld.com/article/3610390/microsofts-power-fx-low-code-language-channels-excel.html#tk.rss_all)
-- [What Python’s new pattern matching can do for you](https://www.infoworld.com/article/3609208/what-pythons-new-pattern-matching-can-do-for-you.html#tk.rss_all)
-- [How Aerospike achieves fine-grained global replication](https://www.infoworld.com/article/3607973/how-aerospike-achieves-fine-grained-global-replication.html#tk.rss_all)
-- [How to choose a cloud serverless platform](https://www.infoworld.com/article/3605129/how-to-choose-a-cloud-serverless-platform.html#tk.rss_all)
-- [Microsoft Mesh brings mixed-reality apps to Azure](https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

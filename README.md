@@ -390,16 +390,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Wipro makes its biggest acquisition ever with $1.45bn takeover](https://www.computerweekly.com/news/252497453/Wipro-makes-its-biggest-acquisition-ever-with-145bn-takeover)
+- [US teases retaliation over state-backed cyber attacks](https://www.computerweekly.com/news/252497440/US-teases-retaliation-over-state-backed-cyber-attacks)
+- [Government to change unfair private prosecution rules used to prosecute innocent subpostmasters](https://www.computerweekly.com/news/252497419/Government-to-change-unfair-private-prosecutions-used-to-prosecute-innocent-subpostmasters)
+- [Why it’s fantastic to be a woman in the technology sector (and what’s stopping more from joining)](https://www.computerweekly.com/news/252497339/Why-its-fantastic-to-be-a-woman-in-the-technology-sector-and-whats-stopping-more-from-joining)
+- [Nordic innovators change emphasis on gender equality in society](https://www.computerweekly.com/news/252497344/Nordic-innovators-change-emphasis-on-gender-equality-in-society)
+- [With connectivity on the rise, Africa is a hotspot for datacentre investments](https://www.computerweekly.com/feature/With-connectivity-on-the-rise-Africa-is-a-hotspot-for-datacentre-investments)
 - [Williams F1 car launch disrupted by data leak](https://www.computerweekly.com/news/252497359/Williams-F1-car-launch-disrupted-by-data-leak)
 - [Mandiant: MS Exchange bugs first exploited in January](https://www.computerweekly.com/news/252497349/Mandiant-MS-Exchange-bugs-first-exploited-in-January)
 - [Clarification needed on IT ‘super-deduction’ allowance](https://www.computerweekly.com/news/252497347/Clarification-needed-on-IT-super-deduction-allowance)
 - [Nottinghamshire schools suspend online learning following cyber attack](https://www.computerweekly.com/news/252497342/Nottinghamshire-schools-suspend-online-learning-following-cyber-attack)
-- [Sarah Wilkinson, most influential person in UK tech 2021 – winner’s speech](https://www.computerweekly.com/video/Sarah-Wilkinson-most-influential-person-in-UK-tech-2021-winners-speech)
-- [Dealing with the challenge of beg bounties](https://www.computerweekly.com/feature/Dealing-with-the-challenge-of-beg-bounties)
-- [Affordable legal advice for all – from a robot](https://www.computerweekly.com/news/252497338/Affordable-legal-advice-for-all-from-a-robot)
-- [Innovation underpinned by trustworthy governance, says CDEI](https://www.computerweekly.com/news/252497335/Innovation-underpinned-by-trustworthy-governance-says-CDEI)
-- [Okta picks up Auth0 for $6.5bn](https://www.computerweekly.com/news/252497278/Okta-picks-up-Auth0-for-65bn)
-- [Microsoft Exchange CVEs more widely exploited than thought](https://www.computerweekly.com/news/252497276/Microsoft-Exchange-CVEs-more-widely-exploited-than-thought)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_4/Let_sleeping_dogs_lie_545.php" target="_blank"><i>Let sleeping dogs lie</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/Brevity_is_the_soul_of_wit_934.php" target="_blank"><i>Brevity is the soul of wit</i></a>
 <span> = </span>
-<span>Don't restart an old argument or conflict.</span>
+<span>The real art of speaking (especially when speaking humorously) is to use as few words as possible.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

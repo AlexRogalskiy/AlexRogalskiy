@@ -300,16 +300,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [PR-tree-viewer: Viewing GitHub PRs as a tree](https://github.com/Pewww/pr-tree-viewer)
-- [Easy Microsoft Voice Dictation with Win+H](https://support.microsoft.com/en-us/windows/use-dictation-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
-- [Lord Howe Island wildlife flourishes after eradicating 300k rodents](https://www.abc.net.au/news/2021-02-02/lord-howe-island-recovers-from-rat-infestation/13111770)
-- [Onyx BOOX Nova3 Color, the first color ereader supports writing](https://www.boox.com/nova3color/)
-- [Kóryos](https://en.wikipedia.org/wiki/Kóryos)
-- [Imaginary Numbers May Be Essential for Describing Reality](https://www.wired.com/story/imaginary-numbers-may-be-essential-for-describing-reality/)
-- [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
-- [New technique for controlling the microwave-photon/magnon interaction](https://scitechdaily.com/pivotal-discovery-could-open-new-field-of-quantum-technology-called-magnonics/)
-- [Cicada: Solving the Web’s Deepest Mystery (2015)](https://www.rollingstone.com/culture/culture-news/cicada-solving-the-webs-deepest-mystery-84394/)
-- [George Floyd death: How will jurors be selected in Derek Chauvin trial?](https://www.bbc.com/news/world-us-canada-56287265)
+- [Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble](https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/)
+- [India is trying to build its own internet](https://www.cnn.com/2021/03/08/tech/india-internet-homegrown-apps/index.html)
+- [Bertrand Russell – Great Interview with John Chandos – 1961](https://www.youtube.com/watch?v=GJsT0NgLnCk)
+- [Show HN: BossBot – Auto-remove email reply clutter from GitHub Issues comments](https://github.com/marketplace/actions/bossbot-github-issue-comment-cleanup)
+- [I self-published a paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1)
+- [I’m Unlearning Writing-101](https://shehancpa.substack.com/p/im-unlearning-writing-101)
+- [Engineering Impacts of Anonymous Author Code Review: A Field Experiment](https://ieeexplore.ieee.org/document/9361116?linkId=112465987)
+- [After 100 Years, Can We Finally Crack Post’s Problem of Tag?](https://writings.stephenwolfram.com/2021/03/after-100-years-can-we-finally-crack-posts-problem-of-tag-a-story-of-computational-irreducibility-and-more/)
+- [On Hosting Sites from Your Editor](https://amasad.me/hosting)
+- [Brand New Tube – Video Sharing Platform](https://brandnewtube.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

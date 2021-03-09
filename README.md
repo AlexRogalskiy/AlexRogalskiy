@@ -420,16 +420,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [ITWC launches fintech and blockchain recognition program and searches for Canada’s top women in cybersecurity](https://www.itworldcanada.com/article/itwc-launches-fintech-and-blockchain-recognition-program-and-searches-for-canadas-top-women-in-cybersecurity/443560)
+- [Accelerate your digital strategy with Equinix’s platform for global digital infrastructure](https://www.itworldcanada.com/sponsored/accelerate-your-digital-strategy-with-equinixs-platform-for-global-digital-infrastructure)
+- [Breaking down men’s ‘easier path’ up the corporate ladder](https://www.itworldcanada.com/article/breaking-down-mens-easier-path-up-the-corporate-ladder/443475)
+- [Number of women in cybersecurity who see gender bias is dropping, according to survey](https://www.itworldcanada.com/article/number-of-women-in-cybersecurity-who-see-gender-bias-is-dropping-according-to-survey/443488)
+- [Apple to discontinue the iMac Pro](https://www.itworldcanada.com/article/apple-to-discontinue-the-imac-pro/443529)
+- [The great divide: business leaders are split on long-term remote working. This is what Spotify, Twitter, Goldman Sachs, and others have announced – Insider](https://www.itworldcanada.com/post/the-great-divide-business-leaders-are-split-on-long-term-remote-working-this-is-what-spotify-twitter-goldman-sachs-and-others-have-announced-insider)
+- [Cyber Security Today, March 8, 2021 – Patching, data breaches and a spoiled racing car announcement](https://www.itworldcanada.com/article/cyber-security-today-march-8-2021-patching-data-breaches-and-a-spoiled-racing-car-announcement/443501)
+- [Hashtag Trending, March 8, 2021 – Another global cybersecurity crisis; 100TB hard drives; Digital accessibility](https://www.itworldcanada.com/article/hashtag-trending-march-8-2021-another-global-cybersecurity-crisis-100tb-hard-drives-digital-accessibility/443503)
 - [Microsoft’s updated script checks for Exchange vulnerabilities](https://www.itworldcanada.com/article/microsofts-updated-script-checks-for-exchange-vulnerabilities/443491)
 - [Cyber Security Today Week In Review for Friday March 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-5-2021/443424)
-- [Women entrepreneurs adapt to new technology, mental wealth and community to build and grow business](https://www.itworldcanada.com/blog/women-entrepreneurs-adapt-to-new-technology-mental-wealth-and-community-to-build-and-grow-business/443470)
-- [Microsoft discovers more malware used by SolarWinds attacker while FireEye finds new backdoor](https://www.itworldcanada.com/article/microsoft-discovers-more-malware-used-by-solarwinds-attacker-while-fireeye-finds-new-backdoor/443444)
-- [Microsoft introduces Azure Sentinel updates, a mobile security app, new certifications, and much more](https://www.itworldcanada.com/article/security-announcements-at-microsoft-ignite/443445)
-- [Cyber Security Today, March 5, 2021 – Ransomware gang patterns revealed, software code bug exploited, malware hidden in images, and mysterious hacks of criminal forums](https://www.itworldcanada.com/article/cyber-security-today-ransomware-gang-patterns-revealed-software-code-bug-exploited-beware-of-malware-hidden-in-images-and-mysterious-hacks-of-criminal-forums/443430)
-- [Hashtag Trending, March 5, 2021 – Twitter’s plans to grow Canadian engineering hub; Amazon union showdown; Upskilling challenges](https://www.itworldcanada.com/article/hashtag-trending-march-5-2021-twitters-plans-to-grow-canadian-engineering-hub-amazon-union-showdown-upskilling-challenges/443427)
-- [How national standards can help define the future of AI](https://www.itworldcanada.com/blog/how-national-standards-can-help-define-the-future-of-ai/443438)
-- [AMD releases Radeon RX 6700 XT graphics card](https://www.itworldcanada.com/article/amd-releases-radeon-rx-6700-xt-graphics-card/443400)
-- [Tech giant Infosys to bring 500 jobs to Calgary](https://www.itworldcanada.com/article/tech-giant-infosys-to-bring-500-jobs-to-calgary/443412)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

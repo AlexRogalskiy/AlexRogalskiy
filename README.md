@@ -285,16 +285,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Read a 300-Year-Old Folded Letter without Opening It---Here's How](https://www.reviewgeek.com/73068/scientists-read-a-300-year-old-folded-letter-without-opening-it-heres-how/)
-* [Watch an Ultra Rare Moonflower Bloom in a Time-Lapse Video](https://www.reviewgeek.com/73009/watch-an-ultra-rate-moonflower-bloom-in-a-time-lapse-video/)
-* [How to Get Automatic Birthday Reminders on Your iPhone](https://www.howtogeek.com/711887/how-to-get-automatic-birthday-reminders-on-your-iphone/)
-* [Lay's Browser Extension Turns on YouTube Captions When It Hears You Eating Chips](https://www.reviewgeek.com/73035/lays-browser-extension-turns-on-youtube-captions-when-it-hears-you-eating-chips/)
-* [How to Quickly Switch Between Users on a Chromebook](https://www.howtogeek.com/711834/how-to-quickly-switch-between-users-on-a-chromebook/)
-* [How to Enable or Disable Hardware Acceleration in Discord](https://www.howtogeek.com/713913/how-to-enable-or-disable-hardware-acceleration-on-discord/)
-* [How to Use Microsoft Outlook as an RSS Feed Reader](https://www.howtogeek.com/710645/how-to-use-microsoft-outlook-as-an-rss-feed-reader/)
-* [Fire TV Jumps to Vehicles, Starting with Jeep's 2022 Wagoneer](https://www.reviewgeek.com/73063/fire-tv-jumps-to-vehicles-starting-with-jeeps-2022-wagoneer/)
-* [How to Export and Delete Saved Passwords in Chrome](https://www.howtogeek.com/715223/how-to-export-and-delete-saved-passwords-in-chrome/)
-* [8 Fun Tech Gadgets Your Cats and Dogs Are Sure to Love](https://www.reviewgeek.com/71942/8-fun-tech-gadgets-your-cats-and-dogs-are-sure-to-love/)
+* [The Flic Smart Button is Now a Replacement for Echo Buttons in Smart Homes](https://www.reviewgeek.com/73236/the-flic-smart-button-is-now-a-replacement-for-echo-buttons-in-smart-homes/)
+* [QNAP NAS Devices Can Be Hacked for Cryptomining---Update Yours Now](https://www.reviewgeek.com/73231/qnap-nas-devices-can-be-hacked-for-cryptomining-update-yours-now/)
+* [High-Speed 3D Printing Method Could Produce Human Organs In Under an Hour](https://www.reviewgeek.com/73200/high-speed-3d-printing-method-could-produce-human-organs-in-under-an-hour/)
+* [Chromecast With Google TV Will Add Kids Profiles This Month](https://www.reviewgeek.com/73207/chromecast-with-google-tv-will-add-kids-profiles-this-month/)
+* [How to Quickly Copy Mac Screenshots to Clipboard](https://www.howtogeek.com/713897/how-to-quickly-copy-mac-screenshots-to-clipboard/)
+* [The iMac Pro Is Discontinued, Buy One While Supplies Last](https://www.reviewgeek.com/73179/the-imac-pro-is-discontinued-buy-while-supplies-last/)
+* [OnePlus Focuses on Better Photos With a Hasselblad Partnership](https://www.reviewgeek.com/73174/oneplus-focuses-on-better-photos-with-a-hasselblad-partnership/)
+* [How to Insert an Image Inside of Text in Microsoft Word](https://www.howtogeek.com/707608/how-to-insert-an-image-inside-of-text-in-microsoft-word/)
+* [The Best Dice and Dice Accessories for Dungeons & Dragons](https://www.reviewgeek.com/73079/the-best-dice-and-dice-accessories-for-dungeons-dragons/)
+* [How to Access Your Clipboard on Android](https://www.howtogeek.com/692835/how-to-access-your-clipboard-on-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

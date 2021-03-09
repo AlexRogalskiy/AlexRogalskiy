@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_2/come_on_1__2490.php" target="_blank"><i>come on (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_2/come_on_2__2491.php" target="_blank"><i>come on (2)</i></a>
 <span> = </span>
-<span>to make progress or to improve in some way</span>
+<span>If a light or a computer comes on, it starts working.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

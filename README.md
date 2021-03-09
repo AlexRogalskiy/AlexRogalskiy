@@ -360,6 +360,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [IT Automation: Still Room for Improvement in Some Spots](https://www.informationweek.com/big-data/ai-machine-learning/it-automation-still-room-for-improvement-in-some-spots/a/d-id/1340334?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CarParts.com Leveraged AIOps Strategy While Scaling Up](https://www.informationweek.com/devops/how-carpartscom-leveraged-aiops-strategy-while-scaling-up/a/d-id/1340324?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Make Waste-Free Product a Reality in Your Organization](https://www.informationweek.com/strategic-cio/digital-business/how-to-make-waste-free-product-a-reality-in-your-organization/a/d-id/1340276?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How We'll Conduct Algorithmic Audits in the New Economy](https://www.informationweek.com/big-data/ai-machine-learning/how-well-conduct-algorithmic-audits-in-the-new-economy/a/d-id/1340299?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,8 +370,6 @@
 - [Microsoft's Satya Nadella Talks Democratizing Tech at Ignite](https://www.informationweek.com/cloud/microsofts-satya-nadella-talks-democratizing-tech-at-ignite/d/d-id/1340303?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Value Stream Management: Fact or Fiction?](https://www.informationweek.com/strategic-cio/enterprise-agility/value-stream-management-fact-or-fiction/a/d-id/1340280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Vaccine Passports Pave the Road to the New Normal](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/vaccine-passports-pave-the-road-to-the-new-normal-/a/d-id/1340275?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IT's New Window of Opportunity to Tackle These Top Priorities](https://www.informationweek.com/strategic-cio/it-strategy/its-new-window-of-opportunity-to-tackle-these-top-priorities/d/d-id/1340264?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Do You Know These 4 Tricky Cloud Terms?](https://www.informationweek.com/cloud/do-you-know-these-4-tricky-cloud-terms-/a/d-id/1340250?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

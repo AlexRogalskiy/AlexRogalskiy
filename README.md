@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Food/the_upper_crust_492.php" target="_blank"><i>the upper crust</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/made_of_money_659.php" target="_blank"><i>made of money</i></a>
 <span> = </span>
-<span>If you are one of the upper crust, you are a member of society's highest class.</span>
+<span>If you are made of money, you have lots of money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

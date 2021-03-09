@@ -315,16 +315,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Meghan and Harry Oprah interview live: Duchess says 'I didn't want to be alive any more'](https://www.theguardian.com/uk-news/live/2021/mar/08/harry-and-meghan-oprah-interview-what-time-tonight-channel-special-live-today-cbs-com-winfrey-prince-documentary-news)
-- [Myanmar police occupy hospitals in Yangon ahead of national strike](https://www.theguardian.com/world/2021/mar/08/myanmar-police-occupy-hospitals-in-yangon-ahead-of-national-strike)
-- [Coronavirus live news: US passes 90m vaccinations; UK daily deaths drop to 82](https://www.theguardian.com/world/live/2021/mar/08/coronavirus-live-news-us-passes-90m-vaccinations-uk-daily-deaths-drop-to-82)
-- [Government to spend £9m on Whitehall 'situation room'](https://www.theguardian.com/politics/2021/mar/08/plan-for-new-9m-whitehall-situation-room-criticised)
-- [NHS to use world's most expensive drug to treat spinal muscular atrophy](https://www.theguardian.com/society/2021/mar/08/nhs-use-worlds-most-expensive-drug-treat-spinal-muscular-atrophy-zolgensma)
-- [UK public urged to find statues of women for gender gap database](https://www.theguardian.com/culture/2021/mar/08/uk-public-urged-find-statues-women-gender-gap-database)
-- [Face masks safe to use during intense exercise, research suggests](https://www.theguardian.com/world/2021/mar/08/face-masks-safe-intense-exercise-gyms-study-covid)
-- [Mel Marshall: 'With equality and diversity, spectacular things can be achieved'](https://www.theguardian.com/sport/2021/mar/08/mel-marshall-with-equality-and-diversity-spectacular-things-can-be-achieved)
-- [Bryson DeChambeau edges out Lee Westwood at Arnold Palmer Invitational](https://www.theguardian.com/sport/2021/mar/08/bryson-dechambeau-edges-out-lee-westwood-at-arnold-palmer-invitational)
-- [Turn out the lights to save our moths](https://www.theguardian.com/environment/2021/mar/07/turn-out-the-lights-to-save-our-moths)
+- [Myanmar: protesters allowed to leave apartments after being trapped by military](https://www.theguardian.com/world/2021/mar/08/myanmar-un-chief-urges-release-of-trapped-protesters)
+- [Coronavirus live news: Pfizer vaccine works on Brazil variant; US airlines ask Biden to back Covid travel guidelines](https://www.theguardian.com/world/live/2021/mar/09/coronavirus-live-news-pfizer-vaccine-works-on-brazil-variant-us-airlines-ask-biden-to-back-covid-travel-guidelines)
+- ['What have they done?': What the papers say about fallout from the Meghan and Harry interview](https://www.theguardian.com/uk-news/2021/mar/09/what-have-they-done-what-the-papers-say-about-fallout-from-the-meghan-and-harry-interview)
+- [After the wave: a decade of grieving for a daughter lost to the Japanese tsunami](https://www.theguardian.com/world/2021/mar/09/after-the-wave-a-decade-of-grieving-for-a-daughter-lost-to-the-japanese-tsunami)
+- [NHS Nightingale hospitals to close from next month](https://www.theguardian.com/world/2021/mar/09/nhs-nightingale-hospitals-to-close-from-next-month)
+- [Bangladesh's first transgender news reader takes to the airwaves](https://www.theguardian.com/world/2021/mar/09/bangladeshs-first-transgender-news-reader-takes-to-the-airwaves)
+- [Dak Prescott agrees to four-year, $160m contract with Dallas Cowboys](https://www.theguardian.com/sport/2021/mar/08/dak-prescott-dallas-cowboys-contract)
+- [Warning over photo ID law change for UK-wide and English elections](https://www.theguardian.com/politics/2021/mar/09/warning-over-photo-id-law-change-for-uk-wide-and-english-elections)
+- [Dove owner Unilever to ban excessive photo editing from its adverts](https://www.theguardian.com/business/2021/mar/09/dove-owner-unilever-to-ban-excessive-photo-editing-from-its-adverts)
+- [UK launches action plan to prevent harassment and abuse of journalists](https://www.theguardian.com/media/2021/mar/09/uk-launches-action-plan-prevent-harassment-abuse-journalists)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

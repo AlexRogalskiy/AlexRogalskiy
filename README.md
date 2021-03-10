@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Wipro makes its biggest acquisition ever with $1.45bn takeover](https://www.computerweekly.com/news/252497453/Wipro-makes-its-biggest-acquisition-ever-with-145bn-takeover)
-- [US teases retaliation over state-backed cyber attacks](https://www.computerweekly.com/news/252497440/US-teases-retaliation-over-state-backed-cyber-attacks)
-- [Government to change unfair private prosecution rules used to prosecute innocent subpostmasters](https://www.computerweekly.com/news/252497419/Government-to-change-unfair-private-prosecutions-used-to-prosecute-innocent-subpostmasters)
-- [Why it’s fantastic to be a woman in the technology sector (and what’s stopping more from joining)](https://www.computerweekly.com/news/252497339/Why-its-fantastic-to-be-a-woman-in-the-technology-sector-and-whats-stopping-more-from-joining)
-- [Nordic innovators change emphasis on gender equality in society](https://www.computerweekly.com/news/252497344/Nordic-innovators-change-emphasis-on-gender-equality-in-society)
-- [With connectivity on the rise, Africa is a hotspot for datacentre investments](https://www.computerweekly.com/feature/With-connectivity-on-the-rise-Africa-is-a-hotspot-for-datacentre-investments)
-- [Williams F1 car launch disrupted by data leak](https://www.computerweekly.com/news/252497359/Williams-F1-car-launch-disrupted-by-data-leak)
-- [Mandiant: MS Exchange bugs first exploited in January](https://www.computerweekly.com/news/252497349/Mandiant-MS-Exchange-bugs-first-exploited-in-January)
-- [Clarification needed on IT ‘super-deduction’ allowance](https://www.computerweekly.com/news/252497347/Clarification-needed-on-IT-super-deduction-allowance)
-- [Nottinghamshire schools suspend online learning following cyber attack](https://www.computerweekly.com/news/252497342/Nottinghamshire-schools-suspend-online-learning-following-cyber-attack)
+- [How biotech firm Luminex manages field service](https://www.computerweekly.com/news/252497526/How-biotech-firm-Luminex-manages-field-service)
+- [Containers: Learning from the pioneers](https://www.computerweekly.com/opinion/Containers-Learning-from-the-pioneers)
+- [Hybrid working, diversity progress – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Hybrid-working-diversity-progress-Computer-Weekly-Downtime-Upload-podcast)
+- [Belgian police raid 200 premises in drug operation linked to breach of encrypted phone network](https://www.computerweekly.com/news/252497531/Belgian-police-raid-200-premises-in-drug-operation-linked-to-breach-of-encrypted-phone-network)
+- [Why your business needs SOC as a service](https://www.computerweekly.com/opinion/Why-your-business-needs-SOC-as-a-service)
+- [Significant jump in number of hackers reporting vulnerabilities to companies](https://www.computerweekly.com/news/252497527/Significant-jump-in-number-of-hackers-reporting-vulnerabilities-to-companies)
+- [NHS datacentre transformation projects continue apace during pandemic](https://www.computerweekly.com/feature/NHS-datacentre-transformation-projects-continue-apace-during-pandemic)
+- [UK's Starling Bank reaches unicorn status](https://www.computerweekly.com/news/252497517/Starling-bank-reaches-unicorn-status)
+- [DevOps pros get salary boost in spite of Covid squeeze](https://www.computerweekly.com/news/252497505/DevOps-Pros-get-salary-boost-in-spite-of-Covid-squeeze)
+- [Gartner: Three tips to avoid cloud service suspension](https://www.computerweekly.com/opinion/Gartner-Three-tips-to-avoid-cloud-service-suspension)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

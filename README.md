@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/Brevity_is_the_soul_of_wit_934.php" target="_blank"><i>Brevity is the soul of wit</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/The_greater_the_sinner_the_greater_the_saint_978.php" target="_blank"><i>The greater the sinner, the greater the saint</i></a>
 <span> = </span>
-<span>The real art of speaking (especially when speaking humorously) is to use as few words as possible.</span>
+<span>1) If a bad person can become good, a very bad person can become very good. Someone with great energy for doing bad, may, when he chooses, apply it equally to doing good. 2) Converts are the most zealous. In a day-to-day sense, for example, someone who has given up smoking may preach more about the virtues of not smoking than someone who never smoked.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

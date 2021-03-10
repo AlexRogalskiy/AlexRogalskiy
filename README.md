@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How CIOs Can Recruit More Women into IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-cios-can-recruit-more-women-into-it/d/d-id/1340340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Enabling Your Workforce for the Digital Workplace](https://www.informationweek.com/strategic-cio/digital-business/enabling-your-workforce-for-the-digital-workplace/a/d-id/1340277?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Automation: Still Room for Improvement in Some Spots](https://www.informationweek.com/big-data/ai-machine-learning/it-automation-still-room-for-improvement-in-some-spots/a/d-id/1340334?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CarParts.com Leveraged AIOps Strategy While Scaling Up](https://www.informationweek.com/devops/how-carpartscom-leveraged-aiops-strategy-while-scaling-up/a/d-id/1340324?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Adopting New Technologies in a Multi-Generational Workplace](https://www.informationweek.com/strategic-cio/team-building-and-staffing/adopting-new-technologies-in-a-multi-generational-workplace/a/d-id/1340274?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Tech Skills, Coding Languages to Boost Your Salary](https://www.informationweek.com/strategic-cio/team-building-and-staffing/tech-skills-coding-languages-to-boost-your-salary/d/d-id/1340304?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Microsoft's Satya Nadella Talks Democratizing Tech at Ignite](https://www.informationweek.com/cloud/microsofts-satya-nadella-talks-democratizing-tech-at-ignite/d/d-id/1340303?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Value Stream Management: Fact or Fiction?](https://www.informationweek.com/strategic-cio/enterprise-agility/value-stream-management-fact-or-fiction/a/d-id/1340280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Vaccine Passports Pave the Road to the New Normal](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/vaccine-passports-pave-the-road-to-the-new-normal-/a/d-id/1340275?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

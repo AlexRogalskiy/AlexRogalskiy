@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I want a Computer that I Own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html)
-- [New Algorithm Breaks Speed Limit for Solving Linear Equations](https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/)
-- [The Most-Used Mathematical Algorithm Idea in History (2016)](https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/)
-- [Replaying real life: how the Waymo Driver avoids fatal human crashes](https://blog.waymo.com/2021/03/replaying-real-life.html?m=1)
-- [Pay toilets and NYT: a free market microcosm](https://johnhcochrane.blogspot.com/2021/03/pay-toilets-and-nyt-free-market.html)
-- [AI learns from brain signals to create personalized attractive faces](https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/)
-- [SpaceX plans Starlink broadband for cars, boats, and planes](https://arstechnica.com/information-technology/2021/03/spacex-plans-starlink-broadband-for-cars-boats-and-planes/)
-- [Does stress impact technical interview performance? (2020) [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
-- [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
-- [Ask HN: Do you create music? let's hear it](https://news.ycombinator.com/item?id=26391254)
+- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
+- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
+- [EU seeks to supercharge computer chip production](https://www.bbc.com/news/technology-56334210)
+- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
+- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
+- [Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
+- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
+- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
+- [RSS as a Facebook alternative](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/)
+- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

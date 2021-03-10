@@ -184,9 +184,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/made_of_money_659.php" target="_blank"><i>made of money</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/a_vested_interest_126.php" target="_blank"><i>a vested interest</i></a>
 <span> = </span>
-<span>If you are made of money, you have lots of money.</span>
+<span>If you have a vested interest in something, you have a strong personal interest in it because you stand to gain from it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

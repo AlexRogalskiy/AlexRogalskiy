@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar: protesters allowed to leave apartments after being trapped by military](https://www.theguardian.com/world/2021/mar/08/myanmar-un-chief-urges-release-of-trapped-protesters)
-- [Coronavirus live news: Pfizer vaccine works on Brazil variant; US airlines ask Biden to back Covid travel guidelines](https://www.theguardian.com/world/live/2021/mar/09/coronavirus-live-news-pfizer-vaccine-works-on-brazil-variant-us-airlines-ask-biden-to-back-covid-travel-guidelines)
-- ['What have they done?': What the papers say about fallout from the Meghan and Harry interview](https://www.theguardian.com/uk-news/2021/mar/09/what-have-they-done-what-the-papers-say-about-fallout-from-the-meghan-and-harry-interview)
-- [After the wave: a decade of grieving for a daughter lost to the Japanese tsunami](https://www.theguardian.com/world/2021/mar/09/after-the-wave-a-decade-of-grieving-for-a-daughter-lost-to-the-japanese-tsunami)
-- [NHS Nightingale hospitals to close from next month](https://www.theguardian.com/world/2021/mar/09/nhs-nightingale-hospitals-to-close-from-next-month)
-- [Bangladesh's first transgender news reader takes to the airwaves](https://www.theguardian.com/world/2021/mar/09/bangladeshs-first-transgender-news-reader-takes-to-the-airwaves)
-- [Dak Prescott agrees to four-year, $160m contract with Dallas Cowboys](https://www.theguardian.com/sport/2021/mar/08/dak-prescott-dallas-cowboys-contract)
-- [Warning over photo ID law change for UK-wide and English elections](https://www.theguardian.com/politics/2021/mar/09/warning-over-photo-id-law-change-for-uk-wide-and-english-elections)
-- [Dove owner Unilever to ban excessive photo editing from its adverts](https://www.theguardian.com/business/2021/mar/09/dove-owner-unilever-to-ban-excessive-photo-editing-from-its-adverts)
-- [UK launches action plan to prevent harassment and abuse of journalists](https://www.theguardian.com/media/2021/mar/09/uk-launches-action-plan-prevent-harassment-abuse-journalists)
+- [Coronavirus live news: Brazil sees record deaths; Japan may stage Olympics without overseas spectators](https://www.theguardian.com/world/live/2021/mar/10/coronavirus-live-news-brazil-sees-record-deaths-japan-may-stage-olympics-without-overseas-spectators)
+- [China breaching every article in genocide convention, says legal report on Uighurs](https://www.theguardian.com/world/2021/mar/09/chinas-treatment-of-uighurs-breaches-un-genocide-convention-finds-landmark-report)
+- [China and Russia unveil joint plan for lunar space station](https://www.theguardian.com/science/2021/mar/10/china-and-russia-unveil-joint-plan-for-lunar-space-station)
+- [Serving Met officer arrested over Sarah Everard's disappearance](https://www.theguardian.com/uk-news/2021/mar/09/sarah-everard-police-cordon-flats-in-south-london)
+- [Talking Horses: Rob James set for hearing over video with dead horse](https://www.theguardian.com/sport/2021/mar/10/talking-horses-rob-james-hearing-ascot-prize-money-racing-tips)
+- [China could invade Taiwan in next six years, top US admiral warns](https://www.theguardian.com/world/2021/mar/10/china-could-invade-taiwan-in-next-six-years-top-us-admiral-warns)
+- [UK set to cut air passenger duty on domestic flights](https://www.theguardian.com/business/2021/mar/10/uk-set-to-cut-air-passenger-duty-on-domestic-flights)
+- [Swingeing cuts on cards as councils in England face funding crisis, watchdog warns](https://www.theguardian.com/society/2021/mar/10/swingeing-cuts-on-cards-as-councils-in-england-face-funding-crisis-watchdog-warns)
+- [Medieval women 'put faith in birth girdles' to protect them during childbirth](https://www.theguardian.com/science/2021/mar/10/medieval-women-put-faith-in-birth-girdles-to-protect-them-during-childbirth)
+- [Arkansas bans nearly all abortions in sweeping measure](https://www.theguardian.com/us-news/2021/mar/09/arkansas-abortion-ban-supreme-court-roe-v-wade)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

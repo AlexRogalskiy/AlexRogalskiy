@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble](https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/)
-- [India is trying to build its own internet](https://www.cnn.com/2021/03/08/tech/india-internet-homegrown-apps/index.html)
-- [Bertrand Russell – Great Interview with John Chandos – 1961](https://www.youtube.com/watch?v=GJsT0NgLnCk)
-- [Show HN: BossBot – Auto-remove email reply clutter from GitHub Issues comments](https://github.com/marketplace/actions/bossbot-github-issue-comment-cleanup)
-- [I self-published a paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1)
-- [I’m Unlearning Writing-101](https://shehancpa.substack.com/p/im-unlearning-writing-101)
-- [Engineering Impacts of Anonymous Author Code Review: A Field Experiment](https://ieeexplore.ieee.org/document/9361116?linkId=112465987)
-- [After 100 Years, Can We Finally Crack Post’s Problem of Tag?](https://writings.stephenwolfram.com/2021/03/after-100-years-can-we-finally-crack-posts-problem-of-tag-a-story-of-computational-irreducibility-and-more/)
-- [On Hosting Sites from Your Editor](https://amasad.me/hosting)
-- [Brand New Tube – Video Sharing Platform](https://brandnewtube.com/)
+- [What Is Life? Its Vast Diversity Defies Easy Definition](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/)
+- [Vladimir Nabokov's Superman poem published for the first time](https://www.theguardian.com/books/2021/mar/04/vladimir-nabokovs-superman-poem-published-for-the-first-time)
+- [As a crop, cannabis has enormous carbon emissions](https://arstechnica.com/science/2021/03/as-a-crop-cannabis-has-enormous-carbon-emissions/)
+- [Meteor explodes over Vermont with the force of 440 pounds of TNT](https://www.space.com/vermont-meteor-explodes-march-2021)
+- [Kosko 1.1: ESM Support](https://kosko.dev/blog/2021/03/09/kosko-1.1)
+- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+- [Japan to stage Tokyo Olympics without overseas spectators](https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators)
+- [Why are so many athletics records falling?](https://www.economist.com/the-economist-explains/2021/03/05/why-are-so-many-athletics-records-falling)
+- [GauGAN Turns Doodles into Photorealistic Landscapes](https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/)
+- [Cloudflare, OKTA Hacked](https://twitter.com/nyancrimew/status/1369437256193343496)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

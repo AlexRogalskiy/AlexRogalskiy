@@ -208,9 +208,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_2/come_on_2__2491.php" target="_blank"><i>come on (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/slip_up_2456.php" target="_blank"><i>slip up</i></a>
 <span> = </span>
-<span>If a light or a computer comes on, it starts working.</span>
+<span>to make a small mistake, usually because of carelessness</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What's in the latest Edge update? Vertical tabs for all, and faster start-ups](https://www.computerworld.com/article/3586259/whats-in-the-latest-edge-update-rollbacks-and-new-browser-telemetry-policies.html#tk.rss_all)
+- [Why WWDC 2021 should take place online](https://www.computerworld.com/article/3611089/why-wwdc-2021-should-take-place-online.html#tk.rss_all)
+- [Android 11 Upgrade Report Card: Well, this is awkward](https://www.computerworld.com/article/3606708/android-11-upgrade-report-card.html#tk.rss_all)
 - [Google matches Mozilla, reduces time between Chrome upgrades to four weeks](https://www.computerworld.com/article/3610705/google-matches-mozilla-reduces-time-between-chrome-upgrades-to-four-weeks.html#tk.rss_all)
 - [Apple's AR glasses and a future for 'AppleCare'](https://www.computerworld.com/article/3610753/apples-ar-glasses-and-a-future-for-applecare.html#tk.rss_all)
 - [US IT jobs growth continues, but at a slower pace, in February](https://www.computerworld.com/article/3542681/us-it-jobs-growth-continues-but-at-a-slower-pace-in-february.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [WFH security lessons from the pandemic](https://www.computerworld.com/article/3609596/wfh-security-lessons-from-the-pandemic.html#tk.rss_all)
 - [Cybersecurity in 2021: Stopping the madness](https://www.csoonline.com/article/3610369/cybersecurity-in-2021-stopping-the-madness.html#tk.rss_all)
 - [HSBC now offers Mac-friendly choice scheme](https://www.computerworld.com/article/3610689/hsbc-now-offers-mac-friendly-choice-scheme.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Microsoft deepens Teams ties with Dynamics 365](https://www.computerworld.com/article/3610392/microsoft-deepens-teams-ties-with-dynamics-365.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

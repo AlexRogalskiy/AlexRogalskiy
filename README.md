@@ -192,9 +192,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/quarterback_813.php" target="_blank"><i>quarterback</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Drink_Drugs/user_1485.php" target="_blank"><i>user</i></a>
 <span> = </span>
-<span>to lead and make decisions</span>
+<span>a person who regularly takes mind-altering drugs</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-19°C (<i>clear sky</i>), humidity: 71%, pressure: 1027 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
+        <b>-20°C (<i>clear sky</i>), humidity: 71%, pressure: 1028 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>07:30 am</b> and sets at <b>18:47 pm</b>.
     </p>
@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [The Flic Smart Button is Now a Replacement for Echo Buttons in Smart Homes](https://www.reviewgeek.com/73236/the-flic-smart-button-is-now-a-replacement-for-echo-buttons-in-smart-homes/)
-* [QNAP NAS Devices Can Be Hacked for Cryptomining---Update Yours Now](https://www.reviewgeek.com/73231/qnap-nas-devices-can-be-hacked-for-cryptomining-update-yours-now/)
-* [High-Speed 3D Printing Method Could Produce Human Organs In Under an Hour](https://www.reviewgeek.com/73200/high-speed-3d-printing-method-could-produce-human-organs-in-under-an-hour/)
-* [Chromecast With Google TV Will Add Kids Profiles This Month](https://www.reviewgeek.com/73207/chromecast-with-google-tv-will-add-kids-profiles-this-month/)
-* [How to Quickly Copy Mac Screenshots to Clipboard](https://www.howtogeek.com/713897/how-to-quickly-copy-mac-screenshots-to-clipboard/)
-* [The iMac Pro Is Discontinued, Buy One While Supplies Last](https://www.reviewgeek.com/73179/the-imac-pro-is-discontinued-buy-while-supplies-last/)
-* [OnePlus Focuses on Better Photos With a Hasselblad Partnership](https://www.reviewgeek.com/73174/oneplus-focuses-on-better-photos-with-a-hasselblad-partnership/)
-* [How to Insert an Image Inside of Text in Microsoft Word](https://www.howtogeek.com/707608/how-to-insert-an-image-inside-of-text-in-microsoft-word/)
-* [The Best Dice and Dice Accessories for Dungeons & Dragons](https://www.reviewgeek.com/73079/the-best-dice-and-dice-accessories-for-dungeons-dragons/)
-* [How to Access Your Clipboard on Android](https://www.howtogeek.com/692835/how-to-access-your-clipboard-on-android/)
+* [Chrome OS Turns 10 and Adds Nearby Sharing and Phone Hub Features](https://www.reviewgeek.com/73374/chrome-os-turns-10-and-adds-nearby-sharing-and-phone-hub-features/)
+* [Incase You Dropped It, This $35 AirPods Pro Case Provides Impact Resistance](https://www.reviewgeek.com/73340/incase-you-dropped-it-this-35-airpods-pro-case-provides-impact-resistance/)
+* [All About Nothing, The Company That Will Bring You Something](https://www.reviewgeek.com/73307/all-about-nothing-the-company-that-will-bring-you-something/)
+* [Starting at $50, Samsung's New 980 NVMe SSD Achieves Speed on a Budget](https://www.reviewgeek.com/73321/starting-at-50-samsungs-new-980-nvme-ssd-achieves-speed-on-a-budget/)
+* [Hulu's 90s Week Features a New Throwback Every Day, No VCR Required](https://www.reviewgeek.com/73296/hulus-90s-week-features-a-new-throwback-every-day-no-vcr-required/)
+* [Insta360's New Go 2 Action Camera Is About the Size of Your Thumb](https://www.reviewgeek.com/73294/insta360s-new-go-2-action-camera-is-about-the-size-of-your-thumb/)
+* [Fitbit's Ace 3 Activity and Sleep Tracker for Kids Is Available for Pre-Order](https://www.reviewgeek.com/73288/fitbits-ace-3-activity-and-sleep-tracker-for-kids-is-available-for-pre-order/)
+* [How to Stop Android Apps from Using Background Mobile Data](https://www.howtogeek.com/715337/how-to-stop-android-apps-from-using-background-mobile-data/)
+* [How to Use Breakout Rooms in a Microsoft Teams Meeting](https://www.howtogeek.com/711745/how-to-use-breakout-rooms-in-a-microsoft-teams-meeting/)
+* [Nimble's Latest Eco-Friendly Chargers are Faster, Smaller, and More Colorful](https://www.reviewgeek.com/73266/nimbles-latest-eco-friendly-chargers-are-faster-smaller-and-more-colorful/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

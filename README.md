@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [MsMpEng memory usage at 30%](https://www.reddit.com/r/InformationTechnology/comments/m1jis2/msmpeng_memory_usage_at_30/)
+- [Software/Licensing Setup](https://www.reddit.com/r/InformationTechnology/comments/m1gmbh/softwarelicensing_setup/)
+- [Active Defense Demonstration](https://www.reddit.com/r/InformationTechnology/comments/m1emfx/active_defense_demonstration/)
+- [American public university vs csu global](https://www.reddit.com/r/InformationTechnology/comments/m1d5o9/american_public_university_vs_csu_global/)
+- [Job applying](https://www.reddit.com/r/InformationTechnology/comments/m1czmo/job_applying/)
+- [Does the new hack of Exchange affect everyone that uses Outlook? (not in IT)](https://www.reddit.com/r/InformationTechnology/comments/m1bluz/does_the_new_hack_of_exchange_affect_everyone/)
 - [MS Surface pro 3](https://www.reddit.com/r/InformationTechnology/comments/m0q90v/ms_surface_pro_3/)
 - [Informational interview](https://www.reddit.com/r/InformationTechnology/comments/m0phh1/informational_interview/)
 - [Need some career advice](https://www.reddit.com/r/InformationTechnology/comments/m0ojp6/need_some_career_advice/)
 - [Two routers. Can I branch them off of each other?](https://www.reddit.com/r/InformationTechnology/comments/m0nj6x/two_routers_can_i_branch_them_off_of_each_other/)
-- [Need as much help as I can](https://www.reddit.com/r/InformationTechnology/comments/m0moyu/need_as_much_help_as_i_can/)
-- [Anyone using / ever used a Web isolation browser?](https://www.reddit.com/r/InformationTechnology/comments/m07khb/anyone_using_ever_used_a_web_isolation_browser/)
-- [Career advice](https://www.reddit.com/r/InformationTechnology/comments/m030ox/career_advice/)
-- [Need help with 30 minute interview.](https://www.reddit.com/r/InformationTechnology/comments/lzoj30/need_help_with_30_minute_interview/)
-- [Can my employer see the traffic on my phone using the firms Wifi?](https://www.reddit.com/r/InformationTechnology/comments/lzmyu9/can_my_employer_see_the_traffic_on_my_phone_using/)
-- [Technical Support Representative vs IT Help Desk? Differences?](https://www.reddit.com/r/InformationTechnology/comments/lzea1k/technical_support_representative_vs_it_help_desk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

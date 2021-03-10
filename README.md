@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Flexera: Cloud cost optimization organizations’ top priority – again](https://www.itworldcanada.com/article/flexera-cloud-cost-optimization-organizations-top-priority-again/443610)
+- [Deloitte Canada launches AI Institute](https://www.itworldcanada.com/article/deloitte-canada-launches-ai-institute/443603)
+- [New survey says organizations are tightening security with vendors after SolarWinds hack](https://www.itworldcanada.com/article/organizations-tightening-security-with-vendors-after-solarwinds-hack-survey/443585)
+- [Getting young girls interested in cybersecurity remains hard, says Twitter’s VP and CISO](https://www.itworldcanada.com/article/getting-young-girls-interested-in-cybersecurity-remains-hard-says-twitters-vp-and-ciso/443578)
+- [Hashtag Trending, March 9, 2021 – Job hunt differences between men and women; Microsoft’s Bethesda acquisition is official; Fever scanner mishap](https://www.itworldcanada.com/article/hashtag-trending-march-9-2021-job-hunt-differences-between-men-and-women-microsofts-bethesda-acquisition-is-official-fever-scanner-mishap/443572)
+- [Canadian women entrepreneurs getting access to IFundWomen program from Visa Canada](https://www.itworldcanada.com/article/canadian-women-entrepreneurs-getting-access-to-ifundwomen-program-from-visa-canada/443575)
 - [ITWC launches fintech and blockchain recognition program and searches for Canada’s top women in cybersecurity](https://www.itworldcanada.com/article/itwc-launches-fintech-and-blockchain-recognition-program-and-searches-for-canadas-top-women-in-cybersecurity/443560)
 - [Accelerate your digital strategy with Equinix’s platform for global digital infrastructure](https://www.itworldcanada.com/sponsored/accelerate-your-digital-strategy-with-equinixs-platform-for-global-digital-infrastructure)
 - [Breaking down men’s ‘easier path’ up the corporate ladder](https://www.itworldcanada.com/article/breaking-down-mens-easier-path-up-the-corporate-ladder/443475)
 - [Number of women in cybersecurity who see gender bias is dropping, according to survey](https://www.itworldcanada.com/article/number-of-women-in-cybersecurity-who-see-gender-bias-is-dropping-according-to-survey/443488)
-- [Apple to discontinue the iMac Pro](https://www.itworldcanada.com/article/apple-to-discontinue-the-imac-pro/443529)
-- [The great divide: business leaders are split on long-term remote working. This is what Spotify, Twitter, Goldman Sachs, and others have announced – Insider](https://www.itworldcanada.com/post/the-great-divide-business-leaders-are-split-on-long-term-remote-working-this-is-what-spotify-twitter-goldman-sachs-and-others-have-announced-insider)
-- [Cyber Security Today, March 8, 2021 – Patching, data breaches and a spoiled racing car announcement](https://www.itworldcanada.com/article/cyber-security-today-march-8-2021-patching-data-breaches-and-a-spoiled-racing-car-announcement/443501)
-- [Hashtag Trending, March 8, 2021 – Another global cybersecurity crisis; 100TB hard drives; Digital accessibility](https://www.itworldcanada.com/article/hashtag-trending-march-8-2021-another-global-cybersecurity-crisis-100tb-hard-drives-digital-accessibility/443503)
-- [Microsoft’s updated script checks for Exchange vulnerabilities](https://www.itworldcanada.com/article/microsofts-updated-script-checks-for-exchange-vulnerabilities/443491)
-- [Cyber Security Today Week In Review for Friday March 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-5-2021/443424)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

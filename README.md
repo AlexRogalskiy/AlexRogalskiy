@@ -240,9 +240,14 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645206055641612289" target="_blank"><i>Tonight I’ve Watched</i></a></summary>
-<p>by Sappho</p><p>Tonight I’ve watched<br/><br/>The moon and then<br/>the Pleiades<br/>go down<br/><br/>The night is now<br/>half-gone; youth<br/>goes; I am<br/><br/>in bed alone
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/645296659253837824" target="_blank"><i>Untitled</i></a></summary>
+<p>by Wu Hsin</p><p>A breeze comes<br/>
+The trees sway<br/>
+Prior to the breeze<br/>
+All is stillness<br/>
+The mind is a breeze<br/>
+Follow it back to its source<br/>
+And become still<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

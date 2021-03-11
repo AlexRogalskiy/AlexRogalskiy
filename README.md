@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Chrome OS Turns 10 and Adds Nearby Sharing and Phone Hub Features](https://www.reviewgeek.com/73374/chrome-os-turns-10-and-adds-nearby-sharing-and-phone-hub-features/)
-* [Incase You Dropped It, This $35 AirPods Pro Case Provides Impact Resistance](https://www.reviewgeek.com/73340/incase-you-dropped-it-this-35-airpods-pro-case-provides-impact-resistance/)
-* [All About Nothing, The Company That Will Bring You Something](https://www.reviewgeek.com/73307/all-about-nothing-the-company-that-will-bring-you-something/)
-* [Starting at $50, Samsung's New 980 NVMe SSD Achieves Speed on a Budget](https://www.reviewgeek.com/73321/starting-at-50-samsungs-new-980-nvme-ssd-achieves-speed-on-a-budget/)
-* [Hulu's 90s Week Features a New Throwback Every Day, No VCR Required](https://www.reviewgeek.com/73296/hulus-90s-week-features-a-new-throwback-every-day-no-vcr-required/)
-* [Insta360's New Go 2 Action Camera Is About the Size of Your Thumb](https://www.reviewgeek.com/73294/insta360s-new-go-2-action-camera-is-about-the-size-of-your-thumb/)
-* [Fitbit's Ace 3 Activity and Sleep Tracker for Kids Is Available for Pre-Order](https://www.reviewgeek.com/73288/fitbits-ace-3-activity-and-sleep-tracker-for-kids-is-available-for-pre-order/)
-* [How to Stop Android Apps from Using Background Mobile Data](https://www.howtogeek.com/715337/how-to-stop-android-apps-from-using-background-mobile-data/)
-* [How to Use Breakout Rooms in a Microsoft Teams Meeting](https://www.howtogeek.com/711745/how-to-use-breakout-rooms-in-a-microsoft-teams-meeting/)
-* [Nimble's Latest Eco-Friendly Chargers are Faster, Smaller, and More Colorful](https://www.reviewgeek.com/73266/nimbles-latest-eco-friendly-chargers-are-faster-smaller-and-more-colorful/)
+* [Never Leave Hulu Again, As ESPN+ Joins the Streaming Site](https://www.reviewgeek.com/73419/never-leave-hulu-again-as-espn-joins-the-streaming-site/)
+* [The Amazon Music App Will Sell You Band Merch Now for Some Reason](https://www.reviewgeek.com/73454/the-amazon-music-app-will-sell-you-band-merch-now-for-some-reason/)
+* [The ASUS ROG Phone 5 is a Ridiculously Overpowered Android Gaming Handset](https://www.reviewgeek.com/73443/the-asus-rog-phone-5-is-a-ridiculously-overpowered-android-gaming-handset/)
+* [The Best Smart Tech for Tracking Your Fitness at Home](https://www.reviewgeek.com/72915/the-best-smart-tech-for-tracking-your-fitness-at-home/)
+* [T-Mobile Will Share Your Data With Advertisers Unless You Opt-Out](https://www.reviewgeek.com/73440/t-mobile-will-share-your-data-with-advertisers-unless-you-opt-out/)
+* [The New $169 Sonos Roam Takes Smart Streaming On the Road](https://www.reviewgeek.com/73422/the-new-169-sonos-roam-takes-smart-streaming-on-the-road/)
+* [Photoshop Adds Native Apple M1 Mac Support for 1.5X Faster Performance](https://www.reviewgeek.com/73423/photoshop-adds-native-apple-m1-mac-support-for-1-5x-faster-performance/)
+* [How to Choose How Long Your Windows 10 PC Waits Before Sleeping](https://www.howtogeek.com/714871/how-to-choose-how-long-your-windows-10-pc-waits-before-sleeping/)
+* [How to Hide Gridlines in Google Sheets](https://www.howtogeek.com/713062/how-to-hide-gridlines-in-google-sheets/)
+* [How to Use the Whiteboard Feature in Zoom to Mark up Screens](https://www.howtogeek.com/716655/how-to-use-the-whiteboard-feature-in-zoom-to-mark-up-screens/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

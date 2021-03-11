@@ -366,6 +366,8 @@ And become still<br/></p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Hot IT Job Titles for 2021](https://www.informationweek.com/strategic-cio/10-hot-it-job-titles-for-2021/d/d-id/1340356?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Low-Code and No-Code Platforms: What IT leaders Should Consider](https://www.informationweek.com/devops/low-code-and-no-code-platforms-what-it-leaders-should-consider/a/d-id/1340337?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIOs Can Recruit More Women into IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-cios-can-recruit-more-women-into-it/d/d-id/1340340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Enabling Your Workforce for the Digital Workplace](https://www.informationweek.com/strategic-cio/digital-business/enabling-your-workforce-for-the-digital-workplace/a/d-id/1340277?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -374,8 +376,6 @@ And become still<br/></p>
 - [How to Make Waste-Free Product a Reality in Your Organization](https://www.informationweek.com/strategic-cio/digital-business/how-to-make-waste-free-product-a-reality-in-your-organization/a/d-id/1340276?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How We'll Conduct Algorithmic Audits in the New Economy](https://www.informationweek.com/big-data/ai-machine-learning/how-well-conduct-algorithmic-audits-in-the-new-economy/a/d-id/1340299?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Adopting New Technologies in a Multi-Generational Workplace](https://www.informationweek.com/strategic-cio/team-building-and-staffing/adopting-new-technologies-in-a-multi-generational-workplace/a/d-id/1340274?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Tech Skills, Coding Languages to Boost Your Salary](https://www.informationweek.com/strategic-cio/team-building-and-staffing/tech-skills-coding-languages-to-boost-your-salary/d/d-id/1340304?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Microsoft's Satya Nadella Talks Democratizing Tech at Ignite](https://www.informationweek.com/cloud/microsofts-satya-nadella-talks-democratizing-tech-at-ignite/d/d-id/1340303?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

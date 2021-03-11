@@ -336,16 +336,16 @@ And become still<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
-- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
-- [EU seeks to supercharge computer chip production](https://www.bbc.com/news/technology-56334210)
-- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
-- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
-- [Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
-- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
-- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
-- [RSS as a Facebook alternative](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/)
-- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
+- [How The New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
+- [India has the most IPv6 Adoption in the world](https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
+- [Semaphore – Modern UI for Ansible](https://github.com/ansible-semaphore/semaphore)
+- [PSA: macOS updates often modify your System Preferences to violate your Privacy](https://news.ycombinator.com/item?id=26418809)
+- [Oracle Cloud is unreachable](https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj)
+- [Xilinx Opens Up Vitis HLS Tool for FPGAs](https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/)
+- [I guess I have to watch ads everywhere on my $1,500 LG TV now](https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store)
+- [Show HN: No/Low code in-app onboarding guides for SaaS businesses](https://userflow.com)
+- [The SQLite R*Tree Module](https://www.sqlite.org/rtree.html)
+- [netaddr.IP: a new IP address type for Go](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

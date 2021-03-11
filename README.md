@@ -381,6 +381,9 @@ And become still<br/></p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_all)
+- [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_all)
+- [Rust vs. Go: How to choose](https://www.infoworld.com/article/3436960/rust-vs-go-how-to-choose.html#tk.rss_all)
 - [Microsoft announces end of .NET Core 2.1 support](https://www.infoworld.com/article/3611093/microsoft-announces-end-of-net-core-21-support.html#tk.rss_all)
 - [What Microsoft Mesh means for developers](https://www.infoworld.com/article/3610779/what-microsoft-mesh-means-for-developers.html#tk.rss_all)
 - [Google pulls the wraps off Flutter, Dart upgrades](https://www.infoworld.com/article/3610726/google-pulls-the-wraps-off-flutter-dart-upgrades.html#tk.rss_all)
@@ -388,9 +391,6 @@ And become still<br/></p>
 - [Devops salaries continued to rise during the pandemic](https://www.infoworld.com/article/3610405/devops-salaries-continued-to-rise-during-the-pandemic.html#tk.rss_all)
 - [Career roadmap: Database Administrator](https://www.idginsiderpro.com/article/3610419/career-roadmap-database-administrator.html#tk.rss_all)
 - [You can’t escape Pulumi and other IaC tools](https://www.infoworld.com/article/3610701/you-cant-escape-pulumi-and-other-iac-tools.html#tk.rss_all)
-- [Visual Studio Code 1.54 runs on Apple Silicon](https://www.infoworld.com/article/3610697/visual-studio-code-154-runs-on-apple-silicon.html#tk.rss_all)
-- [How to work with read-only collections in C#](https://www.infoworld.com/article/3610473/how-to-work-with-read-only-collections-in-csharp.html#tk.rss_all)
-- [6 security risks in software development and how to address them](https://www.infoworld.com/article/3607914/6-security-risks-in-software-development-and-how-to-address-them.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

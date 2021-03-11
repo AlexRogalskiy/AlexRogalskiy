@@ -411,16 +411,16 @@ And become still<br/></p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IPv4 vs IPv6](https://www.reddit.com/r/InformationTechnology/comments/m2d0bo/ipv4_vs_ipv6/)
+- [Could any of you guys recommend some online IT courses?](https://www.reddit.com/r/InformationTechnology/comments/m2bj6v/could_any_of_you_guys_recommend_some_online_it/)
+- [What opportunities would I have after being system administrator?](https://www.reddit.com/r/InformationTechnology/comments/m2bglw/what_opportunities_would_i_have_after_being/)
+- [Microsoft teams/outlook access from abroad](https://www.reddit.com/r/InformationTechnology/comments/m2amcg/microsoft_teamsoutlook_access_from_abroad/)
+- [Nervous about entering the IT Job market](https://www.reddit.com/r/InformationTechnology/comments/m2a4dc/nervous_about_entering_the_it_job_market/)
+- [Sync Folders](https://www.reddit.com/r/InformationTechnology/comments/m26uwd/sync_folders/)
+- [Am I the only one that receives WEIRD Google drive messages from bots/spammers?And it cannot be blocked](https://www.reddit.com/r/InformationTechnology/comments/m25bxq/am_i_the_only_one_that_receives_weird_google/)
+- [Need help estimating the cost of making a new webpage for a university.](https://www.reddit.com/r/InformationTechnology/comments/m24zox/need_help_estimating_the_cost_of_making_a_new/)
+- [Which one is superior for landing an I.T role? CareerBuilder , Zip recruiter, Indeed , Monster](https://www.reddit.com/r/InformationTechnology/comments/m1zvhb/which_one_is_superior_for_landing_an_it_role/)
 - [MsMpEng memory usage at 30%](https://www.reddit.com/r/InformationTechnology/comments/m1jis2/msmpeng_memory_usage_at_30/)
-- [Software/Licensing Setup](https://www.reddit.com/r/InformationTechnology/comments/m1gmbh/softwarelicensing_setup/)
-- [Active Defense Demonstration](https://www.reddit.com/r/InformationTechnology/comments/m1emfx/active_defense_demonstration/)
-- [American public university vs csu global](https://www.reddit.com/r/InformationTechnology/comments/m1d5o9/american_public_university_vs_csu_global/)
-- [Job applying](https://www.reddit.com/r/InformationTechnology/comments/m1czmo/job_applying/)
-- [Does the new hack of Exchange affect everyone that uses Outlook? (not in IT)](https://www.reddit.com/r/InformationTechnology/comments/m1bluz/does_the_new_hack_of_exchange_affect_everyone/)
-- [MS Surface pro 3](https://www.reddit.com/r/InformationTechnology/comments/m0q90v/ms_surface_pro_3/)
-- [Informational interview](https://www.reddit.com/r/InformationTechnology/comments/m0phh1/informational_interview/)
-- [Need some career advice](https://www.reddit.com/r/InformationTechnology/comments/m0ojp6/need_some_career_advice/)
-- [Two routers. Can I branch them off of each other?](https://www.reddit.com/r/InformationTechnology/comments/m0nj6x/two_routers_can_i_branch_them_off_of_each_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

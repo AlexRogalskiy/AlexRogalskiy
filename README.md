@@ -200,9 +200,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/The_greater_the_sinner_the_greater_the_saint_978.php" target="_blank"><i>The greater the sinner, the greater the saint</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
 <span> = </span>
-<span>1) If a bad person can become good, a very bad person can become very good. Someone with great energy for doing bad, may, when he chooses, apply it equally to doing good. 2) Converts are the most zealous. In a day-to-day sense, for example, someone who has given up smoking may preach more about the virtues of not smoking than someone who never smoked.</span>
+<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

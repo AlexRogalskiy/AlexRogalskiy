@@ -219,10 +219,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;21&#x2F;33&#x2F;7c&#x2F;21337c9fd9205db454a727ac1e1d3b37.jpg" alt="Pleonasm is the Word of the Day, but we&#39;ll try not to ramble. Want more? Get example sentences and more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6a&#x2F;34&#x2F;5c&#x2F;6a345cbcbeeca62acee4264e3dd00c14.jpg" alt="Alas, there&#39;s more than one way to say &quot;alas.&quot; Get more about the #WordOfTheDay at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;21&#x2F;33&#x2F;7c&#x2F;21337c9fd9205db454a727ac1e1d3b37.jpg" alt="Pleonasm is the Word of the Day, but we&#39;ll try not to ramble. Want more? Get example sentences and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0a&#x2F;4d&#x2F;4e&#x2F;0a4d4e559db5ed1402529b58fd4da2ba.jpg" alt="Look on the bright side. Panglossian is the Word of the Day! Click for example sentences, etymology, and more! #English #Writing #Vocabulary " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;63&#x2F;cc&#x2F;ea&#x2F;63cceaa8160a6f91cd60d5ad6af5f793.jpg" alt="Who&#39;s in charge here? Honcho is the Word of the Day. See where it comes from and more at Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;1c&#x2F;db&#x2F;d31cdbf74abcfb75d51064867ff9f4e4.jpg" alt="We had a dream that sweven was the Word of the Day. Looks like it came true!⁠ Click to get example sentences, word origin, and more. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -278,7 +278,7 @@ And become still<br/></p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-4°C (<i>clear sky</i>), humidity: 46%, pressure: 1017 (mbar), wind: /south-west/ 5 (m/s), cloudy: 0%</b>
+        <b>-5°C (<i>clear sky</i>), humidity: 54%, pressure: 1015 (mbar), wind: /south-west/ 6 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>07:27 am</b> and sets at <b>18:50 pm</b>.
     </p>

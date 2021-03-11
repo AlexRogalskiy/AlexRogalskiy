@@ -396,16 +396,16 @@ And become still<br/></p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK launches fellowship to attract tech talent to government](https://www.computerweekly.com/news/252497597/UK-launches-fellowship-to-attract-tech-talent-to-government)
+- [Met Police chooses Capgemini as strategic IT infrastructure services provider](https://www.computerweekly.com/news/252497595/Met-Police-chooses-Capgemini-as-strategic-IT-infrastructure-services-provider)
+- [SAS launches free data skills programme for job seekers](https://www.computerweekly.com/news/252497589/SAS-launches-free-data-skills-programme-for-job-seekers)
+- [Welsh FA boss linked to recruitment of controversial former Post Office executive to step down](https://www.computerweekly.com/news/252497583/Welsh-FA-boss-linked-to-recruitment-of-controversial-former-Post-Office-executive-to-step-down)
+- [Patch Tuesday overshadowed by Microsoft Exchange attacks](https://www.computerweekly.com/news/252497580/Patch-Tuesday-overshadowed-by-Microsoft-Exchange-attacks)
+- [OVHcloud confirms no casualties following fire at Strasbourg datacentre campus](https://www.computerweekly.com/news/252497578/OVHCloud-confirms-no-casualties-following-fire-at-Strasbourg-datacentre-campus)
+- [Government’s refusal of freedom of information request about Post Office scandal ‘deeply concerning’](https://www.computerweekly.com/news/252497573/Governments-refusal-of-freedom-of-information-request-about-Post-office-deeply-concerning)
+- [Police crack world’s largest cryptophone network as criminals swap EncroChat for Sky ECC](https://www.computerweekly.com/news/252497565/Police-crack-worlds-largest-cryptophone-network-as-criminals-swap-EncroChat-for-Sky-NCC)
 - [How biotech firm Luminex manages field service](https://www.computerweekly.com/news/252497526/How-biotech-firm-Luminex-manages-field-service)
 - [Containers: Learning from the pioneers](https://www.computerweekly.com/opinion/Containers-Learning-from-the-pioneers)
-- [Hybrid working, diversity progress – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Hybrid-working-diversity-progress-Computer-Weekly-Downtime-Upload-podcast)
-- [Belgian police raid 200 premises in drug operation linked to breach of encrypted phone network](https://www.computerweekly.com/news/252497531/Belgian-police-raid-200-premises-in-drug-operation-linked-to-breach-of-encrypted-phone-network)
-- [Why your business needs SOC as a service](https://www.computerweekly.com/opinion/Why-your-business-needs-SOC-as-a-service)
-- [Significant jump in number of hackers reporting vulnerabilities to companies](https://www.computerweekly.com/news/252497527/Significant-jump-in-number-of-hackers-reporting-vulnerabilities-to-companies)
-- [NHS datacentre transformation projects continue apace during pandemic](https://www.computerweekly.com/feature/NHS-datacentre-transformation-projects-continue-apace-during-pandemic)
-- [UK's Starling Bank reaches unicorn status](https://www.computerweekly.com/news/252497517/Starling-bank-reaches-unicorn-status)
-- [DevOps pros get salary boost in spite of Covid squeeze](https://www.computerweekly.com/news/252497505/DevOps-Pros-get-salary-boost-in-spite-of-Covid-squeeze)
-- [Gartner: Three tips to avoid cloud service suspension](https://www.computerweekly.com/opinion/Gartner-Three-tips-to-avoid-cloud-service-suspension)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

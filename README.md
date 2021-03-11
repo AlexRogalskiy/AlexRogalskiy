@@ -306,16 +306,16 @@ And become still<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Is Life? Its Vast Diversity Defies Easy Definition](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/)
-- [Vladimir Nabokov's Superman poem published for the first time](https://www.theguardian.com/books/2021/mar/04/vladimir-nabokovs-superman-poem-published-for-the-first-time)
-- [As a crop, cannabis has enormous carbon emissions](https://arstechnica.com/science/2021/03/as-a-crop-cannabis-has-enormous-carbon-emissions/)
-- [Meteor explodes over Vermont with the force of 440 pounds of TNT](https://www.space.com/vermont-meteor-explodes-march-2021)
-- [Kosko 1.1: ESM Support](https://kosko.dev/blog/2021/03/09/kosko-1.1)
-- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
-- [Japan to stage Tokyo Olympics without overseas spectators](https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators)
-- [Why are so many athletics records falling?](https://www.economist.com/the-economist-explains/2021/03/05/why-are-so-many-athletics-records-falling)
-- [GauGAN Turns Doodles into Photorealistic Landscapes](https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/)
-- [Cloudflare, OKTA Hacked](https://twitter.com/nyancrimew/status/1369437256193343496)
+- [Literate DevOps with Emacs Org-Mode (2014)](http://howardism.org/Technical/Emacs/literate-devops.html)
+- [FBI agents were looking for an extremely valuable cache of Civil War-era gold](https://apnews.com/article/fbi-looking-for-gold-pennsylvania-dig-site-9b6b5fc3f7550ba30edbca0845e911ce)
+- [Linux/Jiffies.h](https://github.com/torvalds/linux/blob/master/include/linux/jiffies.h)
+- [Nuclear Power Looks to Regain Its Footing 10 Years After Fukushima](https://www.scientificamerican.com/article/nuclear-power-looks-to-regain-its-footing-10-years-after-fukushima/)
+- [Russia blames Google outage on data centre fire](https://www.bbc.co.uk/news/business-56345589)
+- [Operation Pipe Dreams](https://en.wikipedia.org/wiki/Operation_Pipe_Dreams)
+- [Build a Product Recommendation Engine with Collaborative Filtering](https://www.pinecone.io/learn/product-recommendation-engine/)
+- [Building the Innovation Economy in Tel Aviv, Israel [pdf]](https://1bl5hbukq5a2dpgyuo8uvz44-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Tel-Aviv-Case-Study.pdf)
+- [CHIPSEC v1.5.10 supports the latest PaX/GRsecurity and vanilla kernel](https://github.com/chipsec/chipsec/releases/tag/1.5.10)
+- [Integromat](https://www.integromat.com/en/features)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

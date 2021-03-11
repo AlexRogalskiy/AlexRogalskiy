@@ -351,16 +351,16 @@ And become still<br/></p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Jamf move improves enterprise security and compliance for macOS](https://www.computerworld.com/article/3611212/jamf-move-improves-enterprise-security-and-compliance-for-macos.html#tk.rss_all)
+- [8 top productivity tips for Microsoft Edge](https://www.computerworld.com/article/3609905/8-top-productivity-tips-for-microsoft-edge.html#tk.rss_all)
 - [What's in the latest Edge update? Vertical tabs for all, and faster start-ups](https://www.computerworld.com/article/3586259/whats-in-the-latest-edge-update-rollbacks-and-new-browser-telemetry-policies.html#tk.rss_all)
 - [Why WWDC 2021 should take place online](https://www.computerworld.com/article/3611089/why-wwdc-2021-should-take-place-online.html#tk.rss_all)
 - [Android 11 Upgrade Report Card: Well, this is awkward](https://www.computerworld.com/article/3606708/android-11-upgrade-report-card.html#tk.rss_all)
 - [Google matches Mozilla, reduces time between Chrome upgrades to four weeks](https://www.computerworld.com/article/3610705/google-matches-mozilla-reduces-time-between-chrome-upgrades-to-four-weeks.html#tk.rss_all)
 - [Apple's AR glasses and a future for 'AppleCare'](https://www.computerworld.com/article/3610753/apples-ar-glasses-and-a-future-for-applecare.html#tk.rss_all)
-- [US IT jobs growth continues, but at a slower pace, in February](https://www.computerworld.com/article/3542681/us-it-jobs-growth-continues-but-at-a-slower-pace-in-february.html#tk.rss_all)
-- [Pause Patch Tuesday updates, watch out for Exchange server attacks](https://www.computerworld.com/article/3610703/pause-patch-tuesday-updates-watch-out-for-exchange-server-attacks.html#tk.rss_all)
-- [WFH security lessons from the pandemic](https://www.computerworld.com/article/3609596/wfh-security-lessons-from-the-pandemic.html#tk.rss_all)
-- [Cybersecurity in 2021: Stopping the madness](https://www.csoonline.com/article/3610369/cybersecurity-in-2021-stopping-the-madness.html#tk.rss_all)
-- [HSBC now offers Mac-friendly choice scheme](https://www.computerworld.com/article/3610689/hsbc-now-offers-mac-friendly-choice-scheme.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

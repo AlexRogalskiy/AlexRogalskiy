@@ -426,16 +426,16 @@ And become still<br/></p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Flexera: Cloud cost optimization organizations’ top priority – again](https://www.itworldcanada.com/article/flexera-cloud-cost-optimization-organizations-top-priority-again/443610)
-- [Deloitte Canada launches AI Institute](https://www.itworldcanada.com/article/deloitte-canada-launches-ai-institute/443603)
-- [New survey says organizations are tightening security with vendors after SolarWinds hack](https://www.itworldcanada.com/article/organizations-tightening-security-with-vendors-after-solarwinds-hack-survey/443585)
-- [Getting young girls interested in cybersecurity remains hard, says Twitter’s VP and CISO](https://www.itworldcanada.com/article/getting-young-girls-interested-in-cybersecurity-remains-hard-says-twitters-vp-and-ciso/443578)
-- [Hashtag Trending, March 9, 2021 – Job hunt differences between men and women; Microsoft’s Bethesda acquisition is official; Fever scanner mishap](https://www.itworldcanada.com/article/hashtag-trending-march-9-2021-job-hunt-differences-between-men-and-women-microsofts-bethesda-acquisition-is-official-fever-scanner-mishap/443572)
-- [Canadian women entrepreneurs getting access to IFundWomen program from Visa Canada](https://www.itworldcanada.com/article/canadian-women-entrepreneurs-getting-access-to-ifundwomen-program-from-visa-canada/443575)
-- [ITWC launches fintech and blockchain recognition program and searches for Canada’s top women in cybersecurity](https://www.itworldcanada.com/article/itwc-launches-fintech-and-blockchain-recognition-program-and-searches-for-canadas-top-women-in-cybersecurity/443560)
-- [Accelerate your digital strategy with Equinix’s platform for global digital infrastructure](https://www.itworldcanada.com/sponsored/accelerate-your-digital-strategy-with-equinixs-platform-for-global-digital-infrastructure)
-- [Breaking down men’s ‘easier path’ up the corporate ladder](https://www.itworldcanada.com/article/breaking-down-mens-easier-path-up-the-corporate-ladder/443475)
-- [Number of women in cybersecurity who see gender bias is dropping, according to survey](https://www.itworldcanada.com/article/number-of-women-in-cybersecurity-who-see-gender-bias-is-dropping-according-to-survey/443488)
+- [Rogers expands eligibility for low-cost internet program](https://www.itworldcanada.com/article/rogers-expands-eligibility-for-low-cost-internet-program/443711)
+- [CPaaS putting experience economy companies on rapid digital track](https://www.itworldcanada.com/sponsored/cpaas-putting-experience-economy-companies-on-rapid-digital-track)
+- [Government of Canada plans to launch virtual workshops about AI for the public](https://www.itworldcanada.com/article/government-of-canada-to-launch-virtual-workshops-to-understand-public-perception-of-ai/443701)
+- [Over 100,000 Exchange Servers still vulnerable, including thousands in Canada](https://www.itworldcanada.com/article/over-100000-exchange-servers-still-vulnerable-including-thousands-in-canada/443664)
+- [IT Teams: Get ready for the hybrid office](https://www.itworldcanada.com/article/it-teams-get-ready-for-the-hybrid-office/443687)
+- [Why in-person workers may be more likely to get promoted – BBC](https://www.itworldcanada.com/post/why-in-person-workers-may-be-more-likely-to-get-promoted-bbc)
+- [Cyber Security Today, March 10, 2021 – More COVID phishing scams, more phony Android apps and more security updates](https://www.itworldcanada.com/article/cyber-security-today-more-covid-phishing-scams-more-phony-android-apps-and-more-security-updates/443654)
+- [New world of talent: We’re in the age of re-think; It’s time to flip the skills discussion](https://www.itworldcanada.com/sponsored/new-world-of-talent-were-in-the-age-of-re-think-its-time-to-flip-the-skills-discussion)
+- [Ontarians hoping latest amendments will give the Accessibility for Ontarians with Disabilities Act ‘some teeth’](https://www.itworldcanada.com/article/ontarians-hoping-latest-amendments-will-give-the-accessibility-for-ontarians-with-disabilities-act-some-teeth/443429)
+- [Hashtag Trending, March 10, 2021 – Crypto climate challenges; One-way interviews; Amazon’s palm and pay tech expands](https://www.itworldcanada.com/article/hashtag-trending-crypto-climate-challenges-one-way-interviews-amazons-palm-and-pay-tech-expands/443666)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

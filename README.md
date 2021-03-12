@@ -336,16 +336,16 @@ And become still<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How The New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
-- [India has the most IPv6 Adoption in the world](https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
-- [Semaphore – Modern UI for Ansible](https://github.com/ansible-semaphore/semaphore)
-- [PSA: macOS updates often modify your System Preferences to violate your Privacy](https://news.ycombinator.com/item?id=26418809)
-- [Oracle Cloud is unreachable](https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj)
-- [Xilinx Opens Up Vitis HLS Tool for FPGAs](https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/)
-- [I guess I have to watch ads everywhere on my $1,500 LG TV now](https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store)
-- [Show HN: No/Low code in-app onboarding guides for SaaS businesses](https://userflow.com)
-- [The SQLite R*Tree Module](https://www.sqlite.org/rtree.html)
-- [netaddr.IP: a new IP address type for Go](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
+- [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+- [Vim Clutch – A hardware pedal for improved text editing (2012)](https://github.com/alevchuk/vim-clutch)
+- [Biggest void in space is 1B light years across (2007)](https://www.newscientist.com/article/dn12546-biggest-void-in-space-is-1-billion-light-years-across/)
+- [Two UK Broadband ISPs Trial New Internet Snooping System](https://www.ispreview.co.uk/index.php/2021/03/two-uk-broadband-isps-trial-new-internet-snooping-system.html)
+- [Kinto: Mac-style shortcut keys for Linux and Windows](https://github.com/rbreaves/kinto/)
+- [The new browser-based puppeteer REPL, and how we built it](https://docs.browserless.io/blog/2021/03/10/new-live-debugger.html)
+- [CoinTracker (YC W18) is hiring to make financial management better](https://www.cointracker.io/careers)
+- [From buggies to buses, the first Black-owned US automaker did what few dared](https://arstechnica.com/cars/2021/03/the-life-and-times-of-c-r-patterson-sons-the-first-black-owned-us-automaker/)
+- [My bank sent me 64 copies of the same debit card](https://old.reddit.com/r/mildlyinteresting/comments/m2x83h/my_bank_sent_me_64_copies_of_the_same_debit_card/)
+- [A lost tourist who thought Maine was San Francisco](https://www.sfgate.com/local/editorspicks/article/lost-tourist-who-thought-Bangor-was-San-Francisco-15940512.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

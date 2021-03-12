@@ -321,16 +321,16 @@ And become still<br/></p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thailand considers expanding jails as it arrests more political prisoners](https://www.theguardian.com/world/2021/mar/11/thailand-considers-expanding-jails-as-it-arrests-more-political-prisoners)
-- [Coronavirus live news: at least 3,000 nurses have died in year since WHO declared Covid pandemic](https://www.theguardian.com/world/live/2021/mar/11/coronavirus-live-news-at-least-3000-nurses-have-died-in-year-since-who-declared-covid-pandemic)
-- [Cuomo faces most serious allegation yet as aide says governor groped her](https://www.theguardian.com/us-news/2021/mar/10/andrew-cuomo-aide-sexual-misconduct)
-- [Two government LGBT advisers quit over 'hostile environment' and lack of action](https://www.theguardian.com/world/2021/mar/10/government-adviser-quits-over-hostile-environment-for-lgbt-people)
-- [Three stories of hope: 10 years on from Japan's triple disaster](https://www.theguardian.com/world/2021/mar/11/three-stories-of-hope-10-years-on-from-japans-triple-disaster)
-- [What is this 'hot pigeon'? Is it even real?](https://www.theguardian.com/culture/2021/mar/11/what-is-this-hot-pigeon-is-it-even-real)
-- [Japan marks 10 years since triple disaster killed 18,500 people](https://www.theguardian.com/world/2021/mar/11/japan-marks-ten-years-since-triple-disaster-killed-18500-people)
-- [Talking Horses: Rob James suspended for a year over dead horse video](https://www.theguardian.com/sport/2021/mar/10/fears-that-gordon-elliott-could-play-significant-role-during-suspension)
-- [Imperial War Museums behind £2m project for new art on conflicts](https://www.theguardian.com/artanddesign/2021/mar/11/imperial-war-museums-project-new-artworks-on-conflicts)
-- [Griff, Pa Salieu and Rina Sawayama nominated for Brits Rising Star](https://www.theguardian.com/music/2021/mar/11/griff-pa-salieu-and-rina-sawayama-nominated-for-brits-rising-star)
+- [Coronavirus live news: Brazil records more than 2,000 deaths for second day; EU approves J&J vaccine](https://www.theguardian.com/world/live/2021/mar/12/coronavirus-live-news-brazil-records-more-than-2000-deaths-for-second-day-eu-approves-jj-vaccine)
+- [Biden pledges all US adults will be eligible for vaccines by 1 May in pandemic anniversary address – live](https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates)
+- [Christie’s auctions 'first digital-only artwork' for $70m](https://www.theguardian.com/artanddesign/2021/mar/11/christies-first-digital-only-artwork-70m-nft-beeple)
+- [News Corp Australia papers labelled 'sexist' and 'toxic' by former staff photographer at media inquiry](https://www.theguardian.com/australia-news/2021/mar/12/news-corp-australia-papers-labelled-sexist-and-toxic-by-former-staff-photographer-at-media-inquiry)
+- [Matthew McConaughey 'seriously considering' run for Texas governor](https://www.theguardian.com/film/2021/mar/11/matthew-mcconaughey-texas-governor)
+- [New York assembly approves 'impeachment investigation' into Andrew Cuomo](https://www.theguardian.com/us-news/2021/mar/11/andrew-cuomo-impeachment-investigation-new-york-governor)
+- [World at 'peak twin' as birth rates reach historic high, study finds](https://www.theguardian.com/science/2021/mar/12/world-peak-twin-global-twinning-birth-rates-reach-historic-high-study-ivf-fertility-services)
+- [Tim Berners-Lee says too many young people are excluded from web](https://www.theguardian.com/technology/2021/mar/12/tim-berners-lee-says-too-many-young-people-are-excluded-from-web)
+- [O2 Arena to install mini wind turbines that can harness even a breeze](https://www.theguardian.com/environment/2021/mar/12/o2-arena-to-install-mini-wind-turbines-that-can-harness-even-a-breeze)
+- [Caroline Flack film explores media's role in TV star's death](https://www.theguardian.com/tv-and-radio/2021/mar/12/caroline-flack-film-explores-medias-role-in-tv-stars-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

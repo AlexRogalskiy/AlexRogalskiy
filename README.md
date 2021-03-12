@@ -306,16 +306,16 @@ And become still<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Literate DevOps with Emacs Org-Mode (2014)](http://howardism.org/Technical/Emacs/literate-devops.html)
-- [FBI agents were looking for an extremely valuable cache of Civil War-era gold](https://apnews.com/article/fbi-looking-for-gold-pennsylvania-dig-site-9b6b5fc3f7550ba30edbca0845e911ce)
-- [Linux/Jiffies.h](https://github.com/torvalds/linux/blob/master/include/linux/jiffies.h)
-- [Nuclear Power Looks to Regain Its Footing 10 Years After Fukushima](https://www.scientificamerican.com/article/nuclear-power-looks-to-regain-its-footing-10-years-after-fukushima/)
-- [Russia blames Google outage on data centre fire](https://www.bbc.co.uk/news/business-56345589)
-- [Operation Pipe Dreams](https://en.wikipedia.org/wiki/Operation_Pipe_Dreams)
-- [Build a Product Recommendation Engine with Collaborative Filtering](https://www.pinecone.io/learn/product-recommendation-engine/)
-- [Building the Innovation Economy in Tel Aviv, Israel [pdf]](https://1bl5hbukq5a2dpgyuo8uvz44-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Tel-Aviv-Case-Study.pdf)
-- [CHIPSEC v1.5.10 supports the latest PaX/GRsecurity and vanilla kernel](https://github.com/chipsec/chipsec/releases/tag/1.5.10)
-- [Integromat](https://www.integromat.com/en/features)
+- [Everydays: The FIRST 5000 DAYS sold online for $69,346,250](https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx)
+- [Successful but Unhappy](https://www.indiehackers.com/post/successful-but-unhappy-728b5b5b78)
+- [Lockdown_hotdog Premiere Tonight 8PM PST](https://www.youtube.com/watch?v=qxl5qsAvlO8)
+- [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+- [Spack Package Manager](https://spack.io/)
+- [Microsoft to block getting paid apps from Stores for Business, Education](https://www.zdnet.com/article/microsoft-to-block-users-from-getting-paid-apps-from-the-microsoft-stores-for-business-education-as-of-april/)
+- [Hackers Are Swarming Microsoft Exchange](https://gizmodo.com/hackers-are-swarming-microsoft-exchange-1846450895)
+- [Trackers (2016)](http://jacquesmattheij.com/trackers)
+- [A Russian ISP confirms Roskomnadzor’s Twitter-blocking blooper](https://arstechnica.com/gadgets/2021/03/a-russian-isp-confirms-roskomnadzors-twitter-blocking-blooper/)
+- [Transparency is the best policy Privacy Labels](https://www.apple.com/privacy/labels/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

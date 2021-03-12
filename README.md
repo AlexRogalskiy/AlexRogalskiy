@@ -351,16 +351,16 @@ And become still<br/></p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Mars Perseverance rover landing: How IT supports NASA and JPL’s Mars 2020 mission](https://www.computerworld.com/article/3611350/mars-perseverance-rover-landing-how-it-supports-nasa-and-jpl-s-mars-2020-mission.html#tk.rss_all)
+- [Podcast: iMac Pro discontinued: What does it mean for the future of 'Pro' Macs?](https://www.computerworld.com/article/3611351/podcast-imac-pro-discontinued-what-does-it-mean-for-the-future-of-pro-macs.html#tk.rss_all)
+- [This year's biggest Android upgrade disappointment](https://www.computerworld.com/article/3611134/android-upgrade-disappointment.html#tk.rss_all)
+- [LogMeIn revamps GoToConnect to support shift to flexible work](https://www.computerworld.com/article/3611391/logmein-revamps-gotoconnect-to-support-shift-to-flexible-work.html#tk.rss_all)
+- [BrandPost: How IT and Remote Workers Can Both Win With VDI and HCI](https://www.computerworld.com/article/3611330/how-it-and-remote-workers-can-both-win-with-vdi-and-hci.html#tk.rss_all)
+- [Users condemn Microsoft for removing KB IDs from some bug documentation](https://www.computerworld.com/article/3611409/users-condemn-microsoft-for-removing-kb-ids-from-some-bug-documentation.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Jamf move improves enterprise security and compliance for macOS](https://www.computerworld.com/article/3611212/jamf-move-improves-enterprise-security-and-compliance-for-macos.html#tk.rss_all)
-- [8 top productivity tips for Microsoft Edge](https://www.computerworld.com/article/3609905/8-top-productivity-tips-for-microsoft-edge.html#tk.rss_all)
-- [What's in the latest Edge update? Vertical tabs for all, and faster start-ups](https://www.computerworld.com/article/3586259/whats-in-the-latest-edge-update-rollbacks-and-new-browser-telemetry-policies.html#tk.rss_all)
-- [Why WWDC 2021 should take place online](https://www.computerworld.com/article/3611089/why-wwdc-2021-should-take-place-online.html#tk.rss_all)
-- [Android 11 Upgrade Report Card: Well, this is awkward](https://www.computerworld.com/article/3606708/android-11-upgrade-report-card.html#tk.rss_all)
-- [Google matches Mozilla, reduces time between Chrome upgrades to four weeks](https://www.computerworld.com/article/3610705/google-matches-mozilla-reduces-time-between-chrome-upgrades-to-four-weeks.html#tk.rss_all)
-- [Apple's AR glasses and a future for 'AppleCare'](https://www.computerworld.com/article/3610753/apples-ar-glasses-and-a-future-for-applecare.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

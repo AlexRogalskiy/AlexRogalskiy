@@ -411,16 +411,16 @@ And become still<br/></p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
+- [In what part of the Internet do young people working in the IT field now gather?](https://www.reddit.com/r/InformationTechnology/comments/m2p89r/in_what_part_of_the_internet_do_young_people/)
+- [IT certifications](https://www.reddit.com/r/InformationTechnology/comments/m2hi85/it_certifications/)
 - [IPv4 vs IPv6](https://www.reddit.com/r/InformationTechnology/comments/m2d0bo/ipv4_vs_ipv6/)
 - [Could any of you guys recommend some online IT courses?](https://www.reddit.com/r/InformationTechnology/comments/m2bj6v/could_any_of_you_guys_recommend_some_online_it/)
 - [What opportunities would I have after being system administrator?](https://www.reddit.com/r/InformationTechnology/comments/m2bglw/what_opportunities_would_i_have_after_being/)
-- [Microsoft teams/outlook access from abroad](https://www.reddit.com/r/InformationTechnology/comments/m2amcg/microsoft_teamsoutlook_access_from_abroad/)
 - [Nervous about entering the IT Job market](https://www.reddit.com/r/InformationTechnology/comments/m2a4dc/nervous_about_entering_the_it_job_market/)
 - [Sync Folders](https://www.reddit.com/r/InformationTechnology/comments/m26uwd/sync_folders/)
 - [Am I the only one that receives WEIRD Google drive messages from bots/spammers?And it cannot be blocked](https://www.reddit.com/r/InformationTechnology/comments/m25bxq/am_i_the_only_one_that_receives_weird_google/)
 - [Need help estimating the cost of making a new webpage for a university.](https://www.reddit.com/r/InformationTechnology/comments/m24zox/need_help_estimating_the_cost_of_making_a_new/)
-- [Which one is superior for landing an I.T role? CareerBuilder , Zip recruiter, Indeed , Monster](https://www.reddit.com/r/InformationTechnology/comments/m1zvhb/which_one_is_superior_for_landing_an_it_role/)
-- [MsMpEng memory usage at 30%](https://www.reddit.com/r/InformationTechnology/comments/m1jis2/msmpeng_memory_usage_at_30/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

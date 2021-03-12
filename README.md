@@ -396,16 +396,16 @@ And become still<br/></p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK launches fellowship to attract tech talent to government](https://www.computerweekly.com/news/252497597/UK-launches-fellowship-to-attract-tech-talent-to-government)
-- [Met Police chooses Capgemini as strategic IT infrastructure services provider](https://www.computerweekly.com/news/252497595/Met-Police-chooses-Capgemini-as-strategic-IT-infrastructure-services-provider)
-- [SAS launches free data skills programme for job seekers](https://www.computerweekly.com/news/252497589/SAS-launches-free-data-skills-programme-for-job-seekers)
-- [Welsh FA boss linked to recruitment of controversial former Post Office executive to step down](https://www.computerweekly.com/news/252497583/Welsh-FA-boss-linked-to-recruitment-of-controversial-former-Post-Office-executive-to-step-down)
-- [Patch Tuesday overshadowed by Microsoft Exchange attacks](https://www.computerweekly.com/news/252497580/Patch-Tuesday-overshadowed-by-Microsoft-Exchange-attacks)
-- [OVHcloud confirms no casualties following fire at Strasbourg datacentre campus](https://www.computerweekly.com/news/252497578/OVHCloud-confirms-no-casualties-following-fire-at-Strasbourg-datacentre-campus)
-- [Government’s refusal of freedom of information request about Post Office scandal ‘deeply concerning’](https://www.computerweekly.com/news/252497573/Governments-refusal-of-freedom-of-information-request-about-Post-office-deeply-concerning)
-- [Police crack world’s largest cryptophone network as criminals swap EncroChat for Sky ECC](https://www.computerweekly.com/news/252497565/Police-crack-worlds-largest-cryptophone-network-as-criminals-swap-EncroChat-for-Sky-NCC)
-- [How biotech firm Luminex manages field service](https://www.computerweekly.com/news/252497526/How-biotech-firm-Luminex-manages-field-service)
-- [Containers: Learning from the pioneers](https://www.computerweekly.com/opinion/Containers-Learning-from-the-pioneers)
+- [Tableau Software opens UK cloud region in London](https://www.computerweekly.com/news/252497680/Tableau-Software-opens-UK-cloud-region-in-London)
+- [OVHcloud datacentre fire: Efforts underway to bring affected cloud customers back online](https://www.computerweekly.com/news/252497667/OVHcloud-datacentre-fire-Efforts-underway-to-bring-affected-cloud-customers-back-online)
+- [Potential miscarriages of justice of Scottish subpostmasters move to full review](https://www.computerweekly.com/news/252497665/Potential-miscarriages-of-justice-of-Scottish-subpostmasters-move-to-full-review)
+- [UK digital regulators set out plans to strengthen cooperation](https://www.computerweekly.com/news/252497664/UK-digital-regulators-set-out-plans-to-strengthen-cooperation)
+- [Attack on surveillance cameras a warning over security, ethics](https://www.computerweekly.com/news/252497593/Attack-on-surveillance-cameras-a-warning-over-security-ethics)
+- [Oracle Q3, 2020-21: Revenue growth of 3% backdrop to Ellison attack on SAP](https://www.computerweekly.com/news/252497658/Oracle-Q3-2020-21-Revenue-growth-of-3-backdrop-to-Ellison-attack-on-SAP)
+- [After Emotet takedown, Trickbot roars up threat charts](https://www.computerweekly.com/news/252497657/After-Emotet-takedown-Trickbot-roars-up-threat-charts)
+- [Data-driven innovation needs trustworthy governance](https://www.computerweekly.com/opinion/Data-driven-innovation-needs-trustworthy-governance)
+- [Norwegian government falls victim to Microsoft attacks](https://www.computerweekly.com/news/252497656/Norwegian-government-falls-victim-to-Microsoft-attacks)
+- [CW Europe: Nordic tech startups create blueprint for post-Covid working environment](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Nordic-tech-startups-create-blueprint-for-post-Covid-working-environment)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

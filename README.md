@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Law/lay_down_the_law_87.php" target="_blank"><i>lay down the law</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Health/verbal_diarrhoea_123.php" target="_blank"><i>verbal diarrhoea</i></a>
 <span> = </span>
-<span>If you lay down the law, you tell people what they should do in a forceful and stern way.</span>
+<span>If someone has verbal diarrhoea, they can't stop talking.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

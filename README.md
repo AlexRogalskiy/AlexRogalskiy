@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Least_said_soonest_mended_935.php" target="_blank"><i>Least said soonest mended</i></a>
 <span> = </span>
-<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
+<span>When we do or say something bad to someone, a long apology and discussion does not help. In such a case, the less we say the better.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

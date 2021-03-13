@@ -327,16 +327,16 @@ And become still<br/></p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Brazil records more than 2,000 deaths for second day; EU approves J&J vaccine](https://www.theguardian.com/world/live/2021/mar/12/coronavirus-live-news-brazil-records-more-than-2000-deaths-for-second-day-eu-approves-jj-vaccine)
-- [Biden pledges all US adults will be eligible for vaccines by 1 May in pandemic anniversary address – live](https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates)
-- [Christie’s auctions 'first digital-only artwork' for $70m](https://www.theguardian.com/artanddesign/2021/mar/11/christies-first-digital-only-artwork-70m-nft-beeple)
-- [News Corp Australia papers labelled 'sexist' and 'toxic' by former staff photographer at media inquiry](https://www.theguardian.com/australia-news/2021/mar/12/news-corp-australia-papers-labelled-sexist-and-toxic-by-former-staff-photographer-at-media-inquiry)
-- [Matthew McConaughey 'seriously considering' run for Texas governor](https://www.theguardian.com/film/2021/mar/11/matthew-mcconaughey-texas-governor)
-- [New York assembly approves 'impeachment investigation' into Andrew Cuomo](https://www.theguardian.com/us-news/2021/mar/11/andrew-cuomo-impeachment-investigation-new-york-governor)
-- [World at 'peak twin' as birth rates reach historic high, study finds](https://www.theguardian.com/science/2021/mar/12/world-peak-twin-global-twinning-birth-rates-reach-historic-high-study-ivf-fertility-services)
-- [Tim Berners-Lee says too many young people are excluded from web](https://www.theguardian.com/technology/2021/mar/12/tim-berners-lee-says-too-many-young-people-are-excluded-from-web)
-- [O2 Arena to install mini wind turbines that can harness even a breeze](https://www.theguardian.com/environment/2021/mar/12/o2-arena-to-install-mini-wind-turbines-that-can-harness-even-a-breeze)
-- [Caroline Flack film explores media's role in TV star's death](https://www.theguardian.com/tv-and-radio/2021/mar/12/caroline-flack-film-explores-medias-role-in-tv-stars-death)
+- [Day of reflection to be held a year after UK's Covid lockdown began](https://www.theguardian.com/world/2021/mar/13/covid-day-of-reflection-year-after-uk-lockdown-began)
+- [Rory McIlroy: Chasing Bryson DeChambeau’s power has cost me](https://www.theguardian.com/sport/2021/mar/12/rory-mcilroy-chasing-bryson-dechambeaus-power-has-cost-me)
+- [Minneapolis to pay George Floyd's family $27m in police custody death lawsuit](https://www.theguardian.com/us-news/2021/mar/12/minneapolis-pay-george-floyd-family-27m-police-lawsuit)
+- [New York senators urge Cuomo to resign after governor refuses to quit](https://www.theguardian.com/us-news/2021/mar/12/andrew-cuomo-resign-new-york-democrats-aoc-nadler)
+- [High school announcer caught by hot mic blames racist outburst on high blood sugar](https://www.theguardian.com/sport/2021/mar/12/oklahoma-high-school-basketball-racial-slur)
+- [Labour suspends East Ham and West Ham constituency parties](https://www.theguardian.com/politics/2021/mar/12/labour-suspends-east-ham-and-west-ham-constituency-parties)
+- [Relentless Harry Kane proving to be both reward and risk for Tottenham](https://www.theguardian.com/football/2021/mar/12/relentless-harry-kane-proving-to-be-both-reward-and-risk-for-tottenham)
+- [Bolivia's ex-interim president faces arrest warrant for terrorism and sedition](https://www.theguardian.com/world/2021/mar/12/bolivia-ex-interim-president-jeanine-anez-arrest-warrant)
+- [IOC under fire after ‘dismissing’ claims of genocide against Uighurs in China](https://www.theguardian.com/sport/2021/mar/12/ioc-under-fire-after-dismissing-claims-of-genocide-against-uighurs-in-china)
+- [Jamaal Lascelles snatches point for Newcastle to deny Aston Villa](https://www.theguardian.com/football/2021/mar/12/jamaal-lascelles-snatches-point-for-newcastle-to-deny-aston-villa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

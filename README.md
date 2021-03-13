@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_2/lame_786.php" target="_blank"><i>lame</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/fanny_1__1170.php" target="_blank"><i>fanny (1)</i></a>
 <span> = </span>
-<span>bad, weak, of poor quality</span>
+<span>a person's buttocks or bottom</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

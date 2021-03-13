@@ -426,16 +426,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [ITWC launches 2021 Canadian IT Skill Survey](https://www.itworldcanada.com/article/itwc-launches-2021-canadian-it-skill-survey/443866)
+- [Cyber Security Today – Week In Review for Friday March 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-12-2021/443776)
+- [IT leaders share learnings on challenges of leading virtual teams](https://www.itworldcanada.com/article/it-leaders-share-learnings-on-challenges-of-leading-virtual-teams/443850)
+- [Quantum computing company D-Wave Systems secures $40M in government funding](https://www.itworldcanada.com/article/quantum-computing-company-d-wave-systems-secures-40m-in-government-funding/443863)
+- [New ITWC podcasts hitting topics that matter most for today’s CIOs](https://www.itworldcanada.com/article/new-itwc-podcasts-hitting-topics-that-matter-most-for-todays-cios/443744)
+- [Exchange Server vulnerabilities being exploited with ransomware, says Microsoft](https://www.itworldcanada.com/article/exchange-server-vulnerabilities-being-exploited-with-ransomware-says-microsoft/443802)
+- [Cyber Security Today, March 12, 2021 – More on Exchange Server vulnerabilities, criminal groups blocked from using secure messaging service and warning about sex toys](https://www.itworldcanada.com/article/cyber-security-today-more-on-exchange-server-vulnerabilities-criminal-groups-blocked-from-using-secure-messaging-service-and-warning-about-sex-toys/443793)
+- [Last day to nominate Canada’s channel innovators](https://www.itworldcanada.com/article/last-day-to-nominate-canadas-channel-innovators/443787)
+- [Hashtag Trending, March 12, 2021 – NFT fever; Uber proposes new labour model; Fire destroys French data centres, knocks out millions of websites](https://www.itworldcanada.com/article/hashtag-trending-march-12-2021-nft-fever-uber-proposes-new-labour-model-fire-destroys-french-data-centres-knocks-out-millions-of-websites/443795)
 - [Bell wants to be carbon neutral by 2025](https://www.itworldcanada.com/article/bell-wants-to-be-carbon-neutral-by-2025/443765)
-- [How to move security to the edge to protect the changing workplace](https://www.itworldcanada.com/article/how-to-move-security-to-the-edge-to-protect-the-changing-workplace/443751)
-- [Disruption – nonprofits should embrace it](https://www.itworldcanada.com/blog/disruption-nonprofits-should-embrace-it/443508)
-- [Gartner predicts the future of identity and access management](https://www.itworldcanada.com/blog/gartner-predicts-the-future-of-identity-and-access-management/443717)
-- [Critical vulnerabilities found in F5 Networks BIG-IP platform](https://www.itworldcanada.com/article/critical-vulnerabilities-found-in-f5-networks-big-ip-platform/443750)
-- [Now’s the time to take a Fabric approach to security – here’s why](https://www.itworldcanada.com/sponsored/nows-the-time-to-take-a-fabric-approach-to-security-heres-why)
-- [Hashtag Trending, March 11, 2021 – Big Tech CEOs in the hot seat; Hackers breach surveillance cameras; Mobility data shows we’re on the move again!](https://www.itworldcanada.com/article/hashtag-trending-march-11-2021-big-tech-ceos-in-the-hot-seat-hackers-breach-surveillance-cameras-mobility-data-shows-were-on-the-move-again/443743)
-- [Rogers expands eligibility for low-cost internet program](https://www.itworldcanada.com/article/rogers-expands-eligibility-for-low-cost-internet-program/443711)
-- [CPaaS putting experience economy companies on rapid digital track](https://www.itworldcanada.com/sponsored/cpaas-putting-experience-economy-companies-on-rapid-digital-track)
-- [Government of Canada plans to launch virtual workshops about AI for the public](https://www.itworldcanada.com/article/government-of-canada-to-launch-virtual-workshops-to-understand-public-perception-of-ai/443701)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

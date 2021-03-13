@@ -246,14 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645296659253837824" target="_blank"><i>Untitled</i></a></summary>
-<p>by Wu Hsin</p><p>A breeze comes<br/>
-The trees sway<br/>
-Prior to the breeze<br/>
-All is stillness<br/>
-The mind is a breeze<br/>
-Follow it back to its source<br/>
-And become still<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645477855709577216" target="_blank"><i>The Trees</i></a></summary>
+<p>by Mary Oliver</p><p>Do you think of them as decoration?<br/><br/>Think again.<br/><br/>Here are the maples, flashing.<br/>And here are the oaks, holding on all winter<br/> to their dry leaves.<br/>And here are the pines, that will never fail,<br/> until death, the instruction to be green.<br/>And here are the willows, the first<br/> to pronounce a new year.<br/><br/>May I invite you to revise your thoughts about them?<br/>Oh, Lord, how we are all for invention and<br/> advancement!<br/>But, I think<br/> it would do us good if we would think about<br/>these brothers and sisters, quietly and deeply.<br/><br/>The trees, the trees, just holding on<br/> to the old, holy ways.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

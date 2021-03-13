@@ -342,16 +342,16 @@ And become still<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-- [Vim Clutch – A hardware pedal for improved text editing (2012)](https://github.com/alevchuk/vim-clutch)
-- [Biggest void in space is 1B light years across (2007)](https://www.newscientist.com/article/dn12546-biggest-void-in-space-is-1-billion-light-years-across/)
-- [Two UK Broadband ISPs Trial New Internet Snooping System](https://www.ispreview.co.uk/index.php/2021/03/two-uk-broadband-isps-trial-new-internet-snooping-system.html)
-- [Kinto: Mac-style shortcut keys for Linux and Windows](https://github.com/rbreaves/kinto/)
-- [The new browser-based puppeteer REPL, and how we built it](https://docs.browserless.io/blog/2021/03/10/new-live-debugger.html)
-- [CoinTracker (YC W18) is hiring to make financial management better](https://www.cointracker.io/careers)
-- [From buggies to buses, the first Black-owned US automaker did what few dared](https://arstechnica.com/cars/2021/03/the-life-and-times-of-c-r-patterson-sons-the-first-black-owned-us-automaker/)
-- [My bank sent me 64 copies of the same debit card](https://old.reddit.com/r/mildlyinteresting/comments/m2x83h/my_bank_sent_me_64_copies_of_the_same_debit_card/)
-- [A lost tourist who thought Maine was San Francisco](https://www.sfgate.com/local/editorspicks/article/lost-tourist-who-thought-Bangor-was-San-Francisco-15940512.php)
+- [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
+- [Qutebrowser](https://qutebrowser.org/)
+- [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
+- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
+- [Point Cloud Library](https://pointclouds.org/)
+- [Online Hacker Simulator](https://hacker-simulator.com/)
+- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
+- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
+- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
+- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

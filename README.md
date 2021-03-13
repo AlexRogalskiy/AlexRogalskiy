@@ -402,16 +402,16 @@ And become still<br/></p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Tableau Software opens UK cloud region in London](https://www.computerweekly.com/news/252497680/Tableau-Software-opens-UK-cloud-region-in-London)
-- [OVHcloud datacentre fire: Efforts underway to bring affected cloud customers back online](https://www.computerweekly.com/news/252497667/OVHcloud-datacentre-fire-Efforts-underway-to-bring-affected-cloud-customers-back-online)
-- [Potential miscarriages of justice of Scottish subpostmasters move to full review](https://www.computerweekly.com/news/252497665/Potential-miscarriages-of-justice-of-Scottish-subpostmasters-move-to-full-review)
-- [UK digital regulators set out plans to strengthen cooperation](https://www.computerweekly.com/news/252497664/UK-digital-regulators-set-out-plans-to-strengthen-cooperation)
-- [Attack on surveillance cameras a warning over security, ethics](https://www.computerweekly.com/news/252497593/Attack-on-surveillance-cameras-a-warning-over-security-ethics)
-- [Oracle Q3, 2020-21: Revenue growth of 3% backdrop to Ellison attack on SAP](https://www.computerweekly.com/news/252497658/Oracle-Q3-2020-21-Revenue-growth-of-3-backdrop-to-Ellison-attack-on-SAP)
-- [After Emotet takedown, Trickbot roars up threat charts](https://www.computerweekly.com/news/252497657/After-Emotet-takedown-Trickbot-roars-up-threat-charts)
-- [Data-driven innovation needs trustworthy governance](https://www.computerweekly.com/opinion/Data-driven-innovation-needs-trustworthy-governance)
-- [Norwegian government falls victim to Microsoft attacks](https://www.computerweekly.com/news/252497656/Norwegian-government-falls-victim-to-Microsoft-attacks)
-- [CW Europe: Nordic tech startups create blueprint for post-Covid working environment](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Nordic-tech-startups-create-blueprint-for-post-Covid-working-environment)
+- [NCSC issues emergency alert on Microsoft Exchange patch](https://www.computerweekly.com/news/252497741/NCSC-issues-emergency-alert-on-Microsoft-Exchange-patch)
+- [UK Space Agency funds projects to tackle space rubbish and micropropulsion](https://www.computerweekly.com/news/252497737/UK-Space-Agency-funds-projects-to-tackle-space-rubbish-and-micropropulsion)
+- [IR35 private sector reforms: IT contractors ‘growing reluctant’ to work for ‘blanket banning’ firms](https://www.computerweekly.com/news/252497731/IR35-private-sector-reforms-IT-contractors-growing-reluctant-to-work-for-blanket-banning-firms)
+- [Ski firm dumps ‘motley’ storage for DataCore software-defined](https://www.computerweekly.com/feature/Ski-firm-dumps-motley-storage-for-DataCore-software-defined)
+- [Does email security need a human solution or a tech solution?](https://www.computerweekly.com/feature/Does-email-security-need-a-human-solution-or-a-tech-solution)
+- [Web founder calls for ubiquitous, safe internet access for young people](https://www.computerweekly.com/news/252497715/Web-founder-calls-for-ubiquitous-safe-internet-access-for-young-people)
+- [DearCry ransomware targets vulnerable Exchange servers](https://www.computerweekly.com/news/252497725/DearCry-ransomware-targets-vulnerable-Exchange-servers)
+- [Amazon Go – is now the right time?](https://www.computerweekly.com/feature/Amazon-Go-is-now-the-right-time)
+- [Brewer Molson Coors targeted in cyber attack](https://www.computerweekly.com/news/252497712/Molson-Coors-targeted-in-cyber-attack)
+- [Interview: Uber driver Yaseen Aslam on his Supreme Court battle and what’s next for gig workers](https://www.computerweekly.com/feature/Interview-Uber-driver-Yaseen-Aslam-on-his-Supreme-Court-battle-and-whats-next-for-gig-workers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

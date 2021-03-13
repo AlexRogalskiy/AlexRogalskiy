@@ -372,6 +372,8 @@ And become still<br/></p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How a Sponsor Can Help Elevate Your Career in IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-a-sponsor-can-help-elevate-your-career-in-it-/a/d-id/1340373?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIO Agenda for Right Now: Priorities a Year Into the Pandemic](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-agenda-for-right-now-priorities-a-year-into-the-pandemic/d/d-id/1340370?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Hot IT Job Titles for 2021](https://www.informationweek.com/strategic-cio/10-hot-it-job-titles-for-2021/d/d-id/1340356?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Low-Code and No-Code Platforms: What IT leaders Should Consider](https://www.informationweek.com/devops/low-code-and-no-code-platforms-what-it-leaders-should-consider/a/d-id/1340337?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -380,8 +382,6 @@ And become still<br/></p>
 - [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Automation: Still Room for Improvement in Some Spots](https://www.informationweek.com/big-data/ai-machine-learning/it-automation-still-room-for-improvement-in-some-spots/a/d-id/1340334?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CarParts.com Leveraged AIOps Strategy While Scaling Up](https://www.informationweek.com/devops/how-carpartscom-leveraged-aiops-strategy-while-scaling-up/a/d-id/1340324?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Make Waste-Free Product a Reality in Your Organization](https://www.informationweek.com/strategic-cio/digital-business/how-to-make-waste-free-product-a-reality-in-your-organization/a/d-id/1340276?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How We'll Conduct Algorithmic Audits in the New Economy](https://www.informationweek.com/big-data/ai-machine-learning/how-well-conduct-algorithmic-audits-in-the-new-economy/a/d-id/1340299?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

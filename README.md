@@ -417,16 +417,16 @@ And become still<br/></p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shipping Accessory Bundle](https://www.reddit.com/r/InformationTechnology/comments/m3pdo7/shipping_accessory_bundle/)
+- [Changing VOIP management company?](https://www.reddit.com/r/InformationTechnology/comments/m3l7hb/changing_voip_management_company/)
+- [Question: Is it possible to backup a VM and deploy the backup to a machine?](https://www.reddit.com/r/InformationTechnology/comments/m3knpf/question_is_it_possible_to_backup_a_vm_and_deploy/)
+- [Best RHCSA 8 Exam prep courses?](https://www.reddit.com/r/InformationTechnology/comments/m3kksk/best_rhcsa_8_exam_prep_courses/)
+- [Graveyard shift](https://www.reddit.com/r/InformationTechnology/comments/m3jq7r/graveyard_shift/)
+- [Which city has the best market for Information Technology jobs? Atlanta or Charlotte?](https://www.reddit.com/r/InformationTechnology/comments/m38zni/which_city_has_the_best_market_for_information/)
 - [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
 - [In what part of the Internet do young people working in the IT field now gather?](https://www.reddit.com/r/InformationTechnology/comments/m2p89r/in_what_part_of_the_internet_do_young_people/)
 - [IT certifications](https://www.reddit.com/r/InformationTechnology/comments/m2hi85/it_certifications/)
 - [IPv4 vs IPv6](https://www.reddit.com/r/InformationTechnology/comments/m2d0bo/ipv4_vs_ipv6/)
-- [Could any of you guys recommend some online IT courses?](https://www.reddit.com/r/InformationTechnology/comments/m2bj6v/could_any_of_you_guys_recommend_some_online_it/)
-- [What opportunities would I have after being system administrator?](https://www.reddit.com/r/InformationTechnology/comments/m2bglw/what_opportunities_would_i_have_after_being/)
-- [Nervous about entering the IT Job market](https://www.reddit.com/r/InformationTechnology/comments/m2a4dc/nervous_about_entering_the_it_job_market/)
-- [Sync Folders](https://www.reddit.com/r/InformationTechnology/comments/m26uwd/sync_folders/)
-- [Am I the only one that receives WEIRD Google drive messages from bots/spammers?And it cannot be blocked](https://www.reddit.com/r/InformationTechnology/comments/m25bxq/am_i_the_only_one_that_receives_weird_google/)
-- [Need help estimating the cost of making a new webpage for a university.](https://www.reddit.com/r/InformationTechnology/comments/m24zox/need_help_estimating_the_cost_of_making_a_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

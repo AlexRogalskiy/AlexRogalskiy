@@ -312,16 +312,16 @@ And become still<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Everydays: The FIRST 5000 DAYS sold online for $69,346,250](https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx)
-- [Successful but Unhappy](https://www.indiehackers.com/post/successful-but-unhappy-728b5b5b78)
-- [Lockdown_hotdog Premiere Tonight 8PM PST](https://www.youtube.com/watch?v=qxl5qsAvlO8)
-- [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-- [Spack Package Manager](https://spack.io/)
-- [Microsoft to block getting paid apps from Stores for Business, Education](https://www.zdnet.com/article/microsoft-to-block-users-from-getting-paid-apps-from-the-microsoft-stores-for-business-education-as-of-april/)
-- [Hackers Are Swarming Microsoft Exchange](https://gizmodo.com/hackers-are-swarming-microsoft-exchange-1846450895)
-- [Trackers (2016)](http://jacquesmattheij.com/trackers)
-- [A Russian ISP confirms Roskomnadzor’s Twitter-blocking blooper](https://arstechnica.com/gadgets/2021/03/a-russian-isp-confirms-roskomnadzors-twitter-blocking-blooper/)
-- [Transparency is the best policy Privacy Labels](https://www.apple.com/privacy/labels/)
+- [TC39 proposal: operator overloading in JavaScript](https://github.com/tc39/proposal-operator-overloading)
+- [Forecasting 500 GitHub Stars](https://orbit.love/blog/forecasting-500-github-stars/)
+- [Can the Elastic of Surgical Face Masks Stimulate Ear Protrusion in Children?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302120/)
+- [Zoom Fatigue: The Differing Impact on Introverts and Extroverts](https://www.wsj.com/articles/zoom-fatigue-the-differing-impact-on-introverts-and-extroverts-11615291202)
+- [TOZ-81 ‘Mars’ Gun](https://www.thedrive.com/the-war-zone/39277/heres-our-best-look-yet-at-russias-secretive-space-cannon-the-only-gun-ever-fired-in-space)
+- [Data is a Toxic Asset (2016)](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)
+- [Throttling Twitter traffic in Russia: how they do it and why it doesn't work](https://meduza.io/en/cards/throttling-twitter-traffic-in-russia)
+- [San Francisco's Poop-Patrol Boss Made $380K and Has Been Charged with Corruption](https://www.zerohedge.com/political/san-franciscos-poop-patrol-boss-made-380k-didnt-do-crap-and-has-been-charged-corruption)
+- [The Great Québec Blackout](https://spaceweatherarchive.com/2021/03/12/the-great-quebec-blackout/)
+- [Never buy Epson printers (2016)](http://e-nouri.com/epson-products-sucks/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

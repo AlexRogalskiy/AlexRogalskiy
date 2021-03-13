@@ -357,16 +357,16 @@ And become still<br/></p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Assessing the Value of Partnering for IT Services](https://www.computerworld.com/article/3611356/assessing-the-value-of-partnering-for-it-services.html#tk.rss_all)
+- [Patch Exchange now, and test your Windows updates](https://www.computerworld.com/article/3611417/patch-exchange-now-and-test-your-windows-updates.html#tk.rss_all)
+- [Q&A: Adobe explains the transition to Apple Silicon](https://www.computerworld.com/article/3611383/qa-adobe-explains-the-transition-to-apple-silicon.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [If you want to succeed: Go slow to go fast](https://www.computerworld.com/article/3611542/if-you-want-to-succeed-go-slow-to-go-fast.html#tk.rss_all)
+- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Mars Perseverance rover landing: How IT supports NASA and JPL’s Mars 2020 mission](https://www.computerworld.com/article/3611350/mars-perseverance-rover-landing-how-it-supports-nasa-and-jpl-s-mars-2020-mission.html#tk.rss_all)
 - [Podcast: iMac Pro discontinued: What does it mean for the future of 'Pro' Macs?](https://www.computerworld.com/article/3611351/podcast-imac-pro-discontinued-what-does-it-mean-for-the-future-of-pro-macs.html#tk.rss_all)
 - [This year's biggest Android upgrade disappointment](https://www.computerworld.com/article/3611134/android-upgrade-disappointment.html#tk.rss_all)
 - [LogMeIn revamps GoToConnect to support shift to flexible work](https://www.computerworld.com/article/3611391/logmein-revamps-gotoconnect-to-support-shift-to-flexible-work.html#tk.rss_all)
-- [BrandPost: How IT and Remote Workers Can Both Win With VDI and HCI](https://www.computerworld.com/article/3611330/how-it-and-remote-workers-can-both-win-with-vdi-and-hci.html#tk.rss_all)
-- [Users condemn Microsoft for removing KB IDs from some bug documentation](https://www.computerworld.com/article/3611409/users-condemn-microsoft-for-removing-kb-ids-from-some-bug-documentation.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Jamf move improves enterprise security and compliance for macOS](https://www.computerworld.com/article/3611212/jamf-move-improves-enterprise-security-and-compliance-for-macos.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

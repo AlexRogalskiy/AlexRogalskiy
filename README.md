@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/do_away_with_1__1832.php" target="_blank"><i>do away with (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_1/go_over_2__1634.php" target="_blank"><i>go over (2)</i></a>
 <span> = </span>
-<span>If you do away with something, you get rid of it.</span>
+<span>to review something, or look at it again, in order to learn or memorize it</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

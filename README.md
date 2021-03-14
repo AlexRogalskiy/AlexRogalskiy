@@ -411,6 +411,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can not get an internship and URGENTLY need some advice and inspiration](https://www.reddit.com/r/InformationTechnology/comments/m4lhvn/can_not_get_an_internship_and_urgently_need_some/)
+- [Question about working in IT abroad](https://www.reddit.com/r/InformationTechnology/comments/m48dmh/question_about_working_in_it_abroad/)
+- [Which IT certification is well known and accepted by all most all countries in the world?](https://www.reddit.com/r/InformationTechnology/comments/m4896t/which_it_certification_is_well_known_and_accepted/)
 - [Shipping Accessory Bundle](https://www.reddit.com/r/InformationTechnology/comments/m3pdo7/shipping_accessory_bundle/)
 - [Changing VOIP management company?](https://www.reddit.com/r/InformationTechnology/comments/m3l7hb/changing_voip_management_company/)
 - [Question: Is it possible to backup a VM and deploy the backup to a machine?](https://www.reddit.com/r/InformationTechnology/comments/m3knpf/question_is_it_possible_to_backup_a_vm_and_deploy/)
@@ -418,9 +421,6 @@
 - [Graveyard shift](https://www.reddit.com/r/InformationTechnology/comments/m3jq7r/graveyard_shift/)
 - [Which city has the best market for Information Technology jobs? Atlanta or Charlotte?](https://www.reddit.com/r/InformationTechnology/comments/m38zni/which_city_has_the_best_market_for_information/)
 - [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
-- [In what part of the Internet do young people working in the IT field now gather?](https://www.reddit.com/r/InformationTechnology/comments/m2p89r/in_what_part_of_the_internet_do_young_people/)
-- [IT certifications](https://www.reddit.com/r/InformationTechnology/comments/m2hi85/it_certifications/)
-- [IPv4 vs IPv6](https://www.reddit.com/r/InformationTechnology/comments/m2d0bo/ipv4_vs_ipv6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

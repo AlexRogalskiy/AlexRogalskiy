@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/fanny_1__1170.php" target="_blank"><i>fanny (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/cop_741.php" target="_blank"><i>cop</i></a>
 <span> = </span>
-<span>a person's buttocks or bottom</span>
+<span>a policeman or a policewoman</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

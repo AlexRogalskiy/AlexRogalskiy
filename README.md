@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/verbal_diarrhoea_123.php" target="_blank"><i>verbal diarrhoea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
 <span> = </span>
-<span>If someone has verbal diarrhoea, they can't stop talking.</span>
+<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

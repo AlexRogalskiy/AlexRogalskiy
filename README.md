@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Day of reflection to be held a year after UK's Covid lockdown began](https://www.theguardian.com/world/2021/mar/13/covid-day-of-reflection-year-after-uk-lockdown-began)
-- [Rory McIlroy: Chasing Bryson DeChambeau’s power has cost me](https://www.theguardian.com/sport/2021/mar/12/rory-mcilroy-chasing-bryson-dechambeaus-power-has-cost-me)
-- [Minneapolis to pay George Floyd's family $27m in police custody death lawsuit](https://www.theguardian.com/us-news/2021/mar/12/minneapolis-pay-george-floyd-family-27m-police-lawsuit)
-- [New York senators urge Cuomo to resign after governor refuses to quit](https://www.theguardian.com/us-news/2021/mar/12/andrew-cuomo-resign-new-york-democrats-aoc-nadler)
-- [High school announcer caught by hot mic blames racist outburst on high blood sugar](https://www.theguardian.com/sport/2021/mar/12/oklahoma-high-school-basketball-racial-slur)
-- [Labour suspends East Ham and West Ham constituency parties](https://www.theguardian.com/politics/2021/mar/12/labour-suspends-east-ham-and-west-ham-constituency-parties)
-- [Relentless Harry Kane proving to be both reward and risk for Tottenham](https://www.theguardian.com/football/2021/mar/12/relentless-harry-kane-proving-to-be-both-reward-and-risk-for-tottenham)
-- [Bolivia's ex-interim president faces arrest warrant for terrorism and sedition](https://www.theguardian.com/world/2021/mar/12/bolivia-ex-interim-president-jeanine-anez-arrest-warrant)
-- [IOC under fire after ‘dismissing’ claims of genocide against Uighurs in China](https://www.theguardian.com/sport/2021/mar/12/ioc-under-fire-after-dismissing-claims-of-genocide-against-uighurs-in-china)
-- [Jamaal Lascelles snatches point for Newcastle to deny Aston Villa](https://www.theguardian.com/football/2021/mar/12/jamaal-lascelles-snatches-point-for-newcastle-to-deny-aston-villa)
+- [Coronavirus live news: AstraZeneca reports vaccine shortfall to EU; Sydney hotel quarantine worker tests positive](https://www.theguardian.com/world/live/2021/mar/14/coronavirus-live-news-astrazeneca-reports-vaccine-shortfall-to-eu-sydney-hotel-quarantine-worker-tests-positive)
+- [Marvin Hagler, middleweight boxing's towering champion, dies aged 66](https://www.theguardian.com/sport/2021/mar/13/marvin-hagler-dead-middleweight-champion)
+- [Sarah Everard: Met commissioner under fire over policing of vigil](https://www.theguardian.com/uk-news/2021/mar/13/sarah-everard-pressure-for-new-laws-to-curb-violence-against-women)
+- [Greggs was on a roll before Covid, but has it passed peak pasty?](https://www.theguardian.com/business/2021/mar/14/greggs-was-on-a-roll-before-covid-but-has-it-passed-peak-pasty)
+- [Lee Westwood leads way at Players Championship heading into final round](https://www.theguardian.com/sport/2021/mar/13/lee-westwood-leads-players-championship-third-round-report)
+- [In the bag: 15 of the best crossbody bags - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/in-the-bag-15-of-the-best-crossbody-bags-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Jennifer Lopez and Alex Rodriguez say reports of break-up are 'inaccurate'](https://www.theguardian.com/culture/2021/mar/13/jennifer-lopez-and-alex-rodriguez-say-reports-of-break-up-are-inaccurate)
+- [No social distancing at FA Cup final as government test reopening plan](https://www.theguardian.com/sport/2021/mar/13/no-social-distancing-at-fa-cup-final-as-government-test-reopening-plan)
+- [Davinson Sánchez at heart of Spurs revival after tackling hard truths](https://www.theguardian.com/football/2021/mar/13/davinson-sanchez-at-heart-of-spurs-revival-after-tackling-hard-truths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

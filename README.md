@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* ['Meow Mix ReMix' Is the Collectible LP You Didn't Know You Needed](https://www.reviewgeek.com/73749/meow-mix-remix-is-the-collectible-lp-you-didnt-know-you-needed/)
-* [Disney World's New Pass is a Digital MagicBand You Don't Have to Wear](https://www.reviewgeek.com/73820/disney-worlds-new-pass-is-a-digital-magicband-you-dont-have-to-wear/)
-* [Piper's STEM Kit Embraces Raspberry Pi Pico With Drag and Drop Coding Lessons](https://www.reviewgeek.com/73763/pipers-stem-kit-embraces-raspberry-pi-pico-with-drag-and-drop-coding-lessons/)
-* [A Cheaper, Ad-Supported HBO Max Plan Is Coming In June](https://www.reviewgeek.com/73759/a-cheaper-ad-supported-hbo-max-plan-is-coming-in-june/)
-* [How to Use Breakout Rooms in a Zoom Meeting](https://www.howtogeek.com/717822/how-to-use-breakout-rooms-in-a-zoom-meeting/)
-* [How to Quickly Turn a File Into a Tab in Microsoft Teams](https://www.howtogeek.com/712796/how-to-quickly-turn-a-file-into-a-tab-in-microsoft-teams/)
-* [How Does Kubernetes Work?](https://www.cloudsavvyit.com/10110/how-does-kubernetes-work/)
-* [dbrand's Limited Edition Robot Camo Skins Make a Second Run for All Your Money](https://www.reviewgeek.com/73736/dbrands-limited-edition-robot-camo-skins-make-a-second-run-for-all-your-money/)
-* [How to Check Your iPhone Warranty in the Settings App](https://www.howtogeek.com/714312/how-to-check-your-iphone-warranty-in-the-settings-app/)
-* [How to Cancel Your Apple One Subscription](https://www.howtogeek.com/716650/how-to-cancel-your-apple-one-subscription/)
+* [Canoo's Bubbly Electric Pickup Is a Workbench-Toting Subscription Vehicle](https://www.reviewgeek.com/73899/canoos-bubbly-electric-pickup-is-a-workbench-toting-subscription-vehicle/)
+* [Brydge's New iPad Keybard Packs a Multi-Touch Trackpad and Otterbox Durability](https://www.reviewgeek.com/73884/brydges-new-ipad-keybard-packs-a-multi-touch-trackpad-and-otterbox-durability/)
+* [How to Take a Screenshot on Oculus Quest 2](https://www.howtogeek.com/713700/how-to-take-a-screenshot-on-oculus-quest-2/)
+* [How to Use the Chrome OS Phone Hub with Your Android Handset](https://www.howtogeek.com/718372/how-to-use-the-chrome-os-phone-hub/)
+* [Meteorite Older Than the Sun Found in a U.K. Driveway](https://www.reviewgeek.com/73825/meteorite-older-than-the-sun-found-in-a-uk-driveway/)
+* [What Is Roblox? Meet the Game Over Half of U.S. Kids Play](https://www.howtogeek.com/717877/what-is-roblox-meet-the-game-over-half-of-u.s.-kids-play/)
+* [How to Share an ECG from Your Apple Watch with Your Doctor](https://www.howtogeek.com/713988/how-to-share-an-ecg-from-your-apple-watch-with-your-doctor/)
+* [How to Change Your Spotify Profile Picture](https://www.howtogeek.com/713089/how-to-change-your-spotify-profile-picture/)
+* [Disney+ Price Hike Goes Into Effect March 26, So Grab Your Wallet](https://www.reviewgeek.com/73841/disney-price-hike-goes-into-effect-march-26-so-grab-your-wallet/)
+* [How to Pin a File or Folder to Your Chromebook’s Taskbar](https://www.howtogeek.com/715322/how-to-pin-a-file-or-folder-to-your-chromebooks-taskbar/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

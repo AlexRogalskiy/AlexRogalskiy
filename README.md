@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645477855709577216" target="_blank"><i>The Trees</i></a></summary>
-<p>by Mary Oliver</p><p>Do you think of them as decoration?<br/><br/>Think again.<br/><br/>Here are the maples, flashing.<br/>And here are the oaks, holding on all winter<br/> to their dry leaves.<br/>And here are the pines, that will never fail,<br/> until death, the instruction to be green.<br/>And here are the willows, the first<br/> to pronounce a new year.<br/><br/>May I invite you to revise your thoughts about them?<br/>Oh, Lord, how we are all for invention and<br/> advancement!<br/>But, I think<br/> it would do us good if we would think about<br/>these brothers and sisters, quietly and deeply.<br/><br/>The trees, the trees, just holding on<br/> to the old, holy ways.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645568433755471873" target="_blank"><i>The One Who Stayed</i></a></summary>
+<p>by Shel Silverstein</p><p>You should have heard the old men cry,<br/>You should have heard the biddies<br/>When that sad stranger raised his flute<br/>And piped away the kiddies.<br/>Katy, Tommy, Meg and Bob<br/>Followed, skipped gaily,<br/>Red-haired Ruth, my brother Rob,<br/>And little crippled Bailey,<br/>John and Nils and Cousin Claire,<br/>Dancin’, spinnin’, turnin’,<br/>‘Cross the hills to God knows where&ndash;<br/>They never came returnin’.<br/>&lsquo;Cross the hills to God knows where<br/>The piper pranced, a leadin’<br/>Each child in Hamlin Town but me,<br/>And I stayed home unheedin’.<br/>My papa says that I was blest<br/>For if that music found me,<br/>I’d be witch-cast like all the rest.<br/>This town grows old around me.<br/>I cannot say I did not hear<br/>That sound so haunting hollow&ndash;<br/>I heard, I heard, I heard it clear&hellip;<br/>I was afraid to follow.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

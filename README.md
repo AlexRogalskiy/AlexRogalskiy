@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TC39 proposal: operator overloading in JavaScript](https://github.com/tc39/proposal-operator-overloading)
-- [Forecasting 500 GitHub Stars](https://orbit.love/blog/forecasting-500-github-stars/)
-- [Can the Elastic of Surgical Face Masks Stimulate Ear Protrusion in Children?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302120/)
-- [Zoom Fatigue: The Differing Impact on Introverts and Extroverts](https://www.wsj.com/articles/zoom-fatigue-the-differing-impact-on-introverts-and-extroverts-11615291202)
-- [TOZ-81 ‘Mars’ Gun](https://www.thedrive.com/the-war-zone/39277/heres-our-best-look-yet-at-russias-secretive-space-cannon-the-only-gun-ever-fired-in-space)
-- [Data is a Toxic Asset (2016)](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)
-- [Throttling Twitter traffic in Russia: how they do it and why it doesn't work](https://meduza.io/en/cards/throttling-twitter-traffic-in-russia)
-- [San Francisco's Poop-Patrol Boss Made $380K and Has Been Charged with Corruption](https://www.zerohedge.com/political/san-franciscos-poop-patrol-boss-made-380k-didnt-do-crap-and-has-been-charged-corruption)
-- [The Great Québec Blackout](https://spaceweatherarchive.com/2021/03/12/the-great-quebec-blackout/)
-- [Never buy Epson printers (2016)](http://e-nouri.com/epson-products-sucks/)
+- [Boxing great Marvelous Marvin Hagler dies at 66](https://apnews.com/article/sports-las-vegas-boxing-roberto-duran-6072cba88b82681488d28e5757eb3638)
+- [Distance Functions in 3D Space](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
+- [Separate but Unequal in College Greek Life](https://tcf.org/content/commentary/separate-but-unequal-in-college-greek-life)
+- [DoorDash, Uber Eats deliver Applebee's, Denny's virtual brands](https://www.usatoday.com/story/money/food/2021/02/17/food-delivery-doordash-uber-eats-applebees-chilis-online-brands/6786284002/)
+- [PSA: Overseas? Don't try recover a dead relatives Gmail account](https://twitter.com/georgebarnett/status/1370913395617136643)
+- [GRVK 0.3.0 released, a WIP Mantle API implementation over Vulkan](https://github.com/libcg/grvk/releases/tag/0.3.0)
+- [Installing an OBD2 adaptor on Tesla Model 3](https://www.youtube.com/watch?v=i08OltkqzYU&t=0s)
+- [After the Rapture Pet Care](https://aftertherapturepetcare.com/)
+- [DB Tradeoffs](https://github.com/livgust/covid-vaccine-scrapers/wiki/DB-Tradeoffs)
+- [Google Must Face Suit over Snooping on ‘Incognito’ Browsing](https://www.bloomberg.com/news/articles/2021-03-13/google-must-face-suit-over-snooping-on-incognito-browsing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

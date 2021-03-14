@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
-- [Qutebrowser](https://qutebrowser.org/)
-- [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
-- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
-- [Point Cloud Library](https://pointclouds.org/)
-- [Online Hacker Simulator](https://hacker-simulator.com/)
-- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
-- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
-- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
-- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
+- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+- [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+- [Tesla says “Full Self-Driving” software doesn't make cars autonomous](https://www.axios.com/tesla-full-self-driving-cars-75cd27c5-ebfb-4c96-8e93-d6deed332895.html)
+- [Open Source clones of popular sites (e.g. Airbnb, clubhouse)](https://github.com/GorvGoyl/Clone-Wars)
+- [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
+- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
+- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
+- [Is autism the legacy of humans evolving the ability to innovate?](https://www.cbc.ca/radio/quirks/mar-13-10-years-since-japan-s-tsunami-ants-do-social-distancing-otters-save-kelp-forests-and-more-1.5946073/is-autism-the-legacy-of-humans-evolving-the-ability-to-innovate-1.5946074)
+- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

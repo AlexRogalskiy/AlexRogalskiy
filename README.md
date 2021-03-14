@@ -190,17 +190,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/verbal_diarrhoea_123.php" target="_blank"><i>verbal diarrhoea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
 <span> = </span>
-<span>If someone has verbal diarrhoea, they can't stop talking.</span>
+<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/fanny_1__1170.php" target="_blank"><i>fanny (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/cop_741.php" target="_blank"><i>cop</i></a>
 <span> = </span>
-<span>a person's buttocks or bottom</span>
+<span>a policeman or a policewoman</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645477855709577216" target="_blank"><i>The Trees</i></a></summary>
-<p>by Mary Oliver</p><p>Do you think of them as decoration?<br/><br/>Think again.<br/><br/>Here are the maples, flashing.<br/>And here are the oaks, holding on all winter<br/> to their dry leaves.<br/>And here are the pines, that will never fail,<br/> until death, the instruction to be green.<br/>And here are the willows, the first<br/> to pronounce a new year.<br/><br/>May I invite you to revise your thoughts about them?<br/>Oh, Lord, how we are all for invention and<br/> advancement!<br/>But, I think<br/> it would do us good if we would think about<br/>these brothers and sisters, quietly and deeply.<br/><br/>The trees, the trees, just holding on<br/> to the old, holy ways.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645568433755471873" target="_blank"><i>The One Who Stayed</i></a></summary>
+<p>by Shel Silverstein</p><p>You should have heard the old men cry,<br/>You should have heard the biddies<br/>When that sad stranger raised his flute<br/>And piped away the kiddies.<br/>Katy, Tommy, Meg and Bob<br/>Followed, skipped gaily,<br/>Red-haired Ruth, my brother Rob,<br/>And little crippled Bailey,<br/>John and Nils and Cousin Claire,<br/>Dancin’, spinnin’, turnin’,<br/>‘Cross the hills to God knows where&ndash;<br/>They never came returnin’.<br/>&lsquo;Cross the hills to God knows where<br/>The piper pranced, a leadin’<br/>Each child in Hamlin Town but me,<br/>And I stayed home unheedin’.<br/>My papa says that I was blest<br/>For if that music found me,<br/>I’d be witch-cast like all the rest.<br/>This town grows old around me.<br/>I cannot say I did not hear<br/>That sound so haunting hollow&ndash;<br/>I heard, I heard, I heard it clear&hellip;<br/>I was afraid to follow.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>broken clouds</i>), humidity: 87%, pressure: 997 (mbar), wind: /south/ 3 (m/s), cloudy: 75%</b>
+        <b>2°C (<i>broken clouds</i>), humidity: 93%, pressure: 997 (mbar), wind: /south/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>07:18 am</b> and sets at <b>18:57 pm</b>.
     </p>
@@ -291,61 +291,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* ['Meow Mix ReMix' Is the Collectible LP You Didn't Know You Needed](https://www.reviewgeek.com/73749/meow-mix-remix-is-the-collectible-lp-you-didnt-know-you-needed/)
-* [Disney World's New Pass is a Digital MagicBand You Don't Have to Wear](https://www.reviewgeek.com/73820/disney-worlds-new-pass-is-a-digital-magicband-you-dont-have-to-wear/)
-* [Piper's STEM Kit Embraces Raspberry Pi Pico With Drag and Drop Coding Lessons](https://www.reviewgeek.com/73763/pipers-stem-kit-embraces-raspberry-pi-pico-with-drag-and-drop-coding-lessons/)
-* [A Cheaper, Ad-Supported HBO Max Plan Is Coming In June](https://www.reviewgeek.com/73759/a-cheaper-ad-supported-hbo-max-plan-is-coming-in-june/)
-* [How to Use Breakout Rooms in a Zoom Meeting](https://www.howtogeek.com/717822/how-to-use-breakout-rooms-in-a-zoom-meeting/)
-* [How to Quickly Turn a File Into a Tab in Microsoft Teams](https://www.howtogeek.com/712796/how-to-quickly-turn-a-file-into-a-tab-in-microsoft-teams/)
-* [How Does Kubernetes Work?](https://www.cloudsavvyit.com/10110/how-does-kubernetes-work/)
-* [dbrand's Limited Edition Robot Camo Skins Make a Second Run for All Your Money](https://www.reviewgeek.com/73736/dbrands-limited-edition-robot-camo-skins-make-a-second-run-for-all-your-money/)
-* [How to Check Your iPhone Warranty in the Settings App](https://www.howtogeek.com/714312/how-to-check-your-iphone-warranty-in-the-settings-app/)
-* [How to Cancel Your Apple One Subscription](https://www.howtogeek.com/716650/how-to-cancel-your-apple-one-subscription/)
+* [Canoo's Bubbly Electric Pickup Is a Workbench-Toting Subscription Vehicle](https://www.reviewgeek.com/73899/canoos-bubbly-electric-pickup-is-a-workbench-toting-subscription-vehicle/)
+* [Brydge's New iPad Keybard Packs a Multi-Touch Trackpad and Otterbox Durability](https://www.reviewgeek.com/73884/brydges-new-ipad-keybard-packs-a-multi-touch-trackpad-and-otterbox-durability/)
+* [How to Take a Screenshot on Oculus Quest 2](https://www.howtogeek.com/713700/how-to-take-a-screenshot-on-oculus-quest-2/)
+* [How to Use the Chrome OS Phone Hub with Your Android Handset](https://www.howtogeek.com/718372/how-to-use-the-chrome-os-phone-hub/)
+* [Meteorite Older Than the Sun Found in a U.K. Driveway](https://www.reviewgeek.com/73825/meteorite-older-than-the-sun-found-in-a-uk-driveway/)
+* [What Is Roblox? Meet the Game Over Half of U.S. Kids Play](https://www.howtogeek.com/717877/what-is-roblox-meet-the-game-over-half-of-u.s.-kids-play/)
+* [How to Share an ECG from Your Apple Watch with Your Doctor](https://www.howtogeek.com/713988/how-to-share-an-ecg-from-your-apple-watch-with-your-doctor/)
+* [How to Change Your Spotify Profile Picture](https://www.howtogeek.com/713089/how-to-change-your-spotify-profile-picture/)
+* [Disney+ Price Hike Goes Into Effect March 26, So Grab Your Wallet](https://www.reviewgeek.com/73841/disney-price-hike-goes-into-effect-march-26-so-grab-your-wallet/)
+* [How to Pin a File or Folder to Your Chromebook’s Taskbar](https://www.howtogeek.com/715322/how-to-pin-a-file-or-folder-to-your-chromebooks-taskbar/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TC39 proposal: operator overloading in JavaScript](https://github.com/tc39/proposal-operator-overloading)
-- [Forecasting 500 GitHub Stars](https://orbit.love/blog/forecasting-500-github-stars/)
-- [Can the Elastic of Surgical Face Masks Stimulate Ear Protrusion in Children?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302120/)
-- [Zoom Fatigue: The Differing Impact on Introverts and Extroverts](https://www.wsj.com/articles/zoom-fatigue-the-differing-impact-on-introverts-and-extroverts-11615291202)
-- [TOZ-81 ‘Mars’ Gun](https://www.thedrive.com/the-war-zone/39277/heres-our-best-look-yet-at-russias-secretive-space-cannon-the-only-gun-ever-fired-in-space)
-- [Data is a Toxic Asset (2016)](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)
-- [Throttling Twitter traffic in Russia: how they do it and why it doesn't work](https://meduza.io/en/cards/throttling-twitter-traffic-in-russia)
-- [San Francisco's Poop-Patrol Boss Made $380K and Has Been Charged with Corruption](https://www.zerohedge.com/political/san-franciscos-poop-patrol-boss-made-380k-didnt-do-crap-and-has-been-charged-corruption)
-- [The Great Québec Blackout](https://spaceweatherarchive.com/2021/03/12/the-great-quebec-blackout/)
-- [Never buy Epson printers (2016)](http://e-nouri.com/epson-products-sucks/)
+- [Boxing great Marvelous Marvin Hagler dies at 66](https://apnews.com/article/sports-las-vegas-boxing-roberto-duran-6072cba88b82681488d28e5757eb3638)
+- [Distance Functions in 3D Space](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
+- [Separate but Unequal in College Greek Life](https://tcf.org/content/commentary/separate-but-unequal-in-college-greek-life)
+- [DoorDash, Uber Eats deliver Applebee's, Denny's virtual brands](https://www.usatoday.com/story/money/food/2021/02/17/food-delivery-doordash-uber-eats-applebees-chilis-online-brands/6786284002/)
+- [PSA: Overseas? Don't try recover a dead relatives Gmail account](https://twitter.com/georgebarnett/status/1370913395617136643)
+- [GRVK 0.3.0 released, a WIP Mantle API implementation over Vulkan](https://github.com/libcg/grvk/releases/tag/0.3.0)
+- [Installing an OBD2 adaptor on Tesla Model 3](https://www.youtube.com/watch?v=i08OltkqzYU&t=0s)
+- [After the Rapture Pet Care](https://aftertherapturepetcare.com/)
+- [DB Tradeoffs](https://github.com/livgust/covid-vaccine-scrapers/wiki/DB-Tradeoffs)
+- [Google Must Face Suit over Snooping on ‘Incognito’ Browsing](https://www.bloomberg.com/news/articles/2021-03-13/google-must-face-suit-over-snooping-on-incognito-browsing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Day of reflection to be held a year after UK's Covid lockdown began](https://www.theguardian.com/world/2021/mar/13/covid-day-of-reflection-year-after-uk-lockdown-began)
-- [Rory McIlroy: Chasing Bryson DeChambeau’s power has cost me](https://www.theguardian.com/sport/2021/mar/12/rory-mcilroy-chasing-bryson-dechambeaus-power-has-cost-me)
-- [Minneapolis to pay George Floyd's family $27m in police custody death lawsuit](https://www.theguardian.com/us-news/2021/mar/12/minneapolis-pay-george-floyd-family-27m-police-lawsuit)
-- [New York senators urge Cuomo to resign after governor refuses to quit](https://www.theguardian.com/us-news/2021/mar/12/andrew-cuomo-resign-new-york-democrats-aoc-nadler)
-- [High school announcer caught by hot mic blames racist outburst on high blood sugar](https://www.theguardian.com/sport/2021/mar/12/oklahoma-high-school-basketball-racial-slur)
-- [Labour suspends East Ham and West Ham constituency parties](https://www.theguardian.com/politics/2021/mar/12/labour-suspends-east-ham-and-west-ham-constituency-parties)
-- [Relentless Harry Kane proving to be both reward and risk for Tottenham](https://www.theguardian.com/football/2021/mar/12/relentless-harry-kane-proving-to-be-both-reward-and-risk-for-tottenham)
-- [Bolivia's ex-interim president faces arrest warrant for terrorism and sedition](https://www.theguardian.com/world/2021/mar/12/bolivia-ex-interim-president-jeanine-anez-arrest-warrant)
-- [IOC under fire after ‘dismissing’ claims of genocide against Uighurs in China](https://www.theguardian.com/sport/2021/mar/12/ioc-under-fire-after-dismissing-claims-of-genocide-against-uighurs-in-china)
-- [Jamaal Lascelles snatches point for Newcastle to deny Aston Villa](https://www.theguardian.com/football/2021/mar/12/jamaal-lascelles-snatches-point-for-newcastle-to-deny-aston-villa)
+- [Coronavirus live news: AstraZeneca reports vaccine shortfall to EU; Sydney hotel quarantine worker tests positive](https://www.theguardian.com/world/live/2021/mar/14/coronavirus-live-news-astrazeneca-reports-vaccine-shortfall-to-eu-sydney-hotel-quarantine-worker-tests-positive)
+- [Marvin Hagler, middleweight boxing's towering champion, dies aged 66](https://www.theguardian.com/sport/2021/mar/13/marvin-hagler-dead-middleweight-champion)
+- [Sarah Everard: Met commissioner under fire over policing of vigil](https://www.theguardian.com/uk-news/2021/mar/13/sarah-everard-pressure-for-new-laws-to-curb-violence-against-women)
+- [Greggs was on a roll before Covid, but has it passed peak pasty?](https://www.theguardian.com/business/2021/mar/14/greggs-was-on-a-roll-before-covid-but-has-it-passed-peak-pasty)
+- [Lee Westwood leads way at Players Championship heading into final round](https://www.theguardian.com/sport/2021/mar/13/lee-westwood-leads-players-championship-third-round-report)
+- [In the bag: 15 of the best crossbody bags - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/in-the-bag-15-of-the-best-crossbody-bags-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Jennifer Lopez and Alex Rodriguez say reports of break-up are 'inaccurate'](https://www.theguardian.com/culture/2021/mar/13/jennifer-lopez-and-alex-rodriguez-say-reports-of-break-up-are-inaccurate)
+- [No social distancing at FA Cup final as government test reopening plan](https://www.theguardian.com/sport/2021/mar/13/no-social-distancing-at-fa-cup-final-as-government-test-reopening-plan)
+- [Davinson Sánchez at heart of Spurs revival after tackling hard truths](https://www.theguardian.com/football/2021/mar/13/davinson-sanchez-at-heart-of-spurs-revival-after-tackling-hard-truths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
-- [Qutebrowser](https://qutebrowser.org/)
-- [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
-- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
-- [Point Cloud Library](https://pointclouds.org/)
-- [Online Hacker Simulator](https://hacker-simulator.com/)
-- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
-- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
-- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
-- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
+- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+- [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+- [Tesla says “Full Self-Driving” software doesn't make cars autonomous](https://www.axios.com/tesla-full-self-driving-cars-75cd27c5-ebfb-4c96-8e93-d6deed332895.html)
+- [Open Source clones of popular sites (e.g. Airbnb, clubhouse)](https://github.com/GorvGoyl/Clone-Wars)
+- [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
+- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
+- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
+- [Is autism the legacy of humans evolving the ability to innovate?](https://www.cbc.ca/radio/quirks/mar-13-10-years-since-japan-s-tsunami-ants-do-social-distancing-otters-save-kelp-forests-and-more-1.5946073/is-autism-the-legacy-of-humans-evolving-the-ability-to-innovate-1.5946074)
+- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -411,6 +411,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can not get an internship and URGENTLY need some advice and inspiration](https://www.reddit.com/r/InformationTechnology/comments/m4lhvn/can_not_get_an_internship_and_urgently_need_some/)
+- [Question about working in IT abroad](https://www.reddit.com/r/InformationTechnology/comments/m48dmh/question_about_working_in_it_abroad/)
+- [Which IT certification is well known and accepted by all most all countries in the world?](https://www.reddit.com/r/InformationTechnology/comments/m4896t/which_it_certification_is_well_known_and_accepted/)
 - [Shipping Accessory Bundle](https://www.reddit.com/r/InformationTechnology/comments/m3pdo7/shipping_accessory_bundle/)
 - [Changing VOIP management company?](https://www.reddit.com/r/InformationTechnology/comments/m3l7hb/changing_voip_management_company/)
 - [Question: Is it possible to backup a VM and deploy the backup to a machine?](https://www.reddit.com/r/InformationTechnology/comments/m3knpf/question_is_it_possible_to_backup_a_vm_and_deploy/)
@@ -418,9 +421,6 @@
 - [Graveyard shift](https://www.reddit.com/r/InformationTechnology/comments/m3jq7r/graveyard_shift/)
 - [Which city has the best market for Information Technology jobs? Atlanta or Charlotte?](https://www.reddit.com/r/InformationTechnology/comments/m38zni/which_city_has_the_best_market_for_information/)
 - [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
-- [In what part of the Internet do young people working in the IT field now gather?](https://www.reddit.com/r/InformationTechnology/comments/m2p89r/in_what_part_of_the_internet_do_young_people/)
-- [IT certifications](https://www.reddit.com/r/InformationTechnology/comments/m2hi85/it_certifications/)
-- [IPv4 vs IPv6](https://www.reddit.com/r/InformationTechnology/comments/m2d0bo/ipv4_vs_ipv6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

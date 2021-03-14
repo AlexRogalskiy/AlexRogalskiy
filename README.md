@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Least_said_soonest_mended_935.php" target="_blank"><i>Least said soonest mended</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Strike_while_the_iron_is_hot_589.php" target="_blank"><i>Strike while the iron is hot</i></a>
 <span> = </span>
-<span>When we do or say something bad to someone, a long apology and discussion does not help. In such a case, the less we say the better.</span>
+<span>Seize the opportunity! When we have the chance to do something, we should do it immediately. Otherwise it will be too late.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

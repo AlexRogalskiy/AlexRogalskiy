@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Strike_while_the_iron_is_hot_589.php" target="_blank"><i>Strike while the iron is hot</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Let_the_dead_bury_the_dead_869.php" target="_blank"><i>Let the dead bury the dead</i></a>
 <span> = </span>
-<span>Seize the opportunity! When we have the chance to do something, we should do it immediately. Otherwise it will be too late.</span>
+<span>This is generally taken to imply that we should spend our time and energy on living people, not on dead people. (But see Origin below.)</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

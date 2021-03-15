@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/J/jumble_up_1763.php" target="_blank"><i>jumble up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/J/jam_into_1865.php" target="_blank"><i>jam into</i></a>
 <span> = </span>
-<span>If you jumble things up, you mix them up so that they are no longer in their proper order or formation.</span>
+<span>to force too many things or people into a small space</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

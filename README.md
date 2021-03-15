@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Canoo's Bubbly Electric Pickup Is a Workbench-Toting Subscription Vehicle](https://www.reviewgeek.com/73899/canoos-bubbly-electric-pickup-is-a-workbench-toting-subscription-vehicle/)
-* [Brydge's New iPad Keybard Packs a Multi-Touch Trackpad and Otterbox Durability](https://www.reviewgeek.com/73884/brydges-new-ipad-keybard-packs-a-multi-touch-trackpad-and-otterbox-durability/)
-* [How to Take a Screenshot on Oculus Quest 2](https://www.howtogeek.com/713700/how-to-take-a-screenshot-on-oculus-quest-2/)
-* [How to Use the Chrome OS Phone Hub with Your Android Handset](https://www.howtogeek.com/718372/how-to-use-the-chrome-os-phone-hub/)
-* [Meteorite Older Than the Sun Found in a U.K. Driveway](https://www.reviewgeek.com/73825/meteorite-older-than-the-sun-found-in-a-uk-driveway/)
-* [What Is Roblox? Meet the Game Over Half of U.S. Kids Play](https://www.howtogeek.com/717877/what-is-roblox-meet-the-game-over-half-of-u.s.-kids-play/)
-* [How to Share an ECG from Your Apple Watch with Your Doctor](https://www.howtogeek.com/713988/how-to-share-an-ecg-from-your-apple-watch-with-your-doctor/)
-* [How to Change Your Spotify Profile Picture](https://www.howtogeek.com/713089/how-to-change-your-spotify-profile-picture/)
-* [Disney+ Price Hike Goes Into Effect March 26, So Grab Your Wallet](https://www.reviewgeek.com/73841/disney-price-hike-goes-into-effect-march-26-so-grab-your-wallet/)
-* [How to Pin a File or Folder to Your Chromebook’s Taskbar](https://www.howtogeek.com/715322/how-to-pin-a-file-or-folder-to-your-chromebooks-taskbar/)
+* [Forget IMAX, Let's Watch 'Tenet' On a Game Boy](https://www.reviewgeek.com/73864/forget-imax-lets-watch-tenet-on-a-game-boy/)
+* [How to Change Screen Modes in Photoshop](https://www.howtogeek.com/713815/how-to-change-screen-modes-in-photoshop/)
+* [Light up Your Next D&D Game with Pixel LED-Powered Dice](https://www.reviewgeek.com/73862/light-up-your-next-dd-game-with-pixel-led-powered-dice/)
+* [How to Hide the Vertical Tabs Button From Microsoft Edge](https://www.howtogeek.com/718245/how-to-hide-the-vertical-tabs-button-from-microsoft-edge/)
+* ["Google AR Synth" Lets You Jam on Iconic Drum Machines and Synths for Free](https://www.reviewgeek.com/73852/google-ar-synth-lets-you-jam-on-iconic-drum-machines-and-synths-for-free/)
+* [How to Propose a New Time for a Google Calendar Event](https://www.howtogeek.com/714605/how-to-propose-a-new-time-for-a-google-calendar-event/)
+* [How to Replace the Microsoft Edge Start Page with Something Better](https://www.howtogeek.com/714146/how-to-replace-the-microsoft-edge-start-page-with-something-better/)
+* [11 Great Beginner LEGO Sets for Adults](https://www.reviewgeek.com/73373/11-great-beginner-lego-sets-for-adults/)
+* [How to Stop Your iPhone From Tracking Your Steps](https://www.howtogeek.com/713258/how-to-stop-your-iphone-from-tracking-your-steps/)
+* [How to Watch the 2021 Grammy Awards without Cable](https://www.howtogeek.com/717756/how-to-watch-the-2021-grammy-awards-without-cable/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/leave_no_stone_unturned_652.php" target="_blank"><i>leave no stone unturned</i></a>
 <span> = </span>
-<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
+<span>If you leave no stone unturned, you look everywhere in order to find something, or try everything in order to achieve something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

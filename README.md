@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_1/cop_741.php" target="_blank"><i>cop</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/J/jiffy_jiff_1187.php" target="_blank"><i>jiffy | jiff</i></a>
 <span> = </span>
-<span>a policeman or a policewoman</span>
+<span>a moment, a very short time</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645568433755471873" target="_blank"><i>The One Who Stayed</i></a></summary>
-<p>by Shel Silverstein</p><p>You should have heard the old men cry,<br/>You should have heard the biddies<br/>When that sad stranger raised his flute<br/>And piped away the kiddies.<br/>Katy, Tommy, Meg and Bob<br/>Followed, skipped gaily,<br/>Red-haired Ruth, my brother Rob,<br/>And little crippled Bailey,<br/>John and Nils and Cousin Claire,<br/>Dancin’, spinnin’, turnin’,<br/>‘Cross the hills to God knows where&ndash;<br/>They never came returnin’.<br/>&lsquo;Cross the hills to God knows where<br/>The piper pranced, a leadin’<br/>Each child in Hamlin Town but me,<br/>And I stayed home unheedin’.<br/>My papa says that I was blest<br/>For if that music found me,<br/>I’d be witch-cast like all the rest.<br/>This town grows old around me.<br/>I cannot say I did not hear<br/>That sound so haunting hollow&ndash;<br/>I heard, I heard, I heard it clear&hellip;<br/>I was afraid to follow.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/645655249028333568" target="_blank"><i>A Birthday Card</i></a></summary>
+<p>by Ted Kooser</p><p>In her eighties now, and weak and ill<br/>with emphysema, my aunt sends me<br/>a birthday card&ndash;a tossing ocean<br/>with clipper ship&ndash;and wishes me well<br/>at forty-four. She’s included<br/>a note&ndash;hard-bitten in ballpoint<br/>with a pen that sometimes skips whole words<br/>but never turns back&ndash;to tell me<br/>her end of the news: how the steroids<br/>have softened her spine, how<br/>every X ray shows more shattered bone.<br/>Her hasty words skip in and out,<br/>their little grooves washed clean of ink,<br/>the message rising and falling<br/>like short-wave radio, sending<br/>this hurried S.OS., with love.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

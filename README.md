@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/leave_no_stone_unturned_652.php" target="_blank"><i>leave no stone unturned</i></a>
 <span> = </span>
-<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
+<span>If you leave no stone unturned, you look everywhere in order to find something, or try everything in order to achieve something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645568433755471873" target="_blank"><i>The One Who Stayed</i></a></summary>
-<p>by Shel Silverstein</p><p>You should have heard the old men cry,<br/>You should have heard the biddies<br/>When that sad stranger raised his flute<br/>And piped away the kiddies.<br/>Katy, Tommy, Meg and Bob<br/>Followed, skipped gaily,<br/>Red-haired Ruth, my brother Rob,<br/>And little crippled Bailey,<br/>John and Nils and Cousin Claire,<br/>Dancin’, spinnin’, turnin’,<br/>‘Cross the hills to God knows where&ndash;<br/>They never came returnin’.<br/>&lsquo;Cross the hills to God knows where<br/>The piper pranced, a leadin’<br/>Each child in Hamlin Town but me,<br/>And I stayed home unheedin’.<br/>My papa says that I was blest<br/>For if that music found me,<br/>I’d be witch-cast like all the rest.<br/>This town grows old around me.<br/>I cannot say I did not hear<br/>That sound so haunting hollow&ndash;<br/>I heard, I heard, I heard it clear&hellip;<br/>I was afraid to follow.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/645655249028333568" target="_blank"><i>A Birthday Card</i></a></summary>
+<p>by Ted Kooser</p><p>In her eighties now, and weak and ill<br/>with emphysema, my aunt sends me<br/>a birthday card&ndash;a tossing ocean<br/>with clipper ship&ndash;and wishes me well<br/>at forty-four. She’s included<br/>a note&ndash;hard-bitten in ballpoint<br/>with a pen that sometimes skips whole words<br/>but never turns back&ndash;to tell me<br/>her end of the news: how the steroids<br/>have softened her spine, how<br/>every X ray shows more shattered bone.<br/>Her hasty words skip in and out,<br/>their little grooves washed clean of ink,<br/>the message rising and falling<br/>like short-wave radio, sending<br/>this hurried S.OS., with love.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>light snow</i>), humidity: 93%, pressure: 995 (mbar), wind: /south-west/ 2 (m/s), cloudy: 75%</b>
+        <b>2°C (<i>light snow</i>), humidity: 93%, pressure: 994 (mbar), wind: /south-west/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>07:15 am</b> and sets at <b>19:00 pm</b>.
     </p>
@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Canoo's Bubbly Electric Pickup Is a Workbench-Toting Subscription Vehicle](https://www.reviewgeek.com/73899/canoos-bubbly-electric-pickup-is-a-workbench-toting-subscription-vehicle/)
-* [Brydge's New iPad Keybard Packs a Multi-Touch Trackpad and Otterbox Durability](https://www.reviewgeek.com/73884/brydges-new-ipad-keybard-packs-a-multi-touch-trackpad-and-otterbox-durability/)
-* [How to Take a Screenshot on Oculus Quest 2](https://www.howtogeek.com/713700/how-to-take-a-screenshot-on-oculus-quest-2/)
-* [How to Use the Chrome OS Phone Hub with Your Android Handset](https://www.howtogeek.com/718372/how-to-use-the-chrome-os-phone-hub/)
-* [Meteorite Older Than the Sun Found in a U.K. Driveway](https://www.reviewgeek.com/73825/meteorite-older-than-the-sun-found-in-a-uk-driveway/)
-* [What Is Roblox? Meet the Game Over Half of U.S. Kids Play](https://www.howtogeek.com/717877/what-is-roblox-meet-the-game-over-half-of-u.s.-kids-play/)
-* [How to Share an ECG from Your Apple Watch with Your Doctor](https://www.howtogeek.com/713988/how-to-share-an-ecg-from-your-apple-watch-with-your-doctor/)
-* [How to Change Your Spotify Profile Picture](https://www.howtogeek.com/713089/how-to-change-your-spotify-profile-picture/)
-* [Disney+ Price Hike Goes Into Effect March 26, So Grab Your Wallet](https://www.reviewgeek.com/73841/disney-price-hike-goes-into-effect-march-26-so-grab-your-wallet/)
-* [How to Pin a File or Folder to Your Chromebook’s Taskbar](https://www.howtogeek.com/715322/how-to-pin-a-file-or-folder-to-your-chromebooks-taskbar/)
+* [Forget IMAX, Let's Watch 'Tenet' On a Game Boy](https://www.reviewgeek.com/73864/forget-imax-lets-watch-tenet-on-a-game-boy/)
+* [How to Change Screen Modes in Photoshop](https://www.howtogeek.com/713815/how-to-change-screen-modes-in-photoshop/)
+* [Light up Your Next D&D Game with Pixel LED-Powered Dice](https://www.reviewgeek.com/73862/light-up-your-next-dd-game-with-pixel-led-powered-dice/)
+* [How to Hide the Vertical Tabs Button From Microsoft Edge](https://www.howtogeek.com/718245/how-to-hide-the-vertical-tabs-button-from-microsoft-edge/)
+* ["Google AR Synth" Lets You Jam on Iconic Drum Machines and Synths for Free](https://www.reviewgeek.com/73852/google-ar-synth-lets-you-jam-on-iconic-drum-machines-and-synths-for-free/)
+* [How to Propose a New Time for a Google Calendar Event](https://www.howtogeek.com/714605/how-to-propose-a-new-time-for-a-google-calendar-event/)
+* [How to Replace the Microsoft Edge Start Page with Something Better](https://www.howtogeek.com/714146/how-to-replace-the-microsoft-edge-start-page-with-something-better/)
+* [11 Great Beginner LEGO Sets for Adults](https://www.reviewgeek.com/73373/11-great-beginner-lego-sets-for-adults/)
+* [How to Stop Your iPhone From Tracking Your Steps](https://www.howtogeek.com/713258/how-to-stop-your-iphone-from-tracking-your-steps/)
+* [How to Watch the 2021 Grammy Awards without Cable](https://www.howtogeek.com/717756/how-to-watch-the-2021-grammy-awards-without-cable/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

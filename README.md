@@ -352,16 +352,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft follows Google and Chrome, shifts Edge to four-week release pace](https://www.computerworld.com/article/3611512/microsoft-follows-google-and-chrome-shifts-edge-to-four-week-release-pace.html#tk.rss_all)
+- [Apple lives by its own privacy rules](https://www.computerworld.com/article/3611848/apple-lives-by-its-own-privacy-rules.html#tk.rss_all)
+- [Stuck on Windows 10 1909? Some workarounds on moving forward](https://www.computerworld.com/article/3611672/stuck-on-windows-10-1909-some-workarounds-on-moving-forward.html#tk.rss_all)
+- [BrandPost: Faced With a Distributed Workforce, IT Needs Help With Device Management](https://www.computerworld.com/article/3611423/faced-with-a-distributed-workforce-it-needs-help-with-device-management.html#tk.rss_all)
+- [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [Windows 10’s Remote Desktop options explained](https://www.computerworld.com/article/3611588/windows-10-remote-desktop-options-explained.html#tk.rss_all)
 - [BrandPost: Assessing the Value of Partnering for IT Services](https://www.computerworld.com/article/3611356/assessing-the-value-of-partnering-for-it-services.html#tk.rss_all)
 - [Patch Exchange now, and test your Windows updates](https://www.computerworld.com/article/3611417/patch-exchange-now-and-test-your-windows-updates.html#tk.rss_all)
 - [Q&A: Adobe explains the transition to Apple Silicon](https://www.computerworld.com/article/3611383/qa-adobe-explains-the-transition-to-apple-silicon.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [If you want to succeed: Go slow to go fast](https://www.computerworld.com/article/3611542/if-you-want-to-succeed-go-slow-to-go-fast.html#tk.rss_all)
-- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
-- [Mars Perseverance rover landing: How IT supports NASA and JPL’s Mars 2020 mission](https://www.computerworld.com/article/3611350/mars-perseverance-rover-landing-how-it-supports-nasa-and-jpl-s-mars-2020-mission.html#tk.rss_all)
-- [Podcast: iMac Pro discontinued: What does it mean for the future of 'Pro' Macs?](https://www.computerworld.com/article/3611351/podcast-imac-pro-discontinued-what-does-it-mean-for-the-future-of-pro-macs.html#tk.rss_all)
-- [This year's biggest Android upgrade disappointment](https://www.computerworld.com/article/3611134/android-upgrade-disappointment.html#tk.rss_all)
-- [LogMeIn revamps GoToConnect to support shift to flexible work](https://www.computerworld.com/article/3611391/logmein-revamps-gotoconnect-to-support-shift-to-flexible-work.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

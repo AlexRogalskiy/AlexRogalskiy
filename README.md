@@ -307,16 +307,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Boxing great Marvelous Marvin Hagler dies at 66](https://apnews.com/article/sports-las-vegas-boxing-roberto-duran-6072cba88b82681488d28e5757eb3638)
-- [Distance Functions in 3D Space](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
-- [Separate but Unequal in College Greek Life](https://tcf.org/content/commentary/separate-but-unequal-in-college-greek-life)
-- [DoorDash, Uber Eats deliver Applebee's, Denny's virtual brands](https://www.usatoday.com/story/money/food/2021/02/17/food-delivery-doordash-uber-eats-applebees-chilis-online-brands/6786284002/)
-- [PSA: Overseas? Don't try recover a dead relatives Gmail account](https://twitter.com/georgebarnett/status/1370913395617136643)
-- [GRVK 0.3.0 released, a WIP Mantle API implementation over Vulkan](https://github.com/libcg/grvk/releases/tag/0.3.0)
-- [Installing an OBD2 adaptor on Tesla Model 3](https://www.youtube.com/watch?v=i08OltkqzYU&t=0s)
-- [After the Rapture Pet Care](https://aftertherapturepetcare.com/)
-- [DB Tradeoffs](https://github.com/livgust/covid-vaccine-scrapers/wiki/DB-Tradeoffs)
-- [Google Must Face Suit over Snooping on ‘Incognito’ Browsing](https://www.bloomberg.com/news/articles/2021-03-13/google-must-face-suit-over-snooping-on-incognito-browsing)
+- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
+- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+- [Bing search update for immersive UX](https://searchengineland.com/microsoft-bing-updates-search-results-interface-to-make-it-more-visually-immersive-346665)
+- [Beware of Tight Feedback Loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
+- [The AI Control Problem](https://geohot.github.io/blog/jekyll/update/2021/02/28/the-ai-control-problem.html)
+- [Windi CSS – Next Generation Tailwind CSS Compiler](https://windicss.org/)
+- [Heterogeneity Matters When Modeling Covid-19](https://physics.aps.org/articles/v14/s22)
+- [Anthony Fu: Congrats Tailwind, and Thanks for Not Mentioning Windi CSS at All](https://twitter.com/antfu7/status/1371533878800748545)
+- [Facebook to pay News Corp for content in Australia](https://www.bbc.co.uk/news/world-australia-56410335)
+- [Rust Koans](https://github.com/crazymykl/rust-koans)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

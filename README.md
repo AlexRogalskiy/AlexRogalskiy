@@ -427,16 +427,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers seeks to buy Shaw for $26 billion](https://www.itworldcanada.com/article/rogers-seeks-to-buy-shaw-for-26-billion/443932)
+- [Microsoft investigates possible leak that enabled hackers to exploit Exchange](https://www.itworldcanada.com/article/did-a-microsoft-partner-play-a-role-in-enabling-hackers-to-exploit-exchange/443916)
+- [Managing remote employees: 8 best practices for leaders now – The Enterprisers Project](https://www.itworldcanada.com/post/managing-remote-employees-8-best-practices-for-leaders-now-the-enterprisers-project)
+- [Cyber Security Today, March 15, 2021 – Canadian charged as encrypted network allegedly used by criminals disrupted, equipment from Huawei called risky to US networks; Chrome updates; Netgear and Linux](https://www.itworldcanada.com/article/cyber-security-today-canadian-charged-as-encrypted-network-allegedly-used-by-criminals-disrupted-equipment-from-huawei-called-risky-to-us-networks-chrome-updates-netgear-and-linux/443899)
+- [3 factors that are driving us towards a data-driven decision-making world](https://www.itworldcanada.com/blog/3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world/443898)
+- [Hashtag Trending, March 15, 2021 – Amazon says no to Pickering and appeals orders to close a Brampton warehouse; Google accused of tracking users in ‘Incognito’ mode](https://www.itworldcanada.com/article/hashtag-trending-march-15-2021-amazon-says-no-to-pickering-and-appeals-orders-to-close-a-brampton-warehouse-google-accused-of-tracking-users-in-incognito-mode/443896)
+- [FedDev Ontario gives ventureLAB $4.73 million in funding](https://www.itworldcanada.com/article/feddev-ontario-gives-venturelab-4-73-million-in-funding/443880)
+- [CRA locks out taxpayer accounts after discovering unauthorized use of credentials](https://www.itworldcanada.com/article/cra-locks-out-taxpayer-accounts-after-discovering-unauthorized-use-of-credentials/443875)
 - [ITWC launches 2021 Canadian IT Skill Survey](https://www.itworldcanada.com/article/itwc-launches-2021-canadian-it-skill-survey/443866)
 - [Cyber Security Today – Week In Review for Friday March 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-12-2021/443776)
-- [IT leaders share learnings on challenges of leading virtual teams](https://www.itworldcanada.com/article/it-leaders-share-learnings-on-challenges-of-leading-virtual-teams/443850)
-- [Quantum computing company D-Wave Systems secures $40M in government funding](https://www.itworldcanada.com/article/quantum-computing-company-d-wave-systems-secures-40m-in-government-funding/443863)
-- [New ITWC podcasts hitting topics that matter most for today’s CIOs](https://www.itworldcanada.com/article/new-itwc-podcasts-hitting-topics-that-matter-most-for-todays-cios/443744)
-- [Exchange Server vulnerabilities being exploited with ransomware, says Microsoft](https://www.itworldcanada.com/article/exchange-server-vulnerabilities-being-exploited-with-ransomware-says-microsoft/443802)
-- [Cyber Security Today, March 12, 2021 – More on Exchange Server vulnerabilities, criminal groups blocked from using secure messaging service and warning about sex toys](https://www.itworldcanada.com/article/cyber-security-today-more-on-exchange-server-vulnerabilities-criminal-groups-blocked-from-using-secure-messaging-service-and-warning-about-sex-toys/443793)
-- [Last day to nominate Canada’s channel innovators](https://www.itworldcanada.com/article/last-day-to-nominate-canadas-channel-innovators/443787)
-- [Hashtag Trending, March 12, 2021 – NFT fever; Uber proposes new labour model; Fire destroys French data centres, knocks out millions of websites](https://www.itworldcanada.com/article/hashtag-trending-march-12-2021-nft-fever-uber-proposes-new-labour-model-fire-destroys-french-data-centres-knocks-out-millions-of-websites/443795)
-- [Bell wants to be carbon neutral by 2025](https://www.itworldcanada.com/article/bell-wants-to-be-carbon-neutral-by-2025/443765)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

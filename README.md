@@ -279,7 +279,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>broken clouds</i>), humidity: 93%, pressure: 1006 (mbar), wind: /east/ 5 (m/s), cloudy: 75%</b>
+        <b>1°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1007 (mbar), wind: /east/ 6 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>07:12 am</b> and sets at <b>19:02 pm</b>.
     </p>
@@ -292,16 +292,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Forget IMAX, Let's Watch 'Tenet' On a Game Boy](https://www.reviewgeek.com/73864/forget-imax-lets-watch-tenet-on-a-game-boy/)
-* [How to Change Screen Modes in Photoshop](https://www.howtogeek.com/713815/how-to-change-screen-modes-in-photoshop/)
-* [Light up Your Next D&D Game with Pixel LED-Powered Dice](https://www.reviewgeek.com/73862/light-up-your-next-dd-game-with-pixel-led-powered-dice/)
-* [How to Hide the Vertical Tabs Button From Microsoft Edge](https://www.howtogeek.com/718245/how-to-hide-the-vertical-tabs-button-from-microsoft-edge/)
-* ["Google AR Synth" Lets You Jam on Iconic Drum Machines and Synths for Free](https://www.reviewgeek.com/73852/google-ar-synth-lets-you-jam-on-iconic-drum-machines-and-synths-for-free/)
-* [How to Propose a New Time for a Google Calendar Event](https://www.howtogeek.com/714605/how-to-propose-a-new-time-for-a-google-calendar-event/)
-* [How to Replace the Microsoft Edge Start Page with Something Better](https://www.howtogeek.com/714146/how-to-replace-the-microsoft-edge-start-page-with-something-better/)
-* [11 Great Beginner LEGO Sets for Adults](https://www.reviewgeek.com/73373/11-great-beginner-lego-sets-for-adults/)
-* [How to Stop Your iPhone From Tracking Your Steps](https://www.howtogeek.com/713258/how-to-stop-your-iphone-from-tracking-your-steps/)
-* [How to Watch the 2021 Grammy Awards without Cable](https://www.howtogeek.com/717756/how-to-watch-the-2021-grammy-awards-without-cable/)
+* [Of Course NVIDIA's Attempt to Limit Cryptocurrency Mining Immediately Failed](https://www.reviewgeek.com/74058/of-course-nvidias-attempt-to-limit-cryptocurrency-mining-immediately-failed/)
+* [Apple's Original HomePod is Dead, Long Live HomePod Mini](https://www.reviewgeek.com/74038/apples-original-homepod-is-dead-long-live-homepod-mini/)
+* [7 Tips to Adjust Your Sleep Schedule While Working from Home](https://www.lifesavvy.com/60298/seven-tips-to-adjust-your-sleep-schedule-while-working-from-home/)
+* [The Eyes Have It: Scientists Can Spot Deepfakes with a New AI Tool](https://www.reviewgeek.com/74051/the-eyes-have-it-scientists-can-spot-deepfakes-with-a-new-ai-tool/)
+* [OnePlus 9 Might Pick Up Absurdly Fast 50-Watt Wireless Charging](https://www.reviewgeek.com/74023/oneplus-9-might-pick-up-absurdly-fast-50-watt-wireless-charging/)
+* [How to Screen Record on Your Chromebook](https://www.howtogeek.com/695967/how-to-screen-record-on-your-chromebook/)
+* [AirPods Max Battery Drain Issue Fixed With New Firmware Update](https://www.reviewgeek.com/74017/airpods-max-battery-drain-issue-fixed-with-new-firmware-update/)
+* [How to Save Your Favorite Places in Google Maps](https://www.howtogeek.com/717637/how-to-save-your-favorite-places-in-google-maps/)
+* [How to Add a Status Message in Microsoft Teams](https://www.howtogeek.com/712818/how-to-add-a-status-message-in-microsoft-teams/)
+* [How to Stop AirPods from Automatically Connecting to a Mac](https://www.howtogeek.com/715923/how-to-stop-airpods-from-automatically-connecting-to-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

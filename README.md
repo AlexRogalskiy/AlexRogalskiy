@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/leave_no_stone_unturned_652.php" target="_blank"><i>leave no stone unturned</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/wet_behind_the_ears_129.php" target="_blank"><i>wet behind the ears</i></a>
 <span> = </span>
-<span>If you leave no stone unturned, you look everywhere in order to find something, or try everything in order to achieve something.</span>
+<span>If someone is wet behind the ears, they don't have much experience of life.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Let_the_dead_bury_the_dead_869.php" target="_blank"><i>Let the dead bury the dead</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/Fair_exchange_is_no_robbery_875.php" target="_blank"><i>Fair exchange is no robbery</i></a>
 <span> = </span>
-<span>This is generally taken to imply that we should spend our time and energy on living people, not on dead people. (But see Origin below.)</span>
+<span>Swapping one thing fairly in return for another is not the same as stealing.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

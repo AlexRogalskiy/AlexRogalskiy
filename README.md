@@ -246,8 +246,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645655249028333568" target="_blank"><i>A Birthday Card</i></a></summary>
-<p>by Ted Kooser</p><p>In her eighties now, and weak and ill<br/>with emphysema, my aunt sends me<br/>a birthday card&ndash;a tossing ocean<br/>with clipper ship&ndash;and wishes me well<br/>at forty-four. She’s included<br/>a note&ndash;hard-bitten in ballpoint<br/>with a pen that sometimes skips whole words<br/>but never turns back&ndash;to tell me<br/>her end of the news: how the steroids<br/>have softened her spine, how<br/>every X ray shows more shattered bone.<br/>Her hasty words skip in and out,<br/>their little grooves washed clean of ink,<br/>the message rising and falling<br/>like short-wave radio, sending<br/>this hurried S.OS., with love.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645745865074622464" target="_blank"><i>Bees</i></a></summary>
+<p>by Jane Hirshfield</p><p>In every instant, two gates.<br/>One opens to fragrant paradise, one to hell.<br/>Mostly we go through neither.<br/><br/>Mostly we nod to our neighbor,<br/>lean down to pick up the paper,<br/>go back into the house.<br/><br/>But the faint cries—ecstasy? horror?<br/>Or did you think it the sound<br/>of distant bees,<br/>making only the thick honey of this good life?
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +279,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>broken clouds</i>), humidity: 93%, pressure: 1006 (mbar), wind: /east/ 5 (m/s), cloudy: 75%</b>
+        <b>1°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1007 (mbar), wind: /east/ 6 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>07:12 am</b> and sets at <b>19:02 pm</b>.
     </p>
@@ -291,81 +292,83 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Forget IMAX, Let's Watch 'Tenet' On a Game Boy](https://www.reviewgeek.com/73864/forget-imax-lets-watch-tenet-on-a-game-boy/)
-* [How to Change Screen Modes in Photoshop](https://www.howtogeek.com/713815/how-to-change-screen-modes-in-photoshop/)
-* [Light up Your Next D&D Game with Pixel LED-Powered Dice](https://www.reviewgeek.com/73862/light-up-your-next-dd-game-with-pixel-led-powered-dice/)
-* [How to Hide the Vertical Tabs Button From Microsoft Edge](https://www.howtogeek.com/718245/how-to-hide-the-vertical-tabs-button-from-microsoft-edge/)
-* ["Google AR Synth" Lets You Jam on Iconic Drum Machines and Synths for Free](https://www.reviewgeek.com/73852/google-ar-synth-lets-you-jam-on-iconic-drum-machines-and-synths-for-free/)
-* [How to Propose a New Time for a Google Calendar Event](https://www.howtogeek.com/714605/how-to-propose-a-new-time-for-a-google-calendar-event/)
-* [How to Replace the Microsoft Edge Start Page with Something Better](https://www.howtogeek.com/714146/how-to-replace-the-microsoft-edge-start-page-with-something-better/)
-* [11 Great Beginner LEGO Sets for Adults](https://www.reviewgeek.com/73373/11-great-beginner-lego-sets-for-adults/)
-* [How to Stop Your iPhone From Tracking Your Steps](https://www.howtogeek.com/713258/how-to-stop-your-iphone-from-tracking-your-steps/)
-* [How to Watch the 2021 Grammy Awards without Cable](https://www.howtogeek.com/717756/how-to-watch-the-2021-grammy-awards-without-cable/)
+* [Of Course NVIDIA's Attempt to Limit Cryptocurrency Mining Immediately Failed](https://www.reviewgeek.com/74058/of-course-nvidias-attempt-to-limit-cryptocurrency-mining-immediately-failed/)
+* [Apple's Original HomePod is Dead, Long Live HomePod Mini](https://www.reviewgeek.com/74038/apples-original-homepod-is-dead-long-live-homepod-mini/)
+* [7 Tips to Adjust Your Sleep Schedule While Working from Home](https://www.lifesavvy.com/60298/seven-tips-to-adjust-your-sleep-schedule-while-working-from-home/)
+* [The Eyes Have It: Scientists Can Spot Deepfakes with a New AI Tool](https://www.reviewgeek.com/74051/the-eyes-have-it-scientists-can-spot-deepfakes-with-a-new-ai-tool/)
+* [OnePlus 9 Might Pick Up Absurdly Fast 50-Watt Wireless Charging](https://www.reviewgeek.com/74023/oneplus-9-might-pick-up-absurdly-fast-50-watt-wireless-charging/)
+* [How to Screen Record on Your Chromebook](https://www.howtogeek.com/695967/how-to-screen-record-on-your-chromebook/)
+* [AirPods Max Battery Drain Issue Fixed With New Firmware Update](https://www.reviewgeek.com/74017/airpods-max-battery-drain-issue-fixed-with-new-firmware-update/)
+* [How to Save Your Favorite Places in Google Maps](https://www.howtogeek.com/717637/how-to-save-your-favorite-places-in-google-maps/)
+* [How to Add a Status Message in Microsoft Teams](https://www.howtogeek.com/712818/how-to-add-a-status-message-in-microsoft-teams/)
+* [How to Stop AirPods from Automatically Connecting to a Mac](https://www.howtogeek.com/715923/how-to-stop-airpods-from-automatically-connecting-to-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Boxing great Marvelous Marvin Hagler dies at 66](https://apnews.com/article/sports-las-vegas-boxing-roberto-duran-6072cba88b82681488d28e5757eb3638)
-- [Distance Functions in 3D Space](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
-- [Separate but Unequal in College Greek Life](https://tcf.org/content/commentary/separate-but-unequal-in-college-greek-life)
-- [DoorDash, Uber Eats deliver Applebee's, Denny's virtual brands](https://www.usatoday.com/story/money/food/2021/02/17/food-delivery-doordash-uber-eats-applebees-chilis-online-brands/6786284002/)
-- [PSA: Overseas? Don't try recover a dead relatives Gmail account](https://twitter.com/georgebarnett/status/1370913395617136643)
-- [GRVK 0.3.0 released, a WIP Mantle API implementation over Vulkan](https://github.com/libcg/grvk/releases/tag/0.3.0)
-- [Installing an OBD2 adaptor on Tesla Model 3](https://www.youtube.com/watch?v=i08OltkqzYU&t=0s)
-- [After the Rapture Pet Care](https://aftertherapturepetcare.com/)
-- [DB Tradeoffs](https://github.com/livgust/covid-vaccine-scrapers/wiki/DB-Tradeoffs)
-- [Google Must Face Suit over Snooping on ‘Incognito’ Browsing](https://www.bloomberg.com/news/articles/2021-03-13/google-must-face-suit-over-snooping-on-incognito-browsing)
+- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
+- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+- [Bing search update for immersive UX](https://searchengineland.com/microsoft-bing-updates-search-results-interface-to-make-it-more-visually-immersive-346665)
+- [Beware of Tight Feedback Loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
+- [The AI Control Problem](https://geohot.github.io/blog/jekyll/update/2021/02/28/the-ai-control-problem.html)
+- [Windi CSS – Next Generation Tailwind CSS Compiler](https://windicss.org/)
+- [Heterogeneity Matters When Modeling Covid-19](https://physics.aps.org/articles/v14/s22)
+- [Anthony Fu: Congrats Tailwind, and Thanks for Not Mentioning Windi CSS at All](https://twitter.com/antfu7/status/1371533878800748545)
+- [Facebook to pay News Corp for content in Australia](https://www.bbc.co.uk/news/world-australia-56410335)
+- [Rust Koans](https://github.com/crazymykl/rust-koans)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: AstraZeneca reports vaccine shortfall to EU; Sydney hotel quarantine worker tests positive](https://www.theguardian.com/world/live/2021/mar/14/coronavirus-live-news-astrazeneca-reports-vaccine-shortfall-to-eu-sydney-hotel-quarantine-worker-tests-positive)
-- [Marvin Hagler, middleweight boxing's towering champion, dies aged 66](https://www.theguardian.com/sport/2021/mar/13/marvin-hagler-dead-middleweight-champion)
-- [Sarah Everard: Met commissioner under fire over policing of vigil](https://www.theguardian.com/uk-news/2021/mar/13/sarah-everard-pressure-for-new-laws-to-curb-violence-against-women)
-- [Greggs was on a roll before Covid, but has it passed peak pasty?](https://www.theguardian.com/business/2021/mar/14/greggs-was-on-a-roll-before-covid-but-has-it-passed-peak-pasty)
-- [Lee Westwood leads way at Players Championship heading into final round](https://www.theguardian.com/sport/2021/mar/13/lee-westwood-leads-players-championship-third-round-report)
-- [In the bag: 15 of the best crossbody bags - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/in-the-bag-15-of-the-best-crossbody-bags-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Jennifer Lopez and Alex Rodriguez say reports of break-up are 'inaccurate'](https://www.theguardian.com/culture/2021/mar/13/jennifer-lopez-and-alex-rodriguez-say-reports-of-break-up-are-inaccurate)
-- [No social distancing at FA Cup final as government test reopening plan](https://www.theguardian.com/sport/2021/mar/13/no-social-distancing-at-fa-cup-final-as-government-test-reopening-plan)
-- [Davinson Sánchez at heart of Spurs revival after tackling hard truths](https://www.theguardian.com/football/2021/mar/13/davinson-sanchez-at-heart-of-spurs-revival-after-tackling-hard-truths)
+- [Lionel Messi equals Xavi's Barcelona appearance record in win over Huesca](https://www.theguardian.com/football/2021/mar/16/lionel-messi-equals-xavis-barcelona-appearance-record-in-win-over-huesca)
+- [China tells Alibaba to divest media assets to curb influence – report](https://www.theguardian.com/world/2021/mar/16/china-tells-alibaba-to-divest-media-assets-to-curb-influence-report)
+- [Biden urges UK and EU to preserve Northern Irish peace amid Brexit row](https://www.theguardian.com/politics/2021/mar/15/eu-launch-legal-action-uk-plan-extend-brexit-grace-period)
+- [The Picture of Dorian Gray review – the ugly face of social media](https://www.theguardian.com/stage/2021/mar/16/the-picture-of-dorian-gray-review-stephen-fry-joanna-lumley-russell-tovey)
+- [Services at risk unless NHS England gets £8bn extra funding within days](https://www.theguardian.com/society/2021/mar/16/services-at-risk-nhs-england-funding)
+- [Major review aims to transform lives of children in England](https://www.theguardian.com/society/2021/mar/16/major-review-aims-to-transform-lives-of-children-in-england)
+- [Yorkshire Building Society first to bring back 95% mortgages](https://www.theguardian.com/money/2021/mar/16/yorkshire-building-society-first-to-bring-back-95-mortgages)
+- ['Woke' culture is threat to protest songs, says Don Letts](https://www.theguardian.com/music/2021/mar/16/woke-culture-is-threat-to-protest-songs-says-don-letts)
+- [Rupert Murdoch's News Corp strikes deal as Facebook agrees to pay for Australian content](https://www.theguardian.com/media/2021/mar/16/rupert-murdochs-news-corp-strikes-deal-as-facebook-agrees-to-pay-for-australian-content)
+- [Arrests made at London protest over policing powers and vigil](https://www.theguardian.com/uk-news/2021/mar/15/arrests-made-at-protest-against-policing-bill-and-violence-against-women)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
-- [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
-- [Tesla says “Full Self-Driving” software doesn't make cars autonomous](https://www.axios.com/tesla-full-self-driving-cars-75cd27c5-ebfb-4c96-8e93-d6deed332895.html)
-- [Open Source clones of popular sites (e.g. Airbnb, clubhouse)](https://github.com/GorvGoyl/Clone-Wars)
-- [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
-- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
-- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
-- [Is autism the legacy of humans evolving the ability to innovate?](https://www.cbc.ca/radio/quirks/mar-13-10-years-since-japan-s-tsunami-ants-do-social-distancing-otters-save-kelp-forests-and-more-1.5946073/is-autism-the-legacy-of-humans-evolving-the-ability-to-innovate-1.5946074)
-- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
+- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
+- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
+- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
+- [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
+- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
+- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
+- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
+- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
+- [HN was down](https://twitter.com/HNStatus/status/1371525940656803848)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft follows Google and Chrome, shifts Edge to four-week release pace](https://www.computerworld.com/article/3611512/microsoft-follows-google-and-chrome-shifts-edge-to-four-week-release-pace.html#tk.rss_all)
+- [Apple lives by its own privacy rules](https://www.computerworld.com/article/3611848/apple-lives-by-its-own-privacy-rules.html#tk.rss_all)
+- [Stuck on Windows 10 1909? Some workarounds on moving forward](https://www.computerworld.com/article/3611672/stuck-on-windows-10-1909-some-workarounds-on-moving-forward.html#tk.rss_all)
+- [BrandPost: Faced With a Distributed Workforce, IT Needs Help With Device Management](https://www.computerworld.com/article/3611423/faced-with-a-distributed-workforce-it-needs-help-with-device-management.html#tk.rss_all)
+- [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [Windows 10’s Remote Desktop options explained](https://www.computerworld.com/article/3611588/windows-10-remote-desktop-options-explained.html#tk.rss_all)
 - [BrandPost: Assessing the Value of Partnering for IT Services](https://www.computerworld.com/article/3611356/assessing-the-value-of-partnering-for-it-services.html#tk.rss_all)
 - [Patch Exchange now, and test your Windows updates](https://www.computerworld.com/article/3611417/patch-exchange-now-and-test-your-windows-updates.html#tk.rss_all)
 - [Q&A: Adobe explains the transition to Apple Silicon](https://www.computerworld.com/article/3611383/qa-adobe-explains-the-transition-to-apple-silicon.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [If you want to succeed: Go slow to go fast](https://www.computerworld.com/article/3611542/if-you-want-to-succeed-go-slow-to-go-fast.html#tk.rss_all)
-- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
-- [Mars Perseverance rover landing: How IT supports NASA and JPL’s Mars 2020 mission](https://www.computerworld.com/article/3611350/mars-perseverance-rover-landing-how-it-supports-nasa-and-jpl-s-mars-2020-mission.html#tk.rss_all)
-- [Podcast: iMac Pro discontinued: What does it mean for the future of 'Pro' Macs?](https://www.computerworld.com/article/3611351/podcast-imac-pro-discontinued-what-does-it-mean-for-the-future-of-pro-macs.html#tk.rss_all)
-- [This year's biggest Android upgrade disappointment](https://www.computerworld.com/article/3611134/android-upgrade-disappointment.html#tk.rss_all)
-- [LogMeIn revamps GoToConnect to support shift to flexible work](https://www.computerworld.com/article/3611391/logmein-revamps-gotoconnect-to-support-shift-to-flexible-work.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Define Your Edge Computing Architecture](https://www.informationweek.com/cloud/how-to-define-your-edge-computing-architecture/a/d-id/1340396?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AI Must Play a Role in Data Cloud Management](https://www.informationweek.com/cloud/ai-must-play-a-role-in-data-cloud-management/a/d-id/1340379?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How a Sponsor Can Help Elevate Your Career in IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-a-sponsor-can-help-elevate-your-career-in-it-/a/d-id/1340373?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIO Agenda for Right Now: Priorities a Year Into the Pandemic](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-agenda-for-right-now-priorities-a-year-into-the-pandemic/d/d-id/1340370?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -374,68 +377,66 @@
 - [How CIOs Can Recruit More Women into IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-cios-can-recruit-more-women-into-it/d/d-id/1340340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Enabling Your Workforce for the Digital Workplace](https://www.informationweek.com/strategic-cio/digital-business/enabling-your-workforce-for-the-digital-workplace/a/d-id/1340277?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IT Automation: Still Room for Improvement in Some Spots](https://www.informationweek.com/big-data/ai-machine-learning/it-automation-still-room-for-improvement-in-some-spots/a/d-id/1340334?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How CarParts.com Leveraged AIOps Strategy While Scaling Up](https://www.informationweek.com/devops/how-carpartscom-leveraged-aiops-strategy-while-scaling-up/a/d-id/1340324?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
+- [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
+- [Microsoft’s Windows API unification project moves forward](https://www.infoworld.com/article/3611400/microsofts-windows-api-unification-project-moves-forward.html#tk.rss_all)
+- [How to use pattern matching in C#](https://www.infoworld.com/article/3611377/how-to-use-pattern-matching-in-csharp.html#tk.rss_all)
+- [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html#tk.rss_all)
 - [Google’s OSS-Fuzz extends fuzzing to Java apps](https://www.infoworld.com/article/3611510/googles-oss-fuzz-extends-fuzzing-to-java-apps.html#tk.rss_all)
 - [The cloud is green. Let's get on with migration](https://www.infoworld.com/article/3611374/the-cloud-is-green-lets-get-on-with-migration.html#tk.rss_all)
 - [Project Lilliput would shrink Java object header](https://www.infoworld.com/article/3611448/project-lilliput-would-shrink-java-object-header.html#tk.rss_all)
 - [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_all)
-- [Battling bias and other toxicities in natural language generation](https://www.infoworld.com/article/3610403/battling-bias-and-other-toxicities-in-natural-language-generation.html#tk.rss_all)
-- [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_all)
-- [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_all)
-- [Rust vs. Go: How to choose](https://www.infoworld.com/article/3436960/rust-vs-go-how-to-choose.html#tk.rss_all)
-- [Microsoft announces end of .NET Core 2.1 support](https://www.infoworld.com/article/3611093/microsoft-announces-end-of-net-core-21-support.html#tk.rss_all)
-- [What Microsoft Mesh means for developers](https://www.infoworld.com/article/3610779/what-microsoft-mesh-means-for-developers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NCSC issues emergency alert on Microsoft Exchange patch](https://www.computerweekly.com/news/252497741/NCSC-issues-emergency-alert-on-Microsoft-Exchange-patch)
-- [UK Space Agency funds projects to tackle space rubbish and micropropulsion](https://www.computerweekly.com/news/252497737/UK-Space-Agency-funds-projects-to-tackle-space-rubbish-and-micropropulsion)
-- [IR35 private sector reforms: IT contractors ‘growing reluctant’ to work for ‘blanket banning’ firms](https://www.computerweekly.com/news/252497731/IR35-private-sector-reforms-IT-contractors-growing-reluctant-to-work-for-blanket-banning-firms)
-- [Ski firm dumps ‘motley’ storage for DataCore software-defined](https://www.computerweekly.com/feature/Ski-firm-dumps-motley-storage-for-DataCore-software-defined)
-- [Does email security need a human solution or a tech solution?](https://www.computerweekly.com/feature/Does-email-security-need-a-human-solution-or-a-tech-solution)
-- [Web founder calls for ubiquitous, safe internet access for young people](https://www.computerweekly.com/news/252497715/Web-founder-calls-for-ubiquitous-safe-internet-access-for-young-people)
-- [DearCry ransomware targets vulnerable Exchange servers](https://www.computerweekly.com/news/252497725/DearCry-ransomware-targets-vulnerable-Exchange-servers)
-- [Amazon Go – is now the right time?](https://www.computerweekly.com/feature/Amazon-Go-is-now-the-right-time)
-- [Brewer Molson Coors targeted in cyber attack](https://www.computerweekly.com/news/252497712/Molson-Coors-targeted-in-cyber-attack)
-- [Interview: Uber driver Yaseen Aslam on his Supreme Court battle and what’s next for gig workers](https://www.computerweekly.com/feature/Interview-Uber-driver-Yaseen-Aslam-on-his-Supreme-Court-battle-and-whats-next-for-gig-workers)
+- [UK plans ‘full spectrum’ approach to national cyber security](https://www.computerweekly.com/news/252497812/UK-plans-full-spectrum-approach-to-national-cyber-security)
+- [Microsoft Exchange ProxyLogon attacks spike 10 times in four days](https://www.computerweekly.com/news/252497814/Microsoft-Exchange-ProxyLogon-attacks-spike-10-times-in-four-days)
+- [Judges refuse EncroChat defendants’ appeal to Supreme Court](https://www.computerweekly.com/news/252497819/Judges-refuse-EncroChat-defendants-appeal-to-Supreme-Court)
+- [Parliamentary PACA Committee slams Gove over Covid-19 data failures](https://www.computerweekly.com/news/252497813/Parliamentary-PACA-Committee-slams-Gove-over-Covid-19-data-failures)
+- [Research: Continuous upgrades to datacentre virtualisation setups key to curbing carbon emissions](https://www.computerweekly.com/news/252497796/Research-Continuous-upgrades-to-datacentre-virtualisation-setups-key-to-curbing-carbon-emissions)
+- [Mace Group uses RealWear to support Covid-safe site inspections](https://www.computerweekly.com/news/252497802/Mace-Group-uses-RealWare-to-support-Covid-safe-site-inspections)
+- [EncroChat ruling has ‘far-reaching effects’ for legal role of interception in UK investigations](https://www.computerweekly.com/opinion/EncroChat-ruling-has-far-reaching-effects-for-legal-role-of-interception-in-UK-investigations)
+- [Security Think Tank: CNI operators are in an unenviable position](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-are-in-an-unenviable-position)
+- [Containers for a post-pandemic IT architecture](https://www.computerweekly.com/feature/Containers-for-a-post-pandemic-IT-architecture)
+- [Arrest warrants issued for Canadians behind Sky ECC cryptophone network used by organised crime](https://www.computerweekly.com/news/252497791/Arrest-warrants-for-Candians-behind-Sky-ECC-cryptophone-networks-used-by-organised-crime)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What should i expect](https://www.reddit.com/r/InformationTechnology/comments/m5pshe/what_should_i_expect/)
+- [Technical Assessment](https://www.reddit.com/r/InformationTechnology/comments/m5p1w4/technical_assessment/)
+- [Identify object/tag in video](https://www.reddit.com/r/InformationTechnology/comments/m5l8c6/identify_objecttag_in_video/)
+- [Info on IT associates degree online program help.](https://www.reddit.com/r/InformationTechnology/comments/m5kbgg/info_on_it_associates_degree_online_program_help/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/m5gv0x/it_question/)
+- [Data transmission from one device to the other](https://www.reddit.com/r/InformationTechnology/comments/m5eb27/data_transmission_from_one_device_to_the_other/)
+- [The future of big data is the Hashgraph.](https://www.reddit.com/r/InformationTechnology/comments/m5b9g4/the_future_of_big_data_is_the_hashgraph/)
+- [Should I Apply To Best Buy as a Sales Consultant?](https://www.reddit.com/r/InformationTechnology/comments/m4zv6c/should_i_apply_to_best_buy_as_a_sales_consultant/)
+- [Advice?](https://www.reddit.com/r/InformationTechnology/comments/m4ta72/advice/)
 - [Can not get an internship and URGENTLY need some advice and inspiration](https://www.reddit.com/r/InformationTechnology/comments/m4lhvn/can_not_get_an_internship_and_urgently_need_some/)
-- [Question about working in IT abroad](https://www.reddit.com/r/InformationTechnology/comments/m48dmh/question_about_working_in_it_abroad/)
-- [Which IT certification is well known and accepted by all most all countries in the world?](https://www.reddit.com/r/InformationTechnology/comments/m4896t/which_it_certification_is_well_known_and_accepted/)
-- [Shipping Accessory Bundle](https://www.reddit.com/r/InformationTechnology/comments/m3pdo7/shipping_accessory_bundle/)
-- [Changing VOIP management company?](https://www.reddit.com/r/InformationTechnology/comments/m3l7hb/changing_voip_management_company/)
-- [Question: Is it possible to backup a VM and deploy the backup to a machine?](https://www.reddit.com/r/InformationTechnology/comments/m3knpf/question_is_it_possible_to_backup_a_vm_and_deploy/)
-- [Best RHCSA 8 Exam prep courses?](https://www.reddit.com/r/InformationTechnology/comments/m3kksk/best_rhcsa_8_exam_prep_courses/)
-- [Graveyard shift](https://www.reddit.com/r/InformationTechnology/comments/m3jq7r/graveyard_shift/)
-- [Which city has the best market for Information Technology jobs? Atlanta or Charlotte?](https://www.reddit.com/r/InformationTechnology/comments/m38zni/which_city_has_the_best_market_for_information/)
-- [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers seeks to buy Shaw for $26 billion](https://www.itworldcanada.com/article/rogers-seeks-to-buy-shaw-for-26-billion/443932)
+- [Microsoft investigates possible leak that enabled hackers to exploit Exchange](https://www.itworldcanada.com/article/did-a-microsoft-partner-play-a-role-in-enabling-hackers-to-exploit-exchange/443916)
+- [Managing remote employees: 8 best practices for leaders now – The Enterprisers Project](https://www.itworldcanada.com/post/managing-remote-employees-8-best-practices-for-leaders-now-the-enterprisers-project)
+- [Cyber Security Today, March 15, 2021 – Canadian charged as encrypted network allegedly used by criminals disrupted, equipment from Huawei called risky to US networks; Chrome updates; Netgear and Linux](https://www.itworldcanada.com/article/cyber-security-today-canadian-charged-as-encrypted-network-allegedly-used-by-criminals-disrupted-equipment-from-huawei-called-risky-to-us-networks-chrome-updates-netgear-and-linux/443899)
+- [3 factors that are driving us towards a data-driven decision-making world](https://www.itworldcanada.com/blog/3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world/443898)
+- [Hashtag Trending, March 15, 2021 – Amazon says no to Pickering and appeals orders to close a Brampton warehouse; Google accused of tracking users in ‘Incognito’ mode](https://www.itworldcanada.com/article/hashtag-trending-march-15-2021-amazon-says-no-to-pickering-and-appeals-orders-to-close-a-brampton-warehouse-google-accused-of-tracking-users-in-incognito-mode/443896)
+- [FedDev Ontario gives ventureLAB $4.73 million in funding](https://www.itworldcanada.com/article/feddev-ontario-gives-venturelab-4-73-million-in-funding/443880)
+- [CRA locks out taxpayer accounts after discovering unauthorized use of credentials](https://www.itworldcanada.com/article/cra-locks-out-taxpayer-accounts-after-discovering-unauthorized-use-of-credentials/443875)
 - [ITWC launches 2021 Canadian IT Skill Survey](https://www.itworldcanada.com/article/itwc-launches-2021-canadian-it-skill-survey/443866)
 - [Cyber Security Today – Week In Review for Friday March 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-12-2021/443776)
-- [IT leaders share learnings on challenges of leading virtual teams](https://www.itworldcanada.com/article/it-leaders-share-learnings-on-challenges-of-leading-virtual-teams/443850)
-- [Quantum computing company D-Wave Systems secures $40M in government funding](https://www.itworldcanada.com/article/quantum-computing-company-d-wave-systems-secures-40m-in-government-funding/443863)
-- [New ITWC podcasts hitting topics that matter most for today’s CIOs](https://www.itworldcanada.com/article/new-itwc-podcasts-hitting-topics-that-matter-most-for-todays-cios/443744)
-- [Exchange Server vulnerabilities being exploited with ransomware, says Microsoft](https://www.itworldcanada.com/article/exchange-server-vulnerabilities-being-exploited-with-ransomware-says-microsoft/443802)
-- [Cyber Security Today, March 12, 2021 – More on Exchange Server vulnerabilities, criminal groups blocked from using secure messaging service and warning about sex toys](https://www.itworldcanada.com/article/cyber-security-today-more-on-exchange-server-vulnerabilities-criminal-groups-blocked-from-using-secure-messaging-service-and-warning-about-sex-toys/443793)
-- [Last day to nominate Canada’s channel innovators](https://www.itworldcanada.com/article/last-day-to-nominate-canadas-channel-innovators/443787)
-- [Hashtag Trending, March 12, 2021 – NFT fever; Uber proposes new labour model; Fire destroys French data centres, knocks out millions of websites](https://www.itworldcanada.com/article/hashtag-trending-march-12-2021-nft-fever-uber-proposes-new-labour-model-fire-destroys-french-data-centres-knocks-out-millions-of-websites/443795)
-- [Bell wants to be carbon neutral by 2025](https://www.itworldcanada.com/article/bell-wants-to-be-carbon-neutral-by-2025/443765)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

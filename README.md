@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/J/jiffy_jiff_1187.php" target="_blank"><i>jiffy | jiff</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/M/Mountie_1595.php" target="_blank"><i>Mountie</i></a>
 <span> = </span>
-<span>a moment, a very short time</span>
+<span>a member of the Royal Canadian Mounted Police</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

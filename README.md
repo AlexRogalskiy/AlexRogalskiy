@@ -322,16 +322,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: AstraZeneca reports vaccine shortfall to EU; Sydney hotel quarantine worker tests positive](https://www.theguardian.com/world/live/2021/mar/14/coronavirus-live-news-astrazeneca-reports-vaccine-shortfall-to-eu-sydney-hotel-quarantine-worker-tests-positive)
-- [Marvin Hagler, middleweight boxing's towering champion, dies aged 66](https://www.theguardian.com/sport/2021/mar/13/marvin-hagler-dead-middleweight-champion)
-- [Sarah Everard: Met commissioner under fire over policing of vigil](https://www.theguardian.com/uk-news/2021/mar/13/sarah-everard-pressure-for-new-laws-to-curb-violence-against-women)
-- [Greggs was on a roll before Covid, but has it passed peak pasty?](https://www.theguardian.com/business/2021/mar/14/greggs-was-on-a-roll-before-covid-but-has-it-passed-peak-pasty)
-- [Lee Westwood leads way at Players Championship heading into final round](https://www.theguardian.com/sport/2021/mar/13/lee-westwood-leads-players-championship-third-round-report)
-- [In the bag: 15 of the best crossbody bags - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/in-the-bag-15-of-the-best-crossbody-bags-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Jennifer Lopez and Alex Rodriguez say reports of break-up are 'inaccurate'](https://www.theguardian.com/culture/2021/mar/13/jennifer-lopez-and-alex-rodriguez-say-reports-of-break-up-are-inaccurate)
-- [No social distancing at FA Cup final as government test reopening plan](https://www.theguardian.com/sport/2021/mar/13/no-social-distancing-at-fa-cup-final-as-government-test-reopening-plan)
-- [Davinson Sánchez at heart of Spurs revival after tackling hard truths](https://www.theguardian.com/football/2021/mar/13/davinson-sanchez-at-heart-of-spurs-revival-after-tackling-hard-truths)
+- [Lionel Messi equals Xavi's Barcelona appearance record in win over Huesca](https://www.theguardian.com/football/2021/mar/16/lionel-messi-equals-xavis-barcelona-appearance-record-in-win-over-huesca)
+- [China tells Alibaba to divest media assets to curb influence – report](https://www.theguardian.com/world/2021/mar/16/china-tells-alibaba-to-divest-media-assets-to-curb-influence-report)
+- [Biden urges UK and EU to preserve Northern Irish peace amid Brexit row](https://www.theguardian.com/politics/2021/mar/15/eu-launch-legal-action-uk-plan-extend-brexit-grace-period)
+- [The Picture of Dorian Gray review – the ugly face of social media](https://www.theguardian.com/stage/2021/mar/16/the-picture-of-dorian-gray-review-stephen-fry-joanna-lumley-russell-tovey)
+- [Services at risk unless NHS England gets £8bn extra funding within days](https://www.theguardian.com/society/2021/mar/16/services-at-risk-nhs-england-funding)
+- [Major review aims to transform lives of children in England](https://www.theguardian.com/society/2021/mar/16/major-review-aims-to-transform-lives-of-children-in-england)
+- [Yorkshire Building Society first to bring back 95% mortgages](https://www.theguardian.com/money/2021/mar/16/yorkshire-building-society-first-to-bring-back-95-mortgages)
+- ['Woke' culture is threat to protest songs, says Don Letts](https://www.theguardian.com/music/2021/mar/16/woke-culture-is-threat-to-protest-songs-says-don-letts)
+- [Rupert Murdoch's News Corp strikes deal as Facebook agrees to pay for Australian content](https://www.theguardian.com/media/2021/mar/16/rupert-murdochs-news-corp-strikes-deal-as-facebook-agrees-to-pay-for-australian-content)
+- [Arrests made at London protest over policing powers and vigil](https://www.theguardian.com/uk-news/2021/mar/15/arrests-made-at-protest-against-policing-bill-and-violence-against-women)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

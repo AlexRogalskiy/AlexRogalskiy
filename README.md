@@ -412,16 +412,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What should i expect](https://www.reddit.com/r/InformationTechnology/comments/m5pshe/what_should_i_expect/)
+- [Technical Assessment](https://www.reddit.com/r/InformationTechnology/comments/m5p1w4/technical_assessment/)
+- [Identify object/tag in video](https://www.reddit.com/r/InformationTechnology/comments/m5l8c6/identify_objecttag_in_video/)
+- [Info on IT associates degree online program help.](https://www.reddit.com/r/InformationTechnology/comments/m5kbgg/info_on_it_associates_degree_online_program_help/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/m5gv0x/it_question/)
+- [Data transmission from one device to the other](https://www.reddit.com/r/InformationTechnology/comments/m5eb27/data_transmission_from_one_device_to_the_other/)
+- [The future of big data is the Hashgraph.](https://www.reddit.com/r/InformationTechnology/comments/m5b9g4/the_future_of_big_data_is_the_hashgraph/)
+- [Should I Apply To Best Buy as a Sales Consultant?](https://www.reddit.com/r/InformationTechnology/comments/m4zv6c/should_i_apply_to_best_buy_as_a_sales_consultant/)
+- [Advice?](https://www.reddit.com/r/InformationTechnology/comments/m4ta72/advice/)
 - [Can not get an internship and URGENTLY need some advice and inspiration](https://www.reddit.com/r/InformationTechnology/comments/m4lhvn/can_not_get_an_internship_and_urgently_need_some/)
-- [Question about working in IT abroad](https://www.reddit.com/r/InformationTechnology/comments/m48dmh/question_about_working_in_it_abroad/)
-- [Which IT certification is well known and accepted by all most all countries in the world?](https://www.reddit.com/r/InformationTechnology/comments/m4896t/which_it_certification_is_well_known_and_accepted/)
-- [Shipping Accessory Bundle](https://www.reddit.com/r/InformationTechnology/comments/m3pdo7/shipping_accessory_bundle/)
-- [Changing VOIP management company?](https://www.reddit.com/r/InformationTechnology/comments/m3l7hb/changing_voip_management_company/)
-- [Question: Is it possible to backup a VM and deploy the backup to a machine?](https://www.reddit.com/r/InformationTechnology/comments/m3knpf/question_is_it_possible_to_backup_a_vm_and_deploy/)
-- [Best RHCSA 8 Exam prep courses?](https://www.reddit.com/r/InformationTechnology/comments/m3kksk/best_rhcsa_8_exam_prep_courses/)
-- [Graveyard shift](https://www.reddit.com/r/InformationTechnology/comments/m3jq7r/graveyard_shift/)
-- [Which city has the best market for Information Technology jobs? Atlanta or Charlotte?](https://www.reddit.com/r/InformationTechnology/comments/m38zni/which_city_has_the_best_market_for_information/)
-- [Managing projects and data best practices advice requested](https://www.reddit.com/r/InformationTechnology/comments/m2zdlo/managing_projects_and_data_best_practices_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

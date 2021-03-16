@@ -397,16 +397,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NCSC issues emergency alert on Microsoft Exchange patch](https://www.computerweekly.com/news/252497741/NCSC-issues-emergency-alert-on-Microsoft-Exchange-patch)
-- [UK Space Agency funds projects to tackle space rubbish and micropropulsion](https://www.computerweekly.com/news/252497737/UK-Space-Agency-funds-projects-to-tackle-space-rubbish-and-micropropulsion)
-- [IR35 private sector reforms: IT contractors ‘growing reluctant’ to work for ‘blanket banning’ firms](https://www.computerweekly.com/news/252497731/IR35-private-sector-reforms-IT-contractors-growing-reluctant-to-work-for-blanket-banning-firms)
-- [Ski firm dumps ‘motley’ storage for DataCore software-defined](https://www.computerweekly.com/feature/Ski-firm-dumps-motley-storage-for-DataCore-software-defined)
-- [Does email security need a human solution or a tech solution?](https://www.computerweekly.com/feature/Does-email-security-need-a-human-solution-or-a-tech-solution)
-- [Web founder calls for ubiquitous, safe internet access for young people](https://www.computerweekly.com/news/252497715/Web-founder-calls-for-ubiquitous-safe-internet-access-for-young-people)
-- [DearCry ransomware targets vulnerable Exchange servers](https://www.computerweekly.com/news/252497725/DearCry-ransomware-targets-vulnerable-Exchange-servers)
-- [Amazon Go – is now the right time?](https://www.computerweekly.com/feature/Amazon-Go-is-now-the-right-time)
-- [Brewer Molson Coors targeted in cyber attack](https://www.computerweekly.com/news/252497712/Molson-Coors-targeted-in-cyber-attack)
-- [Interview: Uber driver Yaseen Aslam on his Supreme Court battle and what’s next for gig workers](https://www.computerweekly.com/feature/Interview-Uber-driver-Yaseen-Aslam-on-his-Supreme-Court-battle-and-whats-next-for-gig-workers)
+- [UK plans ‘full spectrum’ approach to national cyber security](https://www.computerweekly.com/news/252497812/UK-plans-full-spectrum-approach-to-national-cyber-security)
+- [Microsoft Exchange ProxyLogon attacks spike 10 times in four days](https://www.computerweekly.com/news/252497814/Microsoft-Exchange-ProxyLogon-attacks-spike-10-times-in-four-days)
+- [Judges refuse EncroChat defendants’ appeal to Supreme Court](https://www.computerweekly.com/news/252497819/Judges-refuse-EncroChat-defendants-appeal-to-Supreme-Court)
+- [Parliamentary PACA Committee slams Gove over Covid-19 data failures](https://www.computerweekly.com/news/252497813/Parliamentary-PACA-Committee-slams-Gove-over-Covid-19-data-failures)
+- [Research: Continuous upgrades to datacentre virtualisation setups key to curbing carbon emissions](https://www.computerweekly.com/news/252497796/Research-Continuous-upgrades-to-datacentre-virtualisation-setups-key-to-curbing-carbon-emissions)
+- [Mace Group uses RealWear to support Covid-safe site inspections](https://www.computerweekly.com/news/252497802/Mace-Group-uses-RealWare-to-support-Covid-safe-site-inspections)
+- [EncroChat ruling has ‘far-reaching effects’ for legal role of interception in UK investigations](https://www.computerweekly.com/opinion/EncroChat-ruling-has-far-reaching-effects-for-legal-role-of-interception-in-UK-investigations)
+- [Security Think Tank: CNI operators are in an unenviable position](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-are-in-an-unenviable-position)
+- [Containers for a post-pandemic IT architecture](https://www.computerweekly.com/feature/Containers-for-a-post-pandemic-IT-architecture)
+- [Arrest warrants issued for Canadians behind Sky ECC cryptophone network used by organised crime](https://www.computerweekly.com/news/252497791/Arrest-warrants-for-Candians-behind-Sky-ECC-cryptophone-networks-used-by-organised-crime)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

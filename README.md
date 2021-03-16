@@ -337,16 +337,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
-- [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
-- [Tesla says “Full Self-Driving” software doesn't make cars autonomous](https://www.axios.com/tesla-full-self-driving-cars-75cd27c5-ebfb-4c96-8e93-d6deed332895.html)
-- [Open Source clones of popular sites (e.g. Airbnb, clubhouse)](https://github.com/GorvGoyl/Clone-Wars)
-- [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
-- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
-- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
-- [Is autism the legacy of humans evolving the ability to innovate?](https://www.cbc.ca/radio/quirks/mar-13-10-years-since-japan-s-tsunami-ants-do-social-distancing-otters-save-kelp-forests-and-more-1.5946073/is-autism-the-legacy-of-humans-evolving-the-ability-to-innovate-1.5946074)
-- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
+- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
+- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
+- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
+- [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
+- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
+- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
+- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
+- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
+- [HN was down](https://twitter.com/HNStatus/status/1371525940656803848)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

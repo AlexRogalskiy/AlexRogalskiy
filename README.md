@@ -246,8 +246,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645655249028333568" target="_blank"><i>A Birthday Card</i></a></summary>
-<p>by Ted Kooser</p><p>In her eighties now, and weak and ill<br/>with emphysema, my aunt sends me<br/>a birthday card&ndash;a tossing ocean<br/>with clipper ship&ndash;and wishes me well<br/>at forty-four. She’s included<br/>a note&ndash;hard-bitten in ballpoint<br/>with a pen that sometimes skips whole words<br/>but never turns back&ndash;to tell me<br/>her end of the news: how the steroids<br/>have softened her spine, how<br/>every X ray shows more shattered bone.<br/>Her hasty words skip in and out,<br/>their little grooves washed clean of ink,<br/>the message rising and falling<br/>like short-wave radio, sending<br/>this hurried S.OS., with love.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645745865074622464" target="_blank"><i>Bees</i></a></summary>
+<p>by Jane Hirshfield</p><p>In every instant, two gates.<br/>One opens to fragrant paradise, one to hell.<br/>Mostly we go through neither.<br/><br/>Mostly we nod to our neighbor,<br/>lean down to pick up the paper,<br/>go back into the house.<br/><br/>But the faint cries—ecstasy? horror?<br/>Or did you think it the sound<br/>of distant bees,<br/>making only the thick honey of this good life?
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

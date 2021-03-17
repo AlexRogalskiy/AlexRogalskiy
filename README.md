@@ -292,16 +292,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Of Course NVIDIA's Attempt to Limit Cryptocurrency Mining Immediately Failed](https://www.reviewgeek.com/74058/of-course-nvidias-attempt-to-limit-cryptocurrency-mining-immediately-failed/)
-* [Apple's Original HomePod is Dead, Long Live HomePod Mini](https://www.reviewgeek.com/74038/apples-original-homepod-is-dead-long-live-homepod-mini/)
-* [7 Tips to Adjust Your Sleep Schedule While Working from Home](https://www.lifesavvy.com/60298/seven-tips-to-adjust-your-sleep-schedule-while-working-from-home/)
-* [The Eyes Have It: Scientists Can Spot Deepfakes with a New AI Tool](https://www.reviewgeek.com/74051/the-eyes-have-it-scientists-can-spot-deepfakes-with-a-new-ai-tool/)
-* [OnePlus 9 Might Pick Up Absurdly Fast 50-Watt Wireless Charging](https://www.reviewgeek.com/74023/oneplus-9-might-pick-up-absurdly-fast-50-watt-wireless-charging/)
-* [How to Screen Record on Your Chromebook](https://www.howtogeek.com/695967/how-to-screen-record-on-your-chromebook/)
-* [AirPods Max Battery Drain Issue Fixed With New Firmware Update](https://www.reviewgeek.com/74017/airpods-max-battery-drain-issue-fixed-with-new-firmware-update/)
-* [How to Save Your Favorite Places in Google Maps](https://www.howtogeek.com/717637/how-to-save-your-favorite-places-in-google-maps/)
-* [How to Add a Status Message in Microsoft Teams](https://www.howtogeek.com/712818/how-to-add-a-status-message-in-microsoft-teams/)
-* [How to Stop AirPods from Automatically Connecting to a Mac](https://www.howtogeek.com/715923/how-to-stop-airpods-from-automatically-connecting-to-a-mac/)
+* [Google Family Link's New Update Gives Parents Better Control of App Time Limits](https://www.reviewgeek.com/74191/google-family-links-new-update-gives-parents-better-control-of-app-time-limits/)
+* [PopSockets Gets to Work With a New PopGrip Multi-Tool](https://www.reviewgeek.com/74181/popsockets-gets-to-work-with-a-popgrip-multi-tool/)
+* [Dropbox Will Store 50 of Your Passwords for Free](https://www.reviewgeek.com/74144/dropbox-will-store-50-of-your-passwords-for-free/)
+* [Google's New Nest Hub Tracks Your Sleep With a Motion Tracking Radar Chip](https://www.reviewgeek.com/74142/googles-new-nest-hub-tracks-your-sleep-with-a-motion-tracking-radar-chip/)
+* [How to Choose When Windows 10 Turns Off Your Screen](https://www.howtogeek.com/714939/how-to-choose-when-windows-10-turns-off-your-screen/)
+* [Dude, Dell's Best Desktops Are Getting 11th Gen Intel Core Processors](https://www.reviewgeek.com/74131/dude-dells-best-desktops-are-getting-11th-gen-intel-core-processors/)
+* [How to Create a Geographical Map Chart in Microsoft Excel](https://www.howtogeek.com/713632/how-to-create-a-geographical-map-chart-in-microsoft-excel/)
+* [GoPro's New "Quik" App Brings All Your Photos and Video Together in a Mural](https://www.reviewgeek.com/74117/gopros-new-quick-app-brings-all-your-photos-and-video-together-in-a-mural/)
+* [How to Turn Off Annoying “Save Password” Pop-Ups in Chrome](https://www.howtogeek.com/715496/how-to-turn-off-annoying-save-password-pop-ups-in-chrome/)
+* [How to Reinstall Missing or Deleted Built-in iPhone Apps](https://www.howtogeek.com/712152/how-to-reinstall-missing-or-deleted-built-in-iphone-apps/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

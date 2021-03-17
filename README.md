@@ -397,16 +397,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK plans ‘full spectrum’ approach to national cyber security](https://www.computerweekly.com/news/252497812/UK-plans-full-spectrum-approach-to-national-cyber-security)
-- [Microsoft Exchange ProxyLogon attacks spike 10 times in four days](https://www.computerweekly.com/news/252497814/Microsoft-Exchange-ProxyLogon-attacks-spike-10-times-in-four-days)
-- [Judges refuse EncroChat defendants’ appeal to Supreme Court](https://www.computerweekly.com/news/252497819/Judges-refuse-EncroChat-defendants-appeal-to-Supreme-Court)
-- [Parliamentary PACA Committee slams Gove over Covid-19 data failures](https://www.computerweekly.com/news/252497813/Parliamentary-PACA-Committee-slams-Gove-over-Covid-19-data-failures)
-- [Research: Continuous upgrades to datacentre virtualisation setups key to curbing carbon emissions](https://www.computerweekly.com/news/252497796/Research-Continuous-upgrades-to-datacentre-virtualisation-setups-key-to-curbing-carbon-emissions)
-- [Mace Group uses RealWear to support Covid-safe site inspections](https://www.computerweekly.com/news/252497802/Mace-Group-uses-RealWare-to-support-Covid-safe-site-inspections)
-- [EncroChat ruling has ‘far-reaching effects’ for legal role of interception in UK investigations](https://www.computerweekly.com/opinion/EncroChat-ruling-has-far-reaching-effects-for-legal-role-of-interception-in-UK-investigations)
-- [Security Think Tank: CNI operators are in an unenviable position](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-are-in-an-unenviable-position)
-- [Containers for a post-pandemic IT architecture](https://www.computerweekly.com/feature/Containers-for-a-post-pandemic-IT-architecture)
-- [Arrest warrants issued for Canadians behind Sky ECC cryptophone network used by organised crime](https://www.computerweekly.com/news/252497791/Arrest-warrants-for-Candians-behind-Sky-ECC-cryptophone-networks-used-by-organised-crime)
+- [One-fifth of all UK tech investment went to just 10 scaleup firms in 2020](https://www.computerweekly.com/news/252497962/One-fifth-of-all-UK-tech-investment-went-to-just-10-scaleup-firms-in-2020)
+- [Insurers unable to fill a quarter of tech roles](https://www.computerweekly.com/news/252497944/Insurers-unable-to-fill-a-quarter-of-tech-roles)
+- [Uber and Ola ordered to hand over more data to drivers](https://www.computerweekly.com/news/252497940/Uber-and-Ola-ordered-to-hand-over-more-data-to-drivers)
+- [Josh Bersin 2021 technology guide vaunts employee experience](https://www.computerweekly.com/news/252497938/Josh-Bersin-2021-technology-guide-vaunts-employee-experience)
+- [MoD partners playing fast and loose with confidential data](https://www.computerweekly.com/news/252497932/MoD-partners-playing-fast-and-loose-with-confidential-data)
+- [Banks still lack tech skills at the top](https://www.computerweekly.com/news/252497933/Banks-still-lack-tech-skills-at-the-top)
+- [Unusual DearCry ransomware uses ‘rare’ approach to encryption](https://www.computerweekly.com/news/252497918/Unusual-DearCry-ransomware-uses-rare-approach-to-encryption)
+- [Microsoft releases one-click ProxyLogon mitigation tool](https://www.computerweekly.com/news/252497915/Microsoft-releases-one-click-ProxyLogon-mitigation-tool)
+- [Containers play a key role in post-pandemic IT architectures](https://www.computerweekly.com/ezine/Computer-Weekly/Containers-play-a-key-role-in-post-pandemic-IT-architectures)
+- [Government calls for input into Covid-19 vaccine passports](https://www.computerweekly.com/news/252497916/Government-calls-for-input-into-Covid-19-vaccine-passports)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

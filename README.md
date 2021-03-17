@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_2/run_after_1900.php" target="_blank"><i>run after</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_1/go_off_1__2052.php" target="_blank"><i>go off (1)</i></a>
 <span> = </span>
-<span>If you run after someone, you chase them and try to catch up with them by running.</span>
+<span>If something goes off, it stops working because of a power cut.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

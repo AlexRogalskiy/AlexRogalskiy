@@ -337,16 +337,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
-- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
-- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
-- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
-- [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
-- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
-- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
-- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
-- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
-- [HN was down](https://twitter.com/HNStatus/status/1371525940656803848)
+- [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
+- [Show HN: O(log n) makes continuous profiling possible](https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md)
+- [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
+- [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
+- [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
+- [So You Want to Do an Infrastructure Package [pdf]](https://www.niskanencenter.org/wp-content/uploads/2021/03/levy-infastructure.pdf)
+- [Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails](https://github.com/samuelkarp/runj#runj)
+- [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
+- [Moore's Law for Everything](https://moores.samaltman.com/)
+- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

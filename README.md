@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/M/Mountie_1595.php" target="_blank"><i>Mountie</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/K/kisser_782.php" target="_blank"><i>kisser</i></a>
 <span> = </span>
-<span>a member of the Royal Canadian Mounted Police</span>
+<span>the mouth</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

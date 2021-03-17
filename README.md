@@ -307,16 +307,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
-- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
-- [Bing search update for immersive UX](https://searchengineland.com/microsoft-bing-updates-search-results-interface-to-make-it-more-visually-immersive-346665)
-- [Beware of Tight Feedback Loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
-- [The AI Control Problem](https://geohot.github.io/blog/jekyll/update/2021/02/28/the-ai-control-problem.html)
-- [Windi CSS – Next Generation Tailwind CSS Compiler](https://windicss.org/)
-- [Heterogeneity Matters When Modeling Covid-19](https://physics.aps.org/articles/v14/s22)
-- [Anthony Fu: Congrats Tailwind, and Thanks for Not Mentioning Windi CSS at All](https://twitter.com/antfu7/status/1371533878800748545)
-- [Facebook to pay News Corp for content in Australia](https://www.bbc.co.uk/news/world-australia-56410335)
-- [Rust Koans](https://github.com/crazymykl/rust-koans)
+- [The worst reactor idea: The OhioVR mantis reactor](http://talk-polywell.org/bb/viewtopic.php?f=3&t=6460)
+- [Show HN: A mobile app to keep monthly bills organized similar to spreadsheets](https://www.chromabill.com/)
+- [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
+- [The Mathematics of How Connections Become Global](https://www.scientificamerican.com/article/the-mathematics-of-how-connections-become-global/)
+- [What to look for in Fedora workstation 34](https://blogs.gnome.org/uraeus/2021/03/15/what-to-look-for-fedora-workstation-34/)
+- [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
+- [Cricut Backs Down – Cutting Machines](https://gizmodo.com/cricut-backs-down-will-now-give-existing-registered-us-1846489707)
+- [Google’s new Nest display wants to watch you while you sleep](https://arstechnica.com/gadgets/2021/03/googles-new-nest-display-wants-to-watch-you-while-you-sleep/)
+- [Tech giants in China are developing ways to bypass Apple’s new privacy rules](https://9to5mac.com/2021/03/16/china-tech-giants-trying-bypass-apple-privacy-rules/)
+- [Glide Data Grid: A high-performance React grid component, with rich rendering](https://github.com/glideapps/glide-data-grid)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/wet_behind_the_ears_129.php" target="_blank"><i>wet behind the ears</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/quick_as_a_flash_quick_as_a_wink_quick_as_lightning_344.php" target="_blank"><i>quick as a flash | quick as a wink | quick as lightning</i></a>
 <span> = </span>
-<span>If someone is wet behind the ears, they don't have much experience of life.</span>
+<span>If you're as quick as a flash, or quick as a wink, or quick as lightning, you're very quick.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -246,9 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645745865074622464" target="_blank"><i>Bees</i></a></summary>
-<p>by Jane Hirshfield</p><p>In every instant, two gates.<br/>One opens to fragrant paradise, one to hell.<br/>Mostly we go through neither.<br/><br/>Mostly we nod to our neighbor,<br/>lean down to pick up the paper,<br/>go back into the house.<br/><br/>But the faint cries—ecstasy? horror?<br/>Or did you think it the sound<br/>of distant bees,<br/>making only the thick honey of this good life?
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645836451002597376" target="_blank"><i>Haiku</i></a></summary>
+<p>by Issa</p><p>Everything I touch<br/>with tenderness, alas,<br/>pricks like a bramble.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -279,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-1°C (<i>broken clouds</i>), humidity: 93%, pressure: 1015 (mbar), wind: /east/ 1 (m/s), cloudy: 69%</b>
+        <b>-1°C (<i>light snow</i>), humidity: 93%, pressure: 1015 (mbar), wind: /north-east/ 2 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>07:09 am</b> and sets at <b>19:04 pm</b>.
     </p>
@@ -292,66 +291,69 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Of Course NVIDIA's Attempt to Limit Cryptocurrency Mining Immediately Failed](https://www.reviewgeek.com/74058/of-course-nvidias-attempt-to-limit-cryptocurrency-mining-immediately-failed/)
-* [Apple's Original HomePod is Dead, Long Live HomePod Mini](https://www.reviewgeek.com/74038/apples-original-homepod-is-dead-long-live-homepod-mini/)
-* [7 Tips to Adjust Your Sleep Schedule While Working from Home](https://www.lifesavvy.com/60298/seven-tips-to-adjust-your-sleep-schedule-while-working-from-home/)
-* [The Eyes Have It: Scientists Can Spot Deepfakes with a New AI Tool](https://www.reviewgeek.com/74051/the-eyes-have-it-scientists-can-spot-deepfakes-with-a-new-ai-tool/)
-* [OnePlus 9 Might Pick Up Absurdly Fast 50-Watt Wireless Charging](https://www.reviewgeek.com/74023/oneplus-9-might-pick-up-absurdly-fast-50-watt-wireless-charging/)
-* [How to Screen Record on Your Chromebook](https://www.howtogeek.com/695967/how-to-screen-record-on-your-chromebook/)
-* [AirPods Max Battery Drain Issue Fixed With New Firmware Update](https://www.reviewgeek.com/74017/airpods-max-battery-drain-issue-fixed-with-new-firmware-update/)
-* [How to Save Your Favorite Places in Google Maps](https://www.howtogeek.com/717637/how-to-save-your-favorite-places-in-google-maps/)
-* [How to Add a Status Message in Microsoft Teams](https://www.howtogeek.com/712818/how-to-add-a-status-message-in-microsoft-teams/)
-* [How to Stop AirPods from Automatically Connecting to a Mac](https://www.howtogeek.com/715923/how-to-stop-airpods-from-automatically-connecting-to-a-mac/)
+* [Google Family Link's New Update Gives Parents Better Control of App Time Limits](https://www.reviewgeek.com/74191/google-family-links-new-update-gives-parents-better-control-of-app-time-limits/)
+* [PopSockets Gets to Work With a New PopGrip Multi-Tool](https://www.reviewgeek.com/74181/popsockets-gets-to-work-with-a-popgrip-multi-tool/)
+* [Dropbox Will Store 50 of Your Passwords for Free](https://www.reviewgeek.com/74144/dropbox-will-store-50-of-your-passwords-for-free/)
+* [Google's New Nest Hub Tracks Your Sleep With a Motion Tracking Radar Chip](https://www.reviewgeek.com/74142/googles-new-nest-hub-tracks-your-sleep-with-a-motion-tracking-radar-chip/)
+* [How to Choose When Windows 10 Turns Off Your Screen](https://www.howtogeek.com/714939/how-to-choose-when-windows-10-turns-off-your-screen/)
+* [Dude, Dell's Best Desktops Are Getting 11th Gen Intel Core Processors](https://www.reviewgeek.com/74131/dude-dells-best-desktops-are-getting-11th-gen-intel-core-processors/)
+* [How to Create a Geographical Map Chart in Microsoft Excel](https://www.howtogeek.com/713632/how-to-create-a-geographical-map-chart-in-microsoft-excel/)
+* [GoPro's New "Quik" App Brings All Your Photos and Video Together in a Mural](https://www.reviewgeek.com/74117/gopros-new-quick-app-brings-all-your-photos-and-video-together-in-a-mural/)
+* [How to Turn Off Annoying “Save Password” Pop-Ups in Chrome](https://www.howtogeek.com/715496/how-to-turn-off-annoying-save-password-pop-ups-in-chrome/)
+* [How to Reinstall Missing or Deleted Built-in iPhone Apps](https://www.howtogeek.com/712152/how-to-reinstall-missing-or-deleted-built-in-iphone-apps/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
-- [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
-- [Bing search update for immersive UX](https://searchengineland.com/microsoft-bing-updates-search-results-interface-to-make-it-more-visually-immersive-346665)
-- [Beware of Tight Feedback Loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
-- [The AI Control Problem](https://geohot.github.io/blog/jekyll/update/2021/02/28/the-ai-control-problem.html)
-- [Windi CSS – Next Generation Tailwind CSS Compiler](https://windicss.org/)
-- [Heterogeneity Matters When Modeling Covid-19](https://physics.aps.org/articles/v14/s22)
-- [Anthony Fu: Congrats Tailwind, and Thanks for Not Mentioning Windi CSS at All](https://twitter.com/antfu7/status/1371533878800748545)
-- [Facebook to pay News Corp for content in Australia](https://www.bbc.co.uk/news/world-australia-56410335)
-- [Rust Koans](https://github.com/crazymykl/rust-koans)
+- [The worst reactor idea: The OhioVR mantis reactor](http://talk-polywell.org/bb/viewtopic.php?f=3&t=6460)
+- [Show HN: A mobile app to keep monthly bills organized similar to spreadsheets](https://www.chromabill.com/)
+- [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
+- [The Mathematics of How Connections Become Global](https://www.scientificamerican.com/article/the-mathematics-of-how-connections-become-global/)
+- [What to look for in Fedora workstation 34](https://blogs.gnome.org/uraeus/2021/03/15/what-to-look-for-fedora-workstation-34/)
+- [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
+- [Cricut Backs Down – Cutting Machines](https://gizmodo.com/cricut-backs-down-will-now-give-existing-registered-us-1846489707)
+- [Google’s new Nest display wants to watch you while you sleep](https://arstechnica.com/gadgets/2021/03/googles-new-nest-display-wants-to-watch-you-while-you-sleep/)
+- [Tech giants in China are developing ways to bypass Apple’s new privacy rules](https://9to5mac.com/2021/03/16/china-tech-giants-trying-bypass-apple-privacy-rules/)
+- [Glide Data Grid: A high-performance React grid component, with rich rendering](https://github.com/glideapps/glide-data-grid)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lionel Messi equals Xavi's Barcelona appearance record in win over Huesca](https://www.theguardian.com/football/2021/mar/16/lionel-messi-equals-xavis-barcelona-appearance-record-in-win-over-huesca)
-- [China tells Alibaba to divest media assets to curb influence – report](https://www.theguardian.com/world/2021/mar/16/china-tells-alibaba-to-divest-media-assets-to-curb-influence-report)
-- [Biden urges UK and EU to preserve Northern Irish peace amid Brexit row](https://www.theguardian.com/politics/2021/mar/15/eu-launch-legal-action-uk-plan-extend-brexit-grace-period)
-- [The Picture of Dorian Gray review – the ugly face of social media](https://www.theguardian.com/stage/2021/mar/16/the-picture-of-dorian-gray-review-stephen-fry-joanna-lumley-russell-tovey)
-- [Services at risk unless NHS England gets £8bn extra funding within days](https://www.theguardian.com/society/2021/mar/16/services-at-risk-nhs-england-funding)
-- [Major review aims to transform lives of children in England](https://www.theguardian.com/society/2021/mar/16/major-review-aims-to-transform-lives-of-children-in-england)
-- [Yorkshire Building Society first to bring back 95% mortgages](https://www.theguardian.com/money/2021/mar/16/yorkshire-building-society-first-to-bring-back-95-mortgages)
-- ['Woke' culture is threat to protest songs, says Don Letts](https://www.theguardian.com/music/2021/mar/16/woke-culture-is-threat-to-protest-songs-says-don-letts)
-- [Rupert Murdoch's News Corp strikes deal as Facebook agrees to pay for Australian content](https://www.theguardian.com/media/2021/mar/16/rupert-murdochs-news-corp-strikes-deal-as-facebook-agrees-to-pay-for-australian-content)
-- [Arrests made at London protest over policing powers and vigil](https://www.theguardian.com/uk-news/2021/mar/15/arrests-made-at-protest-against-policing-bill-and-violence-against-women)
+- [Coronavirus live news: 'no indication' Oxford vaccine is linked to blood clots, says EU regulator](https://www.theguardian.com/world/live/2021/mar/17/coronavirus-live-news-no-indication-oxford-vaccine-is-linked-to-blood-clots-says-eu-regulator)
+- [Biden: Cuomo should resign if sexual harassment inquiry confirms claims](https://www.theguardian.com/us-news/2021/mar/16/joe-biden-andrew-cuomo-resign-sexual-harassment-inquiry)
+- [Prince Charles criticises anti-vaxxers, saying Covid vaccines can 'protect and liberate'](https://www.theguardian.com/uk-news/2021/mar/17/prince-charles-vaccine-covid-anti-vaxxers)
+- [Crews rescue two people from truck dangling over Idaho bridge](https://www.theguardian.com/us-news/2021/mar/16/pickup-truck-bridge-dangle-rescue-trailer-idaho)
+- ['I am so grateful': Tiger Woods returns home from hospital after car crash](https://www.theguardian.com/sport/2021/mar/17/i-am-so-grateful-tiger-woods-returns-home-from-hospital-after-car-crash)
+- ['He's a big loss': CJ Stander's retirement takes Ireland and Sexton by surprise](https://www.theguardian.com/sport/2021/mar/17/hes-a-big-loss-cj-standers-retirement-takes-ireland-and-sexton-by-surprise)
+- [ChimpanZoom? Primates at Czech zoo go wild for video calls](https://www.theguardian.com/technology/2021/mar/17/chimpanzee-zoom-czech-zoo-video-calls)
+- [Demi Lovato says she was raped as a teenager by someone she knew](https://www.theguardian.com/music/2021/mar/16/demi-lovato-rape-youtube-docuseries-dancing-with-the-devil)
+- [PPE use in England generated 'colossal' amount of carbon](https://www.theguardian.com/environment/2021/mar/17/ppe-use-in-england-generated-colossal-amount-of-carbon)
+- [Schools Covid catch-up programme 'not reaching disadvantaged pupils'](https://www.theguardian.com/world/2021/mar/17/schools-covid-catch-up-programme-not-reaching-disadvantaged-pupils)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
-- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
-- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
-- [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
-- [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
-- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
-- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
-- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
-- [Bodyport (YC S15) is hiring a senior front-end engineer](https://bodyport.com/careers)
-- [HN was down](https://twitter.com/HNStatus/status/1371525940656803848)
+- [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
+- [Show HN: O(log n) makes continuous profiling possible](https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md)
+- [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
+- [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
+- [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
+- [So You Want to Do an Infrastructure Package [pdf]](https://www.niskanencenter.org/wp-content/uploads/2021/03/levy-infastructure.pdf)
+- [Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails](https://github.com/samuelkarp/runj#runj)
+- [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
+- [Moore's Law for Everything](https://moores.samaltman.com/)
+- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Use Stacks and Search in macOS to get work done](https://www.computerworld.com/article/3611675/use-stacks-and-search-in-macos-to-get-work-done.html#tk.rss_all)
+- [WFH boom makes ‘employee experience’ a C-suite priority, says Microsoft Viva chief](https://www.computerworld.com/article/3611855/wfh-boom-makes-employee-experience-a-c-suite-priority-says-microsoft-viva-chief.html#tk.rss_all)
 - [Microsoft follows Google and Chrome, shifts Edge to four-week release pace](https://www.computerworld.com/article/3611512/microsoft-follows-google-and-chrome-shifts-edge-to-four-week-release-pace.html#tk.rss_all)
 - [Apple lives by its own privacy rules](https://www.computerworld.com/article/3611848/apple-lives-by-its-own-privacy-rules.html#tk.rss_all)
 - [Stuck on Windows 10 1909? Some workarounds on moving forward](https://www.computerworld.com/article/3611672/stuck-on-windows-10-1909-some-workarounds-on-moving-forward.html#tk.rss_all)
@@ -359,14 +361,13 @@
 - [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Windows 10’s Remote Desktop options explained](https://www.computerworld.com/article/3611588/windows-10-remote-desktop-options-explained.html#tk.rss_all)
 - [BrandPost: Assessing the Value of Partnering for IT Services](https://www.computerworld.com/article/3611356/assessing-the-value-of-partnering-for-it-services.html#tk.rss_all)
-- [Patch Exchange now, and test your Windows updates](https://www.computerworld.com/article/3611417/patch-exchange-now-and-test-your-windows-updates.html#tk.rss_all)
-- [Q&A: Adobe explains the transition to Apple Silicon](https://www.computerworld.com/article/3611383/qa-adobe-explains-the-transition-to-apple-silicon.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Finding the Right Balance of On-Site and At-Home IT Workers](https://www.informationweek.com/strategic-cio/finding-the-right-balance-of-on-site-and-at-home-it-workers-/a/d-id/1340409?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AI One Year Later: How the Pandemic Impacted the Future of Technology](https://www.informationweek.com/big-data/ai-machine-learning/ai-one-year-later-how-the-pandemic-impacted-the-future-of-technology/a/d-id/1340399?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Define Your Edge Computing Architecture](https://www.informationweek.com/cloud/how-to-define-your-edge-computing-architecture/a/d-id/1340396?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AI Must Play a Role in Data Cloud Management](https://www.informationweek.com/cloud/ai-must-play-a-role-in-data-cloud-management/a/d-id/1340379?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -375,13 +376,13 @@
 - [10 Hot IT Job Titles for 2021](https://www.informationweek.com/strategic-cio/10-hot-it-job-titles-for-2021/d/d-id/1340356?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Low-Code and No-Code Platforms: What IT leaders Should Consider](https://www.informationweek.com/devops/low-code-and-no-code-platforms-what-it-leaders-should-consider/a/d-id/1340337?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIOs Can Recruit More Women into IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-cios-can-recruit-more-women-into-it/d/d-id/1340340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Enabling Your Workforce for the Digital Workplace](https://www.informationweek.com/strategic-cio/digital-business/enabling-your-workforce-for-the-digital-workplace/a/d-id/1340277?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Ways to Take Representation of Women in Tech to New Levels](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-take-representation-of-women-in-tech-to-new-levels/d/d-id/1340339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
+- [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
@@ -390,23 +391,21 @@
 - [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html#tk.rss_all)
 - [Google’s OSS-Fuzz extends fuzzing to Java apps](https://www.infoworld.com/article/3611510/googles-oss-fuzz-extends-fuzzing-to-java-apps.html#tk.rss_all)
 - [The cloud is green. Let's get on with migration](https://www.infoworld.com/article/3611374/the-cloud-is-green-lets-get-on-with-migration.html#tk.rss_all)
-- [Project Lilliput would shrink Java object header](https://www.infoworld.com/article/3611448/project-lilliput-would-shrink-java-object-header.html#tk.rss_all)
-- [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK plans ‘full spectrum’ approach to national cyber security](https://www.computerweekly.com/news/252497812/UK-plans-full-spectrum-approach-to-national-cyber-security)
-- [Microsoft Exchange ProxyLogon attacks spike 10 times in four days](https://www.computerweekly.com/news/252497814/Microsoft-Exchange-ProxyLogon-attacks-spike-10-times-in-four-days)
-- [Judges refuse EncroChat defendants’ appeal to Supreme Court](https://www.computerweekly.com/news/252497819/Judges-refuse-EncroChat-defendants-appeal-to-Supreme-Court)
-- [Parliamentary PACA Committee slams Gove over Covid-19 data failures](https://www.computerweekly.com/news/252497813/Parliamentary-PACA-Committee-slams-Gove-over-Covid-19-data-failures)
-- [Research: Continuous upgrades to datacentre virtualisation setups key to curbing carbon emissions](https://www.computerweekly.com/news/252497796/Research-Continuous-upgrades-to-datacentre-virtualisation-setups-key-to-curbing-carbon-emissions)
-- [Mace Group uses RealWear to support Covid-safe site inspections](https://www.computerweekly.com/news/252497802/Mace-Group-uses-RealWare-to-support-Covid-safe-site-inspections)
-- [EncroChat ruling has ‘far-reaching effects’ for legal role of interception in UK investigations](https://www.computerweekly.com/opinion/EncroChat-ruling-has-far-reaching-effects-for-legal-role-of-interception-in-UK-investigations)
-- [Security Think Tank: CNI operators are in an unenviable position](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-are-in-an-unenviable-position)
-- [Containers for a post-pandemic IT architecture](https://www.computerweekly.com/feature/Containers-for-a-post-pandemic-IT-architecture)
-- [Arrest warrants issued for Canadians behind Sky ECC cryptophone network used by organised crime](https://www.computerweekly.com/news/252497791/Arrest-warrants-for-Candians-behind-Sky-ECC-cryptophone-networks-used-by-organised-crime)
+- [One-fifth of all UK tech investment went to just 10 scaleup firms in 2020](https://www.computerweekly.com/news/252497962/One-fifth-of-all-UK-tech-investment-went-to-just-10-scaleup-firms-in-2020)
+- [Insurers unable to fill a quarter of tech roles](https://www.computerweekly.com/news/252497944/Insurers-unable-to-fill-a-quarter-of-tech-roles)
+- [Uber and Ola ordered to hand over more data to drivers](https://www.computerweekly.com/news/252497940/Uber-and-Ola-ordered-to-hand-over-more-data-to-drivers)
+- [Josh Bersin 2021 technology guide vaunts employee experience](https://www.computerweekly.com/news/252497938/Josh-Bersin-2021-technology-guide-vaunts-employee-experience)
+- [MoD partners playing fast and loose with confidential data](https://www.computerweekly.com/news/252497932/MoD-partners-playing-fast-and-loose-with-confidential-data)
+- [Banks still lack tech skills at the top](https://www.computerweekly.com/news/252497933/Banks-still-lack-tech-skills-at-the-top)
+- [Unusual DearCry ransomware uses ‘rare’ approach to encryption](https://www.computerweekly.com/news/252497918/Unusual-DearCry-ransomware-uses-rare-approach-to-encryption)
+- [Microsoft releases one-click ProxyLogon mitigation tool](https://www.computerweekly.com/news/252497915/Microsoft-releases-one-click-ProxyLogon-mitigation-tool)
+- [Containers play a key role in post-pandemic IT architectures](https://www.computerweekly.com/ezine/Computer-Weekly/Containers-play-a-key-role-in-post-pandemic-IT-architectures)
+- [Government calls for input into Covid-19 vaccine passports](https://www.computerweekly.com/news/252497916/Government-calls-for-input-into-Covid-19-vaccine-passports)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

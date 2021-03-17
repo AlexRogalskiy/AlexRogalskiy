@@ -382,6 +382,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
+- [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
@@ -390,8 +392,6 @@
 - [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html#tk.rss_all)
 - [Google’s OSS-Fuzz extends fuzzing to Java apps](https://www.infoworld.com/article/3611510/googles-oss-fuzz-extends-fuzzing-to-java-apps.html#tk.rss_all)
 - [The cloud is green. Let's get on with migration](https://www.infoworld.com/article/3611374/the-cloud-is-green-lets-get-on-with-migration.html#tk.rss_all)
-- [Project Lilliput would shrink Java object header](https://www.infoworld.com/article/3611448/project-lilliput-would-shrink-java-object-header.html#tk.rss_all)
-- [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

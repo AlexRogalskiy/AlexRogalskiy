@@ -246,9 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645745865074622464" target="_blank"><i>Bees</i></a></summary>
-<p>by Jane Hirshfield</p><p>In every instant, two gates.<br/>One opens to fragrant paradise, one to hell.<br/>Mostly we go through neither.<br/><br/>Mostly we nod to our neighbor,<br/>lean down to pick up the paper,<br/>go back into the house.<br/><br/>But the faint cries—ecstasy? horror?<br/>Or did you think it the sound<br/>of distant bees,<br/>making only the thick honey of this good life?
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/645836451002597376" target="_blank"><i>Haiku</i></a></summary>
+<p>by Issa</p><p>Everything I touch<br/>with tenderness, alas,<br/>pricks like a bramble.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

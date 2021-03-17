@@ -322,16 +322,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lionel Messi equals Xavi's Barcelona appearance record in win over Huesca](https://www.theguardian.com/football/2021/mar/16/lionel-messi-equals-xavis-barcelona-appearance-record-in-win-over-huesca)
-- [China tells Alibaba to divest media assets to curb influence – report](https://www.theguardian.com/world/2021/mar/16/china-tells-alibaba-to-divest-media-assets-to-curb-influence-report)
-- [Biden urges UK and EU to preserve Northern Irish peace amid Brexit row](https://www.theguardian.com/politics/2021/mar/15/eu-launch-legal-action-uk-plan-extend-brexit-grace-period)
-- [The Picture of Dorian Gray review – the ugly face of social media](https://www.theguardian.com/stage/2021/mar/16/the-picture-of-dorian-gray-review-stephen-fry-joanna-lumley-russell-tovey)
-- [Services at risk unless NHS England gets £8bn extra funding within days](https://www.theguardian.com/society/2021/mar/16/services-at-risk-nhs-england-funding)
-- [Major review aims to transform lives of children in England](https://www.theguardian.com/society/2021/mar/16/major-review-aims-to-transform-lives-of-children-in-england)
-- [Yorkshire Building Society first to bring back 95% mortgages](https://www.theguardian.com/money/2021/mar/16/yorkshire-building-society-first-to-bring-back-95-mortgages)
-- ['Woke' culture is threat to protest songs, says Don Letts](https://www.theguardian.com/music/2021/mar/16/woke-culture-is-threat-to-protest-songs-says-don-letts)
-- [Rupert Murdoch's News Corp strikes deal as Facebook agrees to pay for Australian content](https://www.theguardian.com/media/2021/mar/16/rupert-murdochs-news-corp-strikes-deal-as-facebook-agrees-to-pay-for-australian-content)
-- [Arrests made at London protest over policing powers and vigil](https://www.theguardian.com/uk-news/2021/mar/15/arrests-made-at-protest-against-policing-bill-and-violence-against-women)
+- [Coronavirus live news: 'no indication' Oxford vaccine is linked to blood clots, says EU regulator](https://www.theguardian.com/world/live/2021/mar/17/coronavirus-live-news-no-indication-oxford-vaccine-is-linked-to-blood-clots-says-eu-regulator)
+- [Biden: Cuomo should resign if sexual harassment inquiry confirms claims](https://www.theguardian.com/us-news/2021/mar/16/joe-biden-andrew-cuomo-resign-sexual-harassment-inquiry)
+- [Prince Charles criticises anti-vaxxers, saying Covid vaccines can 'protect and liberate'](https://www.theguardian.com/uk-news/2021/mar/17/prince-charles-vaccine-covid-anti-vaxxers)
+- [Crews rescue two people from truck dangling over Idaho bridge](https://www.theguardian.com/us-news/2021/mar/16/pickup-truck-bridge-dangle-rescue-trailer-idaho)
+- ['I am so grateful': Tiger Woods returns home from hospital after car crash](https://www.theguardian.com/sport/2021/mar/17/i-am-so-grateful-tiger-woods-returns-home-from-hospital-after-car-crash)
+- ['He's a big loss': CJ Stander's retirement takes Ireland and Sexton by surprise](https://www.theguardian.com/sport/2021/mar/17/hes-a-big-loss-cj-standers-retirement-takes-ireland-and-sexton-by-surprise)
+- [ChimpanZoom? Primates at Czech zoo go wild for video calls](https://www.theguardian.com/technology/2021/mar/17/chimpanzee-zoom-czech-zoo-video-calls)
+- [Demi Lovato says she was raped as a teenager by someone she knew](https://www.theguardian.com/music/2021/mar/16/demi-lovato-rape-youtube-docuseries-dancing-with-the-devil)
+- [PPE use in England generated 'colossal' amount of carbon](https://www.theguardian.com/environment/2021/mar/17/ppe-use-in-england-generated-colossal-amount-of-carbon)
+- [Schools Covid catch-up programme 'not reaching disadvantaged pupils'](https://www.theguardian.com/world/2021/mar/17/schools-covid-catch-up-programme-not-reaching-disadvantaged-pupils)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

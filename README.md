@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/wet_behind_the_ears_129.php" target="_blank"><i>wet behind the ears</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/quick_as_a_flash_quick_as_a_wink_quick_as_lightning_344.php" target="_blank"><i>quick as a flash | quick as a wink | quick as lightning</i></a>
 <span> = </span>
-<span>If someone is wet behind the ears, they don't have much experience of life.</span>
+<span>If you're as quick as a flash, or quick as a wink, or quick as lightning, you're very quick.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

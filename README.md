@@ -381,16 +381,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [PeachPie PHP to .NET project reaches 1.0 milestone](https://www.infoworld.com/article/3611599/peachpie-php-to-dotnet-project-reaches-10-milestone.html#tk.rss_all)
+- [Spring Native turns Spring apps into native executables](https://www.infoworld.com/article/3611975/spring-native-turns-spring-apps-into-native-executables.html#tk.rss_all)
+- [Getting started with winget, the Windows Package Manager](https://www.infoworld.com/article/3611365/getting-started-with-winget-the-windows-package-manager.html#tk.rss_all)
+- [Containers need standard operating environments too](https://www.infoworld.com/article/3609615/containers-need-standard-operating-environments-too.html#tk.rss_all)
+- [8 great Python libraries for natural language processing](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html#tk.rss_all)
 - [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
 - [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
-- [Microsoft’s Windows API unification project moves forward](https://www.infoworld.com/article/3611400/microsofts-windows-api-unification-project-moves-forward.html#tk.rss_all)
-- [How to use pattern matching in C#](https://www.infoworld.com/article/3611377/how-to-use-pattern-matching-in-csharp.html#tk.rss_all)
-- [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html#tk.rss_all)
-- [Google’s OSS-Fuzz extends fuzzing to Java apps](https://www.infoworld.com/article/3611510/googles-oss-fuzz-extends-fuzzing-to-java-apps.html#tk.rss_all)
-- [The cloud is green. Let's get on with migration](https://www.infoworld.com/article/3611374/the-cloud-is-green-lets-get-on-with-migration.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -411,16 +411,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [What should i expect](https://www.reddit.com/r/InformationTechnology/comments/m5pshe/what_should_i_expect/)
-- [Technical Assessment](https://www.reddit.com/r/InformationTechnology/comments/m5p1w4/technical_assessment/)
-- [Identify object/tag in video](https://www.reddit.com/r/InformationTechnology/comments/m5l8c6/identify_objecttag_in_video/)
-- [Info on IT associates degree online program help.](https://www.reddit.com/r/InformationTechnology/comments/m5kbgg/info_on_it_associates_degree_online_program_help/)
-- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/m5gv0x/it_question/)
-- [Data transmission from one device to the other](https://www.reddit.com/r/InformationTechnology/comments/m5eb27/data_transmission_from_one_device_to_the_other/)
-- [The future of big data is the Hashgraph.](https://www.reddit.com/r/InformationTechnology/comments/m5b9g4/the_future_of_big_data_is_the_hashgraph/)
-- [Should I Apply To Best Buy as a Sales Consultant?](https://www.reddit.com/r/InformationTechnology/comments/m4zv6c/should_i_apply_to_best_buy_as_a_sales_consultant/)
-- [Advice?](https://www.reddit.com/r/InformationTechnology/comments/m4ta72/advice/)
-- [Can not get an internship and URGENTLY need some advice and inspiration](https://www.reddit.com/r/InformationTechnology/comments/m4lhvn/can_not_get_an_internship_and_urgently_need_some/)
+- [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
+- [Got hit up for a job but haven't heard back...](https://www.reddit.com/r/InformationTechnology/comments/m7crtj/got_hit_up_for_a_job_but_havent_heard_back/)
+- [hey my guys, I'm new IT. any suggestions?](https://www.reddit.com/r/InformationTechnology/comments/m7c55y/hey_my_guys_im_new_it_any_suggestions/)
+- [Alternative to print to PDF, but doesn't use print spooler](https://www.reddit.com/r/InformationTechnology/comments/m7ajo5/alternative_to_print_to_pdf_but_doesnt_use_print/)
+- [Help with IT](https://www.reddit.com/r/InformationTechnology/comments/m781om/help_with_it/)
+- [Pluralsight](https://www.reddit.com/r/InformationTechnology/comments/m761ym/pluralsight/)
+- [Resources to improve communication skills for IT people](https://www.reddit.com/r/InformationTechnology/comments/m72wxc/resources_to_improve_communication_skills_for_it/)
+- [Technical Support Fundamentals by Google On Coursera](https://www.reddit.com/r/InformationTechnology/comments/m6z34i/technical_support_fundamentals_by_google_on/)
+- [Question about routers and bandwidth](https://www.reddit.com/r/InformationTechnology/comments/m6urv9/question_about_routers_and_bandwidth/)
+- [VPN connection](https://www.reddit.com/r/InformationTechnology/comments/m6u8bh/vpn_connection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

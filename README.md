@@ -426,16 +426,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Leader of Twitter celebrity hack and bitcoin scam sentenced to three years](https://www.itworldcanada.com/article/leader-of-twitter-celebrity-hack-and-bitcoin-scam-sentenced-to-three-years/444059)
+- [Canada’s big carriers, ISPs turn thumbs down on proposed mandatory botnet-fighting regime](https://www.itworldcanada.com/article/canadas-big-carriers-isps-turn-thumbs-down-on-proposed-mandatory-botnet-fighting-regime/444050)
+- [AMD 3rd-gen ‘Milan’ Epyc 7003 series processors features overview](https://www.itworldcanada.com/article/amd-3rd-gen-milan-epyc-7003-series-processors-features-overview/443983)
+- [Hashtag Trending, March 17, 2021 – DuckDuckGo calls out competitors; Building a new web browser; Rogers-Shaw deal follow up](https://www.itworldcanada.com/article/hashtag-trending-march-17-2021-duckduckgo-calls-out-competitors-building-a-new-web-browser-rogers-shaw-deal-follow-up/444056)
+- [Cyber Security Today, March 17, 2021 – FBI warning on ransomware, how the pandemic has affected IT security and a new botnet threat](https://www.itworldcanada.com/article/cyber-security-today-march-17-2021-fbi-warning-on-ransomware-how-the-pandemic-has-affected-it-security-and-a-new-botnet-threat/444018)
+- [Learn what to do before and after being hit with a cyberattack](https://www.itworldcanada.com/article/learn-what-to-do-before-and-after-being-hit-with-a-cyber-attack/444022)
+- [Threat actor uses JPG files for exfiltrating credit card data](https://www.itworldcanada.com/article/threat-actor-uses-jpg-files-for-exfiltrating-credit-card-data/443969)
+- [Hashtag Trending, March 16, 2021 – Rogers’ $26B bid for Shaw; Head offices disappearing in Calgary; Tinder’s background checks](https://www.itworldcanada.com/article/hashtag-trending-march-16-2021-rogers-26b-bid-for-shaw-head-offices-disappearing-in-calgary-tinders-background-checks/443962)
 - [Rogers seeks to buy Shaw for $26 billion](https://www.itworldcanada.com/article/rogers-seeks-to-buy-shaw-for-26-billion/443932)
 - [Microsoft investigates possible leak that enabled hackers to exploit Exchange](https://www.itworldcanada.com/article/did-a-microsoft-partner-play-a-role-in-enabling-hackers-to-exploit-exchange/443916)
-- [Managing remote employees: 8 best practices for leaders now – The Enterprisers Project](https://www.itworldcanada.com/post/managing-remote-employees-8-best-practices-for-leaders-now-the-enterprisers-project)
-- [Cyber Security Today, March 15, 2021 – Canadian charged as encrypted network allegedly used by criminals disrupted, equipment from Huawei called risky to US networks; Chrome updates; Netgear and Linux](https://www.itworldcanada.com/article/cyber-security-today-canadian-charged-as-encrypted-network-allegedly-used-by-criminals-disrupted-equipment-from-huawei-called-risky-to-us-networks-chrome-updates-netgear-and-linux/443899)
-- [3 factors that are driving us towards a data-driven decision-making world](https://www.itworldcanada.com/blog/3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world/443898)
-- [Hashtag Trending, March 15, 2021 – Amazon says no to Pickering and appeals orders to close a Brampton warehouse; Google accused of tracking users in ‘Incognito’ mode](https://www.itworldcanada.com/article/hashtag-trending-march-15-2021-amazon-says-no-to-pickering-and-appeals-orders-to-close-a-brampton-warehouse-google-accused-of-tracking-users-in-incognito-mode/443896)
-- [FedDev Ontario gives ventureLAB $4.73 million in funding](https://www.itworldcanada.com/article/feddev-ontario-gives-venturelab-4-73-million-in-funding/443880)
-- [CRA locks out taxpayer accounts after discovering unauthorized use of credentials](https://www.itworldcanada.com/article/cra-locks-out-taxpayer-accounts-after-discovering-unauthorized-use-of-credentials/443875)
-- [ITWC launches 2021 Canadian IT Skill Survey](https://www.itworldcanada.com/article/itwc-launches-2021-canadian-it-skill-survey/443866)
-- [Cyber Security Today – Week In Review for Friday March 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-12-2021/443776)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

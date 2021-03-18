@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The worst reactor idea: The OhioVR mantis reactor](http://talk-polywell.org/bb/viewtopic.php?f=3&t=6460)
-- [Show HN: A mobile app to keep monthly bills organized similar to spreadsheets](https://www.chromabill.com/)
-- [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
-- [The Mathematics of How Connections Become Global](https://www.scientificamerican.com/article/the-mathematics-of-how-connections-become-global/)
-- [What to look for in Fedora workstation 34](https://blogs.gnome.org/uraeus/2021/03/15/what-to-look-for-fedora-workstation-34/)
-- [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
-- [Cricut Backs Down – Cutting Machines](https://gizmodo.com/cricut-backs-down-will-now-give-existing-registered-us-1846489707)
-- [Google’s new Nest display wants to watch you while you sleep](https://arstechnica.com/gadgets/2021/03/googles-new-nest-display-wants-to-watch-you-while-you-sleep/)
-- [Tech giants in China are developing ways to bypass Apple’s new privacy rules](https://9to5mac.com/2021/03/16/china-tech-giants-trying-bypass-apple-privacy-rules/)
-- [Glide Data Grid: A high-performance React grid component, with rich rendering](https://github.com/glideapps/glide-data-grid)
+- [Florida teenager to spend three years in prison after hacking Apple’s Twitter](https://9to5mac.com/2021/03/16/apple-twitter-hacker-three-years-prison/)
+- [Node.js – v15.12.0](https://nodejs.org/en/blog/release/v15.12.0/)
+- [What is making Canadian butter harder? [video]](https://www.youtube.com/watch?v=7RM1zjkuEBE&ab_channel=CBCNews)
+- [SkyTran – Personalized Public Rapid Transit](https://robologiclab.com/skytran-personalized-public-rapid-transit/)
+- [Scala 3.0 (3 Videos)](http://diego-pacheco.blogspot.com/2021/03/scala-30.html)
+- [Space oddity Oumuamua probably shard of Pluto-like world, scientists say](https://www.theguardian.com/science/2021/mar/18/space-oddity-oumuamua-probably-shard-of-pluto-like-world-scientists-say)
+- [The Future of Cloud Is Microsoft’s to Lose](https://www.lastweekinaws.com/blog/the-future-of-cloud-is-microsofts-to-lose/)
+- [Focalboard – a self-hosted alternative to Trello, Notion, and Asana](https://www.focalboard.com/)
+- [Advice on looking for a new software engineering job](https://www.evanjones.ca/software-job-search-advice.html)
+- [U.S. officials pushed Brazil to reject Russia’s coronavirus vaccine](https://www.washingtonpost.com/world/2021/03/16/hhs-brazil-sputnik-russia/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

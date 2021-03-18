@@ -396,16 +396,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [PagerDuty expands European datacentre presence with help from AWS](https://www.computerweekly.com/news/252498024/PagerDuty-expands-European-datacentre-presence-with-help-from-AWS)
+- [Security Think Tank: Take a realistic perspective on CNI cyber attacks](https://www.computerweekly.com/opinion/Security-Think-Tank-Take-a-realistic-perspective-on-CNI-cyber-attacks)
+- [Google Cloud shares carbon-free datacentre energy usage stats with users](https://www.computerweekly.com/news/252497993/Google-Cloud-shares-carbon-free-datacentre-energy-usage-stats-with-users)
+- [Average ransomware cost triples, says report](https://www.computerweekly.com/news/252498029/Average-ransomware-cost-triples-says-report)
+- [Digital Green Certificate proposed for travel in Europe](https://www.computerweekly.com/news/252498023/Digital-Green-Certificate-proposed-for-travel-in-Europe)
+- [Uber classifies drivers as workers after Supreme Court ruling](https://www.computerweekly.com/news/252498028/Uber-classifies-drivers-as-workers-after-Supreme-Court-ruling)
+- [Security Think Tank: CNI operators must focus on core issues](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-must-focus-on-core-issues)
+- [Cyber sector welcomes PM’s defence review](https://www.computerweekly.com/news/252497999/Cyber-sector-welcomes-PMs-defence-review)
 - [One-fifth of all UK tech investment went to just 10 scaleup firms in 2020](https://www.computerweekly.com/news/252497962/One-fifth-of-all-UK-tech-investment-went-to-just-10-scaleup-firms-in-2020)
 - [Insurers unable to fill a quarter of tech roles](https://www.computerweekly.com/news/252497944/Insurers-unable-to-fill-a-quarter-of-tech-roles)
-- [Uber and Ola ordered to hand over more data to drivers](https://www.computerweekly.com/news/252497940/Uber-and-Ola-ordered-to-hand-over-more-data-to-drivers)
-- [Josh Bersin 2021 technology guide vaunts employee experience](https://www.computerweekly.com/news/252497938/Josh-Bersin-2021-technology-guide-vaunts-employee-experience)
-- [MoD partners playing fast and loose with confidential data](https://www.computerweekly.com/news/252497932/MoD-partners-playing-fast-and-loose-with-confidential-data)
-- [Banks still lack tech skills at the top](https://www.computerweekly.com/news/252497933/Banks-still-lack-tech-skills-at-the-top)
-- [Unusual DearCry ransomware uses ‘rare’ approach to encryption](https://www.computerweekly.com/news/252497918/Unusual-DearCry-ransomware-uses-rare-approach-to-encryption)
-- [Microsoft releases one-click ProxyLogon mitigation tool](https://www.computerweekly.com/news/252497915/Microsoft-releases-one-click-ProxyLogon-mitigation-tool)
-- [Containers play a key role in post-pandemic IT architectures](https://www.computerweekly.com/ezine/Computer-Weekly/Containers-play-a-key-role-in-post-pandemic-IT-architectures)
-- [Government calls for input into Covid-19 vaccine passports](https://www.computerweekly.com/news/252497916/Government-calls-for-input-into-Covid-19-vaccine-passports)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

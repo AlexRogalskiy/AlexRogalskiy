@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Family Link's New Update Gives Parents Better Control of App Time Limits](https://www.reviewgeek.com/74191/google-family-links-new-update-gives-parents-better-control-of-app-time-limits/)
-* [PopSockets Gets to Work With a New PopGrip Multi-Tool](https://www.reviewgeek.com/74181/popsockets-gets-to-work-with-a-popgrip-multi-tool/)
-* [Dropbox Will Store 50 of Your Passwords for Free](https://www.reviewgeek.com/74144/dropbox-will-store-50-of-your-passwords-for-free/)
-* [Google's New Nest Hub Tracks Your Sleep With a Motion Tracking Radar Chip](https://www.reviewgeek.com/74142/googles-new-nest-hub-tracks-your-sleep-with-a-motion-tracking-radar-chip/)
-* [How to Choose When Windows 10 Turns Off Your Screen](https://www.howtogeek.com/714939/how-to-choose-when-windows-10-turns-off-your-screen/)
-* [Dude, Dell's Best Desktops Are Getting 11th Gen Intel Core Processors](https://www.reviewgeek.com/74131/dude-dells-best-desktops-are-getting-11th-gen-intel-core-processors/)
-* [How to Create a Geographical Map Chart in Microsoft Excel](https://www.howtogeek.com/713632/how-to-create-a-geographical-map-chart-in-microsoft-excel/)
-* [GoPro's New "Quik" App Brings All Your Photos and Video Together in a Mural](https://www.reviewgeek.com/74117/gopros-new-quick-app-brings-all-your-photos-and-video-together-in-a-mural/)
-* [How to Turn Off Annoying “Save Password” Pop-Ups in Chrome](https://www.howtogeek.com/715496/how-to-turn-off-annoying-save-password-pop-ups-in-chrome/)
-* [How to Reinstall Missing or Deleted Built-in iPhone Apps](https://www.howtogeek.com/712152/how-to-reinstall-missing-or-deleted-built-in-iphone-apps/)
+* [Windows 10’s Virtual Desktops Are Getting Custom Wallpaper Backgrounds](https://www.howtogeek.com/719126/windows-10s-virtual-desktops-are-getting-custom-wallpaper-backgrounds/)
+* [Ring Heads to Your Yard With an Outdoor Plug, Siren, and Motion Light](https://www.reviewgeek.com/74280/ring-heads-to-your-yard-with-an-outdoor-plug-siren-and-motion-light/)
+* [Android 12 DP 2 Improves Round Corner Displays and PiP Navigation](https://www.reviewgeek.com/74283/android-12-beta-2-improves-round-corner-displays-and-pip-navigation/)
+* [YouTube TV Adds 7 New Viacom Channels (Without a Price Hike)](https://www.reviewgeek.com/74275/youtube-tv-adds-7-new-viacom-channels-without-a-price-hike/)
+* [Everyone Can Buy a Wyze Cam v3 Now (and There's a Sale at Wyze!)](https://www.reviewgeek.com/74266/everyone-can-buy-a-wyze-cam-v3-now-and-theres-a-sale-at-wyze/)
+* [How to Subscribe to Podcasts on Spotify](https://www.howtogeek.com/717860/how-to-subscribe-to-podcasts-on-spotify/)
+* [Samsung's Awesome A-Series Phones Get Smooth 90Hz and 120Hz Displays](https://www.reviewgeek.com/74260/samsungs-awesome-a-series-phones-get-smooth-90hz-and-120hz-displays/)
+* [How to Remove the Underline From a Hyperlink in Microsoft Word](https://www.howtogeek.com/713773/how-to-remove-the-underline-from-a-hyperlink-in-microsoft-word/)
+* [How to Peek at Links Before Opening Them in Chrome for Android](https://www.howtogeek.com/718917/how-to-peek-at-links-before-opening-them-in-chrome-for-android/)
+* [How to Automatically Clear Browsing Data When You Close Microsoft Edge](https://www.howtogeek.com/718265/how-to-automatically-clear-browsing-data-when-you-close-microsoft-edge/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

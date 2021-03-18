@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
-- [Show HN: O(log n) makes continuous profiling possible](https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md)
-- [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
-- [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
-- [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
-- [So You Want to Do an Infrastructure Package [pdf]](https://www.niskanencenter.org/wp-content/uploads/2021/03/levy-infastructure.pdf)
-- [Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails](https://github.com/samuelkarp/runj#runj)
-- [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
-- [Moore's Law for Everything](https://moores.samaltman.com/)
-- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
+- [Manim – an animation engine for explanatory math videos](https://3b1b.github.io/manim/index.html)
+- [Apple’s M1 processor and the full 128-bit integer product](https://lemire.me/blog/2021/03/17/apples-m1-processor-and-the-full-128-bit-integer-product/)
+- [Jello 3D Printer](https://spritesmods.com/?art=jello3dprinter)
+- [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
+- [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
+- [Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals](https://jobs.lever.co/zeus/37f99a58-f1ea-413f-857b-7bd5efb285a8)
+- [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
+- [Charts.css](https://chartscss.org/)
+- [Show HN: Attract more customers by highlighting why people trust you](http://shoutout.so/)
+- [Launch HN: Chums (YC W21) – Shop online with friends](https://news.ycombinator.com/item?id=26493938)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

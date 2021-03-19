@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: UK says EU vaccine threat 'needs explaining'; Tanzania president dies](https://www.theguardian.com/world/live/2021/mar/18/coronavirus-live-news-uk-says-eu-vaccine-threat-needs-explaining-tanzania-president-dies)
-- [Tokyo Olympics ceremonies chief 'offers to quit' over sexist comment](https://www.theguardian.com/sport/2021/mar/18/tokyo-olympics-ceremonies-chief-hiroshi-sasaki-sexism)
-- [Space oddity Oumuamua probably shard of Pluto-like world, scientists say](https://www.theguardian.com/science/2021/mar/18/space-oddity-oumuamua-probably-shard-of-pluto-like-world-scientists-say)
-- [Asylum seekers 'could be sent abroad by UK to be processed'](https://www.theguardian.com/uk-news/2021/mar/18/asylum-seekers-could-be-sent-abroad-by-uk-to-be-processed)
-- [Kovrig and Spavor: China set to begin trial of two Canadians](https://www.theguardian.com/world/2021/mar/18/kovrig-and-spavor-china-set-to-begin-trial-of-two-canadians)
-- [Kwasi Kwarteng must hold line on corporate and audit reforms](https://www.theguardian.com/business/nils-pratley-on-finance/2021/mar/18/kwasi-kwarteng-needs-to-hold-line-on-corporate-and-audit-reforms)
-- [Blanket 'do not resuscitate' orders imposed on English care homes, finds CQC](https://www.theguardian.com/society/2021/mar/18/blanket-do-not-resuscitate-orders-imposed-on-english-care-homes-finds-cqc)
-- [Delaying England's winter lockdown 'caused up to 27,000 extra Covid deaths'](https://www.theguardian.com/uk-news/2021/mar/18/delaying-englands-winter-lockdown-caused-up-to-27000-extra-covid-deaths)
-- [UK social media influencers warned over ad rules breaches](https://www.theguardian.com/media/2021/mar/18/uk-social-media-influencers-warned-over-ad-rules-breaches)
-- [Bonus reforms 'biggest shake-up of UK corporate governance in years'](https://www.theguardian.com/business/2021/mar/18/bonus-reforms-biggest-shake-up-of-uk-corporate-governance-in-years)
+- ['Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'](https://www.theguardian.com/us-news/2021/mar/18/atlanta-spa-shootings-congress-house-biden)
+- [US and China publicly rebuke each other in first major talks of Biden era](https://www.theguardian.com/world/2021/mar/19/us-china-talks-alaska-biden-blinken-sullivan-wang)
+- [Lockdown boredom drives UK video games market to £7bn record high](https://www.theguardian.com/games/2021/mar/19/lockdown-boredom-drives-uk-video-games-market-to-7bn-record-high)
+- [UN’s Kunming biodiversity summit delayed a second time](https://www.theguardian.com/environment/2021/mar/19/cop15-kunming-un-biodiversity-summit-delayed-aoe)
+- [Oscars 2021 ceremony will be in-person and Zoom-free, producers say](https://www.theguardian.com/film/2021/mar/19/oscars-2021-ceremony-in-person-93rd-academy-awards-oscar-nominations)
+- [Actor Armie Hammer under investigation for 2017 sexual assault allegation](https://www.theguardian.com/film/2021/mar/18/armie-hammer-accused-rape-2017-effie)
+- [FA Cup, Premier League, Old Firm and WSL: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/mar/19/fa-cup-premier-league-wsl-rangers-celtic-10-things-to-look-out-for-this-weekend)
+- [Rangers accuse Slavia Prague's Kudela of racial abuse in Europa League loss](https://www.theguardian.com/football/2021/mar/18/rangers-slavia-prague-europa-league-match-report)
+- [DUP will ‘vigorously oppose’ UK intervention to speed up NI abortion services](https://www.theguardian.com/world/2021/mar/18/uk-to-force-northern-ireland-to-speed-up-abortion-services)
+- [Covid: viral shedding is greatest in afternoon, study suggests](https://www.theguardian.com/world/2021/mar/18/covid-viral-shedding-is-greatest-in-afternoon-study-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

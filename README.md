@@ -396,16 +396,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Coronavirus: How PCs in quarantine and intensive care units can be managed remotely](https://www.computerweekly.com/news/252498021/Coronavirus-How-PCs-in-quarantine-and-intensive-care-units-can-be-managed-remotely)
+- [Tech sector is key to the success of Global Britain](https://www.computerweekly.com/opinion/Our-tech-sector-is-key-to-the-success-of-Global-Britain)
+- [Vaccine passports cannot put basic rights at risk, warns BCS](https://www.computerweekly.com/news/252498093/Vaccine-passports-cannot-put-basic-rights-at-risk-warns-BCS)
+- [Government to bail out Post Office which can’t afford to pay compensation to subpostmasters](https://www.computerweekly.com/news/252498087/Government-to-bail-out-Post-Office-which-cant-afford-to-pay-compensation-to-subpostmasters)
+- [Reshaping the women-in-tech debate in Denmark, from the top down](https://www.computerweekly.com/news/252498016/Reshaping-the-women-in-tech-debate-in-Denmark-from-the-top-down)
+- [Survey: Backup failures hit a high as pandemic working hits home](https://www.computerweekly.com/news/252498022/Survey-Backup-failures-hit-a-high-as-pandemic-working-hits-home)
+- [Subpostmasters in Court of Appeal to end 20-year torment](https://www.computerweekly.com/news/252498067/Subpostmasters-in-Court-of-Appeal-to-end-20-year-torment)
 - [PagerDuty expands European datacentre presence with help from AWS](https://www.computerweekly.com/news/252498024/PagerDuty-expands-European-datacentre-presence-with-help-from-AWS)
 - [Security Think Tank: Take a realistic perspective on CNI cyber attacks](https://www.computerweekly.com/opinion/Security-Think-Tank-Take-a-realistic-perspective-on-CNI-cyber-attacks)
 - [Google Cloud shares carbon-free datacentre energy usage stats with users](https://www.computerweekly.com/news/252497993/Google-Cloud-shares-carbon-free-datacentre-energy-usage-stats-with-users)
-- [Average ransomware cost triples, says report](https://www.computerweekly.com/news/252498029/Average-ransomware-cost-triples-says-report)
-- [Digital Green Certificate proposed for travel in Europe](https://www.computerweekly.com/news/252498023/Digital-Green-Certificate-proposed-for-travel-in-Europe)
-- [Uber classifies drivers as workers after Supreme Court ruling](https://www.computerweekly.com/news/252498028/Uber-classifies-drivers-as-workers-after-Supreme-Court-ruling)
-- [Security Think Tank: CNI operators must focus on core issues](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-must-focus-on-core-issues)
-- [Cyber sector welcomes PM’s defence review](https://www.computerweekly.com/news/252497999/Cyber-sector-welcomes-PMs-defence-review)
-- [One-fifth of all UK tech investment went to just 10 scaleup firms in 2020](https://www.computerweekly.com/news/252497962/One-fifth-of-all-UK-tech-investment-went-to-just-10-scaleup-firms-in-2020)
-- [Insurers unable to fill a quarter of tech roles](https://www.computerweekly.com/news/252497944/Insurers-unable-to-fill-a-quarter-of-tech-roles)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

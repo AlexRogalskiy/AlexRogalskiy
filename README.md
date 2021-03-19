@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-8°C (<i>clear sky</i>), humidity: 85%, pressure: 1015 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>-8°C (<i>clear sky</i>), humidity: 85%, pressure: 1016 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>07:03 am</b> and sets at <b>19:09 pm</b>.
     </p>
@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Windows 10’s Virtual Desktops Are Getting Custom Wallpaper Backgrounds](https://www.howtogeek.com/719126/windows-10s-virtual-desktops-are-getting-custom-wallpaper-backgrounds/)
-* [Ring Heads to Your Yard With an Outdoor Plug, Siren, and Motion Light](https://www.reviewgeek.com/74280/ring-heads-to-your-yard-with-an-outdoor-plug-siren-and-motion-light/)
-* [Android 12 DP 2 Improves Round Corner Displays and PiP Navigation](https://www.reviewgeek.com/74283/android-12-beta-2-improves-round-corner-displays-and-pip-navigation/)
-* [YouTube TV Adds 7 New Viacom Channels (Without a Price Hike)](https://www.reviewgeek.com/74275/youtube-tv-adds-7-new-viacom-channels-without-a-price-hike/)
-* [Everyone Can Buy a Wyze Cam v3 Now (and There's a Sale at Wyze!)](https://www.reviewgeek.com/74266/everyone-can-buy-a-wyze-cam-v3-now-and-theres-a-sale-at-wyze/)
-* [How to Subscribe to Podcasts on Spotify](https://www.howtogeek.com/717860/how-to-subscribe-to-podcasts-on-spotify/)
-* [Samsung's Awesome A-Series Phones Get Smooth 90Hz and 120Hz Displays](https://www.reviewgeek.com/74260/samsungs-awesome-a-series-phones-get-smooth-90hz-and-120hz-displays/)
-* [How to Remove the Underline From a Hyperlink in Microsoft Word](https://www.howtogeek.com/713773/how-to-remove-the-underline-from-a-hyperlink-in-microsoft-word/)
-* [How to Peek at Links Before Opening Them in Chrome for Android](https://www.howtogeek.com/718917/how-to-peek-at-links-before-opening-them-in-chrome-for-android/)
-* [How to Automatically Clear Browsing Data When You Close Microsoft Edge](https://www.howtogeek.com/718265/how-to-automatically-clear-browsing-data-when-you-close-microsoft-edge/)
+* [Google's New Remote Work Tool, Threadit, Helps You Avoid Meetings](https://www.reviewgeek.com/74441/googles-new-remote-work-tool-threadit-helps-you-avoid-meetings/)
+* [A New 'Doctor Who' Found Phone Game Will Terrify You With Weeping Angels](https://www.reviewgeek.com/74365/a-new-doctor-who-found-phone-game-will-terrify-you-with-weeping-angels/)
+* [Hear the Perseverance Rover Drive Across Mars In These NASA Recordings](https://www.reviewgeek.com/74377/nasa-recordings-let-you-hear-the-perseverance-rover-as-it-drives-across-mars/)
+* [Sony's PS5 VR Controllers Put a Whole World in Your Hands](https://www.reviewgeek.com/74353/sonys-ps5-vr-controllers-put-a-whole-world-in-your-hands/)
+* [How to Add a Missing Place to Google Maps](https://www.howtogeek.com/718113/how-to-add-a-missing-place-to-google-maps/)
+* [OnePlus 9 Pro Really Will Have Stupidly Fast Wireless Charging](https://www.reviewgeek.com/74352/oneplus-9-pro-really-will-have-stupidly-fast-wireless-charging/)
+* [How to Get Live Captions For Any Video or Audio in Chrome](https://www.howtogeek.com/719328/how-to-get-live-captions-for-any-video-or-audio-in-chrome/)
+* [How to Sync Files in Microsoft Teams to Your Device](https://www.howtogeek.com/714723/how-to-sync-files-in-microsoft-teams-to-your-device/)
+* [How to Use Google Search’s Spell Check Everywhere on Chrome](https://www.howtogeek.com/716187/how-to-use-google-searchs-spell-check-everywhere-on-chrome/)
+* [How to Redirect to "www" with Nginx Ingress](https://www.cloudsavvyit.com/10240/how-to-redirect-to-www-with-nginx-ingress/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

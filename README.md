@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645836451002597376" target="_blank"><i>Haiku</i></a></summary>
-<p>by Issa</p><p>Everything I touch<br/>with tenderness, alas,<br/>pricks like a bramble.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/646017651766935552" target="_blank"><i>Poet to Bigot</i></a></summary>
+<p>by Langston Hughes</p><p>I have done so little<br/>For you,<br/>And you have done so little<br/>For me,<br/>That we have good reason<br/>Never to agree.<br/><br/>I, however,<br/>Have such meager<br/>Power,<br/>Clutching at a<br/>Moment,<br/>While you control<br/>An hour.<br/><br/>But your hour is<br/>A stone.<br/><br/>My moment is<br/>A flower.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

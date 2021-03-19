@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_1/go_off_1__2052.php" target="_blank"><i>go off (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/H/hammer_out_2913.php" target="_blank"><i>hammer out</i></a>
 <span> = </span>
-<span>If something goes off, it stops working because of a power cut.</span>
+<span>to reach an agreement or solution after a lot of negotiation or discussion<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

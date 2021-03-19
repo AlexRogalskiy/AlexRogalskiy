@@ -366,6 +366,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Ways Enterprises Can Use the Edge](https://www.informationweek.com/big-data/10-ways-enterprises-can-use-the-edge/d/d-id/1340441?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Break Gender Gridlock in Cybersecurity Careers](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-break-gender-gridlock-in-cybersecurity-careers/a/d-id/1340425?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [6 Tips for IT Pros Aspiring To Be a Modern-Day CIO](https://www.informationweek.com/strategic-cio/6-tips-for-it-pros-aspiring-to-be-a-modern-day-cio-/a/d-id/1340395?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Finding the Right Balance of On-Site and At-Home IT Workers](https://www.informationweek.com/strategic-cio/finding-the-right-balance-of-on-site-and-at-home-it-workers-/a/d-id/1340409?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -375,7 +376,6 @@
 - [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How a Sponsor Can Help Elevate Your Career in IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-a-sponsor-can-help-elevate-your-career-in-it-/a/d-id/1340373?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIO Agenda for Right Now: Priorities a Year Into the Pandemic](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-agenda-for-right-now-priorities-a-year-into-the-pandemic/d/d-id/1340370?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [10 Hot IT Job Titles for 2021](https://www.informationweek.com/strategic-cio/10-hot-it-job-titles-for-2021/d/d-id/1340356?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

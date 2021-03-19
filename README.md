@@ -411,12 +411,12 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
+- [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
+- [Hey good Moring guys](https://www.reddit.com/r/InformationTechnology/comments/m7r1eb/hey_good_moring_guys/)
 - [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
 - [Got hit up for a job but haven't heard back...](https://www.reddit.com/r/InformationTechnology/comments/m7crtj/got_hit_up_for_a_job_but_havent_heard_back/)
-- [hey my guys, I'm new IT. any suggestions?](https://www.reddit.com/r/InformationTechnology/comments/m7c55y/hey_my_guys_im_new_it_any_suggestions/)
-- [Alternative to print to PDF, but doesn't use print spooler](https://www.reddit.com/r/InformationTechnology/comments/m7ajo5/alternative_to_print_to_pdf_but_doesnt_use_print/)
 - [Help with IT](https://www.reddit.com/r/InformationTechnology/comments/m781om/help_with_it/)
-- [Pluralsight](https://www.reddit.com/r/InformationTechnology/comments/m761ym/pluralsight/)
 - [Resources to improve communication skills for IT people](https://www.reddit.com/r/InformationTechnology/comments/m72wxc/resources_to_improve_communication_skills_for_it/)
 - [Technical Support Fundamentals by Google On Coursera](https://www.reddit.com/r/InformationTechnology/comments/m6z34i/technical_support_fundamentals_by_google_on/)
 - [Question about routers and bandwidth](https://www.reddit.com/r/InformationTechnology/comments/m6urv9/question_about_routers_and_bandwidth/)

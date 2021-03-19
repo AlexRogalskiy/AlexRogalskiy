@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Manim – an animation engine for explanatory math videos](https://3b1b.github.io/manim/index.html)
-- [Apple’s M1 processor and the full 128-bit integer product](https://lemire.me/blog/2021/03/17/apples-m1-processor-and-the-full-128-bit-integer-product/)
-- [Jello 3D Printer](https://spritesmods.com/?art=jello3dprinter)
-- [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
-- [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
-- [Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals](https://jobs.lever.co/zeus/37f99a58-f1ea-413f-857b-7bd5efb285a8)
-- [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
-- [Charts.css](https://chartscss.org/)
-- [Show HN: Attract more customers by highlighting why people trust you](http://shoutout.so/)
-- [Launch HN: Chums (YC W21) – Shop online with friends](https://news.ycombinator.com/item?id=26493938)
+- [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
+- [Spain: Parliament passes law legalizing assisted suicide](https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713)
+- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
+- [MOnSter 6502](https://monster6502.com/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [Morning Brew went from college newsletter to $75M in 5 years](https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/)
+- [Show HN: SpectaQL – auto-generate GraphQL API documentation](https://github.com/anvilco/spectaql#spectaql)
+- [We found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+- [U.S. Government Finally Gets Serious About IoT Security](https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security)
+- [A Directory of Personal Blogs](https://blogsurf.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

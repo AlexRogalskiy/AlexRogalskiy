@@ -190,17 +190,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/quick_as_a_flash_quick_as_a_wink_quick_as_lightning_344.php" target="_blank"><i>quick as a flash | quick as a wink | quick as lightning</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/T/think_the_world_of_702.php" target="_blank"><i>think the world of</i></a>
 <span> = </span>
-<span>If you're as quick as a flash, or quick as a wink, or quick as lightning, you're very quick.</span>
+<span>If you think the world of someone, you admire and respect them very much.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/K/kisser_782.php" target="_blank"><i>kisser</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/U/umpteen_1109.php" target="_blank"><i>umpteen</i></a>
 <span> = </span>
-<span>the mouth</span>
+<span>many, countless</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/645836451002597376" target="_blank"><i>Haiku</i></a></summary>
-<p>by Issa</p><p>Everything I touch<br/>with tenderness, alas,<br/>pricks like a bramble.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/646017651766935552" target="_blank"><i>Poet to Bigot</i></a></summary>
+<p>by Langston Hughes</p><p>I have done so little<br/>For you,<br/>And you have done so little<br/>For me,<br/>That we have good reason<br/>Never to agree.<br/><br/>I, however,<br/>Have such meager<br/>Power,<br/>Clutching at a<br/>Moment,<br/>While you control<br/>An hour.<br/><br/>But your hour is<br/>A stone.<br/><br/>My moment is<br/>A flower.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-8°C (<i>clear sky</i>), humidity: 85%, pressure: 1015 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>-8°C (<i>clear sky</i>), humidity: 85%, pressure: 1016 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>07:03 am</b> and sets at <b>19:09 pm</b>.
     </p>
@@ -291,81 +291,82 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Windows 10’s Virtual Desktops Are Getting Custom Wallpaper Backgrounds](https://www.howtogeek.com/719126/windows-10s-virtual-desktops-are-getting-custom-wallpaper-backgrounds/)
-* [Ring Heads to Your Yard With an Outdoor Plug, Siren, and Motion Light](https://www.reviewgeek.com/74280/ring-heads-to-your-yard-with-an-outdoor-plug-siren-and-motion-light/)
-* [Android 12 DP 2 Improves Round Corner Displays and PiP Navigation](https://www.reviewgeek.com/74283/android-12-beta-2-improves-round-corner-displays-and-pip-navigation/)
-* [YouTube TV Adds 7 New Viacom Channels (Without a Price Hike)](https://www.reviewgeek.com/74275/youtube-tv-adds-7-new-viacom-channels-without-a-price-hike/)
-* [Everyone Can Buy a Wyze Cam v3 Now (and There's a Sale at Wyze!)](https://www.reviewgeek.com/74266/everyone-can-buy-a-wyze-cam-v3-now-and-theres-a-sale-at-wyze/)
-* [How to Subscribe to Podcasts on Spotify](https://www.howtogeek.com/717860/how-to-subscribe-to-podcasts-on-spotify/)
-* [Samsung's Awesome A-Series Phones Get Smooth 90Hz and 120Hz Displays](https://www.reviewgeek.com/74260/samsungs-awesome-a-series-phones-get-smooth-90hz-and-120hz-displays/)
-* [How to Remove the Underline From a Hyperlink in Microsoft Word](https://www.howtogeek.com/713773/how-to-remove-the-underline-from-a-hyperlink-in-microsoft-word/)
-* [How to Peek at Links Before Opening Them in Chrome for Android](https://www.howtogeek.com/718917/how-to-peek-at-links-before-opening-them-in-chrome-for-android/)
-* [How to Automatically Clear Browsing Data When You Close Microsoft Edge](https://www.howtogeek.com/718265/how-to-automatically-clear-browsing-data-when-you-close-microsoft-edge/)
+* [Google's New Remote Work Tool, Threadit, Helps You Avoid Meetings](https://www.reviewgeek.com/74441/googles-new-remote-work-tool-threadit-helps-you-avoid-meetings/)
+* [A New 'Doctor Who' Found Phone Game Will Terrify You With Weeping Angels](https://www.reviewgeek.com/74365/a-new-doctor-who-found-phone-game-will-terrify-you-with-weeping-angels/)
+* [Hear the Perseverance Rover Drive Across Mars In These NASA Recordings](https://www.reviewgeek.com/74377/nasa-recordings-let-you-hear-the-perseverance-rover-as-it-drives-across-mars/)
+* [Sony's PS5 VR Controllers Put a Whole World in Your Hands](https://www.reviewgeek.com/74353/sonys-ps5-vr-controllers-put-a-whole-world-in-your-hands/)
+* [How to Add a Missing Place to Google Maps](https://www.howtogeek.com/718113/how-to-add-a-missing-place-to-google-maps/)
+* [OnePlus 9 Pro Really Will Have Stupidly Fast Wireless Charging](https://www.reviewgeek.com/74352/oneplus-9-pro-really-will-have-stupidly-fast-wireless-charging/)
+* [How to Get Live Captions For Any Video or Audio in Chrome](https://www.howtogeek.com/719328/how-to-get-live-captions-for-any-video-or-audio-in-chrome/)
+* [How to Sync Files in Microsoft Teams to Your Device](https://www.howtogeek.com/714723/how-to-sync-files-in-microsoft-teams-to-your-device/)
+* [How to Use Google Search’s Spell Check Everywhere on Chrome](https://www.howtogeek.com/716187/how-to-use-google-searchs-spell-check-everywhere-on-chrome/)
+* [How to Redirect to "www" with Nginx Ingress](https://www.cloudsavvyit.com/10240/how-to-redirect-to-www-with-nginx-ingress/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida teenager to spend three years in prison after hacking Apple’s Twitter](https://9to5mac.com/2021/03/16/apple-twitter-hacker-three-years-prison/)
-- [Node.js – v15.12.0](https://nodejs.org/en/blog/release/v15.12.0/)
-- [What is making Canadian butter harder? [video]](https://www.youtube.com/watch?v=7RM1zjkuEBE&ab_channel=CBCNews)
-- [SkyTran – Personalized Public Rapid Transit](https://robologiclab.com/skytran-personalized-public-rapid-transit/)
-- [Scala 3.0 (3 Videos)](http://diego-pacheco.blogspot.com/2021/03/scala-30.html)
-- [Space oddity Oumuamua probably shard of Pluto-like world, scientists say](https://www.theguardian.com/science/2021/mar/18/space-oddity-oumuamua-probably-shard-of-pluto-like-world-scientists-say)
-- [The Future of Cloud Is Microsoft’s to Lose](https://www.lastweekinaws.com/blog/the-future-of-cloud-is-microsofts-to-lose/)
-- [Focalboard – a self-hosted alternative to Trello, Notion, and Asana](https://www.focalboard.com/)
-- [Advice on looking for a new software engineering job](https://www.evanjones.ca/software-job-search-advice.html)
-- [U.S. officials pushed Brazil to reject Russia’s coronavirus vaccine](https://www.washingtonpost.com/world/2021/03/16/hhs-brazil-sputnik-russia/)
+- [Greenwald: Yesterday Journalists Spread a Significant Lie All over Twitter](https://greenwald.substack.com/p/journalists-illustrating-how-they)
+- [Relativity lands Silver Lake investment in deal that values the company at $3.6B](https://www.bizjournals.com/chicago/inno/stories/news/2021/03/18/relativity-lands-silver-lake-investment-in-deal.html)
+- [Norway, Sweden, Denmark wait before restarting AstraZeneca vaccinations](https://www.euronews.com/2021/03/18/norway-sweden-denmark-wait-before-restarting-astrazeneca-vaccinations)
+- [Nyxt Browser](https://nyxt.atlas.engineer/)
+- [Potential model for a real physical warp drive](https://phys.org/news/2021-03-potential-real-physical-warp.html)
+- [Cofounders of bankrupt poop-testing startup uBiome have been charged with fraud](https://www.businessinsider.com/ubiome-cofounders-zachary-apte-jessica-richman-sec-charges-2021-3)
+- [Joint All-Domain Command and Control](https://crsreports.congress.gov/product/pdf/R/R46725)
+- [ThreadTone – a halftone representation of an image made of thread](https://github.com/theveloped/ThreadTone)
+- [Instagram is building an app for kids under 13](https://www.bloomberg.com/news/articles/2021-03-18/facebook-building-a-version-of-instagram-for-kids-under-13)
+- [Creators in the Passion Economy Deserve Better](https://viralwegrow.com/blog/creators-deserve-better/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: UK says EU vaccine threat 'needs explaining'; Tanzania president dies](https://www.theguardian.com/world/live/2021/mar/18/coronavirus-live-news-uk-says-eu-vaccine-threat-needs-explaining-tanzania-president-dies)
-- [Tokyo Olympics ceremonies chief 'offers to quit' over sexist comment](https://www.theguardian.com/sport/2021/mar/18/tokyo-olympics-ceremonies-chief-hiroshi-sasaki-sexism)
-- [Space oddity Oumuamua probably shard of Pluto-like world, scientists say](https://www.theguardian.com/science/2021/mar/18/space-oddity-oumuamua-probably-shard-of-pluto-like-world-scientists-say)
-- [Asylum seekers 'could be sent abroad by UK to be processed'](https://www.theguardian.com/uk-news/2021/mar/18/asylum-seekers-could-be-sent-abroad-by-uk-to-be-processed)
-- [Kovrig and Spavor: China set to begin trial of two Canadians](https://www.theguardian.com/world/2021/mar/18/kovrig-and-spavor-china-set-to-begin-trial-of-two-canadians)
-- [Kwasi Kwarteng must hold line on corporate and audit reforms](https://www.theguardian.com/business/nils-pratley-on-finance/2021/mar/18/kwasi-kwarteng-needs-to-hold-line-on-corporate-and-audit-reforms)
-- [Blanket 'do not resuscitate' orders imposed on English care homes, finds CQC](https://www.theguardian.com/society/2021/mar/18/blanket-do-not-resuscitate-orders-imposed-on-english-care-homes-finds-cqc)
-- [Delaying England's winter lockdown 'caused up to 27,000 extra Covid deaths'](https://www.theguardian.com/uk-news/2021/mar/18/delaying-englands-winter-lockdown-caused-up-to-27000-extra-covid-deaths)
-- [UK social media influencers warned over ad rules breaches](https://www.theguardian.com/media/2021/mar/18/uk-social-media-influencers-warned-over-ad-rules-breaches)
-- [Bonus reforms 'biggest shake-up of UK corporate governance in years'](https://www.theguardian.com/business/2021/mar/18/bonus-reforms-biggest-shake-up-of-uk-corporate-governance-in-years)
+- ['Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'](https://www.theguardian.com/us-news/2021/mar/18/atlanta-spa-shootings-congress-house-biden)
+- [US and China publicly rebuke each other in first major talks of Biden era](https://www.theguardian.com/world/2021/mar/19/us-china-talks-alaska-biden-blinken-sullivan-wang)
+- [Lockdown boredom drives UK video games market to £7bn record high](https://www.theguardian.com/games/2021/mar/19/lockdown-boredom-drives-uk-video-games-market-to-7bn-record-high)
+- [UN’s Kunming biodiversity summit delayed a second time](https://www.theguardian.com/environment/2021/mar/19/cop15-kunming-un-biodiversity-summit-delayed-aoe)
+- [Oscars 2021 ceremony will be in-person and Zoom-free, producers say](https://www.theguardian.com/film/2021/mar/19/oscars-2021-ceremony-in-person-93rd-academy-awards-oscar-nominations)
+- [Actor Armie Hammer under investigation for 2017 sexual assault allegation](https://www.theguardian.com/film/2021/mar/18/armie-hammer-accused-rape-2017-effie)
+- [FA Cup, Premier League, Old Firm and WSL: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/mar/19/fa-cup-premier-league-wsl-rangers-celtic-10-things-to-look-out-for-this-weekend)
+- [Rangers accuse Slavia Prague's Kudela of racial abuse in Europa League loss](https://www.theguardian.com/football/2021/mar/18/rangers-slavia-prague-europa-league-match-report)
+- [DUP will ‘vigorously oppose’ UK intervention to speed up NI abortion services](https://www.theguardian.com/world/2021/mar/18/uk-to-force-northern-ireland-to-speed-up-abortion-services)
+- [Covid: viral shedding is greatest in afternoon, study suggests](https://www.theguardian.com/world/2021/mar/18/covid-viral-shedding-is-greatest-in-afternoon-study-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Manim – an animation engine for explanatory math videos](https://3b1b.github.io/manim/index.html)
-- [Apple’s M1 processor and the full 128-bit integer product](https://lemire.me/blog/2021/03/17/apples-m1-processor-and-the-full-128-bit-integer-product/)
-- [Jello 3D Printer](https://spritesmods.com/?art=jello3dprinter)
-- [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
-- [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
-- [Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals](https://jobs.lever.co/zeus/37f99a58-f1ea-413f-857b-7bd5efb285a8)
-- [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
-- [Charts.css](https://chartscss.org/)
-- [Show HN: Attract more customers by highlighting why people trust you](http://shoutout.so/)
-- [Launch HN: Chums (YC W21) – Shop online with friends](https://news.ycombinator.com/item?id=26493938)
+- [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
+- [Spain: Parliament passes law legalizing assisted suicide](https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713)
+- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
+- [MOnSter 6502](https://monster6502.com/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [Morning Brew went from college newsletter to $75M in 5 years](https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/)
+- [Show HN: SpectaQL – auto-generate GraphQL API documentation](https://github.com/anvilco/spectaql#spectaql)
+- [We found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+- [U.S. Government Finally Gets Serious About IoT Security](https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security)
+- [A Directory of Personal Blogs](https://blogsurf.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Hackers target developers to break into Apple’s garden](https://www.computerworld.com/article/3612253/hackers-target-developers-to-break-into-apples-garden.html#tk.rss_all)
+- [Podcast: FCC to auction off 5G bandwidth; Apple data privacy update](https://www.computerworld.com/article/3612233/podcast-fcc-to-auction-off-5g-bandwidth-apple-data-privacy-update.html#tk.rss_all)
+- [Android apps for Chromebooks: The essentials](https://www.computerworld.com/article/3234533/android-apps-for-chromebooks-the-essentials.html#tk.rss_all)
 - [How to make more effective use of Mail in macOS](https://www.computerworld.com/article/3611859/how-to-make-more-effective-use-of-mail-in-macos.html#tk.rss_all)
 - [Microsoft provides Exchange Server defensive tool to help SMBs stymie zero-day attacks](https://www.computerworld.com/article/3612128/microsoft-provides-exchange-server-defensive-tool-to-help-smbs-stymie-zero-day-attacks.html#tk.rss_all)
 - [BrandPost: Optimize Your HCI From Edge to Core](https://www.computerworld.com/article/3612070/optimize-your-hci-from-edge-to-core.html#tk.rss_all)
 - [Email is for yesterday, today, and tomorrow](https://www.computerworld.com/article/3611814/e-mail-is-for-yesterday-today-and-tomorrow.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Use Stacks and Search in macOS to get work done](https://www.computerworld.com/article/3611675/use-stacks-and-search-in-macos-to-get-work-done.html#tk.rss_all)
 - [WFH boom makes ‘employee experience’ a C-suite priority, says Microsoft Viva chief](https://www.computerworld.com/article/3611855/wfh-boom-makes-employee-experience-a-c-suite-priority-says-microsoft-viva-chief.html#tk.rss_all)
-- [Microsoft follows Google and Chrome, shifts Edge to four-week release pace](https://www.computerworld.com/article/3611512/microsoft-follows-google-and-chrome-shifts-edge-to-four-week-release-pace.html#tk.rss_all)
-- [Apple lives by its own privacy rules](https://www.computerworld.com/article/3611848/apple-lives-by-its-own-privacy-rules.html#tk.rss_all)
-- [Stuck on Windows 10 1909? Some workarounds on moving forward](https://www.computerworld.com/article/3611672/stuck-on-windows-10-1909-some-workarounds-on-moving-forward.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Ways Enterprises Can Use the Edge](https://www.informationweek.com/big-data/10-ways-enterprises-can-use-the-edge/d/d-id/1340441?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Break Gender Gridlock in Cybersecurity Careers](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-break-gender-gridlock-in-cybersecurity-careers/a/d-id/1340425?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [6 Tips for IT Pros Aspiring To Be a Modern-Day CIO](https://www.informationweek.com/strategic-cio/6-tips-for-it-pros-aspiring-to-be-a-modern-day-cio-/a/d-id/1340395?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Finding the Right Balance of On-Site and At-Home IT Workers](https://www.informationweek.com/strategic-cio/finding-the-right-balance-of-on-site-and-at-home-it-workers-/a/d-id/1340409?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -375,12 +376,14 @@
 - [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How a Sponsor Can Help Elevate Your Career in IT](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-a-sponsor-can-help-elevate-your-career-in-it-/a/d-id/1340373?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIO Agenda for Right Now: Priorities a Year Into the Pandemic](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-agenda-for-right-now-priorities-a-year-into-the-pandemic/d/d-id/1340370?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [10 Hot IT Job Titles for 2021](https://www.informationweek.com/strategic-cio/10-hot-it-job-titles-for-2021/d/d-id/1340356?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Go programming gains in the workplace](https://www.infoworld.com/article/3612249/go-programming-gains-in-the-workplace.html#tk.rss_all)
+- [Knowledge management for agile and devops teams](https://www.infoworld.com/article/3611420/knowledge-management-for-agile-and-devops-teams.html#tk.rss_all)
+- [BlazingSQL review: Fast ETL for GPU-based data science](https://www.infoworld.com/article/3610188/blazingsql-review-fast-etl-for-gpu-based-data-science.html#tk.rss_all)
 - [PeachPie PHP to .NET project reaches 1.0 milestone](https://www.infoworld.com/article/3611599/peachpie-php-to-dotnet-project-reaches-10-milestone.html#tk.rss_all)
 - [Spring Native turns Spring apps into native executables](https://www.infoworld.com/article/3611975/spring-native-turns-spring-apps-into-native-executables.html#tk.rss_all)
 - [Getting started with winget, the Windows Package Manager](https://www.infoworld.com/article/3611365/getting-started-with-winget-the-windows-package-manager.html#tk.rss_all)
@@ -388,35 +391,32 @@
 - [8 great Python libraries for natural language processing](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html#tk.rss_all)
 - [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
 - [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
-- [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Coronavirus: How PCs in quarantine and intensive care units can be managed remotely](https://www.computerweekly.com/news/252498021/Coronavirus-How-PCs-in-quarantine-and-intensive-care-units-can-be-managed-remotely)
+- [Tech sector is key to the success of Global Britain](https://www.computerweekly.com/opinion/Our-tech-sector-is-key-to-the-success-of-Global-Britain)
+- [Vaccine passports cannot put basic rights at risk, warns BCS](https://www.computerweekly.com/news/252498093/Vaccine-passports-cannot-put-basic-rights-at-risk-warns-BCS)
+- [Government to bail out Post Office which can’t afford to pay compensation to subpostmasters](https://www.computerweekly.com/news/252498087/Government-to-bail-out-Post-Office-which-cant-afford-to-pay-compensation-to-subpostmasters)
+- [Reshaping the women-in-tech debate in Denmark, from the top down](https://www.computerweekly.com/news/252498016/Reshaping-the-women-in-tech-debate-in-Denmark-from-the-top-down)
+- [Survey: Backup failures hit a high as pandemic working hits home](https://www.computerweekly.com/news/252498022/Survey-Backup-failures-hit-a-high-as-pandemic-working-hits-home)
+- [Subpostmasters in Court of Appeal to end 20-year torment](https://www.computerweekly.com/news/252498067/Subpostmasters-in-Court-of-Appeal-to-end-20-year-torment)
 - [PagerDuty expands European datacentre presence with help from AWS](https://www.computerweekly.com/news/252498024/PagerDuty-expands-European-datacentre-presence-with-help-from-AWS)
 - [Security Think Tank: Take a realistic perspective on CNI cyber attacks](https://www.computerweekly.com/opinion/Security-Think-Tank-Take-a-realistic-perspective-on-CNI-cyber-attacks)
 - [Google Cloud shares carbon-free datacentre energy usage stats with users](https://www.computerweekly.com/news/252497993/Google-Cloud-shares-carbon-free-datacentre-energy-usage-stats-with-users)
-- [Average ransomware cost triples, says report](https://www.computerweekly.com/news/252498029/Average-ransomware-cost-triples-says-report)
-- [Digital Green Certificate proposed for travel in Europe](https://www.computerweekly.com/news/252498023/Digital-Green-Certificate-proposed-for-travel-in-Europe)
-- [Uber classifies drivers as workers after Supreme Court ruling](https://www.computerweekly.com/news/252498028/Uber-classifies-drivers-as-workers-after-Supreme-Court-ruling)
-- [Security Think Tank: CNI operators must focus on core issues](https://www.computerweekly.com/opinion/Security-Think-Tank-CNI-operators-must-focus-on-core-issues)
-- [Cyber sector welcomes PM’s defence review](https://www.computerweekly.com/news/252497999/Cyber-sector-welcomes-PMs-defence-review)
-- [One-fifth of all UK tech investment went to just 10 scaleup firms in 2020](https://www.computerweekly.com/news/252497962/One-fifth-of-all-UK-tech-investment-went-to-just-10-scaleup-firms-in-2020)
-- [Insurers unable to fill a quarter of tech roles](https://www.computerweekly.com/news/252497944/Insurers-unable-to-fill-a-quarter-of-tech-roles)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
+- [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
+- [Hey good Moring guys](https://www.reddit.com/r/InformationTechnology/comments/m7r1eb/hey_good_moring_guys/)
 - [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
 - [Got hit up for a job but haven't heard back...](https://www.reddit.com/r/InformationTechnology/comments/m7crtj/got_hit_up_for_a_job_but_havent_heard_back/)
-- [hey my guys, I'm new IT. any suggestions?](https://www.reddit.com/r/InformationTechnology/comments/m7c55y/hey_my_guys_im_new_it_any_suggestions/)
-- [Alternative to print to PDF, but doesn't use print spooler](https://www.reddit.com/r/InformationTechnology/comments/m7ajo5/alternative_to_print_to_pdf_but_doesnt_use_print/)
 - [Help with IT](https://www.reddit.com/r/InformationTechnology/comments/m781om/help_with_it/)
-- [Pluralsight](https://www.reddit.com/r/InformationTechnology/comments/m761ym/pluralsight/)
 - [Resources to improve communication skills for IT people](https://www.reddit.com/r/InformationTechnology/comments/m72wxc/resources_to_improve_communication_skills_for_it/)
 - [Technical Support Fundamentals by Google On Coursera](https://www.reddit.com/r/InformationTechnology/comments/m6z34i/technical_support_fundamentals_by_google_on/)
 - [Question about routers and bandwidth](https://www.reddit.com/r/InformationTechnology/comments/m6urv9/question_about_routers_and_bandwidth/)
@@ -426,16 +426,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel 11th Gen ‘Rocket Lake-S’ processor features: Cypress Cove, overclocking and more](https://www.itworldcanada.com/article/intel-10th-gen-rocket-lake-s-processor-features-cypress-cove-overclocking-and-more/444151)
+- [Digital experienced directors are rare at the top 100 TSX corporations – that’s a problem](https://www.itworldcanada.com/blog/digital-experienced-directors-are-rare-at-the-top-100-tsx-corporations-thats-a-problem/443980)
+- [Business email scams cost Americans over $1.8 billion in 2020: FBI report](https://www.itworldcanada.com/article/business-email-scams-cost-americans-over-1-8-billion-in-2020-fbi-report/444077)
+- [Hashtag Trending, March 18, 2021 – Clubhouse knockoffs; Car location data for the U.S. military; Eight-hour workdays](https://www.itworldcanada.com/article/hashtag-trending-march-18-2021-clubhouse-knockoffs-car-location-data-for-the-u-s-military-eight-hour-workdays/444075)
 - [Leader of Twitter celebrity hack and bitcoin scam sentenced to three years](https://www.itworldcanada.com/article/leader-of-twitter-celebrity-hack-and-bitcoin-scam-sentenced-to-three-years/444059)
 - [Canada’s big carriers, ISPs turn thumbs down on proposed mandatory botnet-fighting regime](https://www.itworldcanada.com/article/canadas-big-carriers-isps-turn-thumbs-down-on-proposed-mandatory-botnet-fighting-regime/444050)
 - [AMD 3rd-gen ‘Milan’ Epyc 7003 series processors features overview](https://www.itworldcanada.com/article/amd-3rd-gen-milan-epyc-7003-series-processors-features-overview/443983)
 - [Hashtag Trending, March 17, 2021 – DuckDuckGo calls out competitors; Building a new web browser; Rogers-Shaw deal follow up](https://www.itworldcanada.com/article/hashtag-trending-march-17-2021-duckduckgo-calls-out-competitors-building-a-new-web-browser-rogers-shaw-deal-follow-up/444056)
 - [Cyber Security Today, March 17, 2021 – FBI warning on ransomware, how the pandemic has affected IT security and a new botnet threat](https://www.itworldcanada.com/article/cyber-security-today-march-17-2021-fbi-warning-on-ransomware-how-the-pandemic-has-affected-it-security-and-a-new-botnet-threat/444018)
 - [Learn what to do before and after being hit with a cyberattack](https://www.itworldcanada.com/article/learn-what-to-do-before-and-after-being-hit-with-a-cyber-attack/444022)
-- [Threat actor uses JPG files for exfiltrating credit card data](https://www.itworldcanada.com/article/threat-actor-uses-jpg-files-for-exfiltrating-credit-card-data/443969)
-- [Hashtag Trending, March 16, 2021 – Rogers’ $26B bid for Shaw; Head offices disappearing in Calgary; Tinder’s background checks](https://www.itworldcanada.com/article/hashtag-trending-march-16-2021-rogers-26b-bid-for-shaw-head-offices-disappearing-in-calgary-tinders-background-checks/443962)
-- [Rogers seeks to buy Shaw for $26 billion](https://www.itworldcanada.com/article/rogers-seeks-to-buy-shaw-for-26-billion/443932)
-- [Microsoft investigates possible leak that enabled hackers to exploit Exchange](https://www.itworldcanada.com/article/did-a-microsoft-partner-play-a-role-in-enabling-hackers-to-exploit-exchange/443916)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -426,16 +426,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel 11th Gen ‘Rocket Lake-S’ processor features: Cypress Cove, overclocking and more](https://www.itworldcanada.com/article/intel-10th-gen-rocket-lake-s-processor-features-cypress-cove-overclocking-and-more/444151)
+- [Digital experienced directors are rare at the top 100 TSX corporations – that’s a problem](https://www.itworldcanada.com/blog/digital-experienced-directors-are-rare-at-the-top-100-tsx-corporations-thats-a-problem/443980)
+- [Business email scams cost Americans over $1.8 billion in 2020: FBI report](https://www.itworldcanada.com/article/business-email-scams-cost-americans-over-1-8-billion-in-2020-fbi-report/444077)
+- [Hashtag Trending, March 18, 2021 – Clubhouse knockoffs; Car location data for the U.S. military; Eight-hour workdays](https://www.itworldcanada.com/article/hashtag-trending-march-18-2021-clubhouse-knockoffs-car-location-data-for-the-u-s-military-eight-hour-workdays/444075)
 - [Leader of Twitter celebrity hack and bitcoin scam sentenced to three years](https://www.itworldcanada.com/article/leader-of-twitter-celebrity-hack-and-bitcoin-scam-sentenced-to-three-years/444059)
 - [Canada’s big carriers, ISPs turn thumbs down on proposed mandatory botnet-fighting regime](https://www.itworldcanada.com/article/canadas-big-carriers-isps-turn-thumbs-down-on-proposed-mandatory-botnet-fighting-regime/444050)
 - [AMD 3rd-gen ‘Milan’ Epyc 7003 series processors features overview](https://www.itworldcanada.com/article/amd-3rd-gen-milan-epyc-7003-series-processors-features-overview/443983)
 - [Hashtag Trending, March 17, 2021 – DuckDuckGo calls out competitors; Building a new web browser; Rogers-Shaw deal follow up](https://www.itworldcanada.com/article/hashtag-trending-march-17-2021-duckduckgo-calls-out-competitors-building-a-new-web-browser-rogers-shaw-deal-follow-up/444056)
 - [Cyber Security Today, March 17, 2021 – FBI warning on ransomware, how the pandemic has affected IT security and a new botnet threat](https://www.itworldcanada.com/article/cyber-security-today-march-17-2021-fbi-warning-on-ransomware-how-the-pandemic-has-affected-it-security-and-a-new-botnet-threat/444018)
 - [Learn what to do before and after being hit with a cyberattack](https://www.itworldcanada.com/article/learn-what-to-do-before-and-after-being-hit-with-a-cyber-attack/444022)
-- [Threat actor uses JPG files for exfiltrating credit card data](https://www.itworldcanada.com/article/threat-actor-uses-jpg-files-for-exfiltrating-credit-card-data/443969)
-- [Hashtag Trending, March 16, 2021 – Rogers’ $26B bid for Shaw; Head offices disappearing in Calgary; Tinder’s background checks](https://www.itworldcanada.com/article/hashtag-trending-march-16-2021-rogers-26b-bid-for-shaw-head-offices-disappearing-in-calgary-tinders-background-checks/443962)
-- [Rogers seeks to buy Shaw for $26 billion](https://www.itworldcanada.com/article/rogers-seeks-to-buy-shaw-for-26-billion/443932)
-- [Microsoft investigates possible leak that enabled hackers to exploit Exchange](https://www.itworldcanada.com/article/did-a-microsoft-partner-play-a-role-in-enabling-hackers-to-exploit-exchange/443916)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

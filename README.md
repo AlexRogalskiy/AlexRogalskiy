@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida teenager to spend three years in prison after hacking Apple’s Twitter](https://9to5mac.com/2021/03/16/apple-twitter-hacker-three-years-prison/)
-- [Node.js – v15.12.0](https://nodejs.org/en/blog/release/v15.12.0/)
-- [What is making Canadian butter harder? [video]](https://www.youtube.com/watch?v=7RM1zjkuEBE&ab_channel=CBCNews)
-- [SkyTran – Personalized Public Rapid Transit](https://robologiclab.com/skytran-personalized-public-rapid-transit/)
-- [Scala 3.0 (3 Videos)](http://diego-pacheco.blogspot.com/2021/03/scala-30.html)
-- [Space oddity Oumuamua probably shard of Pluto-like world, scientists say](https://www.theguardian.com/science/2021/mar/18/space-oddity-oumuamua-probably-shard-of-pluto-like-world-scientists-say)
-- [The Future of Cloud Is Microsoft’s to Lose](https://www.lastweekinaws.com/blog/the-future-of-cloud-is-microsofts-to-lose/)
-- [Focalboard – a self-hosted alternative to Trello, Notion, and Asana](https://www.focalboard.com/)
-- [Advice on looking for a new software engineering job](https://www.evanjones.ca/software-job-search-advice.html)
-- [U.S. officials pushed Brazil to reject Russia’s coronavirus vaccine](https://www.washingtonpost.com/world/2021/03/16/hhs-brazil-sputnik-russia/)
+- [Greenwald: Yesterday Journalists Spread a Significant Lie All over Twitter](https://greenwald.substack.com/p/journalists-illustrating-how-they)
+- [Relativity lands Silver Lake investment in deal that values the company at $3.6B](https://www.bizjournals.com/chicago/inno/stories/news/2021/03/18/relativity-lands-silver-lake-investment-in-deal.html)
+- [Norway, Sweden, Denmark wait before restarting AstraZeneca vaccinations](https://www.euronews.com/2021/03/18/norway-sweden-denmark-wait-before-restarting-astrazeneca-vaccinations)
+- [Nyxt Browser](https://nyxt.atlas.engineer/)
+- [Potential model for a real physical warp drive](https://phys.org/news/2021-03-potential-real-physical-warp.html)
+- [Cofounders of bankrupt poop-testing startup uBiome have been charged with fraud](https://www.businessinsider.com/ubiome-cofounders-zachary-apte-jessica-richman-sec-charges-2021-3)
+- [Joint All-Domain Command and Control](https://crsreports.congress.gov/product/pdf/R/R46725)
+- [ThreadTone – a halftone representation of an image made of thread](https://github.com/theveloped/ThreadTone)
+- [Instagram is building an app for kids under 13](https://www.bloomberg.com/news/articles/2021-03-18/facebook-building-a-version-of-instagram-for-kids-under-13)
+- [Creators in the Passion Economy Deserve Better](https://viralwegrow.com/blog/creators-deserve-better/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

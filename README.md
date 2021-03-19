@@ -351,16 +351,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Hackers target developers to break into Apple’s garden](https://www.computerworld.com/article/3612253/hackers-target-developers-to-break-into-apples-garden.html#tk.rss_all)
+- [Podcast: FCC to auction off 5G bandwidth; Apple data privacy update](https://www.computerworld.com/article/3612233/podcast-fcc-to-auction-off-5g-bandwidth-apple-data-privacy-update.html#tk.rss_all)
+- [Android apps for Chromebooks: The essentials](https://www.computerworld.com/article/3234533/android-apps-for-chromebooks-the-essentials.html#tk.rss_all)
 - [How to make more effective use of Mail in macOS](https://www.computerworld.com/article/3611859/how-to-make-more-effective-use-of-mail-in-macos.html#tk.rss_all)
 - [Microsoft provides Exchange Server defensive tool to help SMBs stymie zero-day attacks](https://www.computerworld.com/article/3612128/microsoft-provides-exchange-server-defensive-tool-to-help-smbs-stymie-zero-day-attacks.html#tk.rss_all)
 - [BrandPost: Optimize Your HCI From Edge to Core](https://www.computerworld.com/article/3612070/optimize-your-hci-from-edge-to-core.html#tk.rss_all)
 - [Email is for yesterday, today, and tomorrow](https://www.computerworld.com/article/3611814/e-mail-is-for-yesterday-today-and-tomorrow.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Use Stacks and Search in macOS to get work done](https://www.computerworld.com/article/3611675/use-stacks-and-search-in-macos-to-get-work-done.html#tk.rss_all)
 - [WFH boom makes ‘employee experience’ a C-suite priority, says Microsoft Viva chief](https://www.computerworld.com/article/3611855/wfh-boom-makes-employee-experience-a-c-suite-priority-says-microsoft-viva-chief.html#tk.rss_all)
-- [Microsoft follows Google and Chrome, shifts Edge to four-week release pace](https://www.computerworld.com/article/3611512/microsoft-follows-google-and-chrome-shifts-edge-to-four-week-release-pace.html#tk.rss_all)
-- [Apple lives by its own privacy rules](https://www.computerworld.com/article/3611848/apple-lives-by-its-own-privacy-rules.html#tk.rss_all)
-- [Stuck on Windows 10 1909? Some workarounds on moving forward](https://www.computerworld.com/article/3611672/stuck-on-windows-10-1909-some-workarounds-on-moving-forward.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

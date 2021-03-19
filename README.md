@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Silence_means_consent_925.php" target="_blank"><i>Silence means consent</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/He_that_wills_the_end_wills_the_means_962.php" target="_blank"><i>He that wills the end wills the means</i></a>
 <span> = </span>
-<span>The idea here is that if you don't disagree, you automatically agree. Keeping quiet is the same as giving permission.</span>
+<span>If you are determined to do something you will find the way to do it.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

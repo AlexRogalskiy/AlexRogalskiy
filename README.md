@@ -381,6 +381,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Go programming gains in the workplace](https://www.infoworld.com/article/3612249/go-programming-gains-in-the-workplace.html#tk.rss_all)
+- [Knowledge management for agile and devops teams](https://www.infoworld.com/article/3611420/knowledge-management-for-agile-and-devops-teams.html#tk.rss_all)
+- [BlazingSQL review: Fast ETL for GPU-based data science](https://www.infoworld.com/article/3610188/blazingsql-review-fast-etl-for-gpu-based-data-science.html#tk.rss_all)
 - [PeachPie PHP to .NET project reaches 1.0 milestone](https://www.infoworld.com/article/3611599/peachpie-php-to-dotnet-project-reaches-10-milestone.html#tk.rss_all)
 - [Spring Native turns Spring apps into native executables](https://www.infoworld.com/article/3611975/spring-native-turns-spring-apps-into-native-executables.html#tk.rss_all)
 - [Getting started with winget, the Windows Package Manager](https://www.infoworld.com/article/3611365/getting-started-with-winget-the-windows-package-manager.html#tk.rss_all)
@@ -388,9 +391,6 @@
 - [8 great Python libraries for natural language processing](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html#tk.rss_all)
 - [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
 - [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Tech Resume Library: 25 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
-- [Forget databases. You need a data platform](https://www.infoworld.com/article/3611403/forget-databases-you-need-a-data-platform.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

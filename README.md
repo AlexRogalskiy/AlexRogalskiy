@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- ['Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'](https://www.theguardian.com/us-news/2021/mar/18/atlanta-spa-shootings-congress-house-biden)
-- [US and China publicly rebuke each other in first major talks of Biden era](https://www.theguardian.com/world/2021/mar/19/us-china-talks-alaska-biden-blinken-sullivan-wang)
-- [Lockdown boredom drives UK video games market to £7bn record high](https://www.theguardian.com/games/2021/mar/19/lockdown-boredom-drives-uk-video-games-market-to-7bn-record-high)
-- [UN’s Kunming biodiversity summit delayed a second time](https://www.theguardian.com/environment/2021/mar/19/cop15-kunming-un-biodiversity-summit-delayed-aoe)
-- [Oscars 2021 ceremony will be in-person and Zoom-free, producers say](https://www.theguardian.com/film/2021/mar/19/oscars-2021-ceremony-in-person-93rd-academy-awards-oscar-nominations)
-- [Actor Armie Hammer under investigation for 2017 sexual assault allegation](https://www.theguardian.com/film/2021/mar/18/armie-hammer-accused-rape-2017-effie)
-- [FA Cup, Premier League, Old Firm and WSL: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/mar/19/fa-cup-premier-league-wsl-rangers-celtic-10-things-to-look-out-for-this-weekend)
-- [Rangers accuse Slavia Prague's Kudela of racial abuse in Europa League loss](https://www.theguardian.com/football/2021/mar/18/rangers-slavia-prague-europa-league-match-report)
-- [DUP will ‘vigorously oppose’ UK intervention to speed up NI abortion services](https://www.theguardian.com/world/2021/mar/18/uk-to-force-northern-ireland-to-speed-up-abortion-services)
-- [Covid: viral shedding is greatest in afternoon, study suggests](https://www.theguardian.com/world/2021/mar/18/covid-viral-shedding-is-greatest-in-afternoon-study-suggests)
+- [NSW weather live: Warragamba Dam set to spill over as Sydneysiders urged to stay home amid flooding, heavy rain](https://www.theguardian.com/australia-news/live/2021/mar/20/nsw-weather-live-ses-issues-evacuation-orders-as-sydneysiders-urged-to-stay-home-live)
+- ['Our silence is complicity': Biden and Harris condemn anti-Asian violence during Atlanta visit](https://www.theguardian.com/us-news/2021/mar/19/atlanta-spa-shootings-biden-harris-visit)
+- [Iceland volcano: eruption under way in Fagradalsfjall near Reykjavik](https://www.theguardian.com/world/2021/mar/19/iceland-volcano-eruption-under-way-in-fagradalsfjall-near-reykjavik)
+- [Biden 'doing fine' after stumbling once, twice, thrice on steps of Air Force One](https://www.theguardian.com/us-news/2021/mar/19/joe-biden-fall-stumble-air-force-one)
+- [Raphinha’s strike for Leeds piles relegation pressure on Fulham](https://www.theguardian.com/football/2021/mar/19/fulham-leeds-premier-league-match-report)
+- [The Flight Attendant review – strap in for a first-class murder mystery](https://www.theguardian.com/tv-and-radio/2021/mar/19/the-flight-attendant-review-kaley-cuoco)
+- [Arsenal hold on to beat Manchester United in WSL despite Mead red card](https://www.theguardian.com/football/2021/mar/19/arsenal-boost-champions-league-hopes-with-wsl-win-over-manchester-united)
+- [Six Nations heads into Super Saturday that may not bring title winner | Robert Kitson](https://www.theguardian.com/sport/2021/mar/19/six-nations-super-saturday-rugby-union)
+- [The Kindling Hour review – Arthurian legend meets Hitchcockian thrills](https://www.theguardian.com/stage/2021/mar/19/the-kindling-hour-review-arthurian-legend-meets-hitchcockian-thrills)
+- [Jack Wilshere: 'In hindsight it probably wasn’t right to leave Arsenal'](https://www.theguardian.com/football/2021/mar/19/jack-wilshere-bournemouth-fa-cup-leave-arsenal-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

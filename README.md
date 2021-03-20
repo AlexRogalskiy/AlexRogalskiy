@@ -381,6 +381,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to pick cloud dev tools and infrastructure](https://www.infoworld.com/article/3612251/how-to-pick-cloud-dev-tools-and-infrastructure.html#tk.rss_all)
+- [Apple proposes actor model for Swift concurrency](https://www.infoworld.com/article/3612176/apple-proposes-actor-model-for-swift-concurrency.html#tk.rss_all)
 - [Go programming gains in the workplace](https://www.infoworld.com/article/3612249/go-programming-gains-in-the-workplace.html#tk.rss_all)
 - [Knowledge management for agile and devops teams](https://www.infoworld.com/article/3611420/knowledge-management-for-agile-and-devops-teams.html#tk.rss_all)
 - [BlazingSQL review: Fast ETL for GPU-based data science](https://www.infoworld.com/article/3610188/blazingsql-review-fast-etl-for-gpu-based-data-science.html#tk.rss_all)
@@ -389,8 +391,6 @@
 - [Getting started with winget, the Windows Package Manager](https://www.infoworld.com/article/3611365/getting-started-with-winget-the-windows-package-manager.html#tk.rss_all)
 - [Containers need standard operating environments too](https://www.infoworld.com/article/3609615/containers-need-standard-operating-environments-too.html#tk.rss_all)
 - [8 great Python libraries for natural language processing](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html#tk.rss_all)
-- [JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html#tk.rss_all)
-- [Why loosely coupled state in public clouds is better](https://www.infoworld.com/article/3611407/why-loosely-coupled-state-in-public-clouds-is-better.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

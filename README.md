@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/H/hammer_out_2913.php" target="_blank"><i>hammer out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/pass_around_2378.php" target="_blank"><i>pass around</i></a>
 <span> = </span>
-<span>to reach an agreement or solution after a lot of negotiation or discussion<BR></span>
+<span>to pass something from person to person in a group</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

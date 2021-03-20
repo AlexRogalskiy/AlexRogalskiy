@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
-- [Spain: Parliament passes law legalizing assisted suicide](https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713)
-- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
-- [MOnSter 6502](https://monster6502.com/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
-- [Morning Brew went from college newsletter to $75M in 5 years](https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/)
-- [Show HN: SpectaQL – auto-generate GraphQL API documentation](https://github.com/anvilco/spectaql#spectaql)
-- [We found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
-- [U.S. Government Finally Gets Serious About IoT Security](https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security)
-- [A Directory of Personal Blogs](https://blogsurf.io)
+- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
+- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
+- [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
+- [New Intel “backdoor” – undocumented x86 instruction to alter microcode](https://twitter.com/_markel___/status/1373059797155778562)
+- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
+- [Click](https://clickclickclick.click/)
+- [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
+- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
+- [Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer](https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

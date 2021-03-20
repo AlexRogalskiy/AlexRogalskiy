@@ -411,16 +411,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
+- [Just a quick question](https://www.reddit.com/r/InformationTechnology/comments/m8oshr/just_a_quick_question/)
+- [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
+- [Any Recommendation for Cell phone Location Tracking](https://www.reddit.com/r/InformationTechnology/comments/m8jqqb/any_recommendation_for_cell_phone_location/)
+- [Career Choice](https://www.reddit.com/r/InformationTechnology/comments/m8i5jz/career_choice/)
+- [Information Technology Discord Server - A place to talk about IT with friends](https://www.reddit.com/r/InformationTechnology/comments/m8cw8v/information_technology_discord_server_a_place_to/)
 - [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
 - [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
 - [Hey good Moring guys](https://www.reddit.com/r/InformationTechnology/comments/m7r1eb/hey_good_moring_guys/)
 - [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
-- [Got hit up for a job but haven't heard back...](https://www.reddit.com/r/InformationTechnology/comments/m7crtj/got_hit_up_for_a_job_but_havent_heard_back/)
-- [Help with IT](https://www.reddit.com/r/InformationTechnology/comments/m781om/help_with_it/)
-- [Resources to improve communication skills for IT people](https://www.reddit.com/r/InformationTechnology/comments/m72wxc/resources_to_improve_communication_skills_for_it/)
-- [Technical Support Fundamentals by Google On Coursera](https://www.reddit.com/r/InformationTechnology/comments/m6z34i/technical_support_fundamentals_by_google_on/)
-- [Question about routers and bandwidth](https://www.reddit.com/r/InformationTechnology/comments/m6urv9/question_about_routers_and_bandwidth/)
-- [VPN connection](https://www.reddit.com/r/InformationTechnology/comments/m6u8bh/vpn_connection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

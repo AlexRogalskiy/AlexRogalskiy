@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/U/umpteen_1109.php" target="_blank"><i>umpteen</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Music/mosh_pit_1448.php" target="_blank"><i>mosh pit</i></a>
 <span> = </span>
-<span>many, countless</span>
+<span>an area in front of the stage at a rock concert where people dance energetically, or "mosh"</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

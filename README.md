@@ -396,16 +396,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UKtech50 2021: Panel 2- Making innovation count](https://www.computerweekly.com/video/UKtech50-2021-Panel-2-Making-innovation-count)
+- [UKtech50 2021: Panel 1 - Digital leadership](https://www.computerweekly.com/video/UKtech50-2021-Panel-1-Digital-leadership)
+- [UKtech50 2021: Bev White, CEO Harvey Nash Group](https://www.computerweekly.com/video/UKtech50-2021-Bev-White-CEO-Harvey-Nash-Group)
+- [Coronavirus leads to legacy modernisation cloud boost](https://www.computerweekly.com/news/252498147/Coronavirus-leads-to-legacy-modernisation-cloud-boost)
+- [Post Office IT scandal executive forced out of job at Football Association of Wales](https://www.computerweekly.com/news/252498141/Post-Office-IT-scandal-executive-forced-out-of-job-at-Football-Association-of-Wales)
+- [Security Think Tank: Properly protecting CNI demands specificity](https://www.computerweekly.com/opinion/Security-Think-Tank-Properly-protecting-CNI-demands-specificity)
 - [Coronavirus: How PCs in quarantine and intensive care units can be managed remotely](https://www.computerweekly.com/news/252498021/Coronavirus-How-PCs-in-quarantine-and-intensive-care-units-can-be-managed-remotely)
 - [Tech sector is key to the success of Global Britain](https://www.computerweekly.com/opinion/Our-tech-sector-is-key-to-the-success-of-Global-Britain)
-- [Vaccine passports cannot put basic rights at risk, warns BCS](https://www.computerweekly.com/news/252498093/Vaccine-passports-cannot-put-basic-rights-at-risk-warns-BCS)
-- [Government to bail out Post Office which can’t afford to pay compensation to subpostmasters](https://www.computerweekly.com/news/252498087/Government-to-bail-out-Post-Office-which-cant-afford-to-pay-compensation-to-subpostmasters)
-- [Reshaping the women-in-tech debate in Denmark, from the top down](https://www.computerweekly.com/news/252498016/Reshaping-the-women-in-tech-debate-in-Denmark-from-the-top-down)
-- [Survey: Backup failures hit a high as pandemic working hits home](https://www.computerweekly.com/news/252498022/Survey-Backup-failures-hit-a-high-as-pandemic-working-hits-home)
-- [Subpostmasters in Court of Appeal to end 20-year torment](https://www.computerweekly.com/news/252498067/Subpostmasters-in-Court-of-Appeal-to-end-20-year-torment)
-- [PagerDuty expands European datacentre presence with help from AWS](https://www.computerweekly.com/news/252498024/PagerDuty-expands-European-datacentre-presence-with-help-from-AWS)
-- [Security Think Tank: Take a realistic perspective on CNI cyber attacks](https://www.computerweekly.com/opinion/Security-Think-Tank-Take-a-realistic-perspective-on-CNI-cyber-attacks)
-- [Google Cloud shares carbon-free datacentre energy usage stats with users](https://www.computerweekly.com/news/252497993/Google-Cloud-shares-carbon-free-datacentre-energy-usage-stats-with-users)
+- [UKtech50 2021: Alison Davis, CIO, Natural History Museum](https://www.computerweekly.com/video/UKtech50-2021-Alison-Davis-CIO-Natural-History-Museum)
+- [UKtech50 2021: Ash Jokhoo, CDIO, Virgin Atlantic](https://www.computerweekly.com/video/UKtech50-2021-Ash-Jokhoo-CDIO-Virgin-Atlantic)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

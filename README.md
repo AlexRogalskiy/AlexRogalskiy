@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google's New Remote Work Tool, Threadit, Helps You Avoid Meetings](https://www.reviewgeek.com/74441/googles-new-remote-work-tool-threadit-helps-you-avoid-meetings/)
-* [A New 'Doctor Who' Found Phone Game Will Terrify You With Weeping Angels](https://www.reviewgeek.com/74365/a-new-doctor-who-found-phone-game-will-terrify-you-with-weeping-angels/)
-* [Hear the Perseverance Rover Drive Across Mars In These NASA Recordings](https://www.reviewgeek.com/74377/nasa-recordings-let-you-hear-the-perseverance-rover-as-it-drives-across-mars/)
-* [Sony's PS5 VR Controllers Put a Whole World in Your Hands](https://www.reviewgeek.com/74353/sonys-ps5-vr-controllers-put-a-whole-world-in-your-hands/)
-* [How to Add a Missing Place to Google Maps](https://www.howtogeek.com/718113/how-to-add-a-missing-place-to-google-maps/)
-* [OnePlus 9 Pro Really Will Have Stupidly Fast Wireless Charging](https://www.reviewgeek.com/74352/oneplus-9-pro-really-will-have-stupidly-fast-wireless-charging/)
-* [How to Get Live Captions For Any Video or Audio in Chrome](https://www.howtogeek.com/719328/how-to-get-live-captions-for-any-video-or-audio-in-chrome/)
-* [How to Sync Files in Microsoft Teams to Your Device](https://www.howtogeek.com/714723/how-to-sync-files-in-microsoft-teams-to-your-device/)
-* [How to Use Google Search’s Spell Check Everywhere on Chrome](https://www.howtogeek.com/716187/how-to-use-google-searchs-spell-check-everywhere-on-chrome/)
-* [How to Redirect to "www" with Nginx Ingress](https://www.cloudsavvyit.com/10240/how-to-redirect-to-www-with-nginx-ingress/)
+* [Scientists Just Measured Jupiter's Stratospheric Winds, and Wow That's Fast](https://www.reviewgeek.com/74597/scientists-just-measured-jupiters-stratospheric-winds-and-wow-thats-fast/)
+* [The BBC 'Doctor Who' Inventor Kit Teaches You to Code With Jodie Whittaker](https://www.reviewgeek.com/74580/the-bbc-doctor-who-inventor-kit-teaches-you-to-code-with-jodie-whittaker/)
+* [Barnes & Noble Taps Lenovo for New NOOK Tablet](https://www.reviewgeek.com/74560/barnes-noble-taps-lenovo-for-new-nook-tablet/)
+* [Amazon Will Be NFL's New Home for 'Thursday Night Football'](https://www.reviewgeek.com/74537/amazon-will-be-nfls-new-home-for-thursday-night-football/)
+* [How to Turn off “OK Google” on Your Android Phone or Tablet](https://www.howtogeek.com/718100/how-to-turn-off-ok-google-on-your-android-device-2/)
+* [OnePlus Shows Off Its Smartwatch Ahead of March 23rd Event](https://www.reviewgeek.com/74535/oneplus-shows-off-its-smartwatch-ahead-of-march-23rd-event/)
+* [How to Remove a Year from a Date in Microsoft Excel](https://www.howtogeek.com/714809/how-to-remove-a-year-from-a-date-in-microsoft-excel/)
+* [From International Treats to Ingredients, These Online Grocers Have It All](https://www.lifesavvy.com/58911/taste-the-world-with-these-websites/)
+* [What Is the Chrome “Reading List,” and How Do You Use It?](https://www.howtogeek.com/719357/what-is-the-chrome-reading-list-and-how-to-use-it/)
+* [What Is Heart Rate Variability (HRV) on Apple Watch, and Why Does It Matter?](https://www.howtogeek.com/714004/what-is-heart-rate-variability-hrv-on-apple-watch-and-why-it-matters/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

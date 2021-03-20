@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/T/think_the_world_of_702.php" target="_blank"><i>think the world of</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_5/dot_the_i_s_and_cross_the_t_s_281.php" target="_blank"><i>dot the i's and cross the t's</i></a>
 <span> = </span>
-<span>If you think the world of someone, you admire and respect them very much.</span>
+<span>If you dot the i's and cross the t's, you do something very carefully to make sure you haven't made any mistakes.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

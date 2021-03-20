@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Greenwald: Yesterday Journalists Spread a Significant Lie All over Twitter](https://greenwald.substack.com/p/journalists-illustrating-how-they)
-- [Relativity lands Silver Lake investment in deal that values the company at $3.6B](https://www.bizjournals.com/chicago/inno/stories/news/2021/03/18/relativity-lands-silver-lake-investment-in-deal.html)
-- [Norway, Sweden, Denmark wait before restarting AstraZeneca vaccinations](https://www.euronews.com/2021/03/18/norway-sweden-denmark-wait-before-restarting-astrazeneca-vaccinations)
-- [Nyxt Browser](https://nyxt.atlas.engineer/)
-- [Potential model for a real physical warp drive](https://phys.org/news/2021-03-potential-real-physical-warp.html)
-- [Cofounders of bankrupt poop-testing startup uBiome have been charged with fraud](https://www.businessinsider.com/ubiome-cofounders-zachary-apte-jessica-richman-sec-charges-2021-3)
-- [Joint All-Domain Command and Control](https://crsreports.congress.gov/product/pdf/R/R46725)
-- [ThreadTone – a halftone representation of an image made of thread](https://github.com/theveloped/ThreadTone)
-- [Instagram is building an app for kids under 13](https://www.bloomberg.com/news/articles/2021-03-18/facebook-building-a-version-of-instagram-for-kids-under-13)
-- [Creators in the Passion Economy Deserve Better](https://viralwegrow.com/blog/creators-deserve-better/)
+- [How much privacy should we give up for security?](https://consult.sauvik.me/posts/going-dark/)
+- [Linus Torvalds on how AMD, Intel are changing how interrupts are handled](https://www.zdnet.com/article/linus-torvalds-on-how-amd-and-intel-are-changing-how-processor-interrupts-are-handled/)
+- [Omnifmt – pretty-printer wrapper to facilitate formatting during development](https://github.com/hjwylde/omnifmt/)
+- [Why machine learning struggles with causality](https://venturebeat.com/2021/03/19/why-machine-learning-struggles-with-causality/)
+- [Scientist behind Covid shot: Cancer vaccines could be available in a few years](https://www.koin.com/news/scientist-behind-covid-shot-cancer-vaccines-could-be-available-in-a-couple-of-years/)
+- [Hacks for Data Science Interviews](https://quant-quest.github.io/)
+- [Amazon S3 Object Lambda](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
+- [Nationwide, used car prices soared 17% nationally in seven months last year](https://www.washingtonpost.com/business/2021/03/13/car-prices-inflation-economy/)
+- [The Abel Prize Laureates 2021](https://www.abelprize.no/c76389/seksjon/vis.html?tid=76390&strukt_tid=76389)
+- [Stock Music and Reality TV – How to Misrepresent the World [video]](https://www.youtube.com/watch?v=G77ev9pks4I)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -351,6 +351,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple CEO Tim Cook and the coming hybrid workplace](https://www.computerworld.com/article/3612218/apple-ceo-tim-cook-and-the-coming-hybrid-workplace.html#tk.rss_all)
+- [IBM’s Project Debater showcases next-gen AI-driven productivity](https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html#tk.rss_all)
+- [How to choose the right Windows 10 preview and update channels](https://www.computerworld.com/article/3220429/how-to-choose-the-right-windows-10-preview-and-update-channels.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Hackers target developers to break into Apple’s garden](https://www.computerworld.com/article/3612253/hackers-target-developers-to-break-into-apples-garden.html#tk.rss_all)
 - [Podcast: FCC to auction off 5G bandwidth; Apple data privacy update](https://www.computerworld.com/article/3612233/podcast-fcc-to-auction-off-5g-bandwidth-apple-data-privacy-update.html#tk.rss_all)
@@ -358,9 +361,6 @@
 - [How to make more effective use of Mail in macOS](https://www.computerworld.com/article/3611859/how-to-make-more-effective-use-of-mail-in-macos.html#tk.rss_all)
 - [Microsoft provides Exchange Server defensive tool to help SMBs stymie zero-day attacks](https://www.computerworld.com/article/3612128/microsoft-provides-exchange-server-defensive-tool-to-help-smbs-stymie-zero-day-attacks.html#tk.rss_all)
 - [BrandPost: Optimize Your HCI From Edge to Core](https://www.computerworld.com/article/3612070/optimize-your-hci-from-edge-to-core.html#tk.rss_all)
-- [Email is for yesterday, today, and tomorrow](https://www.computerworld.com/article/3611814/e-mail-is-for-yesterday-today-and-tomorrow.html#tk.rss_all)
-- [Use Stacks and Search in macOS to get work done](https://www.computerworld.com/article/3611675/use-stacks-and-search-in-macos-to-get-work-done.html#tk.rss_all)
-- [WFH boom makes ‘employee experience’ a C-suite priority, says Microsoft Viva chief](https://www.computerworld.com/article/3611855/wfh-boom-makes-employee-experience-a-c-suite-priority-says-microsoft-viva-chief.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

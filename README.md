@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646108247800070144" target="_blank"><i>The Poplar</i></a></summary>
-<p>by Vladimir Nabokov</p><p>Before this house a poplar grows<br/>Well versed in dowsing, I suppose,<br/>But how it sighs! And every night<br/>A boy in black, a girl in white<br/>Beyond the brightness of my bed<br/>Appear, and not a word is said.<br/>On coated chair and coatless chair<br/>They sit, one here, the other there.<br/>I do not care to make scene:<br/>I read a glossy magazine.<br/>He props upon his slender knee<br/>A dwarfed and potted poplar tree.<br/>And she–she seems to hold a dim<br/>Hand mirror with an ivory rim<br/>Framing a lawn, and her, and me<br/>Under the prototypic tree,<br/>Before the pillared porch, last seen<br/>In July, nineteen seventeen.<br/>This is the silver lining of<br/>Pathetic fallacies: the sough<br/>Of Populus that taps at last<br/>Not water but the author’s past.<br/>And note: nothing is ever said.<br/>I read a magazine in bed<br/>Or the Home Book of Verse; and note:<br/>This is my shirt, that is my coat.<br/>But frailer seers I am told<br/>Get up to rearrange a fold.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646198846696931328" target="_blank"><i>“Loveliest of trees, the cherry now”</i></a></summary>
+<p>by A.E. Housman<br/></p><p>Loveliest of trees, the cherry now<br/>Is hung with bloom along the bough,<br/>And stands about the woodland ride <br/>Wearing white for Eastertide.</p><p>Now, of my threescore years and ten,<br/>Twenty will not come again,<br/>And take from seventy springs a score,<br/>It only leaves me fifty more.</p><p>And since to look at things in bloom<br/>Fifty springs are little room,<br/>About the woodlands I will go <br/>To see the cherry hung with snow.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

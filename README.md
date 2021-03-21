@@ -246,8 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646108247800070144" target="_blank"><i>The Poplar</i></a></summary>
-<p>by Vladimir Nabokov</p><p>Before this house a poplar grows<br/>Well versed in dowsing, I suppose,<br/>But how it sighs! And every night<br/>A boy in black, a girl in white<br/>Beyond the brightness of my bed<br/>Appear, and not a word is said.<br/>On coated chair and coatless chair<br/>They sit, one here, the other there.<br/>I do not care to make scene:<br/>I read a glossy magazine.<br/>He props upon his slender knee<br/>A dwarfed and potted poplar tree.<br/>And she–she seems to hold a dim<br/>Hand mirror with an ivory rim<br/>Framing a lawn, and her, and me<br/>Under the prototypic tree,<br/>Before the pillared porch, last seen<br/>In July, nineteen seventeen.<br/>This is the silver lining of<br/>Pathetic fallacies: the sough<br/>Of Populus that taps at last<br/>Not water but the author’s past.<br/>And note: nothing is ever said.<br/>I read a magazine in bed<br/>Or the Home Book of Verse; and note:<br/>This is my shirt, that is my coat.<br/>But frailer seers I am told<br/>Get up to rearrange a fold.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646198846696931328" target="_blank"><i>“Loveliest of trees, the cherry now”</i></a></summary>
+<p>by A.E. Housman<br/></p><p>Loveliest of trees, the cherry now<br/>Is hung with bloom along the bough,<br/>And stands about the woodland ride <br/>Wearing white for Eastertide.</p><p>Now, of my threescore years and ten,<br/>Twenty will not come again,<br/>And take from seventy springs a score,<br/>It only leaves me fifty more.</p><p>And since to look at things in bloom<br/>Fifty springs are little room,<br/>About the woodlands I will go <br/>To see the cherry hung with snow.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-3°C (<i>snow</i>), humidity: 93%, pressure: 995 (mbar), wind: /south-east/ 7 (m/s), cloudy: 90%</b>
+        <b>-2°C (<i>light snow</i>), humidity: 86%, pressure: 991 (mbar), wind: /south-east/ 4 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>06:57 am</b> and sets at <b>19:14 pm</b>.
     </p>
@@ -291,61 +291,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Just Measured Jupiter's Stratospheric Winds, and Wow That's Fast](https://www.reviewgeek.com/74597/scientists-just-measured-jupiters-stratospheric-winds-and-wow-thats-fast/)
-* [The BBC 'Doctor Who' Inventor Kit Teaches You to Code With Jodie Whittaker](https://www.reviewgeek.com/74580/the-bbc-doctor-who-inventor-kit-teaches-you-to-code-with-jodie-whittaker/)
-* [Barnes & Noble Taps Lenovo for New NOOK Tablet](https://www.reviewgeek.com/74560/barnes-noble-taps-lenovo-for-new-nook-tablet/)
-* [Amazon Will Be NFL's New Home for 'Thursday Night Football'](https://www.reviewgeek.com/74537/amazon-will-be-nfls-new-home-for-thursday-night-football/)
-* [How to Turn off “OK Google” on Your Android Phone or Tablet](https://www.howtogeek.com/718100/how-to-turn-off-ok-google-on-your-android-device-2/)
-* [OnePlus Shows Off Its Smartwatch Ahead of March 23rd Event](https://www.reviewgeek.com/74535/oneplus-shows-off-its-smartwatch-ahead-of-march-23rd-event/)
-* [How to Remove a Year from a Date in Microsoft Excel](https://www.howtogeek.com/714809/how-to-remove-a-year-from-a-date-in-microsoft-excel/)
-* [From International Treats to Ingredients, These Online Grocers Have It All](https://www.lifesavvy.com/58911/taste-the-world-with-these-websites/)
-* [What Is the Chrome “Reading List,” and How Do You Use It?](https://www.howtogeek.com/719357/what-is-the-chrome-reading-list-and-how-to-use-it/)
-* [What Is Heart Rate Variability (HRV) on Apple Watch, and Why Does It Matter?](https://www.howtogeek.com/714004/what-is-heart-rate-variability-hrv-on-apple-watch-and-why-it-matters/)
+* [What We're Watching: 'Zack Snyder's Justice League' is Two Hours Too Long](https://www.reviewgeek.com/74626/what-were-watching-zack-snyders-justice-league-is-two-hours-too-long/)
+* [New iPad Pro Could Arrive in April with Mini-LED Display and M1-Grade Chip](https://www.reviewgeek.com/74616/new-ipad-pro-could-arrive-in-april-with-mini-led-display-and-m1-grade-chip/)
+* [How to Use a PS5 Controller on Windows 10](https://www.howtogeek.com/716390/how-to-use-a-ps5-controller-on-windows-10/)
+* [How to Disable and Remove the Google Chrome Reading List](https://www.howtogeek.com/719439/how-to-disable-and-remove-the-google-chrome-reading-list/)
+* [How to Create a Guide of Your Favorite Posts on Instagram](https://www.howtogeek.com/712026/how-to-create-a-guide-of-your-favorite-posts-on-instagram/)
+* [Watch Every Episode of 'The Office' for Free Until March 25th (With No Ads!)](https://www.reviewgeek.com/74552/watch-every-episode-of-the-office-for-free-until-march-25th-with-no-ads/)
+* [How to Get the Calendar App Back on iPhone](https://www.howtogeek.com/713395/how-to-get-the-calendar-app-back-on-iphone/)
+* [What Is Ko-fi, and Who Should Use It?](https://www.reviewgeek.com/73928/what-is-ko-fi-and-who-should-use-it/)
+* [How to Clear Your Queue on Spotify](https://www.howtogeek.com/714084/how-to-clear-your-queue-on-spotify/)
+* [How to Read Kindle Books on Your Computer or a Website](https://www.howtogeek.com/715760/how-to-read-kindle-books-on-your-computer-or-a-website/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How much privacy should we give up for security?](https://consult.sauvik.me/posts/going-dark/)
-- [Linus Torvalds on how AMD, Intel are changing how interrupts are handled](https://www.zdnet.com/article/linus-torvalds-on-how-amd-and-intel-are-changing-how-processor-interrupts-are-handled/)
-- [Omnifmt – pretty-printer wrapper to facilitate formatting during development](https://github.com/hjwylde/omnifmt/)
-- [Why machine learning struggles with causality](https://venturebeat.com/2021/03/19/why-machine-learning-struggles-with-causality/)
-- [Scientist behind Covid shot: Cancer vaccines could be available in a few years](https://www.koin.com/news/scientist-behind-covid-shot-cancer-vaccines-could-be-available-in-a-couple-of-years/)
-- [Hacks for Data Science Interviews](https://quant-quest.github.io/)
-- [Amazon S3 Object Lambda](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
-- [Nationwide, used car prices soared 17% nationally in seven months last year](https://www.washingtonpost.com/business/2021/03/13/car-prices-inflation-economy/)
-- [The Abel Prize Laureates 2021](https://www.abelprize.no/c76389/seksjon/vis.html?tid=76390&strukt_tid=76389)
-- [Stock Music and Reality TV – How to Misrepresent the World [video]](https://www.youtube.com/watch?v=G77ev9pks4I)
+- [Spiders appear to offload cognitive tasks to their webs (2017)](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
+- [Telemetry Portal](https://telemetry.mozilla.org/)
+- [C. Wright Mills' Letter to the New Left (1960)](https://www.marxists.org/subject/humanism/mills-c-wright/letter-new-left.htm)
+- [Noam Chomsky and the Compatible Left [pdf]](https://static1.squarespace.com/static/5be5a25929711449ca9950d4/t/5df7ff1ef8dcf22406cca2ec/1576533792709/Noam+Chomsky+and+the+Compatible+Left.pdf)
+- [hypercard.org](https://hypercard.org/)
+- [Ask HN: What was that "same vibe” Image Comparison tool called?](https://news.ycombinator.com/item?id=26527594)
+- [Code relay – Fontemon –worlds first video game in a font](https://www.coderelay.io/fontemon.html#player)
+- [Why all CS students should learn Go](https://ridhwaandev.github.io/go.html)
+- [Ask HN: Is there anyway to send SMS to your phone without using APIs](https://news.ycombinator.com/item?id=26527538)
+- [Ask HN: How do you become an inventor?](https://news.ycombinator.com/item?id=26527535)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NSW weather live: Warragamba Dam set to spill over as Sydneysiders urged to stay home amid flooding, heavy rain](https://www.theguardian.com/australia-news/live/2021/mar/20/nsw-weather-live-ses-issues-evacuation-orders-as-sydneysiders-urged-to-stay-home-live)
-- ['Our silence is complicity': Biden and Harris condemn anti-Asian violence during Atlanta visit](https://www.theguardian.com/us-news/2021/mar/19/atlanta-spa-shootings-biden-harris-visit)
-- [Iceland volcano: eruption under way in Fagradalsfjall near Reykjavik](https://www.theguardian.com/world/2021/mar/19/iceland-volcano-eruption-under-way-in-fagradalsfjall-near-reykjavik)
-- [Biden 'doing fine' after stumbling once, twice, thrice on steps of Air Force One](https://www.theguardian.com/us-news/2021/mar/19/joe-biden-fall-stumble-air-force-one)
-- [Raphinha’s strike for Leeds piles relegation pressure on Fulham](https://www.theguardian.com/football/2021/mar/19/fulham-leeds-premier-league-match-report)
-- [The Flight Attendant review – strap in for a first-class murder mystery](https://www.theguardian.com/tv-and-radio/2021/mar/19/the-flight-attendant-review-kaley-cuoco)
-- [Arsenal hold on to beat Manchester United in WSL despite Mead red card](https://www.theguardian.com/football/2021/mar/19/arsenal-boost-champions-league-hopes-with-wsl-win-over-manchester-united)
-- [Six Nations heads into Super Saturday that may not bring title winner | Robert Kitson](https://www.theguardian.com/sport/2021/mar/19/six-nations-super-saturday-rugby-union)
-- [The Kindling Hour review – Arthurian legend meets Hitchcockian thrills](https://www.theguardian.com/stage/2021/mar/19/the-kindling-hour-review-arthurian-legend-meets-hitchcockian-thrills)
-- [Jack Wilshere: 'In hindsight it probably wasn’t right to leave Arsenal'](https://www.theguardian.com/football/2021/mar/19/jack-wilshere-bournemouth-fa-cup-leave-arsenal-england)
+- [Coronavirus live news: French ICU patients at highest level this year; half of all UK adults vaccinated](https://www.theguardian.com/world/live/2021/mar/21/coronavirus-live-news-french-icu-patients-at-highest-level-this-year-half-of-all-uk-adults-vaccinated)
+- [Israel: Thousands rally against Netanyahu ahead of tight election contest](https://www.theguardian.com/world/2021/mar/21/israel-thousands-rally-against-netanyahu-ahead-of-tight-election-contest)
+- [Hard-pressed Cineworld revs up for post-pandemic comeback](https://www.theguardian.com/business/2021/mar/21/hard-pressed-cineworld-revs-up-for-post-pandemic-comeback)
+- [Perfectly preppy: get in step with the Ivy League look - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/20/perfectly-preppy-get-in-step-with-the-ivy-league-look-in-pictures)
+- [Wales' grand old totem Alun Wyn Jones remains a man for big occasions | Andy Bull](https://www.theguardian.com/sport/blog/2021/mar/20/wales-alun-wyn-jones-man-for-big-occasions-six-nations)
+- [Eddie Jones: 'We need to reset the team. It's a transition period'](https://www.theguardian.com/sport/2021/mar/20/eddie-jones-we-need-to-reset-the-team-its-a-transition-period)
+- [Brice Dulin's last-gasp try for France denies Wales grand slam](https://www.theguardian.com/sport/2021/mar/20/france-wales-six-nations-rugby-union-match-report)
+- [Watchdog asks Conservatives about Boris Johnson’s £200,000 flat redesign](https://www.theguardian.com/politics/2021/mar/20/watchdog-asks-conservatives-about-boris-johnsons-200000-flat-redesign)
+- [NSW flooding: people flee their homes overnight as extreme rain wreaks havoc](https://www.theguardian.com/australia-news/2021/mar/21/nsw-flooding-people-flee-their-homes-overnight-as-extreme-rain-wreaks-havoc)
+- [Myanmar’s besieged resistance dreams of ‘people's army’ to counter junta](https://www.theguardian.com/world/2021/mar/20/myanmars-besieged-resistance-dreams-of-peoples-army-to-counter-junta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
-- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
-- [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
-- [New Intel “backdoor” – undocumented x86 instruction to alter microcode](https://twitter.com/_markel___/status/1373059797155778562)
-- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
-- [Click](https://clickclickclick.click/)
-- [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
-- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
-- [Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer](https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150)
-- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
+- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
+- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
+- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
+- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
+- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
+- [SubX: A minimalist assembly language for a subset of the x86 ISA (2019)](https://github.com/akkartik/mu/blob/main/subx.md)
+- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -411,6 +411,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kandji MDM for Apple Devices - Speaking the IT language](https://www.reddit.com/r/InformationTechnology/comments/m9k7f4/kandji_mdm_for_apple_devices_speaking_the_it/)
+- [Big brother looking for info on DM/E-Mail retention policies](https://www.reddit.com/r/InformationTechnology/comments/m9j4v7/big_brother_looking_for_info_on_dmemail_retention/)
 - [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
 - [Just a quick question](https://www.reddit.com/r/InformationTechnology/comments/m8oshr/just_a_quick_question/)
 - [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
@@ -419,8 +421,6 @@
 - [Information Technology Discord Server - A place to talk about IT with friends](https://www.reddit.com/r/InformationTechnology/comments/m8cw8v/information_technology_discord_server_a_place_to/)
 - [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
 - [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
-- [Hey good Moring guys](https://www.reddit.com/r/InformationTechnology/comments/m7r1eb/hey_good_moring_guys/)
-- [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
@@ -432,10 +432,10 @@
 - [Cyber Security Today, March 19, 2021 – A new ransomware report, don’t take shortcuts with code and why firms must limit administration access rights](https://www.itworldcanada.com/article/cyber-security-today-march-19-2021-a-new-ransomware-report-dont-take-shortcuts-with-code-and-why-firms-must-limit-administration-access-rights/444198)
 - [Hashtag Trending, March 19, 2021 – U.S. Telemarketers under fire; Starlink in Canada; Labour board sides with Amazon workers](https://www.itworldcanada.com/article/hashtag-trending-march-19-2021-u-s-telemarketers-under-fire-starlink-in-canada-labour-board-sides-with-amazon-workers/444214)
 - [Intel 11th Gen ‘Rocket Lake-S’ processor features: Cypress Cove, overclocking and more](https://www.itworldcanada.com/article/intel-10th-gen-rocket-lake-s-processor-features-cypress-cove-overclocking-and-more/444151)
-- [Digital experienced directors are rare at the top 100 TSX corporations – that’s a problem](https://www.itworldcanada.com/blog/digital-experienced-directors-are-rare-at-the-top-100-tsx-corporations-thats-a-problem/443980)
 - [Business email scams cost Americans over $1.8 billion in 2020: FBI report](https://www.itworldcanada.com/article/business-email-scams-cost-americans-over-1-8-billion-in-2020-fbi-report/444077)
 - [Hashtag Trending, March 18, 2021 – Clubhouse knockoffs; Car location data for the U.S. military; Eight-hour workdays](https://www.itworldcanada.com/article/hashtag-trending-march-18-2021-clubhouse-knockoffs-car-location-data-for-the-u-s-military-eight-hour-workdays/444075)
 - [Leader of Twitter celebrity hack and bitcoin scam sentenced to three years](https://www.itworldcanada.com/article/leader-of-twitter-celebrity-hack-and-bitcoin-scam-sentenced-to-three-years/444059)
+- [Canada’s big carriers, ISPs turn thumbs down on proposed mandatory botnet-fighting regime](https://www.itworldcanada.com/article/canadas-big-carriers-isps-turn-thumbs-down-on-proposed-mandatory-botnet-fighting-regime/444050)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

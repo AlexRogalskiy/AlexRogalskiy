@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NSW weather live: Warragamba Dam set to spill over as Sydneysiders urged to stay home amid flooding, heavy rain](https://www.theguardian.com/australia-news/live/2021/mar/20/nsw-weather-live-ses-issues-evacuation-orders-as-sydneysiders-urged-to-stay-home-live)
-- ['Our silence is complicity': Biden and Harris condemn anti-Asian violence during Atlanta visit](https://www.theguardian.com/us-news/2021/mar/19/atlanta-spa-shootings-biden-harris-visit)
-- [Iceland volcano: eruption under way in Fagradalsfjall near Reykjavik](https://www.theguardian.com/world/2021/mar/19/iceland-volcano-eruption-under-way-in-fagradalsfjall-near-reykjavik)
-- [Biden 'doing fine' after stumbling once, twice, thrice on steps of Air Force One](https://www.theguardian.com/us-news/2021/mar/19/joe-biden-fall-stumble-air-force-one)
-- [Raphinha’s strike for Leeds piles relegation pressure on Fulham](https://www.theguardian.com/football/2021/mar/19/fulham-leeds-premier-league-match-report)
-- [The Flight Attendant review – strap in for a first-class murder mystery](https://www.theguardian.com/tv-and-radio/2021/mar/19/the-flight-attendant-review-kaley-cuoco)
-- [Arsenal hold on to beat Manchester United in WSL despite Mead red card](https://www.theguardian.com/football/2021/mar/19/arsenal-boost-champions-league-hopes-with-wsl-win-over-manchester-united)
-- [Six Nations heads into Super Saturday that may not bring title winner | Robert Kitson](https://www.theguardian.com/sport/2021/mar/19/six-nations-super-saturday-rugby-union)
-- [The Kindling Hour review – Arthurian legend meets Hitchcockian thrills](https://www.theguardian.com/stage/2021/mar/19/the-kindling-hour-review-arthurian-legend-meets-hitchcockian-thrills)
-- [Jack Wilshere: 'In hindsight it probably wasn’t right to leave Arsenal'](https://www.theguardian.com/football/2021/mar/19/jack-wilshere-bournemouth-fa-cup-leave-arsenal-england)
+- [Coronavirus live news: French ICU patients at highest level this year; half of all UK adults vaccinated](https://www.theguardian.com/world/live/2021/mar/21/coronavirus-live-news-french-icu-patients-at-highest-level-this-year-half-of-all-uk-adults-vaccinated)
+- [Israel: Thousands rally against Netanyahu ahead of tight election contest](https://www.theguardian.com/world/2021/mar/21/israel-thousands-rally-against-netanyahu-ahead-of-tight-election-contest)
+- [Hard-pressed Cineworld revs up for post-pandemic comeback](https://www.theguardian.com/business/2021/mar/21/hard-pressed-cineworld-revs-up-for-post-pandemic-comeback)
+- [Perfectly preppy: get in step with the Ivy League look - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/20/perfectly-preppy-get-in-step-with-the-ivy-league-look-in-pictures)
+- [Wales' grand old totem Alun Wyn Jones remains a man for big occasions | Andy Bull](https://www.theguardian.com/sport/blog/2021/mar/20/wales-alun-wyn-jones-man-for-big-occasions-six-nations)
+- [Eddie Jones: 'We need to reset the team. It's a transition period'](https://www.theguardian.com/sport/2021/mar/20/eddie-jones-we-need-to-reset-the-team-its-a-transition-period)
+- [Brice Dulin's last-gasp try for France denies Wales grand slam](https://www.theguardian.com/sport/2021/mar/20/france-wales-six-nations-rugby-union-match-report)
+- [Watchdog asks Conservatives about Boris Johnson’s £200,000 flat redesign](https://www.theguardian.com/politics/2021/mar/20/watchdog-asks-conservatives-about-boris-johnsons-200000-flat-redesign)
+- [NSW flooding: people flee their homes overnight as extreme rain wreaks havoc](https://www.theguardian.com/australia-news/2021/mar/21/nsw-flooding-people-flee-their-homes-overnight-as-extreme-rain-wreaks-havoc)
+- [Myanmar’s besieged resistance dreams of ‘people's army’ to counter junta](https://www.theguardian.com/world/2021/mar/20/myanmars-besieged-resistance-dreams-of-peoples-army-to-counter-junta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

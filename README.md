@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/pass_around_2378.php" target="_blank"><i>pass around</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/M/meet_up_1980.php" target="_blank"><i>meet up</i></a>
 <span> = </span>
-<span>to pass something from person to person in a group</span>
+<span>to arrange to meet somebody, or to meet by chance</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

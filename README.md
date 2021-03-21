@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
-- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
-- [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
-- [New Intel “backdoor” – undocumented x86 instruction to alter microcode](https://twitter.com/_markel___/status/1373059797155778562)
-- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
-- [Click](https://clickclickclick.click/)
-- [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
-- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
-- [Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer](https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150)
-- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
+- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
+- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
+- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
+- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
+- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
+- [SubX: A minimalist assembly language for a subset of the x86 ISA (2019)](https://github.com/akkartik/mu/blob/main/subx.md)
+- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

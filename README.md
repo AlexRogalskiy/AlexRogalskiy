@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/Dead_men_tell_no_tales_866.php" target="_blank"><i>Dead men tell no tales</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/Money_makes_money_895.php" target="_blank"><i>Money makes money</i></a>
 <span> = </span>
-<span>People who are no longer living cannot give evidence.</span>
+<span>If you have money, you can use it to get more money through investment.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

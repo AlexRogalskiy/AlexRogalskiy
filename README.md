@@ -411,6 +411,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kandji MDM for Apple Devices - Speaking the IT language](https://www.reddit.com/r/InformationTechnology/comments/m9k7f4/kandji_mdm_for_apple_devices_speaking_the_it/)
+- [Big brother looking for info on DM/E-Mail retention policies](https://www.reddit.com/r/InformationTechnology/comments/m9j4v7/big_brother_looking_for_info_on_dmemail_retention/)
 - [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
 - [Just a quick question](https://www.reddit.com/r/InformationTechnology/comments/m8oshr/just_a_quick_question/)
 - [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
@@ -419,8 +421,6 @@
 - [Information Technology Discord Server - A place to talk about IT with friends](https://www.reddit.com/r/InformationTechnology/comments/m8cw8v/information_technology_discord_server_a_place_to/)
 - [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
 - [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
-- [Hey good Moring guys](https://www.reddit.com/r/InformationTechnology/comments/m7r1eb/hey_good_moring_guys/)
-- [Being a Parent/Having Children While Working in IT [Cross-Post]](https://www.reddit.com/r/InformationTechnology/comments/m7dut9/being_a_parenthaving_children_while_working_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

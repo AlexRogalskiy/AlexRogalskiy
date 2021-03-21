@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How much privacy should we give up for security?](https://consult.sauvik.me/posts/going-dark/)
-- [Linus Torvalds on how AMD, Intel are changing how interrupts are handled](https://www.zdnet.com/article/linus-torvalds-on-how-amd-and-intel-are-changing-how-processor-interrupts-are-handled/)
-- [Omnifmt – pretty-printer wrapper to facilitate formatting during development](https://github.com/hjwylde/omnifmt/)
-- [Why machine learning struggles with causality](https://venturebeat.com/2021/03/19/why-machine-learning-struggles-with-causality/)
-- [Scientist behind Covid shot: Cancer vaccines could be available in a few years](https://www.koin.com/news/scientist-behind-covid-shot-cancer-vaccines-could-be-available-in-a-couple-of-years/)
-- [Hacks for Data Science Interviews](https://quant-quest.github.io/)
-- [Amazon S3 Object Lambda](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
-- [Nationwide, used car prices soared 17% nationally in seven months last year](https://www.washingtonpost.com/business/2021/03/13/car-prices-inflation-economy/)
-- [The Abel Prize Laureates 2021](https://www.abelprize.no/c76389/seksjon/vis.html?tid=76390&strukt_tid=76389)
-- [Stock Music and Reality TV – How to Misrepresent the World [video]](https://www.youtube.com/watch?v=G77ev9pks4I)
+- [Spiders appear to offload cognitive tasks to their webs (2017)](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
+- [Telemetry Portal](https://telemetry.mozilla.org/)
+- [C. Wright Mills' Letter to the New Left (1960)](https://www.marxists.org/subject/humanism/mills-c-wright/letter-new-left.htm)
+- [Noam Chomsky and the Compatible Left [pdf]](https://static1.squarespace.com/static/5be5a25929711449ca9950d4/t/5df7ff1ef8dcf22406cca2ec/1576533792709/Noam+Chomsky+and+the+Compatible+Left.pdf)
+- [hypercard.org](https://hypercard.org/)
+- [Ask HN: What was that "same vibe” Image Comparison tool called?](https://news.ycombinator.com/item?id=26527594)
+- [Code relay – Fontemon –worlds first video game in a font](https://www.coderelay.io/fontemon.html#player)
+- [Why all CS students should learn Go](https://ridhwaandev.github.io/go.html)
+- [Ask HN: Is there anyway to send SMS to your phone without using APIs](https://news.ycombinator.com/item?id=26527538)
+- [Ask HN: How do you become an inventor?](https://news.ycombinator.com/item?id=26527535)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -432,10 +432,10 @@
 - [Cyber Security Today, March 19, 2021 – A new ransomware report, don’t take shortcuts with code and why firms must limit administration access rights](https://www.itworldcanada.com/article/cyber-security-today-march-19-2021-a-new-ransomware-report-dont-take-shortcuts-with-code-and-why-firms-must-limit-administration-access-rights/444198)
 - [Hashtag Trending, March 19, 2021 – U.S. Telemarketers under fire; Starlink in Canada; Labour board sides with Amazon workers](https://www.itworldcanada.com/article/hashtag-trending-march-19-2021-u-s-telemarketers-under-fire-starlink-in-canada-labour-board-sides-with-amazon-workers/444214)
 - [Intel 11th Gen ‘Rocket Lake-S’ processor features: Cypress Cove, overclocking and more](https://www.itworldcanada.com/article/intel-10th-gen-rocket-lake-s-processor-features-cypress-cove-overclocking-and-more/444151)
-- [Digital experienced directors are rare at the top 100 TSX corporations – that’s a problem](https://www.itworldcanada.com/blog/digital-experienced-directors-are-rare-at-the-top-100-tsx-corporations-thats-a-problem/443980)
 - [Business email scams cost Americans over $1.8 billion in 2020: FBI report](https://www.itworldcanada.com/article/business-email-scams-cost-americans-over-1-8-billion-in-2020-fbi-report/444077)
 - [Hashtag Trending, March 18, 2021 – Clubhouse knockoffs; Car location data for the U.S. military; Eight-hour workdays](https://www.itworldcanada.com/article/hashtag-trending-march-18-2021-clubhouse-knockoffs-car-location-data-for-the-u-s-military-eight-hour-workdays/444075)
 - [Leader of Twitter celebrity hack and bitcoin scam sentenced to three years](https://www.itworldcanada.com/article/leader-of-twitter-celebrity-hack-and-bitcoin-scam-sentenced-to-three-years/444059)
+- [Canada’s big carriers, ISPs turn thumbs down on proposed mandatory botnet-fighting regime](https://www.itworldcanada.com/article/canadas-big-carriers-isps-turn-thumbs-down-on-proposed-mandatory-botnet-fighting-regime/444050)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

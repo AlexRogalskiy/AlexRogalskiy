@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-3°C (<i>snow</i>), humidity: 93%, pressure: 995 (mbar), wind: /south-east/ 7 (m/s), cloudy: 90%</b>
+        <b>-2°C (<i>light snow</i>), humidity: 86%, pressure: 991 (mbar), wind: /south-east/ 4 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>06:57 am</b> and sets at <b>19:14 pm</b>.
     </p>
@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Just Measured Jupiter's Stratospheric Winds, and Wow That's Fast](https://www.reviewgeek.com/74597/scientists-just-measured-jupiters-stratospheric-winds-and-wow-thats-fast/)
-* [The BBC 'Doctor Who' Inventor Kit Teaches You to Code With Jodie Whittaker](https://www.reviewgeek.com/74580/the-bbc-doctor-who-inventor-kit-teaches-you-to-code-with-jodie-whittaker/)
-* [Barnes & Noble Taps Lenovo for New NOOK Tablet](https://www.reviewgeek.com/74560/barnes-noble-taps-lenovo-for-new-nook-tablet/)
-* [Amazon Will Be NFL's New Home for 'Thursday Night Football'](https://www.reviewgeek.com/74537/amazon-will-be-nfls-new-home-for-thursday-night-football/)
-* [How to Turn off “OK Google” on Your Android Phone or Tablet](https://www.howtogeek.com/718100/how-to-turn-off-ok-google-on-your-android-device-2/)
-* [OnePlus Shows Off Its Smartwatch Ahead of March 23rd Event](https://www.reviewgeek.com/74535/oneplus-shows-off-its-smartwatch-ahead-of-march-23rd-event/)
-* [How to Remove a Year from a Date in Microsoft Excel](https://www.howtogeek.com/714809/how-to-remove-a-year-from-a-date-in-microsoft-excel/)
-* [From International Treats to Ingredients, These Online Grocers Have It All](https://www.lifesavvy.com/58911/taste-the-world-with-these-websites/)
-* [What Is the Chrome “Reading List,” and How Do You Use It?](https://www.howtogeek.com/719357/what-is-the-chrome-reading-list-and-how-to-use-it/)
-* [What Is Heart Rate Variability (HRV) on Apple Watch, and Why Does It Matter?](https://www.howtogeek.com/714004/what-is-heart-rate-variability-hrv-on-apple-watch-and-why-it-matters/)
+* [What We're Watching: 'Zack Snyder's Justice League' is Two Hours Too Long](https://www.reviewgeek.com/74626/what-were-watching-zack-snyders-justice-league-is-two-hours-too-long/)
+* [New iPad Pro Could Arrive in April with Mini-LED Display and M1-Grade Chip](https://www.reviewgeek.com/74616/new-ipad-pro-could-arrive-in-april-with-mini-led-display-and-m1-grade-chip/)
+* [How to Use a PS5 Controller on Windows 10](https://www.howtogeek.com/716390/how-to-use-a-ps5-controller-on-windows-10/)
+* [How to Disable and Remove the Google Chrome Reading List](https://www.howtogeek.com/719439/how-to-disable-and-remove-the-google-chrome-reading-list/)
+* [How to Create a Guide of Your Favorite Posts on Instagram](https://www.howtogeek.com/712026/how-to-create-a-guide-of-your-favorite-posts-on-instagram/)
+* [Watch Every Episode of 'The Office' for Free Until March 25th (With No Ads!)](https://www.reviewgeek.com/74552/watch-every-episode-of-the-office-for-free-until-march-25th-with-no-ads/)
+* [How to Get the Calendar App Back on iPhone](https://www.howtogeek.com/713395/how-to-get-the-calendar-app-back-on-iphone/)
+* [What Is Ko-fi, and Who Should Use It?](https://www.reviewgeek.com/73928/what-is-ko-fi-and-who-should-use-it/)
+* [How to Clear Your Queue on Spotify](https://www.howtogeek.com/714084/how-to-clear-your-queue-on-spotify/)
+* [How to Read Kindle Books on Your Computer or a Website](https://www.howtogeek.com/715760/how-to-read-kindle-books-on-your-computer-or-a-website/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

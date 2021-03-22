@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'Zack Snyder's Justice League' is Two Hours Too Long](https://www.reviewgeek.com/74626/what-were-watching-zack-snyders-justice-league-is-two-hours-too-long/)
-* [New iPad Pro Could Arrive in April with Mini-LED Display and M1-Grade Chip](https://www.reviewgeek.com/74616/new-ipad-pro-could-arrive-in-april-with-mini-led-display-and-m1-grade-chip/)
-* [How to Use a PS5 Controller on Windows 10](https://www.howtogeek.com/716390/how-to-use-a-ps5-controller-on-windows-10/)
-* [How to Disable and Remove the Google Chrome Reading List](https://www.howtogeek.com/719439/how-to-disable-and-remove-the-google-chrome-reading-list/)
-* [How to Create a Guide of Your Favorite Posts on Instagram](https://www.howtogeek.com/712026/how-to-create-a-guide-of-your-favorite-posts-on-instagram/)
-* [Watch Every Episode of 'The Office' for Free Until March 25th (With No Ads!)](https://www.reviewgeek.com/74552/watch-every-episode-of-the-office-for-free-until-march-25th-with-no-ads/)
-* [How to Get the Calendar App Back on iPhone](https://www.howtogeek.com/713395/how-to-get-the-calendar-app-back-on-iphone/)
-* [What Is Ko-fi, and Who Should Use It?](https://www.reviewgeek.com/73928/what-is-ko-fi-and-who-should-use-it/)
-* [How to Clear Your Queue on Spotify](https://www.howtogeek.com/714084/how-to-clear-your-queue-on-spotify/)
-* [How to Read Kindle Books on Your Computer or a Website](https://www.howtogeek.com/715760/how-to-read-kindle-books-on-your-computer-or-a-website/)
+* [This Candy-Selling Robot Wants to Follow You Around the Grocery Store](https://www.reviewgeek.com/74646/this-candy-selling-robot-will-follow-you-around-the-grocery-store/)
+* [Amazon's Fire TV Now Streams Free Local News to 88 Cities](https://www.reviewgeek.com/74608/amazons-fire-tv-now-streams-free-local-news-to-88-cities/)
+* [How to Turn off HomePod mini Proximity Vibrations and Notifications on iPhone](https://www.howtogeek.com/714310/how-to-turn-off-homepod-mini-proximity-vibrations-and-notifications-on-iphone/)
+* [Can You Stop People from Adding You to Groups on Instagram?](https://www.howtogeek.com/717946/can-you-stop-people-from-adding-you-to-groups-on-instagram/)
+* [How to Use Hulu’s Watch Party to Watch Movies and TV Shows with Others Online](https://www.howtogeek.com/714676/how-to-use-hulus-watch-party-to-watch-online-with-friends/)
+* [Grammarly's Tone Detector Arrives on Android and iOS](https://www.reviewgeek.com/74578/grammarlys-tone-detector-arrives-on-android-and-ios/)
+* [How to Check Which Apple Watch ECG App Version You Have](https://www.howtogeek.com/717140/how-to-check-which-apple-watch-ecg-app-version-you-have/)
+* [The 7 Best Alarm Clock Apps for Android](https://www.reviewgeek.com/72368/the-7-best-alarm-clock-apps-for-android/)
+* [How to Delete Your Personal Contacts from Instagram](https://www.howtogeek.com/716175/how-to-delete-your-personal-contacts-from-instagram/)
+* [How to Turn off Save Password Pop-ups in Microsoft Edge](https://www.howtogeek.com/715508/how-turn-off-save-password-pop-ups-in-microsoft-edge/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

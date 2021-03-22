@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spiders appear to offload cognitive tasks to their webs (2017)](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
-- [Telemetry Portal](https://telemetry.mozilla.org/)
-- [C. Wright Mills' Letter to the New Left (1960)](https://www.marxists.org/subject/humanism/mills-c-wright/letter-new-left.htm)
-- [Noam Chomsky and the Compatible Left [pdf]](https://static1.squarespace.com/static/5be5a25929711449ca9950d4/t/5df7ff1ef8dcf22406cca2ec/1576533792709/Noam+Chomsky+and+the+Compatible+Left.pdf)
-- [hypercard.org](https://hypercard.org/)
-- [Ask HN: What was that "same vibe” Image Comparison tool called?](https://news.ycombinator.com/item?id=26527594)
-- [Code relay – Fontemon –worlds first video game in a font](https://www.coderelay.io/fontemon.html#player)
-- [Why all CS students should learn Go](https://ridhwaandev.github.io/go.html)
-- [Ask HN: Is there anyway to send SMS to your phone without using APIs](https://news.ycombinator.com/item?id=26527538)
-- [Ask HN: How do you become an inventor?](https://news.ycombinator.com/item?id=26527535)
+- [Russia, China Must Move Away from Using Dollar – Russian Foreign Minister Lavrov](https://sputniknews.com/world/202103211082412091-russia-china-must-move-away-from-using-dollar-western-controlled-payment-systems-lavrov-says/)
+- [Jeff Koons's Science Projects](https://www.theatlantic.com/entertainment/archive/2014/07/the-science-behind-the-art-of-jeff-koons/374614/)
+- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [“Mass shootings surge in (insert state here) as nation faces record high”](https://www.reddit.com/r/progun/comments/m1i9d6/mass_shootings_surge_in_insert_state_here_as/)
+- [Don't Call Yourself a Programmer, and Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- [Free Software Awards Winners: CiviCRM, Bradley Kuhn, and Alyssa Rosenzweig](https://www.fsf.org/news/free-software-awards-winners-announced-civicrm-bradley-kuhn-and-alyssa-rosenzweig)
+- [Michael Bay hired a gaming company to build a model of his custom home](https://www.architecturaldigest.com/story/michael-bay-los-angeles-home-article)
+- [3MB of Data into a tweetable PNG](https://github.com/DavidBuchanan314/tweetable-polyglot-png)
+- [TSMC chip manufacturing capacity is fully booked through the first half of 2022](https://twitter.com/dnystedt/status/1373802797812961286)
+- [Progressive Disclosure of Complexity and Typed FP Languages](https://v5.chriskrycho.com/journal/progressive-disclosure-of-complexity-and-typed-fp-languages/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

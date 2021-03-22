@@ -246,8 +246,39 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646198846696931328" target="_blank"><i>“Loveliest of trees, the cherry now”</i></a></summary>
-<p>by A.E. Housman<br/></p><p>Loveliest of trees, the cherry now<br/>Is hung with bloom along the bough,<br/>And stands about the woodland ride <br/>Wearing white for Eastertide.</p><p>Now, of my threescore years and ten,<br/>Twenty will not come again,<br/>And take from seventy springs a score,<br/>It only leaves me fifty more.</p><p>And since to look at things in bloom<br/>Fifty springs are little room,<br/>About the woodlands I will go <br/>To see the cherry hung with snow.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646289437931798528" target="_blank"><i>“I Was Popular in Certain Circles”</i></a></summary>
+<p>by Gabrielle Calvocoressi</p><p>Among the river rats and the leaves.<br/>
+For example. I was huge among the lichen,<br/>
+and the waterfall couldn’t get enough<br/>
+of me. And the gravestones?<br/>
+I was hugely popular with the gravestones.<br/>
+Also with the meat liquefying<br/>
+beneath. I’d say to the carrion birds,<br/>
+I’d say, “Are you an eagle? I can’t see<br/>
+so well.” That made them laugh until we<br/>
+were screaming. Eagle. Imagine.<br/><br/> The vultures loved me so much they’d
+feed<br/>
+me the first morsel. From their delicate<br/>
+talons, which is what I called them:<br/>
+such delicate talons. They loved me so deeply<br/>
+they’d visit in pairs. One to feed me.<br/>
+One to cover my eyes with its velvety wings.<br/>
+Which were heavy as theater curtains. Which I was<br/>
+sure to remark on. “Why can’t I see what I’m eating?”<br/>
+I’d say. And the wings would pull me into<br/>
+the great bird’s chest. And I’d feel the nail<br/>
+inside my mouth.<br/><br/>
+What pals I was with all the scavengers!<br/>
+And the dead things too. What pals.<br/>
+As for the living, the fox would not be outdone.<br/>
+We’d sit on the cliff’s edge and watch the river<br/>
+like a movie and I’d say, “I think last night&hellip;”<br/>
+and the fox would put his paw on top of mine<br/>
+and say, “Forget it. It’s done.” I mean,<br/>
+we had fun. You haven’t lived until a fox<br/>
+has whispered something the ferns told him<br/>
+in your one good ear. I mean truly.<br/>
+You have not lived.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -442,16 +442,16 @@ You have not lived.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is switching from computer engineering to IT right for me?](https://www.reddit.com/r/InformationTechnology/comments/ma9jlg/is_switching_from_computer_engineering_to_it/)
+- [Are You Looking for Certification & Career Advice?](https://www.reddit.com/r/InformationTechnology/comments/ma622u/are_you_looking_for_certification_career_advice/)
+- [Masters or PhD?](https://www.reddit.com/r/InformationTechnology/comments/ma3wip/masters_or_phd/)
+- [College major advise](https://www.reddit.com/r/InformationTechnology/comments/ma0geb/college_major_advise/)
+- [Is my laptop good enough for an information system systems major? Or do I need a new one?](https://www.reddit.com/r/InformationTechnology/comments/m9ylzg/is_my_laptop_good_enough_for_an_information/)
 - [Kandji MDM for Apple Devices - Speaking the IT language](https://www.reddit.com/r/InformationTechnology/comments/m9k7f4/kandji_mdm_for_apple_devices_speaking_the_it/)
-- [Big brother looking for info on DM/E-Mail retention policies](https://www.reddit.com/r/InformationTechnology/comments/m9j4v7/big_brother_looking_for_info_on_dmemail_retention/)
 - [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
-- [Just a quick question](https://www.reddit.com/r/InformationTechnology/comments/m8oshr/just_a_quick_question/)
 - [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
 - [Any Recommendation for Cell phone Location Tracking](https://www.reddit.com/r/InformationTechnology/comments/m8jqqb/any_recommendation_for_cell_phone_location/)
 - [Career Choice](https://www.reddit.com/r/InformationTechnology/comments/m8i5jz/career_choice/)
-- [Information Technology Discord Server - A place to talk about IT with friends](https://www.reddit.com/r/InformationTechnology/comments/m8cw8v/information_technology_discord_server_a_place_to/)
-- [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
-- [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

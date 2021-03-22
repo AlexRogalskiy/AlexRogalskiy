@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/Zs_1129.php" target="_blank"><i>Zs</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/British/pissed_off_828.php" target="_blank"><i>pissed off</i></a>
 <span> = </span>
-<span>sleep</span>
+<span>angry, annoyed</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

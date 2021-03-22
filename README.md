@@ -246,8 +246,39 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646198846696931328" target="_blank"><i>“Loveliest of trees, the cherry now”</i></a></summary>
-<p>by A.E. Housman<br/></p><p>Loveliest of trees, the cherry now<br/>Is hung with bloom along the bough,<br/>And stands about the woodland ride <br/>Wearing white for Eastertide.</p><p>Now, of my threescore years and ten,<br/>Twenty will not come again,<br/>And take from seventy springs a score,<br/>It only leaves me fifty more.</p><p>And since to look at things in bloom<br/>Fifty springs are little room,<br/>About the woodlands I will go <br/>To see the cherry hung with snow.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646289437931798528" target="_blank"><i>“I Was Popular in Certain Circles”</i></a></summary>
+<p>by Gabrielle Calvocoressi</p><p>Among the river rats and the leaves.<br/>
+For example. I was huge among the lichen,<br/>
+and the waterfall couldn’t get enough<br/>
+of me. And the gravestones?<br/>
+I was hugely popular with the gravestones.<br/>
+Also with the meat liquefying<br/>
+beneath. I’d say to the carrion birds,<br/>
+I’d say, “Are you an eagle? I can’t see<br/>
+so well.” That made them laugh until we<br/>
+were screaming. Eagle. Imagine.<br/><br/> The vultures loved me so much they’d
+feed<br/>
+me the first morsel. From their delicate<br/>
+talons, which is what I called them:<br/>
+such delicate talons. They loved me so deeply<br/>
+they’d visit in pairs. One to feed me.<br/>
+One to cover my eyes with its velvety wings.<br/>
+Which were heavy as theater curtains. Which I was<br/>
+sure to remark on. “Why can’t I see what I’m eating?”<br/>
+I’d say. And the wings would pull me into<br/>
+the great bird’s chest. And I’d feel the nail<br/>
+inside my mouth.<br/><br/>
+What pals I was with all the scavengers!<br/>
+And the dead things too. What pals.<br/>
+As for the living, the fox would not be outdone.<br/>
+We’d sit on the cliff’s edge and watch the river<br/>
+like a movie and I’d say, “I think last night&hellip;”<br/>
+and the fox would put his paw on top of mine<br/>
+and say, “Forget it. It’s done.” I mean,<br/>
+we had fun. You haven’t lived until a fox<br/>
+has whispered something the ferns told him<br/>
+in your one good ear. I mean truly.<br/>
+You have not lived.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -278,7 +309,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>0°C (<i>broken clouds</i>), humidity: 64%, pressure: 993 (mbar), wind: /east/ 9 (m/s), cloudy: 75%</b>
+        <b>-1°C (<i>light snow</i>), humidity: 69%, pressure: 994 (mbar), wind: /east/ 8 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>06:54 am</b> and sets at <b>19:17 pm</b>.
     </p>
@@ -291,61 +322,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'Zack Snyder's Justice League' is Two Hours Too Long](https://www.reviewgeek.com/74626/what-were-watching-zack-snyders-justice-league-is-two-hours-too-long/)
-* [New iPad Pro Could Arrive in April with Mini-LED Display and M1-Grade Chip](https://www.reviewgeek.com/74616/new-ipad-pro-could-arrive-in-april-with-mini-led-display-and-m1-grade-chip/)
-* [How to Use a PS5 Controller on Windows 10](https://www.howtogeek.com/716390/how-to-use-a-ps5-controller-on-windows-10/)
-* [How to Disable and Remove the Google Chrome Reading List](https://www.howtogeek.com/719439/how-to-disable-and-remove-the-google-chrome-reading-list/)
-* [How to Create a Guide of Your Favorite Posts on Instagram](https://www.howtogeek.com/712026/how-to-create-a-guide-of-your-favorite-posts-on-instagram/)
-* [Watch Every Episode of 'The Office' for Free Until March 25th (With No Ads!)](https://www.reviewgeek.com/74552/watch-every-episode-of-the-office-for-free-until-march-25th-with-no-ads/)
-* [How to Get the Calendar App Back on iPhone](https://www.howtogeek.com/713395/how-to-get-the-calendar-app-back-on-iphone/)
-* [What Is Ko-fi, and Who Should Use It?](https://www.reviewgeek.com/73928/what-is-ko-fi-and-who-should-use-it/)
-* [How to Clear Your Queue on Spotify](https://www.howtogeek.com/714084/how-to-clear-your-queue-on-spotify/)
-* [How to Read Kindle Books on Your Computer or a Website](https://www.howtogeek.com/715760/how-to-read-kindle-books-on-your-computer-or-a-website/)
+* [This Candy-Selling Robot Wants to Follow You Around the Grocery Store](https://www.reviewgeek.com/74646/this-candy-selling-robot-will-follow-you-around-the-grocery-store/)
+* [Amazon's Fire TV Now Streams Free Local News to 88 Cities](https://www.reviewgeek.com/74608/amazons-fire-tv-now-streams-free-local-news-to-88-cities/)
+* [How to Turn off HomePod mini Proximity Vibrations and Notifications on iPhone](https://www.howtogeek.com/714310/how-to-turn-off-homepod-mini-proximity-vibrations-and-notifications-on-iphone/)
+* [Can You Stop People from Adding You to Groups on Instagram?](https://www.howtogeek.com/717946/can-you-stop-people-from-adding-you-to-groups-on-instagram/)
+* [How to Use Hulu’s Watch Party to Watch Movies and TV Shows with Others Online](https://www.howtogeek.com/714676/how-to-use-hulus-watch-party-to-watch-online-with-friends/)
+* [Grammarly's Tone Detector Arrives on Android and iOS](https://www.reviewgeek.com/74578/grammarlys-tone-detector-arrives-on-android-and-ios/)
+* [How to Check Which Apple Watch ECG App Version You Have](https://www.howtogeek.com/717140/how-to-check-which-apple-watch-ecg-app-version-you-have/)
+* [The 7 Best Alarm Clock Apps for Android](https://www.reviewgeek.com/72368/the-7-best-alarm-clock-apps-for-android/)
+* [How to Delete Your Personal Contacts from Instagram](https://www.howtogeek.com/716175/how-to-delete-your-personal-contacts-from-instagram/)
+* [How to Turn off Save Password Pop-ups in Microsoft Edge](https://www.howtogeek.com/715508/how-turn-off-save-password-pop-ups-in-microsoft-edge/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spiders appear to offload cognitive tasks to their webs (2017)](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
-- [Telemetry Portal](https://telemetry.mozilla.org/)
-- [C. Wright Mills' Letter to the New Left (1960)](https://www.marxists.org/subject/humanism/mills-c-wright/letter-new-left.htm)
-- [Noam Chomsky and the Compatible Left [pdf]](https://static1.squarespace.com/static/5be5a25929711449ca9950d4/t/5df7ff1ef8dcf22406cca2ec/1576533792709/Noam+Chomsky+and+the+Compatible+Left.pdf)
-- [hypercard.org](https://hypercard.org/)
-- [Ask HN: What was that "same vibe” Image Comparison tool called?](https://news.ycombinator.com/item?id=26527594)
-- [Code relay – Fontemon –worlds first video game in a font](https://www.coderelay.io/fontemon.html#player)
-- [Why all CS students should learn Go](https://ridhwaandev.github.io/go.html)
-- [Ask HN: Is there anyway to send SMS to your phone without using APIs](https://news.ycombinator.com/item?id=26527538)
-- [Ask HN: How do you become an inventor?](https://news.ycombinator.com/item?id=26527535)
+- [Russia, China Must Move Away from Using Dollar – Russian Foreign Minister Lavrov](https://sputniknews.com/world/202103211082412091-russia-china-must-move-away-from-using-dollar-western-controlled-payment-systems-lavrov-says/)
+- [Jeff Koons's Science Projects](https://www.theatlantic.com/entertainment/archive/2014/07/the-science-behind-the-art-of-jeff-koons/374614/)
+- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [“Mass shootings surge in (insert state here) as nation faces record high”](https://www.reddit.com/r/progun/comments/m1i9d6/mass_shootings_surge_in_insert_state_here_as/)
+- [Don't Call Yourself a Programmer, and Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- [Free Software Awards Winners: CiviCRM, Bradley Kuhn, and Alyssa Rosenzweig](https://www.fsf.org/news/free-software-awards-winners-announced-civicrm-bradley-kuhn-and-alyssa-rosenzweig)
+- [Michael Bay hired a gaming company to build a model of his custom home](https://www.architecturaldigest.com/story/michael-bay-los-angeles-home-article)
+- [3MB of Data into a tweetable PNG](https://github.com/DavidBuchanan314/tweetable-polyglot-png)
+- [TSMC chip manufacturing capacity is fully booked through the first half of 2022](https://twitter.com/dnystedt/status/1373802797812961286)
+- [Progressive Disclosure of Complexity and Typed FP Languages](https://v5.chriskrycho.com/journal/progressive-disclosure-of-complexity-and-typed-fp-languages/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: French ICU patients at highest level this year; half of all UK adults vaccinated](https://www.theguardian.com/world/live/2021/mar/21/coronavirus-live-news-french-icu-patients-at-highest-level-this-year-half-of-all-uk-adults-vaccinated)
-- [Israel: Thousands rally against Netanyahu ahead of tight election contest](https://www.theguardian.com/world/2021/mar/21/israel-thousands-rally-against-netanyahu-ahead-of-tight-election-contest)
-- [Hard-pressed Cineworld revs up for post-pandemic comeback](https://www.theguardian.com/business/2021/mar/21/hard-pressed-cineworld-revs-up-for-post-pandemic-comeback)
-- [Perfectly preppy: get in step with the Ivy League look - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/20/perfectly-preppy-get-in-step-with-the-ivy-league-look-in-pictures)
-- [Wales' grand old totem Alun Wyn Jones remains a man for big occasions | Andy Bull](https://www.theguardian.com/sport/blog/2021/mar/20/wales-alun-wyn-jones-man-for-big-occasions-six-nations)
-- [Eddie Jones: 'We need to reset the team. It's a transition period'](https://www.theguardian.com/sport/2021/mar/20/eddie-jones-we-need-to-reset-the-team-its-a-transition-period)
-- [Brice Dulin's last-gasp try for France denies Wales grand slam](https://www.theguardian.com/sport/2021/mar/20/france-wales-six-nations-rugby-union-match-report)
-- [Watchdog asks Conservatives about Boris Johnson’s £200,000 flat redesign](https://www.theguardian.com/politics/2021/mar/20/watchdog-asks-conservatives-about-boris-johnsons-200000-flat-redesign)
-- [NSW flooding: people flee their homes overnight as extreme rain wreaks havoc](https://www.theguardian.com/australia-news/2021/mar/21/nsw-flooding-people-flee-their-homes-overnight-as-extreme-rain-wreaks-havoc)
-- [Myanmar’s besieged resistance dreams of ‘people's army’ to counter junta](https://www.theguardian.com/world/2021/mar/20/myanmars-besieged-resistance-dreams-of-peoples-army-to-counter-junta)
+- [Coronavirus live news: Germany considering lockdown extension; Chile reports record daily cases](https://www.theguardian.com/world/live/2021/mar/22/coronavirus-live-news-global-covid-updates-germany-lockdown-chile-record-daily-cases)
+- [Canadian Michael Kovrig goes on trial in China](https://www.theguardian.com/world/2021/mar/22/michael-kovrig-trial-china-canada)
+- [Miami Beach spring break chaos: more than 1,000 arrests as Covid curfew extended](https://www.theguardian.com/us-news/2021/mar/21/miami-beach-officials-impose-covid-curfew-to-curb-spring-break-chaos)
+- ['Cooperative and rather active': joy as pandas mate in French zoo](https://www.theguardian.com/world/2021/mar/22/cooperative-and-rather-active-joy-as-pandas-mate-in-french-zoo)
+- [Failure of governments to value water leading to widespread waste, UN says](https://www.theguardian.com/environment/2021/mar/22/failure-of-governments-to-value-water-leading-to-widespread-waste-un-says)
+- [UK defence cuts show gulf between ambition and action, says Labour](https://www.theguardian.com/politics/2021/mar/22/uk-defence-cuts-gulf-ambition-action-labour-army-troops)
+- [40% of households in four London boroughs claiming housing costs – report](https://www.theguardian.com/society/2021/mar/22/40-of-households-in-four-london-boroughs-claiming-housing-costs-report)
+- [Half of British workers had real-terms pay cut in 2020, study says](https://www.theguardian.com/money/2021/mar/22/half-of-british-workers-had-real-terms-pay-cut-in-2020-study-says)
+- ['A huge step forward': WSL announces record-breaking deal with BBC and Sky](https://www.theguardian.com/football/2021/mar/22/a-huge-step-forward-wsl-announces-record-breaking-deal-with-bbc-and-sky)
+- [Bouquets of flowers are now 'substitute hugs', says booming florist](https://www.theguardian.com/business/2021/mar/22/bouquets-of-flowers-are-now-substitute-hugs-says-booming-florist)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
-- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
-- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
-- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
-- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
-- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
-- [SubX: A minimalist assembly language for a subset of the x86 ISA (2019)](https://github.com/akkartik/mu/blob/main/subx.md)
-- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
+- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
+- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
+- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
+- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
+- [OpenRA Release 20210321 (and new website)](https://www.openra.net/news/release-20210321/)
+- [FreeCAD 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
+- [A beginner’s guide to web accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -411,16 +442,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is switching from computer engineering to IT right for me?](https://www.reddit.com/r/InformationTechnology/comments/ma9jlg/is_switching_from_computer_engineering_to_it/)
+- [Are You Looking for Certification & Career Advice?](https://www.reddit.com/r/InformationTechnology/comments/ma622u/are_you_looking_for_certification_career_advice/)
+- [Masters or PhD?](https://www.reddit.com/r/InformationTechnology/comments/ma3wip/masters_or_phd/)
+- [College major advise](https://www.reddit.com/r/InformationTechnology/comments/ma0geb/college_major_advise/)
+- [Is my laptop good enough for an information system systems major? Or do I need a new one?](https://www.reddit.com/r/InformationTechnology/comments/m9ylzg/is_my_laptop_good_enough_for_an_information/)
 - [Kandji MDM for Apple Devices - Speaking the IT language](https://www.reddit.com/r/InformationTechnology/comments/m9k7f4/kandji_mdm_for_apple_devices_speaking_the_it/)
-- [Big brother looking for info on DM/E-Mail retention policies](https://www.reddit.com/r/InformationTechnology/comments/m9j4v7/big_brother_looking_for_info_on_dmemail_retention/)
 - [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
-- [Just a quick question](https://www.reddit.com/r/InformationTechnology/comments/m8oshr/just_a_quick_question/)
 - [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
 - [Any Recommendation for Cell phone Location Tracking](https://www.reddit.com/r/InformationTechnology/comments/m8jqqb/any_recommendation_for_cell_phone_location/)
 - [Career Choice](https://www.reddit.com/r/InformationTechnology/comments/m8i5jz/career_choice/)
-- [Information Technology Discord Server - A place to talk about IT with friends](https://www.reddit.com/r/InformationTechnology/comments/m8cw8v/information_technology_discord_server_a_place_to/)
-- [I'm a junior in HS and I am a bit undecided](https://www.reddit.com/r/InformationTechnology/comments/m82qvg/im_a_junior_in_hs_and_i_am_a_bit_undecided/)
-- [Telecom Certification](https://www.reddit.com/r/InformationTechnology/comments/m7smht/telecom_certification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

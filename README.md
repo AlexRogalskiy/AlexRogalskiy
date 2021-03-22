@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/M/meet_up_1980.php" target="_blank"><i>meet up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/pass_out_1__1892.php" target="_blank"><i>pass out (1)</i></a>
 <span> = </span>
-<span>to arrange to meet somebody, or to meet by chance</span>
+<span>to give something to each person in a group</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

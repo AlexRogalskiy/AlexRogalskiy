@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: French ICU patients at highest level this year; half of all UK adults vaccinated](https://www.theguardian.com/world/live/2021/mar/21/coronavirus-live-news-french-icu-patients-at-highest-level-this-year-half-of-all-uk-adults-vaccinated)
-- [Israel: Thousands rally against Netanyahu ahead of tight election contest](https://www.theguardian.com/world/2021/mar/21/israel-thousands-rally-against-netanyahu-ahead-of-tight-election-contest)
-- [Hard-pressed Cineworld revs up for post-pandemic comeback](https://www.theguardian.com/business/2021/mar/21/hard-pressed-cineworld-revs-up-for-post-pandemic-comeback)
-- [Perfectly preppy: get in step with the Ivy League look - in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/20/perfectly-preppy-get-in-step-with-the-ivy-league-look-in-pictures)
-- [Wales' grand old totem Alun Wyn Jones remains a man for big occasions | Andy Bull](https://www.theguardian.com/sport/blog/2021/mar/20/wales-alun-wyn-jones-man-for-big-occasions-six-nations)
-- [Eddie Jones: 'We need to reset the team. It's a transition period'](https://www.theguardian.com/sport/2021/mar/20/eddie-jones-we-need-to-reset-the-team-its-a-transition-period)
-- [Brice Dulin's last-gasp try for France denies Wales grand slam](https://www.theguardian.com/sport/2021/mar/20/france-wales-six-nations-rugby-union-match-report)
-- [Watchdog asks Conservatives about Boris Johnson’s £200,000 flat redesign](https://www.theguardian.com/politics/2021/mar/20/watchdog-asks-conservatives-about-boris-johnsons-200000-flat-redesign)
-- [NSW flooding: people flee their homes overnight as extreme rain wreaks havoc](https://www.theguardian.com/australia-news/2021/mar/21/nsw-flooding-people-flee-their-homes-overnight-as-extreme-rain-wreaks-havoc)
-- [Myanmar’s besieged resistance dreams of ‘people's army’ to counter junta](https://www.theguardian.com/world/2021/mar/20/myanmars-besieged-resistance-dreams-of-peoples-army-to-counter-junta)
+- [Coronavirus live news: Germany considering lockdown extension; Chile reports record daily cases](https://www.theguardian.com/world/live/2021/mar/22/coronavirus-live-news-global-covid-updates-germany-lockdown-chile-record-daily-cases)
+- [Canadian Michael Kovrig goes on trial in China](https://www.theguardian.com/world/2021/mar/22/michael-kovrig-trial-china-canada)
+- [Miami Beach spring break chaos: more than 1,000 arrests as Covid curfew extended](https://www.theguardian.com/us-news/2021/mar/21/miami-beach-officials-impose-covid-curfew-to-curb-spring-break-chaos)
+- ['Cooperative and rather active': joy as pandas mate in French zoo](https://www.theguardian.com/world/2021/mar/22/cooperative-and-rather-active-joy-as-pandas-mate-in-french-zoo)
+- [Failure of governments to value water leading to widespread waste, UN says](https://www.theguardian.com/environment/2021/mar/22/failure-of-governments-to-value-water-leading-to-widespread-waste-un-says)
+- [UK defence cuts show gulf between ambition and action, says Labour](https://www.theguardian.com/politics/2021/mar/22/uk-defence-cuts-gulf-ambition-action-labour-army-troops)
+- [40% of households in four London boroughs claiming housing costs – report](https://www.theguardian.com/society/2021/mar/22/40-of-households-in-four-london-boroughs-claiming-housing-costs-report)
+- [Half of British workers had real-terms pay cut in 2020, study says](https://www.theguardian.com/money/2021/mar/22/half-of-british-workers-had-real-terms-pay-cut-in-2020-study-says)
+- ['A huge step forward': WSL announces record-breaking deal with BBC and Sky](https://www.theguardian.com/football/2021/mar/22/a-huge-step-forward-wsl-announces-record-breaking-deal-with-bbc-and-sky)
+- [Bouquets of flowers are now 'substitute hugs', says booming florist](https://www.theguardian.com/business/2021/mar/22/bouquets-of-flowers-are-now-substitute-hugs-says-booming-florist)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

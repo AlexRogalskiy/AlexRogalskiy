@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/Money_makes_money_895.php" target="_blank"><i>Money makes money</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/The_wish_is_father_to_the_thought_960.php" target="_blank"><i>The wish is father to the thought</i></a>
 <span> = </span>
-<span>If you have money, you can use it to get more money through investment.</span>
+<span>Our opinions or beliefs are often influenced by our desires and hopes. The phrase "father to" is used in the sense of parentage: the thought is born from the wish.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

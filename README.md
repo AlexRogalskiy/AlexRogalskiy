@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
-- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
-- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
-- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
-- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
-- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
-- [SubX: A minimalist assembly language for a subset of the x86 ISA (2019)](https://github.com/akkartik/mu/blob/main/subx.md)
-- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
+- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
+- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
+- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
+- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
+- [OpenRA Release 20210321 (and new website)](https://www.openra.net/news/release-20210321/)
+- [FreeCAD 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
+- [A beginner’s guide to web accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

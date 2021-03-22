@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/lose_your_head_318.php" target="_blank"><i>lose your head</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/wear_your_heart_on_your_sleeve_372.php" target="_blank"><i>wear your heart on your sleeve</i></a>
 <span> = </span>
-<span>If you lose your head, you become very angry about something.</span>
+<span>If you wear your heart on your sleeve, you show your emotions openly and you don't try to hide your feelings.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

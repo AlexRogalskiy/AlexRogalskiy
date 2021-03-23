@@ -367,16 +367,16 @@ You have not lived.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
-- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
-- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
-- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
-- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
-- [OpenRA Release 20210321 (and new website)](https://www.openra.net/news/release-20210321/)
-- [FreeCAD 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
-- [A beginner’s guide to web accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
+- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
+- [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
+- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
+- [Substack's UI and 1Password temporarily cost me $2k](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
+- [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
+- [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
+- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
+- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
+- [Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case](https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case)
+- [Rents for the rich are going down, rents for the poor are going up. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -382,16 +382,16 @@ You have not lived.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Needed: Project management tools for the remote Apple enterprise](https://www.computerworld.com/article/3612195/needed-project-management-tools-for-the-remote-apple-enterprise.html#tk.rss_all)
+- [Text authentication is even worse than almost anyone thought](https://www.computerworld.com/article/3612243/text-authentication-is-even-worse-than-almost-anyone-thought.html#tk.rss_all)
+- [What you need to know about linking to files and pages in SharePoint](https://www.computerworld.com/article/3612244/what-you-need-to-know-about-linking-to-files-and-pages-in-sharepoint.html#tk.rss_all)
+- [Microsoft, we need to have a talk](https://www.computerworld.com/article/3612430/microsoft-we-need-to-have-a-talk.html#tk.rss_all)
+- [Does Microsoft share blame for the SolarWinds hack?](https://www.computerworld.com/article/3612191/does-microsoft-share-blame-for-the-solarwinds-hack.html#tk.rss_all)
 - [Apple CEO Tim Cook and the coming hybrid workplace](https://www.computerworld.com/article/3612218/apple-ceo-tim-cook-and-the-coming-hybrid-workplace.html#tk.rss_all)
 - [IBM’s Project Debater showcases next-gen AI-driven productivity](https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html#tk.rss_all)
 - [How to choose the right Windows 10 preview and update channels](https://www.computerworld.com/article/3220429/how-to-choose-the-right-windows-10-preview-and-update-channels.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Hackers target developers to break into Apple’s garden](https://www.computerworld.com/article/3612253/hackers-target-developers-to-break-into-apples-garden.html#tk.rss_all)
-- [Podcast: FCC to auction off 5G bandwidth; Apple data privacy update](https://www.computerworld.com/article/3612233/podcast-fcc-to-auction-off-5g-bandwidth-apple-data-privacy-update.html#tk.rss_all)
-- [Android apps for Chromebooks: The essentials](https://www.computerworld.com/article/3234533/android-apps-for-chromebooks-the-essentials.html#tk.rss_all)
-- [How to make more effective use of Mail in macOS](https://www.computerworld.com/article/3611859/how-to-make-more-effective-use-of-mail-in-macos.html#tk.rss_all)
-- [Microsoft provides Exchange Server defensive tool to help SMBs stymie zero-day attacks](https://www.computerworld.com/article/3612128/microsoft-provides-exchange-server-defensive-tool-to-help-smbs-stymie-zero-day-attacks.html#tk.rss_all)
-- [BrandPost: Optimize Your HCI From Edge to Core](https://www.computerworld.com/article/3612070/optimize-your-hci-from-edge-to-core.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

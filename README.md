@@ -322,16 +322,16 @@ You have not lived.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Candy-Selling Robot Wants to Follow You Around the Grocery Store](https://www.reviewgeek.com/74646/this-candy-selling-robot-will-follow-you-around-the-grocery-store/)
-* [Amazon's Fire TV Now Streams Free Local News to 88 Cities](https://www.reviewgeek.com/74608/amazons-fire-tv-now-streams-free-local-news-to-88-cities/)
-* [How to Turn off HomePod mini Proximity Vibrations and Notifications on iPhone](https://www.howtogeek.com/714310/how-to-turn-off-homepod-mini-proximity-vibrations-and-notifications-on-iphone/)
-* [Can You Stop People from Adding You to Groups on Instagram?](https://www.howtogeek.com/717946/can-you-stop-people-from-adding-you-to-groups-on-instagram/)
-* [How to Use Hulu’s Watch Party to Watch Movies and TV Shows with Others Online](https://www.howtogeek.com/714676/how-to-use-hulus-watch-party-to-watch-online-with-friends/)
-* [Grammarly's Tone Detector Arrives on Android and iOS](https://www.reviewgeek.com/74578/grammarlys-tone-detector-arrives-on-android-and-ios/)
-* [How to Check Which Apple Watch ECG App Version You Have](https://www.howtogeek.com/717140/how-to-check-which-apple-watch-ecg-app-version-you-have/)
-* [The 7 Best Alarm Clock Apps for Android](https://www.reviewgeek.com/72368/the-7-best-alarm-clock-apps-for-android/)
-* [How to Delete Your Personal Contacts from Instagram](https://www.howtogeek.com/716175/how-to-delete-your-personal-contacts-from-instagram/)
-* [How to Turn off Save Password Pop-ups in Microsoft Edge](https://www.howtogeek.com/715508/how-turn-off-save-password-pop-ups-in-microsoft-edge/)
+* [Jeep's Concept Wrangler EV is Surprisingly a Six-Speed Manual](https://www.reviewgeek.com/74812/jeeps-concept-wrangler-ev-is-surprisingly-a-six-speed-manual/)
+* [Flying Cars and Drones Will Soon Get Their Own Airport in the UK](https://www.reviewgeek.com/74805/74805/)
+* [Fitbit Inspire 2 Gets Free Tile Tracking In a New Update](https://www.reviewgeek.com/74793/fitbit-inspire-2-gets-free-tile-tracking-in-a-new-update/)
+* [Roku Is the New Streaming Home of 'This Old House'](https://www.reviewgeek.com/74799/roku-is-the-new-streaming-home-of-this-old-house/)
+* [LEGO's $200 NASA Space Shuttle Discovery Comes With a Hubble Telescope](https://www.reviewgeek.com/74790/legos-200-nasa-space-shuttle-discovery-comes-with-a-hubble-telescope/)
+* [More iMacs Disappear from Apple Store, Fueling M1 iMac Rumors](https://www.reviewgeek.com/74777/more-imacs-disappear-from-apple-store-fueling-m1-imac-rumors/)
+* [How to Get a Caps Lock Key on Your Chromebook](https://www.howtogeek.com/712455/how-to-get-a-caps-lock-key-on-your-chromebook/)
+* [How (and Why) to Start Microsoft PowerPoint from the Command Prompt](https://www.howtogeek.com/715003/how-and-why-to-start-microsoft-powerpoint-from-the-command-prompt/)
+* [Everything Coming to Netflix the Week of March 22, 2021](https://www.lifesavvy.com/62595/everything-coming-to-netflix-the-week-of-march-22-2021/)
+* [Spring Cleaning Day 1: Reclaim Your Kitchen Sink](https://www.lifesavvy.com/62978/spring-cleaning-day-1-reclaim-your-kitchen-sink/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

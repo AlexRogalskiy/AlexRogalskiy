@@ -352,16 +352,16 @@ You have not lived.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Germany considering lockdown extension; Chile reports record daily cases](https://www.theguardian.com/world/live/2021/mar/22/coronavirus-live-news-global-covid-updates-germany-lockdown-chile-record-daily-cases)
-- [Canadian Michael Kovrig goes on trial in China](https://www.theguardian.com/world/2021/mar/22/michael-kovrig-trial-china-canada)
-- [Miami Beach spring break chaos: more than 1,000 arrests as Covid curfew extended](https://www.theguardian.com/us-news/2021/mar/21/miami-beach-officials-impose-covid-curfew-to-curb-spring-break-chaos)
-- ['Cooperative and rather active': joy as pandas mate in French zoo](https://www.theguardian.com/world/2021/mar/22/cooperative-and-rather-active-joy-as-pandas-mate-in-french-zoo)
-- [Failure of governments to value water leading to widespread waste, UN says](https://www.theguardian.com/environment/2021/mar/22/failure-of-governments-to-value-water-leading-to-widespread-waste-un-says)
-- [UK defence cuts show gulf between ambition and action, says Labour](https://www.theguardian.com/politics/2021/mar/22/uk-defence-cuts-gulf-ambition-action-labour-army-troops)
-- [40% of households in four London boroughs claiming housing costs – report](https://www.theguardian.com/society/2021/mar/22/40-of-households-in-four-london-boroughs-claiming-housing-costs-report)
-- [Half of British workers had real-terms pay cut in 2020, study says](https://www.theguardian.com/money/2021/mar/22/half-of-british-workers-had-real-terms-pay-cut-in-2020-study-says)
-- ['A huge step forward': WSL announces record-breaking deal with BBC and Sky](https://www.theguardian.com/football/2021/mar/22/a-huge-step-forward-wsl-announces-record-breaking-deal-with-bbc-and-sky)
-- [Bouquets of flowers are now 'substitute hugs', says booming florist](https://www.theguardian.com/business/2021/mar/22/bouquets-of-flowers-are-now-substitute-hugs-says-booming-florist)
+- [Coronavirus live news: Merkel says Germany 'in a very serious situation'; WHO warns global weekly deaths rising](https://www.theguardian.com/world/live/2021/mar/23/coronavirus-live-news-who-warns-global-weekly-deaths-rising-uk-bans-non-essential-foreign-travel)
+- [Sweden to increase airport fees for high-polluting planes](https://www.theguardian.com/environment/2021/mar/23/sweden-to-increase-airport-fees-for-high-polluting-planes)
+- [Talking Horses: Date set for owners' return to tracks as lockdown eases](https://www.theguardian.com/sport/blog/2021/mar/23/talking-horses-date-set-for-owners-return-to-racecourses-horse-racing-tips)
+- [UK faces 'Covid decade' due to damage done by pandemic, says report](https://www.theguardian.com/world/2021/mar/23/uk-faces-covid-decade-due-to-damage-done-by-pandemic-says-report)
+- [Dexamethasone hailed as lifesaver for up to a million Covid patients worldwide](https://www.theguardian.com/world/2021/mar/23/dexamethasone-hailed-as-lifesaver-for-up-to-a-million-covid-patients-worldwide)
+- [UK shift to local shopping could last beyond pandemic – poll](https://www.theguardian.com/business/2021/mar/23/uk-local-grocery-shopping-could-last-beyond-pandemic-poll-small-stores-food-drink)
+- [Green groups dispute power station claim that biomass is carbon-neutral](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
+- [Authors fear the worst if Penguin owner takes over Simon & Schuster](https://www.theguardian.com/books/2021/mar/22/authors-fear-the-worst-if-bertelsmann-takes-over-simon-schuster)
+- [Cuts and budget delays are undermining UK science sector, warns Labour](https://www.theguardian.com/science/2021/mar/22/cuts-and-budget-delays-are-undermining-uk-science-sector-warns-labour)
+- [Unforgotten series four, episode five recap – what now for Cassie?](https://www.theguardian.com/tv-and-radio/2021/mar/22/unforgotten-series-four-episode-five-recap-what-now-for-cassie)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

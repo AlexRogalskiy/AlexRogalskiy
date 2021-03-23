@@ -246,39 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646289437931798528" target="_blank"><i>“I Was Popular in Certain Circles”</i></a></summary>
-<p>by Gabrielle Calvocoressi</p><p>Among the river rats and the leaves.<br/>
-For example. I was huge among the lichen,<br/>
-and the waterfall couldn’t get enough<br/>
-of me. And the gravestones?<br/>
-I was hugely popular with the gravestones.<br/>
-Also with the meat liquefying<br/>
-beneath. I’d say to the carrion birds,<br/>
-I’d say, “Are you an eagle? I can’t see<br/>
-so well.” That made them laugh until we<br/>
-were screaming. Eagle. Imagine.<br/><br/> The vultures loved me so much they’d
-feed<br/>
-me the first morsel. From their delicate<br/>
-talons, which is what I called them:<br/>
-such delicate talons. They loved me so deeply<br/>
-they’d visit in pairs. One to feed me.<br/>
-One to cover my eyes with its velvety wings.<br/>
-Which were heavy as theater curtains. Which I was<br/>
-sure to remark on. “Why can’t I see what I’m eating?”<br/>
-I’d say. And the wings would pull me into<br/>
-the great bird’s chest. And I’d feel the nail<br/>
-inside my mouth.<br/><br/>
-What pals I was with all the scavengers!<br/>
-And the dead things too. What pals.<br/>
-As for the living, the fox would not be outdone.<br/>
-We’d sit on the cliff’s edge and watch the river<br/>
-like a movie and I’d say, “I think last night&hellip;”<br/>
-and the fox would put his paw on top of mine<br/>
-and say, “Forget it. It’s done.” I mean,<br/>
-we had fun. You haven’t lived until a fox<br/>
-has whispered something the ferns told him<br/>
-in your one good ear. I mean truly.<br/>
-You have not lived.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646380052599144449" target="_blank"><i>“The light presses down”</i></a></summary>
+<p>by Frank O’Hara</p><p>The light presses down<br/>in an empty head the trees<br/>and bushes flop like<br/>a little girl imitating<br/>The Dying Swan the stone<br/>is hot the church is a<br/>Russian oven and we<br/>arc traveling still</p><p>you come by to type<br/>your poems and write a<br/>new poem instead on my<br/>old typewriter while I sit<br/>and read a novel about<br/>a lunatic&rsquo;s analysis of<br/>a poem by Robert Frost<br/>it is all suffocating</p><p>I am still traveling<br/>with Belinda Lee where<br/>does she take me Africa<br/>where it is hot enough<br/>even to make the elephant<br/>angry and the grass is<br/>all withered and TV color<br/><br/>why do I always read<br/>Russian exile novels in<br/>summer I guess because<br/>they&rsquo;re full of snow<br/>and it is good to cry a<br/>little to match your sweat<br/>and sweat a little<br/>to match their tears</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

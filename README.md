@@ -278,7 +278,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-6°C (<i>clear sky</i>), humidity: 68%, pressure: 1010 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
+        <b>-9°C (<i>clear sky</i>), humidity: 79%, pressure: 1011 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:51 am</b> and sets at <b>19:19 pm</b>.
     </p>
@@ -291,81 +291,83 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Candy-Selling Robot Wants to Follow You Around the Grocery Store](https://www.reviewgeek.com/74646/this-candy-selling-robot-will-follow-you-around-the-grocery-store/)
-* [Amazon's Fire TV Now Streams Free Local News to 88 Cities](https://www.reviewgeek.com/74608/amazons-fire-tv-now-streams-free-local-news-to-88-cities/)
-* [How to Turn off HomePod mini Proximity Vibrations and Notifications on iPhone](https://www.howtogeek.com/714310/how-to-turn-off-homepod-mini-proximity-vibrations-and-notifications-on-iphone/)
-* [Can You Stop People from Adding You to Groups on Instagram?](https://www.howtogeek.com/717946/can-you-stop-people-from-adding-you-to-groups-on-instagram/)
-* [How to Use Hulu’s Watch Party to Watch Movies and TV Shows with Others Online](https://www.howtogeek.com/714676/how-to-use-hulus-watch-party-to-watch-online-with-friends/)
-* [Grammarly's Tone Detector Arrives on Android and iOS](https://www.reviewgeek.com/74578/grammarlys-tone-detector-arrives-on-android-and-ios/)
-* [How to Check Which Apple Watch ECG App Version You Have](https://www.howtogeek.com/717140/how-to-check-which-apple-watch-ecg-app-version-you-have/)
-* [The 7 Best Alarm Clock Apps for Android](https://www.reviewgeek.com/72368/the-7-best-alarm-clock-apps-for-android/)
-* [How to Delete Your Personal Contacts from Instagram](https://www.howtogeek.com/716175/how-to-delete-your-personal-contacts-from-instagram/)
-* [How to Turn off Save Password Pop-ups in Microsoft Edge](https://www.howtogeek.com/715508/how-turn-off-save-password-pop-ups-in-microsoft-edge/)
+* [Jeep's Concept Wrangler EV is Surprisingly a Six-Speed Manual](https://www.reviewgeek.com/74812/jeeps-concept-wrangler-ev-is-surprisingly-a-six-speed-manual/)
+* [Flying Cars and Drones Will Soon Get Their Own Airport in the UK](https://www.reviewgeek.com/74805/74805/)
+* [Fitbit Inspire 2 Gets Free Tile Tracking In a New Update](https://www.reviewgeek.com/74793/fitbit-inspire-2-gets-free-tile-tracking-in-a-new-update/)
+* [Roku Is the New Streaming Home of 'This Old House'](https://www.reviewgeek.com/74799/roku-is-the-new-streaming-home-of-this-old-house/)
+* [LEGO's $200 NASA Space Shuttle Discovery Comes With a Hubble Telescope](https://www.reviewgeek.com/74790/legos-200-nasa-space-shuttle-discovery-comes-with-a-hubble-telescope/)
+* [More iMacs Disappear from Apple Store, Fueling M1 iMac Rumors](https://www.reviewgeek.com/74777/more-imacs-disappear-from-apple-store-fueling-m1-imac-rumors/)
+* [How to Get a Caps Lock Key on Your Chromebook](https://www.howtogeek.com/712455/how-to-get-a-caps-lock-key-on-your-chromebook/)
+* [How (and Why) to Start Microsoft PowerPoint from the Command Prompt](https://www.howtogeek.com/715003/how-and-why-to-start-microsoft-powerpoint-from-the-command-prompt/)
+* [Everything Coming to Netflix the Week of March 22, 2021](https://www.lifesavvy.com/62595/everything-coming-to-netflix-the-week-of-march-22-2021/)
+* [Spring Cleaning Day 1: Reclaim Your Kitchen Sink](https://www.lifesavvy.com/62978/spring-cleaning-day-1-reclaim-your-kitchen-sink/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russia, China Must Move Away from Using Dollar – Russian Foreign Minister Lavrov](https://sputniknews.com/world/202103211082412091-russia-china-must-move-away-from-using-dollar-western-controlled-payment-systems-lavrov-says/)
-- [Jeff Koons's Science Projects](https://www.theatlantic.com/entertainment/archive/2014/07/the-science-behind-the-art-of-jeff-koons/374614/)
-- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
-- [“Mass shootings surge in (insert state here) as nation faces record high”](https://www.reddit.com/r/progun/comments/m1i9d6/mass_shootings_surge_in_insert_state_here_as/)
-- [Don't Call Yourself a Programmer, and Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-- [Free Software Awards Winners: CiviCRM, Bradley Kuhn, and Alyssa Rosenzweig](https://www.fsf.org/news/free-software-awards-winners-announced-civicrm-bradley-kuhn-and-alyssa-rosenzweig)
-- [Michael Bay hired a gaming company to build a model of his custom home](https://www.architecturaldigest.com/story/michael-bay-los-angeles-home-article)
-- [3MB of Data into a tweetable PNG](https://github.com/DavidBuchanan314/tweetable-polyglot-png)
-- [TSMC chip manufacturing capacity is fully booked through the first half of 2022](https://twitter.com/dnystedt/status/1373802797812961286)
-- [Progressive Disclosure of Complexity and Typed FP Languages](https://v5.chriskrycho.com/journal/progressive-disclosure-of-complexity-and-typed-fp-languages/)
+- [Richard Stallman Is Uncancelled](https://www.youtube.com/watch?v=fT0H3g6rVpU)
+- [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.com/news/world-us-canada-56491941)
+- [An 89-Year-Old Sharpshooter Takes Aim at India’s Patriarchy](https://www.nytimes.com/2021/03/19/world/asia/india-chandro-tomar-sharpshooter.html)
+- [The HTML autocomplete attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
+- [What Was CP/M, and Why Did It Lose to MS-DOS?](https://www.howtogeek.com/718124/what-was-cpm-and-why-did-it-lose-to-ms-dos/)
+- [Vaccinated? Krispy Kreme will give you free doughnuts for rest of 2021](https://www.sfgate.com/food/article/Vaccinated-Krispy-Kreme-free-doughnuts-vaccine-16044087.php?IPID=SFGate-HP-CP-Spotlight)
+- [Vesuvius killed people of Pompeii in 15 minutes, study suggests](https://www.theguardian.com/world/2021/mar/22/vesuvius-wiped-out-all-life-pompeii-15-minutes-study-pyroclastic-flow-cloud-gases-ash)
+- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
+- [Spark Capital Cuts Ties with Dispo One Month After $20M Investment](https://twitter.com/sparkcapital/status/1373855197831720963)
+- [Facebook loses Supreme Court ruling on tracking](https://www.bloomberg.com/news/articles/2021-03-22/facebook-rejected-by-supreme-court-in-user-tracking-lawsuit)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Germany considering lockdown extension; Chile reports record daily cases](https://www.theguardian.com/world/live/2021/mar/22/coronavirus-live-news-global-covid-updates-germany-lockdown-chile-record-daily-cases)
-- [Canadian Michael Kovrig goes on trial in China](https://www.theguardian.com/world/2021/mar/22/michael-kovrig-trial-china-canada)
-- [Miami Beach spring break chaos: more than 1,000 arrests as Covid curfew extended](https://www.theguardian.com/us-news/2021/mar/21/miami-beach-officials-impose-covid-curfew-to-curb-spring-break-chaos)
-- ['Cooperative and rather active': joy as pandas mate in French zoo](https://www.theguardian.com/world/2021/mar/22/cooperative-and-rather-active-joy-as-pandas-mate-in-french-zoo)
-- [Failure of governments to value water leading to widespread waste, UN says](https://www.theguardian.com/environment/2021/mar/22/failure-of-governments-to-value-water-leading-to-widespread-waste-un-says)
-- [UK defence cuts show gulf between ambition and action, says Labour](https://www.theguardian.com/politics/2021/mar/22/uk-defence-cuts-gulf-ambition-action-labour-army-troops)
-- [40% of households in four London boroughs claiming housing costs – report](https://www.theguardian.com/society/2021/mar/22/40-of-households-in-four-london-boroughs-claiming-housing-costs-report)
-- [Half of British workers had real-terms pay cut in 2020, study says](https://www.theguardian.com/money/2021/mar/22/half-of-british-workers-had-real-terms-pay-cut-in-2020-study-says)
-- ['A huge step forward': WSL announces record-breaking deal with BBC and Sky](https://www.theguardian.com/football/2021/mar/22/a-huge-step-forward-wsl-announces-record-breaking-deal-with-bbc-and-sky)
-- [Bouquets of flowers are now 'substitute hugs', says booming florist](https://www.theguardian.com/business/2021/mar/22/bouquets-of-flowers-are-now-substitute-hugs-says-booming-florist)
+- [Coronavirus live news: Merkel says Germany 'in a very serious situation'; WHO warns global weekly deaths rising](https://www.theguardian.com/world/live/2021/mar/23/coronavirus-live-news-who-warns-global-weekly-deaths-rising-uk-bans-non-essential-foreign-travel)
+- [Sweden to increase airport fees for high-polluting planes](https://www.theguardian.com/environment/2021/mar/23/sweden-to-increase-airport-fees-for-high-polluting-planes)
+- [Talking Horses: Date set for owners' return to tracks as lockdown eases](https://www.theguardian.com/sport/blog/2021/mar/23/talking-horses-date-set-for-owners-return-to-racecourses-horse-racing-tips)
+- [UK faces 'Covid decade' due to damage done by pandemic, says report](https://www.theguardian.com/world/2021/mar/23/uk-faces-covid-decade-due-to-damage-done-by-pandemic-says-report)
+- [Dexamethasone hailed as lifesaver for up to a million Covid patients worldwide](https://www.theguardian.com/world/2021/mar/23/dexamethasone-hailed-as-lifesaver-for-up-to-a-million-covid-patients-worldwide)
+- [UK shift to local shopping could last beyond pandemic – poll](https://www.theguardian.com/business/2021/mar/23/uk-local-grocery-shopping-could-last-beyond-pandemic-poll-small-stores-food-drink)
+- [Green groups dispute power station claim that biomass is carbon-neutral](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
+- [Authors fear the worst if Penguin owner takes over Simon & Schuster](https://www.theguardian.com/books/2021/mar/22/authors-fear-the-worst-if-bertelsmann-takes-over-simon-schuster)
+- [Cuts and budget delays are undermining UK science sector, warns Labour](https://www.theguardian.com/science/2021/mar/22/cuts-and-budget-delays-are-undermining-uk-science-sector-warns-labour)
+- [Unforgotten series four, episode five recap – what now for Cassie?](https://www.theguardian.com/tv-and-radio/2021/mar/22/unforgotten-series-four-episode-five-recap-what-now-for-cassie)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
-- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
-- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
-- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
-- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
-- [OpenRA Release 20210321 (and new website)](https://www.openra.net/news/release-20210321/)
-- [FreeCAD 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
-- [A beginner’s guide to web accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
+- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
+- [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
+- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
+- [Substack's UI and 1Password temporarily cost me $2k](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
+- [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
+- [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
+- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
+- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
+- [Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case](https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case)
+- [Rents for the rich are going down, rents for the poor are going up. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Needed: Project management tools for the remote Apple enterprise](https://www.computerworld.com/article/3612195/needed-project-management-tools-for-the-remote-apple-enterprise.html#tk.rss_all)
+- [Text authentication is even worse than almost anyone thought](https://www.computerworld.com/article/3612243/text-authentication-is-even-worse-than-almost-anyone-thought.html#tk.rss_all)
+- [What you need to know about linking to files and pages in SharePoint](https://www.computerworld.com/article/3612244/what-you-need-to-know-about-linking-to-files-and-pages-in-sharepoint.html#tk.rss_all)
+- [Microsoft, we need to have a talk](https://www.computerworld.com/article/3612430/microsoft-we-need-to-have-a-talk.html#tk.rss_all)
+- [Does Microsoft share blame for the SolarWinds hack?](https://www.computerworld.com/article/3612191/does-microsoft-share-blame-for-the-solarwinds-hack.html#tk.rss_all)
 - [Apple CEO Tim Cook and the coming hybrid workplace](https://www.computerworld.com/article/3612218/apple-ceo-tim-cook-and-the-coming-hybrid-workplace.html#tk.rss_all)
 - [IBM’s Project Debater showcases next-gen AI-driven productivity](https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html#tk.rss_all)
 - [How to choose the right Windows 10 preview and update channels](https://www.computerworld.com/article/3220429/how-to-choose-the-right-windows-10-preview-and-update-channels.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Hackers target developers to break into Apple’s garden](https://www.computerworld.com/article/3612253/hackers-target-developers-to-break-into-apples-garden.html#tk.rss_all)
-- [Podcast: FCC to auction off 5G bandwidth; Apple data privacy update](https://www.computerworld.com/article/3612233/podcast-fcc-to-auction-off-5g-bandwidth-apple-data-privacy-update.html#tk.rss_all)
-- [Android apps for Chromebooks: The essentials](https://www.computerworld.com/article/3234533/android-apps-for-chromebooks-the-essentials.html#tk.rss_all)
-- [How to make more effective use of Mail in macOS](https://www.computerworld.com/article/3611859/how-to-make-more-effective-use-of-mail-in-macos.html#tk.rss_all)
-- [Microsoft provides Exchange Server defensive tool to help SMBs stymie zero-day attacks](https://www.computerworld.com/article/3612128/microsoft-provides-exchange-server-defensive-tool-to-help-smbs-stymie-zero-day-attacks.html#tk.rss_all)
-- [BrandPost: Optimize Your HCI From Edge to Core](https://www.computerworld.com/article/3612070/optimize-your-hci-from-edge-to-core.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Scholarships Can Support Diversity and Inclusion in Tech](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-scholarships-can-support-diversity-and-inclusion-in-tech/a/d-id/1340464?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [5 AI-for-Industry Myths Debunked](https://www.informationweek.com/big-data/ai-machine-learning/5-ai-for-industry-myths-debunked/a/d-id/1340451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Common AI Ethics Mistakes Companies Are Making](https://www.informationweek.com/big-data/ai-machine-learning/common-ai-ethics-mistakes-companies-are-making/a/d-id/1340456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [In Process Optimization, Look Beyond the Ax and Stopwatch](https://www.informationweek.com/big-data/ai-machine-learning/in-process-optimization-look-beyond-the-ax-and-stopwatch/a/d-id/1340424?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Ways Enterprises Can Use the Edge](https://www.informationweek.com/big-data/10-ways-enterprises-can-use-the-edge/d/d-id/1340441?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -374,8 +376,6 @@
 - [Finding the Right Balance of On-Site and At-Home IT Workers](https://www.informationweek.com/strategic-cio/finding-the-right-balance-of-on-site-and-at-home-it-workers-/a/d-id/1340409?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AI One Year Later: How the Pandemic Impacted the Future of Technology](https://www.informationweek.com/big-data/ai-machine-learning/ai-one-year-later-how-the-pandemic-impacted-the-future-of-technology/a/d-id/1340399?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Define Your Edge Computing Architecture](https://www.informationweek.com/cloud/how-to-define-your-edge-computing-architecture/a/d-id/1340396?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AI Must Play a Role in Data Cloud Management](https://www.informationweek.com/cloud/ai-must-play-a-role-in-data-cloud-management/a/d-id/1340379?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

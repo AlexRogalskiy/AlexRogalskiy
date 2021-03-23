@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/pass_out_1__1892.php" target="_blank"><i>pass out (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wash_down_2581.php" target="_blank"><i>wash down</i></a>
 <span> = </span>
-<span>to give something to each person in a group</span>
+<span>to drink something soon after eating food or while swallowing pills</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

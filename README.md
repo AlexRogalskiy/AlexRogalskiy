@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/wear_your_heart_on_your_sleeve_372.php" target="_blank"><i>wear your heart on your sleeve</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/from_time_to_time_627.php" target="_blank"><i>from time to time</i></a>
 <span> = </span>
-<span>If you wear your heart on your sleeve, you show your emotions openly and you don't try to hide your feelings.</span>
+<span>If you do something from time to time, you do it occasionally, but not very often.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

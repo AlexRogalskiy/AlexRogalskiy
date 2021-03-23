@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/British/pissed_off_828.php" target="_blank"><i>pissed off</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Sports/zip_1__1002.php" target="_blank"><i>zip (1)</i></a>
 <span> = </span>
-<span>angry, annoyed</span>
+<span>energy, vitality</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

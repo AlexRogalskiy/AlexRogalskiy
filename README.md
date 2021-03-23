@@ -337,16 +337,16 @@ You have not lived.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russia, China Must Move Away from Using Dollar – Russian Foreign Minister Lavrov](https://sputniknews.com/world/202103211082412091-russia-china-must-move-away-from-using-dollar-western-controlled-payment-systems-lavrov-says/)
-- [Jeff Koons's Science Projects](https://www.theatlantic.com/entertainment/archive/2014/07/the-science-behind-the-art-of-jeff-koons/374614/)
-- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
-- [“Mass shootings surge in (insert state here) as nation faces record high”](https://www.reddit.com/r/progun/comments/m1i9d6/mass_shootings_surge_in_insert_state_here_as/)
-- [Don't Call Yourself a Programmer, and Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-- [Free Software Awards Winners: CiviCRM, Bradley Kuhn, and Alyssa Rosenzweig](https://www.fsf.org/news/free-software-awards-winners-announced-civicrm-bradley-kuhn-and-alyssa-rosenzweig)
-- [Michael Bay hired a gaming company to build a model of his custom home](https://www.architecturaldigest.com/story/michael-bay-los-angeles-home-article)
-- [3MB of Data into a tweetable PNG](https://github.com/DavidBuchanan314/tweetable-polyglot-png)
-- [TSMC chip manufacturing capacity is fully booked through the first half of 2022](https://twitter.com/dnystedt/status/1373802797812961286)
-- [Progressive Disclosure of Complexity and Typed FP Languages](https://v5.chriskrycho.com/journal/progressive-disclosure-of-complexity-and-typed-fp-languages/)
+- [Richard Stallman Is Uncancelled](https://www.youtube.com/watch?v=fT0H3g6rVpU)
+- [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.com/news/world-us-canada-56491941)
+- [An 89-Year-Old Sharpshooter Takes Aim at India’s Patriarchy](https://www.nytimes.com/2021/03/19/world/asia/india-chandro-tomar-sharpshooter.html)
+- [The HTML autocomplete attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
+- [What Was CP/M, and Why Did It Lose to MS-DOS?](https://www.howtogeek.com/718124/what-was-cpm-and-why-did-it-lose-to-ms-dos/)
+- [Vaccinated? Krispy Kreme will give you free doughnuts for rest of 2021](https://www.sfgate.com/food/article/Vaccinated-Krispy-Kreme-free-doughnuts-vaccine-16044087.php?IPID=SFGate-HP-CP-Spotlight)
+- [Vesuvius killed people of Pompeii in 15 minutes, study suggests](https://www.theguardian.com/world/2021/mar/22/vesuvius-wiped-out-all-life-pompeii-15-minutes-study-pyroclastic-flow-cloud-gases-ash)
+- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
+- [Spark Capital Cuts Ties with Dispo One Month After $20M Investment](https://twitter.com/sparkcapital/status/1373855197831720963)
+- [Facebook loses Supreme Court ruling on tracking](https://www.bloomberg.com/news/articles/2021-03-22/facebook-rejected-by-supreme-court-in-user-tracking-lawsuit)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

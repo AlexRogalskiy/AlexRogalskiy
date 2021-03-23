@@ -397,6 +397,8 @@ You have not lived.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Scholarships Can Support Diversity and Inclusion in Tech](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-scholarships-can-support-diversity-and-inclusion-in-tech/a/d-id/1340464?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [5 AI-for-Industry Myths Debunked](https://www.informationweek.com/big-data/ai-machine-learning/5-ai-for-industry-myths-debunked/a/d-id/1340451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Common AI Ethics Mistakes Companies Are Making](https://www.informationweek.com/big-data/ai-machine-learning/common-ai-ethics-mistakes-companies-are-making/a/d-id/1340456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [In Process Optimization, Look Beyond the Ax and Stopwatch](https://www.informationweek.com/big-data/ai-machine-learning/in-process-optimization-look-beyond-the-ax-and-stopwatch/a/d-id/1340424?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Ways Enterprises Can Use the Edge](https://www.informationweek.com/big-data/10-ways-enterprises-can-use-the-edge/d/d-id/1340441?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -405,8 +407,6 @@ You have not lived.</p>
 - [Finding the Right Balance of On-Site and At-Home IT Workers](https://www.informationweek.com/strategic-cio/finding-the-right-balance-of-on-site-and-at-home-it-workers-/a/d-id/1340409?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AI One Year Later: How the Pandemic Impacted the Future of Technology](https://www.informationweek.com/big-data/ai-machine-learning/ai-one-year-later-how-the-pandemic-impacted-the-future-of-technology/a/d-id/1340399?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Define Your Edge Computing Architecture](https://www.informationweek.com/cloud/how-to-define-your-edge-computing-architecture/a/d-id/1340396?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AI Must Play a Role in Data Cloud Management](https://www.informationweek.com/cloud/ai-must-play-a-role-in-data-cloud-management/a/d-id/1340379?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Red Hat CIO Kelly Talks Hybrid Cloud for Post-Pandemic World](https://www.informationweek.com/cloud/red-hat-cio-kelly-talks-hybrid-cloud-for-post-pandemic-world/a/d-id/1340363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

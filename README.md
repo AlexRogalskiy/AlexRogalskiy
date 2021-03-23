@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/The_wish_is_father_to_the_thought_960.php" target="_blank"><i>The wish is father to the thought</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/The_darkest_hour_is_always_before_dawn_567.php" target="_blank"><i>The darkest hour is always before dawn</i></a>
 <span> = </span>
-<span>Our opinions or beliefs are often influenced by our desires and hopes. The phrase "father to" is used in the sense of parentage: the thought is born from the wish.</span>
+<span>This proverb says that just before the sun rises the sky is at its blackest, suggesting that when times are at their worst for us they will soon get better.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -246,8 +246,24 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646380052599144449" target="_blank"><i>“The light presses down”</i></a></summary>
-<p>by Frank O’Hara</p><p>The light presses down<br/>in an empty head the trees<br/>and bushes flop like<br/>a little girl imitating<br/>The Dying Swan the stone<br/>is hot the church is a<br/>Russian oven and we<br/>arc traveling still</p><p>you come by to type<br/>your poems and write a<br/>new poem instead on my<br/>old typewriter while I sit<br/>and read a novel about<br/>a lunatic&rsquo;s analysis of<br/>a poem by Robert Frost<br/>it is all suffocating</p><p>I am still traveling<br/>with Belinda Lee where<br/>does she take me Africa<br/>where it is hot enough<br/>even to make the elephant<br/>angry and the grass is<br/>all withered and TV color<br/><br/>why do I always read<br/>Russian exile novels in<br/>summer I guess because<br/>they&rsquo;re full of snow<br/>and it is good to cry a<br/>little to match your sweat<br/>and sweat a little<br/>to match their tears</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646470646991355904" target="_blank"><i>Love’s Philosophy</i></a></summary>
+<p>by Percy Bysshe Shelley</p><p>The fountains mingle with the river 
+   <br/>And the rivers with the ocean, 
+<br/>The winds of heaven mix for ever 
+   <br/>With a sweet emotion; <br/>
+Nothing in the world is single; 
+   <br/>All things by a law divine 
+<br/>In one spirit meet and mingle. 
+   <br/>Why not I with thine?— 
+<br/><br/>
+See the mountains kiss high heaven 
+   <br/>And the waves clasp one another; 
+<br/>No sister-flower would be forgiven 
+   <br/>If it disdained its brother; 
+<br/>And the sunlight clasps the earth 
+   <br/>And the moonbeams kiss the sea: 
+<br/>What is all this sweet work worth 
+   <br/>If thou kiss not me? </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

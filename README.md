@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/The_darkest_hour_is_always_before_dawn_567.php" target="_blank"><i>The darkest hour is always before dawn</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_4/Man_does_not_live_by_bread_alone_552.php" target="_blank"><i>Man does not live by bread alone</i></a>
 <span> = </span>
-<span>This proverb says that just before the sun rises the sky is at its blackest, suggesting that when times are at their worst for us they will soon get better.</span>
+<span>This proverb suggests that people have a spiritual side as well as a physical side. We need to take care of our spirit as much as our body.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

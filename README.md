@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wash_down_2581.php" target="_blank"><i>wash down</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/get_2/get_down_3__2790.php" target="_blank"><i>get down (3)</i></a>
 <span> = </span>
-<span>to drink something soon after eating food or while swallowing pills</span>
+<span>to manage to swallow something that isn't easy to swallow</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

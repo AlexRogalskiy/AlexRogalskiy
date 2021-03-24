@@ -294,7 +294,7 @@ See the mountains kiss high heaven
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>11°C (<i>clear sky</i>), humidity: 43%, pressure: 1012 (mbar), wind: /east/ 10 (m/s), cloudy: 0%</b>
+        <b>11°C (<i>clear sky</i>), humidity: 43%, pressure: 1012 (mbar), wind: /south-east/ 9 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:48 am</b> and sets at <b>19:21 pm</b>.
     </p>

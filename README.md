@@ -294,7 +294,7 @@ See the mountains kiss high heaven
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>clear sky</i>), humidity: 69%, pressure: 1013 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
+        <b>2°C (<i>clear sky</i>), humidity: 70%, pressure: 1013 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:48 am</b> and sets at <b>19:21 pm</b>.
     </p>
@@ -307,16 +307,16 @@ See the mountains kiss high heaven
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Jeep's Concept Wrangler EV is Surprisingly a Six-Speed Manual](https://www.reviewgeek.com/74812/jeeps-concept-wrangler-ev-is-surprisingly-a-six-speed-manual/)
-* [Flying Cars and Drones Will Soon Get Their Own Airport in the UK](https://www.reviewgeek.com/74805/74805/)
-* [Fitbit Inspire 2 Gets Free Tile Tracking In a New Update](https://www.reviewgeek.com/74793/fitbit-inspire-2-gets-free-tile-tracking-in-a-new-update/)
-* [Roku Is the New Streaming Home of 'This Old House'](https://www.reviewgeek.com/74799/roku-is-the-new-streaming-home-of-this-old-house/)
-* [LEGO's $200 NASA Space Shuttle Discovery Comes With a Hubble Telescope](https://www.reviewgeek.com/74790/legos-200-nasa-space-shuttle-discovery-comes-with-a-hubble-telescope/)
-* [More iMacs Disappear from Apple Store, Fueling M1 iMac Rumors](https://www.reviewgeek.com/74777/more-imacs-disappear-from-apple-store-fueling-m1-imac-rumors/)
-* [How to Get a Caps Lock Key on Your Chromebook](https://www.howtogeek.com/712455/how-to-get-a-caps-lock-key-on-your-chromebook/)
-* [How (and Why) to Start Microsoft PowerPoint from the Command Prompt](https://www.howtogeek.com/715003/how-and-why-to-start-microsoft-powerpoint-from-the-command-prompt/)
-* [Everything Coming to Netflix the Week of March 22, 2021](https://www.lifesavvy.com/62595/everything-coming-to-netflix-the-week-of-march-22-2021/)
-* [Spring Cleaning Day 1: Reclaim Your Kitchen Sink](https://www.lifesavvy.com/62978/spring-cleaning-day-1-reclaim-your-kitchen-sink/)
+* [SEGA's Cute Little $139 Astro City Mini Arcade Will Get a Limited U.S. Release](https://www.reviewgeek.com/74939/segas-cute-little-139-astro-city-mini-arcade-will-get-a-limited-u-s-release/)
+* [Samsung Announces 12 New HDR Monitors for Your Work-from-Home Setup](https://www.reviewgeek.com/74945/samsung-announces-12-new-hdr-monitors-for-your-work-from-home-setup/)
+* [Rumored HomePod Smart Display Could Feature FaceTime Camera](https://www.reviewgeek.com/74909/rumored-homepod-smart-display-could-feature-facetime-camera/)
+* [How to Install Extensions (Add-ons) in Mozilla Firefox](https://www.howtogeek.com/719529/how-to-install-extensions-add-ons-in-mozilla-firefox/)
+* [The New $159 OnePlus Watch Can Track SP02 and Parkour Workouts](https://www.reviewgeek.com/74876/the-new-159-oneplus-watch-can-track-sp02-and-parkour-workouts/)
+* [OnePlus Announces the OnePlus 9 Pro and OnePlus 9 with Hasselblad Photography](https://www.reviewgeek.com/74827/oneplus-announces-the-oneplus-9-pro-and-oneplus-9-with-hasselblad-photography/)
+* [How to Add a Gmail Account to Outlook Online](https://www.howtogeek.com/715970/how-to-add-a-gmail-account-to-outlook-online/)
+* [The 7 Best Webcam Lights to Make Your Next Call Look Great](https://www.reviewgeek.com/72105/the-7-best-webcam-lights/)
+* [How to Check Your Java Version on Windows 10](https://www.howtogeek.com/717330/how-to-check-your-java-version-on-windows-10/)
+* [How to Analyse MySQL Performance Problems](https://www.cloudsavvyit.com/10275/how-to-analyse-mysql-performance-problems/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

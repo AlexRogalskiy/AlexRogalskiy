@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Sports/zip_1__1002.php" target="_blank"><i>zip (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/hustler_2__1293.php" target="_blank"><i>hustler (2)</i></a>
 <span> = </span>
-<span>energy, vitality</span>
+<span>a skilled player, esp. at pool or billiards, who cheats other players by pretending to be an average player and then challenging them to play for money</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

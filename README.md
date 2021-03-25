@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_4/Man_does_not_live_by_bread_alone_552.php" target="_blank"><i>Man does not live by bread alone</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/No_reply_is_best_924.php" target="_blank"><i>No reply is best</i></a>
 <span> = </span>
-<span>This proverb suggests that people have a spiritual side as well as a physical side. We need to take care of our spirit as much as our body.</span>
+<span>It is often advisable not to give any answer. Don't say no. Don't say yes. Say nothing.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

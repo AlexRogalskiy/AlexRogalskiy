@@ -337,16 +337,16 @@ See the mountains kiss high heaven
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Merkel says Germany 'in a very serious situation'; WHO warns global weekly deaths rising](https://www.theguardian.com/world/live/2021/mar/23/coronavirus-live-news-who-warns-global-weekly-deaths-rising-uk-bans-non-essential-foreign-travel)
-- [Sweden to increase airport fees for high-polluting planes](https://www.theguardian.com/environment/2021/mar/23/sweden-to-increase-airport-fees-for-high-polluting-planes)
-- [Talking Horses: Date set for owners' return to tracks as lockdown eases](https://www.theguardian.com/sport/blog/2021/mar/23/talking-horses-date-set-for-owners-return-to-racecourses-horse-racing-tips)
-- [UK faces 'Covid decade' due to damage done by pandemic, says report](https://www.theguardian.com/world/2021/mar/23/uk-faces-covid-decade-due-to-damage-done-by-pandemic-says-report)
-- [Dexamethasone hailed as lifesaver for up to a million Covid patients worldwide](https://www.theguardian.com/world/2021/mar/23/dexamethasone-hailed-as-lifesaver-for-up-to-a-million-covid-patients-worldwide)
-- [UK shift to local shopping could last beyond pandemic – poll](https://www.theguardian.com/business/2021/mar/23/uk-local-grocery-shopping-could-last-beyond-pandemic-poll-small-stores-food-drink)
-- [Green groups dispute power station claim that biomass is carbon-neutral](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
-- [Authors fear the worst if Penguin owner takes over Simon & Schuster](https://www.theguardian.com/books/2021/mar/22/authors-fear-the-worst-if-bertelsmann-takes-over-simon-schuster)
-- [Cuts and budget delays are undermining UK science sector, warns Labour](https://www.theguardian.com/science/2021/mar/22/cuts-and-budget-delays-are-undermining-uk-science-sector-warns-labour)
-- [Unforgotten series four, episode five recap – what now for Cassie?](https://www.theguardian.com/tv-and-radio/2021/mar/22/unforgotten-series-four-episode-five-recap-what-now-for-cassie)
+- [Coronavirus live news: AstraZeneca to publish full vaccine trial results; US cases pass 30m](https://www.theguardian.com/world/live/2021/mar/25/coronavirus-live-news-astrazeneca-to-publish-full-vaccine-trial-results-us-cases-pass-30m)
+- [Progressive Rob Bonta picked as California's first Filipino attorney general](https://www.theguardian.com/us-news/2021/mar/24/rob-bonta-california-attorney-general-gavin-newsom)
+- [University of Aberdeen to return pillaged Benin bronze to Nigeria](https://www.theguardian.com/world/2021/mar/25/university-of-aberdeen-to-return-pillaged-benin-bronze-to-nigeria)
+- [Nationwide office staff can work anywhere in UK when lockdown ends](https://www.theguardian.com/business/2021/mar/25/nationwide-office-staff-can-work-anywhere-in-uk-when-lockdown-ends)
+- [Education inequalities exposed by Covid have no quick fix – survey](https://www.theguardian.com/education/2021/mar/25/education-inequalities-exposed-by-covid-have-no-quick-fix-survey)
+- [Talking Horses: Sheikh Hamdan's investment in racing was incalculable](https://www.theguardian.com/sport/blog/2021/mar/25/talking-horses-sheikh-hamdans-investment-in-racing-was-incalculable)
+- [North Korea has test fired two ballistic missiles, says Japan PM](https://www.theguardian.com/world/2021/mar/25/north-korea-missile-test-japan-south-korea)
+- [NHS Scotland staff to be offered at least 4% pay rise](https://www.theguardian.com/money/2021/mar/24/nhs-scotland-staff-to-be-offered-at-least-4-pay-rise)
+- [Kylie Minogue, Ed Sheeran and Jimmy Barnes perform at Michael Gudinski's state memorial](https://www.theguardian.com/music/2021/mar/25/kylie-minogue-ed-sheeran-and-jimmy-barnes-perform-at-michael-gudinskis-state-memorial)
+- [Rachel Levine becomes first openly transgender official to win Senate confirmation](https://www.theguardian.com/us-news/2021/mar/24/us-senate-confirms-rachel-levine-first-openly-transgender-person-key-post)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

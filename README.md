@@ -352,16 +352,16 @@ See the mountains kiss high heaven
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
-- [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
-- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
-- [Substack's UI and 1Password temporarily cost me $2k](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
-- [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
-- [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
-- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
-- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
-- [Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case](https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case)
-- [Rents for the rich are going down, rents for the poor are going up. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
+- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
+- [H.265 makes video files 94% smaller (at the same quality)](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
+- [Do you want Linux phones?](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
+- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
+- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
+- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
+- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
+- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
+- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

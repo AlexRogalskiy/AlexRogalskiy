@@ -322,16 +322,16 @@ See the mountains kiss high heaven
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Richard Stallman Is Uncancelled](https://www.youtube.com/watch?v=fT0H3g6rVpU)
-- [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.com/news/world-us-canada-56491941)
-- [An 89-Year-Old Sharpshooter Takes Aim at India’s Patriarchy](https://www.nytimes.com/2021/03/19/world/asia/india-chandro-tomar-sharpshooter.html)
-- [The HTML autocomplete attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
-- [What Was CP/M, and Why Did It Lose to MS-DOS?](https://www.howtogeek.com/718124/what-was-cpm-and-why-did-it-lose-to-ms-dos/)
-- [Vaccinated? Krispy Kreme will give you free doughnuts for rest of 2021](https://www.sfgate.com/food/article/Vaccinated-Krispy-Kreme-free-doughnuts-vaccine-16044087.php?IPID=SFGate-HP-CP-Spotlight)
-- [Vesuvius killed people of Pompeii in 15 minutes, study suggests](https://www.theguardian.com/world/2021/mar/22/vesuvius-wiped-out-all-life-pompeii-15-minutes-study-pyroclastic-flow-cloud-gases-ash)
-- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
-- [Spark Capital Cuts Ties with Dispo One Month After $20M Investment](https://twitter.com/sparkcapital/status/1373855197831720963)
-- [Facebook loses Supreme Court ruling on tracking](https://www.bloomberg.com/news/articles/2021-03-22/facebook-rejected-by-supreme-court-in-user-tracking-lawsuit)
+- [Repurposing eInk electronic shelf labels into photo frames](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+- [Live Bald Eagle Cam [video]](https://www.youtube.com/watch?v=7utMaDb1W08)
+- [Real Python's “Python Basics” is now available as a paperback book](https://realpython.com/products/python-basics-paperback/)
+- [Qualcomm is reportedly building a Nintendo Switch clone, powered by Android](https://arstechnica.com/gadgets/2021/03/qualcomm-is-reportedly-building-a-nintendo-switch-clone-powered-by-android/)
+- [How Much Weight Did We Gain During Lockdowns? 2 Pounds a Month, Study Hints](https://www.nytimes.com/2021/03/22/health/virus-weight-gain.html)
+- [Everyday Chemistry](https://en.wikipedia.org/wiki/Everyday_Chemistry)
+- [How Children Read Differently from Books vs. Screens](https://www.nytimes.com/2021/03/16/well/family/children-reading-screens-books.html)
+- [Taming the Demon: How Desert Monks Put Work in Its Place (2019)](https://www.commonwealmagazine.org/taming-demon)
+- [GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning/)
+- [The worst so-called “best practice” for Docker](https://pythonspeed.com/articles/security-updates-in-docker/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

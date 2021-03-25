@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/hustler_2__1293.php" target="_blank"><i>hustler (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_1/awesome_731.php" target="_blank"><i>awesome</i></a>
 <span> = </span>
-<span>a skilled player, esp. at pool or billiards, who cheats other players by pretending to be an average player and then challenging them to play for money</span>
+<span>amazing, impressive, really cool</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

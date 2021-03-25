@@ -190,17 +190,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/go_over_your_head_171.php" target="_blank"><i>go over your head</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/a_roller_coaster_a_roller-coaster_ride_351.php" target="_blank"><i>a roller coaster | a roller-coaster ride</i></a>
 <span> = </span>
-<span>If someone goes over your head, they go to someone with more authority than you in order to get something that you would normally grant, possibly because they think you won't give it to them.</span>
+<span>You can say an experience is a roller coaster, or a roller-coaster ride, if it involves many emotional highs and lows, or really good times alternating with really difficult times.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/hustler_2__1293.php" target="_blank"><i>hustler (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_1/awesome_731.php" target="_blank"><i>awesome</i></a>
 <span> = </span>
-<span>a skilled player, esp. at pool or billiards, who cheats other players by pretending to be an average player and then challenging them to play for money</span>
+<span>amazing, impressive, really cool</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -246,24 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646470646991355904" target="_blank"><i>Love’s Philosophy</i></a></summary>
-<p>by Percy Bysshe Shelley</p><p>The fountains mingle with the river 
-   <br/>And the rivers with the ocean, 
-<br/>The winds of heaven mix for ever 
-   <br/>With a sweet emotion; <br/>
-Nothing in the world is single; 
-   <br/>All things by a law divine 
-<br/>In one spirit meet and mingle. 
-   <br/>Why not I with thine?— 
-<br/><br/>
-See the mountains kiss high heaven 
-   <br/>And the waves clasp one another; 
-<br/>No sister-flower would be forgiven 
-   <br/>If it disdained its brother; 
-<br/>And the sunlight clasps the earth 
-   <br/>And the moonbeams kiss the sea: 
-<br/>What is all this sweet work worth 
-   <br/>If thou kiss not me? </p>
+<summary><a href="https://apoemaday.tumblr.com/post/646561228487049216" target="_blank"><i>Strawberries</i></a></summary>
+<p>by Edwin Morgan</p><p>There were never strawberries<br/> like the ones we had<br/> that sultry afternoon<br/> sitting on the step<br/> of the open french window<br/> facing each other<br/> your knees held in mine<br/> the blue plates in our laps<br/> the strawberries glistening<br/> in the hot sunlight<br/> we dipped them in sugar<br/> looking at each other<br/> not hurrying the feast<br/> for one to come<br/> the empty plates<br/> laid on the stone together<br/> with the two forks crossed<br/> and I bent towards you<br/> sweet in that air<br/> in my arms<br/> abandoned like a child<br/> from your eager mouth<br/> the taste of strawberries<br/> in my memory<br/> lean back again<br/> let me love you</p><p>let the sun beat<br/> on our forgetfulness<br/> one hour of all<br/> the heat intense<br/> and summer lightning<br/> on the Kilpatrick hills</p><p>let the storm wash the plates</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -294,7 +278,7 @@ See the mountains kiss high heaven
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>overcast clouds</i>), humidity: 81%, pressure: 1011 (mbar), wind: /south-east/ 4 (m/s), cloudy: 90%</b>
+        <b>3°C (<i>overcast clouds</i>), humidity: 81%, pressure: 1010 (mbar), wind: /south-east/ 3 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>06:45 am</b> and sets at <b>19:24 pm</b>.
     </p>
@@ -307,76 +291,76 @@ See the mountains kiss high heaven
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [SEGA's Cute Little $139 Astro City Mini Arcade Will Get a Limited U.S. Release](https://www.reviewgeek.com/74939/segas-cute-little-139-astro-city-mini-arcade-will-get-a-limited-u-s-release/)
-* [Samsung Announces 12 New HDR Monitors for Your Work-from-Home Setup](https://www.reviewgeek.com/74945/samsung-announces-12-new-hdr-monitors-for-your-work-from-home-setup/)
-* [Rumored HomePod Smart Display Could Feature FaceTime Camera](https://www.reviewgeek.com/74909/rumored-homepod-smart-display-could-feature-facetime-camera/)
-* [How to Install Extensions (Add-ons) in Mozilla Firefox](https://www.howtogeek.com/719529/how-to-install-extensions-add-ons-in-mozilla-firefox/)
-* [The New $159 OnePlus Watch Can Track SP02 and Parkour Workouts](https://www.reviewgeek.com/74876/the-new-159-oneplus-watch-can-track-sp02-and-parkour-workouts/)
-* [OnePlus Announces the OnePlus 9 Pro and OnePlus 9 with Hasselblad Photography](https://www.reviewgeek.com/74827/oneplus-announces-the-oneplus-9-pro-and-oneplus-9-with-hasselblad-photography/)
-* [How to Add a Gmail Account to Outlook Online](https://www.howtogeek.com/715970/how-to-add-a-gmail-account-to-outlook-online/)
-* [The 7 Best Webcam Lights to Make Your Next Call Look Great](https://www.reviewgeek.com/72105/the-7-best-webcam-lights/)
-* [How to Check Your Java Version on Windows 10](https://www.howtogeek.com/717330/how-to-check-your-java-version-on-windows-10/)
-* [How to Analyse MySQL Performance Problems](https://www.cloudsavvyit.com/10275/how-to-analyse-mysql-performance-problems/)
+* [[Updated: Partial Rollback] Slack Connect Lets Anyone DM You, but You Can Also Opt Out](https://www.reviewgeek.com/75097/slack-connect-lets-anyone-dm-you-but-you-can-also-opt-out/)
+* [iPhone 13 May Upgrade to a Buttery Smooth 120Hz Display, Shrink the Notch](https://www.reviewgeek.com/75075/iphone-13-may-upgrade-to-a-buttery-smooth-120hz-display-shrink-the-notch/)
+* [Smart's NASA-Inspired Airless Metal Bike Tires Promise Never to Pop](https://www.reviewgeek.com/75081/smarts-nasa-inspired-airless-metal-bike-tires-promise-never-to-pop/)
+* [Spring into April with These Must-Read New Books](https://www.lifesavvy.com/62840/spring-into-april-with-these-must-read-new-books/)
+* [This Intel-Driven AI Backpack Helps Vision-impaired Users Avoid Obstacles](https://www.reviewgeek.com/75082/this-intel-driven-ai-backpack-helps-vision-impaired-users-avoid-obstacles/)
+* ['Black Widow' Will Debut in Theaters and Disney+ on July 9th](https://www.reviewgeek.com/75051/black-widow-will-debut-in-theaters-and-disney-on-july-9th/)
+* [VTech's $75 Instant Camera for Kids Saves You a Fortune on Film](https://www.reviewgeek.com/75043/vtechs-75-instant-camera-for-kids-saves-you-a-fortune-on-film/)
+* [Pre-Order Amazon's New $30 Fire TV Remote with Dedicated App Buttons](https://www.reviewgeek.com/75052/pre-order-amazons-new-30-fire-tv-remote-with-dedicated-app-buttons/)
+* [How to Access the Clipboard Manager on a Chromebook](https://www.howtogeek.com/719189/how-to-access-the-clipboard-manager-on-a-chromebook/)
+* [How to Disable Slack Connect](https://www.cloudsavvyit.com/10312/how-to-disable-slack-connect/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Richard Stallman Is Uncancelled](https://www.youtube.com/watch?v=fT0H3g6rVpU)
-- [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.com/news/world-us-canada-56491941)
-- [An 89-Year-Old Sharpshooter Takes Aim at India’s Patriarchy](https://www.nytimes.com/2021/03/19/world/asia/india-chandro-tomar-sharpshooter.html)
-- [The HTML autocomplete attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
-- [What Was CP/M, and Why Did It Lose to MS-DOS?](https://www.howtogeek.com/718124/what-was-cpm-and-why-did-it-lose-to-ms-dos/)
-- [Vaccinated? Krispy Kreme will give you free doughnuts for rest of 2021](https://www.sfgate.com/food/article/Vaccinated-Krispy-Kreme-free-doughnuts-vaccine-16044087.php?IPID=SFGate-HP-CP-Spotlight)
-- [Vesuvius killed people of Pompeii in 15 minutes, study suggests](https://www.theguardian.com/world/2021/mar/22/vesuvius-wiped-out-all-life-pompeii-15-minutes-study-pyroclastic-flow-cloud-gases-ash)
-- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
-- [Spark Capital Cuts Ties with Dispo One Month After $20M Investment](https://twitter.com/sparkcapital/status/1373855197831720963)
-- [Facebook loses Supreme Court ruling on tracking](https://www.bloomberg.com/news/articles/2021-03-22/facebook-rejected-by-supreme-court-in-user-tracking-lawsuit)
+- [Repurposing eInk electronic shelf labels into photo frames](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+- [Live Bald Eagle Cam [video]](https://www.youtube.com/watch?v=7utMaDb1W08)
+- [Real Python's “Python Basics” is now available as a paperback book](https://realpython.com/products/python-basics-paperback/)
+- [Qualcomm is reportedly building a Nintendo Switch clone, powered by Android](https://arstechnica.com/gadgets/2021/03/qualcomm-is-reportedly-building-a-nintendo-switch-clone-powered-by-android/)
+- [How Much Weight Did We Gain During Lockdowns? 2 Pounds a Month, Study Hints](https://www.nytimes.com/2021/03/22/health/virus-weight-gain.html)
+- [Everyday Chemistry](https://en.wikipedia.org/wiki/Everyday_Chemistry)
+- [How Children Read Differently from Books vs. Screens](https://www.nytimes.com/2021/03/16/well/family/children-reading-screens-books.html)
+- [Taming the Demon: How Desert Monks Put Work in Its Place (2019)](https://www.commonwealmagazine.org/taming-demon)
+- [GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning/)
+- [The worst so-called “best practice” for Docker](https://pythonspeed.com/articles/security-updates-in-docker/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Merkel says Germany 'in a very serious situation'; WHO warns global weekly deaths rising](https://www.theguardian.com/world/live/2021/mar/23/coronavirus-live-news-who-warns-global-weekly-deaths-rising-uk-bans-non-essential-foreign-travel)
-- [Sweden to increase airport fees for high-polluting planes](https://www.theguardian.com/environment/2021/mar/23/sweden-to-increase-airport-fees-for-high-polluting-planes)
-- [Talking Horses: Date set for owners' return to tracks as lockdown eases](https://www.theguardian.com/sport/blog/2021/mar/23/talking-horses-date-set-for-owners-return-to-racecourses-horse-racing-tips)
-- [UK faces 'Covid decade' due to damage done by pandemic, says report](https://www.theguardian.com/world/2021/mar/23/uk-faces-covid-decade-due-to-damage-done-by-pandemic-says-report)
-- [Dexamethasone hailed as lifesaver for up to a million Covid patients worldwide](https://www.theguardian.com/world/2021/mar/23/dexamethasone-hailed-as-lifesaver-for-up-to-a-million-covid-patients-worldwide)
-- [UK shift to local shopping could last beyond pandemic – poll](https://www.theguardian.com/business/2021/mar/23/uk-local-grocery-shopping-could-last-beyond-pandemic-poll-small-stores-food-drink)
-- [Green groups dispute power station claim that biomass is carbon-neutral](https://www.theguardian.com/business/2021/mar/23/green-groups-dispute-power-station-claim-biomass-carbon-neutral)
-- [Authors fear the worst if Penguin owner takes over Simon & Schuster](https://www.theguardian.com/books/2021/mar/22/authors-fear-the-worst-if-bertelsmann-takes-over-simon-schuster)
-- [Cuts and budget delays are undermining UK science sector, warns Labour](https://www.theguardian.com/science/2021/mar/22/cuts-and-budget-delays-are-undermining-uk-science-sector-warns-labour)
-- [Unforgotten series four, episode five recap – what now for Cassie?](https://www.theguardian.com/tv-and-radio/2021/mar/22/unforgotten-series-four-episode-five-recap-what-now-for-cassie)
+- [Coronavirus live news: AstraZeneca to publish full vaccine trial results; US cases pass 30m](https://www.theguardian.com/world/live/2021/mar/25/coronavirus-live-news-astrazeneca-to-publish-full-vaccine-trial-results-us-cases-pass-30m)
+- [Progressive Rob Bonta picked as California's first Filipino attorney general](https://www.theguardian.com/us-news/2021/mar/24/rob-bonta-california-attorney-general-gavin-newsom)
+- [University of Aberdeen to return pillaged Benin bronze to Nigeria](https://www.theguardian.com/world/2021/mar/25/university-of-aberdeen-to-return-pillaged-benin-bronze-to-nigeria)
+- [Nationwide office staff can work anywhere in UK when lockdown ends](https://www.theguardian.com/business/2021/mar/25/nationwide-office-staff-can-work-anywhere-in-uk-when-lockdown-ends)
+- [Education inequalities exposed by Covid have no quick fix – survey](https://www.theguardian.com/education/2021/mar/25/education-inequalities-exposed-by-covid-have-no-quick-fix-survey)
+- [Talking Horses: Sheikh Hamdan's investment in racing was incalculable](https://www.theguardian.com/sport/blog/2021/mar/25/talking-horses-sheikh-hamdans-investment-in-racing-was-incalculable)
+- [North Korea has test fired two ballistic missiles, says Japan PM](https://www.theguardian.com/world/2021/mar/25/north-korea-missile-test-japan-south-korea)
+- [NHS Scotland staff to be offered at least 4% pay rise](https://www.theguardian.com/money/2021/mar/24/nhs-scotland-staff-to-be-offered-at-least-4-pay-rise)
+- [Kylie Minogue, Ed Sheeran and Jimmy Barnes perform at Michael Gudinski's state memorial](https://www.theguardian.com/music/2021/mar/25/kylie-minogue-ed-sheeran-and-jimmy-barnes-perform-at-michael-gudinskis-state-memorial)
+- [Rachel Levine becomes first openly transgender official to win Senate confirmation](https://www.theguardian.com/us-news/2021/mar/24/us-senate-confirms-rachel-levine-first-openly-transgender-person-key-post)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Welcome Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
-- [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
-- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
-- [Substack's UI and 1Password temporarily cost me $2k](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
-- [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
-- [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
-- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
-- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
-- [Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case](https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case)
-- [Rents for the rich are going down, rents for the poor are going up. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
+- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
+- [H.265 makes video files 94% smaller (at the same quality)](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
+- [Do you want Linux phones?](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
+- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
+- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
+- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
+- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
+- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
+- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Needed: Project management tools for the remote Apple enterprise](https://www.computerworld.com/article/3612195/needed-project-management-tools-for-the-remote-apple-enterprise.html#tk.rss_all)
-- [Text authentication is even worse than almost anyone thought](https://www.computerworld.com/article/3612243/text-authentication-is-even-worse-than-almost-anyone-thought.html#tk.rss_all)
-- [What you need to know about linking to files and pages in SharePoint](https://www.computerworld.com/article/3612244/what-you-need-to-know-about-linking-to-files-and-pages-in-sharepoint.html#tk.rss_all)
-- [Microsoft, we need to have a talk](https://www.computerworld.com/article/3612430/microsoft-we-need-to-have-a-talk.html#tk.rss_all)
-- [Does Microsoft share blame for the SolarWinds hack?](https://www.computerworld.com/article/3612191/does-microsoft-share-blame-for-the-solarwinds-hack.html#tk.rss_all)
-- [Apple CEO Tim Cook and the coming hybrid workplace](https://www.computerworld.com/article/3612218/apple-ceo-tim-cook-and-the-coming-hybrid-workplace.html#tk.rss_all)
-- [IBM’s Project Debater showcases next-gen AI-driven productivity](https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html#tk.rss_all)
-- [How to choose the right Windows 10 preview and update channels](https://www.computerworld.com/article/3220429/how-to-choose-the-right-windows-10-preview-and-update-channels.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Gartner: Spending on social and collaboration software booms as remote work takes hold](https://www.computerworld.com/article/3612870/gartner-spending-on-social-and-collaboration-software-booms-as-remote-work-takes-hold.html#tk.rss_all)
+- [With a .design domain from Porkbun, you can build the online portfolio of your dreams](https://www.computerworld.com/article/3612239/with-a-design-domain-from-porkbun-you-can-build-the-online-portfolio-of-your-dreams.html#tk.rss_all)
+- [BrandPost: How the Right CPU Helps Your HCI Reach Top Gear](https://www.computerworld.com/article/3612988/how-the-right-cpu-helps-your-hci-reach-top-gear.html#tk.rss_all)
+- [Tempus fugit: Apple launched Mac OS X 20 years ago today](https://www.computerworld.com/article/3612969/tempus-fugit-apple-launched-mac-os-x-20-years-ago-today.html#tk.rss_all)
+- [How to use Google Drive for collaboration](https://www.computerworld.com/article/3235104/how-to-use-google-drive-for-collaboration.html#tk.rss_all)
+- [How Azure Active Directory helps manage identity for remote users](https://www.csoonline.com/article/3609456/how-azure-active-directory-helps-manage-identity-for-remote-users.html#tk.rss_all)
+- [This $2,000 Microsoft Excel bundle has been slashed in price to just $34](https://www.computerworld.com/article/3612238/this-2-000-microsoft-excel-bundle-has-been-slashed-in-price-to-just-34.html#tk.rss_all)
+- [Here’s why Livestorm is a better video conferencing option for business](https://www.computerworld.com/article/3612263/here-s-why-livestorm-is-a-better-video-conferencing-option-for-business.html#tk.rss_all)
+- [What's in the latest Firefox? Script stand-ins help sites fend off anti-tracking assaults](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-script-stand-ins-help-sites-fend-off-anti-tracking-assaults.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

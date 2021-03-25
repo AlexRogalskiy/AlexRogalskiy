@@ -307,16 +307,16 @@ See the mountains kiss high heaven
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [SEGA's Cute Little $139 Astro City Mini Arcade Will Get a Limited U.S. Release](https://www.reviewgeek.com/74939/segas-cute-little-139-astro-city-mini-arcade-will-get-a-limited-u-s-release/)
-* [Samsung Announces 12 New HDR Monitors for Your Work-from-Home Setup](https://www.reviewgeek.com/74945/samsung-announces-12-new-hdr-monitors-for-your-work-from-home-setup/)
-* [Rumored HomePod Smart Display Could Feature FaceTime Camera](https://www.reviewgeek.com/74909/rumored-homepod-smart-display-could-feature-facetime-camera/)
-* [How to Install Extensions (Add-ons) in Mozilla Firefox](https://www.howtogeek.com/719529/how-to-install-extensions-add-ons-in-mozilla-firefox/)
-* [The New $159 OnePlus Watch Can Track SP02 and Parkour Workouts](https://www.reviewgeek.com/74876/the-new-159-oneplus-watch-can-track-sp02-and-parkour-workouts/)
-* [OnePlus Announces the OnePlus 9 Pro and OnePlus 9 with Hasselblad Photography](https://www.reviewgeek.com/74827/oneplus-announces-the-oneplus-9-pro-and-oneplus-9-with-hasselblad-photography/)
-* [How to Add a Gmail Account to Outlook Online](https://www.howtogeek.com/715970/how-to-add-a-gmail-account-to-outlook-online/)
-* [The 7 Best Webcam Lights to Make Your Next Call Look Great](https://www.reviewgeek.com/72105/the-7-best-webcam-lights/)
-* [How to Check Your Java Version on Windows 10](https://www.howtogeek.com/717330/how-to-check-your-java-version-on-windows-10/)
-* [How to Analyse MySQL Performance Problems](https://www.cloudsavvyit.com/10275/how-to-analyse-mysql-performance-problems/)
+* [[Updated: Partial Rollback] Slack Connect Lets Anyone DM You, but You Can Also Opt Out](https://www.reviewgeek.com/75097/slack-connect-lets-anyone-dm-you-but-you-can-also-opt-out/)
+* [iPhone 13 May Upgrade to a Buttery Smooth 120Hz Display, Shrink the Notch](https://www.reviewgeek.com/75075/iphone-13-may-upgrade-to-a-buttery-smooth-120hz-display-shrink-the-notch/)
+* [Smart's NASA-Inspired Airless Metal Bike Tires Promise Never to Pop](https://www.reviewgeek.com/75081/smarts-nasa-inspired-airless-metal-bike-tires-promise-never-to-pop/)
+* [Spring into April with These Must-Read New Books](https://www.lifesavvy.com/62840/spring-into-april-with-these-must-read-new-books/)
+* [This Intel-Driven AI Backpack Helps Vision-impaired Users Avoid Obstacles](https://www.reviewgeek.com/75082/this-intel-driven-ai-backpack-helps-vision-impaired-users-avoid-obstacles/)
+* ['Black Widow' Will Debut in Theaters and Disney+ on July 9th](https://www.reviewgeek.com/75051/black-widow-will-debut-in-theaters-and-disney-on-july-9th/)
+* [VTech's $75 Instant Camera for Kids Saves You a Fortune on Film](https://www.reviewgeek.com/75043/vtechs-75-instant-camera-for-kids-saves-you-a-fortune-on-film/)
+* [Pre-Order Amazon's New $30 Fire TV Remote with Dedicated App Buttons](https://www.reviewgeek.com/75052/pre-order-amazons-new-30-fire-tv-remote-with-dedicated-app-buttons/)
+* [How to Access the Clipboard Manager on a Chromebook](https://www.howtogeek.com/719189/how-to-access-the-clipboard-manager-on-a-chromebook/)
+* [How to Disable Slack Connect](https://www.cloudsavvyit.com/10312/how-to-disable-slack-connect/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

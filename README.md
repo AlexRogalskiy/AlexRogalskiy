@@ -367,16 +367,16 @@ See the mountains kiss high heaven
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Needed: Project management tools for the remote Apple enterprise](https://www.computerworld.com/article/3612195/needed-project-management-tools-for-the-remote-apple-enterprise.html#tk.rss_all)
-- [Text authentication is even worse than almost anyone thought](https://www.computerworld.com/article/3612243/text-authentication-is-even-worse-than-almost-anyone-thought.html#tk.rss_all)
-- [What you need to know about linking to files and pages in SharePoint](https://www.computerworld.com/article/3612244/what-you-need-to-know-about-linking-to-files-and-pages-in-sharepoint.html#tk.rss_all)
-- [Microsoft, we need to have a talk](https://www.computerworld.com/article/3612430/microsoft-we-need-to-have-a-talk.html#tk.rss_all)
-- [Does Microsoft share blame for the SolarWinds hack?](https://www.computerworld.com/article/3612191/does-microsoft-share-blame-for-the-solarwinds-hack.html#tk.rss_all)
-- [Apple CEO Tim Cook and the coming hybrid workplace](https://www.computerworld.com/article/3612218/apple-ceo-tim-cook-and-the-coming-hybrid-workplace.html#tk.rss_all)
-- [IBM’s Project Debater showcases next-gen AI-driven productivity](https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html#tk.rss_all)
-- [How to choose the right Windows 10 preview and update channels](https://www.computerworld.com/article/3220429/how-to-choose-the-right-windows-10-preview-and-update-channels.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Gartner: Spending on social and collaboration software booms as remote work takes hold](https://www.computerworld.com/article/3612870/gartner-spending-on-social-and-collaboration-software-booms-as-remote-work-takes-hold.html#tk.rss_all)
+- [With a .design domain from Porkbun, you can build the online portfolio of your dreams](https://www.computerworld.com/article/3612239/with-a-design-domain-from-porkbun-you-can-build-the-online-portfolio-of-your-dreams.html#tk.rss_all)
+- [BrandPost: How the Right CPU Helps Your HCI Reach Top Gear](https://www.computerworld.com/article/3612988/how-the-right-cpu-helps-your-hci-reach-top-gear.html#tk.rss_all)
+- [Tempus fugit: Apple launched Mac OS X 20 years ago today](https://www.computerworld.com/article/3612969/tempus-fugit-apple-launched-mac-os-x-20-years-ago-today.html#tk.rss_all)
+- [How to use Google Drive for collaboration](https://www.computerworld.com/article/3235104/how-to-use-google-drive-for-collaboration.html#tk.rss_all)
+- [How Azure Active Directory helps manage identity for remote users](https://www.csoonline.com/article/3609456/how-azure-active-directory-helps-manage-identity-for-remote-users.html#tk.rss_all)
+- [This $2,000 Microsoft Excel bundle has been slashed in price to just $34](https://www.computerworld.com/article/3612238/this-2-000-microsoft-excel-bundle-has-been-slashed-in-price-to-just-34.html#tk.rss_all)
+- [Here’s why Livestorm is a better video conferencing option for business](https://www.computerworld.com/article/3612263/here-s-why-livestorm-is-a-better-video-conferencing-option-for-business.html#tk.rss_all)
+- [What's in the latest Firefox? Script stand-ins help sites fend off anti-tracking assaults](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-script-stand-ins-help-sites-fend-off-anti-tracking-assaults.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

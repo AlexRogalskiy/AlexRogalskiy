@@ -246,24 +246,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646470646991355904" target="_blank"><i>Love’s Philosophy</i></a></summary>
-<p>by Percy Bysshe Shelley</p><p>The fountains mingle with the river 
-   <br/>And the rivers with the ocean, 
-<br/>The winds of heaven mix for ever 
-   <br/>With a sweet emotion; <br/>
-Nothing in the world is single; 
-   <br/>All things by a law divine 
-<br/>In one spirit meet and mingle. 
-   <br/>Why not I with thine?— 
-<br/><br/>
-See the mountains kiss high heaven 
-   <br/>And the waves clasp one another; 
-<br/>No sister-flower would be forgiven 
-   <br/>If it disdained its brother; 
-<br/>And the sunlight clasps the earth 
-   <br/>And the moonbeams kiss the sea: 
-<br/>What is all this sweet work worth 
-   <br/>If thou kiss not me? </p>
+<summary><a href="https://apoemaday.tumblr.com/post/646561228487049216" target="_blank"><i>Strawberries</i></a></summary>
+<p>by Edwin Morgan</p><p>There were never strawberries<br/> like the ones we had<br/> that sultry afternoon<br/> sitting on the step<br/> of the open french window<br/> facing each other<br/> your knees held in mine<br/> the blue plates in our laps<br/> the strawberries glistening<br/> in the hot sunlight<br/> we dipped them in sugar<br/> looking at each other<br/> not hurrying the feast<br/> for one to come<br/> the empty plates<br/> laid on the stone together<br/> with the two forks crossed<br/> and I bent towards you<br/> sweet in that air<br/> in my arms<br/> abandoned like a child<br/> from your eager mouth<br/> the taste of strawberries<br/> in my memory<br/> lean back again<br/> let me love you</p><p>let the sun beat<br/> on our forgetfulness<br/> one hour of all<br/> the heat intense<br/> and summer lightning<br/> on the Kilpatrick hills</p><p>let the storm wash the plates</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

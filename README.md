@@ -381,16 +381,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [How to pick cloud dev tools and infrastructure](https://www.infoworld.com/article/3612251/how-to-pick-cloud-dev-tools-and-infrastructure.html#tk.rss_all)
-- [Apple proposes actor model for Swift concurrency](https://www.infoworld.com/article/3612176/apple-proposes-actor-model-for-swift-concurrency.html#tk.rss_all)
-- [Go programming gains in the workplace](https://www.infoworld.com/article/3612249/go-programming-gains-in-the-workplace.html#tk.rss_all)
-- [Knowledge management for agile and devops teams](https://www.infoworld.com/article/3611420/knowledge-management-for-agile-and-devops-teams.html#tk.rss_all)
-- [BlazingSQL review: Fast ETL for GPU-based data science](https://www.infoworld.com/article/3610188/blazingsql-review-fast-etl-for-gpu-based-data-science.html#tk.rss_all)
-- [PeachPie PHP to .NET project reaches 1.0 milestone](https://www.infoworld.com/article/3611599/peachpie-php-to-dotnet-project-reaches-10-milestone.html#tk.rss_all)
-- [Spring Native turns Spring apps into native executables](https://www.infoworld.com/article/3611975/spring-native-turns-spring-apps-into-native-executables.html#tk.rss_all)
-- [Getting started with winget, the Windows Package Manager](https://www.infoworld.com/article/3611365/getting-started-with-winget-the-windows-package-manager.html#tk.rss_all)
-- [Containers need standard operating environments too](https://www.infoworld.com/article/3609615/containers-need-standard-operating-environments-too.html#tk.rss_all)
-- [8 great Python libraries for natural language processing](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html#tk.rss_all)
+- [What’s new in Rust 1.51](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Ruby-like Crystal 1.0 makes its debut](https://www.infoworld.com/article/3613109/ruby-like-crystal-10-makes-its-debut.html#tk.rss_all)
+- [Ensuring that citizen developers build AI responsibly](https://www.infoworld.com/article/3612222/ensuring-that-citizen-developers-build-ai-responsibly.html#tk.rss_all)
+- [How to send emails with graphics from R](https://www.infoworld.com/article/3611858/how-to-send-emails-with-graphics-from-r.html#tk.rss_all)
+- [Adam Selipsky returns to AWS as CEO. Now what?](https://www.infoworld.com/article/3612973/adam-selipsky-returns-to-aws-as-ceo-now-what.html#tk.rss_all)
+- [OpenJDK proposals would improve Java pattern matching](https://www.infoworld.com/article/3612908/openjdk-proposals-would-improve-java-pattern-matching.html#tk.rss_all)
+- [Data wrangling and exploratory data analysis explained](https://www.infoworld.com/article/3612888/data-wrangling-and-exploratory-data-analysis-explained.html#tk.rss_all)
+- [Automate your Windows workflow with Power Automate Desktop](https://www.infoworld.com/article/3612589/automate-your-workflow-with-power-automate-desktop.html#tk.rss_all)
+- [Cloud spending outstrips on-premises investments for the first time](https://www.infoworld.com/article/3612769/cloud-spending-outstrips-on-premises-investments-for-the-first-time.html#tk.rss_all)
+- [The pandemic-driven rush to cloud is compromising security](https://www.infoworld.com/article/3612245/the-pandemic-driven-rush-to-cloud-is-compromising-security.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

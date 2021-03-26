@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/a_roller_coaster_a_roller-coaster_ride_351.php" target="_blank"><i>a roller coaster | a roller-coaster ride</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/J/join_the_ranks_of_432.php" target="_blank"><i>join the ranks of</i></a>
 <span> = </span>
-<span>You can say an experience is a roller coaster, or a roller-coaster ride, if it involves many emotional highs and lows, or really good times alternating with really difficult times.</span>
+<span>If someone joins the ranks of a group or class of people, they become part of that group.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

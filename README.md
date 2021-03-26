@@ -396,16 +396,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UKtech50 2021: Panel 2- Making innovation count](https://www.computerweekly.com/video/UKtech50-2021-Panel-2-Making-innovation-count)
-- [UKtech50 2021: Panel 1 - Digital leadership](https://www.computerweekly.com/video/UKtech50-2021-Panel-1-Digital-leadership)
-- [UKtech50 2021: Bev White, CEO Harvey Nash Group](https://www.computerweekly.com/video/UKtech50-2021-Bev-White-CEO-Harvey-Nash-Group)
-- [Coronavirus leads to legacy modernisation cloud boost](https://www.computerweekly.com/news/252498147/Coronavirus-leads-to-legacy-modernisation-cloud-boost)
-- [Post Office IT scandal executive forced out of job at Football Association of Wales](https://www.computerweekly.com/news/252498141/Post-Office-IT-scandal-executive-forced-out-of-job-at-Football-Association-of-Wales)
-- [Security Think Tank: Properly protecting CNI demands specificity](https://www.computerweekly.com/opinion/Security-Think-Tank-Properly-protecting-CNI-demands-specificity)
-- [Coronavirus: How PCs in quarantine and intensive care units can be managed remotely](https://www.computerweekly.com/news/252498021/Coronavirus-How-PCs-in-quarantine-and-intensive-care-units-can-be-managed-remotely)
-- [Tech sector is key to the success of Global Britain](https://www.computerweekly.com/opinion/Our-tech-sector-is-key-to-the-success-of-Global-Britain)
-- [UKtech50 2021: Alison Davis, CIO, Natural History Museum](https://www.computerweekly.com/video/UKtech50-2021-Alison-Davis-CIO-Natural-History-Museum)
-- [UKtech50 2021: Ash Jokhoo, CDIO, Virgin Atlantic](https://www.computerweekly.com/video/UKtech50-2021-Ash-Jokhoo-CDIO-Virgin-Atlantic)
+- [Cyber security complacency puts UK at risk, says NCSC head](https://www.computerweekly.com/news/252498423/Cyber-security-complacency-puts-UK-at-risk-says-NCSC-head)
+- [TUC warns of gaps in British law over use of AI at work](https://www.computerweekly.com/news/252498430/TUC-warns-of-gaps-in-British-law-over-use-of-AI-at-work)
+- [Deliveroo faces pushback from investors and riders ahead of IPO](https://www.computerweekly.com/news/252498426/Deliveroo-faces-pushback-from-investors-and-riders-ahead-of-IPO)
+- [Warning: AWS IAM behaves differently to directory services](https://www.computerweekly.com/news/252498424/Warning-AWS-IAM-behaves-differently-to-directory-services)
+- [Four in five UK businesses seek new security suppliers](https://www.computerweekly.com/news/252498413/Four-in-five-UK-businesses-seek-new-security-suppliers)
+- [Government faces judicial review into plans for Post Office Horizon inquiry](https://www.computerweekly.com/news/252498409/Government-faces-judicial-review-into-plans-for-Post-Office-Horizon-inquiry)
+- [Liverpool announces test and development area for drone technology](https://www.computerweekly.com/news/252498408/Liverpool-announces-test-and-development-area-for-drone-technology)
+- [Interview: Paul Douglas, Scottish Water](https://www.computerweekly.com/news/252498338/Interview-Paul-Douglas-Scottish-Water)
+- [Facebook disrupts Chinese espionage operation](https://www.computerweekly.com/news/252498403/Facebook-disrupts-Chinese-espionage-operation)
+- [Tech firms need to keep focusing on mental wellbeing and support](https://www.computerweekly.com/opinion/Tech-firms-need-to-keep-focusing-on-mental-wellbeing-and-support)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

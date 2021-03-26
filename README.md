@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/No_reply_is_best_924.php" target="_blank"><i>No reply is best</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Make_hay_while_the_sun_shines_899.php" target="_blank"><i>Make hay while the sun shines</i></a>
 <span> = </span>
-<span>It is often advisable not to give any answer. Don't say no. Don't say yes. Say nothing.</span>
+<span>If we want to make hay, we need sunny weather, so when the sun comes we should take the opportunity to make hay. Thus the proverb suggests that we should make good use of any opportunity while it lasts.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -336,16 +336,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
-- [H.265 makes video files 94% smaller (at the same quality)](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
-- [Do you want Linux phones?](https://blog.brixit.nl/do-you-really-want-linux-phones/)
-- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
-- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
-- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
-- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
-- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
-- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
-- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
+- [AI names colors much as humans do](https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/)
+- [Egg: E-Graphs Good](https://egraphs-good.github.io/)
+- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+- [Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]](https://www.youtube.com/watch?v=X4faogRMOL4)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Is that ship still stuck?](https://istheshipstillstuck.com/)
+- [Speculating the entire x86-64 instruction set in seconds with one weird trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
+- [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
+- [Ultrasound Networking (2014)](https://www.anfractuosity.com/projects/ultrasound-networking/)
+- [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

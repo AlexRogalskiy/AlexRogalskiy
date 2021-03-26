@@ -291,16 +291,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [[Updated: Partial Rollback] Slack Connect Lets Anyone DM You, but You Can Also Opt Out](https://www.reviewgeek.com/75097/slack-connect-lets-anyone-dm-you-but-you-can-also-opt-out/)
-* [iPhone 13 May Upgrade to a Buttery Smooth 120Hz Display, Shrink the Notch](https://www.reviewgeek.com/75075/iphone-13-may-upgrade-to-a-buttery-smooth-120hz-display-shrink-the-notch/)
-* [Smart's NASA-Inspired Airless Metal Bike Tires Promise Never to Pop](https://www.reviewgeek.com/75081/smarts-nasa-inspired-airless-metal-bike-tires-promise-never-to-pop/)
-* [Spring into April with These Must-Read New Books](https://www.lifesavvy.com/62840/spring-into-april-with-these-must-read-new-books/)
-* [This Intel-Driven AI Backpack Helps Vision-impaired Users Avoid Obstacles](https://www.reviewgeek.com/75082/this-intel-driven-ai-backpack-helps-vision-impaired-users-avoid-obstacles/)
-* ['Black Widow' Will Debut in Theaters and Disney+ on July 9th](https://www.reviewgeek.com/75051/black-widow-will-debut-in-theaters-and-disney-on-july-9th/)
-* [VTech's $75 Instant Camera for Kids Saves You a Fortune on Film](https://www.reviewgeek.com/75043/vtechs-75-instant-camera-for-kids-saves-you-a-fortune-on-film/)
-* [Pre-Order Amazon's New $30 Fire TV Remote with Dedicated App Buttons](https://www.reviewgeek.com/75052/pre-order-amazons-new-30-fire-tv-remote-with-dedicated-app-buttons/)
-* [How to Access the Clipboard Manager on a Chromebook](https://www.howtogeek.com/719189/how-to-access-the-clipboard-manager-on-a-chromebook/)
-* [How to Disable Slack Connect](https://www.cloudsavvyit.com/10312/how-to-disable-slack-connect/)
+* [Hubitat Smart Hubs Add Optional Subscriptions for Remote Access and Cloud Backup](https://www.reviewgeek.com/75259/hubitat-smart-hubs-add-optional-subscriptions-for-remote-access-and-cloud-backup/)
+* [These New LEGO 'Star Wars' Helmets and Droid Will Help You Feel the Force](https://www.reviewgeek.com/75267/these-new-lego-star-wars-helmets-and-droid-will-help-you-feel-the-force/)
+* [Repairable Fairphone 2 Still Gets Updates 5 Years After Its Release](https://www.reviewgeek.com/75246/repairable-fairphone-2-still-gets-updates-5-years-after-its-release/)
+* [The OnePlus 9R is an Affordable Phone You Probably Can't Buy](https://www.reviewgeek.com/75242/the-oneplus-9r-is-an-affordable-phone-you-probably-cant-buy/)
+* [How to Sync Wi-Fi Passwords between Chromebooks and Android](https://www.howtogeek.com/719771/how-to-sync-wi-fi-passwords-between-chromebooks-and-android/)
+* [Dyson's New Vacuum Uses Lasers to Reveal Hidden Dust While You Clean](https://www.reviewgeek.com/75231/dysons-new-vacuum-uses-lasers-to-reveal-hidden-dust-while-you-clean/)
+* [How to Create Live Polls During a Microsoft Teams Meeting](https://www.howtogeek.com/715546/how-to-create-live-polls-during-a-microsoft-teams-meeting/)
+* [How to Use Microsoft Defender Antivirus from Command Prompt on Windows 10](https://www.howtogeek.com/717570/how-to-use-microsoft-defender-antivirus-from-command-prompt-on-windows-10/)
+* [How to Resize a DigitalOcean Droplet](https://www.cloudsavvyit.com/10319/how-to-resize-a-digitalocean-droplet/)
+* [X Shore's $330,000 Electric Boat Goes Up for Sale in the U.S.](https://www.reviewgeek.com/75149/x-shores-330000-electric-boat-arrives-quietly-in-the-u-s/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

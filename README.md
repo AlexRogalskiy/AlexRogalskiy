@@ -351,16 +351,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Podcast: Intel's anti-Mac ads: What's next for Intel?](https://www.computerworld.com/article/3613073/podcast-intels-anti-mac-ads-whats-next-for-intel.html#tk.rss_all)
+- [Slack blocks public DM ‘invite messages’ after backlash](https://www.computerworld.com/article/3613112/slack-blocks-public-dm-invite-messages-after-backlash.html#tk.rss_all)
+- [Apple, AI, and humans in the new work place](https://www.computerworld.com/article/3613329/apple-ai-and-humans-in-the-new-work-place.html#tk.rss_all)
+- [This new-school car insurance company wants to help you save money and time](https://www.computerworld.com/article/3612264/this-new-school-car-insurance-company-wants-to-help-you-save-money-and-time.html#tk.rss_all)
+- [12 advanced voice commands for Chrome on Android](https://www.computerworld.com/article/3612893/chrome-android-voice-commands.html#tk.rss_all)
+- [The case of the missing laptop RAM](https://www.computerworld.com/article/3612319/the-case-of-the-missing-laptop-ram.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Gartner: Spending on social and collaboration software booms as remote work takes hold](https://www.computerworld.com/article/3612870/gartner-spending-on-social-and-collaboration-software-booms-as-remote-work-takes-hold.html#tk.rss_all)
 - [With a .design domain from Porkbun, you can build the online portfolio of your dreams](https://www.computerworld.com/article/3612239/with-a-design-domain-from-porkbun-you-can-build-the-online-portfolio-of-your-dreams.html#tk.rss_all)
-- [BrandPost: How the Right CPU Helps Your HCI Reach Top Gear](https://www.computerworld.com/article/3612988/how-the-right-cpu-helps-your-hci-reach-top-gear.html#tk.rss_all)
-- [Tempus fugit: Apple launched Mac OS X 20 years ago today](https://www.computerworld.com/article/3612969/tempus-fugit-apple-launched-mac-os-x-20-years-ago-today.html#tk.rss_all)
-- [How to use Google Drive for collaboration](https://www.computerworld.com/article/3235104/how-to-use-google-drive-for-collaboration.html#tk.rss_all)
-- [How Azure Active Directory helps manage identity for remote users](https://www.csoonline.com/article/3609456/how-azure-active-directory-helps-manage-identity-for-remote-users.html#tk.rss_all)
-- [This $2,000 Microsoft Excel bundle has been slashed in price to just $34](https://www.computerworld.com/article/3612238/this-2-000-microsoft-excel-bundle-has-been-slashed-in-price-to-just-34.html#tk.rss_all)
-- [Here’s why Livestorm is a better video conferencing option for business](https://www.computerworld.com/article/3612263/here-s-why-livestorm-is-a-better-video-conferencing-option-for-business.html#tk.rss_all)
-- [What's in the latest Firefox? Script stand-ins help sites fend off anti-tracking assaults](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-script-stand-ins-help-sites-fend-off-anti-tracking-assaults.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

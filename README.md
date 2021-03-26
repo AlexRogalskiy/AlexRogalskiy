@@ -321,16 +321,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: AstraZeneca to publish full vaccine trial results; US cases pass 30m](https://www.theguardian.com/world/live/2021/mar/25/coronavirus-live-news-astrazeneca-to-publish-full-vaccine-trial-results-us-cases-pass-30m)
-- [Progressive Rob Bonta picked as California's first Filipino attorney general](https://www.theguardian.com/us-news/2021/mar/24/rob-bonta-california-attorney-general-gavin-newsom)
-- [University of Aberdeen to return pillaged Benin bronze to Nigeria](https://www.theguardian.com/world/2021/mar/25/university-of-aberdeen-to-return-pillaged-benin-bronze-to-nigeria)
-- [Nationwide office staff can work anywhere in UK when lockdown ends](https://www.theguardian.com/business/2021/mar/25/nationwide-office-staff-can-work-anywhere-in-uk-when-lockdown-ends)
-- [Education inequalities exposed by Covid have no quick fix – survey](https://www.theguardian.com/education/2021/mar/25/education-inequalities-exposed-by-covid-have-no-quick-fix-survey)
-- [Talking Horses: Sheikh Hamdan's investment in racing was incalculable](https://www.theguardian.com/sport/blog/2021/mar/25/talking-horses-sheikh-hamdans-investment-in-racing-was-incalculable)
-- [North Korea has test fired two ballistic missiles, says Japan PM](https://www.theguardian.com/world/2021/mar/25/north-korea-missile-test-japan-south-korea)
-- [NHS Scotland staff to be offered at least 4% pay rise](https://www.theguardian.com/money/2021/mar/24/nhs-scotland-staff-to-be-offered-at-least-4-pay-rise)
-- [Kylie Minogue, Ed Sheeran and Jimmy Barnes perform at Michael Gudinski's state memorial](https://www.theguardian.com/music/2021/mar/25/kylie-minogue-ed-sheeran-and-jimmy-barnes-perform-at-michael-gudinskis-state-memorial)
-- [Rachel Levine becomes first openly transgender official to win Senate confirmation](https://www.theguardian.com/us-news/2021/mar/24/us-senate-confirms-rachel-levine-first-openly-transgender-person-key-post)
+- [China sanctions UK businesses, MPs and lawyers in Xinjiang row](https://www.theguardian.com/world/2021/mar/26/china-sanctions-uk-businesses-mps-and-lawyers-in-xinjiang-row)
+- [Coronavirus live news: EU demands 'fair share' of Covid jabs, US doubles vaccine target](https://www.theguardian.com/world/live/2021/mar/26/coronavirus-live-news-eu-demands-fair-share-of-covid-jabs-us-doubles-vaccine-target)
+- [Leaked memo shows Amazon knows delivery drivers resort to urinating in bottles](https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo)
+- [Alabama tornado kills three as homes are destroyed and thousands lose power](https://www.theguardian.com/us-news/2021/mar/25/alabama-tornado-damage-birmingham)
+- [Black graduates 'shut out' of academic science and technology careers](https://www.theguardian.com/education/2021/mar/26/black-graduates-shut-out-of-academic-science-and-technology-careers)
+- [UK startup Octopus Energy becomes renewable energy giant in £3bn deal](https://www.theguardian.com/business/2021/mar/26/uk-startup-octopus-energy-becomes-renewable-energy-giant-in-3bn-deal)
+- [Tech CEOs grilled over role in Capitol attack as protesters mock them with giant cutouts](https://www.theguardian.com/us-news/2021/mar/25/us-congress-tech-hearings-capitol-attack)
+- [Welsh tourism sector can start to reopen from this weekend](https://www.theguardian.com/uk-news/2021/mar/25/welsh-tourism-sector-reopen-weekend-stay-local)
+- [Georgia's Republican-led legislature passes sweeping voting restrictions](https://www.theguardian.com/us-news/2021/mar/25/georgia-voting-restrictions-law-passed)
+- [Black Power: A British Story of Resistance review – a tortuous fight for justice](https://www.theguardian.com/tv-and-radio/2021/mar/25/black-power-a-british-story-of-resistance-review-a-tortuous-fight-for-justice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

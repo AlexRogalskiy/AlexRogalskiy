@@ -246,8 +246,24 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646561228487049216" target="_blank"><i>Strawberries</i></a></summary>
-<p>by Edwin Morgan</p><p>There were never strawberries<br/> like the ones we had<br/> that sultry afternoon<br/> sitting on the step<br/> of the open french window<br/> facing each other<br/> your knees held in mine<br/> the blue plates in our laps<br/> the strawberries glistening<br/> in the hot sunlight<br/> we dipped them in sugar<br/> looking at each other<br/> not hurrying the feast<br/> for one to come<br/> the empty plates<br/> laid on the stone together<br/> with the two forks crossed<br/> and I bent towards you<br/> sweet in that air<br/> in my arms<br/> abandoned like a child<br/> from your eager mouth<br/> the taste of strawberries<br/> in my memory<br/> lean back again<br/> let me love you</p><p>let the sun beat<br/> on our forgetfulness<br/> one hour of all<br/> the heat intense<br/> and summer lightning<br/> on the Kilpatrick hills</p><p>let the storm wash the plates</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646651822018330624" target="_blank"><i>Death Again</i></a></summary>
+<p>by Jim Harrison</p><p>Let’s not get romantic or dismal about death.<br/>
+Indeed it’s our most unique act along with birth.<br/>
+We must think of it as cooking breakfast,<br/>
+it’s that ordinary. Break two eggs into a bowl<br/>
+or break a bowl into two eggs. Slip into a coffin<br/>
+after the fluids have been drained, or better yet,<br/>
+slide into the fire. Of course it’s a little hard<br/>
+to accept your last kiss, your last drink,<br/>
+your last meal about which the condemned<br/>
+can be quite particular as if there could be<br/>
+a cheeseburger sent by God. A few lovers<br/>
+sweep by the inner eye, but it’s mostly a placid<br/>
+lake at dawn, mist rising, a solitary loon<br/>
+call, and staring into the still, opaque water.<br/>
+We’ll know as children again all that we are<br/>
+destined to know, that the water is cold<br/>
+and deep, and the sun penetrates only so far.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

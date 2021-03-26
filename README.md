@@ -411,16 +411,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is switching from computer engineering to IT right for me?](https://www.reddit.com/r/InformationTechnology/comments/ma9jlg/is_switching_from_computer_engineering_to_it/)
-- [Are You Looking for Certification & Career Advice?](https://www.reddit.com/r/InformationTechnology/comments/ma622u/are_you_looking_for_certification_career_advice/)
-- [Masters or PhD?](https://www.reddit.com/r/InformationTechnology/comments/ma3wip/masters_or_phd/)
-- [College major advise](https://www.reddit.com/r/InformationTechnology/comments/ma0geb/college_major_advise/)
-- [Is my laptop good enough for an information system systems major? Or do I need a new one?](https://www.reddit.com/r/InformationTechnology/comments/m9ylzg/is_my_laptop_good_enough_for_an_information/)
-- [Kandji MDM for Apple Devices - Speaking the IT language](https://www.reddit.com/r/InformationTechnology/comments/m9k7f4/kandji_mdm_for_apple_devices_speaking_the_it/)
-- [Masters in information systems, worth it?](https://www.reddit.com/r/InformationTechnology/comments/m8q9q3/masters_in_information_systems_worth_it/)
-- [Need help with server issue..Im desperate!](https://www.reddit.com/r/InformationTechnology/comments/m8n9zn/need_help_with_server_issueim_desperate/)
-- [Any Recommendation for Cell phone Location Tracking](https://www.reddit.com/r/InformationTechnology/comments/m8jqqb/any_recommendation_for_cell_phone_location/)
-- [Career Choice](https://www.reddit.com/r/InformationTechnology/comments/m8i5jz/career_choice/)
+- [One IT Guy's Trash is another's Treasure!](https://www.reddit.com/r/InformationTechnology/comments/mda2ym/one_it_guys_trash_is_anothers_treasure/)
+- [Free Ticketing Software and KB](https://www.reddit.com/r/InformationTechnology/comments/md62pz/free_ticketing_software_and_kb/)
+- [Please give IT horror stories so I can torture my dad](https://www.reddit.com/r/InformationTechnology/comments/md5rab/please_give_it_horror_stories_so_i_can_torture_my/)
+- [Anyone have an HP T1600 large format printer and can give me a review](https://www.reddit.com/r/InformationTechnology/comments/md5ooj/anyone_have_an_hp_t1600_large_format_printer_and/)
+- [Scam or not?](https://www.reddit.com/r/InformationTechnology/comments/md5gl9/scam_or_not/)
+- [IT Resume Advice (silly)](https://www.reddit.com/r/InformationTechnology/comments/md0ve1/it_resume_advice_silly/)
+- [Is your Home/Work Office IT Strategy supporting efficiency?](https://www.reddit.com/r/InformationTechnology/comments/mcpl61/is_your_homework_office_it_strategy_supporting/)
+- [Next step after Net+ and some work experience?](https://www.reddit.com/r/InformationTechnology/comments/mcj75s/next_step_after_net_and_some_work_experience/)
+- [Run daily python script/batch file on timer on laptop?](https://www.reddit.com/r/InformationTechnology/comments/mcalq2/run_daily_python_scriptbatch_file_on_timer_on/)
+- [BS or BA](https://www.reddit.com/r/InformationTechnology/comments/mc4pz8/bs_or_ba/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

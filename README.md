@@ -306,16 +306,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Repurposing eInk electronic shelf labels into photo frames](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
-- [Live Bald Eagle Cam [video]](https://www.youtube.com/watch?v=7utMaDb1W08)
-- [Real Python's “Python Basics” is now available as a paperback book](https://realpython.com/products/python-basics-paperback/)
-- [Qualcomm is reportedly building a Nintendo Switch clone, powered by Android](https://arstechnica.com/gadgets/2021/03/qualcomm-is-reportedly-building-a-nintendo-switch-clone-powered-by-android/)
-- [How Much Weight Did We Gain During Lockdowns? 2 Pounds a Month, Study Hints](https://www.nytimes.com/2021/03/22/health/virus-weight-gain.html)
-- [Everyday Chemistry](https://en.wikipedia.org/wiki/Everyday_Chemistry)
-- [How Children Read Differently from Books vs. Screens](https://www.nytimes.com/2021/03/16/well/family/children-reading-screens-books.html)
-- [Taming the Demon: How Desert Monks Put Work in Its Place (2019)](https://www.commonwealmagazine.org/taming-demon)
-- [GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning/)
-- [The worst so-called “best practice” for Docker](https://pythonspeed.com/articles/security-updates-in-docker/)
+- [Update on credential stuffing attack against Workflowy user accounts](https://blog.workflowy.com/2021/03/25/an-update-on-the-recent-credential-stuffing-attack-against-workflowy-user-account/)
+- [Linus Torvalds weighs in on Rust language in the Linux kernel](https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/)
+- [Too Much High-Intensity Exercise May Be Bad for Your Health](https://www.nytimes.com/2021/03/24/well/move/exercise-hiit.html)
+- [Apple the top acquirer of AI companies](https://www.globaldata.com/apple-top-acquirer-ai-companies-us-tech-giants-also-among-forerunners-says-globaldata/)
+- [Jessica Walter, Tart-Tongued Matriarch of ‘Arrested Development,’ Dies at 80](https://www.nytimes.com/2021/03/25/arts/television/jessica-walter-dead.html)
+- [Flux Query Language](https://www.influxdata.com/products/flux/)
+- [Open Loops – Explained](https://twitter.com/thehulry/status/1375068700051660806)
+- [PipeWire](https://pipewire.org/)
+- [What the Suez Canal accident means to the tanker business](https://www.freightwaves.com/news/what-the-suez-canal-accident-means-to-the-tanker-business)
+- [The Office Will Never Die](https://glennfelson.substack.com/p/the-office-will-never-die)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/wake_up_1704.php" target="_blank"><i>wake up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/F/fuss_over_2351.php" target="_blank"><i>fuss over</i></a>
 <span> = </span>
-<span>to become conscious again after sleeping, or to make someone else become conscious after sleeping</span>
+<span>to give someone lots of attention to show how much you like them or how important you think they are</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

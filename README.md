@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_1/awesome_731.php" target="_blank"><i>awesome</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_2/joint_3_jay_1056.php" target="_blank"><i>joint (3) | jay</i></a>
 <span> = </span>
-<span>amazing, impressive, really cool</span>
+<span>a marijuana cigarette</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -307,16 +307,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hubitat Smart Hubs Add Optional Subscriptions for Remote Access and Cloud Backup](https://www.reviewgeek.com/75259/hubitat-smart-hubs-add-optional-subscriptions-for-remote-access-and-cloud-backup/)
-* [These New LEGO 'Star Wars' Helmets and Droid Will Help You Feel the Force](https://www.reviewgeek.com/75267/these-new-lego-star-wars-helmets-and-droid-will-help-you-feel-the-force/)
-* [Repairable Fairphone 2 Still Gets Updates 5 Years After Its Release](https://www.reviewgeek.com/75246/repairable-fairphone-2-still-gets-updates-5-years-after-its-release/)
-* [The OnePlus 9R is an Affordable Phone You Probably Can't Buy](https://www.reviewgeek.com/75242/the-oneplus-9r-is-an-affordable-phone-you-probably-cant-buy/)
-* [How to Sync Wi-Fi Passwords between Chromebooks and Android](https://www.howtogeek.com/719771/how-to-sync-wi-fi-passwords-between-chromebooks-and-android/)
-* [Dyson's New Vacuum Uses Lasers to Reveal Hidden Dust While You Clean](https://www.reviewgeek.com/75231/dysons-new-vacuum-uses-lasers-to-reveal-hidden-dust-while-you-clean/)
-* [How to Create Live Polls During a Microsoft Teams Meeting](https://www.howtogeek.com/715546/how-to-create-live-polls-during-a-microsoft-teams-meeting/)
-* [How to Use Microsoft Defender Antivirus from Command Prompt on Windows 10](https://www.howtogeek.com/717570/how-to-use-microsoft-defender-antivirus-from-command-prompt-on-windows-10/)
-* [How to Resize a DigitalOcean Droplet](https://www.cloudsavvyit.com/10319/how-to-resize-a-digitalocean-droplet/)
-* [X Shore's $330,000 Electric Boat Goes Up for Sale in the U.S.](https://www.reviewgeek.com/75149/x-shores-330000-electric-boat-arrives-quietly-in-the-u-s/)
+* [PSA: Update Your Apple iOS Devices Right Now to Patch an Active Vulnerability](https://www.reviewgeek.com/75436/psa-update-your-apple-ios-devices-right-now-to-patch-an-active-vulnerability/)
+* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
+* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
+* [Apple May Release a More Rugged Watch](https://www.reviewgeek.com/75379/apple-may-release-a-more-rugged-watch/)
+* [Amazon's New Fire TV Updated UI Arrives on More Streaming Sticks and Smart TVs](https://www.reviewgeek.com/75348/amazons-new-fire-tv-updated-ui-arrives-on-more-streaming-sticks-and-smart-tvs/)
+* [Why Not Rent Porche's Taycan EV For $295 a Day?](https://www.reviewgeek.com/75342/why-not-rent-porches-taycan-ev-for-295-a-day/)
+* [Razer's Concept RGB Face Mask Will Become a Reality](https://www.reviewgeek.com/75340/razers-concept-rgb-face-mask-will-become-a-reality/)
+* [What Is YouTube Shorts, and Is It a True TikTok Competitor?](https://www.howtogeek.com/720355/what-is-youtube-shorts-and-is-it-a-true-tiktok-competitor/)
+* [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://www.howtogeek.com/715978/how-to-fill-excel-cells-automatically-with-flash-fill-and-auto-fill/)
+* [How to Connect a Bluetooth Mouse to a Chromebook](https://www.howtogeek.com/715152/how-to-connect-a-bluetooth-mouse-to-a-chromebook/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

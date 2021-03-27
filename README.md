@@ -352,16 +352,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI names colors much as humans do](https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/)
-- [Egg: E-Graphs Good](https://egraphs-good.github.io/)
-- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
-- [Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]](https://www.youtube.com/watch?v=X4faogRMOL4)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Is that ship still stuck?](https://istheshipstillstuck.com/)
-- [Speculating the entire x86-64 instruction set in seconds with one weird trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
-- [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
-- [Ultrasound Networking (2014)](https://www.anfractuosity.com/projects/ultrasound-networking/)
-- [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
+- [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
+- [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
+- [Did the Black Death Rampage Across the World a Century Earlier Than We Thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
+- [Paul Erdős published more papers than any other mathematician except for Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
+- [Tesla broke US labor law with anti-union efforts – watchdog](https://www.theregister.com/2021/03/26/tesla_labor_law/)
+- [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
+- [Molar City](https://hazlitt.net/longreads/molar-city)
+- [In Stockholm there's currently an IT battle underway](https://twitter.com/spongepaddy/status/1375206110412570638)
+- [Beverly Cleary has died](https://www.washingtonpost.com/local/obituaries/beverly-cleary-dead/2021/03/26/afee8588-0aed-11e6-a6b6-2e6de3695b0e_story.html)
+- [Solar Is Cheapest Electricity in History, U.S. DOE Aims to Cut Costs 60% by 2030](https://cleantechnica.com/2021/03/26/solar-is-cheapest-electricity-in-history-us-doe-aims-to-cut-costs-60-by-2030/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

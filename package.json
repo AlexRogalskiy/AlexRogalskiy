@@ -6,6 +6,7 @@
   "license": "GPLv3",
   "scripts": {
     "format": "prettier --write **/*.js",
+    "start": "node index.js",
     "format:check": "prettier --check **/*.js",
     "lint": "eslint --fix .",
     "pretty": "pretty-quick --staged",

@@ -55,7 +55,6 @@ class PuppeteerService {
     try {
       let previousHeight = await this.#page.evaluate('document.body.scrollHeight');
       await this.#page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
-      await this.#page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
 
       const nodes = await this.#page.evaluate(() => {
         const images = document.querySelectorAll('.post-image');

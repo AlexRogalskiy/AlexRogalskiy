@@ -206,9 +206,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_2/Make_hay_while_the_sun_shines_899.php" target="_blank"><i>Make hay while the sun shines</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/We_must_learn_to_walk_before_we_can_run_909.php" target="_blank"><i>We must learn to walk before we can run</i></a>
 <span> = </span>
-<span>If we want to make hay, we need sunny weather, so when the sun comes we should take the opportunity to make hay. Thus the proverb suggests that we should make good use of any opportunity while it lasts.</span>
+<span>We have to be patient when learning. Babies crawl before they walk. And children walk before they run. We cannot do difficult tasks before we can do easy tasks.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

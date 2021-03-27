@@ -322,16 +322,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Update on credential stuffing attack against Workflowy user accounts](https://blog.workflowy.com/2021/03/25/an-update-on-the-recent-credential-stuffing-attack-against-workflowy-user-account/)
-- [Linus Torvalds weighs in on Rust language in the Linux kernel](https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/)
-- [Too Much High-Intensity Exercise May Be Bad for Your Health](https://www.nytimes.com/2021/03/24/well/move/exercise-hiit.html)
-- [Apple the top acquirer of AI companies](https://www.globaldata.com/apple-top-acquirer-ai-companies-us-tech-giants-also-among-forerunners-says-globaldata/)
-- [Jessica Walter, Tart-Tongued Matriarch of ‘Arrested Development,’ Dies at 80](https://www.nytimes.com/2021/03/25/arts/television/jessica-walter-dead.html)
-- [Flux Query Language](https://www.influxdata.com/products/flux/)
-- [Open Loops – Explained](https://twitter.com/thehulry/status/1375068700051660806)
-- [PipeWire](https://pipewire.org/)
-- [What the Suez Canal accident means to the tanker business](https://www.freightwaves.com/news/what-the-suez-canal-accident-means-to-the-tanker-business)
-- [The Office Will Never Die](https://glennfelson.substack.com/p/the-office-will-never-die)
+- [Show HN: Reverse engineered Opera VPN client](https://github.com/Snawoot/opera-proxy)
+- [Force Chrome to Close:D](https://closechrome.glitch.me/)
+- [Pressed Duck](https://en.wikipedia.org/wiki/Pressed_duck)
+- [Apple says iOS has alternative app distribution because the internet exists](https://www.zdnet.com/article/apple-says-ios-has-alternative-app-distribution-because-the-internet-exists/)
+- [Summary of Certain to Win: The Strategy of John Boyd, Applied to Business](https://ryansydnor.com/blog/certain-to-win/)
+- [The Tragedy of Group Selectionism (2007)](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism)
+- [TikTok’s viral baked feta pasta is worth the hype](https://www.washingtonpost.com/food/2021/02/11/baked-feta-pasta-recipe-tiktok/)
+- [DoD is poisoning communities across the US with toxic chemicals](https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states)
+- [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/articles/simd-strfind.html)
+- [Congress Demands Tech CEOs Censor the Internet Even More Aggressively](https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

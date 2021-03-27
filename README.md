@@ -154,13 +154,8 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="Quotes icon" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled Quotes" />
 </div>
-<!--
-<div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="600" src="https://github-readme-quotes.herokuapp.com/quote?theme=default_repocard&animation=default&layout=default&quoteCategory=programming" alt="Quotes" />
-</div>
--->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/chart.png" alt="Graphs & Charts icon" width="30px" height="30px" style="max-width:100%;"> _Graphs & Charts_
 

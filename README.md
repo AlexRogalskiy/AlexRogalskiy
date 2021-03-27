@@ -246,24 +246,10 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646651822018330624" target="_blank"><i>Death Again</i></a></summary>
-<p>by Jim Harrison</p><p>Let’s not get romantic or dismal about death.<br/>
-Indeed it’s our most unique act along with birth.<br/>
-We must think of it as cooking breakfast,<br/>
-it’s that ordinary. Break two eggs into a bowl<br/>
-or break a bowl into two eggs. Slip into a coffin<br/>
-after the fluids have been drained, or better yet,<br/>
-slide into the fire. Of course it’s a little hard<br/>
-to accept your last kiss, your last drink,<br/>
-your last meal about which the condemned<br/>
-can be quite particular as if there could be<br/>
-a cheeseburger sent by God. A few lovers<br/>
-sweep by the inner eye, but it’s mostly a placid<br/>
-lake at dawn, mist rising, a solitary loon<br/>
-call, and staring into the still, opaque water.<br/>
-We’ll know as children again all that we are<br/>
-destined to know, that the water is cold<br/>
-and deep, and the sun penetrates only so far.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646742433317715969" target="_blank"><i>Someday</i></a></summary>
+<p>by Mary Oliver</p><p>Even the oldest of trees continues its wonderful labor.<br/>Hummingbird lives in one of them.<br/>He&rsquo;s there for the white blossoms, and the secrecy.<br/>The blossoms could be snow, with a dash of pink.<br/>At first the fruit is small and green and hard.<br/>Everything has dreams, hope, ambition.<br/><br/>
+If I could I would always live in such shining obedience<br/>where nothing but the wind trims the boughs.<br/>I am sorry for every mistake I have made in my life.<br/>I&rsquo;m sorry I wasn&rsquo;t wiser sooner.<br/>I&rsquo;m sorry I ever spoke of myself as lonely.<br/><br/>
+Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is picked and is delicious.<br/>Some of it falls and the ants are delighted.<br/>Some of it hides under the snow and the famished deer are saved.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

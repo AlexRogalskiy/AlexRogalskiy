@@ -442,16 +442,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [How to move past the hype to succeed with AI](https://www.itworldcanada.com/article/how-to-move-past-the-hype-to-succeed-with-ai/445049)
+- [Parts of proposed privacy legislation worse PIPEDA, says commissioner](https://www.itworldcanada.com/article/parts-of-proposed-cppa-worse-than-canadas-existing-privacy-law-says-therrien/445019)
+- [Cyber Security Today, Week In Review for Friday March 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-26-2021/444990)
+- [Cyber Security Today, March 26, 2021 – A new ransomware strain, and FBI ransomware warning and update these WordPress plugins](https://www.itworldcanada.com/article/cyber-security-today-march-26-2021-a-new-ransomware-strain-and-fbi-ransomware-warning-and-update-these-wordpress-plugins/445002)
+- [Hashtag Trending, March 26, 2021 – Ontario considers remote education for the future; Out of touch CEOs; Amazon union showdown](https://www.itworldcanada.com/article/hashtag-trending-march-26-2021-ontario-considers-remote-education-for-the-future-out-of-touch-ceos-amazon-union-showdown/445021)
+- [BlackBerry and Girl Guide Canada issue over 5,600 Digital Defenders crests](https://www.itworldcanada.com/article/blackberry-and-girl-guide-canada-issue-over-5600-digital-defenders-crests/445006)
 - [6 things to remember when filing taxes this year](https://www.itworldcanada.com/article/6-things-to-remember-when-filing-taxes-this-year/444686)
 - [What tech skills will be most in demand in a post-pandemic world?](https://www.itworldcanada.com/article/what-tech-skills-will-be-most-in-demand-in-a-post-pandemic-world/444692)
 - [The biggest cybersecurity mistake?  Thinking you’re too small get hit](https://www.itworldcanada.com/article/the-biggest-cybersecurity-mistake-thinking-youre-too-small-get-hit/444948)
 - [Hashtag Trending, March 25, 2021 – Intel business update; Slack turns into a messenger; WFH’s unique benefits](https://www.itworldcanada.com/article/hashtag-trending-march-25-2021-intel-business-update-slack-turns-into-a-messenger-wfhs-unique-benefits/444941)
-- [Microsoft CEO Satya Nadella says CIOs deserve ‘a big thank you’](https://www.itworldcanada.com/article/microsoft-ceo-satya-nadella-says-cios-deserve-a-big-thank-you/444920)
-- [Microsoft Canada expands its skills program to 8 more colleges and universities](https://www.itworldcanada.com/article/microsoft-expands-its-skills-program-to-8-more-colleges-and-universities/444754)
-- [Cloud technology brings certainty in uncertain times](https://www.itworldcanada.com/article/cloud-technology-brings-certainty-in-uncertain-times/444855)
-- [Intel announces standalone foundry services group, updates technology roadmap, and more](https://www.itworldcanada.com/article/intel-announces-standalone-foundry-services-group-updates-technology-roadmap-and-more/444790)
-- [Cyber Security Today, March 24, 2021 – More tax scams, more COVID scams and why Microsoft SMB has to be locked down](https://www.itworldcanada.com/article/cyber-security-today-march-24-2021-more-tax-scams-more-covid-scams-and-why-microsoft-smb-has-to-be-locked-down/444770)
-- [Hashtag Trending, March 24, 2021 – Microsoft looks to acquire Discord; Apple steals Aramco’s crown; Hospitals hide pricing data](https://www.itworldcanada.com/article/hashtag-trending-hashtag-trending-march-24-2021-microsoft-looks-to-acquire-discord-apple-steals-aramcos-crown-hospitals-hide-pricing-data/444774)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

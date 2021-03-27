@@ -190,9 +190,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/J/join_the_ranks_of_432.php" target="_blank"><i>join the ranks of</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/talk_turkey_486.php" target="_blank"><i>talk turkey</i></a>
 <span> = </span>
-<span>If someone joins the ranks of a group or class of people, they become part of that group.</span>
+<span>If you talk turkey, you discuss something seriously, usually to do with business or money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

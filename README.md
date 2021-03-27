@@ -427,16 +427,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How long does it take to be ready for the 1001 and 1002?](https://www.reddit.com/r/InformationTechnology/comments/mdzn2c/how_long_does_it_take_to_be_ready_for_the_1001/)
+- [Software Engineering or Cyber Security](https://www.reddit.com/r/InformationTechnology/comments/mdyomw/software_engineering_or_cyber_security/)
+- [Highest-Impact thing to Impress a Manager/Recruiter](https://www.reddit.com/r/InformationTechnology/comments/mdyeyb/highestimpact_thing_to_impress_a_managerrecruiter/)
+- [Just passed CompTIA Security +, now what?](https://www.reddit.com/r/InformationTechnology/comments/mdsphj/just_passed_comptia_security_now_what/)
+- [How to transition from no IT to an IT department](https://www.reddit.com/r/InformationTechnology/comments/mdqv33/how_to_transition_from_no_it_to_an_it_department/)
+- [IT career](https://www.reddit.com/r/InformationTechnology/comments/mdqqzj/it_career/)
+- [Any Microsoft tools that can be used to document any code changes automatically?](https://www.reddit.com/r/InformationTechnology/comments/mdpn2o/any_microsoft_tools_that_can_be_used_to_document/)
+- [In Depth Imaging Solution](https://www.reddit.com/r/InformationTechnology/comments/mdmx8h/in_depth_imaging_solution/)
+- [What are some IT-related processes/products/etc. that frustrate you?](https://www.reddit.com/r/InformationTechnology/comments/mdj1i4/what_are_some_itrelated_processesproductsetc_that/)
 - [One IT Guy's Trash is another's Treasure!](https://www.reddit.com/r/InformationTechnology/comments/mda2ym/one_it_guys_trash_is_anothers_treasure/)
-- [Free Ticketing Software and KB](https://www.reddit.com/r/InformationTechnology/comments/md62pz/free_ticketing_software_and_kb/)
-- [Please give IT horror stories so I can torture my dad](https://www.reddit.com/r/InformationTechnology/comments/md5rab/please_give_it_horror_stories_so_i_can_torture_my/)
-- [Anyone have an HP T1600 large format printer and can give me a review](https://www.reddit.com/r/InformationTechnology/comments/md5ooj/anyone_have_an_hp_t1600_large_format_printer_and/)
-- [Scam or not?](https://www.reddit.com/r/InformationTechnology/comments/md5gl9/scam_or_not/)
-- [IT Resume Advice (silly)](https://www.reddit.com/r/InformationTechnology/comments/md0ve1/it_resume_advice_silly/)
-- [Is your Home/Work Office IT Strategy supporting efficiency?](https://www.reddit.com/r/InformationTechnology/comments/mcpl61/is_your_homework_office_it_strategy_supporting/)
-- [Next step after Net+ and some work experience?](https://www.reddit.com/r/InformationTechnology/comments/mcj75s/next_step_after_net_and_some_work_experience/)
-- [Run daily python script/batch file on timer on laptop?](https://www.reddit.com/r/InformationTechnology/comments/mcalq2/run_daily_python_scriptbatch_file_on_timer_on/)
-- [BS or BA](https://www.reddit.com/r/InformationTechnology/comments/mc4pz8/bs_or_ba/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

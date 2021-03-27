@@ -280,7 +280,7 @@ Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is pick
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>10°C (<i>clear sky</i>), humidity: 53%, pressure: 1021 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>9°C (<i>clear sky</i>), humidity: 53%, pressure: 1021 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:39 am</b> and sets at <b>19:29 pm</b>.
     </p>

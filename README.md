@@ -214,9 +214,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/F/fuss_over_2351.php" target="_blank"><i>fuss over</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/win_over_2098.php" target="_blank"><i>win over</i></a>
 <span> = </span>
-<span>to give someone lots of attention to show how much you like them or how important you think they are</span>
+<span>If you win somebody over, you get them to believe you, trust you or support you.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

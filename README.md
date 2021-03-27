@@ -198,9 +198,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_2/joint_3_jay_1056.php" target="_blank"><i>joint (3) | jay</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/N/nerve_1555.php" target="_blank"><i>nerve</i></a>
 <span> = </span>
-<span>a marijuana cigarette</span>
+<span>bravery, courage, audacity</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

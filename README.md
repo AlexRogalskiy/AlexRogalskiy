@@ -412,16 +412,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Surveillance expert ‘unfairly’ refused job at intelligence regulator after MI5 intervened](https://www.computerweekly.com/news/252498501/Surveillance-expert-unfairly-refused-job-in-intelligence-regulator-after-MI5-intervened)
+- [From private to public: Amadeus on working with Microsoft to change up its cloud strategy](https://www.computerweekly.com/feature/From-private-to-public-Amadeus-on-working-with-Microsoft-to-change-up-its-cloud-strategy)
+- [Backup appliances the hot topic for Pas-de-Calais fire brigade](https://www.computerweekly.com/feature/Backup-appliances-the-hot-topic-for-Pas-de-Calais-fire-brigade)
+- [Retailer FatFace pays $2m ransom to Conti cyber criminals](https://www.computerweekly.com/news/252498463/Retailer-FatFace-pays-2m-ransom-to-Conti-cyber-criminals)
+- [Remote working burn-out a factor in security risk](https://www.computerweekly.com/news/252498467/Remote-working-burn-out-a-factor-in-security-risk)
 - [Cyber security complacency puts UK at risk, says NCSC head](https://www.computerweekly.com/news/252498423/Cyber-security-complacency-puts-UK-at-risk-says-NCSC-head)
 - [TUC warns of gaps in British law over use of AI at work](https://www.computerweekly.com/news/252498430/TUC-warns-of-gaps-in-British-law-over-use-of-AI-at-work)
 - [Deliveroo faces pushback from investors and riders ahead of IPO](https://www.computerweekly.com/news/252498426/Deliveroo-faces-pushback-from-investors-and-riders-ahead-of-IPO)
 - [Warning: AWS IAM behaves differently to directory services](https://www.computerweekly.com/news/252498424/Warning-AWS-IAM-behaves-differently-to-directory-services)
 - [Four in five UK businesses seek new security suppliers](https://www.computerweekly.com/news/252498413/Four-in-five-UK-businesses-seek-new-security-suppliers)
-- [Government faces judicial review into plans for Post Office Horizon inquiry](https://www.computerweekly.com/news/252498409/Government-faces-judicial-review-into-plans-for-Post-Office-Horizon-inquiry)
-- [Liverpool announces test and development area for drone technology](https://www.computerweekly.com/news/252498408/Liverpool-announces-test-and-development-area-for-drone-technology)
-- [Interview: Paul Douglas, Scottish Water](https://www.computerweekly.com/news/252498338/Interview-Paul-Douglas-Scottish-Water)
-- [Facebook disrupts Chinese espionage operation](https://www.computerweekly.com/news/252498403/Facebook-disrupts-Chinese-espionage-operation)
-- [Tech firms need to keep focusing on mental wellbeing and support](https://www.computerweekly.com/opinion/Tech-firms-need-to-keep-focusing-on-mental-wellbeing-and-support)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

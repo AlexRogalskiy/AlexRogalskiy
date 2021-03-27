@@ -367,6 +367,8 @@ and deep, and the sun penetrates only so far.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to replace Edge as the default browser in Windows 10 — and why you shouldn’t](https://www.computerworld.com/article/3229068/how-to-replace-edge-as-the-default-browser-in-windows-10-and-why-you-shouldnt.html#tk.rss_all)
+- [Blind Blog survey finds companies, employees disagree on WFH future](https://www.computerworld.com/article/3613330/blind-blog-survey-finds-companies-employees-disagree-on-wfh-future.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Podcast: Intel's anti-Mac ads: What's next for Intel?](https://www.computerworld.com/article/3613073/podcast-intels-anti-mac-ads-whats-next-for-intel.html#tk.rss_all)
 - [Slack blocks public DM ‘invite messages’ after backlash](https://www.computerworld.com/article/3613112/slack-blocks-public-dm-invite-messages-after-backlash.html#tk.rss_all)
@@ -375,8 +377,6 @@ and deep, and the sun penetrates only so far.</p>
 - [12 advanced voice commands for Chrome on Android](https://www.computerworld.com/article/3612893/chrome-android-voice-commands.html#tk.rss_all)
 - [The case of the missing laptop RAM](https://www.computerworld.com/article/3612319/the-case-of-the-missing-laptop-ram.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Gartner: Spending on social and collaboration software booms as remote work takes hold](https://www.computerworld.com/article/3612870/gartner-spending-on-social-and-collaboration-software-booms-as-remote-work-takes-hold.html#tk.rss_all)
-- [With a .design domain from Porkbun, you can build the online portfolio of your dreams](https://www.computerworld.com/article/3612239/with-a-design-domain-from-porkbun-you-can-build-the-online-portfolio-of-your-dreams.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -337,16 +337,16 @@ and deep, and the sun penetrates only so far.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China sanctions UK businesses, MPs and lawyers in Xinjiang row](https://www.theguardian.com/world/2021/mar/26/china-sanctions-uk-businesses-mps-and-lawyers-in-xinjiang-row)
-- [Coronavirus live news: EU demands 'fair share' of Covid jabs, US doubles vaccine target](https://www.theguardian.com/world/live/2021/mar/26/coronavirus-live-news-eu-demands-fair-share-of-covid-jabs-us-doubles-vaccine-target)
-- [Leaked memo shows Amazon knows delivery drivers resort to urinating in bottles](https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo)
-- [Alabama tornado kills three as homes are destroyed and thousands lose power](https://www.theguardian.com/us-news/2021/mar/25/alabama-tornado-damage-birmingham)
-- [Black graduates 'shut out' of academic science and technology careers](https://www.theguardian.com/education/2021/mar/26/black-graduates-shut-out-of-academic-science-and-technology-careers)
-- [UK startup Octopus Energy becomes renewable energy giant in £3bn deal](https://www.theguardian.com/business/2021/mar/26/uk-startup-octopus-energy-becomes-renewable-energy-giant-in-3bn-deal)
-- [Tech CEOs grilled over role in Capitol attack as protesters mock them with giant cutouts](https://www.theguardian.com/us-news/2021/mar/25/us-congress-tech-hearings-capitol-attack)
-- [Welsh tourism sector can start to reopen from this weekend](https://www.theguardian.com/uk-news/2021/mar/25/welsh-tourism-sector-reopen-weekend-stay-local)
-- [Georgia's Republican-led legislature passes sweeping voting restrictions](https://www.theguardian.com/us-news/2021/mar/25/georgia-voting-restrictions-law-passed)
-- [Black Power: A British Story of Resistance review – a tortuous fight for justice](https://www.theguardian.com/tv-and-radio/2021/mar/25/black-power-a-british-story-of-resistance-review-a-tortuous-fight-for-justice)
+- [FA pledges £180m of grassroots funding to boost football's Covid-19 recovery](https://www.theguardian.com/football/2021/mar/27/fa-grassroots-funding-pitch-power-app-covid-recovery)
+- [Wayne Pivac savours Wales's Six Nations title after Scotland's victory](https://www.theguardian.com/sport/2021/mar/26/wayne-pivac-savours-waless-six-nations-title-after-scotlands-victory)
+- [Hundreds sit down outside Bristol police station in 'kill the bill' protest](https://www.theguardian.com/uk-news/2021/mar/26/hundreds-sit-down-outside-bristol-police-station-in-kill-the-bill-protest)
+- [Hausen – grim and grimy German chiller casts a dark shadow](https://www.theguardian.com/tv-and-radio/2021/mar/26/hausen-grim-and-grimy-german-horror)
+- [Mozambique: 180 workers trapped in hotel amid insurgent attack](https://www.theguardian.com/world/2021/mar/26/mozambique-180-workers-trapped-in-hotel-amid-insurgent-attack)
+- [Beverly Cleary, beloved children's author, dies aged 104](https://www.theguardian.com/books/2021/mar/26/beverly-cleary-dead-104-childrens-author-ramona-henry-huggins)
+- [Jordan Henderson is an England doubt for Euro finals, says Gareth Southgate](https://www.theguardian.com/football/2021/mar/26/jordan-henderson-england-doubt-euro-finals-gareth-southgate)
+- [NSW floods: more than 75 homes evacuated on mid north coast after widespread sewage leaks](https://www.theguardian.com/australia-news/2021/mar/27/nsw-floods-more-than-75-homes-evacuated-on-mid-north-coast-after-widespread-septic-leaks)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/mar/26/20-photographs-of-the-week)
+- [Metals magnate Sanjeev Gupta seeks £170m government rescue](https://www.theguardian.com/business/2021/mar/26/metals-magnate-sanjeev-gupta-seeks-170m-government-rescue)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

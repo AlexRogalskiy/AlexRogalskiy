@@ -397,6 +397,8 @@ and deep, and the sun penetrates only so far.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft, Google address browser compatibility issues](https://www.infoworld.com/article/3613077/microsoft-google-address-browser-compatibility-issues.html#tk.rss_all)
+- [3 surefire ways to kill your multicloud deployment](https://www.infoworld.com/article/3613089/3-surefire-ways-to-kill-your-multicloud-deployment.html#tk.rss_all)
 - [What’s new in Rust 1.51](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Ruby-like Crystal 1.0 makes its debut](https://www.infoworld.com/article/3613109/ruby-like-crystal-10-makes-its-debut.html#tk.rss_all)
 - [Ensuring that citizen developers build AI responsibly](https://www.infoworld.com/article/3612222/ensuring-that-citizen-developers-build-ai-responsibly.html#tk.rss_all)
@@ -405,8 +407,6 @@ and deep, and the sun penetrates only so far.</p>
 - [OpenJDK proposals would improve Java pattern matching](https://www.infoworld.com/article/3612908/openjdk-proposals-would-improve-java-pattern-matching.html#tk.rss_all)
 - [Data wrangling and exploratory data analysis explained](https://www.infoworld.com/article/3612888/data-wrangling-and-exploratory-data-analysis-explained.html#tk.rss_all)
 - [Automate your Windows workflow with Power Automate Desktop](https://www.infoworld.com/article/3612589/automate-your-workflow-with-power-automate-desktop.html#tk.rss_all)
-- [Cloud spending outstrips on-premises investments for the first time](https://www.infoworld.com/article/3612769/cloud-spending-outstrips-on-premises-investments-for-the-first-time.html#tk.rss_all)
-- [The pandemic-driven rush to cloud is compromising security](https://www.infoworld.com/article/3612245/the-pandemic-driven-rush-to-cloud-is-compromising-security.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

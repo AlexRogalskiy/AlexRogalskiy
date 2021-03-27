@@ -382,6 +382,8 @@ and deep, and the sun penetrates only so far.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How Quickly Are Companies Really Adopting Cloud? It's Complicated](https://www.informationweek.com/cloud/how-quickly-are-companies-really-adopting-cloud-its-complicated/a/d-id/1340504?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Bain Capital's David Humphrey Sees in Hybrid Cloud](https://www.informationweek.com/cloud/what-bain-capitals-david-humphrey-sees-in-hybrid-cloud/a/d-id/1340494?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Addressing 'Zoom Fatigue' Head-On in the Future of Team Conferencing](https://www.informationweek.com/big-data/ai-machine-learning/addressing-zoom-fatigue-head-on-in-the-future-of-team-conferencing/a/d-id/1340510?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why and How the Chief Information Officer Role is Changing](https://www.informationweek.com/strategic-cio/why-and-how-the-chief-information-officer-role-is-changing/a/d-id/1340488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -390,8 +392,6 @@ and deep, and the sun penetrates only so far.</p>
 - [What IT Leaders Need to Know About Open Source Software](https://www.informationweek.com/devops/what-it-leaders-need-to-know-about-open-source-software/a/d-id/1340477?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How Scholarships Can Support Diversity and Inclusion in Tech](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-scholarships-can-support-diversity-and-inclusion-in-tech/a/d-id/1340464?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [5 AI-for-Industry Myths Debunked](https://www.informationweek.com/big-data/ai-machine-learning/5-ai-for-industry-myths-debunked/a/d-id/1340451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Common AI Ethics Mistakes Companies Are Making](https://www.informationweek.com/big-data/ai-machine-learning/common-ai-ethics-mistakes-companies-are-making/a/d-id/1340456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [In Process Optimization, Look Beyond the Ax and Stopwatch](https://www.informationweek.com/big-data/ai-machine-learning/in-process-optimization-look-beyond-the-ax-and-stopwatch/a/d-id/1340424?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

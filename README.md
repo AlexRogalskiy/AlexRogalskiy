@@ -154,13 +154,13 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/quote.png" alt="Quotes icon" width="30px" height="30px" style="max-width:100%;"> _Quotes_
 
 <div id="quotes_block_id" align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled Quotes" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/chart.png" alt="Graphs & Charts icon" width="30px" height="30px" style="max-width:100%;"> _Graphs & Charts_
 
 <div id="charts_block_id" align="center" style="align-content: center">
-    <img width="100%" style="min-height: 250px" src="https://styled-charts.vercel.app/api?url=https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/1.json&width=600&height=400" alt="Graphs & Charts" />
+    <img width="100%" style="min-height: 250px" src="https://styled-charts.vercel.app/api?url=https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/1.json&width=600&height=400" alt="Styled Charts" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/camera.png" alt="Image of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Image of the Day_
@@ -174,13 +174,13 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/about.png" alt="Proverb of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Proverb of the Day_
 
 <div id="proverbs_block_id" align="center" style="align-content: center">
-    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Proverb of the Day" />
+    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Styled Proverbs" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
 
 <div id="words_lang_block_id" align="center" style="align-content: center">
-    <img width="100%" height="400px" src="https://styled-wotd.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Word of the Day" />
+    <img width="100%" height="400px" src="https://styled-wotd.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Styled words" />
 </div>
 
 <!--views:idiom-rss-marker:start-->

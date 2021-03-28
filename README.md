@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/talk_turkey_486.php" target="_blank"><i>talk turkey</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/dirt_cheap_618.php" target="_blank"><i>dirt cheap</i></a>
 <span> = </span>
-<span>If you talk turkey, you discuss something seriously, usually to do with business or money.</span>
+<span>You can say something is dirt cheap if it costs very little money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

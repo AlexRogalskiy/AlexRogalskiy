@@ -333,16 +333,16 @@ Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is pick
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
-- [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
-- [Did the Black Death Rampage Across the World a Century Earlier Than We Thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
-- [Paul Erdős published more papers than any other mathematician except for Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
-- [Tesla broke US labor law with anti-union efforts – watchdog](https://www.theregister.com/2021/03/26/tesla_labor_law/)
-- [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
-- [Molar City](https://hazlitt.net/longreads/molar-city)
-- [In Stockholm there's currently an IT battle underway](https://twitter.com/spongepaddy/status/1375206110412570638)
-- [Beverly Cleary has died](https://www.washingtonpost.com/local/obituaries/beverly-cleary-dead/2021/03/26/afee8588-0aed-11e6-a6b6-2e6de3695b0e_story.html)
-- [Solar Is Cheapest Electricity in History, U.S. DOE Aims to Cut Costs 60% by 2030](https://cleantechnica.com/2021/03/26/solar-is-cheapest-electricity-in-history-us-doe-aims-to-cut-costs-60-by-2030/)
+- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
+- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
+- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
+- [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
+- [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
+- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
+- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
+- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
+- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

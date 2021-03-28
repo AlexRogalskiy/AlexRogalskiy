@@ -288,16 +288,16 @@ Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is pick
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [PSA: Update Your Apple iOS Devices Right Now to Patch an Active Vulnerability](https://www.reviewgeek.com/75436/psa-update-your-apple-ios-devices-right-now-to-patch-an-active-vulnerability/)
-* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
-* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
-* [Apple May Release a More Rugged Watch](https://www.reviewgeek.com/75379/apple-may-release-a-more-rugged-watch/)
-* [Amazon's New Fire TV Updated UI Arrives on More Streaming Sticks and Smart TVs](https://www.reviewgeek.com/75348/amazons-new-fire-tv-updated-ui-arrives-on-more-streaming-sticks-and-smart-tvs/)
-* [Why Not Rent Porche's Taycan EV For $295 a Day?](https://www.reviewgeek.com/75342/why-not-rent-porches-taycan-ev-for-295-a-day/)
-* [Razer's Concept RGB Face Mask Will Become a Reality](https://www.reviewgeek.com/75340/razers-concept-rgb-face-mask-will-become-a-reality/)
-* [What Is YouTube Shorts, and Is It a True TikTok Competitor?](https://www.howtogeek.com/720355/what-is-youtube-shorts-and-is-it-a-true-tiktok-competitor/)
-* [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://www.howtogeek.com/715978/how-to-fill-excel-cells-automatically-with-flash-fill-and-auto-fill/)
-* [How to Connect a Bluetooth Mouse to a Chromebook](https://www.howtogeek.com/715152/how-to-connect-a-bluetooth-mouse-to-a-chromebook/)
+* [What We're Playing: 'Trackmania' Makes You Enjoy Resetting](https://www.reviewgeek.com/74864/what-were-playing-trackmania-makes-you-enjoy-resetting/)
+* [Curious How Big Fictional Planets Are? This Cosmic Video Compares Them All](https://www.reviewgeek.com/75452/curious-how-big-fictional-planets-are-this-cosmic-video-compares-them-all/)
+* [How to See a Book’s Page Number on Amazon Kindle](https://www.howtogeek.com/715778/how-to-see-a-books-page-number-on-amazon-kindle/)
+* [Save Big on Portable Projectors During XGIMI's Pre-Easter Sale](https://www.reviewgeek.com/75408/save-big-on-portable-projectors-during-xgimis-pre-easter-sale/)
+* [How to Disable Friend Suggestions on Facebook](https://www.howtogeek.com/714793/how-to-disable-friend-suggestions-on-facebook/)
+* [How to Fix Blurry Apps on Windows 10](https://www.howtogeek.com/717965/how-to-fix-blurry-apps-on-windows-10/)
+* [How to Disable Siri on the iPhone Lock Screen](https://www.howtogeek.com/716533/how-to-disable-siri-on-the-iphone-lock-screen/)
+* [How to Find Recently Viewed Ads on Instagram](https://www.howtogeek.com/717520/how-to-find-recently-viewed-ads-on-instagram/)
+* [The 7 Best Phone Docks for Your Car](https://www.reviewgeek.com/73861/the-best-phone-docks-for-your-car-2/)
+* [How to Enable “FPS Boost” for a Game on Xbox Series X or S](https://www.howtogeek.com/719918/how-to-enable-fps-boost-for-a-game-on-xbox-series-x-or-s/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

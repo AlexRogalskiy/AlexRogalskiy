@@ -274,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>clear sky</i>), humidity: 70%, pressure: 1021 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
+        <b>4°C (<i>clear sky</i>), humidity: 75%, pressure: 1021 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:36 am</b> and sets at <b>19:31 pm</b>.
     </p>
@@ -287,61 +287,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [PSA: Update Your Apple iOS Devices Right Now to Patch an Active Vulnerability](https://www.reviewgeek.com/75436/psa-update-your-apple-ios-devices-right-now-to-patch-an-active-vulnerability/)
-* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
-* [How to Create a RAM Drive in Linux](https://www.cloudsavvyit.com/10254/how-to-create-a-ram-drive-in-linux/)
-* [Apple May Release a More Rugged Watch](https://www.reviewgeek.com/75379/apple-may-release-a-more-rugged-watch/)
-* [Amazon's New Fire TV Updated UI Arrives on More Streaming Sticks and Smart TVs](https://www.reviewgeek.com/75348/amazons-new-fire-tv-updated-ui-arrives-on-more-streaming-sticks-and-smart-tvs/)
-* [Why Not Rent Porche's Taycan EV For $295 a Day?](https://www.reviewgeek.com/75342/why-not-rent-porches-taycan-ev-for-295-a-day/)
-* [Razer's Concept RGB Face Mask Will Become a Reality](https://www.reviewgeek.com/75340/razers-concept-rgb-face-mask-will-become-a-reality/)
-* [What Is YouTube Shorts, and Is It a True TikTok Competitor?](https://www.howtogeek.com/720355/what-is-youtube-shorts-and-is-it-a-true-tiktok-competitor/)
-* [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://www.howtogeek.com/715978/how-to-fill-excel-cells-automatically-with-flash-fill-and-auto-fill/)
-* [How to Connect a Bluetooth Mouse to a Chromebook](https://www.howtogeek.com/715152/how-to-connect-a-bluetooth-mouse-to-a-chromebook/)
+* [What We're Playing: 'Trackmania' Makes You Enjoy Resetting](https://www.reviewgeek.com/74864/what-were-playing-trackmania-makes-you-enjoy-resetting/)
+* [Curious How Big Fictional Planets Are? This Cosmic Video Compares Them All](https://www.reviewgeek.com/75452/curious-how-big-fictional-planets-are-this-cosmic-video-compares-them-all/)
+* [How to See a Book’s Page Number on Amazon Kindle](https://www.howtogeek.com/715778/how-to-see-a-books-page-number-on-amazon-kindle/)
+* [Save Big on Portable Projectors During XGIMI's Pre-Easter Sale](https://www.reviewgeek.com/75408/save-big-on-portable-projectors-during-xgimis-pre-easter-sale/)
+* [How to Disable Friend Suggestions on Facebook](https://www.howtogeek.com/714793/how-to-disable-friend-suggestions-on-facebook/)
+* [How to Fix Blurry Apps on Windows 10](https://www.howtogeek.com/717965/how-to-fix-blurry-apps-on-windows-10/)
+* [How to Disable Siri on the iPhone Lock Screen](https://www.howtogeek.com/716533/how-to-disable-siri-on-the-iphone-lock-screen/)
+* [How to Find Recently Viewed Ads on Instagram](https://www.howtogeek.com/717520/how-to-find-recently-viewed-ads-on-instagram/)
+* [The 7 Best Phone Docks for Your Car](https://www.reviewgeek.com/73861/the-best-phone-docks-for-your-car-2/)
+* [How to Enable “FPS Boost” for a Game on Xbox Series X or S](https://www.howtogeek.com/719918/how-to-enable-fps-boost-for-a-game-on-xbox-series-x-or-s/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Reverse engineered Opera VPN client](https://github.com/Snawoot/opera-proxy)
-- [Force Chrome to Close:D](https://closechrome.glitch.me/)
-- [Pressed Duck](https://en.wikipedia.org/wiki/Pressed_duck)
-- [Apple says iOS has alternative app distribution because the internet exists](https://www.zdnet.com/article/apple-says-ios-has-alternative-app-distribution-because-the-internet-exists/)
-- [Summary of Certain to Win: The Strategy of John Boyd, Applied to Business](https://ryansydnor.com/blog/certain-to-win/)
-- [The Tragedy of Group Selectionism (2007)](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism)
-- [TikTok’s viral baked feta pasta is worth the hype](https://www.washingtonpost.com/food/2021/02/11/baked-feta-pasta-recipe-tiktok/)
-- [DoD is poisoning communities across the US with toxic chemicals](https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states)
-- [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/articles/simd-strfind.html)
-- [Congress Demands Tech CEOs Censor the Internet Even More Aggressively](https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands)
+- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
+- [Show HN: Updated Useful Linux Search filesystem with exclusion ability](https://github.com/abdulbadii/find-list-search-filter-filesystem-thoroughly)
+- [‘Unprecedented’: Wall Street Ponders Goldman’s Block-Trade Spree](https://www.bloomberg.com/news/articles/2021-03-27/-unprecedented-wall-street-ponders-goldman-s-block-trade-spree)
+- [Plan to Store Seeds, Spores, Eggs and Sperm on the Moon for Safekeeping](https://www.universetoday.com/150630/a-plan-to-store-seeds-spores-eggs-and-sperm-on-the-moon-for-safekeeping/)
+- [Ask HN: Is My Machine Hacked?](https://news.ycombinator.com/item?id=26607391)
+- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
+- [Common Pitfalls in Infrastructure as Code](https://itnext.io/5-common-pitfalls-in-infrastructure-as-code-3637ab6b02e0)
+- [DIY Track Cutter, Cut steel sheets easily for less than $200](https://www.youtube.com/watch?v=0A3LN6w_sGI)
+- [The Leadership and Artistry of Tony Hsieh (2020)](https://hbr.org/2020/11/the-leadership-and-artistry-of-tony-hsieh)
+- [When Migrating Big Systems](https://thinkingthrough.substack.com/p/when-migrating-big-systems)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [FA pledges £180m of grassroots funding to boost football's Covid-19 recovery](https://www.theguardian.com/football/2021/mar/27/fa-grassroots-funding-pitch-power-app-covid-recovery)
-- [Wayne Pivac savours Wales's Six Nations title after Scotland's victory](https://www.theguardian.com/sport/2021/mar/26/wayne-pivac-savours-waless-six-nations-title-after-scotlands-victory)
-- [Hundreds sit down outside Bristol police station in 'kill the bill' protest](https://www.theguardian.com/uk-news/2021/mar/26/hundreds-sit-down-outside-bristol-police-station-in-kill-the-bill-protest)
-- [Hausen – grim and grimy German chiller casts a dark shadow](https://www.theguardian.com/tv-and-radio/2021/mar/26/hausen-grim-and-grimy-german-horror)
-- [Mozambique: 180 workers trapped in hotel amid insurgent attack](https://www.theguardian.com/world/2021/mar/26/mozambique-180-workers-trapped-in-hotel-amid-insurgent-attack)
-- [Beverly Cleary, beloved children's author, dies aged 104](https://www.theguardian.com/books/2021/mar/26/beverly-cleary-dead-104-childrens-author-ramona-henry-huggins)
-- [Jordan Henderson is an England doubt for Euro finals, says Gareth Southgate](https://www.theguardian.com/football/2021/mar/26/jordan-henderson-england-doubt-euro-finals-gareth-southgate)
-- [NSW floods: more than 75 homes evacuated on mid north coast after widespread sewage leaks](https://www.theguardian.com/australia-news/2021/mar/27/nsw-floods-more-than-75-homes-evacuated-on-mid-north-coast-after-widespread-septic-leaks)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/mar/26/20-photographs-of-the-week)
-- [Metals magnate Sanjeev Gupta seeks £170m government rescue](https://www.theguardian.com/business/2021/mar/26/metals-magnate-sanjeev-gupta-seeks-170m-government-rescue)
+- [Coronavirus live news: Germany 'risks losing control' of Covid; Brazil deaths top 3,000 for second day](https://www.theguardian.com/world/live/2021/mar/28/coronavirus-live-news-germany-risks-losing-control-of-covid-brazil-deaths-top-3000-for-second-day)
+- [ABC checking on presenter's wellbeing after expletives shouted during Adelaide news bulletin](https://www.theguardian.com/media/2021/mar/28/abc-checking-on-presenters-wellbeing-after-expletives-shouted-during-adelaide-news-bulletin)
+- [Wolfson may have the best ideas about what comes Next for shops](https://www.theguardian.com/business/2021/mar/28/wolfson-may-have-the-best-ideas-about-what-comes-next-for-shops)
+- [Dillian Whyte stops Alexander Povetkin to keep world title dream alive](https://www.theguardian.com/sport/2021/mar/27/dillian-whyte-stops-alexander-povetkin-to-keep-world-title-dream-alive)
+- [Editors' picks: five ways to style spring outerwear – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/editors-picks-five-ways-to-style-spring-outerwear-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Wada investigates Ukad for letting British Cycling conduct doping probe](https://www.theguardian.com/sport/2021/mar/27/wada-investigates-ukad-for-letting-british-cycling-conduct-doping-probe)
+- [Met police hunt man charged with sexual assault released in error from prison](https://www.theguardian.com/uk-news/2021/mar/27/met-police-hunt-man-charged-with-sexual-assault-released-in-error-from-prison)
+- [Ronaldo rues absence of VAR as Portugal winner in Serbia is ruled out](https://www.theguardian.com/football/2021/mar/27/netherlands-respond-to-shock-defeat-with-win-over-latvia)
+- [Harry Kane shuts out the noise to fix his focus on a pivotal summer](https://www.theguardian.com/football/2021/mar/27/harry-kane-shuts-out-noise-to-fix-focus-pivotal-summer-england-euros)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
-- [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
-- [Did the Black Death Rampage Across the World a Century Earlier Than We Thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
-- [Paul Erdős published more papers than any other mathematician except for Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
-- [Tesla broke US labor law with anti-union efforts – watchdog](https://www.theregister.com/2021/03/26/tesla_labor_law/)
-- [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
-- [Molar City](https://hazlitt.net/longreads/molar-city)
-- [In Stockholm there's currently an IT battle underway](https://twitter.com/spongepaddy/status/1375206110412570638)
-- [Beverly Cleary has died](https://www.washingtonpost.com/local/obituaries/beverly-cleary-dead/2021/03/26/afee8588-0aed-11e6-a6b6-2e6de3695b0e_story.html)
-- [Solar Is Cheapest Electricity in History, U.S. DOE Aims to Cut Costs 60% by 2030](https://cleantechnica.com/2021/03/26/solar-is-cheapest-electricity-in-history-us-doe-aims-to-cut-costs-60-by-2030/)
+- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
+- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
+- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
+- [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
+- [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
+- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
+- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
+- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
+- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -407,16 +407,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need advice](https://www.reddit.com/r/InformationTechnology/comments/mera4y/i_need_advice/)
+- [Is it normal for recruiters to drag their feet?](https://www.reddit.com/r/InformationTechnology/comments/meh5q1/is_it_normal_for_recruiters_to_drag_their_feet/)
+- [Where does an IT career plateau with no degree?](https://www.reddit.com/r/InformationTechnology/comments/mefoc6/where_does_an_it_career_plateau_with_no_degree/)
+- [Just moved from Africa to the US..Help in choosing career and educational path](https://www.reddit.com/r/InformationTechnology/comments/me7d2l/just_moved_from_africa_to_the_ushelp_in_choosing/)
+- [The Best Thing About an Information Technology Degree](https://www.reddit.com/r/InformationTechnology/comments/me5lhc/the_best_thing_about_an_information_technology/)
 - [How long does it take to be ready for the 1001 and 1002?](https://www.reddit.com/r/InformationTechnology/comments/mdzn2c/how_long_does_it_take_to_be_ready_for_the_1001/)
 - [Software Engineering or Cyber Security](https://www.reddit.com/r/InformationTechnology/comments/mdyomw/software_engineering_or_cyber_security/)
-- [Highest-Impact thing to Impress a Manager/Recruiter](https://www.reddit.com/r/InformationTechnology/comments/mdyeyb/highestimpact_thing_to_impress_a_managerrecruiter/)
 - [Just passed CompTIA Security +, now what?](https://www.reddit.com/r/InformationTechnology/comments/mdsphj/just_passed_comptia_security_now_what/)
 - [How to transition from no IT to an IT department](https://www.reddit.com/r/InformationTechnology/comments/mdqv33/how_to_transition_from_no_it_to_an_it_department/)
 - [IT career](https://www.reddit.com/r/InformationTechnology/comments/mdqqzj/it_career/)
-- [Any Microsoft tools that can be used to document any code changes automatically?](https://www.reddit.com/r/InformationTechnology/comments/mdpn2o/any_microsoft_tools_that_can_be_used_to_document/)
-- [In Depth Imaging Solution](https://www.reddit.com/r/InformationTechnology/comments/mdmx8h/in_depth_imaging_solution/)
-- [What are some IT-related processes/products/etc. that frustrate you?](https://www.reddit.com/r/InformationTechnology/comments/mdj1i4/what_are_some_itrelated_processesproductsetc_that/)
-- [One IT Guy's Trash is another's Treasure!](https://www.reddit.com/r/InformationTechnology/comments/mda2ym/one_it_guys_trash_is_anothers_treasure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

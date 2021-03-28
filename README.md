@@ -303,16 +303,16 @@ Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is pick
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Reverse engineered Opera VPN client](https://github.com/Snawoot/opera-proxy)
-- [Force Chrome to Close:D](https://closechrome.glitch.me/)
-- [Pressed Duck](https://en.wikipedia.org/wiki/Pressed_duck)
-- [Apple says iOS has alternative app distribution because the internet exists](https://www.zdnet.com/article/apple-says-ios-has-alternative-app-distribution-because-the-internet-exists/)
-- [Summary of Certain to Win: The Strategy of John Boyd, Applied to Business](https://ryansydnor.com/blog/certain-to-win/)
-- [The Tragedy of Group Selectionism (2007)](https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism)
-- [TikTok’s viral baked feta pasta is worth the hype](https://www.washingtonpost.com/food/2021/02/11/baked-feta-pasta-recipe-tiktok/)
-- [DoD is poisoning communities across the US with toxic chemicals](https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states)
-- [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/articles/simd-strfind.html)
-- [Congress Demands Tech CEOs Censor the Internet Even More Aggressively](https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands)
+- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
+- [Show HN: Updated Useful Linux Search filesystem with exclusion ability](https://github.com/abdulbadii/find-list-search-filter-filesystem-thoroughly)
+- [‘Unprecedented’: Wall Street Ponders Goldman’s Block-Trade Spree](https://www.bloomberg.com/news/articles/2021-03-27/-unprecedented-wall-street-ponders-goldman-s-block-trade-spree)
+- [Plan to Store Seeds, Spores, Eggs and Sperm on the Moon for Safekeeping](https://www.universetoday.com/150630/a-plan-to-store-seeds-spores-eggs-and-sperm-on-the-moon-for-safekeeping/)
+- [Ask HN: Is My Machine Hacked?](https://news.ycombinator.com/item?id=26607391)
+- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
+- [Common Pitfalls in Infrastructure as Code](https://itnext.io/5-common-pitfalls-in-infrastructure-as-code-3637ab6b02e0)
+- [DIY Track Cutter, Cut steel sheets easily for less than $200](https://www.youtube.com/watch?v=0A3LN6w_sGI)
+- [The Leadership and Artistry of Tony Hsieh (2020)](https://hbr.org/2020/11/the-leadership-and-artistry-of-tony-hsieh)
+- [When Migrating Big Systems](https://thinkingthrough.substack.com/p/when-migrating-big-systems)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

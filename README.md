@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/win_over_2098.php" target="_blank"><i>win over</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_5/read_up_on_1896.php" target="_blank"><i>read up on</i></a>
 <span> = </span>
-<span>If you win somebody over, you get them to believe you, trust you or support you.</span>
+<span>If you read up on something, you read books about it, or find articles and information on the internet about it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -318,16 +318,16 @@ Oh, love, lay your hands upon me again.<br/>Some of the fruit ripens and is pick
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [FA pledges £180m of grassroots funding to boost football's Covid-19 recovery](https://www.theguardian.com/football/2021/mar/27/fa-grassroots-funding-pitch-power-app-covid-recovery)
-- [Wayne Pivac savours Wales's Six Nations title after Scotland's victory](https://www.theguardian.com/sport/2021/mar/26/wayne-pivac-savours-waless-six-nations-title-after-scotlands-victory)
-- [Hundreds sit down outside Bristol police station in 'kill the bill' protest](https://www.theguardian.com/uk-news/2021/mar/26/hundreds-sit-down-outside-bristol-police-station-in-kill-the-bill-protest)
-- [Hausen – grim and grimy German chiller casts a dark shadow](https://www.theguardian.com/tv-and-radio/2021/mar/26/hausen-grim-and-grimy-german-horror)
-- [Mozambique: 180 workers trapped in hotel amid insurgent attack](https://www.theguardian.com/world/2021/mar/26/mozambique-180-workers-trapped-in-hotel-amid-insurgent-attack)
-- [Beverly Cleary, beloved children's author, dies aged 104](https://www.theguardian.com/books/2021/mar/26/beverly-cleary-dead-104-childrens-author-ramona-henry-huggins)
-- [Jordan Henderson is an England doubt for Euro finals, says Gareth Southgate](https://www.theguardian.com/football/2021/mar/26/jordan-henderson-england-doubt-euro-finals-gareth-southgate)
-- [NSW floods: more than 75 homes evacuated on mid north coast after widespread sewage leaks](https://www.theguardian.com/australia-news/2021/mar/27/nsw-floods-more-than-75-homes-evacuated-on-mid-north-coast-after-widespread-septic-leaks)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/mar/26/20-photographs-of-the-week)
-- [Metals magnate Sanjeev Gupta seeks £170m government rescue](https://www.theguardian.com/business/2021/mar/26/metals-magnate-sanjeev-gupta-seeks-170m-government-rescue)
+- [Coronavirus live news: Germany 'risks losing control' of Covid; Brazil deaths top 3,000 for second day](https://www.theguardian.com/world/live/2021/mar/28/coronavirus-live-news-germany-risks-losing-control-of-covid-brazil-deaths-top-3000-for-second-day)
+- [ABC checking on presenter's wellbeing after expletives shouted during Adelaide news bulletin](https://www.theguardian.com/media/2021/mar/28/abc-checking-on-presenters-wellbeing-after-expletives-shouted-during-adelaide-news-bulletin)
+- [Wolfson may have the best ideas about what comes Next for shops](https://www.theguardian.com/business/2021/mar/28/wolfson-may-have-the-best-ideas-about-what-comes-next-for-shops)
+- [Dillian Whyte stops Alexander Povetkin to keep world title dream alive](https://www.theguardian.com/sport/2021/mar/27/dillian-whyte-stops-alexander-povetkin-to-keep-world-title-dream-alive)
+- [Editors' picks: five ways to style spring outerwear – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/editors-picks-five-ways-to-style-spring-outerwear-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Wada investigates Ukad for letting British Cycling conduct doping probe](https://www.theguardian.com/sport/2021/mar/27/wada-investigates-ukad-for-letting-british-cycling-conduct-doping-probe)
+- [Met police hunt man charged with sexual assault released in error from prison](https://www.theguardian.com/uk-news/2021/mar/27/met-police-hunt-man-charged-with-sexual-assault-released-in-error-from-prison)
+- [Ronaldo rues absence of VAR as Portugal winner in Serbia is ruled out](https://www.theguardian.com/football/2021/mar/27/netherlands-respond-to-shock-defeat-with-win-over-latvia)
+- [Harry Kane shuts out the noise to fix his focus on a pivotal summer](https://www.theguardian.com/football/2021/mar/27/harry-kane-shuts-out-noise-to-fix-focus-pivotal-summer-england-euros)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

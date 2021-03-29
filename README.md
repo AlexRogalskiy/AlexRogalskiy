@@ -241,9 +241,32 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/646833028102012928" target="_blank"><i>At Last the Secret Is Out</i></a></summary>
-<p>by W.H. Auden</p><p>At last the secret is out, as it always must come in the end,<br/>The delicious story is ripe to tell to the intimate friend;<br/>Over the tea-cups and in the square the tongue has its desire;<br/>Still waters run deep, my dear, there’s never smoke without fire.<br/><br/>Behind the corpse in the reservoir, behind the ghost on the links,<br/>Behind the lady who dances and the man who madly drinks,<br/>Under the look of fatigue, the attack of migraine and the sigh<br/>There is always another story, there is more than meets the eye.<br/><br/>For the clear voice suddenly singing, high up in the convent wall,<br/>The scent of the elder bushes, the sporting prints in the hall,<br/>The croquet matches in summer, the handshake, the cough, the kiss,<br/>There is always a wicked secret, a private reason for this.
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/646923659617959936" target="_blank"><i>Madras Central</i></a></summary>
+<p>by Vijay Nambisan</p><p>The black train pulls in at the platform,<br/>
+Hissing into silence like hot steel in water.<br/>
+Tell the porters not to be so precipitate&ndash;<br/>
+It is good, after a desperate journey,<br/>
+To rest a moment with your perils upon you.<br/><br/>
+The long rails recline into a distance<br/>
+Where tomorrow will come before I know it.<br/>
+I cannot be in two places at once:<br/>
+That is axiomatic. Come, we will go and drink<br/>
+A filthy cup of tea in a filthy restaurant.<br/><br/>
+It is difficult to relax. But my head spins<br/>
+Slower and slower as the journey recedes.<br/>
+I do not think I shall smoke a cigarette now.<br/>
+Time enough for that. Let me make sure first<br/>
+For the hundredth time, that everything&rsquo;s complete.<br/><br/>
+My wallet&rsquo;s in my pocket; the white nylon bag<br/>
+With the papers safe in its lining&ndash;fine;<br/>
+The book and my notes are in the outside pocket;<br/>
+The brown case is here with all its straps secure.<br/><br/>
+I have everything I began the journey with,<br/>
+And also a memory of my setting out<br/>
+When I was confused, so confused. Terrifying<br/>
+To think we have such power to alter our states,<br/>
+Order comings and goings: know where we&rsquo;re not wanted<br/>
+And carry our unwantedness somewhere else.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

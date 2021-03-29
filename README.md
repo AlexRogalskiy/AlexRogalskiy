@@ -302,16 +302,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
-- [Show HN: Updated Useful Linux Search filesystem with exclusion ability](https://github.com/abdulbadii/find-list-search-filter-filesystem-thoroughly)
-- [‘Unprecedented’: Wall Street Ponders Goldman’s Block-Trade Spree](https://www.bloomberg.com/news/articles/2021-03-27/-unprecedented-wall-street-ponders-goldman-s-block-trade-spree)
-- [Plan to Store Seeds, Spores, Eggs and Sperm on the Moon for Safekeeping](https://www.universetoday.com/150630/a-plan-to-store-seeds-spores-eggs-and-sperm-on-the-moon-for-safekeeping/)
-- [Ask HN: Is My Machine Hacked?](https://news.ycombinator.com/item?id=26607391)
-- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
-- [Common Pitfalls in Infrastructure as Code](https://itnext.io/5-common-pitfalls-in-infrastructure-as-code-3637ab6b02e0)
-- [DIY Track Cutter, Cut steel sheets easily for less than $200](https://www.youtube.com/watch?v=0A3LN6w_sGI)
-- [The Leadership and Artistry of Tony Hsieh (2020)](https://hbr.org/2020/11/the-leadership-and-artistry-of-tony-hsieh)
-- [When Migrating Big Systems](https://thinkingthrough.substack.com/p/when-migrating-big-systems)
+- [Major flaws found in machine learning for Covid-19 diagnosis](https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/)
+- [Global depopulation is looming existential threat that no one is talking about](https://www.bloomberg.com/opinion/articles/2021-03-29/global-fertility-rate-a-population-crash-is-coming)
+- [Hatetris](https://qntm.org/hatetris)
+- [Finding Zen in the Art of Puzzle Solving](https://www.quantamagazine.org/finding-zen-in-the-art-of-puzzle-solving-20210326/)
+- [Robots.txt for the NYT has a specific exclusion for an 1996 news article](https://twitter.com/oliviasolon/status/1171200746240372737)
+- [The Strength of the Record](https://opencrux.com/blog/crux-strength-of-the-record.html)
+- [New mineral discovered in moon meteorite (2020)](https://www.sciencedaily.com/releases/2020/11/201103115658.htm)
+- [Intel 2.0’S Customer Dilemma](https://digitstodollars.com/2021/03/26/intel-2-0s-customer-dilemma/)
+- [How do professional accompanying musicians figure out songs instantly? (2011)](https://music.stackexchange.com/questions/850/how-do-professional-accompanying-musicians-seem-to-figure-out-songs-instantly)
+- [Use Stock Options to Buy Bitcoin](https://www.orangepillcapital.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

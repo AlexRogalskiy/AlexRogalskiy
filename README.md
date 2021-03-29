@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_5/read_up_on_1896.php" target="_blank"><i>read up on</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_2/face_up_to_1626.php" target="_blank"><i>face up to</i></a>
 <span> = </span>
-<span>If you read up on something, you read books about it, or find articles and information on the internet about it.</span>
+<span>If you face up to a difficult or challenging situation, you accept that you have to deal with it, and then do something about it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

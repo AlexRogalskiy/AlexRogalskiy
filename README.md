@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/dirt_cheap_618.php" target="_blank"><i>dirt cheap</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/American/No_way__16.php" target="_blank"><i>No way!</i></a>
 <span> = </span>
-<span>You can say something is dirt cheap if it costs very little money.</span>
+<span>You can say "No way!" when you want to strongly reject an offer, a request, or a suggestion.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

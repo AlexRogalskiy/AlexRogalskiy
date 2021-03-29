@@ -287,16 +287,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Playing: 'Trackmania' Makes You Enjoy Resetting](https://www.reviewgeek.com/74864/what-were-playing-trackmania-makes-you-enjoy-resetting/)
-* [Curious How Big Fictional Planets Are? This Cosmic Video Compares Them All](https://www.reviewgeek.com/75452/curious-how-big-fictional-planets-are-this-cosmic-video-compares-them-all/)
-* [How to See a Book’s Page Number on Amazon Kindle](https://www.howtogeek.com/715778/how-to-see-a-books-page-number-on-amazon-kindle/)
-* [Save Big on Portable Projectors During XGIMI's Pre-Easter Sale](https://www.reviewgeek.com/75408/save-big-on-portable-projectors-during-xgimis-pre-easter-sale/)
-* [How to Disable Friend Suggestions on Facebook](https://www.howtogeek.com/714793/how-to-disable-friend-suggestions-on-facebook/)
-* [How to Fix Blurry Apps on Windows 10](https://www.howtogeek.com/717965/how-to-fix-blurry-apps-on-windows-10/)
-* [How to Disable Siri on the iPhone Lock Screen](https://www.howtogeek.com/716533/how-to-disable-siri-on-the-iphone-lock-screen/)
-* [How to Find Recently Viewed Ads on Instagram](https://www.howtogeek.com/717520/how-to-find-recently-viewed-ads-on-instagram/)
-* [The 7 Best Phone Docks for Your Car](https://www.reviewgeek.com/73861/the-best-phone-docks-for-your-car-2/)
-* [How to Enable “FPS Boost” for a Game on Xbox Series X or S](https://www.howtogeek.com/719918/how-to-enable-fps-boost-for-a-game-on-xbox-series-x-or-s/)
+* [Would You Buy This PlayStation 5 Made of Brass?](https://www.reviewgeek.com/75433/would-you-buy-this-playstation-5-made-of-brass/)
+* [This Poor Piano Was Murdered for Your 'Halo: Infinite' Game](https://www.reviewgeek.com/75413/this-poor-piano-was-murdered-for-your-halo-infinite-game/)
+* [How to Adjust the Audio Bitrate on Discord](https://www.howtogeek.com/714745/how-to-adjust-the-audio-bitrate-on-discord/)
+* [How to Change Text Size in Websites in Chrome for iPhone and iPad](https://www.howtogeek.com/718491/how-to-change-text-size-in-websites-in-chrome-for-iphone-and-ipad/)
+* [A Robot on T-Mobile's 5G Network Just Gave the World's First Remote Tattoo](https://www.reviewgeek.com/75425/a-robot-on-t-mobiles-5g-network-just-gave-the-worlds-first-remote-tattoo/)
+* [How to Watch the 2021 Oscar Best Picture Nominees](https://www.howtogeek.com/719750/how-to-watch-the-2021-oscar-best-picture-nominees/)
+* [How to Restore Deleted Posts or Stories on Instagram](https://www.howtogeek.com/716619/how-to-restore-deleted-posts-or-stories-on-instagram/)
+* [How to Disable Control Center on the iPhone Lock Screen](https://www.howtogeek.com/716520/how-to-disable-control-center-on-the-iphone-lock-screen/)
+* [IT Guy Deletes 1,200 Microsoft Accounts, Gets Arrested](https://www.reviewgeek.com/75400/it-guy-deletes-1200-microsoft-accounts-gets-arrested/)
+* [How to Stream to Twitch from an Xbox Series X or S](https://www.howtogeek.com/714306/how-to-stream-to-twitch-from-an-xbox-series-x-or-s/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

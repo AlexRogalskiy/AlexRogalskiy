@@ -317,16 +317,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Germany 'risks losing control' of Covid; Brazil deaths top 3,000 for second day](https://www.theguardian.com/world/live/2021/mar/28/coronavirus-live-news-germany-risks-losing-control-of-covid-brazil-deaths-top-3000-for-second-day)
-- [ABC checking on presenter's wellbeing after expletives shouted during Adelaide news bulletin](https://www.theguardian.com/media/2021/mar/28/abc-checking-on-presenters-wellbeing-after-expletives-shouted-during-adelaide-news-bulletin)
-- [Wolfson may have the best ideas about what comes Next for shops](https://www.theguardian.com/business/2021/mar/28/wolfson-may-have-the-best-ideas-about-what-comes-next-for-shops)
-- [Dillian Whyte stops Alexander Povetkin to keep world title dream alive](https://www.theguardian.com/sport/2021/mar/27/dillian-whyte-stops-alexander-povetkin-to-keep-world-title-dream-alive)
-- [Editors' picks: five ways to style spring outerwear – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/editors-picks-five-ways-to-style-spring-outerwear-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Wada investigates Ukad for letting British Cycling conduct doping probe](https://www.theguardian.com/sport/2021/mar/27/wada-investigates-ukad-for-letting-british-cycling-conduct-doping-probe)
-- [Met police hunt man charged with sexual assault released in error from prison](https://www.theguardian.com/uk-news/2021/mar/27/met-police-hunt-man-charged-with-sexual-assault-released-in-error-from-prison)
-- [Ronaldo rues absence of VAR as Portugal winner in Serbia is ruled out](https://www.theguardian.com/football/2021/mar/27/netherlands-respond-to-shock-defeat-with-win-over-latvia)
-- [Harry Kane shuts out the noise to fix his focus on a pivotal summer](https://www.theguardian.com/football/2021/mar/27/harry-kane-shuts-out-noise-to-fix-focus-pivotal-summer-england-euros)
+- [Sandstorms turn sun blue and sky yellow in Beijing](https://www.theguardian.com/environment/2021/mar/29/sandstorms-turn-sun-blue-and-sky-yellow-in-beijing)
+- [Freshwater part 6: the decision - podcast](https://www.theguardian.com/news/audio/2021/mar/29/freshwater-part-6-the-decision-podcast)
+- [Schitt's Creek motel for sale – minus the 'Rosebud' sign](https://www.theguardian.com/tv-and-radio/2021/mar/29/schitts-creek-motel-for-sale-minus-the-rosebud-sign)
+- [Glow-worms: as soon as you think you’ve seen them, they blink off | Helen Sullivan](https://www.theguardian.com/environment/commentisfree/2021/mar/29/glow-worms-as-soon-as-you-think-youve-seen-them-they-blink-off)
+- [UN in talks with China over 'no restrictions' visit to Xinjiang](https://www.theguardian.com/world/2021/mar/29/un-in-talks-with-china-over-no-restrictions-visit-to-xinjiang)
+- [First Covid jab cuts infection risk by 62% in England care home residents](https://www.theguardian.com/society/2021/mar/29/first-covid-vaccine-dose-cuts-infection-risk-england-care-home-residents)
+- ['We've been sold a dud': small firms suffer decline in EU exports](https://www.theguardian.com/business/2021/mar/29/small-business-exports-fall-eu-survey-brexit)
+- [UK towns and cities to make room for return of alfresco dining](https://www.theguardian.com/business/2021/mar/29/uk-towns-and-cities-to-make-room-for-return-of-alfresco-dining)
+- ['Get your trainers on': public urged to resume sport after lockdown](https://www.theguardian.com/sport/2021/mar/29/get-your-trainers-on-public-urged-to-resume-sport-after-lockdown)
+- [Women's Club World Cup could happen 'fairly soon', says ECA chief executive](https://www.theguardian.com/football/2021/mar/29/womens-club-world-cup-european-club-association)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

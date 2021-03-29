@@ -274,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>clear sky</i>), humidity: 87%, pressure: 1023 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
+        <b>3°C (<i>clear sky</i>), humidity: 87%, pressure: 1024 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:33 am</b> and sets at <b>19:33 pm</b>.
     </p>
@@ -302,46 +302,46 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
-- [Show HN: Updated Useful Linux Search filesystem with exclusion ability](https://github.com/abdulbadii/find-list-search-filter-filesystem-thoroughly)
-- [‘Unprecedented’: Wall Street Ponders Goldman’s Block-Trade Spree](https://www.bloomberg.com/news/articles/2021-03-27/-unprecedented-wall-street-ponders-goldman-s-block-trade-spree)
-- [Plan to Store Seeds, Spores, Eggs and Sperm on the Moon for Safekeeping](https://www.universetoday.com/150630/a-plan-to-store-seeds-spores-eggs-and-sperm-on-the-moon-for-safekeeping/)
-- [Ask HN: Is My Machine Hacked?](https://news.ycombinator.com/item?id=26607391)
-- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
-- [Common Pitfalls in Infrastructure as Code](https://itnext.io/5-common-pitfalls-in-infrastructure-as-code-3637ab6b02e0)
-- [DIY Track Cutter, Cut steel sheets easily for less than $200](https://www.youtube.com/watch?v=0A3LN6w_sGI)
-- [The Leadership and Artistry of Tony Hsieh (2020)](https://hbr.org/2020/11/the-leadership-and-artistry-of-tony-hsieh)
-- [When Migrating Big Systems](https://thinkingthrough.substack.com/p/when-migrating-big-systems)
+- [Major flaws found in machine learning for Covid-19 diagnosis](https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/)
+- [Global depopulation is looming existential threat that no one is talking about](https://www.bloomberg.com/opinion/articles/2021-03-29/global-fertility-rate-a-population-crash-is-coming)
+- [Hatetris](https://qntm.org/hatetris)
+- [Finding Zen in the Art of Puzzle Solving](https://www.quantamagazine.org/finding-zen-in-the-art-of-puzzle-solving-20210326/)
+- [Robots.txt for the NYT has a specific exclusion for an 1996 news article](https://twitter.com/oliviasolon/status/1171200746240372737)
+- [The Strength of the Record](https://opencrux.com/blog/crux-strength-of-the-record.html)
+- [New mineral discovered in moon meteorite (2020)](https://www.sciencedaily.com/releases/2020/11/201103115658.htm)
+- [Intel 2.0’S Customer Dilemma](https://digitstodollars.com/2021/03/26/intel-2-0s-customer-dilemma/)
+- [How do professional accompanying musicians figure out songs instantly? (2011)](https://music.stackexchange.com/questions/850/how-do-professional-accompanying-musicians-seem-to-figure-out-songs-instantly)
+- [Use Stock Options to Buy Bitcoin](https://www.orangepillcapital.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: Germany 'risks losing control' of Covid; Brazil deaths top 3,000 for second day](https://www.theguardian.com/world/live/2021/mar/28/coronavirus-live-news-germany-risks-losing-control-of-covid-brazil-deaths-top-3000-for-second-day)
-- [ABC checking on presenter's wellbeing after expletives shouted during Adelaide news bulletin](https://www.theguardian.com/media/2021/mar/28/abc-checking-on-presenters-wellbeing-after-expletives-shouted-during-adelaide-news-bulletin)
-- [Wolfson may have the best ideas about what comes Next for shops](https://www.theguardian.com/business/2021/mar/28/wolfson-may-have-the-best-ideas-about-what-comes-next-for-shops)
-- [Dillian Whyte stops Alexander Povetkin to keep world title dream alive](https://www.theguardian.com/sport/2021/mar/27/dillian-whyte-stops-alexander-povetkin-to-keep-world-title-dream-alive)
-- [Editors' picks: five ways to style spring outerwear – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/editors-picks-five-ways-to-style-spring-outerwear-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/mar/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Wada investigates Ukad for letting British Cycling conduct doping probe](https://www.theguardian.com/sport/2021/mar/27/wada-investigates-ukad-for-letting-british-cycling-conduct-doping-probe)
-- [Met police hunt man charged with sexual assault released in error from prison](https://www.theguardian.com/uk-news/2021/mar/27/met-police-hunt-man-charged-with-sexual-assault-released-in-error-from-prison)
-- [Ronaldo rues absence of VAR as Portugal winner in Serbia is ruled out](https://www.theguardian.com/football/2021/mar/27/netherlands-respond-to-shock-defeat-with-win-over-latvia)
-- [Harry Kane shuts out the noise to fix his focus on a pivotal summer](https://www.theguardian.com/football/2021/mar/27/harry-kane-shuts-out-noise-to-fix-focus-pivotal-summer-england-euros)
+- [Sandstorms turn sun blue and sky yellow in Beijing](https://www.theguardian.com/environment/2021/mar/29/sandstorms-turn-sun-blue-and-sky-yellow-in-beijing)
+- [Freshwater part 6: the decision - podcast](https://www.theguardian.com/news/audio/2021/mar/29/freshwater-part-6-the-decision-podcast)
+- [Schitt's Creek motel for sale – minus the 'Rosebud' sign](https://www.theguardian.com/tv-and-radio/2021/mar/29/schitts-creek-motel-for-sale-minus-the-rosebud-sign)
+- [Glow-worms: as soon as you think you’ve seen them, they blink off | Helen Sullivan](https://www.theguardian.com/environment/commentisfree/2021/mar/29/glow-worms-as-soon-as-you-think-youve-seen-them-they-blink-off)
+- [UN in talks with China over 'no restrictions' visit to Xinjiang](https://www.theguardian.com/world/2021/mar/29/un-in-talks-with-china-over-no-restrictions-visit-to-xinjiang)
+- [First Covid jab cuts infection risk by 62% in England care home residents](https://www.theguardian.com/society/2021/mar/29/first-covid-vaccine-dose-cuts-infection-risk-england-care-home-residents)
+- ['We've been sold a dud': small firms suffer decline in EU exports](https://www.theguardian.com/business/2021/mar/29/small-business-exports-fall-eu-survey-brexit)
+- [UK towns and cities to make room for return of alfresco dining](https://www.theguardian.com/business/2021/mar/29/uk-towns-and-cities-to-make-room-for-return-of-alfresco-dining)
+- ['Get your trainers on': public urged to resume sport after lockdown](https://www.theguardian.com/sport/2021/mar/29/get-your-trainers-on-public-urged-to-resume-sport-after-lockdown)
+- [Women's Club World Cup could happen 'fairly soon', says ECA chief executive](https://www.theguardian.com/football/2021/mar/29/womens-club-world-cup-european-club-association)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
-- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
-- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
-- [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
-- [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
-- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
-- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
-- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
-- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
-- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
+- [“Everyone wants to do the model work, not the data work” [pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)
+- [It turns out you can put terminal escape sequences in the Git commit emai (cont)](https://twitter.com/ryancdotorg/status/1375484757916672000)
+- [Text to Image Generation](https://github.com/lucidrains/deep-daze)
+- [Live Stream from Icelandic Volcano](https://k100streymi.mbl.is/p2p/mbllive?v=1)
+- [Deriving Keys from Chords in Music](https://butternotes.com/on-programming/chords-to-scales)
+- [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.theguardian.com/us-news/2021/mar/28/chevron-lawyer-steven-donziger-ecuador-house-arrest)
+- [FicusJS](https://docs.ficusjs.org/index.html)
+- [Intriguing new result from the LHCb experiment at CERN](https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern)
+- [Collabora Office: The enterprise-ready edition of LibreOffice](https://www.collaboraoffice.com/solutions/collabora-office/)
+- [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -407,21 +407,22 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [After advice on U.K. courses/certifications for an IT newbie?](https://www.reddit.com/r/InformationTechnology/comments/mfey6x/after_advice_on_uk_coursescertifications_for_an/)
+- [IT, but I would like to code, too](https://www.reddit.com/r/InformationTechnology/comments/mfchy2/it_but_i_would_like_to_code_too/)
+- [I.T system design student in need of two crypto-savvy users. (all welcome)](https://www.reddit.com/r/InformationTechnology/comments/mfaz9w/it_system_design_student_in_need_of_two/)
+- [Is informatics a good degree?](https://www.reddit.com/r/InformationTechnology/comments/mf076m/is_informatics_a_good_degree/)
 - [I need advice](https://www.reddit.com/r/InformationTechnology/comments/mera4y/i_need_advice/)
 - [Is it normal for recruiters to drag their feet?](https://www.reddit.com/r/InformationTechnology/comments/meh5q1/is_it_normal_for_recruiters_to_drag_their_feet/)
 - [Where does an IT career plateau with no degree?](https://www.reddit.com/r/InformationTechnology/comments/mefoc6/where_does_an_it_career_plateau_with_no_degree/)
 - [Just moved from Africa to the US..Help in choosing career and educational path](https://www.reddit.com/r/InformationTechnology/comments/me7d2l/just_moved_from_africa_to_the_ushelp_in_choosing/)
 - [The Best Thing About an Information Technology Degree](https://www.reddit.com/r/InformationTechnology/comments/me5lhc/the_best_thing_about_an_information_technology/)
 - [How long does it take to be ready for the 1001 and 1002?](https://www.reddit.com/r/InformationTechnology/comments/mdzn2c/how_long_does_it_take_to_be_ready_for_the_1001/)
-- [Software Engineering or Cyber Security](https://www.reddit.com/r/InformationTechnology/comments/mdyomw/software_engineering_or_cyber_security/)
-- [Just passed CompTIA Security +, now what?](https://www.reddit.com/r/InformationTechnology/comments/mdsphj/just_passed_comptia_security_now_what/)
-- [How to transition from no IT to an IT department](https://www.reddit.com/r/InformationTechnology/comments/mdqv33/how_to_transition_from_no_it_to_an_it_department/)
-- [IT career](https://www.reddit.com/r/InformationTechnology/comments/mdqqzj/it_career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [World Economic Forum says boards should follow this one cybersecurity guidance](https://www.itworldcanada.com/article/world-economic-forum-says-boards-should-follow-this-one-cybersecurity-guidance/445116)
 - [How to move past the hype to succeed with AI](https://www.itworldcanada.com/article/how-to-move-past-the-hype-to-succeed-with-ai/445049)
 - [Parts of proposed privacy legislation worse PIPEDA, says commissioner](https://www.itworldcanada.com/article/parts-of-proposed-cppa-worse-than-canadas-existing-privacy-law-says-therrien/445019)
 - [Cyber Security Today, Week In Review for Friday March 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-26-2021/444990)
@@ -431,7 +432,6 @@
 - [6 things to remember when filing taxes this year](https://www.itworldcanada.com/article/6-things-to-remember-when-filing-taxes-this-year/444686)
 - [What tech skills will be most in demand in a post-pandemic world?](https://www.itworldcanada.com/article/what-tech-skills-will-be-most-in-demand-in-a-post-pandemic-world/444692)
 - [The biggest cybersecurity mistake?  Thinking you’re too small get hit](https://www.itworldcanada.com/article/the-biggest-cybersecurity-mistake-thinking-youre-too-small-get-hit/444948)
-- [Hashtag Trending, March 25, 2021 – Intel business update; Slack turns into a messenger; WFH’s unique benefits](https://www.itworldcanada.com/article/hashtag-trending-march-25-2021-intel-business-update-slack-turns-into-a-messenger-wfhs-unique-benefits/444941)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

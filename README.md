@@ -174,7 +174,7 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/about.png" alt="Proverb of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Proverb of the Day_
 
 <div id="proverbs_block_id" align="center" style="align-content: center">
-    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?backgroundColor=%23FFFFFF&fontColor=%230A83DC&opacity=0.3&colorPattern=%23FFE0E9" alt="Styled Proverbs" />
+    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled Proverbs" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_

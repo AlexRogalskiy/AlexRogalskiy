@@ -422,6 +422,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [World Economic Forum says boards should follow this one cybersecurity guidance](https://www.itworldcanada.com/article/world-economic-forum-says-boards-should-follow-this-one-cybersecurity-guidance/445116)
 - [How to move past the hype to succeed with AI](https://www.itworldcanada.com/article/how-to-move-past-the-hype-to-succeed-with-ai/445049)
 - [Parts of proposed privacy legislation worse PIPEDA, says commissioner](https://www.itworldcanada.com/article/parts-of-proposed-cppa-worse-than-canadas-existing-privacy-law-says-therrien/445019)
 - [Cyber Security Today, Week In Review for Friday March 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-26-2021/444990)
@@ -431,7 +432,6 @@
 - [6 things to remember when filing taxes this year](https://www.itworldcanada.com/article/6-things-to-remember-when-filing-taxes-this-year/444686)
 - [What tech skills will be most in demand in a post-pandemic world?](https://www.itworldcanada.com/article/what-tech-skills-will-be-most-in-demand-in-a-post-pandemic-world/444692)
 - [The biggest cybersecurity mistake?  Thinking you’re too small get hit](https://www.itworldcanada.com/article/the-biggest-cybersecurity-mistake-thinking-youre-too-small-get-hit/444948)
-- [Hashtag Trending, March 25, 2021 – Intel business update; Slack turns into a messenger; WFH’s unique benefits](https://www.itworldcanada.com/article/hashtag-trending-march-25-2021-intel-business-update-slack-turns-into-a-messenger-wfhs-unique-benefits/444941)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

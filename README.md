@@ -332,16 +332,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
-- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
-- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
-- [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
-- [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
-- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
-- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
-- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
-- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
-- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://github.com/harc/ohm)
+- [“Everyone wants to do the model work, not the data work” [pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)
+- [It turns out you can put terminal escape sequences in the Git commit emai (cont)](https://twitter.com/ryancdotorg/status/1375484757916672000)
+- [Text to Image Generation](https://github.com/lucidrains/deep-daze)
+- [Live Stream from Icelandic Volcano](https://k100streymi.mbl.is/p2p/mbllive?v=1)
+- [Deriving Keys from Chords in Music](https://butternotes.com/on-programming/chords-to-scales)
+- [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.theguardian.com/us-news/2021/mar/28/chevron-lawyer-steven-donziger-ecuador-house-arrest)
+- [FicusJS](https://docs.ficusjs.org/index.html)
+- [Intriguing new result from the LHCb experiment at CERN](https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern)
+- [Collabora Office: The enterprise-ready edition of LibreOffice](https://www.collaboraoffice.com/solutions/collabora-office/)
+- [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

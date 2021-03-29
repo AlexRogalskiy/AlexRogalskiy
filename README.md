@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_3/cushy_1018.php" target="_blank"><i>cushy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/J/jump_1535.php" target="_blank"><i>jump</i></a>
 <span> = </span>
-<span>easy, undemanding (of a job or a lifestyle)</span>
+<span>to leave without permission, to move illegally</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

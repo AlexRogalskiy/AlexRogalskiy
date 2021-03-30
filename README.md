@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/J/jump_1535.php" target="_blank"><i>jump</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_2/nerd_796.php" target="_blank"><i>nerd</i></a>
 <span> = </span>
-<span>to leave without permission, to move illegally</span>
+<span>a studious person with few social skills</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

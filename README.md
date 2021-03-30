@@ -310,16 +310,16 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Would You Buy This PlayStation 5 Made of Brass?](https://www.reviewgeek.com/75433/would-you-buy-this-playstation-5-made-of-brass/)
-* [This Poor Piano Was Murdered for Your 'Halo: Infinite' Game](https://www.reviewgeek.com/75413/this-poor-piano-was-murdered-for-your-halo-infinite-game/)
-* [How to Adjust the Audio Bitrate on Discord](https://www.howtogeek.com/714745/how-to-adjust-the-audio-bitrate-on-discord/)
-* [How to Change Text Size in Websites in Chrome for iPhone and iPad](https://www.howtogeek.com/718491/how-to-change-text-size-in-websites-in-chrome-for-iphone-and-ipad/)
-* [A Robot on T-Mobile's 5G Network Just Gave the World's First Remote Tattoo](https://www.reviewgeek.com/75425/a-robot-on-t-mobiles-5g-network-just-gave-the-worlds-first-remote-tattoo/)
-* [How to Watch the 2021 Oscar Best Picture Nominees](https://www.howtogeek.com/719750/how-to-watch-the-2021-oscar-best-picture-nominees/)
-* [How to Restore Deleted Posts or Stories on Instagram](https://www.howtogeek.com/716619/how-to-restore-deleted-posts-or-stories-on-instagram/)
-* [How to Disable Control Center on the iPhone Lock Screen](https://www.howtogeek.com/716520/how-to-disable-control-center-on-the-iphone-lock-screen/)
-* [IT Guy Deletes 1,200 Microsoft Accounts, Gets Arrested](https://www.reviewgeek.com/75400/it-guy-deletes-1200-microsoft-accounts-gets-arrested/)
-* [How to Stream to Twitch from an Xbox Series X or S](https://www.howtogeek.com/714306/how-to-stream-to-twitch-from-an-xbox-series-x-or-s/)
+* [Jeep Will Install EV Charging Stations at Off-Road Trailheads](https://www.reviewgeek.com/75628/jeep-will-install-ev-charging-stations-at-off-road-trailheads/)
+* [Boston Dynamics' New "Stretch" Robot Can Move 800 Boxes an Hour](https://www.reviewgeek.com/75626/boston-dynamics-new-stretch-robot-could-replace-warehouse-workers/)
+* [Disney+'s 'Obi-Wan Kenobi' Begins Filming in April, Darth Vader in Tow](https://www.reviewgeek.com/75633/disneys-obi-wan-kenobi-begins-filming-in-april-darth-vader-in-tow/)
+* [NASA's TESS Spacecraft Finds Evidence of 2,200 Possible Exoplanets](https://www.reviewgeek.com/75616/nasas-tess-spacecraft-finds-evidence-of-2200-possible-exoplanets/)
+* [Stock Up on SD Cards and USB Drives During Amazon's Sale](https://www.reviewgeek.com/75586/stock-up-on-sd-cards-and-usb-drives-during-amazons-sale/)
+* [OtterBox's New Kid Cases Might Prevent a Shattered iPad](https://www.reviewgeek.com/75580/otterboxs-new-kid-cases-might-prevent-a-shattered-ipad/)
+* [How to Disable and Remove the “Apps” Button in Google Chrome](https://www.howtogeek.com/720456/how-to-disable-and-remove-the-apps-button-in-google-chrome/)
+* [How to Insert and Edit Tables in Google Docs](https://www.howtogeek.com/718382/how-to-insert-and-edit-tables-in-google-docs/)
+* [How to Disable iCloud Keychain on iPhone and iPad](https://www.howtogeek.com/718499/how-to-disable-icloud-keychain-on-iphone-and-ipad/)
+* [How to Disable the “Empty Trash” Warning on a Mac](https://www.howtogeek.com/714198/how-to-disable-the-empty-trash-warning-on-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

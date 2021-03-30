@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/American/No_way__16.php" target="_blank"><i>No way!</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Colours/with_flying_colours_colors_713.php" target="_blank"><i>with flying colours | colors</i></a>
 <span> = </span>
-<span>You can say "No way!" when you want to strongly reject an offer, a request, or a suggestion.</span>
+<span>If you pass a test with flying colours, you pass it easily and get high marks.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

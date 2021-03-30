@@ -294,7 +294,7 @@ The garland briefer than a girls.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>7°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1013 (mbar), wind: /south-east/ 5 (m/s), cloudy: 90%</b>
+        <b>7°C (<i>overcast clouds</i>), humidity: 87%, pressure: 1013 (mbar), wind: /east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>06:30 am</b> and sets at <b>19:36 pm</b>.
     </p>

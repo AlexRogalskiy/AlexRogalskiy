@@ -415,16 +415,16 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Big Tech eclipses telecoms and arms giants as biggest lobbying spenders](https://www.computerweekly.com/news/252498552/Big-Tech-eclipses-telecoms-and-arms-giants-as-biggest-lobbying-spenders)
+- [How Gulf SMEs are building digital resilience amid the pandemic](https://www.computerweekly.com/news/252498541/How-Gulf-SMEs-are-building-digital-resilience-amid-the-pandemic)
+- [How far has open banking come in Europe?](https://www.computerweekly.com/news/252498549/How-far-has-open-banking-come-in-Europe)
+- [TSB Smart Agent integrated into mobile banking app](https://www.computerweekly.com/news/252498546/TSB-Smart-Agent-integrated-into-mobile-banking-app)
+- [Backup survey: UK councils’ downtimes five times longer than average](https://www.computerweekly.com/news/252498542/Backup-survey-UK-councils-downtimes-five-times-longer-than-average)
+- [UK courts face evidence ‘black hole’ over police EncroChat mass hacking](https://www.computerweekly.com/news/252498544/UK-courts-face-evidence-black-hole-over-police-EncroChat-mass-hacking)
+- [Ecolabels and data sanitisation key to recycling and reusing IT assets](https://www.computerweekly.com/feature/Ecolabels-and-data-sanitisation-key-to-recycling-and-reusing-IT-assets)
+- [Preparing for enterprise-class containerisation](https://www.computerweekly.com/feature/Preparing-for-enterprise-class-containerisation)
 - [Surveillance expert ‘unfairly’ refused job at intelligence regulator after MI5 intervened](https://www.computerweekly.com/news/252498501/Surveillance-expert-unfairly-refused-job-in-intelligence-regulator-after-MI5-intervened)
 - [From private to public: Amadeus on working with Microsoft to change up its cloud strategy](https://www.computerweekly.com/feature/From-private-to-public-Amadeus-on-working-with-Microsoft-to-change-up-its-cloud-strategy)
-- [Backup appliances the hot topic for Pas-de-Calais fire brigade](https://www.computerweekly.com/feature/Backup-appliances-the-hot-topic-for-Pas-de-Calais-fire-brigade)
-- [Retailer FatFace pays $2m ransom to Conti cyber criminals](https://www.computerweekly.com/news/252498463/Retailer-FatFace-pays-2m-ransom-to-Conti-cyber-criminals)
-- [Remote working burn-out a factor in security risk](https://www.computerweekly.com/news/252498467/Remote-working-burn-out-a-factor-in-security-risk)
-- [Cyber security complacency puts UK at risk, says NCSC head](https://www.computerweekly.com/news/252498423/Cyber-security-complacency-puts-UK-at-risk-says-NCSC-head)
-- [TUC warns of gaps in British law over use of AI at work](https://www.computerweekly.com/news/252498430/TUC-warns-of-gaps-in-British-law-over-use-of-AI-at-work)
-- [Deliveroo faces pushback from investors and riders ahead of IPO](https://www.computerweekly.com/news/252498426/Deliveroo-faces-pushback-from-investors-and-riders-ahead-of-IPO)
-- [Warning: AWS IAM behaves differently to directory services](https://www.computerweekly.com/news/252498424/Warning-AWS-IAM-behaves-differently-to-directory-services)
-- [Four in five UK businesses seek new security suppliers](https://www.computerweekly.com/news/252498413/Four-in-five-UK-businesses-seek-new-security-suppliers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

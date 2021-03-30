@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_2/face_up_to_1626.php" target="_blank"><i>face up to</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/keep_2/keep_on_1__1764.php" target="_blank"><i>keep on (1)</i></a>
 <span> = </span>
-<span>If you face up to a difficult or challenging situation, you accept that you have to deal with it, and then do something about it.</span>
+<span>If you keep on doing something, you continue doing it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

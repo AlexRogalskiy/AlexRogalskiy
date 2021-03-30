@@ -325,16 +325,16 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Major flaws found in machine learning for Covid-19 diagnosis](https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/)
-- [Global depopulation is looming existential threat that no one is talking about](https://www.bloomberg.com/opinion/articles/2021-03-29/global-fertility-rate-a-population-crash-is-coming)
-- [Hatetris](https://qntm.org/hatetris)
-- [Finding Zen in the Art of Puzzle Solving](https://www.quantamagazine.org/finding-zen-in-the-art-of-puzzle-solving-20210326/)
-- [Robots.txt for the NYT has a specific exclusion for an 1996 news article](https://twitter.com/oliviasolon/status/1171200746240372737)
-- [The Strength of the Record](https://opencrux.com/blog/crux-strength-of-the-record.html)
-- [New mineral discovered in moon meteorite (2020)](https://www.sciencedaily.com/releases/2020/11/201103115658.htm)
-- [Intel 2.0’S Customer Dilemma](https://digitstodollars.com/2021/03/26/intel-2-0s-customer-dilemma/)
-- [How do professional accompanying musicians figure out songs instantly? (2011)](https://music.stackexchange.com/questions/850/how-do-professional-accompanying-musicians-seem-to-figure-out-songs-instantly)
-- [Use Stock Options to Buy Bitcoin](https://www.orangepillcapital.com)
+- [Sshuttle – A VPN endpoint anywhere you have an SSH login](https://github.com/sshuttle/sshuttle)
+- [Sony is closing its Playstation Store for PS3 in July](https://www.theverge.com/2021/3/29/22356791/sony-playstation-store-close-ps3-vita-psp-game-downloads)
+- [Master List of Official Russia Claims That Proved to Be Bogus](https://taibbi.substack.com/p/master-list-of-official-russia-claims)
+- [Chinese Loans to Africa Database](https://www.chinaafricaloandata.org/)
+- [Ask HN: Graphical/visual Unix shell with built-in file explorer etc.?](https://news.ycombinator.com/item?id=26630573)
+- [Canada stops using AstraZeneca’s Covid-19 vaccine for people under 55](https://www.thestar.com/politics/federal/2021/03/29/canada-to-issue-new-guidelines-for-use-of-astrazenecas-covid-19-vaccine.html)
+- [Drawing an elephant with four complex parameters (2009) [pdf]](https://publications.mpi-cbg.de/Mayer_2010_4314.pdf)
+- [Scoop: Substack is raising $65M amid newsletter boom](https://www.axios.com/substack-andreessen-horowitz-newsletter-36cb98ea-a7b3-43b1-883a-fa45586eaad4.html)
+- [Untangling the crossed wires of China’s ‘Super Grid’](https://chinadialogue.net/en/energy/untangling-the-crossed-wires-of-chinas-super-grid/)
+- [ByteDance Valued at $250B in Private Trades](https://www.bloomberg.com/news/articles/2021-03-30/bytedance-is-said-valued-at-250-billion-in-private-trades)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

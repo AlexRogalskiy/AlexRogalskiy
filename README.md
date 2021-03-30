@@ -385,6 +385,8 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How Quickly Are Companies Really Adopting Cloud? It's Complicated](https://www.informationweek.com/cloud/how-quickly-are-companies-really-adopting-cloud-its-complicated/a/d-id/1340504?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Bain Capital's David Humphrey Sees in Hybrid Cloud](https://www.informationweek.com/cloud/what-bain-capitals-david-humphrey-sees-in-hybrid-cloud/a/d-id/1340494?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -393,8 +395,6 @@ And carry our unwantedness somewhere else.<br/></p>
 - [What IT Leaders Can Do To Diminish Fear Within Their Teams](https://www.informationweek.com/strategic-cio/team-building-and-staffing/what-it-leaders-can-do-to-diminish-fear-within-their-teams/a/d-id/1340489?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Texas County Turns to Low-Code Database for Vaccine Registrations](https://www.informationweek.com/big-data/software-platforms/texas-county-turns-to-low-code-database-for-vaccine-registrations/d/d-id/1340470?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What IT Leaders Need to Know About Open Source Software](https://www.informationweek.com/devops/what-it-leaders-need-to-know-about-open-source-software/a/d-id/1340477?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How Scholarships Can Support Diversity and Inclusion in Tech](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-scholarships-can-support-diversity-and-inclusion-in-tech/a/d-id/1340464?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [5 AI-for-Industry Myths Debunked](https://www.informationweek.com/big-data/ai-machine-learning/5-ai-for-industry-myths-debunked/a/d-id/1340451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

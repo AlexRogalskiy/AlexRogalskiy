@@ -370,16 +370,16 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft elevates Teams' importance by offering top-dollar bug bounties](https://www.computerworld.com/article/3613179/microsoft-elevates-teams-importance-by-offering-top-dollar-bug-bounties.html#tk.rss_all)
+- [How Apple's iCloud Drive works — and how to use it](https://www.computerworld.com/article/3170585/how-apple-icloud-drive-works-and-how-to-use-it.html#tk.rss_all)
+- [Patch Tuesday recap: This month, an ‘Ides of March’ update?](https://www.computerworld.com/article/3613419/patch-tuesday-recap-this-month-an-ides-of-march-update.html#tk.rss_all)
+- [How to print and scan with Android](https://www.computerworld.com/article/3410288/how-to-print-and-scan-with-android.html#tk.rss_all)
+- [Apple Watch yields heart data nearly as good as clinical tests, report claims](https://www.computerworld.com/article/3613408/apple-watch-yields-heart-data-nearly-as-good-as-clinical-tests-report-claims.html#tk.rss_all)
 - [How to replace Edge as the default browser in Windows 10 — and why you shouldn’t](https://www.computerworld.com/article/3229068/how-to-replace-edge-as-the-default-browser-in-windows-10-and-why-you-shouldnt.html#tk.rss_all)
 - [Blind Blog survey finds companies, employees disagree on WFH future](https://www.computerworld.com/article/3613330/blind-blog-survey-finds-companies-employees-disagree-on-wfh-future.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Podcast: Intel's anti-Mac ads: What's next for Intel?](https://www.computerworld.com/article/3613073/podcast-intels-anti-mac-ads-whats-next-for-intel.html#tk.rss_all)
 - [Slack blocks public DM ‘invite messages’ after backlash](https://www.computerworld.com/article/3613112/slack-blocks-public-dm-invite-messages-after-backlash.html#tk.rss_all)
-- [Apple, AI, and humans in the new work place](https://www.computerworld.com/article/3613329/apple-ai-and-humans-in-the-new-work-place.html#tk.rss_all)
-- [This new-school car insurance company wants to help you save money and time](https://www.computerworld.com/article/3612264/this-new-school-car-insurance-company-wants-to-help-you-save-money-and-time.html#tk.rss_all)
-- [12 advanced voice commands for Chrome on Android](https://www.computerworld.com/article/3612893/chrome-android-voice-commands.html#tk.rss_all)
-- [The case of the missing laptop RAM](https://www.computerworld.com/article/3612319/the-case-of-the-missing-laptop-ram.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

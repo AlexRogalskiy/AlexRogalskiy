@@ -355,16 +355,16 @@ And carry our unwantedness somewhere else.<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [“Everyone wants to do the model work, not the data work” [pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)
-- [It turns out you can put terminal escape sequences in the Git commit emai (cont)](https://twitter.com/ryancdotorg/status/1375484757916672000)
-- [Text to Image Generation](https://github.com/lucidrains/deep-daze)
-- [Live Stream from Icelandic Volcano](https://k100streymi.mbl.is/p2p/mbllive?v=1)
-- [Deriving Keys from Chords in Music](https://butternotes.com/on-programming/chords-to-scales)
-- [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.theguardian.com/us-news/2021/mar/28/chevron-lawyer-steven-donziger-ecuador-house-arrest)
-- [FicusJS](https://docs.ficusjs.org/index.html)
-- [Intriguing new result from the LHCb experiment at CERN](https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern)
-- [Collabora Office: The enterprise-ready edition of LibreOffice](https://www.collaboraoffice.com/solutions/collabora-office/)
-- [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
+- [Git email flow vs. GitHub flow](https://blog.brixit.nl/git-email-flow-versus-github-flow/)
+- [Google showing animated ships when searching “ever given”](https://www.google.com/search?q=ever+given)
+- [Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
+- [React and D3.js](https://wattenberger.com/blog/react-and-d3)
+- [Laser Bear Honeycomb lidar](https://waymo.com/lidar/)
+- [Moderna mRNA sequence released to GitHub [pdf]](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
+- [Ubiquiti starts serving ads in their management interface](https://twitter.com/superdealloc/status/1376626243865604100)
+- [FTC to close down mobile banking app Beam](https://finledger.com/2021/03/29/ftc-to-close-down-mobile-banking-app-beam-pending-district-court-judge-approval/)
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
+- [Quickdraw with Google AI](https://quickdraw.withgoogle.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

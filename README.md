@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/We_must_learn_to_walk_before_we_can_run_909.php" target="_blank"><i>We must learn to walk before we can run</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/One_good_turn_deserves_another_558.php" target="_blank"><i>One good turn deserves another</i></a>
 <span> = </span>
-<span>We have to be patient when learning. Babies crawl before they walk. And children walk before they run. We cannot do difficult tasks before we can do easy tasks.</span>
+<span>If someone helps you, they merit being helped in return.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

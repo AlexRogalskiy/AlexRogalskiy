@@ -276,7 +276,7 @@ I can see the moon.
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>clear sky</i>), humidity: 81%, pressure: 1009 (mbar), wind: /east/ 5 (m/s), cloudy: 0%</b>
+        <b>2°C (<i>clear sky</i>), humidity: 87%, pressure: 1010 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:27 am</b> and sets at <b>19:38 pm</b>.
     </p>

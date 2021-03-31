@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Colours/with_flying_colours_colors_713.php" target="_blank"><i>with flying colours | colors</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Health/stick_out_like_a_sore_thumb_stand_out_like_a_sore_thumb_698.php" target="_blank"><i>stick out like a sore thumb | stand out like a sore thumb</i></a>
 <span> = </span>
-<span>If you pass a test with flying colours, you pass it easily and get high marks.</span>
+<span>If someone sticks out like a sore thumb, or stands out like a sore thumb, everyone notices them because they're not the same as the people around them.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

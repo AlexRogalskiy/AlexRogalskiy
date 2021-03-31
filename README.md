@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Teen_2/nerd_796.php" target="_blank"><i>nerd</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Teen/crush_1017.php" target="_blank"><i>crush</i></a>
 <span> = </span>
-<span>a studious person with few social skills</span>
+<span>a strong feeling of love or infatuation for someone</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

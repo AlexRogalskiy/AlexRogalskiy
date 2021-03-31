@@ -412,16 +412,16 @@ The garland briefer than a girls.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Asda bags ex-Marks and Spencer CIO](https://www.computerweekly.com/news/252498629/Asda-bags-ex-Marks-and-Spencer-CIO)
+- [Privacy campaigners hail legal victory over Hancock and Palantir](https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir)
+- [Ransomware attack on London schools highlights warnings](https://www.computerweekly.com/news/252498607/Ransomware-attack-on-London-schools-highlights-warnings)
+- [IR35 reforms: Slow government progress on umbrella regulation exposes IT contractors to tax risks](https://www.computerweekly.com/news/252498600/IR35-reforms-Slow-government-progress-on-umbrella-regulation-exposes-IT-contractors-to-tax-risks)
+- [The ticking timebomb of IR35](https://www.computerweekly.com/ezine/Computer-Weekly/The-ticking-timebomb-of-IR35)
+- [A Computer Weekly buyer’s guide to colocation](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-colocation)
+- [The Security Interviews: How to secure an F1 team in a pandemic](https://www.computerweekly.com/news/252498562/The-Security-Interviews-How-to-secure-an-F1-team-in-a-pandemic)
+- [Royal Holloway: Testing antivirus efficacy in Linux](https://www.computerweekly.com/ehandbook/Royal-Holloway-Testing-antivirus-efficacy-in-Linux)
+- [Data warehouse storage: Has cloud made on-premise obsolete?](https://www.computerweekly.com/feature/Data-warehouse-storage-Has-cloud-made-on-premise-obsolete)
 - [Big Tech eclipses telecoms and arms giants as biggest lobbying spenders](https://www.computerweekly.com/news/252498552/Big-Tech-eclipses-telecoms-and-arms-giants-as-biggest-lobbying-spenders)
-- [How Gulf SMEs are building digital resilience amid the pandemic](https://www.computerweekly.com/news/252498541/How-Gulf-SMEs-are-building-digital-resilience-amid-the-pandemic)
-- [How far has open banking come in Europe?](https://www.computerweekly.com/news/252498549/How-far-has-open-banking-come-in-Europe)
-- [TSB Smart Agent integrated into mobile banking app](https://www.computerweekly.com/news/252498546/TSB-Smart-Agent-integrated-into-mobile-banking-app)
-- [Backup survey: UK councils’ downtimes five times longer than average](https://www.computerweekly.com/news/252498542/Backup-survey-UK-councils-downtimes-five-times-longer-than-average)
-- [UK courts face evidence ‘black hole’ over police EncroChat mass hacking](https://www.computerweekly.com/news/252498544/UK-courts-face-evidence-black-hole-over-police-EncroChat-mass-hacking)
-- [Ecolabels and data sanitisation key to recycling and reusing IT assets](https://www.computerweekly.com/feature/Ecolabels-and-data-sanitisation-key-to-recycling-and-reusing-IT-assets)
-- [Preparing for enterprise-class containerisation](https://www.computerweekly.com/feature/Preparing-for-enterprise-class-containerisation)
-- [Surveillance expert ‘unfairly’ refused job at intelligence regulator after MI5 intervened](https://www.computerweekly.com/news/252498501/Surveillance-expert-unfairly-refused-job-in-intelligence-regulator-after-MI5-intervened)
-- [From private to public: Amadeus on working with Microsoft to change up its cloud strategy](https://www.computerweekly.com/feature/From-private-to-public-Amadeus-on-working-with-Microsoft-to-change-up-its-cloud-strategy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

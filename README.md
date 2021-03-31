@@ -241,29 +241,11 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647014224677208064" target="_blank"><i>To an Athlete Dying Young</i></a></summary>
-<p>by A.E. Housman</p><p>The time you won your town the race,<br/>
-We chaired you through the marketplace;<br/>
-Man and boy stood cheering by,<br/>
-As home we brought you shoulder-high.<br/><br/>To-day, the road all runners come,<br/>
-Shoulder-high we bring you home,<br/>
-And set you at your threshold down,<br/>
-Townsman of a stiller town.<br/><br/>Smart lad, to slip betimes away<br/>
-From fields where glory does not stay<br/>
-And early though the laurel grows<br/>
-It withers quicker than the rose.<br/><br/>Eyes the shady night has shut<br/>
-Cannot see the record cut,<br/>
-And silence sounds no worse than cheers<br/>
-After earth has stopped the ears:<br/><br/>Now you will not swell the rout<br/>
-Of lads that wore their honours out,<br/>
-Runners whom renown outran<br/>
-And the name died before the man.<br/><br/>So set, before its echoes fade,<br/>
-The fleet foot on the sill of shade,<br/>
-And hold to the low lintel up<br/>
-The still-defended challenge-cup.<br/><br/>And round that early-laurelled head<br/>
-Will flock to gaze the strengthless dead,<br/>
-And find unwithered on its curls<br/>
-The garland briefer than a girls.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647104820664320000" target="_blank"><i>Haiku</i></a></summary>
+<p>by Mizuta Masahide</p><p>Barn&rsquo;s burnt down&ndash;<br/>
+now<br/>
+I can see the moon. 
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -382,6 +382,7 @@ The garland briefer than a girls.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why IT Roles Are Broadening](https://www.informationweek.com/strategic-cio/why-it-roles-are-broadening/a/d-id/1340536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -391,7 +392,6 @@ The garland briefer than a girls.</p>
 - [Why and How the Chief Information Officer Role is Changing](https://www.informationweek.com/strategic-cio/why-and-how-the-chief-information-officer-role-is-changing/a/d-id/1340488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What IT Leaders Can Do To Diminish Fear Within Their Teams](https://www.informationweek.com/strategic-cio/team-building-and-staffing/what-it-leaders-can-do-to-diminish-fear-within-their-teams/a/d-id/1340489?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Texas County Turns to Low-Code Database for Vaccine Registrations](https://www.informationweek.com/big-data/software-platforms/texas-county-turns-to-low-code-database-for-vaccine-registrations/d/d-id/1340470?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What IT Leaders Need to Know About Open Source Software](https://www.informationweek.com/devops/what-it-leaders-need-to-know-about-open-source-software/a/d-id/1340477?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

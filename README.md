@@ -307,16 +307,16 @@ The garland briefer than a girls.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Jeep Will Install EV Charging Stations at Off-Road Trailheads](https://www.reviewgeek.com/75628/jeep-will-install-ev-charging-stations-at-off-road-trailheads/)
-* [Boston Dynamics' New "Stretch" Robot Can Move 800 Boxes an Hour](https://www.reviewgeek.com/75626/boston-dynamics-new-stretch-robot-could-replace-warehouse-workers/)
-* [Disney+'s 'Obi-Wan Kenobi' Begins Filming in April, Darth Vader in Tow](https://www.reviewgeek.com/75633/disneys-obi-wan-kenobi-begins-filming-in-april-darth-vader-in-tow/)
-* [NASA's TESS Spacecraft Finds Evidence of 2,200 Possible Exoplanets](https://www.reviewgeek.com/75616/nasas-tess-spacecraft-finds-evidence-of-2200-possible-exoplanets/)
-* [Stock Up on SD Cards and USB Drives During Amazon's Sale](https://www.reviewgeek.com/75586/stock-up-on-sd-cards-and-usb-drives-during-amazons-sale/)
-* [OtterBox's New Kid Cases Might Prevent a Shattered iPad](https://www.reviewgeek.com/75580/otterboxs-new-kid-cases-might-prevent-a-shattered-ipad/)
-* [How to Disable and Remove the “Apps” Button in Google Chrome](https://www.howtogeek.com/720456/how-to-disable-and-remove-the-apps-button-in-google-chrome/)
-* [How to Insert and Edit Tables in Google Docs](https://www.howtogeek.com/718382/how-to-insert-and-edit-tables-in-google-docs/)
-* [How to Disable iCloud Keychain on iPhone and iPad](https://www.howtogeek.com/718499/how-to-disable-icloud-keychain-on-iphone-and-ipad/)
-* [How to Disable the “Empty Trash” Warning on a Mac](https://www.howtogeek.com/714198/how-to-disable-the-empty-trash-warning-on-a-mac/)
+* [Adobe Launches $15 iPad Bundle With Photoshop, Fresco, Illustrator, and More](https://www.reviewgeek.com/75775/adobe-launches-15-ipad-bundle-with-photoshop-fresco-illustrator-and-more/)
+* [Save the Date: Apple WWDC 2021 is June 7-11 and All Online](https://www.reviewgeek.com/75779/save-the-date-apple-wwdc-2021-is-june-7-11-and-all-online/)
+* ['Pokémon Go' Developer Niantic Teases Smart Glasses](https://www.reviewgeek.com/75760/pokemon-go-developer-niantic-teases-smart-glasses/)
+* [T-Mobile Customers Can Now Stream MLB.TV for Free (A $130 Annual Value)](https://www.reviewgeek.com/75737/t-mobile-customers-can-now-stream-mlb-tv-for-free-a-130-annual-value/)
+* [Google Maps Adds Indoor AR Navigation for Malls and Airports](https://www.reviewgeek.com/75736/google-maps-adds-indoor-ar-navigation-for-malls-and-airports/)
+* [How to Add a Web Page to Google Chrome’s Reading List](https://www.howtogeek.com/720948/how-to-add-a-web-page-to-google-chromes-reading-list/)
+* [Buy 'Super Mario 3D All-Stars' Before It Disappears Wednesday, March 31st](https://www.reviewgeek.com/75727/buy-super-mario-3d-all-stars-before-it-disappears-wednesday-march-31st/)
+* [How to Get the Word Count of Your PowerPoint Presentation](https://www.howtogeek.com/703787/how-to-get-the-word-count-of-your-powerpoint-presentation/)
+* [How to Find Recently Viewed Ads on Facebook](https://www.howtogeek.com/717507/how-to-find-recently-viewed-ads-on-facebook/)
+* [How to Use shfmt to Format Shell Scripts Better](https://www.cloudsavvyit.com/10149/how-to-use-shfmt-to-format-shell-scripts-better/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

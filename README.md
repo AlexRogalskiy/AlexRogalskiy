@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/One_good_turn_deserves_another_558.php" target="_blank"><i>One good turn deserves another</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/Hell_hath_no_fury_like_a_woman_scorned_964.php" target="_blank"><i>Hell hath no fury like a woman scorned</i></a>
 <span> = </span>
-<span>If someone helps you, they merit being helped in return.</span>
+<span>A woman rejected in love can be very angry and dangerous.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

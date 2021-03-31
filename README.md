@@ -442,16 +442,16 @@ The garland briefer than a girls.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hunt has begun for 2021 Canadian CIO of the Year](https://www.itworldcanada.com/article/hunt-has-begun-for-2021-canadian-cio-of-the-year/445202)
+- [Canadian spammer receives $75,000 fine](https://www.itworldcanada.com/article/canadian-spammer-receives-75000-fine/445246)
+- [Cisco Canada president on strategy and company’s new Office of the CTO](https://www.itworldcanada.com/article/cisco-canada-president-on-strategy-office-of-the-cto/445133)
+- [Hashtag Trending, March 30, 2021 – Bezos strikes back; Rise of silicon successors; BMW charges for software update](https://www.itworldcanada.com/article/hashtag-trending-march-30-2021-bezos-strikes-back-rise-of-silicon-successors-bmw-charges-for-software-update/445200)
 - [Another tech giant announces its expansion in Canada with new digital acceleration centre](https://www.itworldcanada.com/article/another-tech-giant-announces-its-expansion-in-canada-with-new-digital-acceleration-centre/445151)
 - [VMware headquartering a global senior VP in Canada is a first, says Paula Hodgins](https://www.itworldcanada.com/article/vmware-headquartering-a-global-senior-vp-in-canada-is-a-first-says-paula-hodgins/445182)
 - [Ryerson launches free cybersecurity e-course for SMBs](https://www.itworldcanada.com/article/ryerson-launches-free-cybersecurity-e-course-for-smbs/445140)
 - [Cyber Security Today, March 29, 2021 – Ransomware group now threatening customers of victims, ransomware attack could cost company over $20 million and update your Apple devices](https://www.itworldcanada.com/article/cyber-security-today-march-29-2021-ransomware-group-now-threatening-customers-of-victims-ransomware-attack-could-cost-company-over-20-million-and-update-your-apple-devices/445124)
 - [Hashtag Trending, March 29 – Amazon says its workers don’t relieve themselves in bottles; Call centre nightmares; Windows 95 easter egg found](https://www.itworldcanada.com/article/hashtag-trending-march-29-amazon-says-its-workers-dont-relieve-themselves-in-bottles-call-centre-nightmares-windows-95-easter-egg-found/445122)
 - [World Economic Forum says boards should follow this one cybersecurity guidance](https://www.itworldcanada.com/article/world-economic-forum-says-boards-should-follow-this-one-cybersecurity-guidance/445116)
-- [How to move past the hype to succeed with AI](https://www.itworldcanada.com/article/how-to-move-past-the-hype-to-succeed-with-ai/445049)
-- [Parts of proposed privacy legislation worse PIPEDA, says commissioner](https://www.itworldcanada.com/article/parts-of-proposed-cppa-worse-than-canadas-existing-privacy-law-says-therrien/445019)
-- [Cyber Security Today, Week In Review for Friday March 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-26-2021/444990)
-- [Cyber Security Today, March 26, 2021 – A new ransomware strain, and FBI ransomware warning and update these WordPress plugins](https://www.itworldcanada.com/article/cyber-security-today-march-26-2021-a-new-ransomware-strain-and-fbi-ransomware-warning-and-update-these-wordpress-plugins/445002)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

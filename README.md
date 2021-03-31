@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;60&#x2F;12&#x2F;2760121ddad64c1daabca1b9793f47fd.jpg" alt="We aren’t here to argue, but brabble is the Word of the Day. Get example sentences and more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;60&#x2F;12&#x2F;2760121ddad64c1daabca1b9793f47fd.jpg" alt="We aren’t here to argue, but brabble is the Word of the Day. Get example sentences and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cd&#x2F;2d&#x2F;7b&#x2F;cd2d7be482d30599b6ea329ce77d59c8.jpg" alt="Today&#39;s Word of the Day doesn&#39;t have anything nice to say. It&#39;s fustigate. Want more? Click through for example sentences, word origin, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;e0&#x2F;a1&#x2F;27e0a1d8700d82460149d18a6415264e.jpg" alt="One thing led to another, and concatenation is our Word of the Day. Get example sentences, word origin, and more at the link! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;44&#x2F;a8&#x2F;75&#x2F;44a87562a8e61e628e052e2f24b0f854.jpg" alt="Yes, there&#39;s a word for that. It&#39;s peduncle, and it&#39;s our #WordOfTheDay. Get example sentences and more at the link! " />
@@ -276,7 +276,7 @@ I can see the moon.
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>scattered clouds</i>), humidity: 81%, pressure: 1009 (mbar), wind: /east/ 7 (m/s), cloudy: 40%</b>
+        <b>3°C (<i>clear sky</i>), humidity: 81%, pressure: 1009 (mbar), wind: /east/ 5 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:27 am</b> and sets at <b>19:38 pm</b>.
     </p>

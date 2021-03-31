@@ -322,16 +322,16 @@ The garland briefer than a girls.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sshuttle – A VPN endpoint anywhere you have an SSH login](https://github.com/sshuttle/sshuttle)
-- [Sony is closing its Playstation Store for PS3 in July](https://www.theverge.com/2021/3/29/22356791/sony-playstation-store-close-ps3-vita-psp-game-downloads)
-- [Master List of Official Russia Claims That Proved to Be Bogus](https://taibbi.substack.com/p/master-list-of-official-russia-claims)
-- [Chinese Loans to Africa Database](https://www.chinaafricaloandata.org/)
-- [Ask HN: Graphical/visual Unix shell with built-in file explorer etc.?](https://news.ycombinator.com/item?id=26630573)
-- [Canada stops using AstraZeneca’s Covid-19 vaccine for people under 55](https://www.thestar.com/politics/federal/2021/03/29/canada-to-issue-new-guidelines-for-use-of-astrazenecas-covid-19-vaccine.html)
-- [Drawing an elephant with four complex parameters (2009) [pdf]](https://publications.mpi-cbg.de/Mayer_2010_4314.pdf)
-- [Scoop: Substack is raising $65M amid newsletter boom](https://www.axios.com/substack-andreessen-horowitz-newsletter-36cb98ea-a7b3-43b1-883a-fa45586eaad4.html)
-- [Untangling the crossed wires of China’s ‘Super Grid’](https://chinadialogue.net/en/energy/untangling-the-crossed-wires-of-chinas-super-grid/)
-- [ByteDance Valued at $250B in Private Trades](https://www.bloomberg.com/news/articles/2021-03-30/bytedance-is-said-valued-at-250-billion-in-private-trades)
+- [Screaming-fast, scalable, asynchronous Python 3.5 HTTP toolkit](https://github.com/squeaky-pl/japronto)
+- [Covid infection risk of unvaccinated negatively associated with vaccinated](https://www.medrxiv.org/content/10.1101/2021.03.26.21254394v1.full.pdf+html)
+- [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+- [Systemd 248 Released: A concept of system extension images is introduced](https://raw.githubusercontent.com/systemd/systemd/main/NEWS)
+- [Pattern matching tutorial for Pythonic code](https://mathspp.com/blog/pydonts/pattern-matching-tutorial-for-pythonic-code)
+- [Disadvantages of TCP SYN Cookies](https://ckdake.com/content/2007/disadvantages-of-tcp-syn-cookies)
+- [And Nothing Can Ever Ruin This](https://www.youtube.com/watch?v=tJ7LdrAqL0Y)
+- [CERN is building containers for storing and transporting antimatter](https://newatlas.com/science/cern-building-containers-storing-transporting-antimatter/)
+- [Police say they found mafia fugitive on YouTube, posting cooking tutorials](https://arstechnica.com/tech-policy/2021/03/alleged-mafia-fugitive-posted-cooking-videos-to-youtube-leading-to-arrest/?comments=1)
+- [The Discovery of Grounded Theory](https://en.wikipedia.org/wiki/The_Discovery_of_Grounded_Theory)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

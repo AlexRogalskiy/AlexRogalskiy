@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/keep_2/keep_on_1__1764.php" target="_blank"><i>keep on (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_7/focus_on_1937.php" target="_blank"><i>focus on</i></a>
 <span> = </span>
-<span>If you keep on doing something, you continue doing it.</span>
+<span>If you focus on something, you give it all your attention.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

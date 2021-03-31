@@ -352,16 +352,16 @@ The garland briefer than a girls.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Git email flow vs. GitHub flow](https://blog.brixit.nl/git-email-flow-versus-github-flow/)
-- [Google showing animated ships when searching “ever given”](https://www.google.com/search?q=ever+given)
-- [Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
-- [React and D3.js](https://wattenberger.com/blog/react-and-d3)
-- [Laser Bear Honeycomb lidar](https://waymo.com/lidar/)
-- [Moderna mRNA sequence released to GitHub [pdf]](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
-- [Ubiquiti starts serving ads in their management interface](https://twitter.com/superdealloc/status/1376626243865604100)
-- [FTC to close down mobile banking app Beam](https://finledger.com/2021/03/29/ftc-to-close-down-mobile-banking-app-beam-pending-district-court-judge-approval/)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
-- [Quickdraw with Google AI](https://quickdraw.withgoogle.com/)
+- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
+- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
+- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
+- [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
+- [Elizabeth Loftus Changed the Meaning of Memory](https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory)
+- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
+- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
+- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+- [Google collects 20 times more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
+- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

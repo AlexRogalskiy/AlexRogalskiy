@@ -427,6 +427,9 @@ The garland briefer than a girls.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Program to use for remote connection?](https://www.reddit.com/r/InformationTechnology/comments/mgnxuk/best_program_to_use_for_remote_connection/)
+- [i have a question, if you racocmand any site for free or low costo applcation for andr. and wind. ?](https://www.reddit.com/r/InformationTechnology/comments/mgllyw/i_have_a_question_if_you_racocmand_any_site_for/)
+- [Help: Capstone Ideas](https://www.reddit.com/r/InformationTechnology/comments/mgaweo/help_capstone_ideas/)
 - [In regards to security and access, what is your personal biggest issue with Office 365 and XaaS's as whole?](https://www.reddit.com/r/InformationTechnology/comments/mg5dx9/in_regards_to_security_and_access_what_is_your/)
 - [Azure, VM Ware training](https://www.reddit.com/r/InformationTechnology/comments/mfrmms/azure_vm_ware_training/)
 - [After advice on U.K. courses/certifications for an IT newbie?](https://www.reddit.com/r/InformationTechnology/comments/mfey6x/after_advice_on_uk_coursescertifications_for_an/)
@@ -434,9 +437,6 @@ The garland briefer than a girls.</p>
 - [I.T system design student in need of two crypto-savvy users. (all welcome)](https://www.reddit.com/r/InformationTechnology/comments/mfaz9w/it_system_design_student_in_need_of_two/)
 - [Is informatics a good degree?](https://www.reddit.com/r/InformationTechnology/comments/mf076m/is_informatics_a_good_degree/)
 - [I need advice](https://www.reddit.com/r/InformationTechnology/comments/mera4y/i_need_advice/)
-- [Is it normal for recruiters to drag their feet?](https://www.reddit.com/r/InformationTechnology/comments/meh5q1/is_it_normal_for_recruiters_to_drag_their_feet/)
-- [Where does an IT career plateau with no degree?](https://www.reddit.com/r/InformationTechnology/comments/mefoc6/where_does_an_it_career_plateau_with_no_degree/)
-- [Just moved from Africa to the US..Help in choosing career and educational path](https://www.reddit.com/r/InformationTechnology/comments/me7d2l/just_moved_from_africa_to_the_ushelp_in_choosing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

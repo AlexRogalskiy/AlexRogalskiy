@@ -397,16 +397,16 @@ The garland briefer than a girls.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
+- [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
+- [How to use target typing and covariant returns in C# 9](https://www.infoworld.com/article/3613548/how-to-use-target-typing-and-covariant-returns-in-c-9.html#tk.rss_all)
+- [The cloud attack you didn’t see coming](https://www.infoworld.com/article/3613094/the-cloud-attack-you-didnt-see-coming.html#tk.rss_all)
 - [Artillery: Finding open source success between dev and ops](https://www.infoworld.com/article/3613163/artillery-finding-open-source-success-between-dev-and-ops.html#tk.rss_all)
 - [How to improve application reliability with observability and monitoring](https://www.infoworld.com/article/3613155/how-to-improve-application-reliability-with-observability-and-monitoring.html#tk.rss_all)
 - [10 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/10-top-notch-libraries-for-c-programming.html#tk.rss_all)
 - [Microsoft, Google address browser compatibility issues](https://www.infoworld.com/article/3613077/microsoft-google-address-browser-compatibility-issues.html#tk.rss_all)
 - [3 surefire ways to kill your multicloud deployment](https://www.infoworld.com/article/3613089/3-surefire-ways-to-kill-your-multicloud-deployment.html#tk.rss_all)
 - [What’s new in Rust 1.51](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Ruby-like Crystal 1.0 makes its debut](https://www.infoworld.com/article/3613109/ruby-like-crystal-10-makes-its-debut.html#tk.rss_all)
-- [Ensuring that citizen developers build AI responsibly](https://www.infoworld.com/article/3612222/ensuring-that-citizen-developers-build-ai-responsibly.html#tk.rss_all)
-- [How to send emails with graphics from R](https://www.infoworld.com/article/3611858/how-to-send-emails-with-graphics-from-r.html#tk.rss_all)
-- [Adam Selipsky returns to AWS as CEO. Now what?](https://www.infoworld.com/article/3612973/adam-selipsky-returns-to-aws-as-ceo-now-what.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Teen/crush_1017.php" target="_blank"><i>crush</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/Zs_1129.php" target="_blank"><i>Zs</i></a>
 <span> = </span>
-<span>a strong feeling of love or infatuation for someone</span>
+<span>sleep</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -394,16 +394,16 @@ I can see the moon.
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
+- [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
+- [Commerzbank picks Google for cloud migration](https://www.computerweekly.com/news/252498684/Commerzbank-picks-Google-for-cloud-migration)
+- [NHS is apparently closing security skills gap](https://www.computerweekly.com/news/252498677/NHS-is-apparently-closing-security-skills-gap)
+- [Security Think Tank: Evolving threats, tech, leaves CNI exposed](https://www.computerweekly.com/opinion/Security-Think-Tank-Evolving-threats-tech-leaves-CNI-exposed)
+- [Cyber Security Council to champion UK security pros](https://www.computerweekly.com/news/252498673/Cyber-Security-Council-to-champion-UK-security-pros)
+- [Nordics run information sharing on digital vaccination passports](https://www.computerweekly.com/news/252498670/Nordics-run-information-sharing-on-digital-vaccination-passports)
 - [Asda bags ex-Marks and Spencer CIO](https://www.computerweekly.com/news/252498629/Asda-bags-ex-Marks-and-Spencer-CIO)
 - [Privacy campaigners hail legal victory over Hancock and Palantir](https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir)
 - [Ransomware attack on London schools highlights warnings](https://www.computerweekly.com/news/252498607/Ransomware-attack-on-London-schools-highlights-warnings)
-- [IR35 reforms: Slow government progress on umbrella regulation exposes IT contractors to tax risks](https://www.computerweekly.com/news/252498600/IR35-reforms-Slow-government-progress-on-umbrella-regulation-exposes-IT-contractors-to-tax-risks)
-- [The ticking timebomb of IR35](https://www.computerweekly.com/ezine/Computer-Weekly/The-ticking-timebomb-of-IR35)
-- [A Computer Weekly buyer’s guide to colocation](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-colocation)
-- [The Security Interviews: How to secure an F1 team in a pandemic](https://www.computerweekly.com/news/252498562/The-Security-Interviews-How-to-secure-an-F1-team-in-a-pandemic)
-- [Royal Holloway: Testing antivirus efficacy in Linux](https://www.computerweekly.com/ehandbook/Royal-Holloway-Testing-antivirus-efficacy-in-Linux)
-- [Data warehouse storage: Has cloud made on-premise obsolete?](https://www.computerweekly.com/feature/Data-warehouse-storage-Has-cloud-made-on-premise-obsolete)
-- [Big Tech eclipses telecoms and arms giants as biggest lobbying spenders](https://www.computerweekly.com/news/252498552/Big-Tech-eclipses-telecoms-and-arms-giants-as-biggest-lobbying-spenders)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

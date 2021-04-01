@@ -317,7 +317,7 @@ i taught it to my son
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>5°C (<i>few clouds</i>), humidity: 56%, pressure: 1008 (mbar), wind: /east/ 8 (m/s), cloudy: 20%</b>
+        <b>3°C (<i>clear sky</i>), humidity: 65%, pressure: 1009 (mbar), wind: /east/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:24 am</b> and sets at <b>19:41 pm</b>.
     </p>

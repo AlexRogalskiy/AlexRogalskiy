@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_7/focus_on_1937.php" target="_blank"><i>focus on</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/F/figure_out_1__1843.php" target="_blank"><i>figure out (1)</i></a>
 <span> = </span>
-<span>If you focus on something, you give it all your attention.</span>
+<span>If you figure something out, you find the solution to a problem or the answer to a question.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

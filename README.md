@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/stick_out_like_a_sore_thumb_stand_out_like_a_sore_thumb_698.php" target="_blank"><i>stick out like a sore thumb | stand out like a sore thumb</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/D/do_your_best_402.php" target="_blank"><i>do your best</i></a>
 <span> = </span>
-<span>If someone sticks out like a sore thumb, or stands out like a sore thumb, everyone notices them because they're not the same as the people around them.</span>
+<span>If you do your best, you do something as well as you possibly can, or to the best of your ability.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

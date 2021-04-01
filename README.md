@@ -379,16 +379,16 @@ I can see the moon.
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno Company forms to back Node.js rival](https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html#tk.rss_all)
+- [Microsoft inches closer to unified Windows SDK](https://www.infoworld.com/article/3613569/microsoft-inches-closer-to-unified-windows-sdk.html#tk.rss_all)
+- [8 ways to jump-start your machine learning](https://www.infoworld.com/article/3613185/8-ways-to-jump-start-your-machine-learning.html#tk.rss_all)
 - [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
 - [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 - [How to use target typing and covariant returns in C# 9](https://www.infoworld.com/article/3613548/how-to-use-target-typing-and-covariant-returns-in-c-9.html#tk.rss_all)
 - [The cloud attack you didn’t see coming](https://www.infoworld.com/article/3613094/the-cloud-attack-you-didnt-see-coming.html#tk.rss_all)
 - [Artillery: Finding open source success between dev and ops](https://www.infoworld.com/article/3613163/artillery-finding-open-source-success-between-dev-and-ops.html#tk.rss_all)
-- [How to improve application reliability with observability and monitoring](https://www.infoworld.com/article/3613155/how-to-improve-application-reliability-with-observability-and-monitoring.html#tk.rss_all)
+- [5 devops practices to improve application reliability](https://www.infoworld.com/article/3613155/5-devops-practices-to-improve-application-reliability.html#tk.rss_all)
 - [10 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/10-top-notch-libraries-for-c-programming.html#tk.rss_all)
-- [Microsoft, Google address browser compatibility issues](https://www.infoworld.com/article/3613077/microsoft-google-address-browser-compatibility-issues.html#tk.rss_all)
-- [3 surefire ways to kill your multicloud deployment](https://www.infoworld.com/article/3613089/3-surefire-ways-to-kill-your-multicloud-deployment.html#tk.rss_all)
-- [What’s new in Rust 1.51](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

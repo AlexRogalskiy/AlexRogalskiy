@@ -289,16 +289,16 @@ I can see the moon.
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Adobe Launches $15 iPad Bundle With Photoshop, Fresco, Illustrator, and More](https://www.reviewgeek.com/75775/adobe-launches-15-ipad-bundle-with-photoshop-fresco-illustrator-and-more/)
-* [Save the Date: Apple WWDC 2021 is June 7-11 and All Online](https://www.reviewgeek.com/75779/save-the-date-apple-wwdc-2021-is-june-7-11-and-all-online/)
-* ['Pokémon Go' Developer Niantic Teases Smart Glasses](https://www.reviewgeek.com/75760/pokemon-go-developer-niantic-teases-smart-glasses/)
-* [T-Mobile Customers Can Now Stream MLB.TV for Free (A $130 Annual Value)](https://www.reviewgeek.com/75737/t-mobile-customers-can-now-stream-mlb-tv-for-free-a-130-annual-value/)
-* [Google Maps Adds Indoor AR Navigation for Malls and Airports](https://www.reviewgeek.com/75736/google-maps-adds-indoor-ar-navigation-for-malls-and-airports/)
-* [How to Add a Web Page to Google Chrome’s Reading List](https://www.howtogeek.com/720948/how-to-add-a-web-page-to-google-chromes-reading-list/)
-* [Buy 'Super Mario 3D All-Stars' Before It Disappears Wednesday, March 31st](https://www.reviewgeek.com/75727/buy-super-mario-3d-all-stars-before-it-disappears-wednesday-march-31st/)
-* [How to Get the Word Count of Your PowerPoint Presentation](https://www.howtogeek.com/703787/how-to-get-the-word-count-of-your-powerpoint-presentation/)
-* [How to Find Recently Viewed Ads on Facebook](https://www.howtogeek.com/717507/how-to-find-recently-viewed-ads-on-facebook/)
-* [How to Use shfmt to Format Shell Scripts Better](https://www.cloudsavvyit.com/10149/how-to-use-shfmt-to-format-shell-scripts-better/)
+* [Belkin's Face-Tracking iPhone 12 Mount Does Less Than You'd Expect](https://www.reviewgeek.com/75945/belkins-face-tracking-iphone-12-mount-does-less-than-youd-expect/)
+* [IKEA's $8 TRADFRI HomeKit Smart Button Is Now Available Online](https://www.reviewgeek.com/75930/ikeas-tradfri-homekit-smart-button-is-available-for-8/)
+* [Fiat and Google Bring Voice Commands to Adorable Cars](https://www.reviewgeek.com/75915/fiat-and-google-bring-voice-commands-to-adorable-cars/)
+* [TCL's Bass-Rich Alto 8i Soundbar Is On Sale for $150](https://www.reviewgeek.com/75898/tcls-bass-rich-alto-8i-soundbar-is-on-sale-for-150/)
+* [What Are Android Security Updates, and Why Are They Important?](https://www.howtogeek.com/711886/what-are-android-security-updates-and-why-are-they-important/)
+* [Google Meet Extends Free Unlimited Video Calls Until June 30th](https://www.reviewgeek.com/75883/google-meet-extends-free-unlimited-video-calls-until-june-30th/)
+* [How to Use the LEN Function in Microsoft Excel](https://www.howtogeek.com/716615/how-to-use-the-len-function-in-microsoft-excel/)
+* [How to Search for a Seller on eBay](https://www.howtogeek.com/716087/how-to-search-for-a-seller-in-ebay/)
+* [Installing Chrome/Firefox on a New Windows Server, the Easy Way](https://www.cloudsavvyit.com/10445/installing-chrome-firefox-on-a-new-windows-server-the-easy-way/)
+* [Where Is the Music Folder on a Mac?](https://www.howtogeek.com/714402/where-is-the-music-folder-on-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

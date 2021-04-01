@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/Hell_hath_no_fury_like_a_woman_scorned_964.php" target="_blank"><i>Hell hath no fury like a woman scorned</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/Variety_is_the_spice_of_life_591.php" target="_blank"><i>Variety is the spice of life</i></a>
 <span> = </span>
-<span>A woman rejected in love can be very angry and dangerous.</span>
+<span>Monotony is bad for us. We need plenty of change. It adds interest to our lives, just as spice adds interest to food.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -185,17 +185,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/stick_out_like_a_sore_thumb_stand_out_like_a_sore_thumb_698.php" target="_blank"><i>stick out like a sore thumb | stand out like a sore thumb</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/D/do_your_best_402.php" target="_blank"><i>do your best</i></a>
 <span> = </span>
-<span>If someone sticks out like a sore thumb, or stands out like a sore thumb, everyone notices them because they're not the same as the people around them.</span>
+<span>If you do your best, you do something as well as you possibly can, or to the best of your ability.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Teen/crush_1017.php" target="_blank"><i>crush</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/Zs_1129.php" target="_blank"><i>Zs</i></a>
 <span> = </span>
-<span>a strong feeling of love or infatuation for someone</span>
+<span>sleep</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -241,11 +241,52 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647104820664320000" target="_blank"><i>Haiku</i></a></summary>
-<p>by Mizuta Masahide</p><p>Barn&rsquo;s burnt down&ndash;<br/>
-now<br/>
-I can see the moon. 
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/647195410902990848" target="_blank"><i>Mothers</i></a></summary>
+<p>by Nikki Giovanni</p><p>the last time i was home <br/>
+to see my mother we kissed <br/>
+exchanged pleasantries <br/>
+and unpleasantries pulled a warm   
+<br/>comforting silence around 
+<br/>us and read separate books 
+<br/><br/>
+i remember the first time <br/>
+i consciously saw her 
+<br/>we were living in a three room   
+<br/>apartment on burns avenue 
+<br/><br/>
+mommy always sat in the dark 
+<br/>i don’t know how i knew that but she did 
+<br/><br/>
+that night i stumbled into the kitchen 
+<br/>maybe because i’ve always been 
+<br/>a night person or perhaps because i had wet 
+<br/>the bed 
+<br/>she was sitting on a chair 
+<br/>the room was bathed in moonlight diffused through   
+<br/>those thousands of panes landlords who rented 
+<br/>to people with children were prone to put in windows   
+<br/>she may have been smoking but maybe not 
+<br/>her hair was three-quarters her height 
+<br/>which made me a strong believer in the samson myth   
+<br/>and very black 
+<br/><br/>
+i’m sure i just hung there by the door 
+<br/>i remember thinking: what a beautiful lady 
+<br/><br/>
+she was very deliberately waiting 
+<br/>perhaps for my father to come home   
+<br/>from his night job or maybe for a dream 
+<br/>that had promised to come by   
+<br/>“come here” she said “i’ll teach you   
+<br/>a poem: <i>i see the moon 
+               <br/>the moon sees me 
+               <br/>god bless the moon 
+               <br/>and god bless me</i>”   <br/>
+i taught it to my son 
+<br/>who recited it for her 
+<br/>just to say we must learn   
+<br/>to bear the pleasures 
+<br/>as we have borne the pains </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -276,7 +317,7 @@ I can see the moon.
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 86%, pressure: 1009 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>1°C (<i>clear sky</i>), humidity: 93%, pressure: 1008 (mbar), wind: /east/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:24 am</b> and sets at <b>19:41 pm</b>.
     </p>
@@ -289,81 +330,83 @@ I can see the moon.
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Adobe Launches $15 iPad Bundle With Photoshop, Fresco, Illustrator, and More](https://www.reviewgeek.com/75775/adobe-launches-15-ipad-bundle-with-photoshop-fresco-illustrator-and-more/)
-* [Save the Date: Apple WWDC 2021 is June 7-11 and All Online](https://www.reviewgeek.com/75779/save-the-date-apple-wwdc-2021-is-june-7-11-and-all-online/)
-* ['Pokémon Go' Developer Niantic Teases Smart Glasses](https://www.reviewgeek.com/75760/pokemon-go-developer-niantic-teases-smart-glasses/)
-* [T-Mobile Customers Can Now Stream MLB.TV for Free (A $130 Annual Value)](https://www.reviewgeek.com/75737/t-mobile-customers-can-now-stream-mlb-tv-for-free-a-130-annual-value/)
-* [Google Maps Adds Indoor AR Navigation for Malls and Airports](https://www.reviewgeek.com/75736/google-maps-adds-indoor-ar-navigation-for-malls-and-airports/)
-* [How to Add a Web Page to Google Chrome’s Reading List](https://www.howtogeek.com/720948/how-to-add-a-web-page-to-google-chromes-reading-list/)
-* [Buy 'Super Mario 3D All-Stars' Before It Disappears Wednesday, March 31st](https://www.reviewgeek.com/75727/buy-super-mario-3d-all-stars-before-it-disappears-wednesday-march-31st/)
-* [How to Get the Word Count of Your PowerPoint Presentation](https://www.howtogeek.com/703787/how-to-get-the-word-count-of-your-powerpoint-presentation/)
-* [How to Find Recently Viewed Ads on Facebook](https://www.howtogeek.com/717507/how-to-find-recently-viewed-ads-on-facebook/)
-* [How to Use shfmt to Format Shell Scripts Better](https://www.cloudsavvyit.com/10149/how-to-use-shfmt-to-format-shell-scripts-better/)
+* [Belkin's Face-Tracking iPhone 12 Mount Does Less Than You'd Expect](https://www.reviewgeek.com/75945/belkins-face-tracking-iphone-12-mount-does-less-than-youd-expect/)
+* [IKEA's $8 TRADFRI HomeKit Smart Button Is Now Available Online](https://www.reviewgeek.com/75930/ikeas-tradfri-homekit-smart-button-is-available-for-8/)
+* [Fiat and Google Bring Voice Commands to Adorable Cars](https://www.reviewgeek.com/75915/fiat-and-google-bring-voice-commands-to-adorable-cars/)
+* [TCL's Bass-Rich Alto 8i Soundbar Is On Sale for $150](https://www.reviewgeek.com/75898/tcls-bass-rich-alto-8i-soundbar-is-on-sale-for-150/)
+* [What Are Android Security Updates, and Why Are They Important?](https://www.howtogeek.com/711886/what-are-android-security-updates-and-why-are-they-important/)
+* [Google Meet Extends Free Unlimited Video Calls Until June 30th](https://www.reviewgeek.com/75883/google-meet-extends-free-unlimited-video-calls-until-june-30th/)
+* [How to Use the LEN Function in Microsoft Excel](https://www.howtogeek.com/716615/how-to-use-the-len-function-in-microsoft-excel/)
+* [How to Search for a Seller on eBay](https://www.howtogeek.com/716087/how-to-search-for-a-seller-in-ebay/)
+* [Installing Chrome/Firefox on a New Windows Server, the Easy Way](https://www.cloudsavvyit.com/10445/installing-chrome-firefox-on-a-new-windows-server-the-easy-way/)
+* [Where Is the Music Folder on a Mac?](https://www.howtogeek.com/714402/where-is-the-music-folder-on-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Screaming-fast, scalable, asynchronous Python 3.5 HTTP toolkit](https://github.com/squeaky-pl/japronto)
-- [Covid infection risk of unvaccinated negatively associated with vaccinated](https://www.medrxiv.org/content/10.1101/2021.03.26.21254394v1.full.pdf+html)
-- [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
-- [Systemd 248 Released: A concept of system extension images is introduced](https://raw.githubusercontent.com/systemd/systemd/main/NEWS)
-- [Pattern matching tutorial for Pythonic code](https://mathspp.com/blog/pydonts/pattern-matching-tutorial-for-pythonic-code)
-- [Disadvantages of TCP SYN Cookies](https://ckdake.com/content/2007/disadvantages-of-tcp-syn-cookies)
-- [And Nothing Can Ever Ruin This](https://www.youtube.com/watch?v=tJ7LdrAqL0Y)
-- [CERN is building containers for storing and transporting antimatter](https://newatlas.com/science/cern-building-containers-storing-transporting-antimatter/)
-- [Police say they found mafia fugitive on YouTube, posting cooking tutorials](https://arstechnica.com/tech-policy/2021/03/alleged-mafia-fugitive-posted-cooking-videos-to-youtube-leading-to-arrest/?comments=1)
-- [The Discovery of Grounded Theory](https://en.wikipedia.org/wiki/The_Discovery_of_Grounded_Theory)
+- [Good Space Boys: Robotic Dogs May Dig into Martian Caves](https://eos.org/articles/very-good-space-boys-robotic-dogs-may-dig-into-martian-caves)
+- [The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
+- [A Deep Dive into E-Ink Tag Hacking](https://hackaday.com/2021/03/28/a-deep-dive-into-e-ink-tag-hacking/)
+- [Programming language experts win ‘Nobel Prize of computing’](https://fortune.com/2021/03/31/turning-award-winners-2021-computer-science-prize-nobel-prize-money/)
+- [AlmaLinux (RHEL fork) stable is now live](https://almalinux.org/blog/almalinux-os-stable-release-is-live/)
+- [Focus on the Language, Not the Framework](https://cheatcode.co/opinions/focus-on-the-language-not-the-framework)
+- [Canada mandatory Covid hotel quarantine FAQ](https://www.canada.ca/en/contact/contact-1-800-o-canada/hotel-stayover.html)
+- [Researchers Blur Faces That Launched a Thousand Algorithms](https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/)
+- [Largest FAST radio telescope is now open for global scientists](https://news.cgtn.com/news/2021-03-30/China-s-FAST-telescope-to-open-to-global-scientists-from-March-31--Z3vXS6tCqA/index.html)
+- [Tesla helps patch a security vulnerability in BTCPay Server](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.7.1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Unblocking the Suez canal – podcast](https://www.theguardian.com/news/audio/2021/mar/31/unblocking-the-suez-canal-podcast)
-- [Real Housewives of Salt Lake City stars arrested on federal fraud charges](https://www.theguardian.com/tv-and-radio/2021/mar/30/real-housewives-salt-lake-city-arrests-fraud)
-- [G Gordon Liddy, mastermind of Watergate burglary, dies aged 90](https://www.theguardian.com/us-news/2021/mar/30/g-gordon-liddy-dead-90-watergate-nixon-talkshow-host)
-- [Oscars 'to set up Academy Awards hubs' for nominees in London and Paris](https://www.theguardian.com/film/2021/mar/31/oscars-to-set-up-academy-awards-hubs-for-nominees-in-london-and-paris)
-- [Teen who filmed killing tells court George Floyd was 'begging for his life'](https://www.theguardian.com/us-news/2021/mar/30/derek-chauvin-trial-george-floyd-witness)
-- [Merkel, Macron and Putin in talks about using Sputnik V jab in Europe](https://www.theguardian.com/world/2021/mar/31/merkel-macron-and-putin-sputnik-v-vaccine-eu)
-- [Palau to welcome first tourists in a year with presidential escort](https://www.theguardian.com/world/2021/mar/31/palau-to-welcome-first-tourists-in-a-year-with-presidential-escort)
-- ['Culture without crowds': UK tourism chiefs tout virtues of fall in foreign visitors](https://www.theguardian.com/uk-news/2021/mar/31/culture-without-crowds-uk-tourism-chiefs-tout-virtues-of-fall-in-foreign-visitors)
-- [Downing Street suggests UK should be seen as model of racial equality](https://www.theguardian.com/world/2021/mar/31/uk-an-exemplar-of-racial-equality-no-10s-race-commission-concludes)
-- [Moscow lends Fabergé Imperial Easter eggs for V&A exhibition](https://www.theguardian.com/artanddesign/2021/mar/31/moscow-lends-faberge-imperial-easter-eggs-for-va-exhibition)
+- [What is the police and crime bill and why are people protesting against it? – podcast](https://www.theguardian.com/news/audio/2021/apr/01/what-is-police-crime-bill-why-people-protesting-podcast)
+- [Batch of Johnson & Johnson vaccines 'can't be used' after ingredient issues](https://www.theguardian.com/society/2021/mar/31/15m-doses-johnson-johnson-vaccines-ruined-mixup)
+- [Biden plans to spend $100bn to bring affordable internet to all Americans](https://www.theguardian.com/us-news/2021/mar/31/joe-biden-infrastructure-plan-affordable-internet)
+- [Biden's big infrastructure bet could define his legacy – for better or worse](https://www.theguardian.com/us-news/2021/mar/31/joe-biden-infrastructure-politics-legacy)
+- [San Francisco man who allegedly threatened to 'shoot Chinese people' arrested](https://www.theguardian.com/us-news/2021/mar/31/san-francisco-man-arrested-asian-american-women-bakery)
+- ['Suez 2'? Ever Given grounding prompts plan for canal along Egypt-Israel border](https://www.theguardian.com/world/2021/apr/01/suez-2-ever-given-grounding-prompts-plan-for-canal-along-egypt-israel-border)
+- [Increase for UK's lowest-paid workers comes as household bills rise](https://www.theguardian.com/business/2021/apr/01/uk-lowest-paid-workers-household-bills-statutory-minimum-wages-inflation)
+- [Diana, Princess of Wales, to be celebrated with London blue plaque](https://www.theguardian.com/uk-news/2021/apr/01/diana-princess-wales-celebrated-english-heritage-london-blue-plaque)
+- ['British instinct' likely to oppose Covid passports, says Keir Starmer](https://www.theguardian.com/politics/2021/mar/31/british-instinct-likely-to-oppose-covid-passports-says-keir-starmer)
+- [Fewer than a quarter with Covid symptoms request test, UK study finds](https://www.theguardian.com/world/2021/mar/31/fewer-quarter-covid-symptoms-request-test-uk-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
-- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
-- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
-- [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
-- [Elizabeth Loftus Changed the Meaning of Memory](https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory)
-- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
-- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
-- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
-- [Google collects 20 times more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
-- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
+- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
+- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
+- [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
+- [Jump in cancer diagnoses at 65 implies patients wait for Medicare: study](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
+- [Redefining what a map can be with new information and AI](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
+- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
+- [Is the “cult” of Y Combinator good or bad for Africa’s startup ecosystem?](https://disrupt-africa.com/2021/03/30/is-the-cult-of-y-combinator-a-good-or-bad-thing-for-africas-startup-ecosystem/)
+- [YouTube to Remove Dislikes](https://twitter.com/YouTube/status/1376942486594150405)
+- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
+- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [Lessons from Jamf on how to support the remote hybrid enterprise](https://www.computerworld.com/article/3613577/lessons-from-jamf-on-how-to-support-the-remote-hybrid-enterprise.html#tk.rss_all)
+- [Microsoft hands IT admins beefed-up Windows release health hub](https://www.computerworld.com/article/3613421/microsoft-hands-it-admins-beefed-up-windows-release-health-hub.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple confirms WWDC 2021 will be an online event](https://www.computerworld.com/article/3613183/apple-confirms-wwdc-2021-will-be-an-online-event.html#tk.rss_all)
 - [What the hell is happening with Android One?](https://www.computerworld.com/article/3613511/android-one.html#tk.rss_all)
 - [Everything you need to know about Windows 10X](https://www.computerworld.com/article/3613513/everything-you-need-to-know-about-windows-10x.html#tk.rss_all)
 - [Microsoft elevates Teams' importance by offering top-dollar bug bounties](https://www.computerworld.com/article/3613179/microsoft-elevates-teams-importance-by-offering-top-dollar-bug-bounties.html#tk.rss_all)
 - [How Apple's iCloud Drive works — and how to use it](https://www.computerworld.com/article/3170585/how-apple-icloud-drive-works-and-how-to-use-it.html#tk.rss_all)
-- [Patch Tuesday recap: This month, an ‘Ides of March’ update?](https://www.computerworld.com/article/3613419/patch-tuesday-recap-this-month-an-ides-of-march-update.html#tk.rss_all)
-- [How to print and scan with Android](https://www.computerworld.com/article/3410288/how-to-print-and-scan-with-android.html#tk.rss_all)
-- [Apple Watch yields heart data nearly as good as clinical tests, report claims](https://www.computerworld.com/article/3613408/apple-watch-yields-heart-data-nearly-as-good-as-clinical-tests-report-claims.html#tk.rss_all)
-- [How to replace Edge as the default browser in Windows 10 — and why you shouldn’t](https://www.computerworld.com/article/3229068/how-to-replace-edge-as-the-default-browser-in-windows-10-and-why-you-shouldnt.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Time to Shift Your Job Search Out of Neutral](https://www.informationweek.com/time-to-shift-your-job-search-out-of-neutral/d/d-id/1340548?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Innovation in a COVID World: 4 Steps for CIOs To Get It Done](https://www.informationweek.com/strategic-cio/digital-business/innovation-in-a-covid-world-4-steps-for-cios-to-get-it-done-/a/d-id/1340527?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Roles Are Broadening](https://www.informationweek.com/strategic-cio/why-it-roles-are-broadening/a/d-id/1340536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -372,38 +415,36 @@ I can see the moon.
 - [What Bain Capital's David Humphrey Sees in Hybrid Cloud](https://www.informationweek.com/cloud/what-bain-capitals-david-humphrey-sees-in-hybrid-cloud/a/d-id/1340494?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Addressing 'Zoom Fatigue' Head-On in the Future of Team Conferencing](https://www.informationweek.com/big-data/ai-machine-learning/addressing-zoom-fatigue-head-on-in-the-future-of-team-conferencing/a/d-id/1340510?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why and How the Chief Information Officer Role is Changing](https://www.informationweek.com/strategic-cio/why-and-how-the-chief-information-officer-role-is-changing/a/d-id/1340488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What IT Leaders Can Do To Diminish Fear Within Their Teams](https://www.informationweek.com/strategic-cio/team-building-and-staffing/what-it-leaders-can-do-to-diminish-fear-within-their-teams/a/d-id/1340489?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Texas County Turns to Low-Code Database for Vaccine Registrations](https://www.informationweek.com/big-data/software-platforms/texas-county-turns-to-low-code-database-for-vaccine-registrations/d/d-id/1340470?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno Company forms to back Node.js rival](https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html#tk.rss_all)
+- [Microsoft inches closer to unified Windows SDK](https://www.infoworld.com/article/3613569/microsoft-inches-closer-to-unified-windows-sdk.html#tk.rss_all)
+- [8 ways to jump-start your machine learning](https://www.infoworld.com/article/3613185/8-ways-to-jump-start-your-machine-learning.html#tk.rss_all)
 - [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
 - [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 - [How to use target typing and covariant returns in C# 9](https://www.infoworld.com/article/3613548/how-to-use-target-typing-and-covariant-returns-in-c-9.html#tk.rss_all)
 - [The cloud attack you didn’t see coming](https://www.infoworld.com/article/3613094/the-cloud-attack-you-didnt-see-coming.html#tk.rss_all)
 - [Artillery: Finding open source success between dev and ops](https://www.infoworld.com/article/3613163/artillery-finding-open-source-success-between-dev-and-ops.html#tk.rss_all)
-- [How to improve application reliability with observability and monitoring](https://www.infoworld.com/article/3613155/how-to-improve-application-reliability-with-observability-and-monitoring.html#tk.rss_all)
+- [5 devops practices to improve application reliability](https://www.infoworld.com/article/3613155/5-devops-practices-to-improve-application-reliability.html#tk.rss_all)
 - [10 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/10-top-notch-libraries-for-c-programming.html#tk.rss_all)
-- [Microsoft, Google address browser compatibility issues](https://www.infoworld.com/article/3613077/microsoft-google-address-browser-compatibility-issues.html#tk.rss_all)
-- [3 surefire ways to kill your multicloud deployment](https://www.infoworld.com/article/3613089/3-surefire-ways-to-kill-your-multicloud-deployment.html#tk.rss_all)
-- [What’s new in Rust 1.51](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
+- [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
+- [Commerzbank picks Google for cloud migration](https://www.computerweekly.com/news/252498684/Commerzbank-picks-Google-for-cloud-migration)
+- [NHS is apparently closing security skills gap](https://www.computerweekly.com/news/252498677/NHS-is-apparently-closing-security-skills-gap)
+- [Security Think Tank: Evolving threats, tech, leaves CNI exposed](https://www.computerweekly.com/opinion/Security-Think-Tank-Evolving-threats-tech-leaves-CNI-exposed)
+- [Cyber Security Council to champion UK security pros](https://www.computerweekly.com/news/252498673/Cyber-Security-Council-to-champion-UK-security-pros)
+- [Nordics run information sharing on digital vaccination passports](https://www.computerweekly.com/news/252498670/Nordics-run-information-sharing-on-digital-vaccination-passports)
 - [Asda bags ex-Marks and Spencer CIO](https://www.computerweekly.com/news/252498629/Asda-bags-ex-Marks-and-Spencer-CIO)
 - [Privacy campaigners hail legal victory over Hancock and Palantir](https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir)
 - [Ransomware attack on London schools highlights warnings](https://www.computerweekly.com/news/252498607/Ransomware-attack-on-London-schools-highlights-warnings)
-- [IR35 reforms: Slow government progress on umbrella regulation exposes IT contractors to tax risks](https://www.computerweekly.com/news/252498600/IR35-reforms-Slow-government-progress-on-umbrella-regulation-exposes-IT-contractors-to-tax-risks)
-- [The ticking timebomb of IR35](https://www.computerweekly.com/ezine/Computer-Weekly/The-ticking-timebomb-of-IR35)
-- [A Computer Weekly buyer’s guide to colocation](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-colocation)
-- [The Security Interviews: How to secure an F1 team in a pandemic](https://www.computerweekly.com/news/252498562/The-Security-Interviews-How-to-secure-an-F1-team-in-a-pandemic)
-- [Royal Holloway: Testing antivirus efficacy in Linux](https://www.computerweekly.com/ehandbook/Royal-Holloway-Testing-antivirus-efficacy-in-Linux)
-- [Data warehouse storage: Has cloud made on-premise obsolete?](https://www.computerweekly.com/feature/Data-warehouse-storage-Has-cloud-made-on-premise-obsolete)
-- [Big Tech eclipses telecoms and arms giants as biggest lobbying spenders](https://www.computerweekly.com/news/252498552/Big-Tech-eclipses-telecoms-and-arms-giants-as-biggest-lobbying-spenders)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

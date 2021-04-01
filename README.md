@@ -364,6 +364,8 @@ I can see the moon.
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Time to Shift Your Job Search Out of Neutral](https://www.informationweek.com/time-to-shift-your-job-search-out-of-neutral/d/d-id/1340548?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Innovation in a COVID World: 4 Steps for CIOs To Get It Done](https://www.informationweek.com/strategic-cio/digital-business/innovation-in-a-covid-world-4-steps-for-cios-to-get-it-done-/a/d-id/1340527?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Roles Are Broadening](https://www.informationweek.com/strategic-cio/why-it-roles-are-broadening/a/d-id/1340536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -372,8 +374,6 @@ I can see the moon.
 - [What Bain Capital's David Humphrey Sees in Hybrid Cloud](https://www.informationweek.com/cloud/what-bain-capitals-david-humphrey-sees-in-hybrid-cloud/a/d-id/1340494?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Addressing 'Zoom Fatigue' Head-On in the Future of Team Conferencing](https://www.informationweek.com/big-data/ai-machine-learning/addressing-zoom-fatigue-head-on-in-the-future-of-team-conferencing/a/d-id/1340510?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why and How the Chief Information Officer Role is Changing](https://www.informationweek.com/strategic-cio/why-and-how-the-chief-information-officer-role-is-changing/a/d-id/1340488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What IT Leaders Can Do To Diminish Fear Within Their Teams](https://www.informationweek.com/strategic-cio/team-building-and-staffing/what-it-leaders-can-do-to-diminish-fear-within-their-teams/a/d-id/1340489?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Texas County Turns to Low-Code Database for Vaccine Registrations](https://www.informationweek.com/big-data/software-platforms/texas-county-turns-to-low-code-database-for-vaccine-registrations/d/d-id/1340470?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

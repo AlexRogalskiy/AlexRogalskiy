@@ -241,11 +241,52 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647104820664320000" target="_blank"><i>Haiku</i></a></summary>
-<p>by Mizuta Masahide</p><p>Barn&rsquo;s burnt down&ndash;<br/>
-now<br/>
-I can see the moon. 
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/647195410902990848" target="_blank"><i>Mothers</i></a></summary>
+<p>by Nikki Giovanni</p><p>the last time i was home <br/>
+to see my mother we kissed <br/>
+exchanged pleasantries <br/>
+and unpleasantries pulled a warm   
+<br/>comforting silence around 
+<br/>us and read separate books 
+<br/><br/>
+i remember the first time <br/>
+i consciously saw her 
+<br/>we were living in a three room   
+<br/>apartment on burns avenue 
+<br/><br/>
+mommy always sat in the dark 
+<br/>i don’t know how i knew that but she did 
+<br/><br/>
+that night i stumbled into the kitchen 
+<br/>maybe because i’ve always been 
+<br/>a night person or perhaps because i had wet 
+<br/>the bed 
+<br/>she was sitting on a chair 
+<br/>the room was bathed in moonlight diffused through   
+<br/>those thousands of panes landlords who rented 
+<br/>to people with children were prone to put in windows   
+<br/>she may have been smoking but maybe not 
+<br/>her hair was three-quarters her height 
+<br/>which made me a strong believer in the samson myth   
+<br/>and very black 
+<br/><br/>
+i’m sure i just hung there by the door 
+<br/>i remember thinking: what a beautiful lady 
+<br/><br/>
+she was very deliberately waiting 
+<br/>perhaps for my father to come home   
+<br/>from his night job or maybe for a dream 
+<br/>that had promised to come by   
+<br/>“come here” she said “i’ll teach you   
+<br/>a poem: <i>i see the moon 
+               <br/>the moon sees me 
+               <br/>god bless the moon 
+               <br/>and god bless me</i>”   <br/>
+i taught it to my son 
+<br/>who recited it for her 
+<br/>just to say we must learn   
+<br/>to bear the pleasures 
+<br/>as we have borne the pains </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

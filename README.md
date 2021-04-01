@@ -304,16 +304,16 @@ I can see the moon.
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Screaming-fast, scalable, asynchronous Python 3.5 HTTP toolkit](https://github.com/squeaky-pl/japronto)
-- [Covid infection risk of unvaccinated negatively associated with vaccinated](https://www.medrxiv.org/content/10.1101/2021.03.26.21254394v1.full.pdf+html)
-- [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
-- [Systemd 248 Released: A concept of system extension images is introduced](https://raw.githubusercontent.com/systemd/systemd/main/NEWS)
-- [Pattern matching tutorial for Pythonic code](https://mathspp.com/blog/pydonts/pattern-matching-tutorial-for-pythonic-code)
-- [Disadvantages of TCP SYN Cookies](https://ckdake.com/content/2007/disadvantages-of-tcp-syn-cookies)
-- [And Nothing Can Ever Ruin This](https://www.youtube.com/watch?v=tJ7LdrAqL0Y)
-- [CERN is building containers for storing and transporting antimatter](https://newatlas.com/science/cern-building-containers-storing-transporting-antimatter/)
-- [Police say they found mafia fugitive on YouTube, posting cooking tutorials](https://arstechnica.com/tech-policy/2021/03/alleged-mafia-fugitive-posted-cooking-videos-to-youtube-leading-to-arrest/?comments=1)
-- [The Discovery of Grounded Theory](https://en.wikipedia.org/wiki/The_Discovery_of_Grounded_Theory)
+- [Good Space Boys: Robotic Dogs May Dig into Martian Caves](https://eos.org/articles/very-good-space-boys-robotic-dogs-may-dig-into-martian-caves)
+- [The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
+- [A Deep Dive into E-Ink Tag Hacking](https://hackaday.com/2021/03/28/a-deep-dive-into-e-ink-tag-hacking/)
+- [Programming language experts win ‘Nobel Prize of computing’](https://fortune.com/2021/03/31/turning-award-winners-2021-computer-science-prize-nobel-prize-money/)
+- [AlmaLinux (RHEL fork) stable is now live](https://almalinux.org/blog/almalinux-os-stable-release-is-live/)
+- [Focus on the Language, Not the Framework](https://cheatcode.co/opinions/focus-on-the-language-not-the-framework)
+- [Canada mandatory Covid hotel quarantine FAQ](https://www.canada.ca/en/contact/contact-1-800-o-canada/hotel-stayover.html)
+- [Researchers Blur Faces That Launched a Thousand Algorithms](https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/)
+- [Largest FAST radio telescope is now open for global scientists](https://news.cgtn.com/news/2021-03-30/China-s-FAST-telescope-to-open-to-global-scientists-from-March-31--Z3vXS6tCqA/index.html)
+- [Tesla helps patch a security vulnerability in BTCPay Server](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.7.1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

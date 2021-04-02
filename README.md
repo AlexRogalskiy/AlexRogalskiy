@@ -420,6 +420,9 @@ i taught it to my son
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_all)
+- [4 key tests for your AI explainability toolkit](https://www.infoworld.com/article/3613832/4-key-tests-for-your-ai-explainability-toolkit.html#tk.rss_all)
+- [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html#tk.rss_all)
 - [Deno Company forms to back Node.js rival](https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html#tk.rss_all)
 - [Microsoft inches closer to unified Windows SDK](https://www.infoworld.com/article/3613569/microsoft-inches-closer-to-unified-windows-sdk.html#tk.rss_all)
 - [8 ways to jump-start your machine learning](https://www.infoworld.com/article/3613185/8-ways-to-jump-start-your-machine-learning.html#tk.rss_all)
@@ -427,9 +430,6 @@ i taught it to my son
 - [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 - [How to use target typing and covariant returns in C# 9](https://www.infoworld.com/article/3613548/how-to-use-target-typing-and-covariant-returns-in-c-9.html#tk.rss_all)
 - [The cloud attack you didn’t see coming](https://www.infoworld.com/article/3613094/the-cloud-attack-you-didnt-see-coming.html#tk.rss_all)
-- [Artillery: Finding open source success between dev and ops](https://www.infoworld.com/article/3613163/artillery-finding-open-source-success-between-dev-and-ops.html#tk.rss_all)
-- [5 devops practices to improve application reliability](https://www.infoworld.com/article/3613155/5-devops-practices-to-improve-application-reliability.html#tk.rss_all)
-- [10 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/10-top-notch-libraries-for-c-programming.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

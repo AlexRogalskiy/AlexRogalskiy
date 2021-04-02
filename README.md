@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/Zs_1129.php" target="_blank"><i>Zs</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/T/tail_1237.php" target="_blank"><i>tail</i></a>
 <span> = </span>
-<span>sleep</span>
+<span>a person who's following someone to find out where they're going and what they're doing</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

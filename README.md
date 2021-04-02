@@ -390,16 +390,16 @@ i taught it to my son
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: WWDC 2021: What to expect at Apple's June event](https://www.computerworld.com/article/3613915/podcast-wwdc-2021-what-to-expect-at-apples-june-event.html#tk.rss_all)
+- [Cisco adds 'People Insights' analytics to Webex](https://www.computerworld.com/article/3613811/cisco-adds-people-insights-analytics-to-webex.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [BrandPost: How HP Helps With Responsible PC Retirement – Even During a Pandemic](https://www.computerworld.com/article/3613912/how-hp-helps-with-responsible-pc-retirement-even-during-a-pandemic.html#tk.rss_all)
+- [How to fix the Apple tech skills gap](https://www.computerworld.com/article/3613809/how-to-fix-the-apple-tech-skills-gap.html#tk.rss_all)
+- [How to add powerful voice commands into Chrome on your computer](https://www.computerworld.com/article/3613712/chrome-voice-commands.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [Lessons from Jamf on how to support the remote hybrid enterprise](https://www.computerworld.com/article/3613577/lessons-from-jamf-on-how-to-support-the-remote-hybrid-enterprise.html#tk.rss_all)
 - [Microsoft hands IT admins beefed-up Windows release health hub](https://www.computerworld.com/article/3613421/microsoft-hands-it-admins-beefed-up-windows-release-health-hub.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple confirms WWDC 2021 will be an online event](https://www.computerworld.com/article/3613183/apple-confirms-wwdc-2021-will-be-an-online-event.html#tk.rss_all)
-- [What the hell is happening with Android One?](https://www.computerworld.com/article/3613511/android-one.html#tk.rss_all)
-- [Everything you need to know about Windows 10X](https://www.computerworld.com/article/3613513/everything-you-need-to-know-about-windows-10x.html#tk.rss_all)
-- [Microsoft elevates Teams' importance by offering top-dollar bug bounties](https://www.computerworld.com/article/3613179/microsoft-elevates-teams-importance-by-offering-top-dollar-bug-bounties.html#tk.rss_all)
-- [How Apple's iCloud Drive works — and how to use it](https://www.computerworld.com/article/3170585/how-apple-icloud-drive-works-and-how-to-use-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

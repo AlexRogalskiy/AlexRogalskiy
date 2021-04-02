@@ -345,16 +345,16 @@ i taught it to my son
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Good Space Boys: Robotic Dogs May Dig into Martian Caves](https://eos.org/articles/very-good-space-boys-robotic-dogs-may-dig-into-martian-caves)
-- [The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
-- [A Deep Dive into E-Ink Tag Hacking](https://hackaday.com/2021/03/28/a-deep-dive-into-e-ink-tag-hacking/)
-- [Programming language experts win ‘Nobel Prize of computing’](https://fortune.com/2021/03/31/turning-award-winners-2021-computer-science-prize-nobel-prize-money/)
-- [AlmaLinux (RHEL fork) stable is now live](https://almalinux.org/blog/almalinux-os-stable-release-is-live/)
-- [Focus on the Language, Not the Framework](https://cheatcode.co/opinions/focus-on-the-language-not-the-framework)
-- [Canada mandatory Covid hotel quarantine FAQ](https://www.canada.ca/en/contact/contact-1-800-o-canada/hotel-stayover.html)
-- [Researchers Blur Faces That Launched a Thousand Algorithms](https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/)
-- [Largest FAST radio telescope is now open for global scientists](https://news.cgtn.com/news/2021-03-30/China-s-FAST-telescope-to-open-to-global-scientists-from-March-31--Z3vXS6tCqA/index.html)
-- [Tesla helps patch a security vulnerability in BTCPay Server](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.7.1)
+- [A fast static web server with routing, templating, and security](https://github.com/mufeedvh/binserve)
+- [Mona Lisa with pure CSS in a single div](https://twitter.com/rick_viscomi/status/1377472886500392962)
+- [Why isn't webapp preferred over native app?](https://news.ycombinator.com/item?id=26668479)
+- [UK reports 25 fresh cases of thrombosis associated with the AstraZeneca vaccine](https://eminetra.co.uk/the-uk-reports-25-fresh-cases-of-thrombosis-associated-with-the-astrazeneca-vaccine/388645/)
+- [China officially bans CRISPR babies, human clones and animal-human hybrids](https://biohackinfo.com/news-china-gene-editing-criminal-law-article-336-march-2021/)
+- [Every Noise at Once](https://everynoise.com/)
+- [The Little-Known Data Broker Industry Is Spending Big Bucks Lobbying Congress](https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress)
+- [Space.sh – Server apps and automation in a nutshell](https://space.sh)
+- [Tmux lets you select and copy text with your keyboard](https://ianthehenry.com/posts/tmux-psa/)
+- [China Forcing People to Take Vaccines Against Their Wishes, Reports Suggest](https://www.newsweek.com/china-forcing-people-take-vaccines-against-their-wishes-reports-suggest-1580116)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

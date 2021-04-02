@@ -330,16 +330,16 @@ i taught it to my son
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Belkin's Face-Tracking iPhone 12 Mount Does Less Than You'd Expect](https://www.reviewgeek.com/75945/belkins-face-tracking-iphone-12-mount-does-less-than-youd-expect/)
-* [IKEA's $8 TRADFRI HomeKit Smart Button Is Now Available Online](https://www.reviewgeek.com/75930/ikeas-tradfri-homekit-smart-button-is-available-for-8/)
-* [Fiat and Google Bring Voice Commands to Adorable Cars](https://www.reviewgeek.com/75915/fiat-and-google-bring-voice-commands-to-adorable-cars/)
-* [TCL's Bass-Rich Alto 8i Soundbar Is On Sale for $150](https://www.reviewgeek.com/75898/tcls-bass-rich-alto-8i-soundbar-is-on-sale-for-150/)
-* [What Are Android Security Updates, and Why Are They Important?](https://www.howtogeek.com/711886/what-are-android-security-updates-and-why-are-they-important/)
-* [Google Meet Extends Free Unlimited Video Calls Until June 30th](https://www.reviewgeek.com/75883/google-meet-extends-free-unlimited-video-calls-until-june-30th/)
-* [How to Use the LEN Function in Microsoft Excel](https://www.howtogeek.com/716615/how-to-use-the-len-function-in-microsoft-excel/)
-* [How to Search for a Seller on eBay](https://www.howtogeek.com/716087/how-to-search-for-a-seller-in-ebay/)
-* [Installing Chrome/Firefox on a New Windows Server, the Easy Way](https://www.cloudsavvyit.com/10445/installing-chrome-firefox-on-a-new-windows-server-the-easy-way/)
-* [Where Is the Music Folder on a Mac?](https://www.howtogeek.com/714402/where-is-the-music-folder-on-a-mac/)
+* [Apple Won't Make Siri a Female by Default Anymore](https://www.reviewgeek.com/76217/apple-wont-make-siri-a-female-by-default-anymore/)
+* [How to Run Windows 3’s File Manager in Windows 10](https://www.howtogeek.com/721811/how-to-run-windows-3s-file-manager-in-windows-10/)
+* [Netflix and HBO Max Could Lose Universal Studios Content to Peacock](https://www.reviewgeek.com/76162/netflix-and-hbo-max-could-lose-universal-studios-content-to-peacock/)
+* [Ally Bank Tries to Entice Simple Users with New Features](https://www.reviewgeek.com/76134/ally-bank-tries-to-entice-simple-users-with-new-features/)
+* [Facebook Makes Controlling Your News Feed Much Easier](https://www.reviewgeek.com/76129/facebook-makes-controlling-your-news-feed-much-easier/)
+* [All the 2021 April Fool's Day Tech Pranks We Could Stomach](https://www.reviewgeek.com/76067/all-the-2021-april-fools-tech-pranks-we-could-stomach/)
+* [Scam Alert: Roku Will Never Charge for Activation](https://www.reviewgeek.com/76103/scam-alert-roku-will-never-charge-for-activation/)
+* [What’s the Difference between Illustrator and Photoshop?](https://www.howtogeek.com/708590/whats-the-difference-between-illustrator-and-photoshop/)
+* [Microsoft Killed Cortana and No One Will Miss Her](https://www.reviewgeek.com/76073/microsoft-killed-cortana-and-no-one-will-miss-her/)
+* [How to Insert a YouTube Video into a Word Document](https://www.howtogeek.com/718791/how-to-insert-a-youtube-video-into-a-word-document/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

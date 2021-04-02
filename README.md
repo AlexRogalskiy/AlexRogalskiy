@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/Variety_is_the_spice_of_life_591.php" target="_blank"><i>Variety is the spice of life</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/If_a_job_s_worth_doing_it_s_worth_doing_well_542.php" target="_blank"><i>If a job's worth doing it's worth doing well</i></a>
 <span> = </span>
-<span>Monotony is bad for us. We need plenty of change. It adds interest to our lives, just as spice adds interest to food.</span>
+<span>Don't start some work and then do it badly.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

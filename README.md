@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/F/figure_out_1__1843.php" target="_blank"><i>figure out (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_2/come_into_2588.php" target="_blank"><i>come into</i></a>
 <span> = </span>
-<span>If you figure something out, you find the solution to a problem or the answer to a question.</span>
+<span>to be given something after its owner dies</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

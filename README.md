@@ -435,16 +435,16 @@ i taught it to my son
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EncroChat hearings delayed as lawyers seek disclosure on police hacking](https://www.computerweekly.com/news/252498762/EncroChat-hearings-delayed-as-lawyers-seek-disclosure-on-police-hacking)
+- [IR35 reforms: Loan charge and employers’ NI issues prompt calls for legislative revamp](https://www.computerweekly.com/news/252498766/IR35-reforms-Loan-charge-and-employers-NI-issues-prompt-calls-for-legislative-revamp)
+- [Project Monterey returns to haunt IBM and Red Hat](https://www.computerweekly.com/news/252498754/Project-Monterey-returns-to-haunt-IBM-and-Red-Hat)
+- [Starting a career in the digital economy](https://www.computerweekly.com/feature/Starting-a-career-in-the-digital-economy)
 - [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
 - [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
 - [Commerzbank picks Google for cloud migration](https://www.computerweekly.com/news/252498684/Commerzbank-picks-Google-for-cloud-migration)
 - [NHS is apparently closing security skills gap](https://www.computerweekly.com/news/252498677/NHS-is-apparently-closing-security-skills-gap)
 - [Security Think Tank: Evolving threats, tech, leaves CNI exposed](https://www.computerweekly.com/opinion/Security-Think-Tank-Evolving-threats-tech-leaves-CNI-exposed)
 - [Cyber Security Council to champion UK security pros](https://www.computerweekly.com/news/252498673/Cyber-Security-Council-to-champion-UK-security-pros)
-- [Nordics run information sharing on digital vaccination passports](https://www.computerweekly.com/news/252498670/Nordics-run-information-sharing-on-digital-vaccination-passports)
-- [Asda bags ex-Marks and Spencer CIO](https://www.computerweekly.com/news/252498629/Asda-bags-ex-Marks-and-Spencer-CIO)
-- [Privacy campaigners hail legal victory over Hancock and Palantir](https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir)
-- [Ransomware attack on London schools highlights warnings](https://www.computerweekly.com/news/252498607/Ransomware-attack-on-London-schools-highlights-warnings)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

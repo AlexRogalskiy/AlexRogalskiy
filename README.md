@@ -360,16 +360,16 @@ i taught it to my son
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What is the police and crime bill and why are people protesting against it? – podcast](https://www.theguardian.com/news/audio/2021/apr/01/what-is-police-crime-bill-why-people-protesting-podcast)
-- [Batch of Johnson & Johnson vaccines 'can't be used' after ingredient issues](https://www.theguardian.com/society/2021/mar/31/15m-doses-johnson-johnson-vaccines-ruined-mixup)
-- [Biden plans to spend $100bn to bring affordable internet to all Americans](https://www.theguardian.com/us-news/2021/mar/31/joe-biden-infrastructure-plan-affordable-internet)
-- [Biden's big infrastructure bet could define his legacy – for better or worse](https://www.theguardian.com/us-news/2021/mar/31/joe-biden-infrastructure-politics-legacy)
-- [San Francisco man who allegedly threatened to 'shoot Chinese people' arrested](https://www.theguardian.com/us-news/2021/mar/31/san-francisco-man-arrested-asian-american-women-bakery)
-- ['Suez 2'? Ever Given grounding prompts plan for canal along Egypt-Israel border](https://www.theguardian.com/world/2021/apr/01/suez-2-ever-given-grounding-prompts-plan-for-canal-along-egypt-israel-border)
-- [Increase for UK's lowest-paid workers comes as household bills rise](https://www.theguardian.com/business/2021/apr/01/uk-lowest-paid-workers-household-bills-statutory-minimum-wages-inflation)
-- [Diana, Princess of Wales, to be celebrated with London blue plaque](https://www.theguardian.com/uk-news/2021/apr/01/diana-princess-wales-celebrated-english-heritage-london-blue-plaque)
-- ['British instinct' likely to oppose Covid passports, says Keir Starmer](https://www.theguardian.com/politics/2021/mar/31/british-instinct-likely-to-oppose-covid-passports-says-keir-starmer)
-- [Fewer than a quarter with Covid symptoms request test, UK study finds](https://www.theguardian.com/world/2021/mar/31/fewer-quarter-covid-symptoms-request-test-uk-study)
+- [Why is gay conversion therapy still legal in the UK? – podcast](https://www.theguardian.com/news/audio/2021/apr/02/why-is-gay-conversion-therapy-still-legal-uk)
+- [Brazil's gravediggers exhume bodies to make space for Covid victims](https://www.theguardian.com/world/2021/apr/02/brazil-gravediggers-rush-to-exhume-bodies-to-make-space-for-covid-victims)
+- [Strange fruit: how feijoas baffled a New Zealand immigrant – and polarise a nation](https://www.theguardian.com/world/2021/apr/02/strange-fruit-how-feijoas-baffled-a-new-zealand-immigrant-and-polarise-a-nation)
+- [McConnell vows to fight Biden's $2tn infrastructure plan 'every step of the way' – as it happened](https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/02/premier-league-10-things-to-look-out-for-this-weekend)
+- [Teaching union hits out at academy bosses' 'eye-watering' pay](https://www.theguardian.com/education/2021/apr/02/teaching-union-nasuwt-hits-out-academy-bosses-eye-watering-pay)
+- [Video game loot boxes linked to problem gambling, study shows](https://www.theguardian.com/society/2021/apr/02/video-game-loot-boxes-problem-gambling-betting-children)
+- [Talking Horses: Bangkok the one to beat in Good Friday racing highlight](https://www.theguardian.com/sport/blog/2021/apr/02/talking-horses-bangkok-the-one-to-beat-in-good-friday-racing-highlight)
+- [Bristol police chief accepts force was slow to correct protest injury claims](https://www.theguardian.com/uk-news/2021/apr/02/bristol-police-chief-accepts-force-was-slow-to-correct-protest-injury-claims)
+- [Chauvin's supervisor says there was no justification to keep knee on George Floyd’s neck](https://www.theguardian.com/us-news/2021/apr/01/derek-chauvin-supervisor-testimony-george-floyd)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/D/do_your_best_402.php" target="_blank"><i>do your best</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/a_roller_coaster_a_roller-coaster_ride_351.php" target="_blank"><i>a roller coaster | a roller-coaster ride</i></a>
 <span> = </span>
-<span>If you do your best, you do something as well as you possibly can, or to the best of your ability.</span>
+<span>You can say an experience is a roller coaster, or a roller-coaster ride, if it involves many emotional highs and lows, or really good times alternating with really difficult times.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

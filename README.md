@@ -375,16 +375,16 @@ i taught it to my son
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
-- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
-- [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
-- [Jump in cancer diagnoses at 65 implies patients wait for Medicare: study](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
-- [Redefining what a map can be with new information and AI](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
-- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
-- [Is the “cult” of Y Combinator good or bad for Africa’s startup ecosystem?](https://disrupt-africa.com/2021/03/30/is-the-cult-of-y-combinator-a-good-or-bad-thing-for-africas-startup-ecosystem/)
-- [YouTube to Remove Dislikes](https://twitter.com/YouTube/status/1376942486594150405)
-- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
-- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
+- [Micron chief warns 'severe shortage' of DRAM expected to continue this year](https://www.theregister.com/2021/04/01/dram_shortage_micron/)
+- [Uppestcase and Lowestcase Letters](http://tom7.org/lowercase/)
+- [Show HN: I built Creodocs, a document creation platform based on LaTeX](https://www.creodocs.com)
+- [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
+- [RFC8962: Establishing the Protocol Police](https://www.rfc-editor.org/rfc/rfc8962.txt)
+- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
+- [OpenMW – open-source TES3 Morrowind reimplementation](https://openmw.org/en/)
+- [OpenBSD adds support for Coordinated Mars Time](https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2)
+- [Goblins: A transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/)
+- [Evaluating Search Algorithms](https://shopify.engineering/evaluating-search-algorithms)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a9&#x2F;6c&#x2F;93&#x2F;a96c9362c2529648cf90cb0a8e2d321e.jpg" alt="We aren&#39;t joking when we say jocular is the Word of the Day. Want example sentences? Head to Dictionary.com to learn more about how to use this word! #Vocabulary #Writing #English #Learning" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a9&#x2F;6c&#x2F;93&#x2F;a96c9362c2529648cf90cb0a8e2d321e.jpg" alt="We aren&#39;t joking when we say jocular is the Word of the Day. Want example sentences? Head to Dictionary.com to learn more about how to use this word! #Vocabulary #Writing #English #Learning " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;60&#x2F;12&#x2F;2760121ddad64c1daabca1b9793f47fd.jpg" alt="We aren’t here to argue, but brabble is the Word of the Day. Get example sentences and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cd&#x2F;2d&#x2F;7b&#x2F;cd2d7be482d30599b6ea329ce77d59c8.jpg" alt="Today&#39;s Word of the Day doesn&#39;t have anything nice to say. It&#39;s fustigate. Want more? Click through for example sentences, word origin, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;e0&#x2F;a1&#x2F;27e0a1d8700d82460149d18a6415264e.jpg" alt="One thing led to another, and concatenation is our Word of the Day. Get example sentences, word origin, and more at the link! " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>light rain</i>), humidity: 80%, pressure: 1006 (mbar), wind: /east/ 3 (m/s), cloudy: 75%</b>
+        <b>3°C (<i>light rain</i>), humidity: 75%, pressure: 1006 (mbar), wind: /north/ 2 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>06:21 am</b> and sets at <b>19:43 pm</b>.
     </p>

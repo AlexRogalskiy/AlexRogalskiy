@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A fast static web server with routing, templating, and security](https://github.com/mufeedvh/binserve)
-- [Mona Lisa with pure CSS in a single div](https://twitter.com/rick_viscomi/status/1377472886500392962)
-- [Why isn't webapp preferred over native app?](https://news.ycombinator.com/item?id=26668479)
-- [UK reports 25 fresh cases of thrombosis associated with the AstraZeneca vaccine](https://eminetra.co.uk/the-uk-reports-25-fresh-cases-of-thrombosis-associated-with-the-astrazeneca-vaccine/388645/)
-- [China officially bans CRISPR babies, human clones and animal-human hybrids](https://biohackinfo.com/news-china-gene-editing-criminal-law-article-336-march-2021/)
-- [Every Noise at Once](https://everynoise.com/)
-- [The Little-Known Data Broker Industry Is Spending Big Bucks Lobbying Congress](https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress)
-- [Space.sh – Server apps and automation in a nutshell](https://space.sh)
-- [Tmux lets you select and copy text with your keyboard](https://ianthehenry.com/posts/tmux-psa/)
-- [China Forcing People to Take Vaccines Against Their Wishes, Reports Suggest](https://www.newsweek.com/china-forcing-people-take-vaccines-against-their-wishes-reports-suggest-1580116)
+- [Show HN: Blok 2.0](https://superstrings.substack.com/)
+- [What are the current “minimum system requirements” for a coding laptop?](https://news.ycombinator.com/item?id=26677888)
+- [Xhtml Club – Extreme HyperText Movement for Luddites](https://xhtml.club/)
+- [oke-autoscaler, a Kubernetes node autoscaler for OKE](https://blog.bytequalia.com/oke-autoscaler-a-kubernetes-cluster-autoscaler-for-oke/)
+- [Chapters/Indigo selling counterfeit text books](https://twitter.com/KevinStandeven/status/1378164251760594945)
+- [AirConnect – Send Audio to Google Home Using AirPlay](https://github.com/philippe44/AirConnect)
+- [Hackers leak Social Security numbers, student data in data breach](https://www.stanforddaily.com/2021/04/01/hackers-leak-social-security-numbers-student-data-in-massive-data-breach/)
+- [AMD Zen 3 CPUs vulnerable to Spectre-like attacks via PSF feature](https://therecord.media/amd-zen-3-cpus-vulnerable-to-spectre-like-attacks-via-psf-feature/)
+- [Sebastian Lague's slime simulation in WebGL2](https://greggman.github.io/doodles/slime/slime.html)
+- [Accellion Data Breach](https://med.stanford.edu/connected/announcements/cybersecurity-incident-2021.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

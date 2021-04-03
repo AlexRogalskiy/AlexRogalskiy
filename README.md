@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Micron chief warns 'severe shortage' of DRAM expected to continue this year](https://www.theregister.com/2021/04/01/dram_shortage_micron/)
-- [Uppestcase and Lowestcase Letters](http://tom7.org/lowercase/)
-- [Show HN: I built Creodocs, a document creation platform based on LaTeX](https://www.creodocs.com)
-- [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
-- [RFC8962: Establishing the Protocol Police](https://www.rfc-editor.org/rfc/rfc8962.txt)
-- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
-- [OpenMW – open-source TES3 Morrowind reimplementation](https://openmw.org/en/)
-- [OpenBSD adds support for Coordinated Mars Time](https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2)
-- [Goblins: A transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/)
-- [Evaluating Search Algorithms](https://shopify.engineering/evaluating-search-algorithms)
+- [Text Blaze (YC W21) Is Hiring a Growth Marketing Lead](https://www.ycombinator.com/companies/text-blaze/jobs/gNeM6CZ-growth-marketing-lead)
+- [Man who thought opening a TXT file is fine thought wrong](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
+- [The matrix calculus you need for deep learning (2018)](https://arxiv.org/abs/1802.01528)
+- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [Cells Form into ‘Xenobots’ on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
+- [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite)
+- [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
+- [RepoKitteh: Github workflow automation using Starlark](https://repokitteh.io)
+- [Securing a Postgres Database](https://goteleport.com/blog/securing-postgres-postgresql/)
+- [Show HN: Box2D fluid simulation in WebGL and WASM](https://birchlabs.co.uk/box2d-wasm-liquidfun/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

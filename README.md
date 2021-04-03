@@ -241,8 +241,19 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647286028566134784" target="_blank"><i>The Year of the Goldfinches</i></a></summary>
-<p>By Ada Limón</p><p>There were two that hung and hovered<br/>by the mud puddle and the musk thistle.<br/>Flitting from one splintered fence post<br/>to another, bathing in the rainwater’s glint<br/>like it was a mirror to some other universe<br/>where things were more acceptable, easier<br/>than the place I lived. I’d watch for them:<br/>the bright peacocking male, the low-watt<br/>female, on each morning walk, days spent<br/>digging for some sort of elusive answer<br/>to the question my curving figure made.<br/>Later, I learned that they were a symbol<br/>of resurrection. Of course they were,<br/>my two yellow-winged twins feasting<br/>on thorns and liking it.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647376652700205056" target="_blank"><i>Trees</i></a></summary>
+<p>by Joyce Kilmer<br/></p><p>I think that I shall never see
+<br/>A poem lovely as a tree.
+<br/>A tree whose hungry mouth is prest
+<br/>Against the earth’s sweet flowing breast;
+<br/>A tree that looks at God all day,
+<br/>And lifts her leafy arms to pray;
+<br/>A tree that may in Summer wear
+<br/>A nest of robins in her hair;
+<br/>Upon whose bosom snow has lain;
+<br/>Who intimately lives with rain.
+<br/>Poems are made by fools like me,
+<br/>But only God can make a tree.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

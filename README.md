@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why is gay conversion therapy still legal in the UK? – podcast](https://www.theguardian.com/news/audio/2021/apr/02/why-is-gay-conversion-therapy-still-legal-uk)
-- [Brazil's gravediggers exhume bodies to make space for Covid victims](https://www.theguardian.com/world/2021/apr/02/brazil-gravediggers-rush-to-exhume-bodies-to-make-space-for-covid-victims)
-- [Strange fruit: how feijoas baffled a New Zealand immigrant – and polarise a nation](https://www.theguardian.com/world/2021/apr/02/strange-fruit-how-feijoas-baffled-a-new-zealand-immigrant-and-polarise-a-nation)
-- [McConnell vows to fight Biden's $2tn infrastructure plan 'every step of the way' – as it happened](https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/02/premier-league-10-things-to-look-out-for-this-weekend)
-- [Teaching union hits out at academy bosses' 'eye-watering' pay](https://www.theguardian.com/education/2021/apr/02/teaching-union-nasuwt-hits-out-academy-bosses-eye-watering-pay)
-- [Video game loot boxes linked to problem gambling, study shows](https://www.theguardian.com/society/2021/apr/02/video-game-loot-boxes-problem-gambling-betting-children)
-- [Talking Horses: Bangkok the one to beat in Good Friday racing highlight](https://www.theguardian.com/sport/blog/2021/apr/02/talking-horses-bangkok-the-one-to-beat-in-good-friday-racing-highlight)
-- [Bristol police chief accepts force was slow to correct protest injury claims](https://www.theguardian.com/uk-news/2021/apr/02/bristol-police-chief-accepts-force-was-slow-to-correct-protest-injury-claims)
-- [Chauvin's supervisor says there was no justification to keep knee on George Floyd’s neck](https://www.theguardian.com/us-news/2021/apr/01/derek-chauvin-supervisor-testimony-george-floyd)
+- [Mozambique: French energy giant Total withdraws after militant attacks](https://www.theguardian.com/world/2021/apr/03/mozambique-french-energy-giant-total-withdraws-after-militant-attacks)
+- [US Capitol: one officer and suspect dead after car rams into barrier](https://www.theguardian.com/us-news/2021/apr/02/us-capitol-lockdown)
+- [Taiwan train crash: prosecutors seek arrest warrant over disaster](https://www.theguardian.com/world/2021/apr/03/taiwan-train-crash-prosecutors-seek-arrest-warrant-over-disaster)
+- [April the giraffe, who gave birth in a viral livestream, dies aged 20](https://www.theguardian.com/us-news/2021/apr/02/april-giraffe-dead-youtube-birth)
+- [Talking Horses: Alright Sunshine hints at glowing form for Musselburgh](https://www.theguardian.com/sport/2021/apr/02/de-sousa-shows-skills-remain-sharp-as-bangkok-edges-to-easter-classic-victory)
+- [UK garden centres and DIY stores expected to rake in £1.4bn over Easter](https://www.theguardian.com/business/2021/apr/03/uk-garden-centres-and-diy-stores-expected-to-rake-in-14bn-over-easter)
+- [Work pressure in Covid lockdown was shattering, say teachers](https://www.theguardian.com/education/2021/apr/03/work-pressure-in-covid-lockdown-was-shattering-say-teachers)
+- [Almost 190,000 UK retail jobs lost since first Covid lockdown](https://www.theguardian.com/business/2021/apr/03/almost-190000-uk-retail-jobs-lost-since-first-covid-lockdown)
+- [English holiday rentals report huge demand for bookings from 12 April](https://www.theguardian.com/business/2021/apr/03/english-holiday-rentals-report-huge-demand-for-bookings-from-12-april)
+- [Care home residents in England to be allowed two visitors from 12 April](https://www.theguardian.com/world/2021/apr/03/care-home-residents-in-england-to-be-allowed-two-visitors-from-12-april)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/If_a_job_s_worth_doing_it_s_worth_doing_well_542.php" target="_blank"><i>If a job's worth doing it's worth doing well</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
 <span> = </span>
-<span>Don't start some work and then do it badly.</span>
+<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

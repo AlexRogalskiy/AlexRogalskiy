@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_2/come_into_2588.php" target="_blank"><i>come into</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/shut_out_2__2842.php" target="_blank"><i>shut out (2)</i></a>
 <span> = </span>
-<span>to be given something after its owner dies</span>
+<span>to stop yourself thinking about or feeling something that upsets you or hurts you<BR><BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

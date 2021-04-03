@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Job requirements](https://www.reddit.com/r/InformationTechnology/comments/mhyjq7/it_job_requirements/)
+- [What is network deauthentication/disassociation and BSS transition](https://www.reddit.com/r/InformationTechnology/comments/mhom1e/what_is_network_deauthenticationdisassociation/)
+- [What should I expect from an interview with the “engineering team”?](https://www.reddit.com/r/InformationTechnology/comments/mhmxss/what_should_i_expect_from_an_interview_with_the/)
+- [Was contacted for a Help desk remote position, but I responded an hour later than I was supposed to?](https://www.reddit.com/r/InformationTechnology/comments/mhh9zs/was_contacted_for_a_help_desk_remote_position_but/)
+- [For the professionals out there, what are the best Certifications or programs I can go through in order to help secure an IT related job?](https://www.reddit.com/r/InformationTechnology/comments/mhcqzc/for_the_professionals_out_there_what_are_the_best/)
+- [After USMC](https://www.reddit.com/r/InformationTechnology/comments/mh9rfw/after_usmc/)
+- [I need help with somehting I've never seen.](https://www.reddit.com/r/InformationTechnology/comments/mh6hs8/i_need_help_with_somehting_ive_never_seen/)
+- [How its the IT industry in Australia [need help]](https://www.reddit.com/r/InformationTechnology/comments/mh2lpo/how_its_the_it_industry_in_australia_need_help/)
+- [For those of you who have a job in IT, how did you get your first entry level position?](https://www.reddit.com/r/InformationTechnology/comments/mgx8d2/for_those_of_you_who_have_a_job_in_it_how_did_you/)
 - [Best Program to use for remote connection?](https://www.reddit.com/r/InformationTechnology/comments/mgnxuk/best_program_to_use_for_remote_connection/)
-- [i have a question, if you racocmand any site for free or low costo applcation for andr. and wind. ?](https://www.reddit.com/r/InformationTechnology/comments/mgllyw/i_have_a_question_if_you_racocmand_any_site_for/)
-- [Help: Capstone Ideas](https://www.reddit.com/r/InformationTechnology/comments/mgaweo/help_capstone_ideas/)
-- [In regards to security and access, what is your personal biggest issue with Office 365 and XaaS's as whole?](https://www.reddit.com/r/InformationTechnology/comments/mg5dx9/in_regards_to_security_and_access_what_is_your/)
-- [Azure, VM Ware training](https://www.reddit.com/r/InformationTechnology/comments/mfrmms/azure_vm_ware_training/)
-- [After advice on U.K. courses/certifications for an IT newbie?](https://www.reddit.com/r/InformationTechnology/comments/mfey6x/after_advice_on_uk_coursescertifications_for_an/)
-- [IT, but I would like to code, too](https://www.reddit.com/r/InformationTechnology/comments/mfchy2/it_but_i_would_like_to_code_too/)
-- [I.T system design student in need of two crypto-savvy users. (all welcome)](https://www.reddit.com/r/InformationTechnology/comments/mfaz9w/it_system_design_student_in_need_of_two/)
-- [Is informatics a good degree?](https://www.reddit.com/r/InformationTechnology/comments/mf076m/is_informatics_a_good_degree/)
-- [I need advice](https://www.reddit.com/r/InformationTechnology/comments/mera4y/i_need_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/a_roller_coaster_a_roller-coaster_ride_351.php" target="_blank"><i>a roller coaster | a roller-coaster ride</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/old_hat_681.php" target="_blank"><i>old hat</i></a>
 <span> = </span>
-<span>You can say an experience is a roller coaster, or a roller-coaster ride, if it involves many emotional highs and lows, or really good times alternating with really difficult times.</span>
+<span>If something is old hat, it's old-fashioned and no longer seen as being modern and new.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple switches off the ‘open web’ by making it better](https://www.computerworld.com/article/3614148/apple-switches-off-the-open-web-by-making-it-better.html#tk.rss_all)
+- [Cisco, with Webex, delicately moves to 'instrument' employees — without violating privacy](https://www.computerworld.com/article/3613910/cisco-with-webex-delicately-moves-to-instrument-employees-without-violating-privacy.html#tk.rss_all)
 - [Podcast: WWDC 2021: What to expect at Apple's June event](https://www.computerworld.com/article/3613915/podcast-wwdc-2021-what-to-expect-at-apples-june-event.html#tk.rss_all)
 - [Cisco adds 'People Insights' analytics to Webex](https://www.computerworld.com/article/3613811/cisco-adds-people-insights-analytics-to-webex.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [How to add powerful voice commands into Chrome on your computer](https://www.computerworld.com/article/3613712/chrome-voice-commands.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Lessons from Jamf on how to support the remote hybrid enterprise](https://www.computerworld.com/article/3613577/lessons-from-jamf-on-how-to-support-the-remote-hybrid-enterprise.html#tk.rss_all)
-- [Microsoft hands IT admins beefed-up Windows release health hub](https://www.computerworld.com/article/3613421/microsoft-hands-it-admins-beefed-up-windows-release-health-hub.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

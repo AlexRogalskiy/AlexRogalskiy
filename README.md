@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [HealthBridge's Low-Code Strategy to Process Medical Claims](https://www.informationweek.com/devops/project-management/healthbridges-low-code-strategy-to-process-medical-claims/a/d-id/1340573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Build a Post-Pandemic AI Strategy for Resilience, Recovery](https://www.informationweek.com/big-data/ai-machine-learning/build-a-post-pandemic-ai-strategy-for-resilience-recovery/a/d-id/1340557?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Does Identity Hinder Hybrid-Cloud and Multi-Cloud Adoption?](https://www.informationweek.com/cloud/does-identity-hinder-hybrid-cloud-and-multi-cloud-adoption/a/d-id/1340562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [New Storage Trends Promise to Help Enterprises Handle a Data Avalanche](https://www.informationweek.com/big-data/new-storage-trends-promise-to-help-enterprises-handle-a-data-avalanche/a/d-id/1340559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Time to Shift Your Job Search Out of Neutral](https://www.informationweek.com/time-to-shift-your-job-search-out-of-neutral/d/d-id/1340548?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How Quickly Are Companies Really Adopting Cloud? It's Complicated](https://www.informationweek.com/cloud/how-quickly-are-companies-really-adopting-cloud-its-complicated/a/d-id/1340504?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What Bain Capital's David Humphrey Sees in Hybrid Cloud](https://www.informationweek.com/cloud/what-bain-capitals-david-humphrey-sees-in-hybrid-cloud/a/d-id/1340494?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

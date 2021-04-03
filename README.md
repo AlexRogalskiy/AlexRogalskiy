@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/T/tail_1237.php" target="_blank"><i>tail</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_2/kickback_1438.php" target="_blank"><i>kickback</i></a>
 <span> = </span>
-<span>a person who's following someone to find out where they're going and what they're doing</span>
+<span>a payment made, often secretly or illegally, to someone who has helped to arrange a deal or a job</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

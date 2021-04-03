@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Apple Won't Make Siri a Female by Default Anymore](https://www.reviewgeek.com/76217/apple-wont-make-siri-a-female-by-default-anymore/)
-* [How to Run Windows 3’s File Manager in Windows 10](https://www.howtogeek.com/721811/how-to-run-windows-3s-file-manager-in-windows-10/)
-* [Netflix and HBO Max Could Lose Universal Studios Content to Peacock](https://www.reviewgeek.com/76162/netflix-and-hbo-max-could-lose-universal-studios-content-to-peacock/)
-* [Ally Bank Tries to Entice Simple Users with New Features](https://www.reviewgeek.com/76134/ally-bank-tries-to-entice-simple-users-with-new-features/)
-* [Facebook Makes Controlling Your News Feed Much Easier](https://www.reviewgeek.com/76129/facebook-makes-controlling-your-news-feed-much-easier/)
-* [All the 2021 April Fool's Day Tech Pranks We Could Stomach](https://www.reviewgeek.com/76067/all-the-2021-april-fools-tech-pranks-we-could-stomach/)
-* [Scam Alert: Roku Will Never Charge for Activation](https://www.reviewgeek.com/76103/scam-alert-roku-will-never-charge-for-activation/)
-* [What’s the Difference between Illustrator and Photoshop?](https://www.howtogeek.com/708590/whats-the-difference-between-illustrator-and-photoshop/)
-* [Microsoft Killed Cortana and No One Will Miss Her](https://www.reviewgeek.com/76073/microsoft-killed-cortana-and-no-one-will-miss-her/)
-* [How to Insert a YouTube Video into a Word Document](https://www.howtogeek.com/718791/how-to-insert-a-youtube-video-into-a-word-document/)
+* [Disney+ Just Added A Bunch of Old 'Star Wars' Cartoons and Films](https://www.reviewgeek.com/76330/disney-just-added-a-bunch-of-old-star-wars-cartoons-and-films/)
+* [Google Will Discontinue its Wifi App, Move Users to Google Home](https://www.reviewgeek.com/76318/google-will-discontinue-its-wifi-app-move-users-to-google-home/)
+* [Samsung's New SmartTag+ Bluetooth Tracker is Up for Pre-Order at B&H](https://www.reviewgeek.com/76321/samsungs-new-smarttag-bluetooth-tracker-is-up-for-pre-order-at-bh/)
+* [Kensington's New Fingerprint Reader Adds Windows Hello to Any Desktop PC](https://www.reviewgeek.com/76300/kensingtons-new-fingerprint-reader-adds-windows-hello-to-any-desktop-pc/)
+* [T-Mobile Makes Google Messages the Default Android SMS App](https://www.reviewgeek.com/76305/t-mobile-makes-google-messages-the-default-android-sms-app/)
+* [Apple Arcade Exclusive 'Fantasian' Is 'Final Fantasy' Creator's Latest RPG](https://www.reviewgeek.com/76282/apple-arcade-exclusive-fantasian-is-final-fantasy-creators-latest-rpg/)
+* [Casio's Rugged G-Shock Series is Getting a Wear OS Smartwatch Option](https://www.reviewgeek.com/76292/casios-rugged-g-shock-series-is-getting-a-wear-os-smartwatch-option/)
+* [How to Personalize the Google Discover Feed on iPhone](https://www.howtogeek.com/721404/how-to-personalize-the-google-discover-feed-on-iphone/)
+* [How to Stop Web Browsers from Asking to Be the Default Browser](https://www.howtogeek.com/718650/how-to-stop-web-browsers-from-asking-to-be-the-default-browser/)
+* [We’re Hiring a Full-Time Smarthome Writer](https://www.howtogeek.com/721910/were-hiring-a-full-time-smarthome-writer/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;15&#x2F;bf&#x2F;79&#x2F;15bf7964fa85b376afa1992237bac887.jpg" alt="Cackleberry is the Word of the Day. No, it&#39;s not a laughing fruit. See where it comes from at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;0e&#x2F;0a&#x2F;f70e0aafaf66c1cb74f908518a84b684.jpg" alt="Passe-partout is the Word of the Day. Wondering how to say it? Learn more at the link! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a9&#x2F;6c&#x2F;93&#x2F;a96c9362c2529648cf90cb0a8e2d321e.jpg" alt="We aren&#39;t joking when we say jocular is the Word of the Day. Want example sentences? Head to Dictionary.com to learn more about how to use this word! #Vocabulary #Writing #English #Learning " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;60&#x2F;12&#x2F;2760121ddad64c1daabca1b9793f47fd.jpg" alt="We aren’t here to argue, but brabble is the Word of the Day. Get example sentences and more at Dictionary.com! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-1°C (<i>clear sky</i>), humidity: 93%, pressure: 1009 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>0°C (<i>light snow</i>), humidity: 80%, pressure: 1009 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:15 am</b> and sets at <b>19:48 pm</b>.
     </p>

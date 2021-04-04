@@ -241,19 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647376652700205056" target="_blank"><i>Trees</i></a></summary>
-<p>by Joyce Kilmer<br/></p><p>I think that I shall never see
-<br/>A poem lovely as a tree.
-<br/>A tree whose hungry mouth is prest
-<br/>Against the earth’s sweet flowing breast;
-<br/>A tree that looks at God all day,
-<br/>And lifts her leafy arms to pray;
-<br/>A tree that may in Summer wear
-<br/>A nest of robins in her hair;
-<br/>Upon whose bosom snow has lain;
-<br/>Who intimately lives with rain.
-<br/>Poems are made by fools like me,
-<br/>But only God can make a tree.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647467204219109376" target="_blank"><i>Greetings My Dear Ghost</i></a></summary>
+<p>by Mary Ruefle</p><p>One thing life has taught me<br/>is that even dolls have bad days,<br/>days when the wind presents its challenges,<br/>you open your mouth, it gets full of grit,<br/>cars are mangled, people are injured,<br/>the Four Noble Truths sealed in a capsule<br/>and sent into space, snowballs<br/>hurled over a few daffodils startle<br/>the piano keys out of their sleep.<br/>Morning, I have just come from there,<br/>they throw big pieces of it down with a smash.<br/>When my doll refuses to speak I say Go, go<br/>where the high, blinding, stately magnificence<br/>of reality is being taught, but not even<br/>a wandering little drift of unidentified sound<br/>comes from her mouth, her face is haunted<br/>in a bloodcurdling way, but that is her way,<br/>her way of saying<br/><i>How sweetly human, the April air.</i><br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

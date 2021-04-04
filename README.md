@@ -327,16 +327,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mozambique: French energy giant Total withdraws after militant attacks](https://www.theguardian.com/world/2021/apr/03/mozambique-french-energy-giant-total-withdraws-after-militant-attacks)
-- [US Capitol: one officer and suspect dead after car rams into barrier](https://www.theguardian.com/us-news/2021/apr/02/us-capitol-lockdown)
-- [Taiwan train crash: prosecutors seek arrest warrant over disaster](https://www.theguardian.com/world/2021/apr/03/taiwan-train-crash-prosecutors-seek-arrest-warrant-over-disaster)
-- [April the giraffe, who gave birth in a viral livestream, dies aged 20](https://www.theguardian.com/us-news/2021/apr/02/april-giraffe-dead-youtube-birth)
-- [Talking Horses: Alright Sunshine hints at glowing form for Musselburgh](https://www.theguardian.com/sport/2021/apr/02/de-sousa-shows-skills-remain-sharp-as-bangkok-edges-to-easter-classic-victory)
-- [UK garden centres and DIY stores expected to rake in £1.4bn over Easter](https://www.theguardian.com/business/2021/apr/03/uk-garden-centres-and-diy-stores-expected-to-rake-in-14bn-over-easter)
-- [Work pressure in Covid lockdown was shattering, say teachers](https://www.theguardian.com/education/2021/apr/03/work-pressure-in-covid-lockdown-was-shattering-say-teachers)
-- [Almost 190,000 UK retail jobs lost since first Covid lockdown](https://www.theguardian.com/business/2021/apr/03/almost-190000-uk-retail-jobs-lost-since-first-covid-lockdown)
-- [English holiday rentals report huge demand for bookings from 12 April](https://www.theguardian.com/business/2021/apr/03/english-holiday-rentals-report-huge-demand-for-bookings-from-12-april)
-- [Care home residents in England to be allowed two visitors from 12 April](https://www.theguardian.com/world/2021/apr/03/care-home-residents-in-england-to-be-allowed-two-visitors-from-12-april)
+- [New Zealand v Australia: first women's ODI – live!](https://www.theguardian.com/sport/live/2021/apr/03/odi-live-new-zealand-vs-australia-womens-cricket-one-day-international-2021-game-1-start-time-today-teams-scores-latest-news)
+- [Rapper DMX hospitalised after heart attack, his lawyer says](https://www.theguardian.com/us-news/2021/apr/04/rapper-dmx-hospitalised-after-heart-attack-his-lawyer-says)
+- [Carl Frampton confirms retirement after Jamel Herring ends title dream](https://www.theguardian.com/sport/2021/apr/03/carl-frampton-confirms-retirement-after-jamel-herring-ends-title-dream)
+- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Details from 500 million Facebook users found on website for hackers](https://www.theguardian.com/technology/2021/apr/03/500-million-facebook-users-website-hackers)
+- [Boris Johnson to give go-ahead for trials of Covid passports](https://www.theguardian.com/world/2021/apr/03/boris-johnson-to-give-go-ahead-for-trials-of-covid-passports)
+- [Florida emergency as phosphate plant pond leak threatens radioactive flood](https://www.theguardian.com/us-news/2021/apr/03/florida-emergency-piney-point-phosphate-plant-pond-leak-radioactive-flood-ron-desantis)
+- [Sergio Agüero a man out of time as Manchester City change around him | Barney Ronay](https://www.theguardian.com/football/blog/2021/apr/03/sergio-aguero-a-man-out-of-time-as-manchester-city-change-around-him)
+- [Jota and Salah earn crucial Liverpool win at Arsenal to boost top-four hopes](https://www.theguardian.com/football/2021/apr/03/arsenal-premier-league-match-report)
+- [Jordan's former crown prince under house arrest over alleged coup](https://www.theguardian.com/world/2021/apr/03/jordans-former-crown-prince-under-house-arrest-over-alleged-coup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/old_hat_681.php" target="_blank"><i>old hat</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/make_ends_meet_721.php" target="_blank"><i>make ends meet</i></a>
 <span> = </span>
-<span>If something is old hat, it's old-fashioned and no longer seen as being modern and new.</span>
+<span>If you make ends meet, you earn just enough to pay for a place to live and your daily expenses.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

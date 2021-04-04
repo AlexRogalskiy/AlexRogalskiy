@@ -174,7 +174,7 @@
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/about.png" alt="Proverb of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Proverb of the Day_
 
 <div id="proverbs_block_id" align="center" style="align-content: center">
-    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled Proverbs" />
+    <img width="100%" height="200px" src="https://styled-proverbs.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled Proverbs" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/document.png" alt="Word of the Day icon" width="30px" height="30px" style="max-width:100%;"> _Word of the Day_
@@ -211,7 +211,8 @@
 <div align="left" style="align-content: flex-start">
 <a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/T/think_back_2866.php" target="_blank"><i>think back</i></a>
 <span> = </span>
-<span>to think about a past event or a past time<BR></span>
+<span>to think about a past event or a past time
+<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

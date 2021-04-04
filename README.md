@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_2/kickback_1438.php" target="_blank"><i>kickback</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/honky_1415.php" target="_blank"><i>honky</i></a>
 <span> = </span>
-<span>a payment made, often secretly or illegally, to someone who has helped to arrange a deal or a job</span>
+<span>a derogatory term in black American slang for a white person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

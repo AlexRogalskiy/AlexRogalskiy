@@ -297,16 +297,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Disney+ Just Added A Bunch of Old 'Star Wars' Cartoons and Films](https://www.reviewgeek.com/76330/disney-just-added-a-bunch-of-old-star-wars-cartoons-and-films/)
-* [Google Will Discontinue its Wifi App, Move Users to Google Home](https://www.reviewgeek.com/76318/google-will-discontinue-its-wifi-app-move-users-to-google-home/)
-* [Samsung's New SmartTag+ Bluetooth Tracker is Up for Pre-Order at B&H](https://www.reviewgeek.com/76321/samsungs-new-smarttag-bluetooth-tracker-is-up-for-pre-order-at-bh/)
-* [Kensington's New Fingerprint Reader Adds Windows Hello to Any Desktop PC](https://www.reviewgeek.com/76300/kensingtons-new-fingerprint-reader-adds-windows-hello-to-any-desktop-pc/)
-* [T-Mobile Makes Google Messages the Default Android SMS App](https://www.reviewgeek.com/76305/t-mobile-makes-google-messages-the-default-android-sms-app/)
-* [Apple Arcade Exclusive 'Fantasian' Is 'Final Fantasy' Creator's Latest RPG](https://www.reviewgeek.com/76282/apple-arcade-exclusive-fantasian-is-final-fantasy-creators-latest-rpg/)
-* [Casio's Rugged G-Shock Series is Getting a Wear OS Smartwatch Option](https://www.reviewgeek.com/76292/casios-rugged-g-shock-series-is-getting-a-wear-os-smartwatch-option/)
-* [How to Personalize the Google Discover Feed on iPhone](https://www.howtogeek.com/721404/how-to-personalize-the-google-discover-feed-on-iphone/)
-* [How to Stop Web Browsers from Asking to Be the Default Browser](https://www.howtogeek.com/718650/how-to-stop-web-browsers-from-asking-to-be-the-default-browser/)
-* [We’re Hiring a Full-Time Smarthome Writer](https://www.howtogeek.com/721910/were-hiring-a-full-time-smarthome-writer/)
+* [What We're Watching: 'my mechanics' Restores Antique Tools and My Soul](https://www.reviewgeek.com/75854/what-were-watching-my-mechanics-restores-antique-tools-and-my-soul/)
+* [Take a Model Train Ride in This Enthusiast's Detailed Video](https://www.reviewgeek.com/76359/take-a-model-train-ride-in-this-enthusiasts-detailed-video/)
+* [How to Use Touch Controls on HomePod Mini](https://www.howtogeek.com/719634/how-to-use-touch-controls-on-homepod-mini/)
+* [The Original iPad Almost Had Two 30-Pin Connectors](https://www.reviewgeek.com/76358/the-original-ipad-almost-had-two-30-pin-connectors/)
+* [Hyundai EVs Recalled Due to Catching Fire When Parked, Charging, or Driving](https://www.reviewgeek.com/76380/hyundai-evs-recalled-due-to-catching-fire-when-parked-charging-or-driving/)
+* [How to Set up Two-Factor Authentication on eBay](https://www.howtogeek.com/718530/how-to-set-up-two-factor-authentication-on-ebay/)
+* [How to Add a Kids Profile to Google TV](https://www.howtogeek.com/721733/how-to-add-a-kids-profile-to-google-tv/)
+* [How to Hide (and Unhide) Menu Items in Adobe Photoshop](https://www.howtogeek.com/718636/how-to-hide-and-unhide-menu-items-in-adobe-photoshop/)
+* [How to Check How Much iCloud Storage You Have Left](https://www.howtogeek.com/715103/how-to-check-how-much-icloud-storage-you-have-left/)
+* [YouTube TV Now Streams Google Play and Movies Anywhere Flicks](https://www.reviewgeek.com/76332/youtube-tv-now-streams-google-play-and-movies-anywhere-flicks/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

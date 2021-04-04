@@ -185,17 +185,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/old_hat_681.php" target="_blank"><i>old hat</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/make_ends_meet_721.php" target="_blank"><i>make ends meet</i></a>
 <span> = </span>
-<span>If something is old hat, it's old-fashioned and no longer seen as being modern and new.</span>
+<span>If you make ends meet, you earn just enough to pay for a place to live and your daily expenses.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_2/kickback_1438.php" target="_blank"><i>kickback</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/honky_1415.php" target="_blank"><i>honky</i></a>
 <span> = </span>
-<span>a payment made, often secretly or illegally, to someone who has helped to arrange a deal or a job</span>
+<span>a derogatory term in black American slang for a white person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;15&#x2F;bf&#x2F;79&#x2F;15bf7964fa85b376afa1992237bac887.jpg" alt="Cackleberry is the Word of the Day. No, it&#39;s not a laughing fruit. See where it comes from at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;0e&#x2F;0a&#x2F;f70e0aafaf66c1cb74f908518a84b684.jpg" alt="Passe-partout is the Word of the Day. Wondering how to say it? Learn more at the link! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a9&#x2F;6c&#x2F;93&#x2F;a96c9362c2529648cf90cb0a8e2d321e.jpg" alt="We aren&#39;t joking when we say jocular is the Word of the Day. Want example sentences? Head to Dictionary.com to learn more about how to use this word! #Vocabulary #Writing #English #Learning " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;60&#x2F;12&#x2F;2760121ddad64c1daabca1b9793f47fd.jpg" alt="We aren’t here to argue, but brabble is the Word of the Day. Get example sentences and more at Dictionary.com! " />
+        <img width="200" src="" alt="" />
+        <img width="200" src="" alt="" />
+        <img width="200" src="" alt="" />
+        <img width="200" src="" alt="" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -241,19 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647376652700205056" target="_blank"><i>Trees</i></a></summary>
-<p>by Joyce Kilmer<br/></p><p>I think that I shall never see
-<br/>A poem lovely as a tree.
-<br/>A tree whose hungry mouth is prest
-<br/>Against the earth’s sweet flowing breast;
-<br/>A tree that looks at God all day,
-<br/>And lifts her leafy arms to pray;
-<br/>A tree that may in Summer wear
-<br/>A nest of robins in her hair;
-<br/>Upon whose bosom snow has lain;
-<br/>Who intimately lives with rain.
-<br/>Poems are made by fools like me,
-<br/>But only God can make a tree.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647467204219109376" target="_blank"><i>Greetings My Dear Ghost</i></a></summary>
+<p>by Mary Ruefle</p><p>One thing life has taught me<br/>is that even dolls have bad days,<br/>days when the wind presents its challenges,<br/>you open your mouth, it gets full of grit,<br/>cars are mangled, people are injured,<br/>the Four Noble Truths sealed in a capsule<br/>and sent into space, snowballs<br/>hurled over a few daffodils startle<br/>the piano keys out of their sleep.<br/>Morning, I have just come from there,<br/>they throw big pieces of it down with a smash.<br/>When my doll refuses to speak I say Go, go<br/>where the high, blinding, stately magnificence<br/>of reality is being taught, but not even<br/>a wandering little drift of unidentified sound<br/>comes from her mouth, her face is haunted<br/>in a bloodcurdling way, but that is her way,<br/>her way of saying<br/><i>How sweetly human, the April air.</i><br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -263,10 +252,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;167975713_738802403403986_2145622971278728114_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;SsGuwwl0sVUAX907CBY&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;230e55e4a34e89e8fe81c901b2a11891&amp;oe&#x3D;608C45A8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Restaurants and cafes that have been opened for the new season ☀️  🌟 Israeli Restaurant &amp;quot;Boker Tov&amp;quot; @bokertovspb - Israeli home-cooked restaurant where you can enjoy large portions of delicious food. One of the highlights of the establishment is the &amp;quot;Running Skewers&amp;quot; dish that combines different types of juicy meat with 12 servings of salads. The waiter will update the plate until the guest says stop. 📍Bolshaya Zelenina St., 2  🌟Coffee shop &amp;quot;Hyggelig&amp;quot; @hyggelig_coffee - a cozy coffee shop with a minimalist interior has been opened on the Petrogradskaya side. In the institution you can taste homemade desserts, enjoy leafy tea and coffee. The center of gravity is a fireplace. Despite of being artificial, it is really warming.  Bolshaya Zelenina St., 2  🌟Brave Goodies @bravegoodies - a coffee shop specializing in brutal desserts that combine traditional baking formats with original fillings. The restaurants hits include signature brownies and bacon pancakes. 📍Kolomyazhsky pr., 17&#x2F;2  🌟Shokumotsu @shokumotsu.spb is a Pan-Asian restaurant in St. Petersburg. The interior is themed - the walls are decorated with the authors painting by master Mikhail Bobylev in the style of Japanese animation. 📍Vyazemskiy lane, 4  -🇷🇺- Рестораны и кафе, которые открылись к новому сезону ☀  ⭐ Израильский ресторан Boker Tov — ресторан израильской домашней кухни, где можно насладиться большими порциями вкуснейших блюд. Одна из изюминок заведения — блюдо, сочетающее в себе разные виды сочного мяса с 12 порциями салатов, «Бегущие шампуры». Официант будет обновлять тарелку, пока гость не скажет &amp;quot;стоп&amp;quot;. 📍 Большая Зеленина ул, 2  ⭐ Кофейня Hyggelig — уютная кофейня с минималистичным интерьером открылась на Петроградской стороне. В заведении можно отведать домашние десерты, насладиться листовым чаем и кофе. Центр притяжения — камин, хоть и искусственный, но греющий по-настоящему. 📍 Большая Зеленина ул, 2  ⭐ Brave Goodies — кофейня специализируется на брутальных десертах, сочетающих в себе традиционные форматы выпечки с оригинальными наполнителями. Среди хитов заведения — фирменные брауни и панкейки с беконом. 📍 Коломяжский пр., 17&#x2F;2  ⬇️Продолжение в комментариях ⬇️" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;166719675_3784509641597935_1822995870071385697_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;Ws1BVsoRtb0AX-OEI4w&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;6f9c43b7b4f868af02e279e6d4c0a302&amp;oe&#x3D;608B9468&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- 😉Got a minute to talk about the regions of the Silver Necklace of Russia?!  We’ll tell you about the must-sees and the specialties one should definitely not miss😎  Let’s start with the Komi Republic @r_komi   The charm of this Ural Republic is not only about its subsoil wealth, deep forests and clean, pleasantly rippling rivers. Komi is imbued with the spirit of its indigenous people Mansi, their customs and legends.  🏞Man-Pupu-Nyor Plateau is a natural monument shrouded in the legends and superstitions of the Mansi. The weathering pillars are 200 million years old. It is the magic riddle of the mysterious Urals. The monument is officially recognized as one of the 7 wonders of Russia . 📸 @liseykina  🌳The Yugyd va National Park is one of the largest in Russia. The name Yugyd va is translated from the Komi language as &amp;quot;light water&amp;quot;. An untouched corner of nature - &amp;quot;the lungs of Europe&amp;quot; - has been under the protection of UNESCO since 1995. 📸 @ilyapuzan  🧝🏼‍♀️The village of Ust-Tsilma is inhabited by descendants of Novgorodians, who did not recognize Nikons church reform. Ritualism, cultural traditions, melodiousness of the Old Russian language have remained untouched by civilization here.  🍴What one should definitely try in the Komi Republic ? 🍺Sur is a country beer - its recipe has been preserved for several centuries. 🥟Shanga that’s how delicious pies with various fillings are called. 🍖Venison is very tender and tasty meat, an excellent gift one can bring from Komi.🥃Cloudberry liqueur is always a natural composition and a pleasant berry taste with only 18% alcohol it is also a great souvenir from the Republic. 📸  Still have questions? Ask them in the commentaries⬇️  If you enjoyed the review, like it, and in the next posts we will reveal the secrets of other regions of the Silver Necklace of Russia✅  -🇷🇺-  😉Поговорим о регионах Серебряного ожерелья России?!  Расскажем о топ местах, обязательных к посещению и о блюдах, которые однозначно стоит попробовать🔝  😍Начнем с Республики Коми @r_komi Очарование этой уральской республики не только в богатстве недр, дремучих лесах и звонких чистых реках.  ⬇️Продолжение в комментариях ⬇️" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;164509491_3739428742801743_786932103711009000_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;5wbMTwyJoS0AX_byBL_&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;0b7342eb9f8a4555966fb7f8717f91ed&amp;oe&#x3D;608E36C6&amp;_nc_sid&#x3D;7bff83" alt="СОХРАНЯЙТЕ 🔥ЛОКАЦИЮ ДЛЯ 📸  📍Оранжерея Таврического сада, Шпалерная 43  ☀️ Здесь очень тепло, поэтому смело можно надевать красивое платье, ведь локаций для 📸 здесь хоть отбавляй!  Тсссссс..... Всеми излюбленное место – кафе на втором этаже, где можно попробовать вкусный кофе, сделать🤩снимки, насладиться прекрасным видом на тропики, а также получить флаер на БЕСПЛАТНОЕ посещение самой оранжереи🤫  Фото @christina_spb_   @orangeryspb #visitpetersburg #местаспб #кудасходитьвпитере #выходные #спб #saintpetersburg #teavel #instagood #selfie #instastop" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;164531396_253900659530470_6009441735440077011_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;ajcSpiTYQh8AX8qQNqX&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;39e460920d0baef6621ca608c952f7a6&amp;oe&#x3D;606A4733&amp;_nc_sid&#x3D;7bff83" alt="Участвуй во Всероссийском конкурсе #странаоткрытий ✌🏼  Сними видеоролик о своих любимых местах в Петербурге, загрузи его в Tik Tok, не забудь добавить хештеги #странаоткрытий и #санктпетербург ❤️  Итоги конкурса ➡️ конец апреля 🏆  Все финалисты получат призы от партнеров конкурса🎁, а также официальный статус амбассадора своего региона 🔝  🥇Победители конкурса отправятся в образовательно-туристическое путешествие «Страна открытий» вместе с известными блогерами и режиссерами на уникальном детском поезде РЖД🥰  Подробности в шапке профиля 📲  📸 @danya_milokhin   #visitpetersburg #tourism #travel #путешествуй #питер #спб #конкурс #россия" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;167975713_738802403403986_2145622971278728114_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;SsGuwwl0sVUAX-VMYjm&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;c7e1cf092437acc9c3c89fc7c559986f&amp;oe&#x3D;608FD4E8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Restaurants and cafes that have been opened for the new season ☀️  🌟 Israeli Restaurant &amp;quot;Boker Tov&amp;quot; @bokertovspb - Israeli home-cooked restaurant where you can enjoy large portions of delicious food. One of the highlights of the establishment is the &amp;quot;Running Skewers&amp;quot; dish that combines different types of juicy meat with 12 servings of salads. The waiter will update the plate until the guest says stop. 📍Bolshaya Zelenina St., 2  🌟Coffee shop &amp;quot;Hyggelig&amp;quot; @hyggelig_coffee - a cozy coffee shop with a minimalist interior has been opened on the Petrogradskaya side. In the institution you can taste homemade desserts, enjoy leafy tea and coffee. The center of gravity is a fireplace. Despite of being artificial, it is really warming.  Bolshaya Zelenina St., 2  🌟Brave Goodies @bravegoodies - a coffee shop specializing in brutal desserts that combine traditional baking formats with original fillings. The restaurants hits include signature brownies and bacon pancakes. 📍Kolomyazhsky pr., 17&#x2F;2  🌟Shokumotsu @shokumotsu.spb is a Pan-Asian restaurant in St. Petersburg. The interior is themed - the walls are decorated with the authors painting by master Mikhail Bobylev in the style of Japanese animation. 📍Vyazemskiy lane, 4  -🇷🇺- Рестораны и кафе, которые открылись к новому сезону ☀  ⭐ Израильский ресторан Boker Tov — ресторан израильской домашней кухни, где можно насладиться большими порциями вкуснейших блюд. Одна из изюминок заведения — блюдо, сочетающее в себе разные виды сочного мяса с 12 порциями салатов, «Бегущие шампуры». Официант будет обновлять тарелку, пока гость не скажет &amp;quot;стоп&amp;quot;. 📍 Большая Зеленина ул, 2  ⭐ Кофейня Hyggelig — уютная кофейня с минималистичным интерьером открылась на Петроградской стороне. В заведении можно отведать домашние десерты, насладиться листовым чаем и кофе. Центр притяжения — камин, хоть и искусственный, но греющий по-настоящему. 📍 Большая Зеленина ул, 2  ⭐ Brave Goodies — кофейня специализируется на брутальных десертах, сочетающих в себе традиционные форматы выпечки с оригинальными наполнителями. Среди хитов заведения — фирменные брауни и панкейки с беконом. 📍 Коломяжский пр., 17&#x2F;2  ⬇️Продолжение в комментариях ⬇️" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;166719675_3784509641597935_1822995870071385697_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;Ws1BVsoRtb0AX_3D9_s&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;250adbb0a48647200e5a9c2d28cd43df&amp;oe&#x3D;608F23A8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- 😉Got a minute to talk about the regions of the Silver Necklace of Russia?!  We’ll tell you about the must-sees and the specialties one should definitely not miss😎  Let’s start with the Komi Republic @r_komi   The charm of this Ural Republic is not only about its subsoil wealth, deep forests and clean, pleasantly rippling rivers. Komi is imbued with the spirit of its indigenous people Mansi, their customs and legends.  🏞Man-Pupu-Nyor Plateau is a natural monument shrouded in the legends and superstitions of the Mansi. The weathering pillars are 200 million years old. It is the magic riddle of the mysterious Urals. The monument is officially recognized as one of the 7 wonders of Russia . 📸 @liseykina  🌳The Yugyd va National Park is one of the largest in Russia. The name Yugyd va is translated from the Komi language as &amp;quot;light water&amp;quot;. An untouched corner of nature - &amp;quot;the lungs of Europe&amp;quot; - has been under the protection of UNESCO since 1995. 📸 @ilyapuzan  🧝🏼‍♀️The village of Ust-Tsilma is inhabited by descendants of Novgorodians, who did not recognize Nikons church reform. Ritualism, cultural traditions, melodiousness of the Old Russian language have remained untouched by civilization here.  🍴What one should definitely try in the Komi Republic ? 🍺Sur is a country beer - its recipe has been preserved for several centuries. 🥟Shanga that’s how delicious pies with various fillings are called. 🍖Venison is very tender and tasty meat, an excellent gift one can bring from Komi.🥃Cloudberry liqueur is always a natural composition and a pleasant berry taste with only 18% alcohol it is also a great souvenir from the Republic. 📸  Still have questions? Ask them in the commentaries⬇️  If you enjoyed the review, like it, and in the next posts we will reveal the secrets of other regions of the Silver Necklace of Russia✅  -🇷🇺-  😉Поговорим о регионах Серебряного ожерелья России?!  Расскажем о топ местах, обязательных к посещению и о блюдах, которые однозначно стоит попробовать🔝  😍Начнем с Республики Коми @r_komi Очарование этой уральской республики не только в богатстве недр, дремучих лесах и звонких чистых реках.  ⬇️Продолжение в комментариях ⬇️" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;164509491_3739428742801743_786932103711009000_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;57n3OBFBs2wAX-YT26X&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;122319bb95dc0358440e1f3e0bc14733&amp;oe&#x3D;608E36C6&amp;_nc_sid&#x3D;7bff83" alt="СОХРАНЯЙТЕ 🔥ЛОКАЦИЮ ДЛЯ 📸  📍Оранжерея Таврического сада, Шпалерная 43  ☀️ Здесь очень тепло, поэтому смело можно надевать красивое платье, ведь локаций для 📸 здесь хоть отбавляй!  Тсссссс..... Всеми излюбленное место – кафе на втором этаже, где можно попробовать вкусный кофе, сделать🤩снимки, насладиться прекрасным видом на тропики, а также получить флаер на БЕСПЛАТНОЕ посещение самой оранжереи🤫  Фото @christina_spb_   @orangeryspb #visitpetersburg #местаспб #кудасходитьвпитере #выходные #спб #saintpetersburg #teavel #instagood #selfie #instastop" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.90.720.720a&#x2F;s640x640&#x2F;164531396_253900659530470_6009441735440077011_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;ajcSpiTYQh8AX_JlIFD&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;2667dfba8308f1f6d354710a08742ff4&amp;oe&#x3D;606B98B3&amp;_nc_sid&#x3D;7bff83" alt="Участвуй во Всероссийском конкурсе #странаоткрытий ✌🏼  Сними видеоролик о своих любимых местах в Петербурге, загрузи его в Tik Tok, не забудь добавить хештеги #странаоткрытий и #санктпетербург ❤️  Итоги конкурса ➡️ конец апреля 🏆  Все финалисты получат призы от партнеров конкурса🎁, а также официальный статус амбассадора своего региона 🔝  🥇Победители конкурса отправятся в образовательно-туристическое путешествие «Страна открытий» вместе с известными блогерами и режиссерами на уникальном детском поезде РЖД🥰  Подробности в шапке профиля 📲  📸 @danya_milokhin   #visitpetersburg #tourism #travel #путешествуй #питер #спб #конкурс #россия" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -284,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>light snow</i>), humidity: 86%, pressure: 1009 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>-1°C (<i>clear sky</i>), humidity: 93%, pressure: 1009 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:15 am</b> and sets at <b>19:48 pm</b>.
     </p>
@@ -297,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Disney+ Just Added A Bunch of Old 'Star Wars' Cartoons and Films](https://www.reviewgeek.com/76330/disney-just-added-a-bunch-of-old-star-wars-cartoons-and-films/)
-* [Google Will Discontinue its Wifi App, Move Users to Google Home](https://www.reviewgeek.com/76318/google-will-discontinue-its-wifi-app-move-users-to-google-home/)
-* [Samsung's New SmartTag+ Bluetooth Tracker is Up for Pre-Order at B&H](https://www.reviewgeek.com/76321/samsungs-new-smarttag-bluetooth-tracker-is-up-for-pre-order-at-bh/)
-* [Kensington's New Fingerprint Reader Adds Windows Hello to Any Desktop PC](https://www.reviewgeek.com/76300/kensingtons-new-fingerprint-reader-adds-windows-hello-to-any-desktop-pc/)
-* [T-Mobile Makes Google Messages the Default Android SMS App](https://www.reviewgeek.com/76305/t-mobile-makes-google-messages-the-default-android-sms-app/)
-* [Apple Arcade Exclusive 'Fantasian' Is 'Final Fantasy' Creator's Latest RPG](https://www.reviewgeek.com/76282/apple-arcade-exclusive-fantasian-is-final-fantasy-creators-latest-rpg/)
-* [Casio's Rugged G-Shock Series is Getting a Wear OS Smartwatch Option](https://www.reviewgeek.com/76292/casios-rugged-g-shock-series-is-getting-a-wear-os-smartwatch-option/)
-* [How to Personalize the Google Discover Feed on iPhone](https://www.howtogeek.com/721404/how-to-personalize-the-google-discover-feed-on-iphone/)
-* [How to Stop Web Browsers from Asking to Be the Default Browser](https://www.howtogeek.com/718650/how-to-stop-web-browsers-from-asking-to-be-the-default-browser/)
-* [We’re Hiring a Full-Time Smarthome Writer](https://www.howtogeek.com/721910/were-hiring-a-full-time-smarthome-writer/)
+* [What We're Watching: 'my mechanics' Restores Antique Tools and My Soul](https://www.reviewgeek.com/75854/what-were-watching-my-mechanics-restores-antique-tools-and-my-soul/)
+* [Take a Model Train Ride in This Enthusiast's Detailed Video](https://www.reviewgeek.com/76359/take-a-model-train-ride-in-this-enthusiasts-detailed-video/)
+* [How to Use Touch Controls on HomePod Mini](https://www.howtogeek.com/719634/how-to-use-touch-controls-on-homepod-mini/)
+* [The Original iPad Almost Had Two 30-Pin Connectors](https://www.reviewgeek.com/76358/the-original-ipad-almost-had-two-30-pin-connectors/)
+* [Hyundai EVs Recalled Due to Catching Fire When Parked, Charging, or Driving](https://www.reviewgeek.com/76380/hyundai-evs-recalled-due-to-catching-fire-when-parked-charging-or-driving/)
+* [How to Set up Two-Factor Authentication on eBay](https://www.howtogeek.com/718530/how-to-set-up-two-factor-authentication-on-ebay/)
+* [How to Add a Kids Profile to Google TV](https://www.howtogeek.com/721733/how-to-add-a-kids-profile-to-google-tv/)
+* [How to Hide (and Unhide) Menu Items in Adobe Photoshop](https://www.howtogeek.com/718636/how-to-hide-and-unhide-menu-items-in-adobe-photoshop/)
+* [How to Check How Much iCloud Storage You Have Left](https://www.howtogeek.com/715103/how-to-check-how-much-icloud-storage-you-have-left/)
+* [YouTube TV Now Streams Google Play and Movies Anywhere Flicks](https://www.reviewgeek.com/76332/youtube-tv-now-streams-google-play-and-movies-anywhere-flicks/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Blok 2.0](https://superstrings.substack.com/)
-- [What are the current “minimum system requirements” for a coding laptop?](https://news.ycombinator.com/item?id=26677888)
-- [Xhtml Club – Extreme HyperText Movement for Luddites](https://xhtml.club/)
-- [oke-autoscaler, a Kubernetes node autoscaler for OKE](https://blog.bytequalia.com/oke-autoscaler-a-kubernetes-cluster-autoscaler-for-oke/)
-- [Chapters/Indigo selling counterfeit text books](https://twitter.com/KevinStandeven/status/1378164251760594945)
-- [AirConnect – Send Audio to Google Home Using AirPlay](https://github.com/philippe44/AirConnect)
-- [Hackers leak Social Security numbers, student data in data breach](https://www.stanforddaily.com/2021/04/01/hackers-leak-social-security-numbers-student-data-in-massive-data-breach/)
-- [AMD Zen 3 CPUs vulnerable to Spectre-like attacks via PSF feature](https://therecord.media/amd-zen-3-cpus-vulnerable-to-spectre-like-attacks-via-psf-feature/)
-- [Sebastian Lague's slime simulation in WebGL2](https://greggman.github.io/doodles/slime/slime.html)
-- [Accellion Data Breach](https://med.stanford.edu/connected/announcements/cybersecurity-incident-2021.html)
+- [Trump used dark patterns to trick supporters into donating more than intended](https://www.theverge.com/2021/4/3/22365952/trump-dark-patterns-trick-supporters-recurring-donation-winred-gary-coby)
+- [The Greatest Marketing Minds of Our Time](https://capitalandgrowth.org/answers/2981185/Who-are-the-greatest-marketing-minds-of-our-time-last-20-years)
+- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
+- [China launches musical in bid to counter Uyghur abuse allegations](https://www.theguardian.com/world/2021/apr/03/china-launches-musical-in-bid-to-counter-uyghur-abuse-allegations)
+- [Do you know that you can make money online for free](https://sites.google.com/view/rank/home)
+- [Graduate Study in the Computer and Mathematical Sciences: A Survival Manual](http://www.cs.umd.edu/~oleary/gradstudy/)
+- [Watch “I am a New York City landlord and I'm Homeless.” on YouTube](https://www.youtube.com/watch?v=Y7pbAnaHxXg)
+- [OP-DITTO: Proper 2nd analog stick mod for the PSP](https://github.com/Operation-DITTO/Operation-DITTO)
+- [The Crimson Klan](https://www.thecrimson.com/article/2021/3/25/harvard-klan-scrut/)
+- [NFT Price Crash Stirs Debate on Whether Stimulus-Led Fad Is Over](https://www.bloomberg.com/news/articles/2021-04-03/nft-price-crash-stirs-debate-on-whether-stimulus-led-fad-is-over)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mozambique: French energy giant Total withdraws after militant attacks](https://www.theguardian.com/world/2021/apr/03/mozambique-french-energy-giant-total-withdraws-after-militant-attacks)
-- [US Capitol: one officer and suspect dead after car rams into barrier](https://www.theguardian.com/us-news/2021/apr/02/us-capitol-lockdown)
-- [Taiwan train crash: prosecutors seek arrest warrant over disaster](https://www.theguardian.com/world/2021/apr/03/taiwan-train-crash-prosecutors-seek-arrest-warrant-over-disaster)
-- [April the giraffe, who gave birth in a viral livestream, dies aged 20](https://www.theguardian.com/us-news/2021/apr/02/april-giraffe-dead-youtube-birth)
-- [Talking Horses: Alright Sunshine hints at glowing form for Musselburgh](https://www.theguardian.com/sport/2021/apr/02/de-sousa-shows-skills-remain-sharp-as-bangkok-edges-to-easter-classic-victory)
-- [UK garden centres and DIY stores expected to rake in £1.4bn over Easter](https://www.theguardian.com/business/2021/apr/03/uk-garden-centres-and-diy-stores-expected-to-rake-in-14bn-over-easter)
-- [Work pressure in Covid lockdown was shattering, say teachers](https://www.theguardian.com/education/2021/apr/03/work-pressure-in-covid-lockdown-was-shattering-say-teachers)
-- [Almost 190,000 UK retail jobs lost since first Covid lockdown](https://www.theguardian.com/business/2021/apr/03/almost-190000-uk-retail-jobs-lost-since-first-covid-lockdown)
-- [English holiday rentals report huge demand for bookings from 12 April](https://www.theguardian.com/business/2021/apr/03/english-holiday-rentals-report-huge-demand-for-bookings-from-12-april)
-- [Care home residents in England to be allowed two visitors from 12 April](https://www.theguardian.com/world/2021/apr/03/care-home-residents-in-england-to-be-allowed-two-visitors-from-12-april)
+- [New Zealand v Australia: first women's ODI – live!](https://www.theguardian.com/sport/live/2021/apr/03/odi-live-new-zealand-vs-australia-womens-cricket-one-day-international-2021-game-1-start-time-today-teams-scores-latest-news)
+- [Rapper DMX hospitalised after heart attack, his lawyer says](https://www.theguardian.com/us-news/2021/apr/04/rapper-dmx-hospitalised-after-heart-attack-his-lawyer-says)
+- [Carl Frampton confirms retirement after Jamel Herring ends title dream](https://www.theguardian.com/sport/2021/apr/03/carl-frampton-confirms-retirement-after-jamel-herring-ends-title-dream)
+- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Details from 500 million Facebook users found on website for hackers](https://www.theguardian.com/technology/2021/apr/03/500-million-facebook-users-website-hackers)
+- [Boris Johnson to give go-ahead for trials of Covid passports](https://www.theguardian.com/world/2021/apr/03/boris-johnson-to-give-go-ahead-for-trials-of-covid-passports)
+- [Florida emergency as phosphate plant pond leak threatens radioactive flood](https://www.theguardian.com/us-news/2021/apr/03/florida-emergency-piney-point-phosphate-plant-pond-leak-radioactive-flood-ron-desantis)
+- [Sergio Agüero a man out of time as Manchester City change around him | Barney Ronay](https://www.theguardian.com/football/blog/2021/apr/03/sergio-aguero-a-man-out-of-time-as-manchester-city-change-around-him)
+- [Jota and Salah earn crucial Liverpool win at Arsenal to boost top-four hopes](https://www.theguardian.com/football/2021/apr/03/arsenal-premier-league-match-report)
+- [Jordan's former crown prince under house arrest over alleged coup](https://www.theguardian.com/world/2021/apr/03/jordans-former-crown-prince-under-house-arrest-over-alleged-coup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Text Blaze (YC W21) Is Hiring a Growth Marketing Lead](https://www.ycombinator.com/companies/text-blaze/jobs/gNeM6CZ-growth-marketing-lead)
-- [Man who thought opening a TXT file is fine thought wrong](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
-- [The matrix calculus you need for deep learning (2018)](https://arxiv.org/abs/1802.01528)
-- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-- [Cells Form into ‘Xenobots’ on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
-- [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite)
-- [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
-- [RepoKitteh: Github workflow automation using Starlark](https://repokitteh.io)
-- [Securing a Postgres Database](https://goteleport.com/blog/securing-postgres-postgresql/)
-- [Show HN: Box2D fluid simulation in WebGL and WASM](https://birchlabs.co.uk/box2d-wasm-liquidfun/)
+- [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
+- [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
+- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
+- [Staying awake: the surprisingly effective way to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+- [Tales from Prediction Markets](https://misinfounderload.substack.com/p/tales-from-prediction-markets)
+- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
+- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
+- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
+- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
+- [A Simplified E-graph Implementation](https://www.philipzucker.com/a-simplified-egraph/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -417,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stupid Questions Thread](https://www.reddit.com/r/InformationTechnology/comments/mibf5p/stupid_questions_thread/)
 - [IT Job requirements](https://www.reddit.com/r/InformationTechnology/comments/mhyjq7/it_job_requirements/)
 - [What is network deauthentication/disassociation and BSS transition](https://www.reddit.com/r/InformationTechnology/comments/mhom1e/what_is_network_deauthenticationdisassociation/)
 - [What should I expect from an interview with the “engineering team”?](https://www.reddit.com/r/InformationTechnology/comments/mhmxss/what_should_i_expect_from_an_interview_with_the/)
@@ -426,7 +416,6 @@
 - [I need help with somehting I've never seen.](https://www.reddit.com/r/InformationTechnology/comments/mh6hs8/i_need_help_with_somehting_ive_never_seen/)
 - [How its the IT industry in Australia [need help]](https://www.reddit.com/r/InformationTechnology/comments/mh2lpo/how_its_the_it_industry_in_australia_need_help/)
 - [For those of you who have a job in IT, how did you get your first entry level position?](https://www.reddit.com/r/InformationTechnology/comments/mgx8d2/for_those_of_you_who_have_a_job_in_it_how_did_you/)
-- [Best Program to use for remote connection?](https://www.reddit.com/r/InformationTechnology/comments/mgnxuk/best_program_to_use_for_remote_connection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

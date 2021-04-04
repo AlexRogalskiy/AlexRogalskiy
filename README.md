@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Patience/They_also_serve_who_only_stand_and_wait_911.php" target="_blank"><i>They also serve who only stand and wait</i></a>
 <span> = </span>
-<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
+<span>We all have a place in this world and we all perform a function, regardless of our ability or disability. The word order of this sentence may make it more difficult to understand. In normal English it would be something like: "They (those people) who only stand and wait, also serve."</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

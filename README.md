@@ -312,16 +312,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Blok 2.0](https://superstrings.substack.com/)
-- [What are the current “minimum system requirements” for a coding laptop?](https://news.ycombinator.com/item?id=26677888)
-- [Xhtml Club – Extreme HyperText Movement for Luddites](https://xhtml.club/)
-- [oke-autoscaler, a Kubernetes node autoscaler for OKE](https://blog.bytequalia.com/oke-autoscaler-a-kubernetes-cluster-autoscaler-for-oke/)
-- [Chapters/Indigo selling counterfeit text books](https://twitter.com/KevinStandeven/status/1378164251760594945)
-- [AirConnect – Send Audio to Google Home Using AirPlay](https://github.com/philippe44/AirConnect)
-- [Hackers leak Social Security numbers, student data in data breach](https://www.stanforddaily.com/2021/04/01/hackers-leak-social-security-numbers-student-data-in-massive-data-breach/)
-- [AMD Zen 3 CPUs vulnerable to Spectre-like attacks via PSF feature](https://therecord.media/amd-zen-3-cpus-vulnerable-to-spectre-like-attacks-via-psf-feature/)
-- [Sebastian Lague's slime simulation in WebGL2](https://greggman.github.io/doodles/slime/slime.html)
-- [Accellion Data Breach](https://med.stanford.edu/connected/announcements/cybersecurity-incident-2021.html)
+- [Trump used dark patterns to trick supporters into donating more than intended](https://www.theverge.com/2021/4/3/22365952/trump-dark-patterns-trick-supporters-recurring-donation-winred-gary-coby)
+- [The Greatest Marketing Minds of Our Time](https://capitalandgrowth.org/answers/2981185/Who-are-the-greatest-marketing-minds-of-our-time-last-20-years)
+- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
+- [China launches musical in bid to counter Uyghur abuse allegations](https://www.theguardian.com/world/2021/apr/03/china-launches-musical-in-bid-to-counter-uyghur-abuse-allegations)
+- [Do you know that you can make money online for free](https://sites.google.com/view/rank/home)
+- [Graduate Study in the Computer and Mathematical Sciences: A Survival Manual](http://www.cs.umd.edu/~oleary/gradstudy/)
+- [Watch “I am a New York City landlord and I'm Homeless.” on YouTube](https://www.youtube.com/watch?v=Y7pbAnaHxXg)
+- [OP-DITTO: Proper 2nd analog stick mod for the PSP](https://github.com/Operation-DITTO/Operation-DITTO)
+- [The Crimson Klan](https://www.thecrimson.com/article/2021/3/25/harvard-klan-scrut/)
+- [NFT Price Crash Stirs Debate on Whether Stimulus-Led Fad Is Over](https://www.bloomberg.com/news/articles/2021-04-03/nft-price-crash-stirs-debate-on-whether-stimulus-led-fad-is-over)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

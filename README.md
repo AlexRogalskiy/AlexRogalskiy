@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/make_ends_meet_721.php" target="_blank"><i>make ends meet</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/a_jack_of_all_trades_78.php" target="_blank"><i>a jack of all trades</i></a>
 <span> = </span>
-<span>If you make ends meet, you earn just enough to pay for a place to live and your daily expenses.</span>
+<span>If you're a jack of all trades, you have many skills and can do many different jobs.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

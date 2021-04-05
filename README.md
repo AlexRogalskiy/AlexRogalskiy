@@ -317,16 +317,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: first women's ODI – live!](https://www.theguardian.com/sport/live/2021/apr/03/odi-live-new-zealand-vs-australia-womens-cricket-one-day-international-2021-game-1-start-time-today-teams-scores-latest-news)
-- [Rapper DMX hospitalised after heart attack, his lawyer says](https://www.theguardian.com/us-news/2021/apr/04/rapper-dmx-hospitalised-after-heart-attack-his-lawyer-says)
-- [Carl Frampton confirms retirement after Jamel Herring ends title dream](https://www.theguardian.com/sport/2021/apr/03/carl-frampton-confirms-retirement-after-jamel-herring-ends-title-dream)
-- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Details from 500 million Facebook users found on website for hackers](https://www.theguardian.com/technology/2021/apr/03/500-million-facebook-users-website-hackers)
-- [Boris Johnson to give go-ahead for trials of Covid passports](https://www.theguardian.com/world/2021/apr/03/boris-johnson-to-give-go-ahead-for-trials-of-covid-passports)
-- [Florida emergency as phosphate plant pond leak threatens radioactive flood](https://www.theguardian.com/us-news/2021/apr/03/florida-emergency-piney-point-phosphate-plant-pond-leak-radioactive-flood-ron-desantis)
-- [Sergio Agüero a man out of time as Manchester City change around him | Barney Ronay](https://www.theguardian.com/football/blog/2021/apr/03/sergio-aguero-a-man-out-of-time-as-manchester-city-change-around-him)
-- [Jota and Salah earn crucial Liverpool win at Arsenal to boost top-four hopes](https://www.theguardian.com/football/2021/apr/03/arsenal-premier-league-match-report)
-- [Jordan's former crown prince under house arrest over alleged coup](https://www.theguardian.com/world/2021/apr/03/jordans-former-crown-prince-under-house-arrest-over-alleged-coup)
+- [A year of Keir: has the Covid pandemic sidelined Labour's leader?](https://www.theguardian.com/news/audio/2021/apr/05/a-year-of-keir-has-the-covid-pandemic-sidelined-labours-leader)
+- [Thai tourist island of Phuket gets Covid jabs first in race to offer quarantine-free holidays](https://www.theguardian.com/world/2021/apr/05/thailand-tourism-phuket-covid-jabs-quarantine-holidays)
+- [EU sounds alarm at Russian troops' Ukraine border moves](https://www.theguardian.com/world/2021/apr/05/eu-sounds-alarm-at-russian-troops-ukraine-border-moves)
+- [Taiwan train crash: truck driver expresses 'deep remorse' over disaster](https://www.theguardian.com/world/2021/apr/05/taiwan-train-crash-truck-driver-expresses-deep-remorse-over-disaster)
+- [More than 50 die in flash floods in Indonesia and Timor-Leste](https://www.theguardian.com/world/2021/apr/05/indonesia-timor-leste-floods-deaths-landslides)
+- [Northern Ireland: police attacked in another night of disturbances](https://www.theguardian.com/uk-news/2021/apr/05/northern-ireland-police-attacked-in-another-night-of-disturbances)
+- [Number of young people with driving licence in Great Britain at lowest on record](https://www.theguardian.com/money/2021/apr/05/number-of-young-people-with-driving-licence-in-great-britain-at-lowest-on-record)
+- [Number of gamblers trying to block themselves online surges](https://www.theguardian.com/society/2021/apr/05/number-of-gamblers-trying-to-block-themselves-online-surges)
+- [Everyone in England to be offered twice-weekly Covid tests, PM to say](https://www.theguardian.com/world/2021/apr/05/twice-weekly-lateral-flow-covid-tests-england-lockdown-boris-johnson)
+- ['Incredibly relieved': Australian couple freed from house arrest in Myanmar](https://www.theguardian.com/australia-news/2021/apr/05/incredibly-relieved-australian-couple-freed-from-house-arrest-in-myanmar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

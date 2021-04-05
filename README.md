@@ -242,8 +242,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647467204219109376" target="_blank"><i>Greetings My Dear Ghost</i></a></summary>
-<p>by Mary Ruefle</p><p>One thing life has taught me<br/>is that even dolls have bad days,<br/>days when the wind presents its challenges,<br/>you open your mouth, it gets full of grit,<br/>cars are mangled, people are injured,<br/>the Four Noble Truths sealed in a capsule<br/>and sent into space, snowballs<br/>hurled over a few daffodils startle<br/>the piano keys out of their sleep.<br/>Morning, I have just come from there,<br/>they throw big pieces of it down with a smash.<br/>When my doll refuses to speak I say Go, go<br/>where the high, blinding, stately magnificence<br/>of reality is being taught, but not even<br/>a wandering little drift of unidentified sound<br/>comes from her mouth, her face is haunted<br/>in a bloodcurdling way, but that is her way,<br/>her way of saying<br/><i>How sweetly human, the April air.</i><br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/647557793728102400" target="_blank"><i>Spring Thaw</i></a></summary>
+<p>by Gordon Gilsdorf</p><p>Most things<br/>die reluctantly,<br/>clinging<br/>to the life<br/>they know,<br/><br/>like snow<br/>trying to hold<br/>the land<br/>far beyond<br/>the middle<br/>of March.<br/><br/>How can it know<br/>that April<br/>will not have<br/>violets without warm rains<br/><br/>and that<br/>surrender<br/>is the only way<br/>to inherit<br/>the earth?
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

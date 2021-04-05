@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/make_ends_meet_721.php" target="_blank"><i>make ends meet</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/a_jack_of_all_trades_78.php" target="_blank"><i>a jack of all trades</i></a>
 <span> = </span>
-<span>If you make ends meet, you earn just enough to pay for a place to live and your daily expenses.</span>
+<span>If you're a jack of all trades, you have many skills and can do many different jobs.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -242,8 +242,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647467204219109376" target="_blank"><i>Greetings My Dear Ghost</i></a></summary>
-<p>by Mary Ruefle</p><p>One thing life has taught me<br/>is that even dolls have bad days,<br/>days when the wind presents its challenges,<br/>you open your mouth, it gets full of grit,<br/>cars are mangled, people are injured,<br/>the Four Noble Truths sealed in a capsule<br/>and sent into space, snowballs<br/>hurled over a few daffodils startle<br/>the piano keys out of their sleep.<br/>Morning, I have just come from there,<br/>they throw big pieces of it down with a smash.<br/>When my doll refuses to speak I say Go, go<br/>where the high, blinding, stately magnificence<br/>of reality is being taught, but not even<br/>a wandering little drift of unidentified sound<br/>comes from her mouth, her face is haunted<br/>in a bloodcurdling way, but that is her way,<br/>her way of saying<br/><i>How sweetly human, the April air.</i><br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/647557793728102400" target="_blank"><i>Spring Thaw</i></a></summary>
+<p>by Gordon Gilsdorf</p><p>Most things<br/>die reluctantly,<br/>clinging<br/>to the life<br/>they know,<br/><br/>like snow<br/>trying to hold<br/>the land<br/>far beyond<br/>the middle<br/>of March.<br/><br/>How can it know<br/>that April<br/>will not have<br/>violets without warm rains<br/><br/>and that<br/>surrender<br/>is the only way<br/>to inherit<br/>the earth?
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -274,7 +275,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>clear sky</i>), humidity: 80%, pressure: 993 (mbar), wind: /south/ 4 (m/s), cloudy: 0%</b>
+        <b>3°C (<i>broken clouds</i>), humidity: 70%, pressure: 991 (mbar), wind: /south/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>06:12 am</b> and sets at <b>19:50 pm</b>.
     </p>
@@ -287,61 +288,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'my mechanics' Restores Antique Tools and My Soul](https://www.reviewgeek.com/75854/what-were-watching-my-mechanics-restores-antique-tools-and-my-soul/)
-* [Take a Model Train Ride in This Enthusiast's Detailed Video](https://www.reviewgeek.com/76359/take-a-model-train-ride-in-this-enthusiasts-detailed-video/)
-* [How to Use Touch Controls on HomePod Mini](https://www.howtogeek.com/719634/how-to-use-touch-controls-on-homepod-mini/)
-* [The Original iPad Almost Had Two 30-Pin Connectors](https://www.reviewgeek.com/76358/the-original-ipad-almost-had-two-30-pin-connectors/)
-* [Hyundai EVs Recalled Due to Catching Fire When Parked, Charging, or Driving](https://www.reviewgeek.com/76380/hyundai-evs-recalled-due-to-catching-fire-when-parked-charging-or-driving/)
-* [How to Set up Two-Factor Authentication on eBay](https://www.howtogeek.com/718530/how-to-set-up-two-factor-authentication-on-ebay/)
-* [How to Add a Kids Profile to Google TV](https://www.howtogeek.com/721733/how-to-add-a-kids-profile-to-google-tv/)
-* [How to Hide (and Unhide) Menu Items in Adobe Photoshop](https://www.howtogeek.com/718636/how-to-hide-and-unhide-menu-items-in-adobe-photoshop/)
-* [How to Check How Much iCloud Storage You Have Left](https://www.howtogeek.com/715103/how-to-check-how-much-icloud-storage-you-have-left/)
-* [YouTube TV Now Streams Google Play and Movies Anywhere Flicks](https://www.reviewgeek.com/76332/youtube-tv-now-streams-google-play-and-movies-anywhere-flicks/)
+* [See Industrial Light and Magic's Enormous LED Set for 'The Mandalorian'](https://www.reviewgeek.com/76393/see-industrial-light-and-magics-enormous-led-set-for-the-mandalorian/)
+* [NASA's Sonification Project Lets You Listen to Stars and Black Holes](https://www.reviewgeek.com/76381/nasas-sonification-project-lets-you-listen-to-stars-and-black-holes/)
+* [How to Send Emails to Undisclosed Recipients in Gmail](https://www.howtogeek.com/717924/how-to-send-emails-to-undisclosed-recipients-in-gmail/)
+* [Here's What It's Like to Fly into a Volcano (from a Drone's Perspective)](https://www.reviewgeek.com/76365/heres-what-its-like-to-fly-into-a-volcano-from-a-drones-perspective/)
+* [Sideload Helper Breathes New Life Into Pebble Smartwatches](https://www.reviewgeek.com/76354/sideload-helper-breathes-new-life-into-pebble-smartwatches/)
+* [How to Check Someone’s Availability in Google Calendar](https://www.howtogeek.com/717167/how-to-check-someones-availability-in-google-calendar/)
+* [What Is Google Discover, and How Do I View It on My Phone?](https://www.howtogeek.com/721851/what-is-google-discover-and-how-do-i-view-it-on-my-phone/)
+* [How to Change Your Account Email Address on Disney+](https://www.howtogeek.com/719286/how-to-change-your-account-email-on-disney-plus/)
+* [How to Hide or Show Individual File Extensions on a Mac](https://www.howtogeek.com/715358/how-to-hide-or-show-individual-file-extensions-on-a-mac/)
+* [iiRcade's $599 Bartop Arcade Cabinet Comes with a Digital Game Store](https://www.reviewgeek.com/76357/iircades-599-bartop-arcade-cabinet-comes-with-a-digital-game-store/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump used dark patterns to trick supporters into donating more than intended](https://www.theverge.com/2021/4/3/22365952/trump-dark-patterns-trick-supporters-recurring-donation-winred-gary-coby)
-- [The Greatest Marketing Minds of Our Time](https://capitalandgrowth.org/answers/2981185/Who-are-the-greatest-marketing-minds-of-our-time-last-20-years)
-- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
-- [China launches musical in bid to counter Uyghur abuse allegations](https://www.theguardian.com/world/2021/apr/03/china-launches-musical-in-bid-to-counter-uyghur-abuse-allegations)
-- [Do you know that you can make money online for free](https://sites.google.com/view/rank/home)
-- [Graduate Study in the Computer and Mathematical Sciences: A Survival Manual](http://www.cs.umd.edu/~oleary/gradstudy/)
-- [Watch “I am a New York City landlord and I'm Homeless.” on YouTube](https://www.youtube.com/watch?v=Y7pbAnaHxXg)
-- [OP-DITTO: Proper 2nd analog stick mod for the PSP](https://github.com/Operation-DITTO/Operation-DITTO)
-- [The Crimson Klan](https://www.thecrimson.com/article/2021/3/25/harvard-klan-scrut/)
-- [NFT Price Crash Stirs Debate on Whether Stimulus-Led Fad Is Over](https://www.bloomberg.com/news/articles/2021-04-03/nft-price-crash-stirs-debate-on-whether-stimulus-led-fad-is-over)
+- [Ask HN: How Do You Invest?](https://news.ycombinator.com/item?id=26694623)
+- [Show HN: Test if your (Australian) phone number is in the leaked Facebook dump](https://www.thenewseachday.com/facebook-phone-numbers-australia)
+- [The Night 46 Million Grasshoppers Went to Vegas](https://www.nytimes.com/2021/03/30/science/vegas-light-pollution-ecology-grasshoppers.html)
+- [A Tale of Two Tongues](https://believermag.com/english-esperanto-universal-language/)
+- [The future of sex in elite sport](https://www.nature.com/articles/d41586-021-00819-0)
+- [NFTs Weren’t Supposed to End Like This](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488)
+- [Madame Comrade](https://aeon.co/essays/the-peoples-ambassadress-the-forgotten-diplomacy-of-ivy-litvinov)
+- [A Computer Scientist Who Tackles Inequality Through Algorithms](https://www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/)
+- [Make any web page into an Android widget](https://play.google.com/store/apps/details?id=com.binarysmith.webclipwidget.ad)
+- [Elon Musk’s Starlink could make Earth visible to alien civilizations](https://www.teslarati.com/elon-musk-starlink-aliens-detection-study/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: first women's ODI – live!](https://www.theguardian.com/sport/live/2021/apr/03/odi-live-new-zealand-vs-australia-womens-cricket-one-day-international-2021-game-1-start-time-today-teams-scores-latest-news)
-- [Rapper DMX hospitalised after heart attack, his lawyer says](https://www.theguardian.com/us-news/2021/apr/04/rapper-dmx-hospitalised-after-heart-attack-his-lawyer-says)
-- [Carl Frampton confirms retirement after Jamel Herring ends title dream](https://www.theguardian.com/sport/2021/apr/03/carl-frampton-confirms-retirement-after-jamel-herring-ends-title-dream)
-- [We love: fashion fixes for the week ahead - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Details from 500 million Facebook users found on website for hackers](https://www.theguardian.com/technology/2021/apr/03/500-million-facebook-users-website-hackers)
-- [Boris Johnson to give go-ahead for trials of Covid passports](https://www.theguardian.com/world/2021/apr/03/boris-johnson-to-give-go-ahead-for-trials-of-covid-passports)
-- [Florida emergency as phosphate plant pond leak threatens radioactive flood](https://www.theguardian.com/us-news/2021/apr/03/florida-emergency-piney-point-phosphate-plant-pond-leak-radioactive-flood-ron-desantis)
-- [Sergio Agüero a man out of time as Manchester City change around him | Barney Ronay](https://www.theguardian.com/football/blog/2021/apr/03/sergio-aguero-a-man-out-of-time-as-manchester-city-change-around-him)
-- [Jota and Salah earn crucial Liverpool win at Arsenal to boost top-four hopes](https://www.theguardian.com/football/2021/apr/03/arsenal-premier-league-match-report)
-- [Jordan's former crown prince under house arrest over alleged coup](https://www.theguardian.com/world/2021/apr/03/jordans-former-crown-prince-under-house-arrest-over-alleged-coup)
+- [A year of Keir: has the Covid pandemic sidelined Labour's leader?](https://www.theguardian.com/news/audio/2021/apr/05/a-year-of-keir-has-the-covid-pandemic-sidelined-labours-leader)
+- [Thai tourist island of Phuket gets Covid jabs first in race to offer quarantine-free holidays](https://www.theguardian.com/world/2021/apr/05/thailand-tourism-phuket-covid-jabs-quarantine-holidays)
+- [EU sounds alarm at Russian troops' Ukraine border moves](https://www.theguardian.com/world/2021/apr/05/eu-sounds-alarm-at-russian-troops-ukraine-border-moves)
+- [Taiwan train crash: truck driver expresses 'deep remorse' over disaster](https://www.theguardian.com/world/2021/apr/05/taiwan-train-crash-truck-driver-expresses-deep-remorse-over-disaster)
+- [More than 50 die in flash floods in Indonesia and Timor-Leste](https://www.theguardian.com/world/2021/apr/05/indonesia-timor-leste-floods-deaths-landslides)
+- [Northern Ireland: police attacked in another night of disturbances](https://www.theguardian.com/uk-news/2021/apr/05/northern-ireland-police-attacked-in-another-night-of-disturbances)
+- [Number of young people with driving licence in Great Britain at lowest on record](https://www.theguardian.com/money/2021/apr/05/number-of-young-people-with-driving-licence-in-great-britain-at-lowest-on-record)
+- [Number of gamblers trying to block themselves online surges](https://www.theguardian.com/society/2021/apr/05/number-of-gamblers-trying-to-block-themselves-online-surges)
+- [Everyone in England to be offered twice-weekly Covid tests, PM to say](https://www.theguardian.com/world/2021/apr/05/twice-weekly-lateral-flow-covid-tests-england-lockdown-boris-johnson)
+- ['Incredibly relieved': Australian couple freed from house arrest in Myanmar](https://www.theguardian.com/australia-news/2021/apr/05/incredibly-relieved-australian-couple-freed-from-house-arrest-in-myanmar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
-- [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
-- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
-- [Staying awake: the surprisingly effective way to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
-- [Tales from Prediction Markets](https://misinfounderload.substack.com/p/tales-from-prediction-markets)
-- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
-- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
-- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
-- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
-- [A Simplified E-graph Implementation](https://www.philipzucker.com/a-simplified-egraph/)
+- [Tesla Owners Asking What Happens If 'Full Self Driving' Isn't Real](https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907)
+- [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
+- [Ask HN: What novel tools are you using to write web sites/apps?](https://news.ycombinator.com/item?id=26693959)
+- [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
+- [WebOS OSE 2.10.0 Release](https://www.webosose.org/blog/2021/04/02/webos-ose-2-10-0-release/)
+- [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
+- [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
+- [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
+- [Show HN: Map of active customers for landing page](https://github.com/ziolko/roombelt-activity-map)
+- [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -407,6 +408,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are you great techie who knows open source software?Pls help me on this survey](https://www.reddit.com/r/InformationTechnology/comments/mk83m7/are_you_great_techie_who_knows_open_source/)
+- [Web Proxies not Working](https://www.reddit.com/r/InformationTechnology/comments/mk2iuw/web_proxies_not_working/)
 - [Stupid Questions Thread](https://www.reddit.com/r/InformationTechnology/comments/mibf5p/stupid_questions_thread/)
 - [IT Job requirements](https://www.reddit.com/r/InformationTechnology/comments/mhyjq7/it_job_requirements/)
 - [What is network deauthentication/disassociation and BSS transition](https://www.reddit.com/r/InformationTechnology/comments/mhom1e/what_is_network_deauthenticationdisassociation/)
@@ -415,8 +418,6 @@
 - [For the professionals out there, what are the best Certifications or programs I can go through in order to help secure an IT related job?](https://www.reddit.com/r/InformationTechnology/comments/mhcqzc/for_the_professionals_out_there_what_are_the_best/)
 - [After USMC](https://www.reddit.com/r/InformationTechnology/comments/mh9rfw/after_usmc/)
 - [I need help with somehting I've never seen.](https://www.reddit.com/r/InformationTechnology/comments/mh6hs8/i_need_help_with_somehting_ive_never_seen/)
-- [How its the IT industry in Australia [need help]](https://www.reddit.com/r/InformationTechnology/comments/mh2lpo/how_its_the_it_industry_in_australia_need_help/)
-- [For those of you who have a job in IT, how did you get your first entry level position?](https://www.reddit.com/r/InformationTechnology/comments/mgx8d2/for_those_of_you_who_have_a_job_in_it_how_did_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -302,16 +302,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Trump used dark patterns to trick supporters into donating more than intended](https://www.theverge.com/2021/4/3/22365952/trump-dark-patterns-trick-supporters-recurring-donation-winred-gary-coby)
-- [The Greatest Marketing Minds of Our Time](https://capitalandgrowth.org/answers/2981185/Who-are-the-greatest-marketing-minds-of-our-time-last-20-years)
-- [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
-- [China launches musical in bid to counter Uyghur abuse allegations](https://www.theguardian.com/world/2021/apr/03/china-launches-musical-in-bid-to-counter-uyghur-abuse-allegations)
-- [Do you know that you can make money online for free](https://sites.google.com/view/rank/home)
-- [Graduate Study in the Computer and Mathematical Sciences: A Survival Manual](http://www.cs.umd.edu/~oleary/gradstudy/)
-- [Watch “I am a New York City landlord and I'm Homeless.” on YouTube](https://www.youtube.com/watch?v=Y7pbAnaHxXg)
-- [OP-DITTO: Proper 2nd analog stick mod for the PSP](https://github.com/Operation-DITTO/Operation-DITTO)
-- [The Crimson Klan](https://www.thecrimson.com/article/2021/3/25/harvard-klan-scrut/)
-- [NFT Price Crash Stirs Debate on Whether Stimulus-Led Fad Is Over](https://www.bloomberg.com/news/articles/2021-04-03/nft-price-crash-stirs-debate-on-whether-stimulus-led-fad-is-over)
+- [Ask HN: How Do You Invest?](https://news.ycombinator.com/item?id=26694623)
+- [Show HN: Test if your (Australian) phone number is in the leaked Facebook dump](https://www.thenewseachday.com/facebook-phone-numbers-australia)
+- [The Night 46 Million Grasshoppers Went to Vegas](https://www.nytimes.com/2021/03/30/science/vegas-light-pollution-ecology-grasshoppers.html)
+- [A Tale of Two Tongues](https://believermag.com/english-esperanto-universal-language/)
+- [The future of sex in elite sport](https://www.nature.com/articles/d41586-021-00819-0)
+- [NFTs Weren’t Supposed to End Like This](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488)
+- [Madame Comrade](https://aeon.co/essays/the-peoples-ambassadress-the-forgotten-diplomacy-of-ivy-litvinov)
+- [A Computer Scientist Who Tackles Inequality Through Algorithms](https://www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/)
+- [Make any web page into an Android widget](https://play.google.com/store/apps/details?id=com.binarysmith.webclipwidget.ad)
+- [Elon Musk’s Starlink could make Earth visible to alien civilizations](https://www.teslarati.com/elon-musk-starlink-aliens-detection-study/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

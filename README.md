@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/honky_1415.php" target="_blank"><i>honky</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/pack_heat_1461.php" target="_blank"><i>pack heat</i></a>
 <span> = </span>
-<span>a derogatory term in black American slang for a white person</span>
+<span>to carry a gun</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

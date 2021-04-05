@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Patience/They_also_serve_who_only_stand_and_wait_911.php" target="_blank"><i>They also serve who only stand and wait</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/A_good_man_is_hard_to_find_980.php" target="_blank"><i>A good man is hard to find</i></a>
 <span> = </span>
-<span>We all have a place in this world and we all perform a function, regardless of our ability or disability. The word order of this sentence may make it more difficult to understand. In normal English it would be something like: "They (those people) who only stand and wait, also serve."</span>
+<span>This saying talks about the difficulties for women in finding a suitable male partner.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

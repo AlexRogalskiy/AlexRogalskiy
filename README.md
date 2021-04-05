@@ -287,16 +287,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [What We're Watching: 'my mechanics' Restores Antique Tools and My Soul](https://www.reviewgeek.com/75854/what-were-watching-my-mechanics-restores-antique-tools-and-my-soul/)
-* [Take a Model Train Ride in This Enthusiast's Detailed Video](https://www.reviewgeek.com/76359/take-a-model-train-ride-in-this-enthusiasts-detailed-video/)
-* [How to Use Touch Controls on HomePod Mini](https://www.howtogeek.com/719634/how-to-use-touch-controls-on-homepod-mini/)
-* [The Original iPad Almost Had Two 30-Pin Connectors](https://www.reviewgeek.com/76358/the-original-ipad-almost-had-two-30-pin-connectors/)
-* [Hyundai EVs Recalled Due to Catching Fire When Parked, Charging, or Driving](https://www.reviewgeek.com/76380/hyundai-evs-recalled-due-to-catching-fire-when-parked-charging-or-driving/)
-* [How to Set up Two-Factor Authentication on eBay](https://www.howtogeek.com/718530/how-to-set-up-two-factor-authentication-on-ebay/)
-* [How to Add a Kids Profile to Google TV](https://www.howtogeek.com/721733/how-to-add-a-kids-profile-to-google-tv/)
-* [How to Hide (and Unhide) Menu Items in Adobe Photoshop](https://www.howtogeek.com/718636/how-to-hide-and-unhide-menu-items-in-adobe-photoshop/)
-* [How to Check How Much iCloud Storage You Have Left](https://www.howtogeek.com/715103/how-to-check-how-much-icloud-storage-you-have-left/)
-* [YouTube TV Now Streams Google Play and Movies Anywhere Flicks](https://www.reviewgeek.com/76332/youtube-tv-now-streams-google-play-and-movies-anywhere-flicks/)
+* [See Industrial Light and Magic's Enormous LED Set for 'The Mandalorian'](https://www.reviewgeek.com/76393/see-industrial-light-and-magics-enormous-led-set-for-the-mandalorian/)
+* [NASA's Sonification Project Lets You Listen to Stars and Black Holes](https://www.reviewgeek.com/76381/nasas-sonification-project-lets-you-listen-to-stars-and-black-holes/)
+* [How to Send Emails to Undisclosed Recipients in Gmail](https://www.howtogeek.com/717924/how-to-send-emails-to-undisclosed-recipients-in-gmail/)
+* [Here's What It's Like to Fly into a Volcano (from a Drone's Perspective)](https://www.reviewgeek.com/76365/heres-what-its-like-to-fly-into-a-volcano-from-a-drones-perspective/)
+* [Sideload Helper Breathes New Life Into Pebble Smartwatches](https://www.reviewgeek.com/76354/sideload-helper-breathes-new-life-into-pebble-smartwatches/)
+* [How to Check Someone’s Availability in Google Calendar](https://www.howtogeek.com/717167/how-to-check-someones-availability-in-google-calendar/)
+* [What Is Google Discover, and How Do I View It on My Phone?](https://www.howtogeek.com/721851/what-is-google-discover-and-how-do-i-view-it-on-my-phone/)
+* [How to Change Your Account Email Address on Disney+](https://www.howtogeek.com/719286/how-to-change-your-account-email-on-disney-plus/)
+* [How to Hide or Show Individual File Extensions on a Mac](https://www.howtogeek.com/715358/how-to-hide-or-show-individual-file-extensions-on-a-mac/)
+* [iiRcade's $599 Bartop Arcade Cabinet Comes with a Digital Game Store](https://www.reviewgeek.com/76357/iircades-599-bartop-arcade-cabinet-comes-with-a-digital-game-store/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

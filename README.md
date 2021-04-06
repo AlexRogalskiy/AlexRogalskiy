@@ -347,16 +347,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [2 colossal Chrome OS changes to keep an eye on](https://www.computerworld.com/article/3614189/chrome-os-changes.html#tk.rss_all)
+- [US IT jobs have regained what they lost in the pandemic](https://www.computerworld.com/article/3542681/us-it-jobs-have-regained-what-they-lost-in-the-pandemic.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [For Microsoft and Apple, a reprise of all-virtual dev conferences](https://www.computerworld.com/article/3614172/for-microsoft-and-apple-a-reprise-of-all-virtual-dev-conferences.html#tk.rss_all)
+- [Mosyle unveils Apple MDM tools for the enterprise](https://www.computerworld.com/article/3614082/mosyle-unveils-apple-mdm-tools-for-the-enterprise.html#tk.rss_all)
+- [Windows Update for Business: details, details](https://www.computerworld.com/article/3614170/windows-update-for-business-details-details.html#tk.rss_all)
+- [Is it time to move to hosted Exchange? Considerations for IT](https://www.computerworld.com/article/3614077/is-it-time-to-move-to-hosted-exchange-considerations-for-it.html#tk.rss_all)
 - [Apple switches off the ‘open web’ by making it better](https://www.computerworld.com/article/3614148/apple-switches-off-the-open-web-by-making-it-better.html#tk.rss_all)
 - [Cisco, with Webex, delicately moves to 'instrument' employees — without violating privacy](https://www.computerworld.com/article/3613910/cisco-with-webex-delicately-moves-to-instrument-employees-without-violating-privacy.html#tk.rss_all)
 - [Podcast: WWDC 2021: What to expect at Apple's June event](https://www.computerworld.com/article/3613915/podcast-wwdc-2021-what-to-expect-at-apples-june-event.html#tk.rss_all)
-- [Cisco adds 'People Insights' analytics to Webex](https://www.computerworld.com/article/3613811/cisco-adds-people-insights-analytics-to-webex.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [BrandPost: How HP Helps With Responsible PC Retirement – Even During a Pandemic](https://www.computerworld.com/article/3613912/how-hp-helps-with-responsible-pc-retirement-even-during-a-pandemic.html#tk.rss_all)
-- [How to fix the Apple tech skills gap](https://www.computerworld.com/article/3613809/how-to-fix-the-apple-tech-skills-gap.html#tk.rss_all)
-- [How to add powerful voice commands into Chrome on your computer](https://www.computerworld.com/article/3613712/chrome-voice-commands.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

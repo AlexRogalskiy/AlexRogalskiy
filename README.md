@@ -332,16 +332,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla Owners Asking What Happens If 'Full Self Driving' Isn't Real](https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907)
-- [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
-- [Ask HN: What novel tools are you using to write web sites/apps?](https://news.ycombinator.com/item?id=26693959)
-- [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
-- [WebOS OSE 2.10.0 Release](https://www.webosose.org/blog/2021/04/02/webos-ose-2-10-0-release/)
-- [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
-- [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
-- [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
-- [Show HN: Map of active customers for landing page](https://github.com/ziolko/roombelt-activity-map)
-- [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [Old programming language is suddenly getting more popular again](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
+- [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html)
+- [Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?](https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/)
+- [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
+- [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
+- [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+- [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
+- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
+- [Jakub Konka Hired Full Time](https://ziglang.org/news/jakub-konka-hired-full-time/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

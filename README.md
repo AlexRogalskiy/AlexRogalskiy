@@ -362,16 +362,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [11 Things IT Professionals Wish They Knew Earlier in Their Careers](https://www.informationweek.com/strategic-cio/11-things-it-professionals-wish-they-knew-earlier-in-their-careers/d/d-id/1340570?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Business of Experience: A CIO Toolkit for the Year Ahead](https://www.informationweek.com/strategic-cio/the-business-of-experience-a-cio-toolkit-for-the-year-ahead-/a/d-id/1340578?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [FTD's CTO Powell on Transforming and the Next New Normal](https://www.informationweek.com/strategic-cio/digital-business/ftds-cto-powell-on-transforming-and-the-next-new-normal/a/d-id/1340585?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AI at Your Service](https://www.informationweek.com/big-data/ai-machine-learning/ai-at-your-service/a/d-id/1340569?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [HealthBridge's Low-Code Strategy to Process Medical Claims](https://www.informationweek.com/devops/project-management/healthbridges-low-code-strategy-to-process-medical-claims/a/d-id/1340573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Build a Post-Pandemic AI Strategy for Resilience, Recovery](https://www.informationweek.com/big-data/ai-machine-learning/build-a-post-pandemic-ai-strategy-for-resilience-recovery/a/d-id/1340557?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Does Identity Hinder Hybrid-Cloud and Multi-Cloud Adoption?](https://www.informationweek.com/cloud/does-identity-hinder-hybrid-cloud-and-multi-cloud-adoption/a/d-id/1340562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [New Storage Trends Promise to Help Enterprises Handle a Data Avalanche](https://www.informationweek.com/big-data/new-storage-trends-promise-to-help-enterprises-handle-a-data-avalanche/a/d-id/1340559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Time to Shift Your Job Search Out of Neutral](https://www.informationweek.com/time-to-shift-your-job-search-out-of-neutral/d/d-id/1340548?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Innovation in a COVID World: 4 Steps for CIOs To Get It Done](https://www.informationweek.com/strategic-cio/digital-business/innovation-in-a-covid-world-4-steps-for-cios-to-get-it-done-/a/d-id/1340527?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why IT Roles Are Broadening](https://www.informationweek.com/strategic-cio/why-it-roles-are-broadening/a/d-id/1340536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

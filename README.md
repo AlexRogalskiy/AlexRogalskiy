@@ -241,9 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647557793728102400" target="_blank"><i>Spring Thaw</i></a></summary>
-<p>by Gordon Gilsdorf</p><p>Most things<br/>die reluctantly,<br/>clinging<br/>to the life<br/>they know,<br/><br/>like snow<br/>trying to hold<br/>the land<br/>far beyond<br/>the middle<br/>of March.<br/><br/>How can it know<br/>that April<br/>will not have<br/>violets without warm rains<br/><br/>and that<br/>surrender<br/>is the only way<br/>to inherit<br/>the earth?
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647648387849748480" target="_blank"><i>April</i></a></summary>
+<p>by Alicia Ostriker</p><p>The optimists among us<br/>taking heart because it is spring<br/>skip along<br/>attending their meetings<br/>signing their e-mail petitions<br/>marching with their satiric signs<br/>singing their we shall overcome songs<br/>posting their pungent twitters and blogs<br/>believing in a better world<br/>for no good reason<br/>I envy them<br/>said the old woman<br/><br/>The seasons go round they<br/>go round and around<br/>said the tulip<br/>dancing among her friends<br/>in their brown bed in the sun<br/>in the April breeze<br/>under a maple canopy<br/>that was also dancing<br/>only with greater motions<br/>casting greater shadows<br/>and the grass<br/>hardly stirring<br/><br/>What a concerto<br/>of good stinks said the dog<br/>trotting along Riverside Drive<br/>in the early spring afternoon<br/>sniffing this way and that<br/>how gratifying the cellos of the river<br/>the tubas of the traffic<br/>the trombones<br/>of the leafing elms with the legato<br/>of my rivals’ piss at their feet<br/>and the leftover meat and grease<br/>singing along in all the wastebaskets<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

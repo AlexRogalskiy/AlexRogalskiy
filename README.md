@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/pack_heat_1461.php" target="_blank"><i>pack heat</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/C/cranky_1020.php" target="_blank"><i>cranky</i></a>
 <span> = </span>
-<span>to carry a gun</span>
+<span>irritable, easily annoyed</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

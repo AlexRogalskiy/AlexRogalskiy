@@ -422,16 +422,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
+- [Cisco updates Webex People Insights to help boost employee well-being](https://www.itworldcanada.com/article/cisco-updates-webex-people-insights-to-help-boost-employee-well-being/445495)
+- [MSSP eSentire says hackers using LinkedIn profiles for spearphishing](https://www.itworldcanada.com/article/mssp-esentire-says-hackers-using-linkedin-profiles-for-spearphishing/445461)
+- [LG closes its smartphone business](https://www.itworldcanada.com/article/lg-closes-its-smartphone-business/445441)
+- [Cyber Security Today, April 5, 2021 – Twitter users’ phone numbers and email addresses are now free, and check the integrity of your IT supply chain](https://www.itworldcanada.com/article/cyber-security-today-april-5-2021-twitter-users-phone-numbers-and-email-addresses-are-now-free-and-check-the-integrity-of-your-it-supply-chain/445438)
+- [Hashtag Trending, April 5, 2021 – Millions of Facebook users’ data leaks online; Amazon admits it was wrong – sorta; Stats Can reports on remote worker](https://www.itworldcanada.com/article/hashtag-trending-april-5-2021-millions-of-facebook-users-data-leaks-online-amazon-admits-it-was-wrong-sorta-stats-can-reports-on-remote-worker/445435)
 - [Cyber Security Today, Week In Review for April 2, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-2-2021/445382)
 - [Canadian retailer Home Hardware hit by ransomware](https://www.itworldcanada.com/article/canadian-retailer-home-hardware-hit-by-ransomware/445416)
 - [RangeForce adds mid-priced packages to cybersecurity training offerings](https://www.itworldcanada.com/article/rangeforce-adds-mid-priced-packages-to-cybersecurity-training-offerings/444779)
 - [Cyber Security Today, April 2, 2021 – Router maker admits extortion attempt, a phone scam and another COVID con](https://www.itworldcanada.com/article/cyber-security-today-april-2-2021-router-maker-admits-extortion-attempt-a-phone-scam-and-another-covid-con/445388)
-- [FedDev Ontario to invest $14.6 million to support growth of six Toronto tech firms](https://www.itworldcanada.com/article/feddev-ontario-to-invest-14-6-million-to-support-growth-of-six-toronto-tech-firms/445338)
-- [Canadian government funds nation-wide tech competition to fight human trafficking with IBM and partners](https://www.itworldcanada.com/article/canadian-government-funds-first-nation-wide-tech-competition-to-fight-human-trafficking/445386)
-- [Hashtag Trending, April 1, 2021 – Tweets from U.S. Nuclear agency; Nerf hires chief TikTok officer; Hybrid office preview](https://www.itworldcanada.com/article/hashtag-trending-april-1-2021-tweets-from-u-s-nuclear-agency-nerf-hires-chief-tiktok-officer-hybrid-office-preview/445324)
-- [Are you following these five best practices to protect your data?](https://www.itworldcanada.com/article/are-you-following-these-five-best-practices-to-protect-your-data/445317)
-- [World Backup Day advice: Give your system some love](https://www.itworldcanada.com/article/world-backup-day-advice-give-your-system-some-love/445276)
-- [Social isolation is driving up fraud anxiety, says TD Bank](https://www.itworldcanada.com/article/social-isolation-is-driving-up-fraud-anxiety-says-td-bank/445337)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

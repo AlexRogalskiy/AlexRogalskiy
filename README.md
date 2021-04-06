@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/fall/fall_for_1__2045.php" target="_blank"><i>fall for (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/iron_out_1640.php" target="_blank"><i>iron out</i></a>
 <span> = </span>
-<span>If you fall for something like a trick or a scam, you believe it's real or genuine even though it's not.</span>
+<span>If you iron out the last details of a deal, you sort out the final problems or issues.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

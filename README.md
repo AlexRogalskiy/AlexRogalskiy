@@ -392,16 +392,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Where now for storage? Dell EMC, NetApp and HPE](https://www.computerweekly.com/feature/Where-now-for-storage-Dell-EMC-NetApp-and-HPE)
+- [US court issues Google API with Java ruling](https://www.computerweekly.com/news/252498872/US-court-issues-Google-API-with-Java-ruling)
+- [IR35 reforms: Private sector start date prompts mixed picture of predictions for contracting market](https://www.computerweekly.com/news/252498865/IR35-reforms-Private-sector-start-date-prompts-mixed-picture-of-predictions-for-contracting-market)
+- [GDS seeks director for identity assurance programme](https://www.computerweekly.com/news/252498780/GDS-seeks-director-for-identity-assurance-programme)
 - [EncroChat hearings delayed as lawyers seek disclosure on police hacking](https://www.computerweekly.com/news/252498762/EncroChat-hearings-delayed-as-lawyers-seek-disclosure-on-police-hacking)
 - [IR35 reforms: Loan charge and employers’ NI issues prompt calls for legislative revamp](https://www.computerweekly.com/news/252498766/IR35-reforms-Loan-charge-and-employers-NI-issues-prompt-calls-for-legislative-revamp)
 - [Project Monterey returns to haunt IBM and Red Hat](https://www.computerweekly.com/news/252498754/Project-Monterey-returns-to-haunt-IBM-and-Red-Hat)
 - [Starting a career in the digital economy](https://www.computerweekly.com/feature/Starting-a-career-in-the-digital-economy)
 - [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
 - [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
-- [Commerzbank picks Google for cloud migration](https://www.computerweekly.com/news/252498684/Commerzbank-picks-Google-for-cloud-migration)
-- [NHS is apparently closing security skills gap](https://www.computerweekly.com/news/252498677/NHS-is-apparently-closing-security-skills-gap)
-- [Security Think Tank: Evolving threats, tech, leaves CNI exposed](https://www.computerweekly.com/opinion/Security-Think-Tank-Evolving-threats-tech-leaves-CNI-exposed)
-- [Cyber Security Council to champion UK security pros](https://www.computerweekly.com/news/252498673/Cyber-Security-Council-to-champion-UK-security-pros)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

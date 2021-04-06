@@ -377,16 +377,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
+- [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
+- [Objective-C plummets in popularity](https://www.infoworld.com/article/3613938/objective-c-plummets-in-popularity.html#tk.rss_all)
+- [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_all)
+- [Visual Studio Code 1.55 brings improvements to breakpoints](https://www.infoworld.com/article/3614076/visual-studio-code-155-brings-improvements-to-breakpoints.html#tk.rss_all)
+- [Data lineage: What it is and why it’s important](https://www.infoworld.com/article/3613592/data-lineage-what-it-is-and-why-its-important.html#tk.rss_all)
+- [7 ways the cloud is changing](https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html#tk.rss_all)
 - [Eclipse hosts Visual Studio Code extensions marketplace](https://www.infoworld.com/article/3613837/eclipse-hosts-visual-studio-code-extensions-marketplace.html#tk.rss_all)
 - [Are industry clouds an opportunity or a distraction?](https://www.infoworld.com/article/3613714/are-industry-clouds-an-opportunity-or-a-distraction.html#tk.rss_all)
 - [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_all)
-- [4 key tests for your AI explainability toolkit](https://www.infoworld.com/article/3613832/4-key-tests-for-your-ai-explainability-toolkit.html#tk.rss_all)
-- [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html#tk.rss_all)
-- [Deno Company forms to back Node.js rival](https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html#tk.rss_all)
-- [Microsoft inches closer to unified Windows SDK](https://www.infoworld.com/article/3613569/microsoft-inches-closer-to-unified-windows-sdk.html#tk.rss_all)
-- [8 ways to jump-start your machine learning](https://www.infoworld.com/article/3613185/8-ways-to-jump-start-your-machine-learning.html#tk.rss_all)
-- [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
-- [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

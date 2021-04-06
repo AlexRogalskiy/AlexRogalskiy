@@ -302,16 +302,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How Do You Invest?](https://news.ycombinator.com/item?id=26694623)
-- [Show HN: Test if your (Australian) phone number is in the leaked Facebook dump](https://www.thenewseachday.com/facebook-phone-numbers-australia)
-- [The Night 46 Million Grasshoppers Went to Vegas](https://www.nytimes.com/2021/03/30/science/vegas-light-pollution-ecology-grasshoppers.html)
-- [A Tale of Two Tongues](https://believermag.com/english-esperanto-universal-language/)
-- [The future of sex in elite sport](https://www.nature.com/articles/d41586-021-00819-0)
-- [NFTs Weren’t Supposed to End Like This](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488)
-- [Madame Comrade](https://aeon.co/essays/the-peoples-ambassadress-the-forgotten-diplomacy-of-ivy-litvinov)
-- [A Computer Scientist Who Tackles Inequality Through Algorithms](https://www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/)
-- [Make any web page into an Android widget](https://play.google.com/store/apps/details?id=com.binarysmith.webclipwidget.ad)
-- [Elon Musk’s Starlink could make Earth visible to alien civilizations](https://www.teslarati.com/elon-musk-starlink-aliens-detection-study/)
+- [Will.i.am and Honeywell introduce the first connected mask](https://www.nytimes.com/2021/04/06/style/william-face-mask.html)
+- [Flight Penguin – New Flight Search Extension from Hipmunk Founders](https://flightpenguin.com/)
+- [Fungible Tokens](https://remyporter.github.io/TFTs/)
+- [Reading Plus Is Hiring – Platform Engineer and QA Engineer/Tester](https://www.readingplus.com/careers/)
+- [Set up Tailwind CSS JIT in a Rails project to compile styles 20x faster](https://evilmartians.com/chronicles/set-up-tailwind-css-jit-in-a-rails-project-to-compile-styles-20x-faster)
+- [Introducing Our Image Classification Pilot](https://pro.europeana.eu/post/introducing-our-image-classification-pilot)
+- [ArchLinux gets an install script with installer](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall)
+- [I’m being jailed for four emails from 12 years ago (2019)](https://www.bbc.co.uk/news/business-49841361)
+- [Apple iPhone Assembler Hon Hai Revenue Jumps 44% on Covid Demand](https://www.bloomberg.com/news/articles/2021-04-06/hon-hai-revenue-jumps-44-on-stay-at-home-demand-for-gadgets)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

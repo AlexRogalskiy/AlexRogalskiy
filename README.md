@@ -287,16 +287,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [See Industrial Light and Magic's Enormous LED Set for 'The Mandalorian'](https://www.reviewgeek.com/76393/see-industrial-light-and-magics-enormous-led-set-for-the-mandalorian/)
-* [NASA's Sonification Project Lets You Listen to Stars and Black Holes](https://www.reviewgeek.com/76381/nasas-sonification-project-lets-you-listen-to-stars-and-black-holes/)
-* [How to Send Emails to Undisclosed Recipients in Gmail](https://www.howtogeek.com/717924/how-to-send-emails-to-undisclosed-recipients-in-gmail/)
-* [Here's What It's Like to Fly into a Volcano (from a Drone's Perspective)](https://www.reviewgeek.com/76365/heres-what-its-like-to-fly-into-a-volcano-from-a-drones-perspective/)
-* [Sideload Helper Breathes New Life Into Pebble Smartwatches](https://www.reviewgeek.com/76354/sideload-helper-breathes-new-life-into-pebble-smartwatches/)
-* [How to Check Someone’s Availability in Google Calendar](https://www.howtogeek.com/717167/how-to-check-someones-availability-in-google-calendar/)
-* [What Is Google Discover, and How Do I View It on My Phone?](https://www.howtogeek.com/721851/what-is-google-discover-and-how-do-i-view-it-on-my-phone/)
-* [How to Change Your Account Email Address on Disney+](https://www.howtogeek.com/719286/how-to-change-your-account-email-on-disney-plus/)
-* [How to Hide or Show Individual File Extensions on a Mac](https://www.howtogeek.com/715358/how-to-hide-or-show-individual-file-extensions-on-a-mac/)
-* [iiRcade's $599 Bartop Arcade Cabinet Comes with a Digital Game Store](https://www.reviewgeek.com/76357/iircades-599-bartop-arcade-cabinet-comes-with-a-digital-game-store/)
+* [How to Turn off Animated Emojis and GIFs in Slack](https://www.howtogeek.com/717296/how-to-turn-off-animated-emojis-and-gifs-in-slack/)
+* [How to Close All Finder Windows at Once on Mac](https://www.howtogeek.com/715134/how-to-close-all-finder-windows-at-once-on-mac/)
+* [The 10 Best Video Game Movies Available to Stream](https://www.howtogeek.com/721165/the-10-best-video-game-movies-available-to-stream/)
+* [Define a Great Vim Profile Using .vimrc](https://www.cloudsavvyit.com/9884/define-a-great-vim-profile-using-vimrc/)
+* [How to Use the Internet from China](https://www.howtogeek.com/720639/how-to-use-the-internet-from-china/)
+* [10 Tech Troubleshooting Tips to Fix Your Gadgets](https://www.howtogeek.com/718783/10-tech-troubleshooting-tips-to-fix-your-gadgets/)
+* [The New Hummer SUV EV Actually Looks Like a Hummer, Starts at $80,000](https://www.reviewgeek.com/76580/the-new-hummer-suv-ev-actually-looks-like-a-hummer-starts-at-80000/)
+* [Watch Over 3,000 Drones Fly Together for the Best Car Commercial Yet](https://www.reviewgeek.com/76578/watch-over-3000-drones-fly-together-for-the-best-car-commercial-yet/)
+* [Samsung's Adidas-Branded Galaxy Buds Pro Are Straight Fire 🔥](https://www.reviewgeek.com/76562/samsungs-adidas-branded-galaxy-buds-pro-are-straight-fire-%f0%9f%94%a5/)
+* [Wyze Cam v3 Gets a Window Mount for Easy Outdoor Security](https://www.reviewgeek.com/76566/wyze-cam-v3-gets-an-window-mount-for-easy-outdoor-security/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6f&#x2F;b8&#x2F;41&#x2F;6fb84137f765b5f40af3edb94412e0d8.jpg" alt="Feeling crafty? Bricolage is the Word of the Day.⁠ ⁠ Want more? Click through for example sentences, word origin, our free podcast and more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6f&#x2F;b8&#x2F;41&#x2F;6fb84137f765b5f40af3edb94412e0d8.jpg" alt="Feeling crafty? Bricolage is the Word of the Day.⁠ ⁠ Want more? Click through for example sentences, word origin, our free podcast and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;2e&#x2F;ee&#x2F;6e&#x2F;2eee6ee103da8bc0eb6b0b6dad9414c4.jpg" alt="Here comes the Word of the Day hopping down the bunny trail. It&#39;s leporine. Get example sentences and more at the link! #Vocabulary #Easter #Writing #Learning " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;15&#x2F;bf&#x2F;79&#x2F;15bf7964fa85b376afa1992237bac887.jpg" alt="Cackleberry is the Word of the Day. No, it&#39;s not a laughing fruit. See where it comes from at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f7&#x2F;0e&#x2F;0a&#x2F;f70e0aafaf66c1cb74f908518a84b684.jpg" alt="Passe-partout is the Word of the Day. Wondering how to say it? Learn more at the link! " />
@@ -253,10 +253,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c0.79.640.640a&#x2F;168917759_401903974185106_8922920483911071326_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;zv3ie9UAZtsAX_70IqT&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;9b9347084e66e8da5a5386ac717e1b00&amp;oe&#x3D;606D1661&amp;_nc_sid&#x3D;7bff83" alt="Did you see such fantastic clouds over Saint Petersburg? So cool, isn’t it?😍  Photographer @sergey__nagibin  #visitpetersburg #saintpetersburg #nature #clouds" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;167975713_738802403403986_2145622971278728114_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;xEhLftkru8IAX85IXl3&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;a6f89ac731e5acdae9410593ba8d99ca&amp;oe&#x3D;608FD4E8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Restaurants and cafes that have been opened for the new season ☀️  🌟 Israeli Restaurant &amp;quot;Boker Tov&amp;quot; @bokertovspb - Israeli home-cooked restaurant where you can enjoy large portions of delicious food. One of the highlights of the establishment is the &amp;quot;Running Skewers&amp;quot; dish that combines different types of juicy meat with 12 servings of salads. The waiter will update the plate until the guest says stop. 📍Bolshaya Zelenina St., 2  🌟Coffee shop &amp;quot;Hyggelig&amp;quot; @hyggelig_coffee - a cozy coffee shop with a minimalist interior has been opened on the Petrogradskaya side. In the institution you can taste homemade desserts, enjoy leafy tea and coffee. The center of gravity is a fireplace. Despite of being artificial, it is really warming.  Bolshaya Zelenina St., 2  🌟Brave Goodies @bravegoodies - a coffee shop specializing in brutal desserts that combine traditional baking formats with original fillings. The restaurants hits include signature brownies and bacon pancakes. 📍Kolomyazhsky pr., 17&#x2F;2  🌟Shokumotsu @shokumotsu.spb is a Pan-Asian restaurant in St. Petersburg. The interior is themed - the walls are decorated with the authors painting by master Mikhail Bobylev in the style of Japanese animation. 📍Vyazemskiy lane, 4  -🇷🇺- Рестораны и кафе, которые открылись к новому сезону ☀  ⭐ Израильский ресторан Boker Tov — ресторан израильской домашней кухни, где можно насладиться большими порциями вкуснейших блюд. Одна из изюминок заведения — блюдо, сочетающее в себе разные виды сочного мяса с 12 порциями салатов, «Бегущие шампуры». Официант будет обновлять тарелку, пока гость не скажет &amp;quot;стоп&amp;quot;. 📍 Большая Зеленина ул, 2  ⭐ Кофейня Hyggelig — уютная кофейня с минималистичным интерьером открылась на Петроградской стороне. В заведении можно отведать домашние десерты, насладиться листовым чаем и кофе. Центр притяжения — камин, хоть и искусственный, но греющий по-настоящему. 📍 Большая Зеленина ул, 2  ⭐ Brave Goodies — кофейня специализируется на брутальных десертах, сочетающих в себе традиционные форматы выпечки с оригинальными наполнителями. Среди хитов заведения — фирменные брауни и панкейки с беконом. 📍 Коломяжский пр., 17&#x2F;2  ⬇️Продолжение в комментариях ⬇️" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;166719675_3784509641597935_1822995870071385697_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;Ws1BVsoRtb0AX8_49KJ&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;62c7e3339720e4a196f0f064bbd3014d&amp;oe&#x3D;608F23A8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- 😉Got a minute to talk about the regions of the Silver Necklace of Russia?!  We’ll tell you about the must-sees and the specialties one should definitely not miss😎  Let’s start with the Komi Republic @r_komi   The charm of this Ural Republic is not only about its subsoil wealth, deep forests and clean, pleasantly rippling rivers. Komi is imbued with the spirit of its indigenous people Mansi, their customs and legends.  🏞Man-Pupu-Nyor Plateau is a natural monument shrouded in the legends and superstitions of the Mansi. The weathering pillars are 200 million years old. It is the magic riddle of the mysterious Urals. The monument is officially recognized as one of the 7 wonders of Russia . 📸 @liseykina  🌳The Yugyd va National Park is one of the largest in Russia. The name Yugyd va is translated from the Komi language as &amp;quot;light water&amp;quot;. An untouched corner of nature - &amp;quot;the lungs of Europe&amp;quot; - has been under the protection of UNESCO since 1995. 📸 @ilyapuzan  🧝🏼‍♀️The village of Ust-Tsilma is inhabited by descendants of Novgorodians, who did not recognize Nikons church reform. Ritualism, cultural traditions, melodiousness of the Old Russian language have remained untouched by civilization here.  🍴What one should definitely try in the Komi Republic ? 🍺Sur is a country beer - its recipe has been preserved for several centuries. 🥟Shanga that’s how delicious pies with various fillings are called. 🍖Venison is very tender and tasty meat, an excellent gift one can bring from Komi.🥃Cloudberry liqueur is always a natural composition and a pleasant berry taste with only 18% alcohol it is also a great souvenir from the Republic. 📸  Still have questions? Ask them in the commentaries⬇️  If you enjoyed the review, like it, and in the next posts we will reveal the secrets of other regions of the Silver Necklace of Russia✅  -🇷🇺-  😉Поговорим о регионах Серебряного ожерелья России?!  Расскажем о топ местах, обязательных к посещению и о блюдах, которые однозначно стоит попробовать🔝  😍Начнем с Республики Коми @r_komi Очарование этой уральской республики не только в богатстве недр, дремучих лесах и звонких чистых реках.  ⬇️Продолжение в комментариях ⬇️" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;164509491_3739428742801743_786932103711009000_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;57n3OBFBs2wAX-FjU8E&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;8e723f97a319c10b2204e5677410d772&amp;oe&#x3D;608E36C6&amp;_nc_sid&#x3D;7bff83" alt="СОХРАНЯЙТЕ 🔥ЛОКАЦИЮ ДЛЯ 📸  📍Оранжерея Таврического сада, Шпалерная 43  ☀️ Здесь очень тепло, поэтому смело можно надевать красивое платье, ведь локаций для 📸 здесь хоть отбавляй!  Тсссссс..... Всеми излюбленное место – кафе на втором этаже, где можно попробовать вкусный кофе, сделать🤩снимки, насладиться прекрасным видом на тропики, а также получить флаер на БЕСПЛАТНОЕ посещение самой оранжереи🤫  Фото @christina_spb_   @orangeryspb #visitpetersburg #местаспб #кудасходитьвпитере #выходные #спб #saintpetersburg #teavel #instagood #selfie #instastop" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c0.79.640.640a&#x2F;168917759_401903974185106_8922920483911071326_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;GxGpwm3Wq2kAX9ZOez9&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;2bf09acb39dcc7a7982ff44da83b756f&amp;oe&#x3D;606E67E1&amp;_nc_sid&#x3D;7bff83" alt="Did you see such fantastic clouds over Saint Petersburg? So cool, isn’t it?😍  Photographer @sergey__nagibin  #visitpetersburg #saintpetersburg #nature #clouds" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;167975713_738802403403986_2145622971278728114_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;102&amp;_nc_ohc&#x3D;xEhLftkru8IAX9-f6uN&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;4626185dcbb0281b8ece6db063b34e96&amp;oe&#x3D;60936428&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Restaurants and cafes that have been opened for the new season ☀️  🌟 Israeli Restaurant &amp;quot;Boker Tov&amp;quot; @bokertovspb - Israeli home-cooked restaurant where you can enjoy large portions of delicious food. One of the highlights of the establishment is the &amp;quot;Running Skewers&amp;quot; dish that combines different types of juicy meat with 12 servings of salads. The waiter will update the plate until the guest says stop. 📍Bolshaya Zelenina St., 2  🌟Coffee shop &amp;quot;Hyggelig&amp;quot; @hyggelig_coffee - a cozy coffee shop with a minimalist interior has been opened on the Petrogradskaya side. In the institution you can taste homemade desserts, enjoy leafy tea and coffee. The center of gravity is a fireplace. Despite of being artificial, it is really warming.  Bolshaya Zelenina St., 2  🌟Brave Goodies @bravegoodies - a coffee shop specializing in brutal desserts that combine traditional baking formats with original fillings. The restaurants hits include signature brownies and bacon pancakes. 📍Kolomyazhsky pr., 17&#x2F;2  🌟Shokumotsu @shokumotsu.spb is a Pan-Asian restaurant in St. Petersburg. The interior is themed - the walls are decorated with the authors painting by master Mikhail Bobylev in the style of Japanese animation. 📍Vyazemskiy lane, 4  -🇷🇺- Рестораны и кафе, которые открылись к новому сезону ☀  ⭐ Израильский ресторан Boker Tov — ресторан израильской домашней кухни, где можно насладиться большими порциями вкуснейших блюд. Одна из изюминок заведения — блюдо, сочетающее в себе разные виды сочного мяса с 12 порциями салатов, «Бегущие шампуры». Официант будет обновлять тарелку, пока гость не скажет &amp;quot;стоп&amp;quot;. 📍 Большая Зеленина ул, 2  ⭐ Кофейня Hyggelig — уютная кофейня с минималистичным интерьером открылась на Петроградской стороне. В заведении можно отведать домашние десерты, насладиться листовым чаем и кофе. Центр притяжения — камин, хоть и искусственный, но греющий по-настоящему. 📍 Большая Зеленина ул, 2  ⭐ Brave Goodies — кофейня специализируется на брутальных десертах, сочетающих в себе традиционные форматы выпечки с оригинальными наполнителями. Среди хитов заведения — фирменные брауни и панкейки с беконом. 📍 Коломяжский пр., 17&#x2F;2  ⬇️Продолжение в комментариях ⬇️" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;166719675_3784509641597935_1822995870071385697_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;0g_ez8v_ZnQAX-pilgY&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;e5a7e21fac7f225b79c857b5d9a231c1&amp;oe&#x3D;6092B2E8&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- 😉Got a minute to talk about the regions of the Silver Necklace of Russia?!  We’ll tell you about the must-sees and the specialties one should definitely not miss😎  Let’s start with the Komi Republic @r_komi   The charm of this Ural Republic is not only about its subsoil wealth, deep forests and clean, pleasantly rippling rivers. Komi is imbued with the spirit of its indigenous people Mansi, their customs and legends.  🏞Man-Pupu-Nyor Plateau is a natural monument shrouded in the legends and superstitions of the Mansi. The weathering pillars are 200 million years old. It is the magic riddle of the mysterious Urals. The monument is officially recognized as one of the 7 wonders of Russia . 📸 @liseykina  🌳The Yugyd va National Park is one of the largest in Russia. The name Yugyd va is translated from the Komi language as &amp;quot;light water&amp;quot;. An untouched corner of nature - &amp;quot;the lungs of Europe&amp;quot; - has been under the protection of UNESCO since 1995. 📸 @ilyapuzan  🧝🏼‍♀️The village of Ust-Tsilma is inhabited by descendants of Novgorodians, who did not recognize Nikons church reform. Ritualism, cultural traditions, melodiousness of the Old Russian language have remained untouched by civilization here.  🍴What one should definitely try in the Komi Republic ? 🍺Sur is a country beer - its recipe has been preserved for several centuries. 🥟Shanga that’s how delicious pies with various fillings are called. 🍖Venison is very tender and tasty meat, an excellent gift one can bring from Komi.🥃Cloudberry liqueur is always a natural composition and a pleasant berry taste with only 18% alcohol it is also a great souvenir from the Republic. 📸  Still have questions? Ask them in the commentaries⬇️  If you enjoyed the review, like it, and in the next posts we will reveal the secrets of other regions of the Silver Necklace of Russia✅  -🇷🇺-  😉Поговорим о регионах Серебряного ожерелья России?!  Расскажем о топ местах, обязательных к посещению и о блюдах, которые однозначно стоит попробовать🔝  😍Начнем с Республики Коми @r_komi Очарование этой уральской республики не только в богатстве недр, дремучих лесах и звонких чистых реках.  ⬇️Продолжение в комментариях ⬇️" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;164509491_3739428742801743_786932103711009000_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;57n3OBFBs2wAX9JkZ29&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;44928d3699b9d80f6517822a3f818353&amp;oe&#x3D;6091C606&amp;_nc_sid&#x3D;7bff83" alt="СОХРАНЯЙТЕ 🔥ЛОКАЦИЮ ДЛЯ 📸  📍Оранжерея Таврического сада, Шпалерная 43  ☀️ Здесь очень тепло, поэтому смело можно надевать красивое платье, ведь локаций для 📸 здесь хоть отбавляй!  Тсссссс..... Всеми излюбленное место – кафе на втором этаже, где можно попробовать вкусный кофе, сделать🤩снимки, насладиться прекрасным видом на тропики, а также получить флаер на БЕСПЛАТНОЕ посещение самой оранжереи🤫  Фото @christina_spb_   @orangeryspb #visitpetersburg #местаспб #кудасходитьвпитере #выходные #спб #saintpetersburg #teavel #instagood #selfie #instastop" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -274,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>0°C (<i>snow</i>), humidity: 93%, pressure: 987 (mbar), wind: /south-east/ 2 (m/s), cloudy: 75%</b>
+        <b>3°C (<i>light rain</i>), humidity: 65%, pressure: 993 (mbar), wind: /south/ 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>06:09 am</b> and sets at <b>19:53 pm</b>.
     </p>
@@ -287,151 +287,151 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [See Industrial Light and Magic's Enormous LED Set for 'The Mandalorian'](https://www.reviewgeek.com/76393/see-industrial-light-and-magics-enormous-led-set-for-the-mandalorian/)
-* [NASA's Sonification Project Lets You Listen to Stars and Black Holes](https://www.reviewgeek.com/76381/nasas-sonification-project-lets-you-listen-to-stars-and-black-holes/)
-* [How to Send Emails to Undisclosed Recipients in Gmail](https://www.howtogeek.com/717924/how-to-send-emails-to-undisclosed-recipients-in-gmail/)
-* [Here's What It's Like to Fly into a Volcano (from a Drone's Perspective)](https://www.reviewgeek.com/76365/heres-what-its-like-to-fly-into-a-volcano-from-a-drones-perspective/)
-* [Sideload Helper Breathes New Life Into Pebble Smartwatches](https://www.reviewgeek.com/76354/sideload-helper-breathes-new-life-into-pebble-smartwatches/)
-* [How to Check Someone’s Availability in Google Calendar](https://www.howtogeek.com/717167/how-to-check-someones-availability-in-google-calendar/)
-* [What Is Google Discover, and How Do I View It on My Phone?](https://www.howtogeek.com/721851/what-is-google-discover-and-how-do-i-view-it-on-my-phone/)
-* [How to Change Your Account Email Address on Disney+](https://www.howtogeek.com/719286/how-to-change-your-account-email-on-disney-plus/)
-* [How to Hide or Show Individual File Extensions on a Mac](https://www.howtogeek.com/715358/how-to-hide-or-show-individual-file-extensions-on-a-mac/)
-* [iiRcade's $599 Bartop Arcade Cabinet Comes with a Digital Game Store](https://www.reviewgeek.com/76357/iircades-599-bartop-arcade-cabinet-comes-with-a-digital-game-store/)
+* [How to Turn off Animated Emojis and GIFs in Slack](https://www.howtogeek.com/717296/how-to-turn-off-animated-emojis-and-gifs-in-slack/)
+* [How to Close All Finder Windows at Once on Mac](https://www.howtogeek.com/715134/how-to-close-all-finder-windows-at-once-on-mac/)
+* [The 10 Best Video Game Movies Available to Stream](https://www.howtogeek.com/721165/the-10-best-video-game-movies-available-to-stream/)
+* [Define a Great Vim Profile Using .vimrc](https://www.cloudsavvyit.com/9884/define-a-great-vim-profile-using-vimrc/)
+* [How to Use the Internet from China](https://www.howtogeek.com/720639/how-to-use-the-internet-from-china/)
+* [10 Tech Troubleshooting Tips to Fix Your Gadgets](https://www.howtogeek.com/718783/10-tech-troubleshooting-tips-to-fix-your-gadgets/)
+* [The New Hummer SUV EV Actually Looks Like a Hummer, Starts at $80,000](https://www.reviewgeek.com/76580/the-new-hummer-suv-ev-actually-looks-like-a-hummer-starts-at-80000/)
+* [Watch Over 3,000 Drones Fly Together for the Best Car Commercial Yet](https://www.reviewgeek.com/76578/watch-over-3000-drones-fly-together-for-the-best-car-commercial-yet/)
+* [Samsung's Adidas-Branded Galaxy Buds Pro Are Straight Fire 🔥](https://www.reviewgeek.com/76562/samsungs-adidas-branded-galaxy-buds-pro-are-straight-fire-%f0%9f%94%a5/)
+* [Wyze Cam v3 Gets a Window Mount for Easy Outdoor Security](https://www.reviewgeek.com/76566/wyze-cam-v3-gets-an-window-mount-for-easy-outdoor-security/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How Do You Invest?](https://news.ycombinator.com/item?id=26694623)
-- [Show HN: Test if your (Australian) phone number is in the leaked Facebook dump](https://www.thenewseachday.com/facebook-phone-numbers-australia)
-- [The Night 46 Million Grasshoppers Went to Vegas](https://www.nytimes.com/2021/03/30/science/vegas-light-pollution-ecology-grasshoppers.html)
-- [A Tale of Two Tongues](https://believermag.com/english-esperanto-universal-language/)
-- [The future of sex in elite sport](https://www.nature.com/articles/d41586-021-00819-0)
-- [NFTs Weren’t Supposed to End Like This](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488)
-- [Madame Comrade](https://aeon.co/essays/the-peoples-ambassadress-the-forgotten-diplomacy-of-ivy-litvinov)
-- [A Computer Scientist Who Tackles Inequality Through Algorithms](https://www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/)
-- [Make any web page into an Android widget](https://play.google.com/store/apps/details?id=com.binarysmith.webclipwidget.ad)
-- [Elon Musk’s Starlink could make Earth visible to alien civilizations](https://www.teslarati.com/elon-musk-starlink-aliens-detection-study/)
+- [Will.i.am and Honeywell introduce the first connected mask](https://www.nytimes.com/2021/04/06/style/william-face-mask.html)
+- [Flight Penguin – New Flight Search Extension from Hipmunk Founders](https://flightpenguin.com/)
+- [Fungible Tokens](https://remyporter.github.io/TFTs/)
+- [Reading Plus Is Hiring – Platform Engineer and QA Engineer/Tester](https://www.readingplus.com/careers/)
+- [Set up Tailwind CSS JIT in a Rails project to compile styles 20x faster](https://evilmartians.com/chronicles/set-up-tailwind-css-jit-in-a-rails-project-to-compile-styles-20x-faster)
+- [Introducing Our Image Classification Pilot](https://pro.europeana.eu/post/introducing-our-image-classification-pilot)
+- [ArchLinux gets an install script with installer](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall)
+- [I’m being jailed for four emails from 12 years ago (2019)](https://www.bbc.co.uk/news/business-49841361)
+- [Apple iPhone Assembler Hon Hai Revenue Jumps 44% on Covid Demand](https://www.bloomberg.com/news/articles/2021-04-06/hon-hai-revenue-jumps-44-on-stay-at-home-demand-for-gadgets)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A year of Keir: has the Covid pandemic sidelined Labour's leader?](https://www.theguardian.com/news/audio/2021/apr/05/a-year-of-keir-has-the-covid-pandemic-sidelined-labours-leader)
-- [Thai tourist island of Phuket gets Covid jabs first in race to offer quarantine-free holidays](https://www.theguardian.com/world/2021/apr/05/thailand-tourism-phuket-covid-jabs-quarantine-holidays)
-- [EU sounds alarm at Russian troops' Ukraine border moves](https://www.theguardian.com/world/2021/apr/05/eu-sounds-alarm-at-russian-troops-ukraine-border-moves)
-- [Taiwan train crash: truck driver expresses 'deep remorse' over disaster](https://www.theguardian.com/world/2021/apr/05/taiwan-train-crash-truck-driver-expresses-deep-remorse-over-disaster)
-- [More than 50 die in flash floods in Indonesia and Timor-Leste](https://www.theguardian.com/world/2021/apr/05/indonesia-timor-leste-floods-deaths-landslides)
-- [Northern Ireland: police attacked in another night of disturbances](https://www.theguardian.com/uk-news/2021/apr/05/northern-ireland-police-attacked-in-another-night-of-disturbances)
-- [Number of young people with driving licence in Great Britain at lowest on record](https://www.theguardian.com/money/2021/apr/05/number-of-young-people-with-driving-licence-in-great-britain-at-lowest-on-record)
-- [Number of gamblers trying to block themselves online surges](https://www.theguardian.com/society/2021/apr/05/number-of-gamblers-trying-to-block-themselves-online-surges)
-- [Everyone in England to be offered twice-weekly Covid tests, PM to say](https://www.theguardian.com/world/2021/apr/05/twice-weekly-lateral-flow-covid-tests-england-lockdown-boris-johnson)
-- ['Incredibly relieved': Australian couple freed from house arrest in Myanmar](https://www.theguardian.com/australia-news/2021/apr/05/incredibly-relieved-australian-couple-freed-from-house-arrest-in-myanmar)
+- [Coronavirus live news: EMA denies establishing link between AstraZeneca vaccine and rare blood clots](https://www.theguardian.com/world/live/2021/apr/06/coronavirus-live-news-indian-states-call-for-people-under-45-to-be-eligible-for-vaccine-cases-rising-in-japan)
+- [Songs My Brothers Taught Me review – Chloé Zhao's deeply intelligent debut](https://www.theguardian.com/film/2021/apr/06/songs-my-brothers-taught-me-review-chloe-zhao)
+- [Derek Chauvin trial: police inspector to testify for prosecution – live updates](https://www.theguardian.com/us-news/live/2021/apr/06/derek-chauvin-trial-george-floyd-live-updates)
+- [Pub, leisure stocks help push FTSE higher as England prepares to lift restrictions – business live](https://www.theguardian.com/business/live/2021/apr/06/credit-suisse-scraps-bonuses-bosses-exit-after-archegos-greensill-fallout-stocks-pound-travel-covid-retail-vaccine-business-live)
+- [Biden poised to announce all US adults vaccine-eligible by 19 April – US politics live](https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest)
+- [Keir Starmer apologises for visiting church behind gay 'exorcisms'](https://www.theguardian.com/politics/2021/apr/06/keir-starmer-apologises-for-visiting-jesus-church-behind-which-performed-gay-exorcisms)
+- [UK weather: areas hit by 11cm snow and -4C temperatures](https://www.theguardian.com/uk-news/2021/apr/06/uk-weather-areas-hit-by-11cm-snow-and--4c-temperatures)
+- [Dutch police arrest man over theft of Van Gogh and Hals paintings](https://www.theguardian.com/artanddesign/2021/apr/06/dutch-police-arrest-man-theft-van-gogh-hals-paintings-laughing-boys-parsonage-garden)
+- [EU blames AstraZeneca 'failure' as it misses vaccination target](https://www.theguardian.com/world/2021/apr/06/eu-blames-astrazeneca-failure-for-sluggish-covid-vaccine-rollout)
+- [The egregious Sewell report only bolsters those who want to discredit antiracism | Alana Lentin](https://www.theguardian.com/commentisfree/2021/apr/06/sewell-report-discredit-antiracism-racism)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla Owners Asking What Happens If 'Full Self Driving' Isn't Real](https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907)
-- [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
-- [Ask HN: What novel tools are you using to write web sites/apps?](https://news.ycombinator.com/item?id=26693959)
-- [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
-- [WebOS OSE 2.10.0 Release](https://www.webosose.org/blog/2021/04/02/webos-ose-2-10-0-release/)
-- [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
-- [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
-- [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
-- [Show HN: Map of active customers for landing page](https://github.com/ziolko/roombelt-activity-map)
-- [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [Old programming language is suddenly getting more popular again](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
+- [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html)
+- [Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?](https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/)
+- [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
+- [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
+- [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+- [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
+- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
+- [Jakub Konka Hired Full Time](https://ziglang.org/news/jakub-konka-hired-full-time/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [2 colossal Chrome OS changes to keep an eye on](https://www.computerworld.com/article/3614189/chrome-os-changes.html#tk.rss_all)
+- [US IT jobs have regained what they lost in the pandemic](https://www.computerworld.com/article/3542681/us-it-jobs-have-regained-what-they-lost-in-the-pandemic.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [For Microsoft and Apple, a reprise of all-virtual dev conferences](https://www.computerworld.com/article/3614172/for-microsoft-and-apple-a-reprise-of-all-virtual-dev-conferences.html#tk.rss_all)
+- [Mosyle unveils Apple MDM tools for the enterprise](https://www.computerworld.com/article/3614082/mosyle-unveils-apple-mdm-tools-for-the-enterprise.html#tk.rss_all)
+- [Windows Update for Business: details, details](https://www.computerworld.com/article/3614170/windows-update-for-business-details-details.html#tk.rss_all)
+- [Is it time to move to hosted Exchange? Considerations for IT](https://www.computerworld.com/article/3614077/is-it-time-to-move-to-hosted-exchange-considerations-for-it.html#tk.rss_all)
 - [Apple switches off the ‘open web’ by making it better](https://www.computerworld.com/article/3614148/apple-switches-off-the-open-web-by-making-it-better.html#tk.rss_all)
 - [Cisco, with Webex, delicately moves to 'instrument' employees — without violating privacy](https://www.computerworld.com/article/3613910/cisco-with-webex-delicately-moves-to-instrument-employees-without-violating-privacy.html#tk.rss_all)
 - [Podcast: WWDC 2021: What to expect at Apple's June event](https://www.computerworld.com/article/3613915/podcast-wwdc-2021-what-to-expect-at-apples-june-event.html#tk.rss_all)
-- [Cisco adds 'People Insights' analytics to Webex](https://www.computerworld.com/article/3613811/cisco-adds-people-insights-analytics-to-webex.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [BrandPost: How HP Helps With Responsible PC Retirement – Even During a Pandemic](https://www.computerworld.com/article/3613912/how-hp-helps-with-responsible-pc-retirement-even-during-a-pandemic.html#tk.rss_all)
-- [How to fix the Apple tech skills gap](https://www.computerworld.com/article/3613809/how-to-fix-the-apple-tech-skills-gap.html#tk.rss_all)
-- [How to add powerful voice commands into Chrome on your computer](https://www.computerworld.com/article/3613712/chrome-voice-commands.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [11 Things IT Professionals Wish They Knew Earlier in Their Careers](https://www.informationweek.com/strategic-cio/11-things-it-professionals-wish-they-knew-earlier-in-their-careers/d/d-id/1340570?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Business of Experience: A CIO Toolkit for the Year Ahead](https://www.informationweek.com/strategic-cio/the-business-of-experience-a-cio-toolkit-for-the-year-ahead-/a/d-id/1340578?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [FTD's CTO Powell on Transforming and the Next New Normal](https://www.informationweek.com/strategic-cio/digital-business/ftds-cto-powell-on-transforming-and-the-next-new-normal/a/d-id/1340585?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AI at Your Service](https://www.informationweek.com/big-data/ai-machine-learning/ai-at-your-service/a/d-id/1340569?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [HealthBridge's Low-Code Strategy to Process Medical Claims](https://www.informationweek.com/devops/project-management/healthbridges-low-code-strategy-to-process-medical-claims/a/d-id/1340573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Build a Post-Pandemic AI Strategy for Resilience, Recovery](https://www.informationweek.com/big-data/ai-machine-learning/build-a-post-pandemic-ai-strategy-for-resilience-recovery/a/d-id/1340557?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Does Identity Hinder Hybrid-Cloud and Multi-Cloud Adoption?](https://www.informationweek.com/cloud/does-identity-hinder-hybrid-cloud-and-multi-cloud-adoption/a/d-id/1340562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [New Storage Trends Promise to Help Enterprises Handle a Data Avalanche](https://www.informationweek.com/big-data/new-storage-trends-promise-to-help-enterprises-handle-a-data-avalanche/a/d-id/1340559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Time to Shift Your Job Search Out of Neutral](https://www.informationweek.com/time-to-shift-your-job-search-out-of-neutral/d/d-id/1340548?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Innovation in a COVID World: 4 Steps for CIOs To Get It Done](https://www.informationweek.com/strategic-cio/digital-business/innovation-in-a-covid-world-4-steps-for-cios-to-get-it-done-/a/d-id/1340527?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why IT Roles Are Broadening](https://www.informationweek.com/strategic-cio/why-it-roles-are-broadening/a/d-id/1340536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Making the Business Case for Edge Computing](https://www.informationweek.com/cloud/making-the-business-case-for-edge-computing/a/d-id/1340524?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Are Your Cloud Costs Outpacing Your Growth?](https://www.informationweek.com/cloud/are-your-cloud-costs-outpacing-your-growth/a/d-id/1340523?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AWS Names Selipsky as Next CEO to Succeed Andy Jassy](https://www.informationweek.com/cloud/aws-names-selipsky-as-next-ceo-to-succeed-andy-jassy/d/d-id/1340520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
+- [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
+- [Objective-C plummets in popularity](https://www.infoworld.com/article/3613938/objective-c-plummets-in-popularity.html#tk.rss_all)
+- [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_all)
+- [Visual Studio Code 1.55 brings improvements to breakpoints](https://www.infoworld.com/article/3614076/visual-studio-code-155-brings-improvements-to-breakpoints.html#tk.rss_all)
+- [Data lineage: What it is and why it’s important](https://www.infoworld.com/article/3613592/data-lineage-what-it-is-and-why-its-important.html#tk.rss_all)
+- [7 ways the cloud is changing](https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html#tk.rss_all)
 - [Eclipse hosts Visual Studio Code extensions marketplace](https://www.infoworld.com/article/3613837/eclipse-hosts-visual-studio-code-extensions-marketplace.html#tk.rss_all)
 - [Are industry clouds an opportunity or a distraction?](https://www.infoworld.com/article/3613714/are-industry-clouds-an-opportunity-or-a-distraction.html#tk.rss_all)
 - [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_all)
-- [4 key tests for your AI explainability toolkit](https://www.infoworld.com/article/3613832/4-key-tests-for-your-ai-explainability-toolkit.html#tk.rss_all)
-- [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html#tk.rss_all)
-- [Deno Company forms to back Node.js rival](https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html#tk.rss_all)
-- [Microsoft inches closer to unified Windows SDK](https://www.infoworld.com/article/3613569/microsoft-inches-closer-to-unified-windows-sdk.html#tk.rss_all)
-- [8 ways to jump-start your machine learning](https://www.infoworld.com/article/3613185/8-ways-to-jump-start-your-machine-learning.html#tk.rss_all)
-- [JDK 17: What’s in store for Java 17](https://www.infoworld.com/article/3606833/jdk-17-whats-in-store-for-java-17.html#tk.rss_all)
-- [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Where now for storage? Dell EMC, NetApp and HPE](https://www.computerweekly.com/feature/Where-now-for-storage-Dell-EMC-NetApp-and-HPE)
+- [US court issues Google API with Java ruling](https://www.computerweekly.com/news/252498872/US-court-issues-Google-API-with-Java-ruling)
+- [IR35 reforms: Private sector start date prompts mixed picture of predictions for contracting market](https://www.computerweekly.com/news/252498865/IR35-reforms-Private-sector-start-date-prompts-mixed-picture-of-predictions-for-contracting-market)
+- [GDS seeks director for identity assurance programme](https://www.computerweekly.com/news/252498780/GDS-seeks-director-for-identity-assurance-programme)
 - [EncroChat hearings delayed as lawyers seek disclosure on police hacking](https://www.computerweekly.com/news/252498762/EncroChat-hearings-delayed-as-lawyers-seek-disclosure-on-police-hacking)
 - [IR35 reforms: Loan charge and employers’ NI issues prompt calls for legislative revamp](https://www.computerweekly.com/news/252498766/IR35-reforms-Loan-charge-and-employers-NI-issues-prompt-calls-for-legislative-revamp)
 - [Project Monterey returns to haunt IBM and Red Hat](https://www.computerweekly.com/news/252498754/Project-Monterey-returns-to-haunt-IBM-and-Red-Hat)
 - [Starting a career in the digital economy](https://www.computerweekly.com/feature/Starting-a-career-in-the-digital-economy)
 - [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
 - [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
-- [Commerzbank picks Google for cloud migration](https://www.computerweekly.com/news/252498684/Commerzbank-picks-Google-for-cloud-migration)
-- [NHS is apparently closing security skills gap](https://www.computerweekly.com/news/252498677/NHS-is-apparently-closing-security-skills-gap)
-- [Security Think Tank: Evolving threats, tech, leaves CNI exposed](https://www.computerweekly.com/opinion/Security-Think-Tank-Evolving-threats-tech-leaves-CNI-exposed)
-- [Cyber Security Council to champion UK security pros](https://www.computerweekly.com/news/252498673/Cyber-Security-Council-to-champion-UK-security-pros)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [webinar on Computer Vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/ml77w2/webinar_on_computer_vision_by_mouri_tech/)
+- [Help me with proposing a new job title?](https://www.reddit.com/r/InformationTechnology/comments/ml6xx4/help_me_with_proposing_a_new_job_title/)
+- [How to get experience in systems and deployments?](https://www.reddit.com/r/InformationTechnology/comments/ml6ktw/how_to_get_experience_in_systems_and_deployments/)
+- [Cell phone IP](https://www.reddit.com/r/InformationTechnology/comments/ml5cc6/cell_phone_ip/)
+- [Does mini hdmi to hdmi adapter work on video card ?](https://www.reddit.com/r/InformationTechnology/comments/mkxv3q/does_mini_hdmi_to_hdmi_adapter_work_on_video_card/)
+- [CATV Internet](https://www.reddit.com/r/InformationTechnology/comments/mkrpyw/catv_internet/)
+- [New Ventures](https://www.reddit.com/r/InformationTechnology/comments/mkovjz/new_ventures/)
+- [Some Ambitions](https://www.reddit.com/r/InformationTechnology/comments/mkd69n/some_ambitions/)
 - [Are you great techie who knows open source software?Pls help me on this survey](https://www.reddit.com/r/InformationTechnology/comments/mk83m7/are_you_great_techie_who_knows_open_source/)
 - [Web Proxies not Working](https://www.reddit.com/r/InformationTechnology/comments/mk2iuw/web_proxies_not_working/)
-- [Stupid Questions Thread](https://www.reddit.com/r/InformationTechnology/comments/mibf5p/stupid_questions_thread/)
-- [IT Job requirements](https://www.reddit.com/r/InformationTechnology/comments/mhyjq7/it_job_requirements/)
-- [What is network deauthentication/disassociation and BSS transition](https://www.reddit.com/r/InformationTechnology/comments/mhom1e/what_is_network_deauthenticationdisassociation/)
-- [What should I expect from an interview with the “engineering team”?](https://www.reddit.com/r/InformationTechnology/comments/mhmxss/what_should_i_expect_from_an_interview_with_the/)
-- [Was contacted for a Help desk remote position, but I responded an hour later than I was supposed to?](https://www.reddit.com/r/InformationTechnology/comments/mhh9zs/was_contacted_for_a_help_desk_remote_position_but/)
-- [For the professionals out there, what are the best Certifications or programs I can go through in order to help secure an IT related job?](https://www.reddit.com/r/InformationTechnology/comments/mhcqzc/for_the_professionals_out_there_what_are_the_best/)
-- [After USMC](https://www.reddit.com/r/InformationTechnology/comments/mh9rfw/after_usmc/)
-- [I need help with somehting I've never seen.](https://www.reddit.com/r/InformationTechnology/comments/mh6hs8/i_need_help_with_somehting_ive_never_seen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
+- [Cisco updates Webex People Insights to help boost employee well-being](https://www.itworldcanada.com/article/cisco-updates-webex-people-insights-to-help-boost-employee-well-being/445495)
+- [MSSP eSentire says hackers using LinkedIn profiles for spearphishing](https://www.itworldcanada.com/article/mssp-esentire-says-hackers-using-linkedin-profiles-for-spearphishing/445461)
+- [LG closes its smartphone business](https://www.itworldcanada.com/article/lg-closes-its-smartphone-business/445441)
+- [Cyber Security Today, April 5, 2021 – Twitter users’ phone numbers and email addresses are now free, and check the integrity of your IT supply chain](https://www.itworldcanada.com/article/cyber-security-today-april-5-2021-twitter-users-phone-numbers-and-email-addresses-are-now-free-and-check-the-integrity-of-your-it-supply-chain/445438)
+- [Hashtag Trending, April 5, 2021 – Millions of Facebook users’ data leaks online; Amazon admits it was wrong – sorta; Stats Can reports on remote worker](https://www.itworldcanada.com/article/hashtag-trending-april-5-2021-millions-of-facebook-users-data-leaks-online-amazon-admits-it-was-wrong-sorta-stats-can-reports-on-remote-worker/445435)
 - [Cyber Security Today, Week In Review for April 2, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-2-2021/445382)
 - [Canadian retailer Home Hardware hit by ransomware](https://www.itworldcanada.com/article/canadian-retailer-home-hardware-hit-by-ransomware/445416)
 - [RangeForce adds mid-priced packages to cybersecurity training offerings](https://www.itworldcanada.com/article/rangeforce-adds-mid-priced-packages-to-cybersecurity-training-offerings/444779)
 - [Cyber Security Today, April 2, 2021 – Router maker admits extortion attempt, a phone scam and another COVID con](https://www.itworldcanada.com/article/cyber-security-today-april-2-2021-router-maker-admits-extortion-attempt-a-phone-scam-and-another-covid-con/445388)
-- [FedDev Ontario to invest $14.6 million to support growth of six Toronto tech firms](https://www.itworldcanada.com/article/feddev-ontario-to-invest-14-6-million-to-support-growth-of-six-toronto-tech-firms/445338)
-- [Canadian government funds nation-wide tech competition to fight human trafficking with IBM and partners](https://www.itworldcanada.com/article/canadian-government-funds-first-nation-wide-tech-competition-to-fight-human-trafficking/445386)
-- [Hashtag Trending, April 1, 2021 – Tweets from U.S. Nuclear agency; Nerf hires chief TikTok officer; Hybrid office preview](https://www.itworldcanada.com/article/hashtag-trending-april-1-2021-tweets-from-u-s-nuclear-agency-nerf-hires-chief-tiktok-officer-hybrid-office-preview/445324)
-- [Are you following these five best practices to protect your data?](https://www.itworldcanada.com/article/are-you-following-these-five-best-practices-to-protect-your-data/445317)
-- [World Backup Day advice: Give your system some love](https://www.itworldcanada.com/article/world-backup-day-advice-give-your-system-some-love/445276)
-- [Social isolation is driving up fraud anxiety, says TD Bank](https://www.itworldcanada.com/article/social-isolation-is-driving-up-fraud-anxiety-says-td-bank/445337)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -317,16 +317,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A year of Keir: has the Covid pandemic sidelined Labour's leader?](https://www.theguardian.com/news/audio/2021/apr/05/a-year-of-keir-has-the-covid-pandemic-sidelined-labours-leader)
-- [Thai tourist island of Phuket gets Covid jabs first in race to offer quarantine-free holidays](https://www.theguardian.com/world/2021/apr/05/thailand-tourism-phuket-covid-jabs-quarantine-holidays)
-- [EU sounds alarm at Russian troops' Ukraine border moves](https://www.theguardian.com/world/2021/apr/05/eu-sounds-alarm-at-russian-troops-ukraine-border-moves)
-- [Taiwan train crash: truck driver expresses 'deep remorse' over disaster](https://www.theguardian.com/world/2021/apr/05/taiwan-train-crash-truck-driver-expresses-deep-remorse-over-disaster)
-- [More than 50 die in flash floods in Indonesia and Timor-Leste](https://www.theguardian.com/world/2021/apr/05/indonesia-timor-leste-floods-deaths-landslides)
-- [Northern Ireland: police attacked in another night of disturbances](https://www.theguardian.com/uk-news/2021/apr/05/northern-ireland-police-attacked-in-another-night-of-disturbances)
-- [Number of young people with driving licence in Great Britain at lowest on record](https://www.theguardian.com/money/2021/apr/05/number-of-young-people-with-driving-licence-in-great-britain-at-lowest-on-record)
-- [Number of gamblers trying to block themselves online surges](https://www.theguardian.com/society/2021/apr/05/number-of-gamblers-trying-to-block-themselves-online-surges)
-- [Everyone in England to be offered twice-weekly Covid tests, PM to say](https://www.theguardian.com/world/2021/apr/05/twice-weekly-lateral-flow-covid-tests-england-lockdown-boris-johnson)
-- ['Incredibly relieved': Australian couple freed from house arrest in Myanmar](https://www.theguardian.com/australia-news/2021/apr/05/incredibly-relieved-australian-couple-freed-from-house-arrest-in-myanmar)
+- [Coronavirus live news: EMA denies establishing link between AstraZeneca vaccine and rare blood clots](https://www.theguardian.com/world/live/2021/apr/06/coronavirus-live-news-indian-states-call-for-people-under-45-to-be-eligible-for-vaccine-cases-rising-in-japan)
+- [Songs My Brothers Taught Me review – Chloé Zhao's deeply intelligent debut](https://www.theguardian.com/film/2021/apr/06/songs-my-brothers-taught-me-review-chloe-zhao)
+- [Derek Chauvin trial: police inspector to testify for prosecution – live updates](https://www.theguardian.com/us-news/live/2021/apr/06/derek-chauvin-trial-george-floyd-live-updates)
+- [Pub, leisure stocks help push FTSE higher as England prepares to lift restrictions – business live](https://www.theguardian.com/business/live/2021/apr/06/credit-suisse-scraps-bonuses-bosses-exit-after-archegos-greensill-fallout-stocks-pound-travel-covid-retail-vaccine-business-live)
+- [Biden poised to announce all US adults vaccine-eligible by 19 April – US politics live](https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest)
+- [Keir Starmer apologises for visiting church behind gay 'exorcisms'](https://www.theguardian.com/politics/2021/apr/06/keir-starmer-apologises-for-visiting-jesus-church-behind-which-performed-gay-exorcisms)
+- [UK weather: areas hit by 11cm snow and -4C temperatures](https://www.theguardian.com/uk-news/2021/apr/06/uk-weather-areas-hit-by-11cm-snow-and--4c-temperatures)
+- [Dutch police arrest man over theft of Van Gogh and Hals paintings](https://www.theguardian.com/artanddesign/2021/apr/06/dutch-police-arrest-man-theft-van-gogh-hals-paintings-laughing-boys-parsonage-garden)
+- [EU blames AstraZeneca 'failure' as it misses vaccination target](https://www.theguardian.com/world/2021/apr/06/eu-blames-astrazeneca-failure-for-sluggish-covid-vaccine-rollout)
+- [The egregious Sewell report only bolsters those who want to discredit antiracism | Alana Lentin](https://www.theguardian.com/commentisfree/2021/apr/06/sewell-report-discredit-antiracism-racism)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

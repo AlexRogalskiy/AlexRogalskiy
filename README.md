@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/A_good_man_is_hard_to_find_980.php" target="_blank"><i>A good man is hard to find</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/There_are_two_sides_to_every_question_872.php" target="_blank"><i>There are two sides to every question</i></a>
 <span> = </span>
-<span>This saying talks about the difficulties for women in finding a suitable male partner.</span>
+<span>In any dispute or discussion, we should acknowledge that people have different points of view.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

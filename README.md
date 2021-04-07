@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft unveils its own Java distribution](https://www.infoworld.com/article/3614211/microsoft-unveils-its-own-java-distribution.html#tk.rss_all)
 - [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
 - [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
 - [Objective-C plummets in popularity](https://www.infoworld.com/article/3613938/objective-c-plummets-in-popularity.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [7 ways the cloud is changing](https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html#tk.rss_all)
 - [Eclipse hosts Visual Studio Code extensions marketplace](https://www.infoworld.com/article/3613837/eclipse-hosts-visual-studio-code-extensions-marketplace.html#tk.rss_all)
 - [Are industry clouds an opportunity or a distraction?](https://www.infoworld.com/article/3613714/are-industry-clouds-an-opportunity-or-a-distraction.html#tk.rss_all)
-- [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

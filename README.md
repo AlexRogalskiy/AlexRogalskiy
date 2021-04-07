@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: EMA denies establishing link between AstraZeneca vaccine and rare blood clots](https://www.theguardian.com/world/live/2021/apr/06/coronavirus-live-news-indian-states-call-for-people-under-45-to-be-eligible-for-vaccine-cases-rising-in-japan)
-- [Songs My Brothers Taught Me review – Chloé Zhao's deeply intelligent debut](https://www.theguardian.com/film/2021/apr/06/songs-my-brothers-taught-me-review-chloe-zhao)
-- [Derek Chauvin trial: police inspector to testify for prosecution – live updates](https://www.theguardian.com/us-news/live/2021/apr/06/derek-chauvin-trial-george-floyd-live-updates)
-- [Pub, leisure stocks help push FTSE higher as England prepares to lift restrictions – business live](https://www.theguardian.com/business/live/2021/apr/06/credit-suisse-scraps-bonuses-bosses-exit-after-archegos-greensill-fallout-stocks-pound-travel-covid-retail-vaccine-business-live)
-- [Biden poised to announce all US adults vaccine-eligible by 19 April – US politics live](https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest)
-- [Keir Starmer apologises for visiting church behind gay 'exorcisms'](https://www.theguardian.com/politics/2021/apr/06/keir-starmer-apologises-for-visiting-jesus-church-behind-which-performed-gay-exorcisms)
-- [UK weather: areas hit by 11cm snow and -4C temperatures](https://www.theguardian.com/uk-news/2021/apr/06/uk-weather-areas-hit-by-11cm-snow-and--4c-temperatures)
-- [Dutch police arrest man over theft of Van Gogh and Hals paintings](https://www.theguardian.com/artanddesign/2021/apr/06/dutch-police-arrest-man-theft-van-gogh-hals-paintings-laughing-boys-parsonage-garden)
-- [EU blames AstraZeneca 'failure' as it misses vaccination target](https://www.theguardian.com/world/2021/apr/06/eu-blames-astrazeneca-failure-for-sluggish-covid-vaccine-rollout)
-- [The egregious Sewell report only bolsters those who want to discredit antiracism | Alana Lentin](https://www.theguardian.com/commentisfree/2021/apr/06/sewell-report-discredit-antiracism-racism)
+- [How can the UK stop harassment and sexual abuse in schools? – podcast](https://www.theguardian.com/news/audio/2021/apr/07/how-can-uk-stop-harassment-and-sexual-abuse-in-schools-podcast)
+- [Twelve crew rescued from cargo ship adrift in huge seas off Norway](https://www.theguardian.com/business/2021/apr/07/twelve-crew-rescued-from-cargo-ship-adrift-in-huge-seas-off-norway)
+- [Miss Papua New Guinea stripped of her crown for TikTok twerking video](https://www.theguardian.com/world/2021/apr/07/miss-papua-new-guinea-png-stripped-of-her-crown-for-tiktok-twerking-video)
+- [Tax gambling firms to fund addiction treatment, says NHS director](https://www.theguardian.com/society/2021/apr/07/tax-gambling-firms-to-fund-addiction-treatment-says-nhs-director)
+- [Chronic pain sufferers should take exercise, not analgesics, says Nice](https://www.theguardian.com/society/2021/apr/07/chronic-pain-sufferers-should-take-exercise-not-analgesics-says-nice)
+- [Teachers reject Covid catchup options of extended school day and shorter holidays](https://www.theguardian.com/education/2021/apr/07/teachers-reject-covid-catchup-options-of-extended-school-day-and-shorter-holidays)
+- [‘Every other advert will be for gambling’: addicts tell of lockdown struggle](https://www.theguardian.com/society/2021/apr/07/every-other-advert-will-be-for-gambling-addicts-tell-of-lockdown-struggle)
+- [Why is a mandatory levy on the UK’s gambling industry still a roll of the dice?](https://www.theguardian.com/business/nils-pratley-on-finance/2021/apr/07/why-is-a-mandatory-levy-on-the-uks-gambling-industry-still-a-roll-of-the-dice)
+- [Patients in Wales to be first in UK to receive Moderna Covid vaccine](https://www.theguardian.com/uk-news/2021/apr/07/patients-in-wales-to-receive-moderna-covid-vaccine)
+- [Biden announces all US adults will be eligible for Covid vaccine by 19 April](https://www.theguardian.com/us-news/2021/apr/06/us-covid-vaccine-eligibility-adults-joe-biden)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

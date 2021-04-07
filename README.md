@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Turn off Animated Emojis and GIFs in Slack](https://www.howtogeek.com/717296/how-to-turn-off-animated-emojis-and-gifs-in-slack/)
-* [How to Close All Finder Windows at Once on Mac](https://www.howtogeek.com/715134/how-to-close-all-finder-windows-at-once-on-mac/)
-* [The 10 Best Video Game Movies Available to Stream](https://www.howtogeek.com/721165/the-10-best-video-game-movies-available-to-stream/)
-* [Define a Great Vim Profile Using .vimrc](https://www.cloudsavvyit.com/9884/define-a-great-vim-profile-using-vimrc/)
-* [How to Use the Internet from China](https://www.howtogeek.com/720639/how-to-use-the-internet-from-china/)
-* [10 Tech Troubleshooting Tips to Fix Your Gadgets](https://www.howtogeek.com/718783/10-tech-troubleshooting-tips-to-fix-your-gadgets/)
-* [The New Hummer SUV EV Actually Looks Like a Hummer, Starts at $80,000](https://www.reviewgeek.com/76580/the-new-hummer-suv-ev-actually-looks-like-a-hummer-starts-at-80000/)
-* [Watch Over 3,000 Drones Fly Together for the Best Car Commercial Yet](https://www.reviewgeek.com/76578/watch-over-3000-drones-fly-together-for-the-best-car-commercial-yet/)
-* [Samsung's Adidas-Branded Galaxy Buds Pro Are Straight Fire 🔥](https://www.reviewgeek.com/76562/samsungs-adidas-branded-galaxy-buds-pro-are-straight-fire-%f0%9f%94%a5/)
-* [Wyze Cam v3 Gets a Window Mount for Easy Outdoor Security](https://www.reviewgeek.com/76566/wyze-cam-v3-gets-an-window-mount-for-easy-outdoor-security/)
+* ['Star Trek: Picard' Will Return in 2022 with a Visit from Q](https://www.reviewgeek.com/76748/star-trek-picard-will-return-in-2022-with-a-visit-from-q/)
+* [The 4 Best Websites to Rent Game Servers from](https://www.reviewgeek.com/72718/the-4-best-websites-to-rent-game-servers-from/)
+* [Save $50 on the 128GB 10.2-inch iPad During Best Buy's Sale](https://www.reviewgeek.com/76750/save-50-on-the-128gb-10-2-inch-ipad-during-best-buys-sale/)
+* [Is Premium Smart Lighting Worth It?](https://www.reviewgeek.com/75645/is-premium-smart-lighting-worth-it/)
+* [Yahoo Answers No More: The Q&A Platform Shuts Down May 4th](https://www.reviewgeek.com/76740/yahoo-answers-no-more-the-qa-platform-shuts-down-may-4th/)
+* [Nomad's Desktop MagSafe Mount Keeps Your Charger on Your Desk](https://www.reviewgeek.com/76744/nomads-desktop-magsafe-mount-keeps-your-charger-on-your-desk/)
+* [Snapseed Is the Best Photo Editing App You’re Not Using](https://www.howtogeek.com/721965/snapseed-is-the-best-photo-editing-app-youre-not-using/)
+* [E3 Returns for Summer 2021 with an All-Digital Event](https://www.reviewgeek.com/76726/e3-returns-for-summer-2021-with-an-all-digital-event/)
+* [TP Link's New Wi-fi 6 Router Is Fast, Affordable, and Mesh Ready](https://www.reviewgeek.com/76734/tp-links-new-wifi-6-router-is-fast-affordable-and-mesh-ready/)
+* [How to Download and Save Images from a Google Docs Document](https://www.howtogeek.com/719450/how-to-download-and-save-images-from-a-google-docs-document/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

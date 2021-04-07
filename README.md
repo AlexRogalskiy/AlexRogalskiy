@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Windows structure Inquiry](https://www.reddit.com/r/InformationTechnology/comments/mlhfyn/windows_structure_inquiry/)
+- [Having problems port forwarding when using ISP failover on a Ubiquity EdgeRouter (ER8)](https://www.reddit.com/r/InformationTechnology/comments/mlcv9j/having_problems_port_forwarding_when_using_isp/)
+- [I need help and or inspired](https://www.reddit.com/r/InformationTechnology/comments/mlcjfp/i_need_help_and_or_inspired/)
 - [webinar on Computer Vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/ml77w2/webinar_on_computer_vision_by_mouri_tech/)
 - [Help me with proposing a new job title?](https://www.reddit.com/r/InformationTechnology/comments/ml6xx4/help_me_with_proposing_a_new_job_title/)
 - [How to get experience in systems and deployments?](https://www.reddit.com/r/InformationTechnology/comments/ml6ktw/how_to_get_experience_in_systems_and_deployments/)
@@ -413,9 +416,6 @@
 - [Does mini hdmi to hdmi adapter work on video card ?](https://www.reddit.com/r/InformationTechnology/comments/mkxv3q/does_mini_hdmi_to_hdmi_adapter_work_on_video_card/)
 - [CATV Internet](https://www.reddit.com/r/InformationTechnology/comments/mkrpyw/catv_internet/)
 - [New Ventures](https://www.reddit.com/r/InformationTechnology/comments/mkovjz/new_ventures/)
-- [Some Ambitions](https://www.reddit.com/r/InformationTechnology/comments/mkd69n/some_ambitions/)
-- [Are you great techie who knows open source software?Pls help me on this survey](https://www.reddit.com/r/InformationTechnology/comments/mk83m7/are_you_great_techie_who_knows_open_source/)
-- [Web Proxies not Working](https://www.reddit.com/r/InformationTechnology/comments/mk2iuw/web_proxies_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

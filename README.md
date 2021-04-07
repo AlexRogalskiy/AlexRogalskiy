@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Will.i.am and Honeywell introduce the first connected mask](https://www.nytimes.com/2021/04/06/style/william-face-mask.html)
-- [Flight Penguin – New Flight Search Extension from Hipmunk Founders](https://flightpenguin.com/)
-- [Fungible Tokens](https://remyporter.github.io/TFTs/)
-- [Reading Plus Is Hiring – Platform Engineer and QA Engineer/Tester](https://www.readingplus.com/careers/)
-- [Set up Tailwind CSS JIT in a Rails project to compile styles 20x faster](https://evilmartians.com/chronicles/set-up-tailwind-css-jit-in-a-rails-project-to-compile-styles-20x-faster)
-- [Introducing Our Image Classification Pilot](https://pro.europeana.eu/post/introducing-our-image-classification-pilot)
-- [ArchLinux gets an install script with installer](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall)
-- [I’m being jailed for four emails from 12 years ago (2019)](https://www.bbc.co.uk/news/business-49841361)
-- [Apple iPhone Assembler Hon Hai Revenue Jumps 44% on Covid Demand](https://www.bloomberg.com/news/articles/2021-04-06/hon-hai-revenue-jumps-44-on-stay-at-home-demand-for-gadgets)
-- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [EU Sees Near Virus Immunity by End-June Amid Astra Doubts](https://www.bloomberg.com/news/articles/2021-04-06/eu-will-near-virus-immunity-by-end-june-internal-memo-shows)
+- [I Tried to Report Scientific Misconduct: How Did It Go?](https://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html?m=1)
+- [MongoDB–Austin/Remote|Sr Software Engineer,Cloud Eng|Full-Time |Base+RSUs|Golang](https://news.ycombinator.com/item?id=26719844)
+- [Raising money and holding steady in a pandemic – a startup fundraising report](https://try.docsend.com/covid-impact-report)
+- [Instagram Scraper API](https://instagramscraperapi.com)
+- [Adding SIM Swap Detection to Your Web App's 2FA Login](https://developer.tru.id/tutorials/2fa-sim-swap-detection)
+- [Bit Cowry](https://www.granolashotgun.com/granolashotguncom/xxxmvctah38otd5co83xdckblilv9v)
+- [The Mathematical Nomad, Paul Erdős](https://www.cantorsparadise.com/the-mathematical-nomad-paul-erdős-3163b70a2863)
+- [After a Major Hack, U.S. Looks to Fix a Cyber 'Blind Spot'](https://www.npr.org/2021/04/06/983872116/after-a-major-hack-u-s-looks-to-fix-a-cyber-blind-spot)
+- [Signal Just Made One Years Worth of Server Source Code Available in One Dump](https://linuxreviews.org/Signal_Just_Made_One_Years_Worth_Of_Server-Side_Source_Code_Available_In_One_Huge_Dump)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

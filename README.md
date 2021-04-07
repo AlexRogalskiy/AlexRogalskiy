@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 86%, pressure: 998 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>0°C (<i>clear sky</i>), humidity: 86%, pressure: 999 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>06:06 am</b> and sets at <b>19:55 pm</b>.
     </p>
@@ -286,66 +286,69 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Turn off Animated Emojis and GIFs in Slack](https://www.howtogeek.com/717296/how-to-turn-off-animated-emojis-and-gifs-in-slack/)
-* [How to Close All Finder Windows at Once on Mac](https://www.howtogeek.com/715134/how-to-close-all-finder-windows-at-once-on-mac/)
-* [The 10 Best Video Game Movies Available to Stream](https://www.howtogeek.com/721165/the-10-best-video-game-movies-available-to-stream/)
-* [Define a Great Vim Profile Using .vimrc](https://www.cloudsavvyit.com/9884/define-a-great-vim-profile-using-vimrc/)
-* [How to Use the Internet from China](https://www.howtogeek.com/720639/how-to-use-the-internet-from-china/)
-* [10 Tech Troubleshooting Tips to Fix Your Gadgets](https://www.howtogeek.com/718783/10-tech-troubleshooting-tips-to-fix-your-gadgets/)
-* [The New Hummer SUV EV Actually Looks Like a Hummer, Starts at $80,000](https://www.reviewgeek.com/76580/the-new-hummer-suv-ev-actually-looks-like-a-hummer-starts-at-80000/)
-* [Watch Over 3,000 Drones Fly Together for the Best Car Commercial Yet](https://www.reviewgeek.com/76578/watch-over-3000-drones-fly-together-for-the-best-car-commercial-yet/)
-* [Samsung's Adidas-Branded Galaxy Buds Pro Are Straight Fire 🔥](https://www.reviewgeek.com/76562/samsungs-adidas-branded-galaxy-buds-pro-are-straight-fire-%f0%9f%94%a5/)
-* [Wyze Cam v3 Gets a Window Mount for Easy Outdoor Security](https://www.reviewgeek.com/76566/wyze-cam-v3-gets-an-window-mount-for-easy-outdoor-security/)
+* ['Star Trek: Picard' Will Return in 2022 with a Visit from Q](https://www.reviewgeek.com/76748/star-trek-picard-will-return-in-2022-with-a-visit-from-q/)
+* [The 4 Best Websites to Rent Game Servers from](https://www.reviewgeek.com/72718/the-4-best-websites-to-rent-game-servers-from/)
+* [Save $50 on the 128GB 10.2-inch iPad During Best Buy's Sale](https://www.reviewgeek.com/76750/save-50-on-the-128gb-10-2-inch-ipad-during-best-buys-sale/)
+* [Is Premium Smart Lighting Worth It?](https://www.reviewgeek.com/75645/is-premium-smart-lighting-worth-it/)
+* [Yahoo Answers No More: The Q&A Platform Shuts Down May 4th](https://www.reviewgeek.com/76740/yahoo-answers-no-more-the-qa-platform-shuts-down-may-4th/)
+* [Nomad's Desktop MagSafe Mount Keeps Your Charger on Your Desk](https://www.reviewgeek.com/76744/nomads-desktop-magsafe-mount-keeps-your-charger-on-your-desk/)
+* [Snapseed Is the Best Photo Editing App You’re Not Using](https://www.howtogeek.com/721965/snapseed-is-the-best-photo-editing-app-youre-not-using/)
+* [E3 Returns for Summer 2021 with an All-Digital Event](https://www.reviewgeek.com/76726/e3-returns-for-summer-2021-with-an-all-digital-event/)
+* [TP Link's New Wi-fi 6 Router Is Fast, Affordable, and Mesh Ready](https://www.reviewgeek.com/76734/tp-links-new-wifi-6-router-is-fast-affordable-and-mesh-ready/)
+* [How to Download and Save Images from a Google Docs Document](https://www.howtogeek.com/719450/how-to-download-and-save-images-from-a-google-docs-document/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Will.i.am and Honeywell introduce the first connected mask](https://www.nytimes.com/2021/04/06/style/william-face-mask.html)
-- [Flight Penguin – New Flight Search Extension from Hipmunk Founders](https://flightpenguin.com/)
-- [Fungible Tokens](https://remyporter.github.io/TFTs/)
-- [Reading Plus Is Hiring – Platform Engineer and QA Engineer/Tester](https://www.readingplus.com/careers/)
-- [Set up Tailwind CSS JIT in a Rails project to compile styles 20x faster](https://evilmartians.com/chronicles/set-up-tailwind-css-jit-in-a-rails-project-to-compile-styles-20x-faster)
-- [Introducing Our Image Classification Pilot](https://pro.europeana.eu/post/introducing-our-image-classification-pilot)
-- [ArchLinux gets an install script with installer](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall)
-- [I’m being jailed for four emails from 12 years ago (2019)](https://www.bbc.co.uk/news/business-49841361)
-- [Apple iPhone Assembler Hon Hai Revenue Jumps 44% on Covid Demand](https://www.bloomberg.com/news/articles/2021-04-06/hon-hai-revenue-jumps-44-on-stay-at-home-demand-for-gadgets)
-- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [EU Sees Near Virus Immunity by End-June Amid Astra Doubts](https://www.bloomberg.com/news/articles/2021-04-06/eu-will-near-virus-immunity-by-end-june-internal-memo-shows)
+- [I Tried to Report Scientific Misconduct: How Did It Go?](https://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html?m=1)
+- [MongoDB–Austin/Remote|Sr Software Engineer,Cloud Eng|Full-Time |Base+RSUs|Golang](https://news.ycombinator.com/item?id=26719844)
+- [Raising money and holding steady in a pandemic – a startup fundraising report](https://try.docsend.com/covid-impact-report)
+- [Instagram Scraper API](https://instagramscraperapi.com)
+- [Adding SIM Swap Detection to Your Web App's 2FA Login](https://developer.tru.id/tutorials/2fa-sim-swap-detection)
+- [Bit Cowry](https://www.granolashotgun.com/granolashotguncom/xxxmvctah38otd5co83xdckblilv9v)
+- [The Mathematical Nomad, Paul Erdős](https://www.cantorsparadise.com/the-mathematical-nomad-paul-erdős-3163b70a2863)
+- [After a Major Hack, U.S. Looks to Fix a Cyber 'Blind Spot'](https://www.npr.org/2021/04/06/983872116/after-a-major-hack-u-s-looks-to-fix-a-cyber-blind-spot)
+- [Signal Just Made One Years Worth of Server Source Code Available in One Dump](https://linuxreviews.org/Signal_Just_Made_One_Years_Worth_Of_Server-Side_Source_Code_Available_In_One_Huge_Dump)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live news: EMA denies establishing link between AstraZeneca vaccine and rare blood clots](https://www.theguardian.com/world/live/2021/apr/06/coronavirus-live-news-indian-states-call-for-people-under-45-to-be-eligible-for-vaccine-cases-rising-in-japan)
-- [Songs My Brothers Taught Me review – Chloé Zhao's deeply intelligent debut](https://www.theguardian.com/film/2021/apr/06/songs-my-brothers-taught-me-review-chloe-zhao)
-- [Derek Chauvin trial: police inspector to testify for prosecution – live updates](https://www.theguardian.com/us-news/live/2021/apr/06/derek-chauvin-trial-george-floyd-live-updates)
-- [Pub, leisure stocks help push FTSE higher as England prepares to lift restrictions – business live](https://www.theguardian.com/business/live/2021/apr/06/credit-suisse-scraps-bonuses-bosses-exit-after-archegos-greensill-fallout-stocks-pound-travel-covid-retail-vaccine-business-live)
-- [Biden poised to announce all US adults vaccine-eligible by 19 April – US politics live](https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest)
-- [Keir Starmer apologises for visiting church behind gay 'exorcisms'](https://www.theguardian.com/politics/2021/apr/06/keir-starmer-apologises-for-visiting-jesus-church-behind-which-performed-gay-exorcisms)
-- [UK weather: areas hit by 11cm snow and -4C temperatures](https://www.theguardian.com/uk-news/2021/apr/06/uk-weather-areas-hit-by-11cm-snow-and--4c-temperatures)
-- [Dutch police arrest man over theft of Van Gogh and Hals paintings](https://www.theguardian.com/artanddesign/2021/apr/06/dutch-police-arrest-man-theft-van-gogh-hals-paintings-laughing-boys-parsonage-garden)
-- [EU blames AstraZeneca 'failure' as it misses vaccination target](https://www.theguardian.com/world/2021/apr/06/eu-blames-astrazeneca-failure-for-sluggish-covid-vaccine-rollout)
-- [The egregious Sewell report only bolsters those who want to discredit antiracism | Alana Lentin](https://www.theguardian.com/commentisfree/2021/apr/06/sewell-report-discredit-antiracism-racism)
+- [How can the UK stop harassment and sexual abuse in schools? – podcast](https://www.theguardian.com/news/audio/2021/apr/07/how-can-uk-stop-harassment-and-sexual-abuse-in-schools-podcast)
+- [Twelve crew rescued from cargo ship adrift in huge seas off Norway](https://www.theguardian.com/business/2021/apr/07/twelve-crew-rescued-from-cargo-ship-adrift-in-huge-seas-off-norway)
+- [Miss Papua New Guinea stripped of her crown for TikTok twerking video](https://www.theguardian.com/world/2021/apr/07/miss-papua-new-guinea-png-stripped-of-her-crown-for-tiktok-twerking-video)
+- [Tax gambling firms to fund addiction treatment, says NHS director](https://www.theguardian.com/society/2021/apr/07/tax-gambling-firms-to-fund-addiction-treatment-says-nhs-director)
+- [Chronic pain sufferers should take exercise, not analgesics, says Nice](https://www.theguardian.com/society/2021/apr/07/chronic-pain-sufferers-should-take-exercise-not-analgesics-says-nice)
+- [Teachers reject Covid catchup options of extended school day and shorter holidays](https://www.theguardian.com/education/2021/apr/07/teachers-reject-covid-catchup-options-of-extended-school-day-and-shorter-holidays)
+- [‘Every other advert will be for gambling’: addicts tell of lockdown struggle](https://www.theguardian.com/society/2021/apr/07/every-other-advert-will-be-for-gambling-addicts-tell-of-lockdown-struggle)
+- [Why is a mandatory levy on the UK’s gambling industry still a roll of the dice?](https://www.theguardian.com/business/nils-pratley-on-finance/2021/apr/07/why-is-a-mandatory-levy-on-the-uks-gambling-industry-still-a-roll-of-the-dice)
+- [Patients in Wales to be first in UK to receive Moderna Covid vaccine](https://www.theguardian.com/uk-news/2021/apr/07/patients-in-wales-to-receive-moderna-covid-vaccine)
+- [Biden announces all US adults will be eligible for Covid vaccine by 19 April](https://www.theguardian.com/us-news/2021/apr/06/us-covid-vaccine-eligibility-adults-joe-biden)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
-- [Old programming language is suddenly getting more popular again](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
-- [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html)
-- [Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?](https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/)
-- [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
-- [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
-- [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
-- [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
-- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
-- [Jakub Konka Hired Full Time](https://ziglang.org/news/jakub-konka-hired-full-time/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
+- [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
+- [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
+- [Best to avoid using the “Have I been facebooked” website](https://code.express/docs/blogs/facebooked/)
+- [Bronze Age slab found in France is oldest 3D map in Europe](https://www.bbc.com/news/world-europe-56648055)
+- [An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem](https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html)
+- [Soil bacteria could improve crop yields, via fungi](https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi)
+- [Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security](https://aspsecuritykit.net/?src=hnzt)
+- [Wuffs’ PNG image decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [A 3-yr subscription to ITU Online is 50% off this week](https://www.computerworld.com/article/3614155/a-3-yr-subscription-to-itu-online-is-50-off-this-week.html#tk.rss_all)
+- [Fueled by pandemic shifts, mobile is now even more critical](https://www.computerworld.com/article/3614209/fueled-by-pandemic-shifts-mobile-is-now-even-more-critical.html#tk.rss_all)
 - [2 colossal Chrome OS changes to keep an eye on](https://www.computerworld.com/article/3614189/chrome-os-changes.html#tk.rss_all)
 - [US IT jobs have regained what they lost in the pandemic](https://www.computerworld.com/article/3542681/us-it-jobs-have-regained-what-they-lost-in-the-pandemic.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Mosyle unveils Apple MDM tools for the enterprise](https://www.computerworld.com/article/3614082/mosyle-unveils-apple-mdm-tools-for-the-enterprise.html#tk.rss_all)
 - [Windows Update for Business: details, details](https://www.computerworld.com/article/3614170/windows-update-for-business-details-details.html#tk.rss_all)
 - [Is it time to move to hosted Exchange? Considerations for IT](https://www.computerworld.com/article/3614077/is-it-time-to-move-to-hosted-exchange-considerations-for-it.html#tk.rss_all)
-- [Apple switches off the ‘open web’ by making it better](https://www.computerworld.com/article/3614148/apple-switches-off-the-open-web-by-making-it-better.html#tk.rss_all)
-- [Cisco, with Webex, delicately moves to 'instrument' employees — without violating privacy](https://www.computerworld.com/article/3613910/cisco-with-webex-delicately-moves-to-instrument-employees-without-violating-privacy.html#tk.rss_all)
-- [Podcast: WWDC 2021: What to expect at Apple's June event](https://www.computerworld.com/article/3613915/podcast-wwdc-2021-what-to-expect-at-apples-june-event.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft unveils its own Java distribution](https://www.infoworld.com/article/3614211/microsoft-unveils-its-own-java-distribution.html#tk.rss_all)
 - [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
 - [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
 - [Objective-C plummets in popularity](https://www.infoworld.com/article/3613938/objective-c-plummets-in-popularity.html#tk.rss_all)
@@ -385,12 +386,14 @@
 - [7 ways the cloud is changing](https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html#tk.rss_all)
 - [Eclipse hosts Visual Studio Code extensions marketplace](https://www.infoworld.com/article/3613837/eclipse-hosts-visual-studio-code-extensions-marketplace.html#tk.rss_all)
 - [Are industry clouds an opportunity or a distraction?](https://www.infoworld.com/article/3613714/are-industry-clouds-an-opportunity-or-a-distraction.html#tk.rss_all)
-- [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Demands for changes to ‘barmy’ rules on digital evidence have government’s ear](https://www.computerweekly.com/news/252498901/Demands-for-changes-to-barmy-rules-on-digital-evidence-have-governments-ear)
+- [Where now for storage? Hitachi, IBM and Pure Storage](https://www.computerweekly.com/feature/Where-now-for-storage-Hitachi-IBM-and-Pure-Storage)
+- [Facebook data leak could be outside scope of GDPR](https://www.computerweekly.com/news/252498884/Facebook-data-leak-could-be-outside-scope-of-GDPR)
 - [Where now for storage? Dell EMC, NetApp and HPE](https://www.computerweekly.com/feature/Where-now-for-storage-Dell-EMC-NetApp-and-HPE)
 - [US court issues Google API with Java ruling](https://www.computerweekly.com/news/252498872/US-court-issues-Google-API-with-Java-ruling)
 - [IR35 reforms: Private sector start date prompts mixed picture of predictions for contracting market](https://www.computerweekly.com/news/252498865/IR35-reforms-Private-sector-start-date-prompts-mixed-picture-of-predictions-for-contracting-market)
@@ -398,14 +401,14 @@
 - [EncroChat hearings delayed as lawyers seek disclosure on police hacking](https://www.computerweekly.com/news/252498762/EncroChat-hearings-delayed-as-lawyers-seek-disclosure-on-police-hacking)
 - [IR35 reforms: Loan charge and employers’ NI issues prompt calls for legislative revamp](https://www.computerweekly.com/news/252498766/IR35-reforms-Loan-charge-and-employers-NI-issues-prompt-calls-for-legislative-revamp)
 - [Project Monterey returns to haunt IBM and Red Hat](https://www.computerweekly.com/news/252498754/Project-Monterey-returns-to-haunt-IBM-and-Red-Hat)
-- [Starting a career in the digital economy](https://www.computerweekly.com/feature/Starting-a-career-in-the-digital-economy)
-- [DCMS publishes report on opening data access to stoke economic growth](https://www.computerweekly.com/news/252498698/DCMS-publishes-report-on-opening-data-access-to-stoke-economic-growth)
-- [IR35 reforms: HMRC denies ‘squandering’ datasets that could rid umbrella sector of rogue players](https://www.computerweekly.com/news/252498695/IR35-reforms-HMRC-denies-squandering-datasets-that-could-rid-umbrella-sector-of-rogue-players)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Windows structure Inquiry](https://www.reddit.com/r/InformationTechnology/comments/mlhfyn/windows_structure_inquiry/)
+- [Having problems port forwarding when using ISP failover on a Ubiquity EdgeRouter (ER8)](https://www.reddit.com/r/InformationTechnology/comments/mlcv9j/having_problems_port_forwarding_when_using_isp/)
+- [I need help and or inspired](https://www.reddit.com/r/InformationTechnology/comments/mlcjfp/i_need_help_and_or_inspired/)
 - [webinar on Computer Vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/ml77w2/webinar_on_computer_vision_by_mouri_tech/)
 - [Help me with proposing a new job title?](https://www.reddit.com/r/InformationTechnology/comments/ml6xx4/help_me_with_proposing_a_new_job_title/)
 - [How to get experience in systems and deployments?](https://www.reddit.com/r/InformationTechnology/comments/ml6ktw/how_to_get_experience_in_systems_and_deployments/)
@@ -413,14 +416,13 @@
 - [Does mini hdmi to hdmi adapter work on video card ?](https://www.reddit.com/r/InformationTechnology/comments/mkxv3q/does_mini_hdmi_to_hdmi_adapter_work_on_video_card/)
 - [CATV Internet](https://www.reddit.com/r/InformationTechnology/comments/mkrpyw/catv_internet/)
 - [New Ventures](https://www.reddit.com/r/InformationTechnology/comments/mkovjz/new_ventures/)
-- [Some Ambitions](https://www.reddit.com/r/InformationTechnology/comments/mkd69n/some_ambitions/)
-- [Are you great techie who knows open source software?Pls help me on this survey](https://www.reddit.com/r/InformationTechnology/comments/mk83m7/are_you_great_techie_who_knows_open_source/)
-- [Web Proxies not Working](https://www.reddit.com/r/InformationTechnology/comments/mk2iuw/web_proxies_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Citrix appoints former SAP exec as new GM of Americas](https://www.itworldcanada.com/article/citrix-appoints-former-sap-exec-as-new-gm-of-americas/445566)
+- [SAP urges infosec teams to patch applications faster](https://www.itworldcanada.com/article/sap-urges-infosec-teams-to-patch-applications-faster/445526)
 - [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
 - [Cisco updates Webex People Insights to help boost employee well-being](https://www.itworldcanada.com/article/cisco-updates-webex-people-insights-to-help-boost-employee-well-being/445495)
 - [MSSP eSentire says hackers using LinkedIn profiles for spearphishing](https://www.itworldcanada.com/article/mssp-esentire-says-hackers-using-linkedin-profiles-for-spearphishing/445461)
@@ -429,8 +431,6 @@
 - [Hashtag Trending, April 5, 2021 – Millions of Facebook users’ data leaks online; Amazon admits it was wrong – sorta; Stats Can reports on remote worker](https://www.itworldcanada.com/article/hashtag-trending-april-5-2021-millions-of-facebook-users-data-leaks-online-amazon-admits-it-was-wrong-sorta-stats-can-reports-on-remote-worker/445435)
 - [Cyber Security Today, Week In Review for April 2, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-2-2021/445382)
 - [Canadian retailer Home Hardware hit by ransomware](https://www.itworldcanada.com/article/canadian-retailer-home-hardware-hit-by-ransomware/445416)
-- [RangeForce adds mid-priced packages to cybersecurity training offerings](https://www.itworldcanada.com/article/rangeforce-adds-mid-priced-packages-to-cybersecurity-training-offerings/444779)
-- [Cyber Security Today, April 2, 2021 – Router maker admits extortion attempt, a phone scam and another COVID con](https://www.itworldcanada.com/article/cyber-security-today-april-2-2021-router-maker-admits-extortion-attempt-a-phone-scam-and-another-covid-con/445388)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

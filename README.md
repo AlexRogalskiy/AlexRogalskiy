@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [EU Sees Near Virus Immunity by End-June Amid Astra Doubts](https://www.bloomberg.com/news/articles/2021-04-06/eu-will-near-virus-immunity-by-end-june-internal-memo-shows)
-- [I Tried to Report Scientific Misconduct: How Did It Go?](https://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html?m=1)
-- [MongoDB–Austin/Remote|Sr Software Engineer,Cloud Eng|Full-Time |Base+RSUs|Golang](https://news.ycombinator.com/item?id=26719844)
-- [Raising money and holding steady in a pandemic – a startup fundraising report](https://try.docsend.com/covid-impact-report)
-- [Instagram Scraper API](https://instagramscraperapi.com)
-- [Adding SIM Swap Detection to Your Web App's 2FA Login](https://developer.tru.id/tutorials/2fa-sim-swap-detection)
-- [Bit Cowry](https://www.granolashotgun.com/granolashotguncom/xxxmvctah38otd5co83xdckblilv9v)
-- [The Mathematical Nomad, Paul Erdős](https://www.cantorsparadise.com/the-mathematical-nomad-paul-erdős-3163b70a2863)
-- [After a Major Hack, U.S. Looks to Fix a Cyber 'Blind Spot'](https://www.npr.org/2021/04/06/983872116/after-a-major-hack-u-s-looks-to-fix-a-cyber-blind-spot)
-- [Signal Just Made One Years Worth of Server Source Code Available in One Dump](https://linuxreviews.org/Signal_Just_Made_One_Years_Worth_Of_Server-Side_Source_Code_Available_In_One_Huge_Dump)
+- [Something Is Killing Trees, Creating 'Ghost Forests' Along The Atlantic Coast](https://www.sciencealert.com/something-is-killing-trees-creating-ghost-forests-along-the-atlantic-coast)
+- [Polish blogger sued after revealing security issue in UseCrypt messenger](https://therecord.media/polish-blogger-sued-after-revealing-security-issue-in-encrypted-messenger/)
+- [Remember that plane flying over Capitol Hill during last summer’s protest?](https://www.capitolhillseattle.com/2021/04/remember-that-fcking-plane-flying-over-capitol-hill-during-last-summers-protest-heres-what-it-was-up-to/)
+- [Microsoft is now submerging servers into liquid baths](https://www.theverge.com/2021/4/6/22369609/microsoft-server-cooling-liquid-immersion-cloud-racks-data-centers)
+- [Are rewilding subscriptions the future of carbon offsets?](https://www.soapboxproject.org/journal/mossy-earth-co-founder-explains-rewilding-to-fight-climate-change)
+- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
+- [Steps to Release Curl](https://daniel.haxx.se/blog/2021/04/07/steps-to-release-curl/)
+- [Opportunity missed when somebody decided not to use 凹凸 as Tetris Chinese name](https://twitter.com/CRTejada/status/1379621139081654275)
+- [Fully vaccinated Michigan residents test positive for Covid and three die](http://www.independent.co.uk/news/world/americas/michigan-covid-test-positive-vaccinated-b1827393.html)
+- [Turn Any Unreliable Network into Reliably One](https://www.linkedin.com/pulse/genesis-codes-faster-internet-anthony-mai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

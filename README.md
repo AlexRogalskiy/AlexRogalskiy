@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel launches 3rd-gen Xeon data centre processors](https://www.itworldcanada.com/article/intel-launches-3rd-gen-xeon-data-centre-processors/445648)
+- [So-called ransomware cartel is more of a partnership, say researchers](https://www.itworldcanada.com/article/so-called-ransomware-cartel-really-is-a-partnership-say-researchers/445584)
+- [Cyber Security Today, April 7, 2021 – Hundreds of thousands of stolen gift cards on the market, and beware of WeTransfer and LinkedIn scams](https://www.itworldcanada.com/article/cyber-security-today-april-7-2021-hundreds-of-thousands-of-stolen-gift-cards-on-the-market-and-beware-of-wetransfer-and-linkedin-scams/445569)
+- [Hashtag Trending, April 7, 2021 – Google wins VS Oracle; Amazon VS workers; Goodbye Yahoo Answers](https://www.itworldcanada.com/article/hashtag-trending-april-7-2021-google-wins-vs-oracle-amazon-vs-workers-goodbye-yahoo-answers/445578)
 - [Citrix appoints former SAP exec as new GM of Americas](https://www.itworldcanada.com/article/citrix-appoints-former-sap-exec-as-new-gm-of-americas/445566)
 - [SAP urges infosec teams to patch applications faster](https://www.itworldcanada.com/article/sap-urges-infosec-teams-to-patch-applications-faster/445526)
 - [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
 - [Cisco updates Webex People Insights to help boost employee well-being](https://www.itworldcanada.com/article/cisco-updates-webex-people-insights-to-help-boost-employee-well-being/445495)
 - [MSSP eSentire says hackers using LinkedIn profiles for spearphishing](https://www.itworldcanada.com/article/mssp-esentire-says-hackers-using-linkedin-profiles-for-spearphishing/445461)
 - [LG closes its smartphone business](https://www.itworldcanada.com/article/lg-closes-its-smartphone-business/445441)
-- [Cyber Security Today, April 5, 2021 – Twitter users’ phone numbers and email addresses are now free, and check the integrity of your IT supply chain](https://www.itworldcanada.com/article/cyber-security-today-april-5-2021-twitter-users-phone-numbers-and-email-addresses-are-now-free-and-check-the-integrity-of-your-it-supply-chain/445438)
-- [Hashtag Trending, April 5, 2021 – Millions of Facebook users’ data leaks online; Amazon admits it was wrong – sorta; Stats Can reports on remote worker](https://www.itworldcanada.com/article/hashtag-trending-april-5-2021-millions-of-facebook-users-data-leaks-online-amazon-admits-it-was-wrong-sorta-stats-can-reports-on-remote-worker/445435)
-- [Cyber Security Today, Week In Review for April 2, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-2-2021/445382)
-- [Canadian retailer Home Hardware hit by ransomware](https://www.itworldcanada.com/article/canadian-retailer-home-hardware-hit-by-ransomware/445416)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

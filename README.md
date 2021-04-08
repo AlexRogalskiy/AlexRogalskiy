@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/in_the_red_11.php" target="_blank"><i>in the red</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/vote_with_your_feet_124.php" target="_blank"><i>vote with your feet</i></a>
 <span> = </span>
-<span>If a person or a company is in the red, their debts are greater than their assets.</span>
+<span>If you vote with your feet, you show your opinion of something by acting in a certain way, such as by buying something if you like it, or by not buying it if you don't like it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

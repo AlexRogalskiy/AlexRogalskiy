@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
-- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
-- [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
-- [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
-- [Best to avoid using the “Have I been facebooked” website](https://code.express/docs/blogs/facebooked/)
-- [Bronze Age slab found in France is oldest 3D map in Europe](https://www.bbc.com/news/world-europe-56648055)
-- [An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem](https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html)
-- [Soil bacteria could improve crop yields, via fungi](https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi)
-- [Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security](https://aspsecuritykit.net/?src=hnzt)
-- [Wuffs’ PNG image decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
+- [Isp.netscape.com](https://isp.netscape.com)
+- [Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]](https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf)
+- [How to make a Python package in 2021](https://antonz.org/python-packaging/)
+- [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
+- [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
+- [A woman who took on Google and won](https://www.bbc.com/news/technology-56659212)
+- [IBM COBOL for Linux on x86](https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html&request_locale=en)
+- [The Health Hazards of Plug-In Air Fresheners](https://www.indoordoctor.com/health-hazards-plug-air-fresheners/)
+- [What Is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

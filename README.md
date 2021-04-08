@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/iron_out_1640.php" target="_blank"><i>iron out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/cross_off_2779.php" target="_blank"><i>cross off</i></a>
 <span> = </span>
-<span>If you iron out the last details of a deal, you sort out the final problems or issues.</span>
+<span>to remove a name or an item from a list by drawing a line through it<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

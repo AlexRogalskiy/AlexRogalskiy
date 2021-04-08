@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple gets ready to launch its Find My ecosystem (updated)](https://www.computerworld.com/article/3614308/apple-gets-ready-to-launch-its-find-my-ecosystem-updated.html#tk.rss_all)
+- [Google Slides vs. Microsoft PowerPoint: Which works better for business?](https://www.computerworld.com/article/3264440/google-slides-vs-microsoft-powerpoint-which-works-better-for-business.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [A 3-yr subscription to ITU Online is 50% off this week](https://www.computerworld.com/article/3614155/a-3-yr-subscription-to-itu-online-is-50-off-this-week.html#tk.rss_all)
 - [Fueled by pandemic shifts, mobile is now even more critical](https://www.computerworld.com/article/3614209/fueled-by-pandemic-shifts-mobile-is-now-even-more-critical.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [For Microsoft and Apple, a reprise of all-virtual dev conferences](https://www.computerworld.com/article/3614172/for-microsoft-and-apple-a-reprise-of-all-virtual-dev-conferences.html#tk.rss_all)
 - [Mosyle unveils Apple MDM tools for the enterprise](https://www.computerworld.com/article/3614082/mosyle-unveils-apple-mdm-tools-for-the-enterprise.html#tk.rss_all)
-- [Windows Update for Business: details, details](https://www.computerworld.com/article/3614170/windows-update-for-business-details-details.html#tk.rss_all)
-- [Is it time to move to hosted Exchange? Considerations for IT](https://www.computerworld.com/article/3614077/is-it-time-to-move-to-hosted-exchange-considerations-for-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

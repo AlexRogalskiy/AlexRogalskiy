@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How can the UK stop harassment and sexual abuse in schools? – podcast](https://www.theguardian.com/news/audio/2021/apr/07/how-can-uk-stop-harassment-and-sexual-abuse-in-schools-podcast)
-- [Twelve crew rescued from cargo ship adrift in huge seas off Norway](https://www.theguardian.com/business/2021/apr/07/twelve-crew-rescued-from-cargo-ship-adrift-in-huge-seas-off-norway)
-- [Miss Papua New Guinea stripped of her crown for TikTok twerking video](https://www.theguardian.com/world/2021/apr/07/miss-papua-new-guinea-png-stripped-of-her-crown-for-tiktok-twerking-video)
-- [Tax gambling firms to fund addiction treatment, says NHS director](https://www.theguardian.com/society/2021/apr/07/tax-gambling-firms-to-fund-addiction-treatment-says-nhs-director)
-- [Chronic pain sufferers should take exercise, not analgesics, says Nice](https://www.theguardian.com/society/2021/apr/07/chronic-pain-sufferers-should-take-exercise-not-analgesics-says-nice)
-- [Teachers reject Covid catchup options of extended school day and shorter holidays](https://www.theguardian.com/education/2021/apr/07/teachers-reject-covid-catchup-options-of-extended-school-day-and-shorter-holidays)
-- [‘Every other advert will be for gambling’: addicts tell of lockdown struggle](https://www.theguardian.com/society/2021/apr/07/every-other-advert-will-be-for-gambling-addicts-tell-of-lockdown-struggle)
-- [Why is a mandatory levy on the UK’s gambling industry still a roll of the dice?](https://www.theguardian.com/business/nils-pratley-on-finance/2021/apr/07/why-is-a-mandatory-levy-on-the-uks-gambling-industry-still-a-roll-of-the-dice)
-- [Patients in Wales to be first in UK to receive Moderna Covid vaccine](https://www.theguardian.com/uk-news/2021/apr/07/patients-in-wales-to-receive-moderna-covid-vaccine)
-- [Biden announces all US adults will be eligible for Covid vaccine by 19 April](https://www.theguardian.com/us-news/2021/apr/06/us-covid-vaccine-eligibility-adults-joe-biden)
+- [The death of George Floyd and the case against Derek Chauvin – podcast](https://www.theguardian.com/news/audio/2021/apr/08/the-death-of-george-floyd-and-the-case-against-derek-chauvin)
+- [Thai cave rescue, the sequel: Meditating monk saved from flooded cave after four days](https://www.theguardian.com/world/2021/apr/08/thai-cave-rescue--sequel-meditating-buddhist-monk-saved-from-flooded-cave-after-four-days)
+- [Japan ‘considering vaccinating Tokyo Olympic athletes before rest of population’](https://www.theguardian.com/sport/2021/apr/08/japan-considering-vaccinating-tokyo-olympic-athletes-before-rest-of-population)
+- [Caitlyn Jenner reportedly considering run for California governor](https://www.theguardian.com/tv-and-radio/2021/apr/07/caitlyn-jenner-california-governor-gavin-newsom-recall)
+- [Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols](https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions)
+- [Jordan Peterson ‘shocked’ by Captain America villain Red Skull espousing ‘10 rules for life’](https://www.theguardian.com/books/2021/apr/07/jordan-peterson-shocked-by-captain-america-villain-espousing-10-rules-for-life)
+- [UK halts funding for Oxfam over sexual misconduct claims](https://www.theguardian.com/society/2021/apr/08/uk-halts-funding-for-oxfam-over-sexual-misconduct-claims)
+- [English university asks students to lobby MPs over lockdown easing](https://www.theguardian.com/education/2021/apr/07/english-university-asks-students-to-lobby-mps-over-lockdown-easing)
+- [RAF engaged in 10-day attack on Isis in Iraq this spring](https://www.theguardian.com/world/2021/apr/08/raf-engaged-in-10-day-attack-on-isis-in-iraq-this-spring)
+- [Talking Horses: Tiger Roll is back at Aintree, but not in the right race](https://www.theguardian.com/sport/blog/2021/apr/08/talking-horses-tiger-roll-is-back-at-aintree-but-not-in-the-right-race)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

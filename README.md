@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647738994023645184" target="_blank"><i>This Year I Mean to Be an Elephant</i></a></summary>
-<p>by Wendy Xu</p><p>I don’t know if you understand me when  <br/>I say hopefully there is a future and we  <br/>are both allowed in it. I mean last year it  <br/>was OK just to be flattened by our ideas.  <br/>I sat in so many rooms and eventually felt  <br/>interesting and not like a chair. Do you  <br/>feel like a straight line? I worry about how  <br/>I don’t. I worry that when I turn on  <br/>the radio this morning it sounds just like <br/>I expect. I am thinking about kicking what <br/>I expect in the shin. Last year I forgot <br/>whole people until having lunch again <br/>with those people. Last year I forgot really <br/>embarrassing secrets like how I am allergic <br/>to regular soap. Cue all different kinds <br/>of light and what music makes you feel <br/>not dead. Last night I dreamt about sand.  </p>
+<summary><a href="https://apoemaday.tumblr.com/post/647829597595009024" target="_blank"><i>April 7, 1969</i></a></summary>
+<p>by Richard Brautigan</p><p>I feel so bad today<br/>that I want to write a poem.<br/>I don’t care: any poem, this<br/>poem.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

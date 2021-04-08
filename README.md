@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* ['Star Trek: Picard' Will Return in 2022 with a Visit from Q](https://www.reviewgeek.com/76748/star-trek-picard-will-return-in-2022-with-a-visit-from-q/)
-* [The 4 Best Websites to Rent Game Servers from](https://www.reviewgeek.com/72718/the-4-best-websites-to-rent-game-servers-from/)
-* [Save $50 on the 128GB 10.2-inch iPad During Best Buy's Sale](https://www.reviewgeek.com/76750/save-50-on-the-128gb-10-2-inch-ipad-during-best-buys-sale/)
-* [Is Premium Smart Lighting Worth It?](https://www.reviewgeek.com/75645/is-premium-smart-lighting-worth-it/)
-* [Yahoo Answers No More: The Q&A Platform Shuts Down May 4th](https://www.reviewgeek.com/76740/yahoo-answers-no-more-the-qa-platform-shuts-down-may-4th/)
-* [Nomad's Desktop MagSafe Mount Keeps Your Charger on Your Desk](https://www.reviewgeek.com/76744/nomads-desktop-magsafe-mount-keeps-your-charger-on-your-desk/)
-* [Snapseed Is the Best Photo Editing App You’re Not Using](https://www.howtogeek.com/721965/snapseed-is-the-best-photo-editing-app-youre-not-using/)
-* [E3 Returns for Summer 2021 with an All-Digital Event](https://www.reviewgeek.com/76726/e3-returns-for-summer-2021-with-an-all-digital-event/)
-* [TP Link's New Wi-fi 6 Router Is Fast, Affordable, and Mesh Ready](https://www.reviewgeek.com/76734/tp-links-new-wifi-6-router-is-fast-affordable-and-mesh-ready/)
-* [How to Download and Save Images from a Google Docs Document](https://www.howtogeek.com/719450/how-to-download-and-save-images-from-a-google-docs-document/)
+* [Google I/O 2021 Will Live in a Free and Virtual World, May 18th-20th](https://www.reviewgeek.com/77000/google-i-o-2021-will-live-in-a-free-and-virtual-world-may-18th-20th/)
+* [Surprise! Android Malware Promising Free Netflix Did Not Provide Free Netflix](https://www.reviewgeek.com/76967/surprise-android-malware-promising-free-netflix-did-not-provide-free-netflix/)
+* [Will.i.am's Xupermask Smart Mask Takes Inspiration from Sneakers and Smartphones](https://www.reviewgeek.com/76925/will-i-ams-xupermask-smart-mask-takes-inspiration-from-sneakers-and-smartphones/)
+* [Ring's New Floodlight Cam Tracks Your Visitors with Radar](https://www.reviewgeek.com/76942/rings-new-floodlight-cam-tracks-your-visitors-with-radar/)
+* [The New LEGO x Adidas Sneakers Are a Blank Canvas for Your Creativity](https://www.reviewgeek.com/76950/the-new-lego-x-adidas-sneakers-are-a-blank-canvas-for-your-creativity/)
+* [Microsoft's Upcoming Surface Laptop 4 Revealed in Support Pages](https://www.reviewgeek.com/76911/microsofts-upcoming-surface-laptop-4-revealed-in-support-pages/)
+* [Save on Movie Trilogies During Fandango's Digital Bundle Sale](https://www.reviewgeek.com/76904/save-on-movie-trilogies-during-fandangos-digital-bundle-sale/)
+* [How to Use Google Maps Street View in Split Screen on Android](https://www.howtogeek.com/721813/how-to-use-google-maps-street-view-in-split-screen-on-android/)
+* [How to Practice Your Presentations with PowerPoint’s Presenter Coach](https://www.howtogeek.com/721497/how-to-practice-your-presentations-with-powerpoints-presenter-coach/)
+* [How to Enable Google Chrome’s “Reading List” on Android](https://www.howtogeek.com/722400/how-to-enable-google-chromes-reading-list-on-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

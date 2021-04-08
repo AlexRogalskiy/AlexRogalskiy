@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5e&#x2F;72&#x2F;3d&#x2F;5e723dcd8525c3516923b444ec463b60.jpg" alt="We aren&#39;t trying to be greedy, but cupidity is the Word of the Day. Want more? Click through for example sentences, word origin, and more!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;39&#x2F;17&#x2F;5c&#x2F;39175cfdb1de0ecdd57b97218caffb50.jpg" alt="We&#39;ve got some explaining to do. Megillah is the Word of the Day. Get example sentences and more at Dictionary.com! #Learn #Vocabulary #English #Writing" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6f&#x2F;b8&#x2F;41&#x2F;6fb84137f765b5f40af3edb94412e0d8.jpg" alt="Feeling crafty? Bricolage is the Word of the Day.⁠ ⁠ Want more? Click through for example sentences, word origin, our free podcast and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;2e&#x2F;ee&#x2F;6e&#x2F;2eee6ee103da8bc0eb6b0b6dad9414c4.jpg" alt="Here comes the Word of the Day hopping down the bunny trail. It&#39;s leporine. Get example sentences and more at the link! #Vocabulary #Easter #Writing #Learning " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;15&#x2F;bf&#x2F;79&#x2F;15bf7964fa85b376afa1992237bac887.jpg" alt="Cackleberry is the Word of the Day. No, it&#39;s not a laughing fruit. See where it comes from at Dictionary.com! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>-2°C (<i>fog</i>), humidity: 100%, pressure: 998 (mbar), wind: /east/ 4 (m/s), cloudy: 90%</b>
+        <b>0°C (<i>fog</i>), humidity: 100%, pressure: 998 (mbar), wind: /north-east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>06:03 am</b> and sets at <b>19:58 pm</b>.
     </p>

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/C/cranky_1020.php" target="_blank"><i>cranky</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/O/on_the_level_1336.php" target="_blank"><i>on the level</i></a>
 <span> = </span>
-<span>irritable, easily annoyed</span>
+<span>honest, truthful</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

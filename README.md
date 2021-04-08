@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The decline of Heroku](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html#tk.rss_all)
+- [TypeScript 4.3 supports type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-supports-type-specification-for-properties.html#tk.rss_all)
+- [Microsoft gets serious about WebAssembly](https://www.infoworld.com/article/3613873/microsoft-gets-serious-about-webassembly.html#tk.rss_all)
 - [Microsoft unveils its own Java distribution](https://www.infoworld.com/article/3614211/microsoft-unveils-its-own-java-distribution.html#tk.rss_all)
 - [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
 - [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_all)
 - [Visual Studio Code 1.55 brings improvements to breakpoints](https://www.infoworld.com/article/3614076/visual-studio-code-155-brings-improvements-to-breakpoints.html#tk.rss_all)
 - [Data lineage: What it is and why it’s important](https://www.infoworld.com/article/3613592/data-lineage-what-it-is-and-why-its-important.html#tk.rss_all)
-- [7 ways the cloud is changing](https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html#tk.rss_all)
-- [Eclipse hosts Visual Studio Code extensions marketplace](https://www.infoworld.com/article/3613837/eclipse-hosts-visual-studio-code-extensions-marketplace.html#tk.rss_all)
-- [Are industry clouds an opportunity or a distraction?](https://www.infoworld.com/article/3613714/are-industry-clouds-an-opportunity-or-a-distraction.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Logistics Analyst or Systems Specialist??](https://www.reddit.com/r/InformationTechnology/comments/mmcab7/logistics_analyst_or_systems_specialist/)
+- [Thoughts on working as a personal IT?](https://www.reddit.com/r/InformationTechnology/comments/mma69z/thoughts_on_working_as_a_personal_it/)
+- [Valid IPs](https://www.reddit.com/r/InformationTechnology/comments/mm94yk/valid_ips/)
+- [IT Project Management](https://www.reddit.com/r/InformationTechnology/comments/mm656x/it_project_management/)
+- [Warning: There Has Been an Increase in Spear Phishing Attacks Targeting Job Seekers on LinkedIn](https://www.reddit.com/r/InformationTechnology/comments/mm5pnb/warning_there_has_been_an_increase_in_spear/)
+- [Why do some fullschreen programs black out the screen when im not using them?](https://www.reddit.com/r/InformationTechnology/comments/mlypc7/why_do_some_fullschreen_programs_black_out_the/)
+- [Webinar on computer vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/mlxb51/webinar_on_computer_vision_by_mouri_tech/)
 - [Windows structure Inquiry](https://www.reddit.com/r/InformationTechnology/comments/mlhfyn/windows_structure_inquiry/)
 - [Having problems port forwarding when using ISP failover on a Ubiquity EdgeRouter (ER8)](https://www.reddit.com/r/InformationTechnology/comments/mlcv9j/having_problems_port_forwarding_when_using_isp/)
 - [I need help and or inspired](https://www.reddit.com/r/InformationTechnology/comments/mlcjfp/i_need_help_and_or_inspired/)
-- [webinar on Computer Vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/ml77w2/webinar_on_computer_vision_by_mouri_tech/)
-- [Help me with proposing a new job title?](https://www.reddit.com/r/InformationTechnology/comments/ml6xx4/help_me_with_proposing_a_new_job_title/)
-- [How to get experience in systems and deployments?](https://www.reddit.com/r/InformationTechnology/comments/ml6ktw/how_to_get_experience_in_systems_and_deployments/)
-- [Cell phone IP](https://www.reddit.com/r/InformationTechnology/comments/ml5cc6/cell_phone_ip/)
-- [Does mini hdmi to hdmi adapter work on video card ?](https://www.reddit.com/r/InformationTechnology/comments/mkxv3q/does_mini_hdmi_to_hdmi_adapter_work_on_video_card/)
-- [CATV Internet](https://www.reddit.com/r/InformationTechnology/comments/mkrpyw/catv_internet/)
-- [New Ventures](https://www.reddit.com/r/InformationTechnology/comments/mkovjz/new_ventures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Podcast: Ranking Apple's worst products of all time](https://www.computerworld.com/article/3614769/podcast-ranking-apples-worst-products-of-all-time.html#tk.rss_all)
+- [Documents, an app for everything that's always with you](https://www.computerworld.com/article/3614629/documents-an-app-for-everything-thats-always-with-you.html#tk.rss_all)
+- [A smart new screenshot sharing system for Chrome](https://www.computerworld.com/article/3614187/chrome-screenshot-sharing.html#tk.rss_all)
+- [The Brave browser basics: what it does, how it differs from rivals](https://www.computerworld.com/article/3292619/the-brave-browser-basics-what-it-does-how-it-differs-from-rivals.html#tk.rss_all)
 - [Apple gets ready to launch its Find My ecosystem (updated)](https://www.computerworld.com/article/3614308/apple-gets-ready-to-launch-its-find-my-ecosystem-updated.html#tk.rss_all)
 - [Google Slides vs. Microsoft PowerPoint: Which works better for business?](https://www.computerworld.com/article/3264440/google-slides-vs-microsoft-powerpoint-which-works-better-for-business.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [A 3-yr subscription to ITU Online is 50% off this week](https://www.computerworld.com/article/3614155/a-3-yr-subscription-to-itu-online-is-50-off-this-week.html#tk.rss_all)
 - [Fueled by pandemic shifts, mobile is now even more critical](https://www.computerworld.com/article/3614209/fueled-by-pandemic-shifts-mobile-is-now-even-more-critical.html#tk.rss_all)
-- [2 colossal Chrome OS changes to keep an eye on](https://www.computerworld.com/article/3614189/chrome-os-changes.html#tk.rss_all)
-- [US IT jobs have regained what they lost in the pandemic](https://www.computerworld.com/article/3542681/us-it-jobs-have-regained-what-they-lost-in-the-pandemic.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [For Microsoft and Apple, a reprise of all-virtual dev conferences](https://www.computerworld.com/article/3614172/for-microsoft-and-apple-a-reprise-of-all-virtual-dev-conferences.html#tk.rss_all)
-- [Mosyle unveils Apple MDM tools for the enterprise](https://www.computerworld.com/article/3614082/mosyle-unveils-apple-mdm-tools-for-the-enterprise.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

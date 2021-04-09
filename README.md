@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Something Is Killing Trees, Creating 'Ghost Forests' Along The Atlantic Coast](https://www.sciencealert.com/something-is-killing-trees-creating-ghost-forests-along-the-atlantic-coast)
-- [Polish blogger sued after revealing security issue in UseCrypt messenger](https://therecord.media/polish-blogger-sued-after-revealing-security-issue-in-encrypted-messenger/)
-- [Remember that plane flying over Capitol Hill during last summer’s protest?](https://www.capitolhillseattle.com/2021/04/remember-that-fcking-plane-flying-over-capitol-hill-during-last-summers-protest-heres-what-it-was-up-to/)
-- [Microsoft is now submerging servers into liquid baths](https://www.theverge.com/2021/4/6/22369609/microsoft-server-cooling-liquid-immersion-cloud-racks-data-centers)
-- [Are rewilding subscriptions the future of carbon offsets?](https://www.soapboxproject.org/journal/mossy-earth-co-founder-explains-rewilding-to-fight-climate-change)
-- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
-- [Steps to Release Curl](https://daniel.haxx.se/blog/2021/04/07/steps-to-release-curl/)
-- [Opportunity missed when somebody decided not to use 凹凸 as Tetris Chinese name](https://twitter.com/CRTejada/status/1379621139081654275)
-- [Fully vaccinated Michigan residents test positive for Covid and three die](http://www.independent.co.uk/news/world/americas/michigan-covid-test-positive-vaccinated-b1827393.html)
-- [Turn Any Unreliable Network into Reliably One](https://www.linkedin.com/pulse/genesis-codes-faster-internet-anthony-mai/)
+- [Study finds herding sheep via drone better for their welfare](https://www.theguardian.com/world/2021/apr/09/stress-test-australian-study-finds-herding-sheep-via-drone-better-for-their-welfare)
+- [Surely We Can Do Better Than Elon Musk](https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk)
+- [Toyota Prepared for the Chip Shortage Years Ago. Why Didn't Anyone Else?](https://jalopnik.com/toyota-prepared-for-the-chip-shortage-years-ago-why-di-1846641653)
+- [Artist Cheryl Hodges has work stolen online, now on a mission to end the theft](https://www.abc.net.au/news/2021-04-09/cheryl-hodges-artist-theft-online-copyright/100056714)
+- [Why Vim Uses hjkl & Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history/)
+- [Lost Egyptian city of Akhetaten unearthed](https://www.nationalgeographic.com/history/article/lost-golden-city-luxor-discovered-archaeologists-egypt)
+- [The Decline of Heroku](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html)
+- [Plane in 'serious incident’ after every Miss on board assigned child’s weight](https://www.theguardian.com/world/2021/apr/09/tui-plane-serious-incident-every-miss-on-board-child-weight-birmingham-majorca)
+- [BSB Design Implements Four-Day Work Week Model](https://www.bsbdesign.com/whats-trending/blog/bsb-design-implements-four-day-work-week-model)
+- [How a Carnivorous Mushroom Poisons Its Prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

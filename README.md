@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT related fields that don't require education or certifications?](https://www.reddit.com/r/InformationTechnology/comments/mn6rfg/it_related_fields_that_dont_require_education_or/)
+- [For any IT who got time for some basic questions, I need your help](https://www.reddit.com/r/InformationTechnology/comments/mn5x4x/for_any_it_who_got_time_for_some_basic_questions/)
+- [Unsure if I should take this internship opportunity? Social Media Specialist / Web maintenance as MIS major](https://www.reddit.com/r/InformationTechnology/comments/mmyvii/unsure_if_i_should_take_this_internship/)
+- [Application analysts](https://www.reddit.com/r/InformationTechnology/comments/mmuqwn/application_analysts/)
+- [If you found out that one of your email addresses was affected by the recent Facebook data leak what would be the steps you take to save your email address and any account linked to it?](https://www.reddit.com/r/InformationTechnology/comments/mmk2fi/if_you_found_out_that_one_of_your_email_addresses/)
 - [Logistics Analyst or Systems Specialist??](https://www.reddit.com/r/InformationTechnology/comments/mmcab7/logistics_analyst_or_systems_specialist/)
 - [Thoughts on working as a personal IT?](https://www.reddit.com/r/InformationTechnology/comments/mma69z/thoughts_on_working_as_a_personal_it/)
 - [Valid IPs](https://www.reddit.com/r/InformationTechnology/comments/mm94yk/valid_ips/)
 - [IT Project Management](https://www.reddit.com/r/InformationTechnology/comments/mm656x/it_project_management/)
 - [Warning: There Has Been an Increase in Spear Phishing Attacks Targeting Job Seekers on LinkedIn](https://www.reddit.com/r/InformationTechnology/comments/mm5pnb/warning_there_has_been_an_increase_in_spear/)
-- [Why do some fullschreen programs black out the screen when im not using them?](https://www.reddit.com/r/InformationTechnology/comments/mlypc7/why_do_some_fullschreen_programs_black_out_the/)
-- [Webinar on computer vision by MOURI Tech](https://www.reddit.com/r/InformationTechnology/comments/mlxb51/webinar_on_computer_vision_by_mouri_tech/)
-- [Windows structure Inquiry](https://www.reddit.com/r/InformationTechnology/comments/mlhfyn/windows_structure_inquiry/)
-- [Having problems port forwarding when using ISP failover on a Ubiquity EdgeRouter (ER8)](https://www.reddit.com/r/InformationTechnology/comments/mlcv9j/having_problems_port_forwarding_when_using_isp/)
-- [I need help and or inspired](https://www.reddit.com/r/InformationTechnology/comments/mlcjfp/i_need_help_and_or_inspired/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
-- [Isp.netscape.com](https://isp.netscape.com)
-- [Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]](https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf)
-- [How to make a Python package in 2021](https://antonz.org/python-packaging/)
-- [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
-- [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
-- [A woman who took on Google and won](https://www.bbc.com/news/technology-56659212)
-- [IBM COBOL for Linux on x86](https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html&request_locale=en)
-- [The Health Hazards of Plug-In Air Fresheners](https://www.indoordoctor.com/health-hazards-plug-air-fresheners/)
-- [What Is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing)
+- [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
+- [Monkey MindPong](https://neuralink.com/blog/)
+- [Why do long options start with two dashes? (2019)](https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/)
+- [You Don't Need a GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+- [Shelf Engine (YC S18) Is Hiring a Senior Product Manager](https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868)
+- [MacBook and iPad production delayed as supply crunch hits Apple](https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple)
+- [Why keyboard shortcuts don't work on non-US layouts and how devs could fix it](https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/)
+- [Run Bhyve in FreeBSD jails – The view from inside the forest (2020)](https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/)
+- [Commits are snapshots not diffs (2020)](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Show HN: A Twitter crawler for app ideas](https://iwishtherewas.app/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

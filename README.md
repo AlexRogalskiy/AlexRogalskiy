@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The death of George Floyd and the case against Derek Chauvin – podcast](https://www.theguardian.com/news/audio/2021/apr/08/the-death-of-george-floyd-and-the-case-against-derek-chauvin)
-- [Thai cave rescue, the sequel: Meditating monk saved from flooded cave after four days](https://www.theguardian.com/world/2021/apr/08/thai-cave-rescue--sequel-meditating-buddhist-monk-saved-from-flooded-cave-after-four-days)
-- [Japan ‘considering vaccinating Tokyo Olympic athletes before rest of population’](https://www.theguardian.com/sport/2021/apr/08/japan-considering-vaccinating-tokyo-olympic-athletes-before-rest-of-population)
-- [Caitlyn Jenner reportedly considering run for California governor](https://www.theguardian.com/tv-and-radio/2021/apr/07/caitlyn-jenner-california-governor-gavin-newsom-recall)
-- [Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols](https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions)
-- [Jordan Peterson ‘shocked’ by Captain America villain Red Skull espousing ‘10 rules for life’](https://www.theguardian.com/books/2021/apr/07/jordan-peterson-shocked-by-captain-america-villain-espousing-10-rules-for-life)
-- [UK halts funding for Oxfam over sexual misconduct claims](https://www.theguardian.com/society/2021/apr/08/uk-halts-funding-for-oxfam-over-sexual-misconduct-claims)
-- [English university asks students to lobby MPs over lockdown easing](https://www.theguardian.com/education/2021/apr/07/english-university-asks-students-to-lobby-mps-over-lockdown-easing)
-- [RAF engaged in 10-day attack on Isis in Iraq this spring](https://www.theguardian.com/world/2021/apr/08/raf-engaged-in-10-day-attack-on-isis-in-iraq-this-spring)
-- [Talking Horses: Tiger Roll is back at Aintree, but not in the right race](https://www.theguardian.com/sport/blog/2021/apr/08/talking-horses-tiger-roll-is-back-at-aintree-but-not-in-the-right-race)
+- [Risk, reward and the AstraZeneca vaccine – podcast](https://www.theguardian.com/news/audio/2021/apr/09/risk-and-reward-britain-and-the-astrazeneca-vaccine-podcast)
+- [Tui plane in ‘serious incident’ after every ‘Miss’ on board was assigned child’s weight](https://www.theguardian.com/world/2021/apr/09/tui-plane-serious-incident-every-miss-on-board-child-weight-birmingham-majorca)
+- [3,000-year-old ‘lost golden city’ of ancient Egypt discovered](https://www.theguardian.com/world/2021/apr/09/lost-golden-city-ancient-egypt-aten-discovered)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/09/premier-league-10-things-to-look-out-for-this-weekend)
+- [Scrap use of BMI in decisions on eating disorder support – MPs](https://www.theguardian.com/society/2021/apr/09/scrap-use-bmi-decisions-eating-disorder-support-mps-women)
+- [16 of Britain’s top 20 garden birds have declined in number, annual survey finds](https://www.theguardian.com/environment/2021/apr/09/sixteen-of-britains-top-20-garden-birds-have-declined-in-number-annual-survey-finds)
+- [Talking Horses: Senior Citizen can triumph over Grand National fences](https://www.theguardian.com/sport/blog/2021/apr/09/talking-horses-senior-citizen-can-triumph-over-grand-national-fences)
+- [Covid plan for England: trips abroad could be permitted from May](https://www.theguardian.com/uk-news/2021/apr/08/covid-plan-for-england-trips-abroad-could-be-permitted-from-may)
+- [Justin Rose leads Masters by four shots after brilliant first-round 65](https://www.theguardian.com/sport/2021/apr/08/justin-rose-leads-masters-field-after-tearing-up-back-nine)
+- [Derek Draper returns home after over a year in intensive care recovering from Covid](https://www.theguardian.com/politics/2021/apr/08/derek-draper-returns-home-after-over-a-year-in-intensive-care-recovering-from-covid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

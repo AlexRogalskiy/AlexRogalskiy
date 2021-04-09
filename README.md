@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [LG promises three years of software updates for its phones](https://www.itworldcanada.com/article/lg-promises-three-years-of-software-updates-for-its-phones/445703)
+- [Hashtag Trending, April 8, 2021 – Facebook hiring practices in the spotlight; Google I/O goes virtual; Ontario schools go virtual](https://www.itworldcanada.com/article/hashtag-trending-april-8-2021-facebook-hiring-practices-in-the-spotlight-google-i-o-goes-virtual-ontario-schools-go-virtual/445691)
+- [Experts call UN group consensus report on cyberspace ‘significant’](https://www.itworldcanada.com/article/un-group-consensus-report-on-cyberspace-called-significant/445290)
 - [Intel launches 3rd-gen Xeon data centre processors](https://www.itworldcanada.com/article/intel-launches-3rd-gen-xeon-data-centre-processors/445648)
 - [So-called ransomware cartel is more of a partnership, say researchers](https://www.itworldcanada.com/article/so-called-ransomware-cartel-really-is-a-partnership-say-researchers/445584)
 - [Cyber Security Today, April 7, 2021 – Hundreds of thousands of stolen gift cards on the market, and beware of WeTransfer and LinkedIn scams](https://www.itworldcanada.com/article/cyber-security-today-april-7-2021-hundreds-of-thousands-of-stolen-gift-cards-on-the-market-and-beware-of-wetransfer-and-linkedin-scams/445569)
@@ -428,9 +431,6 @@
 - [Citrix appoints former SAP exec as new GM of Americas](https://www.itworldcanada.com/article/citrix-appoints-former-sap-exec-as-new-gm-of-americas/445566)
 - [SAP urges infosec teams to patch applications faster](https://www.itworldcanada.com/article/sap-urges-infosec-teams-to-patch-applications-faster/445526)
 - [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
-- [Cisco updates Webex People Insights to help boost employee well-being](https://www.itworldcanada.com/article/cisco-updates-webex-people-insights-to-help-boost-employee-well-being/445495)
-- [MSSP eSentire says hackers using LinkedIn profiles for spearphishing](https://www.itworldcanada.com/article/mssp-esentire-says-hackers-using-linkedin-profiles-for-spearphishing/445461)
-- [LG closes its smartphone business](https://www.itworldcanada.com/article/lg-closes-its-smartphone-business/445441)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

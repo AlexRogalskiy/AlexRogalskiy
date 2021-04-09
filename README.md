@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google I/O 2021 Will Live in a Free and Virtual World, May 18th-20th](https://www.reviewgeek.com/77000/google-i-o-2021-will-live-in-a-free-and-virtual-world-may-18th-20th/)
-* [Surprise! Android Malware Promising Free Netflix Did Not Provide Free Netflix](https://www.reviewgeek.com/76967/surprise-android-malware-promising-free-netflix-did-not-provide-free-netflix/)
-* [Will.i.am's Xupermask Smart Mask Takes Inspiration from Sneakers and Smartphones](https://www.reviewgeek.com/76925/will-i-ams-xupermask-smart-mask-takes-inspiration-from-sneakers-and-smartphones/)
-* [Ring's New Floodlight Cam Tracks Your Visitors with Radar](https://www.reviewgeek.com/76942/rings-new-floodlight-cam-tracks-your-visitors-with-radar/)
-* [The New LEGO x Adidas Sneakers Are a Blank Canvas for Your Creativity](https://www.reviewgeek.com/76950/the-new-lego-x-adidas-sneakers-are-a-blank-canvas-for-your-creativity/)
-* [Microsoft's Upcoming Surface Laptop 4 Revealed in Support Pages](https://www.reviewgeek.com/76911/microsofts-upcoming-surface-laptop-4-revealed-in-support-pages/)
-* [Save on Movie Trilogies During Fandango's Digital Bundle Sale](https://www.reviewgeek.com/76904/save-on-movie-trilogies-during-fandangos-digital-bundle-sale/)
-* [How to Use Google Maps Street View in Split Screen on Android](https://www.howtogeek.com/721813/how-to-use-google-maps-street-view-in-split-screen-on-android/)
-* [How to Practice Your Presentations with PowerPoint’s Presenter Coach](https://www.howtogeek.com/721497/how-to-practice-your-presentations-with-powerpoints-presenter-coach/)
-* [How to Enable Google Chrome’s “Reading List” on Android](https://www.howtogeek.com/722400/how-to-enable-google-chromes-reading-list-on-android/)
+* [Best Buy Debuts Its Version of Prime, With Free Shipping and 24/7 Tech Support](https://www.reviewgeek.com/77093/best-buy-debuts-its-version-of-prime-with-free-shipping-and-24-7-tech-support/)
+* [Samsung's SmartTag+ Officially Announced, but No U.S. Availability Yet](https://www.reviewgeek.com/77104/samsungs-smarttag-officially-announced-but-no-u-s-availability-yet/)
+* [Lenovo's Legion Phone Duel 2 is a Gaming, Streaming, Dual-Charging Monster](https://www.reviewgeek.com/77075/lenovos-legion-phone-duel-2-is-a-gaming-streaming-dual-charging-monster/)
+* [Alexa Arrives on Jabra Elite 85t in Latest Firmware Update](https://www.reviewgeek.com/77073/alexa-arrives-on-jabra-elite-85t-in-latest-firmware-update/)
+* [LG Promises Three Years of OS Updates for "Premium" Phones](https://www.reviewgeek.com/77051/lg-promises-three-years-of-os-updates-for-premium-phones/)
+* [Why Are There So Many Wasps Around My House Every Spring?](https://www.lifesavvy.com/65963/why-are-there-so-many-wasps-around-my-house-every-spring/)
+* [How to Disable and Remove Chromecast in Google Chrome](https://www.howtogeek.com/720994/how-to-disable-and-remove-chromecast-in-google-chrome/)
+* [How to Delete a ProtonMail Account](https://www.howtogeek.com/721059/how-to-delete-a-protonmail-account/)
+* [How to Insert and Customize a Signature Line in Microsoft Excel](https://www.howtogeek.com/719552/how-to-insert-and-customize-a-signature-line-in-microsoft-excel/)
+* [Where’s the Menu? How to Use the Play Store’s New Interface on Android](https://www.howtogeek.com/722690/wheres-the-menu-how-to-use-the-play-stores-new-interface-on-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

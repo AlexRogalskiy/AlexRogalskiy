@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/A_still_tongue_makes_a_wise_head_923.php" target="_blank"><i>A still tongue makes a wise head</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/Put_the_pedal_to_the_metal_1304.php" target="_blank"><i>Put the pedal to the metal</i></a>
 <span> = </span>
-<span>Someone who does not talk much, but listens to other people, probably has experience, knowledge and good judgement.</span>
+<span>Go as fast as possible.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

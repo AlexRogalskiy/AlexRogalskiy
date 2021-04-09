@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647829597595009024" target="_blank"><i>April 7, 1969</i></a></summary>
-<p>by Richard Brautigan</p><p>I feel so bad today<br/>that I want to write a poem.<br/>I don’t care: any poem, this<br/>poem.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/647920192106758144" target="_blank"><i>The Promise</i></a></summary>
+<p>by Jane Hirshfield</p><p>Stay, I said<br/>to the cut flowers.<br/>They bowed<br/>their heads lower.</p><p>Stay, I said to the spider,<br/>who fled.</p><p>Stay, leaf.<br/>It reddened,<br/>embarrassed for me and itself.</p><p>Stay, I said to my body.<br/>It sat as a dog does,<br/>obedient for a moment,<br/>soon starting to tremble.</p><p>Stay, to the earth<br/>of riverine valley meadows,<br/>of fossiled escarpments,<br/>of limestone and sandstone.<br/>It looked back<br/>with a changing expression, in silence.</p><p>Stay, I said to my loves.<br/>Each answered,<br/><i>Always.</i></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

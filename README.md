@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/O/on_the_level_1336.php" target="_blank"><i>on the level</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/N/nightie_1451.php" target="_blank"><i>nightie</i></a>
 <span> = </span>
-<span>honest, truthful</span>
+<span>a woman's nightgown</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

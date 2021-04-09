@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/cross_off_2779.php" target="_blank"><i>cross off</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/B/brush_up_2106.php" target="_blank"><i>brush up</i></a>
 <span> = </span>
-<span>to remove a name or an item from a list by drawing a line through it<BR></span>
+<span>to revise your knowledge of something that you learned in the past</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

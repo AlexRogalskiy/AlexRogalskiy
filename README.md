@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [CDO summer school plots step change for data leaders](https://www.computerweekly.com/news/252499047/CDO-summer-school-plots-step-change-for-data-leaders)
+- [Microsoft accused of stifling secondhand software market](https://www.computerweekly.com/news/252499039/Microsoft-accused-of-stifling-secondhand-software-market)
+- [IR35 reforms: MPs call on government to clean up UK’s ‘wild west’ contracting labour supply chain](https://www.computerweekly.com/news/252499038/IR35-reforms-MPs-call-on-government-to-clean-up-UKs-wild-west-contracting-labour-supply-chain)
+- [Post Office Horizon contract extension is part of project to bring Fujitsu work in-house](https://www.computerweekly.com/news/252499045/Post-Office-Horizon-contract-extension-is-part-of-project-to-bring-Fujitsu-work-in-house)
+- [Nation-state cyber attacks double in three years](https://www.computerweekly.com/news/252499042/Nation-state-cyber-attacks-double-in-three-years)
+- [HMRC signs reworked, three-year public cloud deal with AWS worth £94m](https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m)
+- [Future working models at big banks begin to fall into place](https://www.computerweekly.com/news/252499026/Future-working-models-at-big-banks-begin-to-fall-into-place)
 - [Facebook ducks calls to apologise over huge data leak](https://www.computerweekly.com/news/252498987/Facebook-ducks-calls-to-apologise-over-huge-data-leak)
 - [Digital Markets Unit starts work on codes of conduct for tech giants](https://www.computerweekly.com/news/252498970/Digital-Markets-Unit-starts-work-on-codes-of-conduct-for-tech-giants)
 - [Post Office gives controversial Fujitsu contract another year](https://www.computerweekly.com/news/252498971/Post-Office-gives-controversial-Fujitsu-contract-another-year)
-- [Irish employees’ ‘right to disconnect’ enshrined in code of practice](https://www.computerweekly.com/news/252498912/Irish-employees-right-to-disconnect-enshrined-in-code-of-practice)
-- [Unpatched SAP applications are target-rich ground for hackers](https://www.computerweekly.com/news/252498905/Unpatched-SAP-applications-target-rich-ground-for-hackers)
-- [Demands for changes to ‘barmy’ rules on digital evidence have government’s ear](https://www.computerweekly.com/news/252498901/Demands-for-changes-to-barmy-rules-on-digital-evidence-have-governments-ear)
-- [Where now for storage? Hitachi, IBM and Pure Storage](https://www.computerweekly.com/feature/Where-now-for-storage-Hitachi-IBM-and-Pure-Storage)
-- [Facebook data leak could be outside scope of GDPR](https://www.computerweekly.com/news/252498884/Facebook-data-leak-could-be-outside-scope-of-GDPR)
-- [Where now for storage? Dell EMC, NetApp and HPE](https://www.computerweekly.com/feature/Where-now-for-storage-Dell-EMC-NetApp-and-HPE)
-- [US court issues Google API with Java ruling](https://www.computerweekly.com/news/252498872/US-court-issues-Google-API-with-Java-ruling)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

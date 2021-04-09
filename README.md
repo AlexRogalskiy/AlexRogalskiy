@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [FanGraphs Tags a Cloud Database to Keep Up with the Big Show](https://www.informationweek.com/cloud/fangraphs-tags-a-cloud-database-to-keep-up-with-the-big-show/d/d-id/1340592?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [CIO Best Practices for Communicating about Disaster](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/cio-best-practices-for-communicating-about-disaster/a/d-id/1340608?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Experian's Identity GM Addresses Industry's Post-COVID Challenges](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/experians-identity-gm-addresses-industrys-post-covid-challenges/d/d-id/1340600?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Do Executives Help or Hinder Agile Teams?](https://www.informationweek.com/strategic-cio/enterprise-agility/do-executives-help-or-hinder-agile-teams/a/d-id/1340594?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [11 Things IT Professionals Wish They Knew Earlier in Their Careers](https://www.informationweek.com/strategic-cio/11-things-it-professionals-wish-they-knew-earlier-in-their-careers/d/d-id/1340570?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [AI at Your Service](https://www.informationweek.com/big-data/ai-machine-learning/ai-at-your-service/a/d-id/1340569?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [HealthBridge's Low-Code Strategy to Process Medical Claims](https://www.informationweek.com/devops/project-management/healthbridges-low-code-strategy-to-process-medical-claims/a/d-id/1340573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Build a Post-Pandemic AI Strategy for Resilience, Recovery](https://www.informationweek.com/big-data/ai-machine-learning/build-a-post-pandemic-ai-strategy-for-resilience-recovery/a/d-id/1340557?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Does Identity Hinder Hybrid-Cloud and Multi-Cloud Adoption?](https://www.informationweek.com/cloud/does-identity-hinder-hybrid-cloud-and-multi-cloud-adoption/a/d-id/1340562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [New Storage Trends Promise to Help Enterprises Handle a Data Avalanche](https://www.informationweek.com/big-data/new-storage-trends-promise-to-help-enterprises-handle-a-data-avalanche/a/d-id/1340559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

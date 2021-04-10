@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Ontario regional government victim of third-party cyberattack](https://www.itworldcanada.com/article/ontario-regional-government-victim-of-third-party-cyber-attack/445791)
+- [New internet project approved for rural Newfoundland and Labrador](https://www.itworldcanada.com/article/new-internet-project-approved-for-rural-newfoundland-and-labrador/445783)
+- [ITWC’s summer conference celebrates Canada’s DX visionaries](https://www.itworldcanada.com/article/itwcs-summer-conference-celebrates-canadas-dx-visionaries/445760)
+- [Stop tool sprawl and deliver quality application performance](https://www.itworldcanada.com/article/stop-tool-sprawl-and-deliver-quality-application-performance/445758)
+- [Cyber Security Today, Week In Review for April 9, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-9-2021/445704)
+- [More Canadian firms leave RDP exposed than other countries, report suggests](https://www.itworldcanada.com/article/more-canadian-firms-leave-rdp-exposed-than-other-countries-report-suggests/445730)
+- [Cyber Security Today, April 9, 2021 – Another warning to Fortinet administrators, beware of free Netflix offers, credentials to streaming services stolen and another big cloud mistake](https://www.itworldcanada.com/article/cyber-security-today-april-9-2021-another-warning-to-fortinet-administrators-beware-of-free-netflix-offers-credentials-to-streaming-services-stolen-and-another-big-cloud-mistake/445721)
+- [Hashtag Trending, April 9, 2021 – Chip shortage keeps auto manufacturers idle; Facebook won’t notify users of leaked data; Verizon too hot to spot](https://www.itworldcanada.com/article/hashtag-trending-april-9-2021-chip-shortage-keeps-auto-manufacturers-idle-facebook-wont-notify-users-of-leaked-data-verizon-too-hot-to-spot/445740)
 - [LG promises three years of software updates for its phones](https://www.itworldcanada.com/article/lg-promises-three-years-of-software-updates-for-its-phones/445703)
 - [Hashtag Trending, April 8, 2021 – Facebook hiring practices in the spotlight; Google I/O goes virtual; Ontario schools go virtual](https://www.itworldcanada.com/article/hashtag-trending-april-8-2021-facebook-hiring-practices-in-the-spotlight-google-i-o-goes-virtual-ontario-schools-go-virtual/445691)
-- [Experts call UN group consensus report on cyberspace ‘significant’](https://www.itworldcanada.com/article/un-group-consensus-report-on-cyberspace-called-significant/445290)
-- [Intel launches 3rd-gen Xeon data centre processors](https://www.itworldcanada.com/article/intel-launches-3rd-gen-xeon-data-centre-processors/445648)
-- [So-called ransomware cartel is more of a partnership, say researchers](https://www.itworldcanada.com/article/so-called-ransomware-cartel-really-is-a-partnership-say-researchers/445584)
-- [Cyber Security Today, April 7, 2021 – Hundreds of thousands of stolen gift cards on the market, and beware of WeTransfer and LinkedIn scams](https://www.itworldcanada.com/article/cyber-security-today-april-7-2021-hundreds-of-thousands-of-stolen-gift-cards-on-the-market-and-beware-of-wetransfer-and-linkedin-scams/445569)
-- [Hashtag Trending, April 7, 2021 – Google wins VS Oracle; Amazon VS workers; Goodbye Yahoo Answers](https://www.itworldcanada.com/article/hashtag-trending-april-7-2021-google-wins-vs-oracle-amazon-vs-workers-goodbye-yahoo-answers/445578)
-- [Citrix appoints former SAP exec as new GM of Americas](https://www.itworldcanada.com/article/citrix-appoints-former-sap-exec-as-new-gm-of-americas/445566)
-- [SAP urges infosec teams to patch applications faster](https://www.itworldcanada.com/article/sap-urges-infosec-teams-to-patch-applications-faster/445526)
-- [Hashtag Trending, April 6, 2021 – Zuckerberg’s personal info leaked; LG hangs up smartphone biz; Emojis in the workplace](https://www.itworldcanada.com/article/hashtag-trending-april-6-2021-zuckerbergs-personal-info-leaked-lg-hangs-up-smartphone-biz-emojis-in-the-workplace/445503)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

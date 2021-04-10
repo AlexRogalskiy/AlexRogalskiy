@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/Put_the_pedal_to_the_metal_1304.php" target="_blank"><i>Put the pedal to the metal</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/A_man_is_as_old_as_he_feels_and_a_woman_as_old_as_she_looks_1288.php" target="_blank"><i>A man is as old as he feels, and a woman as old as she looks</i></a>
 <span> = </span>
-<span>Go as fast as possible.</span>
+<span>This somewhat sexist saying suggests that men age better than women.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

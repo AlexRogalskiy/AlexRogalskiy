@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Study finds herding sheep via drone better for their welfare](https://www.theguardian.com/world/2021/apr/09/stress-test-australian-study-finds-herding-sheep-via-drone-better-for-their-welfare)
-- [Surely We Can Do Better Than Elon Musk](https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk)
-- [Toyota Prepared for the Chip Shortage Years Ago. Why Didn't Anyone Else?](https://jalopnik.com/toyota-prepared-for-the-chip-shortage-years-ago-why-di-1846641653)
-- [Artist Cheryl Hodges has work stolen online, now on a mission to end the theft](https://www.abc.net.au/news/2021-04-09/cheryl-hodges-artist-theft-online-copyright/100056714)
-- [Why Vim Uses hjkl & Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history/)
-- [Lost Egyptian city of Akhetaten unearthed](https://www.nationalgeographic.com/history/article/lost-golden-city-luxor-discovered-archaeologists-egypt)
-- [The Decline of Heroku](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html)
-- [Plane in 'serious incident’ after every Miss on board assigned child’s weight](https://www.theguardian.com/world/2021/apr/09/tui-plane-serious-incident-every-miss-on-board-child-weight-birmingham-majorca)
-- [BSB Design Implements Four-Day Work Week Model](https://www.bsbdesign.com/whats-trending/blog/bsb-design-implements-four-day-work-week-model)
-- [How a Carnivorous Mushroom Poisons Its Prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
+- [Peter Thiel-Backed Psychedelics Firm Buys Majority of Brain Interface Firm](https://gizmodo.com/peter-thiel-backed-psychedelics-firm-buys-majority-of-b-1846654014)
+- [Why NFS servers generally have a 'reply cache'](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSServerReplyCacheWhy)
+- [Eruption of La Soufrière volcano in St. Vincent forces thousands from their home](https://www.cbc.ca/news/world/eruption-of-la-soufri%C3%A8re-volcano-in-st-vincent-forces-thousands-from-their-homes-1.5981315)
+- [Gain of Function Research](https://en.wikipedia.org/wiki/Gain_of_function_research)
+- [Cursed_things](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf5bWzS8MI1aUEtSp6h-GitucJh8ndOSYFKSLkeMxoy14pjoA/formResponse)
+- [First clinical trial confirms HIV vaccine using Moderna inoculation](https://www.iavi.org/news-resources/press-releases/2021/first-in-human-clinical-trial-confirms-novel-hiv-vaccine-approach-developed-by-iavi-and-scripps-research)
+- [WWDC 2000 Session 106 – Mac OS X: Kernel [video]](https://www.youtube.com/watch?v=ggnFoDqzGMU)
+- [Alibaba fined $2.8Bn USD for forcing platform exclusivity](https://twitter.com/qingqingparis/status/1380689001992974336)
+- [Investors put more money into stocks in last 5 months than previous 12 years](https://www.cnbc.com/2021/04/09/investors-have-put-more-money-into-stocks-in-the-last-5-months-than-the-previous-12-years-combined.html)
+- [Theo Engel's Minicomputer Website](https://www.theoengel.nl/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/N/nightie_1451.php" target="_blank"><i>nightie</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/XYZ/yucky_998.php" target="_blank"><i>yucky</i></a>
 <span> = </span>
-<span>a woman's nightgown</span>
+<span>bad-tasting, not delicious</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/beat_around_the_bush_beat_about_the_bush_388.php" target="_blank"><i>beat around the bush | beat about the bush</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/American/at_loose_ends_387.php" target="_blank"><i>at loose ends</i></a>
 <span> = </span>
-<span>If you beat around the bush, or beat about the bush, you don't say something directly, usually because you don't want to upset the person you're talking to.</span>
+<span>If you're at loose ends, you feel restless and unsettled because you don't have anything to do.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

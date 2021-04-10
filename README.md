@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
-- [Monkey MindPong](https://neuralink.com/blog/)
-- [Why do long options start with two dashes? (2019)](https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/)
-- [You Don't Need a GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
-- [Shelf Engine (YC S18) Is Hiring a Senior Product Manager](https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868)
-- [MacBook and iPad production delayed as supply crunch hits Apple](https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple)
-- [Why keyboard shortcuts don't work on non-US layouts and how devs could fix it](https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/)
-- [Run Bhyve in FreeBSD jails – The view from inside the forest (2020)](https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/)
-- [Commits are snapshots not diffs (2020)](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
-- [Show HN: A Twitter crawler for app ideas](https://iwishtherewas.app/)
+- [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
+- [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
+- [TheOldNet Browser Proxy](http://theoldnet.com/docs/httpproxy/index.html)
+- [Boeing Warns of Possible Electrical Issue on 737 Max Planes](https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974)
+- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
+- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
+- [Was the NE2000 really that bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
+- [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
+- [A look at LLVM: comparing clamp implementations](https://secret.club/2021/04/09/std-clamp.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

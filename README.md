@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [University students adapt to remote learning but question value for money](https://www.computerweekly.com/news/252499105/University-students-adapt-to-remote-learning-but-question-value-for-money)
+- [Global demand for IT and business services highest ever for first quarter](https://www.computerweekly.com/news/252499093/Global-demand-for-IT-and-business-services-highest-ever-for-first-quarter)
+- [Egypt, Italy and US most affected in Facebook leak](https://www.computerweekly.com/news/252499100/Egypt-Italy-and-US-most-affected-in-Facebook-leak)
+- [IT leaders get the green light to spend on digitisation](https://www.computerweekly.com/news/252499099/IT-leaders-get-the-green-light-to-spend-on-digitisation)
+- [Loan Charge Group MPs demand IR35 shake-up to stop contractors becoming ‘zero-rights employees’](https://www.computerweekly.com/news/252499096/Loan-Charge-Group-MPs-demand-IR35-shake-up-to-stop-contractors-becoming-zero-rights-employees)
+- [NCSC: Using your pet’s name as a password is very stupid](https://www.computerweekly.com/news/252499089/NCSC-Using-your-pets-name-as-a-password-is-very-stupid)
+- [Tech industry sees surge in remote working job postings](https://www.computerweekly.com/news/252499081/Tech-industry-sees-surge-in-remote-working-job-postings)
+- [Cring ransomware hits ICS through two-year-old bug](https://www.computerweekly.com/news/252499086/Cring-ransomware-hits-ICS-through-two-year-old-bug)
 - [CDO summer school plots step change for data leaders](https://www.computerweekly.com/news/252499047/CDO-summer-school-plots-step-change-for-data-leaders)
 - [Microsoft accused of stifling secondhand software market](https://www.computerweekly.com/news/252499039/Microsoft-accused-of-stifling-secondhand-software-market)
-- [IR35 reforms: MPs call on government to clean up UK’s ‘wild west’ contracting labour supply chain](https://www.computerweekly.com/news/252499038/IR35-reforms-MPs-call-on-government-to-clean-up-UKs-wild-west-contracting-labour-supply-chain)
-- [Post Office Horizon contract extension is part of project to bring Fujitsu work in-house](https://www.computerweekly.com/news/252499045/Post-Office-Horizon-contract-extension-is-part-of-project-to-bring-Fujitsu-work-in-house)
-- [Nation-state cyber attacks double in three years](https://www.computerweekly.com/news/252499042/Nation-state-cyber-attacks-double-in-three-years)
-- [HMRC signs reworked, three-year public cloud deal with AWS worth £94m](https://www.computerweekly.com/news/252499036/HMRC-signs-reworked-three-year-public-cloud-deal-with-AWS-worth-94m)
-- [Future working models at big banks begin to fall into place](https://www.computerweekly.com/news/252499026/Future-working-models-at-big-banks-begin-to-fall-into-place)
-- [Facebook ducks calls to apologise over huge data leak](https://www.computerweekly.com/news/252498987/Facebook-ducks-calls-to-apologise-over-huge-data-leak)
-- [Digital Markets Unit starts work on codes of conduct for tech giants](https://www.computerweekly.com/news/252498970/Digital-Markets-Unit-starts-work-on-codes-of-conduct-for-tech-giants)
-- [Post Office gives controversial Fujitsu contract another year](https://www.computerweekly.com/news/252498971/Post-Office-gives-controversial-Fujitsu-contract-another-year)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

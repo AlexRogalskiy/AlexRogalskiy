@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Risk, reward and the AstraZeneca vaccine – podcast](https://www.theguardian.com/news/audio/2021/apr/09/risk-and-reward-britain-and-the-astrazeneca-vaccine-podcast)
-- [Tui plane in ‘serious incident’ after every ‘Miss’ on board was assigned child’s weight](https://www.theguardian.com/world/2021/apr/09/tui-plane-serious-incident-every-miss-on-board-child-weight-birmingham-majorca)
-- [3,000-year-old ‘lost golden city’ of ancient Egypt discovered](https://www.theguardian.com/world/2021/apr/09/lost-golden-city-ancient-egypt-aten-discovered)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/09/premier-league-10-things-to-look-out-for-this-weekend)
-- [Scrap use of BMI in decisions on eating disorder support – MPs](https://www.theguardian.com/society/2021/apr/09/scrap-use-bmi-decisions-eating-disorder-support-mps-women)
-- [16 of Britain’s top 20 garden birds have declined in number, annual survey finds](https://www.theguardian.com/environment/2021/apr/09/sixteen-of-britains-top-20-garden-birds-have-declined-in-number-annual-survey-finds)
-- [Talking Horses: Senior Citizen can triumph over Grand National fences](https://www.theguardian.com/sport/blog/2021/apr/09/talking-horses-senior-citizen-can-triumph-over-grand-national-fences)
-- [Covid plan for England: trips abroad could be permitted from May](https://www.theguardian.com/uk-news/2021/apr/08/covid-plan-for-england-trips-abroad-could-be-permitted-from-may)
-- [Justin Rose leads Masters by four shots after brilliant first-round 65](https://www.theguardian.com/sport/2021/apr/08/justin-rose-leads-masters-field-after-tearing-up-back-nine)
-- [Derek Draper returns home after over a year in intensive care recovering from Covid](https://www.theguardian.com/politics/2021/apr/08/derek-draper-returns-home-after-over-a-year-in-intensive-care-recovering-from-covid)
+- [Northern Ireland police say paramilitaries not behind recent violence](https://www.theguardian.com/uk-news/2021/apr/09/northern-ireland-police-say-paramilitaries-not-behind-recent-violence)
+- [Justin Rose holds on to Masters lead but has Jordan Spieth in rearview mirror](https://www.theguardian.com/sport/2021/apr/10/justin-rose-holds-on-to-masters-lead-but-has-jordan-spieth-in-rearview-mirror)
+- [UK consumers need clear idea of cost of EU purchases, Which? says](https://www.theguardian.com/money/2021/apr/10/uk-consumer-need-clear-idea-cost-eu-purchase-vat-import-duties-which-says)
+- [A&E ‘swamped’ with patients seeking help for mild Covid jab side-effects](https://www.theguardian.com/society/2021/apr/09/ae-swamped-with-patients-seeking-help-for-mild-covid-jab-side-effects)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/09/20-photographs-of-the-week)
+- [Derek Chauvin trial: medical examiner stops short of backing fellow experts’ testimony](https://www.theguardian.com/us-news/2021/apr/09/derek-chauvin-trial-george-floyd-cause-of-death)
+- [José Mourinho at odds with Ole Gunnar Solskjær over egos and trophies](https://www.theguardian.com/football/2021/apr/09/jose-mourinho-ole-gunnar-solskjaer-egos-trophies-manchester-united-tottenham)
+- [England Women’s defence exposed in friendly defeat by France](https://www.theguardian.com/football/2021/apr/09/france-england-womens-international-friendly-match-report)
+- [Adama Traoré’s late Wolves winner leaves Fulham in big relegation trouble](https://www.theguardian.com/football/2021/apr/09/fulham-wolves-premier-league-match-report)
+- [Former Portuguese prime minister Sócrates to stand trial for money laundering](https://www.theguardian.com/world/2021/apr/09/former-portuguese-prime-minister-socrates-to-stand-trial-for-money-laundering)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

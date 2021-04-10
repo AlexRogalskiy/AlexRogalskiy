@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/B/brush_up_2106.php" target="_blank"><i>brush up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/keep_1/keep_to_1767.php" target="_blank"><i>keep to</i></a>
 <span> = </span>
-<span>to revise your knowledge of something that you learned in the past</span>
+<span>If you keep to something like a limit, a budget or a schedule, you don't go over it or outside it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

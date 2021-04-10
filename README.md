@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
+- [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_all)
+- [3 multicloud architecture mistakes](https://www.infoworld.com/article/3614589/3-fixable-reasons-your-multicloud-architecture-is-not-optimized.html#tk.rss_all)
 - [Microsoft open sources C# standards work](https://www.infoworld.com/article/3614352/microsoft-open-sources-csharp-standards-work.html#tk.rss_all)
 - [The pesky reality of multicloud](https://www.infoworld.com/article/3614197/the-pesky-reality-of-multicloud.html#tk.rss_all)
 - [What is unified policy as code, and why do you need it?](https://www.infoworld.com/article/3613872/using-opa-with-gitops-to-speed-cloud-native-development.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [TypeScript 4.3 supports type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-supports-type-specification-for-properties.html#tk.rss_all)
 - [Microsoft gets serious about WebAssembly](https://www.infoworld.com/article/3613873/microsoft-gets-serious-about-webassembly.html#tk.rss_all)
 - [Microsoft unveils its own Java distribution](https://www.infoworld.com/article/3614211/microsoft-unveils-its-own-java-distribution.html#tk.rss_all)
-- [Our cloud complexity bias may be hurting business](https://www.infoworld.com/article/3614188/our-cloud-complexity-bias-may-be-hurting-business.html#tk.rss_all)
-- [How to avoid GC pressure in C# and .NET](https://www.infoworld.com/article/3614084/how-to-avoid-gc-pressure-in-c-and-net.html#tk.rss_all)
-- [Objective-C plummets in popularity](https://www.infoworld.com/article/3613938/objective-c-plummets-in-popularity.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

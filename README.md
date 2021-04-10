@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Best Buy Debuts Its Version of Prime, With Free Shipping and 24/7 Tech Support](https://www.reviewgeek.com/77093/best-buy-debuts-its-version-of-prime-with-free-shipping-and-24-7-tech-support/)
-* [Samsung's SmartTag+ Officially Announced, but No U.S. Availability Yet](https://www.reviewgeek.com/77104/samsungs-smarttag-officially-announced-but-no-u-s-availability-yet/)
-* [Lenovo's Legion Phone Duel 2 is a Gaming, Streaming, Dual-Charging Monster](https://www.reviewgeek.com/77075/lenovos-legion-phone-duel-2-is-a-gaming-streaming-dual-charging-monster/)
-* [Alexa Arrives on Jabra Elite 85t in Latest Firmware Update](https://www.reviewgeek.com/77073/alexa-arrives-on-jabra-elite-85t-in-latest-firmware-update/)
-* [LG Promises Three Years of OS Updates for "Premium" Phones](https://www.reviewgeek.com/77051/lg-promises-three-years-of-os-updates-for-premium-phones/)
-* [Why Are There So Many Wasps Around My House Every Spring?](https://www.lifesavvy.com/65963/why-are-there-so-many-wasps-around-my-house-every-spring/)
-* [How to Disable and Remove Chromecast in Google Chrome](https://www.howtogeek.com/720994/how-to-disable-and-remove-chromecast-in-google-chrome/)
-* [How to Delete a ProtonMail Account](https://www.howtogeek.com/721059/how-to-delete-a-protonmail-account/)
-* [How to Insert and Customize a Signature Line in Microsoft Excel](https://www.howtogeek.com/719552/how-to-insert-and-customize-a-signature-line-in-microsoft-excel/)
-* [Where’s the Menu? How to Use the Play Store’s New Interface on Android](https://www.howtogeek.com/722690/wheres-the-menu-how-to-use-the-play-stores-new-interface-on-android/)
+* [Google Is Testing Automatic Call Recording for Unknown Phone Numbers](https://www.reviewgeek.com/77307/google-is-testing-automatic-call-recording-for-unknown-phone-numbers/)
+* [Want a $30 Wyze Watch Today? Head to Micro Center](https://www.reviewgeek.com/77309/want-a-30-wyze-watch-today-head-to-micro-center/)
+* [Watch a Monkey Play Pong with a Neuralink Brain Implant](https://www.reviewgeek.com/77311/watch-a-monkey-play-pong-with-a-neuralink-brain-implant/)
+* [[Update: Nope!] Google's Pixel 5a Phone May Be Canceled](https://www.reviewgeek.com/77297/rumor-googles-pixel-5a-phone-may-be-canceled/)
+* [Samsung Thinks You'll Switch to Android After an "iTest Drive"](https://www.reviewgeek.com/77272/samsung-thinks-youll-switch-to-android-after-an-itest-drive/)
+* [Future Sony Movies Will Stream Exclusively on Netflix](https://www.reviewgeek.com/77257/future-sony-movies-will-stream-exclusively-on-netflix/)
+* [How to Turn off 5G on Android (to Save Battery Life)](https://www.howtogeek.com/722503/how-to-turn-off-5g-on-android-to-save-battery-life/)
+* [How to Crop a Picture in Microsoft OneNote](https://www.howtogeek.com/719950/how-to-crop-a-picture-in-microsoft-onenote/)
+* [PSA: You Can Still Download the Old Free Version of SketchUp](https://www.howtogeek.com/720402/psa-you-can-still-download-the-old-free-version-of-sketchup/)
+* [How to Drop a Pin in Google Maps on Your Computer or Phone](https://www.howtogeek.com/717738/how-to-drop-a-pin-in-google-maps-from-your-computer-or-smartphone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

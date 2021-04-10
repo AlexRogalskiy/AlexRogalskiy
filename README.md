@@ -241,8 +241,18 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/647920192106758144" target="_blank"><i>The Promise</i></a></summary>
-<p>by Jane Hirshfield</p><p>Stay, I said<br/>to the cut flowers.<br/>They bowed<br/>their heads lower.</p><p>Stay, I said to the spider,<br/>who fled.</p><p>Stay, leaf.<br/>It reddened,<br/>embarrassed for me and itself.</p><p>Stay, I said to my body.<br/>It sat as a dog does,<br/>obedient for a moment,<br/>soon starting to tremble.</p><p>Stay, to the earth<br/>of riverine valley meadows,<br/>of fossiled escarpments,<br/>of limestone and sandstone.<br/>It looked back<br/>with a changing expression, in silence.</p><p>Stay, I said to my loves.<br/>Each answered,<br/><i>Always.</i></p>
+<summary><a href="https://apoemaday.tumblr.com/post/648019102810718208" target="_blank"><i>I Don’t Know How Many Souls I Have</i></a></summary>
+<p>by Fernando Pessoa</p><p>
+	
+ I don’t know how many souls I have.<br/>I’ve changed at every moment.<br/>I always feel like a stranger.<br/>I’ve never seen or found myself.<br/>From being so much, I have only soul.<br/>A man who has soul has no calm.<br/>A man who sees is just what he sees.<br/>A man who feels is not who he is.<br/><br/>Attentive to what I am and see,<br/>I become them and stop being I.<br/>Each of my dreams and each desire<br/>Belongs to whoever had it, not me.<br/>I am my own landscape,<br/>I watch myself journey&ndash;<br/>Various, mobile, and alone. <br/>Here where I am I can’t feel myself.<br/><br/>That’s why I read, as a stranger,<br/>My being as if it were pages.<br/>Not knowing what will come<br/>And forgetting what has passed,<br/>I note in the margin of my reading <br/>What I thought I felt. <br/>Rereading, I wonder: “Was that me?”<br/>God knows, because he wrote it.
+
+
+
+
+
+    		
+		
+    	   </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

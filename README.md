@@ -326,16 +326,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Northern Ireland police say paramilitaries not behind recent violence](https://www.theguardian.com/uk-news/2021/apr/09/northern-ireland-police-say-paramilitaries-not-behind-recent-violence)
-- [Justin Rose holds on to Masters lead but has Jordan Spieth in rearview mirror](https://www.theguardian.com/sport/2021/apr/10/justin-rose-holds-on-to-masters-lead-but-has-jordan-spieth-in-rearview-mirror)
-- [UK consumers need clear idea of cost of EU purchases, Which? says](https://www.theguardian.com/money/2021/apr/10/uk-consumer-need-clear-idea-cost-eu-purchase-vat-import-duties-which-says)
-- [A&E ‘swamped’ with patients seeking help for mild Covid jab side-effects](https://www.theguardian.com/society/2021/apr/09/ae-swamped-with-patients-seeking-help-for-mild-covid-jab-side-effects)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/09/20-photographs-of-the-week)
-- [Derek Chauvin trial: medical examiner stops short of backing fellow experts’ testimony](https://www.theguardian.com/us-news/2021/apr/09/derek-chauvin-trial-george-floyd-cause-of-death)
-- [José Mourinho at odds with Ole Gunnar Solskjær over egos and trophies](https://www.theguardian.com/football/2021/apr/09/jose-mourinho-ole-gunnar-solskjaer-egos-trophies-manchester-united-tottenham)
-- [England Women’s defence exposed in friendly defeat by France](https://www.theguardian.com/football/2021/apr/09/france-england-womens-international-friendly-match-report)
-- [Adama Traoré’s late Wolves winner leaves Fulham in big relegation trouble](https://www.theguardian.com/football/2021/apr/09/fulham-wolves-premier-league-match-report)
-- [Former Portuguese prime minister Sócrates to stand trial for money laundering](https://www.theguardian.com/world/2021/apr/09/former-portuguese-prime-minister-socrates-to-stand-trial-for-money-laundering)
+- [Man charged with murder of millionaire hotelier Sir Richard Sutton](https://www.theguardian.com/uk-news/2021/apr/11/man-charged-with-of-millionaire-hotelier-sir-richard-sutton)
+- [Indonesia earthquake: at least seven dead on Java island](https://www.theguardian.com/world/2021/apr/11/indonesia-earthquake-at-least-seven-dead-on-java-island)
+- [Hideki Matsuyama surges to four-shot lead in weather-hit Masters](https://www.theguardian.com/sport/2021/apr/11/hideki-matsuyama-surges-to-four-shot-lead-in-weather-hit-masters)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get the hang of it: 10 of the best earrings - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/get-the-hang-of-it-10-of-the-best-earrings-in-pictures)
+- [Slip into spring: 5 ways to style slip dresses this season – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/slip-into-spring-5-ways-to-style-slip-dresses-this-season-in-pictures)
+- [Cameron ‘lobbied senior Downing St aide and Matt Hancock’ to help Greensill](https://www.theguardian.com/politics/2021/apr/10/revealed-david-cameron-stood-to-gain-from-218m-greensill-trust)
+- [Solskjær can take heart from Manchester United’s upward curve | Jamie Jackson](https://www.theguardian.com/football/2021/apr/10/cutting-manchester-united-best-post-alex-ferguson-also-ran-margin-can-boost-ole-gunnar-solskjaer)
+- [Nasa preparing to attempt first controlled flight on another world](https://www.theguardian.com/science/2021/apr/10/nasa-preparing-to-attempt-first-controlled-flight-on-another-world)
+- [Sports fixtures to be moved to avoid clashing with Prince Philip’s funeral](https://www.theguardian.com/football/2021/apr/10/sporting-bodies-fixtures-prince-philip-funeral)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

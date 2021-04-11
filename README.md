@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/XYZ/yucky_998.php" target="_blank"><i>yucky</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/British/git_1481.php" target="_blank"><i>git</i></a>
 <span> = </span>
-<span>bad-tasting, not delicious</span>
+<span>a fool, a stupid person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

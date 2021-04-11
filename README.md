@@ -416,6 +416,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multi Tiered printer trays?](https://www.reddit.com/r/InformationTechnology/comments/mo5p11/multi_tiered_printer_trays/)
+- [Trying to stepup from simple processing system to a more advance system design.](https://www.reddit.com/r/InformationTechnology/comments/mo2ys1/trying_to_stepup_from_simple_processing_system_to/)
+- [VM question](https://www.reddit.com/r/InformationTechnology/comments/mo017k/vm_question/)
 - [Data Science or Computer Science for a career in Bioinfomatics](https://www.reddit.com/r/InformationTechnology/comments/mnj8q6/data_science_or_computer_science_for_a_career_in/)
 - [Beginner](https://www.reddit.com/r/InformationTechnology/comments/mneryv/beginner/)
 - [IT related fields that don't require education or certifications?](https://www.reddit.com/r/InformationTechnology/comments/mn6rfg/it_related_fields_that_dont_require_education_or/)
@@ -423,9 +426,6 @@
 - [Custom Subnet Mask/ IP address question](https://www.reddit.com/r/InformationTechnology/comments/mn3425/custom_subnet_mask_ip_address_question/)
 - [Unsure if I should take this internship opportunity? Social Media Specialist / Web maintenance as MIS major](https://www.reddit.com/r/InformationTechnology/comments/mmyvii/unsure_if_i_should_take_this_internship/)
 - [Application analysts](https://www.reddit.com/r/InformationTechnology/comments/mmuqwn/application_analysts/)
-- [If you found out that one of your email addresses was affected by the recent Facebook data leak what would be the steps you take to save your email address and any account linked to it?](https://www.reddit.com/r/InformationTechnology/comments/mmk2fi/if_you_found_out_that_one_of_your_email_addresses/)
-- [Logistics Analyst or Systems Specialist??](https://www.reddit.com/r/InformationTechnology/comments/mmcab7/logistics_analyst_or_systems_specialist/)
-- [Thoughts on working as a personal IT?](https://www.reddit.com/r/InformationTechnology/comments/mma69z/thoughts_on_working_as_a_personal_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

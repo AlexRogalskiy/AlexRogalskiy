@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;da&#x2F;76&#x2F;5ada76a3d91ba8f9281bc40f4f8f5a15.jpg" alt="The putative #WordOfTheDay is, well, putative. ⁠ See where it comes from at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5e&#x2F;72&#x2F;3d&#x2F;5e723dcd8525c3516923b444ec463b60.jpg" alt="We aren&#39;t trying to be greedy, but cupidity is the Word of the Day. Want more? Click through for example sentences, word origin, and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;39&#x2F;17&#x2F;5c&#x2F;39175cfdb1de0ecdd57b97218caffb50.jpg" alt="We&#39;ve got some explaining to do. Megillah is the Word of the Day. Get example sentences and more at Dictionary.com! #Learn #Vocabulary #English #Writing " />
     </p>
@@ -283,7 +283,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 74%, pressure: 1016 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
+        <b>1°C (<i>clear sky</i>), humidity: 74%, pressure: 1019 (mbar), wind: /south-east/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:54 am</b> and sets at <b>20:05 pm</b>.
     </p>

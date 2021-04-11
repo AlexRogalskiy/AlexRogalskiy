@@ -241,18 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648019102810718208" target="_blank"><i>I Don’t Know How Many Souls I Have</i></a></summary>
-<p>by Fernando Pessoa</p><p>
-	
- I don’t know how many souls I have.<br/>I’ve changed at every moment.<br/>I always feel like a stranger.<br/>I’ve never seen or found myself.<br/>From being so much, I have only soul.<br/>A man who has soul has no calm.<br/>A man who sees is just what he sees.<br/>A man who feels is not who he is.<br/><br/>Attentive to what I am and see,<br/>I become them and stop being I.<br/>Each of my dreams and each desire<br/>Belongs to whoever had it, not me.<br/>I am my own landscape,<br/>I watch myself journey&ndash;<br/>Various, mobile, and alone. <br/>Here where I am I can’t feel myself.<br/><br/>That’s why I read, as a stranger,<br/>My being as if it were pages.<br/>Not knowing what will come<br/>And forgetting what has passed,<br/>I note in the margin of my reading <br/>What I thought I felt. <br/>Rereading, I wonder: “Was that me?”<br/>God knows, because he wrote it.
-
-
-
-
-
-    		
-		
-    	   </p>
+<summary><a href="https://apoemaday.tumblr.com/post/648101381009539072" target="_blank"><i>Getting the Laundry</i></a></summary>
+<p>by Warren Woessner</p><p>Rest has come again. The cars<br/>push their echoes, reading the road like braille.<br/>The tired squeek of a single tricycle rolls home.<br/>I look up to see a half-moon not quite included<br/>by the Power Co-op/Truck Service signs.<br/>It has time yet to land safely in the dark.<br/>The last patch of dirt in front of the new GTC<br/>has hardened into asphalt.<br/>Again, there is time.<br/>I find myself folding the laundry<br/>more slowly than I could. It is a simple thing to do.<br/>A thing missed, like picking fruit<br/>or sanding wood. Also the warmth.<br/>Clothes have the patience of old friends:<br/>with open doors, always on my side.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

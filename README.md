@@ -341,16 +341,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
-- [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
-- [TheOldNet Browser Proxy](http://theoldnet.com/docs/httpproxy/index.html)
-- [Boeing Warns of Possible Electrical Issue on 737 Max Planes](https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974)
-- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
-- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
-- [Was the NE2000 really that bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
-- [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
-- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
-- [A look at LLVM: comparing clamp implementations](https://secret.club/2021/04/09/std-clamp.html)
+- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
+- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
+- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [Show HN: Remove background from image using machine learning](https://removebackground.app)
+- [Don’t hire top talent; hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
+- [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
+- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
+- [The Kitten Programming Language](http://kittenlang.org/)
+- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

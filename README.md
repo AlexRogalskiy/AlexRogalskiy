@@ -311,16 +311,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Peter Thiel-Backed Psychedelics Firm Buys Majority of Brain Interface Firm](https://gizmodo.com/peter-thiel-backed-psychedelics-firm-buys-majority-of-b-1846654014)
-- [Why NFS servers generally have a 'reply cache'](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSServerReplyCacheWhy)
-- [Eruption of La Soufrière volcano in St. Vincent forces thousands from their home](https://www.cbc.ca/news/world/eruption-of-la-soufri%C3%A8re-volcano-in-st-vincent-forces-thousands-from-their-homes-1.5981315)
-- [Gain of Function Research](https://en.wikipedia.org/wiki/Gain_of_function_research)
-- [Cursed_things](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf5bWzS8MI1aUEtSp6h-GitucJh8ndOSYFKSLkeMxoy14pjoA/formResponse)
-- [First clinical trial confirms HIV vaccine using Moderna inoculation](https://www.iavi.org/news-resources/press-releases/2021/first-in-human-clinical-trial-confirms-novel-hiv-vaccine-approach-developed-by-iavi-and-scripps-research)
-- [WWDC 2000 Session 106 – Mac OS X: Kernel [video]](https://www.youtube.com/watch?v=ggnFoDqzGMU)
-- [Alibaba fined $2.8Bn USD for forcing platform exclusivity](https://twitter.com/qingqingparis/status/1380689001992974336)
-- [Investors put more money into stocks in last 5 months than previous 12 years](https://www.cnbc.com/2021/04/09/investors-have-put-more-money-into-stocks-in-the-last-5-months-than-the-previous-12-years-combined.html)
-- [Theo Engel's Minicomputer Website](https://www.theoengel.nl/)
+- [Turn the Lights Out. Here Come the Birds](https://www.nytimes.com/2021/04/10/us/bird-migration-lights-out.html)
+- [What science fiction can do](https://mitpress.mit.edu/blog/what-science-fiction-can-do)
+- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
+- [Logitech discontinues Harmony universal remotes](https://www.theverge.com/2021/4/10/22377015/logitech-discontinues-harmony-universal-remotes)
+- [MVP](https://news.ycombinator.com/item?id=26766965)
+- [Militarization of Police](https://en.wikipedia.org/wiki/Militarization_of_police)
+- [Do you need a 12MP photo of a goat?](https://bigballi.com/blog/mac-batch-image-resize)
+- [How do marketing companies like this (Bridge Corp)get their data?](https://www.thebridgecorp.com/)
+- [Online Scammers Have a New Offer for You: Vaccine Cards](https://www.nytimes.com/2021/04/08/technology/vaccine-card-scam.html)
+- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

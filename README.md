@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/American/at_loose_ends_387.php" target="_blank"><i>at loose ends</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/around_the_clock_266.php" target="_blank"><i>around the clock</i></a>
 <span> = </span>
-<span>If you're at loose ends, you feel restless and unsettled because you don't have anything to do.</span>
+<span>If something occurs around the clock, it goes on all day and all night.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;da&#x2F;76&#x2F;5ada76a3d91ba8f9281bc40f4f8f5a15.jpg" alt="The putative #WordOfTheDay is, well, putative. ⁠ See where it comes from at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5e&#x2F;72&#x2F;3d&#x2F;5e723dcd8525c3516923b444ec463b60.jpg" alt="We aren&#39;t trying to be greedy, but cupidity is the Word of the Day. Want more? Click through for example sentences, word origin, and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;39&#x2F;17&#x2F;5c&#x2F;39175cfdb1de0ecdd57b97218caffb50.jpg" alt="We&#39;ve got some explaining to do. Megillah is the Word of the Day. Get example sentences and more at Dictionary.com! #Learn #Vocabulary #English #Writing " />
     </p>
@@ -241,18 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648019102810718208" target="_blank"><i>I Don’t Know How Many Souls I Have</i></a></summary>
-<p>by Fernando Pessoa</p><p>
-	
- I don’t know how many souls I have.<br/>I’ve changed at every moment.<br/>I always feel like a stranger.<br/>I’ve never seen or found myself.<br/>From being so much, I have only soul.<br/>A man who has soul has no calm.<br/>A man who sees is just what he sees.<br/>A man who feels is not who he is.<br/><br/>Attentive to what I am and see,<br/>I become them and stop being I.<br/>Each of my dreams and each desire<br/>Belongs to whoever had it, not me.<br/>I am my own landscape,<br/>I watch myself journey&ndash;<br/>Various, mobile, and alone. <br/>Here where I am I can’t feel myself.<br/><br/>That’s why I read, as a stranger,<br/>My being as if it were pages.<br/>Not knowing what will come<br/>And forgetting what has passed,<br/>I note in the margin of my reading <br/>What I thought I felt. <br/>Rereading, I wonder: “Was that me?”<br/>God knows, because he wrote it.
-
-
-
-
-
-    		
-		
-    	   </p>
+<summary><a href="https://apoemaday.tumblr.com/post/648101381009539072" target="_blank"><i>Getting the Laundry</i></a></summary>
+<p>by Warren Woessner</p><p>Rest has come again. The cars<br/>push their echoes, reading the road like braille.<br/>The tired squeek of a single tricycle rolls home.<br/>I look up to see a half-moon not quite included<br/>by the Power Co-op/Truck Service signs.<br/>It has time yet to land safely in the dark.<br/>The last patch of dirt in front of the new GTC<br/>has hardened into asphalt.<br/>Again, there is time.<br/>I find myself folding the laundry<br/>more slowly than I could. It is a simple thing to do.<br/>A thing missed, like picking fruit<br/>or sanding wood. Also the warmth.<br/>Clothes have the patience of old friends:<br/>with open doors, always on my side.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -283,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 74%, pressure: 1016 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
+        <b>1°C (<i>clear sky</i>), humidity: 74%, pressure: 1019 (mbar), wind: /south-east/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:54 am</b> and sets at <b>20:05 pm</b>.
     </p>
@@ -296,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Is Testing Automatic Call Recording for Unknown Phone Numbers](https://www.reviewgeek.com/77307/google-is-testing-automatic-call-recording-for-unknown-phone-numbers/)
-* [Want a $30 Wyze Watch Today? Head to Micro Center](https://www.reviewgeek.com/77309/want-a-30-wyze-watch-today-head-to-micro-center/)
-* [Watch a Monkey Play Pong with a Neuralink Brain Implant](https://www.reviewgeek.com/77311/watch-a-monkey-play-pong-with-a-neuralink-brain-implant/)
-* [[Update: Nope!] Google's Pixel 5a Phone May Be Canceled](https://www.reviewgeek.com/77297/rumor-googles-pixel-5a-phone-may-be-canceled/)
-* [Samsung Thinks You'll Switch to Android After an "iTest Drive"](https://www.reviewgeek.com/77272/samsung-thinks-youll-switch-to-android-after-an-itest-drive/)
-* [Future Sony Movies Will Stream Exclusively on Netflix](https://www.reviewgeek.com/77257/future-sony-movies-will-stream-exclusively-on-netflix/)
-* [How to Turn off 5G on Android (to Save Battery Life)](https://www.howtogeek.com/722503/how-to-turn-off-5g-on-android-to-save-battery-life/)
-* [How to Crop a Picture in Microsoft OneNote](https://www.howtogeek.com/719950/how-to-crop-a-picture-in-microsoft-onenote/)
-* [PSA: You Can Still Download the Old Free Version of SketchUp](https://www.howtogeek.com/720402/psa-you-can-still-download-the-old-free-version-of-sketchup/)
-* [How to Drop a Pin in Google Maps on Your Computer or Phone](https://www.howtogeek.com/717738/how-to-drop-a-pin-in-google-maps-from-your-computer-or-smartphone/)
+* [Hasbro's New $700 Optimus Prime Transforms All By Himself](https://www.reviewgeek.com/77405/hasbros-new-700-optimus-prime-transforms-all-by-himself/)
+* [How to Hide Telegram Chats from the iPhone Share Sheet](https://www.howtogeek.com/717910/how-to-hide-telegram-chats-from-the-iphone-share-sheet/)
+* [Apple's "Find My" Service Now Tracks VanMoof Electric Bikes](https://www.reviewgeek.com/77360/apples-find-my-service-now-tracks-vanmoof-electric-bikes/)
+* [How to Disable Notifications for the Shortcuts App on iPhone](https://www.howtogeek.com/722717/how-to-disable-notifications-for-the-shortcuts-app-on-iphone/)
+* [A Rare Vintage Superman Comic Book Just Sold for $3.25 Million](https://www.reviewgeek.com/77343/a-rare-vintage-superman-comic-book-just-sold-for-3-25-million/)
+* [How to Change the Spellchecking Language in Outlook Online](https://www.howtogeek.com/717304/how-to-change-the-spellchecking-language-in-outlook-online/)
+* [How to Delete Your Roblox Account](https://www.howtogeek.com/721219/how-to-delete-your-roblox-account/)
+* [How to Change a Website’s Text Size in Safari for iPhone and iPad](https://www.howtogeek.com/719419/how-to-change-a-websites-text-size-in-safari-for-iphone-and-ipad/)
+* [DoNotPay's Robot Lawyer Can Track Your Stocks Now, Too](https://www.reviewgeek.com/77371/donotpays-robot-lawyer-can-track-your-stocks-now-too/)
+* [How to Restore Your Default Fonts on a Mac](https://www.howtogeek.com/716269/how-to-restore-your-default-fonts-on-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Peter Thiel-Backed Psychedelics Firm Buys Majority of Brain Interface Firm](https://gizmodo.com/peter-thiel-backed-psychedelics-firm-buys-majority-of-b-1846654014)
-- [Why NFS servers generally have a 'reply cache'](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSServerReplyCacheWhy)
-- [Eruption of La Soufrière volcano in St. Vincent forces thousands from their home](https://www.cbc.ca/news/world/eruption-of-la-soufri%C3%A8re-volcano-in-st-vincent-forces-thousands-from-their-homes-1.5981315)
-- [Gain of Function Research](https://en.wikipedia.org/wiki/Gain_of_function_research)
-- [Cursed_things](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf5bWzS8MI1aUEtSp6h-GitucJh8ndOSYFKSLkeMxoy14pjoA/formResponse)
-- [First clinical trial confirms HIV vaccine using Moderna inoculation](https://www.iavi.org/news-resources/press-releases/2021/first-in-human-clinical-trial-confirms-novel-hiv-vaccine-approach-developed-by-iavi-and-scripps-research)
-- [WWDC 2000 Session 106 – Mac OS X: Kernel [video]](https://www.youtube.com/watch?v=ggnFoDqzGMU)
-- [Alibaba fined $2.8Bn USD for forcing platform exclusivity](https://twitter.com/qingqingparis/status/1380689001992974336)
-- [Investors put more money into stocks in last 5 months than previous 12 years](https://www.cnbc.com/2021/04/09/investors-have-put-more-money-into-stocks-in-the-last-5-months-than-the-previous-12-years-combined.html)
-- [Theo Engel's Minicomputer Website](https://www.theoengel.nl/)
+- [Turn the Lights Out. Here Come the Birds](https://www.nytimes.com/2021/04/10/us/bird-migration-lights-out.html)
+- [What science fiction can do](https://mitpress.mit.edu/blog/what-science-fiction-can-do)
+- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
+- [Logitech discontinues Harmony universal remotes](https://www.theverge.com/2021/4/10/22377015/logitech-discontinues-harmony-universal-remotes)
+- [MVP](https://news.ycombinator.com/item?id=26766965)
+- [Militarization of Police](https://en.wikipedia.org/wiki/Militarization_of_police)
+- [Do you need a 12MP photo of a goat?](https://bigballi.com/blog/mac-batch-image-resize)
+- [How do marketing companies like this (Bridge Corp)get their data?](https://www.thebridgecorp.com/)
+- [Online Scammers Have a New Offer for You: Vaccine Cards](https://www.nytimes.com/2021/04/08/technology/vaccine-card-scam.html)
+- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Northern Ireland police say paramilitaries not behind recent violence](https://www.theguardian.com/uk-news/2021/apr/09/northern-ireland-police-say-paramilitaries-not-behind-recent-violence)
-- [Justin Rose holds on to Masters lead but has Jordan Spieth in rearview mirror](https://www.theguardian.com/sport/2021/apr/10/justin-rose-holds-on-to-masters-lead-but-has-jordan-spieth-in-rearview-mirror)
-- [UK consumers need clear idea of cost of EU purchases, Which? says](https://www.theguardian.com/money/2021/apr/10/uk-consumer-need-clear-idea-cost-eu-purchase-vat-import-duties-which-says)
-- [A&E ‘swamped’ with patients seeking help for mild Covid jab side-effects](https://www.theguardian.com/society/2021/apr/09/ae-swamped-with-patients-seeking-help-for-mild-covid-jab-side-effects)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/09/20-photographs-of-the-week)
-- [Derek Chauvin trial: medical examiner stops short of backing fellow experts’ testimony](https://www.theguardian.com/us-news/2021/apr/09/derek-chauvin-trial-george-floyd-cause-of-death)
-- [José Mourinho at odds with Ole Gunnar Solskjær over egos and trophies](https://www.theguardian.com/football/2021/apr/09/jose-mourinho-ole-gunnar-solskjaer-egos-trophies-manchester-united-tottenham)
-- [England Women’s defence exposed in friendly defeat by France](https://www.theguardian.com/football/2021/apr/09/france-england-womens-international-friendly-match-report)
-- [Adama Traoré’s late Wolves winner leaves Fulham in big relegation trouble](https://www.theguardian.com/football/2021/apr/09/fulham-wolves-premier-league-match-report)
-- [Former Portuguese prime minister Sócrates to stand trial for money laundering](https://www.theguardian.com/world/2021/apr/09/former-portuguese-prime-minister-socrates-to-stand-trial-for-money-laundering)
+- [Man charged with murder of millionaire hotelier Sir Richard Sutton](https://www.theguardian.com/uk-news/2021/apr/11/man-charged-with-of-millionaire-hotelier-sir-richard-sutton)
+- [Indonesia earthquake: at least seven dead on Java island](https://www.theguardian.com/world/2021/apr/11/indonesia-earthquake-at-least-seven-dead-on-java-island)
+- [Hideki Matsuyama surges to four-shot lead in weather-hit Masters](https://www.theguardian.com/sport/2021/apr/11/hideki-matsuyama-surges-to-four-shot-lead-in-weather-hit-masters)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get the hang of it: 10 of the best earrings - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/get-the-hang-of-it-10-of-the-best-earrings-in-pictures)
+- [Slip into spring: 5 ways to style slip dresses this season – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/slip-into-spring-5-ways-to-style-slip-dresses-this-season-in-pictures)
+- [Cameron ‘lobbied senior Downing St aide and Matt Hancock’ to help Greensill](https://www.theguardian.com/politics/2021/apr/10/revealed-david-cameron-stood-to-gain-from-218m-greensill-trust)
+- [Solskjær can take heart from Manchester United’s upward curve | Jamie Jackson](https://www.theguardian.com/football/2021/apr/10/cutting-manchester-united-best-post-alex-ferguson-also-ran-margin-can-boost-ole-gunnar-solskjaer)
+- [Nasa preparing to attempt first controlled flight on another world](https://www.theguardian.com/science/2021/apr/10/nasa-preparing-to-attempt-first-controlled-flight-on-another-world)
+- [Sports fixtures to be moved to avoid clashing with Prince Philip’s funeral](https://www.theguardian.com/football/2021/apr/10/sporting-bodies-fixtures-prince-philip-funeral)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
-- [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
-- [TheOldNet Browser Proxy](http://theoldnet.com/docs/httpproxy/index.html)
-- [Boeing Warns of Possible Electrical Issue on 737 Max Planes](https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974)
-- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
-- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
-- [Was the NE2000 really that bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
-- [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
-- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
-- [A look at LLVM: comparing clamp implementations](https://secret.club/2021/04/09/std-clamp.html)
+- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
+- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
+- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [Show HN: Remove background from image using machine learning](https://removebackground.app)
+- [Don’t hire top talent; hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
+- [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
+- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
+- [The Kitten Programming Language](http://kittenlang.org/)
+- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -416,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multi Tiered printer trays?](https://www.reddit.com/r/InformationTechnology/comments/mo5p11/multi_tiered_printer_trays/)
+- [Trying to stepup from simple processing system to a more advance system design.](https://www.reddit.com/r/InformationTechnology/comments/mo2ys1/trying_to_stepup_from_simple_processing_system_to/)
+- [VM question](https://www.reddit.com/r/InformationTechnology/comments/mo017k/vm_question/)
 - [Data Science or Computer Science for a career in Bioinfomatics](https://www.reddit.com/r/InformationTechnology/comments/mnj8q6/data_science_or_computer_science_for_a_career_in/)
 - [Beginner](https://www.reddit.com/r/InformationTechnology/comments/mneryv/beginner/)
 - [IT related fields that don't require education or certifications?](https://www.reddit.com/r/InformationTechnology/comments/mn6rfg/it_related_fields_that_dont_require_education_or/)
@@ -423,9 +416,6 @@
 - [Custom Subnet Mask/ IP address question](https://www.reddit.com/r/InformationTechnology/comments/mn3425/custom_subnet_mask_ip_address_question/)
 - [Unsure if I should take this internship opportunity? Social Media Specialist / Web maintenance as MIS major](https://www.reddit.com/r/InformationTechnology/comments/mmyvii/unsure_if_i_should_take_this_internship/)
 - [Application analysts](https://www.reddit.com/r/InformationTechnology/comments/mmuqwn/application_analysts/)
-- [If you found out that one of your email addresses was affected by the recent Facebook data leak what would be the steps you take to save your email address and any account linked to it?](https://www.reddit.com/r/InformationTechnology/comments/mmk2fi/if_you_found_out_that_one_of_your_email_addresses/)
-- [Logistics Analyst or Systems Specialist??](https://www.reddit.com/r/InformationTechnology/comments/mmcab7/logistics_analyst_or_systems_specialist/)
-- [Thoughts on working as a personal IT?](https://www.reddit.com/r/InformationTechnology/comments/mma69z/thoughts_on_working_as_a_personal_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

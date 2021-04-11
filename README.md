@@ -296,16 +296,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Is Testing Automatic Call Recording for Unknown Phone Numbers](https://www.reviewgeek.com/77307/google-is-testing-automatic-call-recording-for-unknown-phone-numbers/)
-* [Want a $30 Wyze Watch Today? Head to Micro Center](https://www.reviewgeek.com/77309/want-a-30-wyze-watch-today-head-to-micro-center/)
-* [Watch a Monkey Play Pong with a Neuralink Brain Implant](https://www.reviewgeek.com/77311/watch-a-monkey-play-pong-with-a-neuralink-brain-implant/)
-* [[Update: Nope!] Google's Pixel 5a Phone May Be Canceled](https://www.reviewgeek.com/77297/rumor-googles-pixel-5a-phone-may-be-canceled/)
-* [Samsung Thinks You'll Switch to Android After an "iTest Drive"](https://www.reviewgeek.com/77272/samsung-thinks-youll-switch-to-android-after-an-itest-drive/)
-* [Future Sony Movies Will Stream Exclusively on Netflix](https://www.reviewgeek.com/77257/future-sony-movies-will-stream-exclusively-on-netflix/)
-* [How to Turn off 5G on Android (to Save Battery Life)](https://www.howtogeek.com/722503/how-to-turn-off-5g-on-android-to-save-battery-life/)
-* [How to Crop a Picture in Microsoft OneNote](https://www.howtogeek.com/719950/how-to-crop-a-picture-in-microsoft-onenote/)
-* [PSA: You Can Still Download the Old Free Version of SketchUp](https://www.howtogeek.com/720402/psa-you-can-still-download-the-old-free-version-of-sketchup/)
-* [How to Drop a Pin in Google Maps on Your Computer or Phone](https://www.howtogeek.com/717738/how-to-drop-a-pin-in-google-maps-from-your-computer-or-smartphone/)
+* [Hasbro's New $700 Optimus Prime Transforms All By Himself](https://www.reviewgeek.com/77405/hasbros-new-700-optimus-prime-transforms-all-by-himself/)
+* [How to Hide Telegram Chats from the iPhone Share Sheet](https://www.howtogeek.com/717910/how-to-hide-telegram-chats-from-the-iphone-share-sheet/)
+* [Apple's "Find My" Service Now Tracks VanMoof Electric Bikes](https://www.reviewgeek.com/77360/apples-find-my-service-now-tracks-vanmoof-electric-bikes/)
+* [How to Disable Notifications for the Shortcuts App on iPhone](https://www.howtogeek.com/722717/how-to-disable-notifications-for-the-shortcuts-app-on-iphone/)
+* [A Rare Vintage Superman Comic Book Just Sold for $3.25 Million](https://www.reviewgeek.com/77343/a-rare-vintage-superman-comic-book-just-sold-for-3-25-million/)
+* [How to Change the Spellchecking Language in Outlook Online](https://www.howtogeek.com/717304/how-to-change-the-spellchecking-language-in-outlook-online/)
+* [How to Delete Your Roblox Account](https://www.howtogeek.com/721219/how-to-delete-your-roblox-account/)
+* [How to Change a Website’s Text Size in Safari for iPhone and iPad](https://www.howtogeek.com/719419/how-to-change-a-websites-text-size-in-safari-for-iphone-and-ipad/)
+* [DoNotPay's Robot Lawyer Can Track Your Stocks Now, Too](https://www.reviewgeek.com/77371/donotpays-robot-lawyer-can-track-your-stocks-now-too/)
+* [How to Restore Your Default Fonts on a Mac](https://www.howtogeek.com/716269/how-to-restore-your-default-fonts-on-a-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

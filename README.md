@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/A_man_is_as_old_as_he_feels_and_a_woman_as_old_as_she_looks_1288.php" target="_blank"><i>A man is as old as he feels, and a woman as old as she looks</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Better_safe_than_sorry_855.php" target="_blank"><i>Better safe than sorry</i></a>
 <span> = </span>
-<span>This somewhat sexist saying suggests that men age better than women.</span>
+<span>We should be careful in a dangerous situation. It is better to stay safe than to have an accident (and be sorry about it). The full "grammatical" sentence would be: "It is better to be safe than to be sorry."</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

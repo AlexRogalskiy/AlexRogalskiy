@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/American/at_loose_ends_387.php" target="_blank"><i>at loose ends</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/around_the_clock_266.php" target="_blank"><i>around the clock</i></a>
 <span> = </span>
-<span>If you're at loose ends, you feel restless and unsettled because you don't have anything to do.</span>
+<span>If something occurs around the clock, it goes on all day and all night.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

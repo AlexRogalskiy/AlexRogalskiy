@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Better_safe_than_sorry_855.php" target="_blank"><i>Better safe than sorry</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
 <span> = </span>
-<span>We should be careful in a dangerous situation. It is better to stay safe than to have an accident (and be sorry about it). The full "grammatical" sentence would be: "It is better to be safe than to be sorry."</span>
+<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Turn the Lights Out. Here Come the Birds](https://www.nytimes.com/2021/04/10/us/bird-migration-lights-out.html)
-- [What science fiction can do](https://mitpress.mit.edu/blog/what-science-fiction-can-do)
-- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
-- [Logitech discontinues Harmony universal remotes](https://www.theverge.com/2021/4/10/22377015/logitech-discontinues-harmony-universal-remotes)
-- [MVP](https://news.ycombinator.com/item?id=26766965)
-- [Militarization of Police](https://en.wikipedia.org/wiki/Militarization_of_police)
-- [Do you need a 12MP photo of a goat?](https://bigballi.com/blog/mac-batch-image-resize)
-- [How do marketing companies like this (Bridge Corp)get their data?](https://www.thebridgecorp.com/)
-- [Online Scammers Have a New Offer for You: Vaccine Cards](https://www.nytimes.com/2021/04/08/technology/vaccine-card-scam.html)
-- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
+- [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
+- [Programming Language with Only One Command and the Operating System Built on It](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
+- [The SVCB and HTTPS RRs [pdf]](https://www.ripe.net/participate/ripe/wg/active-wg/dns/remote-sessions/presentations/svcb_https_-ripe-2020.pdf)
+- [In First, Chinese Navy Harasses Boat Carrying Filipino Journalists](https://thediplomat.com/2021/04/chinese-navy-harasses-boat-carrying-filipino-journalists-report/)
+- [When Will Electric Cars Take Over?](https://www.nytimes.com/interactive/2021/03/10/climate/electric-vehicle-fleet-turnover.html)
+- [Does the Universe Have Higher Dimensions? Part 1](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html)
+- [Electric Aircraft Startup Accuses Rival of Stealing Its Secrets](https://www.nytimes.com/2021/04/06/business/wisk-archer-lawsuit.html)
+- [A new documentary highlights Gerry O'Neill, visionary behind space settlement](https://arstechnica.com/science/2021/04/a-new-documentary-highlights-the-visionary-behind-space-settlement/)
+- [Giving my book on writing beautiful Python for free to celebrate its alpha v](https://news.ycombinator.com/item?id=26775400)
+- [Sugar Policy, Health Care, and the Law (2013)](https://www.c-span.org/video/?314740-1/sugar-policy-health-care-law#)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

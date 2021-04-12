@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questions about Cloud Computing](https://www.reddit.com/r/InformationTechnology/comments/mp4l4s/questions_about_cloud_computing/)
+- [Healthcare IT](https://www.reddit.com/r/InformationTechnology/comments/mp4dkd/healthcare_it/)
+- [How to build technical backgroud?](https://www.reddit.com/r/InformationTechnology/comments/moy96l/how_to_build_technical_backgroud/)
+- [Student in Need of Answers from IT Professionals or People Who have Witnessed Significant Technological Change in their Workplace! (can be anonymous)](https://www.reddit.com/r/InformationTechnology/comments/mosat6/student_in_need_of_answers_from_it_professionals/)
+- [Record audio from laptop - question](https://www.reddit.com/r/InformationTechnology/comments/mojcwh/record_audio_from_laptop_question/)
 - [Multi Tiered printer trays?](https://www.reddit.com/r/InformationTechnology/comments/mo5p11/multi_tiered_printer_trays/)
 - [Trying to stepup from simple processing system to a more advance system design.](https://www.reddit.com/r/InformationTechnology/comments/mo2ys1/trying_to_stepup_from_simple_processing_system_to/)
 - [VM question](https://www.reddit.com/r/InformationTechnology/comments/mo017k/vm_question/)
 - [Data Science or Computer Science for a career in Bioinfomatics](https://www.reddit.com/r/InformationTechnology/comments/mnj8q6/data_science_or_computer_science_for_a_career_in/)
 - [Beginner](https://www.reddit.com/r/InformationTechnology/comments/mneryv/beginner/)
-- [IT related fields that don't require education or certifications?](https://www.reddit.com/r/InformationTechnology/comments/mn6rfg/it_related_fields_that_dont_require_education_or/)
-- [For any IT who got time for some basic questions, I need your help](https://www.reddit.com/r/InformationTechnology/comments/mn5x4x/for_any_it_who_got_time_for_some_basic_questions/)
-- [Custom Subnet Mask/ IP address question](https://www.reddit.com/r/InformationTechnology/comments/mn3425/custom_subnet_mask_ip_address_question/)
-- [Unsure if I should take this internship opportunity? Social Media Specialist / Web maintenance as MIS major](https://www.reddit.com/r/InformationTechnology/comments/mmyvii/unsure_if_i_should_take_this_internship/)
-- [Application analysts](https://www.reddit.com/r/InformationTechnology/comments/mmuqwn/application_analysts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

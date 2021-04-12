@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_2/write_up_2185.php" target="_blank"><i>write up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/let/let_out_2__2370.php" target="_blank"><i>let out (2)</i></a>
 <span> = </span>
-<span>to write a report or an article based on notes written earlier</span>
+<span>to make a particular sound or noise</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

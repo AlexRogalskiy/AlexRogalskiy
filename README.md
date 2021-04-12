@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hasbro's New $700 Optimus Prime Transforms All By Himself](https://www.reviewgeek.com/77405/hasbros-new-700-optimus-prime-transforms-all-by-himself/)
-* [How to Hide Telegram Chats from the iPhone Share Sheet](https://www.howtogeek.com/717910/how-to-hide-telegram-chats-from-the-iphone-share-sheet/)
-* [Apple's "Find My" Service Now Tracks VanMoof Electric Bikes](https://www.reviewgeek.com/77360/apples-find-my-service-now-tracks-vanmoof-electric-bikes/)
-* [How to Disable Notifications for the Shortcuts App on iPhone](https://www.howtogeek.com/722717/how-to-disable-notifications-for-the-shortcuts-app-on-iphone/)
-* [A Rare Vintage Superman Comic Book Just Sold for $3.25 Million](https://www.reviewgeek.com/77343/a-rare-vintage-superman-comic-book-just-sold-for-3-25-million/)
-* [How to Change the Spellchecking Language in Outlook Online](https://www.howtogeek.com/717304/how-to-change-the-spellchecking-language-in-outlook-online/)
-* [How to Delete Your Roblox Account](https://www.howtogeek.com/721219/how-to-delete-your-roblox-account/)
-* [How to Change a Website’s Text Size in Safari for iPhone and iPad](https://www.howtogeek.com/719419/how-to-change-a-websites-text-size-in-safari-for-iphone-and-ipad/)
-* [DoNotPay's Robot Lawyer Can Track Your Stocks Now, Too](https://www.reviewgeek.com/77371/donotpays-robot-lawyer-can-track-your-stocks-now-too/)
-* [How to Restore Your Default Fonts on a Mac](https://www.howtogeek.com/716269/how-to-restore-your-default-fonts-on-a-mac/)
+* [Oh Snap: Marvel's Avengers Campus Opens June 4th at Disney California Adventure](https://www.reviewgeek.com/77392/oh-snap-marvels-avengers-campus-opens-june-4th-at-disney-california-adventure/)
+* [How to Change Your Steam Profile Picture](https://www.howtogeek.com/720191/how-to-change-your-steam-profile-picture/)
+* [How to Enable Dark Mode in Microsoft Teams](https://www.howtogeek.com/719649/how-to-enable-dark-mode-in-microsoft-teams/)
+* [Google's New AR Toy Is a Portal to the Other Side of the World](https://www.reviewgeek.com/77411/googles-new-ar-toy-is-a-portal-to-the-other-side-of-the-world/)
+* [How to Change Your Name on Roblox](https://www.howtogeek.com/721188/how-to-change-your-name-on-roblox/)
+* [How to Change the Tracking Speed for a Trackpad or Mouse on Mac](https://www.howtogeek.com/720182/how-to-change-the-tracking-speed-for-a-trackpad-or-mouse-on-mac/)
+* [MLB.TV's 'Big Inning' Shows You the Ten Minutes of Baseball That Matter](https://www.reviewgeek.com/77373/mlb-tvs-big-inning-shows-you-the-ten-minutes-of-baseball-that-matter/)
+* [How to Quickly Unfollow News Channels on Nintendo Switch](https://www.howtogeek.com/717548/how-to-quickly-unfollow-news-channels-on-nintendo-switch/)
+* [What Is 1Password’s Travel Mode, and How Do You Set It Up?](https://www.howtogeek.com/718995/what-is-1passwords-travel-mode-and-how-do-you-set-it-up/)
+* [The 11 Best Apps to Help You Get Stuff Done This Spring](https://www.reviewgeek.com/76683/the-11-best-apps-to-help-you-get-stuff-done-this-spring/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

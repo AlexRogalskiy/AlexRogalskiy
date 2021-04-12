@@ -241,8 +241,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648101381009539072" target="_blank"><i>Getting the Laundry</i></a></summary>
-<p>by Warren Woessner</p><p>Rest has come again. The cars<br/>push their echoes, reading the road like braille.<br/>The tired squeek of a single tricycle rolls home.<br/>I look up to see a half-moon not quite included<br/>by the Power Co-op/Truck Service signs.<br/>It has time yet to land safely in the dark.<br/>The last patch of dirt in front of the new GTC<br/>has hardened into asphalt.<br/>Again, there is time.<br/>I find myself folding the laundry<br/>more slowly than I could. It is a simple thing to do.<br/>A thing missed, like picking fruit<br/>or sanding wood. Also the warmth.<br/>Clothes have the patience of old friends:<br/>with open doors, always on my side.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/648191987174014976" target="_blank"><i>Everything We Do</i></a></summary>
+<p>by Peter Meinke</p><p>Everything we do is for our first loves<br/>whom we have lost irrevocably<br/>who have married insurance salesmen<br/>and moved to Topeka<br/>and never think of us at all.<br/><br/>We fly planes &amp; design buildings<br/>and write poems<br/>that all say Sally I love you<br/>I’ll never love anyone else<br/>Why didn’t you know I was going to be a poet?<br/><br/>The walks to school, the kisses in the snow<br/>gather as we dream backwards, sweetness with age:<br/>our legs are young again, our voices<br/>strong and happy, we’re not afraid.<br/>We don’t know enough to be afraid.<br/><br/>And now<br/>we hold (hidden, hopeless) the hope<br/>that some day<br/>she may fly in our plane<br/>enter our building read our poem<br/><br/>And that night, deep in her dream,<br/>Sally, far in darkness, in Topeka,<br/>with the salesman lying beside her,<br/>will cry out<br/>our unfamiliar name.
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

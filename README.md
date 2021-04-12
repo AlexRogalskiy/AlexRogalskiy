@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;74&#x2F;28&#x2F;e3&#x2F;7428e37e1ee999e18f52bc035a65869d.jpg" alt="Calling all animal lovers. Vibrissa is the Word of the Day.⁠ Learn more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;74&#x2F;28&#x2F;e3&#x2F;7428e37e1ee999e18f52bc035a65869d.jpg" alt="Calling all animal lovers. Vibrissa is the Word of the Day.⁠ Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;da&#x2F;76&#x2F;5ada76a3d91ba8f9281bc40f4f8f5a15.jpg" alt="The putative #WordOfTheDay is, well, putative. ⁠ See where it comes from at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5e&#x2F;72&#x2F;3d&#x2F;5e723dcd8525c3516923b444ec463b60.jpg" alt="We aren&#39;t trying to be greedy, but cupidity is the Word of the Day. Want more? Click through for example sentences, word origin, and more! " />
@@ -274,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>19°C (<i>clear sky</i>), humidity: 24%, pressure: 1023 (mbar), wind: /south/ 7 (m/s), cloudy: 0%</b>
+        <b>19°C (<i>clear sky</i>), humidity: 26%, pressure: 1021 (mbar), wind: /south/ 5 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:51 am</b> and sets at <b>20:07 pm</b>.
     </p>

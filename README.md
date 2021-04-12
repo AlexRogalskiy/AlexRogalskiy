@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
-- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
-- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Show HN: Remove background from image using machine learning](https://removebackground.app)
-- [Don’t hire top talent; hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
-- [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
-- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
-- [The Kitten Programming Language](http://kittenlang.org/)
-- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
+- [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
+- [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
+- [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
+- [Walletmor Payment Implant](https://walletmor.com/)
+- [Linux, macOS, and Windows running simultaneously on a first gen Core i5](https://lukesempire.com/2021/04/11/vms)
+- [Show HN: An encoding of the UK's self-isolation rules in Prolog](https://github.com/jamespwilliams/prolog-isolation-checker)
+- [Problems with JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
+- [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+- [The Nuclear Lightbulb (2020)](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
+- [Using brain interfaces to learn about learning](https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

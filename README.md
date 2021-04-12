@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man charged with murder of millionaire hotelier Sir Richard Sutton](https://www.theguardian.com/uk-news/2021/apr/11/man-charged-with-of-millionaire-hotelier-sir-richard-sutton)
-- [Indonesia earthquake: at least seven dead on Java island](https://www.theguardian.com/world/2021/apr/11/indonesia-earthquake-at-least-seven-dead-on-java-island)
-- [Hideki Matsuyama surges to four-shot lead in weather-hit Masters](https://www.theguardian.com/sport/2021/apr/11/hideki-matsuyama-surges-to-four-shot-lead-in-weather-hit-masters)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get the hang of it: 10 of the best earrings - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/get-the-hang-of-it-10-of-the-best-earrings-in-pictures)
-- [Slip into spring: 5 ways to style slip dresses this season – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/slip-into-spring-5-ways-to-style-slip-dresses-this-season-in-pictures)
-- [Cameron ‘lobbied senior Downing St aide and Matt Hancock’ to help Greensill](https://www.theguardian.com/politics/2021/apr/10/revealed-david-cameron-stood-to-gain-from-218m-greensill-trust)
-- [Solskjær can take heart from Manchester United’s upward curve | Jamie Jackson](https://www.theguardian.com/football/2021/apr/10/cutting-manchester-united-best-post-alex-ferguson-also-ran-margin-can-boost-ole-gunnar-solskjaer)
-- [Nasa preparing to attempt first controlled flight on another world](https://www.theguardian.com/science/2021/apr/10/nasa-preparing-to-attempt-first-controlled-flight-on-another-world)
-- [Sports fixtures to be moved to avoid clashing with Prince Philip’s funeral](https://www.theguardian.com/football/2021/apr/10/sporting-bodies-fixtures-prince-philip-funeral)
+- [Remembering the Brixton riots 40 years on – podcast](https://www.theguardian.com/news/audio/2021/apr/12/remembering-brixton-riots-40-years-on-today-in-focus-podcast)
+- [Ardern tells New Zealand border staff: get Covid vaccine now or be redeployed](https://www.theguardian.com/world/2021/apr/12/ardern-new-zealand-border-staff-covid-vaccine)
+- [Police warn of ‘whole-out war’ as tribal violence in Papua New Guinea kills 19](https://www.theguardian.com/world/2021/apr/12/police-warn-of-whole-out-war-as-tribal-violence-in-papua-new-guinea-kills-19)
+- [China launches hotline to report ‘illegal’ comments about Communist party](https://www.theguardian.com/world/2021/apr/12/china-launches-hotline-to-report-comments-about-communist-party)
+- [Hideki Matsuyama holds nerve to become Masters champion](https://www.theguardian.com/sport/2021/apr/12/hideki-matsuyama-holds-nerve-to-become-masters-champion)
+- [Optimism among UK business leaders hits record high](https://www.theguardian.com/business/2021/apr/12/optimism-business-uk-leaders-record-high-bounceback)
+- [London’s ‘super-prime’ luxury property market was world leader in 2020](https://www.theguardian.com/business/2021/apr/12/londons-super-prime-luxury-property-market-was-world-leader-in-2020)
+- [Miss Julie review – Strindberg spiked with the politics of empire](https://www.theguardian.com/stage/2021/apr/12/miss-julie-review-strindberg-spiked-with-the-politics-of-empire)
+- [Cyclone Seroja weakens after wreaking havoc along Western Australia coast](https://www.theguardian.com/australia-news/2021/apr/12/cyclone-seroja-leaves-trail-of-damage-and-homes-without-power-in-western-australia)
+- [Back to black (and white): Baftas style sticks to dressing-up classics](https://www.theguardian.com/fashion/2021/apr/11/back-to-black-and-white-baftas-style-sticks-to-dressing-up-classics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

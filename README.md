@@ -274,7 +274,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>5°C (<i>light rain</i>), humidity: 60%, pressure: 1027 (mbar), wind: /west/ 4 (m/s), cloudy: 40%</b>
+        <b>6°C (<i>light rain</i>), humidity: 65%, pressure: 1026 (mbar), wind: /west/ 5 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:51 am</b> and sets at <b>20:07 pm</b>.
     </p>
@@ -287,61 +287,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hasbro's New $700 Optimus Prime Transforms All By Himself](https://www.reviewgeek.com/77405/hasbros-new-700-optimus-prime-transforms-all-by-himself/)
-* [How to Hide Telegram Chats from the iPhone Share Sheet](https://www.howtogeek.com/717910/how-to-hide-telegram-chats-from-the-iphone-share-sheet/)
-* [Apple's "Find My" Service Now Tracks VanMoof Electric Bikes](https://www.reviewgeek.com/77360/apples-find-my-service-now-tracks-vanmoof-electric-bikes/)
-* [How to Disable Notifications for the Shortcuts App on iPhone](https://www.howtogeek.com/722717/how-to-disable-notifications-for-the-shortcuts-app-on-iphone/)
-* [A Rare Vintage Superman Comic Book Just Sold for $3.25 Million](https://www.reviewgeek.com/77343/a-rare-vintage-superman-comic-book-just-sold-for-3-25-million/)
-* [How to Change the Spellchecking Language in Outlook Online](https://www.howtogeek.com/717304/how-to-change-the-spellchecking-language-in-outlook-online/)
-* [How to Delete Your Roblox Account](https://www.howtogeek.com/721219/how-to-delete-your-roblox-account/)
-* [How to Change a Website’s Text Size in Safari for iPhone and iPad](https://www.howtogeek.com/719419/how-to-change-a-websites-text-size-in-safari-for-iphone-and-ipad/)
-* [DoNotPay's Robot Lawyer Can Track Your Stocks Now, Too](https://www.reviewgeek.com/77371/donotpays-robot-lawyer-can-track-your-stocks-now-too/)
-* [How to Restore Your Default Fonts on a Mac](https://www.howtogeek.com/716269/how-to-restore-your-default-fonts-on-a-mac/)
+* [Oh Snap: Marvel's Avengers Campus Opens June 4th at Disney California Adventure](https://www.reviewgeek.com/77392/oh-snap-marvels-avengers-campus-opens-june-4th-at-disney-california-adventure/)
+* [How to Change Your Steam Profile Picture](https://www.howtogeek.com/720191/how-to-change-your-steam-profile-picture/)
+* [How to Enable Dark Mode in Microsoft Teams](https://www.howtogeek.com/719649/how-to-enable-dark-mode-in-microsoft-teams/)
+* [Google's New AR Toy Is a Portal to the Other Side of the World](https://www.reviewgeek.com/77411/googles-new-ar-toy-is-a-portal-to-the-other-side-of-the-world/)
+* [How to Change Your Name on Roblox](https://www.howtogeek.com/721188/how-to-change-your-name-on-roblox/)
+* [How to Change the Tracking Speed for a Trackpad or Mouse on Mac](https://www.howtogeek.com/720182/how-to-change-the-tracking-speed-for-a-trackpad-or-mouse-on-mac/)
+* [MLB.TV's 'Big Inning' Shows You the Ten Minutes of Baseball That Matter](https://www.reviewgeek.com/77373/mlb-tvs-big-inning-shows-you-the-ten-minutes-of-baseball-that-matter/)
+* [How to Quickly Unfollow News Channels on Nintendo Switch](https://www.howtogeek.com/717548/how-to-quickly-unfollow-news-channels-on-nintendo-switch/)
+* [What Is 1Password’s Travel Mode, and How Do You Set It Up?](https://www.howtogeek.com/718995/what-is-1passwords-travel-mode-and-how-do-you-set-it-up/)
+* [The 11 Best Apps to Help You Get Stuff Done This Spring](https://www.reviewgeek.com/76683/the-11-best-apps-to-help-you-get-stuff-done-this-spring/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Turn the Lights Out. Here Come the Birds](https://www.nytimes.com/2021/04/10/us/bird-migration-lights-out.html)
-- [What science fiction can do](https://mitpress.mit.edu/blog/what-science-fiction-can-do)
-- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
-- [Logitech discontinues Harmony universal remotes](https://www.theverge.com/2021/4/10/22377015/logitech-discontinues-harmony-universal-remotes)
-- [MVP](https://news.ycombinator.com/item?id=26766965)
-- [Militarization of Police](https://en.wikipedia.org/wiki/Militarization_of_police)
-- [Do you need a 12MP photo of a goat?](https://bigballi.com/blog/mac-batch-image-resize)
-- [How do marketing companies like this (Bridge Corp)get their data?](https://www.thebridgecorp.com/)
-- [Online Scammers Have a New Offer for You: Vaccine Cards](https://www.nytimes.com/2021/04/08/technology/vaccine-card-scam.html)
-- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
+- [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
+- [Programming Language with Only One Command and the Operating System Built on It](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
+- [The SVCB and HTTPS RRs [pdf]](https://www.ripe.net/participate/ripe/wg/active-wg/dns/remote-sessions/presentations/svcb_https_-ripe-2020.pdf)
+- [In First, Chinese Navy Harasses Boat Carrying Filipino Journalists](https://thediplomat.com/2021/04/chinese-navy-harasses-boat-carrying-filipino-journalists-report/)
+- [When Will Electric Cars Take Over?](https://www.nytimes.com/interactive/2021/03/10/climate/electric-vehicle-fleet-turnover.html)
+- [Does the Universe Have Higher Dimensions? Part 1](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html)
+- [Electric Aircraft Startup Accuses Rival of Stealing Its Secrets](https://www.nytimes.com/2021/04/06/business/wisk-archer-lawsuit.html)
+- [A new documentary highlights Gerry O'Neill, visionary behind space settlement](https://arstechnica.com/science/2021/04/a-new-documentary-highlights-the-visionary-behind-space-settlement/)
+- [Giving my book on writing beautiful Python for free to celebrate its alpha v](https://news.ycombinator.com/item?id=26775400)
+- [Sugar Policy, Health Care, and the Law (2013)](https://www.c-span.org/video/?314740-1/sugar-policy-health-care-law#)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man charged with murder of millionaire hotelier Sir Richard Sutton](https://www.theguardian.com/uk-news/2021/apr/11/man-charged-with-of-millionaire-hotelier-sir-richard-sutton)
-- [Indonesia earthquake: at least seven dead on Java island](https://www.theguardian.com/world/2021/apr/11/indonesia-earthquake-at-least-seven-dead-on-java-island)
-- [Hideki Matsuyama surges to four-shot lead in weather-hit Masters](https://www.theguardian.com/sport/2021/apr/11/hideki-matsuyama-surges-to-four-shot-lead-in-weather-hit-masters)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get the hang of it: 10 of the best earrings - in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/get-the-hang-of-it-10-of-the-best-earrings-in-pictures)
-- [Slip into spring: 5 ways to style slip dresses this season – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/10/slip-into-spring-5-ways-to-style-slip-dresses-this-season-in-pictures)
-- [Cameron ‘lobbied senior Downing St aide and Matt Hancock’ to help Greensill](https://www.theguardian.com/politics/2021/apr/10/revealed-david-cameron-stood-to-gain-from-218m-greensill-trust)
-- [Solskjær can take heart from Manchester United’s upward curve | Jamie Jackson](https://www.theguardian.com/football/2021/apr/10/cutting-manchester-united-best-post-alex-ferguson-also-ran-margin-can-boost-ole-gunnar-solskjaer)
-- [Nasa preparing to attempt first controlled flight on another world](https://www.theguardian.com/science/2021/apr/10/nasa-preparing-to-attempt-first-controlled-flight-on-another-world)
-- [Sports fixtures to be moved to avoid clashing with Prince Philip’s funeral](https://www.theguardian.com/football/2021/apr/10/sporting-bodies-fixtures-prince-philip-funeral)
+- [Remembering the Brixton riots 40 years on – podcast](https://www.theguardian.com/news/audio/2021/apr/12/remembering-brixton-riots-40-years-on-today-in-focus-podcast)
+- [Ardern tells New Zealand border staff: get Covid vaccine now or be redeployed](https://www.theguardian.com/world/2021/apr/12/ardern-new-zealand-border-staff-covid-vaccine)
+- [Police warn of ‘whole-out war’ as tribal violence in Papua New Guinea kills 19](https://www.theguardian.com/world/2021/apr/12/police-warn-of-whole-out-war-as-tribal-violence-in-papua-new-guinea-kills-19)
+- [China launches hotline to report ‘illegal’ comments about Communist party](https://www.theguardian.com/world/2021/apr/12/china-launches-hotline-to-report-comments-about-communist-party)
+- [Hideki Matsuyama holds nerve to become Masters champion](https://www.theguardian.com/sport/2021/apr/12/hideki-matsuyama-holds-nerve-to-become-masters-champion)
+- [Optimism among UK business leaders hits record high](https://www.theguardian.com/business/2021/apr/12/optimism-business-uk-leaders-record-high-bounceback)
+- [London’s ‘super-prime’ luxury property market was world leader in 2020](https://www.theguardian.com/business/2021/apr/12/londons-super-prime-luxury-property-market-was-world-leader-in-2020)
+- [Miss Julie review – Strindberg spiked with the politics of empire](https://www.theguardian.com/stage/2021/apr/12/miss-julie-review-strindberg-spiked-with-the-politics-of-empire)
+- [Cyclone Seroja weakens after wreaking havoc along Western Australia coast](https://www.theguardian.com/australia-news/2021/apr/12/cyclone-seroja-leaves-trail-of-damage-and-homes-without-power-in-western-australia)
+- [Back to black (and white): Baftas style sticks to dressing-up classics](https://www.theguardian.com/fashion/2021/apr/11/back-to-black-and-white-baftas-style-sticks-to-dressing-up-classics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
-- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
-- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Show HN: Remove background from image using machine learning](https://removebackground.app)
-- [Don’t hire top talent; hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
-- [Downloading files from S3 with multithreading and Boto3](https://emasquil.github.io/posts/multithreading-boto3/)
-- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
-- [The Kitten Programming Language](http://kittenlang.org/)
-- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
+- [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
+- [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
+- [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
+- [Walletmor Payment Implant](https://walletmor.com/)
+- [Linux, macOS, and Windows running simultaneously on a first gen Core i5](https://lukesempire.com/2021/04/11/vms)
+- [Show HN: An encoding of the UK's self-isolation rules in Prolog](https://github.com/jamespwilliams/prolog-isolation-checker)
+- [Problems with JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
+- [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+- [The Nuclear Lightbulb (2020)](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
+- [Using brain interfaces to learn about learning](https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -407,16 +407,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questions about Cloud Computing](https://www.reddit.com/r/InformationTechnology/comments/mp4l4s/questions_about_cloud_computing/)
+- [Healthcare IT](https://www.reddit.com/r/InformationTechnology/comments/mp4dkd/healthcare_it/)
+- [How to build technical backgroud?](https://www.reddit.com/r/InformationTechnology/comments/moy96l/how_to_build_technical_backgroud/)
+- [Student in Need of Answers from IT Professionals or People Who have Witnessed Significant Technological Change in their Workplace! (can be anonymous)](https://www.reddit.com/r/InformationTechnology/comments/mosat6/student_in_need_of_answers_from_it_professionals/)
+- [Record audio from laptop - question](https://www.reddit.com/r/InformationTechnology/comments/mojcwh/record_audio_from_laptop_question/)
 - [Multi Tiered printer trays?](https://www.reddit.com/r/InformationTechnology/comments/mo5p11/multi_tiered_printer_trays/)
 - [Trying to stepup from simple processing system to a more advance system design.](https://www.reddit.com/r/InformationTechnology/comments/mo2ys1/trying_to_stepup_from_simple_processing_system_to/)
 - [VM question](https://www.reddit.com/r/InformationTechnology/comments/mo017k/vm_question/)
 - [Data Science or Computer Science for a career in Bioinfomatics](https://www.reddit.com/r/InformationTechnology/comments/mnj8q6/data_science_or_computer_science_for_a_career_in/)
 - [Beginner](https://www.reddit.com/r/InformationTechnology/comments/mneryv/beginner/)
-- [IT related fields that don't require education or certifications?](https://www.reddit.com/r/InformationTechnology/comments/mn6rfg/it_related_fields_that_dont_require_education_or/)
-- [For any IT who got time for some basic questions, I need your help](https://www.reddit.com/r/InformationTechnology/comments/mn5x4x/for_any_it_who_got_time_for_some_basic_questions/)
-- [Custom Subnet Mask/ IP address question](https://www.reddit.com/r/InformationTechnology/comments/mn3425/custom_subnet_mask_ip_address_question/)
-- [Unsure if I should take this internship opportunity? Social Media Specialist / Web maintenance as MIS major](https://www.reddit.com/r/InformationTechnology/comments/mmyvii/unsure_if_i_should_take_this_internship/)
-- [Application analysts](https://www.reddit.com/r/InformationTechnology/comments/mmuqwn/application_analysts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -317,16 +317,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Remembering the Brixton riots 40 years on – podcast](https://www.theguardian.com/news/audio/2021/apr/12/remembering-brixton-riots-40-years-on-today-in-focus-podcast)
-- [Ardern tells New Zealand border staff: get Covid vaccine now or be redeployed](https://www.theguardian.com/world/2021/apr/12/ardern-new-zealand-border-staff-covid-vaccine)
-- [Police warn of ‘whole-out war’ as tribal violence in Papua New Guinea kills 19](https://www.theguardian.com/world/2021/apr/12/police-warn-of-whole-out-war-as-tribal-violence-in-papua-new-guinea-kills-19)
-- [China launches hotline to report ‘illegal’ comments about Communist party](https://www.theguardian.com/world/2021/apr/12/china-launches-hotline-to-report-comments-about-communist-party)
-- [Hideki Matsuyama holds nerve to become Masters champion](https://www.theguardian.com/sport/2021/apr/12/hideki-matsuyama-holds-nerve-to-become-masters-champion)
-- [Optimism among UK business leaders hits record high](https://www.theguardian.com/business/2021/apr/12/optimism-business-uk-leaders-record-high-bounceback)
-- [London’s ‘super-prime’ luxury property market was world leader in 2020](https://www.theguardian.com/business/2021/apr/12/londons-super-prime-luxury-property-market-was-world-leader-in-2020)
-- [Miss Julie review – Strindberg spiked with the politics of empire](https://www.theguardian.com/stage/2021/apr/12/miss-julie-review-strindberg-spiked-with-the-politics-of-empire)
-- [Cyclone Seroja weakens after wreaking havoc along Western Australia coast](https://www.theguardian.com/australia-news/2021/apr/12/cyclone-seroja-leaves-trail-of-damage-and-homes-without-power-in-western-australia)
-- [Back to black (and white): Baftas style sticks to dressing-up classics](https://www.theguardian.com/fashion/2021/apr/11/back-to-black-and-white-baftas-style-sticks-to-dressing-up-classics)
+- [What is really behind the riots in Northern Ireland? – podcast](https://www.theguardian.com/news/audio/2021/apr/13/what-really-behind-riots-northern-ireland-podcast)
+- [One dead and officer wounded after shooting at Tennessee high school](https://www.theguardian.com/us-news/2021/apr/12/tennessee-high-school-shooting-knoxville)
+- [‘A lack of political courage’: New Zealand’s drug reform efforts flounder](https://www.theguardian.com/world/2021/apr/13/a-lack-of-political-courage-new-zealands-drug-reform-efforts-flounder)
+- [Julian Edelman retires from NFL after New England Patriots end his contract](https://www.theguardian.com/sport/2021/apr/13/julian-edelman-announces-nfl-retirement-new-england-patriots)
+- [Fukushima: Japan announces it will dump contaminated water into sea](https://www.theguardian.com/environment/2021/apr/13/fukushima-japan-to-start-dumping-contaminated-water-pacific-ocean)
+- [Kanye West and Kim Kardashian West both ask for joint custody in divorce](https://www.theguardian.com/lifeandstyle/2021/apr/12/kanye-west-kim-kardashian-divorce-filings-child-custody)
+- [Help sixth-formers make up lost learning, say UK college leaders](https://www.theguardian.com/education/2021/apr/13/let-sixth-formers-make-up-lost-learning-covid-pandemic-uk-association-colleges)
+- [Children’s laureates campaign for £100m a year to fix primary school libraries](https://www.theguardian.com/books/2021/apr/13/childrens-laureates-campaign-for-100m-a-year-to-fix-primary-school-libraries)
+- [FA’s Kelly Simmons eager to build on progress of WSL’s first decade](https://www.theguardian.com/football/2021/apr/13/kelly-simmons-wsl-first-decade-womens-super-league)
+- [Talking Horses: Unhappy Monday for Bez after his horse refuses to race](https://www.theguardian.com/sport/2021/apr/12/unhappy-monday-for-happy-mondays-bez-after-his-horse-refuses-to-race-horse-racing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

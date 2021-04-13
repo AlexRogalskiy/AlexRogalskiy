@@ -422,16 +422,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Russia, China are the most sophisticated cyberattackers targeting Canada, says parliamentary committee](https://www.itworldcanada.com/article/russia-china-are-the-most-sophisticated-cyberattackers-targeting-canada-says-parliamentary-committee/445938)
+- [IBM names new managed infrastructure business Kyndryl](https://www.itworldcanada.com/article/ibm-names-new-managed-infrastructure-business-kyndryl/445906)
+- [Microsoft buys Nuance for $19.7 billion](https://www.itworldcanada.com/article/microsoft-buys-nuance-for-19-7-billion/445871)
+- [Cyber Security Today, April 12 2021 – Phone scams, job scams and hundreds of millions of LinkedIn profiles for sale](https://www.itworldcanada.com/article/cyber-security-today-april-12-2021-phone-scams-job-scams-and-hundreds-of-millions-of-linkedin-profiles-for-sale/445815)
+- [Hashtag Trending, April 12, 2021 – Clubhouse data leak; Amazon workers vote against unionization; Pregnancy discrimination at Google](https://www.itworldcanada.com/article/hashtag-trending-april-12-2021-clubhouse-leak-amazon-workers-vote-against-unionization-pregnancy-discrimination-at-google/445818)
 - [Ontario regional government victim of third-party cyberattack](https://www.itworldcanada.com/article/ontario-regional-government-victim-of-third-party-cyber-attack/445791)
 - [New internet project approved for rural Newfoundland and Labrador](https://www.itworldcanada.com/article/new-internet-project-approved-for-rural-newfoundland-and-labrador/445783)
-- [ITWC’s summer conference celebrates Canada’s DX visionaries](https://www.itworldcanada.com/article/itwcs-summer-conference-celebrates-canadas-dx-visionaries/445760)
+- [2021 DX Awards celebrates Canada’s transformation visionaries](https://www.itworldcanada.com/article/itwcs-summer-conference-celebrates-canadas-dx-visionaries/445760)
 - [Stop tool sprawl and deliver quality application performance](https://www.itworldcanada.com/article/stop-tool-sprawl-and-deliver-quality-application-performance/445758)
 - [Cyber Security Today, Week In Review for April 9, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-9-2021/445704)
-- [More Canadian firms leave RDP exposed than other countries, report suggests](https://www.itworldcanada.com/article/more-canadian-firms-leave-rdp-exposed-than-other-countries-report-suggests/445730)
-- [Cyber Security Today, April 9, 2021 – Another warning to Fortinet administrators, beware of free Netflix offers, credentials to streaming services stolen and another big cloud mistake](https://www.itworldcanada.com/article/cyber-security-today-april-9-2021-another-warning-to-fortinet-administrators-beware-of-free-netflix-offers-credentials-to-streaming-services-stolen-and-another-big-cloud-mistake/445721)
-- [Hashtag Trending, April 9, 2021 – Chip shortage keeps auto manufacturers idle; Facebook won’t notify users of leaked data; Verizon too hot to spot](https://www.itworldcanada.com/article/hashtag-trending-april-9-2021-chip-shortage-keeps-auto-manufacturers-idle-facebook-wont-notify-users-of-leaked-data-verizon-too-hot-to-spot/445740)
-- [LG promises three years of software updates for its phones](https://www.itworldcanada.com/article/lg-promises-three-years-of-software-updates-for-its-phones/445703)
-- [Hashtag Trending, April 8, 2021 – Facebook hiring practices in the spotlight; Google I/O goes virtual; Ontario schools go virtual](https://www.itworldcanada.com/article/hashtag-trending-april-8-2021-facebook-hiring-practices-in-the-spotlight-google-i-o-goes-virtual-ontario-schools-go-virtual/445691)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -332,16 +332,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
-- [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
-- [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
-- [Walletmor Payment Implant](https://walletmor.com/)
-- [Linux, macOS, and Windows running simultaneously on a first gen Core i5](https://lukesempire.com/2021/04/11/vms)
-- [Show HN: An encoding of the UK's self-isolation rules in Prolog](https://github.com/jamespwilliams/prolog-isolation-checker)
-- [Problems with JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
-- [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-- [The Nuclear Lightbulb (2020)](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
-- [Using brain interfaces to learn about learning](https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html)
+- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
+- [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
+- [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
+- [Adobe Charges Subscription Cancellation Fee](https://twitter.com/MRDADDGUY/status/1381628427246039045)
+- [Playing the Open Source Game](https://kristoff.it/blog/the-open-source-game/)
+- [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
+- [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
+- [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
+- [Conversations at Home ‘Stirring Up Hatred’ Now a Criminal Offence in Scotland](https://www.lotuseaters.com/private-conversations-at-home-stirring-up-hatred-are-now-a-criminal-offence-in-scotland-12-03-2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

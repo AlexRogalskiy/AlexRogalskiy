@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/pimp_1__1344.php" target="_blank"><i>pimp (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/bling_733.php" target="_blank"><i>bling</i></a>
 <span> = </span>
-<span>a manager of prostitutes</span>
+<span>flashy jewellery worn to create the impression of wealth</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

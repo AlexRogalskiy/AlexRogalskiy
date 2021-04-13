@@ -347,16 +347,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Why 16 is the new 8 for Windows 10](https://www.computerworld.com/article/3614928/why-16-is-the-new-8-for-windows-10.html#tk.rss_all)
+- [Career roadmap: Artificial Intelligence Engineer](https://www.idginsiderpro.com/article/3614648/career-roadmap-artificial-intelligence-engineer.html#tk.rss_all)
+- [5 perspectives on modern data analytics](https://www.cio.com/article/3614692/5-perspectives-on-modern-data-analytics.html#tk.rss_all)
+- [Collaboration analytics: Yes, you can track employees. Should you?](https://www.computerworld.com/article/3614119/collaboration-analytics-yes-you-can-track-employees-should-you.html#tk.rss_all)
 - [Your iPhone could soon be your driver's license (in Utah)](https://www.computerworld.com/article/3614771/your-iphone-could-soon-be-your-drivers-license-in-utah.html#tk.rss_all)
 - [Defining the digital workspace of the future](https://www.computerworld.com/article/3614608/defining-the-digital-workspace-of-the-future.html#tk.rss_all)
 - [The best Android apps for organizing your life](https://www.computerworld.com/article/3243098/best-android-apps-for-organizing-your-life.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Podcast: Ranking Apple's worst products of all time](https://www.computerworld.com/article/3614769/podcast-ranking-apples-worst-products-of-all-time.html#tk.rss_all)
-- [Documents, an app for everything that's always with you](https://www.computerworld.com/article/3614629/documents-an-app-for-everything-thats-always-with-you.html#tk.rss_all)
-- [A smart new screenshot sharing system for Chrome](https://www.computerworld.com/article/3614187/chrome-screenshot-sharing.html#tk.rss_all)
-- [The Brave browser basics: what it does, how it differs from rivals](https://www.computerworld.com/article/3292619/the-brave-browser-basics-what-it-does-how-it-differs-from-rivals.html#tk.rss_all)
-- [Apple gets ready to launch its Find My ecosystem (updated)](https://www.computerworld.com/article/3614308/apple-gets-ready-to-launch-its-find-my-ecosystem-updated.html#tk.rss_all)
-- [Google Slides vs. Microsoft PowerPoint: Which works better for business?](https://www.computerworld.com/article/3264440/google-slides-vs-microsoft-powerpoint-which-works-better-for-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

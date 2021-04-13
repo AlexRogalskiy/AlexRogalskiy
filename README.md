@@ -287,16 +287,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Oh Snap: Marvel's Avengers Campus Opens June 4th at Disney California Adventure](https://www.reviewgeek.com/77392/oh-snap-marvels-avengers-campus-opens-june-4th-at-disney-california-adventure/)
-* [How to Change Your Steam Profile Picture](https://www.howtogeek.com/720191/how-to-change-your-steam-profile-picture/)
-* [How to Enable Dark Mode in Microsoft Teams](https://www.howtogeek.com/719649/how-to-enable-dark-mode-in-microsoft-teams/)
-* [Google's New AR Toy Is a Portal to the Other Side of the World](https://www.reviewgeek.com/77411/googles-new-ar-toy-is-a-portal-to-the-other-side-of-the-world/)
-* [How to Change Your Name on Roblox](https://www.howtogeek.com/721188/how-to-change-your-name-on-roblox/)
-* [How to Change the Tracking Speed for a Trackpad or Mouse on Mac](https://www.howtogeek.com/720182/how-to-change-the-tracking-speed-for-a-trackpad-or-mouse-on-mac/)
-* [MLB.TV's 'Big Inning' Shows You the Ten Minutes of Baseball That Matter](https://www.reviewgeek.com/77373/mlb-tvs-big-inning-shows-you-the-ten-minutes-of-baseball-that-matter/)
-* [How to Quickly Unfollow News Channels on Nintendo Switch](https://www.howtogeek.com/717548/how-to-quickly-unfollow-news-channels-on-nintendo-switch/)
-* [What Is 1Password’s Travel Mode, and How Do You Set It Up?](https://www.howtogeek.com/718995/what-is-1passwords-travel-mode-and-how-do-you-set-it-up/)
-* [The 11 Best Apps to Help You Get Stuff Done This Spring](https://www.reviewgeek.com/76683/the-11-best-apps-to-help-you-get-stuff-done-this-spring/)
+* [Google Photos' Revamped Video Editor Arrives on Android](https://www.reviewgeek.com/77628/google-photos-revamped-video-editor-arrives-on-android/)
+* [The FCC Wants to Improve Internet Access, Here's How to Help](https://www.reviewgeek.com/77642/the-fcc-wants-to-improve-internet-access-heres-how-to-help/)
+* [Creston's New $599 Smart Thermostat Works In Homes Where Nest and Ecobee Won't](https://www.reviewgeek.com/77606/crestons-new-599-smart-thermostat-works-in-homes-where-nest-and-ecobee-wont/)
+* [A Developer Smuggled 'Flappy Bird' into a macOS Push Notification](https://www.reviewgeek.com/77603/a-developer-smuggled-flappy-bird-into-a-macos-push-notification/)
+* [The 6 Best Car Desks for Workers on the Go](https://www.reviewgeek.com/74497/the-6-best-car-desks-for-workers-on-the-go/)
+* [Android's "Heads Up" Feature Will Remind You Not to Walk and Text](https://www.reviewgeek.com/77609/androids-heads-up-feature-will-remind-you-not-to-walk-and-text/)
+* [How to Use Google Assistant to Perform Actions in Apps](https://www.howtogeek.com/712470/how-to-use-the-google-assistant-to-perform-actions-in-apps/)
+* [Logitech Discontinues Harmony Remotes, But Yours Will Keep Working](https://www.reviewgeek.com/77595/logitech-discontinues-harmony-remotes-but-yours-will-keep-working/)
+* [PopSockets Debuts a Plant-Based Grip Made from Beans and Corn Starch](https://www.reviewgeek.com/77590/popsocketss-debuts-plant-based-phone-made-from-beans-and-corn-starch/)
+* [How to Create a Drop Cap in Google Docs](https://www.howtogeek.com/720411/how-to-create-a-drop-cap-in-google-docs/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

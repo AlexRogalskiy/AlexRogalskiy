@@ -302,16 +302,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
-- [Programming Language with Only One Command and the Operating System Built on It](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
-- [The SVCB and HTTPS RRs [pdf]](https://www.ripe.net/participate/ripe/wg/active-wg/dns/remote-sessions/presentations/svcb_https_-ripe-2020.pdf)
-- [In First, Chinese Navy Harasses Boat Carrying Filipino Journalists](https://thediplomat.com/2021/04/chinese-navy-harasses-boat-carrying-filipino-journalists-report/)
-- [When Will Electric Cars Take Over?](https://www.nytimes.com/interactive/2021/03/10/climate/electric-vehicle-fleet-turnover.html)
-- [Does the Universe Have Higher Dimensions? Part 1](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html)
-- [Electric Aircraft Startup Accuses Rival of Stealing Its Secrets](https://www.nytimes.com/2021/04/06/business/wisk-archer-lawsuit.html)
-- [A new documentary highlights Gerry O'Neill, visionary behind space settlement](https://arstechnica.com/science/2021/04/a-new-documentary-highlights-the-visionary-behind-space-settlement/)
-- [Giving my book on writing beautiful Python for free to celebrate its alpha v](https://news.ycombinator.com/item?id=26775400)
-- [Sugar Policy, Health Care, and the Law (2013)](https://www.c-span.org/video/?314740-1/sugar-policy-health-care-law#)
+- [Mathematician Disproves 80-Year-Old Algebra Conjecture](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)
+- [Pipeworld: Spreadsheet Dataflow Computing](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
+- [Ask HN: What was the first profession and why?](https://news.ycombinator.com/item?id=26787429)
+- [Airborne plastic pollution ‘spiralling around the globe’, study finds](https://www.theguardian.com/environment/2021/apr/12/airborne-plastic-pollution-spiralling-around-the-globe-study-finds)
+- [Heroin-Using Professor Wants to Change How We Think About Drugs](https://www.nytimes.com/2021/04/10/nyregion/Carl-Hart-drugs.html)
+- [Open Source Discord](https://github.com/Megapixel99/dissonance)
+- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
+- [China is governed by a totalitarian regime. Why is that so hard to say?](https://foreignpolicy.com/2021/04/10/china-xi-jinping-totalitarian-authoritarian-debate/)
+- [Arclight Cinemas and Pacific Theatres Won’t Be Reopening](https://deadline.com/2021/04/arclight-cinemas-and-pacific-theatres-wont-be-reopening-1234732936/)
+- [OpenJailbreak](https://github.com/openjailbreak)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

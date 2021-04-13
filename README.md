@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/He_that_wills_the_end_wills_the_means_962.php" target="_blank"><i>He that wills the end wills the means</i></a>
 <span> = </span>
-<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
+<span>If you are determined to do something you will find the way to do it.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

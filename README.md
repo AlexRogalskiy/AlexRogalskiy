@@ -407,16 +407,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying to SSH from Ubuntu VM to physical desktop - needs unknown password?](https://www.reddit.com/r/InformationTechnology/comments/mpsnzv/trying_to_ssh_from_ubuntu_vm_to_physical_desktop/)
+- [Quick Survey: Comparing Careers in Cybersecurity vs. Data Science](https://www.reddit.com/r/InformationTechnology/comments/mpldeq/quick_survey_comparing_careers_in_cybersecurity/)
+- [Computer Science/IT free courses?](https://www.reddit.com/r/InformationTechnology/comments/mplajk/computer_scienceit_free_courses/)
+- [Work Experience and Certification Question](https://www.reddit.com/r/InformationTechnology/comments/mpgt8w/work_experience_and_certification_question/)
+- [Quitting job after 3 months?](https://www.reddit.com/r/InformationTechnology/comments/mp5giw/quitting_job_after_3_months/)
 - [Questions about Cloud Computing](https://www.reddit.com/r/InformationTechnology/comments/mp4l4s/questions_about_cloud_computing/)
 - [Healthcare IT](https://www.reddit.com/r/InformationTechnology/comments/mp4dkd/healthcare_it/)
 - [How to build technical backgroud?](https://www.reddit.com/r/InformationTechnology/comments/moy96l/how_to_build_technical_backgroud/)
 - [Student in Need of Answers from IT Professionals or People Who have Witnessed Significant Technological Change in their Workplace! (can be anonymous)](https://www.reddit.com/r/InformationTechnology/comments/mosat6/student_in_need_of_answers_from_it_professionals/)
 - [Record audio from laptop - question](https://www.reddit.com/r/InformationTechnology/comments/mojcwh/record_audio_from_laptop_question/)
-- [Multi Tiered printer trays?](https://www.reddit.com/r/InformationTechnology/comments/mo5p11/multi_tiered_printer_trays/)
-- [Trying to stepup from simple processing system to a more advance system design.](https://www.reddit.com/r/InformationTechnology/comments/mo2ys1/trying_to_stepup_from_simple_processing_system_to/)
-- [VM question](https://www.reddit.com/r/InformationTechnology/comments/mo017k/vm_question/)
-- [Data Science or Computer Science for a career in Bioinfomatics](https://www.reddit.com/r/InformationTechnology/comments/mnj8q6/data_science_or_computer_science_for_a_career_in/)
-- [Beginner](https://www.reddit.com/r/InformationTechnology/comments/mneryv/beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

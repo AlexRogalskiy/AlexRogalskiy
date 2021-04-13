@@ -392,16 +392,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [University students adapt to remote learning but question value for money](https://www.computerweekly.com/news/252499105/University-students-adapt-to-remote-learning-but-question-value-for-money)
-- [Global demand for IT and business services highest ever for first quarter](https://www.computerweekly.com/news/252499093/Global-demand-for-IT-and-business-services-highest-ever-for-first-quarter)
-- [Egypt, Italy and US most affected in Facebook leak](https://www.computerweekly.com/news/252499100/Egypt-Italy-and-US-most-affected-in-Facebook-leak)
-- [IT leaders get the green light to spend on digitisation](https://www.computerweekly.com/news/252499099/IT-leaders-get-the-green-light-to-spend-on-digitisation)
-- [Loan Charge Group MPs demand IR35 shake-up to stop contractors becoming ‘zero-rights employees’](https://www.computerweekly.com/news/252499096/Loan-Charge-Group-MPs-demand-IR35-shake-up-to-stop-contractors-becoming-zero-rights-employees)
-- [NCSC: Using your pet’s name as a password is very stupid](https://www.computerweekly.com/news/252499089/NCSC-Using-your-pets-name-as-a-password-is-very-stupid)
-- [Tech industry sees surge in remote working job postings](https://www.computerweekly.com/news/252499081/Tech-industry-sees-surge-in-remote-working-job-postings)
-- [Cring ransomware hits ICS through two-year-old bug](https://www.computerweekly.com/news/252499086/Cring-ransomware-hits-ICS-through-two-year-old-bug)
-- [CDO summer school plots step change for data leaders](https://www.computerweekly.com/news/252499047/CDO-summer-school-plots-step-change-for-data-leaders)
-- [Microsoft accused of stifling secondhand software market](https://www.computerweekly.com/news/252499039/Microsoft-accused-of-stifling-secondhand-software-market)
+- [Nvidia targets datacentre memory bottleneck](https://www.computerweekly.com/news/252499172/Nvidia-targets-datacentre-memory-bottleneck)
+- [How the Covid-19 Genomics UK Consortium sequenced Sars-Cov-2](https://www.computerweekly.com/feature/How-the-Covid-19-Genomics-UK-Consortium-sequenced-Sars-Cov-2)
+- [AWS debuts next phase of $20m push to provide cloud tools to Covid-19 research teams](https://www.computerweekly.com/news/252499180/AWS-debuts-next-phase-of-20m-push-to-provide-cloud-tools-to-Covid-19-research-teams)
+- [Ctera KubeFiler to bring Kubernetes storage to its cloud gateways](https://www.computerweekly.com/news/252499169/Ctera-KubeFiler-to-bring-Kubernetes-storage-to-its-cloud-gateways)
+- [Another 27 Danish banks get access to open banking APIs](https://www.computerweekly.com/news/252499175/Another-27-Danish-banks-get-access-to-open-banking-APIs)
+- [Vaccine passports and travel plans race up Covid threat charts](https://www.computerweekly.com/news/252499166/Vaccine-passports-and-travel-plans-race-up-Covid-threat-charts)
+- [Why some jobseekers have turned to cyber crime during the pandemic](https://www.computerweekly.com/feature/Why-some-jobseekers-have-turned-to-cyber-crime-during-the-pandemic)
+- [Five ways to boost systems utilisation in the datacentre](https://www.computerweekly.com/feature/Five-ways-to-boost-systems-utilisation-in-the-datacentre)
+- [What has a year of home working meant for the DPO?](https://www.computerweekly.com/opinion/What-has-a-year-of-home-working-meant-for-the-DPO)
+- [How robotic process automation is getting smarter as it evolves](https://www.computerweekly.com/feature/How-robotic-process-automation-is-getting-smarter-as-it-evolves)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

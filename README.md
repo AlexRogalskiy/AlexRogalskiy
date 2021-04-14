@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_all)
+- [Moving cloud resources to an ‘edge cloud center’ near you](https://www.infoworld.com/article/3614931/moving-cloud-resources-to-an-edge-cloud-center-near-you.html#tk.rss_all)
+- [No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html#tk.rss_all)
+- [How to use Parallel.For and Parallel.ForEach in C#](https://www.infoworld.com/article/3614819/how-to-use-parallelfor-and-parallelforeach-in-csharp.html#tk.rss_all)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_all)
 - [Packing safety intelligence into robots’ AI brains](https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html#tk.rss_all)
 - [How to excel with data analytics](https://www.infoworld.com/article/3614708/how-to-excel-with-data-analytics.html#tk.rss_all)
 - [What the heck does the Google vs. Oracle decision mean?](https://www.infoworld.com/article/3614693/what-the-heck-does-the-google-vs-oracle-decision-mean.html#tk.rss_all)
 - [5 perspectives on modern data analytics](https://www.cio.com/article/3614692/5-perspectives-on-modern-data-analytics.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_all)
-- [3 multicloud architecture mistakes](https://www.infoworld.com/article/3614589/3-fixable-reasons-your-multicloud-architecture-is-not-optimized.html#tk.rss_all)
-- [Microsoft open sources C# standards work](https://www.infoworld.com/article/3614352/microsoft-open-sources-csharp-standards-work.html#tk.rss_all)
-- [The pesky reality of multicloud](https://www.infoworld.com/article/3614197/the-pesky-reality-of-multicloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

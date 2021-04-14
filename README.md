@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;bc&#x2F;a3&#x2F;19bca34a8a3be2e675424bc26f396b8b.jpg" alt="Some words shine brighter than others. Lucida is the #WordOfTheDay.⁠ ⁠ Want example sentences? Click to learn more! #Words #Learning #Vocabulary" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d7&#x2F;fe&#x2F;b3&#x2F;d7feb388949c4d0aead193e33d698509.jpg" alt="We feel so close to this #WordOfTheDay.⁠ It&#39;s propinquity. ⁠ Click for example sentences, word origin, usage help, and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;74&#x2F;28&#x2F;e3&#x2F;7428e37e1ee999e18f52bc035a65869d.jpg" alt="Calling all animal lovers. Vibrissa is the Word of the Day.⁠ Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;da&#x2F;76&#x2F;5ada76a3d91ba8f9281bc40f4f8f5a15.jpg" alt="The putative #WordOfTheDay is, well, putative. ⁠ See where it comes from at Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c2&#x2F;57&#x2F;1d&#x2F;c2571d341f0642c657ccf209b00cf388.jpg" alt="It would behoove you to learn this #WordOfTheDay. Want more example sentences? Click to learn more! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>light rain</i>), humidity: 70%, pressure: 1019 (mbar), wind: /north-east/ 7 (m/s), cloudy: 75%</b>
+        <b>4°C (<i>light rain</i>), humidity: 75%, pressure: 1018 (mbar), wind: /east/ 3 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>05:45 am</b> and sets at <b>20:12 pm</b>.
     </p>

@@ -241,8 +241,9 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648282592651755521" target="_blank"><i>Cold Solace</i></a></summary>
-<p>by Anna Belle Kaufman</p><p>When my mother died,<br/>one of her honey cakes remained in the freezer.<br/>I couldn’t bear to see it vanish,<br/>so it waited, pardoned,<br/>in its ice cave behind the metal trays<br/>for two more years.</p><p>On my forty-first birthday<br/>I chipped it out,<br/>a rectangular resurrection,<br/>hefted the dead weight in my palm.</p><p>Before it thawed,<br/>I sawed, with serrated knife,<br/>the thinnest of slices—<br/>Jewish Eucharist.</p><p>The amber squares<br/>with their translucent panes of walnuts<br/>tasted—even toasted—of freezer,<br/>of frost,<br/>a raisined delicacy delivered up<br/>from a deli in the underworld.</p><p>I yearned to recall life, not death—<br/>the still body in her pink nightgown on the bed,<br/>how I lay in the shallow cradle of the scattered sheets<br/>after they took it away,<br/>inhaling her scent one last time.</p><p>I close my eyes, savor a wafer of<br/>sacred cake on my tongue and<br/>try to taste my mother, to discern<br/>the message she baked in these loaves<br/>when she was too ill to eat them:</p><p>I love you.<br/>It will end.<br/>Leave something of sweetness<br/>and substance<br/>in the mouth of the world.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/648373156022779904" target="_blank"><i>Lending Out Books</i></a></summary>
+<p>by Hal Sirowitz</p><p>You’re always giving, my therapist said.<br/>You have to learn how to take. Whenever<br/>you meet a woman, the first thing you do<br/>is lend her your books. You think she’ll<br/>have to see you again in order to return them.<br/>But what happens is, she doesn’t have the time<br/>to read them, &amp; she’s afraid if she sees you again<br/>you’ll expect her to talk about them, &amp; will<br/>want to lend her even more. So she<br/>cancels the date. You end up losing<br/>a lot of books. You should borrow hers.
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

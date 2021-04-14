@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
-- [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
-- [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
-- [Adobe Charges Subscription Cancellation Fee](https://twitter.com/MRDADDGUY/status/1381628427246039045)
-- [Playing the Open Source Game](https://kristoff.it/blog/the-open-source-game/)
-- [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
-- [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
-- [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
-- [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
-- [Conversations at Home ‘Stirring Up Hatred’ Now a Criminal Offence in Scotland](https://www.lotuseaters.com/private-conversations-at-home-stirring-up-hatred-are-now-a-criminal-offence-in-scotland-12-03-2021)
+- [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
+- [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
+- [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
+- [Exploring the Kubernetes API with Curl](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html)
+- [Previous Covid-19 may cut risk of reinfection 84%](https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84)
+- [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
+- [Great Question (YC W21) Is Hiring a Founding Engineer (Rails) (Remote, PST-Ish)](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
+- [Latency Comparison: DynamoDB vs. FaunaDB vs. Redis](https://news-app-two-omega.vercel.app/)
+- [Pass: The standard Unix password manager](https://www.passwordstore.org/)
+- [Playpulse ONE – The gaming bike that unlocks your fitness motivation](https://playpulse.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

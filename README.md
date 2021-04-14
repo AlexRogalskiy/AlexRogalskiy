@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [MP told to ditch official email over hacking fears](https://www.computerweekly.com/news/252499250/MP-told-to-ditch-official-email-over-hacking-fears)
+- [Covid-19 left people feeling vulnerable to cyber crime](https://www.computerweekly.com/news/252499234/Covid-19-left-people-feeling-vulnerable-to-cyber-crime)
+- [End of the road for Post Office IT system that destroyed lives](https://www.computerweekly.com/news/252499238/End-of-the-road-for-Post-Office-IT-system-that-destroyed-lives)
+- [Millions of devices at risk from NAME:WRECK DNS bugs](https://www.computerweekly.com/news/252499233/Millions-of-devices-at-risk-from-NAMEWRECK-DNS-bugs)
+- [EncroChat lawyers raise questions over use of PII secrecy orders on UK decryption capabilities](https://www.computerweekly.com/news/252499199/EncroChat-lawyers-raise-questions-over-use-of-PII-secrecy-orders-on-UK-decryption-capabilities)
+- [Microsoft enters the Dragon’s den with Nuance acquisition](https://www.computerweekly.com/news/252499194/Microsoft-enters-the-Dragons-den-with-Nuance-acquisition)
+- [The evolution of RPA](https://www.computerweekly.com/ezine/Computer-Weekly/The-evolution-of-RPA)
 - [Nvidia targets datacentre memory bottleneck](https://www.computerweekly.com/news/252499172/Nvidia-targets-datacentre-memory-bottleneck)
 - [How the Covid-19 Genomics UK Consortium sequenced Sars-Cov-2](https://www.computerweekly.com/feature/How-the-Covid-19-Genomics-UK-Consortium-sequenced-Sars-Cov-2)
 - [AWS debuts next phase of $20m push to provide cloud tools to Covid-19 research teams](https://www.computerweekly.com/news/252499180/AWS-debuts-next-phase-of-20m-push-to-provide-cloud-tools-to-Covid-19-research-teams)
-- [Ctera KubeFiler to bring Kubernetes storage to its cloud gateways](https://www.computerweekly.com/news/252499169/Ctera-KubeFiler-to-bring-Kubernetes-storage-to-its-cloud-gateways)
-- [Another 27 Danish banks get access to open banking APIs](https://www.computerweekly.com/news/252499175/Another-27-Danish-banks-get-access-to-open-banking-APIs)
-- [Vaccine passports and travel plans race up Covid threat charts](https://www.computerweekly.com/news/252499166/Vaccine-passports-and-travel-plans-race-up-Covid-threat-charts)
-- [Why some jobseekers have turned to cyber crime during the pandemic](https://www.computerweekly.com/feature/Why-some-jobseekers-have-turned-to-cyber-crime-during-the-pandemic)
-- [Five ways to boost systems utilisation in the datacentre](https://www.computerweekly.com/feature/Five-ways-to-boost-systems-utilisation-in-the-datacentre)
-- [What has a year of home working meant for the DPO?](https://www.computerweekly.com/opinion/What-has-a-year-of-home-working-meant-for-the-DPO)
-- [How robotic process automation is getting smarter as it evolves](https://www.computerweekly.com/feature/How-robotic-process-automation-is-getting-smarter-as-it-evolves)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

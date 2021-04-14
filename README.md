@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What is really behind the riots in Northern Ireland? – podcast](https://www.theguardian.com/news/audio/2021/apr/13/what-really-behind-riots-northern-ireland-podcast)
-- [One dead and officer wounded after shooting at Tennessee high school](https://www.theguardian.com/us-news/2021/apr/12/tennessee-high-school-shooting-knoxville)
-- [‘A lack of political courage’: New Zealand’s drug reform efforts flounder](https://www.theguardian.com/world/2021/apr/13/a-lack-of-political-courage-new-zealands-drug-reform-efforts-flounder)
-- [Julian Edelman retires from NFL after New England Patriots end his contract](https://www.theguardian.com/sport/2021/apr/13/julian-edelman-announces-nfl-retirement-new-england-patriots)
-- [Fukushima: Japan announces it will dump contaminated water into sea](https://www.theguardian.com/environment/2021/apr/13/fukushima-japan-to-start-dumping-contaminated-water-pacific-ocean)
-- [Kanye West and Kim Kardashian West both ask for joint custody in divorce](https://www.theguardian.com/lifeandstyle/2021/apr/12/kanye-west-kim-kardashian-divorce-filings-child-custody)
-- [Help sixth-formers make up lost learning, say UK college leaders](https://www.theguardian.com/education/2021/apr/13/let-sixth-formers-make-up-lost-learning-covid-pandemic-uk-association-colleges)
-- [Children’s laureates campaign for £100m a year to fix primary school libraries](https://www.theguardian.com/books/2021/apr/13/childrens-laureates-campaign-for-100m-a-year-to-fix-primary-school-libraries)
-- [FA’s Kelly Simmons eager to build on progress of WSL’s first decade](https://www.theguardian.com/football/2021/apr/13/kelly-simmons-wsl-first-decade-womens-super-league)
-- [Talking Horses: Unhappy Monday for Bez after his horse refuses to race](https://www.theguardian.com/sport/2021/apr/12/unhappy-monday-for-happy-mondays-bez-after-his-horse-refuses-to-race-horse-racing)
+- [Will we need a Covid pass to get into the pub?](https://www.theguardian.com/news/audio/2021/apr/14/will-we-need-a-covid-pass-to-get-into-the-pub)
+- [‘His spirit lives on’: Vanuatu’s Tanna island mourns Prince Philip as its own](https://www.theguardian.com/world/2021/apr/14/his-spirit-lives-on-vanuatus-tanna-island-mourns-prince-philip-as-its-own)
+- [W Galen Weston, Canadian retail tycoon behind Primark and Selfridges, dies at 80](https://www.theguardian.com/uk-news/2021/apr/14/w-galen-weston-canada-uk-retail-tycoon-primark-selfridges-and-loblaw-dies-at-80)
+- [‘The heat is on’: top theatres act to root out ‘system failure’ of racism](https://www.theguardian.com/stage/2021/apr/14/heat-young-vic-royal-court-theatres-root-out-system-failure-of-racism)
+- [Noisy environments can have detrimental effect on plants, study finds](https://www.theguardian.com/environment/2021/apr/14/noisy-environments-have-detrimental-effect-plants-new-mexico-study-finds-persistent-noise-natural-gas-wells)
+- [Neighbours: more actors come forward with allegations of racist slurs and discrimination on set](https://www.theguardian.com/culture/2021/apr/14/neighbours-more-actors-come-forward-with-allegations-of-racist-slurs-and-discrimination-on-set)
+- [We can treat Champions League like an adventure, says Thomas Tuchel](https://www.theguardian.com/football/2021/apr/13/we-can-treat-champions-league-like-an-adventure-says-thomas-tuchel)
+- [Ever Given stuck again as Suez Canal Authority pursues salvage costs](https://www.theguardian.com/world/2021/apr/13/ever-given-impounded-as-suez-canal-authority-pursues-salvage-costs)
+- [Queen returns to royal duties four days after death of Prince Philip](https://www.theguardian.com/uk-news/2021/apr/13/queen-returns-to-royal-duties-four-days-after-death-of-prince-philip)
+- [Wisconsin officer cleared over Jacob Blake shooting returns to duty](https://www.theguardian.com/us-news/2021/apr/13/rusten-sheskey-jacob-black-return-to-duty)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

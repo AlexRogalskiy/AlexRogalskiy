@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Food/chew_the_fat_chew_the_rag_611.php" target="_blank"><i>chew the fat | chew the rag</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/plain_sailing_217.php" target="_blank"><i>plain sailing</i></a>
 <span> = </span>
-<span>If you chew the fat, or chew the rag, you have a long, friendly chat with someone.</span>
+<span>If something is plain sailing, it's very easy to do and there are no problems to overcome.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

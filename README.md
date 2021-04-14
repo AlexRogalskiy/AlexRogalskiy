@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mathematician Disproves 80-Year-Old Algebra Conjecture](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)
-- [Pipeworld: Spreadsheet Dataflow Computing](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
-- [Ask HN: What was the first profession and why?](https://news.ycombinator.com/item?id=26787429)
-- [Airborne plastic pollution ‘spiralling around the globe’, study finds](https://www.theguardian.com/environment/2021/apr/12/airborne-plastic-pollution-spiralling-around-the-globe-study-finds)
-- [Heroin-Using Professor Wants to Change How We Think About Drugs](https://www.nytimes.com/2021/04/10/nyregion/Carl-Hart-drugs.html)
-- [Open Source Discord](https://github.com/Megapixel99/dissonance)
-- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
-- [China is governed by a totalitarian regime. Why is that so hard to say?](https://foreignpolicy.com/2021/04/10/china-xi-jinping-totalitarian-authoritarian-debate/)
-- [Arclight Cinemas and Pacific Theatres Won’t Be Reopening](https://deadline.com/2021/04/arclight-cinemas-and-pacific-theatres-wont-be-reopening-1234732936/)
-- [OpenJailbreak](https://github.com/openjailbreak)
+- [Show HN: Volition: open-source remote access tool](https://github.com/Subsentient/volition)
+- [The Time to Withdraw](https://otherlife.co/the-time-to-withdraw/)
+- [Time-Limited Opportunities and Priority](https://forum.effectivealtruism.org/posts/X9ifYep4CkQNXdF4G/time-limited-opportunities-and-priority)
+- [Announcing PfSense Plus](https://www.netgate.com/blog/announcing-pfsense-plus.html)
+- [Literate Programming](https://wiki.c2.com/?LiterateProgramming)
+- [Create a Mac App Icon with Pure HTML and CSS](https://uglyduck.ca/macos-icon-css/)
+- [Ants can shrink and regrow their brains](https://www.nationalgeographic.com/animals/article/indian-jumping-ants-shrink-and-regrow-brains)
+- [2021 Annual Threat Assessment of the U.S. Intelligence Community](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2204-2021-annual-threat-assessment-of-the-u-s-intelligence-community)
+- [FCC finally starts tackling America's robocall scourge](https://www.theregister.com/2021/04/13/fcc_robocalls_action/)
+- [Building a Powerful ASCII Game Engine for the Browser](https://www.youtube.com/watch?v=B3uH517XbPs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

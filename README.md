@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Photos' Revamped Video Editor Arrives on Android](https://www.reviewgeek.com/77628/google-photos-revamped-video-editor-arrives-on-android/)
-* [The FCC Wants to Improve Internet Access, Here's How to Help](https://www.reviewgeek.com/77642/the-fcc-wants-to-improve-internet-access-heres-how-to-help/)
-* [Creston's New $599 Smart Thermostat Works In Homes Where Nest and Ecobee Won't](https://www.reviewgeek.com/77606/crestons-new-599-smart-thermostat-works-in-homes-where-nest-and-ecobee-wont/)
-* [A Developer Smuggled 'Flappy Bird' into a macOS Push Notification](https://www.reviewgeek.com/77603/a-developer-smuggled-flappy-bird-into-a-macos-push-notification/)
-* [The 6 Best Car Desks for Workers on the Go](https://www.reviewgeek.com/74497/the-6-best-car-desks-for-workers-on-the-go/)
-* [Android's "Heads Up" Feature Will Remind You Not to Walk and Text](https://www.reviewgeek.com/77609/androids-heads-up-feature-will-remind-you-not-to-walk-and-text/)
-* [How to Use Google Assistant to Perform Actions in Apps](https://www.howtogeek.com/712470/how-to-use-the-google-assistant-to-perform-actions-in-apps/)
-* [Logitech Discontinues Harmony Remotes, But Yours Will Keep Working](https://www.reviewgeek.com/77595/logitech-discontinues-harmony-remotes-but-yours-will-keep-working/)
-* [PopSockets Debuts a Plant-Based Grip Made from Beans and Corn Starch](https://www.reviewgeek.com/77590/popsocketss-debuts-plant-based-phone-made-from-beans-and-corn-starch/)
-* [How to Create a Drop Cap in Google Docs](https://www.howtogeek.com/720411/how-to-create-a-drop-cap-in-google-docs/)
+* [Mophie's New Battery Is an Air Compressor and Car Jump Starter](https://www.reviewgeek.com/77898/mophies-new-battery-is-an-air-compressor-and-car-jump-starter/)
+* [LEGO'S New Classic Batmobile Comes with Everything but BatShark Repellant](https://www.reviewgeek.com/77866/legos-new-classic-batmobile-comes-with-everything-but-batshark-repellant/)
+* [Microsoft Launches Webcam Without Windows Hello Support](https://www.reviewgeek.com/77850/microsoft-launches-webcam-without-windows-hello-support/)
+* [Plugable's New USB-C VAMETER Can Tell You How Fast Your Devices Are Charging](https://www.reviewgeek.com/77849/plugables-new-usb-c-vameter-can-tell-you-how-fast-your-devices-are-charging/)
+* [Wyze's Latest Product is a $30 Smart Floor Lamp](https://www.reviewgeek.com/77830/wyzes-latest-product-is-a-30-smart-floor-lamp/)
+* [Microsoft Surface Laptop 4 Arrives With Upgraded Intel and AMD Processors](https://www.reviewgeek.com/77813/microsoft-surface-laptop-4-arrives-with-upgraded-intel-and-amd-processors/)
+* [How to Sync Tabs between Different Browsers](https://www.howtogeek.com/712898/how-to-sync-tabs-between-different-browsers/)
+* [How to Pin a File in Microsoft Teams](https://www.howtogeek.com/718583/how-to-pin-a-file-in-microsoft-teams/)
+* [The 5 Best Universal Remotes Now That Logitech Quit the Game](https://www.reviewgeek.com/77663/the-5-best-universal-remotes-now-that-logitech-quit-the-game/)
+* [How to Turn on Tap to Click on Mac](https://www.howtogeek.com/720194/how-to-turn-on-tap-to-click-on-mac/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

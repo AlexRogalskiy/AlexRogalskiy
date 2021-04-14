@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
+- [Hired! With Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/mqaia1/hired_with_google_it_support_professional_cert/)
+- [Do you think moving to Exchange Online is a good way to begin the journey to Office 365? What are some other factors to consider when making that decision?](https://www.reddit.com/r/InformationTechnology/comments/mq82pa/do_you_think_moving_to_exchange_online_is_a_good/)
+- [Becoming a repair technician](https://www.reddit.com/r/InformationTechnology/comments/mq4qhu/becoming_a_repair_technician/)
+- [Inquiry From a Student Attempting to Study Cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/mpvhey/inquiry_from_a_student_attempting_to_study/)
 - [Trying to SSH from Ubuntu VM to physical desktop - needs unknown password?](https://www.reddit.com/r/InformationTechnology/comments/mpsnzv/trying_to_ssh_from_ubuntu_vm_to_physical_desktop/)
+- [Needing help with getting into IT.](https://www.reddit.com/r/InformationTechnology/comments/mpqj4b/needing_help_with_getting_into_it/)
 - [Quick Survey: Comparing Careers in Cybersecurity vs. Data Science](https://www.reddit.com/r/InformationTechnology/comments/mpldeq/quick_survey_comparing_careers_in_cybersecurity/)
 - [Computer Science/IT free courses?](https://www.reddit.com/r/InformationTechnology/comments/mplajk/computer_scienceit_free_courses/)
 - [Work Experience and Certification Question](https://www.reddit.com/r/InformationTechnology/comments/mpgt8w/work_experience_and_certification_question/)
-- [Quitting job after 3 months?](https://www.reddit.com/r/InformationTechnology/comments/mp5giw/quitting_job_after_3_months/)
-- [Questions about Cloud Computing](https://www.reddit.com/r/InformationTechnology/comments/mp4l4s/questions_about_cloud_computing/)
-- [Healthcare IT](https://www.reddit.com/r/InformationTechnology/comments/mp4dkd/healthcare_it/)
-- [How to build technical backgroud?](https://www.reddit.com/r/InformationTechnology/comments/moy96l/how_to_build_technical_backgroud/)
-- [Student in Need of Answers from IT Professionals or People Who have Witnessed Significant Technological Change in their Workplace! (can be anonymous)](https://www.reddit.com/r/InformationTechnology/comments/mosat6/student_in_need_of_answers_from_it_professionals/)
-- [Record audio from laptop - question](https://www.reddit.com/r/InformationTechnology/comments/mojcwh/record_audio_from_laptop_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/bling_733.php" target="_blank"><i>bling</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/jollies_1058.php" target="_blank"><i>jollies</i></a>
 <span> = </span>
-<span>flashy jewellery worn to create the impression of wealth</span>
+<span>fun, thrills, enjoyment</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

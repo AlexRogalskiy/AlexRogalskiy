@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/He_that_wills_the_end_wills_the_means_962.php" target="_blank"><i>He that wills the end wills the means</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/Even_the_prayers_of_an_ant_reach_to_Heaven_919.php" target="_blank"><i>Even the prayers of an ant reach to Heaven</i></a>
 <span> = </span>
-<span>If you are determined to do something you will find the way to do it.</span>
+<span>God hears all living beings.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

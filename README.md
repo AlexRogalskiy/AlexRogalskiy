@@ -356,7 +356,7 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>clear sky</i>), humidity: 64%, pressure: 1027 (mbar), wind: /north/ 2 (m/s), cloudy: 0%</b>
+        <b>5°C (<i>clear sky</i>), humidity: 56%, pressure: 1028 (mbar), wind: /north-west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:42 am</b> and sets at <b>20:15 pm</b>.
     </p>

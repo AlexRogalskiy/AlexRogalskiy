@@ -332,16 +332,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
-- [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
-- [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
-- [Exploring the Kubernetes API with Curl](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html)
-- [Previous Covid-19 may cut risk of reinfection 84%](https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84)
-- [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
-- [Great Question (YC W21) Is Hiring a Founding Engineer (Rails) (Remote, PST-Ish)](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
-- [Latency Comparison: DynamoDB vs. FaunaDB vs. Redis](https://news-app-two-omega.vercel.app/)
-- [Pass: The standard Unix password manager](https://www.passwordstore.org/)
-- [Playpulse ONE – The gaming bike that unlocks your fitness motivation](https://playpulse.com/)
+- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
+- [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
+- [I am Sophie Zhang, Facebook whistleblower. Ask me anything](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
+- [Effective altruism is not effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
+- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
+- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
+- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
+- [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
+- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
+- [Webamp: Winamp 2 in the browser](https://webamp.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

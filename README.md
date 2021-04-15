@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Transport/plain_sailing_217.php" target="_blank"><i>plain sailing</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/by_word_of_mouth_608.php" target="_blank"><i>by word of mouth</i></a>
 <span> = </span>
-<span>If something is plain sailing, it's very easy to do and there are no problems to overcome.</span>
+<span>If something becomes well-known by word of mouth, it becomes well-known because people are telling each other about it, and not because of advertising or other marketing tools.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

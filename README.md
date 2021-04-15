@@ -287,16 +287,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Mophie's New Battery Is an Air Compressor and Car Jump Starter](https://www.reviewgeek.com/77898/mophies-new-battery-is-an-air-compressor-and-car-jump-starter/)
-* [LEGO'S New Classic Batmobile Comes with Everything but BatShark Repellant](https://www.reviewgeek.com/77866/legos-new-classic-batmobile-comes-with-everything-but-batshark-repellant/)
-* [Microsoft Launches Webcam Without Windows Hello Support](https://www.reviewgeek.com/77850/microsoft-launches-webcam-without-windows-hello-support/)
-* [Plugable's New USB-C VAMETER Can Tell You How Fast Your Devices Are Charging](https://www.reviewgeek.com/77849/plugables-new-usb-c-vameter-can-tell-you-how-fast-your-devices-are-charging/)
-* [Wyze's Latest Product is a $30 Smart Floor Lamp](https://www.reviewgeek.com/77830/wyzes-latest-product-is-a-30-smart-floor-lamp/)
-* [Microsoft Surface Laptop 4 Arrives With Upgraded Intel and AMD Processors](https://www.reviewgeek.com/77813/microsoft-surface-laptop-4-arrives-with-upgraded-intel-and-amd-processors/)
-* [How to Sync Tabs between Different Browsers](https://www.howtogeek.com/712898/how-to-sync-tabs-between-different-browsers/)
-* [How to Pin a File in Microsoft Teams](https://www.howtogeek.com/718583/how-to-pin-a-file-in-microsoft-teams/)
-* [The 5 Best Universal Remotes Now That Logitech Quit the Game](https://www.reviewgeek.com/77663/the-5-best-universal-remotes-now-that-logitech-quit-the-game/)
-* [How to Turn on Tap to Click on Mac](https://www.howtogeek.com/720194/how-to-turn-on-tap-to-click-on-mac/)
+* [New Photo Colorization AI Fixes Early Photography's Old Man Wrinkle Effect](https://www.reviewgeek.com/78029/new-photo-colorization-ai-fixes-early-photographys-old-man-wrinkle-effect/)
+* [Mazda's MX-30 Crossover EV Will Come to the U.S., Complete with Suicide Doors](https://www.reviewgeek.com/78020/mazdas-mx-30-crossover-ev-will-come-to-the-us-complete-with-suicide-doors/)
+* [Amazon's 2nd Gen Echo Buds Arrive with Improved ANC, Preorder Discount](https://www.reviewgeek.com/77996/amazons-2nd-gen-echo-buds-arrive-with-improved-anc-pre-order-discount/)
+* [The 5 Best Joy-Con Replacements for Nintendo Switch](https://www.reviewgeek.com/76068/the-5-best-joy-con-replacements-for-nintendo-switch/)
+* [Thinking About Solar Panels? Project Sunroof Maps Solar Panel Effectiveness](https://www.lifesavvy.com/66579/thinking-about-solar-panels-project-sunroof-maps-solar-panel-effectiveness/)
+* [IKEA Turned Its Famous Allen Wrench into a Flashlight and Table Lamp](https://www.reviewgeek.com/77997/ikea-turned-its-famous-allen-wrench-into-a-flashlight-and-table-lamp/)
+* [Dcbel's Charging Station Can Power Your Home from Your EV, Arrives in the U.S.](https://www.reviewgeek.com/77972/dcbels-charging-station-can-power-your-home-from-your-ev-arrives-in-the-u-s/)
+* [Google Assistant Can Now Find Your iPhone and Order Takeout](https://www.reviewgeek.com/77966/google-assistant-can-now-find-your-iphone-and-order-takeout/)
+* [TCL Shows Off Its Fold 'n Roll Concept for Future Phones](https://www.reviewgeek.com/77992/tcl-shows-off-its-fold-n-roll-concept-for-future-phones/)
+* [How to Turn off a Chromebook Screen When Connected to an External Display](https://www.howtogeek.com/695893/how-to-turn-off-a-chromebook-screen-when-connected-to-an-external-display/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

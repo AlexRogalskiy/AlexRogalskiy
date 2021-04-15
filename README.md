@@ -302,16 +302,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Volition: open-source remote access tool](https://github.com/Subsentient/volition)
-- [The Time to Withdraw](https://otherlife.co/the-time-to-withdraw/)
-- [Time-Limited Opportunities and Priority](https://forum.effectivealtruism.org/posts/X9ifYep4CkQNXdF4G/time-limited-opportunities-and-priority)
-- [Announcing PfSense Plus](https://www.netgate.com/blog/announcing-pfsense-plus.html)
-- [Literate Programming](https://wiki.c2.com/?LiterateProgramming)
-- [Create a Mac App Icon with Pure HTML and CSS](https://uglyduck.ca/macos-icon-css/)
-- [Ants can shrink and regrow their brains](https://www.nationalgeographic.com/animals/article/indian-jumping-ants-shrink-and-regrow-brains)
-- [2021 Annual Threat Assessment of the U.S. Intelligence Community](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2204-2021-annual-threat-assessment-of-the-u-s-intelligence-community)
-- [FCC finally starts tackling America's robocall scourge](https://www.theregister.com/2021/04/13/fcc_robocalls_action/)
-- [Building a Powerful ASCII Game Engine for the Browser](https://www.youtube.com/watch?v=B3uH517XbPs)
+- [Show HN: Quotes Image Maker](https://quotescover.com)
+- [ClojuRust – Clojure in Rust](https://github.com/clojurust/clojurust)
+- [What Happens When You Have a Heart Attack on the Way to Mars?](https://science.slashdot.org/story/21/04/14/204248/what-happens-when-you-have-a-heart-attack-on-the-way-to-mars)
+- [Nigerian scammer gets 40 months in prison, ordered to pay back $2.7m to victims](https://www.theregister.com/2021/04/14/email_scammer_sentenced/)
+- [Brian Armstrong seeking cofounder on HN (2012)](https://news.ycombinator.com/item?id=3754664)
+- [Three mRNA vaccines researchers are working on (that aren’t Covid)](https://theconversation.com/3-mrna-vaccines-researchers-are-working-on-that-arent-covid-157858)
+- [So You Want to Compile Crystal on ARM64 (Apple M1)](https://www.maxfierke.com/blog/posts/so-you-want-to-compile-crystal-on-arm64-macos)
+- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- [If these brown dwarfs spun much faster they'd tear themselves apart](https://www.syfy.com/syfywire/if-these-brown-dwarfs-spun-much-faster-theyd-tear-themselves-apart)
+- [Banner Ads Considered Harmful](https://www.gwern.net/Ads)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

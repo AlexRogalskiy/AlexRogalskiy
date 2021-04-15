@@ -347,6 +347,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [This $1,600 game development e-training bundle is just $40 today](https://www.computerworld.com/article/3614858/this-1-600-game-development-e-training-bundle-is-just-40-today.html#tk.rss_all)
+- [FAQ: Microsoft preps Windows Update for Business as go-to enterprise servicing tool](https://www.computerworld.com/article/3614784/faq-microsoft-preps-windows-update-for-business-as-go-to-enterprise-servicing-tool.html#tk.rss_all)
+- [OmniPlan 4 offers powerful project management for Mac, iPhone, iPad](https://www.computerworld.com/article/3614786/omniplan-4-offers-powerful-project-management-for-mac-iphone-ipad.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
@@ -354,9 +357,6 @@
 - [The Microsoft-Nuance Deal: A new push for voice technology?](https://www.computerworld.com/article/3614712/the-microsoft-nuance-deal-a-new-push-for-voice-technology.html#tk.rss_all)
 - [5 hidden Pixel features for smarter calling](https://www.computerworld.com/article/3614863/pixel-features-smarter-calling.html#tk.rss_all)
 - [When online suites go down, we need options not on the cloud](https://www.computerworld.com/article/3614696/when-online-suites-go-down-we-need-options-not-on-the-cloud.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Why 16 is the new 8 for Windows 10](https://www.computerworld.com/article/3614928/why-16-is-the-new-8-for-windows-10.html#tk.rss_all)
-- [Career roadmap: Artificial Intelligence Engineer](https://www.idginsiderpro.com/article/3614648/career-roadmap-artificial-intelligence-engineer.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

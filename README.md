@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/take_1/take_out_1__2752.php" target="_blank"><i>take out (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/K/kick_in_2292.php" target="_blank"><i>kick in</i></a>
 <span> = </span>
-<span>If you take somebody out, you invite them to go out with you, usually for a meal or entertainment.<BR><BR></span>
+<span>If something kicks in, it starts to work or it starts to have an effect.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

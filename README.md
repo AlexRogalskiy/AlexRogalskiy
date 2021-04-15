@@ -317,16 +317,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Will we need a Covid pass to get into the pub?](https://www.theguardian.com/news/audio/2021/apr/14/will-we-need-a-covid-pass-to-get-into-the-pub)
-- [‘His spirit lives on’: Vanuatu’s Tanna island mourns Prince Philip as its own](https://www.theguardian.com/world/2021/apr/14/his-spirit-lives-on-vanuatus-tanna-island-mourns-prince-philip-as-its-own)
-- [W Galen Weston, Canadian retail tycoon behind Primark and Selfridges, dies at 80](https://www.theguardian.com/uk-news/2021/apr/14/w-galen-weston-canada-uk-retail-tycoon-primark-selfridges-and-loblaw-dies-at-80)
-- [‘The heat is on’: top theatres act to root out ‘system failure’ of racism](https://www.theguardian.com/stage/2021/apr/14/heat-young-vic-royal-court-theatres-root-out-system-failure-of-racism)
-- [Noisy environments can have detrimental effect on plants, study finds](https://www.theguardian.com/environment/2021/apr/14/noisy-environments-have-detrimental-effect-plants-new-mexico-study-finds-persistent-noise-natural-gas-wells)
-- [Neighbours: more actors come forward with allegations of racist slurs and discrimination on set](https://www.theguardian.com/culture/2021/apr/14/neighbours-more-actors-come-forward-with-allegations-of-racist-slurs-and-discrimination-on-set)
-- [We can treat Champions League like an adventure, says Thomas Tuchel](https://www.theguardian.com/football/2021/apr/13/we-can-treat-champions-league-like-an-adventure-says-thomas-tuchel)
-- [Ever Given stuck again as Suez Canal Authority pursues salvage costs](https://www.theguardian.com/world/2021/apr/13/ever-given-impounded-as-suez-canal-authority-pursues-salvage-costs)
-- [Queen returns to royal duties four days after death of Prince Philip](https://www.theguardian.com/uk-news/2021/apr/13/queen-returns-to-royal-duties-four-days-after-death-of-prince-philip)
-- [Wisconsin officer cleared over Jacob Blake shooting returns to duty](https://www.theguardian.com/us-news/2021/apr/13/rusten-sheskey-jacob-black-return-to-duty)
+- [Biden set to sanction Russian officials over massive SolarWinds hack](https://www.theguardian.com/us-news/2021/apr/14/biden-set-to-sanction-russian-officials-over-massive-solarwinds-hack)
+- [David Cameron’s lobbying scandal](https://www.theguardian.com/news/audio/2021/apr/15/david-camerons-lobbying-scandal)
+- [Officer who fatally shot Daunte Wright charged with manslaughter](https://www.theguardian.com/us-news/2021/apr/14/daunte-wright-kimberly-potter-officer-charge-arrest)
+- [‘Cancel the Olympics’: fashion outcry as Canada brings back jean jackets for Tokyo](https://www.theguardian.com/sport/2021/apr/15/cancel-the-olympics-fashion-outcry-as-canada-brings-back-jean-jackets-for-tokyo)
+- [‘Can babies see ghosts?’ The best of Yahoo Answers](https://www.theguardian.com/technology/2021/apr/15/can-babies-see-ghosts-the-best-of-yahoo-answers)
+- [Twerking for a new Australian navy ship: the dancers who launched a thousand memes](https://www.theguardian.com/culture/2021/apr/14/twerking-among-top-brass-the-inappropriate-dance-routine-the-australian-navy-tried-to-hide)
+- [About 700,000 renters served with ‘no-fault’ eviction notices since start of pandemic](https://www.theguardian.com/money/2021/apr/14/about-700000-renters-served-with-no-fault-eviction-notices-since-start-of-pandemic)
+- [Johnson & Johnson vaccine use will remain paused in US amid evaluation](https://www.theguardian.com/world/2021/apr/14/johnson-johnson-vaccine-us-limbo-coronavirus)
+- [London universities attack ‘levelling down’ plans to cut funding](https://www.theguardian.com/education/2021/apr/15/london-universities-attack-levelling-down-plans-to-cut-funding)
+- [China ‘must shut 600 coal-fired plants’ to hit climate target](https://www.theguardian.com/world/2021/apr/15/china-must-shut-600-coal-fired-plants-to-hit-climate-target)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

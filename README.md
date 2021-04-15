@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/Even_the_prayers_of_an_ant_reach_to_Heaven_919.php" target="_blank"><i>Even the prayers of an ant reach to Heaven</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/Rome_wasn_t_built_in_a_day_566.php" target="_blank"><i>Rome wasn't built in a day</i></a>
 <span> = </span>
-<span>God hears all living beings.</span>
+<span>All things take time to create. And great things like the city of Rome take a very long time. So we shouldn't expect to accomplish something or achieve success immediately.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

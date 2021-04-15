@@ -392,16 +392,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Tesco reports online sales surge, advances digital platform](https://www.computerweekly.com/news/252499325/Tesco-reports-online-sales-surge-advances-digital-platform)
+- [FBI accesses ProxyLogon target servers to disrupt cyber criminals](https://www.computerweekly.com/news/252499316/FBI-accesses-ProxyLogon-target-servers-to-disrupt-cyber-criminals)
+- [Remote workers largely supportive of a UK right to disconnect](https://www.computerweekly.com/news/252499296/Remote-workers-largely-supportive-of-a-UK-right-to-disconnect)
+- [EU set to tilt AI balance in favour of citizen rights](https://www.computerweekly.com/news/252499305/EU-set-to-tilt-AI-balance-in-favour-of-citizen-rights)
+- [Cloud archiving: A perfect use case, but beware costs and egress issues](https://www.computerweekly.com/feature/Cloud-archiving-A-perfect-use-case-but-beware-costs-and-egress)
+- [NSA unearths more MS Exchange vulnerabilities](https://www.computerweekly.com/news/252499298/NSA-unearths-more-MS-Exchange-vulnerabilities)
+- [AET gets Ctera to smooth hybrid cloud access to big files](https://www.computerweekly.com/news/252499294/AET-gets-Ctera-to-smooth-hybrid-cloud-access-to-big-files)
+- [Europe provides growth for TCS despite year floored by pandemic](https://www.computerweekly.com/news/252499292/Europe-provides-growth-for-TCS-despite-year-floored-by-pandemic)
+- [Security Think Tank: Vaccine passports must be secure by design](https://www.computerweekly.com/opinion/Security-Think-Tank-Vaccine-passports-must-be-secure-by-design)
 - [MP told to ditch official email over hacking fears](https://www.computerweekly.com/news/252499250/MP-told-to-ditch-official-email-over-hacking-fears)
-- [Covid-19 left people feeling vulnerable to cyber crime](https://www.computerweekly.com/news/252499234/Covid-19-left-people-feeling-vulnerable-to-cyber-crime)
-- [End of the road for Post Office IT system that destroyed lives](https://www.computerweekly.com/news/252499238/End-of-the-road-for-Post-Office-IT-system-that-destroyed-lives)
-- [Millions of devices at risk from NAME:WRECK DNS bugs](https://www.computerweekly.com/news/252499233/Millions-of-devices-at-risk-from-NAMEWRECK-DNS-bugs)
-- [EncroChat lawyers raise questions over use of PII secrecy orders on UK decryption capabilities](https://www.computerweekly.com/news/252499199/EncroChat-lawyers-raise-questions-over-use-of-PII-secrecy-orders-on-UK-decryption-capabilities)
-- [Microsoft enters the Dragon’s den with Nuance acquisition](https://www.computerweekly.com/news/252499194/Microsoft-enters-the-Dragons-den-with-Nuance-acquisition)
-- [The evolution of RPA](https://www.computerweekly.com/ezine/Computer-Weekly/The-evolution-of-RPA)
-- [Nvidia targets datacentre memory bottleneck](https://www.computerweekly.com/news/252499172/Nvidia-targets-datacentre-memory-bottleneck)
-- [How the Covid-19 Genomics UK Consortium sequenced Sars-Cov-2](https://www.computerweekly.com/feature/How-the-Covid-19-Genomics-UK-Consortium-sequenced-Sars-Cov-2)
-- [AWS debuts next phase of $20m push to provide cloud tools to Covid-19 research teams](https://www.computerweekly.com/news/252499180/AWS-debuts-next-phase-of-20m-push-to-provide-cloud-tools-to-Covid-19-research-teams)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

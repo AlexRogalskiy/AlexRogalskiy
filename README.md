@@ -422,16 +422,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian enterprise password manager adds secrets management](https://www.itworldcanada.com/article/canadian-enterprise-password-manager-adds-secrets-management/446034)
+- [First Identity Management Day reminds firms of best practices](https://www.itworldcanada.com/article/first-identity-management-day-reminds-firms-of-best-practices/445941)
+- [Cyber Security Today, April 14, 2021 – More bugs in Microsoft Exchange, cybersecurity training questioned, and Amazon bomb threat foiled.](https://www.itworldcanada.com/article/cyber-security-today-april-14-2021-more-bugs-in-microsoft-exchange-cybersecurity-training-questioned-and-amazon-bomb-threat-foiled/446076)
+- [Hashtag Trending, April 14, 2021 – Salesforce’s return to the office underway; US senator takes on big tech; Taco Bell store goes fully digital](https://www.itworldcanada.com/article/hashtag-trending-april-14-2021-salesforces-return-to-the-office-underway-us-senator-takes-on-big-tech-taco-bell-store-goes-fully-digital/446079)
 - [BlackBerry signs multi-year agreement with Shared Services Canada, forms new partnership with IBM](https://www.itworldcanada.com/article/blackberry-nabs-multi-year-agreement-with-shared-services-canada-forms-new-partnership-with-ibm/446055)
 - [Council of Canadian Innovators expands to Ontario, Alberta and B.C.](https://www.itworldcanada.com/article/council-of-canadian-innovators-expands-to-ontario-alberta-and-b-c/446038)
 - [Ryerson Catalyst adds SANS Institute cyber courses for infosec pros](https://www.itworldcanada.com/article/ryerson-catalyst-adds-sans-institute-cyber-courses-for-infosec-pros/445953)
 - [Dell launches Inspiron 16 Plus laptop](https://www.itworldcanada.com/article/dell-launches-inspiron-16-plus-laptop/446011)
 - [Hashtag Trending, April 13, 2021 – Microsoft acquires Nuance; Tim Cook talks to The Star; Nvidia’s new processor](https://www.itworldcanada.com/article/hashtag-trending-april-13-2021-microsoft-acquires-nuance-tim-cook-talks-to-the-star-nvidias-new-processor/445942)
 - [Russia, China are the most sophisticated cyberattackers targeting Canada, says parliamentary committee](https://www.itworldcanada.com/article/russia-china-are-the-most-sophisticated-cyberattackers-targeting-canada-says-parliamentary-committee/445938)
-- [IBM names new managed infrastructure business Kyndryl](https://www.itworldcanada.com/article/ibm-names-new-managed-infrastructure-business-kyndryl/445906)
-- [Microsoft buys Nuance for $19.7 billion](https://www.itworldcanada.com/article/microsoft-buys-nuance-for-19-7-billion/445871)
-- [Cyber Security Today, April 12 2021 – Phone scams, job scams and hundreds of millions of LinkedIn profiles for sale](https://www.itworldcanada.com/article/cyber-security-today-april-12-2021-phone-scams-job-scams-and-hundreds-of-millions-of-linkedin-profiles-for-sale/445815)
-- [Hashtag Trending, April 12, 2021 – Clubhouse data leak; Amazon workers vote against unionization; Pregnancy discrimination at Google](https://www.itworldcanada.com/article/hashtag-trending-april-12-2021-clubhouse-leak-amazon-workers-vote-against-unionization-pregnancy-discrimination-at-google/445818)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

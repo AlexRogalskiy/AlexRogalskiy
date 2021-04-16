@@ -369,16 +369,16 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [New Photo Colorization AI Fixes Early Photography's Old Man Wrinkle Effect](https://www.reviewgeek.com/78029/new-photo-colorization-ai-fixes-early-photographys-old-man-wrinkle-effect/)
-* [Mazda's MX-30 Crossover EV Will Come to the U.S., Complete with Suicide Doors](https://www.reviewgeek.com/78020/mazdas-mx-30-crossover-ev-will-come-to-the-us-complete-with-suicide-doors/)
-* [Amazon's 2nd Gen Echo Buds Arrive with Improved ANC, Preorder Discount](https://www.reviewgeek.com/77996/amazons-2nd-gen-echo-buds-arrive-with-improved-anc-pre-order-discount/)
-* [The 5 Best Joy-Con Replacements for Nintendo Switch](https://www.reviewgeek.com/76068/the-5-best-joy-con-replacements-for-nintendo-switch/)
-* [Thinking About Solar Panels? Project Sunroof Maps Solar Panel Effectiveness](https://www.lifesavvy.com/66579/thinking-about-solar-panels-project-sunroof-maps-solar-panel-effectiveness/)
-* [IKEA Turned Its Famous Allen Wrench into a Flashlight and Table Lamp](https://www.reviewgeek.com/77997/ikea-turned-its-famous-allen-wrench-into-a-flashlight-and-table-lamp/)
-* [Dcbel's Charging Station Can Power Your Home from Your EV, Arrives in the U.S.](https://www.reviewgeek.com/77972/dcbels-charging-station-can-power-your-home-from-your-ev-arrives-in-the-u-s/)
-* [Google Assistant Can Now Find Your iPhone and Order Takeout](https://www.reviewgeek.com/77966/google-assistant-can-now-find-your-iphone-and-order-takeout/)
-* [TCL Shows Off Its Fold 'n Roll Concept for Future Phones](https://www.reviewgeek.com/77992/tcl-shows-off-its-fold-n-roll-concept-for-future-phones/)
-* [How to Turn off a Chromebook Screen When Connected to an External Display](https://www.howtogeek.com/695893/how-to-turn-off-a-chromebook-screen-when-connected-to-an-external-display/)
+* [The DJI Air 2S Picks Up an Upgraded Camera, Drops the "Mavic" Moniker](https://www.reviewgeek.com/78204/the-dji-air-2s-picks-up-an-upgraded-camera-drops-the-mavic-moniker/)
+* [Microsoft Edge Kids Mode Rolls Out with Painless Setup](https://www.reviewgeek.com/78167/microsoft-edge-kids-mode-rolls-out-with-painless-setup/)
+* [Experience Four Decades of Change with Google Earth's 3D Timelapse Feature](https://www.reviewgeek.com/78156/experience-four-decades-of-change-with-google-earths-3d-timelapse-feature/)
+* [Bang & Olufsen's New Book Speaker Is an Idea You'll Want to Shelve Immediately](https://www.reviewgeek.com/78168/bang-olufsens-new-book-speaker-is-an-idea-youll-want-to-shelve-immediately/)
+* [Gotta Catch 'Em All! (All This Pokémon Merch, That Is.)](https://www.lifesavvy.com/63487/gotta-catch-em-all-all-this-pokemon-merch-that-is/)
+* [The 7 Best Floating Shelf Kits to Modernize Your Home Office](https://www.reviewgeek.com/76420/the-7-best-floating-shelf-kits-to-modernize-your-home-office/)
+* [Windows 10 Timeline Will Stop Syncing Activities Between PCs](https://www.reviewgeek.com/78142/windows-10-timeline-will-stop-syncing-activities-between-pcs/)
+* [M1 Macs With Parallels Can Now Run Windows 10 ARM at "Native Speeds"](https://www.reviewgeek.com/78074/m1-macs-with-parallels-can-now-run-windows-10-arm-at-native-speeds/)
+* [How to Send Audio Messages with Google Assistant](https://www.howtogeek.com/721234/how-to-send-audio-messages-with-google-assistant/)
+* [What’s New in Chrome 90, Available Now](https://www.howtogeek.com/723444/whats-new-in-chrome-90-available-now/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

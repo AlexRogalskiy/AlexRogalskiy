@@ -444,6 +444,7 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AWS Boosts Support for Girls in Tech's Inclusivity Efforts](https://www.informationweek.com/strategic-cio/aws-boosts-support-for-girls-in-techs-inclusivity-efforts/d/d-id/1340681?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [MassMutual CISO Talks Cybersecurity Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/massmutual-ciso-talks-cybersecurity-priorities/d/d-id/1340678?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Leaders Should Make Cloud Training a Top Priority](https://www.informationweek.com/cloud/why-it-leaders-should-make-cloud-training-a-top-priority/a/d-id/1340670?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Five Pillars of Resilience Engineering](https://www.informationweek.com/strategic-cio/enterprise-agility/the-five-pillars-of-resilience-engineering/a/d-id/1340623?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -453,7 +454,6 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 - [How Google Cloud Might Help the FinOps Foundation Evolve](https://www.informationweek.com/cloud/how-google-cloud-might-help-the-finops-foundation-evolve/d/d-id/1340636?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Cloud Attacks Have Taught Us About Hidden Compliance Costs](https://www.informationweek.com/cloud/what-cloud-attacks-have-taught-us-about-hidden-compliance-costs/a/d-id/1340614?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How The Pandemic Changed Data Analytics and BI in the Enterprise](https://www.informationweek.com/big-data/big-data-analytics/how-the-pandemic-changed-data-analytics-and-bi-in-the-enterprise/d/d-id/1340628?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Submit a Column to InformationWeek](https://www.informationweek.com/it-life/how-to-submit-a-column-to-informationweek/a/d-id/1340624?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

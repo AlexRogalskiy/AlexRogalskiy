@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_1/coke_1510.php" target="_blank"><i>coke</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/I/itch_1424.php" target="_blank"><i>itch</i></a>
 <span> = </span>
-<span>cocaine</span>
+<span>a strong desire to do something (n.) | to have a strong desire to do something (v.)</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

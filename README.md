@@ -504,16 +504,16 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Three of Shopify’s top execs are leaving the company, CEO says](https://www.itworldcanada.com/article/three-of-shopifys-top-execs-announce-their-exit/446179)
+- [Hashtag Trending podcast goes French, catch the first episode this weekend](https://www.itworldcanada.com/article/hashtag-trending-podcast-goes-french-catch-the-first-episode-this-weekend/446135)
+- [Vulnerabilities in TCP/IP stack may affect millions of devices, warn researchers](https://www.itworldcanada.com/article/vulnerabilities-in-tcp-ip-stack-may-affect-millions-of-devices-warn-researchers/446081)
+- [TCL announces 20 Pro 5G, 20L+ and 20L smartphones](https://www.itworldcanada.com/article/tcl-announces-20-pro-5g-20l-and-20l-smartphones/446132)
+- [Telus and Quebec government announce $30 million internet expansion project](https://www.itworldcanada.com/article/telus-and-quebec-government-announce-30-million-internet-expansion-project/446116)
+- [Hashtag Trending, April 15, 2021 – DuckDuckGo blocks FLoC; NYT’s tech workers unionize; Virtual workspace craze](https://www.itworldcanada.com/article/hashtag-trending-april-15-2021-duckduckgo-blocks-floc-nyts-tech-workers-unionize-virtual-workspace-craze/446105)
 - [Canadian enterprise password manager adds secrets management](https://www.itworldcanada.com/article/canadian-enterprise-password-manager-adds-secrets-management/446034)
 - [First Identity Management Day reminds firms of best practices](https://www.itworldcanada.com/article/first-identity-management-day-reminds-firms-of-best-practices/445941)
 - [Cyber Security Today, April 14, 2021 – More bugs in Microsoft Exchange, cybersecurity training questioned, and Amazon bomb threat foiled.](https://www.itworldcanada.com/article/cyber-security-today-april-14-2021-more-bugs-in-microsoft-exchange-cybersecurity-training-questioned-and-amazon-bomb-threat-foiled/446076)
 - [Hashtag Trending, April 14, 2021 – Salesforce’s return to the office underway; US senator takes on big tech; Taco Bell store goes fully digital](https://www.itworldcanada.com/article/hashtag-trending-april-14-2021-salesforces-return-to-the-office-underway-us-senator-takes-on-big-tech-taco-bell-store-goes-fully-digital/446079)
-- [BlackBerry signs multi-year agreement with Shared Services Canada, forms new partnership with IBM](https://www.itworldcanada.com/article/blackberry-nabs-multi-year-agreement-with-shared-services-canada-forms-new-partnership-with-ibm/446055)
-- [Council of Canadian Innovators expands to Ontario, Alberta and B.C.](https://www.itworldcanada.com/article/council-of-canadian-innovators-expands-to-ontario-alberta-and-b-c/446038)
-- [Ryerson Catalyst adds SANS Institute cyber courses for infosec pros](https://www.itworldcanada.com/article/ryerson-catalyst-adds-sans-institute-cyber-courses-for-infosec-pros/445953)
-- [Dell launches Inspiron 16 Plus laptop](https://www.itworldcanada.com/article/dell-launches-inspiron-16-plus-laptop/446011)
-- [Hashtag Trending, April 13, 2021 – Microsoft acquires Nuance; Tim Cook talks to The Star; Nvidia’s new processor](https://www.itworldcanada.com/article/hashtag-trending-april-13-2021-microsoft-acquires-nuance-tim-cook-talks-to-the-star-nvidias-new-processor/445942)
-- [Russia, China are the most sophisticated cyberattackers targeting Canada, says parliamentary committee](https://www.itworldcanada.com/article/russia-china-are-the-most-sophisticated-cyberattackers-targeting-canada-says-parliamentary-committee/445938)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

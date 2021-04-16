@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
-        <img width="200" src="" alt="" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1c&#x2F;1e&#x2F;95&#x2F;1c1e952c02703abe1bf0d1f2770e9065.jpg" alt="It’s just one thing after another with this #WordOfTheDay. It’s hydra. Learn more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d5&#x2F;8d&#x2F;82&#x2F;d58d82632eb12243a322dfd236bb59b7.jpg" alt="What&#39;s the big foofaraw? It&#39;s the #WordOfTheDay.⁠ ⁠ Wondering where it came from? Tap the link for more info!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;bc&#x2F;a3&#x2F;19bca34a8a3be2e675424bc26f396b8b.jpg" alt="Some words shine brighter than others. Lucida is the #WordOfTheDay.⁠ ⁠ Want example sentences? Click to learn more! #Words #Learning #Vocabulary " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d7&#x2F;fe&#x2F;b3&#x2F;d7feb388949c4d0aead193e33d698509.jpg" alt="We feel so close to this #WordOfTheDay.⁠ It&#39;s propinquity. ⁠ Click for example sentences, word origin, usage help, and more! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -297,7 +297,7 @@ if i am ever less than a mountain
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>clear sky</i>), humidity: 45%, pressure: 1029 (mbar), wind: /west/ 7 (m/s), cloudy: 0%</b>
+        <b>9°C (<i>clear sky</i>), humidity: 31%, pressure: 1029 (mbar), wind: /west/ 10 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:39 am</b> and sets at <b>20:17 pm</b>.
     </p>

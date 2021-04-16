@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_7/Rome_wasn_t_built_in_a_day_566.php" target="_blank"><i>Rome wasn't built in a day</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/We_must_learn_to_walk_before_we_can_run_909.php" target="_blank"><i>We must learn to walk before we can run</i></a>
 <span> = </span>
-<span>All things take time to create. And great things like the city of Rome take a very long time. So we shouldn't expect to accomplish something or achieve success immediately.</span>
+<span>We have to be patient when learning. Babies crawl before they walk. And children walk before they run. We cannot do difficult tasks before we can do easy tasks.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

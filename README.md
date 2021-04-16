@@ -414,16 +414,16 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
-- [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
-- [I am Sophie Zhang, Facebook whistleblower. Ask me anything](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
-- [Effective altruism is not effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
-- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
-- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
-- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
-- [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
-- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
-- [Webamp: Winamp 2 in the browser](https://webamp.org/)
+- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
+- [Java Is Criminally Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
+- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
+- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
+- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
+- [DIY plastic recyclers: open-source machines for shredding plastic [audio]](https://www.bbc.co.uk/programmes/p09ddhz6)
+- [Show HN: The game where you test your offside decision-making skills against VAR](https://offsideornot.com/)
+- [Ethical anti-design, or designing products that people can't get addicted to](https://njms.ca/posts/ethical-anti-design.html)
+- [PHP in 2021](https://stitcher.io/blog/php-in-2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

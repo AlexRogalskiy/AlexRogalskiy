@@ -384,16 +384,16 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Quotes Image Maker](https://quotescover.com)
-- [ClojuRust – Clojure in Rust](https://github.com/clojurust/clojurust)
-- [What Happens When You Have a Heart Attack on the Way to Mars?](https://science.slashdot.org/story/21/04/14/204248/what-happens-when-you-have-a-heart-attack-on-the-way-to-mars)
-- [Nigerian scammer gets 40 months in prison, ordered to pay back $2.7m to victims](https://www.theregister.com/2021/04/14/email_scammer_sentenced/)
-- [Brian Armstrong seeking cofounder on HN (2012)](https://news.ycombinator.com/item?id=3754664)
-- [Three mRNA vaccines researchers are working on (that aren’t Covid)](https://theconversation.com/3-mrna-vaccines-researchers-are-working-on-that-arent-covid-157858)
-- [So You Want to Compile Crystal on ARM64 (Apple M1)](https://www.maxfierke.com/blog/posts/so-you-want-to-compile-crystal-on-arm64-macos)
-- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-- [If these brown dwarfs spun much faster they'd tear themselves apart](https://www.syfy.com/syfywire/if-these-brown-dwarfs-spun-much-faster-theyd-tear-themselves-apart)
-- [Banner Ads Considered Harmful](https://www.gwern.net/Ads)
+- [Integrating AI: Best Practices and Resources for Azure Cognitive Services](https://techcommunity.microsoft.com/t5/apps-on-azure/integrating-ai-best-practices-and-resources-to-get-started-with/ba-p/2271522)
+- [A Blockchain-Based System for Online Consumer Reviews](https://ieeexplore.ieee.org/document/8845186)
+- [Everything Wrong with VPNs [video]](https://www.youtube.com/watch?v=9_b8Z2kAFyY)
+- [Released: Docker Desktop for Mac [Apple Silicon]](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
+- [Open-source Java performance workshop](https://jvmperf.net/)
+- [New M1 Mac mini deals deliver prices as low as $645 (up to $110 off)](https://appleinsider.com/articles/21/04/15/new-m1-mac-mini-deals-deliver-prices-as-low-as-645-up-to-110-off)
+- [Are there any “light lift” drones you would recommend?](https://news.ycombinator.com/item?id=26828528)
+- [People will likely need a booster shot of Pfizer's vaccine within 12 months](https://www.businessinsider.com/pfizer-third-shot-likely-vaccine-booster-ceo-albert-bourla-2021-4)
+- [Weed Wrecks Your Vision, According to New Research](https://futurism.com/weed-wrecks-vision-research)
+- [Andrew Yang’s mayoral campaign is being run by a lobbying firm](https://www.cityandstateny.com/articles/politics/new-york-city/andrew-yangs-mayoral-campaign-being-run-lobbying-firm.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

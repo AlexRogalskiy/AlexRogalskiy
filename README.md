@@ -297,7 +297,7 @@ if i am ever less than a mountain
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>9°C (<i>clear sky</i>), humidity: 31%, pressure: 1029 (mbar), wind: /west/ 10 (m/s), cloudy: 0%</b>
+        <b>10°C (<i>clear sky</i>), humidity: 25%, pressure: 1029 (mbar), wind: /north-west/ 8 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:39 am</b> and sets at <b>20:17 pm</b>.
     </p>

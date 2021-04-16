@@ -489,6 +489,9 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
+- [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
+- [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
 - [Need to choose my specialization track: Data Analytics or Network Management?](https://www.reddit.com/r/InformationTechnology/comments/mr4w4r/need_to_choose_my_specialization_track_data/)
 - [HDR Problem](https://www.reddit.com/r/InformationTechnology/comments/mr3a4d/hdr_problem/)
 - [What type of people do you usually see in IT?](https://www.reddit.com/r/InformationTechnology/comments/mqx56z/what_type_of_people_do_you_usually_see_in_it/)
@@ -496,9 +499,6 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 - [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
 - [Hired! With Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/mqaia1/hired_with_google_it_support_professional_cert/)
 - [Do you think moving to Exchange Online is a good way to begin the journey to Office 365? What are some other factors to consider when making that decision?](https://www.reddit.com/r/InformationTechnology/comments/mq82pa/do_you_think_moving_to_exchange_online_is_a_good/)
-- [Becoming a repair technician](https://www.reddit.com/r/InformationTechnology/comments/mq4qhu/becoming_a_repair_technician/)
-- [Inquiry From a Student Attempting to Study Cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/mpvhey/inquiry_from_a_student_attempting_to_study/)
-- [Trying to SSH from Ubuntu VM to physical desktop - needs unknown password?](https://www.reddit.com/r/InformationTechnology/comments/mpsnzv/trying_to_ssh_from_ubuntu_vm_to_physical_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

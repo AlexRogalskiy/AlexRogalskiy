@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1c&#x2F;1e&#x2F;95&#x2F;1c1e952c02703abe1bf0d1f2770e9065.jpg" alt="It’s just one thing after another with this #WordOfTheDay. It’s hydra. Learn more at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d5&#x2F;8d&#x2F;82&#x2F;d58d82632eb12243a322dfd236bb59b7.jpg" alt="What&#39;s the big foofaraw? It&#39;s the #WordOfTheDay.⁠ ⁠ Wondering where it came from? Tap the link for more info!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;bc&#x2F;a3&#x2F;19bca34a8a3be2e675424bc26f396b8b.jpg" alt="Some words shine brighter than others. Lucida is the #WordOfTheDay.⁠ ⁠ Want example sentences? Click to learn more! #Words #Learning #Vocabulary " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d7&#x2F;fe&#x2F;b3&#x2F;d7feb388949c4d0aead193e33d698509.jpg" alt="We feel so close to this #WordOfTheDay.⁠ It&#39;s propinquity. ⁠ Click for example sentences, word origin, usage help, and more! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;74&#x2F;28&#x2F;e3&#x2F;7428e37e1ee999e18f52bc035a65869d.jpg" alt="Calling all animal lovers. Vibrissa is the Word of the Day.⁠ Learn more at Dictionary.com! " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -241,91 +241,32 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648463755154489344" target="_blank"><i>Midwest Eclogue</i></a></summary>
-<p>by David Baker</p><p>
-We wade into a blackened pond to save
-<br/>the dying water.
-<br/>The water isn&rsquo;t dying
-<br/>—we know, we know—it&rsquo;s the fish and frogs
-<br/>starving, pushed out
-<br/>by subsurface growth. <br/></p><p>
-
-Still, that&rsquo;s how they put it to us,
-<br/>our new neighbors
-<br/>who&rsquo;ve come to watch
-<br/>their new neighbors
-<br/>cope with a stagnant, weedy,
-<br/>quarter-acre runoff swamp. <br/></p><p>They say, let it go, by which they mean
-<br/>(this from Scott, cut
-<br/>like a side of beef,
-<br/>six-pack belted like a holster to his pants)
-<br/>it&rsquo;s God&rsquo;s will, or nature&rsquo;s, and besides
-<br/>it&rsquo;s too much work, <br/></p><p>to which his father John, bigger, beer-
-<br/>gutted, bald scorch of a face, plops
-<br/>on our dock and says You
-<br/>got that right. At first we tried sprinkling
-<br/>chemicals around
-<br/>the darkening perimeter—to wit, <br/></p><p>
-
-copper sulfate penta-
-<br/>hydrate (CuSo4—5H2O),
-<br/>used variously as
-<br/>a micronized fungicide in pellets,
-<br/>a crystalline pesticide &ldquo;noted
-<br/>for acute toxicity in bees,&rdquo; <br/></p><p>and here, a powdery &ldquo;powerhouse algaecide&quot;—
-<br/>or in other words (this
-<br/>from John), fancy sun-block
-<br/>for the water. For weeks the bottom-
-<br/>black surface glowed
-<br/>eerily aquamarine, <br/></p><p>
-
-yet all that died were two fat grass carp,
-<br/>lazy from the slime
-<br/>they ate, who floated up
-<br/>like scaly logs to petrify. That&rsquo;s why
-<br/>I&rsquo;m waist-deep
-<br/>where my neighbors watch, rowing <br/></p><p>with a rake through a sludge of leaves,
-<br/>stirring algae in
-<br/>a cooking pot, dragging it
-<br/>through the muddy pool. Each time I pull a gob
-<br/>of slime and glop, dark
-<br/>as organs, toward shore, <br/></p><p>John yells out, encouraging, <i>that&rsquo;s</i> a good one,
-<br/>and I shove it on to Ann
-<br/>to rake up the bank
-<br/>where we&rsquo;ll haul it off some day.
-<br/>Don&rsquo;t just sit there
-<br/>in the willow shade, <br/></p><p>I ought to shout. Come on. Help us out.
-<br/>Or (this from Virgil, <br/>via
-Corydon), why not at least
-<br/>go about some needful task? But there&rsquo;s
-<br/>so much trouble
-<br/>in the world these days <br/></p><p>I&rsquo;ve been content to work in peace
-<br/>beside my wife, my life&rsquo;s
-<br/>surprising love,
-<br/>to keep the cardinals throbbing in our close cattails
-<br/>and frogs at home
-<br/>in a splash of breathable water. <br/></p><p>Each step stirs a slick
-<br/>of spreading ooze
-<br/>that follows
-<br/>orbital in my wake, a little nebula of oil
-<br/>and algae stars. And look,
-<br/>overhead the first real star <br/></p><p>has answered back: There&rsquo;s darkness
-<br/>on the way. We drag one more
-<br/>sloppy mass up the bank
-<br/>and see its dimming possibilities—
-<br/>tadpoles and minnows,
-shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
-<br/>throbbing in the grass,
-<br/>twisting to be loose, aglow
-<br/>against the color of the coming night. And there go
-<br/>John and Scott, down
-<br/>on their knees in the grass, <br/></p><p>untangling as many as they can to slip back
-<br/>to the black pond, before the sky
-<br/>turns black as well.
-<br/><i>There&rsquo;s smoke you can see from the neighbors&rsquo; chimney,
-<br/>and the shadows of the hills
-<br/>are lengthening as they fall.
-</i><br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/648554366987550720" target="_blank"><i>the lost baby poem</i></a></summary>
+<p>by Lucille Clifton</p><p>
+					
+					the time i dropped your almost body down
+down <br/>to meet the waters under the city
+<br/>and run one with the sewage to the sea
+<br/>what did i know about waters rushing back
+<br/>what did i know about drowning
+<br/>or being drowned
+<br/><br/>
+you would have been born into winter
+<br/>in the year of the disconnected gas
+<br/>and no car       we would have made the thin
+<br/>walk over genesee hill into the canada wind
+<br/>to watch you slip like ice into strangers’ hands
+<br/>you would have fallen naked as snow into winter
+<br/>if you were here i could tell you these
+<br/>and some other things
+<br/><br/>
+if i am ever less than a mountain
+<br/>for your definite brothers and sisters
+<br/>let the rivers pour over my head
+<br/>let the sea take me for a spiller
+<br/>of seas        let black men call me stranger
+<br/>always        for your never named sake
+				</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -335,10 +276,10 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.143.1251.1251a&#x2F;s640x640&#x2F;172140633_115397840655028_7733110127747152058_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;f1WHRWJ2ge8AX8tNcbc&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;e17ca2503fc0a5e3baf8db3af04c56ec&amp;oe&#x3D;609CCDAB&amp;_nc_sid&#x3D;7bff83" alt="-🇷🇺- 🥳 🥳🥳Бесплатные экскурсии для гостей и жителей  города проведут в честь официального открытия турсезона в Петербурге   Социальная акция, посвященная открытию летнего туристического сезона☀️, пройдет 🗓 1-2 мая под эгидой Комитета по развитию туризма Санкт-Петербурга.   ✅ 2 мая туроператоры проведут бесплатные пешеходные экскурсии в разных районах города.  🤩На сегодня участие подтвердили компании «Мир», «Дельта Невы», «Серебряное кольцо», «Арт Тревел», «Эклектика», «Кругозор Экспо Трэвл», «Тари Тур СПб», «Петротур», маркетплейс для музеев России Biletarium.  📍Запись на экскурсии будет проходить на visit-petersburg.ru и откроется в ближайшее время.  Следите за нашими обновлениями 📲  -🇺🇸- 🥳🥳🥳Free excursions for guests and residents of the city will be held to celebrate the official opening of the tourist season in St. Petersburg  😍A social event dedicated to the opening of the summer tourist season will take place on May 1-2 under the aegis of the Committee for the Tourism Development of St. Petersburg.  🗓On May 2, tour operators will conduct free walking tours in different parts of the city.  🔥To date, such companies as Mir, Delta Nevy, Serebryanoye Koltso, Art Travel, Eclectica, Krugozor Expo Travel, Tari Tour SPb, Petrotur, and the marketplace for Russian museums Biletarium have confirmed their participation.  📍Registration for the excursions will take place at visit-petersburg.ru and will open shortly.  Follow our news📲  📸 @violetta_photovideo   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.158.1263.1263a&#x2F;s640x640&#x2F;172132056_141817577882815_8145046990665837561_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;PlnaSpIZk3QAX_Ou6E4&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;50cdb5c09efd969ab957befade56be07&amp;oe&#x3D;609DF852&amp;_nc_sid&#x3D;7bff83" alt="Необычные природные явления в городе🙃  «Вымеобразные» облака или, как их еще называют метеорологи, мамматусы имеют специфическую ячеистую или сумчатую форму. Встречаются редко, преимущественно в тропических широтах, и связаны с образованием тропических циклонов. Ячейки обычно имеют размер около полукилометра, чаще всего резко очерчены, но бывают и с размытыми краями. Их цвет обычно серо-голубой, как и у основного облака. Сохраняются в небе от нескольких часов до нескольких минут  Rare natural phenomenon 📍Saint Petersburg  🇬🇧&amp;quot;Upright&amp;quot; clouds or, as they are also called by meteorologists, mammoths have a specific cellular or marsupial shape. They are rare, mainly in tropical latitudes, and are associated with the formation of tropical cyclones. The cells are usually about half a kilometer in size, most often sharply delineated, but sometimes with blurred edges. Their color is usually blue-gray, like the main cloud. They remain in the sky from several hours to several minutes  Thx for info and photo @petr.kosykh    #питер #спб #финскийзалив #пейзаж #природа #необычное #russia #landscape #nature #natgeoru" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c142.0.567.567a&#x2F;170724048_2941427002767258_6278203466821357986_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;Z2lg1T1FeI0AX_DcVCx&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;f2e3ab2bc56469241c6d2f3eb2f9a256&amp;oe&#x3D;609D0795&amp;_nc_sid&#x3D;7bff83" alt="WOW🔥Международный конкурс анимации🤩  читай условия ниже⤵️  🗓 2 мая в Петербурге впервые пройдёт международный фестиваль дронов и ты можешь принять в нем участие 💡   Создай проект рисунка и мы интегрируем его в шоу во время праздника🎨  📌Рисунок должен быть выполнен с учетом технических требований и отправлен на электронную почту drones.animation.spb@gmail.com.   📩В письме также нужно указать имя, фамилию, контактный телефон и город проживания  🗓Прием заявок продлится до 16 апреля включительно  Работы-победители будут определены 22 апреля🎉 путем зрительского голосования  ✅ Проголосовать за понравившийся рисунок можно будет на официальном туристском портале: visit-petersburg.ru📲  🥳 Шоу станет ярким финалом праздника «ОТКРЫТИЕ ТУРИСТИЧЕСКОГО СЕЗОНА» 🏁   Следите за новостями✌🏼  #visitpetersburg #spb #news #event #piter #travel #festival #tourism #кудасходитьвпитере #событияспб #местаспб #откройлето #ябылвспб2021 @russia.travel.official @doguzova_zv" />
-        <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c157.0.405.405a&#x2F;169591701_1095311484316509_6489485181901326573_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;ujiToY6HErQAX_lemt2&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;c0366d02861f5358a46cf40b14d9a281&amp;oe&#x3D;6079BDF4&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Do you miss warm summer days and leisurely walks in the shade of the trees? ☀️  🌸Soon this wonderful season will come back to Petersburg and leave only memories about the long cold winter of this year.   To make your waiting a little brighter we offer you to enjoy this inspiring video about the State museum “Pavlovsk” @pavlovsk_palace_and_park 😍  -🇷🇺- Соскучились по теплым летним денькам и неспешным прогулкам в тени деревьев?☀️  🌸Уже очень скоро в Петербург придёт эта чудесная пора, оставив лишь воспоминания о затянувшейся холодной зиме этого года.   🥰А чтобы скрасить Ваше ожидание – предлагаем насладиться вдохновляющим роликом от музея-заповедника Павловск.  📸 @pavlovsk_palace_and_park  #visitpetersburg #travel #tourism #trip #spring #museum #park #guide #video #top" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;172968937_232947801912097_4856078964183360705_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;EVafYMCLV_MAX-bpvvA&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;09049d9288e1e6924cf9f08c4cda3588&amp;oe&#x3D;609DBD90&amp;_nc_sid&#x3D;7bff83" alt="-🇺🇸- Modern realities provide us wonderful possibilities! 😍  What do you think about visiting Saint Petersburg without leaving your house? 📲  We have collected for you web-cameras with the best view at the most recognizable places of interest in our city. Visit our new section “City life” and take a walk around the city at any time 👀 Link in bio 🔝  -🇷🇺- 🥳 Современные реалии дарят нам чудесные возможности! Как Вам идея побывать в Санкт-Петербурге, не выходя из дома?📲  Мы собрали для Вас прямые трансляции с лучшими видами на самые узнаваемые места нашего города. Посетите наш новый раздел «Жизнь города» и гуляйте по Петербургу в любое время.   Ссылка в описании🔝  📸 @aekatrin_ph   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.143.1251.1251a&#x2F;s640x640&#x2F;172140633_115397840655028_7733110127747152058_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;f1WHRWJ2ge8AX_KEeHv&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;db8779346b46c34dbdee1598d0b8561f&amp;oe&#x3D;609CCDAB&amp;_nc_sid&#x3D;7bff83" alt="-🇷🇺- 🥳 🥳🥳Бесплатные экскурсии для гостей и жителей  города проведут в честь официального открытия турсезона в Петербурге   Социальная акция, посвященная открытию летнего туристического сезона☀️, пройдет 🗓 1-2 мая под эгидой Комитета по развитию туризма Санкт-Петербурга.   ✅ 2 мая туроператоры проведут бесплатные пешеходные экскурсии в разных районах города.  🤩На сегодня участие подтвердили компании «Мир», «Дельта Невы», «Серебряное кольцо», «Арт Тревел», «Эклектика», «Кругозор Экспо Трэвл», «Тари Тур СПб», «Петротур», маркетплейс для музеев России Biletarium.  📍Запись на экскурсии будет проходить на visit-petersburg.ru и откроется в ближайшее время.  Следите за нашими обновлениями 📲  -🇺🇸- 🥳🥳🥳Free excursions for guests and residents of the city will be held to celebrate the official opening of the tourist season in St. Petersburg  😍A social event dedicated to the opening of the summer tourist season will take place on May 1-2 under the aegis of the Committee for the Tourism Development of St. Petersburg.  🗓On May 2, tour operators will conduct free walking tours in different parts of the city.  🔥To date, such companies as Mir, Delta Nevy, Serebryanoye Koltso, Art Travel, Eclectica, Krugozor Expo Travel, Tari Tour SPb, Petrotur, and the marketplace for Russian museums Biletarium have confirmed their participation.  📍Registration for the excursions will take place at visit-petersburg.ru and will open shortly.  Follow our news📲  📸 @violetta_photovideo   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.158.1263.1263a&#x2F;s640x640&#x2F;172132056_141817577882815_8145046990665837561_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;MDfZLV0lPgEAX92qqYS&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;fd320f911303fb990b86800f69b3c96a&amp;oe&#x3D;609DF852&amp;_nc_sid&#x3D;7bff83" alt="Необычные природные явления в городе🙃  «Вымеобразные» облака или, как их еще называют метеорологи, мамматусы имеют специфическую ячеистую или сумчатую форму. Встречаются редко, преимущественно в тропических широтах, и связаны с образованием тропических циклонов. Ячейки обычно имеют размер около полукилометра, чаще всего резко очерчены, но бывают и с размытыми краями. Их цвет обычно серо-голубой, как и у основного облака. Сохраняются в небе от нескольких часов до нескольких минут  Rare natural phenomenon 📍Saint Petersburg  🇬🇧&amp;quot;Upright&amp;quot; clouds or, as they are also called by meteorologists, mammoths have a specific cellular or marsupial shape. They are rare, mainly in tropical latitudes, and are associated with the formation of tropical cyclones. The cells are usually about half a kilometer in size, most often sharply delineated, but sometimes with blurred edges. Their color is usually blue-gray, like the main cloud. They remain in the sky from several hours to several minutes  Thx for info and photo @petr.kosykh    #питер #спб #финскийзалив #пейзаж #природа #необычное #russia #landscape #nature #natgeoru" />
+        <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c142.0.567.567a&#x2F;170724048_2941427002767258_6278203466821357986_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;Z2lg1T1FeI0AX-H1Cyv&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;033f5ee14ac6f55705e743bc0e2023e3&amp;oe&#x3D;609D0795&amp;_nc_sid&#x3D;7bff83" alt="WOW🔥Международный конкурс анимации🤩  читай условия ниже⤵️  🗓 2 мая в Петербурге впервые пройдёт международный фестиваль дронов и ты можешь принять в нем участие 💡   Создай проект рисунка и мы интегрируем его в шоу во время праздника🎨  📌Рисунок должен быть выполнен с учетом технических требований и отправлен на электронную почту drones.animation.spb@gmail.com.   📩В письме также нужно указать имя, фамилию, контактный телефон и город проживания  🗓Прием заявок продлится до 16 апреля включительно  Работы-победители будут определены 22 апреля🎉 путем зрительского голосования  ✅ Проголосовать за понравившийся рисунок можно будет на официальном туристском портале: visit-petersburg.ru📲  🥳 Шоу станет ярким финалом праздника «ОТКРЫТИЕ ТУРИСТИЧЕСКОГО СЕЗОНА» 🏁   Следите за новостями✌🏼  #visitpetersburg #spb #news #event #piter #travel #festival #tourism #кудасходитьвпитере #событияспб #местаспб #откройлето #ябылвспб2021 @russia.travel.official @doguzova_zv" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -356,7 +297,7 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>clear sky</i>), humidity: 56%, pressure: 1029 (mbar), wind: /west/ 5 (m/s), cloudy: 0%</b>
+        <b>3°C (<i>clear sky</i>), humidity: 56%, pressure: 1028 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:39 am</b> and sets at <b>20:17 pm</b>.
     </p>
@@ -369,81 +310,82 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [New Photo Colorization AI Fixes Early Photography's Old Man Wrinkle Effect](https://www.reviewgeek.com/78029/new-photo-colorization-ai-fixes-early-photographys-old-man-wrinkle-effect/)
-* [Mazda's MX-30 Crossover EV Will Come to the U.S., Complete with Suicide Doors](https://www.reviewgeek.com/78020/mazdas-mx-30-crossover-ev-will-come-to-the-us-complete-with-suicide-doors/)
-* [Amazon's 2nd Gen Echo Buds Arrive with Improved ANC, Preorder Discount](https://www.reviewgeek.com/77996/amazons-2nd-gen-echo-buds-arrive-with-improved-anc-pre-order-discount/)
-* [The 5 Best Joy-Con Replacements for Nintendo Switch](https://www.reviewgeek.com/76068/the-5-best-joy-con-replacements-for-nintendo-switch/)
-* [Thinking About Solar Panels? Project Sunroof Maps Solar Panel Effectiveness](https://www.lifesavvy.com/66579/thinking-about-solar-panels-project-sunroof-maps-solar-panel-effectiveness/)
-* [IKEA Turned Its Famous Allen Wrench into a Flashlight and Table Lamp](https://www.reviewgeek.com/77997/ikea-turned-its-famous-allen-wrench-into-a-flashlight-and-table-lamp/)
-* [Dcbel's Charging Station Can Power Your Home from Your EV, Arrives in the U.S.](https://www.reviewgeek.com/77972/dcbels-charging-station-can-power-your-home-from-your-ev-arrives-in-the-u-s/)
-* [Google Assistant Can Now Find Your iPhone and Order Takeout](https://www.reviewgeek.com/77966/google-assistant-can-now-find-your-iphone-and-order-takeout/)
-* [TCL Shows Off Its Fold 'n Roll Concept for Future Phones](https://www.reviewgeek.com/77992/tcl-shows-off-its-fold-n-roll-concept-for-future-phones/)
-* [How to Turn off a Chromebook Screen When Connected to an External Display](https://www.howtogeek.com/695893/how-to-turn-off-a-chromebook-screen-when-connected-to-an-external-display/)
+* [The DJI Air 2S Picks Up an Upgraded Camera, Drops the "Mavic" Moniker](https://www.reviewgeek.com/78204/the-dji-air-2s-picks-up-an-upgraded-camera-drops-the-mavic-moniker/)
+* [Microsoft Edge Kids Mode Rolls Out with Painless Setup](https://www.reviewgeek.com/78167/microsoft-edge-kids-mode-rolls-out-with-painless-setup/)
+* [Experience Four Decades of Change with Google Earth's 3D Timelapse Feature](https://www.reviewgeek.com/78156/experience-four-decades-of-change-with-google-earths-3d-timelapse-feature/)
+* [Bang & Olufsen's New Book Speaker Is an Idea You'll Want to Shelve Immediately](https://www.reviewgeek.com/78168/bang-olufsens-new-book-speaker-is-an-idea-youll-want-to-shelve-immediately/)
+* [Gotta Catch 'Em All! (All This Pokémon Merch, That Is.)](https://www.lifesavvy.com/63487/gotta-catch-em-all-all-this-pokemon-merch-that-is/)
+* [The 7 Best Floating Shelf Kits to Modernize Your Home Office](https://www.reviewgeek.com/76420/the-7-best-floating-shelf-kits-to-modernize-your-home-office/)
+* [Windows 10 Timeline Will Stop Syncing Activities Between PCs](https://www.reviewgeek.com/78142/windows-10-timeline-will-stop-syncing-activities-between-pcs/)
+* [M1 Macs With Parallels Can Now Run Windows 10 ARM at "Native Speeds"](https://www.reviewgeek.com/78074/m1-macs-with-parallels-can-now-run-windows-10-arm-at-native-speeds/)
+* [How to Send Audio Messages with Google Assistant](https://www.howtogeek.com/721234/how-to-send-audio-messages-with-google-assistant/)
+* [What’s New in Chrome 90, Available Now](https://www.howtogeek.com/723444/whats-new-in-chrome-90-available-now/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Quotes Image Maker](https://quotescover.com)
-- [ClojuRust – Clojure in Rust](https://github.com/clojurust/clojurust)
-- [What Happens When You Have a Heart Attack on the Way to Mars?](https://science.slashdot.org/story/21/04/14/204248/what-happens-when-you-have-a-heart-attack-on-the-way-to-mars)
-- [Nigerian scammer gets 40 months in prison, ordered to pay back $2.7m to victims](https://www.theregister.com/2021/04/14/email_scammer_sentenced/)
-- [Brian Armstrong seeking cofounder on HN (2012)](https://news.ycombinator.com/item?id=3754664)
-- [Three mRNA vaccines researchers are working on (that aren’t Covid)](https://theconversation.com/3-mrna-vaccines-researchers-are-working-on-that-arent-covid-157858)
-- [So You Want to Compile Crystal on ARM64 (Apple M1)](https://www.maxfierke.com/blog/posts/so-you-want-to-compile-crystal-on-arm64-macos)
-- [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-- [If these brown dwarfs spun much faster they'd tear themselves apart](https://www.syfy.com/syfywire/if-these-brown-dwarfs-spun-much-faster-theyd-tear-themselves-apart)
-- [Banner Ads Considered Harmful](https://www.gwern.net/Ads)
+- [Integrating AI: Best Practices and Resources for Azure Cognitive Services](https://techcommunity.microsoft.com/t5/apps-on-azure/integrating-ai-best-practices-and-resources-to-get-started-with/ba-p/2271522)
+- [A Blockchain-Based System for Online Consumer Reviews](https://ieeexplore.ieee.org/document/8845186)
+- [Everything Wrong with VPNs [video]](https://www.youtube.com/watch?v=9_b8Z2kAFyY)
+- [Released: Docker Desktop for Mac [Apple Silicon]](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
+- [Open-source Java performance workshop](https://jvmperf.net/)
+- [New M1 Mac mini deals deliver prices as low as $645 (up to $110 off)](https://appleinsider.com/articles/21/04/15/new-m1-mac-mini-deals-deliver-prices-as-low-as-645-up-to-110-off)
+- [Are there any “light lift” drones you would recommend?](https://news.ycombinator.com/item?id=26828528)
+- [People will likely need a booster shot of Pfizer's vaccine within 12 months](https://www.businessinsider.com/pfizer-third-shot-likely-vaccine-booster-ceo-albert-bourla-2021-4)
+- [Weed Wrecks Your Vision, According to New Research](https://futurism.com/weed-wrecks-vision-research)
+- [Andrew Yang’s mayoral campaign is being run by a lobbying firm](https://www.cityandstateny.com/articles/politics/new-york-city/andrew-yangs-mayoral-campaign-being-run-lobbying-firm.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden set to sanction Russian officials over massive SolarWinds hack](https://www.theguardian.com/us-news/2021/apr/14/biden-set-to-sanction-russian-officials-over-massive-solarwinds-hack)
-- [David Cameron’s lobbying scandal](https://www.theguardian.com/news/audio/2021/apr/15/david-camerons-lobbying-scandal)
-- [Officer who fatally shot Daunte Wright charged with manslaughter](https://www.theguardian.com/us-news/2021/apr/14/daunte-wright-kimberly-potter-officer-charge-arrest)
-- [‘Cancel the Olympics’: fashion outcry as Canada brings back jean jackets for Tokyo](https://www.theguardian.com/sport/2021/apr/15/cancel-the-olympics-fashion-outcry-as-canada-brings-back-jean-jackets-for-tokyo)
-- [‘Can babies see ghosts?’ The best of Yahoo Answers](https://www.theguardian.com/technology/2021/apr/15/can-babies-see-ghosts-the-best-of-yahoo-answers)
-- [Twerking for a new Australian navy ship: the dancers who launched a thousand memes](https://www.theguardian.com/culture/2021/apr/14/twerking-among-top-brass-the-inappropriate-dance-routine-the-australian-navy-tried-to-hide)
-- [About 700,000 renters served with ‘no-fault’ eviction notices since start of pandemic](https://www.theguardian.com/money/2021/apr/14/about-700000-renters-served-with-no-fault-eviction-notices-since-start-of-pandemic)
-- [Johnson & Johnson vaccine use will remain paused in US amid evaluation](https://www.theguardian.com/world/2021/apr/14/johnson-johnson-vaccine-us-limbo-coronavirus)
-- [London universities attack ‘levelling down’ plans to cut funding](https://www.theguardian.com/education/2021/apr/15/london-universities-attack-levelling-down-plans-to-cut-funding)
-- [China ‘must shut 600 coal-fired plants’ to hit climate target](https://www.theguardian.com/world/2021/apr/15/china-must-shut-600-coal-fired-plants-to-hit-climate-target)
+- [Becoming Prince Philip: an interview with The Crown’s Tobias Menzies](https://www.theguardian.com/news/audio/2021/apr/16/becoming-prince-philip-an-interview-with-the-crowns-tobias-menzies)
+- [Australia news live: Scott Morrison says reopening international borders risks 1,000 Covid cases a week](https://www.theguardian.com/australia-news/live/2021/apr/16/australia-news-live-scott-morrison-says-reopening-international-borders-risks-1000-coronavirus-cases-a-week-covid-blood-clots-death-vaccine-rollout-queensland-nsw-mass-clinics-perth-astrazeneca-pfizer-afghanistan-troops)
+- [Beijing hit by third sandstorm in five weeks](https://www.theguardian.com/world/2021/apr/16/beijing-hit-by-third-sandstorm-in-just-over-a-month)
+- [Video appears to show Chicago police shooting Adam Toledo, 13, as he raised his hands](https://www.theguardian.com/us-news/2021/apr/15/chicago-police-shooting-adam-toledo-video-released)
+- [Covid booster shot could be needed after nine to 12 months, White House says](https://www.theguardian.com/world/2021/apr/15/covid-19-booster-vaccine-white-house)
+- [Workers in insecure jobs twice as likely to die of Covid, TUC research finds](https://www.theguardian.com/uk-news/2021/apr/16/workers-in-insecure-jobs-twice-as-likely-to-die-of-covid-tuc-research-finds)
+- [Premier League, FA Cup and EFL: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/apr/16/premier-league-fa-cup-and-efl-10-things-to-look-out-for-this-weekend)
+- [Graham Greene’s showdown with Soviet spy Kim Philby: A Splinter of Ice review](https://www.theguardian.com/stage/2021/apr/15/a-splinter-of-ice-review-kim-philby-graham-greene-soviet-spy)
+- [Mikel Arteta backs Arsenal’s players for taking knee before Slavia Prague win](https://www.theguardian.com/football/2021/apr/15/mikel-arteta-backs-arsenals-players-for-taking-knee-before-slavia-prague-win)
+- [Australian defence chief says war between China and Taiwan would be ‘disastrous’](https://www.theguardian.com/world/2021/apr/16/australian-defence-chief-says-war-between-china-and-taiwan-would-be-disastrous)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
-- [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
-- [I am Sophie Zhang, Facebook whistleblower. Ask me anything](https://old.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
-- [Effective altruism is not effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
-- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
-- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
-- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
-- [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
-- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
-- [Webamp: Winamp 2 in the browser](https://webamp.org/)
+- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
+- [Java Is Criminally Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
+- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
+- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
+- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
+- [DIY plastic recyclers: open-source machines for shredding plastic [audio]](https://www.bbc.co.uk/programmes/p09ddhz6)
+- [Show HN: The game where you test your offside decision-making skills against VAR](https://offsideornot.com/)
+- [Ethical anti-design, or designing products that people can't get addicted to](https://njms.ca/posts/ethical-anti-design.html)
+- [PHP in 2021](https://stitcher.io/blog/php-in-2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: What to expect at Apple's "Spring Loaded" event](https://www.computerworld.com/article/3615194/podcast-what-to-expect-at-apples-spring-loaded-event.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [With Parallels, Apple continues to make superior Windows PCs](https://www.computerworld.com/article/3615309/with-parallels-apple-continues-to-make-superior-windows-pcs.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [2 big questions to ask about Google and privacy](https://www.computerworld.com/article/3615169/google-privacy-questions.html#tk.rss_all)
 - [This $1,600 game development e-training bundle is just $40 today](https://www.computerworld.com/article/3614858/this-1-600-game-development-e-training-bundle-is-just-40-today.html#tk.rss_all)
 - [FAQ: Microsoft preps Windows Update for Business as go-to enterprise servicing tool](https://www.computerworld.com/article/3614784/faq-microsoft-preps-windows-update-for-business-as-go-to-enterprise-servicing-tool.html#tk.rss_all)
 - [OmniPlan 4 offers powerful project management for Mac, iPhone, iPad](https://www.computerworld.com/article/3614786/omniplan-4-offers-powerful-project-management-for-mac-iphone-ipad.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Apple and Google reject UK COVID-19 app](https://www.computerworld.com/article/3614699/apple-and-google-reject-uk-covid-19-app.html#tk.rss_all)
-- [The Microsoft-Nuance Deal: A new push for voice technology?](https://www.computerworld.com/article/3614712/the-microsoft-nuance-deal-a-new-push-for-voice-technology.html#tk.rss_all)
-- [5 hidden Pixel features for smarter calling](https://www.computerworld.com/article/3614863/pixel-features-smarter-calling.html#tk.rss_all)
-- [When online suites go down, we need options not on the cloud](https://www.computerworld.com/article/3614696/when-online-suites-go-down-we-need-options-not-on-the-cloud.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AWS Boosts Support for Girls in Tech's Inclusivity Efforts](https://www.informationweek.com/strategic-cio/aws-boosts-support-for-girls-in-techs-inclusivity-efforts/d/d-id/1340681?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [MassMutual CISO Talks Cybersecurity Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/massmutual-ciso-talks-cybersecurity-priorities/d/d-id/1340678?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Leaders Should Make Cloud Training a Top Priority](https://www.informationweek.com/cloud/why-it-leaders-should-make-cloud-training-a-top-priority/a/d-id/1340670?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Five Pillars of Resilience Engineering](https://www.informationweek.com/strategic-cio/enterprise-agility/the-five-pillars-of-resilience-engineering/a/d-id/1340623?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -453,42 +395,44 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 - [How Google Cloud Might Help the FinOps Foundation Evolve](https://www.informationweek.com/cloud/how-google-cloud-might-help-the-finops-foundation-evolve/d/d-id/1340636?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Cloud Attacks Have Taught Us About Hidden Compliance Costs](https://www.informationweek.com/cloud/what-cloud-attacks-have-taught-us-about-hidden-compliance-costs/a/d-id/1340614?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How The Pandemic Changed Data Analytics and BI in the Enterprise](https://www.informationweek.com/big-data/big-data-analytics/how-the-pandemic-changed-data-analytics-and-bi-in-the-enterprise/d/d-id/1340628?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Submit a Column to InformationWeek](https://www.informationweek.com/it-life/how-to-submit-a-column-to-informationweek/a/d-id/1340624?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google’s Logica language addresses SQL’s flaws](https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html#tk.rss_all)
+- [Deno 1.9 previews native HTTP/2 server](https://www.infoworld.com/article/3615288/deno-19-previews-native-http2-server.html#tk.rss_all)
+- [The COVID pandemic’s lasting impact on cloud usage](https://www.infoworld.com/article/3614809/the-covid-pandemics-lasting-impact-on-cloud-usage.html#tk.rss_all)
+- [Running microservices on Google Cloud Platform](https://www.infoworld.com/article/3614766/running-microservices-on-google-cloud-platform.html#tk.rss_all)
 - [Microsoft returns to Java with Azure-focused OpenJDK release](https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html#tk.rss_all)
 - [Ahana Cloud for Presto review: Fast SQL queries against data lakes](https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html#tk.rss_all)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_all)
 - [Moving cloud resources to an ‘edge cloud center’ near you](https://www.infoworld.com/article/3614931/moving-cloud-resources-to-an-edge-cloud-center-near-you.html#tk.rss_all)
 - [No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html#tk.rss_all)
 - [How to use Parallel.For and Parallel.ForEach in C#](https://www.infoworld.com/article/3614819/how-to-use-parallelfor-and-parallelforeach-in-csharp.html#tk.rss_all)
-- [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_all)
-- [Packing safety intelligence into robots’ AI brains](https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html#tk.rss_all)
-- [How to excel with data analytics](https://www.infoworld.com/article/3614708/how-to-excel-with-data-analytics.html#tk.rss_all)
-- [What the heck does the Google vs. Oracle decision mean?](https://www.infoworld.com/article/3614693/what-the-heck-does-the-google-vs-oracle-decision-mean.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Tesco reports online sales surge, advances digital platform](https://www.computerweekly.com/news/252499325/Tesco-reports-online-sales-surge-advances-digital-platform)
-- [FBI accesses ProxyLogon target servers to disrupt cyber criminals](https://www.computerweekly.com/news/252499316/FBI-accesses-ProxyLogon-target-servers-to-disrupt-cyber-criminals)
-- [Remote workers largely supportive of a UK right to disconnect](https://www.computerweekly.com/news/252499296/Remote-workers-largely-supportive-of-a-UK-right-to-disconnect)
-- [EU set to tilt AI balance in favour of citizen rights](https://www.computerweekly.com/news/252499305/EU-set-to-tilt-AI-balance-in-favour-of-citizen-rights)
-- [Cloud archiving: A perfect use case, but beware costs and egress issues](https://www.computerweekly.com/feature/Cloud-archiving-A-perfect-use-case-but-beware-costs-and-egress)
-- [NSA unearths more MS Exchange vulnerabilities](https://www.computerweekly.com/news/252499298/NSA-unearths-more-MS-Exchange-vulnerabilities)
-- [AET gets Ctera to smooth hybrid cloud access to big files](https://www.computerweekly.com/news/252499294/AET-gets-Ctera-to-smooth-hybrid-cloud-access-to-big-files)
-- [Europe provides growth for TCS despite year floored by pandemic](https://www.computerweekly.com/news/252499292/Europe-provides-growth-for-TCS-despite-year-floored-by-pandemic)
-- [Security Think Tank: Vaccine passports must be secure by design](https://www.computerweekly.com/opinion/Security-Think-Tank-Vaccine-passports-must-be-secure-by-design)
-- [MP told to ditch official email over hacking fears](https://www.computerweekly.com/news/252499250/MP-told-to-ditch-official-email-over-hacking-fears)
+- [Dutch accuse UK of ‘damaging confidence’ by disclosing details of EncroChat police collaboration](https://www.computerweekly.com/news/252499373/UK-accused-of-damaging-confidence-by-disclosing-EncroChat-collaboration)
+- [Uber ordered to reinstate six drivers fired by automated process](https://www.computerweekly.com/news/252499392/Uber-ordered-to-reinstate-six-drivers-fired-by-automated-process)
+- [Google launches multimillion-dollar cloud tech push to boost Covid-19 vaccine distribution](https://www.computerweekly.com/news/252499352/Google-launches-multimillion-dollar-cloud-tech-push-to-boost-Covid-19-vaccine-distribution)
+- [VMware CTO: The days of enterprises going ‘all-in’ on one public cloud provider ‘are dead’](https://www.computerweekly.com/news/252499391/VMware-CTO-The-days-of-enterprises-going-all-in-on-one-public-cloud-provider-are-dead)
+- [Biden sanctions Russia over SolarWinds cyber attacks](https://www.computerweekly.com/news/252499384/Biden-sanctions-Russia-over-SolarWinds-cyber-attacks)
+- [Dell spins off VMware to fuel post-pandemic PC growth opportunities](https://www.computerweekly.com/news/252499380/Dell-spins-off-VMware-to-fuel-post-pandemic-PC-growth-opportunities)
+- [Only government standing in the way of fair compensation for subpostmasters](https://www.computerweekly.com/news/252499377/Only-Government-standing-in-the-way-of-fair-compensation-for-subpostmasters)
+- [University of Hertfordshire is latest academic cyber attack victim](https://www.computerweekly.com/news/252499376/University-of-Hertfordshire-is-latest-academic-cyber-attack-victim)
+- [Microsoft is most impersonated brand in phishing attempts](https://www.computerweekly.com/news/252499362/Microsoft-is-most-impersonated-brand-in-phishing-attempts)
+- [Ireland’s DPC launches probe into Facebook leak](https://www.computerweekly.com/news/252499359/Irelands-DPC-launches-probe-into-Facebook-leak)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
+- [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
+- [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
 - [Need to choose my specialization track: Data Analytics or Network Management?](https://www.reddit.com/r/InformationTechnology/comments/mr4w4r/need_to_choose_my_specialization_track_data/)
 - [HDR Problem](https://www.reddit.com/r/InformationTechnology/comments/mr3a4d/hdr_problem/)
 - [What type of people do you usually see in IT?](https://www.reddit.com/r/InformationTechnology/comments/mqx56z/what_type_of_people_do_you_usually_see_in_it/)
@@ -496,24 +440,21 @@ shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
 - [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
 - [Hired! With Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/mqaia1/hired_with_google_it_support_professional_cert/)
 - [Do you think moving to Exchange Online is a good way to begin the journey to Office 365? What are some other factors to consider when making that decision?](https://www.reddit.com/r/InformationTechnology/comments/mq82pa/do_you_think_moving_to_exchange_online_is_a_good/)
-- [Becoming a repair technician](https://www.reddit.com/r/InformationTechnology/comments/mq4qhu/becoming_a_repair_technician/)
-- [Inquiry From a Student Attempting to Study Cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/mpvhey/inquiry_from_a_student_attempting_to_study/)
-- [Trying to SSH from Ubuntu VM to physical desktop - needs unknown password?](https://www.reddit.com/r/InformationTechnology/comments/mpsnzv/trying_to_ssh_from_ubuntu_vm_to_physical_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Three of Shopify’s top execs are leaving the company, CEO says](https://www.itworldcanada.com/article/three-of-shopifys-top-execs-announce-their-exit/446179)
+- [Hashtag Trending podcast goes French, catch the first episode this weekend](https://www.itworldcanada.com/article/hashtag-trending-podcast-goes-french-catch-the-first-episode-this-weekend/446135)
+- [Vulnerabilities in TCP/IP stack may affect millions of devices, warn researchers](https://www.itworldcanada.com/article/vulnerabilities-in-tcp-ip-stack-may-affect-millions-of-devices-warn-researchers/446081)
+- [TCL announces 20 Pro 5G, 20L+ and 20L smartphones](https://www.itworldcanada.com/article/tcl-announces-20-pro-5g-20l-and-20l-smartphones/446132)
+- [Telus and Quebec government announce $30 million internet expansion project](https://www.itworldcanada.com/article/telus-and-quebec-government-announce-30-million-internet-expansion-project/446116)
+- [Hashtag Trending, April 15, 2021 – DuckDuckGo blocks FLoC; NYT’s tech workers unionize; Virtual workspace craze](https://www.itworldcanada.com/article/hashtag-trending-april-15-2021-duckduckgo-blocks-floc-nyts-tech-workers-unionize-virtual-workspace-craze/446105)
 - [Canadian enterprise password manager adds secrets management](https://www.itworldcanada.com/article/canadian-enterprise-password-manager-adds-secrets-management/446034)
 - [First Identity Management Day reminds firms of best practices](https://www.itworldcanada.com/article/first-identity-management-day-reminds-firms-of-best-practices/445941)
 - [Cyber Security Today, April 14, 2021 – More bugs in Microsoft Exchange, cybersecurity training questioned, and Amazon bomb threat foiled.](https://www.itworldcanada.com/article/cyber-security-today-april-14-2021-more-bugs-in-microsoft-exchange-cybersecurity-training-questioned-and-amazon-bomb-threat-foiled/446076)
 - [Hashtag Trending, April 14, 2021 – Salesforce’s return to the office underway; US senator takes on big tech; Taco Bell store goes fully digital](https://www.itworldcanada.com/article/hashtag-trending-april-14-2021-salesforces-return-to-the-office-underway-us-senator-takes-on-big-tech-taco-bell-store-goes-fully-digital/446079)
-- [BlackBerry signs multi-year agreement with Shared Services Canada, forms new partnership with IBM](https://www.itworldcanada.com/article/blackberry-nabs-multi-year-agreement-with-shared-services-canada-forms-new-partnership-with-ibm/446055)
-- [Council of Canadian Innovators expands to Ontario, Alberta and B.C.](https://www.itworldcanada.com/article/council-of-canadian-innovators-expands-to-ontario-alberta-and-b-c/446038)
-- [Ryerson Catalyst adds SANS Institute cyber courses for infosec pros](https://www.itworldcanada.com/article/ryerson-catalyst-adds-sans-institute-cyber-courses-for-infosec-pros/445953)
-- [Dell launches Inspiron 16 Plus laptop](https://www.itworldcanada.com/article/dell-launches-inspiron-16-plus-laptop/446011)
-- [Hashtag Trending, April 13, 2021 – Microsoft acquires Nuance; Tim Cook talks to The Star; Nvidia’s new processor](https://www.itworldcanada.com/article/hashtag-trending-april-13-2021-microsoft-acquires-nuance-tim-cook-talks-to-the-star-nvidias-new-processor/445942)
-- [Russia, China are the most sophisticated cyberattackers targeting Canada, says parliamentary committee](https://www.itworldcanada.com/article/russia-china-are-the-most-sophisticated-cyberattackers-targeting-canada-says-parliamentary-committee/445938)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -241,91 +241,32 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648463755154489344" target="_blank"><i>Midwest Eclogue</i></a></summary>
-<p>by David Baker</p><p>
-We wade into a blackened pond to save
-<br/>the dying water.
-<br/>The water isn&rsquo;t dying
-<br/>—we know, we know—it&rsquo;s the fish and frogs
-<br/>starving, pushed out
-<br/>by subsurface growth. <br/></p><p>
-
-Still, that&rsquo;s how they put it to us,
-<br/>our new neighbors
-<br/>who&rsquo;ve come to watch
-<br/>their new neighbors
-<br/>cope with a stagnant, weedy,
-<br/>quarter-acre runoff swamp. <br/></p><p>They say, let it go, by which they mean
-<br/>(this from Scott, cut
-<br/>like a side of beef,
-<br/>six-pack belted like a holster to his pants)
-<br/>it&rsquo;s God&rsquo;s will, or nature&rsquo;s, and besides
-<br/>it&rsquo;s too much work, <br/></p><p>to which his father John, bigger, beer-
-<br/>gutted, bald scorch of a face, plops
-<br/>on our dock and says You
-<br/>got that right. At first we tried sprinkling
-<br/>chemicals around
-<br/>the darkening perimeter—to wit, <br/></p><p>
-
-copper sulfate penta-
-<br/>hydrate (CuSo4—5H2O),
-<br/>used variously as
-<br/>a micronized fungicide in pellets,
-<br/>a crystalline pesticide &ldquo;noted
-<br/>for acute toxicity in bees,&rdquo; <br/></p><p>and here, a powdery &ldquo;powerhouse algaecide&quot;—
-<br/>or in other words (this
-<br/>from John), fancy sun-block
-<br/>for the water. For weeks the bottom-
-<br/>black surface glowed
-<br/>eerily aquamarine, <br/></p><p>
-
-yet all that died were two fat grass carp,
-<br/>lazy from the slime
-<br/>they ate, who floated up
-<br/>like scaly logs to petrify. That&rsquo;s why
-<br/>I&rsquo;m waist-deep
-<br/>where my neighbors watch, rowing <br/></p><p>with a rake through a sludge of leaves,
-<br/>stirring algae in
-<br/>a cooking pot, dragging it
-<br/>through the muddy pool. Each time I pull a gob
-<br/>of slime and glop, dark
-<br/>as organs, toward shore, <br/></p><p>John yells out, encouraging, <i>that&rsquo;s</i> a good one,
-<br/>and I shove it on to Ann
-<br/>to rake up the bank
-<br/>where we&rsquo;ll haul it off some day.
-<br/>Don&rsquo;t just sit there
-<br/>in the willow shade, <br/></p><p>I ought to shout. Come on. Help us out.
-<br/>Or (this from Virgil, <br/>via
-Corydon), why not at least
-<br/>go about some needful task? But there&rsquo;s
-<br/>so much trouble
-<br/>in the world these days <br/></p><p>I&rsquo;ve been content to work in peace
-<br/>beside my wife, my life&rsquo;s
-<br/>surprising love,
-<br/>to keep the cardinals throbbing in our close cattails
-<br/>and frogs at home
-<br/>in a splash of breathable water. <br/></p><p>Each step stirs a slick
-<br/>of spreading ooze
-<br/>that follows
-<br/>orbital in my wake, a little nebula of oil
-<br/>and algae stars. And look,
-<br/>overhead the first real star <br/></p><p>has answered back: There&rsquo;s darkness
-<br/>on the way. We drag one more
-<br/>sloppy mass up the bank
-<br/>and see its dimming possibilities—
-<br/>tadpoles and minnows,
-shiny as coins, egg- <br/></p><p>clusters of sun perch, bluegill roe—
-<br/>throbbing in the grass,
-<br/>twisting to be loose, aglow
-<br/>against the color of the coming night. And there go
-<br/>John and Scott, down
-<br/>on their knees in the grass, <br/></p><p>untangling as many as they can to slip back
-<br/>to the black pond, before the sky
-<br/>turns black as well.
-<br/><i>There&rsquo;s smoke you can see from the neighbors&rsquo; chimney,
-<br/>and the shadows of the hills
-<br/>are lengthening as they fall.
-</i><br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/648554366987550720" target="_blank"><i>the lost baby poem</i></a></summary>
+<p>by Lucille Clifton</p><p>
+					
+					the time i dropped your almost body down
+down <br/>to meet the waters under the city
+<br/>and run one with the sewage to the sea
+<br/>what did i know about waters rushing back
+<br/>what did i know about drowning
+<br/>or being drowned
+<br/><br/>
+you would have been born into winter
+<br/>in the year of the disconnected gas
+<br/>and no car       we would have made the thin
+<br/>walk over genesee hill into the canada wind
+<br/>to watch you slip like ice into strangers’ hands
+<br/>you would have fallen naked as snow into winter
+<br/>if you were here i could tell you these
+<br/>and some other things
+<br/><br/>
+if i am ever less than a mountain
+<br/>for your definite brothers and sisters
+<br/>let the rivers pour over my head
+<br/>let the sea take me for a spiller
+<br/>of seas        let black men call me stranger
+<br/>always        for your never named sake
+				</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

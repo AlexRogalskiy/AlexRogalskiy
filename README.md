@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/K/kick_in_2292.php" target="_blank"><i>kick in</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_3/go_with_1749.php" target="_blank"><i>go with</i></a>
 <span> = </span>
-<span>If something kicks in, it starts to work or it starts to have an effect.</span>
+<span>If one thing goes with another, they look good together or seems to work well together.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

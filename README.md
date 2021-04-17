@@ -445,16 +445,16 @@ if i am ever less than a mountain
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week In Review for April 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-16-2021/446195)
+- [Leadership in the Digital Enterprise podcast: Tips from a Digital Trailblazer](https://www.itworldcanada.com/article/leadership-in-the-digital-enterprise-podcast-tips-from-a-digital-trailblazer/446210)
+- [VMware says Dell split means ‘increased freedom’](https://www.itworldcanada.com/article/vmware-says-dell-split-means-increased-freedom/446213)
+- [Want to make a bigger impact with cloud?  Do these five things](https://www.itworldcanada.com/article/want-to-make-a-bigger-impact-with-cloud-do-these-five-things/446204)
+- [Cyber Security Today, April 16, 2021 – The Russians are coming for these devices, how a games company was hacked and be careful with internet searches](https://www.itworldcanada.com/article/cyber-security-today-april-16-2021-the-russians-are-coming-for-these-devices-how-a-games-company-was-hacked-and-be-careful-with-internet-searches/446186)
+- [Hashtag Trending, April 16, 2021 – Shopify execs exit; U.S. sanctions on Russia over SolarWinds; Proposed EU legislation takes hard stances against AI](https://www.itworldcanada.com/article/hashtag-trending-april-16-2021-shopify-execs-exit-u-s-sanctions-on-russia-over-solarwinds-proposed-eu-legislation-takes-hard-stances-against-ai/446193)
 - [Three of Shopify’s top execs are leaving the company, CEO says](https://www.itworldcanada.com/article/three-of-shopifys-top-execs-announce-their-exit/446179)
 - [Hashtag Trending podcast goes French, catch the first episode this weekend](https://www.itworldcanada.com/article/hashtag-trending-podcast-goes-french-catch-the-first-episode-this-weekend/446135)
 - [Vulnerabilities in TCP/IP stack may affect millions of devices, warn researchers](https://www.itworldcanada.com/article/vulnerabilities-in-tcp-ip-stack-may-affect-millions-of-devices-warn-researchers/446081)
 - [TCL announces 20 Pro 5G, 20L+ and 20L smartphones](https://www.itworldcanada.com/article/tcl-announces-20-pro-5g-20l-and-20l-smartphones/446132)
-- [Telus and Quebec government announce $30 million internet expansion project](https://www.itworldcanada.com/article/telus-and-quebec-government-announce-30-million-internet-expansion-project/446116)
-- [Hashtag Trending, April 15, 2021 – DuckDuckGo blocks FLoC; NYT’s tech workers unionize; Virtual workspace craze](https://www.itworldcanada.com/article/hashtag-trending-april-15-2021-duckduckgo-blocks-floc-nyts-tech-workers-unionize-virtual-workspace-craze/446105)
-- [Canadian enterprise password manager adds secrets management](https://www.itworldcanada.com/article/canadian-enterprise-password-manager-adds-secrets-management/446034)
-- [First Identity Management Day reminds firms of best practices](https://www.itworldcanada.com/article/first-identity-management-day-reminds-firms-of-best-practices/445941)
-- [Cyber Security Today, April 14, 2021 – More bugs in Microsoft Exchange, cybersecurity training questioned, and Amazon bomb threat foiled.](https://www.itworldcanada.com/article/cyber-security-today-april-14-2021-more-bugs-in-microsoft-exchange-cybersecurity-training-questioned-and-amazon-bomb-threat-foiled/446076)
-- [Hashtag Trending, April 14, 2021 – Salesforce’s return to the office underway; US senator takes on big tech; Taco Bell store goes fully digital](https://www.itworldcanada.com/article/hashtag-trending-april-14-2021-salesforces-return-to-the-office-underway-us-senator-takes-on-big-tech-taco-bell-store-goes-fully-digital/446079)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

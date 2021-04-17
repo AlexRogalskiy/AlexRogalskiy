@@ -400,6 +400,8 @@ if i am ever less than a mountain
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin 1.5.0 stabilizes unsigned integer types](https://www.infoworld.com/article/3615548/kotlin-150-stabilizes-unsigned-integer-types.html#tk.rss_all)
+- [Pulling devops and multicloud together](https://www.infoworld.com/article/3615271/pulling-devops-and-multicloud-together.html#tk.rss_all)
 - [Google’s Logica language addresses SQL’s flaws](https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html#tk.rss_all)
 - [Deno 1.9 previews native HTTP/2 server](https://www.infoworld.com/article/3615288/deno-19-previews-native-http2-server.html#tk.rss_all)
 - [The COVID pandemic’s lasting impact on cloud usage](https://www.infoworld.com/article/3614809/the-covid-pandemics-lasting-impact-on-cloud-usage.html#tk.rss_all)
@@ -408,8 +410,6 @@ if i am ever less than a mountain
 - [Ahana Cloud for Presto review: Fast SQL queries against data lakes](https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html#tk.rss_all)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_all)
 - [Moving cloud resources to an ‘edge cloud center’ near you](https://www.infoworld.com/article/3614931/moving-cloud-resources-to-an-edge-cloud-center-near-you.html#tk.rss_all)
-- [No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html#tk.rss_all)
-- [How to use Parallel.For and Parallel.ForEach in C#](https://www.infoworld.com/article/3614819/how-to-use-parallelfor-and-parallelforeach-in-csharp.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

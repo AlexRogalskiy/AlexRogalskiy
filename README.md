@@ -325,16 +325,16 @@ if i am ever less than a mountain
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Integrating AI: Best Practices and Resources for Azure Cognitive Services](https://techcommunity.microsoft.com/t5/apps-on-azure/integrating-ai-best-practices-and-resources-to-get-started-with/ba-p/2271522)
-- [A Blockchain-Based System for Online Consumer Reviews](https://ieeexplore.ieee.org/document/8845186)
-- [Everything Wrong with VPNs [video]](https://www.youtube.com/watch?v=9_b8Z2kAFyY)
-- [Released: Docker Desktop for Mac [Apple Silicon]](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
-- [Open-source Java performance workshop](https://jvmperf.net/)
-- [New M1 Mac mini deals deliver prices as low as $645 (up to $110 off)](https://appleinsider.com/articles/21/04/15/new-m1-mac-mini-deals-deliver-prices-as-low-as-645-up-to-110-off)
-- [Are there any “light lift” drones you would recommend?](https://news.ycombinator.com/item?id=26828528)
-- [People will likely need a booster shot of Pfizer's vaccine within 12 months](https://www.businessinsider.com/pfizer-third-shot-likely-vaccine-booster-ceo-albert-bourla-2021-4)
-- [Weed Wrecks Your Vision, According to New Research](https://futurism.com/weed-wrecks-vision-research)
-- [Andrew Yang’s mayoral campaign is being run by a lobbying firm](https://www.cityandstateny.com/articles/politics/new-york-city/andrew-yangs-mayoral-campaign-being-run-lobbying-firm.html)
+- [You Are Rolling Your Own Crypto](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/)
+- [Ask HN: What's Your Workout Routine?](https://news.ycombinator.com/item?id=26841070)
+- [How the U.S. Could Halve Climate Emissions by 2030](https://www.npr.org/2021/04/16/987667828/how-the-u-s-could-halve-climate-emissions-by-2030)
+- [A Kidnapping Gone Wrong](https://www.theatlantic.com/magazine/archive/2021/05/john-patterson-kidnapping-mexico/618396/)
+- [Fools Are Going to Get Us All Killed](https://www.gnxp.com/WordPress/2021/04/13/verwoerds-revenge/)
+- [Misinformation about Permissions Policy and FLoC](https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html)
+- [To Buffalo with Love](https://www.buffalorising.com/2021/04/to-buffalo-with-love/)
+- [Backdoored developer tool that stole credentials escaped notice for 3 months](https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/)
+- [Simple, open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com/)
+- [Amazon Tried to Coerce Ecobee into Collecting Private User Data, the WSJ Reports](https://yro.slashdot.org/story/21/04/16/0023255/amazon-tried-to-coerce-ecobee-into-collecting-private-user-data-the-wsj-reports)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

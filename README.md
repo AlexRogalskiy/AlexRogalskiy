@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Money/cook_the_books_cook_the_accounts_276.php" target="_blank"><i>cook the books | cook the accounts</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Numbers/dressed_up_to_the_nines_277.php" target="_blank"><i>dressed (up) to the nines</i></a>
 <span> = </span>
-<span>If someone cooks the books, or cooks the accounts, they keep inaccurate accounts for a business, usually in order to pay less tax.</span>
+<span>If you are dressed to the nines, or dressed up to the nines, you are wearing very smart clothes for a special occasion.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

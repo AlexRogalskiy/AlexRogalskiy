@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_3/go_with_1749.php" target="_blank"><i>go with</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/drop_off_3__2413.php" target="_blank"><i>drop off (3)</i></a>
 <span> = </span>
-<span>If one thing goes with another, they look good together or seems to work well together.</span>
+<span>to become fewer in number or less in amount or intensity</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -310,16 +310,16 @@ if i am ever less than a mountain
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [The DJI Air 2S Picks Up an Upgraded Camera, Drops the "Mavic" Moniker](https://www.reviewgeek.com/78204/the-dji-air-2s-picks-up-an-upgraded-camera-drops-the-mavic-moniker/)
-* [Microsoft Edge Kids Mode Rolls Out with Painless Setup](https://www.reviewgeek.com/78167/microsoft-edge-kids-mode-rolls-out-with-painless-setup/)
-* [Experience Four Decades of Change with Google Earth's 3D Timelapse Feature](https://www.reviewgeek.com/78156/experience-four-decades-of-change-with-google-earths-3d-timelapse-feature/)
-* [Bang & Olufsen's New Book Speaker Is an Idea You'll Want to Shelve Immediately](https://www.reviewgeek.com/78168/bang-olufsens-new-book-speaker-is-an-idea-youll-want-to-shelve-immediately/)
-* [Gotta Catch 'Em All! (All This Pokémon Merch, That Is.)](https://www.lifesavvy.com/63487/gotta-catch-em-all-all-this-pokemon-merch-that-is/)
-* [The 7 Best Floating Shelf Kits to Modernize Your Home Office](https://www.reviewgeek.com/76420/the-7-best-floating-shelf-kits-to-modernize-your-home-office/)
-* [Windows 10 Timeline Will Stop Syncing Activities Between PCs](https://www.reviewgeek.com/78142/windows-10-timeline-will-stop-syncing-activities-between-pcs/)
-* [M1 Macs With Parallels Can Now Run Windows 10 ARM at "Native Speeds"](https://www.reviewgeek.com/78074/m1-macs-with-parallels-can-now-run-windows-10-arm-at-native-speeds/)
-* [How to Send Audio Messages with Google Assistant](https://www.howtogeek.com/721234/how-to-send-audio-messages-with-google-assistant/)
-* [What’s New in Chrome 90, Available Now](https://www.howtogeek.com/723444/whats-new-in-chrome-90-available-now/)
+* [Google Will Wait a Bit Longer Before Publishing Zero Day Vulnerability Details](https://www.reviewgeek.com/78348/google-will-wait-a-bit-longer-before-publishing-zero-day-vulnerability-details/)
+* [You Can Try to Buy LG's New Rollable TV, But You Probably Can't Afford It](https://www.reviewgeek.com/78325/you-can-try-to-buy-lgs-new-rollable-tv-but-you-probably-cant-afford-it/)
+* [Project CHIP, the Universal Smart Home Standard, May Launch Devices This Year](https://www.reviewgeek.com/78307/project-chip-the-universal-smart-home-standard-may-launch-devices-this-year/)
+* [Segway Makes Futuristic Hydrogen-Powered Motorcycles Now, Because Why Not](https://www.reviewgeek.com/78301/segway-makes-futuristic-hydrogen-powered-motorcycles-now-because-why-not/)
+* [The 4 Best Wi-Fi Range Extenders](https://www.reviewgeek.com/75581/the-best-wi-fi-extenders/)
+* [[Update: Live Now] LEGO Opens Pre-Orders for 8 New 'Harry Potter' Sets](https://www.reviewgeek.com/78309/lego-opens-pre-orders-for-8-new-harry-potter-sets/)
+* [Fitbit May Release a High-End "Luxe" Fitness Tracker](https://www.reviewgeek.com/78277/fitbit-may-release-a-high-end-luxe-fitness-tracker/)
+* [What Are “Stories,” and Why Does Every Social Network Have Them?](https://www.howtogeek.com/722354/what-are-stories-and-why-does-every-social-network-have-them/)
+* [How to Transform Your Backyard Firepit into a Wood-Fired Grill](https://www.lifesavvy.com/64909/how-to-transform-your-backyard-firepit-into-a-wood-fired-grill/)
+* [How to Use the LinkedIn Resume Assistant in Microsoft Word](https://www.howtogeek.com/721816/how-to-use-the-linkedin-resume-assistant-in-microsoft-word/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

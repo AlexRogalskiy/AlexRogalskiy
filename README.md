@@ -430,6 +430,8 @@ if i am ever less than a mountain
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Media Player Suggestions?](https://www.reddit.com/r/InformationTechnology/comments/ms6msv/media_player_suggestions/)
+- [In house TV station](https://www.reddit.com/r/InformationTechnology/comments/ms4iq4/in_house_tv_station/)
 - [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
 - [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
 - [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
@@ -438,8 +440,6 @@ if i am ever less than a mountain
 - [What type of people do you usually see in IT?](https://www.reddit.com/r/InformationTechnology/comments/mqx56z/what_type_of_people_do_you_usually_see_in_it/)
 - [Save a screen from unauthorised acces?](https://www.reddit.com/r/InformationTechnology/comments/mqmc5a/save_a_screen_from_unauthorised_acces/)
 - [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
-- [Hired! With Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/mqaia1/hired_with_google_it_support_professional_cert/)
-- [Do you think moving to Exchange Online is a good way to begin the journey to Office 365? What are some other factors to consider when making that decision?](https://www.reddit.com/r/InformationTechnology/comments/mq82pa/do_you_think_moving_to_exchange_online_is_a_good/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

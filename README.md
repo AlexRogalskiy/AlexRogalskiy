@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/I/itch_1424.php" target="_blank"><i>itch</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/H/hare-brained_1419.php" target="_blank"><i>hare-brained</i></a>
 <span> = </span>
-<span>a strong desire to do something (n.) | to have a strong desire to do something (v.)</span>
+<span>stupid, foolish (of an idea or a plan) <BR></span>
 </div>
 <!--views:slang-rss-marker:end-->
 

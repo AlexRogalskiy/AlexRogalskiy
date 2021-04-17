@@ -340,16 +340,16 @@ if i am ever less than a mountain
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Becoming Prince Philip: an interview with The Crown’s Tobias Menzies](https://www.theguardian.com/news/audio/2021/apr/16/becoming-prince-philip-an-interview-with-the-crowns-tobias-menzies)
-- [Australia news live: Scott Morrison says reopening international borders risks 1,000 Covid cases a week](https://www.theguardian.com/australia-news/live/2021/apr/16/australia-news-live-scott-morrison-says-reopening-international-borders-risks-1000-coronavirus-cases-a-week-covid-blood-clots-death-vaccine-rollout-queensland-nsw-mass-clinics-perth-astrazeneca-pfizer-afghanistan-troops)
-- [Beijing hit by third sandstorm in five weeks](https://www.theguardian.com/world/2021/apr/16/beijing-hit-by-third-sandstorm-in-just-over-a-month)
-- [Video appears to show Chicago police shooting Adam Toledo, 13, as he raised his hands](https://www.theguardian.com/us-news/2021/apr/15/chicago-police-shooting-adam-toledo-video-released)
-- [Covid booster shot could be needed after nine to 12 months, White House says](https://www.theguardian.com/world/2021/apr/15/covid-19-booster-vaccine-white-house)
-- [Workers in insecure jobs twice as likely to die of Covid, TUC research finds](https://www.theguardian.com/uk-news/2021/apr/16/workers-in-insecure-jobs-twice-as-likely-to-die-of-covid-tuc-research-finds)
-- [Premier League, FA Cup and EFL: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/apr/16/premier-league-fa-cup-and-efl-10-things-to-look-out-for-this-weekend)
-- [Graham Greene’s showdown with Soviet spy Kim Philby: A Splinter of Ice review](https://www.theguardian.com/stage/2021/apr/15/a-splinter-of-ice-review-kim-philby-graham-greene-soviet-spy)
-- [Mikel Arteta backs Arsenal’s players for taking knee before Slavia Prague win](https://www.theguardian.com/football/2021/apr/15/mikel-arteta-backs-arsenals-players-for-taking-knee-before-slavia-prague-win)
-- [Australian defence chief says war between China and Taiwan would be ‘disastrous’](https://www.theguardian.com/world/2021/apr/16/australian-defence-chief-says-war-between-china-and-taiwan-would-be-disastrous)
+- [Protests after Portland police fatally shoot man in city park](https://www.theguardian.com/us-news/2021/apr/16/portland-police-shooting-park)
+- [Australia dingo attack: toddler airlifted to hospital after being bitten on Fraser Island](https://www.theguardian.com/australia-news/2021/apr/17/australia-dingo-attack-toddler-airlifted-to-hospital-after-being-bitten-on-fraser-island)
+- [Roger Stone ‘funded lavish lifestyle’ despite owing $2m in taxes, US lawsuit says](https://www.theguardian.com/us-news/2021/apr/17/roger-stone-funded-lavish-lifestyle-despite-owing-2m-in-taxes-us-lawsuit-says)
+- [Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific](https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific)
+- [Far-right Oath Keepers member is first suspect to plead guilty in US Capitol riot](https://www.theguardian.com/us-news/2021/apr/16/us-capitol-riot-far-right-oath-keepers-guilty)
+- [Judge rejects Ghislaine Maxwell’s bid to dismiss charges that she recruited girls](https://www.theguardian.com/us-news/2021/apr/16/ghislaine-maxwell-judge-rejects-bid-to-dismiss-charges)
+- [Tottenham face anxious wait on Harry Kane’s fitness for Carabao Cup final](https://www.theguardian.com/football/2021/apr/16/tottenham-face-anxious-wait-on-harry-kanes-fitness-for-carabao-cup-final)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/16/20-photographs-of-the-week)
+- [Being Philip: The Crown’s Tobias Menzies on the ‘forces warring within the duke’](https://www.theguardian.com/tv-and-radio/2021/apr/16/being-philip-the-crowns-tobias-menzies-on-the-forces-warring-within-the-duke)
+- [Ontario gives police sweeping powers as Covid crisis spirals out of control](https://www.theguardian.com/world/2021/apr/16/ontario-coronavirus-police-powers-covid-canada)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

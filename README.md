@@ -355,16 +355,16 @@ if i am ever less than a mountain
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
-- [Java Is Criminally Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
-- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
-- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
-- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
-- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
-- [DIY plastic recyclers: open-source machines for shredding plastic [audio]](https://www.bbc.co.uk/programmes/p09ddhz6)
-- [Show HN: The game where you test your offside decision-making skills against VAR](https://offsideornot.com/)
-- [Ethical anti-design, or designing products that people can't get addicted to](https://njms.ca/posts/ethical-anti-design.html)
-- [PHP in 2021](https://stitcher.io/blog/php-in-2021)
+- [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
+- [Foundations of Complexity Economics](https://www.nature.com/articles/s42254-020-00273-3)
+- [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+- [Architecture of a desktop-like SPA](https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa)
+- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
+- [Standard Notes is a safe place for your notes, thoughts, and life's work](https://standardnotes.org)
+- [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
+- [Collection of Quotes on Notation Design](https://github.com/hypotext/notation)
+- [What I Wish I Knew About U2F and Other Hardware MFA Protocols](https://goteleport.com/blog/u2f-lessons-learned/)
+- [Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age](https://pubmed.ncbi.nlm.nih.gov/26629551/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

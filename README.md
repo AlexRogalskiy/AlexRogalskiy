@@ -415,16 +415,16 @@ if i am ever less than a mountain
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [SAP users identify data skills shortage as importance of analytics spikes](https://www.computerweekly.com/news/252499430/SAP-users-identify-data-skills-shortage-as-importance-of-analytics-spikes)
+- [The Secret IR Insider’s Diary – from Sunburst to DarkSide](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-from-Sunburst-to-DarkSide)
+- [Finnish government strengthens country’s IT network security](https://www.computerweekly.com/news/252499429/Finnish-government-strengthens-countrys-IT-network-security)
+- [Post Office’s full and final settlement with Horizon scandal victims in plain English](https://www.computerweekly.com/opinion/Post-Offices-full-and-final-settlement-with-Horizon-scandal-victims-in-plain-English)
 - [Dutch accuse UK of ‘damaging confidence’ by disclosing details of EncroChat police collaboration](https://www.computerweekly.com/news/252499373/UK-accused-of-damaging-confidence-by-disclosing-EncroChat-collaboration)
 - [Uber ordered to reinstate six drivers fired by automated process](https://www.computerweekly.com/news/252499392/Uber-ordered-to-reinstate-six-drivers-fired-by-automated-process)
 - [Google launches multimillion-dollar cloud tech push to boost Covid-19 vaccine distribution](https://www.computerweekly.com/news/252499352/Google-launches-multimillion-dollar-cloud-tech-push-to-boost-Covid-19-vaccine-distribution)
 - [VMware CTO: The days of enterprises going ‘all-in’ on one public cloud provider ‘are dead’](https://www.computerweekly.com/news/252499391/VMware-CTO-The-days-of-enterprises-going-all-in-on-one-public-cloud-provider-are-dead)
 - [Biden sanctions Russia over SolarWinds cyber attacks](https://www.computerweekly.com/news/252499384/Biden-sanctions-Russia-over-SolarWinds-cyber-attacks)
 - [Dell spins off VMware to fuel post-pandemic PC growth opportunities](https://www.computerweekly.com/news/252499380/Dell-spins-off-VMware-to-fuel-post-pandemic-PC-growth-opportunities)
-- [Only government standing in the way of fair compensation for subpostmasters](https://www.computerweekly.com/news/252499377/Only-Government-standing-in-the-way-of-fair-compensation-for-subpostmasters)
-- [University of Hertfordshire is latest academic cyber attack victim](https://www.computerweekly.com/news/252499376/University-of-Hertfordshire-is-latest-academic-cyber-attack-victim)
-- [Microsoft is most impersonated brand in phishing attempts](https://www.computerweekly.com/news/252499362/Microsoft-is-most-impersonated-brand-in-phishing-attempts)
-- [Ireland’s DPC launches probe into Facebook leak](https://www.computerweekly.com/news/252499359/Irelands-DPC-launches-probe-into-Facebook-leak)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

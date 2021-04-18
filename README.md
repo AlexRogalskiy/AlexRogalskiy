@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/drop_off_3__2413.php" target="_blank"><i>drop off (3)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/V/vie_for_1703.php" target="_blank"><i>vie for</i></a>
 <span> = </span>
-<span>to become fewer in number or less in amount or intensity</span>
+<span>If you vie for something, you compete with others to get it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

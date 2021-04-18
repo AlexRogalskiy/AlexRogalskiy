@@ -334,16 +334,16 @@ and offered a steaming cup of coffee.<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You Are Rolling Your Own Crypto](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/)
-- [Ask HN: What's Your Workout Routine?](https://news.ycombinator.com/item?id=26841070)
-- [How the U.S. Could Halve Climate Emissions by 2030](https://www.npr.org/2021/04/16/987667828/how-the-u-s-could-halve-climate-emissions-by-2030)
-- [A Kidnapping Gone Wrong](https://www.theatlantic.com/magazine/archive/2021/05/john-patterson-kidnapping-mexico/618396/)
-- [Fools Are Going to Get Us All Killed](https://www.gnxp.com/WordPress/2021/04/13/verwoerds-revenge/)
-- [Misinformation about Permissions Policy and FLoC](https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html)
-- [To Buffalo with Love](https://www.buffalorising.com/2021/04/to-buffalo-with-love/)
-- [Backdoored developer tool that stole credentials escaped notice for 3 months](https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/)
-- [Simple, open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com/)
-- [Amazon Tried to Coerce Ecobee into Collecting Private User Data, the WSJ Reports](https://yro.slashdot.org/story/21/04/16/0023255/amazon-tried-to-coerce-ecobee-into-collecting-private-user-data-the-wsj-reports)
+- [CarPlay App Programming Guide [pdf]](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf)
+- [Own the Internet. Buy a Piece of the Internet in Latam](https://news.ycombinator.com/item?id=26849239)
+- [Show HN: Use NFTs to unlock access to videos, downloads, or blogs](https://www.mintgate.app/)
+- [Loop Alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/)
+- [Show HN: Pixel Physics](https://victorribeiro.com/pixelPhysics/)
+- [Ask HN: Advice for a developer leading their first major project](https://news.ycombinator.com/item?id=26849168)
+- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
+- [Show HN: A python-requests wrapper with retry attempts and backoff delays](https://github.com/PatrickMurray/RequestsStampede)
+- [How do you stay safe on the internet?](https://handmade.network/forums/t/7750-how_do_you_stay_safe_on_the_internet)
+- [Founder of Adobe and developer of PDFs dies at age 81](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

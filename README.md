@@ -349,16 +349,16 @@ and offered a steaming cup of coffee.<br/></p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Protests after Portland police fatally shoot man in city park](https://www.theguardian.com/us-news/2021/apr/16/portland-police-shooting-park)
-- [Australia dingo attack: toddler airlifted to hospital after being bitten on Fraser Island](https://www.theguardian.com/australia-news/2021/apr/17/australia-dingo-attack-toddler-airlifted-to-hospital-after-being-bitten-on-fraser-island)
-- [Roger Stone ‘funded lavish lifestyle’ despite owing $2m in taxes, US lawsuit says](https://www.theguardian.com/us-news/2021/apr/17/roger-stone-funded-lavish-lifestyle-despite-owing-2m-in-taxes-us-lawsuit-says)
-- [Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific](https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific)
-- [Far-right Oath Keepers member is first suspect to plead guilty in US Capitol riot](https://www.theguardian.com/us-news/2021/apr/16/us-capitol-riot-far-right-oath-keepers-guilty)
-- [Judge rejects Ghislaine Maxwell’s bid to dismiss charges that she recruited girls](https://www.theguardian.com/us-news/2021/apr/16/ghislaine-maxwell-judge-rejects-bid-to-dismiss-charges)
-- [Tottenham face anxious wait on Harry Kane’s fitness for Carabao Cup final](https://www.theguardian.com/football/2021/apr/16/tottenham-face-anxious-wait-on-harry-kanes-fitness-for-carabao-cup-final)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/16/20-photographs-of-the-week)
-- [Being Philip: The Crown’s Tobias Menzies on the ‘forces warring within the duke’](https://www.theguardian.com/tv-and-radio/2021/apr/16/being-philip-the-crowns-tobias-menzies-on-the-forces-warring-within-the-duke)
-- [Ontario gives police sweeping powers as Covid crisis spirals out of control](https://www.theguardian.com/world/2021/apr/16/ontario-coronavirus-police-powers-covid-canada)
+- [Man charged with murder after double shooting and manhunt in Queensland](https://www.theguardian.com/australia-news/2021/apr/18/man-charged-with-after-double-shooting-and-manhunt-in-queensland)
+- [US and China commit to cooperating on climate crisis](https://www.theguardian.com/environment/2021/apr/18/us-and-china-commit-to-cooperating-on-climate-crisis)
+- [US orders non-essential personnel out of Chad over fears of rebel attacks on capital](https://www.theguardian.com/world/2021/apr/18/us-orders-non-essential-personnel-out-of-chad-over-fears-of-rebel-attacks-on-capital)
+- [Protests erupt in US cities over police violence as riot declared in Portland](https://www.theguardian.com/us-news/2021/apr/17/us-police-violence-protests-portland-riot)
+- [Jailed Putin critic Alexei Navalny could die at any minute, doctors warn](https://www.theguardian.com/world/2021/apr/18/jailed-putin-critic-alexei-navalny-could-die-at-any-minute-doctors-warn)
+- [Serco brazens out Covid calamity as the profits roll in](https://www.theguardian.com/business/2021/apr/18/serco-brazens-out-covid-calamity-as-the-profits-roll-in)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get into gingham: alfresco-friendly looks – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/get-into-gingham-alfresco-friendly-looks-in-pictures)
+- [Messi stars as Barcelona thrash Athletic Bilbao to lift Copa del Rey](https://www.theguardian.com/football/2021/apr/17/messi-stars-as-barcelona-thrash-athletic-bilbao-to-lift-copa-del-rey)
+- [Ronnie O’Sullivan through but rattled by encounter with ‘boozed-up’ fan](https://www.theguardian.com/sport/2021/apr/17/ronnie-osullivan-through-but-rattled-by-encounter-with-boozed-up-fan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

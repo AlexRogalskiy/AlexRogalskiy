@@ -439,16 +439,16 @@ and offered a steaming cup of coffee.<br/></p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there such a thing as remote IT management services for small organizations/businesses?](https://www.reddit.com/r/InformationTechnology/comments/mt23e3/is_there_such_a_thing_as_remote_it_management/)
+- [Job help what should I do next?](https://www.reddit.com/r/InformationTechnology/comments/msr5by/job_help_what_should_i_do_next/)
+- [90%+ of Help/Service Desk staff will be laid off in the next 24 months...](https://www.reddit.com/r/InformationTechnology/comments/msmep3/90_of_helpservice_desk_staff_will_be_laid_off_in/)
+- [Heatsink for ryzen 7 3700x](https://www.reddit.com/r/InformationTechnology/comments/mslhh7/heatsink_for_ryzen_7_3700x/)
+- [Lenovo yoga 2 won't find 5ghz wifi](https://www.reddit.com/r/InformationTechnology/comments/msjyej/lenovo_yoga_2_wont_find_5ghz_wifi/)
 - [Media Player Suggestions?](https://www.reddit.com/r/InformationTechnology/comments/ms6msv/media_player_suggestions/)
 - [In house TV station](https://www.reddit.com/r/InformationTechnology/comments/ms4iq4/in_house_tv_station/)
 - [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
 - [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
 - [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
-- [Need to choose my specialization track: Data Analytics or Network Management?](https://www.reddit.com/r/InformationTechnology/comments/mr4w4r/need_to_choose_my_specialization_track_data/)
-- [HDR Problem](https://www.reddit.com/r/InformationTechnology/comments/mr3a4d/hdr_problem/)
-- [What type of people do you usually see in IT?](https://www.reddit.com/r/InformationTechnology/comments/mqx56z/what_type_of_people_do_you_usually_see_in_it/)
-- [Save a screen from unauthorised acces?](https://www.reddit.com/r/InformationTechnology/comments/mqmc5a/save_a_screen_from_unauthorised_acces/)
-- [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

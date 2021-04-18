@@ -241,41 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/648644952285396992" target="_blank"><i>The Happiest Day</i></a></summary>
-<p>by Linda Pastan</p><p>It was early May, I think<br/>
-a moment of lilac or dogwood<br/>
-when so many promises are made<br/>
-it hardly matters if a few are broken.<br/>
-My mother and father still hovered<br/>
-in the background, part of the scenery<br/>
-like the houses I had grown up in,<br/>
-and if they would be torn down later<br/>
-that was something I knew<br/>
-but didn’t believe. Our children were asleep<br/>
-or playing, the youngest as new<br/>
-as the new smell of the lilacs,<br/>
-and how could I have guessed<br/>
-their roots were shallow<br/>
-and would be easily transplanted.<br/>
-I didn’t even guess that I was happy.<br/>
-The small irritations that are like salt<br/>
-on melon were what I dwelt on,<br/>
-though in truth they simply<br/>
-made the fruit taste sweeter.<br/>
-So we sat on the porch<br/>
-in the cool morning, sipping<br/>
-hot coffee. Behind the news of the day—<br/>
-strikes and small wars, a fire somewhere—<br/>
-I could see the top of your dark head<br/>
-and thought not of public conflagrations<br/>
-but of how it would feel on my bare shoulder.<br/>
-If someone could stop the camera then…<br/>
-if someone could only stop the camera<br/>
-and ask me: are you happy?<br/>
-Perhaps I would have noticed<br/>
-how the morning shone in the reflected<br/>
-color of lilac. Yes, I might have said<br/>
-and offered a steaming cup of coffee.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/648735560427601920" target="_blank"><i>I Have Not Had One Word from Her</i></a></summary>
+<p>by Sappho</p><p>I have not had one word from her<br/><br/>Frankly I wish I were dead.<br/>When she left, she wept<br/><br/>a great deal; she said to<br/>me, “This parting must be<br/>endured, Sappho. I go unwillingly.”<br/><br/>I said, “Go, and be happy <br/>but remember (you know<br/>well) whom you leave shackled by love<br/><br/>If you forget me, think <br/>of our gifts to Aphrodite <br/>and all the loveliness that we shared <br/><br/>all the violet tiaras, <br/>braided rosebuds, dill and <br/>crocus twined around your young neck <br/><br/>myrrh poured on your head <br/>and on soft mats girls with<br/>all that they most wished for beside them <br/><br/>while no voices chanted<br/>choruses without ours, <br/>no woodlot bloomed in spring without song …”</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

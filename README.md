@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Patience/Everything_comes_to_him_who_waits_906.php" target="_blank"><i>Everything comes to him who waits</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/Empty_vessels_make_the_most_noise_531.php" target="_blank"><i>Empty vessels make the most noise</i></a>
 <span> = </span>
-<span>Patient people eventually receive all things.</span>
+<span>Stupid people speak loudest.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

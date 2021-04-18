@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>clear sky</i>), humidity: 39%, pressure: 1029 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
+        <b>4°C (<i>clear sky</i>), humidity: 52%, pressure: 1029 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:33 am</b> and sets at <b>20:22 pm</b>.
     </p>
@@ -286,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Will Wait a Bit Longer Before Publishing Zero Day Vulnerability Details](https://www.reviewgeek.com/78348/google-will-wait-a-bit-longer-before-publishing-zero-day-vulnerability-details/)
-* [You Can Try to Buy LG's New Rollable TV, But You Probably Can't Afford It](https://www.reviewgeek.com/78325/you-can-try-to-buy-lgs-new-rollable-tv-but-you-probably-cant-afford-it/)
-* [Project CHIP, the Universal Smart Home Standard, May Launch Devices This Year](https://www.reviewgeek.com/78307/project-chip-the-universal-smart-home-standard-may-launch-devices-this-year/)
-* [Segway Makes Futuristic Hydrogen-Powered Motorcycles Now, Because Why Not](https://www.reviewgeek.com/78301/segway-makes-futuristic-hydrogen-powered-motorcycles-now-because-why-not/)
-* [The 4 Best Wi-Fi Range Extenders](https://www.reviewgeek.com/75581/the-best-wi-fi-extenders/)
-* [[Update: Live Now] LEGO Opens Pre-Orders for 8 New 'Harry Potter' Sets](https://www.reviewgeek.com/78309/lego-opens-pre-orders-for-8-new-harry-potter-sets/)
-* [Fitbit May Release a High-End "Luxe" Fitness Tracker](https://www.reviewgeek.com/78277/fitbit-may-release-a-high-end-luxe-fitness-tracker/)
-* [What Are “Stories,” and Why Does Every Social Network Have Them?](https://www.howtogeek.com/722354/what-are-stories-and-why-does-every-social-network-have-them/)
-* [How to Transform Your Backyard Firepit into a Wood-Fired Grill](https://www.lifesavvy.com/64909/how-to-transform-your-backyard-firepit-into-a-wood-fired-grill/)
-* [How to Use the LinkedIn Resume Assistant in Microsoft Word](https://www.howtogeek.com/721816/how-to-use-the-linkedin-resume-assistant-in-microsoft-word/)
+* [Scientists Created Haunting Music From Spiderwebs](https://www.reviewgeek.com/78386/scientists-created-haunting-music-from-spiderwebs/)
+* [Pentagon Verifies UFO Video Ahead of Congressional Hearing](https://www.reviewgeek.com/78360/pentagon-verifies-ufo-video-ahead-of-congressional-hearing/)
+* [What Is DeX, Samsung’s Desktop Mode?](https://www.howtogeek.com/713957/what-is-dex-samsungs-desktop-mode/)
+* [How to Disable Link Previews and See URL Addresses in Safari on iPhone](https://www.howtogeek.com/719052/how-to-disable-link-previews-and-see-url-addresses-in-safari-on-iphone/)
+* [How to Mute Your PS5’s Audio Using a DualSense Controller](https://www.howtogeek.com/719875/how-to-mute-your-ps5s-audio-using-a-dualsense-controller/)
+* [How to Buy Movie Tickets Using Google Assistant](https://www.howtogeek.com/723387/how-to-buy-movie-tickets-using-google-assistant/)
+* [How to Automatically Open Articles in Safari’s Reader View](https://www.howtogeek.com/720354/how-to-automatically-open-articles-in-safaris-reader-view/)
+* [How to Set up and Use Kids Mode in Microsoft Edge](https://www.howtogeek.com/723585/how-to-set-up-and-use-kids-mode-in-microsoft-edge/)
+* [New Robots Could Use Synthetic Bat Ears to Pinpoint Sound Sources 🦇](https://www.reviewgeek.com/78323/new-robots-could-use-synthetic-bat-ears-to-pinpoint-sound-sources-%f0%9f%a6%87/)
+* [How to Reset a ProtonMail Password](https://www.howtogeek.com/721057/how-to-reset-a-protonmail-password/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You Are Rolling Your Own Crypto](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/)
-- [Ask HN: What's Your Workout Routine?](https://news.ycombinator.com/item?id=26841070)
-- [How the U.S. Could Halve Climate Emissions by 2030](https://www.npr.org/2021/04/16/987667828/how-the-u-s-could-halve-climate-emissions-by-2030)
-- [A Kidnapping Gone Wrong](https://www.theatlantic.com/magazine/archive/2021/05/john-patterson-kidnapping-mexico/618396/)
-- [Fools Are Going to Get Us All Killed](https://www.gnxp.com/WordPress/2021/04/13/verwoerds-revenge/)
-- [Misinformation about Permissions Policy and FLoC](https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html)
-- [To Buffalo with Love](https://www.buffalorising.com/2021/04/to-buffalo-with-love/)
-- [Backdoored developer tool that stole credentials escaped notice for 3 months](https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/)
-- [Simple, open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com/)
-- [Amazon Tried to Coerce Ecobee into Collecting Private User Data, the WSJ Reports](https://yro.slashdot.org/story/21/04/16/0023255/amazon-tried-to-coerce-ecobee-into-collecting-private-user-data-the-wsj-reports)
+- [CarPlay App Programming Guide [pdf]](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf)
+- [Own the Internet. Buy a Piece of the Internet in Latam](https://news.ycombinator.com/item?id=26849239)
+- [Show HN: Use NFTs to unlock access to videos, downloads, or blogs](https://www.mintgate.app/)
+- [Loop Alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/)
+- [Show HN: Pixel Physics](https://victorribeiro.com/pixelPhysics/)
+- [Ask HN: Advice for a developer leading their first major project](https://news.ycombinator.com/item?id=26849168)
+- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
+- [Show HN: A python-requests wrapper with retry attempts and backoff delays](https://github.com/PatrickMurray/RequestsStampede)
+- [How do you stay safe on the internet?](https://handmade.network/forums/t/7750-how_do_you_stay_safe_on_the_internet)
+- [Founder of Adobe and developer of PDFs dies at age 81](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Protests after Portland police fatally shoot man in city park](https://www.theguardian.com/us-news/2021/apr/16/portland-police-shooting-park)
-- [Australia dingo attack: toddler airlifted to hospital after being bitten on Fraser Island](https://www.theguardian.com/australia-news/2021/apr/17/australia-dingo-attack-toddler-airlifted-to-hospital-after-being-bitten-on-fraser-island)
-- [Roger Stone ‘funded lavish lifestyle’ despite owing $2m in taxes, US lawsuit says](https://www.theguardian.com/us-news/2021/apr/17/roger-stone-funded-lavish-lifestyle-despite-owing-2m-in-taxes-us-lawsuit-says)
-- [Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific](https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific)
-- [Far-right Oath Keepers member is first suspect to plead guilty in US Capitol riot](https://www.theguardian.com/us-news/2021/apr/16/us-capitol-riot-far-right-oath-keepers-guilty)
-- [Judge rejects Ghislaine Maxwell’s bid to dismiss charges that she recruited girls](https://www.theguardian.com/us-news/2021/apr/16/ghislaine-maxwell-judge-rejects-bid-to-dismiss-charges)
-- [Tottenham face anxious wait on Harry Kane’s fitness for Carabao Cup final](https://www.theguardian.com/football/2021/apr/16/tottenham-face-anxious-wait-on-harry-kanes-fitness-for-carabao-cup-final)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/16/20-photographs-of-the-week)
-- [Being Philip: The Crown’s Tobias Menzies on the ‘forces warring within the duke’](https://www.theguardian.com/tv-and-radio/2021/apr/16/being-philip-the-crowns-tobias-menzies-on-the-forces-warring-within-the-duke)
-- [Ontario gives police sweeping powers as Covid crisis spirals out of control](https://www.theguardian.com/world/2021/apr/16/ontario-coronavirus-police-powers-covid-canada)
+- [Man charged with murder after double shooting and manhunt in Queensland](https://www.theguardian.com/australia-news/2021/apr/18/man-charged-with-after-double-shooting-and-manhunt-in-queensland)
+- [US and China commit to cooperating on climate crisis](https://www.theguardian.com/environment/2021/apr/18/us-and-china-commit-to-cooperating-on-climate-crisis)
+- [US orders non-essential personnel out of Chad over fears of rebel attacks on capital](https://www.theguardian.com/world/2021/apr/18/us-orders-non-essential-personnel-out-of-chad-over-fears-of-rebel-attacks-on-capital)
+- [Protests erupt in US cities over police violence as riot declared in Portland](https://www.theguardian.com/us-news/2021/apr/17/us-police-violence-protests-portland-riot)
+- [Jailed Putin critic Alexei Navalny could die at any minute, doctors warn](https://www.theguardian.com/world/2021/apr/18/jailed-putin-critic-alexei-navalny-could-die-at-any-minute-doctors-warn)
+- [Serco brazens out Covid calamity as the profits roll in](https://www.theguardian.com/business/2021/apr/18/serco-brazens-out-covid-calamity-as-the-profits-roll-in)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get into gingham: alfresco-friendly looks – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/get-into-gingham-alfresco-friendly-looks-in-pictures)
+- [Messi stars as Barcelona thrash Athletic Bilbao to lift Copa del Rey](https://www.theguardian.com/football/2021/apr/17/messi-stars-as-barcelona-thrash-athletic-bilbao-to-lift-copa-del-rey)
+- [Ronnie O’Sullivan through but rattled by encounter with ‘boozed-up’ fan](https://www.theguardian.com/sport/2021/apr/17/ronnie-osullivan-through-but-rattled-by-encounter-with-boozed-up-fan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
-- [Foundations of Complexity Economics](https://www.nature.com/articles/s42254-020-00273-3)
-- [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
-- [Architecture of a desktop-like SPA](https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa)
-- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
-- [Standard Notes is a safe place for your notes, thoughts, and life's work](https://standardnotes.org)
-- [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
-- [Collection of Quotes on Notation Design](https://github.com/hypotext/notation)
-- [What I Wish I Knew About U2F and Other Hardware MFA Protocols](https://goteleport.com/blog/u2f-lessons-learned/)
-- [Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age](https://pubmed.ncbi.nlm.nih.gov/26629551/)
+- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
+- [A Potato Battery Can Light Up a Room for over a Month](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
+- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
+- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
+- [Google used ‘double-Irish’ to shift $75.4B in profits out of Ireland](https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519)
+- [GitHub reinstated youtube-dl but restoring forks is apparently a problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
+- [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
+- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
+- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there such a thing as remote IT management services for small organizations/businesses?](https://www.reddit.com/r/InformationTechnology/comments/mt23e3/is_there_such_a_thing_as_remote_it_management/)
+- [Job help what should I do next?](https://www.reddit.com/r/InformationTechnology/comments/msr5by/job_help_what_should_i_do_next/)
+- [90%+ of Help/Service Desk staff will be laid off in the next 24 months...](https://www.reddit.com/r/InformationTechnology/comments/msmep3/90_of_helpservice_desk_staff_will_be_laid_off_in/)
+- [Heatsink for ryzen 7 3700x](https://www.reddit.com/r/InformationTechnology/comments/mslhh7/heatsink_for_ryzen_7_3700x/)
+- [Lenovo yoga 2 won't find 5ghz wifi](https://www.reddit.com/r/InformationTechnology/comments/msjyej/lenovo_yoga_2_wont_find_5ghz_wifi/)
 - [Media Player Suggestions?](https://www.reddit.com/r/InformationTechnology/comments/ms6msv/media_player_suggestions/)
 - [In house TV station](https://www.reddit.com/r/InformationTechnology/comments/ms4iq4/in_house_tv_station/)
 - [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
 - [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
 - [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
-- [Need to choose my specialization track: Data Analytics or Network Management?](https://www.reddit.com/r/InformationTechnology/comments/mr4w4r/need_to_choose_my_specialization_track_data/)
-- [HDR Problem](https://www.reddit.com/r/InformationTechnology/comments/mr3a4d/hdr_problem/)
-- [What type of people do you usually see in IT?](https://www.reddit.com/r/InformationTechnology/comments/mqx56z/what_type_of_people_do_you_usually_see_in_it/)
-- [Save a screen from unauthorised acces?](https://www.reddit.com/r/InformationTechnology/comments/mqmc5a/save_a_screen_from_unauthorised_acces/)
-- [Compromised computer](https://www.reddit.com/r/InformationTechnology/comments/mqgvwh/compromised_computer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

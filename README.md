@@ -319,16 +319,16 @@ and offered a steaming cup of coffee.<br/></p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Will Wait a Bit Longer Before Publishing Zero Day Vulnerability Details](https://www.reviewgeek.com/78348/google-will-wait-a-bit-longer-before-publishing-zero-day-vulnerability-details/)
-* [You Can Try to Buy LG's New Rollable TV, But You Probably Can't Afford It](https://www.reviewgeek.com/78325/you-can-try-to-buy-lgs-new-rollable-tv-but-you-probably-cant-afford-it/)
-* [Project CHIP, the Universal Smart Home Standard, May Launch Devices This Year](https://www.reviewgeek.com/78307/project-chip-the-universal-smart-home-standard-may-launch-devices-this-year/)
-* [Segway Makes Futuristic Hydrogen-Powered Motorcycles Now, Because Why Not](https://www.reviewgeek.com/78301/segway-makes-futuristic-hydrogen-powered-motorcycles-now-because-why-not/)
-* [The 4 Best Wi-Fi Range Extenders](https://www.reviewgeek.com/75581/the-best-wi-fi-extenders/)
-* [[Update: Live Now] LEGO Opens Pre-Orders for 8 New 'Harry Potter' Sets](https://www.reviewgeek.com/78309/lego-opens-pre-orders-for-8-new-harry-potter-sets/)
-* [Fitbit May Release a High-End "Luxe" Fitness Tracker](https://www.reviewgeek.com/78277/fitbit-may-release-a-high-end-luxe-fitness-tracker/)
-* [What Are “Stories,” and Why Does Every Social Network Have Them?](https://www.howtogeek.com/722354/what-are-stories-and-why-does-every-social-network-have-them/)
-* [How to Transform Your Backyard Firepit into a Wood-Fired Grill](https://www.lifesavvy.com/64909/how-to-transform-your-backyard-firepit-into-a-wood-fired-grill/)
-* [How to Use the LinkedIn Resume Assistant in Microsoft Word](https://www.howtogeek.com/721816/how-to-use-the-linkedin-resume-assistant-in-microsoft-word/)
+* [Scientists Created Haunting Music From Spiderwebs](https://www.reviewgeek.com/78386/scientists-created-haunting-music-from-spiderwebs/)
+* [Pentagon Verifies UFO Video Ahead of Congressional Hearing](https://www.reviewgeek.com/78360/pentagon-verifies-ufo-video-ahead-of-congressional-hearing/)
+* [What Is DeX, Samsung’s Desktop Mode?](https://www.howtogeek.com/713957/what-is-dex-samsungs-desktop-mode/)
+* [How to Disable Link Previews and See URL Addresses in Safari on iPhone](https://www.howtogeek.com/719052/how-to-disable-link-previews-and-see-url-addresses-in-safari-on-iphone/)
+* [How to Mute Your PS5’s Audio Using a DualSense Controller](https://www.howtogeek.com/719875/how-to-mute-your-ps5s-audio-using-a-dualsense-controller/)
+* [How to Buy Movie Tickets Using Google Assistant](https://www.howtogeek.com/723387/how-to-buy-movie-tickets-using-google-assistant/)
+* [How to Automatically Open Articles in Safari’s Reader View](https://www.howtogeek.com/720354/how-to-automatically-open-articles-in-safaris-reader-view/)
+* [How to Set up and Use Kids Mode in Microsoft Edge](https://www.howtogeek.com/723585/how-to-set-up-and-use-kids-mode-in-microsoft-edge/)
+* [New Robots Could Use Synthetic Bat Ears to Pinpoint Sound Sources 🦇](https://www.reviewgeek.com/78323/new-robots-could-use-synthetic-bat-ears-to-pinpoint-sound-sources-%f0%9f%a6%87/)
+* [How to Reset a ProtonMail Password](https://www.howtogeek.com/721057/how-to-reset-a-protonmail-password/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -364,16 +364,16 @@ and offered a steaming cup of coffee.<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
-- [Foundations of Complexity Economics](https://www.nature.com/articles/s42254-020-00273-3)
-- [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
-- [Architecture of a desktop-like SPA](https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa)
-- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
-- [Standard Notes is a safe place for your notes, thoughts, and life's work](https://standardnotes.org)
-- [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
-- [Collection of Quotes on Notation Design](https://github.com/hypotext/notation)
-- [What I Wish I Knew About U2F and Other Hardware MFA Protocols](https://goteleport.com/blog/u2f-lessons-learned/)
-- [Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age](https://pubmed.ncbi.nlm.nih.gov/26629551/)
+- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
+- [A Potato Battery Can Light Up a Room for over a Month](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
+- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
+- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
+- [Google used ‘double-Irish’ to shift $75.4B in profits out of Ireland](https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519)
+- [GitHub reinstated youtube-dl but restoring forks is apparently a problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
+- [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
+- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
+- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

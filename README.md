@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/H/hare-brained_1419.php" target="_blank"><i>hare-brained</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/ice_2__771.php" target="_blank"><i>ice (2)</i></a>
 <span> = </span>
-<span>stupid, foolish (of an idea or a plan) <BR></span>
+<span>to kill someone</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

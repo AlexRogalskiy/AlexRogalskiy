@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CarPlay App Programming Guide [pdf]](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf)
-- [Own the Internet. Buy a Piece of the Internet in Latam](https://news.ycombinator.com/item?id=26849239)
-- [Show HN: Use NFTs to unlock access to videos, downloads, or blogs](https://www.mintgate.app/)
-- [Loop Alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/)
-- [Show HN: Pixel Physics](https://victorribeiro.com/pixelPhysics/)
-- [Ask HN: Advice for a developer leading their first major project](https://news.ycombinator.com/item?id=26849168)
-- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
-- [Show HN: A python-requests wrapper with retry attempts and backoff delays](https://github.com/PatrickMurray/RequestsStampede)
-- [How do you stay safe on the internet?](https://handmade.network/forums/t/7750-how_do_you_stay_safe_on_the_internet)
-- [Founder of Adobe and developer of PDFs dies at age 81](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
+- [China and Huawei's Dystopian 'New IP' Plan for 6G](https://tech.slashdot.org/story/21/04/17/2041239/china-and-huaweis-dystopian-new-ip-plan-for-6g)
+- [Grumman TBM Avenger Making Emergency Water Landing at Cocoa Beach Air Show](https://theaviationist.com/2021/04/18/check-out-this-dramatic-video-of-a-tbm-avenger-ditching-yesterday-at-cocoa-beach-airshow/)
+- [Questionable Advice: “What Should I Say in My Exit Interview?”](https://charity.wtf/2021/04/16/questionable-advice-what-should-i-say-in-my-exit-interview/)
+- [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)
+- [Ask HN: Do I need a DR plan in AWS?](https://news.ycombinator.com/item?id=26858534)
+- [Canada’s top court could be asked to rule if US safe for refugees](https://www.aljazeera.com/news/2021/4/17/canada-top-court-could-be-asked-to-rule-if-us-safe-for-refugees)
+- [GraphCDN](https://graphcdn.io/)
+- [When American Record Companies Hated Japan](https://thebulwark.com/when-american-record-companies-hated-japan/)
+- [The mRNA Vaccines Are Looking Better and Better](https://www.theatlantic.com/health/archive/2021/04/mrna-vaccines-johnson-blood-clots/618594/)
+- [Gnome 40 – The anti-desktop desktop](https://www.dedoimedo.com/computers/gnome-40.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

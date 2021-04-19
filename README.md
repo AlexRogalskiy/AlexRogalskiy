@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man charged with murder after double shooting and manhunt in Queensland](https://www.theguardian.com/australia-news/2021/apr/18/man-charged-with-after-double-shooting-and-manhunt-in-queensland)
-- [US and China commit to cooperating on climate crisis](https://www.theguardian.com/environment/2021/apr/18/us-and-china-commit-to-cooperating-on-climate-crisis)
-- [US orders non-essential personnel out of Chad over fears of rebel attacks on capital](https://www.theguardian.com/world/2021/apr/18/us-orders-non-essential-personnel-out-of-chad-over-fears-of-rebel-attacks-on-capital)
-- [Protests erupt in US cities over police violence as riot declared in Portland](https://www.theguardian.com/us-news/2021/apr/17/us-police-violence-protests-portland-riot)
-- [Jailed Putin critic Alexei Navalny could die at any minute, doctors warn](https://www.theguardian.com/world/2021/apr/18/jailed-putin-critic-alexei-navalny-could-die-at-any-minute-doctors-warn)
-- [Serco brazens out Covid calamity as the profits roll in](https://www.theguardian.com/business/2021/apr/18/serco-brazens-out-covid-calamity-as-the-profits-roll-in)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get into gingham: alfresco-friendly looks – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/get-into-gingham-alfresco-friendly-looks-in-pictures)
-- [Messi stars as Barcelona thrash Athletic Bilbao to lift Copa del Rey](https://www.theguardian.com/football/2021/apr/17/messi-stars-as-barcelona-thrash-athletic-bilbao-to-lift-copa-del-rey)
-- [Ronnie O’Sullivan through but rattled by encounter with ‘boozed-up’ fan](https://www.theguardian.com/sport/2021/apr/17/ronnie-osullivan-through-but-rattled-by-encounter-with-boozed-up-fan)
+- [Did ‘eat out to help out’ cost lives? – podcast](https://www.theguardian.com/news/audio/2021/apr/19/did-eat-out-to-help-out-cost-lives)
+- [Mars helicopter Ingenuity: Nasa about to try historic flight](https://www.theguardian.com/science/2021/apr/19/mars-helicopter-ingenuity-nasa-about-to-try-historic-flight)
+- [Explainer: how will the new European Super League work?](https://www.theguardian.com/football/2021/apr/19/explainer-how-will-the-new-european-super-league-work)
+- [Two die in Tesla car crash in Texas with ‘no one’ in driver’s seat, police say](https://www.theguardian.com/technology/2021/apr/19/two-die-in-tesla-crash-no-one-in-drivers-seat-police)
+- [European Super League: how did the clubs get to this point?](https://www.theguardian.com/football/2021/apr/19/european-super-league-clubs-uefa-champions-league)
+- [Facebook encryption plans will hit fight against child abuse, warns Patel](https://www.theguardian.com/society/2021/apr/19/priti-patel-says-tech-companies-have-moral-duty-to-safeguard-children)
+- [Trial to study effect of immune system on Covid reinfection](https://www.theguardian.com/science/2021/apr/19/trial-to-study-effect-of-immune-system-on-covid-reinfection)
+- [UK house prices surge as high demand meets record shortage of homes for sale](https://www.theguardian.com/business/2021/apr/19/uk-house-prices-surge-as-high-demand-meets-record-shortage-of-homes-for-sale)
+- [UK must level up but there is no ‘one size fits all’ answer, says head of CBI](https://www.theguardian.com/business/2021/apr/19/uk-must-level-up-but-there-is-no-one-size-fits-all-answer-says-head-of-cbi)
+- [NHS targets middle-aged men with online diabetes risk quiz](https://www.theguardian.com/society/2021/apr/19/nhs-targets-middle-aged-men-with-online-diabetes-risk-quiz)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

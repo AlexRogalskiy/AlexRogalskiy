@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Government puts Facebook under pressure to stop end-to-end encryption over child abuse risks](https://www.computerweekly.com/news/252499496/Government-puts-Facebook-under-pressure-to-stop-end-to-end-encryption)
 - [SAP users identify data skills shortage as importance of analytics spikes](https://www.computerweekly.com/news/252499430/SAP-users-identify-data-skills-shortage-as-importance-of-analytics-spikes)
 - [The Secret IR Insider’s Diary – from Sunburst to DarkSide](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-from-Sunburst-to-DarkSide)
 - [Finnish government strengthens country’s IT network security](https://www.computerweekly.com/news/252499429/Finnish-government-strengthens-countrys-IT-network-security)
@@ -400,7 +401,6 @@
 - [Google launches multimillion-dollar cloud tech push to boost Covid-19 vaccine distribution](https://www.computerweekly.com/news/252499352/Google-launches-multimillion-dollar-cloud-tech-push-to-boost-Covid-19-vaccine-distribution)
 - [VMware CTO: The days of enterprises going ‘all-in’ on one public cloud provider ‘are dead’](https://www.computerweekly.com/news/252499391/VMware-CTO-The-days-of-enterprises-going-all-in-on-one-public-cloud-provider-are-dead)
 - [Biden sanctions Russia over SolarWinds cyber attacks](https://www.computerweekly.com/news/252499384/Biden-sanctions-Russia-over-SolarWinds-cyber-attacks)
-- [Dell spins off VMware to fuel post-pandemic PC growth opportunities](https://www.computerweekly.com/news/252499380/Dell-spins-off-VMware-to-fuel-post-pandemic-PC-growth-opportunities)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>clear sky</i>), humidity: 57%, pressure: 1029 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
+        <b>4°C (<i>clear sky</i>), humidity: 61%, pressure: 1029 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:30 am</b> and sets at <b>20:25 pm</b>.
     </p>
@@ -286,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Created Haunting Music From Spiderwebs](https://www.reviewgeek.com/78386/scientists-created-haunting-music-from-spiderwebs/)
-* [Pentagon Verifies UFO Video Ahead of Congressional Hearing](https://www.reviewgeek.com/78360/pentagon-verifies-ufo-video-ahead-of-congressional-hearing/)
-* [What Is DeX, Samsung’s Desktop Mode?](https://www.howtogeek.com/713957/what-is-dex-samsungs-desktop-mode/)
-* [How to Disable Link Previews and See URL Addresses in Safari on iPhone](https://www.howtogeek.com/719052/how-to-disable-link-previews-and-see-url-addresses-in-safari-on-iphone/)
-* [How to Mute Your PS5’s Audio Using a DualSense Controller](https://www.howtogeek.com/719875/how-to-mute-your-ps5s-audio-using-a-dualsense-controller/)
-* [How to Buy Movie Tickets Using Google Assistant](https://www.howtogeek.com/723387/how-to-buy-movie-tickets-using-google-assistant/)
-* [How to Automatically Open Articles in Safari’s Reader View](https://www.howtogeek.com/720354/how-to-automatically-open-articles-in-safaris-reader-view/)
-* [How to Set up and Use Kids Mode in Microsoft Edge](https://www.howtogeek.com/723585/how-to-set-up-and-use-kids-mode-in-microsoft-edge/)
-* [New Robots Could Use Synthetic Bat Ears to Pinpoint Sound Sources 🦇](https://www.reviewgeek.com/78323/new-robots-could-use-synthetic-bat-ears-to-pinpoint-sound-sources-%f0%9f%a6%87/)
-* [How to Reset a ProtonMail Password](https://www.howtogeek.com/721057/how-to-reset-a-protonmail-password/)
+* [Peak Design's Universal Magnet Phone Safe System Is Delayed Until August](https://www.reviewgeek.com/78418/peak-designs-universal-magnet-phone-safe-system-is-delayed-until-august/)
+* [SpaceX to Develop Human Landing System for NASA's Next Moon Mission](https://www.reviewgeek.com/78383/spacex-to-develop-human-landing-system-for-nasas-next-moon-mission/)
+* [We're Not Kitten Around: This Cat Motion Capture Video Is Purrfection](https://www.reviewgeek.com/78405/were-not-kitten-around-this-cat-motion-capture-video-is-purrfection/)
+* [How to Change the Display Resolution on Apple TV](https://www.howtogeek.com/721716/how-to-change-the-display-resolution-on-apple-tv/)
+* [How to Name Chrome Windows for Alt+Tab and the Taskbar](https://www.howtogeek.com/723486/how-to-name-chrome-windows-for-alttab-and-the-taskbar/)
+* [Scientists Taught Robot Fish How to Swarm, Which Could Improve Autonomous Cars](https://www.reviewgeek.com/78391/scientists-taught-robot-fish-how-to-swarm-which-could-improve-autonomous-cars/)
+* [How to Flip or Mirror Photos and Images on iPhone and iPad](https://www.howtogeek.com/721356/how-to-flip-or-mirror-photos-and-images-on-iphone-and-ipad/)
+* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
+* [How to Set up a Philips Hue Sync Box with a TV](https://www.howtogeek.com/713707/how-to-set-up-a-philips-hue-sync-box-with-a-tv/)
+* [How to Quickly Launch a Mac App with Spotlight](https://www.howtogeek.com/718935/how-to-quickly-launch-a-mac-app-with-spotlight/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CarPlay App Programming Guide [pdf]](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf)
-- [Own the Internet. Buy a Piece of the Internet in Latam](https://news.ycombinator.com/item?id=26849239)
-- [Show HN: Use NFTs to unlock access to videos, downloads, or blogs](https://www.mintgate.app/)
-- [Loop Alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/)
-- [Show HN: Pixel Physics](https://victorribeiro.com/pixelPhysics/)
-- [Ask HN: Advice for a developer leading their first major project](https://news.ycombinator.com/item?id=26849168)
-- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
-- [Show HN: A python-requests wrapper with retry attempts and backoff delays](https://github.com/PatrickMurray/RequestsStampede)
-- [How do you stay safe on the internet?](https://handmade.network/forums/t/7750-how_do_you_stay_safe_on_the_internet)
-- [Founder of Adobe and developer of PDFs dies at age 81](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
+- [China and Huawei's Dystopian 'New IP' Plan for 6G](https://tech.slashdot.org/story/21/04/17/2041239/china-and-huaweis-dystopian-new-ip-plan-for-6g)
+- [Grumman TBM Avenger Making Emergency Water Landing at Cocoa Beach Air Show](https://theaviationist.com/2021/04/18/check-out-this-dramatic-video-of-a-tbm-avenger-ditching-yesterday-at-cocoa-beach-airshow/)
+- [Questionable Advice: “What Should I Say in My Exit Interview?”](https://charity.wtf/2021/04/16/questionable-advice-what-should-i-say-in-my-exit-interview/)
+- [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)
+- [Ask HN: Do I need a DR plan in AWS?](https://news.ycombinator.com/item?id=26858534)
+- [Canada’s top court could be asked to rule if US safe for refugees](https://www.aljazeera.com/news/2021/4/17/canada-top-court-could-be-asked-to-rule-if-us-safe-for-refugees)
+- [GraphCDN](https://graphcdn.io/)
+- [When American Record Companies Hated Japan](https://thebulwark.com/when-american-record-companies-hated-japan/)
+- [The mRNA Vaccines Are Looking Better and Better](https://www.theatlantic.com/health/archive/2021/04/mrna-vaccines-johnson-blood-clots/618594/)
+- [Gnome 40 – The anti-desktop desktop](https://www.dedoimedo.com/computers/gnome-40.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man charged with murder after double shooting and manhunt in Queensland](https://www.theguardian.com/australia-news/2021/apr/18/man-charged-with-after-double-shooting-and-manhunt-in-queensland)
-- [US and China commit to cooperating on climate crisis](https://www.theguardian.com/environment/2021/apr/18/us-and-china-commit-to-cooperating-on-climate-crisis)
-- [US orders non-essential personnel out of Chad over fears of rebel attacks on capital](https://www.theguardian.com/world/2021/apr/18/us-orders-non-essential-personnel-out-of-chad-over-fears-of-rebel-attacks-on-capital)
-- [Protests erupt in US cities over police violence as riot declared in Portland](https://www.theguardian.com/us-news/2021/apr/17/us-police-violence-protests-portland-riot)
-- [Jailed Putin critic Alexei Navalny could die at any minute, doctors warn](https://www.theguardian.com/world/2021/apr/18/jailed-putin-critic-alexei-navalny-could-die-at-any-minute-doctors-warn)
-- [Serco brazens out Covid calamity as the profits roll in](https://www.theguardian.com/business/2021/apr/18/serco-brazens-out-covid-calamity-as-the-profits-roll-in)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get into gingham: alfresco-friendly looks – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/17/get-into-gingham-alfresco-friendly-looks-in-pictures)
-- [Messi stars as Barcelona thrash Athletic Bilbao to lift Copa del Rey](https://www.theguardian.com/football/2021/apr/17/messi-stars-as-barcelona-thrash-athletic-bilbao-to-lift-copa-del-rey)
-- [Ronnie O’Sullivan through but rattled by encounter with ‘boozed-up’ fan](https://www.theguardian.com/sport/2021/apr/17/ronnie-osullivan-through-but-rattled-by-encounter-with-boozed-up-fan)
+- [Did ‘eat out to help out’ cost lives? – podcast](https://www.theguardian.com/news/audio/2021/apr/19/did-eat-out-to-help-out-cost-lives)
+- [Mars helicopter Ingenuity: Nasa about to try historic flight](https://www.theguardian.com/science/2021/apr/19/mars-helicopter-ingenuity-nasa-about-to-try-historic-flight)
+- [Explainer: how will the new European Super League work?](https://www.theguardian.com/football/2021/apr/19/explainer-how-will-the-new-european-super-league-work)
+- [Two die in Tesla car crash in Texas with ‘no one’ in driver’s seat, police say](https://www.theguardian.com/technology/2021/apr/19/two-die-in-tesla-crash-no-one-in-drivers-seat-police)
+- [European Super League: how did the clubs get to this point?](https://www.theguardian.com/football/2021/apr/19/european-super-league-clubs-uefa-champions-league)
+- [Facebook encryption plans will hit fight against child abuse, warns Patel](https://www.theguardian.com/society/2021/apr/19/priti-patel-says-tech-companies-have-moral-duty-to-safeguard-children)
+- [Trial to study effect of immune system on Covid reinfection](https://www.theguardian.com/science/2021/apr/19/trial-to-study-effect-of-immune-system-on-covid-reinfection)
+- [UK house prices surge as high demand meets record shortage of homes for sale](https://www.theguardian.com/business/2021/apr/19/uk-house-prices-surge-as-high-demand-meets-record-shortage-of-homes-for-sale)
+- [UK must level up but there is no ‘one size fits all’ answer, says head of CBI](https://www.theguardian.com/business/2021/apr/19/uk-must-level-up-but-there-is-no-one-size-fits-all-answer-says-head-of-cbi)
+- [NHS targets middle-aged men with online diabetes risk quiz](https://www.theguardian.com/society/2021/apr/19/nhs-targets-middle-aged-men-with-online-diabetes-risk-quiz)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
-- [A Potato Battery Can Light Up a Room for over a Month](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
-- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
-- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
-- [Google used ‘double-Irish’ to shift $75.4B in profits out of Ireland](https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519)
-- [GitHub reinstated youtube-dl but restoring forks is apparently a problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
-- [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
-- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
-- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
+- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
+- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
+- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
+- [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
+- [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Huawei was able to eavesdrop on Dutch mobile network KPN: Report](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
+- [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
+- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
+- [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Government puts Facebook under pressure to stop end-to-end encryption over child abuse risks](https://www.computerweekly.com/news/252499496/Government-puts-Facebook-under-pressure-to-stop-end-to-end-encryption)
 - [SAP users identify data skills shortage as importance of analytics spikes](https://www.computerweekly.com/news/252499430/SAP-users-identify-data-skills-shortage-as-importance-of-analytics-spikes)
 - [The Secret IR Insider’s Diary – from Sunburst to DarkSide](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-from-Sunburst-to-DarkSide)
 - [Finnish government strengthens country’s IT network security](https://www.computerweekly.com/news/252499429/Finnish-government-strengthens-countrys-IT-network-security)
@@ -400,12 +401,12 @@
 - [Google launches multimillion-dollar cloud tech push to boost Covid-19 vaccine distribution](https://www.computerweekly.com/news/252499352/Google-launches-multimillion-dollar-cloud-tech-push-to-boost-Covid-19-vaccine-distribution)
 - [VMware CTO: The days of enterprises going ‘all-in’ on one public cloud provider ‘are dead’](https://www.computerweekly.com/news/252499391/VMware-CTO-The-days-of-enterprises-going-all-in-on-one-public-cloud-provider-are-dead)
 - [Biden sanctions Russia over SolarWinds cyber attacks](https://www.computerweekly.com/news/252499384/Biden-sanctions-Russia-over-SolarWinds-cyber-attacks)
-- [Dell spins off VMware to fuel post-pandemic PC growth opportunities](https://www.computerweekly.com/news/252499380/Dell-spins-off-VMware-to-fuel-post-pandemic-PC-growth-opportunities)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need advice](https://www.reddit.com/r/InformationTechnology/comments/mtliop/need_advice/)
 - [Is there such a thing as remote IT management services for small organizations/businesses?](https://www.reddit.com/r/InformationTechnology/comments/mt23e3/is_there_such_a_thing_as_remote_it_management/)
 - [Job help what should I do next?](https://www.reddit.com/r/InformationTechnology/comments/msr5by/job_help_what_should_i_do_next/)
 - [90%+ of Help/Service Desk staff will be laid off in the next 24 months...](https://www.reddit.com/r/InformationTechnology/comments/msmep3/90_of_helpservice_desk_staff_will_be_laid_off_in/)
@@ -415,7 +416,6 @@
 - [In house TV station](https://www.reddit.com/r/InformationTechnology/comments/ms4iq4/in_house_tv_station/)
 - [Introduction to IT](https://www.reddit.com/r/InformationTechnology/comments/mrieh7/introduction_to_it/)
 - [What monitor to buy](https://www.reddit.com/r/InformationTechnology/comments/mrbfkt/what_monitor_to_buy/)
-- [SEO](https://www.reddit.com/r/InformationTechnology/comments/mr9sce/seo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

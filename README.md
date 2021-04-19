@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Created Haunting Music From Spiderwebs](https://www.reviewgeek.com/78386/scientists-created-haunting-music-from-spiderwebs/)
-* [Pentagon Verifies UFO Video Ahead of Congressional Hearing](https://www.reviewgeek.com/78360/pentagon-verifies-ufo-video-ahead-of-congressional-hearing/)
-* [What Is DeX, Samsung’s Desktop Mode?](https://www.howtogeek.com/713957/what-is-dex-samsungs-desktop-mode/)
-* [How to Disable Link Previews and See URL Addresses in Safari on iPhone](https://www.howtogeek.com/719052/how-to-disable-link-previews-and-see-url-addresses-in-safari-on-iphone/)
-* [How to Mute Your PS5’s Audio Using a DualSense Controller](https://www.howtogeek.com/719875/how-to-mute-your-ps5s-audio-using-a-dualsense-controller/)
-* [How to Buy Movie Tickets Using Google Assistant](https://www.howtogeek.com/723387/how-to-buy-movie-tickets-using-google-assistant/)
-* [How to Automatically Open Articles in Safari’s Reader View](https://www.howtogeek.com/720354/how-to-automatically-open-articles-in-safaris-reader-view/)
-* [How to Set up and Use Kids Mode in Microsoft Edge](https://www.howtogeek.com/723585/how-to-set-up-and-use-kids-mode-in-microsoft-edge/)
-* [New Robots Could Use Synthetic Bat Ears to Pinpoint Sound Sources 🦇](https://www.reviewgeek.com/78323/new-robots-could-use-synthetic-bat-ears-to-pinpoint-sound-sources-%f0%9f%a6%87/)
-* [How to Reset a ProtonMail Password](https://www.howtogeek.com/721057/how-to-reset-a-protonmail-password/)
+* [Peak Design's Universal Magnet Phone Safe System Is Delayed Until August](https://www.reviewgeek.com/78418/peak-designs-universal-magnet-phone-safe-system-is-delayed-until-august/)
+* [SpaceX to Develop Human Landing System for NASA's Next Moon Mission](https://www.reviewgeek.com/78383/spacex-to-develop-human-landing-system-for-nasas-next-moon-mission/)
+* [We're Not Kitten Around: This Cat Motion Capture Video Is Purrfection](https://www.reviewgeek.com/78405/were-not-kitten-around-this-cat-motion-capture-video-is-purrfection/)
+* [How to Change the Display Resolution on Apple TV](https://www.howtogeek.com/721716/how-to-change-the-display-resolution-on-apple-tv/)
+* [How to Name Chrome Windows for Alt+Tab and the Taskbar](https://www.howtogeek.com/723486/how-to-name-chrome-windows-for-alttab-and-the-taskbar/)
+* [Scientists Taught Robot Fish How to Swarm, Which Could Improve Autonomous Cars](https://www.reviewgeek.com/78391/scientists-taught-robot-fish-how-to-swarm-which-could-improve-autonomous-cars/)
+* [How to Flip or Mirror Photos and Images on iPhone and iPad](https://www.howtogeek.com/721356/how-to-flip-or-mirror-photos-and-images-on-iphone-and-ipad/)
+* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
+* [How to Set up a Philips Hue Sync Box with a TV](https://www.howtogeek.com/713707/how-to-set-up-a-philips-hue-sync-box-with-a-tv/)
+* [How to Quickly Launch a Mac App with Spotlight](https://www.howtogeek.com/718935/how-to-quickly-launch-a-mac-app-with-spotlight/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

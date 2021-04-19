@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/V/vie_for_1703.php" target="_blank"><i>vie for</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/put_2/put_on_1__2538.php" target="_blank"><i>put on (1)</i></a>
 <span> = </span>
-<span>If you vie for something, you compete with others to get it.</span>
+<span>to start wearing an item of clothing, a pair of shoes, a piece of jewellery, a pair of glasses, etc.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/quaking_in_your_boots_220.php" target="_blank"><i>quaking in your boots</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Food/a_knuckle_sandwich_192.php" target="_blank"><i>a knuckle sandwich</i></a>
 <span> = </span>
-<span>If you're quaking in your boots, you are very frightened.</span>
+<span>If you give someone a knuckle sandwich, you punch them.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

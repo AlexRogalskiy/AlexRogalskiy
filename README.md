@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/ice_2__771.php" target="_blank"><i>ice (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/goof_off_goof_around_1287.php" target="_blank"><i>goof off | goof around</i></a>
 <span> = </span>
-<span>to kill someone</span>
+<span>waste time, play around</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

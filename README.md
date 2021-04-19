@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/Empty_vessels_make_the_most_noise_531.php" target="_blank"><i>Empty vessels make the most noise</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Silence_means_consent_925.php" target="_blank"><i>Silence means consent</i></a>
 <span> = </span>
-<span>Stupid people speak loudest.</span>
+<span>The idea here is that if you don't disagree, you automatically agree. Keeping quiet is the same as giving permission.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

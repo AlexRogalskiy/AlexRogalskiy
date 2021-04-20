@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
-- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
-- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
-- [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
-- [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Huawei was able to eavesdrop on Dutch mobile network KPN: Report](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
-- [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
-- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
-- [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
+- [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
+- [OpenSSH 8.6 Released](https://lwn.net/Articles/853445/)
+- [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
+- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+- [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer)
+- [Open Source Goes to Mars](https://github.blog/2021-04-19-open-source-goes-to-mars/)
+- [You Are Not ‘Behind’ (2016)](https://zackkanter.com/2016/01/13/you-are-not-behind/)
+- [What is the hardest language in the world to lip-read? (2020)](https://www.atlasobscura.com/articles/lipreading-around-the-world)
+- [Introduction to Machine Learning for Finance](https://algofin.substack.com/p/ml-101-an-introduction)
+- [Volumio – The Audiophile Music Player](https://volumio.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

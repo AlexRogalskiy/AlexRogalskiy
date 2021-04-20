@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/goof_off_goof_around_1287.php" target="_blank"><i>goof off | goof around</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/hood_1__1045.php" target="_blank"><i>hood (1)</i></a>
 <span> = </span>
-<span>waste time, play around</span>
+<span>a neighbourhood, especially in a poor, urban area</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Did ‘eat out to help out’ cost lives? – podcast](https://www.theguardian.com/news/audio/2021/apr/19/did-eat-out-to-help-out-cost-lives)
-- [Mars helicopter Ingenuity: Nasa about to try historic flight](https://www.theguardian.com/science/2021/apr/19/mars-helicopter-ingenuity-nasa-about-to-try-historic-flight)
-- [Explainer: how will the new European Super League work?](https://www.theguardian.com/football/2021/apr/19/explainer-how-will-the-new-european-super-league-work)
-- [Two die in Tesla car crash in Texas with ‘no one’ in driver’s seat, police say](https://www.theguardian.com/technology/2021/apr/19/two-die-in-tesla-crash-no-one-in-drivers-seat-police)
-- [European Super League: how did the clubs get to this point?](https://www.theguardian.com/football/2021/apr/19/european-super-league-clubs-uefa-champions-league)
-- [Facebook encryption plans will hit fight against child abuse, warns Patel](https://www.theguardian.com/society/2021/apr/19/priti-patel-says-tech-companies-have-moral-duty-to-safeguard-children)
-- [Trial to study effect of immune system on Covid reinfection](https://www.theguardian.com/science/2021/apr/19/trial-to-study-effect-of-immune-system-on-covid-reinfection)
-- [UK house prices surge as high demand meets record shortage of homes for sale](https://www.theguardian.com/business/2021/apr/19/uk-house-prices-surge-as-high-demand-meets-record-shortage-of-homes-for-sale)
-- [UK must level up but there is no ‘one size fits all’ answer, says head of CBI](https://www.theguardian.com/business/2021/apr/19/uk-must-level-up-but-there-is-no-one-size-fits-all-answer-says-head-of-cbi)
-- [NHS targets middle-aged men with online diabetes risk quiz](https://www.theguardian.com/society/2021/apr/19/nhs-targets-middle-aged-men-with-online-diabetes-risk-quiz)
+- [How UK scientists are tracking down new Covid variants - podcast](https://www.theguardian.com/news/audio/2021/apr/20/how-uk-scientists-are-tracking-down-new-covid-variants-podcast)
+- [Montana guide mauled to death in grizzly bear attack outside Yellowstone](https://www.theguardian.com/us-news/2021/apr/20/montana-guide-mauled-to-death-in-grizzly-bear-attack-outside-yellowstone)
+- [Walter Mondale, former US vice-president and celebrated liberal, dies aged 93](https://www.theguardian.com/us-news/2021/apr/19/walter-mondale-dead-93-vice-president)
+- [Germany’s CDU backs Armin Laschet as chancellor candidate in September poll](https://www.theguardian.com/world/2021/apr/20/germany-cdu-armin-laschet-candidate-chancellor-vote-sources-merkel)
+- [Greta Thunberg condemns vaccine inequality between rich and poor countries](https://www.theguardian.com/world/2021/apr/20/greta-thunberg-condemns-vaccine-inequality-between-rich-and-poor-countries)
+- [Capitol police officer injured in attack died of natural causes, examiner says](https://www.theguardian.com/us-news/2021/apr/19/brian-sicknick-capitol-attack-cause-of-death)
+- [Liverpool’s Jürgen Klopp and James Milner critical of Super League plans](https://www.theguardian.com/football/2021/apr/19/liverpools-jurgen-klopp-unimpressed-by-european-super-league-plans)
+- [Mobile phone masts in rural England to be up to 20% taller in rules shakeup](https://www.theguardian.com/technology/2021/apr/20/government-to-allow-taller-mobile-phone-masts-in-rural-england)
+- [Tyrannosaurs may have hunted in packs like wolves, new research has found](https://www.theguardian.com/science/2021/apr/19/tyrannosaurs-may-have-hunted-in-packs-like-wolves-new-research-has-found)
+- [John Higgins blames Crucible pressure for struggling to defeat Tian Pengfei](https://www.theguardian.com/sport/2021/apr/19/john-higgins-crucible-pressure-world-snooker-championship-tian-pengfei)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

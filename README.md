@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Government puts Facebook under pressure to stop end-to-end encryption over child abuse risks](https://www.computerweekly.com/news/252499496/Government-puts-Facebook-under-pressure-to-stop-end-to-end-encryption)
-- [SAP users identify data skills shortage as importance of analytics spikes](https://www.computerweekly.com/news/252499430/SAP-users-identify-data-skills-shortage-as-importance-of-analytics-spikes)
-- [The Secret IR Insider’s Diary – from Sunburst to DarkSide](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-from-Sunburst-to-DarkSide)
-- [Finnish government strengthens country’s IT network security](https://www.computerweekly.com/news/252499429/Finnish-government-strengthens-countrys-IT-network-security)
-- [Post Office’s full and final settlement with Horizon scandal victims in plain English](https://www.computerweekly.com/opinion/Post-Offices-full-and-final-settlement-with-Horizon-scandal-victims-in-plain-English)
-- [Dutch accuse UK of ‘damaging confidence’ by disclosing details of EncroChat police collaboration](https://www.computerweekly.com/news/252499373/UK-accused-of-damaging-confidence-by-disclosing-EncroChat-collaboration)
-- [Uber ordered to reinstate six drivers fired by automated process](https://www.computerweekly.com/news/252499392/Uber-ordered-to-reinstate-six-drivers-fired-by-automated-process)
-- [Google launches multimillion-dollar cloud tech push to boost Covid-19 vaccine distribution](https://www.computerweekly.com/news/252499352/Google-launches-multimillion-dollar-cloud-tech-push-to-boost-Covid-19-vaccine-distribution)
-- [VMware CTO: The days of enterprises going ‘all-in’ on one public cloud provider ‘are dead’](https://www.computerweekly.com/news/252499391/VMware-CTO-The-days-of-enterprises-going-all-in-on-one-public-cloud-provider-are-dead)
-- [Biden sanctions Russia over SolarWinds cyber attacks](https://www.computerweekly.com/news/252499384/Biden-sanctions-Russia-over-SolarWinds-cyber-attacks)
+- [Uptime Institute: Networking issues to overtake power problems as main cause of datacentre outages](https://www.computerweekly.com/news/252499524/Uptime-Institute-Networking-issues-to-overtake-power-problems-as-main-cause-of-datacentre-outages)
+- [BBC appoints new digital and technology leaders](https://www.computerweekly.com/news/252499518/BBC-appoints-new-digital-and-technology-leaders)
+- [Closing the cloud skills gap could bring more women back to the global labour force, claims AWS](https://www.computerweekly.com/news/252499506/Closing-the-cloud-skills-gap-could-bring-more-women-back-to-the-global-labour-force-claims-AWS)
+- [Google and Siemens combine forces to address AI at the industrial edge](https://www.computerweekly.com/news/252499511/Google-and-Siemens-combine-forces-to-address-AI-at-the-industrial-edge)
+- [Digital secretary steps in on Nvidia/Arm deal](https://www.computerweekly.com/news/252499515/Digital-secretary-steps-in-on-Nvidia-Arm-deal)
+- [UK fintech investment hits new heights as government announces increased support](https://www.computerweekly.com/news/252499504/UK-fintech-investment-hits-new-heights-as-government-announces-increased-support)
+- [YouGov incentivises sharing of personally identifiable information](https://www.computerweekly.com/news/252499501/YouGov-incentivises-sharing-of-personally-identifiable-information)
+- [Online storage startup GoodCloud seeks to shake up file sync and share market for charities](https://www.computerweekly.com/news/252499432/Charity-sector-focused-online-storage-startup-GoodCloud-seeks-to-shake-up-file-sync-and-share-market)
+- [Tech professionals most likely to see mental health decline due to pandemic](https://www.computerweekly.com/news/252499473/Tech-professionals-most-likely-to-see-mental-health-decline-due-to-pandemic)
+- [UK technology job creation nears two-year peak](https://www.computerweekly.com/news/252499467/UK-technology-job-creation-nears-two-year-peak)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

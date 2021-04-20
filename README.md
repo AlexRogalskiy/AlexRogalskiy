@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AWS Offers Course on Basics of Machine Learning](https://www.informationweek.com/aws-offers-course-on-basics-of-machine-learning/d/d-id/1340715?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Time to Modernize Your Data Integration Framework](https://www.informationweek.com/big-data/time-to-modernize-your-data-integration-framework/a/d-id/1340687?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Forecast of the Future of Work from MIT Sloan CIO Symposium](https://www.informationweek.com/strategic-cio/forecast-of-the-future-of-work-from-mit-sloan-cio-symposium/d/d-id/1340691?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How To Ensure Your Machine Learning Models Aren't Fooled](https://www.informationweek.com/big-data/ai-machine-learning/how-to-ensure-your-machine-learning-models-arent-fooled/a/d-id/1340630?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Boosts Support for Girls in Tech's Inclusivity Efforts](https://www.informationweek.com/strategic-cio/aws-boosts-support-for-girls-in-techs-inclusivity-efforts/d/d-id/1340681?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [The Five Pillars of Resilience Engineering](https://www.informationweek.com/strategic-cio/enterprise-agility/the-five-pillars-of-resilience-engineering/a/d-id/1340623?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [InformationWeek to Upgrade Site Design, Performance](https://www.informationweek.com/strategic-cio/informationweek-to-upgrade-site-design-performance/a/d-id/1340607?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How 2020 Impacted 2021's Predictive Modeling](https://www.informationweek.com/big-data/how-2020-impacted-2021s-predictive-modeling/a/d-id/1340645?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Optimizing the CIO and CFO Relationship](https://www.informationweek.com/strategic-cio/optimizing-the-cio-and-cfo-relationship-/a/d-id/1340643?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How Google Cloud Might Help the FinOps Foundation Evolve](https://www.informationweek.com/cloud/how-google-cloud-might-help-the-finops-foundation-evolve/d/d-id/1340636?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

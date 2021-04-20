@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China and Huawei's Dystopian 'New IP' Plan for 6G](https://tech.slashdot.org/story/21/04/17/2041239/china-and-huaweis-dystopian-new-ip-plan-for-6g)
-- [Grumman TBM Avenger Making Emergency Water Landing at Cocoa Beach Air Show](https://theaviationist.com/2021/04/18/check-out-this-dramatic-video-of-a-tbm-avenger-ditching-yesterday-at-cocoa-beach-airshow/)
-- [Questionable Advice: “What Should I Say in My Exit Interview?”](https://charity.wtf/2021/04/16/questionable-advice-what-should-i-say-in-my-exit-interview/)
-- [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/)
-- [Ask HN: Do I need a DR plan in AWS?](https://news.ycombinator.com/item?id=26858534)
-- [Canada’s top court could be asked to rule if US safe for refugees](https://www.aljazeera.com/news/2021/4/17/canada-top-court-could-be-asked-to-rule-if-us-safe-for-refugees)
-- [GraphCDN](https://graphcdn.io/)
-- [When American Record Companies Hated Japan](https://thebulwark.com/when-american-record-companies-hated-japan/)
-- [The mRNA Vaccines Are Looking Better and Better](https://www.theatlantic.com/health/archive/2021/04/mrna-vaccines-johnson-blood-clots/618594/)
-- [Gnome 40 – The anti-desktop desktop](https://www.dedoimedo.com/computers/gnome-40.html)
+- [Queryable VC database to find investors or investment opportunities](http://vcdeals.info)
+- [A Different Way of Thinking About Cancel Culture](https://www.nytimes.com/2021/04/18/opinion/cancel-culture-social-media.html)
+- [Language of romantic partners becomes more similar as relationship forms](https://academictimes.com/language-of-romantic-partners-becomes-more-similar-as-relationship-forms-even-in-text-messages/)
+- [Firefox Profiler](https://profiler.firefox.com/docs/)
+- [Actionable Tips for Startup Employees](https://review.firstround.com/30-tips-for-new-startup-employees)
+- [There’s a Name for the Blah You’re Feeling: It’s Called Languishing](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html)
+- [StackOverflow Importer](https://github.com/drathier/stack-overflow-import)
+- [When cash is the wrong fuel](https://www.productlessons.xyz/article/pinboard-delicious-failed-startup)
+- [Wormhole-crypto: Streaming encryption based on Encrypted Content-Encoding](https://github.com/SocketDev/wormhole-crypto)
+- [Texas police to demand Tesla crash data as Musk denies autopilot use](https://www.reuters.com/business/autos-transportation/us-probes-fatal-tesla-crash-believed-be-driverless-2021-04-19/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

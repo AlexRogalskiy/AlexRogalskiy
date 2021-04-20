@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Silence_means_consent_925.php" target="_blank"><i>Silence means consent</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Dying_men_speak_true_949.php" target="_blank"><i>Dying men speak true</i></a>
 <span> = </span>
-<span>The idea here is that if you don't disagree, you automatically agree. Keeping quiet is the same as giving permission.</span>
+<span>When people are about to die, they usually tell the truth.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

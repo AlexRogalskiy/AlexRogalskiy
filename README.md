@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Food/a_knuckle_sandwich_192.php" target="_blank"><i>a knuckle sandwich</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/A/all_the_rage_600.php" target="_blank"><i>all the rage</i></a>
 <span> = </span>
-<span>If you give someone a knuckle sandwich, you punch them.</span>
+<span>If something is all the rage, it's very popular or it's in fashion at the moment.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

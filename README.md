@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Toronto tech employees launch Vaccine Finder](https://www.itworldcanada.com/article/toronto-tech-employees-launch-vaccine-finder/446312)
+- [What can e-signature technology do to help your business?](https://www.itworldcanada.com/article/what-can-e-signature-technology-do-to-help-your-business/446296)
+- [Internet security company Cloudflare opens first Canadian office](https://www.itworldcanada.com/article/internet-security-company-cloudflare-opens-first-canadian-office/446245)
+- [Cyber Security Today, April 19, 2021 – 10-year prison term for hacker group manager, watch for these attacks against universities and more](https://www.itworldcanada.com/article/cyber-security-today-april-19-2021-10-year-prison-term-for-hacker-group-manager-watch-for-these-attacks-against-universities-and-more/446242)
+- [Factoring 5G into your security outlook](https://www.itworldcanada.com/article/factoring-5g-into-your-security-outlook/446060)
+- [Hashtag Trending, April 19, 2021 – Apple reveals streaming payments; IBM unveils hybrid work plans unveiled; Rethinking business travel](https://www.itworldcanada.com/article/hashtag-trending-april-19-2021-apple-reveals-streaming-payments-ibm-unveils-hybrid-work-plans-unveiled-rethinking-business-travel/446246)
 - [Cyber Security Today, Week In Review for April 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-16-2021/446195)
 - [Leadership in the Digital Enterprise podcast: Tips from a Digital Trailblazer](https://www.itworldcanada.com/article/leadership-in-the-digital-enterprise-podcast-tips-from-a-digital-trailblazer/446210)
 - [VMware says Dell split means ‘increased freedom’](https://www.itworldcanada.com/article/vmware-says-dell-split-means-increased-freedom/446213)
 - [Want to make a bigger impact with cloud?  Do these five things](https://www.itworldcanada.com/article/want-to-make-a-bigger-impact-with-cloud-do-these-five-things/446204)
-- [Cyber Security Today, April 16, 2021 – The Russians are coming for these devices, how a games company was hacked and be careful with internet searches](https://www.itworldcanada.com/article/cyber-security-today-april-16-2021-the-russians-are-coming-for-these-devices-how-a-games-company-was-hacked-and-be-careful-with-internet-searches/446186)
-- [Hashtag Trending, April 16, 2021 – Shopify execs exit; U.S. sanctions on Russia over SolarWinds; Proposed EU legislation takes hard stances against AI](https://www.itworldcanada.com/article/hashtag-trending-april-16-2021-shopify-execs-exit-u-s-sanctions-on-russia-over-solarwinds-proposed-eu-legislation-takes-hard-stances-against-ai/446193)
-- [Three of Shopify’s top execs are leaving the company, CEO says](https://www.itworldcanada.com/article/three-of-shopifys-top-execs-announce-their-exit/446179)
-- [Hashtag Trending podcast goes French, catch the first episode this weekend](https://www.itworldcanada.com/article/hashtag-trending-podcast-goes-french-catch-the-first-episode-this-weekend/446135)
-- [Vulnerabilities in TCP/IP stack may affect millions of devices, warn researchers](https://www.itworldcanada.com/article/vulnerabilities-in-tcp-ip-stack-may-affect-millions-of-devices-warn-researchers/446081)
-- [TCL announces 20 Pro 5G, 20L+ and 20L smartphones](https://www.itworldcanada.com/article/tcl-announces-20-pro-5g-20l-and-20l-smartphones/446132)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft Visual Studio 2022 preview is coming soon](https://www.infoworld.com/article/3615276/microsoft-visual-studio-2022-preview-is-coming-soon.html#tk.rss_all)
+- [3 usability standards for web and mobile applications](https://www.infoworld.com/article/3615463/3-usability-standards-for-web-and-mobile-applications.html#tk.rss_all)
+- [6 reasons to switch to managed Kubernetes](https://www.infoworld.com/article/3614605/6-reasons-to-switch-to-managed-kubernetes.html#tk.rss_all)
 - [Kotlin 1.5.0 stabilizes unsigned integer types](https://www.infoworld.com/article/3615548/kotlin-150-stabilizes-unsigned-integer-types.html#tk.rss_all)
 - [Pulling devops and multicloud together](https://www.infoworld.com/article/3615271/pulling-devops-and-multicloud-together.html#tk.rss_all)
 - [Google’s Logica language addresses SQL’s flaws](https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [The COVID pandemic’s lasting impact on cloud usage](https://www.infoworld.com/article/3614809/the-covid-pandemics-lasting-impact-on-cloud-usage.html#tk.rss_all)
 - [Running microservices on Google Cloud Platform](https://www.infoworld.com/article/3614766/running-microservices-on-google-cloud-platform.html#tk.rss_all)
 - [Microsoft returns to Java with Azure-focused OpenJDK release](https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html#tk.rss_all)
-- [Ahana Cloud for Presto review: Fast SQL queries against data lakes](https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html#tk.rss_all)
-- [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_all)
-- [Moving cloud resources to an ‘edge cloud center’ near you](https://www.infoworld.com/article/3614931/moving-cloud-resources-to-an-edge-cloud-center-near-you.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Peak Design's Universal Magnet Phone Safe System Is Delayed Until August](https://www.reviewgeek.com/78418/peak-designs-universal-magnet-phone-safe-system-is-delayed-until-august/)
-* [SpaceX to Develop Human Landing System for NASA's Next Moon Mission](https://www.reviewgeek.com/78383/spacex-to-develop-human-landing-system-for-nasas-next-moon-mission/)
-* [We're Not Kitten Around: This Cat Motion Capture Video Is Purrfection](https://www.reviewgeek.com/78405/were-not-kitten-around-this-cat-motion-capture-video-is-purrfection/)
-* [How to Change the Display Resolution on Apple TV](https://www.howtogeek.com/721716/how-to-change-the-display-resolution-on-apple-tv/)
-* [How to Name Chrome Windows for Alt+Tab and the Taskbar](https://www.howtogeek.com/723486/how-to-name-chrome-windows-for-alttab-and-the-taskbar/)
-* [Scientists Taught Robot Fish How to Swarm, Which Could Improve Autonomous Cars](https://www.reviewgeek.com/78391/scientists-taught-robot-fish-how-to-swarm-which-could-improve-autonomous-cars/)
-* [How to Flip or Mirror Photos and Images on iPhone and iPad](https://www.howtogeek.com/721356/how-to-flip-or-mirror-photos-and-images-on-iphone-and-ipad/)
-* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
-* [How to Set up a Philips Hue Sync Box with a TV](https://www.howtogeek.com/713707/how-to-set-up-a-philips-hue-sync-box-with-a-tv/)
-* [How to Quickly Launch a Mac App with Spotlight](https://www.howtogeek.com/718935/how-to-quickly-launch-a-mac-app-with-spotlight/)
+* [Vari's New Portable Standing Desk Converter Fits in Your Backpack](https://www.reviewgeek.com/78644/varis-new-portable-standing-desk-converter-fits-in-your-backpack/)
+* [GoPro's New 3-Way 2.0 Mount is a Better Tripod, Selfie Stick, and Grip](https://www.reviewgeek.com/78608/gopros-new-3-way-2-0-mount-is-a-better-tripod-selfie-stick-and-grip/)
+* [Fitbit's New High-End "Luxe" Tracker Is Available for Pre-Order](https://www.reviewgeek.com/78609/fitbits-new-high-end-luxe-tracker-is-available-for-pre-order/)
+* [This New Ultra-White Paint is Like Sunblock For Your Home](https://www.reviewgeek.com/78602/this-new-ultra-white-paint-is-like-sunblock-for-your-home/)
+* [Explore 1,000 UNESCO World Heritage Sites with Google Arts & Culture](https://www.reviewgeek.com/78587/explore-1000-unesco-world-heritage-sites-with-google-arts-culture/)
+* [The Oculus Quest 2 is Here to Stay, No Oculus Quest Pro This Year](https://www.reviewgeek.com/78574/the-oculus-quest-2-is-here-to-stay-no-oculus-quest-pro-this-year/)
+* [NASA's Ingenuity Helicopter Makes First Flight on Mars](https://www.reviewgeek.com/78554/nasas-ingenuity-helicopter-makes-first-flight-on-mars/)
+* [How to Improve Movie and Show Recommendations on Google TV](https://www.howtogeek.com/723700/how-to-improve-movie-and-show-recommendations-on-google-tv/)
+* [LEGO Luigi Starter Set Leaked on Amazon](https://www.reviewgeek.com/78556/lego-luigi-starter-set-leaked-on-amazon/)
+* [What Are Microsoft Teams Meeting Notes, and How Do You Use Them?](https://www.howtogeek.com/720842/what-are-microsoft-teams-meeting-notes-and-how-do-you-use-them/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

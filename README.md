@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Vari's New Portable Standing Desk Converter Fits in Your Backpack](https://www.reviewgeek.com/78644/varis-new-portable-standing-desk-converter-fits-in-your-backpack/)
-* [GoPro's New 3-Way 2.0 Mount is a Better Tripod, Selfie Stick, and Grip](https://www.reviewgeek.com/78608/gopros-new-3-way-2-0-mount-is-a-better-tripod-selfie-stick-and-grip/)
-* [Fitbit's New High-End "Luxe" Tracker Is Available for Pre-Order](https://www.reviewgeek.com/78609/fitbits-new-high-end-luxe-tracker-is-available-for-pre-order/)
-* [This New Ultra-White Paint is Like Sunblock For Your Home](https://www.reviewgeek.com/78602/this-new-ultra-white-paint-is-like-sunblock-for-your-home/)
-* [Explore 1,000 UNESCO World Heritage Sites with Google Arts & Culture](https://www.reviewgeek.com/78587/explore-1000-unesco-world-heritage-sites-with-google-arts-culture/)
-* [The Oculus Quest 2 is Here to Stay, No Oculus Quest Pro This Year](https://www.reviewgeek.com/78574/the-oculus-quest-2-is-here-to-stay-no-oculus-quest-pro-this-year/)
-* [NASA's Ingenuity Helicopter Makes First Flight on Mars](https://www.reviewgeek.com/78554/nasas-ingenuity-helicopter-makes-first-flight-on-mars/)
-* [How to Improve Movie and Show Recommendations on Google TV](https://www.howtogeek.com/723700/how-to-improve-movie-and-show-recommendations-on-google-tv/)
-* [LEGO Luigi Starter Set Leaked on Amazon](https://www.reviewgeek.com/78556/lego-luigi-starter-set-leaked-on-amazon/)
-* [What Are Microsoft Teams Meeting Notes, and How Do You Use Them?](https://www.howtogeek.com/720842/what-are-microsoft-teams-meeting-notes-and-how-do-you-use-them/)
+* [Buy an AirTag, Not a Tile Tracker (Unless You Use Android)](https://www.howtogeek.com/724200/buy-an-airtag-not-a-tile-tracker-unless-you-use-android/)
+* [The Best AirTag Alternative for Android](https://www.howtogeek.com/724198/the-best-airtag-alternative-for-android/)
+* [Polaroid's Tiny Instant Camera is Big on Nostalgia](https://www.reviewgeek.com/78847/polaroids-tiny-instant-camera-is-big-on-nostalgia/)
+* [Nomad Launches AirTags Keychain and Glasses Strap with $10 Pre-Order Discount](https://www.reviewgeek.com/78842/nomad-launches-airtags-keychain-and-glasses-strap-with-10-pre-order-discount/)
+* [iOS 14.5 Rolls Out Next Week, With Apple Watch FaceID Unlock for iPhones](https://www.reviewgeek.com/78840/ios-145-rolls-out-next-week-with-apple-watch-faceid-unlock-for-iphones/)
+* [Apple's Redesigned M1 iMac are As Colorful and Thin As a Magic Marker](https://www.reviewgeek.com/78753/apple-debuts-24-inch-imac-7-colors/)
+* [Apple's New iPad Pro Features M1 Chipset, Liquid Retina XDR Display, 5G Support](https://www.reviewgeek.com/78752/apples-new-ipad-pro-features-m1-chipset-liquid-retina-xdr-display-5g-support/)
+* [Apple's Trackable AirTags Arrive, So You Can Find Your Stuff](https://www.reviewgeek.com/78755/apples-trackable-airtags-arrive-so-you-can-find-your-stuff/)
+* [New Apple TV 4K Automatically Calibrates Color on Any TV, Fixes the Siri Remote](https://www.reviewgeek.com/78772/new-apple-tv-4k-automatically-calibrates-to-any-tv-fixes-the-siri-remote/)
+* [Apple Introduces iPhone 12 in a New Flat Purple Color](https://www.reviewgeek.com/78765/apple-introduces-iphone-12-in-a-new-flat-purple-color/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

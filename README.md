@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 16 introduces Apple Silicon support](https://www.infoworld.com/article/3615673/nodejs-16-introduces-apple-silicon-support.html#tk.rss_all)
+- [Python is devouring data science](https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html#tk.rss_all)
+- [How to use SortedDictionary, SortedList, and SortedSet in C#](https://www.infoworld.com/article/3615672/how-to-use-sorteddictionary-sortedlist-and-sortedset-in-csharp.html#tk.rss_all)
+- [Edge computing archetypes are emerging, and they are not pretty](https://www.infoworld.com/article/3615592/edge-computing-archetypes-are-emerging-and-they-are-not-pretty.html#tk.rss_all)
 - [Microsoft Visual Studio 2022 preview is coming soon](https://www.infoworld.com/article/3615276/microsoft-visual-studio-2022-preview-is-coming-soon.html#tk.rss_all)
 - [3 usability standards for web and mobile applications](https://www.infoworld.com/article/3615463/3-usability-standards-for-web-and-mobile-applications.html#tk.rss_all)
 - [6 reasons to switch to managed Kubernetes](https://www.infoworld.com/article/3614605/6-reasons-to-switch-to-managed-kubernetes.html#tk.rss_all)
 - [Kotlin 1.5.0 stabilizes unsigned integer types](https://www.infoworld.com/article/3615548/kotlin-150-stabilizes-unsigned-integer-types.html#tk.rss_all)
 - [Pulling devops and multicloud together](https://www.infoworld.com/article/3615271/pulling-devops-and-multicloud-together.html#tk.rss_all)
 - [Google’s Logica language addresses SQL’s flaws](https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html#tk.rss_all)
-- [Deno 1.9 previews native HTTP/2 server](https://www.infoworld.com/article/3615288/deno-19-previews-native-http2-server.html#tk.rss_all)
-- [The COVID pandemic’s lasting impact on cloud usage](https://www.infoworld.com/article/3614809/the-covid-pandemics-lasting-impact-on-cloud-usage.html#tk.rss_all)
-- [Running microservices on Google Cloud Platform](https://www.infoworld.com/article/3614766/running-microservices-on-google-cloud-platform.html#tk.rss_all)
-- [Microsoft returns to Java with Azure-focused OpenJDK release](https://www.infoworld.com/article/3614938/microsoft-returns-to-java-with-azure-focused-openjdk-release.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

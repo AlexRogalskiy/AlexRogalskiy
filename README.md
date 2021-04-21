@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/A/all_the_rage_600.php" target="_blank"><i>all the rage</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Death/Never_say_die__456.php" target="_blank"><i>Never say die!</i></a>
 <span> = </span>
-<span>If something is all the rage, it's very popular or it's in fashion at the moment.</span>
+<span>You can say "Never say die!" if you want to tell someone to keep trying while there's still a chance of success.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

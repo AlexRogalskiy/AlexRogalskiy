@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to manage multiple accounts on the same calendar](https://www.reddit.com/r/InformationTechnology/comments/mv0jzc/how_to_manage_multiple_accounts_on_the_same/)
+- [How do I stop a forced Windows Update that is in progress?](https://www.reddit.com/r/InformationTechnology/comments/muwewn/how_do_i_stop_a_forced_windows_update_that_is_in/)
+- [Help Choosing IT Solutions for My Business](https://www.reddit.com/r/InformationTechnology/comments/mutmhx/help_choosing_it_solutions_for_my_business/)
+- [Advice](https://www.reddit.com/r/InformationTechnology/comments/mutilg/advice/)
+- [Recommendation of YouTube channels that breaks down complex IT terms into simple short videos?](https://www.reddit.com/r/InformationTechnology/comments/muroii/recommendation_of_youtube_channels_that_breaks/)
 - [Microsoft lost its UI magic](https://www.reddit.com/r/InformationTechnology/comments/mu8x15/microsoft_lost_its_ui_magic/)
 - [ERD Diagram for a Car Rental System](https://www.reddit.com/r/InformationTechnology/comments/mtypc8/erd_diagram_for_a_car_rental_system/)
 - [Need advice](https://www.reddit.com/r/InformationTechnology/comments/mtliop/need_advice/)
 - [Is there such a thing as remote IT management services for small organizations/businesses?](https://www.reddit.com/r/InformationTechnology/comments/mt23e3/is_there_such_a_thing_as_remote_it_management/)
 - [Job help what should I do next?](https://www.reddit.com/r/InformationTechnology/comments/msr5by/job_help_what_should_i_do_next/)
-- [90%+ of Help/Service Desk staff will be laid off in the next 24 months...](https://www.reddit.com/r/InformationTechnology/comments/msmep3/90_of_helpservice_desk_staff_will_be_laid_off_in/)
-- [Heatsink for ryzen 7 3700x](https://www.reddit.com/r/InformationTechnology/comments/mslhh7/heatsink_for_ryzen_7_3700x/)
-- [Lenovo yoga 2 won't find 5ghz wifi](https://www.reddit.com/r/InformationTechnology/comments/msjyej/lenovo_yoga_2_wont_find_5ghz_wifi/)
-- [Media Player Suggestions?](https://www.reddit.com/r/InformationTechnology/comments/ms6msv/media_player_suggestions/)
-- [In house TV station](https://www.reddit.com/r/InformationTechnology/comments/ms4iq4/in_house_tv_station/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

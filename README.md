@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How UK scientists are tracking down new Covid variants - podcast](https://www.theguardian.com/news/audio/2021/apr/20/how-uk-scientists-are-tracking-down-new-covid-variants-podcast)
-- [Montana guide mauled to death in grizzly bear attack outside Yellowstone](https://www.theguardian.com/us-news/2021/apr/20/montana-guide-mauled-to-death-in-grizzly-bear-attack-outside-yellowstone)
-- [Walter Mondale, former US vice-president and celebrated liberal, dies aged 93](https://www.theguardian.com/us-news/2021/apr/19/walter-mondale-dead-93-vice-president)
-- [Germany’s CDU backs Armin Laschet as chancellor candidate in September poll](https://www.theguardian.com/world/2021/apr/20/germany-cdu-armin-laschet-candidate-chancellor-vote-sources-merkel)
-- [Greta Thunberg condemns vaccine inequality between rich and poor countries](https://www.theguardian.com/world/2021/apr/20/greta-thunberg-condemns-vaccine-inequality-between-rich-and-poor-countries)
-- [Capitol police officer injured in attack died of natural causes, examiner says](https://www.theguardian.com/us-news/2021/apr/19/brian-sicknick-capitol-attack-cause-of-death)
-- [Liverpool’s Jürgen Klopp and James Milner critical of Super League plans](https://www.theguardian.com/football/2021/apr/19/liverpools-jurgen-klopp-unimpressed-by-european-super-league-plans)
-- [Mobile phone masts in rural England to be up to 20% taller in rules shakeup](https://www.theguardian.com/technology/2021/apr/20/government-to-allow-taller-mobile-phone-masts-in-rural-england)
-- [Tyrannosaurs may have hunted in packs like wolves, new research has found](https://www.theguardian.com/science/2021/apr/19/tyrannosaurs-may-have-hunted-in-packs-like-wolves-new-research-has-found)
-- [John Higgins blames Crucible pressure for struggling to defeat Tian Pengfei](https://www.theguardian.com/sport/2021/apr/19/john-higgins-crucible-pressure-world-snooker-championship-tian-pengfei)
+- [Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – live](https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death)
+- [Is sitting still slowly killing us? – podcast](https://www.theguardian.com/news/audio/2021/apr/21/is-sitting-still-slowly-killing-us)
+- [Mark Allen pays tribute to departing Barry Hearn after sealing Crucible win](https://www.theguardian.com/sport/2021/apr/21/world-snooker-championship-mark-allen-barry-hearn-bingham-ding)
+- [Today’s verdict isn’t ‘justice’. But accountability is a first step to justice | Keith Ellison](https://www.theguardian.com/commentisfree/2021/apr/20/keith-ellison-george-floyd-speech-minnesota-attorney-general)
+- [Chelsea’s Thomas Tuchel insists club owners ‘have passion for football’](https://www.theguardian.com/football/2021/apr/20/chelsea-to-withdraw-from-european-super-league-amid-fan-protests)
+- [Just Eat to offer 1,500 Liverpool couriers minimum hourly rate and sick pay](https://www.theguardian.com/business/2021/apr/21/just-eat-to-offer-1500-liverpool-couriers-minimum-hourly-rate-and-sick-pay)
+- [Case launched against TikTok over collection of children’s data](https://www.theguardian.com/technology/2021/apr/21/case-launched-against-tiktok-over-collection-of-childrens-data)
+- [Genetic diversity in salmon has declined since fish farming introduced – study](https://www.theguardian.com/environment/2021/apr/21/genetic-diversity-in-salmon-has-declined-since-fish-farming-introduced-study)
+- [UK government must save Liberty Steel soon to protect supply chain jobs, warns Labour](https://www.theguardian.com/business/2021/apr/21/uk-government-must-save-liberty-steel-soon-to-protect-supply-chain-jobs-warns-labour)
+- [Melting ice in Arctic linked to bowhead whales holding off annual migration](https://www.theguardian.com/environment/2021/apr/21/melting-ice-in-arctic-linked-to-bowhead-whales-holding-off-annual-migration)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

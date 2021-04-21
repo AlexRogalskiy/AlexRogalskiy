@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Dying_men_speak_true_949.php" target="_blank"><i>Dying men speak true</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/Seeing_is_believing_587.php" target="_blank"><i>Seeing is believing</i></a>
 <span> = </span>
-<span>When people are about to die, they usually tell the truth.</span>
+<span>The idea here is that we usually think something is true when we see it with our own eyes. We have to see something before we can accept its real value, or that it exists at all.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

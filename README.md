@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Queryable VC database to find investors or investment opportunities](http://vcdeals.info)
-- [A Different Way of Thinking About Cancel Culture](https://www.nytimes.com/2021/04/18/opinion/cancel-culture-social-media.html)
-- [Language of romantic partners becomes more similar as relationship forms](https://academictimes.com/language-of-romantic-partners-becomes-more-similar-as-relationship-forms-even-in-text-messages/)
-- [Firefox Profiler](https://profiler.firefox.com/docs/)
-- [Actionable Tips for Startup Employees](https://review.firstround.com/30-tips-for-new-startup-employees)
-- [There’s a Name for the Blah You’re Feeling: It’s Called Languishing](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html)
-- [StackOverflow Importer](https://github.com/drathier/stack-overflow-import)
-- [When cash is the wrong fuel](https://www.productlessons.xyz/article/pinboard-delicious-failed-startup)
-- [Wormhole-crypto: Streaming encryption based on Encrypted Content-Encoding](https://github.com/SocketDev/wormhole-crypto)
-- [Texas police to demand Tesla crash data as Musk denies autopilot use](https://www.reuters.com/business/autos-transportation/us-probes-fatal-tesla-crash-believed-be-driverless-2021-04-19/)
+- [What Next for Visual Studio?](https://www.theregister.com/2021/04/20/what_next_for_visual_studio/)
+- [Microsoft statement on Derek Chauvin verdict](https://blogs.microsoft.com/blog/2021/04/20/microsoft-statement-on-derek-chauvin-verdict/)
+- [CISA Emergency Directive 21-03: Mitigate Pulse Secure Product Vulnerabilities](https://cyber.dhs.gov/ed/21-03/)
+- [The E-Scooters Loved by Silicon Valley Roll into New York](https://www.newyorker.com/magazine/2021/04/26/the-e-scooters-loved-by-silicon-valley-roll-into-new-york)
+- [The Day the San Francisco Sky Turned Orange](https://www.newyorker.com/culture/video-dept/the-day-the-san-francisco-sky-turned-orange)
+- [On the Menu at a Lunch in Italy: Protected Songbirds](https://www.nytimes.com/2021/04/20/world/europe/italy-lunch-songbirds.html)
+- [Genomes Reveal Humanity’s Journey into the Americas](https://www.scientificamerican.com/article/genomes-reveal-humanitys-journey-into-the-americas/)
+- [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
+- [Work Progresses Toward Ingenuity’s First Flight on Mars Mars](https://mars.nasa.gov/technology/helicopter/status/290/work-progresses-toward-ingenuity-s-first-flight-on-mars/)
+- [How NASA Is Pushing a Software Update to Mars to Get Ingenuity Flying](https://www.vice.com/en/article/akgzga/how-nasa-is-pushing-a-software-update-to-mars-to-get-ingenuity-flying)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

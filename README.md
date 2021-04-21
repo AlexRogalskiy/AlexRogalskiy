@@ -223,7 +223,7 @@
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;42&#x2F;23&#x2F;e9&#x2F;4223e95308a8fbc5f7fd21365dc8e1d3.jpg" alt="Is it nice enough where you are to dine alfresco? It’s our Word of the Day. Learn more at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;2c&#x2F;4d&#x2F;5a2c4d8517f7fb460e66ccda8c62fa8f.jpg" alt="Yes, there&#39;s a word for that. Pandiculation is the #WordOfTheDay. Click through to stretch your knowledge. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1c&#x2F;1e&#x2F;95&#x2F;1c1e952c02703abe1bf0d1f2770e9065.jpg" alt="It’s just one thing after another with this #WordOfTheDay. It’s hydra. Learn more at Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d5&#x2F;8d&#x2F;82&#x2F;d58d82632eb12243a322dfd236bb59b7.jpg" alt="What&#39;s the big foofaraw? It&#39;s the #WordOfTheDay.⁠ ⁠ Wondering where it came from? Tap the link for more info! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d5&#x2F;8d&#x2F;82&#x2F;d58d82632eb12243a322dfd236bb59b7.jpg" alt="What&#39;s the big foofaraw? It&#39;s the #WordOfTheDay.⁠ ⁠ Wondering where it came from? Tap the link for more info! Word Of The Day, Vocabulary, Things To Come, Words, Quotes, Instagram, Quotations, Quote, Shut Up Quotes" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>5°C (<i>clear sky</i>), humidity: 60%, pressure: 1013 (mbar), wind: /west/ 5 (m/s), cloudy: 0%</b>
+        <b>4°C (<i>clear sky</i>), humidity: 65%, pressure: 1011 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:24 am</b> and sets at <b>20:30 pm</b>.
     </p>

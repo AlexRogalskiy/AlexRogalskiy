@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Uptime Institute: Networking issues to overtake power problems as main cause of datacentre outages](https://www.computerweekly.com/news/252499524/Uptime-Institute-Networking-issues-to-overtake-power-problems-as-main-cause-of-datacentre-outages)
-- [BBC appoints new digital and technology leaders](https://www.computerweekly.com/news/252499518/BBC-appoints-new-digital-and-technology-leaders)
-- [Closing the cloud skills gap could bring more women back to the global labour force, claims AWS](https://www.computerweekly.com/news/252499506/Closing-the-cloud-skills-gap-could-bring-more-women-back-to-the-global-labour-force-claims-AWS)
-- [Google and Siemens combine forces to address AI at the industrial edge](https://www.computerweekly.com/news/252499511/Google-and-Siemens-combine-forces-to-address-AI-at-the-industrial-edge)
-- [Digital secretary steps in on Nvidia/Arm deal](https://www.computerweekly.com/news/252499515/Digital-secretary-steps-in-on-Nvidia-Arm-deal)
-- [UK fintech investment hits new heights as government announces increased support](https://www.computerweekly.com/news/252499504/UK-fintech-investment-hits-new-heights-as-government-announces-increased-support)
-- [YouGov incentivises sharing of personally identifiable information](https://www.computerweekly.com/news/252499501/YouGov-incentivises-sharing-of-personally-identifiable-information)
-- [Online storage startup GoodCloud seeks to shake up file sync and share market for charities](https://www.computerweekly.com/news/252499432/Charity-sector-focused-online-storage-startup-GoodCloud-seeks-to-shake-up-file-sync-and-share-market)
-- [Tech professionals most likely to see mental health decline due to pandemic](https://www.computerweekly.com/news/252499473/Tech-professionals-most-likely-to-see-mental-health-decline-due-to-pandemic)
-- [UK technology job creation nears two-year peak](https://www.computerweekly.com/news/252499467/UK-technology-job-creation-nears-two-year-peak)
+- [Health app myGP adds Covid-19 vaccine passport function](https://www.computerweekly.com/news/252499594/Health-app-myGP-adds-Covid-19-vaccine-passport-function)
+- [UK’s proposed IoT cyber security law gathers momentum](https://www.computerweekly.com/news/252499590/UKs-proposed-IoT-cyber-security-law-gathers-momentum)
+- [Chinese APT exploits critical CVE in Pulse Secure VPN](https://www.computerweekly.com/news/252499599/Chinese-APT-exploits-critical-CVE-in-Pulse-Secure-VPN)
+- [Security Think Tank: ‘Legitimate interest’ crucial for vaccine passports](https://www.computerweekly.com/opinion/Security-Think-Tank-Legitimate-interest-crucial-for-vaccine-passports)
+- [A Computer Weekly buyer’s guide to containerisation in the enterprise](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-containerisation-in-the-enterprise)
+- [Drax partners with Solace to manage biomass supply chain](https://www.computerweekly.com/news/252499593/Drax-partners-with-Solace-to-manage-biomass-supply-chain)
+- [Codecov supply chain attack has echoes of SolarWinds](https://www.computerweekly.com/news/252499587/Codecov-supply-chain-attack-has-echoes-of-SolarWinds)
+- [Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour](https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour)
+- [Banco Santander moving more than 200 servers to cloud per day](https://www.computerweekly.com/news/252499576/Banco-Santander-moving-more-than-200-servers-to-cloud-per-day)
+- [Shop and go – will Amazon’s cashless ‘just walk out’ store work?](https://www.computerweekly.com/ezine/Computer-Weekly/Shop-and-go-will-Amazons-cashless-just-walk-out-store-work)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

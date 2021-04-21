@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
-- [OpenSSH 8.6 Released](https://lwn.net/Articles/853445/)
-- [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
-- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
-- [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer)
-- [Open Source Goes to Mars](https://github.blog/2021-04-19-open-source-goes-to-mars/)
-- [You Are Not ‘Behind’ (2016)](https://zackkanter.com/2016/01/13/you-are-not-behind/)
-- [What is the hardest language in the world to lip-read? (2020)](https://www.atlasobscura.com/articles/lipreading-around-the-world)
-- [Introduction to Machine Learning for Finance](https://algofin.substack.com/p/ml-101-an-introduction)
-- [Volumio – The Audiophile Music Player](https://volumio.org/)
+- [Brace yourselves. Facebook has a new mega-leak on its hands](https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/)
+- [Everybody Hates “FLoC”](https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/)
+- [Augmented Reality Will Be Awful](https://www.danielsisson.com/articles/augmented-reality-will-be-awful)
+- [Mac mini is now configurable with 10 Gigabit Ethernet](https://www.apple.com/mac-mini/specs/)
+- [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
+- [Dr. Quinn official website from 1998, still online](https://www.drquinnmd.com/)
+- [Rise of the 10x Class (2020)](https://www.drorpoleg.com/rise-of-the-10x-class/)
+- [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
+- [Trust in blockchain-based systems](https://policyreview.info/glossary/trust-blockchain)
+- [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

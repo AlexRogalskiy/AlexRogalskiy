@@ -459,16 +459,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
+- [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
+- [New Apple iMac and iPad Pros now use the M1 chip](https://www.itworldcanada.com/article/new-apple-imac-and-ipad-pros-now-use-the-m1-chip/446375)
+- [Cyber Security Today, April 21, 2021 – Hackers steal driver’s licence numbers, energy company drained of customer account data and be careful of this Wi-Fi air fryer](https://www.itworldcanada.com/article/cyber-security-today-april-21-2021-hackers-steal-drivers-licence-numbers-energy-company-drained-of-customer-account-data-and-be-careful-of-this-wi-fi-air-fryer/446358)
+- [Hashtag Trending, April 21, 2021 – Facebook gains inspiration from Clubhouse; Instagram for kids idea slammed; Budget 2021](https://www.itworldcanada.com/article/hashtag-trending-april-21-2021-facebook-gains-inspiration-from-clubhouse-instagram-for-kids-idea-slammed-budget-2021/446364)
 - [Apple targeted by ransomware group claiming to have stolen product details from supplier](https://www.itworldcanada.com/article/apple-targeted-by-ransomware-group-claiming-to-have-stolen-product-details-from-supplier/446352)
 - [CRTC’s virtual mobile network approval stirs mixed reactions](https://www.itworldcanada.com/article/crtcs-virtual-mobile-network-approval-stirs-mixed-reactions/446291)
 - [Coffee Briefing, April 20, 2021 – A federal budget recap, and more](https://www.itworldcanada.com/article/coffee-briefing-april-20-2021-a-federal-budget-recap-and-more/446329)
 - [Hashtag Trending, April 20, 2021 – Rogers outage; Starlink goes fully mobile later this year; NASA chopper on Mars](https://www.itworldcanada.com/article/hashtag-trending-april-20-2021-rogers-outage-starlink-goes-fully-mobile-later-this-year-nasa-chopper-on-mars/446326)
 - [Toronto tech employees launch Vaccine Finder](https://www.itworldcanada.com/article/toronto-tech-employees-launch-vaccine-finder/446312)
-- [What can e-signature technology do to help your business?](https://www.itworldcanada.com/article/what-can-e-signature-technology-do-to-help-your-business/446296)
-- [Internet security company Cloudflare opens first Canadian office](https://www.itworldcanada.com/article/internet-security-company-cloudflare-opens-first-canadian-office/446245)
-- [Cyber Security Today, April 19, 2021 – 10-year prison term for hacker group manager, watch for these attacks against universities and more](https://www.itworldcanada.com/article/cyber-security-today-april-19-2021-10-year-prison-term-for-hacker-group-manager-watch-for-these-attacks-against-universities-and-more/446242)
-- [Factoring 5G into your security outlook](https://www.itworldcanada.com/article/factoring-5g-into-your-security-outlook/446060)
-- [Hashtag Trending, April 19, 2021 – Apple reveals streaming payments; IBM unveils hybrid work plans unveiled; Rethinking business travel](https://www.itworldcanada.com/article/hashtag-trending-april-19-2021-apple-reveals-streaming-payments-ibm-unveils-hybrid-work-plans-unveiled-rethinking-business-travel/446246)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

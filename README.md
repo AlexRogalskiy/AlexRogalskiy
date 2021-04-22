@@ -444,16 +444,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview questions](https://www.reddit.com/r/InformationTechnology/comments/mvskxo/interview_questions/)
+- [Foot in the Door](https://www.reddit.com/r/InformationTechnology/comments/mvqoae/foot_in_the_door/)
+- [Any good IT related podcasts you guys listen to?](https://www.reddit.com/r/InformationTechnology/comments/mvhk3w/any_good_it_related_podcasts_you_guys_listen_to/)
+- [Virtual Box and windows update](https://www.reddit.com/r/InformationTechnology/comments/mvg53b/virtual_box_and_windows_update/)
+- [IT Survey (10 Minutes Max)](https://www.reddit.com/r/InformationTechnology/comments/mvc6xo/it_survey_10_minutes_max/)
+- [Computer operator good start?](https://www.reddit.com/r/InformationTechnology/comments/mvblw8/computer_operator_good_start/)
+- [Bachelor of Computer Science to Bachelor of IT](https://www.reddit.com/r/InformationTechnology/comments/mv7do2/bachelor_of_computer_science_to_bachelor_of_it/)
 - [How to manage multiple accounts on the same calendar](https://www.reddit.com/r/InformationTechnology/comments/mv0jzc/how_to_manage_multiple_accounts_on_the_same/)
 - [How do I stop a forced Windows Update that is in progress?](https://www.reddit.com/r/InformationTechnology/comments/muwewn/how_do_i_stop_a_forced_windows_update_that_is_in/)
 - [Help Choosing IT Solutions for My Business](https://www.reddit.com/r/InformationTechnology/comments/mutmhx/help_choosing_it_solutions_for_my_business/)
-- [Advice](https://www.reddit.com/r/InformationTechnology/comments/mutilg/advice/)
-- [Recommendation of YouTube channels that breaks down complex IT terms into simple short videos?](https://www.reddit.com/r/InformationTechnology/comments/muroii/recommendation_of_youtube_channels_that_breaks/)
-- [Microsoft lost its UI magic](https://www.reddit.com/r/InformationTechnology/comments/mu8x15/microsoft_lost_its_ui_magic/)
-- [ERD Diagram for a Car Rental System](https://www.reddit.com/r/InformationTechnology/comments/mtypc8/erd_diagram_for_a_car_rental_system/)
-- [Need advice](https://www.reddit.com/r/InformationTechnology/comments/mtliop/need_advice/)
-- [Is there such a thing as remote IT management services for small organizations/businesses?](https://www.reddit.com/r/InformationTechnology/comments/mt23e3/is_there_such_a_thing_as_remote_it_management/)
-- [Job help what should I do next?](https://www.reddit.com/r/InformationTechnology/comments/msr5by/job_help_what_should_i_do_next/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

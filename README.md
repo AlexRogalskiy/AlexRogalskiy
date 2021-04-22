@@ -241,46 +241,15 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649007347437617152" target="_blank"><i>After the Diagnosis</i></a></summary>
-<p>by Christian Wiman</p><p>
- No remembering now<br/>
- when the apple sapling was blown<br/>
- almost out of the ground.<br/>
- No telling how,<br/>
- with all the other trees around,<br/>
- it alone was struck.<br/>
- It must have been luck,<br/>
- he thought for years, so close<br/>
- to the house it grew.<br/>
- It must have been night.<br/>
- Change is a thing one sleeps through<br/>
- when young, and he was young.<br/>
- If there was a weakness in the earth,<br/>
- a give he went down on his knees<br/>
- to find and feel the limits of,<br/>
- there is no longer.<br/>
- If there was one random blow from above<br/>
- the way he&rsquo;s come to know<br/>
- from years in this place,<br/>
- the roots were stronger.<br/>
- Whatever the case,<br/>
- he has watched this tree survive<br/>
- wind ripping at his roof for nights<br/>
- on end, heats and blights<br/>
- that left little else alive.<br/>
- No remembering now&hellip;<br/>
- A day&rsquo;s changes mean all to him<br/>
- and all days come down<br/>
- to one clear pane<br/>
- through which he sees<br/>
- among all the other trees<br/>
- this leaning, clenched, unyielding one<br/>
- that seems cast<br/>
- in the form of a blast<br/>
- that would have killed it,<br/>
- as if something at the heart of things,<br/>
- and with the heart of things,<br/>
- had willed it.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/649097968432168960" target="_blank"><i>The Realists</i></a></summary>
+<p>by W.B. Yeats<br/></p><p>Hope that you may understand!
+<br/>What can books of men that wive
+<br/>In a dragon-guarded land,
+<br/>Paintings of the dolphin-drawn
+<br/>Sea-nymphs in their pearly wagons
+<br/>Do, but awake a hope to live
+<br/>That had gone
+<br/>With the dragons?</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

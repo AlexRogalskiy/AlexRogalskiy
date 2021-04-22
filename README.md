@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Death/Never_say_die__456.php" target="_blank"><i>Never say die!</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/dig_up_dirt_57.php" target="_blank"><i>dig up dirt</i></a>
 <span> = </span>
-<span>You can say "Never say die!" if you want to tell someone to keep trying while there's still a chance of success.</span>
+<span>If you dig up dirt on someone, you try to find details from their past to make them look bad in the present.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

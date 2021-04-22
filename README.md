@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/British/nut_nutter_1210.php" target="_blank"><i>nut | nutter</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/G/groovy_1411.php" target="_blank"><i>groovy</i></a>
 <span> = </span>
-<span>a crazy or strange person</span>
+<span>exciting, fashionable, interesting</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

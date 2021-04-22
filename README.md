@@ -339,16 +339,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Next for Visual Studio?](https://www.theregister.com/2021/04/20/what_next_for_visual_studio/)
-- [Microsoft statement on Derek Chauvin verdict](https://blogs.microsoft.com/blog/2021/04/20/microsoft-statement-on-derek-chauvin-verdict/)
-- [CISA Emergency Directive 21-03: Mitigate Pulse Secure Product Vulnerabilities](https://cyber.dhs.gov/ed/21-03/)
-- [The E-Scooters Loved by Silicon Valley Roll into New York](https://www.newyorker.com/magazine/2021/04/26/the-e-scooters-loved-by-silicon-valley-roll-into-new-york)
-- [The Day the San Francisco Sky Turned Orange](https://www.newyorker.com/culture/video-dept/the-day-the-san-francisco-sky-turned-orange)
-- [On the Menu at a Lunch in Italy: Protected Songbirds](https://www.nytimes.com/2021/04/20/world/europe/italy-lunch-songbirds.html)
-- [Genomes Reveal Humanity’s Journey into the Americas](https://www.scientificamerican.com/article/genomes-reveal-humanitys-journey-into-the-americas/)
-- [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
-- [Work Progresses Toward Ingenuity’s First Flight on Mars Mars](https://mars.nasa.gov/technology/helicopter/status/290/work-progresses-toward-ingenuity-s-first-flight-on-mars/)
-- [How NASA Is Pushing a Software Update to Mars to Get Ingenuity Flying](https://www.vice.com/en/article/akgzga/how-nasa-is-pushing-a-software-update-to-mars-to-get-ingenuity-flying)
+- [Ask HN: Is access to information a problem in preventing pandemic deaths?](https://news.ycombinator.com/item?id=26897975)
+- [Steve Jobs Makes Fun of DOS in 1992](https://www.youtube.com/watch?v=KMX_FuOLoCI)
+- [Underwater Volcanoes Generate Enough Energy to Power the Entire US](https://www.vice.com/en/article/bvz8ba/underwater-volcanoes-generate-enough-energy-to-power-the-entire-us-study-finds)
+- [Sawing Someone in Half Never Gets Old. Even at 100](https://www.nytimes.com/interactive/2021/01/29/arts/magic-trick-100-years.html)
+- [Argos Translate: Who Needs Google Translate](https://www.youtube.com/watch?v=1yLSLgeFzYY)
+- [Nike's Refurbished Program for Used Sneakers](https://www.core77.com/posts/108533/Nikes-Refurbished-Program-for-Used-Sneakers)
+- [The Suicide Wave That Never Was](https://www.theatlantic.com/health/archive/2021/04/pandemic-suicide-crisis-unsupported-data/618660/)
+- [EFF Origin Story: SJ Games vs. the Secret Service](http://www.sjgames.com/SS/)
+- [Microsoft revokes MVP status of developer who tweeted about request to promote](https://www.theregister.com/2021/04/21/microsoft_revokes_mvp_status/?td=keepreading-btm)
+- [Microsoft pushes MVPs, influencers to spruik Azure](https://www.crn.com.au/news/microsoft-pushes-mvps-influencers-to-spruik-azure-in-lead-up-to-aws-reinvent-563623)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/get_1/get_together_2353.php" target="_blank"><i>get together</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/crack_down_2114.php" target="_blank"><i>crack down</i></a>
 <span> = </span>
-<span>to meet and spend time together</span>
+<span>to start enforcing a law or a rule more strictly</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

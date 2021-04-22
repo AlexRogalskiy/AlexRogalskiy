@@ -324,16 +324,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Buy an AirTag, Not a Tile Tracker (Unless You Use Android)](https://www.howtogeek.com/724200/buy-an-airtag-not-a-tile-tracker-unless-you-use-android/)
-* [The Best AirTag Alternative for Android](https://www.howtogeek.com/724198/the-best-airtag-alternative-for-android/)
-* [Polaroid's Tiny Instant Camera is Big on Nostalgia](https://www.reviewgeek.com/78847/polaroids-tiny-instant-camera-is-big-on-nostalgia/)
-* [Nomad Launches AirTags Keychain and Glasses Strap with $10 Pre-Order Discount](https://www.reviewgeek.com/78842/nomad-launches-airtags-keychain-and-glasses-strap-with-10-pre-order-discount/)
-* [iOS 14.5 Rolls Out Next Week, With Apple Watch FaceID Unlock for iPhones](https://www.reviewgeek.com/78840/ios-145-rolls-out-next-week-with-apple-watch-faceid-unlock-for-iphones/)
-* [Apple's Redesigned M1 iMac are As Colorful and Thin As a Magic Marker](https://www.reviewgeek.com/78753/apple-debuts-24-inch-imac-7-colors/)
-* [Apple's New iPad Pro Features M1 Chipset, Liquid Retina XDR Display, 5G Support](https://www.reviewgeek.com/78752/apples-new-ipad-pro-features-m1-chipset-liquid-retina-xdr-display-5g-support/)
-* [Apple's Trackable AirTags Arrive, So You Can Find Your Stuff](https://www.reviewgeek.com/78755/apples-trackable-airtags-arrive-so-you-can-find-your-stuff/)
-* [New Apple TV 4K Automatically Calibrates Color on Any TV, Fixes the Siri Remote](https://www.reviewgeek.com/78772/new-apple-tv-4k-automatically-calibrates-to-any-tv-fixes-the-siri-remote/)
-* [Apple Introduces iPhone 12 in a New Flat Purple Color](https://www.reviewgeek.com/78765/apple-introduces-iphone-12-in-a-new-flat-purple-color/)
+* [Proper Linux App Support Arrives on Windows Insider Build](https://www.reviewgeek.com/79116/proper-linux-app-support-arrives-on-windows-insider-build/)
+* [Microsoft Has a New Surface Pen, but You Have to Ask a Teacher If You Can Borrow It](https://www.reviewgeek.com/79130/microsoft-has-a-new-surface-pen-but-you-have-to-ask-a-teacher-if-you-can-borrow-it/)
+* [Ransomeware Group Targets Apple in $50 Million Extortion Attempt](https://www.reviewgeek.com/79086/ransomeware-group-targets-apple-50-million/)
+* [New Chrome OS Update Includes Diagnostics Tool and Improved Launcher](https://www.reviewgeek.com/79078/new-chrome-os-update-includes-diagnostics-tool-and-improved-launcher/)
+* [Google's Upcoming Assistant Shortcuts Still Aren't the Routines We Need](https://www.reviewgeek.com/79056/googles-upcoming-assistant-shortcuts-still-arent-the-routines-we-need/)
+* [Google Meet Knows You Hate Your Face, Will Let You Hide It](https://www.reviewgeek.com/79048/google-meet-ui-refresh-makes-it-easier-to-focus-during-meetings/)
+* [LEGO's New R2D2 Set Includes a Secret Nod to 'Return of the Jedi'](https://www.reviewgeek.com/79071/legos-new-r2d2-set-includes-a-secret-nod-to-return-of-the-jedi/)
+* [Amazon Alexa Can Now Help You Find a COVID-19 Vaccine](https://www.reviewgeek.com/79055/amazon-alexa-can-now-help-you-find-a-covid-19-vaccine/)
+* [Android 12 DP3 Release Brings New App Animations and Haptics](https://www.reviewgeek.com/78997/android-12-dp3-release-brings-new-app-animations-and-haptics/)
+* [Facebook Ignored a Vulnerability that Leaked Millions of User Email Addresses](https://www.reviewgeek.com/78996/facebook-ignored-a-vulnerability-that-leaked-millions-of-user-email-addresses/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

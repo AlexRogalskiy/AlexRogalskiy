@@ -354,16 +354,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – live](https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death)
-- [Is sitting still slowly killing us? – podcast](https://www.theguardian.com/news/audio/2021/apr/21/is-sitting-still-slowly-killing-us)
-- [Mark Allen pays tribute to departing Barry Hearn after sealing Crucible win](https://www.theguardian.com/sport/2021/apr/21/world-snooker-championship-mark-allen-barry-hearn-bingham-ding)
-- [Today’s verdict isn’t ‘justice’. But accountability is a first step to justice | Keith Ellison](https://www.theguardian.com/commentisfree/2021/apr/20/keith-ellison-george-floyd-speech-minnesota-attorney-general)
-- [Chelsea’s Thomas Tuchel insists club owners ‘have passion for football’](https://www.theguardian.com/football/2021/apr/20/chelsea-to-withdraw-from-european-super-league-amid-fan-protests)
-- [Just Eat to offer 1,500 Liverpool couriers minimum hourly rate and sick pay](https://www.theguardian.com/business/2021/apr/21/just-eat-to-offer-1500-liverpool-couriers-minimum-hourly-rate-and-sick-pay)
-- [Case launched against TikTok over collection of children’s data](https://www.theguardian.com/technology/2021/apr/21/case-launched-against-tiktok-over-collection-of-childrens-data)
-- [Genetic diversity in salmon has declined since fish farming introduced – study](https://www.theguardian.com/environment/2021/apr/21/genetic-diversity-in-salmon-has-declined-since-fish-farming-introduced-study)
-- [UK government must save Liberty Steel soon to protect supply chain jobs, warns Labour](https://www.theguardian.com/business/2021/apr/21/uk-government-must-save-liberty-steel-soon-to-protect-supply-chain-jobs-warns-labour)
-- [Melting ice in Arctic linked to bowhead whales holding off annual migration](https://www.theguardian.com/environment/2021/apr/21/melting-ice-in-arctic-linked-to-bowhead-whales-holding-off-annual-migration)
+- [George Floyd: will Derek Chauvin’s guilty verdict change US policing?](https://www.theguardian.com/news/audio/2021/apr/22/george-floyd-will-derek-chauvins-guilty-verdict-change-us-policing)
+- [‘On standby’: defiant Florentino Pérez insists Super League is far from dead](https://www.theguardian.com/football/2021/apr/22/on-standby-defiant-florentino-perez-insists-super-league-is-far-from-dead)
+- [Dog breaks loose to win relay race in US high school track event – video](https://www.theguardian.com/global/video/2021/apr/22/dog-breaks-loose-to-wins-relay-race-in-us-high-school-track-event-video)
+- [Samoa election 2021: still no clear winner despite creation of new seat](https://www.theguardian.com/world/2021/apr/22/samoa-election-2021-still-no-clear-winner-despite-creation-of-new-seat)
+- [Russia: we’ll leave International Space Station and build our own](https://www.theguardian.com/science/2021/apr/22/russia-well-leave-international-space-station-and-build-our-own)
+- [Inspection finds peeling walls and residue at US plant that ruined 15m Johnson & Johnson vaccine doses](https://www.theguardian.com/world/2021/apr/21/johnson-johnson-vaccine-coronavirus-fda)
+- [Most new mums say NHS six-week checks fail to focus on their health](https://www.theguardian.com/society/2021/apr/22/most-new-mums-say-nhs-six-week-checks-fail-to-focus-on-their-health)
+- [UK universities urge government to be ‘proportionate’ in free speech legislation](https://www.theguardian.com/education/2021/apr/22/uk-universities-urge-government-to-be-proportionate-in-free-speech-legislation)
+- [Barnsley posts UK’s strongest growth in job opportunities](https://www.theguardian.com/business/2021/apr/22/barnsley-posts-uks-strongest-growth-in-job-opportunities)
+- [Maths scores in world education rankings inflated for England and Wales – study](https://www.theguardian.com/education/2021/apr/22/maths-scores-in-world-education-rankings-inflated-for-england-and-wales-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

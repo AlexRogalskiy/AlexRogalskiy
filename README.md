@@ -384,16 +384,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What's in the latest Firefox update? 88 stymies shifty JavaScript tracker](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-88-stymies-shifty-javascript-tracker.html#tk.rss_all)
 - [An enterprise take on Apple’s Spring Loaded event](https://www.computerworld.com/article/3615992/an-enterprise-take-on-apple-s-spring-loaded-event.html#tk.rss_all)
 - [What's in the latest Chrome update? Default to HTTPS, focused links](https://www.computerworld.com/article/3211427/whats-in-the-latest-chrome-update.html#tk.rss_all)
+- [Will you be heading back to the office? Should you?](https://www.computerworld.com/article/3615217/will-you-be-heading-back-to-the-office-should-you.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [This Python and Django web development course bundle is just $24 with code](https://www.computerworld.com/article/3615453/this-python-and-django-web-development-course-bundle-is-just-24-with-code.html#tk.rss_all)
 - [VMware targets remote work security with Anywhere Workspace](https://www.computerworld.com/article/3615593/vmware-targets-remote-work-security-with-anywhere-workspace.html#tk.rss_all)
 - [4 new hidden Chrome features you should really be using](https://www.computerworld.com/article/3615701/new-chrome-features.html#tk.rss_all)
 - [10+ Slack tips for Mac users](https://www.computerworld.com/article/3615988/10-slack-tips-for-mac-users.html#tk.rss_all)
 - [Starting a new job in a pandemic: Virtual onboarding to the rescue](https://www.computerworld.com/article/3614808/starting-a-new-job-in-a-pandemic-virtual-onboarding-to-the-rescue.html#tk.rss_all)
-- [PC shipment gains continue as students, workers remain remote](https://www.computerworld.com/article/3615496/pc-shipment-gains-continue-as-students-workers-remain-remote.html#tk.rss_all)
-- [Skimping on drive space means Windows 10 update woes](https://www.computerworld.com/article/3615494/skimping-on-drive-space-means-windows-10-update-woes.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

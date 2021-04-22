@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/Seeing_is_believing_587.php" target="_blank"><i>Seeing is believing</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/I/If_you_wish_good_advice_consult_an_old_man_509.php" target="_blank"><i>If you wish good advice, consult an old man</i></a>
 <span> = </span>
-<span>The idea here is that we usually think something is true when we see it with our own eyes. We have to see something before we can accept its real value, or that it exists at all.</span>
+<span>Old people have a lot of experience. If you want to have good advice or recommendations, ask an old person, not a young one.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

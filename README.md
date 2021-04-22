@@ -429,16 +429,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Health app myGP adds Covid-19 vaccine passport function](https://www.computerweekly.com/news/252499594/Health-app-myGP-adds-Covid-19-vaccine-passport-function)
-- [UK’s proposed IoT cyber security law gathers momentum](https://www.computerweekly.com/news/252499590/UKs-proposed-IoT-cyber-security-law-gathers-momentum)
-- [Chinese APT exploits critical CVE in Pulse Secure VPN](https://www.computerweekly.com/news/252499599/Chinese-APT-exploits-critical-CVE-in-Pulse-Secure-VPN)
-- [Security Think Tank: ‘Legitimate interest’ crucial for vaccine passports](https://www.computerweekly.com/opinion/Security-Think-Tank-Legitimate-interest-crucial-for-vaccine-passports)
-- [A Computer Weekly buyer’s guide to containerisation in the enterprise](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-containerisation-in-the-enterprise)
-- [Drax partners with Solace to manage biomass supply chain](https://www.computerweekly.com/news/252499593/Drax-partners-with-Solace-to-manage-biomass-supply-chain)
-- [Codecov supply chain attack has echoes of SolarWinds](https://www.computerweekly.com/news/252499587/Codecov-supply-chain-attack-has-echoes-of-SolarWinds)
-- [Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour](https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour)
-- [Banco Santander moving more than 200 servers to cloud per day](https://www.computerweekly.com/news/252499576/Banco-Santander-moving-more-than-200-servers-to-cloud-per-day)
-- [Shop and go – will Amazon’s cashless ‘just walk out’ store work?](https://www.computerweekly.com/ezine/Computer-Weekly/Shop-and-go-will-Amazons-cashless-just-walk-out-store-work)
+- [Anti-food waste app Karma taps up Google Cloud to power global expansion plans](https://www.computerweekly.com/news/252499627/Anti-food-waste-app-Karma-taps-up-Google-Cloud-to-power-global-expansion-plans)
+- [NCSC offers teachers free cyber security training](https://www.computerweekly.com/news/252499637/NCSC-offers-teachers-free-cyber-security-training)
+- [Government should do more to protect well-being in the digital world, says report](https://www.computerweekly.com/news/252499638/Government-should-do-more-to-protect-well-being-in-the-digital-world-report-says)
+- [UK government renews cloud discount pricing MoU with Microsoft](https://www.computerweekly.com/news/252499636/UK-government-renews-cloud-discount-pricing-MoU-with-Microsoft)
+- [EU lays out plans to regulate AI development](https://www.computerweekly.com/news/252499633/EU-lays-out-plans-to-regulate-AI-development)
+- [SonicWall Email Security zero-days need urgent patch](https://www.computerweekly.com/news/252499628/SonicWall-Email-Security-zero-days-need-urgent-patch)
+- [Post-Covid digital transformation requires ERP innovation](https://www.computerweekly.com/news/252499625/Post-Covid-digital-transformation-requires-ERP-innovation)
+- [Time is running out to probe networks for Emotet](https://www.computerweekly.com/news/252499624/Time-is-running-out-to-probe-networks-for-Emotet)
+- [Ocado advances autonomous vehicle strategy with Oxbotica deal](https://www.computerweekly.com/news/252499620/Ocado-advances-autonomous-vehicle-strategy-with-Oxbotica-deal)
+- [Winemaker racks Pure all-NVMe all-flash for rapid SAP response](https://www.computerweekly.com/news/252499607/Winemaker-racks-Pure-all-NVMe-all-flash-for-rapid-SAP-response)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -241,15 +241,24 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649097968432168960" target="_blank"><i>The Realists</i></a></summary>
-<p>by W.B. Yeats<br/></p><p>Hope that you may understand!
-<br/>What can books of men that wive
-<br/>In a dragon-guarded land,
-<br/>Paintings of the dolphin-drawn
-<br/>Sea-nymphs in their pearly wagons
-<br/>Do, but awake a hope to live
-<br/>That had gone
-<br/>With the dragons?</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649188577672085504" target="_blank"><i>Democracy</i></a></summary>
+<p>by Langston Hughes</p><p>Democracy will not come<br/>
+Today, this year<br/>
+ Nor ever<br/>
+Through compromise and fear.</p><p>I have as much right<br/>
+As the other fellow has<br/>
+ To stand<br/>
+On my two feet<br/>
+And own the land.</p><p>I tire so of hearing people say,<br/>
+Let things take their course.<br/>
+Tomorrow is another day.<br/>
+I do not need my freedom when I’m dead.<br/>
+I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
+ Is a strong seed<br/>
+ Planted<br/>
+ In a great need.</p><p> I live here, too.<br/>
+ I want freedom<br/>
+ Just as you.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

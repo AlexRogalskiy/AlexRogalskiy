@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/crack_down_2114.php" target="_blank"><i>crack down</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/dry_up_2199.php" target="_blank"><i>dry up</i></a>
 <span> = </span>
-<span>to start enforcing a law or a rule more strictly</span>
+<span>If something like water or oil dries up, or its source dries up, it means it's all gone and there is none left.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

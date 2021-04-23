@@ -383,6 +383,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 12 piles on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
+- [What is an API gateway? API simplicity and stability](https://www.infoworld.com/article/3616188/what-is-an-api-gateway-api-simplicity-and-stability.html#tk.rss_all)
+- [What is a computational storage drive? Much-needed help for CPUs](https://www.infoworld.com/article/3615497/what-is-a-computational-storage-drive-much-needed-help-for-cpus.html#tk.rss_all)
 - [JetBrains IntelliJ IDE debuts ‘run targets’](https://www.infoworld.com/article/3616168/jetbrains-intellij-ide-debuts-run-targets.html#tk.rss_all)
 - [Build more secure software with Rust for Windows](https://www.infoworld.com/article/3615991/build-more-secure-software-with-rust-for-windows.html#tk.rss_all)
 - [LLVM 12 arrives with x86, AArch optimizations](https://www.infoworld.com/article/3615511/llvm-12-arrives-with-x86-aarch-optimizations.html#tk.rss_all)
@@ -390,9 +393,6 @@
 - [Review: 7 Python IDEs go to the mat](https://www.infoworld.com/article/3132430/review-6-python-ides-go-to-the-mat.html#tk.rss_all)
 - [Node.js 16 introduces Apple Silicon support](https://www.infoworld.com/article/3615673/nodejs-16-introduces-apple-silicon-support.html#tk.rss_all)
 - [Python is devouring data science](https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html#tk.rss_all)
-- [How to use SortedDictionary, SortedList, and SortedSet in C#](https://www.infoworld.com/article/3615672/how-to-use-sorteddictionary-sortedlist-and-sortedset-in-csharp.html#tk.rss_all)
-- [Edge computing archetypes are emerging, and they are not pretty](https://www.infoworld.com/article/3615592/edge-computing-archetypes-are-emerging-and-they-are-not-pretty.html#tk.rss_all)
-- [Microsoft Visual Studio 2022 preview is coming soon](https://www.infoworld.com/article/3615276/microsoft-visual-studio-2022-preview-is-coming-soon.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

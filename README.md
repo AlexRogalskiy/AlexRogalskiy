@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/dig_up_dirt_57.php" target="_blank"><i>dig up dirt</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/rags_to_riches_688.php" target="_blank"><i>rags to riches</i></a>
 <span> = </span>
-<span>If you dig up dirt on someone, you try to find details from their past to make them look bad in the present.</span>
+<span>If you go from rags to riches, you start out very poor and you become very rich.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

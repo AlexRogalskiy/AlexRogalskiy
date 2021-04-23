@@ -428,6 +428,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Are you ready for turbocharged ransomware attacks?](https://www.itworldcanada.com/article/are-you-ready-for-turbocharged-ransomware-attacks/446434)
+- [Higher education’s COVID-fueled journey to cloud transformation](https://www.itworldcanada.com/article/higher-educations-covid-fueled-journey-to-cloud-transformation/446440)
+- [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
 - [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
 - [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
 - [New Apple iMac and iPad Pros now use the M1 chip](https://www.itworldcanada.com/article/new-apple-imac-and-ipad-pros-now-use-the-m1-chip/446375)
@@ -435,9 +438,6 @@
 - [Hashtag Trending, April 21, 2021 – Facebook gains inspiration from Clubhouse; Instagram for kids idea slammed; Budget 2021](https://www.itworldcanada.com/article/hashtag-trending-april-21-2021-facebook-gains-inspiration-from-clubhouse-instagram-for-kids-idea-slammed-budget-2021/446364)
 - [Apple targeted by ransomware group claiming to have stolen product details from supplier](https://www.itworldcanada.com/article/apple-targeted-by-ransomware-group-claiming-to-have-stolen-product-details-from-supplier/446352)
 - [CRTC’s virtual mobile network approval stirs mixed reactions](https://www.itworldcanada.com/article/crtcs-virtual-mobile-network-approval-stirs-mixed-reactions/446291)
-- [Coffee Briefing, April 20, 2021 – A federal budget recap, and more](https://www.itworldcanada.com/article/coffee-briefing-april-20-2021-a-federal-budget-recap-and-more/446329)
-- [Hashtag Trending, April 20, 2021 – Rogers outage; Starlink goes fully mobile later this year; NASA chopper on Mars](https://www.itworldcanada.com/article/hashtag-trending-april-20-2021-rogers-outage-starlink-goes-fully-mobile-later-this-year-nasa-chopper-on-mars/446326)
-- [Toronto tech employees launch Vaccine Finder](https://www.itworldcanada.com/article/toronto-tech-employees-launch-vaccine-finder/446312)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

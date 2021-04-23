@@ -308,16 +308,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is access to information a problem in preventing pandemic deaths?](https://news.ycombinator.com/item?id=26897975)
-- [Steve Jobs Makes Fun of DOS in 1992](https://www.youtube.com/watch?v=KMX_FuOLoCI)
-- [Underwater Volcanoes Generate Enough Energy to Power the Entire US](https://www.vice.com/en/article/bvz8ba/underwater-volcanoes-generate-enough-energy-to-power-the-entire-us-study-finds)
-- [Sawing Someone in Half Never Gets Old. Even at 100](https://www.nytimes.com/interactive/2021/01/29/arts/magic-trick-100-years.html)
-- [Argos Translate: Who Needs Google Translate](https://www.youtube.com/watch?v=1yLSLgeFzYY)
-- [Nike's Refurbished Program for Used Sneakers](https://www.core77.com/posts/108533/Nikes-Refurbished-Program-for-Used-Sneakers)
-- [The Suicide Wave That Never Was](https://www.theatlantic.com/health/archive/2021/04/pandemic-suicide-crisis-unsupported-data/618660/)
-- [EFF Origin Story: SJ Games vs. the Secret Service](http://www.sjgames.com/SS/)
-- [Microsoft revokes MVP status of developer who tweeted about request to promote](https://www.theregister.com/2021/04/21/microsoft_revokes_mvp_status/?td=keepreading-btm)
-- [Microsoft pushes MVPs, influencers to spruik Azure](https://www.crn.com.au/news/microsoft-pushes-mvps-influencers-to-spruik-azure-in-lead-up-to-aws-reinvent-563623)
+- [Digg: Six Feet Under [video]](https://www.youtube.com/watch?v=73FuERA1cHQ)
+- [1973 Staten Island gas explosion](https://en.wikipedia.org/wiki/1973_Staten_Island_gas_explosion)
+- [Virginia moving to eliminate all accelerated math courses before 11th grade](https://www.foxnews.com/us/virginia-accelerated-math-courses-equity)
+- [Sigstore Project Update – Binary Transparency for JARs](https://blog.sigstore.dev/sigstore-project-update-april-2021-f01d7ea5c60e)
+- [The (Mostly) True Story of Helvetica and the NYC Subway (2008)](https://www.aiga.org/the-mostly-true-story-of-helvetica-and-the-new-york-city-subway)
+- [Pomperipossa in Monismania](https://en.wikipedia.org/wiki/Pomperipossa_in_Monismania)
+- [Tesla's Autopilot 'tricked' to operate without driver](https://www.bbc.co.uk/news/technology-56854417)
+- [Jack Dorsey claims Bitcoin incentivizes renewable energy](https://twitter.com/jack/status/1384903902907314176)
+- [Scott Rudin, as Told by His Assistants](https://www.vulture.com/2021/04/scott-rudin-as-told-by-his-assistants.html)
+- [Emerging use cases for productivity infrastructure](https://techcrunch.com/2021/04/22/5-emerging-use-cases-for-productivity-infrastructure-in-2021/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

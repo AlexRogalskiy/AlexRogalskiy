@@ -289,7 +289,7 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>few clouds</i>), humidity: 81%, pressure: 1004 (mbar), wind: /south-west/ 3 (m/s), cloudy: 20%</b>
+        <b>6°C (<i>clear sky</i>), humidity: 87%, pressure: 1005 (mbar), wind: /south/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:19 am</b> and sets at <b>20:34 pm</b>.
     </p>

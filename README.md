@@ -338,16 +338,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Today, Jonathan Smith walks free after 21 years of wrongful imprisonment](https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/)
-- [Manhattan DA says his office to stop prosecuting prostitution](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution)
-- [Why I distrust Google Cloud more than than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
-- [ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users](https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/)
-- [Ask HN: How is a company like Comcast able to get away with spam?](https://news.ycombinator.com/item?id=26896611)
-- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
-- [Godot 3.3](https://godotengine.org/article/godot-3-3-has-arrived)
-- [Riya Collective (YC W20) Is Hiring](https://www.workatastartup.com/jobs/43518)
-- [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
-- [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
+- [Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today](https://greatreefcensus.org/event/earthday)
+- [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
+- [The culture war is killing us [video]](https://www.youtube.com/watch?v=0DRHn_Dz_js)
+- [The Rise of North Korea's Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+- [Smart Folk Often Full of Crap, Study Finds](https://themultidisciplinarian.com/2021/04/22/smart-folk-often-full-of-crap-study-finds/)
+- [GitHub Actions: Maintainers must approve first time contributer workflow runs](https://github.blog/changelog/2021-04-22-github-actions-maintainers-must-approve-first-time-contributer-workflow-runs/)
+- [BuildZoom (better way to build custom homes) is hiring remote engineers](https://jobs.lever.co/buildzoom)
+- [GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/)
+- [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
+- [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

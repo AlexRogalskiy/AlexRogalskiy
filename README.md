@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/I/If_you_wish_good_advice_consult_an_old_man_509.php" target="_blank"><i>If you wish good advice, consult an old man</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/Jack_of_all_trades_master_of_none_544.php" target="_blank"><i>Jack of all trades, master of none</i></a>
 <span> = </span>
-<span>Old people have a lot of experience. If you want to have good advice or recommendations, ask an old person, not a young one.</span>
+<span>Suggesting that a person who can do many different types of work is probably not very good at any of them.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

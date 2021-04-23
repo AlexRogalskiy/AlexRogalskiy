@@ -398,16 +398,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Anti-food waste app Karma taps up Google Cloud to power global expansion plans](https://www.computerweekly.com/news/252499627/Anti-food-waste-app-Karma-taps-up-Google-Cloud-to-power-global-expansion-plans)
-- [NCSC offers teachers free cyber security training](https://www.computerweekly.com/news/252499637/NCSC-offers-teachers-free-cyber-security-training)
-- [Government should do more to protect well-being in the digital world, says report](https://www.computerweekly.com/news/252499638/Government-should-do-more-to-protect-well-being-in-the-digital-world-report-says)
-- [UK government renews cloud discount pricing MoU with Microsoft](https://www.computerweekly.com/news/252499636/UK-government-renews-cloud-discount-pricing-MoU-with-Microsoft)
-- [EU lays out plans to regulate AI development](https://www.computerweekly.com/news/252499633/EU-lays-out-plans-to-regulate-AI-development)
-- [SonicWall Email Security zero-days need urgent patch](https://www.computerweekly.com/news/252499628/SonicWall-Email-Security-zero-days-need-urgent-patch)
-- [Post-Covid digital transformation requires ERP innovation](https://www.computerweekly.com/news/252499625/Post-Covid-digital-transformation-requires-ERP-innovation)
-- [Time is running out to probe networks for Emotet](https://www.computerweekly.com/news/252499624/Time-is-running-out-to-probe-networks-for-Emotet)
-- [Ocado advances autonomous vehicle strategy with Oxbotica deal](https://www.computerweekly.com/news/252499620/Ocado-advances-autonomous-vehicle-strategy-with-Oxbotica-deal)
-- [Winemaker racks Pure all-NVMe all-flash for rapid SAP response](https://www.computerweekly.com/news/252499607/Winemaker-racks-Pure-all-NVMe-all-flash-for-rapid-SAP-response)
+- [GCHQ: Cyber investment a guarantor of UK’s global status](https://www.computerweekly.com/news/252499680/GCHQ-Cyber-investment-a-guarantor-of-UKs-global-status)
+- [Researchers shed more light on APT29 activity during SolarWinds attack](https://www.computerweekly.com/news/252499691/Researchers-shed-more-light-on-APT29-activity-during-SolarWinds-attack)
+- [SAP Q1 2021: Revenue nudges up 2% year-on-year, S/4 adoption up 2.5% on prior quarter](https://www.computerweekly.com/news/252499682/SAP-Q1-2021-Revenue-nudges-up-2-year-on-year-S-4-adoption-up-25-on-prior-quarter)
+- [Department for Education publishes digital strategy](https://www.computerweekly.com/news/252499685/Department-for-Education-publishes-digital-strategy)
+- [Met Office prepares for 1.5 million processor, 60 petaflop supercomputer](https://www.computerweekly.com/news/252499687/Met-Office-prepares-for-15-million-processor-60-petaflop-supercomputer)
+- [Automation, zero-trust, API-based security priorities for EMEA CISOs](https://www.computerweekly.com/news/252499676/Automation-zero-trust-API-based-security-priorities-for-EMEA-CISOs)
+- [Ireland’s datacentre industry launches pro-pollinator plan to boost bee population](https://www.computerweekly.com/news/252499683/Irelands-datacentre-industry-launches-pro-pollinator-plan-to-boost-bee-population)
+- [ToxicEye malware exploits Telegram messaging service](https://www.computerweekly.com/news/252499673/ToxicEye-malware-exploits-Telegram-messaging-service)
+- [Grafana Labs switches open source licensing to stem strip-mining tactics](https://www.computerweekly.com/news/252499678/Grafana-Labs-switches-open-source-licensing-to-stem-strip-mining-tactics)
+- [Customer experience market made leap forward during pandemic](https://www.computerweekly.com/feature/Customer-experience-market-made-leap-forward-during-pandemic)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

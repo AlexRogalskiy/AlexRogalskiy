@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/G/groovy_1411.php" target="_blank"><i>groovy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/K/kick_kicks_779.php" target="_blank"><i>kick | kicks</i></a>
 <span> = </span>
-<span>exciting, fashionable, interesting</span>
+<span>excitement, fun</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

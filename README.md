@@ -413,16 +413,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
+- [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
+- [senior in HS looking to get a degree in information technology that has a few questions](https://www.reddit.com/r/InformationTechnology/comments/mwa530/senior_in_hs_looking_to_get_a_degree_in/)
+- [I wanna go into IT what some apps or videos I should watch to help me get started.( or what coding should I learn)](https://www.reddit.com/r/InformationTechnology/comments/mw6u8r/i_wanna_go_into_it_what_some_apps_or_videos_i/)
+- [Comptia Security+ SYO-501](https://www.reddit.com/r/InformationTechnology/comments/mw2w5h/comptia_security_syo501/)
+- [Discussion - How long until mandatory 2FA everywhere?](https://www.reddit.com/r/InformationTechnology/comments/mvx9kf/discussion_how_long_until_mandatory_2fa_everywhere/)
 - [Interview questions](https://www.reddit.com/r/InformationTechnology/comments/mvskxo/interview_questions/)
 - [Foot in the Door](https://www.reddit.com/r/InformationTechnology/comments/mvqoae/foot_in_the_door/)
 - [Any good IT related podcasts you guys listen to?](https://www.reddit.com/r/InformationTechnology/comments/mvhk3w/any_good_it_related_podcasts_you_guys_listen_to/)
 - [Virtual Box and windows update](https://www.reddit.com/r/InformationTechnology/comments/mvg53b/virtual_box_and_windows_update/)
-- [IT Survey (10 Minutes Max)](https://www.reddit.com/r/InformationTechnology/comments/mvc6xo/it_survey_10_minutes_max/)
-- [Computer operator good start?](https://www.reddit.com/r/InformationTechnology/comments/mvblw8/computer_operator_good_start/)
-- [Bachelor of Computer Science to Bachelor of IT](https://www.reddit.com/r/InformationTechnology/comments/mv7do2/bachelor_of_computer_science_to_bachelor_of_it/)
-- [How to manage multiple accounts on the same calendar](https://www.reddit.com/r/InformationTechnology/comments/mv0jzc/how_to_manage_multiple_accounts_on_the_same/)
-- [How do I stop a forced Windows Update that is in progress?](https://www.reddit.com/r/InformationTechnology/comments/muwewn/how_do_i_stop_a_forced_windows_update_that_is_in/)
-- [Help Choosing IT Solutions for My Business](https://www.reddit.com/r/InformationTechnology/comments/mutmhx/help_choosing_it_solutions_for_my_business/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

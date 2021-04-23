@@ -293,16 +293,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Proper Linux App Support Arrives on Windows Insider Build](https://www.reviewgeek.com/79116/proper-linux-app-support-arrives-on-windows-insider-build/)
-* [Microsoft Has a New Surface Pen, but You Have to Ask a Teacher If You Can Borrow It](https://www.reviewgeek.com/79130/microsoft-has-a-new-surface-pen-but-you-have-to-ask-a-teacher-if-you-can-borrow-it/)
-* [Ransomeware Group Targets Apple in $50 Million Extortion Attempt](https://www.reviewgeek.com/79086/ransomeware-group-targets-apple-50-million/)
-* [New Chrome OS Update Includes Diagnostics Tool and Improved Launcher](https://www.reviewgeek.com/79078/new-chrome-os-update-includes-diagnostics-tool-and-improved-launcher/)
-* [Google's Upcoming Assistant Shortcuts Still Aren't the Routines We Need](https://www.reviewgeek.com/79056/googles-upcoming-assistant-shortcuts-still-arent-the-routines-we-need/)
-* [Google Meet Knows You Hate Your Face, Will Let You Hide It](https://www.reviewgeek.com/79048/google-meet-ui-refresh-makes-it-easier-to-focus-during-meetings/)
-* [LEGO's New R2D2 Set Includes a Secret Nod to 'Return of the Jedi'](https://www.reviewgeek.com/79071/legos-new-r2d2-set-includes-a-secret-nod-to-return-of-the-jedi/)
-* [Amazon Alexa Can Now Help You Find a COVID-19 Vaccine](https://www.reviewgeek.com/79055/amazon-alexa-can-now-help-you-find-a-covid-19-vaccine/)
-* [Android 12 DP3 Release Brings New App Animations and Haptics](https://www.reviewgeek.com/78997/android-12-dp3-release-brings-new-app-animations-and-haptics/)
-* [Facebook Ignored a Vulnerability that Leaked Millions of User Email Addresses](https://www.reviewgeek.com/78996/facebook-ignored-a-vulnerability-that-leaked-millions-of-user-email-addresses/)
+* [These True Wireless Earbuds Can Connect to In-Flight Audio Systems](https://www.reviewgeek.com/79352/these-true-wireless-earbuds-can-connect-to-in-flight-audio-systems/)
+* [Turn Your Old Galaxy Phone Into a Smart Home Sensor with Samsung's App Beta](https://www.reviewgeek.com/79310/turn-your-old-galaxy-phone-into-a-smart-home-sensor-with-samsungs-app-beta/)
+* [Google's Pixel 5a Sounds An Awful Lot Like the Pixel 5](https://www.reviewgeek.com/79251/pixel-5a-5g-leak-sounds-like-a-pixel-5/)
+* [iMessage Might Become a Social Network in iOS/iPadOS 15 (and Other Rumors)](https://www.reviewgeek.com/79277/imessage-might-become-a-social-network-in-ios-ipados-15-and-other-rumors/)
+* [NASA's Perseverance Rover Is the First Device to Produce Oxygen on Mars](https://www.reviewgeek.com/79252/nasas-perseverance-rover-is-the-first-device-to-produce-oxygen-on-mars/)
+* [Garmin's New Venu 2 Smartwatches Are Everything the First One Should've Been](https://www.reviewgeek.com/79249/garmins-new-venu-2-smartwatches-are-everything-the-first-one-shouldve-been/)
+* [Cadillac's $59,990 Lyriq EV Goes 300 Miles on a Single Charge](https://www.reviewgeek.com/79212/cadillacs-59990-lyriq-ev-goes-300-miles-on-a-single-charge/)
+* [Fujifilm Drops a Nintendo Switch Photo Printer to Accompany 'New Pokemon Snap'](https://www.reviewgeek.com/79244/fujifilm-drops-a-nintendo-switch-photo-printer-to-accompany-new-pokemon-snap/)
+* [New $99 RedMagic Watch Boasts 15-Hour Battery, Sport-Focused Fitness Tracking](https://www.reviewgeek.com/79215/new-99-redmagic-watch-boasts-15-hour-battery-sport-focused-fitness-tracking/)
+* [Spider-Man and Other Sony Films Will Web-Sling Onto Disney+ and Hulu](https://www.reviewgeek.com/79203/spider-man-and-other-sony-films-will-web-sling-onto-disney-and-hulu/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

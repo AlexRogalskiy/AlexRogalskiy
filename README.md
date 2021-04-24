@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/K/kick_kicks_779.php" target="_blank"><i>kick | kicks</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/F/fluke_1047.php" target="_blank"><i>fluke</i></a>
 <span> = </span>
-<span>excitement, fun</span>
+<span>a good outcome resulting from luck more than skill</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -347,16 +347,16 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today](https://greatreefcensus.org/event/earthday)
-- [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
-- [The culture war is killing us [video]](https://www.youtube.com/watch?v=0DRHn_Dz_js)
-- [The Rise of North Korea's Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
-- [Smart Folk Often Full of Crap, Study Finds](https://themultidisciplinarian.com/2021/04/22/smart-folk-often-full-of-crap-study-finds/)
-- [GitHub Actions: Maintainers must approve first time contributer workflow runs](https://github.blog/changelog/2021-04-22-github-actions-maintainers-must-approve-first-time-contributer-workflow-runs/)
-- [BuildZoom (better way to build custom homes) is hiring remote engineers](https://jobs.lever.co/buildzoom)
-- [GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/)
-- [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
-- [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+- [A desktop Laravel admin panel app (similar to Invoker)](https://github.com/tmdh/laravel-kit)
+- [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
+- [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
+- [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
+- [Mall department stores were struggling; the pandemic has pushed them to the edge](https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/)
+- [Human-monkey chimera embryos created in lab](https://newatlas.com/science/human-monkey-chimera-embryos/)
+- [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
+- [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
+- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
+- [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

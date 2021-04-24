@@ -317,16 +317,16 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Digg: Six Feet Under [video]](https://www.youtube.com/watch?v=73FuERA1cHQ)
-- [1973 Staten Island gas explosion](https://en.wikipedia.org/wiki/1973_Staten_Island_gas_explosion)
-- [Virginia moving to eliminate all accelerated math courses before 11th grade](https://www.foxnews.com/us/virginia-accelerated-math-courses-equity)
-- [Sigstore Project Update – Binary Transparency for JARs](https://blog.sigstore.dev/sigstore-project-update-april-2021-f01d7ea5c60e)
-- [The (Mostly) True Story of Helvetica and the NYC Subway (2008)](https://www.aiga.org/the-mostly-true-story-of-helvetica-and-the-new-york-city-subway)
-- [Pomperipossa in Monismania](https://en.wikipedia.org/wiki/Pomperipossa_in_Monismania)
-- [Tesla's Autopilot 'tricked' to operate without driver](https://www.bbc.co.uk/news/technology-56854417)
-- [Jack Dorsey claims Bitcoin incentivizes renewable energy](https://twitter.com/jack/status/1384903902907314176)
-- [Scott Rudin, as Told by His Assistants](https://www.vulture.com/2021/04/scott-rudin-as-told-by-his-assistants.html)
-- [Emerging use cases for productivity infrastructure](https://techcrunch.com/2021/04/22/5-emerging-use-cases-for-productivity-infrastructure-in-2021/)
+- [Interesting Things #1 (newsletter)](https://interestingthings.bengtan.com/p/issue-1)
+- [Mathematics for Gamblers](https://aeon.co/essays/a-mathematician-a-philosopher-and-a-gambler-walk-into-a-bar?)
+- [You can use the Elastic License for your own projects](https://www.reddit.com/r/elasticsearch/comments/mv9vxw/can_i_use_the_elastic_license_20_for_other/gvew06m/)
+- [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock.html)
+- [Show HN: VSCode keybindings for Micro terminal editor and TTY](https://github.com/phil294/VSCode-keybindings-for-micro-editor-and-tty)
+- [Simplifying Spring Security](https://gumroad.com/l/VgSdH)
+- [Hedge and Private Equity funds may not hate Biden's capital gains tax plan](https://www.axios.com/biden-capital-gains-tax-rates-60afe7e8-c8ef-4e6c-8821-1e889b37fc36.html)
+- [TCP and IP Bake Off – RFC 1025](https://tools.ietf.org/html/rfc1025)
+- [Why are people renting u-hauls in Hawaii? Blame the pandemic](https://www.hawaiinewsnow.com/2021/04/22/why-are-visitors-cruising-around-u-hauls-blame-pandemic/)
+- [Ask HN: Where to publish tech blog posts these days?](https://news.ycombinator.com/item?id=26921509)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

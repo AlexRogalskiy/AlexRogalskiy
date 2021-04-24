@@ -422,6 +422,8 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
+- [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
 - [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
 - [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
 - [senior in HS looking to get a degree in information technology that has a few questions](https://www.reddit.com/r/InformationTechnology/comments/mwa530/senior_in_hs_looking_to_get_a_degree_in/)
@@ -430,8 +432,6 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 - [Discussion - How long until mandatory 2FA everywhere?](https://www.reddit.com/r/InformationTechnology/comments/mvx9kf/discussion_how_long_until_mandatory_2fa_everywhere/)
 - [Interview questions](https://www.reddit.com/r/InformationTechnology/comments/mvskxo/interview_questions/)
 - [Foot in the Door](https://www.reddit.com/r/InformationTechnology/comments/mvqoae/foot_in_the_door/)
-- [Any good IT related podcasts you guys listen to?](https://www.reddit.com/r/InformationTechnology/comments/mvhk3w/any_good_it_related_podcasts_you_guys_listen_to/)
-- [Virtual Box and windows update](https://www.reddit.com/r/InformationTechnology/comments/mvg53b/virtual_box_and_windows_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

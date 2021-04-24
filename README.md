@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/Jack_of_all_trades_master_of_none_544.php" target="_blank"><i>Jack of all trades, master of none</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/D/Don_t_cross_your_bridges_before_you_come_to_them_500.php" target="_blank"><i>Don't cross your bridges before you come to them</i></a>
 <span> = </span>
-<span>Suggesting that a person who can do many different types of work is probably not very good at any of them.</span>
+<span>Don't worry about problems before they arrive.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

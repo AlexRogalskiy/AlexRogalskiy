@@ -332,16 +332,16 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chaos and collapse: European football’s not-so-super league – podcast](https://www.theguardian.com/news/audio/2021/apr/23/chaos-collapse-european-football-not-so-super-league-podcast)
-- [Missing Indonesian submarine: rescuers find unidentified object as US joins search](https://www.theguardian.com/world/2021/apr/23/indonesian-submarine-missing-search-rescuers-unidentified-object-found-indonesia-navy-kri-nanggala-402)
-- [Premier League and Carabao Cup: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/apr/23/premier-league-and-carabao-cup-10-things-to-look-out-for-this-weekend)
-- [Astronomers map asteroid’s 22m-year journey to Earth](https://www.theguardian.com/science/2021/apr/23/astronomers-map-asteroids-22m-year-journey-to-earth)
-- [GCHQ chief: west faces ‘moment of reckoning’ over cybersecurity](https://www.theguardian.com/uk-news/2021/apr/23/gchq-chief-west-faces-moment-of-reckoning-over-cybersecurity)
-- [Asylum seekers treated ‘in dehumanising way’ by UK host hotels](https://www.theguardian.com/politics/2021/apr/23/asylum-seekers-treated-in-dehumanising-way-by-uk-host-hotels)
-- [One dose of Pfizer or Oxford jab reduces Covid infection rate by 65% – study](https://www.theguardian.com/society/2021/apr/23/one-dose-of-pfizer-or-oxford-jab-reduces-covid-infection-rate-by-65-study)
-- [Kent council fined after mother and son left to live in tent in pandemic](https://www.theguardian.com/society/2021/apr/23/kent-council-fined-after-mother-and-son-left-to-live-in-tent-in-pandemic)
-- [Children with brothers and sisters overlooked for adoption](https://www.theguardian.com/society/2021/apr/23/children-with-brothers-and-sisters-overlooked-for-adoption)
-- [Mortal Kombat review – schlock video game adaptation packs a small punch](https://www.theguardian.com/film/2021/apr/22/mortal-kombat-review)
+- [Myanmar: Asean holds crisis talks as junta leader makes first foreign trip](https://www.theguardian.com/world/2021/apr/24/myanmar-asean-holds-crisis-talks-as-junta-leader-makes-first-foreign-trip)
+- [Indonesian submarine search: hopes fade as oxygen deadline passes](https://www.theguardian.com/world/2021/apr/23/rescue-teams-in-race-against-time-to-find-lost-indonesian-navy-submarine)
+- [India Covid crisis: families' plea for help amid oxygen shortages and mass cremations – video report](https://www.theguardian.com/world/video/2021/apr/24/india-covid-crisis-families-plea-for-help-oxygen-shortages-video)
+- [Rachel Blackmore’s Plan of Attack could be foiled by El Presente](https://www.theguardian.com/sport/2021/apr/23/tom-marquand-back-in-business-after-australian-spell-with-alenquer-talking-horses-saturday-tips)
+- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/23/20-photographs-of-the-week)
+- [Anthony McGill dumps Ronnie O’Sullivan out of World Snooker Championship](https://www.theguardian.com/sport/2021/apr/23/ronnie-osullivan-goes-out-after-losing-final-frame-to-anthony-mcgill)
+- [Liverpool will face breakaway backlash from fans, admits Jürgen Klopp](https://www.theguardian.com/football/2021/apr/23/liverpool-will-face-breakaway-backlash-from-fans-admits-jurgen-klopp)
+- [UK arts figures call for Covid certificates to revive industry](https://www.theguardian.com/culture/2021/apr/23/uk-arts-figures-covid-certificates-revive-industry-letter)
+- [Sam Skinner try sparks Exeter victory against Bristol in battle of top two](https://www.theguardian.com/sport/2021/apr/23/sam-skinner-try-sparks-exeter-victory-against-bristol-in-battle-of-top-two)
+- [Arsenal endure ESL protests before Bernd Leno blunder gifts Everton win](https://www.theguardian.com/football/2021/apr/23/arsenal-everton-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

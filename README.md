@@ -302,16 +302,16 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [These True Wireless Earbuds Can Connect to In-Flight Audio Systems](https://www.reviewgeek.com/79352/these-true-wireless-earbuds-can-connect-to-in-flight-audio-systems/)
-* [Turn Your Old Galaxy Phone Into a Smart Home Sensor with Samsung's App Beta](https://www.reviewgeek.com/79310/turn-your-old-galaxy-phone-into-a-smart-home-sensor-with-samsungs-app-beta/)
-* [Google's Pixel 5a Sounds An Awful Lot Like the Pixel 5](https://www.reviewgeek.com/79251/pixel-5a-5g-leak-sounds-like-a-pixel-5/)
-* [iMessage Might Become a Social Network in iOS/iPadOS 15 (and Other Rumors)](https://www.reviewgeek.com/79277/imessage-might-become-a-social-network-in-ios-ipados-15-and-other-rumors/)
-* [NASA's Perseverance Rover Is the First Device to Produce Oxygen on Mars](https://www.reviewgeek.com/79252/nasas-perseverance-rover-is-the-first-device-to-produce-oxygen-on-mars/)
-* [Garmin's New Venu 2 Smartwatches Are Everything the First One Should've Been](https://www.reviewgeek.com/79249/garmins-new-venu-2-smartwatches-are-everything-the-first-one-shouldve-been/)
-* [Cadillac's $59,990 Lyriq EV Goes 300 Miles on a Single Charge](https://www.reviewgeek.com/79212/cadillacs-59990-lyriq-ev-goes-300-miles-on-a-single-charge/)
-* [Fujifilm Drops a Nintendo Switch Photo Printer to Accompany 'New Pokemon Snap'](https://www.reviewgeek.com/79244/fujifilm-drops-a-nintendo-switch-photo-printer-to-accompany-new-pokemon-snap/)
-* [New $99 RedMagic Watch Boasts 15-Hour Battery, Sport-Focused Fitness Tracking](https://www.reviewgeek.com/79215/new-99-redmagic-watch-boasts-15-hour-battery-sport-focused-fitness-tracking/)
-* [Spider-Man and Other Sony Films Will Web-Sling Onto Disney+ and Hulu](https://www.reviewgeek.com/79203/spider-man-and-other-sony-films-will-web-sling-onto-disney-and-hulu/)
+* [Samsung Announces a Bespoke Event to Unveil a "New Vision for Every Home"](https://www.reviewgeek.com/79458/samsung-announces-a-bespoke-event-to-unveil-a-new-vision-for-every-home/)
+* [Oculus Launches New Avatars, and They Actually Have Legs](https://www.reviewgeek.com/79429/oculus-launches-new-avatars-and-they-actually-have-legs/)
+* [The 2021 iPad Pro Isn't Compatible With Older Magic Keyboards](https://www.reviewgeek.com/79437/new-ipad-pro-not-compatible-with-magic-keyboard/)
+* [PSA: Twitter Sent Out User Confirmation Emails By Accident, Ignore Them](https://www.reviewgeek.com/79431/psa-twitter-sent-out-user-confirmation-emails-by-accident-ignore-them/)
+* [10 Upgrades for Your Rusty Old Grill Accessories](https://www.lifesavvy.com/65063/10-upgrades-for-your-rusty-old-grill-accessories/)
+* [Argentina Temporarily Lost Its Google Domain to Some Random Guy](https://www.reviewgeek.com/79428/argentina-temporarily-lost-its-google-domain-to-some-random-guy/)
+* [SpaceX Successfully Reused a Rocket to Send Astronauts to the ISS](https://www.reviewgeek.com/79391/spacex-successfully-reused-a-rocket-to-send-astronauts-to-the-iss/)
+* [This 100,000-Piece LEGO Sculpture Depicts a Reimagined African Metropolis](https://www.reviewgeek.com/79423/this-100000-piece-lego-sculpture-depicts-a-reimagined-african-metropolis/)
+* [Evercade's VS Console Brings Retro Cartridge Gaming to Your TV](https://www.reviewgeek.com/79393/evercades-vs-console-brings-retro-cartridge-gaming-to-your-tv/)
+* [How to Send Text Messages with Google Assistant](https://www.howtogeek.com/722550/how-to-send-text-messages-with-google-assistant/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

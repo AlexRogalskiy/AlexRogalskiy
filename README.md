@@ -407,16 +407,16 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [HMRC downplays significance of CEO email ‘questioning’ legal basis of loan charge policy](https://www.computerweekly.com/news/252499746/HMRC-downplays-significance-of-CEO-email-appearing-to-question-legal-basis-of-loan-charge-policy)
+- [‘Spy cops’ victims share ongoing data protection concerns](https://www.computerweekly.com/news/252499742/Spy-cops-victims-share-ongoing-data-protection-concerns)
+- [Intel quarterly results reveal tactics to address ARM in the datacentre](https://www.computerweekly.com/news/252499724/Intel-quarterly-results-reveal-tactics-to-address-ARM-in-the-datacentre)
+- [Post Office scandal victims have criminal convictions overturned in Court of Appeal](https://www.computerweekly.com/news/252499723/Post-Office-scandal-victims-have-criminal-convictions-overturned-in-Court-of-Appeal)
 - [GCHQ: Cyber investment a guarantor of UK’s global status](https://www.computerweekly.com/news/252499680/GCHQ-Cyber-investment-a-guarantor-of-UKs-global-status)
 - [Researchers shed more light on APT29 activity during SolarWinds attack](https://www.computerweekly.com/news/252499691/Researchers-shed-more-light-on-APT29-activity-during-SolarWinds-attack)
 - [SAP Q1 2021: Revenue nudges up 2% year-on-year, S/4 adoption up 2.5% on prior quarter](https://www.computerweekly.com/news/252499682/SAP-Q1-2021-Revenue-nudges-up-2-year-on-year-S-4-adoption-up-25-on-prior-quarter)
 - [Department for Education publishes digital strategy](https://www.computerweekly.com/news/252499685/Department-for-Education-publishes-digital-strategy)
 - [Met Office prepares for 1.5 million processor, 60 petaflop supercomputer](https://www.computerweekly.com/news/252499687/Met-Office-prepares-for-15-million-processor-60-petaflop-supercomputer)
 - [Automation, zero-trust, API-based security priorities for EMEA CISOs](https://www.computerweekly.com/news/252499676/Automation-zero-trust-API-based-security-priorities-for-EMEA-CISOs)
-- [Ireland’s datacentre industry launches pro-pollinator plan to boost bee population](https://www.computerweekly.com/news/252499683/Irelands-datacentre-industry-launches-pro-pollinator-plan-to-boost-bee-population)
-- [ToxicEye malware exploits Telegram messaging service](https://www.computerweekly.com/news/252499673/ToxicEye-malware-exploits-Telegram-messaging-service)
-- [Grafana Labs switches open source licensing to stem strip-mining tactics](https://www.computerweekly.com/news/252499678/Grafana-Labs-switches-open-source-licensing-to-stem-strip-mining-tactics)
-- [Customer experience market made leap forward during pandemic](https://www.computerweekly.com/feature/Customer-experience-market-made-leap-forward-during-pandemic)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

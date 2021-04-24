@@ -241,24 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649188577672085504" target="_blank"><i>Democracy</i></a></summary>
-<p>by Langston Hughes</p><p>Democracy will not come<br/>
-Today, this year<br/>
- Nor ever<br/>
-Through compromise and fear.</p><p>I have as much right<br/>
-As the other fellow has<br/>
- To stand<br/>
-On my two feet<br/>
-And own the land.</p><p>I tire so of hearing people say,<br/>
-Let things take their course.<br/>
-Tomorrow is another day.<br/>
-I do not need my freedom when I’m dead.<br/>
-I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
- Is a strong seed<br/>
- Planted<br/>
- In a great need.</p><p> I live here, too.<br/>
- I want freedom<br/>
- Just as you.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649279148369592320" target="_blank"><i>Eating Alone</i></a></summary>
+<p>by Li-Young Lee</p><p>I’ve pulled the last of the year’s young onions.<br/>The garden is bare now. The ground is cold,<br/>brown and old. What is left of the day flames<br/>in the maples at the corner of my<br/>eye. I turn, a cardinal vanishes.<br/>By the cellar door, I wash the onions,<br/>then drink from the icy metal spigot.<br/><br/>Once, years back, I walked beside my father<br/>among the windfall pears. I can’t recall<br/>our words. We may have strolled in silence. But<br/>I still see him bend that way—left hand braced<br/>on knee, creaky—to lift and  hold to my<br/>eye a rotten pear. In it, a hornet<br/>spun crazily, glazed in slow, glistening juice.<br/><br/>It was my father I saw this morning<br/>waving to me from the trees. I almost<br/>called to him, until I came close enough<br/>to see the shovel, leaning where I had<br/>left it, in the flickering, deep green shade.<br/><br/>White rice steaming, almost done. Sweet green peas<br/>fried in onions. Shrimp braised in sesame<br/>oil and garlic. And my own loneliness.<br/>What more could I, a young man, want.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

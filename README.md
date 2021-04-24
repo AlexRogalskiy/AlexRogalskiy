@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/dry_up_2199.php" target="_blank"><i>dry up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/cut_out_1__2781.php" target="_blank"><i>cut out (1)</i></a>
 <span> = </span>
-<span>If something like water or oil dries up, or its source dries up, it means it's all gone and there is none left.</span>
+<span>to remove an area of paper or cloth from a larger sheet by cutting<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

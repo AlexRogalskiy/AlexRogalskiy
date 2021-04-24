@@ -377,6 +377,8 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Asante CIO Discusses Transforming with Cloud and Telehealth](https://www.informationweek.com/cloud/asante-cio-discusses-transforming-with-cloud-and-telehealth/a/d-id/1340800?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Three Key Tax Incentives for IT Consultants](https://www.informationweek.com/strategic-cio/team-building-and-staffing/three-key-tax-incentives-for-it-consultants/a/d-id/1340744?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Tech Spending Climbs as Digital Business Initiatives Grow](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/tech-spending-climbs-as-digital-business-initiatives-grow/d/d-id/1340781?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Building Confidence with Data Resilience](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/building-confidence-with-data-resilience-/a/d-id/1340743?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IBM Talks AIOps Potential at Digital Developer Conference](https://www.informationweek.com/devops/ibm-talks-aiops-potential-at-digital-developer-conference/d/d-id/1340758?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -385,8 +387,6 @@ I cannot live on tomorrow’s bread.</p><p> Freedom<br/>
 - [AWS Offers Course on Basics of Machine Learning](https://www.informationweek.com/aws-offers-course-on-basics-of-machine-learning/d/d-id/1340715?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Time to Modernize Your Data Integration Framework](https://www.informationweek.com/big-data/time-to-modernize-your-data-integration-framework/a/d-id/1340687?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Forecast of the Future of Work from MIT Sloan CIO Symposium](https://www.informationweek.com/strategic-cio/forecast-of-the-future-of-work-from-mit-sloan-cio-symposium/d/d-id/1340691?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How To Ensure Your Machine Learning Models Aren't Fooled](https://www.informationweek.com/big-data/ai-machine-learning/how-to-ensure-your-machine-learning-models-arent-fooled/a/d-id/1340630?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AWS Boosts Support for Girls in Tech's Inclusivity Efforts](https://www.informationweek.com/strategic-cio/aws-boosts-support-for-girls-in-techs-inclusivity-efforts/d/d-id/1340681?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

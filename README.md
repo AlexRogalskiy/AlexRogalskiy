@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar: Asean holds crisis talks as junta leader makes first foreign trip](https://www.theguardian.com/world/2021/apr/24/myanmar-asean-holds-crisis-talks-as-junta-leader-makes-first-foreign-trip)
-- [Indonesian submarine search: hopes fade as oxygen deadline passes](https://www.theguardian.com/world/2021/apr/23/rescue-teams-in-race-against-time-to-find-lost-indonesian-navy-submarine)
-- [India Covid crisis: families' plea for help amid oxygen shortages and mass cremations – video report](https://www.theguardian.com/world/video/2021/apr/24/india-covid-crisis-families-plea-for-help-oxygen-shortages-video)
-- [Rachel Blackmore’s Plan of Attack could be foiled by El Presente](https://www.theguardian.com/sport/2021/apr/23/tom-marquand-back-in-business-after-australian-spell-with-alenquer-talking-horses-saturday-tips)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/23/20-photographs-of-the-week)
-- [Anthony McGill dumps Ronnie O’Sullivan out of World Snooker Championship](https://www.theguardian.com/sport/2021/apr/23/ronnie-osullivan-goes-out-after-losing-final-frame-to-anthony-mcgill)
-- [Liverpool will face breakaway backlash from fans, admits Jürgen Klopp](https://www.theguardian.com/football/2021/apr/23/liverpool-will-face-breakaway-backlash-from-fans-admits-jurgen-klopp)
-- [UK arts figures call for Covid certificates to revive industry](https://www.theguardian.com/culture/2021/apr/23/uk-arts-figures-covid-certificates-revive-industry-letter)
-- [Sam Skinner try sparks Exeter victory against Bristol in battle of top two](https://www.theguardian.com/sport/2021/apr/23/sam-skinner-try-sparks-exeter-victory-against-bristol-in-battle-of-top-two)
-- [Arsenal endure ESL protests before Bernd Leno blunder gifts Everton win](https://www.theguardian.com/football/2021/apr/23/arsenal-everton-premier-league-match-report)
+- [At least 27 die in fire at Baghdad hospital housing Covid patients](https://www.theguardian.com/world/2021/apr/25/people-killed-in-fire-at-baghdad-hospital)
+- [GlaxoSmithKline faces dose of strong medicine from US investor](https://www.theguardian.com/business/2021/apr/25/glaxosmithkline-faces-dose-of-strong-medicine-from-us-investor)
+- [The week English football fans bit back against the billionaire owners](https://www.theguardian.com/football/2021/apr/24/the-week-english-football-fans-bit-back-against-super-league-the-billionaire-owners)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Mellow in yellow: 5 ways to style spring’s sunniest hue – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/mellow-in-yellow-5-ways-to-style-springs-sunniest-hue-in-pictures)
+- [Can Australia achieve herd immunity to coronavirus, and what happens if not?](https://www.theguardian.com/australia-news/2021/apr/25/can-australia-achieve-herd-immunity-to-coronavirus-and-what-happens-if-not)
+- [Eight officers injured policing anti-lockdown protest in London](https://www.theguardian.com/uk-news/2021/apr/24/eight-officers-injured-policing-anti-lockdown-protest-in-london)
+- [Guardiola warned City’s hierarchy over doomed European Super League](https://www.theguardian.com/football/2021/apr/24/guardiola-warned-citys-hierarchy-over-doomed-european-super-league)
+- [Toby Alderweireld confident ‘positive’ Ryan Mason can deliver silverware](https://www.theguardian.com/football/2021/apr/24/toby-alderweireld-ryan-mason-spurs-manchester-city)
+- [Footballers to boycott social media in mass protest over racist abuse](https://www.theguardian.com/football/2021/apr/24/footballers-to-boycott-social-media-in-mass-protest-over-racist-abuse)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

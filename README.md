@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/F/fluke_1047.php" target="_blank"><i>fluke</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Music/sax_1102.php" target="_blank"><i>sax</i></a>
 <span> = </span>
-<span>a good outcome resulting from luck more than skill</span>
+<span>saxophone</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

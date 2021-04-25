@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interesting Things #1 (newsletter)](https://interestingthings.bengtan.com/p/issue-1)
-- [Mathematics for Gamblers](https://aeon.co/essays/a-mathematician-a-philosopher-and-a-gambler-walk-into-a-bar?)
-- [You can use the Elastic License for your own projects](https://www.reddit.com/r/elasticsearch/comments/mv9vxw/can_i_use_the_elastic_license_20_for_other/gvew06m/)
-- [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock.html)
-- [Show HN: VSCode keybindings for Micro terminal editor and TTY](https://github.com/phil294/VSCode-keybindings-for-micro-editor-and-tty)
-- [Simplifying Spring Security](https://gumroad.com/l/VgSdH)
-- [Hedge and Private Equity funds may not hate Biden's capital gains tax plan](https://www.axios.com/biden-capital-gains-tax-rates-60afe7e8-c8ef-4e6c-8821-1e889b37fc36.html)
-- [TCP and IP Bake Off – RFC 1025](https://tools.ietf.org/html/rfc1025)
-- [Why are people renting u-hauls in Hawaii? Blame the pandemic](https://www.hawaiinewsnow.com/2021/04/22/why-are-visitors-cruising-around-u-hauls-blame-pandemic/)
-- [Ask HN: Where to publish tech blog posts these days?](https://news.ycombinator.com/item?id=26921509)
+- [Florida family may get life in prison after church sold bleach as Covid-19 cure](https://www.msn.com/en-us/news/crime/florida-family-may-spend-life-in-prison-after-church-sold-bleach-as-covid-19-cure/ar-BB1g14PA)
+- [Genetically Modified Mosquitoes Breeding in Brazil, Despite Biotech Assurances](https://gizmodo.com/genetically-modified-mosquitoes-are-breeding-in-brazil-1838146152)
+- [Aerospace Engineer Judith Love Cohen](https://kottke.org/19/05/meet-aerospace-engineer-judith-love-cohen)
+- [GlueSQL: SQL Database with support for WebAssembly](https://github.com/gluesql/gluesql)
+- [Novel sublineage expanding in Chile and Peru](https://virological.org/t/novel-sublineage-within-b-1-1-1-currently-expanding-in-peru-and-chile-with-a-convergent-deletion-in-the-orf1a-gene-3675-3677-and-a-novel-deletion-in-the-spike-gene-246-252-g75v-t76i-l452q-f490s-t859n/685)
+- [In Defense of the Space Force](https://www.countere.com/home/in-defense-of-the-space-force)
+- [Boop – Paste and transform text locally](https://boop.okat.best/)
+- [Why the machine metaphor has failed in biology and software](http://hyperparameter.space/blog/this-is-not-a-machine/)
+- [Is It Time to Rename RPG?](https://www.itjungle.com/2020/08/24/is-it-time-to-rename-rpg/)
+- [Ask HN: What are your passive/side income streams in 2021?](https://news.ycombinator.com/item?id=26929627)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

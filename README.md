@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/O/out_of_your_depth_461.php" target="_blank"><i>out of your depth</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/earn_your_stripes_162.php" target="_blank"><i>earn your stripes</i></a>
 <span> = </span>
-<span>If you're out of your depth, you're in a situation that you don't have the experience to handle, or the knowledge to understand.</span>
+<span>If you earn your stripes, you do something to prove that you have the skills or ability for a particular job or rank.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

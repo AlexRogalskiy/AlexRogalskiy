@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/O/out_of_your_depth_461.php" target="_blank"><i>out of your depth</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/earn_your_stripes_162.php" target="_blank"><i>earn your stripes</i></a>
 <span> = </span>
-<span>If you're out of your depth, you're in a situation that you don't have the experience to handle, or the knowledge to understand.</span>
+<span>If you earn your stripes, you do something to prove that you have the skills or ability for a particular job or rank.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/F/fluke_1047.php" target="_blank"><i>fluke</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Music/sax_1102.php" target="_blank"><i>sax</i></a>
 <span> = </span>
-<span>a good outcome resulting from luck more than skill</span>
+<span>saxophone</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/D/Don_t_cross_your_bridges_before_you_come_to_them_500.php" target="_blank"><i>Don't cross your bridges before you come to them</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
 <span> = </span>
-<span>Don't worry about problems before they arrive.</span>
+<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -241,8 +241,27 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649279148369592320" target="_blank"><i>Eating Alone</i></a></summary>
-<p>by Li-Young Lee</p><p>I’ve pulled the last of the year’s young onions.<br/>The garden is bare now. The ground is cold,<br/>brown and old. What is left of the day flames<br/>in the maples at the corner of my<br/>eye. I turn, a cardinal vanishes.<br/>By the cellar door, I wash the onions,<br/>then drink from the icy metal spigot.<br/><br/>Once, years back, I walked beside my father<br/>among the windfall pears. I can’t recall<br/>our words. We may have strolled in silence. But<br/>I still see him bend that way—left hand braced<br/>on knee, creaky—to lift and  hold to my<br/>eye a rotten pear. In it, a hornet<br/>spun crazily, glazed in slow, glistening juice.<br/><br/>It was my father I saw this morning<br/>waving to me from the trees. I almost<br/>called to him, until I came close enough<br/>to see the shovel, leaning where I had<br/>left it, in the flickering, deep green shade.<br/><br/>White rice steaming, almost done. Sweet green peas<br/>fried in onions. Shrimp braised in sesame<br/>oil and garlic. And my own loneliness.<br/>What more could I, a young man, want.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649369759293620224" target="_blank"><i>“I lived in the first century of world wars”</i></a></summary>
+<p>by Muriel Rukeyser</p><p>I lived in the first century of world wars.<br/>
+ Most mornings I would be more or less insane,<br/>
+ The newspapers would arrive with their careless stories,<br/>
+ The news would pour out of various devices<br/>
+ Interrupted by attempts to sell products to the unseen.<br/>
+ I would call my friends on other devices;<br/>
+ They would be more or less mad for similar reasons.<br/>
+ Slowly I would get to pen and paper,<br/>
+ Make my poems for others unseen and unborn.<br/>
+ In the day I would be reminded of those men and women,<br/>
+ Brave, setting up signals across vast distances,<br/>
+ Considering a nameless way of living, of almost unimagined values.<br/>
+ As the lights darkened, as the lights of night brightened,<br/>
+ We would try to imagine them, try to find each other,<br/>
+ To construct peace, to make love, to reconcile<br/>
+ Waking with sleeping, ourselves with each other,<br/>
+ Ourselves with ourselves. We would try by any means<br/>
+ To reach the limits of ourselves, to reach beyond ourselves,<br/>
+ To let go the means, to wake.<br/><br/>
+ I lived in the first century of these wars.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +292,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 80%, pressure: 1006 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
+        <b>0°C (<i>few clouds</i>), humidity: 93%, pressure: 1005 (mbar), wind: /east/ 2 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>05:13 am</b> and sets at <b>20:39 pm</b>.
     </p>
@@ -286,61 +305,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Samsung Announces a Bespoke Event to Unveil a "New Vision for Every Home"](https://www.reviewgeek.com/79458/samsung-announces-a-bespoke-event-to-unveil-a-new-vision-for-every-home/)
-* [Oculus Launches New Avatars, and They Actually Have Legs](https://www.reviewgeek.com/79429/oculus-launches-new-avatars-and-they-actually-have-legs/)
-* [The 2021 iPad Pro Isn't Compatible With Older Magic Keyboards](https://www.reviewgeek.com/79437/new-ipad-pro-not-compatible-with-magic-keyboard/)
-* [PSA: Twitter Sent Out User Confirmation Emails By Accident, Ignore Them](https://www.reviewgeek.com/79431/psa-twitter-sent-out-user-confirmation-emails-by-accident-ignore-them/)
-* [10 Upgrades for Your Rusty Old Grill Accessories](https://www.lifesavvy.com/65063/10-upgrades-for-your-rusty-old-grill-accessories/)
-* [Argentina Temporarily Lost Its Google Domain to Some Random Guy](https://www.reviewgeek.com/79428/argentina-temporarily-lost-its-google-domain-to-some-random-guy/)
-* [SpaceX Successfully Reused a Rocket to Send Astronauts to the ISS](https://www.reviewgeek.com/79391/spacex-successfully-reused-a-rocket-to-send-astronauts-to-the-iss/)
-* [This 100,000-Piece LEGO Sculpture Depicts a Reimagined African Metropolis](https://www.reviewgeek.com/79423/this-100000-piece-lego-sculpture-depicts-a-reimagined-african-metropolis/)
-* [Evercade's VS Console Brings Retro Cartridge Gaming to Your TV](https://www.reviewgeek.com/79393/evercades-vs-console-brings-retro-cartridge-gaming-to-your-tv/)
-* [How to Send Text Messages with Google Assistant](https://www.howtogeek.com/722550/how-to-send-text-messages-with-google-assistant/)
+* [This Newly-Detected "Unicorn" Black Hole Is Super Close to Earth](https://www.reviewgeek.com/79469/this-newly-detected-unicorn-black-hole-is-super-close-to-earth/)
+* [How to Check How Much Google Account Storage You Have Left](https://www.howtogeek.com/714378/how-to-check-how-much-google-account-storage-you-have-left/)
+* [Domino's Launches Autonomous Pizza Delivery Robot In Houston](https://www.reviewgeek.com/79453/dominos-launches-autonomous-pizza-delivery-robot-in-houston/)
+* [How to Factory Reset Your Windows 10 PC Using Command Prompt](https://www.howtogeek.com/722827/how-to-factory-reset-your-windows-10-pc-using-command-prompt/)
+* [How to Temporarily Lock Apps on iPhone with Screen Time](https://www.howtogeek.com/720506/how-to-temporarily-lock-apps-on-iphone-with-screen-time/)
+* [How to Quickly Locate Your Mac Mouse Cursor by Shaking](https://www.howtogeek.com/718073/how-to-quickly-locate-your-mac-mouse-cursor-by-shaking/)
+* [Wyze Smart Lamp Review: Simpler Than a Smart Bulb, Better Than a Regular Lamp](https://www.reviewgeek.com/79084/wyze-smart-lamp-review-simpler-than-a-smart-bulb-better-than-a-regular-lamp/)
+* [How to Turn off “Hey Siri” on HomePod Mini](https://www.howtogeek.com/719641/how-to-turn-off-hey-siri-on-homepod-mini/)
+* [The 12 Most Frustrating Games You Should Play](https://www.reviewgeek.com/78016/the-12-most-frustrating-games-you-should-play/)
+* [What Is Signal, and Why Is Everyone Using It?](https://www.howtogeek.com/708916/what-is-signal-and-why-is-everyone-using-it/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interesting Things #1 (newsletter)](https://interestingthings.bengtan.com/p/issue-1)
-- [Mathematics for Gamblers](https://aeon.co/essays/a-mathematician-a-philosopher-and-a-gambler-walk-into-a-bar?)
-- [You can use the Elastic License for your own projects](https://www.reddit.com/r/elasticsearch/comments/mv9vxw/can_i_use_the_elastic_license_20_for_other/gvew06m/)
-- [Ad Blocker Test](https://d3ward.github.io/toolz/src/adblock.html)
-- [Show HN: VSCode keybindings for Micro terminal editor and TTY](https://github.com/phil294/VSCode-keybindings-for-micro-editor-and-tty)
-- [Simplifying Spring Security](https://gumroad.com/l/VgSdH)
-- [Hedge and Private Equity funds may not hate Biden's capital gains tax plan](https://www.axios.com/biden-capital-gains-tax-rates-60afe7e8-c8ef-4e6c-8821-1e889b37fc36.html)
-- [TCP and IP Bake Off – RFC 1025](https://tools.ietf.org/html/rfc1025)
-- [Why are people renting u-hauls in Hawaii? Blame the pandemic](https://www.hawaiinewsnow.com/2021/04/22/why-are-visitors-cruising-around-u-hauls-blame-pandemic/)
-- [Ask HN: Where to publish tech blog posts these days?](https://news.ycombinator.com/item?id=26921509)
+- [Florida family may get life in prison after church sold bleach as Covid-19 cure](https://www.msn.com/en-us/news/crime/florida-family-may-spend-life-in-prison-after-church-sold-bleach-as-covid-19-cure/ar-BB1g14PA)
+- [Genetically Modified Mosquitoes Breeding in Brazil, Despite Biotech Assurances](https://gizmodo.com/genetically-modified-mosquitoes-are-breeding-in-brazil-1838146152)
+- [Aerospace Engineer Judith Love Cohen](https://kottke.org/19/05/meet-aerospace-engineer-judith-love-cohen)
+- [GlueSQL: SQL Database with support for WebAssembly](https://github.com/gluesql/gluesql)
+- [Novel sublineage expanding in Chile and Peru](https://virological.org/t/novel-sublineage-within-b-1-1-1-currently-expanding-in-peru-and-chile-with-a-convergent-deletion-in-the-orf1a-gene-3675-3677-and-a-novel-deletion-in-the-spike-gene-246-252-g75v-t76i-l452q-f490s-t859n/685)
+- [In Defense of the Space Force](https://www.countere.com/home/in-defense-of-the-space-force)
+- [Boop – Paste and transform text locally](https://boop.okat.best/)
+- [Why the machine metaphor has failed in biology and software](http://hyperparameter.space/blog/this-is-not-a-machine/)
+- [Is It Time to Rename RPG?](https://www.itjungle.com/2020/08/24/is-it-time-to-rename-rpg/)
+- [Ask HN: What are your passive/side income streams in 2021?](https://news.ycombinator.com/item?id=26929627)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar: Asean holds crisis talks as junta leader makes first foreign trip](https://www.theguardian.com/world/2021/apr/24/myanmar-asean-holds-crisis-talks-as-junta-leader-makes-first-foreign-trip)
-- [Indonesian submarine search: hopes fade as oxygen deadline passes](https://www.theguardian.com/world/2021/apr/23/rescue-teams-in-race-against-time-to-find-lost-indonesian-navy-submarine)
-- [India Covid crisis: families' plea for help amid oxygen shortages and mass cremations – video report](https://www.theguardian.com/world/video/2021/apr/24/india-covid-crisis-families-plea-for-help-oxygen-shortages-video)
-- [Rachel Blackmore’s Plan of Attack could be foiled by El Presente](https://www.theguardian.com/sport/2021/apr/23/tom-marquand-back-in-business-after-australian-spell-with-alenquer-talking-horses-saturday-tips)
-- [20 photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/apr/23/20-photographs-of-the-week)
-- [Anthony McGill dumps Ronnie O’Sullivan out of World Snooker Championship](https://www.theguardian.com/sport/2021/apr/23/ronnie-osullivan-goes-out-after-losing-final-frame-to-anthony-mcgill)
-- [Liverpool will face breakaway backlash from fans, admits Jürgen Klopp](https://www.theguardian.com/football/2021/apr/23/liverpool-will-face-breakaway-backlash-from-fans-admits-jurgen-klopp)
-- [UK arts figures call for Covid certificates to revive industry](https://www.theguardian.com/culture/2021/apr/23/uk-arts-figures-covid-certificates-revive-industry-letter)
-- [Sam Skinner try sparks Exeter victory against Bristol in battle of top two](https://www.theguardian.com/sport/2021/apr/23/sam-skinner-try-sparks-exeter-victory-against-bristol-in-battle-of-top-two)
-- [Arsenal endure ESL protests before Bernd Leno blunder gifts Everton win](https://www.theguardian.com/football/2021/apr/23/arsenal-everton-premier-league-match-report)
+- [At least 27 die in fire at Baghdad hospital housing Covid patients](https://www.theguardian.com/world/2021/apr/25/people-killed-in-fire-at-baghdad-hospital)
+- [GlaxoSmithKline faces dose of strong medicine from US investor](https://www.theguardian.com/business/2021/apr/25/glaxosmithkline-faces-dose-of-strong-medicine-from-us-investor)
+- [The week English football fans bit back against the billionaire owners](https://www.theguardian.com/football/2021/apr/24/the-week-english-football-fans-bit-back-against-super-league-the-billionaire-owners)
+- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Mellow in yellow: 5 ways to style spring’s sunniest hue – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/mellow-in-yellow-5-ways-to-style-springs-sunniest-hue-in-pictures)
+- [Can Australia achieve herd immunity to coronavirus, and what happens if not?](https://www.theguardian.com/australia-news/2021/apr/25/can-australia-achieve-herd-immunity-to-coronavirus-and-what-happens-if-not)
+- [Eight officers injured policing anti-lockdown protest in London](https://www.theguardian.com/uk-news/2021/apr/24/eight-officers-injured-policing-anti-lockdown-protest-in-london)
+- [Guardiola warned City’s hierarchy over doomed European Super League](https://www.theguardian.com/football/2021/apr/24/guardiola-warned-citys-hierarchy-over-doomed-european-super-league)
+- [Toby Alderweireld confident ‘positive’ Ryan Mason can deliver silverware](https://www.theguardian.com/football/2021/apr/24/toby-alderweireld-ryan-mason-spurs-manchester-city)
+- [Footballers to boycott social media in mass protest over racist abuse](https://www.theguardian.com/football/2021/apr/24/footballers-to-boycott-social-media-in-mass-protest-over-racist-abuse)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A desktop Laravel admin panel app (similar to Invoker)](https://github.com/tmdh/laravel-kit)
-- [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
-- [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
-- [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
-- [Mall department stores were struggling; the pandemic has pushed them to the edge](https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/)
-- [Human-monkey chimera embryos created in lab](https://newatlas.com/science/human-monkey-chimera-embryos/)
-- [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
-- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
-- [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
+- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
+- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
+- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
+- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
+- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
+- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
+- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
+- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
+- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,16 +425,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
+- [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
+- [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
+- [The bonus that was talked about on the phone is not included in the job offer. Should I talk with the recruiter about it?](https://www.reddit.com/r/InformationTechnology/comments/mxfpw6/the_bonus_that_was_talked_about_on_the_phone_is/)
+- [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
+- [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
 - [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
 - [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
 - [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
 - [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
-- [senior in HS looking to get a degree in information technology that has a few questions](https://www.reddit.com/r/InformationTechnology/comments/mwa530/senior_in_hs_looking_to_get_a_degree_in/)
-- [I wanna go into IT what some apps or videos I should watch to help me get started.( or what coding should I learn)](https://www.reddit.com/r/InformationTechnology/comments/mw6u8r/i_wanna_go_into_it_what_some_apps_or_videos_i/)
-- [Comptia Security+ SYO-501](https://www.reddit.com/r/InformationTechnology/comments/mw2w5h/comptia_security_syo501/)
-- [Discussion - How long until mandatory 2FA everywhere?](https://www.reddit.com/r/InformationTechnology/comments/mvx9kf/discussion_how_long_until_mandatory_2fa_everywhere/)
-- [Interview questions](https://www.reddit.com/r/InformationTechnology/comments/mvskxo/interview_questions/)
-- [Foot in the Door](https://www.reddit.com/r/InformationTechnology/comments/mvqoae/foot_in_the_door/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
@@ -425,7 +444,7 @@
 - [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
 - [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
 - [Cyber Security Today, April 23 2021 – More SolarWinds news, UK law will tighten consumer internet device security and a warning to QNAP storage users](https://www.itworldcanada.com/article/cyber-security-today-april-23-2021-more-solarwinds-news-uk-law-will-tighten-consumer-internet-device-security-and-a-warning-to-qnap-storage-users/446459)
-- [Hashtag Trending, April 23, 2021 – SolarWinds name change; Signal hacks the cops; Canada’s scale-up challenges](https://www.itworldcanada.com/article/hashtag-trending-april-23-2021-solarwinds-name-change-signal-hacks-the-cops-canadas-scale-up-challenges/446470)
+- [Hashtag Trending, April 23, 2021 – SolarWinds MSP name change; Signal hacks the cops; Canada’s scale-up challenges](https://www.itworldcanada.com/article/hashtag-trending-april-23-2021-solarwinds-name-change-signal-hacks-the-cops-canadas-scale-up-challenges/446470)
 - [Are you ready for turbocharged ransomware attacks?](https://www.itworldcanada.com/article/are-you-ready-for-turbocharged-ransomware-attacks/446434)
 - [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
 - [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)

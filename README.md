@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A desktop Laravel admin panel app (similar to Invoker)](https://github.com/tmdh/laravel-kit)
-- [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
-- [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
-- [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
-- [Mall department stores were struggling; the pandemic has pushed them to the edge](https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/)
-- [Human-monkey chimera embryos created in lab](https://newatlas.com/science/human-monkey-chimera-embryos/)
-- [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
-- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
-- [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
+- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
+- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
+- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
+- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
+- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
+- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
+- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
+- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
+- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

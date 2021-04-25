@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/D/Don_t_cross_your_bridges_before_you_come_to_them_500.php" target="_blank"><i>Don't cross your bridges before you come to them</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
 <span> = </span>
-<span>Don't worry about problems before they arrive.</span>
+<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

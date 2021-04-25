@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/cut_out_1__2781.php" target="_blank"><i>cut out (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/die_off_2886.php" target="_blank"><i>die off</i></a>
 <span> = </span>
-<span>to remove an area of paper or cloth from a larger sheet by cutting<BR></span>
+<span>If a group of people, animals, or plants dies off, all of them die over a period of time and none are left.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

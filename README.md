@@ -241,8 +241,27 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649279148369592320" target="_blank"><i>Eating Alone</i></a></summary>
-<p>by Li-Young Lee</p><p>I’ve pulled the last of the year’s young onions.<br/>The garden is bare now. The ground is cold,<br/>brown and old. What is left of the day flames<br/>in the maples at the corner of my<br/>eye. I turn, a cardinal vanishes.<br/>By the cellar door, I wash the onions,<br/>then drink from the icy metal spigot.<br/><br/>Once, years back, I walked beside my father<br/>among the windfall pears. I can’t recall<br/>our words. We may have strolled in silence. But<br/>I still see him bend that way—left hand braced<br/>on knee, creaky—to lift and  hold to my<br/>eye a rotten pear. In it, a hornet<br/>spun crazily, glazed in slow, glistening juice.<br/><br/>It was my father I saw this morning<br/>waving to me from the trees. I almost<br/>called to him, until I came close enough<br/>to see the shovel, leaning where I had<br/>left it, in the flickering, deep green shade.<br/><br/>White rice steaming, almost done. Sweet green peas<br/>fried in onions. Shrimp braised in sesame<br/>oil and garlic. And my own loneliness.<br/>What more could I, a young man, want.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649369759293620224" target="_blank"><i>“I lived in the first century of world wars”</i></a></summary>
+<p>by Muriel Rukeyser</p><p>I lived in the first century of world wars.<br/>
+ Most mornings I would be more or less insane,<br/>
+ The newspapers would arrive with their careless stories,<br/>
+ The news would pour out of various devices<br/>
+ Interrupted by attempts to sell products to the unseen.<br/>
+ I would call my friends on other devices;<br/>
+ They would be more or less mad for similar reasons.<br/>
+ Slowly I would get to pen and paper,<br/>
+ Make my poems for others unseen and unborn.<br/>
+ In the day I would be reminded of those men and women,<br/>
+ Brave, setting up signals across vast distances,<br/>
+ Considering a nameless way of living, of almost unimagined values.<br/>
+ As the lights darkened, as the lights of night brightened,<br/>
+ We would try to imagine them, try to find each other,<br/>
+ To construct peace, to make love, to reconcile<br/>
+ Waking with sleeping, ourselves with each other,<br/>
+ Ourselves with ourselves. We would try by any means<br/>
+ To reach the limits of ourselves, to reach beyond ourselves,<br/>
+ To let go the means, to wake.<br/><br/>
+ I lived in the first century of these wars.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
+- [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
+- [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
+- [The bonus that was talked about on the phone is not included in the job offer. Should I talk with the recruiter about it?](https://www.reddit.com/r/InformationTechnology/comments/mxfpw6/the_bonus_that_was_talked_about_on_the_phone_is/)
+- [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
+- [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
 - [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
 - [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
 - [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
 - [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
-- [senior in HS looking to get a degree in information technology that has a few questions](https://www.reddit.com/r/InformationTechnology/comments/mwa530/senior_in_hs_looking_to_get_a_degree_in/)
-- [I wanna go into IT what some apps or videos I should watch to help me get started.( or what coding should I learn)](https://www.reddit.com/r/InformationTechnology/comments/mw6u8r/i_wanna_go_into_it_what_some_apps_or_videos_i/)
-- [Comptia Security+ SYO-501](https://www.reddit.com/r/InformationTechnology/comments/mw2w5h/comptia_security_syo501/)
-- [Discussion - How long until mandatory 2FA everywhere?](https://www.reddit.com/r/InformationTechnology/comments/mvx9kf/discussion_how_long_until_mandatory_2fa_everywhere/)
-- [Interview questions](https://www.reddit.com/r/InformationTechnology/comments/mvskxo/interview_questions/)
-- [Foot in the Door](https://www.reddit.com/r/InformationTechnology/comments/mvqoae/foot_in_the_door/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

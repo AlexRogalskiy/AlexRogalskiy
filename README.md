@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Samsung Announces a Bespoke Event to Unveil a "New Vision for Every Home"](https://www.reviewgeek.com/79458/samsung-announces-a-bespoke-event-to-unveil-a-new-vision-for-every-home/)
-* [Oculus Launches New Avatars, and They Actually Have Legs](https://www.reviewgeek.com/79429/oculus-launches-new-avatars-and-they-actually-have-legs/)
-* [The 2021 iPad Pro Isn't Compatible With Older Magic Keyboards](https://www.reviewgeek.com/79437/new-ipad-pro-not-compatible-with-magic-keyboard/)
-* [PSA: Twitter Sent Out User Confirmation Emails By Accident, Ignore Them](https://www.reviewgeek.com/79431/psa-twitter-sent-out-user-confirmation-emails-by-accident-ignore-them/)
-* [10 Upgrades for Your Rusty Old Grill Accessories](https://www.lifesavvy.com/65063/10-upgrades-for-your-rusty-old-grill-accessories/)
-* [Argentina Temporarily Lost Its Google Domain to Some Random Guy](https://www.reviewgeek.com/79428/argentina-temporarily-lost-its-google-domain-to-some-random-guy/)
-* [SpaceX Successfully Reused a Rocket to Send Astronauts to the ISS](https://www.reviewgeek.com/79391/spacex-successfully-reused-a-rocket-to-send-astronauts-to-the-iss/)
-* [This 100,000-Piece LEGO Sculpture Depicts a Reimagined African Metropolis](https://www.reviewgeek.com/79423/this-100000-piece-lego-sculpture-depicts-a-reimagined-african-metropolis/)
-* [Evercade's VS Console Brings Retro Cartridge Gaming to Your TV](https://www.reviewgeek.com/79393/evercades-vs-console-brings-retro-cartridge-gaming-to-your-tv/)
-* [How to Send Text Messages with Google Assistant](https://www.howtogeek.com/722550/how-to-send-text-messages-with-google-assistant/)
+* [This Newly-Detected "Unicorn" Black Hole Is Super Close to Earth](https://www.reviewgeek.com/79469/this-newly-detected-unicorn-black-hole-is-super-close-to-earth/)
+* [How to Check How Much Google Account Storage You Have Left](https://www.howtogeek.com/714378/how-to-check-how-much-google-account-storage-you-have-left/)
+* [Domino's Launches Autonomous Pizza Delivery Robot In Houston](https://www.reviewgeek.com/79453/dominos-launches-autonomous-pizza-delivery-robot-in-houston/)
+* [How to Factory Reset Your Windows 10 PC Using Command Prompt](https://www.howtogeek.com/722827/how-to-factory-reset-your-windows-10-pc-using-command-prompt/)
+* [How to Temporarily Lock Apps on iPhone with Screen Time](https://www.howtogeek.com/720506/how-to-temporarily-lock-apps-on-iphone-with-screen-time/)
+* [How to Quickly Locate Your Mac Mouse Cursor by Shaking](https://www.howtogeek.com/718073/how-to-quickly-locate-your-mac-mouse-cursor-by-shaking/)
+* [Wyze Smart Lamp Review: Simpler Than a Smart Bulb, Better Than a Regular Lamp](https://www.reviewgeek.com/79084/wyze-smart-lamp-review-simpler-than-a-smart-bulb-better-than-a-regular-lamp/)
+* [How to Turn off “Hey Siri” on HomePod Mini](https://www.howtogeek.com/719641/how-to-turn-off-hey-siri-on-homepod-mini/)
+* [The 12 Most Frustrating Games You Should Play](https://www.reviewgeek.com/78016/the-12-most-frustrating-games-you-should-play/)
+* [What Is Signal, and Why Is Everyone Using It?](https://www.howtogeek.com/708916/what-is-signal-and-why-is-everyone-using-it/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

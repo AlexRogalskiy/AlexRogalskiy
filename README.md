@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;83&#x2F;7b&#x2F;04837b11c6bf9f172643a83e70e8cbb3.jpg" alt="This #WordOfTheDay belongs in movies. It’s celluloid. Get example sentences and more at Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;83&#x2F;7b&#x2F;04837b11c6bf9f172643a83e70e8cbb3.jpg" alt="This #WordOfTheDay belongs in movies. It’s celluloid. Get example sentences and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a8&#x2F;a9&#x2F;ac&#x2F;a8a9ac32fe989c1cf8ca85d4d46b56fc.jpg" alt="Today’s #WordOfTheDay is going green. It’s sustainability. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;42&#x2F;23&#x2F;e9&#x2F;4223e95308a8fbc5f7fd21365dc8e1d3.jpg" alt="Is it nice enough where you are to dine alfresco? It’s our Word of the Day. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;2c&#x2F;4d&#x2F;5a2c4d8517f7fb460e66ccda8c62fa8f.jpg" alt="Yes, there&#39;s a word for that. Pandiculation is the #WordOfTheDay. Click through to stretch your knowledge. " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>overcast clouds</i>), humidity: 93%, pressure: 1006 (mbar), wind: /east/ 5 (m/s), cloudy: 90%</b>
+        <b>5°C (<i>broken clouds</i>), humidity: 93%, pressure: 1007 (mbar), wind: /north-east/ 2 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>05:10 am</b> and sets at <b>20:42 pm</b>.
     </p>

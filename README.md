@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/D/die_off_2886.php" target="_blank"><i>die off</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_2/end_up_1620.php" target="_blank"><i>end up</i></a>
 <span> = </span>
-<span>If a group of people, animals, or plants dies off, all of them die over a period of time and none are left.</span>
+<span>If you end up being somewhere, or doing something, it's because of decisions you've made in the past.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/earn_your_stripes_162.php" target="_blank"><i>earn your stripes</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/talk_through_your_hat_361.php" target="_blank"><i>talk through your hat</i></a>
 <span> = </span>
-<span>If you earn your stripes, you do something to prove that you have the skills or ability for a particular job or rank.</span>
+<span>If you're talking through your hat, you're talking about something without knowing much about it, or you claim something is true when it isn't.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Music/sax_1102.php" target="_blank"><i>sax</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/pissed_2__806.php" target="_blank"><i>pissed (2)</i></a>
 <span> = </span>
-<span>saxophone</span>
+<span>angry, annoyed</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
 <span> = </span>
-<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
+<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -241,27 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649369759293620224" target="_blank"><i>“I lived in the first century of world wars”</i></a></summary>
-<p>by Muriel Rukeyser</p><p>I lived in the first century of world wars.<br/>
- Most mornings I would be more or less insane,<br/>
- The newspapers would arrive with their careless stories,<br/>
- The news would pour out of various devices<br/>
- Interrupted by attempts to sell products to the unseen.<br/>
- I would call my friends on other devices;<br/>
- They would be more or less mad for similar reasons.<br/>
- Slowly I would get to pen and paper,<br/>
- Make my poems for others unseen and unborn.<br/>
- In the day I would be reminded of those men and women,<br/>
- Brave, setting up signals across vast distances,<br/>
- Considering a nameless way of living, of almost unimagined values.<br/>
- As the lights darkened, as the lights of night brightened,<br/>
- We would try to imagine them, try to find each other,<br/>
- To construct peace, to make love, to reconcile<br/>
- Waking with sleeping, ourselves with each other,<br/>
- Ourselves with ourselves. We would try by any means<br/>
- To reach the limits of ourselves, to reach beyond ourselves,<br/>
- To let go the means, to wake.<br/><br/>
- I lived in the first century of these wars.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/649460338258067456" target="_blank"><i>Earthseed</i></a></summary>
+<p>by Octavia Butler</p><p>Here we are&ndash;<br/>Energy,<br/>Mass,<br/>Life,<br/>Shaping life,<br/>Mind,<br/>Shaping Mind<br/>God,<br/>Shaping God.<br/>Consider—<br/>We are born<br/>Not with purpose,<br/>But with potential.<br/><br/>All that you touch<br/>You Change.<br/><br/>All that you Change<br/>Changes you.<br/><br/>The only lasting truth<br/>Is Change.<br/><br/>God<br/>Is Change.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -292,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>overcast clouds</i>), humidity: 87%, pressure: 1005 (mbar), wind: /east/ 4 (m/s), cloudy: 90%</b>
+        <b>3°C (<i>light intensity drizzle</i>), humidity: 93%, pressure: 1006 (mbar), wind: /east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>05:10 am</b> and sets at <b>20:42 pm</b>.
     </p>
@@ -305,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Newly-Detected "Unicorn" Black Hole Is Super Close to Earth](https://www.reviewgeek.com/79469/this-newly-detected-unicorn-black-hole-is-super-close-to-earth/)
-* [How to Check How Much Google Account Storage You Have Left](https://www.howtogeek.com/714378/how-to-check-how-much-google-account-storage-you-have-left/)
-* [Domino's Launches Autonomous Pizza Delivery Robot In Houston](https://www.reviewgeek.com/79453/dominos-launches-autonomous-pizza-delivery-robot-in-houston/)
-* [How to Factory Reset Your Windows 10 PC Using Command Prompt](https://www.howtogeek.com/722827/how-to-factory-reset-your-windows-10-pc-using-command-prompt/)
-* [How to Temporarily Lock Apps on iPhone with Screen Time](https://www.howtogeek.com/720506/how-to-temporarily-lock-apps-on-iphone-with-screen-time/)
-* [How to Quickly Locate Your Mac Mouse Cursor by Shaking](https://www.howtogeek.com/718073/how-to-quickly-locate-your-mac-mouse-cursor-by-shaking/)
-* [Wyze Smart Lamp Review: Simpler Than a Smart Bulb, Better Than a Regular Lamp](https://www.reviewgeek.com/79084/wyze-smart-lamp-review-simpler-than-a-smart-bulb-better-than-a-regular-lamp/)
-* [How to Turn off “Hey Siri” on HomePod Mini](https://www.howtogeek.com/719641/how-to-turn-off-hey-siri-on-homepod-mini/)
-* [The 12 Most Frustrating Games You Should Play](https://www.reviewgeek.com/78016/the-12-most-frustrating-games-you-should-play/)
-* [What Is Signal, and Why Is Everyone Using It?](https://www.howtogeek.com/708916/what-is-signal-and-why-is-everyone-using-it/)
+* [This Startup's "Electric Seaglider" Promises Coastal City Travel at 180 Mph](https://www.reviewgeek.com/79486/this-startups-electric-seaglider-promises-coastal-city-travel-at-180-mph/)
+* [Researchers Painted with Lasers Because Lasers](https://www.reviewgeek.com/79485/researchers-painted-with-lasers-because-lasers/)
+* [How to Use Function Keys on a Chromebook Keyboard](https://www.howtogeek.com/713365/how-to-use-function-keys-on-a-chromebook-keyboard/)
+* [How to Embed Pinterest Pins in OneNote or Word for Web](https://www.howtogeek.com/722889/how-to-embed-pinterest-pins-in-onenote-or-word-for-web/)
+* [These Avengers Playing Cards Will Bring the MCU to Your Next Poker Game](https://www.reviewgeek.com/79498/these-avengers-playing-cards-will-bring-the-mcu-to-your-next-poker-game/)
+* [How to Preview Safari Links before Opening on iPhone, iPad, and Mac](https://www.howtogeek.com/720861/how-to-preview-safari-links-before-opening-on-iphone-ipad-and-mac/)
+* [How to See Firefox Tab Previews in Windows 10’s Taskbar](https://www.howtogeek.com/719863/how-to-see-firefox-tab-previews-in-windows-10s-taskbar/)
+* [Watch a Model Train Play Music and Set a World Record](https://www.reviewgeek.com/79466/watch-a-model-train-play-music-and-set-a-world-record/)
+* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
+* [How to Run a Diagnostic Scan on your Chromebook](https://www.howtogeek.com/724503/how-to-run-a-diagnostic-scan-on-your-chromebook/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida family may get life in prison after church sold bleach as Covid-19 cure](https://www.msn.com/en-us/news/crime/florida-family-may-spend-life-in-prison-after-church-sold-bleach-as-covid-19-cure/ar-BB1g14PA)
-- [Genetically Modified Mosquitoes Breeding in Brazil, Despite Biotech Assurances](https://gizmodo.com/genetically-modified-mosquitoes-are-breeding-in-brazil-1838146152)
-- [Aerospace Engineer Judith Love Cohen](https://kottke.org/19/05/meet-aerospace-engineer-judith-love-cohen)
-- [GlueSQL: SQL Database with support for WebAssembly](https://github.com/gluesql/gluesql)
-- [Novel sublineage expanding in Chile and Peru](https://virological.org/t/novel-sublineage-within-b-1-1-1-currently-expanding-in-peru-and-chile-with-a-convergent-deletion-in-the-orf1a-gene-3675-3677-and-a-novel-deletion-in-the-spike-gene-246-252-g75v-t76i-l452q-f490s-t859n/685)
-- [In Defense of the Space Force](https://www.countere.com/home/in-defense-of-the-space-force)
-- [Boop – Paste and transform text locally](https://boop.okat.best/)
-- [Why the machine metaphor has failed in biology and software](http://hyperparameter.space/blog/this-is-not-a-machine/)
-- [Is It Time to Rename RPG?](https://www.itjungle.com/2020/08/24/is-it-time-to-rename-rpg/)
-- [Ask HN: What are your passive/side income streams in 2021?](https://news.ycombinator.com/item?id=26929627)
+- [Goose](http://repo.pixelomer.com)
+- [Can you trust your trust measure?](https://arxiv.org/abs/2104.11365)
+- [Map Reduce to Flatmap Fold](https://vladfeinberg.com/2021/04/25/map-reduce-to-flatmap-fold.html)
+- [India asks Twitter to remove tweets critical of its Covid-19 handling](https://www.theage.com.au/world/asia/india-asks-twitter-to-remove-tweets-critical-of-its-covid-19-handling-as-cases-hit-new-world-high-20210425-p57m55.html)
+- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
+- [The Specter of Cryptocurrencies](https://benoitessiambre.com/specter.html)
+- [Artist Drenched '60s Music Lovers in a Psychedelic Dream](https://www.collectorsweekly.com/articles/lightman-fantastic/)
+- [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
+- [The Myth of 'I'm Bad at Math'](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
+- [Untangling Haskell's Strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 27 die in fire at Baghdad hospital housing Covid patients](https://www.theguardian.com/world/2021/apr/25/people-killed-in-fire-at-baghdad-hospital)
-- [GlaxoSmithKline faces dose of strong medicine from US investor](https://www.theguardian.com/business/2021/apr/25/glaxosmithkline-faces-dose-of-strong-medicine-from-us-investor)
-- [The week English football fans bit back against the billionaire owners](https://www.theguardian.com/football/2021/apr/24/the-week-english-football-fans-bit-back-against-super-league-the-billionaire-owners)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mellow in yellow: 5 ways to style spring’s sunniest hue – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/mellow-in-yellow-5-ways-to-style-springs-sunniest-hue-in-pictures)
-- [Can Australia achieve herd immunity to coronavirus, and what happens if not?](https://www.theguardian.com/australia-news/2021/apr/25/can-australia-achieve-herd-immunity-to-coronavirus-and-what-happens-if-not)
-- [Eight officers injured policing anti-lockdown protest in London](https://www.theguardian.com/uk-news/2021/apr/24/eight-officers-injured-policing-anti-lockdown-protest-in-london)
-- [Guardiola warned City’s hierarchy over doomed European Super League](https://www.theguardian.com/football/2021/apr/24/guardiola-warned-citys-hierarchy-over-doomed-european-super-league)
-- [Toby Alderweireld confident ‘positive’ Ryan Mason can deliver silverware](https://www.theguardian.com/football/2021/apr/24/toby-alderweireld-ryan-mason-spurs-manchester-city)
-- [Footballers to boycott social media in mass protest over racist abuse](https://www.theguardian.com/football/2021/apr/24/footballers-to-boycott-social-media-in-mass-protest-over-racist-abuse)
+- [Oscars 2021 live: Minari’s Yuh-jung Youn wins best supporting actress](https://www.theguardian.com/film/live/2021/apr/25/oscars-2021-the-dresses-the-winners-the-weird-semi-masked-ceremony-in-a-train-station-live)
+- [The Seaspiracy controversy: should we stop eating fish? - podcast](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
+- [Oscars 2021 red carpet in pictures: from Carey Mulligan to Daniel Kaluuya](https://www.theguardian.com/fashion/gallery/2021/apr/26/oscars-red-carpet-in-pictures-best-looks-carey-mulligan)
+- [Man jumps through car window to stop driver in Albanian capital – video](https://www.theguardian.com/global/video/2021/apr/26/man-jumps-through-car-window-to-stop-driver-in-albanian-capital-video)
+- [Oscars 2021: timetable, predictions and what to expect](https://www.theguardian.com/film/2021/apr/25/oscars-predictions-2021-timetable-and-what-to-expect)
+- [Ex-Post Office head apologises to workers after convictions quashed](https://www.theguardian.com/business/2021/apr/26/ex-post-office-head-apologises-to-workers-after-convictions-quashed)
+- [Photos show missing Indonesian navy submarine found broken up on seabed](https://www.theguardian.com/world/2021/apr/25/missing-indonesian-submarine-found-broken-up-in-bali-sea)
+- [Boris Johnson is warned of ‘dangerous political vacuum’ in Northern Ireland](https://www.theguardian.com/uk-news/2021/apr/26/boris-johnson-is-warned-of-dangerous-political-vacuum-in-northern-ireland)
+- [Covid jabs to be offered to 44-year-olds in England from Monday](https://www.theguardian.com/world/2021/apr/26/covid-jabs-to-be-offered-to-44-year-olds-in-england-from-monday)
+- [What Covid vaccines does the UK have and which are in the works?](https://www.theguardian.com/society/2021/apr/26/what-covid-vaccines-does-uk-have-valneva)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
-- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
-- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
-- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
-- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
-- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
-- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
-- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
-- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
+- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
+- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
+- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
+- [Last Resort Font (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
+- [The Great Work](https://beside.media/besiders/the-great-work/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -425,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help understanding something about cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/mymhrk/help_understanding_something_about_cloud_computing/)
+- [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
+- [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
 - [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
 - [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
@@ -432,14 +416,12 @@
 - [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
 - [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
 - [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
-- [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
-- [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
-- [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
 - [Cyber Security Today, Week in Review for April 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-23-2021/446462)
 - [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
 - [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
@@ -449,7 +431,6 @@
 - [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
 - [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
 - [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
-- [New Apple iMac and iPad Pros now use the M1 chip](https://www.itworldcanada.com/article/new-apple-imac-and-ipad-pros-now-use-the-m1-chip/446375)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

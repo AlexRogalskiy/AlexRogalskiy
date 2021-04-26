@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/earn_your_stripes_162.php" target="_blank"><i>earn your stripes</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/talk_through_your_hat_361.php" target="_blank"><i>talk through your hat</i></a>
 <span> = </span>
-<span>If you earn your stripes, you do something to prove that you have the skills or ability for a particular job or rank.</span>
+<span>If you're talking through your hat, you're talking about something without knowing much about it, or you claim something is true when it isn't.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

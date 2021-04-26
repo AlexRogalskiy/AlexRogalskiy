@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/It_is_best_to_be_on_the_safe_side_856.php" target="_blank"><i>It is best to be on the safe side</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
 <span> = </span>
-<span>1) Don't take risks. Be careful and cautious. 2) It's best to be sure. It's best to be absolutely certain.</span>
+<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

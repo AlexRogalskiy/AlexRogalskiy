@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0b&#x2F;b4&#x2F;b0&#x2F;0bb4b00d7b34ba42a760e19aa272d493.jpg" alt="Are you guilty of sumpsimus? It&#39;s our #WordOfTheDay. Learn how to say it and more at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;83&#x2F;7b&#x2F;04837b11c6bf9f172643a83e70e8cbb3.jpg" alt="This #WordOfTheDay belongs in movies. It’s celluloid. Get example sentences and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a8&#x2F;a9&#x2F;ac&#x2F;a8a9ac32fe989c1cf8ca85d4d46b56fc.jpg" alt="Today’s #WordOfTheDay is going green. It’s sustainability. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;42&#x2F;23&#x2F;e9&#x2F;4223e95308a8fbc5f7fd21365dc8e1d3.jpg" alt="Is it nice enough where you are to dine alfresco? It’s our Word of the Day. Learn more at Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5a&#x2F;2c&#x2F;4d&#x2F;5a2c4d8517f7fb460e66ccda8c62fa8f.jpg" alt="Yes, there&#39;s a word for that. Pandiculation is the #WordOfTheDay. Click through to stretch your knowledge. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,9 +273,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>overcast clouds</i>), humidity: 81%, pressure: 1008 (mbar), wind: /north/ 2 (m/s), cloudy: 90%</b>
+        <b>5°C (<i>broken clouds</i>), humidity: 75%, pressure: 1008 (mbar), wind: /north-west/ 3 (m/s), cloudy: 75%</b>
         <br />
-        Today, the Sun rises at <b>05:10 am</b> and sets at <b>20:42 pm</b>.
+        Today, the Sun rises at <b>05:07 am</b> and sets at <b>20:44 pm</b>.
     </p>
 </div>
 

@@ -292,7 +292,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>overcast clouds</i>), humidity: 87%, pressure: 1005 (mbar), wind: /east/ 4 (m/s), cloudy: 90%</b>
+        <b>3°C (<i>light intensity drizzle</i>), humidity: 93%, pressure: 1006 (mbar), wind: /east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>05:10 am</b> and sets at <b>20:42 pm</b>.
     </p>
@@ -320,46 +320,46 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida family may get life in prison after church sold bleach as Covid-19 cure](https://www.msn.com/en-us/news/crime/florida-family-may-spend-life-in-prison-after-church-sold-bleach-as-covid-19-cure/ar-BB1g14PA)
-- [Genetically Modified Mosquitoes Breeding in Brazil, Despite Biotech Assurances](https://gizmodo.com/genetically-modified-mosquitoes-are-breeding-in-brazil-1838146152)
-- [Aerospace Engineer Judith Love Cohen](https://kottke.org/19/05/meet-aerospace-engineer-judith-love-cohen)
-- [GlueSQL: SQL Database with support for WebAssembly](https://github.com/gluesql/gluesql)
-- [Novel sublineage expanding in Chile and Peru](https://virological.org/t/novel-sublineage-within-b-1-1-1-currently-expanding-in-peru-and-chile-with-a-convergent-deletion-in-the-orf1a-gene-3675-3677-and-a-novel-deletion-in-the-spike-gene-246-252-g75v-t76i-l452q-f490s-t859n/685)
-- [In Defense of the Space Force](https://www.countere.com/home/in-defense-of-the-space-force)
-- [Boop – Paste and transform text locally](https://boop.okat.best/)
-- [Why the machine metaphor has failed in biology and software](http://hyperparameter.space/blog/this-is-not-a-machine/)
-- [Is It Time to Rename RPG?](https://www.itjungle.com/2020/08/24/is-it-time-to-rename-rpg/)
-- [Ask HN: What are your passive/side income streams in 2021?](https://news.ycombinator.com/item?id=26929627)
+- [Goose](http://repo.pixelomer.com)
+- [Can you trust your trust measure?](https://arxiv.org/abs/2104.11365)
+- [Map Reduce to Flatmap Fold](https://vladfeinberg.com/2021/04/25/map-reduce-to-flatmap-fold.html)
+- [India asks Twitter to remove tweets critical of its Covid-19 handling](https://www.theage.com.au/world/asia/india-asks-twitter-to-remove-tweets-critical-of-its-covid-19-handling-as-cases-hit-new-world-high-20210425-p57m55.html)
+- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
+- [The Specter of Cryptocurrencies](https://benoitessiambre.com/specter.html)
+- [Artist Drenched '60s Music Lovers in a Psychedelic Dream](https://www.collectorsweekly.com/articles/lightman-fantastic/)
+- [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
+- [The Myth of 'I'm Bad at Math'](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
+- [Untangling Haskell's Strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 27 die in fire at Baghdad hospital housing Covid patients](https://www.theguardian.com/world/2021/apr/25/people-killed-in-fire-at-baghdad-hospital)
-- [GlaxoSmithKline faces dose of strong medicine from US investor](https://www.theguardian.com/business/2021/apr/25/glaxosmithkline-faces-dose-of-strong-medicine-from-us-investor)
-- [The week English football fans bit back against the billionaire owners](https://www.theguardian.com/football/2021/apr/24/the-week-english-football-fans-bit-back-against-super-league-the-billionaire-owners)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mellow in yellow: 5 ways to style spring’s sunniest hue – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/mellow-in-yellow-5-ways-to-style-springs-sunniest-hue-in-pictures)
-- [Can Australia achieve herd immunity to coronavirus, and what happens if not?](https://www.theguardian.com/australia-news/2021/apr/25/can-australia-achieve-herd-immunity-to-coronavirus-and-what-happens-if-not)
-- [Eight officers injured policing anti-lockdown protest in London](https://www.theguardian.com/uk-news/2021/apr/24/eight-officers-injured-policing-anti-lockdown-protest-in-london)
-- [Guardiola warned City’s hierarchy over doomed European Super League](https://www.theguardian.com/football/2021/apr/24/guardiola-warned-citys-hierarchy-over-doomed-european-super-league)
-- [Toby Alderweireld confident ‘positive’ Ryan Mason can deliver silverware](https://www.theguardian.com/football/2021/apr/24/toby-alderweireld-ryan-mason-spurs-manchester-city)
-- [Footballers to boycott social media in mass protest over racist abuse](https://www.theguardian.com/football/2021/apr/24/footballers-to-boycott-social-media-in-mass-protest-over-racist-abuse)
+- [Oscars 2021 live: Minari’s Yuh-jung Youn wins best supporting actress](https://www.theguardian.com/film/live/2021/apr/25/oscars-2021-the-dresses-the-winners-the-weird-semi-masked-ceremony-in-a-train-station-live)
+- [The Seaspiracy controversy: should we stop eating fish? - podcast](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
+- [Oscars 2021 red carpet in pictures: from Carey Mulligan to Daniel Kaluuya](https://www.theguardian.com/fashion/gallery/2021/apr/26/oscars-red-carpet-in-pictures-best-looks-carey-mulligan)
+- [Man jumps through car window to stop driver in Albanian capital – video](https://www.theguardian.com/global/video/2021/apr/26/man-jumps-through-car-window-to-stop-driver-in-albanian-capital-video)
+- [Oscars 2021: timetable, predictions and what to expect](https://www.theguardian.com/film/2021/apr/25/oscars-predictions-2021-timetable-and-what-to-expect)
+- [Ex-Post Office head apologises to workers after convictions quashed](https://www.theguardian.com/business/2021/apr/26/ex-post-office-head-apologises-to-workers-after-convictions-quashed)
+- [Photos show missing Indonesian navy submarine found broken up on seabed](https://www.theguardian.com/world/2021/apr/25/missing-indonesian-submarine-found-broken-up-in-bali-sea)
+- [Boris Johnson is warned of ‘dangerous political vacuum’ in Northern Ireland](https://www.theguardian.com/uk-news/2021/apr/26/boris-johnson-is-warned-of-dangerous-political-vacuum-in-northern-ireland)
+- [Covid jabs to be offered to 44-year-olds in England from Monday](https://www.theguardian.com/world/2021/apr/26/covid-jabs-to-be-offered-to-44-year-olds-in-england-from-monday)
+- [What Covid vaccines does the UK have and which are in the works?](https://www.theguardian.com/society/2021/apr/26/what-covid-vaccines-does-uk-have-valneva)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
-- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
-- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
-- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
-- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
-- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
-- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
-- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
-- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
+- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
+- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
+- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
+- [Last Resort Font (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
+- [The Great Work](https://beside.media/besiders/the-great-work/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -425,6 +425,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help understanding something about cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/mymhrk/help_understanding_something_about_cloud_computing/)
+- [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
+- [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
 - [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
 - [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
@@ -432,14 +435,12 @@
 - [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
 - [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
 - [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
-- [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
-- [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
-- [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
 - [Cyber Security Today, Week in Review for April 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-23-2021/446462)
 - [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
 - [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
@@ -449,7 +450,6 @@
 - [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
 - [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
 - [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
-- [New Apple iMac and iPad Pros now use the M1 chip](https://www.itworldcanada.com/article/new-apple-imac-and-ipad-pros-now-use-the-m1-chip/446375)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

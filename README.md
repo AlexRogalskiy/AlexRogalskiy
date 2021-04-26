@@ -305,16 +305,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Newly-Detected "Unicorn" Black Hole Is Super Close to Earth](https://www.reviewgeek.com/79469/this-newly-detected-unicorn-black-hole-is-super-close-to-earth/)
-* [How to Check How Much Google Account Storage You Have Left](https://www.howtogeek.com/714378/how-to-check-how-much-google-account-storage-you-have-left/)
-* [Domino's Launches Autonomous Pizza Delivery Robot In Houston](https://www.reviewgeek.com/79453/dominos-launches-autonomous-pizza-delivery-robot-in-houston/)
-* [How to Factory Reset Your Windows 10 PC Using Command Prompt](https://www.howtogeek.com/722827/how-to-factory-reset-your-windows-10-pc-using-command-prompt/)
-* [How to Temporarily Lock Apps on iPhone with Screen Time](https://www.howtogeek.com/720506/how-to-temporarily-lock-apps-on-iphone-with-screen-time/)
-* [How to Quickly Locate Your Mac Mouse Cursor by Shaking](https://www.howtogeek.com/718073/how-to-quickly-locate-your-mac-mouse-cursor-by-shaking/)
-* [Wyze Smart Lamp Review: Simpler Than a Smart Bulb, Better Than a Regular Lamp](https://www.reviewgeek.com/79084/wyze-smart-lamp-review-simpler-than-a-smart-bulb-better-than-a-regular-lamp/)
-* [How to Turn off “Hey Siri” on HomePod Mini](https://www.howtogeek.com/719641/how-to-turn-off-hey-siri-on-homepod-mini/)
-* [The 12 Most Frustrating Games You Should Play](https://www.reviewgeek.com/78016/the-12-most-frustrating-games-you-should-play/)
-* [What Is Signal, and Why Is Everyone Using It?](https://www.howtogeek.com/708916/what-is-signal-and-why-is-everyone-using-it/)
+* [This Startup's "Electric Seaglider" Promises Coastal City Travel at 180 Mph](https://www.reviewgeek.com/79486/this-startups-electric-seaglider-promises-coastal-city-travel-at-180-mph/)
+* [Researchers Painted with Lasers Because Lasers](https://www.reviewgeek.com/79485/researchers-painted-with-lasers-because-lasers/)
+* [How to Use Function Keys on a Chromebook Keyboard](https://www.howtogeek.com/713365/how-to-use-function-keys-on-a-chromebook-keyboard/)
+* [How to Embed Pinterest Pins in OneNote or Word for Web](https://www.howtogeek.com/722889/how-to-embed-pinterest-pins-in-onenote-or-word-for-web/)
+* [These Avengers Playing Cards Will Bring the MCU to Your Next Poker Game](https://www.reviewgeek.com/79498/these-avengers-playing-cards-will-bring-the-mcu-to-your-next-poker-game/)
+* [How to Preview Safari Links before Opening on iPhone, iPad, and Mac](https://www.howtogeek.com/720861/how-to-preview-safari-links-before-opening-on-iphone-ipad-and-mac/)
+* [How to See Firefox Tab Previews in Windows 10’s Taskbar](https://www.howtogeek.com/719863/how-to-see-firefox-tab-previews-in-windows-10s-taskbar/)
+* [Watch a Model Train Play Music and Set a World Record](https://www.reviewgeek.com/79466/watch-a-model-train-play-music-and-set-a-world-record/)
+* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
+* [How to Run a Diagnostic Scan on your Chromebook](https://www.howtogeek.com/724503/how-to-run-a-diagnostic-scan-on-your-chromebook/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

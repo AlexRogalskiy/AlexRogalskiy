@@ -320,16 +320,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida family may get life in prison after church sold bleach as Covid-19 cure](https://www.msn.com/en-us/news/crime/florida-family-may-spend-life-in-prison-after-church-sold-bleach-as-covid-19-cure/ar-BB1g14PA)
-- [Genetically Modified Mosquitoes Breeding in Brazil, Despite Biotech Assurances](https://gizmodo.com/genetically-modified-mosquitoes-are-breeding-in-brazil-1838146152)
-- [Aerospace Engineer Judith Love Cohen](https://kottke.org/19/05/meet-aerospace-engineer-judith-love-cohen)
-- [GlueSQL: SQL Database with support for WebAssembly](https://github.com/gluesql/gluesql)
-- [Novel sublineage expanding in Chile and Peru](https://virological.org/t/novel-sublineage-within-b-1-1-1-currently-expanding-in-peru-and-chile-with-a-convergent-deletion-in-the-orf1a-gene-3675-3677-and-a-novel-deletion-in-the-spike-gene-246-252-g75v-t76i-l452q-f490s-t859n/685)
-- [In Defense of the Space Force](https://www.countere.com/home/in-defense-of-the-space-force)
-- [Boop – Paste and transform text locally](https://boop.okat.best/)
-- [Why the machine metaphor has failed in biology and software](http://hyperparameter.space/blog/this-is-not-a-machine/)
-- [Is It Time to Rename RPG?](https://www.itjungle.com/2020/08/24/is-it-time-to-rename-rpg/)
-- [Ask HN: What are your passive/side income streams in 2021?](https://news.ycombinator.com/item?id=26929627)
+- [Goose](http://repo.pixelomer.com)
+- [Can you trust your trust measure?](https://arxiv.org/abs/2104.11365)
+- [Map Reduce to Flatmap Fold](https://vladfeinberg.com/2021/04/25/map-reduce-to-flatmap-fold.html)
+- [India asks Twitter to remove tweets critical of its Covid-19 handling](https://www.theage.com.au/world/asia/india-asks-twitter-to-remove-tweets-critical-of-its-covid-19-handling-as-cases-hit-new-world-high-20210425-p57m55.html)
+- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
+- [The Specter of Cryptocurrencies](https://benoitessiambre.com/specter.html)
+- [Artist Drenched '60s Music Lovers in a Psychedelic Dream](https://www.collectorsweekly.com/articles/lightman-fantastic/)
+- [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
+- [The Myth of 'I'm Bad at Math'](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
+- [Untangling Haskell's Strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -425,6 +425,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help understanding something about cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/mymhrk/help_understanding_something_about_cloud_computing/)
+- [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
+- [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
 - [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
 - [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
@@ -432,9 +435,6 @@
 - [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
 - [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
 - [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
-- [Useless coworker](https://www.reddit.com/r/InformationTechnology/comments/mwq7r4/useless_coworker/)
-- [Getting error on windows](https://www.reddit.com/r/InformationTechnology/comments/mwgzn9/getting_error_on_windows/)
-- [New in IT- looking for the best places to read up on the industry?](https://www.reddit.com/r/InformationTechnology/comments/mwf21f/new_in_it_looking_for_the_best_places_to_read_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

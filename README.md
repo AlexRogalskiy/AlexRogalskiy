@@ -335,16 +335,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 27 die in fire at Baghdad hospital housing Covid patients](https://www.theguardian.com/world/2021/apr/25/people-killed-in-fire-at-baghdad-hospital)
-- [GlaxoSmithKline faces dose of strong medicine from US investor](https://www.theguardian.com/business/2021/apr/25/glaxosmithkline-faces-dose-of-strong-medicine-from-us-investor)
-- [The week English football fans bit back against the billionaire owners](https://www.theguardian.com/football/2021/apr/24/the-week-english-football-fans-bit-back-against-super-league-the-billionaire-owners)
-- [We love… fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mellow in yellow: 5 ways to style spring’s sunniest hue – in pictures](https://www.theguardian.com/fashion/gallery/2021/apr/24/mellow-in-yellow-5-ways-to-style-springs-sunniest-hue-in-pictures)
-- [Can Australia achieve herd immunity to coronavirus, and what happens if not?](https://www.theguardian.com/australia-news/2021/apr/25/can-australia-achieve-herd-immunity-to-coronavirus-and-what-happens-if-not)
-- [Eight officers injured policing anti-lockdown protest in London](https://www.theguardian.com/uk-news/2021/apr/24/eight-officers-injured-policing-anti-lockdown-protest-in-london)
-- [Guardiola warned City’s hierarchy over doomed European Super League](https://www.theguardian.com/football/2021/apr/24/guardiola-warned-citys-hierarchy-over-doomed-european-super-league)
-- [Toby Alderweireld confident ‘positive’ Ryan Mason can deliver silverware](https://www.theguardian.com/football/2021/apr/24/toby-alderweireld-ryan-mason-spurs-manchester-city)
-- [Footballers to boycott social media in mass protest over racist abuse](https://www.theguardian.com/football/2021/apr/24/footballers-to-boycott-social-media-in-mass-protest-over-racist-abuse)
+- [Oscars 2021 live: Minari’s Yuh-jung Youn wins best supporting actress](https://www.theguardian.com/film/live/2021/apr/25/oscars-2021-the-dresses-the-winners-the-weird-semi-masked-ceremony-in-a-train-station-live)
+- [The Seaspiracy controversy: should we stop eating fish? - podcast](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
+- [Oscars 2021 red carpet in pictures: from Carey Mulligan to Daniel Kaluuya](https://www.theguardian.com/fashion/gallery/2021/apr/26/oscars-red-carpet-in-pictures-best-looks-carey-mulligan)
+- [Man jumps through car window to stop driver in Albanian capital – video](https://www.theguardian.com/global/video/2021/apr/26/man-jumps-through-car-window-to-stop-driver-in-albanian-capital-video)
+- [Oscars 2021: timetable, predictions and what to expect](https://www.theguardian.com/film/2021/apr/25/oscars-predictions-2021-timetable-and-what-to-expect)
+- [Ex-Post Office head apologises to workers after convictions quashed](https://www.theguardian.com/business/2021/apr/26/ex-post-office-head-apologises-to-workers-after-convictions-quashed)
+- [Photos show missing Indonesian navy submarine found broken up on seabed](https://www.theguardian.com/world/2021/apr/25/missing-indonesian-submarine-found-broken-up-in-bali-sea)
+- [Boris Johnson is warned of ‘dangerous political vacuum’ in Northern Ireland](https://www.theguardian.com/uk-news/2021/apr/26/boris-johnson-is-warned-of-dangerous-political-vacuum-in-northern-ireland)
+- [Covid jabs to be offered to 44-year-olds in England from Monday](https://www.theguardian.com/world/2021/apr/26/covid-jabs-to-be-offered-to-44-year-olds-in-england-from-monday)
+- [What Covid vaccines does the UK have and which are in the works?](https://www.theguardian.com/society/2021/apr/26/what-covid-vaccines-does-uk-have-valneva)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

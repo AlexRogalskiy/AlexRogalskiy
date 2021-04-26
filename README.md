@@ -350,16 +350,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
-- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
-- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
-- [Web page that crashes the Chrome renderer](https://ronsor.github.io/byechrome.html?ok=bye)
-- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
-- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
-- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
-- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
-- [Mars has right ingredients for present-day microbial life: study](https://www.brown.edu/news/2021-04-22/subsurface)
+- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
+- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
+- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
+- [Last Resort Font (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
+- [The Great Work](https://beside.media/besiders/the-great-work/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

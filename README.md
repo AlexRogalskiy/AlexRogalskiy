@@ -241,27 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649369759293620224" target="_blank"><i>“I lived in the first century of world wars”</i></a></summary>
-<p>by Muriel Rukeyser</p><p>I lived in the first century of world wars.<br/>
- Most mornings I would be more or less insane,<br/>
- The newspapers would arrive with their careless stories,<br/>
- The news would pour out of various devices<br/>
- Interrupted by attempts to sell products to the unseen.<br/>
- I would call my friends on other devices;<br/>
- They would be more or less mad for similar reasons.<br/>
- Slowly I would get to pen and paper,<br/>
- Make my poems for others unseen and unborn.<br/>
- In the day I would be reminded of those men and women,<br/>
- Brave, setting up signals across vast distances,<br/>
- Considering a nameless way of living, of almost unimagined values.<br/>
- As the lights darkened, as the lights of night brightened,<br/>
- We would try to imagine them, try to find each other,<br/>
- To construct peace, to make love, to reconcile<br/>
- Waking with sleeping, ourselves with each other,<br/>
- Ourselves with ourselves. We would try by any means<br/>
- To reach the limits of ourselves, to reach beyond ourselves,<br/>
- To let go the means, to wake.<br/><br/>
- I lived in the first century of these wars.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/649460338258067456" target="_blank"><i>Earthseed</i></a></summary>
+<p>by Octavia Butler</p><p>Here we are&ndash;<br/>Energy,<br/>Mass,<br/>Life,<br/>Shaping life,<br/>Mind,<br/>Shaping Mind<br/>God,<br/>Shaping God.<br/>Consider—<br/>We are born<br/>Not with purpose,<br/>But with potential.<br/><br/>All that you touch<br/>You Change.<br/><br/>All that you Change<br/>Changes you.<br/><br/>The only lasting truth<br/>Is Change.<br/><br/>God<br/>Is Change.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [April patch recap: Mostly quiet on the Microsoft front](https://www.computerworld.com/article/3616675/april-patch-recap-mostly-quiet-on-the-microsoft-front.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [iOS 15: Playing the expectations game](https://www.computerworld.com/article/3616594/ios-15-playing-the-expectations-game.html#tk.rss_all)
+- [Rethinking mobile security in a post-COVID workplace](https://www.computerworld.com/article/3616226/rethinking-mobile-security-in-a-post-covid-workplace.html#tk.rss_all)
 - [Microsoft ships Office 2021 preview for Mac](https://www.computerworld.com/article/3616499/microsoft-ships-office-2021-preview-for-mac.html#tk.rss_all)
 - [Google Meet gets a UI refresh to help ‘deepen the meeting experience’](https://www.computerworld.com/article/3616194/google-meet-gets-a-ui-refresh-to-help-deepen-the-meeting-experience.html#tk.rss_all)
 - [The Bose Videobar VB1, huddle spaces, and the post-pandemic workplace](https://www.computerworld.com/article/3616132/bose-videobar-vb1-huddle-spaces-and-post-pandemic-workplace.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [WWDC: How will Apple change iPadOS for pros?](https://www.computerworld.com/article/3616191/wwdc-how-will-apple-change-ipados-for-pros.html#tk.rss_all)
 - [Give yourself an Android productivity upgrade](https://www.computerworld.com/article/3615517/android-productivity-upgrade.html#tk.rss_all)
-- [4 steps to repair Microsoft Office](https://www.computerworld.com/article/3614195/4-steps-to-repair-microsoft-office.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [What's in the latest Firefox update? 88 stymies shifty JavaScript tracker](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-88-stymies-shifty-javascript-tracker.html#tk.rss_all)
-- [An enterprise take on Apple’s Spring Loaded event](https://www.computerworld.com/article/3615992/an-enterprise-take-on-apple-s-spring-loaded-event.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

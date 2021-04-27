@@ -241,8 +241,21 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649460338258067456" target="_blank"><i>Earthseed</i></a></summary>
-<p>by Octavia Butler</p><p>Here we are&ndash;<br/>Energy,<br/>Mass,<br/>Life,<br/>Shaping life,<br/>Mind,<br/>Shaping Mind<br/>God,<br/>Shaping God.<br/>Consider—<br/>We are born<br/>Not with purpose,<br/>But with potential.<br/><br/>All that you touch<br/>You Change.<br/><br/>All that you Change<br/>Changes you.<br/><br/>The only lasting truth<br/>Is Change.<br/><br/>God<br/>Is Change.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649550936282415104" target="_blank"><i>Barracks Home</i></a></summary>
+<p>by Tojo Suyemoto</p><p>This is our barracks, squatting on the ground,<br/>
+ Tar papered shacks, partitioned into rooms<br/>
+ By sheetrock walls, transmitting every sound<br/>
+ Of neighbor’s gossip or the sweep of brooms<br/>
+ The open door welcomes the refugees,<br/>
+ And now at least there is no need to roam<br/>
+ Afar: here space enlarges memories<br/>
+ Beyond the bounds of camp and this new home.<br/>
+ The floor is carpeted with dust, wind-borne<br/>
+ Dry alkalai, patterned with insect feet,<br/>
+ What peace can such a place as this impart?<br/>
+ We can but sense, bewildered and forlorn,<br/>
+ That time, disrupted by the war from neat<br/>
+ Routines, must now adjust within the heart.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -185,17 +185,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/talk_through_your_hat_361.php" target="_blank"><i>talk through your hat</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Law/mend_your_ways_324.php" target="_blank"><i>mend your ways</i></a>
 <span> = </span>
-<span>If you're talking through your hat, you're talking about something without knowing much about it, or you claim something is true when it isn't.</span>
+<span>If you mend your ways, you improve your behaviour and stop doing things that cause trouble.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/pissed_2__806.php" target="_blank"><i>pissed (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_5/peanuts_1341.php" target="_blank"><i>peanuts</i></a>
 <span> = </span>
-<span>angry, annoyed</span>
+<span>very little money</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -241,8 +241,21 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649460338258067456" target="_blank"><i>Earthseed</i></a></summary>
-<p>by Octavia Butler</p><p>Here we are&ndash;<br/>Energy,<br/>Mass,<br/>Life,<br/>Shaping life,<br/>Mind,<br/>Shaping Mind<br/>God,<br/>Shaping God.<br/>Consider—<br/>We are born<br/>Not with purpose,<br/>But with potential.<br/><br/>All that you touch<br/>You Change.<br/><br/>All that you Change<br/>Changes you.<br/><br/>The only lasting truth<br/>Is Change.<br/><br/>God<br/>Is Change.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649550936282415104" target="_blank"><i>Barracks Home</i></a></summary>
+<p>by Tojo Suyemoto</p><p>This is our barracks, squatting on the ground,<br/>
+ Tar papered shacks, partitioned into rooms<br/>
+ By sheetrock walls, transmitting every sound<br/>
+ Of neighbor’s gossip or the sweep of brooms<br/>
+ The open door welcomes the refugees,<br/>
+ And now at least there is no need to roam<br/>
+ Afar: here space enlarges memories<br/>
+ Beyond the bounds of camp and this new home.<br/>
+ The floor is carpeted with dust, wind-borne<br/>
+ Dry alkalai, patterned with insect feet,<br/>
+ What peace can such a place as this impart?<br/>
+ We can but sense, bewildered and forlorn,<br/>
+ That time, disrupted by the war from neat<br/>
+ Routines, must now adjust within the heart.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +286,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>5°C (<i>broken clouds</i>), humidity: 75%, pressure: 1008 (mbar), wind: /north-west/ 3 (m/s), cloudy: 75%</b>
+        <b>4°C (<i>broken clouds</i>), humidity: 81%, pressure: 1008 (mbar), wind: /north/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>05:07 am</b> and sets at <b>20:44 pm</b>.
     </p>
@@ -286,81 +299,83 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Startup's "Electric Seaglider" Promises Coastal City Travel at 180 Mph](https://www.reviewgeek.com/79486/this-startups-electric-seaglider-promises-coastal-city-travel-at-180-mph/)
-* [Researchers Painted with Lasers Because Lasers](https://www.reviewgeek.com/79485/researchers-painted-with-lasers-because-lasers/)
-* [How to Use Function Keys on a Chromebook Keyboard](https://www.howtogeek.com/713365/how-to-use-function-keys-on-a-chromebook-keyboard/)
-* [How to Embed Pinterest Pins in OneNote or Word for Web](https://www.howtogeek.com/722889/how-to-embed-pinterest-pins-in-onenote-or-word-for-web/)
-* [These Avengers Playing Cards Will Bring the MCU to Your Next Poker Game](https://www.reviewgeek.com/79498/these-avengers-playing-cards-will-bring-the-mcu-to-your-next-poker-game/)
-* [How to Preview Safari Links before Opening on iPhone, iPad, and Mac](https://www.howtogeek.com/720861/how-to-preview-safari-links-before-opening-on-iphone-ipad-and-mac/)
-* [How to See Firefox Tab Previews in Windows 10’s Taskbar](https://www.howtogeek.com/719863/how-to-see-firefox-tab-previews-in-windows-10s-taskbar/)
-* [Watch a Model Train Play Music and Set a World Record](https://www.reviewgeek.com/79466/watch-a-model-train-play-music-and-set-a-world-record/)
-* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
-* [How to Run a Diagnostic Scan on your Chromebook](https://www.howtogeek.com/724503/how-to-run-a-diagnostic-scan-on-your-chromebook/)
+* [How to Ask iPhone and iPad Apps to Not Track You Across the Web](https://www.howtogeek.com/724969/how-to-ask-iphone-and-ipad-apps-to-not-track-you-across-the-web/)
+* [macOS 11.3 is Available Now, with Support for AirTags, PS5 Controllers, and More](https://www.reviewgeek.com/79843/macos-11-3-is-available-now-with-support-for-airtags-ps5-controllers-and-more/)
+* [iOS 14.5 is Out Now---Wear a Mask with Face ID and More](https://www.reviewgeek.com/79823/ios-14-5-is-out-now-wear-a-mask-with-faceid-and-more/)
+* [Samsung's New DeX Keyboard Makes the Most of Galaxy Gadgets](https://www.reviewgeek.com/79774/samsungs-new-dex-keyboard-makes-the-most-of-galaxy-gadgets/)
+* [What’s New in iOS 14.5, Available Now](https://www.howtogeek.com/724973/whats-new-in-ios-14.5-available-now/)
+* [How to Unlock Your iPhone While Wearing a Mask (Using Apple Watch)](https://www.howtogeek.com/724983/how-to-unlock-your-iphone-while-wearing-a-mask-using-apple-watch/)
+* [dbrand Turns Your Pastel iMac to Black, the Color it Should Be](https://www.reviewgeek.com/79732/dbrand-imac-black-bezel-skin/)
+* [LEGO Just Announced Two New BrickHeadz 'Minions: The Rise of Gru' Sets](https://www.reviewgeek.com/79755/lego-just-announced-two-new-brickheadz-minions-the-rise-of-gru-sets/)
+* [Zoom's New Immersive Mode Puts Everyone Together in the Same "Room"](https://www.reviewgeek.com/79729/zooms-new-immersive-mode-puts-everyone-together-in-the-same-room/)
+* [Lightning Fast DDR5 RAM Sticks Enter Production for Next-Gen PCs](https://www.reviewgeek.com/79727/lightning-fast-ddr5-ram-sticks-enter-production-for-next-gen-pcs/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Goose](http://repo.pixelomer.com)
-- [Can you trust your trust measure?](https://arxiv.org/abs/2104.11365)
-- [Map Reduce to Flatmap Fold](https://vladfeinberg.com/2021/04/25/map-reduce-to-flatmap-fold.html)
-- [India asks Twitter to remove tweets critical of its Covid-19 handling](https://www.theage.com.au/world/asia/india-asks-twitter-to-remove-tweets-critical-of-its-covid-19-handling-as-cases-hit-new-world-high-20210425-p57m55.html)
-- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
-- [The Specter of Cryptocurrencies](https://benoitessiambre.com/specter.html)
-- [Artist Drenched '60s Music Lovers in a Psychedelic Dream](https://www.collectorsweekly.com/articles/lightman-fantastic/)
-- [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
-- [The Myth of 'I'm Bad at Math'](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
-- [Untangling Haskell's Strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
+- [US population grew at the slowest rate since the 1930s](https://www.nytimes.com/2021/04/26/us/us-census-numbers.html)
+- [Streaming for Good](https://standuptocancer.org/streaming/)
+- [Google Argentina's domain name bought for £2](https://www.bbc.com/news/technology-56870270)
+- [How TSMC has mastered the geopolitics of chipmaking](https://www.economist.com/business/2021/04/26/how-tsmc-has-mastered-the-geopolitics-of-chipmaking)
+- [How the space race changed Soviet art](https://www.bbc.com/future/article/20210426-how-the-space-race-changed-soviet-art)
+- [‘We are drowning in insecurity’: young people and life after the pandemic](https://www.ft.com/content/77d586cc-4f3f-4701-a104-d09136c93d44)
+- [The pitfalls of open plan offices](https://www.ft.com/content/6c3751fd-34d4-4952-815e-08f007e5fbd0)
+- [Nvidia Warns: Severe Security Bugs in GPU Driver, VGPU Software](https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/)
+- [Behind-the-Scenes with American Demothballing Jets from Pandemic Storage](https://skift.com/2021/04/26/behind-the-scenes-with-american-demothballing-jets-from-pandemic-storage/)
+- [Tense exchange aboard SpaceX craft records ‘possible close call’](https://nypost.com/2021/04/26/tense-exchange-aboard-spacex-craft-records-possible-close-call/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oscars 2021 live: Minari’s Yuh-jung Youn wins best supporting actress](https://www.theguardian.com/film/live/2021/apr/25/oscars-2021-the-dresses-the-winners-the-weird-semi-masked-ceremony-in-a-train-station-live)
-- [The Seaspiracy controversy: should we stop eating fish? - podcast](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
-- [Oscars 2021 red carpet in pictures: from Carey Mulligan to Daniel Kaluuya](https://www.theguardian.com/fashion/gallery/2021/apr/26/oscars-red-carpet-in-pictures-best-looks-carey-mulligan)
-- [Man jumps through car window to stop driver in Albanian capital – video](https://www.theguardian.com/global/video/2021/apr/26/man-jumps-through-car-window-to-stop-driver-in-albanian-capital-video)
-- [Oscars 2021: timetable, predictions and what to expect](https://www.theguardian.com/film/2021/apr/25/oscars-predictions-2021-timetable-and-what-to-expect)
-- [Ex-Post Office head apologises to workers after convictions quashed](https://www.theguardian.com/business/2021/apr/26/ex-post-office-head-apologises-to-workers-after-convictions-quashed)
-- [Photos show missing Indonesian navy submarine found broken up on seabed](https://www.theguardian.com/world/2021/apr/25/missing-indonesian-submarine-found-broken-up-in-bali-sea)
-- [Boris Johnson is warned of ‘dangerous political vacuum’ in Northern Ireland](https://www.theguardian.com/uk-news/2021/apr/26/boris-johnson-is-warned-of-dangerous-political-vacuum-in-northern-ireland)
-- [Covid jabs to be offered to 44-year-olds in England from Monday](https://www.theguardian.com/world/2021/apr/26/covid-jabs-to-be-offered-to-44-year-olds-in-england-from-monday)
-- [What Covid vaccines does the UK have and which are in the works?](https://www.theguardian.com/society/2021/apr/26/what-covid-vaccines-does-uk-have-valneva)
+- [India’s Covid disaster: a crisis for the world – podcast](https://www.theguardian.com/news/audio/2021/apr/27/india-covid-disaster-a-crisis-for-the-world-podcast)
+- [First supermoon of 2021 rises across the globe – video](https://www.theguardian.com/science/video/2021/apr/27/first-supermoon-of-2021-rises-across-globe-video)
+- [Poignant video shows crew of sunken Indonesia submarine singing farewell song](https://www.theguardian.com/world/2021/apr/27/poignant-video-shows-crew-of-sunken-indonesia-submarine-singing-farewell-song)
+- [New Zealand loses top spot for best place to be during Covid to Singapore](https://www.theguardian.com/world/2021/apr/27/new-zealand-loses-top-spot-for-best-place-to-be-during-covid-to-singapore)
+- [US homeland security review to address threat of extremism within agency](https://www.theguardian.com/us-news/2021/apr/27/us-homeland-security-review-to-address-threat-of-extremism-within-agency)
+- [BLM dance on Britain’s Got Talent in running for Bafta ‘must-see’ award](https://www.theguardian.com/tv-and-radio/2021/apr/27/blm-dance-on-britains-got-talent-in-running-for-bafta-must-see-award)
+- [UK book sales soared in 2020 despite pandemic](https://www.theguardian.com/books/2021/apr/27/uk-book-sales-soared-in-2020-despite-pandemic)
+- [Talking Horses: Tuesday showdowns get the Punchestown party started](https://www.theguardian.com/sport/blog/2021/apr/27/talking-horses-tuesday-showdowns-get-the-punchestown-party-started)
+- [RNLI says lifesaving callouts increased by 30% in summer 2020](https://www.theguardian.com/uk-news/2021/apr/27/rnli-says-lifesaving-callouts-increased-by-30-in-summer-2020)
+- [Shift workers treated in hospital three times more likely to have Covid – study](https://www.theguardian.com/world/2021/apr/26/shift-workers-treated-in-hospital-three-times-more-likely-to-have-covid-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
-- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
-- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
-- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
-- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
-- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
-- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
-- [Last Resort Font (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
-- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
-- [The Great Work](https://beside.media/besiders/the-great-work/)
+- [A Pixel Is Not a Little Square [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+- [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
+- [Back end developers can make good looking web apps too – FullyBearded](https://fullybearded.com/articles/backend-devs-can-make-good-looking-web-apps/)
+- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
+- [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
+- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
+- [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
+- [Tesla Q1 2021 Results](https://tesla-cdn.thron.com/static/R3GJMT_TSLA_Q1_2021_Update_5KJWZA.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22TSLA-Q1-2021-Update.pdf%22)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [April patch recap: Mostly quiet on the Microsoft front](https://www.computerworld.com/article/3616675/april-patch-recap-mostly-quiet-on-the-microsoft-front.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [iOS 15: Playing the expectations game](https://www.computerworld.com/article/3616594/ios-15-playing-the-expectations-game.html#tk.rss_all)
+- [Rethinking mobile security in a post-COVID workplace](https://www.computerworld.com/article/3616226/rethinking-mobile-security-in-a-post-covid-workplace.html#tk.rss_all)
 - [Microsoft ships Office 2021 preview for Mac](https://www.computerworld.com/article/3616499/microsoft-ships-office-2021-preview-for-mac.html#tk.rss_all)
 - [Google Meet gets a UI refresh to help ‘deepen the meeting experience’](https://www.computerworld.com/article/3616194/google-meet-gets-a-ui-refresh-to-help-deepen-the-meeting-experience.html#tk.rss_all)
 - [The Bose Videobar VB1, huddle spaces, and the post-pandemic workplace](https://www.computerworld.com/article/3616132/bose-videobar-vb1-huddle-spaces-and-post-pandemic-workplace.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [WWDC: How will Apple change iPadOS for pros?](https://www.computerworld.com/article/3616191/wwdc-how-will-apple-change-ipados-for-pros.html#tk.rss_all)
 - [Give yourself an Android productivity upgrade](https://www.computerworld.com/article/3615517/android-productivity-upgrade.html#tk.rss_all)
-- [4 steps to repair Microsoft Office](https://www.computerworld.com/article/3614195/4-steps-to-repair-microsoft-office.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [What's in the latest Firefox update? 88 stymies shifty JavaScript tracker](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-88-stymies-shifty-javascript-tracker.html#tk.rss_all)
-- [An enterprise take on Apple’s Spring Loaded event](https://www.computerworld.com/article/3615992/an-enterprise-take-on-apple-s-spring-loaded-event.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CIO Role Expands into Company Culture, Customer Experience](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-role-expands-into-company-culture-customer-experience/d/d-id/1340816?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What You Might Not Realize About Your Multi-Cloud Model](https://www.informationweek.com/cloud/what-you-might-not-realize-about-your-multi-cloud-model/a/d-id/1340778?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Asante CIO Discusses Transforming with Cloud and Telehealth](https://www.informationweek.com/cloud/asante-cio-discusses-transforming-with-cloud-and-telehealth/a/d-id/1340800?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Three Key Tax Incentives for IT Consultants](https://www.informationweek.com/strategic-cio/team-building-and-staffing/three-key-tax-incentives-for-it-consultants/a/d-id/1340744?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Tech Spending Climbs as Digital Business Initiatives Grow](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/tech-spending-climbs-as-digital-business-initiatives-grow/d/d-id/1340781?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,13 +384,13 @@
 - [3 Factors That Should be Driving Your Digital Transformation](https://www.informationweek.com/strategic-cio/digital-business/3-factors-that-should-be-driving-your-digital-transformation/a/d-id/1340726?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Things Your Artificial Intelligence Initiative Needs to Succeed](https://www.informationweek.com/big-data/ai-machine-learning/10-things-your-artificial-intelligence-initiative-needs-to-succeed/d/d-id/1340729?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Offers Course on Basics of Machine Learning](https://www.informationweek.com/aws-offers-course-on-basics-of-machine-learning/d/d-id/1340715?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Time to Modernize Your Data Integration Framework](https://www.informationweek.com/big-data/time-to-modernize-your-data-integration-framework/a/d-id/1340687?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Forecast of the Future of Work from MIT Sloan CIO Symposium](https://www.informationweek.com/strategic-cio/forecast-of-the-future-of-work-from-mit-sloan-cio-symposium/d/d-id/1340691?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Tapping into the smartest software developers](https://www.infoworld.com/article/3616225/tapping-into-the-smartest-software-developers.html#tk.rss_all)
+- [3 enterprise AI success stories](https://www.infoworld.com/article/3615449/3-enterprise-ai-success-stories.html#tk.rss_all)
 - [Mozilla spins out Pyodide Python-in-the-browser project](https://www.infoworld.com/article/3616629/mozilla-spins-out-pyodide-python-in-the-browser-project.html#tk.rss_all)
 - [3 cloud architecture mistakes we all make, but shouldn’t](https://www.infoworld.com/article/3616211/3-cloud-architecture-mistakes-we-all-make-but-shouldnt.html#tk.rss_all)
 - [Angular 12 piles on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
@@ -384,53 +399,51 @@
 - [JetBrains IntelliJ IDE debuts ‘run targets’](https://www.infoworld.com/article/3616168/jetbrains-intellij-ide-debuts-run-targets.html#tk.rss_all)
 - [Build more secure software with Rust for Windows](https://www.infoworld.com/article/3615991/build-more-secure-software-with-rust-for-windows.html#tk.rss_all)
 - [LLVM 12 arrives with x86, AArch optimizations](https://www.infoworld.com/article/3615511/llvm-12-arrives-with-x86-aarch-optimizations.html#tk.rss_all)
-- [Make the most of R colors and palettes](https://www.infoworld.com/article/3615230/make-the-most-of-r-colors-and-palettes.html#tk.rss_all)
-- [Review: 7 Python IDEs go to the mat](https://www.infoworld.com/article/3132430/review-6-python-ides-go-to-the-mat.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Another 38 subpostmasters submit appeals against convictions](https://www.computerweekly.com/news/252499806/Another-38-subpostmasters-submit-appeals-against-convictions)
+- [French legal challenge over EncroChat cryptophone hack could hit UK prosecutions](https://www.computerweekly.com/news/252499785/French-legal-challenge-over-EncroChat-cryptophone-hack-could-hit-UK-prosecutions)
+- [Post Office scandal CEO steps down from roles after massive miscarriage of justice is laid bare](https://www.computerweekly.com/news/252499778/Post-Office-scandal-CEO-steps-down-from-roles-after-massive-miscarriage-of-justice-is-laid-bare)
+- [How AI and automation drive better customer service](https://www.computerweekly.com/feature/How-AI-and-automation-drive-better-customer-service)
 - [HMRC downplays significance of CEO email ‘questioning’ legal basis of loan charge policy](https://www.computerweekly.com/news/252499746/HMRC-downplays-significance-of-CEO-email-appearing-to-question-legal-basis-of-loan-charge-policy)
 - [‘Spy cops’ victims share ongoing data protection concerns](https://www.computerweekly.com/news/252499742/Spy-cops-victims-share-ongoing-data-protection-concerns)
 - [Intel quarterly results reveal tactics to address ARM in the datacentre](https://www.computerweekly.com/news/252499724/Intel-quarterly-results-reveal-tactics-to-address-ARM-in-the-datacentre)
 - [Post Office scandal victims have criminal convictions overturned in Court of Appeal](https://www.computerweekly.com/news/252499723/Post-Office-scandal-victims-have-criminal-convictions-overturned-in-Court-of-Appeal)
 - [GCHQ: Cyber investment a guarantor of UK’s global status](https://www.computerweekly.com/news/252499680/GCHQ-Cyber-investment-a-guarantor-of-UKs-global-status)
 - [Researchers shed more light on APT29 activity during SolarWinds attack](https://www.computerweekly.com/news/252499691/Researchers-shed-more-light-on-APT29-activity-during-SolarWinds-attack)
-- [SAP Q1 2021: Revenue nudges up 2% year-on-year, S/4 adoption up 2.5% on prior quarter](https://www.computerweekly.com/news/252499682/SAP-Q1-2021-Revenue-nudges-up-2-year-on-year-S-4-adoption-up-25-on-prior-quarter)
-- [Department for Education publishes digital strategy](https://www.computerweekly.com/news/252499685/Department-for-Education-publishes-digital-strategy)
-- [Met Office prepares for 1.5 million processor, 60 petaflop supercomputer](https://www.computerweekly.com/news/252499687/Met-Office-prepares-for-15-million-processor-60-petaflop-supercomputer)
-- [Automation, zero-trust, API-based security priorities for EMEA CISOs](https://www.computerweekly.com/news/252499676/Automation-zero-trust-API-based-security-priorities-for-EMEA-CISOs)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help understanding something about cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/mymhrk/help_understanding_something_about_cloud_computing/)
+- [Apprenticeship](https://www.reddit.com/r/InformationTechnology/comments/mzc1ll/apprenticeship/)
+- [Need to wipe a Macbook remotely, employee wants to purchase from company](https://www.reddit.com/r/InformationTechnology/comments/mza0qv/need_to_wipe_a_macbook_remotely_employee_wants_to/)
+- [Is IT in college hard?](https://www.reddit.com/r/InformationTechnology/comments/mz54r7/is_it_in_college_hard/)
+- [Paperless Project (IT industry)](https://www.reddit.com/r/InformationTechnology/comments/mz33e3/paperless_project_it_industry/)
+- [(Long read...sorry) I'm an Information Assurance Engineer II, making good money, but doesn't know anything. I need recommendations/advice/suggestions on my current predicament, please.](https://www.reddit.com/r/InformationTechnology/comments/mz25b8/long_readsorry_im_an_information_assurance/)
+- [How can I help with Data Center Documentation with no experience?](https://www.reddit.com/r/InformationTechnology/comments/myu4ij/how_can_i_help_with_data_center_documentation/)
+- [How can i change user agent from phone to PC](https://www.reddit.com/r/InformationTechnology/comments/mythp1/how_can_i_change_user_agent_from_phone_to_pc/)
 - [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
 - [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
-- [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
-- [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
-- [The bonus that was talked about on the phone is not included in the job offer. Should I talk with the recruiter about it?](https://www.reddit.com/r/InformationTechnology/comments/mxfpw6/the_bonus_that_was_talked_about_on_the_phone_is/)
-- [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
-- [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
-- [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers expands connectivity program to more women’s shelters in Canada](https://www.itworldcanada.com/article/rogers-expands-connectivity-program-to-more-womens-shelters-in-canada/446538)
+- [Pat Gelsinger leaves VMware’s board of directors](https://www.itworldcanada.com/article/pat-gelsinger-leaves-vmwares-board-of-directors/446525)
+- [Cyber Security Today, April 26, 2021 – Emotet wiped from servers, Passwordstate password manager compromised and be careful with Apple AirDrop file sharing](https://www.itworldcanada.com/article/cyber-security-today-april-26-2021-emotet-wiped-from-servers-passwordstate-password-manager-compromised-and-be-careful-with-apple-airdrop-file-sharing/446517)
+- [Hashtag Trending, April 26, 2021 – Bitcoin’s environmental impact; John Deere owners doxed; Who’s hiring in Canada?](https://www.itworldcanada.com/article/hashtag-trending-april-26-2021-bitcoins-environmental-impact-john-deere-owners-doxed-whos-hiring-in-canada/446515)
 - [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
 - [Cyber Security Today, Week in Review for April 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-23-2021/446462)
 - [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
 - [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
 - [Cyber Security Today, April 23 2021 – More SolarWinds news, UK law will tighten consumer internet device security and a warning to QNAP storage users](https://www.itworldcanada.com/article/cyber-security-today-april-23-2021-more-solarwinds-news-uk-law-will-tighten-consumer-internet-device-security-and-a-warning-to-qnap-storage-users/446459)
 - [Hashtag Trending, April 23, 2021 – SolarWinds MSP name change; Signal hacks the cops; Canada’s scale-up challenges](https://www.itworldcanada.com/article/hashtag-trending-april-23-2021-solarwinds-name-change-signal-hacks-the-cops-canadas-scale-up-challenges/446470)
-- [Are you ready for turbocharged ransomware attacks?](https://www.itworldcanada.com/article/are-you-ready-for-turbocharged-ransomware-attacks/446434)
-- [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
-- [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
-- [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_2/end_up_1620.php" target="_blank"><i>end up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/bring/bring_back_1__2880.php" target="_blank"><i>bring back (1)</i></a>
 <span> = </span>
-<span>If you end up being somewhere, or doing something, it's because of decisions you've made in the past.</span>
+<span>to bring something with you when you return from somewhere</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

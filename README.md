@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Startup's "Electric Seaglider" Promises Coastal City Travel at 180 Mph](https://www.reviewgeek.com/79486/this-startups-electric-seaglider-promises-coastal-city-travel-at-180-mph/)
-* [Researchers Painted with Lasers Because Lasers](https://www.reviewgeek.com/79485/researchers-painted-with-lasers-because-lasers/)
-* [How to Use Function Keys on a Chromebook Keyboard](https://www.howtogeek.com/713365/how-to-use-function-keys-on-a-chromebook-keyboard/)
-* [How to Embed Pinterest Pins in OneNote or Word for Web](https://www.howtogeek.com/722889/how-to-embed-pinterest-pins-in-onenote-or-word-for-web/)
-* [These Avengers Playing Cards Will Bring the MCU to Your Next Poker Game](https://www.reviewgeek.com/79498/these-avengers-playing-cards-will-bring-the-mcu-to-your-next-poker-game/)
-* [How to Preview Safari Links before Opening on iPhone, iPad, and Mac](https://www.howtogeek.com/720861/how-to-preview-safari-links-before-opening-on-iphone-ipad-and-mac/)
-* [How to See Firefox Tab Previews in Windows 10’s Taskbar](https://www.howtogeek.com/719863/how-to-see-firefox-tab-previews-in-windows-10s-taskbar/)
-* [Watch a Model Train Play Music and Set a World Record](https://www.reviewgeek.com/79466/watch-a-model-train-play-music-and-set-a-world-record/)
-* [How to Watch the 2021 Oscars without Cable](https://www.howtogeek.com/722237/how-to-watch-the-2021-oscars-without-cable/)
-* [How to Run a Diagnostic Scan on your Chromebook](https://www.howtogeek.com/724503/how-to-run-a-diagnostic-scan-on-your-chromebook/)
+* [How to Ask iPhone and iPad Apps to Not Track You Across the Web](https://www.howtogeek.com/724969/how-to-ask-iphone-and-ipad-apps-to-not-track-you-across-the-web/)
+* [macOS 11.3 is Available Now, with Support for AirTags, PS5 Controllers, and More](https://www.reviewgeek.com/79843/macos-11-3-is-available-now-with-support-for-airtags-ps5-controllers-and-more/)
+* [iOS 14.5 is Out Now---Wear a Mask with Face ID and More](https://www.reviewgeek.com/79823/ios-14-5-is-out-now-wear-a-mask-with-faceid-and-more/)
+* [Samsung's New DeX Keyboard Makes the Most of Galaxy Gadgets](https://www.reviewgeek.com/79774/samsungs-new-dex-keyboard-makes-the-most-of-galaxy-gadgets/)
+* [What’s New in iOS 14.5, Available Now](https://www.howtogeek.com/724973/whats-new-in-ios-14.5-available-now/)
+* [How to Unlock Your iPhone While Wearing a Mask (Using Apple Watch)](https://www.howtogeek.com/724983/how-to-unlock-your-iphone-while-wearing-a-mask-using-apple-watch/)
+* [dbrand Turns Your Pastel iMac to Black, the Color it Should Be](https://www.reviewgeek.com/79732/dbrand-imac-black-bezel-skin/)
+* [LEGO Just Announced Two New BrickHeadz 'Minions: The Rise of Gru' Sets](https://www.reviewgeek.com/79755/lego-just-announced-two-new-brickheadz-minions-the-rise-of-gru-sets/)
+* [Zoom's New Immersive Mode Puts Everyone Together in the Same "Room"](https://www.reviewgeek.com/79729/zooms-new-immersive-mode-puts-everyone-together-in-the-same-room/)
+* [Lightning Fast DDR5 RAM Sticks Enter Production for Next-Gen PCs](https://www.reviewgeek.com/79727/lightning-fast-ddr5-ram-sticks-enter-production-for-next-gen-pcs/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

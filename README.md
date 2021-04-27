@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help understanding something about cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/mymhrk/help_understanding_something_about_cloud_computing/)
+- [Apprenticeship](https://www.reddit.com/r/InformationTechnology/comments/mzc1ll/apprenticeship/)
+- [Need to wipe a Macbook remotely, employee wants to purchase from company](https://www.reddit.com/r/InformationTechnology/comments/mza0qv/need_to_wipe_a_macbook_remotely_employee_wants_to/)
+- [Is IT in college hard?](https://www.reddit.com/r/InformationTechnology/comments/mz54r7/is_it_in_college_hard/)
+- [Paperless Project (IT industry)](https://www.reddit.com/r/InformationTechnology/comments/mz33e3/paperless_project_it_industry/)
+- [(Long read...sorry) I'm an Information Assurance Engineer II, making good money, but doesn't know anything. I need recommendations/advice/suggestions on my current predicament, please.](https://www.reddit.com/r/InformationTechnology/comments/mz25b8/long_readsorry_im_an_information_assurance/)
+- [How can I help with Data Center Documentation with no experience?](https://www.reddit.com/r/InformationTechnology/comments/myu4ij/how_can_i_help_with_data_center_documentation/)
+- [How can i change user agent from phone to PC](https://www.reddit.com/r/InformationTechnology/comments/mythp1/how_can_i_change_user_agent_from_phone_to_pc/)
 - [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
 - [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
-- [Case for the pc](https://www.reddit.com/r/InformationTechnology/comments/mxtlqc/case_for_the_pc/)
-- [Interview Amazon Studios](https://www.reddit.com/r/InformationTechnology/comments/mxt7n5/interview_amazon_studios/)
-- [The bonus that was talked about on the phone is not included in the job offer. Should I talk with the recruiter about it?](https://www.reddit.com/r/InformationTechnology/comments/mxfpw6/the_bonus_that_was_talked_about_on_the_phone_is/)
-- [Application has been blocked from accessing graphics hardware.](https://www.reddit.com/r/InformationTechnology/comments/mxeuzg/application_has_been_blocked_from_accessing/)
-- [SSH from Ubuntu VM - to Win10 desktop - outside LAN with Port Forwarding](https://www.reddit.com/r/InformationTechnology/comments/mxcw75/ssh_from_ubuntu_vm_to_win10_desktop_outside_lan/)
-- [IT consultant career](https://www.reddit.com/r/InformationTechnology/comments/mwu0dv/it_consultant_career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

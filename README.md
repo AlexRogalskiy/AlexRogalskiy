@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oscars 2021 live: Minari’s Yuh-jung Youn wins best supporting actress](https://www.theguardian.com/film/live/2021/apr/25/oscars-2021-the-dresses-the-winners-the-weird-semi-masked-ceremony-in-a-train-station-live)
-- [The Seaspiracy controversy: should we stop eating fish? - podcast](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
-- [Oscars 2021 red carpet in pictures: from Carey Mulligan to Daniel Kaluuya](https://www.theguardian.com/fashion/gallery/2021/apr/26/oscars-red-carpet-in-pictures-best-looks-carey-mulligan)
-- [Man jumps through car window to stop driver in Albanian capital – video](https://www.theguardian.com/global/video/2021/apr/26/man-jumps-through-car-window-to-stop-driver-in-albanian-capital-video)
-- [Oscars 2021: timetable, predictions and what to expect](https://www.theguardian.com/film/2021/apr/25/oscars-predictions-2021-timetable-and-what-to-expect)
-- [Ex-Post Office head apologises to workers after convictions quashed](https://www.theguardian.com/business/2021/apr/26/ex-post-office-head-apologises-to-workers-after-convictions-quashed)
-- [Photos show missing Indonesian navy submarine found broken up on seabed](https://www.theguardian.com/world/2021/apr/25/missing-indonesian-submarine-found-broken-up-in-bali-sea)
-- [Boris Johnson is warned of ‘dangerous political vacuum’ in Northern Ireland](https://www.theguardian.com/uk-news/2021/apr/26/boris-johnson-is-warned-of-dangerous-political-vacuum-in-northern-ireland)
-- [Covid jabs to be offered to 44-year-olds in England from Monday](https://www.theguardian.com/world/2021/apr/26/covid-jabs-to-be-offered-to-44-year-olds-in-england-from-monday)
-- [What Covid vaccines does the UK have and which are in the works?](https://www.theguardian.com/society/2021/apr/26/what-covid-vaccines-does-uk-have-valneva)
+- [India’s Covid disaster: a crisis for the world – podcast](https://www.theguardian.com/news/audio/2021/apr/27/india-covid-disaster-a-crisis-for-the-world-podcast)
+- [First supermoon of 2021 rises across the globe – video](https://www.theguardian.com/science/video/2021/apr/27/first-supermoon-of-2021-rises-across-globe-video)
+- [Poignant video shows crew of sunken Indonesia submarine singing farewell song](https://www.theguardian.com/world/2021/apr/27/poignant-video-shows-crew-of-sunken-indonesia-submarine-singing-farewell-song)
+- [New Zealand loses top spot for best place to be during Covid to Singapore](https://www.theguardian.com/world/2021/apr/27/new-zealand-loses-top-spot-for-best-place-to-be-during-covid-to-singapore)
+- [US homeland security review to address threat of extremism within agency](https://www.theguardian.com/us-news/2021/apr/27/us-homeland-security-review-to-address-threat-of-extremism-within-agency)
+- [BLM dance on Britain’s Got Talent in running for Bafta ‘must-see’ award](https://www.theguardian.com/tv-and-radio/2021/apr/27/blm-dance-on-britains-got-talent-in-running-for-bafta-must-see-award)
+- [UK book sales soared in 2020 despite pandemic](https://www.theguardian.com/books/2021/apr/27/uk-book-sales-soared-in-2020-despite-pandemic)
+- [Talking Horses: Tuesday showdowns get the Punchestown party started](https://www.theguardian.com/sport/blog/2021/apr/27/talking-horses-tuesday-showdowns-get-the-punchestown-party-started)
+- [RNLI says lifesaving callouts increased by 30% in summer 2020](https://www.theguardian.com/uk-news/2021/apr/27/rnli-says-lifesaving-callouts-increased-by-30-in-summer-2020)
+- [Shift workers treated in hospital three times more likely to have Covid – study](https://www.theguardian.com/world/2021/apr/26/shift-workers-treated-in-hospital-three-times-more-likely-to-have-covid-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

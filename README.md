@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CIO Role Expands into Company Culture, Customer Experience](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-role-expands-into-company-culture-customer-experience/d/d-id/1340816?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What You Might Not Realize About Your Multi-Cloud Model](https://www.informationweek.com/cloud/what-you-might-not-realize-about-your-multi-cloud-model/a/d-id/1340778?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Asante CIO Discusses Transforming with Cloud and Telehealth](https://www.informationweek.com/cloud/asante-cio-discusses-transforming-with-cloud-and-telehealth/a/d-id/1340800?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Three Key Tax Incentives for IT Consultants](https://www.informationweek.com/strategic-cio/team-building-and-staffing/three-key-tax-incentives-for-it-consultants/a/d-id/1340744?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Tech Spending Climbs as Digital Business Initiatives Grow](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/tech-spending-climbs-as-digital-business-initiatives-grow/d/d-id/1340781?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [3 Factors That Should be Driving Your Digital Transformation](https://www.informationweek.com/strategic-cio/digital-business/3-factors-that-should-be-driving-your-digital-transformation/a/d-id/1340726?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Things Your Artificial Intelligence Initiative Needs to Succeed](https://www.informationweek.com/big-data/ai-machine-learning/10-things-your-artificial-intelligence-initiative-needs-to-succeed/d/d-id/1340729?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AWS Offers Course on Basics of Machine Learning](https://www.informationweek.com/aws-offers-course-on-basics-of-machine-learning/d/d-id/1340715?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Time to Modernize Your Data Integration Framework](https://www.informationweek.com/big-data/time-to-modernize-your-data-integration-framework/a/d-id/1340687?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Forecast of the Future of Work from MIT Sloan CIO Symposium](https://www.informationweek.com/strategic-cio/forecast-of-the-future-of-work-from-mit-sloan-cio-symposium/d/d-id/1340691?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

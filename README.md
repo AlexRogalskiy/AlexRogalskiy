@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_only_knocks_once_559.php" target="_blank"><i>Opportunity only knocks once</i></a>
 <span> = </span>
-<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
+<span>We should take an opportunity (or chance) when it comes. According to this saying, it will not come again.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

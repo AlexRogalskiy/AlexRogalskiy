@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
-- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
-- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
-- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
-- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
-- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
-- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
-- [Last Resort Font (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
-- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
-- [The Great Work](https://beside.media/besiders/the-great-work/)
+- [A Pixel Is Not a Little Square [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+- [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
+- [Back end developers can make good looking web apps too – FullyBearded](https://fullybearded.com/articles/backend-devs-can-make-good-looking-web-apps/)
+- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
+- [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
+- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
+- [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
+- [Tesla Q1 2021 Results](https://tesla-cdn.thron.com/static/R3GJMT_TSLA_Q1_2021_Update_5KJWZA.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22TSLA-Q1-2021-Update.pdf%22)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

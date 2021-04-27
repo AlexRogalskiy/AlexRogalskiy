@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers expands connectivity program to more women’s shelters in Canada](https://www.itworldcanada.com/article/rogers-expands-connectivity-program-to-more-womens-shelters-in-canada/446538)
+- [Pat Gelsinger leaves VMware’s board of directors](https://www.itworldcanada.com/article/pat-gelsinger-leaves-vmwares-board-of-directors/446525)
+- [Cyber Security Today, April 26, 2021 – Emotet wiped from servers, Passwordstate password manager compromised and be careful with Apple AirDrop file sharing](https://www.itworldcanada.com/article/cyber-security-today-april-26-2021-emotet-wiped-from-servers-passwordstate-password-manager-compromised-and-be-careful-with-apple-airdrop-file-sharing/446517)
+- [Hashtag Trending, April 26, 2021 – Bitcoin’s environmental impact; John Deere owners doxed; Who’s hiring in Canada?](https://www.itworldcanada.com/article/hashtag-trending-april-26-2021-bitcoins-environmental-impact-john-deere-owners-doxed-whos-hiring-in-canada/446515)
 - [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
 - [Cyber Security Today, Week in Review for April 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-23-2021/446462)
 - [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
 - [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
 - [Cyber Security Today, April 23 2021 – More SolarWinds news, UK law will tighten consumer internet device security and a warning to QNAP storage users](https://www.itworldcanada.com/article/cyber-security-today-april-23-2021-more-solarwinds-news-uk-law-will-tighten-consumer-internet-device-security-and-a-warning-to-qnap-storage-users/446459)
 - [Hashtag Trending, April 23, 2021 – SolarWinds MSP name change; Signal hacks the cops; Canada’s scale-up challenges](https://www.itworldcanada.com/article/hashtag-trending-april-23-2021-solarwinds-name-change-signal-hacks-the-cops-canadas-scale-up-challenges/446470)
-- [Are you ready for turbocharged ransomware attacks?](https://www.itworldcanada.com/article/are-you-ready-for-turbocharged-ransomware-attacks/446434)
-- [Hashtag Trending, April 22, 2021 – Doug Ford’s BlackBerry; Apple’s Spring Loaded event; TikTok sued for billions](https://www.itworldcanada.com/article/hashtag-trending-april-22-2021-doug-fords-blackberry-apples-spring-loaded-event-tiktok-sued-for-billions/446432)
-- [Got digital transformation headaches?  Automation may be the answer](https://www.itworldcanada.com/article/got-digital-transformation-headaches-automation-may-be-the-answer/446367)
-- [Use of TLS to protect malware communications has doubled, says Sophos](https://www.itworldcanada.com/article/use-of-tls-to-protect-malware-communications-has-doubled-says-sophos/446361)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

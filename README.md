@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/talk_through_your_hat_361.php" target="_blank"><i>talk through your hat</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Law/mend_your_ways_324.php" target="_blank"><i>mend your ways</i></a>
 <span> = </span>
-<span>If you're talking through your hat, you're talking about something without knowing much about it, or you claim something is true when it isn't.</span>
+<span>If you mend your ways, you improve your behaviour and stop doing things that cause trouble.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

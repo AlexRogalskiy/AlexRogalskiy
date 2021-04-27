@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Tapping into the smartest software developers](https://www.infoworld.com/article/3616225/tapping-into-the-smartest-software-developers.html#tk.rss_all)
+- [3 enterprise AI success stories](https://www.infoworld.com/article/3615449/3-enterprise-ai-success-stories.html#tk.rss_all)
 - [Mozilla spins out Pyodide Python-in-the-browser project](https://www.infoworld.com/article/3616629/mozilla-spins-out-pyodide-python-in-the-browser-project.html#tk.rss_all)
 - [3 cloud architecture mistakes we all make, but shouldn’t](https://www.infoworld.com/article/3616211/3-cloud-architecture-mistakes-we-all-make-but-shouldnt.html#tk.rss_all)
 - [Angular 12 piles on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [JetBrains IntelliJ IDE debuts ‘run targets’](https://www.infoworld.com/article/3616168/jetbrains-intellij-ide-debuts-run-targets.html#tk.rss_all)
 - [Build more secure software with Rust for Windows](https://www.infoworld.com/article/3615991/build-more-secure-software-with-rust-for-windows.html#tk.rss_all)
 - [LLVM 12 arrives with x86, AArch optimizations](https://www.infoworld.com/article/3615511/llvm-12-arrives-with-x86-aarch-optimizations.html#tk.rss_all)
-- [Make the most of R colors and palettes](https://www.infoworld.com/article/3615230/make-the-most-of-r-colors-and-palettes.html#tk.rss_all)
-- [Review: 7 Python IDEs go to the mat](https://www.infoworld.com/article/3132430/review-6-python-ides-go-to-the-mat.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

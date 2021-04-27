@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Another 38 subpostmasters submit appeals against convictions](https://www.computerweekly.com/news/252499806/Another-38-subpostmasters-submit-appeals-against-convictions)
+- [French legal challenge over EncroChat cryptophone hack could hit UK prosecutions](https://www.computerweekly.com/news/252499785/French-legal-challenge-over-EncroChat-cryptophone-hack-could-hit-UK-prosecutions)
+- [Post Office scandal CEO steps down from roles after massive miscarriage of justice is laid bare](https://www.computerweekly.com/news/252499778/Post-Office-scandal-CEO-steps-down-from-roles-after-massive-miscarriage-of-justice-is-laid-bare)
+- [How AI and automation drive better customer service](https://www.computerweekly.com/feature/How-AI-and-automation-drive-better-customer-service)
 - [HMRC downplays significance of CEO email ‘questioning’ legal basis of loan charge policy](https://www.computerweekly.com/news/252499746/HMRC-downplays-significance-of-CEO-email-appearing-to-question-legal-basis-of-loan-charge-policy)
 - [‘Spy cops’ victims share ongoing data protection concerns](https://www.computerweekly.com/news/252499742/Spy-cops-victims-share-ongoing-data-protection-concerns)
 - [Intel quarterly results reveal tactics to address ARM in the datacentre](https://www.computerweekly.com/news/252499724/Intel-quarterly-results-reveal-tactics-to-address-ARM-in-the-datacentre)
 - [Post Office scandal victims have criminal convictions overturned in Court of Appeal](https://www.computerweekly.com/news/252499723/Post-Office-scandal-victims-have-criminal-convictions-overturned-in-Court-of-Appeal)
 - [GCHQ: Cyber investment a guarantor of UK’s global status](https://www.computerweekly.com/news/252499680/GCHQ-Cyber-investment-a-guarantor-of-UKs-global-status)
 - [Researchers shed more light on APT29 activity during SolarWinds attack](https://www.computerweekly.com/news/252499691/Researchers-shed-more-light-on-APT29-activity-during-SolarWinds-attack)
-- [SAP Q1 2021: Revenue nudges up 2% year-on-year, S/4 adoption up 2.5% on prior quarter](https://www.computerweekly.com/news/252499682/SAP-Q1-2021-Revenue-nudges-up-2-year-on-year-S-4-adoption-up-25-on-prior-quarter)
-- [Department for Education publishes digital strategy](https://www.computerweekly.com/news/252499685/Department-for-Education-publishes-digital-strategy)
-- [Met Office prepares for 1.5 million processor, 60 petaflop supercomputer](https://www.computerweekly.com/news/252499687/Met-Office-prepares-for-15-million-processor-60-petaflop-supercomputer)
-- [Automation, zero-trust, API-based security priorities for EMEA CISOs](https://www.computerweekly.com/news/252499676/Automation-zero-trust-API-based-security-priorities-for-EMEA-CISOs)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

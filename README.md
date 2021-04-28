@@ -314,16 +314,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US population grew at the slowest rate since the 1930s](https://www.nytimes.com/2021/04/26/us/us-census-numbers.html)
-- [Streaming for Good](https://standuptocancer.org/streaming/)
-- [Google Argentina's domain name bought for £2](https://www.bbc.com/news/technology-56870270)
-- [How TSMC has mastered the geopolitics of chipmaking](https://www.economist.com/business/2021/04/26/how-tsmc-has-mastered-the-geopolitics-of-chipmaking)
-- [How the space race changed Soviet art](https://www.bbc.com/future/article/20210426-how-the-space-race-changed-soviet-art)
-- [‘We are drowning in insecurity’: young people and life after the pandemic](https://www.ft.com/content/77d586cc-4f3f-4701-a104-d09136c93d44)
-- [The pitfalls of open plan offices](https://www.ft.com/content/6c3751fd-34d4-4952-815e-08f007e5fbd0)
-- [Nvidia Warns: Severe Security Bugs in GPU Driver, VGPU Software](https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/)
-- [Behind-the-Scenes with American Demothballing Jets from Pandemic Storage](https://skift.com/2021/04/26/behind-the-scenes-with-american-demothballing-jets-from-pandemic-storage/)
-- [Tense exchange aboard SpaceX craft records ‘possible close call’](https://nypost.com/2021/04/26/tense-exchange-aboard-spacex-craft-records-possible-close-call/)
+- [The chilling truth about social control – Video](https://m.youtube.com/watch?v=c15FqY_1AYk)
+- [Ask HN: How do you search for relevant code examples?](https://news.ycombinator.com/item?id=26964689)
+- [Ask HN: Is Backblaze Suitable for Production?](https://news.ycombinator.com/item?id=26964665)
+- [The Last Hurrah](https://alexsteffen.substack.com/p/the-last-hurrah)
+- [Bill to kill up to 90% of Idaho wolves heads to governor](https://apnews.com/article/bills-idaho-wolves-environment-and-nature-lifestyle-7e18d06ccff0705ca4282e2b097040a9)
+- [The 7 Laws of Sales Success](https://capitalandgrowth.org/answers/Article/3269835/The-7-Laws-of-Sales-Success)
+- [Mosaics of Positions](https://world.hey.com/dhh/mosaics-of-positions-ae6d4d9e)
+- [The Gentle Art of Poverty – How to Live in Southern California on $2000 a Year](https://www.theatlantic.com/magazine/archive/1977/10/the-gentle-art-of-poverty/308241/)
+- [Provisional Death Counts for Coronavirus Disease 2019 (Covid-19)](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#SexAndAge)
+- [Why I Left My Job at Facebook in the Middle of a Pandemic?](https://simplified.co/blog/product/buildinpublic/why-i-left-facebook-in-middle-of-pandemic/1888/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

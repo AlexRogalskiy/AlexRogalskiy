@@ -434,16 +434,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Videotron CEO Jean-Francois Pruneau to step down in June](https://www.itworldcanada.com/article/videotron-ceo-jean-francois-pruneau-to-step-down-in-june/446598)
+- [City of Calgary announces data-sharing partnership with Waze](https://www.itworldcanada.com/article/city-of-calgary-announces-data-sharing-partnership-with-waze/446557)
+- [Apple’s anti-tracking capability praised by Canadian expert](https://www.itworldcanada.com/article/apples-anti-tracking-capability-praised-by-canadian-expert/446578)
+- [Coffee Briefing, April 27, 2021 – Cisco, HPE and others announce plans to address climate crisis, remembering Dan Kaminsky](https://www.itworldcanada.com/article/coffee-briefing-april-27-2021-cisco-hpe-and-others-announce-plans-to-address-climate-crisis-remembering-dan-kaminsky/446554)
+- [Hashtag Trending, April 27, 2021 – Intel talks chip shortages; Overpaid CEOs; iOS 14.5 is here](https://www.itworldcanada.com/article/hashtag-trending-april-27-2021-intel-talks-chip-shortages-overpaid-ceos-ios-14-5-is-here/446536)
 - [Rogers expands connectivity program to more women’s shelters in Canada](https://www.itworldcanada.com/article/rogers-expands-connectivity-program-to-more-womens-shelters-in-canada/446538)
 - [Pat Gelsinger leaves VMware’s board of directors](https://www.itworldcanada.com/article/pat-gelsinger-leaves-vmwares-board-of-directors/446525)
 - [Cyber Security Today, April 26, 2021 – Emotet wiped from servers, Passwordstate password manager compromised and be careful with Apple AirDrop file sharing](https://www.itworldcanada.com/article/cyber-security-today-april-26-2021-emotet-wiped-from-servers-passwordstate-password-manager-compromised-and-be-careful-with-apple-airdrop-file-sharing/446517)
 - [Hashtag Trending, April 26, 2021 – Bitcoin’s environmental impact; John Deere owners doxed; Who’s hiring in Canada?](https://www.itworldcanada.com/article/hashtag-trending-april-26-2021-bitcoins-environmental-impact-john-deere-owners-doxed-whos-hiring-in-canada/446515)
 - [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
-- [Cyber Security Today, Week in Review for April 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-23-2021/446462)
-- [Canada should follow U.S. program to scrutinize ICS in electric utilities: Expert](https://www.itworldcanada.com/article/canada-should-follow-u-s-program-to-scrutinize-ics-in-electric-utilities-expert/446465)
-- [Bad bots are being used in COVID-19 scams, says report](https://www.itworldcanada.com/article/bad-bots-are-being-used-in-covid-19-scams-says-report/446109)
-- [Cyber Security Today, April 23 2021 – More SolarWinds news, UK law will tighten consumer internet device security and a warning to QNAP storage users](https://www.itworldcanada.com/article/cyber-security-today-april-23-2021-more-solarwinds-news-uk-law-will-tighten-consumer-internet-device-security-and-a-warning-to-qnap-storage-users/446459)
-- [Hashtag Trending, April 23, 2021 – SolarWinds MSP name change; Signal hacks the cops; Canada’s scale-up challenges](https://www.itworldcanada.com/article/hashtag-trending-april-23-2021-solarwinds-name-change-signal-hacks-the-cops-canadas-scale-up-challenges/446470)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

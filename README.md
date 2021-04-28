@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_5/peanuts_1341.php" target="_blank"><i>peanuts</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_3/make_tracks_1330.php" target="_blank"><i>make tracks</i></a>
 <span> = </span>
-<span>very little money</span>
+<span>to leave somewhere, usually to go home<BR></span>
 </div>
 <!--views:slang-rss-marker:end-->
 

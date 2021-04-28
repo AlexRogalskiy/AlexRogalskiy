@@ -359,16 +359,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why enterprises must install the latest macOS software patch](https://www.computerworld.com/article/3616637/why-enterprises-must-install-the-latest-macos-software-patch.html#tk.rss_all)
+- [The mystery of Google's missed Pixel opportunity](https://www.computerworld.com/article/3616578/google-pixel-opportunity.html#tk.rss_all)
+- [Can you require your employees to have a COVID-19 vaccine?](https://www.computerworld.com/article/3616596/can-you-require-your-employees-to-have-a-covid-19-vaccine.html#tk.rss_all)
+- [Microsoft previews perpetual license Office LTSC to enterprises](https://www.computerworld.com/article/3616114/microsoft-previews-perpetual-license-office-ltsc-to-enterprises.html#tk.rss_all)
 - [April patch recap: Mostly quiet on the Microsoft front](https://www.computerworld.com/article/3616675/april-patch-recap-mostly-quiet-on-the-microsoft-front.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [iOS 15: Playing the expectations game](https://www.computerworld.com/article/3616594/ios-15-playing-the-expectations-game.html#tk.rss_all)
 - [Rethinking mobile security in a post-COVID workplace](https://www.computerworld.com/article/3616226/rethinking-mobile-security-in-a-post-covid-workplace.html#tk.rss_all)
 - [Microsoft ships Office 2021 preview for Mac](https://www.computerworld.com/article/3616499/microsoft-ships-office-2021-preview-for-mac.html#tk.rss_all)
 - [Google Meet gets a UI refresh to help ‘deepen the meeting experience’](https://www.computerworld.com/article/3616194/google-meet-gets-a-ui-refresh-to-help-deepen-the-meeting-experience.html#tk.rss_all)
-- [The Bose Videobar VB1, huddle spaces, and the post-pandemic workplace](https://www.computerworld.com/article/3616132/bose-videobar-vb1-huddle-spaces-and-post-pandemic-workplace.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [WWDC: How will Apple change iPadOS for pros?](https://www.computerworld.com/article/3616191/wwdc-how-will-apple-change-ipados-for-pros.html#tk.rss_all)
-- [Give yourself an Android productivity upgrade](https://www.computerworld.com/article/3615517/android-productivity-upgrade.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

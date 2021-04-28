@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_only_knocks_once_559.php" target="_blank"><i>Opportunity only knocks once</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Dying_men_speak_true_949.php" target="_blank"><i>Dying men speak true</i></a>
 <span> = </span>
-<span>We should take an opportunity (or chance) when it comes. According to this saying, it will not come again.</span>
+<span>When people are about to die, they usually tell the truth.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

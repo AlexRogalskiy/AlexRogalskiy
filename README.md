@@ -299,16 +299,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Ask iPhone and iPad Apps to Not Track You Across the Web](https://www.howtogeek.com/724969/how-to-ask-iphone-and-ipad-apps-to-not-track-you-across-the-web/)
-* [macOS 11.3 is Available Now, with Support for AirTags, PS5 Controllers, and More](https://www.reviewgeek.com/79843/macos-11-3-is-available-now-with-support-for-airtags-ps5-controllers-and-more/)
-* [iOS 14.5 is Out Now---Wear a Mask with Face ID and More](https://www.reviewgeek.com/79823/ios-14-5-is-out-now-wear-a-mask-with-faceid-and-more/)
-* [Samsung's New DeX Keyboard Makes the Most of Galaxy Gadgets](https://www.reviewgeek.com/79774/samsungs-new-dex-keyboard-makes-the-most-of-galaxy-gadgets/)
-* [What’s New in iOS 14.5, Available Now](https://www.howtogeek.com/724973/whats-new-in-ios-14.5-available-now/)
-* [How to Unlock Your iPhone While Wearing a Mask (Using Apple Watch)](https://www.howtogeek.com/724983/how-to-unlock-your-iphone-while-wearing-a-mask-using-apple-watch/)
-* [dbrand Turns Your Pastel iMac to Black, the Color it Should Be](https://www.reviewgeek.com/79732/dbrand-imac-black-bezel-skin/)
-* [LEGO Just Announced Two New BrickHeadz 'Minions: The Rise of Gru' Sets](https://www.reviewgeek.com/79755/lego-just-announced-two-new-brickheadz-minions-the-rise-of-gru-sets/)
-* [Zoom's New Immersive Mode Puts Everyone Together in the Same "Room"](https://www.reviewgeek.com/79729/zooms-new-immersive-mode-puts-everyone-together-in-the-same-room/)
-* [Lightning Fast DDR5 RAM Sticks Enter Production for Next-Gen PCs](https://www.reviewgeek.com/79727/lightning-fast-ddr5-ram-sticks-enter-production-for-next-gen-pcs/)
+* [Secretlab's First Desk Offers Magical Magnetic Accessories and RGB Lights](https://www.reviewgeek.com/80026/secretlabs-pc-desk-cable-management-and-rgb-lighting/)
+* [SideQuest's New Android App Lets You Sideload to Your Oculus without a PC](https://www.reviewgeek.com/79978/sidequests-new-android-app-lets-you-sideload-to-your-oculus-without-a-pc/)
+* [Eve's New HomeKit Smart Plug Uses Thread for Faster Smart Home Commands](https://www.reviewgeek.com/79961/eves-new-homekit-smart-plug-uses-thread-for-faster-smart-home-commands/)
+* [Amazon Expands In-Garage Grocery Delivery to Curb Porch Pirates](https://www.reviewgeek.com/79942/amazon-expands-in-garage-grocery-delivery-to-curb-porch-pirates/)
+* [Amazon's New Fire HD 10 Kids Tablets Include a "Pro" Edition for Older Children](https://www.reviewgeek.com/79941/amazons-new-fire-hd-10-kids-tablets-include-a-pro-edition-for-older-children/)
+* [PopSockets' Upgraded PopGrip Slide Stretch Fits Most Phone Cases, Even iPhone 12](https://www.reviewgeek.com/79950/popsockets-upgraded-popgrip-slide-stretch-fits-most-phone-cases-even-iphone-12/)
+* [iFixit and HTC Team Up to Make Vive VR Headset Repairs Easier](https://www.reviewgeek.com/79929/ifixit-and-htc-team-up-to-make-vive-vr-headset-repairs-easier/)
+* [Amazon's New Fire HD 10 Tablets are Faster, Sleeker, and Productivity-Focused](https://www.reviewgeek.com/79922/amazons-new-fire-hd-10-tablets-are-faster-sleeker-and-productivity-focused/)
+* [How to Use a HomePod Mini with Your Mac](https://www.howtogeek.com/720765/how-to-use-a-homepod-mini-with-your-mac/)
+* [How to Turn on Orientation Lock When Opening an App on iPhone](https://www.howtogeek.com/720576/how-to-turn-on-orientation-lock-when-opening-an-app-on-iphone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

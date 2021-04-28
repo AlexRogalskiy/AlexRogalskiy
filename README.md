@@ -344,16 +344,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Pixel Is Not a Little Square [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
-- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
-- [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
-- [Back end developers can make good looking web apps too – FullyBearded](https://fullybearded.com/articles/backend-devs-can-make-good-looking-web-apps/)
-- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
-- [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
-- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
-- [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
-- [Tesla Q1 2021 Results](https://tesla-cdn.thron.com/static/R3GJMT_TSLA_Q1_2021_Update_5KJWZA.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22TSLA-Q1-2021-Update.pdf%22)
+- [Facebook approves alcohol, vaping and gambling ads targeting 13-17 year olds](https://www.abc.net.au/news/2021-04-28/facebook-instagram-teenager-tageted-advertising-alcohol-vaping/100097590)
+- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
+- [AMD Reports Q1 2021 Earnings: Firing on All Cylinders and Setting Records](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
+- [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
+- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
+- [Study shows class bias in hiring based on few seconds of speech](https://news.yale.edu/2019/10/21/yale-study-shows-class-bias-hiring-based-few-seconds-speech)
+- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
+- [Symbolics Lisp Machine demo Jan 2013](https://www.youtube.com/watch?v=o4-YnLpLgtk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

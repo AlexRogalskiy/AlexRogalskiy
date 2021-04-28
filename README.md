@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;97&#x2F;e6&#x2F;5597e67fc8312d3e36b0124368799fed.jpg" alt="Exonumia is the Word of the Day. Save it for a rainy day. Get example sentences and more at the link! #English #Vocabulary #Learn #Writing" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;97&#x2F;e6&#x2F;5597e67fc8312d3e36b0124368799fed.jpg" alt="Exonumia is the Word of the Day. Save it for a rainy day. Get example sentences and more at the link! #English #Vocabulary #Learn #Writing " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0b&#x2F;b4&#x2F;b0&#x2F;0bb4b00d7b34ba42a760e19aa272d493.jpg" alt="Are you guilty of sumpsimus? It&#39;s our #WordOfTheDay. Learn how to say it and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;83&#x2F;7b&#x2F;04837b11c6bf9f172643a83e70e8cbb3.jpg" alt="This #WordOfTheDay belongs in movies. It’s celluloid. Get example sentences and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;a8&#x2F;a9&#x2F;ac&#x2F;a8a9ac32fe989c1cf8ca85d4d46b56fc.jpg" alt="Today’s #WordOfTheDay is going green. It’s sustainability. Learn more at Dictionary.com! " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>2°C (<i>light snow</i>), humidity: 80%, pressure: 1010 (mbar), wind: /north/ 1 (m/s), cloudy: 90%</b>
+        <b>2°C (<i>overcast clouds</i>), humidity: 86%, pressure: 1011 (mbar), wind: /north/ 2 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>05:05 am</b> and sets at <b>20:47 pm</b>.
     </p>

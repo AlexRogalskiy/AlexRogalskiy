@@ -404,16 +404,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Another 38 subpostmasters submit appeals against convictions](https://www.computerweekly.com/news/252499806/Another-38-subpostmasters-submit-appeals-against-convictions)
-- [French legal challenge over EncroChat cryptophone hack could hit UK prosecutions](https://www.computerweekly.com/news/252499785/French-legal-challenge-over-EncroChat-cryptophone-hack-could-hit-UK-prosecutions)
-- [Post Office scandal CEO steps down from roles after massive miscarriage of justice is laid bare](https://www.computerweekly.com/news/252499778/Post-Office-scandal-CEO-steps-down-from-roles-after-massive-miscarriage-of-justice-is-laid-bare)
-- [How AI and automation drive better customer service](https://www.computerweekly.com/feature/How-AI-and-automation-drive-better-customer-service)
-- [HMRC downplays significance of CEO email ‘questioning’ legal basis of loan charge policy](https://www.computerweekly.com/news/252499746/HMRC-downplays-significance-of-CEO-email-appearing-to-question-legal-basis-of-loan-charge-policy)
-- [‘Spy cops’ victims share ongoing data protection concerns](https://www.computerweekly.com/news/252499742/Spy-cops-victims-share-ongoing-data-protection-concerns)
-- [Intel quarterly results reveal tactics to address ARM in the datacentre](https://www.computerweekly.com/news/252499724/Intel-quarterly-results-reveal-tactics-to-address-ARM-in-the-datacentre)
-- [Post Office scandal victims have criminal convictions overturned in Court of Appeal](https://www.computerweekly.com/news/252499723/Post-Office-scandal-victims-have-criminal-convictions-overturned-in-Court-of-Appeal)
-- [GCHQ: Cyber investment a guarantor of UK’s global status](https://www.computerweekly.com/news/252499680/GCHQ-Cyber-investment-a-guarantor-of-UKs-global-status)
-- [Researchers shed more light on APT29 activity during SolarWinds attack](https://www.computerweekly.com/news/252499691/Researchers-shed-more-light-on-APT29-activity-during-SolarWinds-attack)
+- [Flexible CIOs gain friends in finance](https://www.computerweekly.com/news/252499854/Flexible-CIOs-gain-friends-in-finance)
+- [UK supermarkets to trial age estimation tech for alcohol purchases](https://www.computerweekly.com/news/252499863/UK-supermarkets-to-trial-age-estimation-tech-for-alcohol-purchases)
+- [Total cost of ransomware attack heading towards $2m](https://www.computerweekly.com/news/252499796/Total-cost-of-ransomware-attack-heading-towards-2m)
+- [Scality launches Artesca container-native object storage](https://www.computerweekly.com/news/252499779/Scality-launches-Artesca-container-native-object-storage)
+- [Leaky Azure storage account puts software developer IP at risk](https://www.computerweekly.com/news/252499781/Leaky-Azure-storage-account-puts-software-developer-IP-at-risk)
+- [Why we need to reset the debate on end-to-end encryption to protect children](https://www.computerweekly.com/opinion/Why-we-need-to-reset-the-debate-on-end-to-end-encryption-to-protect-children)
+- [Startup targets PC gamers to build decentralised supercomputer](https://www.computerweekly.com/news/252499851/Startup-targets-PC-gamers-to-build-decentralised-supercomputer)
+- [Apple OS updates patch multiple security holes](https://www.computerweekly.com/news/252499853/Apple-OS-updates-patch-multiple-security-holes)
+- [Python @ 30: Praising the versatility of Python](https://www.computerweekly.com/opinion/Python-30-Praising-the-versatility-of-Python)
+- [Uber drivers’ resistance and the gig economy – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Uber-drivers-resistance-and-the-gig-economy-Computer-Weekly-Downtime-Upload-podcast)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

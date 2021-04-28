@@ -389,16 +389,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Red Hat OpenShift ramps up security and manageability with Platform Plus](https://www.infoworld.com/article/3616584/red-hat-openshift-ramps-up-security-and-manageability-with-platform-plus.html#tk.rss_all)
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [Prisma ORM for Node.js is ready for production](https://www.infoworld.com/article/3616602/prisma-orm-for-nodejs-is-ready-for-production.html#tk.rss_all)
+- [When to use String vs. StringBuilder in .NET Core](https://www.infoworld.com/article/3616600/when-to-use-string-vs-stringbuilder-in-net-core.html#tk.rss_all)
+- [Edge computing can be a data cache for public clouds](https://www.infoworld.com/article/3616576/edge-computing-can-be-a-data-cache-for-public-clouds.html#tk.rss_all)
+- [Oracle Database 21c review: The old RDBMS is new again](https://www.infoworld.com/article/3615233/oracle-database-21c-review-the-old-rdbms-is-new-again.html#tk.rss_all)
 - [Tapping into the smartest software developers](https://www.infoworld.com/article/3616225/tapping-into-the-smartest-software-developers.html#tk.rss_all)
 - [3 enterprise AI success stories](https://www.infoworld.com/article/3615449/3-enterprise-ai-success-stories.html#tk.rss_all)
 - [Mozilla spins out Pyodide Python-in-the-browser project](https://www.infoworld.com/article/3616629/mozilla-spins-out-pyodide-python-in-the-browser-project.html#tk.rss_all)
 - [3 cloud architecture mistakes we all make, but shouldn’t](https://www.infoworld.com/article/3616211/3-cloud-architecture-mistakes-we-all-make-but-shouldnt.html#tk.rss_all)
-- [Angular 12 piles on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_all)
-- [What is an API gateway? API simplicity and stability](https://www.infoworld.com/article/3616188/what-is-an-api-gateway-api-simplicity-and-stability.html#tk.rss_all)
-- [What is a computational storage drive? Much-needed help for CPUs](https://www.infoworld.com/article/3615497/what-is-a-computational-storage-drive-much-needed-help-for-cpus.html#tk.rss_all)
-- [JetBrains IntelliJ IDE debuts ‘run targets’](https://www.infoworld.com/article/3616168/jetbrains-intellij-ide-debuts-run-targets.html#tk.rss_all)
-- [Build more secure software with Rust for Windows](https://www.infoworld.com/article/3615991/build-more-secure-software-with-rust-for-windows.html#tk.rss_all)
-- [LLVM 12 arrives with x86, AArch optimizations](https://www.infoworld.com/article/3615511/llvm-12-arrives-with-x86-aarch-optimizations.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

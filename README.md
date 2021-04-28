@@ -329,16 +329,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India’s Covid disaster: a crisis for the world – podcast](https://www.theguardian.com/news/audio/2021/apr/27/india-covid-disaster-a-crisis-for-the-world-podcast)
-- [First supermoon of 2021 rises across the globe – video](https://www.theguardian.com/science/video/2021/apr/27/first-supermoon-of-2021-rises-across-globe-video)
-- [Poignant video shows crew of sunken Indonesia submarine singing farewell song](https://www.theguardian.com/world/2021/apr/27/poignant-video-shows-crew-of-sunken-indonesia-submarine-singing-farewell-song)
-- [New Zealand loses top spot for best place to be during Covid to Singapore](https://www.theguardian.com/world/2021/apr/27/new-zealand-loses-top-spot-for-best-place-to-be-during-covid-to-singapore)
-- [US homeland security review to address threat of extremism within agency](https://www.theguardian.com/us-news/2021/apr/27/us-homeland-security-review-to-address-threat-of-extremism-within-agency)
-- [BLM dance on Britain’s Got Talent in running for Bafta ‘must-see’ award](https://www.theguardian.com/tv-and-radio/2021/apr/27/blm-dance-on-britains-got-talent-in-running-for-bafta-must-see-award)
-- [UK book sales soared in 2020 despite pandemic](https://www.theguardian.com/books/2021/apr/27/uk-book-sales-soared-in-2020-despite-pandemic)
-- [Talking Horses: Tuesday showdowns get the Punchestown party started](https://www.theguardian.com/sport/blog/2021/apr/27/talking-horses-tuesday-showdowns-get-the-punchestown-party-started)
-- [RNLI says lifesaving callouts increased by 30% in summer 2020](https://www.theguardian.com/uk-news/2021/apr/27/rnli-says-lifesaving-callouts-increased-by-30-in-summer-2020)
-- [Shift workers treated in hospital three times more likely to have Covid – study](https://www.theguardian.com/world/2021/apr/26/shift-workers-treated-in-hospital-three-times-more-likely-to-have-covid-study)
+- [Inside Afghanistan as troops prepare to leave after the US’s longest war](https://www.theguardian.com/news/audio/2021/apr/28/inside-afghanistan-as-us-troops-prepare-to-leave-after-americas-longest-war-podcast)
+- [‘An example to many’: journalist Maria Ressa wins Unesco press freedom prize](https://www.theguardian.com/world/2021/apr/28/philippines-journalist-maria-ressa-wins-unesco-press-freedom-prize)
+- [Arizona passes sweeping anti-abortion bill banning procedure for genetic issues](https://www.theguardian.com/world/2021/apr/27/arizona-anti-abortion-bill-downs-syndrome)
+- [India’s Covid crisis: Delhi crematoriums forced to build makeshift pyres](https://www.theguardian.com/world/2021/apr/28/india-covid-funeral-pyres-delhi-crematoriums-space)
+- [Vote to protect leaseholders from cladding costs fails despite Tory rebellion](https://www.theguardian.com/society/2021/apr/27/vote-to-protect-leaseholders-from-cladding-costs-fails-despite-tory-rebellion)
+- [Single dose of Covid vaccine can nearly halve transmission of virus, study finds](https://www.theguardian.com/uk-news/2021/apr/28/single-dose-of-covid-vaccine-can-nearly-halve-transmission-of-virus-study-finds)
+- [Mark Selby dominates Mark Williams in world snooker quarter-final](https://www.theguardian.com/sport/2021/apr/27/mark-selby-takes-commanding-lead-over-mark-williams-in-quarter-final)
+- [TUC calls for immediate public inquiry into Covid deaths](https://www.theguardian.com/world/2021/apr/28/tuc-calls-for-immediate-public-inquiry-into-covid-deaths)
+- [Vaccinating adolescents could help prevent third wave of Covid in UK – study](https://www.theguardian.com/world/2021/apr/28/vaccinating-adolescents-could-help-prevent-third-wave-of-covid-in-uk-study)
+- [Most British adults played computer games during the pandemic, says Ofcom](https://www.theguardian.com/games/2021/apr/28/62-of-uk-adults-played-computer-games-during-the-pandemic-says-ofcom)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

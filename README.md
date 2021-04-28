@@ -419,16 +419,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recent College Grad looking for advice on job search...](https://www.reddit.com/r/InformationTechnology/comments/n03y19/recent_college_grad_looking_for_advice_on_job/)
+- [IT network engineer](https://www.reddit.com/r/InformationTechnology/comments/n034rc/it_network_engineer/)
+- [Snowflake IT/AV intern interview](https://www.reddit.com/r/InformationTechnology/comments/n00no8/snowflake_itav_intern_interview/)
+- [Hitting The Reset Button - No Shortcuts - Going For The Trifecta](https://www.reddit.com/r/InformationTechnology/comments/mzyk1f/hitting_the_reset_button_no_shortcuts_going_for/)
+- [Google/Coursera - Google IT Support Professional Certificate - Unlocking Credit?](https://www.reddit.com/r/InformationTechnology/comments/mzy7pu/googlecoursera_google_it_support_professional/)
+- [Trying to understand Serverless Applications/Architecture](https://www.reddit.com/r/InformationTechnology/comments/mzs98k/trying_to_understand_serverless/)
+- [Resume & Career Coach Builder](https://www.reddit.com/r/InformationTechnology/comments/mzr53a/resume_career_coach_builder/)
+- [Jobs that can help develop improve energy/environment](https://www.reddit.com/r/InformationTechnology/comments/mzi6wf/jobs_that_can_help_develop_improve/)
 - [Apprenticeship](https://www.reddit.com/r/InformationTechnology/comments/mzc1ll/apprenticeship/)
 - [Need to wipe a Macbook remotely, employee wants to purchase from company](https://www.reddit.com/r/InformationTechnology/comments/mza0qv/need_to_wipe_a_macbook_remotely_employee_wants_to/)
-- [Is IT in college hard?](https://www.reddit.com/r/InformationTechnology/comments/mz54r7/is_it_in_college_hard/)
-- [Paperless Project (IT industry)](https://www.reddit.com/r/InformationTechnology/comments/mz33e3/paperless_project_it_industry/)
-- [(Long read...sorry) I'm an Information Assurance Engineer II, making good money, but doesn't know anything. I need recommendations/advice/suggestions on my current predicament, please.](https://www.reddit.com/r/InformationTechnology/comments/mz25b8/long_readsorry_im_an_information_assurance/)
-- [How can I help with Data Center Documentation with no experience?](https://www.reddit.com/r/InformationTechnology/comments/myu4ij/how_can_i_help_with_data_center_documentation/)
-- [How can i change user agent from phone to PC](https://www.reddit.com/r/InformationTechnology/comments/mythp1/how_can_i_change_user_agent_from_phone_to_pc/)
-- [A little IT help](https://www.reddit.com/r/InformationTechnology/comments/myktgp/a_little_it_help/)
-- [Business idea](https://www.reddit.com/r/InformationTechnology/comments/mya0w8/business_idea/)
-- [Advice](https://www.reddit.com/r/InformationTechnology/comments/mxyb70/advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

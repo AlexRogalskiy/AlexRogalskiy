@@ -241,21 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649550936282415104" target="_blank"><i>Barracks Home</i></a></summary>
-<p>by Tojo Suyemoto</p><p>This is our barracks, squatting on the ground,<br/>
- Tar papered shacks, partitioned into rooms<br/>
- By sheetrock walls, transmitting every sound<br/>
- Of neighbor’s gossip or the sweep of brooms<br/>
- The open door welcomes the refugees,<br/>
- And now at least there is no need to roam<br/>
- Afar: here space enlarges memories<br/>
- Beyond the bounds of camp and this new home.<br/>
- The floor is carpeted with dust, wind-borne<br/>
- Dry alkalai, patterned with insect feet,<br/>
- What peace can such a place as this impart?<br/>
- We can but sense, bewildered and forlorn,<br/>
- That time, disrupted by the war from neat<br/>
- Routines, must now adjust within the heart.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649641545143828480" target="_blank"><i>The First Rule of Sinhalese Architecture</i></a></summary>
+<p>by Michael Ondaatje</p><p>Never build three doors<br/>in a straight line.<br/><br/>A devil might rush<br/>through them<br/>deep into your house,<br/>into your life.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

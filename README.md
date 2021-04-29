@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/turn/turn_into_2005.php" target="_blank"><i>turn into</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/turn/turn_off_2006.php" target="_blank"><i>turn off</i></a>
 <span> = </span>
-<span>to change from one thing into another</span>
+<span>to stop a machine or an appliance from working by using a button or a switch</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

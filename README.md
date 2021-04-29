@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_3/make_tracks_1330.php" target="_blank"><i>make tracks</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/C/cahoots_1147.php" target="_blank"><i>cahoots</i></a>
 <span> = </span>
-<span>to leave somewhere, usually to go home<BR></span>
+<span>(in phrase <strong>in cahoots</strong>) in collusion; working together secretly</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

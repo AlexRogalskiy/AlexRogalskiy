@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_5/over_the_top_462.php" target="_blank"><i>over the top</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/V/vice_versa_125.php" target="_blank"><i>vice versa</i></a>
 <span> = </span>
-<span>You can say something is over the top if you think it's too extreme or it's more than a situation needs or deserves.</span>
+<span>You can say "vice versa" when what you have just said is also true in the opposite, or reverse, order.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -241,8 +241,43 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649641545143828480" target="_blank"><i>The First Rule of Sinhalese Architecture</i></a></summary>
-<p>by Michael Ondaatje</p><p>Never build three doors<br/>in a straight line.<br/><br/>A devil might rush<br/>through them<br/>deep into your house,<br/>into your life.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649732144526163968" target="_blank"><i>Walking Home from Oak-Head</i></a></summary>
+<p>by Mary Oliver</p><p>There is something<br/>
+about the snow-laden sky<br/>
+in winter<br/>
+in the late afternoon<br/>
+that brings to the heart elation<br/>
+and the lovely meaninglessness<br/>
+of time.<br/>
+Whenever I get home—whenever—<br/>
+somebody loves me there.<br/>
+Meanwhile<br/>
+I stand in the same dark peace<br/>
+as any pine tree,<br/>
+or wander on slowly<br/>
+like the still unhurried wind,<br/>
+waiting,<br/>
+as for a gift,<br/>
+for the snow to begin<br/>
+which it does<br/>
+at first casually,<br/>
+then, irrepressibly.<br/>
+Wherever else I live —<br/>
+in music, in words,<br/>
+in the fires of the heart,<br/>
+I abide just as deeply<br/>
+in this nameless, indivisible place,<br/>
+this world,<br/>
+which is falling apart now,<br/>
+which is white and wild,<br/>
+which is faithful beyond all our expressions of faith,<br/>
+our deepest prayers.<br/>
+Don’t worry, sooner or later I’ll be home.<br/>
+Red-cheeked from the roused wind,<br/>
+I’ll stand in the doorway<br/>
+stamping my boots and slapping my hands,<br/>
+my shoulders<br/>
+covered with stars.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +308,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 75%, pressure: 1014 (mbar), wind: /east/ 5 (m/s), cloudy: 0%</b>
+        <b>0°C (<i>clear sky</i>), humidity: 80%, pressure: 1014 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>05:02 am</b> and sets at <b>20:49 pm</b>.
     </p>
@@ -286,16 +321,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Secretlab's First Desk Offers Magical Magnetic Accessories and RGB Lights](https://www.reviewgeek.com/80026/secretlabs-pc-desk-cable-management-and-rgb-lighting/)
-* [SideQuest's New Android App Lets You Sideload to Your Oculus without a PC](https://www.reviewgeek.com/79978/sidequests-new-android-app-lets-you-sideload-to-your-oculus-without-a-pc/)
-* [Eve's New HomeKit Smart Plug Uses Thread for Faster Smart Home Commands](https://www.reviewgeek.com/79961/eves-new-homekit-smart-plug-uses-thread-for-faster-smart-home-commands/)
-* [Amazon Expands In-Garage Grocery Delivery to Curb Porch Pirates](https://www.reviewgeek.com/79942/amazon-expands-in-garage-grocery-delivery-to-curb-porch-pirates/)
-* [Amazon's New Fire HD 10 Kids Tablets Include a "Pro" Edition for Older Children](https://www.reviewgeek.com/79941/amazons-new-fire-hd-10-kids-tablets-include-a-pro-edition-for-older-children/)
-* [PopSockets' Upgraded PopGrip Slide Stretch Fits Most Phone Cases, Even iPhone 12](https://www.reviewgeek.com/79950/popsockets-upgraded-popgrip-slide-stretch-fits-most-phone-cases-even-iphone-12/)
-* [iFixit and HTC Team Up to Make Vive VR Headset Repairs Easier](https://www.reviewgeek.com/79929/ifixit-and-htc-team-up-to-make-vive-vr-headset-repairs-easier/)
-* [Amazon's New Fire HD 10 Tablets are Faster, Sleeker, and Productivity-Focused](https://www.reviewgeek.com/79922/amazons-new-fire-hd-10-tablets-are-faster-sleeker-and-productivity-focused/)
-* [How to Use a HomePod Mini with Your Mac](https://www.howtogeek.com/720765/how-to-use-a-homepod-mini-with-your-mac/)
-* [How to Turn on Orientation Lock When Opening an App on iPhone](https://www.howtogeek.com/720576/how-to-turn-on-orientation-lock-when-opening-an-app-on-iphone/)
+* [HBO Max Could Add a $9.99 Ad-Supported Tier in June](https://www.reviewgeek.com/80279/hbo-max-could-add-a-9-99-ad-supported-tier-in-june/)
+* [T-Mobile Wants You to Know It Has a Tracker, Too](https://www.reviewgeek.com/80258/t-mobile-wants-you-to-know-it-has-a-tracker-too/)
+* [Google Assistant Is Getting Better at Understanding What You Just Said](https://www.reviewgeek.com/80199/google-assistant-improved-context-unique-names/)
+* [An Android Bug Let Some Apps Improperly Access COVID-19 Tracing Data](https://www.reviewgeek.com/80201/an-android-bug-let-some-apps-improperly-access-covid19-tracing-data/)
+* [Samsung Announces Affordable Galaxy Book and Gaming Galaxy Book Odyssey Laptops](https://www.reviewgeek.com/80173/samsung-announces-affordable-galaxy-book-and-gaming-galaxy-book-odyssey-laptops/)
+* [First 'Sailor Moon' Movie in 26 Years Arrives on Netflix June 3rd](https://www.reviewgeek.com/80174/first-sailor-moon-movie-in-26-years-arrives-on-netflix-june-3rd/)
+* [Dashlane's New Essentials Plan Makes It a More Affordable Password Manager](https://www.reviewgeek.com/80185/dashlanes-new-essentials-plan-makes-it-a-more-affordable-password-manager/)
+* [This Smart Inner Tube for Bikes Sure Is Stupid](https://www.reviewgeek.com/80168/this-smart-inner-tube-for-bikes-sure-is-stupid/)
+* [How to Turn off Google Assistant Repeat Command Suggestions](https://www.howtogeek.com/715392/how-to-turn-off-google-assistant-repeat-command-suggestions/)
+* [Samsung's New Galaxy Book Pro Laptops Are Available for Preorder](https://www.reviewgeek.com/80160/samsungs-new-galaxy-book-pro-laptops-are-available-for-pre-order/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

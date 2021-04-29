@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Dying_men_speak_true_949.php" target="_blank"><i>Dying men speak true</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
 <span> = </span>
-<span>When people are about to die, they usually tell the truth.</span>
+<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

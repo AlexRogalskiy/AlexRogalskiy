@@ -241,8 +241,43 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649641545143828480" target="_blank"><i>The First Rule of Sinhalese Architecture</i></a></summary>
-<p>by Michael Ondaatje</p><p>Never build three doors<br/>in a straight line.<br/><br/>A devil might rush<br/>through them<br/>deep into your house,<br/>into your life.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649732144526163968" target="_blank"><i>Walking Home from Oak-Head</i></a></summary>
+<p>by Mary Oliver</p><p>There is something<br/>
+about the snow-laden sky<br/>
+in winter<br/>
+in the late afternoon<br/>
+that brings to the heart elation<br/>
+and the lovely meaninglessness<br/>
+of time.<br/>
+Whenever I get home—whenever—<br/>
+somebody loves me there.<br/>
+Meanwhile<br/>
+I stand in the same dark peace<br/>
+as any pine tree,<br/>
+or wander on slowly<br/>
+like the still unhurried wind,<br/>
+waiting,<br/>
+as for a gift,<br/>
+for the snow to begin<br/>
+which it does<br/>
+at first casually,<br/>
+then, irrepressibly.<br/>
+Wherever else I live —<br/>
+in music, in words,<br/>
+in the fires of the heart,<br/>
+I abide just as deeply<br/>
+in this nameless, indivisible place,<br/>
+this world,<br/>
+which is falling apart now,<br/>
+which is white and wild,<br/>
+which is faithful beyond all our expressions of faith,<br/>
+our deepest prayers.<br/>
+Don’t worry, sooner or later I’ll be home.<br/>
+Red-cheeked from the roused wind,<br/>
+I’ll stand in the doorway<br/>
+stamping my boots and slapping my hands,<br/>
+my shoulders<br/>
+covered with stars.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

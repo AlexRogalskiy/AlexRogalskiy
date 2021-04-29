@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_5/over_the_top_462.php" target="_blank"><i>over the top</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/V/vice_versa_125.php" target="_blank"><i>vice versa</i></a>
 <span> = </span>
-<span>You can say something is over the top if you think it's too extreme or it's more than a situation needs or deserves.</span>
+<span>You can say "vice versa" when what you have just said is also true in the opposite, or reverse, order.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

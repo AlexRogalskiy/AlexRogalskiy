@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Secretlab's First Desk Offers Magical Magnetic Accessories and RGB Lights](https://www.reviewgeek.com/80026/secretlabs-pc-desk-cable-management-and-rgb-lighting/)
-* [SideQuest's New Android App Lets You Sideload to Your Oculus without a PC](https://www.reviewgeek.com/79978/sidequests-new-android-app-lets-you-sideload-to-your-oculus-without-a-pc/)
-* [Eve's New HomeKit Smart Plug Uses Thread for Faster Smart Home Commands](https://www.reviewgeek.com/79961/eves-new-homekit-smart-plug-uses-thread-for-faster-smart-home-commands/)
-* [Amazon Expands In-Garage Grocery Delivery to Curb Porch Pirates](https://www.reviewgeek.com/79942/amazon-expands-in-garage-grocery-delivery-to-curb-porch-pirates/)
-* [Amazon's New Fire HD 10 Kids Tablets Include a "Pro" Edition for Older Children](https://www.reviewgeek.com/79941/amazons-new-fire-hd-10-kids-tablets-include-a-pro-edition-for-older-children/)
-* [PopSockets' Upgraded PopGrip Slide Stretch Fits Most Phone Cases, Even iPhone 12](https://www.reviewgeek.com/79950/popsockets-upgraded-popgrip-slide-stretch-fits-most-phone-cases-even-iphone-12/)
-* [iFixit and HTC Team Up to Make Vive VR Headset Repairs Easier](https://www.reviewgeek.com/79929/ifixit-and-htc-team-up-to-make-vive-vr-headset-repairs-easier/)
-* [Amazon's New Fire HD 10 Tablets are Faster, Sleeker, and Productivity-Focused](https://www.reviewgeek.com/79922/amazons-new-fire-hd-10-tablets-are-faster-sleeker-and-productivity-focused/)
-* [How to Use a HomePod Mini with Your Mac](https://www.howtogeek.com/720765/how-to-use-a-homepod-mini-with-your-mac/)
-* [How to Turn on Orientation Lock When Opening an App on iPhone](https://www.howtogeek.com/720576/how-to-turn-on-orientation-lock-when-opening-an-app-on-iphone/)
+* [HBO Max Could Add a $9.99 Ad-Supported Tier in June](https://www.reviewgeek.com/80279/hbo-max-could-add-a-9-99-ad-supported-tier-in-june/)
+* [T-Mobile Wants You to Know It Has a Tracker, Too](https://www.reviewgeek.com/80258/t-mobile-wants-you-to-know-it-has-a-tracker-too/)
+* [Google Assistant Is Getting Better at Understanding What You Just Said](https://www.reviewgeek.com/80199/google-assistant-improved-context-unique-names/)
+* [An Android Bug Let Some Apps Improperly Access COVID-19 Tracing Data](https://www.reviewgeek.com/80201/an-android-bug-let-some-apps-improperly-access-covid19-tracing-data/)
+* [Samsung Announces Affordable Galaxy Book and Gaming Galaxy Book Odyssey Laptops](https://www.reviewgeek.com/80173/samsung-announces-affordable-galaxy-book-and-gaming-galaxy-book-odyssey-laptops/)
+* [First 'Sailor Moon' Movie in 26 Years Arrives on Netflix June 3rd](https://www.reviewgeek.com/80174/first-sailor-moon-movie-in-26-years-arrives-on-netflix-june-3rd/)
+* [Dashlane's New Essentials Plan Makes It a More Affordable Password Manager](https://www.reviewgeek.com/80185/dashlanes-new-essentials-plan-makes-it-a-more-affordable-password-manager/)
+* [This Smart Inner Tube for Bikes Sure Is Stupid](https://www.reviewgeek.com/80168/this-smart-inner-tube-for-bikes-sure-is-stupid/)
+* [How to Turn off Google Assistant Repeat Command Suggestions](https://www.howtogeek.com/715392/how-to-turn-off-google-assistant-repeat-command-suggestions/)
+* [Samsung's New Galaxy Book Pro Laptops Are Available for Preorder](https://www.reviewgeek.com/80160/samsungs-new-galaxy-book-pro-laptops-are-available-for-pre-order/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

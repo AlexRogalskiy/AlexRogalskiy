@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_helps_them_that_help_themselves_536.php" target="_blank"><i>God helps them that help themselves</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Justice/What_s_sauce_for_the_goose_is_sauce_for_the_gander_876.php" target="_blank"><i>What's sauce for the goose is sauce for the gander</i></a>
 <span> = </span>
-<span>This semi-humorous saying suggests that we should not rely entirely on God to help us. God will help us if we make an effort.</span>
+<span>In any question, what is appropriate in one case is also appropriate in the other case.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

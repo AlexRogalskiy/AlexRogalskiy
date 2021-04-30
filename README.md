@@ -321,16 +321,16 @@ covered with stars.<br/></p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [HBO Max Could Add a $9.99 Ad-Supported Tier in June](https://www.reviewgeek.com/80279/hbo-max-could-add-a-9-99-ad-supported-tier-in-june/)
-* [T-Mobile Wants You to Know It Has a Tracker, Too](https://www.reviewgeek.com/80258/t-mobile-wants-you-to-know-it-has-a-tracker-too/)
-* [Google Assistant Is Getting Better at Understanding What You Just Said](https://www.reviewgeek.com/80199/google-assistant-improved-context-unique-names/)
-* [An Android Bug Let Some Apps Improperly Access COVID-19 Tracing Data](https://www.reviewgeek.com/80201/an-android-bug-let-some-apps-improperly-access-covid19-tracing-data/)
-* [Samsung Announces Affordable Galaxy Book and Gaming Galaxy Book Odyssey Laptops](https://www.reviewgeek.com/80173/samsung-announces-affordable-galaxy-book-and-gaming-galaxy-book-odyssey-laptops/)
-* [First 'Sailor Moon' Movie in 26 Years Arrives on Netflix June 3rd](https://www.reviewgeek.com/80174/first-sailor-moon-movie-in-26-years-arrives-on-netflix-june-3rd/)
-* [Dashlane's New Essentials Plan Makes It a More Affordable Password Manager](https://www.reviewgeek.com/80185/dashlanes-new-essentials-plan-makes-it-a-more-affordable-password-manager/)
-* [This Smart Inner Tube for Bikes Sure Is Stupid](https://www.reviewgeek.com/80168/this-smart-inner-tube-for-bikes-sure-is-stupid/)
-* [How to Turn off Google Assistant Repeat Command Suggestions](https://www.howtogeek.com/715392/how-to-turn-off-google-assistant-repeat-command-suggestions/)
-* [Samsung's New Galaxy Book Pro Laptops Are Available for Preorder](https://www.reviewgeek.com/80160/samsungs-new-galaxy-book-pro-laptops-are-available-for-pre-order/)
+* [Xiaomi's New $60 Fitness Tracker Arrives in the U.S.](https://www.reviewgeek.com/80432/xiaomi-budget-fitness-tracker-goes-up-for-pre-order-in-the-us/)
+* [Sling TV Bets on DraftKings with New Baseball and Hockey Channels](https://www.reviewgeek.com/80440/sling-tv-bets-on-draftkings-with-new-baseball-and-hockey-channels/)
+* [[Update: Paused] PSA: The Latest Wyze Watch 44 Firmware Is Bricking Watches](https://www.reviewgeek.com/80434/psa-the-latest-wyze-watch-44-firmware-is-bricking-watches/)
+* [The Latest LEGO x Adidas Shoe Collab Pays Homage to Classic LEGO Colors](https://www.reviewgeek.com/80437/the-latest-lego-x-adidas-shoe-collab-pays-homage-to-classic-lego-colors/)
+* [This Extraordinary House Was 3D Printed from Raw Earth](https://www.reviewgeek.com/80424/this-extraordinary-house-was-3d-printed-from-raw-earth/)
+* [Zero Labs Turned an Old Rust Bucket Truck into an EV in Just 24 Hours](https://www.reviewgeek.com/80387/zero-labs-turned-an-old-rust-bucket-truck-into-an-ev-in-just-24-hours/)
+* [Don't Be a Wingding: Help Choose the New Default Font for Microsoft Office](https://www.reviewgeek.com/80375/dont-be-a-wingding-help-choose-the-new-default-font-for-microsoft-office/)
+* [Alexa Helped Saved a Woman's Life After Deadly Bee Stings](https://www.reviewgeek.com/80378/alexa-helped-saved-a-womans-life-after-deadly-bee-stings/)
+* [The 6 Best Apple AirTag Accessories](https://www.howtogeek.com/724536/best-apple-airtag-accessories/)
+* [How to Find, Add, and Remove Fonts in Google Docs](https://www.howtogeek.com/723870/how-to-find-add-and-remove-fonts-in-google-docs/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -220,8 +220,8 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7e&#x2F;4e&#x2F;1e&#x2F;7e4e1e452c56131ef0a35c074e6e322c.jpg" alt="We&#39;ll try not to make this too difficult. Refractory is the Word of the Day. Get example sentences and more at Dictionary.com!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;97&#x2F;0b&#x2F;f9&#x2F;970bf9e27c30c62225e35be276f8cf56.jpg" alt="Mammock is the #WordOfTheDay. Let&#39;s hope it stays in one piece. Click for example sentences, etymology, and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7e&#x2F;4e&#x2F;1e&#x2F;7e4e1e452c56131ef0a35c074e6e322c.jpg" alt="We&#39;ll try not to make this too difficult. Refractory is the Word of the Day. Get example sentences and more at Dictionary.com! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;97&#x2F;0b&#x2F;f9&#x2F;970bf9e27c30c62225e35be276f8cf56.jpg" alt="Mammock is the #WordOfTheDay. Let&#39;s hope it stays in one piece. Click for example sentences, etymology, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;97&#x2F;e6&#x2F;5597e67fc8312d3e36b0124368799fed.jpg" alt="Exonumia is the Word of the Day. Save it for a rainy day. Get example sentences and more at the link! #English #Vocabulary #Learn #Writing " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0b&#x2F;b4&#x2F;b0&#x2F;0bb4b00d7b34ba42a760e19aa272d493.jpg" alt="Are you guilty of sumpsimus? It&#39;s our #WordOfTheDay. Learn how to say it and more at Dictionary.com! " />
     </p>
@@ -297,7 +297,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>9°C (<i>clear sky</i>), humidity: 40%, pressure: 1007 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
+        <b>10°C (<i>scattered clouds</i>), humidity: 34%, pressure: 1004 (mbar), wind: /north-west/ 3 (m/s), cloudy: 40%</b>
         <br />
         Today, the Sun rises at <b>04:59 am</b> and sets at <b>20:52 pm</b>.
     </p>

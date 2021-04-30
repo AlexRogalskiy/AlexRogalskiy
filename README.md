@@ -366,16 +366,16 @@ covered with stars.<br/></p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook approves alcohol, vaping and gambling ads targeting 13-17 year olds](https://www.abc.net.au/news/2021-04-28/facebook-instagram-teenager-tageted-advertising-alcohol-vaping/100097590)
-- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
-- [AMD Reports Q1 2021 Earnings: Firing on All Cylinders and Setting Records](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
-- [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
-- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
-- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
-- [Study shows class bias in hiring based on few seconds of speech](https://news.yale.edu/2019/10/21/yale-study-shows-class-bias-hiring-based-few-seconds-speech)
-- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
-- [Symbolics Lisp Machine demo Jan 2013](https://www.youtube.com/watch?v=o4-YnLpLgtk)
+- [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
+- [Avoiding Leetcode Anxiety](https://leetcodetherapy.com/leetcode-anxiety)
+- [We Built Our Own DNS Infrastructure](https://blog.replit.com/dns)
+- [Lambda School lays off 65 employees](https://lambdaschool.com/the-commons/update-lambda-school-team)
+- [Shipping containers are falling overboard at a rapid rate](https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate)
+- [The story BCG offered me $16,000 not to tell (2010)](https://thetech.com/2010/04/09/dubai-v130-n18)
+- [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.com/careers)
+- [Write Gitlab CI Pipelines in Python Code](https://gitlab.com/dbsystel/gitlab-ci-python-library)
+- [QNAP ships NAS backup software with hidden credentials](https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

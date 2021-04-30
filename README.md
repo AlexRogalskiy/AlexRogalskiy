@@ -426,16 +426,16 @@ covered with stars.<br/></p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Flexible CIOs gain friends in finance](https://www.computerweekly.com/news/252499854/Flexible-CIOs-gain-friends-in-finance)
-- [UK supermarkets to trial age estimation tech for alcohol purchases](https://www.computerweekly.com/news/252499863/UK-supermarkets-to-trial-age-estimation-tech-for-alcohol-purchases)
-- [Total cost of ransomware attack heading towards $2m](https://www.computerweekly.com/news/252499796/Total-cost-of-ransomware-attack-heading-towards-2m)
-- [Scality launches Artesca container-native object storage](https://www.computerweekly.com/news/252499779/Scality-launches-Artesca-container-native-object-storage)
-- [Leaky Azure storage account puts software developer IP at risk](https://www.computerweekly.com/news/252499781/Leaky-Azure-storage-account-puts-software-developer-IP-at-risk)
-- [Why we need to reset the debate on end-to-end encryption to protect children](https://www.computerweekly.com/opinion/Why-we-need-to-reset-the-debate-on-end-to-end-encryption-to-protect-children)
-- [Startup targets PC gamers to build decentralised supercomputer](https://www.computerweekly.com/news/252499851/Startup-targets-PC-gamers-to-build-decentralised-supercomputer)
-- [Apple OS updates patch multiple security holes](https://www.computerweekly.com/news/252499853/Apple-OS-updates-patch-multiple-security-holes)
-- [Python @ 30: Praising the versatility of Python](https://www.computerweekly.com/opinion/Python-30-Praising-the-versatility-of-Python)
-- [Uber drivers’ resistance and the gig economy – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Uber-drivers-resistance-and-the-gig-economy-Computer-Weekly-Downtime-Upload-podcast)
+- [Public sector organisations ‘in the dark’ about where their data is, suggests UKCloud survey](https://www.computerweekly.com/news/252499988/Public-sector-organisations-in-the-dark-about-where-their-data-is-suggests-UKCloud-survey)
+- [G7 countries to cooperate on digital regulation](https://www.computerweekly.com/news/252499990/G7-countries-to-cooperate-on-digital-regulation)
+- [Impact of low chip supply spreads](https://www.computerweekly.com/news/252499981/Impact-of-low-chip-supply-spreads)
+- [Northern Ireland pilots security training plan for 16-25s](https://www.computerweekly.com/news/252499972/Northern-Ireland-pilots-security-training-plan-for-16-25s)
+- [Walt Disney Company confirms AWS as preferred cloud partner for Disney+ streaming service](https://www.computerweekly.com/news/252499973/Walt-Disney-Company-confirms-AWS-as-preferred-cloud-partner-for-Disney-streaming-service)
+- [How to tackle intellectual property crime](https://www.computerweekly.com/opinion/How-to-tackle-intellectual-property-crime)
+- [UK demand for digital automation skills soars](https://www.computerweekly.com/news/252499961/UK-demand-for-digital-automation-skills-soars)
+- [GCHQ: Dyslexic thinkers key to solving UK cyber security challenges](https://www.computerweekly.com/news/252499960/GCHQ-Dyslexic-thinkers-key-to-solving-UK-cyber-security-challenges)
+- [JEDI cloud contract: US court refuses to dismiss Amazon’s ‘political interference’ allegations](https://www.computerweekly.com/news/252499969/JEDI-cloud-contract-US-court-refuses-to-dismiss-Amazons-political-interference-allegations)
+- [Microsoft outlines five-year plan for accessibility tech](https://www.computerweekly.com/news/252499928/Microsoft-outlines-a-five-year-plan-on-accessibility)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

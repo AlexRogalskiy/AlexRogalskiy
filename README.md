@@ -351,16 +351,16 @@ covered with stars.<br/></p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Inside Afghanistan as troops prepare to leave after the US’s longest war](https://www.theguardian.com/news/audio/2021/apr/28/inside-afghanistan-as-us-troops-prepare-to-leave-after-americas-longest-war-podcast)
-- [‘An example to many’: journalist Maria Ressa wins Unesco press freedom prize](https://www.theguardian.com/world/2021/apr/28/philippines-journalist-maria-ressa-wins-unesco-press-freedom-prize)
-- [Arizona passes sweeping anti-abortion bill banning procedure for genetic issues](https://www.theguardian.com/world/2021/apr/27/arizona-anti-abortion-bill-downs-syndrome)
-- [India’s Covid crisis: Delhi crematoriums forced to build makeshift pyres](https://www.theguardian.com/world/2021/apr/28/india-covid-funeral-pyres-delhi-crematoriums-space)
-- [Vote to protect leaseholders from cladding costs fails despite Tory rebellion](https://www.theguardian.com/society/2021/apr/27/vote-to-protect-leaseholders-from-cladding-costs-fails-despite-tory-rebellion)
-- [Single dose of Covid vaccine can nearly halve transmission of virus, study finds](https://www.theguardian.com/uk-news/2021/apr/28/single-dose-of-covid-vaccine-can-nearly-halve-transmission-of-virus-study-finds)
-- [Mark Selby dominates Mark Williams in world snooker quarter-final](https://www.theguardian.com/sport/2021/apr/27/mark-selby-takes-commanding-lead-over-mark-williams-in-quarter-final)
-- [TUC calls for immediate public inquiry into Covid deaths](https://www.theguardian.com/world/2021/apr/28/tuc-calls-for-immediate-public-inquiry-into-covid-deaths)
-- [Vaccinating adolescents could help prevent third wave of Covid in UK – study](https://www.theguardian.com/world/2021/apr/28/vaccinating-adolescents-could-help-prevent-third-wave-of-covid-in-uk-study)
-- [Most British adults played computer games during the pandemic, says Ofcom](https://www.theguardian.com/games/2021/apr/28/62-of-uk-adults-played-computer-games-during-the-pandemic-says-ofcom)
+- [NFL draft 2021: Mac Jones goes to Patriots, Bears pick Justin Fields – live!](https://www.theguardian.com/sport/live/2021/apr/29/nfl-draft-2020-first-round-live-picks-trevor-lawrence-justin-fields)
+- [Scotland’s election: a stepping stone to independence? – podcast](https://www.theguardian.com/news/audio/2021/apr/30/scotlands-election-a-stepping-stone-to-independence-podcast)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/30/premier-league-10-things-to-look-out-for-this-weekend)
+- [‘You changed America’: Biden marks first 100 days in Georgia – a state key to his victory](https://www.theguardian.com/us-news/2021/apr/29/joe-biden-100-days-georgia-rally)
+- [Dozens killed in crush at religious festival in Israel](https://www.theguardian.com/world/2021/apr/30/killed-in-crush-at-religious-festival-in-israel-lag-baomer-mount-meron)
+- [Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened](https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest)
+- [Ghislaine Maxwell: lawyers release photo showing bruised face](https://www.theguardian.com/us-news/2021/apr/30/ghislaine-maxwell-lawyers-release-photo-showing-bruised-face)
+- [Research suggests cancer not as rare as thought in medieval Britain](https://www.theguardian.com/society/2021/apr/30/cancer-in-medieval-britain-not-as-rare-as-thought-research-suggests)
+- [Dutch National Ballet: Metamorphosis review – exquisite dancing in the dark](https://www.theguardian.com/stage/2021/apr/30/dutch-national-ballet-metamorphosis-review-david-dawson)
+- [Co-op to ditch plastic ‘bags for life’ over pollution concerns](https://www.theguardian.com/business/2021/apr/30/co-op-to-ditch-plastic-bags-for-life-over-pollution-concerns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

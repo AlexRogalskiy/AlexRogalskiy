@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/C/cahoots_1147.php" target="_blank"><i>cahoots</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_2/loan_shark_1548.php" target="_blank"><i>loan shark</i></a>
 <span> = </span>
-<span>(in phrase <strong>in cahoots</strong>) in collusion; working together secretly</span>
+<span>an unauthorised moneylender who charges very high interest rates</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

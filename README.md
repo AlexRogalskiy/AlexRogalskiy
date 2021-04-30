@@ -381,16 +381,16 @@ covered with stars.<br/></p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Why enterprises must install the latest macOS software patch](https://www.computerworld.com/article/3616637/why-enterprises-must-install-the-latest-macos-software-patch.html#tk.rss_all)
-- [The mystery of Google's missed Pixel opportunity](https://www.computerworld.com/article/3616578/google-pixel-opportunity.html#tk.rss_all)
-- [Can you require your employees to have a COVID-19 vaccine?](https://www.computerworld.com/article/3616596/can-you-require-your-employees-to-have-a-covid-19-vaccine.html#tk.rss_all)
-- [Microsoft previews perpetual license Office LTSC to enterprises](https://www.computerworld.com/article/3616114/microsoft-previews-perpetual-license-office-ltsc-to-enterprises.html#tk.rss_all)
-- [April patch recap: Mostly quiet on the Microsoft front](https://www.computerworld.com/article/3616675/april-patch-recap-mostly-quiet-on-the-microsoft-front.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [iOS 15: Playing the expectations game](https://www.computerworld.com/article/3616594/ios-15-playing-the-expectations-game.html#tk.rss_all)
-- [Rethinking mobile security in a post-COVID workplace](https://www.computerworld.com/article/3616226/rethinking-mobile-security-in-a-post-covid-workplace.html#tk.rss_all)
-- [Microsoft ships Office 2021 preview for Mac](https://www.computerworld.com/article/3616499/microsoft-ships-office-2021-preview-for-mac.html#tk.rss_all)
-- [Google Meet gets a UI refresh to help ‘deepen the meeting experience’](https://www.computerworld.com/article/3616194/google-meet-gets-a-ui-refresh-to-help-deepen-the-meeting-experience.html#tk.rss_all)
+- [Podcast: iOS 14.5 brings App Tracking Transparency; Next Apple Silicon chip](https://www.computerworld.com/article/3616976/podcast-ios-145-brings-app-tracking-transparency-next-apple-silicon-chip.html#tk.rss_all)
+- [Apple confirms the hybrid workplace is here to stay](https://www.computerworld.com/article/3617077/apple-confirms-the-hybrid-workplace-is-here-to-stay.html#tk.rss_all)
+- [A highly sarcastic Android security warning](https://www.computerworld.com/article/3616703/android-security-warning.html#tk.rss_all)
+- [BrandPost: How Predictive Analytics Helps Minimize Device Downtime and Keep Users Productive](https://www.computerworld.com/article/3616972/how-predictive-analytics-helps-minimize-device-downtime-and-keep-users-productive.html#tk.rss_all)
+- [FAQ: What's Microsoft done to perpetual Office now?](https://www.computerworld.com/article/3617075/faq-whats-microsoft-done-to-perpetual-office-now.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [This beginner-friendly web development coding course is just $20 right now](https://www.computerworld.com/article/3616607/this-beginner-friendly-web-development-coding-course-is-just-20-right-now.html#tk.rss_all)
+- [Atlassian launches Jira Work Management, opening its Jira platform to all business teams](https://www.computerworld.com/article/3616832/atlassian-launches-jira-work-management-opening-its-jira-platform-to-all-business-teams.html#tk.rss_all)
+- [How long until Apple boots apps from its stores for privacy issues?](https://www.computerworld.com/article/3616831/how-long-until-apple-boots-apps-from-its-stores-for-privacy-issues.html#tk.rss_all)
+- [Microsoft patents biometric 'wellness insights' tool for workers](https://www.computerworld.com/article/3616677/microsoft-patents-biometric-wellness-insights-tool-for-workers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

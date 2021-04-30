@@ -336,16 +336,16 @@ covered with stars.<br/></p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The chilling truth about social control – Video](https://m.youtube.com/watch?v=c15FqY_1AYk)
-- [Ask HN: How do you search for relevant code examples?](https://news.ycombinator.com/item?id=26964689)
-- [Ask HN: Is Backblaze Suitable for Production?](https://news.ycombinator.com/item?id=26964665)
-- [The Last Hurrah](https://alexsteffen.substack.com/p/the-last-hurrah)
-- [Bill to kill up to 90% of Idaho wolves heads to governor](https://apnews.com/article/bills-idaho-wolves-environment-and-nature-lifestyle-7e18d06ccff0705ca4282e2b097040a9)
-- [The 7 Laws of Sales Success](https://capitalandgrowth.org/answers/Article/3269835/The-7-Laws-of-Sales-Success)
-- [Mosaics of Positions](https://world.hey.com/dhh/mosaics-of-positions-ae6d4d9e)
-- [The Gentle Art of Poverty – How to Live in Southern California on $2000 a Year](https://www.theatlantic.com/magazine/archive/1977/10/the-gentle-art-of-poverty/308241/)
-- [Provisional Death Counts for Coronavirus Disease 2019 (Covid-19)](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#SexAndAge)
-- [Why I Left My Job at Facebook in the Middle of a Pandemic?](https://simplified.co/blog/product/buildinpublic/why-i-left-facebook-in-middle-of-pandemic/1888/)
+- [What is the next big feature, after native comp, that we can expect from Emacs?](https://www.reddit.com/r/emacs/comments/n13v5l/what_is_the_next_big_feature_after_native_comp/)
+- [Cashing in on Clubhouse](https://every.to/cybernaut/cashing-in-on-clubhouse#)
+- [The Challenges of Animal Translation](https://www.newyorker.com/science/elements/the-challenges-of-animal-translation)
+- [The European System of Monopoly](https://thecounterbalance.substack.com/p/the-european-system-of-monopoly)
+- [Show HN: Appleshouter – iOS notifications for PWAs and Web apps](https://github.com/kosmigramma/appleshouter)
+- [Arss – an RSS reader that doesn't try to do too much](https://github.com/1ntEgr8/arss)
+- [Travel Bans](https://travelbans.org)
+- [Future Cell Phone](https://news.ycombinator.com/item?id=26989224)
+- [Safari 14.1 is completely unusable](https://discussions.apple.com/thread/252705424)
+- [Flutter Tips and Tricks](https://blog.snappymob.com/5-flutter-tips-and-tricks-worth-knowing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

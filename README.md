@@ -441,16 +441,16 @@ covered with stars.<br/></p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recent College Grad looking for advice on job search...](https://www.reddit.com/r/InformationTechnology/comments/n03y19/recent_college_grad_looking_for_advice_on_job/)
-- [IT network engineer](https://www.reddit.com/r/InformationTechnology/comments/n034rc/it_network_engineer/)
-- [Snowflake IT/AV intern interview](https://www.reddit.com/r/InformationTechnology/comments/n00no8/snowflake_itav_intern_interview/)
-- [Hitting The Reset Button - No Shortcuts - Going For The Trifecta](https://www.reddit.com/r/InformationTechnology/comments/mzyk1f/hitting_the_reset_button_no_shortcuts_going_for/)
-- [Google/Coursera - Google IT Support Professional Certificate - Unlocking Credit?](https://www.reddit.com/r/InformationTechnology/comments/mzy7pu/googlecoursera_google_it_support_professional/)
-- [Trying to understand Serverless Applications/Architecture](https://www.reddit.com/r/InformationTechnology/comments/mzs98k/trying_to_understand_serverless/)
-- [Resume & Career Coach Builder](https://www.reddit.com/r/InformationTechnology/comments/mzr53a/resume_career_coach_builder/)
-- [Jobs that can help develop improve energy/environment](https://www.reddit.com/r/InformationTechnology/comments/mzi6wf/jobs_that_can_help_develop_improve/)
-- [Apprenticeship](https://www.reddit.com/r/InformationTechnology/comments/mzc1ll/apprenticeship/)
-- [Need to wipe a Macbook remotely, employee wants to purchase from company](https://www.reddit.com/r/InformationTechnology/comments/mza0qv/need_to_wipe_a_macbook_remotely_employee_wants_to/)
+- [Studying Information Technology (Need Help)](https://www.reddit.com/r/InformationTechnology/comments/n1kbia/studying_information_technology_need_help/)
+- [Delegated Administration Question](https://www.reddit.com/r/InformationTechnology/comments/n1iu3l/delegated_administration_question/)
+- [How to show real qualitative earnings?](https://www.reddit.com/r/InformationTechnology/comments/n1h9si/how_to_show_real_qualitative_earnings/)
+- [Integration third party applications](https://www.reddit.com/r/InformationTechnology/comments/n16dug/integration_third_party_applications/)
+- [Help a Student! IoT survey](https://www.reddit.com/r/InformationTechnology/comments/n10zc4/help_a_student_iot_survey/)
+- [Job search](https://www.reddit.com/r/InformationTechnology/comments/n0ggwq/job_search/)
+- [Just passed my first interview, a few questions](https://www.reddit.com/r/InformationTechnology/comments/n0g91h/just_passed_my_first_interview_a_few_questions/)
+- [How does 100 mbps to 500 mbps signal conversion work?](https://www.reddit.com/r/InformationTechnology/comments/n09rpk/how_does_100_mbps_to_500_mbps_signal_conversion/)
+- [Need to interview an IT professional for an assignment](https://www.reddit.com/r/InformationTechnology/comments/n08my2/need_to_interview_an_it_professional_for_an/)
+- [Password Expiring Notification](https://www.reddit.com/r/InformationTechnology/comments/n05wtc/password_expiring_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

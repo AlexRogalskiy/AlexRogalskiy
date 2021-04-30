@@ -456,16 +456,16 @@ covered with stars.<br/></p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Videotron CEO Jean-Francois Pruneau to step down in June](https://www.itworldcanada.com/article/videotron-ceo-jean-francois-pruneau-to-step-down-in-june/446598)
-- [City of Calgary announces data-sharing partnership with Waze](https://www.itworldcanada.com/article/city-of-calgary-announces-data-sharing-partnership-with-waze/446557)
-- [Apple’s anti-tracking capability praised by Canadian expert](https://www.itworldcanada.com/article/apples-anti-tracking-capability-praised-by-canadian-expert/446578)
-- [Coffee Briefing, April 27, 2021 – Cisco, HPE and others announce plans to address climate crisis, remembering Dan Kaminsky](https://www.itworldcanada.com/article/coffee-briefing-april-27-2021-cisco-hpe-and-others-announce-plans-to-address-climate-crisis-remembering-dan-kaminsky/446554)
-- [Hashtag Trending, April 27, 2021 – Intel talks chip shortages; Overpaid CEOs; iOS 14.5 is here](https://www.itworldcanada.com/article/hashtag-trending-april-27-2021-intel-talks-chip-shortages-overpaid-ceos-ios-14-5-is-here/446536)
-- [Rogers expands connectivity program to more women’s shelters in Canada](https://www.itworldcanada.com/article/rogers-expands-connectivity-program-to-more-womens-shelters-in-canada/446538)
-- [Pat Gelsinger leaves VMware’s board of directors](https://www.itworldcanada.com/article/pat-gelsinger-leaves-vmwares-board-of-directors/446525)
-- [Cyber Security Today, April 26, 2021 – Emotet wiped from servers, Passwordstate password manager compromised and be careful with Apple AirDrop file sharing](https://www.itworldcanada.com/article/cyber-security-today-april-26-2021-emotet-wiped-from-servers-passwordstate-password-manager-compromised-and-be-careful-with-apple-airdrop-file-sharing/446517)
-- [Hashtag Trending, April 26, 2021 – Bitcoin’s environmental impact; John Deere owners doxed; Who’s hiring in Canada?](https://www.itworldcanada.com/article/hashtag-trending-april-26-2021-bitcoins-environmental-impact-john-deere-owners-doxed-whos-hiring-in-canada/446515)
-- [Amazon announces first renewable energy project in Canada](https://www.itworldcanada.com/article/amazon-announces-first-renewable-energy-project-in-canada/446494)
+- [Task force calls for international action against ransomware](https://www.itworldcanada.com/article/task-force-calls-for-international-action-against-ransomware/446710)
+- [Researchers say due to under-reporting, true ransomware figures could be four times as high](https://www.itworldcanada.com/article/researchers-says-due-to-under-reporting-true-ransomware-figures-could-be-four-times-as-high/446701)
+- [Hashtag Trending, April 29, 2021 – BC software firm achieves unicorn status; Shopify’s monster numbers; Vaccine Hunters partners with TO](https://www.itworldcanada.com/article/hashtag-trending-april-29-2021-bc-software-firm-achieves-unicorn-status-shopifys-monster-numbers-vaccine-hunters-partners-with-to/446705)
+- [Two Canadian banks could pay up to $23 million to settle lawsuits in 2018 hacks](https://www.itworldcanada.com/article/two-canadian-banks-could-pay-up-to-23-million-to-settle-lawsuits-in-2018-hacks/446673)
+- [Samsung announces Galaxy Book Pro, Galaxy Book Pro 360 and Galaxy Book laptops](https://www.itworldcanada.com/article/samsung-announces-galaxy-book-pro-galaxy-book-pro-360-and-galaxy-book-laptops/446677)
+- [Dell releases Latitude 7320 Detachable tablet PC](https://www.itworldcanada.com/article/dell-releases-latitude-7320-detachable-tablet-pc/446632)
+- [To make acquisition work, IBM ‘can have preferences’ says CEO Arvind Krishna, but Red Hat can’t](https://www.itworldcanada.com/article/to-make-acquisition-work-ibm-can-have-preferences-says-ceo-arvind-krishna-but-red-hat-cant/446628)
+- [Five ways to deliver quality application performance](https://www.itworldcanada.com/article/five-ways-to-deliver-quality-application-performance/446566)
+- [Cyber Security Today, April 28, 2021 – Millions of stolen Emotet email addresses can now be searched, user data of Reverb exposed, and more phishing and text scams](https://www.itworldcanada.com/article/cyber-security-today-april-28-2021-millions-of-stolen-emotet-email-addresses-can-now-be-searched-user-data-of-reverb-exposed-and-more-phishing-and-text-scams/446622)
+- [Hashtag Trending, April 28, 2021 – Online tipping culture; Clubhouse connects investors with entrepreneurs; Toyota buys Lyft’s autonomous car division](https://www.itworldcanada.com/article/hashtag-trending-april-28-2021-online-tipping-culture-clubhouse-connects-investors-with-entrepreneurs-toyota-buys-lyfts-autonomous-car-division/446626)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

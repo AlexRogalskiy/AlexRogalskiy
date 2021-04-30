@@ -396,16 +396,16 @@ covered with stars.<br/></p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Change Gender Disparity Among Data Science Roles](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-change-gender-disparity-among-data-science-roles/a/d-id/1340840?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The AI Ecosystem: Mapping the Future of Data Science](https://www.informationweek.com/big-data/ai-machine-learning/the-ai-ecosystem-mapping-the-future-of-data-science-/a/d-id/1340829?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What CIOs Need to Know About Graph Database Technology](https://www.informationweek.com/big-data/big-data-analytics/what-cios-need-to-know-about-graph-database-technology/d/d-id/1340839?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [We Need to Keep Women in Technology](https://www.informationweek.com/strategic-cio/team-building-and-staffing/we-need-to-keep-women-in-technology/a/d-id/1340772?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Some Customers and Employees Hate About Chatbots](https://www.informationweek.com/big-data/ai-machine-learning/what-some-customers-and-employees-hate-about-chatbots/a/d-id/1340821?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Meets Finance: How CFOs Drive Digital Success](https://www.informationweek.com/strategic-cio/it-meets-finance-how-cfos-drive-digital-success/a/d-id/1340774?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIO Role Expands into Company Culture, Customer Experience](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cio-role-expands-into-company-culture-customer-experience/d/d-id/1340816?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What You Might Not Realize About Your Multi-Cloud Model](https://www.informationweek.com/cloud/what-you-might-not-realize-about-your-multi-cloud-model/a/d-id/1340778?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Asante CIO Discusses Transforming with Cloud and Telehealth](https://www.informationweek.com/cloud/asante-cio-discusses-transforming-with-cloud-and-telehealth/a/d-id/1340800?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Three Key Tax Incentives for IT Consultants](https://www.informationweek.com/strategic-cio/team-building-and-staffing/three-key-tax-incentives-for-it-consultants/a/d-id/1340744?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Tech Spending Climbs as Digital Business Initiatives Grow](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/tech-spending-climbs-as-digital-business-initiatives-grow/d/d-id/1340781?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Building Confidence with Data Resilience](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/building-confidence-with-data-resilience-/a/d-id/1340743?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IBM Talks AIOps Potential at Digital Developer Conference](https://www.informationweek.com/devops/ibm-talks-aiops-potential-at-digital-developer-conference/d/d-id/1340758?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [3 Factors That Should be Driving Your Digital Transformation](https://www.informationweek.com/strategic-cio/digital-business/3-factors-that-should-be-driving-your-digital-transformation/a/d-id/1340726?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

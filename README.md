@@ -411,16 +411,16 @@ covered with stars.<br/></p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Make life easy with ssh_config](https://www.infoworld.com/article/3616590/make-life-easy-with-sshconfig.html#tk.rss_all)
+- [10 tips for tuning React UI performance](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html#tk.rss_all)
+- [Red Hat Enterprise Linux takes aim at edge computing](https://www.infoworld.com/article/3617048/red-hat-enterprise-linux-takes-aim-at-edge-computing.html#tk.rss_all)
+- [Using Pulumi 3.0 to manage Azure infrastructure](https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.html#tk.rss_all)
+- [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
 - [Red Hat OpenShift ramps up security and manageability with Platform Plus](https://www.infoworld.com/article/3616584/red-hat-openshift-ramps-up-security-and-manageability-with-platform-plus.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [Prisma ORM for Node.js is ready for production](https://www.infoworld.com/article/3616602/prisma-orm-for-nodejs-is-ready-for-production.html#tk.rss_all)
 - [When to use String vs. StringBuilder in .NET Core](https://www.infoworld.com/article/3616600/when-to-use-string-vs-stringbuilder-in-net-core.html#tk.rss_all)
 - [Edge computing can be a data cache for public clouds](https://www.infoworld.com/article/3616576/edge-computing-can-be-a-data-cache-for-public-clouds.html#tk.rss_all)
-- [Oracle Database 21c review: The old RDBMS is new again](https://www.infoworld.com/article/3615233/oracle-database-21c-review-the-old-rdbms-is-new-again.html#tk.rss_all)
-- [Tapping into the smartest software developers](https://www.infoworld.com/article/3616225/tapping-into-the-smartest-software-developers.html#tk.rss_all)
-- [3 enterprise AI success stories](https://www.infoworld.com/article/3615449/3-enterprise-ai-success-stories.html#tk.rss_all)
-- [Mozilla spins out Pyodide Python-in-the-browser project](https://www.infoworld.com/article/3616629/mozilla-spins-out-pyodide-python-in-the-browser-project.html#tk.rss_all)
-- [3 cloud architecture mistakes we all make, but shouldn’t](https://www.infoworld.com/article/3616211/3-cloud-architecture-mistakes-we-all-make-but-shouldnt.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

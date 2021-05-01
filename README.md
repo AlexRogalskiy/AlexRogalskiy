@@ -445,16 +445,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Study says 33 per cent of Canadians unsatisfied with their mobile network speeds](https://www.itworldcanada.com/article/33-per-cent-of-canadians-unsatisfied-with-their-mobile-network-speeds/446808)
+- [Toronto hit by ‘potential cyber breach’ from Accellion file transfer software](https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787)
+- [Cyber Security Today, Week In Review for April 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-30-2021/446737)
+- [Ontario to create Data Authority to securely house provincial information](https://www.itworldcanada.com/article/ontario-to-create-data-authority-to-securely-house-provincial-information/446770)
+- [Cyber Security Today, April 30, 2021 – A Linux alert, negligent executives and another warning to QNAP users](https://www.itworldcanada.com/article/cyber-security-today-april-30-2021-a-linux-alert-negligent-executives-and-another-warning-to-qnap-users/446739)
+- [Hashtag Trending, April 30, 2021 – Netflix picks Toronto, Facebook’s Q1 earnings; Oracle exec suspended on Twitter](https://www.itworldcanada.com/article/hashtag-trending-april-30-2021-netflix-picks-toronto-facebooks-q1-earnings-oracle-exec-suspended-on-twitter/446749)
 - [Task force calls for international action against ransomware](https://www.itworldcanada.com/article/task-force-calls-for-international-action-against-ransomware/446710)
 - [Researchers say due to under-reporting, true ransomware figures could be four times as high](https://www.itworldcanada.com/article/researchers-says-due-to-under-reporting-true-ransomware-figures-could-be-four-times-as-high/446701)
 - [Hashtag Trending, April 29, 2021 – BC software firm achieves unicorn status; Shopify’s monster numbers; Vaccine Hunters partners with TO](https://www.itworldcanada.com/article/hashtag-trending-april-29-2021-bc-software-firm-achieves-unicorn-status-shopifys-monster-numbers-vaccine-hunters-partners-with-to/446705)
 - [Two Canadian banks could pay up to $23 million to settle lawsuits in 2018 hacks](https://www.itworldcanada.com/article/two-canadian-banks-could-pay-up-to-23-million-to-settle-lawsuits-in-2018-hacks/446673)
-- [Samsung announces Galaxy Book Pro, Galaxy Book Pro 360 and Galaxy Book laptops](https://www.itworldcanada.com/article/samsung-announces-galaxy-book-pro-galaxy-book-pro-360-and-galaxy-book-laptops/446677)
-- [Dell releases Latitude 7320 Detachable tablet PC](https://www.itworldcanada.com/article/dell-releases-latitude-7320-detachable-tablet-pc/446632)
-- [To make acquisition work, IBM ‘can have preferences’ says CEO Arvind Krishna, but Red Hat can’t](https://www.itworldcanada.com/article/to-make-acquisition-work-ibm-can-have-preferences-says-ceo-arvind-krishna-but-red-hat-cant/446628)
-- [Five ways to deliver quality application performance](https://www.itworldcanada.com/article/five-ways-to-deliver-quality-application-performance/446566)
-- [Cyber Security Today, April 28, 2021 – Millions of stolen Emotet email addresses can now be searched, user data of Reverb exposed, and more phishing and text scams](https://www.itworldcanada.com/article/cyber-security-today-april-28-2021-millions-of-stolen-emotet-email-addresses-can-now-be-searched-user-data-of-reverb-exposed-and-more-phishing-and-text-scams/446622)
-- [Hashtag Trending, April 28, 2021 – Online tipping culture; Clubhouse connects investors with entrepreneurs; Toyota buys Lyft’s autonomous car division](https://www.itworldcanada.com/article/hashtag-trending-april-28-2021-online-tipping-culture-clubhouse-connects-investors-with-entrepreneurs-toyota-buys-lyfts-autonomous-car-division/446626)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

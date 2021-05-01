@@ -241,32 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649822725325602816" target="_blank"><i>Bird</i></a></summary>
-<p>by Pablo Neruda<br/></p><p>It was passed from one bird to another,
-<br/>the whole gift of the day.
-<br/>The day went from flute to flute,
-<br/>went dressed in vegetation,
-<br/>in flights which opened a tunnel
-<br/>through the wind would pass
-<br/>to where birds were breaking open
-<br/>the dense blue air&ndash;<br/>and there, night came in.
-
-<br/><br/>When I returned from so many journeys,
-<br/>I stayed suspended and green
-<br/>between sun and geography&ndash;
-<br/>I saw how wings worked,
-<br/>how perfumes are transmitted
-<br/>by feathery telegraph,
-<br/>and from above I saw the path,
-<br/>the springs and the roof tiles,
-<br/>the fishermen at their trades,
-<br/>the trousers of the foam;
-<br/>I saw it all from my green sky.
-<br/>I had no more alphabet
-<br/>than the swallows in their courses,
-<br/>the tiny, shining water
-<br/>of the small bird on fire
-<br/>which dances out of the pollen.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/649913319185170432" target="_blank"><i>Oranges</i></a></summary>
+<p>by Jean Little</p><p>I peel oranges neatly.<br/>The sections come apart cleanly, perfectly in my hands.</p><p>When Emily peels an orange, she tears holes in it.<br/>Juice squirts in all directions.</p><p>“Kate,” she says, “I don’t know how you do it!”</p><p>Emily is my best friend.<br/>I hope she never learns how to peel oranges.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

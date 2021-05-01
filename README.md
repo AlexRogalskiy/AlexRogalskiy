@@ -340,16 +340,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL draft 2021: Mac Jones goes to Patriots, Bears pick Justin Fields – live!](https://www.theguardian.com/sport/live/2021/apr/29/nfl-draft-2020-first-round-live-picks-trevor-lawrence-justin-fields)
-- [Scotland’s election: a stepping stone to independence? – podcast](https://www.theguardian.com/news/audio/2021/apr/30/scotlands-election-a-stepping-stone-to-independence-podcast)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/apr/30/premier-league-10-things-to-look-out-for-this-weekend)
-- [‘You changed America’: Biden marks first 100 days in Georgia – a state key to his victory](https://www.theguardian.com/us-news/2021/apr/29/joe-biden-100-days-georgia-rally)
-- [Dozens killed in crush at religious festival in Israel](https://www.theguardian.com/world/2021/apr/30/killed-in-crush-at-religious-festival-in-israel-lag-baomer-mount-meron)
-- [Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened](https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest)
-- [Ghislaine Maxwell: lawyers release photo showing bruised face](https://www.theguardian.com/us-news/2021/apr/30/ghislaine-maxwell-lawyers-release-photo-showing-bruised-face)
-- [Research suggests cancer not as rare as thought in medieval Britain](https://www.theguardian.com/society/2021/apr/30/cancer-in-medieval-britain-not-as-rare-as-thought-research-suggests)
-- [Dutch National Ballet: Metamorphosis review – exquisite dancing in the dark](https://www.theguardian.com/stage/2021/apr/30/dutch-national-ballet-metamorphosis-review-david-dawson)
-- [Co-op to ditch plastic ‘bags for life’ over pollution concerns](https://www.theguardian.com/business/2021/apr/30/co-op-to-ditch-plastic-bags-for-life-over-pollution-concerns)
+- [Afghanistan: At least 21 killed in blast as US prepares to withdraw troops](https://www.theguardian.com/world/2021/may/01/afghanistan-killed-bomb-blast-us-prepares-to-withdraw-troops)
+- [Covid crisis: Australians trying to return home from India face up to $66,000 fine or five years’ jail](https://www.theguardian.com/australia-news/2021/apr/30/australian-government-may-make-it-a-for-citizens-to-return-from-covid-ravaged-countries)
+- [Grammy organisers to end ‘secret’ nomination committees after rigging allegations](https://www.theguardian.com/music/2021/may/01/grammy-organisers-to-end-secret-nomination-committees-after-rigging-allegations)
+- [Maradona care ‘deficient and reckless’ before death, medical board report finds](https://www.theguardian.com/football/2021/may/01/football-diego-maradona-death-medical-report)
+- [Selby warned over slow play as Bingham edges ahead in Crucible semi-final](https://www.theguardian.com/sport/2021/apr/30/shaun-murphy-rallies-against-kyren-wilson-in-semi-final-world-snooker-championship)
+- [Ian Nepomniachtchi will not be able to play next to Russia flag against Carlsen](https://www.theguardian.com/sport/2021/apr/30/magnus-carlsen-responds-to-ian-nepomniachtchi-challenge-with-26-game-unbeaten-run-chess)
+- [Covid rule that ‘turned care homes into prisons’ to be scrapped](https://www.theguardian.com/world/2021/may/01/covid-rule-that-turned-care-homes-into-prisons-to-be-scrapped)
+- [Wallasey in Merseyside tops list of British property hotspots](https://www.theguardian.com/money/2021/may/01/wallasey-merseyside-british-property-hotspots-rightmove)
+- [UK’s south Asian communities worst-hit in Covid second wave, study finds](https://www.theguardian.com/world/2021/apr/30/uks-south-asian-communities-worst-hit-in-covid-second-wave-study-finds)
+- [Police officer dismissed for hitting vulnerable girl ‘more than 30 times’ with baton](https://www.theguardian.com/uk-news/2021/apr/30/police-officer-dismissed-for-repeatedly-hitting-vulnerable-teenager-with-baton)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -400,6 +400,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft previews Azure service for building WebSocket applications](https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html#tk.rss_all)
+- [JetBrains takes TeamCity CI/CD to the cloud](https://www.infoworld.com/article/3617080/jetbrains-takes-teamcity-cicd-to-the-cloud.html#tk.rss_all)
+- [How to be an in-demand cloud geek](https://www.infoworld.com/article/3617051/how-to-be-an-in-demand-cloud-geek.html#tk.rss_all)
 - [Make life easy with ssh_config](https://www.infoworld.com/article/3616590/make-life-easy-with-sshconfig.html#tk.rss_all)
 - [10 tips for tuning React UI performance](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html#tk.rss_all)
 - [Red Hat Enterprise Linux takes aim at edge computing](https://www.infoworld.com/article/3617048/red-hat-enterprise-linux-takes-aim-at-edge-computing.html#tk.rss_all)
@@ -407,9 +410,6 @@
 - [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
 - [Red Hat OpenShift ramps up security and manageability with Platform Plus](https://www.infoworld.com/article/3616584/red-hat-openshift-ramps-up-security-and-manageability-with-platform-plus.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [Prisma ORM for Node.js is ready for production](https://www.infoworld.com/article/3616602/prisma-orm-for-nodejs-is-ready-for-production.html#tk.rss_all)
-- [When to use String vs. StringBuilder in .NET Core](https://www.infoworld.com/article/3616600/when-to-use-string-vs-stringbuilder-in-net-core.html#tk.rss_all)
-- [Edge computing can be a data cache for public clouds](https://www.infoworld.com/article/3616576/edge-computing-can-be-a-data-cache-for-public-clouds.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

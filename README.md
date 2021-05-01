@@ -325,16 +325,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What is the next big feature, after native comp, that we can expect from Emacs?](https://www.reddit.com/r/emacs/comments/n13v5l/what_is_the_next_big_feature_after_native_comp/)
-- [Cashing in on Clubhouse](https://every.to/cybernaut/cashing-in-on-clubhouse#)
-- [The Challenges of Animal Translation](https://www.newyorker.com/science/elements/the-challenges-of-animal-translation)
-- [The European System of Monopoly](https://thecounterbalance.substack.com/p/the-european-system-of-monopoly)
-- [Show HN: Appleshouter – iOS notifications for PWAs and Web apps](https://github.com/kosmigramma/appleshouter)
-- [Arss – an RSS reader that doesn't try to do too much](https://github.com/1ntEgr8/arss)
-- [Travel Bans](https://travelbans.org)
-- [Future Cell Phone](https://news.ycombinator.com/item?id=26989224)
-- [Safari 14.1 is completely unusable](https://discussions.apple.com/thread/252705424)
-- [Flutter Tips and Tricks](https://blog.snappymob.com/5-flutter-tips-and-tricks-worth-knowing)
+- [Show HN: Go client library for accessing the Paddle API](https://github.com/Fakerr/go-paddle)
+- [Basecamp Resignations](https://workflowy.com/s/basecamp-resignation/qrBBdTQydmTKLu0y)
+- [A Safer Curl – Bash?](https://blog.sigstore.dev/a-safer-curl-bash-7698c8125063)
+- [After freshman died drinking bottle of liquor in frat hazing, 8 men face charges](https://www.sfgate.com/news/article/An-Ohio-freshman-died-after-drinking-a-bottle-of-16141146.php)
+- [Alaska's first CSI takes on blood and burglaries in sub-zero weather](https://www.bbc.com/news/world-us-canada-56726020)
+- [Most Overengineered Link](https://twitter.com/rleggos/status/1388249856871960597)
+- [Venture Firms Bask in a Surge of Blockbuster Profits](https://www.wsj.com/articles/venture-firms-bask-in-a-surge-of-blockbuster-profits-11619608939)
+- [Math Professor Breaks Down How Long It Will Take MI to Become Fully Vaccinated](https://wbckfm.com/math-professor-breaks-down-how-long-it-will-take-michigan-to-become-fully-vaccinated-video/)
+- [Show HN: Stripe Sync Engine – Sync Stripe to Postgres](https://github.com/supabase/stripe-sync-engine)
+- [Trust Is Fragile (2012)](https://signalvnoise.com/posts/3078-trust-is-fragile)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

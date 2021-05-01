@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_2/loan_shark_1548.php" target="_blank"><i>loan shark</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/I/instafood_1298.php" target="_blank"><i>instafood</i></a>
 <span> = </span>
-<span>an unauthorised moneylender who charges very high interest rates</span>
+<span>food that can be prepared in 5 minutes or less<BR></span>
 </div>
 <!--views:slang-rss-marker:end-->
 

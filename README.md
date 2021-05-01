@@ -370,16 +370,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Podcast: iOS 14.5 brings App Tracking Transparency; Next Apple Silicon chip](https://www.computerworld.com/article/3616976/podcast-ios-145-brings-app-tracking-transparency-next-apple-silicon-chip.html#tk.rss_all)
-- [Apple confirms the hybrid workplace is here to stay](https://www.computerworld.com/article/3617077/apple-confirms-the-hybrid-workplace-is-here-to-stay.html#tk.rss_all)
-- [A highly sarcastic Android security warning](https://www.computerworld.com/article/3616703/android-security-warning.html#tk.rss_all)
-- [BrandPost: How Predictive Analytics Helps Minimize Device Downtime and Keep Users Productive](https://www.computerworld.com/article/3616972/how-predictive-analytics-helps-minimize-device-downtime-and-keep-users-productive.html#tk.rss_all)
-- [FAQ: What's Microsoft done to perpetual Office now?](https://www.computerworld.com/article/3617075/faq-whats-microsoft-done-to-perpetual-office-now.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [This beginner-friendly web development coding course is just $20 right now](https://www.computerworld.com/article/3616607/this-beginner-friendly-web-development-coding-course-is-just-20-right-now.html#tk.rss_all)
-- [Atlassian launches Jira Work Management, opening its Jira platform to all business teams](https://www.computerworld.com/article/3616832/atlassian-launches-jira-work-management-opening-its-jira-platform-to-all-business-teams.html#tk.rss_all)
-- [How long until Apple boots apps from its stores for privacy issues?](https://www.computerworld.com/article/3616831/how-long-until-apple-boots-apps-from-its-stores-for-privacy-issues.html#tk.rss_all)
-- [Microsoft patents biometric 'wellness insights' tool for workers](https://www.computerworld.com/article/3616677/microsoft-patents-biometric-wellness-insights-tool-for-workers.html#tk.rss_all)
+- [Apple’s big iPhone 12 deal with Delta shows a path to AR](https://www.computerworld.com/article/3616982/apples-big-iphone-12-deal-with-delta-shows-a-path-to-ar.html#tk.rss_all)
+- [The collective problems with videoconferencing](https://www.computerworld.com/article/3617079/the-collective-problems-with-videoconferencing.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [What to do when customers complain](https://www.computerworld.com/article/3616702/what-to-do-when-customers-complain.html#tk.rss_all)
+- [Handy Word keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3616471/handy-word-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
+- [Podcast: iOS 14.5 brings App Tracking Transparency; Next Apple Silicon chip](https://www.computerworld.com/article/3616976/podcast-ios-145-brings-app-tracking-transparency-next-apple-silicon-chip.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

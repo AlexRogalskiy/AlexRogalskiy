@@ -310,16 +310,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Xiaomi's New $60 Fitness Tracker Arrives in the U.S.](https://www.reviewgeek.com/80432/xiaomi-budget-fitness-tracker-goes-up-for-pre-order-in-the-us/)
-* [Sling TV Bets on DraftKings with New Baseball and Hockey Channels](https://www.reviewgeek.com/80440/sling-tv-bets-on-draftkings-with-new-baseball-and-hockey-channels/)
-* [[Update: Paused] PSA: The Latest Wyze Watch 44 Firmware Is Bricking Watches](https://www.reviewgeek.com/80434/psa-the-latest-wyze-watch-44-firmware-is-bricking-watches/)
-* [The Latest LEGO x Adidas Shoe Collab Pays Homage to Classic LEGO Colors](https://www.reviewgeek.com/80437/the-latest-lego-x-adidas-shoe-collab-pays-homage-to-classic-lego-colors/)
-* [This Extraordinary House Was 3D Printed from Raw Earth](https://www.reviewgeek.com/80424/this-extraordinary-house-was-3d-printed-from-raw-earth/)
-* [Zero Labs Turned an Old Rust Bucket Truck into an EV in Just 24 Hours](https://www.reviewgeek.com/80387/zero-labs-turned-an-old-rust-bucket-truck-into-an-ev-in-just-24-hours/)
-* [Don't Be a Wingding: Help Choose the New Default Font for Microsoft Office](https://www.reviewgeek.com/80375/dont-be-a-wingding-help-choose-the-new-default-font-for-microsoft-office/)
-* [Alexa Helped Saved a Woman's Life After Deadly Bee Stings](https://www.reviewgeek.com/80378/alexa-helped-saved-a-womans-life-after-deadly-bee-stings/)
-* [The 6 Best Apple AirTag Accessories](https://www.howtogeek.com/724536/best-apple-airtag-accessories/)
-* [How to Find, Add, and Remove Fonts in Google Docs](https://www.howtogeek.com/723870/how-to-find-add-and-remove-fonts-in-google-docs/)
+* [Hulu Live TV Finally Has Nickelodeon and Other ViacomCBS Channels](https://www.reviewgeek.com/80666/hulu-live-tv-finally-has-nickelodeon-and-other-viacomcbs-channels/)
+* [When Platforms Fight Over Access, Consumers are the Ones Who Lose](https://www.reviewgeek.com/80661/when-platforms-fight-over-access-consumers-are-the-ones-who-lose/)
+* [How to Set Up and Pair an Apple AirTag to iPhone or iPad](https://www.howtogeek.com/726085/how-to-set-up-and-pair-an-apple-airtag-to-iphone-or-ipad/)
+* [Forestal Debuts Four All-New Mountain and Urban eBikes Starting at Just $10k](https://www.reviewgeek.com/80636/forestal-debuts-four-all-new-mountain-and-urban-ebikes-starting-at-just-10k/)
+* [VMware Won't Support Windows 10 Emulation on Apple M1 Hardware](https://www.reviewgeek.com/80608/vmware-wont-support-windows-10-emulation-on-apple-m1-hardware/)
+* [Pre-Orders Are Now Live for Apple's New M1 iMac, iPad Pro, and Apple TV 4K](https://www.reviewgeek.com/80634/pre-orders-are-now-live-for-apples-new-m1-imac-ipad-pro-and-apple-tv-4k/)
+* [A Concept Camper for the Cybertruck Somehow Took $50 Million in Preorders](https://www.reviewgeek.com/80594/tesla-cybertruck-overland-camper-gets-50-million-in-pre-orders/)
+* [A Giant Plane That Can Launch Hypersonic Vehicles Just Completed Its Second Flight](https://www.reviewgeek.com/80597/a-giant-plane-that-can-launch-hypersonic-vehicles-just-completed-its-second-flight/)
+* [Save 15% on All Satechi Products During This Mother's Day Sale](https://www.reviewgeek.com/80581/save-15-on-all-satechi-products-during-this-mothers-day-sale/)
+* [How to Make Microsoft Edge the Default Browser on iPhone or iPad](https://www.howtogeek.com/714260/how-to-make-microsoft-edge-the-default-browser-on-iphone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

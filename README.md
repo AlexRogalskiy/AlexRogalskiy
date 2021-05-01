@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/step_up_2315.php" target="_blank"><i>step up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/B/beef_up_1921.php" target="_blank"><i>beef up</i></a>
 <span> = </span>
-<span>to increase the level or strength of something</span>
+<span>to make something stronger or more powerful</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

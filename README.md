@@ -355,16 +355,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
-- [Avoiding Leetcode Anxiety](https://leetcodetherapy.com/leetcode-anxiety)
-- [We Built Our Own DNS Infrastructure](https://blog.replit.com/dns)
-- [Lambda School lays off 65 employees](https://lambdaschool.com/the-commons/update-lambda-school-team)
-- [Shipping containers are falling overboard at a rapid rate](https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate)
-- [The story BCG offered me $16,000 not to tell (2010)](https://thetech.com/2010/04/09/dubai-v130-n18)
-- [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.com/careers)
-- [Write Gitlab CI Pipelines in Python Code](https://gitlab.com/dbsystel/gitlab-ci-python-library)
-- [QNAP ships NAS backup software with hidden credentials](https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325)
+- [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
+- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
+- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
+- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
+- [Making Generative Art with Rust](https://blog.abor.dev/p/making-generative-art-with-rust)
+- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
+- [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
+- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

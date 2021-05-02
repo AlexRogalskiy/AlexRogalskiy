@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/649913319185170432" target="_blank"><i>Oranges</i></a></summary>
-<p>by Jean Little</p><p>I peel oranges neatly.<br/>The sections come apart cleanly, perfectly in my hands.</p><p>When Emily peels an orange, she tears holes in it.<br/>Juice squirts in all directions.</p><p>“Kate,” she says, “I don’t know how you do it!”</p><p>Emily is my best friend.<br/>I hope she never learns how to peel oranges.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/650003904240795648" target="_blank"><i>To Be in Love</i></a></summary>
+<p>by Gwendolyn Brooks</p><p>To be in love<br/>Is to touch things with a lighter hand.<br/><br/>In yourself you stretch, you are well.<br/><br/>You look at things<br/>Through his eyes.<br/>     A cardinal is red.<br/>     A sky is blue.<br/>Suddenly you know he knows too.<br/>He is not there but <br/>You know you are tasting together<br/>The winter, or light spring weather.<br/><br/>His hand to take your hand is overmuch.<br/>Too much to bear.<br/><br/>You cannot look in his eyes<br/>Because your pulse must not say<br/>What must not be said.<br/><br/>When he <br/>Shuts a door—<br/><br/>Is not there—<br/>Your arms are water.<br/><br/>And you are free <br/>With a ghastly freedom.<br/><br/>You are the beautiful half<br/>Of a golden hurt.<br/><br/>You remember and covet his mouth,<br/>To touch, to whisper on.<br/><br/>Oh when to declare<br/>Is certain Death!<br/><br/>Oh when to apprize,<br/>Is to mesmerize,<br/><br/>To see fall down, the Column of Gold,<br/>Into the commonest ash.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

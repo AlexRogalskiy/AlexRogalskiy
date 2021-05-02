@@ -400,7 +400,7 @@
 - [Public sector organisations ‘in the dark’ about where their data is, suggests UKCloud survey](https://www.computerweekly.com/news/252499988/Public-sector-organisations-in-the-dark-about-where-their-data-is-suggests-UKCloud-survey)
 - [G7 countries to cooperate on digital regulation](https://www.computerweekly.com/news/252499990/G7-countries-to-cooperate-on-digital-regulation)
 - [Impact of low chip supply spreads](https://www.computerweekly.com/news/252499981/Impact-of-low-chip-supply-spreads)
-- [Northern Ireland pilots security training plan for 16-25s](https://www.computerweekly.com/news/252499972/Northern-Ireland-pilots-security-training-plan-for-16-25s)
+- [Walt Disney Company confirms AWS as preferred cloud partner for Disney+ streaming service](https://www.computerweekly.com/news/252499973/Walt-Disney-Company-confirms-AWS-as-preferred-cloud-partner-for-Disney-streaming-service)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

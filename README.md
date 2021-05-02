@@ -428,9 +428,9 @@
 - [Cyber Security Today, April 30, 2021 – A Linux alert, negligent executives and another warning to QNAP users](https://www.itworldcanada.com/article/cyber-security-today-april-30-2021-a-linux-alert-negligent-executives-and-another-warning-to-qnap-users/446739)
 - [Hashtag Trending, April 30, 2021 – Netflix picks Toronto, Facebook’s Q1 earnings; Oracle exec suspended on Twitter](https://www.itworldcanada.com/article/hashtag-trending-april-30-2021-netflix-picks-toronto-facebooks-q1-earnings-oracle-exec-suspended-on-twitter/446749)
 - [Task force calls for international action against ransomware](https://www.itworldcanada.com/article/task-force-calls-for-international-action-against-ransomware/446710)
+- [Do you have Top Gun training in your organization?](https://www.itworldcanada.com/article/do-you-have-top-gun-training-in-your-organization/446844)
 - [Researchers say due to under-reporting, true ransomware figures could be four times as high](https://www.itworldcanada.com/article/researchers-says-due-to-under-reporting-true-ransomware-figures-could-be-four-times-as-high/446701)
 - [Hashtag Trending, April 29, 2021 – BC software firm achieves unicorn status; Shopify’s monster numbers; Vaccine Hunters partners with TO](https://www.itworldcanada.com/article/hashtag-trending-april-29-2021-bc-software-firm-achieves-unicorn-status-shopifys-monster-numbers-vaccine-hunters-partners-with-to/446705)
-- [Two Canadian banks could pay up to $23 million to settle lawsuits in 2018 hacks](https://www.itworldcanada.com/article/two-canadian-banks-could-pay-up-to-23-million-to-settle-lawsuits-in-2018-hacks/446673)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

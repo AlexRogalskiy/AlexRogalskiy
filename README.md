@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan: At least 21 killed in blast as US prepares to withdraw troops](https://www.theguardian.com/world/2021/may/01/afghanistan-killed-bomb-blast-us-prepares-to-withdraw-troops)
-- [Covid crisis: Australians trying to return home from India face up to $66,000 fine or five years’ jail](https://www.theguardian.com/australia-news/2021/apr/30/australian-government-may-make-it-a-for-citizens-to-return-from-covid-ravaged-countries)
-- [Grammy organisers to end ‘secret’ nomination committees after rigging allegations](https://www.theguardian.com/music/2021/may/01/grammy-organisers-to-end-secret-nomination-committees-after-rigging-allegations)
-- [Maradona care ‘deficient and reckless’ before death, medical board report finds](https://www.theguardian.com/football/2021/may/01/football-diego-maradona-death-medical-report)
-- [Selby warned over slow play as Bingham edges ahead in Crucible semi-final](https://www.theguardian.com/sport/2021/apr/30/shaun-murphy-rallies-against-kyren-wilson-in-semi-final-world-snooker-championship)
-- [Ian Nepomniachtchi will not be able to play next to Russia flag against Carlsen](https://www.theguardian.com/sport/2021/apr/30/magnus-carlsen-responds-to-ian-nepomniachtchi-challenge-with-26-game-unbeaten-run-chess)
-- [Covid rule that ‘turned care homes into prisons’ to be scrapped](https://www.theguardian.com/world/2021/may/01/covid-rule-that-turned-care-homes-into-prisons-to-be-scrapped)
-- [Wallasey in Merseyside tops list of British property hotspots](https://www.theguardian.com/money/2021/may/01/wallasey-merseyside-british-property-hotspots-rightmove)
-- [UK’s south Asian communities worst-hit in Covid second wave, study finds](https://www.theguardian.com/world/2021/apr/30/uks-south-asian-communities-worst-hit-in-covid-second-wave-study-finds)
-- [Police officer dismissed for hitting vulnerable girl ‘more than 30 times’ with baton](https://www.theguardian.com/uk-news/2021/apr/30/police-officer-dismissed-for-repeatedly-hitting-vulnerable-teenager-with-baton)
+- [Warren Buffett says online trading platforms encourage ‘gambling impulse’](https://www.theguardian.com/business/2021/may/02/warren-buffett-says-online-trading-platforms-encourage-gambling-impulse)
+- [North Korea dismisses nuclear talks with US, says Biden’s approach ‘intolerable’](https://www.theguardian.com/world/2021/may/02/north-korea-dismisses-nuclear-talks-with-us-says-bidens-approach-intolerable)
+- [Derek Chisora calls split decision ‘unbelievable’ after Joseph Parker wins](https://www.theguardian.com/sport/2021/may/02/derek-chisora-calls-split-decision-unbelievable-after-joseph-parker-wins)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Mark Selby accused of gamesmanship but faces Shaun Murphy in final](https://www.theguardian.com/sport/2021/may/01/world-snooker-championship-semi-finals)
+- [Out with a bang: joyful looks from British designers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/out-with-a-bang-joyful-looks-from-british-designers-in-pictures)
+- [Karen Carney reveals abuse on social media led her to suicidal thoughts](https://www.theguardian.com/football/2021/may/01/karen-carney-reveals-abuse-on-social-media-led-her-to-suicidal-thoughts)
+- [Jürgen Klopp’s fallen Premier League kings have five games to save season](https://www.theguardian.com/football/2021/may/01/liverpool-jurgen-klopp-fallen-premier-league-kings-five-games-to-save-season-manchester-united-jurgen-klopp)
+- [Hayes dreams of women’s and men’s Champions League double for Chelsea](https://www.theguardian.com/football/2021/may/01/emma-hayes-womens-and-mens-champions-league-double-chelsea)
+- [Oscar-winning actor Olympia Dukakis, star of Moonstruck, dies aged 89](https://www.theguardian.com/film/2021/may/01/olympia-dukakis-dies-89-moonstruck-oscar-winner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hulu Live TV Finally Has Nickelodeon and Other ViacomCBS Channels](https://www.reviewgeek.com/80666/hulu-live-tv-finally-has-nickelodeon-and-other-viacomcbs-channels/)
-* [When Platforms Fight Over Access, Consumers are the Ones Who Lose](https://www.reviewgeek.com/80661/when-platforms-fight-over-access-consumers-are-the-ones-who-lose/)
-* [How to Set Up and Pair an Apple AirTag to iPhone or iPad](https://www.howtogeek.com/726085/how-to-set-up-and-pair-an-apple-airtag-to-iphone-or-ipad/)
-* [Forestal Debuts Four All-New Mountain and Urban eBikes Starting at Just $10k](https://www.reviewgeek.com/80636/forestal-debuts-four-all-new-mountain-and-urban-ebikes-starting-at-just-10k/)
-* [VMware Won't Support Windows 10 Emulation on Apple M1 Hardware](https://www.reviewgeek.com/80608/vmware-wont-support-windows-10-emulation-on-apple-m1-hardware/)
-* [Pre-Orders Are Now Live for Apple's New M1 iMac, iPad Pro, and Apple TV 4K](https://www.reviewgeek.com/80634/pre-orders-are-now-live-for-apples-new-m1-imac-ipad-pro-and-apple-tv-4k/)
-* [A Concept Camper for the Cybertruck Somehow Took $50 Million in Preorders](https://www.reviewgeek.com/80594/tesla-cybertruck-overland-camper-gets-50-million-in-pre-orders/)
-* [A Giant Plane That Can Launch Hypersonic Vehicles Just Completed Its Second Flight](https://www.reviewgeek.com/80597/a-giant-plane-that-can-launch-hypersonic-vehicles-just-completed-its-second-flight/)
-* [Save 15% on All Satechi Products During This Mother's Day Sale](https://www.reviewgeek.com/80581/save-15-on-all-satechi-products-during-this-mothers-day-sale/)
-* [How to Make Microsoft Edge the Default Browser on iPhone or iPad](https://www.howtogeek.com/714260/how-to-make-microsoft-edge-the-default-browser-on-iphone/)
+* [Archeologists Found 110 Ancient Egyptian Tombs Spanning 3 Historic Eras](https://www.reviewgeek.com/80735/archeologists-found-110-ancient-egyptian-tombs-spanning-3-historic-eras/)
+* [This Modder Stuck a Wii Into a GameBoy Advance SP](https://www.reviewgeek.com/80694/this-modder-stuck-a-wii-into-a-gameboy-advance-sp/)
+* [Samsung's SmartTag+ Bluetooth Tracker Arrives in the U.S.](https://www.reviewgeek.com/80732/samsungs-smarttag-bluetooth-tracker-arrives-in-the-u-s/)
+* [How to Set up Do Not Disturb on Google Pixel Phones](https://www.howtogeek.com/687005/how-to-set-up-do-not-disturb-on-google-pixel-phones/)
+* [Good News: SpaceX Capsule Wasn't On a Collision Course with a UFO](https://www.reviewgeek.com/80645/good-news-spacex-capsule-wasnt-on-a-collision-course-with-a-ufo/)
+* [How to Turn off Photoshop’s Large Animated Tooltips](https://www.howtogeek.com/722958/how-to-turn-off-photoshops-large-animated-tooltips/)
+* [How to Switch to an Instagram Business Account](https://www.howtogeek.com/723626/how-to-switch-to-an-instagram-business-account/)
+* [How to Use a HomePod as the Default Speaker for Your Apple TV](https://www.howtogeek.com/719690/how-to-use-a-homepod-as-the-default-speaker-for-your-apple-tv/)
+* [What Does “Adopting Apps” Mean on a Mac?](https://www.howtogeek.com/720242/what-does-adopting-apps-mean-on-a-mac/)
+* [How to Set up Two-Factor Authentication in 1Password](https://www.howtogeek.com/723845/how-to-set-up-two-factor-authentication-in-1password/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

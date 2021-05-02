@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Go client library for accessing the Paddle API](https://github.com/Fakerr/go-paddle)
-- [Basecamp Resignations](https://workflowy.com/s/basecamp-resignation/qrBBdTQydmTKLu0y)
-- [A Safer Curl – Bash?](https://blog.sigstore.dev/a-safer-curl-bash-7698c8125063)
-- [After freshman died drinking bottle of liquor in frat hazing, 8 men face charges](https://www.sfgate.com/news/article/An-Ohio-freshman-died-after-drinking-a-bottle-of-16141146.php)
-- [Alaska's first CSI takes on blood and burglaries in sub-zero weather](https://www.bbc.com/news/world-us-canada-56726020)
-- [Most Overengineered Link](https://twitter.com/rleggos/status/1388249856871960597)
-- [Venture Firms Bask in a Surge of Blockbuster Profits](https://www.wsj.com/articles/venture-firms-bask-in-a-surge-of-blockbuster-profits-11619608939)
-- [Math Professor Breaks Down How Long It Will Take MI to Become Fully Vaccinated](https://wbckfm.com/math-professor-breaks-down-how-long-it-will-take-michigan-to-become-fully-vaccinated-video/)
-- [Show HN: Stripe Sync Engine – Sync Stripe to Postgres](https://github.com/supabase/stripe-sync-engine)
-- [Trust Is Fragile (2012)](https://signalvnoise.com/posts/3078-trust-is-fragile)
+- [Higher education won't help preserve the aging brain, study says](https://medicalxpress.com/news/2021-04-higher-brain-ages.html)
+- [Humble Bundle sues Steam over alleged monopoly practices](https://www.theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple)
+- [Semiconductor chip shortage is now hitting sex toys](https://www.independent.co.uk/news/world/americas/semiconductor-chip-shortage-sex-toys-b1840421.html)
+- [Raspberry Pi floppy controller board](http://dangerousprototypes.com/blog/2021/04/28/raspberry-pi-floppy-controller-board/)
+- [Invincible: Robert Kirkman Discusses Season 2 and Beyond – Den of Geek](https://www.denofgeek.com/tv/invincible-season-2-news-robert-kirkman/)
+- [Chinese Tesla Owners Are Installing Brake Cameras in Their Cars](https://insideevs.com/news/504434/chinese-tesla-owners-filming-brakes/)
+- [It Was John Glenn Who Popularized the Word “Glitch”](https://www.airspacemag.com/airspacemag/just-right-word-180973113/)
+- [Hitler Made a Mistake with Selenium](https://www.youtube.com/watch?v=x-xMxYTvUYY)
+- [Andrew Yang describes himself as serial entrepreneur, but](https://www.politico.com/states/new-york/city-hall/story/2021/05/01/yang-describes-himself-as-serial-entrepreneur-but-he-often-worked-for-someone-else-1379608)
+- [Novels and Novellas and Tomes, Oh My](https://countercraft.substack.com/p/novels-and-novellas-and-tomes-oh)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

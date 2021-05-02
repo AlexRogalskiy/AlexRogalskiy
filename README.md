@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/I/instafood_1298.php" target="_blank"><i>instafood</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_1/fart_1032.php" target="_blank"><i>fart</i></a>
 <span> = </span>
-<span>food that can be prepared in 5 minutes or less<BR></span>
+<span>to release gas from the anus (v.) | a release of gas from the anus (n.)</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

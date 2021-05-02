@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>light rain</i>), humidity: 75%, pressure: 1014 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
+        <b>2°C (<i>light rain</i>), humidity: 75%, pressure: 1015 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:54 am</b> and sets at <b>20:57 pm</b>.
     </p>
@@ -286,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hulu Live TV Finally Has Nickelodeon and Other ViacomCBS Channels](https://www.reviewgeek.com/80666/hulu-live-tv-finally-has-nickelodeon-and-other-viacomcbs-channels/)
-* [When Platforms Fight Over Access, Consumers are the Ones Who Lose](https://www.reviewgeek.com/80661/when-platforms-fight-over-access-consumers-are-the-ones-who-lose/)
-* [How to Set Up and Pair an Apple AirTag to iPhone or iPad](https://www.howtogeek.com/726085/how-to-set-up-and-pair-an-apple-airtag-to-iphone-or-ipad/)
-* [Forestal Debuts Four All-New Mountain and Urban eBikes Starting at Just $10k](https://www.reviewgeek.com/80636/forestal-debuts-four-all-new-mountain-and-urban-ebikes-starting-at-just-10k/)
-* [VMware Won't Support Windows 10 Emulation on Apple M1 Hardware](https://www.reviewgeek.com/80608/vmware-wont-support-windows-10-emulation-on-apple-m1-hardware/)
-* [Pre-Orders Are Now Live for Apple's New M1 iMac, iPad Pro, and Apple TV 4K](https://www.reviewgeek.com/80634/pre-orders-are-now-live-for-apples-new-m1-imac-ipad-pro-and-apple-tv-4k/)
-* [A Concept Camper for the Cybertruck Somehow Took $50 Million in Preorders](https://www.reviewgeek.com/80594/tesla-cybertruck-overland-camper-gets-50-million-in-pre-orders/)
-* [A Giant Plane That Can Launch Hypersonic Vehicles Just Completed Its Second Flight](https://www.reviewgeek.com/80597/a-giant-plane-that-can-launch-hypersonic-vehicles-just-completed-its-second-flight/)
-* [Save 15% on All Satechi Products During This Mother's Day Sale](https://www.reviewgeek.com/80581/save-15-on-all-satechi-products-during-this-mothers-day-sale/)
-* [How to Make Microsoft Edge the Default Browser on iPhone or iPad](https://www.howtogeek.com/714260/how-to-make-microsoft-edge-the-default-browser-on-iphone/)
+* [Archeologists Found 110 Ancient Egyptian Tombs Spanning 3 Historic Eras](https://www.reviewgeek.com/80735/archeologists-found-110-ancient-egyptian-tombs-spanning-3-historic-eras/)
+* [This Modder Stuck a Wii Into a GameBoy Advance SP](https://www.reviewgeek.com/80694/this-modder-stuck-a-wii-into-a-gameboy-advance-sp/)
+* [Samsung's SmartTag+ Bluetooth Tracker Arrives in the U.S.](https://www.reviewgeek.com/80732/samsungs-smarttag-bluetooth-tracker-arrives-in-the-u-s/)
+* [How to Set up Do Not Disturb on Google Pixel Phones](https://www.howtogeek.com/687005/how-to-set-up-do-not-disturb-on-google-pixel-phones/)
+* [Good News: SpaceX Capsule Wasn't On a Collision Course with a UFO](https://www.reviewgeek.com/80645/good-news-spacex-capsule-wasnt-on-a-collision-course-with-a-ufo/)
+* [How to Turn off Photoshop’s Large Animated Tooltips](https://www.howtogeek.com/722958/how-to-turn-off-photoshops-large-animated-tooltips/)
+* [How to Switch to an Instagram Business Account](https://www.howtogeek.com/723626/how-to-switch-to-an-instagram-business-account/)
+* [How to Use a HomePod as the Default Speaker for Your Apple TV](https://www.howtogeek.com/719690/how-to-use-a-homepod-as-the-default-speaker-for-your-apple-tv/)
+* [What Does “Adopting Apps” Mean on a Mac?](https://www.howtogeek.com/720242/what-does-adopting-apps-mean-on-a-mac/)
+* [How to Set up Two-Factor Authentication in 1Password](https://www.howtogeek.com/723845/how-to-set-up-two-factor-authentication-in-1password/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Go client library for accessing the Paddle API](https://github.com/Fakerr/go-paddle)
-- [Basecamp Resignations](https://workflowy.com/s/basecamp-resignation/qrBBdTQydmTKLu0y)
-- [A Safer Curl – Bash?](https://blog.sigstore.dev/a-safer-curl-bash-7698c8125063)
-- [After freshman died drinking bottle of liquor in frat hazing, 8 men face charges](https://www.sfgate.com/news/article/An-Ohio-freshman-died-after-drinking-a-bottle-of-16141146.php)
-- [Alaska's first CSI takes on blood and burglaries in sub-zero weather](https://www.bbc.com/news/world-us-canada-56726020)
-- [Most Overengineered Link](https://twitter.com/rleggos/status/1388249856871960597)
-- [Venture Firms Bask in a Surge of Blockbuster Profits](https://www.wsj.com/articles/venture-firms-bask-in-a-surge-of-blockbuster-profits-11619608939)
-- [Math Professor Breaks Down How Long It Will Take MI to Become Fully Vaccinated](https://wbckfm.com/math-professor-breaks-down-how-long-it-will-take-michigan-to-become-fully-vaccinated-video/)
-- [Show HN: Stripe Sync Engine – Sync Stripe to Postgres](https://github.com/supabase/stripe-sync-engine)
-- [Trust Is Fragile (2012)](https://signalvnoise.com/posts/3078-trust-is-fragile)
+- [Higher education won't help preserve the aging brain, study says](https://medicalxpress.com/news/2021-04-higher-brain-ages.html)
+- [Humble Bundle sues Steam over alleged monopoly practices](https://www.theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple)
+- [Semiconductor chip shortage is now hitting sex toys](https://www.independent.co.uk/news/world/americas/semiconductor-chip-shortage-sex-toys-b1840421.html)
+- [Raspberry Pi floppy controller board](http://dangerousprototypes.com/blog/2021/04/28/raspberry-pi-floppy-controller-board/)
+- [Invincible: Robert Kirkman Discusses Season 2 and Beyond – Den of Geek](https://www.denofgeek.com/tv/invincible-season-2-news-robert-kirkman/)
+- [Chinese Tesla Owners Are Installing Brake Cameras in Their Cars](https://insideevs.com/news/504434/chinese-tesla-owners-filming-brakes/)
+- [It Was John Glenn Who Popularized the Word “Glitch”](https://www.airspacemag.com/airspacemag/just-right-word-180973113/)
+- [Hitler Made a Mistake with Selenium](https://www.youtube.com/watch?v=x-xMxYTvUYY)
+- [Andrew Yang describes himself as serial entrepreneur, but](https://www.politico.com/states/new-york/city-hall/story/2021/05/01/yang-describes-himself-as-serial-entrepreneur-but-he-often-worked-for-someone-else-1379608)
+- [Novels and Novellas and Tomes, Oh My](https://countercraft.substack.com/p/novels-and-novellas-and-tomes-oh)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan: At least 21 killed in blast as US prepares to withdraw troops](https://www.theguardian.com/world/2021/may/01/afghanistan-killed-bomb-blast-us-prepares-to-withdraw-troops)
-- [Covid crisis: Australians trying to return home from India face up to $66,000 fine or five years’ jail](https://www.theguardian.com/australia-news/2021/apr/30/australian-government-may-make-it-a-for-citizens-to-return-from-covid-ravaged-countries)
-- [Grammy organisers to end ‘secret’ nomination committees after rigging allegations](https://www.theguardian.com/music/2021/may/01/grammy-organisers-to-end-secret-nomination-committees-after-rigging-allegations)
-- [Maradona care ‘deficient and reckless’ before death, medical board report finds](https://www.theguardian.com/football/2021/may/01/football-diego-maradona-death-medical-report)
-- [Selby warned over slow play as Bingham edges ahead in Crucible semi-final](https://www.theguardian.com/sport/2021/apr/30/shaun-murphy-rallies-against-kyren-wilson-in-semi-final-world-snooker-championship)
-- [Ian Nepomniachtchi will not be able to play next to Russia flag against Carlsen](https://www.theguardian.com/sport/2021/apr/30/magnus-carlsen-responds-to-ian-nepomniachtchi-challenge-with-26-game-unbeaten-run-chess)
-- [Covid rule that ‘turned care homes into prisons’ to be scrapped](https://www.theguardian.com/world/2021/may/01/covid-rule-that-turned-care-homes-into-prisons-to-be-scrapped)
-- [Wallasey in Merseyside tops list of British property hotspots](https://www.theguardian.com/money/2021/may/01/wallasey-merseyside-british-property-hotspots-rightmove)
-- [UK’s south Asian communities worst-hit in Covid second wave, study finds](https://www.theguardian.com/world/2021/apr/30/uks-south-asian-communities-worst-hit-in-covid-second-wave-study-finds)
-- [Police officer dismissed for hitting vulnerable girl ‘more than 30 times’ with baton](https://www.theguardian.com/uk-news/2021/apr/30/police-officer-dismissed-for-repeatedly-hitting-vulnerable-teenager-with-baton)
+- [Warren Buffett says online trading platforms encourage ‘gambling impulse’](https://www.theguardian.com/business/2021/may/02/warren-buffett-says-online-trading-platforms-encourage-gambling-impulse)
+- [North Korea dismisses nuclear talks with US, says Biden’s approach ‘intolerable’](https://www.theguardian.com/world/2021/may/02/north-korea-dismisses-nuclear-talks-with-us-says-bidens-approach-intolerable)
+- [Derek Chisora calls split decision ‘unbelievable’ after Joseph Parker wins](https://www.theguardian.com/sport/2021/may/02/derek-chisora-calls-split-decision-unbelievable-after-joseph-parker-wins)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Mark Selby accused of gamesmanship but faces Shaun Murphy in final](https://www.theguardian.com/sport/2021/may/01/world-snooker-championship-semi-finals)
+- [Out with a bang: joyful looks from British designers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/out-with-a-bang-joyful-looks-from-british-designers-in-pictures)
+- [Karen Carney reveals abuse on social media led her to suicidal thoughts](https://www.theguardian.com/football/2021/may/01/karen-carney-reveals-abuse-on-social-media-led-her-to-suicidal-thoughts)
+- [Jürgen Klopp’s fallen Premier League kings have five games to save season](https://www.theguardian.com/football/2021/may/01/liverpool-jurgen-klopp-fallen-premier-league-kings-five-games-to-save-season-manchester-united-jurgen-klopp)
+- [Hayes dreams of women’s and men’s Champions League double for Chelsea](https://www.theguardian.com/football/2021/may/01/emma-hayes-womens-and-mens-champions-league-double-chelsea)
+- [Oscar-winning actor Olympia Dukakis, star of Moonstruck, dies aged 89](https://www.theguardian.com/film/2021/may/01/olympia-dukakis-dies-89-moonstruck-oscar-winner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
-- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
-- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
-- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
-- [Making Generative Art with Rust](https://blog.abor.dev/p/making-generative-art-with-rust)
-- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
-- [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
-- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
-- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
+- [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
+- [Using libgccjit to make Emacs 2.3x to 42x faster [pdf]](https://arxiv.org/abs/2004.02504)
+- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
+- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
+- [Elevator Sabbath service mode (SHO)](https://elevation.fandom.com/wiki/Sabbath_service_(SHO))
+- [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
+- [Google I|O 2021 and Uncomfortable Questions](https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html)
+- [Mars Ingenuity helicopter mission extended by NASA](https://www.bbc.com/news/science-environment-56951752)
+- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
+- [The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -400,22 +400,22 @@
 - [Public sector organisations ‘in the dark’ about where their data is, suggests UKCloud survey](https://www.computerweekly.com/news/252499988/Public-sector-organisations-in-the-dark-about-where-their-data-is-suggests-UKCloud-survey)
 - [G7 countries to cooperate on digital regulation](https://www.computerweekly.com/news/252499990/G7-countries-to-cooperate-on-digital-regulation)
 - [Impact of low chip supply spreads](https://www.computerweekly.com/news/252499981/Impact-of-low-chip-supply-spreads)
-- [Northern Ireland pilots security training plan for 16-25s](https://www.computerweekly.com/news/252499972/Northern-Ireland-pilots-security-training-plan-for-16-25s)
+- [Walt Disney Company confirms AWS as preferred cloud partner for Disney+ streaming service](https://www.computerweekly.com/news/252499973/Walt-Disney-Company-confirms-AWS-as-preferred-cloud-partner-for-Disney-streaming-service)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
+- [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
+- [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
+- [Chipset pcie 3.0 bottlenecking GPU DMI (4.0) interface?](https://www.reddit.com/r/InformationTechnology/comments/n2dx6r/chipset_pcie_30_bottlenecking_gpu_dmi_40_interface/)
+- [AMD X570 (Bixby) Chipset pcie lane question](https://www.reddit.com/r/InformationTechnology/comments/n2ceqf/amd_x570_bixby_chipset_pcie_lane_question/)
+- [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
 - [What damage can be done with an elevated Notepad.exe?](https://www.reddit.com/r/InformationTechnology/comments/n20zg3/what_damage_can_be_done_with_an_elevated/)
 - [Outlook SLA Plugin](https://www.reddit.com/r/InformationTechnology/comments/n1xeet/outlook_sla_plugin/)
 - [What type of job can I get with A+ and Network+ without experience?](https://www.reddit.com/r/InformationTechnology/comments/n1nzo6/what_type_of_job_can_i_get_with_a_and_network/)
 - [Studying Information Technology (Need Help)](https://www.reddit.com/r/InformationTechnology/comments/n1kbia/studying_information_technology_need_help/)
-- [Delegated Administration Question](https://www.reddit.com/r/InformationTechnology/comments/n1iu3l/delegated_administration_question/)
-- [How to show real qualitative earnings?](https://www.reddit.com/r/InformationTechnology/comments/n1h9si/how_to_show_real_qualitative_earnings/)
-- [Integration third party applications](https://www.reddit.com/r/InformationTechnology/comments/n16dug/integration_third_party_applications/)
-- [Help a Student! IoT survey](https://www.reddit.com/r/InformationTechnology/comments/n10zc4/help_a_student_iot_survey/)
-- [Job search](https://www.reddit.com/r/InformationTechnology/comments/n0ggwq/job_search/)
-- [Just passed my first interview, a few questions](https://www.reddit.com/r/InformationTechnology/comments/n0g91h/just_passed_my_first_interview_a_few_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
@@ -428,9 +428,9 @@
 - [Cyber Security Today, April 30, 2021 – A Linux alert, negligent executives and another warning to QNAP users](https://www.itworldcanada.com/article/cyber-security-today-april-30-2021-a-linux-alert-negligent-executives-and-another-warning-to-qnap-users/446739)
 - [Hashtag Trending, April 30, 2021 – Netflix picks Toronto, Facebook’s Q1 earnings; Oracle exec suspended on Twitter](https://www.itworldcanada.com/article/hashtag-trending-april-30-2021-netflix-picks-toronto-facebooks-q1-earnings-oracle-exec-suspended-on-twitter/446749)
 - [Task force calls for international action against ransomware](https://www.itworldcanada.com/article/task-force-calls-for-international-action-against-ransomware/446710)
+- [Do you have Top Gun training in your organization?](https://www.itworldcanada.com/article/do-you-have-top-gun-training-in-your-organization/446844)
 - [Researchers say due to under-reporting, true ransomware figures could be four times as high](https://www.itworldcanada.com/article/researchers-says-due-to-under-reporting-true-ransomware-figures-could-be-four-times-as-high/446701)
 - [Hashtag Trending, April 29, 2021 – BC software firm achieves unicorn status; Shopify’s monster numbers; Vaccine Hunters partners with TO](https://www.itworldcanada.com/article/hashtag-trending-april-29-2021-bc-software-firm-achieves-unicorn-status-shopifys-monster-numbers-vaccine-hunters-partners-with-to/446705)
-- [Two Canadian banks could pay up to $23 million to settle lawsuits in 2018 hacks](https://www.itworldcanada.com/article/two-canadian-banks-could-pay-up-to-23-million-to-settle-lawsuits-in-2018-hacks/446673)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

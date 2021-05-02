@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Religion/God_moves_in_a_mysterious_way_914.php" target="_blank"><i>God moves in a mysterious way</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Many_a_true_word_is_spoken_in_jest_951.php" target="_blank"><i>Many a true word is spoken in jest</i></a>
 <span> = </span>
-<span>The implication is that God's plan is beyond human understanding. God has a reason for everything, however strange it may seem to us.</span>
+<span>Something said as a joke may often contain wisdom and truth.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

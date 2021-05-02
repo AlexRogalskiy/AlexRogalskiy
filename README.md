@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
+- [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
+- [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
+- [Chipset pcie 3.0 bottlenecking GPU DMI (4.0) interface?](https://www.reddit.com/r/InformationTechnology/comments/n2dx6r/chipset_pcie_30_bottlenecking_gpu_dmi_40_interface/)
+- [AMD X570 (Bixby) Chipset pcie lane question](https://www.reddit.com/r/InformationTechnology/comments/n2ceqf/amd_x570_bixby_chipset_pcie_lane_question/)
+- [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
 - [What damage can be done with an elevated Notepad.exe?](https://www.reddit.com/r/InformationTechnology/comments/n20zg3/what_damage_can_be_done_with_an_elevated/)
 - [Outlook SLA Plugin](https://www.reddit.com/r/InformationTechnology/comments/n1xeet/outlook_sla_plugin/)
 - [What type of job can I get with A+ and Network+ without experience?](https://www.reddit.com/r/InformationTechnology/comments/n1nzo6/what_type_of_job_can_i_get_with_a_and_network/)
 - [Studying Information Technology (Need Help)](https://www.reddit.com/r/InformationTechnology/comments/n1kbia/studying_information_technology_need_help/)
-- [Delegated Administration Question](https://www.reddit.com/r/InformationTechnology/comments/n1iu3l/delegated_administration_question/)
-- [How to show real qualitative earnings?](https://www.reddit.com/r/InformationTechnology/comments/n1h9si/how_to_show_real_qualitative_earnings/)
-- [Integration third party applications](https://www.reddit.com/r/InformationTechnology/comments/n16dug/integration_third_party_applications/)
-- [Help a Student! IoT survey](https://www.reddit.com/r/InformationTechnology/comments/n10zc4/help_a_student_iot_survey/)
-- [Job search](https://www.reddit.com/r/InformationTechnology/comments/n0ggwq/job_search/)
-- [Just passed my first interview, a few questions](https://www.reddit.com/r/InformationTechnology/comments/n0g91h/just_passed_my_first_interview_a_few_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

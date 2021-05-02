@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
-- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
-- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
-- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
-- [Making Generative Art with Rust](https://blog.abor.dev/p/making-generative-art-with-rust)
-- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
-- [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
-- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
-- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
+- [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
+- [Using libgccjit to make Emacs 2.3x to 42x faster [pdf]](https://arxiv.org/abs/2004.02504)
+- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
+- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
+- [Elevator Sabbath service mode (SHO)](https://elevation.fandom.com/wiki/Sabbath_service_(SHO))
+- [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
+- [Google I|O 2021 and Uncomfortable Questions](https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html)
+- [Mars Ingenuity helicopter mission extended by NASA](https://www.bbc.com/news/science-environment-56951752)
+- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
+- [The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

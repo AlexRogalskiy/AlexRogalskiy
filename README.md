@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
+- [Remote entry level IT jobs?](https://www.reddit.com/r/InformationTechnology/comments/n35cd8/remote_entry_level_it_jobs/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
 - [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
@@ -414,8 +416,6 @@
 - [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
 - [What damage can be done with an elevated Notepad.exe?](https://www.reddit.com/r/InformationTechnology/comments/n20zg3/what_damage_can_be_done_with_an_elevated/)
 - [Outlook SLA Plugin](https://www.reddit.com/r/InformationTechnology/comments/n1xeet/outlook_sla_plugin/)
-- [What type of job can I get with A+ and Network+ without experience?](https://www.reddit.com/r/InformationTechnology/comments/n1nzo6/what_type_of_job_can_i_get_with_a_and_network/)
-- [Studying Information Technology (Need Help)](https://www.reddit.com/r/InformationTechnology/comments/n1kbia/studying_information_technology_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

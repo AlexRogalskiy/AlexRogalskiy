@@ -241,8 +241,17 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650003904240795648" target="_blank"><i>To Be in Love</i></a></summary>
-<p>by Gwendolyn Brooks</p><p>To be in love<br/>Is to touch things with a lighter hand.<br/><br/>In yourself you stretch, you are well.<br/><br/>You look at things<br/>Through his eyes.<br/>     A cardinal is red.<br/>     A sky is blue.<br/>Suddenly you know he knows too.<br/>He is not there but <br/>You know you are tasting together<br/>The winter, or light spring weather.<br/><br/>His hand to take your hand is overmuch.<br/>Too much to bear.<br/><br/>You cannot look in his eyes<br/>Because your pulse must not say<br/>What must not be said.<br/><br/>When he <br/>Shuts a door—<br/><br/>Is not there—<br/>Your arms are water.<br/><br/>And you are free <br/>With a ghastly freedom.<br/><br/>You are the beautiful half<br/>Of a golden hurt.<br/><br/>You remember and covet his mouth,<br/>To touch, to whisper on.<br/><br/>Oh when to declare<br/>Is certain Death!<br/><br/>Oh when to apprize,<br/>Is to mesmerize,<br/><br/>To see fall down, the Column of Gold,<br/>Into the commonest ash.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/650093537455652864" target="_blank"><i>“Something I learned about agape when I was young...”</i></a></summary>
+<p>by Christina Pugh</p><p>Something I learned about <i>agape</i> when I was young: the <i>Iliad</i> tells<br/>
+ us fellow-feeling is finite in communities. Brotherly love becomes a<br/>
+ number that has to be divided among persons—so if you’re too kind to<br/>
+ others, that might explain your neighbor’s graft. I sometimes wonder if<br/>
+ perception is the same; if the quantity of percepts, or our trove of eidetic<br/>
+ things, is not limitless but rather constant: the measure, say, of a sunlit<br/>
+ field. So if we dip like deep-sea divers to the world, we’ll have to use a<br/>
+ purse-seine to sieve our sense impressions. We’re hoarding the image<br/>
+ at our peril. That bluest scilla smeared by a finger writing in the grass?<br/>
+ Endangered. Poetry’s work is not to ravish, but diminish.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

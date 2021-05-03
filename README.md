@@ -261,10 +261,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.169.1349.1349a%7C%7Cs640x640%7C%7C180278728_157934512840745_5454200287797710237_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DIITUtal9NowAX_6PYWX%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dd738e9bf03fa1291beee115d80aa341a%26oe%3D60B2E161%26_nc_sid%3D7bff83" alt="Помогите нам стать лучше🙂  Мы рады, что вы стали частью социальной Акции «Гостеприимный Петербург»💙, приуроченной к открытию туристического сезона☀️  Мы очень старались! И надеемся, что вы оцените наши усилия🙏🏻  Мы бы хотели получить от вас обратную связь и просим пройти небольшой опрос📩ссылка в шапке профиля⬆️  Хороших вам выходных и не забывайте отмечать нас в историях и постах @visitpetersburg 🌼 наш хештег #ябылвспб2021   Организатор Комитет по развитию туризма Санкт-Петербург и партнеры 🇷🇺    Фото @geoscan.show" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.1080.1080a%7C%7Cs640x640%7C%7C179556533_285345813240184_3980696047535691961_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DpUtlZoxHMjgAX9oKI5b%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D4fedffa0566e17e1daaf685ae9332a71%26oe%3D60B1EE00%26_nc_sid%3D7bff83" alt="➖➖➖➖➖➖➖➖➖➖➖➖➖ Excursions in St. Petersburg - schedule in May🗓  On-line tour booking service @taritour_spb  mexcursions &#x2F; congratulates  all residents and guests of St. Petersburg  on the start of the season &amp;quot;Summer-2021&amp;quot; and  presents  the current schedule of the tours. 🌐 Экскурсии в Санкт-Петербурге - расписание на май🗓  Сервис бронирования экскурсий @taritour_spb поздравляет всех петербуржцев и гостей нашего Города с началом сезона «Лето-2021» и предлагает немедленно ознакомиться с актуальным расписанием! 	 #тариэкскурсии #турыспб" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc5.0.1069.1069a%7C%7Cs640x640%7C%7C178017180_458436671889372_461179619516363009_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DCVEgMOH65iwAX-XNEvn%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Df549e92d1fad66e233a137a1eb728b5d%26oe%3D60B2256B%26_nc_sid%3D7bff83" alt="Успейте на бесплатные экскурсии по Петербургу!   До старта на запись всего 4 часа⌛   ✔️По рекам и каналам, на автобусе и пешком – выбирайте себе по вкусу и пускайтесь в новое знакомство с городом мечты.   Петербуржцам и туристам подарили эту чудесную возможность при помощи акции к началу туристского сезона - «Гостеприимный Петербург». С 1 по 7 мая нас ждёт ещё много интересного 😉   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй #погода #петербург #спб #ябылвспб2021" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C177717807_265525831778808_1969840348291957955_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DxltyM3V_UiYAX-g8hRG%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dde222890e52a1809366baa9612b958b3%26oe%3D60B390BA%26_nc_sid%3D7bff83" alt="🔝Зимний дворец в Санкт-Петербурге – в топ-7 самых популярных дворцов России   🇷🇺Вслед за признанием Зимнего дворца одним из самых популярных дворцов мира его внесли и в топ популярности в России.   Для этого сервис бронирования жилья для отдыха tvil.ru опросил пользователей социальных сетей и определил, какие дворцы они чаще всего посещают в путешествиях.   45.16 % россиян чаше всего посещают на отдыхе в Крым Воронцовский дворец, который находится в городе Алупка. На втором месте - Зимний дворец (Санкт-Петербург), набравший 38.71 % голосов. И «бронзу» в рейтинге самых популярных архитектурных сооружений России получает дворец земледельцев в Казани - 4.84 %.   #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй #погода #петербург #спб" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C178417715_301684448176496_4602722602474927284_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3Df_Q6n3Ohuv8AX8_3ccv%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D9e9ffe69f812b93dde33677bd66b9f4a%26oe%3D60919829%26_nc_sid%3D7bff83" alt="Гидрофлай шоу. Шоу дронов. #ябылвспб2021" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.159.1277.1277a%7C%7Cs640x640%7C%7C180073121_900695534118505_8153501712915018917_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DELCHP0_L1dUAX-wuLlW%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dc5cfe0bf374a0c19cfa973547abb1a2c%26oe%3D60B689A4%26_nc_sid%3D7bff83" alt="Мы знаем, что вы этого ждали💔  Мы держали интригу до последнего🤫  Уже сегодня🥳 22:00 – 23:00  📍Акватория Невы  Шоу дронов🖤  #ябылвспб2021 @visitpetersburg   Организатор Комитет по развитию туризма Санкт-Петербурга🇷🇺" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.78.1219.1219a%7C%7Cs640x640%7C%7C178227497_488064508982248_1730665577740580322_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DKp1WVJsvguoAX-5TZJk%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D1f7051076891fb7b423e8d6db73976bd%26oe%3D60B4F4F1%26_nc_sid%3D7bff83" alt="Selfie на память 🤍  7 точек в городе с фотозонами❤️  Точки расположения фотозон: 💛Малая Садовая улица (на пересечении с Невский проспектом)  💙Малая Конюшенная улица (на пересечении с Невский проспектом) 💚Большая Морская улица 🧡Дворцовая площадь 💜 Стрелка Васильевского острова 🤍Набережная Лейтенанта Шмидта (зона Фестиваля Ледоколов)  💓Петропавловская крепость  Отмечайте нас на фото @visitpetersburg с хештегом #ябылвспб2021   Фото @taritour_spb" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc0.169.1349.1349a%7C%7Cs640x640%7C%7C180278728_157934512840745_5454200287797710237_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DIITUtal9NowAX8VFVXo%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da2e708896eb856cbb524b2dbd791bda4%26oe%3D60B670A1%26_nc_sid%3D7bff83" alt="Помогите нам стать лучше🙂  Мы рады, что вы стали частью социальной Акции «Гостеприимный Петербург»💙, приуроченной к открытию туристического сезона☀️  Мы очень старались! И надеемся, что вы оцените наши усилия🙏🏻  Мы бы хотели получить от вас обратную связь и просим пройти небольшой опрос📩ссылка в шапке профиля⬆️  Хороших вам выходных и не забывайте отмечать нас в историях и постах @visitpetersburg 🌼 наш хештег #ябылвспб2021   Организатор Комитет по развитию туризма Санкт-Петербург и партнеры 🇷🇺    Фото @geoscan.show" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -282,7 +282,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>clear sky</i>), humidity: 38%, pressure: 1012 (mbar), wind: /north-west/ 5 (m/s), cloudy: 0%</b>
+        <b>3°C (<i>clear sky</i>), humidity: 48%, pressure: 1010 (mbar), wind: /north-west/ 5 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:51 am</b> and sets at <b>20:59 pm</b>.
     </p>
@@ -295,61 +295,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Archeologists Found 110 Ancient Egyptian Tombs Spanning 3 Historic Eras](https://www.reviewgeek.com/80735/archeologists-found-110-ancient-egyptian-tombs-spanning-3-historic-eras/)
-* [This Modder Stuck a Wii Into a GameBoy Advance SP](https://www.reviewgeek.com/80694/this-modder-stuck-a-wii-into-a-gameboy-advance-sp/)
-* [Samsung's SmartTag+ Bluetooth Tracker Arrives in the U.S.](https://www.reviewgeek.com/80732/samsungs-smarttag-bluetooth-tracker-arrives-in-the-u-s/)
-* [How to Set up Do Not Disturb on Google Pixel Phones](https://www.howtogeek.com/687005/how-to-set-up-do-not-disturb-on-google-pixel-phones/)
-* [Good News: SpaceX Capsule Wasn't On a Collision Course with a UFO](https://www.reviewgeek.com/80645/good-news-spacex-capsule-wasnt-on-a-collision-course-with-a-ufo/)
-* [How to Turn off Photoshop’s Large Animated Tooltips](https://www.howtogeek.com/722958/how-to-turn-off-photoshops-large-animated-tooltips/)
-* [How to Switch to an Instagram Business Account](https://www.howtogeek.com/723626/how-to-switch-to-an-instagram-business-account/)
-* [How to Use a HomePod as the Default Speaker for Your Apple TV](https://www.howtogeek.com/719690/how-to-use-a-homepod-as-the-default-speaker-for-your-apple-tv/)
-* [What Does “Adopting Apps” Mean on a Mac?](https://www.howtogeek.com/720242/what-does-adopting-apps-mean-on-a-mac/)
-* [How to Set up Two-Factor Authentication in 1Password](https://www.howtogeek.com/723845/how-to-set-up-two-factor-authentication-in-1password/)
+* [Ever Wanted to Bungee off Tokyo Tower? Now You Can ... in VR](https://www.reviewgeek.com/80713/ever-wanted-to-bungee-off-tokyo-tower-now-you-can-in-vr/)
+* [Gross: Watch a Dishwasher Run from the Inside with 4K GoPro Video](https://www.reviewgeek.com/80731/gross-watch-a-dishwasher-run-from-the-inside-with-4k-gopro-video/)
+* [How to Turn off Message Requests in Instagram](https://www.howtogeek.com/721386/how-to-turn-off-message-requests-in-instagram/)
+* [Woman Charged with Felony Embezzlement for Not Returning 1999 VHS Rental](https://www.reviewgeek.com/80723/woman-charged-with-felony-embezzlement-for-not-returning-1999-vhs-rental/)
+* [How to Force Restart an Android Phone When It’s Not Responding](https://www.howtogeek.com/724436/how-to-force-restart-an-android-phone-when-its-not-responding/)
+* [How to Disable iCloud Sync for Desktop and Documents Folders on Mac](https://www.howtogeek.com/721152/how-to-stop-icloud-sync-for-desktop-and-documents-folders-on-mac/)
+* [How to Copy an Image or Video from Files to Photos on iPhone or iPad](https://www.howtogeek.com/720216/how-to-copy-an-image-or-video-from-files-to-photos-on-iphone-or-ipad/)
+* [How to Replace Any Character with Newlines in Notepad++](https://www.howtogeek.com/723899/how-to-replace-any-character-with-newlines-in-notepad/)
+* [How to Opt out of Apple’s “Find My” Network on iPhone, iPad, and Mac](https://www.howtogeek.com/725664/how-to-opt-out-of-apples-find-my-network-on-iphone-ipad-and-mac/)
+* [Where Are the Best Places to Buy PC Games?](https://www.reviewgeek.com/78687/where-are-the-best-places-to-buy-pc-games/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Higher education won't help preserve the aging brain, study says](https://medicalxpress.com/news/2021-04-higher-brain-ages.html)
-- [Humble Bundle sues Steam over alleged monopoly practices](https://www.theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple)
-- [Semiconductor chip shortage is now hitting sex toys](https://www.independent.co.uk/news/world/americas/semiconductor-chip-shortage-sex-toys-b1840421.html)
-- [Raspberry Pi floppy controller board](http://dangerousprototypes.com/blog/2021/04/28/raspberry-pi-floppy-controller-board/)
-- [Invincible: Robert Kirkman Discusses Season 2 and Beyond – Den of Geek](https://www.denofgeek.com/tv/invincible-season-2-news-robert-kirkman/)
-- [Chinese Tesla Owners Are Installing Brake Cameras in Their Cars](https://insideevs.com/news/504434/chinese-tesla-owners-filming-brakes/)
-- [It Was John Glenn Who Popularized the Word “Glitch”](https://www.airspacemag.com/airspacemag/just-right-word-180973113/)
-- [Hitler Made a Mistake with Selenium](https://www.youtube.com/watch?v=x-xMxYTvUYY)
-- [Andrew Yang describes himself as serial entrepreneur, but](https://www.politico.com/states/new-york/city-hall/story/2021/05/01/yang-describes-himself-as-serial-entrepreneur-but-he-often-worked-for-someone-else-1379608)
-- [Novels and Novellas and Tomes, Oh My](https://countercraft.substack.com/p/novels-and-novellas-and-tomes-oh)
+- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [Python and Me, or When in Rome](https://rachelbythebay.com/w/2021/05/02/py/)
+- [Choosing the Correct Flux – PDF Drive](https://www.pdfdrive.com/choosing-the-really-correct-flux-e201005463.html)
+- [Blender Cloud – Films](https://cloud.blender.org/films/)
+- [Spotify's Open Access Platform](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
+- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/)
+- [Co-founder of brain implant startup Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
+- [Behavioral Testing of NLP Models with CheckList](https://github.com/marcotcr/checklist)
+- [Mangrove forests helped stall environmental crime](https://www.bbc.com/future/article/20210423-kenyas-unusual-solution-to-illegal-poaching-and-logging)
+- [Apache Druid Turns 10: The Untold Origin Story](https://medriscoll.com/2021/05/01/apache-druid-architecture-origin-story/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Warren Buffett says online trading platforms encourage ‘gambling impulse’](https://www.theguardian.com/business/2021/may/02/warren-buffett-says-online-trading-platforms-encourage-gambling-impulse)
-- [North Korea dismisses nuclear talks with US, says Biden’s approach ‘intolerable’](https://www.theguardian.com/world/2021/may/02/north-korea-dismisses-nuclear-talks-with-us-says-bidens-approach-intolerable)
-- [Derek Chisora calls split decision ‘unbelievable’ after Joseph Parker wins](https://www.theguardian.com/sport/2021/may/02/derek-chisora-calls-split-decision-unbelievable-after-joseph-parker-wins)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mark Selby accused of gamesmanship but faces Shaun Murphy in final](https://www.theguardian.com/sport/2021/may/01/world-snooker-championship-semi-finals)
-- [Out with a bang: joyful looks from British designers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/out-with-a-bang-joyful-looks-from-british-designers-in-pictures)
-- [Karen Carney reveals abuse on social media led her to suicidal thoughts](https://www.theguardian.com/football/2021/may/01/karen-carney-reveals-abuse-on-social-media-led-her-to-suicidal-thoughts)
-- [Jürgen Klopp’s fallen Premier League kings have five games to save season](https://www.theguardian.com/football/2021/may/01/liverpool-jurgen-klopp-fallen-premier-league-kings-five-games-to-save-season-manchester-united-jurgen-klopp)
-- [Hayes dreams of women’s and men’s Champions League double for Chelsea](https://www.theguardian.com/football/2021/may/01/emma-hayes-womens-and-mens-champions-league-double-chelsea)
-- [Oscar-winning actor Olympia Dukakis, star of Moonstruck, dies aged 89](https://www.theguardian.com/film/2021/may/01/olympia-dukakis-dies-89-moonstruck-oscar-winner)
+- [Boxer Félix Verdejo turns himself in after pregnant woman’s body found](https://www.theguardian.com/sport/2021/may/02/boxer-felix-verdejo-turns-himself-in-homicide-allegation-puerto-)
+- [Why have sperm counts more than halved in the past 40 years? - podcast](https://www.theguardian.com/news/audio/2021/may/03/why-have-sperm-counts-more-than-halved-in-the-past-40-years-podcast)
+- [Three dead after suspected people-smuggling boat capsizes off San Diego](https://www.theguardian.com/us-news/2021/may/02/san-diego-boat-capsizes)
+- [Proud Boys Canada dissolves itself, months after designation as terrorist entity](https://www.theguardian.com/world/2021/may/03/proud-boys-canada-dissolves-itself-months-after-designation-as-terrorist-entity)
+- [New Zealand’s differences with China becoming ‘harder to reconcile’, Jacinda Ardern says](https://www.theguardian.com/world/2021/may/03/new-zealands-differences-with-china-becoming-harder-to-reconcile-jacinda-ardern-says)
+- [Wealthy buyers snap up £958m of UK trophy assets during pandemic](https://www.theguardian.com/business/2021/may/03/wealthy-buyers-snap-up-958m-of-uk-trophy-assets-during-pandemic)
+- [Limit of 30 mourners at funerals in England to be lifted this month](https://www.theguardian.com/politics/2021/may/03/limit-of-30-mourners-at-funerals-in-england-to-be-lifted-this-month)
+- [UK’s rising debts ‘can be coped with’, says rightwing thinktank](https://www.theguardian.com/business/2021/may/03/uks-rising-debts-can-be-coped-with-says-rightwing-thinktank)
+- [Can you solve it? A tray of Portuguese delights](https://www.theguardian.com/science/2021/may/03/can-you-solve-it-a-tray-of-portuguese-delights)
+- [Blossoms/the Lathums/Zuzu review – rapturous return of the live gig](https://www.theguardian.com/music/2021/may/02/blossomsthe-lathumszuzu-rapturous-return-of-the-live-gig)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
-- [Using libgccjit to make Emacs 2.3x to 42x faster [pdf]](https://arxiv.org/abs/2004.02504)
-- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
-- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
-- [Elevator Sabbath service mode (SHO)](https://elevation.fandom.com/wiki/Sabbath_service_(SHO))
-- [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
-- [Google I|O 2021 and Uncomfortable Questions](https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html)
-- [Mars Ingenuity helicopter mission extended by NASA](https://www.bbc.com/news/science-environment-56951752)
-- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
-- [The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
+- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
+- [Is Dogecoin Capped?](https://provscons.com/is-dogecoin-capped/)
+- [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
+- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
+- [Stars That Race Through Space at Nearly the Speed of Light](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/)
+- [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
+- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
+- [Remote entry level IT jobs?](https://www.reddit.com/r/InformationTechnology/comments/n35cd8/remote_entry_level_it_jobs/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
 - [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
@@ -423,8 +425,6 @@
 - [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
 - [What damage can be done with an elevated Notepad.exe?](https://www.reddit.com/r/InformationTechnology/comments/n20zg3/what_damage_can_be_done_with_an_elevated/)
 - [Outlook SLA Plugin](https://www.reddit.com/r/InformationTechnology/comments/n1xeet/outlook_sla_plugin/)
-- [What type of job can I get with A+ and Network+ without experience?](https://www.reddit.com/r/InformationTechnology/comments/n1nzo6/what_type_of_job_can_i_get_with_a_and_network/)
-- [Studying Information Technology (Need Help)](https://www.reddit.com/r/InformationTechnology/comments/n1kbia/studying_information_technology_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

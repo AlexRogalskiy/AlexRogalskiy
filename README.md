@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Truth/Many_a_true_word_is_spoken_in_jest_951.php" target="_blank"><i>Many a true word is spoken in jest</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/Speech_is_silver_silence_is_golden_940.php" target="_blank"><i>Speech is silver, silence is golden</i></a>
 <span> = </span>
-<span>Something said as a joke may often contain wisdom and truth.</span>
+<span>Speaking is good but saying nothing is better. Discretion can be worth more than even eloquent words.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Higher education won't help preserve the aging brain, study says](https://medicalxpress.com/news/2021-04-higher-brain-ages.html)
-- [Humble Bundle sues Steam over alleged monopoly practices](https://www.theverge.com/2021/5/1/22413196/valve-steam-lawsuit-wolfire-games-humble-bundle-app-store-cut-epic-apple)
-- [Semiconductor chip shortage is now hitting sex toys](https://www.independent.co.uk/news/world/americas/semiconductor-chip-shortage-sex-toys-b1840421.html)
-- [Raspberry Pi floppy controller board](http://dangerousprototypes.com/blog/2021/04/28/raspberry-pi-floppy-controller-board/)
-- [Invincible: Robert Kirkman Discusses Season 2 and Beyond – Den of Geek](https://www.denofgeek.com/tv/invincible-season-2-news-robert-kirkman/)
-- [Chinese Tesla Owners Are Installing Brake Cameras in Their Cars](https://insideevs.com/news/504434/chinese-tesla-owners-filming-brakes/)
-- [It Was John Glenn Who Popularized the Word “Glitch”](https://www.airspacemag.com/airspacemag/just-right-word-180973113/)
-- [Hitler Made a Mistake with Selenium](https://www.youtube.com/watch?v=x-xMxYTvUYY)
-- [Andrew Yang describes himself as serial entrepreneur, but](https://www.politico.com/states/new-york/city-hall/story/2021/05/01/yang-describes-himself-as-serial-entrepreneur-but-he-often-worked-for-someone-else-1379608)
-- [Novels and Novellas and Tomes, Oh My](https://countercraft.substack.com/p/novels-and-novellas-and-tomes-oh)
+- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [Python and Me, or When in Rome](https://rachelbythebay.com/w/2021/05/02/py/)
+- [Choosing the Correct Flux – PDF Drive](https://www.pdfdrive.com/choosing-the-really-correct-flux-e201005463.html)
+- [Blender Cloud – Films](https://cloud.blender.org/films/)
+- [Spotify's Open Access Platform](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
+- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/)
+- [Co-founder of brain implant startup Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
+- [Behavioral Testing of NLP Models with CheckList](https://github.com/marcotcr/checklist)
+- [Mangrove forests helped stall environmental crime](https://www.bbc.com/future/article/20210423-kenyas-unusual-solution-to-illegal-poaching-and-logging)
+- [Apache Druid Turns 10: The Untold Origin Story](https://medriscoll.com/2021/05/01/apache-druid-architecture-origin-story/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

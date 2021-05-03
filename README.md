@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/American/the_new_kid_on_the_block_457.php" target="_blank"><i>the new kid on the block</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Numbers/zero_in_on_260.php" target="_blank"><i>zero in on</i></a>
 <span> = </span>
-<span>If you are the new kid on the block, you are the newest person in a workplace or in an educational institute, or any other place or organization.</span>
+<span>If you zero in on something, you focus your attention on it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

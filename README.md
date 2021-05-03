@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Archeologists Found 110 Ancient Egyptian Tombs Spanning 3 Historic Eras](https://www.reviewgeek.com/80735/archeologists-found-110-ancient-egyptian-tombs-spanning-3-historic-eras/)
-* [This Modder Stuck a Wii Into a GameBoy Advance SP](https://www.reviewgeek.com/80694/this-modder-stuck-a-wii-into-a-gameboy-advance-sp/)
-* [Samsung's SmartTag+ Bluetooth Tracker Arrives in the U.S.](https://www.reviewgeek.com/80732/samsungs-smarttag-bluetooth-tracker-arrives-in-the-u-s/)
-* [How to Set up Do Not Disturb on Google Pixel Phones](https://www.howtogeek.com/687005/how-to-set-up-do-not-disturb-on-google-pixel-phones/)
-* [Good News: SpaceX Capsule Wasn't On a Collision Course with a UFO](https://www.reviewgeek.com/80645/good-news-spacex-capsule-wasnt-on-a-collision-course-with-a-ufo/)
-* [How to Turn off Photoshop’s Large Animated Tooltips](https://www.howtogeek.com/722958/how-to-turn-off-photoshops-large-animated-tooltips/)
-* [How to Switch to an Instagram Business Account](https://www.howtogeek.com/723626/how-to-switch-to-an-instagram-business-account/)
-* [How to Use a HomePod as the Default Speaker for Your Apple TV](https://www.howtogeek.com/719690/how-to-use-a-homepod-as-the-default-speaker-for-your-apple-tv/)
-* [What Does “Adopting Apps” Mean on a Mac?](https://www.howtogeek.com/720242/what-does-adopting-apps-mean-on-a-mac/)
-* [How to Set up Two-Factor Authentication in 1Password](https://www.howtogeek.com/723845/how-to-set-up-two-factor-authentication-in-1password/)
+* [Ever Wanted to Bungee off Tokyo Tower? Now You Can ... in VR](https://www.reviewgeek.com/80713/ever-wanted-to-bungee-off-tokyo-tower-now-you-can-in-vr/)
+* [Gross: Watch a Dishwasher Run from the Inside with 4K GoPro Video](https://www.reviewgeek.com/80731/gross-watch-a-dishwasher-run-from-the-inside-with-4k-gopro-video/)
+* [How to Turn off Message Requests in Instagram](https://www.howtogeek.com/721386/how-to-turn-off-message-requests-in-instagram/)
+* [Woman Charged with Felony Embezzlement for Not Returning 1999 VHS Rental](https://www.reviewgeek.com/80723/woman-charged-with-felony-embezzlement-for-not-returning-1999-vhs-rental/)
+* [How to Force Restart an Android Phone When It’s Not Responding](https://www.howtogeek.com/724436/how-to-force-restart-an-android-phone-when-its-not-responding/)
+* [How to Disable iCloud Sync for Desktop and Documents Folders on Mac](https://www.howtogeek.com/721152/how-to-stop-icloud-sync-for-desktop-and-documents-folders-on-mac/)
+* [How to Copy an Image or Video from Files to Photos on iPhone or iPad](https://www.howtogeek.com/720216/how-to-copy-an-image-or-video-from-files-to-photos-on-iphone-or-ipad/)
+* [How to Replace Any Character with Newlines in Notepad++](https://www.howtogeek.com/723899/how-to-replace-any-character-with-newlines-in-notepad/)
+* [How to Opt out of Apple’s “Find My” Network on iPhone, iPad, and Mac](https://www.howtogeek.com/725664/how-to-opt-out-of-apples-find-my-network-on-iphone-ipad-and-mac/)
+* [Where Are the Best Places to Buy PC Games?](https://www.reviewgeek.com/78687/where-are-the-best-places-to-buy-pc-games/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

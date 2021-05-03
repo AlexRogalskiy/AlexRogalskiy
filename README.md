@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/invite_over_1859.php" target="_blank"><i>invite over</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/eat_into_1619.php" target="_blank"><i>eat into</i></a>
 <span> = </span>
-<span>If you invite somebody over, you invite them to your home, usually for a meal.</span>
+<span>to use up, or reduce the amount of, something of value</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
-- [Using libgccjit to make Emacs 2.3x to 42x faster [pdf]](https://arxiv.org/abs/2004.02504)
-- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
-- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
-- [Elevator Sabbath service mode (SHO)](https://elevation.fandom.com/wiki/Sabbath_service_(SHO))
-- [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
-- [Google I|O 2021 and Uncomfortable Questions](https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html)
-- [Mars Ingenuity helicopter mission extended by NASA](https://www.bbc.com/news/science-environment-56951752)
-- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
-- [The Tragic Story of the Creator of Oswald and Pacifico Fonts (2016)](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
+- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
+- [Is Dogecoin Capped?](https://provscons.com/is-dogecoin-capped/)
+- [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
+- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
+- [Stars That Race Through Space at Nearly the Speed of Light](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/)
+- [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
+- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

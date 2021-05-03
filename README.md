@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Warren Buffett says online trading platforms encourage ‘gambling impulse’](https://www.theguardian.com/business/2021/may/02/warren-buffett-says-online-trading-platforms-encourage-gambling-impulse)
-- [North Korea dismisses nuclear talks with US, says Biden’s approach ‘intolerable’](https://www.theguardian.com/world/2021/may/02/north-korea-dismisses-nuclear-talks-with-us-says-bidens-approach-intolerable)
-- [Derek Chisora calls split decision ‘unbelievable’ after Joseph Parker wins](https://www.theguardian.com/sport/2021/may/02/derek-chisora-calls-split-decision-unbelievable-after-joseph-parker-wins)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mark Selby accused of gamesmanship but faces Shaun Murphy in final](https://www.theguardian.com/sport/2021/may/01/world-snooker-championship-semi-finals)
-- [Out with a bang: joyful looks from British designers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/01/out-with-a-bang-joyful-looks-from-british-designers-in-pictures)
-- [Karen Carney reveals abuse on social media led her to suicidal thoughts](https://www.theguardian.com/football/2021/may/01/karen-carney-reveals-abuse-on-social-media-led-her-to-suicidal-thoughts)
-- [Jürgen Klopp’s fallen Premier League kings have five games to save season](https://www.theguardian.com/football/2021/may/01/liverpool-jurgen-klopp-fallen-premier-league-kings-five-games-to-save-season-manchester-united-jurgen-klopp)
-- [Hayes dreams of women’s and men’s Champions League double for Chelsea](https://www.theguardian.com/football/2021/may/01/emma-hayes-womens-and-mens-champions-league-double-chelsea)
-- [Oscar-winning actor Olympia Dukakis, star of Moonstruck, dies aged 89](https://www.theguardian.com/film/2021/may/01/olympia-dukakis-dies-89-moonstruck-oscar-winner)
+- [Boxer Félix Verdejo turns himself in after pregnant woman’s body found](https://www.theguardian.com/sport/2021/may/02/boxer-felix-verdejo-turns-himself-in-homicide-allegation-puerto-)
+- [Why have sperm counts more than halved in the past 40 years? - podcast](https://www.theguardian.com/news/audio/2021/may/03/why-have-sperm-counts-more-than-halved-in-the-past-40-years-podcast)
+- [Three dead after suspected people-smuggling boat capsizes off San Diego](https://www.theguardian.com/us-news/2021/may/02/san-diego-boat-capsizes)
+- [Proud Boys Canada dissolves itself, months after designation as terrorist entity](https://www.theguardian.com/world/2021/may/03/proud-boys-canada-dissolves-itself-months-after-designation-as-terrorist-entity)
+- [New Zealand’s differences with China becoming ‘harder to reconcile’, Jacinda Ardern says](https://www.theguardian.com/world/2021/may/03/new-zealands-differences-with-china-becoming-harder-to-reconcile-jacinda-ardern-says)
+- [Wealthy buyers snap up £958m of UK trophy assets during pandemic](https://www.theguardian.com/business/2021/may/03/wealthy-buyers-snap-up-958m-of-uk-trophy-assets-during-pandemic)
+- [Limit of 30 mourners at funerals in England to be lifted this month](https://www.theguardian.com/politics/2021/may/03/limit-of-30-mourners-at-funerals-in-england-to-be-lifted-this-month)
+- [UK’s rising debts ‘can be coped with’, says rightwing thinktank](https://www.theguardian.com/business/2021/may/03/uks-rising-debts-can-be-coped-with-says-rightwing-thinktank)
+- [Can you solve it? A tray of Portuguese delights](https://www.theguardian.com/science/2021/may/03/can-you-solve-it-a-tray-of-portuguese-delights)
+- [Blossoms/the Lathums/Zuzu review – rapturous return of the live gig](https://www.theguardian.com/music/2021/may/02/blossomsthe-lathumszuzu-rapturous-return-of-the-live-gig)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

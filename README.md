@@ -241,17 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650093537455652864" target="_blank"><i>“Something I learned about agape when I was young...”</i></a></summary>
-<p>by Christina Pugh</p><p>Something I learned about <i>agape</i> when I was young: the <i>Iliad</i> tells<br/>
- us fellow-feeling is finite in communities. Brotherly love becomes a<br/>
- number that has to be divided among persons—so if you’re too kind to<br/>
- others, that might explain your neighbor’s graft. I sometimes wonder if<br/>
- perception is the same; if the quantity of percepts, or our trove of eidetic<br/>
- things, is not limitless but rather constant: the measure, say, of a sunlit<br/>
- field. So if we dip like deep-sea divers to the world, we’ll have to use a<br/>
- purse-seine to sieve our sense impressions. We’re hoarding the image<br/>
- at our peril. That bluest scilla smeared by a finger writing in the grass?<br/>
- Endangered. Poetry’s work is not to ravish, but diminish.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/650185122934554624" target="_blank"><i>Snowdrops</i></a></summary>
+<p>by Louise Glück</p><p>Do you know what I was, how I lived? You know<br/>what despair is; then<br/>winter should have meaning for you.</p><p>I did not expect to survive,<br/>earth suppressing me. I didn’t expect<br/>to waken again, to feel<br/>in damp earth my body<br/>able to respond again, remembering<br/>after so long how to open again<br/>in the cold light<br/>of earliest spring–</p><p>afraid, yes, but among you again<br/>crying yes risk joy</p><p>in the raw wind of the new world.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

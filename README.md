@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
-- [Python and Me, or When in Rome](https://rachelbythebay.com/w/2021/05/02/py/)
-- [Choosing the Correct Flux – PDF Drive](https://www.pdfdrive.com/choosing-the-really-correct-flux-e201005463.html)
-- [Blender Cloud – Films](https://cloud.blender.org/films/)
-- [Spotify's Open Access Platform](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
-- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/)
-- [Co-founder of brain implant startup Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
-- [Behavioral Testing of NLP Models with CheckList](https://github.com/marcotcr/checklist)
-- [Mangrove forests helped stall environmental crime](https://www.bbc.com/future/article/20210423-kenyas-unusual-solution-to-illegal-poaching-and-logging)
-- [Apache Druid Turns 10: The Untold Origin Story](https://medriscoll.com/2021/05/01/apache-druid-architecture-origin-story/)
+- [Making a faster Avro Python library with eval](https://journal.spencerwnelson.com/entries/avro.html)
+- [Wealthsimple raises $750M from investor group including Drake, Ryan Reynolds](https://www.theglobeandmail.com/business/article-wealthsimple-announces-landmark-750-million-financing-from-investor/)
+- [Bill and Melinda Gates announce divorce](https://www.bbc.com/news/world-us-canada-56975466)
+- [Beautiful 3D Print time-lapses with my Nikon D700 and Octolapse](https://www.jeffgeerling.com/blog/2021/beautiful-3d-print-time-lapses-my-nikon-d700-and-octolapse)
+- [Science Has Been Corrupted](https://unherd.com/2021/05/how-science-has-been-corrupted/)
+- [Why Working from Home Will Stick](https://www.nber.org/papers/w28731#fromrss)
+- [The Case Against Antidepressants](https://theweek.com/articles/483137/case-against-antidepressants)
+- [Playstation’s New Partnership with Discord](https://www.sie.com/en/blog/announcing-playstations-new-partnership-with-discord/)
+- [Former Netflix Executive Convicted of Receiving Bribes and Kickbacks](https://www.justice.gov/usao-ndca/pr/former-netflix-executive-convicted-receiving-bribes-and-kickbacks-companies-contracting)
+- [Visualizing complexity (Ernst Haeckel's illustrations via neural style transfer)](https://rybakov.com/project/visualizing_complexity/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

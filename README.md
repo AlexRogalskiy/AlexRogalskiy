@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For Windows, it’s ‘squirrel away time’](https://www.computerworld.com/article/3617275/for-windows-its-squirrel-away-time.html#tk.rss_all)
+- [Next-gen digital whiteboards: 7 shared canvas apps for visual collaboration](https://www.computerworld.com/article/3616569/next-gen-digital-whiteboards-7-shared-canvas-apps-for-visual-collaboration.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [What to do when customers complain](https://www.computerworld.com/article/3616702/what-to-do-when-customers-complain.html#tk.rss_all)
-- [Handy Word keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3616471/handy-word-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
-- [Podcast: iOS 14.5 brings App Tracking Transparency; Next Apple Silicon chip](https://www.computerworld.com/article/3616976/podcast-ios-145-brings-app-tracking-transparency-next-apple-silicon-chip.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

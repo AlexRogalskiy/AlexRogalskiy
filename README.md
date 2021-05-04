@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/K/knock_off_1__1434.php" target="_blank"><i>knock off (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_2/merry_1075.php" target="_blank"><i>merry</i></a>
 <span> = </span>
-<span>to finish work for the day, to stop working</span>
+<span>slightly and happily drunk</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bell launches BSURE managed cybersecurity solutions with Fortinet](https://www.itworldcanada.com/article/bell-launches-bsure-managed-cybersecurity-solutions-with-fortinet/446904)
+- [CIO Strategy Council seeking input on proposed standards for responsible use of contact tracing data](https://www.itworldcanada.com/article/cio-strategy-council-seeking-input-on-proposed-standards-for-responsible-use-of-contact-tracing-data/446858)
+- [Infosec pros urged to patch IoT and OT devices](https://www.itworldcanada.com/article/infosec-pros-urged-to-patch-iot-and-ot-devices/446883)
+- [Red Hat announces open hybrid cloud and edge solutions at summit](https://www.itworldcanada.com/article/red-hat-announced-open-hybrid-cloud-and-edge-solutions-at-summit/446873)
+- [Cyber Security Today, May 3, 2021 – Ransomware gang reportedly drops encryption; Saskatchewan insurance broker hit by ransomware; Employees put COVID data at risk](https://www.itworldcanada.com/article/cyber-security-today-may-3-2021-ransomware-gang-reportedly-drops-encryption-saskatchewan-insurance-broker-hit-by-ransomware-employees-put-covid-data-at-risk/446854)
+- [Hashtag Trending, May 3, 2021 – Big Tech’s ‘bonkers’ dominance; Another Amazon fulfillment centre in Peel Region closes; Ransomware cases spike](https://www.itworldcanada.com/article/hashtag-trending-may-3-2021-big-techs-bonkers-dominance-another-amazon-fulfillment-centre-in-peel-region-closes-ransomware-cases-spike/446867)
+- [Whistler the latest Canadian municipality hit by ransomware attack](https://www.itworldcanada.com/article/whistler-the-latest-canadian-municipality-hit-by-ransomware-attack/446752)
 - [Study says 33 per cent of Canadians unsatisfied with their mobile network speeds](https://www.itworldcanada.com/article/33-per-cent-of-canadians-unsatisfied-with-their-mobile-network-speeds/446808)
 - [Toronto hit by ‘potential cyber breach’ from Accellion file transfer software](https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787)
 - [Cyber Security Today, Week In Review for April 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-30-2021/446737)
-- [Ontario to create Data Authority to securely house provincial information](https://www.itworldcanada.com/article/ontario-to-create-data-authority-to-securely-house-provincial-information/446770)
-- [Cyber Security Today, April 30, 2021 – A Linux alert, negligent executives and another warning to QNAP users](https://www.itworldcanada.com/article/cyber-security-today-april-30-2021-a-linux-alert-negligent-executives-and-another-warning-to-qnap-users/446739)
-- [Hashtag Trending, April 30, 2021 – Netflix picks Toronto, Facebook’s Q1 earnings; Oracle exec suspended on Twitter](https://www.itworldcanada.com/article/hashtag-trending-april-30-2021-netflix-picks-toronto-facebooks-q1-earnings-oracle-exec-suspended-on-twitter/446749)
-- [Task force calls for international action against ransomware](https://www.itworldcanada.com/article/task-force-calls-for-international-action-against-ransomware/446710)
-- [Do you have Top Gun training in your organization?](https://www.itworldcanada.com/article/do-you-have-top-gun-training-in-your-organization/446844)
-- [Researchers say due to under-reporting, true ransomware figures could be four times as high](https://www.itworldcanada.com/article/researchers-says-due-to-under-reporting-true-ransomware-figures-could-be-four-times-as-high/446701)
-- [Hashtag Trending, April 29, 2021 – BC software firm achieves unicorn status; Shopify’s monster numbers; Vaccine Hunters partners with TO](https://www.itworldcanada.com/article/hashtag-trending-april-29-2021-bc-software-firm-achieves-unicorn-status-shopifys-monster-numbers-vaccine-hunters-partners-with-to/446705)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

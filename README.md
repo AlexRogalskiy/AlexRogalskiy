@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Numbers/zero_in_on_260.php" target="_blank"><i>zero in on</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Buildings/put_your_own_house_in_order_get_your_own_house_in_order_715.php" target="_blank"><i>put your own house in order | get your own house in order</i></a>
 <span> = </span>
-<span>If you zero in on something, you focus your attention on it.</span>
+<span>If you say to someone "put your own house in order", or "get your own house in order", you think they should solve their own problems before telling someone else how to solve theirs.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

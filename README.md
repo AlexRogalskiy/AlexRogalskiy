@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/Speech_is_silver_silence_is_golden_940.php" target="_blank"><i>Speech is silver, silence is golden</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/Make_love_not_war_1310.php" target="_blank"><i>Make love not war</i></a>
 <span> = </span>
-<span>Speaking is good but saying nothing is better. Discretion can be worth more than even eloquent words.</span>
+<span>1) Sex between people is better than fighting between countries. 2) Peace is better than war.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

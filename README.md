@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Boxer Félix Verdejo turns himself in after pregnant woman’s body found](https://www.theguardian.com/sport/2021/may/02/boxer-felix-verdejo-turns-himself-in-homicide-allegation-puerto-)
-- [Why have sperm counts more than halved in the past 40 years? - podcast](https://www.theguardian.com/news/audio/2021/may/03/why-have-sperm-counts-more-than-halved-in-the-past-40-years-podcast)
-- [Three dead after suspected people-smuggling boat capsizes off San Diego](https://www.theguardian.com/us-news/2021/may/02/san-diego-boat-capsizes)
-- [Proud Boys Canada dissolves itself, months after designation as terrorist entity](https://www.theguardian.com/world/2021/may/03/proud-boys-canada-dissolves-itself-months-after-designation-as-terrorist-entity)
-- [New Zealand’s differences with China becoming ‘harder to reconcile’, Jacinda Ardern says](https://www.theguardian.com/world/2021/may/03/new-zealands-differences-with-china-becoming-harder-to-reconcile-jacinda-ardern-says)
-- [Wealthy buyers snap up £958m of UK trophy assets during pandemic](https://www.theguardian.com/business/2021/may/03/wealthy-buyers-snap-up-958m-of-uk-trophy-assets-during-pandemic)
-- [Limit of 30 mourners at funerals in England to be lifted this month](https://www.theguardian.com/politics/2021/may/03/limit-of-30-mourners-at-funerals-in-england-to-be-lifted-this-month)
-- [UK’s rising debts ‘can be coped with’, says rightwing thinktank](https://www.theguardian.com/business/2021/may/03/uks-rising-debts-can-be-coped-with-says-rightwing-thinktank)
-- [Can you solve it? A tray of Portuguese delights](https://www.theguardian.com/science/2021/may/03/can-you-solve-it-a-tray-of-portuguese-delights)
-- [Blossoms/the Lathums/Zuzu review – rapturous return of the live gig](https://www.theguardian.com/music/2021/may/02/blossomsthe-lathumszuzu-rapturous-return-of-the-live-gig)
+- [America’s gun debate – why we’re getting it so wrong | podcast](https://www.theguardian.com/news/audio/2021/may/04/america-gun-debate-why-were-getting-it-so-wrong-podcast)
+- [‘Out-of-control’ Chinese rocket tumbling to Earth](https://www.theguardian.com/science/2021/may/04/out-of-control-chinese-rocket-tumbling-to-earth)
+- [Baby born on plane that happened to be carrying doctor and neonatal nurses](https://www.theguardian.com/us-news/2021/may/04/baby-born-on-plane-that-happened-to-be-carrying-doctor-and-neonatal-nurses)
+- [Bill and Melinda Gates announce divorce after 27 years](https://www.theguardian.com/technology/2021/may/03/bill-gates-divorce-melinda-gates-billionaire-couple)
+- [Ghislaine Maxwell’s sex trafficking trial postponed until autumn at her request](https://www.theguardian.com/us-news/2021/may/03/ghislaine-mawell-trial-postponed-delayed)
+- [England’s nursery schools driven towards extinction, says survey](https://www.theguardian.com/education/2021/may/04/englands-nursery-schools-driven-towards-extinction-says-survey)
+- [Gender recognition certificate fee cut from £140 to £5](https://www.theguardian.com/world/2021/may/04/gender-recognition-certificate-fee-cut-from-140-to-5)
+- [Doorstep scammers exploiting Covid pandemic, says Which?](https://www.theguardian.com/money/2021/may/04/doorstep-scammers-exploiting-covid-pandemic-says-which)
+- [UK banks’ support for coal industry has risen since 2015 Paris climate pact](https://www.theguardian.com/business/2021/may/04/uk-banks-coal-industry-2015-paris-climate-pact-barclays-hsbc)
+- [Uber and Arrival team up to produce electric taxis](https://www.theguardian.com/technology/2021/may/04/uber-arrival-electric-taxis-ride-hailing-app-drivers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

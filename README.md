@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/eat_into_1619.php" target="_blank"><i>eat into</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/make/make_into_1776.php" target="_blank"><i>make into</i></a>
 <span> = </span>
-<span>to use up, or reduce the amount of, something of value</span>
+<span>to change someone or something into someone or something different</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

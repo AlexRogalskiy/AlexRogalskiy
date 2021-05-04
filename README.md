@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some of the Information Technology Problems that can be resolved by creating a system in general?](https://www.reddit.com/r/InformationTechnology/comments/n3s5kb/what_are_some_of_the_information_technology/)
+- [Healthcare to IT](https://www.reddit.com/r/InformationTechnology/comments/n3pfgi/healthcare_to_it/)
 - [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
 - [Remote entry level IT jobs?](https://www.reddit.com/r/InformationTechnology/comments/n35cd8/remote_entry_level_it_jobs/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
@@ -423,8 +425,6 @@
 - [Chipset pcie 3.0 bottlenecking GPU DMI (4.0) interface?](https://www.reddit.com/r/InformationTechnology/comments/n2dx6r/chipset_pcie_30_bottlenecking_gpu_dmi_40_interface/)
 - [AMD X570 (Bixby) Chipset pcie lane question](https://www.reddit.com/r/InformationTechnology/comments/n2ceqf/amd_x570_bixby_chipset_pcie_lane_question/)
 - [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
-- [What damage can be done with an elevated Notepad.exe?](https://www.reddit.com/r/InformationTechnology/comments/n20zg3/what_damage_can_be_done_with_an_elevated/)
-- [Outlook SLA Plugin](https://www.reddit.com/r/InformationTechnology/comments/n1xeet/outlook_sla_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

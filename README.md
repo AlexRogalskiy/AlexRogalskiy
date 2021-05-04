@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
-- [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
-- [Is Dogecoin Capped?](https://provscons.com/is-dogecoin-capped/)
-- [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
-- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
-- [Stars That Race Through Space at Nearly the Speed of Light](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/)
-- [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
-- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
+- [Why Working from Home Will Stick](https://www.nber.org/papers/w28731#fromrss)
+- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
+- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
+- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
+- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
+- [Why I’ll never create modules for VCV Rack anymore–and what I’ll make instead](https://aria.dog/barks/why-i-will-never-create-modules-for-vcv-rack-anymore/)
+- [.org Doesn't Mean Credible](http://dotorgdoesntmeancredible.org/)
+- [Google AI leader has defected to Apple](https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/)
+- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
+- [Show HN: ReplPad – Javascript Repl/Scratchpad](https://replpad.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

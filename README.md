@@ -400,6 +400,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Navigating the sticky issue of monitoring employee productivity](https://www.computerweekly.com/feature/Navigating-the-sticky-issue-of-monitoring-employee-productivity)
 - [EncroChat: Top lawyer warned CPS of risk that phone hacking warrants could be unlawful](https://www.computerweekly.com/news/252500061/EncroChat-Top-lawyer-warned-CPS-of-risk-that-phone-hacking-warrants-could-be-unlawful)
 - [MPs accuse government of unduly interfering in information commissioner appointment](https://www.computerweekly.com/news/252500049/MPs-accuse-government-of-unduly-interfering-in-information-commissioner-appointment)
 - [End of support for Build 1909 leaves some Windows open to attack](https://www.computerweekly.com/news/252500035/End-of-support-for-Build-1909-leaves-some-Windows-open-to-attack)
@@ -409,7 +410,6 @@
 - [Public sector organisations ‘in the dark’ about where their data is, suggests UKCloud survey](https://www.computerweekly.com/news/252499988/Public-sector-organisations-in-the-dark-about-where-their-data-is-suggests-UKCloud-survey)
 - [G7 countries to cooperate on digital regulation](https://www.computerweekly.com/news/252499990/G7-countries-to-cooperate-on-digital-regulation)
 - [Impact of low chip supply spreads](https://www.computerweekly.com/news/252499981/Impact-of-low-chip-supply-spreads)
-- [Walt Disney Company confirms AWS as preferred cloud partner for Disney+ streaming service](https://www.computerweekly.com/news/252499973/Walt-Disney-Company-confirms-AWS-as-preferred-cloud-partner-for-Disney-streaming-service)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

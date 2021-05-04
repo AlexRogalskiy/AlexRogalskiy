@@ -295,16 +295,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ever Wanted to Bungee off Tokyo Tower? Now You Can ... in VR](https://www.reviewgeek.com/80713/ever-wanted-to-bungee-off-tokyo-tower-now-you-can-in-vr/)
-* [Gross: Watch a Dishwasher Run from the Inside with 4K GoPro Video](https://www.reviewgeek.com/80731/gross-watch-a-dishwasher-run-from-the-inside-with-4k-gopro-video/)
-* [How to Turn off Message Requests in Instagram](https://www.howtogeek.com/721386/how-to-turn-off-message-requests-in-instagram/)
-* [Woman Charged with Felony Embezzlement for Not Returning 1999 VHS Rental](https://www.reviewgeek.com/80723/woman-charged-with-felony-embezzlement-for-not-returning-1999-vhs-rental/)
-* [How to Force Restart an Android Phone When It’s Not Responding](https://www.howtogeek.com/724436/how-to-force-restart-an-android-phone-when-its-not-responding/)
-* [How to Disable iCloud Sync for Desktop and Documents Folders on Mac](https://www.howtogeek.com/721152/how-to-stop-icloud-sync-for-desktop-and-documents-folders-on-mac/)
-* [How to Copy an Image or Video from Files to Photos on iPhone or iPad](https://www.howtogeek.com/720216/how-to-copy-an-image-or-video-from-files-to-photos-on-iphone-or-ipad/)
-* [How to Replace Any Character with Newlines in Notepad++](https://www.howtogeek.com/723899/how-to-replace-any-character-with-newlines-in-notepad/)
-* [How to Opt out of Apple’s “Find My” Network on iPhone, iPad, and Mac](https://www.howtogeek.com/725664/how-to-opt-out-of-apples-find-my-network-on-iphone-ipad-and-mac/)
-* [Where Are the Best Places to Buy PC Games?](https://www.reviewgeek.com/78687/where-are-the-best-places-to-buy-pc-games/)
+* [Upcoming Edge Update Lets You View Office Files Without Downloading Them](https://www.reviewgeek.com/80945/upcoming-edge-update-lets-you-view-office-files-without-downloading-them/)
+* [LEGO Expands the Botanical Paradise with Plant-tastic "Birds of Paradise"](https://www.reviewgeek.com/80923/lego-expands-the-botanical-paradise-with-planttastic-birds-of-paradise/)
+* [Deal Alert: Bulk AA/AAA Batteries, Switch Games, Fire Tablets, And More](https://www.reviewgeek.com/80883/deal-alert-bulk-aa-aaa-batteries-switch-games-fire-tablets-and-more/)
+* [iFixit Teardown Reveals Where to Drill a Hole in Your AirTag](https://www.reviewgeek.com/80893/ifixit-teardown-reveals-where-to-drill-a-hole-in-your-airtag/)
+* [Kroger Is Testing 15-Minute Drone Deliveries in Ohio](https://www.reviewgeek.com/80895/kroger-is-testing-15-minute-drone-deliveries-in-ohio/)
+* [Facebook Uses Scare Tactics to Fight New iPhone Anti-Tracking Tools](https://www.reviewgeek.com/80859/facebook-uses-scare-tactics-to-fight-new-iphone-anti-tracking-tools/)
+* [This Adult-Sized Tamiya Wild One RC Car is Fully Electric and Drivable](https://www.reviewgeek.com/80866/this-adult-sized-tamiya-wild-one-rc-car-is-fully-electric-and-drivable/)
+* [How to Hide Sensitive Notifications on Android](https://www.howtogeek.com/716707/how-to-hide-sensitive-notifications-on-android/)
+* [Volkswagen Plans to Make Its Own Chips for Self-Driving Car Tech](https://www.reviewgeek.com/80849/vw-plans-its-own-chips-for-self-driving-car-tech/)
+* [New Apple Rumors Include Apple Watch Blood Sugar Sensor, Foldable iPhone, and More](https://www.reviewgeek.com/80841/new-apple-rumors-include-apple-watch-blood-sugar-sensor-foldable-iphone-and-more/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What printer scanner with a driver that does not break if it cannot phone home?](https://www.reddit.com/r/InformationTechnology/comments/n4t4bd/what_printer_scanner_with_a_driver_that_does_not/)
+- [Interview Questions. Would like some advice from the IT folks!](https://www.reddit.com/r/InformationTechnology/comments/n4i0vi/interview_questions_would_like_some_advice_from/)
+- [Help me pick my specialization](https://www.reddit.com/r/InformationTechnology/comments/n4hpvx/help_me_pick_my_specialization/)
 - [What are some of the Information Technology Problems that can be resolved by creating a system in general?](https://www.reddit.com/r/InformationTechnology/comments/n3s5kb/what_are_some_of_the_information_technology/)
 - [Healthcare to IT](https://www.reddit.com/r/InformationTechnology/comments/n3pfgi/healthcare_to_it/)
 - [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
@@ -413,9 +416,6 @@
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
 - [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
-- [Chipset pcie 3.0 bottlenecking GPU DMI (4.0) interface?](https://www.reddit.com/r/InformationTechnology/comments/n2dx6r/chipset_pcie_30_bottlenecking_gpu_dmi_40_interface/)
-- [AMD X570 (Bixby) Chipset pcie lane question](https://www.reddit.com/r/InformationTechnology/comments/n2ceqf/amd_x570_bixby_chipset_pcie_lane_question/)
-- [/r/programming is amazing](https://www.reddit.com/r/InformationTechnology/comments/n2byxs/rprogramming_is_amazing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

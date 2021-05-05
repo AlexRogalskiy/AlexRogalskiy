@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [America’s gun debate – why we’re getting it so wrong | podcast](https://www.theguardian.com/news/audio/2021/may/04/america-gun-debate-why-were-getting-it-so-wrong-podcast)
-- [‘Out-of-control’ Chinese rocket tumbling to Earth](https://www.theguardian.com/science/2021/may/04/out-of-control-chinese-rocket-tumbling-to-earth)
-- [Baby born on plane that happened to be carrying doctor and neonatal nurses](https://www.theguardian.com/us-news/2021/may/04/baby-born-on-plane-that-happened-to-be-carrying-doctor-and-neonatal-nurses)
-- [Bill and Melinda Gates announce divorce after 27 years](https://www.theguardian.com/technology/2021/may/03/bill-gates-divorce-melinda-gates-billionaire-couple)
-- [Ghislaine Maxwell’s sex trafficking trial postponed until autumn at her request](https://www.theguardian.com/us-news/2021/may/03/ghislaine-mawell-trial-postponed-delayed)
-- [England’s nursery schools driven towards extinction, says survey](https://www.theguardian.com/education/2021/may/04/englands-nursery-schools-driven-towards-extinction-says-survey)
-- [Gender recognition certificate fee cut from £140 to £5](https://www.theguardian.com/world/2021/may/04/gender-recognition-certificate-fee-cut-from-140-to-5)
-- [Doorstep scammers exploiting Covid pandemic, says Which?](https://www.theguardian.com/money/2021/may/04/doorstep-scammers-exploiting-covid-pandemic-says-which)
-- [UK banks’ support for coal industry has risen since 2015 Paris climate pact](https://www.theguardian.com/business/2021/may/04/uk-banks-coal-industry-2015-paris-climate-pact-barclays-hsbc)
-- [Uber and Arrival team up to produce electric taxis](https://www.theguardian.com/technology/2021/may/04/uber-arrival-electric-taxis-ride-hailing-app-drivers)
+- [The fight for Hartlepool – podcast](https://www.theguardian.com/news/audio/2021/may/05/the-fight-for-hartlepool-podcast)
+- [US birth rate sees biggest fall for nearly 50 years](https://www.theguardian.com/us-news/2021/may/05/us-birth-rate-sees-biggest-fall-for-nearly-50-years)
+- [Mali woman has given birth to nine babies, says health ministry](https://www.theguardian.com/world/2021/may/05/mali-woman-has-given-birth-to-nine-babies-says-health-ministry)
+- [In the green room: the 2021 Nikon surf photography awards](https://www.theguardian.com/sport/gallery/2021/may/05/in-the-green-room-the-2021-nikon-surf-photography-awards)
+- [North Korea faces economic ruin amid food and medicine shortages](https://www.theguardian.com/world/2021/may/05/north-korea-economic-crisis-food-and-medicine-shortages-covid)
+- [Derek Chauvin: ex-officer convicted in George Floyd’s murder asks for new trial](https://www.theguardian.com/us-news/2021/may/04/derek-chauvin-george-floyd-new-trial)
+- [Elite award-winners allowed fast-track route into UK](https://www.theguardian.com/uk-news/2021/may/05/elite-award-winners-allowed-fast-track-route-into-uk)
+- [Red Cross calls for UK to tackle inequalities exposed by Covid](https://www.theguardian.com/uk-news/2021/may/05/red-cross-calls-for-uk-to-tackle-inequalities-exposed-by-covid)
+- [HS2 workers to exhume 3,000 bodies in Buckinghamshire churchyard](https://www.theguardian.com/uk-news/2021/may/05/hs2-workers-to-exhume-3000-bodies-in-buckinghamshire-churchyard)
+- [Student Loans Company holds £18.3m in overpayments made since 2015](https://www.theguardian.com/money/2021/may/05/student-loans-company-holds-overpayments)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9d&#x2F;f4&#x2F;2c&#x2F;9df42c5e6714d1e8e77000298f907ee5.jpg" alt="If the force is strong with you, you may recognize this special May the Fourth Word of the Day. It&#39;s thrawn. Click to learn more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9d&#x2F;f4&#x2F;2c&#x2F;9df42c5e6714d1e8e77000298f907ee5.jpg" alt="If the force is strong with you, you may recognize this special May the Fourth Word of the Day. It&#39;s thrawn. Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b7&#x2F;06&#x2F;cf&#x2F;b706cf0c2bac8f6052ba5d4e8edfb2ed.jpg" alt="Keep calm. Equanimity is the Word of the Day. Click for example sentences, etymology, and more from the world&#39;s leading online dictionary. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;29&#x2F;e5&#x2F;7229e5e26e1f7a4ed4a4c55214e848ce.jpg" alt="If the Word of the Day isn&#39;t broken, don&#39;t fix it. That&#39;s an apothegm. Learn how to say it and more at Dictionary.com. #English #Writing #Vocabulary #Learn " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;67&#x2F;bd&#x2F;2f&#x2F;67bd2f5c474a5aaa2ccbbe4c7cba8278.jpg" alt="Today&#39;s Word of the Day might make you sneeze. It&#39;s polliniferous. Want more? Click for example sentences, word origin, and our free Word of the Day podcast! " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>5°C (<i>light rain</i>), humidity: 87%, pressure: 1002 (mbar), wind: /west/ 4 (m/s), cloudy: 90%</b>
+        <b>4°C (<i>overcast clouds</i>), humidity: 87%, pressure: 1002 (mbar), wind: /west/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>04:46 am</b> and sets at <b>21:04 pm</b>.
     </p>

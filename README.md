@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The Epic/Apple battle shows how execs think about their business](https://www.computerworld.com/article/3617496/the-epicapple-battle-shows-how-execs-think-about-their-business.html#tk.rss_all)
+- [A clever way to bring widgets into Chrome OS](https://www.computerworld.com/article/3617489/chrome-os-widgets.html#tk.rss_all)
+- [Getting passwords right for you and your business](https://www.computerworld.com/article/3617468/getting-passwords-right-for-you-and-your-business.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [6 fast fixes for common Google Docs problems](https://www.computerworld.com/article/3616678/6-fast-fixes-for-common-google-docs-problems.html#tk.rss_all)
 - [For Windows, it’s ‘squirrel away time’](https://www.computerworld.com/article/3617275/for-windows-its-squirrel-away-time.html#tk.rss_all)
 - [Next-gen digital whiteboards: 7 shared canvas apps for visual collaboration](https://www.computerworld.com/article/3616569/next-gen-digital-whiteboards-7-shared-canvas-apps-for-visual-collaboration.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Apple’s big iPhone 12 deal with Delta shows a path to AR](https://www.computerworld.com/article/3616982/apples-big-iphone-12-deal-with-delta-shows-a-path-to-ar.html#tk.rss_all)
-- [The collective problems with videoconferencing](https://www.computerworld.com/article/3617079/the-collective-problems-with-videoconferencing.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [What to do when customers complain](https://www.computerworld.com/article/3616702/what-to-do-when-customers-complain.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

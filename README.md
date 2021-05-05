@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Upcoming Edge Update Lets You View Office Files Without Downloading Them](https://www.reviewgeek.com/80945/upcoming-edge-update-lets-you-view-office-files-without-downloading-them/)
-* [LEGO Expands the Botanical Paradise with Plant-tastic "Birds of Paradise"](https://www.reviewgeek.com/80923/lego-expands-the-botanical-paradise-with-planttastic-birds-of-paradise/)
-* [Deal Alert: Bulk AA/AAA Batteries, Switch Games, Fire Tablets, And More](https://www.reviewgeek.com/80883/deal-alert-bulk-aa-aaa-batteries-switch-games-fire-tablets-and-more/)
-* [iFixit Teardown Reveals Where to Drill a Hole in Your AirTag](https://www.reviewgeek.com/80893/ifixit-teardown-reveals-where-to-drill-a-hole-in-your-airtag/)
-* [Kroger Is Testing 15-Minute Drone Deliveries in Ohio](https://www.reviewgeek.com/80895/kroger-is-testing-15-minute-drone-deliveries-in-ohio/)
-* [Facebook Uses Scare Tactics to Fight New iPhone Anti-Tracking Tools](https://www.reviewgeek.com/80859/facebook-uses-scare-tactics-to-fight-new-iphone-anti-tracking-tools/)
-* [This Adult-Sized Tamiya Wild One RC Car is Fully Electric and Drivable](https://www.reviewgeek.com/80866/this-adult-sized-tamiya-wild-one-rc-car-is-fully-electric-and-drivable/)
-* [How to Hide Sensitive Notifications on Android](https://www.howtogeek.com/716707/how-to-hide-sensitive-notifications-on-android/)
-* [Volkswagen Plans to Make Its Own Chips for Self-Driving Car Tech](https://www.reviewgeek.com/80849/vw-plans-its-own-chips-for-self-driving-car-tech/)
-* [New Apple Rumors Include Apple Watch Blood Sugar Sensor, Foldable iPhone, and More](https://www.reviewgeek.com/80841/new-apple-rumors-include-apple-watch-blood-sugar-sensor-foldable-iphone-and-more/)
+* [Hunter Fan Company Now Offers 15 Homekit-Enabled Ceiling Fans](https://www.reviewgeek.com/81194/hunter-fan-company-now-offers-15-homekit-enabled-ceiling-fans/)
+* [Dell Patched a Critical Driver Flaw from 2009 Affecting Hundreds of PC Models](https://www.reviewgeek.com/81176/dell-patched-a-critical-driver-flaw-from-2009-affecting-hundreds-of-pc-models/)
+* [Google Accidentally Announced the Pixel Buds A-Series on Twitter](https://www.reviewgeek.com/81166/google-announces-pixel-buds-a-series-on-twitter/)
+* [See Disney's New "Real" Lightsaber at Star Wars: Galactic Starcruiser in 2022](https://www.reviewgeek.com/81120/see-disneys-new-real-lightsaber-at-star-wars-galactic-starcruiser-in-2022/)
+* [Chevy Bolt Software Update Prevents Battery Fires, Take Yours to the Dealer Now](https://www.reviewgeek.com/81103/gm-issues-chevy-bolt-software-update-to-prevent-battery-fires/)
+* [Samsung Just Ended Support for Your Galaxy S8 Device](https://www.reviewgeek.com/81079/samsung-ends-update-support-for-galaxy-s8/)
+* [Microsoft is Killing the Adobe Flash Plugin on Windows 10](https://www.reviewgeek.com/81089/microsoft-is-killing-the-adobe-flash-plugin-on-windows-10/)
+* [Microsoft is Killing the Adobe Flash Plugin on Windows 10](https://www.reviewgeek.com/81089/microsoft-is-killing-the-adobe-flash-plugin-on-windows-10/)
+* [Amazon Scores 'Thursday Night Football' Rights a Year Early](https://www.reviewgeek.com/80935/amazon-scores-thursday-night-football-exclusive-year-early/)
+* [Echo Show Mode Turns Some Lenovo Laptops Into Alexa Smart Displays](https://www.reviewgeek.com/81060/echo-show-mode-turns-some-lenovo-laptops-into-alexa-smart-displays/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

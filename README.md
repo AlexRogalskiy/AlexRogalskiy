@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CIO Association of Canada award winners announced](https://www.itworldcanada.com/article/cio-association-of-canada-award-winners-announced/446943)
+- [Coffee Briefing, May 4, 2021 – Red Hat Summit announcements, OVHcloud fire update, plus more](https://www.itworldcanada.com/article/coffee-briefing-may-4-2021-red-hat-summit-announcements-ovhcloud-fire-update-plus-more/446919)
+- [Hashtag Trending, May 4, 2021 – Ethereum quadruples in value; Verizon sells Yahoo and AOL for $5 billion; Intel investing $3.5B in fab upgrade](https://www.itworldcanada.com/article/hashtag-trending-may-4-2021-ethereum-quadruples-in-value-verizon-sells-yahoo-and-aol-for-5-billion-intel-investing-3-5b-in-fab-upgrade/446915)
 - [Bell launches BSURE managed cybersecurity solutions with Fortinet](https://www.itworldcanada.com/article/bell-launches-bsure-managed-cybersecurity-solutions-with-fortinet/446904)
 - [CIO Strategy Council seeking input on proposed standards for responsible use of contact tracing data](https://www.itworldcanada.com/article/cio-strategy-council-seeking-input-on-proposed-standards-for-responsible-use-of-contact-tracing-data/446858)
 - [Infosec pros urged to patch IoT and OT devices](https://www.itworldcanada.com/article/infosec-pros-urged-to-patch-iot-and-ot-devices/446883)
@@ -428,9 +431,6 @@
 - [Cyber Security Today, May 3, 2021 – Ransomware gang reportedly drops encryption; Saskatchewan insurance broker hit by ransomware; Employees put COVID data at risk](https://www.itworldcanada.com/article/cyber-security-today-may-3-2021-ransomware-gang-reportedly-drops-encryption-saskatchewan-insurance-broker-hit-by-ransomware-employees-put-covid-data-at-risk/446854)
 - [Hashtag Trending, May 3, 2021 – Big Tech’s ‘bonkers’ dominance; Another Amazon fulfillment centre in Peel Region closes; Ransomware cases spike](https://www.itworldcanada.com/article/hashtag-trending-may-3-2021-big-techs-bonkers-dominance-another-amazon-fulfillment-centre-in-peel-region-closes-ransomware-cases-spike/446867)
 - [Whistler the latest Canadian municipality hit by ransomware attack](https://www.itworldcanada.com/article/whistler-the-latest-canadian-municipality-hit-by-ransomware-attack/446752)
-- [Study says 33 per cent of Canadians unsatisfied with their mobile network speeds](https://www.itworldcanada.com/article/33-per-cent-of-canadians-unsatisfied-with-their-mobile-network-speeds/446808)
-- [Toronto hit by ‘potential cyber breach’ from Accellion file transfer software](https://www.itworldcanada.com/article/toronto-hit-by-potential-cyber-breach-from-accellion-file-transfer-software/446787)
-- [Cyber Security Today, Week In Review for April 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-30-2021/446737)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

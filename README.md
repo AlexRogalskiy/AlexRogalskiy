@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Working from Home Will Stick](https://www.nber.org/papers/w28731#fromrss)
-- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
-- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
-- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
-- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
-- [Why I’ll never create modules for VCV Rack anymore–and what I’ll make instead](https://aria.dog/barks/why-i-will-never-create-modules-for-vcv-rack-anymore/)
-- [.org Doesn't Mean Credible](http://dotorgdoesntmeancredible.org/)
-- [Google AI leader has defected to Apple](https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/)
-- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
-- [Show HN: ReplPad – Javascript Repl/Scratchpad](https://replpad.com/)
+- [MH370 pilot made many turns and speed changes new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
+- [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
+- [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
+- [Berkshire Hathaway’s stock price is too high for Nasdaq computers](https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548)
+- [WiFiStation: A WiFi Interface for the Cidco MailStation](https://jcs.org/2021/04/23/wifistation)
+- [Cinder: Instagram's performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
+- [Kolmogorov Complexity: Extensions and Applications](https://blog.neotree.uber.space/posts/kolmogorov-complexity)
+- [Compose for Web](https://compose-web.ui.pages.jetbrains.team/)
+- [TrueVault (YC W14) is hiring an engineering lead to lead new privacy product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
+- [Draw Logos from Memory](https://neal.fun/logos-from-memory/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

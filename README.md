@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Is cloud architecture binary or analog?](https://www.infoworld.com/article/3617469/is-cloud-architecture-binary-or-analog.html#tk.rss_all)
+- [Next.js taps Webpack 5 for faster builds](https://www.infoworld.com/article/3617276/nextjs-taps-webpack-for-faster-builds.html#tk.rss_all)
+- [Why Gitops isn’t ready for the mainstream (yet)](https://www.infoworld.com/article/3617110/why-gitops-isnt-ready-for-the-mainstream-yet.html#tk.rss_all)
 - [When to incorporate design thinking in scrum](https://www.infoworld.com/article/3617141/when-to-incorporate-design-thinking-in-scrum.html#tk.rss_all)
-- [Catch the cloud and digital transformation while you can](https://www.infoworld.com/article/3616995/catch-the-cloud-and-digital-transformation-while-you-can.html#tk.rss_all)
+- [Cloud and digital transformation gain speed](https://www.infoworld.com/article/3616995/cloud-and-digital-transformation-gain-speed.html#tk.rss_all)
 - [Microsoft previews Azure service for building WebSocket applications](https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html#tk.rss_all)
 - [JetBrains takes TeamCity CI/CD to the cloud](https://www.infoworld.com/article/3617080/jetbrains-takes-teamcity-cicd-to-the-cloud.html#tk.rss_all)
 - [How to be an in-demand cloud geek](https://www.infoworld.com/article/3617051/how-to-be-an-in-demand-cloud-geek.html#tk.rss_all)
 - [Make life easy with ssh_config](https://www.infoworld.com/article/3616590/make-life-easy-with-sshconfig.html#tk.rss_all)
 - [10 tips for tuning React UI performance](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html#tk.rss_all)
-- [Red Hat Enterprise Linux takes aim at edge computing](https://www.infoworld.com/article/3617048/red-hat-enterprise-linux-takes-aim-at-edge-computing.html#tk.rss_all)
-- [Using Pulumi 3.0 to manage Azure infrastructure](https://www.infoworld.com/article/3616605/using-pulumi-30-to-manage-azure-infrastructure.html#tk.rss_all)
-- [8 databases supporting in-database machine learning](https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

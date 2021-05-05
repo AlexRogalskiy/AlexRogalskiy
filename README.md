@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making a faster Avro Python library with eval](https://journal.spencerwnelson.com/entries/avro.html)
-- [Wealthsimple raises $750M from investor group including Drake, Ryan Reynolds](https://www.theglobeandmail.com/business/article-wealthsimple-announces-landmark-750-million-financing-from-investor/)
-- [Bill and Melinda Gates announce divorce](https://www.bbc.com/news/world-us-canada-56975466)
-- [Beautiful 3D Print time-lapses with my Nikon D700 and Octolapse](https://www.jeffgeerling.com/blog/2021/beautiful-3d-print-time-lapses-my-nikon-d700-and-octolapse)
-- [Science Has Been Corrupted](https://unherd.com/2021/05/how-science-has-been-corrupted/)
-- [Why Working from Home Will Stick](https://www.nber.org/papers/w28731#fromrss)
-- [The Case Against Antidepressants](https://theweek.com/articles/483137/case-against-antidepressants)
-- [Playstation’s New Partnership with Discord](https://www.sie.com/en/blog/announcing-playstations-new-partnership-with-discord/)
-- [Former Netflix Executive Convicted of Receiving Bribes and Kickbacks](https://www.justice.gov/usao-ndca/pr/former-netflix-executive-convicted-receiving-bribes-and-kickbacks-companies-contracting)
-- [Visualizing complexity (Ernst Haeckel's illustrations via neural style transfer)](https://rybakov.com/project/visualizing_complexity/)
+- [Bill and Melinda Gates to divorce after 27 years of marriage](https://www.theguardian.com/technology/2021/may/03/bill-gates-divorce-melinda-gates-billionaire-couple)
+- [1700 Cascadia Earthquake](https://en.wikipedia.org/wiki/1700_Cascadia_earthquake)
+- [We Use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+- [Where Work Is Headed](https://merwanedrai.com/where-work-is-headed/)
+- [Oxygen intervention for India is more effective than top GiveWell interventions](https://twitter.com/technocrypto/status/1388944290626347015)
+- [Show HN: Water my plant using a Raspberry Pi](https://www.youtube.com/watch?v=HevMIs9dLh0)
+- [Hy: A dialect of Lisp that's embedded in Python](https://github.com/hylang/hy)
+- [Show HN: How to Remove All Facebook Interest Categories](https://gist.github.com/dvx/67db6e6ac085d960ea43b9510eb16fec)
+- [How do you do parental controls in 2021?](https://news.ycombinator.com/item?id=27045370)
+- [Over 20 deaths in Colombia protests and minimal media coverage](https://twitter.com/OVargas52/status/1389575160118788098)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

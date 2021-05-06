@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Malware uses ICMP tunneling for backdoor communications](https://www.itworldcanada.com/article/malware-uses-icmp-tunneling-for-backdoor-communications/446929)
+- [Cyber Security Today, May 5, 2021 – World Password Day advice, your car’s infotainment system may be a privacy risk, plus vendor security updates](https://www.itworldcanada.com/article/cyber-security-today-may-5-2021-world-password-day-advice-your-cars-infotainment-system-may-be-a-privacy-risk-plus-vendor-security-updates/446952)
+- [Hashtag Trending, May 5, 2021 – Wealthsimple snags $750M in funding; Bill and Melinda split; Use of ad blockers surge](https://www.itworldcanada.com/article/hashtag-trending-may-5-2021-wealthsimple-snags-750m-in-funding-bill-and-melinda-split-use-of-ad-blockers-surge/446956)
 - [CIO Association of Canada award winners announced](https://www.itworldcanada.com/article/cio-association-of-canada-award-winners-announced/446943)
 - [Coffee Briefing, May 4, 2021 – Red Hat Summit announcements, OVHcloud fire update, plus more](https://www.itworldcanada.com/article/coffee-briefing-may-4-2021-red-hat-summit-announcements-ovhcloud-fire-update-plus-more/446919)
 - [Hashtag Trending, May 4, 2021 – Ethereum quadruples in value; Verizon sells Yahoo and AOL for $5 billion; Intel investing $3.5B in fab upgrade](https://www.itworldcanada.com/article/hashtag-trending-may-4-2021-ethereum-quadruples-in-value-verizon-sells-yahoo-and-aol-for-5-billion-intel-investing-3-5b-in-fab-upgrade/446915)
@@ -428,9 +431,6 @@
 - [CIO Strategy Council seeking input on proposed standards for responsible use of contact tracing data](https://www.itworldcanada.com/article/cio-strategy-council-seeking-input-on-proposed-standards-for-responsible-use-of-contact-tracing-data/446858)
 - [Infosec pros urged to patch IoT and OT devices](https://www.itworldcanada.com/article/infosec-pros-urged-to-patch-iot-and-ot-devices/446883)
 - [Red Hat announces open hybrid cloud and edge solutions at summit](https://www.itworldcanada.com/article/red-hat-announced-open-hybrid-cloud-and-edge-solutions-at-summit/446873)
-- [Cyber Security Today, May 3, 2021 – Ransomware gang reportedly drops encryption; Saskatchewan insurance broker hit by ransomware; Employees put COVID data at risk](https://www.itworldcanada.com/article/cyber-security-today-may-3-2021-ransomware-gang-reportedly-drops-encryption-saskatchewan-insurance-broker-hit-by-ransomware-employees-put-covid-data-at-risk/446854)
-- [Hashtag Trending, May 3, 2021 – Big Tech’s ‘bonkers’ dominance; Another Amazon fulfillment centre in Peel Region closes; Ransomware cases spike](https://www.itworldcanada.com/article/hashtag-trending-may-3-2021-big-techs-bonkers-dominance-another-amazon-fulfillment-centre-in-peel-region-closes-ransomware-cases-spike/446867)
-- [Whistler the latest Canadian municipality hit by ransomware attack](https://www.itworldcanada.com/article/whistler-the-latest-canadian-municipality-hit-by-ransomware-attack/446752)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

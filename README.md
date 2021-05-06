@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hunter Fan Company Now Offers 15 Homekit-Enabled Ceiling Fans](https://www.reviewgeek.com/81194/hunter-fan-company-now-offers-15-homekit-enabled-ceiling-fans/)
-* [Dell Patched a Critical Driver Flaw from 2009 Affecting Hundreds of PC Models](https://www.reviewgeek.com/81176/dell-patched-a-critical-driver-flaw-from-2009-affecting-hundreds-of-pc-models/)
-* [Google Accidentally Announced the Pixel Buds A-Series on Twitter](https://www.reviewgeek.com/81166/google-announces-pixel-buds-a-series-on-twitter/)
-* [See Disney's New "Real" Lightsaber at Star Wars: Galactic Starcruiser in 2022](https://www.reviewgeek.com/81120/see-disneys-new-real-lightsaber-at-star-wars-galactic-starcruiser-in-2022/)
-* [Chevy Bolt Software Update Prevents Battery Fires, Take Yours to the Dealer Now](https://www.reviewgeek.com/81103/gm-issues-chevy-bolt-software-update-to-prevent-battery-fires/)
-* [Samsung Just Ended Support for Your Galaxy S8 Device](https://www.reviewgeek.com/81079/samsung-ends-update-support-for-galaxy-s8/)
-* [Microsoft is Killing the Adobe Flash Plugin on Windows 10](https://www.reviewgeek.com/81089/microsoft-is-killing-the-adobe-flash-plugin-on-windows-10/)
-* [Microsoft is Killing the Adobe Flash Plugin on Windows 10](https://www.reviewgeek.com/81089/microsoft-is-killing-the-adobe-flash-plugin-on-windows-10/)
-* [Amazon Scores 'Thursday Night Football' Rights a Year Early](https://www.reviewgeek.com/80935/amazon-scores-thursday-night-football-exclusive-year-early/)
-* [Echo Show Mode Turns Some Lenovo Laptops Into Alexa Smart Displays](https://www.reviewgeek.com/81060/echo-show-mode-turns-some-lenovo-laptops-into-alexa-smart-displays/)
+* [Slap A Wallet on Your iPhone 12 with Otterbox's New MagSafe Options](https://www.reviewgeek.com/81359/slap-a-wallet-on-your-iphone-12-with-otterboxs-new-magsafe-options/)
+* [Lenovo Shows Off Its New Android Tablet With HDMI Input for External Devices](https://www.reviewgeek.com/81338/lenovo-shows-off-its-new-android-tablet-with-hdmi-input-for-external-devices/)
+* [This is No Trick: 'Loki' is Coming to Disney+ Two Days Early](https://www.reviewgeek.com/81323/this-is-no-trick-loki-is-coming-to-disney-two-days-early/)
+* [Peloton Recalls Its Treadmills Following Injuries and Death](https://www.reviewgeek.com/81284/peloton-recalls-its-treadmills-following-injuries-and-death/)
+* [Google Tries to Save Android Tablets With New Entertainment Space](https://www.reviewgeek.com/81289/google-tries-to-save-android-tablets-with-new-entertainment-space/)
+* [Own an Apple TV? Your AppleCare Coverage Just Got Extended to Three Years](https://www.reviewgeek.com/81298/own-an-apple-tv-your-coverage-just-got-extended-to-three-years/)
+* [Get a Home Gym and Personal Trainer with These Fitness Systems](https://www.lifesavvy.com/62460/get-a-home-gym-and-personal-trainer-with-these-fitness-systems/)
+* [YouTube TV Login is Broken for Many on Chromecast with Google TV](https://www.reviewgeek.com/81259/youtube-tv-login-is-broken-for-many-on-chromecast-with-google-tv/)
+* [All-Electric Bentley Coming in 2025 With a Little Help From Audi and VW](https://www.reviewgeek.com/81225/all-electric-bentley-coming-in-2025-with-a-little-help-from-audi-and-vw/)
+* [Signal Tries to Expose Facebook's Garbage Ad Collecting Practices, Gets Banned](https://www.reviewgeek.com/81214/signal-tries-to-expose-facebooks-garbage-ad-collecting-practices-gets-banned/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MH370 pilot made many turns and speed changes new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
-- [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
-- [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
-- [Berkshire Hathaway’s stock price is too high for Nasdaq computers](https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548)
-- [WiFiStation: A WiFi Interface for the Cidco MailStation](https://jcs.org/2021/04/23/wifistation)
-- [Cinder: Instagram's performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
-- [Kolmogorov Complexity: Extensions and Applications](https://blog.neotree.uber.space/posts/kolmogorov-complexity)
-- [Compose for Web](https://compose-web.ui.pages.jetbrains.team/)
-- [TrueVault (YC W14) is hiring an engineering lead to lead new privacy product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
-- [Draw Logos from Memory](https://neal.fun/logos-from-memory/)
+- [LiveLeak shuts down after 15 years](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
+- [Major Depressive Disorders Have an Enormous Economic Impact](https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/)
+- [Ask HN: How do you generally build a product?](https://news.ycombinator.com/item?id=27057978)
+- [How can an older worker going back to CS after a break find a position?](https://news.ycombinator.com/item?id=27057957)
+- [Live feed of Starship SN15 flight test [video]](https://www.spacex.com/vehicles/starship/index.html)
+- [The California Exception](https://pxlnv.com/linklog/california-exception/)
+- [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
+- [A Hybrid Approach to Work](https://blog.google/inside-google/life-at-google/hybrid-approach-work/)
+- [Indonesia coral reef partially restored in extensive project](https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/)
+- [Open sourcing Pixie under Apache 2.0 license](https://blog.px.dev/open-source-release/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

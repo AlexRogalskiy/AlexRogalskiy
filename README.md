@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The fight for Hartlepool – podcast](https://www.theguardian.com/news/audio/2021/may/05/the-fight-for-hartlepool-podcast)
-- [US birth rate sees biggest fall for nearly 50 years](https://www.theguardian.com/us-news/2021/may/05/us-birth-rate-sees-biggest-fall-for-nearly-50-years)
-- [Mali woman has given birth to nine babies, says health ministry](https://www.theguardian.com/world/2021/may/05/mali-woman-has-given-birth-to-nine-babies-says-health-ministry)
-- [In the green room: the 2021 Nikon surf photography awards](https://www.theguardian.com/sport/gallery/2021/may/05/in-the-green-room-the-2021-nikon-surf-photography-awards)
-- [North Korea faces economic ruin amid food and medicine shortages](https://www.theguardian.com/world/2021/may/05/north-korea-economic-crisis-food-and-medicine-shortages-covid)
-- [Derek Chauvin: ex-officer convicted in George Floyd’s murder asks for new trial](https://www.theguardian.com/us-news/2021/may/04/derek-chauvin-george-floyd-new-trial)
-- [Elite award-winners allowed fast-track route into UK](https://www.theguardian.com/uk-news/2021/may/05/elite-award-winners-allowed-fast-track-route-into-uk)
-- [Red Cross calls for UK to tackle inequalities exposed by Covid](https://www.theguardian.com/uk-news/2021/may/05/red-cross-calls-for-uk-to-tackle-inequalities-exposed-by-covid)
-- [HS2 workers to exhume 3,000 bodies in Buckinghamshire churchyard](https://www.theguardian.com/uk-news/2021/may/05/hs2-workers-to-exhume-3000-bodies-in-buckinghamshire-churchyard)
-- [Student Loans Company holds £18.3m in overpayments made since 2015](https://www.theguardian.com/money/2021/may/05/student-loans-company-holds-overpayments)
+- [How Jewish parents used Guardian ads to save their children’s lives - podcast](https://www.theguardian.com/news/audio/2021/may/06/how-jewish-parents-used-guardian-ads-to-save-their-childrens-lives-podcast)
+- [‘No food and no fuel’: Colombia torn by protests and violent crackdown](https://www.theguardian.com/global-development/2021/may/05/colombia-protests-unrest-protesters-police)
+- [Falling Chinese rocket to crash to Earth on weekend as US calls for ‘responsible space behaviours’](https://www.theguardian.com/science/2021/may/06/chinese-rocket-falling-crash-to-earth-saturday-china-space-station-long-march-5b-us-space-command)
+- [Anger at reports of UK proposals to ban Troubles-era prosecutions](https://www.theguardian.com/uk-news/2021/may/06/anger-at-plans-for-ban-on-troubles-era-british-army-prosecutions)
+- [Report condemns RUC for firing on Belfast flats in 1969, killing four people](https://www.theguardian.com/uk-news/2021/may/06/ruc-erred-at-troubles-dawn-by-firing-on-flats-from-armoured-cars)
+- [Two Pfizer Covid vaccine doses give over 95% protection, shows Israel study](https://www.theguardian.com/world/2021/may/05/two-pfizer-covid-vaccine-doses-give-over-95-protection-shows-israel-study)
+- [US declares support for patent waiver on Covid-19 vaccines](https://www.theguardian.com/world/2021/may/05/us-declares-support-for-patent-waiver-on-covid-19-vaccines)
+- [American students jailed for life for murder of police officer in Rome](https://www.theguardian.com/world/2021/may/05/american-students-jailed-for-life-for-of-policeman-in-rome)
+- [Johnny Vegas: Carry on Glamping – this daft TV quest will drive you round the bend](https://www.theguardian.com/tv-and-radio/2021/may/05/channel-4-carry-on-glamping-johnny-vegas)
+- [Bloods review – patchy paramedic comedy unlikely to split your sides](https://www.theguardian.com/tv-and-radio/2021/may/05/bloods-review-patchy-paramedic-comedy-unlikely-to-split-your-sides)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill and Melinda Gates to divorce after 27 years of marriage](https://www.theguardian.com/technology/2021/may/03/bill-gates-divorce-melinda-gates-billionaire-couple)
-- [1700 Cascadia Earthquake](https://en.wikipedia.org/wiki/1700_Cascadia_earthquake)
-- [We Use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
-- [Where Work Is Headed](https://merwanedrai.com/where-work-is-headed/)
-- [Oxygen intervention for India is more effective than top GiveWell interventions](https://twitter.com/technocrypto/status/1388944290626347015)
-- [Show HN: Water my plant using a Raspberry Pi](https://www.youtube.com/watch?v=HevMIs9dLh0)
-- [Hy: A dialect of Lisp that's embedded in Python](https://github.com/hylang/hy)
-- [Show HN: How to Remove All Facebook Interest Categories](https://gist.github.com/dvx/67db6e6ac085d960ea43b9510eb16fec)
-- [How do you do parental controls in 2021?](https://news.ycombinator.com/item?id=27045370)
-- [Over 20 deaths in Colombia protests and minimal media coverage](https://twitter.com/OVargas52/status/1389575160118788098)
+- [FsCodec 2.2 – F# Event-Union Contract Encoding](https://github.com/jet/FsCodec/releases/tag/2.2.0)
+- [It Began as an AI-Fueled Dungeon Game. It Got Much Darker](https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/)
+- [What Is a Tree?](https://web.archive.org/web/20140420004648/http://www.as.miami.edu/qr/arboretum/what_is_a_tree.html)
+- [Shifting the impossible to the inevitable: a private ARPA user manual](https://benjaminreinhardt.com/parpa)
+- [Ask HN: Why is silent coworking/ networking a thing?](https://news.ycombinator.com/item?id=27058470)
+- [Turning a 3D printer into an electrochemical CNC machine](https://www.youtube.com/watch?v=sN5v5NL24HE)
+- [Giving 2 Doses of Different Covid-19 Vaccines Could Boost Immune Response](https://www.npr.org/sections/health-shots/2021/05/05/993882203/giving-2-doses-of-different-covid-19-vaccine-could-boost-immune-response)
+- [Twitter Is Acquiring Scroll](https://blog.twitter.com/en_us/topics/company/2021/a-better-way-to-publish-and-read-on-twitter.html)
+- [Car Crash Detection saved me hours of suffering](https://www.reddit.com/r/GooglePixel/comments/lq3k0a/car_crash_detection_saved_me_hours_of_suffering/)
+- [Millions at security risk from old routers, provided by EE, Sky and Virgin](https://www.bbc.co.uk/news/technology-56996717)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

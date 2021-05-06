@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Buildings/put_your_own_house_in_order_get_your_own_house_in_order_715.php" target="_blank"><i>put your own house in order | get your own house in order</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/L/live_it_up_197.php" target="_blank"><i>live it up</i></a>
 <span> = </span>
-<span>If you say to someone "put your own house in order", or "get your own house in order", you think they should solve their own problems before telling someone else how to solve theirs.</span>
+<span>If you live it up, you enjoy yourself by doing things that cost a lot of money.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

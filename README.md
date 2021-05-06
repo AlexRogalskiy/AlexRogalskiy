@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/make/make_into_1776.php" target="_blank"><i>make into</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/chase_up_2265.php" target="_blank"><i>chase up</i></a>
 <span> = </span>
-<span>to change someone or something into someone or something different</span>
+<span>to try to find out what is being done about something, or what has happened to something</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

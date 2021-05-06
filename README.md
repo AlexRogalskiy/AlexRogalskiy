@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [With Apple's Claris, digital transformation goes to school](https://www.computerworld.com/article/3617457/with-apples-claris-digital-transformation-goes-to-school.html#tk.rss_all)
+- [Learn how to stop cybercrime with this low cost bundle, right from the comfort of home](https://www.computerworld.com/article/3617309/learn-how-to-stop-cybercrime-with-this-low-cost-bundle-right-from-the-comfort-of-home.html#tk.rss_all)
+- [Microsoft previews new Windows servicing APIs for enterprises](https://www.computerworld.com/article/3617301/microsoft-previews-new-windows-servicing-apis-for-enterprises.html#tk.rss_all)
 - [The Epic/Apple battle shows how execs think about their business](https://www.computerworld.com/article/3617496/the-epicapple-battle-shows-how-execs-think-about-their-business.html#tk.rss_all)
 - [A clever way to bring widgets into Chrome OS](https://www.computerworld.com/article/3617489/chrome-os-widgets.html#tk.rss_all)
 - [Getting passwords right for you and your business](https://www.computerworld.com/article/3617468/getting-passwords-right-for-you-and-your-business.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [6 fast fixes for common Google Docs problems](https://www.computerworld.com/article/3616678/6-fast-fixes-for-common-google-docs-problems.html#tk.rss_all)
 - [For Windows, it’s ‘squirrel away time’](https://www.computerworld.com/article/3617275/for-windows-its-squirrel-away-time.html#tk.rss_all)
 - [Next-gen digital whiteboards: 7 shared canvas apps for visual collaboration](https://www.computerworld.com/article/3616569/next-gen-digital-whiteboards-7-shared-canvas-apps-for-visual-collaboration.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

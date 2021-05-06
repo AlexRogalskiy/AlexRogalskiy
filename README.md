@@ -406,10 +406,10 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Masters in IT with finance bachelors](https://www.reddit.com/r/InformationTechnology/comments/n5kb5b/masters_in_it_with_finance_bachelors/)
 - [What printer scanner with a driver that does not break if it cannot phone home?](https://www.reddit.com/r/InformationTechnology/comments/n4t4bd/what_printer_scanner_with_a_driver_that_does_not/)
 - [Interview Questions. Would like some advice from the IT folks!](https://www.reddit.com/r/InformationTechnology/comments/n4i0vi/interview_questions_would_like_some_advice_from/)
 - [Help me pick my specialization](https://www.reddit.com/r/InformationTechnology/comments/n4hpvx/help_me_pick_my_specialization/)
-- [What are some of the Information Technology Problems that can be resolved by creating a system in general?](https://www.reddit.com/r/InformationTechnology/comments/n3s5kb/what_are_some_of_the_information_technology/)
 - [Healthcare to IT](https://www.reddit.com/r/InformationTechnology/comments/n3pfgi/healthcare_to_it/)
 - [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
 - [Remote entry level IT jobs?](https://www.reddit.com/r/InformationTechnology/comments/n35cd8/remote_entry_level_it_jobs/)

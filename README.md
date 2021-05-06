@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/Make_love_not_war_1310.php" target="_blank"><i>Make love not war</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/One_might_as_well_be_hanged_for_a_sheep_as_for_a_lamb_839.php" target="_blank"><i>One might as well be hanged for a sheep as for a lamb</i></a>
 <span> = </span>
-<span>1) Sex between people is better than fighting between countries. 2) Peace is better than war.</span>
+<span>If you are going to be killed for stealing a lamb, then why not steal a sheep (which is bigger and more valuable)? In general, it means that if you are going to get the same punishment, you may as well commit the greater offence.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

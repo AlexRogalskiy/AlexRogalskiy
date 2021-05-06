@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft fleshes out Power Apps](https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html#tk.rss_all)
+- [Splunk bundles ‘smart’ telemetry dashboards for cloud-native development](https://www.infoworld.com/article/3617850/splunk-bundles-smart-telemetry-dashboards-for-cloud-native-development.html#tk.rss_all)
+- [What’s new in Python 3.10](https://www.infoworld.com/article/3617460/whats-new-in-python-310.html#tk.rss_all)
+- [JetBrains previews Jetpack Compose for Web](https://www.infoworld.com/article/3617503/jetbrains-previews-jetpack-compose-for-web.html#tk.rss_all)
+- [Build real-time communication applications with Azure Web PubSub](https://www.infoworld.com/article/3617314/build-real-time-communication-applications-with-azure-web-pubsub.html#tk.rss_all)
+- [Get started with Blazor in .NET 5](https://www.infoworld.com/article/3617313/get-started-with-blazor-in-net-5.html#tk.rss_all)
+- [10 web accessibility improvements you can make right now](https://www.infoworld.com/article/3616695/10-web-accessibility-improvements-you-can-make-right-now.html#tk.rss_all)
 - [Is cloud architecture binary or analog?](https://www.infoworld.com/article/3617469/is-cloud-architecture-binary-or-analog.html#tk.rss_all)
 - [Next.js taps Webpack 5 for faster builds](https://www.infoworld.com/article/3617276/nextjs-taps-webpack-for-faster-builds.html#tk.rss_all)
 - [Why Gitops isn’t ready for the mainstream (yet)](https://www.infoworld.com/article/3617110/why-gitops-isnt-ready-for-the-mainstream-yet.html#tk.rss_all)
-- [When to incorporate design thinking in scrum](https://www.infoworld.com/article/3617141/when-to-incorporate-design-thinking-in-scrum.html#tk.rss_all)
-- [Cloud and digital transformation gain speed](https://www.infoworld.com/article/3616995/cloud-and-digital-transformation-gain-speed.html#tk.rss_all)
-- [Microsoft previews Azure service for building WebSocket applications](https://www.infoworld.com/article/3617113/microsoft-previews-azure-service-for-building-websocket-applications.html#tk.rss_all)
-- [JetBrains takes TeamCity CI/CD to the cloud](https://www.infoworld.com/article/3617080/jetbrains-takes-teamcity-cicd-to-the-cloud.html#tk.rss_all)
-- [How to be an in-demand cloud geek](https://www.infoworld.com/article/3617051/how-to-be-an-in-demand-cloud-geek.html#tk.rss_all)
-- [Make life easy with ssh_config](https://www.infoworld.com/article/3616590/make-life-easy-with-sshconfig.html#tk.rss_all)
-- [10 tips for tuning React UI performance](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

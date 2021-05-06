@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_2/merry_1075.php" target="_blank"><i>merry</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_4/ex_748.php" target="_blank"><i>ex</i></a>
 <span> = </span>
-<span>slightly and happily drunk</span>
+<span>a former partner or lover</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

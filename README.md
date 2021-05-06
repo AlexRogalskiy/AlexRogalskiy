@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Why ITAM can aid IT-fuelled business recovery](https://www.computerweekly.com/news/252500244/Why-ITAM-can-aid-IT-fuelled-business-recovery)
+- [Dysfunctional cyber, network teams disrupt digital transformation](https://www.computerweekly.com/news/252500251/Dysfunctional-cyber-network-teams-disrupt-digital-transformation)
+- [Sophos: How timely intervention stopped a ProxyLogon attack](https://www.computerweekly.com/news/252500236/Sophos-How-timely-intervention-stopped-a-ProxyLogon-attack)
+- [Interview: ONS data science chief Tom Smith on government data capability](https://www.computerweekly.com/news/252499885/Interview-ONS-data-science-chief-Tom-Smith-on-government-data-capability)
+- [Delivering international talent to Helsinki’s tech ecosystem](https://www.computerweekly.com/news/252500237/Delivering-international-talent-to-Helsinkis-tech-ecosystem)
+- [How GCHQ proposes to implement and use ethical AI](https://www.computerweekly.com/feature/How-GCHQ-proposes-to-implement-and-use-ethical-AI)
+- [Cambridge scale-up company Eagle Genomics expands in India](https://www.computerweekly.com/news/252500210/Cambridge-scale-up-company-Eagle-Genomics-expands-in-India)
+- [Post Office dishonesty in Horizon scandal is reason enough for statutory public inquiry](https://www.computerweekly.com/news/252500232/Post-Office-dishonesty-in-Horizon-scandal-is-reason-enough-for-statutory-public-inquiry)
+- [Deploying productivity monitoring software ethically](https://www.computerweekly.com/feature/Deploying-productivity-monitoring-software-ethically)
 - [Nebulon helps DCI offer high-performance edge hyper-converged](https://www.computerweekly.com/news/252500189/Nebulon-helps-DCI-offer-high-performance-edge-hyper-converged)
-- [Half of organisations breached via a third party in 12 months](https://www.computerweekly.com/news/252500190/Half-of-organisations-breached-via-a-third-party-in-12-months)
-- [Infosys to create 1,000 tech jobs in UK](https://www.computerweekly.com/news/252500180/Infosys-to-create-1000-tech-jobs-in-UK)
-- [Vodafone and Google Cloud expand big data platform collaboration with new six-year deal](https://www.computerweekly.com/news/252500171/Vodafone-and-Google-Cloud-expand-big-data-platform-collaboration)
-- [The practical steps needed to accelerate a UK digital identity ecosystem](https://www.computerweekly.com/opinion/The-practical-steps-needed-to-accelerate-a-UK-digital-identity-ecosystem)
-- [Tech firms unite to advance diversity and inclusion in the sector](https://www.computerweekly.com/news/252500078/Tech-firms-unite-to-advance-diversity-and-inclusion-in-the-sector)
-- [Post Office CEO either knew what was going on in Horizon scandal, or was ‘asleep at the wheel’](https://www.computerweekly.com/news/252500167/Post-Office-CEO-either-knew-what-was-going-on-in-Horizon-scandal-or-was-asleep-at-the-wheel)
-- [How KFC put digital on the menu](https://www.computerweekly.com/ezine/Computer-Weekly/How-KFC-put-digital-on-the-menu)
-- [Navigating the sticky issue of monitoring employee productivity](https://www.computerweekly.com/feature/Navigating-the-sticky-issue-of-monitoring-employee-productivity)
-- [EncroChat: Top lawyer warned CPS of risk that phone hacking warrants could be unlawful](https://www.computerweekly.com/news/252500061/EncroChat-Top-lawyer-warned-CPS-of-risk-that-phone-hacking-warrants-could-be-unlawful)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

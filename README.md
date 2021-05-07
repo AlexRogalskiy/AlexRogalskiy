@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LiveLeak shuts down after 15 years](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
-- [Major Depressive Disorders Have an Enormous Economic Impact](https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/)
-- [Ask HN: How do you generally build a product?](https://news.ycombinator.com/item?id=27057978)
-- [How can an older worker going back to CS after a break find a position?](https://news.ycombinator.com/item?id=27057957)
-- [Live feed of Starship SN15 flight test [video]](https://www.spacex.com/vehicles/starship/index.html)
-- [The California Exception](https://pxlnv.com/linklog/california-exception/)
-- [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
-- [A Hybrid Approach to Work](https://blog.google/inside-google/life-at-google/hybrid-approach-work/)
-- [Indonesia coral reef partially restored in extensive project](https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/)
-- [Open sourcing Pixie under Apache 2.0 license](https://blog.px.dev/open-source-release/)
+- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
+- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
+- [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
+- [College Became a Ruthless Competition Divorced from Learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
+- [Show HN: Serverless USGS historical topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
+- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
+- [California is not in drought](https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought)
+- [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Tip Jar](https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

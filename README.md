@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/One_might_as_well_be_hanged_for_a_sheep_as_for_a_lamb_839.php" target="_blank"><i>One might as well be hanged for a sheep as for a lamb</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_only_knocks_once_559.php" target="_blank"><i>Opportunity only knocks once</i></a>
 <span> = </span>
-<span>If you are going to be killed for stealing a lamb, then why not steal a sheep (which is bigger and more valuable)? In general, it means that if you are going to get the same punishment, you may as well commit the greater offence.</span>
+<span>We should take an opportunity (or chance) when it comes. According to this saying, it will not come again.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How Jewish parents used Guardian ads to save their children’s lives - podcast](https://www.theguardian.com/news/audio/2021/may/06/how-jewish-parents-used-guardian-ads-to-save-their-childrens-lives-podcast)
-- [‘No food and no fuel’: Colombia torn by protests and violent crackdown](https://www.theguardian.com/global-development/2021/may/05/colombia-protests-unrest-protesters-police)
-- [Falling Chinese rocket to crash to Earth on weekend as US calls for ‘responsible space behaviours’](https://www.theguardian.com/science/2021/may/06/chinese-rocket-falling-crash-to-earth-saturday-china-space-station-long-march-5b-us-space-command)
-- [Anger at reports of UK proposals to ban Troubles-era prosecutions](https://www.theguardian.com/uk-news/2021/may/06/anger-at-plans-for-ban-on-troubles-era-british-army-prosecutions)
-- [Report condemns RUC for firing on Belfast flats in 1969, killing four people](https://www.theguardian.com/uk-news/2021/may/06/ruc-erred-at-troubles-dawn-by-firing-on-flats-from-armoured-cars)
-- [Two Pfizer Covid vaccine doses give over 95% protection, shows Israel study](https://www.theguardian.com/world/2021/may/05/two-pfizer-covid-vaccine-doses-give-over-95-protection-shows-israel-study)
-- [US declares support for patent waiver on Covid-19 vaccines](https://www.theguardian.com/world/2021/may/05/us-declares-support-for-patent-waiver-on-covid-19-vaccines)
-- [American students jailed for life for murder of police officer in Rome](https://www.theguardian.com/world/2021/may/05/american-students-jailed-for-life-for-of-policeman-in-rome)
-- [Johnny Vegas: Carry on Glamping – this daft TV quest will drive you round the bend](https://www.theguardian.com/tv-and-radio/2021/may/05/channel-4-carry-on-glamping-johnny-vegas)
-- [Bloods review – patchy paramedic comedy unlikely to split your sides](https://www.theguardian.com/tv-and-radio/2021/may/05/bloods-review-patchy-paramedic-comedy-unlikely-to-split-your-sides)
+- [New Zealand man threatened with prosecution over penis pothole drawings](https://www.theguardian.com/world/2021/may/07/new-zealand-man-threatened-with-prosecution-over-penis-pothole-drawings)
+- [Noel Clarke and the allegations that have shaken the film and television industry – podcast](https://www.theguardian.com/news/audio/2021/may/07/noel-clarke-and-the-allegations-that-have-shaken-the-film-and-television-industry-podcast)
+- [US military has ‘no plan’ to shoot down debris from Chinese rocket](https://www.theguardian.com/science/2021/may/06/chinese-rocket-debris-us-military)
+- [Sixth-grade girl shoots three at Idaho middle school](https://www.theguardian.com/us-news/2021/may/06/idaho-middle-school-shooting)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/may/07/premier-league-10-things-to-look-out-for-this-weekend)
+- [UK ministers urged to make tech giants responsible for scams](https://www.theguardian.com/media/2021/may/07/uk-ministers-urged-to-make-tech-giants-responsible-for-scams-google-facebook)
+- [The online safety bill needs to cover fraud. Why doesn’t it? | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2021/may/07/the-online-safety-bill-needs-to-cover-why-doesnt-it)
+- [UK Sport eyeing 100 major events in next decade including 2030 World Cup](https://www.theguardian.com/sport/2021/may/07/uk-sport-eyeing-100-major-events-in-next-decade-including-2030-world-cup)
+- [Choice of Covid vaccines to be offered to Britons under 40](https://www.theguardian.com/society/2021/may/06/choice-of-covid-vaccines-to-be-offered-to-britons-under-40-as-well-as-under-30)
+- [UK needs £102bn boost to NHS and social care, says major report](https://www.theguardian.com/society/2021/may/06/uk-needs-102bn-boost-to-nhs-and-social-care-says-major-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

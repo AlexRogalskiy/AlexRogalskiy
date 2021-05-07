@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Podcast: How Apple v. Epic Games could force the App Store and iPhone to change forever](https://www.computerworld.com/article/3617912/podcast-how-apple-v-epic-games-could-force-the-app-store-and-iphone-to-change-forever.html#tk.rss_all)
+- [10+ Microsoft Teams tips for Mac users](https://www.computerworld.com/article/3618010/10-microsoft-teams-tips-for-mac-users.html#tk.rss_all)
+- [3 wacky ways to make Android widgets more useful](https://www.computerworld.com/article/3617828/android-widgets.html#tk.rss_all)
+- [Facebook's Workplace gets ‘Plugins,’ new app integrations](https://www.computerworld.com/article/3617868/facebooks-workplace-gets-plugins-new-app-integrations.html#tk.rss_all)
 - [With Apple's Claris, digital transformation goes to school](https://www.computerworld.com/article/3617457/with-apples-claris-digital-transformation-goes-to-school.html#tk.rss_all)
 - [Learn how to stop cybercrime with this low cost bundle, right from the comfort of home](https://www.computerworld.com/article/3617309/learn-how-to-stop-cybercrime-with-this-low-cost-bundle-right-from-the-comfort-of-home.html#tk.rss_all)
 - [Microsoft previews new Windows servicing APIs for enterprises](https://www.computerworld.com/article/3617301/microsoft-previews-new-windows-servicing-apis-for-enterprises.html#tk.rss_all)
 - [The Epic/Apple battle shows how execs think about their business](https://www.computerworld.com/article/3617496/the-epicapple-battle-shows-how-execs-think-about-their-business.html#tk.rss_all)
 - [A clever way to bring widgets into Chrome OS](https://www.computerworld.com/article/3617489/chrome-os-widgets.html#tk.rss_all)
-- [Getting passwords right for you and your business](https://www.computerworld.com/article/3617468/getting-passwords-right-for-you-and-your-business.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [6 fast fixes for common Google Docs problems](https://www.computerworld.com/article/3616678/6-fast-fixes-for-common-google-docs-problems.html#tk.rss_all)
-- [For Windows, it’s ‘squirrel away time’](https://www.computerworld.com/article/3617275/for-windows-its-squirrel-away-time.html#tk.rss_all)
-- [Next-gen digital whiteboards: 7 shared canvas apps for visual collaboration](https://www.computerworld.com/article/3616569/next-gen-digital-whiteboards-7-shared-canvas-apps-for-visual-collaboration.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

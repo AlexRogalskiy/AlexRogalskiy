@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FsCodec 2.2 – F# Event-Union Contract Encoding](https://github.com/jet/FsCodec/releases/tag/2.2.0)
-- [It Began as an AI-Fueled Dungeon Game. It Got Much Darker](https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/)
-- [What Is a Tree?](https://web.archive.org/web/20140420004648/http://www.as.miami.edu/qr/arboretum/what_is_a_tree.html)
-- [Shifting the impossible to the inevitable: a private ARPA user manual](https://benjaminreinhardt.com/parpa)
-- [Ask HN: Why is silent coworking/ networking a thing?](https://news.ycombinator.com/item?id=27058470)
-- [Turning a 3D printer into an electrochemical CNC machine](https://www.youtube.com/watch?v=sN5v5NL24HE)
-- [Giving 2 Doses of Different Covid-19 Vaccines Could Boost Immune Response](https://www.npr.org/sections/health-shots/2021/05/05/993882203/giving-2-doses-of-different-covid-19-vaccine-could-boost-immune-response)
-- [Twitter Is Acquiring Scroll](https://blog.twitter.com/en_us/topics/company/2021/a-better-way-to-publish-and-read-on-twitter.html)
-- [Car Crash Detection saved me hours of suffering](https://www.reddit.com/r/GooglePixel/comments/lq3k0a/car_crash_detection_saved_me_hours_of_suffering/)
-- [Millions at security risk from old routers, provided by EE, Sky and Virgin](https://www.bbc.co.uk/news/technology-56996717)
+- [SpaceX successfully landed a Starship prototype for the first time](https://www.theverge.com/2021/5/5/22421845/spacex-starship-sn15-successful-landing)
+- [A Hippie Named Marcy](https://oddculture.com/a-hippie-named-marcy-1967-a-child-again/)
+- [Whyline for Java](https://github.com/amyjko/whyline)
+- [Why Mighty Might Work](https://blog.dfilimonov.com/2021/05/06/why-mighty-might-work.html)
+- [Further evidence supports claim: SARS-CoV-2 genes can integrate with human DNA](https://www.sciencemag.org/news/2021/05/further-evidence-offered-claim-genes-pandemic-coronavirus-can-integrate-human-dna)
+- [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
+- [Manage Team, time tracking, timesheet, vacation and billing rate in Jira](https://marketplace.atlassian.com/apps/1224927/team-resource-time-tracking-timesheet-cost-management?hosting=cloud&tab=overview)
+- [Three interesting refrains of Coders at Work](https://www.benkuhn.net/caw/)
+- [Einstein’s 1905 paper on the Photoelectric Effect](https://www.cantorsparadise.com/einsteins-1905-paper-on-the-photoelectric-effect-d258739ef8d1)
+- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/L/live_it_up_197.php" target="_blank"><i>live it up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/across_the_board_32.php" target="_blank"><i>across the board</i></a>
 <span> = </span>
-<span>If you live it up, you enjoy yourself by doing things that cost a lot of money.</span>
+<span>If something is across the board, it relates to all without exception.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

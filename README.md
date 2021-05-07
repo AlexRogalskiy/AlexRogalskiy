@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Slap A Wallet on Your iPhone 12 with Otterbox's New MagSafe Options](https://www.reviewgeek.com/81359/slap-a-wallet-on-your-iphone-12-with-otterboxs-new-magsafe-options/)
-* [Lenovo Shows Off Its New Android Tablet With HDMI Input for External Devices](https://www.reviewgeek.com/81338/lenovo-shows-off-its-new-android-tablet-with-hdmi-input-for-external-devices/)
-* [This is No Trick: 'Loki' is Coming to Disney+ Two Days Early](https://www.reviewgeek.com/81323/this-is-no-trick-loki-is-coming-to-disney-two-days-early/)
-* [Peloton Recalls Its Treadmills Following Injuries and Death](https://www.reviewgeek.com/81284/peloton-recalls-its-treadmills-following-injuries-and-death/)
-* [Google Tries to Save Android Tablets With New Entertainment Space](https://www.reviewgeek.com/81289/google-tries-to-save-android-tablets-with-new-entertainment-space/)
-* [Own an Apple TV? Your AppleCare Coverage Just Got Extended to Three Years](https://www.reviewgeek.com/81298/own-an-apple-tv-your-coverage-just-got-extended-to-three-years/)
-* [Get a Home Gym and Personal Trainer with These Fitness Systems](https://www.lifesavvy.com/62460/get-a-home-gym-and-personal-trainer-with-these-fitness-systems/)
-* [YouTube TV Login is Broken for Many on Chromecast with Google TV](https://www.reviewgeek.com/81259/youtube-tv-login-is-broken-for-many-on-chromecast-with-google-tv/)
-* [All-Electric Bentley Coming in 2025 With a Little Help From Audi and VW](https://www.reviewgeek.com/81225/all-electric-bentley-coming-in-2025-with-a-little-help-from-audi-and-vw/)
-* [Signal Tries to Expose Facebook's Garbage Ad Collecting Practices, Gets Banned](https://www.reviewgeek.com/81214/signal-tries-to-expose-facebooks-garbage-ad-collecting-practices-gets-banned/)
+* [Google Play Store to Require Privacy Info Section, Like Apple App Store](https://www.reviewgeek.com/81554/google-play-store-to-require-privacy-info-section-like-apple-app-store/)
+* [IBM's Revolutionary 2nm Chip Uses Components Smaller Than a Strand of DNA](https://www.reviewgeek.com/81551/ibms-revolutionary-2nm-chip-uses-components-smaller-than-a-strand-of-dna/)
+* [Paramount+ Will Release a New Movie Every Week of 2022](https://www.reviewgeek.com/81536/paramount-will-release-a-new-movie-every-week-of-2022/)
+* [Google is Going to Make You Use 2FA Whether You Like it Or Not](https://www.reviewgeek.com/81535/google-is-going-to-make-you-use-2fa-whether-you-like-it-or-not/)
+* [Qualcomm is Patching a Critical Bug on Android](https://www.reviewgeek.com/81540/qualcomm-is-patching-a-critical-bug-on-android/)
+* [New 'Stranger Things' Season 4 Trailer References Eleven's Origins](https://www.reviewgeek.com/81512/new-stranger-things-season-4-trailer-references-elevens-origins/)
+* [Yeehaw! Cowboy Drops Two Powerful and Sleek New Electric Bikes](https://www.reviewgeek.com/81450/yeehaw-cowboy-drops-two-powerful-and-sleek-new-electric-bikes/)
+* [Wyze is Increasing Prices Due to the Global Material Shortages](https://www.reviewgeek.com/81510/wyze-is-increasing-prices-due-to-the-global-material-shortages/)
+* [We Were Gonna Tell You About Hisense's New TVs, but This Video is So Much Better](https://www.reviewgeek.com/81480/we-were-gonna-tell-you-about-hisenses-new-tvs-but-this-video-is-so-much-better/)
+* [Google's New Family Broadcast Feature Sends Messages From Speakers to Smartphones](https://www.reviewgeek.com/81456/googles-new-family-broadcast-feature-sends-messages-from-speakers-to-smartphones/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

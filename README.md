@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Industry leaders form new Semiconductor Council to strengthen Canada’s chip supply chain](https://www.itworldcanada.com/article/industry-leaders-form-new-semiconductor-council-to-strengthen-canadas-chip-supply-chain/447043)
+- [PayIt may not gain expected adoption with Toronto’s online payment contract, says SQL CEO](https://www.itworldcanada.com/article/payit-wont-gain-expected-adoption-with-torontos-online-payment-contract-says-sql-ceo/447038)
+- [TCL throws in a free TV with the TCL 20 Pro 5G smartphone](https://www.itworldcanada.com/article/tcl-throws-in-a-free-tv-with-the-tcl-20-pro-5g-smartphone/447014)
+- [Dell Technologies launches APEX, announces Equinix partnership](https://www.itworldcanada.com/article/dell-technologies-launches-apex-announces-equinix-partnership/447018)
+- [Will this be the last World Password Day?](https://www.itworldcanada.com/article/will-this-be-the-last-world-password-day/446997)
+- [Hashtag Trending, May 6, 2021 – #DeleteFacebook; Halting bitcoin mining; Amazon sued for false advertising](https://www.itworldcanada.com/article/hashtag-trending-may-6-2021-deletefacebook-halting-bitcoin-mining-amazon-sued-for-false-advertising/446993)
 - [Malware uses ICMP tunneling for backdoor communications](https://www.itworldcanada.com/article/malware-uses-icmp-tunneling-for-backdoor-communications/446929)
 - [Cyber Security Today, May 5, 2021 – World Password Day advice, your car’s infotainment system may be a privacy risk, plus vendor security updates](https://www.itworldcanada.com/article/cyber-security-today-may-5-2021-world-password-day-advice-your-cars-infotainment-system-may-be-a-privacy-risk-plus-vendor-security-updates/446952)
 - [Hashtag Trending, May 5, 2021 – Wealthsimple snags $750M in funding; Bill and Melinda split; Use of ad blockers surge](https://www.itworldcanada.com/article/hashtag-trending-may-5-2021-wealthsimple-snags-750m-in-funding-bill-and-melinda-split-use-of-ad-blockers-surge/446956)
 - [CIO Association of Canada award winners announced](https://www.itworldcanada.com/article/cio-association-of-canada-award-winners-announced/446943)
-- [Coffee Briefing, May 4, 2021 – Red Hat Summit announcements, OVHcloud fire update, plus more](https://www.itworldcanada.com/article/coffee-briefing-may-4-2021-red-hat-summit-announcements-ovhcloud-fire-update-plus-more/446919)
-- [Hashtag Trending, May 4, 2021 – Ethereum quadruples in value; Verizon sells Yahoo and AOL for $5 billion; Intel investing $3.5B in fab upgrade](https://www.itworldcanada.com/article/hashtag-trending-may-4-2021-ethereum-quadruples-in-value-verizon-sells-yahoo-and-aol-for-5-billion-intel-investing-3-5b-in-fab-upgrade/446915)
-- [Bell launches BSURE managed cybersecurity solutions with Fortinet](https://www.itworldcanada.com/article/bell-launches-bsure-managed-cybersecurity-solutions-with-fortinet/446904)
-- [CIO Strategy Council seeking input on proposed standards for responsible use of contact tracing data](https://www.itworldcanada.com/article/cio-strategy-council-seeking-input-on-proposed-standards-for-responsible-use-of-contact-tracing-data/446858)
-- [Infosec pros urged to patch IoT and OT devices](https://www.itworldcanada.com/article/infosec-pros-urged-to-patch-iot-and-ot-devices/446883)
-- [Red Hat announces open hybrid cloud and edge solutions at summit](https://www.itworldcanada.com/article/red-hat-announced-open-hybrid-cloud-and-edge-solutions-at-summit/446873)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

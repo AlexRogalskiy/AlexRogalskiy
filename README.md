@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Am I the only one considering to leave IT industry because it could be so boring](https://www.reddit.com/r/InformationTechnology/comments/n63u85/am_i_the_only_one_considering_to_leave_it/)
+- [Senior in high school needing a help with a plan to get into this field I love.](https://www.reddit.com/r/InformationTechnology/comments/n5zuol/senior_in_high_school_needing_a_help_with_a_plan/)
 - [Masters in IT with finance bachelors](https://www.reddit.com/r/InformationTechnology/comments/n5kb5b/masters_in_it_with_finance_bachelors/)
 - [What printer scanner with a driver that does not break if it cannot phone home?](https://www.reddit.com/r/InformationTechnology/comments/n4t4bd/what_printer_scanner_with_a_driver_that_does_not/)
 - [Interview Questions. Would like some advice from the IT folks!](https://www.reddit.com/r/InformationTechnology/comments/n4i0vi/interview_questions_would_like_some_advice_from/)
@@ -414,8 +416,6 @@
 - [Interview assignment, need IT worker](https://www.reddit.com/r/InformationTechnology/comments/n3ilff/interview_assignment_need_it_worker/)
 - [Remote entry level IT jobs?](https://www.reddit.com/r/InformationTechnology/comments/n35cd8/remote_entry_level_it_jobs/)
 - [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2fpgo/academica_review_on_factors_influencing_open/)
-- [[Academic]A Review on Factors Influencing Open Source Software Adoption by Users in IT Profession (IT Professionals , India, Above 18 years)](https://www.reddit.com/r/InformationTechnology/comments/n2f44n/academica_review_on_factors_influencing_open/)
-- [SSD labeled NVMe - with B+M key?](https://www.reddit.com/r/InformationTechnology/comments/n2e8qc/ssd_labeled_nvme_with_bm_key/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

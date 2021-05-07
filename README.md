@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;98&#x2F;2f&#x2F;5f&#x2F;982f5f1480155a91b80764dabff87038.jpg" alt="Feeling lackadaisical? It&#39;s a good Word of the Day for a Friday. Click to learn more! #Vocabulary #Learn #English #Writing" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5b&#x2F;ab&#x2F;7a&#x2F;5bab7a55d82a2eab8202f4c30e279944.jpg" alt="We planned this #WordOfTheDay. It&#39;s machinate. Learn how to say it, get examples, and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9d&#x2F;f4&#x2F;2c&#x2F;9df42c5e6714d1e8e77000298f907ee5.jpg" alt="If the force is strong with you, you may recognize this special May the Fourth Word of the Day. It&#39;s thrawn. Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b7&#x2F;06&#x2F;cf&#x2F;b706cf0c2bac8f6052ba5d4e8edfb2ed.jpg" alt="Keep calm. Equanimity is the Word of the Day. Click for example sentences, etymology, and more from the world&#39;s leading online dictionary. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;29&#x2F;e5&#x2F;7229e5e26e1f7a4ed4a4c55214e848ce.jpg" alt="If the Word of the Day isn&#39;t broken, don&#39;t fix it. That&#39;s an apothegm. Learn how to say it and more at Dictionary.com. #English #Writing #Vocabulary #Learn " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,9 +273,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>broken clouds</i>), humidity: 87%, pressure: 1004 (mbar), wind: /north/ 1 (m/s), cloudy: 75%</b>
+        <b>4°C (<i>clear sky</i>), humidity: 87%, pressure: 1004 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>04:41 am</b> and sets at <b>21:09 pm</b>.
+        Today, the Sun rises at <b>04:38 am</b> and sets at <b>21:12 pm</b>.
     </p>
 </div>
 

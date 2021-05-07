@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_4/ex_748.php" target="_blank"><i>ex</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/old_bat_1456.php" target="_blank"><i>old bat</i></a>
 <span> = </span>
-<span>a former partner or lover</span>
+<span>an unpleasant old woman</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

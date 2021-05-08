@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Google Play Store to Require Privacy Info Section, Like Apple App Store](https://www.reviewgeek.com/81554/google-play-store-to-require-privacy-info-section-like-apple-app-store/)
-* [IBM's Revolutionary 2nm Chip Uses Components Smaller Than a Strand of DNA](https://www.reviewgeek.com/81551/ibms-revolutionary-2nm-chip-uses-components-smaller-than-a-strand-of-dna/)
-* [Paramount+ Will Release a New Movie Every Week of 2022](https://www.reviewgeek.com/81536/paramount-will-release-a-new-movie-every-week-of-2022/)
-* [Google is Going to Make You Use 2FA Whether You Like it Or Not](https://www.reviewgeek.com/81535/google-is-going-to-make-you-use-2fa-whether-you-like-it-or-not/)
-* [Qualcomm is Patching a Critical Bug on Android](https://www.reviewgeek.com/81540/qualcomm-is-patching-a-critical-bug-on-android/)
-* [New 'Stranger Things' Season 4 Trailer References Eleven's Origins](https://www.reviewgeek.com/81512/new-stranger-things-season-4-trailer-references-elevens-origins/)
-* [Yeehaw! Cowboy Drops Two Powerful and Sleek New Electric Bikes](https://www.reviewgeek.com/81450/yeehaw-cowboy-drops-two-powerful-and-sleek-new-electric-bikes/)
-* [Wyze is Increasing Prices Due to the Global Material Shortages](https://www.reviewgeek.com/81510/wyze-is-increasing-prices-due-to-the-global-material-shortages/)
-* [We Were Gonna Tell You About Hisense's New TVs, but This Video is So Much Better](https://www.reviewgeek.com/81480/we-were-gonna-tell-you-about-hisenses-new-tvs-but-this-video-is-so-much-better/)
-* [Google's New Family Broadcast Feature Sends Messages From Speakers to Smartphones](https://www.reviewgeek.com/81456/googles-new-family-broadcast-feature-sends-messages-from-speakers-to-smartphones/)
+* [Tile Gains Amazon Sidewalk Support to Better Compete with AirTags](https://www.reviewgeek.com/81735/tile-gains-amazon-sidewalk-support-to-better-compete-with-airtags/)
+* [[Updated] Google Bypasses Roku's YouTube TV Ban by Moving It to the Main YouTube App](https://www.reviewgeek.com/81697/google-bypasses-rokus-youtube-tv-ban-by-moving-it-to-the-main-youtube-app/)
+* [Google Brings Docking Stations Into the "Works with Chromebook" Fold](https://www.reviewgeek.com/81669/google-brings-docking-stations-into-the-works-with-chromebook-fold/)
+* [New iFixit Video Shows How to Drill a Keyring Hole in Your AirTag](https://www.reviewgeek.com/81649/new-ifixit-video-shows-how-to-drill-a-keyring-hole-in-your-airtag/)
+* [A New Pilot Program Will Bring Tesla Model Y Taxis to NYC](https://www.reviewgeek.com/81680/a-new-pilot-program-will-bring-tesla-model-y-taxis-to-nyc/)
+* [Netflix Could Launch "N-Plus" Community for Fans of Its Originals](https://www.reviewgeek.com/81617/netflix-could-launch-n-plus-community-for-fans-of-its-originals/)
+* [HP's Newest All-in-One PC is a Work from Home Powerhouse](https://www.reviewgeek.com/81626/hps-newest-all-in-one-pc-is-a-work-from-home-powerhouse/)
+* [NBC is Bringing Tokyo Olympic Game Coverage to Twitch](https://www.reviewgeek.com/81643/nbc-is-bringing-tokyo-olympic-game-coverage-to-twitch/)
+* [Microsoft Shutters Windows 10X, at Least For Now](https://www.reviewgeek.com/81621/microsoft-shutters-windows-10x-at-least-for-now/)
+* [How to Turn off Autocorrect for Android](https://www.howtogeek.com/726401/how-to-turn-off-autocorrect-for-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand man threatened with prosecution over penis pothole drawings](https://www.theguardian.com/world/2021/may/07/new-zealand-man-threatened-with-prosecution-over-penis-pothole-drawings)
-- [Noel Clarke and the allegations that have shaken the film and television industry – podcast](https://www.theguardian.com/news/audio/2021/may/07/noel-clarke-and-the-allegations-that-have-shaken-the-film-and-television-industry-podcast)
-- [US military has ‘no plan’ to shoot down debris from Chinese rocket](https://www.theguardian.com/science/2021/may/06/chinese-rocket-debris-us-military)
-- [Sixth-grade girl shoots three at Idaho middle school](https://www.theguardian.com/us-news/2021/may/06/idaho-middle-school-shooting)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/may/07/premier-league-10-things-to-look-out-for-this-weekend)
-- [UK ministers urged to make tech giants responsible for scams](https://www.theguardian.com/media/2021/may/07/uk-ministers-urged-to-make-tech-giants-responsible-for-scams-google-facebook)
-- [The online safety bill needs to cover fraud. Why doesn’t it? | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2021/may/07/the-online-safety-bill-needs-to-cover-why-doesnt-it)
-- [UK Sport eyeing 100 major events in next decade including 2030 World Cup](https://www.theguardian.com/sport/2021/may/07/uk-sport-eyeing-100-major-events-in-next-decade-including-2030-world-cup)
-- [Choice of Covid vaccines to be offered to Britons under 40](https://www.theguardian.com/society/2021/may/06/choice-of-covid-vaccines-to-be-offered-to-britons-under-40-as-well-as-under-30)
-- [UK needs £102bn boost to NHS and social care, says major report](https://www.theguardian.com/society/2021/may/06/uk-needs-102bn-boost-to-nhs-and-social-care-says-major-report)
+- [Zulu queen’s will designates Prince Misuzulu as heir](https://www.theguardian.com/world/2021/may/08/zulu-queens-will-designates-prince-misuzulu-as-heir)
+- [‘Christchurch Call’: Biden backs New Zealand stand against online extremism](https://www.theguardian.com/us-news/2021/may/08/christchurch-call-biden-backs-new-zealand-stand-against-online-extremism)
+- [Over 1m homes in England with planning permission not built](https://www.theguardian.com/society/2021/may/08/over-1m-homes-in-england-with-planning-permission-not-built)
+- [Israeli police clash with protesters over Palestinian evictions](https://www.theguardian.com/world/2021/may/07/israeli-police-clash-with-protesters-over-palestinian-evictions)
+- [Mayor of Mexican town and two officials arrested over disappearance of activist](https://www.theguardian.com/world/2021/may/07/mexico-mayor-arrested-disappearance-activist)
+- [Frustrated Andy Murray plots return from latest injury setback](https://www.theguardian.com/sport/2021/may/07/frustrated-andy-murray-plots-return-from-latest-injury-setback)
+- [New York boy stuns family with $2,618 Amazon order for SpongeBob popsicles](https://www.theguardian.com/us-news/2021/may/07/boy-orders-900-popsicles-family-giant-bill)
+- [Labour makes big gains in Wales defeating ex-Plaid Cymru leader](https://www.theguardian.com/politics/2021/may/07/welsh-voters-deliver-mixed-election-results-for-labour-and-tories)
+- [Wilson fires double as Newcastle dent Leicester’s top-four hopes](https://www.theguardian.com/football/2021/may/07/leicester-newcastle-premier-league-match-report)
+- [Nicola Sturgeon plays down SNP prospects after pro-UK tactical voting](https://www.theguardian.com/politics/2021/may/07/nicola-sturgeon-plays-down-snp-prospects-after-pro-uk-tactical-voting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin 1.5.0 arrives with JVM records, sealed interfaces](https://www.infoworld.com/article/3615548/kotlin-150-stabilizes-unsigned-integer-types.html#tk.rss_all)
+- [When not to use edge computing](https://www.infoworld.com/article/3617990/when-not-to-use-edge-computing.html#tk.rss_all)
+- [Visual Studio Code 1.56 improves hover feedback, debugging](https://www.infoworld.com/article/3617915/visual-studio-code-156-improves-hover-feedback-debugging.html#tk.rss_all)
 - [Instagram open sources high-performance Python fork](https://www.infoworld.com/article/3617913/instagram-open-sources-high-performance-python-fork.html#tk.rss_all)
 - [Pyston project open sources its faster Python](https://www.infoworld.com/article/3618169/pyston-project-open-sources-its-faster-python.html#tk.rss_all)
 - [How a digital integration hub transforms the mainframe](https://www.infoworld.com/article/3617300/how-a-digital-integration-hub-transforms-the-mainframe.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Microsoft fleshes out Power Apps](https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html#tk.rss_all)
 - [Splunk bundles ‘smart’ telemetry dashboards for cloud-native development](https://www.infoworld.com/article/3617850/splunk-bundles-smart-telemetry-dashboards-for-cloud-native-development.html#tk.rss_all)
 - [What’s new in Python 3.10](https://www.infoworld.com/article/3617460/whats-new-in-python-310.html#tk.rss_all)
-- [JetBrains previews Jetpack Compose for Web](https://www.infoworld.com/article/3617503/jetbrains-previews-jetpack-compose-for-web.html#tk.rss_all)
-- [Build real-time communication applications with Azure Web PubSub](https://www.infoworld.com/article/3617314/build-real-time-communication-applications-with-azure-web-pubsub.html#tk.rss_all)
-- [Get started with Blazor in .NET 5](https://www.infoworld.com/article/3617313/get-started-with-blazor-in-net-5.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
-- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
-- [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
-- [College Became a Ruthless Competition Divorced from Learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
-- [Show HN: Serverless USGS historical topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
-- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
-- [California is not in drought](https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought)
-- [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
-- [Tip Jar](https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html)
+- [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
+- [South Carolina moves closer to allowing death by firing squad](https://www.bbc.com/news/world-us-canada-57027628)
+- [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
+- [Back-ups for GPS: Satellite-navigation systems at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming)
+- [The Distribution Vector That Changed Linux Forever](https://tedium.co/2021/05/07/linux-live-cd-history/)
+- [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
+- [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
+- [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
+- [Little Free Library](http://littlefreelibrary.org/)
+- [Starlink Satellites Tracker](https://findstarlink.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

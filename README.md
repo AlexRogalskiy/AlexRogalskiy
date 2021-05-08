@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Government urged to add scam protections to Online Safety Bill](https://www.computerweekly.com/news/252500312/Government-urged-to-add-scam-protections-to-Online-Safety-Bill)
-- [Tech startups turn to digital PR platform for media exposure](https://www.computerweekly.com/news/252500327/Tech-startups-turn-to-digital-PR-platform-for-media-exposure)
-- [Scammers accidentally reveal fake Amazon review data](https://www.computerweekly.com/news/252500326/Scammers-accidentally-reveal-fake-Amazon-review-data)
-- [Google to introduce mandatory MFA for users](https://www.computerweekly.com/news/252500323/Google-to-introduce-mandatory-MFA-for-users)
-- [Premier League promotes football analytics with Oracle Cloud](https://www.computerweekly.com/news/252500303/Premier-League-promotes-football-analytics-with-Oracle-Cloud)
-- [Netherlands to build new national supercomputer](https://www.computerweekly.com/news/252500314/Netherlands-to-build-new-national-supercomputer)
-- [Dell Technologies World: Amex CEO on how Covid-19 has accelerated consumer adoption of e-commerce](https://www.computerweekly.com/news/252500311/Dell-Technologies-World-Amex-CEO-on-how-Covid-19-has-accelerated-consumer-adoption-of-E-commerce)
-- [HSBC blocks £249m in UK fraud with voice biometrics](https://www.computerweekly.com/news/252500302/HSBC-blocks-249m-in-UK-fraud-with-voice-biometrics)
-- [Why ITAM can aid IT-fuelled business recovery](https://www.computerweekly.com/news/252500244/Why-ITAM-can-aid-IT-fuelled-business-recovery)
-- [Dysfunctional cyber, network teams disrupt digital transformation](https://www.computerweekly.com/news/252500251/Dysfunctional-cyber-network-teams-disrupt-digital-transformation)
+- [How do I get my users to pay attention to security training?](https://www.computerweekly.com/feature/How-do-I-get-my-users-to-pay-attention-to-security-training)
+- [NCSC, CISA publish new information on Russia’s Cozy Bear](https://www.computerweekly.com/news/252500409/NCSC-CISA-publish-new-information-on-Russias-Cozy-Bear)
+- [NCSC publishes smart city security guidelines](https://www.computerweekly.com/news/252500407/NCSC-publishes-smart-city-security-guidelines)
+- [Post Office contacts over 500 subpostmasters potentially wrongly prosecuted for financial crimes](https://www.computerweekly.com/news/252500406/Post-Office-contacts-over-500-subpostmasters-potentially-wrongly-prosecuted-for-financial-crimes)
+- [Monmouthshire County Council digitises HR with Zellis Cloud](https://www.computerweekly.com/news/252500200/Monmouthshire-County-Council-digitises-HR-with-Zellis-Cloud)
+- [Cyber accreditation to improve legal standing of security pros](https://www.computerweekly.com/news/252500398/Cyber-accreditation-to-improve-legal-standing-of-security-pros)
+- [Securing the UK's emerging smart cities](https://www.computerweekly.com/opinion/Securing-the-UKs-emerging-smart-cities)
+- [Reddit enlists HackerOne to run public bug bounty programme](https://www.computerweekly.com/news/252500401/Reddit-enlists-HackerOne-to-run-public-bug-bounty-programme)
+- [Nordic real estate industry moves digital](https://www.computerweekly.com/news/252500322/Nordic-real-estate-industry-moves-digital)
+- [Minister promises ‘fair and speedy’ compensation for 555 subpostmasters who defeated Post Office](https://www.computerweekly.com/news/252500395/Minister-promises-fair-and-speedy-compensation-for-555-subpostmasters-who-defeated-Post-Office)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Apple, Earthlink and the digital transformation of everything](https://www.computerworld.com/article/3617996/apple-earthlink-and-the-digital-transformation-of-everything.html#tk.rss_all)
+- [Rethinking business as usual: How to thrive as a manager In the ‘20s](https://www.computerworld.com/article/3617916/rethinking-business-as-usual-how-to-thrive-as-a-manager-in-the-20s.html#tk.rss_all)
+- [The loneliness of the long-distance worker](https://www.computerworld.com/article/3617277/the-loneliness-of-the-long-distance-worker.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Podcast: How Apple v. Epic Games could force the App Store and iPhone to change forever](https://www.computerworld.com/article/3617912/podcast-how-apple-v-epic-games-could-force-the-app-store-and-iphone-to-change-forever.html#tk.rss_all)
 - [10+ Microsoft Teams tips for Mac users](https://www.computerworld.com/article/3618010/10-microsoft-teams-tips-for-mac-users.html#tk.rss_all)
 - [3 wacky ways to make Android widgets more useful](https://www.computerworld.com/article/3617828/android-widgets.html#tk.rss_all)
 - [Facebook's Workplace gets ‘Plugins,’ new app integrations](https://www.computerworld.com/article/3617868/facebooks-workplace-gets-plugins-new-app-integrations.html#tk.rss_all)
 - [With Apple's Claris, digital transformation goes to school](https://www.computerworld.com/article/3617457/with-apples-claris-digital-transformation-goes-to-school.html#tk.rss_all)
-- [Learn how to stop cybercrime with this low cost bundle, right from the comfort of home](https://www.computerworld.com/article/3617309/learn-how-to-stop-cybercrime-with-this-low-cost-bundle-right-from-the-comfort-of-home.html#tk.rss_all)
-- [Microsoft previews new Windows servicing APIs for enterprises](https://www.computerworld.com/article/3617301/microsoft-previews-new-windows-servicing-apis-for-enterprises.html#tk.rss_all)
-- [The Epic/Apple battle shows how execs think about their business](https://www.computerworld.com/article/3617496/the-epicapple-battle-shows-how-execs-think-about-their-business.html#tk.rss_all)
-- [A clever way to bring widgets into Chrome OS](https://www.computerworld.com/article/3617489/chrome-os-widgets.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

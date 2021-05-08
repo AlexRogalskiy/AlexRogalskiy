@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;98&#x2F;2f&#x2F;5f&#x2F;982f5f1480155a91b80764dabff87038.jpg" alt="Feeling lackadaisical? It&#39;s a good Word of the Day for a Friday. Click to learn more! #Vocabulary #Learn #English #Writing" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;98&#x2F;2f&#x2F;5f&#x2F;982f5f1480155a91b80764dabff87038.jpg" alt="Feeling lackadaisical? It&#39;s a good Word of the Day for a Friday. Click to learn more! #Vocabulary #Learn #English #Writing " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5b&#x2F;ab&#x2F;7a&#x2F;5bab7a55d82a2eab8202f4c30e279944.jpg" alt="We planned this #WordOfTheDay. It&#39;s machinate. Learn how to say it, get examples, and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9d&#x2F;f4&#x2F;2c&#x2F;9df42c5e6714d1e8e77000298f907ee5.jpg" alt="If the force is strong with you, you may recognize this special May the Fourth Word of the Day. It&#39;s thrawn. Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b7&#x2F;06&#x2F;cf&#x2F;b706cf0c2bac8f6052ba5d4e8edfb2ed.jpg" alt="Keep calm. Equanimity is the Word of the Day. Click for example sentences, etymology, and more from the world&#39;s leading online dictionary. " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>4°C (<i>light rain</i>), humidity: 87%, pressure: 1002 (mbar), wind: /east/ 4 (m/s), cloudy: 90%</b>
+        <b>3°C (<i>light rain</i>), humidity: 87%, pressure: 1005 (mbar), wind: /east/ 5 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>04:38 am</b> and sets at <b>21:12 pm</b>.
     </p>

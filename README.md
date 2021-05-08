@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [How a student’s hunt for free software led to a research institute being crippled by ransomware](https://www.itworldcanada.com/article/how-a-students-hunt-for-free-software-led-to-a-research-institute-being-crippled-by-ransomware/447079)
+- [E-signatures essential for the anywhere economy](https://www.itworldcanada.com/article/e-signatures-essential-for-the-anywhere-economy/447090)
+- [Cyber insurers now demanding firms have MFA, says Canadian broker](https://www.itworldcanada.com/article/cyber-insurers-now-demanding-firms-have-mfa-says-canadian-broker/447004)
+- [Cyber Security Today, May 7, 2021 – Security of restaurant online ordering platforms questioned, Google gets tough with 2FA and product review scam revealed](https://www.itworldcanada.com/article/cyber-security-today-may-7-2021-security-of-restaurant-online-ordering-platforms-questioned-google-gets-tough-with-2fa-and-fake-online-product-review-scam-revealed/447053)
+- [Hashtag Trending, May 7, 2021 – Canada’s top tech companies in 2021; Facebook shuts down Signal ads; Google Docs VS Word](https://www.itworldcanada.com/article/hashtag-trending-may-7-2021-canadas-top-tech-companies-in-2021-facebook-shuts-down-signal-ads-google-docs-vs-word/447072)
 - [Industry leaders form new Semiconductor Council to strengthen Canada’s chip supply chain](https://www.itworldcanada.com/article/industry-leaders-form-new-semiconductor-council-to-strengthen-canadas-chip-supply-chain/447043)
 - [PayIt may not gain expected adoption with Toronto’s online payment contract, says SQL CEO](https://www.itworldcanada.com/article/payit-wont-gain-expected-adoption-with-torontos-online-payment-contract-says-sql-ceo/447038)
+- [Ottawa invests $80 million to support cybersecurity R&D and commercialization](https://www.itworldcanada.com/article/ottawa-invests-80-million-to-support-cybersecurity-rd-and-commercialization/447084)
 - [TCL throws in a free TV with the TCL 20 Pro 5G smartphone](https://www.itworldcanada.com/article/tcl-throws-in-a-free-tv-with-the-tcl-20-pro-5g-smartphone/447014)
 - [Dell Technologies launches APEX, announces Equinix partnership](https://www.itworldcanada.com/article/dell-technologies-launches-apex-announces-equinix-partnership/447018)
-- [Will this be the last World Password Day?](https://www.itworldcanada.com/article/will-this-be-the-last-world-password-day/446997)
-- [Hashtag Trending, May 6, 2021 – #DeleteFacebook; Halting bitcoin mining; Amazon sued for false advertising](https://www.itworldcanada.com/article/hashtag-trending-may-6-2021-deletefacebook-halting-bitcoin-mining-amazon-sued-for-false-advertising/446993)
-- [Malware uses ICMP tunneling for backdoor communications](https://www.itworldcanada.com/article/malware-uses-icmp-tunneling-for-backdoor-communications/446929)
-- [Cyber Security Today, May 5, 2021 – World Password Day advice, your car’s infotainment system may be a privacy risk, plus vendor security updates](https://www.itworldcanada.com/article/cyber-security-today-may-5-2021-world-password-day-advice-your-cars-infotainment-system-may-be-a-privacy-risk-plus-vendor-security-updates/446952)
-- [Hashtag Trending, May 5, 2021 – Wealthsimple snags $750M in funding; Bill and Melinda split; Use of ad blockers surge](https://www.itworldcanada.com/article/hashtag-trending-may-5-2021-wealthsimple-snags-750m-in-funding-bill-and-melinda-split-use-of-ad-blockers-surge/446956)
-- [CIO Association of Canada award winners announced](https://www.itworldcanada.com/article/cio-association-of-canada-award-winners-announced/446943)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

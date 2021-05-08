@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/across_the_board_32.php" target="_blank"><i>across the board</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Music/face_the_music_64.php" target="_blank"><i>face the music</i></a>
 <span> = </span>
-<span>If something is across the board, it relates to all without exception.</span>
+<span>If someone has to face the music, they have to accept the consequences of doing something wrong.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

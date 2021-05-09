@@ -406,7 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is the IT degree for failed CS Majors](https://www.reddit.com/r/InformationTechnology/comments/n7hia2/is_the_it_degree_for_failed_cs_majors/)
 - [Is there any social media platform that will allow paymengs to be recieved for a home food business? If no, whats the best way forward saving on costs. Thx](https://www.reddit.com/r/InformationTechnology/comments/n7ektm/is_there_any_social_media_platform_that_will/)
+- [Failing to understand how local ram and gpu works](https://www.reddit.com/r/InformationTechnology/comments/n7bzo8/failing_to_understand_how_local_ram_and_gpu_works/)
 - [What is the best way to defeat employee tracking software?](https://www.reddit.com/r/InformationTechnology/comments/n793e7/what_is_the_best_way_to_defeat_employee_tracking/)
 - [Need some direction](https://www.reddit.com/r/InformationTechnology/comments/n75mk5/need_some_direction/)
 - [How can I study at work without IT knowing?](https://www.reddit.com/r/InformationTechnology/comments/n74lug/how_can_i_study_at_work_without_it_knowing/)
@@ -414,8 +416,6 @@
 - [Am I the only one considering to leave IT industry because it could be so boring](https://www.reddit.com/r/InformationTechnology/comments/n63u85/am_i_the_only_one_considering_to_leave_it/)
 - [Senior in high school needing a help with a plan to get into this field I love.](https://www.reddit.com/r/InformationTechnology/comments/n5zuol/senior_in_high_school_needing_a_help_with_a_plan/)
 - [Masters in IT with finance bachelors](https://www.reddit.com/r/InformationTechnology/comments/n5kb5b/masters_in_it_with_finance_bachelors/)
-- [What printer scanner with a driver that does not break if it cannot phone home?](https://www.reddit.com/r/InformationTechnology/comments/n4t4bd/what_printer_scanner_with_a_driver_that_does_not/)
-- [Interview Questions. Would like some advice from the IT folks!](https://www.reddit.com/r/InformationTechnology/comments/n4i0vi/interview_questions_would_like_some_advice_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

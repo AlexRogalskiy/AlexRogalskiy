@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zulu queen’s will designates Prince Misuzulu as heir](https://www.theguardian.com/world/2021/may/08/zulu-queens-will-designates-prince-misuzulu-as-heir)
-- [‘Christchurch Call’: Biden backs New Zealand stand against online extremism](https://www.theguardian.com/us-news/2021/may/08/christchurch-call-biden-backs-new-zealand-stand-against-online-extremism)
-- [Over 1m homes in England with planning permission not built](https://www.theguardian.com/society/2021/may/08/over-1m-homes-in-england-with-planning-permission-not-built)
-- [Israeli police clash with protesters over Palestinian evictions](https://www.theguardian.com/world/2021/may/07/israeli-police-clash-with-protesters-over-palestinian-evictions)
-- [Mayor of Mexican town and two officials arrested over disappearance of activist](https://www.theguardian.com/world/2021/may/07/mexico-mayor-arrested-disappearance-activist)
-- [Frustrated Andy Murray plots return from latest injury setback](https://www.theguardian.com/sport/2021/may/07/frustrated-andy-murray-plots-return-from-latest-injury-setback)
-- [New York boy stuns family with $2,618 Amazon order for SpongeBob popsicles](https://www.theguardian.com/us-news/2021/may/07/boy-orders-900-popsicles-family-giant-bill)
-- [Labour makes big gains in Wales defeating ex-Plaid Cymru leader](https://www.theguardian.com/politics/2021/may/07/welsh-voters-deliver-mixed-election-results-for-labour-and-tories)
-- [Wilson fires double as Newcastle dent Leicester’s top-four hopes](https://www.theguardian.com/football/2021/may/07/leicester-newcastle-premier-league-match-report)
-- [Nicola Sturgeon plays down SNP prospects after pro-UK tactical voting](https://www.theguardian.com/politics/2021/may/07/nicola-sturgeon-plays-down-snp-prospects-after-pro-uk-tactical-voting)
+- [Canelo Álvarez v Billy Joe Saunders: WBA/WBC/WBO super middleweight title unification – live!](https://www.theguardian.com/sport/live/2021/may/08/canelo-alvarez-v-billy-joe-saunders-live-fight)
+- [Myanmar junta labels opposition government of ousted MPs a ‘terrorist’ group](https://www.theguardian.com/world/2021/may/09/myanmar-junta-opposition-government-mps-terrorist-group)
+- [Scores injured in second night of Jerusalem clashes](https://www.theguardian.com/world/2021/may/09/jerusalem-al-aqsa-clashes-injuries-israel)
+- [Tui’s feeling beach-ready, thanks partly to a big bailout from Berlin](https://www.theguardian.com/business/2021/may/09/tuis-feeling-beach-ready-thanks-partly-to-a-big-bailout-from-berlin)
+- [Sadiq Khan reelected as London mayor after rival runs him close](https://www.theguardian.com/politics/2021/may/08/sadiq-khan-london-mayor-second-term-labour-shaun-bailey-conservatives)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Sharpen up: 10 of the best oversized blazers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/sharpen-up-10-of-the-best-oversized-blazers-in-pictures)
+- [Northern Ireland’s unionist movement in turmoil as UUP leader steps down](https://www.theguardian.com/uk-news/2021/may/08/ulster-unionist-party-leader-announces-resignation)
+- [Arsenal’s squad needs changing, admits struggling Mikel Arteta](https://www.theguardian.com/football/2021/may/08/arsenals-squad-needs-changing-admits-struggling-mikel-arteta)
+- [Mané and Thiago sink Southampton to keep Liverpool’s top-four hopes alive](https://www.theguardian.com/football/2021/may/08/liverpool-southampton-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -241,8 +241,46 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650547505587699712" target="_blank"><i>How It Is</i></a></summary>
-<p>by Maxine Kumin </p><p>Shall I say how it is in your clothes?<br/>A month after your death I wear your blue jacket.<br/>The dog at the center of my life recognizes<br/>you’ve come to visit, he’s ecstatic.<br/>In the left pocket, a hole.<br/>In the right, a parking ticket<br/>delivered up last August on Bay State Road.<br/>In my heart, a scatter like milkweed,<br/>a flinging from the pods of the soul.<br/>My skin presses your old outline.<br/>It is hot and dry inside.<br/><br/>I think of the last day of your life,<br/>old friend, how I would unwind it, paste<br/>it together in a different collage,<br/>back from the death car idling in the garage,<br/>back up the stairs, your praying hands unlaced,<br/>reassembling the bits of bread and tuna fish<br/>into a ceremony of sandwich,<br/>running the home movie backward to a space<br/>we could be easy in, a kitchen place<br/>with vodka and ice, our words like living meat.<br/><br/>Dear friend, you have excited crowds<br/>with your example. They swell<br/>like wine bags, straining at your seams.<br/>I will be years gathering up our words,<br/>fishing out letters, snapshots, stains,<br/>leaning my ribs against this durable cloth<br/>to put on the dumb blue blazer of your death.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/650638116077617152" target="_blank"><i>Adam’s Curse</i></a></summary>
+<p>by W.B. Yeats</p><p>We sat together at one summer’s end,<br/>
+ That beautiful mild woman, your close friend,   <br/>
+ And you and I, and talked of poetry.<br/>
+ I said, ‘A line will take us hours maybe;<br/>
+ Yet if it does not seem a moment’s thought,   <br/>
+ Our stitching and unstitching has been naught.   <br/>
+ Better go down upon your marrow-bones   <br/>
+ And scrub a kitchen pavement, or break stones   <br/>
+ Like an old pauper, in all kinds of weather;   <br/>
+ For to articulate sweet sounds together<br/>
+ Is to work harder than all these, and yet   <br/>
+ Be thought an idler by the noisy set<br/>
+ Of bankers, schoolmasters, and clergymen   <br/>
+ The martyrs call the world.’<br/>
+                                           And thereupon<br/>
+ That beautiful mild woman for whose sake   <br/>
+ There’s many a one shall find out all heartache   <br/>
+ On finding that her voice is sweet and low   <br/>
+ Replied, ‘To be born woman is to know—<br/>
+ Although they do not talk of it at school—<br/>
+ That we must labour to be beautiful.’<br/>
+ I said, ‘It’s certain there is no fine thing   <br/>
+ Since Adam’s fall but needs much labouring.<br/>
+ There have been lovers who thought love should be   <br/>
+ So much compounded of high courtesy   <br/>
+ That they would sigh and quote with learned looks   <br/>
+ Precedents out of beautiful old books;   <br/>
+ Yet now it seems an idle trade enough.’<br/><br/>
+ We sat grown quiet at the name of love;   <br/>
+ We saw the last embers of daylight die,   <br/>
+ And in the trembling blue-green of the sky   <br/>
+ A moon, worn as if it had been a shell   <br/>
+ Washed by time’s waters as they rose and fell   <br/>
+ About the stars and broke in days and years.<br/><br/>
+ I had a thought for no one’s but your ears:   <br/>
+ That you were beautiful, and that I strove   <br/>
+ To love you in the old high way of love;<br/>
+ That it had all seemed happy, and yet we’d grown   <br/>
+ As weary-hearted as that hollow moon.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

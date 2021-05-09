@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why promoted women are more likely to divorce](https://www.bbc.com/worklife/article/20200121-why-promoted-women-are-more-likely-to-divorce)
-- [The US labor market is running hot or not?](https://www.piie.com/blogs/realtime-economic-issues-watch/us-labor-market-running-hotor-not)
-- [Ask HN: Platform to stream and record dozens of video calls?](https://news.ycombinator.com/item?id=27083157)
-- [Is crypto the wikipedia of finance?](https://news.ycombinator.com/item?id=27083145)
-- [Ask HN: Any programmers making a living off of GitHub Sponsors and/or Patreon?](https://news.ycombinator.com/item?id=27083129)
-- [Why some tech workers are turning down jobs at TikTok](https://www.cnbc.com/2021/05/06/tiktoks-toxic-culture-reviews-on-glassdoor-impact-hiring.html)
-- [IBM created a microchip of just 2 nanometers, the smallest yet](https://www.ibm.com/blogs/research/2021/05/2-nm-chip/?social_post=4791223916&linkId=118030913)
-- [Two men arrested with 7 kg radioactive uranium in Mumbai](https://www.indiatoday.in/cities/mumbai/story/two-men-arrested-with-7-kg-radioactive-uranium-in-mumbai-1799552-2021-05-06)
-- [Bitcoin (Tm) and the Eye of Sauron](https://www.epsilontheory.com/in-praise-of-bitcoin/)
-- [HDR in Linux: Part 1](https://www.jcline.org/blog/fedora/graphics/hdr/2021/05/07/hdr-in-linux-p1.html)
+- [U.S. Pipeline Cyberattack Forces Closure](https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737)
+- [People in Japan can now earn ¥10k bounties for scamming scammers](https://japantoday.com/category/crime/people-in-japan-can-now-earn-%C2%A510-000-bounties-for-scamming-scammers)
+- [The Many Flavors of LVDS [pdf]](https://www.ti.com/lit/wp/snla184/snla184.pdf)
+- [WiFi 6GHz (6E): Opportunities and Challenges](https://www.youtube.com/watch?v=1ZnJ0H8zKL8)
+- [Nonprofit Grocery Stores Are Filling the Gap (2019)](https://associationsnow.com/2019/02/nonprofit-grocery-stores-filling-gap/)
+- [Flakes are such an obviously good thing: but the design and development proc](https://grahamc.com/blog/flakes-are-an-obviously-good-thing)
+- [Sane: single-file portable command runner/build system in Python](https://github.com/mikeevmm/sane)
+- [Charitable seeding for nonprofit scientific torrents](https://www.reddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
+- [Brogue: A Roguelike with a Focus on Exploration](https://github.com/tmewett/BrogueCE)
+- [Melting Glaciers Have Exposed Frozen Relics of World War I](https://www.nytimes.com/2021/05/08/world/europe/italy-glacier-wwi-artifacts.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/M/make_over_1__2373.php" target="_blank"><i>make over (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_2/run_into_1__1685.php" target="_blank"><i>run into (1)</i></a>
 <span> = </span>
-<span>to officially transfer ownership of something to someone</span>
+<span>If you run into someone, you meet them by chance, or without expecting to.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

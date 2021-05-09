@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Music/face_the_music_64.php" target="_blank"><i>face the music</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/D/damned_if_you_do_and_damned_if_you_don_t_615.php" target="_blank"><i>damned if you do and damned if you don't</i></a>
 <span> = </span>
-<span>If someone has to face the music, they have to accept the consequences of doing something wrong.</span>
+<span>If you say "damned if you do and damned if you don't" you're saying that no matter what someone does, they'll be criticised for it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

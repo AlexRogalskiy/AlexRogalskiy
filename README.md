@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/C/cabbie_1146.php" target="_blank"><i>cabbie</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_1/weirdo_1494.php" target="_blank"><i>weirdo</i></a>
 <span> = </span>
-<span>a taxi driver, a cab driver</span>
+<span>a strange, eccentric or weird person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

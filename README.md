@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
-- [South Carolina moves closer to allowing death by firing squad](https://www.bbc.com/news/world-us-canada-57027628)
-- [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
-- [Back-ups for GPS: Satellite-navigation systems at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming)
-- [The Distribution Vector That Changed Linux Forever](https://tedium.co/2021/05/07/linux-live-cd-history/)
-- [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
-- [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
-- [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
-- [Little Free Library](http://littlefreelibrary.org/)
-- [Starlink Satellites Tracker](https://findstarlink.com)
+- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
+- [Top U.S. fuel pipeline operator's entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
+- [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
+- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
+- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
+- [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
+- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
+- [Higher mushroom consumption is associated with a lower risk of cancer](https://www.sciencedaily.com/releases/2021/04/210421200133.htm)
+- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
+- [Lessons on Writing JavaScript and React from ClojureScript](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

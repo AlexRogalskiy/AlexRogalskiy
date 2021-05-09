@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Music/face_the_music_64.php" target="_blank"><i>face the music</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/D/damned_if_you_do_and_damned_if_you_don_t_615.php" target="_blank"><i>damned if you do and damned if you don't</i></a>
 <span> = </span>
-<span>If someone has to face the music, they have to accept the consequences of doing something wrong.</span>
+<span>If you say "damned if you do and damned if you don't" you're saying that no matter what someone does, they'll be criticised for it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -241,8 +241,46 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650547505587699712" target="_blank"><i>How It Is</i></a></summary>
-<p>by Maxine Kumin </p><p>Shall I say how it is in your clothes?<br/>A month after your death I wear your blue jacket.<br/>The dog at the center of my life recognizes<br/>you’ve come to visit, he’s ecstatic.<br/>In the left pocket, a hole.<br/>In the right, a parking ticket<br/>delivered up last August on Bay State Road.<br/>In my heart, a scatter like milkweed,<br/>a flinging from the pods of the soul.<br/>My skin presses your old outline.<br/>It is hot and dry inside.<br/><br/>I think of the last day of your life,<br/>old friend, how I would unwind it, paste<br/>it together in a different collage,<br/>back from the death car idling in the garage,<br/>back up the stairs, your praying hands unlaced,<br/>reassembling the bits of bread and tuna fish<br/>into a ceremony of sandwich,<br/>running the home movie backward to a space<br/>we could be easy in, a kitchen place<br/>with vodka and ice, our words like living meat.<br/><br/>Dear friend, you have excited crowds<br/>with your example. They swell<br/>like wine bags, straining at your seams.<br/>I will be years gathering up our words,<br/>fishing out letters, snapshots, stains,<br/>leaning my ribs against this durable cloth<br/>to put on the dumb blue blazer of your death.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/650638116077617152" target="_blank"><i>Adam’s Curse</i></a></summary>
+<p>by W.B. Yeats</p><p>We sat together at one summer’s end,<br/>
+ That beautiful mild woman, your close friend,   <br/>
+ And you and I, and talked of poetry.<br/>
+ I said, ‘A line will take us hours maybe;<br/>
+ Yet if it does not seem a moment’s thought,   <br/>
+ Our stitching and unstitching has been naught.   <br/>
+ Better go down upon your marrow-bones   <br/>
+ And scrub a kitchen pavement, or break stones   <br/>
+ Like an old pauper, in all kinds of weather;   <br/>
+ For to articulate sweet sounds together<br/>
+ Is to work harder than all these, and yet   <br/>
+ Be thought an idler by the noisy set<br/>
+ Of bankers, schoolmasters, and clergymen   <br/>
+ The martyrs call the world.’<br/>
+                                           And thereupon<br/>
+ That beautiful mild woman for whose sake   <br/>
+ There’s many a one shall find out all heartache   <br/>
+ On finding that her voice is sweet and low   <br/>
+ Replied, ‘To be born woman is to know—<br/>
+ Although they do not talk of it at school—<br/>
+ That we must labour to be beautiful.’<br/>
+ I said, ‘It’s certain there is no fine thing   <br/>
+ Since Adam’s fall but needs much labouring.<br/>
+ There have been lovers who thought love should be   <br/>
+ So much compounded of high courtesy   <br/>
+ That they would sigh and quote with learned looks   <br/>
+ Precedents out of beautiful old books;   <br/>
+ Yet now it seems an idle trade enough.’<br/><br/>
+ We sat grown quiet at the name of love;   <br/>
+ We saw the last embers of daylight die,   <br/>
+ And in the trembling blue-green of the sky   <br/>
+ A moon, worn as if it had been a shell   <br/>
+ Washed by time’s waters as they rose and fell   <br/>
+ About the stars and broke in days and years.<br/><br/>
+ I had a thought for no one’s but your ears:   <br/>
+ That you were beautiful, and that I strove   <br/>
+ To love you in the old high way of love;<br/>
+ That it had all seemed happy, and yet we’d grown   <br/>
+ As weary-hearted as that hollow moon.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +311,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>1°C (<i>clear sky</i>), humidity: 86%, pressure: 1010 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>2°C (<i>clear sky</i>), humidity: 86%, pressure: 1012 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:36 am</b> and sets at <b>21:14 pm</b>.
     </p>
@@ -286,68 +324,68 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Tile Gains Amazon Sidewalk Support to Better Compete with AirTags](https://www.reviewgeek.com/81735/tile-gains-amazon-sidewalk-support-to-better-compete-with-airtags/)
-* [[Updated] Google Bypasses Roku's YouTube TV Ban by Moving It to the Main YouTube App](https://www.reviewgeek.com/81697/google-bypasses-rokus-youtube-tv-ban-by-moving-it-to-the-main-youtube-app/)
-* [Google Brings Docking Stations Into the "Works with Chromebook" Fold](https://www.reviewgeek.com/81669/google-brings-docking-stations-into-the-works-with-chromebook-fold/)
-* [New iFixit Video Shows How to Drill a Keyring Hole in Your AirTag](https://www.reviewgeek.com/81649/new-ifixit-video-shows-how-to-drill-a-keyring-hole-in-your-airtag/)
-* [A New Pilot Program Will Bring Tesla Model Y Taxis to NYC](https://www.reviewgeek.com/81680/a-new-pilot-program-will-bring-tesla-model-y-taxis-to-nyc/)
-* [Netflix Could Launch "N-Plus" Community for Fans of Its Originals](https://www.reviewgeek.com/81617/netflix-could-launch-n-plus-community-for-fans-of-its-originals/)
-* [HP's Newest All-in-One PC is a Work from Home Powerhouse](https://www.reviewgeek.com/81626/hps-newest-all-in-one-pc-is-a-work-from-home-powerhouse/)
-* [NBC is Bringing Tokyo Olympic Game Coverage to Twitch](https://www.reviewgeek.com/81643/nbc-is-bringing-tokyo-olympic-game-coverage-to-twitch/)
-* [Microsoft Shutters Windows 10X, at Least For Now](https://www.reviewgeek.com/81621/microsoft-shutters-windows-10x-at-least-for-now/)
-* [How to Turn off Autocorrect for Android](https://www.howtogeek.com/726401/how-to-turn-off-autocorrect-for-android/)
+* [This Video Shows How Big The World's Tallest Buildings Actually Are*](https://www.reviewgeek.com/81808/this-video-shows-how-big-the-worlds-tallest-buildings-actually-are/)
+* [Blue Origin's First Space Tourism Flights Set for Blastoff](https://www.reviewgeek.com/81778/blue-original-space-flights-tourism-launch-date/)
+* [Check Out This Jaw-Dropping "Cosmic Necklace" Image Shared by NASA](https://www.reviewgeek.com/81797/check-out-this-jaw-dropping-cosmic-necklace-image-shared-by-nasa/)
+* [How to Check Your Heart Rate and Breathing with Your Android Phone](https://www.howtogeek.com/718834/how-to-check-your-heart-rate-and-breathing-with-your-android-phone/)
+* [Instagram Personal, Business, and Creator Accounts: What’s the Difference?](https://www.howtogeek.com/723633/instagram-personal-business-and-creator-accounts-whats-the-difference/)
+* ["Can I Binge?" Tells You How Long It'll Take to Rush through a TV Show](https://www.reviewgeek.com/81780/can-i-binge-tells-you-how-long-itll-take-to-rush-through-a-tv-show/)
+* [How to Add Attachments to Gmail by Pasting Files into Chrome](https://www.howtogeek.com/724864/how-to-add-attachments-to-gmail-by-pasting-files-into-chrome/)
+* [25 Excellent Games on Google Play Pass](https://www.reviewgeek.com/81043/25-excellent-games-on-google-play-pass/)
+* [How to Quickly Search Open Tabs in Firefox](https://www.howtogeek.com/722570/how-to-quickly-search-open-tabs-in-firefox/)
+* [How to Quickly Set a Timer on Your iPhone or iPad](https://www.howtogeek.com/724914/how-to-quickly-set-a-timer-on-your-iphone-or-ipad/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why promoted women are more likely to divorce](https://www.bbc.com/worklife/article/20200121-why-promoted-women-are-more-likely-to-divorce)
-- [The US labor market is running hot or not?](https://www.piie.com/blogs/realtime-economic-issues-watch/us-labor-market-running-hotor-not)
-- [Ask HN: Platform to stream and record dozens of video calls?](https://news.ycombinator.com/item?id=27083157)
-- [Is crypto the wikipedia of finance?](https://news.ycombinator.com/item?id=27083145)
-- [Ask HN: Any programmers making a living off of GitHub Sponsors and/or Patreon?](https://news.ycombinator.com/item?id=27083129)
-- [Why some tech workers are turning down jobs at TikTok](https://www.cnbc.com/2021/05/06/tiktoks-toxic-culture-reviews-on-glassdoor-impact-hiring.html)
-- [IBM created a microchip of just 2 nanometers, the smallest yet](https://www.ibm.com/blogs/research/2021/05/2-nm-chip/?social_post=4791223916&linkId=118030913)
-- [Two men arrested with 7 kg radioactive uranium in Mumbai](https://www.indiatoday.in/cities/mumbai/story/two-men-arrested-with-7-kg-radioactive-uranium-in-mumbai-1799552-2021-05-06)
-- [Bitcoin (Tm) and the Eye of Sauron](https://www.epsilontheory.com/in-praise-of-bitcoin/)
-- [HDR in Linux: Part 1](https://www.jcline.org/blog/fedora/graphics/hdr/2021/05/07/hdr-in-linux-p1.html)
+- [U.S. Pipeline Cyberattack Forces Closure](https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737)
+- [People in Japan can now earn ¥10k bounties for scamming scammers](https://japantoday.com/category/crime/people-in-japan-can-now-earn-%C2%A510-000-bounties-for-scamming-scammers)
+- [The Many Flavors of LVDS [pdf]](https://www.ti.com/lit/wp/snla184/snla184.pdf)
+- [WiFi 6GHz (6E): Opportunities and Challenges](https://www.youtube.com/watch?v=1ZnJ0H8zKL8)
+- [Nonprofit Grocery Stores Are Filling the Gap (2019)](https://associationsnow.com/2019/02/nonprofit-grocery-stores-filling-gap/)
+- [Flakes are such an obviously good thing: but the design and development proc](https://grahamc.com/blog/flakes-are-an-obviously-good-thing)
+- [Sane: single-file portable command runner/build system in Python](https://github.com/mikeevmm/sane)
+- [Charitable seeding for nonprofit scientific torrents](https://www.reddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
+- [Brogue: A Roguelike with a Focus on Exploration](https://github.com/tmewett/BrogueCE)
+- [Melting Glaciers Have Exposed Frozen Relics of World War I](https://www.nytimes.com/2021/05/08/world/europe/italy-glacier-wwi-artifacts.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zulu queen’s will designates Prince Misuzulu as heir](https://www.theguardian.com/world/2021/may/08/zulu-queens-will-designates-prince-misuzulu-as-heir)
-- [‘Christchurch Call’: Biden backs New Zealand stand against online extremism](https://www.theguardian.com/us-news/2021/may/08/christchurch-call-biden-backs-new-zealand-stand-against-online-extremism)
-- [Over 1m homes in England with planning permission not built](https://www.theguardian.com/society/2021/may/08/over-1m-homes-in-england-with-planning-permission-not-built)
-- [Israeli police clash with protesters over Palestinian evictions](https://www.theguardian.com/world/2021/may/07/israeli-police-clash-with-protesters-over-palestinian-evictions)
-- [Mayor of Mexican town and two officials arrested over disappearance of activist](https://www.theguardian.com/world/2021/may/07/mexico-mayor-arrested-disappearance-activist)
-- [Frustrated Andy Murray plots return from latest injury setback](https://www.theguardian.com/sport/2021/may/07/frustrated-andy-murray-plots-return-from-latest-injury-setback)
-- [New York boy stuns family with $2,618 Amazon order for SpongeBob popsicles](https://www.theguardian.com/us-news/2021/may/07/boy-orders-900-popsicles-family-giant-bill)
-- [Labour makes big gains in Wales defeating ex-Plaid Cymru leader](https://www.theguardian.com/politics/2021/may/07/welsh-voters-deliver-mixed-election-results-for-labour-and-tories)
-- [Wilson fires double as Newcastle dent Leicester’s top-four hopes](https://www.theguardian.com/football/2021/may/07/leicester-newcastle-premier-league-match-report)
-- [Nicola Sturgeon plays down SNP prospects after pro-UK tactical voting](https://www.theguardian.com/politics/2021/may/07/nicola-sturgeon-plays-down-snp-prospects-after-pro-uk-tactical-voting)
+- [Canelo Álvarez v Billy Joe Saunders: WBA/WBC/WBO super middleweight title unification – live!](https://www.theguardian.com/sport/live/2021/may/08/canelo-alvarez-v-billy-joe-saunders-live-fight)
+- [Myanmar junta labels opposition government of ousted MPs a ‘terrorist’ group](https://www.theguardian.com/world/2021/may/09/myanmar-junta-opposition-government-mps-terrorist-group)
+- [Scores injured in second night of Jerusalem clashes](https://www.theguardian.com/world/2021/may/09/jerusalem-al-aqsa-clashes-injuries-israel)
+- [Tui’s feeling beach-ready, thanks partly to a big bailout from Berlin](https://www.theguardian.com/business/2021/may/09/tuis-feeling-beach-ready-thanks-partly-to-a-big-bailout-from-berlin)
+- [Sadiq Khan reelected as London mayor after rival runs him close](https://www.theguardian.com/politics/2021/may/08/sadiq-khan-london-mayor-second-term-labour-shaun-bailey-conservatives)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Sharpen up: 10 of the best oversized blazers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/sharpen-up-10-of-the-best-oversized-blazers-in-pictures)
+- [Northern Ireland’s unionist movement in turmoil as UUP leader steps down](https://www.theguardian.com/uk-news/2021/may/08/ulster-unionist-party-leader-announces-resignation)
+- [Arsenal’s squad needs changing, admits struggling Mikel Arteta](https://www.theguardian.com/football/2021/may/08/arsenals-squad-needs-changing-admits-struggling-mikel-arteta)
+- [Mané and Thiago sink Southampton to keep Liverpool’s top-four hopes alive](https://www.theguardian.com/football/2021/may/08/liverpool-southampton-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
-- [South Carolina moves closer to allowing death by firing squad](https://www.bbc.com/news/world-us-canada-57027628)
-- [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
-- [Back-ups for GPS: Satellite-navigation systems at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming)
-- [The Distribution Vector That Changed Linux Forever](https://tedium.co/2021/05/07/linux-live-cd-history/)
-- [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
-- [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
-- [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
-- [Little Free Library](http://littlefreelibrary.org/)
-- [Starlink Satellites Tracker](https://findstarlink.com)
+- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
+- [Top U.S. fuel pipeline operator's entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
+- [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
+- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
+- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
+- [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
+- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
+- [Higher mushroom consumption is associated with a lower risk of cancer](https://www.sciencedaily.com/releases/2021/04/210421200133.htm)
+- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
+- [Lessons on Writing JavaScript and React from ClojureScript](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Apple, Earthlink and the digital transformation of everything](https://www.computerworld.com/article/3617996/apple-earthlink-and-the-digital-transformation-of-everything.html#tk.rss_all)
+- [Apple, EarthLink, and the digital transformation of everything](https://www.computerworld.com/article/3617996/apple-earthlink-and-the-digital-transformation-of-everything.html#tk.rss_all)
 - [Rethinking business as usual: How to thrive as a manager In the ‘20s](https://www.computerworld.com/article/3617916/rethinking-business-as-usual-how-to-thrive-as-a-manager-in-the-20s.html#tk.rss_all)
 - [The loneliness of the long-distance worker](https://www.computerworld.com/article/3617277/the-loneliness-of-the-long-distance-worker.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
@@ -406,7 +444,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is the IT degree for failed CS Majors](https://www.reddit.com/r/InformationTechnology/comments/n7hia2/is_the_it_degree_for_failed_cs_majors/)
 - [Is there any social media platform that will allow paymengs to be recieved for a home food business? If no, whats the best way forward saving on costs. Thx](https://www.reddit.com/r/InformationTechnology/comments/n7ektm/is_there_any_social_media_platform_that_will/)
+- [Failing to understand how local ram and gpu works](https://www.reddit.com/r/InformationTechnology/comments/n7bzo8/failing_to_understand_how_local_ram_and_gpu_works/)
 - [What is the best way to defeat employee tracking software?](https://www.reddit.com/r/InformationTechnology/comments/n793e7/what_is_the_best_way_to_defeat_employee_tracking/)
 - [Need some direction](https://www.reddit.com/r/InformationTechnology/comments/n75mk5/need_some_direction/)
 - [How can I study at work without IT knowing?](https://www.reddit.com/r/InformationTechnology/comments/n74lug/how_can_i_study_at_work_without_it_knowing/)
@@ -414,8 +454,6 @@
 - [Am I the only one considering to leave IT industry because it could be so boring](https://www.reddit.com/r/InformationTechnology/comments/n63u85/am_i_the_only_one_considering_to_leave_it/)
 - [Senior in high school needing a help with a plan to get into this field I love.](https://www.reddit.com/r/InformationTechnology/comments/n5zuol/senior_in_high_school_needing_a_help_with_a_plan/)
 - [Masters in IT with finance bachelors](https://www.reddit.com/r/InformationTechnology/comments/n5kb5b/masters_in_it_with_finance_bachelors/)
-- [What printer scanner with a driver that does not break if it cannot phone home?](https://www.reddit.com/r/InformationTechnology/comments/n4t4bd/what_printer_scanner_with_a_driver_that_does_not/)
-- [Interview Questions. Would like some advice from the IT folks!](https://www.reddit.com/r/InformationTechnology/comments/n4i0vi/interview_questions_would_like_some_advice_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

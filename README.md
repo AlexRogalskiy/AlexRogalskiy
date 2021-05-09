@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/Revenge_is_a_dish_best_served_cold_565.php" target="_blank"><i>Revenge is a dish best served cold</i></a>
 <span> = </span>
-<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
+<span>This saying suggests that if someone does something bad to us, it is better to pay them back later in time, not immediately. Vengeance may be more satisfying if it is not inflicted immediately.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

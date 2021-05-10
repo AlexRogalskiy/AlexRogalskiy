@@ -291,9 +291,9 @@ South, to a certain door, to a certain corner</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>16°C (<i>clear sky</i>), humidity: 48%, pressure: 1020 (mbar), wind: /south-west/ 3 (m/s), cloudy: 0%</b>
+        <b>14°C (<i>light rain</i>), humidity: 54%, pressure: 1021 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>04:33 am</b> and sets at <b>21:16 pm</b>.
+        Today, the Sun rises at <b>04:31 am</b> and sets at <b>21:19 pm</b>.
     </p>
 </div>
 

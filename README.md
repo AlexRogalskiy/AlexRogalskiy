@@ -324,16 +324,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Video Shows How Big The World's Tallest Buildings Actually Are*](https://www.reviewgeek.com/81808/this-video-shows-how-big-the-worlds-tallest-buildings-actually-are/)
-* [Blue Origin's First Space Tourism Flights Set for Blastoff](https://www.reviewgeek.com/81778/blue-original-space-flights-tourism-launch-date/)
-* [Check Out This Jaw-Dropping "Cosmic Necklace" Image Shared by NASA](https://www.reviewgeek.com/81797/check-out-this-jaw-dropping-cosmic-necklace-image-shared-by-nasa/)
-* [How to Check Your Heart Rate and Breathing with Your Android Phone](https://www.howtogeek.com/718834/how-to-check-your-heart-rate-and-breathing-with-your-android-phone/)
-* [Instagram Personal, Business, and Creator Accounts: What’s the Difference?](https://www.howtogeek.com/723633/instagram-personal-business-and-creator-accounts-whats-the-difference/)
-* ["Can I Binge?" Tells You How Long It'll Take to Rush through a TV Show](https://www.reviewgeek.com/81780/can-i-binge-tells-you-how-long-itll-take-to-rush-through-a-tv-show/)
-* [How to Add Attachments to Gmail by Pasting Files into Chrome](https://www.howtogeek.com/724864/how-to-add-attachments-to-gmail-by-pasting-files-into-chrome/)
-* [25 Excellent Games on Google Play Pass](https://www.reviewgeek.com/81043/25-excellent-games-on-google-play-pass/)
-* [How to Quickly Search Open Tabs in Firefox](https://www.howtogeek.com/722570/how-to-quickly-search-open-tabs-in-firefox/)
-* [How to Quickly Set a Timer on Your iPhone or iPad](https://www.howtogeek.com/724914/how-to-quickly-set-a-timer-on-your-iphone-or-ipad/)
+* [Deepfake Tech Could Make Dubbed Films More Believable](https://www.reviewgeek.com/81796/deepfake-tech-could-make-dubbed-films-more-believable/)
+* [Citroën Is Invading the U.S. with Its Tiny, $6,000 Electric "Car"](https://www.reviewgeek.com/81767/citroen-is-invading-the-u-s-with-its-tiny-6000-electric-car/)
+* [So, Uh, a Day Lasts Longer Than a Year on Venus 🤯](https://www.reviewgeek.com/81824/so-uh-a-day-lasts-longer-than-a-year-on-venus-mind-blown/)
+* [How to Silence Your Android Phone Automatically While Charging](https://www.howtogeek.com/706826/how-to-silence-your-android-phone-automatically-while-charging/)
+* [How to Switch between Light and Dark Themes in Photoshop](https://www.howtogeek.com/724883/how-to-switch-between-light-and-dark-themes-in-photoshop/)
+* [This 3D Printer Uses Sawdust to Make Real Wood Stuff](https://www.reviewgeek.com/81766/this-3d-printer-uses-sawdust-to-make-real-wood-stuff/)
+* [How to Disable Tab Preview Thumbnails in Safari for Mac](https://www.howtogeek.com/722842/how-to-disable-tab-preview-thumbnails-in-safari-for-mac/)
+* [The 6 Best Single Monitor Mounts](https://www.reviewgeek.com/79849/the-6-best-single-monitor-mounts/)
+* [How to Lock an iPhone or iPad with a Broken Power Button](https://www.howtogeek.com/722772/how-to-lock-an-iphone-or-ipad-with-a-broken-power-button/)
+* [10 Best Mother’s Day Movies to Watch with Your Mom](https://www.howtogeek.com/724910/best-movies-to-watch-with-your-mom-on-mothers-day/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

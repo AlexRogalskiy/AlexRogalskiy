@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/Revenge_is_a_dish_best_served_cold_565.php" target="_blank"><i>Revenge is a dish best served cold</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Don_t_put_all_your_eggs_in_one_basket_526.php" target="_blank"><i>Don't put all your eggs in one basket</i></a>
 <span> = </span>
-<span>This saying suggests that if someone does something bad to us, it is better to pay them back later in time, not immediately. Vengeance may be more satisfying if it is not inflicted immediately.</span>
+<span>If all your eggs are in one basket and you drop the basket, you lose everything. Don't put all your money in one bank. Don't put all your faith in one person.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

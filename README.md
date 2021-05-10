@@ -354,16 +354,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canelo Álvarez v Billy Joe Saunders: WBA/WBC/WBO super middleweight title unification – live!](https://www.theguardian.com/sport/live/2021/may/08/canelo-alvarez-v-billy-joe-saunders-live-fight)
-- [Myanmar junta labels opposition government of ousted MPs a ‘terrorist’ group](https://www.theguardian.com/world/2021/may/09/myanmar-junta-opposition-government-mps-terrorist-group)
-- [Scores injured in second night of Jerusalem clashes](https://www.theguardian.com/world/2021/may/09/jerusalem-al-aqsa-clashes-injuries-israel)
-- [Tui’s feeling beach-ready, thanks partly to a big bailout from Berlin](https://www.theguardian.com/business/2021/may/09/tuis-feeling-beach-ready-thanks-partly-to-a-big-bailout-from-berlin)
-- [Sadiq Khan reelected as London mayor after rival runs him close](https://www.theguardian.com/politics/2021/may/08/sadiq-khan-london-mayor-second-term-labour-shaun-bailey-conservatives)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Sharpen up: 10 of the best oversized blazers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/sharpen-up-10-of-the-best-oversized-blazers-in-pictures)
-- [Northern Ireland’s unionist movement in turmoil as UUP leader steps down](https://www.theguardian.com/uk-news/2021/may/08/ulster-unionist-party-leader-announces-resignation)
-- [Arsenal’s squad needs changing, admits struggling Mikel Arteta](https://www.theguardian.com/football/2021/may/08/arsenals-squad-needs-changing-admits-struggling-mikel-arteta)
-- [Mané and Thiago sink Southampton to keep Liverpool’s top-four hopes alive](https://www.theguardian.com/football/2021/may/08/liverpool-southampton-premier-league-match-report)
+- [Taliban declares three-day Eid ceasefire after Afghanistan school bomb attacks](https://www.theguardian.com/world/2021/may/10/taliban-declares-three-day-eid-ceasefire-after-afghanistan-school-bomb-attacks)
+- [Exposing the great Post Office scandal – part 1](https://www.theguardian.com/news/audio/2021/may/10/exposing-the-great-post-office-scandal-part-1)
+- [Colorado shooting: seven dead after man opens fire at birthday party](https://www.theguardian.com/us-news/2021/may/09/colorado-springs-shooting-birthday-party)
+- [Queen’s speech: voters will need photo ID for general elections](https://www.theguardian.com/politics/2021/may/10/queens-speech-photo-id-future-elections-social-care)
+- [Royal Mail to deliver to Scilly Isles by drone in first UK trial of its kind](https://www.theguardian.com/business/2021/may/10/royal-mail-to-deliver-to-scilly-isles-by-drone-in-first-uk-trial-of-its-kind)
+- [Taylor Swift to become first female winner of global icon Brit award](https://www.theguardian.com/music/2021/may/10/taylor-swift-to-become-first-female-winner-of-global-icon-brit-award)
+- [Not cricket? Scientists suggest bamboo bats are a match for willow](https://www.theguardian.com/science/2021/may/10/not-cricket-scientists-suggest-bamboo-bats-are-a-match-for-willow)
+- [A Killer Party review – Jason Manford hosts cheery, tuneful murder mystery](https://www.theguardian.com/stage/2021/may/10/a-killer-party-review-jason-manford-stream-theatre-murder-mystery)
+- [Rory McIlroy ends 18-month wait with victory at Quail Hollow](https://www.theguardian.com/sport/2021/may/09/rory-mcilroy-ends-18-month-wait-with-victory-at-quail-hollow)
+- [Fargo season four review – Kansas City chaos with Chris Rock](https://www.theguardian.com/tv-and-radio/2021/may/09/fargo-season-four-review-kansas-city-chaos-with-chris-rock)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

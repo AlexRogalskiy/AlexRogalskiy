@@ -241,46 +241,26 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650638116077617152" target="_blank"><i>Adam’s Curse</i></a></summary>
-<p>by W.B. Yeats</p><p>We sat together at one summer’s end,<br/>
- That beautiful mild woman, your close friend,   <br/>
- And you and I, and talked of poetry.<br/>
- I said, ‘A line will take us hours maybe;<br/>
- Yet if it does not seem a moment’s thought,   <br/>
- Our stitching and unstitching has been naught.   <br/>
- Better go down upon your marrow-bones   <br/>
- And scrub a kitchen pavement, or break stones   <br/>
- Like an old pauper, in all kinds of weather;   <br/>
- For to articulate sweet sounds together<br/>
- Is to work harder than all these, and yet   <br/>
- Be thought an idler by the noisy set<br/>
- Of bankers, schoolmasters, and clergymen   <br/>
- The martyrs call the world.’<br/>
-                                           And thereupon<br/>
- That beautiful mild woman for whose sake   <br/>
- There’s many a one shall find out all heartache   <br/>
- On finding that her voice is sweet and low   <br/>
- Replied, ‘To be born woman is to know—<br/>
- Although they do not talk of it at school—<br/>
- That we must labour to be beautiful.’<br/>
- I said, ‘It’s certain there is no fine thing   <br/>
- Since Adam’s fall but needs much labouring.<br/>
- There have been lovers who thought love should be   <br/>
- So much compounded of high courtesy   <br/>
- That they would sigh and quote with learned looks   <br/>
- Precedents out of beautiful old books;   <br/>
- Yet now it seems an idle trade enough.’<br/><br/>
- We sat grown quiet at the name of love;   <br/>
- We saw the last embers of daylight die,   <br/>
- And in the trembling blue-green of the sky   <br/>
- A moon, worn as if it had been a shell   <br/>
- Washed by time’s waters as they rose and fell   <br/>
- About the stars and broke in days and years.<br/><br/>
- I had a thought for no one’s but your ears:   <br/>
- That you were beautiful, and that I strove   <br/>
- To love you in the old high way of love;<br/>
- That it had all seemed happy, and yet we’d grown   <br/>
- As weary-hearted as that hollow moon.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/650728707045130240" target="_blank"><i>1964</i></a></summary>
+<p>by Jorge Luis Borges</p><p><i>I.</i><br/>The world has lost its magic. They have left you.<br/>
+You no longer share the clear moon<br/>
+nor the slow gardens. Now there is<br/>
+no moon that isn’t a mirror to the past,</p><p>Solitary crystal, anguished sun.<br/>
+Goodbye to the mutual hands and the temples<br/>
+that brought love closer. Today all you have <br/>is the faithful memory and the deserted days.</p><p>Nobody loses (you repeat vainly)<br/>
+Except what they don’t have<br/>
+and never had, but it is not enough to be valiant</p><p>For to learn the art of forgetting<br/>
+a symbol, a rose, rips you apart<br/>
+and a guitar can kill you.</p><p><i>II.</i><br/>I will no longer be happy. Maybe it doesn’t matter.<br/>
+there are many other things in the world;<br/>
+any moment is more profound and<br/>
+diverse than the sea. Life is short</p><p>and though hours are very long,<br/>
+a dark delight lies in wait for us<br/>
+Death, that other sea, the other arrow<br/>
+come to free us from the sun and the moon</p><p>and the love. the joy you gave me <br/>and took away must be crossed out;<br/>
+that which was everything has to be nothing.</p><p>All I have left to enjoy is sadness,<br/>
+that vain habit that brings me<br/>
+South, to a certain door, to a certain corner</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

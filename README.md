@@ -369,16 +369,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
-- [Top U.S. fuel pipeline operator's entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
-- [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
-- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
-- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
-- [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
-- [Higher mushroom consumption is associated with a lower risk of cancer](https://www.sciencedaily.com/releases/2021/04/210421200133.htm)
-- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
-- [Lessons on Writing JavaScript and React from ClojureScript](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/)
+- [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
+- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
+- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
+- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
+- [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
+- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

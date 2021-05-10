@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/D/damned_if_you_do_and_damned_if_you_don_t_615.php" target="_blank"><i>damned if you do and damned if you don't</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/K/know_what_s_what_441.php" target="_blank"><i>know what's what</i></a>
 <span> = </span>
-<span>If you say "damned if you do and damned if you don't" you're saying that no matter what someone does, they'll be criticised for it.</span>
+<span>If you know what's what, you have a lot of experience and you understand things well.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -241,46 +241,26 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650638116077617152" target="_blank"><i>Adam’s Curse</i></a></summary>
-<p>by W.B. Yeats</p><p>We sat together at one summer’s end,<br/>
- That beautiful mild woman, your close friend,   <br/>
- And you and I, and talked of poetry.<br/>
- I said, ‘A line will take us hours maybe;<br/>
- Yet if it does not seem a moment’s thought,   <br/>
- Our stitching and unstitching has been naught.   <br/>
- Better go down upon your marrow-bones   <br/>
- And scrub a kitchen pavement, or break stones   <br/>
- Like an old pauper, in all kinds of weather;   <br/>
- For to articulate sweet sounds together<br/>
- Is to work harder than all these, and yet   <br/>
- Be thought an idler by the noisy set<br/>
- Of bankers, schoolmasters, and clergymen   <br/>
- The martyrs call the world.’<br/>
-                                           And thereupon<br/>
- That beautiful mild woman for whose sake   <br/>
- There’s many a one shall find out all heartache   <br/>
- On finding that her voice is sweet and low   <br/>
- Replied, ‘To be born woman is to know—<br/>
- Although they do not talk of it at school—<br/>
- That we must labour to be beautiful.’<br/>
- I said, ‘It’s certain there is no fine thing   <br/>
- Since Adam’s fall but needs much labouring.<br/>
- There have been lovers who thought love should be   <br/>
- So much compounded of high courtesy   <br/>
- That they would sigh and quote with learned looks   <br/>
- Precedents out of beautiful old books;   <br/>
- Yet now it seems an idle trade enough.’<br/><br/>
- We sat grown quiet at the name of love;   <br/>
- We saw the last embers of daylight die,   <br/>
- And in the trembling blue-green of the sky   <br/>
- A moon, worn as if it had been a shell   <br/>
- Washed by time’s waters as they rose and fell   <br/>
- About the stars and broke in days and years.<br/><br/>
- I had a thought for no one’s but your ears:   <br/>
- That you were beautiful, and that I strove   <br/>
- To love you in the old high way of love;<br/>
- That it had all seemed happy, and yet we’d grown   <br/>
- As weary-hearted as that hollow moon.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/650728707045130240" target="_blank"><i>1964</i></a></summary>
+<p>by Jorge Luis Borges</p><p><i>I.</i><br/>The world has lost its magic. They have left you.<br/>
+You no longer share the clear moon<br/>
+nor the slow gardens. Now there is<br/>
+no moon that isn’t a mirror to the past,</p><p>Solitary crystal, anguished sun.<br/>
+Goodbye to the mutual hands and the temples<br/>
+that brought love closer. Today all you have <br/>is the faithful memory and the deserted days.</p><p>Nobody loses (you repeat vainly)<br/>
+Except what they don’t have<br/>
+and never had, but it is not enough to be valiant</p><p>For to learn the art of forgetting<br/>
+a symbol, a rose, rips you apart<br/>
+and a guitar can kill you.</p><p><i>II.</i><br/>I will no longer be happy. Maybe it doesn’t matter.<br/>
+there are many other things in the world;<br/>
+any moment is more profound and<br/>
+diverse than the sea. Life is short</p><p>and though hours are very long,<br/>
+a dark delight lies in wait for us<br/>
+Death, that other sea, the other arrow<br/>
+come to free us from the sun and the moon</p><p>and the love. the joy you gave me <br/>and took away must be crossed out;<br/>
+that which was everything has to be nothing.</p><p>All I have left to enjoy is sadness,<br/>
+that vain habit that brings me<br/>
+South, to a certain door, to a certain corner</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -311,7 +291,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>6°C (<i>light rain</i>), humidity: 61%, pressure: 1019 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>7°C (<i>light rain</i>), humidity: 57%, pressure: 1019 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:33 am</b> and sets at <b>21:16 pm</b>.
     </p>
@@ -324,61 +304,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Video Shows How Big The World's Tallest Buildings Actually Are*](https://www.reviewgeek.com/81808/this-video-shows-how-big-the-worlds-tallest-buildings-actually-are/)
-* [Blue Origin's First Space Tourism Flights Set for Blastoff](https://www.reviewgeek.com/81778/blue-original-space-flights-tourism-launch-date/)
-* [Check Out This Jaw-Dropping "Cosmic Necklace" Image Shared by NASA](https://www.reviewgeek.com/81797/check-out-this-jaw-dropping-cosmic-necklace-image-shared-by-nasa/)
-* [How to Check Your Heart Rate and Breathing with Your Android Phone](https://www.howtogeek.com/718834/how-to-check-your-heart-rate-and-breathing-with-your-android-phone/)
-* [Instagram Personal, Business, and Creator Accounts: What’s the Difference?](https://www.howtogeek.com/723633/instagram-personal-business-and-creator-accounts-whats-the-difference/)
-* ["Can I Binge?" Tells You How Long It'll Take to Rush through a TV Show](https://www.reviewgeek.com/81780/can-i-binge-tells-you-how-long-itll-take-to-rush-through-a-tv-show/)
-* [How to Add Attachments to Gmail by Pasting Files into Chrome](https://www.howtogeek.com/724864/how-to-add-attachments-to-gmail-by-pasting-files-into-chrome/)
-* [25 Excellent Games on Google Play Pass](https://www.reviewgeek.com/81043/25-excellent-games-on-google-play-pass/)
-* [How to Quickly Search Open Tabs in Firefox](https://www.howtogeek.com/722570/how-to-quickly-search-open-tabs-in-firefox/)
-* [How to Quickly Set a Timer on Your iPhone or iPad](https://www.howtogeek.com/724914/how-to-quickly-set-a-timer-on-your-iphone-or-ipad/)
+* [Deepfake Tech Could Make Dubbed Films More Believable](https://www.reviewgeek.com/81796/deepfake-tech-could-make-dubbed-films-more-believable/)
+* [Citroën Is Invading the U.S. with Its Tiny, $6,000 Electric "Car"](https://www.reviewgeek.com/81767/citroen-is-invading-the-u-s-with-its-tiny-6000-electric-car/)
+* [So, Uh, a Day Lasts Longer Than a Year on Venus 🤯](https://www.reviewgeek.com/81824/so-uh-a-day-lasts-longer-than-a-year-on-venus-mind-blown/)
+* [How to Silence Your Android Phone Automatically While Charging](https://www.howtogeek.com/706826/how-to-silence-your-android-phone-automatically-while-charging/)
+* [How to Switch between Light and Dark Themes in Photoshop](https://www.howtogeek.com/724883/how-to-switch-between-light-and-dark-themes-in-photoshop/)
+* [This 3D Printer Uses Sawdust to Make Real Wood Stuff](https://www.reviewgeek.com/81766/this-3d-printer-uses-sawdust-to-make-real-wood-stuff/)
+* [How to Disable Tab Preview Thumbnails in Safari for Mac](https://www.howtogeek.com/722842/how-to-disable-tab-preview-thumbnails-in-safari-for-mac/)
+* [The 6 Best Single Monitor Mounts](https://www.reviewgeek.com/79849/the-6-best-single-monitor-mounts/)
+* [How to Lock an iPhone or iPad with a Broken Power Button](https://www.howtogeek.com/722772/how-to-lock-an-iphone-or-ipad-with-a-broken-power-button/)
+* [10 Best Mother’s Day Movies to Watch with Your Mom](https://www.howtogeek.com/724910/best-movies-to-watch-with-your-mom-on-mothers-day/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [U.S. Pipeline Cyberattack Forces Closure](https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737)
-- [People in Japan can now earn ¥10k bounties for scamming scammers](https://japantoday.com/category/crime/people-in-japan-can-now-earn-%C2%A510-000-bounties-for-scamming-scammers)
-- [The Many Flavors of LVDS [pdf]](https://www.ti.com/lit/wp/snla184/snla184.pdf)
-- [WiFi 6GHz (6E): Opportunities and Challenges](https://www.youtube.com/watch?v=1ZnJ0H8zKL8)
-- [Nonprofit Grocery Stores Are Filling the Gap (2019)](https://associationsnow.com/2019/02/nonprofit-grocery-stores-filling-gap/)
-- [Flakes are such an obviously good thing: but the design and development proc](https://grahamc.com/blog/flakes-are-an-obviously-good-thing)
-- [Sane: single-file portable command runner/build system in Python](https://github.com/mikeevmm/sane)
-- [Charitable seeding for nonprofit scientific torrents](https://www.reddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
-- [Brogue: A Roguelike with a Focus on Exploration](https://github.com/tmewett/BrogueCE)
-- [Melting Glaciers Have Exposed Frozen Relics of World War I](https://www.nytimes.com/2021/05/08/world/europe/italy-glacier-wwi-artifacts.html)
+- [As CEO, I worry about the erosion of office culture with more remote work](https://www.washingtonpost.com/opinions/2021/05/06/ceo-i-want-my-employees-understand-risks-not-returning-work-office/)
+- [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
+- [Ask HN: Should Airbnb be responsible if their emails are routed to spam?](https://news.ycombinator.com/item?id=27102110)
+- [Technical debt isn’t all bad (usually)](https://ryanhayes.net/technical-debt-isnt-all-bad-usually/)
+- [Could digital currencies put banks out of business?](https://www.youtube.com/watch?v=fpb-qJv6dBs)
+- [Tell HN: Don't put your status page on the same domain as your app](https://news.ycombinator.com/item?id=27102020)
+- [Ask HN: What's your preference for creating an API, Low Code or No Code Tool?](https://news.ycombinator.com/item?id=27102018)
+- [Biden Declares State of Emergency While Colonial Pipeline Is Down](https://zetter.substack.com/p/biden-declares-state-of-emergency)
+- [The Mail Order Bride Test (2020)](https://capitalandgrowth.org/answers/Article/3192811/The-Mail-Order-Brides-Test)
+- [What Is a Podcast?](https://polkacast.substack.com/p/what-is-a-podcast)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canelo Álvarez v Billy Joe Saunders: WBA/WBC/WBO super middleweight title unification – live!](https://www.theguardian.com/sport/live/2021/may/08/canelo-alvarez-v-billy-joe-saunders-live-fight)
-- [Myanmar junta labels opposition government of ousted MPs a ‘terrorist’ group](https://www.theguardian.com/world/2021/may/09/myanmar-junta-opposition-government-mps-terrorist-group)
-- [Scores injured in second night of Jerusalem clashes](https://www.theguardian.com/world/2021/may/09/jerusalem-al-aqsa-clashes-injuries-israel)
-- [Tui’s feeling beach-ready, thanks partly to a big bailout from Berlin](https://www.theguardian.com/business/2021/may/09/tuis-feeling-beach-ready-thanks-partly-to-a-big-bailout-from-berlin)
-- [Sadiq Khan reelected as London mayor after rival runs him close](https://www.theguardian.com/politics/2021/may/08/sadiq-khan-london-mayor-second-term-labour-shaun-bailey-conservatives)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Sharpen up: 10 of the best oversized blazers – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/08/sharpen-up-10-of-the-best-oversized-blazers-in-pictures)
-- [Northern Ireland’s unionist movement in turmoil as UUP leader steps down](https://www.theguardian.com/uk-news/2021/may/08/ulster-unionist-party-leader-announces-resignation)
-- [Arsenal’s squad needs changing, admits struggling Mikel Arteta](https://www.theguardian.com/football/2021/may/08/arsenals-squad-needs-changing-admits-struggling-mikel-arteta)
-- [Mané and Thiago sink Southampton to keep Liverpool’s top-four hopes alive](https://www.theguardian.com/football/2021/may/08/liverpool-southampton-premier-league-match-report)
+- [Taliban declares three-day Eid ceasefire after Afghanistan school bomb attacks](https://www.theguardian.com/world/2021/may/10/taliban-declares-three-day-eid-ceasefire-after-afghanistan-school-bomb-attacks)
+- [Exposing the great Post Office scandal – part 1](https://www.theguardian.com/news/audio/2021/may/10/exposing-the-great-post-office-scandal-part-1)
+- [Colorado shooting: seven dead after man opens fire at birthday party](https://www.theguardian.com/us-news/2021/may/09/colorado-springs-shooting-birthday-party)
+- [Queen’s speech: voters will need photo ID for general elections](https://www.theguardian.com/politics/2021/may/10/queens-speech-photo-id-future-elections-social-care)
+- [Royal Mail to deliver to Scilly Isles by drone in first UK trial of its kind](https://www.theguardian.com/business/2021/may/10/royal-mail-to-deliver-to-scilly-isles-by-drone-in-first-uk-trial-of-its-kind)
+- [Taylor Swift to become first female winner of global icon Brit award](https://www.theguardian.com/music/2021/may/10/taylor-swift-to-become-first-female-winner-of-global-icon-brit-award)
+- [Not cricket? Scientists suggest bamboo bats are a match for willow](https://www.theguardian.com/science/2021/may/10/not-cricket-scientists-suggest-bamboo-bats-are-a-match-for-willow)
+- [A Killer Party review – Jason Manford hosts cheery, tuneful murder mystery](https://www.theguardian.com/stage/2021/may/10/a-killer-party-review-jason-manford-stream-theatre-murder-mystery)
+- [Rory McIlroy ends 18-month wait with victory at Quail Hollow](https://www.theguardian.com/sport/2021/may/09/rory-mcilroy-ends-18-month-wait-with-victory-at-quail-hollow)
+- [Fargo season four review – Kansas City chaos with Chris Rock](https://www.theguardian.com/tv-and-radio/2021/may/09/fargo-season-four-review-kansas-city-chaos-with-chris-rock)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
-- [Top U.S. fuel pipeline operator's entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
-- [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
-- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
-- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
-- [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
-- [Higher mushroom consumption is associated with a lower risk of cancer](https://www.sciencedaily.com/releases/2021/04/210421200133.htm)
-- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
-- [Lessons on Writing JavaScript and React from ClojureScript](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/)
+- [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
+- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
+- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
+- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
+- [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
+- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -459,6 +439,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week In Review for May 7, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-7-2021/447035)
 - [How a student’s hunt for free software led to a research institute being crippled by ransomware](https://www.itworldcanada.com/article/how-a-students-hunt-for-free-software-led-to-a-research-institute-being-crippled-by-ransomware/447079)
 - [E-signatures essential for the anywhere economy](https://www.itworldcanada.com/article/e-signatures-essential-for-the-anywhere-economy/447090)
 - [Cyber insurers now demanding firms have MFA, says Canadian broker](https://www.itworldcanada.com/article/cyber-insurers-now-demanding-firms-have-mfa-says-canadian-broker/447004)
@@ -468,7 +449,6 @@
 - [PayIt may not gain expected adoption with Toronto’s online payment contract, says SQL CEO](https://www.itworldcanada.com/article/payit-wont-gain-expected-adoption-with-torontos-online-payment-contract-says-sql-ceo/447038)
 - [Ottawa invests $80 million to support cybersecurity R&D and commercialization](https://www.itworldcanada.com/article/ottawa-invests-80-million-to-support-cybersecurity-rd-and-commercialization/447084)
 - [TCL throws in a free TV with the TCL 20 Pro 5G smartphone](https://www.itworldcanada.com/article/tcl-throws-in-a-free-tv-with-the-tcl-20-pro-5g-smartphone/447014)
-- [Dell Technologies launches APEX, announces Equinix partnership](https://www.itworldcanada.com/article/dell-technologies-launches-apex-announces-equinix-partnership/447018)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

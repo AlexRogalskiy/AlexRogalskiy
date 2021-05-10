@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/D/damned_if_you_do_and_damned_if_you_don_t_615.php" target="_blank"><i>damned if you do and damned if you don't</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/K/know_what_s_what_441.php" target="_blank"><i>know what's what</i></a>
 <span> = </span>
-<span>If you say "damned if you do and damned if you don't" you're saying that no matter what someone does, they'll be criticised for it.</span>
+<span>If you know what's what, you have a lot of experience and you understand things well.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

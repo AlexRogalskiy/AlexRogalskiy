@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7b&#x2F;2d&#x2F;95&#x2F;7b2d95a501da707ea6b89036435072e3.jpg" alt="Nonesuch is the #WordOfTheDay. There’s nothing like it. Want example sentences? Head to Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7b&#x2F;2d&#x2F;95&#x2F;7b2d95a501da707ea6b89036435072e3.jpg" alt="Nonesuch is the #WordOfTheDay. There’s nothing like it. Want example sentences? Head to Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;98&#x2F;2f&#x2F;5f&#x2F;982f5f1480155a91b80764dabff87038.jpg" alt="Feeling lackadaisical? It&#39;s a good Word of the Day for a Friday. Click to learn more! #Vocabulary #Learn #English #Writing " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;5b&#x2F;ab&#x2F;7a&#x2F;5bab7a55d82a2eab8202f4c30e279944.jpg" alt="We planned this #WordOfTheDay. It&#39;s machinate. Learn how to say it, get examples, and more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9d&#x2F;f4&#x2F;2c&#x2F;9df42c5e6714d1e8e77000298f907ee5.jpg" alt="If the force is strong with you, you may recognize this special May the Fourth Word of the Day. It&#39;s thrawn. Click to learn more! " />
@@ -291,7 +291,7 @@ South, to a certain door, to a certain corner</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>16°C (<i>light rain</i>), humidity: 44%, pressure: 1019 (mbar), wind: /south/ 7 (m/s), cloudy: 0%</b>
+        <b>16°C (<i>clear sky</i>), humidity: 51%, pressure: 1020 (mbar), wind: /south/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:33 am</b> and sets at <b>21:16 pm</b>.
     </p>

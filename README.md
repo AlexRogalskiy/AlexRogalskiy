@@ -364,16 +364,16 @@ South, to a certain door, to a certain corner</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft, Mozilla plan new upgrade tactics for Edge, Firefox](https://www.computerworld.com/article/3618368/microsoft-mozilla-plan-new-upgrade-tactics-for-edge-firefox.html#tk.rss_all)
+- [Google and Apple claim their devices deliver a better sleep; not true, university says](https://www.computerworld.com/article/3618175/google-and-apple-claim-their-devices-deliver-a-better-sleep-not-true-university-says.html#tk.rss_all)
+- [How to make Apple's Mail deliver more productivity](https://www.computerworld.com/article/3618006/how-to-make-apples-mail-deliver-more-productivity.html#tk.rss_all)
+- [Patch Tuesday preview: Time for a 'measured' approach to updates](https://www.computerworld.com/article/3617946/patch-tuesday-preview-time-for-a-measured-approach-to-updates.html#tk.rss_all)
+- [How to create a digital workplace](https://www.computerworld.com/article/3618001/how-to-create-a-digital-workplace.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Apple, EarthLink, and the digital transformation of everything](https://www.computerworld.com/article/3617996/apple-earthlink-and-the-digital-transformation-of-everything.html#tk.rss_all)
 - [Rethinking business as usual: How to thrive as a manager In the ‘20s](https://www.computerworld.com/article/3617916/rethinking-business-as-usual-how-to-thrive-as-a-manager-in-the-20s.html#tk.rss_all)
 - [The loneliness of the long-distance worker](https://www.computerworld.com/article/3617277/the-loneliness-of-the-long-distance-worker.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Podcast: How Apple v. Epic Games could force the App Store and iPhone to change forever](https://www.computerworld.com/article/3617912/podcast-how-apple-v-epic-games-could-force-the-app-store-and-iphone-to-change-forever.html#tk.rss_all)
-- [10+ Microsoft Teams tips for Mac users](https://www.computerworld.com/article/3618010/10-microsoft-teams-tips-for-mac-users.html#tk.rss_all)
-- [3 wacky ways to make Android widgets more useful](https://www.computerworld.com/article/3617828/android-widgets.html#tk.rss_all)
-- [Facebook's Workplace gets ‘Plugins,’ new app integrations](https://www.computerworld.com/article/3617868/facebooks-workplace-gets-plugins-new-app-integrations.html#tk.rss_all)
-- [With Apple's Claris, digital transformation goes to school](https://www.computerworld.com/article/3617457/with-apples-claris-digital-transformation-goes-to-school.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

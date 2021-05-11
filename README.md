@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_3/nab_1331.php" target="_blank"><i>nab</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/icky_1182.php" target="_blank"><i>icky</i></a>
 <span> = </span>
-<span>to catch someone doing something wrong</span>
+<span>unpleasant in colour or taste</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

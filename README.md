@@ -241,26 +241,102 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650728707045130240" target="_blank"><i>1964</i></a></summary>
-<p>by Jorge Luis Borges</p><p><i>I.</i><br/>The world has lost its magic. They have left you.<br/>
-You no longer share the clear moon<br/>
-nor the slow gardens. Now there is<br/>
-no moon that isn’t a mirror to the past,</p><p>Solitary crystal, anguished sun.<br/>
-Goodbye to the mutual hands and the temples<br/>
-that brought love closer. Today all you have <br/>is the faithful memory and the deserted days.</p><p>Nobody loses (you repeat vainly)<br/>
-Except what they don’t have<br/>
-and never had, but it is not enough to be valiant</p><p>For to learn the art of forgetting<br/>
-a symbol, a rose, rips you apart<br/>
-and a guitar can kill you.</p><p><i>II.</i><br/>I will no longer be happy. Maybe it doesn’t matter.<br/>
-there are many other things in the world;<br/>
-any moment is more profound and<br/>
-diverse than the sea. Life is short</p><p>and though hours are very long,<br/>
-a dark delight lies in wait for us<br/>
-Death, that other sea, the other arrow<br/>
-come to free us from the sun and the moon</p><p>and the love. the joy you gave me <br/>and took away must be crossed out;<br/>
-that which was everything has to be nothing.</p><p>All I have left to enjoy is sadness,<br/>
-that vain habit that brings me<br/>
-South, to a certain door, to a certain corner</p>
+<summary><a href="https://apoemaday.tumblr.com/post/650819293538402304" target="_blank"><i>On the Pulse of Morning</i></a></summary>
+<p>by Maya Angelou</p><p>A Rock, A River, A Tree<br/>
+Hosts to species long since departed,<br/>
+Marked the mastodon,<br/>
+The dinosaur, who left dried tokens<br/>
+Of their sojourn here<br/>
+On our planet floor,<br/>
+Any broad alarm of their hastening doom<br/>
+Is lost in the gloom of dust and ages.</p><p>But today, the Rock cries out to us, clearly, forcefully,<br/>
+Come, you may stand upon my<br/>
+Back and face your distant destiny,<br/>
+But seek no haven in my shadow.<br/>
+I will give you no hiding place down here.</p><p>You, created only a little lower than<br/>
+The angels, have crouched too long in<br/>
+The bruising darkness<br/>
+Have lain too long<br/>
+Face down in ignorance.<br/>
+Your mouths spilling words</p><p>Armed for slaughter.<br/>
+The Rock cries out to us today, you may stand upon me,<br/>
+But do not hide your face.</p><p>Across the wall of the world,<br/>
+A River sings a beautiful song. It says,<br/>
+Come, rest here by my side.</p><p>Each of you, a bordered country,<br/>
+Delicate and strangely made proud,<br/>
+Yet thrusting perpetually under siege.<br/>
+Your armed struggles for profit<br/>
+Have left collars of waste upon<br/>
+My shore, currents of debris upon my breast.<br/>
+Yet today I call you to my riverside,<br/>
+If you will study war no more. Come,<br/>
+Clad in peace, and I will sing the songs<br/>
+The Creator gave to me when I and the<br/>
+Tree and the rock were one.<br/>
+Before cynicism was a bloody sear across your<br/>
+Brow and when you yet knew you still<br/>
+Knew nothing.<br/>
+The River sang and sings on.</p><p>There is a true yearning to respond to<br/>
+The singing River and the wise Rock.<br/>
+So say the Asian, the Hispanic, the Jew<br/>
+The African, the Native American, the Sioux,<br/>
+The Catholic, the Muslim, the French, the Greek<br/>
+The Irish, the Rabbi, the Priest, the Sheik,<br/>
+The Gay, the Straight, the Preacher,<br/>
+The privileged, the homeless, the Teacher.<br/>
+They hear. They all hear<br/>
+The speaking of the Tree.</p><p>They hear the first and last of every Tree<br/>
+Speak to humankind today. Come to me, here beside the River.<br/>
+Plant yourself beside the River.</p><p>Each of you, descendant of some passed<br/>
+On traveler, has been paid for.<br/>
+You, who gave me my first name, you,<br/>
+Pawnee, Apache, Seneca, you<br/>
+Cherokee Nation, who rested with me, then<br/>
+Forced on bloody feet,<br/>
+Left me to the employment of<br/>
+Other seekers—desperate for gain,<br/>
+Starving for gold.<br/>
+You, the Turk, the Arab, the Swede, the German, the Eskimo, the Scot,<br/>
+You the Ashanti, the Yoruba, the Kru, bought,<br/>
+Sold, stolen, arriving on the nightmare<br/>
+Praying for a dream.<br/>
+Here, root yourselves beside me.<br/>
+I am that Tree planted by the River,<br/>
+Which will not be moved.<br/>
+I, the Rock, I the River, I the Tree<br/>
+I am yours — your passages have been paid.<br/>
+Lift up your faces, you have a piercing need<br/>
+For this bright morning dawning for you.<br/>
+History, despite its wrenching pain<br/>
+Cannot be unlived, but if faced<br/>
+With courage, need not be lived again.</p><p>Lift up your eyes upon<br/>
+This day breaking for you.<br/>
+Give birth again<br/>
+To the dream.</p><p>Women, children, men,<br/>
+Take it into the palms of your hands,<br/>
+Mold it into the shape of your most<br/>
+Private need. Sculpt it into<br/>
+The image of your most public self.<br/>
+Lift up your hearts<br/>
+Each new hour holds new chances<br/>
+For a new beginning.<br/>
+Do not be wedded forever<br/>
+To fear, yoked eternally<br/>
+To brutishness.</p><p>The horizon leans forward,<br/>
+Offering you space to place new steps of change.<br/>
+Here, on the pulse of this fine day<br/>
+You may have the courage<br/>
+To look up and out and upon me, the<br/>
+Rock, the River, the Tree, your country.<br/>
+No less to Midas than the mendicant.<br/>
+No less to you now than the mastodon then.</p><p>Here, on the pulse of this new day<br/>
+You may have the grace to look up and out<br/>
+And into your sister’s eyes, and into<br/>
+Your brother’s face, your country<br/>
+And say simply<br/>
+Very simply<br/>
+With hope—<br/>
+Good morning.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

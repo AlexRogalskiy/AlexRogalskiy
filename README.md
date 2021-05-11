@@ -439,16 +439,16 @@ South, to a certain door, to a certain corner</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [One-third of organizations question IT infrastructure supporting remote workforce, says BlackBerry report](https://www.itworldcanada.com/article/one-third-of-organizations-question-it-infrastructure-supporting-remote-workforce-says-blackberry-report/447158)
+- [Russia targeting these 11 vulnerabilities, say US, UK cyber agencies](https://www.itworldcanada.com/article/russia-targeting-these-11-vulnerabilities-say-us-uk-cyber-agencies/447145)
+- [Cyber Security Today, May 10, 2021 – Deadline looms for Women In Cyber Day petition, data theft from insurance quote websites and advice from Canada’s top cyber agency](https://www.itworldcanada.com/article/cyber-security-today-may-10-2021-deadline-looms-for-women-in-cyber-day-petition-data-theft-from-insurance-quote-websites-and-advice-from-canadas-top-cyber-agency/447136)
+- [Hashtag Trending, May 10, 2021 – Most users’ like Apple’s ATT feature; Cyberattack shuts down pipeline; What’s up WhatsApp?](https://www.itworldcanada.com/article/hashtag-trending-may-10-2021-most-users-like-apples-att-feature-cyberattack-shuts-down-pipeline-whats-up-whatsapp/447131)
 - [Cyber Security Today, Week In Review for May 7, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-7-2021/447035)
 - [How a student’s hunt for free software led to a research institute being crippled by ransomware](https://www.itworldcanada.com/article/how-a-students-hunt-for-free-software-led-to-a-research-institute-being-crippled-by-ransomware/447079)
 - [E-signatures essential for the anywhere economy](https://www.itworldcanada.com/article/e-signatures-essential-for-the-anywhere-economy/447090)
 - [Cyber insurers now demanding firms have MFA, says Canadian broker](https://www.itworldcanada.com/article/cyber-insurers-now-demanding-firms-have-mfa-says-canadian-broker/447004)
 - [Cyber Security Today, May 7, 2021 – Security of restaurant online ordering platforms questioned, Google gets tough with 2FA and product review scam revealed](https://www.itworldcanada.com/article/cyber-security-today-may-7-2021-security-of-restaurant-online-ordering-platforms-questioned-google-gets-tough-with-2fa-and-fake-online-product-review-scam-revealed/447053)
 - [Hashtag Trending, May 7, 2021 – Canada’s top tech companies in 2021; Facebook shuts down Signal ads; Google Docs VS Word](https://www.itworldcanada.com/article/hashtag-trending-may-7-2021-canadas-top-tech-companies-in-2021-facebook-shuts-down-signal-ads-google-docs-vs-word/447072)
-- [Industry leaders form new Semiconductor Council to strengthen Canada’s chip supply chain](https://www.itworldcanada.com/article/industry-leaders-form-new-semiconductor-council-to-strengthen-canadas-chip-supply-chain/447043)
-- [PayIt may not gain expected adoption with Toronto’s online payment contract, says SQL CEO](https://www.itworldcanada.com/article/payit-wont-gain-expected-adoption-with-torontos-online-payment-contract-says-sql-ceo/447038)
-- [Ottawa invests $80 million to support cybersecurity R&D and commercialization](https://www.itworldcanada.com/article/ottawa-invests-80-million-to-support-cybersecurity-rd-and-commercialization/447084)
-- [TCL throws in a free TV with the TCL 20 Pro 5G smartphone](https://www.itworldcanada.com/article/tcl-throws-in-a-free-tv-with-the-tcl-20-pro-5g-smartphone/447014)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

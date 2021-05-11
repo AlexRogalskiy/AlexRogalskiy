@@ -379,6 +379,8 @@ South, to a certain door, to a certain corner</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What Will Be the Next New Normal in Cloud Software Security?](https://www.informationweek.com/cloud/what-will-be-the-next-new-normal-in-cloud-software-security/a/d-id/1340958?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Cloud Comes of Age Amid Unprecedented Change](https://www.informationweek.com/cloud/the-cloud-comes-of-age-amid-unprecedented-change/a/d-id/1340930?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Move Over, Zoom, Holograms Are Next](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/move-over-zoom-holograms-are-next/a/d-id/1340872?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [5 Reasons Open Source Is Critical To Going Cloud Native](https://www.informationweek.com/cloud/5-reasons-open-source-is-critical-to-going-cloud-native/a/d-id/1340919?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Transformation, Disruption, and Gender Diversity in Tech](https://www.informationweek.com/strategic-cio/transformation-disruption-and-gender-diversity-in-tech/d/d-id/1340918?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -387,8 +389,6 @@ South, to a certain door, to a certain corner</p>
 - [How to Recruit AI Talent and Keep Them Happy](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-recruit-ai-talent-and-keep-them-happy/a/d-id/1340858?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Pandemic Responses Make Room for More Data Opportunities](https://www.informationweek.com/big-data/pandemic-responses-make-room-for-more-data-opportunities/d/d-id/1340890?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Lessons I've Learned From My Career in Technology](https://www.informationweek.com/strategic-cio/team-building-and-staffing/lessons-ive-learned-from-my-career-in-technology/a/d-id/1340856?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Deep AI Verticalization: No Silver Bullets](https://www.informationweek.com/big-data/ai-machine-learning/deep-ai-verticalization-no-silver-bullets/a/d-id/1340875?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Demystifying Quantum Computing: Road Ahead for Commercialization](https://www.informationweek.com/big-data/demystifying-quantum-computing-road-ahead-for-commercialization-/a/d-id/1340854?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

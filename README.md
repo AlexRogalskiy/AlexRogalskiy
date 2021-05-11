@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/K/know_what_s_what_441.php" target="_blank"><i>know what's what</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/a_wolf_in_sheep_s_clothing_130.php" target="_blank"><i>a wolf in sheep's clothing</i></a>
 <span> = </span>
-<span>If you know what's what, you have a lot of experience and you understand things well.</span>
+<span>A wolf in sheep's clothing is someone who seems to be a good person but is really a bad person.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

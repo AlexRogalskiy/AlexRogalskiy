@@ -319,16 +319,16 @@ South, to a certain door, to a certain corner</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [As CEO, I worry about the erosion of office culture with more remote work](https://www.washingtonpost.com/opinions/2021/05/06/ceo-i-want-my-employees-understand-risks-not-returning-work-office/)
-- [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
-- [Ask HN: Should Airbnb be responsible if their emails are routed to spam?](https://news.ycombinator.com/item?id=27102110)
-- [Technical debt isn’t all bad (usually)](https://ryanhayes.net/technical-debt-isnt-all-bad-usually/)
-- [Could digital currencies put banks out of business?](https://www.youtube.com/watch?v=fpb-qJv6dBs)
-- [Tell HN: Don't put your status page on the same domain as your app](https://news.ycombinator.com/item?id=27102020)
-- [Ask HN: What's your preference for creating an API, Low Code or No Code Tool?](https://news.ycombinator.com/item?id=27102018)
-- [Biden Declares State of Emergency While Colonial Pipeline Is Down](https://zetter.substack.com/p/biden-declares-state-of-emergency)
-- [The Mail Order Bride Test (2020)](https://capitalandgrowth.org/answers/Article/3192811/The-Mail-Order-Brides-Test)
-- [What Is a Podcast?](https://polkacast.substack.com/p/what-is-a-podcast)
+- [Whole Earth Catalog founder and woolly mammoth de-extinctionist Stewart Brand](https://reason.com/2021/05/09/the-intellectual-johnny-appleseed-of-the-counterculture/)
+- [Keytotext Convert Keywords to Large Texts](https://github.com/gagan3012/keytotext)
+- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
+- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
+- [Sony Warns Tight Playstation 5 Supply to Extend into Next Year](https://www.bloomberg.com/news/articles/2021-05-10/sony-warns-tight-playstation-5-supply-to-extend-into-next-year)
+- [Making eBPF Work on Windows](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)
+- [Is Open Source Sustainable?](https://www.theregister.com/2021/05/10/untangling_open_sources_sustainability_problem/)
+- [Ask HN: Do you know any CS / coding club teachers community?](https://news.ycombinator.com/item?id=27113376)
+- [More about DarkSide, the criminal gang suspected in pipeline cyberattack](https://www.autoblog.com/2021/05/10/darkside-hackers-colonial-pipeline/)
+- [The Craft of Text Editing (1991)](https://www.finseth.com/craft/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

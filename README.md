@@ -334,16 +334,16 @@ South, to a certain door, to a certain corner</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Taliban declares three-day Eid ceasefire after Afghanistan school bomb attacks](https://www.theguardian.com/world/2021/may/10/taliban-declares-three-day-eid-ceasefire-after-afghanistan-school-bomb-attacks)
-- [Exposing the great Post Office scandal – part 1](https://www.theguardian.com/news/audio/2021/may/10/exposing-the-great-post-office-scandal-part-1)
-- [Colorado shooting: seven dead after man opens fire at birthday party](https://www.theguardian.com/us-news/2021/may/09/colorado-springs-shooting-birthday-party)
-- [Queen’s speech: voters will need photo ID for general elections](https://www.theguardian.com/politics/2021/may/10/queens-speech-photo-id-future-elections-social-care)
-- [Royal Mail to deliver to Scilly Isles by drone in first UK trial of its kind](https://www.theguardian.com/business/2021/may/10/royal-mail-to-deliver-to-scilly-isles-by-drone-in-first-uk-trial-of-its-kind)
-- [Taylor Swift to become first female winner of global icon Brit award](https://www.theguardian.com/music/2021/may/10/taylor-swift-to-become-first-female-winner-of-global-icon-brit-award)
-- [Not cricket? Scientists suggest bamboo bats are a match for willow](https://www.theguardian.com/science/2021/may/10/not-cricket-scientists-suggest-bamboo-bats-are-a-match-for-willow)
-- [A Killer Party review – Jason Manford hosts cheery, tuneful murder mystery](https://www.theguardian.com/stage/2021/may/10/a-killer-party-review-jason-manford-stream-theatre-murder-mystery)
-- [Rory McIlroy ends 18-month wait with victory at Quail Hollow](https://www.theguardian.com/sport/2021/may/09/rory-mcilroy-ends-18-month-wait-with-victory-at-quail-hollow)
-- [Fargo season four review – Kansas City chaos with Chris Rock](https://www.theguardian.com/tv-and-radio/2021/may/09/fargo-season-four-review-kansas-city-chaos-with-chris-rock)
+- [The Post Office scandal – part 2](https://www.theguardian.com/news/audio/2021/may/11/the-post-office-scandal-part-2)
+- [Biden says ‘economic plan is working’, despite disappointing April jobs report – as it happened](https://www.theguardian.com/world/live/2021/may/10/biden-economy-infrastructure-bill-covid-vaccines-latest-news-live-updates)
+- [‘We are living in a war zone’: violence flares in West Papua as villagers forced to flee](https://www.theguardian.com/world/2021/may/11/we-are-living-in-a-war-zone-violence-flares-in-west-papua-as-villagers-forced-to-flee)
+- [Explainer: What is the deadly ‘black fungus’ seen in Covid patients in India?](https://www.theguardian.com/global/2021/may/11/what-is-the-dangerous-black-fungus-being-seen-in-covid-patients-in-india-mucormycosis)
+- [Nasa spacecraft leaves asteroid Bennu with a belly full of space rock samples](https://www.theguardian.com/science/2021/may/10/nasa-spacecraft-asteroid-bennu-space-rock-samples)
+- [Drive for more student diversity paying off, says Oxford University](https://www.theguardian.com/education/2021/may/11/drive-for-more-student-diversity-paying-off-says-oxford-university)
+- [British retailers say closures and job losses still a risk despite lockdown easing](https://www.theguardian.com/business/2021/may/11/british-retailers-say-closures-and-job-losses-still-a-risk-despite-lockdown-easing)
+- [‘My head is on fire’: Roger Ballen finds poetry in pain – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/may/11/my-head-is-on-fire-roger-ballen-finds-poetry-in-pain-in-pictures)
+- [California declares drought emergency across vast swath of state](https://www.theguardian.com/us-news/2021/may/10/california-declares-drought-emergency-across-vast-swath-of-state)
+- [Man, 21, charged with murder of PCSO Julia James](https://www.theguardian.com/uk-news/2021/may/10/man-21-charged-with-of-kent-pcso-julia-james)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

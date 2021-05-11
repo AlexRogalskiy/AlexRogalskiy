@@ -409,16 +409,16 @@ South, to a certain door, to a certain corner</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Server-side licensing leads to hike in public cloud prices](https://www.computerweekly.com/news/252500471/Server-side-licensing-leads-to-hike-in-public-cloud-prices)
+- [HMRC facing calls to do more to tackle mini umbrella fraud in wake of BBC investigation](https://www.computerweekly.com/news/252500463/HMRC-facing-calls-to-do-more-to-tackle-mini-umbrella-fraud-in-wake-of-BBC-investigation)
+- [Miscarriages of justice are the potent tip of Post Office scandal](https://www.computerweekly.com/news/252500460/Miscarriages-of-justice-are-the-potent-tip-of-Post-Office-scandal)
+- [NCSC Active Cyber Defence blocks surge of pandemic scams](https://www.computerweekly.com/news/252500457/NCSC-Active-Cyber-Defence-blocks-surge-of-pandemic-scams)
+- [IBM: Another chip in the wall](https://www.computerweekly.com/news/252500454/IBM-Another-chip-in-the-wall)
+- [How to support a hybrid workforce](https://www.computerweekly.com/feature/How-to-support-a-hybrid-workforce)
 - [How do I get my users to pay attention to security training?](https://www.computerweekly.com/feature/How-do-I-get-my-users-to-pay-attention-to-security-training)
 - [NCSC, CISA publish new information on Russia’s Cozy Bear](https://www.computerweekly.com/news/252500409/NCSC-CISA-publish-new-information-on-Russias-Cozy-Bear)
 - [NCSC publishes smart city security guidelines](https://www.computerweekly.com/news/252500407/NCSC-publishes-smart-city-security-guidelines)
 - [Post Office contacts over 500 subpostmasters potentially wrongly prosecuted for financial crimes](https://www.computerweekly.com/news/252500406/Post-Office-contacts-over-500-subpostmasters-potentially-wrongly-prosecuted-for-financial-crimes)
-- [Monmouthshire County Council digitises HR with Zellis Cloud](https://www.computerweekly.com/news/252500200/Monmouthshire-County-Council-digitises-HR-with-Zellis-Cloud)
-- [Cyber accreditation to improve legal standing of security pros](https://www.computerweekly.com/news/252500398/Cyber-accreditation-to-improve-legal-standing-of-security-pros)
-- [Securing the UK's emerging smart cities](https://www.computerweekly.com/opinion/Securing-the-UKs-emerging-smart-cities)
-- [Reddit enlists HackerOne to run public bug bounty programme](https://www.computerweekly.com/news/252500401/Reddit-enlists-HackerOne-to-run-public-bug-bounty-programme)
-- [Nordic real estate industry moves digital](https://www.computerweekly.com/news/252500322/Nordic-real-estate-industry-moves-digital)
-- [Minister promises ‘fair and speedy’ compensation for 555 subpostmasters who defeated Post Office](https://www.computerweekly.com/news/252500395/Minister-promises-fair-and-speedy-compensation-for-555-subpostmasters-who-defeated-Post-Office)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

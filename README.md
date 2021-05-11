@@ -349,16 +349,16 @@ South, to a certain door, to a certain corner</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
-- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
-- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
-- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
-- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
-- [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
-- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
-- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
-- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
+- [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+- [Can I Email?](https://www.caniemail.com/)
+- [Pfizer Covid vaccine protects against worrying coronavirus variants](https://www.nature.com/articles/d41586-021-01222-5)
+- [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
+- [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
+- [NTSB: Tesla Model S in Crash Couldn't Have Been Using Autopilot](https://www.caranddriver.com/news/a36387950/ntsb-investigation-tesla-model-s-autopilot/)
+- [One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet)
+- [How Atari 2600 Game Pitfall Builds Its World](https://evoniuk.github.io/posts/pitfall.html)
+- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

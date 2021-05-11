@@ -304,16 +304,16 @@ South, to a certain door, to a certain corner</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Deepfake Tech Could Make Dubbed Films More Believable](https://www.reviewgeek.com/81796/deepfake-tech-could-make-dubbed-films-more-believable/)
-* [Citroën Is Invading the U.S. with Its Tiny, $6,000 Electric "Car"](https://www.reviewgeek.com/81767/citroen-is-invading-the-u-s-with-its-tiny-6000-electric-car/)
-* [So, Uh, a Day Lasts Longer Than a Year on Venus 🤯](https://www.reviewgeek.com/81824/so-uh-a-day-lasts-longer-than-a-year-on-venus-mind-blown/)
-* [How to Silence Your Android Phone Automatically While Charging](https://www.howtogeek.com/706826/how-to-silence-your-android-phone-automatically-while-charging/)
-* [How to Switch between Light and Dark Themes in Photoshop](https://www.howtogeek.com/724883/how-to-switch-between-light-and-dark-themes-in-photoshop/)
-* [This 3D Printer Uses Sawdust to Make Real Wood Stuff](https://www.reviewgeek.com/81766/this-3d-printer-uses-sawdust-to-make-real-wood-stuff/)
-* [How to Disable Tab Preview Thumbnails in Safari for Mac](https://www.howtogeek.com/722842/how-to-disable-tab-preview-thumbnails-in-safari-for-mac/)
-* [The 6 Best Single Monitor Mounts](https://www.reviewgeek.com/79849/the-6-best-single-monitor-mounts/)
-* [How to Lock an iPhone or iPad with a Broken Power Button](https://www.howtogeek.com/722772/how-to-lock-an-iphone-or-ipad-with-a-broken-power-button/)
-* [10 Best Mother’s Day Movies to Watch with Your Mom](https://www.howtogeek.com/724910/best-movies-to-watch-with-your-mom-on-mothers-day/)
+* [Harley-Davidson's LiveWire Electric Motorcycle Becomes Its Own Brand](https://www.reviewgeek.com/81971/harley-davidsons-livewire-electric-motorcycle-becomes-its-own-brand/)
+* [Newly-Approved Smart Insulin Pen Cap Will Help Those with Diabetes](https://www.reviewgeek.com/82014/newly-approved-smart-insulin-pen-cap-will-help-those-with-diabetes/)
+* [A New AirTags Hack Leads to a Malicious Site Instead of the Return to Owner Page](https://www.reviewgeek.com/81987/a-new-airtags-hack-leads-to-a-malicious-site-instead-of-the-return-to-owner-page/)
+* [Sony's Upcoming WF-1000XM4 Earbuds Leak, Showing More Modern Design](https://www.reviewgeek.com/81955/sonys-upcoming-wf-1000xm4-earbuds-leak-showing-more-modern-design/)
+* [[Update: Statement] Aukey is In Trouble with Amazon, Has All of Its Products Removed](https://www.reviewgeek.com/81928/aukey-is-in-trouble-with-amazon-has-all-of-its-products-removed/)
+* [Watch a Video of Tesla's Cybertruck Zipping Through NYC](https://www.reviewgeek.com/81941/watch-a-video-of-teslas-cybertruck-zipping-through-nyc/)
+* [SpaceX Now Accepts Dogecoin for Satellite Launch Payments](https://www.reviewgeek.com/81924/spacex-now-accepts-dogecoin-for-satellite-launch-payments/)
+* [Samsung's New Windows App Finds Your Lost Devices and Manages Your Smart Home](https://www.reviewgeek.com/81912/samsungs-new-windows-app-finds-your-lost-devices-and-manages-your-smart-home/)
+* [You Can Now Purchase the LEGO Medieval Blacksmith Set on Amazon](https://www.reviewgeek.com/81920/you-can-now-purchase-the-lego-medieval-blacksmith-set-on-amazon/)
+* [How to Leave a Family Note on the Google Nest Hub](https://www.howtogeek.com/727071/how-to-leave-a-family-note-on-the-google-nest-hub/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

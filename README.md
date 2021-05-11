@@ -424,16 +424,16 @@ South, to a certain door, to a certain corner</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ascending past level 1 and 2 IT Support](https://www.reddit.com/r/InformationTechnology/comments/n9l4dy/ascending_past_level_1_and_2_it_support/)
+- [IT jobs](https://www.reddit.com/r/InformationTechnology/comments/n9irv1/it_jobs/)
+- [Looking for Unattended remote software](https://www.reddit.com/r/InformationTechnology/comments/n9ifwg/looking_for_unattended_remote_software/)
+- [Ethernet splitter - Should I use one?](https://www.reddit.com/r/InformationTechnology/comments/n9hwlv/ethernet_splitter_should_i_use_one/)
+- [Why is learning IT good for daily life?](https://www.reddit.com/r/InformationTechnology/comments/n9hutj/why_is_learning_it_good_for_daily_life/)
+- [Hi, can someone suggest me an IT course online?](https://www.reddit.com/r/InformationTechnology/comments/n9gu0p/hi_can_someone_suggest_me_an_it_course_online/)
+- [Email Transfer Question](https://www.reddit.com/r/InformationTechnology/comments/n8u2sb/email_transfer_question/)
 - [Is the IT degree for failed CS Majors](https://www.reddit.com/r/InformationTechnology/comments/n7hia2/is_the_it_degree_for_failed_cs_majors/)
 - [Is there any social media platform that will allow paymengs to be recieved for a home food business? If no, whats the best way forward saving on costs. Thx](https://www.reddit.com/r/InformationTechnology/comments/n7ektm/is_there_any_social_media_platform_that_will/)
 - [Failing to understand how local ram and gpu works](https://www.reddit.com/r/InformationTechnology/comments/n7bzo8/failing_to_understand_how_local_ram_and_gpu_works/)
-- [What is the best way to defeat employee tracking software?](https://www.reddit.com/r/InformationTechnology/comments/n793e7/what_is_the_best_way_to_defeat_employee_tracking/)
-- [Need some direction](https://www.reddit.com/r/InformationTechnology/comments/n75mk5/need_some_direction/)
-- [How can I study at work without IT knowing?](https://www.reddit.com/r/InformationTechnology/comments/n74lug/how_can_i_study_at_work_without_it_knowing/)
-- [Apprenticeships and Certifications SHOULD be the New Norm out of Highschool.](https://www.reddit.com/r/InformationTechnology/comments/n73dv6/apprenticeships_and_certifications_should_be_the/)
-- [Am I the only one considering to leave IT industry because it could be so boring](https://www.reddit.com/r/InformationTechnology/comments/n63u85/am_i_the_only_one_considering_to_leave_it/)
-- [Senior in high school needing a help with a plan to get into this field I love.](https://www.reddit.com/r/InformationTechnology/comments/n5zuol/senior_in_high_school_needing_a_help_with_a_plan/)
-- [Masters in IT with finance bachelors](https://www.reddit.com/r/InformationTechnology/comments/n5kb5b/masters_in_it_with_finance_bachelors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

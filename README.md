@@ -395,16 +395,16 @@ Good morning.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Whole Earth Catalog founder and woolly mammoth de-extinctionist Stewart Brand](https://reason.com/2021/05/09/the-intellectual-johnny-appleseed-of-the-counterculture/)
-- [Keytotext Convert Keywords to Large Texts](https://github.com/gagan3012/keytotext)
-- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
-- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
-- [Sony Warns Tight Playstation 5 Supply to Extend into Next Year](https://www.bloomberg.com/news/articles/2021-05-10/sony-warns-tight-playstation-5-supply-to-extend-into-next-year)
-- [Making eBPF Work on Windows](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)
-- [Is Open Source Sustainable?](https://www.theregister.com/2021/05/10/untangling_open_sources_sustainability_problem/)
-- [Ask HN: Do you know any CS / coding club teachers community?](https://news.ycombinator.com/item?id=27113376)
-- [More about DarkSide, the criminal gang suspected in pipeline cyberattack](https://www.autoblog.com/2021/05/10/darkside-hackers-colonial-pipeline/)
-- [The Craft of Text Editing (1991)](https://www.finseth.com/craft/)
+- [Canadian Issuer Is Making Its Bitcoin ETF Carbon-Neutral](https://finance.yahoo.com/news/canadian-issuer-making-bitcoin-etf-090000435.html)
+- [Ransomware gang threatens release of Washington D.C. police records](https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b)
+- [Bitcoin and Quantum Computing](https://arxiv.org/abs/1711.04235)
+- [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
+- [I Put Plants and Animals in a Jar for a Year [video]](https://www.youtube.com/watch?v=hsjLayKCzK8)
+- [Wa2Sig – WhatsApp to Signal migration tool](https://play.google.com/store/apps/details?id=com.migratemydata.wa2sig)
+- [What makes registers and L1 cache so much more expensive than L2/L3/RAM?](https://news.ycombinator.com/item?id=27125874)
+- [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
+- [Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF](https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes)
+- [Bring ziggy home – drones for lost pets](https://news.ycombinator.com/item?id=27125811)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

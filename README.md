@@ -380,16 +380,16 @@ Good morning.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Harley-Davidson's LiveWire Electric Motorcycle Becomes Its Own Brand](https://www.reviewgeek.com/81971/harley-davidsons-livewire-electric-motorcycle-becomes-its-own-brand/)
-* [Newly-Approved Smart Insulin Pen Cap Will Help Those with Diabetes](https://www.reviewgeek.com/82014/newly-approved-smart-insulin-pen-cap-will-help-those-with-diabetes/)
-* [A New AirTags Hack Leads to a Malicious Site Instead of the Return to Owner Page](https://www.reviewgeek.com/81987/a-new-airtags-hack-leads-to-a-malicious-site-instead-of-the-return-to-owner-page/)
-* [Sony's Upcoming WF-1000XM4 Earbuds Leak, Showing More Modern Design](https://www.reviewgeek.com/81955/sonys-upcoming-wf-1000xm4-earbuds-leak-showing-more-modern-design/)
-* [[Update: Statement] Aukey is In Trouble with Amazon, Has All of Its Products Removed](https://www.reviewgeek.com/81928/aukey-is-in-trouble-with-amazon-has-all-of-its-products-removed/)
-* [Watch a Video of Tesla's Cybertruck Zipping Through NYC](https://www.reviewgeek.com/81941/watch-a-video-of-teslas-cybertruck-zipping-through-nyc/)
-* [SpaceX Now Accepts Dogecoin for Satellite Launch Payments](https://www.reviewgeek.com/81924/spacex-now-accepts-dogecoin-for-satellite-launch-payments/)
-* [Samsung's New Windows App Finds Your Lost Devices and Manages Your Smart Home](https://www.reviewgeek.com/81912/samsungs-new-windows-app-finds-your-lost-devices-and-manages-your-smart-home/)
-* [You Can Now Purchase the LEGO Medieval Blacksmith Set on Amazon](https://www.reviewgeek.com/81920/you-can-now-purchase-the-lego-medieval-blacksmith-set-on-amazon/)
-* [How to Leave a Family Note on the Google Nest Hub](https://www.howtogeek.com/727071/how-to-leave-a-family-note-on-the-google-nest-hub/)
+* [Nomad Releases Rugged AirTag Keychain and Engravable Pet Tag](https://www.reviewgeek.com/82233/nomad-airtag-accessory-rugged-keychain-engravable-pet-tag/)
+* [Subaru Teases Its New All-Electric SUV, The Solterra](https://www.reviewgeek.com/82245/subaru-teases-its-new-all-electric-suv-the-solterra/)
+* [LEGO Brings 'Friends' Back in Their Shiny Apartments](https://www.reviewgeek.com/82196/lego-brings-friends-back-in-their-shiny-apartments/)
+* [Pok Pok Playroom Is a Goal-Free Kids's App from 'Alto's Odyssey' Creators](https://www.reviewgeek.com/82181/pok-pok-playroom-is-a-goal-free-kidss-app-from-altos-odyssey-creators/)
+* [TCL Goes XL With New 85-inch 4K and 8K Roku TVs](https://www.reviewgeek.com/82166/tcl-goes-xl-with-new-85-inch-4k-and-8k-roku-tvs/)
+* [U.S. Google Pay Customers Can Now Send Money Internationally](https://www.reviewgeek.com/82187/u-s-google-pay-customers-can-now-send-money-internationally/)
+* [Everything Samsung Announced at its "Bespoke" Event](https://www.reviewgeek.com/82167/everything-samsung-announced-at-its-bespoke-event/)
+* [Nothing Announces Something ... and It's Earbuds](https://www.reviewgeek.com/82160/nothing-announces-something-and-its-earbuds/)
+* [Lenovo's Legion Gaming Laptops Gain Intel 11th Gen Processors](https://www.reviewgeek.com/82111/lenovo-updated-legion-7i-gaming-laptops-1610-displays/)
+* [Adobe Audition Gains Native Apple Silicon Support and New Audio Editing Tools](https://www.reviewgeek.com/82117/adobe-audition-gains-native-apple-silicon-support-and-new-audio-editing-tools/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

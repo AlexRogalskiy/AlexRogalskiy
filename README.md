@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_only_knocks_once_559.php" target="_blank"><i>Opportunity only knocks once</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/I/If_you_wish_good_advice_consult_an_old_man_509.php" target="_blank"><i>If you wish good advice, consult an old man</i></a>
 <span> = </span>
-<span>We should take an opportunity (or chance) when it comes. According to this saying, it will not come again.</span>
+<span>Old people have a lot of experience. If you want to have good advice or recommendations, ask an old person, not a young one.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

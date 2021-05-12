@@ -241,102 +241,83 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650819293538402304" target="_blank"><i>On the Pulse of Morning</i></a></summary>
-<p>by Maya Angelou</p><p>A Rock, A River, A Tree<br/>
-Hosts to species long since departed,<br/>
-Marked the mastodon,<br/>
-The dinosaur, who left dried tokens<br/>
-Of their sojourn here<br/>
-On our planet floor,<br/>
-Any broad alarm of their hastening doom<br/>
-Is lost in the gloom of dust and ages.</p><p>But today, the Rock cries out to us, clearly, forcefully,<br/>
-Come, you may stand upon my<br/>
-Back and face your distant destiny,<br/>
-But seek no haven in my shadow.<br/>
-I will give you no hiding place down here.</p><p>You, created only a little lower than<br/>
-The angels, have crouched too long in<br/>
-The bruising darkness<br/>
-Have lain too long<br/>
-Face down in ignorance.<br/>
-Your mouths spilling words</p><p>Armed for slaughter.<br/>
-The Rock cries out to us today, you may stand upon me,<br/>
-But do not hide your face.</p><p>Across the wall of the world,<br/>
-A River sings a beautiful song. It says,<br/>
-Come, rest here by my side.</p><p>Each of you, a bordered country,<br/>
-Delicate and strangely made proud,<br/>
-Yet thrusting perpetually under siege.<br/>
-Your armed struggles for profit<br/>
-Have left collars of waste upon<br/>
-My shore, currents of debris upon my breast.<br/>
-Yet today I call you to my riverside,<br/>
-If you will study war no more. Come,<br/>
-Clad in peace, and I will sing the songs<br/>
-The Creator gave to me when I and the<br/>
-Tree and the rock were one.<br/>
-Before cynicism was a bloody sear across your<br/>
-Brow and when you yet knew you still<br/>
-Knew nothing.<br/>
-The River sang and sings on.</p><p>There is a true yearning to respond to<br/>
-The singing River and the wise Rock.<br/>
-So say the Asian, the Hispanic, the Jew<br/>
-The African, the Native American, the Sioux,<br/>
-The Catholic, the Muslim, the French, the Greek<br/>
-The Irish, the Rabbi, the Priest, the Sheik,<br/>
-The Gay, the Straight, the Preacher,<br/>
-The privileged, the homeless, the Teacher.<br/>
-They hear. They all hear<br/>
-The speaking of the Tree.</p><p>They hear the first and last of every Tree<br/>
-Speak to humankind today. Come to me, here beside the River.<br/>
-Plant yourself beside the River.</p><p>Each of you, descendant of some passed<br/>
-On traveler, has been paid for.<br/>
-You, who gave me my first name, you,<br/>
-Pawnee, Apache, Seneca, you<br/>
-Cherokee Nation, who rested with me, then<br/>
-Forced on bloody feet,<br/>
-Left me to the employment of<br/>
-Other seekers—desperate for gain,<br/>
-Starving for gold.<br/>
-You, the Turk, the Arab, the Swede, the German, the Eskimo, the Scot,<br/>
-You the Ashanti, the Yoruba, the Kru, bought,<br/>
-Sold, stolen, arriving on the nightmare<br/>
-Praying for a dream.<br/>
-Here, root yourselves beside me.<br/>
-I am that Tree planted by the River,<br/>
-Which will not be moved.<br/>
-I, the Rock, I the River, I the Tree<br/>
-I am yours — your passages have been paid.<br/>
-Lift up your faces, you have a piercing need<br/>
-For this bright morning dawning for you.<br/>
-History, despite its wrenching pain<br/>
-Cannot be unlived, but if faced<br/>
-With courage, need not be lived again.</p><p>Lift up your eyes upon<br/>
-This day breaking for you.<br/>
-Give birth again<br/>
-To the dream.</p><p>Women, children, men,<br/>
-Take it into the palms of your hands,<br/>
-Mold it into the shape of your most<br/>
-Private need. Sculpt it into<br/>
-The image of your most public self.<br/>
-Lift up your hearts<br/>
-Each new hour holds new chances<br/>
-For a new beginning.<br/>
-Do not be wedded forever<br/>
-To fear, yoked eternally<br/>
-To brutishness.</p><p>The horizon leans forward,<br/>
-Offering you space to place new steps of change.<br/>
-Here, on the pulse of this fine day<br/>
-You may have the courage<br/>
-To look up and out and upon me, the<br/>
-Rock, the River, the Tree, your country.<br/>
-No less to Midas than the mendicant.<br/>
-No less to you now than the mastodon then.</p><p>Here, on the pulse of this new day<br/>
-You may have the grace to look up and out<br/>
-And into your sister’s eyes, and into<br/>
-Your brother’s face, your country<br/>
-And say simply<br/>
-Very simply<br/>
-With hope—<br/>
-Good morning.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/650909907695058944" target="_blank"><i>Wanting to Die</i></a></summary>
+<p>by Anne Sexton</p><p>
+Since you ask, most days I cannot remember.
+<br/>
+I walk in my clothing, unmarked by that voyage.   
+
+<br/>Then the almost unnameable lust returns.
+<br/><br/>
+
+Even then I have nothing against life.
+<br/>
+I know well the grass blades you mention,   
+
+<br/>the furniture you have placed under the sun.
+<br/><br/>
+
+But suicides have a special language.
+<br/>
+Like carpenters they want to know which tools.
+
+<br/>They never ask why build.
+<br/><br/>
+
+Twice I have so simply declared myself,   
+
+<br/>have possessed the enemy, eaten the enemy,   
+
+<br/>have taken on his craft, his magic.
+<br/><br/>
+
+In this way, heavy and thoughtful,   <br/>
+
+warmer than oil or water,
+
+I have rested, <br/>drooling at the mouth-hole.
+<br/><br/>
+
+I did not think of my body at needle point.
+
+<br/>Even the cornea and the leftover urine were gone.   
+
+<br/>Suicides have already betrayed the body.
+<br/><br/>
+
+Still-born, they don’t always die,
+
+but dazzled, <br/>they can’t forget a drug so sweet   
+
+<br/>that even children would look on and smile.
+<br/><br/>
+
+To thrust all that life under your tongue!—
+
+<br/>that, all by itself, becomes a passion.   
+
+<br/>Death’s a sad bone; bruised, you’d say,
+<br/><br/>
+
+and yet she waits for me, year after year,   <br/>
+
+to so delicately undo an old wound,   
+
+<br/>to empty my breath from its bad prison.
+<br/><br/>
+
+Balanced there, suicides sometimes meet,   
+
+<br/>raging at the fruit a pumped-up moon,   
+
+<br/>leaving the bread they mistook for a kiss,
+<br/><br/>
+
+leaving the page of the book carelessly open,
+
+<br/>something unsaid, the phone off the hook
+
+<br/>and the love whatever it was, an infection.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -367,7 +348,7 @@ Good morning.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>12°C (<i>clear sky</i>), humidity: 50%, pressure: 1022 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
+        <b>12°C (<i>clear sky</i>), humidity: 54%, pressure: 1022 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:28 am</b> and sets at <b>21:21 pm</b>.
     </p>
@@ -380,31 +361,31 @@ Good morning.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Harley-Davidson's LiveWire Electric Motorcycle Becomes Its Own Brand](https://www.reviewgeek.com/81971/harley-davidsons-livewire-electric-motorcycle-becomes-its-own-brand/)
-* [Newly-Approved Smart Insulin Pen Cap Will Help Those with Diabetes](https://www.reviewgeek.com/82014/newly-approved-smart-insulin-pen-cap-will-help-those-with-diabetes/)
-* [A New AirTags Hack Leads to a Malicious Site Instead of the Return to Owner Page](https://www.reviewgeek.com/81987/a-new-airtags-hack-leads-to-a-malicious-site-instead-of-the-return-to-owner-page/)
-* [Sony's Upcoming WF-1000XM4 Earbuds Leak, Showing More Modern Design](https://www.reviewgeek.com/81955/sonys-upcoming-wf-1000xm4-earbuds-leak-showing-more-modern-design/)
-* [[Update: Statement] Aukey is In Trouble with Amazon, Has All of Its Products Removed](https://www.reviewgeek.com/81928/aukey-is-in-trouble-with-amazon-has-all-of-its-products-removed/)
-* [Watch a Video of Tesla's Cybertruck Zipping Through NYC](https://www.reviewgeek.com/81941/watch-a-video-of-teslas-cybertruck-zipping-through-nyc/)
-* [SpaceX Now Accepts Dogecoin for Satellite Launch Payments](https://www.reviewgeek.com/81924/spacex-now-accepts-dogecoin-for-satellite-launch-payments/)
-* [Samsung's New Windows App Finds Your Lost Devices and Manages Your Smart Home](https://www.reviewgeek.com/81912/samsungs-new-windows-app-finds-your-lost-devices-and-manages-your-smart-home/)
-* [You Can Now Purchase the LEGO Medieval Blacksmith Set on Amazon](https://www.reviewgeek.com/81920/you-can-now-purchase-the-lego-medieval-blacksmith-set-on-amazon/)
-* [How to Leave a Family Note on the Google Nest Hub](https://www.howtogeek.com/727071/how-to-leave-a-family-note-on-the-google-nest-hub/)
+* [Nomad Releases Rugged AirTag Keychain and Engravable Pet Tag](https://www.reviewgeek.com/82233/nomad-airtag-accessory-rugged-keychain-engravable-pet-tag/)
+* [Subaru Teases Its New All-Electric SUV, The Solterra](https://www.reviewgeek.com/82245/subaru-teases-its-new-all-electric-suv-the-solterra/)
+* [LEGO Brings 'Friends' Back in Their Shiny Apartments](https://www.reviewgeek.com/82196/lego-brings-friends-back-in-their-shiny-apartments/)
+* [Pok Pok Playroom Is a Goal-Free Kids's App from 'Alto's Odyssey' Creators](https://www.reviewgeek.com/82181/pok-pok-playroom-is-a-goal-free-kidss-app-from-altos-odyssey-creators/)
+* [TCL Goes XL With New 85-inch 4K and 8K Roku TVs](https://www.reviewgeek.com/82166/tcl-goes-xl-with-new-85-inch-4k-and-8k-roku-tvs/)
+* [U.S. Google Pay Customers Can Now Send Money Internationally](https://www.reviewgeek.com/82187/u-s-google-pay-customers-can-now-send-money-internationally/)
+* [Everything Samsung Announced at its "Bespoke" Event](https://www.reviewgeek.com/82167/everything-samsung-announced-at-its-bespoke-event/)
+* [Nothing Announces Something ... and It's Earbuds](https://www.reviewgeek.com/82160/nothing-announces-something-and-its-earbuds/)
+* [Lenovo's Legion Gaming Laptops Gain Intel 11th Gen Processors](https://www.reviewgeek.com/82111/lenovo-updated-legion-7i-gaming-laptops-1610-displays/)
+* [Adobe Audition Gains Native Apple Silicon Support and New Audio Editing Tools](https://www.reviewgeek.com/82117/adobe-audition-gains-native-apple-silicon-support-and-new-audio-editing-tools/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Whole Earth Catalog founder and woolly mammoth de-extinctionist Stewart Brand](https://reason.com/2021/05/09/the-intellectual-johnny-appleseed-of-the-counterculture/)
-- [Keytotext Convert Keywords to Large Texts](https://github.com/gagan3012/keytotext)
-- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
-- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
-- [Sony Warns Tight Playstation 5 Supply to Extend into Next Year](https://www.bloomberg.com/news/articles/2021-05-10/sony-warns-tight-playstation-5-supply-to-extend-into-next-year)
-- [Making eBPF Work on Windows](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)
-- [Is Open Source Sustainable?](https://www.theregister.com/2021/05/10/untangling_open_sources_sustainability_problem/)
-- [Ask HN: Do you know any CS / coding club teachers community?](https://news.ycombinator.com/item?id=27113376)
-- [More about DarkSide, the criminal gang suspected in pipeline cyberattack](https://www.autoblog.com/2021/05/10/darkside-hackers-colonial-pipeline/)
-- [The Craft of Text Editing (1991)](https://www.finseth.com/craft/)
+- [Canadian Issuer Is Making Its Bitcoin ETF Carbon-Neutral](https://finance.yahoo.com/news/canadian-issuer-making-bitcoin-etf-090000435.html)
+- [Ransomware gang threatens release of Washington D.C. police records](https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b)
+- [Bitcoin and Quantum Computing](https://arxiv.org/abs/1711.04235)
+- [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
+- [I Put Plants and Animals in a Jar for a Year [video]](https://www.youtube.com/watch?v=hsjLayKCzK8)
+- [Wa2Sig – WhatsApp to Signal migration tool](https://play.google.com/store/apps/details?id=com.migratemydata.wa2sig)
+- [What makes registers and L1 cache so much more expensive than L2/L3/RAM?](https://news.ycombinator.com/item?id=27125874)
+- [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
+- [Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF](https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes)
+- [Bring ziggy home – drones for lost pets](https://news.ycombinator.com/item?id=27125811)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

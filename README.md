@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/knock/knock_out_2__2143.php" target="_blank"><i>knock out (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_2/run_away_1__1997.php" target="_blank"><i>run away (1)</i></a>
 <span> = </span>
-<span>If you knock somebody out, you impress them very much with something you do, or something you make.</span>
+<span>If you run away from something or someone, you run as fast as you can to escape.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

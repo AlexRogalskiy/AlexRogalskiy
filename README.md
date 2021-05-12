@@ -348,7 +348,7 @@ leaving the page of the book carelessly open,
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>12°C (<i>clear sky</i>), humidity: 50%, pressure: 1022 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
+        <b>12°C (<i>clear sky</i>), humidity: 54%, pressure: 1022 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:28 am</b> and sets at <b>21:21 pm</b>.
     </p>
@@ -361,31 +361,31 @@ leaving the page of the book carelessly open,
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Harley-Davidson's LiveWire Electric Motorcycle Becomes Its Own Brand](https://www.reviewgeek.com/81971/harley-davidsons-livewire-electric-motorcycle-becomes-its-own-brand/)
-* [Newly-Approved Smart Insulin Pen Cap Will Help Those with Diabetes](https://www.reviewgeek.com/82014/newly-approved-smart-insulin-pen-cap-will-help-those-with-diabetes/)
-* [A New AirTags Hack Leads to a Malicious Site Instead of the Return to Owner Page](https://www.reviewgeek.com/81987/a-new-airtags-hack-leads-to-a-malicious-site-instead-of-the-return-to-owner-page/)
-* [Sony's Upcoming WF-1000XM4 Earbuds Leak, Showing More Modern Design](https://www.reviewgeek.com/81955/sonys-upcoming-wf-1000xm4-earbuds-leak-showing-more-modern-design/)
-* [[Update: Statement] Aukey is In Trouble with Amazon, Has All of Its Products Removed](https://www.reviewgeek.com/81928/aukey-is-in-trouble-with-amazon-has-all-of-its-products-removed/)
-* [Watch a Video of Tesla's Cybertruck Zipping Through NYC](https://www.reviewgeek.com/81941/watch-a-video-of-teslas-cybertruck-zipping-through-nyc/)
-* [SpaceX Now Accepts Dogecoin for Satellite Launch Payments](https://www.reviewgeek.com/81924/spacex-now-accepts-dogecoin-for-satellite-launch-payments/)
-* [Samsung's New Windows App Finds Your Lost Devices and Manages Your Smart Home](https://www.reviewgeek.com/81912/samsungs-new-windows-app-finds-your-lost-devices-and-manages-your-smart-home/)
-* [You Can Now Purchase the LEGO Medieval Blacksmith Set on Amazon](https://www.reviewgeek.com/81920/you-can-now-purchase-the-lego-medieval-blacksmith-set-on-amazon/)
-* [How to Leave a Family Note on the Google Nest Hub](https://www.howtogeek.com/727071/how-to-leave-a-family-note-on-the-google-nest-hub/)
+* [Nomad Releases Rugged AirTag Keychain and Engravable Pet Tag](https://www.reviewgeek.com/82233/nomad-airtag-accessory-rugged-keychain-engravable-pet-tag/)
+* [Subaru Teases Its New All-Electric SUV, The Solterra](https://www.reviewgeek.com/82245/subaru-teases-its-new-all-electric-suv-the-solterra/)
+* [LEGO Brings 'Friends' Back in Their Shiny Apartments](https://www.reviewgeek.com/82196/lego-brings-friends-back-in-their-shiny-apartments/)
+* [Pok Pok Playroom Is a Goal-Free Kids's App from 'Alto's Odyssey' Creators](https://www.reviewgeek.com/82181/pok-pok-playroom-is-a-goal-free-kidss-app-from-altos-odyssey-creators/)
+* [TCL Goes XL With New 85-inch 4K and 8K Roku TVs](https://www.reviewgeek.com/82166/tcl-goes-xl-with-new-85-inch-4k-and-8k-roku-tvs/)
+* [U.S. Google Pay Customers Can Now Send Money Internationally](https://www.reviewgeek.com/82187/u-s-google-pay-customers-can-now-send-money-internationally/)
+* [Everything Samsung Announced at its "Bespoke" Event](https://www.reviewgeek.com/82167/everything-samsung-announced-at-its-bespoke-event/)
+* [Nothing Announces Something ... and It's Earbuds](https://www.reviewgeek.com/82160/nothing-announces-something-and-its-earbuds/)
+* [Lenovo's Legion Gaming Laptops Gain Intel 11th Gen Processors](https://www.reviewgeek.com/82111/lenovo-updated-legion-7i-gaming-laptops-1610-displays/)
+* [Adobe Audition Gains Native Apple Silicon Support and New Audio Editing Tools](https://www.reviewgeek.com/82117/adobe-audition-gains-native-apple-silicon-support-and-new-audio-editing-tools/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Whole Earth Catalog founder and woolly mammoth de-extinctionist Stewart Brand](https://reason.com/2021/05/09/the-intellectual-johnny-appleseed-of-the-counterculture/)
-- [Keytotext Convert Keywords to Large Texts](https://github.com/gagan3012/keytotext)
-- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
-- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
-- [Sony Warns Tight Playstation 5 Supply to Extend into Next Year](https://www.bloomberg.com/news/articles/2021-05-10/sony-warns-tight-playstation-5-supply-to-extend-into-next-year)
-- [Making eBPF Work on Windows](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)
-- [Is Open Source Sustainable?](https://www.theregister.com/2021/05/10/untangling_open_sources_sustainability_problem/)
-- [Ask HN: Do you know any CS / coding club teachers community?](https://news.ycombinator.com/item?id=27113376)
-- [More about DarkSide, the criminal gang suspected in pipeline cyberattack](https://www.autoblog.com/2021/05/10/darkside-hackers-colonial-pipeline/)
-- [The Craft of Text Editing (1991)](https://www.finseth.com/craft/)
+- [Canadian Issuer Is Making Its Bitcoin ETF Carbon-Neutral](https://finance.yahoo.com/news/canadian-issuer-making-bitcoin-etf-090000435.html)
+- [Ransomware gang threatens release of Washington D.C. police records](https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b)
+- [Bitcoin and Quantum Computing](https://arxiv.org/abs/1711.04235)
+- [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
+- [I Put Plants and Animals in a Jar for a Year [video]](https://www.youtube.com/watch?v=hsjLayKCzK8)
+- [Wa2Sig – WhatsApp to Signal migration tool](https://play.google.com/store/apps/details?id=com.migratemydata.wa2sig)
+- [What makes registers and L1 cache so much more expensive than L2/L3/RAM?](https://news.ycombinator.com/item?id=27125874)
+- [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
+- [Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF](https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes)
+- [Bring ziggy home – drones for lost pets](https://news.ycombinator.com/item?id=27125811)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

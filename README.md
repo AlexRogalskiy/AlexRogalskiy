@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Clothing/a_wolf_in_sheep_s_clothing_130.php" target="_blank"><i>a wolf in sheep's clothing</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/fresh_as_a_daisy_287.php" target="_blank"><i>fresh as a daisy</i></a>
 <span> = </span>
-<span>A wolf in sheep's clothing is someone who seems to be a good person but is really a bad person.</span>
+<span>If you feel as fresh as a daisy, you feel energetic and lively.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

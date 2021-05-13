@@ -241,83 +241,21 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/650909907695058944" target="_blank"><i>Wanting to Die</i></a></summary>
-<p>by Anne Sexton</p><p>
-Since you ask, most days I cannot remember.
-<br/>
-I walk in my clothing, unmarked by that voyage.   
-
-<br/>Then the almost unnameable lust returns.
-<br/><br/>
-
-Even then I have nothing against life.
-<br/>
-I know well the grass blades you mention,   
-
-<br/>the furniture you have placed under the sun.
-<br/><br/>
-
-But suicides have a special language.
-<br/>
-Like carpenters they want to know which tools.
-
-<br/>They never ask why build.
-<br/><br/>
-
-Twice I have so simply declared myself,   
-
-<br/>have possessed the enemy, eaten the enemy,   
-
-<br/>have taken on his craft, his magic.
-<br/><br/>
-
-In this way, heavy and thoughtful,   <br/>
-
-warmer than oil or water,
-
-I have rested, <br/>drooling at the mouth-hole.
-<br/><br/>
-
-I did not think of my body at needle point.
-
-<br/>Even the cornea and the leftover urine were gone.   
-
-<br/>Suicides have already betrayed the body.
-<br/><br/>
-
-Still-born, they don’t always die,
-
-but dazzled, <br/>they can’t forget a drug so sweet   
-
-<br/>that even children would look on and smile.
-<br/><br/>
-
-To thrust all that life under your tongue!—
-
-<br/>that, all by itself, becomes a passion.   
-
-<br/>Death’s a sad bone; bruised, you’d say,
-<br/><br/>
-
-and yet she waits for me, year after year,   <br/>
-
-to so delicately undo an old wound,   
-
-<br/>to empty my breath from its bad prison.
-<br/><br/>
-
-Balanced there, suicides sometimes meet,   
-
-<br/>raging at the fruit a pumped-up moon,   
-
-<br/>leaving the bread they mistook for a kiss,
-<br/><br/>
-
-leaving the page of the book carelessly open,
-
-<br/>something unsaid, the phone off the hook
-
-<br/>and the love whatever it was, an infection.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651000485263933440" target="_blank"><i>Fuck Your Lecture on Craft, My People Are Dying</i></a></summary>
+<p>by Noor Hindi</p><p>Colonizers write about flowers.<br/>
+ I tell you about children throwing rocks at Israeli tanks<br/>
+ seconds before becoming daisies.<br/>
+ I want to be like those poets who care about the moon.<br/>
+ Palestinians don’t see the moon from jail cells and prisons.<br/>
+ It’s so beautiful, the moon.<br/>
+ They’re so beautiful, the flowers.<br/>
+ I pick flowers for my dead father when I’m sad.<br/>
+ He watches Al Jazeera all day.<br/>
+ I wish Jessica would stop texting me <i>Happy Ramadan</i>.<br/>
+ I know I’m American because when I walk into a room something dies.<br/>
+ Metaphors about death are for poets who think ghosts care about sound.<br/>
+ When I die, I promise to haunt you forever.<br/>
+ One day, I’ll write about the flowers like we own them.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

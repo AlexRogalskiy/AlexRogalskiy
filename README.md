@@ -406,16 +406,16 @@ leaving the page of the book carelessly open,
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
-- [Can I Email?](https://www.caniemail.com/)
-- [Pfizer Covid vaccine protects against worrying coronavirus variants](https://www.nature.com/articles/d41586-021-01222-5)
-- [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
-- [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
-- [NTSB: Tesla Model S in Crash Couldn't Have Been Using Autopilot](https://www.caranddriver.com/news/a36387950/ntsb-investigation-tesla-model-s-autopilot/)
-- [One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet)
-- [How Atari 2600 Game Pitfall Builds Its World](https://evoniuk.github.io/posts/pitfall.html)
-- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
-- [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
+- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
+- [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
+- [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
+- [Kobra – visual programming language for machine learning](https://kobra.dev/)
+- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
+- [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
+- [Avoid Git LFS if possible](https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

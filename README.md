@@ -436,16 +436,16 @@ leaving the page of the book carelessly open,
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [C-Suite Changes to Come](https://www.informationweek.com/strategic-cio/team-building-and-staffing/c-suite-changes-to-come/a/d-id/1340959?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Tech Leaders: Steps to Take on Your Digital Transformation Journey](https://www.informationweek.com/strategic-cio/digital-business/tech-leaders-steps-to-take-on-your-digital-transformation-journey/a/d-id/1340962?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How to Optimize Legacy Systems for Forward-Looking Change](https://www.informationweek.com/strategic-cio/it-strategy/how-to-optimize-legacy-systems-for-forward-looking-change/a/d-id/1340943?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The 6 Dimensions of a Winning Resilience Strategy](https://www.informationweek.com/strategic-cio/the-6-dimensions-of-a-winning-resilience-strategy/a/d-id/1340961?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What Will Be the Next New Normal in Cloud Software Security?](https://www.informationweek.com/cloud/what-will-be-the-next-new-normal-in-cloud-software-security/a/d-id/1340958?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Cloud Comes of Age Amid Unprecedented Change](https://www.informationweek.com/cloud/the-cloud-comes-of-age-amid-unprecedented-change/a/d-id/1340930?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Move Over, Zoom, Holograms Are Next](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/move-over-zoom-holograms-are-next/a/d-id/1340872?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [5 Reasons Open Source Is Critical To Going Cloud Native](https://www.informationweek.com/cloud/5-reasons-open-source-is-critical-to-going-cloud-native/a/d-id/1340919?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Transformation, Disruption, and Gender Diversity in Tech](https://www.informationweek.com/strategic-cio/transformation-disruption-and-gender-diversity-in-tech/d/d-id/1340918?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Enable Data at Operational Speed](https://www.informationweek.com/big-data/how-to-enable-data-at-operational-speed/a/d-id/1340914?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Key Courses for CIOs in 2021](https://www.informationweek.com/strategic-cio/enterprise-agility/key-courses-for-cios-in-2021/a/d-id/1340913?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Recruit AI Talent and Keep Them Happy](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-recruit-ai-talent-and-keep-them-happy/a/d-id/1340858?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Pandemic Responses Make Room for More Data Opportunities](https://www.informationweek.com/big-data/pandemic-responses-make-room-for-more-data-opportunities/d/d-id/1340890?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Lessons I've Learned From My Career in Technology](https://www.informationweek.com/strategic-cio/team-building-and-staffing/lessons-ive-learned-from-my-career-in-technology/a/d-id/1340856?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

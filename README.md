@@ -391,16 +391,16 @@ leaving the page of the book carelessly open,
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Post Office scandal – part 2](https://www.theguardian.com/news/audio/2021/may/11/the-post-office-scandal-part-2)
-- [Biden says ‘economic plan is working’, despite disappointing April jobs report – as it happened](https://www.theguardian.com/world/live/2021/may/10/biden-economy-infrastructure-bill-covid-vaccines-latest-news-live-updates)
-- [‘We are living in a war zone’: violence flares in West Papua as villagers forced to flee](https://www.theguardian.com/world/2021/may/11/we-are-living-in-a-war-zone-violence-flares-in-west-papua-as-villagers-forced-to-flee)
-- [Explainer: What is the deadly ‘black fungus’ seen in Covid patients in India?](https://www.theguardian.com/global/2021/may/11/what-is-the-dangerous-black-fungus-being-seen-in-covid-patients-in-india-mucormycosis)
-- [Nasa spacecraft leaves asteroid Bennu with a belly full of space rock samples](https://www.theguardian.com/science/2021/may/10/nasa-spacecraft-asteroid-bennu-space-rock-samples)
-- [Drive for more student diversity paying off, says Oxford University](https://www.theguardian.com/education/2021/may/11/drive-for-more-student-diversity-paying-off-says-oxford-university)
-- [British retailers say closures and job losses still a risk despite lockdown easing](https://www.theguardian.com/business/2021/may/11/british-retailers-say-closures-and-job-losses-still-a-risk-despite-lockdown-easing)
-- [‘My head is on fire’: Roger Ballen finds poetry in pain – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/may/11/my-head-is-on-fire-roger-ballen-finds-poetry-in-pain-in-pictures)
-- [California declares drought emergency across vast swath of state](https://www.theguardian.com/us-news/2021/may/10/california-declares-drought-emergency-across-vast-swath-of-state)
-- [Man, 21, charged with murder of PCSO Julia James](https://www.theguardian.com/uk-news/2021/may/10/man-21-charged-with-of-kent-pcso-julia-james)
+- [Elon Musk says Tesla will no longer accept bitcoin due to fossil fuel use](https://www.theguardian.com/technology/2021/may/12/elon-musk-tesla-bitcoin)
+- [Hamas sends rockets deeper into Israel after Gaza airstrikes as conflict spirals](https://www.theguardian.com/world/2021/may/13/israel-gaza-airstrikes-rockets-hamas)
+- [Why is the UK slashing its international aid budget? – podcast](https://www.theguardian.com/news/audio/2021/may/13/why-is-the-uk-slashing-its-international-aid-budget-podcast)
+- [Largest US pipeline to restart operations after hack shut it down for nearly a week](https://www.theguardian.com/us-news/2021/may/12/us-fuel-shortages-pipeline-hack-drivers)
+- [Moderna signs deal with Australia to supply 25m doses of Covid vaccine](https://www.theguardian.com/australia-news/2021/may/13/moderna-says-it-has-signed-deal-with-australia-to-supply-25m-doses-of-covid-vaccine)
+- [J&J jab linked to more blood clots; double vaccine production, says UN – as it happened](https://www.theguardian.com/world/live/2021/may/12/coronavirus-live-news-india-variant-found-in-44-countries-who-taiwan-faces-new-outbreak)
+- [UK Covid scientists: variant found in India variant may be spreading faster than Kent strain](https://www.theguardian.com/world/2021/may/13/uk-covid-scientists-variant-found-in-india-variant-may-be-spreading-faster-than-kent-strain)
+- [Annual screening for ovarian cancer does not save lives, study finds](https://www.theguardian.com/society/2021/may/12/annual-screening-for-ovarian-cancer-does-not-save-lives-study-finds)
+- [Instagram offers users a dedicated profile section to share pronouns](https://www.theguardian.com/technology/2021/may/12/instagram-pronouns-users-gender-identity)
+- [The end of Ellen’s show signifies how celebrity culture has shifted | Adrian Horton](https://www.theguardian.com/tv-and-radio/2021/may/12/ellen-degeneres-show-celebrity-culture-shifted)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

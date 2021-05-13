@@ -466,16 +466,16 @@ leaving the page of the book carelessly open,
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Server-side licensing leads to hike in public cloud prices](https://www.computerweekly.com/news/252500471/Server-side-licensing-leads-to-hike-in-public-cloud-prices)
-- [HMRC facing calls to do more to tackle mini umbrella fraud in wake of BBC investigation](https://www.computerweekly.com/news/252500463/HMRC-facing-calls-to-do-more-to-tackle-mini-umbrella-fraud-in-wake-of-BBC-investigation)
-- [Miscarriages of justice are the potent tip of Post Office scandal](https://www.computerweekly.com/news/252500460/Miscarriages-of-justice-are-the-potent-tip-of-Post-Office-scandal)
-- [NCSC Active Cyber Defence blocks surge of pandemic scams](https://www.computerweekly.com/news/252500457/NCSC-Active-Cyber-Defence-blocks-surge-of-pandemic-scams)
-- [IBM: Another chip in the wall](https://www.computerweekly.com/news/252500454/IBM-Another-chip-in-the-wall)
-- [How to support a hybrid workforce](https://www.computerweekly.com/feature/How-to-support-a-hybrid-workforce)
-- [How do I get my users to pay attention to security training?](https://www.computerweekly.com/feature/How-do-I-get-my-users-to-pay-attention-to-security-training)
-- [NCSC, CISA publish new information on Russia’s Cozy Bear](https://www.computerweekly.com/news/252500409/NCSC-CISA-publish-new-information-on-Russias-Cozy-Bear)
-- [NCSC publishes smart city security guidelines](https://www.computerweekly.com/news/252500407/NCSC-publishes-smart-city-security-guidelines)
-- [Post Office contacts over 500 subpostmasters potentially wrongly prosecuted for financial crimes](https://www.computerweekly.com/news/252500406/Post-Office-contacts-over-500-subpostmasters-potentially-wrongly-prosecuted-for-financial-crimes)
+- [Equinix shines light on changing post-pandemic investment priorities for UK IT decision-makers](https://www.computerweekly.com/news/252500666/Equinix-shines-light-on-changing-post-pandemic-investment-priorities-for-UK-IT-decision-makers)
+- [NHS Digital replaces system for collection of GP data](https://www.computerweekly.com/news/252500667/NHS-Digital-replaces-system-for-collection-of-GP-data)
+- [UK government publishes Online Safety Bill draft](https://www.computerweekly.com/news/252500655/UK-government-publishes-Online-Safety-Bill-draft)
+- [IBM demonstrates ‘120x speedup’ in target quantum application](https://www.computerweekly.com/news/252500650/IBM-demonstrates-120x-speedup-in-target-quantum-application)
+- [Fujitsu bags £3bn in public sector contracts while software errors wreck the lives of subpostmasters](https://www.computerweekly.com/news/252500646/Fujitsu-bags-3bn-in-public-sector-contracts-while-software-errors-wreck-the-lives-of-subpostmasters)
+- [Inside DarkSide: Researchers share intel on break-out cyber gang](https://www.computerweekly.com/news/252500652/Inside-DarkSide-Researchers-share-intel-on-break-out-cyber-gang)
+- [Engineering firm Briggs of Burton maps global expansion with SAP’s Rise service](https://www.computerweekly.com/news/252500649/Engineering-firm-Briggs-of-Burton-maps-global-expansion-with-SAPs-Rise-service)
+- [Irish datacentre industry urged to throw its weight behind country’s greener electricity grid push](https://www.computerweekly.com/news/252500647/Irish-datacentre-industry-urged-to-throw-its-weight-behind-countrys-greener-electricity-grid-push)
+- [CyberUK 2021: NCSC encourages startups to invest in cyber](https://www.computerweekly.com/news/252500639/CyberUK-2021-NCSC-encourages-startups-to-invest-in-cyber)
+- [UK to fund national cyber teams in Global South](https://www.computerweekly.com/news/252500636/UK-to-fund-national-cyber-teams-in-Global-South)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -481,16 +481,16 @@ leaving the page of the book carelessly open,
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ascending past level 1 and 2 IT Support](https://www.reddit.com/r/InformationTechnology/comments/n9l4dy/ascending_past_level_1_and_2_it_support/)
-- [IT jobs](https://www.reddit.com/r/InformationTechnology/comments/n9irv1/it_jobs/)
-- [Looking for Unattended remote software](https://www.reddit.com/r/InformationTechnology/comments/n9ifwg/looking_for_unattended_remote_software/)
-- [Ethernet splitter - Should I use one?](https://www.reddit.com/r/InformationTechnology/comments/n9hwlv/ethernet_splitter_should_i_use_one/)
-- [Why is learning IT good for daily life?](https://www.reddit.com/r/InformationTechnology/comments/n9hutj/why_is_learning_it_good_for_daily_life/)
-- [Hi, can someone suggest me an IT course online?](https://www.reddit.com/r/InformationTechnology/comments/n9gu0p/hi_can_someone_suggest_me_an_it_course_online/)
-- [Email Transfer Question](https://www.reddit.com/r/InformationTechnology/comments/n8u2sb/email_transfer_question/)
-- [Is the IT degree for failed CS Majors](https://www.reddit.com/r/InformationTechnology/comments/n7hia2/is_the_it_degree_for_failed_cs_majors/)
-- [Is there any social media platform that will allow paymengs to be recieved for a home food business? If no, whats the best way forward saving on costs. Thx](https://www.reddit.com/r/InformationTechnology/comments/n7ektm/is_there_any_social_media_platform_that_will/)
-- [Failing to understand how local ram and gpu works](https://www.reddit.com/r/InformationTechnology/comments/n7bzo8/failing_to_understand_how_local_ram_and_gpu_works/)
+- [Using work monitor for personal things outside of work](https://www.reddit.com/r/InformationTechnology/comments/nb3m2q/using_work_monitor_for_personal_things_outside_of/)
+- [Career planning help, I feel trapped in help desk](https://www.reddit.com/r/InformationTechnology/comments/nazxbc/career_planning_help_i_feel_trapped_in_help_desk/)
+- [Can anyone share pictures of your IT storage room solutions?](https://www.reddit.com/r/InformationTechnology/comments/narlho/can_anyone_share_pictures_of_your_it_storage_room/)
+- [Hiring questions](https://www.reddit.com/r/InformationTechnology/comments/nal7s2/hiring_questions/)
+- [Bachelor of IT majoring in software development vs Bachelor of computer science?](https://www.reddit.com/r/InformationTechnology/comments/nafplc/bachelor_of_it_majoring_in_software_development/)
+- [Any ideas on culprits and fixes?](https://www.reddit.com/r/InformationTechnology/comments/naf58d/any_ideas_on_culprits_and_fixes/)
+- [IT Advise](https://www.reddit.com/r/InformationTechnology/comments/na93gc/it_advise/)
+- [Can you guys please help with whether I should accept or reject the current job offer?](https://www.reddit.com/r/InformationTechnology/comments/na5w79/can_you_guys_please_help_with_whether_i_should/)
+- [Technical Assessment](https://www.reddit.com/r/InformationTechnology/comments/na39v0/technical_assessment/)
+- [Dell Beep Codes](https://www.reddit.com/r/InformationTechnology/comments/na14ro/dell_beep_codes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

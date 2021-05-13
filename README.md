@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/fresh_as_a_daisy_287.php" target="_blank"><i>fresh as a daisy</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Sports/ahead_of_the_game_383.php" target="_blank"><i>ahead of the game</i></a>
 <span> = </span>
-<span>If you feel as fresh as a daisy, you feel energetic and lively.</span>
+<span>You are ahead of the game if you have an advantage over your competitors in any activity in which you try to do better than others, such as in business, academia, sports, etc.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

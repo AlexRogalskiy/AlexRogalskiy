@@ -376,16 +376,16 @@ leaving the page of the book carelessly open,
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Canadian Issuer Is Making Its Bitcoin ETF Carbon-Neutral](https://finance.yahoo.com/news/canadian-issuer-making-bitcoin-etf-090000435.html)
-- [Ransomware gang threatens release of Washington D.C. police records](https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b)
-- [Bitcoin and Quantum Computing](https://arxiv.org/abs/1711.04235)
-- [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
-- [I Put Plants and Animals in a Jar for a Year [video]](https://www.youtube.com/watch?v=hsjLayKCzK8)
-- [Wa2Sig – WhatsApp to Signal migration tool](https://play.google.com/store/apps/details?id=com.migratemydata.wa2sig)
-- [What makes registers and L1 cache so much more expensive than L2/L3/RAM?](https://news.ycombinator.com/item?id=27125874)
-- [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
-- [Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF](https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes)
-- [Bring ziggy home – drones for lost pets](https://news.ycombinator.com/item?id=27125811)
+- [35% Faster Than the Filesystem (2017)](https://sqlite.org/fasterthanfs.html)
+- [Wake Turbulence from a Paper Airplane](https://www.youtube.com/watch?v=jYbRARW9q2s)
+- [Researchers Developed a Way to Wirelessly Charge Vehicles on the Road](https://jalopnik.com/researchers-have-developed-a-way-to-charge-vehicles-on-1846863203)
+- [Star’s strange path around black hole proves Einstein right – again](https://www.sciencemag.org/news/2020/04/star-s-strange-path-around-black-hole-proves-einstein-right-again)
+- [Legends of Localization](https://legendsoflocalization.com/)
+- [Ancient poop reveals ‘extinction event’ in human gut bacteria](https://www.sciencemag.org/news/2021/05/piles-ancient-poop-reveal-extinction-event-human-gut-bacteria)
+- [Huawei Has Launched an ARM-Based Linux Laptop](https://news.itsfoss.com/huawei-arm-linux-laptop/)
+- [A Startup Takes a $292M Swing at Building Wireless Broadband](https://www.bloomberg.com/news/articles/2021-05-12/tarana-takes-a-292-million-swing-at-building-wireless-broadband-to-rival-fiber)
+- [Do you know what your product’s core action is?](https://www.joshpitzalis.com/core/)
+- [Work starts on first disposal tunnel at Finnish repository](https://world-nuclear-news.org/Articles/First-disposal-tunnel-under-construction-at-Finnis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

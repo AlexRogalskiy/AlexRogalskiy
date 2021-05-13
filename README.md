@@ -421,16 +421,16 @@ leaving the page of the book carelessly open,
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Jamf adds zero trust security to the Apple enterprise](https://www.computerworld.com/article/3618415/jamf-adds-zero-trust-security-to-the-apple-enterprise.html#tk.rss_all)
+- [US IT jobs growth continues, with pandemic in the rearview mirror](https://www.computerworld.com/article/3542681/us-it-jobs-growth-continues-with-pandemic-in-the-rearview-mirror.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Enterprises need to get smart about iOS security](https://www.computerworld.com/article/3618430/enterprises-need-to-get-smart-about-ios-security.html#tk.rss_all)
+- [No matter the size of your business, you must take security seriously.](https://www.computerworld.com/article/3617979/no-matter-the-size-of-your-business-you-must-take-security-seriously.html#tk.rss_all)
+- [How to block the Windows 10 May 2021 Update, version 21H1, from installing](https://www.computerworld.com/article/3232632/how-to-block-the-windows-10-may-2021-update-version-21h1-from-installing.html#tk.rss_all)
 - [Microsoft, Mozilla plan new upgrade tactics for Edge, Firefox](https://www.computerworld.com/article/3618368/microsoft-mozilla-plan-new-upgrade-tactics-for-edge-firefox.html#tk.rss_all)
 - [Google and Apple claim their devices deliver a better sleep; not true, university says](https://www.computerworld.com/article/3618175/google-and-apple-claim-their-devices-deliver-a-better-sleep-not-true-university-says.html#tk.rss_all)
-- [How to make Apple's Mail deliver more productivity](https://www.computerworld.com/article/3618006/how-to-make-apples-mail-deliver-more-productivity.html#tk.rss_all)
-- [Patch Tuesday preview: Time for a 'measured' approach to updates](https://www.computerworld.com/article/3617946/patch-tuesday-preview-time-for-a-measured-approach-to-updates.html#tk.rss_all)
-- [How to create a digital workplace](https://www.computerworld.com/article/3618001/how-to-create-a-digital-workplace.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Apple, EarthLink, and the digital transformation of everything](https://www.computerworld.com/article/3617996/apple-earthlink-and-the-digital-transformation-of-everything.html#tk.rss_all)
-- [Rethinking business as usual: How to thrive as a manager In the ‘20s](https://www.computerworld.com/article/3617916/rethinking-business-as-usual-how-to-thrive-as-a-manager-in-the-20s.html#tk.rss_all)
-- [The loneliness of the long-distance worker](https://www.computerworld.com/article/3617277/the-loneliness-of-the-long-distance-worker.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_2/run_away_1__1997.php" target="_blank"><i>run away (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/play_around_2__2447.php" target="_blank"><i>play around (2)</i></a>
 <span> = </span>
-<span>If you run away from something or someone, you run as fast as you can to escape.</span>
+<span>to have sex with someone other than one's spouse or partner</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

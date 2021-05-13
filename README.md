@@ -496,16 +496,16 @@ leaving the page of the book carelessly open,
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Eight-core Intel Tiger Lake-H processors arrive for gamers and enterprise](https://www.itworldcanada.com/article/eight-core-intel-tiger-lake-h-processors-arrive-for-gamers-and-enterprise/447260)
+- [Advice on Anti-Ransomware Day: Prepare as if it’s any other kind of cyberattack](https://www.itworldcanada.com/article/advice-on-anti-ransomware-day-prepare-as-if-its-any-other-kind-of-attack/447253)
+- [Cyber Security Today, May 12, 2021 – Hate on messaging apps, Zix used in scams and QR code warning](https://www.itworldcanada.com/article/cyber-security-today-may-12-2021-hate-on-messaging-apps-zix-used-in-scams-and-qr-code-warning/447233)
+- [Recap: MapleSEC Satellite Session – Learning through Training](https://www.itworldcanada.com/article/recap-maplesec-satellite-session-learning-through-training/447209)
+- [Hashtag Trending, May 12, 2021 – Instagram for kids pushback; Social media is dividing us (duh); and experts react to pipeline cyberattack](https://www.itworldcanada.com/article/hashtag-trending-may-12-2021-instagram-for-kids-pushback-social-media-is-dividing-us-duh-and-experts-react-to-pipeline-cyberattack/447238)
+- [Canada is ‘seriously vulnerable’ to ransomware attacks on critical infrastructure, says expert](https://www.itworldcanada.com/article/canada-is-seriously-vulnerable-to-ransomware-attacks-on-critical-infrastructure-says-expert/447184)
+- [TUNE IN: MapleSEC Satellite Session – Learning through Training](https://www.itworldcanada.com/article/tune-in-maplesec-satellite-session-learning-through-training/447202)
+- [Coffee Briefing, May 11, 2021 – Survey reveals hybrid cloud challenges, a new IaaS player enters Canada, and a podcast roundup](https://www.itworldcanada.com/article/coffee-briefing-may-11-2021-survey-reveals-hybrid-cloud-challenges-a-new-iaas-player-enters-canada-and-a-podcast-roundup/447170)
+- [Hashtag Trending, May 11, 2021 – High pressure sales tactics at The Source; Apple doubles down on Corning; Zoom CEO tired of Zoom](https://www.itworldcanada.com/article/hashtag-trending-may-11-2021-high-pressure-sales-tactics-at-the-source-apple-doubles-down-on-corning-zoom-ceo-tired-of-zoom/447173)
 - [One-third of organizations question IT infrastructure supporting remote workforce, says BlackBerry report](https://www.itworldcanada.com/article/one-third-of-organizations-question-it-infrastructure-supporting-remote-workforce-says-blackberry-report/447158)
-- [Russia targeting these 11 vulnerabilities, say US, UK cyber agencies](https://www.itworldcanada.com/article/russia-targeting-these-11-vulnerabilities-say-us-uk-cyber-agencies/447145)
-- [Cyber Security Today, May 10, 2021 – Deadline looms for Women In Cyber Day petition, data theft from insurance quote websites and advice from Canada’s top cyber agency](https://www.itworldcanada.com/article/cyber-security-today-may-10-2021-deadline-looms-for-women-in-cyber-day-petition-data-theft-from-insurance-quote-websites-and-advice-from-canadas-top-cyber-agency/447136)
-- [Hashtag Trending, May 10, 2021 – Most users’ like Apple’s ATT feature; Cyberattack shuts down pipeline; What’s up WhatsApp?](https://www.itworldcanada.com/article/hashtag-trending-may-10-2021-most-users-like-apples-att-feature-cyberattack-shuts-down-pipeline-whats-up-whatsapp/447131)
-- [Cyber Security Today, Week In Review for May 7, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-7-2021/447035)
-- [How a student’s hunt for free software led to a research institute being crippled by ransomware](https://www.itworldcanada.com/article/how-a-students-hunt-for-free-software-led-to-a-research-institute-being-crippled-by-ransomware/447079)
-- [E-signatures essential for the anywhere economy](https://www.itworldcanada.com/article/e-signatures-essential-for-the-anywhere-economy/447090)
-- [Cyber insurers now demanding firms have MFA, says Canadian broker](https://www.itworldcanada.com/article/cyber-insurers-now-demanding-firms-have-mfa-says-canadian-broker/447004)
-- [Cyber Security Today, May 7, 2021 – Security of restaurant online ordering platforms questioned, Google gets tough with 2FA and product review scam revealed](https://www.itworldcanada.com/article/cyber-security-today-may-7-2021-security-of-restaurant-online-ordering-platforms-questioned-google-gets-tough-with-2fa-and-fake-online-product-review-scam-revealed/447053)
-- [Hashtag Trending, May 7, 2021 – Canada’s top tech companies in 2021; Facebook shuts down Signal ads; Google Docs VS Word](https://www.itworldcanada.com/article/hashtag-trending-may-7-2021-canadas-top-tech-companies-in-2021-facebook-shuts-down-signal-ads-google-docs-vs-word/447072)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

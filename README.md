@@ -344,16 +344,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
-- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
-- [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
-- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
-- [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
-- [Kobra – visual programming language for machine learning](https://kobra.dev/)
-- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
-- [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
-- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
-- [Avoid Git LFS if possible](https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/)
+- [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
+- [Machine Learning Is a Marvelously Executed Scam](https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/)
+- [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
+- [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+- [Privacy Update: Third-party Tracking](https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13)
+- [The brain maps out ideas and memories like spaces](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/)
+- [Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
+- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
+- [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
+- [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

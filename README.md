@@ -434,16 +434,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Darktrace partners with Microsoft to help organizations close the security gaps across cloud environments](https://www.itworldcanada.com/article/darktrace-partners-with-microsoft-to-help-organizations-close-the-security-gaps-across-cloud-environments/447332)
+- [Advice for SMBs: Focus on cybersecurity basics](https://www.itworldcanada.com/article/advice-for-smbs-focus-on-cybersecurity-basics/447305)
+- [IBM looks to address business AI adoption challenges with AutoSQL and partner program changes](https://www.itworldcanada.com/article/ibm-looks-to-address-business-ai-adoption-challenges-with-autosql-and-partner-program-changes/447314)
+- [Hashtag Trending, May 13, 2021- Xiaomi removed from trade ban list; Amazon ‘hire-to-fire’; new Google data centre in Quebec](https://www.itworldcanada.com/article/hashtag-trending-may-13-2021-xiaomi-removed-from-trade-ban-list-amazon-hire-to-fire-new-google-data-centre-in-quebec/447308)
 - [Eight-core Intel Tiger Lake-H processors arrive for gamers and enterprise](https://www.itworldcanada.com/article/eight-core-intel-tiger-lake-h-processors-arrive-for-gamers-and-enterprise/447260)
 - [Advice on Anti-Ransomware Day: Prepare as if it’s any other kind of cyberattack](https://www.itworldcanada.com/article/advice-on-anti-ransomware-day-prepare-as-if-its-any-other-kind-of-attack/447253)
 - [Cyber Security Today, May 12, 2021 – Hate on messaging apps, Zix used in scams and QR code warning](https://www.itworldcanada.com/article/cyber-security-today-may-12-2021-hate-on-messaging-apps-zix-used-in-scams-and-qr-code-warning/447233)
 - [Recap: MapleSEC Satellite Session – Learning through Training](https://www.itworldcanada.com/article/recap-maplesec-satellite-session-learning-through-training/447209)
 - [Hashtag Trending, May 12, 2021 – Instagram for kids pushback; Social media is dividing us (duh); and experts react to pipeline cyberattack](https://www.itworldcanada.com/article/hashtag-trending-may-12-2021-instagram-for-kids-pushback-social-media-is-dividing-us-duh-and-experts-react-to-pipeline-cyberattack/447238)
 - [Canada is ‘seriously vulnerable’ to ransomware attacks on critical infrastructure, says expert](https://www.itworldcanada.com/article/canada-is-seriously-vulnerable-to-ransomware-attacks-on-critical-infrastructure-says-expert/447184)
-- [TUNE IN: MapleSEC Satellite Session – Learning through Training](https://www.itworldcanada.com/article/tune-in-maplesec-satellite-session-learning-through-training/447202)
-- [Coffee Briefing, May 11, 2021 – Survey reveals hybrid cloud challenges, a new IaaS player enters Canada, and a podcast roundup](https://www.itworldcanada.com/article/coffee-briefing-may-11-2021-survey-reveals-hybrid-cloud-challenges-a-new-iaas-player-enters-canada-and-a-podcast-roundup/447170)
-- [Hashtag Trending, May 11, 2021 – High pressure sales tactics at The Source; Apple doubles down on Corning; Zoom CEO tired of Zoom](https://www.itworldcanada.com/article/hashtag-trending-may-11-2021-high-pressure-sales-tactics-at-the-source-apple-doubles-down-on-corning-zoom-ceo-tired-of-zoom/447173)
-- [One-third of organizations question IT infrastructure supporting remote workforce, says BlackBerry report](https://www.itworldcanada.com/article/one-third-of-organizations-question-it-infrastructure-supporting-remote-workforce-says-blackberry-report/447158)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

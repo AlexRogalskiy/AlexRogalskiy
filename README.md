@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/The_pen_is_mightier_than_the_sword_658.php" target="_blank"><i>The pen is mightier than the sword</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Justice/What_s_sauce_for_the_goose_is_sauce_for_the_gander_876.php" target="_blank"><i>What's sauce for the goose is sauce for the gander</i></a>
 <span> = </span>
-<span>This proverb suggests that written material like books or poetry has more influence than fighting or war. We may also understand from it that ideas (as often set down in writing) are more effective than violence.</span>
+<span>In any question, what is appropriate in one case is also appropriate in the other case.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

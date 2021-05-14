@@ -241,21 +241,38 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651000485263933440" target="_blank"><i>Fuck Your Lecture on Craft, My People Are Dying</i></a></summary>
-<p>by Noor Hindi</p><p>Colonizers write about flowers.<br/>
- I tell you about children throwing rocks at Israeli tanks<br/>
- seconds before becoming daisies.<br/>
- I want to be like those poets who care about the moon.<br/>
- Palestinians don’t see the moon from jail cells and prisons.<br/>
- It’s so beautiful, the moon.<br/>
- They’re so beautiful, the flowers.<br/>
- I pick flowers for my dead father when I’m sad.<br/>
- He watches Al Jazeera all day.<br/>
- I wish Jessica would stop texting me <i>Happy Ramadan</i>.<br/>
- I know I’m American because when I walk into a room something dies.<br/>
- Metaphors about death are for poets who think ghosts care about sound.<br/>
- When I die, I promise to haunt you forever.<br/>
- One day, I’ll write about the flowers like we own them.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/651091087185870848" target="_blank"><i>Gone to the Unseen</i></a></summary>
+<p>by Rumi</p><p>At last you have departed and gone to the Unseen.<br/>
+ What marvelous route did you take from this world?</p><p>Beating your wings and feathers,<br/>
+ you broke free from this cage.<br/>
+ Rising up to the sky<br/>you attained the world of the soul.<br/>
+ You were a prized falcon trapped by an Old Woman.<br/>
+ Then you heard the drummer’s call<br/>
+ and flew beyond space and time.</p><p>As a lovesick nightingale, you flew among the owls.<br/>
+ Then came the scent of the rose garden<br/>
+ and you flew off to meet the Rose.</p><p>The wine of this fleeting world<br/>
+ caused your head to ache.<br/>
+ Finally you joined the tavern of Eternity.<br/>
+ Like an arrow, you sped from the bow<br/>
+ and went straight for the bull’s eye of bliss.</p><p>This phantom world gave you false signs<br/>
+ But you turned from the illusion<br/>
+ and journeyed to the land of truth.</p><p>You are now the Sun–<br/>
+ what need have you for a crown?<br/>
+ You have vanished from this world–<br/>
+ what need have you to tie your robe?</p><p>I’ve heard that you can barely see your soul.<br/>
+ But why look at all?–<br/>
+ yours is now the Soul of Souls!</p><p>O heart, what a wonderful bird you are.<br/>
+ Seeking divine heights,<br/>
+ Flapping your wings,<br/>
+ you smashed the pointed spears of your enemy.</p><p>The flowers flee from Autumn, but not you–<br/>
+ You are the fearless rose<br/>
+ that grows amidst the freezing wind.</p><p>Pouring down like the rain of heaven<br/>
+ you fell upon the rooftop of this world.<br/>
+ Then you ran in every direction<br/>
+ and escaped through the drain spout…</p><p>Now the words are over<br/>
+ and the pain they bring is gone.<br/>
+ Now you have gone to rest <br/>
+ in the arms of the Beloved.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

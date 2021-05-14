@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0a&#x2F;42&#x2F;4f&#x2F;0a424f3155dd6fa1253e3b6ab5b518ec.jpg" alt="This #WordOfTheDay sounds like an insult, but it definitely isn&#39;t one. It&#39;s pulchritudinous. See where it comes from at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8b&#x2F;c9&#x2F;74&#x2F;8bc9742c64a85cad7d8513ef85058e27.jpg" alt="Some meetings are adjourned sine die, but we&#39;ll see you at the same time tomorrow for a new #WordOfTheDay. Wondering how to say it? Click for pronunciation, example sentences, and more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;d9&#x2F;34&#x2F;47d93491ae8007d8289f32712c74998f.jpg" alt="Boondoggle is the Word of the Day. It&#39;s also more fun to say than &quot;vanity project.&quot; Click for example sentences and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cf&#x2F;1c&#x2F;c0&#x2F;cf1cc0661a7454f61befdbdee4153713.jpg" alt="Oligopoly is the #WordOfTheDay. Can you use it in a sentence? Click to get example sentences and see where it comes from. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7b&#x2F;2d&#x2F;95&#x2F;7b2d95a501da707ea6b89036435072e3.jpg" alt="Nonesuch is the #WordOfTheDay. There’s nothing like it. Want example sentences? Head to Dictionary.com. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -303,7 +303,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>17°C (<i>clear sky</i>), humidity: 55%, pressure: 1009 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
+        <b>16°C (<i>clear sky</i>), humidity: 59%, pressure: 1009 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:24 am</b> and sets at <b>21:26 pm</b>.
     </p>

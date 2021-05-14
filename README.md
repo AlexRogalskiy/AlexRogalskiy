@@ -314,16 +314,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [35% Faster Than the Filesystem (2017)](https://sqlite.org/fasterthanfs.html)
-- [Wake Turbulence from a Paper Airplane](https://www.youtube.com/watch?v=jYbRARW9q2s)
-- [Researchers Developed a Way to Wirelessly Charge Vehicles on the Road](https://jalopnik.com/researchers-have-developed-a-way-to-charge-vehicles-on-1846863203)
-- [Star’s strange path around black hole proves Einstein right – again](https://www.sciencemag.org/news/2020/04/star-s-strange-path-around-black-hole-proves-einstein-right-again)
-- [Legends of Localization](https://legendsoflocalization.com/)
-- [Ancient poop reveals ‘extinction event’ in human gut bacteria](https://www.sciencemag.org/news/2021/05/piles-ancient-poop-reveal-extinction-event-human-gut-bacteria)
-- [Huawei Has Launched an ARM-Based Linux Laptop](https://news.itsfoss.com/huawei-arm-linux-laptop/)
-- [A Startup Takes a $292M Swing at Building Wireless Broadband](https://www.bloomberg.com/news/articles/2021-05-12/tarana-takes-a-292-million-swing-at-building-wireless-broadband-to-rival-fiber)
-- [Do you know what your product’s core action is?](https://www.joshpitzalis.com/core/)
-- [Work starts on first disposal tunnel at Finnish repository](https://world-nuclear-news.org/Articles/First-disposal-tunnel-under-construction-at-Finnis)
+- [Ransomware crooks post cops’ psych evaluations after talks with DC police stall](https://arstechnica.com/gadgets/2021/05/ransomware-crooks-post-cops-psych-evaluations-after-talks-with-dc-police-stall/)
+- [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
+- [SmartNIC Standardizes FPGA Offload](https://www.electronicdesign.com/technologies/embedded-revolution/article/21155971/electronic-design-smartnic-standardizes-fpga-offload)
+- [Stop Spending Time on Things You Hate](https://www.theatlantic.com/family/archive/2021/04/waste-time-thoreau-walden/618732/)
+- [A heat tolerant wild coffee species that tastes like Arabica coffee](https://sustainabilitycommunity.springernature.com/posts/a-heat-tolerant-wild-coffee-species-that-tastes-like-arabica-coffee)
+- [Painless FPGA Programming](https://spectrum.ieee.org/geek-life/hands-on/painless-fpga-programming)
+- [How Does Angel Investing?](https://zachholman.com/posts/how-does-angel-investing)
+- [Interactive Online Malware Analysis Sandbox – Any.run](https://app.any.run/)
+- [Matthew Salloway on venture capital, technology startups and investing](https://www.campdenfb.com/article/matthew-salloway-venture-capital-technology-startups-and-investing-across-north-america-midd)
+- [Could a Ban on Ransom Payments Have Stopped the Colonial Pipeline Attack?](https://www.npr.org/2021/05/13/996299367/how-to-stop-ransomware-attacks-1-proposal-would-prohibit-victims-from-paying-up)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -404,16 +404,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Portworx gets container-native array management for Pure hardware](https://www.computerweekly.com/news/252500580/Portworx-gets-container-native-array-management-for-Pure-hardware)
+- [Mars expands Microsoft strategy to drive business agenda](https://www.computerweekly.com/news/252500716/Mars-expands-Microsoft-strategy-to-drive-business-agenda)
+- [Publishing exploit code does more harm than good, says report](https://www.computerweekly.com/news/252500724/Publishing-exploit-code-does-more-harm-than-good-says-report)
+- [Biden beefs up public-private security cooperation](https://www.computerweekly.com/news/252500714/Biden-beefs-up-public-private-security-cooperation)
+- [CW Benelux: Netherlands university launches centre of expertise in applied AI](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Netherlands-university-launches-centre-of-expertise-in-applied-AI)
+- [VMware names Raghu Raghuram as CEO to guide company through Dell Technologies spin-off](https://www.computerweekly.com/news/252500715/VMware-names-Raghu-Raghuram-as-CEO-to-guide-company-through-Dell-Technologies-spin-off)
+- [Refuge launches tech safety site for domestic abuse victims](https://www.computerweekly.com/news/252500710/Refuge-launches-tech-safety-site-for-domestic-abuse-victims)
+- [CISOs weathered the pandemic well, but at personal cost](https://www.computerweekly.com/news/252500654/CISOs-weathered-the-pandemic-well-but-at-personal-cost)
+- [Verizon DBIR underscores year of unprecedented cyber challenge](https://www.computerweekly.com/news/252500712/Verizon-DBIR-underscores-year-of-unprecedented-cyber-challenge)
 - [Equinix shines light on changing post-pandemic investment priorities for UK IT decision-makers](https://www.computerweekly.com/news/252500666/Equinix-shines-light-on-changing-post-pandemic-investment-priorities-for-UK-IT-decision-makers)
-- [NHS Digital replaces system for collection of GP data](https://www.computerweekly.com/news/252500667/NHS-Digital-replaces-system-for-collection-of-GP-data)
-- [UK government publishes Online Safety Bill draft](https://www.computerweekly.com/news/252500655/UK-government-publishes-Online-Safety-Bill-draft)
-- [IBM demonstrates ‘120x speedup’ in target quantum application](https://www.computerweekly.com/news/252500650/IBM-demonstrates-120x-speedup-in-target-quantum-application)
-- [Fujitsu bags £3bn in public sector contracts while software errors wreck the lives of subpostmasters](https://www.computerweekly.com/news/252500646/Fujitsu-bags-3bn-in-public-sector-contracts-while-software-errors-wreck-the-lives-of-subpostmasters)
-- [Inside DarkSide: Researchers share intel on break-out cyber gang](https://www.computerweekly.com/news/252500652/Inside-DarkSide-Researchers-share-intel-on-break-out-cyber-gang)
-- [Engineering firm Briggs of Burton maps global expansion with SAP’s Rise service](https://www.computerweekly.com/news/252500649/Engineering-firm-Briggs-of-Burton-maps-global-expansion-with-SAPs-Rise-service)
-- [Irish datacentre industry urged to throw its weight behind country’s greener electricity grid push](https://www.computerweekly.com/news/252500647/Irish-datacentre-industry-urged-to-throw-its-weight-behind-countrys-greener-electricity-grid-push)
-- [CyberUK 2021: NCSC encourages startups to invest in cyber](https://www.computerweekly.com/news/252500639/CyberUK-2021-NCSC-encourages-startups-to-invest-in-cyber)
-- [UK to fund national cyber teams in Global South](https://www.computerweekly.com/news/252500636/UK-to-fund-national-cyber-teams-in-Global-South)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

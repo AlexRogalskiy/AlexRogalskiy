@@ -389,16 +389,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 12 arrives with pile of improvements](https://www.infoworld.com/article/3607428/angular-12-arrives-with-pile-of-improvements.html#tk.rss_all)
+- [Python’s creators unveil speedup plans for Python](https://www.infoworld.com/article/3618691/pythons-creators-unveil-speedup-plans-for-python.html#tk.rss_all)
+- [Deno 1.10 overhauls test runner](https://www.infoworld.com/article/3618791/deno-110-overhauls-test-runner.html#tk.rss_all)
+- [How to use the Svelte JavaScript framework](https://www.infoworld.com/article/3618748/how-to-use-the-svelte-javascript-framework.html#tk.rss_all)
+- [Understanding the process automation landscape](https://www.infoworld.com/article/3617928/understanding-the-process-automation-landscape.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [Babel project is running out of money](https://www.infoworld.com/article/3618021/babel-project-is-running-out-of-money.html#tk.rss_all)
 - [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html#tk.rss_all)
 - [11 tips for speeding up Python programs](https://www.infoworld.com/article/3044088/11-tips-for-speeding-up-python-programs.html#tk.rss_all)
 - [It's time to get more aggressive with Kubernetes](https://www.infoworld.com/article/3618005/its-time-to-get-more-aggressive-with-kubernetes.html#tk.rss_all)
-- [How to read request headers in ASP.NET Core 5 MVC](https://www.infoworld.com/article/3617984/how-to-read-request-headers-in-aspnet-core-5-mvc.html#tk.rss_all)
-- [What’s new in Rust 1.52](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [How companies are moving on from Cobol](https://www.infoworld.com/article/3617936/how-companies-are-moving-on-from-cobol.html#tk.rss_all)
-- [What to look for (and look out for) in container registries](https://www.infoworld.com/article/3617316/what-to-look-for-and-look-out-for-in-container-registries.html#tk.rss_all)
-- [Kotlin 1.5.0 arrives with JVM records, sealed interfaces](https://www.infoworld.com/article/3615548/kotlin-150-stabilizes-unsigned-integer-types.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

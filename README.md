@@ -329,16 +329,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elon Musk says Tesla will no longer accept bitcoin due to fossil fuel use](https://www.theguardian.com/technology/2021/may/12/elon-musk-tesla-bitcoin)
-- [Hamas sends rockets deeper into Israel after Gaza airstrikes as conflict spirals](https://www.theguardian.com/world/2021/may/13/israel-gaza-airstrikes-rockets-hamas)
-- [Why is the UK slashing its international aid budget? – podcast](https://www.theguardian.com/news/audio/2021/may/13/why-is-the-uk-slashing-its-international-aid-budget-podcast)
-- [Largest US pipeline to restart operations after hack shut it down for nearly a week](https://www.theguardian.com/us-news/2021/may/12/us-fuel-shortages-pipeline-hack-drivers)
-- [Moderna signs deal with Australia to supply 25m doses of Covid vaccine](https://www.theguardian.com/australia-news/2021/may/13/moderna-says-it-has-signed-deal-with-australia-to-supply-25m-doses-of-covid-vaccine)
-- [J&J jab linked to more blood clots; double vaccine production, says UN – as it happened](https://www.theguardian.com/world/live/2021/may/12/coronavirus-live-news-india-variant-found-in-44-countries-who-taiwan-faces-new-outbreak)
-- [UK Covid scientists: variant found in India variant may be spreading faster than Kent strain](https://www.theguardian.com/world/2021/may/13/uk-covid-scientists-variant-found-in-india-variant-may-be-spreading-faster-than-kent-strain)
-- [Annual screening for ovarian cancer does not save lives, study finds](https://www.theguardian.com/society/2021/may/12/annual-screening-for-ovarian-cancer-does-not-save-lives-study-finds)
-- [Instagram offers users a dedicated profile section to share pronouns](https://www.theguardian.com/technology/2021/may/12/instagram-pronouns-users-gender-identity)
-- [The end of Ellen’s show signifies how celebrity culture has shifted | Adrian Horton](https://www.theguardian.com/tv-and-radio/2021/may/12/ellen-degeneres-show-celebrity-culture-shifted)
+- [Israel’s military says air and ground forces are attacking Gaza – updates](https://www.theguardian.com/world/live/2021/may/13/israel-launches-ground-operation-in-gaza-after-days-of-airsstrikes-follow-updates)
+- [Are Israel and Palestine on the brink of another war?](https://www.theguardian.com/news/audio/2021/may/14/are-israel-and-palestine-on-the-brink-of-another-war)
+- [Samoa is experiencing a bloodless coup. The Pacific’s most stable democracy is in trouble | Fiona Ey](https://www.theguardian.com/world/2021/may/14/samoa-is-experiencing-a-bloodless-coup-the-pacifics-most-stable-democracy-is-in-trouble)
+- [Spencer Silver, who helped invent the Post-it Note, dies at age 80](https://www.theguardian.com/us-news/2021/may/13/spencer-silver-post-it-note-inventor-dies)
+- [Labour suspends Unite leadership nominee over ‘Patel should be deported’ tweet](https://www.theguardian.com/uk-news/2021/may/13/unite-leadership-nominee-apologises-for-tweeting-priti-patel-should-be-deported)
+- [FA Cup final and Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/may/14/fa-cup-final-and-premier-league-10-things-to-look-out-for-this-weekend)
+- [Delay in giving second jabs of Pfizer vaccine improves immunity](https://www.theguardian.com/science/2021/may/14/delay-in-giving-second-jabs-of-pfizer-vaccine-improves-immunity)
+- [Helping pupils in England catch up on lost learning will cost £13.5bn – report](https://www.theguardian.com/education/2021/may/14/helping-pupils-in-england-catch-up-on-lost-learning-will-cost-135bn-report)
+- [Would you pay £99,000 for this self-lacing Nike? Sneakers Unboxed review](https://www.theguardian.com/artanddesign/2021/may/14/sneakers-unboxed-review-design-museum-99-000-nike)
+- [BBC showing ‘negativity verging on hostility’ to classical documentaries](https://www.theguardian.com/media/2021/may/14/bbc-showing-negativity-verging-on-hostility-to-classical-documentaries)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

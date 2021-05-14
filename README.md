@@ -299,16 +299,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [ASUS Flips Out Two New Zenfone 8 Models, One Will Fit in Your Hand!](https://www.reviewgeek.com/82526/asus-flips-out-two-new-zenfone-8-models-one-will-fit-in-your-hand/)
-* [HTC's New VR Headsets Cost Up to a Whopping $1,400](https://www.reviewgeek.com/82533/htcs-new-vr-headsets-cost-up-to-a-whopping-1400/)
-* [Every Wi-Fi Device Back to 1997 Likely Vulnerable to FragAttacks](https://www.reviewgeek.com/82521/every-wi-fi-device-back-to-1997-likely-vulnerable-to-fragattacks/)
-* [VW Starts Testing Self-Driving Transit Vans](https://www.reviewgeek.com/82538/vw-starts-testing-self-driving-transit-vans/)
-* [Electric Vehicles Could Wirelessly Charge While Driving According to Researchers](https://www.reviewgeek.com/82458/electric-vehicles-could-wirelessly-charge-while-driving-according-to-researchers/)
-* [Finally, an Excuse to Get Your Nintendo Switch Out in Math Class](https://www.reviewgeek.com/82467/finally-an-excuse-to-get-your-nintendo-switch-out-in-math-class/)
-* [Online Multiplayer Comes to OG Game Boy 'Tetris' Thanks to a Custom Mod](https://www.reviewgeek.com/82482/online-multiplayer-comes-to-og-game-boy-tetris-thanks-to-a-custom-mod/)
-* [Amazon Launches First Echo Show for Kids, Adds HD Cameras to Popular Smart Displays](https://www.reviewgeek.com/82389/amazon-launches-first-echo-show-for-kids-adds-hd-cameras-to-popular-smart-displays/)
-* [Project CHIP Smart Home Standard Rebrands as "Matter"---Here's Why It Matters](https://www.reviewgeek.com/82409/project-chip-smart-home-standard-rebrands-as-matter-heres-why-it-matters/)
-* [How to Call Google Assistant Speakers and Displays in Your Home](https://www.howtogeek.com/727417/how-to-call-google-assistant-speakers-and-displays-in-your-home/)
+* [Framework's Repairable, Upgradable Laptop Is Available for Pre-Order](https://www.reviewgeek.com/82745/frameworks-repairable-upgradable-laptop-is-available-for-pre-order/)
+* [He-Man Returns to Netflix in July with 'Masters of the Universe: Revelation'](https://www.reviewgeek.com/82836/he-man-returns-to-netflix-in-july-with-masters-of-the-universe-revelation/)
+* [Amazon Prime Lands WNBA Multi-Year Streaming Deal](https://www.reviewgeek.com/82821/amazon-prime-lands-wnba-multi-year-streaming-deal/)
+* [Waymo and Cruise Take First Step Toward Autonomous Taxis In San Francisco](https://www.reviewgeek.com/82666/waymo-and-cruise-take-first-step-toward-autonomous-taxis-in-san-francisco/)
+* [Don't Flip Out: Nokia's 2720 V Flip Phone Will Soon Be Available In the U.S.](https://www.reviewgeek.com/82728/dont-flip-out-nokias-2720-v-flip-phone-will-soon-be-available-in-the-u-s/)
+* [Motorola Wants to Really Take the Wires out of Wireless Charging](https://www.reviewgeek.com/82684/motorola-wants-to-really-take-the-wires-out-of-wireless-charging/)
+* [The Roku Channel Adds 25 Free Channels, Will Release Quibi Originals Soon](https://www.reviewgeek.com/82677/the-roku-channel-adds-25-free-channels-will-release-quibi-originals-soon/)
+* [Target Stops Selling Pokémon Cards, Citing Violent Nerds](https://www.reviewgeek.com/82649/target-stops-selling-pokemon-cards-citing-violent-nerds/)
+* [How to Edit and Crop Photos on Android](https://www.howtogeek.com/727465/how-to-edit-and-crop-photos-on-android/)
+* [How to Use Outline View in Microsoft Word](https://www.howtogeek.com/726748/how-to-use-outline-view-in-microsoft-word/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

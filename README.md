@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/P/play_around_2__2447.php" target="_blank"><i>play around (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/look/look_up_to_1970.php" target="_blank"><i>look up to</i></a>
 <span> = </span>
-<span>to have sex with someone other than one's spouse or partner</span>
+<span>If someone looks up to another person, they respect or admire them.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

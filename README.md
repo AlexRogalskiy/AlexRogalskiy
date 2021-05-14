@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/tool_1__1234.php" target="_blank"><i>tool (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/bastard_1161.php" target="_blank"><i>bastard</i></a>
 <span> = </span>
-<span>a stupid person<BR></span>
+<span>an unpleasant, despicable person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

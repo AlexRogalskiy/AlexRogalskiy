@@ -331,16 +331,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ransomware crooks post cops’ psych evaluations after talks with DC police stall](https://arstechnica.com/gadgets/2021/05/ransomware-crooks-post-cops-psych-evaluations-after-talks-with-dc-police-stall/)
-- [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
-- [SmartNIC Standardizes FPGA Offload](https://www.electronicdesign.com/technologies/embedded-revolution/article/21155971/electronic-design-smartnic-standardizes-fpga-offload)
-- [Stop Spending Time on Things You Hate](https://www.theatlantic.com/family/archive/2021/04/waste-time-thoreau-walden/618732/)
-- [A heat tolerant wild coffee species that tastes like Arabica coffee](https://sustainabilitycommunity.springernature.com/posts/a-heat-tolerant-wild-coffee-species-that-tastes-like-arabica-coffee)
-- [Painless FPGA Programming](https://spectrum.ieee.org/geek-life/hands-on/painless-fpga-programming)
-- [How Does Angel Investing?](https://zachholman.com/posts/how-does-angel-investing)
-- [Interactive Online Malware Analysis Sandbox – Any.run](https://app.any.run/)
-- [Matthew Salloway on venture capital, technology startups and investing](https://www.campdenfb.com/article/matthew-salloway-venture-capital-technology-startups-and-investing-across-north-america-midd)
-- [Could a Ban on Ransom Payments Have Stopped the Colonial Pipeline Attack?](https://www.npr.org/2021/05/13/996299367/how-to-stop-ransomware-attacks-1-proposal-would-prohibit-victims-from-paying-up)
+- [China Lands Tianwen-1 Rover on Mars](https://www.scientificamerican.com/article/china-lands-tianwen-1-rover-on-mars-in-a-major-first-for-the-country/)
+- [Dreaming at Dusk, the first onion service sold for 500 ETH ($ 2M))](https://foundation.app/torproject/dreaming-at-dusk-35855)
+- [The Njahi Wars: Behind Kenya's Controversial Black Bean](https://www.seriouseats.com/njahi-wars-kenyan-black-beans-5184204)
+- [It's better to be naive than jaded](https://macwright.com/2020/12/27/its-better-to-be-naive-than-jaded.html)
+- [Facebook faces ‘devastating’ EU-to-US data transfer ban](https://aje.io/fftg5)
+- [Facial recognition website can turn anyone into a cop – or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
+- [Ask HN: Design Mentor?](https://news.ycombinator.com/item?id=27161771)
+- [Brave and Unstoppable Domains Partnering on the Decentralized Web](https://brave.com/unstoppable-domains/)
+- [TikTok: Israeli-Palestinian conflict plays out on social media](https://www.bbc.com/news/world-middle-east-57112614)
+- [Ask HN: What are your predictions for the programming industry going forward](https://news.ycombinator.com/item?id=27161726)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

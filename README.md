@@ -316,16 +316,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Framework's Repairable, Upgradable Laptop Is Available for Pre-Order](https://www.reviewgeek.com/82745/frameworks-repairable-upgradable-laptop-is-available-for-pre-order/)
-* [He-Man Returns to Netflix in July with 'Masters of the Universe: Revelation'](https://www.reviewgeek.com/82836/he-man-returns-to-netflix-in-july-with-masters-of-the-universe-revelation/)
-* [Amazon Prime Lands WNBA Multi-Year Streaming Deal](https://www.reviewgeek.com/82821/amazon-prime-lands-wnba-multi-year-streaming-deal/)
-* [Waymo and Cruise Take First Step Toward Autonomous Taxis In San Francisco](https://www.reviewgeek.com/82666/waymo-and-cruise-take-first-step-toward-autonomous-taxis-in-san-francisco/)
-* [Don't Flip Out: Nokia's 2720 V Flip Phone Will Soon Be Available In the U.S.](https://www.reviewgeek.com/82728/dont-flip-out-nokias-2720-v-flip-phone-will-soon-be-available-in-the-u-s/)
-* [Motorola Wants to Really Take the Wires out of Wireless Charging](https://www.reviewgeek.com/82684/motorola-wants-to-really-take-the-wires-out-of-wireless-charging/)
-* [The Roku Channel Adds 25 Free Channels, Will Release Quibi Originals Soon](https://www.reviewgeek.com/82677/the-roku-channel-adds-25-free-channels-will-release-quibi-originals-soon/)
-* [Target Stops Selling Pokémon Cards, Citing Violent Nerds](https://www.reviewgeek.com/82649/target-stops-selling-pokemon-cards-citing-violent-nerds/)
-* [How to Edit and Crop Photos on Android](https://www.howtogeek.com/727465/how-to-edit-and-crop-photos-on-android/)
-* [How to Use Outline View in Microsoft Word](https://www.howtogeek.com/726748/how-to-use-outline-view-in-microsoft-word/)
+* [Hundreds of Malicious Mobile Apps Promised Financial Peace and Stole Money](https://www.reviewgeek.com/83106/hundreds-of-malicious-mobile-apps-promised-financial-peace-and-stole-money/)
+* [YouTube TV Customers Can Watch Showtime for Free Through May 16th](https://www.reviewgeek.com/83113/youtube-tv-customers-can-watch-showtime-for-free-through-may-16th/)
+* [Netflix is Expanding the 'Ultraman' Universe with a New Movie](https://www.reviewgeek.com/83136/netflix-is-expanding-the-ultraman-universe-with-a-new-movie/)
+* [Rumored Third Gen AirPods and Apple HiFi Music Service Could Arrive Next Week](https://www.reviewgeek.com/83079/rumored-third-gen-airpods-and-apple-hifi-music-service-could-arrive-next-week/)
+* [The 5 Best Alarm Clocks for Heavy Sleepers](https://www.reviewgeek.com/2157/6-best-alarm-clocks-for-deep-sleepers/)
+* [TP-Link's New 2K HD Kasa Smart Cameras and Wi-Fi Plugs Are Here](https://www.reviewgeek.com/83063/tp-links-new-2k-hd-kasa-smart-cameras-and-wi-fi-plugs-are-here/)
+* [Limited-Time Deal: Buy a Wyze Lock, Get a Free Keypad](https://www.reviewgeek.com/83022/limited-time-deal-buy-a-wyze-lock-get-a-free-keypad/)
+* [Friday Deal: Get Eufy's Robot Vacuums up to 44% Off](https://www.reviewgeek.com/83008/friday-deal-get-eufys-robot-vacuums-up-to-44-off/)
+* [Disney Movies Will Hit Disney+ Sooner Thanks to Shortened Theatrical Window](https://www.reviewgeek.com/83000/disney-movies-will-hit-disney-sooner-thanks-to-shortened-theatrical-window/)
+* [LEGO Debuts Preschooler-Friendly Disney Mickey and Friends Sets](https://www.reviewgeek.com/83005/lego-debuts-preschooler-friendly-disney-mickey-and-friends-sets/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

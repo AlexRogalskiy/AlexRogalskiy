@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/American/under_the_table_366.php" target="_blank"><i>under the table</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/go_out_on_a_limb_295.php" target="_blank"><i>go out on a limb</i></a>
 <span> = </span>
-<span>If something is done under the table, it's done secretly, usually because it's illegal or unethical.</span>
+<span>If you go out on a limb, you put yourself in a risky position in order to support someone or something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

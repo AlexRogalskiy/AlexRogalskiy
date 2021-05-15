@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/bastard_1161.php" target="_blank"><i>bastard</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/bull_dyke_1262.php" target="_blank"><i>bull dyke</i></a>
 <span> = </span>
-<span>an unpleasant, despicable person</span>
+<span>a lesbian (see note below) who is very manly in appearance and behaviour</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

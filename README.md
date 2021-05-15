@@ -436,16 +436,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [CCT or CCNA](https://www.reddit.com/r/InformationTechnology/comments/ncahmt/cct_or_ccna/)
+- [Digital Engineer Specialist In Infosys](https://www.reddit.com/r/InformationTechnology/comments/nc9bsx/digital_engineer_specialist_in_infosys/)
+- [What are the differences between cloud-based SaaS/PaaS/BaaS softwares?](https://www.reddit.com/r/InformationTechnology/comments/nc6wy1/what_are_the_differences_between_cloudbased/)
+- [Internships](https://www.reddit.com/r/InformationTechnology/comments/nc05u3/internships/)
+- [I need help](https://www.reddit.com/r/InformationTechnology/comments/nbzh41/i_need_help/)
 - [How to minimize cost for annual certifications renewals?](https://www.reddit.com/r/InformationTechnology/comments/nbxhno/how_to_minimize_cost_for_annual_certifications/)
 - [Job outlook for IT?](https://www.reddit.com/r/InformationTechnology/comments/nbr86v/job_outlook_for_it/)
 - [IT Specialist for the VA?](https://www.reddit.com/r/InformationTechnology/comments/nb8qpv/it_specialist_for_the_va/)
 - [Using work monitor for personal things outside of work](https://www.reddit.com/r/InformationTechnology/comments/nb3m2q/using_work_monitor_for_personal_things_outside_of/)
 - [Career planning help, I feel trapped in help desk](https://www.reddit.com/r/InformationTechnology/comments/nazxbc/career_planning_help_i_feel_trapped_in_help_desk/)
-- [Can anyone share pictures of your IT storage room solutions?](https://www.reddit.com/r/InformationTechnology/comments/narlho/can_anyone_share_pictures_of_your_it_storage_room/)
-- [Hiring questions](https://www.reddit.com/r/InformationTechnology/comments/nal7s2/hiring_questions/)
-- [Bachelor of IT majoring in software development vs Bachelor of computer science?](https://www.reddit.com/r/InformationTechnology/comments/nafplc/bachelor_of_it_majoring_in_software_development/)
-- [Any ideas on culprits and fixes?](https://www.reddit.com/r/InformationTechnology/comments/naf58d/any_ideas_on_culprits_and_fixes/)
-- [IT Advise](https://www.reddit.com/r/InformationTechnology/comments/na93gc/it_advise/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

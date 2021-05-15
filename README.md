@@ -376,16 +376,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Browser updates are back for the May's Patch Tuesday](https://www.computerworld.com/article/3618990/browser-updates-are-back-for-the-mays-patch-tuesday.html#tk.rss_all)
+- [Upgrade your IT skills and learn how to fight cyber crime for just $30](https://www.computerworld.com/article/3617974/upgrade-your-it-skills-and-learn-how-to-fight-cyber-crime-for-just-30.html#tk.rss_all)
+- [V2 Cloud is the simplest cloud desktop for a distributed workforce](https://www.computerworld.com/article/3617944/v2-cloud-is-the-simplest-cloud-desktop-for-a-distributed-workforce.html#tk.rss_all)
+- [WWDC 2021 is coming, and we know very little about it](https://www.computerworld.com/article/3618845/wwdc-2021-is-coming-and-we-know-very-little-about-it.html#tk.rss_all)
+- [IBM Think: How AI could make big virtual events better than in-person alternatives](https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.html#tk.rss_all)
+- [The new, self-organizing workplace](https://www.computerworld.com/article/3618417/the-new-self-organizing-workplace.html#tk.rss_all)
+- [9 Chrome extensions that supercharge Google Drive](https://www.computerworld.com/article/3244125/chrome-extensions-supercharge-google-drive.html#tk.rss_all)
 - [Podcast: M1 iPad Pro outperforms Intel MacBook Pro in early benchmarks](https://www.computerworld.com/article/3618777/podcast-m1-ipad-pro-outperforms-intel-macbook-pro-in-early-benchmarks.html#tk.rss_all)
 - [Social engineering, fake App Stores, hit iOS, Sophos warns](https://www.computerworld.com/article/3618694/social-engineering-fake-app-stores-hit-ios-sophos-warns.html#tk.rss_all)
-- [This smart new service brings Google Docs, Trello, and Notion together — in your inbox](https://www.computerworld.com/article/3618591/google-docs-trello-notion-inbox.html#tk.rss_all)
-- [Microsoft nixes Windows 10X](https://www.computerworld.com/article/3618793/microsoft-nixes-windows-10x.html#tk.rss_all)
-- [Jamf adds zero trust security to the Apple enterprise](https://www.computerworld.com/article/3618415/jamf-adds-zero-trust-security-to-the-apple-enterprise.html#tk.rss_all)
-- [US IT jobs growth continues, with pandemic in the rearview mirror](https://www.computerworld.com/article/3542681/us-it-jobs-growth-continues-with-pandemic-in-the-rearview-mirror.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Enterprises need to get smart about iOS security](https://www.computerworld.com/article/3618430/enterprises-need-to-get-smart-about-ios-security.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

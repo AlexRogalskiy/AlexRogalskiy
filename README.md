@@ -421,16 +421,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Colonial Pipeline paid $5m ransom, reports say](https://www.computerweekly.com/news/252500782/Colonial-Pipeline-paid-5m-ransom-reports-say)
+- [Amazon to create 10,000 new UK jobs in 2021 across online retail and cloud computing divisions](https://www.computerweekly.com/news/252500790/Amazon-to-create-10000-new-UK-jobs-in-2021-across-online-retail-and-cloud-computing-divisions)
+- [Irish health service hit by major ransomware attack](https://www.computerweekly.com/news/252500777/Irish-health-service-hit-by-major-ransomware-attack)
+- [Digital bootcamp initiative could kickstart new thinking about technology skills](https://www.computerweekly.com/opinion/Digital-bootcamp-initiative-could-kickstart-new-thinking-about-technology-skills)
+- [More former subpostmasters have criminal convictions quashed](https://www.computerweekly.com/news/252500762/More-former-subpostmasters-have-criminal-convictions-quashed)
+- [Dutch police used deep learning model to predict threats to life](https://www.computerweekly.com/news/252500738/Dutch-police-used-deep-learning-model-to-predict-threats-to-life)
+- [Cabinet Office launches climate challenges for startups](https://www.computerweekly.com/news/252500739/Cabinet-Office-launches-climate-challenges-for-startups)
+- [The shape of fraud and cyber crime: 10 things we learned from 2020](https://www.computerweekly.com/opinion/The-shape-of-fraud-and-cyber-crime-10-things-we-learned-from-2020)
+- [Financial and technical obstacles hit Danish datacentre heat recycling plan](https://www.computerweekly.com/news/252500713/Financial-and-technical-obstacles-hit-Danish-datacentre-heat-recycling-plan)
 - [Portworx gets container-native array management for Pure hardware](https://www.computerweekly.com/news/252500580/Portworx-gets-container-native-array-management-for-Pure-hardware)
-- [Mars expands Microsoft strategy to drive business agenda](https://www.computerweekly.com/news/252500716/Mars-expands-Microsoft-strategy-to-drive-business-agenda)
-- [Publishing exploit code does more harm than good, says report](https://www.computerweekly.com/news/252500724/Publishing-exploit-code-does-more-harm-than-good-says-report)
-- [Biden beefs up public-private security cooperation](https://www.computerweekly.com/news/252500714/Biden-beefs-up-public-private-security-cooperation)
-- [CW Benelux: Netherlands university launches centre of expertise in applied AI](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Netherlands-university-launches-centre-of-expertise-in-applied-AI)
-- [VMware names Raghu Raghuram as CEO to guide company through Dell Technologies spin-off](https://www.computerweekly.com/news/252500715/VMware-names-Raghu-Raghuram-as-CEO-to-guide-company-through-Dell-Technologies-spin-off)
-- [Refuge launches tech safety site for domestic abuse victims](https://www.computerweekly.com/news/252500710/Refuge-launches-tech-safety-site-for-domestic-abuse-victims)
-- [CISOs weathered the pandemic well, but at personal cost](https://www.computerweekly.com/news/252500654/CISOs-weathered-the-pandemic-well-but-at-personal-cost)
-- [Verizon DBIR underscores year of unprecedented cyber challenge](https://www.computerweekly.com/news/252500712/Verizon-DBIR-underscores-year-of-unprecedented-cyber-challenge)
-- [Equinix shines light on changing post-pandemic investment priorities for UK IT decision-makers](https://www.computerweekly.com/news/252500666/Equinix-shines-light-on-changing-post-pandemic-investment-priorities-for-UK-IT-decision-makers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -361,16 +361,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
-- [Machine Learning Is a Marvelously Executed Scam](https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/)
-- [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
-- [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
-- [Privacy Update: Third-party Tracking](https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13)
-- [The brain maps out ideas and memories like spaces](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/)
-- [Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
-- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
-- [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
-- [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
+- [China Lands Rover on Mars](https://www.bbc.com/news/science-environment-57122914)
+- [In the Search to Stall Aging, Biotech Startups Are Out for Blood](https://www.smithsonianmag.com/innovation/in-search-to-stall-aging-biotech-startups-are-out-for-blood-180977728/)
+- [Tesla Autopilot system was on during fatal California crash, more safety concern](https://www.washingtonpost.com/technology/2021/05/14/tesla-california-autopilot-crash/)
+- [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
+- [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
+- [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
+- [Roden Crater](https://rodencrater.com/)
+- [Show HN: A Windows 7 web desktop recreation](https://desk.glitchy.website)
+- [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
+- [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

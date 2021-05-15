@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Justice/What_s_sauce_for_the_goose_is_sauce_for_the_gander_876.php" target="_blank"><i>What's sauce for the goose is sauce for the gander</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Nothing_ventured_nothing_gained_851.php" target="_blank"><i>Nothing ventured, nothing gained</i></a>
 <span> = </span>
-<span>In any question, what is appropriate in one case is also appropriate in the other case.</span>
+<span>We can't expect to achieve anything if we never take any risks.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/look/look_up_to_1970.php" target="_blank"><i>look up to</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/J/jack_up_2__1866.php" target="_blank"><i>jack up (2)</i></a>
 <span> = </span>
-<span>If someone looks up to another person, they respect or admire them.</span>
+<span>If you jack something up, you use a jack to lift it off the ground.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

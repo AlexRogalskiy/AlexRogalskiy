@@ -241,38 +241,32 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651091087185870848" target="_blank"><i>Gone to the Unseen</i></a></summary>
-<p>by Rumi</p><p>At last you have departed and gone to the Unseen.<br/>
- What marvelous route did you take from this world?</p><p>Beating your wings and feathers,<br/>
- you broke free from this cage.<br/>
- Rising up to the sky<br/>you attained the world of the soul.<br/>
- You were a prized falcon trapped by an Old Woman.<br/>
- Then you heard the drummer’s call<br/>
- and flew beyond space and time.</p><p>As a lovesick nightingale, you flew among the owls.<br/>
- Then came the scent of the rose garden<br/>
- and you flew off to meet the Rose.</p><p>The wine of this fleeting world<br/>
- caused your head to ache.<br/>
- Finally you joined the tavern of Eternity.<br/>
- Like an arrow, you sped from the bow<br/>
- and went straight for the bull’s eye of bliss.</p><p>This phantom world gave you false signs<br/>
- But you turned from the illusion<br/>
- and journeyed to the land of truth.</p><p>You are now the Sun–<br/>
- what need have you for a crown?<br/>
- You have vanished from this world–<br/>
- what need have you to tie your robe?</p><p>I’ve heard that you can barely see your soul.<br/>
- But why look at all?–<br/>
- yours is now the Soul of Souls!</p><p>O heart, what a wonderful bird you are.<br/>
- Seeking divine heights,<br/>
- Flapping your wings,<br/>
- you smashed the pointed spears of your enemy.</p><p>The flowers flee from Autumn, but not you–<br/>
- You are the fearless rose<br/>
- that grows amidst the freezing wind.</p><p>Pouring down like the rain of heaven<br/>
- you fell upon the rooftop of this world.<br/>
- Then you ran in every direction<br/>
- and escaped through the drain spout…</p><p>Now the words are over<br/>
- and the pain they bring is gone.<br/>
- Now you have gone to rest <br/>
- in the arms of the Beloved.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651181685394849792" target="_blank"><i>Oranges</i></a></summary>
+<p>by Mary Oliver</p><p>Cut one, the lace of acid
+<br/>rushes out, spills over your hands.
+<br/>You lick them, manners don&rsquo;t come into it.
+<br/>Orange. The first word you have heard that day 
+
+<br/><br/>enters your mind. Everybody then
+<br/>does what he or she wants; breakfast is casual.
+<br/>Slices, quarters, halves, or the whole hand
+<br/>holding an orange ball like the morning sun
+
+<br/><br/>on a day of soft wind and no clouds
+<br/>which it so often is. &ldquo;Oh, I always
+<br/>want to live like this,
+<br/>flying up out of the furrows of sleep,
+
+<br/><br/>fresh from water and its sheer excitement,
+<br/>felled as though by a miracle
+<br/>at this first sharp taste of the day!&rdquo;
+<br/>You&rsquo;re shouting, but no one is surprised.
+
+<br/><br/>Here, there, everywhere on the earth
+<br/>thousands are rising and shouting with you,
+<br/>even those who are utterly silent, absorbed,
+<br/>their mouths filled with such sweetness.
+<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

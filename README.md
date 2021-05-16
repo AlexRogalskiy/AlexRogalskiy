@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/bull_dyke_1262.php" target="_blank"><i>bull dyke</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/knock_over_1437.php" target="_blank"><i>knock over</i></a>
 <span> = </span>
-<span>a lesbian (see note below) who is very manly in appearance and behaviour</span>
+<span>to rob a store or a bank</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

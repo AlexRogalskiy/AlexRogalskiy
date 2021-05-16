@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/go_out_on_a_limb_295.php" target="_blank"><i>go out on a limb</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/T/take_for_granted_26.php" target="_blank"><i>take for granted</i></a>
 <span> = </span>
-<span>If you go out on a limb, you put yourself in a risky position in order to support someone or something.</span>
+<span>We can say somebody takes something for granted if they assume it'll always be there for them, and they don't seem thankful for it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

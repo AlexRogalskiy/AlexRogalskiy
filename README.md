@@ -241,32 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651181685394849792" target="_blank"><i>Oranges</i></a></summary>
-<p>by Mary Oliver</p><p>Cut one, the lace of acid
-<br/>rushes out, spills over your hands.
-<br/>You lick them, manners don&rsquo;t come into it.
-<br/>Orange. The first word you have heard that day 
-
-<br/><br/>enters your mind. Everybody then
-<br/>does what he or she wants; breakfast is casual.
-<br/>Slices, quarters, halves, or the whole hand
-<br/>holding an orange ball like the morning sun
-
-<br/><br/>on a day of soft wind and no clouds
-<br/>which it so often is. &ldquo;Oh, I always
-<br/>want to live like this,
-<br/>flying up out of the furrows of sleep,
-
-<br/><br/>fresh from water and its sheer excitement,
-<br/>felled as though by a miracle
-<br/>at this first sharp taste of the day!&rdquo;
-<br/>You&rsquo;re shouting, but no one is surprised.
-
-<br/><br/>Here, there, everywhere on the earth
-<br/>thousands are rising and shouting with you,
-<br/>even those who are utterly silent, absorbed,
-<br/>their mouths filled with such sweetness.
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/651272306766872576" target="_blank"><i>September 1, 1939</i></a></summary>
+<p>by W.H. Auden</p><p>I sit in one of the dives<br/>On Fifty-second Street<br/>Uncertain and afraid<br/>As the clever hopes expire<br/>Of a low dishonest decade:<br/>Waves of anger and fear<br/>Circulate over the bright <br/>And darkened lands of the earth,<br/>Obsessing our private lives;<br/>The unmentionable odour of death<br/>Offends the September night.</p><p>Accurate scholarship can <br/>Unearth the whole offence<br/>From Luther until now<br/>That has driven a culture mad,<br/>Find what occurred at Linz,<br/>What huge imago made<br/>A psychopathic god:<br/>I and the public know<br/>What all schoolchildren learn,<br/>Those to whom evil is done<br/>Do evil in return.</p><p>Exiled Thucydides knew<br/>All that a speech can say<br/>About Democracy,<br/>And what dictators do,<br/>The elderly rubbish they talk<br/>To an apathetic grave;<br/>Analysed all in his book,<br/>The enlightenment driven away,<br/>The habit-forming pain,<br/>Mismanagement and grief:<br/>We must suffer them all again.</p><p>Into this neutral air<br/>Where blind skyscrapers use<br/>Their full height to proclaim<br/>The strength of Collective Man,<br/>Each language pours its vain<br/>Competitive excuse:<br/>But who can live for long<br/>In an euphoric dream;<br/>Out of the mirror they stare,<br/>Imperialism&rsquo;s face<br/>And the international wrong.</p><p>Faces along the bar<br/>Cling to their average day:<br/>The lights must never go out,<br/>The music must always play,<br/>All the conventions conspire <br/>To make this fort assume<br/>The furniture of home;<br/>Lest we should see where we are,<br/>Lost in a haunted wood,<br/>Children afraid of the night<br/>Who have never been happy or good.</p><p>The windiest militant trash<br/>Important Persons shout<br/>Is not so crude as our wish:<br/>What mad Nijinsky wrote<br/>About Diaghilev<br/>Is true of the normal heart;<br/>For the error bred in the bone<br/>Of each woman and each man<br/>Craves what it cannot have,<br/>Not universal love<br/>But to be loved alone.</p><p>From the conservative dark<br/>Into the ethical life<br/>The dense commuters come,<br/>Repeating their morning vow;<br/>&ldquo;I will be true to the wife,<br/>I&rsquo;ll concentrate more on my work,&rdquo;<br/>And helpless governors wake<br/>To resume their compulsory game:<br/>Who can release them now,<br/>Who can reach the deaf,<br/>Who can speak for the dumb?</p><p>All I have is a voice<br/>To undo the folded lie,<br/>The romantic lie in the brain<br/>Of the sensual man-in-the-street<br/>And the lie of Authority<br/>Whose buildings grope the sky:<br/>There is no such thing as the State<br/>And no one exists alone;<br/>Hunger allows no choice<br/>To the citizen or the police;<br/>We must love one another or die.</p><p>Defenceless under the night<br/>Our world in stupor lies;<br/>Yet, dotted everywhere,<br/>Ironic points of light<br/>Flash out wherever the Just<br/>Exchange their messages:<br/>May I, composed like them<br/>Of Eros and of dust,<br/>Beleaguered by the same<br/>Negation and despair,<br/>Show an affirming flame.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -355,16 +355,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China Lands Rover on Mars](https://www.bbc.com/news/science-environment-57122914)
-- [In the Search to Stall Aging, Biotech Startups Are Out for Blood](https://www.smithsonianmag.com/innovation/in-search-to-stall-aging-biotech-startups-are-out-for-blood-180977728/)
-- [Tesla Autopilot system was on during fatal California crash, more safety concern](https://www.washingtonpost.com/technology/2021/05/14/tesla-california-autopilot-crash/)
-- [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
-- [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
-- [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
-- [Roden Crater](https://rodencrater.com/)
-- [Show HN: A Windows 7 web desktop recreation](https://desk.glitchy.website)
-- [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
-- [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
+- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
+- [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
+- [Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB](https://www.linkedin.com/pulse/lessons-learned-creating-real-time-multiplayer-game-nun-k%25C3%25B6hler/)
+- [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+- [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
+- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

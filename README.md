@@ -430,6 +430,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [it business](https://www.reddit.com/r/InformationTechnology/comments/ndduhd/it_business/)
+- [Getting back to the office after COVID](https://www.reddit.com/r/InformationTechnology/comments/nd2xlu/getting_back_to_the_office_after_covid/)
+- [IT degree or certificate?](https://www.reddit.com/r/InformationTechnology/comments/nd2n2c/it_degree_or_certificate/)
 - [CCT or CCNA](https://www.reddit.com/r/InformationTechnology/comments/ncahmt/cct_or_ccna/)
 - [Digital Engineer Specialist In Infosys](https://www.reddit.com/r/InformationTechnology/comments/nc9bsx/digital_engineer_specialist_in_infosys/)
 - [What are the differences between cloud-based SaaS/PaaS/BaaS softwares?](https://www.reddit.com/r/InformationTechnology/comments/nc6wy1/what_are_the_differences_between_cloudbased/)
@@ -437,9 +440,6 @@
 - [I need help](https://www.reddit.com/r/InformationTechnology/comments/nbzh41/i_need_help/)
 - [How to minimize cost for annual certifications renewals?](https://www.reddit.com/r/InformationTechnology/comments/nbxhno/how_to_minimize_cost_for_annual_certifications/)
 - [Job outlook for IT?](https://www.reddit.com/r/InformationTechnology/comments/nbr86v/job_outlook_for_it/)
-- [IT Specialist for the VA?](https://www.reddit.com/r/InformationTechnology/comments/nb8qpv/it_specialist_for_the_va/)
-- [Using work monitor for personal things outside of work](https://www.reddit.com/r/InformationTechnology/comments/nb3m2q/using_work_monitor_for_personal_things_outside_of/)
-- [Career planning help, I feel trapped in help desk](https://www.reddit.com/r/InformationTechnology/comments/nazxbc/career_planning_help_i_feel_trapped_in_help_desk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

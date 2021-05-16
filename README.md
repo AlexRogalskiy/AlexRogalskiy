@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/J/jack_up_2__1866.php" target="_blank"><i>jack up (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_1/come_over_1__2765.php" target="_blank"><i>come over (1)</i></a>
 <span> = </span>
-<span>If you jack something up, you use a jack to lift it off the ground.</span>
+<span>to visit a place, or to move from one place or country to another<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

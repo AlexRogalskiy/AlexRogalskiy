@@ -325,16 +325,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China Lands Tianwen-1 Rover on Mars](https://www.scientificamerican.com/article/china-lands-tianwen-1-rover-on-mars-in-a-major-first-for-the-country/)
-- [Dreaming at Dusk, the first onion service sold for 500 ETH ($ 2M))](https://foundation.app/torproject/dreaming-at-dusk-35855)
-- [The Njahi Wars: Behind Kenya's Controversial Black Bean](https://www.seriouseats.com/njahi-wars-kenyan-black-beans-5184204)
-- [It's better to be naive than jaded](https://macwright.com/2020/12/27/its-better-to-be-naive-than-jaded.html)
-- [Facebook faces ‘devastating’ EU-to-US data transfer ban](https://aje.io/fftg5)
-- [Facial recognition website can turn anyone into a cop – or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
-- [Ask HN: Design Mentor?](https://news.ycombinator.com/item?id=27161771)
-- [Brave and Unstoppable Domains Partnering on the Decentralized Web](https://brave.com/unstoppable-domains/)
-- [TikTok: Israeli-Palestinian conflict plays out on social media](https://www.bbc.com/news/world-middle-east-57112614)
-- [Ask HN: What are your predictions for the programming industry going forward](https://news.ycombinator.com/item?id=27161726)
+- [Undercover police frequently spied on children, inquiry hears](https://www.theguardian.com/uk-news/2021/may/12/undercover-police-frequently-spied-on-children-inquiry-hears)
+- [The Egg and I](https://en.wikipedia.org/wiki/The_Egg_and_I)
+- [Peak Non-Creepy Dating Pool](https://flowingdata.com/projects/2018/dating-pool/)
+- [Is there a software to de-blue a video?](https://news.ycombinator.com/item?id=27170785)
+- [Life as a 90s Russian newspaper photographer, shooting on a cheap Soviet camera](https://kosmofoto.com/2021/03/life-as-a-1990s-russian-newspaper-photographer-shooting-on-a-zenit-e/)
+- [The Gatekeepers Who Get to Decide What Food Is “Disgusting”](https://www.newyorker.com/magazine/2021/05/17/the-gatekeepers-who-get-to-decide-what-food-is-disgusting)
+- [Popular Russian hacking forum XSS bans all ransomware topics](https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/)
+- [Deploy Scikit Models from DeepNote on Inferrd.com](https://inferrd.com/blog/deploy-scikit-deepnote-inferrd)
+- [Ask HN: What's your death plan? Deadman switch?](https://news.ycombinator.com/item?id=27170709)
+- [Bruce Garlow](https://www.legacy.com/obituaries/berkshire/obituary.aspx?n=bruce-garlow&pid=198581113)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

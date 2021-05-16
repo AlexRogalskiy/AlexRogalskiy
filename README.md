@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Plants/go_out_on_a_limb_295.php" target="_blank"><i>go out on a limb</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/T/take_for_granted_26.php" target="_blank"><i>take for granted</i></a>
 <span> = </span>
-<span>If you go out on a limb, you put yourself in a risky position in order to support someone or something.</span>
+<span>We can say somebody takes something for granted if they assume it'll always be there for them, and they don't seem thankful for it.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/bull_dyke_1262.php" target="_blank"><i>bull dyke</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/knock_over_1437.php" target="_blank"><i>knock over</i></a>
 <span> = </span>
-<span>a lesbian (see note below) who is very manly in appearance and behaviour</span>
+<span>to rob a store or a bank</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Nothing_ventured_nothing_gained_851.php" target="_blank"><i>Nothing ventured, nothing gained</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/The_wages_of_sin_is_death_841.php" target="_blank"><i>The wages of sin is death</i></a>
 <span> = </span>
-<span>We can't expect to achieve anything if we never take any risks.</span>
+<span>If we sin we die. ("Death" here refers not to physical death but to spiritual death or eternal damnation.)</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -241,32 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651181685394849792" target="_blank"><i>Oranges</i></a></summary>
-<p>by Mary Oliver</p><p>Cut one, the lace of acid
-<br/>rushes out, spills over your hands.
-<br/>You lick them, manners don&rsquo;t come into it.
-<br/>Orange. The first word you have heard that day 
-
-<br/><br/>enters your mind. Everybody then
-<br/>does what he or she wants; breakfast is casual.
-<br/>Slices, quarters, halves, or the whole hand
-<br/>holding an orange ball like the morning sun
-
-<br/><br/>on a day of soft wind and no clouds
-<br/>which it so often is. &ldquo;Oh, I always
-<br/>want to live like this,
-<br/>flying up out of the furrows of sleep,
-
-<br/><br/>fresh from water and its sheer excitement,
-<br/>felled as though by a miracle
-<br/>at this first sharp taste of the day!&rdquo;
-<br/>You&rsquo;re shouting, but no one is surprised.
-
-<br/><br/>Here, there, everywhere on the earth
-<br/>thousands are rising and shouting with you,
-<br/>even those who are utterly silent, absorbed,
-<br/>their mouths filled with such sweetness.
-<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/651272306766872576" target="_blank"><i>September 1, 1939</i></a></summary>
+<p>by W.H. Auden</p><p>I sit in one of the dives<br/>On Fifty-second Street<br/>Uncertain and afraid<br/>As the clever hopes expire<br/>Of a low dishonest decade:<br/>Waves of anger and fear<br/>Circulate over the bright <br/>And darkened lands of the earth,<br/>Obsessing our private lives;<br/>The unmentionable odour of death<br/>Offends the September night.</p><p>Accurate scholarship can <br/>Unearth the whole offence<br/>From Luther until now<br/>That has driven a culture mad,<br/>Find what occurred at Linz,<br/>What huge imago made<br/>A psychopathic god:<br/>I and the public know<br/>What all schoolchildren learn,<br/>Those to whom evil is done<br/>Do evil in return.</p><p>Exiled Thucydides knew<br/>All that a speech can say<br/>About Democracy,<br/>And what dictators do,<br/>The elderly rubbish they talk<br/>To an apathetic grave;<br/>Analysed all in his book,<br/>The enlightenment driven away,<br/>The habit-forming pain,<br/>Mismanagement and grief:<br/>We must suffer them all again.</p><p>Into this neutral air<br/>Where blind skyscrapers use<br/>Their full height to proclaim<br/>The strength of Collective Man,<br/>Each language pours its vain<br/>Competitive excuse:<br/>But who can live for long<br/>In an euphoric dream;<br/>Out of the mirror they stare,<br/>Imperialism&rsquo;s face<br/>And the international wrong.</p><p>Faces along the bar<br/>Cling to their average day:<br/>The lights must never go out,<br/>The music must always play,<br/>All the conventions conspire <br/>To make this fort assume<br/>The furniture of home;<br/>Lest we should see where we are,<br/>Lost in a haunted wood,<br/>Children afraid of the night<br/>Who have never been happy or good.</p><p>The windiest militant trash<br/>Important Persons shout<br/>Is not so crude as our wish:<br/>What mad Nijinsky wrote<br/>About Diaghilev<br/>Is true of the normal heart;<br/>For the error bred in the bone<br/>Of each woman and each man<br/>Craves what it cannot have,<br/>Not universal love<br/>But to be loved alone.</p><p>From the conservative dark<br/>Into the ethical life<br/>The dense commuters come,<br/>Repeating their morning vow;<br/>&ldquo;I will be true to the wife,<br/>I&rsquo;ll concentrate more on my work,&rdquo;<br/>And helpless governors wake<br/>To resume their compulsory game:<br/>Who can release them now,<br/>Who can reach the deaf,<br/>Who can speak for the dumb?</p><p>All I have is a voice<br/>To undo the folded lie,<br/>The romantic lie in the brain<br/>Of the sensual man-in-the-street<br/>And the lie of Authority<br/>Whose buildings grope the sky:<br/>There is no such thing as the State<br/>And no one exists alone;<br/>Hunger allows no choice<br/>To the citizen or the police;<br/>We must love one another or die.</p><p>Defenceless under the night<br/>Our world in stupor lies;<br/>Yet, dotted everywhere,<br/>Ironic points of light<br/>Flash out wherever the Just<br/>Exchange their messages:<br/>May I, composed like them<br/>Of Eros and of dust,<br/>Beleaguered by the same<br/>Negation and despair,<br/>Show an affirming flame.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -297,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>13°C (<i>broken clouds</i>), humidity: 94%, pressure: 1004 (mbar), wind: /south-east/ 2 (m/s), cloudy: 75%</b>
+        <b>13°C (<i>light rain</i>), humidity: 82%, pressure: 1003 (mbar), wind: /east/ 2 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>04:19 am</b> and sets at <b>21:31 pm</b>.
     </p>
@@ -310,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hundreds of Malicious Mobile Apps Promised Financial Peace and Stole Money](https://www.reviewgeek.com/83106/hundreds-of-malicious-mobile-apps-promised-financial-peace-and-stole-money/)
-* [YouTube TV Customers Can Watch Showtime for Free Through May 16th](https://www.reviewgeek.com/83113/youtube-tv-customers-can-watch-showtime-for-free-through-may-16th/)
-* [Netflix is Expanding the 'Ultraman' Universe with a New Movie](https://www.reviewgeek.com/83136/netflix-is-expanding-the-ultraman-universe-with-a-new-movie/)
-* [Rumored Third Gen AirPods and Apple HiFi Music Service Could Arrive Next Week](https://www.reviewgeek.com/83079/rumored-third-gen-airpods-and-apple-hifi-music-service-could-arrive-next-week/)
-* [The 5 Best Alarm Clocks for Heavy Sleepers](https://www.reviewgeek.com/2157/6-best-alarm-clocks-for-deep-sleepers/)
-* [TP-Link's New 2K HD Kasa Smart Cameras and Wi-Fi Plugs Are Here](https://www.reviewgeek.com/83063/tp-links-new-2k-hd-kasa-smart-cameras-and-wi-fi-plugs-are-here/)
-* [Limited-Time Deal: Buy a Wyze Lock, Get a Free Keypad](https://www.reviewgeek.com/83022/limited-time-deal-buy-a-wyze-lock-get-a-free-keypad/)
-* [Friday Deal: Get Eufy's Robot Vacuums up to 44% Off](https://www.reviewgeek.com/83008/friday-deal-get-eufys-robot-vacuums-up-to-44-off/)
-* [Disney Movies Will Hit Disney+ Sooner Thanks to Shortened Theatrical Window](https://www.reviewgeek.com/83000/disney-movies-will-hit-disney-sooner-thanks-to-shortened-theatrical-window/)
-* [LEGO Debuts Preschooler-Friendly Disney Mickey and Friends Sets](https://www.reviewgeek.com/83005/lego-debuts-preschooler-friendly-disney-mickey-and-friends-sets/)
+* [The Truth is Out There with This Interactive UFO Sighting Map](https://www.reviewgeek.com/83179/interactive-map-ufo-sightings-reports/)
+* [You Can Buy the First Bottle of Wine Ever Aged In Outer Space](https://www.reviewgeek.com/83080/you-can-buy-the-first-bottle-of-wine-ever-aged-in-outer-space/)
+* [This Legend Stacked Over 1,500 Jenga Blocks on a Single Vertical Block](https://www.reviewgeek.com/83174/this-legend-stacked-over-1500-jenga-blocks-on-a-single-vertical-block/)
+* [Watch This Driverless Waymo Taxi Block Traffic, Then Go on the Run](https://www.reviewgeek.com/83137/waymo-selfdriving-taxi-blocks-traffic-video-funny/)
+* [How to Preload Games on Xbox Series X and S (No Purchase Necessary)](https://www.howtogeek.com/714301/how-to-preload-games-on-xbox-series-x-and-s-no-purchase-necessary/)
+* [How to Copy Layers from One Photoshop Document to Another](https://www.howtogeek.com/724762/how-to-copy-layers-from-one-photoshop-document-to-another/)
+* [How to Change Your Spotify Username](https://www.howtogeek.com/726816/how-to-change-your-spotify-username/)
+* [The 8 Best Small TVs (up to 32 inches)](https://www.reviewgeek.com/81892/the-8-best-small-tvs-up-to-32-inches/)
+* [How to Get a Refund From the Apple App Store](https://www.howtogeek.com/396239/how-to-get-a-refund-from-the-apple-app-store/)
+* [How to Add and Remove Themes in Microsoft Edge](https://www.howtogeek.com/725974/how-to-add-and-remove-themes-in-microsoft-edge/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China Lands Tianwen-1 Rover on Mars](https://www.scientificamerican.com/article/china-lands-tianwen-1-rover-on-mars-in-a-major-first-for-the-country/)
-- [Dreaming at Dusk, the first onion service sold for 500 ETH ($ 2M))](https://foundation.app/torproject/dreaming-at-dusk-35855)
-- [The Njahi Wars: Behind Kenya's Controversial Black Bean](https://www.seriouseats.com/njahi-wars-kenyan-black-beans-5184204)
-- [It's better to be naive than jaded](https://macwright.com/2020/12/27/its-better-to-be-naive-than-jaded.html)
-- [Facebook faces ‘devastating’ EU-to-US data transfer ban](https://aje.io/fftg5)
-- [Facial recognition website can turn anyone into a cop – or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
-- [Ask HN: Design Mentor?](https://news.ycombinator.com/item?id=27161771)
-- [Brave and Unstoppable Domains Partnering on the Decentralized Web](https://brave.com/unstoppable-domains/)
-- [TikTok: Israeli-Palestinian conflict plays out on social media](https://www.bbc.com/news/world-middle-east-57112614)
-- [Ask HN: What are your predictions for the programming industry going forward](https://news.ycombinator.com/item?id=27161726)
+- [Undercover police frequently spied on children, inquiry hears](https://www.theguardian.com/uk-news/2021/may/12/undercover-police-frequently-spied-on-children-inquiry-hears)
+- [The Egg and I](https://en.wikipedia.org/wiki/The_Egg_and_I)
+- [Peak Non-Creepy Dating Pool](https://flowingdata.com/projects/2018/dating-pool/)
+- [Is there a software to de-blue a video?](https://news.ycombinator.com/item?id=27170785)
+- [Life as a 90s Russian newspaper photographer, shooting on a cheap Soviet camera](https://kosmofoto.com/2021/03/life-as-a-1990s-russian-newspaper-photographer-shooting-on-a-zenit-e/)
+- [The Gatekeepers Who Get to Decide What Food Is “Disgusting”](https://www.newyorker.com/magazine/2021/05/17/the-gatekeepers-who-get-to-decide-what-food-is-disgusting)
+- [Popular Russian hacking forum XSS bans all ransomware topics](https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/)
+- [Deploy Scikit Models from DeepNote on Inferrd.com](https://inferrd.com/blog/deploy-scikit-deepnote-inferrd)
+- [Ask HN: What's your death plan? Deadman switch?](https://news.ycombinator.com/item?id=27170709)
+- [Bruce Garlow](https://www.legacy.com/obituaries/berkshire/obituary.aspx?n=bruce-garlow&pid=198581113)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China lands unmanned spacecraft on Mars for first time](https://www.theguardian.com/science/2021/may/15/china-lands-unmanned-spacecraft-on-mars)
-- [Thousands of UK train services to be restored as Covid restrictions ease](https://www.theguardian.com/uk-news/2021/may/15/thousands-uk-train-services-restored-covid-restrictions-ease)
-- [Meera Sodha's vegan recipe for crispy chocolate and date slices | The new vegan](https://www.theguardian.com/food/2021/may/15/meera-sodha-vegan-recipe-rice-krispies-chocolate-date-slices)
-- [Liz Cheney: McCarthy should testify about Trump’s views on Capitol attack](https://www.theguardian.com/us-news/2021/may/14/democrats-republicans-commission-us-capitol-attack)
-- [Matt Gaetz scandal deepens as associate admits paying 17-year-old for sex](https://www.theguardian.com/us-news/2021/may/14/matt-gaetz-scandal-joel-greenberg-sex-trafficking)
-- [California governor candidate under investigation over 1,000lb bear sidekick](https://www.theguardian.com/us-news/2021/may/14/california-john-cox-bear-investigation-recall-election)
-- [Domina: this Roman epic fills a gory, horny, Game of Thrones-shaped hole](https://www.theguardian.com/tv-and-radio/2021/may/14/sky-atlantic-domina)
-- [Ferran Torres hits hat-trick in madcap win for Manchester City at Newcastle](https://www.theguardian.com/football/2021/may/14/ferran-torres-hits-hat-trick-in-madcap-win-for-manchester-city-at-newcastle)
-- [‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut](https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo)
-- [Proud Boys leader received Covid-19 stimulus loans worth $15,500](https://www.theguardian.com/us-news/2021/may/14/proud-boys-leader-enrique-tarrio-received-ppp-loans)
+- [New York City Pride organisers to ban police from marching until 2025](https://www.theguardian.com/world/2021/may/16/new-york-city-pride-organisers-to-ban-police-from-marching-until-2025)
+- [North Carolina jury awards $75m to brothers wrongly convicted of 1983 murder](https://www.theguardian.com/us-news/2021/may/16/north-carolina-jury-awards-75m-to-brothers-wrongly-convicted-of-1983)
+- [Eco investors turn up the heat on Shell over climate target](https://www.theguardian.com/business/2021/may/16/eco-investors-turn-up-heat-on-shell-over-climate-target)
+- [Charles to open up palaces to the public when he becomes king – reports](https://www.theguardian.com/uk-news/2021/may/16/charles-to-open-up-palaces-to-the-public-when-he-becomes-king-reports)
+- [Bold blouses: 20 of the best statement shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/bold-blouses-20-of-the-best-statement-shirts-in-pictures)
+- [Pack light: 20 of the best men’s mini crossbody bags – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/pack-light-20-of-the-best-mens-mini-crossbody-bags-in-pictures)
+- [Santander apologises for ‘technical problem’ that affected online and card payments](https://www.theguardian.com/business/2021/may/15/santander-apologises-for-technical-problem-that-affected-online-and-card-payments)
+- [Champions League qualification would not spark spending spree, says Klopp](https://www.theguardian.com/football/2021/may/15/champions-league-qualification-would-not-spark-spending-spree-says-klopp)
+- [West Ham‘s top-four hopes fade despite Benrahma salvaging point at Brighton](https://www.theguardian.com/football/2021/may/15/brighton-west-ham-premier-league-match-report)
+- [Pernille Harder: ‘The biggest thing would be to see Magda lift the trophy’](https://www.theguardian.com/football/2021/may/15/pernille-harder-the-biggest-thing-would-be-to-see-magda-lift-the-trophy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China Lands Rover on Mars](https://www.bbc.com/news/science-environment-57122914)
-- [In the Search to Stall Aging, Biotech Startups Are Out for Blood](https://www.smithsonianmag.com/innovation/in-search-to-stall-aging-biotech-startups-are-out-for-blood-180977728/)
-- [Tesla Autopilot system was on during fatal California crash, more safety concern](https://www.washingtonpost.com/technology/2021/05/14/tesla-california-autopilot-crash/)
-- [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
-- [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
-- [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
-- [Roden Crater](https://rodencrater.com/)
-- [Show HN: A Windows 7 web desktop recreation](https://desk.glitchy.website)
-- [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
-- [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
+- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
+- [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
+- [Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB](https://www.linkedin.com/pulse/lessons-learned-creating-real-time-multiplayer-game-nun-k%25C3%25B6hler/)
+- [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+- [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
+- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -430,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [it business](https://www.reddit.com/r/InformationTechnology/comments/ndduhd/it_business/)
+- [Getting back to the office after COVID](https://www.reddit.com/r/InformationTechnology/comments/nd2xlu/getting_back_to_the_office_after_covid/)
+- [IT degree or certificate?](https://www.reddit.com/r/InformationTechnology/comments/nd2n2c/it_degree_or_certificate/)
 - [CCT or CCNA](https://www.reddit.com/r/InformationTechnology/comments/ncahmt/cct_or_ccna/)
 - [Digital Engineer Specialist In Infosys](https://www.reddit.com/r/InformationTechnology/comments/nc9bsx/digital_engineer_specialist_in_infosys/)
 - [What are the differences between cloud-based SaaS/PaaS/BaaS softwares?](https://www.reddit.com/r/InformationTechnology/comments/nc6wy1/what_are_the_differences_between_cloudbased/)
@@ -437,9 +416,6 @@
 - [I need help](https://www.reddit.com/r/InformationTechnology/comments/nbzh41/i_need_help/)
 - [How to minimize cost for annual certifications renewals?](https://www.reddit.com/r/InformationTechnology/comments/nbxhno/how_to_minimize_cost_for_annual_certifications/)
 - [Job outlook for IT?](https://www.reddit.com/r/InformationTechnology/comments/nbr86v/job_outlook_for_it/)
-- [IT Specialist for the VA?](https://www.reddit.com/r/InformationTechnology/comments/nb8qpv/it_specialist_for_the_va/)
-- [Using work monitor for personal things outside of work](https://www.reddit.com/r/InformationTechnology/comments/nb3m2q/using_work_monitor_for_personal_things_outside_of/)
-- [Career planning help, I feel trapped in help desk](https://www.reddit.com/r/InformationTechnology/comments/nazxbc/career_planning_help_i_feel_trapped_in_help_desk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

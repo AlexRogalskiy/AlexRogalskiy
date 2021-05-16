@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c1&#x2F;1d&#x2F;48&#x2F;c11d480deeef6aef40bf95b7dfc298d8.jpg" alt="Tell us some tales of derring-do. It&#39;s our Word of the Day. Click to learn its history, get example sentences, and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c1&#x2F;1d&#x2F;48&#x2F;c11d480deeef6aef40bf95b7dfc298d8.jpg" alt="Tell us some tales of derring-do. It&#39;s our Word of the Day. Click to learn its history, get example sentences, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0a&#x2F;42&#x2F;4f&#x2F;0a424f3155dd6fa1253e3b6ab5b518ec.jpg" alt="This #WordOfTheDay sounds like an insult, but it definitely isn&#39;t one. It&#39;s pulchritudinous. See where it comes from at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8b&#x2F;c9&#x2F;74&#x2F;8bc9742c64a85cad7d8513ef85058e27.jpg" alt="Some meetings are adjourned sine die, but we&#39;ll see you at the same time tomorrow for a new #WordOfTheDay. Wondering how to say it? Click for pronunciation, example sentences, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;d9&#x2F;34&#x2F;47d93491ae8007d8289f32712c74998f.jpg" alt="Boondoggle is the Word of the Day. It&#39;s also more fun to say than &quot;vanity project.&quot; Click for example sentences and more! " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>17°C (<i>scattered clouds</i>), humidity: 59%, pressure: 1009 (mbar), wind: /north/ 5 (m/s), cloudy: 40%</b>
+        <b>14°C (<i>clear sky</i>), humidity: 58%, pressure: 1010 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:19 am</b> and sets at <b>21:31 pm</b>.
     </p>

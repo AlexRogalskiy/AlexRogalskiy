@@ -340,16 +340,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China lands unmanned spacecraft on Mars for first time](https://www.theguardian.com/science/2021/may/15/china-lands-unmanned-spacecraft-on-mars)
-- [Thousands of UK train services to be restored as Covid restrictions ease](https://www.theguardian.com/uk-news/2021/may/15/thousands-uk-train-services-restored-covid-restrictions-ease)
-- [Meera Sodha's vegan recipe for crispy chocolate and date slices | The new vegan](https://www.theguardian.com/food/2021/may/15/meera-sodha-vegan-recipe-rice-krispies-chocolate-date-slices)
-- [Liz Cheney: McCarthy should testify about Trump’s views on Capitol attack](https://www.theguardian.com/us-news/2021/may/14/democrats-republicans-commission-us-capitol-attack)
-- [Matt Gaetz scandal deepens as associate admits paying 17-year-old for sex](https://www.theguardian.com/us-news/2021/may/14/matt-gaetz-scandal-joel-greenberg-sex-trafficking)
-- [California governor candidate under investigation over 1,000lb bear sidekick](https://www.theguardian.com/us-news/2021/may/14/california-john-cox-bear-investigation-recall-election)
-- [Domina: this Roman epic fills a gory, horny, Game of Thrones-shaped hole](https://www.theguardian.com/tv-and-radio/2021/may/14/sky-atlantic-domina)
-- [Ferran Torres hits hat-trick in madcap win for Manchester City at Newcastle](https://www.theguardian.com/football/2021/may/14/ferran-torres-hits-hat-trick-in-madcap-win-for-manchester-city-at-newcastle)
-- [‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut](https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo)
-- [Proud Boys leader received Covid-19 stimulus loans worth $15,500](https://www.theguardian.com/us-news/2021/may/14/proud-boys-leader-enrique-tarrio-received-ppp-loans)
+- [New York City Pride organisers to ban police from marching until 2025](https://www.theguardian.com/world/2021/may/16/new-york-city-pride-organisers-to-ban-police-from-marching-until-2025)
+- [North Carolina jury awards $75m to brothers wrongly convicted of 1983 murder](https://www.theguardian.com/us-news/2021/may/16/north-carolina-jury-awards-75m-to-brothers-wrongly-convicted-of-1983)
+- [Eco investors turn up the heat on Shell over climate target](https://www.theguardian.com/business/2021/may/16/eco-investors-turn-up-heat-on-shell-over-climate-target)
+- [Charles to open up palaces to the public when he becomes king – reports](https://www.theguardian.com/uk-news/2021/may/16/charles-to-open-up-palaces-to-the-public-when-he-becomes-king-reports)
+- [Bold blouses: 20 of the best statement shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/bold-blouses-20-of-the-best-statement-shirts-in-pictures)
+- [Pack light: 20 of the best men’s mini crossbody bags – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/pack-light-20-of-the-best-mens-mini-crossbody-bags-in-pictures)
+- [Santander apologises for ‘technical problem’ that affected online and card payments](https://www.theguardian.com/business/2021/may/15/santander-apologises-for-technical-problem-that-affected-online-and-card-payments)
+- [Champions League qualification would not spark spending spree, says Klopp](https://www.theguardian.com/football/2021/may/15/champions-league-qualification-would-not-spark-spending-spree-says-klopp)
+- [West Ham‘s top-four hopes fade despite Benrahma salvaging point at Brighton](https://www.theguardian.com/football/2021/may/15/brighton-west-ham-premier-league-match-report)
+- [Pernille Harder: ‘The biggest thing would be to see Magda lift the trophy’](https://www.theguardian.com/football/2021/may/15/pernille-harder-the-biggest-thing-would-be-to-see-magda-lift-the-trophy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

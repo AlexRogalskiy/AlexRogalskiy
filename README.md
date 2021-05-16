@@ -310,16 +310,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Hundreds of Malicious Mobile Apps Promised Financial Peace and Stole Money](https://www.reviewgeek.com/83106/hundreds-of-malicious-mobile-apps-promised-financial-peace-and-stole-money/)
-* [YouTube TV Customers Can Watch Showtime for Free Through May 16th](https://www.reviewgeek.com/83113/youtube-tv-customers-can-watch-showtime-for-free-through-may-16th/)
-* [Netflix is Expanding the 'Ultraman' Universe with a New Movie](https://www.reviewgeek.com/83136/netflix-is-expanding-the-ultraman-universe-with-a-new-movie/)
-* [Rumored Third Gen AirPods and Apple HiFi Music Service Could Arrive Next Week](https://www.reviewgeek.com/83079/rumored-third-gen-airpods-and-apple-hifi-music-service-could-arrive-next-week/)
-* [The 5 Best Alarm Clocks for Heavy Sleepers](https://www.reviewgeek.com/2157/6-best-alarm-clocks-for-deep-sleepers/)
-* [TP-Link's New 2K HD Kasa Smart Cameras and Wi-Fi Plugs Are Here](https://www.reviewgeek.com/83063/tp-links-new-2k-hd-kasa-smart-cameras-and-wi-fi-plugs-are-here/)
-* [Limited-Time Deal: Buy a Wyze Lock, Get a Free Keypad](https://www.reviewgeek.com/83022/limited-time-deal-buy-a-wyze-lock-get-a-free-keypad/)
-* [Friday Deal: Get Eufy's Robot Vacuums up to 44% Off](https://www.reviewgeek.com/83008/friday-deal-get-eufys-robot-vacuums-up-to-44-off/)
-* [Disney Movies Will Hit Disney+ Sooner Thanks to Shortened Theatrical Window](https://www.reviewgeek.com/83000/disney-movies-will-hit-disney-sooner-thanks-to-shortened-theatrical-window/)
-* [LEGO Debuts Preschooler-Friendly Disney Mickey and Friends Sets](https://www.reviewgeek.com/83005/lego-debuts-preschooler-friendly-disney-mickey-and-friends-sets/)
+* [The Truth is Out There with This Interactive UFO Sighting Map](https://www.reviewgeek.com/83179/interactive-map-ufo-sightings-reports/)
+* [You Can Buy the First Bottle of Wine Ever Aged In Outer Space](https://www.reviewgeek.com/83080/you-can-buy-the-first-bottle-of-wine-ever-aged-in-outer-space/)
+* [This Legend Stacked Over 1,500 Jenga Blocks on a Single Vertical Block](https://www.reviewgeek.com/83174/this-legend-stacked-over-1500-jenga-blocks-on-a-single-vertical-block/)
+* [Watch This Driverless Waymo Taxi Block Traffic, Then Go on the Run](https://www.reviewgeek.com/83137/waymo-selfdriving-taxi-blocks-traffic-video-funny/)
+* [How to Preload Games on Xbox Series X and S (No Purchase Necessary)](https://www.howtogeek.com/714301/how-to-preload-games-on-xbox-series-x-and-s-no-purchase-necessary/)
+* [How to Copy Layers from One Photoshop Document to Another](https://www.howtogeek.com/724762/how-to-copy-layers-from-one-photoshop-document-to-another/)
+* [How to Change Your Spotify Username](https://www.howtogeek.com/726816/how-to-change-your-spotify-username/)
+* [The 8 Best Small TVs (up to 32 inches)](https://www.reviewgeek.com/81892/the-8-best-small-tvs-up-to-32-inches/)
+* [How to Get a Refund From the Apple App Store](https://www.howtogeek.com/396239/how-to-get-a-refund-from-the-apple-app-store/)
+* [How to Add and Remove Themes in Microsoft Edge](https://www.howtogeek.com/725974/how-to-add-and-remove-themes-in-microsoft-edge/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

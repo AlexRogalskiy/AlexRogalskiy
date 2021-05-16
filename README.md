@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/Nothing_ventured_nothing_gained_851.php" target="_blank"><i>Nothing ventured, nothing gained</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/The_wages_of_sin_is_death_841.php" target="_blank"><i>The wages of sin is death</i></a>
 <span> = </span>
-<span>We can't expect to achieve anything if we never take any risks.</span>
+<span>If we sin we die. ("Death" here refers not to physical death but to spiritual death or eternal damnation.)</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

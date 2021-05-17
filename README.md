@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
-- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
-- [Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
-- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
-- [Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB](https://www.linkedin.com/pulse/lessons-learned-creating-real-time-multiplayer-game-nun-k%25C3%25B6hler/)
-- [Making Your Own Tools](https://futureofcoding.org/episodes/044)
-- [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
-- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
+- [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
+- [Federal Gov. left ‘completely blind’ on cyberattacks looks to force reporting](https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406)
+- [A Former CIA Chief of Disguise Shows Off a Five-Second Mask](https://www.atlasobscura.com/videos/cia-chief-of-disguise-hollywood-mask)
+- [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
+- [Busy Being Born (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt)
+- [Fullerton settles lawsuit against bloggers for publishing City Hall documents](https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/)
+- [The search for a perfect access control system](https://goteleport.com/blog/access-controls/)
+- [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
+- [An iOS app update that annoys me](https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

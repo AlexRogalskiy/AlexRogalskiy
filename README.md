@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career path advice](https://www.reddit.com/r/InformationTechnology/comments/ndsnd3/career_path_advice/)
+- [ISO/OSI in depth: Network vs. Transport](https://www.reddit.com/r/InformationTechnology/comments/ndnv0b/isoosi_in_depth_network_vs_transport/)
+- [Career change](https://www.reddit.com/r/InformationTechnology/comments/ndj8g8/career_change/)
 - [it business](https://www.reddit.com/r/InformationTechnology/comments/ndduhd/it_business/)
+- [What type of equipment should I get for a work from home helpdesk job?](https://www.reddit.com/r/InformationTechnology/comments/ndazf9/what_type_of_equipment_should_i_get_for_a_work/)
 - [Getting back to the office after COVID](https://www.reddit.com/r/InformationTechnology/comments/nd2xlu/getting_back_to_the_office_after_covid/)
 - [IT degree or certificate?](https://www.reddit.com/r/InformationTechnology/comments/nd2n2c/it_degree_or_certificate/)
 - [CCT or CCNA](https://www.reddit.com/r/InformationTechnology/comments/ncahmt/cct_or_ccna/)
 - [Digital Engineer Specialist In Infosys](https://www.reddit.com/r/InformationTechnology/comments/nc9bsx/digital_engineer_specialist_in_infosys/)
 - [What are the differences between cloud-based SaaS/PaaS/BaaS softwares?](https://www.reddit.com/r/InformationTechnology/comments/nc6wy1/what_are_the_differences_between_cloudbased/)
-- [Internships](https://www.reddit.com/r/InformationTechnology/comments/nc05u3/internships/)
-- [I need help](https://www.reddit.com/r/InformationTechnology/comments/nbzh41/i_need_help/)
-- [How to minimize cost for annual certifications renewals?](https://www.reddit.com/r/InformationTechnology/comments/nbxhno/how_to_minimize_cost_for_annual_certifications/)
-- [Job outlook for IT?](https://www.reddit.com/r/InformationTechnology/comments/nbr86v/job_outlook_for_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

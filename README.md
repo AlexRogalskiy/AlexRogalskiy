@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Undercover police frequently spied on children, inquiry hears](https://www.theguardian.com/uk-news/2021/may/12/undercover-police-frequently-spied-on-children-inquiry-hears)
-- [The Egg and I](https://en.wikipedia.org/wiki/The_Egg_and_I)
-- [Peak Non-Creepy Dating Pool](https://flowingdata.com/projects/2018/dating-pool/)
-- [Is there a software to de-blue a video?](https://news.ycombinator.com/item?id=27170785)
-- [Life as a 90s Russian newspaper photographer, shooting on a cheap Soviet camera](https://kosmofoto.com/2021/03/life-as-a-1990s-russian-newspaper-photographer-shooting-on-a-zenit-e/)
-- [The Gatekeepers Who Get to Decide What Food Is “Disgusting”](https://www.newyorker.com/magazine/2021/05/17/the-gatekeepers-who-get-to-decide-what-food-is-disgusting)
-- [Popular Russian hacking forum XSS bans all ransomware topics](https://www.bleepingcomputer.com/news/security/popular-russian-hacking-forum-xss-bans-all-ransomware-topics/)
-- [Deploy Scikit Models from DeepNote on Inferrd.com](https://inferrd.com/blog/deploy-scikit-deepnote-inferrd)
-- [Ask HN: What's your death plan? Deadman switch?](https://news.ycombinator.com/item?id=27170709)
-- [Bruce Garlow](https://www.legacy.com/obituaries/berkshire/obituary.aspx?n=bruce-garlow&pid=198581113)
+- [Largest nurses’ union condemns new CDC guidance on masks](https://slate.com/news-and-politics/2021/05/nurses-united-union-condemns-cdc-guidance-masks.html?via=rss)
+- [Toolkit on Limiting Your Inputs](http://toolkit.prashants.in/issues/toolkit-on-limiting-input-592361)
+- [Increased Neutron Levels at Chernobyl-4: How Dangerous Is Corium?](https://hackaday.com/2021/05/14/increased-neutron-levels-at-chernobyl-4-how-dangerous-is-corium/)
+- [Japan to develop passenger spaceships linking world's major cities in 2 hours](https://mainichi.jp/english/articles/20210515/p2a/00m/0sc/013000c)
+- [Remember when microservices were called components?](https://news.ycombinator.com/item?id=27179453)
+- [Get Ready for In-Car Ads](https://gizmodo.com/get-ready-for-in-car-ads-1846888390)
+- [Bitcoin Tumbles After Musk Implies Tesla May Sell Cryptocurrency](https://www.bloomberg.com/news/articles/2021-05-16/musk-implies-tesla-may-sell-or-has-sold-bitcoin-holdings)
+- [Ask HN: Does CPI Hide Inflation](https://news.ycombinator.com/item?id=27179400)
+- [Show HN: Free open-source isolated browser for security](https://github.com/i5ik/ViewFinderJS)
+- [Taking ML to production with Rust: a 25x speedup (2019)](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

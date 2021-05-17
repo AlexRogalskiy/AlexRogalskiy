@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/knock_over_1437.php" target="_blank"><i>knock over</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Shortened_Words/ammo_1134.php" target="_blank"><i>ammo</i></a>
 <span> = </span>
-<span>to rob a store or a bank</span>
+<span>ammunition</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

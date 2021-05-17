@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [The Truth is Out There with This Interactive UFO Sighting Map](https://www.reviewgeek.com/83179/interactive-map-ufo-sightings-reports/)
-* [You Can Buy the First Bottle of Wine Ever Aged In Outer Space](https://www.reviewgeek.com/83080/you-can-buy-the-first-bottle-of-wine-ever-aged-in-outer-space/)
-* [This Legend Stacked Over 1,500 Jenga Blocks on a Single Vertical Block](https://www.reviewgeek.com/83174/this-legend-stacked-over-1500-jenga-blocks-on-a-single-vertical-block/)
-* [Watch This Driverless Waymo Taxi Block Traffic, Then Go on the Run](https://www.reviewgeek.com/83137/waymo-selfdriving-taxi-blocks-traffic-video-funny/)
-* [How to Preload Games on Xbox Series X and S (No Purchase Necessary)](https://www.howtogeek.com/714301/how-to-preload-games-on-xbox-series-x-and-s-no-purchase-necessary/)
-* [How to Copy Layers from One Photoshop Document to Another](https://www.howtogeek.com/724762/how-to-copy-layers-from-one-photoshop-document-to-another/)
-* [How to Change Your Spotify Username](https://www.howtogeek.com/726816/how-to-change-your-spotify-username/)
-* [The 8 Best Small TVs (up to 32 inches)](https://www.reviewgeek.com/81892/the-8-best-small-tvs-up-to-32-inches/)
-* [How to Get a Refund From the Apple App Store](https://www.howtogeek.com/396239/how-to-get-a-refund-from-the-apple-app-store/)
-* [How to Add and Remove Themes in Microsoft Edge](https://www.howtogeek.com/725974/how-to-add-and-remove-themes-in-microsoft-edge/)
+* [A Brain Implant Helped a Paralyzed Man Turn Thought Into Text](https://www.reviewgeek.com/83180/a-brain-implant-helped-a-paralyzed-man-turn-thought-into-text/)
+* [Amazon Destroyed 2 Million Counterfeit Products in 2020](https://www.reviewgeek.com/83172/amazon-destroyed-2-million-counterfeit-products-in-2020/)
+* [See an X-Wing from 'Star Wars' Next Year at the Smithsonian](https://www.reviewgeek.com/83183/see-an-x-wing-from-star-wars-next-year-at-the-smithsonian/)
+* [This Idiot Angler Fish Washed Up on a Beach and Ugh It's Terrifying](https://www.reviewgeek.com/83152/this-idiot-angler-fish-washed-up-on-a-beach-and-ugh-its-terrifying/)
+* [How to Update Your Amazon Kindle](https://www.howtogeek.com/725610/how-to-update-your-amazon-kindle/)
+* [How to Use Multiple Page Orientations at Once in Google Docs](https://www.howtogeek.com/726950/how-to-use-multiple-page-orientations-at-once-in-google-docs/)
+* [How to Add an Image to a PDF with Preview on Mac](https://www.howtogeek.com/722971/how-to-add-an-image-to-a-pdf-with-preview-on-mac/)
+* [How to Reset Adobe Photoshop Preferences](https://www.howtogeek.com/724968/how-to-reset-adobe-photoshop-preferences/)
+* [Why It's Time to Ditch Your Laptop's Camera and Buy a Real Webcam](https://www.reviewgeek.com/81747/why-its-time-to-ditch-your-laptops-camera-and-buy-a-real-webcam/)
+* [How to Close Microsoft Teams Completely When You Close the App](https://www.howtogeek.com/724895/how-to-close-microsoft-teams-completely-when-you-close-the-app/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

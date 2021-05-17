@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Badness/The_wages_of_sin_is_death_841.php" target="_blank"><i>The wages of sin is death</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/If_you_can_t_beat_em_join_em_543.php" target="_blank"><i>If you can't beat 'em, join 'em</i></a>
 <span> = </span>
-<span>If we sin we die. ("Death" here refers not to physical death but to spiritual death or eternal damnation.)</span>
+<span>If you cannot win against someone or something, it may be easier or better to join forces with them.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

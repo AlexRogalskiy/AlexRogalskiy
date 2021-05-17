@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New York City Pride organisers to ban police from marching until 2025](https://www.theguardian.com/world/2021/may/16/new-york-city-pride-organisers-to-ban-police-from-marching-until-2025)
-- [North Carolina jury awards $75m to brothers wrongly convicted of 1983 murder](https://www.theguardian.com/us-news/2021/may/16/north-carolina-jury-awards-75m-to-brothers-wrongly-convicted-of-1983)
-- [Eco investors turn up the heat on Shell over climate target](https://www.theguardian.com/business/2021/may/16/eco-investors-turn-up-heat-on-shell-over-climate-target)
-- [Charles to open up palaces to the public when he becomes king – reports](https://www.theguardian.com/uk-news/2021/may/16/charles-to-open-up-palaces-to-the-public-when-he-becomes-king-reports)
-- [Bold blouses: 20 of the best statement shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/bold-blouses-20-of-the-best-statement-shirts-in-pictures)
-- [Pack light: 20 of the best men’s mini crossbody bags – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/15/pack-light-20-of-the-best-mens-mini-crossbody-bags-in-pictures)
-- [Santander apologises for ‘technical problem’ that affected online and card payments](https://www.theguardian.com/business/2021/may/15/santander-apologises-for-technical-problem-that-affected-online-and-card-payments)
-- [Champions League qualification would not spark spending spree, says Klopp](https://www.theguardian.com/football/2021/may/15/champions-league-qualification-would-not-spark-spending-spree-says-klopp)
-- [West Ham‘s top-four hopes fade despite Benrahma salvaging point at Brighton](https://www.theguardian.com/football/2021/may/15/brighton-west-ham-premier-league-match-report)
-- [Pernille Harder: ‘The biggest thing would be to see Magda lift the trophy’](https://www.theguardian.com/football/2021/may/15/pernille-harder-the-biggest-thing-would-be-to-see-magda-lift-the-trophy)
+- [Big Short author Michael Lewis on the inside story of America’s failed Covid response](https://www.theguardian.com/news/audio/2021/may/17/big-short-author-michael-lewis-on-the-inside-story-of-americas-failed-covid-response)
+- [Suez Canal starts work to extend double lane after Ever Given grounding](https://www.theguardian.com/world/2021/may/17/suez-canal-starts-work-to-extend-double-lane-after-ever-given-grounding)
+- [Social care cuts mean thousands with dementia taken to A&E, charity says](https://www.theguardian.com/society/2021/may/17/social-care-cuts-mean-thousands-with-dementia-taken-to-ae-charity-says)
+- [UK ‘faces labour shortage’ as Covid and Brexit fuel exodus of overseas workers](https://www.theguardian.com/business/2021/may/17/uk-faces-labour-shortage-as-covid-and-brexit-fuel-exodus-of-overseas-workers)
+- [Average asking price for UK homes hits record £333,564](https://www.theguardian.com/money/2021/may/17/average-asking-price-for-uk-homes-hits-record-333564)
+- [LGBT+ youths twice as likely to contemplate suicide, survey finds](https://www.theguardian.com/society/2021/may/17/lgbt-youths-twice-as-likely-to-contemplate-suicide-survey-finds)
+- [Mother Earth denied Classic double as Couersamba rides to shock Paris win](https://www.theguardian.com/sport/2021/may/17/mother-earth-denied-classic-double-as-couersamba-rides-to-shock-paris-win)
+- [Delia Derbyshire: The Myths and the Legendary Tapes review – playful paean to a musical pioneer](https://www.theguardian.com/tv-and-radio/2021/may/16/delia-derbyshire-the-myths-and-the-legendary-tapes-review-playful-paean-to-a-musical-pioneer)
+- [Labour proposes new offences for violence against women and girls](https://www.theguardian.com/law/2021/may/16/labour-proposes-new-offences-for-violence-against-women-and-girls)
+- [Barcelona stun Chelsea with early blitz to win Women’s Champions League](https://www.theguardian.com/football/2021/may/16/chelsea-barcelona-womens-champions-league-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

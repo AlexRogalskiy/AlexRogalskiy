@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/T/take_for_granted_26.php" target="_blank"><i>take for granted</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/the_upper_hand_705.php" target="_blank"><i>the upper hand</i></a>
 <span> = </span>
-<span>We can say somebody takes something for granted if they assume it'll always be there for them, and they don't seem thankful for it.</span>
+<span>If you have the upper hand, you have the advantage or you're in the stronger position in a contest or a conflict.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

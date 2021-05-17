@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_1/come_over_1__2765.php" target="_blank"><i>come over (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/set_out_3__2673.php" target="_blank"><i>set out (3)</i></a>
 <span> = </span>
-<span>to visit a place, or to move from one place or country to another<BR></span>
+<span>to explain the details of something, especially in writing</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

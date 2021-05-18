@@ -331,16 +331,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Largest nurses’ union condemns new CDC guidance on masks](https://slate.com/news-and-politics/2021/05/nurses-united-union-condemns-cdc-guidance-masks.html?via=rss)
-- [Toolkit on Limiting Your Inputs](http://toolkit.prashants.in/issues/toolkit-on-limiting-input-592361)
-- [Increased Neutron Levels at Chernobyl-4: How Dangerous Is Corium?](https://hackaday.com/2021/05/14/increased-neutron-levels-at-chernobyl-4-how-dangerous-is-corium/)
-- [Japan to develop passenger spaceships linking world's major cities in 2 hours](https://mainichi.jp/english/articles/20210515/p2a/00m/0sc/013000c)
-- [Remember when microservices were called components?](https://news.ycombinator.com/item?id=27179453)
-- [Get Ready for In-Car Ads](https://gizmodo.com/get-ready-for-in-car-ads-1846888390)
-- [Bitcoin Tumbles After Musk Implies Tesla May Sell Cryptocurrency](https://www.bloomberg.com/news/articles/2021-05-16/musk-implies-tesla-may-sell-or-has-sold-bitcoin-holdings)
-- [Ask HN: Does CPI Hide Inflation](https://news.ycombinator.com/item?id=27179400)
-- [Show HN: Free open-source isolated browser for security](https://github.com/i5ik/ViewFinderJS)
-- [Taking ML to production with Rust: a 25x speedup (2019)](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [Israel Deliberately Forgets Its History](https://mondediplo.com/2008/09/07israel)
+- [Apple sent my data to the FBI, says boss of Sci-Hub](https://www.theregister.com/2021/05/17/sci_hub_apple_fbi_claim/)
+- [Murray Gell-Mann Amnesia effect applies to comments too [pdf]](http://www.sfu.ca/~easton/Econ220W/WhySpeculate.pdf)
+- [Leetcoder talks about their job hunt](https://www.youtube.com/watch?v=5MYPVS91dcY)
+- [Apple Music Lossless requires wired headphones, AirPods only get Spatial Audio](https://9to5mac.com/2021/05/17/apple-music-lossless-requires-wired-headphones-airpods-will-only-get-spatial-audio/)
+- [Scientists unravel a mystery about a naked giant carved into an English hill](https://www.washingtonpost.com/world/europe/cerne-giant-hill-figure/2021/05/16/4203c15a-b407-11eb-bc96-fdf55de43bef_story.html)
+- [Taproot-Activation Consensus Effort – BTC's Largest Update in 4 Years](https://taprootactivation.com/)
+- [Spotlight on Smetana: Russia’s Sour Cream](https://www.themoscowtimes.com/2021/05/15/spotlight-on-smetana-russias-sour-cream-a73909)
+- [Security Headers Quick Reference](https://web.dev/security-headers/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

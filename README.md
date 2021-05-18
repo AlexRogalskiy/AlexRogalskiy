@@ -316,16 +316,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [A Brain Implant Helped a Paralyzed Man Turn Thought Into Text](https://www.reviewgeek.com/83180/a-brain-implant-helped-a-paralyzed-man-turn-thought-into-text/)
-* [Amazon Destroyed 2 Million Counterfeit Products in 2020](https://www.reviewgeek.com/83172/amazon-destroyed-2-million-counterfeit-products-in-2020/)
-* [See an X-Wing from 'Star Wars' Next Year at the Smithsonian](https://www.reviewgeek.com/83183/see-an-x-wing-from-star-wars-next-year-at-the-smithsonian/)
-* [This Idiot Angler Fish Washed Up on a Beach and Ugh It's Terrifying](https://www.reviewgeek.com/83152/this-idiot-angler-fish-washed-up-on-a-beach-and-ugh-its-terrifying/)
-* [How to Update Your Amazon Kindle](https://www.howtogeek.com/725610/how-to-update-your-amazon-kindle/)
-* [How to Use Multiple Page Orientations at Once in Google Docs](https://www.howtogeek.com/726950/how-to-use-multiple-page-orientations-at-once-in-google-docs/)
-* [How to Add an Image to a PDF with Preview on Mac](https://www.howtogeek.com/722971/how-to-add-an-image-to-a-pdf-with-preview-on-mac/)
-* [How to Reset Adobe Photoshop Preferences](https://www.howtogeek.com/724968/how-to-reset-adobe-photoshop-preferences/)
-* [Why It's Time to Ditch Your Laptop's Camera and Buy a Real Webcam](https://www.reviewgeek.com/81747/why-its-time-to-ditch-your-laptops-camera-and-buy-a-real-webcam/)
-* [How to Close Microsoft Teams Completely When You Close the App](https://www.howtogeek.com/724895/how-to-close-microsoft-teams-completely-when-you-close-the-app/)
+* [Beats Studio Pro Leak Shows Apple Ditching the Ear Hooks, Adding ANC](https://www.reviewgeek.com/83434/beats-studio-pro-leak-shows-apple-ditching-the-ear-hooks-adding-anc/)
+* [Oculus Quest Update Puts You Inside Games With Just an iPhone](https://www.reviewgeek.com/83415/oculus-quest-update-puts-you-inside-games-with-just-an-iphone/)
+* [Mooer's First Guitar Has a Built-In Pedalboard, Drum Machine, and Looper](https://www.reviewgeek.com/83420/mooers-first-guitar-has-a-built-in-pedalboard-drum-machine-and-looper/)
+* [Cloudflare's New CAPTCHA Replacement Needs More Work](https://www.reviewgeek.com/83366/cloudflares-new-captcha-replacement-needs-more-work/)
+* [[Update: SEC Probe] Pricing for Canoo's Bubbly Electric Van is Here and Preorders are Open](https://www.reviewgeek.com/83412/pricing-for-canoos-bubbly-electric-van-is-here-and-preorders-are-open/)
+* [Walmart Discounts Razer's 3-Piece PC Gaming Bundle to $69](https://www.reviewgeek.com/83398/walmart-discounts-razers-3-piece-pc-gaming-bundle-to-69/)
+* [A Former Apple Designer Just Debuted These $1,799 Futuristic Speakers](https://www.reviewgeek.com/83399/a-former-apple-designer-just-debuted-these-1799-futuristic-speakers/)
+* [Paint Your Bathroom This Color to Raise Your Home's Value](https://www.lifesavvy.com/71472/paint-your-bathroom-this-color-to-raise-your-homes-value/)
+* [Samsung Shows off New Double Folding and Rollable Phone Display Concepts](https://www.reviewgeek.com/83341/samsung-shows-off-new-double-folding-and-rollable-phone-display-concepts/)
+* [[Update: Statement] An Eufy Security Bug Let Strangers View and Control Each Others' Camera Feeds](https://www.reviewgeek.com/83346/an-eufy-security-bug-let-strangers-view-and-control-each-others-camera-feeds/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

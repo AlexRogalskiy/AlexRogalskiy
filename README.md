@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/If_you_can_t_beat_em_join_em_543.php" target="_blank"><i>If you can't beat 'em, join 'em</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/He_that_wills_the_end_wills_the_means_962.php" target="_blank"><i>He that wills the end wills the means</i></a>
 <span> = </span>
-<span>If you cannot win against someone or something, it may be easier or better to join forces with them.</span>
+<span>If you are determined to do something you will find the way to do it.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

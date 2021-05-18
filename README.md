@@ -436,16 +436,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What classes would I have to take if I were to major in Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/netec2/what_classes_would_i_have_to_take_if_i_were_to/)
+- [How to scan numbers to excel using a reliable device/app? (help the intern!!) I'm working for a big company and I want to find a device to scan numbers (mostly consist of 14 numbers) to an excel file. It should be a reliable device and not a scrappy android app. Who can help me??](https://www.reddit.com/r/InformationTechnology/comments/neia6g/how_to_scan_numbers_to_excel_using_a_reliable/)
+- [Cofounder](https://www.reddit.com/r/InformationTechnology/comments/ne8erg/cofounder/)
+- [A+ 1001 on Tuesday](https://www.reddit.com/r/InformationTechnology/comments/ne7wz3/a_1001_on_tuesday/)
 - [Career path advice](https://www.reddit.com/r/InformationTechnology/comments/ndsnd3/career_path_advice/)
 - [ISO/OSI in depth: Network vs. Transport](https://www.reddit.com/r/InformationTechnology/comments/ndnv0b/isoosi_in_depth_network_vs_transport/)
 - [Career change](https://www.reddit.com/r/InformationTechnology/comments/ndj8g8/career_change/)
 - [it business](https://www.reddit.com/r/InformationTechnology/comments/ndduhd/it_business/)
 - [What type of equipment should I get for a work from home helpdesk job?](https://www.reddit.com/r/InformationTechnology/comments/ndazf9/what_type_of_equipment_should_i_get_for_a_work/)
 - [Getting back to the office after COVID](https://www.reddit.com/r/InformationTechnology/comments/nd2xlu/getting_back_to_the_office_after_covid/)
-- [IT degree or certificate?](https://www.reddit.com/r/InformationTechnology/comments/nd2n2c/it_degree_or_certificate/)
-- [CCT or CCNA](https://www.reddit.com/r/InformationTechnology/comments/ncahmt/cct_or_ccna/)
-- [Digital Engineer Specialist In Infosys](https://www.reddit.com/r/InformationTechnology/comments/nc9bsx/digital_engineer_specialist_in_infosys/)
-- [What are the differences between cloud-based SaaS/PaaS/BaaS softwares?](https://www.reddit.com/r/InformationTechnology/comments/nc6wy1/what_are_the_differences_between_cloudbased/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

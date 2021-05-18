@@ -421,16 +421,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Colonial Pipeline paid $5m ransom, reports say](https://www.computerweekly.com/news/252500782/Colonial-Pipeline-paid-5m-ransom-reports-say)
-- [Amazon to create 10,000 new UK jobs in 2021 across online retail and cloud computing divisions](https://www.computerweekly.com/news/252500790/Amazon-to-create-10000-new-UK-jobs-in-2021-across-online-retail-and-cloud-computing-divisions)
-- [Irish health service hit by major ransomware attack](https://www.computerweekly.com/news/252500777/Irish-health-service-hit-by-major-ransomware-attack)
-- [Digital bootcamp initiative could kickstart new thinking about technology skills](https://www.computerweekly.com/opinion/Digital-bootcamp-initiative-could-kickstart-new-thinking-about-technology-skills)
-- [More former subpostmasters have criminal convictions quashed](https://www.computerweekly.com/news/252500762/More-former-subpostmasters-have-criminal-convictions-quashed)
-- [Dutch police used deep learning model to predict threats to life](https://www.computerweekly.com/news/252500738/Dutch-police-used-deep-learning-model-to-predict-threats-to-life)
-- [Cabinet Office launches climate challenges for startups](https://www.computerweekly.com/news/252500739/Cabinet-Office-launches-climate-challenges-for-startups)
-- [The shape of fraud and cyber crime: 10 things we learned from 2020](https://www.computerweekly.com/opinion/The-shape-of-fraud-and-cyber-crime-10-things-we-learned-from-2020)
-- [Financial and technical obstacles hit Danish datacentre heat recycling plan](https://www.computerweekly.com/news/252500713/Financial-and-technical-obstacles-hit-Danish-datacentre-heat-recycling-plan)
-- [Portworx gets container-native array management for Pure hardware](https://www.computerweekly.com/news/252500580/Portworx-gets-container-native-array-management-for-Pure-hardware)
+- [AWS sets out plans to expand re/Start cloud skills programme across more of the UK and Ireland](https://www.computerweekly.com/news/252500933/AWS-sets-out-plans-to-expand-re-Start-cloud-skills-programme-across-more-of-the-UK-and-Ireland)
+- [Half of UK workforce lacks essential digital skills for work](https://www.computerweekly.com/news/252500929/Half-of-UK-workforce-lacks-essential-digital-skills-for-work)
+- [Conti ransomware syndicate behind attack on Irish health service](https://www.computerweekly.com/news/252500905/Conti-ransomware-syndicate-behind-attack-on-Irish-health-service)
+- [IR35 reforms: Government gifted roadmap to umbrella regulation by ex-senior policy adviser](https://www.computerweekly.com/news/252500844/IR35-reforms-Government-gifted-roadmap-to-umbrella-regulation-by-ex-senior-policy-adviser)
+- [Oxford University uses Oracle Cloud to speed up analysis of Covid-19 variants](https://www.computerweekly.com/news/252500841/Oxford-University-uses-Oracle-Cloud-to-speed-up-analysis-of-Covid-19-variants)
+- [NCSC study to probe disability and neurodiversity in cyber](https://www.computerweekly.com/news/252500840/NCSC-study-to-probe-disability-and-neurodiversity-in-cyber)
+- [Government seeks input on supply chain security](https://www.computerweekly.com/news/252500839/Government-seeks-input-on-supply-chain-security)
+- [Why new EU rules around artificial intelligence are vital to the development of the sector](https://www.computerweekly.com/opinion/Why-new-EU-rules-around-AI-are-vital-to-the-development-of-the-sector)
+- [Transparency is essential as we enter the era of ‘government by algorithm’](https://www.computerweekly.com/opinion/Transparency-is-essential-as-we-enter-the-era-of-government-by-algorithm)
+- [Container-native storage: A definition, and what to ask suppliers](https://www.computerweekly.com/feature/Container-native-storage-A-definition-and-what-to-ask-suppliers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

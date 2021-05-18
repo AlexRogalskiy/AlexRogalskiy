@@ -361,16 +361,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
-- [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
-- [Federal Gov. left ‘completely blind’ on cyberattacks looks to force reporting](https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406)
-- [A Former CIA Chief of Disguise Shows Off a Five-Second Mask](https://www.atlasobscura.com/videos/cia-chief-of-disguise-hollywood-mask)
-- [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
-- [Busy Being Born (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt)
-- [Fullerton settles lawsuit against bloggers for publishing City Hall documents](https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/)
-- [The search for a perfect access control system](https://goteleport.com/blog/access-controls/)
-- [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
-- [An iOS app update that annoys me](https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27190219)
+- [Saying the Difficult Things](https://ethan.katzenberg.co.uk/posts/saying-difficult-things/)
+- [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
+- [Brood X Periodical Cicadas FAQ](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
+- [Can't Unsee](https://cantunsee.space/)
+- [Positions chess engines don't understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
+- [First nuclear detonation created ‘impossible’ quasicrystals](https://www.nature.com/articles/d41586-021-01332-0)
+- [Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2](https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/)
+- [Why Civilization Is Older Than We Thought](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
+- [JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab](https://github.com/jupyterlab/jupyterlab-latex)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

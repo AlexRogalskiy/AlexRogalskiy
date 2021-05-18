@@ -346,16 +346,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Big Short author Michael Lewis on the inside story of America’s failed Covid response](https://www.theguardian.com/news/audio/2021/may/17/big-short-author-michael-lewis-on-the-inside-story-of-americas-failed-covid-response)
-- [Suez Canal starts work to extend double lane after Ever Given grounding](https://www.theguardian.com/world/2021/may/17/suez-canal-starts-work-to-extend-double-lane-after-ever-given-grounding)
-- [Social care cuts mean thousands with dementia taken to A&E, charity says](https://www.theguardian.com/society/2021/may/17/social-care-cuts-mean-thousands-with-dementia-taken-to-ae-charity-says)
-- [UK ‘faces labour shortage’ as Covid and Brexit fuel exodus of overseas workers](https://www.theguardian.com/business/2021/may/17/uk-faces-labour-shortage-as-covid-and-brexit-fuel-exodus-of-overseas-workers)
-- [Average asking price for UK homes hits record £333,564](https://www.theguardian.com/money/2021/may/17/average-asking-price-for-uk-homes-hits-record-333564)
-- [LGBT+ youths twice as likely to contemplate suicide, survey finds](https://www.theguardian.com/society/2021/may/17/lgbt-youths-twice-as-likely-to-contemplate-suicide-survey-finds)
-- [Mother Earth denied Classic double as Couersamba rides to shock Paris win](https://www.theguardian.com/sport/2021/may/17/mother-earth-denied-classic-double-as-couersamba-rides-to-shock-paris-win)
-- [Delia Derbyshire: The Myths and the Legendary Tapes review – playful paean to a musical pioneer](https://www.theguardian.com/tv-and-radio/2021/may/16/delia-derbyshire-the-myths-and-the-legendary-tapes-review-playful-paean-to-a-musical-pioneer)
-- [Labour proposes new offences for violence against women and girls](https://www.theguardian.com/law/2021/may/16/labour-proposes-new-offences-for-violence-against-women-and-girls)
-- [Barcelona stun Chelsea with early blitz to win Women’s Champions League](https://www.theguardian.com/football/2021/may/16/chelsea-barcelona-womens-champions-league-final-match-report)
+- [How worrying is the India coronavirus variant for UK plans to unlock this summer?](https://www.theguardian.com/world/audio/2021/may/18/how-worrying-is-the-india-coronavirus-variant-for-uk-plans-to-unlock-this-summer)
+- [Joe Biden expresses support for ceasefire on call with Netanyahu – as it happened](https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live)
+- [More than 5,000 migrants reach Spain’s north African enclave Ceuta in a day](https://www.theguardian.com/world/2021/may/17/record-1000-migrants-reach-spains-north-african-enclave-ceuta-in-a-day)
+- [Twenty firms produce 55% of world’s plastic waste, report reveals](https://www.theguardian.com/environment/2021/may/18/twenty-firms-produce-55-of-worlds-plastic-waste-report-reveals)
+- [UK economy could resemble that of Italy by end of 2020s – report](https://www.theguardian.com/politics/2021/may/18/uk-economy-could-resemble-italy-by-end-of-2020s-covid-brexit-climate)
+- [Kiyan Prince’s legacy lives on for Queens Park Rangers in Fifa 21](https://www.theguardian.com/football/2021/may/18/kiyan-princes-legacy-lives-on-for-queens-park-rangers-in-fifa-21)
+- [Ambulance crews in England to use iPads to assess accident and stroke victims](https://www.theguardian.com/society/2021/may/18/ambulance-crews-in-england-to-use-ipads-to-assess-accident-and-stroke-victims)
+- [UK schools voice objections to ‘propping up’ Covid test and trace system, unpaid](https://www.theguardian.com/world/2021/may/18/uk-schools-voice-objections-to-propping-up-covid-test-and-trace-system-unpaid)
+- [Israel-Gaza conflict: 200 Palestinians killed in a week, say officials](https://www.theguardian.com/world/2021/may/17/israel-gaza-conflict-200-palestinians-killed-in-a-week-say-officials)
+- [The Nevers review – not even magical aliens can save this cursed mess](https://www.theguardian.com/tv-and-radio/2021/may/17/the-nevers-review-not-even-magical-aliens-can-save-this-cursed-mess)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

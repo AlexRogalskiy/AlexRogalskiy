@@ -451,16 +451,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Google Cloud to use Starlink satellite internet to its data centres](https://www.itworldcanada.com/article/google-cloud-to-use-starlink-satellite-internet-to-its-data-centres/447399)
+- [Cyber Security Today, May 17, 2021 – The latest on ransomware gangs and their strategies](https://www.itworldcanada.com/article/cyber-security-today-may-17-2021-the-latest-on-ransomware-gangs-and-their-strategies/447401)
+- [Google Canada commits $2 million to reskill job seekers](https://www.itworldcanada.com/article/google-canada-commits-2-million-to-reskill-job-seekers/447413)
+- [Hashtag Trending, May 17, 2021 – Twitter subscription service; Remote worker engagement; Ireland Health Services ransomware attack](https://www.itworldcanada.com/article/hashtag-trending-may-17-2021-twitter-subscription-service-remote-worker-engagement-ireland-health-services-ransomware-attack/447404)
+- [Google Cloud to use Starlink satellite internet for its data centres](https://www.itworldcanada.com/article/google-cloud-to-use-starlink-satellite-internet-to-its-data-centres/447399)
 - [Cyber Security Today, Week in Review for May 14, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-14-2021/447341)
 - [2021 Digital Transformation and CIO of the Year nomination deadline extended](https://www.itworldcanada.com/article/2021-digital-transformation-and-cio-of-the-year-nomination-deadline-extended/447370)
 - [The bulk of data breaches have a human element, says Verizon report](https://www.itworldcanada.com/article/the-bulk-of-data-breaches-have-a-human-element-says-verizon-report/447343)
 - [Cyber Security Today, May 14, 2021 – Beware of fileless malware, a Wi-Fi warning and more](https://www.itworldcanada.com/article/cyber-security-today-may-14-2021-beware-of-fileless-malware-a-wi-fi-warning-and-more/447337)
 - [Hashtag Trending, May 14, 2021 – Tesla tanks Bitcoin; ebay to sell NFTs; Wattpad expands its business](https://www.itworldcanada.com/article/hashtag-trending-may-14-2021-tesla-tanks-bitcoin-ebay-to-sell-nfts-wattpad-expands-its-business/447354)
 - [Darktrace partners with Microsoft to help organizations close the security gaps across cloud environments](https://www.itworldcanada.com/article/darktrace-partners-with-microsoft-to-help-organizations-close-the-security-gaps-across-cloud-environments/447332)
-- [Advice for SMBs: Focus on cybersecurity basics](https://www.itworldcanada.com/article/advice-for-smbs-focus-on-cybersecurity-basics/447305)
-- [IBM looks to address business AI adoption challenges with AutoSQL and partner program changes](https://www.itworldcanada.com/article/ibm-looks-to-address-business-ai-adoption-challenges-with-autosql-and-partner-program-changes/447314)
-- [Hashtag Trending, May 13, 2021- Xiaomi removed from trade ban list; Amazon ‘hire-to-fire’; new Google data centre in Quebec](https://www.itworldcanada.com/article/hashtag-trending-may-13-2021-xiaomi-removed-from-trade-ban-list-amazon-hire-to-fire-new-google-data-centre-in-quebec/447308)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

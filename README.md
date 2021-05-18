@@ -376,16 +376,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: When is it time to upgrade? Device lifecycles and upgrade timelines](https://www.computerworld.com/article/3619059/when-is-it-time-to-upgrade-device-lifecycles-and-upgrade-timelines.html#tk.rss_all)
+- [For Windows users, tips on fighting ransomware attacks](https://www.computerworld.com/article/3619012/for-windows-users-tips-on-fighting-ransomware-attacks.html#tk.rss_all)
+- [Cloud-based thin-client Macs become a reality](https://www.computerworld.com/article/3619228/cloud-based-thin-client-macs-become-a-reality.html#tk.rss_all)
+- [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [Google makes a big security change, but other companies must follow](https://www.computerworld.com/article/3618776/google-makes-a-big-security-change-but-other-companies-must-follow.html#tk.rss_all)
+- [15 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/15-ways-to-speed-up-windows-10.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Browser updates are back for the May's Patch Tuesday](https://www.computerworld.com/article/3618990/browser-updates-are-back-for-the-mays-patch-tuesday.html#tk.rss_all)
 - [Upgrade your IT skills and learn how to fight cyber crime for just $30](https://www.computerworld.com/article/3617974/upgrade-your-it-skills-and-learn-how-to-fight-cyber-crime-for-just-30.html#tk.rss_all)
 - [V2 Cloud is the simplest cloud desktop for a distributed workforce](https://www.computerworld.com/article/3617944/v2-cloud-is-the-simplest-cloud-desktop-for-a-distributed-workforce.html#tk.rss_all)
-- [WWDC 2021 is coming, and we know very little about it](https://www.computerworld.com/article/3618845/wwdc-2021-is-coming-and-we-know-very-little-about-it.html#tk.rss_all)
-- [IBM Think: How AI could make big virtual events better than in-person alternatives](https://www.computerworld.com/article/3618763/ibm-think-how-ai-could-make-big-virtual-events-better-than-in-person-alternatives.html#tk.rss_all)
-- [The new, self-organizing workplace](https://www.computerworld.com/article/3618417/the-new-self-organizing-workplace.html#tk.rss_all)
-- [9 Chrome extensions that supercharge Google Drive](https://www.computerworld.com/article/3244125/chrome-extensions-supercharge-google-drive.html#tk.rss_all)
-- [Podcast: M1 iPad Pro outperforms Intel MacBook Pro in early benchmarks](https://www.computerworld.com/article/3618777/podcast-m1-ipad-pro-outperforms-intel-macbook-pro-in-early-benchmarks.html#tk.rss_all)
-- [Social engineering, fake App Stores, hit iOS, Sophos warns](https://www.computerworld.com/article/3618694/social-engineering-fake-app-stores-hit-ios-sophos-warns.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

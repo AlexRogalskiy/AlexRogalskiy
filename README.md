@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Shortened_Words/ammo_1134.php" target="_blank"><i>ammo</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/smart-ass_1574.php" target="_blank"><i>smart-ass</i></a>
 <span> = </span>
-<span>ammunition</span>
+<span>a person who's annoying because they try to show how clever and knowledgeable they are (n.) | having an annoying way of trying to seem clever (adj.)</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

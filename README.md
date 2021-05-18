@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/the_upper_hand_705.php" target="_blank"><i>the upper hand</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Health/teething_problems_teething_troubles_487.php" target="_blank"><i>teething problems | teething troubles</i></a>
 <span> = </span>
-<span>If you have the upper hand, you have the advantage or you're in the stronger position in a contest or a conflict.<BR></span>
+<span>If someone or something is having teething problems, or teething troubles, they're having problems during the early stages of something.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

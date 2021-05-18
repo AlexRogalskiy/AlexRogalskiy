@@ -241,38 +241,18 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651362888867610624" target="_blank"><i>An Owl</i></a></summary>
-<p>by David Bottoms</p><p>
- Twice through my bedroom window<br/>
- I’ve seen the horned owl drop from the oaks to panic   <br/>
- the rabbit in my neighbor’s backyard.<br/>
- Last night he paced for an hour across the top   <br/>
- of the cage, scrutinizing<br/>
- the can of water, the mound of pellets,<br/>
- turning his genius to the riddle<br/>
- of the wire, while under him<br/>
- the rabbit balled like a fat carnation in the wind.<br/><br/>
- Both of the terriers yapped from their porch   <br/>
- but the owl never flinched, pacing,<br/>
- clawing the wire, spreading wings like a gray cape,   <br/>
- leaping, straining to lift the whole cage,<br/>
- and the cage rocking<br/>
- on its stilts, settling, and rocking again,<br/>
- until he settled with it, paused,<br/>
- and returned to a thought.<br/><br/>
- And the rabbit, ignorant of mercy,   <br/>
- curled on itself in that white drift   <br/>
- of feathers?<br/><br/>
- Wait, three years and I haven’t escaped the child   <br/>
- I saw at Northside the night   <br/>
- my daughter was born,<br/><br/>
- a little brown sack of twigs<br/>
- curled under glass, eyes bulging,<br/>
- trembling in the monitors,<br/>
- and the nurses<br/>
- rolling the newborns out to nurse,<br/>
- and the shadows sweeping the nursery.   
-            <br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/651453465715982336" target="_blank"><i>Four in the Morning</i></a></summary>
+<p>by Wislawa Szymborska</p><p>The hour from night to day.</p><p>
+The hour from side to side.</p><p>
+The hour for those past thirty.</p><p>The hour swept clean to the crowing of cocks.<br/>
+The hour when earth betrays us.<br/>
+The hour when wind blows from extinguished stars.<br/>
+The hour of and-what-if-nothing-remains-after-us.</p><p>The hollow hour.<br/>
+Blank, empty.<br/>
+The very pit of all other hours.</p><p>No one feels good at four in the morning.<br/>
+If ants feel good at four in the morning<br/>
+–three cheers for the ants. And let five o'clock come<br/>
+if we’re to go on living.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

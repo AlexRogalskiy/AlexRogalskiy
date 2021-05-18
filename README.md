@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;51&#x2F;86&#x2F;30&#x2F;5186304f229eccd0f60a530fd6921942.jpg" alt="Did you wake up to the sound of your phone juddering? Judder is the Word of the Day. Want more examples? Click to learn more. #Vocabulary #Learn #English" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;a4&#x2F;cd&#x2F;1ba4cd031cae05361edf72798836b8b2.jpg" alt="Pecuniary is the Word of the Day, but this one is on the house.⁠ ⁠ Click for example sentences, pronunciation, and more from the world&#39;s leading digital dictionary. #English #Vocabulary #Writing" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;12&#x2F;90&#x2F;68&#x2F;12906864a586c63a9fe7aca2b4b8fd14.jpg" alt="Psst. Hey, Monday. We think Sunday&#39;s Word of the Day is talking about you. It&#39;s nudnik. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;c1&#x2F;1d&#x2F;48&#x2F;c11d480deeef6aef40bf95b7dfc298d8.jpg" alt="Tell us some tales of derring-do. It&#39;s our Word of the Day. Click to learn its history, get example sentences, and more. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0a&#x2F;42&#x2F;4f&#x2F;0a424f3155dd6fa1253e3b6ab5b518ec.jpg" alt="This #WordOfTheDay sounds like an insult, but it definitely isn&#39;t one. It&#39;s pulchritudinous. See where it comes from at Dictionary.com. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -283,7 +283,7 @@ if we’re to go on living.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>25°C (<i>clear sky</i>), humidity: 63%, pressure: 999 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>27°C (<i>light rain</i>), humidity: 80%, pressure: 1003 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:15 am</b> and sets at <b>21:35 pm</b>.
     </p>

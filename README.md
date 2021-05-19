@@ -311,16 +311,16 @@ if we’re to go on living.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- [Israel Deliberately Forgets Its History](https://mondediplo.com/2008/09/07israel)
-- [Apple sent my data to the FBI, says boss of Sci-Hub](https://www.theregister.com/2021/05/17/sci_hub_apple_fbi_claim/)
-- [Murray Gell-Mann Amnesia effect applies to comments too [pdf]](http://www.sfu.ca/~easton/Econ220W/WhySpeculate.pdf)
-- [Leetcoder talks about their job hunt](https://www.youtube.com/watch?v=5MYPVS91dcY)
-- [Apple Music Lossless requires wired headphones, AirPods only get Spatial Audio](https://9to5mac.com/2021/05/17/apple-music-lossless-requires-wired-headphones-airpods-will-only-get-spatial-audio/)
-- [Scientists unravel a mystery about a naked giant carved into an English hill](https://www.washingtonpost.com/world/europe/cerne-giant-hill-figure/2021/05/16/4203c15a-b407-11eb-bc96-fdf55de43bef_story.html)
-- [Taproot-Activation Consensus Effort – BTC's Largest Update in 4 Years](https://taprootactivation.com/)
-- [Spotlight on Smetana: Russia’s Sour Cream](https://www.themoscowtimes.com/2021/05/15/spotlight-on-smetana-russias-sour-cream-a73909)
-- [Security Headers Quick Reference](https://web.dev/security-headers/)
+- [It is understandable that many Americans feel left behind](https://twitter.com/secyellen/status/1394774997617491971)
+- [Cancel Envy](https://thebulwark.com/cancel-envy/)
+- [The Monopolist Worm in Apple](https://www.wsj.com/articles/the-monopolist-worm-in-apple-11621290094)
+- [Busted Justin Trudeau Caught Using a Fake Apple MacBook](https://www.vice.com/en/article/n7bng8/busted-justin-trudeau-caught-using-a-fake-apple-macbook)
+- [ZX Spectrum Next](https://en.wikipedia.org/wiki/ZX_Spectrum_Next)
+- [MLB Sharp: An Unofficial C# Wrapper for the MLB Stats API](https://github.com/markjamesm/MLB-Sharp)
+- [Ask HN: Is “lowtech” and “up to date” mutually exclusive?](https://news.ycombinator.com/item?id=27203834)
+- [Poor in Tech](http://megelison.com/poor-in-tech)
+- [Did a Rogue NSA Operation Cause the Death of a Greek Telecom Employee? (2006)](https://theintercept.com/2015/09/28/death-athens-rogue-nsa-operation/)
+- [Merlin's Owl (2003)](https://www.laphamsquarterly.org/roundtable/merlins-owl)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

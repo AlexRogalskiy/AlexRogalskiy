@@ -326,16 +326,16 @@ if we’re to go on living.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How worrying is the India coronavirus variant for UK plans to unlock this summer?](https://www.theguardian.com/world/audio/2021/may/18/how-worrying-is-the-india-coronavirus-variant-for-uk-plans-to-unlock-this-summer)
-- [Joe Biden expresses support for ceasefire on call with Netanyahu – as it happened](https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live)
-- [More than 5,000 migrants reach Spain’s north African enclave Ceuta in a day](https://www.theguardian.com/world/2021/may/17/record-1000-migrants-reach-spains-north-african-enclave-ceuta-in-a-day)
-- [Twenty firms produce 55% of world’s plastic waste, report reveals](https://www.theguardian.com/environment/2021/may/18/twenty-firms-produce-55-of-worlds-plastic-waste-report-reveals)
-- [UK economy could resemble that of Italy by end of 2020s – report](https://www.theguardian.com/politics/2021/may/18/uk-economy-could-resemble-italy-by-end-of-2020s-covid-brexit-climate)
-- [Kiyan Prince’s legacy lives on for Queens Park Rangers in Fifa 21](https://www.theguardian.com/football/2021/may/18/kiyan-princes-legacy-lives-on-for-queens-park-rangers-in-fifa-21)
-- [Ambulance crews in England to use iPads to assess accident and stroke victims](https://www.theguardian.com/society/2021/may/18/ambulance-crews-in-england-to-use-ipads-to-assess-accident-and-stroke-victims)
-- [UK schools voice objections to ‘propping up’ Covid test and trace system, unpaid](https://www.theguardian.com/world/2021/may/18/uk-schools-voice-objections-to-propping-up-covid-test-and-trace-system-unpaid)
-- [Israel-Gaza conflict: 200 Palestinians killed in a week, say officials](https://www.theguardian.com/world/2021/may/17/israel-gaza-conflict-200-palestinians-killed-in-a-week-say-officials)
-- [The Nevers review – not even magical aliens can save this cursed mess](https://www.theguardian.com/tv-and-radio/2021/may/17/the-nevers-review-not-even-magical-aliens-can-save-this-cursed-mess)
+- [Nancy Pelosi calls for US diplomatic boycott of Beijing Winter Olympics](https://www.theguardian.com/us-news/2021/may/19/nancy-pelosi-calls-for-us-diplomatic-boycott-of-beijing-winter-olympics)
+- [More than 100 unexploded bombs found in Solomon Islands back yard](https://www.theguardian.com/world/2021/may/19/more-than-100-unexploded-bombs-found-in-solomon-islands-back-yard-second-world-war)
+- [Apple versus Epic: how the Fortnite app led to a legal showdown - podcast](https://www.theguardian.com/news/audio/2021/may/19/apple-versus-epic-how-the-fortnite-app-led-to-a-legal-showdown-podcast)
+- [Chips with everything: how one Taiwanese company drives the world economy](https://www.theguardian.com/world/2021/may/19/chips-with-everything-how-one-taiwanese-company-drives-the-world-economy)
+- [Joe Biden poised to sign anti-Asian American hate crimes bill](https://www.theguardian.com/us-news/2021/may/18/joe-biden-anti-asian-american-hate-crimes-bill)
+- [Tokyo’s restaurateurs rail against alcohol ban as Covid measures bite](https://www.theguardian.com/world/2021/may/19/tokyo-alcohol-ban-covid-lockdown-izakayas-shimbashi)
+- [Clashes in Jerusalem and West Bank amid protests and strikes](https://www.theguardian.com/world/2021/may/18/clashes-in-jerusalem-and-west-bank-amid-protests-and-strikes)
+- [Covid laid bare existing weaknesses in UK government, says NAO](https://www.theguardian.com/world/2021/may/19/covid-laid-bare-existing-weaknesses-in-uk-government-says-nao)
+- [Extra Life: A Short History of Living Longer review – the gobsmacking truth about vaccines](https://www.theguardian.com/tv-and-radio/2021/may/18/extra-life-a-short-history-of-living-longer-review-the-gobsmacking-truth-about-vaccines)
+- [Biden tours Ford facility in Michigan as protests erupt over Gaza-Israeli conflict](https://www.theguardian.com/us-news/2021/may/18/biden-michigan-protests-gaza-israeli-conflict)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -341,16 +341,16 @@ if we’re to go on living.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27190219)
-- [Saying the Difficult Things](https://ethan.katzenberg.co.uk/posts/saying-difficult-things/)
-- [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
-- [Brood X Periodical Cicadas FAQ](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
-- [Can't Unsee](https://cantunsee.space/)
-- [Positions chess engines don't understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
-- [First nuclear detonation created ‘impossible’ quasicrystals](https://www.nature.com/articles/d41586-021-01332-0)
-- [Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2](https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/)
-- [Why Civilization Is Older Than We Thought](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
-- [JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab](https://github.com/jupyterlab/jupyterlab-latex)
+- [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
+- [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
+- [Facebook Calls Links to Depression Inconclusive. These Researchers Disagree](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
+- [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
+- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
+- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
+- [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
+- [The tools and tech I use to run a one-woman hardware company](https://blog.thea.codes/winterblooms-tech-stack/)
+- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

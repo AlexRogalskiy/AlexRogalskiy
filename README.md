@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_1/run_off_with_2383.php" target="_blank"><i>run off with</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/run_1/run_through_2309.php" target="_blank"><i>run through</i></a>
 <span> = </span>
-<span>If you run off with somebody, you leave home secretly in order to be with them.</span>
+<span>to quickly read something like a list or a speech in order to check the details or look for mistakes</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

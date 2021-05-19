@@ -401,16 +401,16 @@ if we’re to go on living.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Post Office Horizon inquiry set to be given statutory status with wider powers](https://www.computerweekly.com/news/252501013/Post-Office-Horizon-inquiry-set-to-be-given-statutory-status-with-wider-powers)
+- [Shift to digital remittances helps sector retain transaction value](https://www.computerweekly.com/news/252501001/Shift-to-digital-remittances-helps-sector-retain-transaction-value)
+- [Microsoft EU data boundary dubbed ‘smoke and mirrors’](https://www.computerweekly.com/news/252500940/Microsoft-EU-data-boundary-dubbed-smoke-and-mirrors)
+- [Santander says sorry for weekend tech outage](https://www.computerweekly.com/news/252500990/Santander-says-sorry-for-weekend-tech-outage)
+- [Government response to National Data Strategy consultation depicts data as ‘asset, not threat’](https://www.computerweekly.com/news/252500988/Government-response-to-National-Data-Strategy-consultation-depicts-data-as-asset-not-threat)
+- [Cisco acquires Kenna Security amid security expansion](https://www.computerweekly.com/news/252500982/Cisco-acquires-Kenna-Security-amid-security-expansion)
+- [Irish High Court dismisses legal bid by Facebook over EU-US data transfers](https://www.computerweekly.com/news/252500983/Irish-High-court-dismisses-legal-bid-by-Facebook-over-EU-US-data-transfers)
+- [The real-life consequences of ransomware attacks](https://www.computerweekly.com/ezine/Computer-Weekly/The-real-life-consequences-of-ransomware-attacks)
+- [Post Office scandal: The rise of computers and the decline of English justice](https://www.computerweekly.com/opinion/The-rise-of-computers-and-the-decline-of-English-justice)
 - [AWS sets out plans to expand re/Start cloud skills programme across more of the UK and Ireland](https://www.computerweekly.com/news/252500933/AWS-sets-out-plans-to-expand-re-Start-cloud-skills-programme-across-more-of-the-UK-and-Ireland)
-- [Half of UK workforce lacks essential digital skills for work](https://www.computerweekly.com/news/252500929/Half-of-UK-workforce-lacks-essential-digital-skills-for-work)
-- [Conti ransomware syndicate behind attack on Irish health service](https://www.computerweekly.com/news/252500905/Conti-ransomware-syndicate-behind-attack-on-Irish-health-service)
-- [IR35 reforms: Government gifted roadmap to umbrella regulation by ex-senior policy adviser](https://www.computerweekly.com/news/252500844/IR35-reforms-Government-gifted-roadmap-to-umbrella-regulation-by-ex-senior-policy-adviser)
-- [Oxford University uses Oracle Cloud to speed up analysis of Covid-19 variants](https://www.computerweekly.com/news/252500841/Oxford-University-uses-Oracle-Cloud-to-speed-up-analysis-of-Covid-19-variants)
-- [NCSC study to probe disability and neurodiversity in cyber](https://www.computerweekly.com/news/252500840/NCSC-study-to-probe-disability-and-neurodiversity-in-cyber)
-- [Government seeks input on supply chain security](https://www.computerweekly.com/news/252500839/Government-seeks-input-on-supply-chain-security)
-- [Why new EU rules around artificial intelligence are vital to the development of the sector](https://www.computerweekly.com/opinion/Why-new-EU-rules-around-AI-are-vital-to-the-development-of-the-sector)
-- [Transparency is essential as we enter the era of ‘government by algorithm’](https://www.computerweekly.com/opinion/Transparency-is-essential-as-we-enter-the-era-of-government-by-algorithm)
-- [Container-native storage: A definition, and what to ask suppliers](https://www.computerweekly.com/feature/Container-native-storage-A-definition-and-what-to-ask-suppliers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

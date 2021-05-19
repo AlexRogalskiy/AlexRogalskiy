@@ -431,16 +431,16 @@ if we’re to go on living.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canada shines on the world stage during SAS Global Forum](https://www.itworldcanada.com/article/canada-shines-on-the-world-stage-during-sas-global-forum/447492)
+- [Telus to invest $17 billion in Ontario’s network through 2024](https://www.itworldcanada.com/article/telus-to-invest-17-billion-in-ontarios-network-through-2024/447426)
+- [Visa Canada announces winners of IFundWomen grant program](https://www.itworldcanada.com/article/visa-canada-announces-winners-of-ifundwomen-grant-program/447470)
+- [Coffee Briefing, May 18, 2021 – KPMG seeks Canada’s next unicorn, AWS and Azure top cloud rankings, and more](https://www.itworldcanada.com/article/coffee-briefing-may-18-2021-kpmg-seeks-canadas-next-unicorn-aws-and-azure-top-cloud-rankings-and-more/447456)
+- [Hashtag Trending, May 18, 2021 – South Korea boosts domestic chip production; Apple lossless music streaming; Sharp’s big camera phone](https://www.itworldcanada.com/article/hashtag-trending-may-18-2021-south-korea-boosts-domestic-chip-production-apple-lossless-music-streaming-sharps-big-camera-phone/447449)
 - [Cyber Security Today, May 17, 2021 – The latest on ransomware gangs and their strategies](https://www.itworldcanada.com/article/cyber-security-today-may-17-2021-the-latest-on-ransomware-gangs-and-their-strategies/447401)
 - [Google Canada commits $2 million to reskill job seekers](https://www.itworldcanada.com/article/google-canada-commits-2-million-to-reskill-job-seekers/447413)
 - [Hashtag Trending, May 17, 2021 – Twitter subscription service; Remote worker engagement; Ireland Health Services ransomware attack](https://www.itworldcanada.com/article/hashtag-trending-may-17-2021-twitter-subscription-service-remote-worker-engagement-ireland-health-services-ransomware-attack/447404)
 - [Google Cloud to use Starlink satellite internet for its data centres](https://www.itworldcanada.com/article/google-cloud-to-use-starlink-satellite-internet-to-its-data-centres/447399)
 - [Cyber Security Today, Week in Review for May 14, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-14-2021/447341)
-- [2021 Digital Transformation and CIO of the Year nomination deadline extended](https://www.itworldcanada.com/article/2021-digital-transformation-and-cio-of-the-year-nomination-deadline-extended/447370)
-- [The bulk of data breaches have a human element, says Verizon report](https://www.itworldcanada.com/article/the-bulk-of-data-breaches-have-a-human-element-says-verizon-report/447343)
-- [Cyber Security Today, May 14, 2021 – Beware of fileless malware, a Wi-Fi warning and more](https://www.itworldcanada.com/article/cyber-security-today-may-14-2021-beware-of-fileless-malware-a-wi-fi-warning-and-more/447337)
-- [Hashtag Trending, May 14, 2021 – Tesla tanks Bitcoin; ebay to sell NFTs; Wattpad expands its business](https://www.itworldcanada.com/article/hashtag-trending-may-14-2021-tesla-tanks-bitcoin-ebay-to-sell-nfts-wattpad-expands-its-business/447354)
-- [Darktrace partners with Microsoft to help organizations close the security gaps across cloud environments](https://www.itworldcanada.com/article/darktrace-partners-with-microsoft-to-help-organizations-close-the-security-gaps-across-cloud-environments/447332)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Will/He_that_wills_the_end_wills_the_means_962.php" target="_blank"><i>He that wills the end wills the means</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/Early_to_bed_and_early_to_rise_makes_a_man_healthy_wealthy_and_wise_529.php" target="_blank"><i>Early to bed and early to rise makes a man healthy, wealthy, and wise</i></a>
 <span> = </span>
-<span>If you are determined to do something you will find the way to do it.</span>
+<span>It is good for us to sleep early in the evening and wake early in the morning.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

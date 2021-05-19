@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/teething_problems_teething_troubles_487.php" target="_blank"><i>teething problems | teething troubles</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_8/a_jack_of_all_trades_78.php" target="_blank"><i>a jack of all trades</i></a>
 <span> = </span>
-<span>If someone or something is having teething problems, or teething troubles, they're having problems during the early stages of something.</span>
+<span>If you're a jack of all trades, you have many skills and can do many different jobs.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -241,18 +241,58 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651453465715982336" target="_blank"><i>Four in the Morning</i></a></summary>
-<p>by Wislawa Szymborska</p><p>The hour from night to day.</p><p>
-The hour from side to side.</p><p>
-The hour for those past thirty.</p><p>The hour swept clean to the crowing of cocks.<br/>
-The hour when earth betrays us.<br/>
-The hour when wind blows from extinguished stars.<br/>
-The hour of and-what-if-nothing-remains-after-us.</p><p>The hollow hour.<br/>
-Blank, empty.<br/>
-The very pit of all other hours.</p><p>No one feels good at four in the morning.<br/>
-If ants feel good at four in the morning<br/>
-–three cheers for the ants. And let five o'clock come<br/>
-if we’re to go on living.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651544076420890624" target="_blank"><i>Running Orders</i></a></summary>
+<p>by Lena Khalaf Tuffaha</p><p>They call us now,<br/>
+ before they drop the bombs.<br/>
+ The phone rings<br/>
+ and someone who knows my first name<br/>
+ calls and says in perfect Arabic<br/>
+ “This is David.”<br/>
+ And in my stupor of sonic booms and glass-shattering symphonies<br/>
+ still smashing around in my head<br/>
+ I think, <i>Do I know any Davids in Gaza?</i><br/>
+ They call us now to say<br/>
+ Run.<br/>
+ You have 58 seconds from the end of this message.<br/>
+ Your house is next.<br/>
+ They think of it as some kind of<br/>
+ war-time courtesy.<br/>
+ It doesn’t matter that<br/>
+ there is nowhere to run to.<br/>
+ It means nothing that the borders are closed<br/>
+ and your papers are worthless<br/>
+ and mark you only for a life sentence<br/>
+ in this prison by the sea<br/>
+ and the alleyways are narrow<br/>
+ and there are more human lives<br/>
+ packed one against the other<br/>
+ more than any other place on earth<br/>
+ Just run.<br/>
+ We aren’t trying to kill you.<br/>
+ It doesn’t matter that<br/>
+ you can’t call us back to tell us<br/>
+ the people we claim to want aren’t in your house<br/>
+ that there’s no one here<br/>
+ except you and your children<br/>
+ who were cheering for Argentina<br/>
+ sharing the last loaf of bread for this week<br/>
+ counting candles left in case the power goes out.<br/>
+ It doesn’t matter that you have children.<br/>
+ You live in the wrong place<br/>
+ and now is your chance to run<br/>
+ to nowhere.<br/>
+ It doesn’t matter<br/>
+ that 58 seconds isn’t long enough<br/>
+ to find your wedding album<br/>
+ or your son’s favorite blanket<br/>
+ or your daughter’s almost completed college application<br/>
+ or your shoes<br/>
+ or to gather everyone in the house.<br/>
+ It doesn’t matter what you had planned.<br/>
+ It doesn’t matter who you are.<br/>
+ Prove you’re human.<br/>
+ Prove you stand on two legs.<br/>
+ Run.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

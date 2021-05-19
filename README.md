@@ -296,16 +296,16 @@ if we’re to go on living.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Beats Studio Pro Leak Shows Apple Ditching the Ear Hooks, Adding ANC](https://www.reviewgeek.com/83434/beats-studio-pro-leak-shows-apple-ditching-the-ear-hooks-adding-anc/)
-* [Oculus Quest Update Puts You Inside Games With Just an iPhone](https://www.reviewgeek.com/83415/oculus-quest-update-puts-you-inside-games-with-just-an-iphone/)
-* [Mooer's First Guitar Has a Built-In Pedalboard, Drum Machine, and Looper](https://www.reviewgeek.com/83420/mooers-first-guitar-has-a-built-in-pedalboard-drum-machine-and-looper/)
-* [Cloudflare's New CAPTCHA Replacement Needs More Work](https://www.reviewgeek.com/83366/cloudflares-new-captcha-replacement-needs-more-work/)
-* [[Update: SEC Probe] Pricing for Canoo's Bubbly Electric Van is Here and Preorders are Open](https://www.reviewgeek.com/83412/pricing-for-canoos-bubbly-electric-van-is-here-and-preorders-are-open/)
-* [Walmart Discounts Razer's 3-Piece PC Gaming Bundle to $69](https://www.reviewgeek.com/83398/walmart-discounts-razers-3-piece-pc-gaming-bundle-to-69/)
-* [A Former Apple Designer Just Debuted These $1,799 Futuristic Speakers](https://www.reviewgeek.com/83399/a-former-apple-designer-just-debuted-these-1799-futuristic-speakers/)
-* [Paint Your Bathroom This Color to Raise Your Home's Value](https://www.lifesavvy.com/71472/paint-your-bathroom-this-color-to-raise-your-homes-value/)
-* [Samsung Shows off New Double Folding and Rollable Phone Display Concepts](https://www.reviewgeek.com/83341/samsung-shows-off-new-double-folding-and-rollable-phone-display-concepts/)
-* [[Update: Statement] An Eufy Security Bug Let Strangers View and Control Each Others' Camera Feeds](https://www.reviewgeek.com/83346/an-eufy-security-bug-let-strangers-view-and-control-each-others-camera-feeds/)
+* [Everything Google Announced At the I/O 2021 Keynote](https://www.reviewgeek.com/83586/everything-google-announced-at-the-i-o-2021-keynote/)
+* [The First Android 12 Beta Arrives with Big Changes in Tow](https://www.reviewgeek.com/83617/the-first-android-12-beta-arrives-with-big-changes-in-tow/)
+* [Deep-Learning AI is Helping Google Assess Health Issues Directly in Search](https://www.reviewgeek.com/83638/deep-learning-ai-is-helping-google-assess-health-issues-directly-in-search/)
+* [How to Install Docker and Docker Compose on Linux](https://www.cloudsavvyit.com/10623/how-to-install-docker-and-docker-compose-on-linux/)
+* [Samsung, Google, and Fitbit Team up to (Maybe) Make Wear OS Watches Suck Less](https://www.reviewgeek.com/83577/samsung-google-fitbit-team-up-to-make-wear-os-watches-suck-less/)
+* [Holy Crap: Google Invented a Magical 3D Window](https://www.reviewgeek.com/83572/holy-crap-google-invented-a-magical-3d-window/)
+* [Google Photos Adds Tons of Memory-Building (And Memory-Hiding) Features](https://www.reviewgeek.com/83566/google-photos-adds-tons-of-memory-building-and-memory-hiding-features/)
+* [Google is Supercharging Shopping with Lens, Cart Tracking, and More](https://www.reviewgeek.com/83573/google-is-supercharging-shopping-with-lens-cart-tracking-and-more/)
+* [What Are Enums (Enumerated Types) in Programming, And Why Are They Useful?](https://www.cloudsavvyit.com/10566/what-are-enums-enumerated-types-in-programming-and-why-are-they-useful/)
+* [Google Maps to Add Safer Routes, Sidewalks, and Area Foot Traffic](https://www.reviewgeek.com/83542/google-maps-to-add-safer-routes-sidewalks-and-area-foot-traffic/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

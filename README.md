@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_1/Early_to_bed_and_early_to_rise_makes_a_man_healthy_wealthy_and_wise_529.php" target="_blank"><i>Early to bed and early to rise makes a man healthy, wealthy, and wise</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_seldom_knocks_twice_975.php" target="_blank"><i>Opportunity seldom knocks twice</i></a>
 <span> = </span>
-<span>It is good for us to sleep early in the evening and wake early in the morning.</span>
+<span>Take any opportunity or chance when it comes - it may not come again.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -471,16 +471,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Top Women in FinTech and Blockchain celebration: More than a party](https://www.itworldcanada.com/article/top-women-in-fintech-and-blockchain-celebration-more-than-a-party/447585)
+- [BlackBerry announces new endpoint and network security capabilities](https://www.itworldcanada.com/article/blackberry-announces-new-endpoint-and-network-security-capabilities/447477)
+- [Ransomware a ‘scourge’ that needs international action, RSA Conference told](https://www.itworldcanada.com/article/ransomware-a-scourge-that-needs-international-action-rsa-conference-told/447542)
+- [Cyber Security Today, May 19, 2021 – Data breach at an international student insurer, avoid stalkerware and the latest business email scam](https://www.itworldcanada.com/article/cyber-security-today-may-19-2021-data-breach-at-an-international-student-insurer-avoid-stalkerware-and-the-latest-business-email-scam/447536)
+- [Hashtag Trending – May 19, 2021- Redesigned MacBook Pro; Google reveals new products; Canada the next Silicon Valley?](https://www.itworldcanada.com/article/hashtag-trending-may-19-2021-redesigned-macbook-pro-google-reveals-new-products-canada-the-next-silicon-valley/447546)
 - [Canada shines on the world stage during SAS Global Forum](https://www.itworldcanada.com/article/canada-shines-on-the-world-stage-during-sas-global-forum/447492)
 - [Telus to invest $17 billion in Ontario’s network through 2024](https://www.itworldcanada.com/article/telus-to-invest-17-billion-in-ontarios-network-through-2024/447426)
 - [Visa Canada announces winners of IFundWomen grant program](https://www.itworldcanada.com/article/visa-canada-announces-winners-of-ifundwomen-grant-program/447470)
 - [Coffee Briefing, May 18, 2021 – KPMG seeks Canada’s next unicorn, AWS and Azure top cloud rankings, and more](https://www.itworldcanada.com/article/coffee-briefing-may-18-2021-kpmg-seeks-canadas-next-unicorn-aws-and-azure-top-cloud-rankings-and-more/447456)
 - [Hashtag Trending, May 18, 2021 – South Korea boosts domestic chip production; Apple lossless music streaming; Sharp’s big camera phone](https://www.itworldcanada.com/article/hashtag-trending-may-18-2021-south-korea-boosts-domestic-chip-production-apple-lossless-music-streaming-sharps-big-camera-phone/447449)
-- [Cyber Security Today, May 17, 2021 – The latest on ransomware gangs and their strategies](https://www.itworldcanada.com/article/cyber-security-today-may-17-2021-the-latest-on-ransomware-gangs-and-their-strategies/447401)
-- [Google Canada commits $2 million to reskill job seekers](https://www.itworldcanada.com/article/google-canada-commits-2-million-to-reskill-job-seekers/447413)
-- [Hashtag Trending, May 17, 2021 – Twitter subscription service; Remote worker engagement; Ireland Health Services ransomware attack](https://www.itworldcanada.com/article/hashtag-trending-may-17-2021-twitter-subscription-service-remote-worker-engagement-ireland-health-services-ransomware-attack/447404)
-- [Google Cloud to use Starlink satellite internet for its data centres](https://www.itworldcanada.com/article/google-cloud-to-use-starlink-satellite-internet-to-its-data-centres/447399)
-- [Cyber Security Today, Week in Review for May 14, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-14-2021/447341)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

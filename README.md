@@ -426,6 +426,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Flutter gains sound null safety, payments plug-in](https://www.infoworld.com/article/3619489/google-flutter-gains-sound-null-safety-payments-plug-in.html#tk.rss_all)
+- [Machine teaching with Microsoft’s Project Bonsai](https://www.infoworld.com/article/3619030/machine-teaching-with-project-bonsai.html#tk.rss_all)
+- [How to use Python’s py launcher for Windows](https://www.infoworld.com/article/3617292/how-to-use-pythons-py-launcher-for-windows.html#tk.rss_all)
 - [Google Vertex AI unifies cloud machine learning toolkit](https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html#tk.rss_all)
 - [How to build AWS Lambda functions in .NET Core](https://www.infoworld.com/article/3619230/how-to-build-aws-lambda-functions-in-net-core.html#tk.rss_all)
 - [Defining ‘value’ with cloud architecture](https://www.infoworld.com/article/3619058/defining-value-with-cloud-architecture.html#tk.rss_all)
@@ -433,9 +436,6 @@
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Rust 2021 edition promises better ‘feel’](https://www.infoworld.com/article/3618840/rust-2021-edition-promises-better-feel.html#tk.rss_all)
-- [7 keys to selecting a low-code platform](https://www.infoworld.com/article/3618059/7-keys-to-selecting-a-low-code-platform.html#tk.rss_all)
-- [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_all)
-- [Don’t migrate your problems to the cloud](https://www.infoworld.com/article/3618692/dont-migrate-your-problems-to-the-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -411,6 +411,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Formula One, NFL, and NHL Work on Their Hustle with AWS](https://www.informationweek.com/cloud/formula-one-nfl-and-nhl-work-on-their-hustle-with-aws/d/d-id/1341052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Chief Data Officers Help Steer Digital Transformations](https://www.informationweek.com/strategic-cio/chief-data-officers-help-steer-digital-transformations-/d/d-id/1341023?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Do Private Data Centers Make Sense Anymore?](https://www.informationweek.com/strategic-cio/do-private-data-centers-make-sense-anymore/a/d-id/1341013?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How 2020 Shaped Transformation for Public Sector CIOs](https://www.informationweek.com/strategic-cio/how-2020-shaped-transformation-for-public-sector-cios/a/d-id/1341030?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Take AIOps from a Promising Concept to a Practical Reality](https://www.informationweek.com/big-data/ai-machine-learning/how-to-take-aiops-from-a-promising-concept-to-a-practical-reality/a/d-id/1341018?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -419,8 +421,6 @@
 - [Foursquare's Perspective on Hybrid Work as New Normal](https://www.informationweek.com/strategic-cio/team-building-and-staffing/foursquares-perspective-on-hybrid-work-as-new-normal/d/d-id/1340999?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Using Data as Currency: Your Company's Next Big Advantage](https://www.informationweek.com/big-data/using-data-as-currency-your-companys-next-big-advantage/a/d-id/1340963?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [11 Ways to Ask Smarter Data Analytics Questions](https://www.informationweek.com/big-data/11-ways-to-ask-smarter-data-analytics-questions/d/d-id/1340986?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Corporate Diversity Efforts Get Real](https://www.informationweek.com/strategic-cio/team-building-and-staffing/corporate-diversity-efforts-get-real/d/d-id/1340957?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [C-Suite Changes to Come](https://www.informationweek.com/strategic-cio/team-building-and-staffing/c-suite-changes-to-come/a/d-id/1340959?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

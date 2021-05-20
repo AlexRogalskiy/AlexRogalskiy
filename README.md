@@ -396,16 +396,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft releases Windows 10 21H1 as another minor OS refresh](https://www.computerworld.com/article/3619490/microsoft-releases-windows-10-21h1-as-another-minor-os-refresh.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 version 21H1: Key enterprise features](https://www.computerworld.com/article/3210805/windows-10-version-21h1-key-enterprise-features.html#tk.rss_all)
+- [How to make Zoom better with automated meeting transcriptions](https://www.computerworld.com/article/3619033/how-to-make-zoom-better-with-automated-meeting-transcriptions.html#tk.rss_all)
+- [Firefox previews site-isolation tech in move to catch up to Chrome](https://www.computerworld.com/article/3619064/firefox-previews-site-isolation-tech-in-move-to-catch-up-to-chrome.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [6 lessons Apple retail taught the industry in 2001](https://www.computerworld.com/article/3619029/6-lessons-apple-retail-taught-the-industry-in-2001.html#tk.rss_all)
 - [Here's what you can do about ransomware](https://www.computerworld.com/article/3619209/heres-what-you-can-do-about-ransomware.html#tk.rss_all)
 - [There are two kinds of desktops: Yours and someone else's](https://www.computerworld.com/article/3619076/there-are-two-kinds-of-desktops-yours-and-someone-elses.html#tk.rss_all)
 - [Podcast: When is it time to upgrade? Device lifecycles and upgrade timelines](https://www.computerworld.com/article/3619059/when-is-it-time-to-upgrade-device-lifecycles-and-upgrade-timelines.html#tk.rss_all)
-- [For Windows users, tips on fighting ransomware attacks](https://www.computerworld.com/article/3619012/for-windows-users-tips-on-fighting-ransomware-attacks.html#tk.rss_all)
-- [Cloud-based thin-client Macs become a reality](https://www.computerworld.com/article/3619228/cloud-based-thin-client-macs-become-a-reality.html#tk.rss_all)
-- [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
-- [Google makes a big security change, but other companies must follow](https://www.computerworld.com/article/3618776/google-makes-a-big-security-change-but-other-companies-must-follow.html#tk.rss_all)
-- [15 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/15-ways-to-speed-up-windows-10.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

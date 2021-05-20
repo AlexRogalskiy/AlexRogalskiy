@@ -336,16 +336,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Everything Google Announced At the I/O 2021 Keynote](https://www.reviewgeek.com/83586/everything-google-announced-at-the-i-o-2021-keynote/)
-* [The First Android 12 Beta Arrives with Big Changes in Tow](https://www.reviewgeek.com/83617/the-first-android-12-beta-arrives-with-big-changes-in-tow/)
-* [Deep-Learning AI is Helping Google Assess Health Issues Directly in Search](https://www.reviewgeek.com/83638/deep-learning-ai-is-helping-google-assess-health-issues-directly-in-search/)
-* [How to Install Docker and Docker Compose on Linux](https://www.cloudsavvyit.com/10623/how-to-install-docker-and-docker-compose-on-linux/)
-* [Samsung, Google, and Fitbit Team up to (Maybe) Make Wear OS Watches Suck Less](https://www.reviewgeek.com/83577/samsung-google-fitbit-team-up-to-make-wear-os-watches-suck-less/)
-* [Holy Crap: Google Invented a Magical 3D Window](https://www.reviewgeek.com/83572/holy-crap-google-invented-a-magical-3d-window/)
-* [Google Photos Adds Tons of Memory-Building (And Memory-Hiding) Features](https://www.reviewgeek.com/83566/google-photos-adds-tons-of-memory-building-and-memory-hiding-features/)
-* [Google is Supercharging Shopping with Lens, Cart Tracking, and More](https://www.reviewgeek.com/83573/google-is-supercharging-shopping-with-lens-cart-tracking-and-more/)
-* [What Are Enums (Enumerated Types) in Programming, And Why Are They Useful?](https://www.cloudsavvyit.com/10566/what-are-enums-enumerated-types-in-programming-and-why-are-they-useful/)
-* [Google Maps to Add Safer Routes, Sidewalks, and Area Foot Traffic](https://www.reviewgeek.com/83542/google-maps-to-add-safer-routes-sidewalks-and-area-foot-traffic/)
+* [How to Test Your Linux Server's Disk and RAM Speed](https://www.cloudsavvyit.com/2521/how-to-test-your-unix-servers-disk-and-ram-speed/)
+* [How to Manage Open File Handles with PowerShell](https://www.cloudsavvyit.com/2956/how-to-manage-open-file-handles-with-powershell/)
+* [How Do You Actually Use Regex?](https://www.cloudsavvyit.com/921/how-do-you-actually-use-regex/)
+* [Google Launches $25 Adapter to Make Nest Thermostats Compatible With Older Homes](https://www.reviewgeek.com/84002/google-launches-25-adapter-to-make-nest-thermostats-compatible-with-older-homes/)
+* [Search Google for 'The Fresh Prince of Bel-Air' for a Fun Easter Egg](https://www.reviewgeek.com/83991/search-google-for-the-fresh-prince-of-bel-air-for-a-fun-easter-egg/)
+* [Google is Finally Adding a Way to Block Spam in Drive](https://www.reviewgeek.com/83981/google-is-finally-adding-a-way-to-block-spam-in-drive/)
+* [NVIDIA's New "LHR" Label Will Help Divide Its Gaming and Cryptomining GPUs](https://www.reviewgeek.com/83942/nvidias-new-lhr-label-will-help-divide-its-gaming-and-cryptomining-gpus/)
+* [The Android 12 Beta Works On These Phones, But Should You Try It?](https://www.reviewgeek.com/83918/the-android-12-beta-works-on-these-phones-but-should-you-try-it/)
+* [RIP Internet Explorer: Microsoft to Officially Say Goodbye in June 2022](https://www.reviewgeek.com/83953/rip-internet-explorer-microsoft-to-officially-say-goodbye-in-june-2022/)
+* [Grab a New Apple Watch Series 6 for $60 Off at Amazon](https://www.reviewgeek.com/83923/grab-a-new-apple-watch-series-6-for-60-off-at-amazon/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

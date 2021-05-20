@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_5/limo_1323.php" target="_blank"><i>limo</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Computer/glitch_761.php" target="_blank"><i>glitch</i></a>
 <span> = </span>
-<span>limousine</span>
+<span>a fault or defect, esp. in computer software</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

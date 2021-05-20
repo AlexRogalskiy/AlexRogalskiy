@@ -456,16 +456,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career](https://www.reddit.com/r/InformationTechnology/comments/ngivoy/career/)
+- [Question about NAS with gaming](https://www.reddit.com/r/InformationTechnology/comments/ng3yhi/question_about_nas_with_gaming/)
+- [Looking For Pathway Advice into Cyber Security Field](https://www.reddit.com/r/InformationTechnology/comments/nfz1k9/looking_for_pathway_advice_into_cyber_security/)
+- [IT internship interview](https://www.reddit.com/r/InformationTechnology/comments/nfyj2j/it_internship_interview/)
+- [Mining rig](https://www.reddit.com/r/InformationTechnology/comments/nfukjl/mining_rig/)
 - [Ps4 dns issues after running a 2nd router off my main router](https://www.reddit.com/r/InformationTechnology/comments/nfb5ey/ps4_dns_issues_after_running_a_2nd_router_off_my/)
 - [Agile Adoption Strategy](https://www.reddit.com/r/InformationTechnology/comments/nf4910/agile_adoption_strategy/)
 - [What issues do you usually run into in the workplace when dealing with Macs?](https://www.reddit.com/r/InformationTechnology/comments/nf0juv/what_issues_do_you_usually_run_into_in_the/)
 - [What classes would I have to take if I were to major in Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/netec2/what_classes_would_i_have_to_take_if_i_were_to/)
 - [How to scan numbers to excel using a reliable device/app? (help the intern!!) I'm working for a big company and I want to find a device to scan numbers (mostly consist of 14 numbers) to an excel file. It should be a reliable device and not a scrappy android app. Who can help me??](https://www.reddit.com/r/InformationTechnology/comments/neia6g/how_to_scan_numbers_to_excel_using_a_reliable/)
-- [A+ 1001 on Tuesday](https://www.reddit.com/r/InformationTechnology/comments/ne7wz3/a_1001_on_tuesday/)
-- [Career path advice](https://www.reddit.com/r/InformationTechnology/comments/ndsnd3/career_path_advice/)
-- [ISO/OSI in depth: Network vs. Transport](https://www.reddit.com/r/InformationTechnology/comments/ndnv0b/isoosi_in_depth_network_vs_transport/)
-- [Career change](https://www.reddit.com/r/InformationTechnology/comments/ndj8g8/career_change/)
-- [it business](https://www.reddit.com/r/InformationTechnology/comments/ndduhd/it_business/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

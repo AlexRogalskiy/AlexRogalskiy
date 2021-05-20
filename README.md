@@ -366,16 +366,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nancy Pelosi calls for US diplomatic boycott of Beijing Winter Olympics](https://www.theguardian.com/us-news/2021/may/19/nancy-pelosi-calls-for-us-diplomatic-boycott-of-beijing-winter-olympics)
-- [More than 100 unexploded bombs found in Solomon Islands back yard](https://www.theguardian.com/world/2021/may/19/more-than-100-unexploded-bombs-found-in-solomon-islands-back-yard-second-world-war)
-- [Apple versus Epic: how the Fortnite app led to a legal showdown - podcast](https://www.theguardian.com/news/audio/2021/may/19/apple-versus-epic-how-the-fortnite-app-led-to-a-legal-showdown-podcast)
-- [Chips with everything: how one Taiwanese company drives the world economy](https://www.theguardian.com/world/2021/may/19/chips-with-everything-how-one-taiwanese-company-drives-the-world-economy)
-- [Joe Biden poised to sign anti-Asian American hate crimes bill](https://www.theguardian.com/us-news/2021/may/18/joe-biden-anti-asian-american-hate-crimes-bill)
-- [Tokyo’s restaurateurs rail against alcohol ban as Covid measures bite](https://www.theguardian.com/world/2021/may/19/tokyo-alcohol-ban-covid-lockdown-izakayas-shimbashi)
-- [Clashes in Jerusalem and West Bank amid protests and strikes](https://www.theguardian.com/world/2021/may/18/clashes-in-jerusalem-and-west-bank-amid-protests-and-strikes)
-- [Covid laid bare existing weaknesses in UK government, says NAO](https://www.theguardian.com/world/2021/may/19/covid-laid-bare-existing-weaknesses-in-uk-government-says-nao)
-- [Extra Life: A Short History of Living Longer review – the gobsmacking truth about vaccines](https://www.theguardian.com/tv-and-radio/2021/may/18/extra-life-a-short-history-of-living-longer-review-the-gobsmacking-truth-about-vaccines)
-- [Biden tours Ford facility in Michigan as protests erupt over Gaza-Israeli conflict](https://www.theguardian.com/us-news/2021/may/18/biden-michigan-protests-gaza-israeli-conflict)
+- [Israel-Gaza conflict: fresh attacks after Biden calls for ‘significant de-escalation’](https://www.theguardian.com/world/2021/may/20/israel-gaza-conflict-attacks-biden-netanyahu-ceasefire)
+- [World’s largest iceberg, nearly four times size of New York City, forms in Antarctica](https://www.theguardian.com/world/2021/may/20/worlds-largest-iceberg-nearly-four-times-size-of-new-york-forms-in-antarctica)
+- [Colonial Pipeline confirms it paid $4.4m ransom to hacker gang after attack](https://www.theguardian.com/technology/2021/may/19/colonial-pipeline-cyber-attack-ransom)
+- [‘We have our differences’: Blinken and Lavrov polite but firm in first face-to-face encounter](https://www.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic)
+- [Cyclone Tauktae: death toll rises to more than 90 after huge storm hits India](https://www.theguardian.com/world/2021/may/20/cyclone-tauktae-death-toll-rises-after-huge-storm-hits-india)
+- [Investigate the Capitol attack? Republicans prefer to back the big lie](https://www.theguardian.com/us-news/2021/may/19/us-january-6-commission-house-republicans-trump)
+- [Stench of death pervades rural India as Ganges swells with Covid victims](https://www.theguardian.com/world/2021/may/20/stench-death-pervades-rural-india-ganges-swells-covid-victims)
+- [South Korea’s balancing act will test Biden’s plan to get tough with China](https://www.theguardian.com/world/2021/may/20/south-korea-balancing-act-test-biden-plan-get-tough-china)
+- [Fatal attraction: rare corpse flower draws hundreds of onlookers](https://www.theguardian.com/environment/2021/may/19/corpse-flower-san-francisco-bay-area)
+- [Cecil Rhodes statue at Oxford college should go, says independent report](https://www.theguardian.com/education/2021/may/19/cecil-rhodes-statue-at-oxford-college-should-go-says-independent-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

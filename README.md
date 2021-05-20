@@ -381,16 +381,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
-- [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
-- [Facebook Calls Links to Depression Inconclusive. These Researchers Disagree](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
-- [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
-- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
-- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
-- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
-- [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
-- [The tools and tech I use to run a one-woman hardware company](https://blog.thea.codes/winterblooms-tech-stack/)
-- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
+- [Out of control San Francisco shoplifting forcing Walgreens to close 17 stores](https://www.sfchronicle.com/local-politics/article/Out-of-control-Organized-crime-drives-S-F-16175755.php)
+- [Nikola Tesla invention from 100 years ago suddenly makes more sense today](https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/)
+- [Why Ethereum Will Win Store of Value](https://michaelmcguiness.com/essays/why-eth-will-win-store-of-value)
+- [File Descriptor Limits](http://0pointer.net/blog/file-descriptor-limits.html)
+- [Google MUM: A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/)
+- [Landlock merged in mainline for Linux 5.13](https://landlock.io/)
+- [Ansible 4.0](https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8)
+- [Patricia’s Perfect Pull: A Crystal Grower’s Story](https://computerhistory.org/blog/patricias-perfect-pull/)
+- [“Energy in the Future”: a time capsule of energy concerns from 1953](https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/)
+- [“Miss Shilling's Orifice” helped win the war (2020)](https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

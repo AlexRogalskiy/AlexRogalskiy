@@ -351,16 +351,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [It is understandable that many Americans feel left behind](https://twitter.com/secyellen/status/1394774997617491971)
-- [Cancel Envy](https://thebulwark.com/cancel-envy/)
-- [The Monopolist Worm in Apple](https://www.wsj.com/articles/the-monopolist-worm-in-apple-11621290094)
-- [Busted Justin Trudeau Caught Using a Fake Apple MacBook](https://www.vice.com/en/article/n7bng8/busted-justin-trudeau-caught-using-a-fake-apple-macbook)
-- [ZX Spectrum Next](https://en.wikipedia.org/wiki/ZX_Spectrum_Next)
-- [MLB Sharp: An Unofficial C# Wrapper for the MLB Stats API](https://github.com/markjamesm/MLB-Sharp)
-- [Ask HN: Is “lowtech” and “up to date” mutually exclusive?](https://news.ycombinator.com/item?id=27203834)
-- [Poor in Tech](http://megelison.com/poor-in-tech)
-- [Did a Rogue NSA Operation Cause the Death of a Greek Telecom Employee? (2006)](https://theintercept.com/2015/09/28/death-athens-rogue-nsa-operation/)
-- [Merlin's Owl (2003)](https://www.laphamsquarterly.org/roundtable/merlins-owl)
+- [“Dear Christie’s … you're not auctioning the [320x200] originals”](https://twitter.com/golan/status/1395171551037767680)
+- [Cisco discloses self-sabotaging SSD bug that causes rolling outages](https://www.theregister.com/2021/05/20/cisco_firepower_ssd_bug/)
+- [These Precious Days](https://harpers.org/archive/2021/01/these-precious-days-ann-patchett-psilocybin-tom-hanks-sooki-raphael/)
+- [ByteDance co-founder Zhang Yiming to step down as CEO](https://www.reuters.com/world/china/exclusive-bytedance-co-founder-zhang-yiming-step-down-ceo-2021-05-20/)
+- [Show HN: HEX – The Data Workspace for Teams](https://hex.tech)
+- [Louis Rossmann videos “reported as abusive” and banned from Facebook](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
+- [The Constant Boss: Labor Under Digital Surveillance](https://datasociety.net/library/the-constant-boss/)
+- [Data Authentication with Keyed Hashing](https://freecontent.manning.com/data-authentication-with-keyed-hashing/)
+- [What men and women find attractive](https://www.theguardian.com/lifeandstyle/2021/may/20/the-perfect-partner-how-age-affects-what-men-and-women-find-attractive)
+- [Rene Carpenter, Astronaut’s Wife Who Broke NASA Mold, Dies at 92](https://www.nytimes.com/2020/07/24/us/rene-carpenter-dead.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

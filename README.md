@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK regulators commit to closer cooperation on digital economy](https://www.computerweekly.com/news/252501155/UK-regulators-commit-to-closer-cooperation-on-digital-economy)
+- [Living on the edge: The enterprises working with distributed cloud](https://www.computerweekly.com/feature/Living-on-the-edge-The-enterprises-working-with-distributed-cloud)
+- [Pandemic tech use heightens consumer privacy fears](https://www.computerweekly.com/news/252501137/Pandemic-tech-use-heightens-consumer-privacy-fears)
+- [Subpostmaster campaign group to meet Post Office scandal inquiry chair](https://www.computerweekly.com/news/252501128/Subpostmaster-campaign-group-to-meet-Post-Office-scandal-inquiry-chair)
+- [Malicious scans for at-risk systems start minutes after disclosure](https://www.computerweekly.com/news/252501122/Malicious-scans-for-at-risk-systems-start-minutes-after-disclosure)
+- [Credit Suisse to recruit more than 1,000 tech staff in India](https://www.computerweekly.com/news/252501119/Credit-Suisse-to-recruit-more-than-1000-tech-staff-in-India)
+- [Record colocation take-up across Europe prompts renewed power supply concerns](https://www.computerweekly.com/news/252501114/Record-colocation-take-up-across-Europe-prompts-renewed-power-supply-concerns)
+- [The National Security and Investment Act: What datacentre operators and investors need to know](https://www.computerweekly.com/feature/The-National-Security-and-Investment-Act-What-datacentre-operators-and-investors-need-to-know)
+- [UK government publishes framework on automated decision-making](https://www.computerweekly.com/news/252501088/UK-government-publishes-framework-on-automated-decision-making)
 - [Edging closer to composable business](https://www.computerweekly.com/news/252501060/Edging-closer-to-composable-business)
-- [‘Nothing off the table’ in statutory Post Office scandal inquiry](https://www.computerweekly.com/news/252501082/Nothing-off-the-table-in-statutory-Post-Office-scandal-inquiry)
-- [India’s HCL to hire 1,000 tech professionals in the UK](https://www.computerweekly.com/news/252501065/Indias-HCL-to-hire-1000-tech-professionals-in-the-UK)
-- [Google to shift cloud compute tasks between datacentres based on green power availability](https://www.computerweekly.com/news/252501062/Google-to-shift-cloud-compute-tasks-between-datacentres-based-on-green-power-availability)
-- [UK tech sector grows tenfold in 10 years](https://www.computerweekly.com/news/252501066/UK-tech-sector-grows-tenfold-in-10-years)
-- [Reports of stolen Irish health service data being leaked online](https://www.computerweekly.com/news/252501064/Reports-of-stolen-Irish-health-service-data-being-leaked-online)
-- [Barclays first bank to publish online scam refund details](https://www.computerweekly.com/news/252501059/Barclays-first-bank-to-publish-scam-refund-details)
-- [Post Office Horizon inquiry set to be given statutory status with wider powers](https://www.computerweekly.com/news/252501013/Post-Office-Horizon-inquiry-set-to-be-given-statutory-status-with-wider-powers)
-- [Shift to digital remittances helps sector retain transaction value](https://www.computerweekly.com/news/252501001/Shift-to-digital-remittances-helps-sector-retain-transaction-value)
-- [Microsoft EU data boundary dubbed ‘smoke and mirrors’](https://www.computerweekly.com/news/252500940/Microsoft-EU-data-boundary-dubbed-smoke-and-mirrors)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

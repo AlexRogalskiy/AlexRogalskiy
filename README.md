@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [How to Test Your Linux Server's Disk and RAM Speed](https://www.cloudsavvyit.com/2521/how-to-test-your-unix-servers-disk-and-ram-speed/)
-* [How to Manage Open File Handles with PowerShell](https://www.cloudsavvyit.com/2956/how-to-manage-open-file-handles-with-powershell/)
-* [How Do You Actually Use Regex?](https://www.cloudsavvyit.com/921/how-do-you-actually-use-regex/)
-* [Google Launches $25 Adapter to Make Nest Thermostats Compatible With Older Homes](https://www.reviewgeek.com/84002/google-launches-25-adapter-to-make-nest-thermostats-compatible-with-older-homes/)
-* [Search Google for 'The Fresh Prince of Bel-Air' for a Fun Easter Egg](https://www.reviewgeek.com/83991/search-google-for-the-fresh-prince-of-bel-air-for-a-fun-easter-egg/)
-* [Google is Finally Adding a Way to Block Spam in Drive](https://www.reviewgeek.com/83981/google-is-finally-adding-a-way-to-block-spam-in-drive/)
-* [NVIDIA's New "LHR" Label Will Help Divide Its Gaming and Cryptomining GPUs](https://www.reviewgeek.com/83942/nvidias-new-lhr-label-will-help-divide-its-gaming-and-cryptomining-gpus/)
-* [The Android 12 Beta Works On These Phones, But Should You Try It?](https://www.reviewgeek.com/83918/the-android-12-beta-works-on-these-phones-but-should-you-try-it/)
-* [RIP Internet Explorer: Microsoft to Officially Say Goodbye in June 2022](https://www.reviewgeek.com/83953/rip-internet-explorer-microsoft-to-officially-say-goodbye-in-june-2022/)
-* [Grab a New Apple Watch Series 6 for $60 Off at Amazon](https://www.reviewgeek.com/83923/grab-a-new-apple-watch-series-6-for-60-off-at-amazon/)
+* [This Belkin Adapter Lets You Add AirPlay to Any Speaker](https://www.reviewgeek.com/84228/this-belkin-adapter-lets-you-add-airplay-to-any-speaker/)
+* [Good Omen: HP's Gaming Lineup Gets a Major Refresher](https://www.reviewgeek.com/84232/good-omen-hps-gaming-lineup-gets-a-major-refresher/)
+* [A Long-Awaited Sling TV Redesign Debuts on Fire TV Devices](https://www.reviewgeek.com/84207/a-long-awaited-sling-tv-redesign-debuts-on-fire-tv-devices/)
+* [Pixel 6 Pro Leak Shows Google's Most Unique Phone Yet](https://www.reviewgeek.com/84191/pixel-6-pro-leak-shows-googles-most-unique-phone-yet/)
+* [What Google's Support of the Matter Smart Home Protocol Means For You](https://www.reviewgeek.com/84091/what-googles-support-of-the-matter-smart-home-protocol-means-for-you/)
+* [This Giant Kobo Elipsa eReader Lets You Write in Your Virtual Books](https://www.reviewgeek.com/84157/this-giant-kobo-elipsa-ereader-lets-you-write-in-your-virtual-books/)
+* [Bang & Olufsen's New Rugged Bluetooth Speaker is Adventure-Ready](https://www.reviewgeek.com/84132/bang-olufsens-new-rugged-bluetooth-speaker-is-adventure-ready/)
+* [New York will be Home to Google's First Standalone Retail Store](https://www.reviewgeek.com/84118/new-york-will-be-home-to-googles-first-standalone-retail-store/)
+* [Celebrate Global Diversity with LEGO's New "Everyone is Awesome" Set](https://www.reviewgeek.com/84128/celebrate-global-diversity-with-legos-new-everyone-is-awesome-set/)
+* [Ford's F-150 Lightning Electric Truck is Official, Starting at Under $40k](https://www.reviewgeek.com/84106/fords-f-150-lightning-electric-truck-is-official-starting-at-under-40k/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

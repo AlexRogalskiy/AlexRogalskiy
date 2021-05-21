@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Chance/Opportunity_seldom_knocks_twice_975.php" target="_blank"><i>Opportunity seldom knocks twice</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/Where_there_s_muck_there_s_money_896.php" target="_blank"><i>Where there's muck there's money</i></a>
 <span> = </span>
-<span>Take any opportunity or chance when it comes - it may not come again.</span>
+<span>There is money to be made in dirt and dirty jobs. For example, many people have made fortunes by processing rubbish or waste materials.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

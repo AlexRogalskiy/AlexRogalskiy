@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“Dear Christie’s … you're not auctioning the [320x200] originals”](https://twitter.com/golan/status/1395171551037767680)
-- [Cisco discloses self-sabotaging SSD bug that causes rolling outages](https://www.theregister.com/2021/05/20/cisco_firepower_ssd_bug/)
-- [These Precious Days](https://harpers.org/archive/2021/01/these-precious-days-ann-patchett-psilocybin-tom-hanks-sooki-raphael/)
-- [ByteDance co-founder Zhang Yiming to step down as CEO](https://www.reuters.com/world/china/exclusive-bytedance-co-founder-zhang-yiming-step-down-ceo-2021-05-20/)
-- [Show HN: HEX – The Data Workspace for Teams](https://hex.tech)
-- [Louis Rossmann videos “reported as abusive” and banned from Facebook](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
-- [The Constant Boss: Labor Under Digital Surveillance](https://datasociety.net/library/the-constant-boss/)
-- [Data Authentication with Keyed Hashing](https://freecontent.manning.com/data-authentication-with-keyed-hashing/)
-- [What men and women find attractive](https://www.theguardian.com/lifeandstyle/2021/may/20/the-perfect-partner-how-age-affects-what-men-and-women-find-attractive)
-- [Rene Carpenter, Astronaut’s Wife Who Broke NASA Mold, Dies at 92](https://www.nytimes.com/2020/07/24/us/rene-carpenter-dead.html)
+- [Developers Flee Open Source Project After ‘Takeover’ by Korean Crown Prince](https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover)
+- [Show HN: Insights into Your WhatsApp Usage](https://cooby.co/insights)
+- [‘It’s chaos for a lot of people’: what is the future of NFTs in Australian art?](https://www.theguardian.com/artanddesign/2021/may/19/its-chaos-for-a-lot-of-people-what-is-the-future-of-nfts-in-australian-art)
+- [Stories from early Dogecoin investors, seven years later](https://www.abc.net.au/news/science/2021-05-21/dogecoin-cryptocurrency-stories-of-australians-who-made-money/100144664)
+- [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+- [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
+- [Pyodide: Python for the Browser](https://lwn.net/Articles/855875/)
+- [Breaking the Heisenberg Uncertainty Principle](https://www.youtube.com/watch?v=uZDhCW-PTRM)
+- [How We Ran a Successful Remote Internship Program in 2020](https://blog.cloudflare.com/how-we-ran-a-successful-remote-internship-program-in-2020and-how-we-are-planning-to-do-it-again-in-2021/)
+- [Musicians and bands that are doing social media especially well](https://capitalandgrowth.org/answers/2980805/What-are-some-musicians-bands-that-are-doing-social-media-especially-well)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

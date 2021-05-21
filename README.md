@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/identify_with_1755.php" target="_blank"><i>identify with</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/expose_to_2__1840.php" target="_blank"><i>expose to (2)</i></a>
 <span> = </span>
-<span>If you identify with someone, you feel you have a connection with them and you can understand them and share their feelings.</span>
+<span>to make someone face a danger or a hazard</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

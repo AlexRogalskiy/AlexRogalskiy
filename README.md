@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why do so many jobs ask for a college degree?](https://www.reddit.com/r/InformationTechnology/comments/nhfy8m/why_do_so_many_jobs_ask_for_a_college_degree/)
+- [Advice?](https://www.reddit.com/r/InformationTechnology/comments/nhf5vk/advice/)
+- [Which external hard drives are the best for Apple Macbook Pro (2019 version USB C)?](https://www.reddit.com/r/InformationTechnology/comments/nh3y40/which_external_hard_drives_are_the_best_for_apple/)
+- [WSJ0](https://www.reddit.com/r/InformationTechnology/comments/nh3i48/wsj0/)
+- [Is configuring NAT for a home router practical or possible?](https://www.reddit.com/r/InformationTechnology/comments/nh20mv/is_configuring_nat_for_a_home_router_practical_or/)
+- [how can i gather information ( ppl and sites)](https://www.reddit.com/r/InformationTechnology/comments/ngyojp/how_can_i_gather_information_ppl_and_sites/)
 - [Career](https://www.reddit.com/r/InformationTechnology/comments/ngivoy/career/)
 - [Question about NAS with gaming](https://www.reddit.com/r/InformationTechnology/comments/ng3yhi/question_about_nas_with_gaming/)
 - [Looking For Pathway Advice into Cyber Security Field](https://www.reddit.com/r/InformationTechnology/comments/nfz1k9/looking_for_pathway_advice_into_cyber_security/)
 - [IT internship interview](https://www.reddit.com/r/InformationTechnology/comments/nfyj2j/it_internship_interview/)
-- [Mining rig](https://www.reddit.com/r/InformationTechnology/comments/nfukjl/mining_rig/)
-- [Ps4 dns issues after running a 2nd router off my main router](https://www.reddit.com/r/InformationTechnology/comments/nfb5ey/ps4_dns_issues_after_running_a_2nd_router_off_my/)
-- [Agile Adoption Strategy](https://www.reddit.com/r/InformationTechnology/comments/nf4910/agile_adoption_strategy/)
-- [What issues do you usually run into in the workplace when dealing with Macs?](https://www.reddit.com/r/InformationTechnology/comments/nf0juv/what_issues_do_you_usually_run_into_in_the/)
-- [What classes would I have to take if I were to major in Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/netec2/what_classes_would_i_have_to_take_if_i_were_to/)
-- [How to scan numbers to excel using a reliable device/app? (help the intern!!) I'm working for a big company and I want to find a device to scan numbers (mostly consist of 14 numbers) to an excel file. It should be a reliable device and not a scrappy android app. Who can help me??](https://www.reddit.com/r/InformationTechnology/comments/neia6g/how_to_scan_numbers_to_excel_using_a_reliable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

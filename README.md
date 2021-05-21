@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Accessibility takes a magic leap with Apple Watch gesture control](https://www.computerworld.com/article/3619889/accessibility-takes-a-magic-leap-with-apple-watch-gesture-control.html#tk.rss_all)
+- [Android 12 and the 'Android Pixel' era](https://www.computerworld.com/article/3619086/android-12-google-pixel.html#tk.rss_all)
+- [Otter.ai launches Otter Assistant to help Zoom-fatigued workers](https://www.computerworld.com/article/3619630/otterai-launches-otter-assistant-to-help-zoom-fatigued-workers.html#tk.rss_all)
+- [With smart canvas, Google looks to better connect Workspace apps](https://www.computerworld.com/article/3619448/with-smart-canvas-google-blurs-boundaries-between-workspace-apps.html#tk.rss_all)
 - [Microsoft releases Windows 10 21H1 as another minor OS refresh](https://www.computerworld.com/article/3619490/microsoft-releases-windows-10-21h1-as-another-minor-os-refresh.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 version 21H1: Key enterprise features](https://www.computerworld.com/article/3210805/windows-10-version-21h1-key-enterprise-features.html#tk.rss_all)
 - [How to make Zoom better with automated meeting transcriptions](https://www.computerworld.com/article/3619033/how-to-make-zoom-better-with-automated-meeting-transcriptions.html#tk.rss_all)
 - [Firefox previews site-isolation tech in move to catch up to Chrome](https://www.computerworld.com/article/3619064/firefox-previews-site-isolation-tech-in-move-to-catch-up-to-chrome.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [6 lessons Apple retail taught the industry in 2001](https://www.computerworld.com/article/3619029/6-lessons-apple-retail-taught-the-industry-in-2001.html#tk.rss_all)
-- [Here's what you can do about ransomware](https://www.computerworld.com/article/3619209/heres-what-you-can-do-about-ransomware.html#tk.rss_all)
-- [There are two kinds of desktops: Yours and someone else's](https://www.computerworld.com/article/3619076/there-are-two-kinds-of-desktops-yours-and-someone-elses.html#tk.rss_all)
-- [Podcast: When is it time to upgrade? Device lifecycles and upgrade timelines](https://www.computerworld.com/article/3619059/when-is-it-time-to-upgrade-device-lifecycles-and-upgrade-timelines.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

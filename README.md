@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Out of control San Francisco shoplifting forcing Walgreens to close 17 stores](https://www.sfchronicle.com/local-politics/article/Out-of-control-Organized-crime-drives-S-F-16175755.php)
-- [Nikola Tesla invention from 100 years ago suddenly makes more sense today](https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/)
-- [Why Ethereum Will Win Store of Value](https://michaelmcguiness.com/essays/why-eth-will-win-store-of-value)
-- [File Descriptor Limits](http://0pointer.net/blog/file-descriptor-limits.html)
-- [Google MUM: A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/)
-- [Landlock merged in mainline for Linux 5.13](https://landlock.io/)
-- [Ansible 4.0](https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8)
-- [Patricia’s Perfect Pull: A Crystal Grower’s Story](https://computerhistory.org/blog/patricias-perfect-pull/)
-- [“Energy in the Future”: a time capsule of energy concerns from 1953](https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/)
-- [“Miss Shilling's Orifice” helped win the war (2020)](https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/)
+- [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
+- [Holes in the WiFi](https://lwn.net/Articles/856044/)
+- [The anus is an evolutionary marvel](https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/)
+- [SimuLand, a lab environment to simulate attacker tradecraft](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/)
+- [SimpleVisor – Intel VT-x hypervisor in 500 lines of C code](https://ionescu007.github.io/SimpleVisor/)
+- [Red Cross honors Igiugig woman for helping light runway during nighttime medevac](https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/)
+- [Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
+- [Why RISC-V doesn't yet support KVM](https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/)
+- [Extreme HTTP Performance Tuning](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

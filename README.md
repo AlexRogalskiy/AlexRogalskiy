@@ -241,8 +241,20 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651634674221875200" target="_blank"><i>Fragment</i></a></summary>
-<p>by Sappho</p><p>The moon has set<br/>In a bank of jet<br/>That fringes the Western sky,<br/>The pleiads seven<br/>Have sunk from heaven<br/>And the midnight hurries by;<br/>My hopes are flown<br/>And, alas! alone<br/>On my weary couch I lie.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/651815854993031168" target="_blank"><i>Trees</i></a></summary>
+<p>by Mark Haddon</p><p>They stand in parks and graveyards and gardens.<br/>
+Some of them are taller than department stores,<br/>
+yet they do not draw attention to themselves.</p><p>You will be fitting a heated towel rail one day<br/>
+and see, through the louvre window,<br/>
+a shoal of olive-green fish changing direction<br/>
+in the air that swims above the little gardens.</p><p>Or you will wake at your aunt’s cottage,<br/>
+your sleep broken by a coal train on the empty hill<br/>
+as the oaks roar in the wind off the channel.</p><p>Your kindness to animals, your skill at the clarinet,<br/>
+these are accidental things.<br/>
+We lost this game a long way back.<br/>
+Look at you. You’re reading poetry.<br/>
+Outside the spring air is thick<br/>
+with the seeds of their children.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

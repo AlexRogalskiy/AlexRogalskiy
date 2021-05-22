@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/weak_at_the_knees_251.php" target="_blank"><i>weak at the knees</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/T/Things_are_looking_up._235.php" target="_blank"><i>Things are looking up.</i></a>
 <span> = </span>
-<span>If you go weak at the knees, you feel an emotion so strongly that it makes you feel unstable on your feet.</span>
+<span>You can say "things are looking up" if things are improving.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

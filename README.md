@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Music/mosh_pit_1448.php" target="_blank"><i>mosh pit</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/American/zonked_zonked_out_2__1378.php" target="_blank"><i>zonked | zonked out (2)</i></a>
 <span> = </span>
-<span>an area in front of the stage at a rock concert where people dance energetically, or "mosh"</span>
+<span>exhausted, very tired</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

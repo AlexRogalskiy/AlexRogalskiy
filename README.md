@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for May 21, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-21-2021/447672)
+- [Have AI chatbots come of age?](https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679)
+- [Drowning in threat information? Stop sharing so much, infosec pros told](https://www.itworldcanada.com/article/drowning-in-threat-information-stop-sharing-so-much-infosec-pros-told/447462)
+- [Cyber Security Today,  May 21, 2021 – Ransomware gang still wants millions, why you need to patch fast and beware of phone scams](https://www.itworldcanada.com/article/cyber-security-today-may-21-2021-ransomware-gang-still-wants-millions-why-you-need-to-patch-fast-and-beware-of-phone-scams/447686)
+- [Hashtag Trending, May 21, 2021- Microsoft retiring Internet Explorer; Colonial Pipeline CEO explains ransom payment; Bill Gates in the hot seat](https://www.itworldcanada.com/article/hashtag-trending-may-21-2021-microsoft-retiring-internet-explorer-colonial-pipeline-ceo-explains-ransom-payment-the-downfall-of-bill-gates/447682)
+- [Qualcomm releases the Snapdragon 778G processor for performance midrange smartphones](https://www.itworldcanada.com/article/qualcomm-releases-the-snapdragon-778g-processor-for-performance-midrange-smartphones/447655)
+- [COVID vaccine certificates must obey privacy laws, say Canadian commissioners](https://www.itworldcanada.com/article/covid-vaccine-certificates-must-obey-privacy-laws-say-canadian-commissioners/447570)
+- [Hashtag Trending, May 20, 2021 – Bitcoin plummets; Montreal a hot spot for tech workers; Amazon extends the ban of facial recognition tools for police use](https://www.itworldcanada.com/article/hashtag-trending-may-20-2021-bitcoin-plummets-montreal-could-be-the-new-spot-for-tech-workers-amazon-extends-the-ban-of-facial-recognition-tools-for-police-use/447639)
 - [Top Women in FinTech and Blockchain celebration: More than a party](https://www.itworldcanada.com/article/top-women-in-fintech-and-blockchain-celebration-more-than-a-party/447585)
-- [BlackBerry announces new endpoint and network security capabilities](https://www.itworldcanada.com/article/blackberry-announces-new-endpoint-and-network-security-capabilities/447477)
-- [Ransomware a ‘scourge’ that needs international action, RSA Conference told](https://www.itworldcanada.com/article/ransomware-a-scourge-that-needs-international-action-rsa-conference-told/447542)
-- [Cyber Security Today, May 19, 2021 – Data breach at an international student insurer, avoid stalkerware and the latest business email scam](https://www.itworldcanada.com/article/cyber-security-today-may-19-2021-data-breach-at-an-international-student-insurer-avoid-stalkerware-and-the-latest-business-email-scam/447536)
-- [Hashtag Trending – May 19, 2021- Redesigned MacBook Pro; Google reveals new products; Canada the next Silicon Valley?](https://www.itworldcanada.com/article/hashtag-trending-may-19-2021-redesigned-macbook-pro-google-reveals-new-products-canada-the-next-silicon-valley/447546)
-- [Canada shines on the world stage during SAS Global Forum](https://www.itworldcanada.com/article/canada-shines-on-the-world-stage-during-sas-global-forum/447492)
-- [Telus to invest $17 billion in Ontario’s network through 2024](https://www.itworldcanada.com/article/telus-to-invest-17-billion-in-ontarios-network-through-2024/447426)
-- [Visa Canada announces winners of IFundWomen grant program](https://www.itworldcanada.com/article/visa-canada-announces-winners-of-ifundwomen-grant-program/447470)
-- [Coffee Briefing, May 18, 2021 – KPMG seeks Canada’s next unicorn, AWS and Azure top cloud rankings, and more](https://www.itworldcanada.com/article/coffee-briefing-may-18-2021-kpmg-seeks-canadas-next-unicorn-aws-and-azure-top-cloud-rankings-and-more/447456)
-- [Hashtag Trending, May 18, 2021 – South Korea boosts domestic chip production; Apple lossless music streaming; Sharp’s big camera phone](https://www.itworldcanada.com/article/hashtag-trending-may-18-2021-south-korea-boosts-domestic-chip-production-apple-lossless-music-streaming-sharps-big-camera-phone/447449)
+- [Best Android 12 features announced at Google I/O 2021](https://www.itworldcanada.com/article/best-android-12-features-announced-at-google-i-o-2021/447586)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

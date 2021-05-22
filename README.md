@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
-- [Holes in the WiFi](https://lwn.net/Articles/856044/)
-- [The anus is an evolutionary marvel](https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/)
-- [SimuLand, a lab environment to simulate attacker tradecraft](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/)
-- [SimpleVisor – Intel VT-x hypervisor in 500 lines of C code](https://ionescu007.github.io/SimpleVisor/)
-- [Red Cross honors Igiugig woman for helping light runway during nighttime medevac](https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/)
-- [Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
-- [Why RISC-V doesn't yet support KVM](https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/)
-- [Extreme HTTP Performance Tuning](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
+- [A new replication crisis: Research that is less likely to be true is cited more](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
+- [San Francisco’s Shoplifting Surge](https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html)
+- [The Algorithmic Beauty of Plants (1990) [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
+- [Canada declares plastics toxic, paving the way for restrictions](https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/)
+- [Woke at Work: Why tech firms are trying to run away from politics and failing](https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing)
+- [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
+- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
+- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
+- [National hiring experiments reveal 2:1 preference for women on STEM tenure track (2015)](https://www.pnas.org/content/early/2015/04/08/1418878112)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -391,6 +391,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [CyberUK, bees and datacentres, Red Cross digital mapping – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/CyberUK-bees-and-datacentres-Red-Cross-digital-mapping-Computer-Weekly-Downtime-Upload-podcast)
+- [Lack of developer attention to cloud security prompts alerts](https://www.computerweekly.com/news/252501200/Lack-of-developer-attention-to-cloud-security-prompts-alerts)
+- [NHS Education for Scotland defends 'decade-long' public cloud deal with AWS](https://www.computerweekly.com/news/252501193/NHS-Education-for-Scotland-defends-decade-long-AWS-public-cloud-deal)
 - [UK regulators commit to closer cooperation on digital economy](https://www.computerweekly.com/news/252501155/UK-regulators-commit-to-closer-cooperation-on-digital-economy)
 - [Living on the edge: The enterprises working with distributed cloud](https://www.computerweekly.com/feature/Living-on-the-edge-The-enterprises-working-with-distributed-cloud)
 - [Pandemic tech use heightens consumer privacy fears](https://www.computerweekly.com/news/252501137/Pandemic-tech-use-heightens-consumer-privacy-fears)
@@ -398,9 +401,6 @@
 - [Malicious scans for at-risk systems start minutes after disclosure](https://www.computerweekly.com/news/252501122/Malicious-scans-for-at-risk-systems-start-minutes-after-disclosure)
 - [Credit Suisse to recruit more than 1,000 tech staff in India](https://www.computerweekly.com/news/252501119/Credit-Suisse-to-recruit-more-than-1000-tech-staff-in-India)
 - [Record colocation take-up across Europe prompts renewed power supply concerns](https://www.computerweekly.com/news/252501114/Record-colocation-take-up-across-Europe-prompts-renewed-power-supply-concerns)
-- [The National Security and Investment Act: What datacentre operators and investors need to know](https://www.computerweekly.com/feature/The-National-Security-and-Investment-Act-What-datacentre-operators-and-investors-need-to-know)
-- [UK government publishes framework on automated decision-making](https://www.computerweekly.com/news/252501088/UK-government-publishes-framework-on-automated-decision-making)
-- [Edging closer to composable business](https://www.computerweekly.com/news/252501060/Edging-closer-to-composable-business)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
+- [BrandPost: Cybersecurity Threats Shine Spotlight on Medical Data Protection](https://www.computerworld.com/article/3619512/cybersecurity-threats-shine-spotlight-on-medical-data-protection.html#tk.rss_all)
+- [Apple's Mac security warning shows that closed beats open](https://www.computerworld.com/article/3619515/apples-mac-security-warning-shows-that-closed-beats-open.html#tk.rss_all)
+- [The Windows 21H1 update, and why I won’t miss Windows 10X](https://www.computerworld.com/article/3619875/the-windows-21h1-update-and-why-i-wont-miss-windows-10x.html#tk.rss_all)
+- [Tech wages: Women, minorities still paid less in 2020](https://www.computerworld.com/article/3619891/tech-wages-women-minorities-still-paid-less-in-2020.html#tk.rss_all)
+- [An antidote to boring e-commerce](https://www.computerworld.com/article/3619888/an-antidote-to-boring-e-commerce.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Accessibility takes a magic leap with Apple Watch gesture control](https://www.computerworld.com/article/3619889/accessibility-takes-a-magic-leap-with-apple-watch-gesture-control.html#tk.rss_all)
 - [Android 12 and the 'Android Pixel' era](https://www.computerworld.com/article/3619086/android-12-google-pixel.html#tk.rss_all)
 - [Otter.ai launches Otter Assistant to help Zoom-fatigued workers](https://www.computerworld.com/article/3619630/otterai-launches-otter-assistant-to-help-zoom-fatigued-workers.html#tk.rss_all)
-- [With smart canvas, Google looks to better connect Workspace apps](https://www.computerworld.com/article/3619448/with-smart-canvas-google-blurs-boundaries-between-workspace-apps.html#tk.rss_all)
-- [Microsoft releases Windows 10 21H1 as another minor OS refresh](https://www.computerworld.com/article/3619490/microsoft-releases-windows-10-21h1-as-another-minor-os-refresh.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 version 21H1: Key enterprise features](https://www.computerworld.com/article/3210805/windows-10-version-21h1-key-enterprise-features.html#tk.rss_all)
-- [How to make Zoom better with automated meeting transcriptions](https://www.computerworld.com/article/3619033/how-to-make-zoom-better-with-automated-meeting-transcriptions.html#tk.rss_all)
-- [Firefox previews site-isolation tech in move to catch up to Chrome](https://www.computerworld.com/article/3619064/firefox-previews-site-isolation-tech-in-move-to-catch-up-to-chrome.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

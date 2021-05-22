@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google preps new web platform APIs](https://www.infoworld.com/article/3619518/google-preps-new-web-platform-apis.html#tk.rss_all)
+- [In search of good cybersecurity](https://www.infoworld.com/article/3619868/in-search-of-good-cybersecurity.html#tk.rss_all)
 - [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [Build a Java application in Visual Studio Code](https://www.infoworld.com/article/3619031/build-a-java-application-in-visual-studio-code.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Machine teaching with Microsoft’s Project Bonsai](https://www.infoworld.com/article/3619030/machine-teaching-with-project-bonsai.html#tk.rss_all)
 - [How to use Python’s py launcher for Windows](https://www.infoworld.com/article/3617292/how-to-use-pythons-py-launcher-for-windows.html#tk.rss_all)
 - [Google Vertex AI unifies cloud machine learning toolkit](https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html#tk.rss_all)
-- [How to build AWS Lambda functions in .NET Core](https://www.infoworld.com/article/3619230/how-to-build-aws-lambda-functions-in-net-core.html#tk.rss_all)
-- [Defining ‘value’ with cloud architecture](https://www.infoworld.com/article/3619058/defining-value-with-cloud-architecture.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

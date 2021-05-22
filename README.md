@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;ac&#x2F;56&#x2F;19ac5657d31442896b32f17727131b57.jpg" alt="We&#39;ve got the power. Plenipotent is the Word of the Day. Want example sentences? Click to learn more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;e3&#x2F;54&#x2F;3d&#x2F;e3543d4becf054e72a849f02f006577b.jpg" alt="We&#39;re only going to say this once. Hapax legomenon is the Word of the Day. Wondering how to say it? Click to get the pronunciation and check out our free Word of the Day podcast." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1e&#x2F;61&#x2F;3a&#x2F;1e613a1cdb6ba8805d644907dfe80bd7.jpg" alt="Got a moonshot in the works? It&#39;s our Word of the Day. Want more? Get example sentences, word origin, and more at Dictionary.com. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;51&#x2F;86&#x2F;30&#x2F;5186304f229eccd0f60a530fd6921942.jpg" alt="Did you wake up to the sound of your phone juddering? Judder is the Word of the Day. Want more examples? Click to learn more. #Vocabulary #Learn #English " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -285,7 +285,7 @@ with the seeds of their children.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>16°C (<i>scattered clouds</i>), humidity: 59%, pressure: 1000 (mbar), wind: /south-east/ 4 (m/s), cloudy: 40%</b>
+        <b>16°C (<i>few clouds</i>), humidity: 59%, pressure: 1001 (mbar), wind: /south/ 0 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>04:06 am</b> and sets at <b>21:44 pm</b>.
     </p>

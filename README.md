@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Developers Flee Open Source Project After ‘Takeover’ by Korean Crown Prince](https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover)
-- [Show HN: Insights into Your WhatsApp Usage](https://cooby.co/insights)
-- [‘It’s chaos for a lot of people’: what is the future of NFTs in Australian art?](https://www.theguardian.com/artanddesign/2021/may/19/its-chaos-for-a-lot-of-people-what-is-the-future-of-nfts-in-australian-art)
-- [Stories from early Dogecoin investors, seven years later](https://www.abc.net.au/news/science/2021-05-21/dogecoin-cryptocurrency-stories-of-australians-who-made-money/100144664)
-- [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-- [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
-- [Pyodide: Python for the Browser](https://lwn.net/Articles/855875/)
-- [Breaking the Heisenberg Uncertainty Principle](https://www.youtube.com/watch?v=uZDhCW-PTRM)
-- [How We Ran a Successful Remote Internship Program in 2020](https://blog.cloudflare.com/how-we-ran-a-successful-remote-internship-program-in-2020and-how-we-are-planning-to-do-it-again-in-2021/)
-- [Musicians and bands that are doing social media especially well](https://capitalandgrowth.org/answers/2980805/What-are-some-musicians-bands-that-are-doing-social-media-especially-well)
+- [FTC is pressuring Amazon to punish fake-review schemers](https://www.vox.com/recode/22443153/amazon-seller-supsensions-aukey-mpow-ftc-paid-fake-reviews)
+- [Nautobot – Fork of NetBox](https://github.com/nautobot/nautobot)
+- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
+- [Why the Bronte sisters died so young (2019)](https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920)
+- [The Panama Papers Double Cross How a spy-for-hire got guarded dirt on the elite](https://nymag.com/intelligencer/2021/05/how-mark-hollingsworth-got-access-to-the-panama-papers.html)
+- [Unsupervised Speech Recognition](https://ai.facebook.com/research/publications/unsupervised-speech-recognition)
+- [Five Best: Books on the Soviet Home Front in World War II](https://www.wsj.com/articles/five-best-books-on-the-soviet-home-front-in-world-war-ii-11621608688)
+- [Unix job control dark corners illustrated](https://utcc.utoronto.ca/~cks/space/blog/unix/JobControlHasDarkCorners)
+- [Tether: The Story So Far (2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
+- [Most common professional marriages in the Bay Area](https://flowingdata.com/2021/05/20/most-common-professional-marriages/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

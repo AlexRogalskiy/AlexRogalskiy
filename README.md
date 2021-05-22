@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [This Belkin Adapter Lets You Add AirPlay to Any Speaker](https://www.reviewgeek.com/84228/this-belkin-adapter-lets-you-add-airplay-to-any-speaker/)
-* [Good Omen: HP's Gaming Lineup Gets a Major Refresher](https://www.reviewgeek.com/84232/good-omen-hps-gaming-lineup-gets-a-major-refresher/)
-* [A Long-Awaited Sling TV Redesign Debuts on Fire TV Devices](https://www.reviewgeek.com/84207/a-long-awaited-sling-tv-redesign-debuts-on-fire-tv-devices/)
-* [Pixel 6 Pro Leak Shows Google's Most Unique Phone Yet](https://www.reviewgeek.com/84191/pixel-6-pro-leak-shows-googles-most-unique-phone-yet/)
-* [What Google's Support of the Matter Smart Home Protocol Means For You](https://www.reviewgeek.com/84091/what-googles-support-of-the-matter-smart-home-protocol-means-for-you/)
-* [This Giant Kobo Elipsa eReader Lets You Write in Your Virtual Books](https://www.reviewgeek.com/84157/this-giant-kobo-elipsa-ereader-lets-you-write-in-your-virtual-books/)
-* [Bang & Olufsen's New Rugged Bluetooth Speaker is Adventure-Ready](https://www.reviewgeek.com/84132/bang-olufsens-new-rugged-bluetooth-speaker-is-adventure-ready/)
-* [New York will be Home to Google's First Standalone Retail Store](https://www.reviewgeek.com/84118/new-york-will-be-home-to-googles-first-standalone-retail-store/)
-* [Celebrate Global Diversity with LEGO's New "Everyone is Awesome" Set](https://www.reviewgeek.com/84128/celebrate-global-diversity-with-legos-new-everyone-is-awesome-set/)
-* [Ford's F-150 Lightning Electric Truck is Official, Starting at Under $40k](https://www.reviewgeek.com/84106/fords-f-150-lightning-electric-truck-is-official-starting-at-under-40k/)
+* [New Arduino Nano RP2040 Connect Is Like a Raspberry Pi Pico on Steroids](https://www.reviewgeek.com/84390/new-arduino-nano-rp2040-connect-is-like-a-raspberry-pi-pico-on-steroids/)
+* [Four of Moog's Terrific (but Pricey) Synth Apps Are Now on Sale for Free on iOS](https://www.reviewgeek.com/84428/four-of-moogs-terrific-but-pricey-synth-apps-are-now-on-sale-for-free-on-ios/)
+* [Amazon Is Making it Easier to Order 2-Hour Delivery](https://www.reviewgeek.com/84353/amazon-is-making-it-easier-to-order-2-hour-delivery/)
+* [Pixel 6 Leaks Show a 6.4-inch Display for the "Small" Phone](https://www.reviewgeek.com/84321/pixel-6-leaks-show-a-6-4-inch-display-for-the-small-phone/)
+* [After Three Years, Linux Apps on Chromebooks are Finally Breaking Out of Beta](https://www.reviewgeek.com/84333/after-three-years-linux-apps-on-chromebooks-are-finally-breaking-out-of-beta/)
+* [Kia's EV6 Electric Car Puts an Augmented Reality Heads Up Display Front and Center](https://www.reviewgeek.com/84339/kias-ev6-electric-car-puts-an-augmented-reality-heads-up-display-front-and-center/)
+* [How to Monitor a Windows Folder for New Files and Take Action](https://www.cloudsavvyit.com/2000/how-to-monitor-a-windows-folder-for-new-files-and-take-action/)
+* [OnePlus Watch and 'Cyberpunk 2077' Are a Match Made In ... Uh](https://www.reviewgeek.com/84290/oneplus-watch-and-cyberpunk-2077-are-a-match-made-in-uh/)
+* [How to Get the iMac’s “Hello” Screen Saver on Your Mac](https://www.howtogeek.com/730019/how-to-get-the-imacs-hello-screen-saver-on-your-mac/)
+* [A Bunch of Roku 4k Streaming Devices are On Sale at Amazon](https://www.reviewgeek.com/84309/a-bunch-of-roku-4k-streaming-devices-are-on-sale-at-amazon/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

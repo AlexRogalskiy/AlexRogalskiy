@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_1/Where_there_s_muck_there_s_money_896.php" target="_blank"><i>Where there's muck there's money</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/If_you_play_with_fire_you_get_burned_858.php" target="_blank"><i>If you play with fire you get burned</i></a>
 <span> = </span>
-<span>There is money to be made in dirt and dirty jobs. For example, many people have made fortunes by processing rubbish or waste materials.</span>
+<span>If you fool around with something that is potentially dangerous, you must expect to get harmed.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

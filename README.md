@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/E/expose_to_2__1840.php" target="_blank"><i>expose to (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/K/known_for_2064.php" target="_blank"><i>known for</i></a>
 <span> = </span>
-<span>to make someone face a danger or a hazard</span>
+<span>to be well-known for something or famous for something</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

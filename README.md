@@ -313,16 +313,16 @@ with the seeds of their children.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FTC is pressuring Amazon to punish fake-review schemers](https://www.vox.com/recode/22443153/amazon-seller-supsensions-aukey-mpow-ftc-paid-fake-reviews)
-- [Nautobot – Fork of NetBox](https://github.com/nautobot/nautobot)
-- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
-- [Why the Bronte sisters died so young (2019)](https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920)
-- [The Panama Papers Double Cross How a spy-for-hire got guarded dirt on the elite](https://nymag.com/intelligencer/2021/05/how-mark-hollingsworth-got-access-to-the-panama-papers.html)
-- [Unsupervised Speech Recognition](https://ai.facebook.com/research/publications/unsupervised-speech-recognition)
-- [Five Best: Books on the Soviet Home Front in World War II](https://www.wsj.com/articles/five-best-books-on-the-soviet-home-front-in-world-war-ii-11621608688)
-- [Unix job control dark corners illustrated](https://utcc.utoronto.ca/~cks/space/blog/unix/JobControlHasDarkCorners)
-- [Tether: The Story So Far (2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
-- [Most common professional marriages in the Bay Area](https://flowingdata.com/2021/05/20/most-common-professional-marriages/)
+- [Lullaby of the Artillery](https://www.tnhh.net/posts/lullaby-of-the-artillery.html)
+- [Do Carbon Prices Limit Economic Growth?](https://journals.sagepub.com/doi/full/10.1177/2378023119898326)
+- [Ask HN: Would you please help me find an old HN post?](https://news.ycombinator.com/item?id=27251997)
+- [Goblin Interviews Alexandra Elbakian](https://breckyunits.com/elbakian-interview.html)
+- [CDC Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html)
+- [Tardigrades survive impacts of up to 825 meters per second](https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html)
+- [How to poison a feral pig? It’s not easy](https://www.salon.com/2021/05/22/how-to-poison-a-feral-pig-its-not-easy_partner/)
+- [A 106-year old Armenian woman protecting her home with an AK47](https://www.reddit.com/r/Iamactuallyverybadass/comments/nisb4o/a_106year_old_armenian_woman_who_must_have/)
+- [AnimeInterp: Deep Animation Video Interpolation in the Wild](https://github.com/lisiyao21/AnimeInterp)
+- [SSDs with Built-In Protection Against Ransomware](https://www.tomshardware.com/news/phison-cigent-develop-self-protecting-ssds)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

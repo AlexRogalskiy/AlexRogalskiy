@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/If_you_play_with_fire_you_get_burned_858.php" target="_blank"><i>If you play with fire you get burned</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Poor_men_go_to_heaven_as_soon_as_rich_916.php" target="_blank"><i>Poor men go to heaven as soon as rich</i></a>
 <span> = </span>
-<span>If you fool around with something that is potentially dangerous, you must expect to get harmed.</span>
+<span>God makes no distinction between people with money and people without money.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

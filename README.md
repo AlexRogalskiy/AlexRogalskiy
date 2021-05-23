@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/K/known_for_2064.php" target="_blank"><i>known for</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_4/pick_out_1677.php" target="_blank"><i>pick out</i></a>
 <span> = </span>
-<span>to be well-known for something or famous for something</span>
+<span>If you pick out something, you choose or select it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

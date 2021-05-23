@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/zonked_zonked_out_2__1378.php" target="_blank"><i>zonked | zonked out (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/R/ratty_2__1233.php" target="_blank"><i>ratty (2)</i></a>
 <span> = </span>
-<span>exhausted, very tired</span>
+<span>easily annoyed or upset, irritable</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

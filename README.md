@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;ac&#x2F;56&#x2F;19ac5657d31442896b32f17727131b57.jpg" alt="We&#39;ve got the power. Plenipotent is the Word of the Day. Want example sentences? Click to learn more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;e3&#x2F;54&#x2F;3d&#x2F;e3543d4becf054e72a849f02f006577b.jpg" alt="We&#39;re only going to say this once. Hapax legomenon is the Word of the Day. Wondering how to say it? Click to get the pronunciation and check out our free Word of the Day podcast. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1e&#x2F;61&#x2F;3a&#x2F;1e613a1cdb6ba8805d644907dfe80bd7.jpg" alt="Got a moonshot in the works? It&#39;s our Word of the Day. Want more? Get example sentences, word origin, and more at Dictionary.com. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>13°C (<i>moderate rain</i>), humidity: 95%, pressure: 999 (mbar), wind: /south-east/ 2 (m/s), cloudy: 75%</b>
+        <b>12°C (<i>light rain</i>), humidity: 98%, pressure: 1000 (mbar), wind: /south-east/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>04:04 am</b> and sets at <b>21:46 pm</b>.
     </p>

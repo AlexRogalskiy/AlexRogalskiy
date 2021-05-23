@@ -298,16 +298,16 @@ with the seeds of their children.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [New Arduino Nano RP2040 Connect Is Like a Raspberry Pi Pico on Steroids](https://www.reviewgeek.com/84390/new-arduino-nano-rp2040-connect-is-like-a-raspberry-pi-pico-on-steroids/)
-* [Four of Moog's Terrific (but Pricey) Synth Apps Are Now on Sale for Free on iOS](https://www.reviewgeek.com/84428/four-of-moogs-terrific-but-pricey-synth-apps-are-now-on-sale-for-free-on-ios/)
-* [Amazon Is Making it Easier to Order 2-Hour Delivery](https://www.reviewgeek.com/84353/amazon-is-making-it-easier-to-order-2-hour-delivery/)
-* [Pixel 6 Leaks Show a 6.4-inch Display for the "Small" Phone](https://www.reviewgeek.com/84321/pixel-6-leaks-show-a-6-4-inch-display-for-the-small-phone/)
-* [After Three Years, Linux Apps on Chromebooks are Finally Breaking Out of Beta](https://www.reviewgeek.com/84333/after-three-years-linux-apps-on-chromebooks-are-finally-breaking-out-of-beta/)
-* [Kia's EV6 Electric Car Puts an Augmented Reality Heads Up Display Front and Center](https://www.reviewgeek.com/84339/kias-ev6-electric-car-puts-an-augmented-reality-heads-up-display-front-and-center/)
-* [How to Monitor a Windows Folder for New Files and Take Action](https://www.cloudsavvyit.com/2000/how-to-monitor-a-windows-folder-for-new-files-and-take-action/)
-* [OnePlus Watch and 'Cyberpunk 2077' Are a Match Made In ... Uh](https://www.reviewgeek.com/84290/oneplus-watch-and-cyberpunk-2077-are-a-match-made-in-uh/)
-* [How to Get the iMac’s “Hello” Screen Saver on Your Mac](https://www.howtogeek.com/730019/how-to-get-the-imacs-hello-screen-saver-on-your-mac/)
-* [A Bunch of Roku 4k Streaming Devices are On Sale at Amazon](https://www.reviewgeek.com/84309/a-bunch-of-roku-4k-streaming-devices-are-on-sale-at-amazon/)
+* [Researchers Built a "Shapeshifting" CPU That's Impossible to Hack](https://www.reviewgeek.com/84497/researchers-built-a-shapeshifting-cpu-thats-impossible-to-hack/)
+* [Don't Worry, Tizen Will Still Live on in Samsung's TVs](https://www.reviewgeek.com/84478/dont-worry-tizen-will-still-live-on-in-samsungs-tvs/)
+* [There's a Big Ol' Garmin Electronics Sale Happening Right Now, Up to $100 Off](https://www.reviewgeek.com/84426/theres-a-big-ol-garmin-electronics-sale-happening-right-now-up-to-100-off/)
+* [Ghost of Google Reader Finds Its Way to New Chrome Canary Build](https://www.reviewgeek.com/84437/ghost-of-google-reader-finds-its-way-to-new-chrome-canary-build/)
+* [How to Change Where Screenshots Are Saved on Mac](https://www.howtogeek.com/403519/how-to-change-macos-mojaves-default-screenshot-location/)
+* [How to Crop an Image into a Circle in Photoshop](https://www.howtogeek.com/724941/how-to-crop-an-image-into-a-circle-in-photoshop/)
+* [How to Setup Slack Notifications for Low Disk Space On Your Server](https://www.cloudsavvyit.com/811/how-to-setup-slack-notifications-for-low-disk-space-on-your-server/)
+* [How to Change the Owner of a File in Google Drive](https://www.howtogeek.com/451463/how-to-change-the-owner-of-a-file-in-google-drive/)
+* [These New Yahama Stereo Receivers Support 8K Video and the Xbox Series X](https://www.reviewgeek.com/84369/these-new-yahama-stereo-receivers-support-8k-video-and-the-xbox-series-x/)
+* [How to Search for Tweets from a Specific Date or Time Period](https://www.howtogeek.com/728266/how-to-search-for-tweets-from-a-specific-date-or-time-period/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

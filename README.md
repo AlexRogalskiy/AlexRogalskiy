@@ -185,17 +185,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/T/Things_are_looking_up._235.php" target="_blank"><i>Things are looking up.</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/M/make_up_your_mind_202.php" target="_blank"><i>make up your mind</i></a>
 <span> = </span>
-<span>You can say "things are looking up" if things are improving.</span>
+<span>If you make up your mind, you make a decision.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/American/zonked_zonked_out_2__1378.php" target="_blank"><i>zonked | zonked out (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/R/ratty_2__1233.php" target="_blank"><i>ratty (2)</i></a>
 <span> = </span>
-<span>exhausted, very tired</span>
+<span>easily annoyed or upset, irritable</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -241,20 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651815854993031168" target="_blank"><i>Trees</i></a></summary>
-<p>by Mark Haddon</p><p>They stand in parks and graveyards and gardens.<br/>
-Some of them are taller than department stores,<br/>
-yet they do not draw attention to themselves.</p><p>You will be fitting a heated towel rail one day<br/>
-and see, through the louvre window,<br/>
-a shoal of olive-green fish changing direction<br/>
-in the air that swims above the little gardens.</p><p>Or you will wake at your aunt’s cottage,<br/>
-your sleep broken by a coal train on the empty hill<br/>
-as the oaks roar in the wind off the channel.</p><p>Your kindness to animals, your skill at the clarinet,<br/>
-these are accidental things.<br/>
-We lost this game a long way back.<br/>
-Look at you. You’re reading poetry.<br/>
-Outside the spring air is thick<br/>
-with the seeds of their children.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651912023328931840" target="_blank"><i>Love Comes Quietly</i></a></summary>
+<p>by Robert Creeley</p><p>Love comes quietly,<br/>finally, drops<br/>about me, on me,<br/>in the old ways.</p><p>What did I know<br/>thinking myself<br/>able to go<br/>alone all the way.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -285,7 +273,7 @@ with the seeds of their children.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 95%, pressure: 1006 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
+        <b>8°C (<i>broken clouds</i>), humidity: 91%, pressure: 1006 (mbar), wind: /south-west/ 2 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>04:04 am</b> and sets at <b>21:46 pm</b>.
     </p>
@@ -298,61 +286,61 @@ with the seeds of their children.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [New Arduino Nano RP2040 Connect Is Like a Raspberry Pi Pico on Steroids](https://www.reviewgeek.com/84390/new-arduino-nano-rp2040-connect-is-like-a-raspberry-pi-pico-on-steroids/)
-* [Four of Moog's Terrific (but Pricey) Synth Apps Are Now on Sale for Free on iOS](https://www.reviewgeek.com/84428/four-of-moogs-terrific-but-pricey-synth-apps-are-now-on-sale-for-free-on-ios/)
-* [Amazon Is Making it Easier to Order 2-Hour Delivery](https://www.reviewgeek.com/84353/amazon-is-making-it-easier-to-order-2-hour-delivery/)
-* [Pixel 6 Leaks Show a 6.4-inch Display for the "Small" Phone](https://www.reviewgeek.com/84321/pixel-6-leaks-show-a-6-4-inch-display-for-the-small-phone/)
-* [After Three Years, Linux Apps on Chromebooks are Finally Breaking Out of Beta](https://www.reviewgeek.com/84333/after-three-years-linux-apps-on-chromebooks-are-finally-breaking-out-of-beta/)
-* [Kia's EV6 Electric Car Puts an Augmented Reality Heads Up Display Front and Center](https://www.reviewgeek.com/84339/kias-ev6-electric-car-puts-an-augmented-reality-heads-up-display-front-and-center/)
-* [How to Monitor a Windows Folder for New Files and Take Action](https://www.cloudsavvyit.com/2000/how-to-monitor-a-windows-folder-for-new-files-and-take-action/)
-* [OnePlus Watch and 'Cyberpunk 2077' Are a Match Made In ... Uh](https://www.reviewgeek.com/84290/oneplus-watch-and-cyberpunk-2077-are-a-match-made-in-uh/)
-* [How to Get the iMac’s “Hello” Screen Saver on Your Mac](https://www.howtogeek.com/730019/how-to-get-the-imacs-hello-screen-saver-on-your-mac/)
-* [A Bunch of Roku 4k Streaming Devices are On Sale at Amazon](https://www.reviewgeek.com/84309/a-bunch-of-roku-4k-streaming-devices-are-on-sale-at-amazon/)
+* [Researchers Built a "Shapeshifting" CPU That's Impossible to Hack](https://www.reviewgeek.com/84497/researchers-built-a-shapeshifting-cpu-thats-impossible-to-hack/)
+* [Don't Worry, Tizen Will Still Live on in Samsung's TVs](https://www.reviewgeek.com/84478/dont-worry-tizen-will-still-live-on-in-samsungs-tvs/)
+* [There's a Big Ol' Garmin Electronics Sale Happening Right Now, Up to $100 Off](https://www.reviewgeek.com/84426/theres-a-big-ol-garmin-electronics-sale-happening-right-now-up-to-100-off/)
+* [Ghost of Google Reader Finds Its Way to New Chrome Canary Build](https://www.reviewgeek.com/84437/ghost-of-google-reader-finds-its-way-to-new-chrome-canary-build/)
+* [How to Change Where Screenshots Are Saved on Mac](https://www.howtogeek.com/403519/how-to-change-macos-mojaves-default-screenshot-location/)
+* [How to Crop an Image into a Circle in Photoshop](https://www.howtogeek.com/724941/how-to-crop-an-image-into-a-circle-in-photoshop/)
+* [How to Setup Slack Notifications for Low Disk Space On Your Server](https://www.cloudsavvyit.com/811/how-to-setup-slack-notifications-for-low-disk-space-on-your-server/)
+* [How to Change the Owner of a File in Google Drive](https://www.howtogeek.com/451463/how-to-change-the-owner-of-a-file-in-google-drive/)
+* [These New Yahama Stereo Receivers Support 8K Video and the Xbox Series X](https://www.reviewgeek.com/84369/these-new-yahama-stereo-receivers-support-8k-video-and-the-xbox-series-x/)
+* [How to Search for Tweets from a Specific Date or Time Period](https://www.howtogeek.com/728266/how-to-search-for-tweets-from-a-specific-date-or-time-period/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FTC is pressuring Amazon to punish fake-review schemers](https://www.vox.com/recode/22443153/amazon-seller-supsensions-aukey-mpow-ftc-paid-fake-reviews)
-- [Nautobot – Fork of NetBox](https://github.com/nautobot/nautobot)
-- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
-- [Why the Bronte sisters died so young (2019)](https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920)
-- [The Panama Papers Double Cross How a spy-for-hire got guarded dirt on the elite](https://nymag.com/intelligencer/2021/05/how-mark-hollingsworth-got-access-to-the-panama-papers.html)
-- [Unsupervised Speech Recognition](https://ai.facebook.com/research/publications/unsupervised-speech-recognition)
-- [Five Best: Books on the Soviet Home Front in World War II](https://www.wsj.com/articles/five-best-books-on-the-soviet-home-front-in-world-war-ii-11621608688)
-- [Unix job control dark corners illustrated](https://utcc.utoronto.ca/~cks/space/blog/unix/JobControlHasDarkCorners)
-- [Tether: The Story So Far (2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
-- [Most common professional marriages in the Bay Area](https://flowingdata.com/2021/05/20/most-common-professional-marriages/)
+- [Lullaby of the Artillery](https://www.tnhh.net/posts/lullaby-of-the-artillery.html)
+- [Do Carbon Prices Limit Economic Growth?](https://journals.sagepub.com/doi/full/10.1177/2378023119898326)
+- [Ask HN: Would you please help me find an old HN post?](https://news.ycombinator.com/item?id=27251997)
+- [Goblin Interviews Alexandra Elbakian](https://breckyunits.com/elbakian-interview.html)
+- [CDC Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html)
+- [Tardigrades survive impacts of up to 825 meters per second](https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html)
+- [How to poison a feral pig? It’s not easy](https://www.salon.com/2021/05/22/how-to-poison-a-feral-pig-its-not-easy_partner/)
+- [A 106-year old Armenian woman protecting her home with an AK47](https://www.reddit.com/r/Iamactuallyverybadass/comments/nisb4o/a_106year_old_armenian_woman_who_must_have/)
+- [AnimeInterp: Deep Animation Video Interpolation in the Wild](https://github.com/lisiyao21/AnimeInterp)
+- [SSDs with Built-In Protection Against Ransomware](https://www.tomshardware.com/news/phison-cigent-develop-self-protecting-ssds)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden sends special envoy to South Korea to press North on nuclear arms](https://www.theguardian.com/us-news/2021/may/22/biden-sends-special-envoy-to-south-korea-to-press-north-on-nuclear-weapons)
-- [Palestinians return to devastated homes as UN calls for Gaza dialogue](https://www.theguardian.com/world/2021/may/21/palestinians-return-to-damaged-homes-as-un-calls-for-gaza-dialogue)
-- [Phil Mickelson rolls back years to share US PGA lead with Louis Oosthuizen](https://www.theguardian.com/sport/2021/may/21/phil-mickelson-rolls-back-years-to-lead-us-pga-after-his-second-round)
-- [Talking Horses: Wembley can win the cup for O’Brien in Irish 2,000 Guineas](https://www.theguardian.com/sport/blog/2021/may/22/talking-horses-racing-tips-irish-2000-guineas-wembley)
-- [Real Water, a premium bottled water, recalled amid death and liver illnesses](https://www.theguardian.com/us-news/2021/may/21/real-water-alkalized-liver-illness-death)
-- [Jürgen Klopp braced for Anfield ‘final’ at end of tough road for Liverpool | Andy Hunter](https://www.theguardian.com/football/2021/may/21/jurgen-klopp-braced-for-anfield-final-at-end-of-tough-road-for-liverpool)
-- [Thomas Tuchel throws Chelsea’s hat into the ring in Harry Kane fight](https://www.theguardian.com/football/2021/may/21/harry-kane-kevin-de-bruyne-would-be-a-dream-to-play-with-tottenham-manchester-city)
-- [No criminality in video of Rangers players after title win, police say](https://www.theguardian.com/football/2021/may/21/no-criminality-in-video-of-rangers-players-after-title-win-police-say)
-- [Danny Masterson: That ‘70s Show actor must stand trial on three counts of rape](https://www.theguardian.com/us-news/2021/may/21/danny-masterson-that-70s-show-rape-trial)
-- [Leicester edged out by Montpellier in thrilling Challenge Cup final](https://www.theguardian.com/sport/2021/may/21/leicester-edged-out-by-montpellier-in-thrilling-final)
+- [José Ramírez v Josh Taylor: Undisputed junior welterweight championship – live!](https://www.theguardian.com/sport/live/2021/may/22/jose-ramirez-v-josh-taylor-fight-undisputed-live)
+- [Myanmar’s military rulers suspend more than 125,000 teachers for opposing coup](https://www.theguardian.com/world/2021/may/23/myanmars-military-rulers-suspend-more-than-125000-teachers-for-opposing-coup)
+- [CDC studying reports of heart inflammation in young Covid vaccine recipients](https://www.theguardian.com/world/2021/may/23/cdc-studying-reports-of-heart-inflammation-in-young-covid-vaccine-recipients)
+- [At least 20 dead as extreme weather hits mountain running race in China](https://www.theguardian.com/world/2021/may/23/runners-dead-extreme-weather-hits-mountain-running-race-gansu-china)
+- [Phil Mickelson holds narrow lead going into final round of US PGA](https://www.theguardian.com/sport/2021/may/23/phil-mickelson-holds-narrow-lead-going-into-final-round-of-us-pga)
+- [Eurovision 2021: Måneskin triumphs for Italy in Rotterdam](https://www.theguardian.com/tv-and-radio/2021/may/22/eurovision-2021-maneskin-triumphs-for-italy-in-rotterdam)
+- [DRC orders evacuation of Goma after Nyiragongo volcano erupts](https://www.theguardian.com/world/2021/may/22/nyiragongo-volcano-erupts-in-eastern-congo)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Let’s get shorty: 15 of the best smart men’s shorts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/lets-get-shorty-15-of-the-best-smart-mens-shorts-in-pictures)
+- [Throw shade: 10 of the best oversized sunglasses – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/throw-shade-10-of-the-best-oversized-sunglasses-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A new replication crisis: Research that is less likely to be true is cited more](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
-- [San Francisco’s Shoplifting Surge](https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html)
-- [The Algorithmic Beauty of Plants (1990) [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
-- [Canada declares plastics toxic, paving the way for restrictions](https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/)
-- [Woke at Work: Why tech firms are trying to run away from politics and failing](https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing)
-- [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
-- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
-- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
-- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
-- [National hiring experiments reveal 2:1 preference for women on STEM tenure track (2015)](https://www.pnas.org/content/early/2015/04/08/1418878112)
+- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
+- [Sixth grader expelled after Zoom provided possibly inaccurate IP address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
+- [Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
+- [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
+- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
+- [KolibriOS](http://www.kolibrios.org/en/)
+- [Show HN: ClangQL – Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
+- [DatasetGAN: Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
+- [Generate RSS feeds with grep(1), sed(1), and Awk(1)](https://www.romanzolotarev.com/rssg.html)
+- [GiveCampus (YC S15) is hiring remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -418,16 +406,16 @@ with the seeds of their children.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Certification training resources?](https://www.reddit.com/r/InformationTechnology/comments/nisoh1/certification_training_resources/)
+- [Bridge Connection](https://www.reddit.com/r/InformationTechnology/comments/nilww9/bridge_connection/)
+- [How do I start my career in IT with a speech disorder?](https://www.reddit.com/r/InformationTechnology/comments/niht4m/how_do_i_start_my_career_in_it_with_a_speech/)
+- [Advice on figuring out where to go in IT.](https://www.reddit.com/r/InformationTechnology/comments/nicfmt/advice_on_figuring_out_where_to_go_in_it/)
 - [NEC Desk Phone Issue](https://www.reddit.com/r/InformationTechnology/comments/ni6vr9/nec_desk_phone_issue/)
 - [Anyone knows Robust IT training in UK?](https://www.reddit.com/r/InformationTechnology/comments/nhvb0q/anyone_knows_robust_it_training_in_uk/)
 - [Hi all. I have a IT recruitment agency in the UK called Third Nexus Group - www.thirdnexus.co.uk feel free to check out the website for our latest jobs. We are also on linked https://www.linkedin.com/company/third-nexus-group-ltd follow the page for latest updates](https://www.reddit.com/r/InformationTechnology/comments/nhmj9z/hi_all_i_have_a_it_recruitment_agency_in_the_uk/)
 - [Where can I find real world tasks or practicing questions about system or network administration and cyber or information security which I can show my solutions on my CV?](https://www.reddit.com/r/InformationTechnology/comments/nhlb56/where_can_i_find_real_world_tasks_or_practicing/)
 - [Where to get study material for A+ Cert?](https://www.reddit.com/r/InformationTechnology/comments/nhj5b8/where_to_get_study_material_for_a_cert/)
 - [Why do so many jobs ask for a college degree?](https://www.reddit.com/r/InformationTechnology/comments/nhfy8m/why_do_so_many_jobs_ask_for_a_college_degree/)
-- [Advice?](https://www.reddit.com/r/InformationTechnology/comments/nhf5vk/advice/)
-- [Which external hard drives are the best for Apple Macbook Pro (2019 version USB C)?](https://www.reddit.com/r/InformationTechnology/comments/nh3y40/which_external_hard_drives_are_the_best_for_apple/)
-- [WSJ0](https://www.reddit.com/r/InformationTechnology/comments/nh3i48/wsj0/)
-- [Is configuring NAT for a home router practical or possible?](https://www.reddit.com/r/InformationTechnology/comments/nh20mv/is_configuring_nat_for_a_home_router_practical_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

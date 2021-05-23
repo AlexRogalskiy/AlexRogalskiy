@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/T/Things_are_looking_up._235.php" target="_blank"><i>Things are looking up.</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/M/make_up_your_mind_202.php" target="_blank"><i>make up your mind</i></a>
 <span> = </span>
-<span>You can say "things are looking up" if things are improving.</span>
+<span>If you make up your mind, you make a decision.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [José Ramírez v Josh Taylor: Undisputed junior welterweight championship – live!](https://www.theguardian.com/sport/live/2021/may/22/jose-ramirez-v-josh-taylor-fight-undisputed-live)
-- [Myanmar’s military rulers suspend more than 125,000 teachers for opposing coup](https://www.theguardian.com/world/2021/may/23/myanmars-military-rulers-suspend-more-than-125000-teachers-for-opposing-coup)
-- [CDC studying reports of heart inflammation in young Covid vaccine recipients](https://www.theguardian.com/world/2021/may/23/cdc-studying-reports-of-heart-inflammation-in-young-covid-vaccine-recipients)
-- [At least 20 dead as extreme weather hits mountain running race in China](https://www.theguardian.com/world/2021/may/23/runners-dead-extreme-weather-hits-mountain-running-race-gansu-china)
-- [Phil Mickelson holds narrow lead going into final round of US PGA](https://www.theguardian.com/sport/2021/may/23/phil-mickelson-holds-narrow-lead-going-into-final-round-of-us-pga)
-- [Eurovision 2021: Måneskin triumphs for Italy in Rotterdam](https://www.theguardian.com/tv-and-radio/2021/may/22/eurovision-2021-maneskin-triumphs-for-italy-in-rotterdam)
-- [DRC orders evacuation of Goma after Nyiragongo volcano erupts](https://www.theguardian.com/world/2021/may/22/nyiragongo-volcano-erupts-in-eastern-congo)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Let’s get shorty: 15 of the best smart men’s shorts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/lets-get-shorty-15-of-the-best-smart-mens-shorts-in-pictures)
-- [Throw shade: 10 of the best oversized sunglasses – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/throw-shade-10-of-the-best-oversized-sunglasses-in-pictures)
+- [The pandemic scam artists making millions during lockdown – podcast](https://www.theguardian.com/news/audio/2021/may/24/the-pandemic-scam-artists-making-millions-during-lockdownn-podcast)
+- [Princess Latifa: new Instagram image appears to show Dubai ruler’s daughter](https://www.theguardian.com/world/2021/may/24/princess-latifa-instagram-image-dubai)
+- [People in England ‘face three-year waits for dentist appointments’](https://www.theguardian.com/society/2021/may/24/people-in-england-face-three-year-waits-for-dentist-appointments)
+- [Phil Mickelson wins US PGA Championship in triumph for the ages](https://www.theguardian.com/sport/2021/may/24/phil-mickelson-wins-us-pga-championship-in-triumph-for-the-ages)
+- [Boris Johnson to marry fiancee Carrie Symonds in July 2022, report says](https://www.theguardian.com/politics/2021/may/24/boris-johnson-to-marry-fiancee-carrie-symonds-in-july-report-says)
+- [Decades review – it’s curtain up to terror and rage from Simon Armitage and Maxine Peake](https://www.theguardian.com/stage/2021/may/24/decades-review-its-curtain-up-to-terror-and-rage-from-simon-armitage-and-maxine-peake)
+- [Launch of survey into Black British identity hailed as UK first](https://www.theguardian.com/world/2021/may/24/launch-of-survey-into-black-british-identity-hailed-as-uk-first)
+- [WHO and global faith leaders call for fair access to Covid vaccines](https://www.theguardian.com/world/2021/may/24/who-and-global-faith-leaders-call-for-fair-access-to-covid-vaccines)
+- [Black British Voices Project: ‘Being black and British is an abundance of joy’](https://www.theguardian.com/world/2021/may/24/black-british-voice-project-being-black-and-british-is-an-abundance-of-joy)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2021/may/24/premier-league-10-talking-points-from-the-weekends-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

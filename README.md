@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/Poor_men_go_to_heaven_as_soon_as_rich_916.php" target="_blank"><i>Poor men go to heaven as soon as rich</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/L/Lightning_never_strikes_twice_in_the_same_place_547.php" target="_blank"><i>Lightning never strikes twice in the same place</i></a>
 <span> = </span>
-<span>God makes no distinction between people with money and people without money.</span>
+<span>The idea here is that the same misfortune or bad luck will not happen again to the same person. This saying is often shortened, with the same meaning, to: "Lightning never strikes twice." (In reality, it has been proven that lightning often does strike two or more times in the same place.)</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

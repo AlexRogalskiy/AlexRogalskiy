@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;ac&#x2F;56&#x2F;19ac5657d31442896b32f17727131b57.jpg" alt="We&#39;ve got the power. Plenipotent is the Word of the Day. Want example sentences? Click to learn more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;e3&#x2F;54&#x2F;3d&#x2F;e3543d4becf054e72a849f02f006577b.jpg" alt="We&#39;re only going to say this once. Hapax legomenon is the Word of the Day. Wondering how to say it? Click to get the pronunciation and check out our free Word of the Day podcast. " />
@@ -282,7 +282,7 @@ and action–
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>13°C (<i>scattered clouds</i>), humidity: 74%, pressure: 1009 (mbar), wind: /north/ 1 (m/s), cloudy: 40%</b>
+        <b>15°C (<i>scattered clouds</i>), humidity: 63%, pressure: 1010 (mbar), wind: /north/ 1 (m/s), cloudy: 40%</b>
         <br />
         Today, the Sun rises at <b>04:02 am</b> and sets at <b>21:49 pm</b>.
     </p>

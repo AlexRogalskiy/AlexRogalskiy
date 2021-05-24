@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Researchers Built a "Shapeshifting" CPU That's Impossible to Hack](https://www.reviewgeek.com/84497/researchers-built-a-shapeshifting-cpu-thats-impossible-to-hack/)
-* [Don't Worry, Tizen Will Still Live on in Samsung's TVs](https://www.reviewgeek.com/84478/dont-worry-tizen-will-still-live-on-in-samsungs-tvs/)
-* [There's a Big Ol' Garmin Electronics Sale Happening Right Now, Up to $100 Off](https://www.reviewgeek.com/84426/theres-a-big-ol-garmin-electronics-sale-happening-right-now-up-to-100-off/)
-* [Ghost of Google Reader Finds Its Way to New Chrome Canary Build](https://www.reviewgeek.com/84437/ghost-of-google-reader-finds-its-way-to-new-chrome-canary-build/)
-* [How to Change Where Screenshots Are Saved on Mac](https://www.howtogeek.com/403519/how-to-change-macos-mojaves-default-screenshot-location/)
-* [How to Crop an Image into a Circle in Photoshop](https://www.howtogeek.com/724941/how-to-crop-an-image-into-a-circle-in-photoshop/)
-* [How to Setup Slack Notifications for Low Disk Space On Your Server](https://www.cloudsavvyit.com/811/how-to-setup-slack-notifications-for-low-disk-space-on-your-server/)
-* [How to Change the Owner of a File in Google Drive](https://www.howtogeek.com/451463/how-to-change-the-owner-of-a-file-in-google-drive/)
-* [These New Yahama Stereo Receivers Support 8K Video and the Xbox Series X](https://www.reviewgeek.com/84369/these-new-yahama-stereo-receivers-support-8k-video-and-the-xbox-series-x/)
-* [How to Search for Tweets from a Specific Date or Time Period](https://www.howtogeek.com/728266/how-to-search-for-tweets-from-a-specific-date-or-time-period/)
+* [Spiral Galaxies Started Forming Earlier Than We Thought, According to This Photo](https://www.reviewgeek.com/84528/spiral-galaxies-started-forming-earlier-than-we-thought-according-to-this-photo/)
+* [Snapchat and LEGO Team Up For Augmented Reality Brick Building Fun](https://www.reviewgeek.com/84443/snapchat-and-lego-team-up-for-augmented-reality-brick-building-fun/)
+* [Weird Science: Research Shows People Adapt to an Robotic Third Thumb Easily](https://www.reviewgeek.com/84370/weird-science-research-shows-people-adapt-to-an-robotic-third-thumb-easily/)
+* [New Kensington StudioDock on the Way for Latest 12.9-inch iPad Pro](https://www.reviewgeek.com/84472/new-kensington-studiodock-on-the-way-for-latest-12-9-inch-ipad-pro/)
+* [How to Schedule a Google Calendar Event in Google Chat](https://www.howtogeek.com/727674/how-to-schedule-a-google-calendar-event-in-google-chat/)
+* [How to Turn off an Xbox Controller When Paired Using Bluetooth](https://www.howtogeek.com/726692/how-to-turn-off-an-xbox-controller-when-paired-using-bluetooth/)
+* [How to Update Safari on Mac](https://www.howtogeek.com/727360/how-to-update-safari-on-mac/)
+* [How to Add Metadata to a Photo in Photoshop](https://www.howtogeek.com/725946/how-to-add-copyright-metadata-to-a-photo-in-photoshop/)
+* [The 6 Best TVs with Google Chromecast](https://www.reviewgeek.com/82653/the-6-best-tvs-with-google-chromecast/)
+* [How to Host a Spotify Group Listening Party on Discord](https://www.howtogeek.com/726346/how-to-host-a-spotify-group-listening-party-on-discord/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

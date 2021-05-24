@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
-- [Sixth grader expelled after Zoom provided possibly inaccurate IP address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
-- [Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
-- [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
-- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
-- [KolibriOS](http://www.kolibrios.org/en/)
-- [Show HN: ClangQL – Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
-- [DatasetGAN: Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
-- [Generate RSS feeds with grep(1), sed(1), and Awk(1)](https://www.romanzolotarev.com/rssg.html)
-- [GiveCampus (YC S15) is hiring remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
+- [Dave Ramsey sues former employees for making blog posts about leaving company](https://twitter.com/amyfritz/status/1395558966768377860)
+- [Instanced Line Rendering Using WebGL](https://wwwtyro.net/2019/11/18/instanced-lines.html)
+- [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
+- [Switching from Mailchimp to open-source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
+- [Cray-2 Memories [pdf]](http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf)
+- [Neural Network Enabled Filmmaking](https://www.flawlessai.com/)
+- [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
+- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
+- [Show HN: Direct manipulation flowchart editor without the mouse](https://www.knotend.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

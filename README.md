@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_4/pick_out_1677.php" target="_blank"><i>pick out</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/take_1/take_up_1__1694.php" target="_blank"><i>take up (1)</i></a>
 <span> = </span>
-<span>If you pick out something, you choose or select it.</span>
+<span>to fill an area of space or a period of time</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

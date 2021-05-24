@@ -241,8 +241,17 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651912023328931840" target="_blank"><i>Love Comes Quietly</i></a></summary>
-<p>by Robert Creeley</p><p>Love comes quietly,<br/>finally, drops<br/>about me, on me,<br/>in the old ways.</p><p>What did I know<br/>thinking myself<br/>able to go<br/>alone all the way.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651997042952028160" target="_blank"><i>Where the Mind Is Without Fear</i></a></summary>
+<p>by Rabindranath Tagore<br/></p><p>Where the mind is without fear and the head is held high;
+ <br/>Where knowledge is free;
+ <br/>Where the world has not been broken up into fragments by narrow<br/>domestic walls;
+ <br/>Where words come out from the depth of truth;
+ <br/>Where tireless striving stretches its arms towards perfection;
+ <br/>Where the clear stream of reason has not lost its way into the
+dreary desert sand of dead habit;
+ <br/>Where the mind is led forward by thee into ever-widening thought
+and action–
+<br/> Into that heaven of freedom, my Father, let my country awake.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lullaby of the Artillery](https://www.tnhh.net/posts/lullaby-of-the-artillery.html)
-- [Do Carbon Prices Limit Economic Growth?](https://journals.sagepub.com/doi/full/10.1177/2378023119898326)
-- [Ask HN: Would you please help me find an old HN post?](https://news.ycombinator.com/item?id=27251997)
-- [Goblin Interviews Alexandra Elbakian](https://breckyunits.com/elbakian-interview.html)
-- [CDC Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html)
-- [Tardigrades survive impacts of up to 825 meters per second](https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html)
-- [How to poison a feral pig? It’s not easy](https://www.salon.com/2021/05/22/how-to-poison-a-feral-pig-its-not-easy_partner/)
-- [A 106-year old Armenian woman protecting her home with an AK47](https://www.reddit.com/r/Iamactuallyverybadass/comments/nisb4o/a_106year_old_armenian_woman_who_must_have/)
-- [AnimeInterp: Deep Animation Video Interpolation in the Wild](https://github.com/lisiyao21/AnimeInterp)
-- [SSDs with Built-In Protection Against Ransomware](https://www.tomshardware.com/news/phison-cigent-develop-self-protecting-ssds)
+- [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
+- [Musk: Deluxe Tesla Will Use SpaceX Thrusters for Spine-Crushing Acceleration](https://futurism.com/elon-musk-deluxe-tesla-spacex-thrusters)
+- [Case Study on Recursion Pharmaceuticals](https://axial.substack.com/p/axial-recursion-pharmaceuticals)
+- [How Hacking Became a Professional Service in Russia](https://www.newyorker.com/news/news-desk/how-hacking-became-a-professional-service-in-russia)
+- [Useful iOS Things GitHub Repository](https://github.com/jphong1111/Useful_Swift)
+- [Elon Musk Has Become Bitcoin’s Biggest Influencer, Like It or Not](https://www.wsj.com/articles/elon-musk-has-become-bitcoins-biggest-influencer-like-it-or-not-11621762202)
+- [‘Tracked’ – New Privacy Ad from Apple](https://daringfireball.net/linked/2021/05/23/tracked-ad)
+- [The White House Is Partnering with Dating Apps to Get Horny People Vaccinated](https://www.buzzfeednews.com/article/clarissajanlim/dating-apps-covid-vaccine)
+- [The Unwritten Contract of Solid State Drives](https://dl.acm.org/doi/10.1145/3064176.3064187)
+- [Shape-shifting computer chip thwarts an army of hackers](https://theconversation.com/shape-shifting-computer-chip-thwarts-an-army-of-hackers-159990)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

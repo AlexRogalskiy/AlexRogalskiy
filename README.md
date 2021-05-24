@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/R/ratty_2__1233.php" target="_blank"><i>ratty (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_2/bastard_1161.php" target="_blank"><i>bastard</i></a>
 <span> = </span>
-<span>easily annoyed or upset, irritable</span>
+<span>an unpleasant, despicable person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

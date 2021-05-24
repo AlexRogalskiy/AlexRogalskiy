@@ -241,8 +241,17 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651912023328931840" target="_blank"><i>Love Comes Quietly</i></a></summary>
-<p>by Robert Creeley</p><p>Love comes quietly,<br/>finally, drops<br/>about me, on me,<br/>in the old ways.</p><p>What did I know<br/>thinking myself<br/>able to go<br/>alone all the way.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/651997042952028160" target="_blank"><i>Where the Mind Is Without Fear</i></a></summary>
+<p>by Rabindranath Tagore<br/></p><p>Where the mind is without fear and the head is held high;
+ <br/>Where knowledge is free;
+ <br/>Where the world has not been broken up into fragments by narrow<br/>domestic walls;
+ <br/>Where words come out from the depth of truth;
+ <br/>Where tireless striving stretches its arms towards perfection;
+ <br/>Where the clear stream of reason has not lost its way into the
+dreary desert sand of dead habit;
+ <br/>Where the mind is led forward by thee into ever-widening thought
+and action–
+<br/> Into that heaven of freedom, my Father, let my country awake.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +282,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>10°C (<i>light rain</i>), humidity: 93%, pressure: 1002 (mbar), wind: /east/ 8 (m/s), cloudy: 90%</b>
+        <b>10°C (<i>light rain</i>), humidity: 94%, pressure: 1005 (mbar), wind: /east/ 6 (m/s), cloudy: 90%</b>
         <br />
         Today, the Sun rises at <b>04:02 am</b> and sets at <b>21:49 pm</b>.
     </p>
@@ -286,61 +295,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Researchers Built a "Shapeshifting" CPU That's Impossible to Hack](https://www.reviewgeek.com/84497/researchers-built-a-shapeshifting-cpu-thats-impossible-to-hack/)
-* [Don't Worry, Tizen Will Still Live on in Samsung's TVs](https://www.reviewgeek.com/84478/dont-worry-tizen-will-still-live-on-in-samsungs-tvs/)
-* [There's a Big Ol' Garmin Electronics Sale Happening Right Now, Up to $100 Off](https://www.reviewgeek.com/84426/theres-a-big-ol-garmin-electronics-sale-happening-right-now-up-to-100-off/)
-* [Ghost of Google Reader Finds Its Way to New Chrome Canary Build](https://www.reviewgeek.com/84437/ghost-of-google-reader-finds-its-way-to-new-chrome-canary-build/)
-* [How to Change Where Screenshots Are Saved on Mac](https://www.howtogeek.com/403519/how-to-change-macos-mojaves-default-screenshot-location/)
-* [How to Crop an Image into a Circle in Photoshop](https://www.howtogeek.com/724941/how-to-crop-an-image-into-a-circle-in-photoshop/)
-* [How to Setup Slack Notifications for Low Disk Space On Your Server](https://www.cloudsavvyit.com/811/how-to-setup-slack-notifications-for-low-disk-space-on-your-server/)
-* [How to Change the Owner of a File in Google Drive](https://www.howtogeek.com/451463/how-to-change-the-owner-of-a-file-in-google-drive/)
-* [These New Yahama Stereo Receivers Support 8K Video and the Xbox Series X](https://www.reviewgeek.com/84369/these-new-yahama-stereo-receivers-support-8k-video-and-the-xbox-series-x/)
-* [How to Search for Tweets from a Specific Date or Time Period](https://www.howtogeek.com/728266/how-to-search-for-tweets-from-a-specific-date-or-time-period/)
+* [Spiral Galaxies Started Forming Earlier Than We Thought, According to This Photo](https://www.reviewgeek.com/84528/spiral-galaxies-started-forming-earlier-than-we-thought-according-to-this-photo/)
+* [Snapchat and LEGO Team Up For Augmented Reality Brick Building Fun](https://www.reviewgeek.com/84443/snapchat-and-lego-team-up-for-augmented-reality-brick-building-fun/)
+* [Weird Science: Research Shows People Adapt to an Robotic Third Thumb Easily](https://www.reviewgeek.com/84370/weird-science-research-shows-people-adapt-to-an-robotic-third-thumb-easily/)
+* [New Kensington StudioDock on the Way for Latest 12.9-inch iPad Pro](https://www.reviewgeek.com/84472/new-kensington-studiodock-on-the-way-for-latest-12-9-inch-ipad-pro/)
+* [How to Schedule a Google Calendar Event in Google Chat](https://www.howtogeek.com/727674/how-to-schedule-a-google-calendar-event-in-google-chat/)
+* [How to Turn off an Xbox Controller When Paired Using Bluetooth](https://www.howtogeek.com/726692/how-to-turn-off-an-xbox-controller-when-paired-using-bluetooth/)
+* [How to Update Safari on Mac](https://www.howtogeek.com/727360/how-to-update-safari-on-mac/)
+* [How to Add Metadata to a Photo in Photoshop](https://www.howtogeek.com/725946/how-to-add-copyright-metadata-to-a-photo-in-photoshop/)
+* [The 6 Best TVs with Google Chromecast](https://www.reviewgeek.com/82653/the-6-best-tvs-with-google-chromecast/)
+* [How to Host a Spotify Group Listening Party on Discord](https://www.howtogeek.com/726346/how-to-host-a-spotify-group-listening-party-on-discord/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lullaby of the Artillery](https://www.tnhh.net/posts/lullaby-of-the-artillery.html)
-- [Do Carbon Prices Limit Economic Growth?](https://journals.sagepub.com/doi/full/10.1177/2378023119898326)
-- [Ask HN: Would you please help me find an old HN post?](https://news.ycombinator.com/item?id=27251997)
-- [Goblin Interviews Alexandra Elbakian](https://breckyunits.com/elbakian-interview.html)
-- [CDC Is Investigating a Heart Problem in a Few Young Vaccine Recipients](https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html)
-- [Tardigrades survive impacts of up to 825 meters per second](https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html)
-- [How to poison a feral pig? It’s not easy](https://www.salon.com/2021/05/22/how-to-poison-a-feral-pig-its-not-easy_partner/)
-- [A 106-year old Armenian woman protecting her home with an AK47](https://www.reddit.com/r/Iamactuallyverybadass/comments/nisb4o/a_106year_old_armenian_woman_who_must_have/)
-- [AnimeInterp: Deep Animation Video Interpolation in the Wild](https://github.com/lisiyao21/AnimeInterp)
-- [SSDs with Built-In Protection Against Ransomware](https://www.tomshardware.com/news/phison-cigent-develop-self-protecting-ssds)
+- [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
+- [Musk: Deluxe Tesla Will Use SpaceX Thrusters for Spine-Crushing Acceleration](https://futurism.com/elon-musk-deluxe-tesla-spacex-thrusters)
+- [Case Study on Recursion Pharmaceuticals](https://axial.substack.com/p/axial-recursion-pharmaceuticals)
+- [How Hacking Became a Professional Service in Russia](https://www.newyorker.com/news/news-desk/how-hacking-became-a-professional-service-in-russia)
+- [Useful iOS Things GitHub Repository](https://github.com/jphong1111/Useful_Swift)
+- [Elon Musk Has Become Bitcoin’s Biggest Influencer, Like It or Not](https://www.wsj.com/articles/elon-musk-has-become-bitcoins-biggest-influencer-like-it-or-not-11621762202)
+- [‘Tracked’ – New Privacy Ad from Apple](https://daringfireball.net/linked/2021/05/23/tracked-ad)
+- [The White House Is Partnering with Dating Apps to Get Horny People Vaccinated](https://www.buzzfeednews.com/article/clarissajanlim/dating-apps-covid-vaccine)
+- [The Unwritten Contract of Solid State Drives](https://dl.acm.org/doi/10.1145/3064176.3064187)
+- [Shape-shifting computer chip thwarts an army of hackers](https://theconversation.com/shape-shifting-computer-chip-thwarts-an-army-of-hackers-159990)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [José Ramírez v Josh Taylor: Undisputed junior welterweight championship – live!](https://www.theguardian.com/sport/live/2021/may/22/jose-ramirez-v-josh-taylor-fight-undisputed-live)
-- [Myanmar’s military rulers suspend more than 125,000 teachers for opposing coup](https://www.theguardian.com/world/2021/may/23/myanmars-military-rulers-suspend-more-than-125000-teachers-for-opposing-coup)
-- [CDC studying reports of heart inflammation in young Covid vaccine recipients](https://www.theguardian.com/world/2021/may/23/cdc-studying-reports-of-heart-inflammation-in-young-covid-vaccine-recipients)
-- [At least 20 dead as extreme weather hits mountain running race in China](https://www.theguardian.com/world/2021/may/23/runners-dead-extreme-weather-hits-mountain-running-race-gansu-china)
-- [Phil Mickelson holds narrow lead going into final round of US PGA](https://www.theguardian.com/sport/2021/may/23/phil-mickelson-holds-narrow-lead-going-into-final-round-of-us-pga)
-- [Eurovision 2021: Måneskin triumphs for Italy in Rotterdam](https://www.theguardian.com/tv-and-radio/2021/may/22/eurovision-2021-maneskin-triumphs-for-italy-in-rotterdam)
-- [DRC orders evacuation of Goma after Nyiragongo volcano erupts](https://www.theguardian.com/world/2021/may/22/nyiragongo-volcano-erupts-in-eastern-congo)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Let’s get shorty: 15 of the best smart men’s shorts – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/lets-get-shorty-15-of-the-best-smart-mens-shorts-in-pictures)
-- [Throw shade: 10 of the best oversized sunglasses – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/22/throw-shade-10-of-the-best-oversized-sunglasses-in-pictures)
+- [The pandemic scam artists making millions during lockdown – podcast](https://www.theguardian.com/news/audio/2021/may/24/the-pandemic-scam-artists-making-millions-during-lockdownn-podcast)
+- [Princess Latifa: new Instagram image appears to show Dubai ruler’s daughter](https://www.theguardian.com/world/2021/may/24/princess-latifa-instagram-image-dubai)
+- [People in England ‘face three-year waits for dentist appointments’](https://www.theguardian.com/society/2021/may/24/people-in-england-face-three-year-waits-for-dentist-appointments)
+- [Phil Mickelson wins US PGA Championship in triumph for the ages](https://www.theguardian.com/sport/2021/may/24/phil-mickelson-wins-us-pga-championship-in-triumph-for-the-ages)
+- [Boris Johnson to marry fiancee Carrie Symonds in July 2022, report says](https://www.theguardian.com/politics/2021/may/24/boris-johnson-to-marry-fiancee-carrie-symonds-in-july-report-says)
+- [Decades review – it’s curtain up to terror and rage from Simon Armitage and Maxine Peake](https://www.theguardian.com/stage/2021/may/24/decades-review-its-curtain-up-to-terror-and-rage-from-simon-armitage-and-maxine-peake)
+- [Launch of survey into Black British identity hailed as UK first](https://www.theguardian.com/world/2021/may/24/launch-of-survey-into-black-british-identity-hailed-as-uk-first)
+- [WHO and global faith leaders call for fair access to Covid vaccines](https://www.theguardian.com/world/2021/may/24/who-and-global-faith-leaders-call-for-fair-access-to-covid-vaccines)
+- [Black British Voices Project: ‘Being black and British is an abundance of joy’](https://www.theguardian.com/world/2021/may/24/black-british-voice-project-being-black-and-british-is-an-abundance-of-joy)
+- [Premier League: 10 talking points from the weekend’s action](https://www.theguardian.com/football/2021/may/24/premier-league-10-talking-points-from-the-weekends-action)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
-- [Sixth grader expelled after Zoom provided possibly inaccurate IP address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
-- [Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
-- [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
-- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
-- [KolibriOS](http://www.kolibrios.org/en/)
-- [Show HN: ClangQL – Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
-- [DatasetGAN: Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
-- [Generate RSS feeds with grep(1), sed(1), and Awk(1)](https://www.romanzolotarev.com/rssg.html)
-- [GiveCampus (YC S15) is hiring remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
+- [Dave Ramsey sues former employees for making blog posts about leaving company](https://twitter.com/amyfritz/status/1395558966768377860)
+- [Instanced Line Rendering Using WebGL](https://wwwtyro.net/2019/11/18/instanced-lines.html)
+- [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
+- [Switching from Mailchimp to open-source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
+- [Cray-2 Memories [pdf]](http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf)
+- [Neural Network Enabled Filmmaking](https://www.flawlessai.com/)
+- [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
+- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
+- [Show HN: Direct manipulation flowchart editor without the mouse](https://www.knotend.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [VM](https://www.reddit.com/r/InformationTechnology/comments/njmb4z/vm/)
+- [How have most of you gotten hired? Recruiter or direct hire?](https://www.reddit.com/r/InformationTechnology/comments/njkthe/how_have_most_of_you_gotten_hired_recruiter_or/)
+- [SAS drives in vertical orientation?](https://www.reddit.com/r/InformationTechnology/comments/njk9ws/sas_drives_in_vertical_orientation/)
+- [Contract work vs permanent hire?](https://www.reddit.com/r/InformationTechnology/comments/njan6r/contract_work_vs_permanent_hire/)
 - [Certification training resources?](https://www.reddit.com/r/InformationTechnology/comments/nisoh1/certification_training_resources/)
 - [Bridge Connection](https://www.reddit.com/r/InformationTechnology/comments/nilww9/bridge_connection/)
 - [How do I start my career in IT with a speech disorder?](https://www.reddit.com/r/InformationTechnology/comments/niht4m/how_do_i_start_my_career_in_it_with_a_speech/)
 - [Advice on figuring out where to go in IT.](https://www.reddit.com/r/InformationTechnology/comments/nicfmt/advice_on_figuring_out_where_to_go_in_it/)
 - [NEC Desk Phone Issue](https://www.reddit.com/r/InformationTechnology/comments/ni6vr9/nec_desk_phone_issue/)
 - [Anyone knows Robust IT training in UK?](https://www.reddit.com/r/InformationTechnology/comments/nhvb0q/anyone_knows_robust_it_training_in_uk/)
-- [Hi all. I have a IT recruitment agency in the UK called Third Nexus Group - www.thirdnexus.co.uk feel free to check out the website for our latest jobs. We are also on linked https://www.linkedin.com/company/third-nexus-group-ltd follow the page for latest updates](https://www.reddit.com/r/InformationTechnology/comments/nhmj9z/hi_all_i_have_a_it_recruitment_agency_in_the_uk/)
-- [Where can I find real world tasks or practicing questions about system or network administration and cyber or information security which I can show my solutions on my CV?](https://www.reddit.com/r/InformationTechnology/comments/nhlb56/where_can_i_find_real_world_tasks_or_practicing/)
-- [Where to get study material for A+ Cert?](https://www.reddit.com/r/InformationTechnology/comments/nhj5b8/where_to_get_study_material_for_a_cert/)
-- [Why do so many jobs ask for a college degree?](https://www.reddit.com/r/InformationTechnology/comments/nhfy8m/why_do_so_many_jobs_ask_for_a_college_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

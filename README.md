@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [VM](https://www.reddit.com/r/InformationTechnology/comments/njmb4z/vm/)
+- [How have most of you gotten hired? Recruiter or direct hire?](https://www.reddit.com/r/InformationTechnology/comments/njkthe/how_have_most_of_you_gotten_hired_recruiter_or/)
+- [SAS drives in vertical orientation?](https://www.reddit.com/r/InformationTechnology/comments/njk9ws/sas_drives_in_vertical_orientation/)
+- [Contract work vs permanent hire?](https://www.reddit.com/r/InformationTechnology/comments/njan6r/contract_work_vs_permanent_hire/)
 - [Certification training resources?](https://www.reddit.com/r/InformationTechnology/comments/nisoh1/certification_training_resources/)
 - [Bridge Connection](https://www.reddit.com/r/InformationTechnology/comments/nilww9/bridge_connection/)
 - [How do I start my career in IT with a speech disorder?](https://www.reddit.com/r/InformationTechnology/comments/niht4m/how_do_i_start_my_career_in_it_with_a_speech/)
 - [Advice on figuring out where to go in IT.](https://www.reddit.com/r/InformationTechnology/comments/nicfmt/advice_on_figuring_out_where_to_go_in_it/)
 - [NEC Desk Phone Issue](https://www.reddit.com/r/InformationTechnology/comments/ni6vr9/nec_desk_phone_issue/)
 - [Anyone knows Robust IT training in UK?](https://www.reddit.com/r/InformationTechnology/comments/nhvb0q/anyone_knows_robust_it_training_in_uk/)
-- [Hi all. I have a IT recruitment agency in the UK called Third Nexus Group - www.thirdnexus.co.uk feel free to check out the website for our latest jobs. We are also on linked https://www.linkedin.com/company/third-nexus-group-ltd follow the page for latest updates](https://www.reddit.com/r/InformationTechnology/comments/nhmj9z/hi_all_i_have_a_it_recruitment_agency_in_the_uk/)
-- [Where can I find real world tasks or practicing questions about system or network administration and cyber or information security which I can show my solutions on my CV?](https://www.reddit.com/r/InformationTechnology/comments/nhlb56/where_can_i_find_real_world_tasks_or_practicing/)
-- [Where to get study material for A+ Cert?](https://www.reddit.com/r/InformationTechnology/comments/nhj5b8/where_to_get_study_material_for_a_cert/)
-- [Why do so many jobs ask for a college degree?](https://www.reddit.com/r/InformationTechnology/comments/nhfy8m/why_do_so_many_jobs_ask_for_a_college_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

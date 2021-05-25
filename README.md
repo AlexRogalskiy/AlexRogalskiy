@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/L/Lightning_never_strikes_twice_in_the_same_place_547.php" target="_blank"><i>Lightning never strikes twice in the same place</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/Variety_is_the_spice_of_life_591.php" target="_blank"><i>Variety is the spice of life</i></a>
 <span> = </span>
-<span>The idea here is that the same misfortune or bad luck will not happen again to the same person. This saying is often shortened, with the same meaning, to: "Lightning never strikes twice." (In reality, it has been proven that lightning often does strike two or more times in the same place.)</span>
+<span>Monotony is bad for us. We need plenty of change. It adds interest to our lives, just as spice adds interest to food.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

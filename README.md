@@ -241,17 +241,25 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/651997042952028160" target="_blank"><i>Where the Mind Is Without Fear</i></a></summary>
-<p>by Rabindranath Tagore<br/></p><p>Where the mind is without fear and the head is held high;
- <br/>Where knowledge is free;
- <br/>Where the world has not been broken up into fragments by narrow<br/>domestic walls;
- <br/>Where words come out from the depth of truth;
- <br/>Where tireless striving stretches its arms towards perfection;
- <br/>Where the clear stream of reason has not lost its way into the
-dreary desert sand of dead habit;
- <br/>Where the mind is led forward by thee into ever-widening thought
-and action–
-<br/> Into that heaven of freedom, my Father, let my country awake.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652087676633284608" target="_blank"><i>Untitled</i></a></summary>
+<p>by Leonard Cohen</p><p>Any system you contrive without us<br/>
+will be brought down<br/>
+We warned you before<br/>
+and nothing that you built has stood<br/>
+Hear it as you lean over you blueprint<br/>
+Hear it as you roll up your sleeve<br/>
+Hear it once again<br/>
+Any system you contrive without us<br/>
+will be brought down</p><p>You have your drugs<br/>
+You have your guns<br/>
+You have your Pyramids your Pentagons<br/>
+With all your grass and bullets<br/>
+you cannot hunt us any more<br/>
+All that we disclose of ourselves forever<br/>
+is this warning<br/>
+Nothing that you built has stood<br/>
+Any system you contrive without us<br/>
+will be brought down.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

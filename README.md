@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/take_1/take_up_1__1694.php" target="_blank"><i>take up (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_1/go_about_2791.php" target="_blank"><i>go about</i></a>
 <span> = </span>
-<span>to fill an area of space or a period of time</span>
+<span>to do something in a certain way, or to deal with something in a certain way<BR><BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

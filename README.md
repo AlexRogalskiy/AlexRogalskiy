@@ -290,7 +290,7 @@ will be brought down.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 86%, pressure: 1020 (mbar), wind: /north-east/ 2 (m/s), cloudy: 0%</b>
+        <b>7°C (<i>clear sky</i>), humidity: 83%, pressure: 1021 (mbar), wind: /north/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:00 am</b> and sets at <b>21:51 pm</b>.
     </p>
@@ -303,16 +303,16 @@ will be brought down.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Spiral Galaxies Started Forming Earlier Than We Thought, According to This Photo](https://www.reviewgeek.com/84528/spiral-galaxies-started-forming-earlier-than-we-thought-according-to-this-photo/)
-* [Snapchat and LEGO Team Up For Augmented Reality Brick Building Fun](https://www.reviewgeek.com/84443/snapchat-and-lego-team-up-for-augmented-reality-brick-building-fun/)
-* [Weird Science: Research Shows People Adapt to an Robotic Third Thumb Easily](https://www.reviewgeek.com/84370/weird-science-research-shows-people-adapt-to-an-robotic-third-thumb-easily/)
-* [New Kensington StudioDock on the Way for Latest 12.9-inch iPad Pro](https://www.reviewgeek.com/84472/new-kensington-studiodock-on-the-way-for-latest-12-9-inch-ipad-pro/)
-* [How to Schedule a Google Calendar Event in Google Chat](https://www.howtogeek.com/727674/how-to-schedule-a-google-calendar-event-in-google-chat/)
-* [How to Turn off an Xbox Controller When Paired Using Bluetooth](https://www.howtogeek.com/726692/how-to-turn-off-an-xbox-controller-when-paired-using-bluetooth/)
-* [How to Update Safari on Mac](https://www.howtogeek.com/727360/how-to-update-safari-on-mac/)
-* [How to Add Metadata to a Photo in Photoshop](https://www.howtogeek.com/725946/how-to-add-copyright-metadata-to-a-photo-in-photoshop/)
-* [The 6 Best TVs with Google Chromecast](https://www.reviewgeek.com/82653/the-6-best-tvs-with-google-chromecast/)
-* [How to Host a Spotify Group Listening Party on Discord](https://www.howtogeek.com/726346/how-to-host-a-spotify-group-listening-party-on-discord/)
+* [Apple's HomePod Will Get Lossless Audio Playback---Eventually](https://www.reviewgeek.com/84852/apples-homepod-will-get-lossless-audio-playback-eventually/)
+* [What’s New in iOS 14.6 and iPadOS 14.6?](https://www.howtogeek.com/730436/whats-new-in-ios-14.6-and-ipados-14.6/)
+* [Microsoft Surface Duo Can Double as a Handheld Xbox Console After Latest Update](https://www.reviewgeek.com/84827/microsoft-surface-duo-can-double-as-a-handheld-xbox-console-after-latest-update/)
+* [iFixit's M1 iMac Teardown Reveals an Impressively Small Logic Board](https://www.reviewgeek.com/84814/ifixits-m1-imac-teardown-reveals-an-impressively-small-logic-board/)
+* [Apple Reveals the Schedule for Its July WWDC 2021 Keynote](https://www.reviewgeek.com/84775/apple-reveals-the-schedule-for-its-july-wwdc-2021-keynote/)
+* [How Event Sourcing Helps You Track Your Application's State](https://www.cloudsavvyit.com/11000/how-event-sourcing-helps-you-track-your-applications-state/)
+* [New Sony Portable Speakers Offer Hours of Playback After a 10-Minute Charge](https://www.reviewgeek.com/84759/new-sony-portable-speakers-offer-hours-of-playback-after-a-10-minute-charge/)
+* [Zoom and IFTTT's New Partnership Makes it Easier to Prepare for Your Video Calls](https://www.reviewgeek.com/84776/zoom-and-ifttts-new-partnership-makes-it-easier-to-prepare-for-your-video-calls/)
+* [Samsung's Latest PC Smart Monitor is the Size of a TV](https://www.reviewgeek.com/84734/samsungs-latest-pc-smart-monitor-is-the-size-of-a-tv/)
+* [Some Verizon Customers Will Get Free Google Play Pass or Apple Arcade Subscriptions](https://www.reviewgeek.com/84743/some-verizon-customers-will-get-free-google-play-pass-or-apple-arcade-subscriptions/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

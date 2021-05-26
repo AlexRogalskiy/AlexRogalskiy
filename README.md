@@ -438,16 +438,16 @@ will be brought down.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Qualcomm announces new Windows on Arm testing kit](https://www.itworldcanada.com/article/qualcomm-announces-new-windows-on-arm-testing-kit/447757)
+- [Canada unlocks more mid-band spectrum for faster 5G](https://www.itworldcanada.com/article/canada-unlocks-more-mid-band-spectrum-for-faster-5g/447743)
+- [Coffee Briefing, May 25, 2021 – Citrix Canada’s new GM; Canada named world’s most cashless economy; job losses out West; and more](https://www.itworldcanada.com/article/coffee-briefing-may-25-2021-citrix-canadas-new-gm-canada-named-worlds-most-cashless-economy-job-losses-out-west-and-more/447705)
+- [Hashtag Trending, May 25, 2021 – Vaccine boosts attractiveness; China condemns illegal data collection; Google ends unlimited photo backups](https://www.itworldcanada.com/article/hashtag-trending-vaccine-boosts-attractiveness-china-condemns-illegal-data-collection-google-ends-unlimited-photo-backups/447734)
+- [Cyber Security Today, May 24, 2021 – Huge international data breach at Air India, and beware of online job scams](https://www.itworldcanada.com/article/cyber-security-today-may-24-2021-huge-international-data-breach-at-air-india-and-beware-of-online-job-scams/447718)
 - [Cyber Security Today, Week in Review for May 21, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-21-2021/447672)
 - [Have AI chatbots come of age?](https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679)
 - [Drowning in threat information? Stop sharing so much, infosec pros told](https://www.itworldcanada.com/article/drowning-in-threat-information-stop-sharing-so-much-infosec-pros-told/447462)
 - [Cyber Security Today,  May 21, 2021 – Ransomware gang still wants millions, why you need to patch fast and beware of phone scams](https://www.itworldcanada.com/article/cyber-security-today-may-21-2021-ransomware-gang-still-wants-millions-why-you-need-to-patch-fast-and-beware-of-phone-scams/447686)
 - [Hashtag Trending, May 21, 2021- Microsoft retiring Internet Explorer; Colonial Pipeline CEO explains ransom payment; Bill Gates in the hot seat](https://www.itworldcanada.com/article/hashtag-trending-may-21-2021-microsoft-retiring-internet-explorer-colonial-pipeline-ceo-explains-ransom-payment-the-downfall-of-bill-gates/447682)
-- [Qualcomm releases the Snapdragon 778G processor for performance midrange smartphones](https://www.itworldcanada.com/article/qualcomm-releases-the-snapdragon-778g-processor-for-performance-midrange-smartphones/447655)
-- [COVID vaccine certificates must obey privacy laws, say Canadian commissioners](https://www.itworldcanada.com/article/covid-vaccine-certificates-must-obey-privacy-laws-say-canadian-commissioners/447570)
-- [Hashtag Trending, May 20, 2021 – Bitcoin plummets; Montreal a hot spot for tech workers; Amazon extends the ban of facial recognition tools for police use](https://www.itworldcanada.com/article/hashtag-trending-may-20-2021-bitcoin-plummets-montreal-could-be-the-new-spot-for-tech-workers-amazon-extends-the-ban-of-facial-recognition-tools-for-police-use/447639)
-- [Top Women in FinTech and Blockchain celebration: More than a party](https://www.itworldcanada.com/article/top-women-in-fintech-and-blockchain-celebration-more-than-a-party/447585)
-- [Best Android 12 features announced at Google I/O 2021](https://www.itworldcanada.com/article/best-android-12-features-announced-at-google-i-o-2021/447586)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ec&#x2F;26&#x2F;f5&#x2F;ec26f52c7c8ddeae51334df8cc668b54.jpg" alt="We aren’t trying to flatter you, but palaver is the #WordOfTheDay. Learn how to say it at Dictionary.com." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ec&#x2F;26&#x2F;f5&#x2F;ec26f52c7c8ddeae51334df8cc668b54.jpg" alt="We aren’t trying to flatter you, but palaver is the #WordOfTheDay. Learn how to say it at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;19&#x2F;ac&#x2F;56&#x2F;19ac5657d31442896b32f17727131b57.jpg" alt="We&#39;ve got the power. Plenipotent is the Word of the Day. Want example sentences? Click to learn more. " />
@@ -277,7 +277,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>11°C (<i>moderate rain</i>), humidity: 87%, pressure: 1010 (mbar), wind: /west/ 8 (m/s), cloudy: 90%</b>
+        <b>12°C (<i>broken clouds</i>), humidity: 82%, pressure: 1013 (mbar), wind: /south-east/ 6 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>03:59 am</b> and sets at <b>21:53 pm</b>.
     </p>

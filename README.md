@@ -318,16 +318,16 @@ will be brought down.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
-- [Musk: Deluxe Tesla Will Use SpaceX Thrusters for Spine-Crushing Acceleration](https://futurism.com/elon-musk-deluxe-tesla-spacex-thrusters)
-- [Case Study on Recursion Pharmaceuticals](https://axial.substack.com/p/axial-recursion-pharmaceuticals)
-- [How Hacking Became a Professional Service in Russia](https://www.newyorker.com/news/news-desk/how-hacking-became-a-professional-service-in-russia)
-- [Useful iOS Things GitHub Repository](https://github.com/jphong1111/Useful_Swift)
-- [Elon Musk Has Become Bitcoin’s Biggest Influencer, Like It or Not](https://www.wsj.com/articles/elon-musk-has-become-bitcoins-biggest-influencer-like-it-or-not-11621762202)
-- [‘Tracked’ – New Privacy Ad from Apple](https://daringfireball.net/linked/2021/05/23/tracked-ad)
-- [The White House Is Partnering with Dating Apps to Get Horny People Vaccinated](https://www.buzzfeednews.com/article/clarissajanlim/dating-apps-covid-vaccine)
-- [The Unwritten Contract of Solid State Drives](https://dl.acm.org/doi/10.1145/3064176.3064187)
-- [Shape-shifting computer chip thwarts an army of hackers](https://theconversation.com/shape-shifting-computer-chip-thwarts-an-army-of-hackers-159990)
+- [Freenode Now Taking over Channels](https://twitter.com/spiceywasabi/status/1397389491120181250)
+- [U.S. moves to double Canadian lumber tariffs](https://www.woodworkingnetwork.com/news/woodworking-industry-news/lumber-firms-applaud-home-builders-angry-us-moves-double-canadian)
+- [Freenode now forcibly removing channel ownership from users after policy change](https://pastebin.com/S2sDiiPE)
+- [Google is officially releasing its Fuchsia OS, starting with first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/#more-428672)
+- [Mast Upgrade: UK experiment could sweep aside fusion hurdle](https://www.bbc.com/news/science-environment-57232644)
+- [When Do Programmers Retire? Is 35 the End?](https://betterprogramming.pub/when-do-programmers-retire-is-35-the-end-72d173760ee2)
+- [Poets in Myanmar Are Killed After the Coup](https://www.nytimes.com/2021/05/25/world/asia/myanmar-poets.html)
+- [One startup's quest to take on Chrome and reinvent the web browser](https://www.protocol.com/browser-company)
+- [Real evidence of Aliens will come from a space not UFOs in our sky](https://www.theatlantic.com/science/archive/2021/05/ufos-aliens/618990/)
+- [Opinion: Caste bigotry is real. And it's rampant in the Bay Area](https://www.sfchronicle.com/opinion/openforum/article/Opinion-Caste-bigotry-is-real-And-it-s-16195583.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

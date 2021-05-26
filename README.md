@@ -408,16 +408,16 @@ will be brought down.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [CyberUK, bees and datacentres, Red Cross digital mapping – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/CyberUK-bees-and-datacentres-Red-Cross-digital-mapping-Computer-Weekly-Downtime-Upload-podcast)
-- [Lack of developer attention to cloud security prompts alerts](https://www.computerweekly.com/news/252501200/Lack-of-developer-attention-to-cloud-security-prompts-alerts)
-- [NHS Education for Scotland defends 'decade-long' public cloud deal with AWS](https://www.computerweekly.com/news/252501193/NHS-Education-for-Scotland-defends-decade-long-AWS-public-cloud-deal)
-- [UK regulators commit to closer cooperation on digital economy](https://www.computerweekly.com/news/252501155/UK-regulators-commit-to-closer-cooperation-on-digital-economy)
-- [Living on the edge: The enterprises working with distributed cloud](https://www.computerweekly.com/feature/Living-on-the-edge-The-enterprises-working-with-distributed-cloud)
-- [Pandemic tech use heightens consumer privacy fears](https://www.computerweekly.com/news/252501137/Pandemic-tech-use-heightens-consumer-privacy-fears)
-- [Subpostmaster campaign group to meet Post Office scandal inquiry chair](https://www.computerweekly.com/news/252501128/Subpostmaster-campaign-group-to-meet-Post-Office-scandal-inquiry-chair)
-- [Malicious scans for at-risk systems start minutes after disclosure](https://www.computerweekly.com/news/252501122/Malicious-scans-for-at-risk-systems-start-minutes-after-disclosure)
-- [Credit Suisse to recruit more than 1,000 tech staff in India](https://www.computerweekly.com/news/252501119/Credit-Suisse-to-recruit-more-than-1000-tech-staff-in-India)
-- [Record colocation take-up across Europe prompts renewed power supply concerns](https://www.computerweekly.com/news/252501114/Record-colocation-take-up-across-Europe-prompts-renewed-power-supply-concerns)
+- [GCHQ bulk interception programme breached privacy rights, Strasbourg court rules](https://www.computerweekly.com/news/252501356/GCHQ-bulk-interception-programme-breached-privacy-rights-Strasbourg-court-court-rules)
+- [Valence brings storage virtualisation for the cloud era](https://www.computerweekly.com/news/252501347/Valence-brings-storage-virtualisation-for-the-cloud-era)
+- [Policies key to revolutionising Identity Governance and Administration](https://www.computerweekly.com/opinion/Policies-key-to-revolutionising-Identity-Governance-and-Administration)
+- [IR35: MPs denied vote to amend Finance Bill to ‘curb or kill’ umbrella companies](https://www.computerweekly.com/news/252501343/IR35-MPs-denied-vote-to-amend-Finance-Bill-to-curb-or-kill-umbrella-companies)
+- [CyberSprinters game gives kids a head start, says NCSC](https://www.computerweekly.com/news/252501352/CyberSprinters-game-gives-kids-a-head-start-says-NCSC)
+- [Oil and gas firm halves backup licence cost with Hycu move](https://www.computerweekly.com/news/252501348/Oil-and-gas-firm-halves-backup-licence-cost-with-Hycu-move)
+- [Trust is key to keeping the digital customer happy](https://www.computerweekly.com/news/252501346/Trust-is-key-to-keeping-the-digital-customer-happy)
+- [Threat of group GDPR legal action haunts CISOs](https://www.computerweekly.com/news/252501338/Threat-of-group-GDPR-legal-action-haunts-CISOs)
+- [McAfee to change terms of auto-renewing consumer plans](https://www.computerweekly.com/news/252501337/McAfee-to-change-terms-of-auto-renewing-consumer-plans)
+- [Where to run containers? Bare metal vs virtual machines](https://www.computerweekly.com/feature/Where-to-run-containers-Bare-metal-vs-virtual-machines)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

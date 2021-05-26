@@ -393,16 +393,16 @@ will be brought down.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Eclipse Jakarta EE 9.1 aligns with Java 11](https://www.infoworld.com/article/3620088/eclipse-jakarta-ee-91-aligns-with-java-11.html#tk.rss_all)
+- [New tools for Azure Data at Build 2021](https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html#tk.rss_all)
+- [What ‘cross-cloud’ architects need to know](https://www.infoworld.com/article/3619544/what-cross-cloud-architects-need-to-know.html#tk.rss_all)
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [You’re thinking about Kubernetes all wrong](https://www.infoworld.com/article/3619613/you-re-thinking-about-kubernetes-all-wrong.html#tk.rss_all)
+- [ProxyJump is safer than SSH agent forwarding](https://www.infoworld.com/article/3619278/proxyjump-is-safer-than-ssh-agent-forwarding.html#tk.rss_all)
+- [How AI can enhance customer experience](https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html#tk.rss_all)
 - [Google preps new web platform APIs](https://www.infoworld.com/article/3619518/google-preps-new-web-platform-apis.html#tk.rss_all)
 - [In search of good cybersecurity](https://www.infoworld.com/article/3619868/in-search-of-good-cybersecurity.html#tk.rss_all)
 - [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_all)
-- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [Build a Java application in Visual Studio Code](https://www.infoworld.com/article/3619031/build-a-java-application-in-visual-studio-code.html#tk.rss_all)
-- [Striking a balance with ‘open’ at Snowflake](https://www.infoworld.com/article/3617938/striking-a-balance-with-open-at-snowflake.html#tk.rss_all)
-- [Google Flutter gains sound null safety, payments plug-in](https://www.infoworld.com/article/3619489/google-flutter-gains-sound-null-safety-payments-plug-in.html#tk.rss_all)
-- [Machine teaching with Microsoft’s Project Bonsai](https://www.infoworld.com/article/3619030/machine-teaching-with-project-bonsai.html#tk.rss_all)
-- [How to use Python’s py launcher for Windows](https://www.infoworld.com/article/3617292/how-to-use-pythons-py-launcher-for-windows.html#tk.rss_all)
-- [Google Vertex AI unifies cloud machine learning toolkit](https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

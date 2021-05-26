@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/snowed_under_25.php" target="_blank"><i>snowed under</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Money/feel_the_pinch_624.php" target="_blank"><i>feel the pinch</i></a>
 <span> = </span>
-<span>If you are snowed under you have so much to do that you're having trouble doing it all.</span>
+<span>If you are feeling the pinch, you're finding it harder to survive on your income. <BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

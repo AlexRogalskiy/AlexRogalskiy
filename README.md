@@ -348,16 +348,16 @@ will be brought down.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
-- [Dave Ramsey sues former employees for making blog posts about leaving company](https://twitter.com/amyfritz/status/1395558966768377860)
-- [Instanced Line Rendering Using WebGL](https://wwwtyro.net/2019/11/18/instanced-lines.html)
-- [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
-- [Switching from Mailchimp to open-source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
-- [Cray-2 Memories [pdf]](http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf)
-- [Neural Network Enabled Filmmaking](https://www.flawlessai.com/)
-- [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
-- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
-- [Show HN: Direct manipulation flowchart editor without the mouse](https://www.knotend.com)
+- [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Streetmix – A fun little urban design playground](https://streetmix.net/)
+- [Introduction to Robotics](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206)
+- [Thousands of Chrome extensions are tampering with security headers](https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/)
+- [How Our Slack App Got to 200K Users with No Marketing Whatsoever](https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever)
+- [Rare Vietnam War images from the winning side, 1965-1975](https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/)
+- [Show HN: Cascade Timeline Maker](https://cascade.page)
+- [Stripe Payment Links](https://stripe.com/payments/payment-links)
+- [How inevitable is the concept of numbers?](https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

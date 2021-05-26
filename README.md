@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/go_1/go_about_2791.php" target="_blank"><i>go about</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/Mixed_3/stick_at_2247.php" target="_blank"><i>stick at</i></a>
 <span> = </span>
-<span>to do something in a certain way, or to deal with something in a certain way<BR><BR></span>
+<span>If you stick at something, you continue to do it even if it's difficult or it's taking a long time.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

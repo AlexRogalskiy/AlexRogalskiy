@@ -378,16 +378,16 @@ will be brought down.</p>
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Return to Office Risks Worth Considering](https://www.informationweek.com/strategic-cio/return-to-office-risks-worth-considering/a/d-id/1341083?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How IT Corrected Business Blind Spots During the Pandemic](https://www.informationweek.com/strategic-cio/enterprise-agility/how-it-corrected-business-blind-spots-during-the-pandemic/a/d-id/1341079?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AT&T Communications CTO Legg on Transforming a Telecom Giant](https://www.informationweek.com/strategic-cio/atandt-communications-cto-legg-on-transforming-a-telecom-giant/d/d-id/1341112?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Future State of the Cloud](https://www.informationweek.com/cloud/the-future-state-of-the-cloud/a/d-id/1341003?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Skills: Top 10 Programming Languages for 2021](https://www.informationweek.com/devops/programming-languages/it-skills-top-10-programming-languages-for-2021/d/d-id/1341076?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Universities Are Failing Software Developers](https://www.informationweek.com/devops/programming-languages/universities-are-failing-software-developers-/a/d-id/1341002?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [ServiceNow's Acquisition Spree Adds Observability](https://www.informationweek.com/strategic-cio/servicenows-acquisition-spree-adds-observability/d/d-id/1341053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Automation is an Essential Survival Skill for Every Modern IT Organization](https://www.informationweek.com/strategic-cio/enterprise-agility/automation-is-an-essential-survival-skill-for-every-modern-it-organization/a/d-id/1341062?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Formula One, NFL, and NHL Work on Their Hustle with AWS](https://www.informationweek.com/cloud/formula-one-nfl-and-nhl-work-on-their-hustle-with-aws/d/d-id/1341052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Chief Data Officers Help Steer Digital Transformations](https://www.informationweek.com/strategic-cio/chief-data-officers-help-steer-digital-transformations-/d/d-id/1341023?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Do Private Data Centers Make Sense Anymore?](https://www.informationweek.com/strategic-cio/do-private-data-centers-make-sense-anymore/a/d-id/1341013?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How 2020 Shaped Transformation for Public Sector CIOs](https://www.informationweek.com/strategic-cio/how-2020-shaped-transformation-for-public-sector-cios/a/d-id/1341030?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Take AIOps from a Promising Concept to a Practical Reality](https://www.informationweek.com/big-data/ai-machine-learning/how-to-take-aiops-from-a-promising-concept-to-a-practical-reality/a/d-id/1341018?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Upskill Your Staff for AI and Machine Learning](https://www.informationweek.com/big-data/ai-machine-learning/how-to-upskill-your-staff-for-ai-and-machine-learning/a/d-id/1341001?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

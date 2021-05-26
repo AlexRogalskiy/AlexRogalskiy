@@ -363,16 +363,16 @@ will be brought down.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [BrandPost: Cybersecurity Threats Shine Spotlight on Medical Data Protection](https://www.computerworld.com/article/3619512/cybersecurity-threats-shine-spotlight-on-medical-data-protection.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Android 12's quietly important privacy progress](https://www.computerworld.com/article/3619635/android-12-privacy.html#tk.rss_all)
+- [5 free ways to get better business security](https://www.computerworld.com/article/3619798/5-free-ways-to-get-better-business-security.html#tk.rss_all)
+- [Microsoft sets IE's date with death — kind of](https://www.computerworld.com/article/3619615/microsoft-sets-ies-date-with-death-kind-of.html#tk.rss_all)
+- [An ‘underwhelming’ Windows 10 21H1 arrives](https://www.computerworld.com/article/3619543/an-underwhelming-windows-10-21h1-arrives.html#tk.rss_all)
+- [Outlook 2016 and 2019 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3618575/outlook-2016-and-2019-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
+- [Outlook 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3321417/outlook-2016-and-2019-cheat-sheet.html#tk.rss_all)
+- [Android versions: A living history from 1.0 to 12](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Apple's Mac security warning shows that closed beats open](https://www.computerworld.com/article/3619515/apples-mac-security-warning-shows-that-closed-beats-open.html#tk.rss_all)
-- [The Windows 21H1 update, and why I won’t miss Windows 10X](https://www.computerworld.com/article/3619875/the-windows-21h1-update-and-why-i-wont-miss-windows-10x.html#tk.rss_all)
-- [Tech wages: Women, minorities still paid less in 2020](https://www.computerworld.com/article/3619891/tech-wages-women-minorities-still-paid-less-in-2020.html#tk.rss_all)
-- [An antidote to boring e-commerce](https://www.computerworld.com/article/3619888/an-antidote-to-boring-e-commerce.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Accessibility takes a magic leap with Apple Watch gesture control](https://www.computerworld.com/article/3619889/accessibility-takes-a-magic-leap-with-apple-watch-gesture-control.html#tk.rss_all)
-- [Android 12 and the 'Android Pixel' era](https://www.computerworld.com/article/3619086/android-12-google-pixel.html#tk.rss_all)
-- [Otter.ai launches Otter Assistant to help Zoom-fatigued workers](https://www.computerworld.com/article/3619630/otterai-launches-otter-assistant-to-help-zoom-fatigued-workers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

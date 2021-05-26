@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/O/oddball_1455.php" target="_blank"><i>oddball</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/ocker_1083.php" target="_blank"><i>ocker</i></a>
 <span> = </span>
-<span>a strange or eccentric person (n.) | strange, weird (adj.)</span>
+<span>a crude and obnoxious Australian</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

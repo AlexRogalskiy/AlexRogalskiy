@@ -303,16 +303,16 @@ will be brought down.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Apple's HomePod Will Get Lossless Audio Playback---Eventually](https://www.reviewgeek.com/84852/apples-homepod-will-get-lossless-audio-playback-eventually/)
-* [What’s New in iOS 14.6 and iPadOS 14.6?](https://www.howtogeek.com/730436/whats-new-in-ios-14.6-and-ipados-14.6/)
-* [Microsoft Surface Duo Can Double as a Handheld Xbox Console After Latest Update](https://www.reviewgeek.com/84827/microsoft-surface-duo-can-double-as-a-handheld-xbox-console-after-latest-update/)
-* [iFixit's M1 iMac Teardown Reveals an Impressively Small Logic Board](https://www.reviewgeek.com/84814/ifixits-m1-imac-teardown-reveals-an-impressively-small-logic-board/)
-* [Apple Reveals the Schedule for Its July WWDC 2021 Keynote](https://www.reviewgeek.com/84775/apple-reveals-the-schedule-for-its-july-wwdc-2021-keynote/)
-* [How Event Sourcing Helps You Track Your Application's State](https://www.cloudsavvyit.com/11000/how-event-sourcing-helps-you-track-your-applications-state/)
-* [New Sony Portable Speakers Offer Hours of Playback After a 10-Minute Charge](https://www.reviewgeek.com/84759/new-sony-portable-speakers-offer-hours-of-playback-after-a-10-minute-charge/)
-* [Zoom and IFTTT's New Partnership Makes it Easier to Prepare for Your Video Calls](https://www.reviewgeek.com/84776/zoom-and-ifttts-new-partnership-makes-it-easier-to-prepare-for-your-video-calls/)
-* [Samsung's Latest PC Smart Monitor is the Size of a TV](https://www.reviewgeek.com/84734/samsungs-latest-pc-smart-monitor-is-the-size-of-a-tv/)
-* [Some Verizon Customers Will Get Free Google Play Pass or Apple Arcade Subscriptions](https://www.reviewgeek.com/84743/some-verizon-customers-will-get-free-google-play-pass-or-apple-arcade-subscriptions/)
+* [No Surprise! iFixit Teardown Shows the M1 Mac is Non-Upgradeable, Nearly Unrepairable](https://www.reviewgeek.com/85068/no-surprise-ifixit-teardown-shows-the-m1-mac-is-non-upgradeable-nearly-unrepairable/)
+* [Windows on ARM Sucks, But This Qualcomm Dev Kit Could Make Things Better](https://www.reviewgeek.com/85016/windows-on-arm-sucks-but-this-qualcomm-dev-kit-could-make-things-better/)
+* [Panasonic Focuses on Livestreamers With New GH5 Mark II Mirrorless Camera](https://www.reviewgeek.com/85056/panasonic-focuses-on-livestreamers-with-new-gh5-mark-ii-mirrorless-camera/)
+* [A New macOS Update Patches 0-Day Exploit That Let Hackers Screenshot on Your Mac](https://www.reviewgeek.com/85025/a-new-macos-update-patches-0-day-exploit-that-let-hackers-screenshot-on-your-mac/)
+* [The Difference Between CMD and ENTRYPOINT in Docker Images](https://www.cloudsavvyit.com/11154/the-difference-between-cmd-and-entrypoint-in-docker-images/)
+* [SteelSeries' New Minimalist Prime Accessories Are Premium Gaming Made Affordable](https://www.reviewgeek.com/85009/steelseries-new-minimalist-prime-accessories-are-premium-gaming-made-affordable/)
+* [Carry Your AirTag In Style With WaterField's Luxurious Leather Keychains](https://www.reviewgeek.com/84996/carry-your-airtag-in-style-with-waterfields-luxurious-leather-keychains/)
+* [HP's 14-inch Chromebook Graduates to 11th Gen Intel Processors](https://www.reviewgeek.com/84988/hps-14-inch-chromebook-graduates-to-11th-gen-intel-processors/)
+* [Vespa-Maker Piaggo Unveils a New Configurable Electric Scooter](https://www.reviewgeek.com/84980/vespa-maker-piaggo-unveils-a-new-configurable-electric-scooter/)
+* [Wyze Opens Pre-Orders for Night Lights to Brighten All Your Dark Hallways](https://www.reviewgeek.com/84942/wyze-opens-pre-orders-for-night-lights-to-brighten-all-your-dark-hallways/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

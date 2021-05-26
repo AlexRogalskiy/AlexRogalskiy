@@ -241,25 +241,12 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652087676633284608" target="_blank"><i>Untitled</i></a></summary>
-<p>by Leonard Cohen</p><p>Any system you contrive without us<br/>
-will be brought down<br/>
-We warned you before<br/>
-and nothing that you built has stood<br/>
-Hear it as you lean over you blueprint<br/>
-Hear it as you roll up your sleeve<br/>
-Hear it once again<br/>
-Any system you contrive without us<br/>
-will be brought down</p><p>You have your drugs<br/>
-You have your guns<br/>
-You have your Pyramids your Pentagons<br/>
-With all your grass and bullets<br/>
-you cannot hunt us any more<br/>
-All that we disclose of ourselves forever<br/>
-is this warning<br/>
-Nothing that you built has stood<br/>
-Any system you contrive without us<br/>
-will be brought down.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652178256304504833" target="_blank"><i>Those Dancing Days Are Gone</i></a></summary>
+<p>by W.B. Yeats</p><p>
+						Come, let me sing into your ear;<br/>Those dancing days are gone,<br/>All that silk and satin gear;<br/>Crouch upon a stone,<br/>Wrapping that foul body up<br/>In as foul a rag:<br/>I carry the sun in a golden cup.<br/>The moon in a silver bag.<br/><br/>Curse as you may I sing it through;<br/>What matter if the knave<br/>That the most could pleasure you,<br/>The children that he gave,<br/>Are somewhere sleeping like a top<br/>Under a marble flag?<br/>I carry the sun in a golden cup.<br/>The moon in a silver bag.<br/><br/>I thought it out this very day.<br/>Noon upon the clock,<br/>A man may put pretence away<br/>Who leans upon a stick,<br/>May sing, and sing until he drop,<br/>Whether to maid or hag:<br/>I carry the sun in a golden cup,<br/>The moon in a silver bag. 
+
+
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

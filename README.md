@@ -423,16 +423,16 @@ will be brought down.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Another “Tell me what to do with my future” post, but this time, in Spanish!](https://www.reddit.com/r/InformationTechnology/comments/nl63j1/another_tell_me_what_to_do_with_my_future_post/)
+- [Just landed a tier 1 support technician job.](https://www.reddit.com/r/InformationTechnology/comments/nl53x1/just_landed_a_tier_1_support_technician_job/)
+- [IT Certs or Bachelors?](https://www.reddit.com/r/InformationTechnology/comments/nkgkte/it_certs_or_bachelors/)
+- [Job expectations after getting certain certifications](https://www.reddit.com/r/InformationTechnology/comments/njzsrl/job_expectations_after_getting_certain/)
+- [Should I pursue IT certifications such as Comp Tia and A+ or get an associates degree that transfers to a bachelors in Management Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/njyt9d/should_i_pursue_it_certifications_such_as_comp/)
+- [Should I go back to school or keep working?](https://www.reddit.com/r/InformationTechnology/comments/njpd80/should_i_go_back_to_school_or_keep_working/)
+- [IT loss to automation](https://www.reddit.com/r/InformationTechnology/comments/njonqz/it_loss_to_automation/)
 - [VM](https://www.reddit.com/r/InformationTechnology/comments/njmb4z/vm/)
 - [How have most of you gotten hired? Recruiter or direct hire?](https://www.reddit.com/r/InformationTechnology/comments/njkthe/how_have_most_of_you_gotten_hired_recruiter_or/)
 - [SAS drives in vertical orientation?](https://www.reddit.com/r/InformationTechnology/comments/njk9ws/sas_drives_in_vertical_orientation/)
-- [Contract work vs permanent hire?](https://www.reddit.com/r/InformationTechnology/comments/njan6r/contract_work_vs_permanent_hire/)
-- [Certification training resources?](https://www.reddit.com/r/InformationTechnology/comments/nisoh1/certification_training_resources/)
-- [Bridge Connection](https://www.reddit.com/r/InformationTechnology/comments/nilww9/bridge_connection/)
-- [How do I start my career in IT with a speech disorder?](https://www.reddit.com/r/InformationTechnology/comments/niht4m/how_do_i_start_my_career_in_it_with_a_speech/)
-- [Advice on figuring out where to go in IT.](https://www.reddit.com/r/InformationTechnology/comments/nicfmt/advice_on_figuring_out_where_to_go_in_it/)
-- [NEC Desk Phone Issue](https://www.reddit.com/r/InformationTechnology/comments/ni6vr9/nec_desk_phone_issue/)
-- [Anyone knows Robust IT training in UK?](https://www.reddit.com/r/InformationTechnology/comments/nhvb0q/anyone_knows_robust_it_training_in_uk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -290,16 +290,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [No Surprise! iFixit Teardown Shows the M1 Mac is Non-Upgradeable, Nearly Unrepairable](https://www.reviewgeek.com/85068/no-surprise-ifixit-teardown-shows-the-m1-mac-is-non-upgradeable-nearly-unrepairable/)
-* [Windows on ARM Sucks, But This Qualcomm Dev Kit Could Make Things Better](https://www.reviewgeek.com/85016/windows-on-arm-sucks-but-this-qualcomm-dev-kit-could-make-things-better/)
-* [Panasonic Focuses on Livestreamers With New GH5 Mark II Mirrorless Camera](https://www.reviewgeek.com/85056/panasonic-focuses-on-livestreamers-with-new-gh5-mark-ii-mirrorless-camera/)
-* [A New macOS Update Patches 0-Day Exploit That Let Hackers Screenshot on Your Mac](https://www.reviewgeek.com/85025/a-new-macos-update-patches-0-day-exploit-that-let-hackers-screenshot-on-your-mac/)
-* [The Difference Between CMD and ENTRYPOINT in Docker Images](https://www.cloudsavvyit.com/11154/the-difference-between-cmd-and-entrypoint-in-docker-images/)
-* [SteelSeries' New Minimalist Prime Accessories Are Premium Gaming Made Affordable](https://www.reviewgeek.com/85009/steelseries-new-minimalist-prime-accessories-are-premium-gaming-made-affordable/)
-* [Carry Your AirTag In Style With WaterField's Luxurious Leather Keychains](https://www.reviewgeek.com/84996/carry-your-airtag-in-style-with-waterfields-luxurious-leather-keychains/)
-* [HP's 14-inch Chromebook Graduates to 11th Gen Intel Processors](https://www.reviewgeek.com/84988/hps-14-inch-chromebook-graduates-to-11th-gen-intel-processors/)
-* [Vespa-Maker Piaggo Unveils a New Configurable Electric Scooter](https://www.reviewgeek.com/84980/vespa-maker-piaggo-unveils-a-new-configurable-electric-scooter/)
-* [Wyze Opens Pre-Orders for Night Lights to Brighten All Your Dark Hallways](https://www.reviewgeek.com/84942/wyze-opens-pre-orders-for-night-lights-to-brighten-all-your-dark-hallways/)
+* [Ouch: Wyze's New Home Monitoring Core Kit Just Saw a Serious Price Increase](https://www.reviewgeek.com/85298/ouch-wyzes-new-home-monitoring-core-kit-just-saw-a-serious-price-increase/)
+* [Garbage iOS App Won't Open Without a Good Review](https://www.reviewgeek.com/85235/garbage-ios-app-wont-open-without-a-good-review/)
+* [MyTaggr's Mount Tucks an AirTag Beneath Your Bike Seat for Easy Tracking](https://www.reviewgeek.com/85227/mytaggrs-mount-tucks-an-airtag-beneath-your-bike-seat-for-easy-tracking/)
+* [Google Discover Gets Colorful In Android 12](https://www.reviewgeek.com/85210/google-discover-gets-colorful-in-android-12/)
+* [1Password Browser Extension Gets Touch ID, Windows Hello, and Dark Mode Support](https://www.reviewgeek.com/85212/1password-browser-extension-gets-touch-id-windows-hello-and-dark-mode-support/)
+* [Better Than Nothing: Fitbit Now Supports SMS 2FA](https://www.reviewgeek.com/85213/better-than-nothing-fitbit-now-supports-sms-2fa/)
+* [How to Use Docker Scan to Find Vulnerabilities in Your Images](https://www.cloudsavvyit.com/11176/how-to-use-docker-scan-to-find-vulnerabilities-in-your-images/)
+* [Anker Teases Upcoming Nebula 4K Streaming Dongle with Android 10](https://www.reviewgeek.com/85194/anker-teases-upcoming-nebula-4k-streaming-dongle-with-android-10/)
+* [Philo Streaming Service Promised Not to Raise Prices---Now It's Raising Prices](https://www.reviewgeek.com/85174/philo-streaming-service-promised-not-raise-prices-now-its-raising-prices/)
+* [Amazon Steps through the Stargate with MGM Purchase](https://www.reviewgeek.com/85147/amazon-steps-through-the-stargate-with-mgm-purchase/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

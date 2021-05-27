@@ -395,16 +395,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [GCHQ bulk interception programme breached privacy rights, Strasbourg court rules](https://www.computerweekly.com/news/252501356/GCHQ-bulk-interception-programme-breached-privacy-rights-Strasbourg-court-court-rules)
-- [Valence brings storage virtualisation for the cloud era](https://www.computerweekly.com/news/252501347/Valence-brings-storage-virtualisation-for-the-cloud-era)
-- [Policies key to revolutionising Identity Governance and Administration](https://www.computerweekly.com/opinion/Policies-key-to-revolutionising-Identity-Governance-and-Administration)
-- [IR35: MPs denied vote to amend Finance Bill to ‘curb or kill’ umbrella companies](https://www.computerweekly.com/news/252501343/IR35-MPs-denied-vote-to-amend-Finance-Bill-to-curb-or-kill-umbrella-companies)
-- [CyberSprinters game gives kids a head start, says NCSC](https://www.computerweekly.com/news/252501352/CyberSprinters-game-gives-kids-a-head-start-says-NCSC)
-- [Oil and gas firm halves backup licence cost with Hycu move](https://www.computerweekly.com/news/252501348/Oil-and-gas-firm-halves-backup-licence-cost-with-Hycu-move)
-- [Trust is key to keeping the digital customer happy](https://www.computerweekly.com/news/252501346/Trust-is-key-to-keeping-the-digital-customer-happy)
-- [Threat of group GDPR legal action haunts CISOs](https://www.computerweekly.com/news/252501338/Threat-of-group-GDPR-legal-action-haunts-CISOs)
-- [McAfee to change terms of auto-renewing consumer plans](https://www.computerweekly.com/news/252501337/McAfee-to-change-terms-of-auto-renewing-consumer-plans)
-- [Where to run containers? Bare metal vs virtual machines](https://www.computerweekly.com/feature/Where-to-run-containers-Bare-metal-vs-virtual-machines)
+- [Databricks unveils data sharing protocol as part of data lakehouse](https://www.computerweekly.com/news/252501344/Databricks-unveils-data-sharing-protocol-as-part-of-data-lakehouse)
+- [How Kao Data used digital twin technology to build UK’s first free-cooled wholesale colo datacentre](https://www.computerweekly.com/news/252501430/How-Kao-Data-used-digital-twin-technology-to-build-UKs-first-free-cooled-wholesale-colo-datacentre)
+- [Department for Education’s e-learning unpreparedness widens inequality among students](https://www.computerweekly.com/news/252501423/Department-for-Educations-e-learning-unpreparedness-widens-inequality-among-students)
+- [Build 2021: Code abstraction and automatic code generation](https://www.computerweekly.com/news/252501420/Build-2021-Code-abstraction-and-automatic-code-generation)
+- [More data stolen in January 2021 than in all of 2017, says report](https://www.computerweekly.com/news/252501400/More-data-stolen-in-January-2021-than-in-all-of-2017-says-report)
+- [Millions of pounds lost to crypto fraud on social media](https://www.computerweekly.com/news/252501404/Millions-of-pounds-lost-to-crypto-fraud-on-social-media)
+- [Disabled travellers promised better train journeys by Passenger Assistance app](https://www.computerweekly.com/news/252501367/Disabled-travellers-promised-better-train-journeys-by-Passenger-Assistance-app)
+- [Google offers free tech skills training to UK jobseekers](https://www.computerweekly.com/news/252501385/Google-offers-free-tech-skills-training-to-UK-jobseekers)
+- [‘It's a good day when we refer a case,’ CCRC tells MPs during review of Post Office prosecutions](https://www.computerweekly.com/news/252501399/Its-a-good-day-when-we-refer-a-case-CCRC-tells-MPs-during-review-of-Post-Office-prosecutions)
+- [Nordic CIO interview: Tommi Tuovila, Neste](https://www.computerweekly.com/news/252500979/Nordic-CIO-interview-Tommi-Tuoivila-Neste)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

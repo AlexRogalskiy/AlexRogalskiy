@@ -380,6 +380,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_all)
+- [Get started with Flask 2.0](https://www.infoworld.com/article/3619522/get-started-with-flask-20.html#tk.rss_all)
+- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Eclipse Jakarta EE 9.1 aligns with Java 11](https://www.infoworld.com/article/3620088/eclipse-jakarta-ee-91-aligns-with-java-11.html#tk.rss_all)
 - [New tools for Azure Data at Build 2021](https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html#tk.rss_all)
 - [What ‘cross-cloud’ architects need to know](https://www.infoworld.com/article/3619544/what-cross-cloud-architects-need-to-know.html#tk.rss_all)
@@ -387,9 +390,6 @@
 - [You’re thinking about Kubernetes all wrong](https://www.infoworld.com/article/3619613/you-re-thinking-about-kubernetes-all-wrong.html#tk.rss_all)
 - [ProxyJump is safer than SSH agent forwarding](https://www.infoworld.com/article/3619278/proxyjump-is-safer-than-ssh-agent-forwarding.html#tk.rss_all)
 - [How AI can enhance customer experience](https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html#tk.rss_all)
-- [Google preps new web platform APIs](https://www.infoworld.com/article/3619518/google-preps-new-web-platform-apis.html#tk.rss_all)
-- [In search of good cybersecurity](https://www.infoworld.com/article/3619868/in-search-of-good-cybersecurity.html#tk.rss_all)
-- [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

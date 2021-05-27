@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;8f&#x2F;d8&#x2F;d38fd89e526999875ca9690bc913c34f.jpg" alt="Peradventure you&#39;ve heard of this Word of the Day? If not, we&#39;ll show you how to use it. Click to learn more at Dictionary.com!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;8f&#x2F;d8&#x2F;d38fd89e526999875ca9690bc913c34f.jpg" alt="Peradventure you&#39;ve heard of this Word of the Day? If not, we&#39;ll show you how to use it. Click to learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ec&#x2F;26&#x2F;f5&#x2F;ec26f52c7c8ddeae51334df8cc668b54.jpg" alt="We aren’t trying to flatter you, but palaver is the #WordOfTheDay. Learn how to say it at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com! " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>14°C (<i>clear sky</i>), humidity: 69%, pressure: 1012 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>16°C (<i>broken clouds</i>), humidity: 57%, pressure: 1012 (mbar), wind: /south/ 4 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>03:57 am</b> and sets at <b>21:55 pm</b>.
     </p>

@@ -320,16 +320,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China urges New Zealand to work together and ‘rise above distractions’](https://www.theguardian.com/world/2021/may/26/china-urges-new-zealand-to-work-together-and-rise-above-distractions)
-- [‘Please save him’: Belarus blogger’s parents urge action as Biden mulls sanctions](https://www.theguardian.com/world/2021/may/26/belarus-bloggers-parents-raman-pratasevich-sofia-sapega-biden-sanctions-ryanair-flight)
-- [US joins calls for transparent, science-based investigation into Covid origins](https://www.theguardian.com/world/2021/may/26/us-joins-calls-for-transparent-science-based-investigation-into-covid-origins)
-- [Is Britain becoming a hostile environment for EU citizens? | Podcast](https://www.theguardian.com/news/audio/2021/may/26/is-britain-becoming-a-hostile-environment-for-eu-citizens)
-- [New York district attorney convenes grand jury in Trump criminal inquiry](https://www.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york)
-- [‘Time to buy’ bitcoin adverts banned in UK for being irresponsible](https://www.theguardian.com/media/2021/may/26/time-to-buy-bitcoin-adverts-banned-uk-asa)
-- [Prepare for disorderly shift to low-carbon era, firms and investors told](https://www.theguardian.com/environment/2021/may/26/prepare-for-disorderly-shift-to-low-carbon-era-firms-and-investors-told)
-- [Black, Asian and disabled tenants ‘more likely to face housing discrimination’](https://www.theguardian.com/society/2021/may/26/black-asian-disabled-tenants-more-likely-face-housing-discrimination)
-- [Children’s commissioners urge UK government to scrap two-child limit for benefits](https://www.theguardian.com/uk-news/2021/may/26/childrens-commissioners-urge-uk-government-to-scrap-two-child-limit-for-benefits)
-- [Poverty rate among working households in UK is highest ever](https://www.theguardian.com/society/2021/may/26/poverty-rate-among-working-households-in-uk-is-highest-ever)
+- [‘Domshell’: what the papers say about Dominic Cummings’ attack on Boris Johnson](https://www.theguardian.com/politics/2021/may/27/domshell-what-the-papers-say-about-dominic-cummings-attack-on-boris-johnson)
+- [Thousands of YouTube comments on Sky News Australia video celebrate BLM activist being shot in head](https://www.theguardian.com/media/2021/may/27/thousands-of-youtube-comments-on-sky-news-australia-video-celebrate-blm-activist-being-shot-in-head)
+- [‘The government failed’: Dominic Cummings takes aim at No 10’s Covid response](https://www.theguardian.com/news/audio/2021/may/27/the-government-failed-dominic-cummings-takes-aim-at-no-10s-covid-response)
+- [Naomi Osaka will not speak to French Open press due to mental health impact](https://www.theguardian.com/sport/2021/may/27/naomi-osaka-will-not-speak-to-french-open-press-mental-health-tennis)
+- [Solskjær: Manchester United ‘did not turn up’ for Europa League final](https://www.theguardian.com/football/2021/may/27/ole-gunnar-solskjaer-united-did-not-turn-up-for-europa-league-final)
+- [UK lifeguards gear up for busiest summer as millions head for coast](https://www.theguardian.com/business/2021/may/27/uk-lifeguards-gear-up-for-busiest-summer-as-millions-head-for-coast)
+- [Proms to welcome back live audiences for 52 concerts over six weeks](https://www.theguardian.com/music/2021/may/27/proms-welcome-back-live-audiences-52-concerts-six-weeks)
+- [Zinedine Zidane decides to end his second stint as Real Madrid manager](https://www.theguardian.com/football/2021/may/26/zinedine-zidane-to-leave-real-madrid-manager)
+- [Villarreal beat Manchester United 11-10 on penalties to win Europa League final](https://www.theguardian.com/football/2021/may/26/villarreal-manchester-united-europa-league-final-2021-match-report)
+- [Tax soaring private jet use to fund green flying, says report](https://www.theguardian.com/business/2021/may/26/climate-ticket-tax-private-jet-users)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

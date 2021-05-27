@@ -410,16 +410,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice on practicing / getting experience at home.](https://www.reddit.com/r/InformationTechnology/comments/nlwda3/advice_on_practicing_getting_experience_at_home/)
+- [What does A 25b(I.T.) do in the Army??](https://www.reddit.com/r/InformationTechnology/comments/nltzjg/what_does_a_25bit_do_in_the_army/)
+- [Network Automation w Ansible](https://www.reddit.com/r/InformationTechnology/comments/nlme4e/network_automation_w_ansible/)
+- [Automated sever configuration reports](https://www.reddit.com/r/InformationTechnology/comments/nlclq5/automated_sever_configuration_reports/)
+- [What do you think makes IT applications useful and unique ?](https://www.reddit.com/r/InformationTechnology/comments/nl91vl/what_do_you_think_makes_it_applications_useful/)
 - [Another “Tell me what to do with my future” post, but this time, in Spanish!](https://www.reddit.com/r/InformationTechnology/comments/nl63j1/another_tell_me_what_to_do_with_my_future_post/)
 - [Just landed a tier 1 support technician job.](https://www.reddit.com/r/InformationTechnology/comments/nl53x1/just_landed_a_tier_1_support_technician_job/)
 - [IT Certs or Bachelors?](https://www.reddit.com/r/InformationTechnology/comments/nkgkte/it_certs_or_bachelors/)
 - [Job expectations after getting certain certifications](https://www.reddit.com/r/InformationTechnology/comments/njzsrl/job_expectations_after_getting_certain/)
 - [Should I pursue IT certifications such as Comp Tia and A+ or get an associates degree that transfers to a bachelors in Management Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/njyt9d/should_i_pursue_it_certifications_such_as_comp/)
-- [Should I go back to school or keep working?](https://www.reddit.com/r/InformationTechnology/comments/njpd80/should_i_go_back_to_school_or_keep_working/)
-- [IT loss to automation](https://www.reddit.com/r/InformationTechnology/comments/njonqz/it_loss_to_automation/)
-- [VM](https://www.reddit.com/r/InformationTechnology/comments/njmb4z/vm/)
-- [How have most of you gotten hired? Recruiter or direct hire?](https://www.reddit.com/r/InformationTechnology/comments/njkthe/how_have_most_of_you_gotten_hired_recruiter_or/)
-- [SAS drives in vertical orientation?](https://www.reddit.com/r/InformationTechnology/comments/njk9ws/sas_drives_in_vertical_orientation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

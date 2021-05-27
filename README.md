@@ -335,16 +335,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Streetmix – A fun little urban design playground](https://streetmix.net/)
-- [Introduction to Robotics](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206)
-- [Thousands of Chrome extensions are tampering with security headers](https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/)
-- [How Our Slack App Got to 200K Users with No Marketing Whatsoever](https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever)
-- [Rare Vietnam War images from the winning side, 1965-1975](https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/)
-- [Show HN: Cascade Timeline Maker](https://cascade.page)
-- [Stripe Payment Links](https://stripe.com/payments/payment-links)
-- [How inevitable is the concept of numbers?](https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/)
+- [Whole Earth ‘Lectronic Link](https://www.well.com/)
+- [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
+- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
+- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
+- [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [LA pays $2600 per homeless tent, per month](https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions)
+- [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
+- [You can't have too many angels](https://waseem.substack.com/p/you-cant-have-too-many-angels)
+- [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
+- [Life after an internet mob attack](https://pasquale.cool/internet-mob)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

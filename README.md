@@ -305,16 +305,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Freenode Now Taking over Channels](https://twitter.com/spiceywasabi/status/1397389491120181250)
-- [U.S. moves to double Canadian lumber tariffs](https://www.woodworkingnetwork.com/news/woodworking-industry-news/lumber-firms-applaud-home-builders-angry-us-moves-double-canadian)
-- [Freenode now forcibly removing channel ownership from users after policy change](https://pastebin.com/S2sDiiPE)
-- [Google is officially releasing its Fuchsia OS, starting with first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/#more-428672)
-- [Mast Upgrade: UK experiment could sweep aside fusion hurdle](https://www.bbc.com/news/science-environment-57232644)
-- [When Do Programmers Retire? Is 35 the End?](https://betterprogramming.pub/when-do-programmers-retire-is-35-the-end-72d173760ee2)
-- [Poets in Myanmar Are Killed After the Coup](https://www.nytimes.com/2021/05/25/world/asia/myanmar-poets.html)
-- [One startup's quest to take on Chrome and reinvent the web browser](https://www.protocol.com/browser-company)
-- [Real evidence of Aliens will come from a space not UFOs in our sky](https://www.theatlantic.com/science/archive/2021/05/ufos-aliens/618990/)
-- [Opinion: Caste bigotry is real. And it's rampant in the Bay Area](https://www.sfchronicle.com/opinion/openforum/article/Opinion-Caste-bigotry-is-real-And-it-s-16195583.php)
+- [Facebook to stop automatically adding a ‘fake news’ to C19 lab leak discussions](https://gizmodo.com/facebook-will-stop-labeling-posts-questioning-covid-19s-1846979092)
+- [Russian Search Engine Yandex Buys a Bank](https://russiansearchnews.com/articles/yandex-buys-bank-akropol/)
+- [Michael Malloy](https://en.wikipedia.org/wiki/Michael_Malloy)
+- [Eric Carle, writer and illustrator who gave life to The Very Hungry Caterpillar](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
+- [Great Electric Airplane Race](https://www.pbs.org/video/great-electric-airplane-race-yija0p/)
+- [Three.js Fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
+- [Cricut Design Space is down](https://news.ycombinator.com/item?id=27298991)
+- [Unfixable Apple M1 chip bug enables cross-process chatter, breaking OS security](https://www.theregister.com/2021/05/27/apple_m1_chip_bug/)
+- [Facebook dark mode on mobile missing for some users](https://www.tomsguide.com/news/facebook-dark-mode-just-vanished-what-we-know)
+- [Victoria’s ridiculous tax on Electric Vehicles has passed, starts July](https://techau.com.au/victorias-ridiculous-tax-on-electric-vehicles-has-passed-starts-july-1st-2021/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -365,6 +365,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How SolarWinds Changed Cybersecurity Leadership's Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-solarwinds-changed-cybersecurity-leaderships-priorities/d/d-id/1341120?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How CIOs Can Advance Company Sustainability Goals](https://www.informationweek.com/strategic-cio/digital-business/how-cios-can-advance-company-sustainability-goals/a/d-id/1341121?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Return to Office Risks Worth Considering](https://www.informationweek.com/strategic-cio/return-to-office-risks-worth-considering/a/d-id/1341083?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How IT Corrected Business Blind Spots During the Pandemic](https://www.informationweek.com/strategic-cio/enterprise-agility/how-it-corrected-business-blind-spots-during-the-pandemic/a/d-id/1341079?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AT&T Communications CTO Legg on Transforming a Telecom Giant](https://www.informationweek.com/strategic-cio/atandt-communications-cto-legg-on-transforming-a-telecom-giant/d/d-id/1341112?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -373,8 +375,6 @@
 - [Universities Are Failing Software Developers](https://www.informationweek.com/devops/programming-languages/universities-are-failing-software-developers-/a/d-id/1341002?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [ServiceNow's Acquisition Spree Adds Observability](https://www.informationweek.com/strategic-cio/servicenows-acquisition-spree-adds-observability/d/d-id/1341053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Automation is an Essential Survival Skill for Every Modern IT Organization](https://www.informationweek.com/strategic-cio/enterprise-agility/automation-is-an-essential-survival-skill-for-every-modern-it-organization/a/d-id/1341062?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Formula One, NFL, and NHL Work on Their Hustle with AWS](https://www.informationweek.com/cloud/formula-one-nfl-and-nhl-work-on-their-hustle-with-aws/d/d-id/1341052?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Chief Data Officers Help Steer Digital Transformations](https://www.informationweek.com/strategic-cio/chief-data-officers-help-steer-digital-transformations-/d/d-id/1341023?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

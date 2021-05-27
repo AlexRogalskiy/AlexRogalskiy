@@ -241,12 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652178256304504833" target="_blank"><i>Those Dancing Days Are Gone</i></a></summary>
-<p>by W.B. Yeats</p><p>
-						Come, let me sing into your ear;<br/>Those dancing days are gone,<br/>All that silk and satin gear;<br/>Crouch upon a stone,<br/>Wrapping that foul body up<br/>In as foul a rag:<br/>I carry the sun in a golden cup.<br/>The moon in a silver bag.<br/><br/>Curse as you may I sing it through;<br/>What matter if the knave<br/>That the most could pleasure you,<br/>The children that he gave,<br/>Are somewhere sleeping like a top<br/>Under a marble flag?<br/>I carry the sun in a golden cup.<br/>The moon in a silver bag.<br/><br/>I thought it out this very day.<br/>Noon upon the clock,<br/>A man may put pretence away<br/>Who leans upon a stick,<br/>May sing, and sing until he drop,<br/>Whether to maid or hag:<br/>I carry the sun in a golden cup,<br/>The moon in a silver bag. 
-
-
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652268852638547968" target="_blank"><i>Sonnet 139</i></a></summary>
+<p>by Edna St. Vincent Millay<br/></p><p>I must not die of pity; I must live;<br/>Grow strong, not sicken; eat, digest my food,<br/>That it may build me, and in doing good<br/>To blood and bone, broaden the sensitive<br/>Fastidious pale perception: we contrive<br/>Lean comfort for the starving, who intrude<br/>Upon them with our pots of pity: brewed<br/>From stronger meat must be the broth we give.</p><p>Blue, bright September day, with here and there<br/>On the green hills a maple turning red,<br/>And white clouds racing in the windy air!—<br/>If I would help the weak, I must be fed<br/>In wit and purpose, pour away despair<br/>And rinse the cup, eat happiness like bread.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/ocker_1083.php" target="_blank"><i>ocker</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/piece_1343.php" target="_blank"><i>piece</i></a>
 <span> = </span>
-<span>a crude and obnoxious Australian</span>
+<span>a gun</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

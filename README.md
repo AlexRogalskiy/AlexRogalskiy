@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/Fair_exchange_is_no_robbery_875.php" target="_blank"><i>Fair exchange is no robbery</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/The_best_things_in_life_are_free_496.php" target="_blank"><i>The best things in life are free</i></a>
 <span> = </span>
-<span>Swapping one thing fairly in return for another is not the same as stealing.</span>
+<span>We don't have to pay for the things that are really valuable, like love, friendship and good health.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

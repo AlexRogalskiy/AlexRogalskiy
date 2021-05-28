@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Databricks unveils data sharing protocol as part of data lakehouse](https://www.computerweekly.com/news/252501344/Databricks-unveils-data-sharing-protocol-as-part-of-data-lakehouse)
-- [How Kao Data used digital twin technology to build UK’s first free-cooled wholesale colo datacentre](https://www.computerweekly.com/news/252501430/How-Kao-Data-used-digital-twin-technology-to-build-UKs-first-free-cooled-wholesale-colo-datacentre)
-- [Department for Education’s e-learning unpreparedness widens inequality among students](https://www.computerweekly.com/news/252501423/Department-for-Educations-e-learning-unpreparedness-widens-inequality-among-students)
-- [Build 2021: Code abstraction and automatic code generation](https://www.computerweekly.com/news/252501420/Build-2021-Code-abstraction-and-automatic-code-generation)
-- [More data stolen in January 2021 than in all of 2017, says report](https://www.computerweekly.com/news/252501400/More-data-stolen-in-January-2021-than-in-all-of-2017-says-report)
-- [Millions of pounds lost to crypto fraud on social media](https://www.computerweekly.com/news/252501404/Millions-of-pounds-lost-to-crypto-fraud-on-social-media)
-- [Disabled travellers promised better train journeys by Passenger Assistance app](https://www.computerweekly.com/news/252501367/Disabled-travellers-promised-better-train-journeys-by-Passenger-Assistance-app)
-- [Google offers free tech skills training to UK jobseekers](https://www.computerweekly.com/news/252501385/Google-offers-free-tech-skills-training-to-UK-jobseekers)
-- [‘It's a good day when we refer a case,’ CCRC tells MPs during review of Post Office prosecutions](https://www.computerweekly.com/news/252501399/Its-a-good-day-when-we-refer-a-case-CCRC-tells-MPs-during-review-of-Post-Office-prosecutions)
-- [Nordic CIO interview: Tommi Tuovila, Neste](https://www.computerweekly.com/news/252500979/Nordic-CIO-interview-Tommi-Tuoivila-Neste)
+- [BCS demands reform to rules on computer evidence following Post Office Horizon scandal revelations](https://www.computerweekly.com/news/252501510/BCS-demands-reform-to-rules-on-computer-evidence-following-Post-Office-Horizon-scandal-revelations)
+- [Loss of 150,000 police records made worse by management failures](https://www.computerweekly.com/news/252501504/Loss-of-150000-police-records-made-worse-by-management-failures)
+- [Uber signs collective bargaining agreement with GMB](https://www.computerweekly.com/news/252501503/Uber-signs-collective-bargaining-agreement-with-GMB)
+- [MP-backed push to stop tech giants claiming super-deduction tax relief thwarted](https://www.computerweekly.com/news/252501505/MP-backed-push-to-stop-tech-giants-claiming-super-deduction-tax-relief-thwarted)
+- [TCS opens its first European innovation centre in Amsterdam](https://www.computerweekly.com/news/252501490/TCS-opens-its-first-European-innovation-centre-in-Amsterdam)
+- [Security ops teams struggle to switch off at home](https://www.computerweekly.com/news/252501485/Security-ops-teams-struggle-to-switch-off-at-home)
+- [Build 2021: Microsoft targets multicloud developers](https://www.computerweekly.com/news/252501483/Build-2021-Microsoft-targets-multicloud-developers)
+- [How supply chain digitisation is paving the way to gene therapy](https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy)
+- [CW Nordics: Denmark takes a top-down approach to gender equality in tech entrepreneurship](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Denmark-takes-a-top-down-approach-to-gender-equality-in-tech-entrepreneurship)
+- [How the pandemic accelerated the Gulf’s edtech revolution](https://www.computerweekly.com/news/252501473/How-the-pandemic-accelerated-the-Gulfs-edtech-revolution)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

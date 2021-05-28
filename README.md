@@ -241,8 +241,38 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652268852638547968" target="_blank"><i>Sonnet 139</i></a></summary>
-<p>by Edna St. Vincent Millay<br/></p><p>I must not die of pity; I must live;<br/>Grow strong, not sicken; eat, digest my food,<br/>That it may build me, and in doing good<br/>To blood and bone, broaden the sensitive<br/>Fastidious pale perception: we contrive<br/>Lean comfort for the starving, who intrude<br/>Upon them with our pots of pity: brewed<br/>From stronger meat must be the broth we give.</p><p>Blue, bright September day, with here and there<br/>On the green hills a maple turning red,<br/>And white clouds racing in the windy air!—<br/>If I would help the weak, I must be fed<br/>In wit and purpose, pour away despair<br/>And rinse the cup, eat happiness like bread.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652359434259005440" target="_blank"><i>Negotiations with a Volcano</i></a></summary>
+<p>by Naomi Shihab Nye<br/><br/>We will call you “Agua” like the rivers and cool jugs.
+<br/>We will persuade the clouds to nestle around your neck
+<br/>so you may sleep late.
+<br/>We would be happy if you slept forever.
+<br/>We will tend the slopes we plant, singing the songs
+<br/>our grandfathers taught us before we inherited their fear.
+<br/>We will try not to argue among ourselves.
+<br/>When the widow demands extra flour, we will provide it,
+<br/>remembering the smell of incense on the day of our Lord.
+ 
+<br/><br/>Please think of us as we are, tiny, with skins that burn easily.
+<br/>Please notice how we have watered the shrubs around our houses
+<br/>and transplanted the peppers into neat tin cans.
+<br/>Forgive any anger we feel toward the earth,
+<br/>when the rains do not come, or they come too much,
+<br/>and swallow our corn.
+<br/>It is not easy to be this small and live in your shadow.
+
+<br/><br/>Often while we are eating our evening meal
+<br/>you cross our rooms like a thief,
+<br/>touching first the radio and then the loom.
+<br/>Later our dreams begin catching fire around the edges,
+<br/>they burn like paper, we wake with our hands full of ash.
+
+<br/><br/>How can we live like this?
+<br/>We need to wake and find our shelves intact,
+<br/>our children slumbering in their quilts.
+<br/>We need dreams the shape of lakes,
+<br/>with mornings in them thick as fish.
+<br/>Shade us while we cast and hook—
+<br/>but nothing else, nothing else.<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

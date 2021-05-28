@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/weak_at_the_knees_251.php" target="_blank"><i>weak at the knees</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Death/dead_in_the_water_614.php" target="_blank"><i>dead in the water</i></a>
 <span> = </span>
-<span>If you go weak at the knees, you feel an emotion so strongly that it makes you feel unstable on your feet.</span>
+<span>If something is dead in the water, it has no chance of succeeding or of making any progress.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

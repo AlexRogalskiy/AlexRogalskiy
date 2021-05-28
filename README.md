@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ouch: Wyze's New Home Monitoring Core Kit Just Saw a Serious Price Increase](https://www.reviewgeek.com/85298/ouch-wyzes-new-home-monitoring-core-kit-just-saw-a-serious-price-increase/)
-* [Garbage iOS App Won't Open Without a Good Review](https://www.reviewgeek.com/85235/garbage-ios-app-wont-open-without-a-good-review/)
-* [MyTaggr's Mount Tucks an AirTag Beneath Your Bike Seat for Easy Tracking](https://www.reviewgeek.com/85227/mytaggrs-mount-tucks-an-airtag-beneath-your-bike-seat-for-easy-tracking/)
-* [Google Discover Gets Colorful In Android 12](https://www.reviewgeek.com/85210/google-discover-gets-colorful-in-android-12/)
-* [1Password Browser Extension Gets Touch ID, Windows Hello, and Dark Mode Support](https://www.reviewgeek.com/85212/1password-browser-extension-gets-touch-id-windows-hello-and-dark-mode-support/)
-* [Better Than Nothing: Fitbit Now Supports SMS 2FA](https://www.reviewgeek.com/85213/better-than-nothing-fitbit-now-supports-sms-2fa/)
-* [How to Use Docker Scan to Find Vulnerabilities in Your Images](https://www.cloudsavvyit.com/11176/how-to-use-docker-scan-to-find-vulnerabilities-in-your-images/)
-* [Anker Teases Upcoming Nebula 4K Streaming Dongle with Android 10](https://www.reviewgeek.com/85194/anker-teases-upcoming-nebula-4k-streaming-dongle-with-android-10/)
-* [Philo Streaming Service Promised Not to Raise Prices---Now It's Raising Prices](https://www.reviewgeek.com/85174/philo-streaming-service-promised-not-raise-prices-now-its-raising-prices/)
-* [Amazon Steps through the Stargate with MGM Purchase](https://www.reviewgeek.com/85147/amazon-steps-through-the-stargate-with-mgm-purchase/)
+* [Turn Your Android App Usage Into a Dynamic Wallpaper With OnePlus WellPaper](https://www.reviewgeek.com/85511/turn-your-android-app-usage-into-a-dynamic-wallpaper-with-oneplus-wellpaper/)
+* [RedMagic 6R Features New Casual Design, Same Hardcore Gaming Features](https://www.reviewgeek.com/85479/redmagic-6r-features-new-casual-design-same-hardcore-gaming-features/)
+* [Lime Prime Subscription Waives Unlock Fees & Increases Scooter Holds](https://www.reviewgeek.com/85476/lime-prime-subscription-waives-unlock-fees-increases-scooter-holds/)
+* [Gear4's Kid-Friendly iPad Case Will Stand Up to Adult Drops](https://www.reviewgeek.com/85429/gear4s-kid-friendly-ipad-case-will-stand-up-to-adult-drops/)
+* [Repairability and Sustainability Drive Acer's New Aspire Vero Laptop](https://www.reviewgeek.com/85400/repairability-and-sustainability-drive-acers-new-aspire-vero-laptop/)
+* [Christmas Before July: Amazon Prime Day Tipped for June 21-22](https://www.reviewgeek.com/85411/christmas-before-july-amazon-prime-day-tipped-for-june-21-22/)
+* [Kubernetes: ClusterIP, NodePort, or Ingress? When to Use Each](https://www.cloudsavvyit.com/11261/kubernetes-clusterip-nodeport-or-ingress-when-to-use-each/)
+* [These Three New Thin and Light Laptops from Acer are Perfect for Hybrid Workers](https://www.reviewgeek.com/85391/these-three-new-thin-and-light-laptops-from-acer-are-perfect-for-hybrid-workers/)
+* [Acer's Dizzying Number of New Gaming Devices Are Hard to Fit In a Headline](https://www.reviewgeek.com/85349/acers-dizzying-number-of-new-gaming-devices-are-hard-to-fit-in-a-headline/)
+* [With a 3DS-Like Display, Acer's ConceptD Laptop Goes Stereoscopic](https://www.reviewgeek.com/85362/with-a-3ds-like-display-acers-conceptd-laptop-goes-stereoscopic/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/The_best_things_in_life_are_free_496.php" target="_blank"><i>The best things in life are free</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/If_you_play_with_fire_you_get_burned_858.php" target="_blank"><i>If you play with fire you get burned</i></a>
 <span> = </span>
-<span>We don't have to pay for the things that are really valuable, like love, friendship and good health.</span>
+<span>If you fool around with something that is potentially dangerous, you must expect to get harmed.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

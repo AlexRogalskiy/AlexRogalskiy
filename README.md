@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [User data on 950,000 packages exposed after Canada Post falls victim to third-party hack](https://www.itworldcanada.com/article/user-data-on-950000-packages-exposed-after-canada-post-falls-victim-to-third-party-hack/447854)
+- [Ottawa ‘grateful’ for Ransomware Task Force’s recent work](https://www.itworldcanada.com/article/ottawa-grateful-for-work-of-ransomware-task-force/447407)
+- [ThinkOn launches cloud marketplace for Canada’s public sector with QuickSilk as initial member](https://www.itworldcanada.com/article/thinkon-launches-cloud-marketplace-for-canadas-public-sector-with-quicksilk-as-initial-member/447824)
+- [Hashtag Trending, May 27, 2021 – Amazon buys MGM; FICO report reveals ethical AI not top of mind among companies; Amazon under criticism for poor working conditions](https://www.itworldcanada.com/article/hashtag-trending-may-27-2021-amazon-buys-mgm-fico-report-reveals-companies-are-not-creating-inclusive-ai-amazon-under-criticism-for-poor-working-conditions/447818)
 - [Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada](https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813)
 - [Canadians want action on privacy, harmful internet content: CIRA poll](https://www.itworldcanada.com/article/canadians-want-action-on-privacy-harmful-internet-content-cira-poll/447779)
 - [Cyber Security Today, May 26, 2021 – Ransomware worries, Bose admits attack, cyber insurance news and the latest security patches](https://www.itworldcanada.com/article/cyber-security-today-may-26-2021-ransomware-worries-bose-admits-attack-cyber-insurance-news-and-the-latest-security-patches/447753)
 - [Hashtag Trending, May 26, 2021- Florida Governor Signs Bill that fines tech companies; Microsoft Build Event; Hybrid Working is more complex than it seems](https://www.itworldcanada.com/article/hashtag-trending-may-26-2021-florida-governor-signs-bill-that-fines-tech-companies-microsoft-build-event-hybrid-working-is-more-complex-than-it-seems/447776)
 - [Qualcomm announces new Windows on Arm testing kit](https://www.itworldcanada.com/article/qualcomm-announces-new-windows-on-arm-testing-kit/447757)
 - [Canada unlocks more mid-band spectrum for faster 5G](https://www.itworldcanada.com/article/canada-unlocks-more-mid-band-spectrum-for-faster-5g/447743)
-- [Coffee Briefing, May 25, 2021 – Citrix Canada’s new GM; Canada named world’s most cashless economy; job losses out West; and more](https://www.itworldcanada.com/article/coffee-briefing-may-25-2021-citrix-canadas-new-gm-canada-named-worlds-most-cashless-economy-job-losses-out-west-and-more/447705)
-- [Hashtag Trending, May 25, 2021 – Vaccine boosts attractiveness; China condemns illegal data collection; Google ends unlimited photo backups](https://www.itworldcanada.com/article/hashtag-trending-vaccine-boosts-attractiveness-china-condemns-illegal-data-collection-google-ends-unlimited-photo-backups/447734)
-- [Cyber Security Today, May 24, 2021 – Huge international data breach at Air India, and beware of online job scams](https://www.itworldcanada.com/article/cyber-security-today-may-24-2021-huge-international-data-breach-at-air-india-and-beware-of-online-job-scams/447718)
-- [Cyber Security Today, Week in Review for May 21, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-21-2021/447672)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

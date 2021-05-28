@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [BrandPost: What’s next for Fintech, and how banks can leverage new-wave technologies to deliver superior services to all](https://www.computerworld.com/article/3620233/what-s-next-for-fintech-and-how-banks-can-leverage-new-wave-technologies-to-deliver-superior-servic.html#tk.rss_all)
+- [10 helpful iPhone tips to use at work](https://www.computerworld.com/article/3620274/10-helpful-iphone-tips-to-use-at-work.html#tk.rss_all)
+- [Capital One Shopping helps you save money and time online](https://www.computerworld.com/article/3618779/capital-one-shopping-helps-you-save-money-and-time-online.html#tk.rss_all)
+- [Keep your business aligned remotely with Cloud ERP solutions](https://www.computerworld.com/article/3618733/keep-your-business-aligned-remotely-with-cloud-erp-solutions.html#tk.rss_all)
+- [A sanity-saving typing trick for Gboard on Android](https://www.computerworld.com/article/3620195/gboard-android-typing-trick.html#tk.rss_all)
+- [Microsoft confirms Windows 10X's demise, quickly teases 'significant update' to Windows 10](https://www.computerworld.com/article/3620272/microsoft-confirms-windows-10xs-demise-quickly-teases-significant-update-to-windows-10.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [This $5,000 Microsoft IT training bundle is just $70 right now](https://www.computerworld.com/article/3618778/this-5-000-microsoft-it-training-bundle-is-just-70-right-now.html#tk.rss_all)
-- [Clearcover makes switching car insurance an absolute breeze](https://www.computerworld.com/article/3618732/clearcover-makes-switching-car-insurance-an-absolute-breeze.html#tk.rss_all)
-- [At Virgin Atlantic, Facebook Workplace evolves into a key productivity tool](https://www.computerworld.com/article/3619633/at-virgin-atlantic-facebook-workplace-evolves-from-connecting-workers-to-productivity.html#tk.rss_all)
-- [BrandPost: Cybersecurity Threats Shine Spotlight on Medical Data Protection](https://www.computerworld.com/article/3619512/cybersecurity-threats-shine-spotlight-on-medical-data-protection.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Android 12's quietly important privacy progress](https://www.computerworld.com/article/3619635/android-12-privacy.html#tk.rss_all)
-- [5 free ways to get better business security](https://www.computerworld.com/article/3619798/5-free-ways-to-get-better-business-security.html#tk.rss_all)
-- [Microsoft sets IE's date with death — kind of](https://www.computerworld.com/article/3619615/microsoft-sets-ies-date-with-death-kind-of.html#tk.rss_all)
-- [An ‘underwhelming’ Windows 10 21H1 arrives](https://www.computerworld.com/article/3619543/an-underwhelming-windows-10-21h1-arrives.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

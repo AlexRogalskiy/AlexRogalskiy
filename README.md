@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Domshell’: what the papers say about Dominic Cummings’ attack on Boris Johnson](https://www.theguardian.com/politics/2021/may/27/domshell-what-the-papers-say-about-dominic-cummings-attack-on-boris-johnson)
-- [Thousands of YouTube comments on Sky News Australia video celebrate BLM activist being shot in head](https://www.theguardian.com/media/2021/may/27/thousands-of-youtube-comments-on-sky-news-australia-video-celebrate-blm-activist-being-shot-in-head)
-- [‘The government failed’: Dominic Cummings takes aim at No 10’s Covid response](https://www.theguardian.com/news/audio/2021/may/27/the-government-failed-dominic-cummings-takes-aim-at-no-10s-covid-response)
-- [Naomi Osaka will not speak to French Open press due to mental health impact](https://www.theguardian.com/sport/2021/may/27/naomi-osaka-will-not-speak-to-french-open-press-mental-health-tennis)
-- [Solskjær: Manchester United ‘did not turn up’ for Europa League final](https://www.theguardian.com/football/2021/may/27/ole-gunnar-solskjaer-united-did-not-turn-up-for-europa-league-final)
-- [UK lifeguards gear up for busiest summer as millions head for coast](https://www.theguardian.com/business/2021/may/27/uk-lifeguards-gear-up-for-busiest-summer-as-millions-head-for-coast)
-- [Proms to welcome back live audiences for 52 concerts over six weeks](https://www.theguardian.com/music/2021/may/27/proms-welcome-back-live-audiences-52-concerts-six-weeks)
-- [Zinedine Zidane decides to end his second stint as Real Madrid manager](https://www.theguardian.com/football/2021/may/26/zinedine-zidane-to-leave-real-madrid-manager)
-- [Villarreal beat Manchester United 11-10 on penalties to win Europa League final](https://www.theguardian.com/football/2021/may/26/villarreal-manchester-united-europa-league-final-2021-match-report)
-- [Tax soaring private jet use to fund green flying, says report](https://www.theguardian.com/business/2021/may/26/climate-ticket-tax-private-jet-users)
+- [Italy cable car crash: five-year-old survivor to be moved out of intensive care](https://www.theguardian.com/world/2021/may/28/italy-cable-car-crash-five-year-old-survivor-eitan-biran-intensive-care)
+- [A state-sponsored ‘hijacking’ – the arrest of Belarus blogger Raman Pratasevich](https://www.theguardian.com/news/audio/2021/may/28/a-state-sponsored-hijacking-the-arrest-of-belarus-blogger-raman-pratasevich)
+- [Hong Kong bans Tiananmen Square vigil, citing Covid restrictions](https://www.theguardian.com/world/2021/may/28/hong-kong-bans-tiananmen-square-vigil-citing-covid-restrictions)
+- [Senate Republicans will likely sink Democrats’ bid to set up Capitol attack commission](https://www.theguardian.com/us-news/2021/may/27/senate-republicans-commission-capitol-attack)
+- [Bank transfer scammers steal £700,000 a day from UK victims](https://www.theguardian.com/money/2021/may/28/bank-transfer-scammers-steal-700000-a-day-from-uk-victims)
+- [In the pipeline: networks to warm UK homes using surplus heat](https://www.theguardian.com/business/2021/may/28/in-the-pipeline-networks-to-warm-uk-homes-using-surplus-heat)
+- [Site in Syria could be world’s oldest war memorial, study finds](https://www.theguardian.com/science/2021/may/28/site-in-syria-could-be-worlds-oldest-war-memorial-study-finds)
+- [Marcus Rashford and Barack Obama share ‘surreal’ Zoom conversation](https://www.theguardian.com/football/2021/may/28/marcus-rashford-and-barack-obama-share-zoom-conversation)
+- [Number of smokers has reached all-time high of 1.1 billion, study finds](https://www.theguardian.com/society/2021/may/27/number-of-smokers-has-reached-all-time-high-of-11-billion-study-finds)
+- [Indoor gigs could be staged without raising Covid risk, study finds](https://www.theguardian.com/world/2021/may/27/indoor-gigs-could-be-staged-without-raising-covid-risk-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

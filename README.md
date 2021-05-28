@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Facebook to stop automatically adding a ‘fake news’ to C19 lab leak discussions](https://gizmodo.com/facebook-will-stop-labeling-posts-questioning-covid-19s-1846979092)
-- [Russian Search Engine Yandex Buys a Bank](https://russiansearchnews.com/articles/yandex-buys-bank-akropol/)
-- [Michael Malloy](https://en.wikipedia.org/wiki/Michael_Malloy)
-- [Eric Carle, writer and illustrator who gave life to The Very Hungry Caterpillar](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
-- [Great Electric Airplane Race](https://www.pbs.org/video/great-electric-airplane-race-yija0p/)
-- [Three.js Fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
-- [Cricut Design Space is down](https://news.ycombinator.com/item?id=27298991)
-- [Unfixable Apple M1 chip bug enables cross-process chatter, breaking OS security](https://www.theregister.com/2021/05/27/apple_m1_chip_bug/)
-- [Facebook dark mode on mobile missing for some users](https://www.tomsguide.com/news/facebook-dark-mode-just-vanished-what-we-know)
-- [Victoria’s ridiculous tax on Electric Vehicles has passed, starts July](https://techau.com.au/victorias-ridiculous-tax-on-electric-vehicles-has-passed-starts-july-1st-2021/)
+- [File Permissions: the painful side of Docker (2019)](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/)
+- [Astronomers Have Created the Largest Ever Map of the Sky](https://scitechdaily.com/astronomers-have-created-the-largest-ever-map-of-the-sky-comprising-over-a-billion-galaxies/)
+- [Biologists construct a 'periodic table' for cell nuclei](https://phys.org/news/2021-05-biologists-periodic-table-cell-nuclei.html)
+- [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
+- [Oldest recovered TV images (2013)](http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/)
+- [The Effect of the Lunar Eclipse on App Installation Rate](https://www.reddit.com/r/androiddev/comments/nmgnha/the_effect_of_a_lunar_eclipse_on_install_rates_of/)
+- [Vizio makes nearly as much money from ads and data as it does from TVs](https://www.engadget.com/vizio-q1-earnings-inscape-013937337.html)
+- [Faster CPython](https://twitter.com/driscollis/status/1392947869657731072)
+- [Gmail Browser Tools for a Cleaner Inbox and More Productive Emails](https://www.makeuseof.com/gmail-browser-tools-cleaner-inbox-productive-emails/)
+- [Coinbase is starting a 'Media Arm'](https://www.vice.com/en/article/93yae5/coinbase-doesnt-like-the-media-so-its-starting-a-media-arm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

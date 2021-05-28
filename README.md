@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice on practicing / getting experience at home.](https://www.reddit.com/r/InformationTechnology/comments/nlwda3/advice_on_practicing_getting_experience_at_home/)
-- [What does A 25b(I.T.) do in the Army??](https://www.reddit.com/r/InformationTechnology/comments/nltzjg/what_does_a_25bit_do_in_the_army/)
-- [Network Automation w Ansible](https://www.reddit.com/r/InformationTechnology/comments/nlme4e/network_automation_w_ansible/)
-- [Automated sever configuration reports](https://www.reddit.com/r/InformationTechnology/comments/nlclq5/automated_sever_configuration_reports/)
-- [What do you think makes IT applications useful and unique ?](https://www.reddit.com/r/InformationTechnology/comments/nl91vl/what_do_you_think_makes_it_applications_useful/)
-- [Another “Tell me what to do with my future” post, but this time, in Spanish!](https://www.reddit.com/r/InformationTechnology/comments/nl63j1/another_tell_me_what_to_do_with_my_future_post/)
-- [Just landed a tier 1 support technician job.](https://www.reddit.com/r/InformationTechnology/comments/nl53x1/just_landed_a_tier_1_support_technician_job/)
-- [IT Certs or Bachelors?](https://www.reddit.com/r/InformationTechnology/comments/nkgkte/it_certs_or_bachelors/)
-- [Job expectations after getting certain certifications](https://www.reddit.com/r/InformationTechnology/comments/njzsrl/job_expectations_after_getting_certain/)
-- [Should I pursue IT certifications such as Comp Tia and A+ or get an associates degree that transfers to a bachelors in Management Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/njyt9d/should_i_pursue_it_certifications_such_as_comp/)
+- [Where can i learn about computer science outside of books?](https://www.reddit.com/r/InformationTechnology/comments/nmk1uz/where_can_i_learn_about_computer_science_outside/)
+- [16 year old wants to be a pen-tester](https://www.reddit.com/r/InformationTechnology/comments/nmjpix/16_year_old_wants_to_be_a_pentester/)
+- [What would my job title be?](https://www.reddit.com/r/InformationTechnology/comments/nmfbd3/what_would_my_job_title_be/)
+- [Beginning a career in IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/nma83f/beginning_a_career_in_it_with_no_experience/)
+- [(Very weird request) Anybody work in or used to IT, and use a physical Database?](https://www.reddit.com/r/InformationTechnology/comments/nma1p9/very_weird_request_anybody_work_in_or_used_to_it/)
+- [Networking knowledge](https://www.reddit.com/r/InformationTechnology/comments/nm9pjr/networking_knowledge/)
+- [Better to get a more technical or business oriented masters degree?](https://www.reddit.com/r/InformationTechnology/comments/nm8zwr/better_to_get_a_more_technical_or_business/)
+- [Difference between Microsoft Azure Security Center and Azure Sentinel](https://www.reddit.com/r/InformationTechnology/comments/nm6uxm/difference_between_microsoft_azure_security/)
+- [What do you guys think of Udemy for learning aside from Pluralsight platfom.](https://www.reddit.com/r/InformationTechnology/comments/nm6ul1/what_do_you_guys_think_of_udemy_for_learning/)
+- [Do I need to bring a laptop to IT classes at uni?](https://www.reddit.com/r/InformationTechnology/comments/nm5vcd/do_i_need_to_bring_a_laptop_to_it_classes_at_uni/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

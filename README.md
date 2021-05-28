@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Whole Earth ‘Lectronic Link](https://www.well.com/)
-- [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
-- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
-- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
-- [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [LA pays $2600 per homeless tent, per month](https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions)
-- [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
-- [You can't have too many angels](https://waseem.substack.com/p/you-cant-have-too-many-angels)
-- [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
-- [Life after an internet mob attack](https://pasquale.cool/internet-mob)
+- [WordPress is 18](https://ma.tt/2021/05/wordpress-18/)
+- [The history of lab leaks](https://www.bloomberg.com/opinion/articles/2021-05-27/covid-19-and-lab-leak-history-smallpox-h1n1-sars)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27310586)
+- [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
+- [ClickHouse: An open-source column-oriented database management system](https://github.com/ClickHouse/ClickHouse)
+- [Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)](https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html)
+- [Second-guessing the modern web (2020)](https://macwright.com/2020/05/10/spa-fatigue.html)
+- [How I raised a $5.1M seed as a first-time, female, solo founder for a biotech co](https://www.celinehh.com/seed-raise-how-to)
+- [An Intuition for Lisp Syntax](https://stopa.io/post/265?repost=true)
+- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

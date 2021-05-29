@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Italy cable car crash: five-year-old survivor to be moved out of intensive care](https://www.theguardian.com/world/2021/may/28/italy-cable-car-crash-five-year-old-survivor-eitan-biran-intensive-care)
-- [A state-sponsored ‘hijacking’ – the arrest of Belarus blogger Raman Pratasevich](https://www.theguardian.com/news/audio/2021/may/28/a-state-sponsored-hijacking-the-arrest-of-belarus-blogger-raman-pratasevich)
-- [Hong Kong bans Tiananmen Square vigil, citing Covid restrictions](https://www.theguardian.com/world/2021/may/28/hong-kong-bans-tiananmen-square-vigil-citing-covid-restrictions)
-- [Senate Republicans will likely sink Democrats’ bid to set up Capitol attack commission](https://www.theguardian.com/us-news/2021/may/27/senate-republicans-commission-capitol-attack)
-- [Bank transfer scammers steal £700,000 a day from UK victims](https://www.theguardian.com/money/2021/may/28/bank-transfer-scammers-steal-700000-a-day-from-uk-victims)
-- [In the pipeline: networks to warm UK homes using surplus heat](https://www.theguardian.com/business/2021/may/28/in-the-pipeline-networks-to-warm-uk-homes-using-surplus-heat)
-- [Site in Syria could be world’s oldest war memorial, study finds](https://www.theguardian.com/science/2021/may/28/site-in-syria-could-be-worlds-oldest-war-memorial-study-finds)
-- [Marcus Rashford and Barack Obama share ‘surreal’ Zoom conversation](https://www.theguardian.com/football/2021/may/28/marcus-rashford-and-barack-obama-share-zoom-conversation)
-- [Number of smokers has reached all-time high of 1.1 billion, study finds](https://www.theguardian.com/society/2021/may/27/number-of-smokers-has-reached-all-time-high-of-11-billion-study-finds)
-- [Indoor gigs could be staged without raising Covid risk, study finds](https://www.theguardian.com/world/2021/may/27/indoor-gigs-could-be-staged-without-raising-covid-risk-study-finds)
+- [Belarus: US draws up sanctions for ‘ongoing abuses’ after plane incident](https://www.theguardian.com/world/2021/may/29/belarus-us-draws-up-sanctions-for-ongoing-abuses-after-plane-incident)
+- [‘More people could die’: four killed in Colombia protests as talks with government stall](https://www.theguardian.com/world/2021/may/29/more-people-could-die-four-killed-in-colombia-protests-as-talks-with-government-stall)
+- [Antisemitism: Williamson warns headteachers amid tension in schools](https://www.theguardian.com/education/2021/may/29/antisemitism-williamson-warns-headteachers-amid-tension-in-schools)
+- [Former Socceroos coach Ange Postecoglou in line for Celtic post](https://www.theguardian.com/football/2021/may/29/former-socceroos-coach-ange-postecoglou-in-line-for-celtic-post)
+- [San Jose gunman stockpiled weapons and 22,000 rounds of ammunition](https://www.theguardian.com/us-news/2021/may/28/san-jose-shooting-gunman-home-weapons-ammunition)
+- [MPs urge action to save UK music festivals from another ‘lost summer’](https://www.theguardian.com/music/2021/may/29/mps-urge-action-save-uk-music-festivals-another-lost-summer)
+- [Sasha Johnson: 18-year-old charged with conspiracy to murder](https://www.theguardian.com/uk-news/2021/may/28/sasha-johnson-18-year-old-charged-with-conspiracy-to)
+- [Republicans are trying to rewrite the history of the Capitol attack. Don’t let them | Andrew Gawthorpe](https://www.theguardian.com/commentisfree/2021/may/28/republicans-trying-rewrite-history-capitol-attack)
+- [Leeds ignite season as they beat Castleford with 11-try demolition job](https://www.theguardian.com/sport/2021/may/28/leeds-ignite-season-as-they-beat-castleford-with-11-try-demolition-job)
+- [Du Preez brothers double up and Tuilagi makes return as Sale beat Bristol](https://www.theguardian.com/sport/2021/may/28/du-preez-brothers-double-up-and-tuilagi-makes-return-as-sale-beat-bristol)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

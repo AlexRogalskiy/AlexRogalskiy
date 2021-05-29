@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bitwarden Coolness Test](https://www.reddit.com/r/InformationTechnology/comments/nnfku2/bitwarden_coolness_test/)
+- [Worth learning?](https://www.reddit.com/r/InformationTechnology/comments/nmzgp4/worth_learning/)
+- [Anyone switched from Docuware to Sharepoint? Is it possible?](https://www.reddit.com/r/InformationTechnology/comments/nmykl2/anyone_switched_from_docuware_to_sharepoint_is_it/)
+- [Using a decentralised computing power network for Molecular Dynamics Simulations via a cryptocurrency. Thoughts?](https://www.reddit.com/r/InformationTechnology/comments/nmv02r/using_a_decentralised_computing_power_network_for/)
+- [Windows Virtual Desktops vs Horizon vs Citrix](https://www.reddit.com/r/InformationTechnology/comments/nmtjr6/windows_virtual_desktops_vs_horizon_vs_citrix/)
 - [Where can i learn about computer science outside of books?](https://www.reddit.com/r/InformationTechnology/comments/nmk1uz/where_can_i_learn_about_computer_science_outside/)
 - [16 year old wants to be a pen-tester](https://www.reddit.com/r/InformationTechnology/comments/nmjpix/16_year_old_wants_to_be_a_pentester/)
 - [What would my job title be?](https://www.reddit.com/r/InformationTechnology/comments/nmfbd3/what_would_my_job_title_be/)
 - [Beginning a career in IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/nma83f/beginning_a_career_in_it_with_no_experience/)
 - [(Very weird request) Anybody work in or used to IT, and use a physical Database?](https://www.reddit.com/r/InformationTechnology/comments/nma1p9/very_weird_request_anybody_work_in_or_used_to_it/)
-- [Networking knowledge](https://www.reddit.com/r/InformationTechnology/comments/nm9pjr/networking_knowledge/)
-- [Better to get a more technical or business oriented masters degree?](https://www.reddit.com/r/InformationTechnology/comments/nm8zwr/better_to_get_a_more_technical_or_business/)
-- [Difference between Microsoft Azure Security Center and Azure Sentinel](https://www.reddit.com/r/InformationTechnology/comments/nm6uxm/difference_between_microsoft_azure_security/)
-- [What do you guys think of Udemy for learning aside from Pluralsight platfom.](https://www.reddit.com/r/InformationTechnology/comments/nm6ul1/what_do_you_guys_think_of_udemy_for_learning/)
-- [Do I need to bring a laptop to IT classes at uni?](https://www.reddit.com/r/InformationTechnology/comments/nm5vcd/do_i_need_to_bring_a_laptop_to_it_classes_at_uni/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

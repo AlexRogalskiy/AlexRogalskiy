@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WWDC 2021: It’s all about the chips](https://www.computerworld.com/article/3620414/wwdc-2021-its-all-about-the-chips.html#tk.rss_all)
+- [Microsoft Teams gets Fluid components, ‘main stage’ meeting app integrations](https://www.computerworld.com/article/3620280/microsoft-teams-gets-fluid-components-main-stage-meeting-app-integrations.html#tk.rss_all)
+- [US gov’t plans for remote workers could spur private-sector push, too](https://www.computerworld.com/article/3620091/us-gov-t-plans-for-remote-workers-could-spur-private-sector-push-too.html#tk.rss_all)
+- [The 'gig economy' is a two-way street](https://www.computerworld.com/article/3619637/the-gig-economy-is-a-two-way-street.html#tk.rss_all)
+- [At Microsoft Build, a tech demo reborn as a sitcom](https://www.computerworld.com/article/3620228/at-microsoft-build-a-tech-demo-reborn-as-a-sitcom.html#tk.rss_all)
+- [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [BrandPost: What’s next for Fintech, and how banks can leverage new-wave technologies to deliver superior services to all](https://www.computerworld.com/article/3620233/what-s-next-for-fintech-and-how-banks-can-leverage-new-wave-technologies-to-deliver-superior-servic.html#tk.rss_all)
 - [10 helpful iPhone tips to use at work](https://www.computerworld.com/article/3620274/10-helpful-iphone-tips-to-use-at-work.html#tk.rss_all)
-- [Capital One Shopping helps you save money and time online](https://www.computerworld.com/article/3618779/capital-one-shopping-helps-you-save-money-and-time-online.html#tk.rss_all)
-- [Keep your business aligned remotely with Cloud ERP solutions](https://www.computerworld.com/article/3618733/keep-your-business-aligned-remotely-with-cloud-erp-solutions.html#tk.rss_all)
-- [A sanity-saving typing trick for Gboard on Android](https://www.computerworld.com/article/3620195/gboard-android-typing-trick.html#tk.rss_all)
-- [Microsoft confirms Windows 10X's demise, quickly teases 'significant update' to Windows 10](https://www.computerworld.com/article/3620272/microsoft-confirms-windows-10xs-demise-quickly-teases-significant-update-to-windows-10.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [This $5,000 Microsoft IT training bundle is just $70 right now](https://www.computerworld.com/article/3618778/this-5-000-microsoft-it-training-bundle-is-just-70-right-now.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

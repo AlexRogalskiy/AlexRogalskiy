@@ -316,16 +316,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Turn Your Android App Usage Into a Dynamic Wallpaper With OnePlus WellPaper](https://www.reviewgeek.com/85511/turn-your-android-app-usage-into-a-dynamic-wallpaper-with-oneplus-wellpaper/)
-* [RedMagic 6R Features New Casual Design, Same Hardcore Gaming Features](https://www.reviewgeek.com/85479/redmagic-6r-features-new-casual-design-same-hardcore-gaming-features/)
-* [Lime Prime Subscription Waives Unlock Fees & Increases Scooter Holds](https://www.reviewgeek.com/85476/lime-prime-subscription-waives-unlock-fees-increases-scooter-holds/)
-* [Gear4's Kid-Friendly iPad Case Will Stand Up to Adult Drops](https://www.reviewgeek.com/85429/gear4s-kid-friendly-ipad-case-will-stand-up-to-adult-drops/)
-* [Repairability and Sustainability Drive Acer's New Aspire Vero Laptop](https://www.reviewgeek.com/85400/repairability-and-sustainability-drive-acers-new-aspire-vero-laptop/)
-* [Christmas Before July: Amazon Prime Day Tipped for June 21-22](https://www.reviewgeek.com/85411/christmas-before-july-amazon-prime-day-tipped-for-june-21-22/)
-* [Kubernetes: ClusterIP, NodePort, or Ingress? When to Use Each](https://www.cloudsavvyit.com/11261/kubernetes-clusterip-nodeport-or-ingress-when-to-use-each/)
-* [These Three New Thin and Light Laptops from Acer are Perfect for Hybrid Workers](https://www.reviewgeek.com/85391/these-three-new-thin-and-light-laptops-from-acer-are-perfect-for-hybrid-workers/)
-* [Acer's Dizzying Number of New Gaming Devices Are Hard to Fit In a Headline](https://www.reviewgeek.com/85349/acers-dizzying-number-of-new-gaming-devices-are-hard-to-fit-in-a-headline/)
-* [With a 3DS-Like Display, Acer's ConceptD Laptop Goes Stereoscopic](https://www.reviewgeek.com/85362/with-a-3ds-like-display-acers-conceptd-laptop-goes-stereoscopic/)
+* [All the Wyze Products That Cost More Now (So Far)](https://www.reviewgeek.com/85399/all-the-wyze-products-that-cost-more-now-so-far/)
+* [Ransomware Group's Decryptors Are So Slow It's Almost Not Worth It](https://www.reviewgeek.com/85634/ransomware-groups-decryptors-are-so-slow-its-almost-not-worth-it/)
+* [LEGO Teases a Big Announcement and We Have No Idea What It Is](https://www.reviewgeek.com/85590/lego-teases-a-big-announcement-and-we-have-no-idea-what-it-is/)
+* [Twitter Accidentally Confirms Subscription Service with "Undo Tweet" Button](https://www.reviewgeek.com/85625/twitter-accidentally-confirms-subscription-service-with-undo-tweet-button/)
+* [Huge Bitcoin Mining Operation Found as UK Police Raided Suspected Cannabis Farm](https://www.reviewgeek.com/85606/huge-bitcoin-mining-operation-found-as-uk-police-raided-suspected-cannabis-farm/)
+* [How to Host Your Own Platform-as-a-Service (PaaS) with Dokku](https://www.cloudsavvyit.com/11138/how-to-host-your-own-platform-as-a-service-paas-with-dokku/)
+* [A New JavaScript Compiler Aims to Improve Chrome's Overall Speed](https://www.reviewgeek.com/85610/a-new-javascript-compiler-aims-to-improve-chromes-overall-speed/)
+* [Have I Been Pwned's Password Program Is Now Open Source, Accepting Data from FBI](https://www.reviewgeek.com/85602/have-i-been-pwneds-password-program-is-now-open-source-accepting-data-from-fbi/)
+* [Tesla's New Autopilot Update Uses the In-Car Camera to Spot Distracted Drivers](https://www.reviewgeek.com/85595/teslas-autopilot-update-uses-in-car-camera-to-spot-distracted-drivers/)
+* [Fitbit May Soon Track Snoring and Compare Your Sleep Habits to Cute Animals](https://www.reviewgeek.com/85585/your-fitbit-may-soon-track-snoring-and-compare-your-sleep-habits-to-cute-animals/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

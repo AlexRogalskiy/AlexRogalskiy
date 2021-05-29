@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Enterprises are Evolving Their NLP](https://www.informationweek.com/strategic-cio/how-enterprises-are-evolving-their-nlp/a/d-id/1341107?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How to Get Developer and Security Teams Aligned](https://www.informationweek.com/devops/how-to-get-developer-and-security-teams-aligned/a/d-id/1341080?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Preparing Future Data Scientists for Jobs of Tomorrow](https://www.informationweek.com/big-data/preparing-future-data-scientists-for-jobs-of-tomorrow/d/d-id/1341145?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Data is the Cure for What's Ailing the Supply Chain](https://www.informationweek.com/big-data/data-is-the-cure-for-whats-ailing-the-supply-chain/a/d-id/1341124?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How SolarWinds Changed Cybersecurity Leadership's Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-solarwinds-changed-cybersecurity-leaderships-priorities/d/d-id/1341120?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [How IT Corrected Business Blind Spots During the Pandemic](https://www.informationweek.com/strategic-cio/enterprise-agility/how-it-corrected-business-blind-spots-during-the-pandemic/a/d-id/1341079?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AT&T Communications CTO Legg on Transforming a Telecom Giant](https://www.informationweek.com/strategic-cio/atandt-communications-cto-legg-on-transforming-a-telecom-giant/d/d-id/1341112?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Future State of the Cloud](https://www.informationweek.com/cloud/the-future-state-of-the-cloud/a/d-id/1341003?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IT Skills: Top 10 Programming Languages for 2021](https://www.informationweek.com/devops/programming-languages/it-skills-top-10-programming-languages-for-2021/d/d-id/1341076?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Universities Are Failing Software Developers](https://www.informationweek.com/devops/programming-languages/universities-are-failing-software-developers-/a/d-id/1341002?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

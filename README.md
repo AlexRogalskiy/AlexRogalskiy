@@ -241,38 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652359434259005440" target="_blank"><i>Negotiations with a Volcano</i></a></summary>
-<p>by Naomi Shihab Nye<br/><br/>We will call you “Agua” like the rivers and cool jugs.
-<br/>We will persuade the clouds to nestle around your neck
-<br/>so you may sleep late.
-<br/>We would be happy if you slept forever.
-<br/>We will tend the slopes we plant, singing the songs
-<br/>our grandfathers taught us before we inherited their fear.
-<br/>We will try not to argue among ourselves.
-<br/>When the widow demands extra flour, we will provide it,
-<br/>remembering the smell of incense on the day of our Lord.
- 
-<br/><br/>Please think of us as we are, tiny, with skins that burn easily.
-<br/>Please notice how we have watered the shrubs around our houses
-<br/>and transplanted the peppers into neat tin cans.
-<br/>Forgive any anger we feel toward the earth,
-<br/>when the rains do not come, or they come too much,
-<br/>and swallow our corn.
-<br/>It is not easy to be this small and live in your shadow.
-
-<br/><br/>Often while we are eating our evening meal
-<br/>you cross our rooms like a thief,
-<br/>touching first the radio and then the loom.
-<br/>Later our dreams begin catching fire around the edges,
-<br/>they burn like paper, we wake with our hands full of ash.
-
-<br/><br/>How can we live like this?
-<br/>We need to wake and find our shelves intact,
-<br/>our children slumbering in their quilts.
-<br/>We need dreams the shape of lakes,
-<br/>with mornings in them thick as fish.
-<br/>Shade us while we cast and hook—
-<br/>but nothing else, nothing else.<br/></p>
+<summary><a href="https://apoemaday.tumblr.com/post/652450035435503616" target="_blank"><i>Firing Squad</i></a></summary>
+<p>by Ilya Kaminsky</p><p>On balconies, sunlight. On poplars, sunlight on our lips.<br/>Today no one is shooting.<br/>A girl cuts her hair with imaginary scissors—<br/>the scissors in sunlight, her hair in sunlight.<br/>Another girl steals a pair of shoes from a sleeping soldier, skewered with light.<br/>As soldier wakes and looks at us looking at them<br/>what do they see?<br/>Tonight they shot fifty women at Lerna St.,<br/>I sit down to write and tell you what I know:<br/>a child learns the world by putting it in her mouth,<br/>a girl becomes a woman and a woman, earth.<br/>Body, they blame you for all things and they<br/>seek in the body what does not live in the body.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

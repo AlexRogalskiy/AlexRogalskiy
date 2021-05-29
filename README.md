@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_5/mo_1445.php" target="_blank"><i>mo</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Australian/pooped_1568.php" target="_blank"><i>pooped</i></a>
 <span> = </span>
-<span>moment</span>
+<span>very tired, exhausted</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

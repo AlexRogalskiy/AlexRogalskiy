@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/If_you_play_with_fire_you_get_burned_858.php" target="_blank"><i>If you play with fire you get burned</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/He_that_complies_against_his_will_is_of_his_own_opinion_still_958.php" target="_blank"><i>He that complies against his will, is of his own opinion still</i></a>
 <span> = </span>
-<span>If you fool around with something that is potentially dangerous, you must expect to get harmed.</span>
+<span>If you force someone to do something or agree with something, it doesn't mean that they really agree.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

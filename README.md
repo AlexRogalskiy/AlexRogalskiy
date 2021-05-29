@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Death/dead_in_the_water_614.php" target="_blank"><i>dead in the water</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/J/joie_de_vivre_79.php" target="_blank"><i>joie de vivre</i></a>
 <span> = </span>
-<span>If something is dead in the water, it has no chance of succeeding or of making any progress.<BR></span>
+<span>If you have joie de vivre, you feel the joy of living.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

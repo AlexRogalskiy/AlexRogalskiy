@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [File Permissions: the painful side of Docker (2019)](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/)
-- [Astronomers Have Created the Largest Ever Map of the Sky](https://scitechdaily.com/astronomers-have-created-the-largest-ever-map-of-the-sky-comprising-over-a-billion-galaxies/)
-- [Biologists construct a 'periodic table' for cell nuclei](https://phys.org/news/2021-05-biologists-periodic-table-cell-nuclei.html)
-- [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
-- [Oldest recovered TV images (2013)](http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/)
-- [The Effect of the Lunar Eclipse on App Installation Rate](https://www.reddit.com/r/androiddev/comments/nmgnha/the_effect_of_a_lunar_eclipse_on_install_rates_of/)
-- [Vizio makes nearly as much money from ads and data as it does from TVs](https://www.engadget.com/vizio-q1-earnings-inscape-013937337.html)
-- [Faster CPython](https://twitter.com/driscollis/status/1392947869657731072)
-- [Gmail Browser Tools for a Cleaner Inbox and More Productive Emails](https://www.makeuseof.com/gmail-browser-tools-cleaner-inbox-productive-emails/)
-- [Coinbase is starting a 'Media Arm'](https://www.vice.com/en/article/93yae5/coinbase-doesnt-like-the-media-so-its-starting-a-media-arm)
+- [The Race to Native Code Execution in Siemens PLCs](https://claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/)
+- [OnlyFans not verifying age leading to serving up kiddie porn](https://www.bbc.com/news/uk-57255983)
+- [How to Sleepmint NFT Tokens](https://www.linkedin.com/pulse/how-sleepmint-nft-tokens-ke%C3%ADr-finlow-bates)
+- [After We Found Biden's Account, Venmo Will Let You Make Your Friend List Private](https://www.buzzfeednews.com/article/ryanmac/venmo-private-friends-list)
+- [Transgender Issues and Journalism: A Small Reflection](https://amateursmusings.substack.com/p/transgender-issues-and-journalism)
+- [Crypto Commissions](http://funnels.to/youtube)
+- [The Evolution of Modern Chess Rules: Pawn Promotion](https://new.uschess.org/news/evolution-modern-chess-rules-pawn-promotion)
+- [It’s time to abolish tipping once and for all](https://www.tvo.org/article/its-time-to-abolish-tipping-once-and-for-all)
+- [Monday.com vs. Asana](https://capitalandgrowth.org/answers/2981168/Monday-com-vs-Asana-Which-is-better-for-tracking-our-marketing-projects)
+- [1989 Original Bob Lazar Interview Transcript](http://paul.rutgers.edu/~mcgrew/ufo/bob.lazar)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

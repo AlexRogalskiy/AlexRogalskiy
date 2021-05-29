@@ -391,6 +391,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Privacy experts concerned over NHS data collection plans](https://www.computerweekly.com/news/252501494/Privacy-experts-concerned-over-NHS-data-collection-plans)
+- [IR35 reforms: Blanket-banning firms risk losing contractors and suffering reputational damage](https://www.computerweekly.com/news/252501558/IR35-reforms-Blanket-banning-firms-risk-losing-contractors-and-suffering-reputational-damage)
 - [BCS demands reform to rules on computer evidence following Post Office Horizon scandal revelations](https://www.computerweekly.com/news/252501510/BCS-demands-reform-to-rules-on-computer-evidence-following-Post-Office-Horizon-scandal-revelations)
 - [Loss of 150,000 police records made worse by management failures](https://www.computerweekly.com/news/252501504/Loss-of-150000-police-records-made-worse-by-management-failures)
 - [Uber signs collective bargaining agreement with GMB](https://www.computerweekly.com/news/252501503/Uber-signs-collective-bargaining-agreement-with-GMB)
@@ -399,8 +401,6 @@
 - [Security ops teams struggle to switch off at home](https://www.computerweekly.com/news/252501485/Security-ops-teams-struggle-to-switch-off-at-home)
 - [Build 2021: Microsoft targets multicloud developers](https://www.computerweekly.com/news/252501483/Build-2021-Microsoft-targets-multicloud-developers)
 - [How supply chain digitisation is paving the way to gene therapy](https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy)
-- [CW Nordics: Denmark takes a top-down approach to gender equality in tech entrepreneurship](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Denmark-takes-a-top-down-approach-to-gender-equality-in-tech-entrepreneurship)
-- [How the pandemic accelerated the Gulf’s edtech revolution](https://www.computerweekly.com/news/252501473/How-the-pandemic-accelerated-the-Gulfs-edtech-revolution)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WordPress is 18](https://ma.tt/2021/05/wordpress-18/)
-- [The history of lab leaks](https://www.bloomberg.com/opinion/articles/2021-05-27/covid-19-and-lab-leak-history-smallpox-h1n1-sars)
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27310586)
-- [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
-- [ClickHouse: An open-source column-oriented database management system](https://github.com/ClickHouse/ClickHouse)
-- [Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)](https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html)
-- [Second-guessing the modern web (2020)](https://macwright.com/2020/05/10/spa-fatigue.html)
-- [How I raised a $5.1M seed as a first-time, female, solo founder for a biotech co](https://www.celinehh.com/seed-raise-how-to)
-- [An Intuition for Lisp Syntax](https://stopa.io/post/265?repost=true)
-- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
+- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
+- [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
+- [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
+- [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
+- [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
+- [The Unix Game](https://unixgame.io/unix50)
+- [Wrigley and others are suing over look-alike THC treats](https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html)
+- [It's virtually impossible to read old iMessages and they take up tons of storage](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/)
+- [Overwork killed more than 745k people in a year, WHO study finds](https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds)
+- [PID Controller: A Simple Control Loop Mechanism](https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

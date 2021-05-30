@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
-- [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
-- [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
-- [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
-- [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
-- [The Unix Game](https://unixgame.io/unix50)
-- [Wrigley and others are suing over look-alike THC treats](https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html)
-- [It's virtually impossible to read old iMessages and they take up tons of storage](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/)
-- [Overwork killed more than 745k people in a year, WHO study finds](https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds)
-- [PID Controller: A Simple Control Loop Mechanism](https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism)
+- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
+- [“Computer science is not about computers”](https://quoteinvestigator.com/2021/04/02/computer-science/)
+- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
+- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
+- [Firesign Theatre’s ‘Dope Humor of the Seventies’](https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies)
+- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
+- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
+- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
+- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
+- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

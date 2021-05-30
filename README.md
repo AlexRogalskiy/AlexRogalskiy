@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/J/joie_de_vivre_79.php" target="_blank"><i>joie de vivre</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
 <span> = </span>
-<span>If you have joie de vivre, you feel the joy of living.</span>
+<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

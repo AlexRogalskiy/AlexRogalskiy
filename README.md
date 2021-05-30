@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
+- [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
+- [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
+- [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
+- [Looking to get into IT/MIS](https://www.reddit.com/r/InformationTechnology/comments/nnr766/looking_to_get_into_itmis/)
 - [Bitwarden Coolness Test](https://www.reddit.com/r/InformationTechnology/comments/nnfku2/bitwarden_coolness_test/)
 - [Worth learning?](https://www.reddit.com/r/InformationTechnology/comments/nmzgp4/worth_learning/)
 - [Anyone switched from Docuware to Sharepoint? Is it possible?](https://www.reddit.com/r/InformationTechnology/comments/nmykl2/anyone_switched_from_docuware_to_sharepoint_is_it/)
 - [Using a decentralised computing power network for Molecular Dynamics Simulations via a cryptocurrency. Thoughts?](https://www.reddit.com/r/InformationTechnology/comments/nmv02r/using_a_decentralised_computing_power_network_for/)
 - [Windows Virtual Desktops vs Horizon vs Citrix](https://www.reddit.com/r/InformationTechnology/comments/nmtjr6/windows_virtual_desktops_vs_horizon_vs_citrix/)
-- [Where can i learn about computer science outside of books?](https://www.reddit.com/r/InformationTechnology/comments/nmk1uz/where_can_i_learn_about_computer_science_outside/)
-- [16 year old wants to be a pen-tester](https://www.reddit.com/r/InformationTechnology/comments/nmjpix/16_year_old_wants_to_be_a_pentester/)
-- [What would my job title be?](https://www.reddit.com/r/InformationTechnology/comments/nmfbd3/what_would_my_job_title_be/)
-- [Beginning a career in IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/nma83f/beginning_a_career_in_it_with_no_experience/)
-- [(Very weird request) Anybody work in or used to IT, and use a physical Database?](https://www.reddit.com/r/InformationTechnology/comments/nma1p9/very_weird_request_anybody_work_in_or_used_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

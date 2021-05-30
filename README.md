@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/chase_up_2265.php" target="_blank"><i>chase up</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_1/come_apart_2763.php" target="_blank"><i>come apart</i></a>
 <span> = </span>
-<span>to try to find out what is being done about something, or what has happened to something</span>
+<span>to separate into several pieces, or to break into several parts<BR><BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652450035435503616" target="_blank"><i>Firing Squad</i></a></summary>
-<p>by Ilya Kaminsky</p><p>On balconies, sunlight. On poplars, sunlight on our lips.<br/>Today no one is shooting.<br/>A girl cuts her hair with imaginary scissors—<br/>the scissors in sunlight, her hair in sunlight.<br/>Another girl steals a pair of shoes from a sleeping soldier, skewered with light.<br/>As soldier wakes and looks at us looking at them<br/>what do they see?<br/>Tonight they shot fifty women at Lerna St.,<br/>I sit down to write and tell you what I know:<br/>a child learns the world by putting it in her mouth,<br/>a girl becomes a woman and a woman, earth.<br/>Body, they blame you for all things and they<br/>seek in the body what does not live in the body.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652534824201027584" target="_blank"><i>In Blackwater Woods</i></a></summary>
+<p>by Mary Oliver</p><p>Look, the trees<br/>are turning<br/>their own bodies<br/>into pillars<br/><br/>of light,<br/>are giving off the rich<br/>fragrance of cinnamon<br/>and fulfillment,<br/><br/>the long tapers<br/>of cattails<br/>are bursting and floating away over<br/>the blue shoulders<br/><br/>of the ponds,<br/>and every pond,<br/>no matter what its<br/>name is, is<br/><br/>nameless now.<br/>Every year<br/>everything<br/>I have ever learned<br/><br/>in my lifetime<br/>leads back to this: the fires<br/>and the black river of loss<br/>whose other side<br/><br/>is salvation,<br/>whose meaning<br/>none of us will ever know.<br/>To live in this world<br/><br/>you must be able<br/>to do three things:<br/>to love what is mortal;<br/>to hold it<br/><br/>against your bones knowing<br/>your own life depends on it;<br/>and, when the time comes to let it go,<br/>to let it go. </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

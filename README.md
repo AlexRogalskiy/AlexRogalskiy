@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/pooped_1568.php" target="_blank"><i>pooped</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Shortened_Words/Xmas_995.php" target="_blank"><i>Xmas</i></a>
 <span> = </span>
-<span>very tired, exhausted</span>
+<span>an abbreviation of "Christmas"</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

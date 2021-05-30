@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/J/joie_de_vivre_79.php" target="_blank"><i>joie de vivre</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
 <span> = </span>
-<span>If you have joie de vivre, you feel the joy of living.</span>
+<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Australian/pooped_1568.php" target="_blank"><i>pooped</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Shortened_Words/Xmas_995.php" target="_blank"><i>Xmas</i></a>
 <span> = </span>
-<span>very tired, exhausted</span>
+<span>an abbreviation of "Christmas"</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/He_that_complies_against_his_will_is_of_his_own_opinion_still_958.php" target="_blank"><i>He that complies against his will, is of his own opinion still</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_2/Money_is_a_good_servant_but_a_bad_master_897.php" target="_blank"><i>Money is a good servant, but a bad master</i></a>
 <span> = </span>
-<span>If you force someone to do something or agree with something, it doesn't mean that they really agree.</span>
+<span>If you have money, it will serve you and work for you well. But if you owe money to other people, that money will control you in an unpleasant way.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652450035435503616" target="_blank"><i>Firing Squad</i></a></summary>
-<p>by Ilya Kaminsky</p><p>On balconies, sunlight. On poplars, sunlight on our lips.<br/>Today no one is shooting.<br/>A girl cuts her hair with imaginary scissors—<br/>the scissors in sunlight, her hair in sunlight.<br/>Another girl steals a pair of shoes from a sleeping soldier, skewered with light.<br/>As soldier wakes and looks at us looking at them<br/>what do they see?<br/>Tonight they shot fifty women at Lerna St.,<br/>I sit down to write and tell you what I know:<br/>a child learns the world by putting it in her mouth,<br/>a girl becomes a woman and a woman, earth.<br/>Body, they blame you for all things and they<br/>seek in the body what does not live in the body.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652534824201027584" target="_blank"><i>In Blackwater Woods</i></a></summary>
+<p>by Mary Oliver</p><p>Look, the trees<br/>are turning<br/>their own bodies<br/>into pillars<br/><br/>of light,<br/>are giving off the rich<br/>fragrance of cinnamon<br/>and fulfillment,<br/><br/>the long tapers<br/>of cattails<br/>are bursting and floating away over<br/>the blue shoulders<br/><br/>of the ponds,<br/>and every pond,<br/>no matter what its<br/>name is, is<br/><br/>nameless now.<br/>Every year<br/>everything<br/>I have ever learned<br/><br/>in my lifetime<br/>leads back to this: the fires<br/>and the black river of loss<br/>whose other side<br/><br/>is salvation,<br/>whose meaning<br/>none of us will ever know.<br/>To live in this world<br/><br/>you must be able<br/>to do three things:<br/>to love what is mortal;<br/>to hold it<br/><br/>against your bones knowing<br/>your own life depends on it;<br/>and, when the time comes to let it go,<br/>to let it go. </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 66%, pressure: 1025 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>9°C (<i>clear sky</i>), humidity: 60%, pressure: 1022 (mbar), wind: /north-west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:52 am</b> and sets at <b>22:01 pm</b>.
     </p>
@@ -286,61 +286,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [All the Wyze Products That Cost More Now (So Far)](https://www.reviewgeek.com/85399/all-the-wyze-products-that-cost-more-now-so-far/)
-* [Ransomware Group's Decryptors Are So Slow It's Almost Not Worth It](https://www.reviewgeek.com/85634/ransomware-groups-decryptors-are-so-slow-its-almost-not-worth-it/)
-* [LEGO Teases a Big Announcement and We Have No Idea What It Is](https://www.reviewgeek.com/85590/lego-teases-a-big-announcement-and-we-have-no-idea-what-it-is/)
-* [Twitter Accidentally Confirms Subscription Service with "Undo Tweet" Button](https://www.reviewgeek.com/85625/twitter-accidentally-confirms-subscription-service-with-undo-tweet-button/)
-* [Huge Bitcoin Mining Operation Found as UK Police Raided Suspected Cannabis Farm](https://www.reviewgeek.com/85606/huge-bitcoin-mining-operation-found-as-uk-police-raided-suspected-cannabis-farm/)
-* [How to Host Your Own Platform-as-a-Service (PaaS) with Dokku](https://www.cloudsavvyit.com/11138/how-to-host-your-own-platform-as-a-service-paas-with-dokku/)
-* [A New JavaScript Compiler Aims to Improve Chrome's Overall Speed](https://www.reviewgeek.com/85610/a-new-javascript-compiler-aims-to-improve-chromes-overall-speed/)
-* [Have I Been Pwned's Password Program Is Now Open Source, Accepting Data from FBI](https://www.reviewgeek.com/85602/have-i-been-pwneds-password-program-is-now-open-source-accepting-data-from-fbi/)
-* [Tesla's New Autopilot Update Uses the In-Car Camera to Spot Distracted Drivers](https://www.reviewgeek.com/85595/teslas-autopilot-update-uses-in-car-camera-to-spot-distracted-drivers/)
-* [Fitbit May Soon Track Snoring and Compare Your Sleep Habits to Cute Animals](https://www.reviewgeek.com/85585/your-fitbit-may-soon-track-snoring-and-compare-your-sleep-habits-to-cute-animals/)
+* [Japanese Startup ispace Will Bring Canadian and UAE Technology to the Moon](https://www.reviewgeek.com/85645/japanese-startup-ispace-will-bring-canadian-and-uae-technology-to-the-moon/)
+* [Nintendo Switch 'Spy Alarm' Turns Your Joy-Con Into a Laser Tripwire](https://www.reviewgeek.com/85564/nintendo-switch-spy-alarm-turns-your-joy-con-into-a-laser-tripwire/)
+* [A Lost Brontë Family Library is Up for Grabs in a Sotheby's Auction](https://www.reviewgeek.com/85525/a-lost-bronte-family-library-is-up-for-grabs-in-a-sothebys-auction/)
+* [These Mix-and-Match Kellogg's Cereal Vending Machines Are Carb Heaven](https://www.reviewgeek.com/85554/these-mix-and-match-kelloggs-cereal-vending-machines-are-carb-heaven/)
+* [How to Password Protect Your Google Search History](https://www.howtogeek.com/730792/how-to-password-protect-your-google-search-history/)
+* [How to Restrict Someone on Facebook](https://www.howtogeek.com/728204/how-to-restrict-someone-on-facebook/)
+* [How to Set an Alarm on Apple Watch](https://www.howtogeek.com/724915/how-to-set-an-alarm-on-apple-watch/)
+* [How to Resize an Image in Photoshop](https://www.howtogeek.com/728772/how-to-resize-an-image-in-photoshop/)
+* [How to Remove Ads and Special Offers from Your Amazon Kindle](https://www.howtogeek.com/725601/how-to-remove-ads-and-special-offers-from-your-amazon-kindle/)
+* [How to Detect Hidden Surveillance Cameras With Your Phone](https://www.howtogeek.com/411095/how-to-detect-hidden-surveillance-cameras-with-your-phone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Race to Native Code Execution in Siemens PLCs](https://claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/)
-- [OnlyFans not verifying age leading to serving up kiddie porn](https://www.bbc.com/news/uk-57255983)
-- [How to Sleepmint NFT Tokens](https://www.linkedin.com/pulse/how-sleepmint-nft-tokens-ke%C3%ADr-finlow-bates)
-- [After We Found Biden's Account, Venmo Will Let You Make Your Friend List Private](https://www.buzzfeednews.com/article/ryanmac/venmo-private-friends-list)
-- [Transgender Issues and Journalism: A Small Reflection](https://amateursmusings.substack.com/p/transgender-issues-and-journalism)
-- [Crypto Commissions](http://funnels.to/youtube)
-- [The Evolution of Modern Chess Rules: Pawn Promotion](https://new.uschess.org/news/evolution-modern-chess-rules-pawn-promotion)
-- [It’s time to abolish tipping once and for all](https://www.tvo.org/article/its-time-to-abolish-tipping-once-and-for-all)
-- [Monday.com vs. Asana](https://capitalandgrowth.org/answers/2981168/Monday-com-vs-Asana-Which-is-better-for-tracking-our-marketing-projects)
-- [1989 Original Bob Lazar Interview Transcript](http://paul.rutgers.edu/~mcgrew/ufo/bob.lazar)
+- [WebAssembly Runtimes Compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
+- [Josh Weizenbaum’s Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
+- [Nuclear flash cards: US secrets exposed on learning apps](https://news.yahoo.com/nuclear-flash-cards-us-secrets-190918744.html)
+- [The March of Folly in Tech](https://paygo.media/p/48849)
+- [Study reveals new details on what happened in the first microsecond of Big Bang](https://www.science.ku.dk/english/press/news/2021/study-reveals-new-details-on-what-happened-in-the-first-microsecond-of-big-bang/)
+- [$600m class action: Four women suing Google for pay discrimination](https://www.theregister.com/2021/05/28/google_class_action/)
+- [Standalone T9 Predictive Keyboard](https://hackaday.io/project/179977-standalone-t9-predictive-keyboard)
+- [Her High School Said She Ranked Third in Her Class So She Went to Court](https://www.nytimes.com/2021/05/28/us/dalee-sullivan-gpa-alpine.html)
+- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
+- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Belarus: US draws up sanctions for ‘ongoing abuses’ after plane incident](https://www.theguardian.com/world/2021/may/29/belarus-us-draws-up-sanctions-for-ongoing-abuses-after-plane-incident)
-- [‘More people could die’: four killed in Colombia protests as talks with government stall](https://www.theguardian.com/world/2021/may/29/more-people-could-die-four-killed-in-colombia-protests-as-talks-with-government-stall)
-- [Antisemitism: Williamson warns headteachers amid tension in schools](https://www.theguardian.com/education/2021/may/29/antisemitism-williamson-warns-headteachers-amid-tension-in-schools)
-- [Former Socceroos coach Ange Postecoglou in line for Celtic post](https://www.theguardian.com/football/2021/may/29/former-socceroos-coach-ange-postecoglou-in-line-for-celtic-post)
-- [San Jose gunman stockpiled weapons and 22,000 rounds of ammunition](https://www.theguardian.com/us-news/2021/may/28/san-jose-shooting-gunman-home-weapons-ammunition)
-- [MPs urge action to save UK music festivals from another ‘lost summer’](https://www.theguardian.com/music/2021/may/29/mps-urge-action-save-uk-music-festivals-another-lost-summer)
-- [Sasha Johnson: 18-year-old charged with conspiracy to murder](https://www.theguardian.com/uk-news/2021/may/28/sasha-johnson-18-year-old-charged-with-conspiracy-to)
-- [Republicans are trying to rewrite the history of the Capitol attack. Don’t let them | Andrew Gawthorpe](https://www.theguardian.com/commentisfree/2021/may/28/republicans-trying-rewrite-history-capitol-attack)
-- [Leeds ignite season as they beat Castleford with 11-try demolition job](https://www.theguardian.com/sport/2021/may/28/leeds-ignite-season-as-they-beat-castleford-with-11-try-demolition-job)
-- [Du Preez brothers double up and Tuilagi makes return as Sale beat Bristol](https://www.theguardian.com/sport/2021/may/28/du-preez-brothers-double-up-and-tuilagi-makes-return-as-sale-beat-bristol)
+- [Phone intercepts shine more light on Jordanian prince’s alleged coup attempt](https://www.theguardian.com/world/2021/may/30/phone-intercepts-jordanian-prince-alleged-coup-attempt)
+- [Chinese cargo craft docks with future space station in orbit](https://www.theguardian.com/science/2021/may/30/chinese-cargo-craft-docks-with-future-space-station-in-orbit)
+- [Boris Johnson plans to sink £200m into new ship of state](https://www.theguardian.com/uk-news/2021/may/30/boris-johnson-plans-to-sink-200m-into-new-ship-of-state)
+- [Gavin MacLeod, The Love Boat’s Captain Stubing, dies aged 90](https://www.theguardian.com/tv-and-radio/2021/may/30/gavin-macleod-the-love-boats-captain-stubing-dies-aged-90)
+- [Kumbh Mela: how a superspreader festival seeded Covid across India](https://www.theguardian.com/world/2021/may/30/kumbh-mela-how-a-superspreader-festival-seeded-covid-across-india)
+- [Call for protection on Covid loan debts as the bounce-back payback begins](https://www.theguardian.com/business/2021/may/30/call-for-protection-on-covid-loan-debts-as-the-bounce-back-payback-begins)
+- [Walden review – Gemma Arterton’s sister act reaches for the stars](https://www.theguardian.com/stage/2021/may/29/walden-review-harold-pinter-theatre-london-gemma-arterton-amy-berryman)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Holy moly: 10 of the best crochet pieces – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/holy-moly-10-of-the-best-crochet-pieces-in-pictures)
+- [Summer shoes: 25 of the best flat sandals – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/summer-shoes-25-of-the-best-flat-sandals-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
-- [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
-- [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
-- [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
-- [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
-- [The Unix Game](https://unixgame.io/unix50)
-- [Wrigley and others are suing over look-alike THC treats](https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html)
-- [It's virtually impossible to read old iMessages and they take up tons of storage](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/)
-- [Overwork killed more than 745k people in a year, WHO study finds](https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds)
-- [PID Controller: A Simple Control Loop Mechanism](https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism)
+- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
+- [“Computer science is not about computers”](https://quoteinvestigator.com/2021/04/02/computer-science/)
+- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
+- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
+- [Firesign Theatre’s ‘Dope Humor of the Seventies’](https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies)
+- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
+- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
+- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
+- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
+- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
+- [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
+- [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
+- [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
+- [Looking to get into IT/MIS](https://www.reddit.com/r/InformationTechnology/comments/nnr766/looking_to_get_into_itmis/)
 - [Bitwarden Coolness Test](https://www.reddit.com/r/InformationTechnology/comments/nnfku2/bitwarden_coolness_test/)
 - [Worth learning?](https://www.reddit.com/r/InformationTechnology/comments/nmzgp4/worth_learning/)
 - [Anyone switched from Docuware to Sharepoint? Is it possible?](https://www.reddit.com/r/InformationTechnology/comments/nmykl2/anyone_switched_from_docuware_to_sharepoint_is_it/)
 - [Using a decentralised computing power network for Molecular Dynamics Simulations via a cryptocurrency. Thoughts?](https://www.reddit.com/r/InformationTechnology/comments/nmv02r/using_a_decentralised_computing_power_network_for/)
 - [Windows Virtual Desktops vs Horizon vs Citrix](https://www.reddit.com/r/InformationTechnology/comments/nmtjr6/windows_virtual_desktops_vs_horizon_vs_citrix/)
-- [Where can i learn about computer science outside of books?](https://www.reddit.com/r/InformationTechnology/comments/nmk1uz/where_can_i_learn_about_computer_science_outside/)
-- [16 year old wants to be a pen-tester](https://www.reddit.com/r/InformationTechnology/comments/nmjpix/16_year_old_wants_to_be_a_pentester/)
-- [What would my job title be?](https://www.reddit.com/r/InformationTechnology/comments/nmfbd3/what_would_my_job_title_be/)
-- [Beginning a career in IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/nma83f/beginning_a_career_in_it_with_no_experience/)
-- [(Very weird request) Anybody work in or used to IT, and use a physical Database?](https://www.reddit.com/r/InformationTechnology/comments/nma1p9/very_weird_request_anybody_work_in_or_used_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Race to Native Code Execution in Siemens PLCs](https://claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/)
-- [OnlyFans not verifying age leading to serving up kiddie porn](https://www.bbc.com/news/uk-57255983)
-- [How to Sleepmint NFT Tokens](https://www.linkedin.com/pulse/how-sleepmint-nft-tokens-ke%C3%ADr-finlow-bates)
-- [After We Found Biden's Account, Venmo Will Let You Make Your Friend List Private](https://www.buzzfeednews.com/article/ryanmac/venmo-private-friends-list)
-- [Transgender Issues and Journalism: A Small Reflection](https://amateursmusings.substack.com/p/transgender-issues-and-journalism)
-- [Crypto Commissions](http://funnels.to/youtube)
-- [The Evolution of Modern Chess Rules: Pawn Promotion](https://new.uschess.org/news/evolution-modern-chess-rules-pawn-promotion)
-- [It’s time to abolish tipping once and for all](https://www.tvo.org/article/its-time-to-abolish-tipping-once-and-for-all)
-- [Monday.com vs. Asana](https://capitalandgrowth.org/answers/2981168/Monday-com-vs-Asana-Which-is-better-for-tracking-our-marketing-projects)
-- [1989 Original Bob Lazar Interview Transcript](http://paul.rutgers.edu/~mcgrew/ufo/bob.lazar)
+- [WebAssembly Runtimes Compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
+- [Josh Weizenbaum’s Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
+- [Nuclear flash cards: US secrets exposed on learning apps](https://news.yahoo.com/nuclear-flash-cards-us-secrets-190918744.html)
+- [The March of Folly in Tech](https://paygo.media/p/48849)
+- [Study reveals new details on what happened in the first microsecond of Big Bang](https://www.science.ku.dk/english/press/news/2021/study-reveals-new-details-on-what-happened-in-the-first-microsecond-of-big-bang/)
+- [$600m class action: Four women suing Google for pay discrimination](https://www.theregister.com/2021/05/28/google_class_action/)
+- [Standalone T9 Predictive Keyboard](https://hackaday.io/project/179977-standalone-t9-predictive-keyboard)
+- [Her High School Said She Ranked Third in Her Class So She Went to Court](https://www.nytimes.com/2021/05/28/us/dalee-sullivan-gpa-alpine.html)
+- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
+- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

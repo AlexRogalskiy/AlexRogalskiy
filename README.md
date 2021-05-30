@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 66%, pressure: 1025 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>9°C (<i>clear sky</i>), humidity: 60%, pressure: 1022 (mbar), wind: /north-west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:52 am</b> and sets at <b>22:01 pm</b>.
     </p>
@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [All the Wyze Products That Cost More Now (So Far)](https://www.reviewgeek.com/85399/all-the-wyze-products-that-cost-more-now-so-far/)
-* [Ransomware Group's Decryptors Are So Slow It's Almost Not Worth It](https://www.reviewgeek.com/85634/ransomware-groups-decryptors-are-so-slow-its-almost-not-worth-it/)
-* [LEGO Teases a Big Announcement and We Have No Idea What It Is](https://www.reviewgeek.com/85590/lego-teases-a-big-announcement-and-we-have-no-idea-what-it-is/)
-* [Twitter Accidentally Confirms Subscription Service with "Undo Tweet" Button](https://www.reviewgeek.com/85625/twitter-accidentally-confirms-subscription-service-with-undo-tweet-button/)
-* [Huge Bitcoin Mining Operation Found as UK Police Raided Suspected Cannabis Farm](https://www.reviewgeek.com/85606/huge-bitcoin-mining-operation-found-as-uk-police-raided-suspected-cannabis-farm/)
-* [How to Host Your Own Platform-as-a-Service (PaaS) with Dokku](https://www.cloudsavvyit.com/11138/how-to-host-your-own-platform-as-a-service-paas-with-dokku/)
-* [A New JavaScript Compiler Aims to Improve Chrome's Overall Speed](https://www.reviewgeek.com/85610/a-new-javascript-compiler-aims-to-improve-chromes-overall-speed/)
-* [Have I Been Pwned's Password Program Is Now Open Source, Accepting Data from FBI](https://www.reviewgeek.com/85602/have-i-been-pwneds-password-program-is-now-open-source-accepting-data-from-fbi/)
-* [Tesla's New Autopilot Update Uses the In-Car Camera to Spot Distracted Drivers](https://www.reviewgeek.com/85595/teslas-autopilot-update-uses-in-car-camera-to-spot-distracted-drivers/)
-* [Fitbit May Soon Track Snoring and Compare Your Sleep Habits to Cute Animals](https://www.reviewgeek.com/85585/your-fitbit-may-soon-track-snoring-and-compare-your-sleep-habits-to-cute-animals/)
+* [Japanese Startup ispace Will Bring Canadian and UAE Technology to the Moon](https://www.reviewgeek.com/85645/japanese-startup-ispace-will-bring-canadian-and-uae-technology-to-the-moon/)
+* [Nintendo Switch 'Spy Alarm' Turns Your Joy-Con Into a Laser Tripwire](https://www.reviewgeek.com/85564/nintendo-switch-spy-alarm-turns-your-joy-con-into-a-laser-tripwire/)
+* [A Lost Brontë Family Library is Up for Grabs in a Sotheby's Auction](https://www.reviewgeek.com/85525/a-lost-bronte-family-library-is-up-for-grabs-in-a-sothebys-auction/)
+* [These Mix-and-Match Kellogg's Cereal Vending Machines Are Carb Heaven](https://www.reviewgeek.com/85554/these-mix-and-match-kelloggs-cereal-vending-machines-are-carb-heaven/)
+* [How to Password Protect Your Google Search History](https://www.howtogeek.com/730792/how-to-password-protect-your-google-search-history/)
+* [How to Restrict Someone on Facebook](https://www.howtogeek.com/728204/how-to-restrict-someone-on-facebook/)
+* [How to Set an Alarm on Apple Watch](https://www.howtogeek.com/724915/how-to-set-an-alarm-on-apple-watch/)
+* [How to Resize an Image in Photoshop](https://www.howtogeek.com/728772/how-to-resize-an-image-in-photoshop/)
+* [How to Remove Ads and Special Offers from Your Amazon Kindle](https://www.howtogeek.com/725601/how-to-remove-ads-and-special-offers-from-your-amazon-kindle/)
+* [How to Detect Hidden Surveillance Cameras With Your Phone](https://www.howtogeek.com/411095/how-to-detect-hidden-surveillance-cameras-with-your-phone/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

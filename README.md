@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_6/He_that_complies_against_his_will_is_of_his_own_opinion_still_958.php" target="_blank"><i>He that complies against his will, is of his own opinion still</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_2/Money_is_a_good_servant_but_a_bad_master_897.php" target="_blank"><i>Money is a good servant, but a bad master</i></a>
 <span> = </span>
-<span>If you force someone to do something or agree with something, it doesn't mean that they really agree.</span>
+<span>If you have money, it will serve you and work for you well. But if you owe money to other people, that money will control you in an unpleasant way.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

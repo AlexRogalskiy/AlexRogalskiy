@@ -338,16 +338,16 @@ and the long drive home.
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Phone intercepts shine more light on Jordanian prince’s alleged coup attempt](https://www.theguardian.com/world/2021/may/30/phone-intercepts-jordanian-prince-alleged-coup-attempt)
-- [Chinese cargo craft docks with future space station in orbit](https://www.theguardian.com/science/2021/may/30/chinese-cargo-craft-docks-with-future-space-station-in-orbit)
-- [Boris Johnson plans to sink £200m into new ship of state](https://www.theguardian.com/uk-news/2021/may/30/boris-johnson-plans-to-sink-200m-into-new-ship-of-state)
-- [Gavin MacLeod, The Love Boat’s Captain Stubing, dies aged 90](https://www.theguardian.com/tv-and-radio/2021/may/30/gavin-macleod-the-love-boats-captain-stubing-dies-aged-90)
-- [Kumbh Mela: how a superspreader festival seeded Covid across India](https://www.theguardian.com/world/2021/may/30/kumbh-mela-how-a-superspreader-festival-seeded-covid-across-india)
-- [Call for protection on Covid loan debts as the bounce-back payback begins](https://www.theguardian.com/business/2021/may/30/call-for-protection-on-covid-loan-debts-as-the-bounce-back-payback-begins)
-- [Walden review – Gemma Arterton’s sister act reaches for the stars](https://www.theguardian.com/stage/2021/may/29/walden-review-harold-pinter-theatre-london-gemma-arterton-amy-berryman)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Holy moly: 10 of the best crochet pieces – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/holy-moly-10-of-the-best-crochet-pieces-in-pictures)
-- [Summer shoes: 25 of the best flat sandals – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/summer-shoes-25-of-the-best-flat-sandals-in-pictures)
+- [Can the US avoid another Trump?](https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast)
+- [Gunmen in Nigeria abduct about 150 students from Islamic school](https://www.theguardian.com/world/2021/may/31/gunmen-nigeria-abduct-students-islamic-school)
+- [New Zealand flooding: state of emergency in Canterbury, with hundreds evacuated](https://www.theguardian.com/world/2021/may/31/new-zealand-flooding-canterbury-state-of-emergency-evacuations-rescues)
+- [Tribunal claims for ageism at work soar since Covid lockdown](https://www.theguardian.com/money/2021/may/31/ageism-work-tribunal-claims-soar-covid-lockdown)
+- [TV stars and fans to appear as holograms at Bafta awards](https://www.theguardian.com/tv-and-radio/2021/may/31/tv-stars-fans-holograms-bafta-awards)
+- [Edinburgh international children’s festival review – a riot of colour and emotion](https://www.theguardian.com/stage/2021/may/31/edinburgh-international-childrens-festival-review-a-riot-of-colour-and-emotion)
+- [Euro 2020 team guides part 1: Italy](https://www.theguardian.com/football/2021/may/31/euro-2020-team-guides-part-1-italy)
+- [Uganda police killings reconstructed using mobile phone footage](https://www.theguardian.com/world/2021/may/31/uganda-police-killings-reconstructed-using-mobile-phone-footage)
+- [Cyprus election: far-right party linked to Greek neo-Nazis doubles vote share](https://www.theguardian.com/world/2021/may/30/far-right-cyprus-election-parliament)
+- [Chelsea eye Romelu Lukaku as Tuchel targets Premier League title challenge](https://www.theguardian.com/football/2021/may/30/chelsea-eye-romelu-lukaku-as-tuchel-targets-premier-league-title-challenge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

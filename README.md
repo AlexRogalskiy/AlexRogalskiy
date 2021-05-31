@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Japanese Startup ispace Will Bring Canadian and UAE Technology to the Moon](https://www.reviewgeek.com/85645/japanese-startup-ispace-will-bring-canadian-and-uae-technology-to-the-moon/)
-* [Nintendo Switch 'Spy Alarm' Turns Your Joy-Con Into a Laser Tripwire](https://www.reviewgeek.com/85564/nintendo-switch-spy-alarm-turns-your-joy-con-into-a-laser-tripwire/)
-* [A Lost Brontë Family Library is Up for Grabs in a Sotheby's Auction](https://www.reviewgeek.com/85525/a-lost-bronte-family-library-is-up-for-grabs-in-a-sothebys-auction/)
-* [These Mix-and-Match Kellogg's Cereal Vending Machines Are Carb Heaven](https://www.reviewgeek.com/85554/these-mix-and-match-kelloggs-cereal-vending-machines-are-carb-heaven/)
-* [How to Password Protect Your Google Search History](https://www.howtogeek.com/730792/how-to-password-protect-your-google-search-history/)
-* [How to Restrict Someone on Facebook](https://www.howtogeek.com/728204/how-to-restrict-someone-on-facebook/)
-* [How to Set an Alarm on Apple Watch](https://www.howtogeek.com/724915/how-to-set-an-alarm-on-apple-watch/)
-* [How to Resize an Image in Photoshop](https://www.howtogeek.com/728772/how-to-resize-an-image-in-photoshop/)
-* [How to Remove Ads and Special Offers from Your Amazon Kindle](https://www.howtogeek.com/725601/how-to-remove-ads-and-special-offers-from-your-amazon-kindle/)
-* [How to Detect Hidden Surveillance Cameras With Your Phone](https://www.howtogeek.com/411095/how-to-detect-hidden-surveillance-cameras-with-your-phone/)
+* [Former Astronaut Peggy Whitson Will Return to Space without NASA's Help](https://www.reviewgeek.com/85112/former-astronaut-peggy-whitson-will-return-to-space-without-nasas-help/)
+* [Go to Dungeon, Do Not Collect 200 GP: 'Dungeons & Dragons' Arrives on 'Monopoly'](https://www.reviewgeek.com/85532/go-to-dungeon-do-not-collect-200-gp-dungeons-dragons-arrives-on-monopoly/)
+* [Giant Galapagos Tortoise Thought to Be Extinct 100 Years Ago Found on Island](https://www.reviewgeek.com/85677/giant-galapagos-tortoise-thought-to-be-extinct-100-years-ago-found-on-island/)
+* [How to Use Google Maps in Incognito Mode](https://www.howtogeek.com/729598/how-to-use-google-maps-in-incognito-mode/)
+* [It's a Lobster! And a Squid! And a Shark ... All in a Single Fossil](https://www.reviewgeek.com/85466/its-a-lobster-and-a-squid-and-a-shark-all-in-a-single-fossil/)
+* [How to Pair the Xbox Wireless Controller with an iPhone or iPad](https://www.howtogeek.com/727183/how-to-pair-the-xbox-wireless-controller-with-an-iphone-or-ipad/)
+* [How to Force Your MacBook to Charge Fully](https://www.howtogeek.com/726725/how-to-force-your-macbook-to-charge-fully/)
+* [Why Cryptomining Is Bad for the Environment, And How It Could Get Better](https://www.reviewgeek.com/85029/why-cryptomining-is-bad-for-the-environment-and-how-it-could-get-better/)
+* [How to Add a VPN Shortcut to Your Desktop in Windows 10](https://www.howtogeek.com/728000/how-to-add-a-vpn-shortcut-to-your-desktop-in-windows-10/)
+* [How to Set up and Use Photoshop’s Quick Export Feature](https://www.howtogeek.com/725440/how-to-set-up-and-use-photoshops-quick-export-feature/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/come_1/come_apart_2763.php" target="_blank"><i>come apart</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/take_2/take_back_2__2178.php" target="_blank"><i>take back (2)</i></a>
 <span> = </span>
-<span>to separate into several pieces, or to break into several parts<BR><BR></span>
+<span>If a store takes back something they've sold, they allow the buyer to return it for a refund, or exchange it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

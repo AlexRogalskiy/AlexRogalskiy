@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Body/shoot_yourself_in_the_foot_231.php" target="_blank"><i>shoot yourself in the foot</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Time/from_time_to_time_627.php" target="_blank"><i>from time to time</i></a>
 <span> = </span>
-<span>If you shoot yourself in the foot, you harm yourself in some way by doing something stupid or making a silly mistake.</span>
+<span>If you do something from time to time, you do it occasionally, but not very often.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Shortened_Words/Xmas_995.php" target="_blank"><i>Xmas</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_1/pig_1__1088.php" target="_blank"><i>pig (1)</i></a>
 <span> = </span>
-<span>an abbreviation of "Christmas"</span>
+<span>an unattractive and unpleasant person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_2/Money_is_a_good_servant_but_a_bad_master_897.php" target="_blank"><i>Money is a good servant, but a bad master</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/There_s_no_such_thing_as_a_free_lunch_1312.php" target="_blank"><i>There's no such thing as a free lunch</i></a>
 <span> = </span>
-<span>If you have money, it will serve you and work for you well. But if you owe money to other people, that money will control you in an unpleasant way.</span>
+<span>We cannot get something for nothing. We must pay for everything. Nothing in life is free.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9a&#x2F;24&#x2F;7e&#x2F;9a247e700d034964c7a669ddf64bbe5c.jpg" alt="Skylark is a verb. It&#39;s also the Word of the Day. Click for example sentences, word origin, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;8f&#x2F;d8&#x2F;d38fd89e526999875ca9690bc913c34f.jpg" alt="Peradventure you&#39;ve heard of this Word of the Day? If not, we&#39;ll show you how to use it. Click to learn more at Dictionary.com! " />
     </p>
@@ -241,8 +241,30 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652534824201027584" target="_blank"><i>In Blackwater Woods</i></a></summary>
-<p>by Mary Oliver</p><p>Look, the trees<br/>are turning<br/>their own bodies<br/>into pillars<br/><br/>of light,<br/>are giving off the rich<br/>fragrance of cinnamon<br/>and fulfillment,<br/><br/>the long tapers<br/>of cattails<br/>are bursting and floating away over<br/>the blue shoulders<br/><br/>of the ponds,<br/>and every pond,<br/>no matter what its<br/>name is, is<br/><br/>nameless now.<br/>Every year<br/>everything<br/>I have ever learned<br/><br/>in my lifetime<br/>leads back to this: the fires<br/>and the black river of loss<br/>whose other side<br/><br/>is salvation,<br/>whose meaning<br/>none of us will ever know.<br/>To live in this world<br/><br/>you must be able<br/>to do three things:<br/>to love what is mortal;<br/>to hold it<br/><br/>against your bones knowing<br/>your own life depends on it;<br/>and, when the time comes to let it go,<br/>to let it go. </p>
+<summary><a href="https://apoemaday.tumblr.com/post/652631250964709376" target="_blank"><i>The Shipfitter’s Wife</i></a></summary>
+<p>by Dorianne Laux</p><p>
+
+I loved him most<br/>
+when he came home from work,<br/>
+his fingers still curled from fitting pipe,<br/>
+his denim shirt ringed with sweat,<br/>
+smelling of salt, the drying weeds<br/>
+of the ocean. I&rsquo;d go to where he sat<br/>
+on the edge of the bed, his forehead<br/>
+anointed with grease, his cracked hands<br/>
+jammed between his thighs, and unlace<br/>
+the steel-toed boots, stroke his ankles<br/>
+and calves, the pads and bones of his feet.<br/>
+Then I&rsquo;d open his clothes and take <br/>
+the whole day inside me – the ship&rsquo;s <br/>
+gray sides, the miles of copper pipe,<br/>
+the voice of the foreman clanging<br/>
+off the hull&rsquo;s silver ribs. Spark of lead<br/>
+kissing metal. The clamp, the winch,<br/>
+the white fire of the torch, the whistle, <br/>
+and the long drive home.
+
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +295,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>clear sky</i>), humidity: 75%, pressure: 1026 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
+        <b>10°C (<i>clear sky</i>), humidity: 53%, pressure: 1024 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:50 am</b> and sets at <b>22:02 pm</b>.
     </p>
@@ -286,61 +308,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Japanese Startup ispace Will Bring Canadian and UAE Technology to the Moon](https://www.reviewgeek.com/85645/japanese-startup-ispace-will-bring-canadian-and-uae-technology-to-the-moon/)
-* [Nintendo Switch 'Spy Alarm' Turns Your Joy-Con Into a Laser Tripwire](https://www.reviewgeek.com/85564/nintendo-switch-spy-alarm-turns-your-joy-con-into-a-laser-tripwire/)
-* [A Lost Brontë Family Library is Up for Grabs in a Sotheby's Auction](https://www.reviewgeek.com/85525/a-lost-bronte-family-library-is-up-for-grabs-in-a-sothebys-auction/)
-* [These Mix-and-Match Kellogg's Cereal Vending Machines Are Carb Heaven](https://www.reviewgeek.com/85554/these-mix-and-match-kelloggs-cereal-vending-machines-are-carb-heaven/)
-* [How to Password Protect Your Google Search History](https://www.howtogeek.com/730792/how-to-password-protect-your-google-search-history/)
-* [How to Restrict Someone on Facebook](https://www.howtogeek.com/728204/how-to-restrict-someone-on-facebook/)
-* [How to Set an Alarm on Apple Watch](https://www.howtogeek.com/724915/how-to-set-an-alarm-on-apple-watch/)
-* [How to Resize an Image in Photoshop](https://www.howtogeek.com/728772/how-to-resize-an-image-in-photoshop/)
-* [How to Remove Ads and Special Offers from Your Amazon Kindle](https://www.howtogeek.com/725601/how-to-remove-ads-and-special-offers-from-your-amazon-kindle/)
-* [How to Detect Hidden Surveillance Cameras With Your Phone](https://www.howtogeek.com/411095/how-to-detect-hidden-surveillance-cameras-with-your-phone/)
+* [Former Astronaut Peggy Whitson Will Return to Space without NASA's Help](https://www.reviewgeek.com/85112/former-astronaut-peggy-whitson-will-return-to-space-without-nasas-help/)
+* [Go to Dungeon, Do Not Collect 200 GP: 'Dungeons & Dragons' Arrives on 'Monopoly'](https://www.reviewgeek.com/85532/go-to-dungeon-do-not-collect-200-gp-dungeons-dragons-arrives-on-monopoly/)
+* [Giant Galapagos Tortoise Thought to Be Extinct 100 Years Ago Found on Island](https://www.reviewgeek.com/85677/giant-galapagos-tortoise-thought-to-be-extinct-100-years-ago-found-on-island/)
+* [How to Use Google Maps in Incognito Mode](https://www.howtogeek.com/729598/how-to-use-google-maps-in-incognito-mode/)
+* [It's a Lobster! And a Squid! And a Shark ... All in a Single Fossil](https://www.reviewgeek.com/85466/its-a-lobster-and-a-squid-and-a-shark-all-in-a-single-fossil/)
+* [How to Pair the Xbox Wireless Controller with an iPhone or iPad](https://www.howtogeek.com/727183/how-to-pair-the-xbox-wireless-controller-with-an-iphone-or-ipad/)
+* [How to Force Your MacBook to Charge Fully](https://www.howtogeek.com/726725/how-to-force-your-macbook-to-charge-fully/)
+* [Why Cryptomining Is Bad for the Environment, And How It Could Get Better](https://www.reviewgeek.com/85029/why-cryptomining-is-bad-for-the-environment-and-how-it-could-get-better/)
+* [How to Add a VPN Shortcut to Your Desktop in Windows 10](https://www.howtogeek.com/728000/how-to-add-a-vpn-shortcut-to-your-desktop-in-windows-10/)
+* [How to Set up and Use Photoshop’s Quick Export Feature](https://www.howtogeek.com/725440/how-to-set-up-and-use-photoshops-quick-export-feature/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WebAssembly Runtimes Compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
-- [Josh Weizenbaum’s Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
-- [Nuclear flash cards: US secrets exposed on learning apps](https://news.yahoo.com/nuclear-flash-cards-us-secrets-190918744.html)
-- [The March of Folly in Tech](https://paygo.media/p/48849)
-- [Study reveals new details on what happened in the first microsecond of Big Bang](https://www.science.ku.dk/english/press/news/2021/study-reveals-new-details-on-what-happened-in-the-first-microsecond-of-big-bang/)
-- [$600m class action: Four women suing Google for pay discrimination](https://www.theregister.com/2021/05/28/google_class_action/)
-- [Standalone T9 Predictive Keyboard](https://hackaday.io/project/179977-standalone-t9-predictive-keyboard)
-- [Her High School Said She Ranked Third in Her Class So She Went to Court](https://www.nytimes.com/2021/05/28/us/dalee-sullivan-gpa-alpine.html)
-- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
-- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
+- [Building your SaaS business with Partnerships](https://news.ycombinator.com/item?id=27340181)
+- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
+- [Scam App on App Store Forced Users to Give 3-Star Rating](https://www.iphonehacks.com/2021/05/app-store-scam-3-star-rating-upnp-xtreme.html)
+- [Who is that Neural Network? (2017)](https://jgeekstudies.org/2017/03/12/who-is-that-neural-network/)
+- [She called out health care misinfo on TikTok. Then, the trolls found her](https://www.nbcnews.com/news/us-news/she-called-out-health-care-misinfo-tiktok-then-trolls-found-n1265011)
+- [Any dating founder with advice to ramp up female users?](https://news.ycombinator.com/item?id=27340074)
+- [Ask HN: How to report Android apps that use the media channel for notifications?](https://news.ycombinator.com/item?id=27340017)
+- [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
+- [AirPods Aren’t ‘Magically Connecting’? Here Are Some Things to Try](https://www.wsj.com/articles/your-airpods-arent-magically-connecting-here-are-some-things-to-try-11622379601)
+- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Phone intercepts shine more light on Jordanian prince’s alleged coup attempt](https://www.theguardian.com/world/2021/may/30/phone-intercepts-jordanian-prince-alleged-coup-attempt)
-- [Chinese cargo craft docks with future space station in orbit](https://www.theguardian.com/science/2021/may/30/chinese-cargo-craft-docks-with-future-space-station-in-orbit)
-- [Boris Johnson plans to sink £200m into new ship of state](https://www.theguardian.com/uk-news/2021/may/30/boris-johnson-plans-to-sink-200m-into-new-ship-of-state)
-- [Gavin MacLeod, The Love Boat’s Captain Stubing, dies aged 90](https://www.theguardian.com/tv-and-radio/2021/may/30/gavin-macleod-the-love-boats-captain-stubing-dies-aged-90)
-- [Kumbh Mela: how a superspreader festival seeded Covid across India](https://www.theguardian.com/world/2021/may/30/kumbh-mela-how-a-superspreader-festival-seeded-covid-across-india)
-- [Call for protection on Covid loan debts as the bounce-back payback begins](https://www.theguardian.com/business/2021/may/30/call-for-protection-on-covid-loan-debts-as-the-bounce-back-payback-begins)
-- [Walden review – Gemma Arterton’s sister act reaches for the stars](https://www.theguardian.com/stage/2021/may/29/walden-review-harold-pinter-theatre-london-gemma-arterton-amy-berryman)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Holy moly: 10 of the best crochet pieces – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/holy-moly-10-of-the-best-crochet-pieces-in-pictures)
-- [Summer shoes: 25 of the best flat sandals – in pictures](https://www.theguardian.com/fashion/gallery/2021/may/29/summer-shoes-25-of-the-best-flat-sandals-in-pictures)
+- [Can the US avoid another Trump?](https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast)
+- [Gunmen in Nigeria abduct about 150 students from Islamic school](https://www.theguardian.com/world/2021/may/31/gunmen-nigeria-abduct-students-islamic-school)
+- [New Zealand flooding: state of emergency in Canterbury, with hundreds evacuated](https://www.theguardian.com/world/2021/may/31/new-zealand-flooding-canterbury-state-of-emergency-evacuations-rescues)
+- [Tribunal claims for ageism at work soar since Covid lockdown](https://www.theguardian.com/money/2021/may/31/ageism-work-tribunal-claims-soar-covid-lockdown)
+- [TV stars and fans to appear as holograms at Bafta awards](https://www.theguardian.com/tv-and-radio/2021/may/31/tv-stars-fans-holograms-bafta-awards)
+- [Edinburgh international children’s festival review – a riot of colour and emotion](https://www.theguardian.com/stage/2021/may/31/edinburgh-international-childrens-festival-review-a-riot-of-colour-and-emotion)
+- [Euro 2020 team guides part 1: Italy](https://www.theguardian.com/football/2021/may/31/euro-2020-team-guides-part-1-italy)
+- [Uganda police killings reconstructed using mobile phone footage](https://www.theguardian.com/world/2021/may/31/uganda-police-killings-reconstructed-using-mobile-phone-footage)
+- [Cyprus election: far-right party linked to Greek neo-Nazis doubles vote share](https://www.theguardian.com/world/2021/may/30/far-right-cyprus-election-parliament)
+- [Chelsea eye Romelu Lukaku as Tuchel targets Premier League title challenge](https://www.theguardian.com/football/2021/may/30/chelsea-eye-romelu-lukaku-as-tuchel-targets-premier-league-title-challenge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
-- [“Computer science is not about computers”](https://quoteinvestigator.com/2021/04/02/computer-science/)
-- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
-- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
-- [Firesign Theatre’s ‘Dope Humor of the Seventies’](https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies)
-- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
-- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
-- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
-- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
-- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
+- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
+- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
+- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
+- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
+- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
+- [Ask HN: Alternatives to Google Photos?](https://news.ycombinator.com/item?id=27338008)
+- [Windows 10 nagging users with Bing advertisements (push alerts)](https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/)
+- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
+- [Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.com/sport/tennis/57301475)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

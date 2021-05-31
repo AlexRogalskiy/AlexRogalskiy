@@ -323,16 +323,16 @@ and the long drive home.
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WebAssembly Runtimes Compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
-- [Josh Weizenbaum’s Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
-- [Nuclear flash cards: US secrets exposed on learning apps](https://news.yahoo.com/nuclear-flash-cards-us-secrets-190918744.html)
-- [The March of Folly in Tech](https://paygo.media/p/48849)
-- [Study reveals new details on what happened in the first microsecond of Big Bang](https://www.science.ku.dk/english/press/news/2021/study-reveals-new-details-on-what-happened-in-the-first-microsecond-of-big-bang/)
-- [$600m class action: Four women suing Google for pay discrimination](https://www.theregister.com/2021/05/28/google_class_action/)
-- [Standalone T9 Predictive Keyboard](https://hackaday.io/project/179977-standalone-t9-predictive-keyboard)
-- [Her High School Said She Ranked Third in Her Class So She Went to Court](https://www.nytimes.com/2021/05/28/us/dalee-sullivan-gpa-alpine.html)
-- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
-- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
+- [Building your SaaS business with Partnerships](https://news.ycombinator.com/item?id=27340181)
+- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
+- [Scam App on App Store Forced Users to Give 3-Star Rating](https://www.iphonehacks.com/2021/05/app-store-scam-3-star-rating-upnp-xtreme.html)
+- [Who is that Neural Network? (2017)](https://jgeekstudies.org/2017/03/12/who-is-that-neural-network/)
+- [She called out health care misinfo on TikTok. Then, the trolls found her](https://www.nbcnews.com/news/us-news/she-called-out-health-care-misinfo-tiktok-then-trolls-found-n1265011)
+- [Any dating founder with advice to ramp up female users?](https://news.ycombinator.com/item?id=27340074)
+- [Ask HN: How to report Android apps that use the media channel for notifications?](https://news.ycombinator.com/item?id=27340017)
+- [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
+- [AirPods Aren’t ‘Magically Connecting’? Here Are Some Things to Try](https://www.wsj.com/articles/your-airpods-arent-magically-connecting-here-are-some-things-to-try-11622379601)
+- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

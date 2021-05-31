@@ -353,16 +353,16 @@ and the long drive home.
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
-- [“Computer science is not about computers”](https://quoteinvestigator.com/2021/04/02/computer-science/)
-- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
-- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
-- [Firesign Theatre’s ‘Dope Humor of the Seventies’](https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies)
-- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
-- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
-- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
-- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
-- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
+- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
+- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
+- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
+- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
+- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
+- [Ask HN: Alternatives to Google Photos?](https://news.ycombinator.com/item?id=27338008)
+- [Windows 10 nagging users with Bing advertisements (push alerts)](https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/)
+- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
+- [Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.com/sport/tennis/57301475)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

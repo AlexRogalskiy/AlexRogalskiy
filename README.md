@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Money_2/Money_is_a_good_servant_but_a_bad_master_897.php" target="_blank"><i>Money is a good servant, but a bad master</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/There_s_no_such_thing_as_a_free_lunch_1312.php" target="_blank"><i>There's no such thing as a free lunch</i></a>
 <span> = </span>
-<span>If you have money, it will serve you and work for you well. But if you owe money to other people, that money will control you in an unpleasant way.</span>
+<span>We cannot get something for nothing. We must pay for everything. Nothing in life is free.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

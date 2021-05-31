@@ -241,8 +241,30 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652534824201027584" target="_blank"><i>In Blackwater Woods</i></a></summary>
-<p>by Mary Oliver</p><p>Look, the trees<br/>are turning<br/>their own bodies<br/>into pillars<br/><br/>of light,<br/>are giving off the rich<br/>fragrance of cinnamon<br/>and fulfillment,<br/><br/>the long tapers<br/>of cattails<br/>are bursting and floating away over<br/>the blue shoulders<br/><br/>of the ponds,<br/>and every pond,<br/>no matter what its<br/>name is, is<br/><br/>nameless now.<br/>Every year<br/>everything<br/>I have ever learned<br/><br/>in my lifetime<br/>leads back to this: the fires<br/>and the black river of loss<br/>whose other side<br/><br/>is salvation,<br/>whose meaning<br/>none of us will ever know.<br/>To live in this world<br/><br/>you must be able<br/>to do three things:<br/>to love what is mortal;<br/>to hold it<br/><br/>against your bones knowing<br/>your own life depends on it;<br/>and, when the time comes to let it go,<br/>to let it go. </p>
+<summary><a href="https://apoemaday.tumblr.com/post/652631250964709376" target="_blank"><i>The Shipfitter’s Wife</i></a></summary>
+<p>by Dorianne Laux</p><p>
+
+I loved him most<br/>
+when he came home from work,<br/>
+his fingers still curled from fitting pipe,<br/>
+his denim shirt ringed with sweat,<br/>
+smelling of salt, the drying weeds<br/>
+of the ocean. I&rsquo;d go to where he sat<br/>
+on the edge of the bed, his forehead<br/>
+anointed with grease, his cracked hands<br/>
+jammed between his thighs, and unlace<br/>
+the steel-toed boots, stroke his ankles<br/>
+and calves, the pads and bones of his feet.<br/>
+Then I&rsquo;d open his clothes and take <br/>
+the whole day inside me – the ship&rsquo;s <br/>
+gray sides, the miles of copper pipe,<br/>
+the voice of the foreman clanging<br/>
+off the hull&rsquo;s silver ribs. Spark of lead<br/>
+kissing metal. The clamp, the winch,<br/>
+the white fire of the torch, the whistle, <br/>
+and the long drive home.
+
+</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

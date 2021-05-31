@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9a&#x2F;24&#x2F;7e&#x2F;9a247e700d034964c7a669ddf64bbe5c.jpg" alt="Skylark is a verb. It&#39;s also the Word of the Day. Click for example sentences, word origin, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;8f&#x2F;d8&#x2F;d38fd89e526999875ca9690bc913c34f.jpg" alt="Peradventure you&#39;ve heard of this Word of the Day? If not, we&#39;ll show you how to use it. Click to learn more at Dictionary.com! " />
     </p>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>3°C (<i>clear sky</i>), humidity: 75%, pressure: 1026 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
+        <b>10°C (<i>clear sky</i>), humidity: 53%, pressure: 1024 (mbar), wind: /south-east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:50 am</b> and sets at <b>22:02 pm</b>.
     </p>

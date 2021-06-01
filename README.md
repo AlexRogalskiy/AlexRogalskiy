@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [B.C. government extends PNP Tech Pilot indefinitely, renames it to BC PNP Tech](https://www.itworldcanada.com/article/b-c-government-extends-pnp-tech-pilot-indefinitely-renames-it-to-bc-pnp-tech/454135)
+- [The CRTC scrapped cheaper internet costs, so what should Canadians know?](https://www.itworldcanada.com/article/the-crtc-scrapped-cheaper-internet-costs-so-what-should-canadians-know/454120)
+- [Shedding business complexity leads to simplified cybersecurity](https://www.itworldcanada.com/article/shedding-business-complexity-leads-to-simplified-cybersecurity/454131)
+- [Learn to protect your company from a new wave of identity breaches](https://www.itworldcanada.com/article/learn-to-protect-your-company-from-a-new-wave-of-identity-breaches/454125)
+- [Microsoft Build announcements at a glance: Azure, Power platform get major updates](https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108)
+- [Cyber Security Today, May 31, 2021 – Canadians still fall for Windows support scams, new Nobelium attacks and another warning to Pulse Secure VPN users](https://www.itworldcanada.com/article/cyber-security-today-may-31-2021-canadians-still-fall-for-windows-support-scams-new-nobelium-attacks-and-another-warning-to-pulse-secure-vpn-users/447909)
+- [Hashtag Trending, May 31, 2021 – $600M class-action lawsuit against Google; Iran bans cryptomining; Google’s collection of location data](https://www.itworldcanada.com/article/hashtag-trending-may-31-2021-600m-class-action-lawsuit-against-google-iran-bans-cryptomining-googles-collection-of-location-data/454104)
 - [Deloitte’s global Women in Cyber campaign encourages diversity in the workforce](https://www.itworldcanada.com/article/deloittes-global-women-in-cyber-campaign-encourages-diversity-in-the-workforce/447726)
 - [Cyber Security Today, Week in Review for May 28, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-28-2021/447838)
 - [Five tips to boost your customer experience](https://www.itworldcanada.com/article/five-tips-to-boost-your-customer-experience/447876)
-- [All the Teams updates announced at Microsoft Build 2021](https://www.itworldcanada.com/article/all-the-teams-updates-announced-at-microsoft-build-2021/447864)
-- [Cyber Security Today, May 28, 2021 – Another warning for Fortinet device users; A movie site scam; Don’t be tricked by ads on search engines](https://www.itworldcanada.com/article/cyber-security-today-may-28-2021-another-warning-for-fortinet-device-users-a-movie-site-scam-and-dont-be-tricked-by-ads-on-search-engines/447859)
-- [Hashtag Trending, May 28, 2021 – Jeff Bezos to step down in July; Facebook updates its fact checking process; Canada Post hit with malware](https://www.itworldcanada.com/article/hashtag-trending-may-28-2021-jeff-bezos-to-step-down-in-july-facebook-updates-its-fact-checking-process-canada-post-hit-with-malware/447869)
-- [User data on 950,000 packages exposed after Canada Post falls victim to third-party hack](https://www.itworldcanada.com/article/user-data-on-950000-packages-exposed-after-canada-post-falls-victim-to-third-party-hack/447854)
-- [Ottawa ‘grateful’ for Ransomware Task Force’s recent work](https://www.itworldcanada.com/article/ottawa-grateful-for-work-of-ransomware-task-force/447407)
-- [ThinkOn launches cloud marketplace for Canada’s public sector with QuickSilk as initial member](https://www.itworldcanada.com/article/thinkon-launches-cloud-marketplace-for-canadas-public-sector-with-quicksilk-as-initial-member/447824)
-- [Hashtag Trending, May 27, 2021 – Amazon buys MGM; FICO report reveals ethical AI not top of mind among companies; Amazon under criticism for poor working conditions](https://www.itworldcanada.com/article/hashtag-trending-may-27-2021-amazon-buys-mgm-fico-report-reveals-companies-are-not-creating-inclusive-ai-amazon-under-criticism-for-poor-working-conditions/447818)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

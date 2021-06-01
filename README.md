@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_1/pig_1__1088.php" target="_blank"><i>pig (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/N/nifty_1450.php" target="_blank"><i>nifty</i></a>
 <span> = </span>
-<span>an unattractive and unpleasant person</span>
+<span>skillful, agile, very good</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

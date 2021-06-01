@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/take_2/take_back_2__2178.php" target="_blank"><i>take back (2)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/L/launch_into_2528.php" target="_blank"><i>launch into</i></a>
 <span> = </span>
-<span>If a store takes back something they've sold, they allow the buyer to return it for a refund, or exchange it.</span>
+<span>to start off something, like a speech or a song, in an energetic way</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

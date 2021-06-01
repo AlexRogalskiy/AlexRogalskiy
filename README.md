@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9b&#x2F;47&#x2F;51&#x2F;9b475157e388f573387144ab5e15bac1.jpg" alt="Remembrancer is the #WordOfTheDay. Click to get example sentences and more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9b&#x2F;47&#x2F;51&#x2F;9b475157e388f573387144ab5e15bac1.jpg" alt="Remembrancer is the #WordOfTheDay. Click to get example sentences and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. Mind You, Word Of The Day, New Words, Sentences, Vocabulary, Learning, Frases, Studying, Teaching" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9a&#x2F;24&#x2F;7e&#x2F;9a247e700d034964c7a669ddf64bbe5c.jpg" alt="Skylark is a verb. It&#39;s also the Word of the Day. Click for example sentences, word origin, and more. Skylark, Word Of The Day, New Words, Sentences, Language, Mindfulness, Learning, Frases, Studying" />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>17°C (<i>clear sky</i>), humidity: 52%, pressure: 1020 (mbar), wind: /north-west/ 3 (m/s), cloudy: 0%</b>
+        <b>17°C (<i>scattered clouds</i>), humidity: 48%, pressure: 1020 (mbar), wind: /north/ 0 (m/s), cloudy: 40%</b>
         <br />
         Today, the Sun rises at <b>03:49 am</b> and sets at <b>22:04 pm</b>.
     </p>

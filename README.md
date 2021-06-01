@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
-- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
-- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
-- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
-- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
-- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
-- [Ask HN: Alternatives to Google Photos?](https://news.ycombinator.com/item?id=27338008)
-- [Windows 10 nagging users with Bing advertisements (push alerts)](https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/)
-- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
-- [Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.com/sport/tennis/57301475)
+- [California's math overhaul focuses on equity](https://www.latimes.com/california/story/2021-05-20/california-controversial-math-overhaul-focuses-on-equity)
+- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
+- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
+- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
+- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
+- [Oceanbase, yet another open source HTAP database](https://github.com/oceanbase/oceanbase)
+- [New report details Beijing’s foreign influence operations in Canada](https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/)
+- [Sevenhugs exits the universal remote business](https://support.sevenhugs.com/t/35hfcvg)
+- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

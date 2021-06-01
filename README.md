@@ -241,30 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652631250964709376" target="_blank"><i>The Shipfitter’s Wife</i></a></summary>
-<p>by Dorianne Laux</p><p>
-
-I loved him most<br/>
-when he came home from work,<br/>
-his fingers still curled from fitting pipe,<br/>
-his denim shirt ringed with sweat,<br/>
-smelling of salt, the drying weeds<br/>
-of the ocean. I&rsquo;d go to where he sat<br/>
-on the edge of the bed, his forehead<br/>
-anointed with grease, his cracked hands<br/>
-jammed between his thighs, and unlace<br/>
-the steel-toed boots, stroke his ankles<br/>
-and calves, the pads and bones of his feet.<br/>
-Then I&rsquo;d open his clothes and take <br/>
-the whole day inside me – the ship&rsquo;s <br/>
-gray sides, the miles of copper pipe,<br/>
-the voice of the foreman clanging<br/>
-off the hull&rsquo;s silver ribs. Spark of lead<br/>
-kissing metal. The clamp, the winch,<br/>
-the white fire of the torch, the whistle, <br/>
-and the long drive home.
-
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652721822600691712" target="_blank"><i>It Is This Way with Men</i></a></summary>
+<p>by C.K. Williams</p><p>They are pounded into the Earth<br/>like nails; move an inch,<br/>they are driven down again.<br/>The earth is sore with them.<br/>It is a spiny fruit<br/>that has lost hope<br/>of being raised and eaten.<br/>It can only ripen and ripen.<br/>And men, they too are wounded.<br/>They too are sifted from their loss<br/>and are without hope. The core<br/>softens. The pure flesh softens<br/>and melts. There are thorns, there<br/>are the dark seeds, and they end.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

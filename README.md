@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9b&#x2F;47&#x2F;51&#x2F;9b475157e388f573387144ab5e15bac1.jpg" alt="Remembrancer is the #WordOfTheDay. Click to get example sentences and more!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. Mind You, Word Of The Day, New Words, Sentences, Vocabulary, Learning, Frases, Studying, Teaching" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9a&#x2F;24&#x2F;7e&#x2F;9a247e700d034964c7a669ddf64bbe5c.jpg" alt="Skylark is a verb. It&#39;s also the Word of the Day. Click for example sentences, word origin, and more. Skylark, Word Of The Day, New Words, Sentences, Language, Mindfulness, Learning, Frases, Studying" />
     </p>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 76%, pressure: 1021 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>13°C (<i>clear sky</i>), humidity: 65%, pressure: 1019 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:49 am</b> and sets at <b>22:04 pm</b>.
     </p>
@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Former Astronaut Peggy Whitson Will Return to Space without NASA's Help](https://www.reviewgeek.com/85112/former-astronaut-peggy-whitson-will-return-to-space-without-nasas-help/)
-* [Go to Dungeon, Do Not Collect 200 GP: 'Dungeons & Dragons' Arrives on 'Monopoly'](https://www.reviewgeek.com/85532/go-to-dungeon-do-not-collect-200-gp-dungeons-dragons-arrives-on-monopoly/)
-* [Giant Galapagos Tortoise Thought to Be Extinct 100 Years Ago Found on Island](https://www.reviewgeek.com/85677/giant-galapagos-tortoise-thought-to-be-extinct-100-years-ago-found-on-island/)
-* [How to Use Google Maps in Incognito Mode](https://www.howtogeek.com/729598/how-to-use-google-maps-in-incognito-mode/)
-* [It's a Lobster! And a Squid! And a Shark ... All in a Single Fossil](https://www.reviewgeek.com/85466/its-a-lobster-and-a-squid-and-a-shark-all-in-a-single-fossil/)
-* [How to Pair the Xbox Wireless Controller with an iPhone or iPad](https://www.howtogeek.com/727183/how-to-pair-the-xbox-wireless-controller-with-an-iphone-or-ipad/)
-* [How to Force Your MacBook to Charge Fully](https://www.howtogeek.com/726725/how-to-force-your-macbook-to-charge-fully/)
-* [Why Cryptomining Is Bad for the Environment, And How It Could Get Better](https://www.reviewgeek.com/85029/why-cryptomining-is-bad-for-the-environment-and-how-it-could-get-better/)
-* [How to Add a VPN Shortcut to Your Desktop in Windows 10](https://www.howtogeek.com/728000/how-to-add-a-vpn-shortcut-to-your-desktop-in-windows-10/)
-* [How to Set up and Use Photoshop’s Quick Export Feature](https://www.howtogeek.com/725440/how-to-set-up-and-use-photoshops-quick-export-feature/)
+* [Xiaomi's New Tech Fully Charges a Phone in Eight Minutes at 200W](https://www.reviewgeek.com/85966/xiaomis-new-tech-fully-charges-a-phone-in-eight-minutes-at-200w/)
+* [Walmart's New Android TV Stick Is the Cheapest We've Seen Yet](https://www.reviewgeek.com/85957/walmarts-new-android-tv-stick-is-the-cheapest-weve-seen-yet/)
+* [Have Video Games Gotten Too Ambitious?](https://www.reviewgeek.com/67396/have-video-games-gotten-too-ambitious/)
+* [Minecraft 'Caves and Cliffs Update Part 1' Coming June 8th](https://www.reviewgeek.com/85945/minecraft-caves-cliffs-update-part-1-coming-june-8th/)
+* [Why You Shouldn't Spend More Than $500 on Your Next Phone](https://www.reviewgeek.com/52521/why-you-shouldnt-spend-more-than-500-on-your-next-phone/)
+* [Ford's Electric F-150 Lightning Could Far Exceed 300-Mile Range](https://www.reviewgeek.com/85938/fords-electric-f-150-lightning-could-far-exceed-300-mile-range/)
+* [The 5 Best Triple Monitor Mounts](https://www.reviewgeek.com/82615/the-5-best-triple-monitor-mounts/)
+* [How to Disable Chromecast Media Controls in Google Chrome](https://www.howtogeek.com/721011/how-to-disable-chromecast-media-controls-in-google-chrome/)
+* [How to Change the Currency Symbol in Google Sheets](https://www.howtogeek.com/725762/how-to-change-the-currency-symbol-in-google-sheets/)
+* [7 Great Apps for Customizing Android](https://www.reviewgeek.com/53327/7-great-apps-for-customizing-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

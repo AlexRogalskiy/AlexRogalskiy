@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building your SaaS business with Partnerships](https://news.ycombinator.com/item?id=27340181)
-- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
-- [Scam App on App Store Forced Users to Give 3-Star Rating](https://www.iphonehacks.com/2021/05/app-store-scam-3-star-rating-upnp-xtreme.html)
-- [Who is that Neural Network? (2017)](https://jgeekstudies.org/2017/03/12/who-is-that-neural-network/)
-- [She called out health care misinfo on TikTok. Then, the trolls found her](https://www.nbcnews.com/news/us-news/she-called-out-health-care-misinfo-tiktok-then-trolls-found-n1265011)
-- [Any dating founder with advice to ramp up female users?](https://news.ycombinator.com/item?id=27340074)
-- [Ask HN: How to report Android apps that use the media channel for notifications?](https://news.ycombinator.com/item?id=27340017)
-- [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
-- [AirPods Aren’t ‘Magically Connecting’? Here Are Some Things to Try](https://www.wsj.com/articles/your-airpods-arent-magically-connecting-here-are-some-things-to-try-11622379601)
-- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
+- [In Search of the New](https://society.robinsloan.com/archive/in-search-of-the-new/)
+- [Fitbit may soon be adding snoring detection to its devices](https://www.theverge.com/2021/5/29/22459675/fitbit-snoring-detection-fitness-trackers-smartwatch-sleep-animal)
+- [Libravatar: Federated Avatar Hosting Service](https://www.libravatar.org/)
+- [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+- [KKR and CD&R Close to $4.7B Deal to Buy Out Cloudera](https://www.bloomberg.com/news/articles/2021-06-01/kkr-cd-r-close-to-deal-to-take-cloudera-private-dow-jones-says)
+- [Two Tiny Dual-Gigabit Raspberry Pi CM4 Routers](https://www.jeffgeerling.com/blog/2021/two-tiny-dual-gigabit-raspberry-pi-cm4-routers)
+- [Japan approves chip development project with Taiwan's TSMC](https://au.finance.yahoo.com/news/japan-approves-chip-development-project-033949286.html)
+- [New App Aims to Compete with Uber, Lyft While Giving NY Drivers a Living Wage](https://www.npr.org/2020/12/05/943454048/new-app-aims-to-compete-with-uber-lyft-while-giving-new-york-drivers-a-living-wa)
+- [How and Why I Built My Own Bellows-Style Dynamic Digital View Camera](https://petapixel.com/2020/11/03/how-and-why-i-built-my-own-bellows-style-dynamic-digital-view-camera/)
+- [Miami marks tech hub milestone with crypto conference](https://www.miamiherald.com/news/business/article251719833.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

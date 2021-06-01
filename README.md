@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/There_s_no_such_thing_as_a_free_lunch_1312.php" target="_blank"><i>There's no such thing as a free lunch</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/Speech_is_silver_silence_is_golden_940.php" target="_blank"><i>Speech is silver, silence is golden</i></a>
 <span> = </span>
-<span>We cannot get something for nothing. We must pay for everything. Nothing in life is free.</span>
+<span>Speaking is good but saying nothing is better. Discretion can be worth more than even eloquent words.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

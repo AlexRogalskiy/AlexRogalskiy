@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can the US avoid another Trump?](https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast)
-- [Gunmen in Nigeria abduct about 150 students from Islamic school](https://www.theguardian.com/world/2021/may/31/gunmen-nigeria-abduct-students-islamic-school)
-- [New Zealand flooding: state of emergency in Canterbury, with hundreds evacuated](https://www.theguardian.com/world/2021/may/31/new-zealand-flooding-canterbury-state-of-emergency-evacuations-rescues)
-- [Tribunal claims for ageism at work soar since Covid lockdown](https://www.theguardian.com/money/2021/may/31/ageism-work-tribunal-claims-soar-covid-lockdown)
-- [TV stars and fans to appear as holograms at Bafta awards](https://www.theguardian.com/tv-and-radio/2021/may/31/tv-stars-fans-holograms-bafta-awards)
-- [Edinburgh international children’s festival review – a riot of colour and emotion](https://www.theguardian.com/stage/2021/may/31/edinburgh-international-childrens-festival-review-a-riot-of-colour-and-emotion)
-- [Euro 2020 team guides part 1: Italy](https://www.theguardian.com/football/2021/may/31/euro-2020-team-guides-part-1-italy)
-- [Uganda police killings reconstructed using mobile phone footage](https://www.theguardian.com/world/2021/may/31/uganda-police-killings-reconstructed-using-mobile-phone-footage)
-- [Cyprus election: far-right party linked to Greek neo-Nazis doubles vote share](https://www.theguardian.com/world/2021/may/30/far-right-cyprus-election-parliament)
-- [Chelsea eye Romelu Lukaku as Tuchel targets Premier League title challenge](https://www.theguardian.com/football/2021/may/30/chelsea-eye-romelu-lukaku-as-tuchel-targets-premier-league-title-challenge)
+- [Disaster patriarchy: how the pandemic has unleashed a war on women](https://www.theguardian.com/lifeandstyle/2021/jun/01/disaster-patriarchy-how-the-pandemic-has-unleashed-a-war-on-women)
+- [Why every single statue should come down | Gary Younge](https://www.theguardian.com/artanddesign/2021/jun/01/gary-younge-why-every-single-statue-should-come-down-rhodes-colston)
+- [Wild night out: how a nocturnal walk in the woods can reconnect us with nature](https://www.theguardian.com/environment/2021/jun/01/wild-night-out-a-nocturnal-stroll-in-the-woods-reconnects-us-with-nature-aoe)
+- [TV tonight: Jodie Turner-Smith stars in a new take on Anne Boleyn](https://www.theguardian.com/tv-and-radio/2021/jun/01/tv-tonight-jodie-turner-smith-stars-in-a-new-take-on-anne-boleyn)
+- [Bank of England monitors UK housing boom as it weighs inflation risk](https://www.theguardian.com/business/2021/jun/01/bank-of-england-monitors-uk-housing-boom-as-it-weighs-inflation-risk-dave-ramsden-covid)
+- [Mark Rylance: arts should tell ‘love stories’ about nature to tackle climate crisis](https://www.theguardian.com/culture/2021/jun/01/mark-rylance-arts-should-tell-love-stories-about-nature-to-tackle-climate-crisis)
+- [Refugee women and children ‘at risk of being abandoned’ in Home Office policy shift](https://www.theguardian.com/world/2021/jun/01/refugee-women-and-children-at-risk-of-being-abandoned-in-home-office-policy-shift)
+- [‘They had soul’: Anton Corbijn on 40 years shooting Depeche Mode](https://www.theguardian.com/music/2021/jun/01/anton-corbijn-on-40-years-shooting-depeche-mode)
+- [Glasgow to plant 18m trees as city readies for Cop26 climate summit](https://www.theguardian.com/uk-news/2021/jun/01/glasgow-to-plant-18m-trees-as-city-readies-for-cop26-climate-summit)
+- [World’s only alpine parrot may have moved to the mountains to avoid people](https://www.theguardian.com/world/2021/jun/01/new-zealands-alpine-parrot-could-have-moved-to-the-mountains-to-avoid-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

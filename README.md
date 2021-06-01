@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Time/from_time_to_time_627.php" target="_blank"><i>from time to time</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Animals/a_queer_fish_474.php" target="_blank"><i>a queer fish</i></a>
 <span> = </span>
-<span>If you do something from time to time, you do it occasionally, but not very often.</span>
+<span>If someone's a queer fish, they are a bit strange and can sometimes behave in an unusual way.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Insulting_1/pig_1__1088.php" target="_blank"><i>pig (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/N/nifty_1450.php" target="_blank"><i>nifty</i></a>
 <span> = </span>
-<span>an unattractive and unpleasant person</span>
+<span>skillful, agile, very good</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Modern/There_s_no_such_thing_as_a_free_lunch_1312.php" target="_blank"><i>There's no such thing as a free lunch</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/Speech_is_silver_silence_is_golden_940.php" target="_blank"><i>Speech is silver, silence is golden</i></a>
 <span> = </span>
-<span>We cannot get something for nothing. We must pay for everything. Nothing in life is free.</span>
+<span>Speaking is good but saying nothing is better. Discretion can be worth more than even eloquent words.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9b&#x2F;47&#x2F;51&#x2F;9b475157e388f573387144ab5e15bac1.jpg" alt="Remembrancer is the #WordOfTheDay. Click to get example sentences and more!" />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. Mind You, Word Of The Day, New Words, Sentences, Vocabulary, Learning, Frases, Studying, Teaching" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9a&#x2F;24&#x2F;7e&#x2F;9a247e700d034964c7a669ddf64bbe5c.jpg" alt="Skylark is a verb. It&#39;s also the Word of the Day. Click for example sentences, word origin, and more. Skylark, Word Of The Day, New Words, Sentences, Language, Mindfulness, Learning, Frases, Studying" />
     </p>
@@ -241,30 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652631250964709376" target="_blank"><i>The Shipfitter’s Wife</i></a></summary>
-<p>by Dorianne Laux</p><p>
-
-I loved him most<br/>
-when he came home from work,<br/>
-his fingers still curled from fitting pipe,<br/>
-his denim shirt ringed with sweat,<br/>
-smelling of salt, the drying weeds<br/>
-of the ocean. I&rsquo;d go to where he sat<br/>
-on the edge of the bed, his forehead<br/>
-anointed with grease, his cracked hands<br/>
-jammed between his thighs, and unlace<br/>
-the steel-toed boots, stroke his ankles<br/>
-and calves, the pads and bones of his feet.<br/>
-Then I&rsquo;d open his clothes and take <br/>
-the whole day inside me – the ship&rsquo;s <br/>
-gray sides, the miles of copper pipe,<br/>
-the voice of the foreman clanging<br/>
-off the hull&rsquo;s silver ribs. Spark of lead<br/>
-kissing metal. The clamp, the winch,<br/>
-the white fire of the torch, the whistle, <br/>
-and the long drive home.
-
-</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652721822600691712" target="_blank"><i>It Is This Way with Men</i></a></summary>
+<p>by C.K. Williams</p><p>They are pounded into the Earth<br/>like nails; move an inch,<br/>they are driven down again.<br/>The earth is sore with them.<br/>It is a spiny fruit<br/>that has lost hope<br/>of being raised and eaten.<br/>It can only ripen and ripen.<br/>And men, they too are wounded.<br/>They too are sifted from their loss<br/>and are without hope. The core<br/>softens. The pure flesh softens<br/>and melts. There are thorns, there<br/>are the dark seeds, and they end.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -295,7 +273,7 @@ and the long drive home.
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>8°C (<i>clear sky</i>), humidity: 76%, pressure: 1021 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>13°C (<i>clear sky</i>), humidity: 65%, pressure: 1019 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:49 am</b> and sets at <b>22:04 pm</b>.
     </p>
@@ -308,61 +286,61 @@ and the long drive home.
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Former Astronaut Peggy Whitson Will Return to Space without NASA's Help](https://www.reviewgeek.com/85112/former-astronaut-peggy-whitson-will-return-to-space-without-nasas-help/)
-* [Go to Dungeon, Do Not Collect 200 GP: 'Dungeons & Dragons' Arrives on 'Monopoly'](https://www.reviewgeek.com/85532/go-to-dungeon-do-not-collect-200-gp-dungeons-dragons-arrives-on-monopoly/)
-* [Giant Galapagos Tortoise Thought to Be Extinct 100 Years Ago Found on Island](https://www.reviewgeek.com/85677/giant-galapagos-tortoise-thought-to-be-extinct-100-years-ago-found-on-island/)
-* [How to Use Google Maps in Incognito Mode](https://www.howtogeek.com/729598/how-to-use-google-maps-in-incognito-mode/)
-* [It's a Lobster! And a Squid! And a Shark ... All in a Single Fossil](https://www.reviewgeek.com/85466/its-a-lobster-and-a-squid-and-a-shark-all-in-a-single-fossil/)
-* [How to Pair the Xbox Wireless Controller with an iPhone or iPad](https://www.howtogeek.com/727183/how-to-pair-the-xbox-wireless-controller-with-an-iphone-or-ipad/)
-* [How to Force Your MacBook to Charge Fully](https://www.howtogeek.com/726725/how-to-force-your-macbook-to-charge-fully/)
-* [Why Cryptomining Is Bad for the Environment, And How It Could Get Better](https://www.reviewgeek.com/85029/why-cryptomining-is-bad-for-the-environment-and-how-it-could-get-better/)
-* [How to Add a VPN Shortcut to Your Desktop in Windows 10](https://www.howtogeek.com/728000/how-to-add-a-vpn-shortcut-to-your-desktop-in-windows-10/)
-* [How to Set up and Use Photoshop’s Quick Export Feature](https://www.howtogeek.com/725440/how-to-set-up-and-use-photoshops-quick-export-feature/)
+* [Xiaomi's New Tech Fully Charges a Phone in Eight Minutes at 200W](https://www.reviewgeek.com/85966/xiaomis-new-tech-fully-charges-a-phone-in-eight-minutes-at-200w/)
+* [Walmart's New Android TV Stick Is the Cheapest We've Seen Yet](https://www.reviewgeek.com/85957/walmarts-new-android-tv-stick-is-the-cheapest-weve-seen-yet/)
+* [Have Video Games Gotten Too Ambitious?](https://www.reviewgeek.com/67396/have-video-games-gotten-too-ambitious/)
+* [Minecraft 'Caves and Cliffs Update Part 1' Coming June 8th](https://www.reviewgeek.com/85945/minecraft-caves-cliffs-update-part-1-coming-june-8th/)
+* [Why You Shouldn't Spend More Than $500 on Your Next Phone](https://www.reviewgeek.com/52521/why-you-shouldnt-spend-more-than-500-on-your-next-phone/)
+* [Ford's Electric F-150 Lightning Could Far Exceed 300-Mile Range](https://www.reviewgeek.com/85938/fords-electric-f-150-lightning-could-far-exceed-300-mile-range/)
+* [The 5 Best Triple Monitor Mounts](https://www.reviewgeek.com/82615/the-5-best-triple-monitor-mounts/)
+* [How to Disable Chromecast Media Controls in Google Chrome](https://www.howtogeek.com/721011/how-to-disable-chromecast-media-controls-in-google-chrome/)
+* [How to Change the Currency Symbol in Google Sheets](https://www.howtogeek.com/725762/how-to-change-the-currency-symbol-in-google-sheets/)
+* [7 Great Apps for Customizing Android](https://www.reviewgeek.com/53327/7-great-apps-for-customizing-android/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building your SaaS business with Partnerships](https://news.ycombinator.com/item?id=27340181)
-- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
-- [Scam App on App Store Forced Users to Give 3-Star Rating](https://www.iphonehacks.com/2021/05/app-store-scam-3-star-rating-upnp-xtreme.html)
-- [Who is that Neural Network? (2017)](https://jgeekstudies.org/2017/03/12/who-is-that-neural-network/)
-- [She called out health care misinfo on TikTok. Then, the trolls found her](https://www.nbcnews.com/news/us-news/she-called-out-health-care-misinfo-tiktok-then-trolls-found-n1265011)
-- [Any dating founder with advice to ramp up female users?](https://news.ycombinator.com/item?id=27340074)
-- [Ask HN: How to report Android apps that use the media channel for notifications?](https://news.ycombinator.com/item?id=27340017)
-- [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
-- [AirPods Aren’t ‘Magically Connecting’? Here Are Some Things to Try](https://www.wsj.com/articles/your-airpods-arent-magically-connecting-here-are-some-things-to-try-11622379601)
-- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
+- [In Search of the New](https://society.robinsloan.com/archive/in-search-of-the-new/)
+- [Fitbit may soon be adding snoring detection to its devices](https://www.theverge.com/2021/5/29/22459675/fitbit-snoring-detection-fitness-trackers-smartwatch-sleep-animal)
+- [Libravatar: Federated Avatar Hosting Service](https://www.libravatar.org/)
+- [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+- [KKR and CD&R Close to $4.7B Deal to Buy Out Cloudera](https://www.bloomberg.com/news/articles/2021-06-01/kkr-cd-r-close-to-deal-to-take-cloudera-private-dow-jones-says)
+- [Two Tiny Dual-Gigabit Raspberry Pi CM4 Routers](https://www.jeffgeerling.com/blog/2021/two-tiny-dual-gigabit-raspberry-pi-cm4-routers)
+- [Japan approves chip development project with Taiwan's TSMC](https://au.finance.yahoo.com/news/japan-approves-chip-development-project-033949286.html)
+- [New App Aims to Compete with Uber, Lyft While Giving NY Drivers a Living Wage](https://www.npr.org/2020/12/05/943454048/new-app-aims-to-compete-with-uber-lyft-while-giving-new-york-drivers-a-living-wa)
+- [How and Why I Built My Own Bellows-Style Dynamic Digital View Camera](https://petapixel.com/2020/11/03/how-and-why-i-built-my-own-bellows-style-dynamic-digital-view-camera/)
+- [Miami marks tech hub milestone with crypto conference](https://www.miamiherald.com/news/business/article251719833.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can the US avoid another Trump?](https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast)
-- [Gunmen in Nigeria abduct about 150 students from Islamic school](https://www.theguardian.com/world/2021/may/31/gunmen-nigeria-abduct-students-islamic-school)
-- [New Zealand flooding: state of emergency in Canterbury, with hundreds evacuated](https://www.theguardian.com/world/2021/may/31/new-zealand-flooding-canterbury-state-of-emergency-evacuations-rescues)
-- [Tribunal claims for ageism at work soar since Covid lockdown](https://www.theguardian.com/money/2021/may/31/ageism-work-tribunal-claims-soar-covid-lockdown)
-- [TV stars and fans to appear as holograms at Bafta awards](https://www.theguardian.com/tv-and-radio/2021/may/31/tv-stars-fans-holograms-bafta-awards)
-- [Edinburgh international children’s festival review – a riot of colour and emotion](https://www.theguardian.com/stage/2021/may/31/edinburgh-international-childrens-festival-review-a-riot-of-colour-and-emotion)
-- [Euro 2020 team guides part 1: Italy](https://www.theguardian.com/football/2021/may/31/euro-2020-team-guides-part-1-italy)
-- [Uganda police killings reconstructed using mobile phone footage](https://www.theguardian.com/world/2021/may/31/uganda-police-killings-reconstructed-using-mobile-phone-footage)
-- [Cyprus election: far-right party linked to Greek neo-Nazis doubles vote share](https://www.theguardian.com/world/2021/may/30/far-right-cyprus-election-parliament)
-- [Chelsea eye Romelu Lukaku as Tuchel targets Premier League title challenge](https://www.theguardian.com/football/2021/may/30/chelsea-eye-romelu-lukaku-as-tuchel-targets-premier-league-title-challenge)
+- [Disaster patriarchy: how the pandemic has unleashed a war on women](https://www.theguardian.com/lifeandstyle/2021/jun/01/disaster-patriarchy-how-the-pandemic-has-unleashed-a-war-on-women)
+- [Why every single statue should come down | Gary Younge](https://www.theguardian.com/artanddesign/2021/jun/01/gary-younge-why-every-single-statue-should-come-down-rhodes-colston)
+- [Wild night out: how a nocturnal walk in the woods can reconnect us with nature](https://www.theguardian.com/environment/2021/jun/01/wild-night-out-a-nocturnal-stroll-in-the-woods-reconnects-us-with-nature-aoe)
+- [TV tonight: Jodie Turner-Smith stars in a new take on Anne Boleyn](https://www.theguardian.com/tv-and-radio/2021/jun/01/tv-tonight-jodie-turner-smith-stars-in-a-new-take-on-anne-boleyn)
+- [Bank of England monitors UK housing boom as it weighs inflation risk](https://www.theguardian.com/business/2021/jun/01/bank-of-england-monitors-uk-housing-boom-as-it-weighs-inflation-risk-dave-ramsden-covid)
+- [Mark Rylance: arts should tell ‘love stories’ about nature to tackle climate crisis](https://www.theguardian.com/culture/2021/jun/01/mark-rylance-arts-should-tell-love-stories-about-nature-to-tackle-climate-crisis)
+- [Refugee women and children ‘at risk of being abandoned’ in Home Office policy shift](https://www.theguardian.com/world/2021/jun/01/refugee-women-and-children-at-risk-of-being-abandoned-in-home-office-policy-shift)
+- [‘They had soul’: Anton Corbijn on 40 years shooting Depeche Mode](https://www.theguardian.com/music/2021/jun/01/anton-corbijn-on-40-years-shooting-depeche-mode)
+- [Glasgow to plant 18m trees as city readies for Cop26 climate summit](https://www.theguardian.com/uk-news/2021/jun/01/glasgow-to-plant-18m-trees-as-city-readies-for-cop26-climate-summit)
+- [World’s only alpine parrot may have moved to the mountains to avoid people](https://www.theguardian.com/world/2021/jun/01/new-zealands-alpine-parrot-could-have-moved-to-the-mountains-to-avoid-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
-- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
-- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
-- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
-- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
-- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
-- [Ask HN: Alternatives to Google Photos?](https://news.ycombinator.com/item?id=27338008)
-- [Windows 10 nagging users with Bing advertisements (push alerts)](https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/)
-- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
-- [Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.com/sport/tennis/57301475)
+- [California's math overhaul focuses on equity](https://www.latimes.com/california/story/2021-05-20/california-controversial-math-overhaul-focuses-on-equity)
+- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
+- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
+- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
+- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
+- [Oceanbase, yet another open source HTAP database](https://github.com/oceanbase/oceanbase)
+- [New report details Beijing’s foreign influence operations in Canada](https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/)
+- [Sevenhugs exits the universal remote business](https://support.sevenhugs.com/t/35hfcvg)
+- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -398,6 +376,8 @@ and the long drive home.
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [3 good ways to validate APIs](https://www.infoworld.com/article/3620431/3-good-ways-to-validate-apis.html#tk.rss_all)
+- [Open source's diversity problem](https://www.infoworld.com/article/3620290/open-sources-diversity-problem.html#tk.rss_all)
 - [Most cloud security problems breathe](https://www.infoworld.com/article/3620291/most-cloud-security-problems-breathe.html#tk.rss_all)
 - [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
 - [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_all)
@@ -406,13 +386,12 @@ and the long drive home.
 - [PostgreSQL benefits and challenges: A snapshot](https://www.infoworld.com/article/3619531/postgresql-benefits-and-challenges-a-snapshot.html#tk.rss_all)
 - [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_all)
 - [Get started with Flask 2.0](https://www.infoworld.com/article/3619522/get-started-with-flask-20.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Eclipse Jakarta EE 9.1 aligns with Java 11](https://www.infoworld.com/article/3620088/eclipse-jakarta-ee-91-aligns-with-java-11.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How computational storage delivers datacentre benefits](https://www.computerweekly.com/feature/How-computational-storage-delivers-datacentre-benefits)
 - [Privacy experts concerned over NHS data collection plans](https://www.computerweekly.com/news/252501494/Privacy-experts-concerned-over-NHS-data-collection-plans)
 - [IR35 reforms: Blanket-banning firms risk losing contractors and suffering reputational damage](https://www.computerweekly.com/news/252501558/IR35-reforms-Blanket-banning-firms-risk-losing-contractors-and-suffering-reputational-damage)
 - [BCS demands reform to rules on computer evidence following Post Office Horizon scandal revelations](https://www.computerweekly.com/news/252501510/BCS-demands-reform-to-rules-on-computer-evidence-following-Post-Office-Horizon-scandal-revelations)
@@ -422,37 +401,36 @@ and the long drive home.
 - [TCS opens its first European innovation centre in Amsterdam](https://www.computerweekly.com/news/252501490/TCS-opens-its-first-European-innovation-centre-in-Amsterdam)
 - [Security ops teams struggle to switch off at home](https://www.computerweekly.com/news/252501485/Security-ops-teams-struggle-to-switch-off-at-home)
 - [Build 2021: Microsoft targets multicloud developers](https://www.computerweekly.com/news/252501483/Build-2021-Microsoft-targets-multicloud-developers)
-- [How supply chain digitisation is paving the way to gene therapy](https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Company laptop/Windows license stolen](https://www.reddit.com/r/InformationTechnology/comments/npd3wo/company_laptopwindows_license_stolen/)
+- [Advice](https://www.reddit.com/r/InformationTechnology/comments/npckv4/advice/)
 - [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
 - [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
 - [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
 - [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
 - [Looking to get into IT/MIS](https://www.reddit.com/r/InformationTechnology/comments/nnr766/looking_to_get_into_itmis/)
-- [Bitwarden Coolness Test](https://www.reddit.com/r/InformationTechnology/comments/nnfku2/bitwarden_coolness_test/)
 - [Worth learning?](https://www.reddit.com/r/InformationTechnology/comments/nmzgp4/worth_learning/)
 - [Anyone switched from Docuware to Sharepoint? Is it possible?](https://www.reddit.com/r/InformationTechnology/comments/nmykl2/anyone_switched_from_docuware_to_sharepoint_is_it/)
 - [Using a decentralised computing power network for Molecular Dynamics Simulations via a cryptocurrency. Thoughts?](https://www.reddit.com/r/InformationTechnology/comments/nmv02r/using_a_decentralised_computing_power_network_for/)
-- [Windows Virtual Desktops vs Horizon vs Citrix](https://www.reddit.com/r/InformationTechnology/comments/nmtjr6/windows_virtual_desktops_vs_horizon_vs_citrix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [B.C. government extends PNP Tech Pilot indefinitely, renames it to BC PNP Tech](https://www.itworldcanada.com/article/b-c-government-extends-pnp-tech-pilot-indefinitely-renames-it-to-bc-pnp-tech/454135)
+- [The CRTC scrapped cheaper internet costs, so what should Canadians know?](https://www.itworldcanada.com/article/the-crtc-scrapped-cheaper-internet-costs-so-what-should-canadians-know/454120)
+- [Shedding business complexity leads to simplified cybersecurity](https://www.itworldcanada.com/article/shedding-business-complexity-leads-to-simplified-cybersecurity/454131)
+- [Learn to protect your company from a new wave of identity breaches](https://www.itworldcanada.com/article/learn-to-protect-your-company-from-a-new-wave-of-identity-breaches/454125)
+- [Microsoft Build announcements at a glance: Azure, Power platform get major updates](https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108)
+- [Cyber Security Today, May 31, 2021 – Canadians still fall for Windows support scams, new Nobelium attacks and another warning to Pulse Secure VPN users](https://www.itworldcanada.com/article/cyber-security-today-may-31-2021-canadians-still-fall-for-windows-support-scams-new-nobelium-attacks-and-another-warning-to-pulse-secure-vpn-users/447909)
+- [Hashtag Trending, May 31, 2021 – $600M class-action lawsuit against Google; Iran bans cryptomining; Google’s collection of location data](https://www.itworldcanada.com/article/hashtag-trending-may-31-2021-600m-class-action-lawsuit-against-google-iran-bans-cryptomining-googles-collection-of-location-data/454104)
 - [Deloitte’s global Women in Cyber campaign encourages diversity in the workforce](https://www.itworldcanada.com/article/deloittes-global-women-in-cyber-campaign-encourages-diversity-in-the-workforce/447726)
 - [Cyber Security Today, Week in Review for May 28, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-28-2021/447838)
 - [Five tips to boost your customer experience](https://www.itworldcanada.com/article/five-tips-to-boost-your-customer-experience/447876)
-- [All the Teams updates announced at Microsoft Build 2021](https://www.itworldcanada.com/article/all-the-teams-updates-announced-at-microsoft-build-2021/447864)
-- [Cyber Security Today, May 28, 2021 – Another warning for Fortinet device users; A movie site scam; Don’t be tricked by ads on search engines](https://www.itworldcanada.com/article/cyber-security-today-may-28-2021-another-warning-for-fortinet-device-users-a-movie-site-scam-and-dont-be-tricked-by-ads-on-search-engines/447859)
-- [Hashtag Trending, May 28, 2021 – Jeff Bezos to step down in July; Facebook updates its fact checking process; Canada Post hit with malware](https://www.itworldcanada.com/article/hashtag-trending-may-28-2021-jeff-bezos-to-step-down-in-july-facebook-updates-its-fact-checking-process-canada-post-hit-with-malware/447869)
-- [User data on 950,000 packages exposed after Canada Post falls victim to third-party hack](https://www.itworldcanada.com/article/user-data-on-950000-packages-exposed-after-canada-post-falls-victim-to-third-party-hack/447854)
-- [Ottawa ‘grateful’ for Ransomware Task Force’s recent work](https://www.itworldcanada.com/article/ottawa-grateful-for-work-of-ransomware-task-force/447407)
-- [ThinkOn launches cloud marketplace for Canada’s public sector with QuickSilk as initial member](https://www.itworldcanada.com/article/thinkon-launches-cloud-marketplace-for-canadas-public-sector-with-quicksilk-as-initial-member/447824)
-- [Hashtag Trending, May 27, 2021 – Amazon buys MGM; FICO report reveals ethical AI not top of mind among companies; Amazon under criticism for poor working conditions](https://www.itworldcanada.com/article/hashtag-trending-may-27-2021-amazon-buys-mgm-fico-report-reveals-companies-are-not-creating-inclusive-ai-amazon-under-criticism-for-poor-working-conditions/447818)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How computational storage delivers datacentre benefits](https://www.computerweekly.com/feature/How-computational-storage-delivers-datacentre-benefits)
 - [Privacy experts concerned over NHS data collection plans](https://www.computerweekly.com/news/252501494/Privacy-experts-concerned-over-NHS-data-collection-plans)
 - [IR35 reforms: Blanket-banning firms risk losing contractors and suffering reputational damage](https://www.computerweekly.com/news/252501558/IR35-reforms-Blanket-banning-firms-risk-losing-contractors-and-suffering-reputational-damage)
 - [BCS demands reform to rules on computer evidence following Post Office Horizon scandal revelations](https://www.computerweekly.com/news/252501510/BCS-demands-reform-to-rules-on-computer-evidence-following-Post-Office-Horizon-scandal-revelations)
@@ -400,7 +401,6 @@
 - [TCS opens its first European innovation centre in Amsterdam](https://www.computerweekly.com/news/252501490/TCS-opens-its-first-European-innovation-centre-in-Amsterdam)
 - [Security ops teams struggle to switch off at home](https://www.computerweekly.com/news/252501485/Security-ops-teams-struggle-to-switch-off-at-home)
 - [Build 2021: Microsoft targets multicloud developers](https://www.computerweekly.com/news/252501483/Build-2021-Microsoft-targets-multicloud-developers)
-- [How supply chain digitisation is paving the way to gene therapy](https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

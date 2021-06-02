@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Animals/a_queer_fish_474.php" target="_blank"><i>a queer fish</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Death/dead_in_the_water_614.php" target="_blank"><i>dead in the water</i></a>
 <span> = </span>
-<span>If someone's a queer fish, they are a bit strange and can sometimes behave in an unusual way.</span>
+<span>If something is dead in the water, it has no chance of succeeding or of making any progress.<BR></span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

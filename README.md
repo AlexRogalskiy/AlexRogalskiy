@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/L/launch_into_2528.php" target="_blank"><i>launch into</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/weigh_down_2398.php" target="_blank"><i>weigh down</i></a>
 <span> = </span>
-<span>to start off something, like a speech or a song, in an energetic way</span>
+<span>If you're weighed down by problems or responsibilities, you feel stressed or unhappy because of them.<BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

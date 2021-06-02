@@ -340,16 +340,16 @@ peeler’s wife. Smell me.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In Search of the New](https://society.robinsloan.com/archive/in-search-of-the-new/)
-- [Fitbit may soon be adding snoring detection to its devices](https://www.theverge.com/2021/5/29/22459675/fitbit-snoring-detection-fitness-trackers-smartwatch-sleep-animal)
-- [Libravatar: Federated Avatar Hosting Service](https://www.libravatar.org/)
-- [Testing in the Twenties](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
-- [KKR and CD&R Close to $4.7B Deal to Buy Out Cloudera](https://www.bloomberg.com/news/articles/2021-06-01/kkr-cd-r-close-to-deal-to-take-cloudera-private-dow-jones-says)
-- [Two Tiny Dual-Gigabit Raspberry Pi CM4 Routers](https://www.jeffgeerling.com/blog/2021/two-tiny-dual-gigabit-raspberry-pi-cm4-routers)
-- [Japan approves chip development project with Taiwan's TSMC](https://au.finance.yahoo.com/news/japan-approves-chip-development-project-033949286.html)
-- [New App Aims to Compete with Uber, Lyft While Giving NY Drivers a Living Wage](https://www.npr.org/2020/12/05/943454048/new-app-aims-to-compete-with-uber-lyft-while-giving-new-york-drivers-a-living-wa)
-- [How and Why I Built My Own Bellows-Style Dynamic Digital View Camera](https://petapixel.com/2020/11/03/how-and-why-i-built-my-own-bellows-style-dynamic-digital-view-camera/)
-- [Miami marks tech hub milestone with crypto conference](https://www.miamiherald.com/news/business/article251719833.html)
+- [6MiB DNS stub: rapidness, silence, secure bootstrapping; CECPQ2 quiz](https://github.com/AZ-X)
+- ['Coins like ethereum are going to be a lot higher:' Jim Bianco](https://www.mistrydeep.com/2021/05/reddit-users-ethereum.html)
+- [Producing a trustworthy x86-based Linux appliance](https://mjg59.dreamwidth.org/57199.html)
+- [The Virtual Flute](http://flute.fingerings.info/)
+- [Firefox now blocks cross-site tracking by default in private browsing](https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/)
+- [The Loneliness of the Long Distance Worker](https://workforcefuturist.substack.com/p/the-loneliness-of-the-long-distance-worker)
+- [Amazon Now Supports Federal Cannabis Legalization](https://www.forbes.com/sites/willyakowicz/2021/06/01/amazon-now-supports-federal-cannabis-legalization/)
+- [Buying a pink NFT cat was a crypto nightmare](https://www.bbc.com/news/technology-57273904)
+- [Bitwarden Experiencing Outages](https://twitter.com/Bitwarden/status/1399942589520900099)
+- [How to find profitable opportunities on the Shopify app store](https://opportunities.so/shopify-apps/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

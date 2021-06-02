@@ -241,8 +241,47 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652721822600691712" target="_blank"><i>It Is This Way with Men</i></a></summary>
-<p>by C.K. Williams</p><p>They are pounded into the Earth<br/>like nails; move an inch,<br/>they are driven down again.<br/>The earth is sore with them.<br/>It is a spiny fruit<br/>that has lost hope<br/>of being raised and eaten.<br/>It can only ripen and ripen.<br/>And men, they too are wounded.<br/>They too are sifted from their loss<br/>and are without hope. The core<br/>softens. The pure flesh softens<br/>and melts. There are thorns, there<br/>are the dark seeds, and they end.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652812453379440640" target="_blank"><i>The Cinnamon Peeler’s Wife</i></a></summary>
+<p>by Michael Ondaatje</p><p>If I were a cinnamon peeler<br/>
+I would ride your bed<br/>
+and leave the yellow bark dust<br/>
+on your pillow.</p><p>Your breasts and shoulders would reek<br/>
+you could never walk through markets<br/>
+without the profession of my fingers<br/>
+floating over you. The blind would<br/>
+stumble certain of whom they approached<br/>
+though you might bathe<br/>
+under rain gutters, monsoon.</p><p>Here on the upper thigh<br/>
+at this smooth pasture<br/>
+neighbor to your hair<br/>
+or the crease<br/>
+that cuts your back. This ankle.<br/>
+You will be known among strangers<br/>
+as the cinnamon peeler’s wife.</p><p>I could hardly glance at you<br/>
+before marriage<br/>
+never touch you<br/>
+&ndash;your keen nosed mother, your rough brothers.<br/>
+I buried my hands<br/>
+in saffron, disguised them<br/>
+over smoking tar,<br/>
+helped the honey gatherers…</p><p>When we swam once<br/>
+I touched you in water<br/>
+and our bodies remained free,<br/>
+you could hold me and be blind of smell.<br/>
+You climbed the bank and said</p><p>this is how you touch other women<br/>
+the grasscutter’s wife, the lime burner’s daughter.<br/>
+And you searched your arms<br/>
+for the missing perfume.<br/>
+and knew<br/>
+what good is it<br/>
+to be the lime burner’s daughter<br/>
+left with no trace<br/>
+as if not spoken to in an act of love<br/>
+as if wounded without the pleasure of scar.</p><p>You touched<br/>
+your belly to my hands<br/>
+in the dry air and said<br/>
+I am the cinnamon<br/>
+peeler’s wife. Smell me.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Xiaomi's New Tech Fully Charges a Phone in Eight Minutes at 200W](https://www.reviewgeek.com/85966/xiaomis-new-tech-fully-charges-a-phone-in-eight-minutes-at-200w/)
-* [Walmart's New Android TV Stick Is the Cheapest We've Seen Yet](https://www.reviewgeek.com/85957/walmarts-new-android-tv-stick-is-the-cheapest-weve-seen-yet/)
-* [Have Video Games Gotten Too Ambitious?](https://www.reviewgeek.com/67396/have-video-games-gotten-too-ambitious/)
-* [Minecraft 'Caves and Cliffs Update Part 1' Coming June 8th](https://www.reviewgeek.com/85945/minecraft-caves-cliffs-update-part-1-coming-june-8th/)
-* [Why You Shouldn't Spend More Than $500 on Your Next Phone](https://www.reviewgeek.com/52521/why-you-shouldnt-spend-more-than-500-on-your-next-phone/)
-* [Ford's Electric F-150 Lightning Could Far Exceed 300-Mile Range](https://www.reviewgeek.com/85938/fords-electric-f-150-lightning-could-far-exceed-300-mile-range/)
-* [The 5 Best Triple Monitor Mounts](https://www.reviewgeek.com/82615/the-5-best-triple-monitor-mounts/)
-* [How to Disable Chromecast Media Controls in Google Chrome](https://www.howtogeek.com/721011/how-to-disable-chromecast-media-controls-in-google-chrome/)
-* [How to Change the Currency Symbol in Google Sheets](https://www.howtogeek.com/725762/how-to-change-the-currency-symbol-in-google-sheets/)
-* [7 Great Apps for Customizing Android](https://www.reviewgeek.com/53327/7-great-apps-for-customizing-android/)
+* ['Far Cry' Leaves Consoles Behind for Zero Latency's VR Arcades](https://www.reviewgeek.com/86127/far-cry-leaves-consoles-behind-for-zero-latencys-vr-arcades/)
+* [NVIDIA's New GeForce RTX 3080 Ti Is $1,199 but Good Luck Finding One](https://www.reviewgeek.com/86084/nvidias-new-geforce-rtx-3080-ti-is-1199-but-good-luck-finding-one/)
+* [What Are SBOMs and What Do They Mean to Open-Source Software?](https://www.cloudsavvyit.com/11618/what-are-sboms-and-what-do-they-mean-to-open-source-software/)
+* [How to Automate Docker Security Audits with Docker Bench for Security](https://www.cloudsavvyit.com/11563/how-to-automate-docker-security-audits-with-docker-bench-for-security/)
+* [Rimac's Electric Hypercar Costs $2 Million, and There's Only 150 Being Made](https://www.reviewgeek.com/86055/rimacs-electric-hypercar-costs-2-million-and-theres-only-150-being-made/)
+* [Banana! Fitbit Launches 'Minions' Fitness Tracker for Kids](https://www.reviewgeek.com/86048/banana-fitbit-launches-minions-fitness-tracker-for-kids/)
+* [9 Novels That Put a Spin On Popular Fairy Tales](https://www.lifesavvy.com/72734/9-novels-that-put-a-spin-on-popular-fairy-tales/)
+* [Wyze Really Sucks: Opens Up Pre-Orders for a $119 Stick Vacuum](https://www.reviewgeek.com/86022/wyze-really-sucks-opens-up-pre-orders-for-a-119-stick-vacuum/)
+* [PSA: Google Photos' Unlimited Storage Is No More---Here Are the Best Alternatives](https://www.reviewgeek.com/82060/psa-google-photos-unlimited-storage-is-ending-here-are-the-best-alternatives/)
+* [Raspberry Pi RP2040 Gets a Real Price, and It's a Dollar](https://www.reviewgeek.com/86021/raspberry-pi-rp2040-gets-a-real-price-and-its-a-dollar/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

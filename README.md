@@ -385,16 +385,16 @@ peeler’s wife. Smell me.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Jamf updates target enterprise iPad and iPhone sharing](https://www.computerworld.com/article/3620437/jamf-updates-target-enterprise-ipad-and-iphone-sharing.html#tk.rss_all)
+- [It’s not me, it’s you: How to keep up with Microsoft cloud services trouble](https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html#tk.rss_all)
+- [To secure your remote workforce, lock down ‘your’ computers](https://www.computerworld.com/article/3620209/to-secure-your-remote-workforce-lock-down-your-computers.html#tk.rss_all)
+- [Chrome OS expands its operating system reach](https://www.computerworld.com/article/3620229/chrome-os-expands-its-operating-system-reach.html#tk.rss_all)
 - [WWDC 2021: It’s all about the chips](https://www.computerworld.com/article/3620414/wwdc-2021-its-all-about-the-chips.html#tk.rss_all)
 - [Microsoft Teams gets Fluid components, ‘main stage’ meeting app integrations](https://www.computerworld.com/article/3620280/microsoft-teams-gets-fluid-components-main-stage-meeting-app-integrations.html#tk.rss_all)
 - [US gov’t plans for remote workers could spur private-sector push, too](https://www.computerworld.com/article/3620091/us-gov-t-plans-for-remote-workers-could-spur-private-sector-push-too.html#tk.rss_all)
 - [The 'gig economy' is a two-way street](https://www.computerworld.com/article/3619637/the-gig-economy-is-a-two-way-street.html#tk.rss_all)
 - [At Microsoft Build, a tech demo reborn as a sitcom](https://www.computerworld.com/article/3620228/at-microsoft-build-a-tech-demo-reborn-as-a-sitcom.html#tk.rss_all)
 - [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [BrandPost: What’s next for Fintech, and how banks can leverage new-wave technologies to deliver superior services to all](https://www.computerworld.com/article/3620233/what-s-next-for-fintech-and-how-banks-can-leverage-new-wave-technologies-to-deliver-superior-servic.html#tk.rss_all)
-- [10 helpful iPhone tips to use at work](https://www.computerworld.com/article/3620274/10-helpful-iphone-tips-to-use-at-work.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

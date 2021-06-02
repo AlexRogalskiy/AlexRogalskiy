@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/N/nifty_1450.php" target="_blank"><i>nifty</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/H/hooker_1178.php" target="_blank"><i>hooker</i></a>
 <span> = </span>
-<span>skillful, agile, very good</span>
+<span>a female prostitute, a woman who provides sexual services for payment</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -445,16 +445,16 @@ peeler’s wife. Smell me.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Capstone Project Dilemma](https://www.reddit.com/r/InformationTechnology/comments/nq0x7p/capstone_project_dilemma/)
+- [Windows servers](https://www.reddit.com/r/InformationTechnology/comments/npxl3c/windows_servers/)
+- [Computers(IT) Career change](https://www.reddit.com/r/InformationTechnology/comments/npwq4d/computersit_career_change/)
+- [How to protect your Web based software application from hackers in 2021](https://www.reddit.com/r/InformationTechnology/comments/npqxp3/how_to_protect_your_web_based_software/)
 - [Company laptop/Windows license stolen](https://www.reddit.com/r/InformationTechnology/comments/npd3wo/company_laptopwindows_license_stolen/)
 - [Advice](https://www.reddit.com/r/InformationTechnology/comments/npckv4/advice/)
 - [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
 - [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
 - [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
 - [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
-- [Looking to get into IT/MIS](https://www.reddit.com/r/InformationTechnology/comments/nnr766/looking_to_get_into_itmis/)
-- [Worth learning?](https://www.reddit.com/r/InformationTechnology/comments/nmzgp4/worth_learning/)
-- [Anyone switched from Docuware to Sharepoint? Is it possible?](https://www.reddit.com/r/InformationTechnology/comments/nmykl2/anyone_switched_from_docuware_to_sharepoint_is_it/)
-- [Using a decentralised computing power network for Molecular Dynamics Simulations via a cryptocurrency. Thoughts?](https://www.reddit.com/r/InformationTechnology/comments/nmv02r/using_a_decentralised_computing_power_network_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

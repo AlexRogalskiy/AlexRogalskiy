@@ -370,16 +370,16 @@ peeler’s wife. Smell me.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California's math overhaul focuses on equity](https://www.latimes.com/california/story/2021-05-20/california-controversial-math-overhaul-focuses-on-equity)
-- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
-- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
-- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
-- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
-- [Oceanbase, yet another open source HTAP database](https://github.com/oceanbase/oceanbase)
-- [New report details Beijing’s foreign influence operations in Canada](https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/)
-- [Sevenhugs exits the universal remote business](https://support.sevenhugs.com/t/35hfcvg)
-- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Event-Based Backpropagation for Exact Gradients in Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
+- [Pesticides Are Killing the World's Soils](https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/)
+- [Amazon backs marijuana legalization, drops weed testing for some jobs](https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/)
+- [DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses](https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/)
+- [DIY Book Scanner](https://www.diybookscanner.org/)
+- [Show HN: Floptimal – Preflop ranges reimagined](https://floptimal.com)
+- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [A Secure and Formally Verified Linux KVM Hypervisor [pdf]](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
+- [William Byrd on logic and relational programming, miniKanren (2014)](https://www.infoq.com/interviews/byrd-relational-programming-minikanren/)
+- [One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack](https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,16 +355,16 @@ peeler’s wife. Smell me.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Disaster patriarchy: how the pandemic has unleashed a war on women](https://www.theguardian.com/lifeandstyle/2021/jun/01/disaster-patriarchy-how-the-pandemic-has-unleashed-a-war-on-women)
-- [Why every single statue should come down | Gary Younge](https://www.theguardian.com/artanddesign/2021/jun/01/gary-younge-why-every-single-statue-should-come-down-rhodes-colston)
-- [Wild night out: how a nocturnal walk in the woods can reconnect us with nature](https://www.theguardian.com/environment/2021/jun/01/wild-night-out-a-nocturnal-stroll-in-the-woods-reconnects-us-with-nature-aoe)
-- [TV tonight: Jodie Turner-Smith stars in a new take on Anne Boleyn](https://www.theguardian.com/tv-and-radio/2021/jun/01/tv-tonight-jodie-turner-smith-stars-in-a-new-take-on-anne-boleyn)
-- [Bank of England monitors UK housing boom as it weighs inflation risk](https://www.theguardian.com/business/2021/jun/01/bank-of-england-monitors-uk-housing-boom-as-it-weighs-inflation-risk-dave-ramsden-covid)
-- [Mark Rylance: arts should tell ‘love stories’ about nature to tackle climate crisis](https://www.theguardian.com/culture/2021/jun/01/mark-rylance-arts-should-tell-love-stories-about-nature-to-tackle-climate-crisis)
-- [Refugee women and children ‘at risk of being abandoned’ in Home Office policy shift](https://www.theguardian.com/world/2021/jun/01/refugee-women-and-children-at-risk-of-being-abandoned-in-home-office-policy-shift)
-- [‘They had soul’: Anton Corbijn on 40 years shooting Depeche Mode](https://www.theguardian.com/music/2021/jun/01/anton-corbijn-on-40-years-shooting-depeche-mode)
-- [Glasgow to plant 18m trees as city readies for Cop26 climate summit](https://www.theguardian.com/uk-news/2021/jun/01/glasgow-to-plant-18m-trees-as-city-readies-for-cop26-climate-summit)
-- [World’s only alpine parrot may have moved to the mountains to avoid people](https://www.theguardian.com/world/2021/jun/01/new-zealands-alpine-parrot-could-have-moved-to-the-mountains-to-avoid-people)
+- [Christina Hendricks: ‘We were critically acclaimed – and everyone wanted to ask me about my bra’](https://www.theguardian.com/culture/2021/jun/02/christina-hendricks-we-were-critically-acclaimed-and-everyone-wanted-to-ask-me-about-my-bra)
+- [China’s new three-child policy won’t fix its economy – but it could change lives | Stuart Gietel-Basten](https://www.theguardian.com/commentisfree/2021/jun/02/chinas-three-child-policy-economy-ageing-population)
+- [UK rights watchdog endorses compulsory Covid jabs for care home staff](https://www.theguardian.com/society/2021/jun/02/uk-rights-watchdog-endorses-compulsory-covid-jabs-for-care-home-staff)
+- [Thousands of asylum seekers go hungry after cash card problems](https://www.theguardian.com/uk-news/2021/jun/02/thousands-of-asylum-seekers-go-hungry-after-cash-card-problems)
+- [And the bride wore … a rental gown: is hiring clothes the future of fashion?](https://www.theguardian.com/fashion/2021/jun/02/and-the-bride-wore-a-rental-gown-is-hiring-clothes-the-future-of-fashion)
+- [G7 nations committing billions more to fossil fuel than green energy](https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy)
+- [‘Courageous’: Japanese athletes and sponsors voice support for Naomi Osaka](https://www.theguardian.com/sport/2021/jun/02/courageous-japanese-athletes-and-sponsors-voice-support-for-naomi-osaka)
+- [US secretary of state warns Pacific leaders about ‘coercion’ in veiled swipe at China](https://www.theguardian.com/world/2021/jun/02/antony-blinken-warns-pacific-leaders-about-coercion-in-veiled-swipe-at-china)
+- [‘Zero’: how the UK papers covered a day without a single reported Covid death](https://www.theguardian.com/world/2021/jun/02/zero-how-the-uk-papers-covered-a-day-without-a-single-reported-covid-death)
+- [Israeli opposition parties face midnight deadline to form government](https://www.theguardian.com/world/2021/jun/02/israeli-opposition-parties-face-midnight-deadline-to-form-government)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_2/Speech_is_silver_silence_is_golden_940.php" target="_blank"><i>Speech is silver, silence is golden</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/One_tongue_is_enough_for_a_woman_508.php" target="_blank"><i>One tongue is enough for a woman</i></a>
 <span> = </span>
-<span>Speaking is good but saying nothing is better. Discretion can be worth more than even eloquent words.</span>
+<span>Some people think that women talk too much. If they already talk too much, they don't need another tongue. One tongue is sufficient (but see Origin below).</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

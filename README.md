@@ -460,6 +460,9 @@ peeler’s wife. Smell me.</p>
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canada’s Top Women in Fintech and Blockchain honouree roundup](https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894)
+- [Coffee Briefing, June 1, 2021 – Big tech and biometric data; updates from CompTIA, CENGN; and more](https://www.itworldcanada.com/article/coffee-briefing-june-1-2021-big-tech-and-biometric-data-updates-from-comptia-cengn-and-more/454159)
+- [Hashtag Trending, June 1, 2021- Amazon sharing customers internet; Silicon Six tax accusations; Chip shortage could take years to fix](https://www.itworldcanada.com/article/hashtag-trending-june-1-2021-amazon-sharing-customers-internet-silicon-six-tax-accusations-chip-shortage-could-take-years-to-fix/454143)
 - [B.C. government extends PNP Tech Pilot indefinitely, renames it to BC PNP Tech](https://www.itworldcanada.com/article/b-c-government-extends-pnp-tech-pilot-indefinitely-renames-it-to-bc-pnp-tech/454135)
 - [The CRTC scrapped cheaper internet costs, so what should Canadians know?](https://www.itworldcanada.com/article/the-crtc-scrapped-cheaper-internet-costs-so-what-should-canadians-know/454120)
 - [Shedding business complexity leads to simplified cybersecurity](https://www.itworldcanada.com/article/shedding-business-complexity-leads-to-simplified-cybersecurity/454131)
@@ -467,9 +470,6 @@ peeler’s wife. Smell me.</p>
 - [Microsoft Build announcements at a glance: Azure, Power platform get major updates](https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108)
 - [Cyber Security Today, May 31, 2021 – Canadians still fall for Windows support scams, new Nobelium attacks and another warning to Pulse Secure VPN users](https://www.itworldcanada.com/article/cyber-security-today-may-31-2021-canadians-still-fall-for-windows-support-scams-new-nobelium-attacks-and-another-warning-to-pulse-secure-vpn-users/447909)
 - [Hashtag Trending, May 31, 2021 – $600M class-action lawsuit against Google; Iran bans cryptomining; Google’s collection of location data](https://www.itworldcanada.com/article/hashtag-trending-may-31-2021-600m-class-action-lawsuit-against-google-iran-bans-cryptomining-googles-collection-of-location-data/454104)
-- [Deloitte’s global Women in Cyber campaign encourages diversity in the workforce](https://www.itworldcanada.com/article/deloittes-global-women-in-cyber-campaign-encourages-diversity-in-the-workforce/447726)
-- [Cyber Security Today, Week in Review for May 28, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-28-2021/447838)
-- [Five tips to boost your customer experience](https://www.itworldcanada.com/article/five-tips-to-boost-your-customer-experience/447876)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

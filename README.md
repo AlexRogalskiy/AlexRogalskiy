@@ -312,7 +312,7 @@ peeler’s wife. Smell me.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>10°C (<i>fog</i>), humidity: 66%, pressure: 1032 (mbar), wind: /west/ 2 (m/s), cloudy: 55%</b>
+        <b>15°C (<i>clear sky</i>), humidity: 51%, pressure: 1033 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:46 am</b> and sets at <b>22:08 pm</b>.
     </p>

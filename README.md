@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Catching up on Build 2021: AI and Arm](https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html#tk.rss_all)
+- [Angular team streamlines feature requests](https://www.infoworld.com/article/3620239/angular-team-streamlines-feature-requests.html#tk.rss_all)
+- [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_all)
 - [Finding shareable solution patterns in cloud architecture](https://www.infoworld.com/article/3620252/finding-shareable-solution-patterns-in-cloud-architecture.html#tk.rss_all)
 - [How to use closures in C#](https://www.infoworld.com/article/3620248/how-to-use-closures-in-csharp.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Open source’s diversity problem](https://www.infoworld.com/article/3620290/open-sources-diversity-problem.html#tk.rss_all)
 - [Most cloud security problems breathe](https://www.infoworld.com/article/3620291/most-cloud-security-problems-breathe.html#tk.rss_all)
 - [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
-- [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_all)
-- [Microsoft’s Java build turns GA](https://www.infoworld.com/article/3620390/microsofts-java-build-turns-ga.html#tk.rss_all)
-- [Visual Studio 2019 upgrade brings C++ 20 support](https://www.infoworld.com/article/3620271/visual-studio-2019-upgrade-brings-c-20-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

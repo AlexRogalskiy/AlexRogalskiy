@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Event-Based Backpropagation for Exact Gradients in Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
-- [Pesticides Are Killing the World's Soils](https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/)
-- [Amazon backs marijuana legalization, drops weed testing for some jobs](https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/)
-- [DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses](https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/)
-- [DIY Book Scanner](https://www.diybookscanner.org/)
-- [Show HN: Floptimal – Preflop ranges reimagined](https://floptimal.com)
-- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [A Secure and Formally Verified Linux KVM Hypervisor [pdf]](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
-- [William Byrd on logic and relational programming, miniKanren (2014)](https://www.infoq.com/interviews/byrd-relational-programming-minikanren/)
-- [One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack](https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs)
+- [Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management](https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27375951)
+- [Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine](https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1)
+- [Ransomware – Unauthorized access to Fujifilm servers](https://www.fujifilm.com/jp/en/news/hq/6642#)
+- [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
+- [Apple asks staff to return to office 3 days a week starting in early September](https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september)
+- [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+- [Italian Car Design History](https://www.cardesignhistory.com/)
+- [Wyoming site of new nuclear power plant from Bill Gates' TerraPower](https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html)
+- [Show HN: Transform a CSV into a JSON and vice versa](https://jsonmatic.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

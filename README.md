@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/W/weigh_down_2398.php" target="_blank"><i>weigh down</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/H/heat_up_1__1951.php" target="_blank"><i>heat up (1)</i></a>
 <span> = </span>
-<span>If you're weighed down by problems or responsibilities, you feel stressed or unhappy because of them.<BR></span>
+<span>If you heat something up, you make it hotter.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

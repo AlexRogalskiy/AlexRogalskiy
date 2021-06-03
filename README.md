@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6d&#x2F;a0&#x2F;7e&#x2F;6da07ec74c7a9e6147a8532148d44a12.jpg" alt="The Word of the Day is important, even when it&#39;s stultify. Want more? Click for example sentences, pronunciation, and our free podcast." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;25&#x2F;dd&#x2F;7225dd94d8950b3dabc8da52afceb9d2.jpg" alt="Allow us to interlard your vocabulary with this #WordOfTheDay. Want more examples? Head to Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9b&#x2F;47&#x2F;51&#x2F;9b475157e388f573387144ab5e15bac1.jpg" alt="Remembrancer is the #WordOfTheDay. Click to get example sentences and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;55&#x2F;16&#x2F;da&#x2F;5516da2040458b2a82e216490a94fbb2.jpg" alt="Acme is the #WordOfTheDay. It doesn&#39;t get any better than this. Click to learn more from the world&#39;s leading digital dictionary. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;47&#x2F;a0&#x2F;f9&#x2F;47a0f97532239b0835c383d179fd8e02.jpg" alt="Pièce de résistance is the Word of the Day, but we love all of our words equally. Want more? Click for example sentences and pronunciation. Mind You, Word Of The Day, New Words, Sentences, Vocabulary, Learning, Frases, Studying, Teaching" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>21°C (<i>clear sky</i>), humidity: 43%, pressure: 1029 (mbar), wind: /north/ 0 (m/s), cloudy: 0%</b>
+        <b>22°C (<i>clear sky</i>), humidity: 45%, pressure: 1027 (mbar), wind: /north/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:46 am</b> and sets at <b>22:08 pm</b>.
     </p>

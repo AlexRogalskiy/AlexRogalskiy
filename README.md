@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Men_and_Women/One_tongue_is_enough_for_a_woman_508.php" target="_blank"><i>One tongue is enough for a woman</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Let_the_dead_bury_the_dead_869.php" target="_blank"><i>Let the dead bury the dead</i></a>
 <span> = </span>
-<span>Some people think that women talk too much. If they already talk too much, they don't need another tongue. One tongue is sufficient (but see Origin below).</span>
+<span>This is generally taken to imply that we should spend our time and energy on living people, not on dead people. (But see Origin below.)</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

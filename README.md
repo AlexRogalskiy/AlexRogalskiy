@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [6MiB DNS stub: rapidness, silence, secure bootstrapping; CECPQ2 quiz](https://github.com/AZ-X)
-- ['Coins like ethereum are going to be a lot higher:' Jim Bianco](https://www.mistrydeep.com/2021/05/reddit-users-ethereum.html)
-- [Producing a trustworthy x86-based Linux appliance](https://mjg59.dreamwidth.org/57199.html)
-- [The Virtual Flute](http://flute.fingerings.info/)
-- [Firefox now blocks cross-site tracking by default in private browsing](https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/)
-- [The Loneliness of the Long Distance Worker](https://workforcefuturist.substack.com/p/the-loneliness-of-the-long-distance-worker)
-- [Amazon Now Supports Federal Cannabis Legalization](https://www.forbes.com/sites/willyakowicz/2021/06/01/amazon-now-supports-federal-cannabis-legalization/)
-- [Buying a pink NFT cat was a crypto nightmare](https://www.bbc.com/news/technology-57273904)
-- [Bitwarden Experiencing Outages](https://twitter.com/Bitwarden/status/1399942589520900099)
-- [How to find profitable opportunities on the Shopify app store](https://opportunities.so/shopify-apps/)
+- [A guide to linting Go programs](https://freshman.tech/linting-golang/)
+- [Bertrand Serlet to Steve Jobs: “Fine, Let's Enable Cocoa Touch Apps”](https://twitter.com/techemails/status/1400270458608664577)
+- [Spek – Acoustic Spectrum Analyser](http://spek.cc/)
+- [Talks break down over crumbling Yemeni tanker threatening massive oil spill](https://news.mongabay.com/2021/06/talks-break-down-over-crumbling-yemeni-tanker-threatening-massive-oil-spill/)
+- [Coronavirus (Covid-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
+- [Powershellgallery.com Cert Has Expired](https://github.com/PowerShell/PowerShellGallery/issues/166)
+- [Plant AI: A Hackathon Project](https://techcommunity.microsoft.com/t5/green-tech-blog/plant-ai-student-ambassador-green-a-thon-activity-report/ba-p/2348875)
+- [2021 – The Year Windows Became a First Class Python Development Environment](https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html)
+- [Work in Progress: PHP support for F# (Fable) merged](https://github.com/fable-compiler/Fable/pull/2447)
+- [A 300-Year-Old Tale of One Woman's Quest to Stop a Deadly Virus](https://www.npr.org/sections/health-shots/2021/03/08/972978143/a-300-year-old-tale-of-one-womans-quest-to-stop-a-deadly-virus)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

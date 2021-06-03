@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Scottish businesses missing out on Cyber Essentials benefits](https://www.computerweekly.com/news/252501744/Scottish-businesses-missing-out-on-Cyber-Essentials-benefits)
+- [Can we rely on AI?](https://www.computerweekly.com/opinion/Can-we-rely-on-AI)
+- [What the Telecommunications (Security) Bill means for UK industry](https://www.computerweekly.com/feature/What-the-Telecommunications-Security-Bill-means-for-UK-industry)
+- [Buying a VPN? Here’s what you need to know](https://www.computerweekly.com/feature/Buying-a-VPN-Heres-what-you-need-to-know)
+- [Security Think Tank: Printer risks go deep into IT history](https://www.computerweekly.com/opinion/Security-Think-Tank-Printer-risks-go-deep-into-IT-history)
+- [SA-based MSP shuns HCI for Nebulon cloud-defined storage](https://www.computerweekly.com/news/252501737/SA-based-MSP-shuns-HCI-for-Nebulon-cloud-defined-storage)
+- [HPE latest quarterly filing hints at ProLiant shift](https://www.computerweekly.com/news/252501736/HPE-latest-quarterly-filing-hints-at-ProLiant-shift)
+- [Mulberry bags Google Cloud support for data-driven sales push during Covid-19](https://www.computerweekly.com/news/252501735/Mulberry-bags-Google-Cloud-support-for-data-driven-sales-push-during-Covid-19)
 - [Long-term thinking is vital to secure UK’s critical infrastructure](https://www.computerweekly.com/opinion/Long-term-thinking-is-vital-to-secure-UKs-critical-infrastructure)
 - [European-led consortium investigates quantum cryptography](https://www.computerweekly.com/news/252501687/European-led-consortium-investigates-quantum-cryptography)
-- [Gartner: How to turn old datacentres into critical IT assets](https://www.computerweekly.com/feature/Gartner-How-to-turn-old-datacentres-into-critical-IT-assets)
-- [Exagrid pays $2.6m to Conti ransomware attackers](https://www.computerweekly.com/news/252501665/Exagrid-pays-26m-to-Conti-ransomware-attackers)
-- [Sustained demand for PCs continues, at least for another 12 months](https://www.computerweekly.com/news/252501671/Sustained-demand-for-PCs-continues-at-least-for-another-12-months)
-- [Ex-IT manager stole over £800,000 from NHS trust](https://www.computerweekly.com/news/252501668/Ex-IT-manager-stole-over-800000-from-NHS-trust)
-- [Post Office scandal public inquiry finally begins after chances to address problems were ignored](https://www.computerweekly.com/news/252501656/Post-Office-scandal-public-inquiry-finally-begins-after-chances-to-address-problems-were-missed)
-- [The technology that enabled Covid-19 genome sequencing success](https://www.computerweekly.com/ezine/Computer-Weekly/The-technology-that-enabled-Covid-19-genome-sequencing-success)
-- [How computational storage delivers datacentre benefits](https://www.computerweekly.com/feature/How-computational-storage-delivers-datacentre-benefits)
-- [Privacy experts concerned over NHS data collection plans](https://www.computerweekly.com/news/252501494/Privacy-experts-concerned-over-NHS-data-collection-plans)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

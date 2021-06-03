@@ -185,17 +185,17 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Death/dead_in_the_water_614.php" target="_blank"><i>dead in the water</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Food/the_upper_crust_492.php" target="_blank"><i>the upper crust</i></a>
 <span> = </span>
-<span>If something is dead in the water, it has no chance of succeeding or of making any progress.<BR></span>
+<span>If you are one of the upper crust, you are a member of society's highest class.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/H/hooker_1178.php" target="_blank"><i>hooker</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/British/toff_1479.php" target="_blank"><i>toff</i></a>
 <span> = </span>
-<span>a female prostitute, a woman who provides sexual services for payment</span>
+<span>a wealthy, upper-class person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
@@ -241,47 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652812453379440640" target="_blank"><i>The Cinnamon Peeler’s Wife</i></a></summary>
-<p>by Michael Ondaatje</p><p>If I were a cinnamon peeler<br/>
-I would ride your bed<br/>
-and leave the yellow bark dust<br/>
-on your pillow.</p><p>Your breasts and shoulders would reek<br/>
-you could never walk through markets<br/>
-without the profession of my fingers<br/>
-floating over you. The blind would<br/>
-stumble certain of whom they approached<br/>
-though you might bathe<br/>
-under rain gutters, monsoon.</p><p>Here on the upper thigh<br/>
-at this smooth pasture<br/>
-neighbor to your hair<br/>
-or the crease<br/>
-that cuts your back. This ankle.<br/>
-You will be known among strangers<br/>
-as the cinnamon peeler’s wife.</p><p>I could hardly glance at you<br/>
-before marriage<br/>
-never touch you<br/>
-&ndash;your keen nosed mother, your rough brothers.<br/>
-I buried my hands<br/>
-in saffron, disguised them<br/>
-over smoking tar,<br/>
-helped the honey gatherers…</p><p>When we swam once<br/>
-I touched you in water<br/>
-and our bodies remained free,<br/>
-you could hold me and be blind of smell.<br/>
-You climbed the bank and said</p><p>this is how you touch other women<br/>
-the grasscutter’s wife, the lime burner’s daughter.<br/>
-And you searched your arms<br/>
-for the missing perfume.<br/>
-and knew<br/>
-what good is it<br/>
-to be the lime burner’s daughter<br/>
-left with no trace<br/>
-as if not spoken to in an act of love<br/>
-as if wounded without the pleasure of scar.</p><p>You touched<br/>
-your belly to my hands<br/>
-in the dry air and said<br/>
-I am the cinnamon<br/>
-peeler’s wife. Smell me.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/652903040066650113" target="_blank"><i>Fragment</i></a></summary>
+<p>by Sappho</p><p>Awed by her splendor <br/>stars near the lovely <br/>moon cover their own <br/>bright faces <br/>	when she <br/>is roundest and lights <br/>earth with her silver </p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -312,7 +273,7 @@ peeler’s wife. Smell me.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>10°C (<i>fog</i>), humidity: 66%, pressure: 1032 (mbar), wind: /west/ 2 (m/s), cloudy: 55%</b>
+        <b>15°C (<i>clear sky</i>), humidity: 51%, pressure: 1033 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:46 am</b> and sets at <b>22:08 pm</b>.
     </p>
@@ -325,81 +286,83 @@ peeler’s wife. Smell me.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* ['Far Cry' Leaves Consoles Behind for Zero Latency's VR Arcades](https://www.reviewgeek.com/86127/far-cry-leaves-consoles-behind-for-zero-latencys-vr-arcades/)
-* [NVIDIA's New GeForce RTX 3080 Ti Is $1,199 but Good Luck Finding One](https://www.reviewgeek.com/86084/nvidias-new-geforce-rtx-3080-ti-is-1199-but-good-luck-finding-one/)
-* [What Are SBOMs and What Do They Mean to Open-Source Software?](https://www.cloudsavvyit.com/11618/what-are-sboms-and-what-do-they-mean-to-open-source-software/)
-* [How to Automate Docker Security Audits with Docker Bench for Security](https://www.cloudsavvyit.com/11563/how-to-automate-docker-security-audits-with-docker-bench-for-security/)
-* [Rimac's Electric Hypercar Costs $2 Million, and There's Only 150 Being Made](https://www.reviewgeek.com/86055/rimacs-electric-hypercar-costs-2-million-and-theres-only-150-being-made/)
-* [Banana! Fitbit Launches 'Minions' Fitness Tracker for Kids](https://www.reviewgeek.com/86048/banana-fitbit-launches-minions-fitness-tracker-for-kids/)
-* [9 Novels That Put a Spin On Popular Fairy Tales](https://www.lifesavvy.com/72734/9-novels-that-put-a-spin-on-popular-fairy-tales/)
-* [Wyze Really Sucks: Opens Up Pre-Orders for a $119 Stick Vacuum](https://www.reviewgeek.com/86022/wyze-really-sucks-opens-up-pre-orders-for-a-119-stick-vacuum/)
-* [PSA: Google Photos' Unlimited Storage Is No More---Here Are the Best Alternatives](https://www.reviewgeek.com/82060/psa-google-photos-unlimited-storage-is-ending-here-are-the-best-alternatives/)
-* [Raspberry Pi RP2040 Gets a Real Price, and It's a Dollar](https://www.reviewgeek.com/86021/raspberry-pi-rp2040-gets-a-real-price-and-its-a-dollar/)
+* [Why You Should Use AWS Route 53 Over a "Dumb" DNS](https://www.cloudsavvyit.com/2031/why-you-should-use-aws-route-53-over-a-dumb-dns/)
+* [Don’t Wait for Wrapped: Spotify ‘Only You’ Shares Your Music Taste](https://www.howtogeek.com/732148/dont-wait-for-wrapped-spotify-only-you-shares-your-music-taste/)
+* [Huawei Is Back With a Powerhouse Phone, Watch, and New OS](https://www.reviewgeek.com/86223/huawei-is-back-with-a-phone-a-watch-and-an-os/)
+* [Wyze Wants You! ... To Vote On Its 'Murica-Themed Smartwatch](https://www.reviewgeek.com/86237/wyze-wants-you-to-vote-on-its-murica-themed-smartwatch/)
+* [Windows 11? Microsoft Reveals What's Next for Windows on June 24](https://www.reviewgeek.com/86234/windows-11-microsoft-reveals-whats-next-for-windows-on-june-24/)
+* [How to Use Sentry and GitLab to Capture React Errors](https://www.cloudsavvyit.com/11267/how-to-use-sentry-and-gitlab-to-capture-react-errors/)
+* [HBO Max Says Its New $10 Ad-Supported Tier Has Less Ads Than Other Services](https://www.reviewgeek.com/86225/hbo-max-says-its-new-10-ad-supported-tier-has-less-ads-than-other-services/)
+* [Pricing for BMW's New EVs Announced, Not All of Them Are Affordable](https://www.reviewgeek.com/86218/pricing-for-bmws-new-evs-announced-not-all-of-them-are-affordable/)
+* [Nintendo Switch Pro Rumor Roundup: Everything We Know So Far](https://www.reviewgeek.com/86187/nintendo-switch-pro-rumor-roundup-everything-we-know-so-far/)
+* [Goodbye LG's Mobile Payments Service That We Barely Knew Existed](https://www.reviewgeek.com/86206/goodbye-lgs-mobile-payments-service-that-we-barely-knew-existed/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [6MiB DNS stub: rapidness, silence, secure bootstrapping; CECPQ2 quiz](https://github.com/AZ-X)
-- ['Coins like ethereum are going to be a lot higher:' Jim Bianco](https://www.mistrydeep.com/2021/05/reddit-users-ethereum.html)
-- [Producing a trustworthy x86-based Linux appliance](https://mjg59.dreamwidth.org/57199.html)
-- [The Virtual Flute](http://flute.fingerings.info/)
-- [Firefox now blocks cross-site tracking by default in private browsing](https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-in-private-browsing/)
-- [The Loneliness of the Long Distance Worker](https://workforcefuturist.substack.com/p/the-loneliness-of-the-long-distance-worker)
-- [Amazon Now Supports Federal Cannabis Legalization](https://www.forbes.com/sites/willyakowicz/2021/06/01/amazon-now-supports-federal-cannabis-legalization/)
-- [Buying a pink NFT cat was a crypto nightmare](https://www.bbc.com/news/technology-57273904)
-- [Bitwarden Experiencing Outages](https://twitter.com/Bitwarden/status/1399942589520900099)
-- [How to find profitable opportunities on the Shopify app store](https://opportunities.so/shopify-apps/)
+- [A guide to linting Go programs](https://freshman.tech/linting-golang/)
+- [Bertrand Serlet to Steve Jobs: “Fine, Let's Enable Cocoa Touch Apps”](https://twitter.com/techemails/status/1400270458608664577)
+- [Spek – Acoustic Spectrum Analyser](http://spek.cc/)
+- [Talks break down over crumbling Yemeni tanker threatening massive oil spill](https://news.mongabay.com/2021/06/talks-break-down-over-crumbling-yemeni-tanker-threatening-massive-oil-spill/)
+- [Coronavirus (Covid-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
+- [Powershellgallery.com Cert Has Expired](https://github.com/PowerShell/PowerShellGallery/issues/166)
+- [Plant AI: A Hackathon Project](https://techcommunity.microsoft.com/t5/green-tech-blog/plant-ai-student-ambassador-green-a-thon-activity-report/ba-p/2348875)
+- [2021 – The Year Windows Became a First Class Python Development Environment](https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html)
+- [Work in Progress: PHP support for F# (Fable) merged](https://github.com/fable-compiler/Fable/pull/2447)
+- [A 300-Year-Old Tale of One Woman's Quest to Stop a Deadly Virus](https://www.npr.org/sections/health-shots/2021/03/08/972978143/a-300-year-old-tale-of-one-womans-quest-to-stop-a-deadly-virus)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Christina Hendricks: ‘We were critically acclaimed – and everyone wanted to ask me about my bra’](https://www.theguardian.com/culture/2021/jun/02/christina-hendricks-we-were-critically-acclaimed-and-everyone-wanted-to-ask-me-about-my-bra)
-- [China’s new three-child policy won’t fix its economy – but it could change lives | Stuart Gietel-Basten](https://www.theguardian.com/commentisfree/2021/jun/02/chinas-three-child-policy-economy-ageing-population)
-- [UK rights watchdog endorses compulsory Covid jabs for care home staff](https://www.theguardian.com/society/2021/jun/02/uk-rights-watchdog-endorses-compulsory-covid-jabs-for-care-home-staff)
-- [Thousands of asylum seekers go hungry after cash card problems](https://www.theguardian.com/uk-news/2021/jun/02/thousands-of-asylum-seekers-go-hungry-after-cash-card-problems)
-- [And the bride wore … a rental gown: is hiring clothes the future of fashion?](https://www.theguardian.com/fashion/2021/jun/02/and-the-bride-wore-a-rental-gown-is-hiring-clothes-the-future-of-fashion)
-- [G7 nations committing billions more to fossil fuel than green energy](https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy)
-- [‘Courageous’: Japanese athletes and sponsors voice support for Naomi Osaka](https://www.theguardian.com/sport/2021/jun/02/courageous-japanese-athletes-and-sponsors-voice-support-for-naomi-osaka)
-- [US secretary of state warns Pacific leaders about ‘coercion’ in veiled swipe at China](https://www.theguardian.com/world/2021/jun/02/antony-blinken-warns-pacific-leaders-about-coercion-in-veiled-swipe-at-china)
-- [‘Zero’: how the UK papers covered a day without a single reported Covid death](https://www.theguardian.com/world/2021/jun/02/zero-how-the-uk-papers-covered-a-day-without-a-single-reported-covid-death)
-- [Israeli opposition parties face midnight deadline to form government](https://www.theguardian.com/world/2021/jun/02/israeli-opposition-parties-face-midnight-deadline-to-form-government)
+- [‘Mourn June 4 in your own way’: Tiananmen Square events vanish amid crackdowns and Covid](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
+- [Bill Gates and Warren Buffett to build new kind of nuclear reactor in Wyoming](https://www.theguardian.com/us-news/2021/jun/03/bill-gates-warren-buffett-new-nuclear-reactor-wyoming-natrium)
+- [The Wuhan lab leak theory](https://www.theguardian.com/news/audio/2021/jun/03/the-wuhan-lab-leak-theory-podcast)
+- [China Communist party ‘striving for people’s happiness’, says Xi Jinping, in call for charm offensive](https://www.theguardian.com/world/2021/jun/02/china-communist-party-happiness-xi-jinping-negative-image)
+- [National Enquirer publisher fined over payment for Trump story](https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election)
+- [Gareth Southgate: England fans’ boos ‘feel like criticism’ of black players](https://www.theguardian.com/football/2021/jun/03/gareth-southgate-england-fans-boos-taking-knee)
+- [David Beckham buys stake in vehicle electrification firm](https://www.theguardian.com/business/2021/jun/03/david-beckham-buys-stakes-in-vehicle-electrification-firm)
+- [Euro 2020 team guides part 7: Finland](https://www.theguardian.com/football/2021/jun/03/euro-2020-team-guides-part-7-finland)
+- [Boris Johnson risks shock defeat over ‘devastating’ foreign aid cuts](https://www.theguardian.com/politics/2021/jun/02/boris-johnson-risks-shock-defeat-over-devastating-foreign-aid-cuts)
+- [Nasa plans return to Venus with two missions by 2030](https://www.theguardian.com/science/2021/jun/02/nasa-venus-return-two-missions)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Event-Based Backpropagation for Exact Gradients in Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
-- [Pesticides Are Killing the World's Soils](https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/)
-- [Amazon backs marijuana legalization, drops weed testing for some jobs](https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/)
-- [DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses](https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/)
-- [DIY Book Scanner](https://www.diybookscanner.org/)
-- [Show HN: Floptimal – Preflop ranges reimagined](https://floptimal.com)
-- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [A Secure and Formally Verified Linux KVM Hypervisor [pdf]](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
-- [William Byrd on logic and relational programming, miniKanren (2014)](https://www.infoq.com/interviews/byrd-relational-programming-minikanren/)
-- [One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack](https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs)
+- [Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management](https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27375951)
+- [Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine](https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1)
+- [Ransomware – Unauthorized access to Fujifilm servers](https://www.fujifilm.com/jp/en/news/hq/6642#)
+- [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
+- [Apple asks staff to return to office 3 days a week starting in early September](https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september)
+- [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+- [Italian Car Design History](https://www.cardesignhistory.com/)
+- [Wyoming site of new nuclear power plant from Bill Gates' TerraPower](https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html)
+- [Show HN: Transform a CSV into a JSON and vice versa](https://jsonmatic.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [When is a cybersecurity hole not a hole? Never](https://www.computerworld.com/article/3620889/when-is-a-cybersecurity-hole-not-a-hole-never.html#tk.rss_all)
+- [What's in the latest Firefox update? 89 debuts UI overhaul, Mozilla hopes to win back defectors](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-89-debuts-ui-overhaul-mozilla-hopes-to-win-back-defectors.html#tk.rss_all)
+- [WWDC 2021: Is Apple planning a 'homeOS' (that would also work in the office)?](https://www.computerworld.com/article/3620751/wwdc-2021-is-apple-planning-a-homeos-that-would-also-work-in-the-office.html#tk.rss_all)
+- [8 Outlook add-ins to enhance collaboration](https://www.computerworld.com/article/3619871/8-outlook-add-ins-to-enhance-collaboration.html#tk.rss_all)
 - [Jamf updates target enterprise iPad and iPhone sharing](https://www.computerworld.com/article/3620437/jamf-updates-target-enterprise-ipad-and-iphone-sharing.html#tk.rss_all)
 - [It’s not me, it’s you: How to keep up with Microsoft cloud services trouble](https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html#tk.rss_all)
 - [To secure your remote workforce, lock down ‘your’ computers](https://www.computerworld.com/article/3620209/to-secure-your-remote-workforce-lock-down-your-computers.html#tk.rss_all)
 - [Chrome OS expands its operating system reach](https://www.computerworld.com/article/3620229/chrome-os-expands-its-operating-system-reach.html#tk.rss_all)
 - [WWDC 2021: It’s all about the chips](https://www.computerworld.com/article/3620414/wwdc-2021-its-all-about-the-chips.html#tk.rss_all)
 - [Microsoft Teams gets Fluid components, ‘main stage’ meeting app integrations](https://www.computerworld.com/article/3620280/microsoft-teams-gets-fluid-components-main-stage-meeting-app-integrations.html#tk.rss_all)
-- [US gov’t plans for remote workers could spur private-sector push, too](https://www.computerworld.com/article/3620091/us-gov-t-plans-for-remote-workers-could-spur-private-sector-push-too.html#tk.rss_all)
-- [The 'gig economy' is a two-way street](https://www.computerworld.com/article/3619637/the-gig-economy-is-a-two-way-street.html#tk.rss_all)
-- [At Microsoft Build, a tech demo reborn as a sitcom](https://www.computerworld.com/article/3620228/at-microsoft-build-a-tech-demo-reborn-as-a-sitcom.html#tk.rss_all)
-- [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [LogMeIn CIO: The Art of Integrating Acquisitions](https://www.informationweek.com/strategic-cio/logmein-cio-the-art-of-integrating-acquisitions/d/d-id/1341157?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Hiring and Attracting Tech Talent With an Engineering-First Mindset](https://www.informationweek.com/strategic-cio/team-building-and-staffing/hiring-and-attracting-tech-talent-with-an-engineering-first-mindset-/a/d-id/1341128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [One10's AIOps and Cloud Journey to Software Modernization](https://www.informationweek.com/cloud/one10s-aiops-and-cloud-journey-to-software-modernization/d/d-id/1341172?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Investing in the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/strategic-cio/team-building-and-staffing/investing-in-the-cybersecurity-workforce-of-tomorrow/a/d-id/1341125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How Enterprises are Evolving Their NLP](https://www.informationweek.com/strategic-cio/how-enterprises-are-evolving-their-nlp/a/d-id/1341107?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -408,13 +371,14 @@ peeler’s wife. Smell me.</p>
 - [Data is the Cure for What's Ailing the Supply Chain](https://www.informationweek.com/big-data/data-is-the-cure-for-whats-ailing-the-supply-chain/a/d-id/1341124?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How SolarWinds Changed Cybersecurity Leadership's Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-solarwinds-changed-cybersecurity-leaderships-priorities/d/d-id/1341120?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIOs Can Advance Company Sustainability Goals](https://www.informationweek.com/strategic-cio/digital-business/how-cios-can-advance-company-sustainability-goals/a/d-id/1341121?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Return to Office Risks Worth Considering](https://www.informationweek.com/strategic-cio/return-to-office-risks-worth-considering/a/d-id/1341083?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How IT Corrected Business Blind Spots During the Pandemic](https://www.informationweek.com/strategic-cio/enterprise-agility/how-it-corrected-business-blind-spots-during-the-pandemic/a/d-id/1341079?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Catching up on Build 2021: AI and Arm](https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html#tk.rss_all)
+- [Angular team streamlines feature requests](https://www.infoworld.com/article/3620239/angular-team-streamlines-feature-requests.html#tk.rss_all)
+- [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_all)
 - [Finding shareable solution patterns in cloud architecture](https://www.infoworld.com/article/3620252/finding-shareable-solution-patterns-in-cloud-architecture.html#tk.rss_all)
 - [How to use closures in C#](https://www.infoworld.com/article/3620248/how-to-use-closures-in-csharp.html#tk.rss_all)
@@ -422,54 +386,51 @@ peeler’s wife. Smell me.</p>
 - [Open source’s diversity problem](https://www.infoworld.com/article/3620290/open-sources-diversity-problem.html#tk.rss_all)
 - [Most cloud security problems breathe](https://www.infoworld.com/article/3620291/most-cloud-security-problems-breathe.html#tk.rss_all)
 - [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
-- [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_all)
-- [Microsoft’s Java build turns GA](https://www.infoworld.com/article/3620390/microsofts-java-build-turns-ga.html#tk.rss_all)
-- [Visual Studio 2019 upgrade brings C++ 20 support](https://www.infoworld.com/article/3620271/visual-studio-2019-upgrade-brings-c-20-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Scottish businesses missing out on Cyber Essentials benefits](https://www.computerweekly.com/news/252501744/Scottish-businesses-missing-out-on-Cyber-Essentials-benefits)
+- [Can we rely on AI?](https://www.computerweekly.com/opinion/Can-we-rely-on-AI)
+- [What the Telecommunications (Security) Bill means for UK industry](https://www.computerweekly.com/feature/What-the-Telecommunications-Security-Bill-means-for-UK-industry)
+- [Buying a VPN? Here’s what you need to know](https://www.computerweekly.com/feature/Buying-a-VPN-Heres-what-you-need-to-know)
+- [Security Think Tank: Printer risks go deep into IT history](https://www.computerweekly.com/opinion/Security-Think-Tank-Printer-risks-go-deep-into-IT-history)
+- [SA-based MSP shuns HCI for Nebulon cloud-defined storage](https://www.computerweekly.com/news/252501737/SA-based-MSP-shuns-HCI-for-Nebulon-cloud-defined-storage)
+- [HPE latest quarterly filing hints at ProLiant shift](https://www.computerweekly.com/news/252501736/HPE-latest-quarterly-filing-hints-at-ProLiant-shift)
+- [Mulberry bags Google Cloud support for data-driven sales push during Covid-19](https://www.computerweekly.com/news/252501735/Mulberry-bags-Google-Cloud-support-for-data-driven-sales-push-during-Covid-19)
 - [Long-term thinking is vital to secure UK’s critical infrastructure](https://www.computerweekly.com/opinion/Long-term-thinking-is-vital-to-secure-UKs-critical-infrastructure)
 - [European-led consortium investigates quantum cryptography](https://www.computerweekly.com/news/252501687/European-led-consortium-investigates-quantum-cryptography)
-- [Gartner: How to turn old datacentres into critical IT assets](https://www.computerweekly.com/feature/Gartner-How-to-turn-old-datacentres-into-critical-IT-assets)
-- [Exagrid pays $2.6m to Conti ransomware attackers](https://www.computerweekly.com/news/252501665/Exagrid-pays-26m-to-Conti-ransomware-attackers)
-- [Sustained demand for PCs continues, at least for another 12 months](https://www.computerweekly.com/news/252501671/Sustained-demand-for-PCs-continues-at-least-for-another-12-months)
-- [Ex-IT manager stole over £800,000 from NHS trust](https://www.computerweekly.com/news/252501668/Ex-IT-manager-stole-over-800000-from-NHS-trust)
-- [Post Office scandal public inquiry finally begins after chances to address problems were ignored](https://www.computerweekly.com/news/252501656/Post-Office-scandal-public-inquiry-finally-begins-after-chances-to-address-problems-were-missed)
-- [The technology that enabled Covid-19 genome sequencing success](https://www.computerweekly.com/ezine/Computer-Weekly/The-technology-that-enabled-Covid-19-genome-sequencing-success)
-- [How computational storage delivers datacentre benefits](https://www.computerweekly.com/feature/How-computational-storage-delivers-datacentre-benefits)
-- [Privacy experts concerned over NHS data collection plans](https://www.computerweekly.com/news/252501494/Privacy-experts-concerned-over-NHS-data-collection-plans)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thoughts about ethics and policy lagging behind Big Data and Information Selling](https://www.reddit.com/r/InformationTechnology/comments/nr2ipr/thoughts_about_ethics_and_policy_lagging_behind/)
+- [Feeding grafana with data from another grafana instance?](https://www.reddit.com/r/InformationTechnology/comments/nqzblg/feeding_grafana_with_data_from_another_grafana/)
+- [Got a pretty basic question about the CPU requesting Data](https://www.reddit.com/r/InformationTechnology/comments/nqx6fc/got_a_pretty_basic_question_about_the_cpu/)
+- [(No Experience People) How are you guys remembering all this information for the Cert A+](https://www.reddit.com/r/InformationTechnology/comments/nqec4j/no_experience_people_how_are_you_guys_remembering/)
+- [Freelancing while working for corporation](https://www.reddit.com/r/InformationTechnology/comments/nqdhqn/freelancing_while_working_for_corporation/)
 - [Capstone Project Dilemma](https://www.reddit.com/r/InformationTechnology/comments/nq0x7p/capstone_project_dilemma/)
 - [Windows servers](https://www.reddit.com/r/InformationTechnology/comments/npxl3c/windows_servers/)
 - [Computers(IT) Career change](https://www.reddit.com/r/InformationTechnology/comments/npwq4d/computersit_career_change/)
 - [How to protect your Web based software application from hackers in 2021](https://www.reddit.com/r/InformationTechnology/comments/npqxp3/how_to_protect_your_web_based_software/)
 - [Company laptop/Windows license stolen](https://www.reddit.com/r/InformationTechnology/comments/npd3wo/company_laptopwindows_license_stolen/)
-- [Advice](https://www.reddit.com/r/InformationTechnology/comments/npckv4/advice/)
-- [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
-- [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
-- [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
-- [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [UN report could be ‘positive step’ in establishing nation-state cyberspace norms, says Canadian expert](https://www.itworldcanada.com/article/un-report-could-be-positive-step-in-establishing-nation-state-cyberspace-norms-says-canadian-expert/454182)
+- [AMD releases high-performance APUs for gamers and 3D V-Cache technology](https://www.itworldcanada.com/article/amd-releases-high-performance-apus-for-gamers-and-3d-v-cache-technology/454224)
+- [Cyber Security Today, June 2, 2021 – Don’t put off installing security updates](https://www.itworldcanada.com/article/cyber-security-today-june-2-2021-dont-put-off-installing-security-updates/454218)
+- [Hashtag Trending, June 2, 2021- US target for disinformation campaigns; Acer affected by chip shortage; Uber-style apps for off-duty policing](https://www.itworldcanada.com/article/hashtag-trending-june-2-2021-us-target-for-disinformation-campaigns-acer-affected-by-chip-shortage-uber-style-apps-for-off-duty-policing/454187)
 - [Canada’s Top Women in Fintech and Blockchain honouree roundup](https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894)
 - [Coffee Briefing, June 1, 2021 – Big tech and biometric data; updates from CompTIA, CENGN; and more](https://www.itworldcanada.com/article/coffee-briefing-june-1-2021-big-tech-and-biometric-data-updates-from-comptia-cengn-and-more/454159)
 - [Hashtag Trending, June 1, 2021- Amazon sharing customers internet; Silicon Six tax accusations; Chip shortage could take years to fix](https://www.itworldcanada.com/article/hashtag-trending-june-1-2021-amazon-sharing-customers-internet-silicon-six-tax-accusations-chip-shortage-could-take-years-to-fix/454143)
 - [B.C. government extends PNP Tech Pilot indefinitely, renames it to BC PNP Tech](https://www.itworldcanada.com/article/b-c-government-extends-pnp-tech-pilot-indefinitely-renames-it-to-bc-pnp-tech/454135)
 - [The CRTC scrapped cheaper internet costs, so what should Canadians know?](https://www.itworldcanada.com/article/the-crtc-scrapped-cheaper-internet-costs-so-what-should-canadians-know/454120)
 - [Shedding business complexity leads to simplified cybersecurity](https://www.itworldcanada.com/article/shedding-business-complexity-leads-to-simplified-cybersecurity/454131)
-- [Learn to protect your company from a new wave of identity breaches](https://www.itworldcanada.com/article/learn-to-protect-your-company-from-a-new-wave-of-identity-breaches/454125)
-- [Microsoft Build announcements at a glance: Azure, Power platform get major updates](https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108)
-- [Cyber Security Today, May 31, 2021 – Canadians still fall for Windows support scams, new Nobelium attacks and another warning to Pulse Secure VPN users](https://www.itworldcanada.com/article/cyber-security-today-may-31-2021-canadians-still-fall-for-windows-support-scams-new-nobelium-attacks-and-another-warning-to-pulse-secure-vpn-users/447909)
-- [Hashtag Trending, May 31, 2021 – $600M class-action lawsuit against Google; Iran bans cryptomining; Google’s collection of location data](https://www.itworldcanada.com/article/hashtag-trending-may-31-2021-600m-class-action-lawsuit-against-google-iran-bans-cryptomining-googles-collection-of-location-data/454104)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

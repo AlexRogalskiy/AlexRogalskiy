@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Death/dead_in_the_water_614.php" target="_blank"><i>dead in the water</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Food/the_upper_crust_492.php" target="_blank"><i>the upper crust</i></a>
 <span> = </span>
-<span>If something is dead in the water, it has no chance of succeeding or of making any progress.<BR></span>
+<span>If you are one of the upper crust, you are a member of society's highest class.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

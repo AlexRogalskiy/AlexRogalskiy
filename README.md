@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Christina Hendricks: ‘We were critically acclaimed – and everyone wanted to ask me about my bra’](https://www.theguardian.com/culture/2021/jun/02/christina-hendricks-we-were-critically-acclaimed-and-everyone-wanted-to-ask-me-about-my-bra)
-- [China’s new three-child policy won’t fix its economy – but it could change lives | Stuart Gietel-Basten](https://www.theguardian.com/commentisfree/2021/jun/02/chinas-three-child-policy-economy-ageing-population)
-- [UK rights watchdog endorses compulsory Covid jabs for care home staff](https://www.theguardian.com/society/2021/jun/02/uk-rights-watchdog-endorses-compulsory-covid-jabs-for-care-home-staff)
-- [Thousands of asylum seekers go hungry after cash card problems](https://www.theguardian.com/uk-news/2021/jun/02/thousands-of-asylum-seekers-go-hungry-after-cash-card-problems)
-- [And the bride wore … a rental gown: is hiring clothes the future of fashion?](https://www.theguardian.com/fashion/2021/jun/02/and-the-bride-wore-a-rental-gown-is-hiring-clothes-the-future-of-fashion)
-- [G7 nations committing billions more to fossil fuel than green energy](https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy)
-- [‘Courageous’: Japanese athletes and sponsors voice support for Naomi Osaka](https://www.theguardian.com/sport/2021/jun/02/courageous-japanese-athletes-and-sponsors-voice-support-for-naomi-osaka)
-- [US secretary of state warns Pacific leaders about ‘coercion’ in veiled swipe at China](https://www.theguardian.com/world/2021/jun/02/antony-blinken-warns-pacific-leaders-about-coercion-in-veiled-swipe-at-china)
-- [‘Zero’: how the UK papers covered a day without a single reported Covid death](https://www.theguardian.com/world/2021/jun/02/zero-how-the-uk-papers-covered-a-day-without-a-single-reported-covid-death)
-- [Israeli opposition parties face midnight deadline to form government](https://www.theguardian.com/world/2021/jun/02/israeli-opposition-parties-face-midnight-deadline-to-form-government)
+- [‘Mourn June 4 in your own way’: Tiananmen Square events vanish amid crackdowns and Covid](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
+- [Bill Gates and Warren Buffett to build new kind of nuclear reactor in Wyoming](https://www.theguardian.com/us-news/2021/jun/03/bill-gates-warren-buffett-new-nuclear-reactor-wyoming-natrium)
+- [The Wuhan lab leak theory](https://www.theguardian.com/news/audio/2021/jun/03/the-wuhan-lab-leak-theory-podcast)
+- [China Communist party ‘striving for people’s happiness’, says Xi Jinping, in call for charm offensive](https://www.theguardian.com/world/2021/jun/02/china-communist-party-happiness-xi-jinping-negative-image)
+- [National Enquirer publisher fined over payment for Trump story](https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election)
+- [Gareth Southgate: England fans’ boos ‘feel like criticism’ of black players](https://www.theguardian.com/football/2021/jun/03/gareth-southgate-england-fans-boos-taking-knee)
+- [David Beckham buys stake in vehicle electrification firm](https://www.theguardian.com/business/2021/jun/03/david-beckham-buys-stakes-in-vehicle-electrification-firm)
+- [Euro 2020 team guides part 7: Finland](https://www.theguardian.com/football/2021/jun/03/euro-2020-team-guides-part-7-finland)
+- [Boris Johnson risks shock defeat over ‘devastating’ foreign aid cuts](https://www.theguardian.com/politics/2021/jun/02/boris-johnson-risks-shock-defeat-over-devastating-foreign-aid-cuts)
+- [Nasa plans return to Venus with two missions by 2030](https://www.theguardian.com/science/2021/jun/02/nasa-venus-return-two-missions)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

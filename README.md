@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/H/hooker_1178.php" target="_blank"><i>hooker</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/British/toff_1479.php" target="_blank"><i>toff</i></a>
 <span> = </span>
-<span>a female prostitute, a woman who provides sexual services for payment</span>
+<span>a wealthy, upper-class person</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

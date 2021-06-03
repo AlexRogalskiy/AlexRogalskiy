@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thoughts about ethics and policy lagging behind Big Data and Information Selling](https://www.reddit.com/r/InformationTechnology/comments/nr2ipr/thoughts_about_ethics_and_policy_lagging_behind/)
+- [Feeding grafana with data from another grafana instance?](https://www.reddit.com/r/InformationTechnology/comments/nqzblg/feeding_grafana_with_data_from_another_grafana/)
+- [Got a pretty basic question about the CPU requesting Data](https://www.reddit.com/r/InformationTechnology/comments/nqx6fc/got_a_pretty_basic_question_about_the_cpu/)
+- [(No Experience People) How are you guys remembering all this information for the Cert A+](https://www.reddit.com/r/InformationTechnology/comments/nqec4j/no_experience_people_how_are_you_guys_remembering/)
+- [Freelancing while working for corporation](https://www.reddit.com/r/InformationTechnology/comments/nqdhqn/freelancing_while_working_for_corporation/)
 - [Capstone Project Dilemma](https://www.reddit.com/r/InformationTechnology/comments/nq0x7p/capstone_project_dilemma/)
 - [Windows servers](https://www.reddit.com/r/InformationTechnology/comments/npxl3c/windows_servers/)
 - [Computers(IT) Career change](https://www.reddit.com/r/InformationTechnology/comments/npwq4d/computersit_career_change/)
 - [How to protect your Web based software application from hackers in 2021](https://www.reddit.com/r/InformationTechnology/comments/npqxp3/how_to_protect_your_web_based_software/)
 - [Company laptop/Windows license stolen](https://www.reddit.com/r/InformationTechnology/comments/npd3wo/company_laptopwindows_license_stolen/)
-- [Advice](https://www.reddit.com/r/InformationTechnology/comments/npckv4/advice/)
-- [Interview - technical test](https://www.reddit.com/r/InformationTechnology/comments/nnyvo3/interview_technical_test/)
-- [Printers](https://www.reddit.com/r/InformationTechnology/comments/nny2fz/printers/)
-- [Amazon AM transfer?](https://www.reddit.com/r/InformationTechnology/comments/nnvdpm/amazon_am_transfer/)
-- [Starting a new job in two weeks! Tips](https://www.reddit.com/r/InformationTechnology/comments/nnuybp/starting_a_new_job_in_two_weeks_tips/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

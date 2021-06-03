@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>10°C (<i>fog</i>), humidity: 66%, pressure: 1032 (mbar), wind: /west/ 2 (m/s), cloudy: 55%</b>
+        <b>15°C (<i>clear sky</i>), humidity: 51%, pressure: 1033 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:46 am</b> and sets at <b>22:08 pm</b>.
     </p>
@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* ['Far Cry' Leaves Consoles Behind for Zero Latency's VR Arcades](https://www.reviewgeek.com/86127/far-cry-leaves-consoles-behind-for-zero-latencys-vr-arcades/)
-* [NVIDIA's New GeForce RTX 3080 Ti Is $1,199 but Good Luck Finding One](https://www.reviewgeek.com/86084/nvidias-new-geforce-rtx-3080-ti-is-1199-but-good-luck-finding-one/)
-* [What Are SBOMs and What Do They Mean to Open-Source Software?](https://www.cloudsavvyit.com/11618/what-are-sboms-and-what-do-they-mean-to-open-source-software/)
-* [How to Automate Docker Security Audits with Docker Bench for Security](https://www.cloudsavvyit.com/11563/how-to-automate-docker-security-audits-with-docker-bench-for-security/)
-* [Rimac's Electric Hypercar Costs $2 Million, and There's Only 150 Being Made](https://www.reviewgeek.com/86055/rimacs-electric-hypercar-costs-2-million-and-theres-only-150-being-made/)
-* [Banana! Fitbit Launches 'Minions' Fitness Tracker for Kids](https://www.reviewgeek.com/86048/banana-fitbit-launches-minions-fitness-tracker-for-kids/)
-* [9 Novels That Put a Spin On Popular Fairy Tales](https://www.lifesavvy.com/72734/9-novels-that-put-a-spin-on-popular-fairy-tales/)
-* [Wyze Really Sucks: Opens Up Pre-Orders for a $119 Stick Vacuum](https://www.reviewgeek.com/86022/wyze-really-sucks-opens-up-pre-orders-for-a-119-stick-vacuum/)
-* [PSA: Google Photos' Unlimited Storage Is No More---Here Are the Best Alternatives](https://www.reviewgeek.com/82060/psa-google-photos-unlimited-storage-is-ending-here-are-the-best-alternatives/)
-* [Raspberry Pi RP2040 Gets a Real Price, and It's a Dollar](https://www.reviewgeek.com/86021/raspberry-pi-rp2040-gets-a-real-price-and-its-a-dollar/)
+* [Why You Should Use AWS Route 53 Over a "Dumb" DNS](https://www.cloudsavvyit.com/2031/why-you-should-use-aws-route-53-over-a-dumb-dns/)
+* [Don’t Wait for Wrapped: Spotify ‘Only You’ Shares Your Music Taste](https://www.howtogeek.com/732148/dont-wait-for-wrapped-spotify-only-you-shares-your-music-taste/)
+* [Huawei Is Back With a Powerhouse Phone, Watch, and New OS](https://www.reviewgeek.com/86223/huawei-is-back-with-a-phone-a-watch-and-an-os/)
+* [Wyze Wants You! ... To Vote On Its 'Murica-Themed Smartwatch](https://www.reviewgeek.com/86237/wyze-wants-you-to-vote-on-its-murica-themed-smartwatch/)
+* [Windows 11? Microsoft Reveals What's Next for Windows on June 24](https://www.reviewgeek.com/86234/windows-11-microsoft-reveals-whats-next-for-windows-on-june-24/)
+* [How to Use Sentry and GitLab to Capture React Errors](https://www.cloudsavvyit.com/11267/how-to-use-sentry-and-gitlab-to-capture-react-errors/)
+* [HBO Max Says Its New $10 Ad-Supported Tier Has Less Ads Than Other Services](https://www.reviewgeek.com/86225/hbo-max-says-its-new-10-ad-supported-tier-has-less-ads-than-other-services/)
+* [Pricing for BMW's New EVs Announced, Not All of Them Are Affordable](https://www.reviewgeek.com/86218/pricing-for-bmws-new-evs-announced-not-all-of-them-are-affordable/)
+* [Nintendo Switch Pro Rumor Roundup: Everything We Know So Far](https://www.reviewgeek.com/86187/nintendo-switch-pro-rumor-roundup-everything-we-know-so-far/)
+* [Goodbye LG's Mobile Payments Service That We Barely Knew Existed](https://www.reviewgeek.com/86206/goodbye-lgs-mobile-payments-service-that-we-barely-knew-existed/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

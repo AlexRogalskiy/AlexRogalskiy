@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [When is a cybersecurity hole not a hole? Never](https://www.computerworld.com/article/3620889/when-is-a-cybersecurity-hole-not-a-hole-never.html#tk.rss_all)
+- [What's in the latest Firefox update? 89 debuts UI overhaul, Mozilla hopes to win back defectors](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-89-debuts-ui-overhaul-mozilla-hopes-to-win-back-defectors.html#tk.rss_all)
+- [WWDC 2021: Is Apple planning a 'homeOS' (that would also work in the office)?](https://www.computerworld.com/article/3620751/wwdc-2021-is-apple-planning-a-homeos-that-would-also-work-in-the-office.html#tk.rss_all)
+- [8 Outlook add-ins to enhance collaboration](https://www.computerworld.com/article/3619871/8-outlook-add-ins-to-enhance-collaboration.html#tk.rss_all)
 - [Jamf updates target enterprise iPad and iPhone sharing](https://www.computerworld.com/article/3620437/jamf-updates-target-enterprise-ipad-and-iphone-sharing.html#tk.rss_all)
 - [It’s not me, it’s you: How to keep up with Microsoft cloud services trouble](https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html#tk.rss_all)
 - [To secure your remote workforce, lock down ‘your’ computers](https://www.computerworld.com/article/3620209/to-secure-your-remote-workforce-lock-down-your-computers.html#tk.rss_all)
 - [Chrome OS expands its operating system reach](https://www.computerworld.com/article/3620229/chrome-os-expands-its-operating-system-reach.html#tk.rss_all)
 - [WWDC 2021: It’s all about the chips](https://www.computerworld.com/article/3620414/wwdc-2021-its-all-about-the-chips.html#tk.rss_all)
 - [Microsoft Teams gets Fluid components, ‘main stage’ meeting app integrations](https://www.computerworld.com/article/3620280/microsoft-teams-gets-fluid-components-main-stage-meeting-app-integrations.html#tk.rss_all)
-- [US gov’t plans for remote workers could spur private-sector push, too](https://www.computerworld.com/article/3620091/us-gov-t-plans-for-remote-workers-could-spur-private-sector-push-too.html#tk.rss_all)
-- [The 'gig economy' is a two-way street](https://www.computerworld.com/article/3619637/the-gig-economy-is-a-two-way-street.html#tk.rss_all)
-- [At Microsoft Build, a tech demo reborn as a sitcom](https://www.computerworld.com/article/3620228/at-microsoft-build-a-tech-demo-reborn-as-a-sitcom.html#tk.rss_all)
-- [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

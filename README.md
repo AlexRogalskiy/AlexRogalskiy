@@ -344,16 +344,16 @@ the best ones grow in shadow.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Mourn June 4 in your own way’: Tiananmen Square events vanish amid crackdowns and Covid](https://www.theguardian.com/world/2021/jun/03/tiananmen-june-4-events-china-hong-kong-taiwan-macao-crackdown-covid)
-- [Bill Gates and Warren Buffett to build new kind of nuclear reactor in Wyoming](https://www.theguardian.com/us-news/2021/jun/03/bill-gates-warren-buffett-new-nuclear-reactor-wyoming-natrium)
-- [The Wuhan lab leak theory](https://www.theguardian.com/news/audio/2021/jun/03/the-wuhan-lab-leak-theory-podcast)
-- [China Communist party ‘striving for people’s happiness’, says Xi Jinping, in call for charm offensive](https://www.theguardian.com/world/2021/jun/02/china-communist-party-happiness-xi-jinping-negative-image)
-- [National Enquirer publisher fined over payment for Trump story](https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election)
-- [Gareth Southgate: England fans’ boos ‘feel like criticism’ of black players](https://www.theguardian.com/football/2021/jun/03/gareth-southgate-england-fans-boos-taking-knee)
-- [David Beckham buys stake in vehicle electrification firm](https://www.theguardian.com/business/2021/jun/03/david-beckham-buys-stakes-in-vehicle-electrification-firm)
-- [Euro 2020 team guides part 7: Finland](https://www.theguardian.com/football/2021/jun/03/euro-2020-team-guides-part-7-finland)
-- [Boris Johnson risks shock defeat over ‘devastating’ foreign aid cuts](https://www.theguardian.com/politics/2021/jun/02/boris-johnson-risks-shock-defeat-over-devastating-foreign-aid-cuts)
-- [Nasa plans return to Venus with two missions by 2030](https://www.theguardian.com/science/2021/jun/02/nasa-venus-return-two-missions)
+- [The biblical mouse plague ravaging New South Wales - podcast](https://www.theguardian.com/news/audio/2021/jun/04/the-biblical-mouse-plague-ravaging-new-south-wales-podcast)
+- [Tom Cruise’s Mission: Impossible 7 production temporarily shut down due to coronavirus case](https://www.theguardian.com/film/2021/jun/04/tom-cruises-mission-impossible-7-production-temporarily-shut-down-due-to-coronavirus-case)
+- [Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack](https://www.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks)
+- [SpaceX rocket heads to ISS with a supply of squid, toothpaste and avocados](https://www.theguardian.com/science/2021/jun/03/spacex-rocket-heads-to-iss-with-a-supply-of-squid-toothpaste-and-avocados)
+- [Hong Kong vigil leader arrested as 7,000 police enforce ban on Tiananmen anniversary protests](https://www.theguardian.com/world/2021/jun/04/hong-kong-7000-police-ready-to-enforce-ban-on-tiananmen-anniversary-protests)
+- [By banning Tiananmen vigils in Hong Kong, China is trying to rewrite history | Louisa Lim](https://www.theguardian.com/commentisfree/2021/jun/04/banning-tiananmen-vigils-hong-kong-china-communist-party)
+- [First-time buyers in England offered new homes at up to 50% off](https://www.theguardian.com/money/2021/jun/04/first-time-buyers-in-england-offered-new-homes-at-up-to-50-off)
+- [Euro 2020 team guides part 9: Austria](https://www.theguardian.com/football/2021/jun/04/euro-2020-team-guides-part-9-austria)
+- [Zeyaadah can upset O’Brien pair and land first Oaks win for Roger Varian](https://www.theguardian.com/sport/2021/jun/04/zeyaadah-can-upset-aidan-obrien-pair-and-land-first-oaks-win-for-roger-varian-horse-racing-tips)
+- [Facebook will end special treatment for politicians after Trump ban - report](https://www.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

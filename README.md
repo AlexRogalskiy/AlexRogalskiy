@@ -419,16 +419,16 @@ the best ones grow in shadow.</p>
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Reports raise alarm over Huawei access to Dutch networks](https://www.computerweekly.com/news/252501858/Reports-raise-alarm-over-Huawei-access-to-Dutch-networks)
+- [Penny-pinchers undermine value of open source](https://www.computerweekly.com/news/252501856/Penny-pinchers-put-value-of-open-source-at-risk)
+- [Norway’s auditor general lifts lid on energy industry’s cyber security risks](https://www.computerweekly.com/news/252501847/Norways-auditor-general-lifts-lid-on-energy-industrys-cyber-security-risks)
+- [Atos offers enterprises digital route to net-zero emissions](https://www.computerweekly.com/news/252501843/Atos-offers-enterprises-digital-route-to-net-zero-emissions)
+- [Swedish university is behind quantum computing breakthrough](https://www.computerweekly.com/news/252501845/Swedish-university-is-behind-quantum-computing-breakthrough)
+- [Tories fined over email data protection breaches](https://www.computerweekly.com/news/252501841/Tories-fined-over-email-data-protection-breaches)
+- [FireEye sold to private equity, Mandiant regains independence](https://www.computerweekly.com/news/252501844/FireEye-sold-to-private-equity-Mandiant-regains-independence)
+- [Pandemic a ‘once-in-a-lifetime’ chance to reshape security](https://www.computerweekly.com/news/252501839/Pandemic-a-once-in-a-lifetime-chance-to-reshape-security)
+- [Sapphire 2021: Klein vaunts rebooted Ariba business network as sustainability driver](https://www.computerweekly.com/news/252501810/Sapphire-2021-Klein-vaunts-rebooted-Ariba-business-network-as-sustainability-driver)
 - [Scottish businesses missing out on Cyber Essentials benefits](https://www.computerweekly.com/news/252501744/Scottish-businesses-missing-out-on-Cyber-Essentials-benefits)
-- [Can we rely on AI?](https://www.computerweekly.com/opinion/Can-we-rely-on-AI)
-- [What the Telecommunications (Security) Bill means for UK industry](https://www.computerweekly.com/feature/What-the-Telecommunications-Security-Bill-means-for-UK-industry)
-- [Buying a VPN? Here’s what you need to know](https://www.computerweekly.com/feature/Buying-a-VPN-Heres-what-you-need-to-know)
-- [Security Think Tank: Printer risks go deep into IT history](https://www.computerweekly.com/opinion/Security-Think-Tank-Printer-risks-go-deep-into-IT-history)
-- [SA-based MSP shuns HCI for Nebulon cloud-defined storage](https://www.computerweekly.com/news/252501737/SA-based-MSP-shuns-HCI-for-Nebulon-cloud-defined-storage)
-- [HPE latest quarterly filing hints at ProLiant shift](https://www.computerweekly.com/news/252501736/HPE-latest-quarterly-filing-hints-at-ProLiant-shift)
-- [Mulberry bags Google Cloud support for data-driven sales push during Covid-19](https://www.computerweekly.com/news/252501735/Mulberry-bags-Google-Cloud-support-for-data-driven-sales-push-during-Covid-19)
-- [Long-term thinking is vital to secure UK’s critical infrastructure](https://www.computerweekly.com/opinion/Long-term-thinking-is-vital-to-secure-UKs-critical-infrastructure)
-- [European-led consortium investigates quantum cryptography](https://www.computerweekly.com/news/252501687/European-led-consortium-investigates-quantum-cryptography)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

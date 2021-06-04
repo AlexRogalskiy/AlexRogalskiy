@@ -329,16 +329,16 @@ the best ones grow in shadow.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A guide to linting Go programs](https://freshman.tech/linting-golang/)
-- [Bertrand Serlet to Steve Jobs: “Fine, Let's Enable Cocoa Touch Apps”](https://twitter.com/techemails/status/1400270458608664577)
-- [Spek – Acoustic Spectrum Analyser](http://spek.cc/)
-- [Talks break down over crumbling Yemeni tanker threatening massive oil spill](https://news.mongabay.com/2021/06/talks-break-down-over-crumbling-yemeni-tanker-threatening-massive-oil-spill/)
-- [Coronavirus (Covid-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
-- [Powershellgallery.com Cert Has Expired](https://github.com/PowerShell/PowerShellGallery/issues/166)
-- [Plant AI: A Hackathon Project](https://techcommunity.microsoft.com/t5/green-tech-blog/plant-ai-student-ambassador-green-a-thon-activity-report/ba-p/2348875)
-- [2021 – The Year Windows Became a First Class Python Development Environment](https://www.feoh.org/2021-the-year-windows-became-a-first-class-python-development-environment.html)
-- [Work in Progress: PHP support for F# (Fable) merged](https://github.com/fable-compiler/Fable/pull/2447)
-- [A 300-Year-Old Tale of One Woman's Quest to Stop a Deadly Virus](https://www.npr.org/sections/health-shots/2021/03/08/972978143/a-300-year-old-tale-of-one-womans-quest-to-stop-a-deadly-virus)
+- [The one Slack channel to create](http://zvi.band/posts/the-one-slack-channel-to-create/)
+- [Judging Freehand Circle Drawing Competitions (2018)](https://staff.math.su.se/hoehle/blog/2018/07/31/circle.html)
+- [Google Replaces Millions of Intel's CPUs with Its Own Homegrown Chips](https://www.tomshardware.com/news/intel-replaces-xeons-with-custom-vcus)
+- [Genetic Diseases to Guide Digital Hacks of the Human Genome [video, 2017]](https://youtube.com/watch?v=HKQDSgBHPfY)
+- [China's New Space Station Is Powered by Ion Thruster](https://futurism.com/chinas-new-space-station-powered-ion-thrusters/)
+- [Coinbase Account Hacked](https://www.reddit.com/r/CoinBase/comments/gdcgd9/coinbase_account_hacked/)
+- [I'm the admin of my old employer's LinkedIn page](https://www.justus.ws/blog/20210603_linkedinsucks/)
+- [Microsoft leads the way to hybrid work](https://customers.microsoft.com/en-us/story/1371183111958353030-microsoft-hybrid-work-process-microsoft-365)
+- [What Pilots See – Red 6's Augmented Reality Dogfighting Goggles](https://www.thedrive.com/the-war-zone/40879/this-is-what-pilots-actually-see-inside-red-6s-augmented-reality-dogfighting-goggles)
+- ['The lab-leak origin claim for Covid-19 is in the news but it's still fact-free'](https://www.msn.com/en-us/news/technology/column-the-lab-leak-origin-claim-for-covid-19-is-in-the-news-but-it-s-still-fact-free/ar-AAKGj1e?ocid=BingNewsSearch)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

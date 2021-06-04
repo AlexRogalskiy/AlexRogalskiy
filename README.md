@@ -301,7 +301,7 @@ the best ones grow in shadow.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>24°C (<i>few clouds</i>), humidity: 39%, pressure: 1023 (mbar), wind: /north-east/ 0 (m/s), cloudy: 20%</b>
+        <b>25°C (<i>clear sky</i>), humidity: 32%, pressure: 1023 (mbar), wind: /south-west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:45 am</b> and sets at <b>22:09 pm</b>.
     </p>

@@ -434,6 +434,9 @@ the best ones grow in shadow.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about Info Tech degrees](https://www.reddit.com/r/InformationTechnology/comments/nruhq5/question_about_info_tech_degrees/)
+- [Which offer should I choose? TCS offer of 6.5 LPA for Siebel Developer or 5.5 LPA for Salesforce Developer in my current company?](https://www.reddit.com/r/InformationTechnology/comments/nrk4fx/which_offer_should_i_choose_tcs_offer_of_65_lpa/)
+- [How to get around email blacklist?](https://www.reddit.com/r/InformationTechnology/comments/nral8k/how_to_get_around_email_blacklist/)
 - [Thoughts about ethics and policy lagging behind Big Data and Information Selling](https://www.reddit.com/r/InformationTechnology/comments/nr2ipr/thoughts_about_ethics_and_policy_lagging_behind/)
 - [Feeding grafana with data from another grafana instance?](https://www.reddit.com/r/InformationTechnology/comments/nqzblg/feeding_grafana_with_data_from_another_grafana/)
 - [Got a pretty basic question about the CPU requesting Data](https://www.reddit.com/r/InformationTechnology/comments/nqx6fc/got_a_pretty_basic_question_about_the_cpu/)
@@ -441,9 +444,6 @@ the best ones grow in shadow.</p>
 - [Freelancing while working for corporation](https://www.reddit.com/r/InformationTechnology/comments/nqdhqn/freelancing_while_working_for_corporation/)
 - [Capstone Project Dilemma](https://www.reddit.com/r/InformationTechnology/comments/nq0x7p/capstone_project_dilemma/)
 - [Windows servers](https://www.reddit.com/r/InformationTechnology/comments/npxl3c/windows_servers/)
-- [Computers(IT) Career change](https://www.reddit.com/r/InformationTechnology/comments/npwq4d/computersit_career_change/)
-- [How to protect your Web based software application from hackers in 2021](https://www.reddit.com/r/InformationTechnology/comments/npqxp3/how_to_protect_your_web_based_software/)
-- [Company laptop/Windows license stolen](https://www.reddit.com/r/InformationTechnology/comments/npd3wo/company_laptopwindows_license_stolen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

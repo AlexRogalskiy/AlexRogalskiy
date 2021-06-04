@@ -404,16 +404,16 @@ the best ones grow in shadow.</p>
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [JFrog unveils software distribution service](https://www.infoworld.com/article/3621008/jfrog-unveils-software-distribution-service.html#tk.rss_all)
+- [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_all)
+- [Why developers use Confluent to manage Apache Kafka](https://www.infoworld.com/article/3619028/why-developers-use-confluent-to-manage-apache-kafka.html#tk.rss_all)
 - [Catching up on Build 2021: AI and Arm](https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html#tk.rss_all)
 - [Angular team streamlines feature requests](https://www.infoworld.com/article/3620239/angular-team-streamlines-feature-requests.html#tk.rss_all)
 - [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_all)
 - [Finding shareable solution patterns in cloud architecture](https://www.infoworld.com/article/3620252/finding-shareable-solution-patterns-in-cloud-architecture.html#tk.rss_all)
 - [How to use closures in C#](https://www.infoworld.com/article/3620248/how-to-use-closures-in-csharp.html#tk.rss_all)
-- [3 good ways to validate APIs](https://www.infoworld.com/article/3620431/3-good-ways-to-validate-apis.html#tk.rss_all)
-- [Open source’s diversity problem](https://www.infoworld.com/article/3620290/open-sources-diversity-problem.html#tk.rss_all)
-- [Most cloud security problems breathe](https://www.infoworld.com/article/3620291/most-cloud-security-problems-breathe.html#tk.rss_all)
-- [CIO Think Tank Roadmap Report: Reinventing IT](https://www.cio.com/article/3620410/cio-think-tank-roadmap-report-reinventing-it.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -374,16 +374,16 @@ the best ones grow in shadow.</p>
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Get a lifetime of CompTIA certification training today for just $50](https://www.computerworld.com/article/3619899/get-a-lifetime-of-comptia-certification-training-today-for-just-50.html#tk.rss_all)
+- [A guide to getting first-party data from your customers](https://www.computerworld.com/article/3619071/a-guide-to-getting-first-party-data-from-your-customers.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Apple to try new hybrid workplace model for a year](https://www.computerworld.com/article/3620990/apple-to-try-new-hybrid-workplace-model-for-a-year.html#tk.rss_all)
+- [The missing context around Google's Android privacy fallout](https://www.computerworld.com/article/3620869/google-android-privacy.html#tk.rss_all)
+- [The business user’s guide to Gmail](https://www.computerworld.com/article/3619271/the-business-user-s-guide-to-gmail.html#tk.rss_all)
 - [When is a cybersecurity hole not a hole? Never](https://www.computerworld.com/article/3620889/when-is-a-cybersecurity-hole-not-a-hole-never.html#tk.rss_all)
 - [What's in the latest Firefox update? 89 debuts UI overhaul, Mozilla hopes to win back defectors](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-89-debuts-ui-overhaul-mozilla-hopes-to-win-back-defectors.html#tk.rss_all)
 - [WWDC 2021: Is Apple planning a 'homeOS' (that would also work in the office)?](https://www.computerworld.com/article/3620751/wwdc-2021-is-apple-planning-a-homeos-that-would-also-work-in-the-office.html#tk.rss_all)
 - [8 Outlook add-ins to enhance collaboration](https://www.computerworld.com/article/3619871/8-outlook-add-ins-to-enhance-collaboration.html#tk.rss_all)
-- [Jamf updates target enterprise iPad and iPhone sharing](https://www.computerworld.com/article/3620437/jamf-updates-target-enterprise-ipad-and-iphone-sharing.html#tk.rss_all)
-- [It’s not me, it’s you: How to keep up with Microsoft cloud services trouble](https://www.computerworld.com/article/3620436/its-not-me-its-you-how-to-keep-up-with-microsoft-cloud-services-trouble.html#tk.rss_all)
-- [To secure your remote workforce, lock down ‘your’ computers](https://www.computerworld.com/article/3620209/to-secure-your-remote-workforce-lock-down-your-computers.html#tk.rss_all)
-- [Chrome OS expands its operating system reach](https://www.computerworld.com/article/3620229/chrome-os-expands-its-operating-system-reach.html#tk.rss_all)
-- [WWDC 2021: It’s all about the chips](https://www.computerworld.com/article/3620414/wwdc-2021-its-all-about-the-chips.html#tk.rss_all)
-- [Microsoft Teams gets Fluid components, ‘main stage’ meeting app integrations](https://www.computerworld.com/article/3620280/microsoft-teams-gets-fluid-components-main-stage-meeting-app-integrations.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

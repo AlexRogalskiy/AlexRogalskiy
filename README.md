@@ -359,16 +359,16 @@ the best ones grow in shadow.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management](https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html)
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27375951)
-- [Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine](https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1)
-- [Ransomware – Unauthorized access to Fujifilm servers](https://www.fujifilm.com/jp/en/news/hq/6642#)
-- [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
-- [Apple asks staff to return to office 3 days a week starting in early September](https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september)
-- [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
-- [Italian Car Design History](https://www.cardesignhistory.com/)
-- [Wyoming site of new nuclear power plant from Bill Gates' TerraPower](https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html)
-- [Show HN: Transform a CSV into a JSON and vice versa](https://jsonmatic.com/)
+- [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
+- [Robot Sticks to Ceilings by Vibrating a Flexible Disc](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings)
+- [Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/)
+- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)](http://www.geoffreylandis.com/ebullism.html)
+- [The lab-leak theory: inside the fight to uncover Covid-19’s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
+- [Stanford CS Curriculum 2021](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
+- [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp/)
+- [TinyPilot: Month 11](https://mtlynch.io/retrospectives/2021/06/)
+- [Telnet Mapscii.me](http://mapscii.me)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

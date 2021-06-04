@@ -301,7 +301,7 @@ the best ones grow in shadow.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>12°C (<i>clear sky</i>), humidity: 71%, pressure: 1029 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>15°C (<i>clear sky</i>), humidity: 67%, pressure: 1029 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:45 am</b> and sets at <b>22:09 pm</b>.
     </p>
@@ -314,16 +314,16 @@ the best ones grow in shadow.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Why You Should Use AWS Route 53 Over a "Dumb" DNS](https://www.cloudsavvyit.com/2031/why-you-should-use-aws-route-53-over-a-dumb-dns/)
-* [Don’t Wait for Wrapped: Spotify ‘Only You’ Shares Your Music Taste](https://www.howtogeek.com/732148/dont-wait-for-wrapped-spotify-only-you-shares-your-music-taste/)
-* [Huawei Is Back With a Powerhouse Phone, Watch, and New OS](https://www.reviewgeek.com/86223/huawei-is-back-with-a-phone-a-watch-and-an-os/)
-* [Wyze Wants You! ... To Vote On Its 'Murica-Themed Smartwatch](https://www.reviewgeek.com/86237/wyze-wants-you-to-vote-on-its-murica-themed-smartwatch/)
-* [Windows 11? Microsoft Reveals What's Next for Windows on June 24](https://www.reviewgeek.com/86234/windows-11-microsoft-reveals-whats-next-for-windows-on-june-24/)
-* [How to Use Sentry and GitLab to Capture React Errors](https://www.cloudsavvyit.com/11267/how-to-use-sentry-and-gitlab-to-capture-react-errors/)
-* [HBO Max Says Its New $10 Ad-Supported Tier Has Less Ads Than Other Services](https://www.reviewgeek.com/86225/hbo-max-says-its-new-10-ad-supported-tier-has-less-ads-than-other-services/)
-* [Pricing for BMW's New EVs Announced, Not All of Them Are Affordable](https://www.reviewgeek.com/86218/pricing-for-bmws-new-evs-announced-not-all-of-them-are-affordable/)
-* [Nintendo Switch Pro Rumor Roundup: Everything We Know So Far](https://www.reviewgeek.com/86187/nintendo-switch-pro-rumor-roundup-everything-we-know-so-far/)
-* [Goodbye LG's Mobile Payments Service That We Barely Knew Existed](https://www.reviewgeek.com/86206/goodbye-lgs-mobile-payments-service-that-we-barely-knew-existed/)
+* [Ring Now Requires Police Make Their Video Requests on a Public Forum](https://www.reviewgeek.com/86496/ring-now-requires-police-make-their-video-requests-on-a-public-forum/)
+* [Amazon Halo Wants You to Pose for the Camera---for Health Reasons](https://www.reviewgeek.com/86502/amazon-halo-wants-you-to-pose-for-the-camera-for-health-reasons/)
+* [Apple Updates AirTags to Prevent Stalkers, Will Release a "Detection" Android App](https://www.reviewgeek.com/86482/apple-updates-airtags-to-prevent-stalkers-will-release-a-detection-android-app/)
+* [Vizio Smart TVs Get a Consolidated YouTube and YouTube TV App](https://www.reviewgeek.com/86467/vizio-smart-tvs-get-a-consolidated-youtube-and-youtube-tv-app/)
+* [What Is Multi-Tenancy and How Does It Impact SaaS Applications?](https://www.cloudsavvyit.com/11484/what-is-multi-tenancy-and-how-does-it-impact-saas-applications/)
+* [Nanoleaf's New Elements Shapes Bring a Woodgrain Look to Your Smart Home](https://www.reviewgeek.com/86190/nanoleafs-new-element-shapes-bring-a-woodgrain-look-to-your-smart-home/)
+* [Paramount+ Ad-Supported Plan Gets $1 Cheaper But Loses Live Channel Access](https://www.reviewgeek.com/86405/paramount-ad-supported-plan-gets-1-cheaper-but-loses-live-channel-access/)
+* [Google Announces the $99 Pixel Buds A-Series, For Reals This Time](https://www.reviewgeek.com/86417/google-announces-the-99-pixel-buds-a-series-for-reals-this-time/)
+* [Walmart Copies Prime Day (Again) With "Deals for Days" Starting on June 20th](https://www.reviewgeek.com/86359/walmart-copies-prime-day-again-with-deals-for-days-starting-on-june-20th/)
+* [Twitter Blue is Official, and It's Stupid](https://www.reviewgeek.com/86366/twitter-blue-is-official-and-its-stupid/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

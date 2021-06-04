@@ -241,8 +241,36 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652903040066650113" target="_blank"><i>Fragment</i></a></summary>
-<p>by Sappho</p><p>Awed by her splendor <br/>stars near the lovely <br/>moon cover their own <br/>bright faces <br/>	when she <br/>is roundest and lights <br/>earth with her silver </p>
+<summary><a href="https://apoemaday.tumblr.com/post/652993264004317184" target="_blank"><i>Blackberries</i></a></summary>
+<p>by Margaret Atwood</p><p>In the early morning an old woman<br/>
+is picking blackberries in the shade.<br/>
+It will be too hot later<br/>
+but right now there’s dew.</p><p>Some berries fall: those are for squirrels.<br/>
+Some are unripe, reserved for bears.<br/>
+Some go into the metal bowl.<br/>
+Those are for you, so you may taste them<br/>
+just for a moment.<br/>
+That’s good times: one little sweetness<br/>
+after another, then quickly gone.</p><p>Once, this old woman<br/>
+I’m conjuring up for you<br/>
+would have been my grandmother.<br/>
+Today it’s me.<br/>
+Years from now it might be you,<br/>
+if you’re quite lucky.</p><p>The hands reaching in<br/>
+among the leaves and spines<br/>
+were once my mother’s.<br/>
+I’ve passed them on.<br/>
+Decades ahead, you’ll study your own<br/>
+temporary hands, and you’ll remember.<br/>
+Don’t cry, this is what happens.</p><p>Look! The steel bowl<br/>
+is almost full. Enough for all of us.<br/>
+The blackberries gleam like glass,<br/>
+like the glass ornaments<br/>
+we hang on trees in December<br/>
+to remind ourselves to be grateful for snow.</p><p>Some berries occur in sun,<br/>
+but they are smaller.<br/>
+It’s as I always told you:<br/>
+the best ones grow in shadow.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

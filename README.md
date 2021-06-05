@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bell to offer AWS Wavelength Zones for faster edge computing](https://www.itworldcanada.com/article/bell-to-offer-aws-wavelength-zones-for-faster-edge-computing/454368)
+- [Nearly 60% of small charities have zero plans to digitally transform, says CanadaHelps survey](https://www.itworldcanada.com/article/nearly-60-of-small-charities-have-zero-plans-to-digitally-transform-says-canadahelps-survey/454167)
+- [Cyber Security Today – Week in Review for June 4, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-4-2021/454362)
+- [SAP focuses on sustainability, merges business networks](https://www.itworldcanada.com/article/sap-focuses-on-sustainability-merges-business-networks/454279)
+- [CRTC consults the public on a three-digit mental health phone number](https://www.itworldcanada.com/article/crtc-consults-the-public-on-a-three-digit-mental-health-phone-number/454287)
+- [Four vectors accounted for over half of breaches last year, says VMware survey](https://www.itworldcanada.com/article/four-vectors-accounted-for-over-half-of-breaches-last-year-says-vmware-survey/454316)
+- [Cyber Security Today, June 4, 2021 – Evidence that awareness training works, CIRA looking for board nominees and another patching warning](https://www.itworldcanada.com/article/cyber-security-today-june-4-2021-evidence-that-awareness-training-works-cira-looking-for-board-nominees-and-another-patching-warning/454299)
+- [Tradition of celebrating DX excellence continues in July](https://www.itworldcanada.com/article/tradition-of-celebrating-dx-excellence-continues-in-july/454324)
+- [Hashtag Trending, June 4, 2021- Twitter Blue launches in Canada; Self-driving trucks make progress; Survey says workers will quit without hybrid work model](https://www.itworldcanada.com/article/hashtag-trending-june-4-2021-twitter-blue-launches-in-canada-self-driving-trucks-make-progress-survey-says-workers-will-quit-without-hybrid-work-model/454303)
 - [Green Software Foundation aims to help the ICT sector reduce greenhouse gas emissions](https://www.itworldcanada.com/article/green-software-foundation-aims-to-help-the-ict-sector-reduce-greenhouse-gas-emissions/454151)
-- [Hashtag Trending, June 3, 2021 – Return to the office? No thanks says survey; Microsoft’s next gen of Windows; Ransomware attack hits meat producer](https://www.itworldcanada.com/article/hashtag-trending-june-3-2021-return-to-the-office-no-thanks-says-survey-microsofts-next-gen-of-windows-ransomware-attack-hits-meat-producer/454262)
-- [UN report could be ‘positive step’ in establishing nation-state cyberspace norms, says Canadian expert](https://www.itworldcanada.com/article/un-report-could-be-positive-step-in-establishing-nation-state-cyberspace-norms-says-canadian-expert/454182)
-- [AMD releases high-performance APUs for gamers and 3D V-Cache technology](https://www.itworldcanada.com/article/amd-releases-high-performance-apus-for-gamers-and-3d-v-cache-technology/454224)
-- [Cyber Security Today, June 2, 2021 – Don’t put off installing security updates](https://www.itworldcanada.com/article/cyber-security-today-june-2-2021-dont-put-off-installing-security-updates/454218)
-- [Hashtag Trending, June 2, 2021- US target for disinformation campaigns; Acer affected by chip shortage; Uber-style apps for off-duty policing](https://www.itworldcanada.com/article/hashtag-trending-june-2-2021-us-target-for-disinformation-campaigns-acer-affected-by-chip-shortage-uber-style-apps-for-off-duty-policing/454187)
-- [Canada’s Top Women in Fintech and Blockchain honouree roundup](https://www.itworldcanada.com/article/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/447894)
-- [Coffee Briefing, June 1, 2021 – Big tech and biometric data; updates from CompTIA, CENGN; and more](https://www.itworldcanada.com/article/coffee-briefing-june-1-2021-big-tech-and-biometric-data-updates-from-comptia-cengn-and-more/454159)
-- [Hashtag Trending, June 1, 2021- Amazon sharing customers internet; Silicon Six tax accusations; Chip shortage could take years to fix](https://www.itworldcanada.com/article/hashtag-trending-june-1-2021-amazon-sharing-customers-internet-silicon-six-tax-accusations-chip-shortage-could-take-years-to-fix/454143)
-- [B.C. government extends PNP Tech Pilot indefinitely, renames it to BC PNP Tech](https://www.itworldcanada.com/article/b-c-government-extends-pnp-tech-pilot-indefinitely-renames-it-to-bc-pnp-tech/454135)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

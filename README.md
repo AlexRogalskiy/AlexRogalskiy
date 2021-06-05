@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/British/toff_1479.php" target="_blank"><i>toff</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_1/rip-off_1__1094.php" target="_blank"><i>rip-off (1)</i></a>
 <span> = </span>
-<span>a wealthy, upper-class person</span>
+<span>charging too much for something</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

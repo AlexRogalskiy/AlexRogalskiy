@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Death/Let_the_dead_bury_the_dead_869.php" target="_blank"><i>Let the dead bury the dead</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/United_we_stand_divided_we_fall_590.php" target="_blank"><i>United we stand, divided we fall</i></a>
 <span> = </span>
-<span>This is generally taken to imply that we should spend our time and energy on living people, not on dead people. (But see Origin below.)</span>
+<span>If we work together we can be successful. If we fight each other we will fail.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

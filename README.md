@@ -241,36 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652993264004317184" target="_blank"><i>Blackberries</i></a></summary>
-<p>by Margaret Atwood</p><p>In the early morning an old woman<br/>
-is picking blackberries in the shade.<br/>
-It will be too hot later<br/>
-but right now there’s dew.</p><p>Some berries fall: those are for squirrels.<br/>
-Some are unripe, reserved for bears.<br/>
-Some go into the metal bowl.<br/>
-Those are for you, so you may taste them<br/>
-just for a moment.<br/>
-That’s good times: one little sweetness<br/>
-after another, then quickly gone.</p><p>Once, this old woman<br/>
-I’m conjuring up for you<br/>
-would have been my grandmother.<br/>
-Today it’s me.<br/>
-Years from now it might be you,<br/>
-if you’re quite lucky.</p><p>The hands reaching in<br/>
-among the leaves and spines<br/>
-were once my mother’s.<br/>
-I’ve passed them on.<br/>
-Decades ahead, you’ll study your own<br/>
-temporary hands, and you’ll remember.<br/>
-Don’t cry, this is what happens.</p><p>Look! The steel bowl<br/>
-is almost full. Enough for all of us.<br/>
-The blackberries gleam like glass,<br/>
-like the glass ornaments<br/>
-we hang on trees in December<br/>
-to remind ourselves to be grateful for snow.</p><p>Some berries occur in sun,<br/>
-but they are smaller.<br/>
-It’s as I always told you:<br/>
-the best ones grow in shadow.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653084206547845120" target="_blank"><i>Ripening</i></a></summary>
+<p>by Wendell Berry</p><p>The longer we are together<br/>the larger death grows around us.<br/>How many we know by now<br/>who are dead! We, who were young,<br/>now count the cost of having been.<br/>And yet as we know the dead<br/>we grow familiar with the world.<br/>We, who were young and loved each other<br/>ignorantly, now come to know<br/>each other in love, married<br/>by what we have done, as much<br/>as by what we intend. Our hair<br/>turns white with our ripening<br/>as though to fly away in some <br/>coming wind, bearing the seed<br/>of what we know. It was bitter to learn<br/>that we come to death as we come<br/>to love, bitter to face<br/>the just and solving welcome<br/>that death prepares. But that is bitter<br/>only to the ignorant, who pray<br/>it will not happen. Having come<br/>the bitter way to better prayer, we have<br/>the sweetness of ripening. How sweet<br/>to know you by the signs of this world!</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

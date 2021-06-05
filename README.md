@@ -314,16 +314,16 @@ the best ones grow in shadow.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ring Now Requires Police Make Their Video Requests on a Public Forum](https://www.reviewgeek.com/86496/ring-now-requires-police-make-their-video-requests-on-a-public-forum/)
-* [Amazon Halo Wants You to Pose for the Camera---for Health Reasons](https://www.reviewgeek.com/86502/amazon-halo-wants-you-to-pose-for-the-camera-for-health-reasons/)
-* [Apple Updates AirTags to Prevent Stalkers, Will Release a "Detection" Android App](https://www.reviewgeek.com/86482/apple-updates-airtags-to-prevent-stalkers-will-release-a-detection-android-app/)
-* [Vizio Smart TVs Get a Consolidated YouTube and YouTube TV App](https://www.reviewgeek.com/86467/vizio-smart-tvs-get-a-consolidated-youtube-and-youtube-tv-app/)
-* [What Is Multi-Tenancy and How Does It Impact SaaS Applications?](https://www.cloudsavvyit.com/11484/what-is-multi-tenancy-and-how-does-it-impact-saas-applications/)
-* [Nanoleaf's New Elements Shapes Bring a Woodgrain Look to Your Smart Home](https://www.reviewgeek.com/86190/nanoleafs-new-element-shapes-bring-a-woodgrain-look-to-your-smart-home/)
-* [Paramount+ Ad-Supported Plan Gets $1 Cheaper But Loses Live Channel Access](https://www.reviewgeek.com/86405/paramount-ad-supported-plan-gets-1-cheaper-but-loses-live-channel-access/)
-* [Google Announces the $99 Pixel Buds A-Series, For Reals This Time](https://www.reviewgeek.com/86417/google-announces-the-99-pixel-buds-a-series-for-reals-this-time/)
-* [Walmart Copies Prime Day (Again) With "Deals for Days" Starting on June 20th](https://www.reviewgeek.com/86359/walmart-copies-prime-day-again-with-deals-for-days-starting-on-june-20th/)
-* [Twitter Blue is Official, and It's Stupid](https://www.reviewgeek.com/86366/twitter-blue-is-official-and-its-stupid/)
+* [iFixit Tore Apart the iPad Pro's New Mini-LED Display, and It's PURTY](https://www.reviewgeek.com/86632/ifixit-tore-apart-the-ipad-pros-new-mini-led-display-and-its-purty/)
+* [What Is Twitter Blue, and Is It Worth $3 a Month?](https://www.howtogeek.com/732538/what-is-twitter-blue-and-is-it-worth-3-a-month/)
+* [Fujifilm Taken Down as Global Ransomware Spree Continues](https://www.reviewgeek.com/86636/fujifilm-taken-down-as-global-ransomware-spree-continues/)
+* [Wyze Home Security Monitoring Review: You Can't Say No to $80](https://www.reviewgeek.com/83315/wyze-home-security-monitoring-review-you-cant-say-no-to-60/)
+* [This Raspberry Pi Robot Can Shred Through Any Song on 'Guitar Hero'](https://www.reviewgeek.com/86606/this-raspberry-pi-robot-can-shred-through-any-song-on-guitar-hero/)
+* [IKEA's New Sensor Will Monitor Your Air Quality for Just $12](https://www.reviewgeek.com/86604/ikeas-new-sensor-will-monitor-your-air-quality-for-just-12/)
+* [Android Users Will Get to Opt Out of Ad Tracking in an Update Later This Year](https://www.reviewgeek.com/86588/android-users-will-get-to-opt-out-of-ad-tracking-in-an-update-later-this-year/)
+* [Target Takes Aim at Prime Day, Kicks off Its Own Deals Event a Day Earlier](https://www.reviewgeek.com/86574/target-takes-aim-at-prime-day-kicks-off-its-own-deals-event-a-day-earlier/)
+* [Walk to a Beat With Google Fit's New Paced Walking Activity](https://www.reviewgeek.com/86566/walk-to-a-beat-with-google-fits-new-paced-walking-activity/)
+* [Should You Use a Monorepo?](https://www.cloudsavvyit.com/11584/should-you-use-a-monorepo/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The biblical mouse plague ravaging New South Wales - podcast](https://www.theguardian.com/news/audio/2021/jun/04/the-biblical-mouse-plague-ravaging-new-south-wales-podcast)
-- [Tom Cruise’s Mission: Impossible 7 production temporarily shut down due to coronavirus case](https://www.theguardian.com/film/2021/jun/04/tom-cruises-mission-impossible-7-production-temporarily-shut-down-due-to-coronavirus-case)
-- [Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack](https://www.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks)
-- [SpaceX rocket heads to ISS with a supply of squid, toothpaste and avocados](https://www.theguardian.com/science/2021/jun/03/spacex-rocket-heads-to-iss-with-a-supply-of-squid-toothpaste-and-avocados)
-- [Hong Kong vigil leader arrested as 7,000 police enforce ban on Tiananmen anniversary protests](https://www.theguardian.com/world/2021/jun/04/hong-kong-7000-police-ready-to-enforce-ban-on-tiananmen-anniversary-protests)
-- [By banning Tiananmen vigils in Hong Kong, China is trying to rewrite history | Louisa Lim](https://www.theguardian.com/commentisfree/2021/jun/04/banning-tiananmen-vigils-hong-kong-china-communist-party)
-- [First-time buyers in England offered new homes at up to 50% off](https://www.theguardian.com/money/2021/jun/04/first-time-buyers-in-england-offered-new-homes-at-up-to-50-off)
-- [Euro 2020 team guides part 9: Austria](https://www.theguardian.com/football/2021/jun/04/euro-2020-team-guides-part-9-austria)
-- [Zeyaadah can upset O’Brien pair and land first Oaks win for Roger Varian](https://www.theguardian.com/sport/2021/jun/04/zeyaadah-can-upset-aidan-obrien-pair-and-land-first-oaks-win-for-roger-varian-horse-racing-tips)
-- [Facebook will end special treatment for politicians after Trump ban - report](https://www.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban)
+- [Microsoft blocks Bing from showing image results for Tiananmen ‘tank man’](https://www.theguardian.com/technology/2021/jun/04/microsoft-bing-tiananmen-tank-man-results)
+- [Pentagon won’t allow pride flags to be flown at military bases](https://www.theguardian.com/us-news/2021/jun/05/pentagon-wont-allow-pride-flags-to-be-flown-at-military-bases)
+- [‘Sea snot’ covers Turkish coast, threatening fishing industry](https://www.theguardian.com/world/2021/jun/05/sea-snot-covers-turkish-coast-threatening-fishing-industry)
+- [Frightened terns abandon 3,000 eggs after drone illegally crashes on beach](https://www.theguardian.com/us-news/2021/jun/04/tern-bird-eggs-abandoned-drone)
+- [Euro 2020 team guides part 11: North Macedonia](https://www.theguardian.com/football/2021/jun/05/euro-2020-team-guides-part-11-north-macedonia)
+- [Gambling logos feature 700 times in football match, says Ch4 documentary](https://www.theguardian.com/society/2021/jun/05/gambling-logos-feature-700-times-in-football-match-says-ch4-documentary)
+- [One in four elderly black people in the UK still not vaccinated](https://www.theguardian.com/society/2021/jun/05/one-in-four-elderly-black-people-in-the-uk-still-not-vaccinated)
+- [Talking Horses: Hurricane Lane can blow rest of field away in Derby](https://www.theguardian.com/sport/blog/2021/jun/05/talking-horses-hurricane-lane-can-blow-rest-of-field-away-in-derby-horse-racing-tips)
+- [Jeanette Winterson burns her own books in protest at ‘cosy little blurbs’](https://www.theguardian.com/books/2021/jun/04/jeanette-winterson-burns-her-own-books-in-outrage-at-cosy-little-blurbs)
+- [Katie Hill ordered to pay $220,000 in costs after failed intimate photos suit](https://www.theguardian.com/us-news/2021/jun/04/katie-hill-ordered-to-pay-220000-costs-intimate-photos-suit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

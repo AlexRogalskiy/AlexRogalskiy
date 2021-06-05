@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
-- [Robot Sticks to Ceilings by Vibrating a Flexible Disc](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings)
-- [Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/)
-- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
-- [Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)](http://www.geoffreylandis.com/ebullism.html)
-- [The lab-leak theory: inside the fight to uncover Covid-19’s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
-- [Stanford CS Curriculum 2021](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
-- [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp/)
-- [TinyPilot: Month 11](https://mtlynch.io/retrospectives/2021/06/)
-- [Telnet Mapscii.me](http://mapscii.me)
+- [R.A. Lafferty: “The Greatest Catholic Novelist You Never Heard Of”](https://www.benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
+- [Remote Controlling a Nintendo Switch for Fun and Profit](https://aricodes.net/posts/remote-controlling-a-nintendo-switch/)
+- [Hackers breached Colonial Pipeline using compromised password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
+- [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
+- [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
+- [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
+- [LOL just got kicked out of  @ycombinator](https://twitter.com/paulbiggar/status/1400904600421535744)
+- [John Carmack on JPEG](https://twitter.com/ID_AA_Carmack/status/1400930510671601666)
+- [Denmark parliament approves giant artificial island off Copenhagen](https://www.bbc.co.uk/news/world-europe-57348415)
+- [Bonzi Buddy](https://bonzi.link/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

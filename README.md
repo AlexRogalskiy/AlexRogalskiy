@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Reports raise alarm over Huawei access to Dutch networks](https://www.computerweekly.com/news/252501858/Reports-raise-alarm-over-Huawei-access-to-Dutch-networks)
-- [Penny-pinchers undermine value of open source](https://www.computerweekly.com/news/252501856/Penny-pinchers-put-value-of-open-source-at-risk)
-- [Norway’s auditor general lifts lid on energy industry’s cyber security risks](https://www.computerweekly.com/news/252501847/Norways-auditor-general-lifts-lid-on-energy-industrys-cyber-security-risks)
-- [Atos offers enterprises digital route to net-zero emissions](https://www.computerweekly.com/news/252501843/Atos-offers-enterprises-digital-route-to-net-zero-emissions)
-- [Swedish university is behind quantum computing breakthrough](https://www.computerweekly.com/news/252501845/Swedish-university-is-behind-quantum-computing-breakthrough)
-- [Tories fined over email data protection breaches](https://www.computerweekly.com/news/252501841/Tories-fined-over-email-data-protection-breaches)
-- [FireEye sold to private equity, Mandiant regains independence](https://www.computerweekly.com/news/252501844/FireEye-sold-to-private-equity-Mandiant-regains-independence)
-- [Pandemic a ‘once-in-a-lifetime’ chance to reshape security](https://www.computerweekly.com/news/252501839/Pandemic-a-once-in-a-lifetime-chance-to-reshape-security)
-- [Sapphire 2021: Klein vaunts rebooted Ariba business network as sustainability driver](https://www.computerweekly.com/news/252501810/Sapphire-2021-Klein-vaunts-rebooted-Ariba-business-network-as-sustainability-driver)
-- [Scottish businesses missing out on Cyber Essentials benefits](https://www.computerweekly.com/news/252501744/Scottish-businesses-missing-out-on-Cyber-Essentials-benefits)
+- [Indian IT giants cut carbon emissions by 85% as pandemic stops travel](https://www.computerweekly.com/news/252501928/Indian-IT-giants-cut-carbon-emissions-by-85-as-pandemic-stops-travel)
+- [HSBC offers all businesses scam awareness app](https://www.computerweekly.com/news/252501918/HSBC-offers-all-businesses-scam-awareness-app)
+- [UK immigration exemption in Data Protection Act found unlawful](https://www.computerweekly.com/news/252501926/UK-immigration-exemption-in-Data-Protection-Act-found-unlawful)
+- [Whirlpool deepens Google Cloud partnership with SAP off-premise migration plan](https://www.computerweekly.com/news/252501923/Whirlpool-deepens-Google-Cloud-partnership-with-SAP-off-premise-migration-plan)
+- [IR35 reforms: Qdos research suggests room for improvement](https://www.computerweekly.com/news/252501917/IR35-reforms-Qdos-research-suggests-room-for-improvement)
+- [Amazon launches apprenticeship fund for small businesses](https://www.computerweekly.com/news/252501922/Amazon-launches-apprenticeship-fund-for-small-businesses)
+- [Security Think Tank: Printers can’t be an ‘add-on’ in your cyber strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Printers-cant-be-an-add-on-in-your-cyber-strategy)
+- [BCS: Lack of communication over NHS GPDPR ‘astonishing’](https://www.computerweekly.com/news/252501916/BCS-Lack-of-communication-over-NHS-GPDPR-astonishing)
+- [Secrecy around EncroChat cryptophone hack breaches French constitution, court hears](https://www.computerweekly.com/news/252501921/Secrecy-around-EncroChat-cryptophone-hack-breaches-French-constitution-court-hears)
+- [Government action on ransomware epidemic gathers pace](https://www.computerweekly.com/news/252501907/Government-action-on-ransomware-epidemic-gathers-pace)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

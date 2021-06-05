@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Note to IT: Google really wants its privacy settings left alone](https://www.computerworld.com/article/3620956/note-to-it-google-really-wants-its-privacy-settings-left-alone.html#tk.rss_all)
+- [WWDC 2021: What we think we know about an M1X MacBook Pro](https://www.computerworld.com/article/3620885/wwdc-2021-what-we-think-we-know-about-an-m1x-macbook-pro.html#tk.rss_all)
+- [Chewy Has Revolutionized Pet Care Customer Service](https://www.computerworld.com/article/3619883/chewy-has-revolutionized-pet-care-customer-service.html#tk.rss_all)
+- [Why inquisitiveness matters as much as IQ](https://www.computerworld.com/article/3620890/why-inquisitiveness-matters-as-much-as-iq.html#tk.rss_all)
+- [Nvidia Omniverse: Could it make today’s videoconferencing apps obsolete?](https://www.computerworld.com/article/3620976/nvidia-omniverse-could-it-make-todays-videoconferencing-apps-obsolete.html#tk.rss_all)
 - [Get a lifetime of CompTIA certification training today for just $50](https://www.computerworld.com/article/3619899/get-a-lifetime-of-comptia-certification-training-today-for-just-50.html#tk.rss_all)
 - [A guide to getting first-party data from your customers](https://www.computerworld.com/article/3619071/a-guide-to-getting-first-party-data-from-your-customers.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Apple to try new hybrid workplace model for a year](https://www.computerworld.com/article/3620990/apple-to-try-new-hybrid-workplace-model-for-a-year.html#tk.rss_all)
 - [The missing context around Google's Android privacy fallout](https://www.computerworld.com/article/3620869/google-android-privacy.html#tk.rss_all)
-- [The business user’s guide to Gmail](https://www.computerworld.com/article/3619271/the-business-user-s-guide-to-gmail.html#tk.rss_all)
-- [When is a cybersecurity hole not a hole? Never](https://www.computerworld.com/article/3620889/when-is-a-cybersecurity-hole-not-a-hole-never.html#tk.rss_all)
-- [What's in the latest Firefox update? 89 debuts UI overhaul, Mozilla hopes to win back defectors](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-89-debuts-ui-overhaul-mozilla-hopes-to-win-back-defectors.html#tk.rss_all)
-- [WWDC 2021: Is Apple planning a 'homeOS' (that would also work in the office)?](https://www.computerworld.com/article/3620751/wwdc-2021-is-apple-planning-a-homeos-that-would-also-work-in-the-office.html#tk.rss_all)
-- [8 Outlook add-ins to enhance collaboration](https://www.computerworld.com/article/3619871/8-outlook-add-ins-to-enhance-collaboration.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

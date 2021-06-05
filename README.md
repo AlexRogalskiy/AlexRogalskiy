@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/H/heat_up_1__1951.php" target="_blank"><i>heat up (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/keep_1/keep_from_1__2219.php" target="_blank"><i>keep from (1)</i></a>
 <span> = </span>
-<span>If you heat something up, you make it hotter.</span>
+<span>If something or someone keeps you from doing something, it means you can't do it.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

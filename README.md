@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Future of Supercomputers: Democratization Is Critical](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/the-future-of-supercomputers-democratization-is-critical/a/d-id/1341140?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Preparing for the Upcoming Quantum Computing Revolution](https://www.informationweek.com/big-data/preparing-for-the-upcoming-quantum-computing-revolution/a/d-id/1341127?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Automation Strategies Are Shaping Up](https://www.informationweek.com/big-data/ai-machine-learning/automation-strategies-are-shaping-up/a/d-id/1341092?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [LogMeIn CIO: The Art of Integrating Acquisitions](https://www.informationweek.com/strategic-cio/logmein-cio-the-art-of-integrating-acquisitions/d/d-id/1341157?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Investing in the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/strategic-cio/team-building-and-staffing/investing-in-the-cybersecurity-workforce-of-tomorrow/a/d-id/1341125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How Enterprises are Evolving Their NLP](https://www.informationweek.com/strategic-cio/how-enterprises-are-evolving-their-nlp/a/d-id/1341107?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Get Developer and Security Teams Aligned](https://www.informationweek.com/devops/how-to-get-developer-and-security-teams-aligned/a/d-id/1341080?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Preparing Future Data Scientists for Jobs of Tomorrow](https://www.informationweek.com/big-data/preparing-future-data-scientists-for-jobs-of-tomorrow/d/d-id/1341145?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Data is the Cure for What's Ailing the Supply Chain](https://www.informationweek.com/big-data/data-is-the-cure-for-whats-ailing-the-supply-chain/a/d-id/1341124?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

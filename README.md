@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The one Slack channel to create](http://zvi.band/posts/the-one-slack-channel-to-create/)
-- [Judging Freehand Circle Drawing Competitions (2018)](https://staff.math.su.se/hoehle/blog/2018/07/31/circle.html)
-- [Google Replaces Millions of Intel's CPUs with Its Own Homegrown Chips](https://www.tomshardware.com/news/intel-replaces-xeons-with-custom-vcus)
-- [Genetic Diseases to Guide Digital Hacks of the Human Genome [video, 2017]](https://youtube.com/watch?v=HKQDSgBHPfY)
-- [China's New Space Station Is Powered by Ion Thruster](https://futurism.com/chinas-new-space-station-powered-ion-thrusters/)
-- [Coinbase Account Hacked](https://www.reddit.com/r/CoinBase/comments/gdcgd9/coinbase_account_hacked/)
-- [I'm the admin of my old employer's LinkedIn page](https://www.justus.ws/blog/20210603_linkedinsucks/)
-- [Microsoft leads the way to hybrid work](https://customers.microsoft.com/en-us/story/1371183111958353030-microsoft-hybrid-work-process-microsoft-365)
-- [What Pilots See – Red 6's Augmented Reality Dogfighting Goggles](https://www.thedrive.com/the-war-zone/40879/this-is-what-pilots-actually-see-inside-red-6s-augmented-reality-dogfighting-goggles)
-- ['The lab-leak origin claim for Covid-19 is in the news but it's still fact-free'](https://www.msn.com/en-us/news/technology/column-the-lab-leak-origin-claim-for-covid-19-is-in-the-news-but-it-s-still-fact-free/ar-AAKGj1e?ocid=BingNewsSearch)
+- [Sphinxnotes-Any: A Sphinx-Doc Domain for Describing Anything](https://sphinx-notes.github.io/any/)
+- [USA Today resists FBI subpoena seeking IP addresses of those who read story](https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html)
+- [Untapped potential in Rust's type system](https://www.jakobmeier.ch/blogging/Untapped-Rust.html)
+- [FBI Director Compares Ransomware Danger to 9/11 Threat](https://www.nytimes.com/2021/06/04/us/politics/ransomware-cyberattacks-sept-11-fbi.html)
+- [Aviation startup Lilium to go public through SPAC deal with ex-GM executive](https://www.cnbc.com/2021/03/30/aviation-firm-lilium-to-go-public-through-spac-deal-with-ex-gm-exec.html)
+- [People have abandoned hundreds of cats on a deserted Brazilian island](https://www.washingtonpost.com/world/2021/06/04/coronavirus-brazil-cat-island/)
+- [H-Principle (Wikipedia)](https://en.wikipedia.org/wiki/Homotopy_principle)
+- [Tips for retail stores looking to gradually get into ecommerce](https://capitalandgrowth.org/answers/3638023/Tips-for-a-retail-store-looking-to-gradually-get-into-ecommerce)
+- [OpTiMSoC – create your own manycore System-on-Chip](https://www.optimsoc.org/)
+- [I Built a Lisp](https://github.com/amirgamil/lispy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
+- [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
+- [Professor Messer CompTIA A+ instruction videos still relevant today?](https://www.reddit.com/r/InformationTechnology/comments/nsfoen/professor_messer_comptia_a_instruction_videos/)
+- [Is it true that an undergraduate in MIS is sorta useless?](https://www.reddit.com/r/InformationTechnology/comments/nsaupd/is_it_true_that_an_undergraduate_in_mis_is_sorta/)
+- [Database administrator vs network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ns8csk/database_administrator_vs_network_administrator/)
+- [Looking For Remote Access Software (Other Than TeamViewer) That Allows Admin Rights](https://www.reddit.com/r/InformationTechnology/comments/ns7c1b/looking_for_remote_access_software_other_than/)
+- [Do employers care about college GPA when hiring?](https://www.reddit.com/r/InformationTechnology/comments/ns75eb/do_employers_care_about_college_gpa_when_hiring/)
+- [Question](https://www.reddit.com/r/InformationTechnology/comments/nrxbnx/question/)
 - [Question about Info Tech degrees](https://www.reddit.com/r/InformationTechnology/comments/nruhq5/question_about_info_tech_degrees/)
 - [Which offer should I choose? TCS offer of 6.5 LPA for Siebel Developer or 5.5 LPA for Salesforce Developer in my current company?](https://www.reddit.com/r/InformationTechnology/comments/nrk4fx/which_offer_should_i_choose_tcs_offer_of_65_lpa/)
-- [How to get around email blacklist?](https://www.reddit.com/r/InformationTechnology/comments/nral8k/how_to_get_around_email_blacklist/)
-- [Thoughts about ethics and policy lagging behind Big Data and Information Selling](https://www.reddit.com/r/InformationTechnology/comments/nr2ipr/thoughts_about_ethics_and_policy_lagging_behind/)
-- [Feeding grafana with data from another grafana instance?](https://www.reddit.com/r/InformationTechnology/comments/nqzblg/feeding_grafana_with_data_from_another_grafana/)
-- [Got a pretty basic question about the CPU requesting Data](https://www.reddit.com/r/InformationTechnology/comments/nqx6fc/got_a_pretty_basic_question_about_the_cpu/)
-- [(No Experience People) How are you guys remembering all this information for the Cert A+](https://www.reddit.com/r/InformationTechnology/comments/nqec4j/no_experience_people_how_are_you_guys_remembering/)
-- [Freelancing while working for corporation](https://www.reddit.com/r/InformationTechnology/comments/nqdhqn/freelancing_while_working_for_corporation/)
-- [Capstone Project Dilemma](https://www.reddit.com/r/InformationTechnology/comments/nq0x7p/capstone_project_dilemma/)
-- [Windows servers](https://www.reddit.com/r/InformationTechnology/comments/npxl3c/windows_servers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

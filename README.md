@@ -185,25 +185,25 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Buildings/put_your_own_house_in_order_get_your_own_house_in_order_715.php" target="_blank"><i>put your own house in order | get your own house in order</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Death/a_matter_of_life_and_death_661.php" target="_blank"><i>a matter of life and death</i></a>
 <span> = </span>
-<span>If you say to someone "put your own house in order", or "get your own house in order", you think they should solve their own problems before telling someone else how to solve theirs.</span>
+<span>If something is a matter of life and death, it's extremely important and it could involve someone's survival.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_1/rip-off_1__1094.php" target="_blank"><i>rip-off (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_1/busted_1143.php" target="_blank"><i>busted</i></a>
 <span> = </span>
-<span>charging too much for something</span>
+<span>to be charged with a criminal offence</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/United_we_stand_divided_we_fall_590.php" target="_blank"><i>United we stand, divided we fall</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/You_can_t_tell_a_book_by_its_cover_836.php" target="_blank"><i>You can't tell a book by its cover</i></a>
 <span> = </span>
-<span>If we work together we can be successful. If we fight each other we will fail.</span>
+<span>You cannot judge what something or someone is like by looking at the exterior.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
@@ -241,8 +241,35 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/653084206547845120" target="_blank"><i>Ripening</i></a></summary>
-<p>by Wendell Berry</p><p>The longer we are together<br/>the larger death grows around us.<br/>How many we know by now<br/>who are dead! We, who were young,<br/>now count the cost of having been.<br/>And yet as we know the dead<br/>we grow familiar with the world.<br/>We, who were young and loved each other<br/>ignorantly, now come to know<br/>each other in love, married<br/>by what we have done, as much<br/>as by what we intend. Our hair<br/>turns white with our ripening<br/>as though to fly away in some <br/>coming wind, bearing the seed<br/>of what we know. It was bitter to learn<br/>that we come to death as we come<br/>to love, bitter to face<br/>the just and solving welcome<br/>that death prepares. But that is bitter<br/>only to the ignorant, who pray<br/>it will not happen. Having come<br/>the bitter way to better prayer, we have<br/>the sweetness of ripening. How sweet<br/>to know you by the signs of this world!</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653171987603193856" target="_blank"><i>Starlings in Winter</i></a></summary>
+<p>by Mary Oliver</p><p>Chunky and noisy,<br/>
+but with stars in their black feathers,<br/>
+they spring from the telephone wire<br/>
+and instantly</p><p>they are acrobats<br/>
+in the freezing wind.<br/>
+And now, in the theater of air,<br/>
+they swing over buildings,</p><p>dipping and rising;<br/>
+they float like one stippled star<br/>
+that opens,<br/>
+becomes for a moment fragmented,</p><p>then closes again;<br/>
+and you watch<br/>
+and you try<br/>
+but you simply can&rsquo;t imagine</p><p>how they do it<br/>
+with no articulated instruction, no pause,<br/>
+only the silent confirmation<br/>
+that they are this notable thing,</p><p>this wheel of many parts, that can rise and spin<br/>
+over and over again,<br/>
+full of gorgeous life.</p><p>Ah, world, what lessons you prepare for us,<br/>
+even in the leafless winter,<br/>
+even in the ashy city.<br/>
+I am thinking now<br/>
+of grief, and of getting past it;</p><p>I feel my boots<br/>
+trying to leave the ground,<br/>
+I feel my heart<br/>
+pumping hard. I want</p><p>to think again of dangerous and noble things.<br/>
+I want to be light and frolicsome.<br/>
+I want to be improbable beautiful and afraid of nothing,<br/>
+as though I had wings.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -273,7 +300,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>12°C (<i>overcast clouds</i>), humidity: 82%, pressure: 1017 (mbar), wind: /east/ 2 (m/s), cloudy: 94%</b>
+        <b>13°C (<i>clear sky</i>), humidity: 82%, pressure: 1017 (mbar), wind: /north-east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:42 am</b> and sets at <b>22:12 pm</b>.
     </p>
@@ -286,61 +313,61 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [iFixit Tore Apart the iPad Pro's New Mini-LED Display, and It's PURTY](https://www.reviewgeek.com/86632/ifixit-tore-apart-the-ipad-pros-new-mini-led-display-and-its-purty/)
-* [What Is Twitter Blue, and Is It Worth $3 a Month?](https://www.howtogeek.com/732538/what-is-twitter-blue-and-is-it-worth-3-a-month/)
-* [Fujifilm Taken Down as Global Ransomware Spree Continues](https://www.reviewgeek.com/86636/fujifilm-taken-down-as-global-ransomware-spree-continues/)
-* [Wyze Home Security Monitoring Review: You Can't Say No to $80](https://www.reviewgeek.com/83315/wyze-home-security-monitoring-review-you-cant-say-no-to-60/)
-* [This Raspberry Pi Robot Can Shred Through Any Song on 'Guitar Hero'](https://www.reviewgeek.com/86606/this-raspberry-pi-robot-can-shred-through-any-song-on-guitar-hero/)
-* [IKEA's New Sensor Will Monitor Your Air Quality for Just $12](https://www.reviewgeek.com/86604/ikeas-new-sensor-will-monitor-your-air-quality-for-just-12/)
-* [Android Users Will Get to Opt Out of Ad Tracking in an Update Later This Year](https://www.reviewgeek.com/86588/android-users-will-get-to-opt-out-of-ad-tracking-in-an-update-later-this-year/)
-* [Target Takes Aim at Prime Day, Kicks off Its Own Deals Event a Day Earlier](https://www.reviewgeek.com/86574/target-takes-aim-at-prime-day-kicks-off-its-own-deals-event-a-day-earlier/)
-* [Walk to a Beat With Google Fit's New Paced Walking Activity](https://www.reviewgeek.com/86566/walk-to-a-beat-with-google-fits-new-paced-walking-activity/)
-* [Should You Use a Monorepo?](https://www.cloudsavvyit.com/11584/should-you-use-a-monorepo/)
+* [Tardigrades and Baby Squid Are Being Launched Into Space for Science](https://www.reviewgeek.com/86696/tardigrades-and-baby-squid-are-being-launched-into-space-for-science/)
+* [Goodbye C By GE, Hello Beautiful Cync Smart Home App](https://www.reviewgeek.com/86189/goodbye-c-by-ge-hello-beautiful-cync-smart-home-app/)
+* [The American Huawei Ban Isn't Going Away---It's Expanding](https://www.reviewgeek.com/86689/the-american-huawei-ban-isnt-going-away-its-expanding/)
+* [This Stupid McNugget Looks Like a Character from 'Among Us' ... and It Sold for $100k](https://www.reviewgeek.com/86671/this-stupid-mcnugget-looks-like-a-character-from-among-us-and-it-sold-for-100k/)
+* [How to Change Notification Sounds on Android](https://www.howtogeek.com/700443/how-to-change-notification-sounds-on-android/)
+* [How to Convert Microsoft OneNote Notes to a PDF](https://www.howtogeek.com/729088/how-to-convert-microsoft-onenote-notes-to-a-pdf/)
+* [Taito's First Micro Arcade Replica Has a Pop-Out Rotating Screen](https://www.reviewgeek.com/86728/taitos-first-micro-arcade-replica-has-a-pop-out-rotating-screen/)
+* [How to Turn off Comments on Instagram](https://www.howtogeek.com/728451/how-to-turn-off-comments-on-instagram/)
+* [The 5 Best TVs With Fire TV](https://www.reviewgeek.com/85562/the-5-best-tvs-with-fire-tv/)
+* [How to Reset Photoshop’s Tools Back to Their Defaults](https://www.howtogeek.com/725426/how-to-reset-photoshops-tools-back-to-their-defaults/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sphinxnotes-Any: A Sphinx-Doc Domain for Describing Anything](https://sphinx-notes.github.io/any/)
-- [USA Today resists FBI subpoena seeking IP addresses of those who read story](https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html)
-- [Untapped potential in Rust's type system](https://www.jakobmeier.ch/blogging/Untapped-Rust.html)
-- [FBI Director Compares Ransomware Danger to 9/11 Threat](https://www.nytimes.com/2021/06/04/us/politics/ransomware-cyberattacks-sept-11-fbi.html)
-- [Aviation startup Lilium to go public through SPAC deal with ex-GM executive](https://www.cnbc.com/2021/03/30/aviation-firm-lilium-to-go-public-through-spac-deal-with-ex-gm-exec.html)
-- [People have abandoned hundreds of cats on a deserted Brazilian island](https://www.washingtonpost.com/world/2021/06/04/coronavirus-brazil-cat-island/)
-- [H-Principle (Wikipedia)](https://en.wikipedia.org/wiki/Homotopy_principle)
-- [Tips for retail stores looking to gradually get into ecommerce](https://capitalandgrowth.org/answers/3638023/Tips-for-a-retail-store-looking-to-gradually-get-into-ecommerce)
-- [OpTiMSoC – create your own manycore System-on-Chip](https://www.optimsoc.org/)
-- [I Built a Lisp](https://github.com/amirgamil/lispy)
+- [Bill Gates paid $30.8M for this book 25 years ago (2019)](https://www.cnbc.com/2019/04/02/micrsoft-billionaire-bill-gates-paid-30-million-for-this-book-25-years-ago-and-it-still-inspires-him-today.html)
+- [“The Psychopathic Problem of the White Mind” (Yale Lecture)](https://bariweiss.substack.com/p/the-psychopathic-problem-of-the-white)
+- [Roberta and Ken Williams announce their first game in over 20 years](https://www.destructoid.com/roberta-williams-new-game-sierra-online/)
+- [Stainless Steel – Elwood Haynes – PDF Drive](https://www.pdfdrive.com/stainless-steel-elwood-haynes-e201021332.html)
+- [How does a USB keyboard work?](https://youtube.com/watch?v=wdgULBpRoXk)
+- [How to make a wind turbine generator using PVC blades and printer motor [video]](https://www.youtube.com/watch?v=akrEVDgOTi0)
+- [Things you should know about stock options before negotiating an offer](https://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
+- [How A Watch Connoisseur Fell in Love with Smartwatches](https://www.gq.com/story/benjamin-clymer-june-column)
+- [City roads – This website renders every single road within a city](https://anvaka.github.io/city-roads/)
+- [Facebook wants to launch its newsletter product later this month](https://www.vox.com/recode/22518571/facebook-substack-bulletin-newsletter-launch)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Microsoft blocks Bing from showing image results for Tiananmen ‘tank man’](https://www.theguardian.com/technology/2021/jun/04/microsoft-bing-tiananmen-tank-man-results)
-- [Pentagon won’t allow pride flags to be flown at military bases](https://www.theguardian.com/us-news/2021/jun/05/pentagon-wont-allow-pride-flags-to-be-flown-at-military-bases)
-- [‘Sea snot’ covers Turkish coast, threatening fishing industry](https://www.theguardian.com/world/2021/jun/05/sea-snot-covers-turkish-coast-threatening-fishing-industry)
-- [Frightened terns abandon 3,000 eggs after drone illegally crashes on beach](https://www.theguardian.com/us-news/2021/jun/04/tern-bird-eggs-abandoned-drone)
-- [Euro 2020 team guides part 11: North Macedonia](https://www.theguardian.com/football/2021/jun/05/euro-2020-team-guides-part-11-north-macedonia)
-- [Gambling logos feature 700 times in football match, says Ch4 documentary](https://www.theguardian.com/society/2021/jun/05/gambling-logos-feature-700-times-in-football-match-says-ch4-documentary)
-- [One in four elderly black people in the UK still not vaccinated](https://www.theguardian.com/society/2021/jun/05/one-in-four-elderly-black-people-in-the-uk-still-not-vaccinated)
-- [Talking Horses: Hurricane Lane can blow rest of field away in Derby](https://www.theguardian.com/sport/blog/2021/jun/05/talking-horses-hurricane-lane-can-blow-rest-of-field-away-in-derby-horse-racing-tips)
-- [Jeanette Winterson burns her own books in protest at ‘cosy little blurbs’](https://www.theguardian.com/books/2021/jun/04/jeanette-winterson-burns-her-own-books-in-outrage-at-cosy-little-blurbs)
-- [Katie Hill ordered to pay $220,000 in costs after failed intimate photos suit](https://www.theguardian.com/us-news/2021/jun/04/katie-hill-ordered-to-pay-220000-costs-intimate-photos-suit)
+- [China, Fauci and witch hunts: Donald Trump takes aim at usual suspects in return to stage](https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus)
+- [Cattle thieves kill 66 villagers in north-west Nigeria](https://www.theguardian.com/world/2021/jun/06/cattle-thieves-nigeria-kill-villagers-)
+- [Why cryptocurrencies may remain merely a bit on the side](https://www.theguardian.com/business/2021/jun/06/why-cryptocurrencies-may-remain-merely-a-bit-on-the-side)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Labour plans to embarrass government with vote on pupil catch-up plan](https://www.theguardian.com/education/2021/jun/05/labour-plans-to-embarrass-government-with-vote-on-pupil-catch-up-plan)
+- [Share vaccines or climate deal will fail, rich countries are told](https://www.theguardian.com/society/2021/jun/05/share-vaccines-or-climate-deal-will-fail-rich-countries-are-told)
+- [Mo Farah’s Tokyo Olympic hopes hang by thread after shock 10,000m defeat](https://www.theguardian.com/sport/2021/jun/05/mo-farahs-tokyo-hopes-in-balance-after-disappointing-return-to-track)
+- [Naomi Wolf banned from Twitter for spreading vaccine myths](https://www.theguardian.com/books/2021/jun/05/naomi-wolf-banned-twitter-spreading-vaccine-myths)
+- [Chasing lightning: a photographer’s pursuit of the elements – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/jun/06/chasing-lightning-a-photographers-pursuit-of-the-elements-in-pictures)
+- [Gleefully single seniors: ‘If I wanted to feel complete, it had to come from within’](https://www.theguardian.com/lifeandstyle/2021/jun/06/gleefully-single-seniors-if-i-wanted-to-feel-complete-it-had-to-come-from-within)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [R.A. Lafferty: “The Greatest Catholic Novelist You Never Heard Of”](https://www.benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
-- [Remote Controlling a Nintendo Switch for Fun and Profit](https://aricodes.net/posts/remote-controlling-a-nintendo-switch/)
-- [Hackers breached Colonial Pipeline using compromised password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
-- [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
-- [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
-- [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
-- [LOL just got kicked out of  @ycombinator](https://twitter.com/paulbiggar/status/1400904600421535744)
-- [John Carmack on JPEG](https://twitter.com/ID_AA_Carmack/status/1400930510671601666)
-- [Denmark parliament approves giant artificial island off Copenhagen](https://www.bbc.co.uk/news/world-europe-57348415)
-- [Bonzi Buddy](https://bonzi.link/)
+- [Ethereum move to Proof-of-Stake again delayed by 18 months](https://tokenist.com/buterin-explains-why-ethereum-2-0-upgrade-wont-arrive-until-late-2022/)
+- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
+- [Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
+- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
+- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
+- [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
+- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
+- [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
+- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
+- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -406,16 +433,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Salary](https://www.reddit.com/r/InformationTechnology/comments/ntcfch/salary/)
+- [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
 - [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
 - [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
 - [Professor Messer CompTIA A+ instruction videos still relevant today?](https://www.reddit.com/r/InformationTechnology/comments/nsfoen/professor_messer_comptia_a_instruction_videos/)
-- [Is it true that an undergraduate in MIS is sorta useless?](https://www.reddit.com/r/InformationTechnology/comments/nsaupd/is_it_true_that_an_undergraduate_in_mis_is_sorta/)
 - [Database administrator vs network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ns8csk/database_administrator_vs_network_administrator/)
 - [Looking For Remote Access Software (Other Than TeamViewer) That Allows Admin Rights](https://www.reddit.com/r/InformationTechnology/comments/ns7c1b/looking_for_remote_access_software_other_than/)
 - [Do employers care about college GPA when hiring?](https://www.reddit.com/r/InformationTechnology/comments/ns75eb/do_employers_care_about_college_gpa_when_hiring/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/nrxbnx/question/)
 - [Question about Info Tech degrees](https://www.reddit.com/r/InformationTechnology/comments/nruhq5/question_about_info_tech_degrees/)
-- [Which offer should I choose? TCS offer of 6.5 LPA for Siebel Developer or 5.5 LPA for Salesforce Developer in my current company?](https://www.reddit.com/r/InformationTechnology/comments/nrk4fx/which_offer_should_i_choose_tcs_offer_of_65_lpa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

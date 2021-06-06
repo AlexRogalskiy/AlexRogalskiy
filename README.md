@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [R.A. Lafferty: “The Greatest Catholic Novelist You Never Heard Of”](https://www.benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
-- [Remote Controlling a Nintendo Switch for Fun and Profit](https://aricodes.net/posts/remote-controlling-a-nintendo-switch/)
-- [Hackers breached Colonial Pipeline using compromised password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
-- [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
-- [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
-- [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
-- [LOL just got kicked out of  @ycombinator](https://twitter.com/paulbiggar/status/1400904600421535744)
-- [John Carmack on JPEG](https://twitter.com/ID_AA_Carmack/status/1400930510671601666)
-- [Denmark parliament approves giant artificial island off Copenhagen](https://www.bbc.co.uk/news/world-europe-57348415)
-- [Bonzi Buddy](https://bonzi.link/)
+- [Ethereum move to Proof-of-Stake again delayed by 18 months](https://tokenist.com/buterin-explains-why-ethereum-2-0-upgrade-wont-arrive-until-late-2022/)
+- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
+- [Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
+- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
+- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
+- [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
+- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
+- [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
+- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
+- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

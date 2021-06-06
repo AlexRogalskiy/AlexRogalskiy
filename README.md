@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;4a&#x2F;25&#x2F;5a&#x2F;4a255a8f1e95791fa265fd3f392c1c09.jpg" alt="Pardon the agglomeration. It&#39;s the Word of the Day. Want more? Click for example sentences and more." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ff&#x2F;09&#x2F;11&#x2F;ff0911b5fec2ceb71b8396892b58477d.jpg" alt="Focus on the Word of the Day, and let your stress deliquesce.⁠ ⁠ Click to learn how to say it, get example sentences, and more!" />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ff&#x2F;09&#x2F;11&#x2F;ff0911b5fec2ceb71b8396892b58477d.jpg" alt="Focus on the Word of the Day, and let your stress deliquesce.⁠ ⁠ Click to learn how to say it, get example sentences, and more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6d&#x2F;a0&#x2F;7e&#x2F;6da07ec74c7a9e6147a8532148d44a12.jpg" alt="The Word of the Day is important, even when it&#39;s stultify. Want more? Click for example sentences, pronunciation, and our free podcast. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;72&#x2F;25&#x2F;dd&#x2F;7225dd94d8950b3dabc8da52afceb9d2.jpg" alt="Allow us to interlard your vocabulary with this #WordOfTheDay. Want more examples? Head to Dictionary.com. " />
     </p>
@@ -300,7 +300,7 @@ as though I had wings.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>18°C (<i>clear sky</i>), humidity: 72%, pressure: 1017 (mbar), wind: /north/ 2 (m/s), cloudy: 0%</b>
+        <b>22°C (<i>clear sky</i>), humidity: 59%, pressure: 1014 (mbar), wind: /north-east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:42 am</b> and sets at <b>22:12 pm</b>.
     </p>

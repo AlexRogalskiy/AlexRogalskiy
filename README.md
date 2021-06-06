@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Mixed_1/rip-off_1__1094.php" target="_blank"><i>rip-off (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_1/busted_1143.php" target="_blank"><i>busted</i></a>
 <span> = </span>
-<span>charging too much for something</span>
+<span>to be charged with a criminal offence</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

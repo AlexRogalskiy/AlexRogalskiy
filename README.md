@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sphinxnotes-Any: A Sphinx-Doc Domain for Describing Anything](https://sphinx-notes.github.io/any/)
-- [USA Today resists FBI subpoena seeking IP addresses of those who read story](https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html)
-- [Untapped potential in Rust's type system](https://www.jakobmeier.ch/blogging/Untapped-Rust.html)
-- [FBI Director Compares Ransomware Danger to 9/11 Threat](https://www.nytimes.com/2021/06/04/us/politics/ransomware-cyberattacks-sept-11-fbi.html)
-- [Aviation startup Lilium to go public through SPAC deal with ex-GM executive](https://www.cnbc.com/2021/03/30/aviation-firm-lilium-to-go-public-through-spac-deal-with-ex-gm-exec.html)
-- [People have abandoned hundreds of cats on a deserted Brazilian island](https://www.washingtonpost.com/world/2021/06/04/coronavirus-brazil-cat-island/)
-- [H-Principle (Wikipedia)](https://en.wikipedia.org/wiki/Homotopy_principle)
-- [Tips for retail stores looking to gradually get into ecommerce](https://capitalandgrowth.org/answers/3638023/Tips-for-a-retail-store-looking-to-gradually-get-into-ecommerce)
-- [OpTiMSoC – create your own manycore System-on-Chip](https://www.optimsoc.org/)
-- [I Built a Lisp](https://github.com/amirgamil/lispy)
+- [Bill Gates paid $30.8M for this book 25 years ago (2019)](https://www.cnbc.com/2019/04/02/micrsoft-billionaire-bill-gates-paid-30-million-for-this-book-25-years-ago-and-it-still-inspires-him-today.html)
+- [“The Psychopathic Problem of the White Mind” (Yale Lecture)](https://bariweiss.substack.com/p/the-psychopathic-problem-of-the-white)
+- [Roberta and Ken Williams announce their first game in over 20 years](https://www.destructoid.com/roberta-williams-new-game-sierra-online/)
+- [Stainless Steel – Elwood Haynes – PDF Drive](https://www.pdfdrive.com/stainless-steel-elwood-haynes-e201021332.html)
+- [How does a USB keyboard work?](https://youtube.com/watch?v=wdgULBpRoXk)
+- [How to make a wind turbine generator using PVC blades and printer motor [video]](https://www.youtube.com/watch?v=akrEVDgOTi0)
+- [Things you should know about stock options before negotiating an offer](https://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
+- [How A Watch Connoisseur Fell in Love with Smartwatches](https://www.gq.com/story/benjamin-clymer-june-column)
+- [City roads – This website renders every single road within a city](https://anvaka.github.io/city-roads/)
+- [Facebook wants to launch its newsletter product later this month](https://www.vox.com/recode/22518571/facebook-substack-bulletin-newsletter-launch)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

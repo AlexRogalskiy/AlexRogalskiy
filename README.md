@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_3/United_we_stand_divided_we_fall_590.php" target="_blank"><i>United we stand, divided we fall</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/You_can_t_tell_a_book_by_its_cover_836.php" target="_blank"><i>You can't tell a book by its cover</i></a>
 <span> = </span>
-<span>If we work together we can be successful. If we fight each other we will fail.</span>
+<span>You cannot judge what something or someone is like by looking at the exterior.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Microsoft blocks Bing from showing image results for Tiananmen ‘tank man’](https://www.theguardian.com/technology/2021/jun/04/microsoft-bing-tiananmen-tank-man-results)
-- [Pentagon won’t allow pride flags to be flown at military bases](https://www.theguardian.com/us-news/2021/jun/05/pentagon-wont-allow-pride-flags-to-be-flown-at-military-bases)
-- [‘Sea snot’ covers Turkish coast, threatening fishing industry](https://www.theguardian.com/world/2021/jun/05/sea-snot-covers-turkish-coast-threatening-fishing-industry)
-- [Frightened terns abandon 3,000 eggs after drone illegally crashes on beach](https://www.theguardian.com/us-news/2021/jun/04/tern-bird-eggs-abandoned-drone)
-- [Euro 2020 team guides part 11: North Macedonia](https://www.theguardian.com/football/2021/jun/05/euro-2020-team-guides-part-11-north-macedonia)
-- [Gambling logos feature 700 times in football match, says Ch4 documentary](https://www.theguardian.com/society/2021/jun/05/gambling-logos-feature-700-times-in-football-match-says-ch4-documentary)
-- [One in four elderly black people in the UK still not vaccinated](https://www.theguardian.com/society/2021/jun/05/one-in-four-elderly-black-people-in-the-uk-still-not-vaccinated)
-- [Talking Horses: Hurricane Lane can blow rest of field away in Derby](https://www.theguardian.com/sport/blog/2021/jun/05/talking-horses-hurricane-lane-can-blow-rest-of-field-away-in-derby-horse-racing-tips)
-- [Jeanette Winterson burns her own books in protest at ‘cosy little blurbs’](https://www.theguardian.com/books/2021/jun/04/jeanette-winterson-burns-her-own-books-in-outrage-at-cosy-little-blurbs)
-- [Katie Hill ordered to pay $220,000 in costs after failed intimate photos suit](https://www.theguardian.com/us-news/2021/jun/04/katie-hill-ordered-to-pay-220000-costs-intimate-photos-suit)
+- [China, Fauci and witch hunts: Donald Trump takes aim at usual suspects in return to stage](https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus)
+- [Cattle thieves kill 66 villagers in north-west Nigeria](https://www.theguardian.com/world/2021/jun/06/cattle-thieves-nigeria-kill-villagers-)
+- [Why cryptocurrencies may remain merely a bit on the side](https://www.theguardian.com/business/2021/jun/06/why-cryptocurrencies-may-remain-merely-a-bit-on-the-side)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Labour plans to embarrass government with vote on pupil catch-up plan](https://www.theguardian.com/education/2021/jun/05/labour-plans-to-embarrass-government-with-vote-on-pupil-catch-up-plan)
+- [Share vaccines or climate deal will fail, rich countries are told](https://www.theguardian.com/society/2021/jun/05/share-vaccines-or-climate-deal-will-fail-rich-countries-are-told)
+- [Mo Farah’s Tokyo Olympic hopes hang by thread after shock 10,000m defeat](https://www.theguardian.com/sport/2021/jun/05/mo-farahs-tokyo-hopes-in-balance-after-disappointing-return-to-track)
+- [Naomi Wolf banned from Twitter for spreading vaccine myths](https://www.theguardian.com/books/2021/jun/05/naomi-wolf-banned-twitter-spreading-vaccine-myths)
+- [Chasing lightning: a photographer’s pursuit of the elements – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/jun/06/chasing-lightning-a-photographers-pursuit-of-the-elements-in-pictures)
+- [Gleefully single seniors: ‘If I wanted to feel complete, it had to come from within’](https://www.theguardian.com/lifeandstyle/2021/jun/06/gleefully-single-seniors-if-i-wanted-to-feel-complete-it-had-to-come-from-within)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

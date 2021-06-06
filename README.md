@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Salary](https://www.reddit.com/r/InformationTechnology/comments/ntcfch/salary/)
+- [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
 - [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
 - [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
 - [Professor Messer CompTIA A+ instruction videos still relevant today?](https://www.reddit.com/r/InformationTechnology/comments/nsfoen/professor_messer_comptia_a_instruction_videos/)
-- [Is it true that an undergraduate in MIS is sorta useless?](https://www.reddit.com/r/InformationTechnology/comments/nsaupd/is_it_true_that_an_undergraduate_in_mis_is_sorta/)
 - [Database administrator vs network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ns8csk/database_administrator_vs_network_administrator/)
 - [Looking For Remote Access Software (Other Than TeamViewer) That Allows Admin Rights](https://www.reddit.com/r/InformationTechnology/comments/ns7c1b/looking_for_remote_access_software_other_than/)
 - [Do employers care about college GPA when hiring?](https://www.reddit.com/r/InformationTechnology/comments/ns75eb/do_employers_care_about_college_gpa_when_hiring/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/nrxbnx/question/)
 - [Question about Info Tech degrees](https://www.reddit.com/r/InformationTechnology/comments/nruhq5/question_about_info_tech_degrees/)
-- [Which offer should I choose? TCS offer of 6.5 LPA for Siebel Developer or 5.5 LPA for Salesforce Developer in my current company?](https://www.reddit.com/r/InformationTechnology/comments/nrk4fx/which_offer_should_i_choose_tcs_offer_of_65_lpa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

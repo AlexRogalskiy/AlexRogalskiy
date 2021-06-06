@@ -241,8 +241,35 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/653084206547845120" target="_blank"><i>Ripening</i></a></summary>
-<p>by Wendell Berry</p><p>The longer we are together<br/>the larger death grows around us.<br/>How many we know by now<br/>who are dead! We, who were young,<br/>now count the cost of having been.<br/>And yet as we know the dead<br/>we grow familiar with the world.<br/>We, who were young and loved each other<br/>ignorantly, now come to know<br/>each other in love, married<br/>by what we have done, as much<br/>as by what we intend. Our hair<br/>turns white with our ripening<br/>as though to fly away in some <br/>coming wind, bearing the seed<br/>of what we know. It was bitter to learn<br/>that we come to death as we come<br/>to love, bitter to face<br/>the just and solving welcome<br/>that death prepares. But that is bitter<br/>only to the ignorant, who pray<br/>it will not happen. Having come<br/>the bitter way to better prayer, we have<br/>the sweetness of ripening. How sweet<br/>to know you by the signs of this world!</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653171987603193856" target="_blank"><i>Starlings in Winter</i></a></summary>
+<p>by Mary Oliver</p><p>Chunky and noisy,<br/>
+but with stars in their black feathers,<br/>
+they spring from the telephone wire<br/>
+and instantly</p><p>they are acrobats<br/>
+in the freezing wind.<br/>
+And now, in the theater of air,<br/>
+they swing over buildings,</p><p>dipping and rising;<br/>
+they float like one stippled star<br/>
+that opens,<br/>
+becomes for a moment fragmented,</p><p>then closes again;<br/>
+and you watch<br/>
+and you try<br/>
+but you simply can&rsquo;t imagine</p><p>how they do it<br/>
+with no articulated instruction, no pause,<br/>
+only the silent confirmation<br/>
+that they are this notable thing,</p><p>this wheel of many parts, that can rise and spin<br/>
+over and over again,<br/>
+full of gorgeous life.</p><p>Ah, world, what lessons you prepare for us,<br/>
+even in the leafless winter,<br/>
+even in the ashy city.<br/>
+I am thinking now<br/>
+of grief, and of getting past it;</p><p>I feel my boots<br/>
+trying to leave the ground,<br/>
+I feel my heart<br/>
+pumping hard. I want</p><p>to think again of dangerous and noble things.<br/>
+I want to be light and frolicsome.<br/>
+I want to be improbable beautiful and afraid of nothing,<br/>
+as though I had wings.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [iFixit Tore Apart the iPad Pro's New Mini-LED Display, and It's PURTY](https://www.reviewgeek.com/86632/ifixit-tore-apart-the-ipad-pros-new-mini-led-display-and-its-purty/)
-* [What Is Twitter Blue, and Is It Worth $3 a Month?](https://www.howtogeek.com/732538/what-is-twitter-blue-and-is-it-worth-3-a-month/)
-* [Fujifilm Taken Down as Global Ransomware Spree Continues](https://www.reviewgeek.com/86636/fujifilm-taken-down-as-global-ransomware-spree-continues/)
-* [Wyze Home Security Monitoring Review: You Can't Say No to $80](https://www.reviewgeek.com/83315/wyze-home-security-monitoring-review-you-cant-say-no-to-60/)
-* [This Raspberry Pi Robot Can Shred Through Any Song on 'Guitar Hero'](https://www.reviewgeek.com/86606/this-raspberry-pi-robot-can-shred-through-any-song-on-guitar-hero/)
-* [IKEA's New Sensor Will Monitor Your Air Quality for Just $12](https://www.reviewgeek.com/86604/ikeas-new-sensor-will-monitor-your-air-quality-for-just-12/)
-* [Android Users Will Get to Opt Out of Ad Tracking in an Update Later This Year](https://www.reviewgeek.com/86588/android-users-will-get-to-opt-out-of-ad-tracking-in-an-update-later-this-year/)
-* [Target Takes Aim at Prime Day, Kicks off Its Own Deals Event a Day Earlier](https://www.reviewgeek.com/86574/target-takes-aim-at-prime-day-kicks-off-its-own-deals-event-a-day-earlier/)
-* [Walk to a Beat With Google Fit's New Paced Walking Activity](https://www.reviewgeek.com/86566/walk-to-a-beat-with-google-fits-new-paced-walking-activity/)
-* [Should You Use a Monorepo?](https://www.cloudsavvyit.com/11584/should-you-use-a-monorepo/)
+* [Tardigrades and Baby Squid Are Being Launched Into Space for Science](https://www.reviewgeek.com/86696/tardigrades-and-baby-squid-are-being-launched-into-space-for-science/)
+* [Goodbye C By GE, Hello Beautiful Cync Smart Home App](https://www.reviewgeek.com/86189/goodbye-c-by-ge-hello-beautiful-cync-smart-home-app/)
+* [The American Huawei Ban Isn't Going Away---It's Expanding](https://www.reviewgeek.com/86689/the-american-huawei-ban-isnt-going-away-its-expanding/)
+* [This Stupid McNugget Looks Like a Character from 'Among Us' ... and It Sold for $100k](https://www.reviewgeek.com/86671/this-stupid-mcnugget-looks-like-a-character-from-among-us-and-it-sold-for-100k/)
+* [How to Change Notification Sounds on Android](https://www.howtogeek.com/700443/how-to-change-notification-sounds-on-android/)
+* [How to Convert Microsoft OneNote Notes to a PDF](https://www.howtogeek.com/729088/how-to-convert-microsoft-onenote-notes-to-a-pdf/)
+* [Taito's First Micro Arcade Replica Has a Pop-Out Rotating Screen](https://www.reviewgeek.com/86728/taitos-first-micro-arcade-replica-has-a-pop-out-rotating-screen/)
+* [How to Turn off Comments on Instagram](https://www.howtogeek.com/728451/how-to-turn-off-comments-on-instagram/)
+* [The 5 Best TVs With Fire TV](https://www.reviewgeek.com/85562/the-5-best-tvs-with-fire-tv/)
+* [How to Reset Photoshop’s Tools Back to Their Defaults](https://www.howtogeek.com/725426/how-to-reset-photoshops-tools-back-to-their-defaults/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

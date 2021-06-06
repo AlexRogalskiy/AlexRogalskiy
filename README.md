@@ -209,9 +209,9 @@
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/Quizzes/keep_1/keep_from_1__2219.php" target="_blank"><i>keep from (1)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/S/speak_out_2847.php" target="_blank"><i>speak out</i></a>
 <span> = </span>
-<span>If something or someone keeps you from doing something, it means you can't do it.</span>
+<span>If you speak out, you publicly state your position on an issue, or publicly oppose or defend someone or something. <BR><BR><BR></span>
 </div>
 <!--views:phrase-rss-marker:end-->
 

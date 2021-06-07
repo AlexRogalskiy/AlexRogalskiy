@@ -358,16 +358,16 @@ as though I had wings.</p>
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ethereum move to Proof-of-Stake again delayed by 18 months](https://tokenist.com/buterin-explains-why-ethereum-2-0-upgrade-wont-arrive-until-late-2022/)
-- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
-- [Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
-- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
-- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
-- [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
-- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
-- [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
-- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
-- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
+- [Stop saying how simple things are in docs](https://justsimply.dev)
+- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
+- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
+- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
+- [How many languages are there in the world?](https://www.linguisticsociety.org/content/how-many-languages-are-there-world)
+- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
+- [Demo-Driven Development](https://www.rubick.com/demo-driven-development/)
+- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
+- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
+- [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

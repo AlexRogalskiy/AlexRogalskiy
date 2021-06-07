@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Death/a_matter_of_life_and_death_661.php" target="_blank"><i>a matter of life and death</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/have_your_head_in_the_clouds_634.php" target="_blank"><i>have your head in the clouds</i></a>
 <span> = </span>
-<span>If something is a matter of life and death, it's extremely important and it could involve someone's survival.</span>
+<span>If someone has their head in the clouds, they are out of touch with the everyday world and can be unrealistic or naive as a result.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
@@ -241,35 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/653171987603193856" target="_blank"><i>Starlings in Winter</i></a></summary>
-<p>by Mary Oliver</p><p>Chunky and noisy,<br/>
-but with stars in their black feathers,<br/>
-they spring from the telephone wire<br/>
-and instantly</p><p>they are acrobats<br/>
-in the freezing wind.<br/>
-And now, in the theater of air,<br/>
-they swing over buildings,</p><p>dipping and rising;<br/>
-they float like one stippled star<br/>
-that opens,<br/>
-becomes for a moment fragmented,</p><p>then closes again;<br/>
-and you watch<br/>
-and you try<br/>
-but you simply can&rsquo;t imagine</p><p>how they do it<br/>
-with no articulated instruction, no pause,<br/>
-only the silent confirmation<br/>
-that they are this notable thing,</p><p>this wheel of many parts, that can rise and spin<br/>
-over and over again,<br/>
-full of gorgeous life.</p><p>Ah, world, what lessons you prepare for us,<br/>
-even in the leafless winter,<br/>
-even in the ashy city.<br/>
-I am thinking now<br/>
-of grief, and of getting past it;</p><p>I feel my boots<br/>
-trying to leave the ground,<br/>
-I feel my heart<br/>
-pumping hard. I want</p><p>to think again of dangerous and noble things.<br/>
-I want to be light and frolicsome.<br/>
-I want to be improbable beautiful and afraid of nothing,<br/>
-as though I had wings.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653265423060598784" target="_blank"><i>Untitled</i></a></summary>
+<p>by Rumi</p><p>The minute I heard my first love story<br/>I started looking for you, not knowing<br/>how blind that was.<br/><br/>Lovers don’t finally meet somewhere.<br/>They’re in each other all along.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -300,7 +273,7 @@ as though I had wings.</p>
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>14°C (<i>clear sky</i>), humidity: 77%, pressure: 1015 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>17°C (<i>clear sky</i>), humidity: 80%, pressure: 1013 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:41 am</b> and sets at <b>22:14 pm</b>.
     </p>
@@ -313,61 +286,61 @@ as though I had wings.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Tardigrades and Baby Squid Are Being Launched Into Space for Science](https://www.reviewgeek.com/86696/tardigrades-and-baby-squid-are-being-launched-into-space-for-science/)
-* [Goodbye C By GE, Hello Beautiful Cync Smart Home App](https://www.reviewgeek.com/86189/goodbye-c-by-ge-hello-beautiful-cync-smart-home-app/)
-* [The American Huawei Ban Isn't Going Away---It's Expanding](https://www.reviewgeek.com/86689/the-american-huawei-ban-isnt-going-away-its-expanding/)
-* [This Stupid McNugget Looks Like a Character from 'Among Us' ... and It Sold for $100k](https://www.reviewgeek.com/86671/this-stupid-mcnugget-looks-like-a-character-from-among-us-and-it-sold-for-100k/)
-* [How to Change Notification Sounds on Android](https://www.howtogeek.com/700443/how-to-change-notification-sounds-on-android/)
-* [How to Convert Microsoft OneNote Notes to a PDF](https://www.howtogeek.com/729088/how-to-convert-microsoft-onenote-notes-to-a-pdf/)
-* [Taito's First Micro Arcade Replica Has a Pop-Out Rotating Screen](https://www.reviewgeek.com/86728/taitos-first-micro-arcade-replica-has-a-pop-out-rotating-screen/)
-* [How to Turn off Comments on Instagram](https://www.howtogeek.com/728451/how-to-turn-off-comments-on-instagram/)
-* [The 5 Best TVs With Fire TV](https://www.reviewgeek.com/85562/the-5-best-tvs-with-fire-tv/)
-* [How to Reset Photoshop’s Tools Back to Their Defaults](https://www.howtogeek.com/725426/how-to-reset-photoshops-tools-back-to-their-defaults/)
+* [Scientists Can't Explain a Mass Shark Extinction That Happened 19 Million Years Ago](https://www.reviewgeek.com/86694/scientists-cant-explain-a-mass-shark-extinction-that-happened-19-million-years-ago/)
+* [Speck Debuts Perfect-Clear MagSafe Case for iPhone 12](https://www.reviewgeek.com/86713/speck-debuts-perfect-clear-magsafe-case-for-iphone-12d/)
+* [Why a Proper Smart Home Doesn't Need a Hub](https://www.reviewgeek.com/86358/why-a-proper-smart-home-doesnt-need-a-hub/)
+* [This 'Catan' Board Game Rolls for You, Lights Up the Resources You Need](https://www.reviewgeek.com/86722/this-catan-board-game-rolls-for-you-lights-up-the-resources-you-need/)
+* [How to Measure Your Heart Rate with a Samsung Galaxy Watch](https://www.howtogeek.com/699348/how-to-measure-your-heart-rate-with-a-samsung-galaxy-watch/)
+* [How to Insert an Image in a Cell in Google Sheets](https://www.howtogeek.com/730887/how-to-insert-an-image-in-a-cell-in-google-sheets/)
+* [Scientists Have Uncovered the Humble Watermelon's Oldest Ancestor](https://www.reviewgeek.com/86719/scientists-have-uncovered-the-humble-watermelons-oldest-ancestor/)
+* [How to Have Your Emails Read Aloud in Outlook on iPhone, iPad, and Android](https://www.howtogeek.com/727630/how-to-have-your-emails-read-aloud-in-outlook-on-iphone-ipad-and-android/)
+* [Fiat Will Transition to All Electric Vehicles Starting in 2025](https://www.reviewgeek.com/86692/fiat-will-transition-to-all-electric-vehicles-starting-in-2025/)
+* [How to Update an Xbox Wireless Controller Using a PC](https://www.howtogeek.com/728815/how-to-update-xbox-wireless-controller-using-a-pc/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill Gates paid $30.8M for this book 25 years ago (2019)](https://www.cnbc.com/2019/04/02/micrsoft-billionaire-bill-gates-paid-30-million-for-this-book-25-years-ago-and-it-still-inspires-him-today.html)
-- [“The Psychopathic Problem of the White Mind” (Yale Lecture)](https://bariweiss.substack.com/p/the-psychopathic-problem-of-the-white)
-- [Roberta and Ken Williams announce their first game in over 20 years](https://www.destructoid.com/roberta-williams-new-game-sierra-online/)
-- [Stainless Steel – Elwood Haynes – PDF Drive](https://www.pdfdrive.com/stainless-steel-elwood-haynes-e201021332.html)
-- [How does a USB keyboard work?](https://youtube.com/watch?v=wdgULBpRoXk)
-- [How to make a wind turbine generator using PVC blades and printer motor [video]](https://www.youtube.com/watch?v=akrEVDgOTi0)
-- [Things you should know about stock options before negotiating an offer](https://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
-- [How A Watch Connoisseur Fell in Love with Smartwatches](https://www.gq.com/story/benjamin-clymer-june-column)
-- [City roads – This website renders every single road within a city](https://anvaka.github.io/city-roads/)
-- [Facebook wants to launch its newsletter product later this month](https://www.vox.com/recode/22518571/facebook-substack-bulletin-newsletter-launch)
+- [Why Shipping Container homeless shelters FAIL](https://www.youtube.com/watch?v=jr-p_aXhQEU)
+- [Mathematicians hope “proof assistants” will fix the field's replication crisis](https://massivesci.com/notes/math-proofs-academia-science-proof-assistant-replication/)
+- [Show HN: ELF Dump Utility in Nim](https://github.com/khaledh/elfdump)
+- [Forget “Don’t Be Evil.” The Real Opportunity Is “Can’t Be Evil”](https://www.forbes.com/sites/richardgendalbrown/2021/06/03/forget-dont-be-evil-the-real-opportunity-is-cant-be-evil/)
+- [How to Clean Boot Windows 10](https://www.tomshardware.com/how-to/clean-boot-windows-10)
+- [Personal Privacy and Sovereignty in Social Networks](https://moderndiplomacy.eu/2021/06/06/personal-privacy-and-sovereignty-in-social-networks/)
+- [Underwater 3D printing to be rolled-out in 2022?](https://3dprintingindustry.com/news/underwater-3d-printing-to-be-rolled-out-in-2022-191146/)
+- [The Elephant Ethogram](https://www.elephantvoices.org/elephant-ethogram.html)
+- [Progress in Play: Board Games and the Meaning of History (2019)](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history)
+- [A Pizza Rat changed the image of video arcades from fiendish to friendly](https://paleotronic.com/2019/10/08/the-big-cheese-how-a-pizza-rat-changed-the-image-of-video-arcades-from-famously-fiendish-to-family-friendly/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China, Fauci and witch hunts: Donald Trump takes aim at usual suspects in return to stage](https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus)
-- [Cattle thieves kill 66 villagers in north-west Nigeria](https://www.theguardian.com/world/2021/jun/06/cattle-thieves-nigeria-kill-villagers-)
-- [Why cryptocurrencies may remain merely a bit on the side](https://www.theguardian.com/business/2021/jun/06/why-cryptocurrencies-may-remain-merely-a-bit-on-the-side)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Labour plans to embarrass government with vote on pupil catch-up plan](https://www.theguardian.com/education/2021/jun/05/labour-plans-to-embarrass-government-with-vote-on-pupil-catch-up-plan)
-- [Share vaccines or climate deal will fail, rich countries are told](https://www.theguardian.com/society/2021/jun/05/share-vaccines-or-climate-deal-will-fail-rich-countries-are-told)
-- [Mo Farah’s Tokyo Olympic hopes hang by thread after shock 10,000m defeat](https://www.theguardian.com/sport/2021/jun/05/mo-farahs-tokyo-hopes-in-balance-after-disappointing-return-to-track)
-- [Naomi Wolf banned from Twitter for spreading vaccine myths](https://www.theguardian.com/books/2021/jun/05/naomi-wolf-banned-twitter-spreading-vaccine-myths)
-- [Chasing lightning: a photographer’s pursuit of the elements – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/jun/06/chasing-lightning-a-photographers-pursuit-of-the-elements-in-pictures)
-- [Gleefully single seniors: ‘If I wanted to feel complete, it had to come from within’](https://www.theguardian.com/lifeandstyle/2021/jun/06/gleefully-single-seniors-if-i-wanted-to-feel-complete-it-had-to-come-from-within)
+- [Why every statue should come down](https://www.theguardian.com/news/audio/2021/jun/07/why-every-statue-should-come-down)
+- [Simone Biles dazzles to claim seventh US gymnastics title with stunning ease](https://www.theguardian.com/sport/2021/jun/06/simone-biles-us-gymnastics-championships-olympics)
+- [Angela Merkel’s CDU beats far right in crucial German state election](https://www.theguardian.com/world/2021/jun/06/angela-merkels-cdu-beats-far-right-in-crucial-german-state-election)
+- [‘Hero of Auschwitz’ David Dushman, last surviving liberator of death camp, dies aged 98](https://www.theguardian.com/world/2021/jun/07/hero-of-auschwitz-david-dushman-last-surviving-liberator-of-death-camp-dies-aged-98)
+- [‘The darkest days are coming’: Myanmar’s journalists suffer at hands of junta](https://www.theguardian.com/global-development/2021/jun/07/the-darkest-days-are-coming-myanmars-journalists-suffer-at-hands-of-junta)
+- [Biden to affirm US-UK special relationship at G7 meeting with Johnson](https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson)
+- [Euro 2020 team guides part 15: England](https://www.theguardian.com/football/2021/jun/07/euro-2020-team-guides-part-15-england)
+- [Matters of life and death: Kneehigh theatre’s wild times – in pictures](https://www.theguardian.com/stage/gallery/2021/jun/07/matters-of-life-and-death-kneehigh-theatres-wild-times-in-pictures)
+- [Cupid’s needle? UK under-30s wooed with dating app vaccine bonus](https://www.theguardian.com/world/2021/jun/07/cupid-needle-uk-under-30s-courted-dating-app-vaccine-bonus)
+- [Low-paid UK workers ‘most at risk of losing jobs when furlough ends’](https://www.theguardian.com/uk-news/2021/jun/07/low-paid-uk-workers-most-at-risk-of-losing-jobs-when-furlough-ends)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ethereum move to Proof-of-Stake again delayed by 18 months](https://tokenist.com/buterin-explains-why-ethereum-2-0-upgrade-wont-arrive-until-late-2022/)
-- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
-- [Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
-- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
-- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
-- [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
-- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
-- [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
-- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
-- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
+- [Stop saying how simple things are in docs](https://justsimply.dev)
+- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
+- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
+- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
+- [How many languages are there in the world?](https://www.linguisticsociety.org/content/how-many-languages-are-there-world)
+- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
+- [Demo-Driven Development](https://www.rubick.com/demo-driven-development/)
+- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
+- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
+- [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
@@ -433,6 +406,9 @@ as though I had wings.</p>
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What to expect in real IT world](https://www.reddit.com/r/InformationTechnology/comments/nu11iz/what_to_expect_in_real_it_world/)
+- [Video Adapter vs Video Card?](https://www.reddit.com/r/InformationTechnology/comments/ntwjgk/video_adapter_vs_video_card/)
+- [.zip files](https://www.reddit.com/r/InformationTechnology/comments/ntstpb/zip_files/)
 - [Salary](https://www.reddit.com/r/InformationTechnology/comments/ntcfch/salary/)
 - [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
 - [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
@@ -440,9 +416,6 @@ as though I had wings.</p>
 - [Professor Messer CompTIA A+ instruction videos still relevant today?](https://www.reddit.com/r/InformationTechnology/comments/nsfoen/professor_messer_comptia_a_instruction_videos/)
 - [Database administrator vs network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ns8csk/database_administrator_vs_network_administrator/)
 - [Looking For Remote Access Software (Other Than TeamViewer) That Allows Admin Rights](https://www.reddit.com/r/InformationTechnology/comments/ns7c1b/looking_for_remote_access_software_other_than/)
-- [Do employers care about college GPA when hiring?](https://www.reddit.com/r/InformationTechnology/comments/ns75eb/do_employers_care_about_college_gpa_when_hiring/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/nrxbnx/question/)
-- [Question about Info Tech degrees](https://www.reddit.com/r/InformationTechnology/comments/nruhq5/question_about_info_tech_degrees/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Drink_Drugs_1/busted_1143.php" target="_blank"><i>busted</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/British/knock_off_3__1436.php" target="_blank"><i>knock off (3)</i></a>
 <span> = </span>
-<span>to be charged with a criminal offence</span>
+<span>to steal something</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

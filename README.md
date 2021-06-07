@@ -343,16 +343,16 @@ as though I had wings.</p>
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China, Fauci and witch hunts: Donald Trump takes aim at usual suspects in return to stage](https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus)
-- [Cattle thieves kill 66 villagers in north-west Nigeria](https://www.theguardian.com/world/2021/jun/06/cattle-thieves-nigeria-kill-villagers-)
-- [Why cryptocurrencies may remain merely a bit on the side](https://www.theguardian.com/business/2021/jun/06/why-cryptocurrencies-may-remain-merely-a-bit-on-the-side)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Labour plans to embarrass government with vote on pupil catch-up plan](https://www.theguardian.com/education/2021/jun/05/labour-plans-to-embarrass-government-with-vote-on-pupil-catch-up-plan)
-- [Share vaccines or climate deal will fail, rich countries are told](https://www.theguardian.com/society/2021/jun/05/share-vaccines-or-climate-deal-will-fail-rich-countries-are-told)
-- [Mo Farah’s Tokyo Olympic hopes hang by thread after shock 10,000m defeat](https://www.theguardian.com/sport/2021/jun/05/mo-farahs-tokyo-hopes-in-balance-after-disappointing-return-to-track)
-- [Naomi Wolf banned from Twitter for spreading vaccine myths](https://www.theguardian.com/books/2021/jun/05/naomi-wolf-banned-twitter-spreading-vaccine-myths)
-- [Chasing lightning: a photographer’s pursuit of the elements – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/jun/06/chasing-lightning-a-photographers-pursuit-of-the-elements-in-pictures)
-- [Gleefully single seniors: ‘If I wanted to feel complete, it had to come from within’](https://www.theguardian.com/lifeandstyle/2021/jun/06/gleefully-single-seniors-if-i-wanted-to-feel-complete-it-had-to-come-from-within)
+- [Why every statue should come down](https://www.theguardian.com/news/audio/2021/jun/07/why-every-statue-should-come-down)
+- [Simone Biles dazzles to claim seventh US gymnastics title with stunning ease](https://www.theguardian.com/sport/2021/jun/06/simone-biles-us-gymnastics-championships-olympics)
+- [Angela Merkel’s CDU beats far right in crucial German state election](https://www.theguardian.com/world/2021/jun/06/angela-merkels-cdu-beats-far-right-in-crucial-german-state-election)
+- [‘Hero of Auschwitz’ David Dushman, last surviving liberator of death camp, dies aged 98](https://www.theguardian.com/world/2021/jun/07/hero-of-auschwitz-david-dushman-last-surviving-liberator-of-death-camp-dies-aged-98)
+- [‘The darkest days are coming’: Myanmar’s journalists suffer at hands of junta](https://www.theguardian.com/global-development/2021/jun/07/the-darkest-days-are-coming-myanmars-journalists-suffer-at-hands-of-junta)
+- [Biden to affirm US-UK special relationship at G7 meeting with Johnson](https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson)
+- [Euro 2020 team guides part 15: England](https://www.theguardian.com/football/2021/jun/07/euro-2020-team-guides-part-15-england)
+- [Matters of life and death: Kneehigh theatre’s wild times – in pictures](https://www.theguardian.com/stage/gallery/2021/jun/07/matters-of-life-and-death-kneehigh-theatres-wild-times-in-pictures)
+- [Cupid’s needle? UK under-30s wooed with dating app vaccine bonus](https://www.theguardian.com/world/2021/jun/07/cupid-needle-uk-under-30s-courted-dating-app-vaccine-bonus)
+- [Low-paid UK workers ‘most at risk of losing jobs when furlough ends’](https://www.theguardian.com/uk-news/2021/jun/07/low-paid-uk-workers-most-at-risk-of-losing-jobs-when-furlough-ends)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

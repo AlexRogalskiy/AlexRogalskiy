@@ -241,35 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/653171987603193856" target="_blank"><i>Starlings in Winter</i></a></summary>
-<p>by Mary Oliver</p><p>Chunky and noisy,<br/>
-but with stars in their black feathers,<br/>
-they spring from the telephone wire<br/>
-and instantly</p><p>they are acrobats<br/>
-in the freezing wind.<br/>
-And now, in the theater of air,<br/>
-they swing over buildings,</p><p>dipping and rising;<br/>
-they float like one stippled star<br/>
-that opens,<br/>
-becomes for a moment fragmented,</p><p>then closes again;<br/>
-and you watch<br/>
-and you try<br/>
-but you simply can&rsquo;t imagine</p><p>how they do it<br/>
-with no articulated instruction, no pause,<br/>
-only the silent confirmation<br/>
-that they are this notable thing,</p><p>this wheel of many parts, that can rise and spin<br/>
-over and over again,<br/>
-full of gorgeous life.</p><p>Ah, world, what lessons you prepare for us,<br/>
-even in the leafless winter,<br/>
-even in the ashy city.<br/>
-I am thinking now<br/>
-of grief, and of getting past it;</p><p>I feel my boots<br/>
-trying to leave the ground,<br/>
-I feel my heart<br/>
-pumping hard. I want</p><p>to think again of dangerous and noble things.<br/>
-I want to be light and frolicsome.<br/>
-I want to be improbable beautiful and afraid of nothing,<br/>
-as though I had wings.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653265423060598784" target="_blank"><i>Untitled</i></a></summary>
+<p>by Rumi</p><p>The minute I heard my first love story<br/>I started looking for you, not knowing<br/>how blind that was.<br/><br/>Lovers don’t finally meet somewhere.<br/>They’re in each other all along.</p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->

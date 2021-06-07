@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_8/You_can_t_tell_a_book_by_its_cover_836.php" target="_blank"><i>You can't tell a book by its cover</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
 <span> = </span>
-<span>You cannot judge what something or someone is like by looking at the exterior.</span>
+<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

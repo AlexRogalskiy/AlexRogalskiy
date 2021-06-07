@@ -313,16 +313,16 @@ as though I had wings.</p>
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Tardigrades and Baby Squid Are Being Launched Into Space for Science](https://www.reviewgeek.com/86696/tardigrades-and-baby-squid-are-being-launched-into-space-for-science/)
-* [Goodbye C By GE, Hello Beautiful Cync Smart Home App](https://www.reviewgeek.com/86189/goodbye-c-by-ge-hello-beautiful-cync-smart-home-app/)
-* [The American Huawei Ban Isn't Going Away---It's Expanding](https://www.reviewgeek.com/86689/the-american-huawei-ban-isnt-going-away-its-expanding/)
-* [This Stupid McNugget Looks Like a Character from 'Among Us' ... and It Sold for $100k](https://www.reviewgeek.com/86671/this-stupid-mcnugget-looks-like-a-character-from-among-us-and-it-sold-for-100k/)
-* [How to Change Notification Sounds on Android](https://www.howtogeek.com/700443/how-to-change-notification-sounds-on-android/)
-* [How to Convert Microsoft OneNote Notes to a PDF](https://www.howtogeek.com/729088/how-to-convert-microsoft-onenote-notes-to-a-pdf/)
-* [Taito's First Micro Arcade Replica Has a Pop-Out Rotating Screen](https://www.reviewgeek.com/86728/taitos-first-micro-arcade-replica-has-a-pop-out-rotating-screen/)
-* [How to Turn off Comments on Instagram](https://www.howtogeek.com/728451/how-to-turn-off-comments-on-instagram/)
-* [The 5 Best TVs With Fire TV](https://www.reviewgeek.com/85562/the-5-best-tvs-with-fire-tv/)
-* [How to Reset Photoshop’s Tools Back to Their Defaults](https://www.howtogeek.com/725426/how-to-reset-photoshops-tools-back-to-their-defaults/)
+* [Scientists Can't Explain a Mass Shark Extinction That Happened 19 Million Years Ago](https://www.reviewgeek.com/86694/scientists-cant-explain-a-mass-shark-extinction-that-happened-19-million-years-ago/)
+* [Speck Debuts Perfect-Clear MagSafe Case for iPhone 12](https://www.reviewgeek.com/86713/speck-debuts-perfect-clear-magsafe-case-for-iphone-12d/)
+* [Why a Proper Smart Home Doesn't Need a Hub](https://www.reviewgeek.com/86358/why-a-proper-smart-home-doesnt-need-a-hub/)
+* [This 'Catan' Board Game Rolls for You, Lights Up the Resources You Need](https://www.reviewgeek.com/86722/this-catan-board-game-rolls-for-you-lights-up-the-resources-you-need/)
+* [How to Measure Your Heart Rate with a Samsung Galaxy Watch](https://www.howtogeek.com/699348/how-to-measure-your-heart-rate-with-a-samsung-galaxy-watch/)
+* [How to Insert an Image in a Cell in Google Sheets](https://www.howtogeek.com/730887/how-to-insert-an-image-in-a-cell-in-google-sheets/)
+* [Scientists Have Uncovered the Humble Watermelon's Oldest Ancestor](https://www.reviewgeek.com/86719/scientists-have-uncovered-the-humble-watermelons-oldest-ancestor/)
+* [How to Have Your Emails Read Aloud in Outlook on iPhone, iPad, and Android](https://www.howtogeek.com/727630/how-to-have-your-emails-read-aloud-in-outlook-on-iphone-ipad-and-android/)
+* [Fiat Will Transition to All Electric Vehicles Starting in 2025](https://www.reviewgeek.com/86692/fiat-will-transition-to-all-electric-vehicles-starting-in-2025/)
+* [How to Update an Xbox Wireless Controller Using a PC](https://www.howtogeek.com/728815/how-to-update-xbox-wireless-controller-using-a-pc/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

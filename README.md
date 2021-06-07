@@ -328,16 +328,16 @@ as though I had wings.</p>
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bill Gates paid $30.8M for this book 25 years ago (2019)](https://www.cnbc.com/2019/04/02/micrsoft-billionaire-bill-gates-paid-30-million-for-this-book-25-years-ago-and-it-still-inspires-him-today.html)
-- [“The Psychopathic Problem of the White Mind” (Yale Lecture)](https://bariweiss.substack.com/p/the-psychopathic-problem-of-the-white)
-- [Roberta and Ken Williams announce their first game in over 20 years](https://www.destructoid.com/roberta-williams-new-game-sierra-online/)
-- [Stainless Steel – Elwood Haynes – PDF Drive](https://www.pdfdrive.com/stainless-steel-elwood-haynes-e201021332.html)
-- [How does a USB keyboard work?](https://youtube.com/watch?v=wdgULBpRoXk)
-- [How to make a wind turbine generator using PVC blades and printer motor [video]](https://www.youtube.com/watch?v=akrEVDgOTi0)
-- [Things you should know about stock options before negotiating an offer](https://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/)
-- [How A Watch Connoisseur Fell in Love with Smartwatches](https://www.gq.com/story/benjamin-clymer-june-column)
-- [City roads – This website renders every single road within a city](https://anvaka.github.io/city-roads/)
-- [Facebook wants to launch its newsletter product later this month](https://www.vox.com/recode/22518571/facebook-substack-bulletin-newsletter-launch)
+- [Why Shipping Container homeless shelters FAIL](https://www.youtube.com/watch?v=jr-p_aXhQEU)
+- [Mathematicians hope “proof assistants” will fix the field's replication crisis](https://massivesci.com/notes/math-proofs-academia-science-proof-assistant-replication/)
+- [Show HN: ELF Dump Utility in Nim](https://github.com/khaledh/elfdump)
+- [Forget “Don’t Be Evil.” The Real Opportunity Is “Can’t Be Evil”](https://www.forbes.com/sites/richardgendalbrown/2021/06/03/forget-dont-be-evil-the-real-opportunity-is-cant-be-evil/)
+- [How to Clean Boot Windows 10](https://www.tomshardware.com/how-to/clean-boot-windows-10)
+- [Personal Privacy and Sovereignty in Social Networks](https://moderndiplomacy.eu/2021/06/06/personal-privacy-and-sovereignty-in-social-networks/)
+- [Underwater 3D printing to be rolled-out in 2022?](https://3dprintingindustry.com/news/underwater-3d-printing-to-be-rolled-out-in-2022-191146/)
+- [The Elephant Ethogram](https://www.elephantvoices.org/elephant-ethogram.html)
+- [Progress in Play: Board Games and the Meaning of History (2019)](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history)
+- [A Pizza Rat changed the image of video arcades from fiendish to friendly](https://paleotronic.com/2019/10/08/the-big-cheese-how-a-pizza-rat-changed-the-image-of-video-arcades-from-famously-fiendish-to-family-friendly/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

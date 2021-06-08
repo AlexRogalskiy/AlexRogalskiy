@@ -17,8 +17,23 @@
 [package]
 name = "rss-feeds-provider"
 version = "0.1.0"
-edition = "2018"
+edition = "2020"
 authors = ["Alexander Rogalskiy"]
+homepage = "https://github.com/AlexRogalskiy/AlexRogalskiy"
+repository = "https://github.com/AlexRogalskiy/AlexRogalskiy"
+license = "GPL-3.0"
+keywords = ["rss", "feeds"]
+categories = ["rss"]
+description = """
+RSS feeds reader
+"""
+# Keep `/` in front of `README.md` to exclude localized readmes
+include = ["rss/**/*", "Cross.toml", "LICENSE", "/README.md"]
+
+[badges]
+is-it-maintained-issue-resolution = { repository = "AlexRogalskiy/AlexRogalskiy" }
+is-it-maintained-open-issues = { repository = "AlexRogalskiy/AlexRogalskiy" }
+maintenance = { status = "actively-developed" }
 
 [[bin]]
 name = "reviewgeek-rss"

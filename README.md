@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stop saying how simple things are in docs](https://justsimply.dev)
-- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
-- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
-- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
-- [How many languages are there in the world?](https://www.linguisticsociety.org/content/how-many-languages-are-there-world)
-- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
-- [Demo-Driven Development](https://www.rubick.com/demo-driven-development/)
-- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
-- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
-- [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
+- [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
+- [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
+- [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
+- [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
+- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
+- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
+- [CodePerfect 95 – A fast IDE for Go](https://codeperfect95.com)
+- [The price of batteries has declined by 97% in the last three decades](https://ourworldindata.org/battery-price-decline)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Highlights of new technologies introduced at WWDC 2021](https://developer.apple.com/documentation/New-Technologies-WWDC-2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

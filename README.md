@@ -185,33 +185,33 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Health/weak_at_the_knees_251.php" target="_blank"><i>weak at the knees</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_7/each_to_their_own_163.php" target="_blank"><i>each to their own</i></a>
 <span> = </span>
-<span>If you go weak at the knees, you feel an emotion so strongly that it makes you feel unstable on your feet.</span>
+<span>You can say "each to their own" when you want to point out that we're all different and we all like different things.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/Quizzes/Crime_4/piece_1343.php" target="_blank"><i>piece</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/L/loaded_1__1546.php" target="_blank"><i>loaded (1)</i></a>
 <span> = </span>
-<span>a gun</span>
+<span>wealthy, rich</span>
 </div>
 <!--views:slang-rss-marker:end-->
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Mixed_5/The_best_things_in_life_are_free_496.php" target="_blank"><i>The best things in life are free</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/Better_the_foot_slip_than_the_tongue_929.php" target="_blank"><i>Better the foot slip than the tongue</i></a>
 <span> = </span>
-<span>We don't have to pay for the things that are really valuable, like love, friendship and good health.</span>
+<span>It is better to take a bad step in walking than to say the wrong thing in talking. We can do a lot of damage when we say something by mistake. The elliptical nature of this saying may make it difficult to understand. The full version might be something like: "It is better that your foot should slip than that your tongue should slip."</span>
 </div>
 <!--views:saying-rss-marker:end-->
 
 <!--views:phrase-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/I/insist_on_1643.php" target="_blank"><i>insist on</i></a>
+<a href="https://www.englishclub.com/ref/esl/Phrasal_Verbs/C/catch_up_2__2034.php" target="_blank"><i>catch up (2)</i></a>
 <span> = </span>
-<span>If you insist on something, you say that you must have it or it must be done.</span>
+<span>If two people meet again after a while and catch up, they tell each other what they've been doing.</span>
 </div>
 <!--views:phrase-rss-marker:end-->
 
@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;d3&#x2F;8f&#x2F;d8&#x2F;d38fd89e526999875ca9690bc913c34f.jpg" alt="Peradventure you&#39;ve heard of this Word of the Day? If not, we&#39;ll show you how to use it. Click to learn more at Dictionary.com! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ec&#x2F;26&#x2F;f5&#x2F;ec26f52c7c8ddeae51334df8cc668b54.jpg" alt="We aren’t trying to flatter you, but palaver is the #WordOfTheDay. Learn how to say it at Dictionary.com. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;be&#x2F;b4&#x2F;b9&#x2F;beb4b9a76f57d77a38a95aa1fd052939.jpg" alt="Don&#39;t forget to brush. Dentifrice is the Word of the Day. Click to see where it comes from! " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;9f&#x2F;d2&#x2F;9e&#x2F;9fd29edb6c4046eea81687db9f3328de.jpg" alt="Sartorial is the #WordOfTheDay. It&#39;s always in style. Learn more at Dictionary.com! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;95&#x2F;a1&#x2F;30&#x2F;95a130369ee9851fbbe0f6b8a91cbc44.jpg" alt="Amphibious is the Word of the Day. Click for pronunciation, example sentences, and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;4a&#x2F;25&#x2F;5a&#x2F;4a255a8f1e95791fa265fd3f392c1c09.jpg" alt="Pardon the agglomeration. It&#39;s the Word of the Day. Want more? Click for example sentences and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;ff&#x2F;09&#x2F;11&#x2F;ff0911b5fec2ceb71b8396892b58477d.jpg" alt="Focus on the Word of the Day, and let your stress deliquesce.⁠ ⁠ Click to learn how to say it, get example sentences, and more! " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6d&#x2F;a0&#x2F;7e&#x2F;6da07ec74c7a9e6147a8532148d44a12.jpg" alt="The Word of the Day is important, even when it&#39;s stultify. Want more? Click for example sentences, pronunciation, and our free podcast. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -241,8 +241,8 @@
 <!--views:poem-rss-marker:start-->
 <div align="center" style="align-content: center">
 <details>
-<summary><a href="https://apoemaday.tumblr.com/post/652268852638547968" target="_blank"><i>Sonnet 139</i></a></summary>
-<p>by Edna St. Vincent Millay<br/></p><p>I must not die of pity; I must live;<br/>Grow strong, not sicken; eat, digest my food,<br/>That it may build me, and in doing good<br/>To blood and bone, broaden the sensitive<br/>Fastidious pale perception: we contrive<br/>Lean comfort for the starving, who intrude<br/>Upon them with our pots of pity: brewed<br/>From stronger meat must be the broth we give.</p><p>Blue, bright September day, with here and there<br/>On the green hills a maple turning red,<br/>And white clouds racing in the windy air!—<br/>If I would help the weak, I must be fed<br/>In wit and purpose, pour away despair<br/>And rinse the cup, eat happiness like bread.</p>
+<summary><a href="https://apoemaday.tumblr.com/post/653356015828467713" target="_blank"><i>“Yet, a stirring in me seems...”</i></a></summary>
+<p>by Tatsuji Miyoshi</p><p>Yet, a stirring in me seems like Spring,<br/>mumbles an old man to himself<br/>so mumbles fate as it embraces its own lonesome knees<br/>on a flat stone in a burnt-over field<br/>so mumbles the old man like an echo calling back from across the valley<br/>a sad life’s tale that has come to an end, wrapped in indigent tatters, <br/>with no wife, no family, no neighbors,<br/>no fame, no hope, no work, no birthplace to return to<br/>Once he had an agile wife, gentle family, homey habits and neighbors<br/>he possessed such a modest yet wholesome happiness<br/>On the flat stone in the burnt field<br/>over the shoulders of bombed-out buildings, disfigured <br/>and frightened against the mercury-colored background<br/>far beyond geometric canals disappearing into the twilight rain <br/>he hears children’s songs as poor sick kids begin to sing—<br/>their voices, scattered, cold yet happy, are city lights beginning to blink<br/>Ah, those rose-colored eyes begin to shine in the distance, winking,<br/>but what do they have to do with me now?<br/>Sinking heavy and dark against the sky farther out<br/>the mountain ridges block out and shut down this day of my life <br/>to finally fold it into nothingness in the dusk<br/>this gentle listlessness refusing to leave from under a willow idly swaying in the wind<br/>lingering for a long long time<br/>this solitary feeling, this stirring is like Spring&hellip;<br/>The field is wildly overgrown with weeds<br/>—the field all around is now withered and in distress <br/>the canal water is putrid, heavy and stagnant<br/>a flock of sparrows takes flight from bricks scattered about crumbling walls <br/>It is evening when every small bird in town,<br/>like a whimsical memory, beats its feeble wings to take off<br/>in a gloomy wintry rain falling like a mist<br/>yet the stirring &hellip; the stirring has brought this man a memory of some distant past<br/>of a hazy spring day with cherry blossoms in full bloom<br/>Out of his obscure mindscape where scant light illuminates his feelings like <br/>a locust dying of hunger in the sands of a distant desert, <br/>the old man mumbles to himself, with no one around to hear him,<br/>Yet the stirring in me, the stirring seems just like Spring<br/></p>
 </details>
 </div>
 <!--views:poem-rss-marker:end-->
@@ -252,10 +252,10 @@
 <!--views:instagram-marker:start-->
 <div id="instagram_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C192697704_874802566404491_8918290210642850975_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D111%26_nc_ohc%3DWGQ6uFdt6vEAX-WIdQb%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da7436e3cdeebbaf8fae24bda1fc16da4%26oe%3D60B1ED90%26_nc_sid%3D7bff83" alt="Happy Birthday, Saint Petersburg🎂 С Днём Рождения, любимый город🥳  27 мая 1703 года на Заячьем острове состоялась закладка крепости, таким образом было положено начало Санкт-Петербургу 🎉  Поздравляем всех с праздником!🎊  Напоминаем, что 27, 28 и 29 мая запланирована обширная программа праздничных мероприятий.   Подробности можно узнать в предыдущей публикации, а также на нашем портале Visit Petersburg🤗  📸 @vitaliy.karpovich   #visitpetersburg #318спб #spb #top #birhtday #event #ябылвспб2021 #покажипитер" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7Cc0.80.640.640a%7C%7C193269448_832992377600719_3700491028872158957_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D107%26_nc_ohc%3D1GJnwMN9BXwAX9Oj7KQ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D166b2063c51c57cd148bf9065aaefa21%26oe%3D60B1AC17%26_nc_sid%3D7bff83" alt="🎊🎊🎊 Совсем скоро Санкт-Петербург отметит свое 318-летие. В этом году в городе запланировано более 200 различных мероприятий для взрослых и детей.   🗓 Основными днями торжества станут 27, 28 и 29 мая.  Что нас ждёт ❓  🌠 27 мая в час ночи пройдет акция &amp;quot;Поющие мосты&amp;quot;. На разведенном крыле Дворцового моста появится лазерная проекция, посвященная Петербургу, а также 200-летию со дня рождения Федора Достоевского и Николая Некрасова, 100-летию нобелевского лауреата Андрея Сахарова и 800-летию Александра Невского.  💐 27 мая в 10 часов у Петропавловской крепости пройдет торжественная церемония возложения цветов к могиле Петра Первого. В это же время цветы возложат и у Медного всадника.  💥 В полдень, 27 мая, с Нарышкина бастиона прозвучит традиционный выстрел из пушки.  🎉 28 мая в 21:30 на Дворцовой площади состоится праздничный гала-концерт звезд «Классика на Дворцовой».  🌐 29 мая в городе состоится «Санкт‑Петербургский бал национальностей» на Исаакиевской площади.  🎭 Специальные программы, приуроченные ко Дню города, подготовили многие театры, музеи и библиотеки Северной столицы. Кроме того, различные тематические мероприятия концерты, флешмобы и мастер-классы пройдут во всех районах Петербурга с 27 по 29 мая.  С подробной программой мероприятий можно ознакомиться на официальном сайте Администрации Санкт-Петербурга, активная ссылка в сторис😉  📸 @shlaikovaelena   #ябылвспб2021 #visitpetersburg #spb #деньгорода #питер #фестиваль #деньрождения" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C192271198_489905522437467_5942803004066565467_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DSx_IH6Giq4cAX-b_dxh%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dc6c2cb5847d42d8219e4491a462d112b%26oe%3D60B68CB6%26_nc_sid%3D7bff83" alt="Друзья! 💫  ПРИНОСИМ СВОИ ИЗВИНЕНИЯ! Прошлый пост пришлось удалить по техническим причинам🥺  🎁 Итак, разыгрываем 1 сертификат на двоих в аквапарк Питерлэнд @aquapiterland - водная феерия и заряд позитива гарантированы!   Давайте ещё раз проявим активность в комментариях, приз реально стоит того 😎  Условия крайне простые:  ✅ Подпишись на группу @visitpetersburg и группу @aquapiterland  ✅ Поставь лайк этому посту ✅ Отметь в комментариях друга, с которым пойдёшь наслаждаться водными развлечениями   ❗️ВАЖНО❗️Один участник &#x3D; 1 комментарий.   📳 Итоги подведем 1️⃣ июня с помощью генератора случайных чисел.   Подари себе и своим близким незабываемое водное приключение 🌊   ⚠️Ваш аккаунт должен быть открытым!  #visitpetersburg #russiatravel #spb #welcome #tourism #vacations #путешествуй" />
-        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc5.0.1261.1261a%7C%7Cs640x640%7C%7C191757193_976394239796409_6461520918533099666_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DhMC_GOGJu9IAX8-n9cG%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D947c8d4f6b997fd82e4aea47b360eca8%26oe%3D60B6DAFE%26_nc_sid%3D7bff83" alt="🍽 В двух столицах России сейчас самая яркая и насыщенная гастрономическая жизнь: здесь множество новых интересных мест, талантливых поваров, вкусных блюд.   Хотите отправиться на поиск новых вкусов в Москве и Санкт-Петербурге❓  Сориентироваться поможет «Новые Имена by Courvoisier» — новый фестиваль Александра Сысоева, создателя самого масштабного гастрономического проекта страны, Российского Ресторанного Фестиваля🥗  🆕 В нем принимают участие только новые заведения, которым не более года. Почти 200 участников в 18 городах представили сеты из 3-5 блюд по единой цене от 790₽ до 1490₽.   🔸Главная миссия события — рассказать о новых местах и поддержать талантливых и смелых предпринимателей.  Выбирайте интересные гастрономические места в Москве и Санкт-Петербурге на @rusfoodfest✔️  #Московскаякухня #Moscowcuisine #DiscoverMoscow #visitpetersburg #euro2020 #football #ПетербургМосква #МоскваПетербург #DiscoverMoscowFood" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.720.720a%7C%7Cs640x640%7C%7C198396511_1137433020110260_1499132592023358918_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DB2vpgP4bsXoAX9gL3Ix%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D7737220f0ac27c549b7ac4401b7df0bc%26oe%3D60C4C1B0%26_nc_sid%3D7bff83" alt="🥳 В 2023 году крепости Орешек исполнится 700 лет!  Крепость была основана в 1323 году князем Юрием Даниловичем, внуком Александра Невского. Свое имя получила от названия острова. В год основания здесь был заключен Ореховый мир между новгородцами и шведами об установлении границ. Однако на протяжении многих лет то и дело возникали бои за территорию. Затем, благодаря военным победам Петра Великого, вернулась в Россию.  Сегодня это крупнейший памятник архитектуры в истории федерального значения, который занимает практически весь остров. Добраться до этой достопримечательности можно только на водном транспорте. Этим летом компания @boattour_spb запустила пятичасовой экскурсионный тур с профессиональным гидом на скоростном метеоре.  Более 25 водных прогулок ждут вас! Выбрать именно свою можно в информационных офисах на Дворцовой площади, площади Восстания, на Садовой, д.37 и на Садовой, д. 14.  #visitpetersburg #spb #boattour #покажипитер #путешествуй #ябылвспб2021 #раскусироссию #путешествияпороссии" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc243.0.953.953a%7C%7Cs640x640%7C%7C197421670_336837307803206_323013397908458659_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D7gO8IBeblIoAX-SS6nV%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D888d6ccae8f3040f2596a9e5f20b4d53%26oe%3D60C5F249%26_nc_sid%3D7bff83" alt="А вы заметили, что Невский Центр @nevskycentre обновил витрины😍   Летняя концепция Sport&amp;amp;Fashion в коллаборации с городом🔥  Надеемся ваш shopping🛍 станет ещё ярче и интереснее👍🏻  #ябылвспб2021 #шоппинг #местаспб #кудасходитьвпитере #visitpetersburg" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196505429_4134670099909756_8269854069022199789_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3Di9CgmRwxmPMAX_er4WG%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D25ad54aafaec4dac0e6aae2de8dc3c13%26oe%3D60C633B6%26_nc_sid%3D7bff83" alt="🥳 Получи подарок с футбольной символикой!  В честь ЕВРО-2020 мы раздаем в информационных павильонах подарки с футбольной спецификой: от тематического магнитика до стильной спортивной сумки и надувных палок-стучалок – неизменных атрибутов болельщиков.  Для получения подарка нужно прийти к нам по удобному для вас адресу, сделать сэлфи и опубликовать фото в Instagram с хэштегами #visitpetersburg #spbeuro2020.  Опубликованную фотографию покажи нашим специалистам и тяни жребий с названием подарка. Становитесь обладателем заветного приза!  #visitpetersburg #spb #tourism #покажипитер #путешествуй #ябылвспб2021 #раскусироссию #путешествияпороссии" />
+        <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196838912_297648578741535_9125205372423992538_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3D1XIu2mRBYpsAX_L-iIB%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da0876304383d9ea22084db72b4e04749%26oe%3D60C51AD4%26_nc_sid%3D7bff83" alt="Два города — миллион впечатлений: самые интересные события Москвы и Санкт-Петербурга. Выставки, фестивали, арт-представления, концерты, общегородские события — есть миллион причин посетить Москву и Санкт-Петербург этим летом. Что ждет гостей двух столиц на следующей неделе? Смотрите наш событийный календарь (ссылка в био @discovermoscow_ru) ⠀ ⭐️ BEAT Film Festival До 20 июня 📍 Москва, кинотеатр «Каро Октябрь», Новый Арбат, 24 ⠀ ⭐️ III Летний фестиваль губернских театров «Фабрика Станиславского» До 10 июня 📍 Москва, театры столицы и Подмосковья ⠀ ⭐️ Старт Чемпионата Евро по футболу EURO-2020 С 11 июня 📍 Санкт-Петербург, Конюшенная площадь ⠀ ⭐️ Фестиваль STEREOLETO 2021 13-14 июня @stereoleto2021  📍 Санкт-Петербург, Севкабель порт ⠀ 🇬🇧 ⠀ Two cities – a million impressions: the most interesting events in Moscow and St. Petersburg. Exhibitions, festivals, art-preformances, concerts, and city celebrations — there are a million reasons to visit these to destinations this summer. Where to go and what to see in two Russian cities next week? Check out the event calendar (link in bio) ⠀ ⭐️ BEAT Film Festival Till June 20 📍 Moscow, movie theater “Karo Oktyabr”, Novy Arbat Street, 24 ⠀ ⭐️ “Stanislavsky Factory” 3rd Summer Festival of Provincial Theatres Till June 10 📍 Moscow, theatres of the city and Moscow region ⠀ ⭐️ EURO-2020 and UEFA Festival June 11 📍 St. Petersburg, Konyushennaya Square @euro2020spb  ⠀ ⭐️ STEREOLETO 2021 Music Festival June 13-14 📍 St. Petersburg, Sevkabel port ⠀ #МоскваПетербург #ПетербургМосква #MoscowPetersburg #PetersburgMoscow #SPBEURO2020 #UEFAFestival" />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,9 +273,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>12°C (<i>moderate rain</i>), humidity: 87%, pressure: 1013 (mbar), wind: /south-west/ 2 (m/s), cloudy: 75%</b>
+        <b>20°C (<i>clear sky</i>), humidity: 49%, pressure: 1017 (mbar), wind: /north-west/ 4 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>03:57 am</b> and sets at <b>21:55 pm</b>.
+        Today, the Sun rises at <b>03:40 am</b> and sets at <b>22:15 pm</b>.
     </p>
 </div>
 
@@ -286,151 +286,151 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Ouch: Wyze's New Home Monitoring Core Kit Just Saw a Serious Price Increase](https://www.reviewgeek.com/85298/ouch-wyzes-new-home-monitoring-core-kit-just-saw-a-serious-price-increase/)
-* [Garbage iOS App Won't Open Without a Good Review](https://www.reviewgeek.com/85235/garbage-ios-app-wont-open-without-a-good-review/)
-* [MyTaggr's Mount Tucks an AirTag Beneath Your Bike Seat for Easy Tracking](https://www.reviewgeek.com/85227/mytaggrs-mount-tucks-an-airtag-beneath-your-bike-seat-for-easy-tracking/)
-* [Google Discover Gets Colorful In Android 12](https://www.reviewgeek.com/85210/google-discover-gets-colorful-in-android-12/)
-* [1Password Browser Extension Gets Touch ID, Windows Hello, and Dark Mode Support](https://www.reviewgeek.com/85212/1password-browser-extension-gets-touch-id-windows-hello-and-dark-mode-support/)
-* [Better Than Nothing: Fitbit Now Supports SMS 2FA](https://www.reviewgeek.com/85213/better-than-nothing-fitbit-now-supports-sms-2fa/)
-* [How to Use Docker Scan to Find Vulnerabilities in Your Images](https://www.cloudsavvyit.com/11176/how-to-use-docker-scan-to-find-vulnerabilities-in-your-images/)
-* [Anker Teases Upcoming Nebula 4K Streaming Dongle with Android 10](https://www.reviewgeek.com/85194/anker-teases-upcoming-nebula-4k-streaming-dongle-with-android-10/)
-* [Philo Streaming Service Promised Not to Raise Prices---Now It's Raising Prices](https://www.reviewgeek.com/85174/philo-streaming-service-promised-not-raise-prices-now-its-raising-prices/)
-* [Amazon Steps through the Stargate with MGM Purchase](https://www.reviewgeek.com/85147/amazon-steps-through-the-stargate-with-mgm-purchase/)
+* [Everything Apple Announced At the WWDC 2021 Keynote](https://www.reviewgeek.com/86892/everything-apple-announced-at-the-wwdc-2021-keynote/)
+* [What’s New in iOS 15, iPadOS 15, and macOS Monterey](https://www.howtogeek.com/732836/whats-new-in-ios-15-ipados-15-and-macos-monterey/)
+* [Paramount+ Adds Over 1,000 New Movies to Its Library](https://www.reviewgeek.com/86893/paramount-adds-over-1000-new-movie-to-its-library/)
+* [macOS Monterey Brings the Jack](https://www.reviewgeek.com/86884/macos-monterey-brings-the-jack/)
+* [Apple Health Lets You Share Data With Family and Doctors in iOS 15](https://www.reviewgeek.com/86855/apple-health-lets-you-share-data-with-family-and-doctors-in-ios-15/)
+* [Siri is Coming to Ecobee And More This Fall and Apple Embraces Matter Smart Home](https://www.reviewgeek.com/86827/siri-is-coming-to-ecobee-and-more-this-fall-and-apple-embraces-matter-smart-home/)
+* [watchOS 8 Brings More Health Features, Photos and Timer Improvements](https://www.reviewgeek.com/86829/watchos-8-brings-more-health-features-photos-and-timer-improvements/)
+* [Apple's Privacy Updates Will You Help Recover Grandma's Password (Again)](https://www.reviewgeek.com/86820/apples-privacy-updates-will-you-help-recover-grandmas-password-again/)
+* [Upcoming iOS 15 Update Lets Android Friends Join FaceTime Calls (And Much More)](https://www.reviewgeek.com/86806/upcoming-ios-15-update-lets-android-friends-join-facetime-calls-and-much-more/)
+* [iPad OS 15 Promises Multitasking That Doesn't Suck, Also Better Widgets](https://www.reviewgeek.com/86832/ipad-os-15-promises-multitasking-that-doesnt-suck-also-better-widgets/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Facebook to stop automatically adding a ‘fake news’ to C19 lab leak discussions](https://gizmodo.com/facebook-will-stop-labeling-posts-questioning-covid-19s-1846979092)
-- [Russian Search Engine Yandex Buys a Bank](https://russiansearchnews.com/articles/yandex-buys-bank-akropol/)
-- [Michael Malloy](https://en.wikipedia.org/wiki/Michael_Malloy)
-- [Eric Carle, writer and illustrator who gave life to The Very Hungry Caterpillar](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
-- [Great Electric Airplane Race](https://www.pbs.org/video/great-electric-airplane-race-yija0p/)
-- [Three.js Fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
-- [Cricut Design Space is down](https://news.ycombinator.com/item?id=27298991)
-- [Unfixable Apple M1 chip bug enables cross-process chatter, breaking OS security](https://www.theregister.com/2021/05/27/apple_m1_chip_bug/)
-- [Facebook dark mode on mobile missing for some users](https://www.tomsguide.com/news/facebook-dark-mode-just-vanished-what-we-know)
-- [Victoria’s ridiculous tax on Electric Vehicles has passed, starts July](https://techau.com.au/victorias-ridiculous-tax-on-electric-vehicles-has-passed-starts-july-1st-2021/)
+- [Any extensions that generated revenue close-to or beyond the parent platform?](https://news.ycombinator.com/item?id=27430124)
+- [QuestDB – Time series data, faster](https://questdb.io/)
+- [Change the string “allosues” to not include the word “”](https://jira.atlassian.com/browse/JRASERVER-65811)
+- [Skill Set Visualization D3.js](https://www.thescottkrause.com/d3_datavis_skills.html)
+- [FTC says consumers have lost more than $80M to crypto-investment scams](https://www.wsj.com/articles/crypto-frauds-target-investors-hoping-to-cash-in-on-bitcoin-boom-11623058380)
+- [The Bob Ross Virtual Art Gallery: Uses Data Analysis to Demystify Ross’ Craft](https://www.openculture.com/2021/06/the-bob-ross-virtual-art-gallery.html)
+- [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
+- [Technical Challenges Developing a Distributed SQL Database](https://blog.yugabyte.com/6-technical-challenges-developing-a-distributed-sql-database/)
+- [Startup Mantras (Not the “HBS” Kind)](https://hackernoon.com/startup-mantras-not-the-hbs-kind-up1g36wb)
+- [Animal survived 24,000 years frozen in the Siberian permafrost](https://www.cnn.com/2021/06/07/europe/bdelloid-rotifers-animal-survive-frozen-in-permafrost-scn/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Domshell’: what the papers say about Dominic Cummings’ attack on Boris Johnson](https://www.theguardian.com/politics/2021/may/27/domshell-what-the-papers-say-about-dominic-cummings-attack-on-boris-johnson)
-- [Thousands of YouTube comments on Sky News Australia video celebrate BLM activist being shot in head](https://www.theguardian.com/media/2021/may/27/thousands-of-youtube-comments-on-sky-news-australia-video-celebrate-blm-activist-being-shot-in-head)
-- [‘The government failed’: Dominic Cummings takes aim at No 10’s Covid response](https://www.theguardian.com/news/audio/2021/may/27/the-government-failed-dominic-cummings-takes-aim-at-no-10s-covid-response)
-- [Naomi Osaka will not speak to French Open press due to mental health impact](https://www.theguardian.com/sport/2021/may/27/naomi-osaka-will-not-speak-to-french-open-press-mental-health-tennis)
-- [Solskjær: Manchester United ‘did not turn up’ for Europa League final](https://www.theguardian.com/football/2021/may/27/ole-gunnar-solskjaer-united-did-not-turn-up-for-europa-league-final)
-- [UK lifeguards gear up for busiest summer as millions head for coast](https://www.theguardian.com/business/2021/may/27/uk-lifeguards-gear-up-for-busiest-summer-as-millions-head-for-coast)
-- [Proms to welcome back live audiences for 52 concerts over six weeks](https://www.theguardian.com/music/2021/may/27/proms-welcome-back-live-audiences-52-concerts-six-weeks)
-- [Zinedine Zidane decides to end his second stint as Real Madrid manager](https://www.theguardian.com/football/2021/may/26/zinedine-zidane-to-leave-real-madrid-manager)
-- [Villarreal beat Manchester United 11-10 on penalties to win Europa League final](https://www.theguardian.com/football/2021/may/26/villarreal-manchester-united-europa-league-final-2021-match-report)
-- [Tax soaring private jet use to fund green flying, says report](https://www.theguardian.com/business/2021/may/26/climate-ticket-tax-private-jet-users)
+- [The danger – and beauty – of ultrarunning](https://www.theguardian.com/news/audio/2021/jun/08/danger-and-beauty-of-ultrarunning-podcast)
+- [Audio shows how Giuliani pressured Ukraine officials to announce Biden inquiry](https://www.theguardian.com/us-news/2021/jun/07/rudy-giuliani-ukraine-officials-audio-joe-biden)
+- [Brazilian city shuts schools and transport as drug gangs avenge leader’s killing](https://www.theguardian.com/world/2021/jun/08/brazil-city-manaus-shuts-drug-gangs-killing-amazonas)
+- [Keira Knightley says every woman she knows has been harassed](https://www.theguardian.com/world/2021/jun/08/keira-knightley-says-every-woman-she-knows-has-been-harassed)
+- [Kayaker rescued during California-to-Hawaii solo attempt: ‘It went from bad to worse’](https://www.theguardian.com/us-news/2021/jun/07/kayaker-rescued-california-hawaii-cyril-derreumaux)
+- [‘Powerful’ new watchdog will target unscrupulous employers, says No 10](https://www.theguardian.com/law/2021/jun/08/powerful-new-watchdog-will-target-unscrupulous-employers-says-no-10)
+- [UK retail sales in May saw highest rise since start of Covid crisis](https://www.theguardian.com/business/2021/jun/08/uk-retail-sales-in-may-saw-highest-rise-since-start-of-covid-crisis)
+- [UK electoral officials announce biggest shake-up of boundaries in decades](https://www.theguardian.com/politics/2021/jun/08/uk-electoral-officials-announce-biggest-shake-up-of-boundaries-in-decades)
+- [Thousands of UK men to benefit after NHS approves prostate cancer drug](https://www.theguardian.com/society/2021/jun/08/thousands-of-uk-men-to-benefit-after-nhs-approves-prostate-cancer-drug)
+- [Las Vegas’s new strategy for tackling drought – banning ‘useless grass’](https://www.theguardian.com/us-news/2021/jun/07/las-vegas-drought-ban-useless-grass)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Whole Earth ‘Lectronic Link](https://www.well.com/)
-- [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
-- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
-- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
-- [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [LA pays $2600 per homeless tent, per month](https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions)
-- [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
-- [You can't have too many angels](https://waseem.substack.com/p/you-cant-have-too-many-angels)
-- [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
-- [Life after an internet mob attack](https://pasquale.cool/internet-mob)
+- [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
+- [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
+- [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
+- [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
+- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
+- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
+- [CodePerfect 95 – A fast IDE for Go](https://codeperfect95.com)
+- [The price of batteries has declined by 97% in the last three decades](https://ourworldindata.org/battery-price-decline)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Highlights of new technologies introduced at WWDC 2021](https://developer.apple.com/documentation/New-Technologies-WWDC-2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [This $5,000 Microsoft IT training bundle is just $70 right now](https://www.computerworld.com/article/3618778/this-5-000-microsoft-it-training-bundle-is-just-70-right-now.html#tk.rss_all)
-- [Clearcover makes switching car insurance an absolute breeze](https://www.computerworld.com/article/3618732/clearcover-makes-switching-car-insurance-an-absolute-breeze.html#tk.rss_all)
-- [At Virgin Atlantic, Facebook Workplace evolves into a key productivity tool](https://www.computerworld.com/article/3619633/at-virgin-atlantic-facebook-workplace-evolves-from-connecting-workers-to-productivity.html#tk.rss_all)
-- [BrandPost: Cybersecurity Threats Shine Spotlight on Medical Data Protection](https://www.computerworld.com/article/3619512/cybersecurity-threats-shine-spotlight-on-medical-data-protection.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Android 12's quietly important privacy progress](https://www.computerworld.com/article/3619635/android-12-privacy.html#tk.rss_all)
-- [5 free ways to get better business security](https://www.computerworld.com/article/3619798/5-free-ways-to-get-better-business-security.html#tk.rss_all)
-- [Microsoft sets IE's date with death — kind of](https://www.computerworld.com/article/3619615/microsoft-sets-ies-date-with-death-kind-of.html#tk.rss_all)
-- [An ‘underwhelming’ Windows 10 21H1 arrives](https://www.computerworld.com/article/3619543/an-underwhelming-windows-10-21h1-arrives.html#tk.rss_all)
+- [WWDC 2021: 20+ improvements for enterprise pros](https://www.computerworld.com/article/3620915/wwdc-2021-20-improvements-for-enterprise-pros.html#tk.rss_all)
+- [Patch Tuesday: The rules of updating Windows (and Microsoft apps)](https://www.computerworld.com/article/3620964/patch-tuesday-the-rules-of-updating-windows-and-microsoft-apps.html#tk.rss_all)
+- [US IT salaries start to grow as jobs growth remains steady](https://www.computerworld.com/article/3542681/us-it-salaries-start-to-grow-as-jobs-growth-remains-steady.html#tk.rss_all)
+- [The smart worker's guide to using a Chromebook offline](https://www.computerworld.com/article/3410608/the-smart-workers-guide-to-using-a-chromebook-offline.html#tk.rss_all)
+- [Note to IT: Google really wants its privacy settings left alone](https://www.computerworld.com/article/3620956/note-to-it-google-really-wants-its-privacy-settings-left-alone.html#tk.rss_all)
+- [WWDC 2021: What we think we know about an M1X MacBook Pro](https://www.computerworld.com/article/3620885/wwdc-2021-what-we-think-we-know-about-an-m1x-macbook-pro.html#tk.rss_all)
+- [Chewy Has Revolutionized Pet Care Customer Service](https://www.computerworld.com/article/3619883/chewy-has-revolutionized-pet-care-customer-service.html#tk.rss_all)
+- [Why inquisitiveness matters as much as IQ](https://www.computerworld.com/article/3620890/why-inquisitiveness-matters-as-much-as-iq.html#tk.rss_all)
+- [Nvidia Omniverse: Could it make today’s videoconferencing apps obsolete?](https://www.computerworld.com/article/3620976/nvidia-omniverse-could-it-make-todays-videoconferencing-apps-obsolete.html#tk.rss_all)
+- [Get a lifetime of CompTIA certification training today for just $50](https://www.computerworld.com/article/3619899/get-a-lifetime-of-comptia-certification-training-today-for-just-50.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [How SolarWinds Changed Cybersecurity Leadership's Priorities](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-solarwinds-changed-cybersecurity-leaderships-priorities/d/d-id/1341120?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How CIOs Can Advance Company Sustainability Goals](https://www.informationweek.com/strategic-cio/digital-business/how-cios-can-advance-company-sustainability-goals/a/d-id/1341121?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Return to Office Risks Worth Considering](https://www.informationweek.com/strategic-cio/return-to-office-risks-worth-considering/a/d-id/1341083?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How IT Corrected Business Blind Spots During the Pandemic](https://www.informationweek.com/strategic-cio/enterprise-agility/how-it-corrected-business-blind-spots-during-the-pandemic/a/d-id/1341079?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [AT&T Communications CTO Legg on Transforming a Telecom Giant](https://www.informationweek.com/strategic-cio/atandt-communications-cto-legg-on-transforming-a-telecom-giant/d/d-id/1341112?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The Future State of the Cloud](https://www.informationweek.com/cloud/the-future-state-of-the-cloud/a/d-id/1341003?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IT Skills: Top 10 Programming Languages for 2021](https://www.informationweek.com/devops/programming-languages/it-skills-top-10-programming-languages-for-2021/d/d-id/1341076?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Universities Are Failing Software Developers](https://www.informationweek.com/devops/programming-languages/universities-are-failing-software-developers-/a/d-id/1341002?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [ServiceNow's Acquisition Spree Adds Observability](https://www.informationweek.com/strategic-cio/servicenows-acquisition-spree-adds-observability/d/d-id/1341053?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Automation is an Essential Survival Skill for Every Modern IT Organization](https://www.informationweek.com/strategic-cio/enterprise-agility/automation-is-an-essential-survival-skill-for-every-modern-it-organization/a/d-id/1341062?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Ways to Put a Lid on Cloud Waste](https://www.informationweek.com/cloud/ways-to-put-a-lid-on-cloud-waste/a/d-id/1341188?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Making the Move to a SaaS Usage-Based Model](https://www.informationweek.com/cloud/software-as-a-service/making-the-move-to-a-saas-usage-based-model/a/d-id/1341142?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Moving to the Cloud? Not Without Your Network Team](https://www.informationweek.com/moving-to-the-cloud-not-without-your-network-team/d/d-id/1341225?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Future of Supercomputers: Democratization Is Critical](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/the-future-of-supercomputers-democratization-is-critical/a/d-id/1341140?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Preparing for the Upcoming Quantum Computing Revolution](https://www.informationweek.com/big-data/preparing-for-the-upcoming-quantum-computing-revolution/a/d-id/1341127?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Automation Strategies Are Shaping Up](https://www.informationweek.com/big-data/ai-machine-learning/automation-strategies-are-shaping-up/a/d-id/1341092?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [LogMeIn CIO: The Art of Integrating Acquisitions](https://www.informationweek.com/strategic-cio/logmein-cio-the-art-of-integrating-acquisitions/d/d-id/1341157?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Hiring and Attracting Tech Talent With an Engineering-First Mindset](https://www.informationweek.com/strategic-cio/team-building-and-staffing/hiring-and-attracting-tech-talent-with-an-engineering-first-mindset-/a/d-id/1341128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [One10's AIOps and Cloud Journey to Software Modernization](https://www.informationweek.com/cloud/one10s-aiops-and-cloud-journey-to-software-modernization/d/d-id/1341172?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_all)
-- [Get started with Flask 2.0](https://www.infoworld.com/article/3619522/get-started-with-flask-20.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Eclipse Jakarta EE 9.1 aligns with Java 11](https://www.infoworld.com/article/3620088/eclipse-jakarta-ee-91-aligns-with-java-11.html#tk.rss_all)
-- [New tools for Azure Data at Build 2021](https://www.infoworld.com/article/3619887/new-tools-for-azure-data-at-build-2021.html#tk.rss_all)
-- [What ‘cross-cloud’ architects need to know](https://www.infoworld.com/article/3619544/what-cross-cloud-architects-need-to-know.html#tk.rss_all)
+- [IBM Python toolkit measures AI uncertainty](https://www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.html#tk.rss_all)
+- [Go fuzz to catch hard-to-find bugs in Go](https://www.infoworld.com/article/3621024/go-fuzz-to-catch-hard-to-find-bugs-in-go.html#tk.rss_all)
+- [3 AI startups revolutionizing NLP](https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html#tk.rss_all)
+- [Snowflake pushes back at…whom?](https://www.infoworld.com/article/3620929/snowflake-pushes-back-atwhom.html#tk.rss_all)
+- [Is it possible to automate all of cloud operations?](https://www.infoworld.com/article/3620952/is-it-possible-to-automate-all-of-cloud-operations.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [You’re thinking about Kubernetes all wrong](https://www.infoworld.com/article/3619613/you-re-thinking-about-kubernetes-all-wrong.html#tk.rss_all)
-- [ProxyJump is safer than SSH agent forwarding](https://www.infoworld.com/article/3619278/proxyjump-is-safer-than-ssh-agent-forwarding.html#tk.rss_all)
-- [How AI can enhance customer experience](https://www.infoworld.com/article/3618173/how-ai-can-enhance-customer-experience.html#tk.rss_all)
+- [JFrog unveils software distribution service](https://www.infoworld.com/article/3621008/jfrog-unveils-software-distribution-service.html#tk.rss_all)
+- [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_all)
+- [Why developers use Confluent to manage Apache Kafka](https://www.infoworld.com/article/3619028/why-developers-use-confluent-to-manage-apache-kafka.html#tk.rss_all)
+- [Catching up on Build 2021: AI and Arm](https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Databricks unveils data sharing protocol as part of data lakehouse](https://www.computerweekly.com/news/252501344/Databricks-unveils-data-sharing-protocol-as-part-of-data-lakehouse)
-- [How Kao Data used digital twin technology to build UK’s first free-cooled wholesale colo datacentre](https://www.computerweekly.com/news/252501430/How-Kao-Data-used-digital-twin-technology-to-build-UKs-first-free-cooled-wholesale-colo-datacentre)
-- [Department for Education’s e-learning unpreparedness widens inequality among students](https://www.computerweekly.com/news/252501423/Department-for-Educations-e-learning-unpreparedness-widens-inequality-among-students)
-- [Build 2021: Code abstraction and automatic code generation](https://www.computerweekly.com/news/252501420/Build-2021-Code-abstraction-and-automatic-code-generation)
-- [More data stolen in January 2021 than in all of 2017, says report](https://www.computerweekly.com/news/252501400/More-data-stolen-in-January-2021-than-in-all-of-2017-says-report)
-- [Millions of pounds lost to crypto fraud on social media](https://www.computerweekly.com/news/252501404/Millions-of-pounds-lost-to-crypto-fraud-on-social-media)
-- [Disabled travellers promised better train journeys by Passenger Assistance app](https://www.computerweekly.com/news/252501367/Disabled-travellers-promised-better-train-journeys-by-Passenger-Assistance-app)
-- [Google offers free tech skills training to UK jobseekers](https://www.computerweekly.com/news/252501385/Google-offers-free-tech-skills-training-to-UK-jobseekers)
-- [‘It's a good day when we refer a case,’ CCRC tells MPs during review of Post Office prosecutions](https://www.computerweekly.com/news/252501399/Its-a-good-day-when-we-refer-a-case-CCRC-tells-MPs-during-review-of-Post-Office-prosecutions)
-- [Nordic CIO interview: Tommi Tuovila, Neste](https://www.computerweekly.com/news/252500979/Nordic-CIO-interview-Tommi-Tuoivila-Neste)
+- [Police raids around world after investigators crack An0m cryptophone app in major hacking operation](https://www.computerweekly.com/news/252502051/Police-raids-around-world-after-investigators-crack-An0m-cryptophone-in-biggest-hacking-operation-to)
+- [Security Think Tank: What must a secure print strategy take into account?](https://www.computerweekly.com/opinion/Security-Think-Tank-What-must-a-secure-print-strategy-take-into-account)
+- [EU privacy chief investigates use of US cloud services](https://www.computerweekly.com/news/252502011/EU-privacy-chief-investigates-use-of-US-cloud-services)
+- [Bank of England calls for feedback on digital currencies](https://www.computerweekly.com/news/252502004/Bank-of-England-calls-for-feedback-on-digital-currencies)
+- [Mixed blessings in smartphone market as sales rise but replacement cycles lengthen](https://www.computerweekly.com/news/252502002/Mixed-blessings-in-smartphone-market-as-sales-rise-but-replacement-cycles-lengthen)
+- [Siloscape malware a risk to Windows containers, Kubernetes](https://www.computerweekly.com/news/252501997/Siloscape-malware-a-risk-to-Windows-containers-Kubernetes)
+- [NCSC updates schools ransomware guidance amid surge](https://www.computerweekly.com/news/252501998/NCSC-updates-schools-ransomware-guidance-amid-surge)
+- [IBM pushes back against US government data requests](https://www.computerweekly.com/news/252501996/IBM-pushes-back-against-US-government-data-requests)
+- [Campaigners plan legal action over NHS data sharing](https://www.computerweekly.com/news/252501989/Campaigners-plan-legal-action-over-NHS-data-sharing)
+- [NHS Digital’s GP data-scraping plan must be publicised and delayed](https://www.computerweekly.com/opinion/NHS-Digitals-GP-data-scraping-plan-must-be-publicised-and-delayed)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice on practicing / getting experience at home.](https://www.reddit.com/r/InformationTechnology/comments/nlwda3/advice_on_practicing_getting_experience_at_home/)
-- [What does A 25b(I.T.) do in the Army??](https://www.reddit.com/r/InformationTechnology/comments/nltzjg/what_does_a_25bit_do_in_the_army/)
-- [Network Automation w Ansible](https://www.reddit.com/r/InformationTechnology/comments/nlme4e/network_automation_w_ansible/)
-- [Automated sever configuration reports](https://www.reddit.com/r/InformationTechnology/comments/nlclq5/automated_sever_configuration_reports/)
-- [What do you think makes IT applications useful and unique ?](https://www.reddit.com/r/InformationTechnology/comments/nl91vl/what_do_you_think_makes_it_applications_useful/)
-- [Another “Tell me what to do with my future” post, but this time, in Spanish!](https://www.reddit.com/r/InformationTechnology/comments/nl63j1/another_tell_me_what_to_do_with_my_future_post/)
-- [Just landed a tier 1 support technician job.](https://www.reddit.com/r/InformationTechnology/comments/nl53x1/just_landed_a_tier_1_support_technician_job/)
-- [IT Certs or Bachelors?](https://www.reddit.com/r/InformationTechnology/comments/nkgkte/it_certs_or_bachelors/)
-- [Job expectations after getting certain certifications](https://www.reddit.com/r/InformationTechnology/comments/njzsrl/job_expectations_after_getting_certain/)
-- [Should I pursue IT certifications such as Comp Tia and A+ or get an associates degree that transfers to a bachelors in Management Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/njyt9d/should_i_pursue_it_certifications_such_as_comp/)
+- [Any real work life stories on money wastage and mess created on unused, duplicate, underused software or SaaS apps in your company?](https://www.reddit.com/r/InformationTechnology/comments/nulp83/any_real_work_life_stories_on_money_wastage_and/)
+- [End User Advocacy?](https://www.reddit.com/r/InformationTechnology/comments/nuhmqo/end_user_advocacy/)
+- [I have too much stuff... Input needed.](https://www.reddit.com/r/InformationTechnology/comments/nuh198/i_have_too_much_stuff_input_needed/)
+- [What to expect in real IT world](https://www.reddit.com/r/InformationTechnology/comments/nu11iz/what_to_expect_in_real_it_world/)
+- [Video Adapter vs Video Card?](https://www.reddit.com/r/InformationTechnology/comments/ntwjgk/video_adapter_vs_video_card/)
+- [.zip files](https://www.reddit.com/r/InformationTechnology/comments/ntstpb/zip_files/)
+- [Salary](https://www.reddit.com/r/InformationTechnology/comments/ntcfch/salary/)
+- [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
+- [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
+- [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada](https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813)
-- [Canadians want action on privacy, harmful internet content: CIRA poll](https://www.itworldcanada.com/article/canadians-want-action-on-privacy-harmful-internet-content-cira-poll/447779)
-- [Cyber Security Today, May 26, 2021 – Ransomware worries, Bose admits attack, cyber insurance news and the latest security patches](https://www.itworldcanada.com/article/cyber-security-today-may-26-2021-ransomware-worries-bose-admits-attack-cyber-insurance-news-and-the-latest-security-patches/447753)
-- [Hashtag Trending, May 26, 2021- Florida Governor Signs Bill that fines tech companies; Microsoft Build Event; Hybrid Working is more complex than it seems](https://www.itworldcanada.com/article/hashtag-trending-may-26-2021-florida-governor-signs-bill-that-fines-tech-companies-microsoft-build-event-hybrid-working-is-more-complex-than-it-seems/447776)
-- [Qualcomm announces new Windows on Arm testing kit](https://www.itworldcanada.com/article/qualcomm-announces-new-windows-on-arm-testing-kit/447757)
-- [Canada unlocks more mid-band spectrum for faster 5G](https://www.itworldcanada.com/article/canada-unlocks-more-mid-band-spectrum-for-faster-5g/447743)
-- [Coffee Briefing, May 25, 2021 – Citrix Canada’s new GM; Canada named world’s most cashless economy; job losses out West; and more](https://www.itworldcanada.com/article/coffee-briefing-may-25-2021-citrix-canadas-new-gm-canada-named-worlds-most-cashless-economy-job-losses-out-west-and-more/447705)
-- [Hashtag Trending, May 25, 2021 – Vaccine boosts attractiveness; China condemns illegal data collection; Google ends unlimited photo backups](https://www.itworldcanada.com/article/hashtag-trending-vaccine-boosts-attractiveness-china-condemns-illegal-data-collection-google-ends-unlimited-photo-backups/447734)
-- [Cyber Security Today, May 24, 2021 – Huge international data breach at Air India, and beware of online job scams](https://www.itworldcanada.com/article/cyber-security-today-may-24-2021-huge-international-data-breach-at-air-india-and-beware-of-online-job-scams/447718)
-- [Cyber Security Today, Week in Review for May 21, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-may-21-2021/447672)
+- [Hashtag Trending, June 7, 2021 – US elevates ransomware investigations; Tank Man censorship; El Salvador adopts Bitcoin as legal tender](https://www.itworldcanada.com/article/hashtag-trending-june-7-2021-us-elevates-ransomware-investigations-tank-man-censorship-el-salvador-adopts-bitcoin-as-legal-tender/454395)
+- [Cyber Security Today, June 7, 2021 – Compromised password blamed for pipeline hack, a new phishing scam pushes fake updates and more ransomware groups emerge](https://www.itworldcanada.com/article/cyber-security-today-june-7-2021-compromised-password-blamed-for-pipeline-hack-a-new-phishing-scam-pushes-fake-updates-and-more-ransomware-groups-emerge/454392)
+- [Bell to offer AWS Wavelength Zones for faster edge computing](https://www.itworldcanada.com/article/bell-to-offer-aws-wavelength-zones-for-faster-edge-computing/454368)
+- [Nearly 60% of small charities have zero plans to digitally transform, says CanadaHelps survey](https://www.itworldcanada.com/article/nearly-60-of-small-charities-have-zero-plans-to-digitally-transform-says-canadahelps-survey/454167)
+- [Cyber Security Today – Week in Review for June 4, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-4-2021/454362)
+- [SAP focuses on sustainability, merges business networks](https://www.itworldcanada.com/article/sap-focuses-on-sustainability-merges-business-networks/454279)
+- [CRTC consults the public on a three-digit mental health phone number](https://www.itworldcanada.com/article/crtc-consults-the-public-on-a-three-digit-mental-health-phone-number/454287)
+- [Four vectors accounted for over half of breaches last year, says VMware survey](https://www.itworldcanada.com/article/four-vectors-accounted-for-over-half-of-breaches-last-year-says-vmware-survey/454316)
+- [Cyber Security Today, June 4, 2021 – Evidence that awareness training works, CIRA looking for board nominees and another patching warning](https://www.itworldcanada.com/article/cyber-security-today-june-4-2021-evidence-that-awareness-training-works-cira-looking-for-board-nominees-and-another-patching-warning/454299)
+- [Tradition of celebrating DX excellence continues in July](https://www.itworldcanada.com/article/tradition-of-celebrating-dx-excellence-continues-in-july/454324)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

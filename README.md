@@ -286,16 +286,16 @@
 ### _Review Geek posts_
 
 <!--views:reviewgeek-rss-marker:start-->
-* [Scientists Can't Explain a Mass Shark Extinction That Happened 19 Million Years Ago](https://www.reviewgeek.com/86694/scientists-cant-explain-a-mass-shark-extinction-that-happened-19-million-years-ago/)
-* [Speck Debuts Perfect-Clear MagSafe Case for iPhone 12](https://www.reviewgeek.com/86713/speck-debuts-perfect-clear-magsafe-case-for-iphone-12d/)
-* [Why a Proper Smart Home Doesn't Need a Hub](https://www.reviewgeek.com/86358/why-a-proper-smart-home-doesnt-need-a-hub/)
-* [This 'Catan' Board Game Rolls for You, Lights Up the Resources You Need](https://www.reviewgeek.com/86722/this-catan-board-game-rolls-for-you-lights-up-the-resources-you-need/)
-* [How to Measure Your Heart Rate with a Samsung Galaxy Watch](https://www.howtogeek.com/699348/how-to-measure-your-heart-rate-with-a-samsung-galaxy-watch/)
-* [How to Insert an Image in a Cell in Google Sheets](https://www.howtogeek.com/730887/how-to-insert-an-image-in-a-cell-in-google-sheets/)
-* [Scientists Have Uncovered the Humble Watermelon's Oldest Ancestor](https://www.reviewgeek.com/86719/scientists-have-uncovered-the-humble-watermelons-oldest-ancestor/)
-* [How to Have Your Emails Read Aloud in Outlook on iPhone, iPad, and Android](https://www.howtogeek.com/727630/how-to-have-your-emails-read-aloud-in-outlook-on-iphone-ipad-and-android/)
-* [Fiat Will Transition to All Electric Vehicles Starting in 2025](https://www.reviewgeek.com/86692/fiat-will-transition-to-all-electric-vehicles-starting-in-2025/)
-* [How to Update an Xbox Wireless Controller Using a PC](https://www.howtogeek.com/728815/how-to-update-xbox-wireless-controller-using-a-pc/)
+* [Everything Apple Announced At the WWDC 2021 Keynote](https://www.reviewgeek.com/86892/everything-apple-announced-at-the-wwdc-2021-keynote/)
+* [What’s New in iOS 15, iPadOS 15, and macOS Monterey](https://www.howtogeek.com/732836/whats-new-in-ios-15-ipados-15-and-macos-monterey/)
+* [Paramount+ Adds Over 1,000 New Movies to Its Library](https://www.reviewgeek.com/86893/paramount-adds-over-1000-new-movie-to-its-library/)
+* [macOS Monterey Brings the Jack](https://www.reviewgeek.com/86884/macos-monterey-brings-the-jack/)
+* [Apple Health Lets You Share Data With Family and Doctors in iOS 15](https://www.reviewgeek.com/86855/apple-health-lets-you-share-data-with-family-and-doctors-in-ios-15/)
+* [Siri is Coming to Ecobee And More This Fall and Apple Embraces Matter Smart Home](https://www.reviewgeek.com/86827/siri-is-coming-to-ecobee-and-more-this-fall-and-apple-embraces-matter-smart-home/)
+* [watchOS 8 Brings More Health Features, Photos and Timer Improvements](https://www.reviewgeek.com/86829/watchos-8-brings-more-health-features-photos-and-timer-improvements/)
+* [Apple's Privacy Updates Will You Help Recover Grandma's Password (Again)](https://www.reviewgeek.com/86820/apples-privacy-updates-will-you-help-recover-grandmas-password-again/)
+* [Upcoming iOS 15 Update Lets Android Friends Join FaceTime Calls (And Much More)](https://www.reviewgeek.com/86806/upcoming-ios-15-update-lets-android-friends-join-facetime-calls-and-much-more/)
+* [iPad OS 15 Promises Multitasking That Doesn't Suck, Also Better Widgets](https://www.reviewgeek.com/86832/ipad-os-15-promises-multitasking-that-doesnt-suck-also-better-widgets/)
 <!--views:reviewgeek-rss-marker:end-->
 
 ### _Hacker News posts_

@@ -421,6 +421,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending, June 7, 2021 – US elevates ransomware investigations; Tank Man censorship; El Salvador adopts Bitcoin as legal tender](https://www.itworldcanada.com/article/hashtag-trending-june-7-2021-us-elevates-ransomware-investigations-tank-man-censorship-el-salvador-adopts-bitcoin-as-legal-tender/454395)
+- [Cyber Security Today, June 7, 2021 – Compromised password blamed for pipeline hack, a new phishing scam pushes fake updates and more ransomware groups emerge](https://www.itworldcanada.com/article/cyber-security-today-june-7-2021-compromised-password-blamed-for-pipeline-hack-a-new-phishing-scam-pushes-fake-updates-and-more-ransomware-groups-emerge/454392)
 - [Bell to offer AWS Wavelength Zones for faster edge computing](https://www.itworldcanada.com/article/bell-to-offer-aws-wavelength-zones-for-faster-edge-computing/454368)
 - [Nearly 60% of small charities have zero plans to digitally transform, says CanadaHelps survey](https://www.itworldcanada.com/article/nearly-60-of-small-charities-have-zero-plans-to-digitally-transform-says-canadahelps-survey/454167)
 - [Cyber Security Today – Week in Review for June 4, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-4-2021/454362)
@@ -429,8 +431,6 @@
 - [Four vectors accounted for over half of breaches last year, says VMware survey](https://www.itworldcanada.com/article/four-vectors-accounted-for-over-half-of-breaches-last-year-says-vmware-survey/454316)
 - [Cyber Security Today, June 4, 2021 – Evidence that awareness training works, CIRA looking for board nominees and another patching warning](https://www.itworldcanada.com/article/cyber-security-today-june-4-2021-evidence-that-awareness-training-works-cira-looking-for-board-nominees-and-another-patching-warning/454299)
 - [Tradition of celebrating DX excellence continues in July](https://www.itworldcanada.com/article/tradition-of-celebrating-dx-excellence-continues-in-july/454324)
-- [Hashtag Trending, June 4, 2021- Twitter Blue launches in Canada; Self-driving trucks make progress; Survey says workers will quit without hybrid work model](https://www.itworldcanada.com/article/hashtag-trending-june-4-2021-twitter-blue-launches-in-canada-self-driving-trucks-make-progress-survey-says-workers-will-quit-without-hybrid-work-model/454303)
-- [Green Software Foundation aims to help the ICT sector reduce greenhouse gas emissions](https://www.itworldcanada.com/article/green-software-foundation-aims-to-help-the-ict-sector-reduce-greenhouse-gas-emissions/454151)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

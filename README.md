@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Indian IT giants cut carbon emissions by 85% as pandemic stops travel](https://www.computerweekly.com/news/252501928/Indian-IT-giants-cut-carbon-emissions-by-85-as-pandemic-stops-travel)
-- [HSBC offers all businesses scam awareness app](https://www.computerweekly.com/news/252501918/HSBC-offers-all-businesses-scam-awareness-app)
-- [UK immigration exemption in Data Protection Act found unlawful](https://www.computerweekly.com/news/252501926/UK-immigration-exemption-in-Data-Protection-Act-found-unlawful)
-- [Whirlpool deepens Google Cloud partnership with SAP off-premise migration plan](https://www.computerweekly.com/news/252501923/Whirlpool-deepens-Google-Cloud-partnership-with-SAP-off-premise-migration-plan)
-- [IR35 reforms: Qdos research suggests room for improvement](https://www.computerweekly.com/news/252501917/IR35-reforms-Qdos-research-suggests-room-for-improvement)
-- [Amazon launches apprenticeship fund for small businesses](https://www.computerweekly.com/news/252501922/Amazon-launches-apprenticeship-fund-for-small-businesses)
-- [Security Think Tank: Printers can’t be an ‘add-on’ in your cyber strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Printers-cant-be-an-add-on-in-your-cyber-strategy)
-- [BCS: Lack of communication over NHS GPDPR ‘astonishing’](https://www.computerweekly.com/news/252501916/BCS-Lack-of-communication-over-NHS-GPDPR-astonishing)
-- [Secrecy around EncroChat cryptophone hack breaches French constitution, court hears](https://www.computerweekly.com/news/252501921/Secrecy-around-EncroChat-cryptophone-hack-breaches-French-constitution-court-hears)
-- [Government action on ransomware epidemic gathers pace](https://www.computerweekly.com/news/252501907/Government-action-on-ransomware-epidemic-gathers-pace)
+- [Police raids around world after investigators crack An0m cryptophone app in major hacking operation](https://www.computerweekly.com/news/252502051/Police-raids-around-world-after-investigators-crack-An0m-cryptophone-in-biggest-hacking-operation-to)
+- [Security Think Tank: What must a secure print strategy take into account?](https://www.computerweekly.com/opinion/Security-Think-Tank-What-must-a-secure-print-strategy-take-into-account)
+- [EU privacy chief investigates use of US cloud services](https://www.computerweekly.com/news/252502011/EU-privacy-chief-investigates-use-of-US-cloud-services)
+- [Bank of England calls for feedback on digital currencies](https://www.computerweekly.com/news/252502004/Bank-of-England-calls-for-feedback-on-digital-currencies)
+- [Mixed blessings in smartphone market as sales rise but replacement cycles lengthen](https://www.computerweekly.com/news/252502002/Mixed-blessings-in-smartphone-market-as-sales-rise-but-replacement-cycles-lengthen)
+- [Siloscape malware a risk to Windows containers, Kubernetes](https://www.computerweekly.com/news/252501997/Siloscape-malware-a-risk-to-Windows-containers-Kubernetes)
+- [NCSC updates schools ransomware guidance amid surge](https://www.computerweekly.com/news/252501998/NCSC-updates-schools-ransomware-guidance-amid-surge)
+- [IBM pushes back against US government data requests](https://www.computerweekly.com/news/252501996/IBM-pushes-back-against-US-government-data-requests)
+- [Campaigners plan legal action over NHS data sharing](https://www.computerweekly.com/news/252501989/Campaigners-plan-legal-action-over-NHS-data-sharing)
+- [NHS Digital’s GP data-scraping plan must be publicised and delayed](https://www.computerweekly.com/opinion/NHS-Digitals-GP-data-scraping-plan-must-be-publicised-and-delayed)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

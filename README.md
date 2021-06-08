@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why Shipping Container homeless shelters FAIL](https://www.youtube.com/watch?v=jr-p_aXhQEU)
-- [Mathematicians hope “proof assistants” will fix the field's replication crisis](https://massivesci.com/notes/math-proofs-academia-science-proof-assistant-replication/)
-- [Show HN: ELF Dump Utility in Nim](https://github.com/khaledh/elfdump)
-- [Forget “Don’t Be Evil.” The Real Opportunity Is “Can’t Be Evil”](https://www.forbes.com/sites/richardgendalbrown/2021/06/03/forget-dont-be-evil-the-real-opportunity-is-cant-be-evil/)
-- [How to Clean Boot Windows 10](https://www.tomshardware.com/how-to/clean-boot-windows-10)
-- [Personal Privacy and Sovereignty in Social Networks](https://moderndiplomacy.eu/2021/06/06/personal-privacy-and-sovereignty-in-social-networks/)
-- [Underwater 3D printing to be rolled-out in 2022?](https://3dprintingindustry.com/news/underwater-3d-printing-to-be-rolled-out-in-2022-191146/)
-- [The Elephant Ethogram](https://www.elephantvoices.org/elephant-ethogram.html)
-- [Progress in Play: Board Games and the Meaning of History (2019)](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history)
-- [A Pizza Rat changed the image of video arcades from fiendish to friendly](https://paleotronic.com/2019/10/08/the-big-cheese-how-a-pizza-rat-changed-the-image-of-video-arcades-from-famously-fiendish-to-family-friendly/)
+- [Any extensions that generated revenue close-to or beyond the parent platform?](https://news.ycombinator.com/item?id=27430124)
+- [QuestDB – Time series data, faster](https://questdb.io/)
+- [Change the string “allosues” to not include the word “”](https://jira.atlassian.com/browse/JRASERVER-65811)
+- [Skill Set Visualization D3.js](https://www.thescottkrause.com/d3_datavis_skills.html)
+- [FTC says consumers have lost more than $80M to crypto-investment scams](https://www.wsj.com/articles/crypto-frauds-target-investors-hoping-to-cash-in-on-bitcoin-boom-11623058380)
+- [The Bob Ross Virtual Art Gallery: Uses Data Analysis to Demystify Ross’ Craft](https://www.openculture.com/2021/06/the-bob-ross-virtual-art-gallery.html)
+- [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
+- [Technical Challenges Developing a Distributed SQL Database](https://blog.yugabyte.com/6-technical-challenges-developing-a-distributed-sql-database/)
+- [Startup Mantras (Not the “HBS” Kind)](https://hackernoon.com/startup-mantras-not-the-hbs-kind-up1g36wb)
+- [Animal survived 24,000 years frozen in the Siberian permafrost](https://www.cnn.com/2021/06/07/europe/bdelloid-rotifers-animal-survive-frozen-in-permafrost-scn/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

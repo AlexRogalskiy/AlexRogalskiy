@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Ways to Put a Lid on Cloud Waste](https://www.informationweek.com/cloud/ways-to-put-a-lid-on-cloud-waste/a/d-id/1341188?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Making the Move to a SaaS Usage-Based Model](https://www.informationweek.com/cloud/software-as-a-service/making-the-move-to-a-saas-usage-based-model/a/d-id/1341142?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Moving to the Cloud? Not Without Your Network Team](https://www.informationweek.com/moving-to-the-cloud-not-without-your-network-team/d/d-id/1341225?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Future of Supercomputers: Democratization Is Critical](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/the-future-of-supercomputers-democratization-is-critical/a/d-id/1341140?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Preparing for the Upcoming Quantum Computing Revolution](https://www.informationweek.com/big-data/preparing-for-the-upcoming-quantum-computing-revolution/a/d-id/1341127?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -368,9 +371,6 @@
 - [LogMeIn CIO: The Art of Integrating Acquisitions](https://www.informationweek.com/strategic-cio/logmein-cio-the-art-of-integrating-acquisitions/d/d-id/1341157?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Hiring and Attracting Tech Talent With an Engineering-First Mindset](https://www.informationweek.com/strategic-cio/team-building-and-staffing/hiring-and-attracting-tech-talent-with-an-engineering-first-mindset-/a/d-id/1341128?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [One10's AIOps and Cloud Journey to Software Modernization](https://www.informationweek.com/cloud/one10s-aiops-and-cloud-journey-to-software-modernization/d/d-id/1341172?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Investing in the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/strategic-cio/team-building-and-staffing/investing-in-the-cybersecurity-workforce-of-tomorrow/a/d-id/1341125?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How Enterprises are Evolving Their NLP](https://www.informationweek.com/strategic-cio/how-enterprises-are-evolving-their-nlp/a/d-id/1341107?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Get Developer and Security Teams Aligned](https://www.informationweek.com/devops/how-to-get-developer-and-security-teams-aligned/a/d-id/1341080?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

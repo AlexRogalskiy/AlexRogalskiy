@@ -185,9 +185,9 @@
 
 <!--views:idiom-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Idioms/Weather/have_your_head_in_the_clouds_634.php" target="_blank"><i>have your head in the clouds</i></a>
+<a href="https://www.englishclub.com/ref/esl/Idioms/Quizzes/Mixed_7/each_to_their_own_163.php" target="_blank"><i>each to their own</i></a>
 <span> = </span>
-<span>If someone has their head in the clouds, they are out of touch with the everyday world and can be unrealistic or naive as a result.</span>
+<span>You can say "each to their own" when you want to point out that we're all different and we all like different things.</span>
 </div>
 <!--views:idiom-rss-marker:end-->
 

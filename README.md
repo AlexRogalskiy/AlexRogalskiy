@@ -193,9 +193,9 @@
 
 <!--views:slang-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Slang/British/knock_off_3__1436.php" target="_blank"><i>knock off (3)</i></a>
+<a href="https://www.englishclub.com/ref/esl/Slang/L/loaded_1__1546.php" target="_blank"><i>loaded (1)</i></a>
 <span> = </span>
-<span>to steal something</span>
+<span>wealthy, rich</span>
 </div>
 <!--views:slang-rss-marker:end-->
 

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why every statue should come down](https://www.theguardian.com/news/audio/2021/jun/07/why-every-statue-should-come-down)
-- [Simone Biles dazzles to claim seventh US gymnastics title with stunning ease](https://www.theguardian.com/sport/2021/jun/06/simone-biles-us-gymnastics-championships-olympics)
-- [Angela Merkel’s CDU beats far right in crucial German state election](https://www.theguardian.com/world/2021/jun/06/angela-merkels-cdu-beats-far-right-in-crucial-german-state-election)
-- [‘Hero of Auschwitz’ David Dushman, last surviving liberator of death camp, dies aged 98](https://www.theguardian.com/world/2021/jun/07/hero-of-auschwitz-david-dushman-last-surviving-liberator-of-death-camp-dies-aged-98)
-- [‘The darkest days are coming’: Myanmar’s journalists suffer at hands of junta](https://www.theguardian.com/global-development/2021/jun/07/the-darkest-days-are-coming-myanmars-journalists-suffer-at-hands-of-junta)
-- [Biden to affirm US-UK special relationship at G7 meeting with Johnson](https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson)
-- [Euro 2020 team guides part 15: England](https://www.theguardian.com/football/2021/jun/07/euro-2020-team-guides-part-15-england)
-- [Matters of life and death: Kneehigh theatre’s wild times – in pictures](https://www.theguardian.com/stage/gallery/2021/jun/07/matters-of-life-and-death-kneehigh-theatres-wild-times-in-pictures)
-- [Cupid’s needle? UK under-30s wooed with dating app vaccine bonus](https://www.theguardian.com/world/2021/jun/07/cupid-needle-uk-under-30s-courted-dating-app-vaccine-bonus)
-- [Low-paid UK workers ‘most at risk of losing jobs when furlough ends’](https://www.theguardian.com/uk-news/2021/jun/07/low-paid-uk-workers-most-at-risk-of-losing-jobs-when-furlough-ends)
+- [The danger – and beauty – of ultrarunning](https://www.theguardian.com/news/audio/2021/jun/08/danger-and-beauty-of-ultrarunning-podcast)
+- [Audio shows how Giuliani pressured Ukraine officials to announce Biden inquiry](https://www.theguardian.com/us-news/2021/jun/07/rudy-giuliani-ukraine-officials-audio-joe-biden)
+- [Brazilian city shuts schools and transport as drug gangs avenge leader’s killing](https://www.theguardian.com/world/2021/jun/08/brazil-city-manaus-shuts-drug-gangs-killing-amazonas)
+- [Keira Knightley says every woman she knows has been harassed](https://www.theguardian.com/world/2021/jun/08/keira-knightley-says-every-woman-she-knows-has-been-harassed)
+- [Kayaker rescued during California-to-Hawaii solo attempt: ‘It went from bad to worse’](https://www.theguardian.com/us-news/2021/jun/07/kayaker-rescued-california-hawaii-cyril-derreumaux)
+- [‘Powerful’ new watchdog will target unscrupulous employers, says No 10](https://www.theguardian.com/law/2021/jun/08/powerful-new-watchdog-will-target-unscrupulous-employers-says-no-10)
+- [UK retail sales in May saw highest rise since start of Covid crisis](https://www.theguardian.com/business/2021/jun/08/uk-retail-sales-in-may-saw-highest-rise-since-start-of-covid-crisis)
+- [UK electoral officials announce biggest shake-up of boundaries in decades](https://www.theguardian.com/politics/2021/jun/08/uk-electoral-officials-announce-biggest-shake-up-of-boundaries-in-decades)
+- [Thousands of UK men to benefit after NHS approves prostate cancer drug](https://www.theguardian.com/society/2021/jun/08/thousands-of-uk-men-to-benefit-after-nhs-approves-prostate-cancer-drug)
+- [Las Vegas’s new strategy for tackling drought – banning ‘useless grass’](https://www.theguardian.com/us-news/2021/jun/07/las-vegas-drought-ban-useless-grass)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

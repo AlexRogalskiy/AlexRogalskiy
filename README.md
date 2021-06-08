@@ -201,9 +201,9 @@
 
 <!--views:saying-rss-marker:start-->
 <div align="left" style="align-content: flex-start">
-<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Danger/He_that_will_learn_to_pray_let_him_go_to_sea_859.php" target="_blank"><i>He that will learn to pray, let him go to sea</i></a>
+<a href="https://www.englishclub.com/ref/esl/Sayings/Quizzes/Talking_1/Better_the_foot_slip_than_the_tongue_929.php" target="_blank"><i>Better the foot slip than the tongue</i></a>
 <span> = </span>
-<span>The sea is supremely powerful, and can be a terrifying and awe-inspiring place.</span>
+<span>It is better to take a bad step in walking than to say the wrong thing in talking. We can do a lot of damage when we say something by mistake. The elliptical nature of this saying may make it difficult to understand. The full version might be something like: "It is better that your foot should slip than that your tongue should slip."</span>
 </div>
 <!--views:saying-rss-marker:end-->
 

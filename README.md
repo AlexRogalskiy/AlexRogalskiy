@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any real work life stories on money wastage and mess created on unused, duplicate, underused software or SaaS apps in your company?](https://www.reddit.com/r/InformationTechnology/comments/nulp83/any_real_work_life_stories_on_money_wastage_and/)
+- [End User Advocacy?](https://www.reddit.com/r/InformationTechnology/comments/nuhmqo/end_user_advocacy/)
+- [I have too much stuff... Input needed.](https://www.reddit.com/r/InformationTechnology/comments/nuh198/i_have_too_much_stuff_input_needed/)
 - [What to expect in real IT world](https://www.reddit.com/r/InformationTechnology/comments/nu11iz/what_to_expect_in_real_it_world/)
 - [Video Adapter vs Video Card?](https://www.reddit.com/r/InformationTechnology/comments/ntwjgk/video_adapter_vs_video_card/)
 - [.zip files](https://www.reddit.com/r/InformationTechnology/comments/ntstpb/zip_files/)
@@ -413,9 +416,6 @@
 - [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
 - [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
 - [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
-- [Professor Messer CompTIA A+ instruction videos still relevant today?](https://www.reddit.com/r/InformationTechnology/comments/nsfoen/professor_messer_comptia_a_instruction_videos/)
-- [Database administrator vs network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ns8csk/database_administrator_vs_network_administrator/)
-- [Looking For Remote Access Software (Other Than TeamViewer) That Allows Admin Rights](https://www.reddit.com/r/InformationTechnology/comments/ns7c1b/looking_for_remote_access_software_other_than/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

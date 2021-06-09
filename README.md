@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
-- [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
-- [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
-- [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
-- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
-- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
-- [CodePerfect 95 – A fast IDE for Go](https://codeperfect95.com)
-- [The price of batteries has declined by 97% in the last three decades](https://ourworldindata.org/battery-price-decline)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Highlights of new technologies introduced at WWDC 2021](https://developer.apple.com/documentation/New-Technologies-WWDC-2021)
+- [San Francisco may be first major US city to hit herd immunity, experts say](https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity)
+- [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+- [Senate Approves $250B Bill to Boost Tech Research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
+- [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
+- [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
+- [Bosch opens German chip plant](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
+- [ProPublica's Tax Story is Misleading](https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax)
+- [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains)
+- [Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [Microsoft Patches Six Zero-Day Security Holes](https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

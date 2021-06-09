@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The danger – and beauty – of ultrarunning](https://www.theguardian.com/news/audio/2021/jun/08/danger-and-beauty-of-ultrarunning-podcast)
-- [Audio shows how Giuliani pressured Ukraine officials to announce Biden inquiry](https://www.theguardian.com/us-news/2021/jun/07/rudy-giuliani-ukraine-officials-audio-joe-biden)
-- [Brazilian city shuts schools and transport as drug gangs avenge leader’s killing](https://www.theguardian.com/world/2021/jun/08/brazil-city-manaus-shuts-drug-gangs-killing-amazonas)
-- [Keira Knightley says every woman she knows has been harassed](https://www.theguardian.com/world/2021/jun/08/keira-knightley-says-every-woman-she-knows-has-been-harassed)
-- [Kayaker rescued during California-to-Hawaii solo attempt: ‘It went from bad to worse’](https://www.theguardian.com/us-news/2021/jun/07/kayaker-rescued-california-hawaii-cyril-derreumaux)
-- [‘Powerful’ new watchdog will target unscrupulous employers, says No 10](https://www.theguardian.com/law/2021/jun/08/powerful-new-watchdog-will-target-unscrupulous-employers-says-no-10)
-- [UK retail sales in May saw highest rise since start of Covid crisis](https://www.theguardian.com/business/2021/jun/08/uk-retail-sales-in-may-saw-highest-rise-since-start-of-covid-crisis)
-- [UK electoral officials announce biggest shake-up of boundaries in decades](https://www.theguardian.com/politics/2021/jun/08/uk-electoral-officials-announce-biggest-shake-up-of-boundaries-in-decades)
-- [Thousands of UK men to benefit after NHS approves prostate cancer drug](https://www.theguardian.com/society/2021/jun/08/thousands-of-uk-men-to-benefit-after-nhs-approves-prostate-cancer-drug)
-- [Las Vegas’s new strategy for tackling drought – banning ‘useless grass’](https://www.theguardian.com/us-news/2021/jun/07/las-vegas-drought-ban-useless-grass)
+- [AOC condemns Kamala Harris for telling Guatemalan migrants not to come to US](https://www.theguardian.com/us-news/2021/jun/08/aoc-kamala-harris-guatemalan-migrants-comments)
+- [The interrogation of Matt Hancock - podcast](https://www.theguardian.com/news/audio/2021/jun/09/the-interrogation-of-matt-hancock-podcast)
+- [Man impersonated Trump relatives online to trick donors, prosecutors say](https://www.theguardian.com/us-news/2021/jun/08/robert-trump-barron-trump-fake-social-media)
+- [World’s most liveable city: Auckland wins as Covid shakes up rankings](https://www.theguardian.com/world/2021/jun/09/worlds-most-liveable-city-auckland-wins-as-covid-shakes-up-rankings)
+- [US Senate approves $50bn boost for computer chip and AI technology to counter China](https://www.theguardian.com/us-news/2021/jun/09/us-senate-approves-50bn-boost-for-computer-chip-and-ai-technology-to-counter-china)
+- [Healing words: Taiwan’s tribes fight to save their disappearing languages](https://www.theguardian.com/world/2021/jun/09/healing-words-taiwans-tribes-fight-to-save-their-disappearing-languages)
+- [President of Oxford college defends students’ right to remove Queen’s photo](https://www.theguardian.com/education/2021/jun/09/president-of-oxford-college-defends-students-right-to-remove-photo-of-queen)
+- [NHS trusts hiring non-nurses for nursing roles, union warns](https://www.theguardian.com/society/2021/jun/09/nhs-trusts-hiring-non-nurses-for-nursing-roles-union-warns)
+- [Half of adults in UK watched porn during pandemic, says Ofcom](https://www.theguardian.com/media/2021/jun/09/half-british-adults-watched-porn-pandemic-ofcom)
+- [Euro 2020 team guides part 19: Spain](https://www.theguardian.com/football/2021/jun/09/euro-2020-team-guides-part-19-spain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

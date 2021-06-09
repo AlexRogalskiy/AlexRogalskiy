@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NHS Digital delays data collection plans until September](https://www.computerweekly.com/news/252502073/NHS-Digital-delays-data-collection-plans-until-September)
+- [We Open Tech community supports non-binary and trans security pros](https://www.computerweekly.com/news/252502080/We-Open-Tech-community-supports-non-binary-and-trans-security-pros)
+- [National data guardian calls for dialogue on NHS Digital GP plans](https://www.computerweekly.com/news/252502071/National-data-guardian-calls-for-dialogue-on-NHS-Digital-GP-plans)
+- [QTS acquired in $10bn datacentre deal](https://www.computerweekly.com/news/252502060/QTS-acquired-in-10bn-datacentre-deal)
+- [Did government allow Post Office to sack forensic accountants to cover up Horizon scandal?](https://www.computerweekly.com/news/252502056/Did-government-allow-Post-Office-to-sack-forensic-accountants-to-cover-up-Horizon-scandal)
+- [The jobseekers turning to cyber crime in the pandemic](https://www.computerweekly.com/ezine/Computer-Weekly/The-jobseekers-turning-to-cyber-crime-in-the-pandemic)
+- [Oracle and Crown Commercial Service renew MoU to continue cloud use](https://www.computerweekly.com/news/252502033/Oracle-and-Crown-Commercial-Service-renew-MoU-to-continue-cloud-use)
+- [CIO interview: Tom Read, chief executive, Government Digital Service](https://www.computerweekly.com/news/252501808/CIO-interview-Tom-Read-chief-executive-Government-Digital-Service)
 - [Police raids around world after investigators crack An0m cryptophone app in major hacking operation](https://www.computerweekly.com/news/252502051/Police-raids-around-world-after-investigators-crack-An0m-cryptophone-in-biggest-hacking-operation-to)
 - [Security Think Tank: What must a secure print strategy take into account?](https://www.computerweekly.com/opinion/Security-Think-Tank-What-must-a-secure-print-strategy-take-into-account)
-- [EU privacy chief investigates use of US cloud services](https://www.computerweekly.com/news/252502011/EU-privacy-chief-investigates-use-of-US-cloud-services)
-- [Bank of England calls for feedback on digital currencies](https://www.computerweekly.com/news/252502004/Bank-of-England-calls-for-feedback-on-digital-currencies)
-- [Mixed blessings in smartphone market as sales rise but replacement cycles lengthen](https://www.computerweekly.com/news/252502002/Mixed-blessings-in-smartphone-market-as-sales-rise-but-replacement-cycles-lengthen)
-- [Siloscape malware a risk to Windows containers, Kubernetes](https://www.computerweekly.com/news/252501997/Siloscape-malware-a-risk-to-Windows-containers-Kubernetes)
-- [NCSC updates schools ransomware guidance amid surge](https://www.computerweekly.com/news/252501998/NCSC-updates-schools-ransomware-guidance-amid-surge)
-- [IBM pushes back against US government data requests](https://www.computerweekly.com/news/252501996/IBM-pushes-back-against-US-government-data-requests)
-- [Campaigners plan legal action over NHS data sharing](https://www.computerweekly.com/news/252501989/Campaigners-plan-legal-action-over-NHS-data-sharing)
-- [NHS Digital’s GP data-scraping plan must be publicised and delayed](https://www.computerweekly.com/opinion/NHS-Digitals-GP-data-scraping-plan-must-be-publicised-and-delayed)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Apple’s top 5 announcements at WWDC 2021](https://www.itworldcanada.com/article/apples-top-5-announcements-at-wwdc-2021/454453)
+- [New malware targets Windows containers, says threat report](https://www.itworldcanada.com/article/new-malware-targets-windows-containers-says-threat-report/454446)
+- [Coffee Briefing, June 8, 2021 – The internet breaks; Pinterest news; Salesforce Digital 360 innovations; and more](https://www.itworldcanada.com/article/coffee-briefing-june-8-2021-the-internet-breaks-pinterest-news-salesforce-digital-360-innovations-and-more/454439)
+- [Hashtag Trending, June 8, 2021- Bezos going to space; Toronto’s HQ2 loss brings  benefits, Apple WWDC kicks off](https://www.itworldcanada.com/article/hashtag-trending-june-8-2021-bezos-going-to-space-torontos-hq2-loss-brings-benefits-apple-wwdc-kicks-off/454425)
 - [Hashtag Trending, June 7, 2021 – US elevates ransomware investigations; Tank Man censorship; El Salvador adopts Bitcoin as legal tender](https://www.itworldcanada.com/article/hashtag-trending-june-7-2021-us-elevates-ransomware-investigations-tank-man-censorship-el-salvador-adopts-bitcoin-as-legal-tender/454395)
 - [Cyber Security Today, June 7, 2021 – Compromised password blamed for pipeline hack, a new phishing scam pushes fake updates and more ransomware groups emerge](https://www.itworldcanada.com/article/cyber-security-today-june-7-2021-compromised-password-blamed-for-pipeline-hack-a-new-phishing-scam-pushes-fake-updates-and-more-ransomware-groups-emerge/454392)
 - [Bell to offer AWS Wavelength Zones for faster edge computing](https://www.itworldcanada.com/article/bell-to-offer-aws-wavelength-zones-for-faster-edge-computing/454368)
 - [Nearly 60% of small charities have zero plans to digitally transform, says CanadaHelps survey](https://www.itworldcanada.com/article/nearly-60-of-small-charities-have-zero-plans-to-digitally-transform-says-canadahelps-survey/454167)
 - [Cyber Security Today – Week in Review for June 4, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-4-2021/454362)
 - [SAP focuses on sustainability, merges business networks](https://www.itworldcanada.com/article/sap-focuses-on-sustainability-merges-business-networks/454279)
-- [CRTC consults the public on a three-digit mental health phone number](https://www.itworldcanada.com/article/crtc-consults-the-public-on-a-three-digit-mental-health-phone-number/454287)
-- [Four vectors accounted for over half of breaches last year, says VMware survey](https://www.itworldcanada.com/article/four-vectors-accounted-for-over-half-of-breaches-last-year-says-vmware-survey/454316)
-- [Cyber Security Today, June 4, 2021 – Evidence that awareness training works, CIRA looking for board nominees and another patching warning](https://www.itworldcanada.com/article/cyber-security-today-june-4-2021-evidence-that-awareness-training-works-cira-looking-for-board-nominees-and-another-patching-warning/454299)
-- [Tradition of celebrating DX excellence continues in July](https://www.itworldcanada.com/article/tradition-of-celebrating-dx-excellence-continues-in-july/454324)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

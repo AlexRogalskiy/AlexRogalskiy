@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Build a Lab on a Budget](https://www.reddit.com/r/InformationTechnology/comments/nvi568/build_a_lab_on_a_budget/)
+- [Mass imaging (60+ computers)](https://www.reddit.com/r/InformationTechnology/comments/nv9819/mass_imaging_60_computers/)
+- [Is paid online course worth it?](https://www.reddit.com/r/InformationTechnology/comments/nv199o/is_paid_online_course_worth_it/)
+- [HELP: Thoughts on Learning Management System](https://www.reddit.com/r/InformationTechnology/comments/nuvasz/help_thoughts_on_learning_management_system/)
 - [Any real work life stories on money wastage and mess created on unused, duplicate, underused software or SaaS apps in your company?](https://www.reddit.com/r/InformationTechnology/comments/nulp83/any_real_work_life_stories_on_money_wastage_and/)
 - [End User Advocacy?](https://www.reddit.com/r/InformationTechnology/comments/nuhmqo/end_user_advocacy/)
 - [I have too much stuff... Input needed.](https://www.reddit.com/r/InformationTechnology/comments/nuh198/i_have_too_much_stuff_input_needed/)
 - [What to expect in real IT world](https://www.reddit.com/r/InformationTechnology/comments/nu11iz/what_to_expect_in_real_it_world/)
 - [Video Adapter vs Video Card?](https://www.reddit.com/r/InformationTechnology/comments/ntwjgk/video_adapter_vs_video_card/)
 - [.zip files](https://www.reddit.com/r/InformationTechnology/comments/ntstpb/zip_files/)
-- [Salary](https://www.reddit.com/r/InformationTechnology/comments/ntcfch/salary/)
-- [Information Technology Resume Tier List](https://www.reddit.com/r/InformationTechnology/comments/nsp7cr/information_technology_resume_tier_list/)
-- [Help : Uploading video to Youtube causes DNS not responding](https://www.reddit.com/r/InformationTechnology/comments/nslehm/help_uploading_video_to_youtube_causes_dns_not/)
-- [[Help] Entry Level IT in Provo, UT](https://www.reddit.com/r/InformationTechnology/comments/nsj7d2/help_entry_level_it_in_provo_ut/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

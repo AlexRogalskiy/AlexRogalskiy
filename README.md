@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Gmail for business: The best tips, time-savers, and advanced advice](https://www.computerworld.com/article/3597914/gmail-for-business-the-best-tips-time-savers-and-advanced-advice.html#tk.rss_all)
+- [What's in the latest Chrome update? A JavaScript jolt from the new Sparkplug compiler](https://www.computerworld.com/article/3211427/whats-in-the-latest-chrome-update.html#tk.rss_all)
+- [WWDC: Apple digs deep to secure its platforms](https://www.computerworld.com/article/3621508/wwdc-apple-digs-deep-to-secure-its-platforms.html#tk.rss_all)
+- [6 noteworthy new Chrome OS features to keep an eye on](https://www.computerworld.com/article/3621001/chrome-os-features.html#tk.rss_all)
+- [Ransomware revisited: As attacks worsen, tried-and-true defenses falter](https://www.computerworld.com/article/3621026/ransomware-revisited-as-attacks-worsen-tried-and-true-defenses-falter.html#tk.rss_all)
 - [WWDC 2021: 20+ improvements for enterprise pros](https://www.computerworld.com/article/3620915/wwdc-2021-20-improvements-for-enterprise-pros.html#tk.rss_all)
 - [Patch Tuesday: The rules of updating Windows (and Microsoft apps)](https://www.computerworld.com/article/3620964/patch-tuesday-the-rules-of-updating-windows-and-microsoft-apps.html#tk.rss_all)
-- [US IT salaries start to grow as jobs growth remains steady](https://www.computerworld.com/article/3542681/us-it-salaries-start-to-grow-as-jobs-growth-remains-steady.html#tk.rss_all)
-- [The smart worker's guide to using a Chromebook offline](https://www.computerworld.com/article/3410608/the-smart-workers-guide-to-using-a-chromebook-offline.html#tk.rss_all)
-- [Note to IT: Google really wants its privacy settings left alone](https://www.computerworld.com/article/3620956/note-to-it-google-really-wants-its-privacy-settings-left-alone.html#tk.rss_all)
-- [WWDC 2021: What we think we know about an M1X MacBook Pro](https://www.computerworld.com/article/3620885/wwdc-2021-what-we-think-we-know-about-an-m1x-macbook-pro.html#tk.rss_all)
-- [Chewy Has Revolutionized Pet Care Customer Service](https://www.computerworld.com/article/3619883/chewy-has-revolutionized-pet-care-customer-service.html#tk.rss_all)
-- [Why inquisitiveness matters as much as IQ](https://www.computerworld.com/article/3620890/why-inquisitiveness-matters-as-much-as-iq.html#tk.rss_all)
-- [Nvidia Omniverse: Could it make today’s videoconferencing apps obsolete?](https://www.computerworld.com/article/3620976/nvidia-omniverse-could-it-make-todays-videoconferencing-apps-obsolete.html#tk.rss_all)
-- [Get a lifetime of CompTIA certification training today for just $50](https://www.computerworld.com/article/3619899/get-a-lifetime-of-comptia-certification-training-today-for-just-50.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

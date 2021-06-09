@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Apple Xcode Cloud brings CI/CD to Xcode IDE](https://www.infoworld.com/article/3621003/apple-xcode-cloud-brings-cicd-to-xcode-ide.html#tk.rss_all)
+- [The public cloud could evolve like streaming services](https://www.infoworld.com/article/3620963/the-public-cloud-could-evolve-like-streaming-services.html#tk.rss_all)
 - [IBM Python toolkit measures AI uncertainty](https://www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.html#tk.rss_all)
 - [Go fuzz to catch hard-to-find bugs in Go](https://www.infoworld.com/article/3621024/go-fuzz-to-catch-hard-to-find-bugs-in-go.html#tk.rss_all)
 - [3 AI startups revolutionizing NLP](https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [JFrog unveils software distribution service](https://www.infoworld.com/article/3621008/jfrog-unveils-software-distribution-service.html#tk.rss_all)
 - [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_all)
-- [Why developers use Confluent to manage Apache Kafka](https://www.infoworld.com/article/3619028/why-developers-use-confluent-to-manage-apache-kafka.html#tk.rss_all)
-- [Catching up on Build 2021: AI and Arm](https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [San Francisco may be first major US city to hit herd immunity, experts say](https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity)
-- [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
-- [Senate Approves $250B Bill to Boost Tech Research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
-- [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
-- [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
-- [Bosch opens German chip plant](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
-- [ProPublica's Tax Story is Misleading](https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax)
-- [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains)
-- [Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [Microsoft Patches Six Zero-Day Security Holes](https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/)
+- [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/)
+- [List of remote companies offering 4 day work weeks](https://www.remotechoice.co/four-day-work-week)
+- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
+- [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
+- [The Risk of Cargo Liquefication](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
+- [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
+- [Evaluating necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
+- [TC Energy scraps Keystone XL pipeline project after Biden revokes key permit](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
+- [LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
+- [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

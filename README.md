@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to perform validation using PostSharp in C#](https://www.infoworld.com/article/3621511/how-to-perform-validation-using-postsharp-in-c.html#tk.rss_all)
+- [Apple Xcode 13 supports teams, Swift concurrency](https://www.infoworld.com/article/3621404/apple-xcode-13-supports-teams-swift-concurrency.html#tk.rss_all)
+- [Power Platform becomes the new Visual Basic](https://www.infoworld.com/article/3621394/power-platform-becomes-the-new-visual-basic.html#tk.rss_all)
+- [How to choose a cloud-based CI/CD platform](https://www.infoworld.com/article/3620932/how-to-choose-a-cloud-based-cicd-platform.html#tk.rss_all)
 - [Apple Xcode Cloud brings CI/CD to Xcode IDE](https://www.infoworld.com/article/3621003/apple-xcode-cloud-brings-cicd-to-xcode-ide.html#tk.rss_all)
 - [The public cloud could evolve like streaming services](https://www.infoworld.com/article/3620963/the-public-cloud-could-evolve-like-streaming-services.html#tk.rss_all)
 - [IBM Python toolkit measures AI uncertainty](https://www.infoworld.com/article/3620942/ibm-python-toolkit-measures-ai-uncertainty.html#tk.rss_all)
 - [Go fuzz to catch hard-to-find bugs in Go](https://www.infoworld.com/article/3621024/go-fuzz-to-catch-hard-to-find-bugs-in-go.html#tk.rss_all)
 - [3 AI startups revolutionizing NLP](https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html#tk.rss_all)
-- [Snowflake pushes back at…whom?](https://www.infoworld.com/article/3620929/snowflake-pushes-back-atwhom.html#tk.rss_all)
-- [Is it possible to automate all of cloud operations?](https://www.infoworld.com/article/3620952/is-it-possible-to-automate-all-of-cloud-operations.html#tk.rss_all)
-- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [JFrog unveils software distribution service](https://www.infoworld.com/article/3621008/jfrog-unveils-software-distribution-service.html#tk.rss_all)
-- [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_all)
+- [Snowflake pushes back at… whom?](https://www.infoworld.com/article/3620929/snowflake-pushes-back-at-whom.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

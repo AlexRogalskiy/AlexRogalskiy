@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NHS Digital delays data collection plans until September](https://www.computerweekly.com/news/252502073/NHS-Digital-delays-data-collection-plans-until-September)
-- [We Open Tech community supports non-binary and trans security pros](https://www.computerweekly.com/news/252502080/We-Open-Tech-community-supports-non-binary-and-trans-security-pros)
-- [National data guardian calls for dialogue on NHS Digital GP plans](https://www.computerweekly.com/news/252502071/National-data-guardian-calls-for-dialogue-on-NHS-Digital-GP-plans)
-- [QTS acquired in $10bn datacentre deal](https://www.computerweekly.com/news/252502060/QTS-acquired-in-10bn-datacentre-deal)
-- [Did government allow Post Office to sack forensic accountants to cover up Horizon scandal?](https://www.computerweekly.com/news/252502056/Did-government-allow-Post-Office-to-sack-forensic-accountants-to-cover-up-Horizon-scandal)
-- [The jobseekers turning to cyber crime in the pandemic](https://www.computerweekly.com/ezine/Computer-Weekly/The-jobseekers-turning-to-cyber-crime-in-the-pandemic)
-- [Oracle and Crown Commercial Service renew MoU to continue cloud use](https://www.computerweekly.com/news/252502033/Oracle-and-Crown-Commercial-Service-renew-MoU-to-continue-cloud-use)
-- [CIO interview: Tom Read, chief executive, Government Digital Service](https://www.computerweekly.com/news/252501808/CIO-interview-Tom-Read-chief-executive-Government-Digital-Service)
-- [Police raids around world after investigators crack An0m cryptophone app in major hacking operation](https://www.computerweekly.com/news/252502051/Police-raids-around-world-after-investigators-crack-An0m-cryptophone-in-biggest-hacking-operation-to)
-- [Security Think Tank: What must a secure print strategy take into account?](https://www.computerweekly.com/opinion/Security-Think-Tank-What-must-a-secure-print-strategy-take-into-account)
+- [FBI arrests distributors accused of selling An0m encrypted phones to crime groups](https://www.computerweekly.com/news/252502189/FBI-arrests-distributors-accused-of-selling-An0m-encrypted-phones-to-crime-groups)
+- [Unit 42 warns of emergent Prometheus ransomware](https://www.computerweekly.com/news/252502169/Unit-42-warns-of-emergent-Prometheus-ransomware)
+- [Google plots a course to address AI in manufacturing](https://www.computerweekly.com/news/252502153/Google-plots-a-course-to-address-AI-in-manufacturing)
+- [RSA spins out fraud and risk unit as Outseer](https://www.computerweekly.com/news/252502158/RSA-spins-out-fraud-and-risk-unit-as-Outseer)
+- [Covid-accelerated recruitment digitisation to gain sophistication with hybrid models](https://www.computerweekly.com/feature/Covid-accelerated-recruitment-digitisation-set-to-gain-sophistication-with-hybrid-models)
+- [Why agility is the key to secure software](https://www.computerweekly.com/opinion/Why-Agility-is-the-Key-to-Secure-Software)
+- [BBVA to cut 3,000 jobs in Spain as digital technology transforms industry](https://www.computerweekly.com/news/252502144/BBVA-to-cut-3000-jobs-in-Spain-as-digital-technology-transforms-industry)
+- [Covid-19: AWS research points to pandemic-induced ‘shortcomings’ in enterprise IT strategies](https://www.computerweekly.com/news/252502143/Covid-19-AWS-research-points-to-pandemic-induced-shortcomings-in-enterprise-IT-strategies)
+- [Private cloud deployments: Beating the blind spots and bottlenecks](https://www.computerweekly.com/feature/Private-cloud-deployments-Beating-the-blind-spots-and-bottlenecks)
+- [Microsoft fixes seven zero-days on its Patch Tuesday rounds](https://www.computerweekly.com/news/252502139/Microsoft-fixes-seven-zero-days-on-its-Patch-Tuesday-rounds)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

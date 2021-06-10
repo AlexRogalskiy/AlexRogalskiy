@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to benchmark time series workloads](https://questdb.io/time-series-benchmark-suite/)
-- [How to make biomedical research less dangerous and more ethical, post-Covid-19](https://thebulletin.org/2021/06/how-to-make-biomedical-research-and-biosafety-labs-less-dangerous-and-more-ethical-post-covid-19/)
-- [Verizon Is Blocking Piracy Sites](https://torrentfreak.com/why-is-verizon-blocking-pirate-sites-such-as-nyaa-and-mangadex-210608/)
-- [NFL Funds Cannabis Research: Prohibition Adversely Impacts Study for Players](https://www.marijuanamoment.net/nfl-funds-marijuana-research-saying-federal-prohibition-adversely-impacts-studies-into-opioid-alternative-for-players/)
-- [Juno’s Ganymede Close-Up](https://www.nasa.gov/image-feature/jpl/juno-s-ganymede-close-up)
-- [San Francisco may be first major US city to hit herd immunity, experts say](https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity)
-- [Ask HN: What does it mean to be rich?](https://news.ycombinator.com/item?id=27443579)
-- [Open Source Survival: A Story from the Trenches](https://entreprenerd.lowagie.com/ossurvival/)
-- [The 1918 Flu virus is resurrected; in 2005; in US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095040/)
-- [Show HN: A site to manage and track the value of your collectibles](https://www.x-ray.fun/)
+- [Firefox 89: Mozilla brought its open source browser back from the ashes](https://www.techrepublic.com/article/mozilla-brought-their-open-source-browser-back-from-the-ashes-with-firefox-89/)
+- [David Hume: Causation](https://iep.utm.edu/hume-cau/)
+- [These Are the Biggest Mistakes I See in Facebook Ad Campaigns](https://capitalandgrowth.org/answers/Article/3638722/How-to-Fix-Poorly-Performing-Facebook-Ads-These-Are-the-Biggest-Mistakes-I-See)
+- [Facebook plans first smartwatch for next summer with cameras, heart rate monitor](https://www.theverge.com/2021/6/9/22526266/facebook-smartwatch-two-cameras-heart-rate-monitor)
+- [Several Magic Leap Executives Set to Depart in Leadership Shake-Up](https://www.businessinsider.com/magic-leap-executives-depart-in-leadership-shake-up-peggy-johnson-2021-6)
+- [The Colors We Share](https://www.youtube.com/watch?v=xiWWldiUKPw)
+- [Solving mysteries of reproduction helped make parenthood possible for millions](https://www.sciencenews.org/article/mysteries-reproduction-parenthood-ivf-fertilization)
+- [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+- [Understanding Buy Now Pay Later Finance](https://finflux.co/blog/empowering-buy-now-pay-later-platforms/)
+- [Tiny creatures survive after being frozen for 24,000 years in Siberian tundra](https://www.abc.net.au/news/science/2021-06-08/rotifers-survive-for-twenty-four-thousand-years-permafrost/100191788)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

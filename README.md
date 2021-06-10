@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Becoming a Self-Taught Cybersecurity Pro](https://www.informationweek.com/strategic-cio/team-building-and-staffing/becoming-a-self-taught-cybersecurity-pro/d/d-id/1341239?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Syngenta Talks Cloud Migration and Digital Agriculture](https://www.informationweek.com/cloud/syngenta-talks-cloud-migration-and-digital-agriculture/d/d-id/1341228?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Leadership: 10 Ways to Unleash Enterprise Innovation](https://www.informationweek.com/strategic-cio/it-leadership-10-ways-to-unleash-enterprise-innovation/d/d-id/1341204?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Seeking an Oasis in a Data Desert](https://www.informationweek.com/big-data/seeking-an-oasis-in-a-data-desert--/a/d-id/1341227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Put a Lid on Cloud Waste](https://www.informationweek.com/cloud/ways-to-put-a-lid-on-cloud-waste/a/d-id/1341188?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Future of Supercomputers: Democratization Is Critical](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/the-future-of-supercomputers-democratization-is-critical/a/d-id/1341140?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Preparing for the Upcoming Quantum Computing Revolution](https://www.informationweek.com/big-data/preparing-for-the-upcoming-quantum-computing-revolution/a/d-id/1341127?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Automation Strategies Are Shaping Up](https://www.informationweek.com/big-data/ai-machine-learning/automation-strategies-are-shaping-up/a/d-id/1341092?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [LogMeIn CIO: The Art of Integrating Acquisitions](https://www.informationweek.com/strategic-cio/logmein-cio-the-art-of-integrating-acquisitions/d/d-id/1341157?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

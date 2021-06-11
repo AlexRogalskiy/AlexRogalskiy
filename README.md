@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [RCMP use of Clearview AI facial recognition service violated Privacy Act, says report](https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542)
+- [Herjavec research says manufacturing firms were biggest ransomware targets in first half of 2021](https://www.itworldcanada.com/article/herjavec-research-says-manufacturing-firms-were-biggest-ransomware-targets-in-first-half-of-the-year/454481)
+- [Hashtag Trending, June 10, 2021- El Salvador court favours bitcoin law; IRS reveals billionaires paid little income tax; Biden revokes Trump’s TikTok ban](https://www.itworldcanada.com/article/hashtag-trending-june-10-2021-el-salvador-court-favours-bitcoin-law-irs-reveals-billionaires-paid-little-income-tax-biden-revokes-trumps-tiktok-ban/454537)
 - [Amazon Canada to create 1,800 new tech and corporate jobs this year](https://www.itworldcanada.com/article/amazon-canada-to-create-1800-new-tech-and-corporate-jobs-this-year/454514)
 - [CompTIA updates Cloud+ certification](https://www.itworldcanada.com/article/comptia-updates-cloud-certification/454494)
 - [Cyber Security Today, June 9, 2021 -Ransomware groups getting twitchy, and install these security updates](https://www.itworldcanada.com/article/cyber-security-today-june-9-2021-ransomware-groups-getting-twitchy-and-install-these-security-updates/454476)
@@ -428,9 +431,6 @@
 - [Apple’s top 5 announcements at WWDC 2021](https://www.itworldcanada.com/article/apples-top-5-announcements-at-wwdc-2021/454453)
 - [New malware targets Windows containers, says threat report](https://www.itworldcanada.com/article/new-malware-targets-windows-containers-says-threat-report/454446)
 - [Coffee Briefing, June 8, 2021 – The internet breaks; Pinterest news; Salesforce Digital 360 innovations; and more](https://www.itworldcanada.com/article/coffee-briefing-june-8-2021-the-internet-breaks-pinterest-news-salesforce-digital-360-innovations-and-more/454439)
-- [Hashtag Trending, June 8, 2021- Bezos going to space; Toronto’s HQ2 loss brings  benefits, Apple WWDC kicks off](https://www.itworldcanada.com/article/hashtag-trending-june-8-2021-bezos-going-to-space-torontos-hq2-loss-brings-benefits-apple-wwdc-kicks-off/454425)
-- [Hashtag Trending, June 7, 2021 – US elevates ransomware investigations; Tank Man censorship; El Salvador adopts Bitcoin as legal tender](https://www.itworldcanada.com/article/hashtag-trending-june-7-2021-us-elevates-ransomware-investigations-tank-man-censorship-el-salvador-adopts-bitcoin-as-legal-tender/454395)
-- [Cyber Security Today, June 7, 2021 – Compromised password blamed for pipeline hack, a new phishing scam pushes fake updates and more ransomware groups emerge](https://www.itworldcanada.com/article/cyber-security-today-june-7-2021-compromised-password-blamed-for-pipeline-hack-a-new-phishing-scam-pushes-fake-updates-and-more-ransomware-groups-emerge/454392)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f6&#x2F;0c&#x2F;16&#x2F;f60c167ffd06b3e675df4bc287e4a361.jpg" alt="Our Word of the Day is not to be confused with picturesque. It’s picaresque. Get example sentences, pronunciation help, and more at Dictionary.com. #English #Learning #Vocabulary" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;0a&#x2F;9b&#x2F;1b0a9bd42a0da5083c754d16b115a610.jpg" alt="We have a predilection for our Word of the Day. Wondering where it comes from? Get the etymology, example sentences, and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;0d&#x2F;6b&#x2F;ec&#x2F;0d6becf1a23e32522870cb9d4dead541.jpg" alt="We like the sound of this Word of the Day. It’s schwa. Get example sentences, pronunciation help, word origin, and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;95&#x2F;a1&#x2F;30&#x2F;95a130369ee9851fbbe0f6b8a91cbc44.jpg" alt="Amphibious is the Word of the Day. Click for pronunciation, example sentences, and more. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;4a&#x2F;25&#x2F;5a&#x2F;4a255a8f1e95791fa265fd3f392c1c09.jpg" alt="Pardon the agglomeration. It&#39;s the Word of the Day. Want more? Click for example sentences and more. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>23°C (<i>few clouds</i>), humidity: 33%, pressure: 1014 (mbar), wind: /south-west/ 8 (m/s), cloudy: 20%</b>
+        <b>22°C (<i>few clouds</i>), humidity: 40%, pressure: 1014 (mbar), wind: /south/ 3 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>03:38 am</b> and sets at <b>22:18 pm</b>.
     </p>

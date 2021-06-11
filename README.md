@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Claims could run into billions’: the interests at stake if Olympics in Japan were cancelled](https://www.theguardian.com/sport/2021/jun/10/claims-could-run-into-billions-the-interests-at-stake-if-olympics-in-japan-were-cancelled)
-- [The G7 and a crucial moment for the climate](https://www.theguardian.com/news/audio/2021/jun/10/the-g7-and-a-crucial-moment-for-the-climate)
-- [Biden arrives with demand that UK settle Brexit row over Northern Ireland](https://www.theguardian.com/politics/2021/jun/10/northern-ireland-biden-brexit-talks-warning-tensions)
-- [Auckland’s most liveable city status must be seen through prism of pandemic](https://www.theguardian.com/cities/2021/jun/10/aucklands-most-liveable-city-status-must-be-seen-through-prism-of-pandemic)
-- [G7 leaders will call for fresh WHO inquiry into Covid origins, leaked communique suggests](https://www.theguardian.com/world/2021/jun/10/g7-communique-leak-covid-origins-inquiry-vaccines-forced-labour)
-- [Oriel College faces teaching boycott over refusal to remove Rhodes statue](https://www.theguardian.com/education/2021/jun/10/oriel-college-faces-teaching-boycott-over-refusal-to-remove-rhodes-statue)
-- [Stamp duty holiday helps drive up UK property prices](https://www.theguardian.com/money/2021/jun/10/stamp-duty-holiday-helps-drive-up-uk-property-prices)
-- [Access to GPs’ patient data key to new treatments, researchers say](https://www.theguardian.com/science/2021/jun/10/access-to-gps-patient-data-key-to-new-treatments-researchers-say)
-- [Euro 2020 team guides part 21: France](https://www.theguardian.com/football/2021/jun/10/euro-2020-team-guides-part-21-france)
-- [MPs attack plan to give housebuilders freedom to build over ‘growth’ zones](https://www.theguardian.com/society/2021/jun/10/mps-attack-plan-to-give-housebuilders-freedom-to-build-over-growth-zones)
+- [GB News enters the culture war - podcast](https://www.theguardian.com/news/audio/2021/jun/11/gb-news-enters-the-culture-war-podcast)
+- [Australian researchers discover why only two of echidna’s four penis heads become erect at one time](https://www.theguardian.com/australia-news/2021/jun/11/australian-researchers-discover-why-only-two-heads-of-echidna-penis-become-erect-at-one-time)
+- [FBI chief calls Capitol attack domestic terrorism and rejects Trump’s fraud claims](https://www.theguardian.com/us-news/2021/jun/10/capitol-attack-fbi-christopher-wray-congress)
+- [After Life review – an ode to precious moments and stage management](https://www.theguardian.com/stage/2021/jun/11/after-life-review-jack-thorne-dorfman-national-theatre)
+- [Euro 2020: our writers predict the winners, losers and breakout stars](https://www.theguardian.com/football/2021/jun/11/euro-2020-writers-predict-winners-losers-breakout-stars)
+- [Euro 2020 team guides part 23: Hungary](https://www.theguardian.com/football/2021/jun/11/euro-2020-team-guides-part-23-hungary)
+- [Ministers aim to spur domestic tourism with cut-price UK rail pass](https://www.theguardian.com/world/2021/jun/11/ministers-aim-to-spur-domestic-tourism-with-cut-price-uk-rail-pass)
+- [Boris Johnson urged to keep English Covid rules in place beyond 21 June](https://www.theguardian.com/politics/2021/jun/10/boris-johnson-urged-to-keep-english-covid-rules-in-place-beyond-21-june)
+- [Dina Asher-Smith continues winning streak with dominant Florence victory](https://www.theguardian.com/sport/2021/jun/10/dina-asher-smith-continues-winning-streak-with-dominant-florence-victory)
+- [Iran sends warship on rare Atlantic mission amid Venezuela speculation](https://www.theguardian.com/world/2021/jun/10/iran-sends-warship-on-rare-atlantic-mission-amid-venezuela-speculation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WWDC: Why iCloud+ will help secure the enterprise](https://www.computerworld.com/article/3621731/wwdc-why-icloud-will-help-secure-the-enterprise.html#tk.rss_all)
+- [Podcast: WWDC 2021 recap: iPadOS overview, enterprise improvements and unnannounced iOS 15 features](https://www.computerworld.com/article/3621632/podcast-wwdc-2021-recap-ipados-overview-enterprise-improvements-and-unnannounced-ios-15-features.html#tk.rss_all)
+- [Google's 15 funniest flip-flops with Android, Chrome OS, and beyond](https://www.computerworld.com/article/3082024/google-android-chrome-os-flip-flops.html#tk.rss_all)
+- [Microsoft's plan to remake Windows — what that might mean](https://www.computerworld.com/article/3621649/microsofts-plan-to-remake-windows-what-that-might-mean.html#tk.rss_all)
 - [BrandPost: 5 Ways Microsoft Can Improve the User Experience](https://www.computerworld.com/article/3620896/5-ways-microsoft-can-improve-the-user-experience.html#tk.rss_all)
 - [BrandPost: How to Modernize IT Support for Improved User Experiences](https://www.computerworld.com/article/3620882/how-to-modernize-it-support-for-improved-user-experiences.html#tk.rss_all)
 - [Asana adds features to reduce distractions, improve video chats](https://www.computerworld.com/article/3621237/asana-adds-features-to-reduce-distractions-improve-video-chats.html#tk.rss_all)
 - [WWDC: Universal Control on the Mac and iPad explained](https://www.computerworld.com/article/3620945/wwdc-universal-control-on-the-mac-and-ipad-explained.html#tk.rss_all)
 - [The ins and outs of data recovery in Windows 10](https://www.computerworld.com/article/3618828/ins-and-outs-of-data-recovery-in-windows-10.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Gmail for business: The best tips, time-savers, and advanced advice](https://www.computerworld.com/article/3597914/gmail-for-business-the-best-tips-time-savers-and-advanced-advice.html#tk.rss_all)
-- [What's in the latest Chrome update? A JavaScript jolt from the new Sparkplug compiler](https://www.computerworld.com/article/3211427/whats-in-the-latest-chrome-update.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

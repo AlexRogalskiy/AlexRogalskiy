@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Machine Learning Basics Everyone Should Know](https://www.informationweek.com/big-data/ai-machine-learning/machine-learning-basics-everyone-should-know/a/d-id/1341253?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What SolarWinds Taught Enterprises About Data Protection](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-solarwinds-taught-enterprises-about-data-protection/a/d-id/1341235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Becoming a Self-Taught Cybersecurity Pro](https://www.informationweek.com/strategic-cio/team-building-and-staffing/becoming-a-self-taught-cybersecurity-pro/d/d-id/1341239?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Syngenta Talks Cloud Migration and Digital Agriculture](https://www.informationweek.com/cloud/syngenta-talks-cloud-migration-and-digital-agriculture/d/d-id/1341228?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Leadership: 10 Ways to Unleash Enterprise Innovation](https://www.informationweek.com/strategic-cio/it-leadership-10-ways-to-unleash-enterprise-innovation/d/d-id/1341204?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Making the Move to a SaaS Usage-Based Model](https://www.informationweek.com/cloud/software-as-a-service/making-the-move-to-a-saas-usage-based-model/a/d-id/1341142?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Moving to the Cloud? Not Without Your Network Team](https://www.informationweek.com/moving-to-the-cloud-not-without-your-network-team/d/d-id/1341225?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The Future of Supercomputers: Democratization Is Critical](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/the-future-of-supercomputers-democratization-is-critical/a/d-id/1341140?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Preparing for the Upcoming Quantum Computing Revolution](https://www.informationweek.com/big-data/preparing-for-the-upcoming-quantum-computing-revolution/a/d-id/1341127?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

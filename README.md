@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/)
-- [List of remote companies offering 4 day work weeks](https://www.remotechoice.co/four-day-work-week)
-- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
-- [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
-- [The Risk of Cargo Liquefication](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
-- [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
-- [Evaluating necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
-- [TC Energy scraps Keystone XL pipeline project after Biden revokes key permit](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
-- [LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
-- [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/)
+- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
+- [Don't Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/)
+- [“Crunch” Open Source Texture Compression Library vs. U.S. Patent (2012)](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
+- [Chrome abandons 'simplified domain experiment' in omnibar](https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75)
+- [Mysterious fast radio bursts come in two distinct flavours](https://www.nature.com/articles/d41586-021-01560-4)
+- [FDA approves drug to treat smallpox](https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox)
+- [AWS Frankfurt Status: Engineers are still not able to enter the affected part](https://status.aws.amazon.com/#EU_block)
+- [Physicists measure the gravitational force between the smallest masses yet](https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/)
+- [The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple](https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

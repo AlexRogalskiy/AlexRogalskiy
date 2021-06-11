@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How the pandemic changed backup](https://www.computerweekly.com/feature/How-the-pandemic-changed-backup)
+- [Accenture supports tech bootcamp for people facing barriers to employment](https://www.computerweekly.com/news/252502235/Accenture-supports-tech-bootcamp-for-people-facing-barriers-to-employment)
+- [Risk data shows UK energy sector most vulnerable to cyber attack](https://www.computerweekly.com/news/252502237/Risk-data-shows-UK-energy-sector-most-vulnerable-to-cyber-attack)
+- [CW Europe: Amsterdam reins back datacentre developments over environmental concern](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Amsterdam-reins-back-datacentre-developments-over-environmental-concern)
+- [BEIS confirms rogue umbrellas will be covered by single enforcement body’s clampdown powers](https://www.computerweekly.com/news/252502230/BEIS-confirms-rogue-umbrellas-will-be-covered-by-single-enforcement-bodys-clampdown-powers)
+- [Security Think Tank: Time to accept printers will leak data](https://www.computerweekly.com/opinion/Security-Think-Tank-Time-to-accept-printers-will-leak-data)
 - [FBI arrests distributors accused of selling An0m encrypted phones to crime groups](https://www.computerweekly.com/news/252502189/FBI-arrests-distributors-accused-of-selling-An0m-encrypted-phones-to-crime-groups)
 - [Unit 42 warns of emergent Prometheus ransomware](https://www.computerweekly.com/news/252502169/Unit-42-warns-of-emergent-Prometheus-ransomware)
 - [Google plots a course to address AI in manufacturing](https://www.computerweekly.com/news/252502153/Google-plots-a-course-to-address-AI-in-manufacturing)
 - [RSA spins out fraud and risk unit as Outseer](https://www.computerweekly.com/news/252502158/RSA-spins-out-fraud-and-risk-unit-as-Outseer)
-- [Covid-accelerated recruitment digitisation to gain sophistication with hybrid models](https://www.computerweekly.com/feature/Covid-accelerated-recruitment-digitisation-set-to-gain-sophistication-with-hybrid-models)
-- [Why agility is the key to secure software](https://www.computerweekly.com/opinion/Why-Agility-is-the-Key-to-Secure-Software)
-- [BBVA to cut 3,000 jobs in Spain as digital technology transforms industry](https://www.computerweekly.com/news/252502144/BBVA-to-cut-3000-jobs-in-Spain-as-digital-technology-transforms-industry)
-- [Covid-19: AWS research points to pandemic-induced ‘shortcomings’ in enterprise IT strategies](https://www.computerweekly.com/news/252502143/Covid-19-AWS-research-points-to-pandemic-induced-shortcomings-in-enterprise-IT-strategies)
-- [Private cloud deployments: Beating the blind spots and bottlenecks](https://www.computerweekly.com/feature/Private-cloud-deployments-Beating-the-blind-spots-and-bottlenecks)
-- [Microsoft fixes seven zero-days on its Patch Tuesday rounds](https://www.computerweekly.com/news/252502139/Microsoft-fixes-seven-zero-days-on-its-Patch-Tuesday-rounds)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

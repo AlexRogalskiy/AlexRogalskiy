@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are the most reasonable options for freelancing/starting a business in IT?](https://www.reddit.com/r/InformationTechnology/comments/nx2ux4/what_are_the_most_reasonable_options_for/)
+- [Linux Distro for old laptops.](https://www.reddit.com/r/InformationTechnology/comments/nwtxyz/linux_distro_for_old_laptops/)
 - [Gui not working for vm box](https://www.reddit.com/r/InformationTechnology/comments/nwct8o/gui_not_working_for_vm_box/)
 - [Google IT Support Specialist Certification/ CompTIA A+](https://www.reddit.com/r/InformationTechnology/comments/nw2yep/google_it_support_specialist_certification/)
 - [Middle of the road IT analyst, make ~55k a year, not sure what to do to further my career](https://www.reddit.com/r/InformationTechnology/comments/nvxso6/middle_of_the_road_it_analyst_make_55k_a_year_not/)
@@ -414,8 +416,6 @@
 - [Mass imaging (60+ computers)](https://www.reddit.com/r/InformationTechnology/comments/nv9819/mass_imaging_60_computers/)
 - [Is paid online course worth it?](https://www.reddit.com/r/InformationTechnology/comments/nv199o/is_paid_online_course_worth_it/)
 - [HELP: Thoughts on Learning Management System](https://www.reddit.com/r/InformationTechnology/comments/nuvasz/help_thoughts_on_learning_management_system/)
-- [Any real work life stories on money wastage and mess created on unused, duplicate, underused software or SaaS apps in your company?](https://www.reddit.com/r/InformationTechnology/comments/nulp83/any_real_work_life_stories_on_money_wastage_and/)
-- [End User Advocacy?](https://www.reddit.com/r/InformationTechnology/comments/nuhmqo/end_user_advocacy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

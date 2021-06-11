@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Firefox 89: Mozilla brought its open source browser back from the ashes](https://www.techrepublic.com/article/mozilla-brought-their-open-source-browser-back-from-the-ashes-with-firefox-89/)
-- [David Hume: Causation](https://iep.utm.edu/hume-cau/)
-- [These Are the Biggest Mistakes I See in Facebook Ad Campaigns](https://capitalandgrowth.org/answers/Article/3638722/How-to-Fix-Poorly-Performing-Facebook-Ads-These-Are-the-Biggest-Mistakes-I-See)
-- [Facebook plans first smartwatch for next summer with cameras, heart rate monitor](https://www.theverge.com/2021/6/9/22526266/facebook-smartwatch-two-cameras-heart-rate-monitor)
-- [Several Magic Leap Executives Set to Depart in Leadership Shake-Up](https://www.businessinsider.com/magic-leap-executives-depart-in-leadership-shake-up-peggy-johnson-2021-6)
-- [The Colors We Share](https://www.youtube.com/watch?v=xiWWldiUKPw)
-- [Solving mysteries of reproduction helped make parenthood possible for millions](https://www.sciencenews.org/article/mysteries-reproduction-parenthood-ivf-fertilization)
-- [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
-- [Understanding Buy Now Pay Later Finance](https://finflux.co/blog/empowering-buy-now-pay-later-platforms/)
-- [Tiny creatures survive after being frozen for 24,000 years in Siberian tundra](https://www.abc.net.au/news/science/2021-06-08/rotifers-survive-for-twenty-four-thousand-years-permafrost/100191788)
+- [Millennial millionaires have a large share of their wealth in crypto](https://www.cnbc.com/2021/06/10/millennial-millionaires-have-large-share-of-wealth-in-crypto-cnbc-survey-.html)
+- [Fitting a FORTH in 512 bytes](https://niedzejkob.p4.team/bootstrap/miniforth/)
+- [Reducing Python String Memory Use in Apache Arrow 0.12](https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/)
+- [Dr. Steven Hatfill on HCQ](https://drstevenhatfill.com/open-letter-to-america/)
+- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
+- [Fashion for pointy shoes unleashed plague of bunions in medieval Britain](https://phys.org/news/2021-06-fashion-pointy-unleashed-plague-bunions.html)
+- [Patents available to GNU GPL licensed software](https://levien.com/patents.html)
+- [Sensors for Our Five Senses](https://www.f5.com/company/blog/sensors-for-our-five-senses)
+- [The Inner Ring](https://www.lewissociety.org/innerring/)
+- [Grbl – open-source, high performance g-code-parser and CNC milling controller](https://github.com/grbl/grbl)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

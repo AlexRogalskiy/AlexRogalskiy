@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inventory Management Interview Questions](https://www.reddit.com/r/InformationTechnology/comments/nxw1cz/inventory_management_interview_questions/)
+- [If you was trying to gain experience what would you do?](https://www.reddit.com/r/InformationTechnology/comments/nxtyzj/if_you_was_trying_to_gain_experience_what_would/)
+- [Is MCSE, CCNA, CompTIA A+ still needed if you have a BAS in IT?](https://www.reddit.com/r/InformationTechnology/comments/nxn9y0/is_mcse_ccna_comptia_a_still_needed_if_you_have_a/)
+- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/nxjbq2/free_training_on_az900_microsoft_azure/)
+- [On interview panel for a higher level tech - what should I ask?](https://www.reddit.com/r/InformationTechnology/comments/nx5ple/on_interview_panel_for_a_higher_level_tech_what/)
 - [What are the most reasonable options for freelancing/starting a business in IT?](https://www.reddit.com/r/InformationTechnology/comments/nx2ux4/what_are_the_most_reasonable_options_for/)
 - [Linux Distro for old laptops.](https://www.reddit.com/r/InformationTechnology/comments/nwtxyz/linux_distro_for_old_laptops/)
 - [Gui not working for vm box](https://www.reddit.com/r/InformationTechnology/comments/nwct8o/gui_not_working_for_vm_box/)
 - [Google IT Support Specialist Certification/ CompTIA A+](https://www.reddit.com/r/InformationTechnology/comments/nw2yep/google_it_support_specialist_certification/)
 - [Middle of the road IT analyst, make ~55k a year, not sure what to do to further my career](https://www.reddit.com/r/InformationTechnology/comments/nvxso6/middle_of_the_road_it_analyst_make_55k_a_year_not/)
-- [classes to take to get into deops?](https://www.reddit.com/r/InformationTechnology/comments/nvnxux/classes_to_take_to_get_into_deops/)
-- [Build a Lab on a Budget](https://www.reddit.com/r/InformationTechnology/comments/nvi568/build_a_lab_on_a_budget/)
-- [Mass imaging (60+ computers)](https://www.reddit.com/r/InformationTechnology/comments/nv9819/mass_imaging_60_computers/)
-- [Is paid online course worth it?](https://www.reddit.com/r/InformationTechnology/comments/nv199o/is_paid_online_course_worth_it/)
-- [HELP: Thoughts on Learning Management System](https://www.reddit.com/r/InformationTechnology/comments/nuvasz/help_thoughts_on_learning_management_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

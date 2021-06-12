@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
-- [Don't Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/)
-- [“Crunch” Open Source Texture Compression Library vs. U.S. Patent (2012)](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
-- [Chrome abandons 'simplified domain experiment' in omnibar](https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75)
-- [Mysterious fast radio bursts come in two distinct flavours](https://www.nature.com/articles/d41586-021-01560-4)
-- [FDA approves drug to treat smallpox](https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox)
-- [AWS Frankfurt Status: Engineers are still not able to enter the affected part](https://status.aws.amazon.com/#EU_block)
-- [Physicists measure the gravitational force between the smallest masses yet](https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/)
-- [The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple](https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html)
+- [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
+- [Tylenol isn't so safe, but at least it works?](https://www.acsh.org/news/2017/09/18/tylenol-isnt-so-safe-least-it-works-right-11827)
+- [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
+- [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
+- [Echo Dot, Apple Watch, JBL Speakers listings hijacked](https://sellercentral.amazon.com/forums/t/review-manipulation-amazon-echo-dot-listing-hijacked-seriosly/856604)
+- [Britain’s destruction and concealment of colonial records (2017)](https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256)
+- [The World’s Northernmost Town](https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/)
+- [Death by Pokémon Go: the economic and human cost of using apps while driving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723)
+- ['I was completely inside': Lobster diver swallowed by humpback whale](https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/)
+- [Everything but the Stench](https://www.laphamsquarterly.org/roundtable/everything-stench)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

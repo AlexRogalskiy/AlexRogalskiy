@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Rubin Observatory Goes Open Source to Capture Galactic Data](https://www.informationweek.com/big-data/rubin-observatory-goes-open-source-to-capture-galactic-data/d/d-id/1341267?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [What We Can Do About Biased AI](https://www.informationweek.com/big-data/ai-machine-learning/what-we-can-do-about-biased-ai-/a/d-id/1341252?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Machine Learning Basics Everyone Should Know](https://www.informationweek.com/big-data/ai-machine-learning/machine-learning-basics-everyone-should-know/a/d-id/1341253?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What SolarWinds Taught Enterprises About Data Protection](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-solarwinds-taught-enterprises-about-data-protection/a/d-id/1341235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Becoming a Self-Taught Cybersecurity Pro](https://www.informationweek.com/strategic-cio/team-building-and-staffing/becoming-a-self-taught-cybersecurity-pro/d/d-id/1341239?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Seeking an Oasis in a Data Desert](https://www.informationweek.com/big-data/seeking-an-oasis-in-a-data-desert--/a/d-id/1341227?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Put a Lid on Cloud Waste](https://www.informationweek.com/cloud/ways-to-put-a-lid-on-cloud-waste/a/d-id/1341188?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Making the Move to a SaaS Usage-Based Model](https://www.informationweek.com/cloud/software-as-a-service/making-the-move-to-a-saas-usage-based-model/a/d-id/1341142?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Moving to the Cloud? Not Without Your Network Team](https://www.informationweek.com/moving-to-the-cloud-not-without-your-network-team/d/d-id/1341225?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Ancestry's DevOps Strategy to Control Its CI/CD Pipeline](https://www.informationweek.com/devops/ancestrys-devops-strategy-to-control-its-ci-cd-pipeline/d/d-id/1341207?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

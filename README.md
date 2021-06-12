@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [GB News enters the culture war - podcast](https://www.theguardian.com/news/audio/2021/jun/11/gb-news-enters-the-culture-war-podcast)
-- [Australian researchers discover why only two of echidna’s four penis heads become erect at one time](https://www.theguardian.com/australia-news/2021/jun/11/australian-researchers-discover-why-only-two-heads-of-echidna-penis-become-erect-at-one-time)
-- [FBI chief calls Capitol attack domestic terrorism and rejects Trump’s fraud claims](https://www.theguardian.com/us-news/2021/jun/10/capitol-attack-fbi-christopher-wray-congress)
-- [After Life review – an ode to precious moments and stage management](https://www.theguardian.com/stage/2021/jun/11/after-life-review-jack-thorne-dorfman-national-theatre)
-- [Euro 2020: our writers predict the winners, losers and breakout stars](https://www.theguardian.com/football/2021/jun/11/euro-2020-writers-predict-winners-losers-breakout-stars)
-- [Euro 2020 team guides part 23: Hungary](https://www.theguardian.com/football/2021/jun/11/euro-2020-team-guides-part-23-hungary)
-- [Ministers aim to spur domestic tourism with cut-price UK rail pass](https://www.theguardian.com/world/2021/jun/11/ministers-aim-to-spur-domestic-tourism-with-cut-price-uk-rail-pass)
-- [Boris Johnson urged to keep English Covid rules in place beyond 21 June](https://www.theguardian.com/politics/2021/jun/10/boris-johnson-urged-to-keep-english-covid-rules-in-place-beyond-21-june)
-- [Dina Asher-Smith continues winning streak with dominant Florence victory](https://www.theguardian.com/sport/2021/jun/10/dina-asher-smith-continues-winning-streak-with-dominant-florence-victory)
-- [Iran sends warship on rare Atlantic mission amid Venezuela speculation](https://www.theguardian.com/world/2021/jun/10/iran-sends-warship-on-rare-atlantic-mission-amid-venezuela-speculation)
+- [Vladimir Putin says Biden ‘radically different’ after impulsive Trump](https://www.theguardian.com/us-news/2021/jun/12/vladimir-putin-says-biden-radically-different-after-impulsive-trump)
+- [Italy kick off in style and Bale leads Wales in Baku – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/12/euro-2020-turkey-italy-opener-football-weekly)
+- [Celebrity merchandise enters new era as stars sell off their clothes](https://www.theguardian.com/fashion/2021/jun/11/celebrity-merchandise-enters-new-era-as-stars-sell-off-their-clothes)
+- [Novak Djokovic reaches French Open final with epic win over Rafael Nadal](https://www.theguardian.com/sport/2021/jun/11/novak-djokovic-rafael-nadal-french-open-mens-semi-final-roland-garros)
+- [Sea shanties provide perfect soundtrack for G7 summit](https://www.theguardian.com/world/2021/jun/11/sea-shanties-provide-perfect-soundtrack-for-g7-summit)
+- [In the mouth of the whale: lobster diver swallowed by humpback lives to tell the tale](https://www.theguardian.com/us-news/2021/jun/11/lobster-diver-swallowed-by-whale-cape-cod)
+- [Queen’s birthday list honours key figures in UK Covid vaccine drive](https://www.theguardian.com/uk-news/2021/jun/11/queens-birthday-list-honours-uk-covid-vaccine-taskforce-kate-bingham)
+- [Gareth Southgate to put balance before ‘fantasy’ in England side for Croatia](https://www.theguardian.com/football/2021/jun/11/gareth-southgate-balance-england-side-croatia-euro-2020)
+- [Everton in advanced talks with Nuno over replacing Ancelotti as manager](https://www.theguardian.com/football/2021/jun/11/everton-in-advanced-talks-with-nuno-over-replacing-ancelotti-as-manager)
+- [Texas will build a wall along its border with Mexico, governor says](https://www.theguardian.com/us-news/2021/jun/11/texas-border-wall-greg-abbott)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

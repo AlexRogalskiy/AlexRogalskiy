@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Millennial millionaires have a large share of their wealth in crypto](https://www.cnbc.com/2021/06/10/millennial-millionaires-have-large-share-of-wealth-in-crypto-cnbc-survey-.html)
-- [Fitting a FORTH in 512 bytes](https://niedzejkob.p4.team/bootstrap/miniforth/)
-- [Reducing Python String Memory Use in Apache Arrow 0.12](https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/)
-- [Dr. Steven Hatfill on HCQ](https://drstevenhatfill.com/open-letter-to-america/)
-- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
-- [Fashion for pointy shoes unleashed plague of bunions in medieval Britain](https://phys.org/news/2021-06-fashion-pointy-unleashed-plague-bunions.html)
-- [Patents available to GNU GPL licensed software](https://levien.com/patents.html)
-- [Sensors for Our Five Senses](https://www.f5.com/company/blog/sensors-for-our-five-senses)
-- [The Inner Ring](https://www.lewissociety.org/innerring/)
-- [Grbl – open-source, high performance g-code-parser and CNC milling controller](https://github.com/grbl/grbl)
+- [The Fighting Chess Index](https://www.davidsmerdon.com/?p=2168)
+- [Billionaire Larry Page’s Kitty Hawk Is Making an All-In Bet on Robot Air Taxis](https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/)
+- [We went from 0 to a complex app in 24 hrs with the help of automated meetings](https://newday-blog.ghost.io/autopilot-hack-day/)
+- [User: Somebody “Notme” Else](https://en.wikipedia.org/wiki/User:Somebody_%22Notme%22_Else)
+- [The Covid lab-leak hypothesis: what scientists do and don’t know](https://www.nature.com/articles/d41586-021-01529-3)
+- [make me a sandwich](https://duckduckgo.com/?q=make+me+a+sandwich)
+- [How to Make Taiwan's Iconic Train Bento](https://www.atlasobscura.com/articles/taiwanese-train-bento-recipe)
+- [DOJ requested data on 73 phone numbers and 36 email addresses from Apple](https://www.cnn.com/2021/06/11/politics/justice-department-apple-congress-leak-investigation/index.html)
+- [The Wondrous World of Discoverable GPT Disk Images](http://0pointer.net/blog/the-wondrous-world-of-discoverable-gpt-disk-images.html)
+- [Multicore OCaml: May 2021](https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

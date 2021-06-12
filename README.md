@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today Week in Review for June 11, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-11-2021/454599)
+- [SAP talks supply chain, culture, sustainability at Sapphire Now](https://www.itworldcanada.com/article/sap-talks-supply-chain-culture-sustainability-at-sapphire-now/454610)
+- [Cyber Security Today, June 11, 2021 – Police disrupt stolen credentials marketplace, how fast crooks work with stolen credentials  and more](https://www.itworldcanada.com/article/cyber-security-today-june-11-2021-police-disrupt-stolen-credentials-marketplace-how-fast-crooks-work-with-stolen-credentials-and-more/454596)
+- [Hashtag Trending, June 11, 2021 – Facebook’s Sex Trafficking Underbelly; Antitrust Bills Could Reshape Big Tech; Fastly Clears the Air](https://www.itworldcanada.com/article/hashtag-trending-june-11-2021-facebooks-sex-trafficking-underbelly-antitrust-bills-could-reshape-big-tech-fastly-clears-the-air/454588)
 - [RCMP use of Clearview AI facial recognition service violated Privacy Act, says report](https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542)
 - [Herjavec research says manufacturing firms were biggest ransomware targets in first half of 2021](https://www.itworldcanada.com/article/herjavec-research-says-manufacturing-firms-were-biggest-ransomware-targets-in-first-half-of-the-year/454481)
+- [Cisco unveils Webex Suite, combines meetings, calling, messaging, and events](https://www.itworldcanada.com/article/cisco-unveils-webex-suite-combines-meetings-calling-messaging-and-events/454632)
 - [Hashtag Trending, June 10, 2021- El Salvador court favours bitcoin law; IRS reveals billionaires paid little income tax; Biden revokes Trump’s TikTok ban](https://www.itworldcanada.com/article/hashtag-trending-june-10-2021-el-salvador-court-favours-bitcoin-law-irs-reveals-billionaires-paid-little-income-tax-biden-revokes-trumps-tiktok-ban/454537)
 - [Amazon Canada to create 1,800 new tech and corporate jobs this year](https://www.itworldcanada.com/article/amazon-canada-to-create-1800-new-tech-and-corporate-jobs-this-year/454514)
 - [CompTIA updates Cloud+ certification](https://www.itworldcanada.com/article/comptia-updates-cloud-certification/454494)
-- [Cyber Security Today, June 9, 2021 -Ransomware groups getting twitchy, and install these security updates](https://www.itworldcanada.com/article/cyber-security-today-june-9-2021-ransomware-groups-getting-twitchy-and-install-these-security-updates/454476)
-- [Hashtag Trending, June 9, 2021 – Fastly’s Major Outage; Apple Talks EV Batteries; Tech’s Firms Shifting](https://www.itworldcanada.com/article/hashtag-trending-june-9-2021-fastlys-major-outage-apple-talks-ev-batteries-techs-firms-shifting/454471)
-- [Apple’s top 5 announcements at WWDC 2021](https://www.itworldcanada.com/article/apples-top-5-announcements-at-wwdc-2021/454453)
-- [New malware targets Windows containers, says threat report](https://www.itworldcanada.com/article/new-malware-targets-windows-containers-says-threat-report/454446)
-- [Coffee Briefing, June 8, 2021 – The internet breaks; Pinterest news; Salesforce Digital 360 innovations; and more](https://www.itworldcanada.com/article/coffee-briefing-june-8-2021-the-internet-breaks-pinterest-news-salesforce-digital-360-innovations-and-more/454439)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

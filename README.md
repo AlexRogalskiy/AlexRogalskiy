@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [How the pandemic changed backup](https://www.computerweekly.com/feature/How-the-pandemic-changed-backup)
-- [Accenture supports tech bootcamp for people facing barriers to employment](https://www.computerweekly.com/news/252502235/Accenture-supports-tech-bootcamp-for-people-facing-barriers-to-employment)
-- [Risk data shows UK energy sector most vulnerable to cyber attack](https://www.computerweekly.com/news/252502237/Risk-data-shows-UK-energy-sector-most-vulnerable-to-cyber-attack)
-- [CW Europe: Amsterdam reins back datacentre developments over environmental concern](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Amsterdam-reins-back-datacentre-developments-over-environmental-concern)
-- [BEIS confirms rogue umbrellas will be covered by single enforcement body’s clampdown powers](https://www.computerweekly.com/news/252502230/BEIS-confirms-rogue-umbrellas-will-be-covered-by-single-enforcement-bodys-clampdown-powers)
-- [Security Think Tank: Time to accept printers will leak data](https://www.computerweekly.com/opinion/Security-Think-Tank-Time-to-accept-printers-will-leak-data)
-- [FBI arrests distributors accused of selling An0m encrypted phones to crime groups](https://www.computerweekly.com/news/252502189/FBI-arrests-distributors-accused-of-selling-An0m-encrypted-phones-to-crime-groups)
-- [Unit 42 warns of emergent Prometheus ransomware](https://www.computerweekly.com/news/252502169/Unit-42-warns-of-emergent-Prometheus-ransomware)
-- [Google plots a course to address AI in manufacturing](https://www.computerweekly.com/news/252502153/Google-plots-a-course-to-address-AI-in-manufacturing)
-- [RSA spins out fraud and risk unit as Outseer](https://www.computerweekly.com/news/252502158/RSA-spins-out-fraud-and-risk-unit-as-Outseer)
+- [IR35 tribunal sees Nationwide IT contractor lose second appeal against £70,000 HMRC tax bill](https://www.computerweekly.com/news/252502316/IR35-tribunal-sees-Nationwide-IT-contractor-lose-second-appeal-against-70000-HMRC-tax-bill)
+- [FBI planned a sting against An0m cryptophone users over drinks with Australian investigators](https://www.computerweekly.com/news/252502260/FBI-planned-a-sting-against-An0m-cryptophone-users-over-drinks-with-Australian-investigators)
+- [Shaping a Digital Strategy to support UK productivity and jobs](https://www.computerweekly.com/opinion/Shaping-a-Digital-Strategy-to-support-UK-productivity-and-jobs)
+- [Government offers T-level funding to boost pandemic recovery](https://www.computerweekly.com/news/252502309/Government-offers-T-Level-funding-to-boost-pandemic-recovery)
+- [CMA secures commitments from Google on future of cookies](https://www.computerweekly.com/news/252502304/CMA-secures-commitments-from-Google-on-future-of-cookies)
+- [Security Think Tank: To secure printers think process, technology and people](https://www.computerweekly.com/opinion/Security-Think-Tank-To-secure-printers-think-process-technology-and-people)
+- [UK promises tougher line on cyber crime](https://www.computerweekly.com/news/252502300/UK-promises-tougher-line-on-cyber-crime)
+- [CIO interview: John Hunter of Council of Europe takes cloud route to document management](https://www.computerweekly.com/news/252501748/CIO-interview-John-Hunter-of-Council-of-Europe-takes-cloud-route-to-document-management)
+- [Can technology help save the world’s oceans?](https://www.computerweekly.com/news/252502224/Can-technology-help-save-the-worlds-oceans)
+- [Virgin Atlantic expands 17-year relationship with TCS as it begins Covid-19 crisis recovery](https://www.computerweekly.com/news/252502253/Virgin-Atlantic-expands-17-year-relationship-with-TCS-as-it-begins-Covid-19-crisis-recovery)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

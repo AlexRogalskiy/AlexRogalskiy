@@ -397,8 +397,8 @@
 - [Government offers T-level funding to boost pandemic recovery](https://www.computerweekly.com/news/252502309/Government-offers-T-Level-funding-to-boost-pandemic-recovery)
 - [CMA secures commitments from Google on future of cookies](https://www.computerweekly.com/news/252502304/CMA-secures-commitments-from-Google-on-future-of-cookies)
 - [Security Think Tank: To secure printers think process, technology and people](https://www.computerweekly.com/opinion/Security-Think-Tank-To-secure-printers-think-process-technology-and-people)
-- [UK promises tougher line on cyber crime](https://www.computerweekly.com/news/252502300/UK-promises-tougher-line-on-cyber-crime)
 - [CIO interview: John Hunter of Council of Europe takes cloud route to document management](https://www.computerweekly.com/news/252501748/CIO-interview-John-Hunter-of-Council-of-Europe-takes-cloud-route-to-document-management)
+- [UK promises tougher line on cyber crime](https://www.computerweekly.com/news/252502300/UK-promises-tougher-line-on-cyber-crime)
 - [Can technology help save the world’s oceans?](https://www.computerweekly.com/news/252502224/Can-technology-help-save-the-worlds-oceans)
 - [Virgin Atlantic expands 17-year relationship with TCS as it begins Covid-19 crisis recovery](https://www.computerweekly.com/news/252502253/Virgin-Atlantic-expands-17-year-relationship-with-TCS-as-it-begins-Covid-19-crisis-recovery)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Vladimir Putin says Biden ‘radically different’ after impulsive Trump](https://www.theguardian.com/us-news/2021/jun/12/vladimir-putin-says-biden-radically-different-after-impulsive-trump)
-- [Italy kick off in style and Bale leads Wales in Baku – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/12/euro-2020-turkey-italy-opener-football-weekly)
-- [Celebrity merchandise enters new era as stars sell off their clothes](https://www.theguardian.com/fashion/2021/jun/11/celebrity-merchandise-enters-new-era-as-stars-sell-off-their-clothes)
-- [Novak Djokovic reaches French Open final with epic win over Rafael Nadal](https://www.theguardian.com/sport/2021/jun/11/novak-djokovic-rafael-nadal-french-open-mens-semi-final-roland-garros)
-- [Sea shanties provide perfect soundtrack for G7 summit](https://www.theguardian.com/world/2021/jun/11/sea-shanties-provide-perfect-soundtrack-for-g7-summit)
-- [In the mouth of the whale: lobster diver swallowed by humpback lives to tell the tale](https://www.theguardian.com/us-news/2021/jun/11/lobster-diver-swallowed-by-whale-cape-cod)
-- [Queen’s birthday list honours key figures in UK Covid vaccine drive](https://www.theguardian.com/uk-news/2021/jun/11/queens-birthday-list-honours-uk-covid-vaccine-taskforce-kate-bingham)
-- [Gareth Southgate to put balance before ‘fantasy’ in England side for Croatia](https://www.theguardian.com/football/2021/jun/11/gareth-southgate-balance-england-side-croatia-euro-2020)
-- [Everton in advanced talks with Nuno over replacing Ancelotti as manager](https://www.theguardian.com/football/2021/jun/11/everton-in-advanced-talks-with-nuno-over-replacing-ancelotti-as-manager)
-- [Texas will build a wall along its border with Mexico, governor says](https://www.theguardian.com/us-news/2021/jun/11/texas-border-wall-greg-abbott)
+- [Azerbaijan swaps 15 Armenian PoWs for map of landmines](https://www.theguardian.com/world/2021/jun/13/azerbaijan-swaps-15-armenian-pows-for-map-of-landmines)
+- [At least 18 die as hospital hit in shelling of Syrian city](https://www.theguardian.com/world/2021/jun/13/at-least-18-die-as-hospital-hit-in-shelling-of-syrian-city)
+- [Police arrest one suspect, hunting for another after Austin shooting leaves 14 injured](https://www.theguardian.com/us-news/2021/jun/12/austin-texas-shooting-injured)
+- [Ban ministers from lobbying for five years, Greensill review to propose](https://www.theguardian.com/politics/2021/jun/13/ban-ministers-from-lobbying-for-five-years-greenill-review-to-propose)
+- [Halfords on a roll as Britons ride out the pandemic on bikes and in cars](https://www.theguardian.com/business/2021/jun/13/halfords-on-a-roll-as-britons-ride-out-the-pandemic-on-bikes-and-in-cars)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [All aboard: get the nautical look for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/12/all-aboard-get-the-nautical-look-for-men-in-pictures)
+- [All hot air: UK commits to climate action but not to new funding](https://www.theguardian.com/environment/2021/jun/12/all-hot-air-uk-commits-to-climate-action-but-not-to-new-funding)
+- [Denmark coach Kasper Hjulmand: ‘I can’t praise my players enough’](https://www.theguardian.com/football/2021/jun/12/denmark-coach-kasper-hjulmand-i-cant-praise-my-players-enough)
+- [Lukaku scores twice and sends message to Eriksen in Belgium’s win over Russia](https://www.theguardian.com/football/2021/jun/12/belgium-russia-euro-2020-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

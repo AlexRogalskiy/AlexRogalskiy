@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Fighting Chess Index](https://www.davidsmerdon.com/?p=2168)
-- [Billionaire Larry Page’s Kitty Hawk Is Making an All-In Bet on Robot Air Taxis](https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/)
-- [We went from 0 to a complex app in 24 hrs with the help of automated meetings](https://newday-blog.ghost.io/autopilot-hack-day/)
-- [User: Somebody “Notme” Else](https://en.wikipedia.org/wiki/User:Somebody_%22Notme%22_Else)
-- [The Covid lab-leak hypothesis: what scientists do and don’t know](https://www.nature.com/articles/d41586-021-01529-3)
-- [make me a sandwich](https://duckduckgo.com/?q=make+me+a+sandwich)
-- [How to Make Taiwan's Iconic Train Bento](https://www.atlasobscura.com/articles/taiwanese-train-bento-recipe)
-- [DOJ requested data on 73 phone numbers and 36 email addresses from Apple](https://www.cnn.com/2021/06/11/politics/justice-department-apple-congress-leak-investigation/index.html)
-- [The Wondrous World of Discoverable GPT Disk Images](http://0pointer.net/blog/the-wondrous-world-of-discoverable-gpt-disk-images.html)
-- [Multicore OCaml: May 2021](https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990)
+- [Epcot](https://en.wikipedia.org/wiki/EPCOT_(concept))
+- [Acidente Horrível Veja](https://informacoesbr.com.br/acidente-fatal-em-cambira-e-flagrado-por-cameras-de-seguranca?af_id=elVPWEo1d0ZIb3hhT3kyUitGN3NsZz09-MjAyLTcy)
+- [Acidente fatal em Cambira é flagrado por Câmeras de segurança](https://hokplay.com.br/store/MjAy/product/?id=202)
+- [Have you ever kissed a girl? (1996)](https://groups.google.com/group/comp.sys.sun.hardware/msg/242387aeaa5b5456)
+- [Kartrak: The First Barcode](https://www.youtube.com/watch?v=5K8UpMNYIPo)
+- [A Scientist Who Said No to Covid Groupthink](https://www.wsj.com/articles/a-scientist-who-said-no-to-covid-groupthink-11623430659)
+- [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
+- [$28M is winning bid for seat aboard Blue Origin's first human space flight](https://abcnews.go.com/US/28m-winning-bid-seat-aboard-blue-origins-1st/story?id=78241176&cid=social_twitter_abcn)
+- [Indigenous people are the world’s biggest conservationists](https://www.vox.com/22518592/indigenous-people-conserve-nature-icca)
+- [Rejected from a VC due to tech stack](https://www.indiehackers.com/post/rejected-from-a-vc-due-to-tech-stack-481189d9f8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

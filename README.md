@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
-- [Tylenol isn't so safe, but at least it works?](https://www.acsh.org/news/2017/09/18/tylenol-isnt-so-safe-least-it-works-right-11827)
-- [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
-- [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
-- [Echo Dot, Apple Watch, JBL Speakers listings hijacked](https://sellercentral.amazon.com/forums/t/review-manipulation-amazon-echo-dot-listing-hijacked-seriosly/856604)
-- [Britain’s destruction and concealment of colonial records (2017)](https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256)
-- [The World’s Northernmost Town](https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/)
-- [Death by Pokémon Go: the economic and human cost of using apps while driving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723)
-- ['I was completely inside': Lobster diver swallowed by humpback whale](https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/)
-- [Everything but the Stench](https://www.laphamsquarterly.org/roundtable/everything-stench)
+- [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
+- [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
+- [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
+- [Programmer's Resignation from 1985](https://pastes.glitchwrks.com/L88HFhJs)
+- [The code on the laptop in the stock photo at developer.bbc.com is user-editable](https://twitter.com/Andrew_Taylor/status/1403709080737390592)
+- [A few thoughts on Fuchsia security](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html)
+- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
+- [Elevator Saga – An elevator programming game](https://play.elevatorsaga.com/)
+- [Python is 1.3x faster by just adjusting some compiling options for libpython](https://bugs.python.org/issue38980?fbclid=IwAR0cyfahpBywNzbqLCpcfwatOaU6W8UQp7LgVu8KZ8hDc-wKLjLE7wjOs7g)
+- [The Fixed Point: Laziness, Recursion and Fixed Points in Haskell](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

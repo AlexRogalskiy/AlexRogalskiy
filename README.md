@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Epcot](https://en.wikipedia.org/wiki/EPCOT_(concept))
-- [Acidente Horrível Veja](https://informacoesbr.com.br/acidente-fatal-em-cambira-e-flagrado-por-cameras-de-seguranca?af_id=elVPWEo1d0ZIb3hhT3kyUitGN3NsZz09-MjAyLTcy)
-- [Acidente fatal em Cambira é flagrado por Câmeras de segurança](https://hokplay.com.br/store/MjAy/product/?id=202)
-- [Have you ever kissed a girl? (1996)](https://groups.google.com/group/comp.sys.sun.hardware/msg/242387aeaa5b5456)
-- [Kartrak: The First Barcode](https://www.youtube.com/watch?v=5K8UpMNYIPo)
-- [A Scientist Who Said No to Covid Groupthink](https://www.wsj.com/articles/a-scientist-who-said-no-to-covid-groupthink-11623430659)
-- [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
-- [$28M is winning bid for seat aboard Blue Origin's first human space flight](https://abcnews.go.com/US/28m-winning-bid-seat-aboard-blue-origins-1st/story?id=78241176&cid=social_twitter_abcn)
-- [Indigenous people are the world’s biggest conservationists](https://www.vox.com/22518592/indigenous-people-conserve-nature-icca)
-- [Rejected from a VC due to tech stack](https://www.indiehackers.com/post/rejected-from-a-vc-due-to-tech-stack-481189d9f8)
+- [ASMR: Former farmer, 84, is accidental YouTube star](https://www.bbc.com/news/av/uk-wales-48724352)
+- [Data Science on AWS](https://www.datascienceonaws.com/)
+- [CodeTriage](https://www.codetriage.com/)
+- [Up for Grabs](https://up-for-grabs.net/)
+- [Clippy in VSCode](https://marketplace.visualstudio.com/items?itemName=fleshywaffles.vs-code-clippy)
+- [Micro-USB 2 cable in a USB 3 portable hard drive](https://superuser.com/questions/1376877/is-it-safe-to-use-a-micro-usb-2-cable-in-a-usb-3-portable-hard-drive)
+- [Ask HN: How to Speak Coherently for a Video/Podcast?](https://news.ycombinator.com/item?id=27498576)
+- [Analysing bird songs with Wigner transform (WDF)](https://soundshader.github.io/hss/gallery/wigner)
+- [E3 2021: Microsoft shows off Halo Infinite, Starfield and Forza Horizon 5](https://www.bbc.com/news/technology-57464057)
+- [Normal Password System](https://www.theverge.com/22526949/normal-password-system-generator-game)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

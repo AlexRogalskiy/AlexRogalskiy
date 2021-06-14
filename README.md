@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
-- [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
-- [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
-- [Programmer's Resignation from 1985](https://pastes.glitchwrks.com/L88HFhJs)
-- [The code on the laptop in the stock photo at developer.bbc.com is user-editable](https://twitter.com/Andrew_Taylor/status/1403709080737390592)
-- [A few thoughts on Fuchsia security](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html)
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
-- [Elevator Saga – An elevator programming game](https://play.elevatorsaga.com/)
-- [Python is 1.3x faster by just adjusting some compiling options for libpython](https://bugs.python.org/issue38980?fbclid=IwAR0cyfahpBywNzbqLCpcfwatOaU6W8UQp7LgVu8KZ8hDc-wKLjLE7wjOs7g)
-- [The Fixed Point: Laziness, Recursion and Fixed Points in Haskell](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
+- [Opinion: The secret gag orders must stop](https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/)
+- [Hacking Bitcoin wallets with quantum computers could happen](https://www.cnbc.com/2021/06/10/long-term-crypto-threat-quantum-computers-hacking-bitcoin-wallets.html)
+- [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Solana Labs completes a $314M private token sale led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
+- [An Omega-3 that’s poison for cancer tumors](https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/)
+- [Cuda.jl v3.3: union types, debug info, graph APIs](https://juliagpu.org/post/2021-06-10-cuda_3.3/)
+- [Linux on Chromebooks just might get me through a masters in computer science](https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/)
+- [Pitch doctoring should be the biggest scandal in sports](https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover)
+- [Mānuka – a antipodean aesthetic on 19th century German root-stock](https://klim.co.nz/blog/manuka-design-information/)
+- [A Eulogy for Sidney Morgenbesser (2014)](https://www.tabletmag.com/sections/arts-letters/articles/sidney-morgenbesser)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IPV6 usage](https://www.reddit.com/r/InformationTechnology/comments/nz48ze/ipv6_usage/)
+- [Looking for hints not answers](https://www.reddit.com/r/InformationTechnology/comments/nz00kh/looking_for_hints_not_answers/)
+- [Should I take info management at Syracuse University?](https://www.reddit.com/r/InformationTechnology/comments/nyob3h/should_i_take_info_management_at_syracuse/)
+- [Event Log - "most common" errors](https://www.reddit.com/r/InformationTechnology/comments/nyn9gd/event_log_most_common_errors/)
 - [What are my job prospects with just a B.S in IT and a 3.0 GPA "right out of the box"](https://www.reddit.com/r/InformationTechnology/comments/nyjcsl/what_are_my_job_prospects_with_just_a_bs_in_it/)
 - [IT seeker](https://www.reddit.com/r/InformationTechnology/comments/ny1jni/it_seeker/)
 - [Information Technology Degree Weed Out Courses](https://www.reddit.com/r/InformationTechnology/comments/nxxwzs/information_technology_degree_weed_out_courses/)
 - [Inventory Management Interview Questions](https://www.reddit.com/r/InformationTechnology/comments/nxw1cz/inventory_management_interview_questions/)
 - [If you was trying to gain experience what would you do?](https://www.reddit.com/r/InformationTechnology/comments/nxtyzj/if_you_was_trying_to_gain_experience_what_would/)
 - [Is MCSE, CCNA, CompTIA A+ still needed if you have a BAS in IT?](https://www.reddit.com/r/InformationTechnology/comments/nxn9y0/is_mcse_ccna_comptia_a_still_needed_if_you_have_a/)
-- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/nxjbq2/free_training_on_az900_microsoft_azure/)
-- [On interview panel for a higher level tech - what should I ask?](https://www.reddit.com/r/InformationTechnology/comments/nx5ple/on_interview_panel_for_a_higher_level_tech_what/)
-- [What are the most reasonable options for freelancing/starting a business in IT?](https://www.reddit.com/r/InformationTechnology/comments/nx2ux4/what_are_the_most_reasonable_options_for/)
-- [Linux Distro for old laptops.](https://www.reddit.com/r/InformationTechnology/comments/nwtxyz/linux_distro_for_old_laptops/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

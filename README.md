@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Azerbaijan swaps 15 Armenian PoWs for map of landmines](https://www.theguardian.com/world/2021/jun/13/azerbaijan-swaps-15-armenian-pows-for-map-of-landmines)
-- [At least 18 die as hospital hit in shelling of Syrian city](https://www.theguardian.com/world/2021/jun/13/at-least-18-die-as-hospital-hit-in-shelling-of-syrian-city)
-- [Police arrest one suspect, hunting for another after Austin shooting leaves 14 injured](https://www.theguardian.com/us-news/2021/jun/12/austin-texas-shooting-injured)
-- [Ban ministers from lobbying for five years, Greensill review to propose](https://www.theguardian.com/politics/2021/jun/13/ban-ministers-from-lobbying-for-five-years-greenill-review-to-propose)
-- [Halfords on a roll as Britons ride out the pandemic on bikes and in cars](https://www.theguardian.com/business/2021/jun/13/halfords-on-a-roll-as-britons-ride-out-the-pandemic-on-bikes-and-in-cars)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [All aboard: get the nautical look for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/12/all-aboard-get-the-nautical-look-for-men-in-pictures)
-- [All hot air: UK commits to climate action but not to new funding](https://www.theguardian.com/environment/2021/jun/12/all-hot-air-uk-commits-to-climate-action-but-not-to-new-funding)
-- [Denmark coach Kasper Hjulmand: ‘I can’t praise my players enough’](https://www.theguardian.com/football/2021/jun/12/denmark-coach-kasper-hjulmand-i-cant-praise-my-players-enough)
-- [Lukaku scores twice and sends message to Eriksen in Belgium’s win over Russia](https://www.theguardian.com/football/2021/jun/12/belgium-russia-euro-2020-match-report)
+- [What went wrong with the Covid-19 response in the US? – podcast](https://www.theguardian.com/news/audio/2021/jun/14/what-went-wrong-with-the-us-covid-19-response-podcast)
+- [Tesla will resume accepting bitcoin when it uses more clean energy, says Musk](https://www.theguardian.com/technology/2021/jun/14/tesla-will-resume-accepting-bitcoin-when-it-uses-more-clean-energy-says-musk)
+- [Trial of Aung San Suu Kyi to begin in Myanmar after military coup](https://www.theguardian.com/world/2021/jun/14/trial-of-aung-san-suu-kyi-myanmar)
+- [Paulo Fonseca agrees to become the new manager of Tottenham](https://www.theguardian.com/football/2021/jun/14/paulo-fonseca-agrees-to-become-the-new-manager-of-tottenham-hotspur)
+- [Spectator in ‘serious condition’ after fall from Wembley stand at England match](https://www.theguardian.com/football/2021/jun/14/spectator-in-serious-condition-after-fall-from-wembley-stand-at-england-match)
+- [Adventures With the Painted People review – romantic revenge on a roamin’ Roman](https://www.theguardian.com/stage/2021/jun/14/adventures-with-the-painted-people-review-romantic-revenge-on-a-roamin-roman)
+- [Ransomware is biggest online threat to people in UK, spy agency chief to warn](https://www.theguardian.com/technology/2021/jun/14/ransomware-is-biggest-online-threat-to-people-in-uk-spy-agency-chief-to-warn)
+- [GB News review – Andrew Neil’s alternative BBC? Utterly deadly stuff](https://www.theguardian.com/tv-and-radio/2021/jun/13/gb-news-review-andrew-neils-alternative-bbc-utterly-deadly-stuff)
+- [Southgate’s England shows a tired Croatia who’s boss – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/13/southgates-england-shows-a-tired-croatia-whos-boss-euro-2020-football-daily)
+- [Covid cases fall across US but experts warn of dangers of vaccine hesitancy](https://www.theguardian.com/world/2021/jun/13/coronavirus-covid-19-cases-fall-vaccination-infection)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft Canada and Computers for Success Canada launch initiative to get refurbished hardware to underserved communities](https://www.itworldcanada.com/article/microsoft-canada-and-computers-for-success-canada-launch-initiative-to-get-refurbished-hardware-to-underserved-communities/454576)
 - [Cyber Security Today Week in Review for June 11, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-11-2021/454599)
 - [SAP talks supply chain, culture, sustainability at Sapphire Now](https://www.itworldcanada.com/article/sap-talks-supply-chain-culture-sustainability-at-sapphire-now/454610)
 - [Cyber Security Today, June 11, 2021 – Police disrupt stolen credentials marketplace, how fast crooks work with stolen credentials  and more](https://www.itworldcanada.com/article/cyber-security-today-june-11-2021-police-disrupt-stolen-credentials-marketplace-how-fast-crooks-work-with-stolen-credentials-and-more/454596)
@@ -430,7 +431,6 @@
 - [Cisco unveils Webex Suite, combines meetings, calling, messaging, and events](https://www.itworldcanada.com/article/cisco-unveils-webex-suite-combines-meetings-calling-messaging-and-events/454632)
 - [Hashtag Trending, June 10, 2021- El Salvador court favours bitcoin law; IRS reveals billionaires paid little income tax; Biden revokes Trump’s TikTok ban](https://www.itworldcanada.com/article/hashtag-trending-june-10-2021-el-salvador-court-favours-bitcoin-law-irs-reveals-billionaires-paid-little-income-tax-biden-revokes-trumps-tiktok-ban/454537)
 - [Amazon Canada to create 1,800 new tech and corporate jobs this year](https://www.itworldcanada.com/article/amazon-canada-to-create-1800-new-tech-and-corporate-jobs-this-year/454514)
-- [CompTIA updates Cloud+ certification](https://www.itworldcanada.com/article/comptia-updates-cloud-certification/454494)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

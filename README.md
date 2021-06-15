@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [IR35 tribunal sees Nationwide IT contractor lose second appeal against £70,000 HMRC tax bill](https://www.computerweekly.com/news/252502316/IR35-tribunal-sees-Nationwide-IT-contractor-lose-second-appeal-against-70000-HMRC-tax-bill)
+- [Video commerce and livestreaming make waves in retail](https://www.computerweekly.com/feature/Video-commerce-and-livestreaming-make-waves-in-retail)
+- [G7 commits to action on ransomware, digital privacy](https://www.computerweekly.com/news/252502386/G7-commits-to-action-on-ransomware-digital-privacy)
+- [Europe’s proposed AI regulation falls short on protecting rights](https://www.computerweekly.com/feature/Europes-proposed-AI-regulation-falls-short-on-protecting-rights)
+- [Equinix secures additional funding for global hyperscale datacentre builds](https://www.computerweekly.com/news/252502380/Equinix-secures-additional-funding-for-global-hyperscale-datacentre-builds)
+- [Benelux CIO interview: Benoît Dewaele, Vandemoortele](https://www.computerweekly.com/news/252501988/Benelux-CIO-interview-Benoit-Dewaele-Vandemoortele)
 - [FBI planned a sting against An0m cryptophone users over drinks with Australian investigators](https://www.computerweekly.com/news/252502260/FBI-planned-a-sting-against-An0m-cryptophone-users-over-drinks-with-Australian-investigators)
+- [IR35 tribunal sees Nationwide IT contractor lose second appeal against £70,000 HMRC tax bill](https://www.computerweekly.com/news/252502316/IR35-tribunal-sees-Nationwide-IT-contractor-lose-second-appeal-against-70000-HMRC-tax-bill)
 - [Shaping a Digital Strategy to support UK productivity and jobs](https://www.computerweekly.com/opinion/Shaping-a-Digital-Strategy-to-support-UK-productivity-and-jobs)
 - [Government offers T-level funding to boost pandemic recovery](https://www.computerweekly.com/news/252502309/Government-offers-T-Level-funding-to-boost-pandemic-recovery)
 - [CMA secures commitments from Google on future of cookies](https://www.computerweekly.com/news/252502304/CMA-secures-commitments-from-Google-on-future-of-cookies)
-- [Security Think Tank: To secure printers think process, technology and people](https://www.computerweekly.com/opinion/Security-Think-Tank-To-secure-printers-think-process-technology-and-people)
-- [CIO interview: John Hunter of Council of Europe takes cloud route to document management](https://www.computerweekly.com/news/252501748/CIO-interview-John-Hunter-of-Council-of-Europe-takes-cloud-route-to-document-management)
-- [UK promises tougher line on cyber crime](https://www.computerweekly.com/news/252502300/UK-promises-tougher-line-on-cyber-crime)
-- [Can technology help save the world’s oceans?](https://www.computerweekly.com/news/252502224/Can-technology-help-save-the-worlds-oceans)
-- [Virgin Atlantic expands 17-year relationship with TCS as it begins Covid-19 crisis recovery](https://www.computerweekly.com/news/252502253/Virgin-Atlantic-expands-17-year-relationship-with-TCS-as-it-begins-Covid-19-crisis-recovery)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

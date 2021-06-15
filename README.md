@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What went wrong with the Covid-19 response in the US? – podcast](https://www.theguardian.com/news/audio/2021/jun/14/what-went-wrong-with-the-us-covid-19-response-podcast)
-- [Tesla will resume accepting bitcoin when it uses more clean energy, says Musk](https://www.theguardian.com/technology/2021/jun/14/tesla-will-resume-accepting-bitcoin-when-it-uses-more-clean-energy-says-musk)
-- [Trial of Aung San Suu Kyi to begin in Myanmar after military coup](https://www.theguardian.com/world/2021/jun/14/trial-of-aung-san-suu-kyi-myanmar)
-- [Paulo Fonseca agrees to become the new manager of Tottenham](https://www.theguardian.com/football/2021/jun/14/paulo-fonseca-agrees-to-become-the-new-manager-of-tottenham-hotspur)
-- [Spectator in ‘serious condition’ after fall from Wembley stand at England match](https://www.theguardian.com/football/2021/jun/14/spectator-in-serious-condition-after-fall-from-wembley-stand-at-england-match)
-- [Adventures With the Painted People review – romantic revenge on a roamin’ Roman](https://www.theguardian.com/stage/2021/jun/14/adventures-with-the-painted-people-review-romantic-revenge-on-a-roamin-roman)
-- [Ransomware is biggest online threat to people in UK, spy agency chief to warn](https://www.theguardian.com/technology/2021/jun/14/ransomware-is-biggest-online-threat-to-people-in-uk-spy-agency-chief-to-warn)
-- [GB News review – Andrew Neil’s alternative BBC? Utterly deadly stuff](https://www.theguardian.com/tv-and-radio/2021/jun/13/gb-news-review-andrew-neils-alternative-bbc-utterly-deadly-stuff)
-- [Southgate’s England shows a tired Croatia who’s boss – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/13/southgates-england-shows-a-tired-croatia-whos-boss-euro-2020-football-daily)
-- [Covid cases fall across US but experts warn of dangers of vaccine hesitancy](https://www.theguardian.com/world/2021/jun/13/coronavirus-covid-19-cases-fall-vaccination-infection)
+- [Podcast - What’s behind the mass protests in Colombia?](https://www.theguardian.com/news/audio/2021/jun/15/behind-mass-protests-colombia-podcast)
+- [An oyster: they can hear the breaking waves | Helen Sullivan](https://www.theguardian.com/environment/commentisfree/2021/jun/15/an-oyster-they-can-hear-the-breaking-waves)
+- [Coronavirus outpacing vaccine effort, says WHO, after G7 doses pledge](https://www.theguardian.com/world/2021/jun/15/coronavirus-outpacing-vaccine-effort-says-who-after-g7-doses-pledge)
+- [‘Will we ever be free?’ What the papers say about the ‘Freedom Day’ delay](https://www.theguardian.com/media/2021/jun/15/will-we-ever-be-free-what-the-papers-say-about-the-freedom-day-delay)
+- [UK-Australia post-Brexit trade deal agreed in broad terms](https://www.theguardian.com/politics/2021/jun/15/uk-australia-trade-deal-agreed-and-set-to-be-announced-on-tuesday)
+- [Scotland left feeling Schick, and a parrot – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/15/scotland-schick-spain-sweden-slovakia-euro-2020-football-daily)
+- [Ministers ‘knowingly underfunding’ childcare sector in England](https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england)
+- [Fears England breast cancer deaths may rise as Covid hits screenings](https://www.theguardian.com/society/2021/jun/15/fears-england-breast-cancer-deaths-may-rise-covid-hits-screenings)
+- [Royal Ascot day one: Lucky Vega can storm the Palace for Harrington | Greg Wood](https://www.theguardian.com/sport/2021/jun/15/royal-ascot-day-one-lucky-vega-can-storm-the-palace-for-jessica-harrington-horse-racing-tips)
+- [Less than 1% of UK travel insurance policies offer full Covid cover, says Which?](https://www.theguardian.com/business/2021/jun/15/uk-travel-insurance-policies-full-covid-cover-which)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

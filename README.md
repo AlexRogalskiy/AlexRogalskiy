@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ASMR: Former farmer, 84, is accidental YouTube star](https://www.bbc.com/news/av/uk-wales-48724352)
-- [Data Science on AWS](https://www.datascienceonaws.com/)
-- [CodeTriage](https://www.codetriage.com/)
-- [Up for Grabs](https://up-for-grabs.net/)
-- [Clippy in VSCode](https://marketplace.visualstudio.com/items?itemName=fleshywaffles.vs-code-clippy)
-- [Micro-USB 2 cable in a USB 3 portable hard drive](https://superuser.com/questions/1376877/is-it-safe-to-use-a-micro-usb-2-cable-in-a-usb-3-portable-hard-drive)
-- [Ask HN: How to Speak Coherently for a Video/Podcast?](https://news.ycombinator.com/item?id=27498576)
-- [Analysing bird songs with Wigner transform (WDF)](https://soundshader.github.io/hss/gallery/wigner)
-- [E3 2021: Microsoft shows off Halo Infinite, Starfield and Forza Horizon 5](https://www.bbc.com/news/technology-57464057)
-- [Normal Password System](https://www.theverge.com/22526949/normal-password-system-generator-game)
+- [Did Quark Matter Pass Through the Earth (2002)](http://news.bbc.co.uk/2/hi/science/nature/2502755.stm)
+- [A strong commitment to backwards compatibility means keeping your mistakes](https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility)
+- [Covid-19 Natural Immunity vs. Vaccine Immunity](https://www.cure-hub.com/post/covid-19-natural-infection-vs-vaccine-immunity)
+- [NERC Warns Energy Shortfalls Almost Inevitable This Summer](https://www.powermag.com/nerc-warns-energy-shortfalls-almost-inevitable-this-summer/)
+- [Show HN: Acronos – An asynchronous meetings platform for modern teams](https://acronos.xyz)
+- [Ask HN: How do you estimate the code quality of a company after an interview](https://news.ycombinator.com/item?id=27510575)
+- [PowerBI will become your worst nightmare](https://news.ycombinator.com/item?id=27510553)
+- [Apple Is Ending Email Tracking with a Single Popup](https://thebigtech.substack.com/p/apple-just-killed-email-read-receipts)
+- [Freenode has imploded – unannounced full services reset, database wipe](https://news.ycombinator.com/item?id=27510523)
+- [Futures of Text - Messaging UI (2015)](https://whoo.ps/2015/02/23/futures-of-text)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

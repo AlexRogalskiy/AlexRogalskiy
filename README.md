@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Opinion: The secret gag orders must stop](https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/)
-- [Hacking Bitcoin wallets with quantum computers could happen](https://www.cnbc.com/2021/06/10/long-term-crypto-threat-quantum-computers-hacking-bitcoin-wallets.html)
-- [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Solana Labs completes a $314M private token sale led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
-- [An Omega-3 that’s poison for cancer tumors](https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/)
-- [Cuda.jl v3.3: union types, debug info, graph APIs](https://juliagpu.org/post/2021-06-10-cuda_3.3/)
-- [Linux on Chromebooks just might get me through a masters in computer science](https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/)
-- [Pitch doctoring should be the biggest scandal in sports](https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover)
-- [Mānuka – a antipodean aesthetic on 19th century German root-stock](https://klim.co.nz/blog/manuka-design-information/)
-- [A Eulogy for Sidney Morgenbesser (2014)](https://www.tabletmag.com/sections/arts-letters/articles/sidney-morgenbesser)
+- [Avoid News, Part 2: What the Stock Market Taught Me about News](http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/)
+- [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/)
+- [Linux with “memory folios”: got a 7% performance boost when compiling the kernel](https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/)
+- [You can legally get and run WordPerfect for free](https://liam-on-linux.livejournal.com/80768.html)
+- [Why I Love Lucy Maud](https://www.berfrois.com/2021/06/love-maud/)
+- [Baseball's dirty little secret is out – we decided to experiment](https://www.thescore.com/mlb/news/2180019)
+- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
+- [FTDI FT232RL: Real vs. Fake (2014)](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
+- [Day One, the Journaling App, Joins Automattic](https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/)
+- [Show HN: Gelidum – My Python library to freeze objects](https://github.com/diegojromerolopez/gelidum)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

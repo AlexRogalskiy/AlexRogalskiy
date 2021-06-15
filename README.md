@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some of the best free practice tests to study for CompTIA ITF+ exam?](https://www.reddit.com/r/InformationTechnology/comments/nzyk9z/what_are_some_of_the_best_free_practice_tests_to/)
+- [Can anyone share about the software buying process in your company?](https://www.reddit.com/r/InformationTechnology/comments/nzujcl/can_anyone_share_about_the_software_buying/)
+- [Position Title Misleading](https://www.reddit.com/r/InformationTechnology/comments/nzs6ym/position_title_misleading/)
+- [Information Technology Courses](https://www.reddit.com/r/InformationTechnology/comments/nzfso3/information_technology_courses/)
+- [What would be a more valuable course to take, Software Development, Computer Systems, Network System or Telecommunications?](https://www.reddit.com/r/InformationTechnology/comments/nzf1mf/what_would_be_a_more_valuable_course_to_take/)
 - [IPV6 usage](https://www.reddit.com/r/InformationTechnology/comments/nz48ze/ipv6_usage/)
 - [Looking for hints not answers](https://www.reddit.com/r/InformationTechnology/comments/nz00kh/looking_for_hints_not_answers/)
 - [Should I take info management at Syracuse University?](https://www.reddit.com/r/InformationTechnology/comments/nyob3h/should_i_take_info_management_at_syracuse/)
 - [Event Log - "most common" errors](https://www.reddit.com/r/InformationTechnology/comments/nyn9gd/event_log_most_common_errors/)
 - [What are my job prospects with just a B.S in IT and a 3.0 GPA "right out of the box"](https://www.reddit.com/r/InformationTechnology/comments/nyjcsl/what_are_my_job_prospects_with_just_a_bs_in_it/)
-- [IT seeker](https://www.reddit.com/r/InformationTechnology/comments/ny1jni/it_seeker/)
-- [Information Technology Degree Weed Out Courses](https://www.reddit.com/r/InformationTechnology/comments/nxxwzs/information_technology_degree_weed_out_courses/)
-- [Inventory Management Interview Questions](https://www.reddit.com/r/InformationTechnology/comments/nxw1cz/inventory_management_interview_questions/)
-- [If you was trying to gain experience what would you do?](https://www.reddit.com/r/InformationTechnology/comments/nxtyzj/if_you_was_trying_to_gain_experience_what_would/)
-- [Is MCSE, CCNA, CompTIA A+ still needed if you have a BAS in IT?](https://www.reddit.com/r/InformationTechnology/comments/nxn9y0/is_mcse_ccna_comptia_a_still_needed_if_you_have_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

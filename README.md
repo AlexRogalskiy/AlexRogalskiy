@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why you need a data integration platform](https://www.infoworld.com/article/3621992/why-you-need-a-data-integration-platform.html#tk.rss_all)
+- [Deal with supply chain issues using cloud computing](https://www.infoworld.com/article/3621674/deal-with-supply-chain-issues-using-cloud-computing.html#tk.rss_all)
 - [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
 - [Go 1.17 moves to beta, with language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-moves-to-beta-with-language-and-compiler-enhancements.html#tk.rss_all)
 - [From legacy to the cloud: The 3 stages of enterprise modernization](https://www.infoworld.com/article/3620939/from-legacy-to-the-cloud-the-3-stages-of-enterprise-modernization.html#tk.rss_all)
-- [Excel, Python, and the future of data science](https://www.infoworld.com/article/3620913/excel-python-and-data-science.html#tk.rss_all)
+- [Excel, Python, and the future of data science](https://www.infoworld.com/article/3620913/excel-python-and-the-future-of-data-science.html#tk.rss_all)
 - [Visual Studio Code adds Workplace Trust for code editing safety](https://www.infoworld.com/article/3621738/visual-studio-code-adds-workplace-trust-for-code-editing-safety.html#tk.rss_all)
 - [Oracle offers Java management service](https://www.infoworld.com/article/3621690/oracle-offers-java-management-service.html#tk.rss_all)
 - [Complexity is the biggest threat to cloud success and security](https://www.infoworld.com/article/3620944/complexity-is-the-biggest-threat-to-cloud-success-and-security.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [Snowflake pushes back at… whom?](https://www.infoworld.com/article/3620929/snowflake-pushes-back-at-whom.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

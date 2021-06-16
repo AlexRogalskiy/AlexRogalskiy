@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WWDC: 12 small but important improvements you may have missed](https://www.computerworld.com/article/3621780/wwdc-12-small-but-important-improvements-you-may-have-missed.html#tk.rss_all)
+- [Download: EMM/UEM vendor comparison chart 2021](https://www.computerworld.com/article/3408656/download-emm-uem-vendor-comparison-chart-2021.html#tk.rss_all)
+- [Enterprise mobility 2021: UEM becomes key to the hybrid workplace](https://www.computerworld.com/article/3202649/enterprise-mobility-2021-uem-becomes-key-to-the-hybrid-workplace.html#tk.rss_all)
+- [Work 2021: Say goodbye to yesterday's work habits](https://www.computerworld.com/article/3621636/work-2021-say-goodbye-to-yesterdays-work-habits.html#tk.rss_all)
 - [Google abandons URL shortening in Chrome](https://www.computerworld.com/article/3621640/google-abandons-url-shortening-in-chrome.html#tk.rss_all)
 - [The evolution of macOS (and Mac OS X)](https://www.computerworld.com/article/2983507/the-evolution-of-macos-and-mac-os-x.html#tk.rss_all)
 - [WWDC: What's new for App Clips in ARKit 5](https://www.computerworld.com/article/3621760/wwdc-whats-new-for-app-clips-in-arkit-5.html#tk.rss_all)
 - [Google’s Workspace Chat Rooms to become collaborative ‘Spaces’](https://www.computerworld.com/article/3621635/googles-workspace-chat-rooms-to-become-collaborative-spaces.html#tk.rss_all)
 - [Windows updates: The four basic patch personalities](https://www.computerworld.com/article/3621703/windows-updates-the-four-basic-patch-personalities.html#tk.rss_all)
 - [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
-- [Migrating to hosted Exchange: Do’s and don’ts](https://www.computerworld.com/article/3618592/migrating-to-hosted-exchange-do-s-and-don-ts.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [6 zero-days make this a 'Patch Now' Patch Tuesday](https://www.computerworld.com/article/3621897/6-zero-days-make-this-a-patch-now-patch-tuesday.html#tk.rss_all)
-- [Securing the Apple mobile enterprise takes context](https://www.computerworld.com/article/3621757/securing-the-apple-mobile-enterprise-takes-context.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

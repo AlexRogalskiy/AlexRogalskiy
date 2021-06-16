@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Did Quark Matter Pass Through the Earth (2002)](http://news.bbc.co.uk/2/hi/science/nature/2502755.stm)
-- [A strong commitment to backwards compatibility means keeping your mistakes](https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility)
-- [Covid-19 Natural Immunity vs. Vaccine Immunity](https://www.cure-hub.com/post/covid-19-natural-infection-vs-vaccine-immunity)
-- [NERC Warns Energy Shortfalls Almost Inevitable This Summer](https://www.powermag.com/nerc-warns-energy-shortfalls-almost-inevitable-this-summer/)
-- [Show HN: Acronos – An asynchronous meetings platform for modern teams](https://acronos.xyz)
-- [Ask HN: How do you estimate the code quality of a company after an interview](https://news.ycombinator.com/item?id=27510575)
-- [PowerBI will become your worst nightmare](https://news.ycombinator.com/item?id=27510553)
-- [Apple Is Ending Email Tracking with a Single Popup](https://thebigtech.substack.com/p/apple-just-killed-email-read-receipts)
-- [Freenode has imploded – unannounced full services reset, database wipe](https://news.ycombinator.com/item?id=27510523)
-- [Futures of Text - Messaging UI (2015)](https://whoo.ps/2015/02/23/futures-of-text)
+- [Sir Tim Berners-Lee to Auction the Source Code for the World Wide Web as an NFT](https://www.sothebys.com/en/press/this-changed-everything-sir-tim-berners-lee-to-auction-the-source-code-for-the-world-wide-web-as-an-nft)
+- [When AI becomes child's play](https://www.technologyreview.com/2021/06/09/1026016/when-ai-becomes-childsplay-kids-siri-alexa/)
+- [Ask HN: Thoughts on Salaries Posted on TeamBlind?](https://news.ycombinator.com/item?id=27524192)
+- [The mechanisms of action of Ivermectin against SARS-CoV-2](https://www.nature.com/articles/s41429-021-00430-5)
+- [The AP asked the government for proof that flossing works. The answer: ¯\_(ツ)_/¯](https://www.vox.com/2016/8/2/12352226/dental-floss-even-work)
+- [Catching Up on Life](https://mmusgrove.com/catching-up-on-things/)
+- [Shortage of air conditioner parts expected this summer](https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/)
+- [My EC2 Wishlist](http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html)
+- [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation](https://github.com/mchong6/GANsNRoses)
+- [Bringing Hotwire to Basecamp](https://world.hey.com/dhh/bringing-hotwire-to-basecamp-91a442d6)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

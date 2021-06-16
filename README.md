@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Video commerce and livestreaming make waves in retail](https://www.computerweekly.com/feature/Video-commerce-and-livestreaming-make-waves-in-retail)
-- [G7 commits to action on ransomware, digital privacy](https://www.computerweekly.com/news/252502386/G7-commits-to-action-on-ransomware-digital-privacy)
-- [Europe’s proposed AI regulation falls short on protecting rights](https://www.computerweekly.com/feature/Europes-proposed-AI-regulation-falls-short-on-protecting-rights)
-- [Equinix secures additional funding for global hyperscale datacentre builds](https://www.computerweekly.com/news/252502380/Equinix-secures-additional-funding-for-global-hyperscale-datacentre-builds)
-- [Benelux CIO interview: Benoît Dewaele, Vandemoortele](https://www.computerweekly.com/news/252501988/Benelux-CIO-interview-Benoit-Dewaele-Vandemoortele)
-- [FBI planned a sting against An0m cryptophone users over drinks with Australian investigators](https://www.computerweekly.com/news/252502260/FBI-planned-a-sting-against-An0m-cryptophone-users-over-drinks-with-Australian-investigators)
-- [IR35 tribunal sees Nationwide IT contractor lose second appeal against £70,000 HMRC tax bill](https://www.computerweekly.com/news/252502316/IR35-tribunal-sees-Nationwide-IT-contractor-lose-second-appeal-against-70000-HMRC-tax-bill)
-- [Shaping a Digital Strategy to support UK productivity and jobs](https://www.computerweekly.com/opinion/Shaping-a-Digital-Strategy-to-support-UK-productivity-and-jobs)
-- [Government offers T-level funding to boost pandemic recovery](https://www.computerweekly.com/news/252502309/Government-offers-T-Level-funding-to-boost-pandemic-recovery)
-- [CMA secures commitments from Google on future of cookies](https://www.computerweekly.com/news/252502304/CMA-secures-commitments-from-Google-on-future-of-cookies)
+- [NHS Test and Trace picks Risk Ledger to secure supply chain](https://www.computerweekly.com/news/252502485/NHS-Test-and-Trace-picks-Risk-Ledger-to-secure-supply-chain)
+- [Privacy pro salaries rise throughout pandemic, but at a cost](https://www.computerweekly.com/news/252502479/Privacy-pro-salaries-rise-throughout-pandemic-but-at-a-cost)
+- [Why a data-driven world should consider an oath of ethics](https://www.computerweekly.com/opinion/Why-a-data-driven-world-should-consider-an-oath-of-ethics)
+- [Oliver Dowden hails Tech Zero Taskforce at CogX](https://www.computerweekly.com/news/252502469/Oliver-Dowden-hails-Tech-Zero-Taskforce-at-CogX)
+- [UK IT outsourcing set to continue after service levels improve during pandemic](https://www.computerweekly.com/news/252502467/UK-IT-outsourcing-set-to-continue-after-service-levels-improve-during-pandemic)
+- [Amazon Web Services launches space tech accelerator](https://www.computerweekly.com/news/252502477/Amazon-Web-Services-launches-space-tech-accelerator)
+- [Japanese bank boss to leave after IT failures](https://www.computerweekly.com/news/252502473/Japanese-bank-boss-to-leave-after-IT-failures)
+- [Trainline hires former Google Play software director as chief technology officer](https://www.computerweekly.com/news/252502466/Trainline-hires-former-Google-Play-software-director-as-chief-technology-officer)
+- [Discovering great ideas – innovation at the Discovery Channel](https://www.computerweekly.com/ezine/Computer-Weekly/Discovering-great-ideas-innovation-at-the-Discovery-Channel)
+- [Ransomware most insidious cyber threat facing UK](https://www.computerweekly.com/news/252502450/Ransomware-most-insidious-cyber-threat-facing-UK)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

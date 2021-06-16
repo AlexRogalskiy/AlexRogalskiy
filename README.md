@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Avoid News, Part 2: What the Stock Market Taught Me about News](http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/)
-- [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/)
-- [Linux with “memory folios”: got a 7% performance boost when compiling the kernel](https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/)
-- [You can legally get and run WordPerfect for free](https://liam-on-linux.livejournal.com/80768.html)
-- [Why I Love Lucy Maud](https://www.berfrois.com/2021/06/love-maud/)
-- [Baseball's dirty little secret is out – we decided to experiment](https://www.thescore.com/mlb/news/2180019)
-- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [FTDI FT232RL: Real vs. Fake (2014)](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
-- [Day One, the Journaling App, Joins Automattic](https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/)
-- [Show HN: Gelidum – My Python library to freeze objects](https://github.com/diegojromerolopez/gelidum)
+- [Shortage of air conditioner parts expected this summer](https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/)
+- [Fsspec: Filesystem Interfaces for Python](https://filesystem-spec.readthedocs.io/en/latest/index.html)
+- [Lina Khan, Big Tech Critic, Will Lead the FTC](https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc)
+- [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
+- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
+- [Show HN: Influence, a Go-inspired 1-minute board game](http://cintrest.com/influence/)
+- [Johnny Knoxville’s Last Rodeo](https://www.gq.com/story/johnny-knoxvilles-last-rodeo/)
+- [A pencil sharpener that creates a never-ending pencil (2015)](https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/)
+- [We’re no longer naming suspects in minor crime stories](https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories)
+- [Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)](https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

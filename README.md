@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Podcast - What’s behind the mass protests in Colombia?](https://www.theguardian.com/news/audio/2021/jun/15/behind-mass-protests-colombia-podcast)
-- [An oyster: they can hear the breaking waves | Helen Sullivan](https://www.theguardian.com/environment/commentisfree/2021/jun/15/an-oyster-they-can-hear-the-breaking-waves)
-- [Coronavirus outpacing vaccine effort, says WHO, after G7 doses pledge](https://www.theguardian.com/world/2021/jun/15/coronavirus-outpacing-vaccine-effort-says-who-after-g7-doses-pledge)
-- [‘Will we ever be free?’ What the papers say about the ‘Freedom Day’ delay](https://www.theguardian.com/media/2021/jun/15/will-we-ever-be-free-what-the-papers-say-about-the-freedom-day-delay)
-- [UK-Australia post-Brexit trade deal agreed in broad terms](https://www.theguardian.com/politics/2021/jun/15/uk-australia-trade-deal-agreed-and-set-to-be-announced-on-tuesday)
-- [Scotland left feeling Schick, and a parrot – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/15/scotland-schick-spain-sweden-slovakia-euro-2020-football-daily)
-- [Ministers ‘knowingly underfunding’ childcare sector in England](https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england)
-- [Fears England breast cancer deaths may rise as Covid hits screenings](https://www.theguardian.com/society/2021/jun/15/fears-england-breast-cancer-deaths-may-rise-covid-hits-screenings)
-- [Royal Ascot day one: Lucky Vega can storm the Palace for Harrington | Greg Wood](https://www.theguardian.com/sport/2021/jun/15/royal-ascot-day-one-lucky-vega-can-storm-the-palace-for-jessica-harrington-horse-racing-tips)
-- [Less than 1% of UK travel insurance policies offer full Covid cover, says Which?](https://www.theguardian.com/business/2021/jun/15/uk-travel-insurance-policies-full-covid-cover-which)
+- [Israel’s unlikely coalition: is this the end for Netanyahu?](https://www.theguardian.com/news/audio/2021/jun/16/israels-unlikely-coalition-is-this-the-end-for-netanyahu)
+- [Peru election: socialist Pedro Castillo claims victory ahead of official result](https://www.theguardian.com/world/2021/jun/16/peru-election-socialist-pedro-castillo-claims-victory-ahead-of-official-result)
+- [Bear kills man in Slovakia forest in what could be first fatal attack](https://www.theguardian.com/world/2021/jun/16/bear-kills-man-slovakia)
+- [Bridge made of string: Peruvians weave 500-year-old Incan crossing back into place](https://www.theguardian.com/world/2021/jun/16/bridge-made-of-string-peruvians-weave-500-year-old-incan-crossing-back-into-place)
+- [The mice that roared: how eight tiny countries took on foreign fishing fleets](https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets)
+- [Israel carries out Gaza Strip airstrike after militants release incendiary balloons](https://www.theguardian.com/world/2021/jun/15/israel-ultranationalists-jerusalem-march-palestinians)
+- [Majority of public support total ban on UK gambling adverts, poll finds](https://www.theguardian.com/society/2021/jun/16/majority-of-public-support-total-ban-on-uk-gambling-adverts-poll-finds)
+- [Disease causing mass deaths of frogs reaches Britain](https://www.theguardian.com/environment/2021/jun/16/disease-causing-mass-deaths-frogs-reaches-britain-aoe)
+- [Adult social care services face ‘deluge’ of requests for support](https://www.theguardian.com/society/2021/jun/16/adult-social-care-services-support)
+- [Several people injured after protester parachutes into Euro 2020 game](https://www.theguardian.com/football/2021/jun/15/greanpeace-protester-avoids-accident-after-parachuting-into-germany-v-france)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

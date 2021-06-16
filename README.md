@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Breaking news: Toronto hospital hit by ransomware](https://www.itworldcanada.com/article/breaking-news-toronto-hospital-hit-by-ransomware/454744)
+- [Coffee Briefing, June 15, 2021 – Cisco unveils hybrid cloud goodies; GoDaddy upgrades; Mississauga’s smart city update](https://www.itworldcanada.com/article/coffee-briefing-june-15-2021-cisco-unveils-hybrid-cloud-goodies-godaddy-upgrades-mississaugas-smart-city-update/454709)
+- [The bid for midband: 3,500 MHz 5G spectrum auction officially begins](https://www.itworldcanada.com/article/the-bid-for-midband-3500-mhz-5g-spectrum-auction-officially-begins/454693)
+- [Hashtag Trending, June 15, 2021- Bitcoin jumps more than 20 per cent; Second dose vaccine booking issues; Microsoft employees slept in data centres](https://www.itworldcanada.com/article/hashtag-trending-june-15-2021-bitcoin-jumps-more-than-20-per-cent-second-dose-vaccine-booking-issues-microsoft-employees-slept-in-data-centres/454690)
 - [Cyber Security Today, June 14, 2021 – Avaddon ransomware group apparently gives up, a retailer’s shortcut backfires and a warning to Samsung device owners](https://www.itworldcanada.com/article/cyber-security-today-june-14-2021-avaddon-ransomware-group-apparently-gives-up-a-retailers-shortcut-backfires-and-a-warning-to-samsung-device-owners/454649)
 - [Hashtag Trending, June 14, 2021 – Anti-vaxxers turn to Yelp; Facial recognition’s future; How to manage remote teams effectively](https://www.itworldcanada.com/article/hashtag-trending-june-14-2021-anti-vaxxers-turn-to-yelp-facial-recognitions-future-how-to-manage-remote-teams-effectively/454651)
 - [Microsoft Canada and Computers for Success Canada look to get refurbished hardware to underserved communities](https://www.itworldcanada.com/article/microsoft-canada-and-computers-for-success-canada-launch-initiative-to-get-refurbished-hardware-to-underserved-communities/454576)
 - [Cyber Security Today Week in Review for June 11, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-11-2021/454599)
 - [SAP talks supply chain, culture, sustainability at Sapphire Now](https://www.itworldcanada.com/article/sap-talks-supply-chain-culture-sustainability-at-sapphire-now/454610)
 - [Cyber Security Today, June 11, 2021 – Police disrupt stolen credentials marketplace, how fast crooks work with stolen credentials  and more](https://www.itworldcanada.com/article/cyber-security-today-june-11-2021-police-disrupt-stolen-credentials-marketplace-how-fast-crooks-work-with-stolen-credentials-and-more/454596)
-- [Hashtag Trending, June 11, 2021 – Facebook’s Sex Trafficking Underbelly; Antitrust Bills Could Reshape Big Tech; Fastly Clears the Air](https://www.itworldcanada.com/article/hashtag-trending-june-11-2021-facebooks-sex-trafficking-underbelly-antitrust-bills-could-reshape-big-tech-fastly-clears-the-air/454588)
-- [RCMP use of Clearview AI facial recognition service violated Privacy Act, says report](https://www.itworldcanada.com/article/rcmp-use-of-clearview-ai-facial-recognition-service-violated-privacy-act-says-report/454542)
-- [Herjavec research says manufacturing firms were biggest ransomware targets in first half of 2021](https://www.itworldcanada.com/article/herjavec-research-says-manufacturing-firms-were-biggest-ransomware-targets-in-first-half-of-the-year/454481)
-- [Cisco unveils Webex Suite, combines meetings, calling, messaging, and events](https://www.itworldcanada.com/article/cisco-unveils-webex-suite-combines-meetings-calling-messaging-and-events/454632)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

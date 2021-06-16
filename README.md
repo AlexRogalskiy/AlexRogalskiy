@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some easier capstone project for a 2-member group?](https://www.reddit.com/r/InformationTechnology/comments/o0tztt/what_are_some_easier_capstone_project_for_a/)
+- [Have my first interview on Thursday](https://www.reddit.com/r/InformationTechnology/comments/o0sw82/have_my_first_interview_on_thursday/)
+- [Specialization Question](https://www.reddit.com/r/InformationTechnology/comments/o0pctd/specialization_question/)
+- [Taking some frustration out of buying new software](https://www.reddit.com/r/InformationTechnology/comments/o0pc5y/taking_some_frustration_out_of_buying_new_software/)
+- [are the Computer Science classes in San Antonio's Alamo Colleges any good?](https://www.reddit.com/r/InformationTechnology/comments/o06iho/are_the_computer_science_classes_in_san_antonios/)
+- [Wanting to join/learn the IT field](https://www.reddit.com/r/InformationTechnology/comments/o05hm5/wanting_to_joinlearn_the_it_field/)
+- [Is a associate degree and certs good enough to get a job as a Systems, network or cloud position in the IT Filed.](https://www.reddit.com/r/InformationTechnology/comments/o04mrx/is_a_associate_degree_and_certs_good_enough_to/)
 - [What are some of the best free practice tests to study for CompTIA ITF+ exam?](https://www.reddit.com/r/InformationTechnology/comments/nzyk9z/what_are_some_of_the_best_free_practice_tests_to/)
-- [Can anyone share about the software buying process in your company?](https://www.reddit.com/r/InformationTechnology/comments/nzujcl/can_anyone_share_about_the_software_buying/)
 - [Position Title Misleading](https://www.reddit.com/r/InformationTechnology/comments/nzs6ym/position_title_misleading/)
 - [Information Technology Courses](https://www.reddit.com/r/InformationTechnology/comments/nzfso3/information_technology_courses/)
-- [What would be a more valuable course to take, Software Development, Computer Systems, Network System or Telecommunications?](https://www.reddit.com/r/InformationTechnology/comments/nzf1mf/what_would_be_a_more_valuable_course_to_take/)
-- [IPV6 usage](https://www.reddit.com/r/InformationTechnology/comments/nz48ze/ipv6_usage/)
-- [Looking for hints not answers](https://www.reddit.com/r/InformationTechnology/comments/nz00kh/looking_for_hints_not_answers/)
-- [Should I take info management at Syracuse University?](https://www.reddit.com/r/InformationTechnology/comments/nyob3h/should_i_take_info_management_at_syracuse/)
-- [Event Log - "most common" errors](https://www.reddit.com/r/InformationTechnology/comments/nyn9gd/event_log_most_common_errors/)
-- [What are my job prospects with just a B.S in IT and a 3.0 GPA "right out of the box"](https://www.reddit.com/r/InformationTechnology/comments/nyjcsl/what_are_my_job_prospects_with_just_a_bs_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

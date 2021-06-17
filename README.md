@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Shortage of air conditioner parts expected this summer](https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/)
-- [Fsspec: Filesystem Interfaces for Python](https://filesystem-spec.readthedocs.io/en/latest/index.html)
-- [Lina Khan, Big Tech Critic, Will Lead the FTC](https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc)
-- [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
-- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
-- [Show HN: Influence, a Go-inspired 1-minute board game](http://cintrest.com/influence/)
-- [Johnny Knoxville’s Last Rodeo](https://www.gq.com/story/johnny-knoxvilles-last-rodeo/)
-- [A pencil sharpener that creates a never-ending pencil (2015)](https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/)
-- [We’re no longer naming suspects in minor crime stories](https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories)
-- [Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)](https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/)
+- [Stripe Terminal](https://stripe.com/terminal)
+- [A bare metal physical implementation of WASM. That's right, a WebAssembly CPU](https://github.com/lastmjs/wasm-metal)
+- [Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE](https://www.improv-wifi.com/)
+- [Representing SHA-256 Hashes as Avatars](https://francoisbest.com/posts/2021/hashvatars)
+- [How to Boost Self Esteem and Stop Procrastinating](https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination)
+- [4-day workweek boosted workers' productivity by 40%, Microsoft Japan says](https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40)
+- [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [Open source HIPAA compliance benchmark for AWS](https://github.com/turbot/steampipe-mod-aws-compliance)
+- [Wayfinder – a relaxing 'art game' in the browser](https://wayfinder.nfb.ca/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

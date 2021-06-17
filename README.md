@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Breaking news: Toronto hospital hit by ransomware](https://www.itworldcanada.com/article/breaking-news-toronto-hospital-hit-by-ransomware/454744)
+- [Six more new features coming to Android soon](https://www.itworldcanada.com/article/six-more-new-features-coming-to-android-soon/454789)
+- [Researchers describe a ‘lucrative criminal ecosystem’ as ransomware groups buy network access](https://www.itworldcanada.com/article/researchers-describe-a-lucrative-criminal-ecosystem-as-ransomware-groups-buy-network-access/454769)
+- [Technation panellist says some are quitting organizations that insist on a 5-day presence in the workplace](https://www.itworldcanada.com/article/technation-panellist-says-some-are-quitting-organizations-that-insist-on-a-5-day-presence-in-the-workplace/454732)
+- [Three ways to keep up with cybersecurity demands](https://www.itworldcanada.com/article/three-ways-to-keep-up-with-cybersecurity-demands/454758)
+- [Cyber Security Today, June 16, 2021 – Canadians putting convenience over security, a vile ransomware threat, a fake Windows Defender notification and more](https://www.itworldcanada.com/article/cyber-security-today-june-16-2021-canadians-putting-convenience-over-security-a-vile-ransomware-threat-a-fake-windows-defender-notification-and-more/454740)
+- [Hashtag Trending, June 16, 2021- Global Supply Chain Chaos; The New Facebook; Shopify’s ‘Shop Pay’ Expands Rollout](https://www.itworldcanada.com/article/hashtag-trending-june-16-2021-global-supply-chain-chaos-the-new-facebook-shopifys-shop-pay-expands-rollout/454738)
+- [Toronto’s Humber River Hospital hit by ransomware](https://www.itworldcanada.com/article/breaking-news-toronto-hospital-hit-by-ransomware/454744)
 - [Coffee Briefing, June 15, 2021 – Cisco unveils hybrid cloud goodies; GoDaddy upgrades; Mississauga’s smart city update](https://www.itworldcanada.com/article/coffee-briefing-june-15-2021-cisco-unveils-hybrid-cloud-goodies-godaddy-upgrades-mississaugas-smart-city-update/454709)
 - [The bid for midband: 3,500 MHz 5G spectrum auction officially begins](https://www.itworldcanada.com/article/the-bid-for-midband-3500-mhz-5g-spectrum-auction-officially-begins/454693)
 - [Hashtag Trending, June 15, 2021- Bitcoin jumps more than 20 per cent; Second dose vaccine booking issues; Microsoft employees slept in data centres](https://www.itworldcanada.com/article/hashtag-trending-june-15-2021-bitcoin-jumps-more-than-20-per-cent-second-dose-vaccine-booking-issues-microsoft-employees-slept-in-data-centres/454690)
-- [Cyber Security Today, June 14, 2021 – Avaddon ransomware group apparently gives up, a retailer’s shortcut backfires and a warning to Samsung device owners](https://www.itworldcanada.com/article/cyber-security-today-june-14-2021-avaddon-ransomware-group-apparently-gives-up-a-retailers-shortcut-backfires-and-a-warning-to-samsung-device-owners/454649)
-- [Hashtag Trending, June 14, 2021 – Anti-vaxxers turn to Yelp; Facial recognition’s future; How to manage remote teams effectively](https://www.itworldcanada.com/article/hashtag-trending-june-14-2021-anti-vaxxers-turn-to-yelp-facial-recognitions-future-how-to-manage-remote-teams-effectively/454651)
-- [Microsoft Canada and Computers for Success Canada look to get refurbished hardware to underserved communities](https://www.itworldcanada.com/article/microsoft-canada-and-computers-for-success-canada-launch-initiative-to-get-refurbished-hardware-to-underserved-communities/454576)
-- [Cyber Security Today Week in Review for June 11, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-11-2021/454599)
-- [SAP talks supply chain, culture, sustainability at Sapphire Now](https://www.itworldcanada.com/article/sap-talks-supply-chain-culture-sustainability-at-sapphire-now/454610)
-- [Cyber Security Today, June 11, 2021 – Police disrupt stolen credentials marketplace, how fast crooks work with stolen credentials  and more](https://www.itworldcanada.com/article/cyber-security-today-june-11-2021-police-disrupt-stolen-credentials-marketplace-how-fast-crooks-work-with-stolen-credentials-and-more/454596)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

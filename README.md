@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NHS Test and Trace picks Risk Ledger to secure supply chain](https://www.computerweekly.com/news/252502485/NHS-Test-and-Trace-picks-Risk-Ledger-to-secure-supply-chain)
-- [Privacy pro salaries rise throughout pandemic, but at a cost](https://www.computerweekly.com/news/252502479/Privacy-pro-salaries-rise-throughout-pandemic-but-at-a-cost)
-- [Why a data-driven world should consider an oath of ethics](https://www.computerweekly.com/opinion/Why-a-data-driven-world-should-consider-an-oath-of-ethics)
-- [Oliver Dowden hails Tech Zero Taskforce at CogX](https://www.computerweekly.com/news/252502469/Oliver-Dowden-hails-Tech-Zero-Taskforce-at-CogX)
-- [UK IT outsourcing set to continue after service levels improve during pandemic](https://www.computerweekly.com/news/252502467/UK-IT-outsourcing-set-to-continue-after-service-levels-improve-during-pandemic)
-- [Amazon Web Services launches space tech accelerator](https://www.computerweekly.com/news/252502477/Amazon-Web-Services-launches-space-tech-accelerator)
-- [Japanese bank boss to leave after IT failures](https://www.computerweekly.com/news/252502473/Japanese-bank-boss-to-leave-after-IT-failures)
-- [Trainline hires former Google Play software director as chief technology officer](https://www.computerweekly.com/news/252502466/Trainline-hires-former-Google-Play-software-director-as-chief-technology-officer)
-- [Discovering great ideas – innovation at the Discovery Channel](https://www.computerweekly.com/ezine/Computer-Weekly/Discovering-great-ideas-innovation-at-the-Discovery-Channel)
-- [Ransomware most insidious cyber threat facing UK](https://www.computerweekly.com/news/252502450/Ransomware-most-insidious-cyber-threat-facing-UK)
+- [Tech sector hiring reaches highest level in five years](https://www.computerweekly.com/news/252502552/Tech-sector-hiring-reaches-highest-level-in-five-years)
+- [Tech features high on McKinsey’s disruption list](https://www.computerweekly.com/news/252502547/Tech-features-high-on-McKinseys-disruption-list)
+- [Tech sector trade union campaigns to protect workers’ privacy](https://www.computerweekly.com/news/252502551/Tech-sector-trade-union-campaigns-to-protect-workers-privacy)
+- [Tech Nation launches D&I toolkit for tech founders](https://www.computerweekly.com/news/252502543/Tech-Nation-launches-DI-toolkit-for-tech-founders)
+- [Contactless payments accounted for a quarter of all UK payments in 2020](https://www.computerweekly.com/news/252502539/Contactless-payments-accounted-for-a-quarter-of-all-UK-payments-in-2020)
+- [Cl0p ransomware gang clapped in irons, assets seized](https://www.computerweekly.com/news/252502541/Cl0p-ransomware-gang-clapped-in-irons-assets-seized)
+- [IBM Financial Services for Cloud initiative wins support of more than 100 collaborators](https://www.computerweekly.com/news/252502527/IBM-Financial-Services-for-Cloud-initiative-wins-support-of-more-than-100-collaborators)
+- [Nominate now: Most influential women in UK technology 2021](https://www.computerweekly.com/news/252502465/Nominate-now-Most-influential-women-in-UK-technology-2021)
+- [Storage performance metrics: Five key areas to look at](https://www.computerweekly.com/feature/Storage-performance-metrics-Five-key-areas-to-look-at)
+- [Matt Hancock at CogX: ‘Huge opportunities’ ahead to exploit health data](https://www.computerweekly.com/news/252502529/Matt-Hancock-at-CogX-huge-opportunities-ahead-to-exploit-health-data)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

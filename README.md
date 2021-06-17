@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sir Tim Berners-Lee to Auction the Source Code for the World Wide Web as an NFT](https://www.sothebys.com/en/press/this-changed-everything-sir-tim-berners-lee-to-auction-the-source-code-for-the-world-wide-web-as-an-nft)
-- [When AI becomes child's play](https://www.technologyreview.com/2021/06/09/1026016/when-ai-becomes-childsplay-kids-siri-alexa/)
-- [Ask HN: Thoughts on Salaries Posted on TeamBlind?](https://news.ycombinator.com/item?id=27524192)
-- [The mechanisms of action of Ivermectin against SARS-CoV-2](https://www.nature.com/articles/s41429-021-00430-5)
-- [The AP asked the government for proof that flossing works. The answer: ¯\_(ツ)_/¯](https://www.vox.com/2016/8/2/12352226/dental-floss-even-work)
-- [Catching Up on Life](https://mmusgrove.com/catching-up-on-things/)
-- [Shortage of air conditioner parts expected this summer](https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/)
-- [My EC2 Wishlist](http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html)
-- [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation](https://github.com/mchong6/GANsNRoses)
-- [Bringing Hotwire to Basecamp](https://world.hey.com/dhh/bringing-hotwire-to-basecamp-91a442d6)
+- [Greg Egan's Tweets](https://twitter.com/gregeganSF)
+- [Tim Cook: Sideloading is “not in the best interests of the user”](https://arstechnica.com/gadgets/2021/06/apples-tim-cook-sideloading-is-not-in-the-best-interests-of-the-user/)
+- [Scientists Convert Used Plastic Bottles into Vanilla Flavouring](https://www.theguardian.com/environment/2021/jun/15/scientists-convert-used-plastic-bottles-into-vanilla-flavouring)
+- [Sharkle – Generator of Random Awesomeness](https://sharkle.com/index.html)
+- [Ethicist Tristan Harris: 'Digital Democracy' Needed to Correct 'System of Harms'](https://www.wbur.org/hereandnow/2021/02/08/tristan-harris-big-tech)
+- [NASA doesn’t need to test SLS anymore, but the Senate mandates it anyway](https://arstechnica.com/science/2021/06/legislation-requires-nasa-to-build-sls-test-article-after-initial-flights/)
+- [How many flies are in my apartment?](https://saml98.github.io/jekyll/update/2021/06/13/flies.html)
+- [Community–academic partnerships helped Flint through its water crisis](https://www.nature.com/articles/d41586-021-01586-8)
+- [Web founder Berners-Lee to auction source code as NFT](https://www.bbc.com/news/technology-57474504)
+- [When does sharing become oversharing?](https://www.theverge.com/22526811/oversharing-social-media-protect-personal-harassment)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel’s unlikely coalition: is this the end for Netanyahu?](https://www.theguardian.com/news/audio/2021/jun/16/israels-unlikely-coalition-is-this-the-end-for-netanyahu)
-- [Peru election: socialist Pedro Castillo claims victory ahead of official result](https://www.theguardian.com/world/2021/jun/16/peru-election-socialist-pedro-castillo-claims-victory-ahead-of-official-result)
-- [Bear kills man in Slovakia forest in what could be first fatal attack](https://www.theguardian.com/world/2021/jun/16/bear-kills-man-slovakia)
-- [Bridge made of string: Peruvians weave 500-year-old Incan crossing back into place](https://www.theguardian.com/world/2021/jun/16/bridge-made-of-string-peruvians-weave-500-year-old-incan-crossing-back-into-place)
-- [The mice that roared: how eight tiny countries took on foreign fishing fleets](https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets)
-- [Israel carries out Gaza Strip airstrike after militants release incendiary balloons](https://www.theguardian.com/world/2021/jun/15/israel-ultranationalists-jerusalem-march-palestinians)
-- [Majority of public support total ban on UK gambling adverts, poll finds](https://www.theguardian.com/society/2021/jun/16/majority-of-public-support-total-ban-on-uk-gambling-adverts-poll-finds)
-- [Disease causing mass deaths of frogs reaches Britain](https://www.theguardian.com/environment/2021/jun/16/disease-causing-mass-deaths-frogs-reaches-britain-aoe)
-- [Adult social care services face ‘deluge’ of requests for support](https://www.theguardian.com/society/2021/jun/16/adult-social-care-services-support)
-- [Several people injured after protester parachutes into Euro 2020 game](https://www.theguardian.com/football/2021/jun/15/greanpeace-protester-avoids-accident-after-parachuting-into-germany-v-france)
+- [Is the truth out there? The US government prepares its landmark report on UFOs - podcast](https://www.theguardian.com/news/audio/2021/jun/17/is-the-truth-out-there-the-us-government-prepares-its-landmark-report-on-ufos-podcast)
+- [Hong Kong police arrest editor-in-chief of Apple Daily newspaper in morning raids](https://www.theguardian.com/world/2021/jun/17/hong-kong-police-arrest-editor-in-chief-of-apple-daily-newspaper-in-morning-raids)
+- [Sinn Féin designates deputy first minister to avert Stormont crisis](https://www.theguardian.com/uk-news/2021/jun/17/sinn-fein-designates-deputy-first-minister-to-avert-stormont-crisis)
+- [First astronauts blast off for China’s new space station](https://www.theguardian.com/world/2021/jun/17/first-astronauts-blast-off-for-china-new-space-station-tiangong)
+- [Number of EU citizens seeking work in UK falls 36% since Brexit, study shows](https://www.theguardian.com/politics/2021/jun/17/number-of-eu-citizens-seeking-work-in-uk-falls-36-since-brexit-study-shows)
+- [Social media stars under fire for flouting rules on advertising](https://www.theguardian.com/media/2021/jun/17/social-media-stars-under-fire-for-flouting-rules-on-advertising)
+- [‘Gamechanging’ £10m environmental DNA project to map life in world’s rivers](https://www.theguardian.com/environment/2021/jun/17/gamechanging-environmental-dna-project-to-map-life-in-worlds-rivers-aoe)
+- [Double-jabbed UK tourists could skip amber-list quarantine under proposals](https://www.theguardian.com/travel/2021/jun/16/vaccinated-british-travellers-could-skip-quarantine-on-return-under-new-plans)
+- [More than half of Europe’s cities still plagued by dirty air, report finds](https://www.theguardian.com/environment/2021/jun/16/europe-cities-still-plagued-dirty-air-report-finds)
+- [Russian war games set stage for Biden and Putin’s head-to-head](https://www.theguardian.com/us-news/2021/jun/16/russian-war-games-set-stage-for-biden-and-putins-head-to-head)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WSJ leaks Apple’s digital healthcare plan](https://www.computerworld.com/article/3621907/wsj-leaks-apples-digital-healthcare-plan.html#tk.rss_all)
 - [WWDC: 12 small but important improvements you may have missed](https://www.computerworld.com/article/3621780/wwdc-12-small-but-important-improvements-you-may-have-missed.html#tk.rss_all)
 - [Download: EMM/UEM vendor comparison chart 2021](https://www.computerworld.com/article/3408656/download-emm-uem-vendor-comparison-chart-2021.html#tk.rss_all)
 - [Enterprise mobility 2021: UEM becomes key to the hybrid workplace](https://www.computerworld.com/article/3202649/enterprise-mobility-2021-uem-becomes-key-to-the-hybrid-workplace.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [WWDC: What's new for App Clips in ARKit 5](https://www.computerworld.com/article/3621760/wwdc-whats-new-for-app-clips-in-arkit-5.html#tk.rss_all)
 - [Google’s Workspace Chat Rooms to become collaborative ‘Spaces’](https://www.computerworld.com/article/3621635/googles-workspace-chat-rooms-to-become-collaborative-spaces.html#tk.rss_all)
 - [Windows updates: The four basic patch personalities](https://www.computerworld.com/article/3621703/windows-updates-the-four-basic-patch-personalities.html#tk.rss_all)
-- [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

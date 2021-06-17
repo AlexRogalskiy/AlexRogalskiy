@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to use Razor View Engine in ASP.NET Core MVC](https://www.infoworld.com/article/3621782/how-to-use-razor-views-in-aspnet-core-mvc.html#tk.rss_all)
+- [What is Azure Confidential Ledger?](https://www.infoworld.com/article/3621675/what-is-azure-confidential-ledger.html#tk.rss_all)
+- [Get started with Anaconda Python](https://www.infoworld.com/article/3245814/get-started-with-anaconda-python.html#tk.rss_all)
 - [Why you need a data integration platform](https://www.infoworld.com/article/3621992/why-you-need-a-data-integration-platform.html#tk.rss_all)
 - [Deal with supply chain issues using cloud computing](https://www.infoworld.com/article/3621674/deal-with-supply-chain-issues-using-cloud-computing.html#tk.rss_all)
 - [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [From legacy to the cloud: The 3 stages of enterprise modernization](https://www.infoworld.com/article/3620939/from-legacy-to-the-cloud-the-3-stages-of-enterprise-modernization.html#tk.rss_all)
 - [Excel, Python, and the future of data science](https://www.infoworld.com/article/3620913/excel-python-and-the-future-of-data-science.html#tk.rss_all)
 - [Visual Studio Code adds Workplace Trust for code editing safety](https://www.infoworld.com/article/3621738/visual-studio-code-adds-workplace-trust-for-code-editing-safety.html#tk.rss_all)
-- [Oracle offers Java management service](https://www.infoworld.com/article/3621690/oracle-offers-java-management-service.html#tk.rss_all)
-- [Complexity is the biggest threat to cloud success and security](https://www.infoworld.com/article/3620944/complexity-is-the-biggest-threat-to-cloud-success-and-security.html#tk.rss_all)
-- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

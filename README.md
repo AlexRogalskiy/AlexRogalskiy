@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: What iOS 15 means for the future of the iPhone](https://www.computerworld.com/article/3622411/podcast-what-ios-15-means-for-the-future-of-the-iphone.html#tk.rss_all)
+- [Get a head start on your tech career training with this low cost RPi and Arduino bundle](https://www.computerworld.com/article/3621990/get-a-head-start-on-your-tech-career-training-with-this-low-cost-rpi-and-arduino-bundle.html#tk.rss_all)
+- [iOS 15: Apple sets the scene for the next big thing](https://www.computerworld.com/article/3622311/ios-15-apple-sets-the-scene-for-the-next-big-thing.html#tk.rss_all)
+- [50 illuminating questions about Google's latest messaging service shakeup](https://www.computerworld.com/article/3622023/google-workspace-messaging-services.html#tk.rss_all)
+- [Microsoft: All things must end ... even Windows 10](https://www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.html#tk.rss_all)
 - [WSJ leaks Apple’s digital healthcare plan](https://www.computerworld.com/article/3621907/wsj-leaks-apples-digital-healthcare-plan.html#tk.rss_all)
 - [WWDC: 12 small but important improvements you may have missed](https://www.computerworld.com/article/3621780/wwdc-12-small-but-important-improvements-you-may-have-missed.html#tk.rss_all)
 - [Download: EMM/UEM vendor comparison chart 2021](https://www.computerworld.com/article/3408656/download-emm-uem-vendor-comparison-chart-2021.html#tk.rss_all)
 - [Enterprise mobility 2021: UEM becomes key to the hybrid workplace](https://www.computerworld.com/article/3202649/enterprise-mobility-2021-uem-becomes-key-to-the-hybrid-workplace.html#tk.rss_all)
 - [Work 2021: Say goodbye to yesterday's work habits](https://www.computerworld.com/article/3621636/work-2021-say-goodbye-to-yesterdays-work-habits.html#tk.rss_all)
-- [Google abandons URL shortening in Chrome](https://www.computerworld.com/article/3621640/google-abandons-url-shortening-in-chrome.html#tk.rss_all)
-- [The evolution of macOS (and Mac OS X)](https://www.computerworld.com/article/2983507/the-evolution-of-macos-and-mac-os-x.html#tk.rss_all)
-- [WWDC: What's new for App Clips in ARKit 5](https://www.computerworld.com/article/3621760/wwdc-whats-new-for-app-clips-in-arkit-5.html#tk.rss_all)
-- [Google’s Workspace Chat Rooms to become collaborative ‘Spaces’](https://www.computerworld.com/article/3621635/googles-workspace-chat-rooms-to-become-collaborative-spaces.html#tk.rss_all)
-- [Windows updates: The four basic patch personalities](https://www.computerworld.com/article/3621703/windows-updates-the-four-basic-patch-personalities.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

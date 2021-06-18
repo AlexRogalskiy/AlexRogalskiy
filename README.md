@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is the truth out there? The US government prepares its landmark report on UFOs - podcast](https://www.theguardian.com/news/audio/2021/jun/17/is-the-truth-out-there-the-us-government-prepares-its-landmark-report-on-ufos-podcast)
-- [Hong Kong police arrest editor-in-chief of Apple Daily newspaper in morning raids](https://www.theguardian.com/world/2021/jun/17/hong-kong-police-arrest-editor-in-chief-of-apple-daily-newspaper-in-morning-raids)
-- [Sinn Féin designates deputy first minister to avert Stormont crisis](https://www.theguardian.com/uk-news/2021/jun/17/sinn-fein-designates-deputy-first-minister-to-avert-stormont-crisis)
-- [First astronauts blast off for China’s new space station](https://www.theguardian.com/world/2021/jun/17/first-astronauts-blast-off-for-china-new-space-station-tiangong)
-- [Number of EU citizens seeking work in UK falls 36% since Brexit, study shows](https://www.theguardian.com/politics/2021/jun/17/number-of-eu-citizens-seeking-work-in-uk-falls-36-since-brexit-study-shows)
-- [Social media stars under fire for flouting rules on advertising](https://www.theguardian.com/media/2021/jun/17/social-media-stars-under-fire-for-flouting-rules-on-advertising)
-- [‘Gamechanging’ £10m environmental DNA project to map life in world’s rivers](https://www.theguardian.com/environment/2021/jun/17/gamechanging-environmental-dna-project-to-map-life-in-worlds-rivers-aoe)
-- [Double-jabbed UK tourists could skip amber-list quarantine under proposals](https://www.theguardian.com/travel/2021/jun/16/vaccinated-british-travellers-could-skip-quarantine-on-return-under-new-plans)
-- [More than half of Europe’s cities still plagued by dirty air, report finds](https://www.theguardian.com/environment/2021/jun/16/europe-cities-still-plagued-dirty-air-report-finds)
-- [Russian war games set stage for Biden and Putin’s head-to-head](https://www.theguardian.com/us-news/2021/jun/16/russian-war-games-set-stage-for-biden-and-putins-head-to-head)
+- [US Open golf 2021: first round – live!](https://www.theguardian.com/sport/live/2021/jun/17/us-open-golf-2021-first-round-live)
+- [Why England’s footballers are so determined to keep taking the knee - podcast](https://www.theguardian.com/news/audio/2021/jun/18/why-englands-footballers-are-so-determined-to-keep-taking-the-knee-podcast)
+- [Lib Dems win Chesham and Amersham byelection in stunning upset](https://www.theguardian.com/politics/2021/jun/18/lib-dems-win-chesham-and-amersham-byelection-in-stunning-upset)
+- [Thirty Tesla crashes linked to assisted driving system under investigation in US](https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us)
+- [Israel launches new airstrikes on Gaza in response to incendiary balloons](https://www.theguardian.com/world/2021/jun/18/israel-launches-new-airstrikes-gaza-incendiary-balloons)
+- [Juneteenth becomes federal holiday celebrating end of slavery in US](https://www.theguardian.com/us-news/2021/jun/17/juneteenth-slavery-federal-holiday-biden-signs-bill)
+- [De Bruyne dazzles and Denmark rises for Eriksen – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/18/de-bruyne-dazzles-and-denmark-rises-for-eriksen-euro-2020-football-daily)
+- [Hospitals undertook 1.6m fewer operations last year because of Covid](https://www.theguardian.com/society/2021/jun/18/hospitals-undertook-16m-fewer-operations-last-year-because-of-covid)
+- [CBI predicts UK’s economic recovery will accelerate into autumn](https://www.theguardian.com/business/2021/jun/18/cbi-predicts-uks-economic-recovery-will-accelerate-into-autumn)
+- [British food and drink exports to EU fall by £2bn in first quarter of 2021](https://www.theguardian.com/business/2021/jun/18/british-food-and-drink-exports-to-eu-fall-by-2bn-in-first-quarter-of-2021)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

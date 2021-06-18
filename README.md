@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom colors app](https://www.reddit.com/r/InformationTechnology/comments/o25gtd/custom_colors_app/)
+- [What are jobs that u can work from home when you have a BA in IT?](https://www.reddit.com/r/InformationTechnology/comments/o24eft/what_are_jobs_that_u_can_work_from_home_when_you/)
+- [Did I mess up ?](https://www.reddit.com/r/InformationTechnology/comments/o21gio/did_i_mess_up/)
+- [Unlock the capabilities of the Cloud ERP Software for Manufacturing Companies](https://www.reddit.com/r/InformationTechnology/comments/o1xfh8/unlock_the_capabilities_of_the_cloud_erp_software/)
+- [I just got my associate's in Cyber Security with three certifications, but I had to do a job assessment and only knew 3/17 answers off the top of my head and am feeling wholly discouraged. What do I do?](https://www.reddit.com/r/InformationTechnology/comments/o1vhnf/i_just_got_my_associates_in_cyber_security_with/)
 - [Best entry certifications for IT?](https://www.reddit.com/r/InformationTechnology/comments/o1ats0/best_entry_certifications_for_it/)
 - [Job Hunt: My Experience](https://www.reddit.com/r/InformationTechnology/comments/o12xeo/job_hunt_my_experience/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o113i7/free_training_on_az900_microsoft_azure/)
 - [Which IT courses should I take?](https://www.reddit.com/r/InformationTechnology/comments/o0vjgh/which_it_courses_should_i_take/)
 - [What are some easier capstone project for a 2-member group?](https://www.reddit.com/r/InformationTechnology/comments/o0tztt/what_are_some_easier_capstone_project_for_a/)
-- [Have my first interview on Thursday](https://www.reddit.com/r/InformationTechnology/comments/o0sw82/have_my_first_interview_on_thursday/)
-- [Specialization Question](https://www.reddit.com/r/InformationTechnology/comments/o0pctd/specialization_question/)
-- [Taking some frustration out of buying new software](https://www.reddit.com/r/InformationTechnology/comments/o0pc5y/taking_some_frustration_out_of_buying_new_software/)
-- [are the Computer Science classes in San Antonio's Alamo Colleges any good?](https://www.reddit.com/r/InformationTechnology/comments/o06iho/are_the_computer_science_classes_in_san_antonios/)
-- [Wanting to join/learn the IT field](https://www.reddit.com/r/InformationTechnology/comments/o05hm5/wanting_to_joinlearn_the_it_field/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Eclipse launches group to shepherd popular Java IDE](https://www.infoworld.com/article/3622412/eclipse-launches-group-to-shepherd-popular-java-ide.html#tk.rss_all)
+- [Why developers should use Apache Pulsar](https://www.infoworld.com/article/3619272/why-developers-should-use-apache-pulsar.html#tk.rss_all)
 - [How to use Razor View Engine in ASP.NET Core MVC](https://www.infoworld.com/article/3621782/how-to-use-razor-views-in-aspnet-core-mvc.html#tk.rss_all)
 - [What is Azure Confidential Ledger?](https://www.infoworld.com/article/3621675/what-is-azure-confidential-ledger.html#tk.rss_all)
 - [Get started with Anaconda Python](https://www.infoworld.com/article/3245814/get-started-with-anaconda-python.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
 - [Go 1.17 moves to beta, with language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-moves-to-beta-with-language-and-compiler-enhancements.html#tk.rss_all)
 - [From legacy to the cloud: The 3 stages of enterprise modernization](https://www.infoworld.com/article/3620939/from-legacy-to-the-cloud-the-3-stages-of-enterprise-modernization.html#tk.rss_all)
-- [Excel, Python, and the future of data science](https://www.infoworld.com/article/3620913/excel-python-and-the-future-of-data-science.html#tk.rss_all)
-- [Visual Studio Code adds Workplace Trust for code editing safety](https://www.infoworld.com/article/3621738/visual-studio-code-adds-workplace-trust-for-code-editing-safety.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

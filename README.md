@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Technology takes centre stage in UK government reform](https://www.computerweekly.com/news/252502604/Technology-takes-centre-stage-in-UK-government-reform)
+- [GDS to improve Gov.uk with user monitoring](https://www.computerweekly.com/news/252502605/GDS-to-improve-Govuk-with-user-monitoring)
+- [Lenovo and Intel unveil second phase of Leibniz Supercomputing Centre’s HPC buildout](https://www.computerweekly.com/news/252502616/Lenovo-and-Intel-unveil-second-phase-of-Leibniz-Supercomputing-Centres-HPC-buildout)
+- [Cyber crooks target Amazon Prime users ahead of retail bonanza](https://www.computerweekly.com/news/252502614/Cyber-crooks-target-Amazon-Prime-users-ahead-of-retail-bonanza)
+- [Increasing numbers of Dutch women opt for career in ICT](https://www.computerweekly.com/news/252502534/Increasing-numbers-of-Dutch-women-opt-for-career-in-ICT)
+- [Accenture acquisition will expand services that help customers be more like Tesla](https://www.computerweekly.com/news/252502602/Accenture-acquisition-will-expand-services-that-help-customers-be-more-like-Tesla)
+- [Ireland’s datacentre industry to plant 1,000 orchards by 2022 as pro-pollinator plan gathers pace](https://www.computerweekly.com/news/252502595/Irelands-datacentre-industry-to-plant-1000-orchards-by-2022-as-pro-pollinator-plan-gathers-pace)
+- [Equinix vows to curb greenhouse gas emissions of its global operations](https://www.computerweekly.com/news/252502592/Equinix-vows-to-curb-greenhouse-gas-emissions-of-its-global-operations)
+- [Biden tackles Putin on ransomware at Geneva summit](https://www.computerweekly.com/news/252502593/Biden-tackles-Putin-on-ransomware-at-Geneva-summit)
 - [Tech sector hiring reaches highest level in five years](https://www.computerweekly.com/news/252502552/Tech-sector-hiring-reaches-highest-level-in-five-years)
-- [Tech features high on McKinsey’s disruption list](https://www.computerweekly.com/news/252502547/Tech-features-high-on-McKinseys-disruption-list)
-- [Tech sector trade union campaigns to protect workers’ privacy](https://www.computerweekly.com/news/252502551/Tech-sector-trade-union-campaigns-to-protect-workers-privacy)
-- [Tech Nation launches D&I toolkit for tech founders](https://www.computerweekly.com/news/252502543/Tech-Nation-launches-DI-toolkit-for-tech-founders)
-- [Contactless payments accounted for a quarter of all UK payments in 2020](https://www.computerweekly.com/news/252502539/Contactless-payments-accounted-for-a-quarter-of-all-UK-payments-in-2020)
-- [Cl0p ransomware gang clapped in irons, assets seized](https://www.computerweekly.com/news/252502541/Cl0p-ransomware-gang-clapped-in-irons-assets-seized)
-- [IBM Financial Services for Cloud initiative wins support of more than 100 collaborators](https://www.computerweekly.com/news/252502527/IBM-Financial-Services-for-Cloud-initiative-wins-support-of-more-than-100-collaborators)
-- [Nominate now: Most influential women in UK technology 2021](https://www.computerweekly.com/news/252502465/Nominate-now-Most-influential-women-in-UK-technology-2021)
-- [Storage performance metrics: Five key areas to look at](https://www.computerweekly.com/feature/Storage-performance-metrics-Five-key-areas-to-look-at)
-- [Matt Hancock at CogX: ‘Huge opportunities’ ahead to exploit health data](https://www.computerweekly.com/news/252502529/Matt-Hancock-at-CogX-huge-opportunities-ahead-to-exploit-health-data)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

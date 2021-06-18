@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud Outage Fallout: Should You Brace for Future Disruption?](https://www.informationweek.com/cloud/cloud-outage-fallout-should-you-brace-for-future-disruption/d/d-id/1341308?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The CIO's Role in Innovation](https://www.informationweek.com/strategic-cio/the-cios-role-in-innovation/a/d-id/1341284?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [University CIO Modernizes Networking Infrastructure](https://www.informationweek.com/strategic-cio/university-cio-modernizes-networking-infrastructure/d/d-id/1341309?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [3 Ways CIOs Can Enable Innovation Within a Hybrid Workforce](https://www.informationweek.com/strategic-cio/3-ways-cios-can-enable-innovation-within-a-hybrid-workforce/a/d-id/1341281?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Digital Transformation Mistakes to Avoid](https://www.informationweek.com/strategic-cio/10-digital-transformation-mistakes-to-avoid/d/d-id/1341290?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Checks and Balances: 3 Tips for Securing SaaS Apps](https://www.informationweek.com/cloud/software-as-a-service/checks-and-balances-3-tips-for-securing-saas-apps/a/d-id/1341280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Rubin Observatory Goes Open Source to Capture Galactic Data](https://www.informationweek.com/big-data/rubin-observatory-goes-open-source-to-capture-galactic-data/d/d-id/1341267?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What We Can Do About Biased AI](https://www.informationweek.com/big-data/ai-machine-learning/what-we-can-do-about-biased-ai-/a/d-id/1341252?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Machine Learning Basics Everyone Should Know](https://www.informationweek.com/big-data/ai-machine-learning/machine-learning-basics-everyone-should-know/a/d-id/1341253?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What SolarWinds Taught Enterprises About Data Protection](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-solarwinds-taught-enterprises-about-data-protection/a/d-id/1341235?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Greg Egan's Tweets](https://twitter.com/gregeganSF)
-- [Tim Cook: Sideloading is “not in the best interests of the user”](https://arstechnica.com/gadgets/2021/06/apples-tim-cook-sideloading-is-not-in-the-best-interests-of-the-user/)
-- [Scientists Convert Used Plastic Bottles into Vanilla Flavouring](https://www.theguardian.com/environment/2021/jun/15/scientists-convert-used-plastic-bottles-into-vanilla-flavouring)
-- [Sharkle – Generator of Random Awesomeness](https://sharkle.com/index.html)
-- [Ethicist Tristan Harris: 'Digital Democracy' Needed to Correct 'System of Harms'](https://www.wbur.org/hereandnow/2021/02/08/tristan-harris-big-tech)
-- [NASA doesn’t need to test SLS anymore, but the Senate mandates it anyway](https://arstechnica.com/science/2021/06/legislation-requires-nasa-to-build-sls-test-article-after-initial-flights/)
-- [How many flies are in my apartment?](https://saml98.github.io/jekyll/update/2021/06/13/flies.html)
-- [Community–academic partnerships helped Flint through its water crisis](https://www.nature.com/articles/d41586-021-01586-8)
-- [Web founder Berners-Lee to auction source code as NFT](https://www.bbc.com/news/technology-57474504)
-- [When does sharing become oversharing?](https://www.theverge.com/22526811/oversharing-social-media-protect-personal-harassment)
+- [Separating MNIST digits using Optimal Transport](https://mrussek.com/2021/06/17/sinkhorn-distances.html)
+- [Science Explained: Where’s the Center of the Universe?](https://futurism.com/where-did-the-big-bang-happen-wheres-the-center-of-the-universe)
+- [DenoDB](https://deno.land/x/denodb@v1.0.38)
+- [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html)
+- [Qdsh: Tcl interpreter with a number of extensions compiled in](https://chiselapp.com/user/stefank/repository/qdsh/dir?ci=trunk)
+- [Why Humans Are So Thirsty](https://www.scientificamerican.com/article/human-evolution-led-to-an-extreme-thirst-for-water/)
+- [Creating a simple extension to block websites (like HN)](https://ops.tips/blog/extension-to-block-websites/)
+- [Telegram web has redesigned the UI](https://news.ycombinator.com/item?id=27546627)
+- [Deep dive into how the Teensy microcontroller interacts with the Arduino library](https://www.righto.com/2021/06/deep-dive-into-how-teensy.html)
+- [The clever folds that kept letters secret](https://www.bbc.com/future/article/20210616-how-the-forgotten-tricks-of-letterlocking-shaped-history)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

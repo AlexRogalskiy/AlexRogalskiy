@@ -421,6 +421,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Why consolidating your cybersecurity makes it stronger](https://www.itworldcanada.com/article/why-consolidating-your-cybersecurity-makes-it-stronger/454815)
+- [Hashtag Trending, June 17, 2021- Windows 11 Leaks; Amazon’s Warehouse Turnover Concerns; IBM shows off quantum power](https://www.itworldcanada.com/article/hashtag-trending-june-17-2021-windows-11-leaks-amazons-warehouse-turnover-concerns-former-tech-students-debt-forgiven/454809)
 - [Six more new features coming to Android soon](https://www.itworldcanada.com/article/six-more-new-features-coming-to-android-soon/454789)
 - [Researchers describe a ‘lucrative criminal ecosystem’ as ransomware groups buy network access](https://www.itworldcanada.com/article/researchers-describe-a-lucrative-criminal-ecosystem-as-ransomware-groups-buy-network-access/454769)
 - [Technation panellist says some are quitting organizations that insist on a 5-day presence in the workplace](https://www.itworldcanada.com/article/technation-panellist-says-some-are-quitting-organizations-that-insist-on-a-5-day-presence-in-the-workplace/454732)
@@ -429,8 +431,6 @@
 - [Hashtag Trending, June 16, 2021- Global Supply Chain Chaos; The New Facebook; Shopify’s ‘Shop Pay’ Expands Rollout](https://www.itworldcanada.com/article/hashtag-trending-june-16-2021-global-supply-chain-chaos-the-new-facebook-shopifys-shop-pay-expands-rollout/454738)
 - [Toronto’s Humber River Hospital hit by ransomware](https://www.itworldcanada.com/article/breaking-news-toronto-hospital-hit-by-ransomware/454744)
 - [Coffee Briefing, June 15, 2021 – Cisco unveils hybrid cloud goodies; GoDaddy upgrades; Mississauga’s smart city update](https://www.itworldcanada.com/article/coffee-briefing-june-15-2021-cisco-unveils-hybrid-cloud-goodies-godaddy-upgrades-mississaugas-smart-city-update/454709)
-- [The bid for midband: 3,500 MHz 5G spectrum auction officially begins](https://www.itworldcanada.com/article/the-bid-for-midband-3500-mhz-5g-spectrum-auction-officially-begins/454693)
-- [Hashtag Trending, June 15, 2021- Bitcoin jumps more than 20 per cent; Second dose vaccine booking issues; Microsoft employees slept in data centres](https://www.itworldcanada.com/article/hashtag-trending-june-15-2021-bitcoin-jumps-more-than-20-per-cent-second-dose-vaccine-booking-issues-microsoft-employees-slept-in-data-centres/454690)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

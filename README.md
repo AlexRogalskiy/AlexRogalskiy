@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stripe Terminal](https://stripe.com/terminal)
-- [A bare metal physical implementation of WASM. That's right, a WebAssembly CPU](https://github.com/lastmjs/wasm-metal)
-- [Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE](https://www.improv-wifi.com/)
-- [Representing SHA-256 Hashes as Avatars](https://francoisbest.com/posts/2021/hashvatars)
-- [How to Boost Self Esteem and Stop Procrastinating](https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination)
-- [4-day workweek boosted workers' productivity by 40%, Microsoft Japan says](https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40)
-- [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Open source HIPAA compliance benchmark for AWS](https://github.com/turbot/steampipe-mod-aws-compliance)
-- [Wayfinder – a relaxing 'art game' in the browser](https://wayfinder.nfb.ca/)
+- [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
+- [HK's Apple Daily raided by 500 officers over national security law](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16)
+- [HBO Max accidentally sent a Integration Test email to many people](https://twitter.com/internetofshit/status/1405682888545349635)
+- [Ring provided 100 LAPD officers with free devices to influence adoption](https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department)
+- [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+- [Biochemical Pathway Maps](http://biochemical-pathways.com)
+- [Micro-Habits of Effective Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
+- [Apology](https://felleisen.org/matthias/Thoughts/Apology.html)
+- [On Depression and Founders](https://startupstrats.substack.com/p/dont-kill-yourself)
+- [Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers](https://github.com/organicmaps/organicmaps)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for June 18, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-18-2021/454823)
+- [St. John’s has faster internet than Toronto and Vancouver, says PCMag](https://www.itworldcanada.com/article/st-johns-has-faster-internet-than-toronto-and-vancouver-says-pcmag/454907)
+- [Proposed Ontario privacy law could include multi-million corporate fines](https://www.itworldcanada.com/article/proposed-ontario-privacy-law-could-include-multi-million-corporate-fines/454860)
+- [Inaugural Google Cloud Accelerator Canada class of 2021 announced](https://www.itworldcanada.com/article/inaugural-google-cloud-accelerator-canada-class-of-2021-announced/454833)
+- [Cyber Security Today, June 18, 2021 – Advice for saying safe on Amazon Prime Days](https://www.itworldcanada.com/article/cyber-security-today-june-18-2021-advice-for-saying-safe-on-amazon-prime-days/454826)
+- [Hashtag Trending, June 18, 2021- Apple bans LGBTQ+ apps in some countries; Four day work weeks work?; Senators propose the ‘Unsubscribe Act’](https://www.itworldcanada.com/article/hashtag-trending-june-18-2021-apple-bans-lgbtq-apps-in-some-countries-four-day-work-weeks-work-senators-propose-the-unsubscribe-act/454828)
 - [Why consolidating your cybersecurity makes it stronger](https://www.itworldcanada.com/article/why-consolidating-your-cybersecurity-makes-it-stronger/454815)
 - [Hashtag Trending, June 17, 2021- Windows 11 Leaks; Amazon’s Warehouse Turnover Concerns; IBM shows off quantum power](https://www.itworldcanada.com/article/hashtag-trending-june-17-2021-windows-11-leaks-amazons-warehouse-turnover-concerns-former-tech-students-debt-forgiven/454809)
 - [Six more new features coming to Android soon](https://www.itworldcanada.com/article/six-more-new-features-coming-to-android-soon/454789)
 - [Researchers describe a ‘lucrative criminal ecosystem’ as ransomware groups buy network access](https://www.itworldcanada.com/article/researchers-describe-a-lucrative-criminal-ecosystem-as-ransomware-groups-buy-network-access/454769)
-- [Technation panellist says some are quitting organizations that insist on a 5-day presence in the workplace](https://www.itworldcanada.com/article/technation-panellist-says-some-are-quitting-organizations-that-insist-on-a-5-day-presence-in-the-workplace/454732)
-- [Three ways to keep up with cybersecurity demands](https://www.itworldcanada.com/article/three-ways-to-keep-up-with-cybersecurity-demands/454758)
-- [Cyber Security Today, June 16, 2021 – Canadians putting convenience over security, a vile ransomware threat, a fake Windows Defender notification and more](https://www.itworldcanada.com/article/cyber-security-today-june-16-2021-canadians-putting-convenience-over-security-a-vile-ransomware-threat-a-fake-windows-defender-notification-and-more/454740)
-- [Hashtag Trending, June 16, 2021- Global Supply Chain Chaos; The New Facebook; Shopify’s ‘Shop Pay’ Expands Rollout](https://www.itworldcanada.com/article/hashtag-trending-june-16-2021-global-supply-chain-chaos-the-new-facebook-shopifys-shop-pay-expands-rollout/454738)
-- [Toronto’s Humber River Hospital hit by ransomware](https://www.itworldcanada.com/article/breaking-news-toronto-hospital-hit-by-ransomware/454744)
-- [Coffee Briefing, June 15, 2021 – Cisco unveils hybrid cloud goodies; GoDaddy upgrades; Mississauga’s smart city update](https://www.itworldcanada.com/article/coffee-briefing-june-15-2021-cisco-unveils-hybrid-cloud-goodies-godaddy-upgrades-mississaugas-smart-city-update/454709)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

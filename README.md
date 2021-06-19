@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NHS app reaches six million, thanks to Covid vaccine feature](https://www.computerweekly.com/news/252502675/NHS-app-reaches-six-million-thanks-to-Covid-vaccine-feature)
+- [Digital banks could dominate once baby boomers pass on their wealth](https://www.computerweekly.com/news/252502677/Digital-banks-could-dominate-once-baby-boomers-pass-on-their-wealth)
+- [Vast Data will offer containerised storage software, but not yet](https://www.computerweekly.com/news/252502669/Vast-Data-will-offer-containerised-storage-software-but-not-yet)
+- [ICO issues guidance on facial recognition in public spaces](https://www.computerweekly.com/news/252502671/ICO-issues-guidance-on-facial-recognition-in-public-spaces)
+- [Lorca Ignite programme targets breakout cyber talent](https://www.computerweekly.com/news/252502662/Lorca-Ignite-programme-targets-breakout-cyber-talent)
+- [Brent Council plots £3.8m datacentre revamp to protect IT infrastructure from cyber attacks](https://www.computerweekly.com/news/252502663/Brent-Council-plots-38m-datacentre-revamp-to-protect-IT-infrastructure-from-cyber-attacks)
+- [Carnival Cruises hit by fourth cyber incident in a year](https://www.computerweekly.com/news/252502659/Carnival-Cruises-hit-by-fourth-cyber-incident-in-a-year)
+- [Druva helps Thirteen Group get round Azure data retention limits](https://www.computerweekly.com/news/252502658/Druva-helps-Thirteen-Group-get-round-Azure-data-retention-limits)
+- [UK taskforce calls for cutting GDPR protections](https://www.computerweekly.com/news/252502634/UK-taskforce-calls-for-cutting-GDPR-protections)
 - [Technology takes centre stage in UK government reform](https://www.computerweekly.com/news/252502604/Technology-takes-centre-stage-in-UK-government-reform)
-- [GDS to improve Gov.uk with user monitoring](https://www.computerweekly.com/news/252502605/GDS-to-improve-Govuk-with-user-monitoring)
-- [Lenovo and Intel unveil second phase of Leibniz Supercomputing Centre’s HPC buildout](https://www.computerweekly.com/news/252502616/Lenovo-and-Intel-unveil-second-phase-of-Leibniz-Supercomputing-Centres-HPC-buildout)
-- [Cyber crooks target Amazon Prime users ahead of retail bonanza](https://www.computerweekly.com/news/252502614/Cyber-crooks-target-Amazon-Prime-users-ahead-of-retail-bonanza)
-- [Increasing numbers of Dutch women opt for career in ICT](https://www.computerweekly.com/news/252502534/Increasing-numbers-of-Dutch-women-opt-for-career-in-ICT)
-- [Accenture acquisition will expand services that help customers be more like Tesla](https://www.computerweekly.com/news/252502602/Accenture-acquisition-will-expand-services-that-help-customers-be-more-like-Tesla)
-- [Ireland’s datacentre industry to plant 1,000 orchards by 2022 as pro-pollinator plan gathers pace](https://www.computerweekly.com/news/252502595/Irelands-datacentre-industry-to-plant-1000-orchards-by-2022-as-pro-pollinator-plan-gathers-pace)
-- [Equinix vows to curb greenhouse gas emissions of its global operations](https://www.computerweekly.com/news/252502592/Equinix-vows-to-curb-greenhouse-gas-emissions-of-its-global-operations)
-- [Biden tackles Putin on ransomware at Geneva summit](https://www.computerweekly.com/news/252502593/Biden-tackles-Putin-on-ransomware-at-Geneva-summit)
-- [Tech sector hiring reaches highest level in five years](https://www.computerweekly.com/news/252502552/Tech-sector-hiring-reaches-highest-level-in-five-years)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Separating MNIST digits using Optimal Transport](https://mrussek.com/2021/06/17/sinkhorn-distances.html)
-- [Science Explained: Where’s the Center of the Universe?](https://futurism.com/where-did-the-big-bang-happen-wheres-the-center-of-the-universe)
-- [DenoDB](https://deno.land/x/denodb@v1.0.38)
-- [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html)
-- [Qdsh: Tcl interpreter with a number of extensions compiled in](https://chiselapp.com/user/stefank/repository/qdsh/dir?ci=trunk)
-- [Why Humans Are So Thirsty](https://www.scientificamerican.com/article/human-evolution-led-to-an-extreme-thirst-for-water/)
-- [Creating a simple extension to block websites (like HN)](https://ops.tips/blog/extension-to-block-websites/)
-- [Telegram web has redesigned the UI](https://news.ycombinator.com/item?id=27546627)
-- [Deep dive into how the Teensy microcontroller interacts with the Arduino library](https://www.righto.com/2021/06/deep-dive-into-how-teensy.html)
-- [The clever folds that kept letters secret](https://www.bbc.com/future/article/20210616-how-the-forgotten-tricks-of-letterlocking-shaped-history)
+- [The Ganges Is Returning Its Dead. It Does Not Lie](https://www.nytimes.com/2021/06/17/opinion/india-covid-ganges.html)
+- [Strange Examples of Soviet Design](https://www.popularmechanics.com/cars/g499/8-strange-examples-of-soviet-design/?slide=1)
+- [Idea sucks, now go do it anyway](https://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway.html)
+- [It Seems Money Does Buy Happiness After All](https://www.bloomberg.com/news/articles/2021-01-25/can-money-buy-you-happiness-yes-but-there-s-a-catch)
+- [Show HN: Chrome ext to autocomplete your sentences in any text box](https://chrome.google.com/webstore/detail/autocomplete/aggkjfibklccpapdbkonmoihcmnhiflc?ref=hn)
+- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+- [Volunteer Responsibility Amnesty Day](https://www.volunteeramnestyday.net/)
+- [DNA leads to surprising discovery of two Viking family members](https://www.cnn.com/videos/travel/2021/06/12/viking-skeleton-family-reunited-denmark-orig-kj.cnn)
+- [S Curves](https://unchartedterritories.tomaspueyo.com/p/s-curves)
+- [Peloton: How the Bike Company Has Become a Global Content Brand](https://www.hollywoodreporter.com/business/business-news/hollywoodization-of-peloton-1234964386/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

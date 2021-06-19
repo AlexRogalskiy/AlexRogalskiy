@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The future of work is hybrid and remote](https://www.computerworld.com/article/3622356/the-future-of-work-is-hybrid-and-remote.html#tk.rss_all)
+- [Cisco and remote-work lessons learned in education during the pandemic](https://www.computerworld.com/article/3622315/cisco-and-remote-work-lessons-learned-in-education-during-the-pandemic.html#tk.rss_all)
+- [The evolution of iOS](https://www.computerworld.com/article/2975868/the-evolution-of-ios.html#tk.rss_all)
+- [Get ready for the next wave of virtual meetings](https://www.computerworld.com/article/3622019/get-ready-for-the-next-wave-of-virtual-meetings.html#tk.rss_all)
+- [Tech’s growth leaves Black professionals further behind](https://www.computerworld.com/article/3622269/techs-growth-leaves-black-professionals-further-behind.html#tk.rss_all)
 - [Podcast: What iOS 15 means for the future of the iPhone](https://www.computerworld.com/article/3622411/podcast-what-ios-15-means-for-the-future-of-the-iphone.html#tk.rss_all)
 - [Get a head start on your tech career training with this low cost RPi and Arduino bundle](https://www.computerworld.com/article/3621990/get-a-head-start-on-your-tech-career-training-with-this-low-cost-rpi-and-arduino-bundle.html#tk.rss_all)
 - [iOS 15: Apple sets the scene for the next big thing](https://www.computerworld.com/article/3622311/ios-15-apple-sets-the-scene-for-the-next-big-thing.html#tk.rss_all)
 - [50 illuminating questions about Google's latest messaging service shakeup](https://www.computerworld.com/article/3622023/google-workspace-messaging-services.html#tk.rss_all)
 - [Microsoft: All things must end ... even Windows 10](https://www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.html#tk.rss_all)
-- [WSJ leaks Apple’s digital healthcare plan](https://www.computerworld.com/article/3621907/wsj-leaks-apples-digital-healthcare-plan.html#tk.rss_all)
-- [WWDC: 12 small but important improvements you may have missed](https://www.computerworld.com/article/3621780/wwdc-12-small-but-important-improvements-you-may-have-missed.html#tk.rss_all)
-- [Download: EMM/UEM vendor comparison chart 2021](https://www.computerworld.com/article/3408656/download-emm-uem-vendor-comparison-chart-2021.html#tk.rss_all)
-- [Enterprise mobility 2021: UEM becomes key to the hybrid workplace](https://www.computerworld.com/article/3202649/enterprise-mobility-2021-uem-becomes-key-to-the-hybrid-workplace.html#tk.rss_all)
-- [Work 2021: Say goodbye to yesterday's work habits](https://www.computerworld.com/article/3621636/work-2021-say-goodbye-to-yesterdays-work-habits.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

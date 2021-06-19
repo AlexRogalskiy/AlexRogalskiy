@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open golf 2021: first round – live!](https://www.theguardian.com/sport/live/2021/jun/17/us-open-golf-2021-first-round-live)
-- [Why England’s footballers are so determined to keep taking the knee - podcast](https://www.theguardian.com/news/audio/2021/jun/18/why-englands-footballers-are-so-determined-to-keep-taking-the-knee-podcast)
-- [Lib Dems win Chesham and Amersham byelection in stunning upset](https://www.theguardian.com/politics/2021/jun/18/lib-dems-win-chesham-and-amersham-byelection-in-stunning-upset)
-- [Thirty Tesla crashes linked to assisted driving system under investigation in US](https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us)
-- [Israel launches new airstrikes on Gaza in response to incendiary balloons](https://www.theguardian.com/world/2021/jun/18/israel-launches-new-airstrikes-gaza-incendiary-balloons)
-- [Juneteenth becomes federal holiday celebrating end of slavery in US](https://www.theguardian.com/us-news/2021/jun/17/juneteenth-slavery-federal-holiday-biden-signs-bill)
-- [De Bruyne dazzles and Denmark rises for Eriksen – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/18/de-bruyne-dazzles-and-denmark-rises-for-eriksen-euro-2020-football-daily)
-- [Hospitals undertook 1.6m fewer operations last year because of Covid](https://www.theguardian.com/society/2021/jun/18/hospitals-undertook-16m-fewer-operations-last-year-because-of-covid)
-- [CBI predicts UK’s economic recovery will accelerate into autumn](https://www.theguardian.com/business/2021/jun/18/cbi-predicts-uks-economic-recovery-will-accelerate-into-autumn)
-- [British food and drink exports to EU fall by £2bn in first quarter of 2021](https://www.theguardian.com/business/2021/jun/18/british-food-and-drink-exports-to-eu-fall-by-2bn-in-first-quarter-of-2021)
+- [US Open golf 2021: second round – as it happened](https://www.theguardian.com/sport/live/2021/jun/18/us-open-golf-2021-second-round-end-of-first-round-live-scores-updates)
+- [Australia takes China to WTO over its trade sanctions on Australian wines](https://www.theguardian.com/australia-news/2021/jun/19/australia-takes-china-to-wto-over-its-trade-sanctions-on-australian-wines)
+- [One person killed after suspected tornado hits Auckland](https://www.theguardian.com/world/2021/jun/19/new-zealand-tornado-death-auckland)
+- [England and Scotland share spoils at Wembley – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/19/england-scotland-wembley-euro-2020-football-daily)
+- [Copa América: Ben Brereton caps full Chile debut with winner against Bolivia](https://www.theguardian.com/football/2021/jun/19/copa-america-roundup-chile-bolivia-argentina-uruguay)
+- [Jack Grealish may not have all the answers but England need to find out | Barney Ronay](https://www.theguardian.com/football/blog/2021/jun/19/jack-grealish-may-not-have-all-the-answers-but-can-we-please-find-out)
+- [Thiago Alcântara: ‘We see less magic, less fantasy. Footballers do more but faster’](https://www.theguardian.com/football/2021/jun/18/thiago-alcantara-we-see-less-magic-less-fantasy-footballers-do-more-but-faster)
+- [English councils refuse six in 10 requests for Covid self-isolation pay](https://www.theguardian.com/world/2021/jun/18/english-councils-refuse-six-in-10-requests-for-covid-self-isolation-pay)
+- [Workers must be given right to do jobs from home, says Labour](https://www.theguardian.com/politics/2021/jun/18/workers-must-be-given-right-to-do-jobs-from-home-says-labour)
+- [United Nations condemns coup in Myanmar and calls for arms embargo](https://www.theguardian.com/world/2021/jun/18/united-nations-condemn-military-coup-in-myanmar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

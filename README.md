@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [From AI to Teamwork: 7 Key Skills for Data Scientists](https://www.informationweek.com/big-data/from-ai-to-teamwork-7-key-skills-for-data-scientists-/d/d-id/1341330?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AIOps in the Cloud? Not So Fast](https://www.informationweek.com/cloud/aiops-in-the-cloud-not-so-fast/a/d-id/1341317?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Cloud Outage Fallout: Should You Brace for Future Disruption?](https://www.informationweek.com/cloud/cloud-outage-fallout-should-you-brace-for-future-disruption/d/d-id/1341308?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The CIO's Role in Innovation](https://www.informationweek.com/strategic-cio/the-cios-role-in-innovation/a/d-id/1341284?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [University CIO Modernizes Networking Infrastructure](https://www.informationweek.com/strategic-cio/university-cio-modernizes-networking-infrastructure/d/d-id/1341309?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Green IT: Are We There Yet?](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/green-it-are-we-there-yet/a/d-id/1341244?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How and Why Enterprises Must Tackle Ethical AI](https://www.informationweek.com/big-data/how-and-why-enterprises-must-tackle-ethical-ai/d/d-id/1341279?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Checks and Balances: 3 Tips for Securing SaaS Apps](https://www.informationweek.com/cloud/software-as-a-service/checks-and-balances-3-tips-for-securing-saas-apps/a/d-id/1341280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Rubin Observatory Goes Open Source to Capture Galactic Data](https://www.informationweek.com/big-data/rubin-observatory-goes-open-source-to-capture-galactic-data/d/d-id/1341267?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [What We Can Do About Biased AI](https://www.informationweek.com/big-data/ai-machine-learning/what-we-can-do-about-biased-ai-/a/d-id/1341252?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

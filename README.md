@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
-- [HK's Apple Daily raided by 500 officers over national security law](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16)
-- [HBO Max accidentally sent a Integration Test email to many people](https://twitter.com/internetofshit/status/1405682888545349635)
-- [Ring provided 100 LAPD officers with free devices to influence adoption](https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department)
-- [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
-- [Biochemical Pathway Maps](http://biochemical-pathways.com)
-- [Micro-Habits of Effective Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
-- [Apology](https://felleisen.org/matthias/Thoughts/Apology.html)
-- [On Depression and Founders](https://startupstrats.substack.com/p/dont-kill-yourself)
-- [Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers](https://github.com/organicmaps/organicmaps)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
+- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
+- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
+- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
+- [Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
+- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
+- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
+- [America’s weirdest guidebooks were funded by the government](https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html)
+- [Fly Straight, Dammit (2019)](http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

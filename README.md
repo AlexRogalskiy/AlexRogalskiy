@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Phone Number Used Too Many Times for Apple ID](https://www.reddit.com/r/InformationTechnology/comments/o2ud6u/phone_number_used_too_many_times_for_apple_id/)
+- [I wonder, do companies let you work from home AND travel to other countries if you don't want to take vacation days?](https://www.reddit.com/r/InformationTechnology/comments/o2r8nl/i_wonder_do_companies_let_you_work_from_home_and/)
+- [Stuck on what to do next](https://www.reddit.com/r/InformationTechnology/comments/o2iw1b/stuck_on_what_to_do_next/)
+- [Cybersecurity Podcast!](https://www.reddit.com/r/InformationTechnology/comments/o2fc46/cybersecurity_podcast/)
 - [Custom colors app](https://www.reddit.com/r/InformationTechnology/comments/o25gtd/custom_colors_app/)
 - [What are jobs that u can work from home when you have a BA in IT?](https://www.reddit.com/r/InformationTechnology/comments/o24eft/what_are_jobs_that_u_can_work_from_home_when_you/)
 - [Did I mess up ?](https://www.reddit.com/r/InformationTechnology/comments/o21gio/did_i_mess_up/)
 - [Unlock the capabilities of the Cloud ERP Software for Manufacturing Companies](https://www.reddit.com/r/InformationTechnology/comments/o1xfh8/unlock_the_capabilities_of_the_cloud_erp_software/)
 - [I just got my associate's in Cyber Security with three certifications, but I had to do a job assessment and only knew 3/17 answers off the top of my head and am feeling wholly discouraged. What do I do?](https://www.reddit.com/r/InformationTechnology/comments/o1vhnf/i_just_got_my_associates_in_cyber_security_with/)
 - [Best entry certifications for IT?](https://www.reddit.com/r/InformationTechnology/comments/o1ats0/best_entry_certifications_for_it/)
-- [Job Hunt: My Experience](https://www.reddit.com/r/InformationTechnology/comments/o12xeo/job_hunt_my_experience/)
-- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o113i7/free_training_on_az900_microsoft_azure/)
-- [Which IT courses should I take?](https://www.reddit.com/r/InformationTechnology/comments/o0vjgh/which_it_courses_should_i_take/)
-- [What are some easier capstone project for a 2-member group?](https://www.reddit.com/r/InformationTechnology/comments/o0tztt/what_are_some_easier_capstone_project_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

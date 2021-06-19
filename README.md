@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [3 signs of an overengineered enterprise cloud solution](https://www.infoworld.com/article/3622450/3-signs-of-an-overengineered-enterprise-cloud-solution.html#tk.rss_all)
 - [Eclipse launches group to shepherd popular Java IDE](https://www.infoworld.com/article/3622412/eclipse-launches-group-to-shepherd-popular-java-ide.html#tk.rss_all)
 - [Why developers should use Apache Pulsar](https://www.infoworld.com/article/3619272/why-developers-should-use-apache-pulsar.html#tk.rss_all)
 - [How to use Razor View Engine in ASP.NET Core MVC](https://www.infoworld.com/article/3621782/how-to-use-razor-views-in-aspnet-core-mvc.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Deal with supply chain issues using cloud computing](https://www.infoworld.com/article/3621674/deal-with-supply-chain-issues-using-cloud-computing.html#tk.rss_all)
 - [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
 - [Go 1.17 moves to beta, with language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-moves-to-beta-with-language-and-compiler-enhancements.html#tk.rss_all)
-- [From legacy to the cloud: The 3 stages of enterprise modernization](https://www.infoworld.com/article/3620939/from-legacy-to-the-cloud-the-3-stages-of-enterprise-modernization.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

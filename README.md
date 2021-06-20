@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
-- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
-- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
-- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
-- [Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
-- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
-- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
-- [America’s weirdest guidebooks were funded by the government](https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html)
-- [Fly Straight, Dammit (2019)](http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/)
+- [Renoise – a DAW with a tracker-like interface](https://www.renoise.com/)
+- [Korea revokes approvals for 1,700 communication equipment, devices](http://www.koreaherald.com/view.php?ud=20210617000953)
+- [A specific network name can completely disable Wi-Fi on your iPhone](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
+- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
+- [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
+- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
+- [I'm Peter Roberts, immigration attorney who does work for YC startups. AMA](https://news.ycombinator.com/item?id=27560781)
+- [EventBus 3.1 with plain Java support](https://greenrobot.org/release/eventbus-3-1-plain-java-support/)
+- [Coober Pedy, the Australian mining town where residents live underground (2020)](https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1)
+- [Life as a public school teacher in the San Francisco Bay Area in 2021](http://adamcadre.ac/calendar/202105m.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

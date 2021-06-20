@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Ganges Is Returning Its Dead. It Does Not Lie](https://www.nytimes.com/2021/06/17/opinion/india-covid-ganges.html)
-- [Strange Examples of Soviet Design](https://www.popularmechanics.com/cars/g499/8-strange-examples-of-soviet-design/?slide=1)
-- [Idea sucks, now go do it anyway](https://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway.html)
-- [It Seems Money Does Buy Happiness After All](https://www.bloomberg.com/news/articles/2021-01-25/can-money-buy-you-happiness-yes-but-there-s-a-catch)
-- [Show HN: Chrome ext to autocomplete your sentences in any text box](https://chrome.google.com/webstore/detail/autocomplete/aggkjfibklccpapdbkonmoihcmnhiflc?ref=hn)
-- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
-- [Volunteer Responsibility Amnesty Day](https://www.volunteeramnestyday.net/)
-- [DNA leads to surprising discovery of two Viking family members](https://www.cnn.com/videos/travel/2021/06/12/viking-skeleton-family-reunited-denmark-orig-kj.cnn)
-- [S Curves](https://unchartedterritories.tomaspueyo.com/p/s-curves)
-- [Peloton: How the Bike Company Has Become a Global Content Brand](https://www.hollywoodreporter.com/business/business-news/hollywoodization-of-peloton-1234964386/)
+- [Ask HN: Why even offer Touch ID if it wont unlock my iPhone?](https://news.ycombinator.com/item?id=27566576)
+- [Paywall: The Business of Scholarship](https://vimeo.com/273358286)
+- [The Vaping Fix: Silicon Valley entrepreneurs set out to rid the world of smoking](https://wondery.com/shows/the-vaping-fix/)
+- [What If We’re Wrong?](https://areomagazine.com/2021/05/19/what-if-were-wrong/)
+- [Ask HN: Your Go to Club on Clubhouse?](https://news.ycombinator.com/item?id=27566509)
+- [The Rosenbergs were executed for spying in 1953-Can their sons reveal the truth?](https://www.theguardian.com/world/2021/jun/19/rosenbergs-executed-for-spying-1953-can-sons-reveal-truth)
+- [Model Roller Coaster with Advanced PLC Safety Control System](https://www.youtube.com/watch?v=iartGfOZwMk)
+- [Update: Libvmcu v0.8.8](https://github.com/Milo-D/libvmcu-Virtual-MCU-Library)
+- [Life Lessons from 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)
+- [Ask HN: Secure. US-Based, Laptop Hosting Provider Recommendations?](https://news.ycombinator.com/item?id=27566417)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

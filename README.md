@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interviewing for my first IT job - any pointers?](https://www.reddit.com/r/InformationTechnology/comments/o3tpre/interviewing_for_my_first_it_job_any_pointers/)
+- [Virtual Machines](https://www.reddit.com/r/InformationTechnology/comments/o3pz81/virtual_machines/)
+- [Is CompTIA A+ self-paced? Or is there a time limit to finish the courses?](https://www.reddit.com/r/InformationTechnology/comments/o3iqcg/is_comptia_a_selfpaced_or_is_there_a_time_limit/)
+- [The Bad Things about Working in IT](https://www.reddit.com/r/InformationTechnology/comments/o38234/the_bad_things_about_working_in_it/)
 - [Phone Number Used Too Many Times for Apple ID](https://www.reddit.com/r/InformationTechnology/comments/o2ud6u/phone_number_used_too_many_times_for_apple_id/)
 - [I wonder, do companies let you work from home AND travel to other countries if you don't want to take vacation days?](https://www.reddit.com/r/InformationTechnology/comments/o2r8nl/i_wonder_do_companies_let_you_work_from_home_and/)
 - [Stuck on what to do next](https://www.reddit.com/r/InformationTechnology/comments/o2iw1b/stuck_on_what_to_do_next/)
 - [Cybersecurity Podcast!](https://www.reddit.com/r/InformationTechnology/comments/o2fc46/cybersecurity_podcast/)
 - [Custom colors app](https://www.reddit.com/r/InformationTechnology/comments/o25gtd/custom_colors_app/)
 - [What are jobs that u can work from home when you have a BA in IT?](https://www.reddit.com/r/InformationTechnology/comments/o24eft/what_are_jobs_that_u_can_work_from_home_when_you/)
-- [Did I mess up ?](https://www.reddit.com/r/InformationTechnology/comments/o21gio/did_i_mess_up/)
-- [Unlock the capabilities of the Cloud ERP Software for Manufacturing Companies](https://www.reddit.com/r/InformationTechnology/comments/o1xfh8/unlock_the_capabilities_of_the_cloud_erp_software/)
-- [I just got my associate's in Cyber Security with three certifications, but I had to do a job assessment and only knew 3/17 answers off the top of my head and am feeling wholly discouraged. What do I do?](https://www.reddit.com/r/InformationTechnology/comments/o1vhnf/i_just_got_my_associates_in_cyber_security_with/)
-- [Best entry certifications for IT?](https://www.reddit.com/r/InformationTechnology/comments/o1ats0/best_entry_certifications_for_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

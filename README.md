@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;e3&#x2F;44&#x2F;db&#x2F;e344db44a97efd295d934250f955e0d3.jpg" alt="Nothing compares to this #WordOfTheDay. It’s nonpareil. Learn how to say it at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6a&#x2F;da&#x2F;0f&#x2F;6ada0fdf56e0a940b7f43b5bc1b063ed.jpg" alt="This is cause for celebration. Prothalamion is the Word of the Day. Learn more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;26&#x2F;e4&#x2F;b0&#x2F;26e4b0fa55fc6267bc0cf5fc9a87d8a8.jpg" alt="Manavelins is the Word of the Day. Write it down on a scrap of paper. Learn how to say it and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cd&#x2F;b6&#x2F;02&#x2F;cdb6025b7280396c2444db471fb59399.jpg" alt="Put on your dancing shoes. Terpsichorean is the #WordOfTheDay. Get example sentences and more at Dictionary.com. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;7c&#x2F;6e&#x2F;bd&#x2F;7c6ebddb0fa945e792f89135f1a1113a.jpg" alt="Ah, fiddlesticks! We can&#39;t wait to tell you about this #WordOfTheDay. Click to see where it comes from and get example sentences. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>29°C (<i>clear sky</i>), humidity: 41%, pressure: 1015 (mbar), wind: /south/ 1 (m/s), cloudy: 0%</b>
+        <b>30°C (<i>clear sky</i>), humidity: 41%, pressure: 1014 (mbar), wind: /south/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:35 am</b> and sets at <b>22:25 pm</b>.
     </p>

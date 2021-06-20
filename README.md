@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open golf 2021: second round – as it happened](https://www.theguardian.com/sport/live/2021/jun/18/us-open-golf-2021-second-round-end-of-first-round-live-scores-updates)
-- [Australia takes China to WTO over its trade sanctions on Australian wines](https://www.theguardian.com/australia-news/2021/jun/19/australia-takes-china-to-wto-over-its-trade-sanctions-on-australian-wines)
-- [One person killed after suspected tornado hits Auckland](https://www.theguardian.com/world/2021/jun/19/new-zealand-tornado-death-auckland)
-- [England and Scotland share spoils at Wembley – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/19/england-scotland-wembley-euro-2020-football-daily)
-- [Copa América: Ben Brereton caps full Chile debut with winner against Bolivia](https://www.theguardian.com/football/2021/jun/19/copa-america-roundup-chile-bolivia-argentina-uruguay)
-- [Jack Grealish may not have all the answers but England need to find out | Barney Ronay](https://www.theguardian.com/football/blog/2021/jun/19/jack-grealish-may-not-have-all-the-answers-but-can-we-please-find-out)
-- [Thiago Alcântara: ‘We see less magic, less fantasy. Footballers do more but faster’](https://www.theguardian.com/football/2021/jun/18/thiago-alcantara-we-see-less-magic-less-fantasy-footballers-do-more-but-faster)
-- [English councils refuse six in 10 requests for Covid self-isolation pay](https://www.theguardian.com/world/2021/jun/18/english-councils-refuse-six-in-10-requests-for-covid-self-isolation-pay)
-- [Workers must be given right to do jobs from home, says Labour](https://www.theguardian.com/politics/2021/jun/18/workers-must-be-given-right-to-do-jobs-from-home-says-labour)
-- [United Nations condemns coup in Myanmar and calls for arms embargo](https://www.theguardian.com/world/2021/jun/18/united-nations-condemn-military-coup-in-myanmar)
+- [Body of missing US student Catherine Serou found in Russia](https://www.theguardian.com/world/2021/jun/20/missing-us-student-catherine-serou-russia-body-found-nizhny-novgorod)
+- [US Open golf 2021: third round – as it happened](https://www.theguardian.com/sport/live/2021/jun/19/us-open-golf-2021-third-round-live)
+- [‘It was war’: partygoer loses hand amid clashes with French police at illegal rave](https://www.theguardian.com/world/2021/jun/20/france-rave-party-goer-loses-hand-police-clashes-injuries-brittany)
+- [Outdoor civil weddings will be legal in England and Wales from next month](https://www.theguardian.com/lifeandstyle/2021/jun/20/outdoor-civil-weddings-will-be-legal-in-england-and-wales-from-next-month)
+- [Return of the clog: 12 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/19/return-of-the-clog-12-of-the-best-in-pictures)
+- [John Bercow defects to Labour with withering attack on Johnson](https://www.theguardian.com/politics/2021/jun/19/john-bercow-defects-to-labour-with-withering-attack-on-johnson)
+- [Students protest at Science Museum over sponsorship by Shell](https://www.theguardian.com/environment/2021/jun/19/students-protest-at-science-museum-over-sponsorship-by-shell)
+- [Labour urges Tory backbench rebellion in planning reform vote](https://www.theguardian.com/politics/2021/jun/19/labour-urges-tory-backbench-rebellion-in-planning-reform-vote)
+- [Juneteenth gallery – in pictures](https://www.theguardian.com/us-news/gallery/2021/jun/19/juneteenth-gallery-in-pictures)
+- [Harry Kane hits back at doubters and insists transfer push is no distraction](https://www.theguardian.com/football/2021/jun/19/harry-kane-hits-back-at-doubters-after-second-sluggish-england-display)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

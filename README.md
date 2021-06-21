@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [You know you been doing IT for too long when....](https://www.reddit.com/r/InformationTechnology/comments/o4cfk1/you_know_you_been_doing_it_for_too_long_when/)
+- [IT Admin Help](https://www.reddit.com/r/InformationTechnology/comments/o492m1/it_admin_help/)
+- [Protip: Do NOT make yourself too available as an IT professional](https://www.reddit.com/r/InformationTechnology/comments/o433da/protip_do_not_make_yourself_too_available_as_an/)
+- [How does one 'practice' their IT skills?](https://www.reddit.com/r/InformationTechnology/comments/o42ogi/how_does_one_practice_their_it_skills/)
+- [Question for the IT conesuoers](https://www.reddit.com/r/InformationTechnology/comments/o3w9nu/question_for_the_it_conesuoers/)
 - [Interviewing for my first IT job - any pointers?](https://www.reddit.com/r/InformationTechnology/comments/o3tpre/interviewing_for_my_first_it_job_any_pointers/)
 - [Virtual Machines](https://www.reddit.com/r/InformationTechnology/comments/o3pz81/virtual_machines/)
 - [Is CompTIA A+ self-paced? Or is there a time limit to finish the courses?](https://www.reddit.com/r/InformationTechnology/comments/o3iqcg/is_comptia_a_selfpaced_or_is_there_a_time_limit/)
 - [The Bad Things about Working in IT](https://www.reddit.com/r/InformationTechnology/comments/o38234/the_bad_things_about_working_in_it/)
 - [Phone Number Used Too Many Times for Apple ID](https://www.reddit.com/r/InformationTechnology/comments/o2ud6u/phone_number_used_too_many_times_for_apple_id/)
-- [I wonder, do companies let you work from home AND travel to other countries if you don't want to take vacation days?](https://www.reddit.com/r/InformationTechnology/comments/o2r8nl/i_wonder_do_companies_let_you_work_from_home_and/)
-- [Stuck on what to do next](https://www.reddit.com/r/InformationTechnology/comments/o2iw1b/stuck_on_what_to_do_next/)
-- [Cybersecurity Podcast!](https://www.reddit.com/r/InformationTechnology/comments/o2fc46/cybersecurity_podcast/)
-- [Custom colors app](https://www.reddit.com/r/InformationTechnology/comments/o25gtd/custom_colors_app/)
-- [What are jobs that u can work from home when you have a BA in IT?](https://www.reddit.com/r/InformationTechnology/comments/o24eft/what_are_jobs_that_u_can_work_from_home_when_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

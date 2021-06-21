@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Renoise – a DAW with a tracker-like interface](https://www.renoise.com/)
-- [Korea revokes approvals for 1,700 communication equipment, devices](http://www.koreaherald.com/view.php?ud=20210617000953)
-- [A specific network name can completely disable Wi-Fi on your iPhone](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
-- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
-- [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
-- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
-- [I'm Peter Roberts, immigration attorney who does work for YC startups. AMA](https://news.ycombinator.com/item?id=27560781)
-- [EventBus 3.1 with plain Java support](https://greenrobot.org/release/eventbus-3-1-plain-java-support/)
-- [Coober Pedy, the Australian mining town where residents live underground (2020)](https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1)
-- [Life as a public school teacher in the San Francisco Bay Area in 2021](http://adamcadre.ac/calendar/202105m.html)
+- [Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
+- [Mindat.org, the largest open database of minerals, rocks, and meteorites](https://www.mindat.org/)
+- [The Ice-V: a simple, compact RISC-V RV32I implementation in Silice](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v)
+- [Gramps – Free Genealogy Software](https://gramps-project.org)
+- [Imp: A full-stack relational language built around incremental maintenance](https://github.com/jamii/imp)
+- [Zero-Knowledge Proofs](https://zkp.science/)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible](https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723)
+- [If the Moon Were Only 1 Pixel (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- [A dwarf planet coming within 11 AU of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

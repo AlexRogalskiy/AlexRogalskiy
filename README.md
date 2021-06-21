@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Body of missing US student Catherine Serou found in Russia](https://www.theguardian.com/world/2021/jun/20/missing-us-student-catherine-serou-russia-body-found-nizhny-novgorod)
-- [US Open golf 2021: third round – as it happened](https://www.theguardian.com/sport/live/2021/jun/19/us-open-golf-2021-third-round-live)
-- [‘It was war’: partygoer loses hand amid clashes with French police at illegal rave](https://www.theguardian.com/world/2021/jun/20/france-rave-party-goer-loses-hand-police-clashes-injuries-brittany)
-- [Outdoor civil weddings will be legal in England and Wales from next month](https://www.theguardian.com/lifeandstyle/2021/jun/20/outdoor-civil-weddings-will-be-legal-in-england-and-wales-from-next-month)
-- [Return of the clog: 12 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/19/return-of-the-clog-12-of-the-best-in-pictures)
-- [John Bercow defects to Labour with withering attack on Johnson](https://www.theguardian.com/politics/2021/jun/19/john-bercow-defects-to-labour-with-withering-attack-on-johnson)
-- [Students protest at Science Museum over sponsorship by Shell](https://www.theguardian.com/environment/2021/jun/19/students-protest-at-science-museum-over-sponsorship-by-shell)
-- [Labour urges Tory backbench rebellion in planning reform vote](https://www.theguardian.com/politics/2021/jun/19/labour-urges-tory-backbench-rebellion-in-planning-reform-vote)
-- [Juneteenth gallery – in pictures](https://www.theguardian.com/us-news/gallery/2021/jun/19/juneteenth-gallery-in-pictures)
-- [Harry Kane hits back at doubters and insists transfer push is no distraction](https://www.theguardian.com/football/2021/jun/19/harry-kane-hits-back-at-doubters-after-second-sluggish-england-display)
+- [Karim’s story: Egypt’s crackdown on human rights workers – podcast](https://www.theguardian.com/news/audio/2021/jun/21/karim-ennarah-egypt-crackdown-human-rights-workers-podcast)
+- [US Open golf 2021: Rahm wins first major – as it happened](https://www.theguardian.com/sport/live/2021/jun/20/us-open-golf-2021-final-round-live)
+- [ISS astronauts complete six-hour spacewalk to install solar panels](https://www.theguardian.com/science/2021/jun/21/international-space-station-astronauts-complete-six-hour-spacewalk-to-install-solar-panels)
+- [Nine children die in Alabama crash as tropical storm Claudette sweeps south](https://www.theguardian.com/us-news/2021/jun/20/claudette-storm-life-threatening-flash-flooding-warnings-us-south-east)
+- [Weightlifter Laurel Hubbard will be first trans athlete to compete at Olympics](https://www.theguardian.com/sport/2021/jun/21/olympics-tokyo-laurel-hubbard-trans-weightlifter-new-zealand)
+- [Wales road trip goes on despite defeat in Rome – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/21/wales-italy-switzerland-turkey-euro-2020-football-daily)
+- [House asking prices hit record levels across Great Britain](https://www.theguardian.com/business/2021/jun/21/house-asking-prices-hit-record-levels-across-great-britain-covid-boom)
+- [High stress may make ‘broken heart syndrome’ more likely, study finds](https://www.theguardian.com/science/2021/jun/21/high-stress-may-make-broken-heart-syndrome-more-likely-takotsubo-cardiomyopathy)
+- [Civic life is under assault – theatres can play a vital role in restoring it | Dan Hutton](https://www.theguardian.com/stage/2021/jun/21/theatre-change-civic-function-dan-hutton)
+- [Team GB cyclists target winning ‘in the right way’ at Tokyo Olympics](https://www.theguardian.com/sport/2021/jun/21/team-gb-cyclists-target-winning-in-the-right-way-at-tokyo-olympics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

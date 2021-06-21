@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why even offer Touch ID if it wont unlock my iPhone?](https://news.ycombinator.com/item?id=27566576)
-- [Paywall: The Business of Scholarship](https://vimeo.com/273358286)
-- [The Vaping Fix: Silicon Valley entrepreneurs set out to rid the world of smoking](https://wondery.com/shows/the-vaping-fix/)
-- [What If We’re Wrong?](https://areomagazine.com/2021/05/19/what-if-were-wrong/)
-- [Ask HN: Your Go to Club on Clubhouse?](https://news.ycombinator.com/item?id=27566509)
-- [The Rosenbergs were executed for spying in 1953-Can their sons reveal the truth?](https://www.theguardian.com/world/2021/jun/19/rosenbergs-executed-for-spying-1953-can-sons-reveal-truth)
-- [Model Roller Coaster with Advanced PLC Safety Control System](https://www.youtube.com/watch?v=iartGfOZwMk)
-- [Update: Libvmcu v0.8.8](https://github.com/Milo-D/libvmcu-Virtual-MCU-Library)
-- [Life Lessons from 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)
-- [Ask HN: Secure. US-Based, Laptop Hosting Provider Recommendations?](https://news.ycombinator.com/item?id=27566417)
+- [Built ERC-20 Token Generator Application Using React, Web3 and Recoil JavaScript](https://erc20-token-generator.netlify.app/)
+- [Bacteria eat plastic – Morgan Vague](https://www.youtube.com/watch?v=nbW4XWkJC6w)
+- [Google Issues Warning for 2B Chrome Users](https://www.forbes.com/sites/gordonkelly/2021/06/19/google-chrome-warning-zero-day-security-exploit-free-upgrade-chrome-users/)
+- [World-GAN: A Generative Model for Minecraft Worlds](https://arxiv.org/abs/2106.10155)
+- [The World Relies on One Chip Maker in Taiwan, Leaving Everyone Vulnerable](https://www.wsj.com/articles/the-world-relies-on-one-chip-maker-in-taiwan-leaving-everyone-vulnerable-11624075400)
+- [3200-year-old shrine in Turkey may be an ancient view of the cosmos](https://www.newscientist.com/article/2280860-3200-year-old-shrine-in-turkey-may-be-an-ancient-view-of-the-cosmos/)
+- [Notes on Kafka for Beginners](https://staticfire.site/content/kafka-part1/)
+- [USC professor’s DIY online teaching hack to engage students goes viral](https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/)
+- [Free Stuff for Developer](https://freestuff.dev/)
+- [How does 'kubectl exec' work?](https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

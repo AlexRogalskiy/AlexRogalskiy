@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking to change careers from Microbiology, is CompTIA IT Fundamentals a good place to start?](https://www.reddit.com/r/InformationTechnology/comments/o5ansy/looking_to_change_careers_from_microbiology_is/)
 - [You know you been doing IT for too long when....](https://www.reddit.com/r/InformationTechnology/comments/o4cfk1/you_know_you_been_doing_it_for_too_long_when/)
 - [IT Admin Help](https://www.reddit.com/r/InformationTechnology/comments/o492m1/it_admin_help/)
 - [Protip: Do NOT make yourself too available as an IT professional](https://www.reddit.com/r/InformationTechnology/comments/o433da/protip_do_not_make_yourself_too_available_as_an/)
@@ -415,7 +416,6 @@
 - [Virtual Machines](https://www.reddit.com/r/InformationTechnology/comments/o3pz81/virtual_machines/)
 - [Is CompTIA A+ self-paced? Or is there a time limit to finish the courses?](https://www.reddit.com/r/InformationTechnology/comments/o3iqcg/is_comptia_a_selfpaced_or_is_there_a_time_limit/)
 - [The Bad Things about Working in IT](https://www.reddit.com/r/InformationTechnology/comments/o38234/the_bad_things_about_working_in_it/)
-- [Phone Number Used Too Many Times for Apple ID](https://www.reddit.com/r/InformationTechnology/comments/o2ud6u/phone_number_used_too_many_times_for_apple_id/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

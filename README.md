@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Avoid the Leading Cloud Migration Mistakes](https://www.informationweek.com/cloud/how-to-avoid-the-leading-cloud-migration-mistakes/a/d-id/1341338?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [6 Steps Companies Can Take to Strengthen Their Cyber Strategy](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/6-steps-companies-can-take-to-strengthen-their-cyber-strategy/a/d-id/1341318?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [From AI to Teamwork: 7 Key Skills for Data Scientists](https://www.informationweek.com/big-data/from-ai-to-teamwork-7-key-skills-for-data-scientists-/d/d-id/1341330?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AIOps in the Cloud? Not So Fast](https://www.informationweek.com/cloud/aiops-in-the-cloud-not-so-fast/a/d-id/1341317?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Cloud Outage Fallout: Should You Brace for Future Disruption?](https://www.informationweek.com/cloud/cloud-outage-fallout-should-you-brace-for-future-disruption/d/d-id/1341308?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [3 Ways CIOs Can Enable Innovation Within a Hybrid Workforce](https://www.informationweek.com/strategic-cio/3-ways-cios-can-enable-innovation-within-a-hybrid-workforce/a/d-id/1341281?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Digital Transformation Mistakes to Avoid](https://www.informationweek.com/strategic-cio/10-digital-transformation-mistakes-to-avoid/d/d-id/1341290?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Green IT: Are We There Yet?](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/green-it-are-we-there-yet/a/d-id/1341244?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How and Why Enterprises Must Tackle Ethical AI](https://www.informationweek.com/big-data/how-and-why-enterprises-must-tackle-ethical-ai/d/d-id/1341279?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Checks and Balances: 3 Tips for Securing SaaS Apps](https://www.informationweek.com/cloud/software-as-a-service/checks-and-balances-3-tips-for-securing-saas-apps/a/d-id/1341280?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

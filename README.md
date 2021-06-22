@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
-- [Mindat.org, the largest open database of minerals, rocks, and meteorites](https://www.mindat.org/)
-- [The Ice-V: a simple, compact RISC-V RV32I implementation in Silice](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v)
-- [Gramps – Free Genealogy Software](https://gramps-project.org)
-- [Imp: A full-stack relational language built around incremental maintenance](https://github.com/jamii/imp)
-- [Zero-Knowledge Proofs](https://zkp.science/)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible](https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723)
-- [If the Moon Were Only 1 Pixel (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- [A dwarf planet coming within 11 AU of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
+- [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
+- [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
+- [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
+- [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
+- [SproutLife – Evolving version of Conway’s Game of Life](https://github.com/ShprAlex/SproutLife)
+- [Kats: One stop shop for time series analysis in Python](https://facebookresearch.github.io/Kats/)
+- [Apple Daily to shut in days unless government agrees to plea to unfreeze assets](https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4)
+- [Turning a Classic CRT into a Smart TV](https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html)
+- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
+- [Apple is building the metaverse substrate](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NHS app reaches six million, thanks to Covid vaccine feature](https://www.computerweekly.com/news/252502675/NHS-app-reaches-six-million-thanks-to-Covid-vaccine-feature)
+- [UK public largely supportive of Amazon workers unionising](https://www.computerweekly.com/news/252502758/UK-public-largely-supportive-of-Amazon-workers-unionising)
+- [Opera house shuns cloud for Nutanix and Rubrik hyper-converged infrastructure](https://www.computerweekly.com/news/252502756/Opera-house-shuns-cloud-for-Nutanix-and-Rubrik-hyper-converged-infrastructure)
+- [Parliamentary devices left in taxis, buses, trains and pubs](https://www.computerweekly.com/news/252502749/Parliamentary-devices-left-in-taxis-buses-trains-and-pubs)
+- [Exor International showcases Industry 4.0 smart factory](https://www.computerweekly.com/news/252502744/Exor-International-showcases-Industry-40-smart-factory)
+- [NHSX set to unveil post-Covid data strategy](https://www.computerweekly.com/news/252502736/NHSX-set-to-unveil-post-Covid-data-strategy)
+- [Post Office pays 400 subpostmasters compensation for losses caused by computer errors](https://www.computerweekly.com/news/252502738/Post-Office-pays-400-subpostmasters-compensation-for-losses-caused-by-computer-errors)
+- [Best practices for secure printing](https://www.computerweekly.com/feature/Best-practices-for-secure-printing)
+- [Philanthropists join forces to create $1bn distributed green energy platform to fight climate change](https://www.computerweekly.com/news/252502734/Philanthropists-join-forces-to-create-1bn-distributed-green-energy-platform-to-fight-climate-change)
+- [NHS App reaches six million users, thanks to Covid vaccine feature](https://www.computerweekly.com/news/252502675/NHS-app-reaches-six-million-thanks-to-Covid-vaccine-feature)
 - [Digital banks could dominate once baby boomers pass on their wealth](https://www.computerweekly.com/news/252502677/Digital-banks-could-dominate-once-baby-boomers-pass-on-their-wealth)
-- [Vast Data will offer containerised storage software, but not yet](https://www.computerweekly.com/news/252502669/Vast-Data-will-offer-containerised-storage-software-but-not-yet)
-- [ICO issues guidance on facial recognition in public spaces](https://www.computerweekly.com/news/252502671/ICO-issues-guidance-on-facial-recognition-in-public-spaces)
-- [Lorca Ignite programme targets breakout cyber talent](https://www.computerweekly.com/news/252502662/Lorca-Ignite-programme-targets-breakout-cyber-talent)
-- [Brent Council plots £3.8m datacentre revamp to protect IT infrastructure from cyber attacks](https://www.computerweekly.com/news/252502663/Brent-Council-plots-38m-datacentre-revamp-to-protect-IT-infrastructure-from-cyber-attacks)
-- [Carnival Cruises hit by fourth cyber incident in a year](https://www.computerweekly.com/news/252502659/Carnival-Cruises-hit-by-fourth-cyber-incident-in-a-year)
-- [Druva helps Thirteen Group get round Azure data retention limits](https://www.computerweekly.com/news/252502658/Druva-helps-Thirteen-Group-get-round-Azure-data-retention-limits)
-- [UK taskforce calls for cutting GDPR protections](https://www.computerweekly.com/news/252502634/UK-taskforce-calls-for-cutting-GDPR-protections)
-- [Technology takes centre stage in UK government reform](https://www.computerweekly.com/news/252502604/Technology-takes-centre-stage-in-UK-government-reform)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

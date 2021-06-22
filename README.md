@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Built ERC-20 Token Generator Application Using React, Web3 and Recoil JavaScript](https://erc20-token-generator.netlify.app/)
-- [Bacteria eat plastic – Morgan Vague](https://www.youtube.com/watch?v=nbW4XWkJC6w)
-- [Google Issues Warning for 2B Chrome Users](https://www.forbes.com/sites/gordonkelly/2021/06/19/google-chrome-warning-zero-day-security-exploit-free-upgrade-chrome-users/)
-- [World-GAN: A Generative Model for Minecraft Worlds](https://arxiv.org/abs/2106.10155)
-- [The World Relies on One Chip Maker in Taiwan, Leaving Everyone Vulnerable](https://www.wsj.com/articles/the-world-relies-on-one-chip-maker-in-taiwan-leaving-everyone-vulnerable-11624075400)
-- [3200-year-old shrine in Turkey may be an ancient view of the cosmos](https://www.newscientist.com/article/2280860-3200-year-old-shrine-in-turkey-may-be-an-ancient-view-of-the-cosmos/)
-- [Notes on Kafka for Beginners](https://staticfire.site/content/kafka-part1/)
-- [USC professor’s DIY online teaching hack to engage students goes viral](https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/)
-- [Free Stuff for Developer](https://freestuff.dev/)
-- [How does 'kubectl exec' work?](https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter)
+- [Ask HN: At this point, are PUT and PATCH helpful?](https://news.ycombinator.com/item?id=27587283)
+- [Simulating the burn-up during atmospheric reentry of bulk items on a satellite](https://www.esa.int/ESA_Multimedia/Images/2021/06/Drive_to_destruction)
+- [America Almost Made a New Route 66 with 22 Nuclear Bombs](https://www.thedrive.com/news/40221/that-time-the-united-states-almost-made-a-new-route-66-with-nuclear-bombs)
+- [Kaplan–Meier Estimator](https://en.wikipedia.org/wiki/Kaplan–Meier_estimator)
+- [Rejecting Test Surveillance in Higher Education](https://poseidon01.ssrn.com/delivery.php?ID=961082017006096125115110082096108127056008077033052025098097118104082078073001075064102023115106011025018102015118100030069121000073035049088099087002030079104107084071081037089091075005064083087010064091118027104093099065118119115075116006065068121121&EXT=pdf&INDEX=TRUE)
+- [Irc.com is now owned by Freenode](http://irc.irc.com)
+- [Taiwan investigating 58 deaths after vaccinations over 3 days](https://www.taiwannews.com.tw/en/news/4228579)
+- [Someone has recreated (some) of my site on the same domain – can I do anything?](https://law.stackexchange.com/q/66948/38708)
+- [ShazamKit](https://developer.apple.com/documentation/shazamkit)
+- [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

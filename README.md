@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
+- [5 AI startups leading MLops](https://www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.html#tk.rss_all)
+- [The wrong way to think about IT](https://www.infoworld.com/article/3621998/the-wrong-way-to-think-about-it.html#tk.rss_all)
 - [3 signs of an overengineered enterprise cloud solution](https://www.infoworld.com/article/3622450/3-signs-of-an-overengineered-enterprise-cloud-solution.html#tk.rss_all)
 - [Eclipse launches group to shepherd popular Java IDE](https://www.infoworld.com/article/3622412/eclipse-launches-group-to-shepherd-popular-java-ide.html#tk.rss_all)
 - [Why developers should use Apache Pulsar](https://www.infoworld.com/article/3619272/why-developers-should-use-apache-pulsar.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [What is Azure Confidential Ledger?](https://www.infoworld.com/article/3621675/what-is-azure-confidential-ledger.html#tk.rss_all)
 - [Get started with Anaconda Python](https://www.infoworld.com/article/3245814/get-started-with-anaconda-python.html#tk.rss_all)
 - [Why you need a data integration platform](https://www.infoworld.com/article/3621992/why-you-need-a-data-integration-platform.html#tk.rss_all)
-- [Deal with supply chain issues using cloud computing](https://www.infoworld.com/article/3621674/deal-with-supply-chain-issues-using-cloud-computing.html#tk.rss_all)
-- [The great cloud computing surge](https://www.infoworld.com/article/3621752/the-great-cloud-computing-surge.html#tk.rss_all)
-- [Go 1.17 moves to beta, with language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-moves-to-beta-with-language-and-compiler-enhancements.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

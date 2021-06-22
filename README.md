@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Karim’s story: Egypt’s crackdown on human rights workers – podcast](https://www.theguardian.com/news/audio/2021/jun/21/karim-ennarah-egypt-crackdown-human-rights-workers-podcast)
-- [US Open golf 2021: Rahm wins first major – as it happened](https://www.theguardian.com/sport/live/2021/jun/20/us-open-golf-2021-final-round-live)
-- [ISS astronauts complete six-hour spacewalk to install solar panels](https://www.theguardian.com/science/2021/jun/21/international-space-station-astronauts-complete-six-hour-spacewalk-to-install-solar-panels)
-- [Nine children die in Alabama crash as tropical storm Claudette sweeps south](https://www.theguardian.com/us-news/2021/jun/20/claudette-storm-life-threatening-flash-flooding-warnings-us-south-east)
-- [Weightlifter Laurel Hubbard will be first trans athlete to compete at Olympics](https://www.theguardian.com/sport/2021/jun/21/olympics-tokyo-laurel-hubbard-trans-weightlifter-new-zealand)
-- [Wales road trip goes on despite defeat in Rome – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/21/wales-italy-switzerland-turkey-euro-2020-football-daily)
-- [House asking prices hit record levels across Great Britain](https://www.theguardian.com/business/2021/jun/21/house-asking-prices-hit-record-levels-across-great-britain-covid-boom)
-- [High stress may make ‘broken heart syndrome’ more likely, study finds](https://www.theguardian.com/science/2021/jun/21/high-stress-may-make-broken-heart-syndrome-more-likely-takotsubo-cardiomyopathy)
-- [Civic life is under assault – theatres can play a vital role in restoring it | Dan Hutton](https://www.theguardian.com/stage/2021/jun/21/theatre-change-civic-function-dan-hutton)
-- [Team GB cyclists target winning ‘in the right way’ at Tokyo Olympics](https://www.theguardian.com/sport/2021/jun/21/team-gb-cyclists-target-winning-in-the-right-way-at-tokyo-olympics)
+- [Do we have to learn to live with Covid-19? – podcast](https://www.theguardian.com/news/audio/2021/jun/22/do-we-have-to-learn-to-live-with-covid-19-podcast)
+- [Raiders’ Carl Nassib becomes first active NFL player to come out as gay](https://www.theguardian.com/sport/2021/jun/21/nfl-raiders-carl-nassib-comes-out-as-gay)
+- [Denmark’s fairytale and Netherlands in it to win it – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/22/denmark-netherlands-austria-england-scotland-euro-2020-football-daily)
+- [The Mother Load review – moving audio play gives birth to all the feelings](https://www.theguardian.com/stage/2021/jun/22/the-mother-load-review-audio-drama-lynne-radley)
+- [Drinking coffee may cut risk of chronic liver disease, study suggests](https://www.theguardian.com/science/2021/jun/22/drinking-coffee-may-cut-risk-of-chronic-liver-disease-study-suggests)
+- [Met police makes second arrest after BBC’s Nick Watt confronted on street](https://www.theguardian.com/uk-news/2021/jun/22/met-police-makes-second-arrest-after-bbcs-nick-watt-confronted-on-street)
+- [UK aid cut behind $284m fall in global  humanitarian spending](https://www.theguardian.com/global-development/2021/jun/22/uk-aid-cut-behind-284m-fall-in-global-humanitarian-spending)
+- [UN warns of worst ‘cascade of human rights setbacks in our lifetimes’](https://www.theguardian.com/world/2021/jun/21/un-warns-of-worst-cascade-of-human-rights-setbacks-in-our-lifetimes)
+- [Mexico border city rocked as weekend of gang violence leaves 19 dead](https://www.theguardian.com/world/2021/jun/21/mexico-reynosa-gang-violence)
+- [Covid-hit industries will need extra £50m after furlough ends, says Labour](https://www.theguardian.com/business/2021/jun/21/covid-hit-industries-will-need-extra-50m-after-furlough-ends-says-labour)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

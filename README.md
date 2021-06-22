@@ -421,6 +421,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending, June 21, 2021 – NFTs value will plummet; Facebook’s worried about losing business; Apple silicon ruffles competition](https://www.itworldcanada.com/article/hashtag-trending-june-21-2021-nfts-value-will-plummet-facebooks-worried-about-losing-business-apple-silicon-ruffles-competition/454956)
+- [Cyber Security Today, June 21, 2021 – Fake Darkside group threatens companies, Darkside affiliate group hits security camera maker, help from Google for software developers and more](https://www.itworldcanada.com/article/cyber-security-today-june-21-2021-fake-darkside-group-threatens-companies-darkside-affiliate-group-hits-security-camera-maker-help-from-google-for-software-developers-and-more/454943)
 - [Cyber Security Today, Week in Review for June 18, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-18-2021/454823)
 - [St. John’s has faster internet than Toronto and Vancouver, says PCMag](https://www.itworldcanada.com/article/st-johns-has-faster-internet-than-toronto-and-vancouver-says-pcmag/454907)
 - [Proposed Ontario privacy law could include multi-million corporate fines](https://www.itworldcanada.com/article/proposed-ontario-privacy-law-could-include-multi-million-corporate-fines/454860)
@@ -429,8 +431,6 @@
 - [Hashtag Trending, June 18, 2021- Apple bans LGBTQ+ apps in some countries; Four day work weeks work?; Senators propose the ‘Unsubscribe Act’](https://www.itworldcanada.com/article/hashtag-trending-june-18-2021-apple-bans-lgbtq-apps-in-some-countries-four-day-work-weeks-work-senators-propose-the-unsubscribe-act/454828)
 - [Why consolidating your cybersecurity makes it stronger](https://www.itworldcanada.com/article/why-consolidating-your-cybersecurity-makes-it-stronger/454815)
 - [Hashtag Trending, June 17, 2021- Windows 11 Leaks; Amazon’s Warehouse Turnover Concerns; IBM shows off quantum power](https://www.itworldcanada.com/article/hashtag-trending-june-17-2021-windows-11-leaks-amazons-warehouse-turnover-concerns-former-tech-students-debt-forgiven/454809)
-- [Six more new features coming to Android soon](https://www.itworldcanada.com/article/six-more-new-features-coming-to-android-soon/454789)
-- [Researchers describe a ‘lucrative criminal ecosystem’ as ransomware groups buy network access](https://www.itworldcanada.com/article/researchers-describe-a-lucrative-criminal-ecosystem-as-ransomware-groups-buy-network-access/454769)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

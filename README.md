@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple's Focus: What does it do and how does it work?](https://www.computerworld.com/article/3622592/apples-focus-what-does-it-do-and-how-does-it-work.html#tk.rss_all)
+- [12 hidden Pixel superpowers](https://www.computerworld.com/article/3622244/pixel-superpowers.html#tk.rss_all)
+- [How to find and keep happy workers](https://www.computerworld.com/article/3622278/how-to-find-and-keep-happy-workers.html#tk.rss_all)
+- [Before we get Windows 11, can Microsoft fix Windows 10?](https://www.computerworld.com/article/3622458/before-we-get-windows-11-can-microsoft-fix-windows-10.html#tk.rss_all)
 - [Microsoft pushes Fluid to boost productivity in Teams, Outlook, and OneNote](https://www.computerworld.com/article/3622589/microsoft-pushes-fluid-to-boost-productivity-in-teams-outlook-and-onenote.html#tk.rss_all)
 - [Apple’s SharePlay vision: Too little, too late?](https://www.computerworld.com/article/3622279/apples-shareplay-vision-too-little-too-late.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [‘Chrome OS’ on any device: Deploying CloudReady in the enterprise](https://www.computerworld.com/article/3619879/chrome-os-on-any-device-deploying-cloudready-in-the-enterprise.html#tk.rss_all)
 - [The future of work is hybrid and remote](https://www.computerworld.com/article/3622356/the-future-of-work-is-hybrid-and-remote.html#tk.rss_all)
-- [Cisco and remote-work lessons learned in education during the pandemic](https://www.computerworld.com/article/3622315/cisco-and-remote-work-lessons-learned-in-education-during-the-pandemic.html#tk.rss_all)
-- [The evolution of iOS](https://www.computerworld.com/article/2975868/the-evolution-of-ios.html#tk.rss_all)
-- [Get ready for the next wave of virtual meetings](https://www.computerworld.com/article/3622019/get-ready-for-the-next-wave-of-virtual-meetings.html#tk.rss_all)
-- [Tech’s growth leaves Black professionals further behind](https://www.computerworld.com/article/3622269/techs-growth-leaves-black-professionals-further-behind.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

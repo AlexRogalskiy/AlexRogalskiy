@@ -221,7 +221,7 @@
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3f&#x2F;49&#x2F;24&#x2F;3f49249f8009ecef7ffd22c8a33278b4.jpg" alt="Word of the Day is a farraginous collection of words. Which one from 2021 is your favorite so far? Click to get example sentences and more." />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;a0&#x2F;2d&#x2F;04a02d3cbd7b936a50ecf66e7dc3f988.jpg" alt="Do you have plans to estivate somewhere cool? Click to get more summer words and learn more about today&#39;s Word of the Day." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;04&#x2F;a0&#x2F;2d&#x2F;04a02d3cbd7b936a50ecf66e7dc3f988.jpg" alt="Do you have plans to estivate somewhere cool? Click to get more summer words and learn more about today&#39;s Word of the Day. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;e3&#x2F;44&#x2F;db&#x2F;e344db44a97efd295d934250f955e0d3.jpg" alt="Nothing compares to this #WordOfTheDay. It’s nonpareil. Learn how to say it at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;6a&#x2F;da&#x2F;0f&#x2F;6ada0fdf56e0a940b7f43b5bc1b063ed.jpg" alt="This is cause for celebration. Prothalamion is the Word of the Day. Learn more at Dictionary.com. " />
     </p>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>23°C (<i>clear sky</i>), humidity: 77%, pressure: 1015 (mbar), wind: /south/ 3 (m/s), cloudy: 0%</b>
+        <b>24°C (<i>clear sky</i>), humidity: 76%, pressure: 1015 (mbar), wind: /south/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:36 am</b> and sets at <b>22:25 pm</b>.
     </p>

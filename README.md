@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Do we have to learn to live with Covid-19? – podcast](https://www.theguardian.com/news/audio/2021/jun/22/do-we-have-to-learn-to-live-with-covid-19-podcast)
-- [Raiders’ Carl Nassib becomes first active NFL player to come out as gay](https://www.theguardian.com/sport/2021/jun/21/nfl-raiders-carl-nassib-comes-out-as-gay)
-- [Denmark’s fairytale and Netherlands in it to win it – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/22/denmark-netherlands-austria-england-scotland-euro-2020-football-daily)
-- [The Mother Load review – moving audio play gives birth to all the feelings](https://www.theguardian.com/stage/2021/jun/22/the-mother-load-review-audio-drama-lynne-radley)
-- [Drinking coffee may cut risk of chronic liver disease, study suggests](https://www.theguardian.com/science/2021/jun/22/drinking-coffee-may-cut-risk-of-chronic-liver-disease-study-suggests)
-- [Met police makes second arrest after BBC’s Nick Watt confronted on street](https://www.theguardian.com/uk-news/2021/jun/22/met-police-makes-second-arrest-after-bbcs-nick-watt-confronted-on-street)
-- [UK aid cut behind $284m fall in global  humanitarian spending](https://www.theguardian.com/global-development/2021/jun/22/uk-aid-cut-behind-284m-fall-in-global-humanitarian-spending)
-- [UN warns of worst ‘cascade of human rights setbacks in our lifetimes’](https://www.theguardian.com/world/2021/jun/21/un-warns-of-worst-cascade-of-human-rights-setbacks-in-our-lifetimes)
-- [Mexico border city rocked as weekend of gang violence leaves 19 dead](https://www.theguardian.com/world/2021/jun/21/mexico-reynosa-gang-violence)
-- [Covid-hit industries will need extra £50m after furlough ends, says Labour](https://www.theguardian.com/business/2021/jun/21/covid-hit-industries-will-need-extra-50m-after-furlough-ends-says-labour)
+- [Police corruption and the unsolved murder of Daniel Morgan – podcast](https://www.theguardian.com/news/audio/2021/jun/23/police-corruption-unsolved-murder-daniel-morgan-podcast)
+- [Scotland bow out as England advance in top spot – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/23/england-scotland-czech-croatia-euro-2020-football-daily)
+- [‘Horrific’: Singaporean woman jailed for 30 years after maid tortured and killed](https://www.theguardian.com/world/2021/jun/23/horrific-singaporean-woman-jailed-for-30-years-after-maid-tortured-and-killed)
+- [US takes down dozens of Iran-linked news sites, accusing them of disinformation](https://www.theguardian.com/world/2021/jun/23/us-takes-down-dozens-of-iran-linked-news-sites-accusing-them-of-disinformation)
+- [Northern English cities faced ‘avalanche’ of debt during Covid – study](https://www.theguardian.com/world/2021/jun/22/northern-english-cities-faced-avalanche-of-debt-during-covid-study)
+- [Moscow sees hottest June day for 120 years with more to come](https://www.theguardian.com/world/2021/jun/23/moscow-sees-hottest-june-day-for-120-years-with-more-to-come)
+- [Landmark voting rights bill defeated in Senate despite Democratic unity](https://www.theguardian.com/us-news/2021/jun/22/voting-rights-bill-joe-biden-senate-democrats)
+- [New £50 note featuring Alan Turing goes into circulation](https://www.theguardian.com/money/2021/jun/23/new-50-note-alan-turing-uk-security-features)
+- [Makeup fails to solve mystery of why jumping spiders have back stripes](https://www.theguardian.com/environment/2021/jun/23/makeup-mystery-jumping-spiders-back-stripes)
+- [Ministers will push to privatise Channel 4 in TV shake-up](https://www.theguardian.com/media/2021/jun/23/ministers-will-push-to-privatise-channel-4-in-tv-shake-up)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

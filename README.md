@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: At this point, are PUT and PATCH helpful?](https://news.ycombinator.com/item?id=27587283)
-- [Simulating the burn-up during atmospheric reentry of bulk items on a satellite](https://www.esa.int/ESA_Multimedia/Images/2021/06/Drive_to_destruction)
-- [America Almost Made a New Route 66 with 22 Nuclear Bombs](https://www.thedrive.com/news/40221/that-time-the-united-states-almost-made-a-new-route-66-with-nuclear-bombs)
-- [Kaplan–Meier Estimator](https://en.wikipedia.org/wiki/Kaplan–Meier_estimator)
-- [Rejecting Test Surveillance in Higher Education](https://poseidon01.ssrn.com/delivery.php?ID=961082017006096125115110082096108127056008077033052025098097118104082078073001075064102023115106011025018102015118100030069121000073035049088099087002030079104107084071081037089091075005064083087010064091118027104093099065118119115075116006065068121121&EXT=pdf&INDEX=TRUE)
-- [Irc.com is now owned by Freenode](http://irc.irc.com)
-- [Taiwan investigating 58 deaths after vaccinations over 3 days](https://www.taiwannews.com.tw/en/news/4228579)
-- [Someone has recreated (some) of my site on the same domain – can I do anything?](https://law.stackexchange.com/q/66948/38708)
-- [ShazamKit](https://developer.apple.com/documentation/shazamkit)
-- [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
+- [Sneak Preview of Brave Search – A Challenger to Google](https://www.searchenginejournal.com/sneak-preview-of-brave-search-a-challenger-to-google/410680/)
+- [A Little Book on Http4s](https://gumroad.com/l/bNXew)
+- [“Solar Power Around the Clock” report by German Association for CSP (DCSP)](https://www.solarpaces.org/solar-power-around-the-clock-report-released-by-the-german-association-for-concentrated-solar-power-dcsp/)
+- [FTC is reportedly poised to probe Amazon’s MGM acquisition](https://www.theverge.com/2021/6/22/22546106/ftc-investigation-amazon-mgm-acquisition)
+- [Lossy Compression for Lossless Prediction](https://arxiv.org/abs/2106.10800)
+- [MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images](https://neuralbodies.github.io/metavatar/)
+- [Resolving transaction deadlocks on ActiveRecord associations](https://www.aha.io/engineering/articles/transaction-deadlocks-in-activerecord)
+- [Ranked Choice Voting Is a Bad Choice(2019)](https://www.heritage.org/election-integrity/report/ranked-choice-voting-bad-choice)
+- [Exotic superconductors: The secret that wasn't there](https://phys.org/news/2021-06-exotic-superconductors-secret-wasnt.html)
+- [Ask HN: How to get back into reading books?](https://news.ycombinator.com/item?id=27599900)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

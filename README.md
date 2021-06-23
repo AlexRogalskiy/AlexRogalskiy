@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Certs](https://www.reddit.com/r/InformationTechnology/comments/o639x0/certs/)
+- [Women in IT](https://www.reddit.com/r/InformationTechnology/comments/o6345x/women_in_it/)
+- [What Should I Learn Next](https://www.reddit.com/r/InformationTechnology/comments/o5xdop/what_should_i_learn_next/)
+- [Will networking be replaced by cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/o5wmpi/will_networking_be_replaced_by_cloud_computing/)
+- [Masters in I.T degree: taking the comptia + in a month doable?](https://www.reddit.com/r/InformationTechnology/comments/o5qpb6/masters_in_it_degree_taking_the_comptia_in_a/)
+- [What kind of advanced degree (MS/PhD) can a person with a BS Information Technology get?](https://www.reddit.com/r/InformationTechnology/comments/o5e6od/what_kind_of_advanced_degree_msphd_can_a_person/)
+- [Monitor Black Screen, PC Still running](https://www.reddit.com/r/InformationTechnology/comments/o5dox0/monitor_black_screen_pc_still_running/)
+- [Getting rid of latency when connecting to remote desktop from overseas](https://www.reddit.com/r/InformationTechnology/comments/o5djot/getting_rid_of_latency_when_connecting_to_remote/)
 - [Looking to change careers from Microbiology, is CompTIA IT Fundamentals a good place to start?](https://www.reddit.com/r/InformationTechnology/comments/o5ansy/looking_to_change_careers_from_microbiology_is/)
 - [You know you been doing IT for too long when....](https://www.reddit.com/r/InformationTechnology/comments/o4cfk1/you_know_you_been_doing_it_for_too_long_when/)
-- [IT Admin Help](https://www.reddit.com/r/InformationTechnology/comments/o492m1/it_admin_help/)
-- [Protip: Do NOT make yourself too available as an IT professional](https://www.reddit.com/r/InformationTechnology/comments/o433da/protip_do_not_make_yourself_too_available_as_an/)
-- [How does one 'practice' their IT skills?](https://www.reddit.com/r/InformationTechnology/comments/o42ogi/how_does_one_practice_their_it_skills/)
-- [Question for the IT conesuoers](https://www.reddit.com/r/InformationTechnology/comments/o3w9nu/question_for_the_it_conesuoers/)
-- [Interviewing for my first IT job - any pointers?](https://www.reddit.com/r/InformationTechnology/comments/o3tpre/interviewing_for_my_first_it_job_any_pointers/)
-- [Virtual Machines](https://www.reddit.com/r/InformationTechnology/comments/o3pz81/virtual_machines/)
-- [Is CompTIA A+ self-paced? Or is there a time limit to finish the courses?](https://www.reddit.com/r/InformationTechnology/comments/o3iqcg/is_comptia_a_selfpaced_or_is_there_a_time_limit/)
-- [The Bad Things about Working in IT](https://www.reddit.com/r/InformationTechnology/comments/o38234/the_bad_things_about_working_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK public largely supportive of Amazon workers unionising](https://www.computerweekly.com/news/252502758/UK-public-largely-supportive-of-Amazon-workers-unionising)
-- [Opera house shuns cloud for Nutanix and Rubrik hyper-converged infrastructure](https://www.computerweekly.com/news/252502756/Opera-house-shuns-cloud-for-Nutanix-and-Rubrik-hyper-converged-infrastructure)
-- [Parliamentary devices left in taxis, buses, trains and pubs](https://www.computerweekly.com/news/252502749/Parliamentary-devices-left-in-taxis-buses-trains-and-pubs)
-- [Exor International showcases Industry 4.0 smart factory](https://www.computerweekly.com/news/252502744/Exor-International-showcases-Industry-40-smart-factory)
-- [NHSX set to unveil post-Covid data strategy](https://www.computerweekly.com/news/252502736/NHSX-set-to-unveil-post-Covid-data-strategy)
-- [Post Office pays 400 subpostmasters compensation for losses caused by computer errors](https://www.computerweekly.com/news/252502738/Post-Office-pays-400-subpostmasters-compensation-for-losses-caused-by-computer-errors)
-- [Best practices for secure printing](https://www.computerweekly.com/feature/Best-practices-for-secure-printing)
-- [Philanthropists join forces to create $1bn distributed green energy platform to fight climate change](https://www.computerweekly.com/news/252502734/Philanthropists-join-forces-to-create-1bn-distributed-green-energy-platform-to-fight-climate-change)
-- [NHS App reaches six million users, thanks to Covid vaccine feature](https://www.computerweekly.com/news/252502675/NHS-app-reaches-six-million-thanks-to-Covid-vaccine-feature)
-- [Digital banks could dominate once baby boomers pass on their wealth](https://www.computerweekly.com/news/252502677/Digital-banks-could-dominate-once-baby-boomers-pass-on-their-wealth)
+- [Oracle debuts Support Rewards programme to accelerate enterprise cloud migrations](https://www.computerweekly.com/news/252502831/Oracle-debuts-Support-Rewards-programme-to-accelerate-enterprise-cloud-migrations)
+- [SonicWall sees 226.3 million ransomware attack attempts in May](https://www.computerweekly.com/news/252502854/SonicWall-sees-2263-million-ransomware-attack-attempts-in-May)
+- [EU regulators call for ban on biometrics in public spaces](https://www.computerweekly.com/news/252502853/EU-regulators-call-for-ban-on-biometrics-in-public-spaces)
+- [Green Mountain signs datacentre waste heat reuse agreement with Norwegian lobster farm](https://www.computerweekly.com/news/252502844/Green-Mountain-signs-datacentre-waste-heat-reuse-agreement-with-Norwegian-Lobster-Farm)
+- [Post-pandemic IT: Are virtual datacentre tours here to stay?](https://www.computerweekly.com/feature/Post-pandemic-IT-Are-virtual-datacentre-tours-here-to-stay)
+- [CDEI: UK public wants clear algorithmic transparency policies](https://www.computerweekly.com/news/252502821/CDEI-UK-public-wants-clear-algorithmic-transparency-policies)
+- [Cloudflare announces new integrations with Microsoft, others](https://www.computerweekly.com/news/252502743/Cloudflare-announces-new-integrations-with-Microsoft-others)
+- [European ‘chat control’ plans in the name of ‘child safety’ threaten end-to-end encryption](https://www.computerweekly.com/opinion/European-chat-control-child-safety-plans-threaten-end-to-end-encryption)
+- [NHSX policy document focuses on patients and data sharing](https://www.computerweekly.com/news/252502820/NHSX-policy-document-focuses-on-patient-and-data-sharing)
+- [Nautilus Data Technologies CEO on building waterborne datacentres in the name of sustainability](https://www.computerweekly.com/feature/Nautilus-Data-Technologies-CEO-on-building-waterborne-datacentres-in-the-name-of-sustainability)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

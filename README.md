@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
-- [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
-- [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
-- [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
-- [SproutLife – Evolving version of Conway’s Game of Life](https://github.com/ShprAlex/SproutLife)
-- [Kats: One stop shop for time series analysis in Python](https://facebookresearch.github.io/Kats/)
-- [Apple Daily to shut in days unless government agrees to plea to unfreeze assets](https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4)
-- [Turning a Classic CRT into a Smart TV](https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html)
-- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
-- [Apple is building the metaverse substrate](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
+- [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
+- [The Teamsters Announce Coordinated Nationwide Project to Unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
+- [The string type is broken (2013)](https://mortoray.com/2013/11/27/the-string-type-is-broken/)
+- [Toxoplasmosis – A Global Threat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/)
+- [Learn C and build your own Lisp (2014)](http://buildyourownlisp.com/)
+- [Effects of cat ownership on the gut microbiota of owners](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133)
+- [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs)
+- [What is ranked-choice voting and why is New York using it?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
+- [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
+- [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

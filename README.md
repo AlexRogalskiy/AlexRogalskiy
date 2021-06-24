@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
+- [Just signed and accepted an offer for a Tier 1 position, salary. No previous experience in the field or certifications AMA](https://www.reddit.com/r/InformationTechnology/comments/o6lflx/just_signed_and_accepted_an_offer_for_a_tier_1/)
+- [Help Desk](https://www.reddit.com/r/InformationTechnology/comments/o6kopm/help_desk/)
+- [Can bits be comprised by outside threats? And if so, what can they do with it?](https://www.reddit.com/r/InformationTechnology/comments/o67bbi/can_bits_be_comprised_by_outside_threats_and_if/)
 - [Certs](https://www.reddit.com/r/InformationTechnology/comments/o639x0/certs/)
 - [Women in IT](https://www.reddit.com/r/InformationTechnology/comments/o6345x/women_in_it/)
 - [What Should I Learn Next](https://www.reddit.com/r/InformationTechnology/comments/o5xdop/what_should_i_learn_next/)
 - [Will networking be replaced by cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/o5wmpi/will_networking_be_replaced_by_cloud_computing/)
 - [Masters in I.T degree: taking the comptia + in a month doable?](https://www.reddit.com/r/InformationTechnology/comments/o5qpb6/masters_in_it_degree_taking_the_comptia_in_a/)
 - [What kind of advanced degree (MS/PhD) can a person with a BS Information Technology get?](https://www.reddit.com/r/InformationTechnology/comments/o5e6od/what_kind_of_advanced_degree_msphd_can_a_person/)
-- [Monitor Black Screen, PC Still running](https://www.reddit.com/r/InformationTechnology/comments/o5dox0/monitor_black_screen_pc_still_running/)
-- [Getting rid of latency when connecting to remote desktop from overseas](https://www.reddit.com/r/InformationTechnology/comments/o5djot/getting_rid_of_latency_when_connecting_to_remote/)
-- [Looking to change careers from Microbiology, is CompTIA IT Fundamentals a good place to start?](https://www.reddit.com/r/InformationTechnology/comments/o5ansy/looking_to_change_careers_from_microbiology_is/)
-- [You know you been doing IT for too long when....](https://www.reddit.com/r/InformationTechnology/comments/o4cfk1/you_know_you_been_doing_it_for_too_long_when/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

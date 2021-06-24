@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [More Remote Work Leads to More Employee Surveillance](https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud](https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Retain Your IT Talent](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Automation Is a Game Changer, Not a Job Killer](https://www.informationweek.com/big-data/ai-machine-learning/automation-is-a-game-changer-not-a-job-killer/a/d-id/1341339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Avoid the Leading Cloud Migration Mistakes](https://www.informationweek.com/cloud/how-to-avoid-the-leading-cloud-migration-mistakes/a/d-id/1341338?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [AIOps in the Cloud? Not So Fast](https://www.informationweek.com/cloud/aiops-in-the-cloud-not-so-fast/a/d-id/1341317?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Cloud Outage Fallout: Should You Brace for Future Disruption?](https://www.informationweek.com/cloud/cloud-outage-fallout-should-you-brace-for-future-disruption/d/d-id/1341308?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The CIO's Role in Innovation](https://www.informationweek.com/strategic-cio/the-cios-role-in-innovation/a/d-id/1341284?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [University CIO Modernizes Networking Infrastructure](https://www.informationweek.com/strategic-cio/university-cio-modernizes-networking-infrastructure/d/d-id/1341309?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [3 Ways CIOs Can Enable Innovation Within a Hybrid Workforce](https://www.informationweek.com/strategic-cio/3-ways-cios-can-enable-innovation-within-a-hybrid-workforce/a/d-id/1341281?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

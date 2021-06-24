@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_all)
+- [Simplify machine learning with Azure Applied AI Services](https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html#tk.rss_all)
+- [How to avoid redundant DI code in ASP.NET Core](https://www.infoworld.com/article/3622463/how-to-avoid-redundant-di-code-in-aspnet-core.html#tk.rss_all)
+- [Get started with Numba](https://www.infoworld.com/article/3622013/get-started-with-numba.html#tk.rss_all)
+- [What is devops? Bringing dev and ops together to build better software](https://www.infoworld.com/article/3215275/what-is-devops-transforming-software-development.html#tk.rss_all)
 - [Next.js 11 boasts faster startup](https://www.infoworld.com/article/3622464/nextjs-11-boasts-faster-startup.html#tk.rss_all)
 - [Are cloud-native ops tools right for multicloud?](https://www.infoworld.com/article/3622362/are-cloud-native-ops-tools-right-for-multicloud.html#tk.rss_all)
 - [Microsoft previews 64-bit Visual Studio 2022 IDE](https://www.infoworld.com/article/3622298/microsoft-previews-64-bit-visual-studio-2022-ide.html#tk.rss_all)
 - [3 reasons centralizing your data is a bad idea](https://www.infoworld.com/article/3622240/3-reasons-centralizing-your-data-is-a-bad-idea.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [5 AI startups leading MLops](https://www.infoworld.com/article/3622237/5-ai-startups-leading-mlops.html#tk.rss_all)
-- [The wrong way to think about IT](https://www.infoworld.com/article/3621998/the-wrong-way-to-think-about-it.html#tk.rss_all)
-- [3 signs of an overengineered enterprise cloud solution](https://www.infoworld.com/article/3622450/3-signs-of-an-overengineered-enterprise-cloud-solution.html#tk.rss_all)
-- [Eclipse launches group to shepherd popular Java IDE](https://www.infoworld.com/article/3622412/eclipse-launches-group-to-shepherd-popular-java-ide.html#tk.rss_all)
-- [Why developers should use Apache Pulsar](https://www.infoworld.com/article/3619272/why-developers-should-use-apache-pulsar.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

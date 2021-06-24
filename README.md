@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sneak Preview of Brave Search – A Challenger to Google](https://www.searchenginejournal.com/sneak-preview-of-brave-search-a-challenger-to-google/410680/)
-- [A Little Book on Http4s](https://gumroad.com/l/bNXew)
-- [“Solar Power Around the Clock” report by German Association for CSP (DCSP)](https://www.solarpaces.org/solar-power-around-the-clock-report-released-by-the-german-association-for-concentrated-solar-power-dcsp/)
-- [FTC is reportedly poised to probe Amazon’s MGM acquisition](https://www.theverge.com/2021/6/22/22546106/ftc-investigation-amazon-mgm-acquisition)
-- [Lossy Compression for Lossless Prediction](https://arxiv.org/abs/2106.10800)
-- [MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images](https://neuralbodies.github.io/metavatar/)
-- [Resolving transaction deadlocks on ActiveRecord associations](https://www.aha.io/engineering/articles/transaction-deadlocks-in-activerecord)
-- [Ranked Choice Voting Is a Bad Choice(2019)](https://www.heritage.org/election-integrity/report/ranked-choice-voting-bad-choice)
-- [Exotic superconductors: The secret that wasn't there](https://phys.org/news/2021-06-exotic-superconductors-secret-wasnt.html)
-- [Ask HN: How to get back into reading books?](https://news.ycombinator.com/item?id=27599900)
+- [Sir Sidney Smith – Nemesis of Napoleon Bonaparte](https://en.wikipedia.org/wiki/Sidney_Smith_(Royal_Navy_officer))
+- [Pulling GitHub into the (Linux) kernel process](https://lwn.net/SubscriberLink/860607/03f83a79d9946e79/)
+- [Annotating Apple’s Anti-Sideloading White Paper](https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper)
+- [Real-Time Neural Radiance Caching for Path Tracing](https://arxiv.org/abs/2106.12372)
+- [One in twenty workers are in bullshit jobs – far fewer than previously thought](https://www.cam.ac.uk/research/news/one-in-twenty-workers-are-in-useless-jobs-far-fewer-than-previously-thought)
+- [LegoFormer: Transformers for Block-by-Block Multi-View 3D Reconstruction](https://arxiv.org/abs/2106.12102)
+- [Cartoon-StyleGan2: Fine-Tuning StyleGAN2 for Cartoon Face Generation](https://github.com/happy-jihye/Cartoon-StyleGan2)
+- [Isaac Newton about 2060](https://www.openculture.com/2015/10/in-1704-isaac-newton-predicts-the-world-will-end-in-2060.html)
+- [C++ Sith Lord](https://github.com/codesmith-fi)
+- [Discover and be inspired by beautiful webapp designs](https://webframe.xyz/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

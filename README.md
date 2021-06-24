@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Leveraging HPDA to deliver new levels of data-driven innovation](https://www.computerworld.com/article/3622909/leveraging-hpda-to-deliver-new-levels-of-data-driven-innovation.html#tk.rss_all)
+- [Apple: Sideloading apps will undermine iOS security](https://www.computerworld.com/article/3622416/apple-sideloading-apps-will-undermine-ios-security.html#tk.rss_all)
+- [Back to the '90s: Boutique browser Vivaldi now offers its own internet suite](https://www.computerworld.com/article/3622266/boutique-browser-vivaldi-turns-back-clock-offers-internet-suite-with-email-client-calendar-rss-read.html#tk.rss_all)
 - [Apple's Focus: What does it do and how does it work?](https://www.computerworld.com/article/3622592/apples-focus-what-does-it-do-and-how-does-it-work.html#tk.rss_all)
 - [12 hidden Pixel superpowers](https://www.computerworld.com/article/3622244/pixel-superpowers.html#tk.rss_all)
 - [How to find and keep happy workers](https://www.computerworld.com/article/3622278/how-to-find-and-keep-happy-workers.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Microsoft pushes Fluid to boost productivity in Teams, Outlook, and OneNote](https://www.computerworld.com/article/3622589/microsoft-pushes-fluid-to-boost-productivity-in-teams-outlook-and-onenote.html#tk.rss_all)
 - [Apple’s SharePlay vision: Too little, too late?](https://www.computerworld.com/article/3622279/apples-shareplay-vision-too-little-too-late.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [‘Chrome OS’ on any device: Deploying CloudReady in the enterprise](https://www.computerworld.com/article/3619879/chrome-os-on-any-device-deploying-cloudready-in-the-enterprise.html#tk.rss_all)
-- [The future of work is hybrid and remote](https://www.computerworld.com/article/3622356/the-future-of-work-is-hybrid-and-remote.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

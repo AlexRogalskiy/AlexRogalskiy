@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Police corruption and the unsolved murder of Daniel Morgan – podcast](https://www.theguardian.com/news/audio/2021/jun/23/police-corruption-unsolved-murder-daniel-morgan-podcast)
-- [Scotland bow out as England advance in top spot – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/23/england-scotland-czech-croatia-euro-2020-football-daily)
-- [‘Horrific’: Singaporean woman jailed for 30 years after maid tortured and killed](https://www.theguardian.com/world/2021/jun/23/horrific-singaporean-woman-jailed-for-30-years-after-maid-tortured-and-killed)
-- [US takes down dozens of Iran-linked news sites, accusing them of disinformation](https://www.theguardian.com/world/2021/jun/23/us-takes-down-dozens-of-iran-linked-news-sites-accusing-them-of-disinformation)
-- [Northern English cities faced ‘avalanche’ of debt during Covid – study](https://www.theguardian.com/world/2021/jun/22/northern-english-cities-faced-avalanche-of-debt-during-covid-study)
-- [Moscow sees hottest June day for 120 years with more to come](https://www.theguardian.com/world/2021/jun/23/moscow-sees-hottest-june-day-for-120-years-with-more-to-come)
-- [Landmark voting rights bill defeated in Senate despite Democratic unity](https://www.theguardian.com/us-news/2021/jun/22/voting-rights-bill-joe-biden-senate-democrats)
-- [New £50 note featuring Alan Turing goes into circulation](https://www.theguardian.com/money/2021/jun/23/new-50-note-alan-turing-uk-security-features)
-- [Makeup fails to solve mystery of why jumping spiders have back stripes](https://www.theguardian.com/environment/2021/jun/23/makeup-mystery-jumping-spiders-back-stripes)
-- [Ministers will push to privatise Channel 4 in TV shake-up](https://www.theguardian.com/media/2021/jun/23/ministers-will-push-to-privatise-channel-4-in-tv-shake-up)
+- [How meme stars of the early internet are striking it rich with NFTs - podcast](https://www.theguardian.com/news/audio/2021/jun/24/how-meme-stars-early-internet-striking-it-rich-nfts-podcast)
+- [‘I deserve to have a life’: Britney Spears asks court to end conservatorship](https://www.theguardian.com/music/2021/jun/22/britney-spears-conservatorship-testimony)
+- [UK man jailed for sharing extremist videos, including Christchurch attack](https://www.theguardian.com/world/2021/jun/24/michael-nugent-uk-man-jailed-terrorism-christchurch-sharing-extremist-videos)
+- [Brazil environment minister quits amid inquiry into illegal Amazon logging](https://www.theguardian.com/world/2021/jun/24/brazil-environment-minister-quits-amid-inquiry-into-amazon-logging)
+- [Dramatic end to Group F as England get Germany - Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/24/dramatic-end-to-group-f-as-england-get-germany-euro-2020-football-daily)
+- [Half of UK university students think degree is poor value for money](https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money)
+- [W Series returns with innovative team structure and alongside Formula One](https://www.theguardian.com/sport/2021/jun/24/w-series-returns-with-innovative-team-structure-and-alongside-formula-one)
+- [UK policies will not deliver emission cuts pledge, says climate adviser](https://www.theguardian.com/environment/2021/jun/24/uk-policies-will-not-deliver-emission-cuts-pledge-says-climate-adviser)
+- [Giles Deacon creates ‘work from anywhere’ fashion collection](https://www.theguardian.com/fashion/2021/jun/24/giles-deacon-creates-work-from-anywhere-fashion-collection)
+- [More than 2m adults in England have had long Covid for over 12 weeks – study](https://www.theguardian.com/society/2021/jun/24/more-than-2m-adults-in-england-have-had-long-covid-for-over-12-weeks-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

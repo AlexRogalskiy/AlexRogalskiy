@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
-- [The Teamsters Announce Coordinated Nationwide Project to Unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
-- [The string type is broken (2013)](https://mortoray.com/2013/11/27/the-string-type-is-broken/)
-- [Toxoplasmosis – A Global Threat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/)
-- [Learn C and build your own Lisp (2014)](http://buildyourownlisp.com/)
-- [Effects of cat ownership on the gut microbiota of owners](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133)
-- [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs)
-- [What is ranked-choice voting and why is New York using it?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
-- [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
-- [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
+- [Ask HN: Notion is withholding my company data, what can I do?](https://news.ycombinator.com/item?id=27612894)
+- [Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’](https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/)
+- [Meritocracy and Its Defects](https://goldhaber.org/meritocracy-and-its-defects/)
+- [P4: Open-Source Programming Language for Protocol-Independent Packet Processing](https://p4.org/)
+- [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=hn)
+- [The Health Benefits of Coffee](https://www.nytimes.com/2021/06/14/well/eat/coffee-health-benefits.html)
+- [Lego Island Rebuilder](https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder)
+- [“Older unlisted videos will be made private unless you opt out”](https://support.google.com/youtube/answer/9230970)
+- [The Ascendant Steppe: A brisk tour of the early history of Central Asia](https://www.laphamsquarterly.org/roundtable/ascendant-steppe)
+- [Unravelling the enigma of bird magnetoreception](https://www.nature.com/articles/d41586-021-01596-6)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

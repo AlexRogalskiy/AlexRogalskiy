@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Oracle debuts Support Rewards programme to accelerate enterprise cloud migrations](https://www.computerweekly.com/news/252502831/Oracle-debuts-Support-Rewards-programme-to-accelerate-enterprise-cloud-migrations)
-- [SonicWall sees 226.3 million ransomware attack attempts in May](https://www.computerweekly.com/news/252502854/SonicWall-sees-2263-million-ransomware-attack-attempts-in-May)
-- [EU regulators call for ban on biometrics in public spaces](https://www.computerweekly.com/news/252502853/EU-regulators-call-for-ban-on-biometrics-in-public-spaces)
-- [Green Mountain signs datacentre waste heat reuse agreement with Norwegian lobster farm](https://www.computerweekly.com/news/252502844/Green-Mountain-signs-datacentre-waste-heat-reuse-agreement-with-Norwegian-Lobster-Farm)
-- [Post-pandemic IT: Are virtual datacentre tours here to stay?](https://www.computerweekly.com/feature/Post-pandemic-IT-Are-virtual-datacentre-tours-here-to-stay)
-- [CDEI: UK public wants clear algorithmic transparency policies](https://www.computerweekly.com/news/252502821/CDEI-UK-public-wants-clear-algorithmic-transparency-policies)
-- [Cloudflare announces new integrations with Microsoft, others](https://www.computerweekly.com/news/252502743/Cloudflare-announces-new-integrations-with-Microsoft-others)
-- [European ‘chat control’ plans in the name of ‘child safety’ threaten end-to-end encryption](https://www.computerweekly.com/opinion/European-chat-control-child-safety-plans-threaten-end-to-end-encryption)
-- [NHSX policy document focuses on patients and data sharing](https://www.computerweekly.com/news/252502820/NHSX-policy-document-focuses-on-patient-and-data-sharing)
-- [Nautilus Data Technologies CEO on building waterborne datacentres in the name of sustainability](https://www.computerweekly.com/feature/Nautilus-Data-Technologies-CEO-on-building-waterborne-datacentres-in-the-name-of-sustainability)
+- [Salomon selects on-demand GreenLake to support flexible business](https://www.computerweekly.com/news/252502902/Salomon-selects-on-demand-Greenlake-to-support-flexible-business)
+- [City of York picks Barracuda Networks for data protection](https://www.computerweekly.com/news/252502903/City-of-York-picks-Barracuda-Networks-for-data-protection)
+- [How containerisation helps VW develop car software](https://www.computerweekly.com/news/252502600/How-containerisation-helps-VW-develop-car-software)
+- [Thousands of UK IT SMEs in financial distress with 185,000 jobs at risk](https://www.computerweekly.com/news/252502898/Thousands-of-UK-IT-SMEs-in-financial-distress-with-185000-jobs-at-risk)
+- [IBM serves more AI power at Wimbledon 2021](https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021)
+- [European Union to set up new cyber response unit](https://www.computerweekly.com/news/252502897/European-Union-to-set-up-new-cyber-response-unit)
+- [Real-time analytics begins to find business vocation](https://www.computerweekly.com/feature/Real-time-analytics-begins-to-find-business-vocation)
+- [Bahrain university uses Alexa on campus](https://www.computerweekly.com/news/252502889/Bahrain-university-uses-Alexa-on-campus)
+- [Time to patch increases significantly during pandemic](https://www.computerweekly.com/news/252502887/Time-to-patch-increases-significantly-during-pandemic)
+- [UK councils reported over 700 data breaches to ICO in 2020](https://www.computerweekly.com/news/252502886/UK-councils-reported-over-700-data-breaches-to-ICO-in-2020)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Got the job: new masters grad minimal i.t experience](https://www.reddit.com/r/InformationTechnology/comments/o788jx/got_the_job_new_masters_grad_minimal_it_experience/)
+- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)
+- [HELP ME ABOUT ISO OSI STACK](https://www.reddit.com/r/InformationTechnology/comments/o7371f/help_me_about_iso_osi_stack/)
 - [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
 - [Just signed and accepted an offer for a Tier 1 position, salary. No previous experience in the field or certifications AMA](https://www.reddit.com/r/InformationTechnology/comments/o6lflx/just_signed_and_accepted_an_offer_for_a_tier_1/)
 - [Help Desk](https://www.reddit.com/r/InformationTechnology/comments/o6kopm/help_desk/)
@@ -413,9 +416,6 @@
 - [Certs](https://www.reddit.com/r/InformationTechnology/comments/o639x0/certs/)
 - [Women in IT](https://www.reddit.com/r/InformationTechnology/comments/o6345x/women_in_it/)
 - [What Should I Learn Next](https://www.reddit.com/r/InformationTechnology/comments/o5xdop/what_should_i_learn_next/)
-- [Will networking be replaced by cloud computing?](https://www.reddit.com/r/InformationTechnology/comments/o5wmpi/will_networking_be_replaced_by_cloud_computing/)
-- [Masters in I.T degree: taking the comptia + in a month doable?](https://www.reddit.com/r/InformationTechnology/comments/o5qpb6/masters_in_it_degree_taking_the_comptia_in_a/)
-- [What kind of advanced degree (MS/PhD) can a person with a BS Information Technology get?](https://www.reddit.com/r/InformationTechnology/comments/o5e6od/what_kind_of_advanced_degree_msphd_can_a_person/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

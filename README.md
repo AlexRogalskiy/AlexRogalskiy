@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The CIO's Role in Maintaining a Strong Supply Chain](https://www.informationweek.com/strategic-cio/the-cios-role-in-maintaining-a-strong-supply-chain/a/d-id/1341363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Digital Transformation is Not Magic](https://www.informationweek.com/strategic-cio/digital-business/digital-transformation-is-not-magic/a/d-id/1341365?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [More Remote Work Leads to More Employee Surveillance](https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud](https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Retain Your IT Talent](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [6 Steps Companies Can Take to Strengthen Their Cyber Strategy](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/6-steps-companies-can-take-to-strengthen-their-cyber-strategy/a/d-id/1341318?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [From AI to Teamwork: 7 Key Skills for Data Scientists](https://www.informationweek.com/big-data/from-ai-to-teamwork-7-key-skills-for-data-scientists-/d/d-id/1341330?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [AIOps in the Cloud? Not So Fast](https://www.informationweek.com/cloud/aiops-in-the-cloud-not-so-fast/a/d-id/1341317?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Cloud Outage Fallout: Should You Brace for Future Disruption?](https://www.informationweek.com/cloud/cloud-outage-fallout-should-you-brace-for-future-disruption/d/d-id/1341308?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The CIO's Role in Innovation](https://www.informationweek.com/strategic-cio/the-cios-role-in-innovation/a/d-id/1341284?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

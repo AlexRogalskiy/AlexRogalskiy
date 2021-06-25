@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sir Sidney Smith – Nemesis of Napoleon Bonaparte](https://en.wikipedia.org/wiki/Sidney_Smith_(Royal_Navy_officer))
-- [Pulling GitHub into the (Linux) kernel process](https://lwn.net/SubscriberLink/860607/03f83a79d9946e79/)
-- [Annotating Apple’s Anti-Sideloading White Paper](https://daringfireball.net/2021/06/annotating_apples_anti-sideloading_white_paper)
-- [Real-Time Neural Radiance Caching for Path Tracing](https://arxiv.org/abs/2106.12372)
-- [One in twenty workers are in bullshit jobs – far fewer than previously thought](https://www.cam.ac.uk/research/news/one-in-twenty-workers-are-in-useless-jobs-far-fewer-than-previously-thought)
-- [LegoFormer: Transformers for Block-by-Block Multi-View 3D Reconstruction](https://arxiv.org/abs/2106.12102)
-- [Cartoon-StyleGan2: Fine-Tuning StyleGAN2 for Cartoon Face Generation](https://github.com/happy-jihye/Cartoon-StyleGan2)
-- [Isaac Newton about 2060](https://www.openculture.com/2015/10/in-1704-isaac-newton-predicts-the-world-will-end-in-2060.html)
-- [C++ Sith Lord](https://github.com/codesmith-fi)
-- [Discover and be inspired by beautiful webapp designs](https://webframe.xyz/)
+- [Crushing climate impacts to hit sooner than feared: draft UN report](https://news.yahoo.com/crushing-climate-impacts-hit-sooner-010253436.html)
+- [OpenTrees: A data vis of millions of publicly maintained trees around the world](https://github.com/stevage/opentrees)
+- [Ask HN: Best resource for Angular 2 templates/libraries?](https://news.ycombinator.com/item?id=27626450)
+- [QUIC at Snap](https://eng.snap.com/quic-at-snap)
+- [Configuring nodes on chef-client run](http://hariomgaur.in/2020/11/04/runtime-vm-configuration-with-chef-client.html)
+- [Consuming from Kafka at Org Scale](http://hariomgaur.in/2021/06/06/consume-from-kafka.html)
+- [Show HN: Ziggurat event processing framework that powers Gojek](https://ziggurat.dev/)
+- [Windows 11 to move to just one feature update per year](https://www.zdnet.com/article/windows-11-to-move-to-just-one-feature-update-per-year/)
+- [Crazyguyonabike – A place for bicycle tourists and their journals](https://www.crazyguyonabike.com/)
+- [Show HN: A cringe-worthy ROS1-like interface for ROS2](https://github.com/dheera/rospy2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

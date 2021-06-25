@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cavoukian calls for more transparency in Liberal Party use of facial matching software](https://www.itworldcanada.com/article/cavoukian-calls-for-more-transparency-in-liberal-party-use-of-facial-matching-software/455106)
+- [Lenovo releases the ThinkPad X1 Extreme Gen 4 laptop](https://www.itworldcanada.com/article/lenovo-releases-the-thinkpad-x1-extreme-gen-4/455078)
+- [GreenLake takes centre stage at HPE Discover, CEO introduces Silicon on Demand with Intel](https://www.itworldcanada.com/article/greenlake-takes-centre-stage-at-hpe-discover-ceo-introduces-silicon-on-demand-with-intel/455070)
+- [Hashtag Trending, June 24, 2021- Microsoft reaches a $2 trillion market; What causes Zoom Fatigue; Bill C-10](https://www.itworldcanada.com/article/hashtag-trending-june-24-2021-microsoft-reaches-a-2-trillion-market-what-causes-zoom-fatigue-bill-c-10/455057)
 - [Rogers speeds up network development due to greater regulatory certainty](https://www.itworldcanada.com/article/rogers-speeds-up-network-development-due-to-greater-regulatory-certainty/455044)
 - [Glassdoor report says LGBTQ+ employees less satisfied at work compared to non-LGBTQ+ colleagues](https://www.itworldcanada.com/article/glassdoor-report-says-lgbtq-employees-unhappy-with-senior-leadership/455001)
 - [Small Canadian financial services firm hit by ransomware](https://www.itworldcanada.com/article/small-canadian-financial-services-firm-hit-by-ransomware/455024)
 - [Cyber Security Today, June 23, 2021 – A small Canadian accounting firm hit by ransomware, criminal marketplace offering stolen data to competitors of victim firms, and more](https://www.itworldcanada.com/article/cyber-security-today-june-23-2021-a-small-canadian-accounting-firm-hit-by-ransomware-criminal-marketplace-offering-stolen-data-to-competitors-of-victim-firms-and-more/455016)
 - [Hashtag Trending, June 23, 2021 – Boston Dynamics Sold; Bitcoin Crackdowns; Amazon Warehouses Destroying Items](https://www.itworldcanada.com/article/hashtag-trending-june-23-2021-boston-dynamics-sold-bitcoin-crackdowns-amazon-warehouses-destroying-items/455008)
 - [Few infosec leaders report to C-suite, study shows](https://www.itworldcanada.com/article/few-infosec-leaders-report-to-c-suite-study-shows/454986)
-- [Coffee Briefing, June 22, 2021 – IBM merges Toronto offices; edtech booms; Cisco’s new 5G industrial edge routing portfolio; and more](https://www.itworldcanada.com/article/coffee-briefing-june-22-2021-ibm-merges-toronto-offices-edtech-booms-ciscos-new-5g-industrial-edge-routing-portfolio-and-more/454977)
-- [Hashtag Trending, June 22, 2021- Water facility hacks; Amazon Prime Day; IBM Toronto office](https://www.itworldcanada.com/article/hashtag-trending-june-22-2021-water-facility-hacks-amazon-prime-day-ibm-toronto-office/454972)
-- [Hashtag Trending, June 21, 2021 – NFTs value will plummet; Facebook’s worried about losing business; Apple silicon ruffles competition](https://www.itworldcanada.com/article/hashtag-trending-june-21-2021-nfts-value-will-plummet-facebooks-worried-about-losing-business-apple-silicon-ruffles-competition/454956)
-- [Cyber Security Today, June 21, 2021 – Fake Darkside group threatens companies, Darkside affiliate group hits security camera maker, help from Google for software developers and more](https://www.itworldcanada.com/article/cyber-security-today-june-21-2021-fake-darkside-group-threatens-companies-darkside-affiliate-group-hits-security-camera-maker-help-from-google-for-software-developers-and-more/454943)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno Company unveils server-side JavaScript hosting service](https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_all)
+- [How to visualize time series data](https://www.infoworld.com/article/3622668/how-to-visualize-time-series-data.html#tk.rss_all)
+- [Tailwind CSS: Learn the joys of functional, responsive CSS](https://www.infoworld.com/article/3622288/tailwind-css-learn-the-joys-of-functional-responsive-css.html#tk.rss_all)
 - [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_all)
 - [Simplify machine learning with Azure Applied AI Services](https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html#tk.rss_all)
 - [How to avoid redundant DI code in ASP.NET Core](https://www.infoworld.com/article/3622463/how-to-avoid-redundant-di-code-in-aspnet-core.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [What is devops? Bringing dev and ops together to build better software](https://www.infoworld.com/article/3215275/what-is-devops-transforming-software-development.html#tk.rss_all)
 - [Next.js 11 boasts faster startup](https://www.infoworld.com/article/3622464/nextjs-11-boasts-faster-startup.html#tk.rss_all)
 - [Are cloud-native ops tools right for multicloud?](https://www.infoworld.com/article/3622362/are-cloud-native-ops-tools-right-for-multicloud.html#tk.rss_all)
-- [Microsoft previews 64-bit Visual Studio 2022 IDE](https://www.infoworld.com/article/3622298/microsoft-previews-64-bit-visual-studio-2022-ide.html#tk.rss_all)
-- [3 reasons centralizing your data is a bad idea](https://www.infoworld.com/article/3622240/3-reasons-centralizing-your-data-is-a-bad-idea.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [PODCAST: iPhone 13 rumors and leaks, plus Apple argues against sideloading apps](https://www.computerworld.com/article/3623116/podcast-iphone-13-rumors-and-leaks-plus-apple-argues-against-sideloading-apps.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [A neat new trick to try with Gboard on Android](https://www.computerworld.com/article/3622192/gboard-android-keyboard-trick.html#tk.rss_all)
+- [Apple previews Safari 15 on Big Sur, no macOS beta necessary](https://www.computerworld.com/article/3623189/apple-previews-safari-15-on-big-sur-no-macos-beta-necessary.html#tk.rss_all)
+- [The best progressive web apps for productivity](https://www.computerworld.com/article/3622366/the-best-progressive-web-apps-for-productivity.html#tk.rss_all)
 - [BrandPost: Leveraging HPDA to deliver new levels of data-driven innovation](https://www.computerworld.com/article/3622909/leveraging-hpda-to-deliver-new-levels-of-data-driven-innovation.html#tk.rss_all)
 - [Apple: Sideloading apps will undermine iOS security](https://www.computerworld.com/article/3622416/apple-sideloading-apps-will-undermine-ios-security.html#tk.rss_all)
 - [Back to the '90s: Boutique browser Vivaldi now offers its own internet suite](https://www.computerworld.com/article/3622266/boutique-browser-vivaldi-turns-back-clock-offers-internet-suite-with-email-client-calendar-rss-read.html#tk.rss_all)
-- [Apple's Focus: What does it do and how does it work?](https://www.computerworld.com/article/3622592/apples-focus-what-does-it-do-and-how-does-it-work.html#tk.rss_all)
-- [12 hidden Pixel superpowers](https://www.computerworld.com/article/3622244/pixel-superpowers.html#tk.rss_all)
-- [How to find and keep happy workers](https://www.computerworld.com/article/3622278/how-to-find-and-keep-happy-workers.html#tk.rss_all)
-- [Before we get Windows 11, can Microsoft fix Windows 10?](https://www.computerworld.com/article/3622458/before-we-get-windows-11-can-microsoft-fix-windows-10.html#tk.rss_all)
-- [Microsoft pushes Fluid to boost productivity in Teams, Outlook, and OneNote](https://www.computerworld.com/article/3622589/microsoft-pushes-fluid-to-boost-productivity-in-teams-outlook-and-onenote.html#tk.rss_all)
-- [Apple’s SharePlay vision: Too little, too late?](https://www.computerworld.com/article/3622279/apples-shareplay-vision-too-little-too-late.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How meme stars of the early internet are striking it rich with NFTs - podcast](https://www.theguardian.com/news/audio/2021/jun/24/how-meme-stars-early-internet-striking-it-rich-nfts-podcast)
-- [‘I deserve to have a life’: Britney Spears asks court to end conservatorship](https://www.theguardian.com/music/2021/jun/22/britney-spears-conservatorship-testimony)
-- [UK man jailed for sharing extremist videos, including Christchurch attack](https://www.theguardian.com/world/2021/jun/24/michael-nugent-uk-man-jailed-terrorism-christchurch-sharing-extremist-videos)
-- [Brazil environment minister quits amid inquiry into illegal Amazon logging](https://www.theguardian.com/world/2021/jun/24/brazil-environment-minister-quits-amid-inquiry-into-amazon-logging)
-- [Dramatic end to Group F as England get Germany - Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/24/dramatic-end-to-group-f-as-england-get-germany-euro-2020-football-daily)
-- [Half of UK university students think degree is poor value for money](https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money)
-- [W Series returns with innovative team structure and alongside Formula One](https://www.theguardian.com/sport/2021/jun/24/w-series-returns-with-innovative-team-structure-and-alongside-formula-one)
-- [UK policies will not deliver emission cuts pledge, says climate adviser](https://www.theguardian.com/environment/2021/jun/24/uk-policies-will-not-deliver-emission-cuts-pledge-says-climate-adviser)
-- [Giles Deacon creates ‘work from anywhere’ fashion collection](https://www.theguardian.com/fashion/2021/jun/24/giles-deacon-creates-work-from-anywhere-fashion-collection)
-- [More than 2m adults in England have had long Covid for over 12 weeks – study](https://www.theguardian.com/society/2021/jun/24/more-than-2m-adults-in-england-have-had-long-covid-for-over-12-weeks-study)
+- [The new Brexit crisis for Northern Ireland’s unionists - podcast](https://www.theguardian.com/news/audio/2021/jun/25/the-new-brexit-crisis-for-northern-irelands-unionists-podcast)
+- [Britney Spears speaks out after testimony: ‘Sorry for pretending I’ve been OK’](https://www.theguardian.com/music/2021/jun/24/britney-spears-latest-public-statement-instagram)
+- [Outrage after Pakistan PM Imran Khan blames rape crisis on women](https://www.theguardian.com/world/2021/jun/25/outrage-after-pakistan-pm-imran-khan-blames-crisis-on-women)
+- [‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened](https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live)
+- [Business, unions and EHRC press government on ethnic pay gap reporting](https://www.theguardian.com/business/2021/jun/25/cbi-tuc-and-ehrc-press-government-on-mandatory-ethnic-pay-gap-reporting)
+- [Almost 600m NHS home Covid tests unaccounted for, auditors reveal](https://www.theguardian.com/society/2021/jun/25/almost-600m-nhs-home-covid-tests-unaccounted-for-auditors-reveal)
+- [J’Ouvert review – the history of Notting Hill carnival comes to life](https://www.theguardian.com/stage/2021/jun/24/jouvert-review-harold-pinter-theatre-notting-hill-carnival)
+- [‘A managerial disaster class’ – the verdict from the Euro 2020 countries who are out](https://www.theguardian.com/football/2021/jun/24/a-managerial-disaster-class-verdict-euro-2020-countries-out)
+- [England defy rain and Sri Lanka’s fightback with ball to win T20 series](https://www.theguardian.com/sport/2021/jun/24/sam-curran-powers-england-to-rain-hit-t20-series-win-over-sri-lanka)
+- [Diana review – the princess and her definitively undashing prince](https://www.theguardian.com/tv-and-radio/2021/jun/24/diana-review-the-princess-and-her-definitively-undashing-prince)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

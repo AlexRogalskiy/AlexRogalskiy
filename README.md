@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Notion is withholding my company data, what can I do?](https://news.ycombinator.com/item?id=27612894)
-- [Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’](https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/)
-- [Meritocracy and Its Defects](https://goldhaber.org/meritocracy-and-its-defects/)
-- [P4: Open-Source Programming Language for Protocol-Independent Packet Processing](https://p4.org/)
-- [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=hn)
-- [The Health Benefits of Coffee](https://www.nytimes.com/2021/06/14/well/eat/coffee-health-benefits.html)
-- [Lego Island Rebuilder](https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder)
-- [“Older unlisted videos will be made private unless you opt out”](https://support.google.com/youtube/answer/9230970)
-- [The Ascendant Steppe: A brisk tour of the early history of Central Asia](https://www.laphamsquarterly.org/roundtable/ascendant-steppe)
-- [Unravelling the enigma of bird magnetoreception](https://www.nature.com/articles/d41586-021-01596-6)
+- [Gray Hair Can Return to Its Original Color–and Stress Is Involved, of Course](https://www.scientificamerican.com/article/gray-hair-can-return-to-its-original-color-mdash-and-stress-is-involved-of-course/)
+- [Help All data in WD mybook live gone and owner password unknown](https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111)
+- [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
+- [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
+- [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
+- [Tiny Acquisitions](https://tinyacquisitions.com)
+- [Mobile NixOS](https://mobile.nixos.org/)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
+- [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

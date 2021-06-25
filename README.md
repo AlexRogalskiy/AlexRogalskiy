@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Salomon selects on-demand GreenLake to support flexible business](https://www.computerweekly.com/news/252502902/Salomon-selects-on-demand-Greenlake-to-support-flexible-business)
-- [City of York picks Barracuda Networks for data protection](https://www.computerweekly.com/news/252502903/City-of-York-picks-Barracuda-Networks-for-data-protection)
-- [How containerisation helps VW develop car software](https://www.computerweekly.com/news/252502600/How-containerisation-helps-VW-develop-car-software)
-- [Thousands of UK IT SMEs in financial distress with 185,000 jobs at risk](https://www.computerweekly.com/news/252502898/Thousands-of-UK-IT-SMEs-in-financial-distress-with-185000-jobs-at-risk)
-- [IBM serves more AI power at Wimbledon 2021](https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021)
-- [European Union to set up new cyber response unit](https://www.computerweekly.com/news/252502897/European-Union-to-set-up-new-cyber-response-unit)
-- [Real-time analytics begins to find business vocation](https://www.computerweekly.com/feature/Real-time-analytics-begins-to-find-business-vocation)
-- [Bahrain university uses Alexa on campus](https://www.computerweekly.com/news/252502889/Bahrain-university-uses-Alexa-on-campus)
-- [Time to patch increases significantly during pandemic](https://www.computerweekly.com/news/252502887/Time-to-patch-increases-significantly-during-pandemic)
-- [UK councils reported over 700 data breaches to ICO in 2020](https://www.computerweekly.com/news/252502886/UK-councils-reported-over-700-data-breaches-to-ICO-in-2020)
+- [Visa to acquire Swedish open banking fintech for €1.8bn](https://www.computerweekly.com/news/252502981/Visa-to-acquire-Swedish-open-banking-fintech-for-18bn)
+- [Google hands third-party cookies a stay of execution](https://www.computerweekly.com/news/252502988/Google-hands-third-party-cookies-a-stay-of-execution)
+- [NCSC recognises cyber degree apprenticeships for the first time](https://www.computerweekly.com/news/252502983/NCSC-recognises-cyber-degree-apprenticeships-for-the-first-time)
+- [Revealed: Crypto platform’s role in Cl0p ransomware raid](https://www.computerweekly.com/news/252502894/Revealed-Crypto-platforms-role-in-Cl0p-ransomware-raid)
+- [Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service](https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service)
+- [Online Safety Bill unfit for purpose, says new campaign group](https://www.computerweekly.com/news/252502979/Online-Safety-Bill-unfit-for-purpose-says-new-campaign-group)
+- [Stalkerware apps becoming normalised among young people](https://www.computerweekly.com/news/252502974/Stalkerware-apps-becoming-normalised-among-young-people)
+- [It’s time to hit fast forward for digital jobs](https://www.computerweekly.com/opinion/Its-time-to-hit-fast-forward-for-digital-jobs)
+- [Gousto uses Sisense Fusion to broaden analytics across business](https://www.computerweekly.com/news/252502976/Gousto-uses-Sisense-Fusion-to-broaden-analytics-across-business)
+- [Salesforce declares AWS partnership to enable intelligent applications](https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

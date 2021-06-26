@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Visa to acquire Swedish open banking fintech for €1.8bn](https://www.computerweekly.com/news/252502981/Visa-to-acquire-Swedish-open-banking-fintech-for-18bn)
-- [Google hands third-party cookies a stay of execution](https://www.computerweekly.com/news/252502988/Google-hands-third-party-cookies-a-stay-of-execution)
-- [NCSC recognises cyber degree apprenticeships for the first time](https://www.computerweekly.com/news/252502983/NCSC-recognises-cyber-degree-apprenticeships-for-the-first-time)
-- [Revealed: Crypto platform’s role in Cl0p ransomware raid](https://www.computerweekly.com/news/252502894/Revealed-Crypto-platforms-role-in-Cl0p-ransomware-raid)
-- [Extreme Networks taps up Microsoft Azure to provide UK customers with locally hosted cloud service](https://www.computerweekly.com/news/252502978/Extreme-Networks-taps-up-Microsoft-Azure-to-provide-UK-customers-with-locally-hosted-cloud-service)
-- [Online Safety Bill unfit for purpose, says new campaign group](https://www.computerweekly.com/news/252502979/Online-Safety-Bill-unfit-for-purpose-says-new-campaign-group)
-- [Stalkerware apps becoming normalised among young people](https://www.computerweekly.com/news/252502974/Stalkerware-apps-becoming-normalised-among-young-people)
-- [It’s time to hit fast forward for digital jobs](https://www.computerweekly.com/opinion/Its-time-to-hit-fast-forward-for-digital-jobs)
-- [Gousto uses Sisense Fusion to broaden analytics across business](https://www.computerweekly.com/news/252502976/Gousto-uses-Sisense-Fusion-to-broaden-analytics-across-business)
-- [Salesforce declares AWS partnership to enable intelligent applications](https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications)
+- [Universal Credit: What went wrong, and what we learned](https://www.computerweekly.com/opinion/Universal-Credit-what-went-wrong-and-what-we-learned)
+- [Apple seeks five-year extension to planning permission deadline for Irish datacentre site](https://www.computerweekly.com/news/252503072/Apple-seeks-five-year-extension-to-planning-permission-deadline-for-Irish-datacentre-site)
+- [Windows 11: It’s more than a repositioned start button](https://www.computerweekly.com/news/252503076/Windows-11-Its-more-than-a-repositioned-start-button)
+- [NCSC CEO: UK-Ireland collaboration crucial to stop cyber threats](https://www.computerweekly.com/news/252503074/NCSC-CEO-UK-Ireland-collaboration-crucial-to-stop-cyber-threats)
+- [Anglesey schools offline after cyber attack](https://www.computerweekly.com/news/252503070/Anglesey-schools-offline-after-cyber-attack)
+- [CMA to probe Amazon and Google over fake reviews](https://www.computerweekly.com/news/252503058/CMA-to-probe-Amazon-and-Google-over-fake-reviews)
+- [Deliveroo riders do not have right to unionise, UK court rules](https://www.computerweekly.com/news/252503071/Deliveroo-riders-do-not-have-right-to-unionise-UK-court-rules)
+- [Brighton tourists charged thousands of pounds for fairground ride after Worldpay glitch](https://www.computerweekly.com/news/252503068/Brighton-tourists-charged-thousands-of-pounds-for-fairground-ride-after-Worldpay-glitch)
+- [AWS launches bug-busting programme for developers](https://www.computerweekly.com/news/252503063/AWS-launches-bug-busting-programme-for-developers)
+- [Alan Turing - Important LGBTQ+ figures who shaped tech’s history](https://www.computerweekly.com/photostory/252503061/Important-LGBTQ-figures-who-shaped-techs-history/2/Alan-Turing)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

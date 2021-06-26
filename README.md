@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The new Brexit crisis for Northern Ireland’s unionists - podcast](https://www.theguardian.com/news/audio/2021/jun/25/the-new-brexit-crisis-for-northern-irelands-unionists-podcast)
-- [Britney Spears speaks out after testimony: ‘Sorry for pretending I’ve been OK’](https://www.theguardian.com/music/2021/jun/24/britney-spears-latest-public-statement-instagram)
-- [Outrage after Pakistan PM Imran Khan blames rape crisis on women](https://www.theguardian.com/world/2021/jun/25/outrage-after-pakistan-pm-imran-khan-blames-crisis-on-women)
-- [‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened](https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live)
-- [Business, unions and EHRC press government on ethnic pay gap reporting](https://www.theguardian.com/business/2021/jun/25/cbi-tuc-and-ehrc-press-government-on-mandatory-ethnic-pay-gap-reporting)
-- [Almost 600m NHS home Covid tests unaccounted for, auditors reveal](https://www.theguardian.com/society/2021/jun/25/almost-600m-nhs-home-covid-tests-unaccounted-for-auditors-reveal)
-- [J’Ouvert review – the history of Notting Hill carnival comes to life](https://www.theguardian.com/stage/2021/jun/24/jouvert-review-harold-pinter-theatre-notting-hill-carnival)
-- [‘A managerial disaster class’ – the verdict from the Euro 2020 countries who are out](https://www.theguardian.com/football/2021/jun/24/a-managerial-disaster-class-verdict-euro-2020-countries-out)
-- [England defy rain and Sri Lanka’s fightback with ball to win T20 series](https://www.theguardian.com/sport/2021/jun/24/sam-curran-powers-england-to-rain-hit-t20-series-win-over-sri-lanka)
-- [Diana review – the princess and her definitively undashing prince](https://www.theguardian.com/tv-and-radio/2021/jun/24/diana-review-the-princess-and-her-definitively-undashing-prince)
+- [Car bomb injures 13 UN peacekeepers in Mali](https://www.theguardian.com/world/2021/jun/26/car-bomb-injures-13-un-peacekeepers-in-mali)
+- [‘The truth is still out there’: internet shrugs at Pentagon’s UFO findings](https://www.theguardian.com/us-news/2021/jun/25/ufo-pentagon-report-reaction)
+- [Suspected tornado damages homes in east London](https://www.theguardian.com/uk-news/2021/jun/26/suspected-tornado-damages-homes-in-east-london)
+- [Mo Farah’s last-ditch bid for Olympics place ends in ‘shocking’ failure](https://www.theguardian.com/sport/2021/jun/25/mo-farah-fails-in-last-ditch-attempt-to-book-team-gb-olympics-place)
+- [England beaten by All Stars in Shaun Wane’s first game in charge](https://www.theguardian.com/sport/2021/jun/25/england-beaten-by-all-stars-in-shaun-wanes-first-game-in-charge)
+- [Kane dismisses his England doubters and focuses on peaking for Germany](https://www.theguardian.com/football/2021/jun/25/harry-kane-will-not-listen-to-england-noise-with-focus-on-peaking-for-germany-euro-2020)
+- [Andy Murray intent on Wimbledon return offering path to more majors | Tumaini Carayol](https://www.theguardian.com/sport/2021/jun/25/andy-murray-intent-on-wimbledon-return-offering-path-to-more-majors)
+- [Derek Chauvin sentenced to 22.5 years in prison for murder of George Floyd](https://www.theguardian.com/us-news/2021/jun/25/derek-chauvin-george-floyd-murder-sentencing)
+- [How pop culture has shaped our understanding of aliens](https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens)
+- [US Pacific north-west braces for ‘unprecedented’ sweltering heatwave](https://www.theguardian.com/world/2021/jun/25/pacific-northwest-heatwave-washington-oregon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

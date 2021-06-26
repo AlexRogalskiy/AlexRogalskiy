@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today Week in Review for June 25, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-25-2021/455122)
+- [Windows 11 compatibility checker now shows more detailed results](https://www.itworldcanada.com/article/windows-11-compatibility-checker-now-shows-more-detailed-results/455174)
+- [Do you really need to buy a TPM for Windows 11?](https://www.itworldcanada.com/article/do-you-really-need-to-buy-a-tpm-for-windows-11/455136)
+- [New Brunswick to offer bilingual cybersecurity program to all high school students](https://www.itworldcanada.com/article/new-brunswick-to-offer-bilingual-cybersecurity-program-to-all-high-school-students/455064)
+- [Cyber Security Today, June 25, 2021 – Weaknesses spotted in Atlassian web security, Russia talking cybersecurity and the EU proposes joint cybersecurity platform](https://www.itworldcanada.com/article/cyber-security-today-june-25-2021-weaknesses-spotted-in-atlassian-web-security-russia-talking-cybersecurity-and-the-eu-proposes-joint-cybersecurity-platform/455116)
+- [Hashtag Trending, June 25, 2021 – Windows 11 officially announced; Big Tech’s renewables push; Peloton drops free features](https://www.itworldcanada.com/article/hashtag-trending-june-25-2021-windows-11-officially-announced-big-techs-renewables-push-peloton-drops-free-features/455114)
 - [Cavoukian calls for more transparency in Liberal Party use of facial matching software](https://www.itworldcanada.com/article/cavoukian-calls-for-more-transparency-in-liberal-party-use-of-facial-matching-software/455106)
 - [Lenovo releases the ThinkPad X1 Extreme Gen 4 laptop](https://www.itworldcanada.com/article/lenovo-releases-the-thinkpad-x1-extreme-gen-4/455078)
 - [GreenLake takes centre stage at HPE Discover, CEO introduces Silicon on Demand with Intel](https://www.itworldcanada.com/article/greenlake-takes-centre-stage-at-hpe-discover-ceo-introduces-silicon-on-demand-with-intel/455070)
 - [Hashtag Trending, June 24, 2021- Microsoft reaches a $2 trillion market; What causes Zoom Fatigue; Bill C-10](https://www.itworldcanada.com/article/hashtag-trending-june-24-2021-microsoft-reaches-a-2-trillion-market-what-causes-zoom-fatigue-bill-c-10/455057)
-- [Rogers speeds up network development due to greater regulatory certainty](https://www.itworldcanada.com/article/rogers-speeds-up-network-development-due-to-greater-regulatory-certainty/455044)
-- [Glassdoor report says LGBTQ+ employees less satisfied at work compared to non-LGBTQ+ colleagues](https://www.itworldcanada.com/article/glassdoor-report-says-lgbtq-employees-unhappy-with-senior-leadership/455001)
-- [Small Canadian financial services firm hit by ransomware](https://www.itworldcanada.com/article/small-canadian-financial-services-firm-hit-by-ransomware/455024)
-- [Cyber Security Today, June 23, 2021 – A small Canadian accounting firm hit by ransomware, criminal marketplace offering stolen data to competitors of victim firms, and more](https://www.itworldcanada.com/article/cyber-security-today-june-23-2021-a-small-canadian-accounting-firm-hit-by-ransomware-criminal-marketplace-offering-stolen-data-to-competitors-of-victim-firms-and-more/455016)
-- [Hashtag Trending, June 23, 2021 – Boston Dynamics Sold; Bitcoin Crackdowns; Amazon Warehouses Destroying Items](https://www.itworldcanada.com/article/hashtag-trending-june-23-2021-boston-dynamics-sold-bitcoin-crackdowns-amazon-warehouses-destroying-items/455008)
-- [Few infosec leaders report to C-suite, study shows](https://www.itworldcanada.com/article/few-infosec-leaders-report-to-c-suite-study-shows/454986)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

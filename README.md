@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Crushing climate impacts to hit sooner than feared: draft UN report](https://news.yahoo.com/crushing-climate-impacts-hit-sooner-010253436.html)
-- [OpenTrees: A data vis of millions of publicly maintained trees around the world](https://github.com/stevage/opentrees)
-- [Ask HN: Best resource for Angular 2 templates/libraries?](https://news.ycombinator.com/item?id=27626450)
-- [QUIC at Snap](https://eng.snap.com/quic-at-snap)
-- [Configuring nodes on chef-client run](http://hariomgaur.in/2020/11/04/runtime-vm-configuration-with-chef-client.html)
-- [Consuming from Kafka at Org Scale](http://hariomgaur.in/2021/06/06/consume-from-kafka.html)
-- [Show HN: Ziggurat event processing framework that powers Gojek](https://ziggurat.dev/)
-- [Windows 11 to move to just one feature update per year](https://www.zdnet.com/article/windows-11-to-move-to-just-one-feature-update-per-year/)
-- [Crazyguyonabike – A place for bicycle tourists and their journals](https://www.crazyguyonabike.com/)
-- [Show HN: A cringe-worthy ROS1-like interface for ROS2](https://github.com/dheera/rospy2)
+- [Tesla Car Fires Require Outlandish Volumes of Water to Extinguish](https://sfist.com/2021/06/22/as-tesla-fires-require-outlandish-volumes-of-water-to-extinguish-firefighters-grapple-with-ev-batteries/)
+- [Open source cache as RAM with Intel Bootguard](https://9esec.io/blog/open-source-cache-as-ram-with-intel-bootguard/)
+- [Mozilla Rally](https://rally.mozilla.org/)
+- [Check for Standards Before Creating a New One](https://qvault.io/clean-code/use-existing-standards/)
+- [3D Printed South Pointing Chariot](https://www.youtube.com/watch?v=YzUKr621gr4)
+- [Hybrid Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html)
+- [President Designates Pulse National Memorial](https://www.c-span.org/video/?512961-1/president-designates-national-pulse-memorial)
+- [Just 2% at Silicon Valley's VMware showed up for the first day of in-person work](https://www.sfgate.com/tech/article/VMWare-2-percent-worker-Silicon-Valley-remote-work-16274581.php)
+- [How to Recover a Bitcoin Passphrase](https://alexbowe.com/bitcoin-passphrase-recovery/)
+- [Delta Variant Outbreak in Israel Infects Some Vaccinated Adults](https://www.wsj.com/articles/vaccinated-people-account-for-half-of-new-covid-19-delta-cases-in-israeli-outbreak-11624624326)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

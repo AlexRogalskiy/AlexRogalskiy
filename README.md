@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gray Hair Can Return to Its Original Color–and Stress Is Involved, of Course](https://www.scientificamerican.com/article/gray-hair-can-return-to-its-original-color-mdash-and-stress-is-involved-of-course/)
-- [Help All data in WD mybook live gone and owner password unknown](https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111)
-- [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
-- [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
-- [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
-- [Tiny Acquisitions](https://tinyacquisitions.com)
-- [Mobile NixOS](https://mobile.nixos.org/)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
-- [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
+- [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
+- [Harmful social behaviors are the toughest to shift](http://blog.pnas.org/2021/06/harmful-social-behaviors-are-the-toughest-to-shift/)
+- [Berkeley Document Summarizer – learning-based, single-document summarization](https://github.com/gregdurrett/berkeley-doc-summarizer)
+- [Gloss3D – an open source 3D Modeler for Linux and Windows](http://www.gloss3d.net/)
+- [Functors and Monads for People Who Have Read Too Many “Tutorials”](http://www.jerf.org/iri/post/2958)
+- [Correctly implementing a spinlock in Modern C++](https://rigtorp.se/spinlock/)
+- [Goodbye C++, Hello C](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
+- [Sorry, we replaced that old technology, “see-through glass”](https://twitter.com/RunDaltonRun/status/1408507323031592964)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [Final Fantasy remasters reignite controversies over pixel art](https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

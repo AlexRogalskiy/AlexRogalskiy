@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [12 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-superpowers.html#tk.rss_all)
+- [Microsoft hits Apple with Windows 11](https://www.computerworld.com/article/3622949/microsoft-hits-apple-with-windows-11.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Does Webex Legislate point to video-based collaboration's future?](https://www.computerworld.com/article/3623009/does-webex-legislate-point-to-video-based-collaborations-future.html#tk.rss_all)
+- [What enterprise needs to know about Windows 11](https://www.computerworld.com/article/3623268/what-enterprise-needs-to-know-about-windows-11.html#tk.rss_all)
+- [Don’t make yourself a social media target](https://www.computerworld.com/article/3622973/don-t-make-yourself-a-social-media-target.html#tk.rss_all)
 - [PODCAST: iPhone 13 rumors and leaks, plus Apple argues against sideloading apps](https://www.computerworld.com/article/3623116/podcast-iphone-13-rumors-and-leaks-plus-apple-argues-against-sideloading-apps.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [A neat new trick to try with Gboard on Android](https://www.computerworld.com/article/3622192/gboard-android-keyboard-trick.html#tk.rss_all)
-- [Apple previews Safari 15 on Big Sur, no macOS beta necessary](https://www.computerworld.com/article/3623189/apple-previews-safari-15-on-big-sur-no-macos-beta-necessary.html#tk.rss_all)
-- [The best progressive web apps for productivity](https://www.computerworld.com/article/3622366/the-best-progressive-web-apps-for-productivity.html#tk.rss_all)
-- [BrandPost: Leveraging HPDA to deliver new levels of data-driven innovation](https://www.computerworld.com/article/3622909/leveraging-hpda-to-deliver-new-levels-of-data-driven-innovation.html#tk.rss_all)
-- [Apple: Sideloading apps will undermine iOS security](https://www.computerworld.com/article/3622416/apple-sideloading-apps-will-undermine-ios-security.html#tk.rss_all)
-- [Back to the '90s: Boutique browser Vivaldi now offers its own internet suite](https://www.computerworld.com/article/3622266/boutique-browser-vivaldi-turns-back-clock-offers-internet-suite-with-email-client-calendar-rss-read.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

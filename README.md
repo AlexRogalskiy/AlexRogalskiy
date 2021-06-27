@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
-- [Harmful social behaviors are the toughest to shift](http://blog.pnas.org/2021/06/harmful-social-behaviors-are-the-toughest-to-shift/)
-- [Berkeley Document Summarizer – learning-based, single-document summarization](https://github.com/gregdurrett/berkeley-doc-summarizer)
-- [Gloss3D – an open source 3D Modeler for Linux and Windows](http://www.gloss3d.net/)
-- [Functors and Monads for People Who Have Read Too Many “Tutorials”](http://www.jerf.org/iri/post/2958)
-- [Correctly implementing a spinlock in Modern C++](https://rigtorp.se/spinlock/)
-- [Goodbye C++, Hello C](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
-- [Sorry, we replaced that old technology, “see-through glass”](https://twitter.com/RunDaltonRun/status/1408507323031592964)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [Final Fantasy remasters reignite controversies over pixel art](https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art)
+- [I spent 5 years writing my own operating system](https://github.com/halfer53/winix)
+- [Why did we ever think a student's first programming language didn't matter?](https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext)
+- [YouTube takes down Xinjiang videos, forcing rights group to seek alternative](https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/)
+- [The school for sysadmins who can’t timesync good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
+- [AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit](https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit)
+- [Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
+- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Guerrilla guide to CNC machining, mold making, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
+- [The blackout Palestinians are facing on social media](https://restofworld.org/2021/palestine-social-media-silence/2)
+- [Ask HN: Best “I brought down production” story?](https://news.ycombinator.com/item?id=27644387)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

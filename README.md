@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Car bomb injures 13 UN peacekeepers in Mali](https://www.theguardian.com/world/2021/jun/26/car-bomb-injures-13-un-peacekeepers-in-mali)
-- [‘The truth is still out there’: internet shrugs at Pentagon’s UFO findings](https://www.theguardian.com/us-news/2021/jun/25/ufo-pentagon-report-reaction)
-- [Suspected tornado damages homes in east London](https://www.theguardian.com/uk-news/2021/jun/26/suspected-tornado-damages-homes-in-east-london)
-- [Mo Farah’s last-ditch bid for Olympics place ends in ‘shocking’ failure](https://www.theguardian.com/sport/2021/jun/25/mo-farah-fails-in-last-ditch-attempt-to-book-team-gb-olympics-place)
-- [England beaten by All Stars in Shaun Wane’s first game in charge](https://www.theguardian.com/sport/2021/jun/25/england-beaten-by-all-stars-in-shaun-wanes-first-game-in-charge)
-- [Kane dismisses his England doubters and focuses on peaking for Germany](https://www.theguardian.com/football/2021/jun/25/harry-kane-will-not-listen-to-england-noise-with-focus-on-peaking-for-germany-euro-2020)
-- [Andy Murray intent on Wimbledon return offering path to more majors | Tumaini Carayol](https://www.theguardian.com/sport/2021/jun/25/andy-murray-intent-on-wimbledon-return-offering-path-to-more-majors)
-- [Derek Chauvin sentenced to 22.5 years in prison for murder of George Floyd](https://www.theguardian.com/us-news/2021/jun/25/derek-chauvin-george-floyd-murder-sentencing)
-- [How pop culture has shaped our understanding of aliens](https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens)
-- [US Pacific north-west braces for ‘unprecedented’ sweltering heatwave](https://www.theguardian.com/world/2021/jun/25/pacific-northwest-heatwave-washington-oregon)
+- [Sydney Covid update: NSW records 30 new cases as vaccination hub identified as exposure site](https://www.theguardian.com/australia-news/2021/jun/27/sydney-covid-cluster-nsw-records-30-new-cases-as-vaccination-hub-identified-as-exposure-site)
+- [‘Praying for a miracle’: the desperate search for scores missing in condo collapse](https://www.theguardian.com/us-news/2021/jun/26/condo-collapse-surfside-search)
+- [Croatia’s Ivan Perisic tests positive for Covid and will miss Spain tie](https://www.theguardian.com/football/2021/jun/27/croatias-ivan-perisic-tests-positive-for-covid-and-will-miss-spain-tie)
+- [Hipgnosis’s back-catalogue spending pays off in pandemic](https://www.theguardian.com/business/2021/jun/27/hipgnosis-music-streaming-old-songs-beyonce-blondie)
+- [Make a splash: 21 of the best swimsuits – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/26/make-a-splash-21-of-the-best-swimsuits-in-pictures)
+- [Sajid Javid steps back into the cabinet to steer UK out of pandemic](https://www.theguardian.com/politics/2021/jun/26/sajid-javid-steps-back-into-the-cabinet-to-steer-uk-out-of-pandemic)
+- [Blow to Johnson’s authority as his health minister loses all support](https://www.theguardian.com/politics/2021/jun/26/blow-to-johnson-authority-as-health-secretary-loses-all-support)
+- [Italy find something extra from Matteo Pessina to see off Austria](https://www.theguardian.com/football/2021/jun/26/italy-austria-euro-2020-match-report)
+- [Donald Trump returns to campaign trail with rally targeting Ohio Republican](https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani)
+- [Three arrested and three officers injured at anti-lockdown protests in London](https://www.theguardian.com/world/2021/jun/26/three-arrested-and-three-officers-injured-at-anti-lockdown-protests-in-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

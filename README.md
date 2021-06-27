@@ -400,7 +400,7 @@
 - [Deliveroo riders do not have right to unionise, UK court rules](https://www.computerweekly.com/news/252503071/Deliveroo-riders-do-not-have-right-to-unionise-UK-court-rules)
 - [Brighton tourists charged thousands of pounds for fairground ride after Worldpay glitch](https://www.computerweekly.com/news/252503068/Brighton-tourists-charged-thousands-of-pounds-for-fairground-ride-after-Worldpay-glitch)
 - [AWS launches bug-busting programme for developers](https://www.computerweekly.com/news/252503063/AWS-launches-bug-busting-programme-for-developers)
-- [Alan Turing - Important LGBTQ+ figures who shaped tech’s history](https://www.computerweekly.com/photostory/252503061/Important-LGBTQ-figures-who-shaped-techs-history/2/Alan-Turing)
+- [Sophie Wilson - Important LGBTQ+ figures who shaped tech’s history](https://www.computerweekly.com/photostory/252503062/Important-LGBTQ-figures-who-shaped-techs-history/3/Sophie-Wilson)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

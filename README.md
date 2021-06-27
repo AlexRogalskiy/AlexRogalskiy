@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;df&#x2F;87&#x2F;d3&#x2F;df87d3856aba2de7e7090573eb3319ab.jpg" alt="We&#39;re having a word party, and you&#39;re invited. Shivoo is the Word of the Day. Learn how to pronounce it and more at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fe&#x2F;a5&#x2F;00&#x2F;fea50038ff65b5b463e34f12fced5f60.jpg" alt="Paucity is the Word of the Day, but there’s more where that came from. Learn more at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;de&#x2F;61&#x2F;f2&#x2F;de61f29a26e60a3ff934efb49a4a2fc7.jpg" alt="If you’re new to Word of the Day, this one is for you. It’s neophyte. Get example sentences and more at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b9&#x2F;a3&#x2F;cb&#x2F;b9a3cb4ac562abc14606004334af7e97.jpg" alt="Inimical is the Word of the Day, but we&#39;ll do our best to be nice. Want more? Click for example sentences, pronunciation, and etymology. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;3f&#x2F;49&#x2F;24&#x2F;3f49249f8009ecef7ffd22c8a33278b4.jpg" alt="Word of the Day is a farraginous collection of words. Which one from 2021 is your favorite so far? Click to get example sentences and more. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>22°C (<i>clear sky</i>), humidity: 61%, pressure: 1010 (mbar), wind: /north-east/ 4 (m/s), cloudy: 0%</b>
+        <b>21°C (<i>clear sky</i>), humidity: 71%, pressure: 1010 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:38 am</b> and sets at <b>22:25 pm</b>.
     </p>

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla Car Fires Require Outlandish Volumes of Water to Extinguish](https://sfist.com/2021/06/22/as-tesla-fires-require-outlandish-volumes-of-water-to-extinguish-firefighters-grapple-with-ev-batteries/)
-- [Open source cache as RAM with Intel Bootguard](https://9esec.io/blog/open-source-cache-as-ram-with-intel-bootguard/)
-- [Mozilla Rally](https://rally.mozilla.org/)
-- [Check for Standards Before Creating a New One](https://qvault.io/clean-code/use-existing-standards/)
-- [3D Printed South Pointing Chariot](https://www.youtube.com/watch?v=YzUKr621gr4)
-- [Hybrid Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html)
-- [President Designates Pulse National Memorial](https://www.c-span.org/video/?512961-1/president-designates-national-pulse-memorial)
-- [Just 2% at Silicon Valley's VMware showed up for the first day of in-person work](https://www.sfgate.com/tech/article/VMWare-2-percent-worker-Silicon-Valley-remote-work-16274581.php)
-- [How to Recover a Bitcoin Passphrase](https://alexbowe.com/bitcoin-passphrase-recovery/)
-- [Delta Variant Outbreak in Israel Infects Some Vaccinated Adults](https://www.wsj.com/articles/vaccinated-people-account-for-half-of-new-covid-19-delta-cases-in-israeli-outbreak-11624624326)
+- [Vancouver Temperature Monday](https://www.google.com/search?q=vancouver+temperature+monday&rlz=1C1CHBF_enCA921CA921&ei=it_XYP2FOsnF-gSdg47QDA&oq=vancouver+temperature+monday&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjoHCAAQRxCwAzoHCAAQsAMQQzoLCAAQsQMQgwEQyQM6AggAOgQIABBDOgkIABDJAxAWEB5KBAhBGABQ6DBY4Tlg2kRoAXACeACAAY0BiAHcBJIBAzcuMZgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwj98ve137bxAhXJop4KHZ2BA8oQ4dUDCA4&uact=5)
+- [ReactOS Coding Style](https://reactos.org/wiki/Coding_Style)
+- [Oclutils – C++ OpenCL initialization helper library](https://github.com/nbigaouette/oclutils/)
+- [Austin Cyclists Split on Sharing Bike Lanes with Pizza Delivery Robots](https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/)
+- [Wikipedia's endless war over the coronavirus lab leak theory](https://www.cnet.com/features/inside-wikipedias-endless-war-over-the-coronavirus-lab-leak-theory/)
+- [Have you ever thought how nodemon works? Let's build one in under 10 minutes](https://blog.pankajtanwar.in/have-you-ever-thought-how-nodemon-works-internally-lets-build-our-own-nodemon-in-under-10-minutes)
+- [The State of Python Packaging in 2021](https://venthur.de/2021-06-26-python-packaging.html)
+- [WD My Book NAS devices are being remotely wiped clean worldwide](https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/)
+- [The mysteries of the icy cloud around our Solar System](https://www.bbc.com/future/article/20210618-the-solar-systems-icy-shell-contaminated-by-other-stars)
+- [Intellia, with first results, delivers a 'landmark' for CRISPR gene editing](https://www.biopharmadive.com/news/intellia-crispr-gene-editing-study-ttr-amyloidosis/602292/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

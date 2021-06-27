@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
+- [Can someone answer a possibly unethical question for me?](https://www.reddit.com/r/InformationTechnology/comments/o88hhi/can_someone_answer_a_possibly_unethical_question/)
+- [Windows 11 and TPM/Trusted Computing](https://www.reddit.com/r/InformationTechnology/comments/o829uu/windows_11_and_tpmtrusted_computing/)
 - [Got the job: new masters grad minimal i.t experience](https://www.reddit.com/r/InformationTechnology/comments/o788jx/got_the_job_new_masters_grad_minimal_it_experience/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)
 - [HELP ME ABOUT ISO OSI STACK](https://www.reddit.com/r/InformationTechnology/comments/o7371f/help_me_about_iso_osi_stack/)
@@ -413,9 +416,6 @@
 - [Just signed and accepted an offer for a Tier 1 position, salary. No previous experience in the field or certifications AMA](https://www.reddit.com/r/InformationTechnology/comments/o6lflx/just_signed_and_accepted_an_offer_for_a_tier_1/)
 - [Help Desk](https://www.reddit.com/r/InformationTechnology/comments/o6kopm/help_desk/)
 - [Can bits be comprised by outside threats? And if so, what can they do with it?](https://www.reddit.com/r/InformationTechnology/comments/o67bbi/can_bits_be_comprised_by_outside_threats_and_if/)
-- [Certs](https://www.reddit.com/r/InformationTechnology/comments/o639x0/certs/)
-- [Women in IT](https://www.reddit.com/r/InformationTechnology/comments/o6345x/women_in_it/)
-- [What Should I Learn Next](https://www.reddit.com/r/InformationTechnology/comments/o5xdop/what_should_i_learn_next/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

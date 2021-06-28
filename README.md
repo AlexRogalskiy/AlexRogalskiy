@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Windows 11 at a glance: Rounded corners, Snap upgrades, benefits for developers](https://www.itworldcanada.com/article/windows-11-at-a-glance-rounded-corners-snap-upgrades-benefits-for-developers/455170)
 - [Cyber Security Today Week in Review for June 25, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-25-2021/455122)
 - [Windows 11 compatibility checker now shows more detailed results](https://www.itworldcanada.com/article/windows-11-compatibility-checker-now-shows-more-detailed-results/455174)
 - [Do you really need to buy a TPM for Windows 11?](https://www.itworldcanada.com/article/do-you-really-need-to-buy-a-tpm-for-windows-11/455136)
@@ -430,7 +431,6 @@
 - [Cavoukian calls for more transparency in Liberal Party use of facial matching software](https://www.itworldcanada.com/article/cavoukian-calls-for-more-transparency-in-liberal-party-use-of-facial-matching-software/455106)
 - [Lenovo releases the ThinkPad X1 Extreme Gen 4 laptop](https://www.itworldcanada.com/article/lenovo-releases-the-thinkpad-x1-extreme-gen-4/455078)
 - [GreenLake takes centre stage at HPE Discover, CEO introduces Silicon on Demand with Intel](https://www.itworldcanada.com/article/greenlake-takes-centre-stage-at-hpe-discover-ceo-introduces-silicon-on-demand-with-intel/455070)
-- [Hashtag Trending, June 24, 2021- Microsoft reaches a $2 trillion market; What causes Zoom Fatigue; Bill C-10](https://www.itworldcanada.com/article/hashtag-trending-june-24-2021-microsoft-reaches-a-2-trillion-market-what-causes-zoom-fatigue-bill-c-10/455057)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

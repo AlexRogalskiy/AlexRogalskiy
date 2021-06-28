@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vancouver Temperature Monday](https://www.google.com/search?q=vancouver+temperature+monday&rlz=1C1CHBF_enCA921CA921&ei=it_XYP2FOsnF-gSdg47QDA&oq=vancouver+temperature+monday&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjoHCAAQRxCwAzoHCAAQsAMQQzoLCAAQsQMQgwEQyQM6AggAOgQIABBDOgkIABDJAxAWEB5KBAhBGABQ6DBY4Tlg2kRoAXACeACAAY0BiAHcBJIBAzcuMZgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwj98ve137bxAhXJop4KHZ2BA8oQ4dUDCA4&uact=5)
-- [ReactOS Coding Style](https://reactos.org/wiki/Coding_Style)
-- [Oclutils – C++ OpenCL initialization helper library](https://github.com/nbigaouette/oclutils/)
-- [Austin Cyclists Split on Sharing Bike Lanes with Pizza Delivery Robots](https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/)
-- [Wikipedia's endless war over the coronavirus lab leak theory](https://www.cnet.com/features/inside-wikipedias-endless-war-over-the-coronavirus-lab-leak-theory/)
-- [Have you ever thought how nodemon works? Let's build one in under 10 minutes](https://blog.pankajtanwar.in/have-you-ever-thought-how-nodemon-works-internally-lets-build-our-own-nodemon-in-under-10-minutes)
-- [The State of Python Packaging in 2021](https://venthur.de/2021-06-26-python-packaging.html)
-- [WD My Book NAS devices are being remotely wiped clean worldwide](https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/)
-- [The mysteries of the icy cloud around our Solar System](https://www.bbc.com/future/article/20210618-the-solar-systems-icy-shell-contaminated-by-other-stars)
-- [Intellia, with first results, delivers a 'landmark' for CRISPR gene editing](https://www.biopharmadive.com/news/intellia-crispr-gene-editing-study-ttr-amyloidosis/602292/)
+- [Hint: Multi-Robot Deep Reinforcement Learning for Mobile Navigation](https://sites.google.com/berkeley.edu/hint-public)
+- [Sabarmati River Revival, India](https://www.hcp.co.in/project/sabarmati-riverfront-development)
+- [The Dev Behind One of the Best SNES Emulators Has Died](https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_taken_their_own_life)
+- [The Safety of Covid-19 Vaccinations – We Should Rethink the Policy](https://www.mdpi.com/2076-393X/9/7/693/htm)
+- [Charformer: Fast Character Transformers via Gradient-Based Subword Tokenization](https://arxiv.org/abs/2106.12672)
+- [A map of worldwide email traffic, created with R (2013)](https://blog.revolutionanalytics.com/2013/03/a-map-of-worldwide-email-traffic-created-with-r.html)
+- [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
+- [General Magic’s telescript. Programs that moved instead of data](https://instadeq.com/blog/posts/past-futures-of-programming-general-magic-telescript/)
+- [Surfside Official Told Residents Building Was Safe, Despite Engineer's Warning](https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/27/1010710735/surfside-official-told-residents-their-building-was-safe-despite-engineers-warni)
+- [Cardiac: CARDboard Illustrative Aid to Computation (1969)](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

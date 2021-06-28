@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guidance for a beginner](https://www.reddit.com/r/InformationTechnology/comments/o8ydwj/guidance_for_a_beginner/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
 - [Can someone answer a possibly unethical question for me?](https://www.reddit.com/r/InformationTechnology/comments/o88hhi/can_someone_answer_a_possibly_unethical_question/)
 - [Windows 11 and TPM/Trusted Computing](https://www.reddit.com/r/InformationTechnology/comments/o829uu/windows_11_and_tpmtrusted_computing/)
@@ -415,7 +416,6 @@
 - [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
 - [Just signed and accepted an offer for a Tier 1 position, salary. No previous experience in the field or certifications AMA](https://www.reddit.com/r/InformationTechnology/comments/o6lflx/just_signed_and_accepted_an_offer_for_a_tier_1/)
 - [Help Desk](https://www.reddit.com/r/InformationTechnology/comments/o6kopm/help_desk/)
-- [Can bits be comprised by outside threats? And if so, what can they do with it?](https://www.reddit.com/r/InformationTechnology/comments/o67bbi/can_bits_be_comprised_by_outside_threats_and_if/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

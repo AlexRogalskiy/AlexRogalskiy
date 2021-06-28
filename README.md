@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sydney Covid update: NSW records 30 new cases as vaccination hub identified as exposure site](https://www.theguardian.com/australia-news/2021/jun/27/sydney-covid-cluster-nsw-records-30-new-cases-as-vaccination-hub-identified-as-exposure-site)
-- [‘Praying for a miracle’: the desperate search for scores missing in condo collapse](https://www.theguardian.com/us-news/2021/jun/26/condo-collapse-surfside-search)
-- [Croatia’s Ivan Perisic tests positive for Covid and will miss Spain tie](https://www.theguardian.com/football/2021/jun/27/croatias-ivan-perisic-tests-positive-for-covid-and-will-miss-spain-tie)
-- [Hipgnosis’s back-catalogue spending pays off in pandemic](https://www.theguardian.com/business/2021/jun/27/hipgnosis-music-streaming-old-songs-beyonce-blondie)
-- [Make a splash: 21 of the best swimsuits – in pictures](https://www.theguardian.com/fashion/gallery/2021/jun/26/make-a-splash-21-of-the-best-swimsuits-in-pictures)
-- [Sajid Javid steps back into the cabinet to steer UK out of pandemic](https://www.theguardian.com/politics/2021/jun/26/sajid-javid-steps-back-into-the-cabinet-to-steer-uk-out-of-pandemic)
-- [Blow to Johnson’s authority as his health minister loses all support](https://www.theguardian.com/politics/2021/jun/26/blow-to-johnson-authority-as-health-secretary-loses-all-support)
-- [Italy find something extra from Matteo Pessina to see off Austria](https://www.theguardian.com/football/2021/jun/26/italy-austria-euro-2020-match-report)
-- [Donald Trump returns to campaign trail with rally targeting Ohio Republican](https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani)
-- [Three arrested and three officers injured at anti-lockdown protests in London](https://www.theguardian.com/world/2021/jun/26/three-arrested-and-three-officers-injured-at-anti-lockdown-protests-in-london)
+- [Young, hot and bothered: going through menopause in my 30s | podcast](https://www.theguardian.com/news/audio/2021/jun/28/young-hot-and-bothered-going-through-menopause-in-my-30s)
+- [US strikes hit Iran-backed militia facilities in Iraq and Syria](https://www.theguardian.com/world/2021/jun/28/us-strikes-hit-iran-backed-militia-facilities-in-iraq-and-syria)
+- [Hong Kong police arrest senior Apple Daily journalist at airport](https://www.theguardian.com/world/2021/jun/28/hong-kong-police-arrest-apple-daily-journalist-airport-fung-wai-kong)
+- [New York prosecutors set deadline for Trump on legal action – report](https://www.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report)
+- [Miami condo collapse: death toll rises to nine as crews search pile for survivors](https://www.theguardian.com/us-news/2021/jun/27/miami-condo-collapse-surfside-champlain-towers-2018-report-dead-missing)
+- [Beware scaling back UK furlough scheme too soon, warns Resolution Foundation](https://www.theguardian.com/uk-news/2021/jun/28/beware-scaling-back-uk-furlough-scheme-too-soon-warns-resolution-foundation)
+- [Bad Nights and Odd Days review – prescient and daring Caryl Churchill](https://www.theguardian.com/stage/2021/jun/28/bad-nights-and-odd-days-review-prescient-and-daring-caryl-churchill)
+- [Nationalising probation service not enough to fix flaws, warns watchdog](https://www.theguardian.com/society/2021/jun/28/nationalising-probation-service-not-enough-to-fix-flaws-warns-watchdog)
+- [William Shatner tells of ‘loneliness’ during Star Trek years](https://www.theguardian.com/culture/2021/jun/28/william-shatner-tells-of-loneliness-during-star-trek-years)
+- [UK military chiefs self-isolate after head of army catches Covid](https://www.theguardian.com/world/2021/jun/27/uk-defence-secretary-self-isolates-after-armed-forces-chief-tests-positive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

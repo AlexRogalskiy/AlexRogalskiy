@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hint: Multi-Robot Deep Reinforcement Learning for Mobile Navigation](https://sites.google.com/berkeley.edu/hint-public)
-- [Sabarmati River Revival, India](https://www.hcp.co.in/project/sabarmati-riverfront-development)
-- [The Dev Behind One of the Best SNES Emulators Has Died](https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_taken_their_own_life)
-- [The Safety of Covid-19 Vaccinations – We Should Rethink the Policy](https://www.mdpi.com/2076-393X/9/7/693/htm)
-- [Charformer: Fast Character Transformers via Gradient-Based Subword Tokenization](https://arxiv.org/abs/2106.12672)
-- [A map of worldwide email traffic, created with R (2013)](https://blog.revolutionanalytics.com/2013/03/a-map-of-worldwide-email-traffic-created-with-r.html)
-- [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
-- [General Magic’s telescript. Programs that moved instead of data](https://instadeq.com/blog/posts/past-futures-of-programming-general-magic-telescript/)
-- [Surfside Official Told Residents Building Was Safe, Despite Engineer's Warning](https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/27/1010710735/surfside-official-told-residents-their-building-was-safe-despite-engineers-warni)
-- [Cardiac: CARDboard Illustrative Aid to Computation (1969)](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
+- [Europe is running out of semiconductors](https://theconversation.com/europe-is-running-out-of-semiconductors-heres-what-it-can-learn-from-tech-survivor-osram-154028)
+- [Vector databases for machine learning [audio]](https://changelog.com/practicalai/139)
+- [Two Juvenile Raccoons Broke into a Bank in California](https://www.iflscience.com/plants-and-animals/two-juvenile-raccoons-broke-into-a-bank-in-california/)
+- [Tiny Treeshaker: JavaScript tree shaking in 200 lines of code](https://github.com/magicmark/tiny-treeshaker)
+- [What Alex Becker Can Teach Us About YouTube Marketing](https://jianchor.com/alex-becker-youtube-marketing/)
+- [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
+- [Life at Google versus Life at Amazon: From Hiring to Firing](https://www.inc.com/justin-bariso/life-at-google-vs-life-at-amazon-from-hiring-to-firing-and-everything-in-between.html)
+- [Unprecedented Heat Wave in Pacific Northwest Driven by Climate Change](https://www.scientificamerican.com/article/unprecedented-heat-wave-in-pacific-northwest-driven-by-climate-change/)
+- [DeWine signs executive order allowing college athletes to earn off likeness](https://www.dispatch.com/story/news/politics/2021/06/28/ohio-gov-mike-dewine-executive-order-college-athletes-earn-their-image/5370570001/)
+- [Fired by Bot at Amazon: ‘It’s You Against the Machine’](https://www.bloomberg.com/news/features/2021-06-28/fired-by-bot-amazon-turns-to-machine-managers-and-workers-are-losing-out)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

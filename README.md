@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why would you want a giant iPad?](https://www.computerworld.com/article/3623026/why-would-you-want-a-giant-ipad.html#tk.rss_all)
+- [Windows 11: The long migration](https://www.computerworld.com/article/3623052/windows-11-the-long-migration.html#tk.rss_all)
+- [Review: 6 top videoconferencing services put to the test](https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all)
 - [12 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-superpowers.html#tk.rss_all)
 - [Microsoft hits Apple with Windows 11](https://www.computerworld.com/article/3622949/microsoft-hits-apple-with-windows-11.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [What enterprise needs to know about Windows 11](https://www.computerworld.com/article/3623268/what-enterprise-needs-to-know-about-windows-11.html#tk.rss_all)
 - [Don’t make yourself a social media target](https://www.computerworld.com/article/3622973/don-t-make-yourself-a-social-media-target.html#tk.rss_all)
 - [PODCAST: iPhone 13 rumors and leaks, plus Apple argues against sideloading apps](https://www.computerworld.com/article/3623116/podcast-iphone-13-rumors-and-leaks-plus-apple-argues-against-sideloading-apps.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [A neat new trick to try with Gboard on Android](https://www.computerworld.com/article/3622192/gboard-android-keyboard-trick.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

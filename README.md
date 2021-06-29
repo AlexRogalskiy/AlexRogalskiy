@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub Container Registry available for production use](https://www.infoworld.com/article/3623291/github-container-registry-available-for-production-use.html#tk.rss_all)
+- [5 enabling technologies for hybrid and multicloud architectures](https://www.infoworld.com/article/3623125/5-enabling-technologies-for-hybrid-and-multicloud-architectures.html#tk.rss_all)
+- [How enterprises are bringing pandemic-driven cloud costs under control](https://www.infoworld.com/article/3622912/how-enterprises-are-bringing-pandemic-driven-cloud-costs-under-control.html#tk.rss_all)
+- [Review: 6 top videoconferencing services put to the test](https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all)
 - [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_all)
 - [State of AI report finds AI is now core to business success](https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html#tk.rss_all)
 - [Cloud security is still a work in progress](https://www.infoworld.com/article/3622974/cloud-security-is-still-a-work-in-progress.html#tk.rss_all)
 - [11 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [Deno Company unveils server-side JavaScript hosting service](https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_all)
 - [How to visualize time series data](https://www.infoworld.com/article/3622668/how-to-visualize-time-series-data.html#tk.rss_all)
-- [Tailwind CSS: Learn the joys of functional, responsive CSS](https://www.infoworld.com/article/3622288/tailwind-css-learn-the-joys-of-functional-responsive-css.html#tk.rss_all)
-- [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_all)
-- [Simplify machine learning with Azure Applied AI Services](https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html#tk.rss_all)
-- [How to avoid redundant DI code in ASP.NET Core](https://www.infoworld.com/article/3622463/how-to-avoid-redundant-di-code-in-aspnet-core.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

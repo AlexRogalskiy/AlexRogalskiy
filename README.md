@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Ways AI and ML Are Evolving](https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [4 Skills Will Set Apart Tomorrow's Data Scientists](https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Fox Talks Building Up a Super Bowl-Grade Digital Platform](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/fox-talks-building-up-a-super-bowl-grade-digital-platform/d/d-id/1341393?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Showing ROI for Your Analytics Project](https://www.informationweek.com/big-data/showing-roi-for-your-analytics-project/a/d-id/1341386?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The CIO's Role in Maintaining a Strong Supply Chain](https://www.informationweek.com/strategic-cio/the-cios-role-in-maintaining-a-strong-supply-chain/a/d-id/1341363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud](https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Retain Your IT Talent](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Automation Is a Game Changer, Not a Job Killer](https://www.informationweek.com/big-data/ai-machine-learning/automation-is-a-game-changer-not-a-job-killer/a/d-id/1341339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Avoid the Leading Cloud Migration Mistakes](https://www.informationweek.com/cloud/how-to-avoid-the-leading-cloud-migration-mistakes/a/d-id/1341338?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [6 Steps Companies Can Take to Strengthen Their Cyber Strategy](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/6-steps-companies-can-take-to-strengthen-their-cyber-strategy/a/d-id/1341318?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

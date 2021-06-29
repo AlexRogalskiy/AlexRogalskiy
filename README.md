@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [BAI Communications acquires U.S.-based Mobilitie](https://www.itworldcanada.com/article/bai-communications-acquires-u-s-based-mobilitie/455214)
+- [Can AIOps transform your IT operations?](https://www.itworldcanada.com/article/can-aiops-transform-your-it-operations/455127)
+- [Cyber Security Today, June 28, 2021 – More Canadian firms hit with ransomware, Nobelium group attempting to infiltrate Canadian and U.S. firms, DreamHost data fumble and more](https://www.itworldcanada.com/article/cyber-security-today-june-28-2021-more-canadian-firms-hit-with-ransomware-nobelium-group-attempting-to-infiltrate-canadian-and-u-s-firms-dreamhost-data-fumble-and-more/455193)
+- [Hashtag Trending, June 28, 2021 – Europe’s return-to-office lessons; Robocalls on the clock; Chinese fighter pilots VS AI](https://www.itworldcanada.com/article/hashtag-trending-june-28-2021-europes-return-to-office-lessons-robocalls-on-the-clock-chinese-fighter-pilots-vs-ai/455200)
 - [Windows 11 at a glance: Rounded corners, Snap upgrades, benefits for developers](https://www.itworldcanada.com/article/windows-11-at-a-glance-rounded-corners-snap-upgrades-benefits-for-developers/455170)
 - [Cyber Security Today Week in Review for June 25, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-25-2021/455122)
 - [Windows 11 compatibility checker now shows more detailed results](https://www.itworldcanada.com/article/windows-11-compatibility-checker-now-shows-more-detailed-results/455174)
 - [Do you really need to buy a TPM for Windows 11?](https://www.itworldcanada.com/article/do-you-really-need-to-buy-a-tpm-for-windows-11/455136)
 - [New Brunswick to offer bilingual cybersecurity program to all high school students](https://www.itworldcanada.com/article/new-brunswick-to-offer-bilingual-cybersecurity-program-to-all-high-school-students/455064)
 - [Cyber Security Today, June 25, 2021 – Weaknesses spotted in Atlassian web security, Russia talking cybersecurity and the EU proposes joint cybersecurity platform](https://www.itworldcanada.com/article/cyber-security-today-june-25-2021-weaknesses-spotted-in-atlassian-web-security-russia-talking-cybersecurity-and-the-eu-proposes-joint-cybersecurity-platform/455116)
-- [Hashtag Trending, June 25, 2021 – Windows 11 officially announced; Big Tech’s renewables push; Peloton drops free features](https://www.itworldcanada.com/article/hashtag-trending-june-25-2021-windows-11-officially-announced-big-techs-renewables-push-peloton-drops-free-features/455114)
-- [Cavoukian calls for more transparency in Liberal Party use of facial matching software](https://www.itworldcanada.com/article/cavoukian-calls-for-more-transparency-in-liberal-party-use-of-facial-matching-software/455106)
-- [Lenovo releases the ThinkPad X1 Extreme Gen 4 laptop](https://www.itworldcanada.com/article/lenovo-releases-the-thinkpad-x1-extreme-gen-4/455078)
-- [GreenLake takes centre stage at HPE Discover, CEO introduces Silicon on Demand with Intel](https://www.itworldcanada.com/article/greenlake-takes-centre-stage-at-hpe-discover-ceo-introduces-silicon-on-demand-with-intel/455070)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

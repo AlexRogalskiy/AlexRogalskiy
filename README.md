@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
-- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
-- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
-- [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
-- [Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
-- [Challenges in the diagnosis of magnesium status](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)
-- [x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming](https://github.com/cirosantilli/x86-bare-metal-examples)
-- [Let's code a TCP/IP stack (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-- [Privacy for Students: Surveillance Self-Defense](https://ssd.eff.org/en/module/privacy-students)
+- [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
+- [Two days before condo collapse, a pool contractor photographed damage in garage](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Mexico marijuana: Top court decriminalises recreational use of cannabis](https://www.bbc.co.uk/news/world-latin-america-57645016)
+- [A Docker footgun led to a vandal deleting NewsBlur's MongoDB database](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
+- [Make your cluster SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/)
+- [Simple test reveals if your mental images are more vivid than other people's](https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s)
+- [YouTube reinstates Right Wing Watch](https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286)
+- [Duolingo S-1 IPO](https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm)
+- [We moderns are status-drunk](https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

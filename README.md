@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Universal Credit: What went wrong, and what we learned](https://www.computerweekly.com/opinion/Universal-Credit-what-went-wrong-and-what-we-learned)
-- [Apple seeks five-year extension to planning permission deadline for Irish datacentre site](https://www.computerweekly.com/news/252503072/Apple-seeks-five-year-extension-to-planning-permission-deadline-for-Irish-datacentre-site)
-- [Windows 11: It’s more than a repositioned start button](https://www.computerweekly.com/news/252503076/Windows-11-Its-more-than-a-repositioned-start-button)
-- [NCSC CEO: UK-Ireland collaboration crucial to stop cyber threats](https://www.computerweekly.com/news/252503074/NCSC-CEO-UK-Ireland-collaboration-crucial-to-stop-cyber-threats)
-- [Anglesey schools offline after cyber attack](https://www.computerweekly.com/news/252503070/Anglesey-schools-offline-after-cyber-attack)
-- [CMA to probe Amazon and Google over fake reviews](https://www.computerweekly.com/news/252503058/CMA-to-probe-Amazon-and-Google-over-fake-reviews)
-- [Deliveroo riders do not have right to unionise, UK court rules](https://www.computerweekly.com/news/252503071/Deliveroo-riders-do-not-have-right-to-unionise-UK-court-rules)
-- [Brighton tourists charged thousands of pounds for fairground ride after Worldpay glitch](https://www.computerweekly.com/news/252503068/Brighton-tourists-charged-thousands-of-pounds-for-fairground-ride-after-Worldpay-glitch)
-- [AWS launches bug-busting programme for developers](https://www.computerweekly.com/news/252503063/AWS-launches-bug-busting-programme-for-developers)
-- [Sophie Wilson - Important LGBTQ+ figures who shaped tech’s history](https://www.computerweekly.com/photostory/252503062/Important-LGBTQ-figures-who-shaped-techs-history/3/Sophie-Wilson)
+- [Swisscom embarks on public cloud migration with AWS to power 5G innovation](https://www.computerweekly.com/news/252503173/Swisscom-embarks-on-public-cloud-migration-with-AWS-to-power-5G-innovation)
+- [Insurers unprepared for challenges of underwriting ransomware](https://www.computerweekly.com/news/252503166/Insurers-unprepared-for-challenges-of-underwriting-ransomware)
+- [Zopa Bank to make profit in its first year](https://www.computerweekly.com/news/252503165/Zopa-Bank-to-make-profit-in-its-first-year)
+- [Gartner: IaaS growth boosted during pandemic](https://www.computerweekly.com/news/252503145/Gartner-IaaS-growth-boosted-during-pandemic)
+- [UK’s FCA bans crypto exchange Binance as crackdown spreads](https://www.computerweekly.com/news/252503151/UKs-FCA-bans-crypto-exchange-Binance-as-crackdown-spreads)
+- [German merger to fuel savings fintech expansion](https://www.computerweekly.com/news/252503153/German-merger-to-fuel-savings-fintech-expansion)
+- [Green Mountain agrees to let land-based trout farm make use of its datacentre's waste heated water](https://www.computerweekly.com/news/252503154/Green-Mountain-agrees-to-let-land-based-trout-farm-make-use-of-its-datacentres-waste-heated-water)
+- [IR35 reforms: HMRC questioned about CEST as tax status of 210,000 contractors left 'undetermined'](https://www.computerweekly.com/news/252503147/IR35-reforms-HMRC-questioned-about-CEST-as-tax-status-of-210000-contractors-left-undetermined)
+- [HMRC-branded phishing scams surge despite protections](https://www.computerweekly.com/news/252503144/HMRC-branded-phishing-scams-surge-despite-protections)
+- [How CIOs can help their organisations accelerate digital transformation](https://www.computerweekly.com/opinion/How-CIOs-can-help-their-organisations-accelerate-digital-transformation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

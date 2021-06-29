@@ -406,9 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Final Year Framework Advice](https://www.reddit.com/r/InformationTechnology/comments/o9l9fv/final_year_framework_advice/)
 - [Guidance for a beginner](https://www.reddit.com/r/InformationTechnology/comments/o8ydwj/guidance_for_a_beginner/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
-- [Can someone answer a possibly unethical question for me?](https://www.reddit.com/r/InformationTechnology/comments/o88hhi/can_someone_answer_a_possibly_unethical_question/)
 - [Windows 11 and TPM/Trusted Computing](https://www.reddit.com/r/InformationTechnology/comments/o829uu/windows_11_and_tpmtrusted_computing/)
 - [Got the job: new masters grad minimal i.t experience](https://www.reddit.com/r/InformationTechnology/comments/o788jx/got_the_job_new_masters_grad_minimal_it_experience/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)

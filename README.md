@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Matt Hancock’s downfall](https://www.theguardian.com/news/audio/2021/jun/29/matt-hancock-downfall-podcast)
-- [One goalkeeping gaffe, two games and 14 goals – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/29/euro-2020-football-daily-podcast-france-switzerland-spain-croatia)
-- [Coastguard seizes half a tonne of cocaine floating off Algeria coast](https://www.theguardian.com/science/2021/jun/29/coastguard-seizes-half-a-tonne-of-cocaine-floating-off-algeria-coast)
-- [Vaccines minister condemns video of Chris Whitty being harassed by ‘thugs’](https://www.theguardian.com/uk-news/2021/jun/29/vaccines-minister-condemns-video-of-chris-whitty-being-harassed-by-thugs)
-- [Victory for Facebook as court dismisses lawsuits seeking to split company](https://www.theguardian.com/technology/2021/jun/28/facebook-antitrust-lawsuits-dismissed-ftc)
-- [Love Island review – I hate myself but I can’t stop. Please, somebody, help!](https://www.theguardian.com/tv-and-radio/2021/jun/29/love-island-seven-review-i-hate-myself-but-i-cant-stop-please-somebody-help)
-- [Rev Richard Coles calls for end to glamourising of alcoholism on TV](https://www.theguardian.com/society/2021/jun/29/rev-richard-coles-calls-end-glamourising-alcoholism-tv)
-- [Once Upon a Time in Hollywood review – Tarantino’s debut novel shines](https://www.theguardian.com/books/2021/jun/29/once-upon-a-time-in-hollywood-review-tarantinos-debut-novel-shines)
-- [Children of immigrants ‘held back by employer discrimination’ in UK](https://www.theguardian.com/money/2021/jun/29/children-of-immigrants-held-back-by-employer-discrimination-in-uk)
-- [Education secretary wants ban on mobile phones in English schools](https://www.theguardian.com/education/2021/jun/29/education-secretary-wants-ban-on-mobile-phones-in-english-schools)
+- [How the Batley and Spen byelection turned toxic](https://www.theguardian.com/news/audio/2021/jun/30/how-the-batley-and-spen-byelection-turned-toxic)
+- [England send Germany out and Ukraine leave it late – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/30/england-germany-sweden-ukraine-euro-2020-football-daily)
+- [Biden says failing infrastructure ‘a drain on our economy’ as he pushes bipartisan plan – as it happened](https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates)
+- [North Korea Covid outbreak fears after Kim Jong-un warns of ‘huge crisis’ in ‘antivirus fight’](https://www.theguardian.com/world/2021/jun/30/north-korea-covid-outbreak-fears-after-kim-jong-un-warns-of-huge-crisis-in-antivirus-fight)
+- [Bridgepoint listing offers rare glimpse into the lucrative world of private equity](https://www.theguardian.com/business/nils-pratley-on-finance/2021/jun/29/bridgepoint-listing-offers-rare-glimpse-into-the-lucrative-world-of-private-equity)
+- [Five Asian countries account for 80% of new coal power investment](https://www.theguardian.com/environment/2021/jun/30/five-asian-countries-80-percent-new-coal-power-investment)
+- [Covid loan fraud and error will cost UK taxpayers tens of billions, say MPs](https://www.theguardian.com/business/2021/jun/30/covid-loan-and-error-will-cost-uk-taxpayers-tens-of-billions-say-mps)
+- [Tories’ ‘toothless’ UK policies failing to halt drastic loss of wildlife](https://www.theguardian.com/environment/2021/jun/30/toothless-tory-policies-drastic-loss-of-wildlife-uk-aoe)
+- [‘They can’t speak freely’: Hong Kong a year after the national security law](https://www.theguardian.com/world/2021/jun/30/they-cant-speak-freely-hong-kong-a-year-after-the-national-security-law)
+- [Kit Harington to play Henry V at the Donmar Warehouse](https://www.theguardian.com/stage/2021/jun/30/kit-harington-to-play-henry-v-at-the-donmar-warehouse)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

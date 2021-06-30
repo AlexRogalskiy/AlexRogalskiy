@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which is the best laptop for an Information Systems student?](https://www.reddit.com/r/InformationTechnology/comments/oaet08/which_is_the_best_laptop_for_an_information/)
+- [Interested](https://www.reddit.com/r/InformationTechnology/comments/oac9np/interested/)
 - [Final Year Framework Advice](https://www.reddit.com/r/InformationTechnology/comments/o9l9fv/final_year_framework_advice/)
 - [Guidance for a beginner](https://www.reddit.com/r/InformationTechnology/comments/o8ydwj/guidance_for_a_beginner/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
@@ -414,8 +416,6 @@
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)
 - [HELP ME ABOUT ISO OSI STACK](https://www.reddit.com/r/InformationTechnology/comments/o7371f/help_me_about_iso_osi_stack/)
 - [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
-- [Just signed and accepted an offer for a Tier 1 position, salary. No previous experience in the field or certifications AMA](https://www.reddit.com/r/InformationTechnology/comments/o6lflx/just_signed_and_accepted_an_offer_for_a_tier_1/)
-- [Help Desk](https://www.reddit.com/r/InformationTechnology/comments/o6kopm/help_desk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

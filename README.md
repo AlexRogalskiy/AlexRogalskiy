@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Europe is running out of semiconductors](https://theconversation.com/europe-is-running-out-of-semiconductors-heres-what-it-can-learn-from-tech-survivor-osram-154028)
-- [Vector databases for machine learning [audio]](https://changelog.com/practicalai/139)
-- [Two Juvenile Raccoons Broke into a Bank in California](https://www.iflscience.com/plants-and-animals/two-juvenile-raccoons-broke-into-a-bank-in-california/)
-- [Tiny Treeshaker: JavaScript tree shaking in 200 lines of code](https://github.com/magicmark/tiny-treeshaker)
-- [What Alex Becker Can Teach Us About YouTube Marketing](https://jianchor.com/alex-becker-youtube-marketing/)
-- [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
-- [Life at Google versus Life at Amazon: From Hiring to Firing](https://www.inc.com/justin-bariso/life-at-google-vs-life-at-amazon-from-hiring-to-firing-and-everything-in-between.html)
-- [Unprecedented Heat Wave in Pacific Northwest Driven by Climate Change](https://www.scientificamerican.com/article/unprecedented-heat-wave-in-pacific-northwest-driven-by-climate-change/)
-- [DeWine signs executive order allowing college athletes to earn off likeness](https://www.dispatch.com/story/news/politics/2021/06/28/ohio-gov-mike-dewine-executive-order-college-athletes-earn-their-image/5370570001/)
-- [Fired by Bot at Amazon: ‘It’s You Against the Machine’](https://www.bloomberg.com/news/features/2021-06-28/fired-by-bot-amazon-turns-to-machine-managers-and-workers-are-losing-out)
+- [The Walrus Who Love-Clapped So Hard, He Damaged His Flippers](https://www.theatlantic.com/science/archive/2021/06/walrus-sivuqaq-clap/619319/)
+- [Why do we work so damn much?](https://www.nytimes.com/2021/06/29/opinion/ezra-klein-podcast-james-suzman.html)
+- [Modular Homes for Under $50k](https://www.boxabl.com/)
+- [A Lack of Covid-19 Genomes Could Prolong the Pandemic](https://www.quantamagazine.org/a-lack-of-covid-19-genomes-could-prolong-the-pandemic-20210628/)
+- [GitHub special files and paths: README, LICENSE, ISSUE_TEMPLATE, etc.](https://github.com/joelparkerhenderson/github-special-files-and-paths)
+- [Can Math Help You Escape a Hungry Bear?](https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/)
+- [Scientists Closer to Explaining Mars Methane Mystery](https://www.nasa.gov/feature/goddard/2021/first-you-see-it-then-you-don-t-scientists-closer-to-explaining-mars-methane-mystery)
+- [GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
+- [New molecule found in chestnut leaves disarms dangerous staph bacteria](https://phys.org/news/2021-06-molecule-chestnut-dangerous-staph-bacteria.html)
+- [Ask HN: Why isn't unlimited mobile data more common?](https://news.ycombinator.com/item?id=27684144)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

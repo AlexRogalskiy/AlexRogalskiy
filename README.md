@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Gaia-X: Will the European data cloud fail?](https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all)
+- [Kotlin gains Java coding enhancements](https://www.infoworld.com/article/3623371/kotlin-gains-java-coding-enhancements.html#tk.rss_all)
+- [6 things your cloudops technology needs to be doing now](https://www.infoworld.com/article/3623348/6-things-your-cloudops-technology-needs-to-be-doing-now.html#tk.rss_all)
+- [Another day, another multi-billion IPO for open source](https://www.infoworld.com/article/3622960/another-day-another-multi-billion-ipo-for-open-source.html#tk.rss_all)
 - [GitHub Container Registry available for production use](https://www.infoworld.com/article/3623291/github-container-registry-available-for-production-use.html#tk.rss_all)
-- [5 enabling technologies for hybrid and multicloud architectures](https://www.infoworld.com/article/3623125/5-enabling-technologies-for-hybrid-and-multicloud-architectures.html#tk.rss_all)
+- [5 key technologies for cloud architectures](https://www.infoworld.com/article/3623125/5-key-technologies-for-cloud-architectures.html#tk.rss_all)
 - [How enterprises are bringing pandemic-driven cloud costs under control](https://www.infoworld.com/article/3622912/how-enterprises-are-bringing-pandemic-driven-cloud-costs-under-control.html#tk.rss_all)
 - [Review: 6 top videoconferencing services put to the test](https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all)
 - [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_all)
 - [State of AI report finds AI is now core to business success](https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html#tk.rss_all)
-- [Cloud security is still a work in progress](https://www.infoworld.com/article/3622974/cloud-security-is-still-a-work-in-progress.html#tk.rss_all)
-- [11 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_all)
-- [Deno Company unveils server-side JavaScript hosting service](https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_all)
-- [How to visualize time series data](https://www.infoworld.com/article/3622668/how-to-visualize-time-series-data.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

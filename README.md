@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
-- [Two days before condo collapse, a pool contractor photographed damage in garage](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html)
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Mexico marijuana: Top court decriminalises recreational use of cannabis](https://www.bbc.co.uk/news/world-latin-america-57645016)
-- [A Docker footgun led to a vandal deleting NewsBlur's MongoDB database](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
-- [Make your cluster SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/)
-- [Simple test reveals if your mental images are more vivid than other people's](https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s)
-- [YouTube reinstates Right Wing Watch](https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286)
-- [Duolingo S-1 IPO](https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm)
-- [We moderns are status-drunk](https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html)
+- [A curated list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
+- [System76 Releases Pop _OS 21.04 with New Cosmic Desktop](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions)
+- [MicroMac Technology (2000)](https://www.micromac.com/index.html)
+- [Ignoring bulk change commits with Git blame](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
+- [Conspiracy: In Theory and Practice](https://edwardsnowden.substack.com/p/conspiracy-pt1)
+- [NATO Classified Cloud Platform Compromised](https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform)
+- [Command Line Interface for Signal](https://github.com/AsamK/signal-cli)
+- [An Elixir adoption success story](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/)
+- [HK media erase their archives amid rising arrests](https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/)
+- [Researchers translate a bird's brain activity into song](https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

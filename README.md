@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [How AI can make meetings smarter](https://www.computerworld.com/article/3623369/how-ai-can-make-meetings-smarter.html#tk.rss_all)
+- [The 3 words that could spell trouble for Android apps on Windows 11](https://www.computerworld.com/article/3623051/android-apps-windows.html#tk.rss_all)
+- [Should your business upgrade to Windows 11?](https://www.computerworld.com/article/3623288/should-your-business-upgrade-to-windows-11.html#tk.rss_all)
+- [Why worry with Windows 11 when you've got Chromebooks (and Chrome OS)?](https://www.computerworld.com/article/3623350/why-worry-with-windows-11-when-youve-got-chromebooks-and-chrome-os.html#tk.rss_all)
 - [Why would you want a giant iPad?](https://www.computerworld.com/article/3623026/why-would-you-want-a-giant-ipad.html#tk.rss_all)
 - [Windows 11: The long migration](https://www.computerworld.com/article/3623052/windows-11-the-long-migration.html#tk.rss_all)
 - [Review: 6 top videoconferencing services put to the test](https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all)
 - [12 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-superpowers.html#tk.rss_all)
-- [Microsoft hits Apple with Windows 11](https://www.computerworld.com/article/3622949/microsoft-hits-apple-with-windows-11.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Does Webex Legislate point to video-based collaboration's future?](https://www.computerworld.com/article/3623009/does-webex-legislate-point-to-video-based-collaborations-future.html#tk.rss_all)
-- [What enterprise needs to know about Windows 11](https://www.computerworld.com/article/3623268/what-enterprise-needs-to-know-about-windows-11.html#tk.rss_all)
-- [Don’t make yourself a social media target](https://www.computerworld.com/article/3622973/don-t-make-yourself-a-social-media-target.html#tk.rss_all)
-- [PODCAST: iPhone 13 rumors and leaks, plus Apple argues against sideloading apps](https://www.computerworld.com/article/3623116/podcast-iphone-13-rumors-and-leaks-plus-apple-argues-against-sideloading-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How a Wildlife AI Platform Solved its Data Challenge](https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [When A Good Machine Learning Model Is So Bad](https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Ways AI and ML Are Evolving](https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [4 Skills Will Set Apart Tomorrow's Data Scientists](https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Fox Talks Building Up a Super Bowl-Grade Digital Platform](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/fox-talks-building-up-a-super-bowl-grade-digital-platform/d/d-id/1341393?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Digital Transformation is Not Magic](https://www.informationweek.com/strategic-cio/digital-business/digital-transformation-is-not-magic/a/d-id/1341365?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [More Remote Work Leads to More Employee Surveillance](https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud](https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Retain Your IT Talent](https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Automation Is a Game Changer, Not a Job Killer](https://www.informationweek.com/big-data/ai-machine-learning/automation-is-a-game-changer-not-a-job-killer/a/d-id/1341339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

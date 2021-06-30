@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Ericsson and Google Cloud team up to develop 5G at the edge](https://www.itworldcanada.com/article/ericsson-and-google-cloud-team-up-to-develop-5g-at-the-edge/455260)
+- [Coffee Briefing, June 29, 2021 – AWS launches bug busting challenge; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-june-29-2021-aws-launches-bug-busting-challenge-a-podcast-roundup-and-more/455242)
+- [Hashtag Trending, June 29, 2021- Canadian Hate Speech Laws; Blackberry’s Meme-Stock Status; A.I. Playing Employment Matchmaker](https://www.itworldcanada.com/article/hashtag-trending-june-29-2021-canadian-hate-speech-laws-blackberrys-meme-stock-status-a-i-playing-employment-matchmaker/455236)
 - [BAI Communications acquires U.S.-based Mobilitie](https://www.itworldcanada.com/article/bai-communications-acquires-u-s-based-mobilitie/455214)
+- [Scaling Toronto office a top priority for Pinterest this year, says Canada head](https://www.itworldcanada.com/article/scaling-toronto-office-a-top-priority-for-pinterest-this-year-says-canada-head/455190)
 - [Can AIOps transform your IT operations?](https://www.itworldcanada.com/article/can-aiops-transform-your-it-operations/455127)
 - [Cyber Security Today, June 28, 2021 – More Canadian firms hit with ransomware, Nobelium group attempting to infiltrate Canadian and U.S. firms, DreamHost data fumble and more](https://www.itworldcanada.com/article/cyber-security-today-june-28-2021-more-canadian-firms-hit-with-ransomware-nobelium-group-attempting-to-infiltrate-canadian-and-u-s-firms-dreamhost-data-fumble-and-more/455193)
 - [Hashtag Trending, June 28, 2021 – Europe’s return-to-office lessons; Robocalls on the clock; Chinese fighter pilots VS AI](https://www.itworldcanada.com/article/hashtag-trending-june-28-2021-europes-return-to-office-lessons-robocalls-on-the-clock-chinese-fighter-pilots-vs-ai/455200)
 - [Windows 11 at a glance: Rounded corners, Snap upgrades, benefits for developers](https://www.itworldcanada.com/article/windows-11-at-a-glance-rounded-corners-snap-upgrades-benefits-for-developers/455170)
 - [Cyber Security Today Week in Review for June 25, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-25-2021/455122)
-- [Windows 11 compatibility checker now shows more detailed results](https://www.itworldcanada.com/article/windows-11-compatibility-checker-now-shows-more-detailed-results/455174)
-- [Do you really need to buy a TPM for Windows 11?](https://www.itworldcanada.com/article/do-you-really-need-to-buy-a-tpm-for-windows-11/455136)
-- [New Brunswick to offer bilingual cybersecurity program to all high school students](https://www.itworldcanada.com/article/new-brunswick-to-offer-bilingual-cybersecurity-program-to-all-high-school-students/455064)
-- [Cyber Security Today, June 25, 2021 – Weaknesses spotted in Atlassian web security, Russia talking cybersecurity and the EU proposes joint cybersecurity platform](https://www.itworldcanada.com/article/cyber-security-today-june-25-2021-weaknesses-spotted-in-atlassian-web-security-russia-talking-cybersecurity-and-the-eu-proposes-joint-cybersecurity-platform/455116)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

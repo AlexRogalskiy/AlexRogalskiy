@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Bank branches will be a thing of the past in five years, say bankers](https://www.computerweekly.com/news/252503216/Bank-branches-will-be-a-thing-of-the-past-in-five-years-say-bankers)
+- [New Nobelium attacks a reminder to attend to cyber basics](https://www.computerweekly.com/news/252503218/New-Nobelium-attacks-a-reminder-to-attend-to-cyber-basics)
+- [UK Cyber Security Council launches inaugural initiatives](https://www.computerweekly.com/news/252503214/UK-Cyber-Security-Council-launches-inaugural-initiatives)
+- [EU recognises UK data protection adequacy but warns against divergence](https://www.computerweekly.com/news/252503213/EU-recognises-UK-data-protection-adequacy-but-warns-against-divergence)
+- [Banking tech fraud: How to trace and recover your money](https://www.computerweekly.com/opinion/Banking-tech-fraud-How-to-trace-and-recover-your-money)
+- [Is the UK government planning to rewrite GDPR?](https://www.computerweekly.com/ezine/Computer-Weekly/Is-the-UK-government-planning-to-rewrite-GDPR)
 - [Swisscom embarks on public cloud migration with AWS to power 5G innovation](https://www.computerweekly.com/news/252503173/Swisscom-embarks-on-public-cloud-migration-with-AWS-to-power-5G-innovation)
 - [Insurers unprepared for challenges of underwriting ransomware](https://www.computerweekly.com/news/252503166/Insurers-unprepared-for-challenges-of-underwriting-ransomware)
 - [Zopa Bank to make profit in its first year](https://www.computerweekly.com/news/252503165/Zopa-Bank-to-make-profit-in-its-first-year)
 - [Gartner: IaaS growth boosted during pandemic](https://www.computerweekly.com/news/252503145/Gartner-IaaS-growth-boosted-during-pandemic)
-- [UK’s FCA bans crypto exchange Binance as crackdown spreads](https://www.computerweekly.com/news/252503151/UKs-FCA-bans-crypto-exchange-Binance-as-crackdown-spreads)
-- [German merger to fuel savings fintech expansion](https://www.computerweekly.com/news/252503153/German-merger-to-fuel-savings-fintech-expansion)
-- [Green Mountain agrees to let land-based trout farm make use of its datacentre's waste heated water](https://www.computerweekly.com/news/252503154/Green-Mountain-agrees-to-let-land-based-trout-farm-make-use-of-its-datacentres-waste-heated-water)
-- [IR35 reforms: HMRC questioned about CEST as tax status of 210,000 contractors left 'undetermined'](https://www.computerweekly.com/news/252503147/IR35-reforms-HMRC-questioned-about-CEST-as-tax-status-of-210000-contractors-left-undetermined)
-- [HMRC-branded phishing scams surge despite protections](https://www.computerweekly.com/news/252503144/HMRC-branded-phishing-scams-surge-despite-protections)
-- [How CIOs can help their organisations accelerate digital transformation](https://www.computerweekly.com/opinion/How-CIOs-can-help-their-organisations-accelerate-digital-transformation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

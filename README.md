@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [On the future of work, Apple is in retrograde](https://www.computerworld.com/article/3623670/on-the-future-of-work-apple-is-in-retrograde.html#tk.rss_all)
+- [A Clubhouse for the office? Slack unveils ‘Huddles’ audio chat rooms](https://www.computerworld.com/article/3623628/a-clubhouse-for-the-office-slack-unveils-huddles-audio-chat-rooms.html#tk.rss_all)
+- [The Windows 11 rollout: Microsoft’s most-botched announcement ever](https://www.computerworld.com/article/3623393/the-windows-11-rollout-microsoft-s-most-botched-announcement-ever.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [How AI can make meetings smarter](https://www.computerworld.com/article/3623369/how-ai-can-make-meetings-smarter.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Should your business upgrade to Windows 11?](https://www.computerworld.com/article/3623288/should-your-business-upgrade-to-windows-11.html#tk.rss_all)
 - [Why worry with Windows 11 when you've got Chromebooks (and Chrome OS)?](https://www.computerworld.com/article/3623350/why-worry-with-windows-11-when-youve-got-chromebooks-and-chrome-os.html#tk.rss_all)
 - [Why would you want a giant iPad?](https://www.computerworld.com/article/3623026/why-would-you-want-a-giant-ipad.html#tk.rss_all)
-- [Windows 11: The long migration](https://www.computerworld.com/article/3623052/windows-11-the-long-migration.html#tk.rss_all)
-- [Review: 6 top videoconferencing services put to the test](https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all)
-- [12 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-superpowers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

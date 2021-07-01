@@ -16,14 +16,15 @@
 # along with this program.  If not, see https\\://www.gnu.org/licenses/.
 [package]
 name = "rss-feeds-provider"
+authors = ["Alexander Rogalskiy"]
+categories = ["rss"]
+documentation = "https://github.com/AlexRogalskiy/AlexRogalskiy/wiki"
 version = "0.1.0"
 edition = "2020"
-authors = ["Alexander Rogalskiy"]
 homepage = "https://github.com/AlexRogalskiy/AlexRogalskiy"
 repository = "https://github.com/AlexRogalskiy/AlexRogalskiy"
 license = "GPL-3.0"
 keywords = ["rss", "feeds"]
-categories = ["rss"]
 description = """
 RSS feeds reader
 """
@@ -63,3 +64,6 @@ path = "rss/phrase/main.rs"
 regex = "1.4.3"
 chrono = "0.4.19"
 rss = { version = "1.5", features = ["from_url"] }
+
+[dev-dependencies]
+clippy = "0.0.302"

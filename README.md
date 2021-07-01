@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A curated list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
-- [System76 Releases Pop _OS 21.04 with New Cosmic Desktop](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions)
-- [MicroMac Technology (2000)](https://www.micromac.com/index.html)
-- [Ignoring bulk change commits with Git blame](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
-- [Conspiracy: In Theory and Practice](https://edwardsnowden.substack.com/p/conspiracy-pt1)
-- [NATO Classified Cloud Platform Compromised](https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform)
-- [Command Line Interface for Signal](https://github.com/AsamK/signal-cli)
-- [An Elixir adoption success story](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/)
-- [HK media erase their archives amid rising arrests](https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/)
-- [Researchers translate a bird's brain activity into song](https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php)
+- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
+- [Google sunsets the APK format for new Android apps](https://www.androidauthority.com/android-apks-sunset-1636829/)
+- [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+- [Are Beliefs Like Clothes?](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
+- [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
+- [Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials](https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html)
+- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
+- [Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team](https://www.tesorio.com/careers#job-openings)
+- [Asking developers to do QA is broken – why anyone should own QA](https://www.rainforestqa.com/blog/accessible-quality)
+- [Apple Makes Mac OS X Lion and Mountain Lion Free to Download](https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Half of mobile phones sold in the UK at risk of security issues](https://www.computerweekly.com/news/252503272/Half-of-mobile-phones-sold-in-the-UK-at-risk-of-security-issues)
+- [REvil affiliates offer hefty ransom discounts, data reveals](https://www.computerweekly.com/news/252503285/REvil-affiliates-offer-hefty-ransom-discounts-data-reveals)
+- [LinkedIn denies exposure of 700 million user records is a data breach](https://www.computerweekly.com/news/252503281/LinkedIn-denies-exposure-of-700-million-user-records-is-a-data-breach)
+- [UK data exchanges with EU can continue after adequacy decision - but for how long?](https://www.computerweekly.com/opinion/UK-data-exchanges-with-EU-can-continue-after-adequacy-decision-but-for-how-long)
+- [Cops seize criminal VPN used by ransomware gangs](https://www.computerweekly.com/news/252503279/Cops-seize-criminal-VPN-used-by-ransomware-gangs)
+- [Interxion creates London-wide colocation datacentre hub through £1.1m fibre cable roll-out](https://www.computerweekly.com/news/252503282/Interxion-creates-London-wide-colocation-datacentre-hub-through-11m-fibre-cable-roll-out)
+- [Post-pandemic recovery drives NHS digitisation](https://www.computerweekly.com/news/252503274/Post-pandemic-recovery-drives-NHS-digitisation)
+- [Lakehouse concept aims to merge data lake and data warehouse](https://www.computerweekly.com/feature/Lakehouse-concept-aims-to-merge-data-lake-and-data-warehouse)
+- [Ethical hacking: What, why, and overcoming concerns](https://www.computerweekly.com/opinion/Ethical-hacking-what-why-and-overcoming-concerns)
 - [Bank branches will be a thing of the past in five years, say bankers](https://www.computerweekly.com/news/252503216/Bank-branches-will-be-a-thing-of-the-past-in-five-years-say-bankers)
-- [New Nobelium attacks a reminder to attend to cyber basics](https://www.computerweekly.com/news/252503218/New-Nobelium-attacks-a-reminder-to-attend-to-cyber-basics)
-- [UK Cyber Security Council launches inaugural initiatives](https://www.computerweekly.com/news/252503214/UK-Cyber-Security-Council-launches-inaugural-initiatives)
-- [EU recognises UK data protection adequacy but warns against divergence](https://www.computerweekly.com/news/252503213/EU-recognises-UK-data-protection-adequacy-but-warns-against-divergence)
-- [Banking tech fraud: How to trace and recover your money](https://www.computerweekly.com/opinion/Banking-tech-fraud-How-to-trace-and-recover-your-money)
-- [Is the UK government planning to rewrite GDPR?](https://www.computerweekly.com/ezine/Computer-Weekly/Is-the-UK-government-planning-to-rewrite-GDPR)
-- [Swisscom embarks on public cloud migration with AWS to power 5G innovation](https://www.computerweekly.com/news/252503173/Swisscom-embarks-on-public-cloud-migration-with-AWS-to-power-5G-innovation)
-- [Insurers unprepared for challenges of underwriting ransomware](https://www.computerweekly.com/news/252503166/Insurers-unprepared-for-challenges-of-underwriting-ransomware)
-- [Zopa Bank to make profit in its first year](https://www.computerweekly.com/news/252503165/Zopa-Bank-to-make-profit-in-its-first-year)
-- [Gartner: IaaS growth boosted during pandemic](https://www.computerweekly.com/news/252503145/Gartner-IaaS-growth-boosted-during-pandemic)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Walrus Who Love-Clapped So Hard, He Damaged His Flippers](https://www.theatlantic.com/science/archive/2021/06/walrus-sivuqaq-clap/619319/)
-- [Why do we work so damn much?](https://www.nytimes.com/2021/06/29/opinion/ezra-klein-podcast-james-suzman.html)
-- [Modular Homes for Under $50k](https://www.boxabl.com/)
-- [A Lack of Covid-19 Genomes Could Prolong the Pandemic](https://www.quantamagazine.org/a-lack-of-covid-19-genomes-could-prolong-the-pandemic-20210628/)
-- [GitHub special files and paths: README, LICENSE, ISSUE_TEMPLATE, etc.](https://github.com/joelparkerhenderson/github-special-files-and-paths)
-- [Can Math Help You Escape a Hungry Bear?](https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/)
-- [Scientists Closer to Explaining Mars Methane Mystery](https://www.nasa.gov/feature/goddard/2021/first-you-see-it-then-you-don-t-scientists-closer-to-explaining-mars-methane-mystery)
-- [GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
-- [New molecule found in chestnut leaves disarms dangerous staph bacteria](https://phys.org/news/2021-06-molecule-chestnut-dangerous-staph-bacteria.html)
-- [Ask HN: Why isn't unlimited mobile data more common?](https://news.ycombinator.com/item?id=27684144)
+- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
+- [How to Ask Good Questions](https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html)
+- [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
+- [Boring news cycle deals blow to partisan media](https://www.axios.com/partisan-media-biden-trump-26f54a8b-d4e2-4319-a185-bd5f55ac661f.html)
+- [Show HN: Captain Stack – a parody version GitHub Copilot](https://github.com/hieunc229/copilot-clone)
+- [Preparing soil before planting is key to successful root growth of fruit trees](https://www.goodfruit.com/preparing-soil-before-planting-is-key-to-successful-root-growth/)
+- [Wikipedia Is More One-Sided Than Ever](https://larrysanger.org/2021/06/wikipedia-is-more-one-sided-than-ever/)
+- [Cargo-Supply-Chain](https://github.com/rust-secure-code/cargo-supply-chain)
+- [CVPR officially bans social media discussion during the review period](https://docs.google.com/document/d/17TdORiPEwsEBnZdFci7OeOgv0jiI37udK9z1vlE4GOQ/mobilebasic)
+- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

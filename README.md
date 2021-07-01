@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [ServiceNow's CIO Sees Strategic Fit for Low-Code Development](https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [CIOs And CFOs Are Jointly Enabling the Future of Business](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How a Wildlife AI Platform Solved its Data Challenge](https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [When A Good Machine Learning Model Is So Bad](https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Ways AI and ML Are Evolving](https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Showing ROI for Your Analytics Project](https://www.informationweek.com/big-data/showing-roi-for-your-analytics-project/a/d-id/1341386?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The CIO's Role in Maintaining a Strong Supply Chain](https://www.informationweek.com/strategic-cio/the-cios-role-in-maintaining-a-strong-supply-chain/a/d-id/1341363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Digital Transformation is Not Magic](https://www.informationweek.com/strategic-cio/digital-business/digital-transformation-is-not-magic/a/d-id/1341365?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [More Remote Work Leads to More Employee Surveillance](https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud](https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

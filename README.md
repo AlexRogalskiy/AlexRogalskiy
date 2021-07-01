@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Data of 700 million LinkedIn users is being sold on hacker forum](https://www.itworldcanada.com/article/data-of-700-million-linkedin-users-is-being-sold-on-hacker-forum/455294)
+- [Cyber Security Today, June 30, 2021 – Meet HackMachine, a crook’s valuable hacking tool](https://www.itworldcanada.com/article/cyber-security-today-june-30-2021-meet-hackmachine-a-crooks-valuable-hacking-tool/455271)
+- [Moving beyond cybersecurity table stakes with IAM](https://www.itworldcanada.com/article/moving-beyond-cybersecurity-table-stakes-with-iam/455282)
+- [Hashtag Trending, June 30, 2021 –  Apple employee body cameras; Tech Company HR policies, Shopify Unite 2021](https://www.itworldcanada.com/article/hashtag-trending-june-30-2021-apple-employee-body-cameras-tech-company-hr-policies-shopify-unite-2021/455269)
 - [Ericsson and Google Cloud team up to develop 5G at the edge](https://www.itworldcanada.com/article/ericsson-and-google-cloud-team-up-to-develop-5g-at-the-edge/455260)
 - [Coffee Briefing, June 29, 2021 – AWS launches bug busting challenge; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-june-29-2021-aws-launches-bug-busting-challenge-a-podcast-roundup-and-more/455242)
 - [Hashtag Trending, June 29, 2021- Canadian Hate Speech Laws; Blackberry’s Meme-Stock Status; A.I. Playing Employment Matchmaker](https://www.itworldcanada.com/article/hashtag-trending-june-29-2021-canadian-hate-speech-laws-blackberrys-meme-stock-status-a-i-playing-employment-matchmaker/455236)
 - [BAI Communications acquires U.S.-based Mobilitie](https://www.itworldcanada.com/article/bai-communications-acquires-u-s-based-mobilitie/455214)
 - [Scaling Toronto office a top priority for Pinterest this year, says Canada head](https://www.itworldcanada.com/article/scaling-toronto-office-a-top-priority-for-pinterest-this-year-says-canada-head/455190)
 - [Can AIOps transform your IT operations?](https://www.itworldcanada.com/article/can-aiops-transform-your-it-operations/455127)
-- [Cyber Security Today, June 28, 2021 – More Canadian firms hit with ransomware, Nobelium group attempting to infiltrate Canadian and U.S. firms, DreamHost data fumble and more](https://www.itworldcanada.com/article/cyber-security-today-june-28-2021-more-canadian-firms-hit-with-ransomware-nobelium-group-attempting-to-infiltrate-canadian-and-u-s-firms-dreamhost-data-fumble-and-more/455193)
-- [Hashtag Trending, June 28, 2021 – Europe’s return-to-office lessons; Robocalls on the clock; Chinese fighter pilots VS AI](https://www.itworldcanada.com/article/hashtag-trending-june-28-2021-europes-return-to-office-lessons-robocalls-on-the-clock-chinese-fighter-pilots-vs-ai/455200)
-- [Windows 11 at a glance: Rounded corners, Snap upgrades, benefits for developers](https://www.itworldcanada.com/article/windows-11-at-a-glance-rounded-corners-snap-upgrades-benefits-for-developers/455170)
-- [Cyber Security Today Week in Review for June 25, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-june-25-2021/455122)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How the Batley and Spen byelection turned toxic](https://www.theguardian.com/news/audio/2021/jun/30/how-the-batley-and-spen-byelection-turned-toxic)
-- [England send Germany out and Ukraine leave it late – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jun/30/england-germany-sweden-ukraine-euro-2020-football-daily)
-- [Biden says failing infrastructure ‘a drain on our economy’ as he pushes bipartisan plan – as it happened](https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates)
-- [North Korea Covid outbreak fears after Kim Jong-un warns of ‘huge crisis’ in ‘antivirus fight’](https://www.theguardian.com/world/2021/jun/30/north-korea-covid-outbreak-fears-after-kim-jong-un-warns-of-huge-crisis-in-antivirus-fight)
-- [Bridgepoint listing offers rare glimpse into the lucrative world of private equity](https://www.theguardian.com/business/nils-pratley-on-finance/2021/jun/29/bridgepoint-listing-offers-rare-glimpse-into-the-lucrative-world-of-private-equity)
-- [Five Asian countries account for 80% of new coal power investment](https://www.theguardian.com/environment/2021/jun/30/five-asian-countries-80-percent-new-coal-power-investment)
-- [Covid loan fraud and error will cost UK taxpayers tens of billions, say MPs](https://www.theguardian.com/business/2021/jun/30/covid-loan-and-error-will-cost-uk-taxpayers-tens-of-billions-say-mps)
-- [Tories’ ‘toothless’ UK policies failing to halt drastic loss of wildlife](https://www.theguardian.com/environment/2021/jun/30/toothless-tory-policies-drastic-loss-of-wildlife-uk-aoe)
-- [‘They can’t speak freely’: Hong Kong a year after the national security law](https://www.theguardian.com/world/2021/jun/30/they-cant-speak-freely-hong-kong-a-year-after-the-national-security-law)
-- [Kit Harington to play Henry V at the Donmar Warehouse](https://www.theguardian.com/stage/2021/jun/30/kit-harington-to-play-henry-v-at-the-donmar-warehouse)
+- [Chinese Communist Party 100th anniversary: Xi Jinping vows China will never be bullied – live updates](https://www.theguardian.com/world/live/2021/jul/01/chinese-communisty-party-100th-year-anniversary-live-updates-centeneary-celebrations-xi-jinping-key-speech)
+- [How a pro-democracy newspaper in Hong Kong died](https://www.theguardian.com/news/audio/2021/jul/01/how-a-pro-democracy-newspaper-in-hong-kong-died)
+- [History unlikely to forgive Donald Rumsfeld’s Iraq warmongering](https://www.theguardian.com/us-news/2021/jul/01/history-unlikely-to-forgive-donald-rumsfelds-iraq-warmongering)
+- [Trump Organization and financial chief charged in a tax-related investigation](https://www.theguardian.com/us-news/2021/jun/30/trump-organization-allen-weisselberg-charged-tax-crimes)
+- [Not a lone shark: bull sharks may form ‘friendships’ with each other, study finds](https://www.theguardian.com/world/2021/jul/01/not-a-lone-shark-bull-sharks-may-form-friendships-with-each-other-study-finds)
+- [British Columbia sees 195% increase in sudden deaths during Canada heatwave](https://www.theguardian.com/world/2021/jul/01/british-columbia-sees-195-increase-in-sudden-deaths-during-canada-heatwave)
+- [Tim Berners-Lee’s NFT of world wide web source code sold for $5.4m](https://www.theguardian.com/technology/2021/jun/30/world-wide-web-nft-sold)
+- [Jacinda Ardern suggests opposition leader Judith Collins is a ‘Karen’](https://www.theguardian.com/world/2021/jul/01/new-zealand-jacinda-ardern-opposition-judith-collins-leader-karen)
+- [Employers warned not to discriminate amid rush for EU settled status](https://www.theguardian.com/politics/2021/jun/30/employers-warned-not-to-discriminate-amid-rush-for-eu-settled-status)
+- [Google’s delay in fighting online scammers is cause for shame](https://www.theguardian.com/business/nils-pratley-on-finance/2021/jul/01/googles-delay-in-fighting-online-scammers-is-cause-for-shame)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Accessibility improvements coming to Visual Studio](https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all)
+- [What is MongoDB? A quick guide for developers](https://www.infoworld.com/article/3623357/what-is-mongodb-a-quick-guide-for-developers.html#tk.rss_all)
+- [Rethinking data architectures for a cloud world](https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all)
 - [Red Hat OpenShift 4.8 shines on CI/CD, serverless functions](https://www.infoworld.com/article/3623749/red-hat-openshift-48-shines-on-cicd-serverless-functions.html#tk.rss_all)
 - [What Windows 11 means for developers](https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all)
 - [How to use filters in ASP.NET Core MVC](https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Gaia-X: Will the European data cloud fail?](https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all)
 - [Kotlin gains Java coding enhancements](https://www.infoworld.com/article/3623371/kotlin-gains-java-coding-enhancements.html#tk.rss_all)
 - [6 things your cloudops technology needs to be doing now](https://www.infoworld.com/article/3623348/6-things-your-cloudops-technology-needs-to-be-doing-now.html#tk.rss_all)
-- [Another day, another multi-billion IPO for open source](https://www.infoworld.com/article/3622960/another-day-another-multi-billion-ipo-for-open-source.html#tk.rss_all)
-- [GitHub Container Registry available for production use](https://www.infoworld.com/article/3623291/github-container-registry-available-for-production-use.html#tk.rss_all)
-- [5 key technologies for cloud architectures](https://www.infoworld.com/article/3623125/5-key-technologies-for-cloud-architectures.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

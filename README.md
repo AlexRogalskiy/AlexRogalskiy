@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
-- [How to Ask Good Questions](https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html)
-- [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
-- [Boring news cycle deals blow to partisan media](https://www.axios.com/partisan-media-biden-trump-26f54a8b-d4e2-4319-a185-bd5f55ac661f.html)
-- [Show HN: Captain Stack – a parody version GitHub Copilot](https://github.com/hieunc229/copilot-clone)
-- [Preparing soil before planting is key to successful root growth of fruit trees](https://www.goodfruit.com/preparing-soil-before-planting-is-key-to-successful-root-growth/)
-- [Wikipedia Is More One-Sided Than Ever](https://larrysanger.org/2021/06/wikipedia-is-more-one-sided-than-ever/)
-- [Cargo-Supply-Chain](https://github.com/rust-secure-code/cargo-supply-chain)
-- [CVPR officially bans social media discussion during the review period](https://docs.google.com/document/d/17TdORiPEwsEBnZdFci7OeOgv0jiI37udK9z1vlE4GOQ/mobilebasic)
-- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
+- [Interview with curl creator Daniel Stenberg](https://www.cyberciti.biz/interview/curl-creator-and-swedish-software-developer-daniel-stenberg/)
+- [The newest MAGA app is tied to a Bannon-allied Chinese billionaire](https://www.politico.com/news/2021/07/01/maga-app-bannon-chinese-billionaire-497767)
+- [Tuplex: Fast Python Data Science](https://tuplex.cs.brown.edu/)
+- [The Global Normalcy Index](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19)
+- [Positive New Data for Johnson and Johnson Single-Shot Covid-19 Vaccine](https://www.jnj.com/positive-new-data-for-johnson-johnson-single-shot-covid-19-vaccine-on-activity-against-delta-variant-and-long-lasting-durability-of-response)
+- [GPT-J Docker Image](https://hub.docker.com/r/thebigfeet/synthesis)
+- [UN confirms 18.3C record heat in Antarctica](https://news.yahoo.com/un-confirms-18-3c-record-165653827.html)
+- [Exxon Mobile executive on lobbying tactics to fight climate change initiatives](https://www.youtube.com/watch?v=5v1Yg6XejyE)
+- [Geer.tinho.net/Geer.blackhat.6viii14.txt (2014)](http://geer.tinho.net/geer.blackhat.6viii14.txt)
+- [I Stopped Using Emojis](https://thistooshallgrow.com/blog/emoji-stop)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chinese Communist Party 100th anniversary: Xi Jinping vows China will never be bullied – live updates](https://www.theguardian.com/world/live/2021/jul/01/chinese-communisty-party-100th-year-anniversary-live-updates-centeneary-celebrations-xi-jinping-key-speech)
-- [How a pro-democracy newspaper in Hong Kong died](https://www.theguardian.com/news/audio/2021/jul/01/how-a-pro-democracy-newspaper-in-hong-kong-died)
-- [History unlikely to forgive Donald Rumsfeld’s Iraq warmongering](https://www.theguardian.com/us-news/2021/jul/01/history-unlikely-to-forgive-donald-rumsfelds-iraq-warmongering)
-- [Trump Organization and financial chief charged in a tax-related investigation](https://www.theguardian.com/us-news/2021/jun/30/trump-organization-allen-weisselberg-charged-tax-crimes)
-- [Not a lone shark: bull sharks may form ‘friendships’ with each other, study finds](https://www.theguardian.com/world/2021/jul/01/not-a-lone-shark-bull-sharks-may-form-friendships-with-each-other-study-finds)
-- [British Columbia sees 195% increase in sudden deaths during Canada heatwave](https://www.theguardian.com/world/2021/jul/01/british-columbia-sees-195-increase-in-sudden-deaths-during-canada-heatwave)
-- [Tim Berners-Lee’s NFT of world wide web source code sold for $5.4m](https://www.theguardian.com/technology/2021/jun/30/world-wide-web-nft-sold)
-- [Jacinda Ardern suggests opposition leader Judith Collins is a ‘Karen’](https://www.theguardian.com/world/2021/jul/01/new-zealand-jacinda-ardern-opposition-judith-collins-leader-karen)
-- [Employers warned not to discriminate amid rush for EU settled status](https://www.theguardian.com/politics/2021/jun/30/employers-warned-not-to-discriminate-amid-rush-for-eu-settled-status)
-- [Google’s delay in fighting online scammers is cause for shame](https://www.theguardian.com/business/nils-pratley-on-finance/2021/jul/01/googles-delay-in-fighting-online-scammers-is-cause-for-shame)
+- [Britney Spears’ battle to take back control of her life and fortune](https://www.theguardian.com/news/audio/2021/jul/02/britney-spears-battle-to-take-back-control-of-her-life-and-fortune-podcast)
+- [Queen Victoria statue toppled in Canada amid anger at deaths of Indigenous children](https://www.theguardian.com/world/2021/jul/02/queen-victoria-statue-toppled-in-canada-amid-anger-at-deaths-of-indigenous-children)
+- [US halts all federal executions amid review of capital punishment](https://www.theguardian.com/world/2021/jul/01/us-federal-executions-halted-attorney-general)
+- [Indonesia triples oxygen supplies as Covid-19 outbreak worsens](https://www.theguardian.com/world/2021/jul/02/indonesia-triple-oxygen-supplies-covid-19-outbreak-worsen-delta-variant)
+- [Richard Branson aims to beat Jeff Bezos into space by nine days](https://www.theguardian.com/science/2021/jul/02/richard-branson-aims-to-beat-jeff-bezos-into-space-by-nine-days)
+- [Hundreds of dead turtles wash ashore in Sri Lanka after cargo ship wreck](https://www.theguardian.com/world/2021/jul/02/hundreds-of-dead-turtles-wash-ashore-in-sri-lanka-after-cargo-ship-wreck)
+- [‘It’s older than me’: Warholm breaks 29-year-old 400m hurdles world record](https://www.theguardian.com/sport/2021/jul/01/its-older-than-me-warholm-breaks-29-year-old-400m-hurdles-world-record)
+- [Robinhood sees rapid growth even amid lawsuits and historic fine](https://www.theguardian.com/business/2021/jul/01/robinhood-profits-ipo-lawsuits-fine)
+- [Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse](https://www.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit)
+- [‘Normal’ Jack Grealish revelling in role as England fans’ favourite](https://www.theguardian.com/football/2021/jul/01/normal-jack-grealish-revelling-in-role-as-england-fans-favourite)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

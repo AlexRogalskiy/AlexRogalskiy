@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NCSC joins US authorities to expose Russian brute force campaign](https://www.computerweekly.com/news/252503443/NCSC-joins-US-authorities-to-expose-Russian-brute-force-campaign)
+- [UK government issues “safety by design” guidance for tech firms](https://www.computerweekly.com/news/252503419/UK-government-issues-safety-by-design-guidance-for-tech-firms)
+- [US Cybersecurity and Infrastructure Security Agency launches ransomware assessment tool](https://www.computerweekly.com/news/252503403/US-Cybersecurity-and-Infrastructure-Security-Agency-launches-ransomware-assessment-tool)
+- [Cyber espionage campaign targeted central Asian states](https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states)
+- [Ten more former subpostmasters set to have wrongful convictions overturned](https://www.computerweekly.com/news/252503399/Ten-more-former-subpostmasters-set-to-have-wrongful-convictions-overturned)
+- [NHS IT fraudster Barry Stannard sentenced to five years in prison](https://www.computerweekly.com/news/252503307/NHS-IT-fraudster-Barry-Stannard-sentenced-to-five-years-in-prison)
+- [Nominations open for 2021 Security Serious Unsung Heroes Awards](https://www.computerweekly.com/news/252503239/Nominations-open-for-2021-Security-Serious-Unsung-Heroes-Awards)
 - [Half of mobile phones sold in the UK at risk of security issues](https://www.computerweekly.com/news/252503272/Half-of-mobile-phones-sold-in-the-UK-at-risk-of-security-issues)
 - [REvil affiliates offer hefty ransom discounts, data reveals](https://www.computerweekly.com/news/252503285/REvil-affiliates-offer-hefty-ransom-discounts-data-reveals)
 - [LinkedIn denies exposure of 700 million user records is a data breach](https://www.computerweekly.com/news/252503281/LinkedIn-denies-exposure-of-700-million-user-records-is-a-data-breach)
-- [UK data exchanges with EU can continue after adequacy decision - but for how long?](https://www.computerweekly.com/opinion/UK-data-exchanges-with-EU-can-continue-after-adequacy-decision-but-for-how-long)
-- [Cops seize criminal VPN used by ransomware gangs](https://www.computerweekly.com/news/252503279/Cops-seize-criminal-VPN-used-by-ransomware-gangs)
-- [Interxion creates London-wide colocation datacentre hub through £1.1m fibre cable roll-out](https://www.computerweekly.com/news/252503282/Interxion-creates-London-wide-colocation-datacentre-hub-through-11m-fibre-cable-roll-out)
-- [Post-pandemic recovery drives NHS digitisation](https://www.computerweekly.com/news/252503274/Post-pandemic-recovery-drives-NHS-digitisation)
-- [Lakehouse concept aims to merge data lake and data warehouse](https://www.computerweekly.com/feature/Lakehouse-concept-aims-to-merge-data-lake-and-data-warehouse)
-- [Ethical hacking: What, why, and overcoming concerns](https://www.computerweekly.com/opinion/Ethical-hacking-what-why-and-overcoming-concerns)
-- [Bank branches will be a thing of the past in five years, say bankers](https://www.computerweekly.com/news/252503216/Bank-branches-will-be-a-thing-of-the-past-in-five-years-say-bankers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

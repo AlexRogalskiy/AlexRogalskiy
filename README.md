@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
-- [Google sunsets the APK format for new Android apps](https://www.androidauthority.com/android-apks-sunset-1636829/)
-- [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
-- [Are Beliefs Like Clothes?](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
-- [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
-- [Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials](https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html)
-- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
-- [Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team](https://www.tesorio.com/careers#job-openings)
-- [Asking developers to do QA is broken – why anyone should own QA](https://www.rainforestqa.com/blog/accessible-quality)
-- [Apple Makes Mac OS X Lion and Mountain Lion Free to Download](https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/)
+- [Tesla Model S Plaid caught fire while driver was at the wheel, says fire chief](https://www.cnbc.com/2021/07/01/tesla-model-s-plaid-caught-fire-while-being-driven-fire-chief.html)
+- [A Group Is Its Own Worst Enemy (2003)](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+- [IBM email fiasco complicates sales deals, is worse than biz is letting on](https://www.theregister.com/2021/07/01/ibm_email_disruption_sales)
+- [Radian: A 21 century R console](https://github.com/randy3k/radian)
+- [Check If Email Exists](https://github.com/reacherhq/check-if-email-exists)
+- [Folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+- [Installing Linux into a 286 laptop from the year 1989](https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/)
+- [Flipper Zero: How it’s made and tested](https://blog.flipperzero.one/electronics-testing/)
+- [Zendar (YC S17) is hiring a R&D electronics technician (part time)](https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c)
+- [FCC reaffirms $3M fine for marketing unauthorized drone transmitters](http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

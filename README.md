@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [The secret to building a future-proof cyber security team](https://www.computerweekly.com/opinion/The-secret-to-building-a-future-proof-cyber-security-team)
+- [Cricket Australia’s replatforming of online services paid off during pandemic](https://www.computerweekly.com/news/252503500/Cricket-Australias-re-platforming-of-online-services-paid-off-during-pandemic)
+- [UK needs legislation with specific focus on biometric technologies](https://www.computerweekly.com/news/252503405/UK-needs-legislation-with-specific-focus-on-biometric-technologies)
+- [Should I be worried about PrintNightmare?](https://www.computerweekly.com/news/252503494/Should-I-be-worried-about-PrintNightmare)
 - [NCSC joins US authorities to expose Russian brute force campaign](https://www.computerweekly.com/news/252503443/NCSC-joins-US-authorities-to-expose-Russian-brute-force-campaign)
 - [UK government issues “safety by design” guidance for tech firms](https://www.computerweekly.com/news/252503419/UK-government-issues-safety-by-design-guidance-for-tech-firms)
 - [US Cybersecurity and Infrastructure Security Agency launches ransomware assessment tool](https://www.computerweekly.com/news/252503403/US-Cybersecurity-and-Infrastructure-Security-Agency-launches-ransomware-assessment-tool)
 - [Cyber espionage campaign targeted central Asian states](https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states)
 - [Ten more former subpostmasters set to have wrongful convictions overturned](https://www.computerweekly.com/news/252503399/Ten-more-former-subpostmasters-set-to-have-wrongful-convictions-overturned)
 - [NHS IT fraudster Barry Stannard sentenced to five years in prison](https://www.computerweekly.com/news/252503307/NHS-IT-fraudster-Barry-Stannard-sentenced-to-five-years-in-prison)
-- [Nominations open for 2021 Security Serious Unsung Heroes Awards](https://www.computerweekly.com/news/252503239/Nominations-open-for-2021-Security-Serious-Unsung-Heroes-Awards)
-- [Half of mobile phones sold in the UK at risk of security issues](https://www.computerweekly.com/news/252503272/Half-of-mobile-phones-sold-in-the-UK-at-risk-of-security-issues)
-- [REvil affiliates offer hefty ransom discounts, data reveals](https://www.computerweekly.com/news/252503285/REvil-affiliates-offer-hefty-ransom-discounts-data-reveals)
-- [LinkedIn denies exposure of 700 million user records is a data breach](https://www.computerweekly.com/news/252503281/LinkedIn-denies-exposure-of-700-million-user-records-is-a-data-breach)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

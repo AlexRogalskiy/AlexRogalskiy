@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [A fast, first look at macOS Monterey](https://www.computerworld.com/article/3623734/a-fast-first-look-at-macos-monterey.html#tk.rss_all)
+- [You can’t take it with you: Stop data exfiltration now](https://www.computerworld.com/article/3623708/you-can-t-take-it-with-you-stop-data-exfiltration-now.html#tk.rss_all)
+- [Dell’s UltraSharp Webcam vs. the Poly Studio P15 — choosing the right webcam](https://www.computerworld.com/article/3623811/dells-ultrasharp-webcam-vs-the-poly-studio-p15-choosing-the-right-webcam.html#tk.rss_all)
 - [Podcast: Windows 11 arrives; what's new, how it compares to macOS](https://www.computerworld.com/article/3623752/podcast-windows-11-arrives-whats-new-how-it-compares-to-macos.html#tk.rss_all)
 - [What’s new in Shortcuts on macOS?](https://www.computerworld.com/article/3623813/whats-new-in-shortcuts-on-macos.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [On the future of work, Apple is in retrograde](https://www.computerworld.com/article/3623670/on-the-future-of-work-apple-is-in-retrograde.html#tk.rss_all)
 - [A Clubhouse for the office? Slack unveils ‘Huddles’ audio chat rooms](https://www.computerworld.com/article/3623628/a-clubhouse-for-the-office-slack-unveils-huddles-audio-chat-rooms.html#tk.rss_all)
 - [The Windows 11 rollout: Microsoft’s most-botched announcement ever](https://www.computerworld.com/article/3623393/the-windows-11-rollout-microsoft-s-most-botched-announcement-ever.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
-- [How AI can make meetings smarter](https://www.computerworld.com/article/3623369/how-ai-can-make-meetings-smarter.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

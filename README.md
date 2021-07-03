@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Jim Whitehurst steps down as IBM president amid leadership reshuffle](https://www.itworldcanada.com/article/jim-whitehurst-steps-down-as-ibm-president-amid-leadership-reshuffle/455323)
+- [Cyber Security Today, July 2, 2021 – Why you should stay away from cracked software](https://www.itworldcanada.com/article/cyber-security-today-july-2-2021-why-you-should-stay-away-from-cracked-software/455313)
+- [Hashtag Trending, July 2 – Apple’s Remote Work Pushback; Sony’s PS3 Leak; Facebook hits $1 Trillion in Value](https://www.itworldcanada.com/article/hashtag-trending-july-2-apples-remote-work-pushback-sonys-ps3-leak-facebook-hits-1-trillion-in-value/455311)
 - [Data of 700 million LinkedIn users is being sold on hacker forum](https://www.itworldcanada.com/article/data-of-700-million-linkedin-users-is-being-sold-on-hacker-forum/455294)
 - [Cyber Security Today, June 30, 2021 – Meet HackMachine, a crook’s valuable hacking tool](https://www.itworldcanada.com/article/cyber-security-today-june-30-2021-meet-hackmachine-a-crooks-valuable-hacking-tool/455271)
 - [Moving beyond cybersecurity table stakes with IAM](https://www.itworldcanada.com/article/moving-beyond-cybersecurity-table-stakes-with-iam/455282)
@@ -428,9 +431,6 @@
 - [Ericsson and Google Cloud team up to develop 5G at the edge](https://www.itworldcanada.com/article/ericsson-and-google-cloud-team-up-to-develop-5g-at-the-edge/455260)
 - [Coffee Briefing, June 29, 2021 – AWS launches bug busting challenge; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-june-29-2021-aws-launches-bug-busting-challenge-a-podcast-roundup-and-more/455242)
 - [Hashtag Trending, June 29, 2021- Canadian Hate Speech Laws; Blackberry’s Meme-Stock Status; A.I. Playing Employment Matchmaker](https://www.itworldcanada.com/article/hashtag-trending-june-29-2021-canadian-hate-speech-laws-blackberrys-meme-stock-status-a-i-playing-employment-matchmaker/455236)
-- [BAI Communications acquires U.S.-based Mobilitie](https://www.itworldcanada.com/article/bai-communications-acquires-u-s-based-mobilitie/455214)
-- [Scaling Toronto office a top priority for Pinterest this year, says Canada head](https://www.itworldcanada.com/article/scaling-toronto-office-a-top-priority-for-pinterest-this-year-says-canada-head/455190)
-- [Can AIOps transform your IT operations?](https://www.itworldcanada.com/article/can-aiops-transform-your-it-operations/455127)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

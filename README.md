@@ -220,8 +220,8 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;66&#x2F;e3&#x2F;5b&#x2F;66e35b47b6b487e02878e253ba2755a3.jpg" alt=" " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;2e&#x2F;95&#x2F;1b2e958c998eb6cd78e4c41b8f06f03c.jpg" alt="Stalwart is the Word of the Day, and we&#39;re sticking to it. Click to get example sentences and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;66&#x2F;e3&#x2F;5b&#x2F;66e35b47b6b487e02878e253ba2755a3.jpg" alt="  " />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;2e&#x2F;95&#x2F;1b2e958c998eb6cd78e4c41b8f06f03c.jpg" alt="Stalwart is the Word of the Day, and we&#39;re sticking to it. Click to get example sentences and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;49&#x2F;1d&#x2F;9e&#x2F;491d9e266dc592f370e390c396a498e9.jpg" alt="Some words are worth the wait. Cunctation is the Word of the Day. Learn more at Dictionary.com! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;df&#x2F;87&#x2F;d3&#x2F;df87d3856aba2de7e7090573eb3319ab.jpg" alt="We&#39;re having a word party, and you&#39;re invited. Shivoo is the Word of the Day. Learn how to pronounce it and more at Dictionary.com. " />
     </p>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>21°C (<i>clear sky</i>), humidity: 50%, pressure: 1013 (mbar), wind: /west/ 4 (m/s), cloudy: 0%</b>
+        <b>23°C (<i>clear sky</i>), humidity: 41%, pressure: 1014 (mbar), wind: /south/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:44 am</b> and sets at <b>22:21 pm</b>.
     </p>

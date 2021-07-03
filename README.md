@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub unveils AI coding assistant for Visual Studio Code](https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all)
+- [Cloud lock-in is real](https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all)
 - [Accessibility improvements coming to Visual Studio](https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all)
 - [What is MongoDB? A quick guide for developers](https://www.infoworld.com/article/3623357/what-is-mongodb-a-quick-guide-for-developers.html#tk.rss_all)
 - [Rethinking data architectures for a cloud world](https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [How to use filters in ASP.NET Core MVC](https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all)
 - [Rust tutorial: Get started with the Rust language](https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all)
 - [Gaia-X: Will the European data cloud fail?](https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all)
-- [Kotlin gains Java coding enhancements](https://www.infoworld.com/article/3623371/kotlin-gains-java-coding-enhancements.html#tk.rss_all)
-- [6 things your cloudops technology needs to be doing now](https://www.infoworld.com/article/3623348/6-things-your-cloudops-technology-needs-to-be-doing-now.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

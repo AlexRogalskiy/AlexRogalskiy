@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interview with curl creator Daniel Stenberg](https://www.cyberciti.biz/interview/curl-creator-and-swedish-software-developer-daniel-stenberg/)
-- [The newest MAGA app is tied to a Bannon-allied Chinese billionaire](https://www.politico.com/news/2021/07/01/maga-app-bannon-chinese-billionaire-497767)
-- [Tuplex: Fast Python Data Science](https://tuplex.cs.brown.edu/)
-- [The Global Normalcy Index](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19)
-- [Positive New Data for Johnson and Johnson Single-Shot Covid-19 Vaccine](https://www.jnj.com/positive-new-data-for-johnson-johnson-single-shot-covid-19-vaccine-on-activity-against-delta-variant-and-long-lasting-durability-of-response)
-- [GPT-J Docker Image](https://hub.docker.com/r/thebigfeet/synthesis)
-- [UN confirms 18.3C record heat in Antarctica](https://news.yahoo.com/un-confirms-18-3c-record-165653827.html)
-- [Exxon Mobile executive on lobbying tactics to fight climate change initiatives](https://www.youtube.com/watch?v=5v1Yg6XejyE)
-- [Geer.tinho.net/Geer.blackhat.6viii14.txt (2014)](http://geer.tinho.net/geer.blackhat.6viii14.txt)
-- [I Stopped Using Emojis](https://thistooshallgrow.com/blog/emoji-stop)
+- [115 batshit stupid things you can put on the internet in as fast as I can go](https://www.youtube.com/watch?v=hMtu7vV_HmY)
+- [Alternative to watercolour paper – making water absorbent wooden panels](http://www.littlehumanart.co.uk/blog)
+- [Tell HN: FileStack (YC S12) is holding my data hostage](https://news.ycombinator.com/item?id=27718806)
+- [Largest US Blind Advocacy Group Bans AccessiBe from Its National Convention](https://www.forbes.com/sites/gusalexiou/2021/06/26/largest-us-blind-advocacy-group-bans-web-accessibility-overlay-giant-accessibe/)
+- [Ciro Immobile pulls a Lazarus to celebrate goal](https://twitter.com/OptusSport/status/1411083007444746243)
+- [Qualcomm to Challenge Intel with Nuvia-Designed Notebook Chips](https://www.tomshardware.com/news/qualcomm-promises-nuvia-socs-for-pcs-in-2023)
+- [The Founding Father (2002)](https://www.city-journal.org/html/forgotten-founding-father-12246.html?wallit_nosession=1)
+- [Officer plays Taylor Swift song to block video post to YouTube](https://www.bbc.co.uk/news/technology-57698858)
+- [There is no 64-bit type in C89](https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/)
+- [Underground Right-Wing Magazine](https://ramonaleone.com/wordpress/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

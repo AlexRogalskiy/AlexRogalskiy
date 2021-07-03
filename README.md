@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Britney Spears’ battle to take back control of her life and fortune](https://www.theguardian.com/news/audio/2021/jul/02/britney-spears-battle-to-take-back-control-of-her-life-and-fortune-podcast)
-- [Queen Victoria statue toppled in Canada amid anger at deaths of Indigenous children](https://www.theguardian.com/world/2021/jul/02/queen-victoria-statue-toppled-in-canada-amid-anger-at-deaths-of-indigenous-children)
-- [US halts all federal executions amid review of capital punishment](https://www.theguardian.com/world/2021/jul/01/us-federal-executions-halted-attorney-general)
-- [Indonesia triples oxygen supplies as Covid-19 outbreak worsens](https://www.theguardian.com/world/2021/jul/02/indonesia-triple-oxygen-supplies-covid-19-outbreak-worsen-delta-variant)
-- [Richard Branson aims to beat Jeff Bezos into space by nine days](https://www.theguardian.com/science/2021/jul/02/richard-branson-aims-to-beat-jeff-bezos-into-space-by-nine-days)
-- [Hundreds of dead turtles wash ashore in Sri Lanka after cargo ship wreck](https://www.theguardian.com/world/2021/jul/02/hundreds-of-dead-turtles-wash-ashore-in-sri-lanka-after-cargo-ship-wreck)
-- [‘It’s older than me’: Warholm breaks 29-year-old 400m hurdles world record](https://www.theguardian.com/sport/2021/jul/01/its-older-than-me-warholm-breaks-29-year-old-400m-hurdles-world-record)
-- [Robinhood sees rapid growth even amid lawsuits and historic fine](https://www.theguardian.com/business/2021/jul/01/robinhood-profits-ipo-lawsuits-fine)
-- [Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse](https://www.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit)
-- [‘Normal’ Jack Grealish revelling in role as England fans’ favourite](https://www.theguardian.com/football/2021/jul/01/normal-jack-grealish-revelling-in-role-as-england-fans-favourite)
+- [‘Eye of fire’: Gas leak sparks huge blaze on ocean surface off Mexico](https://www.theguardian.com/world/2021/jul/03/eye-of-fire-gas-leak-sparks-huge-blaze-on-ocean-surface-off-mexico)
+- [Fauci says regional vaccine disparities could create ‘two types of America’ – as it happened](https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live)
+- [‘Idiotic’: Fury in Ukraine after female soldiers made to march in heels](https://www.theguardian.com/world/2021/jul/03/idiotic-fury-in-ukraine-after-female-soldiers-made-to-march-in-heels)
+- [Over 400,000 people in Ethiopia’s Tigray now in famine, UN warns](https://www.theguardian.com/world/2021/jul/03/over-400000-people-in-ethiopias-tigray-now-in-famine-un-warns)
+- [Record heatwave may have killed 500 people in western Canada](https://www.theguardian.com/world/2021/jul/02/canada-heatwave-500-deaths)
+- [Latest ransomware attack appears to hit hundreds of American businesses](https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya)
+- [UK concert and festival ticket buyers warned insurance may not cover Covid](https://www.theguardian.com/money/2021/jul/03/uk-concert-festival-ticket-buyers-insurance-covid-lockdown)
+- [Miami firefighter’s daughter found dead in condo rubble as toll rises to 22](https://www.theguardian.com/us-news/2021/jul/02/miami-condo-collapse-victims-firefighter-daughter)
+- [‘I was filled with dread’: after her father killed her mother, Amani Haydar found words to heal](https://www.theguardian.com/books/2021/jul/03/i-was-filled-with-dread-after-her-father-killed-her-mother-amani-haydar-found-the-words-to-heal)
+- [Celebrities’ mini-me fashion trend wins royal approval](https://www.theguardian.com/fashion/2021/jul/02/celebrities-mini-me-fashion-trend-wins-royal-approval)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

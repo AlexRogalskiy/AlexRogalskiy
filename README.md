@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [115 batshit stupid things you can put on the internet in as fast as I can go](https://www.youtube.com/watch?v=hMtu7vV_HmY)
-- [Alternative to watercolour paper – making water absorbent wooden panels](http://www.littlehumanart.co.uk/blog)
-- [Tell HN: FileStack (YC S12) is holding my data hostage](https://news.ycombinator.com/item?id=27718806)
-- [Largest US Blind Advocacy Group Bans AccessiBe from Its National Convention](https://www.forbes.com/sites/gusalexiou/2021/06/26/largest-us-blind-advocacy-group-bans-web-accessibility-overlay-giant-accessibe/)
-- [Ciro Immobile pulls a Lazarus to celebrate goal](https://twitter.com/OptusSport/status/1411083007444746243)
-- [Qualcomm to Challenge Intel with Nuvia-Designed Notebook Chips](https://www.tomshardware.com/news/qualcomm-promises-nuvia-socs-for-pcs-in-2023)
-- [The Founding Father (2002)](https://www.city-journal.org/html/forgotten-founding-father-12246.html?wallit_nosession=1)
-- [Officer plays Taylor Swift song to block video post to YouTube](https://www.bbc.co.uk/news/technology-57698858)
-- [There is no 64-bit type in C89](https://sporks.space/2021/07/02/there-is-no-64-bit-type-in-c89/)
-- [Underground Right-Wing Magazine](https://ramonaleone.com/wordpress/)
+- [Taking over Uber accounts through voicemail](https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/)
+- [Oilsands among the most carbon intensive crudes in North America](https://www.pembina.org/blog/real-ghg-trend-oilsands)
+- [Ask HN: Google Team Matching Before Hiring Committee](https://news.ycombinator.com/item?id=27726729)
+- [AWS Infinidash](https://www.youtube.com/watch?v=5pt3KUb7kog)
+- [Bash function names can be almost anything](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
+- [GitHub Copilot vs. Leetcode](https://www.youtube.com/watch?v=FHwnrYm0mNc)
+- [The Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle)
+- [Sapolsky on Nationalism (2019)](https://www.youtube.com/watch?v=frdX0srtuHs)
+- [Magnesium Injection Cycle](https://en.wikipedia.org/wiki/Magnesium_injection_cycle)
+- [Lesser-Known Programming Languages Worth Exploring](https://programmingzen.com/10-lesser-known-programming-languages-worth-exploring/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

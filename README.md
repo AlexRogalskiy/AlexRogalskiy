@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Berlin court finds EncroChat intercept evidence cannot be used in criminal trials](https://www.computerweekly.com/news/252503524/Berlin-court-finds-EncroChat-intercept-evidence-cannot-be-used-in-criminal-trials)
 - [The secret to building a future-proof cyber security team](https://www.computerweekly.com/opinion/The-secret-to-building-a-future-proof-cyber-security-team)
 - [Cricket Australia’s replatforming of online services paid off during pandemic](https://www.computerweekly.com/news/252503500/Cricket-Australias-re-platforming-of-online-services-paid-off-during-pandemic)
 - [UK needs legislation with specific focus on biometric technologies](https://www.computerweekly.com/news/252503405/UK-needs-legislation-with-specific-focus-on-biometric-technologies)
@@ -400,7 +401,6 @@
 - [US Cybersecurity and Infrastructure Security Agency launches ransomware assessment tool](https://www.computerweekly.com/news/252503403/US-Cybersecurity-and-Infrastructure-Security-Agency-launches-ransomware-assessment-tool)
 - [Cyber espionage campaign targeted central Asian states](https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states)
 - [Ten more former subpostmasters set to have wrongful convictions overturned](https://www.computerweekly.com/news/252503399/Ten-more-former-subpostmasters-set-to-have-wrongful-convictions-overturned)
-- [NHS IT fraudster Barry Stannard sentenced to five years in prison](https://www.computerweekly.com/news/252503307/NHS-IT-fraudster-Barry-Stannard-sentenced-to-five-years-in-prison)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

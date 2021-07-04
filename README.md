@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Eye of fire’: Gas leak sparks huge blaze on ocean surface off Mexico](https://www.theguardian.com/world/2021/jul/03/eye-of-fire-gas-leak-sparks-huge-blaze-on-ocean-surface-off-mexico)
-- [Fauci says regional vaccine disparities could create ‘two types of America’ – as it happened](https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live)
-- [‘Idiotic’: Fury in Ukraine after female soldiers made to march in heels](https://www.theguardian.com/world/2021/jul/03/idiotic-fury-in-ukraine-after-female-soldiers-made-to-march-in-heels)
-- [Over 400,000 people in Ethiopia’s Tigray now in famine, UN warns](https://www.theguardian.com/world/2021/jul/03/over-400000-people-in-ethiopias-tigray-now-in-famine-un-warns)
-- [Record heatwave may have killed 500 people in western Canada](https://www.theguardian.com/world/2021/jul/02/canada-heatwave-500-deaths)
-- [Latest ransomware attack appears to hit hundreds of American businesses](https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya)
-- [UK concert and festival ticket buyers warned insurance may not cover Covid](https://www.theguardian.com/money/2021/jul/03/uk-concert-festival-ticket-buyers-insurance-covid-lockdown)
-- [Miami firefighter’s daughter found dead in condo rubble as toll rises to 22](https://www.theguardian.com/us-news/2021/jul/02/miami-condo-collapse-victims-firefighter-daughter)
-- [‘I was filled with dread’: after her father killed her mother, Amani Haydar found words to heal](https://www.theguardian.com/books/2021/jul/03/i-was-filled-with-dread-after-her-father-killed-her-mother-amani-haydar-found-the-words-to-heal)
-- [Celebrities’ mini-me fashion trend wins royal approval](https://www.theguardian.com/fashion/2021/jul/02/celebrities-mini-me-fashion-trend-wins-royal-approval)
+- [Beer is flowing again, but Fuller’s glass still looks half-empty](https://www.theguardian.com/business/2021/jul/04/beer-flowing-again-but-fullers-glass-still-half-empty)
+- [England played like a dream but this is reality for Southgate's assured side | Jonathan Liew](https://www.theguardian.com/football/2021/jul/04/england-played-like-a-dream-but-this-is-reality-for-gareth-southgates-men)
+- [Gareth Southgate says ‘painful nights’ helped put England on road to success](https://www.theguardian.com/football/2021/jul/03/gareth-southgate-says-painful-nights-helped-put-england-on-road-to-success)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [The edit: 5 ways to style floral dresses – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/03/the-edit-5-ways-to-style-floral-dresses-in-pictures)
+- [Revitalised Harry Kane turns England into powerful attacking machine | Barney Ronay](https://www.theguardian.com/football/2021/jul/03/revitalised-harry-kane-turns-england-into-powerful-attacking-machine)
+- [Biden announces investigation into international ransomware attack](https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden)
+- [Every England player facing USA can make shirt their own, says Eddie Jones](https://www.theguardian.com/sport/2021/jul/03/every-england-player-facing-usa-can-make-shirt-their-own-says-eddie-jones)
+- [England rout Ukraine 4-0 to surge into Euro 2020 semi-final with Denmark](https://www.theguardian.com/football/2021/jul/03/england-ukraine-euro-2020-quarter-final-report-harry-kane-rout-denmark)
+- [Joe Biden cherry-picks audience to promote bipartisan infrastructure deal](https://www.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

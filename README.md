@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US companies hit by 'colossal' cyber-attack](https://www.bbc.com/news/world-us-canada-57703836)
-- [Why Real Businesses Don’t Charge $5/Month](http://justinmares.com/why-real-businesses-dont-charge-5month/)
-- [Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go](https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html)
-- [Distill Hiatus](https://distill.pub/2021/distill-hiatus/)
-- [An Oral History of the L0pht (2018)](https://duo.com/decipher/an-oral-history-of-the-l0pht)
-- [Miami orders evacuation of 156-unit as structurally and electrically unsafe](https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772)
-- [Kolyma highway in Yakutia, also known as the Road of Bones, is on fire](https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
-- [The risky bat-virus engineering that links America to Wuhan](https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/)
+- [U.S. Navy Laser Creates Plasma ‘UFOs’](https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/)
+- [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Israeli camouflage tech makes soldiers ‘invisible’](https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096)
+- [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
+- [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
+- [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
+- [Show HN: Atto – BASIC computer that runs in the browser](https://jamesl.me/atto/)
+- [How not to break a search engine](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
+- [The Dawn of Formalized Mathematics](http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/)
+- [I do not agree with Github's use of copyrighted code as training for Copilot](https://thelig.ht/abandoning-github/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

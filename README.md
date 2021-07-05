@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fa&#x2F;d1&#x2F;85&#x2F;fad18574325dcd8bff2666b61f3a4ec4.jpg" alt="Today&#39;s Word of the Day puts the &quot;spangle&quot; in &quot;star-spangled.&quot; Click to learn more from the world&#39;s leading digital dictionary." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fa&#x2F;d1&#x2F;85&#x2F;fad18574325dcd8bff2666b61f3a4ec4.jpg" alt="Today&#39;s Word of the Day puts the &quot;spangle&quot; in &quot;star-spangled.&quot; Click to learn more from the world&#39;s leading digital dictionary. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;8b&#x2F;85&#x2F;85&#x2F;8b8585e79c0b7982022ce191d5bbf3d4.jpg" alt="Look up! Girandole is the Word of the Day. Wondering how to say it? Click to listen to the pronunciation, get example sentences, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;66&#x2F;e3&#x2F;5b&#x2F;66e35b47b6b487e02878e253ba2755a3.jpg" alt="  " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;1b&#x2F;2e&#x2F;95&#x2F;1b2e958c998eb6cd78e4c41b8f06f03c.jpg" alt="Stalwart is the Word of the Day, and we&#39;re sticking to it. Click to get example sentences and more. " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>20°C (<i>clear sky</i>), humidity: 65%, pressure: 1016 (mbar), wind: /west/ 2 (m/s), cloudy: 0%</b>
+        <b>24°C (<i>clear sky</i>), humidity: 55%, pressure: 1016 (mbar), wind: /west/ 3 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:47 am</b> and sets at <b>22:19 pm</b>.
     </p>

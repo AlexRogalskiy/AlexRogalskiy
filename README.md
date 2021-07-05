@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Taking over Uber accounts through voicemail](https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/)
-- [Oilsands among the most carbon intensive crudes in North America](https://www.pembina.org/blog/real-ghg-trend-oilsands)
-- [Ask HN: Google Team Matching Before Hiring Committee](https://news.ycombinator.com/item?id=27726729)
-- [AWS Infinidash](https://www.youtube.com/watch?v=5pt3KUb7kog)
-- [Bash function names can be almost anything](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
-- [GitHub Copilot vs. Leetcode](https://www.youtube.com/watch?v=FHwnrYm0mNc)
-- [The Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle)
-- [Sapolsky on Nationalism (2019)](https://www.youtube.com/watch?v=frdX0srtuHs)
-- [Magnesium Injection Cycle](https://en.wikipedia.org/wiki/Magnesium_injection_cycle)
-- [Lesser-Known Programming Languages Worth Exploring](https://programmingzen.com/10-lesser-known-programming-languages-worth-exploring/)
+- [AutoInt: Automatic Integration for Fast Neural Volume Rendering](http://www.computationalimaging.org/publications/automatic-integration/)
+- [REvil Ransomware Took Out Thousands of Business at Once](https://www.wired.com/story/revil-ransomware-supply-chain-technique/)
+- [Unicode 13.0.0 (2020)](http://www.unicode.org/versions/Unicode13.0.0/)
+- [Two Column Hacker News?](https://news.ycombinator.com/item?id=27734110)
+- [The Fourth of July](https://popehat.substack.com/p/the-fourth-of-july)
+- [Ask HN: Is the Clueweb Dataset Useful?](https://news.ycombinator.com/item?id=27734094)
+- [Binance crackdown: regulators tussle with ‘Wild West’ of crypto](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
+- [Show HN: Stretch Timer: A timer to assist with stretch routines](https://github.com/mcapodici/stretch-timer)
+- [Reproducible Builds in June 2021](https://reproducible-builds.org/reports/2021-06/)
+- [Show HN: Personal bio and email relay service](http://www.plumebio.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

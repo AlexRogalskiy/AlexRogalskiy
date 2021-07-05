@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Beer is flowing again, but Fuller’s glass still looks half-empty](https://www.theguardian.com/business/2021/jul/04/beer-flowing-again-but-fullers-glass-still-half-empty)
-- [England played like a dream but this is reality for Southgate's assured side | Jonathan Liew](https://www.theguardian.com/football/2021/jul/04/england-played-like-a-dream-but-this-is-reality-for-gareth-southgates-men)
-- [Gareth Southgate says ‘painful nights’ helped put England on road to success](https://www.theguardian.com/football/2021/jul/03/gareth-southgate-says-painful-nights-helped-put-england-on-road-to-success)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [The edit: 5 ways to style floral dresses – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/03/the-edit-5-ways-to-style-floral-dresses-in-pictures)
-- [Revitalised Harry Kane turns England into powerful attacking machine | Barney Ronay](https://www.theguardian.com/football/2021/jul/03/revitalised-harry-kane-turns-england-into-powerful-attacking-machine)
-- [Biden announces investigation into international ransomware attack](https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden)
-- [Every England player facing USA can make shirt their own, says Eddie Jones](https://www.theguardian.com/sport/2021/jul/03/every-england-player-facing-usa-can-make-shirt-their-own-says-eddie-jones)
-- [England rout Ukraine 4-0 to surge into Euro 2020 semi-final with Denmark](https://www.theguardian.com/football/2021/jul/03/england-ukraine-euro-2020-quarter-final-report-harry-kane-rout-denmark)
-- [Joe Biden cherry-picks audience to promote bipartisan infrastructure deal](https://www.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan)
+- [Why do powerful men have affairs?](https://www.theguardian.com/news/audio/2021/jul/05/why-do-powerful-men-have-affairs)
+- [Didi ride-hailing service pulled from app stores in China](https://www.theguardian.com/world/2021/jul/05/didi-ride-hailing-service-pulled-from-app-stores-in-china)
+- [Defiant Jacob Zuma compares South African judges to apartheid rulers](https://www.theguardian.com/world/2021/jul/05/defiant-jacob-zuma-compares-south-african-judges-to-apartheid-rulers)
+- [Death toll from military plane crash in Philippines rises to 50](https://www.theguardian.com/world/2021/jul/04/military-plane-crashes-in-philippines-with-survivors-pulled-from-burning-wreckage)
+- [Ever Given, the ship that blocked the Suez canal, to be released after settlement agreed](https://www.theguardian.com/world/2021/jul/05/ever-given-ship-that-blocked-the-suez-canal-to-be-released-after-settlement-agreed)
+- [Queen awards George Cross to NHS to mark 70 years of public service](https://www.theguardian.com/society/2021/jul/05/queen-awards-george-cross-to-nhs-to-mark-70-years-of-public-service)
+- [Young people fear poor mental health will affect post-Covid job prospects](https://www.theguardian.com/society/2021/jul/05/young-people-fear-poor-mental-health-will-affect-post-covid-job-prospects)
+- [Hardship cases could get discounts on UK quarantine hotel bills](https://www.theguardian.com/politics/2021/jul/05/covid-hardship-cases-could-get-discounts-on-uk-quarantine-hotel-bills)
+- [Talent review – Victoria Wood drama tackles the squalid side of celebrity](https://www.theguardian.com/stage/2021/jul/05/talent-review-victoria-wood-drama-crucible-sheffield-talent-show)
+- [Majority of Channel 4’s Paralympics presenters will have disability](https://www.theguardian.com/media/2021/jul/05/majority-of-channel-4-paralympics-presenters-will-be-disabled-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

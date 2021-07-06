@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Handy Excel keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3623723/handy-excel-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
+- [US IT job growth continues — and has more than regained pandemic losses](https://www.computerworld.com/article/3542681/us-it-job-growth-continues-and-has-more-than-regained-pandemic-losses.html#tk.rss_all)
 - [A fast, first look at macOS Monterey](https://www.computerworld.com/article/3623734/a-fast-first-look-at-macos-monterey.html#tk.rss_all)
 - [You can’t take it with you: Stop data exfiltration now](https://www.computerworld.com/article/3623708/you-can-t-take-it-with-you-stop-data-exfiltration-now.html#tk.rss_all)
 - [Dell’s UltraSharp Webcam vs. the Poly Studio P15 — choosing the right webcam](https://www.computerworld.com/article/3623811/dells-ultrasharp-webcam-vs-the-poly-studio-p15-choosing-the-right-webcam.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [Windows 11 servicing to deliver for enterprise](https://www.computerworld.com/article/3623751/windows-11-servicing-to-deliver-for-enterprise.html#tk.rss_all)
 - [On the future of work, Apple is in retrograde](https://www.computerworld.com/article/3623670/on-the-future-of-work-apple-is-in-retrograde.html#tk.rss_all)
-- [A Clubhouse for the office? Slack unveils ‘Huddles’ audio chat rooms](https://www.computerworld.com/article/3623628/a-clubhouse-for-the-office-slack-unveils-huddles-audio-chat-rooms.html#tk.rss_all)
-- [The Windows 11 rollout: Microsoft’s most-botched announcement ever](https://www.computerworld.com/article/3623393/the-windows-11-rollout-microsoft-s-most-botched-announcement-ever.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber attack on Kaseya VSA leaves IT administrators waiting for advice, looking for ransomware](https://www.itworldcanada.com/article/cyber-attack-on-kaseya-vsa-leaves-it-administrators-waiting-for-advice-looking-for-ransomware/455332)
+- [ITWC on the hunt for data case studies for fall conference](https://www.itworldcanada.com/article/itwc-on-the-hunt-for-data-case-studies-for-fall-conference/455359)
+- [Cyber Security Today, July 5, 2021 – A ransomware test for companies, a Windows Print Spooler warning, fight brute force attacks and more](https://www.itworldcanada.com/article/cyber-security-today-july-5-2021-a-ransomware-test-for-companies-a-windows-print-spooler-warning-fight-brute-force-attacks-and-more/455318)
+- [Hashtag Trending, July 5- IBM president steps down; longer TikTok videos; Facebook’s extremist warning](https://www.itworldcanada.com/article/hashtag-trending-july-5-ibm-president-steps-down-longer-tiktok-videos-facebooks-extremist-warning/455329)
 - [Jim Whitehurst steps down as IBM president amid leadership reshuffle](https://www.itworldcanada.com/article/jim-whitehurst-steps-down-as-ibm-president-amid-leadership-reshuffle/455323)
 - [Cyber Security Today, July 2, 2021 – Why you should stay away from cracked software](https://www.itworldcanada.com/article/cyber-security-today-july-2-2021-why-you-should-stay-away-from-cracked-software/455313)
 - [Hashtag Trending, July 2 – Apple’s Remote Work Pushback; Sony’s PS3 Leak; Facebook hits $1 Trillion in Value](https://www.itworldcanada.com/article/hashtag-trending-july-2-apples-remote-work-pushback-sonys-ps3-leak-facebook-hits-1-trillion-in-value/455311)
 - [Data of 700 million LinkedIn users is being sold on hacker forum](https://www.itworldcanada.com/article/data-of-700-million-linkedin-users-is-being-sold-on-hacker-forum/455294)
 - [Cyber Security Today, June 30, 2021 – Meet HackMachine, a crook’s valuable hacking tool](https://www.itworldcanada.com/article/cyber-security-today-june-30-2021-meet-hackmachine-a-crooks-valuable-hacking-tool/455271)
 - [Moving beyond cybersecurity table stakes with IAM](https://www.itworldcanada.com/article/moving-beyond-cybersecurity-table-stakes-with-iam/455282)
-- [Hashtag Trending, June 30, 2021 –  Apple employee body cameras; Tech Company HR policies, Shopify Unite 2021](https://www.itworldcanada.com/article/hashtag-trending-june-30-2021-apple-employee-body-cameras-tech-company-hr-policies-shopify-unite-2021/455269)
-- [Ericsson and Google Cloud team up to develop 5G at the edge](https://www.itworldcanada.com/article/ericsson-and-google-cloud-team-up-to-develop-5g-at-the-edge/455260)
-- [Coffee Briefing, June 29, 2021 – AWS launches bug busting challenge; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-june-29-2021-aws-launches-bug-busting-challenge-a-podcast-roundup-and-more/455242)
-- [Hashtag Trending, June 29, 2021- Canadian Hate Speech Laws; Blackberry’s Meme-Stock Status; A.I. Playing Employment Matchmaker](https://www.itworldcanada.com/article/hashtag-trending-june-29-2021-canadian-hate-speech-laws-blackberrys-meme-stock-status-a-i-playing-employment-matchmaker/455236)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AutoInt: Automatic Integration for Fast Neural Volume Rendering](http://www.computationalimaging.org/publications/automatic-integration/)
-- [REvil Ransomware Took Out Thousands of Business at Once](https://www.wired.com/story/revil-ransomware-supply-chain-technique/)
-- [Unicode 13.0.0 (2020)](http://www.unicode.org/versions/Unicode13.0.0/)
-- [Two Column Hacker News?](https://news.ycombinator.com/item?id=27734110)
-- [The Fourth of July](https://popehat.substack.com/p/the-fourth-of-july)
-- [Ask HN: Is the Clueweb Dataset Useful?](https://news.ycombinator.com/item?id=27734094)
-- [Binance crackdown: regulators tussle with ‘Wild West’ of crypto](https://www.ft.com/content/a10c297f-c8dd-48b1-9744-09d4ff2e89ca)
-- [Show HN: Stretch Timer: A timer to assist with stretch routines](https://github.com/mcapodici/stretch-timer)
-- [Reproducible Builds in June 2021](https://reproducible-builds.org/reports/2021-06/)
-- [Show HN: Personal bio and email relay service](http://www.plumebio.com)
+- [Kazakhstan: Baby Boom in the Steppe](https://www.dw.com/en/kazakhstan-baby-boom-in-the-steppe/av-58133453)
+- [Can a machine learn Machine Learning?](https://arxiv.org/abs/2107.01238)
+- [LightOn Unlocks Transformative AI](https://lighton.ai/)
+- [Amazon Wrong Services – AI Generated Fictitious AWS Products](https://twitter.com/wrongservices)
+- [Transform.tools: A Polyglot Web Converter](https://transform.tools/)
+- [A New History Changes the Balance of Power Between Ethiopia and Medieval Europe](https://www.smithsonianmag.com/history/new-history-changes-balance-power-between-ethiopia-and-medieval-europe-180978084/)
+- [There are green insects, reptiles and birds, but no green mammals. Why?](https://www.theguardian.com/notesandqueries/query/0,,-1357,00.html)
+- [Servers and Lockdown](https://etbe.coker.com.au/2021/07/05/servers-and-lockdown/)
+- [GitHub Codepilot Hallucinating Tokens](https://twitter.com/GalaxyG82210934/status/1412225642960130060)
+- [Latest patches show Rust for Linux project making great strides towards kernel](https://www.theregister.com/2021/07/05/rust_for_linux_kernel_project/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

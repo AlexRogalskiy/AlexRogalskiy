@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Ordnance Survey Data Hub marks first anniversary with developer highlights](https://www.computerweekly.com/news/252503564/Ordnance-Survey-Data-Hub-marks-first-anniversary-with-developer-highlights)
+- [Quarter of UK financial services staff want to continue working from home](https://www.computerweekly.com/news/252503548/Quarter-of-UK-financial-services-staff-want-to-continue-working-from-home)
+- [Going back to office networks, only to dismantle them once and for all](https://www.computerweekly.com/opinion/Going-back-to-office-networks-only-to-dismantle-them-once-and-for-all)
+- [How Transport for West Midlands works with geospatial data](https://www.computerweekly.com/news/252503215/How-Transport-for-West-Midlands-works-with-geospatial-data)
+- [A Computer Weekly buyer’s guide to computational storage and persistent memory](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-computational-storage-and-persistent-memory)
+- [REvil crew wants $70m in Kaseya ransomware heist](https://www.computerweekly.com/news/252503550/REvil-crew-wants-70m-in-Kaseya-ransomware-heist)
+- [Klarna’s alumni thrive with new ventures after witnessing path to success](https://www.computerweekly.com/news/252503227/Klarnas-alumni-thrive-with-new-ventures-after-witnessing-path-to-success)
+- [Toughening up web and mobile apps](https://www.computerweekly.com/feature/Toughening-up-web-and-mobile-apps)
 - [Berlin court finds EncroChat intercept evidence cannot be used in criminal trials](https://www.computerweekly.com/news/252503524/Berlin-court-finds-EncroChat-intercept-evidence-cannot-be-used-in-criminal-trials)
 - [The secret to building a future-proof cyber security team](https://www.computerweekly.com/opinion/The-secret-to-building-a-future-proof-cyber-security-team)
-- [Cricket Australia’s replatforming of online services paid off during pandemic](https://www.computerweekly.com/news/252503500/Cricket-Australias-re-platforming-of-online-services-paid-off-during-pandemic)
-- [UK needs legislation with specific focus on biometric technologies](https://www.computerweekly.com/news/252503405/UK-needs-legislation-with-specific-focus-on-biometric-technologies)
-- [Should I be worried about PrintNightmare?](https://www.computerweekly.com/news/252503494/Should-I-be-worried-about-PrintNightmare)
-- [NCSC joins US authorities to expose Russian brute force campaign](https://www.computerweekly.com/news/252503443/NCSC-joins-US-authorities-to-expose-Russian-brute-force-campaign)
-- [UK government issues “safety by design” guidance for tech firms](https://www.computerweekly.com/news/252503419/UK-government-issues-safety-by-design-guidance-for-tech-firms)
-- [US Cybersecurity and Infrastructure Security Agency launches ransomware assessment tool](https://www.computerweekly.com/news/252503403/US-Cybersecurity-and-Infrastructure-Security-Agency-launches-ransomware-assessment-tool)
-- [Cyber espionage campaign targeted central Asian states](https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states)
-- [Ten more former subpostmasters set to have wrongful convictions overturned](https://www.computerweekly.com/news/252503399/Ten-more-former-subpostmasters-set-to-have-wrongful-convictions-overturned)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

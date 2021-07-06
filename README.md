@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How the cloud and big compute are remaking HPC](https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all)
+- [How 5 companies got their developers to care about cloud costs](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html#tk.rss_all)
+- [The problem with sharding](https://www.infoworld.com/article/3623388/the-problem-with-sharding.html#tk.rss_all)
 - [GitHub unveils AI coding assistant for Visual Studio Code](https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all)
 - [Cloud lock-in is real](https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all)
 - [Accessibility improvements coming to Visual Studio](https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Rethinking data architectures for a cloud world](https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all)
 - [Red Hat OpenShift 4.8 shines on CI/CD, serverless functions](https://www.infoworld.com/article/3623749/red-hat-openshift-48-shines-on-cicd-serverless-functions.html#tk.rss_all)
 - [What Windows 11 means for developers](https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all)
-- [How to use filters in ASP.NET Core MVC](https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all)
-- [Rust tutorial: Get started with the Rust language](https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all)
-- [Gaia-X: Will the European data cloud fail?](https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

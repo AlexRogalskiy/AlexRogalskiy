@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why do powerful men have affairs?](https://www.theguardian.com/news/audio/2021/jul/05/why-do-powerful-men-have-affairs)
-- [Didi ride-hailing service pulled from app stores in China](https://www.theguardian.com/world/2021/jul/05/didi-ride-hailing-service-pulled-from-app-stores-in-china)
-- [Defiant Jacob Zuma compares South African judges to apartheid rulers](https://www.theguardian.com/world/2021/jul/05/defiant-jacob-zuma-compares-south-african-judges-to-apartheid-rulers)
-- [Death toll from military plane crash in Philippines rises to 50](https://www.theguardian.com/world/2021/jul/04/military-plane-crashes-in-philippines-with-survivors-pulled-from-burning-wreckage)
-- [Ever Given, the ship that blocked the Suez canal, to be released after settlement agreed](https://www.theguardian.com/world/2021/jul/05/ever-given-ship-that-blocked-the-suez-canal-to-be-released-after-settlement-agreed)
-- [Queen awards George Cross to NHS to mark 70 years of public service](https://www.theguardian.com/society/2021/jul/05/queen-awards-george-cross-to-nhs-to-mark-70-years-of-public-service)
-- [Young people fear poor mental health will affect post-Covid job prospects](https://www.theguardian.com/society/2021/jul/05/young-people-fear-poor-mental-health-will-affect-post-covid-job-prospects)
-- [Hardship cases could get discounts on UK quarantine hotel bills](https://www.theguardian.com/politics/2021/jul/05/covid-hardship-cases-could-get-discounts-on-uk-quarantine-hotel-bills)
-- [Talent review – Victoria Wood drama tackles the squalid side of celebrity](https://www.theguardian.com/stage/2021/jul/05/talent-review-victoria-wood-drama-crucible-sheffield-talent-show)
-- [Majority of Channel 4’s Paralympics presenters will have disability](https://www.theguardian.com/media/2021/jul/05/majority-of-channel-4-paralympics-presenters-will-be-disabled-people)
+- [After Grenfell: the unsolved cladding crisis](https://www.theguardian.com/news/audio/2021/jul/06/after-grenfell-the-fire-safety-scandal-still-affecting-thousands-of-residents-podcast)
+- [‘Masking for trouble’: what the papers say about Johnson lifting Covid restrictions](https://www.theguardian.com/world/2021/jul/06/masking-for-trouble-what-the-uk-papers-say-about-johnson-lifting-covid-restrictions)
+- [Miami condo collapse: death toll reaches 28 as demolition expands search area](https://www.theguardian.com/us-news/2021/jul/05/miami-condo-collapse-death-toll-25)
+- [‘A cascade of catastrophic failings’: the UK’s baby death scandals](https://www.theguardian.com/society/2021/jul/06/a-cascade-of-catastrophic-failings-the-uks-baby-death-scandals)
+- [Annie Mac on women in the music industry: ‘There’s still a long way to go’](https://www.theguardian.com/tv-and-radio/2021/jul/06/annie-mac-on-women-in-the-music-industry-theres-still-a-long-way-to-go)
+- [MPs say 1,000 babies die preventable deaths in England each year](https://www.theguardian.com/society/2021/jul/06/mps-say-1000-babies-die-preventable-deaths-in-england-each-year)
+- [Kathy Burke: Money Talks review – TV filler that’s 10 a penny](https://www.theguardian.com/tv-and-radio/2021/jul/05/kathy-burke-money-talks-review-tv-filler-thats-10-a-penny)
+- [Ministers attacked for ‘wrecking ball’ plans to overhaul teacher training](https://www.theguardian.com/education/2021/jul/05/ministers-attacked-for-wrecking-ball-plans-to-overhaul-teacher-training)
+- [Priti Patel to reveal proposals for offshore centres for asylum seekers](https://www.theguardian.com/uk-news/2021/jul/05/priti-patel-to-reveal-proposals-for-offshore-centres-for-asylum-seekers)
+- [Harry Kane says England must grab unique chance to play in home final](https://www.theguardian.com/football/2021/jul/05/harry-kane-says-england-must-grab-chance-play-home-final-euro-2020-denmark)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

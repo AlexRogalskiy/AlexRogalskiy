@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [World’s largest ever four day week trial in Iceland ‘overwhelming success’](https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html)
-- [Stockfish 14 Released](https://stockfishchess.org/blog/2021/stockfish-14/)
-- [Condo Wreckage Hints at Less Steel in Columns Than Design Drawings](https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html)
-- [PID Controller for controlling the number of servers in a data-center](https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5)
-- [Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
-- [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
-- [Archive and genealogy of all Quake 1 bots](https://github.com/Jason2Brownlee/QuakeBotArchive)
-- [Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns](https://github.com/jdhayford/acid-tabs-extension)
-- [Bypassing macOS TCC user privacy protections by accident and design](https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/)
-- [EU antitrust: Apple shouldn't use privacy and security to stave off competition](https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition)
+- [Peter Thiel’s $5B Roth IRA Tax Haven Is the Hottest New Investing Tip](https://www.vice.com/en/article/jg8vx4/peter-thiel-5-billion-roth-ira-tax-investing-strategy)
+- [30 years old with no career](https://news.ycombinator.com/item?id=27743303)
+- [The Long History of 'Bombay Time' and Resistance to Colonial Rule](https://www.atlasobscura.com/articles/bombay-time)
+- [Tough Turban: an open-source design for turban-wearing motorcyclists](https://toughturban.com/)
+- [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
+- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
+- [Audacity fork without any sentry telemetry or crash reporting](https://github.com/cookiengineer/audacity)
+- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Student designs device that stops blood loss from stab wounds](https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html)
+- [Raymond Chandler’s guide to street, hoodlum, and prison lingo](https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

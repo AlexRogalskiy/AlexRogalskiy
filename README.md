@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How COVID Expanded CIOs' Power and Influence](https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Define Your Cloud Strategy by Starting With Why](https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Mondelez Takes a Low-Code, No-Code Approach to Development](https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Pandemic Has Changed How IT Teams Collaborate, Permanently](https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIO Roles Will Change: The Future of Work](https://www.informationweek.com/strategic-cio/how-cio-roles-will-change-the-future-of-work/d/d-id/1341451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [CIOs And CFOs Are Jointly Enabling the Future of Business](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How a Wildlife AI Platform Solved its Data Challenge](https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [When A Good Machine Learning Model Is So Bad](https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [10 Ways AI and ML Are Evolving](https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [4 Skills Will Set Apart Tomorrow's Data Scientists](https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

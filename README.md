@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [After Grenfell: the unsolved cladding crisis](https://www.theguardian.com/news/audio/2021/jul/06/after-grenfell-the-fire-safety-scandal-still-affecting-thousands-of-residents-podcast)
-- [‘Masking for trouble’: what the papers say about Johnson lifting Covid restrictions](https://www.theguardian.com/world/2021/jul/06/masking-for-trouble-what-the-uk-papers-say-about-johnson-lifting-covid-restrictions)
-- [Miami condo collapse: death toll reaches 28 as demolition expands search area](https://www.theguardian.com/us-news/2021/jul/05/miami-condo-collapse-death-toll-25)
-- [‘A cascade of catastrophic failings’: the UK’s baby death scandals](https://www.theguardian.com/society/2021/jul/06/a-cascade-of-catastrophic-failings-the-uks-baby-death-scandals)
-- [Annie Mac on women in the music industry: ‘There’s still a long way to go’](https://www.theguardian.com/tv-and-radio/2021/jul/06/annie-mac-on-women-in-the-music-industry-theres-still-a-long-way-to-go)
-- [MPs say 1,000 babies die preventable deaths in England each year](https://www.theguardian.com/society/2021/jul/06/mps-say-1000-babies-die-preventable-deaths-in-england-each-year)
-- [Kathy Burke: Money Talks review – TV filler that’s 10 a penny](https://www.theguardian.com/tv-and-radio/2021/jul/05/kathy-burke-money-talks-review-tv-filler-thats-10-a-penny)
-- [Ministers attacked for ‘wrecking ball’ plans to overhaul teacher training](https://www.theguardian.com/education/2021/jul/05/ministers-attacked-for-wrecking-ball-plans-to-overhaul-teacher-training)
-- [Priti Patel to reveal proposals for offshore centres for asylum seekers](https://www.theguardian.com/uk-news/2021/jul/05/priti-patel-to-reveal-proposals-for-offshore-centres-for-asylum-seekers)
-- [Harry Kane says England must grab unique chance to play in home final](https://www.theguardian.com/football/2021/jul/05/harry-kane-says-england-must-grab-chance-play-home-final-euro-2020-denmark)
+- [NBA finals 2021 Game 1: Phoenix Suns v Milwaukee Bucks](https://www.theguardian.com/sport/live/2021/jul/06/nba-finals-2021-game-1-phoenix-suns-milwaukee-bucks-latest-score)
+- [Euro 2020: what would it mean if England could actually … win?](https://www.theguardian.com/news/audio/2021/jul/07/euro-2020-what-would-it-mean-england-win-podcast)
+- [Ex-police captain Eric Adams wins Democratic primary for New York mayor](https://www.theguardian.com/us-news/2021/jul/06/eric-adams-wins-new-york-mayor-primary)
+- [Italy on the spot to book their place in the final – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jul/07/euro-2020-football-daily-semi-final-italy-spain-england-preview)
+- [Britney Spears’s court-appointed lawyer asks to resign from conservatorship](https://www.theguardian.com/music/2021/jul/06/britney-spears-lawyer-asks-to-resign-samuel-ingham)
+- [Xi Jinping urges countries to confront ‘technology blockades’ in swipe at US](https://www.theguardian.com/world/2021/jul/07/xi-jinping-urges-countries-to-confront-technology-blockades-in-swipe-at-us)
+- [Sha’Carri Richardson left off US relay team, dashing last hope for Olympics](https://www.theguardian.com/sport/2021/jul/06/shacarri-richardson-olympic-relay-team-roster)
+- [Heathrow to pilot fast-track lanes for vaccinated arrivals](https://www.theguardian.com/business/2021/jul/07/heathrow-to-pilot-fast-track-lanes-for-vaccinated-arrivals)
+- [Álvaro Morata wins hearts for Spain but falls short in cruel penalty twist | Sid Lowe](https://www.theguardian.com/football/blog/2021/jul/07/alvaro-morata-spain-defeat-italy-euro-2020-semi-final)
+- [Italy suffer for shootout win in emotional and authentic tournament tussle | Barney Ronay](https://www.theguardian.com/football/2021/jul/07/jaunty-jorginho-has-last-laugh-for-italy-in-authentic-tournament-tussle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

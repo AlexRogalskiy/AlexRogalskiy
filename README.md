@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Peter Thiel’s $5B Roth IRA Tax Haven Is the Hottest New Investing Tip](https://www.vice.com/en/article/jg8vx4/peter-thiel-5-billion-roth-ira-tax-investing-strategy)
-- [30 years old with no career](https://news.ycombinator.com/item?id=27743303)
-- [The Long History of 'Bombay Time' and Resistance to Colonial Rule](https://www.atlasobscura.com/articles/bombay-time)
-- [Tough Turban: an open-source design for turban-wearing motorcyclists](https://toughturban.com/)
-- [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
-- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
-- [Audacity fork without any sentry telemetry or crash reporting](https://github.com/cookiengineer/audacity)
-- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Student designs device that stops blood loss from stab wounds](https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html)
-- [Raymond Chandler’s guide to street, hoodlum, and prison lingo](https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/)
+- [TypeScript at Google (2018)](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
+- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
+- [Tencent Deploys Facial Recognition to Detect Minors Gaming at Night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
+- [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
+- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
+- [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
+- [Reading Like a Roman](https://publicdomainreview.org/essay/reading-like-a-roman)
+- [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
+- [Fake Tesla, Apple stocks have started trading on blockchains](https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains)
+- [Defeating Cookie Banners](https://transcend.io/blog/defeating-cookie-banners)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

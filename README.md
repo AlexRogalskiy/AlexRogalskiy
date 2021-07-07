@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kazakhstan: Baby Boom in the Steppe](https://www.dw.com/en/kazakhstan-baby-boom-in-the-steppe/av-58133453)
-- [Can a machine learn Machine Learning?](https://arxiv.org/abs/2107.01238)
-- [LightOn Unlocks Transformative AI](https://lighton.ai/)
-- [Amazon Wrong Services – AI Generated Fictitious AWS Products](https://twitter.com/wrongservices)
-- [Transform.tools: A Polyglot Web Converter](https://transform.tools/)
-- [A New History Changes the Balance of Power Between Ethiopia and Medieval Europe](https://www.smithsonianmag.com/history/new-history-changes-balance-power-between-ethiopia-and-medieval-europe-180978084/)
-- [There are green insects, reptiles and birds, but no green mammals. Why?](https://www.theguardian.com/notesandqueries/query/0,,-1357,00.html)
-- [Servers and Lockdown](https://etbe.coker.com.au/2021/07/05/servers-and-lockdown/)
-- [GitHub Codepilot Hallucinating Tokens](https://twitter.com/GalaxyG82210934/status/1412225642960130060)
-- [Latest patches show Rust for Linux project making great strides towards kernel](https://www.theregister.com/2021/07/05/rust_for_linux_kernel_project/)
+- [The Data Economy Is a Barter Economy](https://hbr.org/2021/07/the-data-economy-is-a-barter-economy)
+- [Why (and how) to put notebooks in production](https://ploomber.io/posts/nbs-production/)
+- [How does a Segmentation Fault work under-the-hood?](https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
+- [Australia's banks may face rules on ethical use of tech, data](https://www.itnews.com.au/news/australias-banks-may-face-rules-on-ethical-use-of-tech-data-566937)
+- [Westpac makes headway on self-healing infrastructure capabilities](https://www.itnews.com.au/news/westpac-makes-headway-on-self-healing-infrastructure-capabilities-566843)
+- [How do we improve data management in machine learning?](https://www.software.ac.uk/blog/2021-07-06-how-do-we-improve-data-management-machine-learning)
+- [Can you carry someone else's passport across an international border?](https://travel.stackexchange.com/q/166611/101)
+- [Dendrites: The tricky challenge holding back electric cars](https://www.pnas.org/content/118/26/e2109654118)
+- [‘Social’ Mitochondria, Whispering Between Cells, Influence Health](https://www.quantamagazine.org/social-mitochondria-whispering-between-cells-influence-health-20210706/)
+- [Delta Is Now the Dominant Coronavirus Variant in the U.S.: Coronavirus Updates](https://www.npr.org/sections/coronavirus-live-updates/2021/07/06/1013582342/delta-is-now-the-dominant-coronavirus-variant-in-the-u-s)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

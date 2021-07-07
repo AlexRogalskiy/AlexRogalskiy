@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Ordnance Survey Data Hub marks first anniversary with developer highlights](https://www.computerweekly.com/news/252503564/Ordnance-Survey-Data-Hub-marks-first-anniversary-with-developer-highlights)
-- [Quarter of UK financial services staff want to continue working from home](https://www.computerweekly.com/news/252503548/Quarter-of-UK-financial-services-staff-want-to-continue-working-from-home)
-- [Going back to office networks, only to dismantle them once and for all](https://www.computerweekly.com/opinion/Going-back-to-office-networks-only-to-dismantle-them-once-and-for-all)
-- [How Transport for West Midlands works with geospatial data](https://www.computerweekly.com/news/252503215/How-Transport-for-West-Midlands-works-with-geospatial-data)
-- [A Computer Weekly buyer’s guide to computational storage and persistent memory](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-computational-storage-and-persistent-memory)
-- [REvil crew wants $70m in Kaseya ransomware heist](https://www.computerweekly.com/news/252503550/REvil-crew-wants-70m-in-Kaseya-ransomware-heist)
-- [Klarna’s alumni thrive with new ventures after witnessing path to success](https://www.computerweekly.com/news/252503227/Klarnas-alumni-thrive-with-new-ventures-after-witnessing-path-to-success)
-- [Toughening up web and mobile apps](https://www.computerweekly.com/feature/Toughening-up-web-and-mobile-apps)
-- [Berlin court finds EncroChat intercept evidence cannot be used in criminal trials](https://www.computerweekly.com/news/252503524/Berlin-court-finds-EncroChat-intercept-evidence-cannot-be-used-in-criminal-trials)
-- [The secret to building a future-proof cyber security team](https://www.computerweekly.com/opinion/The-secret-to-building-a-future-proof-cyber-security-team)
+- [The Cambridge-1 switch-on: UK’s most powerful supercomputer goes live](https://www.computerweekly.com/news/252503571/The-Cambridge-1-switch-on-UKs-most-powerful-supercomputer-goes-live)
+- [Ocado sees 19.8% increase in retail business revenue](https://www.computerweekly.com/news/252503607/Ocado-sees-198-increase-in-retail-business-revenue)
+- [About 60 Kaseya customers hit by REvil](https://www.computerweekly.com/news/252503600/About-60-Kaseya-customers-hit-by-REvil)
+- [Bank of England searches for new CIO amid once-in-a-generation project](https://www.computerweekly.com/news/252503593/Bank-of-England-searches-for-new-CIO-amid-once-in-a-generation-project)
+- [Klarna under investigation by Swedish finance watchdog](https://www.computerweekly.com/news/252503596/Klarna-under-investigation-by-Swedish-finance-watchdog)
+- [Cyber insurance costs up by a third](https://www.computerweekly.com/news/252503591/Cyber-insurance-costs-up-by-a-third)
+- [BA reaches settlement in data breach group action](https://www.computerweekly.com/news/252503589/BA-reaches-settlement-in-data-breach-group-action)
+- [Manutan claws back 25% of storage admin time in switch to Pure](https://www.computerweekly.com/news/252503587/Manutan-claws-back-25-of-storage-admin-time-in-switch-to-Pure)
+- [Gulf hospitals flock to digital health to manage lifestyle diseases](https://www.computerweekly.com/news/252503565/Gulf-hospitals-flock-to-digital-health-to-manage-lifestyle-diseases)
+- [Nordic fintech could lead the world](https://www.computerweekly.com/news/252503493/Nordic-fintech-could-lead-the-world)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

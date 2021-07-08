@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IT Pro Salary Survey: What You Earned in 2020](https://www.informationweek.com/strategic-cio/team-building-and-staffing/it-pro-salary-survey-what-you-earned-in-2020/d/d-id/1341488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Dealing with Disgruntled Employees](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/dealing-with-disgruntled-employees/a/d-id/1341454?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How COVID Expanded CIOs' Power and Influence](https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Define Your Cloud Strategy by Starting With Why](https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Mondelez Takes a Low-Code, No-Code Approach to Development](https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [How to Get a Stronger Grip on Contract and Vendor Management](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-get-a-stronger-grip-on-contract-and-vendor-management/a/d-id/1341444?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [ServiceNow's CIO Sees Strategic Fit for Low-Code Development](https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CIOs And CFOs Are Jointly Enabling the Future of Business](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How a Wildlife AI Platform Solved its Data Challenge](https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [When A Good Machine Learning Model Is So Bad](https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

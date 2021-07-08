@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Hardware](https://www.reddit.com/r/InformationTechnology/comments/ofwo6v/understanding_hardware/)
+- [Mid career crisis](https://www.reddit.com/r/InformationTechnology/comments/ofljiy/mid_career_crisis/)
 - [Which is the best laptop for an Information Systems student?](https://www.reddit.com/r/InformationTechnology/comments/oaet08/which_is_the_best_laptop_for_an_information/)
 - [Interested](https://www.reddit.com/r/InformationTechnology/comments/oac9np/interested/)
 - [Final Year Framework Advice](https://www.reddit.com/r/InformationTechnology/comments/o9l9fv/final_year_framework_advice/)
@@ -414,8 +416,6 @@
 - [Windows 11 and TPM/Trusted Computing](https://www.reddit.com/r/InformationTechnology/comments/o829uu/windows_11_and_tpmtrusted_computing/)
 - [Got the job: new masters grad minimal i.t experience](https://www.reddit.com/r/InformationTechnology/comments/o788jx/got_the_job_new_masters_grad_minimal_it_experience/)
 - [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)
-- [HELP ME ABOUT ISO OSI STACK](https://www.reddit.com/r/InformationTechnology/comments/o7371f/help_me_about_iso_osi_stack/)
-- [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

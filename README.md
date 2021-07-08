@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [The Cambridge-1 switch-on: UK’s most powerful supercomputer goes live](https://www.computerweekly.com/news/252503571/The-Cambridge-1-switch-on-UKs-most-powerful-supercomputer-goes-live)
-- [Ocado sees 19.8% increase in retail business revenue](https://www.computerweekly.com/news/252503607/Ocado-sees-198-increase-in-retail-business-revenue)
-- [About 60 Kaseya customers hit by REvil](https://www.computerweekly.com/news/252503600/About-60-Kaseya-customers-hit-by-REvil)
-- [Bank of England searches for new CIO amid once-in-a-generation project](https://www.computerweekly.com/news/252503593/Bank-of-England-searches-for-new-CIO-amid-once-in-a-generation-project)
-- [Klarna under investigation by Swedish finance watchdog](https://www.computerweekly.com/news/252503596/Klarna-under-investigation-by-Swedish-finance-watchdog)
-- [Cyber insurance costs up by a third](https://www.computerweekly.com/news/252503591/Cyber-insurance-costs-up-by-a-third)
-- [BA reaches settlement in data breach group action](https://www.computerweekly.com/news/252503589/BA-reaches-settlement-in-data-breach-group-action)
-- [Manutan claws back 25% of storage admin time in switch to Pure](https://www.computerweekly.com/news/252503587/Manutan-claws-back-25-of-storage-admin-time-in-switch-to-Pure)
-- [Gulf hospitals flock to digital health to manage lifestyle diseases](https://www.computerweekly.com/news/252503565/Gulf-hospitals-flock-to-digital-health-to-manage-lifestyle-diseases)
-- [Nordic fintech could lead the world](https://www.computerweekly.com/news/252503493/Nordic-fintech-could-lead-the-world)
+- [US government given permission to appeal UK’s decision to not extradite Julian Assange](https://www.computerweekly.com/news/252503670/US-government-given-permission-to-appeal-UKs-decision-to-not-extradite-Julian-Assange)
+- [ICO to probe Hancock over private email use](https://www.computerweekly.com/news/252503659/ICO-to-probe-Hancock-over-private-email-use)
+- [Social robots on the rise in the Netherlands](https://www.computerweekly.com/news/252503646/Social-robots-on-the-rise-in-the-Netherlands)
+- [Flexify brings virtualisation layer to multi-cloud storage](https://www.computerweekly.com/news/252503649/Flexify-brings-virtualisation-layer-to-multi-cloud-storage)
+- [Former Bank of England CIO joins Co-op Group as CTO](https://www.computerweekly.com/news/252503651/Former-Bank-of-England-CIO-joins-Co-op-Group-as-CTO)
+- [How the UK Cyber Security Council plans to professionalise security](https://www.computerweekly.com/news/252503232/How-the-UK-Cyber-Security-Council-plans-to-professionalise-security)
+- [US Department of Defense cancels controversial $10bn JEDI contract](https://www.computerweekly.com/news/252503639/US-Department-of-Defense-cancels-10bn-JEDI-contract)
+- [Oracle Fusion cloud applications pathways tend towards pragmatic](https://www.computerweekly.com/feature/Oracle-Fusion-cloud-applications-pathways-tends-towards-pragmatic)
+- [Opportunists seen targeting Kaseya REvil victims](https://www.computerweekly.com/news/252503642/Opportunists-seen-targeting-Kaseya-REvil-victims)
+- [Clara Shih, CEO, Salesforce Service Cloud on the shape of post-pandemic service work](https://www.computerweekly.com/news/252503177/Clara-Shih-CEO-Salesforce-Service-Cloud-on-the-shape-of-post-pandemic-service-work)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

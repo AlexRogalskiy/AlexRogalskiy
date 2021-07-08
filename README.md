@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Data Economy Is a Barter Economy](https://hbr.org/2021/07/the-data-economy-is-a-barter-economy)
-- [Why (and how) to put notebooks in production](https://ploomber.io/posts/nbs-production/)
-- [How does a Segmentation Fault work under-the-hood?](https://unix.stackexchange.com/questions/257598/how-does-a-segmentation-fault-work-under-the-hood)
-- [Australia's banks may face rules on ethical use of tech, data](https://www.itnews.com.au/news/australias-banks-may-face-rules-on-ethical-use-of-tech-data-566937)
-- [Westpac makes headway on self-healing infrastructure capabilities](https://www.itnews.com.au/news/westpac-makes-headway-on-self-healing-infrastructure-capabilities-566843)
-- [How do we improve data management in machine learning?](https://www.software.ac.uk/blog/2021-07-06-how-do-we-improve-data-management-machine-learning)
-- [Can you carry someone else's passport across an international border?](https://travel.stackexchange.com/q/166611/101)
-- [Dendrites: The tricky challenge holding back electric cars](https://www.pnas.org/content/118/26/e2109654118)
-- [‘Social’ Mitochondria, Whispering Between Cells, Influence Health](https://www.quantamagazine.org/social-mitochondria-whispering-between-cells-influence-health-20210706/)
-- [Delta Is Now the Dominant Coronavirus Variant in the U.S.: Coronavirus Updates](https://www.npr.org/sections/coronavirus-live-updates/2021/07/06/1013582342/delta-is-now-the-dominant-coronavirus-variant-in-the-u-s)
+- [China's gene giant harvests data from millions of women](https://mobile.reuters.com/article/idUSKCN2ED1A6)
+- [Find and Create Microschools](https://micros.school)
+- [Chinese Millennials Are ‘Chilling,’ and Beijing Isn’t Happy](https://www.nytimes.com/2021/07/03/world/asia/china-slackers-tangping.html)
+- [ideviceunback – unpack libimobiledevice idevicebackup2 backups](https://github.com/inflex/ideviceunback)
+- [Ideas to make you smarter, happier, wealthier](https://twitter.com/gregorycampion/status/1412886592381886467)
+- [Building Monocle, a universal personal search engine for life](https://thesephist.com/posts/monocle/)
+- [Nassim Nicholas Taleb Says Young Traders Should ‘Shut Up and Learn’](https://www.bloomberg.com/news/articles/2021-07-07/-black-swan-author-says-defi-manages-to-reinvent-bucket-shops-kqtizrob)
+- [The “What” and the “How” of Autonomy at Work](https://frontleft.substack.com/p/the-what-and-the-how-of-autonomy)
+- [Google Sued by 36 States over Alleged Play Store Abuses](https://www.bloomberg.com/news/articles/2021-07-07/google-set-to-be-sued-by-states-over-alleged-play-store-abuse)
+- [Haiti says four suspects in assassination have been killed and two arrested](https://www.nytimes.com/2021/07/07/world/americas/haiti-president-killed.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

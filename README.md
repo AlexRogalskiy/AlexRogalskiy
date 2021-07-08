@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals 2021 Game 1: Phoenix Suns v Milwaukee Bucks](https://www.theguardian.com/sport/live/2021/jul/06/nba-finals-2021-game-1-phoenix-suns-milwaukee-bucks-latest-score)
-- [Euro 2020: what would it mean if England could actually … win?](https://www.theguardian.com/news/audio/2021/jul/07/euro-2020-what-would-it-mean-england-win-podcast)
-- [Ex-police captain Eric Adams wins Democratic primary for New York mayor](https://www.theguardian.com/us-news/2021/jul/06/eric-adams-wins-new-york-mayor-primary)
-- [Italy on the spot to book their place in the final – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jul/07/euro-2020-football-daily-semi-final-italy-spain-england-preview)
-- [Britney Spears’s court-appointed lawyer asks to resign from conservatorship](https://www.theguardian.com/music/2021/jul/06/britney-spears-lawyer-asks-to-resign-samuel-ingham)
-- [Xi Jinping urges countries to confront ‘technology blockades’ in swipe at US](https://www.theguardian.com/world/2021/jul/07/xi-jinping-urges-countries-to-confront-technology-blockades-in-swipe-at-us)
-- [Sha’Carri Richardson left off US relay team, dashing last hope for Olympics](https://www.theguardian.com/sport/2021/jul/06/shacarri-richardson-olympic-relay-team-roster)
-- [Heathrow to pilot fast-track lanes for vaccinated arrivals](https://www.theguardian.com/business/2021/jul/07/heathrow-to-pilot-fast-track-lanes-for-vaccinated-arrivals)
-- [Álvaro Morata wins hearts for Spain but falls short in cruel penalty twist | Sid Lowe](https://www.theguardian.com/football/blog/2021/jul/07/alvaro-morata-spain-defeat-italy-euro-2020-semi-final)
-- [Italy suffer for shootout win in emotional and authentic tournament tussle | Barney Ronay](https://www.theguardian.com/football/2021/jul/07/jaunty-jorginho-has-last-laugh-for-italy-in-authentic-tournament-tussle)
+- [England edge extra-time epic to enter final battle – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jul/08/england-edge-extra-time-epic-to-enter-final-battle-euro-2020-football-daily)
+- [The government’s rape review: an apology, but will anything change?](https://www.theguardian.com/news/audio/2021/jul/08/the-governments-review-an-apology-but-will-anything-change-podcast)
+- [Explosion at Dubai’s Jebel Ali port sends tremors across city](https://www.theguardian.com/world/2021/jul/07/explosion-at-dubais-jebel-ali-port-sends-tremors-across-city)
+- [‘The history boys’: joy unconfined as papers celebrate England’s semi-final win](https://www.theguardian.com/media/2021/jul/08/the-history-boys-joy-unconfined-as-papers-celebrate-englands-semi-final-win-euro)
+- [I am living with my ex. Should we have some physical distance between us? | Leading questions](https://www.theguardian.com/lifeandstyle/2021/jul/08/i-am-currently-living-with-my-ex-should-we-have-some-physical-distance-between-us)
+- [Haiti president Jovenel Moïse assassinated by ‘armed commando group’](https://www.theguardian.com/world/2021/jul/07/haiti-president-jovenel-moise-reportedly-assassinated)
+- [Covid surge pushes Indonesia’s health system to the brink](https://www.theguardian.com/global-development/2021/jul/08/covid-surge-pushes-indonesias-health-system-to-the-brink)
+- [Gareth Southgate urges England to ‘conquer one more massive hurdle’](https://www.theguardian.com/football/2021/jul/08/gareth-southgate-urges-england-to-conquer-one-more-massive-hurdle-euro-2020-final-italy)
+- [‘No chance of life’: search for survivors ends as Miami condo deaths hit 46](https://www.theguardian.com/us-news/2021/jul/07/miami-condo-collapse-death-toll-rises-families-missing)
+- [UK must match rhetoric with action on China’s treatment of Uyghurs, say MPs](https://www.theguardian.com/politics/2021/jul/08/uk-must-match-rhetoric-with-action-on-chinas-treatment-of-uyghurs-say-mps)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [TypeScript at Google (2018)](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
-- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
-- [Tencent Deploys Facial Recognition to Detect Minors Gaming at Night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
-- [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
-- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
-- [Reading Like a Roman](https://publicdomainreview.org/essay/reading-like-a-roman)
-- [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
-- [Fake Tesla, Apple stocks have started trading on blockchains](https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains)
-- [Defeating Cookie Banners](https://transcend.io/blog/defeating-cookie-banners)
+- [Armed Afghan women take to streets in show of defiance against Taliban](https://www.theguardian.com/world/2021/jul/07/armed-afghan-women-take-to-streets-in-show-of-defiance-against-taliban)
+- [Sub-zero water splitting marks a new dawn for solar hydrogen production](https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article)
+- [Sri Lanka’s Ancient, Almost Lost Martial Art](https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art)
+- [Runway – Create Impossible Video](https://runwayml.com/)
+- [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
+- [Gibraltar, world’s only airport runway intersecting a road](https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1)
+- [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
+- [Corona Game: A simulation of how Covid-19 spreads](https://koronahra.cz/game)
+- [A call to minimize distraction and respect users’ attention (2013)](http://www.minimizedistraction.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

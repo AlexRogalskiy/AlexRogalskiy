@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Developers react to GitHub Copilot](https://www.infoworld.com/article/3624688/developers-react-to-github-copilot.html#tk.rss_all)
+- [Get a look at CodeSandbox](https://www.infoworld.com/article/3624630/get-a-look-at-codesandbox.html#tk.rss_all)
+- [How to use R with BigQuery](https://www.infoworld.com/article/3622926/how-to-use-r-with-bigquery.html#tk.rss_all)
+- [Getting started with time series analysis](https://www.infoworld.com/article/3622688/getting-started-with-time-series-analysis.html#tk.rss_all)
 - [AI gives software development tools a boost](https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html#tk.rss_all)
 - [How to use the Python for loop](https://www.infoworld.com/article/3623689/how-to-use-the-python-for-loop.html#tk.rss_all)
 - [Why cloud will continue to explode post-COVID](https://www.infoworld.com/article/3623736/why-cloud-will-continue-to-explode-post-covid.html#tk.rss_all)
 - [What is PaaS? A simpler way to build software applications](https://www.infoworld.com/article/3223434/what-is-paas-a-simpler-way-to-build-software-applications.html#tk.rss_all)
 - [How the cloud and big compute are remaking HPC](https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all)
 - [How 5 companies got their developers to care about cloud costs](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html#tk.rss_all)
-- [The problem with sharding](https://www.infoworld.com/article/3623388/the-problem-with-sharding.html#tk.rss_all)
-- [GitHub unveils AI coding assistant for Visual Studio Code](https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all)
-- [Cloud lock-in is real](https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all)
-- [Accessibility improvements coming to Visual Studio](https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Apple’s design guide for inclusive technology is essential reading](https://www.computerworld.com/article/3624613/apples-design-guide-for-inclusive-technology-is-essential-reading.html#tk.rss_all)
+- [The best Android launchers for enhanced efficiency](https://www.computerworld.com/article/3396217/best-android-launchers-for-enhanced-efficiency.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [What to do if you receive a FaceTime link](https://www.computerworld.com/article/3624397/what-to-do-if-you-receive-a-facetime-link.html#tk.rss_all)
 - [BrandPost: Huawei supports the ICT and business requirements of Digital DEWA](https://www.computerworld.com/article/3623761/huawei-supports-the-ict-and-business-requirements-of-digital-dewa.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Upgrading your PC’s hardware for Windows 11](https://www.computerworld.com/article/3624391/upgrading-your-pcs-hardware-for-windows-11.html#tk.rss_all)
 - [Apple IT admins gain new tech support tool from Moysle](https://www.computerworld.com/article/3624390/apple-it-admins-gain-new-tech-support-tool-from-moysle.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [The real reason for Windows 11](https://www.computerworld.com/article/3623772/the-real-reason-for-windows-11.html#tk.rss_all)
-- [30+ free and cheap apps for Windows 10](https://www.computerworld.com/article/3602030/top-30-free-cheap-apps-for-windows-10.html#tk.rss_all)
-- [Handy Excel keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3623723/handy-excel-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

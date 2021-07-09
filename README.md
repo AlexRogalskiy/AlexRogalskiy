@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Armed Afghan women take to streets in show of defiance against Taliban](https://www.theguardian.com/world/2021/jul/07/armed-afghan-women-take-to-streets-in-show-of-defiance-against-taliban)
-- [Sub-zero water splitting marks a new dawn for solar hydrogen production](https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article)
-- [Sri Lanka’s Ancient, Almost Lost Martial Art](https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art)
-- [Runway – Create Impossible Video](https://runwayml.com/)
-- [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
-- [Gibraltar, world’s only airport runway intersecting a road](https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1)
-- [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
-- [Corona Game: A simulation of how Covid-19 spreads](https://koronahra.cz/game)
-- [A call to minimize distraction and respect users’ attention (2013)](http://www.minimizedistraction.com/)
+- [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
+- [Google Internal Comics](https://goomics.net/)
+- [Ivermectin: ‘wonder’ drug continues to surprise and exceed expectations (2017)](https://www.nature.com/articles/ja201711)
+- [Birds are dying in the United States and no one knows why](https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063)
+- [Video podcasting (RSS) as an alternative to YouTube's walled garden](https://streambus.com/)
+- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
+- [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+- [Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants](https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer)
+- [TimeTrack Raspberry Pi](https://city-of-bloomington.github.io/timetrack/)
+- [List of Special Elevator Modes](https://elevation.fandom.com/wiki/List_of_elevator_special_modes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

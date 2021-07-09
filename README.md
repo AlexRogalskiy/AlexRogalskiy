@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How GSK Consumer Healthcare builds out its platform business](https://www.computerweekly.com/news/252503286/How-GSK-Consumer-Healthcare-builds-out-its-platform-business)
+- [Developers have a moral duty to create ethical AI](https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI)
+- [Kaseya apologises for extended downtime after ransom attack](https://www.computerweekly.com/news/252503726/Kaseya-apologises-for-extended-downtime-after-ransom-attack)
+- [Why identity is the central problem for the future of the internet](https://www.computerweekly.com/opinion/Why-identity-is-the-central-problem-for-the-future-of-the-internet)
+- [PrintNightmare haunts Microsoft as patch may miss mark](https://www.computerweekly.com/news/252503711/PrintNightmare-haunts-Microsoft-as-patch-may-miss-mark)
+- [CW Middle East: Pandemic speeds up edtech revolution in Gulf](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Pandemic-speeds-up-edtech-revolution-in-Gulf)
+- [Security Think Tank: Reopening is an opportunity to reassess wider security posture](https://www.computerweekly.com/opinion/Security-Think-Tank-Reopening-is-an-opportunity-to-reassess-wider-security-posture)
 - [US government given permission to appeal UK’s decision to not extradite Julian Assange](https://www.computerweekly.com/news/252503670/US-government-given-permission-to-appeal-UKs-decision-to-not-extradite-Julian-Assange)
 - [ICO to probe Hancock over private email use](https://www.computerweekly.com/news/252503659/ICO-to-probe-Hancock-over-private-email-use)
 - [Social robots on the rise in the Netherlands](https://www.computerweekly.com/news/252503646/Social-robots-on-the-rise-in-the-Netherlands)
-- [Flexify brings virtualisation layer to multi-cloud storage](https://www.computerweekly.com/news/252503649/Flexify-brings-virtualisation-layer-to-multi-cloud-storage)
-- [Former Bank of England CIO joins Co-op Group as CTO](https://www.computerweekly.com/news/252503651/Former-Bank-of-England-CIO-joins-Co-op-Group-as-CTO)
-- [How the UK Cyber Security Council plans to professionalise security](https://www.computerweekly.com/news/252503232/How-the-UK-Cyber-Security-Council-plans-to-professionalise-security)
-- [US Department of Defense cancels controversial $10bn JEDI contract](https://www.computerweekly.com/news/252503639/US-Department-of-Defense-cancels-10bn-JEDI-contract)
-- [Oracle Fusion cloud applications pathways tend towards pragmatic](https://www.computerweekly.com/feature/Oracle-Fusion-cloud-applications-pathways-tends-towards-pragmatic)
-- [Opportunists seen targeting Kaseya REvil victims](https://www.computerweekly.com/news/252503642/Opportunists-seen-targeting-Kaseya-REvil-victims)
-- [Clara Shih, CEO, Salesforce Service Cloud on the shape of post-pandemic service work](https://www.computerweekly.com/news/252503177/Clara-Shih-CEO-Salesforce-Service-Cloud-on-the-shape-of-post-pandemic-service-work)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

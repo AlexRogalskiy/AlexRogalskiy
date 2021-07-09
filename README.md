@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel cans Lakefield hybrid processor just one year after launch](https://www.itworldcanada.com/article/intel-cans-lakefield-hybrid-processor-just-one-year-after-launch/455504)
+- [Kaseya delays restoration of VSA cloud service to July 11](https://www.itworldcanada.com/article/kaseya-delays-restoration-of-vsa-cloud-service-to-july-11/455487)
+- [Hashtag Trending, July 8 – WeChat drops LGBTQ content; Pentagon’s Microsoft deal fizzles; The Canadian Sector’s explosion](https://www.itworldcanada.com/article/hashtag-trending-july-8-wechat-drops-lgbtq-content-pentagons-microsoft-deal-fizzles-the-canadian-sectors-explosion/455478)
 - [Preparing for the new hybrid workplace](https://www.itworldcanada.com/article/preparing-for-the-new-hybrid-workplace/455454)
 - [Microsoft issues partial fix for ‘PrintNightmare’ vulnerability](https://www.itworldcanada.com/article/microsoft-issues-partial-fix-for-printnightmare-vulnerability/455455)
 - [What should organizations know about AODA compliance?](https://www.itworldcanada.com/article/what-should-organizations-know-about-the-aoda-compliance-report-deadline/455209)
@@ -428,9 +431,6 @@
 - [Cyber Security Today, July 7, 2021 – More fall-out from the Kaseya ransomware attack, privacy worries over the Audacity audio editor and more bad Android apps](https://www.itworldcanada.com/article/cyber-security-today-july-7-2021-more-fall-out-from-the-kaseya-ransomware-attack-privacy-worries-over-the-audacity-audio-editor-and-more-bad-android-apps/455429)
 - [Hashtag Trending, July 7 – Canada’s record breaking hiring rates; Amazon Echo Data; U.K.’s largest semiconductor company sold](https://www.itworldcanada.com/article/hashtag-trending-july-7-canadas-record-breaking-hiring-rates-amazon-echo-data-u-k-s-largest-semiconductor-company-sold/455423)
 - [Hashtag Trending, July 6 – REvil ransomware attack; Audacity is spyware; Google app control](https://www.itworldcanada.com/article/hashtag-trending-july-6-revil-ransomware-attack-audacity-is-spyware-google-app-control/455383)
-- [Kaseya on-prem users will have to wait longer for patch against ransomware](https://www.itworldcanada.com/article/kaseya-on-prem-users-will-have-to-wait-longer-for-patch-against-ransomware/455373)
-- [Coffee Briefing, July 6, 2021 – Qualcomm dumps Arm for PC; FTC charges Broadcom; used cars to get expensive in Canada;and more](https://www.itworldcanada.com/article/coffee-briefing-july-7-2021-qualcomm-dumps-arm-for-pc-ftc-charges-broadcom-used-cars-to-get-expensive-in-canadaand-more/455385)
-- [Cyberattack on Kaseya VSA leaves IT administrators waiting for advice, looking for ransomware](https://www.itworldcanada.com/article/cyber-attack-on-kaseya-vsa-leaves-it-administrators-waiting-for-advice-looking-for-ransomware/455332)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

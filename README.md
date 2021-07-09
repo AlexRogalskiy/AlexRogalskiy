@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China's gene giant harvests data from millions of women](https://mobile.reuters.com/article/idUSKCN2ED1A6)
-- [Find and Create Microschools](https://micros.school)
-- [Chinese Millennials Are ‘Chilling,’ and Beijing Isn’t Happy](https://www.nytimes.com/2021/07/03/world/asia/china-slackers-tangping.html)
-- [ideviceunback – unpack libimobiledevice idevicebackup2 backups](https://github.com/inflex/ideviceunback)
-- [Ideas to make you smarter, happier, wealthier](https://twitter.com/gregorycampion/status/1412886592381886467)
-- [Building Monocle, a universal personal search engine for life](https://thesephist.com/posts/monocle/)
-- [Nassim Nicholas Taleb Says Young Traders Should ‘Shut Up and Learn’](https://www.bloomberg.com/news/articles/2021-07-07/-black-swan-author-says-defi-manages-to-reinvent-bucket-shops-kqtizrob)
-- [The “What” and the “How” of Autonomy at Work](https://frontleft.substack.com/p/the-what-and-the-how-of-autonomy)
-- [Google Sued by 36 States over Alleged Play Store Abuses](https://www.bloomberg.com/news/articles/2021-07-07/google-set-to-be-sued-by-states-over-alleged-play-store-abuse)
-- [Haiti says four suspects in assassination have been killed and two arrested](https://www.nytimes.com/2021/07/07/world/americas/haiti-president-killed.html)
+- [Internet’s Original Source Code Sold as NFT for $5.4M](https://www.wsj.com/articles/internets-original-source-code-sold-as-nft-for-5-4-million-11625092875)
+- [EU fines BMW, VW $1B for running emissions cartel since the 90s](https://techcrunch.com/2021/07/08/eu-fines-bmw-vw-1b-for-running-emissions-cartel-since-the-90s/)
+- [NeRF-Dy: 3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/)
+- [Ask HN: What jobs in the aerospace industry will be in-demand in 5-10 years?](https://news.ycombinator.com/item?id=27779880)
+- [Spectre Revisits BPF](https://lwn.net/Articles/860597/)
+- [Git-power: emPOWer your commits with bespoke hashes](https://github.com/CouleeApps/git-power)
+- [Roblox, Explained](https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq)
+- [Ireland’s Days as a Tax Haven May Be Ending, but Not Without a Fight](https://www.nytimes.com/2021/07/08/business/ireland-minimum-corporate-tax.html)
+- [Ask HN: What's the best health insurance for international contractors?](https://news.ycombinator.com/item?id=27779825)
+- [What the heck is a “Databaseless” (DBLess) Architecture](https://redislabs.com/blog/dbless-architecture-and-why-its-the-future/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

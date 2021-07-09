@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why You Need a Data Fabric, Not Just IT Architecture](https://www.informationweek.com/big-data/why-you-need-a-data-fabric-not-just-it-architecture/a/d-id/1341463?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Ways to Cultivate a Cyber-Aware Culture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/ways-to-cultivate-a-cyber-aware-culture/a/d-id/1341456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Pro Salary Survey: What You Earned in 2020](https://www.informationweek.com/strategic-cio/team-building-and-staffing/it-pro-salary-survey-what-you-earned-in-2020/d/d-id/1341488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Dealing with Disgruntled Employees](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/dealing-with-disgruntled-employees/a/d-id/1341454?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How COVID Expanded CIOs' Power and Influence](https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [The Pandemic Has Changed How IT Teams Collaborate, Permanently](https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIO Roles Will Change: The Future of Work](https://www.informationweek.com/strategic-cio/how-cio-roles-will-change-the-future-of-work/d/d-id/1341451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Get a Stronger Grip on Contract and Vendor Management](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-get-a-stronger-grip-on-contract-and-vendor-management/a/d-id/1341444?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [ServiceNow's CIO Sees Strategic Fit for Low-Code Development](https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CIOs And CFOs Are Jointly Enabling the Future of Business](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

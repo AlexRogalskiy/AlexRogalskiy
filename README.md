@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England edge extra-time epic to enter final battle – Euro 2020 Football Daily](https://www.theguardian.com/football/audio/2021/jul/08/england-edge-extra-time-epic-to-enter-final-battle-euro-2020-football-daily)
-- [The government’s rape review: an apology, but will anything change?](https://www.theguardian.com/news/audio/2021/jul/08/the-governments-review-an-apology-but-will-anything-change-podcast)
-- [Explosion at Dubai’s Jebel Ali port sends tremors across city](https://www.theguardian.com/world/2021/jul/07/explosion-at-dubais-jebel-ali-port-sends-tremors-across-city)
-- [‘The history boys’: joy unconfined as papers celebrate England’s semi-final win](https://www.theguardian.com/media/2021/jul/08/the-history-boys-joy-unconfined-as-papers-celebrate-englands-semi-final-win-euro)
-- [I am living with my ex. Should we have some physical distance between us? | Leading questions](https://www.theguardian.com/lifeandstyle/2021/jul/08/i-am-currently-living-with-my-ex-should-we-have-some-physical-distance-between-us)
-- [Haiti president Jovenel Moïse assassinated by ‘armed commando group’](https://www.theguardian.com/world/2021/jul/07/haiti-president-jovenel-moise-reportedly-assassinated)
-- [Covid surge pushes Indonesia’s health system to the brink](https://www.theguardian.com/global-development/2021/jul/08/covid-surge-pushes-indonesias-health-system-to-the-brink)
-- [Gareth Southgate urges England to ‘conquer one more massive hurdle’](https://www.theguardian.com/football/2021/jul/08/gareth-southgate-urges-england-to-conquer-one-more-massive-hurdle-euro-2020-final-italy)
-- [‘No chance of life’: search for survivors ends as Miami condo deaths hit 46](https://www.theguardian.com/us-news/2021/jul/07/miami-condo-collapse-death-toll-rises-families-missing)
-- [UK must match rhetoric with action on China’s treatment of Uyghurs, say MPs](https://www.theguardian.com/politics/2021/jul/08/uk-must-match-rhetoric-with-action-on-chinas-treatment-of-uyghurs-say-mps)
+- [The Indigenous children who died at Canada’s residential schools – podcast](https://www.theguardian.com/news/audio/2021/jul/09/indigenous-children-who-died-canada-residential-schools-podcast)
+- [Plane carrying skydivers crashes in Sweden, killing nine](https://www.theguardian.com/world/2021/jul/09/plane-carrying-skydivers-crashes-in-sweden-killing-nine)
+- [Currency and control: why China wants to undermine bitcoin](https://www.theguardian.com/world/2021/jul/09/currency-and-control-why-china-wants-to-undermine-bitcoin)
+- [Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened](https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest)
+- [Met officers given misconduct notices over disappearance of Richard Okorogheye](https://www.theguardian.com/uk-news/2021/jul/09/met-officers-given-misconduct-notices-over-disappearance-of-richard-okorogheye)
+- [Pfizer to ask US to authorize third Covid vaccine shot as booster](https://www.theguardian.com/world/2021/jul/08/pfizer-covid-19-vaccine-booster-us)
+- [The Worst Person in the World review – Nordic romcom is an instant classic](https://www.theguardian.com/film/2021/jul/08/the-worst-person-in-the-world-review-cannes-2021)
+- [Team GB to make history by sending more women than men to Olympics](https://www.theguardian.com/sport/2021/jul/08/team-gb-to-make-history-by-sending-more-women-than-men-to-olympics-tokyo)
+- [Joe Biden says US to pull its forces out of Afghanistan by 31 August](https://www.theguardian.com/us-news/2021/jul/08/joe-biden-afghanistan-military-pullout-ahead-of-schedule)
+- [Miami condo collapse death toll hits 64 as rescue efforts end](https://www.theguardian.com/us-news/2021/jul/08/miami-condo-collapse-surfside-rescue-efforts-end)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

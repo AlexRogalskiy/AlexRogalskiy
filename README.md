@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [ArcGIS Field Maps + iPhones herald the emerging digital enterprise](https://www.computerworld.com/article/3624593/arcgis-field-maps-iphones-herald-the-emerging-digital-enterprise.html#tk.rss_all)
+- [Clariti is one collaboration tool to rule them all](https://www.computerworld.com/article/3623300/clariti-is-one-collaboration-tool-to-rule-them-all.html#tk.rss_all)
+- [This JavaScript DOM course bundle is on sale for just $30 this week](https://www.computerworld.com/article/3623299/this-javascript-dom-course-bundle-is-on-sale-for-just-30-this-week.html#tk.rss_all)
+- [Livestorm goes beyond video conferencing with a powerful video engagement platform](https://www.computerworld.com/article/3623281/livestorm-goes-beyond-video-conferencing-with-a-powerful-video-engagement-platform.html#tk.rss_all)
+- [Just $20 to learn how MySQL, API’s, and forms fit into modern web development](https://www.computerworld.com/article/3623714/just-20-to-learn-how-mysql-api-s-and-forms-fit-into-modern-web-development.html#tk.rss_all)
+- [Data hoarding: The consequences go far beyond compliance risk](https://www.computerworld.com/article/3623730/data-hoarding-the-consequences-go-far-beyond-compliance-risk.html#tk.rss_all)
+- [Hands on with Windows 11: First impressions](https://www.computerworld.com/article/3624672/hands-on-with-windows-11-first-impressions.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Apple’s design guide for inclusive technology is essential reading](https://www.computerworld.com/article/3624613/apples-design-guide-for-inclusive-technology-is-essential-reading.html#tk.rss_all)
 - [The best Android launchers for enhanced efficiency](https://www.computerworld.com/article/3396217/best-android-launchers-for-enhanced-efficiency.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [What to do if you receive a FaceTime link](https://www.computerworld.com/article/3624397/what-to-do-if-you-receive-a-facetime-link.html#tk.rss_all)
-- [BrandPost: Huawei supports the ICT and business requirements of Digital DEWA](https://www.computerworld.com/article/3623761/huawei-supports-the-ict-and-business-requirements-of-digital-dewa.html#tk.rss_all)
-- [Apple releases first macOS ‘Monterey’ public preview](https://www.computerworld.com/article/3624393/apple-releases-first-macos-monterey-public-preview.html#tk.rss_all)
-- [Upgrading your PC’s hardware for Windows 11](https://www.computerworld.com/article/3624391/upgrading-your-pcs-hardware-for-windows-11.html#tk.rss_all)
-- [Apple IT admins gain new tech support tool from Moysle](https://www.computerworld.com/article/3624390/apple-it-admins-gain-new-tech-support-tool-from-moysle.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

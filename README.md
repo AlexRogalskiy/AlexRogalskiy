@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
-- [Google Internal Comics](https://goomics.net/)
-- [Ivermectin: ‘wonder’ drug continues to surprise and exceed expectations (2017)](https://www.nature.com/articles/ja201711)
-- [Birds are dying in the United States and no one knows why](https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063)
-- [Video podcasting (RSS) as an alternative to YouTube's walled garden](https://streambus.com/)
-- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
-- [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
-- [Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants](https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer)
-- [TimeTrack Raspberry Pi](https://city-of-bloomington.github.io/timetrack/)
-- [List of Special Elevator Modes](https://elevation.fandom.com/wiki/List_of_elevator_special_modes)
+- [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
+- [Linux Audio Is Dead](https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead)
+- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
+- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
+- [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
+- [Are animals more conscious than we are?](https://erikhoel.substack.com/p/on-rabbits)
+- [How I accidentally took down GitHub Actions (2019)](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
+- [VPN – A Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html)
+- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
+- [Surveilling the Gamers: Privacy Impacts of the Video Game Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

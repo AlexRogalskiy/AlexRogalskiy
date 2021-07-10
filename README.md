@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Professionals need protection from the Computer Misuse Act](https://www.computerweekly.com/opinion/Professionals-need-protection-from-the-Computer-Misuse-Act)
+- [Ransomware gangs seek people skills for negotiations](https://www.computerweekly.com/news/252503773/Ransomware-gangs-seek-people-skills-for-negotiations)
+- [What steps can we take to finally close the tech skills gap?](https://www.computerweekly.com/feature/What-steps-can-we-take-to-finally-close-the-tech-skills-gap)
+- [Dublin in distress: Power supply issues threaten growth of Europe’s second-biggest datacentre hub](https://www.computerweekly.com/feature/Dublin-in-distress-Power-supply-issues-threaten-growth-of-Europes-second-biggest-datacentre-hub)
+- [Met Police should release information on British WikiLeaks journalists passed to US, tribunal told](https://www.computerweekly.com/news/252503761/Met-Police-should-release-information-on-British-WikiLeaks-journalists-passed-to-US-tribunal-told)
+- [Are you betting your future on the worst gambling odds in the world?](https://www.computerweekly.com/opinion/Are-you-betting-your-future-on-the-worst-gambling-odds-in-the-world)
+- [Government commitment to Post Office Horizon victims was a ‘false promise’](https://www.computerweekly.com/news/252503752/Government-commitment-to-Post-Office-Horizon-victims-was-a-false-promise)
+- [Choose the right ITSM tool for digital era success](https://www.computerweekly.com/opinion/Choose-the-right-ITSM-tool-for-digital-era-success)
 - [How GSK Consumer Healthcare builds out its platform business](https://www.computerweekly.com/news/252503286/How-GSK-Consumer-Healthcare-builds-out-its-platform-business)
 - [Developers have a moral duty to create ethical AI](https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI)
-- [Kaseya apologises for extended downtime after ransom attack](https://www.computerweekly.com/news/252503726/Kaseya-apologises-for-extended-downtime-after-ransom-attack)
-- [Why identity is the central problem for the future of the internet](https://www.computerweekly.com/opinion/Why-identity-is-the-central-problem-for-the-future-of-the-internet)
-- [PrintNightmare haunts Microsoft as patch may miss mark](https://www.computerweekly.com/news/252503711/PrintNightmare-haunts-Microsoft-as-patch-may-miss-mark)
-- [CW Middle East: Pandemic speeds up edtech revolution in Gulf](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Pandemic-speeds-up-edtech-revolution-in-Gulf)
-- [Security Think Tank: Reopening is an opportunity to reassess wider security posture](https://www.computerweekly.com/opinion/Security-Think-Tank-Reopening-is-an-opportunity-to-reassess-wider-security-posture)
-- [US government given permission to appeal UK’s decision to not extradite Julian Assange](https://www.computerweekly.com/news/252503670/US-government-given-permission-to-appeal-UKs-decision-to-not-extradite-Julian-Assange)
-- [ICO to probe Hancock over private email use](https://www.computerweekly.com/news/252503659/ICO-to-probe-Hancock-over-private-email-use)
-- [Social robots on the rise in the Netherlands](https://www.computerweekly.com/news/252503646/Social-robots-on-the-rise-in-the-Netherlands)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

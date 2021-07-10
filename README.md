@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Don’t be a ransomware victim](https://www.infoworld.com/article/3624631/dont-be-a-ransomware-victim.html#tk.rss_all)
 - [Developers react to GitHub Copilot](https://www.infoworld.com/article/3624688/developers-react-to-github-copilot.html#tk.rss_all)
 - [Get a look at CodeSandbox](https://www.infoworld.com/article/3624630/get-a-look-at-codesandbox.html#tk.rss_all)
 - [How to use R with BigQuery](https://www.infoworld.com/article/3622926/how-to-use-r-with-bigquery.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [How to use the Python for loop](https://www.infoworld.com/article/3623689/how-to-use-the-python-for-loop.html#tk.rss_all)
 - [Why cloud will continue to explode post-COVID](https://www.infoworld.com/article/3623736/why-cloud-will-continue-to-explode-post-covid.html#tk.rss_all)
 - [What is PaaS? A simpler way to build software applications](https://www.infoworld.com/article/3223434/what-is-paas-a-simpler-way-to-build-software-applications.html#tk.rss_all)
-- [How the cloud and big compute are remaking HPC](https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all)
-- [How 5 companies got their developers to care about cloud costs](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

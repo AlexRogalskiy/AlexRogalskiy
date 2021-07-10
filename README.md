@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;41&#x2F;fe&#x2F;15&#x2F;41fe15bdc944eb1d924b25844d39935f.jpg" alt="Don&#39;t stand too close to this Word of the Day. It&#39;s pretty steep. Click to learn more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;de&#x2F;dd&#x2F;05&#x2F;dedd05fa879f9ac4fc28588653fc0388.jpg" alt="This Word of the Day is for the dreamers. It&#39;s fantast. Want more? Click for example sentences, pronunciation, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cd&#x2F;85&#x2F;d0&#x2F;cd85d049a16058b127dc1325bd2eee61.jpg" alt="Look out! Wampish is the Word of the Day. Click to get example sentences and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;60&#x2F;05&#x2F;39&#x2F;600539b46a15bed783d62d4742cc3561.jpg" alt="Au fond is the Word of the Day.⁠ Can you use it in a sentence? Click to learn how to say it and see our example sentences. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fa&#x2F;d1&#x2F;85&#x2F;fad18574325dcd8bff2666b61f3a4ec4.jpg" alt="Today&#39;s Word of the Day puts the &quot;spangle&quot; in &quot;star-spangled.&quot; Click to learn more from the world&#39;s leading digital dictionary. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>31°C (<i>few clouds</i>), humidity: 52%, pressure: 1015 (mbar), wind: /south/ 1 (m/s), cloudy: 20%</b>
+        <b>30°C (<i>clear sky</i>), humidity: 48%, pressure: 1015 (mbar), wind: /south/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:54 am</b> and sets at <b>22:13 pm</b>.
     </p>

@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Being held hostage by “possible” promotion](https://www.reddit.com/r/InformationTechnology/comments/oh290b/being_held_hostage_by_possible_promotion/)
+- [Windows Audio Not Working](https://www.reddit.com/r/InformationTechnology/comments/oh1cn2/windows_audio_not_working/)
+- [Can I set up my employer's software on a different system than the one they gave me without them knowing?](https://www.reddit.com/r/InformationTechnology/comments/ogz8k7/can_i_set_up_my_employers_software_on_a_different/)
 - [We were never taught AI or ML but they are expecting me to build an AI-based system](https://www.reddit.com/r/InformationTechnology/comments/ogcdau/we_were_never_taught_ai_or_ml_but_they_are/)
 - [Learning new things](https://www.reddit.com/r/InformationTechnology/comments/og8p61/learning_new_things/)
 - [VLAN Tagging](https://www.reddit.com/r/InformationTechnology/comments/og7xpt/vlan_tagging/)
@@ -413,9 +416,6 @@
 - [Mid career crisis](https://www.reddit.com/r/InformationTechnology/comments/ofljiy/mid_career_crisis/)
 - [Which is the best laptop for an Information Systems student?](https://www.reddit.com/r/InformationTechnology/comments/oaet08/which_is_the_best_laptop_for_an_information/)
 - [Interested](https://www.reddit.com/r/InformationTechnology/comments/oac9np/interested/)
-- [Final Year Framework Advice](https://www.reddit.com/r/InformationTechnology/comments/o9l9fv/final_year_framework_advice/)
-- [Guidance for a beginner](https://www.reddit.com/r/InformationTechnology/comments/o8ydwj/guidance_for_a_beginner/)
-- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

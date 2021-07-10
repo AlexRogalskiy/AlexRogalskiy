@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Internet’s Original Source Code Sold as NFT for $5.4M](https://www.wsj.com/articles/internets-original-source-code-sold-as-nft-for-5-4-million-11625092875)
-- [EU fines BMW, VW $1B for running emissions cartel since the 90s](https://techcrunch.com/2021/07/08/eu-fines-bmw-vw-1b-for-running-emissions-cartel-since-the-90s/)
-- [NeRF-Dy: 3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/)
-- [Ask HN: What jobs in the aerospace industry will be in-demand in 5-10 years?](https://news.ycombinator.com/item?id=27779880)
-- [Spectre Revisits BPF](https://lwn.net/Articles/860597/)
-- [Git-power: emPOWer your commits with bespoke hashes](https://github.com/CouleeApps/git-power)
-- [Roblox, Explained](https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq)
-- [Ireland’s Days as a Tax Haven May Be Ending, but Not Without a Fight](https://www.nytimes.com/2021/07/08/business/ireland-minimum-corporate-tax.html)
-- [Ask HN: What's the best health insurance for international contractors?](https://news.ycombinator.com/item?id=27779825)
-- [What the heck is a “Databaseless” (DBLess) Architecture](https://redislabs.com/blog/dbless-architecture-and-why-its-the-future/)
+- [30th Anniversary of Linux T-Shirt Design Contest (Submit by Friday, August 6)](https://linuxfoundation.org/30th-anniversary-tshirt-design-contest/)
+- [Getting Partial AWS Account IDs for Any CloudFront Website](https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/)
+- [Refactoring Is Like Surgery](https://camhashemi.com/posts/surgical-refactors/)
+- [Ask HN: What makes a good product page?](https://news.ycombinator.com/item?id=27790516)
+- [Missteps Like Bad Translations by Google Block Access to CA Pandemic Rent Relief](https://laist.com/news/housing-homelessness/new-complaint-says-state-missteps-including-bad-translations-block-access-to-ca-pandemic-rent-relief)
+- [New York City’s new biometrics privacy law takes effect](https://techcrunch.com/2021/07/09/new-york-city-biometrics-law/)
+- [Did a Cuttlefish Write This?](https://www.nytimes.com/2021/07/09/science/cuttlefish-cognition-cephalopods.html)
+- [Playdate preorders begin next month, and here are the first games](https://www.theverge.com/2021/6/8/22523929/playdate-preorder-game-lineup-dock-announced)
+- [Unlimited, free intraday stock data API](https://www.styvio.com/home)
+- [A link between the gut and diet may mean a cure for an incurable disease](https://www.inverse.com/mind-body/diet-rich-in-beans-legumes-study)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

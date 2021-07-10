@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Indigenous children who died at Canada’s residential schools – podcast](https://www.theguardian.com/news/audio/2021/jul/09/indigenous-children-who-died-canada-residential-schools-podcast)
-- [Plane carrying skydivers crashes in Sweden, killing nine](https://www.theguardian.com/world/2021/jul/09/plane-carrying-skydivers-crashes-in-sweden-killing-nine)
-- [Currency and control: why China wants to undermine bitcoin](https://www.theguardian.com/world/2021/jul/09/currency-and-control-why-china-wants-to-undermine-bitcoin)
-- [Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened](https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest)
-- [Met officers given misconduct notices over disappearance of Richard Okorogheye](https://www.theguardian.com/uk-news/2021/jul/09/met-officers-given-misconduct-notices-over-disappearance-of-richard-okorogheye)
-- [Pfizer to ask US to authorize third Covid vaccine shot as booster](https://www.theguardian.com/world/2021/jul/08/pfizer-covid-19-vaccine-booster-us)
-- [The Worst Person in the World review – Nordic romcom is an instant classic](https://www.theguardian.com/film/2021/jul/08/the-worst-person-in-the-world-review-cannes-2021)
-- [Team GB to make history by sending more women than men to Olympics](https://www.theguardian.com/sport/2021/jul/08/team-gb-to-make-history-by-sending-more-women-than-men-to-olympics-tokyo)
-- [Joe Biden says US to pull its forces out of Afghanistan by 31 August](https://www.theguardian.com/us-news/2021/jul/08/joe-biden-afghanistan-military-pullout-ahead-of-schedule)
-- [Miami condo collapse death toll hits 64 as rescue efforts end](https://www.theguardian.com/us-news/2021/jul/08/miami-condo-collapse-surfside-rescue-efforts-end)
+- [Bear attack: rangers shoot killer grizzly in night vision ambush](https://www.theguardian.com/environment/2021/jul/10/bear-attack-rangers-shoot-killer-grizzly-in-night-vision-ambush)
+- [No 10 ally on BBC board accused of trying to block senior editorial role](https://www.theguardian.com/media/2021/jul/10/no-10-ally-on-bbc-board-accused-of-trying-to-block-senior-editorial-role)
+- [US west heatwave: 31 million people brace for record-breaking temperatures](https://www.theguardian.com/us-news/2021/jul/09/us-west-heatwave-california-nevada-record)
+- [Huawei finance chief faces setback in fight against US extradition](https://www.theguardian.com/technology/2021/jul/10/huawei-finance-chief-faces-setback-in-fight-against-us-extradition)
+- [Haiti requests US troops to protect infrastructure after assassination](https://www.theguardian.com/world/2021/jul/09/haiti-requests-us-troops-protect-infrastructure-assassination)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/jul/09/twenty-photographs-of-the-week)
+- [Romeo and Juliet review – a bold rewiring with no room for romance](https://www.theguardian.com/stage/2021/jul/09/romeo-and-juliet-review-globe-london)
+- [Tyson Fury v Deontay Wilder III in doubt over Covid with statement due](https://www.theguardian.com/sport/2021/jul/09/tyson-fury-deontay-wilder-bout-covid)
+- [How Pep Guardiola and Marcelo Bielsa primed England for glory](https://www.theguardian.com/football/2021/jul/09/how-pep-guardiola-and-marcelo-bielsa-primed-england-for-glory)
+- [La Fracture review – gilets jaunes fable breaks under weight of its metaphors](https://www.theguardian.com/film/2021/jul/09/la-fracture-the-divide-review-hospital-gilets-jaunes-cannes-2021)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

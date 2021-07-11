@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f6&#x2F;cf&#x2F;79&#x2F;f6cf797edba1edf9799a1df150f0d557.jpg" alt="Gormless is the Word of the Day. It&#39;s also a sick burn. Want example sentences? Click to learn more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;41&#x2F;fe&#x2F;15&#x2F;41fe15bdc944eb1d924b25844d39935f.jpg" alt="Don&#39;t stand too close to this Word of the Day. It&#39;s pretty steep. Click to learn more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;de&#x2F;dd&#x2F;05&#x2F;dedd05fa879f9ac4fc28588653fc0388.jpg" alt="This Word of the Day is for the dreamers. It&#39;s fantast. Want more? Click for example sentences, pronunciation, and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;cd&#x2F;85&#x2F;d0&#x2F;cd85d049a16058b127dc1325bd2eee61.jpg" alt="Look out! Wampish is the Word of the Day. Click to get example sentences and more. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;60&#x2F;05&#x2F;39&#x2F;600539b46a15bed783d62d4742cc3561.jpg" alt="Au fond is the Word of the Day.⁠ Can you use it in a sentence? Click to learn how to say it and see our example sentences. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>25°C (<i>clear sky</i>), humidity: 76%, pressure: 1014 (mbar), wind: /north/ 0 (m/s), cloudy: 0%</b>
+        <b>23°C (<i>clear sky</i>), humidity: 68%, pressure: 1018 (mbar), wind: /east/ 4 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>03:56 am</b> and sets at <b>22:12 pm</b>.
     </p>

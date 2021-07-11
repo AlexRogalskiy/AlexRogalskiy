@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [30th Anniversary of Linux T-Shirt Design Contest (Submit by Friday, August 6)](https://linuxfoundation.org/30th-anniversary-tshirt-design-contest/)
-- [Getting Partial AWS Account IDs for Any CloudFront Website](https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/)
-- [Refactoring Is Like Surgery](https://camhashemi.com/posts/surgical-refactors/)
-- [Ask HN: What makes a good product page?](https://news.ycombinator.com/item?id=27790516)
-- [Missteps Like Bad Translations by Google Block Access to CA Pandemic Rent Relief](https://laist.com/news/housing-homelessness/new-complaint-says-state-missteps-including-bad-translations-block-access-to-ca-pandemic-rent-relief)
-- [New York City’s new biometrics privacy law takes effect](https://techcrunch.com/2021/07/09/new-york-city-biometrics-law/)
-- [Did a Cuttlefish Write This?](https://www.nytimes.com/2021/07/09/science/cuttlefish-cognition-cephalopods.html)
-- [Playdate preorders begin next month, and here are the first games](https://www.theverge.com/2021/6/8/22523929/playdate-preorder-game-lineup-dock-announced)
-- [Unlimited, free intraday stock data API](https://www.styvio.com/home)
-- [A link between the gut and diet may mean a cure for an incurable disease](https://www.inverse.com/mind-body/diet-rich-in-beans-legumes-study)
+- [Costs and Flawed Training Plague the V.A.'s Software Upgrade](https://www.nytimes.com/2021/07/09/us/va-health-software-problems.html)
+- [1B Years of Tectonic Plate Movement in 40 Seconds](https://www.visualcapitalist.com/1-billion-years-of-tectonic-plate-movement/)
+- [The UK Post Office Horizon Scandal](https://www.youtube.com/watch?v=hBJm9ZYqL10)
+- [What’s Wrong with the Meritocracy (November 30, 2020)](https://www.nytimes.com/2020/09/15/books/review/the-tyranny-of-merit-michael-j-sandel.html)
+- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
+- [Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](http://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
+- [Photonic Computing for Transformative AI](https://lighton.ai/)
+- [First-Hand Experience Is Less Biased Than News](https://www.econlib.org/first-hand-experience-is-less-biased-than-news/)
+- [Freenode is pointing irc.libera.net to chat.freenode.net](https://fedi.absturztau.be/notice/A99J6EIbR2QWmhpe1A)
+- [AI Copywriting Assistant – Write Facebook Ads in Seconds](https://CopyAim.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

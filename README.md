@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to export emails from an iPhone as a file? No iTunes or iCloud](https://www.reddit.com/r/InformationTechnology/comments/ohk7sp/how_to_export_emails_from_an_iphone_as_a_file_no/)
+- [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
+- [Is a web analytics certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ohbd9j/is_a_web_analytics_certification_worth_it/)
+- [Post Military Transition Thoughts](https://www.reddit.com/r/InformationTechnology/comments/ohasqe/post_military_transition_thoughts/)
 - [Being held hostage by “possible” promotion](https://www.reddit.com/r/InformationTechnology/comments/oh290b/being_held_hostage_by_possible_promotion/)
 - [Windows Audio Not Working](https://www.reddit.com/r/InformationTechnology/comments/oh1cn2/windows_audio_not_working/)
 - [Can I set up my employer's software on a different system than the one they gave me without them knowing?](https://www.reddit.com/r/InformationTechnology/comments/ogz8k7/can_i_set_up_my_employers_software_on_a_different/)
 - [We were never taught AI or ML but they are expecting me to build an AI-based system](https://www.reddit.com/r/InformationTechnology/comments/ogcdau/we_were_never_taught_ai_or_ml_but_they_are/)
 - [Learning new things](https://www.reddit.com/r/InformationTechnology/comments/og8p61/learning_new_things/)
 - [VLAN Tagging](https://www.reddit.com/r/InformationTechnology/comments/og7xpt/vlan_tagging/)
-- [Understanding Hardware](https://www.reddit.com/r/InformationTechnology/comments/ofwo6v/understanding_hardware/)
-- [Mid career crisis](https://www.reddit.com/r/InformationTechnology/comments/ofljiy/mid_career_crisis/)
-- [Which is the best laptop for an Information Systems student?](https://www.reddit.com/r/InformationTechnology/comments/oaet08/which_is_the_best_laptop_for_an_information/)
-- [Interested](https://www.reddit.com/r/InformationTechnology/comments/oac9np/interested/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

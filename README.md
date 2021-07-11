@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bear attack: rangers shoot killer grizzly in night vision ambush](https://www.theguardian.com/environment/2021/jul/10/bear-attack-rangers-shoot-killer-grizzly-in-night-vision-ambush)
-- [No 10 ally on BBC board accused of trying to block senior editorial role](https://www.theguardian.com/media/2021/jul/10/no-10-ally-on-bbc-board-accused-of-trying-to-block-senior-editorial-role)
-- [US west heatwave: 31 million people brace for record-breaking temperatures](https://www.theguardian.com/us-news/2021/jul/09/us-west-heatwave-california-nevada-record)
-- [Huawei finance chief faces setback in fight against US extradition](https://www.theguardian.com/technology/2021/jul/10/huawei-finance-chief-faces-setback-in-fight-against-us-extradition)
-- [Haiti requests US troops to protect infrastructure after assassination](https://www.theguardian.com/world/2021/jul/09/haiti-requests-us-troops-protect-infrastructure-assassination)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/jul/09/twenty-photographs-of-the-week)
-- [Romeo and Juliet review – a bold rewiring with no room for romance](https://www.theguardian.com/stage/2021/jul/09/romeo-and-juliet-review-globe-london)
-- [Tyson Fury v Deontay Wilder III in doubt over Covid with statement due](https://www.theguardian.com/sport/2021/jul/09/tyson-fury-deontay-wilder-bout-covid)
-- [How Pep Guardiola and Marcelo Bielsa primed England for glory](https://www.theguardian.com/football/2021/jul/09/how-pep-guardiola-and-marcelo-bielsa-primed-england-for-glory)
-- [La Fracture review – gilets jaunes fable breaks under weight of its metaphors](https://www.theguardian.com/film/2021/jul/09/la-fracture-the-divide-review-hospital-gilets-jaunes-cannes-2021)
+- [Argentina 1-0 Brazil: Copa América final – live!](https://www.theguardian.com/football/live/2021/jul/10/argentina-v-brazil-copa-america-final-live)
+- [‘Cyber-attack’ hits Iran’s transport ministry and railways](https://www.theguardian.com/world/2021/jul/11/cyber-attack-hits-irans-transport-ministry-and-railways)
+- [Woman, 90, infected with Alpha and Beta Covid variants at the same time](https://www.theguardian.com/world/2021/jul/11/woman-90-infected-with-alpha-and-beta-covid-variants-at-the-same-time)
+- [Burberry’s change of leader should not mean a whole new wardrobe](https://www.theguardian.com/business/2021/jul/11/burberrys-change-of-leader-should-not-mean-a-whole-new-wardrobe)
+- [Pick of the bunch: 16 tutti-frutti fashion finds – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/10/pick-of-the-bunch-16-tutti-frutti-fashion-finds-in-pictures)
+- [Raw dog food ‘may be fuelling spread of antibiotic-resistant bacteria’](https://www.theguardian.com/society/2021/jul/10/raw-dog-food-may-be-fuelling-spread-of-antibiotic-resistant-bacteria)
+- [Public Health England accused of misleading cancer patients on Covid jab](https://www.theguardian.com/world/2021/jul/10/public-health-england-accused-of-misleading-cancer-patients-on-covid-jab)
+- [Pyer Moss adds commentary on black erasure to Paris couture week](https://www.theguardian.com/fashion/2021/jul/10/pyer-moss-brings-cartoon-imagery-to-a-commentary-on-black-erasure)
+- [Gareth Southgate urges England to stay calm against Italy amid the hype](https://www.theguardian.com/football/2021/jul/10/gareth-southgate-tells-team-stay-calm-in-all-the-hype)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/10/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

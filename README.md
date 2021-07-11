@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
-- [Linux Audio Is Dead](https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead)
-- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
-- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
-- [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
-- [Are animals more conscious than we are?](https://erikhoel.substack.com/p/on-rabbits)
-- [How I accidentally took down GitHub Actions (2019)](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
-- [VPN – A Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html)
-- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
-- [Surveilling the Gamers: Privacy Impacts of the Video Game Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279)
+- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
+- [Golden eggs and better telescopes (2018)](https://elevanth.org/blog/2018/09/02/golden_eggs/)
+- [The strange, sketchy emails a browser extension developer receives](https://micahcantor.xyz/blog/extension-developer-emails/)
+- [Solar is dirt-cheap and about to get even more powerful](https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful)
+- [Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some](https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html)
+- [Signadot (YC W20) is hiring engineers to simplify microservices development](https://www.workatastartup.com/jobs/42298)
+- [No bids for over 70% of Indian coal mines up for auction](https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/)
+- [The damaging effects of 'boreout' at work](https://www.bbc.com/worklife/article/20210701-the-damaging-effects-of-boreout-at-work)
+- [Preschool children rarely seek data when observation and testimony conflict](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612)
+- [Rethinking software testing: perspectives from the world of hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

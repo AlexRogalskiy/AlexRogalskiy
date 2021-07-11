@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Want to create a great customer experience?  Modernize your IAM](https://www.itworldcanada.com/article/want-to-create-a-great-customer-experience-modernize-your-iam/455483)
 - [Cyber Security Today, Week in Review for Friday, July 9, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-9-2021/455499)
 - [Canada among prime targets of new Office macro infection tactic](https://www.itworldcanada.com/article/canada-among-prime-targets-of-new-office-macro-infection-tactic/455554)
 - [Cyber Security Today, July 9, 2021 – Don’t be caught by Black Widow movie scams, another Accellion FTA hack and more](https://www.itworldcanada.com/article/cyber-security-today-july-9-2021-dont-be-caught-by-black-widow-movie-scams-another-accellion-fta-hack-and-more/455544)
@@ -430,7 +431,6 @@
 - [Hashtag Trending, July 8 – WeChat drops LGBTQ content; Pentagon’s Microsoft deal fizzles; The Canadian Sector’s explosion](https://www.itworldcanada.com/article/hashtag-trending-july-8-wechat-drops-lgbtq-content-pentagons-microsoft-deal-fizzles-the-canadian-sectors-explosion/455478)
 - [Preparing for the new hybrid workplace](https://www.itworldcanada.com/article/preparing-for-the-new-hybrid-workplace/455454)
 - [Microsoft issues partial fix for ‘PrintNightmare’ vulnerability](https://www.itworldcanada.com/article/microsoft-issues-partial-fix-for-printnightmare-vulnerability/455455)
-- [What should organizations know about AODA compliance?](https://www.itworldcanada.com/article/what-should-organizations-know-about-the-aoda-compliance-report-deadline/455209)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

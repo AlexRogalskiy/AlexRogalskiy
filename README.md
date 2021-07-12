@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Costs and Flawed Training Plague the V.A.'s Software Upgrade](https://www.nytimes.com/2021/07/09/us/va-health-software-problems.html)
-- [1B Years of Tectonic Plate Movement in 40 Seconds](https://www.visualcapitalist.com/1-billion-years-of-tectonic-plate-movement/)
-- [The UK Post Office Horizon Scandal](https://www.youtube.com/watch?v=hBJm9ZYqL10)
-- [What’s Wrong with the Meritocracy (November 30, 2020)](https://www.nytimes.com/2020/09/15/books/review/the-tyranny-of-merit-michael-j-sandel.html)
-- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
-- [Sooner, Safer, Happier: Antipatterns and Patterns for Business Agility](http://ibrahimcesar.cloud/blog/sooner-safer-happier-antipatterns-and-patterns-for-business-by-jonathan-smart/)
-- [Photonic Computing for Transformative AI](https://lighton.ai/)
-- [First-Hand Experience Is Less Biased Than News](https://www.econlib.org/first-hand-experience-is-less-biased-than-news/)
-- [Freenode is pointing irc.libera.net to chat.freenode.net](https://fedi.absturztau.be/notice/A99J6EIbR2QWmhpe1A)
-- [AI Copywriting Assistant – Write Facebook Ads in Seconds](https://CopyAim.com)
+- [Breakfast of Champions: Towards Zero-Copy Serialization with NIC Scatter-Gather](https://www.micahlerner.com/2021/07/07/breakfast-of-champions-towards-zero-copy-serialization-with-nic-scatter-gather.html)
+- [How to Build a gRPC Server over tstorage to create tstorage-server](https://bartlomiejmika.com/post/2021/how-to-build-a-grpc-server-over-tstorage-to-create-tstorage-server)
+- [Fatal flaws in Australia’s hermit nation strategy](https://www.ft.com/content/1466396e-2959-4a46-a449-2e1654b40c36)
+- [Winston Churchill predicted artificial wombs and lab-grown meat](https://rootsofprogress.org/winston-churchill-futurist)
+- [Topological Teleportation](https://mareknarozniak.com/2021/07/09/topological-teleportation/)
+- [Stop submitting to social conformity and use your brain instead](https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html)
+- [An Alfvenic reconnecting plasmoid thruster](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/an-alfvenic-reconnecting-plasmoid-thruster/F296E45CC504E8FF2586EA79117E2514)
+- [How to Use Logrotate with Nginx in Docker](https://meerkatwatch.com/blog/nginx-docker-logrotate/)
+- [Solving the Three Stooges Problem](https://www.reddit.com/r/RedditEng/comments/obqtfm/solving_the_three_stooges_problem/)
+- [Phloretin Suppresses Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-021-02194-z)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

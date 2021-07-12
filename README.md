@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
-- [Golden eggs and better telescopes (2018)](https://elevanth.org/blog/2018/09/02/golden_eggs/)
-- [The strange, sketchy emails a browser extension developer receives](https://micahcantor.xyz/blog/extension-developer-emails/)
-- [Solar is dirt-cheap and about to get even more powerful](https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful)
-- [Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some](https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html)
-- [Signadot (YC W20) is hiring engineers to simplify microservices development](https://www.workatastartup.com/jobs/42298)
-- [No bids for over 70% of Indian coal mines up for auction](https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/)
-- [The damaging effects of 'boreout' at work](https://www.bbc.com/worklife/article/20210701-the-damaging-effects-of-boreout-at-work)
-- [Preschool children rarely seek data when observation and testimony conflict](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612)
-- [Rethinking software testing: perspectives from the world of hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
+- [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
+- [Anime Video Encoding Guide for X265 (HEVC) & AAC/Opus (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+- [The Potential Orwellian Horror of Central Bank Digital Currencies](https://www.adamseconomics.com/post/the-potential-orwellian-horror-of-central-bank-digital-currencies)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Gizmo’s Freeware Says Farewell](https://www.techsupportalert.com/content/time-say-farewell.htmEpilogueItiswithgreatsadnessandheavyheartsweannouncetheclosingofGizmo’sFreeware.Afterdueconsideration,we%27vedecidedtoshutdownthissitetentativelyby15July2021afterwhichitwillnotbeaccessibleanymore.ManyyearsagoGizmosetouttobeanindependent,unbiasedresourceforanyonewhowantedthebestfreeware.Alongtheway,wecreatedanamazingcommunityofreadersandeditors.Weareproudofthesitewecreated,andareevenmoregratefulforyou,thecommunityofreadersthatmadeitgrow.OnbehalfofeveryonewhowaspartofGizmo’sFreeware,aheartfeltthankyouformakinguspartofyourlives.Formanyyears,Gizmopaidthecostofrunningthesiteoutofpocket.Whenthatbecametoomuch,weaskedyouaboutrunningadsandyousaidyes,andwerequestedfordonationsandyouwholeheartedlyresponded.Theadsanddonationshavekeptthelightson,andoureditorshavebeenunpaidvolunteers.Astheworldhasshiftedawayfromdesktopstomobilesinsearchofflexibilityovertheyears,ourtrafficandadvertisingrevenuedeclined,andtheproceedscannolongercoverthecostsofrunningthesite.Thiswasaverydifficultdecision,asyou,ourreadersandeditors,havebeentheheartofGizmo’sFreewareforsomanyyears.It’sbeenafantasticjourneywithallofyouandwe’reheartbrokenithascometoanend.Wewillmissyou.TheGizmo%27sFreewareCrew)
+- [No sane compiler would optimize atomics (2015)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html)
+- [Resident Evil Village crack completely fixes its stuttering issues](https://www.dsogaming.com/news/resident-evil-village-crack-completely-fixes-its-stuttering-issues/)
+- [I'm a programmer – how can I help SciHub?](https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/)
+- [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
+- [Biden launches action on "Big Tech, Big Pharma, and Big Ag" – can it be real?](https://mattstoller.substack.com/p/biden-launches-sweeping-action-on)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

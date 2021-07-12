@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there any career opportunities that open up after getting the CompTIA Trifecta that aren't really open when you only have 1 or 2 out of the 3?](https://www.reddit.com/r/InformationTechnology/comments/oiegaz/are_there_any_career_opportunities_that_open_up/)
 - [How to export emails from an iPhone as a file? No iTunes or iCloud](https://www.reddit.com/r/InformationTechnology/comments/ohk7sp/how_to_export_emails_from_an_iphone_as_a_file_no/)
 - [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
 - [Is a web analytics certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ohbd9j/is_a_web_analytics_certification_worth_it/)
@@ -415,7 +416,6 @@
 - [Can I set up my employer's software on a different system than the one they gave me without them knowing?](https://www.reddit.com/r/InformationTechnology/comments/ogz8k7/can_i_set_up_my_employers_software_on_a_different/)
 - [We were never taught AI or ML but they are expecting me to build an AI-based system](https://www.reddit.com/r/InformationTechnology/comments/ogcdau/we_were_never_taught_ai_or_ml_but_they_are/)
 - [Learning new things](https://www.reddit.com/r/InformationTechnology/comments/og8p61/learning_new_things/)
-- [VLAN Tagging](https://www.reddit.com/r/InformationTechnology/comments/og7xpt/vlan_tagging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

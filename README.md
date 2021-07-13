@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Euro 2020 final: Italy lift trophy after beating England on penalties – as it happened](https://www.theguardian.com/football/live/2021/jul/11/italy-v-england-euro-2020-final-live-score-updates-wembley)
-- [The people searching for missing family members during the pandemic – podcast](https://www.theguardian.com/news/audio/2021/jul/12/the-people-searching-for-missing-family-members-during-the-pandemic)
-- [‘Pride of lions’: what the papers say about England’s Euro final defeat](https://www.theguardian.com/football/2021/jul/12/pride-of-lions-what-the-papers-say-about-englands-euro-final-defeat)
-- [Thousands march in Cuba in rare mass protests amid economic crisis](https://www.theguardian.com/global-development/2021/jul/12/thousands-march-in-cuba-in-rare-mass-protests-amid-economic-crisis)
-- [‘Being an England fan is horrible’: silence and disbelief at fan zone](https://www.theguardian.com/football/2021/jul/11/its-going-to-be-out-of-this-world-nerves-and-pride-as-england-fans-dare-to-dream)
-- [England suffer cruel defeat but Gareth Southgate and his players lit up the summer | Barney Ronay](https://www.theguardian.com/football/2021/jul/12/england-suffer-cruel-defeat-but-southgate-and-his-players-lit-up-the-summer)
-- [Gareth Southgate undone by lack of boldness as England falter at the last | Jacob Steinberg](https://www.theguardian.com/football/blog/2021/jul/12/gareth-southgate-undone-by-lack-of-boldness-as-england-falter-at-the-last)
-- [Twelfth Night review – love’s a costume change away in backstage-set version](https://www.theguardian.com/stage/2021/jul/12/twelfth-night-review)
-- [Pin resets wipe all data from over 100 Treasury mobile phones](https://www.theguardian.com/politics/2021/jul/12/pin-resets-wipe-all-data-from-over-100-treasury-mobile-phones)
-- [Tories have unhealthy financial reliance on property developers, says report](https://www.theguardian.com/society/2021/jul/12/tories-have-unhealthy-financial-reliance-on-property-developers-says-report)
+- [West Indies v Australia: third T20 international – live!](https://www.theguardian.com/sport/live/2021/jul/13/west-indies-vs-australia-t20-live-cricket-international-twenty20-game-three-2021-series-windies-v-aus-game-start-time-today-teams-scores-latest-st-lucia)
+- [Is it possible to make the internet safe for children? – podcast](https://www.theguardian.com/news/audio/2021/jul/13/is-it-possible-to-make-the-internet-safe-for-children-podcast)
+- [EU prepares sanctions against Lebanon leaders a year after Beirut blast](https://www.theguardian.com/world/2021/jul/13/eu-lebanon-sanctions-a-year-after-beirut-port-blast)
+- [Iran unveils state-approved Islamic dating app to boost marriage](https://www.theguardian.com/world/2021/jul/13/iran-unveils-state-approved-islamic-dating-app-hamdam-companion)
+- [Two apartment blocks in hard lockdown in Sydney and Melbourne to contain Covid outbreak](https://www.theguardian.com/australia-news/2021/jul/13/two-apartment-blocks-in-hard-lockdown-in-sydney-and-melbourne-to-contain-covid-outbreak)
+- [Baby beaver born on Exmoor for first time in 400 years](https://www.theguardian.com/environment/2021/jul/13/baby-beaver-born-on-exmoor-for-first-time-in-400-years-aoe)
+- [UK retail sector records fastest quarterly growth on record](https://www.theguardian.com/business/2021/jul/13/uk-retail-sector-records-fastest-quarterly-growth-on-record)
+- [Almost 400,000 more UK homes heading for fuel poverty, campaigners say](https://www.theguardian.com/society/2021/jul/13/almost-400000-more-uk-homes-heading-for-fuel-poverty-campaigners-say)
+- [A third of Britons fear TikTok would share data with Chinese state](https://www.theguardian.com/technology/2021/jul/13/britons-fear-tiktok-share-data-chinese-state-china-reputation)
+- [Hamilton Commission report aims to improve diversity in motorsport](https://www.theguardian.com/sport/2021/jul/13/lewis-hamilton-committed-to-ensuring-commision-proposals-followed-f1-motorsport)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

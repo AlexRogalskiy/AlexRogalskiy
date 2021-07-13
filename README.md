@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The real successes of AI](https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html#tk.rss_all)
+- [5 AI startups out to change the world](https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html#tk.rss_all)
+- [How service virtualization improves application testing](https://www.infoworld.com/article/3624573/how-service-virtualization-improves-application-testing.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Don’t be a ransomware victim](https://www.infoworld.com/article/3624631/dont-be-a-ransomware-victim.html#tk.rss_all)
 - [Developers react to GitHub Copilot](https://www.infoworld.com/article/3624688/developers-react-to-github-copilot.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [How to use R with BigQuery](https://www.infoworld.com/article/3622926/how-to-use-r-with-bigquery.html#tk.rss_all)
 - [Getting started with time series analysis](https://www.infoworld.com/article/3622688/getting-started-with-time-series-analysis.html#tk.rss_all)
 - [AI gives software development tools a boost](https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html#tk.rss_all)
-- [How to use the Python for loop](https://www.infoworld.com/article/3623689/how-to-use-the-python-for-loop.html#tk.rss_all)
-- [Why cloud will continue to explode post-COVID](https://www.infoworld.com/article/3623736/why-cloud-will-continue-to-explode-post-covid.html#tk.rss_all)
-- [What is PaaS? A simpler way to build software applications](https://www.infoworld.com/article/3223434/what-is-paas-a-simpler-way-to-build-software-applications.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

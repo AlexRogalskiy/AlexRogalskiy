@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;18&#x2F;c2&#x2F;66&#x2F;18c266ea39fb982a03d13f3271078042.jpg" alt="When you wish upon a star, you might call it a velleity. It&#39;s our Word of the Day. Click to learn how to pronounce it and more." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;18&#x2F;c2&#x2F;66&#x2F;18c266ea39fb982a03d13f3271078042.jpg" alt="When you wish upon a star, you might call it a velleity. It&#39;s our Word of the Day. Click to learn how to pronounce it and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f6&#x2F;cf&#x2F;79&#x2F;f6cf797edba1edf9799a1df150f0d557.jpg" alt="Gormless is the Word of the Day. It&#39;s also a sick burn. Want example sentences? Click to learn more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;41&#x2F;fe&#x2F;15&#x2F;41fe15bdc944eb1d924b25844d39935f.jpg" alt="Don&#39;t stand too close to this Word of the Day. It&#39;s pretty steep. Click to learn more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;de&#x2F;dd&#x2F;05&#x2F;dedd05fa879f9ac4fc28588653fc0388.jpg" alt="This Word of the Day is for the dreamers. It&#39;s fantast. Want more? Click for example sentences, pronunciation, and more. " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>29°C (<i>clear sky</i>), humidity: 38%, pressure: 1016 (mbar), wind: /east/ 2 (m/s), cloudy: 0%</b>
+        <b>30°C (<i>few clouds</i>), humidity: 34%, pressure: 1016 (mbar), wind: /north-east/ 3 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>03:59 am</b> and sets at <b>22:09 pm</b>.
     </p>

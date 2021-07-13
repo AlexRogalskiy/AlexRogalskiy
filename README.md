@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Breakfast of Champions: Towards Zero-Copy Serialization with NIC Scatter-Gather](https://www.micahlerner.com/2021/07/07/breakfast-of-champions-towards-zero-copy-serialization-with-nic-scatter-gather.html)
-- [How to Build a gRPC Server over tstorage to create tstorage-server](https://bartlomiejmika.com/post/2021/how-to-build-a-grpc-server-over-tstorage-to-create-tstorage-server)
-- [Fatal flaws in Australia’s hermit nation strategy](https://www.ft.com/content/1466396e-2959-4a46-a449-2e1654b40c36)
-- [Winston Churchill predicted artificial wombs and lab-grown meat](https://rootsofprogress.org/winston-churchill-futurist)
-- [Topological Teleportation](https://mareknarozniak.com/2021/07/09/topological-teleportation/)
-- [Stop submitting to social conformity and use your brain instead](https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html)
-- [An Alfvenic reconnecting plasmoid thruster](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/an-alfvenic-reconnecting-plasmoid-thruster/F296E45CC504E8FF2586EA79117E2514)
-- [How to Use Logrotate with Nginx in Docker](https://meerkatwatch.com/blog/nginx-docker-logrotate/)
-- [Solving the Three Stooges Problem](https://www.reddit.com/r/RedditEng/comments/obqtfm/solving_the_three_stooges_problem/)
-- [Phloretin Suppresses Neuroinflammation](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-021-02194-z)
+- [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
+- [As Lake Powell Dwindles, Wonders Unseen in Decades Begin to Open](https://www.adventure-journal.com/2021/07/as-lake-powell-dwindles-wonders-open/)
+- [An Entire Swarm of Black Holes Has Been Caught Moving Through the Milky Way](https://www.sciencealert.com/a-whole-swarm-of-black-holes-has-been-identified-moving-through-the-milky-way)
+- [Fidelity Commits to Crypto, Increases Digital Assets Staff by 70%](https://www.thestreet.com/crypto/.amp/news/fidelity-digital-assets-to-increase-staff-by-70-percent)
+- [TiDB 5.1: Easily Build Your Mission-Critical Applications at Any Scale](https://pingcap.com/blog/tidb-5.1-easily-build-your-mission-critical-applications-at-any-scale)
+- [Does AWS have a mono-cloud problem?](https://blog.min.io/monoclouds-vs-multiclouds-hybridclouds/)
+- [Writing Comedy for BBC Television – Guidelines for New Writers (1994)](https://twitter.com/wubbahed/status/1414767958514147330/photo/1)
+- [Satellite data helped indigenous Peruvians save rainforest](https://www.france24.com/en/live-news/20210712-satellite-data-helped-indigenous-peruvians-save-rainforest-study)
+- [Mean reversion and market volatility in time series data](https://portfolioinsight.io/blog/post/mean-reversion-and-market-volatility-a-guide-to-profitable-bitcoin-trading/)
+- [Use smaller pull requests to release code safely in any Git branching model](https://flagsmith.com/blog/git-branching-and-feature-flags/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

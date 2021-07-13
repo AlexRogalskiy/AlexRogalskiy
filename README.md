@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Kaseya VSA services coming online after week-long outage](https://www.computerweekly.com/news/252503840/Kaseya-VSA-services-coming-online-after-week-long-outage)
+- [Loan charge MPs call for prime ministerial intervention to prevent mass contractor bankruptcies](https://www.computerweekly.com/news/252503847/Loan-charge-MPs-call-for-Prime-Ministerial-intervention-to-prevent-mass-contractor-bankruptcies)
+- [Taxpayers will have to pay at least £300m to bail out Post Office after scandal](https://www.computerweekly.com/news/252503844/Taxpayers-will-have-to-pay-at-least-300m-to-bail-out-Post-Office-after-scandal)
+- [Tech and new experiences tackling trouble at t’mall](https://www.computerweekly.com/feature/Tech-and-new-experiences-tackling-trouble-at-tmall)
+- [How software developers can create mobile apps securely and quickly](https://www.computerweekly.com/feature/How-software-developers-can-create-mobile-apps-securely-and-quickly)
 - [Professionals need protection from the Computer Misuse Act](https://www.computerweekly.com/opinion/Professionals-need-protection-from-the-Computer-Misuse-Act)
 - [Ransomware gangs seek people skills for negotiations](https://www.computerweekly.com/news/252503773/Ransomware-gangs-seek-people-skills-for-negotiations)
 - [What steps can we take to finally close the tech skills gap?](https://www.computerweekly.com/feature/What-steps-can-we-take-to-finally-close-the-tech-skills-gap)
 - [Dublin in distress: Power supply issues threaten growth of Europe’s second-biggest datacentre hub](https://www.computerweekly.com/feature/Dublin-in-distress-Power-supply-issues-threaten-growth-of-Europes-second-biggest-datacentre-hub)
 - [Met Police should release information on British WikiLeaks journalists passed to US, tribunal told](https://www.computerweekly.com/news/252503761/Met-Police-should-release-information-on-British-WikiLeaks-journalists-passed-to-US-tribunal-told)
-- [Are you betting your future on the worst gambling odds in the world?](https://www.computerweekly.com/opinion/Are-you-betting-your-future-on-the-worst-gambling-odds-in-the-world)
-- [Government commitment to Post Office Horizon victims was a ‘false promise’](https://www.computerweekly.com/news/252503752/Government-commitment-to-Post-Office-Horizon-victims-was-a-false-promise)
-- [Choose the right ITSM tool for digital era success](https://www.computerweekly.com/opinion/Choose-the-right-ITSM-tool-for-digital-era-success)
-- [How GSK Consumer Healthcare builds out its platform business](https://www.computerweekly.com/news/252503286/How-GSK-Consumer-Healthcare-builds-out-its-platform-business)
-- [Developers have a moral duty to create ethical AI](https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

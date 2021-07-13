@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Ceridian launches on-demand pay solution in Canada](https://www.itworldcanada.com/article/ceridian-launches-on-demand-pay-solution-in-canada/455616)
+- [Ookla announces video speed test for Android](https://www.itworldcanada.com/article/ookla-announces-video-speed-test-for-android/455597)
+- [Kaseya says all cloud customers back online](https://www.itworldcanada.com/article/kaseya-says-all-cloud-customers-back-online/455576)
+- [Cyber Security Today, July 12, 2021 – An Alberta non-profit admits data theft, an insurance giant notifying victims of ransomware attack and a U.S. wireless carrier is fooled](https://www.itworldcanada.com/article/cyber-security-today-july-12-2021-an-alberta-non-profit-admits-data-theft-an-insurance-giant-notifying-victims-of-ransomware-attack-and-a-u-s-wireless-carrier-is-fooled/455569)
+- [Hashtag Trending, July 12 – Washing machine privacy; executive order for net neutrality; wireless earphones need right to repair](https://www.itworldcanada.com/article/hashtag-trending-july-12-washing-machine-privacy-executive-order-for-net-neutrality-wireless-earphones-need-right-to-repair/455572)
 - [Want to create a great customer experience?  Modernize your IAM](https://www.itworldcanada.com/article/want-to-create-a-great-customer-experience-modernize-your-iam/455483)
 - [Cyber Security Today, Week in Review for Friday, July 9, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-9-2021/455499)
 - [Canada among prime targets of new Office macro infection tactic](https://www.itworldcanada.com/article/canada-among-prime-targets-of-new-office-macro-infection-tactic/455554)
 - [Cyber Security Today, July 9, 2021 – Don’t be caught by Black Widow movie scams, another Accellion FTA hack and more](https://www.itworldcanada.com/article/cyber-security-today-july-9-2021-dont-be-caught-by-black-widow-movie-scams-another-accellion-fta-hack-and-more/455544)
 - [Hashtag Trending, July 9 – Trump Sues Big Tech; Right-to-Repair Talk; Steve Wozniak Speaks Out](https://www.itworldcanada.com/article/hashtag-trending-july-9-trump-sues-big-tech-right-to-repair-talk-steve-wozniak-speaks-out/455509)
-- [Intel cans Lakefield hybrid processor just one year after launch](https://www.itworldcanada.com/article/intel-cans-lakefield-hybrid-processor-just-one-year-after-launch/455504)
-- [Kaseya delays restoration of VSA cloud service to July 11](https://www.itworldcanada.com/article/kaseya-delays-restoration-of-vsa-cloud-service-to-july-11/455487)
-- [Hashtag Trending, July 8 – WeChat drops LGBTQ content; Pentagon’s Microsoft deal fizzles; The Canadian Sector’s explosion](https://www.itworldcanada.com/article/hashtag-trending-july-8-wechat-drops-lgbtq-content-pentagons-microsoft-deal-fizzles-the-canadian-sectors-explosion/455478)
-- [Preparing for the new hybrid workplace](https://www.itworldcanada.com/article/preparing-for-the-new-hybrid-workplace/455454)
-- [Microsoft issues partial fix for ‘PrintNightmare’ vulnerability](https://www.itworldcanada.com/article/microsoft-issues-partial-fix-for-printnightmare-vulnerability/455455)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

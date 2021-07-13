@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
-- [Anime Video Encoding Guide for X265 (HEVC) & AAC/Opus (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
-- [The Potential Orwellian Horror of Central Bank Digital Currencies](https://www.adamseconomics.com/post/the-potential-orwellian-horror-of-central-bank-digital-currencies)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Gizmo’s Freeware Says Farewell](https://www.techsupportalert.com/content/time-say-farewell.htmEpilogueItiswithgreatsadnessandheavyheartsweannouncetheclosingofGizmo’sFreeware.Afterdueconsideration,we%27vedecidedtoshutdownthissitetentativelyby15July2021afterwhichitwillnotbeaccessibleanymore.ManyyearsagoGizmosetouttobeanindependent,unbiasedresourceforanyonewhowantedthebestfreeware.Alongtheway,wecreatedanamazingcommunityofreadersandeditors.Weareproudofthesitewecreated,andareevenmoregratefulforyou,thecommunityofreadersthatmadeitgrow.OnbehalfofeveryonewhowaspartofGizmo’sFreeware,aheartfeltthankyouformakinguspartofyourlives.Formanyyears,Gizmopaidthecostofrunningthesiteoutofpocket.Whenthatbecametoomuch,weaskedyouaboutrunningadsandyousaidyes,andwerequestedfordonationsandyouwholeheartedlyresponded.Theadsanddonationshavekeptthelightson,andoureditorshavebeenunpaidvolunteers.Astheworldhasshiftedawayfromdesktopstomobilesinsearchofflexibilityovertheyears,ourtrafficandadvertisingrevenuedeclined,andtheproceedscannolongercoverthecostsofrunningthesite.Thiswasaverydifficultdecision,asyou,ourreadersandeditors,havebeentheheartofGizmo’sFreewareforsomanyyears.It’sbeenafantasticjourneywithallofyouandwe’reheartbrokenithascometoanend.Wewillmissyou.TheGizmo%27sFreewareCrew)
-- [No sane compiler would optimize atomics (2015)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html)
-- [Resident Evil Village crack completely fixes its stuttering issues](https://www.dsogaming.com/news/resident-evil-village-crack-completely-fixes-its-stuttering-issues/)
-- [I'm a programmer – how can I help SciHub?](https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/)
-- [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
-- [Biden launches action on "Big Tech, Big Pharma, and Big Ag" – can it be real?](https://mattstoller.substack.com/p/biden-launches-sweeping-action-on)
+- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
+- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
+- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
+- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
+- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
+- [The History of Karate](https://www.smithsonianmag.com/arts-culture/centuries-old-sport-karate-history-olympics-180977941/)
+- [The Art of Nomography](https://kartsci.org/kocomu/computer-history/the-art-of-nomography/)
+- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
+- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

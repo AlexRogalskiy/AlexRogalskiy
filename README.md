@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What You Need to Know About Ransomware Insurance](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-you-need-to-know-about-ransomware-insurance/a/d-id/1341465?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How CIOs Should Manage the Rapid Shift to the Cloud](https://www.informationweek.com/cloud/how-cios-should-manage-the-rapid-shift-to-the-cloud/a/d-id/1341460?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [A Strategy to Aid Underserved Communities and Fill Tech Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/a-strategy-to-aid-underserved-communities-and-fill-tech-jobs/a/d-id/1341499?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Data Integration is the Key to the Connected Future](https://www.informationweek.com/big-data/data-integration-is-the-key-to-the-connected-future/a/d-id/1341457?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why You Need a Data Fabric, Not Just IT Architecture](https://www.informationweek.com/big-data/why-you-need-a-data-fabric-not-just-it-architecture/a/d-id/1341463?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Dealing with Disgruntled Employees](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/dealing-with-disgruntled-employees/a/d-id/1341454?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How COVID Expanded CIOs' Power and Influence](https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Define Your Cloud Strategy by Starting With Why](https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Mondelez Takes a Low-Code, No-Code Approach to Development](https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The Pandemic Has Changed How IT Teams Collaborate, Permanently](https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

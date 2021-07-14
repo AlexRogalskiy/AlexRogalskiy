@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
-- [As Lake Powell Dwindles, Wonders Unseen in Decades Begin to Open](https://www.adventure-journal.com/2021/07/as-lake-powell-dwindles-wonders-open/)
-- [An Entire Swarm of Black Holes Has Been Caught Moving Through the Milky Way](https://www.sciencealert.com/a-whole-swarm-of-black-holes-has-been-identified-moving-through-the-milky-way)
-- [Fidelity Commits to Crypto, Increases Digital Assets Staff by 70%](https://www.thestreet.com/crypto/.amp/news/fidelity-digital-assets-to-increase-staff-by-70-percent)
-- [TiDB 5.1: Easily Build Your Mission-Critical Applications at Any Scale](https://pingcap.com/blog/tidb-5.1-easily-build-your-mission-critical-applications-at-any-scale)
-- [Does AWS have a mono-cloud problem?](https://blog.min.io/monoclouds-vs-multiclouds-hybridclouds/)
-- [Writing Comedy for BBC Television – Guidelines for New Writers (1994)](https://twitter.com/wubbahed/status/1414767958514147330/photo/1)
-- [Satellite data helped indigenous Peruvians save rainforest](https://www.france24.com/en/live-news/20210712-satellite-data-helped-indigenous-peruvians-save-rainforest-study)
-- [Mean reversion and market volatility in time series data](https://portfolioinsight.io/blog/post/mean-reversion-and-market-volatility-a-guide-to-profitable-bitcoin-trading/)
-- [Use smaller pull requests to release code safely in any Git branching model](https://flagsmith.com/blog/git-branching-and-feature-flags/)
+- [DOJ sent court order to security firm ProofPoint to obtain WaPo email records](https://twitter.com/KimZetter/status/1415131346226212864)
+- [NASA Announces Nuclear Thermal Propulsion Reactor Concept Awards](https://www.nasa.gov/press-release/nasa-announces-nuclear-thermal-propulsion-reactor-concept-awards)
+- [Update: SaveVideo is Back: u/SaveVideo](https://old.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/)
+- [Amazon granted approval to use radar to monitor sleep](https://www.cbsnews.com/news/amazon-approval-radar-monitor-sleep/)
+- [The Story of HashiCorp Terraform with Mitchell Hashimoto](https://www.hashicorp.com/resources/the-story-of-hashicorp-terraform-with-mitchell-hashimoto)
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [Three students, one mission: Drive a solar power car across the country](https://www.lansingstatejournal.com/story/news/2021/07/12/pink-skies-embarks-cannonball-sun-journey/7888532002/)
+- [Marijuana legalization linked to temporary decrease in opioid-related emergency](https://www.eurekalert.org/pub_releases/2021-07/uop-mll070821.php)
+- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
+- [Ask HN: How do you use RSS?](https://news.ycombinator.com/item?id=27828729)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

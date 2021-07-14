@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Kaseya VSA services coming online after week-long outage](https://www.computerweekly.com/news/252503840/Kaseya-VSA-services-coming-online-after-week-long-outage)
-- [Loan charge MPs call for prime ministerial intervention to prevent mass contractor bankruptcies](https://www.computerweekly.com/news/252503847/Loan-charge-MPs-call-for-Prime-Ministerial-intervention-to-prevent-mass-contractor-bankruptcies)
-- [Taxpayers will have to pay at least £300m to bail out Post Office after scandal](https://www.computerweekly.com/news/252503844/Taxpayers-will-have-to-pay-at-least-300m-to-bail-out-Post-Office-after-scandal)
-- [Tech and new experiences tackling trouble at t’mall](https://www.computerweekly.com/feature/Tech-and-new-experiences-tackling-trouble-at-tmall)
-- [How software developers can create mobile apps securely and quickly](https://www.computerweekly.com/feature/How-software-developers-can-create-mobile-apps-securely-and-quickly)
-- [Professionals need protection from the Computer Misuse Act](https://www.computerweekly.com/opinion/Professionals-need-protection-from-the-Computer-Misuse-Act)
-- [Ransomware gangs seek people skills for negotiations](https://www.computerweekly.com/news/252503773/Ransomware-gangs-seek-people-skills-for-negotiations)
-- [What steps can we take to finally close the tech skills gap?](https://www.computerweekly.com/feature/What-steps-can-we-take-to-finally-close-the-tech-skills-gap)
-- [Dublin in distress: Power supply issues threaten growth of Europe’s second-biggest datacentre hub](https://www.computerweekly.com/feature/Dublin-in-distress-Power-supply-issues-threaten-growth-of-Europes-second-biggest-datacentre-hub)
-- [Met Police should release information on British WikiLeaks journalists passed to US, tribunal told](https://www.computerweekly.com/news/252503761/Met-Police-should-release-information-on-British-WikiLeaks-journalists-passed-to-US-tribunal-told)
+- [Regional cyber clusters score £700k of funding](https://www.computerweekly.com/news/252503938/Regional-cyber-clusters-score-700k-of-funding)
+- [AI to have biggest impact on fintech development over next five years](https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years)
+- [Financial services sector’s cloud use set for more regulatory scrutiny on resilience grounds](https://www.computerweekly.com/news/252503936/Financial-services-sectors-cloud-use-set-for-more-regulatory-scrutiny-on-resilience-grounds)
+- [BMW launches quantum challenge for automotive sector](https://www.computerweekly.com/news/252503937/BMW-launches-quantum-challenge-for-automotive-sector)
+- [Modipwn vulnerability puts millions of building systems at risk](https://www.computerweekly.com/news/252503930/Modipwn-vulnerability-puts-millions-of-building-systems-at-risk)
+- [Oracle’s Miranda advances customer wins against SAP for cloud applications suite](https://www.computerweekly.com/news/252503909/Oracles-Miranda-advances-customers-wins-against-SAP-for-cloud-applications-suite)
+- [Secureworks sets up in EU datacentre for XDR services](https://www.computerweekly.com/news/252503911/Secureworks-sets-up-in-EU-datacentre-for-XDR-services)
+- [UK Cyber Security Council calls for new push on training](https://www.computerweekly.com/news/252503916/UK-Cyber-Security-Council-calls-for-new-push-on-training)
+- [IR35: Contractors demand tax and employment law alignment to protect ‘zero-rights’ workers](https://www.computerweekly.com/news/252503915/IR35-Contractors-demand-tax-and-employment-law-alignment-to-protect-zero-rights-workers)
+- [Met Police seize £180m worth of Bitcoin](https://www.computerweekly.com/news/252503907/Met-Police-seize-180m-worth-of-Bitcoin)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

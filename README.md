@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
-- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
-- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
-- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
-- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
-- [The History of Karate](https://www.smithsonianmag.com/arts-culture/centuries-old-sport-karate-history-olympics-180977941/)
-- [The Art of Nomography](https://kartsci.org/kocomu/computer-history/the-art-of-nomography/)
-- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
-- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
-- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
+- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
+- [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
+- [ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard](https://www.zsa.io/planck/)
+- [Dividend Cripples Saudi Aramco](https://oilprice.com/Energy/Energy-General/Huge-Dividend-Cripples-Worlds-Largest-Oil-Company.html)
+- [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
+- [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
+- [Mozart Data (YC S20) Is Hiring a UI/UX Designer](https://www.mozartdata.com/uiux-designer)
+- [RabbitMQ Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+- [A privacy war is raging inside the W3C](https://www.protocol.com/policy/w3c-privacy-war)
+- [macOS Nix setup: an alternative to Homebrew (2020)](https://wickedchicken.github.io/post/macos-nix-setup/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

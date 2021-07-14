@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [West Indies v Australia: third T20 international – live!](https://www.theguardian.com/sport/live/2021/jul/13/west-indies-vs-australia-t20-live-cricket-international-twenty20-game-three-2021-series-windies-v-aus-game-start-time-today-teams-scores-latest-st-lucia)
-- [Is it possible to make the internet safe for children? – podcast](https://www.theguardian.com/news/audio/2021/jul/13/is-it-possible-to-make-the-internet-safe-for-children-podcast)
-- [EU prepares sanctions against Lebanon leaders a year after Beirut blast](https://www.theguardian.com/world/2021/jul/13/eu-lebanon-sanctions-a-year-after-beirut-port-blast)
-- [Iran unveils state-approved Islamic dating app to boost marriage](https://www.theguardian.com/world/2021/jul/13/iran-unveils-state-approved-islamic-dating-app-hamdam-companion)
-- [Two apartment blocks in hard lockdown in Sydney and Melbourne to contain Covid outbreak](https://www.theguardian.com/australia-news/2021/jul/13/two-apartment-blocks-in-hard-lockdown-in-sydney-and-melbourne-to-contain-covid-outbreak)
-- [Baby beaver born on Exmoor for first time in 400 years](https://www.theguardian.com/environment/2021/jul/13/baby-beaver-born-on-exmoor-for-first-time-in-400-years-aoe)
-- [UK retail sector records fastest quarterly growth on record](https://www.theguardian.com/business/2021/jul/13/uk-retail-sector-records-fastest-quarterly-growth-on-record)
-- [Almost 400,000 more UK homes heading for fuel poverty, campaigners say](https://www.theguardian.com/society/2021/jul/13/almost-400000-more-uk-homes-heading-for-fuel-poverty-campaigners-say)
-- [A third of Britons fear TikTok would share data with Chinese state](https://www.theguardian.com/technology/2021/jul/13/britons-fear-tiktok-share-data-chinese-state-china-reputation)
-- [Hamilton Commission report aims to improve diversity in motorsport](https://www.theguardian.com/sport/2021/jul/13/lewis-hamilton-committed-to-ensuring-commision-proposals-followed-f1-motorsport)
+- [The heatwave forcing America to confront climate reality](https://www.theguardian.com/news/audio/2021/jul/14/the-heatwave-forcing-america-to-confront-climate-reality-podcast)
+- [WHO warns of ‘chaos’ if individuals mix Covid vaccines](https://www.theguardian.com/society/2021/jul/14/who-warns-of-chaos-if-individuals-mix-covid-vaccines)
+- [More than 60 wildfires rage across US west – including blaze bigger than Portland](https://www.theguardian.com/us-news/2021/jul/13/us-wildfires-california-oregon-washington)
+- [Four Iranians charged in plot to kidnap US-based journalist and critic](https://www.theguardian.com/us-news/2021/jul/13/iran-intelligence-officer-kidnap-plot-us-journalist)
+- [Marcus Rashford ruled out until October in blow to Manchester United](https://www.theguardian.com/football/2021/jul/14/marcus-rashford-ruled-out-until-october-blow-manchester-united)
+- [More than 1m children from key worker families living in poverty, says TUC](https://www.theguardian.com/inequality/2021/jul/14/more-than-1m-children-from-key-worker-families-living-in-poverty-says-tuc)
+- [Benefit cut will leave jobless families unable to live decently, research finds](https://www.theguardian.com/society/2021/jul/14/benefit-cut-will-leave-jobless-families-unable-to-live-decently-research-finds)
+- [Public should be alert to threat from China and Russia, says MI5 chief](https://www.theguardian.com/uk-news/2021/jul/14/public-should-be-alert-to-threat-from-china-and-russia-says-mi5-chief)
+- [Ban on polluting lorries pledged in Tories’ transport greenprint](https://www.theguardian.com/environment/2021/jul/14/ban-on-polluting-lorries-pledged-in-tories-transport-greenprint)
+- [Alcohol caused 740,000 cancer cases globally last year – study](https://www.theguardian.com/society/2021/jul/13/alcohol-caused-740000-cancer-cases-globally-last-year-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

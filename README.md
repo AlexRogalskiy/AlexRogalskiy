@@ -220,7 +220,7 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b8&#x2F;cb&#x2F;f9&#x2F;b8cbf999e6e3e0763fe038c00997b70a.jpg" alt="Zeitgeist is the Word of the Day. Can you use it in a sentence? Click to see our examples." />
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b8&#x2F;cb&#x2F;f9&#x2F;b8cbf999e6e3e0763fe038c00997b70a.jpg" alt="Zeitgeist is the Word of the Day. Can you use it in a sentence? Click to see our examples. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;18&#x2F;c2&#x2F;66&#x2F;18c266ea39fb982a03d13f3271078042.jpg" alt="When you wish upon a star, you might call it a velleity. It&#39;s our Word of the Day. Click to learn how to pronounce it and more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f6&#x2F;cf&#x2F;79&#x2F;f6cf797edba1edf9799a1df150f0d557.jpg" alt="Gormless is the Word of the Day. It&#39;s also a sick burn. Want example sentences? Click to learn more. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;41&#x2F;fe&#x2F;15&#x2F;41fe15bdc944eb1d924b25844d39935f.jpg" alt="Don&#39;t stand too close to this Word of the Day. It&#39;s pretty steep. Click to learn more. " />
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>26°C (<i>clear sky</i>), humidity: 59%, pressure: 1015 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
+        <b>30°C (<i>clear sky</i>), humidity: 40%, pressure: 1015 (mbar), wind: /north/ 1 (m/s), cloudy: 0%</b>
         <br />
         Today, the Sun rises at <b>04:01 am</b> and sets at <b>22:07 pm</b>.
     </p>

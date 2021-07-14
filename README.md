@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CTOs Evolve in Shake Up of Digital Leadership in the C-Suite](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ctos-evolve-in-shake-up-of-digital-leadership-in-the-c-suite/a/d-id/1341511?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Four Best Practices for Successful AI Projects](https://www.informationweek.com/strategic-cio/it-strategy/four-best-practices-for-successful-ai-projects/a/d-id/1341504?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What You Need to Know About Ransomware Insurance](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-you-need-to-know-about-ransomware-insurance/a/d-id/1341465?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIOs Should Manage the Rapid Shift to the Cloud](https://www.informationweek.com/cloud/how-cios-should-manage-the-rapid-shift-to-the-cloud/a/d-id/1341460?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [A Strategy to Aid Underserved Communities and Fill Tech Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/a-strategy-to-aid-underserved-communities-and-fill-tech-jobs/a/d-id/1341499?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Ways to Cultivate a Cyber-Aware Culture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/ways-to-cultivate-a-cyber-aware-culture/a/d-id/1341456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [IT Pro Salary Survey: What You Earned in 2020](https://www.informationweek.com/strategic-cio/team-building-and-staffing/it-pro-salary-survey-what-you-earned-in-2020/d/d-id/1341488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Dealing with Disgruntled Employees](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/dealing-with-disgruntled-employees/a/d-id/1341454?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How COVID Expanded CIOs' Power and Influence](https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Define Your Cloud Strategy by Starting With Why](https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What's in the latest Firefox update? 90 unblocks Facebook sign-ins, updates in background](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-90-unblocks-facebook-sign-ins-updates-in-background.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [The million-dollar question about Google's Pixel 6](https://www.computerworld.com/article/3624652/google-pixel-6.html#tk.rss_all)
+- [Apple is changing its MDM system in iOS/iPadOS 15](https://www.computerworld.com/article/3624653/apple-is-changing-its-mdm-system-in-iosipados-15.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [To patch or not to patch: That is the question](https://www.computerworld.com/article/3624584/to-patch-or-not-to-patch-that-is-the-question.html#tk.rss_all)
+- [Say goodbye to all that: Microsoft ends Windows-as-a-Service](https://www.computerworld.com/article/3624741/say-goodbye-to-all-that-microsoft-ends-windows-as-a-service.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Can an Apple Watch help manage 'Long COVID'?](https://www.computerworld.com/article/3624617/can-an-apple-watch-help-manage-long-covid.html#tk.rss_all)
-- [Not yet running Windows 10 21H1? It’s time](https://www.computerworld.com/article/3624704/not-yet-running-windows-10-21h1-its-time.html#tk.rss_all)
-- [8 great productivity tips for Chrome](https://www.computerworld.com/article/3624988/8-great-productivity-tips-for-chrome.html#tk.rss_all)
-- [Download the Best Places to Work in IT archives, 1994 to 2021](https://www.computerworld.com/article/3402059/download-the-best-places-to-work-in-it-archives-1994-to-2021.html#tk.rss_all)
-- [ArcGIS Field Maps + iPhones herald the emerging digital enterprise](https://www.computerworld.com/article/3624593/arcgis-field-maps-iphones-herald-the-emerging-digital-enterprise.html#tk.rss_all)
-- [Clariti is one collaboration tool to rule them all](https://www.computerworld.com/article/3623300/clariti-is-one-collaboration-tool-to-rule-them-all.html#tk.rss_all)
-- [This JavaScript DOM course bundle is on sale for just $30 this week](https://www.computerworld.com/article/3623299/this-javascript-dom-course-bundle-is-on-sale-for-just-30-this-week.html#tk.rss_all)
-- [Livestorm goes beyond video conferencing with a powerful video engagement platform](https://www.computerworld.com/article/3623281/livestorm-goes-beyond-video-conferencing-with-a-powerful-video-engagement-platform.html#tk.rss_all)
-- [Just $20 to learn how MySQL, API’s, and forms fit into modern web development](https://www.computerworld.com/article/3623714/just-20-to-learn-how-mysql-api-s-and-forms-fit-into-modern-web-development.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

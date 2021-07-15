@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Say hello to the Windows 365 Cloud PC](https://www.computerworld.com/article/3625450/say-hello-to-the-windows-365-cloud-pc.html#tk.rss_all)
+- [Zoho brings business intelligence to the mass market](https://www.computerworld.com/article/3625093/zoho-brings-business-intelligence-to-the-mass-market.html#tk.rss_all)
+- [What is UEM? Unified endpoint management explained](https://www.computerworld.com/article/3625231/what-is-uem-unified-endpoint-management-explained.html#tk.rss_all)
 - [What's in the latest Firefox update? 90 unblocks Facebook sign-ins, updates in background](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-90-unblocks-facebook-sign-ins-updates-in-background.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Apple is changing its MDM system in iOS/iPadOS 15](https://www.computerworld.com/article/3624653/apple-is-changing-its-mdm-system-in-iosipados-15.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [To patch or not to patch: That is the question](https://www.computerworld.com/article/3624584/to-patch-or-not-to-patch-that-is-the-question.html#tk.rss_all)
-- [Say goodbye to all that: Microsoft ends Windows-as-a-Service](https://www.computerworld.com/article/3624741/say-goodbye-to-all-that-microsoft-ends-windows-as-a-service.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Can an Apple Watch help manage 'Long COVID'?](https://www.computerworld.com/article/3624617/can-an-apple-watch-help-manage-long-covid.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [DOJ sent court order to security firm ProofPoint to obtain WaPo email records](https://twitter.com/KimZetter/status/1415131346226212864)
-- [NASA Announces Nuclear Thermal Propulsion Reactor Concept Awards](https://www.nasa.gov/press-release/nasa-announces-nuclear-thermal-propulsion-reactor-concept-awards)
-- [Update: SaveVideo is Back: u/SaveVideo](https://old.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/)
-- [Amazon granted approval to use radar to monitor sleep](https://www.cbsnews.com/news/amazon-approval-radar-monitor-sleep/)
-- [The Story of HashiCorp Terraform with Mitchell Hashimoto](https://www.hashicorp.com/resources/the-story-of-hashicorp-terraform-with-mitchell-hashimoto)
-- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
-- [Three students, one mission: Drive a solar power car across the country](https://www.lansingstatejournal.com/story/news/2021/07/12/pink-skies-embarks-cannonball-sun-journey/7888532002/)
-- [Marijuana legalization linked to temporary decrease in opioid-related emergency](https://www.eurekalert.org/pub_releases/2021-07/uop-mll070821.php)
-- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
-- [Ask HN: How do you use RSS?](https://news.ycombinator.com/item?id=27828729)
+- [ASCII art diagrams in Emacs org-mode (2016)](https://www.johndcook.com/blog/2016/06/15/ascii-art-diagrams-in-emacs-org-mode/)
+- [Hyundai to Pilot Autonomous Demand-Responsive RoboShuttle Service](https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-to-pilot-autonomous-demand-responsive-%E2%80%98roboshuttle%E2%80%99-service-0000016690)
+- [Cognitive Complexity(2017)[pdf]](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+- [Ryuichi Sakamoto on Life, Nature and ‘Time’](https://www.nytimes.com/2021/07/14/arts/music/ryuichi-sakamoto-time.html)
+- [Regulator Seeks Massive Recall of Potentially Hazardous Products Sold on Amazon](https://www.consumerreports.org/product-safety/regulator-seeks-massive-recall-of-products-sold-on-amazon-a2506868720/)
+- [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
+- [Introduction to the Diamond Standard, EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard)
+- [Twilio launches interactive live streaming video and audio as a service](https://techcrunch.com/2021/07/14/twilios-new-tools-will-let-anyone-add-live-video-and-audio-to-their-apps/)
+- [Microsoft announces Windows 365, a subscription cloud PC](https://www.bbc.com/news/technology-57836326)
+- [The search for the loneliest whale in the world](https://www.theguardian.com/environment/2021/jul/13/loneliest-whale-in-the-world-search)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

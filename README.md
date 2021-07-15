@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Programming the Windows kernel with eBPF](https://www.infoworld.com/article/3625229/programming-the-windows-kernel-with-ebpf.html#tk.rss_all)
+- [How to choose a low-code development platform](https://www.infoworld.com/article/3624596/how-to-choose-a-low-code-development-platform.html#tk.rss_all)
 - [MongoDB goes serverless with latest Atlas release](https://www.infoworld.com/article/3625248/mongodb-goes-serverless-with-latest-atlas-release.html#tk.rss_all)
 - [How to change your career to cloud computing](https://www.infoworld.com/article/3624636/how-to-change-your-career-to-cloud-computing.html#tk.rss_all)
 - [How to use advanced Serilog features in ASP.NET Core MVC](https://www.infoworld.com/article/3624022/how-to-use-advanced-serilog-features-in-aspnet-core-mvc.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [How service virtualization improves application testing](https://www.infoworld.com/article/3624573/how-service-virtualization-improves-application-testing.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Don’t be a ransomware victim](https://www.infoworld.com/article/3624631/dont-be-a-ransomware-victim.html#tk.rss_all)
-- [Developers react to GitHub Copilot](https://www.infoworld.com/article/3624688/developers-react-to-github-copilot.html#tk.rss_all)
-- [Shouldn’t you be using CodeSandbox?](https://www.infoworld.com/article/3624630/shouldnt-you-be-using-codesandbox.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

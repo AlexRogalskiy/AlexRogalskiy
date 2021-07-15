@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The heatwave forcing America to confront climate reality](https://www.theguardian.com/news/audio/2021/jul/14/the-heatwave-forcing-america-to-confront-climate-reality-podcast)
-- [WHO warns of ‘chaos’ if individuals mix Covid vaccines](https://www.theguardian.com/society/2021/jul/14/who-warns-of-chaos-if-individuals-mix-covid-vaccines)
-- [More than 60 wildfires rage across US west – including blaze bigger than Portland](https://www.theguardian.com/us-news/2021/jul/13/us-wildfires-california-oregon-washington)
-- [Four Iranians charged in plot to kidnap US-based journalist and critic](https://www.theguardian.com/us-news/2021/jul/13/iran-intelligence-officer-kidnap-plot-us-journalist)
-- [Marcus Rashford ruled out until October in blow to Manchester United](https://www.theguardian.com/football/2021/jul/14/marcus-rashford-ruled-out-until-october-blow-manchester-united)
-- [More than 1m children from key worker families living in poverty, says TUC](https://www.theguardian.com/inequality/2021/jul/14/more-than-1m-children-from-key-worker-families-living-in-poverty-says-tuc)
-- [Benefit cut will leave jobless families unable to live decently, research finds](https://www.theguardian.com/society/2021/jul/14/benefit-cut-will-leave-jobless-families-unable-to-live-decently-research-finds)
-- [Public should be alert to threat from China and Russia, says MI5 chief](https://www.theguardian.com/uk-news/2021/jul/14/public-should-be-alert-to-threat-from-china-and-russia-says-mi5-chief)
-- [Ban on polluting lorries pledged in Tories’ transport greenprint](https://www.theguardian.com/environment/2021/jul/14/ban-on-polluting-lorries-pledged-in-tories-transport-greenprint)
-- [Alcohol caused 740,000 cancer cases globally last year – study](https://www.theguardian.com/society/2021/jul/13/alcohol-caused-740000-cancer-cases-globally-last-year-study)
+- [The fight to get ready for a pandemic Olympics](https://www.theguardian.com/news/audio/2021/jul/15/the-fight-to-get-ready-for-a-pandemic-olympics)
+- [Britney Spears allowed her own attorney as singer says father should be charged with ‘abuse’](https://www.theguardian.com/music/2021/jul/13/britney-spears-conservatorship-hearing-latest-news)
+- [Vigilante groups form in South Africa amid looting and violence](https://www.theguardian.com/world/2021/jul/14/vigilante-groups-form-south-africa-tackle-looting-violence)
+- [France protests: clashes with police on Bastille Day amid anger at tighter Covid rules](https://www.theguardian.com/world/2021/jul/15/france-protests-clashes-with-police-on-bastille-day-amid-anger-at-tighter-covid-rules)
+- [LA beaches close after 17m gallons of untreated sewage discharged into bay](https://www.theguardian.com/us-news/2021/jul/14/los-angeles-beaches-sewage-playa-del-rey)
+- [Wildfires tear through 1m acres in US west as 16,000 firefighters battle onslaught](https://www.theguardian.com/us-news/2021/jul/14/wildfires-us-north-west-threaten-native-american-tribal-lands)
+- [Citizenship for sale: fugitives, politicians and disgraced businesspeople buying Vanuatu passports](https://www.theguardian.com/world/2021/jul/15/citizenship-for-sale-fugitives-politicians-and-disgraced-businesspeople-buying-vanuatu-passports)
+- [Coventry puts forward ‘mission critical’ plan for electric car battery plant](https://www.theguardian.com/business/2021/jul/15/coventry-puts-forward-mission-critical-plan-for-electric-car-battery-plant)
+- [Two-thirds of working mothers lack summer childcare – UK survey](https://www.theguardian.com/money/2021/jul/15/two-thirds-of-working-mothers-lack-summer-childcare-uk-survey)
+- [Derbyshire cave house identified as ninth-century home to exiled king](https://www.theguardian.com/science/2021/jul/15/derbyshire-cave-house-identified-as-ninth-century-home-to-exiled-king)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

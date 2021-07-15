@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Windows 365: Microsoft unveils the era of the cloud PC](https://www.computerweekly.com/news/252503913/Windows-365-Microsoft-unveils-the-era-of-the-cloud-PC)
+- [EC approves pan-Nordic payments platform](https://www.computerweekly.com/news/252503980/EC-approves-pan-Nordic-payments-platform)
+- [UK should set up digital task forces to transform governance](https://www.computerweekly.com/news/252503976/UK-should-set-up-digital-task-forces-to-transform-governance)
+- [REvil ransomware crew drops offline, reasons murky](https://www.computerweekly.com/news/252503978/REvil-ransomware-crew-drops-offline-reasons-murky)
+- [More than half of European IT outsourcing spending will soon be on cloud services](https://www.computerweekly.com/news/252503974/More-than-half-of-European-IT-outsourcing-spending-will-soon-be-on-cloud-services)
+- [Multiple Microsoft bugs being actively exploited](https://www.computerweekly.com/news/252503977/Multiple-Microsoft-bugs-being-actively-exploited)
+- [London announces winners of Covid-19 recovery innovation challenge](https://www.computerweekly.com/news/252503967/London-announces-winners-of-Covid-19-recovery-innovation-challenge)
+- [Can a web app ever be truly secure?](https://www.computerweekly.com/opinion/Can-a-web-app-ever-be-truly-secure)
 - [Regional cyber clusters score £700k of funding](https://www.computerweekly.com/news/252503938/Regional-cyber-clusters-score-700k-of-funding)
 - [AI to have biggest impact on fintech development over next five years](https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years)
-- [Financial services sector’s cloud use set for more regulatory scrutiny on resilience grounds](https://www.computerweekly.com/news/252503936/Financial-services-sectors-cloud-use-set-for-more-regulatory-scrutiny-on-resilience-grounds)
-- [BMW launches quantum challenge for automotive sector](https://www.computerweekly.com/news/252503937/BMW-launches-quantum-challenge-for-automotive-sector)
-- [Modipwn vulnerability puts millions of building systems at risk](https://www.computerweekly.com/news/252503930/Modipwn-vulnerability-puts-millions-of-building-systems-at-risk)
-- [Oracle’s Miranda advances customer wins against SAP for cloud applications suite](https://www.computerweekly.com/news/252503909/Oracles-Miranda-advances-customers-wins-against-SAP-for-cloud-applications-suite)
-- [Secureworks sets up in EU datacentre for XDR services](https://www.computerweekly.com/news/252503911/Secureworks-sets-up-in-EU-datacentre-for-XDR-services)
-- [UK Cyber Security Council calls for new push on training](https://www.computerweekly.com/news/252503916/UK-Cyber-Security-Council-calls-for-new-push-on-training)
-- [IR35: Contractors demand tax and employment law alignment to protect ‘zero-rights’ workers](https://www.computerweekly.com/news/252503915/IR35-Contractors-demand-tax-and-employment-law-alignment-to-protect-zero-rights-workers)
-- [Met Police seize £180m worth of Bitcoin](https://www.computerweekly.com/news/252503907/Met-Police-seize-180m-worth-of-Bitcoin)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

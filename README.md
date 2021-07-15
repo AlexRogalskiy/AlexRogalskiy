@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
-- [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
-- [ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard](https://www.zsa.io/planck/)
-- [Dividend Cripples Saudi Aramco](https://oilprice.com/Energy/Energy-General/Huge-Dividend-Cripples-Worlds-Largest-Oil-Company.html)
-- [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
-- [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
-- [Mozart Data (YC S20) Is Hiring a UI/UX Designer](https://www.mozartdata.com/uiux-designer)
-- [RabbitMQ Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
-- [A privacy war is raging inside the W3C](https://www.protocol.com/policy/w3c-privacy-war)
-- [macOS Nix setup: an alternative to Homebrew (2020)](https://wickedchicken.github.io/post/macos-nix-setup/)
+- [FAA warns Musk that he is building Super Heavy launch tower without permission](https://www.reuters.com/business/aerospace-defense/faa-warns-spacex-it-has-not-approved-new-texas-launch-site-tower-2021-07-14/)
+- [Microsoft/IoT-for-Beginners: 12 Weeks, 24 Lessons, IoT for All](https://github.com/microsoft/IoT-For-Beginners)
+- [The Art of the Romanian Haystack](https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html)
+- [Lowkey (YC S18) is hiring a senior front-end engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [iOS zero-day let SolarWinds hackers compromise fully updated iPhones](https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/)
+- [A Storage Crisis](http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/)
+- [macOS Monterey Beta 3: Apple Redesigns Safari Tab Interface Following Complaints](https://www.macrumors.com/2021/07/14/macos-monterey-safari-redesign/)
+- [Germany fines YouTube for removing video of anti-lockdown protest](https://www.mediaite.com/news/germany-fines-youtube-six-figures-for-removing-video-of-anti-lockdown-protest/)
+- [Goodbye, Fleets](https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets)
+- [Increasing HTTPS Adoption](https://blog.chromium.org/2021/07/increasing-https-adoption.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

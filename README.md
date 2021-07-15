@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Become an IT Industry Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [How IT Leaders Can Adopt an Automation Mindset](https://www.informationweek.com/big-data/ai-machine-learning/how-it-leaders-can-adopt-an-automation-mindset/a/d-id/1341521?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CTOs Evolve in Shake Up of Digital Leadership in the C-Suite](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ctos-evolve-in-shake-up-of-digital-leadership-in-the-c-suite/a/d-id/1341511?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Four Best Practices for Successful AI Projects](https://www.informationweek.com/strategic-cio/it-strategy/four-best-practices-for-successful-ai-projects/a/d-id/1341504?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [What You Need to Know About Ransomware Insurance](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-you-need-to-know-about-ransomware-insurance/a/d-id/1341465?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Data Integration is the Key to the Connected Future](https://www.informationweek.com/big-data/data-integration-is-the-key-to-the-connected-future/a/d-id/1341457?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why You Need a Data Fabric, Not Just IT Architecture](https://www.informationweek.com/big-data/why-you-need-a-data-fabric-not-just-it-architecture/a/d-id/1341463?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Cultivate a Cyber-Aware Culture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/ways-to-cultivate-a-cyber-aware-culture/a/d-id/1341456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [IT Pro Salary Survey: What You Earned in 2020](https://www.informationweek.com/strategic-cio/team-building-and-staffing/it-pro-salary-survey-what-you-earned-in-2020/d/d-id/1341488?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Dealing with Disgruntled Employees](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/dealing-with-disgruntled-employees/a/d-id/1341454?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

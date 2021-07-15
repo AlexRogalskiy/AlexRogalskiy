@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Leveraging technology to build trust](https://www.itworldcanada.com/article/leveraging-technology-to-build-trust/455791)
+- [Quantum computing: A new generation of compute power](https://www.itworldcanada.com/article/quantum-computing-a-new-generation-of-compute-power/455787)
+- [Breaking news: SonicWall warns of ‘imminent’ ransomware campaign against certain devices](https://www.itworldcanada.com/article/breaking-news-sonicwall-warns-of-imminent-ransomware-campaign-against-certain-devices/455748)
+- [Innovation leaders lauded at Digital Transformation Awards](https://www.itworldcanada.com/article/innovation-leaders-lauded-at-digital-transformation-awards/455741)
+- [Government of Canada invites applications for stream 1 of the Canada Digital Adoption Program](https://www.itworldcanada.com/article/government-of-canada-invites-applications-for-stream-1-of-the-canada-digital-adoption-program/455689)
+- [Cyber Security Today, July 14, 2021 – Interpol says ransomware may become a pandemic, expert advice on fighting ransomware and security updates for ForgeRock and Etherpad](https://www.itworldcanada.com/article/cyber-security-today-july-14-2021-interpol-says-ransomware-may-become-a-pandemic-expert-advice-on-fighting-ransomware-and-security-updates-for-forgerock-and-etherpad/455665)
+- [Hashtag Trending, July 14 – Google facing fines (again); Remote work hurts pay; YouTube’s suggestions faces heat](https://www.itworldcanada.com/article/hashtag-trending-july-14-google-facing-fines-remote-works-problems-the-youtube-algorithm-faces-heat/455684)
 - [Opportunities and challenges in the future work world](https://www.itworldcanada.com/article/opportunities-and-challenges-in-the-future-work-world/455662)
 - [Overcoming the barriers to digital transformation](https://www.itworldcanada.com/article/overcoming-the-barriers-to-digital-transformation/455563)
 - [Coffee Briefing, July 13, 2021 – Visa Installments service launches in Canada; Pinterest bans weight loss ads; and more](https://www.itworldcanada.com/article/coffee-briefing-july-13-2021-visa-installments-service-launches-in-canada-pinterest-bans-weight-loss-ads-and-more/455633)
-- [Users of SolarWind’s Serv-U file transfer suites urged to install hotfix fast](https://www.itworldcanada.com/article/users-of-solarwinds-serv-u-file-transfer-suites-urged-to-install-hotfix-fast/455625)
-- [Hashtag Trending, July 13 – Amazon website outage; GPU shortage solution; To email or not to email?](https://www.itworldcanada.com/article/hashtag-trending-july-13-amazon-website-outage-gpu-shortage-solution-to-email-or-not-to-email/455639)
-- [Ceridian launches on-demand pay solution in Canada](https://www.itworldcanada.com/article/ceridian-launches-on-demand-pay-solution-in-canada/455616)
-- [Ookla announces video speed test for Android](https://www.itworldcanada.com/article/ookla-announces-video-speed-test-for-android/455597)
-- [Kaseya says all cloud customers back online](https://www.itworldcanada.com/article/kaseya-says-all-cloud-customers-back-online/455576)
-- [Cyber Security Today, July 12, 2021 – An Alberta non-profit admits data theft, an insurance giant notifying victims of ransomware attack and a U.S. wireless carrier is fooled](https://www.itworldcanada.com/article/cyber-security-today-july-12-2021-an-alberta-non-profit-admits-data-theft-an-insurance-giant-notifying-victims-of-ransomware-attack-and-a-u-s-wireless-carrier-is-fooled/455569)
-- [Hashtag Trending, July 12 – Washing machine privacy; executive order for net neutrality; wireless earphones need right to repair](https://www.itworldcanada.com/article/hashtag-trending-july-12-washing-machine-privacy-executive-order-for-net-neutrality-wireless-earphones-need-right-to-repair/455572)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

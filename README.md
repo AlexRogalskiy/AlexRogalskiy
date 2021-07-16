@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Podcast: Future Mac chips: M1X, M2, M2X and more](https://www.computerworld.com/article/3625574/podcast-future-mac-chips-m1x-m2-m2x-and-more.html#tk.rss_all)
+- [Microsoft Teams users get license-free access to Dynamics 365 data](https://www.computerworld.com/article/3625553/microsoft-teams-users-get-license-free-access-to-dynamics-365-data.html#tk.rss_all)
+- [Now that Windows is in the cloud, what about the Mac?](https://www.computerworld.com/article/3625669/now-that-windows-is-in-the-cloud-what-about-the-mac.html#tk.rss_all)
+- [This clever Chrome collaboration tool deserves your attention](https://www.computerworld.com/article/3624656/chrome-collaboration.html#tk.rss_all)
 - [Say hello to the Windows 365 Cloud PC](https://www.computerworld.com/article/3625450/say-hello-to-the-windows-365-cloud-pc.html#tk.rss_all)
 - [Zoho brings business intelligence to the mass market](https://www.computerworld.com/article/3625093/zoho-brings-business-intelligence-to-the-mass-market.html#tk.rss_all)
 - [What is UEM? Unified endpoint management explained](https://www.computerworld.com/article/3625231/what-is-uem-unified-endpoint-management-explained.html#tk.rss_all)
 - [What's in the latest Firefox update? 90 unblocks Facebook sign-ins, updates in background](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-90-unblocks-facebook-sign-ins-updates-in-background.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [The million-dollar question about Google's Pixel 6](https://www.computerworld.com/article/3624652/google-pixel-6.html#tk.rss_all)
-- [Apple is changing its MDM system in iOS/iPadOS 15](https://www.computerworld.com/article/3624653/apple-is-changing-its-mdm-system-in-iosipados-15.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [To patch or not to patch: That is the question](https://www.computerworld.com/article/3624584/to-patch-or-not-to-patch-that-is-the-question.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

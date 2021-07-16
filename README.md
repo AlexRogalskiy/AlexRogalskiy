@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FAA warns Musk that he is building Super Heavy launch tower without permission](https://www.reuters.com/business/aerospace-defense/faa-warns-spacex-it-has-not-approved-new-texas-launch-site-tower-2021-07-14/)
-- [Microsoft/IoT-for-Beginners: 12 Weeks, 24 Lessons, IoT for All](https://github.com/microsoft/IoT-For-Beginners)
-- [The Art of the Romanian Haystack](https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html)
-- [Lowkey (YC S18) is hiring a senior front-end engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [iOS zero-day let SolarWinds hackers compromise fully updated iPhones](https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/)
-- [A Storage Crisis](http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/)
-- [macOS Monterey Beta 3: Apple Redesigns Safari Tab Interface Following Complaints](https://www.macrumors.com/2021/07/14/macos-monterey-safari-redesign/)
-- [Germany fines YouTube for removing video of anti-lockdown protest](https://www.mediaite.com/news/germany-fines-youtube-six-figures-for-removing-video-of-anti-lockdown-protest/)
-- [Goodbye, Fleets](https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets)
-- [Increasing HTTPS Adoption](https://blog.chromium.org/2021/07/increasing-https-adoption.html)
+- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
+- [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
+- [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
+- [Dozens killed after record rain in Germany and Belgium](https://www.bbc.com/news/world-europe-57846200)
+- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
+- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
+- [Paradox Game Converters Collected on GitHub](https://github.com/ParadoxGameConverters)
+- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
+- [Is This Prime?](https://isthisprime.com/game/)
+- [Alphafold](https://github.com/deepmind/alphafold)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

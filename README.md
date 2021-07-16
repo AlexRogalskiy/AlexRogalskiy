@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ASCII art diagrams in Emacs org-mode (2016)](https://www.johndcook.com/blog/2016/06/15/ascii-art-diagrams-in-emacs-org-mode/)
-- [Hyundai to Pilot Autonomous Demand-Responsive RoboShuttle Service](https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-to-pilot-autonomous-demand-responsive-%E2%80%98roboshuttle%E2%80%99-service-0000016690)
-- [Cognitive Complexity(2017)[pdf]](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
-- [Ryuichi Sakamoto on Life, Nature and ‘Time’](https://www.nytimes.com/2021/07/14/arts/music/ryuichi-sakamoto-time.html)
-- [Regulator Seeks Massive Recall of Potentially Hazardous Products Sold on Amazon](https://www.consumerreports.org/product-safety/regulator-seeks-massive-recall-of-products-sold-on-amazon-a2506868720/)
-- [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
-- [Introduction to the Diamond Standard, EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard)
-- [Twilio launches interactive live streaming video and audio as a service](https://techcrunch.com/2021/07/14/twilios-new-tools-will-let-anyone-add-live-video-and-audio-to-their-apps/)
-- [Microsoft announces Windows 365, a subscription cloud PC](https://www.bbc.com/news/technology-57836326)
-- [The search for the loneliest whale in the world](https://www.theguardian.com/environment/2021/jul/13/loneliest-whale-in-the-world-search)
+- [Rust for Linux Redux](https://lwn.net/Articles/862018/)
+- [What Is Strict Mode in TypeScript, Why and When You Should Use It?](https://kowalevski.com/blog/article/what-is-strict-mode-in-typescript-and-why-and-when-you-should-use-it)
+- [NASA Is About to Try a 'Risky' Maneuver to Save Hubble, Which Is Still Offline](https://www.sciencealert.com/nasa-is-about-to-try-a-risky-maneuver-to-try-to-save-hubble-which-is-still-offline)
+- [A Haunting New Documentary About Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
+- [BSA: The Dual Power Map](https://blacksocialists.us/dual-power-map)
+- [German Coal Plant Closes After Just Six Years to Produce Wind-Based Energy](https://interestingengineering.com/german-coal-plant-closes-wind-energy)
+- [Wordcraft: A Human-AI Collaborative Editor for Story Writing](https://arxiv.org/abs/2107.07430)
+- [Raised $5m led by Alexis Ohanian's 776, Topia hiring PM, designer, engineers](https://jobs.ashbyhq.com/topia)
+- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
+- [Tezos NFT comics platform InterPop launching Emergent series with Topia party](https://www.digitaljournal.com/pr/emergents-the-nine-to-launch-at-interpop-block-party-on-july-17th)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

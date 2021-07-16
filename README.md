@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Inspiring momentum for innovation: Jennifer Quaglietta, Not for Profit CIO of the Year](https://www.itworldcanada.com/article/inspiring-momentum-for-innovation-jennifer-quaglietta-not-for-profit-cio-of-the-year/455830)
+- [Delivering during a global pandemic: Ricardo Costa – 2021 CIO of the Year – Private Sector](https://www.itworldcanada.com/article/delivering-during-a-global-pandemic-ricardo-costa-2021-cio-of-the-year-private-sector/455837)
+- [Kudos to the Public Sector CIO of the Year for 2021: Mari Teitelbaum](https://www.itworldcanada.com/article/kudos-to-the-public-sector-cio-of-the-year-for-2021-mari-teitelbaum/455833)
+- [A leader for the next generation](https://www.itworldcanada.com/article/a-leader-for-the-next-generation/455822)
+- [Microsoft launches the cloud PC: Windows 365](https://www.itworldcanada.com/article/microsoft-launches-the-cloud-pc-windows-365/455757)
+- [Digital Transformation Week 2021 – Day 2 recap](https://www.itworldcanada.com/article/digital-transformation-week-2021-day-2-recap/455759)
+- [Canada’s privacy law applies to Google search, says judge in right to be forgotten case](https://www.itworldcanada.com/article/canadas-privacy-law-applies-to-google-search-says-judge-in-right-to-be-forgotten-case/455681)
+- [Hashtag Trending, July 15 – Facial recognition ban; Bitcoin’s carbon footprint; Farewell Fleets](https://www.itworldcanada.com/article/hashtag-trending-july-15-facial-recognition-ban-bitcoins-carbon-footprint-farewell-fleets/455809)
+- [Is REvil ransomware gang gone for good or just taking a vacation?](https://www.itworldcanada.com/article/is-revil-ransomware-gang-gone-for-good-or-just-taking-a-vacation/455671)
 - [Leveraging technology to build trust](https://www.itworldcanada.com/article/leveraging-technology-to-build-trust/455791)
-- [Quantum computing: A new generation of compute power](https://www.itworldcanada.com/article/quantum-computing-a-new-generation-of-compute-power/455787)
-- [Breaking news: SonicWall warns of ‘imminent’ ransomware campaign against certain devices](https://www.itworldcanada.com/article/breaking-news-sonicwall-warns-of-imminent-ransomware-campaign-against-certain-devices/455748)
-- [Innovation leaders lauded at Digital Transformation Awards](https://www.itworldcanada.com/article/innovation-leaders-lauded-at-digital-transformation-awards/455741)
-- [Government of Canada invites applications for stream 1 of the Canada Digital Adoption Program](https://www.itworldcanada.com/article/government-of-canada-invites-applications-for-stream-1-of-the-canada-digital-adoption-program/455689)
-- [Cyber Security Today, July 14, 2021 – Interpol says ransomware may become a pandemic, expert advice on fighting ransomware and security updates for ForgeRock and Etherpad](https://www.itworldcanada.com/article/cyber-security-today-july-14-2021-interpol-says-ransomware-may-become-a-pandemic-expert-advice-on-fighting-ransomware-and-security-updates-for-forgerock-and-etherpad/455665)
-- [Hashtag Trending, July 14 – Google facing fines (again); Remote work hurts pay; YouTube’s suggestions faces heat](https://www.itworldcanada.com/article/hashtag-trending-july-14-google-facing-fines-remote-works-problems-the-youtube-algorithm-faces-heat/455684)
-- [Opportunities and challenges in the future work world](https://www.itworldcanada.com/article/opportunities-and-challenges-in-the-future-work-world/455662)
-- [Overcoming the barriers to digital transformation](https://www.itworldcanada.com/article/overcoming-the-barriers-to-digital-transformation/455563)
-- [Coffee Briefing, July 13, 2021 – Visa Installments service launches in Canada; Pinterest bans weight loss ads; and more](https://www.itworldcanada.com/article/coffee-briefing-july-13-2021-visa-installments-service-launches-in-canada-pinterest-bans-weight-loss-ads-and-more/455633)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

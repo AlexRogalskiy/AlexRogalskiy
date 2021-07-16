@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Best Assess Your Security Posture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Building a Post-Pandemic Cloud Strategy](https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Become an IT Industry Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How IT Leaders Can Adopt an Automation Mindset](https://www.informationweek.com/big-data/ai-machine-learning/how-it-leaders-can-adopt-an-automation-mindset/a/d-id/1341521?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [CTOs Evolve in Shake Up of Digital Leadership in the C-Suite](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ctos-evolve-in-shake-up-of-digital-leadership-in-the-c-suite/a/d-id/1341511?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [How CIOs Should Manage the Rapid Shift to the Cloud](https://www.informationweek.com/cloud/how-cios-should-manage-the-rapid-shift-to-the-cloud/a/d-id/1341460?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [A Strategy to Aid Underserved Communities and Fill Tech Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/a-strategy-to-aid-underserved-communities-and-fill-tech-jobs/a/d-id/1341499?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Data Integration is the Key to the Connected Future](https://www.informationweek.com/big-data/data-integration-is-the-key-to-the-connected-future/a/d-id/1341457?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why You Need a Data Fabric, Not Just IT Architecture](https://www.informationweek.com/big-data/why-you-need-a-data-fabric-not-just-it-architecture/a/d-id/1341463?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Ways to Cultivate a Cyber-Aware Culture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/ways-to-cultivate-a-cyber-aware-culture/a/d-id/1341456?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

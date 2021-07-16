@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [In search of the devops ideal](https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all)
+- [Unifying streaming and stored data](https://www.infoworld.com/article/3624594/unifying-streaming-and-stored-data.html#tk.rss_all)
 - [Programming the Windows kernel with eBPF](https://www.infoworld.com/article/3625229/programming-the-windows-kernel-with-ebpf.html#tk.rss_all)
 - [How to choose a low-code development platform](https://www.infoworld.com/article/3624596/how-to-choose-a-low-code-development-platform.html#tk.rss_all)
 - [MongoDB goes serverless with latest Atlas release](https://www.infoworld.com/article/3625248/mongodb-goes-serverless-with-latest-atlas-release.html#tk.rss_all)
@@ -383,9 +385,7 @@
 - [How to use advanced Serilog features in ASP.NET Core MVC](https://www.infoworld.com/article/3624022/how-to-use-advanced-serilog-features-in-aspnet-core-mvc.html#tk.rss_all)
 - [The real successes of AI](https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html#tk.rss_all)
 - [5 AI startups out to change the world](https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html#tk.rss_all)
-- [How service virtualization improves application testing](https://www.infoworld.com/article/3624573/how-service-virtualization-improves-application-testing.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Don’t be a ransomware victim](https://www.infoworld.com/article/3624631/dont-be-a-ransomware-victim.html#tk.rss_all)
+- [The benefits of API and service virtualization](https://www.infoworld.com/article/3624573/the-benefits-of-api-and-service-virtualization.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

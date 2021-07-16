@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The fight to get ready for a pandemic Olympics](https://www.theguardian.com/news/audio/2021/jul/15/the-fight-to-get-ready-for-a-pandemic-olympics)
-- [Britney Spears allowed her own attorney as singer says father should be charged with ‘abuse’](https://www.theguardian.com/music/2021/jul/13/britney-spears-conservatorship-hearing-latest-news)
-- [Vigilante groups form in South Africa amid looting and violence](https://www.theguardian.com/world/2021/jul/14/vigilante-groups-form-south-africa-tackle-looting-violence)
-- [France protests: clashes with police on Bastille Day amid anger at tighter Covid rules](https://www.theguardian.com/world/2021/jul/15/france-protests-clashes-with-police-on-bastille-day-amid-anger-at-tighter-covid-rules)
-- [LA beaches close after 17m gallons of untreated sewage discharged into bay](https://www.theguardian.com/us-news/2021/jul/14/los-angeles-beaches-sewage-playa-del-rey)
-- [Wildfires tear through 1m acres in US west as 16,000 firefighters battle onslaught](https://www.theguardian.com/us-news/2021/jul/14/wildfires-us-north-west-threaten-native-american-tribal-lands)
-- [Citizenship for sale: fugitives, politicians and disgraced businesspeople buying Vanuatu passports](https://www.theguardian.com/world/2021/jul/15/citizenship-for-sale-fugitives-politicians-and-disgraced-businesspeople-buying-vanuatu-passports)
-- [Coventry puts forward ‘mission critical’ plan for electric car battery plant](https://www.theguardian.com/business/2021/jul/15/coventry-puts-forward-mission-critical-plan-for-electric-car-battery-plant)
-- [Two-thirds of working mothers lack summer childcare – UK survey](https://www.theguardian.com/money/2021/jul/15/two-thirds-of-working-mothers-lack-summer-childcare-uk-survey)
-- [Derbyshire cave house identified as ninth-century home to exiled king](https://www.theguardian.com/science/2021/jul/15/derbyshire-cave-house-identified-as-ninth-century-home-to-exiled-king)
+- [Marina Hyde on five years of watching the political circus](https://www.theguardian.com/news/audio/2021/jul/16/marina-hyde-on-five-years-watching-political-circus-podcast)
+- [Western US and Canada brace for another heatwave amid more than 70 wildfires](https://www.theguardian.com/world/2021/jul/15/heatwave-us-west-canada-wildfires)
+- [Maine bans toxic ‘forever chemicals’ under groundbreaking new law](https://www.theguardian.com/us-news/2021/jul/15/maine-law-pfas-forever-chemicals-ban)
+- [WHO chief says push to discount lab leak theory was ‘premature’](https://www.theguardian.com/world/2021/jul/16/who-chief-says-push-to-discount-lab-leak-theory-was-premature)
+- [Biden and Merkel vow to defend against Russian aggression in White House meeting](https://www.theguardian.com/us-news/2021/jul/15/biden-merkel-white-house-meeting-russian-aggression)
+- [Google Maps suggests ‘potentially fatal’ routes up Ben Nevis, say mountain charities](https://www.theguardian.com/technology/2021/jul/16/google-maps-suggests-potentially-fatal-routes-up-ben-nevis-say-mountain-charities)
+- [‘A tale of woe’: UK butterfly numbers hit by cold, wet spring](https://www.theguardian.com/environment/2021/jul/16/a-tale-of-woe-uk-butterfly-numbers-hit-by-cold-wet-spring-aoe)
+- [Police and CPS must work together to address falling rape prosecutions – report](https://www.theguardian.com/society/2021/jul/16/police-and-cps-must-work-together-to-address-falling-prosecutions-report)
+- [Trayvon Bromell: ‘Gold will be great but my biggest purpose is change’](https://www.theguardian.com/sport/2021/jul/16/trayvon-bromell-gold-will-be-great-but-biggest-purpose-change-tokyo-olympics-athletics-100m)
+- [Cost of petrol in UK hits highest level since 2013 after pandemic slump](https://www.theguardian.com/money/2021/jul/16/cost-of-petrol-in-uk-hits-highest-level-since-2013-after-pandemic-slump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

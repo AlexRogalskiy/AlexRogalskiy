@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fd&#x2F;a6&#x2F;9c&#x2F;fda69c0ffc7b6ef9f6c37d42c60a75cb.jpg" alt="We aren&#39;t talking nonsense, but our Word of the Day is flapdoodle. Want example sentences? Find them at Dictionary.com." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;93&#x2F;0c&#x2F;a8&#x2F;930ca8eb1d295c1f36546023a0fe9a0e.jpg" alt="Sometimes we borrow words. Gallicism is the Word of the Day. Click to learn more!" />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b8&#x2F;cb&#x2F;f9&#x2F;b8cbf999e6e3e0763fe038c00997b70a.jpg" alt="Zeitgeist is the Word of the Day. Can you use it in a sentence? Click to see our examples. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;18&#x2F;c2&#x2F;66&#x2F;18c266ea39fb982a03d13f3271078042.jpg" alt="When you wish upon a star, you might call it a velleity. It&#39;s our Word of the Day. Click to learn how to pronounce it and more. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;f6&#x2F;cf&#x2F;79&#x2F;f6cf797edba1edf9799a1df150f0d557.jpg" alt="Gormless is the Word of the Day. It&#39;s also a sick burn. Want example sentences? Click to learn more. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>27°C (<i>few clouds</i>), humidity: 61%, pressure: 1012 (mbar), wind: /north/ 4 (m/s), cloudy: 20%</b>
+        <b>25°C (<i>broken clouds</i>), humidity: 57%, pressure: 1012 (mbar), wind: /south-west/ 3 (m/s), cloudy: 75%</b>
         <br />
         Today, the Sun rises at <b>04:05 am</b> and sets at <b>22:04 pm</b>.
     </p>

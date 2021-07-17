@@ -273,9 +273,9 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>21°C (<i>clear sky</i>), humidity: 56%, pressure: 1011 (mbar), wind: /south-west/ 2 (m/s), cloudy: 0%</b>
+        <b>17°C (<i>clear sky</i>), humidity: 72%, pressure: 1011 (mbar), wind: /south-west/ 1 (m/s), cloudy: 0%</b>
         <br />
-        Today, the Sun rises at <b>04:07 am</b> and sets at <b>22:02 pm</b>.
+        Today, the Sun rises at <b>04:09 am</b> and sets at <b>22:00 pm</b>.
     </p>
 </div>
 

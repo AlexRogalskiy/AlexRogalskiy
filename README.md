@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [STEAM is the new STEM – IBM Canada to host a virtual national Arts and STEM summer camp this coming week](https://www.itworldcanada.com/article/steam-is-the-new-stem-ibm-canada-to-host-a-virtual-national-arts-and-stem-summer-camp-this-coming-week/455915)
+- [Cyber Security Today, Week in Review for Friday, July 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-16-2021/455848)
+- [Shinydocs CEO Jason Cassidy: Digital transformation requires data fitness](https://www.itworldcanada.com/article/shinydocs-ceo-jason-cassidy-digital-transformation-requires-data-fitness/455905)
+- [Digital Transformation Week 2021 – Day 3 recap](https://www.itworldcanada.com/article/digital-transformation-week-2021-day-3-recap/455862)
+- [Bell moves critical services to Google Cloud in new partnership](https://www.itworldcanada.com/article/bell-moves-critical-services-to-google-cloud-in-new-partnership/455879)
+- [Hashtag Trending, July 16 – Facebook Advertising; Netflix looks to Video Games; Apple says “Buy Now, Pay Later”](https://www.itworldcanada.com/article/hashtag-trending-july-16-facebook-advertising-netflix-looks-to-video-games-apple-says-buy-now-pay-later/455891)
+- [Cyber Security Today, July 16, 2021 – US offers bounty for cybercrooks, Facebook cuts links to spy group and beware of this LinkedIn scam](https://www.itworldcanada.com/article/cyber-security-today-july-16-2021-us-offers-bounty-for-cybercrooks-facebook-cuts-links-to-spy-group-and-beware-of-this-linkedin-scam/455845)
 - [Inspiring momentum for innovation: Jennifer Quaglietta, Not for Profit CIO of the Year](https://www.itworldcanada.com/article/inspiring-momentum-for-innovation-jennifer-quaglietta-not-for-profit-cio-of-the-year/455830)
 - [Delivering during a global pandemic: Ricardo Costa – 2021 CIO of the Year – Private Sector](https://www.itworldcanada.com/article/delivering-during-a-global-pandemic-ricardo-costa-2021-cio-of-the-year-private-sector/455837)
 - [Kudos to the Public Sector CIO of the Year for 2021: Mari Teitelbaum](https://www.itworldcanada.com/article/kudos-to-the-public-sector-cio-of-the-year-for-2021-mari-teitelbaum/455833)
-- [A leader for the next generation](https://www.itworldcanada.com/article/a-leader-for-the-next-generation/455822)
-- [Microsoft launches the cloud PC: Windows 365](https://www.itworldcanada.com/article/microsoft-launches-the-cloud-pc-windows-365/455757)
-- [Digital Transformation Week 2021 – Day 2 recap](https://www.itworldcanada.com/article/digital-transformation-week-2021-day-2-recap/455759)
-- [Canada’s privacy law applies to Google search, says judge in right to be forgotten case](https://www.itworldcanada.com/article/canadas-privacy-law-applies-to-google-search-says-judge-in-right-to-be-forgotten-case/455681)
-- [Hashtag Trending, July 15 – Facial recognition ban; Bitcoin’s carbon footprint; Farewell Fleets](https://www.itworldcanada.com/article/hashtag-trending-july-15-facial-recognition-ban-bitcoins-carbon-footprint-farewell-fleets/455809)
-- [Is REvil ransomware gang gone for good or just taking a vacation?](https://www.itworldcanada.com/article/is-revil-ransomware-gang-gone-for-good-or-just-taking-a-vacation/455671)
-- [Leveraging technology to build trust](https://www.itworldcanada.com/article/leveraging-technology-to-build-trust/455791)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

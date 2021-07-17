@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Marina Hyde on five years of watching the political circus](https://www.theguardian.com/news/audio/2021/jul/16/marina-hyde-on-five-years-watching-political-circus-podcast)
-- [Western US and Canada brace for another heatwave amid more than 70 wildfires](https://www.theguardian.com/world/2021/jul/15/heatwave-us-west-canada-wildfires)
-- [Maine bans toxic ‘forever chemicals’ under groundbreaking new law](https://www.theguardian.com/us-news/2021/jul/15/maine-law-pfas-forever-chemicals-ban)
-- [WHO chief says push to discount lab leak theory was ‘premature’](https://www.theguardian.com/world/2021/jul/16/who-chief-says-push-to-discount-lab-leak-theory-was-premature)
-- [Biden and Merkel vow to defend against Russian aggression in White House meeting](https://www.theguardian.com/us-news/2021/jul/15/biden-merkel-white-house-meeting-russian-aggression)
-- [Google Maps suggests ‘potentially fatal’ routes up Ben Nevis, say mountain charities](https://www.theguardian.com/technology/2021/jul/16/google-maps-suggests-potentially-fatal-routes-up-ben-nevis-say-mountain-charities)
-- [‘A tale of woe’: UK butterfly numbers hit by cold, wet spring](https://www.theguardian.com/environment/2021/jul/16/a-tale-of-woe-uk-butterfly-numbers-hit-by-cold-wet-spring-aoe)
-- [Police and CPS must work together to address falling rape prosecutions – report](https://www.theguardian.com/society/2021/jul/16/police-and-cps-must-work-together-to-address-falling-prosecutions-report)
-- [Trayvon Bromell: ‘Gold will be great but my biggest purpose is change’](https://www.theguardian.com/sport/2021/jul/16/trayvon-bromell-gold-will-be-great-but-biggest-purpose-change-tokyo-olympics-athletics-100m)
-- [Cost of petrol in UK hits highest level since 2013 after pandemic slump](https://www.theguardian.com/money/2021/jul/16/cost-of-petrol-in-uk-hits-highest-level-since-2013-after-pandemic-slump)
+- [‘They’re killing people’: Biden slams Facebook for Covid misinformation](https://www.theguardian.com/media/2021/jul/17/theyre-killing-people-biden-slams-facebook-for-covid-misinformation)
+- [Biz Markie, rapper known for Just a Friend, dies at age 57](https://www.theguardian.com/music/2021/jul/16/hip-hop-star-biz-markie-rapper-dies-just-a-friend)
+- [Death toll exceeds 125 as Germany and Belgium hit by devastating floods](https://www.theguardian.com/world/2021/jul/16/western-germany-floods-angela-merkel-horror-catastrophe-deaths-missing-search-flooding-belgium)
+- [Oregon wildfire causes miles-high ‘fire clouds’ as flames grow](https://www.theguardian.com/us-news/2021/jul/16/bootleg-fire-oregon-fire-clouds-pyrocumulus)
+- [Talking Horses: Eye-catching Gubbass looks a good bet in Super Sprint](https://www.theguardian.com/sport/2021/jul/17/talking-horses-eye-catching-gubbass-looks-a-good-bet-in-super-sprint)
+- [Boxer Charley Davison: ‘An Olympic medal could change my life’](https://www.theguardian.com/sport/2021/jul/17/boxer-charley-davison-an-olympic-medal-could-change-my-life)
+- [Damon Albarn review – anecdotes and emotion](https://www.theguardian.com/music/2021/jul/17/damon-albarn-review-manchester-central-international-festival)
+- [Arizona counties find fewer than 200 possible voter fraud cases among 3m 2020 ballots](https://www.theguardian.com/us-news/2021/jul/16/arizona-us-election-2020-voter-fraud-claims)
+- [Apocalypse Wow review – the worst thing you will ever see with your eyes](https://www.theguardian.com/tv-and-radio/2021/jul/16/apocalypse-wow-review-scarlett-moffatt-darren-harriott-kimberley-wyatt-chris-hughes-bobby-norris)
+- [Liam Livingstone heroics not enough as England fail to reach Pakistan target](https://www.theguardian.com/sport/2021/jul/16/liam-livingstone-heroics-not-enough-as-england-fail-to-reach-pakistan-target)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

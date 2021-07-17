@@ -361,6 +361,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [SAS Founders Call Off Sales Talks with Broadcom](https://www.informationweek.com/big-data/software-platforms/sas-founders-call-off-sales-talks-with-broadcom/a/d-id/1341536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Best Assess Your Security Posture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Building a Post-Pandemic Cloud Strategy](https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Become an IT Industry Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -370,7 +371,6 @@
 - [What You Need to Know About Ransomware Insurance](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/what-you-need-to-know-about-ransomware-insurance/a/d-id/1341465?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How CIOs Should Manage the Rapid Shift to the Cloud](https://www.informationweek.com/cloud/how-cios-should-manage-the-rapid-shift-to-the-cloud/a/d-id/1341460?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [A Strategy to Aid Underserved Communities and Fill Tech Jobs](https://www.informationweek.com/strategic-cio/team-building-and-staffing/a-strategy-to-aid-underserved-communities-and-fill-tech-jobs/a/d-id/1341499?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Data Integration is the Key to the Connected Future](https://www.informationweek.com/big-data/data-integration-is-the-key-to-the-connected-future/a/d-id/1341457?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

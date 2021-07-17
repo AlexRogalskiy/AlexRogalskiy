@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Microservices: What enterprises need to know](https://www.computerweekly.com/feature/Microservices-What-enterprises-need-to-know)
+- [Legacy SonicWall kit exploited in ransom campaign](https://www.computerweekly.com/news/252504083/Legacy-SonicWall-kit-exploited-in-ransom-campaign)
+- [Briefing: Cloud storage performance metrics](https://www.computerweekly.com/feature/Briefing-Cloud-storage-performance-metrics)
 - [Lawyers take EncroChat hacking operation to French supreme court](https://www.computerweekly.com/news/252504038/Lawyers-take-EncroChat-hacking-operation-to-French-supreme-court)
 - [UK government publishes skills-focused anti-disinformation plan](https://www.computerweekly.com/news/252504046/UK-government-publishes-skills-focused-anti-disinformation-plan)
 - [UK workforce needs reskilling for net-zero transition](https://www.computerweekly.com/news/252504042/UK-workforce-needs-reskilling-for-net-zero-transition)
-- [Virgin Media outage: Electrical explosion in south-east London takes down network](https://www.computerweekly.com/news/252504039/Virgin-Media-outage-Electical-explosion-in-South-East-London-takes-down-network)
+- [Virgin Media outage: Electrical explosion takes down network in south-east London](https://www.computerweekly.com/news/252504039/Virgin-Media-outage-Electical-explosion-in-South-East-London-takes-down-network)
 - [Fintech sector continues to attract investment as Revolut hits $33bn valuation](https://www.computerweekly.com/news/252504033/Fintech-sector-continues-to-attract-investment-as-Revolut-hits-33bn-valuation)
 - [Privacy Shield: US surveillance law reforms essential for EU-US data, says EU parliamentary study](https://www.computerweekly.com/news/252504018/Privacy-Shield-US-surveillance-law-reforms-essential-for-EU-US-data-says-EU-parliamentary-study)
 - [Windows 365: Microsoft unveils the era of the cloud PC](https://www.computerweekly.com/news/252503913/Windows-365-Microsoft-unveils-the-era-of-the-cloud-PC)
-- [EC approves pan-Nordic payments platform](https://www.computerweekly.com/news/252503980/EC-approves-pan-Nordic-payments-platform)
-- [UK should set up digital task forces to transform governance](https://www.computerweekly.com/news/252503976/UK-should-set-up-digital-task-forces-to-transform-governance)
-- [REvil ransomware crew drops offline, reasons murky](https://www.computerweekly.com/news/252503978/REvil-ransomware-crew-drops-offline-reasons-murky)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

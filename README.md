@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [In praise of Apple's new Contacts widget for iPhones and iPads](https://www.computerworld.com/article/3625513/in-praise-of-apples-new-contacts-widget-for-iphones-and-ipads.html#tk.rss_all)
+- [Why respecting customer privacy is good for business](https://www.computerworld.com/article/3625510/why-respecting-customer-privacy-is-good-for-business.html#tk.rss_all)
+- [Windows 365: The version of Windows that will change the PC world](https://www.computerworld.com/article/3625573/windows-365-the-version-of-windows-that-will-change-the-pc-world.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Podcast: Future Mac chips: M1X, M2, M2X and more](https://www.computerworld.com/article/3625574/podcast-future-mac-chips-m1x-m2-m2x-and-more.html#tk.rss_all)
 - [Microsoft Teams users get license-free access to Dynamics 365 data](https://www.computerworld.com/article/3625553/microsoft-teams-users-get-license-free-access-to-dynamics-365-data.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [This clever Chrome collaboration tool deserves your attention](https://www.computerworld.com/article/3624656/chrome-collaboration.html#tk.rss_all)
 - [Say hello to the Windows 365 Cloud PC](https://www.computerworld.com/article/3625450/say-hello-to-the-windows-365-cloud-pc.html#tk.rss_all)
 - [Zoho brings business intelligence to the mass market](https://www.computerworld.com/article/3625093/zoho-brings-business-intelligence-to-the-mass-market.html#tk.rss_all)
-- [What is UEM? Unified endpoint management explained](https://www.computerworld.com/article/3625231/what-is-uem-unified-endpoint-management-explained.html#tk.rss_all)
-- [What's in the latest Firefox update? 90 unblocks Facebook sign-ins, updates in background](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-90-unblocks-facebook-sign-ins-updates-in-background.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

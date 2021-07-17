@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
-- [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
-- [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
-- [Dozens killed after record rain in Germany and Belgium](https://www.bbc.com/news/world-europe-57846200)
-- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
-- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
-- [Paradox Game Converters Collected on GitHub](https://github.com/ParadoxGameConverters)
-- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
-- [Is This Prime?](https://isthisprime.com/game/)
-- [Alphafold](https://github.com/deepmind/alphafold)
+- [The Computer Scientist Training AI to Think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
+- [Apple removes ‘Fakespot’ app from iOS App Store following Amazon request](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/)
+- [Last Mile Redis](https://fly.io/blog/last-mile-redis/)
+- [Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns](https://angel.co/company/trexo-robotics)
+- [How Dangerous Are Solar Storms?](http://backreaction.blogspot.com/2021/07/blog-post.html)
+- [Linear Circuit Design Handbook (2008)](https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html)
+- [We will win the war for general-purpose computing](https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html)
+- [Voice clone of Anthony Bourdain prompts synthetic media ethics questions](https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131)
+- [Defense Motion: Bitcoin is not “money” within the meaning of 18 U.S..C. § 1960 [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf)
+- [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

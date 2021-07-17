@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rust for Linux Redux](https://lwn.net/Articles/862018/)
-- [What Is Strict Mode in TypeScript, Why and When You Should Use It?](https://kowalevski.com/blog/article/what-is-strict-mode-in-typescript-and-why-and-when-you-should-use-it)
-- [NASA Is About to Try a 'Risky' Maneuver to Save Hubble, Which Is Still Offline](https://www.sciencealert.com/nasa-is-about-to-try-a-risky-maneuver-to-try-to-save-hubble-which-is-still-offline)
-- [A Haunting New Documentary About Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
-- [BSA: The Dual Power Map](https://blacksocialists.us/dual-power-map)
-- [German Coal Plant Closes After Just Six Years to Produce Wind-Based Energy](https://interestingengineering.com/german-coal-plant-closes-wind-energy)
-- [Wordcraft: A Human-AI Collaborative Editor for Story Writing](https://arxiv.org/abs/2107.07430)
-- [Raised $5m led by Alexis Ohanian's 776, Topia hiring PM, designer, engineers](https://jobs.ashbyhq.com/topia)
-- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
-- [Tezos NFT comics platform InterPop launching Emergent series with Topia party](https://www.digitaljournal.com/pr/emergents-the-nine-to-launch-at-interpop-block-party-on-july-17th)
+- [BlenderBot 2.0: A chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
+- [One in five US Covid cases this week are in Florida](https://www.cnn.com/2021/07/16/health/us-coronavirus-friday/index.html)
+- [GitHub Jobs Is Deprecated](https://jobs.github.com/)
+- [Why are billionaires obsessed with going to space?](https://www.theguardian.com/commentisfree/2021/jul/16/billionaires-outer-space-elon-musk-jeff-bezos-richard-branson)
+- [White House: social media bans for misinformation should extend to all platforms](https://news.yahoo.com/white-house-says-social-media-202900243.html)
+- [Website exposes L.A. County Fire employees’ Covid-19 vaccination details](https://www.latimes.com/california/story/2021-07-16/la-county-fire-vaccination-data)
+- [Circle – The C++ Automation Language](https://www.circle-lang.org/)
+- [How Kinopio Is Made](https://pketh.org/how-kinopio-is-made.html)
+- [The Truth Behind the Amazon Mystery Seeds](https://www.theatlantic.com/science/archive/2021/07/unsolicited-seeds-china-brushing/619417/)
+- [Show HN: A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

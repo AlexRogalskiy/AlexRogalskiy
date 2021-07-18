@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Telus is still the fastest mobile carrier in Canada, says Ookla](https://www.itworldcanada.com/article/telus-is-still-the-fastest-mobile-carrier-in-canada-says-ookla/455923)
 - [STEAM is the new STEM – IBM Canada to host a virtual national Arts and STEM summer camp this coming week](https://www.itworldcanada.com/article/steam-is-the-new-stem-ibm-canada-to-host-a-virtual-national-arts-and-stem-summer-camp-this-coming-week/455915)
 - [Cyber Security Today, Week in Review for Friday, July 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-16-2021/455848)
 - [Shinydocs CEO Jason Cassidy: Digital transformation requires data fitness](https://www.itworldcanada.com/article/shinydocs-ceo-jason-cassidy-digital-transformation-requires-data-fitness/455905)
@@ -430,7 +431,6 @@
 - [Cyber Security Today, July 16, 2021 – US offers bounty for cybercrooks, Facebook cuts links to spy group and beware of this LinkedIn scam](https://www.itworldcanada.com/article/cyber-security-today-july-16-2021-us-offers-bounty-for-cybercrooks-facebook-cuts-links-to-spy-group-and-beware-of-this-linkedin-scam/455845)
 - [Inspiring momentum for innovation: Jennifer Quaglietta, Not for Profit CIO of the Year](https://www.itworldcanada.com/article/inspiring-momentum-for-innovation-jennifer-quaglietta-not-for-profit-cio-of-the-year/455830)
 - [Delivering during a global pandemic: Ricardo Costa – 2021 CIO of the Year – Private Sector](https://www.itworldcanada.com/article/delivering-during-a-global-pandemic-ricardo-costa-2021-cio-of-the-year-private-sector/455837)
-- [Kudos to the Public Sector CIO of the Year for 2021: Mari Teitelbaum](https://www.itworldcanada.com/article/kudos-to-the-public-sector-cio-of-the-year-for-2021-mari-teitelbaum/455833)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

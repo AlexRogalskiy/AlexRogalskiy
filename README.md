@@ -220,10 +220,10 @@
 <!--views:pinterest-marker:start-->
 <div id="pinterest_block_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
     <p align="center" style="text-align:center;">
+        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;27&#x2F;d1&#x2F;f4&#x2F;27d1f4aa83e06efb594340d760f28c52.jpg" alt="This is an excellent Word of the Day, but we won&#39;t get toplofty about it. Want more example sentences? Click to learn more." />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;fd&#x2F;a6&#x2F;9c&#x2F;fda69c0ffc7b6ef9f6c37d42c60a75cb.jpg" alt="We aren&#39;t talking nonsense, but our Word of the Day is flapdoodle. Want example sentences? Find them at Dictionary.com. " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;93&#x2F;0c&#x2F;a8&#x2F;930ca8eb1d295c1f36546023a0fe9a0e.jpg" alt="Sometimes we borrow words. Gallicism is the Word of the Day. Click to learn more! " />
         <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;b8&#x2F;cb&#x2F;f9&#x2F;b8cbf999e6e3e0763fe038c00997b70a.jpg" alt="Zeitgeist is the Word of the Day. Can you use it in a sentence? Click to see our examples. " />
-        <img width="200" src="https:&#x2F;&#x2F;i.pinimg.com&#x2F;236x&#x2F;18&#x2F;c2&#x2F;66&#x2F;18c266ea39fb982a03d13f3271078042.jpg" alt="When you wish upon a star, you might call it a velleity. It&#39;s our Word of the Day. Click to learn how to pronounce it and more. " />
     </p>
     <p align="center" style="text-align:center;">
         <i>Above are the latest pictures posted by</i>
@@ -273,7 +273,7 @@
     <p align="center" style="text-align:center;">
         Currently, the weather in Saint-Petersburg is:
         <br />
-        <b>22°C (<i>clear sky</i>), humidity: 60%, pressure: 1002 (mbar), wind: /east/ 5 (m/s), cloudy: 0%</b>
+        <b>19°C (<i>few clouds</i>), humidity: 72%, pressure: 1004 (mbar), wind: /east/ 2 (m/s), cloudy: 20%</b>
         <br />
         Today, the Sun rises at <b>04:09 am</b> and sets at <b>22:00 pm</b>.
     </p>

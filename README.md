@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [BlenderBot 2.0: A chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
-- [One in five US Covid cases this week are in Florida](https://www.cnn.com/2021/07/16/health/us-coronavirus-friday/index.html)
-- [GitHub Jobs Is Deprecated](https://jobs.github.com/)
-- [Why are billionaires obsessed with going to space?](https://www.theguardian.com/commentisfree/2021/jul/16/billionaires-outer-space-elon-musk-jeff-bezos-richard-branson)
-- [White House: social media bans for misinformation should extend to all platforms](https://news.yahoo.com/white-house-says-social-media-202900243.html)
-- [Website exposes L.A. County Fire employees’ Covid-19 vaccination details](https://www.latimes.com/california/story/2021-07-16/la-county-fire-vaccination-data)
-- [Circle – The C++ Automation Language](https://www.circle-lang.org/)
-- [How Kinopio Is Made](https://pketh.org/how-kinopio-is-made.html)
-- [The Truth Behind the Amazon Mystery Seeds](https://www.theatlantic.com/science/archive/2021/07/unsolicited-seeds-china-brushing/619417/)
-- [Show HN: A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
+- [Twitter verified accounts hacked to promote crypto scams](https://news.ycombinator.com/item?id=27870340)
+- [Dara Khosrowshahi, Dad of Silicon Valley](https://www.nytimes.com/2021/07/16/style/uber-ceo-dara-khosrowshahi.html)
+- [Two Rods and a ‘Sixth Sense’: In Drought, Water Witches Are Swamped](https://www.nytimes.com/2021/07/17/us/california-drought-water-witches.html)
+- [Ethereum Co-Founder Says Safety Concern Has Him Quitting Crypto](https://www.msn.com/en-us/money/other/ethereum-co-founder-says-safety-concern-has-him-quitting-crypto/ar-AAMeULB)
+- [Publishing a Unity WebGL game from scratch in under 30 minutes](https://refactoring.ninja/posts/2021-07-15-publishing-a-unity-webgl-game-from-scratch-in-under-30-minutes/)
+- [How Life Looks Through My ‘Whale Eyes’](https://www.nytimes.com/2021/07/14/opinion/strabismus-vision-disability-relationships.html)
+- [This Week in Gnome #1](https://thisweek.gnome.org/posts/2021/07/twig-1/)
+- [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
+- [Show HN: Simple islands architecture library for partial React hydration](https://www.npmjs.com/package/tropical-islands)
+- [Flooded coal mines could heat homes](https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

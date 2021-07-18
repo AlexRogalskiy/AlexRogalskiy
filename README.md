@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Computer Scientist Training AI to Think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
-- [Apple removes ‘Fakespot’ app from iOS App Store following Amazon request](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/)
-- [Last Mile Redis](https://fly.io/blog/last-mile-redis/)
-- [Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns](https://angel.co/company/trexo-robotics)
-- [How Dangerous Are Solar Storms?](http://backreaction.blogspot.com/2021/07/blog-post.html)
-- [Linear Circuit Design Handbook (2008)](https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html)
-- [We will win the war for general-purpose computing](https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html)
-- [Voice clone of Anthony Bourdain prompts synthetic media ethics questions](https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131)
-- [Defense Motion: Bitcoin is not “money” within the meaning of 18 U.S..C. § 1960 [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf)
-- [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
+- [Toxoplasmosis: An important risk factor for acquiring SARS-CoV-2 infection](https://www.medrxiv.org/content/10.1101/2021.05.15.21257257v1.full)
+- [Piped: A privacy-friendly YouTube front end which is efficient by design](https://github.com/TeamPiped/Piped)
+- [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
+- [A man in Egypt keeping a 200-year-old tradition of tile-making [video]](https://m.youtube.com/watch?v=n5x7GLl-mMo)
+- [Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud](https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud)
+- [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/)
+- [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
+- [What happens in an IPO? – A Beginner's Guide (Part 2/2)](https://www.simplanations.in/people/2046200-vivek-raju)
+- [dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)](https://undeadly.org/cgi?action=article;sid=20210717141912)
+- [12 Months, 850 Languages, 63 Fonts, No Waiting Or: Thank God for Google Noto](https://curiousnotions.com/blog/#7/14/2021)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [A big July Patch Tuesday — and the ongoing print nightmare](https://www.computerworld.com/article/3625472/a-big-july-patch-tuesday-and-the-ongoing-print-nightmare.html#tk.rss_all)
 - [In praise of Apple's new Contacts widget for iPhones and iPads](https://www.computerworld.com/article/3625513/in-praise-of-apples-new-contacts-widget-for-iphones-and-ipads.html#tk.rss_all)
 - [Why respecting customer privacy is good for business](https://www.computerworld.com/article/3625510/why-respecting-customer-privacy-is-good-for-business.html#tk.rss_all)
 - [Windows 365: The version of Windows that will change the PC world](https://www.computerworld.com/article/3625573/windows-365-the-version-of-windows-that-will-change-the-pc-world.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [Now that Windows is in the cloud, what about the Mac?](https://www.computerworld.com/article/3625669/now-that-windows-is-in-the-cloud-what-about-the-mac.html#tk.rss_all)
 - [This clever Chrome collaboration tool deserves your attention](https://www.computerworld.com/article/3624656/chrome-collaboration.html#tk.rss_all)
 - [Say hello to the Windows 365 Cloud PC](https://www.computerworld.com/article/3625450/say-hello-to-the-windows-365-cloud-pc.html#tk.rss_all)
-- [Zoho brings business intelligence to the mass market](https://www.computerworld.com/article/3625093/zoho-brings-business-intelligence-to-the-mass-market.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

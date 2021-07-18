@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘They’re killing people’: Biden slams Facebook for Covid misinformation](https://www.theguardian.com/media/2021/jul/17/theyre-killing-people-biden-slams-facebook-for-covid-misinformation)
-- [Biz Markie, rapper known for Just a Friend, dies at age 57](https://www.theguardian.com/music/2021/jul/16/hip-hop-star-biz-markie-rapper-dies-just-a-friend)
-- [Death toll exceeds 125 as Germany and Belgium hit by devastating floods](https://www.theguardian.com/world/2021/jul/16/western-germany-floods-angela-merkel-horror-catastrophe-deaths-missing-search-flooding-belgium)
-- [Oregon wildfire causes miles-high ‘fire clouds’ as flames grow](https://www.theguardian.com/us-news/2021/jul/16/bootleg-fire-oregon-fire-clouds-pyrocumulus)
-- [Talking Horses: Eye-catching Gubbass looks a good bet in Super Sprint](https://www.theguardian.com/sport/2021/jul/17/talking-horses-eye-catching-gubbass-looks-a-good-bet-in-super-sprint)
-- [Boxer Charley Davison: ‘An Olympic medal could change my life’](https://www.theguardian.com/sport/2021/jul/17/boxer-charley-davison-an-olympic-medal-could-change-my-life)
-- [Damon Albarn review – anecdotes and emotion](https://www.theguardian.com/music/2021/jul/17/damon-albarn-review-manchester-central-international-festival)
-- [Arizona counties find fewer than 200 possible voter fraud cases among 3m 2020 ballots](https://www.theguardian.com/us-news/2021/jul/16/arizona-us-election-2020-voter-fraud-claims)
-- [Apocalypse Wow review – the worst thing you will ever see with your eyes](https://www.theguardian.com/tv-and-radio/2021/jul/16/apocalypse-wow-review-scarlett-moffatt-darren-harriott-kimberley-wyatt-chris-hughes-bobby-norris)
-- [Liam Livingstone heroics not enough as England fail to reach Pakistan target](https://www.theguardian.com/sport/2021/jul/16/liam-livingstone-heroics-not-enough-as-england-fail-to-reach-pakistan-target)
+- [NBA finals 2021 Game 5: Milwaukee Bucks v Phoenix Suns – live!](https://www.theguardian.com/sport/live/2021/jul/17/nba-finals-2021-game-5-milwaukee-bucks-v-phoenix-suns-live)
+- [Police release images of 10 men wanted over Euro 2020 Wembley final unrest](https://www.theguardian.com/uk-news/2021/jul/17/two-men-arrested-over-ticketless-fans-storming-england-wembley-final)
+- [Bolsonaro ‘fine’ after being taken to hospital following 10-day hiccup attack](https://www.theguardian.com/world/2021/jul/18/bolsonaro-fine-after-being-taken-to-hospital-following-10-day-hiccup-attack)
+- [Comfort food and cleaning products: no wonder Unilever’s doing so well](https://www.theguardian.com/business/2021/jul/18/comfort-food-and-cleaning-products-no-wonder-unilevers-doing-so-well)
+- [Anna X review – sound and vision steal the show in ‘fake heiress’ tale](https://www.theguardian.com/stage/2021/jul/17/anna-x-review-sound-and-vision-steal-the-show-in-fake-heiress-tale)
+- [Hot tropic: 10 of the best men’s printed holiday shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/17/hot-tropic-10-of-the-best-mens-printed-holiday-shirts-in-pictures)
+- [Sajid Javid tests positive as health chiefs tell PM: don’t let Covid rip](https://www.theguardian.com/world/2021/jul/17/sajid-javid-tests-positive-as-health-chiefs-tell-pm-dont-let-covid-rip)
+- [Adam Peaty liberated and confident of breaking his own world record at Tokyo](https://www.theguardian.com/sport/2021/jul/17/adam-peaty-liberated-and-confident-of-breaking-his-own-world-record-at-tokyo)
+- [Louis Oosthuizen leads into final round of Open after Jordan Spieth howler](https://www.theguardian.com/sport/2021/jul/17/louis-oosthuizen-leads-into-final-round-after-jordan-spieth-howler)
+- [Titane may not have been the best film at Cannes, but it had guts, drive – and an anthro-automotive hybrid devil child](https://www.theguardian.com/film/2021/jul/17/cannes-2021-titane-didnt-deserve-the-palme-but-it-had-guts-drive-and-an-anthro-automotive-hybrid-devil-child)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

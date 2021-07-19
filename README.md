@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals 2021 Game 5: Milwaukee Bucks v Phoenix Suns – live!](https://www.theguardian.com/sport/live/2021/jul/17/nba-finals-2021-game-5-milwaukee-bucks-v-phoenix-suns-live)
-- [Police release images of 10 men wanted over Euro 2020 Wembley final unrest](https://www.theguardian.com/uk-news/2021/jul/17/two-men-arrested-over-ticketless-fans-storming-england-wembley-final)
-- [Bolsonaro ‘fine’ after being taken to hospital following 10-day hiccup attack](https://www.theguardian.com/world/2021/jul/18/bolsonaro-fine-after-being-taken-to-hospital-following-10-day-hiccup-attack)
-- [Comfort food and cleaning products: no wonder Unilever’s doing so well](https://www.theguardian.com/business/2021/jul/18/comfort-food-and-cleaning-products-no-wonder-unilevers-doing-so-well)
-- [Anna X review – sound and vision steal the show in ‘fake heiress’ tale](https://www.theguardian.com/stage/2021/jul/17/anna-x-review-sound-and-vision-steal-the-show-in-fake-heiress-tale)
-- [Hot tropic: 10 of the best men’s printed holiday shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/17/hot-tropic-10-of-the-best-mens-printed-holiday-shirts-in-pictures)
-- [Sajid Javid tests positive as health chiefs tell PM: don’t let Covid rip](https://www.theguardian.com/world/2021/jul/17/sajid-javid-tests-positive-as-health-chiefs-tell-pm-dont-let-covid-rip)
-- [Adam Peaty liberated and confident of breaking his own world record at Tokyo](https://www.theguardian.com/sport/2021/jul/17/adam-peaty-liberated-and-confident-of-breaking-his-own-world-record-at-tokyo)
-- [Louis Oosthuizen leads into final round of Open after Jordan Spieth howler](https://www.theguardian.com/sport/2021/jul/17/louis-oosthuizen-leads-into-final-round-after-jordan-spieth-howler)
-- [Titane may not have been the best film at Cannes, but it had guts, drive – and an anthro-automotive hybrid devil child](https://www.theguardian.com/film/2021/jul/17/cannes-2021-titane-didnt-deserve-the-palme-but-it-had-guts-drive-and-an-anthro-automotive-hybrid-devil-child)
+- [The Pegasus Project part 1: an invitation to Paris](https://www.theguardian.com/news/audio/2021/jul/19/the-pegasus-project-part-1-an-invitation-to-paris)
+- [New Zealand west coast hit by heavy floods after month of rain falls in one weekend](https://www.theguardian.com/world/2021/jul/19/new-zealand-west-coast-hit-by-heavy-floods-after-month-of-rain-falls-in-one-weekend)
+- [Russia rights group linked to Navalny closes amid prosecution fears](https://www.theguardian.com/world/2021/jul/19/russia-team-29-closes-navalny-links-media)
+- [Thai police fire rubber bullets at protesters as Covid failures fuel anti-government anger](https://www.theguardian.com/world/2021/jul/19/thailand-police-fire-rubber-bullets-at-protesters-as-covid-failures-fuel-anti-government-anger)
+- [Climate crisis: 50 photos of extreme weather around the world – in pictures](https://www.theguardian.com/world/gallery/2021/jul/19/climate-crisis-weather-around-world-in-pictures-wildfires-floods-winds)
+- [Paralympian Olivia Breen dismayed after being told sprint briefs ‘too short’](https://www.theguardian.com/sport/2021/jul/19/paralympian-olivia-breen-dismayed-after-being-told-sprint-briefs-too-short)
+- [Spyware can make your phone your enemy. Journalism is your defence |  Laurent Richard  and Sandrine Rigaud](https://www.theguardian.com/world/commentisfree/2021/jul/19/spyware-can-make-your-phone-your-enemy-journalism-is-your-defence)
+- [Politicians from across world call for ‘global green deal’ to tackle climate crisis](https://www.theguardian.com/environment/2021/jul/19/politicians-from-across-world-call-for-global-green-deal-to-tackle-climate-crisis)
+- [Thousands of ex-racehorses being sent to abattoirs, BBC investigation claims](https://www.theguardian.com/sport/2021/jul/19/thousands-of-ex-racehorses-being-sent-to-abattoirs-bbc-investigation-claims)
+- [CBI and Marks & Spencer join calls for government to tackle ‘pingdemic’](https://www.theguardian.com/business/2021/jul/19/cbi-and-marks-spencer-join-calls-for-government-to-tackle-pingdemic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

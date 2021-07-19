@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Twitter verified accounts hacked to promote crypto scams](https://news.ycombinator.com/item?id=27870340)
-- [Dara Khosrowshahi, Dad of Silicon Valley](https://www.nytimes.com/2021/07/16/style/uber-ceo-dara-khosrowshahi.html)
-- [Two Rods and a ‘Sixth Sense’: In Drought, Water Witches Are Swamped](https://www.nytimes.com/2021/07/17/us/california-drought-water-witches.html)
-- [Ethereum Co-Founder Says Safety Concern Has Him Quitting Crypto](https://www.msn.com/en-us/money/other/ethereum-co-founder-says-safety-concern-has-him-quitting-crypto/ar-AAMeULB)
-- [Publishing a Unity WebGL game from scratch in under 30 minutes](https://refactoring.ninja/posts/2021-07-15-publishing-a-unity-webgl-game-from-scratch-in-under-30-minutes/)
-- [How Life Looks Through My ‘Whale Eyes’](https://www.nytimes.com/2021/07/14/opinion/strabismus-vision-disability-relationships.html)
-- [This Week in Gnome #1](https://thisweek.gnome.org/posts/2021/07/twig-1/)
-- [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
-- [Show HN: Simple islands architecture library for partial React hydration](https://www.npmjs.com/package/tropical-islands)
-- [Flooded coal mines could heat homes](https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes)
+- [Indiana to Build Wireless In-Motion Charging for Electric Vehicles on Highway](https://www.wrtv.com/news/state-news/pavement-that-charges-electric-vehicles-being-developed-in-indiana)
+- [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566)
+- [Some Security Risks of Using Push-Based CD](https://worklifenotes.com/2021/07/19/some-security-risks-of-using-push-based-cd/)
+- [YouTube allowing scammers to place phishing ads on top of SERP](https://www.reddit.com/r/2007scape/comments/omnbsq/friendly_reminder_to_be_careful_where_you/)
+- [Response from NSO and Governments](https://www.theguardian.com/news/2021/jul/18/response-from-nso-and-governments)
+- [Trinity – A Ternary Lisp Machine (2014)](https://hackaday.io/project/3628-trinity)
+- [‘Aging clock’ uses AI to predict immune health, disease onset](https://www.medicalnewstoday.com/articles/aging-clock-uses-ai-to-predict-immune-health-disease-onset)
+- [The Complexity of Simplicity](https://benoitessiambre.com/simple.html)
+- [Zoom to Buy Cloud Service Firm Five9 for $14.7B](https://www.bloomberg.com/news/articles/2021-07-19/zoom-to-buy-cloud-service-firm-five9-for-14-7-billion)
+- [Melting Pot: A suite of test scenarios for multi-agent reinforcement learning](https://github.com/deepmind/meltingpot)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

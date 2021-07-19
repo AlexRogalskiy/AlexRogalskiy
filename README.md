@@ -413,9 +413,9 @@
 - [Are there any career opportunities that open up after getting the CompTIA Trifecta that aren't really open when you only have 1 or 2 out of the 3?](https://www.reddit.com/r/InformationTechnology/comments/oiegaz/are_there_any_career_opportunities_that_open_up/)
 - [How to export emails from an iPhone as a file? No iTunes or iCloud](https://www.reddit.com/r/InformationTechnology/comments/ohk7sp/how_to_export_emails_from_an_iphone_as_a_file_no/)
 - [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
-- [Is a web analytics certification worth it?](https://www.reddit.com/r/InformationTechnology/comments/ohbd9j/is_a_web_analytics_certification_worth_it/)
 - [Post Military Transition Thoughts](https://www.reddit.com/r/InformationTechnology/comments/ohasqe/post_military_transition_thoughts/)
 - [Being held hostage by “possible” promotion](https://www.reddit.com/r/InformationTechnology/comments/oh290b/being_held_hostage_by_possible_promotion/)
+- [Windows Audio Not Working](https://www.reddit.com/r/InformationTechnology/comments/oh1cn2/windows_audio_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

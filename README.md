@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Device to allow for different subnets to communicate](https://www.reddit.com/r/InformationTechnology/comments/onqele/device_to_allow_for_different_subnets_to/)
 - [Hostname Naming Convention](https://www.reddit.com/r/InformationTechnology/comments/okxjck/hostname_naming_convention/)
 - [What other options in IT does a Computer science degree open up instead of software development?](https://www.reddit.com/r/InformationTechnology/comments/okvzfs/what_other_options_in_it_does_a_computer_science/)
 - [Advice on where to start with building a home lab for learning networking fundamentals.](https://www.reddit.com/r/InformationTechnology/comments/oiyjs8/advice_on_where_to_start_with_building_a_home_lab/)
@@ -415,7 +416,6 @@
 - [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
 - [Post Military Transition Thoughts](https://www.reddit.com/r/InformationTechnology/comments/ohasqe/post_military_transition_thoughts/)
 - [Being held hostage by “possible” promotion](https://www.reddit.com/r/InformationTechnology/comments/oh290b/being_held_hostage_by_possible_promotion/)
-- [Windows Audio Not Working](https://www.reddit.com/r/InformationTechnology/comments/oh1cn2/windows_audio_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

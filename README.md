@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Pegasus Project part 1: an invitation to Paris](https://www.theguardian.com/news/audio/2021/jul/19/the-pegasus-project-part-1-an-invitation-to-paris)
-- [New Zealand west coast hit by heavy floods after month of rain falls in one weekend](https://www.theguardian.com/world/2021/jul/19/new-zealand-west-coast-hit-by-heavy-floods-after-month-of-rain-falls-in-one-weekend)
-- [Russia rights group linked to Navalny closes amid prosecution fears](https://www.theguardian.com/world/2021/jul/19/russia-team-29-closes-navalny-links-media)
-- [Thai police fire rubber bullets at protesters as Covid failures fuel anti-government anger](https://www.theguardian.com/world/2021/jul/19/thailand-police-fire-rubber-bullets-at-protesters-as-covid-failures-fuel-anti-government-anger)
-- [Climate crisis: 50 photos of extreme weather around the world – in pictures](https://www.theguardian.com/world/gallery/2021/jul/19/climate-crisis-weather-around-world-in-pictures-wildfires-floods-winds)
-- [Paralympian Olivia Breen dismayed after being told sprint briefs ‘too short’](https://www.theguardian.com/sport/2021/jul/19/paralympian-olivia-breen-dismayed-after-being-told-sprint-briefs-too-short)
-- [Spyware can make your phone your enemy. Journalism is your defence |  Laurent Richard  and Sandrine Rigaud](https://www.theguardian.com/world/commentisfree/2021/jul/19/spyware-can-make-your-phone-your-enemy-journalism-is-your-defence)
-- [Politicians from across world call for ‘global green deal’ to tackle climate crisis](https://www.theguardian.com/environment/2021/jul/19/politicians-from-across-world-call-for-global-green-deal-to-tackle-climate-crisis)
-- [Thousands of ex-racehorses being sent to abattoirs, BBC investigation claims](https://www.theguardian.com/sport/2021/jul/19/thousands-of-ex-racehorses-being-sent-to-abattoirs-bbc-investigation-claims)
-- [CBI and Marks & Spencer join calls for government to tackle ‘pingdemic’](https://www.theguardian.com/business/2021/jul/19/cbi-and-marks-spencer-join-calls-for-government-to-tackle-pingdemic)
+- [The Pegasus Project part 2: cat and mouse](https://www.theguardian.com/news/audio/2021/jul/20/the-pegasus-project-part-2-cat-and-mouse)
+- [Castillo set to become Peru president as rival Fujimori says she will recognise result](https://www.theguardian.com/world/2021/jul/20/castillo-set-to-become-peru-president-as-rival-fujimori-says-she-will-recognise-result)
+- [Baghdad suicide bombing: dozens killed, scores injured in blast at packed Iraq market](https://www.theguardian.com/world/2021/jul/20/baghdad-suicide-bombing-dozens-killed-scores-injured-in-blast-at-packed-iraq-market)
+- [Bill Clinton fancied an Indian rather than tea with the Queen](https://www.theguardian.com/us-news/2021/jul/20/bill-clinton-fancied-indian-rather-than-tea-with-queen)
+- [David Cameron showed ‘significant lack of judgment’ on Greensill, inquiry finds](https://www.theguardian.com/politics/2021/jul/20/david-cameron-showed-significant-lack-of-judgment-on-greensill-inquiry-finds)
+- [National Grid to lose Great Britain electricity role to independent operator](https://www.theguardian.com/business/2021/jul/20/national-grid-to-lose-great-britain-electricity-role-to-independent-operator)
+- [UK fintech sector hits multi-billion pound peak of investor interest](https://www.theguardian.com/business/2021/jul/20/uk-fintech-sector-hits-multi-billion-pound-peak-of-investor-interest)
+- [Instagram ‘pushes weight-loss messages to teenagers’](https://www.theguardian.com/society/2021/jul/20/instagram-pushes-weight-loss-messages-to-teenagers)
+- [Government sets up £375m fund for ‘gamechanging’ UK tech firms](https://www.theguardian.com/technology/2021/jul/20/government-sets-up-375m-fund-for-gamechanging-uk-tech-firms)
+- [Widow denies organising murder of her British husband in Ukraine hit and run](https://www.theguardian.com/uk-news/2021/jul/19/brother-of-briton-killed-in-ukraine-accused-sister-in-law-of-inquest-barry-pring)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

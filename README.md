@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zoom to Acquire Five9 for $14.7 billion](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
-- [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
-- [From Macy’s to Ace Hardware, facial recognition is already everywhere](https://www.vox.com/2021/7/15/22577876/macys-ace-hardware-fight-for-the-future-facial-recognition-artificial-intelligence-stores)
-- [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
-- [Brain Signals Translated to 18 Words per Minute](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
-- [Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs](https://news.ycombinator.com/item?id=27877280)
-- [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [Amazon.com's Conditions of Use – Disputes now resolved by the courts](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
+- [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
+- [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
+- [The antimicrobial potential of cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
+- [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
+- [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
+- [Using Prolog for Sudoku Variants](http://dstrohmaier.com/sudoku-prolog/)
+- [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/)
+- [A GPIO Driver in Rust](https://lwn.net/Articles/863459/)
+- [Edward Snowden calls for spyware trade ban amid Pegasus revelations](https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

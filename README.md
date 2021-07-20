@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft’s Visual Studio 2022 Preview 2 arrives](https://www.infoworld.com/article/3625478/microsofts-visual-studio-2022-preview-2-arrives.html#tk.rss_all)
+- [GitHub CoPilot isn’t changing the future](https://www.infoworld.com/article/3625517/github-copilot-isnt-changing-the-future.html#tk.rss_all)
+- [Not all analytics are created equal](https://www.infoworld.com/article/3625233/not-all-analytics-are-created-equal.html#tk.rss_all)
+- [27 top SaaS companies for business](https://www.infoworld.com/article/3448597/27-top-saas-companies-for-business.html#tk.rss_all)
 - [Cloud costs not optimized? That’s on you](https://www.infoworld.com/article/3625491/cloud-costs-not-optimized-thats-on-you.html#tk.rss_all)
 - [In search of the devops ideal](https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all)
 - [Unifying streaming and stored data](https://www.infoworld.com/article/3624594/unifying-streaming-and-stored-data.html#tk.rss_all)
 - [Programming the Windows kernel with eBPF](https://www.infoworld.com/article/3625229/programming-the-windows-kernel-with-ebpf.html#tk.rss_all)
 - [How to choose a low-code development platform](https://www.infoworld.com/article/3624596/how-to-choose-a-low-code-development-platform.html#tk.rss_all)
 - [MongoDB goes serverless with latest Atlas release](https://www.infoworld.com/article/3625248/mongodb-goes-serverless-with-latest-atlas-release.html#tk.rss_all)
-- [How to change your career to cloud computing](https://www.infoworld.com/article/3624636/how-to-change-your-career-to-cloud-computing.html#tk.rss_all)
-- [How to use advanced Serilog features in ASP.NET Core MVC](https://www.infoworld.com/article/3624022/how-to-use-advanced-serilog-features-in-aspnet-core-mvc.html#tk.rss_all)
-- [The real successes of AI](https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html#tk.rss_all)
-- [5 AI startups out to change the world](https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

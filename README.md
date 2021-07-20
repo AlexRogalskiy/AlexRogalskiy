@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Indiana to Build Wireless In-Motion Charging for Electric Vehicles on Highway](https://www.wrtv.com/news/state-news/pavement-that-charges-electric-vehicles-being-developed-in-indiana)
-- [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566)
-- [Some Security Risks of Using Push-Based CD](https://worklifenotes.com/2021/07/19/some-security-risks-of-using-push-based-cd/)
-- [YouTube allowing scammers to place phishing ads on top of SERP](https://www.reddit.com/r/2007scape/comments/omnbsq/friendly_reminder_to_be_careful_where_you/)
-- [Response from NSO and Governments](https://www.theguardian.com/news/2021/jul/18/response-from-nso-and-governments)
-- [Trinity – A Ternary Lisp Machine (2014)](https://hackaday.io/project/3628-trinity)
-- [‘Aging clock’ uses AI to predict immune health, disease onset](https://www.medicalnewstoday.com/articles/aging-clock-uses-ai-to-predict-immune-health-disease-onset)
-- [The Complexity of Simplicity](https://benoitessiambre.com/simple.html)
-- [Zoom to Buy Cloud Service Firm Five9 for $14.7B](https://www.bloomberg.com/news/articles/2021-07-19/zoom-to-buy-cloud-service-firm-five9-for-14-7-billion)
-- [Melting Pot: A suite of test scenarios for multi-agent reinforcement learning](https://github.com/deepmind/meltingpot)
+- [The German Experiment That Placed Foster Children with Pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
+- [Conversation about Skills and Learning at Microsoft](https://devblogs.microsoft.com/dotnet/conversation-about-skills-and-learning/)
+- [Microsoft Quietly Released Its Own Linux Distro](https://github.com/microsoft/CBL-Mariner)
+- [Objects of Intrigue: 16th Century Rocket Cats](https://www.atlasobscura.com/articles/objects-of-intrigue-rocket-cats)
+- [“The Print Shop” Turned People into Banner Wizards in the 1980s](https://www.howtogeek.com/737306/how-the-print-shop-turned-people-into-banner-wizards-in-the-1980s/)
+- [Velociraptor – Incident Response using VQL, a query language for forensics](https://docs.velociraptor.app/)
+- [UMatrix security vulnerability has been patched](https://github.com/gorhill/uMatrix/releases/tag/1.4.2)
+- [Hong Kong Was Promised 50 Years of Autonomy – It Got 23](https://www.nationalreview.com/2021/07/hong-kong-snuffed-out/#slide-1)
+- [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
+- [Nvidia Releases Stable 470 Linux Driver, Improves Wayland Support](https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-470.57.02-Linux)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

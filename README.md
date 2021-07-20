@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Two Canadian business groups raising awareness of cybersecurity](https://www.itworldcanada.com/article/two-canadian-business-groups-raising-awareness-of-cybersecurity/455673)
+- [Telus and Palo Alto Networks launch new managed cloud security service for Canadian businesses](https://www.itworldcanada.com/article/telus-and-palo-alto-networks-launch-new-managed-cloud-security-service-for-canadian-businesses/456003)
+- [Virgin Mobile rebranded to Virgin Plus](https://www.itworldcanada.com/article/virgin-mobile-rebranded-to-virgin-plus/455984)
+- [Canada, allies accuse China of widespread malicious cyber activity](https://www.itworldcanada.com/article/canada-allies-accuse-china-of-widespread-malicious-cyber-activity/455953)
+- [Canadian group helps Microsoft identify vulnerabilities used in spyware](https://www.itworldcanada.com/article/canadian-group-helps-microsoft-identify-vulnerabilities-used-in-spyware/455853)
+- [Cyber Security Today, July 19, 2021 – A new ransomware advice site, another Windows print spooler problem and more companies caught with unsecured cloud data storage](https://www.itworldcanada.com/article/cyber-security-today-july-19-2021-a-new-ransomware-advice-site-another-windows-print-spooler-problem-and-more-companies-caught-with-unsecured-cloud-data-storage/455922)
+- [Hashtag Trending July 19 – WhatsApp on multiple devices; Clippy returns as an emoji; No Prime Day in 2021](https://www.itworldcanada.com/article/hashtag-trending-july-19-whatsapp-on-multiple-devices-clippy-returns-as-an-emoji-no-prime-day-in-2021/455949)
 - [Telus is still the fastest mobile carrier in Canada, says Ookla](https://www.itworldcanada.com/article/telus-is-still-the-fastest-mobile-carrier-in-canada-says-ookla/455923)
 - [STEAM is the new STEM – IBM Canada to host a virtual national Arts and STEM summer camp this coming week](https://www.itworldcanada.com/article/steam-is-the-new-stem-ibm-canada-to-host-a-virtual-national-arts-and-stem-summer-camp-this-coming-week/455915)
 - [Cyber Security Today, Week in Review for Friday, July 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-16-2021/455848)
-- [Shinydocs CEO Jason Cassidy: Digital transformation requires data fitness](https://www.itworldcanada.com/article/shinydocs-ceo-jason-cassidy-digital-transformation-requires-data-fitness/455905)
-- [Digital Transformation Week 2021 – Day 3 recap](https://www.itworldcanada.com/article/digital-transformation-week-2021-day-3-recap/455862)
-- [Bell moves critical services to Google Cloud in new partnership](https://www.itworldcanada.com/article/bell-moves-critical-services-to-google-cloud-in-new-partnership/455879)
-- [Hashtag Trending, July 16 – Facebook Advertising; Netflix looks to Video Games; Apple says “Buy Now, Pay Later”](https://www.itworldcanada.com/article/hashtag-trending-july-16-facebook-advertising-netflix-looks-to-video-games-apple-says-buy-now-pay-later/455891)
-- [Cyber Security Today, July 16, 2021 – US offers bounty for cybercrooks, Facebook cuts links to spy group and beware of this LinkedIn scam](https://www.itworldcanada.com/article/cyber-security-today-july-16-2021-us-offers-bounty-for-cybercrooks-facebook-cuts-links-to-spy-group-and-beware-of-this-linkedin-scam/455845)
-- [Inspiring momentum for innovation: Jennifer Quaglietta, Not for Profit CIO of the Year](https://www.itworldcanada.com/article/inspiring-momentum-for-innovation-jennifer-quaglietta-not-for-profit-cio-of-the-year/455830)
-- [Delivering during a global pandemic: Ricardo Costa – 2021 CIO of the Year – Private Sector](https://www.itworldcanada.com/article/delivering-during-a-global-pandemic-ricardo-costa-2021-cio-of-the-year-private-sector/455837)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

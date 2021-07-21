@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon.com's Conditions of Use – Disputes now resolved by the courts](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
-- [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
-- [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
-- [The antimicrobial potential of cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
-- [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
-- [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [Using Prolog for Sudoku Variants](http://dstrohmaier.com/sudoku-prolog/)
-- [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/)
-- [A GPIO Driver in Rust](https://lwn.net/Articles/863459/)
-- [Edward Snowden calls for spyware trade ban amid Pegasus revelations](https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations)
+- [A surprisingly common error users make when installing brew](https://github.com/withfig/fig/discussions/300)
+- [Why Julia's multiple dispatch is so greated explained with Pokemons](https://www.moll.dev/projects/effective-multi-dispatch/)
+- [Gitlab: Support for team members who are mistreated in their country](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs)
+- [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
+- [Emmanuel Macron identified in leaked Pegasus project data](https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data)
+- [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
+- [MAPS Celebrates California Senate Passage of Psychedelic Reform Bill](https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill)
+- [Reverse-Engineering the Mali G78](https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html)
+- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
+- [Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

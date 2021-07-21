@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The German Experiment That Placed Foster Children with Pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
-- [Conversation about Skills and Learning at Microsoft](https://devblogs.microsoft.com/dotnet/conversation-about-skills-and-learning/)
-- [Microsoft Quietly Released Its Own Linux Distro](https://github.com/microsoft/CBL-Mariner)
-- [Objects of Intrigue: 16th Century Rocket Cats](https://www.atlasobscura.com/articles/objects-of-intrigue-rocket-cats)
-- [“The Print Shop” Turned People into Banner Wizards in the 1980s](https://www.howtogeek.com/737306/how-the-print-shop-turned-people-into-banner-wizards-in-the-1980s/)
-- [Velociraptor – Incident Response using VQL, a query language for forensics](https://docs.velociraptor.app/)
-- [UMatrix security vulnerability has been patched](https://github.com/gorhill/uMatrix/releases/tag/1.4.2)
-- [Hong Kong Was Promised 50 Years of Autonomy – It Got 23](https://www.nationalreview.com/2021/07/hong-kong-snuffed-out/#slide-1)
-- [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
-- [Nvidia Releases Stable 470 Linux Driver, Improves Wayland Support](https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-470.57.02-Linux)
+- [Meet China’s New Gaming Underclass](https://www.protocol.com/china/chinas-gaming-underclass-peiwan)
+- [1986's Super Mario Bros. Movie Is Being Painstakingly Restored, Now in 4K](https://kotaku.com/1986s-super-mario-bros-movie-is-being-painstakingly-re-1847332770)
+- [Notfallwarnung Im Mobilfunknetz and Cell Broadcast](https://laforge.gnumonks.org/blog/20210719-smscb/)
+- [A simple problem for which Julia is a better choice than Python](https://news.ycombinator.com/item?id=27901624)
+- [WikiGraphs: A Wikipedia Text – Knowledge Graph Paired Dataset](https://arxiv.org/abs/2107.09556)
+- [Twitter rolling out preview of all-new TweetDeck app](https://9to5mac.com/2021/07/20/twitter-rolling-out-preview-of-all-new-tweetdeck-app/)
+- [Excerpt from the Long Game: China’s Grand Strategy to Displace American Order](https://sinocism.com/p/excerpt-from-the-long-game-chinas)
+- [New Delphi and C++Builder Community Editions 10.4 Available](https://blogs.embarcadero.com/new-delphi-and-cbuilder-community-editions-10-4-available/)
+- [Garcia Exploration 52 test: The sailing equivalent of a 4x4 off-roader (2019)](https://www.yachtingworld.com/reviews/boat-tests/garcia-exploration-52-jimmy-cornell)
+- [Writing C code in Java/Clojure: GraalVM specific programming](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

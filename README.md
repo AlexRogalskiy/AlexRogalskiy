@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Government launches consultation on plans for UK digital identity market](https://www.computerweekly.com/news/252504188/Government-launches-consultation-on-plans-for-UK-digital-identity-market)
-- [HMRC CEO claims email querying legal basis for loan charge ‘overplayed’ at committee hearing](https://www.computerweekly.com/news/252504135/HMRC-CEO-claims-email-querying-legal-basis-for-loan-charge-overplayed-at-committee-hearing)
-- [Is tech team remuneration opening up a new form of cyber risk?](https://www.computerweekly.com/opinion/Is-tech-team-remuneration-opening-up-a-new-form-of-cyber-risk)
-- [Zoom expands into contact centre market](https://www.computerweekly.com/news/252504161/Zoom-expands-into-contact-centre-market)
-- [A dozen more subpostmaster prosecutions quashed in Horizon scandal](https://www.computerweekly.com/news/252504159/A-dozen-more-subpostmaster-prosecutions-quashed)
-- [SAP invests €250m in UK economy](https://www.computerweekly.com/news/252504170/SAP-invests-250m-in-UK-economy)
-- [UK, US confirm Chinese state backed MS Exchange Server attacks](https://www.computerweekly.com/news/252504168/UK-US-confirm-Chinese-state-backed-MS-Exchange-Server-attacks)
-- [Kao Data claims UK first with push to ditch diesel for biofuel in datacentre backup generators](https://www.computerweekly.com/news/252504147/Kao-Data-claims-UK-first-with-push-to-ditch-diesel-for-biofuel-in-datacentre-backup-generators)
-- [Pegasus mobile RAT abused to monitor journalists and activists](https://www.computerweekly.com/news/252504149/Pegasus-mobile-RAT-abused-to-monitor-journalists-and-activists)
-- [Storage-as-a-service: Consumption models from the big six](https://www.computerweekly.com/feature/Storage-as-a-service-Consumption-models-from-the-big-six)
+- [Research and development investment programme launches in UK](https://www.computerweekly.com/news/252504260/Research-and-development-investment-programme-launches-in-UK)
+- [NCSC’s Cameron urges deeper cyber alliance-building](https://www.computerweekly.com/news/252504254/NCSCs-Cameron-urges-deeper-cyber-alliance-building)
+- [Uber drivers face real-terms pay cut after service fee hike](https://www.computerweekly.com/news/252504250/Uber-drivers-face-real-terms-pay-cut-after-service-fee-hike)
+- [Sparsely staffed offices: the new post-pandemic cyber gap](https://www.computerweekly.com/opinion/Sparsely-staffed-offices-the-new-post-pandemic-cyber-gap)
+- [Nordic banks join forces to compete with fintechs](https://www.computerweekly.com/news/252504231/Nordic-banks-join-forces-to-compete-with-fintechs)
+- [Fujitsu uses quantum-inspired algorithm to tackle space waste](https://www.computerweekly.com/news/252504234/Fujitsu-uses-quantum-inspired-algorithm-to-tackle-space-waste)
+- [The Secret IR Insider’s Diary: It’s all gone quie...](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-Its-all-gone-quie)
+- [NHS Digital tightens rules for GPDPR data scrape](https://www.computerweekly.com/news/252504236/NHS-Digital-tightens-rules-for-GPDPR-data-scrape)
+- [Volvo: Our friends in software](https://www.computerweekly.com/news/252504037/Volvo-Our-friends-in-software)
+- [Security Think Tank: A return to the office is not a return to normal](https://www.computerweekly.com/opinion/Security-Think-Tank-A-return-to-the-office-is-not-a-return-to-normal)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT support courses for working with users with disabilities](https://www.reddit.com/r/InformationTechnology/comments/oo5ulk/it_support_courses_for_working_with_users_with/)
 - [Device to allow for different subnets to communicate](https://www.reddit.com/r/InformationTechnology/comments/onqele/device_to_allow_for_different_subnets_to/)
 - [Hostname Naming Convention](https://www.reddit.com/r/InformationTechnology/comments/okxjck/hostname_naming_convention/)
 - [What other options in IT does a Computer science degree open up instead of software development?](https://www.reddit.com/r/InformationTechnology/comments/okvzfs/what_other_options_in_it_does_a_computer_science/)
@@ -415,7 +416,6 @@
 - [How to export emails from an iPhone as a file? No iTunes or iCloud](https://www.reddit.com/r/InformationTechnology/comments/ohk7sp/how_to_export_emails_from_an_iphone_as_a_file_no/)
 - [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
 - [Post Military Transition Thoughts](https://www.reddit.com/r/InformationTechnology/comments/ohasqe/post_military_transition_thoughts/)
-- [Being held hostage by “possible” promotion](https://www.reddit.com/r/InformationTechnology/comments/oh290b/being_held_hostage_by_possible_promotion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

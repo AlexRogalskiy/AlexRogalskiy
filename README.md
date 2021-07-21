@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Tesla turns ‘full self-driving’ into a subscription](https://www.itworldcanada.com/article/tesla-turns-full-self-driving-into-a-subscription/456091)
+- [The U.S. wants to prevent China from buying advanced chip manufacturing equipment](https://www.itworldcanada.com/article/the-u-s-wants-to-prevent-china-from-buying-advanced-chip-manufacturing-equipment/456070)
+- [Zoom to acquire cloud contact centre provider Five9 for $14.7 billion](https://www.itworldcanada.com/article/zoom-to-acquire-cloud-contact-centre-provider-five9-for-14-7-billion/456061)
+- [Accenture acquires Toronto-based Cloudworks to expand Oracle footprint in Canada](https://www.itworldcanada.com/article/accenture-acquires-toronto-based-cloudworks-to-expand-oracle-footprint-in-canada/456053)
+- [Is Canada’s reform of privacy legislation dead?](https://www.itworldcanada.com/article/is-canadas-reform-of-privacy-legislation-dead/456028)
+- [Coffee Briefing, July 20, 2021 – PrintNightmare continues; Driving as a service; and more](https://www.itworldcanada.com/article/coffee-briefing-july-20-2021-printnightmare-continues-driving-as-a-service-and-more/456018)
+- [Hashtag Trending July 20 – Fear excessive surveillance; China blamed for hack; Chip shortage hits smartphones](https://www.itworldcanada.com/article/hashtag-trending-july-20-fear-excessive-surveillance-china-blamed-for-hack-chip-shortage-hits-smartphones/456031)
 - [Two Canadian business groups raising awareness of cybersecurity](https://www.itworldcanada.com/article/two-canadian-business-groups-raising-awareness-of-cybersecurity/455673)
 - [Telus and Palo Alto Networks launch new managed cloud security service for Canadian businesses](https://www.itworldcanada.com/article/telus-and-palo-alto-networks-launch-new-managed-cloud-security-service-for-canadian-businesses/456003)
 - [Virgin Mobile rebranded to Virgin Plus](https://www.itworldcanada.com/article/virgin-mobile-rebranded-to-virgin-plus/455984)
-- [Canada, allies accuse China of widespread malicious cyber activity](https://www.itworldcanada.com/article/canada-allies-accuse-china-of-widespread-malicious-cyber-activity/455953)
-- [Canadian group helps Microsoft identify vulnerabilities used in spyware](https://www.itworldcanada.com/article/canadian-group-helps-microsoft-identify-vulnerabilities-used-in-spyware/455853)
-- [Cyber Security Today, July 19, 2021 – A new ransomware advice site, another Windows print spooler problem and more companies caught with unsecured cloud data storage](https://www.itworldcanada.com/article/cyber-security-today-july-19-2021-a-new-ransomware-advice-site-another-windows-print-spooler-problem-and-more-companies-caught-with-unsecured-cloud-data-storage/455922)
-- [Hashtag Trending July 19 – WhatsApp on multiple devices; Clippy returns as an emoji; No Prime Day in 2021](https://www.itworldcanada.com/article/hashtag-trending-july-19-whatsapp-on-multiple-devices-clippy-returns-as-an-emoji-no-prime-day-in-2021/455949)
-- [Telus is still the fastest mobile carrier in Canada, says Ookla](https://www.itworldcanada.com/article/telus-is-still-the-fastest-mobile-carrier-in-canada-says-ookla/455923)
-- [STEAM is the new STEM – IBM Canada to host a virtual national Arts and STEM summer camp this coming week](https://www.itworldcanada.com/article/steam-is-the-new-stem-ibm-canada-to-host-a-virtual-national-arts-and-stem-summer-camp-this-coming-week/455915)
-- [Cyber Security Today, Week in Review for Friday, July 16, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-16-2021/455848)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

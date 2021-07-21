@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code 1.58 improves debugging, Jupyter Notebook support](https://www.infoworld.com/article/3626031/visual-studio-code-158-improves-debugging-jupyter-notebook-support.html#tk.rss_all)
+- [Why organizations get stuck in the middle of their devops journey](https://www.infoworld.com/article/3625677/why-organizations-get-stuck-in-the-middle-of-their-devops-journey.html#tk.rss_all)
+- [How to use HTTP logging in ASP.NET Core 6](https://www.infoworld.com/article/3625494/how-to-use-http-logging-in-aspnet-core-6.html#tk.rss_all)
+- [Cloud-native apps don’t have to stay DRY](https://www.infoworld.com/article/3625455/cloud-native-apps-dont-have-to-stay-dry.html#tk.rss_all)
 - [Microsoft’s Visual Studio 2022 Preview 2 arrives](https://www.infoworld.com/article/3625478/microsofts-visual-studio-2022-preview-2-arrives.html#tk.rss_all)
-- [GitHub CoPilot isn’t changing the future](https://www.infoworld.com/article/3625517/github-copilot-isnt-changing-the-future.html#tk.rss_all)
+- [GitHub Copilot isn’t changing the future](https://www.infoworld.com/article/3625517/github-copilot-isnt-changing-the-future.html#tk.rss_all)
 - [Not all analytics are created equal](https://www.infoworld.com/article/3625233/not-all-analytics-are-created-equal.html#tk.rss_all)
 - [27 top SaaS companies for business](https://www.infoworld.com/article/3448597/27-top-saas-companies-for-business.html#tk.rss_all)
 - [Cloud costs not optimized? That’s on you](https://www.infoworld.com/article/3625491/cloud-costs-not-optimized-thats-on-you.html#tk.rss_all)
 - [In search of the devops ideal](https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all)
-- [Unifying streaming and stored data](https://www.infoworld.com/article/3624594/unifying-streaming-and-stored-data.html#tk.rss_all)
-- [Programming the Windows kernel with eBPF](https://www.infoworld.com/article/3625229/programming-the-windows-kernel-with-ebpf.html#tk.rss_all)
-- [How to choose a low-code development platform](https://www.infoworld.com/article/3624596/how-to-choose-a-low-code-development-platform.html#tk.rss_all)
-- [MongoDB goes serverless with latest Atlas release](https://www.infoworld.com/article/3625248/mongodb-goes-serverless-with-latest-atlas-release.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How the JEDI Cancellation May Influence Future IT Contracts](https://www.informationweek.com/cloud/how-the-jedi-cancellation-may-influence-future-it-contracts/d/d-id/1341558?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Ways to Build a Talented and Reliable Work-at-Home IT Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-build-a-talented-and-reliable-work-at-home-it-workforce/a/d-id/1341555?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Remote Work Tops SF, NYC for Most High-Paying Job Openings](https://www.informationweek.com/strategic-cio/team-building-and-staffing/remote-work-tops-sf-nyc-for-most-high-paying-job-openings/d/d-id/1341553?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [3 Ways To Make Conversational AI Work For Your Organization](https://www.informationweek.com/big-data/ai-machine-learning/3-ways-to-make-conversational-ai-work-for-your-organization/a/d-id/1341547?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Seeking a Competitive Edge vs. Chasing Savings in the Cloud](https://www.informationweek.com/cloud/seeking-a-competitive-edge-vs-chasing-savings-in-the-cloud/a/d-id/1341546?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [How to Best Assess Your Security Posture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Building a Post-Pandemic Cloud Strategy](https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Become an IT Industry Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How IT Leaders Can Adopt an Automation Mindset](https://www.informationweek.com/big-data/ai-machine-learning/how-it-leaders-can-adopt-an-automation-mindset/a/d-id/1341521?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CTOs Evolve in Shake Up of Digital Leadership in the C-Suite](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ctos-evolve-in-shake-up-of-digital-leadership-in-the-c-suite/a/d-id/1341511?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

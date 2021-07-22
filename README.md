@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A surprisingly common error users make when installing brew](https://github.com/withfig/fig/discussions/300)
-- [Why Julia's multiple dispatch is so greated explained with Pokemons](https://www.moll.dev/projects/effective-multi-dispatch/)
-- [Gitlab: Support for team members who are mistreated in their country](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs)
-- [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
-- [Emmanuel Macron identified in leaked Pegasus project data](https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data)
-- [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
-- [MAPS Celebrates California Senate Passage of Psychedelic Reform Bill](https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill)
-- [Reverse-Engineering the Mali G78](https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html)
-- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
-- [Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
+- [Lockdown Bait and Switch – By Matt Shapiro – Marginally Compelling](https://polimath.substack.com/p/lockdown-bait-and-switch)
+- [Twitter tests Reddit-style upvote and downvote buttons](https://techcrunch.com/2021/07/21/twitter-tests-reddit-style-upvote-and-downvote-buttons/)
+- [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
+- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
+- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
+- [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
+- [Dover (YC S19) just raised $20M and is hiring our first engineering manager](https://www.dover.com/open-roles/engineering-manager)
+- [Show HN: Web-based visualization for robotics and autonomous vehicles](https://foxglove.dev/)
+- [Man Arrested in Connection with Alleged Role in Twitter Hack](https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack)
+- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Java state API would speed app startup](https://www.infoworld.com/article/3626351/java-state-api-would-speed-app-startup.html#tk.rss_all)
+- [Get your Visual Studio extensions ready for 64-bit](https://www.infoworld.com/article/3626195/get-your-visual-studio-extensions-ready-for-64-bit.html#tk.rss_all)
+- [6 essential Python tools for data science—now improved](https://www.infoworld.com/article/3233250/6-essential-python-tools-for-data-science-now-improved.html#tk.rss_all)
 - [Visual Studio Code 1.58 improves debugging, Jupyter Notebook support](https://www.infoworld.com/article/3626031/visual-studio-code-158-improves-debugging-jupyter-notebook-support.html#tk.rss_all)
-- [Why organizations get stuck in the middle of their devops journey](https://www.infoworld.com/article/3625677/why-organizations-get-stuck-in-the-middle-of-their-devops-journey.html#tk.rss_all)
+- [Why companies get stuck in the middle of their devops journey](https://www.infoworld.com/article/3625677/why-companies-get-stuck-in-the-middle-of-their-devops-journey.html#tk.rss_all)
 - [How to use HTTP logging in ASP.NET Core 6](https://www.infoworld.com/article/3625494/how-to-use-http-logging-in-aspnet-core-6.html#tk.rss_all)
 - [Cloud-native apps don’t have to stay DRY](https://www.infoworld.com/article/3625455/cloud-native-apps-dont-have-to-stay-dry.html#tk.rss_all)
 - [Microsoft’s Visual Studio 2022 Preview 2 arrives](https://www.infoworld.com/article/3625478/microsofts-visual-studio-2022-preview-2-arrives.html#tk.rss_all)
 - [GitHub Copilot isn’t changing the future](https://www.infoworld.com/article/3625517/github-copilot-isnt-changing-the-future.html#tk.rss_all)
 - [Not all analytics are created equal](https://www.infoworld.com/article/3625233/not-all-analytics-are-created-equal.html#tk.rss_all)
-- [27 top SaaS companies for business](https://www.infoworld.com/article/3448597/27-top-saas-companies-for-business.html#tk.rss_all)
-- [Cloud costs not optimized? That’s on you](https://www.infoworld.com/article/3625491/cloud-costs-not-optimized-thats-on-you.html#tk.rss_all)
-- [In search of the devops ideal](https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

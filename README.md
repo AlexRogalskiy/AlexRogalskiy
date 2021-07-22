@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Meet China’s New Gaming Underclass](https://www.protocol.com/china/chinas-gaming-underclass-peiwan)
-- [1986's Super Mario Bros. Movie Is Being Painstakingly Restored, Now in 4K](https://kotaku.com/1986s-super-mario-bros-movie-is-being-painstakingly-re-1847332770)
-- [Notfallwarnung Im Mobilfunknetz and Cell Broadcast](https://laforge.gnumonks.org/blog/20210719-smscb/)
-- [A simple problem for which Julia is a better choice than Python](https://news.ycombinator.com/item?id=27901624)
-- [WikiGraphs: A Wikipedia Text – Knowledge Graph Paired Dataset](https://arxiv.org/abs/2107.09556)
-- [Twitter rolling out preview of all-new TweetDeck app](https://9to5mac.com/2021/07/20/twitter-rolling-out-preview-of-all-new-tweetdeck-app/)
-- [Excerpt from the Long Game: China’s Grand Strategy to Displace American Order](https://sinocism.com/p/excerpt-from-the-long-game-chinas)
-- [New Delphi and C++Builder Community Editions 10.4 Available](https://blogs.embarcadero.com/new-delphi-and-cbuilder-community-editions-10-4-available/)
-- [Garcia Exploration 52 test: The sailing equivalent of a 4x4 off-roader (2019)](https://www.yachtingworld.com/reviews/boat-tests/garcia-exploration-52-jimmy-cornell)
-- [Writing C code in Java/Clojure: GraalVM specific programming](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
+- [Extreme Weather Sweeps the World as Natural Disasters Unleash on 3 Continents](https://www.businessinsider.com/photo-video-europe-china-flooding-oregon-siberia-canada-wildfires-2021-7)
+- [Spyware hijacks smartphones, threatens journalists (2018)](https://www.cjr.org/watchdog/pegasus-israeli-spyware.php)
+- [Multi Stage Inference for TinyML Devices](https://twitter.com/csoham_/status/1417853268630204416)
+- [Scientists Create World’s Thinnest Magnet: one-atom-thin](https://newscenter.lbl.gov/2021/07/20/worlds-thinnest-magnet/)
+- [Neural Fixed-Point Acceleration for Convex Optimization](https://arxiv.org/abs/2107.10254)
+- [The Bad Marriage Problem](https://avc.com/2021/07/the-bad-marriage-problem/)
+- [Study raises prospect of 'fine-tuning' immune response thru individual T-cells](https://medicalxpress.com/news/2021-07-prospect-fine-tuning-immune-response-individual.html)
+- [Lockdown Bait and Switch – By Matt Shapiro – Marginally Compelling](https://polimath.substack.com/p/lockdown-bait-and-switch)
+- [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
+- [Senior data engineer or Senior Datawarehousing engineer](https://news.ycombinator.com/item?id=27914485)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

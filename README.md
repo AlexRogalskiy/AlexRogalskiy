@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Panasonic releases the Toughbook G2 modular rugged PC](https://www.itworldcanada.com/article/panasonic-releases-the-toughbook-g2-modular-rugged-pc/456141)
+- [Huawei network gear again fails to meet cybersecurity quality, says UK board](https://www.itworldcanada.com/article/huawei-network-gear-again-fails-to-meet-cybersecurity-quality-says-uk-board/456099)
+- [Two Linux vulnerabilities give exploiters root privileges](https://www.itworldcanada.com/article/two-linux-vulnerabilities-give-exploiters-root-privileges/456123)
+- [Microsoft issues workaround for new Win10 privilege escalation problem](https://www.itworldcanada.com/article/microsoft-issues-workaround-for-new-win10-privilege-escalation-problem/456110)
+- [Cyber Security Today, July 21, 2021 – Another printer vulnerability found, and more corporate ransomware victims](https://www.itworldcanada.com/article/cyber-security-today-july-21-2021-another-printer-vulnerability-found-and-more-corporate-ransomware-victims/456090)
+- [Hashtag Trending July 21- Apple delays return to office plans; WhatsApp blocks 2 million accounts; Jeff Bezos goes to space](https://www.itworldcanada.com/article/hashtag-trending-july-21-apple-delays-return-to-office-plans-whatsapp-blocks-2-million-accounts-jeff-bezos-goes-to-space/456105)
 - [Tesla turns ‘full self-driving’ into a subscription](https://www.itworldcanada.com/article/tesla-turns-full-self-driving-into-a-subscription/456091)
 - [The U.S. wants to prevent China from buying advanced chip manufacturing equipment](https://www.itworldcanada.com/article/the-u-s-wants-to-prevent-china-from-buying-advanced-chip-manufacturing-equipment/456070)
 - [Zoom to acquire cloud contact centre provider Five9 for $14.7 billion](https://www.itworldcanada.com/article/zoom-to-acquire-cloud-contact-centre-provider-five9-for-14-7-billion/456061)
 - [Accenture acquires Toronto-based Cloudworks to expand Oracle footprint in Canada](https://www.itworldcanada.com/article/accenture-acquires-toronto-based-cloudworks-to-expand-oracle-footprint-in-canada/456053)
-- [Is Canada’s reform of privacy legislation dead?](https://www.itworldcanada.com/article/is-canadas-reform-of-privacy-legislation-dead/456028)
-- [Coffee Briefing, July 20, 2021 – PrintNightmare continues; Driving as a service; and more](https://www.itworldcanada.com/article/coffee-briefing-july-20-2021-printnightmare-continues-driving-as-a-service-and-more/456018)
-- [Hashtag Trending July 20 – Fear excessive surveillance; China blamed for hack; Chip shortage hits smartphones](https://www.itworldcanada.com/article/hashtag-trending-july-20-fear-excessive-surveillance-china-blamed-for-hack-chip-shortage-hits-smartphones/456031)
-- [Two Canadian business groups raising awareness of cybersecurity](https://www.itworldcanada.com/article/two-canadian-business-groups-raising-awareness-of-cybersecurity/455673)
-- [Telus and Palo Alto Networks launch new managed cloud security service for Canadian businesses](https://www.itworldcanada.com/article/telus-and-palo-alto-networks-launch-new-managed-cloud-security-service-for-canadian-businesses/456003)
-- [Virgin Mobile rebranded to Virgin Plus](https://www.itworldcanada.com/article/virgin-mobile-rebranded-to-virgin-plus/455984)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

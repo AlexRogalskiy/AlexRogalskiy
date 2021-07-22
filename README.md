@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Infosys to open German operation focused on automotive sector](https://www.computerweekly.com/news/252504316/Infosys-to-open-German-operation-focused-on-automotive-sector)
+- [Datacentre capacity demand remains strong, fuelling continued growth of secondary colo hubs in EMEA](https://www.computerweekly.com/news/252504291/Datacentre-capacity-demand-remains-strong-fuelling-continued-growth-of-secondary-colo-hubs-in-EMEA)
+- [Government officials lack experience to lead digital transformation, says NAO](https://www.computerweekly.com/news/252504290/Government-officials-lack-experience-to-lead-digital-transformation-says-NAO)
+- [SAP Q2 2021: revenue down 1%, 600 new S/4 Hana signups](https://www.computerweekly.com/news/252504292/SAP-Q2-2021-revenue-down-1-600-new-S-4-Hana-signups)
+- [Cloud Foundry Foundation rebalances commercial code contributions](https://www.computerweekly.com/news/252504293/Cloud-Foundry-Foundation-rebalances-commercial-code-contributions)
+- [Interview: Chano Fernandez, co-CEO of Workday – a European co-helming a Californian enterprise](https://www.computerweekly.com/news/252504087/Chano-Fernandez-co-CEO-of-Workday-A-European-co-helming-a-Californian-enterprise)
+- [Thomson Reuters fleshes out multicloud strategy with Oracle application migration deal](https://www.computerweekly.com/news/252504282/Thomson-Reuters-fleshes-out-multicloud-strategy-with-Oracle-application-migration-deal)
+- [Makers launches third year of the Women in Software Powerlist](https://www.computerweekly.com/news/252504261/Makers-launches-third-year-of-the-Women-in-Software-Powerlist)
+- [France’s Macron among alleged Pegasus targets](https://www.computerweekly.com/news/252504287/Frances-Macron-among-alleged-Pegasus-targets)
 - [Research and development investment programme launches in UK](https://www.computerweekly.com/news/252504260/Research-and-development-investment-programme-launches-in-UK)
-- [NCSC’s Cameron urges deeper cyber alliance-building](https://www.computerweekly.com/news/252504254/NCSCs-Cameron-urges-deeper-cyber-alliance-building)
-- [Uber drivers face real-terms pay cut after service fee hike](https://www.computerweekly.com/news/252504250/Uber-drivers-face-real-terms-pay-cut-after-service-fee-hike)
-- [Sparsely staffed offices: the new post-pandemic cyber gap](https://www.computerweekly.com/opinion/Sparsely-staffed-offices-the-new-post-pandemic-cyber-gap)
-- [Nordic banks join forces to compete with fintechs](https://www.computerweekly.com/news/252504231/Nordic-banks-join-forces-to-compete-with-fintechs)
-- [Fujitsu uses quantum-inspired algorithm to tackle space waste](https://www.computerweekly.com/news/252504234/Fujitsu-uses-quantum-inspired-algorithm-to-tackle-space-waste)
-- [The Secret IR Insider’s Diary: It’s all gone quie...](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-Its-all-gone-quie)
-- [NHS Digital tightens rules for GPDPR data scrape](https://www.computerweekly.com/news/252504236/NHS-Digital-tightens-rules-for-GPDPR-data-scrape)
-- [Volvo: Our friends in software](https://www.computerweekly.com/news/252504037/Volvo-Our-friends-in-software)
-- [Security Think Tank: A return to the office is not a return to normal](https://www.computerweekly.com/opinion/Security-Think-Tank-A-return-to-the-office-is-not-a-return-to-normal)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Pegasus Project part 3: cartels, corruption and cyber-weapons](https://www.theguardian.com/news/audio/2021/jul/21/the-pegasus-project-part-3-cartels-corruption-and-cyber-weapons-podcast)
-- [Deadly flooding hits central China, affecting tens of millions](https://www.theguardian.com/world/2021/jul/20/heavy-flooding-hits-central-china-affecting-tens-of-millions)
-- [Why does Jeff Bezos’s rocket look like that? An inquiry](https://www.theguardian.com/science/2021/jul/20/jeff-bezos-rocket-design-an-inquiry)
-- [Chair of Trump’s 2017 inaugural fund arrested on foreign agent charges – as it happened](https://www.theguardian.com/us-news/live/2021/jul/20/covid-misinformation-delta-spread-us-politics-live-biden-white-house-facebook-social-media)
-- [UK public services face cuts of up to £17bn, says IFS](https://www.theguardian.com/business/2021/jul/21/uk-public-services-face-cuts-of-up-to-17bn-says-ifs)
-- [Law Society sounds warning against judicial review bill](https://www.theguardian.com/law/2021/jul/21/law-society-sounds-warning-against-judicial-review-bill)
-- [Enormous balloon could help astronomers get clear view of space](https://www.theguardian.com/science/2021/jul/21/enormous-balloon-superbit-could-help-astronomers-get-clear-view-of-space)
-- [Black Diamonds and the Blue Brazil review – love, loss and lower-league footie](https://www.theguardian.com/stage/2021/jul/21/black-diamonds-and-the-blue-brazil-review-gary-mcnair)
-- [English coastal towns have some of country’s worst health, report says](https://www.theguardian.com/society/2021/jul/21/english-coastal-towns-have-some-of-countrys-worst-health-report-says)
-- [‘Part-time adventurers’: amateur fossil hunters get record haul in Cotswolds](https://www.theguardian.com/science/2021/jul/21/part-time-adventurers-amateur-fossil-hunters-get-record-haul-in-cotswolds)
+- [Biden says children under 12 could be eligible for Covid vaccines within months](https://www.theguardian.com/world/2021/jul/21/us-covid-vaccines-children-under-12-biden)
+- [The Pegasus Project part 4: runaway princesses and the UK connection](https://www.theguardian.com/news/audio/2021/jul/22/today-in-focus-the-pegasus-project-part-4-runaway-princesses-and-the-uk-connection-podcast)
+- [China floods: military blasts dam to release water as death toll climbs](https://www.theguardian.com/world/2021/jul/22/china-floods-military-blasts-dam-release-water-as-floods-death-toll-climbs)
+- [AOC boss John Coates orders Annastacia Palaszczuk to attend Olympic ceremony](https://www.theguardian.com/sport/2021/jul/22/aoc-boss-john-coates-orders-annastacia-palaszczuk-to-attend-olympic-ceremony)
+- [Tesla likely to start accepting bitcoin as payment again, says Elon Musk](https://www.theguardian.com/technology/2021/jul/22/tesla-likely-to-start-accepting-bitcoin-as-payment-again-says-elon-musk)
+- [Harvey Weinstein pleads not guilty to rape and sexual assault in LA trial](https://www.theguardian.com/world/2021/jul/21/harvey-weinstein-los-angeles-trial-sexual-assault-rape)
+- [McCarthy pulls five Republicans from Capitol attack panel after Pelosi rejects two](https://www.theguardian.com/us-news/2021/jul/21/nancy-pelosi-capitol-attack-committee-republicans)
+- [Legal bids mean UK deportation flight to Zimbabwe takes off just one-third full](https://www.theguardian.com/uk-news/2021/jul/22/legal-bids-mean-uk-deportation-flight-to-zimbabwe-takes-off-just-one-third-full)
+- [Damning DCMS report on head injuries in sport seen as ‘turning point’](https://www.theguardian.com/sport/2021/jul/22/damning-dcms-report-on-head-injuries-in-sport-seen-as-turning-point)
+- [‘Fashion can be very exploitative’ – Halima Aden on why she quit modelling](https://www.theguardian.com/fashion/2021/jul/22/fashion-can-be-very-exploitative-halima-aden-on-why-she-quit-modelling)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

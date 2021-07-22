@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [BrandPost: Banking Giant BDO and Huawei Collaborate to Provide Inclusive Financial Services for Filipinos](https://www.computerworld.com/article/3626370/banking-giant-bdo-and-huawei-collaborate-to-provide-inclusive-financial-services-for-filipinos.html#tk.rss_all)
+- [How Valley Behavioral Health uses Slack in a regulated industry](https://www.computerworld.com/article/3625500/how-valley-behavioral-health-uses-slack-in-a-regulated-industry.html#tk.rss_all)
+- [Apple plans an all-5G iPhone range, but not until '22](https://www.computerworld.com/article/3625680/apple-plans-an-all-5g-iphone-range-but-not-until-22.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Voice is becoming a primary search technology](https://www.computerworld.com/article/3625881/voice-is-becoming-a-primary-search-technology.html#tk.rss_all)
 - [Email now and forever](https://www.computerworld.com/article/3625519/email-now-and-forever.html#tk.rss_all)
 - [7 inconvenient truths about the hybrid work trend](https://www.computerworld.com/article/3625492/7-inconvenient-truths-about-the-hybrid-work-trend.html#tk.rss_all)
 - [Zoom buys cloud contact center Five9 for $14.7B](https://www.computerworld.com/article/3625521/zoom-buys-cloud-contact-center-five9-for-147b.html#tk.rss_all)
 - [iPhone spyware: It's a dirty job, but NSO's gonna do it](https://www.computerworld.com/article/3625871/iphone-spyware-its-a-dirty-job-but-nsos-gonna-do-it.html#tk.rss_all)
-- [In the fight against ransomware, Microsoft must do more](https://www.computerworld.com/article/3625870/in-the-fight-against-ransomware-microsoft-must-do-more.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Windows 365 — Microsoft’s cloud-based OS explained](https://www.computerworld.com/article/3625515/what-is-windows-365-microsoft-s-cloud-based-os-explained.html#tk.rss_all)
-- [A big July Patch Tuesday — and the ongoing print nightmare](https://www.computerworld.com/article/3625472/a-big-july-patch-tuesday-and-the-ongoing-print-nightmare.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

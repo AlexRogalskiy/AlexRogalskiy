@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating a windows image for different departments of my company.](https://www.reddit.com/r/InformationTechnology/comments/oox6jr/creating_a_windows_image_for_different/)
+- [Automate tickets based on NMS alerts](https://www.reddit.com/r/InformationTechnology/comments/oom9x0/automate_tickets_based_on_nms_alerts/)
+- [Cyber/information security](https://www.reddit.com/r/InformationTechnology/comments/oohg12/cyberinformation_security/)
 - [IT support courses for working with users with disabilities](https://www.reddit.com/r/InformationTechnology/comments/oo5ulk/it_support_courses_for_working_with_users_with/)
 - [Device to allow for different subnets to communicate](https://www.reddit.com/r/InformationTechnology/comments/onqele/device_to_allow_for_different_subnets_to/)
 - [Hostname Naming Convention](https://www.reddit.com/r/InformationTechnology/comments/okxjck/hostname_naming_convention/)
@@ -413,9 +416,6 @@
 - [Advice on where to start with building a home lab for learning networking fundamentals.](https://www.reddit.com/r/InformationTechnology/comments/oiyjs8/advice_on_where_to_start_with_building_a_home_lab/)
 - [Free Training on Microsoft Azure Fundamentals (AZ-900) - Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/oixlr9/free_training_on_microsoft_azure_fundamentals/)
 - [Are there any career opportunities that open up after getting the CompTIA Trifecta that aren't really open when you only have 1 or 2 out of the 3?](https://www.reddit.com/r/InformationTechnology/comments/oiegaz/are_there_any_career_opportunities_that_open_up/)
-- [How to export emails from an iPhone as a file? No iTunes or iCloud](https://www.reddit.com/r/InformationTechnology/comments/ohk7sp/how_to_export_emails_from_an_iphone_as_a_file_no/)
-- [Does information systems major involve much math](https://www.reddit.com/r/InformationTechnology/comments/ohfw6v/does_information_systems_major_involve_much_math/)
-- [Post Military Transition Thoughts](https://www.reddit.com/r/InformationTechnology/comments/ohasqe/post_military_transition_thoughts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

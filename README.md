@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden says children under 12 could be eligible for Covid vaccines within months](https://www.theguardian.com/world/2021/jul/21/us-covid-vaccines-children-under-12-biden)
-- [The Pegasus Project part 4: runaway princesses and the UK connection](https://www.theguardian.com/news/audio/2021/jul/22/today-in-focus-the-pegasus-project-part-4-runaway-princesses-and-the-uk-connection-podcast)
-- [China floods: military blasts dam to release water as death toll climbs](https://www.theguardian.com/world/2021/jul/22/china-floods-military-blasts-dam-release-water-as-floods-death-toll-climbs)
-- [AOC boss John Coates orders Annastacia Palaszczuk to attend Olympic ceremony](https://www.theguardian.com/sport/2021/jul/22/aoc-boss-john-coates-orders-annastacia-palaszczuk-to-attend-olympic-ceremony)
-- [Tesla likely to start accepting bitcoin as payment again, says Elon Musk](https://www.theguardian.com/technology/2021/jul/22/tesla-likely-to-start-accepting-bitcoin-as-payment-again-says-elon-musk)
-- [Harvey Weinstein pleads not guilty to rape and sexual assault in LA trial](https://www.theguardian.com/world/2021/jul/21/harvey-weinstein-los-angeles-trial-sexual-assault-rape)
-- [McCarthy pulls five Republicans from Capitol attack panel after Pelosi rejects two](https://www.theguardian.com/us-news/2021/jul/21/nancy-pelosi-capitol-attack-committee-republicans)
-- [Legal bids mean UK deportation flight to Zimbabwe takes off just one-third full](https://www.theguardian.com/uk-news/2021/jul/22/legal-bids-mean-uk-deportation-flight-to-zimbabwe-takes-off-just-one-third-full)
-- [Damning DCMS report on head injuries in sport seen as ‘turning point’](https://www.theguardian.com/sport/2021/jul/22/damning-dcms-report-on-head-injuries-in-sport-seen-as-turning-point)
-- [‘Fashion can be very exploitative’ – Halima Aden on why she quit modelling](https://www.theguardian.com/fashion/2021/jul/22/fashion-can-be-very-exploitative-halima-aden-on-why-she-quit-modelling)
+- [The Pegasus project part 5: the fightback against private spyware begins](https://www.theguardian.com/news/audio/2021/jul/23/the-pegasus-project-part-5-the-fightback-against-private-spyware-begins)
+- [Man who endured weeklong attacks by grizzly bear rescued after SOS spotted](https://www.theguardian.com/us-news/2021/jul/22/alaska-man-repeated-attacks-grizzly-bear-rescued)
+- [Michael Vaughan says England players may not make Ashes tour if families are barred](https://www.theguardian.com/sport/2021/jul/23/michael-vaughan-says-england-players-may-not-make-ashes-tour-if-families-are-barred)
+- [Bougainville health minister and family lost at sea after boat sinks off Papua New Guinea](https://www.theguardian.com/world/2021/jul/23/bougainville-health-minister-and-family-lost-at-sea-after-boat-sinks-off-papua-new-guinea)
+- [About 100 CIA officers and family have been sickened by Havana syndrome](https://www.theguardian.com/us-news/2021/jul/22/havana-syndrome-cia-officers-family)
+- [Tech firm hit by giant ransomware hack gets key to unlock victims’ data](https://www.theguardian.com/technology/2021/jul/22/ransomware-attack-kaseya-key-hacking)
+- [Six taken to hospital after car hits crowd outside pub in south Wales](https://www.theguardian.com/uk-news/2021/jul/23/six-taken-to-hospital-after-car-hits-crowd-outside-pub-in-south-wales)
+- [Thousands aged over 65 failed to apply for EU settled status – report](https://www.theguardian.com/politics/2021/jul/23/thousand-aged-over-65-failed-apply-eu-settled-status-report)
+- [Winnie-the-Pooh goes to Harrods in new authorised AA Milne prequel](https://www.theguardian.com/books/2021/jul/23/winnie-the-pooh-goes-to-harrods-in-new-authorised-aa-milne-prequel)
+- [UK faces legal action over North Sea oilfield exploration plans](https://www.theguardian.com/business/2021/jul/23/uk-faces-legal-action-over-north-sea-cambo-oilfield-exploration-plans)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lockdown Bait and Switch – By Matt Shapiro – Marginally Compelling](https://polimath.substack.com/p/lockdown-bait-and-switch)
-- [Twitter tests Reddit-style upvote and downvote buttons](https://techcrunch.com/2021/07/21/twitter-tests-reddit-style-upvote-and-downvote-buttons/)
-- [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
-- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
-- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
-- [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
-- [Dover (YC S19) just raised $20M and is hiring our first engineering manager](https://www.dover.com/open-roles/engineering-manager)
-- [Show HN: Web-based visualization for robotics and autonomous vehicles](https://foxglove.dev/)
-- [Man Arrested in Connection with Alleged Role in Twitter Hack](https://www.justice.gov/opa/pr/man-arrested-connection-alleged-role-twitter-hack)
-- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
+- [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
+- [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
+- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
+- [The engineer preserving the last analog motion graphics machine (2017) [video]](https://www.youtube.com/watch?v=0wxc3mKqKTk)
+- [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
+- [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [iDOS 2 will be gone soon](https://litchie.com/2021/07/idos2-will-be-gone)
+- [Translating Jabberwocky into Japanese](https://j-entranslations.com/two-japanese-jabberwocky-poems/)
+- [The Tyranny of Spreadsheets](https://timharford.com/2021/07/the-tyranny-of-spreadsheets/)
+- [Most URLs are syntactically valid JavaScript code](https://george.mand.is/2021/06/idle-javascript-observations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

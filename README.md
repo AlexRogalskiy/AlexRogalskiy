@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [How to run R in Visual Studio Code](https://www.infoworld.com/article/3625488/how-to-run-r-in-visual-studio-code.html#tk.rss_all)
+- [An introduction to time series forecasting](https://www.infoworld.com/article/3622246/an-introduction-to-time-series-forecasting.html#tk.rss_all)
+- [What is SaaS? Software as a service defined](https://www.infoworld.com/article/3226386/what-is-saas-software-as-a-service-defined.html#tk.rss_all)
 - [Java state API would speed app startup](https://www.infoworld.com/article/3626351/java-state-api-would-speed-app-startup.html#tk.rss_all)
 - [Get your Visual Studio extensions ready for 64-bit](https://www.infoworld.com/article/3626195/get-your-visual-studio-extensions-ready-for-64-bit.html#tk.rss_all)
 - [6 essential Python tools for data science—now improved](https://www.infoworld.com/article/3233250/6-essential-python-tools-for-data-science-now-improved.html#tk.rss_all)
 - [Visual Studio Code 1.58 improves debugging, Jupyter Notebook support](https://www.infoworld.com/article/3626031/visual-studio-code-158-improves-debugging-jupyter-notebook-support.html#tk.rss_all)
 - [Why companies get stuck in the middle of their devops journey](https://www.infoworld.com/article/3625677/why-companies-get-stuck-in-the-middle-of-their-devops-journey.html#tk.rss_all)
-- [How to use HTTP logging in ASP.NET Core 6](https://www.infoworld.com/article/3625494/how-to-use-http-logging-in-aspnet-core-6.html#tk.rss_all)
-- [Cloud-native apps don’t have to stay DRY](https://www.infoworld.com/article/3625455/cloud-native-apps-dont-have-to-stay-dry.html#tk.rss_all)
-- [Microsoft’s Visual Studio 2022 Preview 2 arrives](https://www.infoworld.com/article/3625478/microsofts-visual-studio-2022-preview-2-arrives.html#tk.rss_all)
-- [GitHub Copilot isn’t changing the future](https://www.infoworld.com/article/3625517/github-copilot-isnt-changing-the-future.html#tk.rss_all)
-- [Not all analytics are created equal](https://www.infoworld.com/article/3625233/not-all-analytics-are-created-equal.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Plans to address legal but harmful content ‘threaten free speech’](https://www.computerweekly.com/news/252504368/Plans-to-address-legal-but-harmful-content-threat-to-free-speech)
+- [UK government publishes full Innovation Strategy](https://www.computerweekly.com/news/252504367/UK-government-publishes-full-Innovation-Strategy)
+- [DNA storage promises 10 million x storage capacity boost](https://www.computerweekly.com/feature/DNA-storage-promises-10-million-x-storage-capacity-boost)
+- [Government to fund interim compensation of up to £100,000 for each wrongly convicted subpostmaster](https://www.computerweekly.com/news/252504363/Government-to-fund-interim-compensation-of-up-to-100000-for-each-wrongly-convicted-subpostmaster)
+- [IR35: Government sets out plan to rid contractor market of non-compliant umbrellas and loan schemes](https://www.computerweekly.com/news/252504353/IR35-Government-sets-out-plan-to-rid-contractor-market-of-non-compliant-umbrellas-and-loan-schemes)
+- [Most Influential Women in UK Tech: The 2021 longlist](https://www.computerweekly.com/news/252504347/Most-Influential-Women-in-UK-Tech-The-2021-longlist)
+- [Research: Cultural barriers hold enterprises back from building ‘high-performing’ DevOps teams](https://www.computerweekly.com/news/252504323/Research-Cultural-barriers-hold-enterprises-back-from-building-high-performing-DevOps-teams)
+- [Respect in Security challenges abuse and harassment in cyber](https://www.computerweekly.com/news/252504309/Respect-in-Security-challenges-abuse-and-harassment-in-cyber)
+- [New thinking and systems required to tackle online fraud in retail](https://www.computerweekly.com/feature/New-thinking-and-systems-required-to-tackle-online-fraud-in-retail)
 - [Infosys to open German operation focused on automotive sector](https://www.computerweekly.com/news/252504316/Infosys-to-open-German-operation-focused-on-automotive-sector)
-- [Datacentre capacity demand remains strong, fuelling continued growth of secondary colo hubs in EMEA](https://www.computerweekly.com/news/252504291/Datacentre-capacity-demand-remains-strong-fuelling-continued-growth-of-secondary-colo-hubs-in-EMEA)
-- [Government officials lack experience to lead digital transformation, says NAO](https://www.computerweekly.com/news/252504290/Government-officials-lack-experience-to-lead-digital-transformation-says-NAO)
-- [SAP Q2 2021: revenue down 1%, 600 new S/4 Hana signups](https://www.computerweekly.com/news/252504292/SAP-Q2-2021-revenue-down-1-600-new-S-4-Hana-signups)
-- [Cloud Foundry Foundation rebalances commercial code contributions](https://www.computerweekly.com/news/252504293/Cloud-Foundry-Foundation-rebalances-commercial-code-contributions)
-- [Interview: Chano Fernandez, co-CEO of Workday – a European co-helming a Californian enterprise](https://www.computerweekly.com/news/252504087/Chano-Fernandez-co-CEO-of-Workday-A-European-co-helming-a-Californian-enterprise)
-- [Thomson Reuters fleshes out multicloud strategy with Oracle application migration deal](https://www.computerweekly.com/news/252504282/Thomson-Reuters-fleshes-out-multicloud-strategy-with-Oracle-application-migration-deal)
-- [Makers launches third year of the Women in Software Powerlist](https://www.computerweekly.com/news/252504261/Makers-launches-third-year-of-the-Women-in-Software-Powerlist)
-- [France’s Macron among alleged Pegasus targets](https://www.computerweekly.com/news/252504287/Frances-Macron-among-alleged-Pegasus-targets)
-- [Research and development investment programme launches in UK](https://www.computerweekly.com/news/252504260/Research-and-development-investment-programme-launches-in-UK)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

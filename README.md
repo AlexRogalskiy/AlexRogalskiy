@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Extreme Weather Sweeps the World as Natural Disasters Unleash on 3 Continents](https://www.businessinsider.com/photo-video-europe-china-flooding-oregon-siberia-canada-wildfires-2021-7)
-- [Spyware hijacks smartphones, threatens journalists (2018)](https://www.cjr.org/watchdog/pegasus-israeli-spyware.php)
-- [Multi Stage Inference for TinyML Devices](https://twitter.com/csoham_/status/1417853268630204416)
-- [Scientists Create World’s Thinnest Magnet: one-atom-thin](https://newscenter.lbl.gov/2021/07/20/worlds-thinnest-magnet/)
-- [Neural Fixed-Point Acceleration for Convex Optimization](https://arxiv.org/abs/2107.10254)
-- [The Bad Marriage Problem](https://avc.com/2021/07/the-bad-marriage-problem/)
-- [Study raises prospect of 'fine-tuning' immune response thru individual T-cells](https://medicalxpress.com/news/2021-07-prospect-fine-tuning-immune-response-individual.html)
-- [Lockdown Bait and Switch – By Matt Shapiro – Marginally Compelling](https://polimath.substack.com/p/lockdown-bait-and-switch)
-- [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
-- [Senior data engineer or Senior Datawarehousing engineer](https://news.ycombinator.com/item?id=27914485)
+- [The Illustrated Wav2vec: Like GPT, but for Speech](https://jonathanbgn.com/2021/06/29/illustrated-wav2vec.html)
+- [Built to keep Black from white: The story behind Detroit's 'Wailing Wall'](https://www.yahoo.com/now/built-keep-black-white-story-235805650.html)
+- [The core of the Linux kernel -stable debate](https://lwn.net/SubscriberLink/863505/c4320120efe0b98c/)
+- [Human Genome Database](https://arstechnica.com/science/2021/07/google-turns-alphafold-loose-on-the-entire-human-genome/)
+- [Malicious NPM package steals Chrome passwords](https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/)
+- [A Grizzly Bear Terrorized a Man in a Remote Cabin for Days in Alaska](https://www.nytimes.com/2021/07/22/us/bear-attack-alaska.html)
+- [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/abs/2103.11251)
+- [iOS 15 introduces background sounds](https://twitter.com/soheil/status/1418391951368351744)
+- [PCEngines with SFP](https://ipng.ch/s/articles/2021/07/19/pcengines-apu6.html)
+- [JetBrains the State of Developer Ecosystem 2021: Rust](https://www.jetbrains.com/lp/devecosystem-2021/rust/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

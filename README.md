@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [LG to use 100% renewable energy by 2050](https://www.itworldcanada.com/article/lg-to-use-100-renewable-energy-by-2050/456184)
+- [Several communication, financial and transportation website outages reported through Canada and the U.S.](https://www.itworldcanada.com/article/several-communication-financial-and-transportation-website-outages-reported-through-canada-and-the-u-s/456180)
+- [Hashtag Trending July 22 – Macron Targeted by Pegasus; Venmo removes a controversial feature; DuckDuckGo introduces email protection](https://www.itworldcanada.com/article/hashtag-trending-july-22-macron-targeted-by-pegasus-venmo-removes-a-controversial-feature-duckduckgo-introduces-email-protection/456167)
 - [Panasonic releases the Toughbook G2 modular rugged PC](https://www.itworldcanada.com/article/panasonic-releases-the-toughbook-g2-modular-rugged-pc/456141)
 - [Huawei network gear again fails to meet cybersecurity quality, says UK board](https://www.itworldcanada.com/article/huawei-network-gear-again-fails-to-meet-cybersecurity-quality-says-uk-board/456099)
 - [Two Linux vulnerabilities give exploiters root privileges](https://www.itworldcanada.com/article/two-linux-vulnerabilities-give-exploiters-root-privileges/456123)
@@ -428,9 +431,6 @@
 - [Cyber Security Today, July 21, 2021 – Another printer vulnerability found, and more corporate ransomware victims](https://www.itworldcanada.com/article/cyber-security-today-july-21-2021-another-printer-vulnerability-found-and-more-corporate-ransomware-victims/456090)
 - [Hashtag Trending July 21- Apple delays return to office plans; WhatsApp blocks 2 million accounts; Jeff Bezos goes to space](https://www.itworldcanada.com/article/hashtag-trending-july-21-apple-delays-return-to-office-plans-whatsapp-blocks-2-million-accounts-jeff-bezos-goes-to-space/456105)
 - [Tesla turns ‘full self-driving’ into a subscription](https://www.itworldcanada.com/article/tesla-turns-full-self-driving-into-a-subscription/456091)
-- [The U.S. wants to prevent China from buying advanced chip manufacturing equipment](https://www.itworldcanada.com/article/the-u-s-wants-to-prevent-china-from-buying-advanced-chip-manufacturing-equipment/456070)
-- [Zoom to acquire cloud contact centre provider Five9 for $14.7 billion](https://www.itworldcanada.com/article/zoom-to-acquire-cloud-contact-centre-provider-five9-for-14-7-billion/456061)
-- [Accenture acquires Toronto-based Cloudworks to expand Oracle footprint in Canada](https://www.itworldcanada.com/article/accenture-acquires-toronto-based-cloudworks-to-expand-oracle-footprint-in-canada/456053)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

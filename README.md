@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Blockchain Gets Real Across Industries](https://www.informationweek.com/big-data/blockchain-gets-real-across-industries/d/d-id/1341560?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Why IT Should Be the Next Focus of Your Sustainability Efforts](https://www.informationweek.com/strategic-cio/why-it-should-be-the-next-focus-of-your-sustainability-efforts--/a/d-id/1341561?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How the JEDI Cancellation May Influence Future IT Contracts](https://www.informationweek.com/cloud/how-the-jedi-cancellation-may-influence-future-it-contracts/d/d-id/1341558?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Ways to Build a Talented and Reliable Work-at-Home IT Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-build-a-talented-and-reliable-work-at-home-it-workforce/a/d-id/1341555?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Remote Work Tops SF, NYC for Most High-Paying Job Openings](https://www.informationweek.com/strategic-cio/team-building-and-staffing/remote-work-tops-sf-nyc-for-most-high-paying-job-openings/d/d-id/1341553?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [How Cloud Can Drive Sustainable, Data-Driven Success](https://www.informationweek.com/cloud/how-cloud-can-drive-sustainable-data-driven-success/a/d-id/1341543?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [SAS Founders Call Off Sales Talks with Broadcom](https://www.informationweek.com/big-data/software-platforms/sas-founders-call-off-sales-talks-with-broadcom/a/d-id/1341536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How to Best Assess Your Security Posture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Building a Post-Pandemic Cloud Strategy](https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Become an IT Industry Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

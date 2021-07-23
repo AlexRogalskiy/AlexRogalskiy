@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IaaS, DaaS difference](https://www.reddit.com/r/InformationTechnology/comments/opp2dx/iaas_daas_difference/)
+- [Unsure of what to do](https://www.reddit.com/r/InformationTechnology/comments/op99d5/unsure_of_what_to_do/)
 - [Creating a windows image for different departments of my company.](https://www.reddit.com/r/InformationTechnology/comments/oox6jr/creating_a_windows_image_for_different/)
 - [Automate tickets based on NMS alerts](https://www.reddit.com/r/InformationTechnology/comments/oom9x0/automate_tickets_based_on_nms_alerts/)
 - [Cyber/information security](https://www.reddit.com/r/InformationTechnology/comments/oohg12/cyberinformation_security/)
@@ -414,8 +416,6 @@
 - [Hostname Naming Convention](https://www.reddit.com/r/InformationTechnology/comments/okxjck/hostname_naming_convention/)
 - [What other options in IT does a Computer science degree open up instead of software development?](https://www.reddit.com/r/InformationTechnology/comments/okvzfs/what_other_options_in_it_does_a_computer_science/)
 - [Advice on where to start with building a home lab for learning networking fundamentals.](https://www.reddit.com/r/InformationTechnology/comments/oiyjs8/advice_on_where_to_start_with_building_a_home_lab/)
-- [Free Training on Microsoft Azure Fundamentals (AZ-900) - Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/oixlr9/free_training_on_microsoft_azure_fundamentals/)
-- [Are there any career opportunities that open up after getting the CompTIA Trifecta that aren't really open when you only have 1 or 2 out of the 3?](https://www.reddit.com/r/InformationTechnology/comments/oiegaz/are_there_any_career_opportunities_that_open_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

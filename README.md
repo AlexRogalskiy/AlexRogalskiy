@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Pegasus project part 5: the fightback against private spyware begins](https://www.theguardian.com/news/audio/2021/jul/23/the-pegasus-project-part-5-the-fightback-against-private-spyware-begins)
-- [Man who endured weeklong attacks by grizzly bear rescued after SOS spotted](https://www.theguardian.com/us-news/2021/jul/22/alaska-man-repeated-attacks-grizzly-bear-rescued)
-- [Michael Vaughan says England players may not make Ashes tour if families are barred](https://www.theguardian.com/sport/2021/jul/23/michael-vaughan-says-england-players-may-not-make-ashes-tour-if-families-are-barred)
-- [Bougainville health minister and family lost at sea after boat sinks off Papua New Guinea](https://www.theguardian.com/world/2021/jul/23/bougainville-health-minister-and-family-lost-at-sea-after-boat-sinks-off-papua-new-guinea)
-- [About 100 CIA officers and family have been sickened by Havana syndrome](https://www.theguardian.com/us-news/2021/jul/22/havana-syndrome-cia-officers-family)
-- [Tech firm hit by giant ransomware hack gets key to unlock victims’ data](https://www.theguardian.com/technology/2021/jul/22/ransomware-attack-kaseya-key-hacking)
-- [Six taken to hospital after car hits crowd outside pub in south Wales](https://www.theguardian.com/uk-news/2021/jul/23/six-taken-to-hospital-after-car-hits-crowd-outside-pub-in-south-wales)
-- [Thousands aged over 65 failed to apply for EU settled status – report](https://www.theguardian.com/politics/2021/jul/23/thousand-aged-over-65-failed-apply-eu-settled-status-report)
-- [Winnie-the-Pooh goes to Harrods in new authorised AA Milne prequel](https://www.theguardian.com/books/2021/jul/23/winnie-the-pooh-goes-to-harrods-in-new-authorised-aa-milne-prequel)
-- [UK faces legal action over North Sea oilfield exploration plans](https://www.theguardian.com/business/2021/jul/23/uk-faces-legal-action-over-north-sea-cambo-oilfield-exploration-plans)
+- [Unesco urged not to give heritage status to Thai park amid claims of Indigenous abuses](https://www.theguardian.com/world/2021/jul/24/thailand-unesco-world-heritage-status-kaeng-krachan-national-park-claims-of-indigenous-abuses)
+- [Search for bodies in Florida condo collapse ends, with death toll at 97](https://www.theguardian.com/us-news/2021/jul/23/search-for-bodies-in-florida-condo-collapse-ends-with-death-toll-at-97)
+- [Esther Dingley family call for clarity after claim human remains found in Pyrenees](https://www.theguardian.com/uk-news/2021/jul/24/esther-dingley-missing-british-hiker-family-clarity-report-human-remains-found-pyrenees)
+- [Sydney Star casino baccarat dealer convicted over $500,000 illegal betting scam](https://www.theguardian.com/australia-news/2021/jul/24/sydney-star-casino-baccarat-dealer-convicted-over-500000-betting-scam)
+- [Surf’s up: a watershed moment for boarders at the Tokyo Games](https://www.theguardian.com/sport/2021/jul/24/surfs-up-a-watershed-moment-for-boarders-at-the-tokyo-games)
+- [All that glitters: why lab-made gems might not be an ethical alternative](https://www.theguardian.com/environment/2021/jul/24/all-that-glitters-why-lab-made-gems-might-not-be-an-ethical-alternative)
+- [Inflatable dinghies and Zoom medical training: how a remote Pacific atoll got Pfizer](https://www.theguardian.com/world/2021/jul/24/inflatable-dinghies-and-zoom-medical-training-how-a-remote-pacific-atoll-got-pfizer)
+- [Bull on the run: ‘Barney’ eludes capture days after Long Island farm escape](https://www.theguardian.com/us-news/2021/jul/23/bull-run-long-island-new-york-police)
+- [World Heritage Committee agrees not to place Great Barrier Reef on ‘in danger’ list](https://www.theguardian.com/environment/2021/jul/23/world-heritage-committee-agrees-not-to-place-great-barrier-reef-on-in-danger-list)
+- [England facing weeks of ‘pingdemic’ disruption to services and food supply](https://www.theguardian.com/world/2021/jul/23/england-facing-weeks-of-pingdemic-disruption-to-services-and-food-supply)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

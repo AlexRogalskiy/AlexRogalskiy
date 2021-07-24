@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Illustrated Wav2vec: Like GPT, but for Speech](https://jonathanbgn.com/2021/06/29/illustrated-wav2vec.html)
-- [Built to keep Black from white: The story behind Detroit's 'Wailing Wall'](https://www.yahoo.com/now/built-keep-black-white-story-235805650.html)
-- [The core of the Linux kernel -stable debate](https://lwn.net/SubscriberLink/863505/c4320120efe0b98c/)
-- [Human Genome Database](https://arstechnica.com/science/2021/07/google-turns-alphafold-loose-on-the-entire-human-genome/)
-- [Malicious NPM package steals Chrome passwords](https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/)
-- [A Grizzly Bear Terrorized a Man in a Remote Cabin for Days in Alaska](https://www.nytimes.com/2021/07/22/us/bear-attack-alaska.html)
-- [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/abs/2103.11251)
-- [iOS 15 introduces background sounds](https://twitter.com/soheil/status/1418391951368351744)
-- [PCEngines with SFP](https://ipng.ch/s/articles/2021/07/19/pcengines-apu6.html)
-- [JetBrains the State of Developer Ecosystem 2021: Rust](https://www.jetbrains.com/lp/devecosystem-2021/rust/)
+- [First RISC-V-Based Linux PC Coupled with an AMD RX 6700 XT GPU](https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html)
+- [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+- [Windows 98: Should you upgrade now or never? (1998)](http://www.cnn.com/TECH/computing/9806/24/win98.idg/index.html)
+- [An Introduction to Data Science on the Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/)
+- [Self-balancing Honda electric scooter redefines futuristic urban commuting](https://www.yankodesign.com/2021/07/22/this-self-balancing-honda-electric-scooter-redefines-futuristic-urban-commuting/)
+- [Apple Working on External Display with Built-In A13 Chip](https://www.macrumors.com/2021/07/23/apple-developing-external-display-with-a13-chip/)
+- [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
+- [GtkInspector – built-in interactive debugging support in GTK](https://wiki.gnome.org/action/show/Projects/GTK/Inspector)
+- [Mental Health Response Teams Yield Better Outcomes Than Police in NYC, Data](https://www.npr.org/2021/07/23/1019704823/police-mental-health-crisis-calls-new-york-city)
+- [What termites and cells have in common](https://www.mpg.de/what-termites-and-cells-have-in-common?c=2249)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

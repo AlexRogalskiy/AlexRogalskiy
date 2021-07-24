@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data and Analytics Salaries Heat Up in Recovery Economy](https://www.informationweek.com/strategic-cio/team-building-and-staffing/data-and-analytics-salaries-heat-up-in-recovery-economy/d/d-id/1341562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Bridging from Now to the Pure Digital Future](https://www.informationweek.com/strategic-cio/digital-business/bridging-from-now-to-the-pure-digital-future/a/d-id/1341559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Blockchain Gets Real Across Industries](https://www.informationweek.com/big-data/blockchain-gets-real-across-industries/d/d-id/1341560?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why IT Should Be the Next Focus of Your Sustainability Efforts](https://www.informationweek.com/strategic-cio/why-it-should-be-the-next-focus-of-your-sustainability-efforts--/a/d-id/1341561?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How the JEDI Cancellation May Influence Future IT Contracts](https://www.informationweek.com/cloud/how-the-jedi-cancellation-may-influence-future-it-contracts/d/d-id/1341558?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [3 Ways To Make Conversational AI Work For Your Organization](https://www.informationweek.com/big-data/ai-machine-learning/3-ways-to-make-conversational-ai-work-for-your-organization/a/d-id/1341547?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Seeking a Competitive Edge vs. Chasing Savings in the Cloud](https://www.informationweek.com/cloud/seeking-a-competitive-edge-vs-chasing-savings-in-the-cloud/a/d-id/1341546?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [How Cloud Can Drive Sustainable, Data-Driven Success](https://www.informationweek.com/cloud/how-cloud-can-drive-sustainable-data-driven-success/a/d-id/1341543?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [SAS Founders Call Off Sales Talks with Broadcom](https://www.informationweek.com/big-data/software-platforms/sas-founders-call-off-sales-talks-with-broadcom/a/d-id/1341536?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Best Assess Your Security Posture](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

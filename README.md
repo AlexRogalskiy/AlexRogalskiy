@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple admins get a new remote support option](https://www.computerworld.com/article/3626359/apple-admins-get-a-new-remote-support-option.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [Avoid calendar clashes with a new breed of scheduling apps](https://www.computerworld.com/article/3626452/avoid-calendar-clashes-with-a-new-breed-of-scheduling-apps.html#tk.rss_all)
+- [How to fix a frozen Start menu or taskbar in Windows 10](https://www.computerworld.com/article/3624009/how-to-fix-a-frozen-start-menu-or-taskbar-in-windows-10.html#tk.rss_all)
+- [Cisco and the future of collaboration: What’s to come?](https://www.computerworld.com/article/3626377/cisco-and-the-future-of-collaboration-what-s-to-come.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Podcast: Pegasus spyware and iPhone security](https://www.computerworld.com/article/3626435/podcast-pegasus-spyware-and-iphone-security.html#tk.rss_all)
 - [Scary ‘malware-as-a-service’ Mac attack discovered](https://www.computerworld.com/article/3626431/scary-malware-as-a-service-mac-attack-discovered.html#tk.rss_all)
 - [10 Gboard shortcuts that'll give you Android typing superpowers](https://www.computerworld.com/article/3626191/gboard-shortcuts-android.html#tk.rss_all)
 - [Windows 11: Déjà vu all over again?](https://www.computerworld.com/article/3626451/windows-11-deja-vu-all-over-again.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Zoom eyes new video needs in a hybrid workplace world](https://www.computerworld.com/article/3626197/zoom-eyes-new-video-needs-in-a-hybrid-workplace-world.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [BrandPost: Banking Giant BDO and Huawei Collaborate to Provide Inclusive Financial Services for Filipinos](https://www.computerworld.com/article/3626370/banking-giant-bdo-and-huawei-collaborate-to-provide-inclusive-financial-services-for-filipinos.html#tk.rss_all)
-- [How Valley Behavioral Health uses Slack in a regulated industry](https://www.computerworld.com/article/3625500/how-valley-behavioral-health-uses-slack-in-a-regulated-industry.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

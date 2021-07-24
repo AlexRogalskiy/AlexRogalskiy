@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
-- [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
-- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
-- [The engineer preserving the last analog motion graphics machine (2017) [video]](https://www.youtube.com/watch?v=0wxc3mKqKTk)
-- [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
-- [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [iDOS 2 will be gone soon](https://litchie.com/2021/07/idos2-will-be-gone)
-- [Translating Jabberwocky into Japanese](https://j-entranslations.com/two-japanese-jabberwocky-poems/)
-- [The Tyranny of Spreadsheets](https://timharford.com/2021/07/the-tyranny-of-spreadsheets/)
-- [Most URLs are syntactically valid JavaScript code](https://george.mand.is/2021/06/idle-javascript-observations/)
+- [Striking to End Suicide Shifts, Frito-Lay Workers Ask People to Drop the Doritos](https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi)
+- [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)
+- [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov](https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/)
+- [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
+- [Feynman vs. the Abacus (1985)](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
+- [My Steam Game Revenue Stats](https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/)
+- [Tropical Rainforest Index](https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/)
+- [The Antikythera Mechanism](https://www.world-archaeology.com/features/the-antikythera-mechanism/)
+- [Released from a gag order regarding a federal investigation into a silly comment](https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

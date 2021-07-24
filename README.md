@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Most Influential Women in UK Tech 2021: Entrants to the Hall of Fame](https://www.computerweekly.com/news/252504433/Most-Influential-Women-in-UK-Tech-2021-Entrants-to-the-Hall-of-Fame)
+- [DWP hit with £87.9m tax bill by HMRC over 'historic' IR35 status contractor assessment errors](https://www.computerweekly.com/news/252504412/DWP-pays-HMRC-879m-after-IR35-review-reveals-historic-contractor-tax-status-assessment-errors)
+- [TfL under fire for relying on Uber facial-verification data in licensing decisions](https://www.computerweekly.com/news/252504369/TfL-under-fire-for-relying-on-Uber-facial-verification-data-in-licensing-decisions)
+- [SAS steps up free data skills programme for job seekers](https://www.computerweekly.com/news/252504411/SAS-steps-up-free-data-skills-programme-for-job-seekers)
+- [Kaseya obtains universal ransomware decryptor](https://www.computerweekly.com/news/252504410/Kaseya-obtains-universal-ransomware-decryptor)
+- [BCS, Royal Statistical Society, Alan Turing Institute combine to cement data science professionalism](https://www.computerweekly.com/news/252504366/BCS-Royal-Statistical-Society-Alan-Turing-Institute-combine-to-cement-data-science-professionalism)
 - [Plans to address legal but harmful content ‘threaten free speech’](https://www.computerweekly.com/news/252504368/Plans-to-address-legal-but-harmful-content-threat-to-free-speech)
 - [UK government publishes full Innovation Strategy](https://www.computerweekly.com/news/252504367/UK-government-publishes-full-Innovation-Strategy)
 - [DNA storage promises 10 million x storage capacity boost](https://www.computerweekly.com/feature/DNA-storage-promises-10-million-x-storage-capacity-boost)
 - [Government to fund interim compensation of up to £100,000 for each wrongly convicted subpostmaster](https://www.computerweekly.com/news/252504363/Government-to-fund-interim-compensation-of-up-to-100000-for-each-wrongly-convicted-subpostmaster)
-- [IR35: Government sets out plan to rid contractor market of non-compliant umbrellas and loan schemes](https://www.computerweekly.com/news/252504353/IR35-Government-sets-out-plan-to-rid-contractor-market-of-non-compliant-umbrellas-and-loan-schemes)
-- [Most Influential Women in UK Tech: The 2021 longlist](https://www.computerweekly.com/news/252504347/Most-Influential-Women-in-UK-Tech-The-2021-longlist)
-- [Research: Cultural barriers hold enterprises back from building ‘high-performing’ DevOps teams](https://www.computerweekly.com/news/252504323/Research-Cultural-barriers-hold-enterprises-back-from-building-high-performing-DevOps-teams)
-- [Respect in Security challenges abuse and harassment in cyber](https://www.computerweekly.com/news/252504309/Respect-in-Security-challenges-abuse-and-harassment-in-cyber)
-- [New thinking and systems required to tackle online fraud in retail](https://www.computerweekly.com/feature/New-thinking-and-systems-required-to-tackle-online-fraud-in-retail)
-- [Infosys to open German operation focused on automotive sector](https://www.computerweekly.com/news/252504316/Infosys-to-open-German-operation-focused-on-automotive-sector)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

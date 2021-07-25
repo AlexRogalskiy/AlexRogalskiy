@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [10 Gboard shortcuts that'll change how you type on Android](https://www.computerworld.com/article/3626191/gboard-android-shortcuts.html#tk.rss_all)
 - [Apple admins get a new remote support option](https://www.computerworld.com/article/3626359/apple-admins-get-a-new-remote-support-option.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [Avoid calendar clashes with a new breed of scheduling apps](https://www.computerworld.com/article/3626452/avoid-calendar-clashes-with-a-new-breed-of-scheduling-apps.html#tk.rss_all)
@@ -354,7 +355,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Podcast: Pegasus spyware and iPhone security](https://www.computerworld.com/article/3626435/podcast-pegasus-spyware-and-iphone-security.html#tk.rss_all)
 - [Scary ‘malware-as-a-service’ Mac attack discovered](https://www.computerworld.com/article/3626431/scary-malware-as-a-service-mac-attack-discovered.html#tk.rss_all)
-- [10 Gboard shortcuts that'll give you Android typing superpowers](https://www.computerworld.com/article/3626191/gboard-shortcuts-android.html#tk.rss_all)
 - [Windows 11: Déjà vu all over again?](https://www.computerworld.com/article/3626451/windows-11-deja-vu-all-over-again.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 

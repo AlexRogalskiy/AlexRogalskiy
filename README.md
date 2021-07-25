@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just a question , Is it possible to share IT video tutorials from YouTube in this IT Reddit ?](https://www.reddit.com/r/InformationTechnology/comments/oqrmoj/just_a_question_is_it_possible_to_share_it_video/)
+- [what cool things to do with dell poweredge r610](https://www.reddit.com/r/InformationTechnology/comments/oqmtqv/what_cool_things_to_do_with_dell_poweredge_r610/)
+- [Should You Do Help Desk to Get Into IT - Video](https://www.reddit.com/r/InformationTechnology/comments/oqim0i/should_you_do_help_desk_to_get_into_it_video/)
 - [IaaS, DaaS difference](https://www.reddit.com/r/InformationTechnology/comments/opp2dx/iaas_daas_difference/)
 - [Unsure of what to do](https://www.reddit.com/r/InformationTechnology/comments/op99d5/unsure_of_what_to_do/)
 - [Creating a windows image for different departments of my company.](https://www.reddit.com/r/InformationTechnology/comments/oox6jr/creating_a_windows_image_for_different/)
@@ -413,9 +416,6 @@
 - [Cyber/information security](https://www.reddit.com/r/InformationTechnology/comments/oohg12/cyberinformation_security/)
 - [IT support courses for working with users with disabilities](https://www.reddit.com/r/InformationTechnology/comments/oo5ulk/it_support_courses_for_working_with_users_with/)
 - [Device to allow for different subnets to communicate](https://www.reddit.com/r/InformationTechnology/comments/onqele/device_to_allow_for_different_subnets_to/)
-- [Hostname Naming Convention](https://www.reddit.com/r/InformationTechnology/comments/okxjck/hostname_naming_convention/)
-- [What other options in IT does a Computer science degree open up instead of software development?](https://www.reddit.com/r/InformationTechnology/comments/okvzfs/what_other_options_in_it_does_a_computer_science/)
-- [Advice on where to start with building a home lab for learning networking fundamentals.](https://www.reddit.com/r/InformationTechnology/comments/oiyjs8/advice_on_where_to_start_with_building_a_home_lab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

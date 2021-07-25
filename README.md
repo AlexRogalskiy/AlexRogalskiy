@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Striking to End Suicide Shifts, Frito-Lay Workers Ask People to Drop the Doritos](https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi)
-- [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)
-- [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov](https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/)
-- [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
-- [Feynman vs. the Abacus (1985)](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
-- [My Steam Game Revenue Stats](https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/)
-- [Tropical Rainforest Index](https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/)
-- [The Antikythera Mechanism](https://www.world-archaeology.com/features/the-antikythera-mechanism/)
-- [Released from a gag order regarding a federal investigation into a silly comment](https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml)
+- [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
+- [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
+- [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
+- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
+- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
+- [A Tour of the Fuchsia Operating System](https://www.youtube.com/watch?v=gIT1ISCioDY)
+- [Hobson's Browser: How Apple, Facebook and Google broke the mobile browser market](https://infrequently.org/2021/07/hobsons-browser/)
+- [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
+- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
+- [Form Energy reveals the chemistry of its long-duration battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

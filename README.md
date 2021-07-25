@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Unesco urged not to give heritage status to Thai park amid claims of Indigenous abuses](https://www.theguardian.com/world/2021/jul/24/thailand-unesco-world-heritage-status-kaeng-krachan-national-park-claims-of-indigenous-abuses)
-- [Search for bodies in Florida condo collapse ends, with death toll at 97](https://www.theguardian.com/us-news/2021/jul/23/search-for-bodies-in-florida-condo-collapse-ends-with-death-toll-at-97)
-- [Esther Dingley family call for clarity after claim human remains found in Pyrenees](https://www.theguardian.com/uk-news/2021/jul/24/esther-dingley-missing-british-hiker-family-clarity-report-human-remains-found-pyrenees)
-- [Sydney Star casino baccarat dealer convicted over $500,000 illegal betting scam](https://www.theguardian.com/australia-news/2021/jul/24/sydney-star-casino-baccarat-dealer-convicted-over-500000-betting-scam)
-- [Surf’s up: a watershed moment for boarders at the Tokyo Games](https://www.theguardian.com/sport/2021/jul/24/surfs-up-a-watershed-moment-for-boarders-at-the-tokyo-games)
-- [All that glitters: why lab-made gems might not be an ethical alternative](https://www.theguardian.com/environment/2021/jul/24/all-that-glitters-why-lab-made-gems-might-not-be-an-ethical-alternative)
-- [Inflatable dinghies and Zoom medical training: how a remote Pacific atoll got Pfizer](https://www.theguardian.com/world/2021/jul/24/inflatable-dinghies-and-zoom-medical-training-how-a-remote-pacific-atoll-got-pfizer)
-- [Bull on the run: ‘Barney’ eludes capture days after Long Island farm escape](https://www.theguardian.com/us-news/2021/jul/23/bull-run-long-island-new-york-police)
-- [World Heritage Committee agrees not to place Great Barrier Reef on ‘in danger’ list](https://www.theguardian.com/environment/2021/jul/23/world-heritage-committee-agrees-not-to-place-great-barrier-reef-on-in-danger-list)
-- [England facing weeks of ‘pingdemic’ disruption to services and food supply](https://www.theguardian.com/world/2021/jul/23/england-facing-weeks-of-pingdemic-disruption-to-services-and-food-supply)
+- [Olympics 2020 day two: swimming, women’s road race, gymnastics, tennis and more – live!](https://www.theguardian.com/sport/live/2021/jul/24/tokyo-olympic-games-2020-womens-cycling-road-race-gymnastics-day-two-live)
+- [Snow leopard at San Diego zoo catches coronavirus](https://www.theguardian.com/world/2021/jul/25/snow-leopard-coronavirus-san-diego-zoo-us-ramil)
+- [Philippines floods: thousands flee Manila after days of torrential rain](https://www.theguardian.com/world/2021/jul/25/philippines-floods-manila-evacuation-torrential-rain)
+- [‘Very saddened’: Toa, the orphaned baby orca that enthralled New Zealand, is buried](https://www.theguardian.com/world/2021/jul/25/orca)
+- [Sajid Javid’s advice to not ‘cower’ from Covid provokes backlash](https://www.theguardian.com/politics/2021/jul/25/sajid-javids-advice-to-not-cower-from-covid-provokes-angry-backlash)
+- [Two-thirds of women in UK military report bullying and sexual abuse](https://www.theguardian.com/uk-news/2021/jul/25/two-thirds-of-women-in-uk-military-report-bullying-and-sexual-abuse)
+- [Britain faces ‘decades of financial risk’ as £370bn pandemic bill mounts](https://www.theguardian.com/world/2021/jul/25/britain-faces-decades-of-financial-risk-as-370bn-pandemic-bill-mounts)
+- [Big strides: 15 ways to style wide-leg trousers – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/big-strides-15-ways-to-style-wide-leg-trousers-in-pictures)
+- [We love… Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Tee time: 15 of the best men’s T-shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/tee-time-15-of-the-best-mens-t-shirts-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

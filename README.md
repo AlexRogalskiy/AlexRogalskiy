@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [First RISC-V-Based Linux PC Coupled with an AMD RX 6700 XT GPU](https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html)
-- [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
-- [Windows 98: Should you upgrade now or never? (1998)](http://www.cnn.com/TECH/computing/9806/24/win98.idg/index.html)
-- [An Introduction to Data Science on the Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/)
-- [Self-balancing Honda electric scooter redefines futuristic urban commuting](https://www.yankodesign.com/2021/07/22/this-self-balancing-honda-electric-scooter-redefines-futuristic-urban-commuting/)
-- [Apple Working on External Display with Built-In A13 Chip](https://www.macrumors.com/2021/07/23/apple-developing-external-display-with-a13-chip/)
-- [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
-- [GtkInspector – built-in interactive debugging support in GTK](https://wiki.gnome.org/action/show/Projects/GTK/Inspector)
-- [Mental Health Response Teams Yield Better Outcomes Than Police in NYC, Data](https://www.npr.org/2021/07/23/1019704823/police-mental-health-crisis-calls-new-york-city)
-- [What termites and cells have in common](https://www.mpg.de/what-termites-and-cells-have-in-common?c=2249)
+- [Hacking Is the Opposite of Marketing](https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html)
+- [Scientists Have Created the First Genetically Engineered Marsupial](https://scitechdaily.com/scientists-have-created-the-first-genetically-engineered-marsupial/)
+- [What If Popular Websites Were Made in the ’90s?](https://www.boredpanda.com/popular-website-remade-90s-style-zyro/)
+- [Footage of “sinister” police raid on Antepavilion building triggers anger](https://www.dezeen.com/2021/07/12/footage-police-raid-antepavilion-tensegrity-structure-unveiling/?li_source=LI&li_medium=rhs_block_1)
+- [How vegan activists are saving Spain’s farm animals](https://www.theguardian.com/world/2021/jul/24/how-vegan-activists-are-saving-spains-farm-animals)
+- [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry)
+- [‘It’s too late’: US doctor says dying patients begging for Covid vaccine](https://www.theguardian.com/us-news/2021/jul/22/us-coronavirus-covid-unvaccinated-hospital-rates-vaccines)
+- [Plans for largest US solar field north of Las Vegas, Nevada scrapped](https://www.detroitnews.com/story/business/2021/07/23/plans-largest-us-solar-field-north-vegas-scrapped/8076076002/)
+- [‘I’ve seen 40 on one dive’: invasive lionfish threatens ecosystems in Med](https://www.theguardian.com/environment/2021/jul/22/lionfish-threatens-ecosystems-in-the-med)
+- [Ask HN: Viable Alternative to Kindle and Kindle Store?](https://news.ycombinator.com/item?id=27945965)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

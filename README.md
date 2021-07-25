@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Friday July 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-23-2021/456202)
 - [RBC to launch innovation hub in Calgary, bring 300 new tech jobs](https://www.itworldcanada.com/article/rbc-to-launch-innovation-hub-in-calgary-bring-300-new-tech-jobs/456242)
 - [Kaseya obtains ransomware decryptor to help VSA victims](https://www.itworldcanada.com/article/kaseya-obtains-ransomware-decryptor-to-help-vsa-victims/456234)
 - [Cyber Security Today, July 23, 2021 – Sophos opens a Canadian data centre, people still fall for tech support scams and Amazon cuts off a controversial spyware company](https://www.itworldcanada.com/article/cyber-security-today-july-23-2021-sophos-opens-a-canadian-data-centre-people-still-fall-for-tech-support-scams-and-amazon-cuts-off-a-controversial-spyware-company/456222)
@@ -430,7 +431,6 @@
 - [Hashtag Trending July 22 – Macron Targeted by Pegasus; Venmo removes a controversial feature; DuckDuckGo introduces email protection](https://www.itworldcanada.com/article/hashtag-trending-july-22-macron-targeted-by-pegasus-venmo-removes-a-controversial-feature-duckduckgo-introduces-email-protection/456167)
 - [Panasonic releases the Toughbook G2 modular rugged PC](https://www.itworldcanada.com/article/panasonic-releases-the-toughbook-g2-modular-rugged-pc/456141)
 - [Huawei network gear again fails to meet cybersecurity quality, says UK board](https://www.itworldcanada.com/article/huawei-network-gear-again-fails-to-meet-cybersecurity-quality-says-uk-board/456099)
-- [Two Linux vulnerabilities give exploiters root privileges](https://www.itworldcanada.com/article/two-linux-vulnerabilities-give-exploiters-root-privileges/456123)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

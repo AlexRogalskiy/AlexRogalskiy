@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hacking Is the Opposite of Marketing](https://macwright.com/2021/07/24/hacking-is-the-opposite-of-marketing.html)
-- [Scientists Have Created the First Genetically Engineered Marsupial](https://scitechdaily.com/scientists-have-created-the-first-genetically-engineered-marsupial/)
-- [What If Popular Websites Were Made in the ’90s?](https://www.boredpanda.com/popular-website-remade-90s-style-zyro/)
-- [Footage of “sinister” police raid on Antepavilion building triggers anger](https://www.dezeen.com/2021/07/12/footage-police-raid-antepavilion-tensegrity-structure-unveiling/?li_source=LI&li_medium=rhs_block_1)
-- [How vegan activists are saving Spain’s farm animals](https://www.theguardian.com/world/2021/jul/24/how-vegan-activists-are-saving-spains-farm-animals)
-- [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry)
-- [‘It’s too late’: US doctor says dying patients begging for Covid vaccine](https://www.theguardian.com/us-news/2021/jul/22/us-coronavirus-covid-unvaccinated-hospital-rates-vaccines)
-- [Plans for largest US solar field north of Las Vegas, Nevada scrapped](https://www.detroitnews.com/story/business/2021/07/23/plans-largest-us-solar-field-north-vegas-scrapped/8076076002/)
-- [‘I’ve seen 40 on one dive’: invasive lionfish threatens ecosystems in Med](https://www.theguardian.com/environment/2021/jul/22/lionfish-threatens-ecosystems-in-the-med)
-- [Ask HN: Viable Alternative to Kindle and Kindle Store?](https://news.ycombinator.com/item?id=27945965)
+- [More than 250 convicted of child sexual abuse while they were UK Scout leaders](https://www.theguardian.com/society/2021/jul/25/uk-ireland-child-sexual-abuse-scout-movement)
+- [FPV of climb of 1,999ft KDTV Tower in North Dakota](https://www.youtube.com/watch?v=40F8mALRukA)
+- [Aptus: Mandelbrot Set Viewer and Renderer](https://nedbatchelder.com/code/aptus/v3.html)
+- [How does AEMO predict demand in the National Electricity Market?](https://jacksimpson.co/how-does-aemo-predict-demand-in-the-national-electricity-market/)
+- [The Day the Good Internet Died](https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet)
+- [Lil NAS X Is Gen Z's Defining Icon](https://digitalnative.substack.com/p/lil-nas-x-is-gen-zs-defining-icon)
+- [Case of a Man 3 Doctors Declared Dead Who Woke Up Just Before His Autopsy](https://www.sciencealert.com/the-weird-case-of-a-man-3-doctors-declared-dead-who-woke-up-just-before-his-autopsy)
+- [Malaysia a step closer to eliminating hepatitis C with new, affordable drug](https://www.channelnewsasia.com/news/asia/malaysia-health-hepatitis-c-elimination-ravidasvir-sofosbuvir-15275258)
+- [Hollywood calls the Russo brothers when it's time to build a new universe](https://www.bloomberg.com/news/articles/2021-07-23/marvel-cinematic-universe-hollywood-calls-russo-brothers-for-their-movie-worlds)
+- [Everything Is Fertile](http://nickcammarata.com/writing/everything-is-fertile)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

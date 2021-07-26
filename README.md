@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
-- [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
-- [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
-- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
-- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
-- [A Tour of the Fuchsia Operating System](https://www.youtube.com/watch?v=gIT1ISCioDY)
-- [Hobson's Browser: How Apple, Facebook and Google broke the mobile browser market](https://infrequently.org/2021/07/hobsons-browser/)
-- [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
-- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
-- [Form Energy reveals the chemistry of its long-duration battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
+- [No, a supercomputer won’t make your code run faster (2017)](https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/)
+- [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
+- [Tesla AutoPilot – I give up, it's downright lethal](https://teslamotorsclub.com/tmc/threads/auto-pilot-i-give-up-its-downright-lethal.234498/)
+- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [Ampache: An open source web based audio/video streaming app and file manager](https://ampache.org/)
+- [Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/)
+- [Reversing for dummies – x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [Don't Be Anti Car. Be Pro Something Else.](https://www.eclogiselle.com/2021/07/the-hot-new-thing.html)
+- [The Assange case is collapsing but it remains a travesty of justice](https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice)
+- [Language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

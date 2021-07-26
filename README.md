@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Olympics 2020 day two: swimming, women’s road race, gymnastics, tennis and more – live!](https://www.theguardian.com/sport/live/2021/jul/24/tokyo-olympic-games-2020-womens-cycling-road-race-gymnastics-day-two-live)
-- [Snow leopard at San Diego zoo catches coronavirus](https://www.theguardian.com/world/2021/jul/25/snow-leopard-coronavirus-san-diego-zoo-us-ramil)
-- [Philippines floods: thousands flee Manila after days of torrential rain](https://www.theguardian.com/world/2021/jul/25/philippines-floods-manila-evacuation-torrential-rain)
-- [‘Very saddened’: Toa, the orphaned baby orca that enthralled New Zealand, is buried](https://www.theguardian.com/world/2021/jul/25/orca)
-- [Sajid Javid’s advice to not ‘cower’ from Covid provokes backlash](https://www.theguardian.com/politics/2021/jul/25/sajid-javids-advice-to-not-cower-from-covid-provokes-angry-backlash)
-- [Two-thirds of women in UK military report bullying and sexual abuse](https://www.theguardian.com/uk-news/2021/jul/25/two-thirds-of-women-in-uk-military-report-bullying-and-sexual-abuse)
-- [Britain faces ‘decades of financial risk’ as £370bn pandemic bill mounts](https://www.theguardian.com/world/2021/jul/25/britain-faces-decades-of-financial-risk-as-370bn-pandemic-bill-mounts)
-- [Big strides: 15 ways to style wide-leg trousers – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/big-strides-15-ways-to-style-wide-leg-trousers-in-pictures)
-- [We love… Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Tee time: 15 of the best men’s T-shirts – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/24/tee-time-15-of-the-best-mens-t-shirts-in-pictures)
+- [Tokyo Olympics 2020: Adam Peaty wins gold for Team GB as Australia and USA go head to head in pool – live!](https://www.theguardian.com/sport/live/2021/jul/25/olympics-2020-day-three-mens-triathlon-swimming-gymnastics-and-more-live)
+- [The authority gap: why women still aren’t taken seriously – podcast](https://www.theguardian.com/news/audio/2021/jul/26/the-authority-gap-why-women-still-arent-taken-seriously-podcast)
+- [‘You are the worst human being’: man confronts Fox News host Tucker Carlson](https://www.theguardian.com/media/2021/jul/25/tucker-carlson-fox-news-worst-human-being-viral-video-montana)
+- [Tunisia president sacks government, sparking jubilation on streets](https://www.theguardian.com/world/2021/jul/26/tunisian-president-dismisses-government-sparking-street-celebrations)
+- [GB’s Alex Yee claims silver medal in Olympic triathlon at Tokyo 2020](https://www.theguardian.com/sport/2021/jul/26/alex-yee-mens-triathlon-olympics-tokyo-2020-kristian-blummenfelt)
+- [Indonesia loosens Covid restrictions despite record deaths](https://www.theguardian.com/world/2021/jul/26/indonesia-loosens-covid-restrictions-despite-record-deaths)
+- [China’s nuclear power firm could be blocked from UK projects](https://www.theguardian.com/environment/2021/jul/26/chinas-nuclear-power-firm-could-be-blocked-from-uk-projects)
+- [Poor mental health leaves pupils three times less likely to pass five GCSEs](https://www.theguardian.com/education/2021/jul/26/poor-mental-health-leaves-pupils-three-times-less-likely-to-pass-five-gcses)
+- [Summer health drive in England as 40% say they gained weight in lockdown](https://www.theguardian.com/society/2021/jul/26/summer-health-drive-in-england-as-40-say-they-gained-weight-in-lockdown)
+- [UK economy growing at fastest rate in 80 years, says forecaster](https://www.theguardian.com/business/2021/jul/26/uk-economy-growing-at-fastest-rate-in-80-years-says-forecaster)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

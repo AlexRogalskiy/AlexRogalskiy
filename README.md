@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AI Liability Risks to Consider](https://www.informationweek.com/big-data/ai-machine-learning/ai-liability-risks-to-consider/a/d-id/1341554?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [AI Requires a Holistic Framework and Scalable Projects](https://www.informationweek.com/big-data/ai-machine-learning/ai-requires-a-holistic-framework-and-scalable-projects/a/d-id/1341563?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Data and Analytics Salaries Heat Up in Recovery Economy](https://www.informationweek.com/strategic-cio/team-building-and-staffing/data-and-analytics-salaries-heat-up-in-recovery-economy/d/d-id/1341562?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Bridging from Now to the Pure Digital Future](https://www.informationweek.com/strategic-cio/digital-business/bridging-from-now-to-the-pure-digital-future/a/d-id/1341559?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Blockchain Gets Real Across Industries](https://www.informationweek.com/big-data/blockchain-gets-real-across-industries/d/d-id/1341560?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Ways to Build a Talented and Reliable Work-at-Home IT Workforce](https://www.informationweek.com/strategic-cio/team-building-and-staffing/ways-to-build-a-talented-and-reliable-work-at-home-it-workforce/a/d-id/1341555?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Remote Work Tops SF, NYC for Most High-Paying Job Openings](https://www.informationweek.com/strategic-cio/team-building-and-staffing/remote-work-tops-sf-nyc-for-most-high-paying-job-openings/d/d-id/1341553?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [3 Ways To Make Conversational AI Work For Your Organization](https://www.informationweek.com/big-data/ai-machine-learning/3-ways-to-make-conversational-ai-work-for-your-organization/a/d-id/1341547?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Seeking a Competitive Edge vs. Chasing Savings in the Cloud](https://www.informationweek.com/cloud/seeking-a-competitive-edge-vs-chasing-savings-in-the-cloud/a/d-id/1341546?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How Cloud Can Drive Sustainable, Data-Driven Success](https://www.informationweek.com/cloud/how-cloud-can-drive-sustainable-data-driven-success/a/d-id/1341543?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patch Tuesday, 'C release' updates to continue for Windows 11](https://www.computerworld.com/article/3626928/patch-tuesday-c-release-updates-to-continue-for-windows-11.html#tk.rss_all)
+- [Acronis teams with Jamf to secure the Apple-centric enterprise](https://www.computerworld.com/article/3626466/acronis-teams-with-jamf-to-secure-the-apple-centric-enterprise.html#tk.rss_all)
+- [Getting ready for 21H2 (and maybe Windows 11)](https://www.computerworld.com/article/3626393/getting-ready-for-21h2-and-maybe-windows-11.html#tk.rss_all)
+- [About the Pegasus spyware, Apple's telling the full truth](https://www.computerworld.com/article/3626457/about-the-pegasus-spyware-apples-telling-the-full-truth.html#tk.rss_all)
+- [With EMM, should you go full stack or best of breed?](https://www.computerworld.com/article/3625594/emm-full-stack-or-best-of-breed.html#tk.rss_all)
 - [10 Gboard shortcuts that'll change how you type on Android](https://www.computerworld.com/article/3626191/gboard-android-shortcuts.html#tk.rss_all)
 - [Apple admins get a new remote support option](https://www.computerworld.com/article/3626359/apple-admins-get-a-new-remote-support-option.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [Avoid calendar clashes with a new breed of scheduling apps](https://www.computerworld.com/article/3626452/avoid-calendar-clashes-with-a-new-breed-of-scheduling-apps.html#tk.rss_all)
 - [How to fix a frozen Start menu or taskbar in Windows 10](https://www.computerworld.com/article/3624009/how-to-fix-a-frozen-start-menu-or-taskbar-in-windows-10.html#tk.rss_all)
-- [Cisco and the future of collaboration: What’s to come?](https://www.computerworld.com/article/3626377/cisco-and-the-future-of-collaboration-what-s-to-come.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
-- [Podcast: Pegasus spyware and iPhone security](https://www.computerworld.com/article/3626435/podcast-pegasus-spyware-and-iphone-security.html#tk.rss_all)
-- [Scary ‘malware-as-a-service’ Mac attack discovered](https://www.computerworld.com/article/3626431/scary-malware-as-a-service-mac-attack-discovered.html#tk.rss_all)
-- [Windows 11: Déjà vu all over again?](https://www.computerworld.com/article/3626451/windows-11-deja-vu-all-over-again.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

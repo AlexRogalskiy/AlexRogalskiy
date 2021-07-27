@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The uber-importance of docs](https://www.infoworld.com/article/3626464/the-uber-importance-of-software-documentation.html#tk.rss_all)
+- [5 takeaways from recent agile and devops reports](https://www.infoworld.com/article/3626460/5-takeaways-from-recent-agile-and-devops-reports.html#tk.rss_all)
+- [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_all)
+- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_all)
 - [The importance of classifying analytics](https://www.infoworld.com/article/3625233/the-importance-of-classifying-analytics.html#tk.rss_all)
 - [3 creative ways to obtain cloud talent](https://www.infoworld.com/article/3626476/3-creative-ways-to-obtain-cloud-talent.html#tk.rss_all)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [How to run R in Visual Studio Code](https://www.infoworld.com/article/3625488/how-to-run-r-in-visual-studio-code.html#tk.rss_all)
 - [An introduction to time series forecasting](https://www.infoworld.com/article/3622246/an-introduction-to-time-series-forecasting.html#tk.rss_all)
-- [What is SaaS? Software as a service defined](https://www.infoworld.com/article/3226386/what-is-saas-software-as-a-service-defined.html#tk.rss_all)
-- [Java state API would speed app startup](https://www.infoworld.com/article/3626351/java-state-api-would-speed-app-startup.html#tk.rss_all)
-- [Get your Visual Studio extensions ready for 64-bit](https://www.infoworld.com/article/3626195/get-your-visual-studio-extensions-ready-for-64-bit.html#tk.rss_all)
-- [6 essential Python tools for data science—now improved](https://www.infoworld.com/article/3233250/6-essential-python-tools-for-data-science-now-improved.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

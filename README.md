@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [More than 250 convicted of child sexual abuse while they were UK Scout leaders](https://www.theguardian.com/society/2021/jul/25/uk-ireland-child-sexual-abuse-scout-movement)
-- [FPV of climb of 1,999ft KDTV Tower in North Dakota](https://www.youtube.com/watch?v=40F8mALRukA)
-- [Aptus: Mandelbrot Set Viewer and Renderer](https://nedbatchelder.com/code/aptus/v3.html)
-- [How does AEMO predict demand in the National Electricity Market?](https://jacksimpson.co/how-does-aemo-predict-demand-in-the-national-electricity-market/)
-- [The Day the Good Internet Died](https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet)
-- [Lil NAS X Is Gen Z's Defining Icon](https://digitalnative.substack.com/p/lil-nas-x-is-gen-zs-defining-icon)
-- [Case of a Man 3 Doctors Declared Dead Who Woke Up Just Before His Autopsy](https://www.sciencealert.com/the-weird-case-of-a-man-3-doctors-declared-dead-who-woke-up-just-before-his-autopsy)
-- [Malaysia a step closer to eliminating hepatitis C with new, affordable drug](https://www.channelnewsasia.com/news/asia/malaysia-health-hepatitis-c-elimination-ravidasvir-sofosbuvir-15275258)
-- [Hollywood calls the Russo brothers when it's time to build a new universe](https://www.bloomberg.com/news/articles/2021-07-23/marvel-cinematic-universe-hollywood-calls-russo-brothers-for-their-movie-worlds)
-- [Everything Is Fertile](http://nickcammarata.com/writing/everything-is-fertile)
+- [Memoirs of a Karate Man](https://martialartstoronto.ca/memoirs-of-a-karate-man/)
+- [Miki Desktop: Free forever, lightweight wiki for Mac and Windows](https://github.com/themimixcompany/miki-desktop)
+- [Science Lost the Public’s Trust](https://www.wsj.com/articles/covid-china-media-lab-leak-climate-ridley-biden-censorship-coronavirus-11627049477)
+- [Long Term EPS Forecasts Are a Wild Guess at This Point](https://thesoundingline.com/long-term-eps-forecasts-are-a-wild-guess-at-this-point/)
+- [How to Make Your Blog More Successful](https://www.marketingwealthapex.com/why-is-seo-so-important-for-making-money-online/)
+- [Show HN: Wortharead 2.0 – Great Tech News](https://wortharead.app)
+- [Citadel Securities Fined by Finra for Trading Ahead of Clients](https://www.bloomberg.com/news/articles/2020-07-21/citadel-securities-fined-by-finra-for-trading-ahead-of-clients)
+- [Ask HN: Your Most Fun Video Game?](https://news.ycombinator.com/item?id=27967826)
+- [Digital Currency and Blockchain Product Lead – Amazon.jobs](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
+- [The Sacred Polynesian Art of Wayfinding](https://www.bbc.com/travel/article/20210726-polynesias-master-voyagers-who-navigate-by-nature)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

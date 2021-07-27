@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft warns attack could compromise Windows domain controllers and servers](https://www.itworldcanada.com/article/microsoft-warns-attack-could-compromise-windows-domain-controllers-and-servers/456266)
+- [Nokia Canada partners with EDC to strengthen supply chain](https://www.itworldcanada.com/article/nokia-canada-partners-with-edc-to-strengthen-supply-chain/456292)
+- [Cyber Security Today, July 26, 2021 – Beware of fake Windows 11 downloads, how an insurance giant was hacked, a ransomware gang attacked and more](https://www.itworldcanada.com/article/cyber-security-today-july-26-2021-beware-of-fake-windows-11-downloads-how-an-insurance-giant-was-hacked-a-ransomware-gang-attacked-and-more/456263)
+- [Hashtag Trending July 26- RBC adds 300 tech jobs to Calgary; DNS error brings down major services; Loneliness is on the rise due to technology](https://www.itworldcanada.com/article/hashtag-trending-july-26-rbc-adds-300-tech-jobs-to-calgary-dns-error-brings-down-major-services-loneliness-is-on-the-rise-due-to-technology/456273)
 - [Cyber Security Today, Week in Review for Friday July 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-23-2021/456202)
 - [RBC to launch innovation hub in Calgary, bring 300 new tech jobs](https://www.itworldcanada.com/article/rbc-to-launch-innovation-hub-in-calgary-bring-300-new-tech-jobs/456242)
 - [Kaseya obtains ransomware decryptor to help VSA victims](https://www.itworldcanada.com/article/kaseya-obtains-ransomware-decryptor-to-help-vsa-victims/456234)
 - [Cyber Security Today, July 23, 2021 – Sophos opens a Canadian data centre, people still fall for tech support scams and Amazon cuts off a controversial spyware company](https://www.itworldcanada.com/article/cyber-security-today-july-23-2021-sophos-opens-a-canadian-data-centre-people-still-fall-for-tech-support-scams-and-amazon-cuts-off-a-controversial-spyware-company/456222)
 - [Hashtag Trending July 23- Right to Repair laws; Twitter’s voting feature; Flood hits iPhone production site in China](https://www.itworldcanada.com/article/hashtag-trending-july-23-right-to-repair-laws-twitters-voting-feature-flood-hits-iphone-production-site-in-china/456231)
 - [LG to use 100% renewable energy by 2050](https://www.itworldcanada.com/article/lg-to-use-100-renewable-energy-by-2050/456184)
-- [Several communication, financial and transportation website outages reported through Canada and the U.S.](https://www.itworldcanada.com/article/several-communication-financial-and-transportation-website-outages-reported-through-canada-and-the-u-s/456180)
-- [Hashtag Trending July 22 – Macron Targeted by Pegasus; Venmo removes a controversial feature; DuckDuckGo introduces email protection](https://www.itworldcanada.com/article/hashtag-trending-july-22-macron-targeted-by-pegasus-venmo-removes-a-controversial-feature-duckduckgo-introduces-email-protection/456167)
-- [Panasonic releases the Toughbook G2 modular rugged PC](https://www.itworldcanada.com/article/panasonic-releases-the-toughbook-g2-modular-rugged-pc/456141)
-- [Huawei network gear again fails to meet cybersecurity quality, says UK board](https://www.itworldcanada.com/article/huawei-network-gear-again-fails-to-meet-cybersecurity-quality-says-uk-board/456099)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

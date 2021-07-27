@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo Olympics 2020: Adam Peaty wins gold for Team GB as Australia and USA go head to head in pool – live!](https://www.theguardian.com/sport/live/2021/jul/25/olympics-2020-day-three-mens-triathlon-swimming-gymnastics-and-more-live)
-- [The authority gap: why women still aren’t taken seriously – podcast](https://www.theguardian.com/news/audio/2021/jul/26/the-authority-gap-why-women-still-arent-taken-seriously-podcast)
-- [‘You are the worst human being’: man confronts Fox News host Tucker Carlson](https://www.theguardian.com/media/2021/jul/25/tucker-carlson-fox-news-worst-human-being-viral-video-montana)
-- [Tunisia president sacks government, sparking jubilation on streets](https://www.theguardian.com/world/2021/jul/26/tunisian-president-dismisses-government-sparking-street-celebrations)
-- [GB’s Alex Yee claims silver medal in Olympic triathlon at Tokyo 2020](https://www.theguardian.com/sport/2021/jul/26/alex-yee-mens-triathlon-olympics-tokyo-2020-kristian-blummenfelt)
-- [Indonesia loosens Covid restrictions despite record deaths](https://www.theguardian.com/world/2021/jul/26/indonesia-loosens-covid-restrictions-despite-record-deaths)
-- [China’s nuclear power firm could be blocked from UK projects](https://www.theguardian.com/environment/2021/jul/26/chinas-nuclear-power-firm-could-be-blocked-from-uk-projects)
-- [Poor mental health leaves pupils three times less likely to pass five GCSEs](https://www.theguardian.com/education/2021/jul/26/poor-mental-health-leaves-pupils-three-times-less-likely-to-pass-five-gcses)
-- [Summer health drive in England as 40% say they gained weight in lockdown](https://www.theguardian.com/society/2021/jul/26/summer-health-drive-in-england-as-40-say-they-gained-weight-in-lockdown)
-- [UK economy growing at fastest rate in 80 years, says forecaster](https://www.theguardian.com/business/2021/jul/26/uk-economy-growing-at-fastest-rate-in-80-years-says-forecaster)
+- [Tokyo Olympics live update: swimming gold for Australia’s McKeown and one-two finish for Team GB; women’s triathlon win for Bermuda](https://www.theguardian.com/sport/live/2021/jul/26/tokyo-olympics-2020-womens-triathlon-swimming-tennis-and-more-live)
+- [The pandemic enters a new phase – podcast](https://www.theguardian.com/news/audio/2021/jul/27/the-pandemic-enters-a-new-phase-podcast)
+- [Lawyer Steven Donziger found guilty of withholding evidence in Chevron case](https://www.theguardian.com/business/2021/jul/26/lawyer-steven-donziger-guilty-chevron)
+- [Hong Kong security law: verdict expected in first ever trial](https://www.theguardian.com/world/2021/jul/27/hong-kong-security-law-verdict-expected-in-first-ever-trial)
+- [Jeff Bezos offers Nasa $2bn in exchange for moon mission contract](https://www.theguardian.com/science/2021/jul/26/jeff-bezos-nasa-blue-origin-space)
+- [Bhutan’s rapid Covid vaccine rollout hailed as international success story](https://www.theguardian.com/world/2021/jul/27/bhutans-rapid-covid-vaccine-rollout-hailed-as-international-success-story)
+- [Olympic triathlon: Duffy wins first gold for Bermuda as Britain’s Taylor-Brown gets silver](https://www.theguardian.com/sport/2021/jul/27/olympic-triathlon-flora-duffy-bermuda-first-gold-georgia-taylor-brown-puncture)
+- [Thailand’s hospitals under pressure as Covid crisis deepens](https://www.theguardian.com/world/2021/jul/27/thailands-hospitals-under-pressure-as-covid-crisis-deepens)
+- [No 10 cautious over declaring Covid turning point despite fall in cases](https://www.theguardian.com/world/2021/jul/26/uk-covid-cases-fall-for-sixth-day-in-a-row-but-hospital-numbers-rise)
+- [UK house prices now 30% higher than pre-2008 crisis peak](https://www.theguardian.com/business/2021/jul/27/uk-house-prices-now-30-higher-than-pre-2008-crisis-peak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

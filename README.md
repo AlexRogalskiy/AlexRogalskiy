@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [No, a supercomputer won’t make your code run faster (2017)](https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/)
-- [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
-- [Tesla AutoPilot – I give up, it's downright lethal](https://teslamotorsclub.com/tmc/threads/auto-pilot-i-give-up-its-downright-lethal.234498/)
-- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [Ampache: An open source web based audio/video streaming app and file manager](https://ampache.org/)
-- [Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/)
-- [Reversing for dummies – x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
-- [Don't Be Anti Car. Be Pro Something Else.](https://www.eclogiselle.com/2021/07/the-hot-new-thing.html)
-- [The Assange case is collapsing but it remains a travesty of justice](https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice)
-- [Language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
+- [Tesla second-quarter profits top $1bn even as it struggles to handle demand](https://www.theguardian.com/technology/2021/jul/26/tesla-profits-second-quarter-demand-chip-shortage)
+- [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=27967437)
+- [Systemic Discrimination Among Large U.S. Employers [pdf]](https://eml.berkeley.edu/~crwalters/papers/randres.pdf)
+- [Index machine: an open source pick and place machine](https://github.com/index-machines/index)
+- [Mammals dream about the world they are about to experience before they are born](https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering)
+- [Amazon denies report of accepting Bitcoin as payment](https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/)
+- [APSE – A Personal Search Engine](https://apse.io/)
+- [Intel to build Qualcomm chips, aims to catch foundry rivals by 2025](https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/)
+- [The Insecurity Industry](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
+- [Making The World's Most Detailed Print Maps](https://ramblemaps.com/worlds-most-detailed-maps)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

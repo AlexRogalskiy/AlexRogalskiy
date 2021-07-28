@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Memoirs of a Karate Man](https://martialartstoronto.ca/memoirs-of-a-karate-man/)
-- [Miki Desktop: Free forever, lightweight wiki for Mac and Windows](https://github.com/themimixcompany/miki-desktop)
-- [Science Lost the Public’s Trust](https://www.wsj.com/articles/covid-china-media-lab-leak-climate-ridley-biden-censorship-coronavirus-11627049477)
-- [Long Term EPS Forecasts Are a Wild Guess at This Point](https://thesoundingline.com/long-term-eps-forecasts-are-a-wild-guess-at-this-point/)
-- [How to Make Your Blog More Successful](https://www.marketingwealthapex.com/why-is-seo-so-important-for-making-money-online/)
-- [Show HN: Wortharead 2.0 – Great Tech News](https://wortharead.app)
-- [Citadel Securities Fined by Finra for Trading Ahead of Clients](https://www.bloomberg.com/news/articles/2020-07-21/citadel-securities-fined-by-finra-for-trading-ahead-of-clients)
-- [Ask HN: Your Most Fun Video Game?](https://news.ycombinator.com/item?id=27967826)
-- [Digital Currency and Blockchain Product Lead – Amazon.jobs](https://www.amazon.jobs/en/jobs/1644513/digital-currency-and-blockchain-product-lead)
-- [The Sacred Polynesian Art of Wayfinding](https://www.bbc.com/travel/article/20210726-polynesias-master-voyagers-who-navigate-by-nature)
+- [AMD Q2 2021 Earnings](https://littlebitofeverything.substack.com/p/amd-q22021)
+- [Transcript to Video: Efficient Clip Sequencing from Texts](http://www.xiongyu.me/projects/transcript2video/)
+- [H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction](https://crisalixsa.github.io/h3d-net/)
+- [A Psychic Healer Blog Convinced the Government to Fund “Long Covid](https://www.aier.org/article/how-a-psychic-healer-blog-convinced-the-government-to-fund-long-covid-research/)
+- [Cats cause chaos on Ethereum again as Mila Kunis project sells out](https://cointelegraph.com/news/cats-cause-chaos-on-ethereum-again-as-mila-kunis-project-sells-out-in-35-minutes)
+- [Where do people look for jobs in the Cryptocurrency industry?](https://news.ycombinator.com/item?id=27979598)
+- [TSMC Evaluates Germany Plan, but Intel One Step Ahead](https://techtaiwan.com/20210727/tsmc-germany-intel/)
+- [Story of the cancer patient who didn’t have cancer](https://www.theguardian.com/commentisfree/2021/jul/28/the-incredible-true-story-of-the-cancer-patient-who-didnt-have-cancer)
+- [Guidelines on Minimum Standards for Developer Verification of Software [pdf]](https://arxiv.org/abs/2107.12850)
+- [Creating a Kubernetes Environment on AWS with KOPS](https://xnv.io/posts/creating-kubernetes-environment-on-aws-with-kops)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub to help developers with DMCA disputes](https://www.infoworld.com/article/3626695/github-to-help-developers-with-dmca-disputes.html#tk.rss_all)
+- [The evolution of public clouds will benefit enterprises](https://www.infoworld.com/article/3626912/the-evolution-of-public-clouds-will-benefit-enterprises.html#tk.rss_all)
 - [The uber-importance of docs](https://www.infoworld.com/article/3626464/the-uber-importance-of-software-documentation.html#tk.rss_all)
 - [5 takeaways from recent agile and devops reports](https://www.infoworld.com/article/3626460/5-takeaways-from-recent-agile-and-devops-reports.html#tk.rss_all)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [3 creative ways to obtain cloud talent](https://www.infoworld.com/article/3626476/3-creative-ways-to-obtain-cloud-talent.html#tk.rss_all)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [How to run R in Visual Studio Code](https://www.infoworld.com/article/3625488/how-to-run-r-in-visual-studio-code.html#tk.rss_all)
-- [An introduction to time series forecasting](https://www.infoworld.com/article/3622246/an-introduction-to-time-series-forecasting.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

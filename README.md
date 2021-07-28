@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [ICO ends its involvement in dispute between NatWest Bank and data breach whistleblower](https://www.computerweekly.com/news/252504531/ICO-ends-its-involvement-in-dispute-between-NatWest-Bank-and-data-breach-whistleblower)
+- [Running a virtual hackathon](https://www.computerweekly.com/news/252504469/Running-a-virtual-hackathon)
+- [Gaming could reduce the gamble for users of online finance](https://www.computerweekly.com/news/252504520/Gaming-could-reduce-the-gamble-for-users-of-online-finance)
+- [US lawmakers call for probe into ‘arrogant’ spyware firm](https://www.computerweekly.com/news/252504512/US-lawmakers-call-for-probe-into-arrogant-spyware-firm)
+- [TikTok sets up cyber security hub in Dublin](https://www.computerweekly.com/news/252504510/TikTok-sets-up-cyber-security-hub-in-Dublin)
+- [Standard Life Assurance uses IGEL to support home workers](https://www.computerweekly.com/news/252504511/Standard-Life-Assurance-uses-IGEL-to-support-home-workers)
+- [Are we getting cyber security skills all wrong?](https://www.computerweekly.com/ezine/Computer-Weekly/Are-we-getting-cyber-security-skills-all-wrong)
 - [Malicious actors turn to obscure programming languages](https://www.computerweekly.com/news/252504470/Malicious-actors-turn-to-obscure-programming-languages)
 - [No More Ransom initiative saves £850m over five years](https://www.computerweekly.com/news/252504478/No-More-Ransom-initiative-saves-850m-over-five-years)
 - [Government-led innovation can help cyber startups find a market](https://www.computerweekly.com/opinion/Government-led-innovation-can-help-cyber-startups-find-a-market)
-- [How digital operations drive ERP modernisation](https://www.computerweekly.com/feature/How-digital-operations-drive-ERP-modernisation)
-- [Most Influential Women in UK Tech 2021: Entrants to the Hall of Fame](https://www.computerweekly.com/news/252504433/Most-Influential-Women-in-UK-Tech-2021-Entrants-to-the-Hall-of-Fame)
-- [DWP hit with £87.9m tax bill by HMRC over 'historic' IR35 status contractor assessment errors](https://www.computerweekly.com/news/252504412/DWP-pays-HMRC-879m-after-IR35-review-reveals-historic-contractor-tax-status-assessment-errors)
-- [TfL under fire for relying on Uber facial-verification data in licensing decisions](https://www.computerweekly.com/news/252504369/TfL-under-fire-for-relying-on-Uber-facial-verification-data-in-licensing-decisions)
-- [SAS steps up free data skills programme for job seekers](https://www.computerweekly.com/news/252504411/SAS-steps-up-free-data-skills-programme-for-job-seekers)
-- [Kaseya obtains universal ransomware decryptor](https://www.computerweekly.com/news/252504410/Kaseya-obtains-universal-ransomware-decryptor)
-- [BCS, Royal Statistical Society, Alan Turing Institute combine to cement data science professionalism](https://www.computerweekly.com/news/252504366/BCS-Royal-Statistical-Society-Alan-Turing-Institute-combine-to-cement-data-science-professionalism)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

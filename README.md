@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo Olympics live update: swimming gold for Australia’s McKeown and one-two finish for Team GB; women’s triathlon win for Bermuda](https://www.theguardian.com/sport/live/2021/jul/26/tokyo-olympics-2020-womens-triathlon-swimming-tennis-and-more-live)
-- [The pandemic enters a new phase – podcast](https://www.theguardian.com/news/audio/2021/jul/27/the-pandemic-enters-a-new-phase-podcast)
-- [Lawyer Steven Donziger found guilty of withholding evidence in Chevron case](https://www.theguardian.com/business/2021/jul/26/lawyer-steven-donziger-guilty-chevron)
-- [Hong Kong security law: verdict expected in first ever trial](https://www.theguardian.com/world/2021/jul/27/hong-kong-security-law-verdict-expected-in-first-ever-trial)
-- [Jeff Bezos offers Nasa $2bn in exchange for moon mission contract](https://www.theguardian.com/science/2021/jul/26/jeff-bezos-nasa-blue-origin-space)
-- [Bhutan’s rapid Covid vaccine rollout hailed as international success story](https://www.theguardian.com/world/2021/jul/27/bhutans-rapid-covid-vaccine-rollout-hailed-as-international-success-story)
-- [Olympic triathlon: Duffy wins first gold for Bermuda as Britain’s Taylor-Brown gets silver](https://www.theguardian.com/sport/2021/jul/27/olympic-triathlon-flora-duffy-bermuda-first-gold-georgia-taylor-brown-puncture)
-- [Thailand’s hospitals under pressure as Covid crisis deepens](https://www.theguardian.com/world/2021/jul/27/thailands-hospitals-under-pressure-as-covid-crisis-deepens)
-- [No 10 cautious over declaring Covid turning point despite fall in cases](https://www.theguardian.com/world/2021/jul/26/uk-covid-cases-fall-for-sixth-day-in-a-row-but-hospital-numbers-rise)
-- [UK house prices now 30% higher than pre-2008 crisis peak](https://www.theguardian.com/business/2021/jul/27/uk-house-prices-now-30-higher-than-pre-2008-crisis-peak)
+- [Tokyo 2020 Olympics: Titmus beats Ledecky, double rowing gold for Australia, cycling time trial and more – live!](https://www.theguardian.com/sport/live/2021/jul/28/tokyo-2020-olympics-day-five-rowing-medals-womens-time-trial-cycling-diving-and-more-live)
+- [The Republican backlash in Joe Biden’s America](https://www.theguardian.com/news/audio/2021/jul/28/republican-backlash-joe-biden-us-podcast)
+- [‘Pharma bro’ Martin Shkreli’s $2m Wu-Tang Clan album sold by US government](https://www.theguardian.com/us-news/2021/jul/28/pharma-bro-martin-shkrelis-2m-wu-tang-clan-album-sold-by-us-government)
+- [Morocco authorities arrest Uyghur activist at China’s request](https://www.theguardian.com/world/2021/jul/28/morocco-authorities-arrest-uyghur-activist-at-chinas-request)
+- [The incredible true story of the cancer patient who didn’t have cancer | Ranjana Srivastava](https://www.theguardian.com/commentisfree/2021/jul/28/the-incredible-true-story-of-the-cancer-patient-who-didnt-have-cancer)
+- [Critical measures of global heating reaching tipping point, study finds](https://www.theguardian.com/environment/2021/jul/27/global-heating-critical-measures-tipping-point-study)
+- [UK poised to end amber list quarantine for people vaccinated in US and EU](https://www.theguardian.com/world/2021/jul/27/uk-poised-end-amber-list-quarantine-people-vaccinated-in-us-and-eu)
+- [Julian Assange stripped of citizenship by Ecuador](https://www.theguardian.com/media/2021/jul/28/julian-assange-stripped-of-citizenship-by-ecuador)
+- [RNLI hits out at ‘migrant taxi service’ accusations](https://www.theguardian.com/uk-news/2021/jul/28/rnli-hits-out-migrant-taxi-service-accusations)
+- [UK ministers lay out ‘most ambitious’ plan for disabled workers](https://www.theguardian.com/society/2021/jul/28/uk-ministers-lay-out-most-ambitious-plan-for-disabled-workers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

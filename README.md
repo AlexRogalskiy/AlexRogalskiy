@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [The most important Chrome OS feature of 2021 isn't coming from Google](https://www.computerworld.com/article/3626467/chrome-os-feature-google.html#tk.rss_all)
+- [Apple: Macs are best choice for enterprise](https://www.computerworld.com/article/3626697/apple-macs-are-best-choice-for-enterprise.html#tk.rss_all)
+- [Pandemic redux: No, your workers aren’t coming back to the office](https://www.computerworld.com/article/3626361/pandemic-redux-no-your-workers-aren-t-coming-back-to-the-office.html#tk.rss_all)
+- [It's time, IT — set the rules of the road for mobile](https://www.computerworld.com/article/3626930/its-time-for-it-to-set-the-rules-of-the-road-for-mobile.html#tk.rss_all)
 - [Patch Tuesday, 'C release' updates to continue for Windows 11](https://www.computerworld.com/article/3626928/patch-tuesday-c-release-updates-to-continue-for-windows-11.html#tk.rss_all)
 - [Acronis teams with Jamf to secure the Apple-centric enterprise](https://www.computerworld.com/article/3626466/acronis-teams-with-jamf-to-secure-the-apple-centric-enterprise.html#tk.rss_all)
 - [Getting ready for 21H2 (and maybe Windows 11)](https://www.computerworld.com/article/3626393/getting-ready-for-21h2-and-maybe-windows-11.html#tk.rss_all)
 - [About the Pegasus spyware, Apple's telling the full truth](https://www.computerworld.com/article/3626457/about-the-pegasus-spyware-apples-telling-the-full-truth.html#tk.rss_all)
 - [With EMM, should you go full stack or best of breed?](https://www.computerworld.com/article/3625594/emm-full-stack-or-best-of-breed.html#tk.rss_all)
-- [10 Gboard shortcuts that'll change how you type on Android](https://www.computerworld.com/article/3626191/gboard-android-shortcuts.html#tk.rss_all)
-- [Apple admins get a new remote support option](https://www.computerworld.com/article/3626359/apple-admins-get-a-new-remote-support-option.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Avoid calendar clashes with a new breed of scheduling apps](https://www.computerworld.com/article/3626452/avoid-calendar-clashes-with-a-new-breed-of-scheduling-apps.html#tk.rss_all)
-- [How to fix a frozen Start menu or taskbar in Windows 10](https://www.computerworld.com/article/3624009/how-to-fix-a-frozen-start-menu-or-taskbar-in-windows-10.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AMD Q2 2021 Earnings](https://littlebitofeverything.substack.com/p/amd-q22021)
-- [Transcript to Video: Efficient Clip Sequencing from Texts](http://www.xiongyu.me/projects/transcript2video/)
-- [H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction](https://crisalixsa.github.io/h3d-net/)
-- [A Psychic Healer Blog Convinced the Government to Fund “Long Covid](https://www.aier.org/article/how-a-psychic-healer-blog-convinced-the-government-to-fund-long-covid-research/)
-- [Cats cause chaos on Ethereum again as Mila Kunis project sells out](https://cointelegraph.com/news/cats-cause-chaos-on-ethereum-again-as-mila-kunis-project-sells-out-in-35-minutes)
-- [Where do people look for jobs in the Cryptocurrency industry?](https://news.ycombinator.com/item?id=27979598)
-- [TSMC Evaluates Germany Plan, but Intel One Step Ahead](https://techtaiwan.com/20210727/tsmc-germany-intel/)
-- [Story of the cancer patient who didn’t have cancer](https://www.theguardian.com/commentisfree/2021/jul/28/the-incredible-true-story-of-the-cancer-patient-who-didnt-have-cancer)
-- [Guidelines on Minimum Standards for Developer Verification of Software [pdf]](https://arxiv.org/abs/2107.12850)
-- [Creating a Kubernetes Environment on AWS with KOPS](https://xnv.io/posts/creating-kubernetes-environment-on-aws-with-kops)
+- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
+- [Google to prohibit apps with JavaScript from violating any Google Play policies](https://support.google.com/googleplay/android-developer/answer/9934569)
+- [Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
+- [Ask HN: Can anyone recommend a landing page consultant?](https://news.ycombinator.com/item?id=27992069)
+- [Robinhood IPO Prices at $38 a Share](https://www.wsj.com/articles/robinhood-ipo-prices-at-38-a-share-11627515866)
+- [Rocket tanks of carbon fibre reinforced plastic proven possible](https://www.esa.int/Enabling_Support/Space_Transportation/Rocket_tanks_of_carbon_fibre_reinforced_plastic_proven_possible)
+- [SoftBank Said to Offer $2.1B Uber Stake via Goldman](https://finance.yahoo.com/news/uber-falls-block-trade-said-214909795.html)
+- [Whitespaces and Strings in Bash](https://indradhanush.github.io/blog/whitespaces-and-strings-in-bash/)
+- [A Tale of Two Long Tails](https://arxiv.org/abs/2107.13098)
+- [Neural Rays for Occlusion-Aware Image-Based Rendering](https://liuyuan-pal.github.io/NeuRay/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

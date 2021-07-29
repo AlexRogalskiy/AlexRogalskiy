@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [How to use correlation IDs in ASP.NET Core MVC](https://www.infoworld.com/article/3626914/how-to-use-correlation-ids-in-aspnet-core-mvc.html#tk.rss_all)
+- [Design for responsible AI with Microsoft’s HAX](https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html#tk.rss_all)
+- [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_all)
+- [6 stellar libraries for profiling Python code](https://www.infoworld.com/article/3600993/6-stellar-libraries-for-profiling-python-code.html#tk.rss_all)
 - [GitHub to help developers with DMCA disputes](https://www.infoworld.com/article/3626695/github-to-help-developers-with-dmca-disputes.html#tk.rss_all)
 - [The evolution of public clouds will benefit enterprises](https://www.infoworld.com/article/3626912/the-evolution-of-public-clouds-will-benefit-enterprises.html#tk.rss_all)
 - [The uber-importance of docs](https://www.infoworld.com/article/3626464/the-uber-importance-of-software-documentation.html#tk.rss_all)
 - [5 takeaways from recent agile and devops reports](https://www.infoworld.com/article/3626460/5-takeaways-from-recent-agile-and-devops-reports.html#tk.rss_all)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_all)
-- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_all)
-- [The importance of classifying analytics](https://www.infoworld.com/article/3625233/the-importance-of-classifying-analytics.html#tk.rss_all)
-- [3 creative ways to obtain cloud talent](https://www.infoworld.com/article/3626476/3-creative-ways-to-obtain-cloud-talent.html#tk.rss_all)
-- [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Almost half unaware of GP data-sharing plans](https://www.computerweekly.com/news/252504570/Almost-half-unaware-of-GP-data-sharing-plans)
+- [Top vulnerabilities target perimeter devices](https://www.computerweekly.com/news/252504576/Top-vulnerabilities-target-perimeter-devices)
+- [BEIS replaces Excel-based grant system with data management portal](https://www.computerweekly.com/news/252504568/BEIS-replaces-Excel-based-grant-system-with-a-data-management-portal)
+- [Google posts $50bn in ads revenue as it looks to broaden the business](https://www.computerweekly.com/news/252504567/Google-posts-50bn-in-ads-revenue-as-it-looks-to-broaden-the-business)
+- [Vote now: Most Influential Woman in UK Technology 2021](https://www.computerweekly.com/news/252504566/Vote-now-Most-Influential-Woman-in-UK-Technology-2021)
+- [Thousands wrongly given criminal convictions after computer error](https://www.computerweekly.com/news/252504565/Thousands-wrongly-given-criminal-convictions-after-computer-error)
+- [COP26 cyber resource hub launched for Glasgow businesses](https://www.computerweekly.com/news/252504560/COP26-cyber-resource-hub-launched-for-Glasgow-businesses)
+- [Executive interview: Lee Porte, chair, Cloud Foundry Foundation TOC](https://www.computerweekly.com/news/252504473/Executive-interview-Lee-Porte-chair-Cloud-Foundry-Foundation-TOC)
+- [Security Think Tank: Consider cyber policies and procedures as you welcome employees back](https://www.computerweekly.com/opinion/Security-Think-Tank-Consider-cyber-policies-and-procedures-as-you-welcome-employees-back)
 - [ICO ends its involvement in dispute between NatWest Bank and data breach whistleblower](https://www.computerweekly.com/news/252504531/ICO-ends-its-involvement-in-dispute-between-NatWest-Bank-and-data-breach-whistleblower)
-- [Running a virtual hackathon](https://www.computerweekly.com/news/252504469/Running-a-virtual-hackathon)
-- [Gaming could reduce the gamble for users of online finance](https://www.computerweekly.com/news/252504520/Gaming-could-reduce-the-gamble-for-users-of-online-finance)
-- [US lawmakers call for probe into ‘arrogant’ spyware firm](https://www.computerweekly.com/news/252504512/US-lawmakers-call-for-probe-into-arrogant-spyware-firm)
-- [TikTok sets up cyber security hub in Dublin](https://www.computerweekly.com/news/252504510/TikTok-sets-up-cyber-security-hub-in-Dublin)
-- [Standard Life Assurance uses IGEL to support home workers](https://www.computerweekly.com/news/252504511/Standard-Life-Assurance-uses-IGEL-to-support-home-workers)
-- [Are we getting cyber security skills all wrong?](https://www.computerweekly.com/ezine/Computer-Weekly/Are-we-getting-cyber-security-skills-all-wrong)
-- [Malicious actors turn to obscure programming languages](https://www.computerweekly.com/news/252504470/Malicious-actors-turn-to-obscure-programming-languages)
-- [No More Ransom initiative saves £850m over five years](https://www.computerweekly.com/news/252504478/No-More-Ransom-initiative-saves-850m-over-five-years)
-- [Government-led innovation can help cyber startups find a market](https://www.computerweekly.com/opinion/Government-led-innovation-can-help-cyber-startups-find-a-market)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

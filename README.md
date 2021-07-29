@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Average cost of a data breach still rising, says IBM study](https://www.itworldcanada.com/article/average-cost-of-a-data-breach-still-rising-says-ibm-study/456443)
+- [Many firms preparing for proposed changes to Canada’s privacy law: Survey](https://www.itworldcanada.com/article/many-firms-preparing-for-proposed-changes-to-canadas-privacy-law-survey/456375)
+- [Intel isn’t pulling a fast one with its node rename, here’s why](https://www.itworldcanada.com/article/intels-isnt-pulling-a-fast-one-with-its-node-rename-heres-why/456380)
+- [National mental health and addiction treatment chain acknowledges data theft: CTV](https://www.itworldcanada.com/article/national-mental-health-and-addiction-treatment-chain-acknowledges-data-theft-ctv/456384)
+- [Cyber Security Today, July 28, 2021 – Remember this ransomware resource, a new ransomware strain updated and vulnerabilities in another Kaseya product](https://www.itworldcanada.com/article/cyber-security-today-july-28-2021-remember-this-ransomware-resource-a-new-ransomware-strain-updated-and-vulnerabilities-in-another-kaseya-product/456372)
+- [Hashtag Trending July 28 – Facebook courts religious groups; YouTube censor’s Brazil’s President; Jeff Bezos offers NASA $2 billion deal](https://www.itworldcanada.com/article/hashtag-trending-july-28-facebook-courts-religious-groups-youtube-censors-brazils-president-jeff-bezos-offers-nasa-2-billion-deal/456378)
 - [Watch for malware using uncommon programming languages, says BlackBerry](https://www.itworldcanada.com/article/watch-for-malware-using-uncommon-programming-languages-says-blackberry/456281)
 - [Global tech firm sets up Canadian headquarters in Calgary](https://www.itworldcanada.com/article/global-tech-firm-sets-up-canadian-headquarters-in-calgary/456353)
 - [Toronto firm helps Cubans access social media platforms](https://www.itworldcanada.com/article/toronto-firm-helps-cubans-access-social-media-platforms/456317)
 - [Coffee Briefing, July 27, 2021 – Zoho’s free online invoicing solution; Hootsuite’s new CMO; Shopify’s new centralized chat tool; and more](https://www.itworldcanada.com/article/coffee-briefing-july-27-2021-zohos-free-online-invoicing-solution-hootsuites-new-cmo-shopifys-new-centralized-chat-tool-and-more/456337)
-- [Hashtag Trending July 27 – Electric vehicle myth debunk; AI speech tool to spreads fake news? And Telsa gets tricked by moon](https://www.itworldcanada.com/article/hashtag-trending-july-27-electric-vehicle-myth-debunk-ai-speech-tool-to-spreads-fake-news-and-telsa-gets-tricked-by-moon/456329)
-- [Microsoft warns attack could compromise Windows domain controllers and servers](https://www.itworldcanada.com/article/microsoft-warns-attack-could-compromise-windows-domain-controllers-and-servers/456266)
-- [Nokia Canada partners with EDC to strengthen supply chain](https://www.itworldcanada.com/article/nokia-canada-partners-with-edc-to-strengthen-supply-chain/456292)
-- [Cyber Security Today, July 26, 2021 – Beware of fake Windows 11 downloads, how an insurance giant was hacked, a ransomware gang attacked and more](https://www.itworldcanada.com/article/cyber-security-today-july-26-2021-beware-of-fake-windows-11-downloads-how-an-insurance-giant-was-hacked-a-ransomware-gang-attacked-and-more/456263)
-- [Hashtag Trending July 26- RBC adds 300 tech jobs to Calgary; DNS error brings down major services; Loneliness is on the rise due to technology](https://www.itworldcanada.com/article/hashtag-trending-july-26-rbc-adds-300-tech-jobs-to-calgary-dns-error-brings-down-major-services-loneliness-is-on-the-rise-due-to-technology/456273)
-- [Cyber Security Today, Week in Review for Friday July 23, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-23-2021/456202)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

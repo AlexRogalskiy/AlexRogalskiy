@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: Titmus beats Ledecky, double rowing gold for Australia, cycling time trial and more – live!](https://www.theguardian.com/sport/live/2021/jul/28/tokyo-2020-olympics-day-five-rowing-medals-womens-time-trial-cycling-diving-and-more-live)
-- [The Republican backlash in Joe Biden’s America](https://www.theguardian.com/news/audio/2021/jul/28/republican-backlash-joe-biden-us-podcast)
-- [‘Pharma bro’ Martin Shkreli’s $2m Wu-Tang Clan album sold by US government](https://www.theguardian.com/us-news/2021/jul/28/pharma-bro-martin-shkrelis-2m-wu-tang-clan-album-sold-by-us-government)
-- [Morocco authorities arrest Uyghur activist at China’s request](https://www.theguardian.com/world/2021/jul/28/morocco-authorities-arrest-uyghur-activist-at-chinas-request)
-- [The incredible true story of the cancer patient who didn’t have cancer | Ranjana Srivastava](https://www.theguardian.com/commentisfree/2021/jul/28/the-incredible-true-story-of-the-cancer-patient-who-didnt-have-cancer)
-- [Critical measures of global heating reaching tipping point, study finds](https://www.theguardian.com/environment/2021/jul/27/global-heating-critical-measures-tipping-point-study)
-- [UK poised to end amber list quarantine for people vaccinated in US and EU](https://www.theguardian.com/world/2021/jul/27/uk-poised-end-amber-list-quarantine-people-vaccinated-in-us-and-eu)
-- [Julian Assange stripped of citizenship by Ecuador](https://www.theguardian.com/media/2021/jul/28/julian-assange-stripped-of-citizenship-by-ecuador)
-- [RNLI hits out at ‘migrant taxi service’ accusations](https://www.theguardian.com/uk-news/2021/jul/28/rnli-hits-out-migrant-taxi-service-accusations)
-- [UK ministers lay out ‘most ambitious’ plan for disabled workers](https://www.theguardian.com/society/2021/jul/28/uk-ministers-lay-out-most-ambitious-plan-for-disabled-workers)
+- [Tokyo 2020 Olympics day six: swimming, golf, rowing gold for Ireland and more – live!](https://www.theguardian.com/sport/live/2021/jul/29/tokyo-2020-olympics-day-six-golf-swimming-rowing-and-more-live)
+- [The lobbying push that killed off a fight to save the Great Barrier Reef](https://www.theguardian.com/news/audio/2021/jul/29/the-lobbying-push-that-killed-off-a-fight-to-save-the-great-barrier-reef-podcast)
+- [Bob Odenkirk condition stable after ‘heart related incident’ on Better Call Saul set](https://www.theguardian.com/tv-and-radio/2021/jul/29/bob-odenkirk-condition-stable-after-heart-related-incident-on-better-call-saul-set)
+- [Love Is Blind: After the Altar review – even true love cannot be worth a night like this](https://www.theguardian.com/tv-and-radio/2021/jul/29/love-is-blind-after-the-altar-review-even-true-love-cannot-be-worth-a-night-like-this)
+- [US Senate votes to advance infrastructure deal after bipartisan breakthrough](https://www.theguardian.com/us-news/2021/jul/28/us-senate-infrastructure-congress-joe-biden)
+- [Dell pulls energy-hungry gaming PCs in six US states after failing efficiency rules](https://www.theguardian.com/games/2021/jul/29/dell-pulls-energy-hungry-gaming-pcs-in-six-us-states-after-failing-efficiency-rules)
+- [Chemical leak at Houston facility leaves two dead and 30 people hospitalized](https://www.theguardian.com/us-news/2021/jul/28/houston-chemical-leak-lyondellbasell-la-porte)
+- [Belgium opens manslaughter investigation over flood deaths](https://www.theguardian.com/world/2021/jul/29/belgium-opens-manslaughter-investigation-over-flood-deaths)
+- [Jared Kushner set to move away from politics and launch investment firm](https://www.theguardian.com/us-news/2021/jul/28/jared-kushner-donald-trump-investment-firm-politics)
+- [Extreme weather will be the norm and UK is not prepared, report warns](https://www.theguardian.com/world/2021/jul/29/extreme-weather-will-be-the-norm-and-uk-is-not-prepared-report-warns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

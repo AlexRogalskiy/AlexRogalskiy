@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
-- [Windows 96](https://windows96.net)
-- [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
-- [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
-- [Capitol Hill's mystery soda machine](https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine)
-- [How Tracing Uncovers Half-Truths in Slack’s CI Infrastructure](https://frankc.net/tracing-in-ci)
-- [FastAI.jl: FastAI for Julia](https://forums.fast.ai/t/ann-announcing-fastai-jl-fastai-for-julia/90228)
-- [In defense of hard counters in real time strategy games](https://waywardstrategy.com/2021/07/27/hard-counters/)
-- [A soil-science revolution upends plans to fight climate change](https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/)
-- [Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot](https://news.ycombinator.com/item?id=27974077)
+- [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
+- [Remote Culture War Has Begun, Executives Pumping Out "Back to Work" Propaganda](https://ez.substack.com/p/the-remote-culture-war-has-begun)
+- [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
+- [The mermaid is taking over Google search in Norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
+- [Activision Blizzard employees walk out over harassment and ‘frat boy’ culture](https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture)
+- [Calculus Made Easy](https://calculusmadeeasy.org/)
+- [Dean Preston is holding SF back](https://www.ebar.com/news/news//302315)
+- [The C++ Type Loophole (C++14)](http://alexpolt.github.io/type-loophole.html)
+- [Switching from GMP to GCC's __int128 reduced run time by 95% (2016)](https://www.nu42.com/2016/01/excellent-optimization-story.html)
+- [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

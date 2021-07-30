@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
-- [Remote Culture War Has Begun, Executives Pumping Out "Back to Work" Propaganda](https://ez.substack.com/p/the-remote-culture-war-has-begun)
-- [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
-- [The mermaid is taking over Google search in Norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
-- [Activision Blizzard employees walk out over harassment and ‘frat boy’ culture](https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture)
-- [Calculus Made Easy](https://calculusmadeeasy.org/)
-- [Dean Preston is holding SF back](https://www.ebar.com/news/news//302315)
-- [The C++ Type Loophole (C++14)](http://alexpolt.github.io/type-loophole.html)
-- [Switching from GMP to GCC's __int128 reduced run time by 95% (2016)](https://www.nu42.com/2016/01/excellent-optimization-story.html)
-- [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
+- [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
+- [Stat of the day: 38% of remote workers work from bed](https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html)
+- [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
+- [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
+- [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
+- [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
+- [UpCodes is hiring our first PM to automate compliance for architects](https://up.codes/careers#product_manager)
+- [Cal Newport on an industrial revolution for office work](https://80000hours.org/podcast/episodes/cal-newport-industrial-revolution-for-office-work/)
+- [Slate – A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
+- [Facebook is now claiming official CDC.gov links are “False Information”](https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

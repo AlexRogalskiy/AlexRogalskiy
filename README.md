@@ -391,6 +391,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [HMRC hits Home Office with £33.5m bill over ‘careless’ application of IR35 rules](https://www.computerweekly.com/news/252504614/HMRC-hits-Home-Office-with-335m-bill-over-careless-application-of-IR35-rules)
+- [Technical hiccups force Babuk ransomware gang to change tactics](https://www.computerweekly.com/news/252504610/Technical-hiccups-force-Babuk-ransomware-gang-to-change-tactics)
+- [Investigatory Powers Tribunal finds UK spy agencies unlawfully collected personal data](https://www.computerweekly.com/news/252504608/Investigatory-Powers-Tribunal-finds-UK-spy-agencies-unlawfully-collected-personal-data)
 - [Almost half unaware of GP data-sharing plans](https://www.computerweekly.com/news/252504570/Almost-half-unaware-of-GP-data-sharing-plans)
 - [Top vulnerabilities target perimeter devices](https://www.computerweekly.com/news/252504576/Top-vulnerabilities-target-perimeter-devices)
 - [BEIS replaces Excel-based grant system with data management portal](https://www.computerweekly.com/news/252504568/BEIS-replaces-Excel-based-grant-system-with-a-data-management-portal)
@@ -398,9 +401,6 @@
 - [Vote now: Most Influential Woman in UK Technology 2021](https://www.computerweekly.com/news/252504566/Vote-now-Most-Influential-Woman-in-UK-Technology-2021)
 - [Thousands wrongly given criminal convictions after computer error](https://www.computerweekly.com/news/252504565/Thousands-wrongly-given-criminal-convictions-after-computer-error)
 - [COP26 cyber resource hub launched for Glasgow businesses](https://www.computerweekly.com/news/252504560/COP26-cyber-resource-hub-launched-for-Glasgow-businesses)
-- [Executive interview: Lee Porte, chair, Cloud Foundry Foundation TOC](https://www.computerweekly.com/news/252504473/Executive-interview-Lee-Porte-chair-Cloud-Foundry-Foundation-TOC)
-- [Security Think Tank: Consider cyber policies and procedures as you welcome employees back](https://www.computerweekly.com/opinion/Security-Think-Tank-Consider-cyber-policies-and-procedures-as-you-welcome-employees-back)
-- [ICO ends its involvement in dispute between NatWest Bank and data breach whistleblower](https://www.computerweekly.com/news/252504531/ICO-ends-its-involvement-in-dispute-between-NatWest-Bank-and-data-breach-whistleblower)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

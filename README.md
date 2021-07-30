@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics day six: swimming, golf, rowing gold for Ireland and more – live!](https://www.theguardian.com/sport/live/2021/jul/29/tokyo-2020-olympics-day-six-golf-swimming-rowing-and-more-live)
-- [The lobbying push that killed off a fight to save the Great Barrier Reef](https://www.theguardian.com/news/audio/2021/jul/29/the-lobbying-push-that-killed-off-a-fight-to-save-the-great-barrier-reef-podcast)
-- [Bob Odenkirk condition stable after ‘heart related incident’ on Better Call Saul set](https://www.theguardian.com/tv-and-radio/2021/jul/29/bob-odenkirk-condition-stable-after-heart-related-incident-on-better-call-saul-set)
-- [Love Is Blind: After the Altar review – even true love cannot be worth a night like this](https://www.theguardian.com/tv-and-radio/2021/jul/29/love-is-blind-after-the-altar-review-even-true-love-cannot-be-worth-a-night-like-this)
-- [US Senate votes to advance infrastructure deal after bipartisan breakthrough](https://www.theguardian.com/us-news/2021/jul/28/us-senate-infrastructure-congress-joe-biden)
-- [Dell pulls energy-hungry gaming PCs in six US states after failing efficiency rules](https://www.theguardian.com/games/2021/jul/29/dell-pulls-energy-hungry-gaming-pcs-in-six-us-states-after-failing-efficiency-rules)
-- [Chemical leak at Houston facility leaves two dead and 30 people hospitalized](https://www.theguardian.com/us-news/2021/jul/28/houston-chemical-leak-lyondellbasell-la-porte)
-- [Belgium opens manslaughter investigation over flood deaths](https://www.theguardian.com/world/2021/jul/29/belgium-opens-manslaughter-investigation-over-flood-deaths)
-- [Jared Kushner set to move away from politics and launch investment firm](https://www.theguardian.com/us-news/2021/jul/28/jared-kushner-donald-trump-investment-firm-politics)
-- [Extreme weather will be the norm and UK is not prepared, report warns](https://www.theguardian.com/world/2021/jul/29/extreme-weather-will-be-the-norm-and-uk-is-not-prepared-report-warns)
+- [Tokyo 2020 Olympics: more swimming gold for Australia, athletics blasts off and more – live!](https://www.theguardian.com/sport/live/2021/jul/29/tokyo-2020-olympics-athletics-swimming-latest-results)
+- [How we all got hooked on caffeine](https://www.theguardian.com/news/audio/2021/jul/30/how-we-got-hooked-caffeine-podcast)
+- [Sheila Jackson Lee is third Black lawmaker to be arrested during voting rights protests](https://www.theguardian.com/us-news/2021/jul/29/sheila-jackson-lee-arrested-voting-rights-protests)
+- [Detroit Pistons tab Cade Cunningham with No 1 overall pick in NBA draft](https://www.theguardian.com/sport/2021/jul/29/nba-draft-picks-detroit-pistons-cade-cunningham)
+- [Israel to offer Pfizer Covid booster shots to people over 60](https://www.theguardian.com/world/2021/jul/30/israel-to-offer-pfizer-covid-booster-shots-to-people-over-60)
+- [Russia rocket mishap briefly nudges International Space Station out of position](https://www.theguardian.com/science/2021/jul/30/russia-rocket-mishap-briefly-nudges-international-space-station-out-of-position)
+- [Over 5m people in UK had parcels lost or stolen last year, says Citizens Advice](https://www.theguardian.com/business/2021/jul/30/over-5m-people-in-uk-had-parcels-lost-or-stolen-last-year-says-citizens-advice)
+- [Billie Eilish: Happier Than Ever review – inside pop stardom’s heart of darkness](https://www.theguardian.com/music/2021/jul/30/billie-eilish-happier-than-ever-review-inside-pop-stardoms-heart-of-darkness)
+- [The Guardian view on race and policing: a wake-up call from MPs | Editorial](https://www.theguardian.com/commentisfree/2021/jul/30/the-guardian-view-on-race-and-policing-a-wake-up-call-from-mps)
+- [MPs rebuke police for ‘systemic failure’ to improve record on race](https://www.theguardian.com/uk-news/2021/jul/30/mps-rebuke-police-for-systemic-failure-to-improve-record-on-race)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

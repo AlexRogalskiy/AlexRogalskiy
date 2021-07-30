@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
-- [Google to prohibit apps with JavaScript from violating any Google Play policies](https://support.google.com/googleplay/android-developer/answer/9934569)
-- [Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
-- [Ask HN: Can anyone recommend a landing page consultant?](https://news.ycombinator.com/item?id=27992069)
-- [Robinhood IPO Prices at $38 a Share](https://www.wsj.com/articles/robinhood-ipo-prices-at-38-a-share-11627515866)
-- [Rocket tanks of carbon fibre reinforced plastic proven possible](https://www.esa.int/Enabling_Support/Space_Transportation/Rocket_tanks_of_carbon_fibre_reinforced_plastic_proven_possible)
-- [SoftBank Said to Offer $2.1B Uber Stake via Goldman](https://finance.yahoo.com/news/uber-falls-block-trade-said-214909795.html)
-- [Whitespaces and Strings in Bash](https://indradhanush.github.io/blog/whitespaces-and-strings-in-bash/)
-- [A Tale of Two Long Tails](https://arxiv.org/abs/2107.13098)
-- [Neural Rays for Occlusion-Aware Image-Based Rendering](https://liuyuan-pal.github.io/NeuRay/)
+- [China: Hotels,banks,business need consent for facial recognition](https://news.bloomberglaw.com/tech-and-telecom-law/chinas-top-court-sets-detailed-rules-for-facial-recognition)
+- [Fairtax](https://fairtax.org/)
+- [Chores, the Cheater's Guide to Mindfulness](https://frontleft.substack.com/p/chores-the-cheaters-guide-to-mindfulness)
+- [Hacker Dojo Returns to Mountain View](https://twitter.com/hackerdojo/status/1420124360233426951)
+- [Descriptorless Files for Io_uring](https://lwn.net/Articles/863071/)
+- [Gary Gensler, SEC Chair, specifically calls out wild movements in GameStop stock](https://twitter.com/GaryGensler/status/1420790999006261249)
+- [What Is Synthetic Film Dubbing: AI Deepfake Technology Explained](https://www.respeecher.com/blog/synthetic-film-dubbing-ai-deepfake-technology-explained)
+- [Social Status: Down the Rabbit Hole](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
+- [The Mortality Cost of Carbon](https://www.nature.com/articles/s41467-021-24487-w)
+- [FreeEEG32](https://www.crowdsupply.com/neuroidss/freeeeg32)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Global chip shortage affects Apple and the iPhone](https://www.computerworld.com/article/3627292/podcast-global-chip-shortage-affects-apple-and-the-iphone.html#tk.rss_all)
+- [How to give your phone an Android-12-inspired privacy upgrade](https://www.computerworld.com/article/3626937/android-12-privacy-upgrade.html#tk.rss_all)
+- [Google reads the room, tells workers to get their COVID-19 shots](https://www.computerworld.com/article/3627250/google-reads-the-room-tells-workers-to-get-their-covid-19-shots.html#tk.rss_all)
+- [Accelerating cloud adoption in financial services](https://www.computerworld.com/article/3625520/accelerating-cloud-adoption-in-financial-services.html#tk.rss_all)
 - [Apple’s billion-dollar component nose bleed](https://www.computerworld.com/article/3626915/apple-s-billion-dollar-component-nose-bleed-and-you.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [What's in the latest Chrome update? Faster phishing site warnings, more Actions](https://www.computerworld.com/article/3211427/whats-in-the-latest-chrome-update.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [The most important Chrome OS feature of 2021 isn't coming from Google](https://www.computerworld.com/article/3626467/chrome-os-feature-google.html#tk.rss_all)
-- [Apple: Macs are best choice for enterprise](https://www.computerworld.com/article/3626697/apple-macs-are-best-choice-for-enterprise.html#tk.rss_all)
-- [Pandemic redux: No, your workers aren’t coming back to the office](https://www.computerworld.com/article/3626361/pandemic-redux-no-your-workers-aren-t-coming-back-to-the-office.html#tk.rss_all)
-- [It's time, IT — set the rules of the road for mobile](https://www.computerworld.com/article/3626930/its-time-for-it-to-set-the-rules-of-the-road-for-mobile.html#tk.rss_all)
-- [Patch Tuesday, 'C release' updates to continue for Windows 11](https://www.computerworld.com/article/3626928/patch-tuesday-c-release-updates-to-continue-for-windows-11.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Top Women in Cyber Security Celebration 2021: Honouree roundup](https://www.itworldcanada.com/article/top-women-in-cyber-security-celebration-2021-honouree-roundup/456448)
+- [How to make careers in cybersecurity more accessible for women](https://www.itworldcanada.com/article/how-to-make-careers-in-cybersecurity-more-accessible-for-women/456499)
+- [The road less travelled: A leadership story about careers in cybersecurity](https://www.itworldcanada.com/article/the-road-less-travelled-a-leadership-story-about-careers-in-cybersecurity/456494)
+- [Hashtag Trending July 29 – Scam baiter gets baited; Alien search using AI; Dell PC energy compliance](https://www.itworldcanada.com/article/hashtag-trending-july-29-scam-baiter-gets-baited-alien-search-using-ai-dell-pc-energy-compliance/456479)
 - [Average cost of a data breach still rising, says IBM study](https://www.itworldcanada.com/article/average-cost-of-a-data-breach-still-rising-says-ibm-study/456443)
 - [Many firms preparing for proposed changes to Canada’s privacy law: Survey](https://www.itworldcanada.com/article/many-firms-preparing-for-proposed-changes-to-canadas-privacy-law-survey/456375)
-- [Intel isn’t pulling a fast one with its node rename, here’s why](https://www.itworldcanada.com/article/intels-isnt-pulling-a-fast-one-with-its-node-rename-heres-why/456380)
+- [Intel node rename – not pulling a fast one](https://www.itworldcanada.com/article/intels-isnt-pulling-a-fast-one-with-its-node-rename-heres-why/456380)
 - [National mental health and addiction treatment chain acknowledges data theft: CTV](https://www.itworldcanada.com/article/national-mental-health-and-addiction-treatment-chain-acknowledges-data-theft-ctv/456384)
 - [Cyber Security Today, July 28, 2021 – Remember this ransomware resource, a new ransomware strain updated and vulnerabilities in another Kaseya product](https://www.itworldcanada.com/article/cyber-security-today-july-28-2021-remember-this-ransomware-resource-a-new-ransomware-strain-updated-and-vulnerabilities-in-another-kaseya-product/456372)
 - [Hashtag Trending July 28 – Facebook courts religious groups; YouTube censor’s Brazil’s President; Jeff Bezos offers NASA $2 billion deal](https://www.itworldcanada.com/article/hashtag-trending-july-28-facebook-courts-religious-groups-youtube-censors-brazils-president-jeff-bezos-offers-nasa-2-billion-deal/456378)
-- [Watch for malware using uncommon programming languages, says BlackBerry](https://www.itworldcanada.com/article/watch-for-malware-using-uncommon-programming-languages-says-blackberry/456281)
-- [Global tech firm sets up Canadian headquarters in Calgary](https://www.itworldcanada.com/article/global-tech-firm-sets-up-canadian-headquarters-in-calgary/456353)
-- [Toronto firm helps Cubans access social media platforms](https://www.itworldcanada.com/article/toronto-firm-helps-cubans-access-social-media-platforms/456317)
-- [Coffee Briefing, July 27, 2021 – Zoho’s free online invoicing solution; Hootsuite’s new CMO; Shopify’s new centralized chat tool; and more](https://www.itworldcanada.com/article/coffee-briefing-july-27-2021-zohos-free-online-invoicing-solution-hootsuites-new-cmo-shopifys-new-centralized-chat-tool-and-more/456337)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there an "open" grid-computing solution that allows vendors to share resources such as services/networks/computing power in a similar fashion as GCP/AWS/Azure? So in such way everyone is "the cloud"?](https://www.reddit.com/r/InformationTechnology/comments/ou2qty/is_there_an_open_gridcomputing_solution_that/)
 - [Future of IT - Where to focus investments and what's worth researching?](https://www.reddit.com/r/InformationTechnology/comments/ot6ovx/future_of_it_where_to_focus_investments_and_whats/)
 - [What industries have a more steady pace in help desk?](https://www.reddit.com/r/InformationTechnology/comments/oswpbj/what_industries_have_a_more_steady_pace_in_help/)
 - [Network + voucher](https://www.reddit.com/r/InformationTechnology/comments/ospwsc/network_voucher/)
@@ -415,7 +416,6 @@
 - [what cool things to do with dell poweredge r610](https://www.reddit.com/r/InformationTechnology/comments/oqmtqv/what_cool_things_to_do_with_dell_poweredge_r610/)
 - [Should You Do Help Desk to Get Into IT - Video](https://www.reddit.com/r/InformationTechnology/comments/oqim0i/should_you_do_help_desk_to_get_into_it_video/)
 - [IaaS, DaaS difference](https://www.reddit.com/r/InformationTechnology/comments/opp2dx/iaas_daas_difference/)
-- [Unsure of what to do](https://www.reddit.com/r/InformationTechnology/comments/op99d5/unsure_of_what_to_do/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

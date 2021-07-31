@@ -391,6 +391,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Joint parliamentary committee to scrutinise Online Safety Bill](https://www.computerweekly.com/news/252504662/Joint-parliamentary-committee-to-scrutinise-Online-Safety-Bill)
+- [Covid-19: TechUK urges government to tweak self-isolation policy for critical datacentre workers](https://www.computerweekly.com/news/252504659/Covid-19-TechUK-urges-government-to-tweak-self-isolation-policy-for-critical-datacentre-workers)
+- [Covid-19: Lockdown lifting slows Amazon’s sales growth during Q2](https://www.computerweekly.com/news/252504657/Covid-19-Lockdown-lifting-slows-Amazons-sales-growth-during-Q2)
 - [HMRC hits Home Office with £33.5m bill over ‘careless’ application of IR35 rules](https://www.computerweekly.com/news/252504614/HMRC-hits-Home-Office-with-335m-bill-over-careless-application-of-IR35-rules)
 - [Technical hiccups force Babuk ransomware gang to change tactics](https://www.computerweekly.com/news/252504610/Technical-hiccups-force-Babuk-ransomware-gang-to-change-tactics)
 - [Investigatory Powers Tribunal finds UK spy agencies unlawfully collected personal data](https://www.computerweekly.com/news/252504608/Investigatory-Powers-Tribunal-finds-UK-spy-agencies-unlawfully-collected-personal-data)
@@ -398,9 +401,6 @@
 - [Top vulnerabilities target perimeter devices](https://www.computerweekly.com/news/252504576/Top-vulnerabilities-target-perimeter-devices)
 - [BEIS replaces Excel-based grant system with data management portal](https://www.computerweekly.com/news/252504568/BEIS-replaces-Excel-based-grant-system-with-a-data-management-portal)
 - [Google posts $50bn in ads revenue as it looks to broaden the business](https://www.computerweekly.com/news/252504567/Google-posts-50bn-in-ads-revenue-as-it-looks-to-broaden-the-business)
-- [Vote now: Most Influential Woman in UK Technology 2021](https://www.computerweekly.com/news/252504566/Vote-now-Most-Influential-Woman-in-UK-Technology-2021)
-- [Thousands wrongly given criminal convictions after computer error](https://www.computerweekly.com/news/252504565/Thousands-wrongly-given-criminal-convictions-after-computer-error)
-- [COP26 cyber resource hub launched for Glasgow businesses](https://www.computerweekly.com/news/252504560/COP26-cyber-resource-hub-launched-for-Glasgow-businesses)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

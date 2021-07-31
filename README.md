@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Friday July 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-30-2021/456540)
+- [Guiding the next cohort of women in cybersecurity](https://www.itworldcanada.com/article/guiding-the-next-cohort-of-women-in-cybersecurity/456538)
+- [Canadian VPN provider Windscribe admits seized Ukrainian servers weren’t encrypted](https://www.itworldcanada.com/article/canadian-vpn-provider-windscribe-admits-seized-ukrainian-servers-werent-encrypted/456507)
+- [Hashtag Trending July 30 – Chipotle phishing scam; Big tech make’s vaccines mandatory; Media and vaccine rates](https://www.itworldcanada.com/article/hashtag-trending-july-30-chipotle-phishing-scam-big-tech-makes-vaccines-mandatory-media-and-vaccine-rates/456523)
+- [Cyber Security Today, July 30, 2021 – Canada consultation on social media regulation, a new ransomware group, abuse of WeTransfer and more](https://www.itworldcanada.com/article/cyber-security-today-july-30-2021-canada-consultation-on-social-media-regulation-a-new-ransomware-group-abuse-of-wetransfer-and-more/456503)
+- [Create more hours in a day with robotic process automation](https://www.itworldcanada.com/article/create-more-hours-in-a-day-with-robotic-process-automation/456513)
 - [Top Women in Cyber Security Celebration 2021: Honouree roundup](https://www.itworldcanada.com/article/top-women-in-cyber-security-celebration-2021-honouree-roundup/456448)
 - [How to make careers in cybersecurity more accessible for women](https://www.itworldcanada.com/article/how-to-make-careers-in-cybersecurity-more-accessible-for-women/456499)
 - [The road less travelled: A leadership story about careers in cybersecurity](https://www.itworldcanada.com/article/the-road-less-travelled-a-leadership-story-about-careers-in-cybersecurity/456494)
 - [Hashtag Trending July 29 – Scam baiter gets baited; Alien search using AI; Dell PC energy compliance](https://www.itworldcanada.com/article/hashtag-trending-july-29-scam-baiter-gets-baited-alien-search-using-ai-dell-pc-energy-compliance/456479)
-- [Average cost of a data breach still rising, says IBM study](https://www.itworldcanada.com/article/average-cost-of-a-data-breach-still-rising-says-ibm-study/456443)
-- [Many firms preparing for proposed changes to Canada’s privacy law: Survey](https://www.itworldcanada.com/article/many-firms-preparing-for-proposed-changes-to-canadas-privacy-law-survey/456375)
-- [Intel node rename – not pulling a fast one](https://www.itworldcanada.com/article/intels-isnt-pulling-a-fast-one-with-its-node-rename-heres-why/456380)
-- [National mental health and addiction treatment chain acknowledges data theft: CTV](https://www.itworldcanada.com/article/national-mental-health-and-addiction-treatment-chain-acknowledges-data-theft-ctv/456384)
-- [Cyber Security Today, July 28, 2021 – Remember this ransomware resource, a new ransomware strain updated and vulnerabilities in another Kaseya product](https://www.itworldcanada.com/article/cyber-security-today-july-28-2021-remember-this-ransomware-resource-a-new-ransomware-strain-updated-and-vulnerabilities-in-another-kaseya-product/456372)
-- [Hashtag Trending July 28 – Facebook courts religious groups; YouTube censor’s Brazil’s President; Jeff Bezos offers NASA $2 billion deal](https://www.itworldcanada.com/article/hashtag-trending-july-28-facebook-courts-religious-groups-youtube-censors-brazils-president-jeff-bezos-offers-nasa-2-billion-deal/456378)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

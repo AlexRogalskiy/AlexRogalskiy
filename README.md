@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China: Hotels,banks,business need consent for facial recognition](https://news.bloomberglaw.com/tech-and-telecom-law/chinas-top-court-sets-detailed-rules-for-facial-recognition)
-- [Fairtax](https://fairtax.org/)
-- [Chores, the Cheater's Guide to Mindfulness](https://frontleft.substack.com/p/chores-the-cheaters-guide-to-mindfulness)
-- [Hacker Dojo Returns to Mountain View](https://twitter.com/hackerdojo/status/1420124360233426951)
-- [Descriptorless Files for Io_uring](https://lwn.net/Articles/863071/)
-- [Gary Gensler, SEC Chair, specifically calls out wild movements in GameStop stock](https://twitter.com/GaryGensler/status/1420790999006261249)
-- [What Is Synthetic Film Dubbing: AI Deepfake Technology Explained](https://www.respeecher.com/blog/synthetic-film-dubbing-ai-deepfake-technology-explained)
-- [Social Status: Down the Rabbit Hole](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
-- [The Mortality Cost of Carbon](https://www.nature.com/articles/s41467-021-24487-w)
-- [FreeEEG32](https://www.crowdsupply.com/neuroidss/freeeeg32)
+- [Bret Victor – Ladder of Abstraction (2011)](http://worrydream.com/LadderOfAbstraction/)
+- [10 years later and unresolved – Allow custom domains for Atlassian Cloud apps](https://jira.atlassian.com/browse/CLOUD-6999)
+- [Someone Worked on Outer Worlds and Outer Wilds at the Same Time, Somehow](https://www.nintendolife.com/news/2021/07/random_someone_worked_on_outer_worlds_and_outer_wilds_at_the_same_time_somehow)
+- [Does ‘The Da Vinci Code’ Writer Have a Secret?](https://www.nytimes.com/2021/07/29/style/dan-brown-advice-book.html)
+- [Apollo 11 ascent stage may still be orbiting the moon](https://phys.org/news/2021-07-apollo-ascent-stage-orbiting-moon.html)
+- [Apple App Store fees are a de facto global tax on the Internet](https://twitter.com/elonmusk/status/1421152540394143746)
+- [NoCom Minecraft Exploit](https://github.com/nerdsinspace/nocom-explanation/blob/main/README.md)
+- [Srsly Risky Biz: Thursday, July 29](https://srslyriskybiz.substack.com/p/srsly-risky-biz-thursday-july-29)
+- [The British shipwreck that changed the world](https://www.bbc.com/travel/article/20210729-the-british-shipwreck-that-changed-the-world)
+- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

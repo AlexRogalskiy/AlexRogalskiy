@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_all)
+- [Could you survive a cloud architecture walkthrough?](https://www.infoworld.com/article/3626932/could-you-survive-a-cloud-architecture-walkthrough.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [OpenAI debuts Python-based Triton for GPU-powered machine learning](https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html#tk.rss_all)
 - [Microsoft .NET adoption gets boost from open source](https://www.infoworld.com/article/3627311/microsoft-net-adoption-gets-boost-from-open-source.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [How Grafana Tempo simplifies distributed tracing](https://www.infoworld.com/article/3623616/how-grafana-tempo-simplifies-distributed-tracing.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [How to use correlation IDs in ASP.NET Core MVC](https://www.infoworld.com/article/3626914/how-to-use-correlation-ids-in-aspnet-core-mvc.html#tk.rss_all)
-- [Design for responsible AI with Microsoft’s HAX](https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html#tk.rss_all)
-- [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

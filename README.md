@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
-- [Stat of the day: 38% of remote workers work from bed](https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html)
-- [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
-- [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
-- [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
-- [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
-- [UpCodes is hiring our first PM to automate compliance for architects](https://up.codes/careers#product_manager)
-- [Cal Newport on an industrial revolution for office work](https://80000hours.org/podcast/episodes/cal-newport-industrial-revolution-for-office-work/)
-- [Slate – A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
-- [Facebook is now claiming official CDC.gov links are “False Information”](https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg)
+- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
+- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
+- [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
+- [300 Megawatt Tesla battery catches fire](https://www.drive.com.au/news/geelongs-300-megawatt-tesla-battery-catches-fire-authorities-working-to-contain-blaze/)
+- [Tell HN: Consider listing your contact details](https://news.ycombinator.com/item?id=28012969)
+- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
+- [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
+- [SoloSuit (YC W21) is hiring a remote senior engineer](https://www.solosuit.com/careers#se)
+- [I Am Parting with My Crypto Library](https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html)
+- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

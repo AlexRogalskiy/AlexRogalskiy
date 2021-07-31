@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: more swimming gold for Australia, athletics blasts off and more – live!](https://www.theguardian.com/sport/live/2021/jul/29/tokyo-2020-olympics-athletics-swimming-latest-results)
-- [How we all got hooked on caffeine](https://www.theguardian.com/news/audio/2021/jul/30/how-we-got-hooked-caffeine-podcast)
-- [Sheila Jackson Lee is third Black lawmaker to be arrested during voting rights protests](https://www.theguardian.com/us-news/2021/jul/29/sheila-jackson-lee-arrested-voting-rights-protests)
-- [Detroit Pistons tab Cade Cunningham with No 1 overall pick in NBA draft](https://www.theguardian.com/sport/2021/jul/29/nba-draft-picks-detroit-pistons-cade-cunningham)
-- [Israel to offer Pfizer Covid booster shots to people over 60](https://www.theguardian.com/world/2021/jul/30/israel-to-offer-pfizer-covid-booster-shots-to-people-over-60)
-- [Russia rocket mishap briefly nudges International Space Station out of position](https://www.theguardian.com/science/2021/jul/30/russia-rocket-mishap-briefly-nudges-international-space-station-out-of-position)
-- [Over 5m people in UK had parcels lost or stolen last year, says Citizens Advice](https://www.theguardian.com/business/2021/jul/30/over-5m-people-in-uk-had-parcels-lost-or-stolen-last-year-says-citizens-advice)
-- [Billie Eilish: Happier Than Ever review – inside pop stardom’s heart of darkness](https://www.theguardian.com/music/2021/jul/30/billie-eilish-happier-than-ever-review-inside-pop-stardoms-heart-of-darkness)
-- [The Guardian view on race and policing: a wake-up call from MPs | Editorial](https://www.theguardian.com/commentisfree/2021/jul/30/the-guardian-view-on-race-and-policing-a-wake-up-call-from-mps)
-- [MPs rebuke police for ‘systemic failure’ to improve record on race](https://www.theguardian.com/uk-news/2021/jul/30/mps-rebuke-police-for-systemic-failure-to-improve-record-on-race)
+- [Tokyo 2020 Olympics: Ledecky beats Titmus, another gold for McKeown, athletics, plus GB win triathlon gold and more – live!](https://www.theguardian.com/sport/live/2021/jul/30/tokyo-2020-olympics-triathlon-relay-athletics-swimming-and-more-live)
+- [Simone Biles’ Olympics in doubt as she withdraws from vault and uneven bars](https://www.theguardian.com/sport/2021/jul/30/simone-biles-withdraws-vault-uneven-bars-gymnastics-tokyo-olympics-2020)
+- [UK weather: flood warnings as Storm Evert moves eastwards](https://www.theguardian.com/uk-news/2021/jul/30/uk-weather-flood-warnings-as-storm-evert-moves-eastwards)
+- [Team GB win Olympic triathlon relay as Jonny Brownlee finally claims gold](https://www.theguardian.com/sport/2021/jul/31/team-gb-win-olympic-triathlon-relay-as-jonny-brownlee-finally-claims-gold)
+- [Justice department tells IRS to hand Trump tax returns to Congress – as it happened](https://www.theguardian.com/us-news/live/2021/jul/30/congress-eviction-moratorium-us-politics-biden-democrats-republicans-latest-news)
+- [Coronavirus live news: WHO says Delta variant not more deadly – as it happened](https://www.theguardian.com/world/live/2021/jul/30/coronavirus-live-news-philippines-locks-down-13-million-in-manila-japan-to-expand-state-of-emergency)
+- [First Night of the Proms review: a delightful shared experience with some surprises](https://www.theguardian.com/music/2021/jul/30/first-night-of-the-proms-review-a-delightful-shared-experience-with-some-surprises)
+- [Bob Odenkirk says he had small heart attack but vows ‘I’ll be back soon’](https://www.theguardian.com/culture/2021/jul/30/bob-odenkirk-better-call-saul-heart-attack)
+- [IRS must turn over Trump tax returns to Congress, DoJ says](https://www.theguardian.com/us-news/2021/jul/30/donald-trump-tax-returns-irs-congress-doj)
+- [Annie Mac’s last Radio 1 show review – beloved DJ bows out with a beautiful tearjerker](https://www.theguardian.com/tv-and-radio/2021/jul/30/annie-mac-last-bbc-radio-1-show-review-beloved-dj-bows-out-with-beautiful-tearjerker)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

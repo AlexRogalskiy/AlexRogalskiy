@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s BYOD improvements will save time for IT](https://www.computerworld.com/article/3627295/apples-byod-improvements-will-save-time-for-it.html#tk.rss_all)
+- [This SQL master class bundle is temporarily discounted to just $20](https://www.computerworld.com/article/3625888/this-sql-master-class-bundle-is-temporarily-discounted-to-just-20.html#tk.rss_all)
+- [Tech innovators pivot to support the post-COVID workplace](https://www.computerworld.com/article/3627235/tech-innovators-pivot-to-support-the-post-covid-workplace.html#tk.rss_all)
+- [3 near-term tech advances that could change the future](https://www.computerworld.com/article/3627244/three-near-term-tech-advances-that-could-change-the-future.html#tk.rss_all)
+- [Online privacy: Best browsers, settings, and tips](https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all)
 - [Podcast: Global chip shortage affects Apple and the iPhone](https://www.computerworld.com/article/3627292/podcast-global-chip-shortage-affects-apple-and-the-iphone.html#tk.rss_all)
 - [How to give your phone an Android-12-inspired privacy upgrade](https://www.computerworld.com/article/3626937/android-12-privacy-upgrade.html#tk.rss_all)
 - [Google reads the room, tells workers to get their COVID-19 shots](https://www.computerworld.com/article/3627250/google-reads-the-room-tells-workers-to-get-their-covid-19-shots.html#tk.rss_all)
 - [Accelerating cloud adoption in financial services](https://www.computerworld.com/article/3625520/accelerating-cloud-adoption-in-financial-services.html#tk.rss_all)
 - [Apple’s billion-dollar component nose bleed](https://www.computerworld.com/article/3626915/apple-s-billion-dollar-component-nose-bleed-and-you.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [What's in the latest Chrome update? Faster phishing site warnings, more Actions](https://www.computerworld.com/article/3211427/whats-in-the-latest-chrome-update.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [The most important Chrome OS feature of 2021 isn't coming from Google](https://www.computerworld.com/article/3626467/chrome-os-feature-google.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

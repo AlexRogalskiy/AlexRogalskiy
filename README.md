@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
-- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
-- [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
-- [300 Megawatt Tesla battery catches fire](https://www.drive.com.au/news/geelongs-300-megawatt-tesla-battery-catches-fire-authorities-working-to-contain-blaze/)
-- [Tell HN: Consider listing your contact details](https://news.ycombinator.com/item?id=28012969)
-- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
-- [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
-- [SoloSuit (YC W21) is hiring a remote senior engineer](https://www.solosuit.com/careers#se)
-- [I Am Parting with My Crypto Library](https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html)
-- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
+- [Ask HN: Is Linus Torvalds a Great Man of History?](https://news.ycombinator.com/item?id=28022990)
+- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
+- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
+- [Six corporations control 90% of America media](https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/)
+- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
+- [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
+- [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
+- [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
+- [Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX](https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/)
+- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

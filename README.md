@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bret Victor – Ladder of Abstraction (2011)](http://worrydream.com/LadderOfAbstraction/)
-- [10 years later and unresolved – Allow custom domains for Atlassian Cloud apps](https://jira.atlassian.com/browse/CLOUD-6999)
-- [Someone Worked on Outer Worlds and Outer Wilds at the Same Time, Somehow](https://www.nintendolife.com/news/2021/07/random_someone_worked_on_outer_worlds_and_outer_wilds_at_the_same_time_somehow)
-- [Does ‘The Da Vinci Code’ Writer Have a Secret?](https://www.nytimes.com/2021/07/29/style/dan-brown-advice-book.html)
-- [Apollo 11 ascent stage may still be orbiting the moon](https://phys.org/news/2021-07-apollo-ascent-stage-orbiting-moon.html)
-- [Apple App Store fees are a de facto global tax on the Internet](https://twitter.com/elonmusk/status/1421152540394143746)
-- [NoCom Minecraft Exploit](https://github.com/nerdsinspace/nocom-explanation/blob/main/README.md)
-- [Srsly Risky Biz: Thursday, July 29](https://srslyriskybiz.substack.com/p/srsly-risky-biz-thursday-july-29)
-- [The British shipwreck that changed the world](https://www.bbc.com/travel/article/20210729-the-british-shipwreck-that-changed-the-world)
-- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
+- [Open Sourcing and Startup Funding: Evidence from GitHub [pdf]](https://www.hbs.edu/ris/Publication%20Files/22-001_63061711-2757-46e6-acca-ed0f57bde7c0.pdf)
+- [In Defense of the Jupyter Notebook](https://matt-rickard.com/in-defense-of-the-jupyter-notebook/)
+- [Show HN: Walking simulator fitness game. Walk to unfold a thriller story in app](https://apps.apple.com/us/app/fitsaga/id1386537914)
+- [Mask-free Sweden nears zero daily Covid deaths](https://www.rt.com/news/530759-sweden-delta-masks-zero-covid-deaths/)
+- [The Fremen Mirage, Part I: War at the Dawn of Civilization](https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization/)
+- [Ticket Monkey](https://blog.alexrohde.com/archives/749)
+- [How the English language became such a mess (2015)](https://www.bbc.com/culture/article/20150605-your-language-is-sinful)
+- [Square Milk Jugs](https://en.wikipedia.org/wiki/Square_milk_jug)
+- [The Invisible Tech Behemoth](https://www.theatlantic.com/ideas/archive/2021/07/microsofts-antitrust/619599/)
+- [Ask HN: Is there software like xiphos for the study of the Quran in English?](https://news.ycombinator.com/item?id=28023003)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

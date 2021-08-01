@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: Ledecky beats Titmus, another gold for McKeown, athletics, plus GB win triathlon gold and more – live!](https://www.theguardian.com/sport/live/2021/jul/30/tokyo-2020-olympics-triathlon-relay-athletics-swimming-and-more-live)
-- [Simone Biles’ Olympics in doubt as she withdraws from vault and uneven bars](https://www.theguardian.com/sport/2021/jul/30/simone-biles-withdraws-vault-uneven-bars-gymnastics-tokyo-olympics-2020)
-- [UK weather: flood warnings as Storm Evert moves eastwards](https://www.theguardian.com/uk-news/2021/jul/30/uk-weather-flood-warnings-as-storm-evert-moves-eastwards)
-- [Team GB win Olympic triathlon relay as Jonny Brownlee finally claims gold](https://www.theguardian.com/sport/2021/jul/31/team-gb-win-olympic-triathlon-relay-as-jonny-brownlee-finally-claims-gold)
-- [Justice department tells IRS to hand Trump tax returns to Congress – as it happened](https://www.theguardian.com/us-news/live/2021/jul/30/congress-eviction-moratorium-us-politics-biden-democrats-republicans-latest-news)
-- [Coronavirus live news: WHO says Delta variant not more deadly – as it happened](https://www.theguardian.com/world/live/2021/jul/30/coronavirus-live-news-philippines-locks-down-13-million-in-manila-japan-to-expand-state-of-emergency)
-- [First Night of the Proms review: a delightful shared experience with some surprises](https://www.theguardian.com/music/2021/jul/30/first-night-of-the-proms-review-a-delightful-shared-experience-with-some-surprises)
-- [Bob Odenkirk says he had small heart attack but vows ‘I’ll be back soon’](https://www.theguardian.com/culture/2021/jul/30/bob-odenkirk-better-call-saul-heart-attack)
-- [IRS must turn over Trump tax returns to Congress, DoJ says](https://www.theguardian.com/us-news/2021/jul/30/donald-trump-tax-returns-irs-congress-doj)
-- [Annie Mac’s last Radio 1 show review – beloved DJ bows out with a beautiful tearjerker](https://www.theguardian.com/tv-and-radio/2021/jul/30/annie-mac-last-bbc-radio-1-show-review-beloved-dj-bows-out-with-beautiful-tearjerker)
+- [Tokyo 2020 Olympics: McKeon wins another gold, men’s golf, athletics, boxing and more – live!](https://www.theguardian.com/sport/live/2021/jul/31/tokyo-2020-olympics-athletics-swimming-gymnastics-boxing-golf-and-more-live)
+- [Israel: protests against renewed Covid restrictions as cases hit highest in months](https://www.theguardian.com/world/2021/aug/01/israel-protests-against-renewed-covid-restrictions-as-cases-hit-highest-in-months)
+- [Discounts from Uber and Deliveroo will lure young people in UK to get Covid jab](https://www.theguardian.com/world/2021/aug/01/discounts-uber-deliveroo-lure-young-people-in-uk-covid-jab-vaccinations)
+- [Cool shades: 30 of the best sunglasses by shape – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/31/cool-shades-30-of-the-best-sunglasses-by-shape-in-pictures)
+- [Celtic slump to opening Scottish Premiership defeat at promoted Hearts](https://www.theguardian.com/football/2021/jul/31/scottish-premiership-roundup-celtic-hearts)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/31/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Tourists rescued from burning Med resorts by flotilla of boats](https://www.theguardian.com/world/2021/jul/31/tourists-rescued-mediterranean-beach-turkey-wildfires-heatwave)
+- [Brands Hatch marshal dies after race car spins off track](https://www.theguardian.com/uk-news/2021/jul/31/brands-hatch-marshal-killed-after-race-car-spins-off-track)
+- [Assaults on police in England and Wales rise above 100 a day during pandemic](https://www.theguardian.com/uk-news/2021/jul/31/assaults-on-police-in-england-and-wales-rise-above-100-a-day-during-pandemic)
+- [Conservatives accused of cutting local sport funding by nearly half since 2010](https://www.theguardian.com/sport/2021/jul/31/conservatives-accused-of-cutting-local-sport-funding-by-nearly-half-since-2010)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

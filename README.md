@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Are your agile and devops processes good enough?](https://www.infoworld.com/article/3626460/are-your-agile-and-devops-processes-good-enough.html#tk.rss_all)
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_all)
 - [Could you survive a cloud architecture walkthrough?](https://www.infoworld.com/article/3626932/could-you-survive-a-cloud-architecture-walkthrough.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Easily create interactive ggplot graphs in R with ggiraph](https://www.infoworld.com/article/3626911/create-interactive-ggplot-graphs-in-r-with-ggiraph.html#tk.rss_all)
 - [How Grafana Tempo simplifies distributed tracing](https://www.infoworld.com/article/3623616/how-grafana-tempo-simplifies-distributed-tracing.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [How to use correlation IDs in ASP.NET Core MVC](https://www.infoworld.com/article/3626914/how-to-use-correlation-ids-in-aspnet-core-mvc.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

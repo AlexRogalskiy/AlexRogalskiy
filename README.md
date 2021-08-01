@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google IT Support Certificate](https://www.reddit.com/r/InformationTechnology/comments/ovg1vq/google_it_support_certificate/)
+- [Free Training on Microsoft Courses - Will Cover Full Courses](https://www.reddit.com/r/InformationTechnology/comments/ov8q0k/free_training_on_microsoft_courses_will_cover/)
 - [Uh....](https://www.reddit.com/r/InformationTechnology/comments/our7dv/uh/)
 - [Is there an "open" grid-computing solution that allows vendors to share resources such as services/networks/computing power in a similar fashion as GCP/AWS/Azure? So in such way everyone is "the cloud"?](https://www.reddit.com/r/InformationTechnology/comments/ou2qty/is_there_an_open_gridcomputing_solution_that/)
 - [Future of IT - Where to focus investments and what's worth researching?](https://www.reddit.com/r/InformationTechnology/comments/ot6ovx/future_of_it_where_to_focus_investments_and_whats/)
@@ -414,8 +416,6 @@
 - [My PC crashes/freezes on startup. What may cause this? (pictures in the post)](https://www.reddit.com/r/InformationTechnology/comments/osncnw/my_pc_crashesfreezes_on_startup_what_may_cause/)
 - [Computer and phone tutorials](https://www.reddit.com/r/InformationTechnology/comments/osew9q/computer_and_phone_tutorials/)
 - [Just a question , Is it possible to share IT video tutorials from YouTube in this IT Reddit ?](https://www.reddit.com/r/InformationTechnology/comments/oqrmoj/just_a_question_is_it_possible_to_share_it_video/)
-- [what cool things to do with dell poweredge r610](https://www.reddit.com/r/InformationTechnology/comments/oqmtqv/what_cool_things_to_do_with_dell_poweredge_r610/)
-- [Should You Do Help Desk to Get Into IT - Video](https://www.reddit.com/r/InformationTechnology/comments/oqim0i/should_you_do_help_desk_to_get_into_it_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

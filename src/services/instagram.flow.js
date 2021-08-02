@@ -1,12 +1,13 @@
 'use strict';
 
 // services
-const puppeteerService = require('./puppeteer.service');
-const { formatDateByLongPattern, renderView } = require('../utils/commons');
-// constants
-const { CONFIG_PROPS, SERVICE_PROPS } = require('../configs/constants');
+import {puppeteerService} from './puppeteer.service.js';
+import {formatDateByLongPattern, renderView} from '../utils/commons.js';
 
-async function runInstagramFlow() {
+// constants
+import {CONFIG_PROPS, SERVICE_PROPS} from '../configs/constants.js';
+
+export async function runInstagramFlow() {
   const MODEL_DATA = {
     refresh_date: formatDateByLongPattern(new Date()),
   };
@@ -18,7 +19,7 @@ async function runInstagramFlow() {
     );
     for (let i = 1; i <= instagramImages.length; i++) {
       MODEL_DATA[`img${i}_src`] = instagramImages[i - 1][0].src;
-      MODEL_DATA[`img${i}_alt`] = instagramImages[i - 1][0].alt.replace(/(?:\r\n|\r|\n)/g, ' ');
+      MODEL_DATA[`img${i}_alt`] = instagramImages[i - 1][0].alt.replace(/\r\n|\r|\n/g, ' ');
     }
   }
 
@@ -41,5 +42,3 @@ async function runInstagramFlow() {
    */
   await updateInstagramView();
 }
-
-module.exports = runInstagramFlow;

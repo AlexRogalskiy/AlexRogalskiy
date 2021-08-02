@@ -1,12 +1,13 @@
 'use strict';
 
 // services
-const puppeteerService = require('./puppeteer.service');
-const { formatDateByLongPattern, renderView } = require('../utils/commons');
-// constants
-const { CONFIG_PROPS, SERVICE_PROPS } = require('../configs/constants');
+import {puppeteerService} from './puppeteer.service.js';
+import {formatDateByLongPattern, renderView} from '../utils/commons.js';
 
-async function runPinterestFlow() {
+// constants
+import {CONFIG_PROPS, SERVICE_PROPS} from '../configs/constants.js';
+
+export async function runPinterestFlow() {
   const MODEL_DATA = {
     refresh_date: formatDateByLongPattern(new Date()),
   };
@@ -41,5 +42,3 @@ async function runPinterestFlow() {
    */
   await updatePinterestView();
 }
-
-module.exports = runPinterestFlow;

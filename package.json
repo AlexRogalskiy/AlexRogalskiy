@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "GitHub action to fetch data from external services",
   "main": "index.js",
+  "type": "module",
   "license": "GPLv3",
   "scripts": {
     "format": "prettier --write **/*.js",

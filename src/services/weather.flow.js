@@ -1,21 +1,26 @@
 'use strict';
 
 // configurations
-require('https').globalAgent.options.ca = require('ssl-root-cas').create();
+import {globalAgent} from 'https';
+
+import {create} from 'ssl-root-cas';
 
 // vendors
-const fetch = require('node-fetch');
-// services
-const {
-  formatSideDirection,
-  formatDateByShortPattern,
-  formatDateByLongPattern,
-  renderView,
-} = require('../utils/commons');
-// constants
-const { CONFIG_PROPS, SERVICE_PROPS } = require('../configs/constants');
+import fetch from 'node-fetch';
 
-async function runWeatherFlow() {
+// constants
+import {CONFIG_PROPS, SERVICE_PROPS} from '../configs/constants.js';
+
+// services
+import {
+  formatDateByLongPattern,
+  formatDateByShortPattern,
+  formatSideDirection, renderView
+} from '../utils/commons.js';
+
+globalAgent.options.ca = create();
+
+export async function runWeatherFlow() {
   const MODEL_DATA = {
     refresh_date: formatDateByLongPattern(new Date()),
   };
@@ -61,5 +66,3 @@ async function runWeatherFlow() {
    */
   await updateWeatherView();
 }
-
-module.exports = runWeatherFlow;

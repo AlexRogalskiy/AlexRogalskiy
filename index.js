@@ -1,14 +1,19 @@
 'use strict';
 
 // configurations
-require('dotenv').config();
-require('https').globalAgent.options.ca = require('ssl-root-cas').create();
+import {config} from 'dotenv';
+import {globalAgent} from 'https';
+
+import {create} from 'ssl-root-cas';
+
+config();
+globalAgent.options.ca = create();
 
 // services
-const puppeteerService = require('./src/services/puppeteer.service');
-const runWeatherFlow = require('./src/services/weather.flow');
-const runInstagramFlow = require('./src/services/instagram.flow');
-const runPinterestFlow = require('./src/services/pinterest.flow');
+import {puppeteerService} from './src/services/puppeteer.service.js';
+import {runWeatherFlow} from './src/services/weather.flow.js';
+import {runInstagramFlow} from './src/services/instagram.flow.js';
+import {runPinterestFlow} from './src/services/pinterest.flow.js';
 
 async function runWorkflows() {
   /**

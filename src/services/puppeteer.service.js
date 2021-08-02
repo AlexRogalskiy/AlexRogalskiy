@@ -1,6 +1,6 @@
 'use strict';
 
-const puppeteer = require('puppeteer');
+import puppeteer from 'puppeteer';
 
 class PuppeteerService {
   #browser;
@@ -95,6 +95,5 @@ class PuppeteerService {
   }
 }
 
-const puppeteerService = new PuppeteerService();
+export const puppeteerService = new PuppeteerService();
 
-module.exports = puppeteerService;

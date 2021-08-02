@@ -1,7 +1,7 @@
 'use strict';
 
 // configuration properties
-const CONFIG_PROPS = {
+export const CONFIG_PROPS = {
   locale: 'en-GB',
   short_date_format: {
     hour: '2-digit',
@@ -22,7 +22,7 @@ const CONFIG_PROPS = {
 };
 
 // service properties
-const SERVICE_PROPS = {
+export const SERVICE_PROPS = {
   INSTAGRAM: {
     number: 4,
     tag: 'visitpetersburg',
@@ -45,9 +45,4 @@ const SERVICE_PROPS = {
     placeholder: /<!--views:weather-marker:start-->[\s\S]*?<!--views:weather-marker:end-->/gm,
     replacer: value => '<!--views:weather-marker:start-->\n' + value + '\n<!--views:weather-marker:end-->',
   },
-};
-
-module.exports = {
-  CONFIG_PROPS,
-  SERVICE_PROPS,
 };

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Open Sourcing and Startup Funding: Evidence from GitHub [pdf]](https://www.hbs.edu/ris/Publication%20Files/22-001_63061711-2757-46e6-acca-ed0f57bde7c0.pdf)
-- [In Defense of the Jupyter Notebook](https://matt-rickard.com/in-defense-of-the-jupyter-notebook/)
-- [Show HN: Walking simulator fitness game. Walk to unfold a thriller story in app](https://apps.apple.com/us/app/fitsaga/id1386537914)
-- [Mask-free Sweden nears zero daily Covid deaths](https://www.rt.com/news/530759-sweden-delta-masks-zero-covid-deaths/)
-- [The Fremen Mirage, Part I: War at the Dawn of Civilization](https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization/)
-- [Ticket Monkey](https://blog.alexrohde.com/archives/749)
-- [How the English language became such a mess (2015)](https://www.bbc.com/culture/article/20150605-your-language-is-sinful)
-- [Square Milk Jugs](https://en.wikipedia.org/wiki/Square_milk_jug)
-- [The Invisible Tech Behemoth](https://www.theatlantic.com/ideas/archive/2021/07/microsofts-antitrust/619599/)
-- [Ask HN: Is there software like xiphos for the study of the Quran in English?](https://news.ycombinator.com/item?id=28023003)
+- [Red Delicious Apples Weren’t Always Horrible](https://newengland.com/today/food/red-delicious-apple/)
+- [History of Dean Kamen's Segway](https://slate.com/human-interest/2021/08/dean-kamen-viral-mystery-invention-2001.html)
+- [Why are there no PUT and DELETE methods on HTML forms?](https://softwareengineering.stackexchange.com/questions/114156/why-are-there-no-put-and-delete-methods-on-html-forms)
+- [Trust in Science Can Ironically Lead to False Beliefs](https://www.sciencealert.com/trust-in-science-can-ironically-give-rise-to-false-beliefs-luckily-there-is-a-solution)
+- [How Tim Pool Became One of the Biggest YouTubers on the Planet](https://www.thedailybeast.com/how-coward-and-phony-tim-pool-became-one-of-the-biggest-political-youtubers-on-the-planet)
+- [Data don’t lie, but they can lead scientists to opposite conclusions](https://www.economist.com/science-and-technology/2021/07/28/data-dont-lie-but-they-can-lead-scientists-to-opposite-conclusions)
+- [OpenForensics: Large-Scale Dataset for Multi-Face Forgery Detection In-the-Wild](https://arxiv.org/abs/2107.14480)
+- [Perceiver IO: A General Architecture for Structured Inputs and Outputs](https://arxiv.org/abs/2107.14795)
+- [The Code Arduino – Duelling and Satisfaction](https://www.noisebridge.net/wiki/Code_Arduino)
+- [Proving a Category Theory Theorem with Rust and Egraphs](https://www.philipzucker.com/egglog2-monic/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: McKeon wins another gold, men’s golf, athletics, boxing and more – live!](https://www.theguardian.com/sport/live/2021/jul/31/tokyo-2020-olympics-athletics-swimming-gymnastics-boxing-golf-and-more-live)
-- [Israel: protests against renewed Covid restrictions as cases hit highest in months](https://www.theguardian.com/world/2021/aug/01/israel-protests-against-renewed-covid-restrictions-as-cases-hit-highest-in-months)
-- [Discounts from Uber and Deliveroo will lure young people in UK to get Covid jab](https://www.theguardian.com/world/2021/aug/01/discounts-uber-deliveroo-lure-young-people-in-uk-covid-jab-vaccinations)
-- [Cool shades: 30 of the best sunglasses by shape – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/31/cool-shades-30-of-the-best-sunglasses-by-shape-in-pictures)
-- [Celtic slump to opening Scottish Premiership defeat at promoted Hearts](https://www.theguardian.com/football/2021/jul/31/scottish-premiership-roundup-celtic-hearts)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/jul/31/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Tourists rescued from burning Med resorts by flotilla of boats](https://www.theguardian.com/world/2021/jul/31/tourists-rescued-mediterranean-beach-turkey-wildfires-heatwave)
-- [Brands Hatch marshal dies after race car spins off track](https://www.theguardian.com/uk-news/2021/jul/31/brands-hatch-marshal-killed-after-race-car-spins-off-track)
-- [Assaults on police in England and Wales rise above 100 a day during pandemic](https://www.theguardian.com/uk-news/2021/jul/31/assaults-on-police-in-england-and-wales-rise-above-100-a-day-during-pandemic)
-- [Conservatives accused of cutting local sport funding by nearly half since 2010](https://www.theguardian.com/sport/2021/jul/31/conservatives-accused-of-cutting-local-sport-funding-by-nearly-half-since-2010)
+- [Tokyo 2020 Olympics: athletics, cycling, weightlifting and more – live!](https://www.theguardian.com/sport/live/2021/aug/01/tokyo-2020-olympics-athletics-cycling-weightlifting-and-more-live)
+- [Why did Unesco drop Liverpool from its heritage list?](https://www.theguardian.com/news/audio/2021/aug/02/why-did-unesco-drop-liverpool-from-its-heritage-list-podcast)
+- [Jacinda Ardern apologises for New Zealand ‘dawn raids’ on Pasifika people in 1970s](https://www.theguardian.com/world/2021/aug/02/jacinda-ardern-apologises-for-new-zealand-dawn-raids-on-pasifika-people-in-1970s)
+- [China tests millions as Nanjing airport outbreak sees Covid cases surge](https://www.theguardian.com/world/2021/aug/02/china-tests-millions-as-nanjing-airport-outbreak-sees-covid-cases-surge)
+- [Lewis Hamilton fears he has long Covid after Hungarian GP exhaustion](https://www.theguardian.com/sport/2021/aug/01/lewis-hamilton-fears-he-has-long-covid-after-hungarian-gp-exhaustion)
+- [Union calls on private NHS employers to match public-sector pay rises](https://www.theguardian.com/society/2021/aug/02/union-calls-on-private-nhs-employers-to-match-public-sector-pay-rises)
+- [No traces of coronavirus found in tests at major English railway stations](https://www.theguardian.com/world/2021/aug/02/no-traces-of-coronavirus-found-in-tests-at-major-english-railway-stations)
+- [Premier League 2021-22 preview No 1: Arsenal](https://www.theguardian.com/football/blog/2021/aug/02/premier-league-2021-22-preview-no-1-arsenal)
+- [Wellbeing in decline in England as loneliness rises, report shows](https://www.theguardian.com/society/2021/aug/02/wellbeing-in-decline-in-england-as-loneliness-rises-report-shows)
+- [Blind Ambition review – a candid, charming take on sight and artistry](https://www.theguardian.com/tv-and-radio/2021/aug/01/blind-ambition-review-a-candid-charming-take-on-sight-and-artistry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

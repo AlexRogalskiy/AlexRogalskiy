@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Is Linus Torvalds a Great Man of History?](https://news.ycombinator.com/item?id=28022990)
-- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
-- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
-- [Six corporations control 90% of America media](https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/)
-- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
-- [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
-- [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
-- [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
-- [Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX](https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/)
-- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
+- [Ask HN: How to Do Accent Reduction?](https://news.ycombinator.com/item?id=28032071)
+- [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
+- [Mysterious Wiper Paralyzes Iranian Trains with Epic Troll](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)
+- [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
+- [L0phtcrack 7 will be released as open source](https://twitter.com/dildog/status/1421830165911556099)
+- [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
+- [MacType: Better Font Rendering for Windows](https://github.com/snowie2000/mactype)
+- [Creative Code Management](https://www.bit-101.com/blog/2021/08/creative-code-management/)
+- [Police can get your data – even if you aren’t suspected of a crime](https://www.vox.com/recode/22565926/police-law-enforcement-data-warrant)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

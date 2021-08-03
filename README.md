@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [The secret to building a future-proof cyber security team](https://www.computerweekly.com/opinion/The-secret-to-building-a-future-proof-cyber-security-team)
-- [Cricket Australia’s replatforming of online services paid off during pandemic](https://www.computerweekly.com/news/252503500/Cricket-Australias-re-platforming-of-online-services-paid-off-during-pandemic)
-- [UK needs legislation with specific focus on biometric technologies](https://www.computerweekly.com/news/252503405/UK-needs-legislation-with-specific-focus-on-biometric-technologies)
-- [Should I be worried about PrintNightmare?](https://www.computerweekly.com/news/252503494/Should-I-be-worried-about-PrintNightmare)
-- [NCSC joins US authorities to expose Russian brute force campaign](https://www.computerweekly.com/news/252503443/NCSC-joins-US-authorities-to-expose-Russian-brute-force-campaign)
-- [UK government issues “safety by design” guidance for tech firms](https://www.computerweekly.com/news/252503419/UK-government-issues-safety-by-design-guidance-for-tech-firms)
-- [US Cybersecurity and Infrastructure Security Agency launches ransomware assessment tool](https://www.computerweekly.com/news/252503403/US-Cybersecurity-and-Infrastructure-Security-Agency-launches-ransomware-assessment-tool)
-- [Cyber espionage campaign targeted central Asian states](https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states)
-- [Ten more former subpostmasters set to have wrongful convictions overturned](https://www.computerweekly.com/news/252503399/Ten-more-former-subpostmasters-set-to-have-wrongful-convictions-overturned)
-- [NHS IT fraudster Barry Stannard sentenced to five years in prison](https://www.computerweekly.com/news/252503307/NHS-IT-fraudster-Barry-Stannard-sentenced-to-five-years-in-prison)
+- [IR35 reforms: TUC demand for government ban on umbrella companies raises eyebrows](https://www.computerweekly.com/news/252504756/IR35-reforms-TUC-demand-for-government-ban-on-umbrella-companies-raises-eyebrows)
+- [Five tips to ensure your crisis comms plan is ready for a cyber attack](https://www.computerweekly.com/opinion/Five-tips-to-ensure-your-crisis-comms-plan-is-ready-for-a-cyber-attack)
+- [Gigabit broadband funding targets over two million homes and businesses](https://www.computerweekly.com/news/252504741/Gigabit-broadband-funding-targets-over-two-million-homes-and-businesses)
+- [Gartner: Purchasing enterprise PCs during a global chip shortage](https://www.computerweekly.com/opinion/Gartner-Purchasing-enterprise-PCs-during-a-global-chip-shortage)
+- [Use ERP modernisation to drive efficiency and sustainability](https://www.computerweekly.com/feature/Use-ERP-modernisation-to-drive-efficiency-and-sustainability)
+- [Joint parliamentary committee to scrutinise Online Safety Bill](https://www.computerweekly.com/news/252504662/Joint-parliamentary-committee-to-scrutinise-Online-Safety-Bill)
+- [Covid-19: TechUK urges government to tweak self-isolation policy for critical datacentre workers](https://www.computerweekly.com/news/252504659/Covid-19-TechUK-urges-government-to-tweak-self-isolation-policy-for-critical-datacentre-workers)
+- [Covid-19: Lockdown lifting slows Amazon’s sales growth during Q2](https://www.computerweekly.com/news/252504657/Covid-19-Lockdown-lifting-slows-Amazons-sales-growth-during-Q2)
+- [HMRC hits Home Office with £33.5m bill over ‘careless’ application of IR35 rules](https://www.computerweekly.com/news/252504614/HMRC-hits-Home-Office-with-335m-bill-over-careless-application-of-IR35-rules)
+- [Technical hiccups force Babuk ransomware gang to change tactics](https://www.computerweekly.com/news/252504610/Technical-hiccups-force-Babuk-ransomware-gang-to-change-tactics)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Jim Whitehurst steps down as IBM president amid leadership reshuffle](https://www.itworldcanada.com/article/jim-whitehurst-steps-down-as-ibm-president-amid-leadership-reshuffle/455323)
-- [Cyber Security Today, July 2, 2021 – Why you should stay away from cracked software](https://www.itworldcanada.com/article/cyber-security-today-july-2-2021-why-you-should-stay-away-from-cracked-software/455313)
-- [Hashtag Trending, July 2 – Apple’s Remote Work Pushback; Sony’s PS3 Leak; Facebook hits $1 Trillion in Value](https://www.itworldcanada.com/article/hashtag-trending-july-2-apples-remote-work-pushback-sonys-ps3-leak-facebook-hits-1-trillion-in-value/455311)
-- [Data of 700 million LinkedIn users is being sold on hacker forum](https://www.itworldcanada.com/article/data-of-700-million-linkedin-users-is-being-sold-on-hacker-forum/455294)
-- [Cyber Security Today, June 30, 2021 – Meet HackMachine, a crook’s valuable hacking tool](https://www.itworldcanada.com/article/cyber-security-today-june-30-2021-meet-hackmachine-a-crooks-valuable-hacking-tool/455271)
-- [Moving beyond cybersecurity table stakes with IAM](https://www.itworldcanada.com/article/moving-beyond-cybersecurity-table-stakes-with-iam/455282)
-- [Hashtag Trending, June 30, 2021 –  Apple employee body cameras; Tech Company HR policies, Shopify Unite 2021](https://www.itworldcanada.com/article/hashtag-trending-june-30-2021-apple-employee-body-cameras-tech-company-hr-policies-shopify-unite-2021/455269)
-- [Ericsson and Google Cloud team up to develop 5G at the edge](https://www.itworldcanada.com/article/ericsson-and-google-cloud-team-up-to-develop-5g-at-the-edge/455260)
-- [Coffee Briefing, June 29, 2021 – AWS launches bug busting challenge; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-june-29-2021-aws-launches-bug-busting-challenge-a-podcast-roundup-and-more/455242)
-- [Hashtag Trending, June 29, 2021- Canadian Hate Speech Laws; Blackberry’s Meme-Stock Status; A.I. Playing Employment Matchmaker](https://www.itworldcanada.com/article/hashtag-trending-june-29-2021-canadian-hate-speech-laws-blackberrys-meme-stock-status-a-i-playing-employment-matchmaker/455236)
+- [Cyber Security Today, August 2, 2021 – A record year for ransomware attacks predicted, and warnings from Microsoft and Cisco Systems](https://www.itworldcanada.com/article/cyber-security-today-august-2-2021-a-record-year-for-ransomware-attacks-predicted-and-warnings-from-microsoft-and-cisco-systems/456546)
+- [Cyber Security Today, Week in Review for Friday July 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-30-2021/456540)
+- [Guiding the next cohort of women in cybersecurity](https://www.itworldcanada.com/article/guiding-the-next-cohort-of-women-in-cybersecurity/456538)
+- [Canadian VPN provider Windscribe admits seized Ukrainian servers weren’t encrypted](https://www.itworldcanada.com/article/canadian-vpn-provider-windscribe-admits-seized-ukrainian-servers-werent-encrypted/456507)
+- [Hashtag Trending July 30 – Chipotle phishing scam; Big tech make’s vaccines mandatory; Media and vaccine rates](https://www.itworldcanada.com/article/hashtag-trending-july-30-chipotle-phishing-scam-big-tech-makes-vaccines-mandatory-media-and-vaccine-rates/456523)
+- [Cyber Security Today, July 30, 2021 – Canada consultation on social media regulation, a new ransomware group, abuse of WeTransfer and more](https://www.itworldcanada.com/article/cyber-security-today-july-30-2021-canada-consultation-on-social-media-regulation-a-new-ransomware-group-abuse-of-wetransfer-and-more/456503)
+- [Create more hours in a day with robotic process automation](https://www.itworldcanada.com/article/create-more-hours-in-a-day-with-robotic-process-automation/456513)
+- [Top Women in Cyber Security Celebration 2021: Honouree roundup](https://www.itworldcanada.com/article/top-women-in-cyber-security-celebration-2021-honouree-roundup/456448)
+- [How to make careers in cybersecurity more accessible for women](https://www.itworldcanada.com/article/how-to-make-careers-in-cybersecurity-more-accessible-for-women/456499)
+- [The road less travelled: A leadership story about careers in cybersecurity](https://www.itworldcanada.com/article/the-road-less-travelled-a-leadership-story-about-careers-in-cybersecurity/456494)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

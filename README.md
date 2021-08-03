@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [Mondelez Takes a Low-Code, No-Code Approach to Development](https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The Pandemic Has Changed How IT Teams Collaborate, Permanently](https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How CIO Roles Will Change: The Future of Work](https://www.informationweek.com/strategic-cio/how-cio-roles-will-change-the-future-of-work/d/d-id/1341451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Get a Stronger Grip on Contract and Vendor Management](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-get-a-stronger-grip-on-contract-and-vendor-management/a/d-id/1341444?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [ServiceNow's CIO Sees Strategic Fit for Low-Code Development](https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [CIOs And CFOs Are Jointly Enabling the Future of Business](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How a Wildlife AI Platform Solved its Data Challenge](https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [When A Good Machine Learning Model Is So Bad](https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [10 Ways AI and ML Are Evolving](https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [4 Skills Will Set Apart Tomorrow's Data Scientists](https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [SolarWinds CEO Talks Securing IT in the Wake of Sunburst](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/solarwinds-ceo-talks-securing-it-in-the-wake-of-sunburst/a/d-id/1341582?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [The Cybersecurity Minefield of Cloud Entitlements](https://www.informationweek.com/cloud/the-cybersecurity-minefield-of-cloud-entitlements/d/d-id/1341577?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [SAS Announces Plan to Get IPO Ready](https://www.informationweek.com/big-data/software-platforms/sas-announces-plan-to-get-ipo-ready/d/d-id/1341580?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Cloud Security Basics CIOs and CTOs Should Know](https://www.informationweek.com/cloud/cloud-security-basics-cios-and-ctos-should-know/a/d-id/1341578?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Should You Trust Low Code/No Code for Mission-Critical Applications?](https://www.informationweek.com/software/should-you-trust-low-code-no-code-for-mission-critical-applications/a/d-id/1341569?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Don't Lose IT Employees During the Great Resignation](https://www.informationweek.com/strategic-cio/team-building-and-staffing/dont-lose-it-employees-during-the-great-resignation/a/d-id/1341575?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Laying Out a Road Map to Close the Cloud Skills Gap](https://www.informationweek.com/cloud/laying-out-a-road-map-to-close-the-cloud-skills-gap/a/d-id/1341571?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [10 Tips for Landing a Job in Cybersecurity](https://www.informationweek.com/strategic-cio/team-building-and-staffing/10-tips-for-landing-a-job-in-cybersecurity/d/d-id/1341568?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [Why the Pandemic Accelerated the Decline of the Data Dashboard](https://www.informationweek.com/big-data/big-data-analytics/why-the-pandemic-accelerated-the-decline-of-the-data-dashboard/d/d-id/1341567?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [3 Tips for Creating a Strong, Healthy Software Team](https://www.informationweek.com/software/3-tips-for-creating-a-strong-healthy-software-team/a/d-id/1341565?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

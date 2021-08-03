@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Eye of fire’: Gas leak sparks huge blaze on ocean surface off Mexico](https://www.theguardian.com/world/2021/jul/03/eye-of-fire-gas-leak-sparks-huge-blaze-on-ocean-surface-off-mexico)
-- [Fauci says regional vaccine disparities could create ‘two types of America’ – as it happened](https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live)
-- [‘Idiotic’: Fury in Ukraine after female soldiers made to march in heels](https://www.theguardian.com/world/2021/jul/03/idiotic-fury-in-ukraine-after-female-soldiers-made-to-march-in-heels)
-- [Over 400,000 people in Ethiopia’s Tigray now in famine, UN warns](https://www.theguardian.com/world/2021/jul/03/over-400000-people-in-ethiopias-tigray-now-in-famine-un-warns)
-- [Record heatwave may have killed 500 people in western Canada](https://www.theguardian.com/world/2021/jul/02/canada-heatwave-500-deaths)
-- [Latest ransomware attack appears to hit hundreds of American businesses](https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya)
-- [UK concert and festival ticket buyers warned insurance may not cover Covid](https://www.theguardian.com/money/2021/jul/03/uk-concert-festival-ticket-buyers-insurance-covid-lockdown)
-- [Miami firefighter’s daughter found dead in condo rubble as toll rises to 22](https://www.theguardian.com/us-news/2021/jul/02/miami-condo-collapse-victims-firefighter-daughter)
-- [‘I was filled with dread’: after her father killed her mother, Amani Haydar found words to heal](https://www.theguardian.com/books/2021/jul/03/i-was-filled-with-dread-after-her-father-killed-her-mother-amani-haydar-found-the-words-to-heal)
-- [Celebrities’ mini-me fashion trend wins royal approval](https://www.theguardian.com/fashion/2021/jul/02/celebrities-mini-me-fashion-trend-wins-royal-approval)
+- [Tokyo 2020 Olympics: cycling, diving, women’s 200m final and more – live!](https://www.theguardian.com/sport/live/2021/aug/02/tokyo-2020-olympics-cycling-diving-womens-200m-final-and-more-live)
+- [Are plans to change the Official Secrets Act a threat to journalism?](https://www.theguardian.com/news/audio/2021/aug/03/are-plans-change-official-secrets-act-threat-to-journalism-podcast)
+- [Matt Damon denies using homophobic slur ‘in personal life’](https://www.theguardian.com/film/2021/aug/02/matt-damon-homophobic-slur-daughter)
+- [Dozens of bodies found floating in river between Ethiopia’s Tigray and Sudan](https://www.theguardian.com/world/2021/aug/03/dozens-of-bodies-found-floating-in-river-between-ethiopias-tigray-and-sudan)
+- [US reaches Biden’s 70% first-shot goal as threat to unvaccinated people grows](https://www.theguardian.com/us-news/2021/aug/02/us-vaccination-rate-covid-coronavirus-biden-white-house)
+- [Smoking-related cancer twice as prevalent among poor in England](https://www.theguardian.com/society/2021/aug/03/smoking-related-cancer-twice-as-prevalent-among-poor-in-england)
+- [Jeremy Clarkson criticises Covid scientists, saying ‘if you die, you die’](https://www.theguardian.com/media/2021/aug/03/jeremy-clarkson-criticises-covid-scientists-saying-if-you-die-you-die)
+- [Her Heart for a Compass by Sarah Ferguson review – Mills & Boon debut is chaste good fun](https://www.theguardian.com/books/2021/aug/03/her-heart-for-a-compass-by-sarah-ferguson-review-mills-boon-debut-is-chaste-good-fun)
+- [Premier League 2021-22 preview No 3: Brentford](https://www.theguardian.com/football/2021/aug/03/premier-league-2021-22-preview-no-3-brentford)
+- [Welsh government plans polling stations in schools for teenagers](https://www.theguardian.com/uk-news/2021/aug/03/welsh-government-plans-polling-stations-in-schools-for-teenagers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

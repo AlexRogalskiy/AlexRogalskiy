@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [GitHub unveils AI coding assistant for Visual Studio Code](https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all)
-- [Cloud lock-in is real](https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all)
-- [Accessibility improvements coming to Visual Studio](https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all)
-- [What is MongoDB? A quick guide for developers](https://www.infoworld.com/article/3623357/what-is-mongodb-a-quick-guide-for-developers.html#tk.rss_all)
-- [Rethinking data architectures for a cloud world](https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all)
-- [Red Hat OpenShift 4.8 shines on CI/CD, serverless functions](https://www.infoworld.com/article/3623749/red-hat-openshift-48-shines-on-cicd-serverless-functions.html#tk.rss_all)
-- [What Windows 11 means for developers](https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all)
-- [How to use filters in ASP.NET Core MVC](https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all)
-- [Rust tutorial: Get started with the Rust language](https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all)
-- [Gaia-X: Will the European data cloud fail?](https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all)
+- [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html#tk.rss_all)
+- [What is the color of cloud money?](https://www.infoworld.com/article/3627328/the-advantages-of-cloud-economics.html#tk.rss_all)
+- [Data science is a lot of drudgery, and that’s good](https://www.infoworld.com/article/3627276/data-science-is-a-lot-of-drudgery-and-thats-good.html#tk.rss_all)
+- [What is Docker? The spark for the container revolution](https://www.infoworld.com/article/3204171/what-is-docker-the-spark-for-the-container-revolution.html#tk.rss_all)
+- [Are your agile and devops processes good enough?](https://www.infoworld.com/article/3626460/are-your-agile-and-devops-processes-good-enough.html#tk.rss_all)
+- [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_all)
+- [Could you survive a cloud architecture walkthrough?](https://www.infoworld.com/article/3626932/could-you-survive-a-cloud-architecture-walkthrough.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [OpenAI debuts Python-based Triton for GPU-powered machine learning](https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html#tk.rss_all)
+- [Microsoft .NET adoption gets boost from open source](https://www.infoworld.com/article/3627311/microsoft-net-adoption-gets-boost-from-open-source.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

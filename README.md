@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US companies hit by 'colossal' cyber-attack](https://www.bbc.com/news/world-us-canada-57703836)
-- [Why Real Businesses Don’t Charge $5/Month](http://justinmares.com/why-real-businesses-dont-charge-5month/)
-- [Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go](https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html)
-- [Distill Hiatus](https://distill.pub/2021/distill-hiatus/)
-- [An Oral History of the L0pht (2018)](https://duo.com/decipher/an-oral-history-of-the-l0pht)
-- [Miami orders evacuation of 156-unit as structurally and electrically unsafe](https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772)
-- [Kolyma highway in Yakutia, also known as the Road of Bones, is on fire](https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
-- [The risky bat-virus engineering that links America to Wuhan](https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/)
+- [Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
+- [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
+- [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
+- [Yellowcake Shaped the West](https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west)
+- [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
+- [How to improve your Docker containers security – [cheat sheet]](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
+- [Vue.js is Wikimedia Foundation's future JavaScript framework](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
+- [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
+- [Wealthy Americans Targeted by U.S. in Panama Tax-Fraud Probe](https://bermudapost.com/wealthy-americans-targeted-by-u-s-in-panama-tax-fraud-probe)
+- [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

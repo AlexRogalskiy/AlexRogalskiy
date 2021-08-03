@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which is the best laptop for an Information Systems student?](https://www.reddit.com/r/InformationTechnology/comments/oaet08/which_is_the_best_laptop_for_an_information/)
-- [Interested](https://www.reddit.com/r/InformationTechnology/comments/oac9np/interested/)
-- [Final Year Framework Advice](https://www.reddit.com/r/InformationTechnology/comments/o9l9fv/final_year_framework_advice/)
-- [Guidance for a beginner](https://www.reddit.com/r/InformationTechnology/comments/o8ydwj/guidance_for_a_beginner/)
-- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o8b5lo/free_training_on_az900_microsoft_azure/)
-- [Windows 11 and TPM/Trusted Computing](https://www.reddit.com/r/InformationTechnology/comments/o829uu/windows_11_and_tpmtrusted_computing/)
-- [Got the job: new masters grad minimal i.t experience](https://www.reddit.com/r/InformationTechnology/comments/o788jx/got_the_job_new_masters_grad_minimal_it_experience/)
-- [Free Training on AZ-900 (Microsoft Azure Fundamentals) Will Cover Full Course](https://www.reddit.com/r/InformationTechnology/comments/o76og3/free_training_on_az900_microsoft_azure/)
-- [HELP ME ABOUT ISO OSI STACK](https://www.reddit.com/r/InformationTechnology/comments/o7371f/help_me_about_iso_osi_stack/)
-- [Looking to start A+ study group](https://www.reddit.com/r/InformationTechnology/comments/o6m12j/looking_to_start_a_study_group/)
+- [Google IT Support Certificate](https://www.reddit.com/r/InformationTechnology/comments/ovg1vq/google_it_support_certificate/)
+- [Free Training on Microsoft Courses - Will Cover Full Courses](https://www.reddit.com/r/InformationTechnology/comments/ov8q0k/free_training_on_microsoft_courses_will_cover/)
+- [Uh....](https://www.reddit.com/r/InformationTechnology/comments/our7dv/uh/)
+- [Is there an "open" grid-computing solution that allows vendors to share resources such as services/networks/computing power in a similar fashion as GCP/AWS/Azure? So in such way everyone is "the cloud"?](https://www.reddit.com/r/InformationTechnology/comments/ou2qty/is_there_an_open_gridcomputing_solution_that/)
+- [Future of IT - Where to focus investments and what's worth researching?](https://www.reddit.com/r/InformationTechnology/comments/ot6ovx/future_of_it_where_to_focus_investments_and_whats/)
+- [What industries have a more steady pace in help desk?](https://www.reddit.com/r/InformationTechnology/comments/oswpbj/what_industries_have_a_more_steady_pace_in_help/)
+- [Network + voucher](https://www.reddit.com/r/InformationTechnology/comments/ospwsc/network_voucher/)
+- [My PC crashes/freezes on startup. What may cause this? (pictures in the post)](https://www.reddit.com/r/InformationTechnology/comments/osncnw/my_pc_crashesfreezes_on_startup_what_may_cause/)
+- [Computer and phone tutorials](https://www.reddit.com/r/InformationTechnology/comments/osew9q/computer_and_phone_tutorials/)
+- [Just a question , Is it possible to share IT video tutorials from YouTube in this IT Reddit ?](https://www.reddit.com/r/InformationTechnology/comments/oqrmoj/just_a_question_is_it_possible_to_share_it_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

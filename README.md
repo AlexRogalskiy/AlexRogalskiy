@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Remote code execution the most common cyber threat faced by Canadian firms: Report](https://www.itworldcanada.com/article/remote-code-execution-the-most-common-cyber-threat-faced-by-canadian-firms-report/456569)
+- [Canadian network security firm launches industrial gateway](https://www.itworldcanada.com/article/canadian-network-security-firm-launches-industrial-gateway/456563)
+- [Canadian carriers pay big for mid-band 5G spectrum licenses](https://www.itworldcanada.com/article/canadian-carriers-pay-big-for-mid-band-5g-spectrum-licenses/456551)
+- [Hashtag Trending August 3 – EA ransom fails; Apple bans anti-vax dating app; Amazon soap dispenser cleans your hands better](https://www.itworldcanada.com/article/hashtag-trending-july-30-ea-ransom-fails-app-bans-anti-vaxxer-dating-app-amazon-soap-dispenser-cleans-your-hands-better/456572)
 - [Cyber Security Today, August 2, 2021 – A record year for ransomware attacks predicted, and warnings from Microsoft and Cisco Systems](https://www.itworldcanada.com/article/cyber-security-today-august-2-2021-a-record-year-for-ransomware-attacks-predicted-and-warnings-from-microsoft-and-cisco-systems/456546)
 - [Cyber Security Today, Week in Review for Friday July 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-30-2021/456540)
 - [Guiding the next cohort of women in cybersecurity](https://www.itworldcanada.com/article/guiding-the-next-cohort-of-women-in-cybersecurity/456538)
 - [Canadian VPN provider Windscribe admits seized Ukrainian servers weren’t encrypted](https://www.itworldcanada.com/article/canadian-vpn-provider-windscribe-admits-seized-ukrainian-servers-werent-encrypted/456507)
 - [Hashtag Trending July 30 – Chipotle phishing scam; Big tech make’s vaccines mandatory; Media and vaccine rates](https://www.itworldcanada.com/article/hashtag-trending-july-30-chipotle-phishing-scam-big-tech-makes-vaccines-mandatory-media-and-vaccine-rates/456523)
 - [Cyber Security Today, July 30, 2021 – Canada consultation on social media regulation, a new ransomware group, abuse of WeTransfer and more](https://www.itworldcanada.com/article/cyber-security-today-july-30-2021-canada-consultation-on-social-media-regulation-a-new-ransomware-group-abuse-of-wetransfer-and-more/456503)
-- [Create more hours in a day with robotic process automation](https://www.itworldcanada.com/article/create-more-hours-in-a-day-with-robotic-process-automation/456513)
-- [Top Women in Cyber Security Celebration 2021: Honouree roundup](https://www.itworldcanada.com/article/top-women-in-cyber-security-celebration-2021-honouree-roundup/456448)
-- [How to make careers in cybersecurity more accessible for women](https://www.itworldcanada.com/article/how-to-make-careers-in-cybersecurity-more-accessible-for-women/456499)
-- [The road less travelled: A leadership story about careers in cybersecurity](https://www.itworldcanada.com/article/the-road-less-travelled-a-leadership-story-about-careers-in-cybersecurity/456494)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

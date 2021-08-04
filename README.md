@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why ING Entrusted Core Dev Needs to Low Code/No Code](https://www.informationweek.com/devops/project-management/why-ing-entrusted-core-dev-needs-to-low-code-no-code/a/d-id/1341579?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [In the Age of Telework, Protection Is Prerequisite](https://www.informationweek.com/infrastructure/net-security/in-the-age-of-telework-protection-is-prerequisite/a/d-id/1341573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [SolarWinds CEO Talks Securing IT in the Wake of Sunburst](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/solarwinds-ceo-talks-securing-it-in-the-wake-of-sunburst/a/d-id/1341582?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [The Cybersecurity Minefield of Cloud Entitlements](https://www.informationweek.com/cloud/the-cybersecurity-minefield-of-cloud-entitlements/d/d-id/1341577?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [SAS Announces Plan to Get IPO Ready](https://www.informationweek.com/big-data/software-platforms/sas-announces-plan-to-get-ipo-ready/d/d-id/1341580?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
@@ -369,8 +371,6 @@
 - [Don't Lose IT Employees During the Great Resignation](https://www.informationweek.com/strategic-cio/team-building-and-staffing/dont-lose-it-employees-during-the-great-resignation/a/d-id/1341575?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Laying Out a Road Map to Close the Cloud Skills Gap](https://www.informationweek.com/cloud/laying-out-a-road-map-to-close-the-cloud-skills-gap/a/d-id/1341571?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [10 Tips for Landing a Job in Cybersecurity](https://www.informationweek.com/strategic-cio/team-building-and-staffing/10-tips-for-landing-a-job-in-cybersecurity/d/d-id/1341568?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why the Pandemic Accelerated the Decline of the Data Dashboard](https://www.informationweek.com/big-data/big-data-analytics/why-the-pandemic-accelerated-the-decline-of-the-data-dashboard/d/d-id/1341567?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [3 Tips for Creating a Strong, Healthy Software Team](https://www.informationweek.com/software/3-tips-for-creating-a-strong-healthy-software-team/a/d-id/1341565?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Is it finally time for Apple’s M1X MacBook Pro?](https://www.computerworld.com/article/3627325/is-it-finally-time-for-apples-m1x-macbook-pro.html#tk.rss_all)
+- [Microsoft: Use deadline policies and a 'cloud cadence mindset' for faster patching](https://www.computerworld.com/article/3627321/microsoft-use-deadline-policies-and-a-cloud-cadence-mindset-for-faster-patching.html#tk.rss_all)
+- [5 ways of dealing with a work-from-home business world](https://www.computerworld.com/article/3627501/5-ways-of-dealing-with-a-work-from-home-business-world.html#tk.rss_all)
 - [Why Apple’s M1 iMac is an excellent enterprise desktop](https://www.computerworld.com/article/3627590/why-apples-m1-imac-is-an-excellent-enterprise-desktop.html#tk.rss_all)
 - [For Windows security, what we have is a failure to communicate](https://www.computerworld.com/article/3627320/for-windows-security-what-we-have-is-a-failure-to-communicate.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [3 solid project management apps for iOS and Mac](https://www.computerworld.com/article/3627272/3-solid-project-management-apps-for-ios-and-mac.html#tk.rss_all)
 - [Apple’s BYOD improvements will save time for IT](https://www.computerworld.com/article/3627295/apples-byod-improvements-will-save-time-for-it.html#tk.rss_all)
-- [This SQL master class bundle is temporarily discounted to just $20](https://www.computerworld.com/article/3625888/this-sql-master-class-bundle-is-temporarily-discounted-to-just-20.html#tk.rss_all)
-- [Tech innovators pivot to support the post-COVID workplace](https://www.computerworld.com/article/3627235/tech-innovators-pivot-to-support-the-post-covid-workplace.html#tk.rss_all)
-- [3 near-term tech advances that could change the future](https://www.computerworld.com/article/3627244/three-near-term-tech-advances-that-could-change-the-future.html#tk.rss_all)
-- [Online privacy: Best browsers, settings, and tips](https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
-- [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
-- [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
-- [Yellowcake Shaped the West](https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west)
-- [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
-- [How to improve your Docker containers security – [cheat sheet]](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
-- [Vue.js is Wikimedia Foundation's future JavaScript framework](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
-- [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
-- [Wealthy Americans Targeted by U.S. in Panama Tax-Fraud Probe](https://bermudapost.com/wealthy-americans-targeted-by-u-s-in-panama-tax-fraud-probe)
-- [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
+- [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
+- [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
+- [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
+- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
+- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
+- [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
+- [AlphaFold2: Are attention and symmetries all you need? [pdf]](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
+- [Distributed consensus (blockchain) simulation and visualization](https://web3scout.github.io/forcecons-sim/)
+- [This Can’t Go On](https://www.cold-takes.com/this-cant-go-on/)
+- [Archegos was too busy for margin calls](https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: cycling, diving, women’s 200m final and more – live!](https://www.theguardian.com/sport/live/2021/aug/02/tokyo-2020-olympics-cycling-diving-womens-200m-final-and-more-live)
-- [Are plans to change the Official Secrets Act a threat to journalism?](https://www.theguardian.com/news/audio/2021/aug/03/are-plans-change-official-secrets-act-threat-to-journalism-podcast)
-- [Matt Damon denies using homophobic slur ‘in personal life’](https://www.theguardian.com/film/2021/aug/02/matt-damon-homophobic-slur-daughter)
-- [Dozens of bodies found floating in river between Ethiopia’s Tigray and Sudan](https://www.theguardian.com/world/2021/aug/03/dozens-of-bodies-found-floating-in-river-between-ethiopias-tigray-and-sudan)
-- [US reaches Biden’s 70% first-shot goal as threat to unvaccinated people grows](https://www.theguardian.com/us-news/2021/aug/02/us-vaccination-rate-covid-coronavirus-biden-white-house)
-- [Smoking-related cancer twice as prevalent among poor in England](https://www.theguardian.com/society/2021/aug/03/smoking-related-cancer-twice-as-prevalent-among-poor-in-england)
-- [Jeremy Clarkson criticises Covid scientists, saying ‘if you die, you die’](https://www.theguardian.com/media/2021/aug/03/jeremy-clarkson-criticises-covid-scientists-saying-if-you-die-you-die)
-- [Her Heart for a Compass by Sarah Ferguson review – Mills & Boon debut is chaste good fun](https://www.theguardian.com/books/2021/aug/03/her-heart-for-a-compass-by-sarah-ferguson-review-mills-boon-debut-is-chaste-good-fun)
-- [Premier League 2021-22 preview No 3: Brentford](https://www.theguardian.com/football/2021/aug/03/premier-league-2021-22-preview-no-3-brentford)
-- [Welsh government plans polling stations in schools for teenagers](https://www.theguardian.com/uk-news/2021/aug/03/welsh-government-plans-polling-stations-in-schools-for-teenagers)
+- [Tokyo 2020 Olympics: Sky Brown in skateboarding, cycling and more – live!](https://www.theguardian.com/sport/live/2021/aug/04/tokyo-2020-olympics-athletics-skateboarding-cycling-and-more-live)
+- [How Simone Biles changed gymnastics – on and off the mat](https://www.theguardian.com/news/audio/2021/aug/04/how-simone-biles-changed-gymnastics-on-and-off-the-mat-podcast)
+- [US issues 60-day eviction moratorium for areas with substantial Covid transmission - as it happened](https://www.theguardian.com/us-news/live/2021/aug/03/us-covid-hospitalizations-joe-biden-infrastructure-bill-senate-latest-news-updates)
+- [Japan names and shames citizens for breaching Covid quarantine rules](https://www.theguardian.com/world/2021/aug/04/japan-names-and-shames-citizens-for-breaching-covid-quarantine-rules)
+- [Vigil held in London park for murdered sisters Bibaa Henry and Nicole Smallman](https://www.theguardian.com/uk-news/2021/aug/04/vigil-held-in-london-park-for-murdered-sisters-bibaa-henry-and-nicole-smallman)
+- [Covid jab could soon be recommended for 16- and 17-year-olds, Sturgeon says](https://www.theguardian.com/society/2021/aug/03/sturgeon-expects-covid-jab-to-be-recommended-for-16--and-17-year-olds)
+- [Scientists discover Machu Picchu could be at least two decades older than thought](https://www.theguardian.com/world/2021/aug/04/scientists-discover-machu-picchu-could-be-at-least-two-decades-older-than-thought)
+- [Premier League 2021-22 preview No 5: Burnley](https://www.theguardian.com/football/2021/aug/04/premier-league-2021-22-preview-no-5-burnley)
+- [Shapeshifting at the Tokyo 2020 Olympic Games – in pictures](https://www.theguardian.com/sport/gallery/2021/aug/03/shapeshifting-at-tokyo-olympics-2020-in-pictures)
+- [Study finds long-term Covid symptoms rare in school-age children](https://www.theguardian.com/world/2021/aug/03/study-finds-long-term-covid-symptoms-rare-in-school-age-children)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

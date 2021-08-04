@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fire at Tesla Big Battery Under Control After Weekend Blaze](https://www.bloomberg.com/news/articles/2021-08-02/a-tesla-big-battery-in-australia-is-burning-for-a-fourth-day)
-- [6 Steps to Take When Advocating for Process Change](https://thenewstack.io/6-steps-to-take-when-advocating-for-process-change/)
-- [Xi Jinping and his gold-meddling flunkies](https://www.smh.com.au/national/xi-jinping-and-his-gold-meddling-flunkies-20210802-p58f7v.html)
-- [What Shamu taught me about a happy marriage](https://www.nytimes.com/2019/10/11/style/modern-love-what-shamu-taught-me-happy-marriage.html)
-- [Reliability Meeting Experiences](http://rachelbythebay.com/w/2021/08/02/meetings/)
-- [We’re making Dropbox data centers 100% carbon neutral](https://dropbox.tech/infrastructure/making-dropbox-data-centers-carbon-neutral)
-- [What might that Principal (or Staff) level Developer role entail?](https://github.com/rwilcox/after_senior)
-- [Tell HN: HN should have a light/dark mode switch](https://news.ycombinator.com/item?id=28044977)
-- [CoinJar Card – Cryptocurrency MasterCard in Australia](https://www.coinjar.com/au/card)
-- [UK compulsory workplace vaccination rules cannot apply to vegans](https://www.telegraph.co.uk/business/2021/07/29/compulsory-workplace-vaccination-rules-cannot-apply-vegans/)
+- [Almost-Billionaires](http://lackingambition.com/?p=1464)
+- [Show HN: ILTM – Paper trade memes like they're stocks based on their popularity](https://ilikethememe.com/)
+- [The State Department and 3 other US agencies earn a D for cybersecurity](https://arstechnica.com/information-technology/2021/08/the-state-department-and-3-other-us-agencies-earn-a-d-for-cybersecurity/)
+- [Watch the First Two Hours of MTV Ever Broadcast](https://nerdist.com/article/first-two-hours-of-mtv-broadcast-1981/)
+- [Žádný otázky ani VAše spamovy emailovy hračky](https://blog.cloudflare.com/health-check-analytics-and-how-you-can-use-it/)
+- [Polars v0.15.0: Fastest DataFrame library written in Rust](https://www.ritchievink.com/blog/2021/08/02/an-update-on-polars-v0.15.0/0.8.17/)
+- [Ask HN: Recommendations for Project Based Courses](https://news.ycombinator.com/item?id=28056454)
+- [Evolution of Search Engines Architecture – Algolia New Search Architecture](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
+- [SEC Chairman Draws Dividing Line Between Bitcoin, Crypto in Aspen Speech](https://bitcoinmagazine.com/markets/bitcoin-sec-gary-gensler-aspen-forum)
+- [Dispelling the Myths of Nuclear Energy](https://www.youtube.com/watch?v=c1QmB5bW_WQ&pp=sAQA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Eclipse Temurin Java SE binaries debut](https://www.infoworld.com/article/3627503/eclipse-temurin-java-se-binaries-debut.html#tk.rss_all)
+- [Cloud database and cloud infrastructure people need to talk](https://www.infoworld.com/article/3627499/cloud-database-and-cloud-infrastructure-people-need-to-talk.html#tk.rss_all)
+- [Data science needs drudges](https://www.infoworld.com/article/3627276/data-science-needs-drudges.html#tk.rss_all)
+- [3 ways AI improves CRM](https://www.infoworld.com/article/3624010/3-ways-ai-improves-crm.html#tk.rss_all)
 - [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html#tk.rss_all)
 - [What is the color of cloud money?](https://www.infoworld.com/article/3627328/the-advantages-of-cloud-economics.html#tk.rss_all)
-- [Data science is a lot of drudgery, and that’s good](https://www.infoworld.com/article/3627276/data-science-is-a-lot-of-drudgery-and-thats-good.html#tk.rss_all)
 - [What is Docker? The spark for the container revolution](https://www.infoworld.com/article/3204171/what-is-docker-the-spark-for-the-container-revolution.html#tk.rss_all)
 - [Are your agile and devops processes good enough?](https://www.infoworld.com/article/3626460/are-your-agile-and-devops-processes-good-enough.html#tk.rss_all)
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_all)
 - [Could you survive a cloud architecture walkthrough?](https://www.infoworld.com/article/3626932/could-you-survive-a-cloud-architecture-walkthrough.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [OpenAI debuts Python-based Triton for GPU-powered machine learning](https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html#tk.rss_all)
-- [Microsoft .NET adoption gets boost from open source](https://www.infoworld.com/article/3627311/microsoft-net-adoption-gets-boost-from-open-source.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK MoD turns to hackers to help secure digital assets](https://www.computerweekly.com/news/252504832/UK-MoD-turns-to-hackers-to-help-secure-digital-assets)
+- [Panasas’s 10x saving bumps NetApp from HPC storage deployment](https://www.computerweekly.com/news/252504830/Panasass-10x-saving-bumps-NetApp-from-HPC-storage-deployment)
+- [New ransomware gang spins out of DarkSide](https://www.computerweekly.com/news/252504826/New-ransomware-gang-spins-out-of-DarkSide)
+- [Intel hails data analytics-powered GB Olympics swimming success](https://www.computerweekly.com/news/252504827/Intel-hails-data-analytics-powered-GB-Olympics-swimming-success)
+- [Windows 365: Cloud PC pricing starts at £20](https://www.computerweekly.com/news/252504823/Windows-365-Cloud-PC-pricing-start-at-20)
+- [DWP IR35 bill, women in tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/DWP-IR35-bill-women-in-tech-Computer-Weekly-Downtime-Upload-podcast)
+- [Destruction and integrity cyber attacks on the rise](https://www.computerweekly.com/news/252504825/Destruction-and-integrity-cyber-attacks-on-the-rise)
+- [Executive interview: Chris McShane, MD, Halfords Mobile Experts](https://www.computerweekly.com/news/252504577/Executive-interview-Chris-McShane-chief-operating-officer-Halfords)
+- [The fears and benefits of virtualising reality](https://www.computerweekly.com/ezine/Computer-Weekly/The-fears-and-benefits-of-virtualising-reality)
 - [IR35 reforms: TUC demand for government ban on umbrella companies raises eyebrows](https://www.computerweekly.com/news/252504756/IR35-reforms-TUC-demand-for-government-ban-on-umbrella-companies-raises-eyebrows)
-- [Five tips to ensure your crisis comms plan is ready for a cyber attack](https://www.computerweekly.com/opinion/Five-tips-to-ensure-your-crisis-comms-plan-is-ready-for-a-cyber-attack)
-- [Gigabit broadband funding targets over two million homes and businesses](https://www.computerweekly.com/news/252504741/Gigabit-broadband-funding-targets-over-two-million-homes-and-businesses)
-- [Gartner: Purchasing enterprise PCs during a global chip shortage](https://www.computerweekly.com/opinion/Gartner-Purchasing-enterprise-PCs-during-a-global-chip-shortage)
-- [Use ERP modernisation to drive efficiency and sustainability](https://www.computerweekly.com/feature/Use-ERP-modernisation-to-drive-efficiency-and-sustainability)
-- [Joint parliamentary committee to scrutinise Online Safety Bill](https://www.computerweekly.com/news/252504662/Joint-parliamentary-committee-to-scrutinise-Online-Safety-Bill)
-- [Covid-19: TechUK urges government to tweak self-isolation policy for critical datacentre workers](https://www.computerweekly.com/news/252504659/Covid-19-TechUK-urges-government-to-tweak-self-isolation-policy-for-critical-datacentre-workers)
-- [Covid-19: Lockdown lifting slows Amazon’s sales growth during Q2](https://www.computerweekly.com/news/252504657/Covid-19-Lockdown-lifting-slows-Amazons-sales-growth-during-Q2)
-- [HMRC hits Home Office with £33.5m bill over ‘careless’ application of IR35 rules](https://www.computerweekly.com/news/252504614/HMRC-hits-Home-Office-with-335m-bill-over-careless-application-of-IR35-rules)
-- [Technical hiccups force Babuk ransomware gang to change tactics](https://www.computerweekly.com/news/252504610/Technical-hiccups-force-Babuk-ransomware-gang-to-change-tactics)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

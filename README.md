@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
-- [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
-- [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
-- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
-- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
-- [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
-- [AlphaFold2: Are attention and symmetries all you need? [pdf]](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
-- [Distributed consensus (blockchain) simulation and visualization](https://web3scout.github.io/forcecons-sim/)
-- [This Can’t Go On](https://www.cold-takes.com/this-cant-go-on/)
-- [Archegos was too busy for margin calls](https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls)
+- [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
+- [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
+- [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
+- [A list of tech companies with 4 day work weeks](https://4dayweek.io/blog/10-tech-companies-with-4-day-work-weeks-2021)
+- [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
+- [Airyx OS](http://airyx.org/)
+- [Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
+- [Comma Three [video]](https://www.youtube.com/watch?v=hbLiehrC2DQ)
+- [Slitter: A slab allocator that trusts, but verifies](https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/)
+- [The Bad Grade That Changed the U.S. Constitution](https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

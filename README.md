@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: Sky Brown in skateboarding, cycling and more – live!](https://www.theguardian.com/sport/live/2021/aug/04/tokyo-2020-olympics-athletics-skateboarding-cycling-and-more-live)
-- [How Simone Biles changed gymnastics – on and off the mat](https://www.theguardian.com/news/audio/2021/aug/04/how-simone-biles-changed-gymnastics-on-and-off-the-mat-podcast)
-- [US issues 60-day eviction moratorium for areas with substantial Covid transmission - as it happened](https://www.theguardian.com/us-news/live/2021/aug/03/us-covid-hospitalizations-joe-biden-infrastructure-bill-senate-latest-news-updates)
-- [Japan names and shames citizens for breaching Covid quarantine rules](https://www.theguardian.com/world/2021/aug/04/japan-names-and-shames-citizens-for-breaching-covid-quarantine-rules)
-- [Vigil held in London park for murdered sisters Bibaa Henry and Nicole Smallman](https://www.theguardian.com/uk-news/2021/aug/04/vigil-held-in-london-park-for-murdered-sisters-bibaa-henry-and-nicole-smallman)
-- [Covid jab could soon be recommended for 16- and 17-year-olds, Sturgeon says](https://www.theguardian.com/society/2021/aug/03/sturgeon-expects-covid-jab-to-be-recommended-for-16--and-17-year-olds)
-- [Scientists discover Machu Picchu could be at least two decades older than thought](https://www.theguardian.com/world/2021/aug/04/scientists-discover-machu-picchu-could-be-at-least-two-decades-older-than-thought)
-- [Premier League 2021-22 preview No 5: Burnley](https://www.theguardian.com/football/2021/aug/04/premier-league-2021-22-preview-no-5-burnley)
-- [Shapeshifting at the Tokyo 2020 Olympic Games – in pictures](https://www.theguardian.com/sport/gallery/2021/aug/03/shapeshifting-at-tokyo-olympics-2020-in-pictures)
-- [Study finds long-term Covid symptoms rare in school-age children](https://www.theguardian.com/world/2021/aug/03/study-finds-long-term-covid-symptoms-rare-in-school-age-children)
+- [Tokyo 2020 Olympics: Australia to face USA in beach volleyball final, 100m hurdles, skateboarding, basketball and more – live!](https://www.theguardian.com/sport/live/2021/aug/04/tokyo-2020-olympics-110m-hurdles-golf-diving-cycling-and-more-live)
+- [Why a Belarusian Olympic sprinter refused to fly home](https://www.theguardian.com/news/audio/2021/aug/05/why-belarus-olympic-sprinter-krystsina-tsimanouskayaref-used-to-go-home-podcast)
+- [At least 10 killed after packed van crashes in south Texas](https://www.theguardian.com/us-news/2021/aug/04/texas-van-crash-encino)
+- [Meghan and Prince Harry discussed moving to New Zealand in 2018, governor general says](https://www.theguardian.com/uk-news/2021/aug/05/meghan-and-prince-harry-discussed-moving-to-new-zealand-in-2018-governor-general-says)
+- [Paul Johnson, Get Get Down house producer, dies at age 50 from Covid-19](https://www.theguardian.com/music/2021/aug/04/paul-johnson-get-get-down-house-producer-dies-at-age-50-from-covid-19)
+- [Myanmar’s UN envoy accuses military junta of township massacre](https://www.theguardian.com/world/2021/aug/05/myanmars-un-envoy-accuses-regime-of-township-massacre)
+- [Campaign calls for UK ban on pesticides in gardens and urban areas](https://www.theguardian.com/environment/2021/aug/05/campaign-calls-for-uk-ban-pesticides-gardens-urban-areas-aoe)
+- [Britons spent third of time watching TV and online videos in 2020](https://www.theguardian.com/media/2021/aug/05/britons-spent-third-of-time-watching-tv-and-online-videos-in-2020)
+- [Covid disrupted treatment for 30% of NHS cancer patients, survey shows](https://www.theguardian.com/world/2021/aug/05/covid-disrupted-treatment-for-30-of-nhs-cancer-patients-survey-shows)
+- [Premier League 2021-22 preview No 6: Crystal Palace](https://www.theguardian.com/football/2021/aug/05/premier-league-2021-22-preview-no-7-crystal-palace)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
+- [BrandPost: Managing Your Way to Hybrid Cloud Security](https://www.computerworld.com/article/3624017/managing-your-way-to-hybrid-cloud-security.html#tk.rss_all)
+- [BrandPost: Managed Private Cloud: It’s All About Simplification](https://www.computerworld.com/article/3623118/managed-private-cloud-its-all-about-simplification.html#tk.rss_all)
+- [Apple's Store update takes retail to the metaverse](https://www.computerworld.com/article/3628029/apples-store-update-takes-retail-to-the-metaverse.html#tk.rss_all)
+- [BrandPost: A Safe Cloud Modernization Plan Begins Behind the Firewall](https://www.computerworld.com/article/3623010/a-safe-cloud-modernization-plan-begins-behind-the-firewall.html#tk.rss_all)
+- [BrandPost: Managed Private Cloud IaaS is Predictable, Consistent, and Future-Proof](https://www.computerworld.com/article/3622942/managed-private-cloud-iaas-is-predictable-consistent-and-future-proof.html#tk.rss_all)
+- [This Vultur app takes malicious to the next level](https://www.computerworld.com/article/3627326/this-vultur-app-takes-malicious-to-the-next-level.html#tk.rss_all)
+- [Outlook for Microsoft 365 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3626194/outlook-for-microsoft-365-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
+- [Outlook for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3625505/outlook-for-microsoft-365-office-365-cheat-sheet.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Is it finally time for Apple’s M1X MacBook Pro?](https://www.computerworld.com/article/3627325/is-it-finally-time-for-apples-m1x-macbook-pro.html#tk.rss_all)
-- [Microsoft: Use deadline policies and a 'cloud cadence mindset' for faster patching](https://www.computerworld.com/article/3627321/microsoft-use-deadline-policies-and-a-cloud-cadence-mindset-for-faster-patching.html#tk.rss_all)
-- [5 ways of dealing with a work-from-home business world](https://www.computerworld.com/article/3627501/5-ways-of-dealing-with-a-work-from-home-business-world.html#tk.rss_all)
-- [Why Apple’s M1 iMac is an excellent enterprise desktop](https://www.computerworld.com/article/3627590/why-apples-m1-imac-is-an-excellent-enterprise-desktop.html#tk.rss_all)
-- [For Windows security, what we have is a failure to communicate](https://www.computerworld.com/article/3627320/for-windows-security-what-we-have-is-a-failure-to-communicate.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [3 solid project management apps for iOS and Mac](https://www.computerworld.com/article/3627272/3-solid-project-management-apps-for-ios-and-mac.html#tk.rss_all)
-- [Apple’s BYOD improvements will save time for IT](https://www.computerworld.com/article/3627295/apples-byod-improvements-will-save-time-for-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

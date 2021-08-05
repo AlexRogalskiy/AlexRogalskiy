@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Research points to growing importance of secondary datacentre hubs across Europe in years to come](https://www.computerweekly.com/news/252504884/Research-points-to-growing-importance-of-secondary-datacentre-hubs-across-Europe-in-years-to-come)
+- [Amazon vs Google vs Microsoft: Gartner report blasts public cloud giants’ sales tactics](https://www.computerweekly.com/news/252504882/Amazon-vs-Google-vs-Microsoft-Gartner-reports-blasts-public-cloud-giants-sales-tactics)
+- [Civil Service Data Challenge announces longlist of ideas to improve data use](https://www.computerweekly.com/news/252504878/Civil-Service-Data-Challenge-announces-longlist-of-ideas-to-improve-data-use)
+- [M&S launches initiative to hire software engineers](https://www.computerweekly.com/news/252504871/MS-launches-initiative-to-hire-software-engineers)
+- [Six Isle of Wight schools hit by ransomware attack](https://www.computerweekly.com/news/252504868/Six-Isle-of-Wight-schools-hit-by-ransomware-attack)
+- [Leading venture capital firms are failing to protect human rights](https://www.computerweekly.com/news/252504864/Leading-venture-capital-firms-are-failing-to-protect-human-rights)
+- [The unintended consequences of digital transformation](https://www.computerweekly.com/opinion/The-unintended-consequences-of-digital-transformation)
+- [Initial access brokers unaffected by ransomware content bans](https://www.computerweekly.com/news/252504860/Initial-access-brokers-unaffected-by-ransomware-content-bans)
+- [Dropbox shares datacentre sustainability strategy as it plots to be 100% renewably powered by 2030](https://www.computerweekly.com/news/252504857/Dropbox-shares-datacentre-sustainability-strategy-as-it-plots-to-be-100-renewably-powered-by-2030)
 - [UK MoD turns to hackers to help secure digital assets](https://www.computerweekly.com/news/252504832/UK-MoD-turns-to-hackers-to-help-secure-digital-assets)
-- [Panasas’s 10x saving bumps NetApp from HPC storage deployment](https://www.computerweekly.com/news/252504830/Panasass-10x-saving-bumps-NetApp-from-HPC-storage-deployment)
-- [New ransomware gang spins out of DarkSide](https://www.computerweekly.com/news/252504826/New-ransomware-gang-spins-out-of-DarkSide)
-- [Intel hails data analytics-powered GB Olympics swimming success](https://www.computerweekly.com/news/252504827/Intel-hails-data-analytics-powered-GB-Olympics-swimming-success)
-- [Windows 365: Cloud PC pricing starts at £20](https://www.computerweekly.com/news/252504823/Windows-365-Cloud-PC-pricing-start-at-20)
-- [DWP IR35 bill, women in tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/DWP-IR35-bill-women-in-tech-Computer-Weekly-Downtime-Upload-podcast)
-- [Destruction and integrity cyber attacks on the rise](https://www.computerweekly.com/news/252504825/Destruction-and-integrity-cyber-attacks-on-the-rise)
-- [Executive interview: Chris McShane, MD, Halfords Mobile Experts](https://www.computerweekly.com/news/252504577/Executive-interview-Chris-McShane-chief-operating-officer-Halfords)
-- [The fears and benefits of virtualising reality](https://www.computerweekly.com/ezine/Computer-Weekly/The-fears-and-benefits-of-virtualising-reality)
-- [IR35 reforms: TUC demand for government ban on umbrella companies raises eyebrows](https://www.computerweekly.com/news/252504756/IR35-reforms-TUC-demand-for-government-ban-on-umbrella-companies-raises-eyebrows)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

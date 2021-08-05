@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Almost-Billionaires](http://lackingambition.com/?p=1464)
-- [Show HN: ILTM – Paper trade memes like they're stocks based on their popularity](https://ilikethememe.com/)
-- [The State Department and 3 other US agencies earn a D for cybersecurity](https://arstechnica.com/information-technology/2021/08/the-state-department-and-3-other-us-agencies-earn-a-d-for-cybersecurity/)
-- [Watch the First Two Hours of MTV Ever Broadcast](https://nerdist.com/article/first-two-hours-of-mtv-broadcast-1981/)
-- [Žádný otázky ani VAše spamovy emailovy hračky](https://blog.cloudflare.com/health-check-analytics-and-how-you-can-use-it/)
-- [Polars v0.15.0: Fastest DataFrame library written in Rust](https://www.ritchievink.com/blog/2021/08/02/an-update-on-polars-v0.15.0/0.8.17/)
-- [Ask HN: Recommendations for Project Based Courses](https://news.ycombinator.com/item?id=28056454)
-- [Evolution of Search Engines Architecture – Algolia New Search Architecture](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
-- [SEC Chairman Draws Dividing Line Between Bitcoin, Crypto in Aspen Speech](https://bitcoinmagazine.com/markets/bitcoin-sec-gary-gensler-aspen-forum)
-- [Dispelling the Myths of Nuclear Energy](https://www.youtube.com/watch?v=c1QmB5bW_WQ&pp=sAQA)
+- [Adumbrations of Aducanumab](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab)
+- [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
+- [Stop Telling Devs What to Do with GitHub's Dana Lawson](https://devinterrupted.com/podcast/stop-telling-devs-what-to-do/)
+- [O.C. school board suing Newsom over K-12 Covid mask mandate](https://archive.ph/8ghCR)
+- [Financial Freedom and Privacy in the Post‐ Cash World](https://www.cato.org/cato-journal/spring/summer-2021/financial-freedom-privacy-post-cash-world)
+- [Crypto Digital Currency Exchange](https://crypto-pages.com/add/modules/site.php?user_id=2486)
+- [Ask HN: Privacy focused security cameras/doorbell for home](https://news.ycombinator.com/item?id=28068879)
+- [NSA Urges Government Workers to Avoid Public Wi-Fi](https://www.nytimes.com/2021/08/04/us/politics/nsa-public-wifi.html)
+- [Toronto Nightlife History: Music Genres](http://thenandnowtoronto.com/category/music-genres/)
+- [America's Pandemic Pessimism Returns](https://www.axios.com/america-pandemic-polling-coronavirus-pessimism-8c1584dd-2aab-446b-825c-ab2aa8454c9e.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

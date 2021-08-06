@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
-- [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
-- [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
-- [A list of tech companies with 4 day work weeks](https://4dayweek.io/blog/10-tech-companies-with-4-day-work-weeks-2021)
-- [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
-- [Airyx OS](http://airyx.org/)
-- [Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
-- [Comma Three [video]](https://www.youtube.com/watch?v=hbLiehrC2DQ)
-- [Slitter: A slab allocator that trusts, but verifies](https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/)
-- [The Bad Grade That Changed the U.S. Constitution](https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution)
+- [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
+- [Scientist says cleaning indoor air could make us healthier–and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
+- [NYU Researchers Studying Disinformation on Facebook Cut Off](https://www.npr.org/2021/08/04/1024791053/facebook-boots-nyu-disinformation-researchers-off-its-platform-and-critics-cry-f)
+- [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
+- [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
+- [Stanford AIMI releases free open-source repository of medical datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
+- [Show HN: NightCafe Creator – Create art from a text prompt using VQGAN+CLIP](https://creator.nightcafe.studio/text-to-image-art)
+- [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
+- [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
+- [BuildZoom (better way to build custom homes) is hiring engineers](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

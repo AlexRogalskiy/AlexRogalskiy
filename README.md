@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian government invites youth employment providers to apply for stream 2 of Canada Digital Adoption Program](https://www.itworldcanada.com/article/canadian-government-invites-youth-employment-providers-to-apply-for-stream-2-of-canada-digital-adoption-program/456735)
+- [Open-source components in commercial software likely have vulnerabilities: Report](https://www.itworldcanada.com/article/open-source-components-in-commercial-software-likely-have-vulnerabilities-report/456646)
+- [The Integration of AI, Machine Learning and Modern Threat Management](https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734)
+- [Working Together to Address the Skills Gap in Cybersecurity](https://www.itworldcanada.com/article/working-together-to-address-the-skills-gap-in-cybersecurity/456731)
+- [Only platforms can stop supply chain attacks, Black Hat conference told](https://www.itworldcanada.com/article/only-platforms-can-stop-supply-chain-attacks-black-hat-conference-told/456701)
+- [Micron’s 176-layer mobile storage chip enters volume production](https://www.itworldcanada.com/article/microns-176-layer-mobile-storage-chip-enters-volume-production/456713)
+- [Hashtag Trending August 5 – Facebook bans academics; Microsoft in damage control mode; Nvidia’s Arm acquisition hits a snag](https://www.itworldcanada.com/article/hashtag-trending-august-5-facebook-bans-academics-microsoft-in-damage-control-mode-nvidias-arm-acquisition-hits-a-snag/456708)
 - [Coffee Briefing, August 4, 2021 – Flaws in EV chargers; AMD’s new graphics cards; Microsoft’s vaccine policy; and more](https://www.itworldcanada.com/article/coffee-briefing-august-4-2021-flaws-in-ev-chargers-amds-new-graphics-cards-microsofts-vaccine-policy-and-more/456608)
 - [Starlink satellite internet faster than broadband in five Canadian provinces](https://www.itworldcanada.com/article/starlink-satellite-internet-faster-than-broadband-in-five-canadian-provinces/456669)
 - [Cyber Security Today, August 4, 2021 – Report details problems with and solutions for supply chain attacks](https://www.itworldcanada.com/article/cyber-security-today-august-4-2021-report-details-problems-with-and-solutions-for-supply-chain-attacks/456605)
-- [Hashtag Trending August 4 – Amazon warehouse workers may re-vote on union; Zoom to pay $85 million to settle privacy complaints; Silicon Valley tech startup growth and competition](https://www.itworldcanada.com/article/hashtag-trending-august-4-amazon-warehouse-workers-may-re-vote-on-union-zoom-to-pay-85-million-to-settle-privacy-complaints-silicon-valley-tech-startup-growth-and-competition/456651)
-- [Remote code execution the most common cyber threat faced by Canadian firms: Report](https://www.itworldcanada.com/article/remote-code-execution-the-most-common-cyber-threat-faced-by-canadian-firms-report/456569)
-- [Canadian network security firm launches industrial gateway](https://www.itworldcanada.com/article/canadian-network-security-firm-launches-industrial-gateway/456563)
-- [Canadian carriers pay big for mid-band 5G spectrum licenses](https://www.itworldcanada.com/article/canadian-carriers-pay-big-for-mid-band-5g-spectrum-licenses/456551)
-- [Hashtag Trending August 3 – EA ransom fails; Apple bans anti-vax dating app; Amazon soap dispenser cleans your hands better](https://www.itworldcanada.com/article/hashtag-trending-july-30-ea-ransom-fails-app-bans-anti-vaxxer-dating-app-amazon-soap-dispenser-cleans-your-hands-better/456572)
-- [Cyber Security Today, August 2, 2021 – A record year for ransomware attacks predicted, and warnings from Microsoft and Cisco Systems](https://www.itworldcanada.com/article/cyber-security-today-august-2-2021-a-record-year-for-ransomware-attacks-predicted-and-warnings-from-microsoft-and-cisco-systems/456546)
-- [Cyber Security Today, Week in Review for Friday July 30, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-30-2021/456540)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

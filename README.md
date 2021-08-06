@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Podcast: Google makes its own chip for the Pixel 6, plus how to make hybrid work successful](https://www.computerworld.com/article/3628209/podcast-google-makes-its-own-chip-for-the-pixel-6-plus-how-to-make-hybrid-work-successful.html#tk.rss_all)
+- [Cisco takes aim at meeting fatigue with Vidcast](https://www.computerworld.com/article/3628233/cisco-takes-aim-at-meeting-fatigue-with-vidcast.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [4 tucked-away takeaways from Google's Pixel 6 preview](https://www.computerworld.com/article/3627969/google-pixel-6-preview.html#tk.rss_all)
+- [Teradici brings Mac-as-a-service to multiple platforms](https://www.computerworld.com/article/3628468/teradici-brings-mac-as-a-service-to-multiple-platforms.html#tk.rss_all)
+- [Microsoft details Windows 365 virtual desktop prices: $20 to $162 a month](https://www.computerworld.com/article/3628190/microsoft-reveals-windows-365-virtual-desktop-prices-20-to-162-a-month.html#tk.rss_all)
 - [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 - [BrandPost: Managing Your Way to Hybrid Cloud Security](https://www.computerworld.com/article/3624017/managing-your-way-to-hybrid-cloud-security.html#tk.rss_all)
-- [BrandPost: Managed Private Cloud: It’s All About Simplification](https://www.computerworld.com/article/3623118/managed-private-cloud-its-all-about-simplification.html#tk.rss_all)
-- [Apple's Store update takes retail to the metaverse](https://www.computerworld.com/article/3628029/apples-store-update-takes-retail-to-the-metaverse.html#tk.rss_all)
-- [BrandPost: A Safe Cloud Modernization Plan Begins Behind the Firewall](https://www.computerworld.com/article/3623010/a-safe-cloud-modernization-plan-begins-behind-the-firewall.html#tk.rss_all)
-- [BrandPost: Managed Private Cloud IaaS is Predictable, Consistent, and Future-Proof](https://www.computerworld.com/article/3622942/managed-private-cloud-iaas-is-predictable-consistent-and-future-proof.html#tk.rss_all)
-- [This Vultur app takes malicious to the next level](https://www.computerworld.com/article/3627326/this-vultur-app-takes-malicious-to-the-next-level.html#tk.rss_all)
-- [Outlook for Microsoft 365 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3626194/outlook-for-microsoft-365-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
-- [Outlook for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3625505/outlook-for-microsoft-365-office-365-cheat-sheet.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

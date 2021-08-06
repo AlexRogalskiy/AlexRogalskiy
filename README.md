@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [What’s new in Rust 1.54](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [What’s new in Kubernetes 1.22](https://www.infoworld.com/article/3229359/whats-new-in-kubernetes.html#tk.rss_all)
+- [Developers love Rust and Svelte, dread AngularJS, Stack Overflow survey says](https://www.infoworld.com/article/3628231/developers-love-rust-and-svelte-dread-angularjs-stack-overflow-survey-says.html#tk.rss_all)
+- [How to work with Azure Queue Storage in C#](https://www.infoworld.com/article/3628229/how-to-work-with-azure-queue-storage-in-csharp.html#tk.rss_all)
 - [How to choose a cloud database](https://www.infoworld.com/article/3627792/how-to-choose-a-cloud-database.html#tk.rss_all)
 - [Oracle launches Verrazzano container platform for Kubernetes](https://www.infoworld.com/article/3627407/oracle-launches-verrazzano-container-platform-for-kubernetes.html#tk.rss_all)
 - [Debugging concurrent code with Coyote](https://www.infoworld.com/article/3627404/debugging-concurrent-code-with-coyote.html#tk.rss_all)
 - [Eclipse Temurin Java SE binaries debut](https://www.infoworld.com/article/3627503/eclipse-temurin-java-se-binaries-debut.html#tk.rss_all)
 - [Cloud database and cloud infrastructure people need to talk](https://www.infoworld.com/article/3627499/cloud-database-and-cloud-infrastructure-people-need-to-talk.html#tk.rss_all)
-- [Data science needs drudges](https://www.infoworld.com/article/3627276/data-science-needs-drudges.html#tk.rss_all)
-- [3 ways AI improves CRM](https://www.infoworld.com/article/3624010/3-ways-ai-improves-crm.html#tk.rss_all)
-- [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html#tk.rss_all)
-- [What is the color of cloud money?](https://www.infoworld.com/article/3627328/the-advantages-of-cloud-economics.html#tk.rss_all)
-- [What is Docker? The spark for the container revolution](https://www.infoworld.com/article/3204171/what-is-docker-the-spark-for-the-container-revolution.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

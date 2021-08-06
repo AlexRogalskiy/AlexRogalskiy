@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Nine security flaws found in critical hospital infrastructure](https://www.computerweekly.com/news/252504920/Nine-security-flaws-found-in-critical-hospital-infrastructure)
+- [BlackMatter goes on the record about DarkSide and REvil links](https://www.computerweekly.com/news/252504921/BlackMatter-goes-on-the-record-about-DarkSide-and-REvil-links)
+- [SAP customers more alert to internal than external threats](https://www.computerweekly.com/news/252504915/SAP-customers-more-alert-to-internal-than-external-threats)
+- [BCS: more diverse workforce key to UK AI ethics global leadership](https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership)
+- [Cloud misconfiguration a growing cause of security incidents](https://www.computerweekly.com/news/252504909/Cloud-misconfiguration-a-growing-cause-of-security-incidents)
+- [Around 75% of minority tech employees don’t feel a sense of belonging at work](https://www.computerweekly.com/news/252504902/Around-75-of-minority-tech-employees-dont-feel-a-sense-of-belonging-at-work)
 - [Research points to growing importance of secondary datacentre hubs across Europe in years to come](https://www.computerweekly.com/news/252504884/Research-points-to-growing-importance-of-secondary-datacentre-hubs-across-Europe-in-years-to-come)
 - [Amazon vs Google vs Microsoft: Gartner report blasts public cloud giants’ sales tactics](https://www.computerweekly.com/news/252504882/Amazon-vs-Google-vs-Microsoft-Gartner-reports-blasts-public-cloud-giants-sales-tactics)
 - [Civil Service Data Challenge announces longlist of ideas to improve data use](https://www.computerweekly.com/news/252504878/Civil-Service-Data-Challenge-announces-longlist-of-ideas-to-improve-data-use)
 - [M&S launches initiative to hire software engineers](https://www.computerweekly.com/news/252504871/MS-launches-initiative-to-hire-software-engineers)
-- [Six Isle of Wight schools hit by ransomware attack](https://www.computerweekly.com/news/252504868/Six-Isle-of-Wight-schools-hit-by-ransomware-attack)
-- [Leading venture capital firms are failing to protect human rights](https://www.computerweekly.com/news/252504864/Leading-venture-capital-firms-are-failing-to-protect-human-rights)
-- [The unintended consequences of digital transformation](https://www.computerweekly.com/opinion/The-unintended-consequences-of-digital-transformation)
-- [Initial access brokers unaffected by ransomware content bans](https://www.computerweekly.com/news/252504860/Initial-access-brokers-unaffected-by-ransomware-content-bans)
-- [Dropbox shares datacentre sustainability strategy as it plots to be 100% renewably powered by 2030](https://www.computerweekly.com/news/252504857/Dropbox-shares-datacentre-sustainability-strategy-as-it-plots-to-be-100-renewably-powered-by-2030)
-- [UK MoD turns to hackers to help secure digital assets](https://www.computerweekly.com/news/252504832/UK-MoD-turns-to-hackers-to-help-secure-digital-assets)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

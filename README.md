@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Adumbrations of Aducanumab](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab)
-- [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
-- [Stop Telling Devs What to Do with GitHub's Dana Lawson](https://devinterrupted.com/podcast/stop-telling-devs-what-to-do/)
-- [O.C. school board suing Newsom over K-12 Covid mask mandate](https://archive.ph/8ghCR)
-- [Financial Freedom and Privacy in the Post‐ Cash World](https://www.cato.org/cato-journal/spring/summer-2021/financial-freedom-privacy-post-cash-world)
-- [Crypto Digital Currency Exchange](https://crypto-pages.com/add/modules/site.php?user_id=2486)
-- [Ask HN: Privacy focused security cameras/doorbell for home](https://news.ycombinator.com/item?id=28068879)
-- [NSA Urges Government Workers to Avoid Public Wi-Fi](https://www.nytimes.com/2021/08/04/us/politics/nsa-public-wifi.html)
-- [Toronto Nightlife History: Music Genres](http://thenandnowtoronto.com/category/music-genres/)
-- [America's Pandemic Pessimism Returns](https://www.axios.com/america-pandemic-polling-coronavirus-pessimism-8c1584dd-2aab-446b-825c-ab2aa8454c9e.html)
+- [Vsql: A single-file SQL database written in pure V with no dependencies](https://github.com/elliotchance/vsql)
+- [Beware of 'Shrinkflation,' Inflation's Devious Cousin](https://www.npr.org/sections/money/2021/07/06/1012409112/beware-of-shrinkflation-inflations-devious-cousin)
+- [Two US senators want to target ransomware by sanctioning nations that allow it](https://www.itnews.com.au/news/two-us-senators-want-to-target-ransomware-by-sanctioning-nations-that-allow-it-568269)
+- [I failed machine learning in medical imaging](https://www.arxiv-vanity.com/papers/2103.10292/)
+- [Sketch Your Own GAN](https://peterwang512.github.io/GANSketching/)
+- [Leo: Learning Energy-Based Models in Graph Optimization](https://psodhi.github.io/leo)
+- [Object Wake-Up: 3-D Object Reconstruction, Animation from a Single Image](https://arxiv.org/abs/2108.02708)
+- [Offensive Golang Bonanza: Writing Golang Malware](https://www.youtube.com/watch?v=3RQb05ITSyk)
+- [Babylonians May Have Discovered Trigonometry 1,500 Years Before Greeks](https://www.artnews.com/art-news/news/babylonians-discovered-trigonometry-1500-years-before-greeks-1234600894/)
+- [Reminder: Control What You Can Control](https://www.contemporaryidiot.com/p/control-what-you-cant-control)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

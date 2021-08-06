@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: Australia to face USA in beach volleyball final, 100m hurdles, skateboarding, basketball and more – live!](https://www.theguardian.com/sport/live/2021/aug/04/tokyo-2020-olympics-110m-hurdles-golf-diving-cycling-and-more-live)
-- [Why a Belarusian Olympic sprinter refused to fly home](https://www.theguardian.com/news/audio/2021/aug/05/why-belarus-olympic-sprinter-krystsina-tsimanouskayaref-used-to-go-home-podcast)
-- [At least 10 killed after packed van crashes in south Texas](https://www.theguardian.com/us-news/2021/aug/04/texas-van-crash-encino)
-- [Meghan and Prince Harry discussed moving to New Zealand in 2018, governor general says](https://www.theguardian.com/uk-news/2021/aug/05/meghan-and-prince-harry-discussed-moving-to-new-zealand-in-2018-governor-general-says)
-- [Paul Johnson, Get Get Down house producer, dies at age 50 from Covid-19](https://www.theguardian.com/music/2021/aug/04/paul-johnson-get-get-down-house-producer-dies-at-age-50-from-covid-19)
-- [Myanmar’s UN envoy accuses military junta of township massacre](https://www.theguardian.com/world/2021/aug/05/myanmars-un-envoy-accuses-regime-of-township-massacre)
-- [Campaign calls for UK ban on pesticides in gardens and urban areas](https://www.theguardian.com/environment/2021/aug/05/campaign-calls-for-uk-ban-pesticides-gardens-urban-areas-aoe)
-- [Britons spent third of time watching TV and online videos in 2020](https://www.theguardian.com/media/2021/aug/05/britons-spent-third-of-time-watching-tv-and-online-videos-in-2020)
-- [Covid disrupted treatment for 30% of NHS cancer patients, survey shows](https://www.theguardian.com/world/2021/aug/05/covid-disrupted-treatment-for-30-of-nhs-cancer-patients-survey-shows)
-- [Premier League 2021-22 preview No 6: Crystal Palace](https://www.theguardian.com/football/2021/aug/05/premier-league-2021-22-preview-no-7-crystal-palace)
+- [Tokyo 2020 Olympics: beach volleyball, cycling, modern pentathlon and more – live!](https://www.theguardian.com/sport/live/2021/aug/05/tokyo-2020-olympics-athletics-cycling-modern-pentathlon-and-more-live-day-14)
+- [Racism, policing and austerity: have lessons been learned since England’s 2011 riots?](https://www.theguardian.com/news/audio/2021/aug/06/racism-policing-and-austerity-have-lessons-been-learned-since-englands-2011-riots-podcast)
+- [News Corp recovers from horror year with $445m profit](https://www.theguardian.com/media/2021/aug/06/news-corp-recovers-from-horror-year-with-445m-profit)
+- [Indonesia army signals end to ‘virginity test’ for female recruits](https://www.theguardian.com/world/2021/aug/06/indonesia-army-signals-end-to-virginity-test-for-female-recruits)
+- [Vaccination campaign warns young people they risk ‘missing out’ on nightclubs](https://www.theguardian.com/world/2021/aug/06/vaccination-campaign-warns-young-people-they-risk-missing-out-on-nightclubs-covid)
+- [Bryan Adams photographs Cher, Grimes and Iggy Pop for Pirelli calendar](https://www.theguardian.com/music/2021/aug/06/bryan-adams-photographs-cher-grimes-and-iggy-pop-for-pirelli-calendar)
+- [Premier League 2021-22 preview No 9: Leeds](https://www.theguardian.com/football/2021/aug/06/premier-league-2021-22-preview-no-9-leeds)
+- [Virgin Galactic to sell space flight tickets starting at $450,000 a seat](https://www.theguardian.com/science/2021/aug/05/virgin-galactic-ticket-sales-space)
+- [Cop26 president Alok Sharma flew to 30 countries in 7 months](https://www.theguardian.com/environment/2021/aug/06/cop26-president-alok-sharma-flew-to-30-countries-in-7-months)
+- [‘Too late’: UK live events sector promised Covid insurance scheme](https://www.theguardian.com/business/2021/aug/05/uk-live-events-sector-promised-covid-insurance-scheme-festivals-sunak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

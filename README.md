@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: beach volleyball, cycling, modern pentathlon and more – live!](https://www.theguardian.com/sport/live/2021/aug/05/tokyo-2020-olympics-athletics-cycling-modern-pentathlon-and-more-live-day-14)
-- [Racism, policing and austerity: have lessons been learned since England’s 2011 riots?](https://www.theguardian.com/news/audio/2021/aug/06/racism-policing-and-austerity-have-lessons-been-learned-since-englands-2011-riots-podcast)
-- [News Corp recovers from horror year with $445m profit](https://www.theguardian.com/media/2021/aug/06/news-corp-recovers-from-horror-year-with-445m-profit)
-- [Indonesia army signals end to ‘virginity test’ for female recruits](https://www.theguardian.com/world/2021/aug/06/indonesia-army-signals-end-to-virginity-test-for-female-recruits)
-- [Vaccination campaign warns young people they risk ‘missing out’ on nightclubs](https://www.theguardian.com/world/2021/aug/06/vaccination-campaign-warns-young-people-they-risk-missing-out-on-nightclubs-covid)
-- [Bryan Adams photographs Cher, Grimes and Iggy Pop for Pirelli calendar](https://www.theguardian.com/music/2021/aug/06/bryan-adams-photographs-cher-grimes-and-iggy-pop-for-pirelli-calendar)
-- [Premier League 2021-22 preview No 9: Leeds](https://www.theguardian.com/football/2021/aug/06/premier-league-2021-22-preview-no-9-leeds)
-- [Virgin Galactic to sell space flight tickets starting at $450,000 a seat](https://www.theguardian.com/science/2021/aug/05/virgin-galactic-ticket-sales-space)
-- [Cop26 president Alok Sharma flew to 30 countries in 7 months](https://www.theguardian.com/environment/2021/aug/06/cop26-president-alok-sharma-flew-to-30-countries-in-7-months)
-- [‘Too late’: UK live events sector promised Covid insurance scheme](https://www.theguardian.com/business/2021/aug/05/uk-live-events-sector-promised-covid-insurance-scheme-festivals-sunak)
+- [Tokyo 2020 Olympics men’s basketball final: USA v France – live!](https://www.theguardian.com/sport/live/2021/aug/06/tokyo-2020-olympics-mens-basketball-final-usa-v-france-live)
+- [Tokyo 2020 Olympics: Kenya’s Jepchirchir wins marathon, plus diving, boxing and more – live!](https://www.theguardian.com/sport/live/2021/aug/06/tokyo-2020-olympics-diving-boxing-cycling-and-athletics-live)
+- [Ethiopia conflict set to escalate after Tigray rebels refuse to withdraw](https://www.theguardian.com/world/2021/aug/07/ethiopia-conflict-set-to-escalate-after-tigray-rebels-refuse-to-withdraw)
+- [UK condemns 10-year sentence for dual national in Iran as tensions rise](https://www.theguardian.com/world/2021/aug/07/uk-condemns-10-year-sentence-for-dual-national-in-iran-as-tensions-rise)
+- [Queensland crocodile attack: two army personnel mauled north of Lockhart River](https://www.theguardian.com/environment/2021/aug/07/queensland-crocodile-attack-two-men-bitten-north-of-lockhart-river)
+- [‘Limits are non-existent in the metaverse!’ Video game concerts become big business](https://www.theguardian.com/music/2021/aug/07/no-limits-in-the-metaverse-video-game-concerts-big-business)
+- [Universities report record A-level grade acceleration in England and Wales](https://www.theguardian.com/education/2021/aug/06/universities-report-record-a-level-grade-acceleration-england-wales)
+- [EU regulator finds no link between vaccines and menstrual disorders – as it happened](https://www.theguardian.com/world/live/2021/aug/06/coronavirus-live-news-china-sees-new-surge-of-cases-cnn-sacks-three-staff-for-not-having-vaccine)
+- [Pep Guardiola confirms Manchester City want to sign Harry Kane from Spurs](https://www.theguardian.com/football/2021/aug/06/pep-guardiola-confirms-manchester-city-want-to-sign-harry-kane-from-spurs)
+- [PSG closing in on a deal for Lionel Messi after forward talks to Pochettino](https://www.theguardian.com/football/2021/aug/06/psg-to-pursue-lionel-messi-signing-after-forward-contacts-pochettino)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
-- [Scientist says cleaning indoor air could make us healthier–and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
-- [NYU Researchers Studying Disinformation on Facebook Cut Off](https://www.npr.org/2021/08/04/1024791053/facebook-boots-nyu-disinformation-researchers-off-its-platform-and-critics-cry-f)
-- [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
-- [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
-- [Stanford AIMI releases free open-source repository of medical datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
-- [Show HN: NightCafe Creator – Create art from a text prompt using VQGAN+CLIP](https://creator.nightcafe.studio/text-to-image-art)
-- [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
-- [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
-- [BuildZoom (better way to build custom homes) is hiring engineers](https://jobs.lever.co/buildzoom)
+- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
+- [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
+- [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
+- [Richard Stallman and the History of Free Software and Open Source](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
+- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
+- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
+- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
+- [Bonsai (YC W16) is hiring a head of growth marketing (remote)](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
+- [Whistleblowers expose corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

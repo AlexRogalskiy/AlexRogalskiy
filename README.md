@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [BlackBerry partners with the University of Windsor to monitor flooding](https://www.itworldcanada.com/article/blackberry-partners-with-the-university-of-windsor-to-monitor-flooding/456804)
+- [Cyber Security Today Week in Review for Aug. 6, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-aug-6-2021/456741)
+- [Apple’s controversial plan to scan devices for child sexual abuse photos](https://www.itworldcanada.com/article/apples-controversial-plan-to-scan-devices-for-child-sexual-abuse-photos/456769)
+- [The Role of AI in Cybersecurity](https://www.itworldcanada.com/article/the-role-of-ai-in-cybersecurity/456672)
+- [Cyber Security Today, Aug. 6, 2021 – Angry ransomware gang partner leaks secrets, reports of more Canadian ransomware victims; and a DNS problem found](https://www.itworldcanada.com/article/cyber-security-today-aug-6-2021-an-angry-ransomware-gang-partner-allegedly-leaks-secrets-reports-of-more-canadian-ransomware-victims-and-a-dns-problem-found/456755)
+- [Hashtag Trending August 6- Tech talent demands; Amazon’s anti-union tactics; Apple scanning phones for child abuse content](https://www.itworldcanada.com/article/hashtag-trending-august-6-tech-talent-demands-amazons-anti-union-tactics-apple-scanning-phones-for-child-abuse-content/456762)
 - [Canadian government invites youth employment providers to apply for stream 2 of Canada Digital Adoption Program](https://www.itworldcanada.com/article/canadian-government-invites-youth-employment-providers-to-apply-for-stream-2-of-canada-digital-adoption-program/456735)
 - [Open-source components in commercial software likely have vulnerabilities: Report](https://www.itworldcanada.com/article/open-source-components-in-commercial-software-likely-have-vulnerabilities-report/456646)
 - [The Integration of AI, Machine Learning and Modern Threat Management](https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734)
 - [Working Together to Address the Skills Gap in Cybersecurity](https://www.itworldcanada.com/article/working-together-to-address-the-skills-gap-in-cybersecurity/456731)
-- [Only platforms can stop supply chain attacks, Black Hat conference told](https://www.itworldcanada.com/article/only-platforms-can-stop-supply-chain-attacks-black-hat-conference-told/456701)
-- [Micron’s 176-layer mobile storage chip enters volume production](https://www.itworldcanada.com/article/microns-176-layer-mobile-storage-chip-enters-volume-production/456713)
-- [Hashtag Trending August 5 – Facebook bans academics; Microsoft in damage control mode; Nvidia’s Arm acquisition hits a snag](https://www.itworldcanada.com/article/hashtag-trending-august-5-facebook-bans-academics-microsoft-in-damage-control-mode-nvidias-arm-acquisition-hits-a-snag/456708)
-- [Coffee Briefing, August 4, 2021 – Flaws in EV chargers; AMD’s new graphics cards; Microsoft’s vaccine policy; and more](https://www.itworldcanada.com/article/coffee-briefing-august-4-2021-flaws-in-ev-chargers-amds-new-graphics-cards-microsofts-vaccine-policy-and-more/456608)
-- [Starlink satellite internet faster than broadband in five Canadian provinces](https://www.itworldcanada.com/article/starlink-satellite-internet-faster-than-broadband-in-five-canadian-provinces/456669)
-- [Cyber Security Today, August 4, 2021 – Report details problems with and solutions for supply chain attacks](https://www.itworldcanada.com/article/cyber-security-today-august-4-2021-report-details-problems-with-and-solutions-for-supply-chain-attacks/456605)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

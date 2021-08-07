@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vsql: A single-file SQL database written in pure V with no dependencies](https://github.com/elliotchance/vsql)
-- [Beware of 'Shrinkflation,' Inflation's Devious Cousin](https://www.npr.org/sections/money/2021/07/06/1012409112/beware-of-shrinkflation-inflations-devious-cousin)
-- [Two US senators want to target ransomware by sanctioning nations that allow it](https://www.itnews.com.au/news/two-us-senators-want-to-target-ransomware-by-sanctioning-nations-that-allow-it-568269)
-- [I failed machine learning in medical imaging](https://www.arxiv-vanity.com/papers/2103.10292/)
-- [Sketch Your Own GAN](https://peterwang512.github.io/GANSketching/)
-- [Leo: Learning Energy-Based Models in Graph Optimization](https://psodhi.github.io/leo)
-- [Object Wake-Up: 3-D Object Reconstruction, Animation from a Single Image](https://arxiv.org/abs/2108.02708)
-- [Offensive Golang Bonanza: Writing Golang Malware](https://www.youtube.com/watch?v=3RQb05ITSyk)
-- [Babylonians May Have Discovered Trigonometry 1,500 Years Before Greeks](https://www.artnews.com/art-news/news/babylonians-discovered-trigonometry-1500-years-before-greeks-1234600894/)
-- [Reminder: Control What You Can Control](https://www.contemporaryidiot.com/p/control-what-you-cant-control)
+- [Black-Box Attacks on Perceptual Image Hashes with GANs (2018)](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
+- [Show HN: Run simultaneous simulation experiments in the browser](https://simoji.pub/index.html#example%20fireAdvanced)
+- [Working with images are Tedious. So I built a Figma Plugin](https://heyraviteja.com/post/projects/figmage/)
+- [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
+- [Nocom Exploit on 2b2t](https://2b2t.miraheze.org/wiki/Nocom)
+- [Ask HN: Best Cloud-based, private photo storage option for sharing with family?](https://news.ycombinator.com/item?id=28094904)
+- [DeepMind Cofounder's Google Promotion Followed HR Complaints, Settlements](https://www.businessinsider.com/deepmind-mustafa-suleyman-google-allegations-bullying-settlements-2021-8)
+- [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
+- [The Raft Consensus Algorithm](https://raft.github.io/)
+- [SEC charges crypto execs for the first time over unregistered token sales](https://www.theverge.com/2021/8/6/22613195/sec-cryptocurrency-blockchain-gensler-charge-illegal-fraud-tokens)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

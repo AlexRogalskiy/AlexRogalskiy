@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s plan to scan US iPhones raises privacy red flags](https://www.computerworld.com/article/3628454/apples-plan-to-scan-us-iphones-raises-privacy-red-flags.html#tk.rss_all)
+- [These products support the new normal office environment](https://www.computerworld.com/article/3628174/these-products-support-the-new-normal-office-environment.html#tk.rss_all)
+- [For better video collaboration, time to embrace the Metaverse?](https://www.computerworld.com/article/3628234/for-better-video-collaboration-it-s-time-to-embrace-the-metaverse.html#tk.rss_all)
+- [Windows 365 costs how much!?](https://www.computerworld.com/article/3628169/windows-365-costs-how-much.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Podcast: Google makes its own chip for the Pixel 6, plus how to make hybrid work successful](https://www.computerworld.com/article/3628209/podcast-google-makes-its-own-chip-for-the-pixel-6-plus-how-to-make-hybrid-work-successful.html#tk.rss_all)
 - [Cisco takes aim at meeting fatigue with Vidcast](https://www.computerworld.com/article/3628233/cisco-takes-aim-at-meeting-fatigue-with-vidcast.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [4 tucked-away takeaways from Google's Pixel 6 preview](https://www.computerworld.com/article/3627969/google-pixel-6-preview.html#tk.rss_all)
-- [Teradici brings Mac-as-a-service to multiple platforms](https://www.computerworld.com/article/3628468/teradici-brings-mac-as-a-service-to-multiple-platforms.html#tk.rss_all)
-- [Microsoft details Windows 365 virtual desktop prices: $20 to $162 a month](https://www.computerworld.com/article/3628190/microsoft-reveals-windows-365-virtual-desktop-prices-20-to-162-a-month.html#tk.rss_all)
-- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
-- [BrandPost: Managing Your Way to Hybrid Cloud Security](https://www.computerworld.com/article/3624017/managing-your-way-to-hybrid-cloud-security.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

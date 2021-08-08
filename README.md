@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
-- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
-- [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
-- [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
-- [Richard Stallman and the History of Free Software and Open Source](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
-- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
-- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
-- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
-- [Bonsai (YC W16) is hiring a head of growth marketing (remote)](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
-- [Whistleblowers expose corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
+- [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
+- [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
+- [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
+- [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
+- [A plain text note-taking system for problem solving](https://calculist.io/)
+- [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
+- [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
+- [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
+- [Very fast rocket](http://makc.github.io/misc/relativity-1.html)
+- [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

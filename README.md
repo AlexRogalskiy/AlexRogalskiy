@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Black-Box Attacks on Perceptual Image Hashes with GANs (2018)](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
-- [Show HN: Run simultaneous simulation experiments in the browser](https://simoji.pub/index.html#example%20fireAdvanced)
-- [Working with images are Tedious. So I built a Figma Plugin](https://heyraviteja.com/post/projects/figmage/)
-- [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
-- [Nocom Exploit on 2b2t](https://2b2t.miraheze.org/wiki/Nocom)
-- [Ask HN: Best Cloud-based, private photo storage option for sharing with family?](https://news.ycombinator.com/item?id=28094904)
-- [DeepMind Cofounder's Google Promotion Followed HR Complaints, Settlements](https://www.businessinsider.com/deepmind-mustafa-suleyman-google-allegations-bullying-settlements-2021-8)
-- [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
-- [The Raft Consensus Algorithm](https://raft.github.io/)
-- [SEC charges crypto execs for the first time over unregistered token sales](https://www.theverge.com/2021/8/6/22613195/sec-cryptocurrency-blockchain-gensler-charge-illegal-fraud-tokens)
+- [The Bipartisan Antitrust Crusade Against Big Tech](https://reason.com/2021/06/05/the-bipartisan-antitrust-crusade-against-big-tech/)
+- [Running quantum software on a classical computer](https://actu.epfl.ch/news/running-quantum-software-on-a-classical-computer/)
+- [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
+- [Machine Learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
+- [Space Station Incident Demands Independent Investigation](https://spectrum.ieee.org/space-station-accident-needs-independant-investigation#toggle-gdpr)
+- [How to build an SSH honeypot in Python and Docker](https://securehoney.net/blog/how-to-build-an-ssh-honeypot-in-python-and-docker-part-1.html)
+- [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
+- [Performance Deficits in Apache Cassandra](http://literatejava.com/database/performance-deficits-in-apache-cassandra/)
+- [Show HN: Livepeer.com – An affordable and easy-to-use video streaming API](https://livepeer.com)
+- [Make It with Punched Cards (1971)](https://archive.org/details/makeitwithpunchedcards1971/mode/2up)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

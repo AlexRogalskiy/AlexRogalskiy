@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics men’s basketball final: USA v France – live!](https://www.theguardian.com/sport/live/2021/aug/06/tokyo-2020-olympics-mens-basketball-final-usa-v-france-live)
-- [Tokyo 2020 Olympics: Kenya’s Jepchirchir wins marathon, plus diving, boxing and more – live!](https://www.theguardian.com/sport/live/2021/aug/06/tokyo-2020-olympics-diving-boxing-cycling-and-athletics-live)
-- [Ethiopia conflict set to escalate after Tigray rebels refuse to withdraw](https://www.theguardian.com/world/2021/aug/07/ethiopia-conflict-set-to-escalate-after-tigray-rebels-refuse-to-withdraw)
-- [UK condemns 10-year sentence for dual national in Iran as tensions rise](https://www.theguardian.com/world/2021/aug/07/uk-condemns-10-year-sentence-for-dual-national-in-iran-as-tensions-rise)
-- [Queensland crocodile attack: two army personnel mauled north of Lockhart River](https://www.theguardian.com/environment/2021/aug/07/queensland-crocodile-attack-two-men-bitten-north-of-lockhart-river)
-- [‘Limits are non-existent in the metaverse!’ Video game concerts become big business](https://www.theguardian.com/music/2021/aug/07/no-limits-in-the-metaverse-video-game-concerts-big-business)
-- [Universities report record A-level grade acceleration in England and Wales](https://www.theguardian.com/education/2021/aug/06/universities-report-record-a-level-grade-acceleration-england-wales)
-- [EU regulator finds no link between vaccines and menstrual disorders – as it happened](https://www.theguardian.com/world/live/2021/aug/06/coronavirus-live-news-china-sees-new-surge-of-cases-cnn-sacks-three-staff-for-not-having-vaccine)
-- [Pep Guardiola confirms Manchester City want to sign Harry Kane from Spurs](https://www.theguardian.com/football/2021/aug/06/pep-guardiola-confirms-manchester-city-want-to-sign-harry-kane-from-spurs)
-- [PSG closing in on a deal for Lionel Messi after forward talks to Pochettino](https://www.theguardian.com/football/2021/aug/06/psg-to-pursue-lionel-messi-signing-after-forward-contacts-pochettino)
+- [Tokyo 2020 Olympics: cycling, boxing and more on final day – live!](https://www.theguardian.com/sport/live/2021/aug/07/tokyo-olympics-closing-ceremony-marathon-cycling-boxing-basketball-live)
+- [Tokyo 2020 Olympics women’s basketball final: USA v Japan – live!](https://www.theguardian.com/sport/live/2021/aug/07/tokyo-2020-olympics-womens-basketball-final-usa-v-japan-live)
+- [Texas Democrats still absent as Republicans make third bid to pass vote laws](https://www.theguardian.com/us-news/2021/aug/08/texas-democrats-still-absent-as-republicans-make-third-bid-to-pass-vote-laws)
+- [Kenya’s Eliud Kipchoge blitzes field for second straight Olympic marathon gold](https://www.theguardian.com/sport/2021/aug/08/kenyas-eliud-kipchoge-blitzes-field-for-second-straight-olympic-marathon-gold)
+- [Five teenage boys die in New Zealand’s worst car accident for five years](https://www.theguardian.com/world/2021/aug/08/five-teenage-boys-die-in-new-zealands-worst-car-accident-for-five-years)
+- [Reputed mafia ‘godmother’ arrested at Rome airport](https://www.theguardian.com/world/2021/aug/08/reputed-mafia-godmother-licciardi-arrested-at-rome-airport)
+- [Sheriff hails courage of woman accusing Andrew Cuomo of sexual misconduct](https://www.theguardian.com/us-news/2021/aug/07/andrew-cuomo-criminal-complaint-albany-sheriff)
+- [NHS waiting lists could top 15 million in four years without major rise in capacity](https://www.theguardian.com/society/2021/aug/08/nhs-waiting-lists-could-top-15-million-in-four-years-without-major-rise-in-capacity)
+- [We love… Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/07/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Chibok schoolgirl freed in Nigeria seven years after Boko Haram kidnap, governor says](https://www.theguardian.com/world/2021/aug/07/chibok-schoolgirl-freed-in-nigeria-seven-years-after-boko-haram-kidnap-governor-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

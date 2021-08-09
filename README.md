@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
-- [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
-- [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
-- [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
-- [A plain text note-taking system for problem solving](https://calculist.io/)
-- [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
-- [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
-- [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
-- [Very fast rocket](http://makc.github.io/misc/relativity-1.html)
-- [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
+- [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
+- [California's Dixie Fire Is Now the 2nd Largest in State History](https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history)
+- [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
+- [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
+- [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
+- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
+- [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
+- [Show HN: Yet another Homebrew Video Game Console, this time FPGA-based](https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html)
+- [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+- [Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance](https://arxiv.org/abs/2108.02547)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

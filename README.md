@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Bipartisan Antitrust Crusade Against Big Tech](https://reason.com/2021/06/05/the-bipartisan-antitrust-crusade-against-big-tech/)
-- [Running quantum software on a classical computer](https://actu.epfl.ch/news/running-quantum-software-on-a-classical-computer/)
-- [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
-- [Machine Learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
-- [Space Station Incident Demands Independent Investigation](https://spectrum.ieee.org/space-station-accident-needs-independant-investigation#toggle-gdpr)
-- [How to build an SSH honeypot in Python and Docker](https://securehoney.net/blog/how-to-build-an-ssh-honeypot-in-python-and-docker-part-1.html)
-- [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
-- [Performance Deficits in Apache Cassandra](http://literatejava.com/database/performance-deficits-in-apache-cassandra/)
-- [Show HN: Livepeer.com – An affordable and easy-to-use video streaming API](https://livepeer.com)
-- [Make It with Punched Cards (1971)](https://archive.org/details/makeitwithpunchedcards1971/mode/2up)
+- [Soil maps help scientists dig up dirt in criminal investigations](https://www.sciencemag.org/news/2021/08/soil-maps-help-scientists-dig-dirt-criminal-investigations)
+- [Supermetrics for Azure Storage](https://datastudio.ca/supermetrics/supermetrics-for-azure-storage-step-by-step-guide/)
+- [Productivity Meets Social-Networking = Looksee](https://news.ycombinator.com/item?id=28112032)
+- [Backpage.com’s Vicious Battle with the Feds](https://www.wired.com/story/inside-backpage-vicious-battle-feds/)
+- [Ask HN: Privacy&security-respecting alternatives to iPhone, with VoLTE in mind?](https://news.ycombinator.com/item?id=28111995)
+- [Kevin Kelly: The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
+- [SpaceX launching satellite to display billboard ads in space](https://futurism.com/the-byte/spacex-billboard-ads-space)
+- [MIT Researchers Devise a Way to Program Memories into Bacteria by Rewriting DNA](https://scitechdaily.com/mit-researchers-devised-a-way-to-program-memories-into-bacterial-cells-by-rewriting-their-dna/)
+- [Amazon Third-Party Sellers Reportedly Hound Customers Who Leave Bad Reviews](https://gizmodo.com/heres-how-amazon-third-party-sellers-reportedly-hound-c-1847446648)
+- [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.com/news/science-environment-58141129)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

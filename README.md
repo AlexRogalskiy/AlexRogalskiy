@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Olympics: cycling, boxing and more on final day – live!](https://www.theguardian.com/sport/live/2021/aug/07/tokyo-olympics-closing-ceremony-marathon-cycling-boxing-basketball-live)
-- [Tokyo 2020 Olympics women’s basketball final: USA v Japan – live!](https://www.theguardian.com/sport/live/2021/aug/07/tokyo-2020-olympics-womens-basketball-final-usa-v-japan-live)
-- [Texas Democrats still absent as Republicans make third bid to pass vote laws](https://www.theguardian.com/us-news/2021/aug/08/texas-democrats-still-absent-as-republicans-make-third-bid-to-pass-vote-laws)
-- [Kenya’s Eliud Kipchoge blitzes field for second straight Olympic marathon gold](https://www.theguardian.com/sport/2021/aug/08/kenyas-eliud-kipchoge-blitzes-field-for-second-straight-olympic-marathon-gold)
-- [Five teenage boys die in New Zealand’s worst car accident for five years](https://www.theguardian.com/world/2021/aug/08/five-teenage-boys-die-in-new-zealands-worst-car-accident-for-five-years)
-- [Reputed mafia ‘godmother’ arrested at Rome airport](https://www.theguardian.com/world/2021/aug/08/reputed-mafia-godmother-licciardi-arrested-at-rome-airport)
-- [Sheriff hails courage of woman accusing Andrew Cuomo of sexual misconduct](https://www.theguardian.com/us-news/2021/aug/07/andrew-cuomo-criminal-complaint-albany-sheriff)
-- [NHS waiting lists could top 15 million in four years without major rise in capacity](https://www.theguardian.com/society/2021/aug/08/nhs-waiting-lists-could-top-15-million-in-four-years-without-major-rise-in-capacity)
-- [We love… Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/07/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Chibok schoolgirl freed in Nigeria seven years after Boko Haram kidnap, governor says](https://www.theguardian.com/world/2021/aug/07/chibok-schoolgirl-freed-in-nigeria-seven-years-after-boko-haram-kidnap-governor-says)
+- [In search of answers about miscarriage](https://www.theguardian.com/news/audio/2021/aug/09/in-search-of-some-answers-about-miscarriage-podcast)
+- [Police launch investigation into Alibaba sexual assault allegations](https://www.theguardian.com/business/2021/aug/09/police-launch-investigation-into-alibaba-sexual-assault-allegations)
+- [Golden history of Kazakhstan’s Saka warrior people revealed](https://www.theguardian.com/science/2021/aug/09/golden-history-of-kazakhstans-saka-warrior-people-revealed)
+- [Premier League 2021-22 preview No 11: Liverpool](https://www.theguardian.com/football/2021/aug/09/premier-league-2021-22-preview-no-11-liverpool)
+- [Sex Education Xplorers (SEX) review – a biology lesson for the 21st century](https://www.theguardian.com/stage/2021/aug/09/sex-education-xplorers-sex-review-summerhall-edinburgh-festival)
+- [Business chief calls on PM to save north-east from Brexit damage](https://www.theguardian.com/politics/2021/aug/09/no-strategic-plan-brexit-james-ramsbotham-north-east-chamber-of-commerce)
+- [UK launches £4m fund to run fibre optic cables through water pipes](https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes)
+- [UK recovery still unsteady despite July job surge, finds report](https://www.theguardian.com/business/2021/aug/09/uk-recovery-still-unsteady-despite-july-job-surge-finds-report)
+- [NHS England delays could lead to thousands of deaths, says heart charity](https://www.theguardian.com/society/2021/aug/09/nhs-england-delays-could-lead-to-thousands-of-deaths-says-heart-charity)
+- [Drivers urged to book MOTs as September surge in demand looms](https://www.theguardian.com/money/2021/aug/09/drivers-urged-to-book-mots-as-september-surge-in-demand-looms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where to start? Career Change - Marketing / Analytics to IT](https://www.reddit.com/r/InformationTechnology/comments/p17979/where_to_start_career_change_marketing_analytics/)
+- [Working on series of IT articles for beginners ....](https://www.reddit.com/r/InformationTechnology/comments/p11yxi/working_on_series_of_it_articles_for_beginners/)
 - [Google IT Support Certificate](https://www.reddit.com/r/InformationTechnology/comments/ovg1vq/google_it_support_certificate/)
 - [Free Training on Microsoft Courses - Will Cover Full Courses](https://www.reddit.com/r/InformationTechnology/comments/ov8q0k/free_training_on_microsoft_courses_will_cover/)
 - [Uh....](https://www.reddit.com/r/InformationTechnology/comments/our7dv/uh/)
@@ -414,8 +416,6 @@
 - [What industries have a more steady pace in help desk?](https://www.reddit.com/r/InformationTechnology/comments/oswpbj/what_industries_have_a_more_steady_pace_in_help/)
 - [Network + voucher](https://www.reddit.com/r/InformationTechnology/comments/ospwsc/network_voucher/)
 - [My PC crashes/freezes on startup. What may cause this? (pictures in the post)](https://www.reddit.com/r/InformationTechnology/comments/osncnw/my_pc_crashesfreezes_on_startup_what_may_cause/)
-- [Computer and phone tutorials](https://www.reddit.com/r/InformationTechnology/comments/osew9q/computer_and_phone_tutorials/)
-- [Just a question , Is it possible to share IT video tutorials from YouTube in this IT Reddit ?](https://www.reddit.com/r/InformationTechnology/comments/oqrmoj/just_a_question_is_it_possible_to_share_it_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

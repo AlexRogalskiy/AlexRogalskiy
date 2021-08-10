@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains Java IDE adds project analysis, build system improvements](https://www.infoworld.com/article/3628177/jetbrains-java-ide-adds-project-analysis-build-system-improvements.html#tk.rss_all)
+- [The persistence of database time](https://www.infoworld.com/article/3628461/the-persistence-of-database-time.html#tk.rss_all)
+- [12 ways to make really bad technology decisions](https://www.infoworld.com/article/3626456/12-ways-to-make-really-bad-technology-decisions.html#tk.rss_all)
+- [How SLOs and error budgets improve app reliability](https://www.infoworld.com/article/3626374/how-slos-and-error-budgets-improve-app-reliability.html#tk.rss_all)
+- [Real IT leadership: Selling the transformative dream](https://www.cio.com/article/3628475/real-it-leadership-selling-the-transformative-dream.html#tk.rss_all)
 - [How to screw up data migration to the cloud](https://www.infoworld.com/article/3628448/how-to-screw-up-data-migration-to-the-cloud.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [What’s new in Rust 1.54](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [What’s new in Kubernetes 1.22](https://www.infoworld.com/article/3229359/whats-new-in-kubernetes.html#tk.rss_all)
 - [Developers love Rust and Svelte, dread AngularJS, Stack Overflow survey says](https://www.infoworld.com/article/3628231/developers-love-rust-and-svelte-dread-angularjs-stack-overflow-survey-says.html#tk.rss_all)
-- [How to work with Azure Queue Storage in C#](https://www.infoworld.com/article/3628229/how-to-work-with-azure-queue-storage-in-csharp.html#tk.rss_all)
-- [How to choose a cloud database](https://www.infoworld.com/article/3627792/how-to-choose-a-cloud-database.html#tk.rss_all)
-- [Oracle launches Verrazzano container platform for Kubernetes](https://www.infoworld.com/article/3627407/oracle-launches-verrazzano-container-platform-for-kubernetes.html#tk.rss_all)
-- [Debugging concurrent code with Coyote](https://www.infoworld.com/article/3627404/debugging-concurrent-code-with-coyote.html#tk.rss_all)
-- [Eclipse Temurin Java SE binaries debut](https://www.infoworld.com/article/3627503/eclipse-temurin-java-se-binaries-debut.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

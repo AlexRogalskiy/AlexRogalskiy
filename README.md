@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Soil maps help scientists dig up dirt in criminal investigations](https://www.sciencemag.org/news/2021/08/soil-maps-help-scientists-dig-dirt-criminal-investigations)
-- [Supermetrics for Azure Storage](https://datastudio.ca/supermetrics/supermetrics-for-azure-storage-step-by-step-guide/)
-- [Productivity Meets Social-Networking = Looksee](https://news.ycombinator.com/item?id=28112032)
-- [Backpage.com’s Vicious Battle with the Feds](https://www.wired.com/story/inside-backpage-vicious-battle-feds/)
-- [Ask HN: Privacy&security-respecting alternatives to iPhone, with VoLTE in mind?](https://news.ycombinator.com/item?id=28111995)
-- [Kevin Kelly: The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
-- [SpaceX launching satellite to display billboard ads in space](https://futurism.com/the-byte/spacex-billboard-ads-space)
-- [MIT Researchers Devise a Way to Program Memories into Bacteria by Rewriting DNA](https://scitechdaily.com/mit-researchers-devised-a-way-to-program-memories-into-bacterial-cells-by-rewriting-their-dna/)
-- [Amazon Third-Party Sellers Reportedly Hound Customers Who Leave Bad Reviews](https://gizmodo.com/heres-how-amazon-third-party-sellers-reportedly-hound-c-1847446648)
-- [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.com/news/science-environment-58141129)
+- [US job openings soar to 10M for first time as companies struggle to hire](https://nypost.com/2021/08/09/us-job-openings-soar-to-10m-for-first-time-as-companies-struggle-to-hire/)
+- [DHL cancelling delivery drone project](https://www.suasnews.com/2021/08/dhl-parcelcopter-fails-to-deliver/)
+- [Make Every feature Binary: A 135B parameter sparse neural network in production](https://www.microsoft.com/en-us/research/blog/make-every-feature-binary-a-135b-parameter-sparse-neural-network-for-massively-improved-search-relevance/)
+- [Buridan's Ass](https://en.wikipedia.org/wiki/Buridan%27s_ass)
+- [Ask HN: Should I consider this as library or framework?](https://news.ycombinator.com/item?id=28124574)
+- [Prefaulting Memory Mapped Arrays in Julia](https://justinwillmert.com/articles/2020/prefaulting-memory-mapped-arrays-in-julia/)
+- [Scientists baffled by orcas ramming sailing boats near Spain and Portugal](https://www.theguardian.com/environment/2020/sep/13/killer-whales-launch-orchestrated-attacks-on-sailing-boats)
+- [Detailed Avatar Recovery from Single Image](https://arxiv.org/abs/2108.02931)
+- [Australian Government open-source web design system to be decommissioned](https://community.digital.gov.au/t/dta-design-system-has-been-decommissioned/4649)
+- [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction](https://github.com/Huage001/PaintTransformer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

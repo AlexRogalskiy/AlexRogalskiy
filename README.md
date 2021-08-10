@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
-- [California's Dixie Fire Is Now the 2nd Largest in State History](https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history)
-- [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
-- [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
-- [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
-- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
-- [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
-- [Show HN: Yet another Homebrew Video Game Console, this time FPGA-based](https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html)
-- [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
-- [Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance](https://arxiv.org/abs/2108.02547)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
+- [Top 5% Polluting Power Plants Account for 73% of Global Emissions](https://oilprice.com/Latest-Energy-News/World-News/Top-5-Polluting-Power-Plants-Account-For-73-Of-Global-Emissions.html)
+- [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
+- [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
+- [Stages of Denial](https://beyondloom.com/blog/denial.html)
+- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
+- [Machine learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
+- [Difficult math is about recognizing patterns](https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/)
+- [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Anglian Water firms up £24m data and digital framework](https://www.computerweekly.com/news/252505052/Anglian-Water-firms-up-24m-data-and-digital-framework)
+- [Possible ransomware attack hits Italian vaccine booking system](https://www.computerweekly.com/news/252505057/Possible-ransomware-attack-hits-Italian-vaccine-booking-system)
+- [Startups provide TfL with AI and simulation to keep London moving](https://www.computerweekly.com/news/252505043/Startups-provide-TfL-with-AI-and-simulation-to-keep-London-moving)
+- [Alliance formed to build modular power-hungry HPC datacentres in energy surplus regions](https://www.computerweekly.com/news/252505034/Alliance-formed-to-build-modular-power-hungry-HPC-datacentres-in-energy-surplus-regions)
+- [Modern ERP breaks the chains](https://www.computerweekly.com/feature/Modern-ERP-breaks-the-chains)
 - [Hybrid IT: Making datacentre and cloud work better together in the enterprise](https://www.computerweekly.com/feature/Hybrid-IT-Making-datacentre-and-cloud-work-better-together)
 - [Apple unveils plans to scan US iPhones for child sex abuse images](https://www.computerweekly.com/news/252504970/Apple-unveils-plans-to-scan-US-iPhones-for-child-sex-abuse-images)
 - [Why the government’s Innovation Strategy must not become a missed opportunity](https://www.computerweekly.com/opinion/Why-the-governments-Innovation-Strategy-must-not-become-a-missed-opportunity)
 - [Nine security flaws found in critical hospital infrastructure](https://www.computerweekly.com/news/252504920/Nine-security-flaws-found-in-critical-hospital-infrastructure)
 - [BlackMatter goes on the record about DarkSide and REvil links](https://www.computerweekly.com/news/252504921/BlackMatter-goes-on-the-record-about-DarkSide-and-REvil-links)
-- [SAP customers more alert to internal than external threats](https://www.computerweekly.com/news/252504915/SAP-customers-more-alert-to-internal-than-external-threats)
-- [BCS: more diverse workforce key to UK AI ethics global leadership](https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership)
-- [Cloud misconfiguration a growing cause of security incidents](https://www.computerweekly.com/news/252504909/Cloud-misconfiguration-a-growing-cause-of-security-incidents)
-- [Around 75% of minority tech employees don’t feel a sense of belonging at work](https://www.computerweekly.com/news/252504902/Around-75-of-minority-tech-employees-dont-feel-a-sense-of-belonging-at-work)
-- [Research points to growing importance of secondary datacentre hubs across Europe in years to come](https://www.computerweekly.com/news/252504884/Research-points-to-growing-importance-of-secondary-datacentre-hubs-across-Europe-in-years-to-come)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

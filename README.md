@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [In search of answers about miscarriage](https://www.theguardian.com/news/audio/2021/aug/09/in-search-of-some-answers-about-miscarriage-podcast)
-- [Police launch investigation into Alibaba sexual assault allegations](https://www.theguardian.com/business/2021/aug/09/police-launch-investigation-into-alibaba-sexual-assault-allegations)
-- [Golden history of Kazakhstan’s Saka warrior people revealed](https://www.theguardian.com/science/2021/aug/09/golden-history-of-kazakhstans-saka-warrior-people-revealed)
-- [Premier League 2021-22 preview No 11: Liverpool](https://www.theguardian.com/football/2021/aug/09/premier-league-2021-22-preview-no-11-liverpool)
-- [Sex Education Xplorers (SEX) review – a biology lesson for the 21st century](https://www.theguardian.com/stage/2021/aug/09/sex-education-xplorers-sex-review-summerhall-edinburgh-festival)
-- [Business chief calls on PM to save north-east from Brexit damage](https://www.theguardian.com/politics/2021/aug/09/no-strategic-plan-brexit-james-ramsbotham-north-east-chamber-of-commerce)
-- [UK launches £4m fund to run fibre optic cables through water pipes](https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes)
-- [UK recovery still unsteady despite July job surge, finds report](https://www.theguardian.com/business/2021/aug/09/uk-recovery-still-unsteady-despite-july-job-surge-finds-report)
-- [NHS England delays could lead to thousands of deaths, says heart charity](https://www.theguardian.com/society/2021/aug/09/nhs-england-delays-could-lead-to-thousands-of-deaths-says-heart-charity)
-- [Drivers urged to book MOTs as September surge in demand looms](https://www.theguardian.com/money/2021/aug/09/drivers-urged-to-book-mots-as-september-surge-in-demand-looms)
+- [Israel’s shadow war with Iran](https://www.theguardian.com/news/audio/2021/aug/10/israel-shadow-war-with-iran-podcast)
+- [‘We need a healthy and ready force’: Pentagon to mandate Covid vaccine for US military](https://www.theguardian.com/us-news/2021/aug/09/us-military-covid-vaccine-mandate-military)
+- [Deadly Marburg virus discovered for first time in west Africa](https://www.theguardian.com/world/2021/aug/10/marburg-virus-discovered-for-first-time-in-west-africa-deadly)
+- [Epstein accuser Virginia Giuffre sues Prince Andrew](https://www.theguardian.com/uk-news/2021/aug/09/virginia-giuffre-sues-prince-andrew-jeffrey-epstein)
+- [Tower Bridge stuck in open position overnight after ‘technical failure’](https://www.theguardian.com/uk-news/2021/aug/09/disruption-as-tower-bridge-stuck-open-after-technical-failure)
+- [Almost 150,000 A-level students in scramble for university places](https://www.theguardian.com/education/2021/aug/09/almost-150000-a-level-students-scramble-university-places)
+- [Sweet FA review – women’s football saga staged at Tynecastle](https://www.theguardian.com/stage/2021/aug/10/sweet-fa-review-tynecastle-park-edinburgh-festival)
+- [Over a third of NHS staff experiencing verbal abuse and threats, says survey](https://www.theguardian.com/society/2021/aug/10/over-a-third-of-nhs-staff-experiencing-verbal-abuse-and-threats-says-survey)
+- [Premier League 2021-22 preview No 13: Manchester United](https://www.theguardian.com/football/2021/aug/10/premier-league-2021-22-preview-no-13-manchester-united)
+- [More high street stores close as retail recovery stutters](https://www.theguardian.com/business/2021/aug/10/more-high-street-stores-close-as-retail-recovery-stutters)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

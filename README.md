@@ -421,6 +421,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Coffee Briefing, August 10, 2021 – Staples Wireless; new android trojan compromises Facebook accounts; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-10-2021-staples-wireless-new-android-trojan-compromises-facebook-accounts-a-podcast-roundup-and-more/456832)
+- [Experts discuss AI’s role in cybersecurity at MapleSEC](https://www.itworldcanada.com/article/experts-discuss-ais-role-in-cybersecurity-at-maplesec/456827)
 - [Cyber Security Today, Aug. 9, 2021 -Gigabyte recovering from ransomware, warnings about Exchange Server exploits and tighten access to Windows’ web server](https://www.itworldcanada.com/article/cyber-security-today-aug-9-2021-gigabyte-recovering-from-ransomware-warnings-about-exchange-server-exploits-and-tighten-access-to-windows-web-server/456814)
 - [Hashtag Trending August 9 – Shopify crosses $1 billion sales; Apple wins patent dispute; FTC condemns Facebook](https://www.itworldcanada.com/article/hashtag-trending-august-9-shopify-crosses-1-billion-sales-apple-wins-patent-dispute-ftc-condemns-facebook/456820)
 - [BlackBerry partners with the University of Windsor to monitor flooding](https://www.itworldcanada.com/article/blackberry-partners-with-the-university-of-windsor-to-monitor-flooding/456804)
@@ -429,8 +431,6 @@
 - [The Role of AI in Cybersecurity](https://www.itworldcanada.com/article/the-role-of-ai-in-cybersecurity/456672)
 - [Cyber Security Today, Aug. 6, 2021 – Angry ransomware gang partner leaks secrets, reports of more Canadian ransomware victims; and a DNS problem found](https://www.itworldcanada.com/article/cyber-security-today-aug-6-2021-an-angry-ransomware-gang-partner-allegedly-leaks-secrets-reports-of-more-canadian-ransomware-victims-and-a-dns-problem-found/456755)
 - [Hashtag Trending August 6- Tech talent demands; Amazon’s anti-union tactics; Apple scanning phones for child abuse content](https://www.itworldcanada.com/article/hashtag-trending-august-6-tech-talent-demands-amazons-anti-union-tactics-apple-scanning-phones-for-child-abuse-content/456762)
-- [Canadian government invites youth employment providers to apply for stream 2 of Canada Digital Adoption Program](https://www.itworldcanada.com/article/canadian-government-invites-youth-employment-providers-to-apply-for-stream-2-of-canada-digital-adoption-program/456735)
-- [Open-source components in commercial software likely have vulnerabilities: Report](https://www.itworldcanada.com/article/open-source-components-in-commercial-software-likely-have-vulnerabilities-report/456646)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

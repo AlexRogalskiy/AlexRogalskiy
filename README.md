@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US job openings soar to 10M for first time as companies struggle to hire](https://nypost.com/2021/08/09/us-job-openings-soar-to-10m-for-first-time-as-companies-struggle-to-hire/)
-- [DHL cancelling delivery drone project](https://www.suasnews.com/2021/08/dhl-parcelcopter-fails-to-deliver/)
-- [Make Every feature Binary: A 135B parameter sparse neural network in production](https://www.microsoft.com/en-us/research/blog/make-every-feature-binary-a-135b-parameter-sparse-neural-network-for-massively-improved-search-relevance/)
-- [Buridan's Ass](https://en.wikipedia.org/wiki/Buridan%27s_ass)
-- [Ask HN: Should I consider this as library or framework?](https://news.ycombinator.com/item?id=28124574)
-- [Prefaulting Memory Mapped Arrays in Julia](https://justinwillmert.com/articles/2020/prefaulting-memory-mapped-arrays-in-julia/)
-- [Scientists baffled by orcas ramming sailing boats near Spain and Portugal](https://www.theguardian.com/environment/2020/sep/13/killer-whales-launch-orchestrated-attacks-on-sailing-boats)
-- [Detailed Avatar Recovery from Single Image](https://arxiv.org/abs/2108.02931)
-- [Australian Government open-source web design system to be decommissioned](https://community.digital.gov.au/t/dta-design-system-has-been-decommissioned/4649)
-- [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction](https://github.com/Huage001/PaintTransformer)
+- [Recursively Fertile Self-Replicating Neural Agents](https://direct.mit.edu/isal/proceedings/isal/33/58/102906)
+- [Programmatic ads are no longer allowed on Reddit](https://www.reddit.com/ads.txt)
+- [Twitter's AI image algorithm biased towards younger skinnier and whiter people](https://www.theregister.com/2021/08/11/defcon_twitter_ai/)
+- [Gateway Pattern](https://martinfowler.com/articles/gateway-pattern.html)
+- [Private school owners forced to hand institutions over to Chinese state](https://www.ft.com/content/56a18391-2fbc-4d33-aae8-591cf233b6a7)
+- [Lessons from 3 YouTubers That Have Gained 1M Subscribers and 270M Views in 2 Mo](https://www.freedomiseverything.com/lessons-from-3-youtubers-that-have-gained-1m-subscribers-270m-views-in-2-months/)
+- [Jeff Hawkins: The Thousand Brains Theory of Intelligence – Lex Fridman Podcast](https://www.youtube.com/watch?v=Z1KwkpTUbkg)
+- [Apple settles its lawsuit against Corellium](https://www.washingtonpost.com/technology/2021/08/10/apple-drops-corellium-lawsuit/)
+- [4 iOS Design Rules to Break (2015)](https://www.nngroup.com/articles/4-ios-rules-break/)
+- [You Can (Probably) Still Drink the World's Oldest Bottle of Wine](https://www.atlasobscura.com/articles/worlds-oldest-wine-speyer-bottle)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

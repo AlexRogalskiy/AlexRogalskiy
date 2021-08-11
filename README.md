@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Oracle accelerates MySQL HeatWave queries with machine learning](https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html#tk.rss_all)
+- [The long, long reigns of popular databases](https://www.infoworld.com/article/3628461/the-long-long-reigns-of-popular-databases.html#tk.rss_all)
+- [Why the cloud is so complicated—an explanation, not an excuse](https://www.infoworld.com/article/3628245/why-the-cloud-is-so-complicatedan-explanation-not-an-excuse.html#tk.rss_all)
+- [Solving authorization for software developers](https://www.infoworld.com/article/3628192/solving-authorization-for-software-developers.html#tk.rss_all)
 - [JetBrains Java IDE adds project analysis, build system improvements](https://www.infoworld.com/article/3628177/jetbrains-java-ide-adds-project-analysis-build-system-improvements.html#tk.rss_all)
-- [The persistence of database time](https://www.infoworld.com/article/3628461/the-persistence-of-database-time.html#tk.rss_all)
 - [12 ways to make really bad technology decisions](https://www.infoworld.com/article/3626456/12-ways-to-make-really-bad-technology-decisions.html#tk.rss_all)
 - [How SLOs and error budgets improve app reliability](https://www.infoworld.com/article/3626374/how-slos-and-error-budgets-improve-app-reliability.html#tk.rss_all)
 - [Real IT leadership: Selling the transformative dream](https://www.cio.com/article/3628475/real-it-leadership-selling-the-transformative-dream.html#tk.rss_all)
 - [How to screw up data migration to the cloud](https://www.infoworld.com/article/3628448/how-to-screw-up-data-migration-to-the-cloud.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
-- [What’s new in Rust 1.54](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [What’s new in Kubernetes 1.22](https://www.infoworld.com/article/3229359/whats-new-in-kubernetes.html#tk.rss_all)
-- [Developers love Rust and Svelte, dread AngularJS, Stack Overflow survey says](https://www.infoworld.com/article/3628231/developers-love-rust-and-svelte-dread-angularjs-stack-overflow-survey-says.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

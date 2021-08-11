@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Open your career options in the data sciences by learning Python](https://www.computerworld.com/article/3628463/open-your-career-options-in-the-data-sciences-by-learning-python.html#tk.rss_all)
+- [Apple's anti-porn overreach — good intent, bad execution](https://www.computerworld.com/article/3628479/apples-anti-porn-overreach-good-intent-bad-execution.html#tk.rss_all)
+- [A new Google Docs shortcut you need to notice](https://www.computerworld.com/article/3628708/google-docs-shortcut.html#tk.rss_all)
+- [Parallels Desktop 17 will run Windows 11 on Macs](https://www.computerworld.com/article/3628731/parallels-desktop-17-will-run-windows-11-on-macs.html#tk.rss_all)
+- [The best business programs for the rest of 2021—and beyond](https://www.computerworld.com/article/3628336/the-best-business-programs-for-the-rest-of-2021-and-beyond.html#tk.rss_all)
+- [As Mozilla talks up Firefox's future, the present is killing it](https://www.computerworld.com/article/3628338/as-mozilla-talks-up-firefoxs-future-the-present-is-killing-it.html#tk.rss_all)
 - [Apple says it won’t expand controversial CSAM technology](https://www.computerworld.com/article/3628712/apple-says-it-wont-expand-controversial-csam-technology.html#tk.rss_all)
 - [The case of the cranky Chrome install](https://www.computerworld.com/article/3628713/the-case-of-the-cranky-chrome-install.html#tk.rss_all)
-- [Real IT leadership: Selling the transformative dream](https://www.cio.com/article/3628475/real-it-leadership-selling-the-transformative-dream.html#tk.rss_all)
-- [How to make the hybrid workplace a success](https://www.computerworld.com/article/3625452/how-to-make-the-hybrid-workplace-a-success.html#tk.rss_all)
-- [US IT job growth remains steady; 2021 poised for record hiring levels](https://www.computerworld.com/article/3542681/us-it-job-growth-remains-steady-2021-poised-for-record-hiring-levels.html#tk.rss_all)
-- [Apple’s plan to scan US iPhones raises privacy red flags](https://www.computerworld.com/article/3628454/apples-plan-to-scan-us-iphones-raises-privacy-red-flags.html#tk.rss_all)
-- [These products support the new normal office environment](https://www.computerworld.com/article/3628174/these-products-support-the-new-normal-office-environment.html#tk.rss_all)
-- [For better video collaboration, time to embrace the Metaverse?](https://www.computerworld.com/article/3628234/for-better-video-collaboration-it-s-time-to-embrace-the-metaverse.html#tk.rss_all)
-- [Windows 365 costs how much!?](https://www.computerworld.com/article/3628169/windows-365-costs-how-much.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

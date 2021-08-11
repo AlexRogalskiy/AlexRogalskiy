@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Masters/Certs](https://www.reddit.com/r/InformationTechnology/comments/p20mxj/masterscerts/)
+- [Job change suddenly](https://www.reddit.com/r/InformationTechnology/comments/p1y750/job_change_suddenly/)
+- [Quick assessment to test Kubernetes Knowledge](https://www.reddit.com/r/InformationTechnology/comments/p1rduk/quick_assessment_to_test_kubernetes_knowledge/)
+- [What does "pain point" mean in relation to IT?](https://www.reddit.com/r/InformationTechnology/comments/p1hs9q/what_does_pain_point_mean_in_relation_to_it/)
 - [Where to start? Career Change - Marketing / Analytics to IT](https://www.reddit.com/r/InformationTechnology/comments/p17979/where_to_start_career_change_marketing_analytics/)
 - [Working on series of IT articles for beginners ....](https://www.reddit.com/r/InformationTechnology/comments/p11yxi/working_on_series_of_it_articles_for_beginners/)
 - [Google IT Support Certificate](https://www.reddit.com/r/InformationTechnology/comments/ovg1vq/google_it_support_certificate/)
 - [Free Training on Microsoft Courses - Will Cover Full Courses](https://www.reddit.com/r/InformationTechnology/comments/ov8q0k/free_training_on_microsoft_courses_will_cover/)
 - [Uh....](https://www.reddit.com/r/InformationTechnology/comments/our7dv/uh/)
 - [Is there an "open" grid-computing solution that allows vendors to share resources such as services/networks/computing power in a similar fashion as GCP/AWS/Azure? So in such way everyone is "the cloud"?](https://www.reddit.com/r/InformationTechnology/comments/ou2qty/is_there_an_open_gridcomputing_solution_that/)
-- [Future of IT - Where to focus investments and what's worth researching?](https://www.reddit.com/r/InformationTechnology/comments/ot6ovx/future_of_it_where_to_focus_investments_and_whats/)
-- [What industries have a more steady pace in help desk?](https://www.reddit.com/r/InformationTechnology/comments/oswpbj/what_industries_have_a_more_steady_pace_in_help/)
-- [Network + voucher](https://www.reddit.com/r/InformationTechnology/comments/ospwsc/network_voucher/)
-- [My PC crashes/freezes on startup. What may cause this? (pictures in the post)](https://www.reddit.com/r/InformationTechnology/comments/osncnw/my_pc_crashesfreezes_on_startup_what_may_cause/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

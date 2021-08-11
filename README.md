@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Number of students taking A-level computing rose in 2021](https://www.computerweekly.com/news/252505123/Number-of-students-taking-A-level-computing-rose-in-2021)
+- [Banks could be blocked from closing branches through FCA legislation](https://www.computerweekly.com/news/252505117/Banks-could-be-blocked-from-closing-branches-through-FCA-legislation)
+- [Ransomware demands and payments hit new records](https://www.computerweekly.com/news/252505116/Ransomware-demands-and-payments-hit-new-records)
+- [Third of finance firms accelerate use of artificial intelligence to detect money laundering](https://www.computerweekly.com/news/252505107/Third-of-finance-firms-accelerate-use-of-artificial-intelligence-to-detect-money-laundering)
+- [Dutch lead the way in protecting themselves against internet risks](https://www.computerweekly.com/news/252505113/Dutch-lead-the-way-in-protecting-themselves-against-internet-risks)
+- [A Computer Weekly buyer’s guide to secure and agile app development](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-secure-and-agile-app-development)
+- [Real-time data analytics in action](https://www.computerweekly.com/ezine/Computer-Weekly/Real-time-data-analytics-in-action)
+- [Researchers uncover database with 126 million unsecured records](https://www.computerweekly.com/news/252505056/Researchers-uncover-database-with-126-million-unsecured-records)
 - [Anglian Water firms up £24m data and digital framework](https://www.computerweekly.com/news/252505052/Anglian-Water-firms-up-24m-data-and-digital-framework)
 - [Possible ransomware attack hits Italian vaccine booking system](https://www.computerweekly.com/news/252505057/Possible-ransomware-attack-hits-Italian-vaccine-booking-system)
-- [Startups provide TfL with AI and simulation to keep London moving](https://www.computerweekly.com/news/252505043/Startups-provide-TfL-with-AI-and-simulation-to-keep-London-moving)
-- [Alliance formed to build modular power-hungry HPC datacentres in energy surplus regions](https://www.computerweekly.com/news/252505034/Alliance-formed-to-build-modular-power-hungry-HPC-datacentres-in-energy-surplus-regions)
-- [Modern ERP breaks the chains](https://www.computerweekly.com/feature/Modern-ERP-breaks-the-chains)
-- [Hybrid IT: Making datacentre and cloud work better together in the enterprise](https://www.computerweekly.com/feature/Hybrid-IT-Making-datacentre-and-cloud-work-better-together)
-- [Apple unveils plans to scan US iPhones for child sex abuse images](https://www.computerweekly.com/news/252504970/Apple-unveils-plans-to-scan-US-iPhones-for-child-sex-abuse-images)
-- [Why the government’s Innovation Strategy must not become a missed opportunity](https://www.computerweekly.com/opinion/Why-the-governments-Innovation-Strategy-must-not-become-a-missed-opportunity)
-- [Nine security flaws found in critical hospital infrastructure](https://www.computerweekly.com/news/252504920/Nine-security-flaws-found-in-critical-hospital-infrastructure)
-- [BlackMatter goes on the record about DarkSide and REvil links](https://www.computerweekly.com/news/252504921/BlackMatter-goes-on-the-record-about-DarkSide-and-REvil-links)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

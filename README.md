@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel’s shadow war with Iran](https://www.theguardian.com/news/audio/2021/aug/10/israel-shadow-war-with-iran-podcast)
-- [‘We need a healthy and ready force’: Pentagon to mandate Covid vaccine for US military](https://www.theguardian.com/us-news/2021/aug/09/us-military-covid-vaccine-mandate-military)
-- [Deadly Marburg virus discovered for first time in west Africa](https://www.theguardian.com/world/2021/aug/10/marburg-virus-discovered-for-first-time-in-west-africa-deadly)
-- [Epstein accuser Virginia Giuffre sues Prince Andrew](https://www.theguardian.com/uk-news/2021/aug/09/virginia-giuffre-sues-prince-andrew-jeffrey-epstein)
-- [Tower Bridge stuck in open position overnight after ‘technical failure’](https://www.theguardian.com/uk-news/2021/aug/09/disruption-as-tower-bridge-stuck-open-after-technical-failure)
-- [Almost 150,000 A-level students in scramble for university places](https://www.theguardian.com/education/2021/aug/09/almost-150000-a-level-students-scramble-university-places)
-- [Sweet FA review – women’s football saga staged at Tynecastle](https://www.theguardian.com/stage/2021/aug/10/sweet-fa-review-tynecastle-park-edinburgh-festival)
-- [Over a third of NHS staff experiencing verbal abuse and threats, says survey](https://www.theguardian.com/society/2021/aug/10/over-a-third-of-nhs-staff-experiencing-verbal-abuse-and-threats-says-survey)
-- [Premier League 2021-22 preview No 13: Manchester United](https://www.theguardian.com/football/2021/aug/10/premier-league-2021-22-preview-no-13-manchester-united)
-- [More high street stores close as retail recovery stutters](https://www.theguardian.com/business/2021/aug/10/more-high-street-stores-close-as-retail-recovery-stutters)
+- [Scientists issue a climate code red](https://www.theguardian.com/news/audio/2021/aug/11/scientists-issue-a-climate-code-red)
+- [Senate Democrats poised for voting rights push to counter Republican restrictions](https://www.theguardian.com/us-news/2021/aug/10/senate-democrats-push-voting-rights-legislation-again)
+- [Biden hails Senate passage of giant $1tn bipartisan infrastructure bill](https://www.theguardian.com/us-news/2021/aug/10/us-senate-passes-bipartisan-infrastructure-bill-biden-schumer-mcconnell)
+- [Nurse in Germany suspected of replacing Covid vaccines with saline solution](https://www.theguardian.com/world/2021/aug/11/nurse-in-germany-suspected-of-replacing-covid-vaccines-with-saline-solution)
+- [Twelfth Night review – impeccable staging of Shakespeare’s merriest romp](https://www.theguardian.com/stage/2021/aug/08/twelfth-night-review-shakespeares-globe-theatre)
+- [Luka Dončić signs $207m extension as Dallas Mavericks turn focus to titles](https://www.theguardian.com/sport/2021/aug/10/luka-doncic-contract-dallas-mavericks-extension)
+- [Michael Spavor trial: verdict expected in trial of Canadian in China](https://www.theguardian.com/world/2021/aug/11/michael-spavor-verdict-canada-china-trial-court)
+- [Chaos as more than a dozen people taken off deportation flight from UK to Jamaica](https://www.theguardian.com/uk-news/2021/aug/10/jamaica-calls-deportation-flight-from-uk-halted-covid-fears)
+- [Premier League 2021-22 preview No 15: Norwich City](https://www.theguardian.com/football/2021/aug/11/premier-league-2021-22-preview-no-15-norwich-city)
+- [Rangers’ Champions League dreams shattered by 10-man Malmö](https://www.theguardian.com/football/2021/aug/10/rangers-malmo-champions-league-third-qualifying-round-second-leg-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

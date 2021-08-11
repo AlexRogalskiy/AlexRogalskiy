@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
-- [Top 5% Polluting Power Plants Account for 73% of Global Emissions](https://oilprice.com/Latest-Energy-News/World-News/Top-5-Polluting-Power-Plants-Account-For-73-Of-Global-Emissions.html)
-- [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
-- [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
-- [Stages of Denial](https://beyondloom.com/blog/denial.html)
-- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
-- [Machine learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
-- [Difficult math is about recognizing patterns](https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/)
-- [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
+- [Jewish Problems (2011)](https://arxiv.org/abs/1110.1556)
+- [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
+- [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
+- [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
+- [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
+- [Unity to acquire Parsec for $320M](https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx)
+- [Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by](https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by)
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
+- [Please Log in with Router's Password](https://www.google.com/search?q=%22Please+log+in+with+router%27s+password%22)
+- [Culdesac Tempe: The first car-free neighborhood built from scratch in the US](https://culdesac.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

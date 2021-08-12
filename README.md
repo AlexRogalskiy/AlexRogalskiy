@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recursively Fertile Self-Replicating Neural Agents](https://direct.mit.edu/isal/proceedings/isal/33/58/102906)
-- [Programmatic ads are no longer allowed on Reddit](https://www.reddit.com/ads.txt)
-- [Twitter's AI image algorithm biased towards younger skinnier and whiter people](https://www.theregister.com/2021/08/11/defcon_twitter_ai/)
-- [Gateway Pattern](https://martinfowler.com/articles/gateway-pattern.html)
-- [Private school owners forced to hand institutions over to Chinese state](https://www.ft.com/content/56a18391-2fbc-4d33-aae8-591cf233b6a7)
-- [Lessons from 3 YouTubers That Have Gained 1M Subscribers and 270M Views in 2 Mo](https://www.freedomiseverything.com/lessons-from-3-youtubers-that-have-gained-1m-subscribers-270m-views-in-2-months/)
-- [Jeff Hawkins: The Thousand Brains Theory of Intelligence – Lex Fridman Podcast](https://www.youtube.com/watch?v=Z1KwkpTUbkg)
-- [Apple settles its lawsuit against Corellium](https://www.washingtonpost.com/technology/2021/08/10/apple-drops-corellium-lawsuit/)
-- [4 iOS Design Rules to Break (2015)](https://www.nngroup.com/articles/4-ios-rules-break/)
-- [You Can (Probably) Still Drink the World's Oldest Bottle of Wine](https://www.atlasobscura.com/articles/worlds-oldest-wine-speyer-bottle)
+- [Turing Patterns Turn Up in a Tiny Crystal](https://www.quantamagazine.org/physicists-spot-turing-patterns-in-a-tiny-crystal-20210810/)
+- [‘Landmark’ study finds artificial antibodies can protect against malaria](https://www.sciencemag.org/news/2021/08/landmark-study-finds-artificial-antibodies-can-protect-against-malaria)
+- [Rails 7 uses a class_attribute leading to a 7x speed improvement](https://blog.saeloun.com/2021/08/10/logger-class-attr.html)
+- [Move Fast, Break Things and Win: How Facebook Builds Software](https://devinterrupted.com/podcast/move-fast-break-things-win-how-facebook-builds-software/)
+- [Differentiable Surface Rendering via Non-Differentiable Sampling](https://arxiv.org/abs/2108.04886)
+- [Social Darwinists admire strength and power despite own fragile self-image](https://www.eurekalert.org/news-releases/924558)
+- [Reddit Is Down](https://www.reddit.com/r/news)
+- [Highest recorded temperature of 48.8C in Europe apparently logged in Sicily](https://www.theguardian.com/world/2021/aug/11/sicily-logs-488c-temperature-possibly-highest-ever-recorded-for-europe)
+- [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
+- [PM Ardern: NZ should attempt to keep Covid out of the country indefinitely](https://www.theaustralian.com.au/world/new-zealand-must-stay-the-course-and-keep-covid19-out/news-story/efb934add6919a1c5c74943bd6cff7c6)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jewish Problems (2011)](https://arxiv.org/abs/1110.1556)
-- [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
-- [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
-- [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
-- [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
-- [Unity to acquire Parsec for $320M](https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx)
-- [Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by](https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by)
-- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
-- [Please Log in with Router's Password](https://www.google.com/search?q=%22Please+log+in+with+router%27s+password%22)
-- [Culdesac Tempe: The first car-free neighborhood built from scratch in the US](https://culdesac.com/)
+- [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
+- [Mosh: The Mobile Shell](https://mosh.org)
+- [Quality and Effort (2018)](https://seths.blog/2018/11/quality-and-effort/)
+- [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
+- [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
+- [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
+- [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
+- [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
+- [Senators introduce bipartisan antitrust bill to promote app store competition](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

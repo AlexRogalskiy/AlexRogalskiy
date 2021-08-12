@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [US wins bid to widen grounds of appeal in Julian Assange extradition case](https://www.computerweekly.com/news/252505172/US-wins-bid-to-widen-grounds-of-appeal-in-Julian-Assange-extradition-case)
+- [Norway’s government steps up efforts to court overseas datacentre investors and developers](https://www.computerweekly.com/news/252505166/Norways-government-steps-up-efforts-to-court-overseas-datacentre-investors-and-developers)
+- [Hacker makes off with $600m in world’s largest crypto-heist](https://www.computerweekly.com/news/252505164/Hacker-makes-off-with-600m-in-worlds-largest-crypto-heist)
+- [Four more subpostmasters set to have convictions overturned](https://www.computerweekly.com/news/252505156/Four-more-subpostmasters-set-to-have-convictions-overturned)
+- [Microsoft contests decision to award AWS $10bn NSA cloud contract](https://www.computerweekly.com/news/252505154/Microsoft-contests-decision-to-award-AWS-10bn-NSA-cloud-contract)
+- [Microsoft fixes seven critical bugs on light Patch Tuesday](https://www.computerweekly.com/news/252505147/Microsoft-fixes-seven-critical-bugs-on-light-Patch-Tuesday)
+- [Global fintech investments reach new heights](https://www.computerweekly.com/news/252505146/Global-fintech-investments-reach-new-heights)
+- [The Netherlands still lacks digital resilience, says report](https://www.computerweekly.com/news/252505045/The-Netherlands-still-lacks-digital-resilience-says-report)
 - [Number of students taking A-level computing rose in 2021](https://www.computerweekly.com/news/252505123/Number-of-students-taking-A-level-computing-rose-in-2021)
 - [Banks could be blocked from closing branches through FCA legislation](https://www.computerweekly.com/news/252505117/Banks-could-be-blocked-from-closing-branches-through-FCA-legislation)
-- [Ransomware demands and payments hit new records](https://www.computerweekly.com/news/252505116/Ransomware-demands-and-payments-hit-new-records)
-- [Third of finance firms accelerate use of artificial intelligence to detect money laundering](https://www.computerweekly.com/news/252505107/Third-of-finance-firms-accelerate-use-of-artificial-intelligence-to-detect-money-laundering)
-- [Dutch lead the way in protecting themselves against internet risks](https://www.computerweekly.com/news/252505113/Dutch-lead-the-way-in-protecting-themselves-against-internet-risks)
-- [A Computer Weekly buyer’s guide to secure and agile app development](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-secure-and-agile-app-development)
-- [Real-time data analytics in action](https://www.computerweekly.com/ezine/Computer-Weekly/Real-time-data-analytics-in-action)
-- [Researchers uncover database with 126 million unsecured records](https://www.computerweekly.com/news/252505056/Researchers-uncover-database-with-126-million-unsecured-records)
-- [Anglian Water firms up £24m data and digital framework](https://www.computerweekly.com/news/252505052/Anglian-Water-firms-up-24m-data-and-digital-framework)
-- [Possible ransomware attack hits Italian vaccine booking system](https://www.computerweekly.com/news/252505057/Possible-ransomware-attack-hits-Italian-vaccine-booking-system)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

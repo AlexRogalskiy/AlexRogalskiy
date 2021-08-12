@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Scientists issue a climate code red](https://www.theguardian.com/news/audio/2021/aug/11/scientists-issue-a-climate-code-red)
-- [Senate Democrats poised for voting rights push to counter Republican restrictions](https://www.theguardian.com/us-news/2021/aug/10/senate-democrats-push-voting-rights-legislation-again)
-- [Biden hails Senate passage of giant $1tn bipartisan infrastructure bill](https://www.theguardian.com/us-news/2021/aug/10/us-senate-passes-bipartisan-infrastructure-bill-biden-schumer-mcconnell)
-- [Nurse in Germany suspected of replacing Covid vaccines with saline solution](https://www.theguardian.com/world/2021/aug/11/nurse-in-germany-suspected-of-replacing-covid-vaccines-with-saline-solution)
-- [Twelfth Night review – impeccable staging of Shakespeare’s merriest romp](https://www.theguardian.com/stage/2021/aug/08/twelfth-night-review-shakespeares-globe-theatre)
-- [Luka Dončić signs $207m extension as Dallas Mavericks turn focus to titles](https://www.theguardian.com/sport/2021/aug/10/luka-doncic-contract-dallas-mavericks-extension)
-- [Michael Spavor trial: verdict expected in trial of Canadian in China](https://www.theguardian.com/world/2021/aug/11/michael-spavor-verdict-canada-china-trial-court)
-- [Chaos as more than a dozen people taken off deportation flight from UK to Jamaica](https://www.theguardian.com/uk-news/2021/aug/10/jamaica-calls-deportation-flight-from-uk-halted-covid-fears)
-- [Premier League 2021-22 preview No 15: Norwich City](https://www.theguardian.com/football/2021/aug/11/premier-league-2021-22-preview-no-15-norwich-city)
-- [Rangers’ Champions League dreams shattered by 10-man Malmö](https://www.theguardian.com/football/2021/aug/10/rangers-malmo-champions-league-third-qualifying-round-second-leg-match-report)
+- [South Korean politicians seek to criminalise ‘semen terrorism’](https://www.theguardian.com/global-development/2021/aug/12/south-korean-politicians-seek-to-criminalise-semen-terrorism)
+- [Has the Delta variant derailed Australia’s zero-Covid strategy?](https://www.theguardian.com/news/audio/2021/aug/12/has-delta-variant-derailed-australia-zero-covid-strategy-podcast)
+- [Google staff could see pay cut if they opt to work from home](https://www.theguardian.com/technology/2021/aug/12/google-staff-could-see-pay-cut-if-they-opt-to-work-from-home)
+- [Turkey battles fresh disaster as floods hit country’s north](https://www.theguardian.com/world/2021/aug/12/turkey-battles-fresh-disaster-as-floods-hit-countrys-north)
+- [From Mary Shelley to Carmen Maria Machado, women have profoundly shaped horror | Danielle Binks](https://www.theguardian.com/books/2021/aug/12/from-mary-shelley-to-carmen-maria-machado-women-have-profoundly-shaped-horror)
+- [Hear be kiwis: New Zealand celebrates as distinctive cry of iconic bird returns](https://www.theguardian.com/world/2021/aug/12/hear-be-kiwis-new-zealand-celebrates-as-distinctive-cry-of-iconic-bird-returns)
+- [Slice of history: icing from Charles and Diana wedding cake sells for £1,850](https://www.theguardian.com/uk-news/2021/aug/12/charles-diana-wedding-cake-sells-auction-1850-royal-family)
+- [Shell to pay $111m over decades-old oil spills in Nigeria](https://www.theguardian.com/business/2021/aug/12/shell-to-pay-111m-over-decades-old-oil-spills-in-nigeria)
+- [Premier League 2021-22 preview No 17: Tottenham](https://www.theguardian.com/football/2021/aug/12/premier-league-2021-22-preview-no-17-tottenham)
+- [TUC calls on Treasury to create permanent furlough scheme](https://www.theguardian.com/uk-news/2021/aug/12/tuc-calls-on-treasury-to-create-permanent-furlough-scheme)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

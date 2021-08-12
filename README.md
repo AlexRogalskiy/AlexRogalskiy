@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_all)
+- [How to build lightweight services in ASP.NET Core 6](https://www.infoworld.com/article/3628717/how-to-build-lightweight-services-in-aspnet-core-6.html#tk.rss_all)
+- [What is low-code development? Faster app creation](https://www.infoworld.com/article/3628183/what-is-low-code-development-faster-app-creation.html#tk.rss_all)
+- [How to run Azure services on your own servers](https://www.infoworld.com/article/3628180/how-to-run-azure-services-on-your-own-servers.html#tk.rss_all)
 - [Oracle accelerates MySQL HeatWave queries with machine learning](https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html#tk.rss_all)
 - [The long, long reigns of popular databases](https://www.infoworld.com/article/3628461/the-long-long-reigns-of-popular-databases.html#tk.rss_all)
 - [Why the cloud is so complicated—an explanation, not an excuse](https://www.infoworld.com/article/3628245/why-the-cloud-is-so-complicatedan-explanation-not-an-excuse.html#tk.rss_all)
 - [Solving authorization for software developers](https://www.infoworld.com/article/3628192/solving-authorization-for-software-developers.html#tk.rss_all)
 - [JetBrains Java IDE adds project analysis, build system improvements](https://www.infoworld.com/article/3628177/jetbrains-java-ide-adds-project-analysis-build-system-improvements.html#tk.rss_all)
 - [12 ways to make really bad technology decisions](https://www.infoworld.com/article/3626456/12-ways-to-make-really-bad-technology-decisions.html#tk.rss_all)
-- [How SLOs and error budgets improve app reliability](https://www.infoworld.com/article/3626374/how-slos-and-error-budgets-improve-app-reliability.html#tk.rss_all)
-- [Real IT leadership: Selling the transformative dream](https://www.cio.com/article/3628475/real-it-leadership-selling-the-transformative-dream.html#tk.rss_all)
-- [How to screw up data migration to the cloud](https://www.infoworld.com/article/3628448/how-to-screw-up-data-migration-to-the-cloud.html#tk.rss_all)
-- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

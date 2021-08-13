@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korean politicians seek to criminalise ‘semen terrorism’](https://www.theguardian.com/global-development/2021/aug/12/south-korean-politicians-seek-to-criminalise-semen-terrorism)
-- [Has the Delta variant derailed Australia’s zero-Covid strategy?](https://www.theguardian.com/news/audio/2021/aug/12/has-delta-variant-derailed-australia-zero-covid-strategy-podcast)
-- [Google staff could see pay cut if they opt to work from home](https://www.theguardian.com/technology/2021/aug/12/google-staff-could-see-pay-cut-if-they-opt-to-work-from-home)
-- [Turkey battles fresh disaster as floods hit country’s north](https://www.theguardian.com/world/2021/aug/12/turkey-battles-fresh-disaster-as-floods-hit-countrys-north)
-- [From Mary Shelley to Carmen Maria Machado, women have profoundly shaped horror | Danielle Binks](https://www.theguardian.com/books/2021/aug/12/from-mary-shelley-to-carmen-maria-machado-women-have-profoundly-shaped-horror)
-- [Hear be kiwis: New Zealand celebrates as distinctive cry of iconic bird returns](https://www.theguardian.com/world/2021/aug/12/hear-be-kiwis-new-zealand-celebrates-as-distinctive-cry-of-iconic-bird-returns)
-- [Slice of history: icing from Charles and Diana wedding cake sells for £1,850](https://www.theguardian.com/uk-news/2021/aug/12/charles-diana-wedding-cake-sells-auction-1850-royal-family)
-- [Shell to pay $111m over decades-old oil spills in Nigeria](https://www.theguardian.com/business/2021/aug/12/shell-to-pay-111m-over-decades-old-oil-spills-in-nigeria)
-- [Premier League 2021-22 preview No 17: Tottenham](https://www.theguardian.com/football/2021/aug/12/premier-league-2021-22-preview-no-17-tottenham)
-- [TUC calls on Treasury to create permanent furlough scheme](https://www.theguardian.com/uk-news/2021/aug/12/tuc-calls-on-treasury-to-create-permanent-furlough-scheme)
+- [New wave of arrests in Belarus as more than 20 detained in two days](https://www.theguardian.com/world/2021/aug/13/new-wave-of-arrests-in-belarus-as-more-than-20-detained-in-two-days)
+- [The fall of Andrew Cuomo](https://www.theguardian.com/news/audio/2021/aug/13/the-fall-of-andrew-cuomo-podcast)
+- [Temperatures soar as Washington and Oregon baked by another major heatwave](https://www.theguardian.com/us-news/2021/aug/12/washington-oregon-heatwave-weather-seattle)
+- [US population now less than 60% white, 2020 census finds – as it happened](https://www.theguardian.com/us-news/live/2021/aug/12/us-politics-live-census-republicans-democrats-joe-biden)
+- [Plymouth shooting: six dead, including a child, after armed man opens fire](https://www.theguardian.com/uk-news/2021/aug/12/emergency-services-scene-incident-plymouth-keyham)
+- [UK and US send troops to aid evacuation from Afghanistan as Taliban advance](https://www.theguardian.com/world/2021/aug/12/taliban-claim-capture-kandahar-grip-on-afghanistan-grows)
+- [People Just Do Nothing: Big in Japan review – Kurupt FM crew go global](https://www.theguardian.com/film/2021/aug/13/people-just-do-nothing-big-in-japan-review)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/aug/13/premier-league-10-things-to-look-out-for-this-weekend)
+- [Premier League 2021-22 preview No 19: West Ham](https://www.theguardian.com/football/2021/aug/13/premier-league-2021-22-preview-no-19-west-ham)
+- [Amazon moves production of Lord of the Rings TV series to UK](https://www.theguardian.com/tv-and-radio/2021/aug/12/amazon-moves-production-of-lord-of-the-ring-tv-series-to-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

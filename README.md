@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [New health tech innovation hub in the Waterloo-London region to create over 700 jobs](https://www.itworldcanada.com/article/new-health-tech-innovation-hub-in-the-waterloo-london-region-to-create-over-700-jobs/457004)
+- [Accenture hit by Lockbit ransomware, claims “no impact”](https://www.itworldcanada.com/article/accenture-hit-by-lockbit-ransomware-claims-no-impact/456994)
+- [Dalhousie University’s AI robotics team wins gold in RoboCup](https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872)
+- [Hashtag Trending August 12 – TikTok most downloaded app; Twitter’s new user interface; Facebook fights anti-vax info](https://www.itworldcanada.com/article/hashtag-trending-august-12-tiktok-most-downloaded-app-twitters-new-user-interface-facebook-fights-anti-vax-info/456977)
+- [Samsung releases the Galaxy Z Flip3 5G and Galaxy Z Fold3 5G foldable smartphones](https://www.itworldcanada.com/article/samsung-releases-the-galaxy-z-flip3-5g-and-galaxy-z-fold3-5g-foldable-smartphones/456903)
+- [Cyber Security Today, August 11, 2021 – How not to be victimized by cryptojacking](https://www.itworldcanada.com/article/cyber-security-today-august-11-2021-how-not-to-be-victimized-by-cryptojacking/456886)
+- [Hashtag Trending August 11- Apple’s pay inequality problem; Google increases privacy for kids; Google cutting remote employees pay](https://www.itworldcanada.com/article/hashtag-trending-august-11-apples-pay-inequality-problem-apple-drops-encrypting-plans-google-cutting-remote-employees-pay/456896)
 - [Coffee Briefing, August 10, 2021 – Staples Wireless; new android trojan compromises Facebook accounts; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-10-2021-staples-wireless-new-android-trojan-compromises-facebook-accounts-a-podcast-roundup-and-more/456832)
 - [Experts discuss AI’s role in cybersecurity at MapleSEC](https://www.itworldcanada.com/article/experts-discuss-ais-role-in-cybersecurity-at-maplesec/456827)
 - [Cyber Security Today, Aug. 9, 2021 -Gigabyte recovering from ransomware, warnings about Exchange Server exploits and tighten access to Windows’ web server](https://www.itworldcanada.com/article/cyber-security-today-aug-9-2021-gigabyte-recovering-from-ransomware-warnings-about-exchange-server-exploits-and-tighten-access-to-windows-web-server/456814)
-- [Hashtag Trending August 9 – Shopify crosses $1 billion sales; Apple wins patent dispute; FTC condemns Facebook](https://www.itworldcanada.com/article/hashtag-trending-august-9-shopify-crosses-1-billion-sales-apple-wins-patent-dispute-ftc-condemns-facebook/456820)
-- [BlackBerry partners with the University of Windsor to monitor flooding](https://www.itworldcanada.com/article/blackberry-partners-with-the-university-of-windsor-to-monitor-flooding/456804)
-- [Cyber Security Today Week in Review for Aug. 6, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-aug-6-2021/456741)
-- [Apple’s controversial plan to scan devices for child sexual abuse photos](https://www.itworldcanada.com/article/apples-controversial-plan-to-scan-devices-for-child-sexual-abuse-photos/456769)
-- [The Role of AI in Cybersecurity](https://www.itworldcanada.com/article/the-role-of-ai-in-cybersecurity/456672)
-- [Cyber Security Today, Aug. 6, 2021 – Angry ransomware gang partner leaks secrets, reports of more Canadian ransomware victims; and a DNS problem found](https://www.itworldcanada.com/article/cyber-security-today-aug-6-2021-an-angry-ransomware-gang-partner-allegedly-leaks-secrets-reports-of-more-canadian-ransomware-victims-and-a-dns-problem-found/456755)
-- [Hashtag Trending August 6- Tech talent demands; Amazon’s anti-union tactics; Apple scanning phones for child abuse content](https://www.itworldcanada.com/article/hashtag-trending-august-6-tech-talent-demands-amazons-anti-union-tactics-apple-scanning-phones-for-child-abuse-content/456762)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

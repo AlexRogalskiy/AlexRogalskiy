@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [OpenAI offers API for GitHub Copilot AI model](https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html#tk.rss_all)
 - [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_all)
 - [How to build lightweight services in ASP.NET Core 6](https://www.infoworld.com/article/3628717/how-to-build-lightweight-services-in-aspnet-core-6.html#tk.rss_all)
 - [What is low-code development? Faster app creation](https://www.infoworld.com/article/3628183/what-is-low-code-development-faster-app-creation.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Why the cloud is so complicated—an explanation, not an excuse](https://www.infoworld.com/article/3628245/why-the-cloud-is-so-complicatedan-explanation-not-an-excuse.html#tk.rss_all)
 - [Solving authorization for software developers](https://www.infoworld.com/article/3628192/solving-authorization-for-software-developers.html#tk.rss_all)
 - [JetBrains Java IDE adds project analysis, build system improvements](https://www.infoworld.com/article/3628177/jetbrains-java-ide-adds-project-analysis-build-system-improvements.html#tk.rss_all)
-- [12 ways to make really bad technology decisions](https://www.infoworld.com/article/3626456/12-ways-to-make-really-bad-technology-decisions.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

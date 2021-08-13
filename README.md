@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
-- [Mosh: The Mobile Shell](https://mosh.org)
-- [Quality and Effort (2018)](https://seths.blog/2018/11/quality-and-effort/)
-- [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
-- [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
-- [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
-- [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
-- [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
-- [Senators introduce bipartisan antitrust bill to promote app store competition](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blackburn-and-klobuchar-introduce-bipartisan-antitrust-legislation-to-promote-app-store-competition)
+- [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
+- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
+- [AstraZeneca Scientist Says Delta Variant Makes Herd Immunity Impossible](https://www.businessinsider.com/delta-variant-made-herd-immunity-not-possible-astrazeneca-developer-2021-8)
+- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
+- [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
+- [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
+- [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
+- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
+- [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
+- [How green is blue hydrogen?](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Turing Patterns Turn Up in a Tiny Crystal](https://www.quantamagazine.org/physicists-spot-turing-patterns-in-a-tiny-crystal-20210810/)
-- [‘Landmark’ study finds artificial antibodies can protect against malaria](https://www.sciencemag.org/news/2021/08/landmark-study-finds-artificial-antibodies-can-protect-against-malaria)
-- [Rails 7 uses a class_attribute leading to a 7x speed improvement](https://blog.saeloun.com/2021/08/10/logger-class-attr.html)
-- [Move Fast, Break Things and Win: How Facebook Builds Software](https://devinterrupted.com/podcast/move-fast-break-things-win-how-facebook-builds-software/)
-- [Differentiable Surface Rendering via Non-Differentiable Sampling](https://arxiv.org/abs/2108.04886)
-- [Social Darwinists admire strength and power despite own fragile self-image](https://www.eurekalert.org/news-releases/924558)
-- [Reddit Is Down](https://www.reddit.com/r/news)
-- [Highest recorded temperature of 48.8C in Europe apparently logged in Sicily](https://www.theguardian.com/world/2021/aug/11/sicily-logs-488c-temperature-possibly-highest-ever-recorded-for-europe)
-- [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
-- [PM Ardern: NZ should attempt to keep Covid out of the country indefinitely](https://www.theaustralian.com.au/world/new-zealand-must-stay-the-course-and-keep-covid19-out/news-story/efb934add6919a1c5c74943bd6cff7c6)
+- [Why Carbon Credits for Forest Preservation May Be Worse Than Nothing (2019)](https://features.propublica.org/brazil-carbon-offsets/inconvenient-truth-carbon-credits-dont-work-deforestation-redd-acre-cambodia/)
+- [Tools to Gather Better Software Requirements](https://www.liquidplanner.com/blog/7-tools-to-gather-better-software-requirements/)
+- [$1.5M ‘women-led’ NFT project was run by Russian dudes](https://www.inputmag.com/culture/fame-lady-squad-nft-women-men-scandal-scam)
+- [Hacking QR code designs – Create QR codes that look however you want](https://marienraat.nl/hacking-qr-codes.html)
+- [Show HN: Is the summary enough? Save time reading non-fiction books](https://is-the-summary-enough.herokuapp.com/)
+- [Qt Creator 5.0 RC released](https://www.qt.io/blog/qt-creator-5.0-rc-released)
+- [Dorris: Most Patriotic Place in California](https://en.wikipedia.org/wiki/Dorris,_California)
+- [With JSI, React Native will be as fast as Native iOS/Android](https://twitter.com/Ashoat/status/1425906197992026114)
+- [Swipe: Gestures on Linux](https://news.ycombinator.com/item?id=28164431)
+- [Ask HN: Are electric cars an example of the Jevons paradox getting paradoxical?](https://news.ycombinator.com/item?id=28164426)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

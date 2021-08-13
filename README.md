@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [These two basic assessments will put your Kubernetes knowledge to the test.](https://www.reddit.com/r/InformationTechnology/comments/p30ig7/these_two_basic_assessments_will_put_your/)
+- [Anyone experienced issues reverting a single user to a prior update of Office 365?](https://www.reddit.com/r/InformationTechnology/comments/p2lj8y/anyone_experienced_issues_reverting_a_single_user/)
+- [Help with Macros in Excel](https://www.reddit.com/r/InformationTechnology/comments/p2lhtk/help_with_macros_in_excel/)
+- [Just published an article on for beginners who want to start computer science](https://www.reddit.com/r/InformationTechnology/comments/p2dkjt/just_published_an_article_on_for_beginners_who/)
+- [What are some certifications that would greatly improve my resume along with a bachelor's in IT? I am a capable java programmer and have heard Python is very desirable to employers.](https://www.reddit.com/r/InformationTechnology/comments/p2c6p4/what_are_some_certifications_that_would_greatly/)
+- [FedVTE for Cisco CEUs](https://www.reddit.com/r/InformationTechnology/comments/p26as0/fedvte_for_cisco_ceus/)
 - [Masters/Certs](https://www.reddit.com/r/InformationTechnology/comments/p20mxj/masterscerts/)
 - [Job change suddenly](https://www.reddit.com/r/InformationTechnology/comments/p1y750/job_change_suddenly/)
 - [Quick assessment to test Kubernetes Knowledge](https://www.reddit.com/r/InformationTechnology/comments/p1rduk/quick_assessment_to_test_kubernetes_knowledge/)
 - [What does "pain point" mean in relation to IT?](https://www.reddit.com/r/InformationTechnology/comments/p1hs9q/what_does_pain_point_mean_in_relation_to_it/)
-- [Where to start? Career Change - Marketing / Analytics to IT](https://www.reddit.com/r/InformationTechnology/comments/p17979/where_to_start_career_change_marketing_analytics/)
-- [Working on series of IT articles for beginners ....](https://www.reddit.com/r/InformationTechnology/comments/p11yxi/working_on_series_of_it_articles_for_beginners/)
-- [Google IT Support Certificate](https://www.reddit.com/r/InformationTechnology/comments/ovg1vq/google_it_support_certificate/)
-- [Free Training on Microsoft Courses - Will Cover Full Courses](https://www.reddit.com/r/InformationTechnology/comments/ov8q0k/free_training_on_microsoft_courses_will_cover/)
-- [Uh....](https://www.reddit.com/r/InformationTechnology/comments/our7dv/uh/)
-- [Is there an "open" grid-computing solution that allows vendors to share resources such as services/networks/computing power in a similar fashion as GCP/AWS/Azure? So in such way everyone is "the cloud"?](https://www.reddit.com/r/InformationTechnology/comments/ou2qty/is_there_an_open_gridcomputing_solution_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

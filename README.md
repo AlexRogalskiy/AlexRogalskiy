@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Number of girls taking GCSE computing drops in 2021](https://www.computerweekly.com/news/252505254/Number-of-girls-taking-GCSE-computing-drops-in-2021)
+- [NCSC for Startups initiative launched with Plexal](https://www.computerweekly.com/news/252505247/NCSC-for-Startups-initiative-launched-with-Plexal)
+- [Regulatory complexity hinders cloud adoption by financial services firms, Google study finds](https://www.computerweekly.com/news/252505231/Regulatory-complexity-hinders-cloud-adoption-by-financial-services-firms-Google-study-finds)
+- [ICO consults on new international data transfer agreement](https://www.computerweekly.com/news/252505230/ICO-consults-on-new-international-data-transfer-agreement)
+- [Government Digital Service signs two-year public cloud hosting deal with AWS worth £12m](https://www.computerweekly.com/news/252505225/Government-Digital-Service-signs-two-year-public-cloud-hosting-deal-with-AWS-worth-12m)
+- [Multicloud adoption on the rise](https://www.computerweekly.com/news/252505227/Multicloud-adoption-on-the-rise)
+- [Same-day delivery firm CitySprint fields Salesforce for customers](https://www.computerweekly.com/news/252505120/Same-day-delivery-firm-CitySprint-fields-Salesforce-for-customers)
+- [CW Benelux: Netherlands sees increase in the number of women opting for an ICT career](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Netherlands-sees-increase-in-the-number-of-women-opting-for-an-ICT-career)
+- [Wyndham Hotels turns to AWS to weather Covid-19 and company spin-off](https://www.computerweekly.com/news/252505215/Wyndham-Hotels-turns-to-AWS-to-weather-Covid-19-and-company-spin-off)
 - [US wins bid to widen grounds of appeal in Julian Assange extradition case](https://www.computerweekly.com/news/252505172/US-wins-bid-to-widen-grounds-of-appeal-in-Julian-Assange-extradition-case)
-- [Norway’s government steps up efforts to court overseas datacentre investors and developers](https://www.computerweekly.com/news/252505166/Norways-government-steps-up-efforts-to-court-overseas-datacentre-investors-and-developers)
-- [Hacker makes off with $600m in world’s largest crypto-heist](https://www.computerweekly.com/news/252505164/Hacker-makes-off-with-600m-in-worlds-largest-crypto-heist)
-- [Four more subpostmasters set to have convictions overturned](https://www.computerweekly.com/news/252505156/Four-more-subpostmasters-set-to-have-convictions-overturned)
-- [Microsoft contests decision to award AWS $10bn NSA cloud contract](https://www.computerweekly.com/news/252505154/Microsoft-contests-decision-to-award-AWS-10bn-NSA-cloud-contract)
-- [Microsoft fixes seven critical bugs on light Patch Tuesday](https://www.computerweekly.com/news/252505147/Microsoft-fixes-seven-critical-bugs-on-light-Patch-Tuesday)
-- [Global fintech investments reach new heights](https://www.computerweekly.com/news/252505146/Global-fintech-investments-reach-new-heights)
-- [The Netherlands still lacks digital resilience, says report](https://www.computerweekly.com/news/252505045/The-Netherlands-still-lacks-digital-resilience-says-report)
-- [Number of students taking A-level computing rose in 2021](https://www.computerweekly.com/news/252505123/Number-of-students-taking-A-level-computing-rose-in-2021)
-- [Banks could be blocked from closing branches through FCA legislation](https://www.computerweekly.com/news/252505117/Banks-could-be-blocked-from-closing-branches-through-FCA-legislation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

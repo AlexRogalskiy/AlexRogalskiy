@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UN special rapporteurs call for surveillance tech moratorium](https://www.computerweekly.com/news/252505287/UN-special-rapporteurs-call-for-surveillance-tech-moratorium)
+- [Cyber Runway programme supports new security businesses](https://www.computerweekly.com/news/252505286/Cyber-Runway-programme-supports-new-security-businesses)
+- [Hospitals see cyber security investment as a low priority](https://www.computerweekly.com/news/252505226/Hospitals-see-cyber-security-investment-as-a-low-priority)
+- [GoStudent: Europe’s newest edtech unicorn](https://www.computerweekly.com/news/252505040/GoStudent-Europes-newest-edtech-unicorn)
 - [Number of girls taking GCSE computing drops in 2021](https://www.computerweekly.com/news/252505254/Number-of-girls-taking-GCSE-computing-drops-in-2021)
 - [NCSC for Startups initiative launched with Plexal](https://www.computerweekly.com/news/252505247/NCSC-for-Startups-initiative-launched-with-Plexal)
 - [Regulatory complexity hinders cloud adoption by financial services firms, Google study finds](https://www.computerweekly.com/news/252505231/Regulatory-complexity-hinders-cloud-adoption-by-financial-services-firms-Google-study-finds)
 - [ICO consults on new international data transfer agreement](https://www.computerweekly.com/news/252505230/ICO-consults-on-new-international-data-transfer-agreement)
 - [Government Digital Service signs two-year public cloud hosting deal with AWS worth £12m](https://www.computerweekly.com/news/252505225/Government-Digital-Service-signs-two-year-public-cloud-hosting-deal-with-AWS-worth-12m)
 - [Multicloud adoption on the rise](https://www.computerweekly.com/news/252505227/Multicloud-adoption-on-the-rise)
-- [Same-day delivery firm CitySprint fields Salesforce for customers](https://www.computerweekly.com/news/252505120/Same-day-delivery-firm-CitySprint-fields-Salesforce-for-customers)
-- [CW Benelux: Netherlands sees increase in the number of women opting for an ICT career](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Netherlands-sees-increase-in-the-number-of-women-opting-for-an-ICT-career)
-- [Wyndham Hotels turns to AWS to weather Covid-19 and company spin-off](https://www.computerweekly.com/news/252505215/Wyndham-Hotels-turns-to-AWS-to-weather-Covid-19-and-company-spin-off)
-- [US wins bid to widen grounds of appeal in Julian Assange extradition case](https://www.computerweekly.com/news/252505172/US-wins-bid-to-widen-grounds-of-appeal-in-Julian-Assange-extradition-case)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

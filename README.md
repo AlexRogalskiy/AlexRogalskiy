@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kubernetes New Glossary Assessment](https://www.reddit.com/r/InformationTechnology/comments/p3tk5q/kubernetes_new_glossary_assessment/)
 - [These two basic assessments will put your Kubernetes knowledge to the test.](https://www.reddit.com/r/InformationTechnology/comments/p30ig7/these_two_basic_assessments_will_put_your/)
 - [Anyone experienced issues reverting a single user to a prior update of Office 365?](https://www.reddit.com/r/InformationTechnology/comments/p2lj8y/anyone_experienced_issues_reverting_a_single_user/)
 - [Help with Macros in Excel](https://www.reddit.com/r/InformationTechnology/comments/p2lhtk/help_with_macros_in_excel/)
@@ -415,7 +416,6 @@
 - [Masters/Certs](https://www.reddit.com/r/InformationTechnology/comments/p20mxj/masterscerts/)
 - [Job change suddenly](https://www.reddit.com/r/InformationTechnology/comments/p1y750/job_change_suddenly/)
 - [Quick assessment to test Kubernetes Knowledge](https://www.reddit.com/r/InformationTechnology/comments/p1rduk/quick_assessment_to_test_kubernetes_knowledge/)
-- [What does "pain point" mean in relation to IT?](https://www.reddit.com/r/InformationTechnology/comments/p1hs9q/what_does_pain_point_mean_in_relation_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

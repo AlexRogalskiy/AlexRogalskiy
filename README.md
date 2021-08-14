@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The focus for August's Patch Tuesday? Printing](https://www.computerworld.com/article/3629414/the-focus-for-augusts-patch-tuesday-printing.html#tk.rss_all)
+- [Apple’s botched CSAM plan shows need for digital rights](https://www.computerworld.com/article/3629434/apples-botched-csam-plan-shows-need-for-digital-rights.html#tk.rss_all)
+- [3 smart video collaboration features we still need](https://www.computerworld.com/article/3629412/3-smart-video-collaboration-features-we-still-need.html#tk.rss_all)
+- [Why there’s never been a better time to partner with your competitors](https://www.computerworld.com/article/3629448/why-there-s-never-been-a-better-time-to-partner-with-your-competitors.html#tk.rss_all)
+- [Build the ultimate bootable Windows repair drive](https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Podcast: Apple's plan to monitor iCloud photos met with pushback from cybersecurity and privacy experts](https://www.computerworld.com/article/3629391/podcast-apples-plan-to-monitor-icloud-photos-met-with-pushback-from-cybersecurity-and-privacy-exper.html#tk.rss_all)
 - [The best new Chrome OS feature you aren’t yet using](https://www.computerworld.com/article/3629051/new-chrome-os-feature.html#tk.rss_all)
 - [How to choose desk booking software for the hybrid workplace](https://www.computerworld.com/article/3628210/how-to-choose-desk-booking-software-for-the-hybrid-workplace.html#tk.rss_all)
 - [Verizon integrates Apple Health for telehealth](https://www.computerworld.com/article/3628345/verizon-integrates-apple-health-for-telehealth.html#tk.rss_all)
-- [Salesforce builds out its Health Cloud with remote patient monitoring tool](https://www.computerworld.com/article/3628495/salesforce-builds-out-its-health-cloud-with-remote-patient-monitoring-tool.html#tk.rss_all)
-- [What's in the latest Firefox update? 91 nixes more cookies, gives nod to HTTPS by default](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-91-nixes-more-cookies-gives-nod-to-https-by-default.html#tk.rss_all)
-- [Old-fashioned business travel is dead (but don't blame the pandemic)](https://www.computerworld.com/article/3628235/old-fashioned-business-travel-is-dead-but-dont-blame-the-pandemic.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

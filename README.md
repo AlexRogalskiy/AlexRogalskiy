@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New wave of arrests in Belarus as more than 20 detained in two days](https://www.theguardian.com/world/2021/aug/13/new-wave-of-arrests-in-belarus-as-more-than-20-detained-in-two-days)
-- [The fall of Andrew Cuomo](https://www.theguardian.com/news/audio/2021/aug/13/the-fall-of-andrew-cuomo-podcast)
-- [Temperatures soar as Washington and Oregon baked by another major heatwave](https://www.theguardian.com/us-news/2021/aug/12/washington-oregon-heatwave-weather-seattle)
-- [US population now less than 60% white, 2020 census finds – as it happened](https://www.theguardian.com/us-news/live/2021/aug/12/us-politics-live-census-republicans-democrats-joe-biden)
-- [Plymouth shooting: six dead, including a child, after armed man opens fire](https://www.theguardian.com/uk-news/2021/aug/12/emergency-services-scene-incident-plymouth-keyham)
-- [UK and US send troops to aid evacuation from Afghanistan as Taliban advance](https://www.theguardian.com/world/2021/aug/12/taliban-claim-capture-kandahar-grip-on-afghanistan-grows)
-- [People Just Do Nothing: Big in Japan review – Kurupt FM crew go global](https://www.theguardian.com/film/2021/aug/13/people-just-do-nothing-big-in-japan-review)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/aug/13/premier-league-10-things-to-look-out-for-this-weekend)
-- [Premier League 2021-22 preview No 19: West Ham](https://www.theguardian.com/football/2021/aug/13/premier-league-2021-22-preview-no-19-west-ham)
-- [Amazon moves production of Lord of the Rings TV series to UK](https://www.theguardian.com/tv-and-radio/2021/aug/12/amazon-moves-production-of-lord-of-the-ring-tv-series-to-uk)
+- [Turkey flooding death toll reaches 38 as Erdoğan tours disaster zone](https://www.theguardian.com/world/2021/aug/14/turkey-flooding-deaths-erdogan-tours-disaster-zone-kastamonu)
+- [Banksy confirms he is behind British seaside ‘spraycation’ artworks](https://www.theguardian.com/artanddesign/2021/aug/14/banksy-confirms-he-is-behind-british-seaside-spraycation-artworks)
+- [Talking Horses: Mr Wagyu fair price to continue remarkable progress](https://www.theguardian.com/sport/2021/aug/14/talking-horses-mr-wagyu-fair-price-to-continue-remarkable-progress)
+- [Ministers launch review to weed out ‘cowboy’ Covid travel test firms](https://www.theguardian.com/politics/2021/aug/13/ministers-launch-review-to-weed-out-cowboy-covid-travel-test-firms)
+- [Nuno will factor in turmoil before deciding if Kane faces Manchester City](https://www.theguardian.com/football/2021/aug/13/nuno-espirito-santo-tottenham-will-factor-in-turmoil-before-deciding-if-harry-kane-faces-manchester-city)
+- [Canós and Nørgaard sink Arsenal to give Brentford dream start](https://www.theguardian.com/football/2021/aug/13/canos-and-nrgaard-sink-arsenal-to-give-brentford-dream-start)
+- [Deceit review – Rachel Nickell drama probes the ethics of entrapment](https://www.theguardian.com/tv-and-radio/2021/aug/13/deceit-review-rachel-nickell-drama-probes-entrapment-channel-4-drama)
+- [Building a bare-bones home gym: ‘A small bar with weights and two dumbbells can do a lot’](https://www.theguardian.com/lifeandstyle/2021/aug/14/building-a-bare-bones-home-gym-a-small-bar-with-weights-and-two-dumbbells-can-do-a-lot)
+- [When Covid came to the anti-vax capital of Australia](https://www.theguardian.com/australia-news/2021/aug/14/when-covid-came-to-the-anti-vax-capital-of-australia)
+- [Case of the mystery sea snakes: why are reptiles washing up on New Zealand’s shores?](https://www.theguardian.com/world/2021/aug/14/case-of-the-mystery-sea-snakes-why-are-reptiles-washing-up-on-new-zealands-shores)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

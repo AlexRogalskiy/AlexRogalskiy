@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
-- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
-- [AstraZeneca Scientist Says Delta Variant Makes Herd Immunity Impossible](https://www.businessinsider.com/delta-variant-made-herd-immunity-not-possible-astrazeneca-developer-2021-8)
-- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
-- [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
-- [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
-- [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
-- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
-- [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
-- [How green is blue hydrogen?](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
+- [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
+- [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
+- [Pfizer, Moderna seen reaping billions from Covid-19 vaccine booster market](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-moderna-seen-reaping-billions-covid-19-vaccine-booster-market-2021-08-13/)
+- [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
+- [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
+- [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
+- [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
+- [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
+- [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
+- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
-- [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
-- [Pfizer, Moderna seen reaping billions from Covid-19 vaccine booster market](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-moderna-seen-reaping-billions-covid-19-vaccine-booster-market-2021-08-13/)
-- [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
-- [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
-- [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
-- [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
-- [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
-- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [The Way the Senate Melted Down over Crypto Is Revealing](https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html)
+- [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
+- [What’s it like living with a phenomenal memory and can it be learned?](https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned)
+- [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
+- [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
+- [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
+- [Avoiding Founder Burnout](https://waseem.substack.com/p/avoiding-founder-burnout)
+- [Amiga Music Preservation](http://www.dascene.net/home.php)
+- [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [D2X-XL – an OpenGL modification of the classic video game Descent 2](https://www.descent2.de/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

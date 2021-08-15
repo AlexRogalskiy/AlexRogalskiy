@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Aspartame and cancer – new evidence for causation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/)
-- [Efficiently managing the supply and demand on Uber’s Big Data Platform](https://eng.uber.com/supply-demand-big-data-platform/)
-- [Hacksmith vs. Mandalorian Hacklorian Finale (Short Film)](https://www.youtube.com/watch?v=WmrbwJHXOc8)
-- [Congratulations, You Are Now Hackable Animals](https://www.ynharari.com/commencement-speech-2020-congratulations-you-are-now-hackable-animals/)
-- [Learning from cell biology to improve web funnel](https://www.youtube.com/watch?v=EYpCMR_oO6M)
-- [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
-- [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
-- [A Chicken Farm Guide](http://textfiles.com/uploads/chickenfarm.txt)
-- [Digital Addictions Are Drowning Us in Dopamine](https://www.wsj.com/articles/digital-addictions-are-drowning-us-in-dopamine-11628861572)
-- [Characteristics of the 3 different types of Data Scientists](https://www.youtube.com/watch?v=LfaCdtdq0YM)
+- [Tunable stiffness enables fast and efficient swimming in fish-like robots](https://robotics.sciencemag.org/content/6/57/eabe4088)
+- [The Fuzzing Book – Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org)
+- [Deforestation Can Cause Rapid Evolutionary Changes in Insects](https://www.sciencealert.com/deforestation-may-be-causing-some-island-insects-to-lose-their-wings)
+- [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
+- [The Globalisation of Ideas Will Be Different Than That of Goods](https://aeon.co/essays/the-globalisation-of-ideas-will-be-different-than-that-of-goods)
+- [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.com/news/world-australia-58170440)
+- [Identifying back doors, attack points, surveillance mechanisms in iOS devices [pdf]](https://www.zdziarski.com/blog/wp-content/uploads/2014/08/Zdziarski-iOS-DI-2014.pdf)
+- [How Seattle’s Scarecrow Video plans to share its vast 140k library nationwide](https://www.seattletimes.com/entertainment/movies/how-seattles-scarecrow-video-plans-to-share-its-vast-library-nationwide/)
+- [Looking Busy – The rise of pointless work (2018)](https://www.thenation.com/article/archive/graeber-and-pointless-work/)
+- [Show HN: Company email validator for B2B contact forms](https://github.com/bnurbekov/company-email-validator)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

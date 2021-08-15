@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Turkey flooding death toll reaches 38 as Erdoğan tours disaster zone](https://www.theguardian.com/world/2021/aug/14/turkey-flooding-deaths-erdogan-tours-disaster-zone-kastamonu)
-- [Banksy confirms he is behind British seaside ‘spraycation’ artworks](https://www.theguardian.com/artanddesign/2021/aug/14/banksy-confirms-he-is-behind-british-seaside-spraycation-artworks)
-- [Talking Horses: Mr Wagyu fair price to continue remarkable progress](https://www.theguardian.com/sport/2021/aug/14/talking-horses-mr-wagyu-fair-price-to-continue-remarkable-progress)
-- [Ministers launch review to weed out ‘cowboy’ Covid travel test firms](https://www.theguardian.com/politics/2021/aug/13/ministers-launch-review-to-weed-out-cowboy-covid-travel-test-firms)
-- [Nuno will factor in turmoil before deciding if Kane faces Manchester City](https://www.theguardian.com/football/2021/aug/13/nuno-espirito-santo-tottenham-will-factor-in-turmoil-before-deciding-if-harry-kane-faces-manchester-city)
-- [Canós and Nørgaard sink Arsenal to give Brentford dream start](https://www.theguardian.com/football/2021/aug/13/canos-and-nrgaard-sink-arsenal-to-give-brentford-dream-start)
-- [Deceit review – Rachel Nickell drama probes the ethics of entrapment](https://www.theguardian.com/tv-and-radio/2021/aug/13/deceit-review-rachel-nickell-drama-probes-entrapment-channel-4-drama)
-- [Building a bare-bones home gym: ‘A small bar with weights and two dumbbells can do a lot’](https://www.theguardian.com/lifeandstyle/2021/aug/14/building-a-bare-bones-home-gym-a-small-bar-with-weights-and-two-dumbbells-can-do-a-lot)
-- [When Covid came to the anti-vax capital of Australia](https://www.theguardian.com/australia-news/2021/aug/14/when-covid-came-to-the-anti-vax-capital-of-australia)
-- [Case of the mystery sea snakes: why are reptiles washing up on New Zealand’s shores?](https://www.theguardian.com/world/2021/aug/14/case-of-the-mystery-sea-snakes-why-are-reptiles-washing-up-on-new-zealands-shores)
+- [Afghanistan: Taliban close in on Kabul as last government stronghold in north falls – live updates](https://www.theguardian.com/world/live/2021/aug/15/afghanistan-taliban-close-in-on-kabul-as-last-government-stronghold-in-north-falls)
+- [New Covid variants ‘will set us back a year’, experts warn UK government](https://www.theguardian.com/world/2021/aug/15/new-covid-variants-will-set-us-back-a-year-experts-warn-uk-government)
+- [Up your game: 10 sporty pieces to kick off the perfect look – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/14/up-your-game-10-sporty-pieces-to-kick-off-the-perfect-look-in-pictures)
+- [At least 304 dead as Haiti struck by 7.2-magnitude earthquake](https://www.theguardian.com/world/2021/aug/14/haiti-struck-by-earthquake)
+- [Pretty tops: 16 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/14/pretty-tops-16-of-the-best-in-pictures)
+- [Ivory Coast confirms first Ebola case since 1994](https://www.theguardian.com/world/2021/aug/14/ivory-coast-confirms-first-ebola-case-since-1994)
+- [‘Each club has its own reality’: Pep Guardiola defends big spending](https://www.theguardian.com/football/2021/aug/14/each-club-has-its-own-reality-pep-guardiola-defends-big-spending)
+- [Defiant Steve Bruce aims for Europe but knows Newcastle fans want thrills](https://www.theguardian.com/football/2021/aug/14/defiant-steve-bruce-aims-for-europe-but-knows-newcastle-fans-want-thrills)
+- [UK can’t fight climate crisis with austerity, warns expert](https://www.theguardian.com/environment/2021/aug/14/uk-fight-climate-crisis-austerity-government-treasury-green-spending-net-zero-nicholas-stern)
+- [Flooding death toll passes 57 in Turkey’s Black Sea region](https://www.theguardian.com/world/2021/aug/14/flooding-death-toll-passes-44-in-turkeys-black-sea-region)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

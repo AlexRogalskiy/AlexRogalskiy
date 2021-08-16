@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan: Taliban close in on Kabul as last government stronghold in north falls – live updates](https://www.theguardian.com/world/live/2021/aug/15/afghanistan-taliban-close-in-on-kabul-as-last-government-stronghold-in-north-falls)
-- [New Covid variants ‘will set us back a year’, experts warn UK government](https://www.theguardian.com/world/2021/aug/15/new-covid-variants-will-set-us-back-a-year-experts-warn-uk-government)
-- [Up your game: 10 sporty pieces to kick off the perfect look – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/14/up-your-game-10-sporty-pieces-to-kick-off-the-perfect-look-in-pictures)
-- [At least 304 dead as Haiti struck by 7.2-magnitude earthquake](https://www.theguardian.com/world/2021/aug/14/haiti-struck-by-earthquake)
-- [Pretty tops: 16 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/14/pretty-tops-16-of-the-best-in-pictures)
-- [Ivory Coast confirms first Ebola case since 1994](https://www.theguardian.com/world/2021/aug/14/ivory-coast-confirms-first-ebola-case-since-1994)
-- [‘Each club has its own reality’: Pep Guardiola defends big spending](https://www.theguardian.com/football/2021/aug/14/each-club-has-its-own-reality-pep-guardiola-defends-big-spending)
-- [Defiant Steve Bruce aims for Europe but knows Newcastle fans want thrills](https://www.theguardian.com/football/2021/aug/14/defiant-steve-bruce-aims-for-europe-but-knows-newcastle-fans-want-thrills)
-- [UK can’t fight climate crisis with austerity, warns expert](https://www.theguardian.com/environment/2021/aug/14/uk-fight-climate-crisis-austerity-government-treasury-green-spending-net-zero-nicholas-stern)
-- [Flooding death toll passes 57 in Turkey’s Black Sea region](https://www.theguardian.com/world/2021/aug/14/flooding-death-toll-passes-44-in-turkeys-black-sea-region)
+- [Taliban declare ‘war is over in Afghanistan’ – live news](https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates)
+- [After ICU: a Covid patient meets one of the doctors who saved his life](https://www.theguardian.com/news/audio/2021/aug/16/after-icu-a-covid-patient-meets-one-of-the-doctors-who-saved-his-life-podcast)
+- [Kabul airport: chaos and panic as Afghans and foreigners attempt to flee the capital](https://www.theguardian.com/world/2021/aug/16/kabul-airport-chaos-and-panic-as-afghans-and-foreigners-attempt-to-flee-the-capital)
+- [All 16- and 17-year-olds in England to be offered Covid jab](https://www.theguardian.com/society/2021/aug/15/all-16-and-17-year-olds-in-england-are-to-be-offered-covid-jab)
+- [Tory cuts to English youth services fuelling crime, says Keir Starmer](https://www.theguardian.com/society/2021/aug/15/tory-cuts-to-english-youth-services-fuelling-says-keir-starmer)
+- [Few UK firms facing staff shortages plan to raise pay, survey finds](https://www.theguardian.com/money/2021/aug/16/few-uk-firms-facing-staff-shortages-plan-to-raise-pay-survey-finds)
+- [UK house prices fall in August as demand drops for bigger homes](https://www.theguardian.com/business/2021/aug/16/uk-house-prices-fall-in-august-as-demand-drops-for-bigger-homes)
+- [Renewable electricity deals investigated by UK government](https://www.theguardian.com/business/2021/aug/15/renewable-electricity-deals-investigated-by-uk-government)
+- [Virgil van Dijk admits Liverpool return was a tough mental hurdle](https://www.theguardian.com/football/2021/aug/15/virgil-van-dijk-admits-liverpool-return-was-a-tough-mental-hurdle)
+- [UK workers need right to disconnect amid ‘overtime epidemic’, says report](https://www.theguardian.com/business/2021/aug/15/uk-workers-need-right-to-disconnect-amid-overtime-epidemic-says-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

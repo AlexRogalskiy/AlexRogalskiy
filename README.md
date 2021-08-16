@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Way the Senate Melted Down over Crypto Is Revealing](https://www.nytimes.com/2021/08/12/opinion/senate-cryptocurrency.html)
-- [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
-- [What’s it like living with a phenomenal memory and can it be learned?](https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned)
-- [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
-- [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
-- [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
-- [Avoiding Founder Burnout](https://waseem.substack.com/p/avoiding-founder-burnout)
-- [Amiga Music Preservation](http://www.dascene.net/home.php)
-- [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [D2X-XL – an OpenGL modification of the classic video game Descent 2](https://www.descent2.de/index.html)
+- [Inflation wiped out America's pay raises](https://edition.cnn.com/2021/08/10/business/raises-inflation-wages/index.html)
+- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
+- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
+- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
+- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
+- [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
+- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
+- [You can list a directory containing 8M files, but not with ls](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
+- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

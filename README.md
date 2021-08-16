@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tunable stiffness enables fast and efficient swimming in fish-like robots](https://robotics.sciencemag.org/content/6/57/eabe4088)
-- [The Fuzzing Book – Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org)
-- [Deforestation Can Cause Rapid Evolutionary Changes in Insects](https://www.sciencealert.com/deforestation-may-be-causing-some-island-insects-to-lose-their-wings)
-- [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
-- [The Globalisation of Ideas Will Be Different Than That of Goods](https://aeon.co/essays/the-globalisation-of-ideas-will-be-different-than-that-of-goods)
-- [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.com/news/world-australia-58170440)
-- [Identifying back doors, attack points, surveillance mechanisms in iOS devices [pdf]](https://www.zdziarski.com/blog/wp-content/uploads/2014/08/Zdziarski-iOS-DI-2014.pdf)
-- [How Seattle’s Scarecrow Video plans to share its vast 140k library nationwide](https://www.seattletimes.com/entertainment/movies/how-seattles-scarecrow-video-plans-to-share-its-vast-library-nationwide/)
-- [Looking Busy – The rise of pointless work (2018)](https://www.thenation.com/article/archive/graeber-and-pointless-work/)
-- [Show HN: Company email validator for B2B contact forms](https://github.com/bnurbekov/company-email-validator)
+- [R/selfhosted – Selfhosted open source alternative to GitHub/Gitlab](https://www.reddit.com/r/selfhosted/comments/p1fikz/selfhosted_open_source_alternative_to_githubgitlab/)
+- [Unexpected Developer Trends](https://matt-rickard.com/2021-state-of-developers)
+- [Framing effect: How we frame choices changes what we choose](https://www.theschoolofmomentum.com/post/framing-effect-how-we-frame-information-changes-what-we-choose)
+- [The Butterfly Economy](https://www.eclogiselle.com/2021/08/the-butterfly-economy.html)
+- [Bulk of the PREEMPT-RT locking infrastructure posted for merging](https://lkml.org/lkml/2021/8/15/209)
+- [2022 Lamborghini Countach: Everything You Need to Know](https://www.roadandtrack.com/news/a37294264/2022-lamborghini-countach/)
+- [Underworld: Our Underground Coal Economy](https://www.gq.com/story/coal-mines-underground-economy)
+- [Show HN: I made a tool that helps freelancers work and communicate with clients](https://swair.app)
+- [Re: Cryptocurrency is an abject disaster (YES, but for other reasons)](https://paste.ee/p/vfs3B)
+- [Ask HN: Why does my audio flicker off when closing the Amazon app on iPhone?](https://news.ycombinator.com/item?id=28194155)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

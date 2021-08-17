@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft preps enterprises for 8-week 'Extended Stable' version of Edge](https://www.computerworld.com/article/3629442/microsoft-preps-enterprises-for-8-week-extended-stable-version-of-edge.html#tk.rss_all)
+- [11 questions for Windows users](https://www.computerworld.com/article/3629499/11-questions-for-windows-users.html#tk.rss_all)
+- [How to control your Android phone with your eyes](https://www.computerworld.com/article/3629498/android-phone-control-with-eyes.html#tk.rss_all)
+- [How to use iCloud Keychain to audit your passwords](https://www.computerworld.com/article/3629459/how-to-use-icloud-keychain-to-audit-your-passwords.html#tk.rss_all)
+- [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
+- [Google Docs cheat sheet: How to get started](https://www.computerworld.com/article/3394683/google-docs-cheat-sheet-how-to-get-started.html#tk.rss_all)
 - [The focus for August's Patch Tuesday? Printing](https://www.computerworld.com/article/3629414/the-focus-for-augusts-patch-tuesday-printing.html#tk.rss_all)
 - [Apple’s botched CSAM plan shows need for digital rights](https://www.computerworld.com/article/3629434/apples-botched-csam-plan-shows-need-for-digital-rights.html#tk.rss_all)
 - [3 smart video collaboration features we still need](https://www.computerworld.com/article/3629412/3-smart-video-collaboration-features-we-still-need.html#tk.rss_all)
 - [Why there’s never been a better time to partner with your competitors](https://www.computerworld.com/article/3629448/why-there-s-never-been-a-better-time-to-partner-with-your-competitors.html#tk.rss_all)
-- [Build the ultimate bootable Windows repair drive](https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
-- [Podcast: Apple's plan to monitor iCloud photos met with pushback from cybersecurity and privacy experts](https://www.computerworld.com/article/3629391/podcast-apples-plan-to-monitor-icloud-photos-met-with-pushback-from-cybersecurity-and-privacy-exper.html#tk.rss_all)
-- [The best new Chrome OS feature you aren’t yet using](https://www.computerworld.com/article/3629051/new-chrome-os-feature.html#tk.rss_all)
-- [How to choose desk booking software for the hybrid workplace](https://www.computerworld.com/article/3628210/how-to-choose-desk-booking-software-for-the-hybrid-workplace.html#tk.rss_all)
-- [Verizon integrates Apple Health for telehealth](https://www.computerworld.com/article/3628345/verizon-integrates-apple-health-for-telehealth.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

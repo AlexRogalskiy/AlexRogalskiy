@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Inflation wiped out America's pay raises](https://edition.cnn.com/2021/08/10/business/raises-inflation-wages/index.html)
-- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
-- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
-- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
-- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
-- [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
-- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
-- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
-- [You can list a directory containing 8M files, but not with ls](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
-- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
+- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
+- [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
+- [Moving Avoids California Tax? Not So Fast](https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast)
+- [Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
+- [0 A.D. A free, open-source game of ancient warfare](https://play0ad.com/)
+- [Lumen – self-hosted Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
+- [Optical Adversarial Attack Can Change the Meaning of Road Signs](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)
+- [You are quite right, and my original response was wrong. I withdraw my claim](https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

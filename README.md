@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Taliban declare ‘war is over in Afghanistan’ – live news](https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates)
-- [After ICU: a Covid patient meets one of the doctors who saved his life](https://www.theguardian.com/news/audio/2021/aug/16/after-icu-a-covid-patient-meets-one-of-the-doctors-who-saved-his-life-podcast)
-- [Kabul airport: chaos and panic as Afghans and foreigners attempt to flee the capital](https://www.theguardian.com/world/2021/aug/16/kabul-airport-chaos-and-panic-as-afghans-and-foreigners-attempt-to-flee-the-capital)
-- [All 16- and 17-year-olds in England to be offered Covid jab](https://www.theguardian.com/society/2021/aug/15/all-16-and-17-year-olds-in-england-are-to-be-offered-covid-jab)
-- [Tory cuts to English youth services fuelling crime, says Keir Starmer](https://www.theguardian.com/society/2021/aug/15/tory-cuts-to-english-youth-services-fuelling-says-keir-starmer)
-- [Few UK firms facing staff shortages plan to raise pay, survey finds](https://www.theguardian.com/money/2021/aug/16/few-uk-firms-facing-staff-shortages-plan-to-raise-pay-survey-finds)
-- [UK house prices fall in August as demand drops for bigger homes](https://www.theguardian.com/business/2021/aug/16/uk-house-prices-fall-in-august-as-demand-drops-for-bigger-homes)
-- [Renewable electricity deals investigated by UK government](https://www.theguardian.com/business/2021/aug/15/renewable-electricity-deals-investigated-by-uk-government)
-- [Virgil van Dijk admits Liverpool return was a tough mental hurdle](https://www.theguardian.com/football/2021/aug/15/virgil-van-dijk-admits-liverpool-return-was-a-tough-mental-hurdle)
-- [UK workers need right to disconnect amid ‘overtime epidemic’, says report](https://www.theguardian.com/business/2021/aug/15/uk-workers-need-right-to-disconnect-amid-overtime-epidemic-says-report)
+- [Afghanistan live news: Biden defends withdrawal as Taliban patrol Kabul](https://www.theguardian.com/world/live/2021/aug/17/afghanistan-live-news-us-says-kabul-airport-reopens-as-biden-defends-withdrawal)
+- [How the Taliban took Afghanistan](https://www.theguardian.com/news/audio/2021/aug/17/how-the-taliban-retook-afghanistan-podcast)
+- [Afghanistan: striking image appears to show 640 people fleeing Kabul in packed US military plane](https://www.theguardian.com/world/2021/aug/17/afghanistan-striking-image-appears-to-show-640-people-fleeing-kabul-in-packed-us-military-plane)
+- [‘Run for your life’: how papers around the world covered the chaos in Kabul](https://www.theguardian.com/world/2021/aug/17/run-for-your-life-how-papers-around-the-world-covered-the-chaos-in-kabul)
+- [Millions of UK homes could be heated with hydrogen by 2030](https://www.theguardian.com/environment/2021/aug/17/uk-homes-low-carbon-hydrogen-economy-jobs)
+- [Defiant Biden stands ‘squarely behind’ decision to withdraw from Afghanistan](https://www.theguardian.com/us-news/2021/aug/16/afghanistan-withdrawal-joe-biden-crisis)
+- [Reanne Evans snubs ex-partner Mark Allen before British Open grudge match](https://www.theguardian.com/sport/2021/aug/16/reanne-evans-snubs-ex-partner-mark-allen-before-british-open-grudge-match)
+- [Naomi Osaka in tears during first press conference since French Open](https://www.theguardian.com/sport/2021/aug/16/naomi-osaka-in-tears-during-first-press-conference-since-french-open)
+- [Humans ‘pushing Earth close to tipping point’, say most in G20](https://www.theguardian.com/environment/2021/aug/16/three-quarters-g20-earth-close-to-tipping-point-global-survey-climate-crisis)
+- [Biggest US reservoir declares historic shortage, forcing water cuts across west](https://www.theguardian.com/us-news/2021/aug/16/lake-mead-drought-reservoir-water-level-cuts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

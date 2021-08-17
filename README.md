@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [ICO consults public on personal data in employment practices](https://www.computerweekly.com/news/252505295/ICO-consults-public-on-personal-data-in-employment-practices)
+- [Microsoft launches 'top secret' Azure cloud region for US intelligence community](https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community)
+- [Nearly half of retailers hit by ransomware in 2020](https://www.computerweekly.com/news/252505344/Nearly-half-of-retailers-hit-by-ransomware-in-2020)
+- [When is SIEM the right choice over SOAR?](https://www.computerweekly.com/feature/When-is-SIEM-the-right-choice-over-SOAR)
 - [UK government tells firms to use cloud to curb their carbon emissions and fight climate change](https://www.computerweekly.com/news/252505293/UK-government-tells-firms-to-use-cloud-to-curb-their-carbon-emissions-and-fight-climate-change)
 - [UN special rapporteurs call for surveillance tech moratorium](https://www.computerweekly.com/news/252505287/UN-special-rapporteurs-call-for-surveillance-tech-moratorium)
 - [Cyber Runway programme supports new security businesses](https://www.computerweekly.com/news/252505286/Cyber-Runway-programme-supports-new-security-businesses)
 - [Hospitals see cyber security investment as a low priority](https://www.computerweekly.com/news/252505226/Hospitals-see-cyber-security-investment-as-a-low-priority)
 - [GoStudent: Europe’s newest edtech unicorn](https://www.computerweekly.com/news/252505040/GoStudent-Europes-newest-edtech-unicorn)
 - [Number of girls taking GCSE computing drops in 2021](https://www.computerweekly.com/news/252505254/Number-of-girls-taking-GCSE-computing-drops-in-2021)
-- [NCSC for Startups initiative launched with Plexal](https://www.computerweekly.com/news/252505247/NCSC-for-Startups-initiative-launched-with-Plexal)
-- [Regulatory complexity hinders cloud adoption by financial services firms, Google study finds](https://www.computerweekly.com/news/252505231/Regulatory-complexity-hinders-cloud-adoption-by-financial-services-firms-Google-study-finds)
-- [ICO consults on new international data transfer agreement](https://www.computerweekly.com/news/252505230/ICO-consults-on-new-international-data-transfer-agreement)
-- [Government Digital Service signs two-year public cloud hosting deal with AWS worth £12m](https://www.computerweekly.com/news/252505225/Government-Digital-Service-signs-two-year-public-cloud-hosting-deal-with-AWS-worth-12m)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

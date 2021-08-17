@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [R/selfhosted – Selfhosted open source alternative to GitHub/Gitlab](https://www.reddit.com/r/selfhosted/comments/p1fikz/selfhosted_open_source_alternative_to_githubgitlab/)
-- [Unexpected Developer Trends](https://matt-rickard.com/2021-state-of-developers)
-- [Framing effect: How we frame choices changes what we choose](https://www.theschoolofmomentum.com/post/framing-effect-how-we-frame-information-changes-what-we-choose)
-- [The Butterfly Economy](https://www.eclogiselle.com/2021/08/the-butterfly-economy.html)
-- [Bulk of the PREEMPT-RT locking infrastructure posted for merging](https://lkml.org/lkml/2021/8/15/209)
-- [2022 Lamborghini Countach: Everything You Need to Know](https://www.roadandtrack.com/news/a37294264/2022-lamborghini-countach/)
-- [Underworld: Our Underground Coal Economy](https://www.gq.com/story/coal-mines-underground-economy)
-- [Show HN: I made a tool that helps freelancers work and communicate with clients](https://swair.app)
-- [Re: Cryptocurrency is an abject disaster (YES, but for other reasons)](https://paste.ee/p/vfs3B)
-- [Ask HN: Why does my audio flicker off when closing the Amazon app on iPhone?](https://news.ycombinator.com/item?id=28194155)
+- [Texas requests five mortuary trailers in anticipation of Covid deaths](https://www.nbcnews.com/politics/politics-news/texas-requests-five-mortuary-trailers-anticipation-covid-deaths-n1276924)
+- [Ask HN: What is your favourite operating system?](https://news.ycombinator.com/item?id=28205353)
+- [New maintainers needed for the Thunderbird Lookout Fix-version add-on](https://peekread.info/tech/20210817-new-maintainers-needed-for-the-thunderbird-lookout-fix-version-add-on/)
+- [Unicode Emoji Requests](https://unicode.org/emoji/emoji-requests.html)
+- [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
+- [What’s New in Grafana v8.1](https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v8-1/)
+- [A Simple Diet Can Send Type 2 Diabetes into Remission](https://www.sciencealert.com/science-proves-diet-can-send-type-2-diabetes-into-remission-and-there-s-more-than-one-option)
+- [Black holes surrounded by energy-harvesting structures could power alien](https://www.sciencemag.org/news/2021/08/black-holes-surrounded-massive-energy-harvesting-structures-could-power-alien)
+- [Arrested in connection with Capitol riot; FBI cites evidence from Gmail and IG](https://www.nbcnews.com/news/us-news/actor-arrested-connection-capitol-riot-fbi-finds-cites-evidence-his-n1276929)
+- [Show HN: Reward and Cashback API](https://nector.io)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

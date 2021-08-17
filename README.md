@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel’s announces ‘Alchemist’ consumer graphics](https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113)
+- [Cyber Security Today, Aug. 16, 2021 – PrintNightmare bugs exploited, AlphaBay criminal marketplace returns, a threat to network inspection devices and check your router](https://www.itworldcanada.com/article/cyber-security-today-aug-16-2021-printnightmare-bugs-exploited-alphabay-criminal-marketplace-returns-a-threat-to-network-inspection-devices-and-check-your-router/457098)
+- [Hashtag Trending August 16 – Encrypted calls in Messenger; Reddit’s $10 billion valuation; and fiery power supplies](https://www.itworldcanada.com/article/hashtag-trending-august-16-encrypted-calls-in-messenger-reddits-10-billion-valuation-and-fiery-power-supplies/457103)
 - [Cyber Security Today Week in Review for August 13, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-august-13-2021/457049)
 - [Interac’s new feature tracks Canadians expenses with a musical twist](https://www.itworldcanada.com/article/interacs-new-feature-tracks-canadians-expenses-with-a-musical-twist/457067)
 - [Federal government invests $1.44 billion in Telesat satellite internet](https://www.itworldcanada.com/article/federal-government-invests-1-44-billion-in-telesat-satellite-internet/457023)
@@ -428,9 +431,6 @@
 - [Hashtag Trending August 13 – Bill to stop tech giant in-app purchase control; Publishers accuse Facebook of taking content; Canada’s role in the chip shortage](https://www.itworldcanada.com/article/hashtag-trending-august-13-bill-to-stop-tech-giant-in-app-purchase-control-publishers-accuse-facebook-of-taking-content-canadas-role-in-the-chip-shortage/457015)
 - [Lessons learned when it comes to quality control and assurance](https://www.itworldcanada.com/article/lessons-learned-when-it-comes-to-quality-control-and-assurance/457019)
 - [New health tech innovation hub in the Waterloo-London region to create over 700 jobs](https://www.itworldcanada.com/article/new-health-tech-innovation-hub-in-the-waterloo-london-region-to-create-over-700-jobs/457004)
-- [Accenture hit by Lockbit ransomware, claims “no impact”](https://www.itworldcanada.com/article/accenture-hit-by-lockbit-ransomware-claims-no-impact/456994)
-- [Dalhousie University’s AI robotics team wins gold in RoboCup](https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872)
-- [Hashtag Trending August 12 – TikTok most downloaded app; Twitter’s new user interface; Facebook fights anti-vax info](https://www.itworldcanada.com/article/hashtag-trending-august-12-tiktok-most-downloaded-app-twitters-new-user-interface-facebook-fights-anti-vax-info/456977)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

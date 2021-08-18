@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Texas requests five mortuary trailers in anticipation of Covid deaths](https://www.nbcnews.com/politics/politics-news/texas-requests-five-mortuary-trailers-anticipation-covid-deaths-n1276924)
-- [Ask HN: What is your favourite operating system?](https://news.ycombinator.com/item?id=28205353)
-- [New maintainers needed for the Thunderbird Lookout Fix-version add-on](https://peekread.info/tech/20210817-new-maintainers-needed-for-the-thunderbird-lookout-fix-version-add-on/)
-- [Unicode Emoji Requests](https://unicode.org/emoji/emoji-requests.html)
-- [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
-- [What’s New in Grafana v8.1](https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v8-1/)
-- [A Simple Diet Can Send Type 2 Diabetes into Remission](https://www.sciencealert.com/science-proves-diet-can-send-type-2-diabetes-into-remission-and-there-s-more-than-one-option)
-- [Black holes surrounded by energy-harvesting structures could power alien](https://www.sciencemag.org/news/2021/08/black-holes-surrounded-massive-energy-harvesting-structures-could-power-alien)
-- [Arrested in connection with Capitol riot; FBI cites evidence from Gmail and IG](https://www.nbcnews.com/news/us-news/actor-arrested-connection-capitol-riot-fbi-finds-cites-evidence-his-n1276929)
-- [Show HN: Reward and Cashback API](https://nector.io)
+- [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
+- [Dell Latitudes are Great Laptops (and they run Ubuntu well)](https://www.mikekasberg.com/blog/2021/08/12/dell-latitudes-are-great-laptops.html)
+- [Yahoo! Jerry and Dave's Excellent Venture (1997)](https://www.youtube.com/watch?v=MpgAN3wVWfo)
+- [Wiggle That Text](https://wiggle.sany.one)
+- [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
+- [German chemists identified over 7,700 different chemical formulas in beers](https://arstechnica.com/science/2021/08/german-chemists-identified-over-7700-different-chemical-formulas-in-beers/)
+- [Twitter Refuses to Ban Taliban Accounts, Vows to Remain ‘Vigilant’ Moderating](https://www.yahoo.com/entertainment/twitter-refuses-ban-taliban-accounts-213501287.html)
+- [We design our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+- [The Zeppelin: Aboard ‘the hotel in the sky’](https://www.bbc.com/culture/article/20141126-the-airship-that-ruled-the-skies)
+- [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

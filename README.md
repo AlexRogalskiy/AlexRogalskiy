@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [CIO interview: Victoria Higgin, Highways England](https://www.computerweekly.com/news/252505141/CIO-interview-Victoria-Higgin-Highways-England)
+- [Overturned convictions of subpostmasters mount up, but 555 victims no closer to justice](https://www.computerweekly.com/news/252505410/Overturned-convictions-of-subpostmasters-mount-up-but-555-victims-no-closer-justice)
+- [What will be the bank branch balance in the digital age?](https://www.computerweekly.com/news/252505414/What-will-be-the-bank-branch-balance-in-the-digital-age)
+- [Computing exams, AI, water and datacentres – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Computing-exams-AI-water-and-datacentres-Computer-Weekly-Downtime-Upload-podcast)
+- [Educational publisher Pearson fined for data breach cover-up](https://www.computerweekly.com/news/252505411/Educational-publisher-Pearson-fined-for-data-breach-cover-up)
+- [Security Think Tank: Building privacy-preserving apps and platforms](https://www.computerweekly.com/news/252505338/Security-Think-Tank-Building-privacy-preserving-apps-and-platforms)
+- [How to choose between SIEM and SOAR](https://www.computerweekly.com/ezine/Computer-Weekly/How-to-choose-between-SIEM-and-SOAR)
 - [ICO consults public on personal data in employment practices](https://www.computerweekly.com/news/252505295/ICO-consults-public-on-personal-data-in-employment-practices)
 - [Microsoft launches 'top secret' Azure cloud region for US intelligence community](https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community)
 - [Nearly half of retailers hit by ransomware in 2020](https://www.computerweekly.com/news/252505344/Nearly-half-of-retailers-hit-by-ransomware-in-2020)
-- [When is SIEM the right choice over SOAR?](https://www.computerweekly.com/feature/When-is-SIEM-the-right-choice-over-SOAR)
-- [UK government tells firms to use cloud to curb their carbon emissions and fight climate change](https://www.computerweekly.com/news/252505293/UK-government-tells-firms-to-use-cloud-to-curb-their-carbon-emissions-and-fight-climate-change)
-- [UN special rapporteurs call for surveillance tech moratorium](https://www.computerweekly.com/news/252505287/UN-special-rapporteurs-call-for-surveillance-tech-moratorium)
-- [Cyber Runway programme supports new security businesses](https://www.computerweekly.com/news/252505286/Cyber-Runway-programme-supports-new-security-businesses)
-- [Hospitals see cyber security investment as a low priority](https://www.computerweekly.com/news/252505226/Hospitals-see-cyber-security-investment-as-a-low-priority)
-- [GoStudent: Europe’s newest edtech unicorn](https://www.computerweekly.com/news/252505040/GoStudent-Europes-newest-edtech-unicorn)
-- [Number of girls taking GCSE computing drops in 2021](https://www.computerweekly.com/news/252505254/Number-of-girls-taking-GCSE-computing-drops-in-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

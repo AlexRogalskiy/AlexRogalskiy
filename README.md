@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan live news: Biden defends withdrawal as Taliban patrol Kabul](https://www.theguardian.com/world/live/2021/aug/17/afghanistan-live-news-us-says-kabul-airport-reopens-as-biden-defends-withdrawal)
-- [How the Taliban took Afghanistan](https://www.theguardian.com/news/audio/2021/aug/17/how-the-taliban-retook-afghanistan-podcast)
-- [Afghanistan: striking image appears to show 640 people fleeing Kabul in packed US military plane](https://www.theguardian.com/world/2021/aug/17/afghanistan-striking-image-appears-to-show-640-people-fleeing-kabul-in-packed-us-military-plane)
-- [‘Run for your life’: how papers around the world covered the chaos in Kabul](https://www.theguardian.com/world/2021/aug/17/run-for-your-life-how-papers-around-the-world-covered-the-chaos-in-kabul)
-- [Millions of UK homes could be heated with hydrogen by 2030](https://www.theguardian.com/environment/2021/aug/17/uk-homes-low-carbon-hydrogen-economy-jobs)
-- [Defiant Biden stands ‘squarely behind’ decision to withdraw from Afghanistan](https://www.theguardian.com/us-news/2021/aug/16/afghanistan-withdrawal-joe-biden-crisis)
-- [Reanne Evans snubs ex-partner Mark Allen before British Open grudge match](https://www.theguardian.com/sport/2021/aug/16/reanne-evans-snubs-ex-partner-mark-allen-before-british-open-grudge-match)
-- [Naomi Osaka in tears during first press conference since French Open](https://www.theguardian.com/sport/2021/aug/16/naomi-osaka-in-tears-during-first-press-conference-since-french-open)
-- [Humans ‘pushing Earth close to tipping point’, say most in G20](https://www.theguardian.com/environment/2021/aug/16/three-quarters-g20-earth-close-to-tipping-point-global-survey-climate-crisis)
-- [Biggest US reservoir declares historic shortage, forcing water cuts across west](https://www.theguardian.com/us-news/2021/aug/16/lake-mead-drought-reservoir-water-level-cuts)
+- [How the pandemic exposed the crisis in children’s social care](https://www.theguardian.com/news/audio/2021/aug/18/how-the-pandemic-exposed-the-crisis-in-childrens-social-care-podcast)
+- [Afghanistan live news: reports Taliban guards beating Afghans trying to reach Kabul airport](https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis)
+- [Qantas mandates full Covid-19 vaccination for all its employees](https://www.theguardian.com/business/2021/aug/18/qantas-mandates-full-covid-19-vaccination-for-all-its-employees)
+- [Algeria: 61 arrested after mob kills man falsely accused of starting deadly fires](https://www.theguardian.com/world/2021/aug/18/algeria-61-arrested-after-mob-kills-man-falsely-accused-of-starting-deadly-fires)
+- [Swedish mountain shrinks by two metres in a year as glacier melts](https://www.theguardian.com/world/2021/aug/18/swedish-mountain-shrinks-by-two-metres-in-a-year-as-glacier-melts)
+- [Lake District in peril due to climate emergency and influx of pandemic walkers](https://www.theguardian.com/uk-news/2021/aug/18/lake-district-climate-emergency-pandemic-walkers)
+- [Vectura shareholders urged to reject Philip Morris takeover](https://www.theguardian.com/business/2021/aug/18/vectura-shareholders-urged-to-reject-philip-morris-takeover)
+- [Cuttlefish remember details of their last meal, study finds](https://www.theguardian.com/world/2021/aug/18/cuttlefish-remember-details-of-their-last-meal-study-finds)
+- [Talking Horses: Mohaafeth can capture the Juddmonte International](https://www.theguardian.com/sport/2021/aug/18/talking-horses-mohaafeth-can-capture-the-juddmonte-international)
+- [Texas governor Abbott, who fought mask mandates, tests positive for Covid](https://www.theguardian.com/us-news/2021/aug/17/texas-governor-greg-abbott-coronavirus-covid-tests-positive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

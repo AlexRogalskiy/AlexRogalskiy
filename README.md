@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code previews ML-based language detection](https://www.infoworld.com/article/3629315/visual-studio-code-previews-ml-based-language-detection.html#tk.rss_all)
+- ['Spreading the risk' using multicloud](https://www.infoworld.com/article/3629497/spreading-the-risk-using-multicloud.html#tk.rss_all)
+- [When RPA meets data science](https://www.infoworld.com/article/3628242/when-rpa-meets-data-science.html#tk.rss_all)
+- [What is cloud-native? The modern way to develop software](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html#tk.rss_all)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_all)
 - [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [How cloud services get built today](https://www.infoworld.com/article/3629455/how-cloud-services-get-built-today.html#tk.rss_all)
 - [5 steps to improve your application availability](https://www.infoworld.com/article/3629416/5-steps-to-improve-your-application-availability.html#tk.rss_all)
 - [Angular 13 begins to take shape](https://www.infoworld.com/article/3629473/angular-13-begins-to-take-shape.html#tk.rss_all)
 - [Meta or micro cloud architecture? You need both](https://www.infoworld.com/article/3629428/meta-or-micro-cloud-architecture-you-need-both.html#tk.rss_all)
-- [Visual Studio 2022 Preview 3 shines on JavaScript, TypeScript, Git](https://www.infoworld.com/article/3629393/visual-studio-2022-preview-3-shines-on-javascript-typescript-github.html#tk.rss_all)
-- [OpenAI offers API for GitHub Copilot AI model](https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html#tk.rss_all)
-- [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_all)
-- [How to build lightweight services in ASP.NET Core 6](https://www.infoworld.com/article/3628717/how-to-build-lightweight-services-in-aspnet-core-6.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

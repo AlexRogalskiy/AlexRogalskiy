@@ -414,8 +414,8 @@
 - [What are some certifications that would greatly improve my resume along with a bachelor's in IT? I am a capable java programmer and have heard Python is very desirable to employers.](https://www.reddit.com/r/InformationTechnology/comments/p2c6p4/what_are_some_certifications_that_would_greatly/)
 - [FedVTE for Cisco CEUs](https://www.reddit.com/r/InformationTechnology/comments/p26as0/fedvte_for_cisco_ceus/)
 - [Masters/Certs](https://www.reddit.com/r/InformationTechnology/comments/p20mxj/masterscerts/)
-- [Job change suddenly](https://www.reddit.com/r/InformationTechnology/comments/p1y750/job_change_suddenly/)
 - [Quick assessment to test Kubernetes Knowledge](https://www.reddit.com/r/InformationTechnology/comments/p1rduk/quick_assessment_to_test_kubernetes_knowledge/)
+- [What does "pain point" mean in relation to IT?](https://www.reddit.com/r/InformationTechnology/comments/p1hs9q/what_does_pain_point_mean_in_relation_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple brings iCloud passwords to Windows, Microsoft's Edge](https://www.computerworld.com/article/3629310/apple-brings-icloud-passwords-to-windows-microsofts-edge.html#tk.rss_all)
+- [Pay people for what they’re worth, not for where they live](https://www.computerworld.com/article/3629471/pay-people-for-what-they-re-worth-not-for-where-they-live.html#tk.rss_all)
+- [From MDM to UEM in a decade: What we’ve learned about enterprise mobile management](https://www.computerworld.com/article/3627288/from-mdm-to-uem-in-a-decade-what-we-ve-learned-about-enterprise-mobile-management.html#tk.rss_all)
 - [Microsoft preps enterprises for 8-week 'Extended Stable' version of Edge](https://www.computerworld.com/article/3629442/microsoft-preps-enterprises-for-8-week-extended-stable-version-of-edge.html#tk.rss_all)
 - [11 questions for Windows users](https://www.computerworld.com/article/3629499/11-questions-for-windows-users.html#tk.rss_all)
 - [How to control your Android phone with your eyes](https://www.computerworld.com/article/3629498/android-phone-control-with-eyes.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Tech Resume Library: 27 downloadable templates for IT pros](https://www.idginsiderpro.com/article/3409100/insider-pro-tech-resume-template-library.html#tk.rss_all)
 - [Google Docs cheat sheet: How to get started](https://www.computerworld.com/article/3394683/google-docs-cheat-sheet-how-to-get-started.html#tk.rss_all)
 - [The focus for August's Patch Tuesday? Printing](https://www.computerworld.com/article/3629414/the-focus-for-augusts-patch-tuesday-printing.html#tk.rss_all)
-- [Apple’s botched CSAM plan shows need for digital rights](https://www.computerworld.com/article/3629434/apples-botched-csam-plan-shows-need-for-digital-rights.html#tk.rss_all)
-- [3 smart video collaboration features we still need](https://www.computerworld.com/article/3629412/3-smart-video-collaboration-features-we-still-need.html#tk.rss_all)
-- [Why there’s never been a better time to partner with your competitors](https://www.computerworld.com/article/3629448/why-there-s-never-been-a-better-time-to-partner-with-your-competitors.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

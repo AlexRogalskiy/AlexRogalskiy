@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
-- [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
-- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
-- [Moving Avoids California Tax? Not So Fast](https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast)
-- [Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
-- [0 A.D. A free, open-source game of ancient warfare](https://play0ad.com/)
-- [Lumen – self-hosted Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
-- [Optical Adversarial Attack Can Change the Meaning of Road Signs](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)
-- [You are quite right, and my original response was wrong. I withdraw my claim](https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html)
+- [Google Voice's terrible UI permanently deletes messages without prompting](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
+- [CA drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
+- [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
+- [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
+- [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
+- [Will the rich world’s worker deficit last?](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
+- [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
+- [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
+- [Asking nicely for root command execution and getting it](https://rachelbythebay.com/w/2021/08/17/pop/)
+- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

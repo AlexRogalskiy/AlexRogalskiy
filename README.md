@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Voice's terrible UI permanently deletes messages without prompting](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
-- [CA drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
-- [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
-- [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
-- [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-- [Will the rich world’s worker deficit last?](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
-- [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
-- [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
-- [Asking nicely for root command execution and getting it](https://rachelbythebay.com/w/2021/08/17/pop/)
-- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
+- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
+- [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
+- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
+- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
+- [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
+- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
+- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
+- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
+- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
+- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

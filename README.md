@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
-- [Dell Latitudes are Great Laptops (and they run Ubuntu well)](https://www.mikekasberg.com/blog/2021/08/12/dell-latitudes-are-great-laptops.html)
-- [Yahoo! Jerry and Dave's Excellent Venture (1997)](https://www.youtube.com/watch?v=MpgAN3wVWfo)
-- [Wiggle That Text](https://wiggle.sany.one)
-- [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
-- [German chemists identified over 7,700 different chemical formulas in beers](https://arstechnica.com/science/2021/08/german-chemists-identified-over-7700-different-chemical-formulas-in-beers/)
-- [Twitter Refuses to Ban Taliban Accounts, Vows to Remain ‘Vigilant’ Moderating](https://www.yahoo.com/entertainment/twitter-refuses-ban-taliban-accounts-213501287.html)
-- [We design our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
-- [The Zeppelin: Aboard ‘the hotel in the sky’](https://www.bbc.com/culture/article/20141126-the-airship-that-ruled-the-skies)
-- [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
+- [Cryptodiagnosis of “Kryptos K4”](https://ecp.ep.liu.se/index.php/histocrypt/article/view/153)
+- [Stereo Recording with a Jecklin Disk](http://www.josephson.com/tn5.html)
+- [Congressman: Yes, We Did in Fact Lose Afghanistan Because of Big Tech](https://prestonbyrne.com/2021/08/18/congressman-yes-we-did-in-fact-lose-big-tech/)
+- [Like humans, cuttlefish can form complex memories](https://www.sciencemag.org/news/2021/08/humans-cuttlefish-can-form-complex-memories)
+- [Navalny Supporters Being Targeted](https://www.thetimes.co.uk/article/alexei-navalny-supporters-harassed-by-police-after-data-leak-37bwhhkp8)
+- [Breaking the Web Forward](https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html)
+- [Covid-19 vaccines may trigger superimmunity in people who had SARS long ago](https://www.sciencemag.org/news/2021/08/covid-19-vaccines-may-trigger-superimmunity-people-who-had-sars-long-ago)
+- [Moser Flow: Divergence-Based Generative Modeling on Manifolds](https://arxiv.org/abs/2108.08052)
+- [Current Theories of Obesity Are Inadequate](https://slimemoldtimemold.com/2021/07/11/a-chemical-hunger-part-ii-current-theories-of-obesity-are-inadequate/)
+- [‘Green steel’: Swedish company ships first batch made without using coal](https://www.theguardian.com/science/2021/aug/19/green-steel-swedish-company-ships-first-batch-made-without-using-coal)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK government criticised for proposed facial-recognition guidance](https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance)
+- [MoD seeks security tech to harden military systems](https://www.computerweekly.com/news/252505462/MoD-seeks-security-tech-to-harden-military-systems)
+- [A digital twin for farming](https://www.computerweekly.com/news/252505460/A-digital-twin-for-farming)
+- [Thames Valley Police drops ERP system after spending £14m](https://www.computerweekly.com/news/252505459/Thames-Valley-Police-drop-ERP-system-after-spending-over-14mn)
+- [Security Think Tank: Data privacy and ethics in a post-Covid world](https://www.computerweekly.com/opinion/Security-Think-Tank-Data-privacy-and-ethics-in-a-post-Covid-world)
 - [CIO interview: Victoria Higgin, Highways England](https://www.computerweekly.com/news/252505141/CIO-interview-Victoria-Higgin-Highways-England)
 - [Overturned convictions of subpostmasters mount up, but 555 victims no closer to justice](https://www.computerweekly.com/news/252505410/Overturned-convictions-of-subpostmasters-mount-up-but-555-victims-no-closer-justice)
 - [What will be the bank branch balance in the digital age?](https://www.computerweekly.com/news/252505414/What-will-be-the-bank-branch-balance-in-the-digital-age)
 - [Computing exams, AI, water and datacentres – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Computing-exams-AI-water-and-datacentres-Computer-Weekly-Downtime-Upload-podcast)
 - [Educational publisher Pearson fined for data breach cover-up](https://www.computerweekly.com/news/252505411/Educational-publisher-Pearson-fined-for-data-breach-cover-up)
-- [Security Think Tank: Building privacy-preserving apps and platforms](https://www.computerweekly.com/news/252505338/Security-Think-Tank-Building-privacy-preserving-apps-and-platforms)
-- [How to choose between SIEM and SOAR](https://www.computerweekly.com/ezine/Computer-Weekly/How-to-choose-between-SIEM-and-SOAR)
-- [ICO consults public on personal data in employment practices](https://www.computerweekly.com/news/252505295/ICO-consults-public-on-personal-data-in-employment-practices)
-- [Microsoft launches 'top secret' Azure cloud region for US intelligence community](https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community)
-- [Nearly half of retailers hit by ransomware in 2020](https://www.computerweekly.com/news/252505344/Nearly-half-of-retailers-hit-by-ransomware-in-2020)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

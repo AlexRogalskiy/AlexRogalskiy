@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How the pandemic exposed the crisis in children’s social care](https://www.theguardian.com/news/audio/2021/aug/18/how-the-pandemic-exposed-the-crisis-in-childrens-social-care-podcast)
-- [Afghanistan live news: reports Taliban guards beating Afghans trying to reach Kabul airport](https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis)
-- [Qantas mandates full Covid-19 vaccination for all its employees](https://www.theguardian.com/business/2021/aug/18/qantas-mandates-full-covid-19-vaccination-for-all-its-employees)
-- [Algeria: 61 arrested after mob kills man falsely accused of starting deadly fires](https://www.theguardian.com/world/2021/aug/18/algeria-61-arrested-after-mob-kills-man-falsely-accused-of-starting-deadly-fires)
-- [Swedish mountain shrinks by two metres in a year as glacier melts](https://www.theguardian.com/world/2021/aug/18/swedish-mountain-shrinks-by-two-metres-in-a-year-as-glacier-melts)
-- [Lake District in peril due to climate emergency and influx of pandemic walkers](https://www.theguardian.com/uk-news/2021/aug/18/lake-district-climate-emergency-pandemic-walkers)
-- [Vectura shareholders urged to reject Philip Morris takeover](https://www.theguardian.com/business/2021/aug/18/vectura-shareholders-urged-to-reject-philip-morris-takeover)
-- [Cuttlefish remember details of their last meal, study finds](https://www.theguardian.com/world/2021/aug/18/cuttlefish-remember-details-of-their-last-meal-study-finds)
-- [Talking Horses: Mohaafeth can capture the Juddmonte International](https://www.theguardian.com/sport/2021/aug/18/talking-horses-mohaafeth-can-capture-the-juddmonte-international)
-- [Texas governor Abbott, who fought mask mandates, tests positive for Covid](https://www.theguardian.com/us-news/2021/aug/17/texas-governor-greg-abbott-coronavirus-covid-tests-positive)
+- [The Plymouth attack and misogynist ‘incel’ culture – podcast](https://www.theguardian.com/news/audio/2021/aug/19/plymouth-attack-misogynist-incel-culture-podcast)
+- [‘Green steel’: Swedish company ships first batch made without using coal](https://www.theguardian.com/science/2021/aug/19/green-steel-swedish-company-ships-first-batch-made-without-using-coal)
+- [Afghanistan live news: US troops may stay past 31 August, says Biden; Taliban official rules out democracy](https://www.theguardian.com/world/live/2021/aug/19/afghanistan-live-news-taliban-kabul-us-troops-joe-biden-afghan-crisis-latest-updates)
+- [Record number of young people wait for eating disorder treatment in England](https://www.theguardian.com/society/2021/aug/18/record-number-of-young-people-wait-for-eating-disorder-treatment-in-england)
+- [More than 1,000 civilians have died in Myanmar unrest, say activists](https://www.theguardian.com/world/2021/aug/19/more-than-1000-civilians-have-died-in-myanmar-unrest-say-activists)
+- [Dementia risk lower for people in stimulating jobs, research suggests](https://www.theguardian.com/society/2021/aug/19/dementia-risk-lower-for-people-in-stimulating-jobs-research-suggests)
+- [Jabbed adults infected with Delta ‘can match virus levels of unvaccinated’](https://www.theguardian.com/world/2021/aug/19/jabbed-adults-infected-with-delta-can-match-virus-levels-of-unvaccinated)
+- [Meat-rich diet of 14th-century monks caused digestive issues, research finds](https://www.theguardian.com/culture/2021/aug/19/meat-rich-diet-of-13th-century-monks-caused-digestive-issues-research-finds)
+- [Cinderella review – not so much a ball as a blast](https://www.theguardian.com/stage/2021/aug/18/cinderella-review-not-so-much-a-ball-as-a-blast)
+- [Meng Wanzhou extradition case wraps up but verdict will take months](https://www.theguardian.com/world/2021/aug/18/meng-wanzhou-extradition-case-canada)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

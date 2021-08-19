@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [BlackBerry warns of vulnerability in QNX development platform, Medical and Safety versions of OS](https://www.itworldcanada.com/article/blackberry-warns-of-vulnerability-in-qnx-development-platform-medical-and-safety-versions-of-os/457224)
+- [Inclusive & flexible collaboration in hybrid new normal](https://www.itworldcanada.com/article/inclusive-flexible-collaboration-in-hybrid-new-normal/457242)
+- [North American bulk power providers reporting more cyber incidents, says NERC](https://www.itworldcanada.com/article/north-american-bulk-power-providers-reporting-more-cyber-incidents-says-nerc/457215)
+- [Cyber Security Today, Aug. 18, 2021 – U.S. terrorist watchlist found, T-Mobile hacked and troublesome SDKs](https://www.itworldcanada.com/article/cyber-security-today-aug-18-2021-u-s-terrorist-watchlist-found-t-mobile-hacked-and-troublesome-sdks/457212)
+- [Hashtag Trending August 18 – Facebook firm on Taliban ban; Big Tech litigation spiking; T-Mobile breaches merger agreement](https://www.itworldcanada.com/article/hashtag-trending-august-18-facebook-firm-on-taliban-ban-big-tech-litigation-spiking-t-mobile-breaches-merger-agreement/457207)
 - [Montreal firm develops tech that allows customers to power their home using their electric car](https://www.itworldcanada.com/article/montreal-firm-develops-tech-that-allows-customers-to-power-their-home-using-their-electric-car/457162)
 - [Coffee Briefing, August 17, 2021 – Twitter’s UI rollback; Blue Orgin sues U.S. government; OneWeb’s new deal; and more](https://www.itworldcanada.com/article/coffee-briefing-august-17-2021-twitters-ui-rollback-blue-orgin-sues-u-s-government-onewebs-new-deal-and-more/457170)
 - [CIO Strategy Council launches Sustainable IT Pledge](https://www.itworldcanada.com/article/cio-strategy-council-launches-sustainable-it-pledge/457187)
 - [VentureLab HardTech Pitch Competition winners innovating amidst ongoing chip shortage](https://www.itworldcanada.com/article/venturelab-hardtech-pitch-competition-winners-innovating-amidst-ongoing-chip-shortage/457076)
 - [Hashtag Trending August 17- Android accessibility feature; Tesla’s Autopilot investigation; #BookTok](https://www.itworldcanada.com/article/hashtag-trending-august-17-android-accessibility-feature-teslas-autopilot-investigation-booktok/457159)
-- [Intel’s announces ‘Alchemist’ consumer graphics](https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113)
-- [Cyber Security Today, Aug. 16, 2021 – PrintNightmare bugs exploited, AlphaBay criminal marketplace returns, a threat to network inspection devices and check your router](https://www.itworldcanada.com/article/cyber-security-today-aug-16-2021-printnightmare-bugs-exploited-alphabay-criminal-marketplace-returns-a-threat-to-network-inspection-devices-and-check-your-router/457098)
-- [Hashtag Trending August 16 – Encrypted calls in Messenger; Reddit’s $10 billion valuation; and fiery power supplies](https://www.itworldcanada.com/article/hashtag-trending-august-16-encrypted-calls-in-messenger-reddits-10-billion-valuation-and-fiery-power-supplies/457103)
-- [Cyber Security Today Week in Review for August 13, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-august-13-2021/457049)
-- [Interac’s new feature tracks Canadians expenses with a musical twist](https://www.itworldcanada.com/article/interacs-new-feature-tracks-canadians-expenses-with-a-musical-twist/457067)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

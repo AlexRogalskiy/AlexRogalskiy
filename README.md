@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
-- [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
-- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
-- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
-- [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
-- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
-- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
-- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
-- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
-- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
+- [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
+- [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
+- [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
+- [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
+- [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
+- [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [Fructose in diet expands the surface of the gut and promotes nutrient absorption](https://www.nature.com/articles/d41586-021-02195-1)
+- [Japanese gaming arcades are on their last life](https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/)
+- [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

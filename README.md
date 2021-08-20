@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Plymouth attack and misogynist ‘incel’ culture – podcast](https://www.theguardian.com/news/audio/2021/aug/19/plymouth-attack-misogynist-incel-culture-podcast)
-- [‘Green steel’: Swedish company ships first batch made without using coal](https://www.theguardian.com/science/2021/aug/19/green-steel-swedish-company-ships-first-batch-made-without-using-coal)
-- [Afghanistan live news: US troops may stay past 31 August, says Biden; Taliban official rules out democracy](https://www.theguardian.com/world/live/2021/aug/19/afghanistan-live-news-taliban-kabul-us-troops-joe-biden-afghan-crisis-latest-updates)
-- [Record number of young people wait for eating disorder treatment in England](https://www.theguardian.com/society/2021/aug/18/record-number-of-young-people-wait-for-eating-disorder-treatment-in-england)
-- [More than 1,000 civilians have died in Myanmar unrest, say activists](https://www.theguardian.com/world/2021/aug/19/more-than-1000-civilians-have-died-in-myanmar-unrest-say-activists)
-- [Dementia risk lower for people in stimulating jobs, research suggests](https://www.theguardian.com/society/2021/aug/19/dementia-risk-lower-for-people-in-stimulating-jobs-research-suggests)
-- [Jabbed adults infected with Delta ‘can match virus levels of unvaccinated’](https://www.theguardian.com/world/2021/aug/19/jabbed-adults-infected-with-delta-can-match-virus-levels-of-unvaccinated)
-- [Meat-rich diet of 14th-century monks caused digestive issues, research finds](https://www.theguardian.com/culture/2021/aug/19/meat-rich-diet-of-13th-century-monks-caused-digestive-issues-research-finds)
-- [Cinderella review – not so much a ball as a blast](https://www.theguardian.com/stage/2021/aug/18/cinderella-review-not-so-much-a-ball-as-a-blast)
-- [Meng Wanzhou extradition case wraps up but verdict will take months](https://www.theguardian.com/world/2021/aug/18/meng-wanzhou-extradition-case-canada)
+- [A Paralympian’s long journey to Tokyo](https://www.theguardian.com/news/audio/2021/aug/20/a-paralympic-athletes-long-journey-to-tokyo-podcast)
+- [Sonny Chiba, martial arts master and Kill Bill star, dies aged 82](https://www.theguardian.com/film/2021/aug/19/sonny-chiba-martial-arts-master-and-kill-bill-star-dies-covid)
+- [California fire destroys mobile homes as 11,000 firefighters battle blazes](https://www.theguardian.com/world/2021/aug/19/lake-county-fire-california-mobile-home-park)
+- [Tiny New Zealand airport that tells Māori love story in running for global design award](https://www.theguardian.com/world/2021/aug/20/tiny-new-zealand-airport-maori-love-story-finalist-global-design-award-prix-versailles-new-plymouth)
+- [Former New Zealand cricketer Chris Cairns off life support after heart surgery](https://www.theguardian.com/sport/2021/aug/20/former-new-zealand-cricketer-chris-cairns-off-life-support-after-heart-surgery)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/aug/20/premier-league-10-things-to-look-out-for-this-weekend)
+- [Investigators seek clues after California family found dead on hiking trail](https://www.theguardian.com/us-news/2021/aug/19/california-family-found-dead-john-gerrish-ellen-chung-muji-dog)
+- [Joe Biden says he and first lady plan on getting Covid booster shot](https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot)
+- [‘We were very blessed’: in the Cook Islands, pandemic proved a welcome respite from tourists](https://www.theguardian.com/world/2021/aug/20/we-were-very-blessed-in-the-cook-islands-pandemic-proved-a-welcome-respite-from-tourists)
+- [‘Law and order collapsed’: Hong Kong artist Kacey Wong on finding freedom in Taiwan](https://www.theguardian.com/world/2021/aug/20/law-and-order-collapsed-hong-kong-artist-kacey-wong-on-finding-freedom-in-taiwan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

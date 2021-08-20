@@ -421,6 +421,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Motorola Solutions opens new network security operations centre in Canada](https://www.itworldcanada.com/article/motorola-solutions-opens-new-network-security-operations-centre-in-canada/457106)
+- [Hashtag Trending August 19- Apple and Corellium dispute; Crypto hacker gets job offer; Facebook tackles COVID-19 misinformation](https://www.itworldcanada.com/article/hashtag-trending-august-19-apple-and-corellium-dispute-crypto-hacker-gets-job-offer-facebook-tackles-covid-19-misinformation/457254)
 - [BlackBerry warns of vulnerability in QNX development platform, Medical and Safety versions of OS](https://www.itworldcanada.com/article/blackberry-warns-of-vulnerability-in-qnx-development-platform-medical-and-safety-versions-of-os/457224)
 - [Inclusive & flexible collaboration in hybrid new normal](https://www.itworldcanada.com/article/inclusive-flexible-collaboration-in-hybrid-new-normal/457242)
 - [North American bulk power providers reporting more cyber incidents, says NERC](https://www.itworldcanada.com/article/north-american-bulk-power-providers-reporting-more-cyber-incidents-says-nerc/457215)
@@ -429,8 +431,6 @@
 - [Montreal firm develops tech that allows customers to power their home using their electric car](https://www.itworldcanada.com/article/montreal-firm-develops-tech-that-allows-customers-to-power-their-home-using-their-electric-car/457162)
 - [Coffee Briefing, August 17, 2021 – Twitter’s UI rollback; Blue Orgin sues U.S. government; OneWeb’s new deal; and more](https://www.itworldcanada.com/article/coffee-briefing-august-17-2021-twitters-ui-rollback-blue-orgin-sues-u-s-government-onewebs-new-deal-and-more/457170)
 - [CIO Strategy Council launches Sustainable IT Pledge](https://www.itworldcanada.com/article/cio-strategy-council-launches-sustainable-it-pledge/457187)
-- [VentureLab HardTech Pitch Competition winners innovating amidst ongoing chip shortage](https://www.itworldcanada.com/article/venturelab-hardtech-pitch-competition-winners-innovating-amidst-ongoing-chip-shortage/457076)
-- [Hashtag Trending August 17- Android accessibility feature; Tesla’s Autopilot investigation; #BookTok](https://www.itworldcanada.com/article/hashtag-trending-august-17-android-accessibility-feature-teslas-autopilot-investigation-booktok/457159)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

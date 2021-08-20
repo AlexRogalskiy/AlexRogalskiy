@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Facebook promises immersive VR meetings with Horizon Workrooms](https://www.computerworld.com/article/3630408/facebook-promises-immersive-vr-meetings-with-horizon-workrooms.html#tk.rss_all)
+- [Apple shows its enterprise credentials with business accelerator choices](https://www.computerworld.com/article/3630095/apple-shows-its-enterprise-credentials-with-business-accelerator-choices.html#tk.rss_all)
+- [Pixel 5a and beyond: 2 big questions about Google's future Pixel plans](https://www.computerworld.com/article/3629505/pixel-5a-google-pixel-plans.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Windows Server deserts Microsoft's WaaS](https://www.computerworld.com/article/3630028/windows-server-deserts-microsofts-waas.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Adobe continues to prove the iPad is a powerful creative tool](https://www.computerworld.com/article/3629637/adobe-continues-to-prove-the-ipad-is-a-powerful-creative-tool.html#tk.rss_all)
 - [Salesforce unveils its first Slack integrations post-acquisition](https://www.computerworld.com/article/3629403/salesforce-unveils-its-first-slack-integrations-post-acquisition.html#tk.rss_all)
 - [How to protect your privacy in Windows 10](https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#tk.rss_all)
 - [Apple brings iCloud passwords to Windows, Microsoft's Edge](https://www.computerworld.com/article/3629310/apple-brings-icloud-passwords-to-windows-microsofts-edge.html#tk.rss_all)
-- [Pay people for what they’re worth, not for where they live](https://www.computerworld.com/article/3629471/pay-people-for-what-they-re-worth-not-for-where-they-live.html#tk.rss_all)
-- [From MDM to UEM in a decade: What we’ve learned about enterprise mobile management](https://www.computerworld.com/article/3627288/from-mdm-to-uem-in-a-decade-what-we-ve-learned-about-enterprise-mobile-management.html#tk.rss_all)
-- [Microsoft preps enterprises for 8-week 'Extended Stable' version of Edge](https://www.computerworld.com/article/3629442/microsoft-preps-enterprises-for-8-week-extended-stable-version-of-edge.html#tk.rss_all)
-- [11 questions for Windows users](https://www.computerworld.com/article/3629499/11-questions-for-windows-users.html#tk.rss_all)
-- [How to control your Android phone with your eyes](https://www.computerworld.com/article/3629498/android-phone-control-with-eyes.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

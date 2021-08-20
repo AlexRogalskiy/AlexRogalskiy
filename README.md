@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cryptodiagnosis of “Kryptos K4”](https://ecp.ep.liu.se/index.php/histocrypt/article/view/153)
-- [Stereo Recording with a Jecklin Disk](http://www.josephson.com/tn5.html)
-- [Congressman: Yes, We Did in Fact Lose Afghanistan Because of Big Tech](https://prestonbyrne.com/2021/08/18/congressman-yes-we-did-in-fact-lose-big-tech/)
-- [Like humans, cuttlefish can form complex memories](https://www.sciencemag.org/news/2021/08/humans-cuttlefish-can-form-complex-memories)
-- [Navalny Supporters Being Targeted](https://www.thetimes.co.uk/article/alexei-navalny-supporters-harassed-by-police-after-data-leak-37bwhhkp8)
-- [Breaking the Web Forward](https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html)
-- [Covid-19 vaccines may trigger superimmunity in people who had SARS long ago](https://www.sciencemag.org/news/2021/08/covid-19-vaccines-may-trigger-superimmunity-people-who-had-sars-long-ago)
-- [Moser Flow: Divergence-Based Generative Modeling on Manifolds](https://arxiv.org/abs/2108.08052)
-- [Current Theories of Obesity Are Inadequate](https://slimemoldtimemold.com/2021/07/11/a-chemical-hunger-part-ii-current-theories-of-obesity-are-inadequate/)
-- [‘Green steel’: Swedish company ships first batch made without using coal](https://www.theguardian.com/science/2021/aug/19/green-steel-swedish-company-ships-first-batch-made-without-using-coal)
+- [Iridium Satellite Constellation](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)
+- [High Durability Options for Compute Engine Workloads](https://cloud.google.com/blog/products/compute/high-durability-persistent-disk)
+- [Tesla Announces Humanoid Robot “Tesla Bot”](https://imgur.com/a/rAgFTiB)
+- [New York’s ‘Excelsior Pass’ App to Cost at Least $27M](https://www.nytimes.com/2021/08/19/nyregion/new-york-excelsior-pass-cost.html)
+- [Ask HN: Feedback on my no-mouse flowchart editor](https://news.ycombinator.com/item?id=28241631)
+- [Israeli Airstrike Targets Syria](https://www.jpost.com/breaking-news/alleged-israeli-airstrike-targets-syria-report-677236)
+- [People Who Draw Lines on Maps Are the Problem](https://dilanesper.substack.com/p/people-who-draw-lines-on-maps-are)
+- [Even highly educated study participants have difficulty with numeracy questions](https://pubmed.ncbi.nlm.nih.gov/11206945/)
+- [Writing Your First Firmware For PDS-8x1 Series using TurboC++ (2018) [pdf]](http://ftp.icpdas.com/pub/cd/8000cd/napdos/pds/pds-8x1/demo/PDS-8x1_Writing_First_Firmware_v1.1_en.pdf)
+- [Young Chinese creates self-driving bicycle in four months](https://www.youtube.com/watch?v=LXMYiizkL0A)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [CMA urges further scrutiny of Nvidia purchase of Arm](https://www.computerweekly.com/news/252505610/CMA-urges-further-scrutiny-of-Nvidia-purchase-of-Arm)
+- [Whole-system view of railways from Resonate on Redis offers progress](https://www.computerweekly.com/news/252505466/Whole-system-view-of-railways-from-Resonate-on-Redis-offers-progress)
+- [Facebook vows to replenish more water than it consumes across its global operations by 2030](https://www.computerweekly.com/news/252505607/Facebook-vows-to-replenish-more-water-than-it-consumes-across-its-global-operations-by-2030)
+- [Swedish IT industry braced for China’s response to Huawei 5G ban](https://www.computerweekly.com/news/252505600/Swedish-IT-industry-braced-for-Chinas-response-to-Huawei-5G-ban)
+- [How the pandemic transformed IAG’s Hangar 51 accelerator](https://www.computerweekly.com/news/252505590/How-the-pandemic-transformed-IAGs-Hangar-51-accelerator)
+- [Security Think Tank: Data privacy not in isolation, but on a spectrum](https://www.computerweekly.com/opinion/Security-Think-Tank-Data-privacy-not-in-isolation-but-on-a-spectrum)
 - [HPE-Microsoft supercomputing collaboration on ISS speeds research into space travel health impacts](https://www.computerweekly.com/news/252505573/HPE-Microsoft-supercomputing-collaboration-on-ISS-speeds-research-into-space-travel-health-impacts)
 - [Inside Estonia’s tech startup scene](https://www.computerweekly.com/news/252505564/Inside-Estonias-tech-startup-scene)
 - [Pub apps harvesting swathes of customer data unnecessarily](https://www.computerweekly.com/news/252505576/Pub-apps-harvesting-swathes-of-customer-data-unnecessarily)
 - [IT leaders fear ‘trickle-down’ of nation-state cyber attacks](https://www.computerweekly.com/news/252505571/IT-leaders-fear-trickle-down-of-nation-state-cyber-attacks)
-- [How Bet365 worked around Apple’s iOS App Store policy changes](https://www.computerweekly.com/news/252505342/How-bet365-worked-around-Apples-iOS-App-Store-policy-changes)
-- [Challenger banks make reputational gains in business banking](https://www.computerweekly.com/news/252505465/Challenger-banks-make-reputational-gains-in-business-banking)
-- [UK government criticised for proposed facial-recognition guidance](https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance)
-- [MoD seeks security tech to harden military systems](https://www.computerweekly.com/news/252505462/MoD-seeks-security-tech-to-harden-military-systems)
-- [A digital twin for farming](https://www.computerweekly.com/news/252505460/A-digital-twin-for-farming)
-- [Thames Valley Police drops ERP system after spending £14m](https://www.computerweekly.com/news/252505459/Thames-Valley-Police-drop-ERP-system-after-spending-over-14mn)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

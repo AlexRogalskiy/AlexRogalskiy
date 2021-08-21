@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for August 20, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-august-20-2021/457258)
+- [Ontario’s Hydro One Telecom offers DDoS protection to enterprise customers](https://www.itworldcanada.com/article/ontarios-hydro-one-telecom-offers-ddos-protection-to-enterprise-customers/457279)
+- [Videotron waives long-distance charges for calls to Haiti and Afghanistan](https://www.itworldcanada.com/article/videotron-waives-long-distance-charges-for-calls-to-haiti-and-afghanistan/457310)
+- [Cyber Security Today, Aug. 20, 2021 -Employees lured to plant ransomware, warning from Cisco and how a U.S. government department was hacked](https://www.itworldcanada.com/article/cyber-security-today-aug-20-2021-employees-lured-to-plant-ransomware-warning-from-cisco-and-how-a-u-s-government-department-was-hacked/457288)
+- [Hashtag Trending August 20 – Netflix engineers inside trading; LG 6G; Amazon’s retail stores](https://www.itworldcanada.com/article/hashtag-trending-august-20-netflix-engineers-inside-trading-lg-6g-amazons-retail-stores/457285)
 - [Motorola Solutions opens new network security operations centre in Canada](https://www.itworldcanada.com/article/motorola-solutions-opens-new-network-security-operations-centre-in-canada/457106)
 - [Hashtag Trending August 19- Apple and Corellium dispute; Crypto hacker gets job offer; Facebook tackles COVID-19 misinformation](https://www.itworldcanada.com/article/hashtag-trending-august-19-apple-and-corellium-dispute-crypto-hacker-gets-job-offer-facebook-tackles-covid-19-misinformation/457254)
 - [BlackBerry warns of vulnerability in QNX development platform, Medical and Safety versions of OS](https://www.itworldcanada.com/article/blackberry-warns-of-vulnerability-in-qnx-development-platform-medical-and-safety-versions-of-os/457224)
 - [Inclusive & flexible collaboration in hybrid new normal](https://www.itworldcanada.com/article/inclusive-flexible-collaboration-in-hybrid-new-normal/457242)
 - [North American bulk power providers reporting more cyber incidents, says NERC](https://www.itworldcanada.com/article/north-american-bulk-power-providers-reporting-more-cyber-incidents-says-nerc/457215)
-- [Cyber Security Today, Aug. 18, 2021 – U.S. terrorist watchlist found, T-Mobile hacked and troublesome SDKs](https://www.itworldcanada.com/article/cyber-security-today-aug-18-2021-u-s-terrorist-watchlist-found-t-mobile-hacked-and-troublesome-sdks/457212)
-- [Hashtag Trending August 18 – Facebook firm on Taliban ban; Big Tech litigation spiking; T-Mobile breaches merger agreement](https://www.itworldcanada.com/article/hashtag-trending-august-18-facebook-firm-on-taliban-ban-big-tech-litigation-spiking-t-mobile-breaches-merger-agreement/457207)
-- [Montreal firm develops tech that allows customers to power their home using their electric car](https://www.itworldcanada.com/article/montreal-firm-develops-tech-that-allows-customers-to-power-their-home-using-their-electric-car/457162)
-- [Coffee Briefing, August 17, 2021 – Twitter’s UI rollback; Blue Orgin sues U.S. government; OneWeb’s new deal; and more](https://www.itworldcanada.com/article/coffee-briefing-august-17-2021-twitters-ui-rollback-blue-orgin-sues-u-s-government-onewebs-new-deal-and-more/457170)
-- [CIO Strategy Council launches Sustainable IT Pledge](https://www.itworldcanada.com/article/cio-strategy-council-launches-sustainable-it-pledge/457187)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

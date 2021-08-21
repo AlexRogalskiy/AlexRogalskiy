@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A Paralympian’s long journey to Tokyo](https://www.theguardian.com/news/audio/2021/aug/20/a-paralympic-athletes-long-journey-to-tokyo-podcast)
-- [Sonny Chiba, martial arts master and Kill Bill star, dies aged 82](https://www.theguardian.com/film/2021/aug/19/sonny-chiba-martial-arts-master-and-kill-bill-star-dies-covid)
-- [California fire destroys mobile homes as 11,000 firefighters battle blazes](https://www.theguardian.com/world/2021/aug/19/lake-county-fire-california-mobile-home-park)
-- [Tiny New Zealand airport that tells Māori love story in running for global design award](https://www.theguardian.com/world/2021/aug/20/tiny-new-zealand-airport-maori-love-story-finalist-global-design-award-prix-versailles-new-plymouth)
-- [Former New Zealand cricketer Chris Cairns off life support after heart surgery](https://www.theguardian.com/sport/2021/aug/20/former-new-zealand-cricketer-chris-cairns-off-life-support-after-heart-surgery)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/aug/20/premier-league-10-things-to-look-out-for-this-weekend)
-- [Investigators seek clues after California family found dead on hiking trail](https://www.theguardian.com/us-news/2021/aug/19/california-family-found-dead-john-gerrish-ellen-chung-muji-dog)
-- [Joe Biden says he and first lady plan on getting Covid booster shot](https://www.theguardian.com/us-news/2021/aug/19/joe-biden-jill-biden-covid-booster-shot)
-- [‘We were very blessed’: in the Cook Islands, pandemic proved a welcome respite from tourists](https://www.theguardian.com/world/2021/aug/20/we-were-very-blessed-in-the-cook-islands-pandemic-proved-a-welcome-respite-from-tourists)
-- [‘Law and order collapsed’: Hong Kong artist Kacey Wong on finding freedom in Taiwan](https://www.theguardian.com/world/2021/aug/20/law-and-order-collapsed-hong-kong-artist-kacey-wong-on-finding-freedom-in-taiwan)
+- [Afghanistan refugees: how many are being evacuated and where will they go?](https://www.theguardian.com/world/2021/aug/20/afghanistan-refugees-evacuation-q-and-a)
+- [New England braces for first hurricane in 30 years as Henri barrels toward coast](https://www.theguardian.com/us-news/2021/aug/20/tropical-storm-henri-hurricane-new-england-weather)
+- [Talking Horses: Ilaraab can excel in Ebor of bewildering possibilities](https://www.theguardian.com/sport/2021/aug/20/frankie-dettori-brings-stradivarius-to-concert-pitch-for-thrilling-lonsdale-stakes-victory-york-horse-racing-tips-)
+- [The Song Project review – a mixed bag of theatrical ballads](https://www.theguardian.com/stage/2021/aug/21/the-song-project-review-royal-court-london)
+- [Wigan lose their cool as Grace and Dodd inspire St Helens to emphatic derby win](https://www.theguardian.com/sport/2021/aug/20/wigan-st-helens-super-league-match-report)
+- [Kevin De Bruyne’s fitness becoming constant concern for Manchester City](https://www.theguardian.com/football/2021/aug/20/kevin-de-bruynes-fitness-becoming-constant-concern-for-manchester-city)
+- [Jürgen Klopp involved in talks over new contract for Mohamed Salah](https://www.theguardian.com/football/2021/aug/20/jurgen-klopp-involved-in-talks-over-new-contract-for-mohamed-salah)
+- [James Vince leads from front as Brave breeze past Rockets into Hundred final](https://www.theguardian.com/sport/2021/aug/20/james-vince-leads-from-front-as-brave-breeze-past-rockets-and-into-final)
+- [US omits Macron’s plea for ‘moral responsibility’ from record of Afghanistan call](https://www.theguardian.com/world/2021/aug/20/afghanistan-macron-biden-moral-responsibility-evacuate-allies)
+- [Anti-vaxxers and Covid conspiracists may seem wackier – but pandemic protest isn’t new | Jason Wilson](https://www.theguardian.com/commentisfree/2021/aug/21/anti-vaxxers-and-covid-conspiracists-may-seem-wackier-but-pandemic-protest-isnt-new)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

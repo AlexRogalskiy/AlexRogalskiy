@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Iridium Satellite Constellation](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)
-- [High Durability Options for Compute Engine Workloads](https://cloud.google.com/blog/products/compute/high-durability-persistent-disk)
-- [Tesla Announces Humanoid Robot “Tesla Bot”](https://imgur.com/a/rAgFTiB)
-- [New York’s ‘Excelsior Pass’ App to Cost at Least $27M](https://www.nytimes.com/2021/08/19/nyregion/new-york-excelsior-pass-cost.html)
-- [Ask HN: Feedback on my no-mouse flowchart editor](https://news.ycombinator.com/item?id=28241631)
-- [Israeli Airstrike Targets Syria](https://www.jpost.com/breaking-news/alleged-israeli-airstrike-targets-syria-report-677236)
-- [People Who Draw Lines on Maps Are the Problem](https://dilanesper.substack.com/p/people-who-draw-lines-on-maps-are)
-- [Even highly educated study participants have difficulty with numeracy questions](https://pubmed.ncbi.nlm.nih.gov/11206945/)
-- [Writing Your First Firmware For PDS-8x1 Series using TurboC++ (2018) [pdf]](http://ftp.icpdas.com/pub/cd/8000cd/napdos/pds/pds-8x1/demo/PDS-8x1_Writing_First_Firmware_v1.1_en.pdf)
-- [Young Chinese creates self-driving bicycle in four months](https://www.youtube.com/watch?v=LXMYiizkL0A)
+- [The Power of Product Thinking – Future](https://future.a16z.com/product-thinking/)
+- [Setting new expectations for open source maintainers](https://opensource.com/article/21/8/open-source-maintainers)
+- [Scientists Grew Stem Cell 'Mini Brains'. Then, the Brains Sort-Of Developed Eyes](https://www.sciencealert.com/scientists-used-stem-cells-to-make-mini-brains-they-grew-rudimentary-eyes)
+- [Mississippi officials warn against using livestock ivermectin](https://abcnews.go.com/US/mississippi-officials-warn-livestock-ivermectin-prevent-covid-19/story?id=79569021)
+- [Quebec to bar unvaccinated people from non-essential public places](https://www.theglobeandmail.com/canada/article-quebec-unveils-more-details-of-vaccination-passport-as-ontario-says-it/)
+- [Incident writeup as sociological storytelling – Surfing Complexity](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
+- [To see what’s going on, it helps to get close](https://www.nytimes.com/interactive/2021/arts/close-read.html)
+- [Bernstein v. United States](https://en.wikipedia.org/wiki/Bernstein_v._United_States)
+- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
+- [My Leadership Document – 2021 Edition](https://m.subbu.org/my-leadership-document-2021-edition-132aec22fc0e)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple has a lot to get through this fall](https://www.computerworld.com/article/3630430/apple-iphone-mac-ipad-watch-upgrades-fall.html#tk.rss_all)
+- [The Windows print nightmare continues for the enterprise](https://www.computerworld.com/article/3630629/windows-print-nightmare-continues-enterprise.html#tk.rss_all)
+- [The best person to manage your organization’s data may be you](https://www.computerworld.com/article/3630092/the-best-person-to-manage-your-organization-s-data-may-be-you.html#tk.rss_all)
+- [Rethinking the smartphone for collaboration — or the PC for voice](https://www.computerworld.com/article/3630448/rethinking-the-smartphone-for-collaboration-or-the-pc-for-voice.html#tk.rss_all)
 - [Facebook promises immersive VR meetings with Horizon Workrooms](https://www.computerworld.com/article/3630408/facebook-promises-immersive-vr-meetings-with-horizon-workrooms.html#tk.rss_all)
 - [Apple shows its enterprise credentials with business accelerator choices](https://www.computerworld.com/article/3630095/apple-shows-its-enterprise-credentials-with-business-accelerator-choices.html#tk.rss_all)
 - [Pixel 5a and beyond: 2 big questions about Google's future Pixel plans](https://www.computerworld.com/article/3629505/pixel-5a-google-pixel-plans.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Windows Server deserts Microsoft's WaaS](https://www.computerworld.com/article/3630028/windows-server-deserts-microsofts-waas.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Adobe continues to prove the iPad is a powerful creative tool](https://www.computerworld.com/article/3629637/adobe-continues-to-prove-the-ipad-is-a-powerful-creative-tool.html#tk.rss_all)
-- [Salesforce unveils its first Slack integrations post-acquisition](https://www.computerworld.com/article/3629403/salesforce-unveils-its-first-slack-integrations-post-acquisition.html#tk.rss_all)
-- [How to protect your privacy in Windows 10](https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#tk.rss_all)
-- [Apple brings iCloud passwords to Windows, Microsoft's Edge](https://www.computerworld.com/article/3629310/apple-brings-icloud-passwords-to-windows-microsofts-edge.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

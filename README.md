@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
-- [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
-- [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
-- [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
-- [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
-- [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
-- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [Fructose in diet expands the surface of the gut and promotes nutrient absorption](https://www.nature.com/articles/d41586-021-02195-1)
-- [Japanese gaming arcades are on their last life](https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/)
-- [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
+- [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
+- [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
+- [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
+- [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
+- [The Secret Lives of Mosquitoes, the World’s Most Hated Insects](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/)
+- [14M ton of carbon offset forest is burning in California](https://twitter.com/BodieCabiyo/status/1427683107788845056)
+- [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+- [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
+- [FFmpeg for browser and Node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
+- [View your browser's TLS fingerprint](https://tlsfingerprint.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

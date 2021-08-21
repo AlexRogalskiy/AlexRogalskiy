@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
+- [‘Why cloud computing?’ is always a good question](https://www.infoworld.com/article/3630110/why-cloud-computing-is-always-a-good-question.html#tk.rss_all)
 - [Microsoft details .NET 6 performance boosts](https://www.infoworld.com/article/3630089/microsoft-details-net-6-performance-boosts.html#tk.rss_all)
 - [How to use string interpolation in C# 9](https://www.infoworld.com/article/3630088/how-to-use-string-interpolation-in-csharp-9.html#tk.rss_all)
 - [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Go 1.17 brings language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-brings-language-and-compiler-enhancements.html#tk.rss_all)
 - [Visual Studio Code previews ML-based language detection](https://www.infoworld.com/article/3629315/visual-studio-code-previews-ml-based-language-detection.html#tk.rss_all)
 - ['Spreading the risk' using multicloud](https://www.infoworld.com/article/3629497/spreading-the-risk-using-multicloud.html#tk.rss_all)
-- [When RPA meets data science](https://www.infoworld.com/article/3628242/when-rpa-meets-data-science.html#tk.rss_all)
-- [What is cloud-native? The modern way to develop software](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

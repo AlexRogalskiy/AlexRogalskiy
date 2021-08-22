@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains’ Go language IDE prepares for generics](https://www.infoworld.com/article/3630389/jetbrains-go-language-ide-prepares-for-generics.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [‘Why cloud computing?’ is always a good question](https://www.infoworld.com/article/3630110/why-cloud-computing-is-always-a-good-question.html#tk.rss_all)
 - [Microsoft details .NET 6 performance boosts](https://www.infoworld.com/article/3630089/microsoft-details-net-6-performance-boosts.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Build mixed reality for Microsoft Edge with WebXR](https://www.infoworld.com/article/3629401/build-mixed-reality-for-microsoft-edge-with-webxr.html#tk.rss_all)
 - [Go 1.17 brings language and compiler enhancements](https://www.infoworld.com/article/3621696/go-117-brings-language-and-compiler-enhancements.html#tk.rss_all)
 - [Visual Studio Code previews ML-based language detection](https://www.infoworld.com/article/3629315/visual-studio-code-previews-ml-based-language-detection.html#tk.rss_all)
-- ['Spreading the risk' using multicloud](https://www.infoworld.com/article/3629497/spreading-the-risk-using-multicloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

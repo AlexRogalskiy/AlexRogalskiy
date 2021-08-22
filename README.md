@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan refugees: how many are being evacuated and where will they go?](https://www.theguardian.com/world/2021/aug/20/afghanistan-refugees-evacuation-q-and-a)
-- [New England braces for first hurricane in 30 years as Henri barrels toward coast](https://www.theguardian.com/us-news/2021/aug/20/tropical-storm-henri-hurricane-new-england-weather)
-- [Talking Horses: Ilaraab can excel in Ebor of bewildering possibilities](https://www.theguardian.com/sport/2021/aug/20/frankie-dettori-brings-stradivarius-to-concert-pitch-for-thrilling-lonsdale-stakes-victory-york-horse-racing-tips-)
-- [The Song Project review – a mixed bag of theatrical ballads](https://www.theguardian.com/stage/2021/aug/21/the-song-project-review-royal-court-london)
-- [Wigan lose their cool as Grace and Dodd inspire St Helens to emphatic derby win](https://www.theguardian.com/sport/2021/aug/20/wigan-st-helens-super-league-match-report)
-- [Kevin De Bruyne’s fitness becoming constant concern for Manchester City](https://www.theguardian.com/football/2021/aug/20/kevin-de-bruynes-fitness-becoming-constant-concern-for-manchester-city)
-- [Jürgen Klopp involved in talks over new contract for Mohamed Salah](https://www.theguardian.com/football/2021/aug/20/jurgen-klopp-involved-in-talks-over-new-contract-for-mohamed-salah)
-- [James Vince leads from front as Brave breeze past Rockets into Hundred final](https://www.theguardian.com/sport/2021/aug/20/james-vince-leads-from-front-as-brave-breeze-past-rockets-and-into-final)
-- [US omits Macron’s plea for ‘moral responsibility’ from record of Afghanistan call](https://www.theguardian.com/world/2021/aug/20/afghanistan-macron-biden-moral-responsibility-evacuate-allies)
-- [Anti-vaxxers and Covid conspiracists may seem wackier – but pandemic protest isn’t new | Jason Wilson](https://www.theguardian.com/commentisfree/2021/aug/21/anti-vaxxers-and-covid-conspiracists-may-seem-wackier-but-pandemic-protest-isnt-new)
+- [Rev Jesse Jackson in hospital with Covid-19](https://www.theguardian.com/us-news/2021/aug/22/rev-jesse-jackson-in-hospital-with-covid-19)
+- [Liverpool great Terry McDermott diagnosed with dementia](https://www.theguardian.com/football/2021/aug/22/liverpool-great-terry-mcdermott-diagnosed-with-dementia)
+- [Banking chiefs head for the hills in bid to leave cheap money behind](https://www.theguardian.com/business/2021/aug/22/banking-chiefs-head-for-the-hills-in-bid-to-leave-cheap-money-behind)
+- [Button up: 20 of the best polo shirts for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/21/button-up-20-of-the-best-polo-shirts-for-men-in-pictures)
+- [Top coats: 10 of the best lightweight jackets for rain or shine](https://www.theguardian.com/fashion/gallery/2021/aug/21/top-coats-10-of-the-best-lightweight-jackets-for-rain-or-shine)
+- [Israeli aircraft strike Hamas sites in Gaza as hostilities escalate](https://www.theguardian.com/world/2021/aug/21/24-wounded-as-israel-fires-on-palestinian-border-demonstrators)
+- [Afghans face catastrophe without urgent aid, UN warns](https://www.theguardian.com/world/2021/aug/21/afghans-face-catastrophe-without-urgent-aid-un-warns)
+- [Jorginho’s golden touch makes him invaluable presence in Chelsea revival | Jacob Steinberg](https://www.theguardian.com/football/2021/aug/21/jorginhos-golden-touch-makes-him-invaluable-presence-in-chelsea-revival)
+- [Opposing fans should respect ‘brave’ Sancho and Rashford, argues Solskjær](https://www.theguardian.com/football/2021/aug/21/opposing-fans-should-respect-brave-sancho-and-rashford-argues-solskjr)
+- [Caldor fire: crews prepare for high winds that could fan northern California blaze](https://www.theguardian.com/us-news/2021/aug/21/caldor-fire-california-winds-sierra-nevada)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

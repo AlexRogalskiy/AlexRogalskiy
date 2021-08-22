@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
-- [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
-- [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
-- [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
-- [The Secret Lives of Mosquitoes, the World’s Most Hated Insects](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/)
-- [14M ton of carbon offset forest is burning in California](https://twitter.com/BodieCabiyo/status/1427683107788845056)
-- [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
-- [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
-- [FFmpeg for browser and Node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
-- [View your browser's TLS fingerprint](https://tlsfingerprint.io/)
+- [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
+- [Pyret Programming Language](http://pyret.org/index.html)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-alpha/index.html)
+- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.dailymail.co.uk/news/article-9912999/FAA-audio-reveals-police-helicopters-100mph-chase-sophisticated-drone.html)
+- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
+- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
+- [Don’t starve, Diablo – Parallax 7 (2016)](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

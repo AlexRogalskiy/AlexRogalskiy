@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Power of Product Thinking – Future](https://future.a16z.com/product-thinking/)
-- [Setting new expectations for open source maintainers](https://opensource.com/article/21/8/open-source-maintainers)
-- [Scientists Grew Stem Cell 'Mini Brains'. Then, the Brains Sort-Of Developed Eyes](https://www.sciencealert.com/scientists-used-stem-cells-to-make-mini-brains-they-grew-rudimentary-eyes)
-- [Mississippi officials warn against using livestock ivermectin](https://abcnews.go.com/US/mississippi-officials-warn-livestock-ivermectin-prevent-covid-19/story?id=79569021)
-- [Quebec to bar unvaccinated people from non-essential public places](https://www.theglobeandmail.com/canada/article-quebec-unveils-more-details-of-vaccination-passport-as-ontario-says-it/)
-- [Incident writeup as sociological storytelling – Surfing Complexity](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
-- [To see what’s going on, it helps to get close](https://www.nytimes.com/interactive/2021/arts/close-read.html)
-- [Bernstein v. United States](https://en.wikipedia.org/wiki/Bernstein_v._United_States)
-- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
-- [My Leadership Document – 2021 Edition](https://m.subbu.org/my-leadership-document-2021-edition-132aec22fc0e)
+- [Apple devices still hitting metrics.icloud.com](https://imgur.com/rGyO0X2)
+- [How to read books by treating them as small bets](https://twitter.com/asimjalis/status/1429265703689809921)
+- [Apple and Google ordered by Russia to take down app of Putin's biggest opponent](https://www.businessinsider.com/russia-media-authority-orders-apple-google-take-down-navalny-app-2021-8)
+- [$500 for beta testers of a developer-first encryption platform](https://news.ycombinator.com/item?id=28262279)
+- [Colorado River's shortage is a sign of a larger crisis](https://edition.cnn.com/interactive/2021/08/us/colorado-river-water-shortage/)
+- [Now that machines can learn, can they unlearn?](https://arstechnica.com/information-technology/2021/08/now-that-machines-can-learn-can-they-unlearn/)
+- [Firefox Accessibility Service Memory Leak](https://bugzilla.mozilla.org/show_bug.cgi?id=1726887)
+- [It became common in the 18th century to speak of ‘English credulity’](https://www.spectator.co.uk/article/are-the-english-exceptionally-gullible-)
+- [Surging Delta Cases Reverses the March Back to the Office](https://www.bloomberg.com/graphics/2021-return-to-office/)
+- [Just how far can you travel by bus from London in 24 hours?](https://twitter.com/politic_animal/status/1428438081871433731)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

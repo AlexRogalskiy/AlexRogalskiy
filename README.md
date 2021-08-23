@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple devices still hitting metrics.icloud.com](https://imgur.com/rGyO0X2)
-- [How to read books by treating them as small bets](https://twitter.com/asimjalis/status/1429265703689809921)
-- [Apple and Google ordered by Russia to take down app of Putin's biggest opponent](https://www.businessinsider.com/russia-media-authority-orders-apple-google-take-down-navalny-app-2021-8)
-- [$500 for beta testers of a developer-first encryption platform](https://news.ycombinator.com/item?id=28262279)
-- [Colorado River's shortage is a sign of a larger crisis](https://edition.cnn.com/interactive/2021/08/us/colorado-river-water-shortage/)
-- [Now that machines can learn, can they unlearn?](https://arstechnica.com/information-technology/2021/08/now-that-machines-can-learn-can-they-unlearn/)
-- [Firefox Accessibility Service Memory Leak](https://bugzilla.mozilla.org/show_bug.cgi?id=1726887)
-- [It became common in the 18th century to speak of ‘English credulity’](https://www.spectator.co.uk/article/are-the-english-exceptionally-gullible-)
-- [Surging Delta Cases Reverses the March Back to the Office](https://www.bloomberg.com/graphics/2021-return-to-office/)
-- [Just how far can you travel by bus from London in 24 hours?](https://twitter.com/politic_animal/status/1428438081871433731)
+- [The big tech quest to find the metals needed for the energy overhaul](https://www.technologyreview.com/2021/08/11/1031539/the-big-tech-quest-to-find-the-metals-needed-for-the-energy-overhaul/)
+- [Open Redirect Vulnerability in Substack](https://wwws.nightwatchcybersecurity.com/2021/08/22/open-redirect-vulnerability-in-substack/)
+- [Don’t overthink it: Elon Musk’s Tesla Bot is a joke](https://www.theverge.com/2021/8/20/22633958/tesla-bot-elon-musk-ai-day)
+- [Bill Maher declares Apple CSAM tools a 'blatant constitutional breach'](https://appleinsider.com/articles/21/08/21/bill-maher-declares-apple-csam-tools-a-blatant-constitutional-breach)
+- [Kindle Special Offers no longer show ads on the home screen](https://goodereader.com/blog/kindle/kindle-special-offers-no-longer-show-ads-on-the-home-screen)
+- [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
+- [The best code is no code (2019)](https://letterstoanewdeveloper.com/2019/04/01/the-best-code-is-no-code/)
+- [How to cope with less autonomy in the office](https://www.bbc.com/worklife/article/20210819-how-to-cope-with-less-autonomy-in-the-office)
+- [Setting new expectations for open source maintainers](https://opensource.com/article/21/8/open-source-maintainers)
+- [Covid-19 Vaccination-Associated Myocarditis in Adolescents (PDF; Aug 22)](https://pediatrics.aappublications.org/content/pediatrics/early/2021/08/12/peds.2021-053427.full.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rev Jesse Jackson in hospital with Covid-19](https://www.theguardian.com/us-news/2021/aug/22/rev-jesse-jackson-in-hospital-with-covid-19)
-- [Liverpool great Terry McDermott diagnosed with dementia](https://www.theguardian.com/football/2021/aug/22/liverpool-great-terry-mcdermott-diagnosed-with-dementia)
-- [Banking chiefs head for the hills in bid to leave cheap money behind](https://www.theguardian.com/business/2021/aug/22/banking-chiefs-head-for-the-hills-in-bid-to-leave-cheap-money-behind)
-- [Button up: 20 of the best polo shirts for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/21/button-up-20-of-the-best-polo-shirts-for-men-in-pictures)
-- [Top coats: 10 of the best lightweight jackets for rain or shine](https://www.theguardian.com/fashion/gallery/2021/aug/21/top-coats-10-of-the-best-lightweight-jackets-for-rain-or-shine)
-- [Israeli aircraft strike Hamas sites in Gaza as hostilities escalate](https://www.theguardian.com/world/2021/aug/21/24-wounded-as-israel-fires-on-palestinian-border-demonstrators)
-- [Afghans face catastrophe without urgent aid, UN warns](https://www.theguardian.com/world/2021/aug/21/afghans-face-catastrophe-without-urgent-aid-un-warns)
-- [Jorginho’s golden touch makes him invaluable presence in Chelsea revival | Jacob Steinberg](https://www.theguardian.com/football/2021/aug/21/jorginhos-golden-touch-makes-him-invaluable-presence-in-chelsea-revival)
-- [Opposing fans should respect ‘brave’ Sancho and Rashford, argues Solskjær](https://www.theguardian.com/football/2021/aug/21/opposing-fans-should-respect-brave-sancho-and-rashford-argues-solskjr)
-- [Caldor fire: crews prepare for high winds that could fan northern California blaze](https://www.theguardian.com/us-news/2021/aug/21/caldor-fire-california-winds-sierra-nevada)
+- [Revisited: why has the Brazilian butt lift become so popular? – podcast](https://www.theguardian.com/news/audio/2021/aug/23/revisited-why-has-the-brazilian-butt-lift-become-so-popular-podcast)
+- [‘Big questions’: New Zealand Covid minister raises doubts about elimination strategy](https://www.theguardian.com/world/2021/aug/23/big-questions-new-zealand-covid-minister-raises-doubts-about-elimination-strategy)
+- [‘Cowboy’ providers could lose approval to sell PCR travel tests](https://www.theguardian.com/world/2021/aug/23/cowboy-providers-could-lose-approval-to-sell-pcr-travel-tests)
+- [Ruthless Ash Barty turns focus to US Open after winning fifth title of year](https://www.theguardian.com/sport/2021/aug/23/ruthless-ash-barty-turns-focus-to-us-open-after-winning-fifth-title-of-year)
+- [Marseille players refuse to return to pitch after clashing with Nice fans](https://www.theguardian.com/football/2021/aug/22/nice-v-marseille-suspended-after-players-and-fans-clash-on-pitch)
+- [Tennessee floods death toll rises to 22 as Biden offers help](https://www.theguardian.com/us-news/2021/aug/22/tennessee-floods-death-toll-22-biden-waverly-record-rainfall)
+- [Celtic condemn ‘sickening’ racist abuse of Kyogo Furuhashi by Rangers fans](https://www.theguardian.com/football/2021/aug/22/celtic-condemn-sickening-racist-abuse-of-kyogo-furuhashi-by-rangers-fans)
+- [Johnson to urge Biden to keep US troops at Kabul airport after 31 August](https://www.theguardian.com/world/2021/aug/22/johnson-to-urge-biden-to-keep-us-troops-at-kabul-airport-after-31-august)
+- [Labour to pledge shake-up of universal credit as part of wider ‘new deal’](https://www.theguardian.com/society/2021/aug/22/labour-to-pledge-shake-up-of-universal-credit-as-part-of-wider-new-deal)
+- [Henri makes landfall in Rhode Island, packing high winds and heavy rain](https://www.theguardian.com/world/2021/aug/22/flooding-in-new-york-as-hurricane-henri-approaches-north-east-coast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
-- [Pyret Programming Language](http://pyret.org/index.html)
-- [A Data-Centric Introduction to Computing](https://dcic-world.org/2021-alpha/index.html)
-- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.dailymail.co.uk/news/article-9912999/FAA-audio-reveals-police-helicopters-100mph-chase-sophisticated-drone.html)
-- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
-- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
-- [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
-- [Don’t starve, Diablo – Parallax 7 (2016)](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
+- [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
+- [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
+- [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
+- [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
+- [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
+- [Countering climate change with cool pavements](https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822)
+- [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
+- [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
+- [Bigger vehicles are directly resulting in more deaths of people walking](https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/)
+- [The Real-Life Inspiration Behind “Mr. Toad”](https://lithub.com/meet-the-real-life-inspiration-behind-mr-toad/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

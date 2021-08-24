@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The big tech quest to find the metals needed for the energy overhaul](https://www.technologyreview.com/2021/08/11/1031539/the-big-tech-quest-to-find-the-metals-needed-for-the-energy-overhaul/)
-- [Open Redirect Vulnerability in Substack](https://wwws.nightwatchcybersecurity.com/2021/08/22/open-redirect-vulnerability-in-substack/)
-- [Don’t overthink it: Elon Musk’s Tesla Bot is a joke](https://www.theverge.com/2021/8/20/22633958/tesla-bot-elon-musk-ai-day)
-- [Bill Maher declares Apple CSAM tools a 'blatant constitutional breach'](https://appleinsider.com/articles/21/08/21/bill-maher-declares-apple-csam-tools-a-blatant-constitutional-breach)
-- [Kindle Special Offers no longer show ads on the home screen](https://goodereader.com/blog/kindle/kindle-special-offers-no-longer-show-ads-on-the-home-screen)
-- [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
-- [The best code is no code (2019)](https://letterstoanewdeveloper.com/2019/04/01/the-best-code-is-no-code/)
-- [How to cope with less autonomy in the office](https://www.bbc.com/worklife/article/20210819-how-to-cope-with-less-autonomy-in-the-office)
-- [Setting new expectations for open source maintainers](https://opensource.com/article/21/8/open-source-maintainers)
-- [Covid-19 Vaccination-Associated Myocarditis in Adolescents (PDF; Aug 22)](https://pediatrics.aappublications.org/content/pediatrics/early/2021/08/12/peds.2021-053427.full.pdf)
+- [The Early History of Unix the Forgotten History of Early Unix [video]](https://www.youtube.com/watch?v=XuzeagzQwRs)
+- [The Islands with Too Much Power [video]](https://www.youtube.com/watch?v=8UmsfXWzvEA)
+- [Army to field laser-equipped Stryker prototypes in FY 2022](https://www.army.mil/article/249549/army_to_field_laser_equipped_stryker_prototypes_in_fy_2022)
+- [Unix and Linux Books Humble Bundle](https://www.humblebundle.com/books/unix-linux-books)
+- [Reporter's fiery interview with Taliban leader after Afghanistan devastation](https://www.youtube.com/watch?v=szhmN51eqdU)
+- [Ebeye Island](https://en.wikipedia.org/wiki/Ebeye_Island)
+- [Gobby](https://gobby.github.io/)
+- [Exposing fraud and deception in the retro video game market [video]](https://www.youtube.com/watch?v=rvLFEh7V18A)
+- [Reversing ocean acidification with aggressive CO2 removal will take 700+ years](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
+- [I made a site that lets you work through startup interview questions](https://yourstartupinterview.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

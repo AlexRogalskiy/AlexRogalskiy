@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Revisited: why has the Brazilian butt lift become so popular? – podcast](https://www.theguardian.com/news/audio/2021/aug/23/revisited-why-has-the-brazilian-butt-lift-become-so-popular-podcast)
-- [‘Big questions’: New Zealand Covid minister raises doubts about elimination strategy](https://www.theguardian.com/world/2021/aug/23/big-questions-new-zealand-covid-minister-raises-doubts-about-elimination-strategy)
-- [‘Cowboy’ providers could lose approval to sell PCR travel tests](https://www.theguardian.com/world/2021/aug/23/cowboy-providers-could-lose-approval-to-sell-pcr-travel-tests)
-- [Ruthless Ash Barty turns focus to US Open after winning fifth title of year](https://www.theguardian.com/sport/2021/aug/23/ruthless-ash-barty-turns-focus-to-us-open-after-winning-fifth-title-of-year)
-- [Marseille players refuse to return to pitch after clashing with Nice fans](https://www.theguardian.com/football/2021/aug/22/nice-v-marseille-suspended-after-players-and-fans-clash-on-pitch)
-- [Tennessee floods death toll rises to 22 as Biden offers help](https://www.theguardian.com/us-news/2021/aug/22/tennessee-floods-death-toll-22-biden-waverly-record-rainfall)
-- [Celtic condemn ‘sickening’ racist abuse of Kyogo Furuhashi by Rangers fans](https://www.theguardian.com/football/2021/aug/22/celtic-condemn-sickening-racist-abuse-of-kyogo-furuhashi-by-rangers-fans)
-- [Johnson to urge Biden to keep US troops at Kabul airport after 31 August](https://www.theguardian.com/world/2021/aug/22/johnson-to-urge-biden-to-keep-us-troops-at-kabul-airport-after-31-august)
-- [Labour to pledge shake-up of universal credit as part of wider ‘new deal’](https://www.theguardian.com/society/2021/aug/22/labour-to-pledge-shake-up-of-universal-credit-as-part-of-wider-new-deal)
-- [Henri makes landfall in Rhode Island, packing high winds and heavy rain](https://www.theguardian.com/world/2021/aug/22/flooding-in-new-york-as-hurricane-henri-approaches-north-east-coast)
+- [Revisited: The pandemic scam artists making millions during lockdown](https://www.theguardian.com/news/audio/2021/aug/24/revisited-the-pandemic-scam-artists-making-millions-during-lockdown)
+- [New Zealand records another 41 Covid cases as it braces for biggest outbreak of pandemic](https://www.theguardian.com/world/2021/aug/24/new-zealand-braces-for-biggest-covid-outbreak-of-pandemic)
+- [California’s Caldor fire burns 100,000 acres as it rips through small towns](https://www.theguardian.com/us-news/2021/aug/23/california-caldor-fire-wildfire-acres-structures)
+- [Cuomo says in farewell address he was victim of ‘political and media stampede’](https://www.theguardian.com/us-news/2021/aug/23/andrew-cuomo-farewell-address-power-transfer-kathy-hochul)
+- [Cancel Me: John Cleese to present Channel 4 show on ‘woke’ thought](https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought)
+- [Nasa delays ISS spacewalk due to astronaut’s medical issue](https://www.theguardian.com/science/2021/aug/24/nasa-delays-iss-spacewalk-due-to-astronauts-medical-issue)
+- [Three dead after collision involving car, lorry and minibus on M25](https://www.theguardian.com/uk-news/2021/aug/23/serious-collision-involving-lorry-minibus-and-car-shuts-part-of-m25)
+- [Biden under pressure over Afghanistan and Covid as approval ratings slide](https://www.theguardian.com/us-news/2021/aug/23/joe-biden-mounting-pressure-afghanistan-withdrawal-covid)
+- [Texas Republicans revive restrictive voting bill as dozens testify against it](https://www.theguardian.com/us-news/2021/aug/23/texas-republicans-restrictive-voting-rights-bill)
+- [Boots launches on-demand delivery trial with Deliveroo](https://www.theguardian.com/business/2021/aug/24/boots-launches-on-demand-delivery-trial-with-deliveroo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

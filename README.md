@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
-- [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
-- [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
-- [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
-- [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
-- [Countering climate change with cool pavements](https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822)
-- [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
-- [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
-- [Bigger vehicles are directly resulting in more deaths of people walking](https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/)
-- [The Real-Life Inspiration Behind “Mr. Toad”](https://lithub.com/meet-the-real-life-inspiration-behind-mr-toad/)
+- [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
+- [Gail.com](https://gail.com)
+- [Convergent patterns between grizzly bear genetics and Indigenous language groups](https://www.ecologyandsociety.org/vol26/iss3/art7/)
+- [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
+- [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [One man's immunity to ticks (2015)](https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [How I Experience Web Today](https://how-i-experience-web-today.com/)
+- [A bike parts company ditched Amazon to support indie shops instead](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

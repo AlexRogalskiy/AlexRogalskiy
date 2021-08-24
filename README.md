@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Business recovery: Reflections and priorities after COVID](https://www.itworldcanada.com/article/business-recovery-reflections-and-priorities-after-covid/457407)
+- [Why you need to make zero defect manufacturing part of your corporate culture](https://www.itworldcanada.com/article/why-you-need-to-make-zero-defect-manufacturing-part-of-your-corporate-culture/457412)
+- [Almost two-thirds of Canadians do not want to work full time from office – report](https://www.itworldcanada.com/article/nearly-a-third-of-canadians-do-not-want-to-work-full-time-from-office-report/457395)
+- [Rogers, Telus offer support for long distance charges to Haiti and Afghanistan](https://www.itworldcanada.com/article/rogers-telus-offer-support-for-long-distance-charges-to-haiti-and-afghanistan/457384)
+- [Cyber Security Today, Aug. 23, 2021 -Exchange Servers under attack, ransomware-fighting advice and vulnerabilities in industrial control systems continue to climb](https://www.itworldcanada.com/article/cyber-security-today-aug-23-2021-exchange-servers-under-attack-ransomware-fighting-advice-and-vulnerabilities-in-industrial-control-systems-continue-to-climb/457369)
+- [Hashtag Trending August 23 – Google’s driving app change; OnlyFans to ban adult content; Facebook hides friends list in Afghanistan](https://www.itworldcanada.com/article/hashtag-trending-august-23-googles-driving-app-change-onlyfans-to-ban-adult-content-facebook-hides-friends-list-in-afghanistan/457373)
 - [Cyber Security Today, Week in Review for August 20, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-august-20-2021/457258)
 - [Ontario’s Hydro One Telecom offers DDoS protection to enterprise customers](https://www.itworldcanada.com/article/ontarios-hydro-one-telecom-offers-ddos-protection-to-enterprise-customers/457279)
 - [Videotron waives long-distance charges for calls to Haiti and Afghanistan](https://www.itworldcanada.com/article/videotron-waives-long-distance-charges-for-calls-to-haiti-and-afghanistan/457310)
 - [Cyber Security Today, Aug. 20, 2021 -Employees lured to plant ransomware, warning from Cisco and how a U.S. government department was hacked](https://www.itworldcanada.com/article/cyber-security-today-aug-20-2021-employees-lured-to-plant-ransomware-warning-from-cisco-and-how-a-u-s-government-department-was-hacked/457288)
-- [Hashtag Trending August 20 – Netflix engineers inside trading; LG 6G; Amazon’s retail stores](https://www.itworldcanada.com/article/hashtag-trending-august-20-netflix-engineers-inside-trading-lg-6g-amazons-retail-stores/457285)
-- [Motorola Solutions opens new network security operations centre in Canada](https://www.itworldcanada.com/article/motorola-solutions-opens-new-network-security-operations-centre-in-canada/457106)
-- [Hashtag Trending August 19- Apple and Corellium dispute; Crypto hacker gets job offer; Facebook tackles COVID-19 misinformation](https://www.itworldcanada.com/article/hashtag-trending-august-19-apple-and-corellium-dispute-crypto-hacker-gets-job-offer-facebook-tackles-covid-19-misinformation/457254)
-- [BlackBerry warns of vulnerability in QNX development platform, Medical and Safety versions of OS](https://www.itworldcanada.com/article/blackberry-warns-of-vulnerability-in-qnx-development-platform-medical-and-safety-versions-of-os/457224)
-- [Inclusive & flexible collaboration in hybrid new normal](https://www.itworldcanada.com/article/inclusive-flexible-collaboration-in-hybrid-new-normal/457242)
-- [North American bulk power providers reporting more cyber incidents, says NERC](https://www.itworldcanada.com/article/north-american-bulk-power-providers-reporting-more-cyber-incidents-says-nerc/457215)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

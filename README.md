@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft likely to offer Extended Security Updates for Windows 10 in 2025](https://www.computerworld.com/article/3630769/microsoft-likely-to-offer-extended-security-updates-for-windows-10-in-2025.html#tk.rss_all)
+- [Apple really, really wants you to tag your files](https://www.computerworld.com/article/3630100/apple-really-really-wants-you-to-tag-your-files.html#tk.rss_all)
+- [Microsoft Endpoint Manager: What Intune's successor does and how it works](https://www.computerworld.com/article/3304583/microsoft-endpoint-manager-what-intunes-successor-does-how-it-works.html#tk.rss_all)
 - [Apple has a lot to get through this fall](https://www.computerworld.com/article/3630430/apple-iphone-mac-ipad-watch-upgrades-fall.html#tk.rss_all)
 - [The Windows print nightmare continues for the enterprise](https://www.computerworld.com/article/3630629/windows-print-nightmare-continues-enterprise.html#tk.rss_all)
 - [The best person to manage your organization’s data may be you](https://www.computerworld.com/article/3630092/the-best-person-to-manage-your-organization-s-data-may-be-you.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Facebook promises immersive VR meetings with Horizon Workrooms](https://www.computerworld.com/article/3630408/facebook-promises-immersive-vr-meetings-with-horizon-workrooms.html#tk.rss_all)
 - [Apple shows its enterprise credentials with business accelerator choices](https://www.computerworld.com/article/3630095/apple-shows-its-enterprise-credentials-with-business-accelerator-choices.html#tk.rss_all)
 - [Pixel 5a and beyond: 2 big questions about Google's future Pixel plans](https://www.computerworld.com/article/3629505/pixel-5a-google-pixel-plans.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Windows Server deserts Microsoft's WaaS](https://www.computerworld.com/article/3630028/windows-server-deserts-microsofts-waas.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

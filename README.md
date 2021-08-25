@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Revisited: The pandemic scam artists making millions during lockdown](https://www.theguardian.com/news/audio/2021/aug/24/revisited-the-pandemic-scam-artists-making-millions-during-lockdown)
-- [New Zealand records another 41 Covid cases as it braces for biggest outbreak of pandemic](https://www.theguardian.com/world/2021/aug/24/new-zealand-braces-for-biggest-covid-outbreak-of-pandemic)
-- [California’s Caldor fire burns 100,000 acres as it rips through small towns](https://www.theguardian.com/us-news/2021/aug/23/california-caldor-fire-wildfire-acres-structures)
-- [Cuomo says in farewell address he was victim of ‘political and media stampede’](https://www.theguardian.com/us-news/2021/aug/23/andrew-cuomo-farewell-address-power-transfer-kathy-hochul)
-- [Cancel Me: John Cleese to present Channel 4 show on ‘woke’ thought](https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought)
-- [Nasa delays ISS spacewalk due to astronaut’s medical issue](https://www.theguardian.com/science/2021/aug/24/nasa-delays-iss-spacewalk-due-to-astronauts-medical-issue)
-- [Three dead after collision involving car, lorry and minibus on M25](https://www.theguardian.com/uk-news/2021/aug/23/serious-collision-involving-lorry-minibus-and-car-shuts-part-of-m25)
-- [Biden under pressure over Afghanistan and Covid as approval ratings slide](https://www.theguardian.com/us-news/2021/aug/23/joe-biden-mounting-pressure-afghanistan-withdrawal-covid)
-- [Texas Republicans revive restrictive voting bill as dozens testify against it](https://www.theguardian.com/us-news/2021/aug/23/texas-republicans-restrictive-voting-rights-bill)
-- [Boots launches on-demand delivery trial with Deliveroo](https://www.theguardian.com/business/2021/aug/24/boots-launches-on-demand-delivery-trial-with-deliveroo)
+- [Tokyo 2020 Paralympics day one: swimming, cycling, wheelchair rugby and more – live!](https://www.theguardian.com/sport/live/2021/aug/25/tokyo-2020-paralympics-live-day-one-swimming-cycling-wheelchair-rugby-and-more-paralympic-games-news-latest-updates)
+- [Revisited: Inside the ’Ndrangheta trial – podcast](https://www.theguardian.com/news/audio/2021/aug/25/revisited-inside-the-ndrangheta-trial-podcast)
+- [Breathing wildfire smoke during pregnancy raises risk of premature birth, study finds](https://www.theguardian.com/us-news/2021/aug/24/california-wildfire-smoke-pregnancy-premature-birth)
+- [Kamala Harris Vietnam trip delayed after two US officials report Havana syndrome](https://www.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay)
+- [R Kelly barred girlfriends from watching series on abuse allegations, court hears](https://www.theguardian.com/music/2021/aug/24/r-kelly-trial-witness-testimony-docuseries-gayle-king-interview)
+- [Number of young smokers rose by a quarter in first lockdown, England study shows](https://www.theguardian.com/society/2021/aug/25/number-of-young-smokers-rose-by-a-quarter-in-first-lockdown-england-study-shows)
+- [Fifa awarded $201m in forfeited funds seized after global corruption probe](https://www.theguardian.com/football/2021/aug/25/fifa-awarded-201m-in-forfeited-funds-seized-after-global-corruption-probe)
+- [Just Eat to create 1,500 jobs at new Sunderland customer service site](https://www.theguardian.com/uk-news/2021/aug/25/just-eat-to-create-1500-jobs-at-new-sunderland-customer-service-site)
+- [Wool from Waitrose lambs to be used for John Lewis mattresses](https://www.theguardian.com/business/2021/aug/25/wool-from-waitrose-lambs-to-be-used-for-john-lewis-mattresses)
+- [Dangerous weight loss products for sale online with no health warnings](https://www.theguardian.com/society/2021/aug/25/dangerous-weight-loss-products-for-sale-online-with-no-health-warnings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

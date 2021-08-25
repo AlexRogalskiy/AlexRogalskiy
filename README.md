@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How Apple’s Mail privacy may reshape business communications](https://www.computerworld.com/article/3630775/how-apples-mail-privacy-may-reshape-business-communications.html#tk.rss_all)
+- [Cortana is AWOL in the war against COVID-19 disinfo](https://www.computerworld.com/article/3630789/cortana-is-awol-in-the-war-against-covid-19-disinfo.html#tk.rss_all)
+- [Microsoft plots price hikes for most Office, Microsoft 365 subscriptions](https://www.computerworld.com/article/3630634/microsoft-plots-price-hikes-for-most-office-microsoft-365-subscriptions.html#tk.rss_all)
+- [Don't waste time on heroic death marches](https://www.computerworld.com/article/3630653/dont-waste-time-on-heroic-death-marches.html#tk.rss_all)
+- [How Google Tables can turn up your productivity](https://www.computerworld.com/article/3630518/how-google-tables-can-turn-up-your-productivity.html#tk.rss_all)
 - [Microsoft likely to offer Extended Security Updates for Windows 10 in 2025](https://www.computerworld.com/article/3630769/microsoft-likely-to-offer-extended-security-updates-for-windows-10-in-2025.html#tk.rss_all)
 - [Apple really, really wants you to tag your files](https://www.computerworld.com/article/3630100/apple-really-really-wants-you-to-tag-your-files.html#tk.rss_all)
 - [Microsoft Endpoint Manager: What Intune's successor does and how it works](https://www.computerworld.com/article/3304583/microsoft-endpoint-manager-what-intunes-successor-does-how-it-works.html#tk.rss_all)
 - [Apple has a lot to get through this fall](https://www.computerworld.com/article/3630430/apple-iphone-mac-ipad-watch-upgrades-fall.html#tk.rss_all)
 - [The Windows print nightmare continues for the enterprise](https://www.computerworld.com/article/3630629/windows-print-nightmare-continues-enterprise.html#tk.rss_all)
-- [The best person to manage your organization’s data may be you](https://www.computerworld.com/article/3630092/the-best-person-to-manage-your-organization-s-data-may-be-you.html#tk.rss_all)
-- [Rethinking the smartphone for collaboration — or the PC for voice](https://www.computerworld.com/article/3630448/rethinking-the-smartphone-for-collaboration-or-the-pc-for-voice.html#tk.rss_all)
-- [Facebook promises immersive VR meetings with Horizon Workrooms](https://www.computerworld.com/article/3630408/facebook-promises-immersive-vr-meetings-with-horizon-workrooms.html#tk.rss_all)
-- [Apple shows its enterprise credentials with business accelerator choices](https://www.computerworld.com/article/3630095/apple-shows-its-enterprise-credentials-with-business-accelerator-choices.html#tk.rss_all)
-- [Pixel 5a and beyond: 2 big questions about Google's future Pixel plans](https://www.computerworld.com/article/3629505/pixel-5a-google-pixel-plans.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

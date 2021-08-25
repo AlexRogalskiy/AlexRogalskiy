@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [13 million malware attacks on Linux seen in wild](https://www.computerweekly.com/news/252505771/13-million-malware-attacks-on-Linux-seen-in-wild)
+- [HMCTS discloses £12.5m HMRC tax bill over IR35 status contractor assessment errors](https://www.computerweekly.com/news/252505768/HMCTS-discloses-125m-HMRC-tax-bill-over-IR35-status-contractor-assessment-errors)
+- [Half of MS Exchange servers at risk in ProxyShell debacle](https://www.computerweekly.com/news/252505767/Half-of-MS-Exchange-servers-at-risk-in-ProxyShell-debacle)
+- [The ransomware debate – to pay or not to pay?](https://www.computerweekly.com/opinion/The-ransomware-debate-to-pay-or-not-to-pay)
+- [UCAS renews IT services contract with Infosys to drive automation](https://www.computerweekly.com/news/252505763/UCAS-renews-IT-services-contract-with-Infosys-to-drive-automation)
+- [Over a million opt out of NHS data-sharing](https://www.computerweekly.com/news/252505760/Over-a-million-opt-out-of-NHS-data-sharing)
+- [How datacentre power growth is leaving Dublin in distress](https://www.computerweekly.com/ezine/Computer-Weekly/How-datacentre-power-growth-is-leaving-Dublin-in-distress)
+- [Campaign groups claim police have bypassed Parliament with plans for live facial-recognition tech](https://www.computerweekly.com/news/252505711/Campaign-groups-claim-police-have-bypassed-Parliament-with-plans-for-live-facial-recognition-tech)
+- [Inchcape picks Rise with SAP on Google Cloud to motor on digital](https://www.computerweekly.com/news/252505683/Inchcape-picks-Rise-with-SAP-on-Google-Cloud-to-motor-on-digital)
 - [Uninterruptible power in the datacentre: Choosing between sustainability and uptime](https://www.computerweekly.com/feature/Uninterruptible-power-in-the-datacentre-Choosing-between-sustainability-and-uptime)
-- [Lacklustre success of analytics in the public cloud](https://www.computerweekly.com/news/252505675/Lacklustre-success-of-analytics-in-the-public-cloud)
-- [Cities worldwide band together to push for ethical AI](https://www.computerweekly.com/news/252505672/Cities-worldwide-band-together-to-push-for-ethical-AI)
-- [IBM unveils Telum to combat financial fraud in real time](https://www.computerweekly.com/news/252505661/IBM-unveils-Telum-to-combat-financial-fraud-in-real-time)
-- [Considerations when deciding on a new SIEM or SOAR tool](https://www.computerweekly.com/feature/Considerations-when-deciding-on-a-new-SIEM-or-SOAR-tool)
-- [CMA urges further scrutiny of Nvidia purchase of Arm](https://www.computerweekly.com/news/252505610/CMA-urges-further-scrutiny-of-Nvidia-purchase-of-Arm)
-- [Whole-system view of railways from Resonate on Redis offers progress](https://www.computerweekly.com/news/252505466/Whole-system-view-of-railways-from-Resonate-on-Redis-offers-progress)
-- [Facebook vows to replenish more water than it consumes across its global operations by 2030](https://www.computerweekly.com/news/252505607/Facebook-vows-to-replenish-more-water-than-it-consumes-across-its-global-operations-by-2030)
-- [Swedish IT industry braced for China’s response to Huawei 5G ban](https://www.computerweekly.com/news/252505600/Swedish-IT-industry-braced-for-Chinas-response-to-Huawei-5G-ban)
-- [How the pandemic transformed IAG’s Hangar 51 accelerator](https://www.computerweekly.com/news/252505590/How-the-pandemic-transformed-IAGs-Hangar-51-accelerator)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

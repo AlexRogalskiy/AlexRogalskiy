@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
-- [Gail.com](https://gail.com)
-- [Convergent patterns between grizzly bear genetics and Indigenous language groups](https://www.ecologyandsociety.org/vol26/iss3/art7/)
-- [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
-- [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [One man's immunity to ticks (2015)](https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all)
-- [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [How I Experience Web Today](https://how-i-experience-web-today.com/)
-- [A bike parts company ditched Amazon to support indie shops instead](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops)
+- [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
+- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
+- [Sputnik V: fraudulent clinical trial data](https://forbetterscience.com/2021/08/24/sputnik-v-fraudulent-халтура/)
+- [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
+- [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
+- [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
+- [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- [Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”](https://jobs.lever.co/volleythat)
+- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

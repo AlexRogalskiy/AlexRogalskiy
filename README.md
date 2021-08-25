@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Use of scareware increasing to trick staff working from home: Report](https://www.itworldcanada.com/article/use-of-scareware-increasing-to-trick-staff-working-from-home-report/457447)
+- [Cameyo boosts remote access security to its virtual application delivery service](https://www.itworldcanada.com/article/cameyo-boosts-remote-access-security-to-its-virtual-application-delivery-service/457426)
+- [Coffee Briefing, August 24, 2021 – Prodigy’s digital ID platform update; Samsung Galaxy users get online repair portal; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-24-2021/457420)
+- [Hashtag Trending August 24 – Intel’s DoD contract; Poly Network assets returned; Foldable phones gaining love](https://www.itworldcanada.com/article/hashtag-trending-august-24-intels-dod-contract-poly-network-assets-returned-foldable-phones-gaining-love/457429)
 - [Business recovery: Reflections and priorities after COVID](https://www.itworldcanada.com/article/business-recovery-reflections-and-priorities-after-covid/457407)
 - [Why you need to make zero defect manufacturing part of your corporate culture](https://www.itworldcanada.com/article/why-you-need-to-make-zero-defect-manufacturing-part-of-your-corporate-culture/457412)
 - [Almost two-thirds of Canadians do not want to work full time from office – report](https://www.itworldcanada.com/article/nearly-a-third-of-canadians-do-not-want-to-work-full-time-from-office-report/457395)
 - [Rogers, Telus offer support for long distance charges to Haiti and Afghanistan](https://www.itworldcanada.com/article/rogers-telus-offer-support-for-long-distance-charges-to-haiti-and-afghanistan/457384)
 - [Cyber Security Today, Aug. 23, 2021 -Exchange Servers under attack, ransomware-fighting advice and vulnerabilities in industrial control systems continue to climb](https://www.itworldcanada.com/article/cyber-security-today-aug-23-2021-exchange-servers-under-attack-ransomware-fighting-advice-and-vulnerabilities-in-industrial-control-systems-continue-to-climb/457369)
 - [Hashtag Trending August 23 – Google’s driving app change; OnlyFans to ban adult content; Facebook hides friends list in Afghanistan](https://www.itworldcanada.com/article/hashtag-trending-august-23-googles-driving-app-change-onlyfans-to-ban-adult-content-facebook-hides-friends-list-in-afghanistan/457373)
-- [Cyber Security Today, Week in Review for August 20, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-august-20-2021/457258)
-- [Ontario’s Hydro One Telecom offers DDoS protection to enterprise customers](https://www.itworldcanada.com/article/ontarios-hydro-one-telecom-offers-ddos-protection-to-enterprise-customers/457279)
-- [Videotron waives long-distance charges for calls to Haiti and Afghanistan](https://www.itworldcanada.com/article/videotron-waives-long-distance-charges-for-calls-to-haiti-and-afghanistan/457310)
-- [Cyber Security Today, Aug. 20, 2021 -Employees lured to plant ransomware, warning from Cisco and how a U.S. government department was hacked](https://www.itworldcanada.com/article/cyber-security-today-aug-20-2021-employees-lured-to-plant-ransomware-warning-from-cisco-and-how-a-u-s-government-department-was-hacked/457288)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

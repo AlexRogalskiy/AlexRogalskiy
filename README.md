@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft, Google partner on eBPF](https://www.infoworld.com/article/3630771/microsoft-google-partner-on-ebpf.html#tk.rss_all)
+- [What is AI bias mitigation, and how can it improve AI fairness?](https://www.infoworld.com/article/3630450/what-is-ai-bias-mitigation-and-how-can-it-improve-ai-fairness.html#tk.rss_all)
+- [Architects are focused on the wrong end of multicloud](https://www.infoworld.com/article/3630102/architects-are-focused-on-the-wrong-end-of-multicloud.html#tk.rss_all)
+- [What is a data warehouse? The source of business intelligence](https://www.infoworld.com/article/3629889/what-is-a-data-warehouse.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [4 reasons to get Kubernetes-certified, and 4 reasons not to](https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html#tk.rss_all)
 - [Tips for agile and devops teams in a hybrid work model](https://www.infoworld.com/article/3629454/tips-for-agile-and-devops-teams-in-a-hybrid-work-model.html#tk.rss_all)
 - [JetBrains’ Go language IDE prepares for generics](https://www.infoworld.com/article/3630389/jetbrains-go-language-ide-prepares-for-generics.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [‘Why cloud computing?’ is always a good question](https://www.infoworld.com/article/3630110/why-cloud-computing-is-always-a-good-question.html#tk.rss_all)
-- [Microsoft details .NET 6 performance boosts](https://www.infoworld.com/article/3630089/microsoft-details-net-6-performance-boosts.html#tk.rss_all)
-- [How to use string interpolation in C# 9](https://www.infoworld.com/article/3630088/how-to-use-string-interpolation-in-csharp-9.html#tk.rss_all)
-- [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_all)
-- [Get started with FastAPI](https://www.infoworld.com/article/3629409/get-started-with-fastapi.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

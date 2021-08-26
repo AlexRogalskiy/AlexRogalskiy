@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
-- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
-- [Sputnik V: fraudulent clinical trial data](https://forbetterscience.com/2021/08/24/sputnik-v-fraudulent-халтура/)
-- [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
-- [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
-- [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
-- [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
-- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
-- [Volley (YC W18) is hiring 12 roles in SF – “Netflix of Voice”](https://jobs.lever.co/volleythat)
-- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
+- [The All-Seeing “I”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
+- [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
+- [The Dream of Carbon Air Capture Edges Toward Reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
+- [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
+- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
+- [Smarking (YC W15) is hiring a head of engineering to help digitize parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Automatic daily updates for over 8000 Debian packages](https://jelmer.uk/fresh-builds.html)
+- [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
+- [Why can't we just give steroids to people with muscular dystrophy?](https://trevorklee.com/why-cant-we-just-give-steroids-to-people-with-muscular-dystrophy/)
+- [Jsc: My New Best Friend](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

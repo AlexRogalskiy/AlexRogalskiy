@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Newbie Seeking Advice](https://www.reddit.com/r/InformationTechnology/comments/pbgdh9/newbie_seeking_advice/)
+- [looking for advice in IT sales specialization](https://www.reddit.com/r/InformationTechnology/comments/pbesnm/looking_for_advice_in_it_sales_specialization/)
+- [Newbie Seeking Advice](https://www.reddit.com/r/InformationTechnology/comments/pbdvx4/newbie_seeking_advice/)
+- [Black screen League of Legends](https://www.reddit.com/r/InformationTechnology/comments/pb99py/black_screen_league_of_legends/)
 - [Kubernetes New Glossary Assessment](https://www.reddit.com/r/InformationTechnology/comments/p3tk5q/kubernetes_new_glossary_assessment/)
 - [These two basic assessments will put your Kubernetes knowledge to the test.](https://www.reddit.com/r/InformationTechnology/comments/p30ig7/these_two_basic_assessments_will_put_your/)
 - [Anyone experienced issues reverting a single user to a prior update of Office 365?](https://www.reddit.com/r/InformationTechnology/comments/p2lj8y/anyone_experienced_issues_reverting_a_single_user/)
 - [Help with Macros in Excel](https://www.reddit.com/r/InformationTechnology/comments/p2lhtk/help_with_macros_in_excel/)
 - [Just published an article on for beginners who want to start computer science](https://www.reddit.com/r/InformationTechnology/comments/p2dkjt/just_published_an_article_on_for_beginners_who/)
 - [What are some certifications that would greatly improve my resume along with a bachelor's in IT? I am a capable java programmer and have heard Python is very desirable to employers.](https://www.reddit.com/r/InformationTechnology/comments/p2c6p4/what_are_some_certifications_that_would_greatly/)
-- [FedVTE for Cisco CEUs](https://www.reddit.com/r/InformationTechnology/comments/p26as0/fedvte_for_cisco_ceus/)
-- [Masters/Certs](https://www.reddit.com/r/InformationTechnology/comments/p20mxj/masterscerts/)
-- [Quick assessment to test Kubernetes Knowledge](https://www.reddit.com/r/InformationTechnology/comments/p1rduk/quick_assessment_to_test_kubernetes_knowledge/)
-- [What does "pain point" mean in relation to IT?](https://www.reddit.com/r/InformationTechnology/comments/p1hs9q/what_does_pain_point_mean_in_relation_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo 2020 Paralympics day one: swimming, cycling, wheelchair rugby and more – live!](https://www.theguardian.com/sport/live/2021/aug/25/tokyo-2020-paralympics-live-day-one-swimming-cycling-wheelchair-rugby-and-more-paralympic-games-news-latest-updates)
-- [Revisited: Inside the ’Ndrangheta trial – podcast](https://www.theguardian.com/news/audio/2021/aug/25/revisited-inside-the-ndrangheta-trial-podcast)
-- [Breathing wildfire smoke during pregnancy raises risk of premature birth, study finds](https://www.theguardian.com/us-news/2021/aug/24/california-wildfire-smoke-pregnancy-premature-birth)
-- [Kamala Harris Vietnam trip delayed after two US officials report Havana syndrome](https://www.theguardian.com/us-news/2021/aug/25/kamala-harris-us-officials-havana-syndrome-vietnam-delay)
-- [R Kelly barred girlfriends from watching series on abuse allegations, court hears](https://www.theguardian.com/music/2021/aug/24/r-kelly-trial-witness-testimony-docuseries-gayle-king-interview)
-- [Number of young smokers rose by a quarter in first lockdown, England study shows](https://www.theguardian.com/society/2021/aug/25/number-of-young-smokers-rose-by-a-quarter-in-first-lockdown-england-study-shows)
-- [Fifa awarded $201m in forfeited funds seized after global corruption probe](https://www.theguardian.com/football/2021/aug/25/fifa-awarded-201m-in-forfeited-funds-seized-after-global-corruption-probe)
-- [Just Eat to create 1,500 jobs at new Sunderland customer service site](https://www.theguardian.com/uk-news/2021/aug/25/just-eat-to-create-1500-jobs-at-new-sunderland-customer-service-site)
-- [Wool from Waitrose lambs to be used for John Lewis mattresses](https://www.theguardian.com/business/2021/aug/25/wool-from-waitrose-lambs-to-be-used-for-john-lewis-mattresses)
-- [Dangerous weight loss products for sale online with no health warnings](https://www.theguardian.com/society/2021/aug/25/dangerous-weight-loss-products-for-sale-online-with-no-health-warnings)
+- [Tokyo Paralympics 2020 day two: swimming, cycling, wheelchair basketball and more – live!](https://www.theguardian.com/sport/live/2021/aug/26/tokyo-paralympics-2020-live-day-two-swimming-cycling-wheelchair-basketball-rugby-and-more-paralympic-games-news-latest-updates)
+- [Revisited: the danger – and beauty – of ultrarunning](https://www.theguardian.com/news/audio/2021/aug/26/revisited-the-danger-and-beauty-of-ultrarunning)
+- [Afghanistan live news: US, UK and Australia warn citizens away from Kabul airport amid terror threat](https://www.theguardian.com/world/live/2021/aug/26/afghanistan-live-news-updates-evacuation-refugees-taliban-kabul-airport-latest)
+- [Adult film star Ron Jeremy indicted on more than 30 counts of sexual assault](https://www.theguardian.com/us-news/2021/aug/25/ron-jeremy-adult-film-star-indicted-charges)
+- [‘Psychological violence’: Alexei Navalny says he is forced to watch eight hours of state TV a day](https://www.theguardian.com/world/2021/aug/26/alexei-navalny-russia-prison-state-tv-china-labour-camp-psychological-violence)
+- [New Zealand could be split into North and South Island bubbles, Covid modeller suggests](https://www.theguardian.com/world/2021/aug/26/new-zealand-could-be-split-into-north-and-south-island-bubbles-covid-modeller-suggests)
+- [‘Mini-Neptunes’ beyond solar system may soon yield signs of life](https://www.theguardian.com/science/2021/aug/26/mini-neptune-beyond-solar-system-may-soon-yield-sign-life-hycean-exoplanet-cambridge-astronomer)
+- [Lowest levels of car production for any July since 1956, UK industry reports](https://www.theguardian.com/business/2021/aug/26/lowest-levels-of-car-production-for-any-july-since-1956-uk-industry-reports)
+- [More than 90% of female doctors have faced sexism at work, finds BMA](https://www.theguardian.com/society/2021/aug/26/more-than-90-per-cent-female-doctors-have-faced-sexism-at-work-finds-bma)
+- [Police find man wanted in connection with Westminster murder investigation](https://www.theguardian.com/uk-news/2021/aug/26/police-find-man-wanted-in-connection-with-westminster-investigation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

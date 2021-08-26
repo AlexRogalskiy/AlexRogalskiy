@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
-- [Unvaccinated individuals are 29 times more likely to be hospitalized from Covid](https://www.foxnews.com/health/unvaccinated-individuals-29-more-likely-hospitalized-covid)
-- [HackGT 8 – A college hackathon with an open source track:)](https://2021.hack.gt/)
-- [Draco: Double-stranded RNA activated caspase oligomerizer](https://en.wikipedia.org/wiki/DRACO)
-- [Aussie businesses wrongly use 'loophole' to avoid reporting ransomware attacks](https://www.itnews.com.au/news/australian-businesses-stop-reporting-ransomware-attacks-over-exfiltration-doubts-568896)
-- [Chrome Remote Desktop](https://remotedesktop.google.com/home)
-- [We built a plugin that helps you verify nearly any scientific claim on the web](http://sift.science/)
-- [Solar flare eruption on the sun could be headed for Earth](https://www.chron.com/news/space/article/Houston-weather-solar-flare-satellite-video-cme-16408956.php)
-- [Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representatio](https://dl.acm.org/doi/pdf/10.1145/3473596)
-- [Geologist collecting lava samples [video]](https://twitter.com/ScienceVideo_/status/1430125789660340225)
+- [How I Remade the Simpsons Hit and Run in a Week](https://www.youtube.com/watch?v=2PBIFunhha4)
+- [Snowflake (Slang)](https://en.wikipedia.org/wiki/Snowflake_(slang))
+- [Never Trust a Scientist](https://unherd.com/2021/08/never-trust-a-scientist/)
+- [AutoClick: create click-based CLIs using type annotations](https://pypi.org/project/autoclick/)
+- [On-Call Anti-Patterns](https://response.pagerduty.com/resources/anti_patterns/)
+- [China schools: 'Xi Jinping Thought' introduced into curriculum](https://www.bbc.com/news/world-asia-58301575)
+- [One Billion Years of Time Are Missing in the Grand Canyon](https://www.vice.com/en/article/bvzk8q/why-one-billion-years-of-time-are-missing-in-the-grand-canyon)
+- [OnlyFans banning new policy: what’s happening with nudity on the site now](https://slate.com/human-interest/2021/08/onlyfans-sex-banned-allowed-decision-history.html)
+- [The victims of mass crypto-hacks that keep happening](https://www.bbc.com/news/technology-58331959)
+- [Jiva Materials – Fully Recyclable PCB Substrates](https://www.jivamaterials.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The All-Seeing “I”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
-- [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
-- [The Dream of Carbon Air Capture Edges Toward Reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
-- [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
-- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
-- [Smarking (YC W15) is hiring a head of engineering to help digitize parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Automatic daily updates for over 8000 Debian packages](https://jelmer.uk/fresh-builds.html)
-- [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
-- [Why can't we just give steroids to people with muscular dystrophy?](https://trevorklee.com/why-cant-we-just-give-steroids-to-people-with-muscular-dystrophy/)
-- [Jsc: My New Best Friend](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
+- [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
+- [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
+- [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
+- [The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders](https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders)
+- [Using Computer Vision to Win at Duck Hunt](https://blog.roboflow.com/computer-vision-win-games-duck-hunt/)
+- [Microsoft warns thousands of cloud customers of exposed databases](https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/)
+- [Show HN: Chrome extension that summarizes text content using DistilBART model](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn)
+- [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
+- [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo Paralympics 2020 day two: swimming, cycling, wheelchair basketball and more – live!](https://www.theguardian.com/sport/live/2021/aug/26/tokyo-paralympics-2020-live-day-two-swimming-cycling-wheelchair-basketball-rugby-and-more-paralympic-games-news-latest-updates)
-- [Revisited: the danger – and beauty – of ultrarunning](https://www.theguardian.com/news/audio/2021/aug/26/revisited-the-danger-and-beauty-of-ultrarunning)
-- [Afghanistan live news: US, UK and Australia warn citizens away from Kabul airport amid terror threat](https://www.theguardian.com/world/live/2021/aug/26/afghanistan-live-news-updates-evacuation-refugees-taliban-kabul-airport-latest)
-- [Adult film star Ron Jeremy indicted on more than 30 counts of sexual assault](https://www.theguardian.com/us-news/2021/aug/25/ron-jeremy-adult-film-star-indicted-charges)
-- [‘Psychological violence’: Alexei Navalny says he is forced to watch eight hours of state TV a day](https://www.theguardian.com/world/2021/aug/26/alexei-navalny-russia-prison-state-tv-china-labour-camp-psychological-violence)
-- [New Zealand could be split into North and South Island bubbles, Covid modeller suggests](https://www.theguardian.com/world/2021/aug/26/new-zealand-could-be-split-into-north-and-south-island-bubbles-covid-modeller-suggests)
-- [‘Mini-Neptunes’ beyond solar system may soon yield signs of life](https://www.theguardian.com/science/2021/aug/26/mini-neptune-beyond-solar-system-may-soon-yield-sign-life-hycean-exoplanet-cambridge-astronomer)
-- [Lowest levels of car production for any July since 1956, UK industry reports](https://www.theguardian.com/business/2021/aug/26/lowest-levels-of-car-production-for-any-july-since-1956-uk-industry-reports)
-- [More than 90% of female doctors have faced sexism at work, finds BMA](https://www.theguardian.com/society/2021/aug/26/more-than-90-per-cent-female-doctors-have-faced-sexism-at-work-finds-bma)
-- [Police find man wanted in connection with Westminster murder investigation](https://www.theguardian.com/uk-news/2021/aug/26/police-find-man-wanted-in-connection-with-westminster-investigation)
+- [Kabul airport attack: Biden vows revenge for Afghanistan explosion that killed dozens as US forces brace for further attacks – live](https://www.theguardian.com/world/live/2021/aug/27/afghanistan-taliban-live-news-kabul-airport-attack-bomb-explosion-civilians-us-marines-killed-abbey-gate-is-islamic-state-biden-vows-revenge-latest-updates)
+- [Tokyo Paralympics 2020 day three: athletics begins, swimming, cycling and more – live!](https://www.theguardian.com/sport/live/2021/aug/27/tokyo-paralympics-2020-live-day-three-athletics-swimming-cycling-wheelchair-basketball-rugby-and-more-paralympic-games-news-latest-updates)
+- [Revisited: Why is Sex and the City coming back to our screens?](https://www.theguardian.com/news/audio/2021/aug/27/revisited-why-is-sex-and-the-city-coming-back-to-our-screens)
+- [UK rescues Afghan families after their details were left behind in Kabul embassy](https://www.theguardian.com/world/2021/aug/27/uk-rescues-afghan-families-after-their-details-were-left-behind-in-kabul-embassy)
+- [Police officer who killed Capitol rioter says he fired gun to ‘save countless lives’](https://www.theguardian.com/us-news/2021/aug/26/us-capitol-attack-ashli-babbitt-police-officer)
+- [‘If you get sick, we may not have a bed’: Covid surge pushes Oregon hospitals to the brink](https://www.theguardian.com/world/2021/aug/26/covid-oregon-health-system-brink)
+- [UK braces for Covid surge as people head to bank holiday hotspots](https://www.theguardian.com/world/2021/aug/26/uk-braces-for-covid-surge-as-people-head-to-bank-holiday-hotspots)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/aug/27/premier-league-10-things-to-look-out-for-this-weekend)
+- [Biden warns masterminds of deadly Kabul bombings: ‘We will make you pay’](https://www.theguardian.com/us-news/2021/aug/26/joe-biden-white-house-crisis-kabul-explosion)
+- [At least 60 Afghans and 13 US soldiers dead after Kabul airport blasts](https://www.theguardian.com/world/2021/aug/26/afghanistan-large-explosion-hits-entry-gate-kabul-airport)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

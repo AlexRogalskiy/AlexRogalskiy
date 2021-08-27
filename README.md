@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to nail the Kubernetes certification exams](https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all)
+- [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_all)
+- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [GitHub CLI 2.0 introduces extensions](https://www.infoworld.com/article/3630909/github-cli-20-introduces-extensions.html#tk.rss_all)
 - [Security blind spots persist as companies cross-breed security with devops](https://www.infoworld.com/article/3630656/security-blind-spots-persist-as-companies-cross-breed-security-with-devops.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Build verified code with F*](https://www.infoworld.com/article/3630209/build-verified-code-with-f.html#tk.rss_all)
 - [Microsoft, Google partner on eBPF](https://www.infoworld.com/article/3630771/microsoft-google-partner-on-ebpf.html#tk.rss_all)
 - [What is AI bias mitigation, and how can it improve AI fairness?](https://www.infoworld.com/article/3630450/what-is-ai-bias-mitigation-and-how-can-it-improve-ai-fairness.html#tk.rss_all)
-- [Architects are focused on the wrong end of multicloud](https://www.infoworld.com/article/3630102/architects-are-focused-on-the-wrong-end-of-multicloud.html#tk.rss_all)
-- [What is a data warehouse? The source of business intelligence](https://www.infoworld.com/article/3629889/what-is-a-data-warehouse.html#tk.rss_all)
-- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

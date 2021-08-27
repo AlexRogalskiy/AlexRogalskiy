@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [University of Toronto’s “Trash Team” tracking pathways of plastic trash with satellite technology](https://www.itworldcanada.com/article/university-of-torontos-trash-team-tracking-pathways-of-plastic-trash-with-satellite-technology/457588)
+- [Three Tips and Tricks to become a better Web Searcher](https://www.itworldcanada.com/article/three-tips-and-tricks-to-become-a-better-web-searcher/457483)
+- [Canada’s Olympic softball team partners with SAS](https://www.itworldcanada.com/article/canadas-olympic-softball-team-partners-with-sas/457459)
+- [Ban ransomware payments, experts urge — but first plan for the consequences](https://www.itworldcanada.com/article/ban-ransomware-payments-experts-urge-but-first-plan-for-the-consequences/457538)
+- [Hashtag Trending August 26 – OnlyFans backs out of ban; Shopify and TikTok elevate partnership; Amazon crackdown on fake reviews](https://www.itworldcanada.com/article/hashtag-trending-august-26-onlyfans-backs-out-of-ban-shopify-and-tiktok-elevate-partnership-amazon-crackdown-on-fake-reviews/457536)
 - [Infosys to set up digital development centre in Mississauga, create hundreds of jobs in GTA](https://www.itworldcanada.com/article/infosys-to-set-up-digital-development-centre-in-mississauga-create-hundreds-of-jobs-in-gta/457490)
 - [A look into the tactics of a ransomware affiliate from the FBI](https://www.itworldcanada.com/article/a-look-into-the-tactics-of-a-ransomware-affiliate-from-the-fbi/457498)
 - [Cyber Security Today, Aug. 25, 2021 – A warning to users of Microsoft Power Apps, vulnerabilities in a medical pump, and more](https://www.itworldcanada.com/article/cyber-security-today-aug-25-2021-a-warning-to-users-of-microsoft-power-apps-vulnerabilities-in-a-medical-pump-and-more/457493)
 - [Hashtag Trending August 25 – Chip shortage may worsen; Samsung bricks stolen TVs; robots don’t smoke](https://www.itworldcanada.com/article/hashtag-trending-august-25-chip-shortage-may-worsen-samsung-bricks-stolen-tvs-robots-dont-smoke/457505)
 - [Use of scareware increasing to trick staff working from home: Report](https://www.itworldcanada.com/article/use-of-scareware-increasing-to-trick-staff-working-from-home-report/457447)
-- [Cameyo boosts remote access security to its virtual application delivery service](https://www.itworldcanada.com/article/cameyo-boosts-remote-access-security-to-its-virtual-application-delivery-service/457426)
-- [Coffee Briefing, August 24, 2021 – Prodigy’s digital ID platform update; Samsung Galaxy users get online repair portal; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-24-2021/457420)
-- [Hashtag Trending August 24 – Intel’s DoD contract; Poly Network assets returned; Foldable phones gaining love](https://www.itworldcanada.com/article/hashtag-trending-august-24-intels-dod-contract-poly-network-assets-returned-foldable-phones-gaining-love/457429)
-- [Business recovery: Reflections and priorities after COVID](https://www.itworldcanada.com/article/business-recovery-reflections-and-priorities-after-covid/457407)
-- [Why you need to make zero defect manufacturing part of your corporate culture](https://www.itworldcanada.com/article/why-you-need-to-make-zero-defect-manufacturing-part-of-your-corporate-culture/457412)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

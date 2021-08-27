@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How I Remade the Simpsons Hit and Run in a Week](https://www.youtube.com/watch?v=2PBIFunhha4)
-- [Snowflake (Slang)](https://en.wikipedia.org/wiki/Snowflake_(slang))
-- [Never Trust a Scientist](https://unherd.com/2021/08/never-trust-a-scientist/)
-- [AutoClick: create click-based CLIs using type annotations](https://pypi.org/project/autoclick/)
-- [On-Call Anti-Patterns](https://response.pagerduty.com/resources/anti_patterns/)
-- [China schools: 'Xi Jinping Thought' introduced into curriculum](https://www.bbc.com/news/world-asia-58301575)
-- [One Billion Years of Time Are Missing in the Grand Canyon](https://www.vice.com/en/article/bvzk8q/why-one-billion-years-of-time-are-missing-in-the-grand-canyon)
-- [OnlyFans banning new policy: what’s happening with nudity on the site now](https://slate.com/human-interest/2021/08/onlyfans-sex-banned-allowed-decision-history.html)
-- [The victims of mass crypto-hacks that keep happening](https://www.bbc.com/news/technology-58331959)
-- [Jiva Materials – Fully Recyclable PCB Substrates](https://www.jivamaterials.com/)
+- [Waymo launches robotaxi service in San Francisco](https://techcrunch.com/2021/08/24/waymo-launches-robotaxi-service-in-san-francisco/)
+- [Decision making requires this one thing](https://neuroathletics.substack.com/p/quick-question)
+- [Software Crisis 2.0](https://www.baldurbjarnason.com/2021/software-crisis-2/)
+- [Apple to Let App Developers Alert Users to Alternate Payment Methods](https://www.wsj.com/articles/apple-set-to-let-app-developers-alert-users-to-alternate-payment-methods-11630029469)
+- [The animal origin of SARS-CoV-2](http://science.sciencemag.org/content/373/6558/968?rss=1)
+- [Being on-call is working. FULL STOP](https://www.reddit.com/r/sysadmin/comments/pc02sc/being_oncall_is_working_full_stop/)
+- [The SEC and DOJ charged this startup founder with fraud, lied to Tiger and other](https://techcrunch.com/2021/08/25/the-sec-and-the-doj-just-charged-this-startup-ceo-with-fraud-saying-he-lied-to-tiger-and-others/)
+- [I 3D-Printed a Glock to See How Far Homemade Weapons Have Come](https://www.vice.com/en/article/bvzak4/ghost-gun-glock-3d-printing)
+- [iOS Siri share suggestions should be disabled by default](https://news.ycombinator.com/item?id=28323507)
+- [Supreme Court blocks Biden's Covid eviction ban](https://www.axios.com/supreme-court-biden-eviction-ban-5c5ba46a-7ceb-4ce1-b21b-2b1da7111e7c.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

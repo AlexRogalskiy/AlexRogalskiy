@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Boots leading drive for ‘professionalisation of IT’ in retail](https://www.computerweekly.com/feature/Boots-leading-drive-for-professionalisation-of-IT-in-retail)
+- [AI more likely to complement than replace predictive analytics](https://www.computerweekly.com/feature/AI-more-likely-to-complement-than-replace-predictive-analytics)
+- [Tech giants commit to Biden's cyber security action plan](https://www.computerweekly.com/news/252505889/Tech-giants-commit-to-Bidens-cyber-security-action-plan)
+- [Government unveils post-Brexit data flow proposals](https://www.computerweekly.com/news/252505888/Government-unveils-post-Brexit-data-flow-proposals)
+- [Security Think Tank: Steps to a solid data privacy practice](https://www.computerweekly.com/opinion/Security-Think-Tank-Steps-to-a-solid-data-privacy-practice)
+- [How 3D printing is growing one step at a time](https://www.computerweekly.com/news/252505878/How-3D-printing-is-growing-one-step-at-a-time)
+- [CW Nordics: Klarna alumni energise Stockholm’s startup scene](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Klarna-alumni-energise-Stockholms-startup-scene)
+- [NZ privacy lead John Edwards named new information commissioner](https://www.computerweekly.com/news/252505879/NZ-privacy-lead-John-Edwards-named-new-information-commissioner)
 - [Algorithmic accountability needs meaningful public participation](https://www.computerweekly.com/news/252505832/Algorithmic-accountability-needs-meaningful-public-participation)
 - [Calling the cops for ransomware attacks doesn’t help, say cyber pros](https://www.computerweekly.com/news/252505828/Calling-the-cops-for-ransomware-attacks-doesnt-help-say-cyber-pros)
-- [UK loses £1.3bn to fraud and cyber crime so far this year](https://www.computerweekly.com/news/252505825/UK-loses-13bn-to-fraud-and-cyber-crime-so-far-this-year)
-- [Basel III: How fintech can provide allocated gold for banks](https://www.computerweekly.com/opinion/Basel-III-How-fintech-can-provide-allocated-gold-for-banks)
-- [How to reconfigure for hybrid work](https://www.computerweekly.com/news/252505764/How-to-reconfigure-for-hybrid-work)
-- [13 million malware attacks on Linux seen in wild](https://www.computerweekly.com/news/252505771/13-million-malware-attacks-on-Linux-seen-in-wild)
-- [HMCTS discloses £12.5m HMRC tax bill over IR35 status contractor assessment errors](https://www.computerweekly.com/news/252505768/HMCTS-discloses-125m-HMRC-tax-bill-over-IR35-status-contractor-assessment-errors)
-- [Half of MS Exchange servers at risk in ProxyShell debacle](https://www.computerweekly.com/news/252505767/Half-of-MS-Exchange-servers-at-risk-in-ProxyShell-debacle)
-- [The ransomware debate – to pay or not to pay?](https://www.computerweekly.com/opinion/The-ransomware-debate-to-pay-or-not-to-pay)
-- [UCAS renews IT services contract with Infosys to drive automation](https://www.computerweekly.com/news/252505763/UCAS-renews-IT-services-contract-with-Infosys-to-drive-automation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

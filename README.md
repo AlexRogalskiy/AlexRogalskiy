@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Apple: It's time to bolster supply chain security](https://www.computerworld.com/article/3631071/apple-its-time-to-bolster-supply-chain-security.html#tk.rss_all)
+- [Is Android 12 about to pop Google's Bubbles?](https://www.computerworld.com/article/3630397/android-12-bubbles-google.html#tk.rss_all)
+- [What is Trello? A guide to Atlassian’s collaboration and work management tool](https://www.computerworld.com/article/3226447/what-is-trello-a-guide-to-atlassians-collaboration-and-work-management-tool.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 - [Apple’s great replacement cycle](https://www.computerworld.com/article/3630779/apples-great-replacement-cycle.html#tk.rss_all)
 - [Chromebook cheat sheet: How to get started](https://www.computerworld.com/article/3341998/chromebook-cheat-sheet-how-to-get-started.html#tk.rss_all)
 - [How Apple’s Mail privacy may reshape business communications](https://www.computerworld.com/article/3630775/how-apples-mail-privacy-may-reshape-business-communications.html#tk.rss_all)
 - [Cortana is AWOL in the war against COVID-19 disinfo](https://www.computerworld.com/article/3630789/cortana-is-awol-in-the-war-against-covid-19-disinfo.html#tk.rss_all)
 - [Microsoft plots price hikes for most Office, Microsoft 365 subscriptions](https://www.computerworld.com/article/3630634/microsoft-plots-price-hikes-for-most-office-microsoft-365-subscriptions.html#tk.rss_all)
-- [Don't waste time on heroic death marches](https://www.computerworld.com/article/3630653/dont-waste-time-on-heroic-death-marches.html#tk.rss_all)
-- [How Google Tables can turn up your productivity](https://www.computerworld.com/article/3630518/how-google-tables-can-turn-up-your-productivity.html#tk.rss_all)
-- [Microsoft likely to offer Extended Security Updates for Windows 10 in 2025](https://www.computerworld.com/article/3630769/microsoft-likely-to-offer-extended-security-updates-for-windows-10-in-2025.html#tk.rss_all)
-- [Apple really, really wants you to tag your files](https://www.computerworld.com/article/3630100/apple-really-really-wants-you-to-tag-your-files.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

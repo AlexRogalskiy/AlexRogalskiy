@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Developers, regulators say Apple's App Store changes don't do enough](https://www.computerworld.com/article/3631529/developers-regulators-say-apples-app-store-changes-dont-do-enough.html#tk.rss_all)
+- [Could Windows 365 and Starlink (or 5G) underpin the future of work?](https://www.computerworld.com/article/3631568/could-windows-365-and-starlink-or-5g-underpin-the-future-of-work.html#tk.rss_all)
+- [Don’t let robot gatekeepers block your résumé](https://www.computerworld.com/article/3631048/don-t-let-robot-gatekeepers-block-your-resume.html#tk.rss_all)
+- [Otter.ai expands reach of Otter Assistant for video chats](https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.html#tk.rss_all)
+- [13 easy ways to cut back on data use in Android](https://www.computerworld.com/article/3190985/13-easy-ways-to-cut-back-on-data-use-in-android.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Apple: It's time to bolster supply chain security](https://www.computerworld.com/article/3631071/apple-its-time-to-bolster-supply-chain-security.html#tk.rss_all)
 - [Is Android 12 about to pop Google's Bubbles?](https://www.computerworld.com/article/3630397/android-12-bubbles-google.html#tk.rss_all)
 - [What is Trello? A guide to Atlassian’s collaboration and work management tool](https://www.computerworld.com/article/3226447/what-is-trello-a-guide-to-atlassians-collaboration-and-work-management-tool.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
-- [Apple’s great replacement cycle](https://www.computerworld.com/article/3630779/apples-great-replacement-cycle.html#tk.rss_all)
-- [Chromebook cheat sheet: How to get started](https://www.computerworld.com/article/3341998/chromebook-cheat-sheet-how-to-get-started.html#tk.rss_all)
-- [How Apple’s Mail privacy may reshape business communications](https://www.computerworld.com/article/3630775/how-apples-mail-privacy-may-reshape-business-communications.html#tk.rss_all)
-- [Cortana is AWOL in the war against COVID-19 disinfo](https://www.computerworld.com/article/3630789/cortana-is-awol-in-the-war-against-covid-19-disinfo.html#tk.rss_all)
-- [Microsoft plots price hikes for most Office, Microsoft 365 subscriptions](https://www.computerworld.com/article/3630634/microsoft-plots-price-hikes-for-most-office-microsoft-365-subscriptions.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

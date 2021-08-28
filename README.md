@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Automatically update mail merge?](https://www.reddit.com/r/InformationTechnology/comments/pctsjf/automatically_update_mail_merge/)
+- [senior technology technical support analyst exam questions](https://www.reddit.com/r/InformationTechnology/comments/pcogle/senior_technology_technical_support_analyst_exam/)
+- [Monitoring solutions (infrastructure, APM, SQL Server, Azure, SaaS)](https://www.reddit.com/r/InformationTechnology/comments/pcnuh6/monitoring_solutions_infrastructure_apm_sql/)
 - [A+ Certmaster](https://www.reddit.com/r/InformationTechnology/comments/pcbkrq/a_certmaster/)
 - [Help! Free Certificate](https://www.reddit.com/r/InformationTechnology/comments/pc9ph8/help_free_certificate/)
 - [Looking for a simple KB/Doc Management System for small IT team](https://www.reddit.com/r/InformationTechnology/comments/pc1w7v/looking_for_a_simple_kbdoc_management_system_for/)
@@ -413,9 +416,6 @@
 - [IT tutor](https://www.reddit.com/r/InformationTechnology/comments/pbs8nl/it_tutor/)
 - [Newbie Seeking Advice](https://www.reddit.com/r/InformationTechnology/comments/pbgdh9/newbie_seeking_advice/)
 - [looking for advice in IT sales specialization](https://www.reddit.com/r/InformationTechnology/comments/pbesnm/looking_for_advice_in_it_sales_specialization/)
-- [Newbie Seeking Advice](https://www.reddit.com/r/InformationTechnology/comments/pbdvx4/newbie_seeking_advice/)
-- [Black screen League of Legends](https://www.reddit.com/r/InformationTechnology/comments/pb99py/black_screen_league_of_legends/)
-- [Kubernetes New Glossary Assessment](https://www.reddit.com/r/InformationTechnology/comments/p3tk5q/kubernetes_new_glossary_assessment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

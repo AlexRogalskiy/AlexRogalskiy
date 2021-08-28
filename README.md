@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Cloud disaster recovery: The devil is in the detail](https://www.computerweekly.com/feature/Cloud-DR-The-devil-is-in-the-detail)
+- [Uber and GMB pledge to end driver exploitation](https://www.computerweekly.com/news/252505950/Uber-and-GMB-pledge-to-end-driver-exploitation)
+- [A Computer Weekly buyer’s guide to modern enterprise resource planning](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-modern-enterprise-resource-planning)
+- [Supply chain cyber security is only as strong as the weakest link](https://www.computerweekly.com/opinion/Supply-chain-cyber-security-is-only-as-strong-as-the-weakest-link)
+- [How the cyber security market is evolving](https://www.computerweekly.com/opinion/How-the-cyber-security-market-is-evolving)
+- [Are proposed data protection changes a threat to UK citizens’ privacy?](https://www.computerweekly.com/news/252505901/Are-proposed-data-protection-changes-a-threat-to-UK-citizens-privacy)
+- [McLaren Racing pursues car build efficiency with Alteryx](https://www.computerweekly.com/news/252505910/McLaren-Racing-pursues-car-build-efficiency-with-Alteryx)
 - [Boots leading drive for ‘professionalisation of IT’ in retail](https://www.computerweekly.com/feature/Boots-leading-drive-for-professionalisation-of-IT-in-retail)
 - [AI more likely to complement than replace predictive analytics](https://www.computerweekly.com/feature/AI-more-likely-to-complement-than-replace-predictive-analytics)
 - [Tech giants commit to Biden's cyber security action plan](https://www.computerweekly.com/news/252505889/Tech-giants-commit-to-Bidens-cyber-security-action-plan)
-- [Government unveils post-Brexit data flow proposals](https://www.computerweekly.com/news/252505888/Government-unveils-post-Brexit-data-flow-proposals)
-- [Security Think Tank: Steps to a solid data privacy practice](https://www.computerweekly.com/opinion/Security-Think-Tank-Steps-to-a-solid-data-privacy-practice)
-- [How 3D printing is growing one step at a time](https://www.computerweekly.com/news/252505878/How-3D-printing-is-growing-one-step-at-a-time)
-- [CW Nordics: Klarna alumni energise Stockholm’s startup scene](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Klarna-alumni-energise-Stockholms-startup-scene)
-- [NZ privacy lead John Edwards named new information commissioner](https://www.computerweekly.com/news/252505879/NZ-privacy-lead-John-Edwards-named-new-information-commissioner)
-- [Algorithmic accountability needs meaningful public participation](https://www.computerweekly.com/news/252505832/Algorithmic-accountability-needs-meaningful-public-participation)
-- [Calling the cops for ransomware attacks doesn’t help, say cyber pros](https://www.computerweekly.com/news/252505828/Calling-the-cops-for-ransomware-attacks-doesnt-help-say-cyber-pros)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [When a cloud provider retires a service you’re using](https://www.infoworld.com/article/3631410/when-a-cloud-provider-retires-a-service-youre-using.html#tk.rss_all)
+- [Kotlin update previews experimental features](https://www.infoworld.com/article/3631133/kotlin-update-previews-experimental-features.html#tk.rss_all)
 - [How to nail the Kubernetes certification exams](https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_all)
 - [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Security blind spots persist as companies cross-breed security with devops](https://www.infoworld.com/article/3630656/security-blind-spots-persist-as-companies-cross-breed-security-with-devops.html#tk.rss_all)
 - [Get started with Python type hints](https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html#tk.rss_all)
 - [Build verified code with F*](https://www.infoworld.com/article/3630209/build-verified-code-with-f.html#tk.rss_all)
-- [Microsoft, Google partner on eBPF](https://www.infoworld.com/article/3630771/microsoft-google-partner-on-ebpf.html#tk.rss_all)
-- [What is AI bias mitigation, and how can it improve AI fairness?](https://www.infoworld.com/article/3630450/what-is-ai-bias-mitigation-and-how-can-it-improve-ai-fairness.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

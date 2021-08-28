@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kabul airport attack: Biden vows revenge for Afghanistan explosion that killed dozens as US forces brace for further attacks – live](https://www.theguardian.com/world/live/2021/aug/27/afghanistan-taliban-live-news-kabul-airport-attack-bomb-explosion-civilians-us-marines-killed-abbey-gate-is-islamic-state-biden-vows-revenge-latest-updates)
-- [Tokyo Paralympics 2020 day three: athletics begins, swimming, cycling and more – live!](https://www.theguardian.com/sport/live/2021/aug/27/tokyo-paralympics-2020-live-day-three-athletics-swimming-cycling-wheelchair-basketball-rugby-and-more-paralympic-games-news-latest-updates)
-- [Revisited: Why is Sex and the City coming back to our screens?](https://www.theguardian.com/news/audio/2021/aug/27/revisited-why-is-sex-and-the-city-coming-back-to-our-screens)
-- [UK rescues Afghan families after their details were left behind in Kabul embassy](https://www.theguardian.com/world/2021/aug/27/uk-rescues-afghan-families-after-their-details-were-left-behind-in-kabul-embassy)
-- [Police officer who killed Capitol rioter says he fired gun to ‘save countless lives’](https://www.theguardian.com/us-news/2021/aug/26/us-capitol-attack-ashli-babbitt-police-officer)
-- [‘If you get sick, we may not have a bed’: Covid surge pushes Oregon hospitals to the brink](https://www.theguardian.com/world/2021/aug/26/covid-oregon-health-system-brink)
-- [UK braces for Covid surge as people head to bank holiday hotspots](https://www.theguardian.com/world/2021/aug/26/uk-braces-for-covid-surge-as-people-head-to-bank-holiday-hotspots)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/aug/27/premier-league-10-things-to-look-out-for-this-weekend)
-- [Biden warns masterminds of deadly Kabul bombings: ‘We will make you pay’](https://www.theguardian.com/us-news/2021/aug/26/joe-biden-white-house-crisis-kabul-explosion)
-- [At least 60 Afghans and 13 US soldiers dead after Kabul airport blasts](https://www.theguardian.com/world/2021/aug/26/afghanistan-large-explosion-hits-entry-gate-kabul-airport)
+- [Afghanistan live news: US carries out drone strike against Islamic State; American citizens warned to leave Kabul airport gates ‘immediately’](https://www.theguardian.com/world/live/2021/aug/28/afghanistan-live-news-uks-ability-to-process-evacuations-extremely-reduced-as-us-on-alert-for-further-attacks)
+- [Tokyo Paralympics 2020 day four: athletics, swimming and more – live!](https://www.theguardian.com/sport/live/2021/aug/28/tokyo-paralympics-2020-live-day-four-triathlon-athletics-swimming-cycling-and-more-paralympic-games-news-latest-updates)
+- [Hurricane Ida barrels down on Louisiana amid warnings of ‘life-altering storm’](https://www.theguardian.com/us-news/2021/aug/27/tropical-storm-ida-hurricane-warnings-gulf-coast-us-weather)
+- [US intelligence couldn’t resolve debate over Covid origins – official report](https://www.theguardian.com/us-news/2021/aug/27/coronavirus-origin-us-intelligence)
+- [Sirhan Sirhan, man who assassinated Robert F Kennedy, granted parole](https://www.theguardian.com/us-news/2021/aug/27/sirhan-sirhan-bobby-kennedy-assassination-parole)
+- [Delta variant doubles risk of hospitalisation, new study finds](https://www.theguardian.com/world/2021/aug/27/delta-covid-variant-doubles-risk-hospitalisation-new-study-finds)
+- [Single-use plastic plates and cutlery to be banned in England](https://www.theguardian.com/environment/2021/aug/27/single-use-plastic-plates-and-cutlery-to-be-banned-in-england)
+- [Klopp appreciates Chelsea’s ‘smart business’ before Anfield appointment](https://www.theguardian.com/football/2021/aug/27/jurgen-klopp-appreciates-chelsea-smart-business-before-anfield-liverpool-romelu-lukaku-virgil-van-dijk)
+- [Ronaldo returns to Manchester United: how the deal was done](https://www.theguardian.com/football/2021/aug/27/talks-that-ushered-in-ronaldos-return-to-manchester-united-after-12-years)
+- [Man, 49, arrested on suspicion of two murders in London](https://www.theguardian.com/uk-news/2021/aug/27/man-49-arrested-on-suspicion-of-two-murders-in-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

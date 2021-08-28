@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
-- [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
-- [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
-- [The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders](https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders)
-- [Using Computer Vision to Win at Duck Hunt](https://blog.roboflow.com/computer-vision-win-games-duck-hunt/)
-- [Microsoft warns thousands of cloud customers of exposed databases](https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/)
-- [Show HN: Chrome extension that summarizes text content using DistilBART model](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn)
-- [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
-- [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
+- [The Semiconductor Heist of the Century](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century/comments)
+- [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
+- [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+- [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
+- [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
+- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
+- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
+- [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
+- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
+- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

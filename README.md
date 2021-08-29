@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Semiconductor Heist of the Century](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century/comments)
-- [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
-- [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
-- [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
-- [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
-- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
-- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
-- [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
-- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
-- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
+- [Why Am and Eurisko Appear to Work (1983, PDF)](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
+- [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
+- [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
+- [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
+- [Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
+- [TekSavvy takes pirate site blocking battle to Canada’s Supreme Court](https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/)
+- [Hands-On: MNT Reforms the Laptop](https://hackaday.com/2021/08/26/hands-on-mnt-reforms-the-laptop/)
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
+- [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

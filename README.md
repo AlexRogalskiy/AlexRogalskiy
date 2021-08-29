@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan live news: US carries out drone strike against Islamic State; American citizens warned to leave Kabul airport gates ‘immediately’](https://www.theguardian.com/world/live/2021/aug/28/afghanistan-live-news-uks-ability-to-process-evacuations-extremely-reduced-as-us-on-alert-for-further-attacks)
-- [Tokyo Paralympics 2020 day four: athletics, swimming and more – live!](https://www.theguardian.com/sport/live/2021/aug/28/tokyo-paralympics-2020-live-day-four-triathlon-athletics-swimming-cycling-and-more-paralympic-games-news-latest-updates)
-- [Hurricane Ida barrels down on Louisiana amid warnings of ‘life-altering storm’](https://www.theguardian.com/us-news/2021/aug/27/tropical-storm-ida-hurricane-warnings-gulf-coast-us-weather)
-- [US intelligence couldn’t resolve debate over Covid origins – official report](https://www.theguardian.com/us-news/2021/aug/27/coronavirus-origin-us-intelligence)
-- [Sirhan Sirhan, man who assassinated Robert F Kennedy, granted parole](https://www.theguardian.com/us-news/2021/aug/27/sirhan-sirhan-bobby-kennedy-assassination-parole)
-- [Delta variant doubles risk of hospitalisation, new study finds](https://www.theguardian.com/world/2021/aug/27/delta-covid-variant-doubles-risk-hospitalisation-new-study-finds)
-- [Single-use plastic plates and cutlery to be banned in England](https://www.theguardian.com/environment/2021/aug/27/single-use-plastic-plates-and-cutlery-to-be-banned-in-england)
-- [Klopp appreciates Chelsea’s ‘smart business’ before Anfield appointment](https://www.theguardian.com/football/2021/aug/27/jurgen-klopp-appreciates-chelsea-smart-business-before-anfield-liverpool-romelu-lukaku-virgil-van-dijk)
-- [Ronaldo returns to Manchester United: how the deal was done](https://www.theguardian.com/football/2021/aug/27/talks-that-ushered-in-ronaldos-return-to-manchester-united-after-12-years)
-- [Man, 49, arrested on suspicion of two murders in London](https://www.theguardian.com/uk-news/2021/aug/27/man-49-arrested-on-suspicion-of-two-murders-in-london)
+- [Afghanistan live news: US embassy warns of ‘specific, credible threat’ at Kabul airport as Biden says terror attack ‘highly likely in next 24-36 hours’](https://www.theguardian.com/world/live/2021/aug/29/afghanistan-live-news-terror-attack-highly-likely-in-next-24-36-hours-says-biden-last-uk-troops-leave-kabul)
+- [Election victory, death or prison: Bolsonaro names his three alternatives for 2022](https://www.theguardian.com/world/2021/aug/29/election-victory-death-or-prison-bolsonaros-names-his-three-alternatives-for-2022)
+- [North Sea oil was battered by Covid, but now faces much deadlier waves](https://www.theguardian.com/business/2021/aug/29/north-sea-oil-was-battered-by-covid-but-now-faces-much-deadlier-waves)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/28/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Patchwork planet: 10 of the best homespun pieces – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/28/patchwork-planet-10-of-the-best-homespun-pieces-in-pictures)
+- [Hurricane Ida: thousands evacuate from New Orleans as storm bears down](https://www.theguardian.com/world/2021/aug/28/hurricane-ida-thousands-evacuate-new-orleans)
+- [Final British troops leave Afghanistan to end 20-year campaign](https://www.theguardian.com/world/2021/aug/28/final-uk-evacuation-flight-leaves-kabul-airport-in-afghanistan)
+- [Animal rescuer ‘threatened’ MoD aide for ‘blocking’ Kabul evacuation](https://www.theguardian.com/uk-news/2021/aug/28/animal-rescuer-threatened-mod-aide-for-blocking-kabul-evacuation)
+- [Mason Greenwood will 100% stick with England, says Gareth Southgate](https://www.theguardian.com/football/2021/aug/28/mason-greenwood-will-100-stick-with-england-says-gareth-southgate)
+- [Pentagon names troops killed in Kabul – some were babies at time of invasion](https://www.theguardian.com/us-news/2021/aug/28/us-military-killed-kabul-names)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

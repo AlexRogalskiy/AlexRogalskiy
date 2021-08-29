@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Developers aren’t impressed with Apple’s App Store changes](https://www.macworld.com/article/354291/developers-arent-impressed-with-apples-app-store-changes.html)
-- [Building National Electronic Medical Records via the World Wide Web (1996) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC116301/pdf/0030191.pdf)
-- [Yandex Traffic Jam Technology Overview](https://yandex.com/company/technologies/traffic_jams_technology/)
-- [The New History Channel Is YouTube, but Can We Trust the Experts? (2019)](https://www.forbes.com/sites/petersuciu/2019/10/22/the-new-history-channel-is-youtube-but-can-we-trust-the-experts/)
-- [Is Machine Learning a part of Artificial Intelligence?](https://www.quora.com/What-are-the-main-differences-between-artificial-intelligence-and-machine-learning-Is-machine-learning-a-part-of-artificial-intelligence?share=1)
-- [Reddit takes a teach-the-controversy approach to pandemic and vaccines](https://arstechnica.com/tech-policy/2021/08/reddit-resists-banning-pandemic-misinformation-allows-vaccine-dissent/)
-- [Ask HN: What happened to the “Node with some other JavaScript engine” projects?](https://news.ycombinator.com/item?id=28334934)
-- [Message Content Access Deprecation for Verified Bots](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots)
-- [You shouldn't trust Discord (2020)](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord)
-- [Grafana Labs raises Series C at $220M, valued at $3B](https://grafana.com/blog/2021/08/24/how-were-supporting-the-success-of-our-community-and-customers-with-our-recent-funding-rounds/)
+- [Air conditioning is one of the greatest inventions of the 20th Century](https://techcrunch.com/2021/08/28/eric-dean-wilson-interview/)
+- [How a hot blob off New Zealand is contributing to drought in South America](https://www.theguardian.com/environment/2021/aug/27/how-a-hot-blob-off-new-zealand-is-contributing-to-drought-in-south-america)
+- [Biden escalates his efforts to puncture the Fox News bubble](https://www.washingtonpost.com/politics/2021/08/27/biden-escalates-his-efforts-puncture-fox-news-bubble/)
+- [China Researching Challenges of Kilometer-Scale Ultra-Large Spacecraft](https://spacenews.com/china-researching-challenges-of-kilometer-scale-ultra-large-spacecraft/)
+- [GitHub.dev](https://github.dev)
+- [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
+- [The Secret Bias Hidden in Mortgage-Approval Algorithms](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms)
+- [John Stamos Posts Photo from Hospital Bed, Assures Fans He's 'All Good'](https://people.com/tv/john-stamos-posts-photo-from-hospital-bed-assures-fans-hes-all-good/)
+- [Show HN: Hide sensitive information with one click](https://blurdata.net/?hn)
+- [A majority of young adults in the U.S. live with their parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

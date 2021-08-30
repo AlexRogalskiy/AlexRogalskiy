@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan live news: US embassy warns of ‘specific, credible threat’ at Kabul airport as Biden says terror attack ‘highly likely in next 24-36 hours’](https://www.theguardian.com/world/live/2021/aug/29/afghanistan-live-news-terror-attack-highly-likely-in-next-24-36-hours-says-biden-last-uk-troops-leave-kabul)
-- [Election victory, death or prison: Bolsonaro names his three alternatives for 2022](https://www.theguardian.com/world/2021/aug/29/election-victory-death-or-prison-bolsonaros-names-his-three-alternatives-for-2022)
-- [North Sea oil was battered by Covid, but now faces much deadlier waves](https://www.theguardian.com/business/2021/aug/29/north-sea-oil-was-battered-by-covid-but-now-faces-much-deadlier-waves)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/28/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Patchwork planet: 10 of the best homespun pieces – in pictures](https://www.theguardian.com/fashion/gallery/2021/aug/28/patchwork-planet-10-of-the-best-homespun-pieces-in-pictures)
-- [Hurricane Ida: thousands evacuate from New Orleans as storm bears down](https://www.theguardian.com/world/2021/aug/28/hurricane-ida-thousands-evacuate-new-orleans)
-- [Final British troops leave Afghanistan to end 20-year campaign](https://www.theguardian.com/world/2021/aug/28/final-uk-evacuation-flight-leaves-kabul-airport-in-afghanistan)
-- [Animal rescuer ‘threatened’ MoD aide for ‘blocking’ Kabul evacuation](https://www.theguardian.com/uk-news/2021/aug/28/animal-rescuer-threatened-mod-aide-for-blocking-kabul-evacuation)
-- [Mason Greenwood will 100% stick with England, says Gareth Southgate](https://www.theguardian.com/football/2021/aug/28/mason-greenwood-will-100-stick-with-england-says-gareth-southgate)
-- [Pentagon names troops killed in Kabul – some were babies at time of invasion](https://www.theguardian.com/us-news/2021/aug/28/us-military-killed-kabul-names)
+- [Tokyo Paralympic Games 2020 day six: shooting begins, athletics and more – live!](https://www.theguardian.com/sport/live/2021/aug/30/tokyo-paralympics-2020-live-day-six-shooting-athletics-swimming-wheelchair-tennis-and-more-paralympic-games-news-latest-updates)
+- [Hurricane Ida live updates: all power lost in New Orleans as massive storm hits Louisiana](https://www.theguardian.com/us-news/live/2021/aug/30/hurricane-ida-2021-live-update-louisiana-storm-hits-new-orleans-path-tracker-mississippi-river-latest-updates)
+- [Revisited: how meme stars of the early internet struck it rich with NFTs – podcast](https://www.theguardian.com/news/audio/2021/aug/30/revisited-how-meme-stars-of-the-early-internet-struck-it-rich-with-nfts)
+- [UN atomic watchdog says North Korea appears to have restarted nuclear reactor](https://www.theguardian.com/world/2021/aug/30/un-atomic-watchdog-says-north-korea-appears-to-have-restarted-nuclear-reactor)
+- [‘Not open for humans’: Covid changes east Asia’s Ghost Month but free spirits remain](https://www.theguardian.com/world/2021/aug/30/not-open-for-humans-covid-changes-east-asias-ghost-month-but-free-spirits-remain)
+- [NHS England to train staff in all trusts to spot rare type of diabetes](https://www.theguardian.com/society/2021/aug/30/nhs-england-to-train-staff-in-all-trusts-to-spot-rare-type-of-diabetes)
+- [Women’s Super League 2021-22 previews No 3: Birmingham City](https://www.theguardian.com/football/2021/aug/30/womens-super-league-preview-birmingham-city)
+- [Fire rips through 20-storey residential tower block in Milan](https://www.theguardian.com/world/2021/aug/29/fire-rips-through-20-storey-residential-tower-block-in-milan)
+- [Lee ‘Scratch’ Perry: a life in pictures](https://www.theguardian.com/music/gallery/2021/aug/29/lee-scratch-perry-a-life-in-pictures)
+- [Taliban assure world leaders they will let eligible people leave Afghanistan](https://www.theguardian.com/world/2021/aug/29/taliban-assure-world-leaders-they-will-let-eligible-people-leave-afghanistan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Air conditioning is one of the greatest inventions of the 20th Century](https://techcrunch.com/2021/08/28/eric-dean-wilson-interview/)
-- [How a hot blob off New Zealand is contributing to drought in South America](https://www.theguardian.com/environment/2021/aug/27/how-a-hot-blob-off-new-zealand-is-contributing-to-drought-in-south-america)
-- [Biden escalates his efforts to puncture the Fox News bubble](https://www.washingtonpost.com/politics/2021/08/27/biden-escalates-his-efforts-puncture-fox-news-bubble/)
-- [China Researching Challenges of Kilometer-Scale Ultra-Large Spacecraft](https://spacenews.com/china-researching-challenges-of-kilometer-scale-ultra-large-spacecraft/)
-- [GitHub.dev](https://github.dev)
-- [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
-- [The Secret Bias Hidden in Mortgage-Approval Algorithms](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms)
-- [John Stamos Posts Photo from Hospital Bed, Assures Fans He's 'All Good'](https://people.com/tv/john-stamos-posts-photo-from-hospital-bed-assures-fans-hes-all-good/)
-- [Show HN: Hide sensitive information with one click](https://blurdata.net/?hn)
-- [A majority of young adults in the U.S. live with their parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/)
+- ['The smartest person in any room, anywhere': In defence of Elon Musk](https://www.theguardian.com/technology/2021/aug/29/the-smartest-person-in-any-room-anywhere-in-defence-of-elon-musk-by-douglas-coupland)
+- [Spend Management for Startups (2020)](https://matthewziskie.substack.com/p/spend-management-for-startups)
+- [Tom’s Essay (2008)](https://opinionator.blogs.nytimes.com//2008/09/23/toms-essay/)
+- [Salmon Trees](https://www.hakaimagazine.com/features/salmon-trees/)
+- [Pokimane Has Done Enough–and Has So Much Left to Do](https://www.wired.com/story/pokimane-has-done-enough-and-has-so-much-left-to-do/)
+- [The Anecdotal Buy Back Effect](https://www.granolashotgun.com/granolashotguncom/the-anecdotal-buy-back-effect)
+- [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
+- [Apple's New Child Safety Technology Might Harm More Kids Than It Helps](https://www.scientificamerican.com/article/apples-new-child-safety-technology-might-harm-more-kids-than-it-helps/)
+- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
+- [Do Animals Suffer from PTSD?](https://www.bbc.com/future/article/20210827-do-animals-suffer-from-post-traumatic-stress)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

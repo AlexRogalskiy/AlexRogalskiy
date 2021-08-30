@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Am and Eurisko Appear to Work (1983, PDF)](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
-- [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
-- [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
-- [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
-- [Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
-- [TekSavvy takes pirate site blocking battle to Canada’s Supreme Court](https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/)
-- [Hands-On: MNT Reforms the Laptop](https://hackaday.com/2021/08/26/hands-on-mnt-reforms-the-laptop/)
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
-- [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
+- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
+- [A Screeching Voice of the Minority](https://meta.ath0.com/2021/08/apple-csam-scanning/)
+- [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/)
+- [8 Bits of history: My first game is still available on the internet](https://smackeyacky.blogspot.com/2021/08/8-bits-of-history-my-first-game-is.html)
+- [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
+- [The Fatiguing Effects of Camera Use in Virtual Meetings [pdf]](https://psycnet.apa.org/fulltext/2021-77825-003.pdf)
+- [Darktile – GPU rendered terminal emulator designed for tiling window managers](https://github.com/liamg/darktile)
+- [Show HN: Dotplan Online](https://dotplan.online/)
+- [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
+- [Linux Kernel 5.14](https://lwn.net/Articles/867706/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tokyo Paralympic Games 2020 day six: shooting begins, athletics and more – live!](https://www.theguardian.com/sport/live/2021/aug/30/tokyo-paralympics-2020-live-day-six-shooting-athletics-swimming-wheelchair-tennis-and-more-paralympic-games-news-latest-updates)
-- [Hurricane Ida live updates: all power lost in New Orleans as massive storm hits Louisiana](https://www.theguardian.com/us-news/live/2021/aug/30/hurricane-ida-2021-live-update-louisiana-storm-hits-new-orleans-path-tracker-mississippi-river-latest-updates)
-- [Revisited: how meme stars of the early internet struck it rich with NFTs – podcast](https://www.theguardian.com/news/audio/2021/aug/30/revisited-how-meme-stars-of-the-early-internet-struck-it-rich-with-nfts)
-- [UN atomic watchdog says North Korea appears to have restarted nuclear reactor](https://www.theguardian.com/world/2021/aug/30/un-atomic-watchdog-says-north-korea-appears-to-have-restarted-nuclear-reactor)
-- [‘Not open for humans’: Covid changes east Asia’s Ghost Month but free spirits remain](https://www.theguardian.com/world/2021/aug/30/not-open-for-humans-covid-changes-east-asias-ghost-month-but-free-spirits-remain)
-- [NHS England to train staff in all trusts to spot rare type of diabetes](https://www.theguardian.com/society/2021/aug/30/nhs-england-to-train-staff-in-all-trusts-to-spot-rare-type-of-diabetes)
-- [Women’s Super League 2021-22 previews No 3: Birmingham City](https://www.theguardian.com/football/2021/aug/30/womens-super-league-preview-birmingham-city)
-- [Fire rips through 20-storey residential tower block in Milan](https://www.theguardian.com/world/2021/aug/29/fire-rips-through-20-storey-residential-tower-block-in-milan)
-- [Lee ‘Scratch’ Perry: a life in pictures](https://www.theguardian.com/music/gallery/2021/aug/29/lee-scratch-perry-a-life-in-pictures)
-- [Taliban assure world leaders they will let eligible people leave Afghanistan](https://www.theguardian.com/world/2021/aug/29/taliban-assure-world-leaders-they-will-let-eligible-people-leave-afghanistan)
+- [The knock: the families torn apart by an arrest over child abuse images](https://www.theguardian.com/news/audio/2021/aug/31/the-knock-the-families-torn-apart-by-an-arrest-over-child-abuse-images)
+- [Armed robbers place hostages on cars in deadly bank raids in Brazil – video](https://www.theguardian.com/global/video/2021/aug/31/armed-robbers-place-hostages-on-cars-in-deadly-bank-raids-in-brazil-video)
+- [Afghanistan live news: Biden confirms end of 20-year US military presence as Taliban celebrate in Kabul](https://www.theguardian.com/world/live/2021/aug/31/afghanistan-live-news-kabul-taliban-biden-final-us-flight-military-forces-leave-airport-islamic-state-latest-updates)
+- [New Zealand minister’s TV interview interrupted by son waving phallic carrot](https://www.theguardian.com/world/2021/aug/31/new-zealand-ministers-tv-interview-interrupted-by-son-waving-phallic-carrot)
+- [Hurricane Ida: up to 2 million without power as New Orleans assesses damage](https://www.theguardian.com/us-news/2021/aug/30/hurricane-ida-latest-new-orleans-louisiana-power-outages-death-toll)
+- [New Zealand flash floods force evacuations in Auckland, motorists rescued by jet ski](https://www.theguardian.com/world/2021/aug/31/new-zealand-flash-floods-force-evacuations-in-auckland-motorists-rescued-by-jet-ski)
+- [My experience as a trans person doesn’t fit the script, but why should it? | Yves Rees](https://www.theguardian.com/books/2021/aug/31/my-experience-as-a-trans-person-doesnt-fit-the-script-but-why-should-it)
+- [Andy Murray again rolls back years in US Open defeat to Stefanos Tsitsipas](https://www.theguardian.com/sport/2021/aug/31/us-open-round-one-andy-murray-stefanos-tsitsipas-match-report)
+- [Residents clog roads fleeing South Lake Tahoe as Caldor fire advances quickly](https://www.theguardian.com/world/2021/aug/30/caldor-fire-california-lake-tahoe-evacuations)
+- [Stephen Fry in plea for walk-in mental health hubs for youths hit by pandemic](https://www.theguardian.com/society/2021/aug/31/stephen-fry-in-plea-for-walk-in-mental-health-hubs-for-youths-hit-by-pandemic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

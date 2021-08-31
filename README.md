@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What you don’t know about working with AWS](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html#tk.rss_all)
+- [Don’t stop your migration!](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html#tk.rss_all)
 - [When a cloud provider retires a service you’re using](https://www.infoworld.com/article/3631410/when-a-cloud-provider-retires-a-service-youre-using.html#tk.rss_all)
 - [Kotlin update previews experimental features](https://www.infoworld.com/article/3631133/kotlin-update-previews-experimental-features.html#tk.rss_all)
 - [How to nail the Kubernetes certification exams](https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [GitHub CLI 2.0 introduces extensions](https://www.infoworld.com/article/3630909/github-cli-20-introduces-extensions.html#tk.rss_all)
 - [Security blind spots persist as companies cross-breed security with devops](https://www.infoworld.com/article/3630656/security-blind-spots-persist-as-companies-cross-breed-security-with-devops.html#tk.rss_all)
-- [Get started with Python type hints](https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html#tk.rss_all)
-- [Build verified code with F*](https://www.infoworld.com/article/3630209/build-verified-code-with-f.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

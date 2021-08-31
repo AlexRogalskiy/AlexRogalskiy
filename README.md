@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- ['The smartest person in any room, anywhere': In defence of Elon Musk](https://www.theguardian.com/technology/2021/aug/29/the-smartest-person-in-any-room-anywhere-in-defence-of-elon-musk-by-douglas-coupland)
-- [Spend Management for Startups (2020)](https://matthewziskie.substack.com/p/spend-management-for-startups)
-- [Tom’s Essay (2008)](https://opinionator.blogs.nytimes.com//2008/09/23/toms-essay/)
-- [Salmon Trees](https://www.hakaimagazine.com/features/salmon-trees/)
-- [Pokimane Has Done Enough–and Has So Much Left to Do](https://www.wired.com/story/pokimane-has-done-enough-and-has-so-much-left-to-do/)
-- [The Anecdotal Buy Back Effect](https://www.granolashotgun.com/granolashotguncom/the-anecdotal-buy-back-effect)
-- [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
-- [Apple's New Child Safety Technology Might Harm More Kids Than It Helps](https://www.scientificamerican.com/article/apples-new-child-safety-technology-might-harm-more-kids-than-it-helps/)
-- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
-- [Do Animals Suffer from PTSD?](https://www.bbc.com/future/article/20210827-do-animals-suffer-from-post-traumatic-stress)
+- [Stackoverflow: Why the developers who use Rust love it so much?](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
+- [‘Smart’ shirt keeps tabs on the heart](http://news.rice.edu/2021/08/30/smart-shirt-keeps-tabs-on-the-heart/)
+- [Competition Cuts Spite](https://www.overcomingbias.com/2021/08/competition-cuts-spite.html)
+- [Zoom dysmorphia is following us into the real world](https://www.wired.co.uk/article/zoom-dysmorphia)
+- [Morita Therapy’s Four Stages](https://en.wikipedia.org/wiki/Morita_therapy#Morita%27s_four_stages)
+- [Leadership challenges for inclusion and diversity in healthcare](https://radoncnotes.com/the-leadership-and-hiring-dilemma-regarding-diversity/)
+- [Ask HN: Why Should I Learn Lisp?](https://news.ycombinator.com/item?id=28363230)
+- [The Forest Succession Principle](https://www.estherderby.com/the-forest-succession-principle/)
+- [Winning with Benjamin Franklin’s Virtues](https://wealthyaccountant.com/2021/08/30/benjamin-franklin/)
+- [Where to find companies who wish to outsource?](https://news.ycombinator.com/item?id=28363186)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

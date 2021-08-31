@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Northern Ontario police force recovering from ransomware attack](https://www.itworldcanada.com/article/northern-ontario-police-force-recovering-from-ransomware-attack/457701)
+- [Web Hosting Canada reveals cause of outage](https://www.itworldcanada.com/article/web-hosting-canada-reveals-cause-of-outage/457684)
+- [Don’t look now, but here comes the future of digital signage](https://www.itworldcanada.com/article/dont-look-now-but-here-comes-the-future-of-digital-signage/457678)
+- [Moving past legacy technologies in a digital new world](https://www.itworldcanada.com/article/moving-past-legacy-technologies-in-a-digital-new-world/457673)
+- [Outage and data loss at Web Hosting Canada still unexplained](https://www.itworldcanada.com/article/outage-and-data-loss-at-web-hosting-canada-still-unexplained/457656)
+- [Holes in Quebec’s vaccine passport app show need for tougher data authentication: Expert](https://www.itworldcanada.com/article/holes-in-quebecs-vaccine-passport-app-show-need-for-tougher-data-authentication-expert/457641)
+- [Cyber Security Today, Aug. 30, 2021 – A new ransomware strain with a trick, a warning for Azure Cosmos administrators and more on the T-Mobile hack](https://www.itworldcanada.com/article/cyber-security-today-aug-30-2021-a-new-ransomware-strain-with-a-trick-a-warning-for-azure-cosmos-administrators-and-more-on-the-t-mobile-hack/457637)
+- [Hashtag Trending August 30 – Hashtag Trending August 30 – SSD downgrade; Windows 11 on older PCs; Microsoft ends Office app for Chromebooks](https://www.itworldcanada.com/article/hashtag-trending-august-30-hashtag-trending-august-30-ssd-downgrade-windows-11-on-older-pcs-microsoft-ends-office-app-for-chromebooks/457652)
 - [Cyber Security Today, Week in Review for Friday Aug. 27, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-aug-27-2021/457603)
 - [Cyber Security Today, Aug. 27, 2021 – Alleged T-Mobile hacker comes forward, a COVID-19 vaccination form scam, and more](https://www.itworldcanada.com/article/cyber-security-today-aug-27-2021-alleged-t-mobile-hacker-comes-forward-a-covid-19-vaccination-form-scam-and-more/457610)
-- [Hashtag Trending August 27 – Reddit’s vax misinformation pushback; Google remains Safari’s default search engine; new EU crypto laws](https://www.itworldcanada.com/article/hashtag-trending-august-27-reddits-vax-misinformation-pushback-google-remains-safaris-default-search-engine-new-eu-crypto-laws/457605)
-- [University of Toronto Trash Team tracking pathways of plastic trash with satellite technology](https://www.itworldcanada.com/article/university-of-torontos-trash-team-tracking-pathways-of-plastic-trash-with-satellite-technology/457588)
-- [Three Tips and Tricks to become a better Web Searcher](https://www.itworldcanada.com/article/three-tips-and-tricks-to-become-a-better-web-searcher/457483)
-- [Canada’s Olympic softball team partners with SAS](https://www.itworldcanada.com/article/canadas-olympic-softball-team-partners-with-sas/457459)
-- [Ban ransomware payments, experts urge — but first plan for the consequences](https://www.itworldcanada.com/article/ban-ransomware-payments-experts-urge-but-first-plan-for-the-consequences/457538)
-- [Hashtag Trending August 26 – OnlyFans backs out of ban; Shopify and TikTok elevate partnership; Amazon crackdown on fake reviews](https://www.itworldcanada.com/article/hashtag-trending-august-26-onlyfans-backs-out-of-ban-shopify-and-tiktok-elevate-partnership-amazon-crackdown-on-fake-reviews/457536)
-- [Infosys to set up digital development centre in Mississauga, create hundreds of jobs in GTA](https://www.itworldcanada.com/article/infosys-to-set-up-digital-development-centre-in-mississauga-create-hundreds-of-jobs-in-gta/457490)
-- [A look into the tactics of a ransomware affiliate from the FBI](https://www.itworldcanada.com/article/a-look-into-the-tactics-of-a-ransomware-affiliate-from-the-fbi/457498)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

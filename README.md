@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Analyst: iPhone 13 may be a satellite phone](https://www.computerworld.com/article/3631589/analyst-iphone-13-may-be-a-satellite-phone.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Triggered by email? Some thoughts on how to stay safe](https://www.computerworld.com/article/3631535/triggered-by-email-some-thoughts-on-how-to-stay-safe.html#tk.rss_all)
+- [What is Windows Hello? Microsoft’s biometrics security system explained](https://www.computerworld.com/article/3244347/what-is-windows-hello-microsofts-biometrics-security-system-explained.html#tk.rss_all)
 - [Developers, regulators say Apple's App Store changes don't do enough](https://www.computerworld.com/article/3631529/developers-regulators-say-apples-app-store-changes-dont-do-enough.html#tk.rss_all)
 - [Could Windows 365 and Starlink (or 5G) underpin the future of work?](https://www.computerworld.com/article/3631568/could-windows-365-and-starlink-or-5g-underpin-the-future-of-work.html#tk.rss_all)
 - [Don’t let robot gatekeepers block your résumé](https://www.computerworld.com/article/3631048/don-t-let-robot-gatekeepers-block-your-resume.html#tk.rss_all)
 - [Otter.ai expands reach of Otter Assistant for video chats](https://www.computerworld.com/article/3619630/otterai-expands-reach-of-otter-assistant-for-video-chats.html#tk.rss_all)
 - [13 easy ways to cut back on data use in Android](https://www.computerworld.com/article/3190985/13-easy-ways-to-cut-back-on-data-use-in-android.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Apple: It's time to bolster supply chain security](https://www.computerworld.com/article/3631071/apple-its-time-to-bolster-supply-chain-security.html#tk.rss_all)
-- [Is Android 12 about to pop Google's Bubbles?](https://www.computerworld.com/article/3630397/android-12-bubbles-google.html#tk.rss_all)
-- [What is Trello? A guide to Atlassian’s collaboration and work management tool](https://www.computerworld.com/article/3226447/what-is-trello-a-guide-to-atlassians-collaboration-and-work-management-tool.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

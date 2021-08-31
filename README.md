@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
-- [A Screeching Voice of the Minority](https://meta.ath0.com/2021/08/apple-csam-scanning/)
-- [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/)
-- [8 Bits of history: My first game is still available on the internet](https://smackeyacky.blogspot.com/2021/08/8-bits-of-history-my-first-game-is.html)
-- [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
-- [The Fatiguing Effects of Camera Use in Virtual Meetings [pdf]](https://psycnet.apa.org/fulltext/2021-77825-003.pdf)
-- [Darktile – GPU rendered terminal emulator designed for tiling window managers](https://github.com/liamg/darktile)
-- [Show HN: Dotplan Online](https://dotplan.online/)
-- [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
-- [Linux Kernel 5.14](https://lwn.net/Articles/867706/)
+- [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
+- [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
+- [Show HN: Blur Webcam Background on Linux](https://github.com/jashandeep-sohi/webcam-filters)
+- [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
+- [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
+- [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
+- [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
+- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
+- [Freeing Your Goats](https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

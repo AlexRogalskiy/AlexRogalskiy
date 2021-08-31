@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Networking Help](https://www.reddit.com/r/InformationTechnology/comments/peudlq/networking_help/)
+- [Feeling stuck](https://www.reddit.com/r/InformationTechnology/comments/pelbcg/feeling_stuck/)
+- [IT edexcel A levels](https://www.reddit.com/r/InformationTechnology/comments/peh41k/it_edexcel_a_levels/)
+- [IT industry facing new normal - survey](https://www.reddit.com/r/InformationTechnology/comments/pee1yr/it_industry_facing_new_normal_survey/)
 - [Phases of the project lifecycle?](https://www.reddit.com/r/InformationTechnology/comments/pe1ane/phases_of_the_project_lifecycle/)
 - [NotePad++ | How can I create a "template"?](https://www.reddit.com/r/InformationTechnology/comments/pdvlz4/notepad_how_can_i_create_a_template/)
 - [Interview with an IT specialist](https://www.reddit.com/r/InformationTechnology/comments/pdv96h/interview_with_an_it_specialist/)
 - [Help understanding](https://www.reddit.com/r/InformationTechnology/comments/pdp5v9/help_understanding/)
 - [Which Certs To Get?](https://www.reddit.com/r/InformationTechnology/comments/pdmson/which_certs_to_get/)
 - [Automatically update mail merge?](https://www.reddit.com/r/InformationTechnology/comments/pdfbme/automatically_update_mail_merge/)
-- [Security monitoring on blockchain networks](https://www.reddit.com/r/InformationTechnology/comments/pdadcq/security_monitoring_on_blockchain_networks/)
-- [Tutoring? Anyone know c++ well enough to tutor me? Please](https://www.reddit.com/r/InformationTechnology/comments/pd6cif/tutoring_anyone_know_c_well_enough_to_tutor_me/)
-- [senior technology technical support analyst exam questions](https://www.reddit.com/r/InformationTechnology/comments/pcogle/senior_technology_technical_support_analyst_exam/)
-- [Monitoring solutions (infrastructure, APM, SQL Server, Azure, SaaS)](https://www.reddit.com/r/InformationTechnology/comments/pcnuh6/monitoring_solutions_infrastructure_apm_sql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

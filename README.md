@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What annoys you about IT?](https://www.reddit.com/r/InformationTechnology/comments/pf9vt2/what_annoys_you_about_it/)
+- [Outlook & Sharepoint Access for Chinese Colleagues from Australian Company Microsoft Account](https://www.reddit.com/r/InformationTechnology/comments/pf212e/outlook_sharepoint_access_for_chinese_colleagues/)
 - [Networking Help](https://www.reddit.com/r/InformationTechnology/comments/peudlq/networking_help/)
 - [Feeling stuck](https://www.reddit.com/r/InformationTechnology/comments/pelbcg/feeling_stuck/)
 - [IT edexcel A levels](https://www.reddit.com/r/InformationTechnology/comments/peh41k/it_edexcel_a_levels/)
@@ -414,8 +416,6 @@
 - [NotePad++ | How can I create a "template"?](https://www.reddit.com/r/InformationTechnology/comments/pdvlz4/notepad_how_can_i_create_a_template/)
 - [Interview with an IT specialist](https://www.reddit.com/r/InformationTechnology/comments/pdv96h/interview_with_an_it_specialist/)
 - [Help understanding](https://www.reddit.com/r/InformationTechnology/comments/pdp5v9/help_understanding/)
-- [Which Certs To Get?](https://www.reddit.com/r/InformationTechnology/comments/pdmson/which_certs_to_get/)
-- [Automatically update mail merge?](https://www.reddit.com/r/InformationTechnology/comments/pdfbme/automatically_update_mail_merge/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

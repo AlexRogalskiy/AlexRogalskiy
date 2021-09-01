@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
-- [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
-- [Show HN: Blur Webcam Background on Linux](https://github.com/jashandeep-sohi/webcam-filters)
-- [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
-- [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
-- [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
-- [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
-- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
-- [Freeing Your Goats](https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html)
+- [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
+- [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
+- [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
+- [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
+- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+- [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
+- [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
+- [The U.S. Army tried portable nuclear power at remote bases 60 years ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
+- [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
+- [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

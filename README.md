@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Windows 11 release date announced; no Android app support at launch](https://www.itworldcanada.com/article/windows-11-release-date-announced-no-android-app-support-at-launch/457736)
+- [Coffee Briefing, August 31, 2021 – Global logistics platform firm expands in Canada; Apple’s News Partner Program; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-31-2021-global-logistics-platform-firm-expands-in-canada-apples-news-partner-program-a-podcast-roundup-and-more/457716)
+- [Hashtag Trending August 31 – Hackers retire; China limits online game play-time; Canadian battery lawsuit settlement](https://www.itworldcanada.com/article/hashtag-trending-august-31-hackers-retire-china-limits-online-game-play-time-canadian-battery-lawsuit-settlement/457723)
 - [Northern Ontario police force recovering from ransomware attack](https://www.itworldcanada.com/article/northern-ontario-police-force-recovering-from-ransomware-attack/457701)
 - [Web Hosting Canada reveals cause of outage](https://www.itworldcanada.com/article/web-hosting-canada-reveals-cause-of-outage/457684)
 - [Don’t look now, but here comes the future of digital signage](https://www.itworldcanada.com/article/dont-look-now-but-here-comes-the-future-of-digital-signage/457678)
@@ -428,9 +431,6 @@
 - [Outage and data loss at Web Hosting Canada still unexplained](https://www.itworldcanada.com/article/outage-and-data-loss-at-web-hosting-canada-still-unexplained/457656)
 - [Holes in Quebec’s vaccine passport app show need for tougher data authentication: Expert](https://www.itworldcanada.com/article/holes-in-quebecs-vaccine-passport-app-show-need-for-tougher-data-authentication-expert/457641)
 - [Cyber Security Today, Aug. 30, 2021 – A new ransomware strain with a trick, a warning for Azure Cosmos administrators and more on the T-Mobile hack](https://www.itworldcanada.com/article/cyber-security-today-aug-30-2021-a-new-ransomware-strain-with-a-trick-a-warning-for-azure-cosmos-administrators-and-more-on-the-t-mobile-hack/457637)
-- [Hashtag Trending August 30 – Hashtag Trending August 30 – SSD downgrade; Windows 11 on older PCs; Microsoft ends Office app for Chromebooks](https://www.itworldcanada.com/article/hashtag-trending-august-30-hashtag-trending-august-30-ssd-downgrade-windows-11-on-older-pcs-microsoft-ends-office-app-for-chromebooks/457652)
-- [Cyber Security Today, Week in Review for Friday Aug. 27, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-aug-27-2021/457603)
-- [Cyber Security Today, Aug. 27, 2021 – Alleged T-Mobile hacker comes forward, a COVID-19 vaccination form scam, and more](https://www.itworldcanada.com/article/cyber-security-today-aug-27-2021-alleged-t-mobile-hacker-comes-forward-a-covid-19-vaccination-form-scam-and-more/457610)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

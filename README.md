@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The knock: the families torn apart by an arrest over child abuse images](https://www.theguardian.com/news/audio/2021/aug/31/the-knock-the-families-torn-apart-by-an-arrest-over-child-abuse-images)
-- [Armed robbers place hostages on cars in deadly bank raids in Brazil – video](https://www.theguardian.com/global/video/2021/aug/31/armed-robbers-place-hostages-on-cars-in-deadly-bank-raids-in-brazil-video)
-- [Afghanistan live news: Biden confirms end of 20-year US military presence as Taliban celebrate in Kabul](https://www.theguardian.com/world/live/2021/aug/31/afghanistan-live-news-kabul-taliban-biden-final-us-flight-military-forces-leave-airport-islamic-state-latest-updates)
-- [New Zealand minister’s TV interview interrupted by son waving phallic carrot](https://www.theguardian.com/world/2021/aug/31/new-zealand-ministers-tv-interview-interrupted-by-son-waving-phallic-carrot)
-- [Hurricane Ida: up to 2 million without power as New Orleans assesses damage](https://www.theguardian.com/us-news/2021/aug/30/hurricane-ida-latest-new-orleans-louisiana-power-outages-death-toll)
-- [New Zealand flash floods force evacuations in Auckland, motorists rescued by jet ski](https://www.theguardian.com/world/2021/aug/31/new-zealand-flash-floods-force-evacuations-in-auckland-motorists-rescued-by-jet-ski)
-- [My experience as a trans person doesn’t fit the script, but why should it? | Yves Rees](https://www.theguardian.com/books/2021/aug/31/my-experience-as-a-trans-person-doesnt-fit-the-script-but-why-should-it)
-- [Andy Murray again rolls back years in US Open defeat to Stefanos Tsitsipas](https://www.theguardian.com/sport/2021/aug/31/us-open-round-one-andy-murray-stefanos-tsitsipas-match-report)
-- [Residents clog roads fleeing South Lake Tahoe as Caldor fire advances quickly](https://www.theguardian.com/world/2021/aug/30/caldor-fire-california-lake-tahoe-evacuations)
-- [Stephen Fry in plea for walk-in mental health hubs for youths hit by pandemic](https://www.theguardian.com/society/2021/aug/31/stephen-fry-in-plea-for-walk-in-mental-health-hubs-for-youths-hit-by-pandemic)
+- [The British citizens stranded in Kabul - podcast](https://www.theguardian.com/news/audio/2021/sep/01/the-british-citizens-stranded-in-kabul-podcast)
+- [Outrage after Ivory Coast TV presenter asks guest to simulate rape](https://www.theguardian.com/world/2021/sep/01/outrage-after-ivory-coast-tv-presenter-asks-guest-to-simulate)
+- [Myanmar: family of US journalist Danny Fenster calls for release after 100 days of detention](https://www.theguardian.com/world/2021/sep/01/family-calls-for-release-of-us-journalist-on-his-100th-day-of-detention-in-myanmar-danny-fenster)
+- [Antoine Griezmann re-joins Atlético Madrid from Barcelona in shock move](https://www.theguardian.com/football/2021/aug/31/antoine-griezmann-heading-back-to-atletico-madrid-from-barcelona)
+- [Black surgeons ‘promoted far less than white colleagues in England’](https://www.theguardian.com/society/2021/sep/01/black-surgeons-promoted-far-less-than-white-colleagues-in-england)
+- [‘Gamechanging’ heart disease drug approved for use in England](https://www.theguardian.com/science/2021/sep/01/gamechanging-heart-disease-drug-approved-for-use-in-england)
+- [Up to half of world’s wild tree species could be at risk of extinction](https://www.theguardian.com/environment/2021/sep/01/up-to-half-worlds-wild-tree-species-could-risk-extinction)
+- [London skyscraper plans threaten UK’s oldest synagogue](https://www.theguardian.com/uk-news/2021/sep/01/london-skyscraper-plans-threaten-uks-oldest-synagogue)
+- [Women’s Super League 2021-22 previews No 7: Leicester](https://www.theguardian.com/football/2021/sep/01/womens-super-league-2021-22-previews-no-7-leicester)
+- [Texas legislature gives final approval to sweeping voting restrictions bill](https://www.theguardian.com/us-news/2021/aug/31/texas-legislature-voting-restrictions-bill-final-approval)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

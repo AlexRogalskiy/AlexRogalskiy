@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Docker Desktop is no longer free for enterprise users](https://www.infoworld.com/article/3630393/docker-desktop-is-no-longer-free-for-enterprise-users.html#tk.rss_all)
+- [Making the case for the intelligent edge](https://www.infoworld.com/article/3631573/making-the-case-for-the-intelligent-edge.html#tk.rss_all)
+- [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_all)
+- [Shifting observability left for cloud-native applications](https://www.infoworld.com/article/3624695/shifting-observability-left-for-cloud-native-applications.html#tk.rss_all)
 - [What you don’t know about working with AWS](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html#tk.rss_all)
 - [Don’t stop your migration!](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html#tk.rss_all)
 - [When a cloud provider retires a service you’re using](https://www.infoworld.com/article/3631410/when-a-cloud-provider-retires-a-service-youre-using.html#tk.rss_all)
 - [Kotlin update previews experimental features](https://www.infoworld.com/article/3631133/kotlin-update-previews-experimental-features.html#tk.rss_all)
 - [How to nail the Kubernetes certification exams](https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_all)
-- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_all)
-- [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
-- [GitHub CLI 2.0 introduces extensions](https://www.infoworld.com/article/3630909/github-cli-20-introduces-extensions.html#tk.rss_all)
-- [Security blind spots persist as companies cross-breed security with devops](https://www.infoworld.com/article/3630656/security-blind-spots-persist-as-companies-cross-breed-security-with-devops.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

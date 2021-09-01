@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Stackoverflow: Why the developers who use Rust love it so much?](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
-- [‘Smart’ shirt keeps tabs on the heart](http://news.rice.edu/2021/08/30/smart-shirt-keeps-tabs-on-the-heart/)
-- [Competition Cuts Spite](https://www.overcomingbias.com/2021/08/competition-cuts-spite.html)
-- [Zoom dysmorphia is following us into the real world](https://www.wired.co.uk/article/zoom-dysmorphia)
-- [Morita Therapy’s Four Stages](https://en.wikipedia.org/wiki/Morita_therapy#Morita%27s_four_stages)
-- [Leadership challenges for inclusion and diversity in healthcare](https://radoncnotes.com/the-leadership-and-hiring-dilemma-regarding-diversity/)
-- [Ask HN: Why Should I Learn Lisp?](https://news.ycombinator.com/item?id=28363230)
-- [The Forest Succession Principle](https://www.estherderby.com/the-forest-succession-principle/)
-- [Winning with Benjamin Franklin’s Virtues](https://wealthyaccountant.com/2021/08/30/benjamin-franklin/)
-- [Where to find companies who wish to outsource?](https://news.ycombinator.com/item?id=28363186)
+- [Paxos vs. Raft: Have we reached consensus on distributed consensus?[video]](https://www.youtube.com/watch?v=0K6kt39wyH0)
+- [Netflix Builds a Reliable, Scalable Platform](https://www.infoq.com/news/2021/08/netflix-device-management)
+- [The Naysayers: Walter Benjamin, Theodor Adorno, and the Critique of Pop Culture](http://www.newyorker.com/magazine/2014/09/15/naysayers)
+- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1)
+- [App History API](https://github.com/WICG/app-history)
+- [RNA vaccines seem to produce different antibody levels](https://arstechnica.com/science/2021/08/rna-vaccines-seem-to-produce-very-different-antibody-levels/)
+- [Long Covid and chronic fatigue syndrome share striking similarities](https://newatlas.com/health-wellbeing/long-covid-chronic-fatigue-syndrome-links-redox-imbalance)
+- [Ask HN: What’s the best way to run a logging running script without DevOps?](https://news.ycombinator.com/item?id=28375768)
+- [The Extreme 996 Work Culture in China](https://www.youtube.com/watch?v=l8wWoQ3_F00)
+- [Dockeralternative.com: Searching for an Alternative to Docker?](https://dockeralternative.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

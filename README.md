@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [More NAND SSD in fewer hands as WD $20m Kioxia bid likely](https://www.computerweekly.com/news/252506033/More-NAND-SSD-in-fewer-hands-as-WD-20m-Kioxia-bid-likely)
+- [Subpostmasters demand more clarity on Horizon public inquiry before committing their support](https://www.computerweekly.com/news/252506031/Subpostmasters-demand-more-clarity-on-Horizon-public-inquiry-before-committing-their-support)
+- [Interview: Sofie Blakstad, CEO, hiveonline](https://www.computerweekly.com/news/252505951/Interview-Sofie-Blakstad-CEO-hiveonline)
+- [The Raxio Group sets out Pan-African colocation datacentre expansion plans](https://www.computerweekly.com/news/252506030/The-Raxio-Group-sets-out-Pan-African-colocation-datacentre-expansion-plans)
 - [Cloud disaster recovery: The devil is in the detail](https://www.computerweekly.com/feature/Cloud-DR-The-devil-is-in-the-detail)
 - [Uber and GMB pledge to end driver exploitation](https://www.computerweekly.com/news/252505950/Uber-and-GMB-pledge-to-end-driver-exploitation)
 - [A Computer Weekly buyer’s guide to modern enterprise resource planning](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-modern-enterprise-resource-planning)
 - [Supply chain cyber security is only as strong as the weakest link](https://www.computerweekly.com/opinion/Supply-chain-cyber-security-is-only-as-strong-as-the-weakest-link)
 - [How the cyber security market is evolving](https://www.computerweekly.com/opinion/How-the-cyber-security-market-is-evolving)
 - [Are proposed data protection changes a threat to UK citizens’ privacy?](https://www.computerweekly.com/news/252505901/Are-proposed-data-protection-changes-a-threat-to-UK-citizens-privacy)
-- [McLaren Racing pursues car build efficiency with Alteryx](https://www.computerweekly.com/news/252505910/McLaren-Racing-pursues-car-build-efficiency-with-Alteryx)
-- [Boots leading drive for ‘professionalisation of IT’ in retail](https://www.computerweekly.com/feature/Boots-leading-drive-for-professionalisation-of-IT-in-retail)
-- [AI more likely to complement than replace predictive analytics](https://www.computerweekly.com/feature/AI-more-likely-to-complement-than-replace-predictive-analytics)
-- [Tech giants commit to Biden's cyber security action plan](https://www.computerweekly.com/news/252505889/Tech-giants-commit-to-Bidens-cyber-security-action-plan)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

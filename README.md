@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Paxos vs. Raft: Have we reached consensus on distributed consensus?[video]](https://www.youtube.com/watch?v=0K6kt39wyH0)
-- [Netflix Builds a Reliable, Scalable Platform](https://www.infoq.com/news/2021/08/netflix-device-management)
-- [The Naysayers: Walter Benjamin, Theodor Adorno, and the Critique of Pop Culture](http://www.newyorker.com/magazine/2014/09/15/naysayers)
-- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1)
-- [App History API](https://github.com/WICG/app-history)
-- [RNA vaccines seem to produce different antibody levels](https://arstechnica.com/science/2021/08/rna-vaccines-seem-to-produce-very-different-antibody-levels/)
-- [Long Covid and chronic fatigue syndrome share striking similarities](https://newatlas.com/health-wellbeing/long-covid-chronic-fatigue-syndrome-links-redox-imbalance)
-- [Ask HN: What’s the best way to run a logging running script without DevOps?](https://news.ycombinator.com/item?id=28375768)
-- [The Extreme 996 Work Culture in China](https://www.youtube.com/watch?v=l8wWoQ3_F00)
-- [Dockeralternative.com: Searching for an Alternative to Docker?](https://dockeralternative.com/)
+- [Biden's top-down booster plan sparks anger at FDA](https://www.politico.com/news/2021/08/31/biden-booster-plan-fda-508149)
+- [Why one founder is over the 90-day excercise window](https://equityacademy.secfi.com/equity-academy/once-burned-by-a-90-day-exercise-window-this-founder-is-extending-it-out-to-10-years)
+- [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
+- [800k U.S. Service Members Say No to Pentagon’s Vaccine Mandate – Sandra Rose](https://sandrarose.com/2021/08/800000-u-s-service-members-say-no-to-pentagons-vaccine-mandate/)
+- [Regulators and Reality](https://stratechery.com/2021/regulators-and-reality/)
+- [New sci-fi and fantasy books to check out this September](https://transfer-orbit.ghost.io/september-science-fiction-fantasy-horror-book-list/)
+- [Laravel 8.58 Released](https://laravel-news.com/laravel-8-58-0)
+- [Lockdown was based on faith, not evidence](https://www.telegraph.co.uk/news/2021/08/13/lockdown-based-faith-not-evidence/)
+- [Billionaire-Backed Stock Picker Says Bubble Talk Is for Boomers](https://www.bloomberg.com/news/articles/2021-08-27/billionaire-backed-stock-picker-says-bubble-talk-is-for-boomers)
+- [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

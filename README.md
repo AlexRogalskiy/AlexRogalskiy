@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
-- [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
-- [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
-- [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
-- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
-- [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
-- [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
-- [The U.S. Army tried portable nuclear power at remote bases 60 years ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
-- [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
-- [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
+- [Apple to Allow Spotify, Other Media Apps to Link to Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
+- [The World After Capital](https://worldaftercapital.org/)
+- [The evolution of WebRTC 1.0 (2017)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
+- [Finley (YC W21) is hiring full-stack engineers to reimagine the capital markets](https://www.finleycms.com/careers/)
+- [Old and photos of Bedouin nomads, 1898](https://rarehistoricalphotos.com/old-spectacular-photos-of-bedouin-nomads-1898/)
+- [Japan Fair Trade Commission Closes App Store Investigation](https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)
+- [The Feds Want to Know What the McFuck Is Going on with the McFlurry Machines](https://gizmodo.com/the-feds-want-to-know-what-the-mcfuck-is-going-on-with-1847601805)
+- [Can you guess which movie based on AI-generated poster?](https://noahveltman.com/aimovies/)
+- [Conduit Beta – Matrix chat server](https://conduit.rs/release-0-2-0/)
+- [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

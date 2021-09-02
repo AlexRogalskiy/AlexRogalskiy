@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The British citizens stranded in Kabul - podcast](https://www.theguardian.com/news/audio/2021/sep/01/the-british-citizens-stranded-in-kabul-podcast)
-- [Outrage after Ivory Coast TV presenter asks guest to simulate rape](https://www.theguardian.com/world/2021/sep/01/outrage-after-ivory-coast-tv-presenter-asks-guest-to-simulate)
-- [Myanmar: family of US journalist Danny Fenster calls for release after 100 days of detention](https://www.theguardian.com/world/2021/sep/01/family-calls-for-release-of-us-journalist-on-his-100th-day-of-detention-in-myanmar-danny-fenster)
-- [Antoine Griezmann re-joins Atlético Madrid from Barcelona in shock move](https://www.theguardian.com/football/2021/aug/31/antoine-griezmann-heading-back-to-atletico-madrid-from-barcelona)
-- [Black surgeons ‘promoted far less than white colleagues in England’](https://www.theguardian.com/society/2021/sep/01/black-surgeons-promoted-far-less-than-white-colleagues-in-england)
-- [‘Gamechanging’ heart disease drug approved for use in England](https://www.theguardian.com/science/2021/sep/01/gamechanging-heart-disease-drug-approved-for-use-in-england)
-- [Up to half of world’s wild tree species could be at risk of extinction](https://www.theguardian.com/environment/2021/sep/01/up-to-half-worlds-wild-tree-species-could-risk-extinction)
-- [London skyscraper plans threaten UK’s oldest synagogue](https://www.theguardian.com/uk-news/2021/sep/01/london-skyscraper-plans-threaten-uks-oldest-synagogue)
-- [Women’s Super League 2021-22 previews No 7: Leicester](https://www.theguardian.com/football/2021/sep/01/womens-super-league-2021-22-previews-no-7-leicester)
-- [Texas legislature gives final approval to sweeping voting restrictions bill](https://www.theguardian.com/us-news/2021/aug/31/texas-legislature-voting-restrictions-bill-final-approval)
+- [The big coronavirus questions as a new school term begins](https://www.theguardian.com/news/audio/2021/sep/02/the-big-coronavirus-questions-as-a-new-school-term-begins)
+- [US Open 2021: Sloane Stephens defeats Coco Gauff to reach third round – as it happened](https://www.theguardian.com/sport/live/2021/sep/01/us-open-2021-sloane-stephens-v-coco-gauff-live)
+- [India deploys troops in Srinagar after veteran Kashmir separatist Syed Ali Shah Geelani dies](https://www.theguardian.com/world/2021/sep/02/india-deploys-troops-in-srinagar-after-veteran-kashmir-separatist-syed-ali-shah-geelani-dies)
+- [North Carolina school shooting leaves one dead with suspect in custody](https://www.theguardian.com/us-news/2021/sep/01/north-carolina-school-shooting-leaves-one-dead-with-suspect-at-large)
+- [Female TV anchor who interviewed Taliban official ends up having to flee Afghanistan](https://www.theguardian.com/world/2021/sep/02/female-tv-anchor-who-interviewed-taliban-official-ends-up-having-to-flee-afghanistan)
+- [NHS ‘needs £10bn annual boost’ to tackle backlog and Covid cost](https://www.theguardian.com/society/2021/sep/02/nhs-needs-10bn-annual-boost-to-tackle-backlog-and-covid-cost)
+- [Britons hoildaying in UK give welcome boost to high street](https://www.theguardian.com/business/2021/sep/02/britons-hoildaying-uk-high-street-domestic-tourism-footfall-august-covid-pandemic)
+- [Per pupil spending in English schools to fall to under 2009-10 levels – IFS](https://www.theguardian.com/education/2021/sep/02/per-pupil-spending-in-english-schools-to-fall-to-under-2009-10-levels-ifs)
+- [Scrapping free prescriptions for over-60s ‘could have devastating impact’](https://www.theguardian.com/society/2021/sep/02/scrapping-free-prescriptions-for-over-60s-could-have-devastating-impact)
+- [Doctors, charities and Tory thinktank urge PM to drop universal credit cut](https://www.theguardian.com/society/2021/sep/02/doctors-charities-pm-universal-credit-cut-poverty)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

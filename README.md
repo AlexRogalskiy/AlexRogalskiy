@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services](https://www.computerworld.com/article/3632129/microsoft-sets-nov-1-deadline-for-shutting-off-old-outlook-clients-from-365-services.html#tk.rss_all)
+- [IDC: Collaboration software spending looks strong, even as offices move to re-open](https://www.computerworld.com/article/3632049/idc-collaboration-software-spending-looks-strong-even-as-offices-move-to-re-open.html#tk.rss_all)
+- [Apple's next services opportunity? The Apple Car](https://www.computerworld.com/article/3631417/apples-next-services-opportunity-the-apple-car.html#tk.rss_all)
+- [The most important enhancement you can make to Gboard on Android](https://www.computerworld.com/article/3631590/gboard-android-google-enhancement.html#tk.rss_all)
+- [Microsoft to launch Windows 11 on Oct. 5; rollout to last into ‘22](https://www.computerworld.com/article/3631578/microsoft-to-launch-windows-11-on-oct-5-rollout-to-last-into-22.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [The most important Gboard enhancement you can make on Android](https://www.computerworld.com/article/3631590/gboard-android-enhancement.html#tk.rss_all)
 - [Apple HR needs listen to its own peeps](https://www.computerworld.com/article/3631593/apple-hr-needs-listen-to-its-own-peeps.html#tk.rss_all)
 - [What’s going on with the ‘Great Resignation’?](https://www.computerworld.com/article/3631550/what-s-going-on-with-the-great-resignation.html#tk.rss_all)
 - [How to check if your PC can run Windows 11](https://www.computerworld.com/article/3631575/how-to-check-if-your-pc-can-run-windows-11.html#tk.rss_all)
 - [Analyst: iPhone 13 may be a satellite phone](https://www.computerworld.com/article/3631589/analyst-iphone-13-may-be-a-satellite-phone.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Triggered by email? Some thoughts on how to stay safe](https://www.computerworld.com/article/3631535/triggered-by-email-some-thoughts-on-how-to-stay-safe.html#tk.rss_all)
-- [What is Windows Hello? Microsoft’s biometrics security system explained](https://www.computerworld.com/article/3244347/what-is-windows-hello-microsofts-biometrics-security-system-explained.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

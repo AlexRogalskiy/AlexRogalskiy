@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [VMware’s new Tanzu platform aims to unify Kubernetes development](https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html#tk.rss_all)
+- [Pyston, the Python alternative, gets backing from Anaconda](https://www.infoworld.com/article/3631545/pyston-the-python-alternative-gets-backing-from-anaconda.html#tk.rss_all)
+- [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_all)
+- [PlanetScale review: Horizontally scalable MySQL in the cloud](https://www.infoworld.com/article/3631149/planetscale-review-mysql-at-cloud-scale.html#tk.rss_all)
 - [Docker Desktop is no longer free for enterprise users](https://www.infoworld.com/article/3630393/docker-desktop-is-no-longer-free-for-enterprise-users.html#tk.rss_all)
 - [Making the case for the intelligent edge](https://www.infoworld.com/article/3631573/making-the-case-for-the-intelligent-edge.html#tk.rss_all)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_all)
 - [Shifting observability left for cloud-native applications](https://www.infoworld.com/article/3624695/shifting-observability-left-for-cloud-native-applications.html#tk.rss_all)
 - [What you don’t know about working with AWS](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html#tk.rss_all)
 - [Don’t stop your migration!](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html#tk.rss_all)
-- [When a cloud provider retires a service you’re using](https://www.infoworld.com/article/3631410/when-a-cloud-provider-retires-a-service-youre-using.html#tk.rss_all)
-- [Kotlin update previews experimental features](https://www.infoworld.com/article/3631133/kotlin-update-previews-experimental-features.html#tk.rss_all)
-- [How to nail the Kubernetes certification exams](https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all)
-- [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

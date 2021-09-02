@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bell and Telus asks Federal Court to block Videotron’s 5G specrum purchase](https://www.itworldcanada.com/article/bell-and-telus-asks-federal-court-to-block-videotrons-5g-specrum-purchase/457773)
+- [Flaw found in the implementation of Quebec COVID passport app’s verification method](https://www.itworldcanada.com/article/flaw-found-in-the-implementation-of-quebec-covid-passport-apps-verification-method/457751)
+- [Cyber Security Today, Sept. 1, 2021 – Women in Cyber Day, weekend cyber attack warning, worst IT practices and beware of proxyware](https://www.itworldcanada.com/article/cyber-security-today-sept-1-2021-women-in-cyber-day-weekend-cyber-attack-warning-worst-it-practices-and-beware-of-proxyware/457741)
+- [Hashtag Trending Sept. 1 – Subreddits go dark; phone calls optional; Windows 11 launch date](https://www.itworldcanada.com/article/hashtag-trending-sept-1-subreddits-go-dark-phone-calls-optional-windows-11-launch-date/457745)
 - [Windows 11 release date announced; no Android app support at launch](https://www.itworldcanada.com/article/windows-11-release-date-announced-no-android-app-support-at-launch/457736)
 - [Coffee Briefing, August 31, 2021 – Global logistics platform firm expands in Canada; Apple’s News Partner Program; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-31-2021-global-logistics-platform-firm-expands-in-canada-apples-news-partner-program-a-podcast-roundup-and-more/457716)
 - [Hashtag Trending August 31 – Hackers retire; China limits online game play-time; Canadian battery lawsuit settlement](https://www.itworldcanada.com/article/hashtag-trending-august-31-hackers-retire-china-limits-online-game-play-time-canadian-battery-lawsuit-settlement/457723)
 - [Northern Ontario police force recovering from ransomware attack](https://www.itworldcanada.com/article/northern-ontario-police-force-recovering-from-ransomware-attack/457701)
 - [Web Hosting Canada reveals cause of outage](https://www.itworldcanada.com/article/web-hosting-canada-reveals-cause-of-outage/457684)
 - [Don’t look now, but here comes the future of digital signage](https://www.itworldcanada.com/article/dont-look-now-but-here-comes-the-future-of-digital-signage/457678)
-- [Moving past legacy technologies in a digital new world](https://www.itworldcanada.com/article/moving-past-legacy-technologies-in-a-digital-new-world/457673)
-- [Outage and data loss at Web Hosting Canada still unexplained](https://www.itworldcanada.com/article/outage-and-data-loss-at-web-hosting-canada-still-unexplained/457656)
-- [Holes in Quebec’s vaccine passport app show need for tougher data authentication: Expert](https://www.itworldcanada.com/article/holes-in-quebecs-vaccine-passport-app-show-need-for-tougher-data-authentication-expert/457641)
-- [Cyber Security Today, Aug. 30, 2021 – A new ransomware strain with a trick, a warning for Azure Cosmos administrators and more on the T-Mobile hack](https://www.itworldcanada.com/article/cyber-security-today-aug-30-2021-a-new-ransomware-strain-with-a-trick-a-warning-for-azure-cosmos-administrators-and-more-on-the-t-mobile-hack/457637)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

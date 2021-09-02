@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NTT Group to grow global datacentre footprint by 20% over next 18 months](https://www.computerweekly.com/news/252506091/NTT-Group-to-grow-global-datacentre-footprint-by-20-over-next-18-months)
+- [Using geospatial data to unlock innovation in the property sector](https://www.computerweekly.com/opinion/Using-geospatial-data-to-unlock-innovation-in-the-property-sector)
+- [University of Sunderland applies technology through robot dog](https://www.computerweekly.com/news/252506092/University-of-Sunderland-applies-technology-through-robot-dog)
+- [Tech sector spends nearly €100m a year lobbying the EU](https://www.computerweekly.com/news/252506086/Tech-sector-spends-nearly-100m-a-year-lobbying-the-EU)
+- [Makers announces winners of 2021 Women in Software Power List](https://www.computerweekly.com/news/252506090/Makers-announces-winners-of-2021-Women-in-Software-Power-List)
+- [Experts warn on Office 365 phishing attacks](https://www.computerweekly.com/news/252506088/Experts-warn-on-Office-365-phishing-attacks)
+- [Remote workers routinely bypassed security tools during pandemic](https://www.computerweekly.com/news/252506084/Remote-workers-routinely-bypassed-security-tools-during-pandemic)
 - [More NAND SSD in fewer hands as WD $20m Kioxia bid likely](https://www.computerweekly.com/news/252506033/More-NAND-SSD-in-fewer-hands-as-WD-20m-Kioxia-bid-likely)
 - [Subpostmasters demand more clarity on Horizon public inquiry before committing their support](https://www.computerweekly.com/news/252506031/Subpostmasters-demand-more-clarity-on-Horizon-public-inquiry-before-committing-their-support)
 - [Interview: Sofie Blakstad, CEO, hiveonline](https://www.computerweekly.com/news/252505951/Interview-Sofie-Blakstad-CEO-hiveonline)
-- [The Raxio Group sets out Pan-African colocation datacentre expansion plans](https://www.computerweekly.com/news/252506030/The-Raxio-Group-sets-out-Pan-African-colocation-datacentre-expansion-plans)
-- [Cloud disaster recovery: The devil is in the detail](https://www.computerweekly.com/feature/Cloud-DR-The-devil-is-in-the-detail)
-- [Uber and GMB pledge to end driver exploitation](https://www.computerweekly.com/news/252505950/Uber-and-GMB-pledge-to-end-driver-exploitation)
-- [A Computer Weekly buyer’s guide to modern enterprise resource planning](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-modern-enterprise-resource-planning)
-- [Supply chain cyber security is only as strong as the weakest link](https://www.computerweekly.com/opinion/Supply-chain-cyber-security-is-only-as-strong-as-the-weakest-link)
-- [How the cyber security market is evolving](https://www.computerweekly.com/opinion/How-the-cyber-security-market-is-evolving)
-- [Are proposed data protection changes a threat to UK citizens’ privacy?](https://www.computerweekly.com/news/252505901/Are-proposed-data-protection-changes-a-threat-to-UK-citizens-privacy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

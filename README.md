@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Podcast: Windows 11 overview: Hardware requirements, security updates and upgrade confusion](https://www.computerworld.com/article/3632354/podcast-windows-11-overview-hardware-requirements-security-updates-and-upgrade-confusion.html#tk.rss_all)
+- [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
 - [Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services](https://www.computerworld.com/article/3632129/microsoft-sets-nov-1-deadline-for-shutting-off-old-outlook-clients-from-365-services.html#tk.rss_all)
-- [IDC: Collaboration software spending looks strong, even as offices move to re-open](https://www.computerworld.com/article/3632049/idc-collaboration-software-spending-looks-strong-even-as-offices-move-to-re-open.html#tk.rss_all)
+- [BrandPost: Rising Phone Fraud Can Jeopardize Operations and Earnings](https://www.computerworld.com/article/3632093/rising-phone-fraud-can-jeopardize-operations-and-earnings.html#tk.rss_all)
+- [IDC: Collaboration software spending looks strong, even as offices move to reopen](https://www.computerworld.com/article/3632049/idc-collaboration-software-spending-looks-strong-even-as-offices-move-to-reopen.html#tk.rss_all)
 - [Apple's next services opportunity? The Apple Car](https://www.computerworld.com/article/3631417/apples-next-services-opportunity-the-apple-car.html#tk.rss_all)
 - [The most important enhancement you can make to Gboard on Android](https://www.computerworld.com/article/3631590/gboard-android-google-enhancement.html#tk.rss_all)
 - [Microsoft to launch Windows 11 on Oct. 5; rollout to last into ‘22](https://www.computerworld.com/article/3631578/microsoft-to-launch-windows-11-on-oct-5-rollout-to-last-into-22.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Apple HR needs listen to its own peeps](https://www.computerworld.com/article/3631593/apple-hr-needs-listen-to-its-own-peeps.html#tk.rss_all)
-- [What’s going on with the ‘Great Resignation’?](https://www.computerworld.com/article/3631550/what-s-going-on-with-the-great-resignation.html#tk.rss_all)
-- [How to check if your PC can run Windows 11](https://www.computerworld.com/article/3631575/how-to-check-if-your-pc-can-run-windows-11.html#tk.rss_all)
-- [Analyst: iPhone 13 may be a satellite phone](https://www.computerworld.com/article/3631589/analyst-iphone-13-may-be-a-satellite-phone.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

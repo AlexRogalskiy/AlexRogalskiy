@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The big coronavirus questions as a new school term begins](https://www.theguardian.com/news/audio/2021/sep/02/the-big-coronavirus-questions-as-a-new-school-term-begins)
-- [US Open 2021: Sloane Stephens defeats Coco Gauff to reach third round – as it happened](https://www.theguardian.com/sport/live/2021/sep/01/us-open-2021-sloane-stephens-v-coco-gauff-live)
-- [India deploys troops in Srinagar after veteran Kashmir separatist Syed Ali Shah Geelani dies](https://www.theguardian.com/world/2021/sep/02/india-deploys-troops-in-srinagar-after-veteran-kashmir-separatist-syed-ali-shah-geelani-dies)
-- [North Carolina school shooting leaves one dead with suspect in custody](https://www.theguardian.com/us-news/2021/sep/01/north-carolina-school-shooting-leaves-one-dead-with-suspect-at-large)
-- [Female TV anchor who interviewed Taliban official ends up having to flee Afghanistan](https://www.theguardian.com/world/2021/sep/02/female-tv-anchor-who-interviewed-taliban-official-ends-up-having-to-flee-afghanistan)
-- [NHS ‘needs £10bn annual boost’ to tackle backlog and Covid cost](https://www.theguardian.com/society/2021/sep/02/nhs-needs-10bn-annual-boost-to-tackle-backlog-and-covid-cost)
-- [Britons hoildaying in UK give welcome boost to high street](https://www.theguardian.com/business/2021/sep/02/britons-hoildaying-uk-high-street-domestic-tourism-footfall-august-covid-pandemic)
-- [Per pupil spending in English schools to fall to under 2009-10 levels – IFS](https://www.theguardian.com/education/2021/sep/02/per-pupil-spending-in-english-schools-to-fall-to-under-2009-10-levels-ifs)
-- [Scrapping free prescriptions for over-60s ‘could have devastating impact’](https://www.theguardian.com/society/2021/sep/02/scrapping-free-prescriptions-for-over-60s-could-have-devastating-impact)
-- [Doctors, charities and Tory thinktank urge PM to drop universal credit cut](https://www.theguardian.com/society/2021/sep/02/doctors-charities-pm-universal-credit-cut-poverty)
+- [One man’s epic electric test drive – from Land’s End to John o’Groats – podcast](https://www.theguardian.com/news/audio/2021/sep/03/one-mans-epic-electric-test-drive-from-lands-end-to-john-ogroats-podcast)
+- [Ex-prosecutor indicted for allegedly shielding men in Ahmaud Arbery case](https://www.theguardian.com/us-news/2021/sep/02/ahmaud-arbery-ex-prosecutor-indicted-georgia)
+- [US Open 2021: Novak Djokovic beats Tallon Griekspoor to reach third round – as it happened](https://www.theguardian.com/sport/live/2021/sep/02/us-open-2021-novak-djokovic-v-tallon-griekspoor-and-more-live)
+- [British-born Islamic State terror suspect pleads guilty to multiple charges](https://www.theguardian.com/world/2021/sep/03/british-born-islamic-state-terror-suspect-pleads-guilty-to-syria-beheadings)
+- [UK has no coherent plan for Afghan refugee crisis, says ex-Whitehall chief](https://www.theguardian.com/politics/2021/sep/02/former-top-uk-civil-servant-criticises-bad-policy-afghan-exit-mark-sedwill)
+- [Priti Patel orders review into effects of nitrous oxide](https://www.theguardian.com/society/2021/sep/03/priti-patel-orders-review-into-effects-of-nitrous-oxide)
+- [Women’s Super League 2021-22 previews No 11: Tottenham](https://www.theguardian.com/football/2021/sep/03/womens-super-league-2021-22-previews-no-11-tottenham)
+- [Gareth Southgate calls for protection for his players after abuse in Hungary](https://www.theguardian.com/football/2021/sep/02/englands-victory-over-hungary-marred-by-crowd-trouble-in-budapest)
+- [More than 40 killed in US north-east amid sudden heavy rains and flooding](https://www.theguardian.com/environment/2021/sep/02/flooding-deaths-north-east-us-rain-storms-latest)
+- [Government urged to ‘get a handle’ on supply chain crisis](https://www.theguardian.com/uk-news/2021/sep/02/government-urged-to-get-a-handle-on-supply-chain-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

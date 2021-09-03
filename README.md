@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft offers Productivity Power Tools for Visual Studio 2022 IDE](https://www.infoworld.com/article/3632108/microsoft-offers-productivity-power-tools-for-visual-studio-2022-ide.html#tk.rss_all)
+- [How to secure REST with Spring Security](https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html#tk.rss_all)
 - [VMware’s new Tanzu platform aims to unify Kubernetes development](https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html#tk.rss_all)
 - [Pyston, the Python alternative, gets backing from Anaconda](https://www.infoworld.com/article/3631545/pyston-the-python-alternative-gets-backing-from-anaconda.html#tk.rss_all)
 - [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Making the case for the intelligent edge](https://www.infoworld.com/article/3631573/making-the-case-for-the-intelligent-edge.html#tk.rss_all)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_all)
 - [Shifting observability left for cloud-native applications](https://www.infoworld.com/article/3624695/shifting-observability-left-for-cloud-native-applications.html#tk.rss_all)
-- [What you don’t know about working with AWS](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html#tk.rss_all)
-- [Don’t stop your migration!](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

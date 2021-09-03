@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Biden's top-down booster plan sparks anger at FDA](https://www.politico.com/news/2021/08/31/biden-booster-plan-fda-508149)
-- [Why one founder is over the 90-day excercise window](https://equityacademy.secfi.com/equity-academy/once-burned-by-a-90-day-exercise-window-this-founder-is-extending-it-out-to-10-years)
-- [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
-- [800k U.S. Service Members Say No to Pentagon’s Vaccine Mandate – Sandra Rose](https://sandrarose.com/2021/08/800000-u-s-service-members-say-no-to-pentagons-vaccine-mandate/)
-- [Regulators and Reality](https://stratechery.com/2021/regulators-and-reality/)
-- [New sci-fi and fantasy books to check out this September](https://transfer-orbit.ghost.io/september-science-fiction-fantasy-horror-book-list/)
-- [Laravel 8.58 Released](https://laravel-news.com/laravel-8-58-0)
-- [Lockdown was based on faith, not evidence](https://www.telegraph.co.uk/news/2021/08/13/lockdown-based-faith-not-evidence/)
-- [Billionaire-Backed Stock Picker Says Bubble Talk Is for Boomers](https://www.bloomberg.com/news/articles/2021-08-27/billionaire-backed-stock-picker-says-bubble-talk-is-for-boomers)
-- [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
+- [Show HN: a practical Lisp in C](https://github.com/codr7/alisp)
+- [Super Mario World Levels Want to Murder You [slides]](https://kotaku.com/these-10-award-winning-super-mario-world-levels-want-to-1847593801)
+- [Read: Becoming Lucid (free digital copy)](https://www.netgalley.com/catalog/book/234488)
+- [Intuit in Talks to Buy Mailchimp for More Than $10B](https://www.bloomberg.com/news/articles/2021-09-01/intuit-said-in-talks-to-buy-mailchimp-for-more-than-10-billion)
+- [How Many Hours Do Americans Lose to Traffic Congestion?](https://www.visualcapitalist.com/how-many-hours-do-americans-lose-to-traffic-congestion/)
+- [America's Aerospace Industry Is Regenerating](https://austinvernon.eth.link/blog/aerospacemetal.html)
+- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://eng.uber.com/kafka-async-queuing-with-consumer-proxy/)
+- [Spatial Interfaces (2019)](https://1729.com/spatial-interfaces)
+- [Larry Ellison's Oracle Started as a CIA Project (2014)](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238)
+- [Speech Analytics, Business Intelligence on AWS](https://www.youtube.com/watch?v=twsGnp2X-aQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

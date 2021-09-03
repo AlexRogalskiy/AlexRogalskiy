@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple to Allow Spotify, Other Media Apps to Link to Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
-- [The World After Capital](https://worldaftercapital.org/)
-- [The evolution of WebRTC 1.0 (2017)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
-- [Finley (YC W21) is hiring full-stack engineers to reimagine the capital markets](https://www.finleycms.com/careers/)
-- [Old and photos of Bedouin nomads, 1898](https://rarehistoricalphotos.com/old-spectacular-photos-of-bedouin-nomads-1898/)
-- [Japan Fair Trade Commission Closes App Store Investigation](https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)
-- [The Feds Want to Know What the McFuck Is Going on with the McFlurry Machines](https://gizmodo.com/the-feds-want-to-know-what-the-mcfuck-is-going-on-with-1847601805)
-- [Can you guess which movie based on AI-generated poster?](https://noahveltman.com/aimovies/)
-- [Conduit Beta – Matrix chat server](https://conduit.rs/release-0-2-0/)
-- [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
+- [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
+- [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
+- [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
+- [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
+- [Chicken Scheme](https://call-cc.org/)
+- [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- [The Complete GraphQL Security Guide](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
+- [Reddit seeks to hire advisers for U.S. IPO – sources](https://www.reuters.com/article/reddit-ipo/exclusive-reddit-seeks-to-hire-advisers-for-u-s-ipo-sources-idUSL4N2Q434Y)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

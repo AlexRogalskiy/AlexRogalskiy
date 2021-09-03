@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NTT Group to grow global datacentre footprint by 20% over next 18 months](https://www.computerweekly.com/news/252506091/NTT-Group-to-grow-global-datacentre-footprint-by-20-over-next-18-months)
-- [Using geospatial data to unlock innovation in the property sector](https://www.computerweekly.com/opinion/Using-geospatial-data-to-unlock-innovation-in-the-property-sector)
-- [University of Sunderland applies technology through robot dog](https://www.computerweekly.com/news/252506092/University-of-Sunderland-applies-technology-through-robot-dog)
-- [Tech sector spends nearly €100m a year lobbying the EU](https://www.computerweekly.com/news/252506086/Tech-sector-spends-nearly-100m-a-year-lobbying-the-EU)
-- [Makers announces winners of 2021 Women in Software Power List](https://www.computerweekly.com/news/252506090/Makers-announces-winners-of-2021-Women-in-Software-Power-List)
-- [Experts warn on Office 365 phishing attacks](https://www.computerweekly.com/news/252506088/Experts-warn-on-Office-365-phishing-attacks)
-- [Remote workers routinely bypassed security tools during pandemic](https://www.computerweekly.com/news/252506084/Remote-workers-routinely-bypassed-security-tools-during-pandemic)
-- [More NAND SSD in fewer hands as WD $20m Kioxia bid likely](https://www.computerweekly.com/news/252506033/More-NAND-SSD-in-fewer-hands-as-WD-20m-Kioxia-bid-likely)
-- [Subpostmasters demand more clarity on Horizon public inquiry before committing their support](https://www.computerweekly.com/news/252506031/Subpostmasters-demand-more-clarity-on-Horizon-public-inquiry-before-committing-their-support)
-- [Interview: Sofie Blakstad, CEO, hiveonline](https://www.computerweekly.com/news/252505951/Interview-Sofie-Blakstad-CEO-hiveonline)
+- [Apple workers challenge company on toxic workplace culture](https://www.computerweekly.com/news/252506157/Apple-workers-challenge-company-on-toxic-workplace-culture)
+- [Applications for Tech Nation Global Talent Visa hit 4,000](https://www.computerweekly.com/news/252506164/Applications-for-Tech-Nation-Global-Talent-Visa-hit-4000)
+- [How high can the contactless card limit go without two-factor authentication?](https://www.computerweekly.com/news/252506144/How-high-can-the-contactless-card-limit-go-without-two-factor-authentication)
+- [WhatsApp fined €225m over GDPR breaches](https://www.computerweekly.com/news/252506154/WhatsApp-fined-225m-over-GDPR-breaches)
+- [Finance firms faced up to £760,000 costs per DNS attack during pandemic](https://www.computerweekly.com/news/252506150/Finance-firms-faced-up-to-760000-costs-per-DNS-attack-during-pandemic)
+- [Protecting children in the digital playground](https://www.computerweekly.com/opinion/Protecting-children-in-the-digital-playground)
+- [Five key questions to ask about storage-as-a-service and consumption models](https://www.computerweekly.com/feature/Five-key-questions-to-ask-about-storage-as-a-service-and-consumption-models)
+- [Twitter tests auto-block feature for accounts at risk of abuse](https://www.computerweekly.com/news/252506139/Twitter-tests-auto-block-feature-for-accounts-at-risk-of-abuse)
+- [Making the enterprise composable](https://www.computerweekly.com/feature/Making-the-enterprise-composable)
+- [National Highways sets out data-driven plan for Strategic Road Network](https://www.computerweekly.com/news/252506143/National-Highways-sets-out-data-driven-plan-for-Strategic-Road-Network)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

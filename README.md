@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: a practical Lisp in C](https://github.com/codr7/alisp)
-- [Super Mario World Levels Want to Murder You [slides]](https://kotaku.com/these-10-award-winning-super-mario-world-levels-want-to-1847593801)
-- [Read: Becoming Lucid (free digital copy)](https://www.netgalley.com/catalog/book/234488)
-- [Intuit in Talks to Buy Mailchimp for More Than $10B](https://www.bloomberg.com/news/articles/2021-09-01/intuit-said-in-talks-to-buy-mailchimp-for-more-than-10-billion)
-- [How Many Hours Do Americans Lose to Traffic Congestion?](https://www.visualcapitalist.com/how-many-hours-do-americans-lose-to-traffic-congestion/)
-- [America's Aerospace Industry Is Regenerating](https://austinvernon.eth.link/blog/aerospacemetal.html)
-- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://eng.uber.com/kafka-async-queuing-with-consumer-proxy/)
-- [Spatial Interfaces (2019)](https://1729.com/spatial-interfaces)
-- [Larry Ellison's Oracle Started as a CIA Project (2014)](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238)
-- [Speech Analytics, Business Intelligence on AWS](https://www.youtube.com/watch?v=twsGnp2X-aQ)
+- [Review Drift](https://schwitzsplinters.blogspot.com/2021/06/review-drift.html)
+- [GoDaddy gives Texas abortion website notice: Find new host ASAP](https://www.slashgear.com/godaddy-gives-texas-abortion-website-notice-find-new-host-asap-03689530/)
+- [Tech Lead Task List](https://news.ycombinator.com/item?id=28411483)
+- [The Big Semiconductor Water Problem](https://www.youtube.com/watch?v=Dq04GpzRZ0g)
+- [Documenting the Last Pay Phones in America](https://www.bloomberg.com/news/features/2021-08-31/where-can-i-find-a-pay-phone-eric-kunsman-documents-america-s-last-phones)
+- [JSXGraph: Dynamic Mathematics with JavaScript](https://jsxgraph.org/)
+- [US Judge Rejects Bid for Patent by AI 'Inventor'](https://www.barrons.com/news/us-judge-rejects-bid-for-patent-by-ai-inventor-01630702509)
+- [Air Force software is so bad the guy in charge of it all is about to quit](https://taskandpurpose.com/news/air-force-cybersecurity-nicolas-chaillan/)
+- [Bloomberg: Millennials and Gen Z Are Hooked on a $46B Shopping App](https://www.bloomberg.com/news/articles/2021-09-03/millennials-and-gen-z-shoppers-are-addicted-to-46-billion-klarna)
+- [Ransomware is surging, cities and counties are taking some of the biggest hits](https://www.washingtonpost.com/politics/amid-a-surge-in-ransomware-attacks-cities-are-takingsome-ofthe-biggest-hits/2021/09/02/9bd5d654-0a84-11ec-aea1-42a8138f132a_story.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

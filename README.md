@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
-- [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
-- [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
-- [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
-- [Chicken Scheme](https://call-cc.org/)
-- [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- [The Complete GraphQL Security Guide](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
-- [Reddit seeks to hire advisers for U.S. IPO – sources](https://www.reuters.com/article/reddit-ipo/exclusive-reddit-seeks-to-hire-advisers-for-u-s-ipo-sources-idUSL4N2Q434Y)
+- [How did American “wokeness” jump from elite schools to everyday life?](https://www.economist.com/briefing/2021/09/04/how-did-american-wokeness-jump-from-elite-schools-to-everyday-life)
+- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
+- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
+- [uBlock Origin–everything you need to know about the ad blocker](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
+- [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
+- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
+- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
+- [SQLite-TUI: A TUI for viewing SQLite databases, written in Go](https://github.com/mathaou/sqlite-tui)
+- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

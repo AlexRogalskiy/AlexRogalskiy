@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [One man’s epic electric test drive – from Land’s End to John o’Groats – podcast](https://www.theguardian.com/news/audio/2021/sep/03/one-mans-epic-electric-test-drive-from-lands-end-to-john-ogroats-podcast)
-- [Ex-prosecutor indicted for allegedly shielding men in Ahmaud Arbery case](https://www.theguardian.com/us-news/2021/sep/02/ahmaud-arbery-ex-prosecutor-indicted-georgia)
-- [US Open 2021: Novak Djokovic beats Tallon Griekspoor to reach third round – as it happened](https://www.theguardian.com/sport/live/2021/sep/02/us-open-2021-novak-djokovic-v-tallon-griekspoor-and-more-live)
-- [British-born Islamic State terror suspect pleads guilty to multiple charges](https://www.theguardian.com/world/2021/sep/03/british-born-islamic-state-terror-suspect-pleads-guilty-to-syria-beheadings)
-- [UK has no coherent plan for Afghan refugee crisis, says ex-Whitehall chief](https://www.theguardian.com/politics/2021/sep/02/former-top-uk-civil-servant-criticises-bad-policy-afghan-exit-mark-sedwill)
-- [Priti Patel orders review into effects of nitrous oxide](https://www.theguardian.com/society/2021/sep/03/priti-patel-orders-review-into-effects-of-nitrous-oxide)
-- [Women’s Super League 2021-22 previews No 11: Tottenham](https://www.theguardian.com/football/2021/sep/03/womens-super-league-2021-22-previews-no-11-tottenham)
-- [Gareth Southgate calls for protection for his players after abuse in Hungary](https://www.theguardian.com/football/2021/sep/02/englands-victory-over-hungary-marred-by-crowd-trouble-in-budapest)
-- [More than 40 killed in US north-east amid sudden heavy rains and flooding](https://www.theguardian.com/environment/2021/sep/02/flooding-deaths-north-east-us-rain-storms-latest)
-- [Government urged to ‘get a handle’ on supply chain crisis](https://www.theguardian.com/uk-news/2021/sep/02/government-urged-to-get-a-handle-on-supply-chain-crisis)
+- [Second Afghan evacuee boy dies in Poland after eating toxic mushrooms](https://www.theguardian.com/world/2021/sep/04/second-afghan-evacuee-boy-dies-in-poland-after-eating-toxic-mushrooms)
+- [Talking Horses: Starman fancied after rivals fall on hard times at Haydock](https://www.theguardian.com/sport/2021/sep/04/talking-horses-starman-fancied-after-rivals-fall-on-hard-times-at-haydock)
+- [Auckland stabbings: calls for tighter terror laws after extremist allowed to roam free](https://www.theguardian.com/world/2021/sep/04/auckland-stabbings-calls-for-tighter-terror-laws-after-extremist-allowed-to-roam-free)
+- [PM’s ex-aide blames Whitehall staff for Covid ‘mixed messages’](https://www.theguardian.com/politics/2021/sep/04/pm-aide-whitehall-covid-lee-cain)
+- [New Zealand and Australia prepare to do battle (again) over treasured and lucrative Mānuka honey](https://www.theguardian.com/world/2021/sep/04/new-zealand-and-australia-prepare-to-do-battle-again-over-treasured-and-lucrative-manuka-honey)
+- [Leona Maguire and Mel Reid handed task of tackling Korda sisters](https://www.theguardian.com/sport/2021/sep/03/leona-maguire-and-mel-reid-handed-task-of-tackling-korda-sisters)
+- [‘Killer instinct’: England players made stronger by hostile Hungary crowd | David Hytner](https://www.theguardian.com/football/2021/sep/03/hostile-hungary-crowd-made-england-stronger-believes-mason-mount)
+- [Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links](https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi)
+- [Grantchester review – Fleabag-esque hot priest digs into betrayal and blackmail](https://www.theguardian.com/tv-and-radio/2021/sep/03/grantchester-review-fleabag-esque-hot-priest-digs-into-betrayal-and-blackmail)
+- [Manchester United up and running thanks to opening win over Reading](https://www.theguardian.com/football/2021/sep/03/manchester-united-up-and-running-thanks-to-opening-win-over-reading)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

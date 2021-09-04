@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Berlin court reverses ban on use of EncroChat evidence in criminal trials](https://www.computerweekly.com/news/252506233/Berlin-court-reverses-ban-on-use-of-EncroChat-evidence-in-criminal-trials)
+- [Mandiant, Sophos detail dangerous ProxyShell attacks](https://www.computerweekly.com/news/252506225/Mandiant-Sophos-detail-dangerous-ProxyShell-attacks)
+- [Age discrimination: An overlooked diversity issue in tech](https://www.computerweekly.com/feature/Age-discrimination-an-overlooked-diversity-issue-in-tech)
+- [HPE revenue boosted by digitisation drive](https://www.computerweekly.com/news/252506223/HPE-revenue-boosted-by-digitisation-drive)
+- [Equinix acquires two Mumbai datacentres to expand colocation operations into India](https://www.computerweekly.com/news/252506217/Equinix-acquires-two-Mumbai-datacentres-to-expand-colocation-operations-into-India)
+- [China accused of cyber attacks on Norwegian IT systems](https://www.computerweekly.com/news/252506219/China-accused-of-cyber-attacks-on-Norwegian-IT-systems)
 - [Apple workers challenge company on toxic workplace culture](https://www.computerweekly.com/news/252506157/Apple-workers-challenge-company-on-toxic-workplace-culture)
 - [Applications for Tech Nation Global Talent Visa hit 4,000](https://www.computerweekly.com/news/252506164/Applications-for-Tech-Nation-Global-Talent-Visa-hit-4000)
 - [How high can the contactless card limit go without two-factor authentication?](https://www.computerweekly.com/news/252506144/How-high-can-the-contactless-card-limit-go-without-two-factor-authentication)
 - [WhatsApp fined €225m over GDPR breaches](https://www.computerweekly.com/news/252506154/WhatsApp-fined-225m-over-GDPR-breaches)
-- [Finance firms faced up to £760,000 costs per DNS attack during pandemic](https://www.computerweekly.com/news/252506150/Finance-firms-faced-up-to-760000-costs-per-DNS-attack-during-pandemic)
-- [Protecting children in the digital playground](https://www.computerweekly.com/opinion/Protecting-children-in-the-digital-playground)
-- [Five key questions to ask about storage-as-a-service and consumption models](https://www.computerweekly.com/feature/Five-key-questions-to-ask-about-storage-as-a-service-and-consumption-models)
-- [Twitter tests auto-block feature for accounts at risk of abuse](https://www.computerweekly.com/news/252506139/Twitter-tests-auto-block-feature-for-accounts-at-risk-of-abuse)
-- [Making the enterprise composable](https://www.computerweekly.com/feature/Making-the-enterprise-composable)
-- [National Highways sets out data-driven plan for Strategic Road Network](https://www.computerweekly.com/news/252506143/National-Highways-sets-out-data-driven-plan-for-Strategic-Road-Network)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

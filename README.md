@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code editor moves forward on language detection](https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all)
+- [Cloud security and architecture teams need to communicate better](https://www.infoworld.com/article/3632349/cloud-security-and-architecture-teams-need-to-communicate-better.html#tk.rss_all)
 - [Microsoft offers Productivity Power Tools for Visual Studio 2022 IDE](https://www.infoworld.com/article/3632108/microsoft-offers-productivity-power-tools-for-visual-studio-2022-ide.html#tk.rss_all)
 - [How to secure REST with Spring Security](https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html#tk.rss_all)
 - [VMware’s new Tanzu platform aims to unify Kubernetes development](https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [PlanetScale review: Horizontally scalable MySQL in the cloud](https://www.infoworld.com/article/3631149/planetscale-review-mysql-at-cloud-scale.html#tk.rss_all)
 - [Docker Desktop is no longer free for enterprise users](https://www.infoworld.com/article/3630393/docker-desktop-is-no-longer-free-for-enterprise-users.html#tk.rss_all)
 - [Making the case for the intelligent edge](https://www.infoworld.com/article/3631573/making-the-case-for-the-intelligent-edge.html#tk.rss_all)
-- [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_all)
-- [Shifting observability left for cloud-native applications](https://www.infoworld.com/article/3624695/shifting-observability-left-for-cloud-native-applications.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

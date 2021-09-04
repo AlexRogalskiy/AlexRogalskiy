@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Sept. 3, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-3-2021/457865)
+- [What is Western Digital’s OptiNAND?](https://www.itworldcanada.com/article/what-is-western-digitals-optinand/457882)
+- [Cyber Security Today, Sept. 3, 2021 – Accenture stiffens, healthcare institutions hacked and watch for Bluetooth patches](https://www.itworldcanada.com/article/cyber-security-today-sept-3-2021-accenture-stiffens-healthcare-institutions-hacked-and-watch-for-bluetooth-patches/457877)
+- [Hashtag Trending Sept. 3, 2021 – Yahoo and AOL acquired; WhatsApp breaches EU data privacy law; customers can soon use their driver’s license in Apple Wallet](https://www.itworldcanada.com/article/hashtag-trending-sept-3-2021-yahoo-and-aol-acquired-whatsapp-breaches-eu-data-privacy-law-customers-can-soon-use-their-drivers-license-in-apple-wallet/457887)
 - [Ontario shouldn’t re-invent the wheel with COVID vaccine verification app, says developer](https://www.itworldcanada.com/article/ontario-shouldnt-re-invent-the-wheel-with-covid-vaccine-verification-app-says-developer/457772)
 - [Canadian company touts test of its quantum key distribution solution](https://www.itworldcanada.com/article/canadian-company-touts-test-of-its-quantum-key-distribution-solution/457619)
 - [Hashtag Trending September 2 – IBM commission lawsuit; Amazon’s hiring spree; Ineligible Windows 11 testers get the boot](https://www.itworldcanada.com/article/hashtag-trending-september-2-ibm-commission-lawsuit-amazons-hiring-spree-ineligible-windows-11-testers-get-the-boot/457842)
 - [Bell and Telus asks Federal Court to block Videotron’s 5G specrum purchase](https://www.itworldcanada.com/article/bell-and-telus-asks-federal-court-to-block-videotrons-5g-specrum-purchase/457773)
 - [Flaw found in the implementation of Quebec COVID passport app’s verification method](https://www.itworldcanada.com/article/flaw-found-in-the-implementation-of-quebec-covid-passport-apps-verification-method/457751)
 - [Cyber Security Today, Sept. 1, 2021 – Women in Cyber Day, weekend cyber attack warning, worst IT practices and beware of proxyware](https://www.itworldcanada.com/article/cyber-security-today-sept-1-2021-women-in-cyber-day-weekend-cyber-attack-warning-worst-it-practices-and-beware-of-proxyware/457741)
-- [Hashtag Trending Sept. 1 – Subreddits go dark; phone calls optional; Windows 11 launch date](https://www.itworldcanada.com/article/hashtag-trending-sept-1-subreddits-go-dark-phone-calls-optional-windows-11-launch-date/457745)
-- [Windows 11 release date announced; no Android app support at launch](https://www.itworldcanada.com/article/windows-11-release-date-announced-no-android-app-support-at-launch/457736)
-- [Coffee Briefing, August 31, 2021 – Global logistics platform firm expands in Canada; Apple’s News Partner Program; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-august-31-2021-global-logistics-platform-firm-expands-in-canada-apples-news-partner-program-a-podcast-roundup-and-more/457716)
-- [Hashtag Trending August 31 – Hackers retire; China limits online game play-time; Canadian battery lawsuit settlement](https://www.itworldcanada.com/article/hashtag-trending-august-31-hackers-retire-china-limits-online-game-play-time-canadian-battery-lawsuit-settlement/457723)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-what-s-in-the-latest-build.html#tk.rss_all)
+- [Apple backs off controversial child-safety plans](https://www.computerworld.com/article/3632273/apple-backs-off-controversial-child-safety-plans.html#tk.rss_all)
+- [Three ways conversational AI could boost productivity](https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html#tk.rss_all)
+- [Low-code/no-code yields solutions that fit](https://www.computerworld.com/article/3631542/low-code-no-code-yields-solutions-that-fit.html#tk.rss_all)
+- [The best travel apps for Android](https://www.computerworld.com/article/3283329/the-best-travel-apps-for-android.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Podcast: Windows 11 overview: Hardware requirements, security updates and upgrade confusion](https://www.computerworld.com/article/3632354/podcast-windows-11-overview-hardware-requirements-security-updates-and-upgrade-confusion.html#tk.rss_all)
 - [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
 - [Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services](https://www.computerworld.com/article/3632129/microsoft-sets-nov-1-deadline-for-shutting-off-old-outlook-clients-from-365-services.html#tk.rss_all)
 - [BrandPost: Rising Phone Fraud Can Jeopardize Operations and Earnings](https://www.computerworld.com/article/3632093/rising-phone-fraud-can-jeopardize-operations-and-earnings.html#tk.rss_all)
-- [IDC: Collaboration software spending looks strong, even as offices move to reopen](https://www.computerworld.com/article/3632049/idc-collaboration-software-spending-looks-strong-even-as-offices-move-to-reopen.html#tk.rss_all)
-- [Apple's next services opportunity? The Apple Car](https://www.computerworld.com/article/3631417/apples-next-services-opportunity-the-apple-car.html#tk.rss_all)
-- [The most important enhancement you can make to Gboard on Android](https://www.computerworld.com/article/3631590/gboard-android-google-enhancement.html#tk.rss_all)
-- [Microsoft to launch Windows 11 on Oct. 5; rollout to last into ‘22](https://www.computerworld.com/article/3631578/microsoft-to-launch-windows-11-on-oct-5-rollout-to-last-into-22.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How did American “wokeness” jump from elite schools to everyday life?](https://www.economist.com/briefing/2021/09/04/how-did-american-wokeness-jump-from-elite-schools-to-everyday-life)
-- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
-- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
-- [uBlock Origin–everything you need to know about the ad blocker](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
-- [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
-- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
-- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
-- [SQLite-TUI: A TUI for viewing SQLite databases, written in Go](https://github.com/mathaou/sqlite-tui)
-- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
+- [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
+- [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
+- [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
+- [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
+- [BookWyrm Is the Federated Goodreads Replacement I Didn’t Know I Needed](https://wedistribute.org/2021/08/bookwyrm-is-the-federated-goodreads-replacement-i-didnt-know-i-needed/)
+- [Object-Oriented Programming in C (Quantum Leaps, LLC; April 2019) [pdf]](https://www.state-machine.com/doc/AN_OOP_in_C.pdf)
+- [200 Years Ago, Faraday Invented the Electric Motor](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor)
+- [Vapor-collection technology saves water while clearing the air](https://news.mit.edu/2021/infinite-cooling-nuclear-0803)
+- [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
+- [Unearthing the City Grid That Would Have Been in Central Park (2016)](https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

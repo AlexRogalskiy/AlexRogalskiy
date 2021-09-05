@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Review Drift](https://schwitzsplinters.blogspot.com/2021/06/review-drift.html)
-- [GoDaddy gives Texas abortion website notice: Find new host ASAP](https://www.slashgear.com/godaddy-gives-texas-abortion-website-notice-find-new-host-asap-03689530/)
-- [Tech Lead Task List](https://news.ycombinator.com/item?id=28411483)
-- [The Big Semiconductor Water Problem](https://www.youtube.com/watch?v=Dq04GpzRZ0g)
-- [Documenting the Last Pay Phones in America](https://www.bloomberg.com/news/features/2021-08-31/where-can-i-find-a-pay-phone-eric-kunsman-documents-america-s-last-phones)
-- [JSXGraph: Dynamic Mathematics with JavaScript](https://jsxgraph.org/)
-- [US Judge Rejects Bid for Patent by AI 'Inventor'](https://www.barrons.com/news/us-judge-rejects-bid-for-patent-by-ai-inventor-01630702509)
-- [Air Force software is so bad the guy in charge of it all is about to quit](https://taskandpurpose.com/news/air-force-cybersecurity-nicolas-chaillan/)
-- [Bloomberg: Millennials and Gen Z Are Hooked on a $46B Shopping App](https://www.bloomberg.com/news/articles/2021-09-03/millennials-and-gen-z-shoppers-are-addicted-to-46-billion-klarna)
-- [Ransomware is surging, cities and counties are taking some of the biggest hits](https://www.washingtonpost.com/politics/amid-a-surge-in-ransomware-attacks-cities-are-takingsome-ofthe-biggest-hits/2021/09/02/9bd5d654-0a84-11ec-aea1-42a8138f132a_story.html)
+- [Main](https://www.wsj.com/articles/main-street-pensions-take-wall-street-gamble-by-investing-borrowed-money-11630774800)
+- [Do Software Developers Understand Open Source Licenses?](https://neverworkintheory.org/2021/09/04/do-software-developers-understand-open-source-licenses.html)
+- [Line Markov Chain](https://theorangeduck.com/page/17-line-markov-chain)
+- [Tether](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
+- [Austin ISD to screen employees’ social media accounts](https://www.kxan.com/news/local/austin/austin-isd-to-screen-employees-social-media-accounts-for-violent-racist-content/)
+- [Analogue Pocket Console](https://www.analogue.co/pocket)
+- [How to Describe Your Horrifyingly Terrible Dumpster Fire Job in an Interview](https://www.linkedin.com/pulse/how-describe-your-horrifyingly-terrible-dumpster-fire-scott/)
+- [Ask HN: How should aspiring founders plan financially?](https://news.ycombinator.com/item?id=28421083)
+- [Mtrees.io: Technology Design Game](https://mtrees.io/)
+- [Show HN: Remap keys on windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

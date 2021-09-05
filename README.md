@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Second Afghan evacuee boy dies in Poland after eating toxic mushrooms](https://www.theguardian.com/world/2021/sep/04/second-afghan-evacuee-boy-dies-in-poland-after-eating-toxic-mushrooms)
-- [Talking Horses: Starman fancied after rivals fall on hard times at Haydock](https://www.theguardian.com/sport/2021/sep/04/talking-horses-starman-fancied-after-rivals-fall-on-hard-times-at-haydock)
-- [Auckland stabbings: calls for tighter terror laws after extremist allowed to roam free](https://www.theguardian.com/world/2021/sep/04/auckland-stabbings-calls-for-tighter-terror-laws-after-extremist-allowed-to-roam-free)
-- [PM’s ex-aide blames Whitehall staff for Covid ‘mixed messages’](https://www.theguardian.com/politics/2021/sep/04/pm-aide-whitehall-covid-lee-cain)
-- [New Zealand and Australia prepare to do battle (again) over treasured and lucrative Mānuka honey](https://www.theguardian.com/world/2021/sep/04/new-zealand-and-australia-prepare-to-do-battle-again-over-treasured-and-lucrative-manuka-honey)
-- [Leona Maguire and Mel Reid handed task of tackling Korda sisters](https://www.theguardian.com/sport/2021/sep/03/leona-maguire-and-mel-reid-handed-task-of-tackling-korda-sisters)
-- [‘Killer instinct’: England players made stronger by hostile Hungary crowd | David Hytner](https://www.theguardian.com/football/2021/sep/03/hostile-hungary-crowd-made-england-stronger-believes-mason-mount)
-- [Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links](https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi)
-- [Grantchester review – Fleabag-esque hot priest digs into betrayal and blackmail](https://www.theguardian.com/tv-and-radio/2021/sep/03/grantchester-review-fleabag-esque-hot-priest-digs-into-betrayal-and-blackmail)
-- [Manchester United up and running thanks to opening win over Reading](https://www.theguardian.com/football/2021/sep/03/manchester-united-up-and-running-thanks-to-opening-win-over-reading)
+- [Saudi forces intercept ballistic missiles and drones fired from Yemen](https://www.theguardian.com/world/2021/sep/05/saudi-forces-intercept-ballistic-missiles-and-drones-fired-from-yemen)
+- [New Zealand stabbings: officials tried for years to deport terrorist prior to Auckland attack, Jacinda Ardern says](https://www.theguardian.com/world/2021/sep/05/new-zealand-stabbings-officials-tried-for-years-to-deport-terrorist-prior-to-auckland-attack-jacinda-adern-says)
+- [Controversy over Nelly Korda’s ball mars opening of Solheim Cup](https://www.theguardian.com/sport/2021/sep/05/controversy-over-nelly-kordas-ball-mars-opening-of-solheim-cup)
+- [Bidders’ enthusiasm for Morrisons unlikely to be dampened by results](https://www.theguardian.com/business/2021/sep/05/bidders-enthusiasm-for-morrisons-unlikely-to-be-dampened-by-results)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/04/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Prince Charles’s former aide steps down as charity boss amid conduct inquiry](https://www.theguardian.com/uk-news/2021/sep/04/prince-charless-former-aide-steps-down-as-charity-boss-amid-conduct-inquiry)
+- [NHS gender identity clinic whistleblower wins damages](https://www.theguardian.com/society/2021/sep/04/gender-identity-clinic-whistleblower-wins-damages)
+- [Josh Warrington frustrated as clash of heads in Lara rematch leads to draw](https://www.theguardian.com/sport/2021/sep/04/josh-warrington-frustrated-as-mauricio-lara-rematch-ends-in-draw)
+- [Catalans Dragons storm past St Helens to take League Leaders’ Shield at Magic Weekend](https://www.theguardian.com/sport/2021/sep/04/catalans-dragons-st-helens-super-league-magic-weekend)
+- [Southgate tells players to stay humble as England prepare for Andorra](https://www.theguardian.com/football/2021/sep/04/england-andorra-gareth-southgate-jadon-sancho)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

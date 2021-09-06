@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Main](https://www.wsj.com/articles/main-street-pensions-take-wall-street-gamble-by-investing-borrowed-money-11630774800)
-- [Do Software Developers Understand Open Source Licenses?](https://neverworkintheory.org/2021/09/04/do-software-developers-understand-open-source-licenses.html)
-- [Line Markov Chain](https://theorangeduck.com/page/17-line-markov-chain)
-- [Tether](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
-- [Austin ISD to screen employees’ social media accounts](https://www.kxan.com/news/local/austin/austin-isd-to-screen-employees-social-media-accounts-for-violent-racist-content/)
-- [Analogue Pocket Console](https://www.analogue.co/pocket)
-- [How to Describe Your Horrifyingly Terrible Dumpster Fire Job in an Interview](https://www.linkedin.com/pulse/how-describe-your-horrifyingly-terrible-dumpster-fire-scott/)
-- [Ask HN: How should aspiring founders plan financially?](https://news.ycombinator.com/item?id=28421083)
-- [Mtrees.io: Technology Design Game](https://mtrees.io/)
-- [Show HN: Remap keys on windows without installing anything](https://n8ta.com/projects/windows_key_remapper.html)
+- [Republicans Incorrectly Address Marissa Mayer as Yahoo CEO](https://www.businessinsider.com/house-republicans-marissa-mayer-yahoo-ceo-january-6-2021-9)
+- [Monkeys, like humans, choke under pressure](https://sapienjournal.org/monkeys-like-humans-choke-under-pressure/)
+- [Roogle: Search Rust API functions by type signatures](https://github.com/hkmatsumoto/roogle)
+- [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
+- [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
+- [Longitudinal Content Analysis of Nerd Representations in Popular Television](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1809&context=open_access_etds)
+- [Are we on the road to civilisation collapse?](https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse)
+- [What can I do when I see passengers without masks on my flight?](https://travel.stackexchange.com/q/168537/101)
+- [The Lives of the Last Neanderthals](https://www.bbc.com/future/article/20200128-how-did-the-last-neanderthals-live)
+- [Flour Advice from Washington State University's Bread Lab (2020)](https://www.wired.com/story/bread-boom-science-stephen-jones)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

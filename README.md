@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Saudi forces intercept ballistic missiles and drones fired from Yemen](https://www.theguardian.com/world/2021/sep/05/saudi-forces-intercept-ballistic-missiles-and-drones-fired-from-yemen)
-- [New Zealand stabbings: officials tried for years to deport terrorist prior to Auckland attack, Jacinda Ardern says](https://www.theguardian.com/world/2021/sep/05/new-zealand-stabbings-officials-tried-for-years-to-deport-terrorist-prior-to-auckland-attack-jacinda-adern-says)
-- [Controversy over Nelly Korda’s ball mars opening of Solheim Cup](https://www.theguardian.com/sport/2021/sep/05/controversy-over-nelly-kordas-ball-mars-opening-of-solheim-cup)
-- [Bidders’ enthusiasm for Morrisons unlikely to be dampened by results](https://www.theguardian.com/business/2021/sep/05/bidders-enthusiasm-for-morrisons-unlikely-to-be-dampened-by-results)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/04/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Prince Charles’s former aide steps down as charity boss amid conduct inquiry](https://www.theguardian.com/uk-news/2021/sep/04/prince-charless-former-aide-steps-down-as-charity-boss-amid-conduct-inquiry)
-- [NHS gender identity clinic whistleblower wins damages](https://www.theguardian.com/society/2021/sep/04/gender-identity-clinic-whistleblower-wins-damages)
-- [Josh Warrington frustrated as clash of heads in Lara rematch leads to draw](https://www.theguardian.com/sport/2021/sep/04/josh-warrington-frustrated-as-mauricio-lara-rematch-ends-in-draw)
-- [Catalans Dragons storm past St Helens to take League Leaders’ Shield at Magic Weekend](https://www.theguardian.com/sport/2021/sep/04/catalans-dragons-st-helens-super-league-magic-weekend)
-- [Southgate tells players to stay humble as England prepare for Andorra](https://www.theguardian.com/football/2021/sep/04/england-andorra-gareth-southgate-jadon-sancho)
+- [One hour to escape: the race to get out of a Gaza tower before an Israeli airstrike –podcast](https://www.theguardian.com/news/audio/2021/sep/06/one-hour-to-escape-the-race-to-get-out-of-a-gaza-tower-before-an-israeli-airstrike-podcast)
+- [‘Ground-breaking’ New Zealand artist Billy Apple dies aged 85](https://www.theguardian.com/world/2021/sep/06/ground-breaking-new-zealand-artist-billy-apple-dies-aged-85)
+- [Guinean soldiers claim to have seized power in coup attempt](https://www.theguardian.com/world/2021/sep/05/guinean-soldiers-claim-to-have-seized-power-in-coup-attempt)
+- [Florida shooting: ex-US marine suspected of killing four, including a baby](https://www.theguardian.com/us-news/2021/sep/06/florida-shooting-ex-us-marine-suspected-of-killing-four-including-a-baby)
+- [Hurricane Ida: divers find broken pipeline in search for source of Gulf oil spill](https://www.theguardian.com/environment/2021/sep/05/oil-spill-gulf-coast-hurricane-ida)
+- [Saadi Gaddafi, son of former Libya dictator Muammar Gaddafi, released from prison](https://www.theguardian.com/world/2021/sep/06/saadi-gaddafi-son-of-former-libya-dictator-muammar-gaddafi-released-from-prison)
+- [Europe take 9-7 lead over US into final day of tense Solheim Cup](https://www.theguardian.com/sport/2021/sep/06/europe-take-two-point-lead-over-us-into-final-day-of-tense-solheim-cup)
+- [Health journals make joint call for urgent action on climate crisis](https://www.theguardian.com/environment/2021/sep/06/more-than-200-health-journals-call-for-urgent-action-on-climate-crisis)
+- [Marcus Rashford urges government to keep £20 universal credit top-up](https://www.theguardian.com/football/2021/sep/06/marcus-rashford-urges-government-to-keep-20-universal-credit-top-up)
+- [River of life: zoo’s yearly count finds seals thriving on Thames](https://www.theguardian.com/environment/2021/sep/06/river-of-life-zoos-yearly-count-finds-seals-thriving-on-thames-aoe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

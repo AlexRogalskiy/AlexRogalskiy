@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [New hacking group emerges, claims two Canadian victims](https://www.itworldcanada.com/article/new-hacking-group-emerges-claims-two-canadian-victims/457918)
 - [Cyber Security Today, Week in Review for Sept. 3, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-3-2021/457865)
 - [What is Western Digital’s OptiNAND?](https://www.itworldcanada.com/article/what-is-western-digitals-optinand/457882)
 - [Cyber Security Today, Sept. 3, 2021 – Accenture stiffens, healthcare institutions hacked and watch for Bluetooth patches](https://www.itworldcanada.com/article/cyber-security-today-sept-3-2021-accenture-stiffens-healthcare-institutions-hacked-and-watch-for-bluetooth-patches/457877)
@@ -430,7 +431,6 @@
 - [Hashtag Trending September 2 – IBM commission lawsuit; Amazon’s hiring spree; Ineligible Windows 11 testers get the boot](https://www.itworldcanada.com/article/hashtag-trending-september-2-ibm-commission-lawsuit-amazons-hiring-spree-ineligible-windows-11-testers-get-the-boot/457842)
 - [Bell and Telus asks Federal Court to block Videotron’s 5G specrum purchase](https://www.itworldcanada.com/article/bell-and-telus-asks-federal-court-to-block-videotrons-5g-specrum-purchase/457773)
 - [Flaw found in the implementation of Quebec COVID passport app’s verification method](https://www.itworldcanada.com/article/flaw-found-in-the-implementation-of-quebec-covid-passport-apps-verification-method/457751)
-- [Cyber Security Today, Sept. 1, 2021 – Women in Cyber Day, weekend cyber attack warning, worst IT practices and beware of proxyware](https://www.itworldcanada.com/article/cyber-security-today-sept-1-2021-women-in-cyber-day-weekend-cyber-attack-warning-worst-it-practices-and-beware-of-proxyware/457741)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

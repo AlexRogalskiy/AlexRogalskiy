@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
-- [Materials to get lights on are getting scarce](https://www.reddit.com/r/PrepperIntel/comments/piddj6/electric_distribution_utility_employee_here_in/)
-- [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
-- [4k Free Movies Online](https://www.openculture.com/freemoviesonline)
-- [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
-- [E-Ink Typewriter](https://github.com/olup/kobowriter)
-- [Art student’s 407-piece hand-carved wooden clock (2016)](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
-- [Terraform is currently not reviewing community pull requests](https://github.com/hashicorp/terraform/commit/6562466c32a8750d7a71a6cc6232e6b5a28fe13a)
-- [Ask HN: What could a modern database do that PostgreSQL and MySQL can't](https://news.ycombinator.com/item?id=28425379)
+- [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
+- [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+- [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
+- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
+- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
+- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
+- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
+- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
+- [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
+- [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

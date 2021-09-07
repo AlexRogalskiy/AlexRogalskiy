@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [4 quick tips for Cortana in Windows 10](https://www.computerworld.com/article/3043552/4-quick-tips-for-cortana-in-windows-10.html#tk.rss_all)
 - [Apple backs off controversial child-safety plans](https://www.computerworld.com/article/3632273/apple-backs-off-controversial-child-safety-plans.html#tk.rss_all)
 - [Three ways conversational AI could boost productivity](https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html#tk.rss_all)
 - [Low-code/no-code yields solutions that fit](https://www.computerworld.com/article/3631542/low-code-no-code-yields-solutions-that-fit.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [Podcast: Windows 11 overview: Hardware requirements, security updates and upgrade confusion](https://www.computerworld.com/article/3632354/podcast-windows-11-overview-hardware-requirements-security-updates-and-upgrade-confusion.html#tk.rss_all)
 - [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
 - [Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services](https://www.computerworld.com/article/3632129/microsoft-sets-nov-1-deadline-for-shutting-off-old-outlook-clients-from-365-services.html#tk.rss_all)
-- [BrandPost: Rising Phone Fraud Can Jeopardize Operations and Earnings](https://www.computerworld.com/article/3632093/rising-phone-fraud-can-jeopardize-operations-and-earnings.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

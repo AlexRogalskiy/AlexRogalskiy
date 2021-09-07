@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Republicans Incorrectly Address Marissa Mayer as Yahoo CEO](https://www.businessinsider.com/house-republicans-marissa-mayer-yahoo-ceo-january-6-2021-9)
-- [Monkeys, like humans, choke under pressure](https://sapienjournal.org/monkeys-like-humans-choke-under-pressure/)
-- [Roogle: Search Rust API functions by type signatures](https://github.com/hkmatsumoto/roogle)
-- [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
-- [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
-- [Longitudinal Content Analysis of Nerd Representations in Popular Television](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1809&context=open_access_etds)
-- [Are we on the road to civilisation collapse?](https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse)
-- [What can I do when I see passengers without masks on my flight?](https://travel.stackexchange.com/q/168537/101)
-- [The Lives of the Last Neanderthals](https://www.bbc.com/future/article/20200128-how-did-the-last-neanderthals-live)
-- [Flour Advice from Washington State University's Bread Lab (2020)](https://www.wired.com/story/bread-boom-science-stephen-jones)
+- [Show HN: An App that help you keep your notes safe and secure](https://sixbytes.io/safetynote/index.html)
+- [Seeing Like the TSA](https://www.windley.com/archives/2021/08/seeing_like_the_tsa.shtml)
+- [OnlyFans Is Not a Safe Platform for ‘Sex Work.’ It’s a Pimp](https://www.nytimes.com/2021/09/06/opinion/onlyfans-sex-work-safety.html)
+- [Loot and the Future of Gaming](https://naavik.co/themetas/loot)
+- [Food Wars - Will we ever get a clear idea about what we should eat?](https://aeon.co/essays/will-we-ever-get-a-clear-idea-about-what-foods-we-should-eat)
+- [Hanabi board game strategy, 200 page reference](https://hanabi.github.io/docs/reference/)
+- [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
+- [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/telosa-marc-lore-blake-ingels-new-city/index.html)
+- [Centralia Mine Disaster [video]](https://youtube.com/watch?v=BwvpAlvM-SA)
+- [Ask HN: What would it take for you to stop using Hacker News?](https://news.ycombinator.com/item?id=28439937)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

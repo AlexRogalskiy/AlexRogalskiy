@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [One hour to escape: the race to get out of a Gaza tower before an Israeli airstrike –podcast](https://www.theguardian.com/news/audio/2021/sep/06/one-hour-to-escape-the-race-to-get-out-of-a-gaza-tower-before-an-israeli-airstrike-podcast)
-- [‘Ground-breaking’ New Zealand artist Billy Apple dies aged 85](https://www.theguardian.com/world/2021/sep/06/ground-breaking-new-zealand-artist-billy-apple-dies-aged-85)
-- [Guinean soldiers claim to have seized power in coup attempt](https://www.theguardian.com/world/2021/sep/05/guinean-soldiers-claim-to-have-seized-power-in-coup-attempt)
-- [Florida shooting: ex-US marine suspected of killing four, including a baby](https://www.theguardian.com/us-news/2021/sep/06/florida-shooting-ex-us-marine-suspected-of-killing-four-including-a-baby)
-- [Hurricane Ida: divers find broken pipeline in search for source of Gulf oil spill](https://www.theguardian.com/environment/2021/sep/05/oil-spill-gulf-coast-hurricane-ida)
-- [Saadi Gaddafi, son of former Libya dictator Muammar Gaddafi, released from prison](https://www.theguardian.com/world/2021/sep/06/saadi-gaddafi-son-of-former-libya-dictator-muammar-gaddafi-released-from-prison)
-- [Europe take 9-7 lead over US into final day of tense Solheim Cup](https://www.theguardian.com/sport/2021/sep/06/europe-take-two-point-lead-over-us-into-final-day-of-tense-solheim-cup)
-- [Health journals make joint call for urgent action on climate crisis](https://www.theguardian.com/environment/2021/sep/06/more-than-200-health-journals-call-for-urgent-action-on-climate-crisis)
-- [Marcus Rashford urges government to keep £20 universal credit top-up](https://www.theguardian.com/football/2021/sep/06/marcus-rashford-urges-government-to-keep-20-universal-credit-top-up)
-- [River of life: zoo’s yearly count finds seals thriving on Thames](https://www.theguardian.com/environment/2021/sep/06/river-of-life-zoos-yearly-count-finds-seals-thriving-on-thames-aoe)
+- [Burnout in the US battle against wildfires](https://www.theguardian.com/news/audio/2021/sep/07/burnout-in-the-us-battle-against-wildfires)
+- [Prenatal gene test Nifty under international scrutiny amid links to Chinese military](https://www.theguardian.com/world/2021/sep/07/chinese-prenatal-gene-test-under-scrutiny-amid-links-to-military)
+- [Hong Kong: international companies reconsider future in wake of security law](https://www.theguardian.com/world/2021/sep/07/hong-kong-international-companies-reconsider-future-in-wake-of-security-law)
+- [Pelé recovering in hospital after operation to remove tumour](https://www.theguardian.com/football/2021/sep/07/pele-recovering-in-hospital-after-operation-to-remove-tumour)
+- [More global aid goes to fossil fuel projects than tackling dirty air – study](https://www.theguardian.com/environment/2021/sep/07/more-global-aid-goes-to-fossil-fuel-projects-than-tackling-dirty-air-study-pollution)
+- [‘The equivalent of shouting fire’: coughing in theatres is new taboo](https://www.theguardian.com/stage/2021/sep/07/the-equivalent-of-shouting-fire-coughing-in-theatres-is-new-taboo)
+- [Europe retain Solheim Cup after thrilling victory over USA](https://www.theguardian.com/sport/2021/sep/06/europe-retain-solheim-cup-after-thrilling-victory-over-usa)
+- [Boris Johnson faces growing red wall rebellion over social care tax rises](https://www.theguardian.com/society/2021/sep/06/boris-johnson-faces-growing-red-wall-rebellion-over-social-care-tax-rises)
+- [Shelby Rogers expects death threats after US Open loss to Emma Raducanu](https://www.theguardian.com/sport/2021/sep/06/shelby-rogers-death-threats-us-open-tennis-social-media)
+- [‘Novel of the moment’: Sally Rooney’s third book hits the shelves](https://www.theguardian.com/books/2021/sep/06/novel-of-the-moment-sally-rooneys-third-book-hits-the-shelves)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

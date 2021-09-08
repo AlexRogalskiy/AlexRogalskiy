@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: An App that help you keep your notes safe and secure](https://sixbytes.io/safetynote/index.html)
-- [Seeing Like the TSA](https://www.windley.com/archives/2021/08/seeing_like_the_tsa.shtml)
-- [OnlyFans Is Not a Safe Platform for ‘Sex Work.’ It’s a Pimp](https://www.nytimes.com/2021/09/06/opinion/onlyfans-sex-work-safety.html)
-- [Loot and the Future of Gaming](https://naavik.co/themetas/loot)
-- [Food Wars - Will we ever get a clear idea about what we should eat?](https://aeon.co/essays/will-we-ever-get-a-clear-idea-about-what-foods-we-should-eat)
-- [Hanabi board game strategy, 200 page reference](https://hanabi.github.io/docs/reference/)
-- [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
-- [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/telosa-marc-lore-blake-ingels-new-city/index.html)
-- [Centralia Mine Disaster [video]](https://youtube.com/watch?v=BwvpAlvM-SA)
-- [Ask HN: What would it take for you to stop using Hacker News?](https://news.ycombinator.com/item?id=28439937)
+- [Cyclocrane Heliostat](https://www.youtube.com/watch?v=cWLhH3wsxUo)
+- [Poka Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
+- [At this point, I have 1 in 5 eBay transactions resulting in a scam as a seller](https://twitter.com/geerlingguy/status/1435070688617025541)
+- [Ask HN: Is Archive.today Down?](https://news.ycombinator.com/item?id=28452216)
+- [Got Me a Cointree](https://violenceislife.substack.com/p/got-me-a-cointree)
+- [Britney Spears’s Father Files to End Her Conservatorship](https://www.nytimes.com/2021/09/07/arts/music/jamie-spears-britney-conservatorship.html)
+- [Exploring quantum gravity and entanglement using pendulums](https://phys.org/news/2021-09-exploring-quantum-gravity-entanglement-pendulums.html)
+- [Man sentenced for charging businesses inflated prices in printer toner scam](https://www.marketwatch.com/story/californian-man-79-sentenced-to-4-years-for-charging-small-businesses-and-charities-hugely-inflated-prices-for-printer-toner-11630964298)
+- [The US's other priorities precluded a win in Afghanistan](https://xhxhxhx.tumblr.com/post/661720591965061120/i-wrote-something-about-afghanistan-that-people)
+- [Stolen Inventions](https://www.kickstarter.com/projects/bunchoballoons/bunch-o-balloons-100-water-balloons-in-less-than-1/posts/3291364)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Crewdle offers secure, simple and sustainable video conferencing by leveraging peer-to-peer technologies](https://www.itworldcanada.com/article/crewdle-offers-secure-simple-and-sustainable-video-conferencing-by-leveraging-peer-to-peer-technologies/457983)
+- [Waterloo develops app to help find missing people with dementia](https://www.itworldcanada.com/article/waterloo-develops-app-to-help-find-missing-people-with-dementia/457912)
+- [Trend Micro partners with Carleton University to launch STEM program for women](https://www.itworldcanada.com/article/trend-micro-partners-with-carleton-university-to-launch-stem-program-for-women/457963)
+- [Coffee Briefing, Sept. 7, 2021 – recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-7-2021-recent-tech-news-a-podcast-roundup-and-more/457926)
+- [Hashtag Trending Sept. 7, 2021 – Resume scanners reject good hires; AIs can’t file for patents; Germany wants to extend smartphone lifespan](https://www.itworldcanada.com/article/hashtag-trending-sept-7-2021-resume-scanners-reject-good-hires-ais-cant-file-for-patents-germany-wants-to-extend-smartphone-lifespan/457951)
 - [Cyber Security Today, Sept. 6, 2021 – Sextortion on the rise](https://www.itworldcanada.com/article/cyber-security-today-sept-6-2021-sextortion-on-the-rise/457915)
 - [New hacking group emerges, claims two Canadian victims](https://www.itworldcanada.com/article/new-hacking-group-emerges-claims-two-canadian-victims/457918)
 - [Cyber Security Today, Week in Review for Sept. 3, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-3-2021/457865)
 - [What is Western Digital’s OptiNAND?](https://www.itworldcanada.com/article/what-is-western-digitals-optinand/457882)
 - [Cyber Security Today, Sept. 3, 2021 – Accenture stiffens, healthcare institutions hacked and watch for Bluetooth patches](https://www.itworldcanada.com/article/cyber-security-today-sept-3-2021-accenture-stiffens-healthcare-institutions-hacked-and-watch-for-bluetooth-patches/457877)
-- [Hashtag Trending Sept. 3, 2021 – Yahoo and AOL acquired; WhatsApp breaches EU data privacy law; customers can soon use their driver’s license in Apple Wallet](https://www.itworldcanada.com/article/hashtag-trending-sept-3-2021-yahoo-and-aol-acquired-whatsapp-breaches-eu-data-privacy-law-customers-can-soon-use-their-drivers-license-in-apple-wallet/457887)
-- [Ontario shouldn’t re-invent the wheel with COVID vaccine verification app, says developer](https://www.itworldcanada.com/article/ontario-shouldnt-re-invent-the-wheel-with-covid-vaccine-verification-app-says-developer/457772)
-- [Canadian company touts test of its quantum key distribution solution](https://www.itworldcanada.com/article/canadian-company-touts-test-of-its-quantum-key-distribution-solution/457619)
-- [Hashtag Trending September 2 – IBM commission lawsuit; Amazon’s hiring spree; Ineligible Windows 11 testers get the boot](https://www.itworldcanada.com/article/hashtag-trending-september-2-ibm-commission-lawsuit-amazons-hiring-spree-ineligible-windows-11-testers-get-the-boot/457842)
-- [Bell and Telus asks Federal Court to block Videotron’s 5G specrum purchase](https://www.itworldcanada.com/article/bell-and-telus-asks-federal-court-to-block-videotrons-5g-specrum-purchase/457773)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

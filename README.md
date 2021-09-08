@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [TLA Black Women in Tech to launch book about tech role models](https://www.computerweekly.com/news/252506336/TLA-Black-Women-in-Tech-to-launch-book-about-tech-role-models)
+- [Procuring law enforcement tech needs greater scrutiny](https://www.computerweekly.com/news/252506333/Procuring-law-enforcement-tech-needs-greater-scrutiny)
+- [ICO in bid to end cookie pop-ups](https://www.computerweekly.com/news/252506318/ICO-in-bid-to-end-cookie-pop-ups)
+- [Banking anti-fraud scheme blocks 65% more fraud](https://www.computerweekly.com/news/252506320/Banking-anti-fraud-scheme-blocks-65-more-fraud)
+- [Government opens £2bn chest for big data analytics](https://www.computerweekly.com/news/252506303/Government-opens-2bn-chest-for-big-data-analytics)
+- [Security Think Tank: A response to planned data protection changes](https://www.computerweekly.com/opinion/Security-Think-Tank-A-response-to-planned-data-protection-changes)
+- [Highways England delivers a digital roadmap](https://www.computerweekly.com/ezine/Computer-Weekly/Highways-England-delivers-a-digital-roadmap)
 - [Nokia launches online tech scholarship for under-represented talent](https://www.computerweekly.com/news/252506296/Nokia-launches-online-tech-scholarship-for-under-represented-talent)
 - [NetApp and AWS launch fully managed Ontap cloud file storage](https://www.computerweekly.com/news/252506285/NetApp-and-AWS-launch-fully-managed-Ontap-cloud-file-storage)
 - [The rise of the chief risk officer](https://www.computerweekly.com/opinion/The-rise-of-the-chief-risk-officer)
-- [Saudi tourism development fund goes cloud-first with Oracle](https://www.computerweekly.com/news/252506283/Saudi-tourism-development-fund-goes-cloud-first-with-Oracle)
-- [Verne Global acquired for £231m as Nordic datacentre investment trend gathers pace](https://www.computerweekly.com/news/252506281/Verne-Global-acquired-for-231m-as-Nordic-datacentre-investment-trend-gathers-pace)
-- [UK’s new data protection strategy risks costing business more than it gains](https://www.computerweekly.com/opinion/UKs-new-data-protection-strategy-risks-costing-business-more-than-it-gains)
-- [Room for improvement in UK right to repair laws](https://www.computerweekly.com/news/252506272/Room-for-improvement-in-UK-right-to-repair-laws)
-- [How do SOAR and SIEM services fare in a rapidly changing cyber threat landscape?](https://www.computerweekly.com/feature/How-do-SOAR-and-SIEM-services-fare-in-a-rapidly-changing-cyber-threat-landscape)
-- [Berlin court reverses ban on use of EncroChat evidence in criminal trials](https://www.computerweekly.com/news/252506233/Berlin-court-reverses-ban-on-use-of-EncroChat-evidence-in-criminal-trials)
-- [Mandiant, Sophos detail dangerous ProxyShell attacks](https://www.computerweekly.com/news/252506225/Mandiant-Sophos-detail-dangerous-ProxyShell-attacks)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

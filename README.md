@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
-- [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
-- [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
-- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
-- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
-- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
-- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
-- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
-- [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
-- [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
+- [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
+- [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
+- [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
+- [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
+- [Substrait: Cross-Language Serialization for Relational Algebra](https://substrait.io/)
+- [Epic Iran: Some Zoroastrian Treasures](https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html)
+- [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
+- [Private Information and the Missing Markets for Financing Human Capital](https://www.nber.org/papers/w29214#fromrss)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

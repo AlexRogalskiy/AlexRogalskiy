@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Teach yourself React.JS coding with this $25 web-based training bundle](https://www.computerworld.com/article/3631495/teach-yourself-react-js-coding-with-this-25-web-based-training-bundle.html#tk.rss_all)
+- [Planning to update to Windows 11? A checklist before you do](https://www.computerworld.com/article/3632159/planning-to-update-to-windows-11-a-checklist-before-you-do.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [12 ways to reduce data use on your Mac](https://www.computerworld.com/article/3632431/12-ways-to-reduce-data-use-on-your-mac.html#tk.rss_all)
+- [How to keep your employees from joining the ‘Great Resignation’](https://www.computerworld.com/article/3632388/how-to-keep-your-employees-from-joining-the-great-resignation.html#tk.rss_all)
+- [3 smart shortcuts for a curiously hidden Chrome OS command](https://www.computerworld.com/article/3632030/chrome-os-shortcuts.html#tk.rss_all)
+- [8 surprising ways remote work helps  business](https://www.computerworld.com/article/3631377/8-surprising-ways-remote-work-helps-business.html#tk.rss_all)
+- [US IT job growth jumps in August; 2021 on track for record hiring levels](https://www.computerworld.com/article/3542681/us-it-job-growth-jumps-in-august-2021-on-track-for-record-hiring-levels.html#tk.rss_all)
 - [4 quick tips for Cortana in Windows 10](https://www.computerworld.com/article/3043552/4-quick-tips-for-cortana-in-windows-10.html#tk.rss_all)
-- [Apple backs off controversial child-safety plans](https://www.computerworld.com/article/3632273/apple-backs-off-controversial-child-safety-plans.html#tk.rss_all)
-- [Three ways conversational AI could boost productivity](https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html#tk.rss_all)
-- [Low-code/no-code yields solutions that fit](https://www.computerworld.com/article/3631542/low-code-no-code-yields-solutions-that-fit.html#tk.rss_all)
-- [The best travel apps for Android](https://www.computerworld.com/article/3283329/the-best-travel-apps-for-android.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Podcast: Windows 11 overview: Hardware requirements, security updates and upgrade confusion](https://www.computerworld.com/article/3632354/podcast-windows-11-overview-hardware-requirements-security-updates-and-upgrade-confusion.html#tk.rss_all)
-- [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
-- [Microsoft sets Nov. 1 deadline for shutting off old Outlook clients from 365 services](https://www.computerworld.com/article/3632129/microsoft-sets-nov-1-deadline-for-shutting-off-old-outlook-clients-from-365-services.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

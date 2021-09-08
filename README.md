@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Burnout in the US battle against wildfires](https://www.theguardian.com/news/audio/2021/sep/07/burnout-in-the-us-battle-against-wildfires)
-- [Prenatal gene test Nifty under international scrutiny amid links to Chinese military](https://www.theguardian.com/world/2021/sep/07/chinese-prenatal-gene-test-under-scrutiny-amid-links-to-military)
-- [Hong Kong: international companies reconsider future in wake of security law](https://www.theguardian.com/world/2021/sep/07/hong-kong-international-companies-reconsider-future-in-wake-of-security-law)
-- [Pelé recovering in hospital after operation to remove tumour](https://www.theguardian.com/football/2021/sep/07/pele-recovering-in-hospital-after-operation-to-remove-tumour)
-- [More global aid goes to fossil fuel projects than tackling dirty air – study](https://www.theguardian.com/environment/2021/sep/07/more-global-aid-goes-to-fossil-fuel-projects-than-tackling-dirty-air-study-pollution)
-- [‘The equivalent of shouting fire’: coughing in theatres is new taboo](https://www.theguardian.com/stage/2021/sep/07/the-equivalent-of-shouting-fire-coughing-in-theatres-is-new-taboo)
-- [Europe retain Solheim Cup after thrilling victory over USA](https://www.theguardian.com/sport/2021/sep/06/europe-retain-solheim-cup-after-thrilling-victory-over-usa)
-- [Boris Johnson faces growing red wall rebellion over social care tax rises](https://www.theguardian.com/society/2021/sep/06/boris-johnson-faces-growing-red-wall-rebellion-over-social-care-tax-rises)
-- [Shelby Rogers expects death threats after US Open loss to Emma Raducanu](https://www.theguardian.com/sport/2021/sep/06/shelby-rogers-death-threats-us-open-tennis-social-media)
-- [‘Novel of the moment’: Sally Rooney’s third book hits the shelves](https://www.theguardian.com/books/2021/sep/06/novel-of-the-moment-sally-rooneys-third-book-hits-the-shelves)
+- [Hong Kong: police arrest leader of democracy group that organised Tiananmen vigils](https://www.theguardian.com/world/2021/sep/08/hong-kong-police-arrest-leader-of-democracy-group-alliance)
+- [The children of 9/11 – podcast](https://www.theguardian.com/news/audio/2021/sep/08/the-children-of-911-podcast)
+- [Seventeen patients die after hospital in Mexico floods amid torrential rain](https://www.theguardian.com/world/2021/sep/08/patients-die-after-hospital-in-mexico-floods-amid-torrential-rain)
+- [Taro Kono, the political maverick who could be Japan’s next prime minister](https://www.theguardian.com/world/2021/sep/08/taro-kono-the-political-maverick-who-could-be-japans-next-prime-minister)
+- [Britney Spears’ father files to shut down conservatorship that controls his daughter’s life](https://www.theguardian.com/music/2021/sep/07/britney-jamie-spears-father-conservatorship-end)
+- [‘Like Game of Thrones’: how triple crisis on China’s borders will shape its global identity](https://www.theguardian.com/world/2021/sep/08/like-game-of-thrones-how-triple-crisis-on-chinas-borders-will-shape-its-global-identity)
+- [Rents outside London soaring at fastest rate on record, agencies say](https://www.theguardian.com/business/2021/sep/08/rents-outside-london-soaring-at-fastest-rate-on-record-agencies-say)
+- [Footage of Grenfell Tower meetings before fire to be shown for first time](https://www.theguardian.com/uk-news/2021/sep/08/footage-of-grenfell-tower-meetings-before-fire-to-be-shown-for-first-time)
+- [Schools in England forced to cut support for special needs pupils](https://www.theguardian.com/education/2021/sep/08/schools-in-england-forced-to-cut-support-for-special-needs-pupils)
+- [Facebook encryption could prevent detection of child abuse, NCA says](https://www.theguardian.com/technology/2021/sep/08/facebook-encryption-could-prevent-detection-of-child-abuse-nca-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

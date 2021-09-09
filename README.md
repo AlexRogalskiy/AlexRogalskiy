@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains previews data science IDE](https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html#tk.rss_all)
+- [The lines between private data centers and public clouds are blurring](https://www.infoworld.com/article/3632432/the-lines-between-private-data-centers-and-public-clouds-are-blurring.html#tk.rss_all)
+- [Understanding Azure Virtual Networks](https://www.infoworld.com/article/3632163/understanding-azure-virtual-networks.html#tk.rss_all)
 - [How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html#tk.rss_all)
 - [Open source is selfish](https://www.infoworld.com/article/3632360/open-source-is-selfish.html#tk.rss_all)
 - [Microsoft open-sources Java garbage collection analyzer](https://www.infoworld.com/article/3632355/microsoft-open-sources-java-garbage-collection-analyzer.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Visual Studio Code editor moves forward on language detection](https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all)
 - [Cloud security and architecture teams need to communicate better](https://www.infoworld.com/article/3632349/cloud-security-and-architecture-teams-need-to-communicate-better.html#tk.rss_all)
 - [Microsoft offers Productivity Power Tools for Visual Studio 2022 IDE](https://www.infoworld.com/article/3632108/microsoft-offers-productivity-power-tools-for-visual-studio-2022-ide.html#tk.rss_all)
-- [How to secure REST with Spring Security](https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html#tk.rss_all)
-- [VMware’s new Tanzu platform aims to unify Kubernetes development](https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html#tk.rss_all)
-- [Pyston, the Python alternative, gets backing from Anaconda](https://www.infoworld.com/article/3631545/pyston-the-python-alternative-gets-backing-from-anaconda.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

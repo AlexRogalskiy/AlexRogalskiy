@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple News for Android? Why not?](https://www.computerworld.com/article/3632768/apple-news-for-android-why-not.html#tk.rss_all)
+- [Smartsheet: A spreadsheet-based tool for simple project management](https://www.computerworld.com/article/3239150/whats-smartsheet-a-spreadsheet-based-tool-for-simpler-project-management.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Teach yourself React.JS coding with this $25 web-based training bundle](https://www.computerworld.com/article/3631495/teach-yourself-react-js-coding-with-this-25-web-based-training-bundle.html#tk.rss_all)
 - [Planning to update to Windows 11? A checklist before you do](https://www.computerworld.com/article/3632159/planning-to-update-to-windows-11-a-checklist-before-you-do.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [12 ways to reduce data use on your Mac](https://www.computerworld.com/article/3632431/12-ways-to-reduce-data-use-on-your-mac.html#tk.rss_all)
 - [How to keep your employees from joining the ‘Great Resignation’](https://www.computerworld.com/article/3632388/how-to-keep-your-employees-from-joining-the-great-resignation.html#tk.rss_all)
 - [3 smart shortcuts for a curiously hidden Chrome OS command](https://www.computerworld.com/article/3632030/chrome-os-shortcuts.html#tk.rss_all)
-- [8 surprising ways remote work helps  business](https://www.computerworld.com/article/3631377/8-surprising-ways-remote-work-helps-business.html#tk.rss_all)
-- [US IT job growth jumps in August; 2021 on track for record hiring levels](https://www.computerworld.com/article/3542681/us-it-job-growth-jumps-in-august-2021-on-track-for-record-hiring-levels.html#tk.rss_all)
-- [4 quick tips for Cortana in Windows 10](https://www.computerworld.com/article/3043552/4-quick-tips-for-cortana-in-windows-10.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

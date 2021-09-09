@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong: police arrest leader of democracy group that organised Tiananmen vigils](https://www.theguardian.com/world/2021/sep/08/hong-kong-police-arrest-leader-of-democracy-group-alliance)
-- [The children of 9/11 – podcast](https://www.theguardian.com/news/audio/2021/sep/08/the-children-of-911-podcast)
-- [Seventeen patients die after hospital in Mexico floods amid torrential rain](https://www.theguardian.com/world/2021/sep/08/patients-die-after-hospital-in-mexico-floods-amid-torrential-rain)
-- [Taro Kono, the political maverick who could be Japan’s next prime minister](https://www.theguardian.com/world/2021/sep/08/taro-kono-the-political-maverick-who-could-be-japans-next-prime-minister)
-- [Britney Spears’ father files to shut down conservatorship that controls his daughter’s life](https://www.theguardian.com/music/2021/sep/07/britney-jamie-spears-father-conservatorship-end)
-- [‘Like Game of Thrones’: how triple crisis on China’s borders will shape its global identity](https://www.theguardian.com/world/2021/sep/08/like-game-of-thrones-how-triple-crisis-on-chinas-borders-will-shape-its-global-identity)
-- [Rents outside London soaring at fastest rate on record, agencies say](https://www.theguardian.com/business/2021/sep/08/rents-outside-london-soaring-at-fastest-rate-on-record-agencies-say)
-- [Footage of Grenfell Tower meetings before fire to be shown for first time](https://www.theguardian.com/uk-news/2021/sep/08/footage-of-grenfell-tower-meetings-before-fire-to-be-shown-for-first-time)
-- [Schools in England forced to cut support for special needs pupils](https://www.theguardian.com/education/2021/sep/08/schools-in-england-forced-to-cut-support-for-special-needs-pupils)
-- [Facebook encryption could prevent detection of child abuse, NCA says](https://www.theguardian.com/technology/2021/sep/08/facebook-encryption-could-prevent-detection-of-child-abuse-nca-says)
+- [Novak Djokovic v Matteo Berrettini: US Open quarter-final – live!](https://www.theguardian.com/sport/live/2021/sep/08/djokovic-berrettini-pliskova-sakkari-us-open-live)
+- [Al-Qaida’s road to 9/11 – and why it was never finally defeated](https://www.theguardian.com/news/audio/2021/sep/09/al-qaida-road-to-911-and-why-it-was-never-finally-defeated-podcast)
+- [World’s biggest machine capturing carbon from air turned on in Iceland](https://www.theguardian.com/environment/2021/sep/09/worlds-biggest-plant-to-turn-carbon-dioxide-into-rock-opens-in-iceland-orca)
+- [Nxivm co-founder Nancy Salzman jailed for more than 3 years in sex slaves case](https://www.theguardian.com/us-news/2021/sep/09/nxivm-co-founder-nancy-salzman-jailed-for-more-than-3-years-in-sex-slaves-case)
+- [North Korea barred from competing at 2022 Beijing Winter Olympics](https://www.theguardian.com/world/2021/sep/09/north-korea-barred-from-competing-at-2022-beijing-winter-olympics)
+- [Radioactive snakes help scientists monitor fallout from Fukushima nuclear disaster](https://www.theguardian.com/world/2021/sep/09/radioactive-snakes-help-scientists-monitor-fallout-from-fukushima-nuclear-disaster)
+- [Death toll from Hurricane Ida rises to 26 as Tropical Storm Mindy forms in gulf](https://www.theguardian.com/world/2021/sep/08/hurricane-ida-death-toll-latest-tropical-storm-mindy)
+- [London’s Royal Docks ‘just keeps changing’ – as a new outdoor show reveals](https://www.theguardian.com/stage/2021/sep/09/london-royal-docks-theatre-arrival-city-hall)
+- [Covid inequalities are chance for unions – TUC’s Frances O’Grady](https://www.theguardian.com/politics/2021/sep/09/covid-inequalities-are-chance-for-unions-tucs-frances-ogrady)
+- [Talking Horses: Save A Forest good value to upset Frankie Dettori](https://www.theguardian.com/sport/2021/sep/09/talking-horses-save-a-forest-good-value-to-upset-frankie-dettori)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

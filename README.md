@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
-- [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
-- [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
-- [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
-- [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
-- [Substrait: Cross-Language Serialization for Relational Algebra](https://substrait.io/)
-- [Epic Iran: Some Zoroastrian Treasures](https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html)
-- [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
-- [Private Information and the Missing Markets for Financing Human Capital](https://www.nber.org/papers/w29214#fromrss)
+- [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
+- ['Epic'–-How a Largely Untested AI Algorithm Crept into Hundreds of Hospitals](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
+- [Most physicians would forgo aggressive treatment for themselves at EOL (2014)](https://med.stanford.edu/news/all-news/2014/05/most-physicians-would-forgo-aggressive-treatment-for-themselves-.html)
+- [Australia media can be sued for social media comments, court rules](https://www.bbc.com/news/world-australia-58484205)
+- [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
+- [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
+- [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
+- [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
+- [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
+- [How to Replace Docker with Podman on a Mac](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

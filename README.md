@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [REvil reappearance may herald new ransom campaigns](https://www.computerweekly.com/news/252506413/REvil-reappearance-may-herald-new-ransom-campaigns)
+- [Covid positive for security market, but still a source of stress](https://www.computerweekly.com/news/252506405/Covid-positive-for-security-market-but-still-a-source-of-stress)
+- [Stolen credit card data worth about £13 on dark web, PayPal worth more](https://www.computerweekly.com/news/252506403/Stolen-credit-card-data-worth-about-13-on-dark-web-PayPal-worth-more)
+- [Estonian government opens its digital heart to tech testers](https://www.computerweekly.com/news/252506399/Estonian-government-opens-its-digital-heart-to-tech-testers)
+- [Dell, NetApp and Pure: Healthy results on Covid easing](https://www.computerweekly.com/feature/Dell-NetApp-and-Pure-Healthy-results-on-Covid-easing)
+- [Security Think Tank: Optimising privacy, post-GDPR](https://www.computerweekly.com/opinion/Security-Think-Tank-Optimising-privacy-post-GDPR)
 - [TLA Black Women in Tech to launch book about tech role models](https://www.computerweekly.com/news/252506336/TLA-Black-Women-in-Tech-to-launch-book-about-tech-role-models)
 - [Procuring law enforcement tech needs greater scrutiny](https://www.computerweekly.com/news/252506333/Procuring-law-enforcement-tech-needs-greater-scrutiny)
 - [ICO in bid to end cookie pop-ups](https://www.computerweekly.com/news/252506318/ICO-in-bid-to-end-cookie-pop-ups)
 - [Banking anti-fraud scheme blocks 65% more fraud](https://www.computerweekly.com/news/252506320/Banking-anti-fraud-scheme-blocks-65-more-fraud)
-- [Government opens £2bn chest for big data analytics](https://www.computerweekly.com/news/252506303/Government-opens-2bn-chest-for-big-data-analytics)
-- [Security Think Tank: A response to planned data protection changes](https://www.computerweekly.com/opinion/Security-Think-Tank-A-response-to-planned-data-protection-changes)
-- [Highways England delivers a digital roadmap](https://www.computerweekly.com/ezine/Computer-Weekly/Highways-England-delivers-a-digital-roadmap)
-- [Nokia launches online tech scholarship for under-represented talent](https://www.computerweekly.com/news/252506296/Nokia-launches-online-tech-scholarship-for-under-represented-talent)
-- [NetApp and AWS launch fully managed Ontap cloud file storage](https://www.computerweekly.com/news/252506285/NetApp-and-AWS-launch-fully-managed-Ontap-cloud-file-storage)
-- [The rise of the chief risk officer](https://www.computerweekly.com/opinion/The-rise-of-the-chief-risk-officer)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

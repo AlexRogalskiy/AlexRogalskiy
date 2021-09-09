@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cyclocrane Heliostat](https://www.youtube.com/watch?v=cWLhH3wsxUo)
-- [Poka Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
-- [At this point, I have 1 in 5 eBay transactions resulting in a scam as a seller](https://twitter.com/geerlingguy/status/1435070688617025541)
-- [Ask HN: Is Archive.today Down?](https://news.ycombinator.com/item?id=28452216)
-- [Got Me a Cointree](https://violenceislife.substack.com/p/got-me-a-cointree)
-- [Britney Spears’s Father Files to End Her Conservatorship](https://www.nytimes.com/2021/09/07/arts/music/jamie-spears-britney-conservatorship.html)
-- [Exploring quantum gravity and entanglement using pendulums](https://phys.org/news/2021-09-exploring-quantum-gravity-entanglement-pendulums.html)
-- [Man sentenced for charging businesses inflated prices in printer toner scam](https://www.marketwatch.com/story/californian-man-79-sentenced-to-4-years-for-charging-small-businesses-and-charities-hugely-inflated-prices-for-printer-toner-11630964298)
-- [The US's other priorities precluded a win in Afghanistan](https://xhxhxhx.tumblr.com/post/661720591965061120/i-wrote-something-about-afghanistan-that-people)
-- [Stolen Inventions](https://www.kickstarter.com/projects/bunchoballoons/bunch-o-balloons-100-water-balloons-in-less-than-1/posts/3291364)
+- [The Traditional Two-Sided Marketplace Is Dead](https://abhim.substack.com/p/the-traditional-two-sided-marketplace)
+- [Patch now? Why enterprise exploits are still partying like it's 1999](https://www.theregister.com/2021/09/08/patch_now_why_enterprise_exploits/)
+- [Nightmare: Kubernetes Deployment Troubleshooting](https://learnk8s.io/troubleshooting-deployments)
+- [Apple's Lobbying Efforts to Kill State Bills](https://twitter.com/ttp_updates/status/1435359650619265026)
+- [Bootstrappable Builds](https://bootstrappable.org/)
+- [Exploring the Amiga – Part 1 (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
+- [Thoughts on Clojure UI Framework](https://tonsky.me/blog/clojure-ui/)
+- [Show HN: MOAC: a physics-based approach to password generation and measurement](https://sr.ht/~seirdy/MOAC/)
+- [Versatile but Problem-Plagued, the Last 1990s-Era C2 BART Car Is Gone](https://www.railwayage.com/passenger/rapid-transit/versatile-but-problem-plagued-the-last-1990s-era-c2-bart-car-is-gone/)
+- [Network Effects Are Overrated](https://www.nytimes.com/2021/09/04/business/dealbook/network-effects.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

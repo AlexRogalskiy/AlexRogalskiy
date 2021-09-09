@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Company Issues Docking Station](https://www.reddit.com/r/InformationTechnology/comments/pkh29y/company_issues_docking_station/)
+- [Unzip zip and rar files](https://www.reddit.com/r/InformationTechnology/comments/pkgln0/unzip_zip_and_rar_files/)
 - [Please point me in the right direction!](https://www.reddit.com/r/InformationTechnology/comments/pfzywr/please_point_me_in_the_right_direction/)
 - [Can you get a job with just SQL and Python?](https://www.reddit.com/r/InformationTechnology/comments/pfm5ih/can_you_get_a_job_with_just_sql_and_python/)
 - [What annoys you about IT?](https://www.reddit.com/r/InformationTechnology/comments/pf9vt2/what_annoys_you_about_it/)
@@ -414,8 +416,6 @@
 - [Feeling stuck](https://www.reddit.com/r/InformationTechnology/comments/pelbcg/feeling_stuck/)
 - [IT edexcel A levels](https://www.reddit.com/r/InformationTechnology/comments/peh41k/it_edexcel_a_levels/)
 - [IT industry facing new normal - survey](https://www.reddit.com/r/InformationTechnology/comments/pee1yr/it_industry_facing_new_normal_survey/)
-- [Phases of the project lifecycle?](https://www.reddit.com/r/InformationTechnology/comments/pe1ane/phases_of_the_project_lifecycle/)
-- [NotePad++ | How can I create a "template"?](https://www.reddit.com/r/InformationTechnology/comments/pdvlz4/notepad_how_can_i_create_a_template/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

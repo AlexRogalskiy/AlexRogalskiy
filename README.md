@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Java internet address resolution plan proposed](https://www.infoworld.com/article/3632973/java-internet-address-resolution-plan-proposed.html#tk.rss_all)
+- [Why devops teams should eliminate SLAs](https://www.infoworld.com/article/3630104/why-devops-teams-should-eliminate-slas.html#tk.rss_all)
 - [JetBrains previews data science IDE](https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html#tk.rss_all)
 - [The lines between private data centers and public clouds are blurring](https://www.infoworld.com/article/3632432/the-lines-between-private-data-centers-and-public-clouds-are-blurring.html#tk.rss_all)
 - [Understanding Azure Virtual Networks](https://www.infoworld.com/article/3632163/understanding-azure-virtual-networks.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Microsoft open-sources Java garbage collection analyzer](https://www.infoworld.com/article/3632355/microsoft-open-sources-java-garbage-collection-analyzer.html#tk.rss_all)
 - [How low-code platforms enable machine learning](https://www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.html#tk.rss_all)
 - [Visual Studio Code editor moves forward on language detection](https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all)
-- [Cloud security and architecture teams need to communicate better](https://www.infoworld.com/article/3632349/cloud-security-and-architecture-teams-need-to-communicate-better.html#tk.rss_all)
-- [Microsoft offers Productivity Power Tools for Visual Studio 2022 IDE](https://www.infoworld.com/article/3632108/microsoft-offers-productivity-power-tools-for-visual-studio-2022-ide.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

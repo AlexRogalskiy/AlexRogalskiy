@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Microsoft 365 emails to Spam](https://www.reddit.com/r/InformationTechnology/comments/pl0wkw/microsoft_365_emails_to_spam/)
+- [App ID Exclusions - Complete brainfart.](https://www.reddit.com/r/InformationTechnology/comments/pkyy51/app_id_exclusions_complete_brainfart/)
 - [Company Issues Docking Station](https://www.reddit.com/r/InformationTechnology/comments/pkh29y/company_issues_docking_station/)
 - [Unzip zip and rar files](https://www.reddit.com/r/InformationTechnology/comments/pkgln0/unzip_zip_and_rar_files/)
 - [Please point me in the right direction!](https://www.reddit.com/r/InformationTechnology/comments/pfzywr/please_point_me_in_the_right_direction/)
@@ -414,8 +416,6 @@
 - [Outlook & Sharepoint Access for Chinese Colleagues from Australian Company Microsoft Account](https://www.reddit.com/r/InformationTechnology/comments/pf212e/outlook_sharepoint_access_for_chinese_colleagues/)
 - [Networking Help](https://www.reddit.com/r/InformationTechnology/comments/peudlq/networking_help/)
 - [Feeling stuck](https://www.reddit.com/r/InformationTechnology/comments/pelbcg/feeling_stuck/)
-- [IT edexcel A levels](https://www.reddit.com/r/InformationTechnology/comments/peh41k/it_edexcel_a_levels/)
-- [IT industry facing new normal - survey](https://www.reddit.com/r/InformationTechnology/comments/pee1yr/it_industry_facing_new_normal_survey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

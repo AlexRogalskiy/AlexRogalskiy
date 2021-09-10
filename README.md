@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
-- ['Epic'–-How a Largely Untested AI Algorithm Crept into Hundreds of Hospitals](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
-- [Most physicians would forgo aggressive treatment for themselves at EOL (2014)](https://med.stanford.edu/news/all-news/2014/05/most-physicians-would-forgo-aggressive-treatment-for-themselves-.html)
-- [Australia media can be sued for social media comments, court rules](https://www.bbc.com/news/world-australia-58484205)
-- [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
-- [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
-- [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
-- [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
-- [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
-- [How to Replace Docker with Podman on a Mac](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
+- [Squats can boost your brain [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
+- [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
+- [“Front end” or “Back end” is the wrong way to name Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
+- [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
+- [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
+- [The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64](https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html)
+- [Jay Leiderman Has Died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
+- [2021 Ig Nobels](https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/)
+- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

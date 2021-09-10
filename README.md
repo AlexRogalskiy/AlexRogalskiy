@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: iPhone 13 announcement: What to expect at Apple's September 14 event](https://www.computerworld.com/article/3632877/podcast-iphone-13-announcement-what-to-expect-at-apples-september-14-event.html#tk.rss_all)
+- [A business user's guide to Apple’s upgrade season](https://www.computerworld.com/article/3632852/a-business-users-guide-to-apples-upgrade-season.html#tk.rss_all)
+- [Microsoft OneDrive cheat sheet](https://www.computerworld.com/article/3256907/microsoft-onedrive-cheat-sheet-backup-sync-share-files.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple News for Android? Why not?](https://www.computerworld.com/article/3632768/apple-news-for-android-why-not.html#tk.rss_all)
-- [Smartsheet: A spreadsheet-based tool for simple project management](https://www.computerworld.com/article/3239150/whats-smartsheet-a-spreadsheet-based-tool-for-simpler-project-management.html#tk.rss_all)
+- [Smartsheet: A spreadsheet-based tool for easy project management](https://www.computerworld.com/article/3239150/whats-smartsheet-a-spreadsheet-based-tool-for-simpler-project-management.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Teach yourself React.JS coding with this $25 web-based training bundle](https://www.computerworld.com/article/3631495/teach-yourself-react-js-coding-with-this-25-web-based-training-bundle.html#tk.rss_all)
 - [Planning to update to Windows 11? A checklist before you do](https://www.computerworld.com/article/3632159/planning-to-update-to-windows-11-a-checklist-before-you-do.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [12 ways to reduce data use on your Mac](https://www.computerworld.com/article/3632431/12-ways-to-reduce-data-use-on-your-mac.html#tk.rss_all)
-- [How to keep your employees from joining the ‘Great Resignation’](https://www.computerworld.com/article/3632388/how-to-keep-your-employees-from-joining-the-great-resignation.html#tk.rss_all)
-- [3 smart shortcuts for a curiously hidden Chrome OS command](https://www.computerworld.com/article/3632030/chrome-os-shortcuts.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

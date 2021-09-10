@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Traditional Two-Sided Marketplace Is Dead](https://abhim.substack.com/p/the-traditional-two-sided-marketplace)
-- [Patch now? Why enterprise exploits are still partying like it's 1999](https://www.theregister.com/2021/09/08/patch_now_why_enterprise_exploits/)
-- [Nightmare: Kubernetes Deployment Troubleshooting](https://learnk8s.io/troubleshooting-deployments)
-- [Apple's Lobbying Efforts to Kill State Bills](https://twitter.com/ttp_updates/status/1435359650619265026)
-- [Bootstrappable Builds](https://bootstrappable.org/)
-- [Exploring the Amiga – Part 1 (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
-- [Thoughts on Clojure UI Framework](https://tonsky.me/blog/clojure-ui/)
-- [Show HN: MOAC: a physics-based approach to password generation and measurement](https://sr.ht/~seirdy/MOAC/)
-- [Versatile but Problem-Plagued, the Last 1990s-Era C2 BART Car Is Gone](https://www.railwayage.com/passenger/rapid-transit/versatile-but-problem-plagued-the-last-1990s-era-c2-bart-car-is-gone/)
-- [Network Effects Are Overrated](https://www.nytimes.com/2021/09/04/business/dealbook/network-effects.html)
+- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
+- [Netlify Log Drains for Datadog](https://www.netlify.com/blog/2021/09/08/announcing-netlify-log-drains-for-datadog/)
+- [Open Source Vulnerability format v1.0](https://ossf.github.io/osv-schema/)
+- [Quickly Annotate Your Machine Learning Dataset with One Weird Trick (It's Lisp)](https://blog.chewxy.com/2021/09/08/annotation-mode/)
+- [Thomas Merton and the Religion of the Bomb](https://www.jstor.org/stable/1123966)
+- [Theranos’ greatest invention was Elizabeth Holmes](https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth)
+- [Not cutting edge science but – new Roomba can avoid dog poop](https://www.popsci.com/technology/irobot-roomba-new-pet-poop-feature/)
+- [Not For You – An automated confusion system for TikTok (2020)](https://bengrosser.com/projects/not-for-you/)
+- [Some of the Secret Police Contractors Who Are Waging War on Freedom of the Press](https://globalcommunityweekly.substack.com/p/some-of-the-secret-police-contractors)
+- [The new Roomba uses AI to avoid smearing dog poop all over your house](https://edition.cnn.com/2021/09/09/tech/roomba-ai-avoids-dog-poop/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

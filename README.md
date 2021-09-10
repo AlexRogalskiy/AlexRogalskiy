@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Novak Djokovic v Matteo Berrettini: US Open quarter-final – live!](https://www.theguardian.com/sport/live/2021/sep/08/djokovic-berrettini-pliskova-sakkari-us-open-live)
-- [Al-Qaida’s road to 9/11 – and why it was never finally defeated](https://www.theguardian.com/news/audio/2021/sep/09/al-qaida-road-to-911-and-why-it-was-never-finally-defeated-podcast)
-- [World’s biggest machine capturing carbon from air turned on in Iceland](https://www.theguardian.com/environment/2021/sep/09/worlds-biggest-plant-to-turn-carbon-dioxide-into-rock-opens-in-iceland-orca)
-- [Nxivm co-founder Nancy Salzman jailed for more than 3 years in sex slaves case](https://www.theguardian.com/us-news/2021/sep/09/nxivm-co-founder-nancy-salzman-jailed-for-more-than-3-years-in-sex-slaves-case)
-- [North Korea barred from competing at 2022 Beijing Winter Olympics](https://www.theguardian.com/world/2021/sep/09/north-korea-barred-from-competing-at-2022-beijing-winter-olympics)
-- [Radioactive snakes help scientists monitor fallout from Fukushima nuclear disaster](https://www.theguardian.com/world/2021/sep/09/radioactive-snakes-help-scientists-monitor-fallout-from-fukushima-nuclear-disaster)
-- [Death toll from Hurricane Ida rises to 26 as Tropical Storm Mindy forms in gulf](https://www.theguardian.com/world/2021/sep/08/hurricane-ida-death-toll-latest-tropical-storm-mindy)
-- [London’s Royal Docks ‘just keeps changing’ – as a new outdoor show reveals](https://www.theguardian.com/stage/2021/sep/09/london-royal-docks-theatre-arrival-city-hall)
-- [Covid inequalities are chance for unions – TUC’s Frances O’Grady](https://www.theguardian.com/politics/2021/sep/09/covid-inequalities-are-chance-for-unions-tucs-frances-ogrady)
-- [Talking Horses: Save A Forest good value to upset Frankie Dettori](https://www.theguardian.com/sport/2021/sep/09/talking-horses-save-a-forest-good-value-to-upset-frankie-dettori)
+- [Emma Raducanu v Maria Sakkari: US Open women’s semi-final – live!](https://www.theguardian.com/sport/live/2021/sep/09/emma-raducanu-maria-sakkari-us-open-womens-semi-final-live)
+- [Leylah Annie Fernandez beats Aryna Sabalenka: US Open women’s semi-final – as it happened](https://www.theguardian.com/sport/live/2021/sep/09/leylah-fernandez-aryna-sabalenka-us-open-womens-semi-final-live)
+- [A conversation about Islamophobia in the UK since 9/11](https://www.theguardian.com/news/audio/2021/sep/10/a-conversation-about-islamophobia-in-the-uk-since-911-podcast)
+- [Biden says ‘we can and we will turn the tide on Covid-19’ in White House speech – as it happened](https://www.theguardian.com/us-news/live/2021/sep/09/biden-covid-strategy-combat-delta-variant-us-politics-latest-news)
+- [Biden announces new US vaccine mandates to ‘turn the tide of Covid-19’](https://www.theguardian.com/us-news/2021/sep/09/joe-biden-coronavirus-covid-pandemic-white-house)
+- [Musician Phil Collins can ‘barely hold’ a drumstick as health deteriorates](https://www.theguardian.com/music/2021/sep/10/musician-phil-collins-can-barely-hold-a-drumstick)
+- [Ending universal credit boost will hit sickest areas the hardest, study shows](https://www.theguardian.com/society/2021/sep/10/ending-universal-credit-boost-will-hit-sickest-areas-the-hardest-study-shows)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/sep/10/premier-league-10-things-to-look-out-for-this-weekend)
+- [Queen supports Black Lives Matter, says senior royal representative](https://www.theguardian.com/uk-news/2021/sep/09/queen-supports-black-lives-matter-says-senior-royal-representative)
+- [Biden administration sues Texas over ‘clearly unconstitutional’ abortion ban](https://www.theguardian.com/us-news/2021/sep/09/biden-administration-sue-texas-abortion-law)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

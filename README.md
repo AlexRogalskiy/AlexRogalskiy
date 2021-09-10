@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK GDPR faces changes under planned reforms](https://www.computerweekly.com/news/252506493/UK-GDPR-faces-changes-under-planned-reforms)
+- [Five things you need to know about cloud file services](https://www.computerweekly.com/feature/5-things-you-need-to-know-about-cloud-file-services)
+- [Tech R&D gets cash boost through £113m Future Leaders Fellowships](https://www.computerweekly.com/news/252506484/Tech-RD-gets-cash-boost-through-113m-Future-Leaders-Fellowships)
+- [Latest Microsoft zero-day being actively exploited](https://www.computerweekly.com/news/252506480/Latest-Microsoft-zero-day-being-actively-exploited)
+- [Ali Ghodsi, Databricks CEO: Scandi-Californian hybrid is an ideal](https://www.computerweekly.com/news/252506427/Ali-Ghodsi-Databricks-CEO-Scandi-Californian-hybrid-is-an-ideal)
+- [CW Europe: Dutch researchers build security software to mimic human immune system](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Dutch-researchers-build-security-software-to-mimic-human-immune-system)
 - [REvil reappearance may herald new ransom campaigns](https://www.computerweekly.com/news/252506413/REvil-reappearance-may-herald-new-ransom-campaigns)
 - [Covid positive for security market, but still a source of stress](https://www.computerweekly.com/news/252506405/Covid-positive-for-security-market-but-still-a-source-of-stress)
 - [Stolen credit card data worth about £13 on dark web, PayPal worth more](https://www.computerweekly.com/news/252506403/Stolen-credit-card-data-worth-about-13-on-dark-web-PayPal-worth-more)
 - [Estonian government opens its digital heart to tech testers](https://www.computerweekly.com/news/252506399/Estonian-government-opens-its-digital-heart-to-tech-testers)
-- [Dell, NetApp and Pure: Healthy results on Covid easing](https://www.computerweekly.com/feature/Dell-NetApp-and-Pure-Healthy-results-on-Covid-easing)
-- [Security Think Tank: Optimising privacy, post-GDPR](https://www.computerweekly.com/opinion/Security-Think-Tank-Optimising-privacy-post-GDPR)
-- [TLA Black Women in Tech to launch book about tech role models](https://www.computerweekly.com/news/252506336/TLA-Black-Women-in-Tech-to-launch-book-about-tech-role-models)
-- [Procuring law enforcement tech needs greater scrutiny](https://www.computerweekly.com/news/252506333/Procuring-law-enforcement-tech-needs-greater-scrutiny)
-- [ICO in bid to end cookie pop-ups](https://www.computerweekly.com/news/252506318/ICO-in-bid-to-end-cookie-pop-ups)
-- [Banking anti-fraud scheme blocks 65% more fraud](https://www.computerweekly.com/news/252506320/Banking-anti-fraud-scheme-blocks-65-more-fraud)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

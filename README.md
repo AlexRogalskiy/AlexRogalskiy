@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Squats can boost your brain [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
-- [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
-- [“Front end” or “Back end” is the wrong way to name Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
-- [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
-- [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
-- [The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64](https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html)
-- [Jay Leiderman Has Died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
-- [2021 Ig Nobels](https://arstechnica.com/science/2021/09/feline-acoustics-the-smell-of-fear-and-more-receive-2021-ig-nobel-prizes/)
-- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
+- [LibreELEC 10.0.0](http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/)
+- [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
+- [Andreessen Pulls a Bezos](https://www.drorpoleg.com/pulling-a-bezos/)
+- [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
+- [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
+- [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
+- [Index bloat reduced in PostgreSQL v14](https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/)
+- [Windy.com](https://windy.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

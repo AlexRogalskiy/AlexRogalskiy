@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
-- [Netlify Log Drains for Datadog](https://www.netlify.com/blog/2021/09/08/announcing-netlify-log-drains-for-datadog/)
-- [Open Source Vulnerability format v1.0](https://ossf.github.io/osv-schema/)
-- [Quickly Annotate Your Machine Learning Dataset with One Weird Trick (It's Lisp)](https://blog.chewxy.com/2021/09/08/annotation-mode/)
-- [Thomas Merton and the Religion of the Bomb](https://www.jstor.org/stable/1123966)
-- [Theranos’ greatest invention was Elizabeth Holmes](https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth)
-- [Not cutting edge science but – new Roomba can avoid dog poop](https://www.popsci.com/technology/irobot-roomba-new-pet-poop-feature/)
-- [Not For You – An automated confusion system for TikTok (2020)](https://bengrosser.com/projects/not-for-you/)
-- [Some of the Secret Police Contractors Who Are Waging War on Freedom of the Press](https://globalcommunityweekly.substack.com/p/some-of-the-secret-police-contractors)
-- [The new Roomba uses AI to avoid smearing dog poop all over your house](https://edition.cnn.com/2021/09/09/tech/roomba-ai-avoids-dog-poop/index.html)
+- [Demystify the Randomness in CUDA Kernels](http://i.hsfzxjy.site/2021-06-11-where-does-the-randomness-of-cuda-kernels-come-from/)
+- [The beginner’s guide to espresso drinks](https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/)
+- [The Making of a Refugee](https://www.himalmag.com/the-making-of-a-refugee-taran-khan-germany-afghanistan-2019/)
+- [The Landsat Pioneer Who Fought to Revolutionize Earth Observation](https://www.science.org/content/article/meet-landsat-pioneer-who-fought-revolutionize-earth-observation)
+- [Lilium Whisper-Quiet EVTOL Jet Landing [video]](https://robbreport.com/motors/aviation/watch-this-whisper-quiet-evtol-hover-and-land-1234634956/)
+- [Emacs discusses web-based development workflows](https://lwn.net/Articles/867956/)
+- [Order of Magnitude Estimates of the Beirut Port Explosion (2020)](https://www.reddit.com/r/Physics/comments/i3otmk/order_of_magnitude_estimates_of_the_beirut_port/)
+- [QuickShortcutMaker](https://www.xda-developers.com/quickshortcutmaker/)
+- [People with synaesthesia feel other people’s sensations of touch and pain](https://theconversation.com/some-people-with-synaesthesia-feel-other-peoples-sensations-of-touch-painful-and-pleasurable-96150)
+- [A DIY 3D Printer That’s Upside-Down, on Purpose? The Positron [video]](https://www.youtube.com/watch?v=ZAPaOevoeX0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I feel like the mistake of no internships is really costing me](https://www.reddit.com/r/InformationTechnology/comments/plttmp/i_feel_like_the_mistake_of_no_internships_is/)
+- [How should I take notes for IT?](https://www.reddit.com/r/InformationTechnology/comments/plpcka/how_should_i_take_notes_for_it/)
 - [Microsoft 365 emails to Spam](https://www.reddit.com/r/InformationTechnology/comments/pl0wkw/microsoft_365_emails_to_spam/)
 - [App ID Exclusions - Complete brainfart.](https://www.reddit.com/r/InformationTechnology/comments/pkyy51/app_id_exclusions_complete_brainfart/)
 - [Company Issues Docking Station](https://www.reddit.com/r/InformationTechnology/comments/pkh29y/company_issues_docking_station/)
@@ -414,8 +416,6 @@
 - [Can you get a job with just SQL and Python?](https://www.reddit.com/r/InformationTechnology/comments/pfm5ih/can_you_get_a_job_with_just_sql_and_python/)
 - [What annoys you about IT?](https://www.reddit.com/r/InformationTechnology/comments/pf9vt2/what_annoys_you_about_it/)
 - [Outlook & Sharepoint Access for Chinese Colleagues from Australian Company Microsoft Account](https://www.reddit.com/r/InformationTechnology/comments/pf212e/outlook_sharepoint_access_for_chinese_colleagues/)
-- [Networking Help](https://www.reddit.com/r/InformationTechnology/comments/peudlq/networking_help/)
-- [Feeling stuck](https://www.reddit.com/r/InformationTechnology/comments/pelbcg/feeling_stuck/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

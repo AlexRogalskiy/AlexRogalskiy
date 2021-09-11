@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Flutter 2.5 UI kit is now stable](https://www.infoworld.com/article/3632887/google-flutter-25-ui-kit-is-now-stable.html#tk.rss_all)
+- [How to get a maxed-out cloud budget](https://www.infoworld.com/article/3632991/how-to-get-a-maxed-out-cloud-budget.html#tk.rss_all)
 - [Java internet address resolution plan proposed](https://www.infoworld.com/article/3632973/java-internet-address-resolution-plan-proposed.html#tk.rss_all)
 - [Why devops teams should eliminate SLAs](https://www.infoworld.com/article/3630104/why-devops-teams-should-eliminate-slas.html#tk.rss_all)
 - [JetBrains previews data science IDE](https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html#tk.rss_all)
 - [Open source is selfish](https://www.infoworld.com/article/3632360/open-source-is-selfish.html#tk.rss_all)
 - [Microsoft open-sources Java garbage collection analyzer](https://www.infoworld.com/article/3632355/microsoft-open-sources-java-garbage-collection-analyzer.html#tk.rss_all)
-- [How low-code platforms enable machine learning](https://www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.html#tk.rss_all)
-- [Visual Studio Code editor moves forward on language detection](https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

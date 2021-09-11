@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [The second coming: The Nordic datacentre market comes of age](https://www.computerweekly.com/feature/The-second-coming-The-Nordic-datacentre-market-comes-of-age)
 - [UK GDPR faces changes under planned reforms](https://www.computerweekly.com/news/252506493/UK-GDPR-faces-changes-under-planned-reforms)
 - [Five things you need to know about cloud file services](https://www.computerweekly.com/feature/5-things-you-need-to-know-about-cloud-file-services)
 - [Tech R&D gets cash boost through £113m Future Leaders Fellowships](https://www.computerweekly.com/news/252506484/Tech-RD-gets-cash-boost-through-113m-Future-Leaders-Fellowships)
@@ -400,7 +401,6 @@
 - [REvil reappearance may herald new ransom campaigns](https://www.computerweekly.com/news/252506413/REvil-reappearance-may-herald-new-ransom-campaigns)
 - [Covid positive for security market, but still a source of stress](https://www.computerweekly.com/news/252506405/Covid-positive-for-security-market-but-still-a-source-of-stress)
 - [Stolen credit card data worth about £13 on dark web, PayPal worth more](https://www.computerweekly.com/news/252506403/Stolen-credit-card-data-worth-about-13-on-dark-web-PayPal-worth-more)
-- [Estonian government opens its digital heart to tech testers](https://www.computerweekly.com/news/252506399/Estonian-government-opens-its-digital-heart-to-tech-testers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

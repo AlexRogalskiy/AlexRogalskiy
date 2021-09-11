@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Google Workspace rolls out updates to simplify hybrid work](https://www.itworldcanada.com/article/google-workspace-rolls-out-updates-to-simplify-hybrid-work/458075)
+- [Cyber Security Today, Week in Review for Sept. 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-10-2021/458088)
+- [Many employees working from home see cybersecurity as a hindrance: Report](https://www.itworldcanada.com/article/many-employees-working-from-home-see-cybersecurity-as-a-hindrance-report/458160)
+- [Cyber Security Today, Sept. 10, 2021 – Microsoft issues Windows warning, Windows log used to hide malware and why you should tighten cloud security](https://www.itworldcanada.com/article/cyber-security-today-sept-10-2021-microsoft-issues-windows-warning-windows-log-used-to-hide-malware-and-why-you-should-tighten-cloud-security/458132)
+- [Hashtag Trending September 10 – Germany’s Instagram influencer rule; Bitcoin mining arrest; Twitter Communities](https://www.itworldcanada.com/article/hashtag-trending-september-10-germanys-instagram-influencer-rule-bitcoin-mining-arrest-twitter-communities/458126)
 - [Ransomware is ‘a solvable problem’, expert maintains](https://www.itworldcanada.com/article/ransomware-is-a-solvable-problem-expert-maintains/458059)
 - [Hashtag Trending September 9- Amazon warehouse; New Twitter feature; PayPal inactive account fee](https://www.itworldcanada.com/article/hashtag-trending-september-9-amazon-warehouse-new-twitter-feature-paypal-inactive-account-fee/458054)
 - [Lenovo launches two new IdeaPads with Windows 11](https://www.itworldcanada.com/article/lenovo-launches-two-new-ideapads-with-windows-11/458030)
 - [IBM and Adobe team up to offer free online visual design coursework](https://www.itworldcanada.com/article/ibm-and-adobe-team-up-to-offer-free-online-visual-design-coursework/458018)
 - [Cyber Security Today, Sept. 8, 2021 – Ransomware gang targets, Confluence servers under attack and a warning to Firebase developers](https://www.itworldcanada.com/article/cyber-security-today-sept-8-2021-ransomware-gang-targets-confluence-servers-under-attack-and-a-warning-to-firebase-developers/457942)
-- [Hashtag Trending September 8 – El Salvador Bitcoin purchase; Fake news generates high engagement; ‘Zoom Dysmorphia’ on the rise](https://www.itworldcanada.com/article/hashtag-trending-september-8-el-salvador-bitcoin-purchase-fake-news-generates-high-engagement-zoom-dysmorphia-on-the-rise/457990)
-- [Crewdle offers secure, simple and sustainable video conferencing by leveraging peer-to-peer technologies](https://www.itworldcanada.com/article/crewdle-offers-secure-simple-and-sustainable-video-conferencing-by-leveraging-peer-to-peer-technologies/457983)
-- [Waterloo develops app to help find missing people with dementia](https://www.itworldcanada.com/article/waterloo-develops-app-to-help-find-missing-people-with-dementia/457912)
-- [Trend Micro partners with Carleton University to launch STEM program for women](https://www.itworldcanada.com/article/trend-micro-partners-with-carleton-university-to-launch-stem-program-for-women/457963)
-- [Coffee Briefing, Sept. 7, 2021 – recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-7-2021-recent-tech-news-a-podcast-roundup-and-more/457926)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

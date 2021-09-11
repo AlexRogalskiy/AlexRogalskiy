@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emma Raducanu v Maria Sakkari: US Open women’s semi-final – live!](https://www.theguardian.com/sport/live/2021/sep/09/emma-raducanu-maria-sakkari-us-open-womens-semi-final-live)
-- [Leylah Annie Fernandez beats Aryna Sabalenka: US Open women’s semi-final – as it happened](https://www.theguardian.com/sport/live/2021/sep/09/leylah-fernandez-aryna-sabalenka-us-open-womens-semi-final-live)
-- [A conversation about Islamophobia in the UK since 9/11](https://www.theguardian.com/news/audio/2021/sep/10/a-conversation-about-islamophobia-in-the-uk-since-911-podcast)
-- [Biden says ‘we can and we will turn the tide on Covid-19’ in White House speech – as it happened](https://www.theguardian.com/us-news/live/2021/sep/09/biden-covid-strategy-combat-delta-variant-us-politics-latest-news)
-- [Biden announces new US vaccine mandates to ‘turn the tide of Covid-19’](https://www.theguardian.com/us-news/2021/sep/09/joe-biden-coronavirus-covid-pandemic-white-house)
-- [Musician Phil Collins can ‘barely hold’ a drumstick as health deteriorates](https://www.theguardian.com/music/2021/sep/10/musician-phil-collins-can-barely-hold-a-drumstick)
-- [Ending universal credit boost will hit sickest areas the hardest, study shows](https://www.theguardian.com/society/2021/sep/10/ending-universal-credit-boost-will-hit-sickest-areas-the-hardest-study-shows)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/sep/10/premier-league-10-things-to-look-out-for-this-weekend)
-- [Queen supports Black Lives Matter, says senior royal representative](https://www.theguardian.com/uk-news/2021/sep/09/queen-supports-black-lives-matter-says-senior-royal-representative)
-- [Biden administration sues Texas over ‘clearly unconstitutional’ abortion ban](https://www.theguardian.com/us-news/2021/sep/09/biden-administration-sue-texas-abortion-law)
+- [Novak Djokovic v Alexander Zverev: US Open semi-final – live!](https://www.theguardian.com/sport/live/2021/sep/10/felix-auger-aliassime-daniil-medvedev-novak-djokovic-alexander-zverev-us-open-semifinals-tennis)
+- [Talking Horses: Hollie Doyle and Interpretation can shine in St Leger](https://www.theguardian.com/sport/2021/sep/10/stradivarius-strolls-to-magnificent-seven-and-lifts-doncaster-cup-talking-horses-horse-racing-tips)
+- [Brazil players are cleared for Premier League action after days of negotiations](https://www.theguardian.com/football/2021/sep/10/jurgen-klopp-hits-out-at-fifa-over-bans-and-world-cup-plans)
+- [Against all odds: how New Zealand is bending the Delta curve](https://www.theguardian.com/world/2021/sep/11/against-all-odds-how-new-zealand-is-bending-the-delta-curve)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/sep/10/twenty-photographs-of-the-week)
+- [Two killed as tornado rips through Italian island of Pantelleria](https://www.theguardian.com/world/2021/sep/10/four-killed-as-tornado-rips-through-italian-island-of-pantelleria)
+- [States across American west see hottest summer on record as climate crisis rages](https://www.theguardian.com/us-news/2021/sep/10/american-west-states-hottest-summer-climate-crisis)
+- [Apple: what is Fortnite feud about and what does App Store ruling mean?](https://www.theguardian.com/technology/2021/sep/10/apple-what-is-fortnite-feud-about-and-what-does-app-store-ruling-mean)
+- [Russian minister complains to US about role of ‘digital giants’ in election](https://www.theguardian.com/world/2021/sep/10/russian-minister-complains-to-us-about-role-of-digital-giants-in-election)
+- [The Cleaner review – Greg Davies leads a dark and curious comedy](https://www.theguardian.com/tv-and-radio/2021/sep/10/the-cleaner-review-greg-davies-leads-a-dark-and-curious-comedy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

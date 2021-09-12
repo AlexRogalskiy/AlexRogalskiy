@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Demystify the Randomness in CUDA Kernels](http://i.hsfzxjy.site/2021-06-11-where-does-the-randomness-of-cuda-kernels-come-from/)
-- [The beginner’s guide to espresso drinks](https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/)
-- [The Making of a Refugee](https://www.himalmag.com/the-making-of-a-refugee-taran-khan-germany-afghanistan-2019/)
-- [The Landsat Pioneer Who Fought to Revolutionize Earth Observation](https://www.science.org/content/article/meet-landsat-pioneer-who-fought-revolutionize-earth-observation)
-- [Lilium Whisper-Quiet EVTOL Jet Landing [video]](https://robbreport.com/motors/aviation/watch-this-whisper-quiet-evtol-hover-and-land-1234634956/)
-- [Emacs discusses web-based development workflows](https://lwn.net/Articles/867956/)
-- [Order of Magnitude Estimates of the Beirut Port Explosion (2020)](https://www.reddit.com/r/Physics/comments/i3otmk/order_of_magnitude_estimates_of_the_beirut_port/)
-- [QuickShortcutMaker](https://www.xda-developers.com/quickshortcutmaker/)
-- [People with synaesthesia feel other people’s sensations of touch and pain](https://theconversation.com/some-people-with-synaesthesia-feel-other-peoples-sensations-of-touch-painful-and-pleasurable-96150)
-- [A DIY 3D Printer That’s Upside-Down, on Purpose? The Positron [video]](https://www.youtube.com/watch?v=ZAPaOevoeX0)
+- [The Library of Babel – Jorge Luis Borges](https://web.stanford.edu/class/history34q/readings/textualizingscience/library_of_babel.html)
+- [Youki – OCI container runtime with support for cgroup2 written in Rust](https://github.com/containers/youki)
+- [Apartments Built on an Assembly Line](https://www.nytimes.com/2021/09/10/realestate/prefabricated-modular-apartments.html)
+- [∞-Former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
+- [Go doc comment revisions: headings, lists, and links](https://github.com/golang/go/discussions/48305)
+- [Stupid Shit No One Needs and Terrible Ideas Hackathon](https://stupidhackathon.com/)
+- [Choose Your Reality](https://thechoiceisyours.whatisthematrix.com/en/)
+- [Q500, the Weirdest Optical Mouse [video]](https://www.youtube.com/watch?v=Cd6lxwjX2Bk)
+- [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
+- [Project December: The Creators of AI Chatbot Samantha](https://www.iflscience.com/technology/project-december-the-ai-chatbot-people-are-using-to-talk-to-the-dead/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

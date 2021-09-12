@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you determine the ACK receive time for a TCP packet?](https://www.reddit.com/r/InformationTechnology/comments/pmk89e/how_do_you_determine_the_ack_receive_time_for_a/)
+- [is a CS degree from SNHU online worth it?](https://www.reddit.com/r/InformationTechnology/comments/pmdjei/is_a_cs_degree_from_snhu_online_worth_it/)
+- [Email server doesn't work on some networks](https://www.reddit.com/r/InformationTechnology/comments/plyv1o/email_server_doesnt_work_on_some_networks/)
 - [I feel like the mistake of no internships is really costing me](https://www.reddit.com/r/InformationTechnology/comments/plttmp/i_feel_like_the_mistake_of_no_internships_is/)
 - [How should I take notes for IT?](https://www.reddit.com/r/InformationTechnology/comments/plpcka/how_should_i_take_notes_for_it/)
 - [Microsoft 365 emails to Spam](https://www.reddit.com/r/InformationTechnology/comments/pl0wkw/microsoft_365_emails_to_spam/)
@@ -413,9 +416,6 @@
 - [Company Issues Docking Station](https://www.reddit.com/r/InformationTechnology/comments/pkh29y/company_issues_docking_station/)
 - [Unzip zip and rar files](https://www.reddit.com/r/InformationTechnology/comments/pkgln0/unzip_zip_and_rar_files/)
 - [Please point me in the right direction!](https://www.reddit.com/r/InformationTechnology/comments/pfzywr/please_point_me_in_the_right_direction/)
-- [Can you get a job with just SQL and Python?](https://www.reddit.com/r/InformationTechnology/comments/pfm5ih/can_you_get_a_job_with_just_sql_and_python/)
-- [What annoys you about IT?](https://www.reddit.com/r/InformationTechnology/comments/pf9vt2/what_annoys_you_about_it/)
-- [Outlook & Sharepoint Access for Chinese Colleagues from Australian Company Microsoft Account](https://www.reddit.com/r/InformationTechnology/comments/pf212e/outlook_sharepoint_access_for_chinese_colleagues/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

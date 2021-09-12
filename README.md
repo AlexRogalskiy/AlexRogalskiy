@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Novak Djokovic v Alexander Zverev: US Open semi-final – live!](https://www.theguardian.com/sport/live/2021/sep/10/felix-auger-aliassime-daniil-medvedev-novak-djokovic-alexander-zverev-us-open-semifinals-tennis)
-- [Talking Horses: Hollie Doyle and Interpretation can shine in St Leger](https://www.theguardian.com/sport/2021/sep/10/stradivarius-strolls-to-magnificent-seven-and-lifts-doncaster-cup-talking-horses-horse-racing-tips)
-- [Brazil players are cleared for Premier League action after days of negotiations](https://www.theguardian.com/football/2021/sep/10/jurgen-klopp-hits-out-at-fifa-over-bans-and-world-cup-plans)
-- [Against all odds: how New Zealand is bending the Delta curve](https://www.theguardian.com/world/2021/sep/11/against-all-odds-how-new-zealand-is-bending-the-delta-curve)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/sep/10/twenty-photographs-of-the-week)
-- [Two killed as tornado rips through Italian island of Pantelleria](https://www.theguardian.com/world/2021/sep/10/four-killed-as-tornado-rips-through-italian-island-of-pantelleria)
-- [States across American west see hottest summer on record as climate crisis rages](https://www.theguardian.com/us-news/2021/sep/10/american-west-states-hottest-summer-climate-crisis)
-- [Apple: what is Fortnite feud about and what does App Store ruling mean?](https://www.theguardian.com/technology/2021/sep/10/apple-what-is-fortnite-feud-about-and-what-does-app-store-ruling-mean)
-- [Russian minister complains to US about role of ‘digital giants’ in election](https://www.theguardian.com/world/2021/sep/10/russian-minister-complains-to-us-about-role-of-digital-giants-in-election)
-- [The Cleaner review – Greg Davies leads a dark and curious comedy](https://www.theguardian.com/tv-and-radio/2021/sep/10/the-cleaner-review-greg-davies-leads-a-dark-and-curious-comedy)
+- [US Evangelical Lutheran Church installs first openly transgender bishop](https://www.theguardian.com/society/2021/sep/12/us-evangelical-lutheran-church-installs-first-openly-transgender-bishop)
+- [Apple still reliant on one core product as it nudges $3tn hurdle](https://www.theguardian.com/technology/2021/sep/12/apple-still-reliant-on-one-core-product-as-it-nudges-3tn-hurdle)
+- [Make strides: 15 of the best stomper boots – in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/11/make-strides-15-of-the-best-stomper-boots-in-pictures)
+- [Labour accuses ‘reckless’ Priti Patel of serially breaching ministerial code](https://www.theguardian.com/politics/2021/sep/11/labour-accuses-reckless-priti-patel-of-serially-breaching-ministerial-code)
+- [Cristiano Ronaldo hero worship does not mask Manchester United’s flaws | Jonathan Wilson](https://www.theguardian.com/football/blog/2021/sep/11/cristiano-ronaldo-hero-worship-does-not-mask-manchester-uniteds-flaws)
+- [Emma Raducanu makes tennis history with US Open final win](https://www.theguardian.com/sport/2021/sep/11/emma-raducanu-makes-tennis-history-with-us-open-final-win)
+- [Beba review – Rebecca Huntt’s personal, probing documentary-memoir](https://www.theguardian.com/film/2021/sep/11/beba-review-rebecca-huntt-documentary-memoir)
+- [Curse of Mayo strikes again as Tyrone take All-Ireland Gaelic football title](https://www.theguardian.com/world/2021/sep/11/curse-of-mayo-strikes-again-as-tyrone-take-all-ireland-gaelic-football-title)
+- [America mourns as leaders and families mark 20th anniversary of 9/11 attacks](https://www.theguardian.com/us-news/2021/sep/11/september-11-20th-anniversary-ceremonies-biden)
+- [660,000 jobs at risk as UK’s green investment lags](https://www.theguardian.com/environment/2021/sep/11/660000-jobs-at-risk-as-uks-green-investment-lags)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LibreELEC 10.0.0](http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/)
-- [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
-- [Andreessen Pulls a Bezos](https://www.drorpoleg.com/pulling-a-bezos/)
-- [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
-- [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
-- [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
-- [Index bloat reduced in PostgreSQL v14](https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/)
-- [Windy.com](https://windy.com)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
+- [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
+- [Honk: “An ActivityPub server with minimal setup and support costs”](https://humungus.tedunangst.com/r/honk)
+- [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
+- [Code Coverage for Zig with Callgrind](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
+- [My Room in 3D](https://my-room-in-3d.vercel.app/)
+- [Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
+- [Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/)
+- [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+- [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

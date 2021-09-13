@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Library of Babel – Jorge Luis Borges](https://web.stanford.edu/class/history34q/readings/textualizingscience/library_of_babel.html)
-- [Youki – OCI container runtime with support for cgroup2 written in Rust](https://github.com/containers/youki)
-- [Apartments Built on an Assembly Line](https://www.nytimes.com/2021/09/10/realestate/prefabricated-modular-apartments.html)
-- [∞-Former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
-- [Go doc comment revisions: headings, lists, and links](https://github.com/golang/go/discussions/48305)
-- [Stupid Shit No One Needs and Terrible Ideas Hackathon](https://stupidhackathon.com/)
-- [Choose Your Reality](https://thechoiceisyours.whatisthematrix.com/en/)
-- [Q500, the Weirdest Optical Mouse [video]](https://www.youtube.com/watch?v=Cd6lxwjX2Bk)
-- [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
-- [Project December: The Creators of AI Chatbot Samantha](https://www.iflscience.com/technology/project-december-the-ai-chatbot-people-are-using-to-talk-to-the-dead/)
+- [Top human rights lawyer on “US hubris” of 9/11](https://www.exberliner.com/features/people/wolfgang-kaleck-us-hubris/)
+- [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
+- [Google Search on desktop web officially gets a dark theme](https://9to5google.com/2021/09/09/google-search-dark-theme-desktop/)
+- [Angellist-pioneers-rolling-VC-funds-in-pivot-to-SaaS (2020)](https://techcrunch.com/2020/09/08/angellist-pioneers-rolling-vc-funds-in-pivot-to-saas/)
+- [Privateer Space Founded by Steve Wozniak and Alex Fielding](https://www.youtube.com/watch?v=3a7A1w1C2TE)
+- [Steve Wozniak – “A Private space company is starting up, unlike the others.”](https://twitter.com/stevewoz/status/1437234689786347523)
+- [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
+- [GTK-Gnutella](http://gtk-gnutella.sourceforge.net/en/?page=news)
+- [Why Resist Blank Slate Thinking? For One, Look to No Child Left Behind](https://freddiedeboer.substack.com/p/why-resist-blank-slate-thinking-for)
+- [Debugging Julia with GDB and VSCode](https://vchuravy.dev/notes/2021/09/vscode-gdb/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

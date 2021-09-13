@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
-- [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
-- [Honk: “An ActivityPub server with minimal setup and support costs”](https://humungus.tedunangst.com/r/honk)
-- [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
-- [Code Coverage for Zig with Callgrind](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
-- [My Room in 3D](https://my-room-in-3d.vercel.app/)
-- [Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
-- [Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/)
-- [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
-- [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
+- [Show HN: Chat with your contacts on different platforms without an app](https://fiotron.com/?b)
+- [Genny – Generate Nim library bindings for many languages](https://github.com/treeform/genny)
+- [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
+- [9/11 Material Released in Response to Executive Order 14040](https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040)
+- [Jupyter Book](https://jupyterbook.org/intro.html)
+- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
+- [Man wins $65K after being fired for refusing to be fingerprinted](https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/)
+- [AMule 2.3.3](https://github.com/amule-project/amule/releases/tag/2.3.3)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

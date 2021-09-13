@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Evangelical Lutheran Church installs first openly transgender bishop](https://www.theguardian.com/society/2021/sep/12/us-evangelical-lutheran-church-installs-first-openly-transgender-bishop)
-- [Apple still reliant on one core product as it nudges $3tn hurdle](https://www.theguardian.com/technology/2021/sep/12/apple-still-reliant-on-one-core-product-as-it-nudges-3tn-hurdle)
-- [Make strides: 15 of the best stomper boots – in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/11/make-strides-15-of-the-best-stomper-boots-in-pictures)
-- [Labour accuses ‘reckless’ Priti Patel of serially breaching ministerial code](https://www.theguardian.com/politics/2021/sep/11/labour-accuses-reckless-priti-patel-of-serially-breaching-ministerial-code)
-- [Cristiano Ronaldo hero worship does not mask Manchester United’s flaws | Jonathan Wilson](https://www.theguardian.com/football/blog/2021/sep/11/cristiano-ronaldo-hero-worship-does-not-mask-manchester-uniteds-flaws)
-- [Emma Raducanu makes tennis history with US Open final win](https://www.theguardian.com/sport/2021/sep/11/emma-raducanu-makes-tennis-history-with-us-open-final-win)
-- [Beba review – Rebecca Huntt’s personal, probing documentary-memoir](https://www.theguardian.com/film/2021/sep/11/beba-review-rebecca-huntt-documentary-memoir)
-- [Curse of Mayo strikes again as Tyrone take All-Ireland Gaelic football title](https://www.theguardian.com/world/2021/sep/11/curse-of-mayo-strikes-again-as-tyrone-take-all-ireland-gaelic-football-title)
-- [America mourns as leaders and families mark 20th anniversary of 9/11 attacks](https://www.theguardian.com/us-news/2021/sep/11/september-11-20th-anniversary-ceremonies-biden)
-- [660,000 jobs at risk as UK’s green investment lags](https://www.theguardian.com/environment/2021/sep/11/660000-jobs-at-risk-as-uks-green-investment-lags)
+- [Ecstasy, LSD and magic mushrooms: are these drugs the future of therapy?](https://www.theguardian.com/news/audio/2021/sep/13/ecstasy-lsd-magic-mushrooms-are-drugs-future-of-therapy)
+- [Britney Spears engaged to boyfriend Sam Asghari](https://www.theguardian.com/music/2021/sep/13/britney-spears-engaged-to-boyfriend-sam-asghari)
+- [Waitrose announces further cutback on single-use plastic bags](https://www.theguardian.com/business/2021/sep/13/waitrose-announces-further-cutback-on-single-use-plastic-bags)
+- [Scholz braves conservative attacks to win second German election debate](https://www.theguardian.com/world/2021/sep/13/scholz-braves-conservative-attacks-to-win-second-german-election-debate)
+- [North Korea says it has test fired long-range cruise missile](https://www.theguardian.com/world/2021/sep/13/north-korea-says-it-has-test-fired-long-range-cruise-missile)
+- [Covid solidarity will oil wheels of new Scottish independence referendum – Sturgeon](https://www.theguardian.com/politics/2021/sep/12/no-independence-referendum-until-covid-restrictions-lifted-sturgeon-says)
+- [BMA to issue damning critique of government over Covid crisis](https://www.theguardian.com/world/2021/sep/13/bma-issue-damning-critique-uk-government-covid-crisis-pandemic-nhs)
+- [Higher taxes could leave low-paid frontline workers £1,000 worse off](https://www.theguardian.com/politics/2021/sep/13/higher-taxes-low-paid-frontline-workers-worse-off)
+- [Murders of environment and land defenders hit record high](https://www.theguardian.com/environment/2021/sep/13/murders-environment-land-defenders-record-high)
+- [Brexit trade barriers added £600m in costs to UK importers this year](https://www.theguardian.com/politics/2021/sep/13/brexit-trade-barriers-added-600m-in-costs-to-uk-importers-this-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

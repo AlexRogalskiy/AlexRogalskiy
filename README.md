@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Election 2021: The parties on privacy, cybersecurity](https://www.itworldcanada.com/article/election-2021-the-parties-on-privacy-cybersecurity/458228)
+- [Cyber Security Today, Sept. 13, 2021 – The REvil ransomware gang is back, a new botnet is discovered and Formbook malware rises](https://www.itworldcanada.com/article/cyber-security-today-sept-13-2021-the-revil-ransomware-gang-is-back-a-new-botnet-is-discovered-and-formbook-malware-rises/458224)
+- [Hashtag Trending Sept. 13 – Theranos Trial CEO starts; Facebook buys invoices; Samsung virtual memory](https://www.itworldcanada.com/article/hashtag-trending-sept-13-theranos-trial-ceo-starts-facebook-buys-invoices-samsung-virtual-memory/458233)
 - [Google Workspace rolls out updates to simplify hybrid work](https://www.itworldcanada.com/article/google-workspace-rolls-out-updates-to-simplify-hybrid-work/458075)
 - [Cyber Security Today, Week in Review for Sept. 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-10-2021/458088)
 - [Many employees working from home see cybersecurity as a hindrance: Report](https://www.itworldcanada.com/article/many-employees-working-from-home-see-cybersecurity-as-a-hindrance-report/458160)
@@ -428,9 +431,6 @@
 - [Hashtag Trending September 10 – Germany’s Instagram influencer rule; Bitcoin mining arrest; Twitter Communities](https://www.itworldcanada.com/article/hashtag-trending-september-10-germanys-instagram-influencer-rule-bitcoin-mining-arrest-twitter-communities/458126)
 - [Ransomware is ‘a solvable problem’, expert maintains](https://www.itworldcanada.com/article/ransomware-is-a-solvable-problem-expert-maintains/458059)
 - [Hashtag Trending September 9- Amazon warehouse; New Twitter feature; PayPal inactive account fee](https://www.itworldcanada.com/article/hashtag-trending-september-9-amazon-warehouse-new-twitter-feature-paypal-inactive-account-fee/458054)
-- [Lenovo launches two new IdeaPads with Windows 11](https://www.itworldcanada.com/article/lenovo-launches-two-new-ideapads-with-windows-11/458030)
-- [IBM and Adobe team up to offer free online visual design coursework](https://www.itworldcanada.com/article/ibm-and-adobe-team-up-to-offer-free-online-visual-design-coursework/458018)
-- [Cyber Security Today, Sept. 8, 2021 – Ransomware gang targets, Confluence servers under attack and a warning to Firebase developers](https://www.itworldcanada.com/article/cyber-security-today-sept-8-2021-ransomware-gang-targets-confluence-servers-under-attack-and-a-warning-to-firebase-developers/457942)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

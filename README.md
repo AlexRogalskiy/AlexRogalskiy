@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
-- [Show HN: Chat with your contacts on different platforms without an app](https://fiotron.com/?b)
-- [Genny – Generate Nim library bindings for many languages](https://github.com/treeform/genny)
-- [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
-- [9/11 Material Released in Response to Executive Order 14040](https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040)
-- [Jupyter Book](https://jupyterbook.org/intro.html)
-- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
-- [Man wins $65K after being fired for refusing to be fingerprinted](https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/)
-- [AMule 2.3.3](https://github.com/amule-project/amule/releases/tag/2.3.3)
+- [Facebook denies having '2 systems of justice' for users after WSJ report](https://www.foxbusiness.com/technology/facebook-denies-two-systems-of-justice-wall-street-journal)
+- [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
+- [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
+- [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
+- [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
+- [Intuit to Acquire Mailchimp for $12B](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
+- [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
+- [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
+- [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

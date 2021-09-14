@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ecstasy, LSD and magic mushrooms: are these drugs the future of therapy?](https://www.theguardian.com/news/audio/2021/sep/13/ecstasy-lsd-magic-mushrooms-are-drugs-future-of-therapy)
-- [Britney Spears engaged to boyfriend Sam Asghari](https://www.theguardian.com/music/2021/sep/13/britney-spears-engaged-to-boyfriend-sam-asghari)
-- [Waitrose announces further cutback on single-use plastic bags](https://www.theguardian.com/business/2021/sep/13/waitrose-announces-further-cutback-on-single-use-plastic-bags)
-- [Scholz braves conservative attacks to win second German election debate](https://www.theguardian.com/world/2021/sep/13/scholz-braves-conservative-attacks-to-win-second-german-election-debate)
-- [North Korea says it has test fired long-range cruise missile](https://www.theguardian.com/world/2021/sep/13/north-korea-says-it-has-test-fired-long-range-cruise-missile)
-- [Covid solidarity will oil wheels of new Scottish independence referendum – Sturgeon](https://www.theguardian.com/politics/2021/sep/12/no-independence-referendum-until-covid-restrictions-lifted-sturgeon-says)
-- [BMA to issue damning critique of government over Covid crisis](https://www.theguardian.com/world/2021/sep/13/bma-issue-damning-critique-uk-government-covid-crisis-pandemic-nhs)
-- [Higher taxes could leave low-paid frontline workers £1,000 worse off](https://www.theguardian.com/politics/2021/sep/13/higher-taxes-low-paid-frontline-workers-worse-off)
-- [Murders of environment and land defenders hit record high](https://www.theguardian.com/environment/2021/sep/13/murders-environment-land-defenders-record-high)
-- [Brexit trade barriers added £600m in costs to UK importers this year](https://www.theguardian.com/politics/2021/sep/13/brexit-trade-barriers-added-600m-in-costs-to-uk-importers-this-year)
+- [Is Brexit the reason McDonald's is running out of milkshakes?](https://www.theguardian.com/news/audio/2021/sep/14/out-of-stock-britain-supply-chain-crisis-podcast)
+- [Give Lorde a break. Non-Māori must speak Māori for it to survive | Morgan Godfery](https://www.theguardian.com/world/2021/sep/14/give-lorde-a-break-non-maori-must-speak-maori-for-it-to-survive)
+- [Blinken pushes back against Republican criticism at Afghanistan hearing](https://www.theguardian.com/us-news/2021/sep/13/antony-blinken-afghanistan-taliban-house-hearing-republicans)
+- [US faces ‘real battle for democracy’ against far right, says Hillary Clinton](https://www.theguardian.com/us-news/2021/sep/14/us-faces-real-battle-for-democracy-against-far-right-says-hillary-clinton)
+- [Stonehenge project launched to repair deep lintel cracks](https://www.theguardian.com/uk-news/2021/sep/14/stonehenge-project-launched-to-repair-deep-lintel-cracks)
+- [Millions with eye conditions at higher risk of dementia, shows research](https://www.theguardian.com/science/2021/sep/14/millions-with-eye-conditions-at-higher-risk-of-dementia-shows-research)
+- [Thousands of jobs at risk unless UK travel rules changed, say airlines](https://www.theguardian.com/business/2021/sep/14/thousands-of-jobs-at-risk-unless-uk-travel-rules-changed-say-airlines)
+- [Headteachers call for reform of school admissions to redress attainment gap](https://www.theguardian.com/education/2021/sep/14/headteachers-call-for-reform-of-school-admissions-to-redress-attainment-gap)
+- [Amy Adams to make her West End debut in The Glass Menagerie](https://www.theguardian.com/stage/2021/sep/14/amy-adams-the-glass-menagerie-west-end-london-duke-of-york-theatre)
+- [Back to the Future: The Musical review – the car’s the star](https://www.theguardian.com/stage/2021/sep/13/back-to-the-future-the-musical-review-adelphi-theatre)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

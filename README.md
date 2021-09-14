@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Fast forward: What's coming in future Chrome updates?](https://www.computerworld.com/article/3378017/fast-forward-whats-coming-in-future-versions-of-chrome.html#tk.rss_all)
+- [Apple's App Store payments loss isn't Epic enough](https://www.computerworld.com/article/3633003/apples-app-store-payments-loss-isnt-epic-enough.html#tk.rss_all)
+- [As the hybrid workplace emerges, Microsoft and Google beef up video tools](https://www.computerworld.com/article/3632996/as-the-hybrid-workplace-emerges-microsoft-and-google-beef-up-video-tools.html#tk.rss_all)
 - [Facebook smart glasses and some lessons for Apple](https://www.computerworld.com/article/3632857/facebook-smart-glasses-and-some-lessons-for-apple.html#tk.rss_all)
 - [Better marketing with fewer cookies](https://www.computerworld.com/article/3632855/better-marketing-with-fewer-cookies.html#tk.rss_all)
 - [Lenovo’s ThinkReality A3 Smart Glasses look to the future](https://www.computerworld.com/article/3632989/lenovos-thinkreality-a3-smart-glasses-look-to-the-future.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Podcast: iPhone 13 announcement: What to expect at Apple's September 14 event](https://www.computerworld.com/article/3632877/podcast-iphone-13-announcement-what-to-expect-at-apples-september-14-event.html#tk.rss_all)
 - [A business user's guide to Apple’s upgrade season](https://www.computerworld.com/article/3632852/a-business-users-guide-to-apples-upgrade-season.html#tk.rss_all)
 - [Microsoft OneDrive cheat sheet](https://www.computerworld.com/article/3256907/microsoft-onedrive-cheat-sheet-backup-sync-share-files.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple News for Android? Why not?](https://www.computerworld.com/article/3632768/apple-news-for-android-why-not.html#tk.rss_all)
-- [Smartsheet: A spreadsheet-based tool for easy project management](https://www.computerworld.com/article/3239150/whats-smartsheet-a-spreadsheet-based-tool-for-simpler-project-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

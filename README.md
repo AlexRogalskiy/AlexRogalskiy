@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Smishing attacks up sevenfold in six months](https://www.computerweekly.com/news/252506611/Smishing-attacks-up-sevenfold-in-six-months)
+- [Olympus likely victim of BlackMatter ransomware](https://www.computerweekly.com/news/252506615/Olympus-likely-victim-of-BlackMatter-ransomware)
+- [Google joins Microsoft and Facebook by pledging to replenish more water than it consumes by 2030](https://www.computerweekly.com/news/252506608/Google-joins-Microsoft-and-Facebook-by-pledging-to-replenish-more-water-than-it-consumes-by-2030)
+- [UK government’s new digital identity system to cost up to £400m](https://www.computerweekly.com/news/252506595/UK-governments-new-digital-identity-system-to-cost-up-to-400m)
+- [The digital road ahead: National Highways puts technology in the driving seat](https://www.computerweekly.com/news/252506542/The-digital-road-ahead-National-Highways-puts-technology-in-the-driving-seat)
 - [The second coming: The Nordic datacentre market comes of age](https://www.computerweekly.com/feature/The-second-coming-The-Nordic-datacentre-market-comes-of-age)
 - [UK GDPR faces changes under planned reforms](https://www.computerweekly.com/news/252506493/UK-GDPR-faces-changes-under-planned-reforms)
 - [Five things you need to know about cloud file services](https://www.computerweekly.com/feature/5-things-you-need-to-know-about-cloud-file-services)
 - [Tech R&D gets cash boost through £113m Future Leaders Fellowships](https://www.computerweekly.com/news/252506484/Tech-RD-gets-cash-boost-through-113m-Future-Leaders-Fellowships)
 - [Latest Microsoft zero-day being actively exploited](https://www.computerweekly.com/news/252506480/Latest-Microsoft-zero-day-being-actively-exploited)
-- [Ali Ghodsi, Databricks CEO: Scandi-Californian hybrid is an ideal](https://www.computerweekly.com/news/252506427/Ali-Ghodsi-Databricks-CEO-Scandi-Californian-hybrid-is-an-ideal)
-- [CW Europe: Dutch researchers build security software to mimic human immune system](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Dutch-researchers-build-security-software-to-mimic-human-immune-system)
-- [REvil reappearance may herald new ransom campaigns](https://www.computerweekly.com/news/252506413/REvil-reappearance-may-herald-new-ransom-campaigns)
-- [Covid positive for security market, but still a source of stress](https://www.computerweekly.com/news/252506405/Covid-positive-for-security-market-but-still-a-source-of-stress)
-- [Stolen credit card data worth about £13 on dark web, PayPal worth more](https://www.computerweekly.com/news/252506403/Stolen-credit-card-data-worth-about-13-on-dark-web-PayPal-worth-more)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

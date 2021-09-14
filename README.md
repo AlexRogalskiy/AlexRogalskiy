@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Top human rights lawyer on “US hubris” of 9/11](https://www.exberliner.com/features/people/wolfgang-kaleck-us-hubris/)
-- [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
-- [Google Search on desktop web officially gets a dark theme](https://9to5google.com/2021/09/09/google-search-dark-theme-desktop/)
-- [Angellist-pioneers-rolling-VC-funds-in-pivot-to-SaaS (2020)](https://techcrunch.com/2020/09/08/angellist-pioneers-rolling-vc-funds-in-pivot-to-saas/)
-- [Privateer Space Founded by Steve Wozniak and Alex Fielding](https://www.youtube.com/watch?v=3a7A1w1C2TE)
-- [Steve Wozniak – “A Private space company is starting up, unlike the others.”](https://twitter.com/stevewoz/status/1437234689786347523)
-- [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
-- [GTK-Gnutella](http://gtk-gnutella.sourceforge.net/en/?page=news)
-- [Why Resist Blank Slate Thinking? For One, Look to No Child Left Behind](https://freddiedeboer.substack.com/p/why-resist-blank-slate-thinking-for)
-- [Debugging Julia with GDB and VSCode](https://vchuravy.dev/notes/2021/09/vscode-gdb/)
+- [I hacked my car to play Mario Kart](https://www.youtube.com/watch?v=dZx1IOQkZpQ&ab_channel=BionicNacho)
+- [Scheme language is good enough for products](https://nalaginrut.com/archives/2021/05/04/scheme%20language%20is%20good%20enough%20for%20products)
+- [Stop Technical Debt Before It Damages Your Company](https://thenewstack.io/stop-technical-debt-before-it-damages-your-company/)
+- [The US is increasingly a net debtor nation. Should we worry?](https://www.brookings.edu/blog/up-front/2021/04/14/the-us-is-increasingly-a-net-debtor-nation-should-we-worry/)
+- [TMZ Sold to Fox Entertainment](https://edition.cnn.com/2021/09/13/media/tmz-sold-fox-entertainment/index.html)
+- [On the Phenomenon of Bullshit Jobs (2013)](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
+- [We’re Ben and Jerry. Men of Ice Cream, Men of Principle](https://www.nytimes.com/2021/07/28/opinion/ben-and-jerry-israel.html)
+- [New Paper Suggests Union Membership Reduces Income Inequality](https://voicedcrowd.com/new-paper-suggests-union-membership-reduces-inequality/)
+- [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/)
+- [Supply chain disruptions are not a new threat, and they're not going away](https://stayathomemacro.substack.com/p/supply-chain-disruptions-are-not)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

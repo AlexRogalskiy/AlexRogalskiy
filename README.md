@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple hits the alarm with multi-OS emergency update to patch zero-click flaw](https://www.computerworld.com/article/3632924/apple-hits-the-alarm-with-multi-os-emergency-update-to-patch-zero-click-flaw.html#tk.rss_all)
+- [Apple’s big reveal — the iPhone 13 — seems lucky for most](https://www.computerworld.com/article/3632922/apples-big-reveal-the-iphone-13-seems-lucky-for-most.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [3 new time-saving Assistant tricks to try on Android](https://www.computerworld.com/article/3632945/google-assistant-android-tricks.html#tk.rss_all)
+- [Zoom talks up a video-centric workplace](https://www.computerworld.com/article/3633331/zoom-talks-up-a-video-centric-workplace.html#tk.rss_all)
+- [Don’t fight the COVID-19 vaccine mandate](https://www.computerworld.com/article/3632933/don-t-fight-the-covid-19-vaccine-mandate.html#tk.rss_all)
 - [Fast forward: What's coming in future Chrome updates?](https://www.computerworld.com/article/3378017/fast-forward-whats-coming-in-future-versions-of-chrome.html#tk.rss_all)
 - [Apple's App Store payments loss isn't Epic enough](https://www.computerworld.com/article/3633003/apples-app-store-payments-loss-isnt-epic-enough.html#tk.rss_all)
-- [As the hybrid workplace emerges, Microsoft and Google beef up video tools](https://www.computerworld.com/article/3632996/as-the-hybrid-workplace-emerges-microsoft-and-google-beef-up-video-tools.html#tk.rss_all)
-- [Facebook smart glasses and some lessons for Apple](https://www.computerworld.com/article/3632857/facebook-smart-glasses-and-some-lessons-for-apple.html#tk.rss_all)
-- [Better marketing with fewer cookies](https://www.computerworld.com/article/3632855/better-marketing-with-fewer-cookies.html#tk.rss_all)
-- [Lenovo’s ThinkReality A3 Smart Glasses look to the future](https://www.computerworld.com/article/3632989/lenovos-thinkreality-a3-smart-glasses-look-to-the-future.html#tk.rss_all)
-- [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
-- [Podcast: iPhone 13 announcement: What to expect at Apple's September 14 event](https://www.computerworld.com/article/3632877/podcast-iphone-13-announcement-what-to-expect-at-apples-september-14-event.html#tk.rss_all)
-- [A business user's guide to Apple’s upgrade season](https://www.computerworld.com/article/3632852/a-business-users-guide-to-apples-upgrade-season.html#tk.rss_all)
-- [Microsoft OneDrive cheat sheet](https://www.computerworld.com/article/3256907/microsoft-onedrive-cheat-sheet-backup-sync-share-files.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

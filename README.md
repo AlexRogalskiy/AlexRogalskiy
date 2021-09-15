@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
+- [What to do when you hit the cloudops wall](https://www.infoworld.com/article/3633170/what-to-do-when-you-hit-the-cloudops-wall.html#tk.rss_all)
+- [Machine learning is moving beyond the hype](https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html#tk.rss_all)
 - [Python slithers toward top of language popularity index](https://www.infoworld.com/article/3632862/python-slithers-toward-top-of-language-popularity-index.html#tk.rss_all)
 - [What’s new in Rust 1.55](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Mendix low-code PaaS adds Industry Clouds for key business sectors](https://www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [30 top SaaS companies for business](https://www.infoworld.com/article/3448597/30-top-saas-companies-for-business.html#tk.rss_all)
 - [Google Flutter 2.5 UI kit is now stable](https://www.infoworld.com/article/3632887/google-flutter-25-ui-kit-is-now-stable.html#tk.rss_all)
 - [How to get a maxed-out cloud budget](https://www.infoworld.com/article/3632991/how-to-get-a-maxed-out-cloud-budget.html#tk.rss_all)
-- [Java internet address resolution plan proposed](https://www.infoworld.com/article/3632973/java-internet-address-resolution-plan-proposed.html#tk.rss_all)
-- [Why devops teams should eliminate SLAs](https://www.infoworld.com/article/3630104/why-devops-teams-should-eliminate-slas.html#tk.rss_all)
-- [JetBrains previews data science IDE](https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

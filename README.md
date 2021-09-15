@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Smishing attacks up sevenfold in six months](https://www.computerweekly.com/news/252506611/Smishing-attacks-up-sevenfold-in-six-months)
-- [Olympus likely victim of BlackMatter ransomware](https://www.computerweekly.com/news/252506615/Olympus-likely-victim-of-BlackMatter-ransomware)
-- [Google joins Microsoft and Facebook by pledging to replenish more water than it consumes by 2030](https://www.computerweekly.com/news/252506608/Google-joins-Microsoft-and-Facebook-by-pledging-to-replenish-more-water-than-it-consumes-by-2030)
-- [UK government’s new digital identity system to cost up to £400m](https://www.computerweekly.com/news/252506595/UK-governments-new-digital-identity-system-to-cost-up-to-400m)
-- [The digital road ahead: National Highways puts technology in the driving seat](https://www.computerweekly.com/news/252506542/The-digital-road-ahead-National-Highways-puts-technology-in-the-driving-seat)
-- [The second coming: The Nordic datacentre market comes of age](https://www.computerweekly.com/feature/The-second-coming-The-Nordic-datacentre-market-comes-of-age)
-- [UK GDPR faces changes under planned reforms](https://www.computerweekly.com/news/252506493/UK-GDPR-faces-changes-under-planned-reforms)
-- [Five things you need to know about cloud file services](https://www.computerweekly.com/feature/5-things-you-need-to-know-about-cloud-file-services)
-- [Tech R&D gets cash boost through £113m Future Leaders Fellowships](https://www.computerweekly.com/news/252506484/Tech-RD-gets-cash-boost-through-113m-Future-Leaders-Fellowships)
-- [Latest Microsoft zero-day being actively exploited](https://www.computerweekly.com/news/252506480/Latest-Microsoft-zero-day-being-actively-exploited)
+- [HDD support and Zoned Namespaces: Key takeaways about NVMe 2.0](https://www.computerweekly.com/feature/HDD-support-and-Zoned-Namespaces-Key-takeaways-about-NVMe-20)
+- [Renault set to test out Google supply chain digital twin](https://www.computerweekly.com/news/252506659/Renault-set-to-test-out-Google-supply-chain-digital-twin)
+- [TikTok’s take-off fuels hyperscale datacentre spend by parent company ByteDance](https://www.computerweekly.com/news/252506671/TikToks-take-off-fuels-hyperscale-datacentre-spend-by-parent-company-ByteDance)
+- [UK government takes equity shares in more than 150 startups](https://www.computerweekly.com/news/252506661/UK-government-takes-equity-shares-in-more-than-150-startups)
+- [Mass health tracker data breach has UK impact](https://www.computerweekly.com/news/252506664/Mass-health-tracker-data-breach-has-UK-impact)
+- [Uptime Institute highlights patchy reporting of water use by datacentre operators](https://www.computerweekly.com/news/252506651/Uptime-Institute-highlights-patchy-reporting-of-water-use-by-datacentre-operators)
+- [Cost of ransomware attack in financial sector exceeds $2m](https://www.computerweekly.com/news/252506646/Cost-of-ransomware-attack-in-financial-sector-exceeds-2m)
+- [Oracle Q1 2021-2 results: Cloud revenue reaches a quarter](https://www.computerweekly.com/news/252506655/Oracle-Q1-2021-2-results-cloud-revenue-reaches-one-quarter)
+- [Government minister holds secret meeting with Post Office Horizon scandal victims](https://www.computerweekly.com/news/252506647/Government-Minister-holds-secret-meeting-with-Post-Office-Horizon-scandal-victims)
+- [Database growth needs greater team collaboration](https://www.computerweekly.com/news/252506652/Database-growth-needs-greater-team-collaboration)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

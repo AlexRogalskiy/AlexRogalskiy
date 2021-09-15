@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is Brexit the reason McDonald's is running out of milkshakes?](https://www.theguardian.com/news/audio/2021/sep/14/out-of-stock-britain-supply-chain-crisis-podcast)
-- [Give Lorde a break. Non-Māori must speak Māori for it to survive | Morgan Godfery](https://www.theguardian.com/world/2021/sep/14/give-lorde-a-break-non-maori-must-speak-maori-for-it-to-survive)
-- [Blinken pushes back against Republican criticism at Afghanistan hearing](https://www.theguardian.com/us-news/2021/sep/13/antony-blinken-afghanistan-taliban-house-hearing-republicans)
-- [US faces ‘real battle for democracy’ against far right, says Hillary Clinton](https://www.theguardian.com/us-news/2021/sep/14/us-faces-real-battle-for-democracy-against-far-right-says-hillary-clinton)
-- [Stonehenge project launched to repair deep lintel cracks](https://www.theguardian.com/uk-news/2021/sep/14/stonehenge-project-launched-to-repair-deep-lintel-cracks)
-- [Millions with eye conditions at higher risk of dementia, shows research](https://www.theguardian.com/science/2021/sep/14/millions-with-eye-conditions-at-higher-risk-of-dementia-shows-research)
-- [Thousands of jobs at risk unless UK travel rules changed, say airlines](https://www.theguardian.com/business/2021/sep/14/thousands-of-jobs-at-risk-unless-uk-travel-rules-changed-say-airlines)
-- [Headteachers call for reform of school admissions to redress attainment gap](https://www.theguardian.com/education/2021/sep/14/headteachers-call-for-reform-of-school-admissions-to-redress-attainment-gap)
-- [Amy Adams to make her West End debut in The Glass Menagerie](https://www.theguardian.com/stage/2021/sep/14/amy-adams-the-glass-menagerie-west-end-london-duke-of-york-theatre)
-- [Back to the Future: The Musical review – the car’s the star](https://www.theguardian.com/stage/2021/sep/13/back-to-the-future-the-musical-review-adelphi-theatre)
+- [Who’s paying for the government’s plan to fix social care?](https://www.theguardian.com/news/audio/2021/sep/15/whos-paying-for-the-governments-plan-to-fix-social-care-podcast)
+- [‘Heartbroken’ Osage Nation leaders decry sale of sacred Missouri cave with ancient artwork](https://www.theguardian.com/us-news/2021/sep/15/heartbroken-native-american-leaders-decry-sale-of-sacred-missouri-cave-with-ancient-artwork)
+- [Zen and the art of working from home: Japanese builder offers mini office kit](https://www.theguardian.com/world/2021/sep/15/zen-and-the-art-of-working-from-home-japanese-builder-offers-mini-office-kit)
+- [Gavin Newsom’s political fate in balance as final votes cast in California recall](https://www.theguardian.com/us-news/2021/sep/14/california-governor-recall-election-gavin-newsom-latest)
+- [Britney Spears ‘taking a break’ from social media after engagement](https://www.theguardian.com/music/2021/sep/14/britney-spears-instagram-social-media-engagement)
+- [Pollution is damaging UK rivers more than public thinks, report says](https://www.theguardian.com/environment/2021/sep/15/pollution-is-damaging-uk-rivers-more-than-public-thinks-report-says)
+- [Oliver Dowden restates his claim Channel 4 would benefit from privatisation](https://www.theguardian.com/media/2021/sep/15/oliver-dowden-restates-claim-channel-4-privatisation)
+- [US charges American mercenary hackers over their work in UAE](https://www.theguardian.com/us-news/2021/sep/14/hacking-spying-charges-united-arab-emirates-us-intelligence)
+- [Indecent review – a brainy play staged with the panache of a musical](https://www.theguardian.com/stage/2021/sep/14/indecent-review-paula-vogel-menier-chocolate-factory-london)
+- [Championship: Bournemouth sink QPR to climb table, Derby hold West Brom](https://www.theguardian.com/football/2021/sep/14/championship-roundup-bournemouth-inflict-first-qpr-defeat-as-wba-draw)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

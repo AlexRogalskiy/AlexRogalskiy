@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I hacked my car to play Mario Kart](https://www.youtube.com/watch?v=dZx1IOQkZpQ&ab_channel=BionicNacho)
-- [Scheme language is good enough for products](https://nalaginrut.com/archives/2021/05/04/scheme%20language%20is%20good%20enough%20for%20products)
-- [Stop Technical Debt Before It Damages Your Company](https://thenewstack.io/stop-technical-debt-before-it-damages-your-company/)
-- [The US is increasingly a net debtor nation. Should we worry?](https://www.brookings.edu/blog/up-front/2021/04/14/the-us-is-increasingly-a-net-debtor-nation-should-we-worry/)
-- [TMZ Sold to Fox Entertainment](https://edition.cnn.com/2021/09/13/media/tmz-sold-fox-entertainment/index.html)
-- [On the Phenomenon of Bullshit Jobs (2013)](https://www.atlasofplaces.com/essays/on-the-phenomenon-of-bullshit-jobs/)
-- [We’re Ben and Jerry. Men of Ice Cream, Men of Principle](https://www.nytimes.com/2021/07/28/opinion/ben-and-jerry-israel.html)
-- [New Paper Suggests Union Membership Reduces Income Inequality](https://voicedcrowd.com/new-paper-suggests-union-membership-reduces-inequality/)
-- [Ray casting in 2D game engines](https://sszczep.github.io/ray-casting-in-2d-game-engines/)
-- [Supply chain disruptions are not a new threat, and they're not going away](https://stayathomemacro.substack.com/p/supply-chain-disruptions-are-not)
+- [Best IDE in History – Borland](https://www.youtube.com/watch?v=phsR-aVq_is&t=9s)
+- [Boeing's Fatal Flaw (full documentary) – FRONTLINE](https://www.youtube.com/watch?v=wXMO0bhPhCw)
+- [Show HN: A souece analyser help you to understand code efficiently](https://cymbols.io/)
+- [BC Vaccine Passport Data Format](https://dunae.ca/notes/2021/09/08/bc-vaccine-passport-format.html)
+- [Maersk CEO Says Construction of Fossil Fueled Ships Should Be Banned](https://gcaptain.com/maersk-ceo-says-construction-of-fossil-fueled-ships-should-be-banned/)
+- [A cautionary marketing tale: Omnisend's pricing changes](https://news.ycombinator.com/item?id=28534397)
+- [Pioneering Gene Therapy Freed Her of Sickle Cell. Is a Cure at Hand?](https://www.nytimes.com/2021/09/14/health/sickle-cell-cure.html)
+- [Cargo ship capsized because of inaccurate stability calculations, the NTSB finds](https://www.cnn.com/2021/09/14/us/golden-ray-cargo-ship-ntsb-report/index.html)
+- [The Han Chinese Myth](https://rhapsodyinlingo.com/en/han-myth/)
+- [General promises and#39;surge' to fight ransomware attacks](https://thehill.com/policy/cybersecurity/572203-general-promises-surge-in-effect-to-fight-ransomware-attacks)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

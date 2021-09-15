@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Apple iPhone 13 Pro and iPhone 13 Pro Max are here](https://www.itworldcanada.com/article/apple-iphone-13-pro-and-iphone-13-pro-max-are-here/458328)
+- [Why there must be a renewed focus on business continuity](https://www.itworldcanada.com/article/why-there-must-be-a-renewed-focus-on-business-continuity/458325)
+- [Coffee Briefing, Sept. 14, 2021 – Uber partners with Aeroplan; new Twitter features; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-14-2021-uber-aeroplan-partnership-new-twitter-features-and-more/458291)
+- [Apple patches zero-click vulnerability discovered by Canadian researchers](https://www.itworldcanada.com/article/apple-patches-zero-click-vulnerability-discovered-by-canadian-researchers/458289)
+- [Hashtag Trending September 14- Apple VS Epic Games; Google employee allegations; Litecoin declines after fake news](https://www.itworldcanada.com/article/hashtag-trending-september-14-apple-vs-epic-games-google-employee-allegations-litecoin-declines-after-fake-news/458273)
 - [Election 2021: The parties on privacy, cybersecurity](https://www.itworldcanada.com/article/election-2021-the-parties-on-privacy-cybersecurity/458228)
 - [Cyber Security Today, Sept. 13, 2021 – The REvil ransomware gang is back, a new botnet is discovered and Formbook malware rises](https://www.itworldcanada.com/article/cyber-security-today-sept-13-2021-the-revil-ransomware-gang-is-back-a-new-botnet-is-discovered-and-formbook-malware-rises/458224)
 - [Hashtag Trending Sept. 13 – Theranos Trial CEO starts; Facebook buys invoices; Samsung virtual memory](https://www.itworldcanada.com/article/hashtag-trending-sept-13-theranos-trial-ceo-starts-facebook-buys-invoices-samsung-virtual-memory/458233)
 - [Google Workspace rolls out updates to simplify hybrid work](https://www.itworldcanada.com/article/google-workspace-rolls-out-updates-to-simplify-hybrid-work/458075)
 - [Cyber Security Today, Week in Review for Sept. 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-10-2021/458088)
-- [Many employees working from home see cybersecurity as a hindrance: Report](https://www.itworldcanada.com/article/many-employees-working-from-home-see-cybersecurity-as-a-hindrance-report/458160)
-- [Cyber Security Today, Sept. 10, 2021 – Microsoft issues Windows warning, Windows log used to hide malware and why you should tighten cloud security](https://www.itworldcanada.com/article/cyber-security-today-sept-10-2021-microsoft-issues-windows-warning-windows-log-used-to-hide-malware-and-why-you-should-tighten-cloud-security/458132)
-- [Hashtag Trending September 10 – Germany’s Instagram influencer rule; Bitcoin mining arrest; Twitter Communities](https://www.itworldcanada.com/article/hashtag-trending-september-10-germanys-instagram-influencer-rule-bitcoin-mining-arrest-twitter-communities/458126)
-- [Ransomware is ‘a solvable problem’, expert maintains](https://www.itworldcanada.com/article/ransomware-is-a-solvable-problem-expert-maintains/458059)
-- [Hashtag Trending September 9- Amazon warehouse; New Twitter feature; PayPal inactive account fee](https://www.itworldcanada.com/article/hashtag-trending-september-9-amazon-warehouse-new-twitter-feature-paypal-inactive-account-fee/458054)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

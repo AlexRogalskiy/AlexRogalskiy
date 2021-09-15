@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook denies having '2 systems of justice' for users after WSJ report](https://www.foxbusiness.com/technology/facebook-denies-two-systems-of-justice-wall-street-journal)
-- [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
-- [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
-- [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
-- [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
-- [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
-- [Intuit to Acquire Mailchimp for $12B](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
-- [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
-- [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
-- [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
+- [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
+- [Young People Are Anxious About Climate Change, Say Governments Are Failing Them](https://text.npr.org/1037023551)
+- [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
+- [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
+- ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
+- [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
+- [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
+- [The Housing Theory of Everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

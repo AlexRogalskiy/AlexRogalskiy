@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What the iPhone 13 and iPad mini mean for the enterprise](https://www.computerworld.com/article/3633535/what-the-iphone-13-and-ipad-mini-mean-for-the-enterprise.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple hits the alarm with multi-OS emergency update to patch zero-click flaw](https://www.computerworld.com/article/3632924/apple-hits-the-alarm-with-multi-os-emergency-update-to-patch-zero-click-flaw.html#tk.rss_all)
 - [Apple’s big reveal — the iPhone 13 — seems lucky for most](https://www.computerworld.com/article/3632922/apples-big-reveal-the-iphone-13-seems-lucky-for-most.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [3 new time-saving Assistant tricks to try on Android](https://www.computerworld.com/article/3632945/google-assistant-android-tricks.html#tk.rss_all)
 - [Zoom talks up a video-centric workplace](https://www.computerworld.com/article/3633331/zoom-talks-up-a-video-centric-workplace.html#tk.rss_all)
 - [Don’t fight the COVID-19 vaccine mandate](https://www.computerworld.com/article/3632933/don-t-fight-the-covid-19-vaccine-mandate.html#tk.rss_all)
-- [Fast forward: What's coming in future Chrome updates?](https://www.computerworld.com/article/3378017/fast-forward-whats-coming-in-future-versions-of-chrome.html#tk.rss_all)
-- [Apple's App Store payments loss isn't Epic enough](https://www.computerworld.com/article/3633003/apples-app-store-payments-loss-isnt-epic-enough.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

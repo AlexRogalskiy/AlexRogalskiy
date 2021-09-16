@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
-- [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
-- [Young People Are Anxious About Climate Change, Say Governments Are Failing Them](https://text.npr.org/1037023551)
-- [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
-- [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
-- ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
-- [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
-- [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
-- [The Housing Theory of Everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
-- [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
+- [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
+- [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
+- [Donate to the Internet Achieve](https://archive.org/donate)
+- [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
+- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
+- [Competition Is For Losers](https://www.lrb.co.uk/the-paper/v43/n18/david-runciman/competition-is-for-losers)
+- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
+- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
+- [Drum Juggling](https://thekidshouldseethis.com/post/drum-juggling-with-kateryna-nikiforova)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

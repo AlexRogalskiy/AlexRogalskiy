@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Best IDE in History – Borland](https://www.youtube.com/watch?v=phsR-aVq_is&t=9s)
-- [Boeing's Fatal Flaw (full documentary) – FRONTLINE](https://www.youtube.com/watch?v=wXMO0bhPhCw)
-- [Show HN: A souece analyser help you to understand code efficiently](https://cymbols.io/)
-- [BC Vaccine Passport Data Format](https://dunae.ca/notes/2021/09/08/bc-vaccine-passport-format.html)
-- [Maersk CEO Says Construction of Fossil Fueled Ships Should Be Banned](https://gcaptain.com/maersk-ceo-says-construction-of-fossil-fueled-ships-should-be-banned/)
-- [A cautionary marketing tale: Omnisend's pricing changes](https://news.ycombinator.com/item?id=28534397)
-- [Pioneering Gene Therapy Freed Her of Sickle Cell. Is a Cure at Hand?](https://www.nytimes.com/2021/09/14/health/sickle-cell-cure.html)
-- [Cargo ship capsized because of inaccurate stability calculations, the NTSB finds](https://www.cnn.com/2021/09/14/us/golden-ray-cargo-ship-ntsb-report/index.html)
-- [The Han Chinese Myth](https://rhapsodyinlingo.com/en/han-myth/)
-- [General promises and#39;surge' to fight ransomware attacks](https://thehill.com/policy/cybersecurity/572203-general-promises-surge-in-effect-to-fight-ransomware-attacks)
+- [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
+- [Intraday stock market API and Sentiment data in JSON](https://www.styvio.com/)
+- [Microsoft to let users completely remove account passwords and go passwordless](https://therecord.media/microsoft-to-let-users-completely-remove-account-passwords-and-go-passwordless/)
+- [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
+- [Picture captures both the Northern and Southern Hemisphere at once](https://www.eso.org/public/images/potw2137a/)
+- [Useful Spy Books](https://berthub.eu/articles/posts/useful-spy-books/)
+- [Run chaos experiments on physical machines](https://chaos-mesh.org/blog/run-chaos-experiments-on-physical-machines/)
+- [Braintrust (BTRST) is now available on Coinbase](https://blog.coinbase.com/braintrust-btrst-is-now-available-on-coinbase-5c64a363c9f0)
+- [Ask HN: What does your home office look like?](https://news.ycombinator.com/item?id=28547085)
+- [SEC Gives Whistle-Blower $110M in Second-Biggest Payout](https://finance.yahoo.com/news/sec-gives-whistle-blower-110-185045727.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

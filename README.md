@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft accounts to no longer need passwords](https://www.itworldcanada.com/article/microsoft-accounts-to-no-longer-need-passwords/458442)
+- [Anything will tell you something: The truth about data analytics](https://www.itworldcanada.com/article/anything-will-tell-you-something-the-truth-about-data-analytics/458437)
+- [Google Cloud launches Toronto region](https://www.itworldcanada.com/article/google-cloud-launches-toronto-region/458427)
+- [Malicious Linux version of Cobalt Strike hacking tool found](https://www.itworldcanada.com/article/malicious-linux-version-of-cobalt-strike-hacking-tool-found/458356)
+- [Cyber Security Today, Sept. 15, 2021 –  Huge database of fitness app information found unprotected, attack on Olympus and security patches released](https://www.itworldcanada.com/article/cyber-security-today-sept-15-2021-huge-database-of-fitness-app-information-found-unprotected-attack-on-olympus-and-security-patches-released/458322)
+- [Hashtag Trending Sept. 15 – Instagram harms teens; Wozniak for space; Virtual influencer rakes in sponsorships](https://www.itworldcanada.com/article/hashtag-trending-sept-15-instagram-harms-teens-wozniak-for-space-virtual-influencer-rakes-in-sponsorships/458352)
 - [Apple iPhone 13 Pro and iPhone 13 Pro Max are here](https://www.itworldcanada.com/article/apple-iphone-13-pro-and-iphone-13-pro-max-are-here/458328)
 - [Why there must be a renewed focus on business continuity](https://www.itworldcanada.com/article/why-there-must-be-a-renewed-focus-on-business-continuity/458325)
 - [Coffee Briefing, Sept. 14, 2021 – Uber partners with Aeroplan; new Twitter features; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-14-2021-uber-aeroplan-partnership-new-twitter-features-and-more/458291)
 - [Apple patches zero-click vulnerability discovered by Canadian researchers](https://www.itworldcanada.com/article/apple-patches-zero-click-vulnerability-discovered-by-canadian-researchers/458289)
-- [Hashtag Trending September 14- Apple VS Epic Games; Google employee allegations; Litecoin declines after fake news](https://www.itworldcanada.com/article/hashtag-trending-september-14-apple-vs-epic-games-google-employee-allegations-litecoin-declines-after-fake-news/458273)
-- [Election 2021: The parties on privacy, cybersecurity](https://www.itworldcanada.com/article/election-2021-the-parties-on-privacy-cybersecurity/458228)
-- [Cyber Security Today, Sept. 13, 2021 – The REvil ransomware gang is back, a new botnet is discovered and Formbook malware rises](https://www.itworldcanada.com/article/cyber-security-today-sept-13-2021-the-revil-ransomware-gang-is-back-a-new-botnet-is-discovered-and-formbook-malware-rises/458224)
-- [Hashtag Trending Sept. 13 – Theranos Trial CEO starts; Facebook buys invoices; Samsung virtual memory](https://www.itworldcanada.com/article/hashtag-trending-sept-13-theranos-trial-ceo-starts-facebook-buys-invoices-samsung-virtual-memory/458233)
-- [Google Workspace rolls out updates to simplify hybrid work](https://www.itworldcanada.com/article/google-workspace-rolls-out-updates-to-simplify-hybrid-work/458075)
-- [Cyber Security Today, Week in Review for Sept. 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-10-2021/458088)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

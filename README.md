@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Official Guinness World Record attempt](https://www.reddit.com/r/InformationTechnology/comments/posuc3/official_guinness_world_record_attempt/)
 - [Would MyComputerCareer be a good school to admit to if one wants to obtain a $40K and up type of job without the hassle of spending 4 years at a University?](https://www.reddit.com/r/InformationTechnology/comments/pnrqyp/would_mycomputercareer_be_a_good_school_to_admit/)
 - [Knows unknowns and unknown unknowns (Rumsfeld), IT mindmap](https://www.reddit.com/r/InformationTechnology/comments/pnhjja/knows_unknowns_and_unknown_unknowns_rumsfeld_it/)
 - [How do you determine the ACK receive time for a TCP packet?](https://www.reddit.com/r/InformationTechnology/comments/pmk89e/how_do_you_determine_the_ack_receive_time_for_a/)
@@ -415,7 +416,6 @@
 - [How should I take notes for IT?](https://www.reddit.com/r/InformationTechnology/comments/plpcka/how_should_i_take_notes_for_it/)
 - [Microsoft 365 emails to Spam](https://www.reddit.com/r/InformationTechnology/comments/pl0wkw/microsoft_365_emails_to_spam/)
 - [App ID Exclusions - Complete brainfart.](https://www.reddit.com/r/InformationTechnology/comments/pkyy51/app_id_exclusions_complete_brainfart/)
-- [Company Issues Docking Station](https://www.reddit.com/r/InformationTechnology/comments/pkh29y/company_issues_docking_station/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Who’s paying for the government’s plan to fix social care?](https://www.theguardian.com/news/audio/2021/sep/15/whos-paying-for-the-governments-plan-to-fix-social-care-podcast)
-- [‘Heartbroken’ Osage Nation leaders decry sale of sacred Missouri cave with ancient artwork](https://www.theguardian.com/us-news/2021/sep/15/heartbroken-native-american-leaders-decry-sale-of-sacred-missouri-cave-with-ancient-artwork)
-- [Zen and the art of working from home: Japanese builder offers mini office kit](https://www.theguardian.com/world/2021/sep/15/zen-and-the-art-of-working-from-home-japanese-builder-offers-mini-office-kit)
-- [Gavin Newsom’s political fate in balance as final votes cast in California recall](https://www.theguardian.com/us-news/2021/sep/14/california-governor-recall-election-gavin-newsom-latest)
-- [Britney Spears ‘taking a break’ from social media after engagement](https://www.theguardian.com/music/2021/sep/14/britney-spears-instagram-social-media-engagement)
-- [Pollution is damaging UK rivers more than public thinks, report says](https://www.theguardian.com/environment/2021/sep/15/pollution-is-damaging-uk-rivers-more-than-public-thinks-report-says)
-- [Oliver Dowden restates his claim Channel 4 would benefit from privatisation](https://www.theguardian.com/media/2021/sep/15/oliver-dowden-restates-claim-channel-4-privatisation)
-- [US charges American mercenary hackers over their work in UAE](https://www.theguardian.com/us-news/2021/sep/14/hacking-spying-charges-united-arab-emirates-us-intelligence)
-- [Indecent review – a brainy play staged with the panache of a musical](https://www.theguardian.com/stage/2021/sep/14/indecent-review-paula-vogel-menier-chocolate-factory-london)
-- [Championship: Bournemouth sink QPR to climb table, Derby hold West Brom](https://www.theguardian.com/football/2021/sep/14/championship-roundup-bournemouth-inflict-first-qpr-defeat-as-wba-draw)
+- [The problem with OnlyFans’ mainstream dream](https://www.theguardian.com/news/audio/2021/sep/16/the-problem-with-onlyfans-mainstream-dream)
+- [France says it has killed Islamic State leader in Greater Sahara, Adnan Abu Walid al-Sahrawi](https://www.theguardian.com/world/2021/sep/16/france-says-it-has-killed-islamic-state-leader-in-greater-sahara-adnan-abu-walid-al-sahrawi)
+- [‘Boris wields the axe’: what the UK papers say about Johnson’s ruthless reshuffle](https://www.theguardian.com/politics/2021/sep/16/boris-wields-the-axe-what-the-uk-papers-say-about-johnsons-ruthless-reshuffle)
+- [SpaceX launches world’s first ‘amateur astronaut’ crew to orbit Earth](https://www.theguardian.com/science/2021/sep/15/spacex-launch-amateur-astronauts-passengers)
+- [US, UK and Australia forge military alliance to counter China](https://www.theguardian.com/australia-news/2021/sep/15/australia-nuclear-powered-submarines-us-uk-security-partnership-aukus)
+- [Man behind world’s biggest source of child abuse imagery is jailed for 27 years](https://www.theguardian.com/us-news/2021/sep/16/man-behind-worlds-biggest-source-of-child-abuse-imagery-is-jailed-for-27-years)
+- [US court overturns murder conviction of police officer who shot Justine Damond](https://www.theguardian.com/us-news/2021/sep/16/us-court-overturns-conviction-of-police-officer-who-shot-justine-damond)
+- [Stirling prize shortlist: from mosque stunner to neo-neolithic flats](https://www.theguardian.com/artanddesign/2021/sep/16/stirling-prize-shortlist-2021-architecture)
+- [Gordon Brown: Scots see that English values aren’t all about ‘toffs and Brexit’](https://www.theguardian.com/politics/2021/sep/16/gordon-brown-scots-see-that-english-values-arent-all-about-toffs-and-brexit)
+- [UK’s independent shops record first rise in four years as chains suffer](https://www.theguardian.com/business/2021/sep/16/uks-independent-shops-record-first-rise-in-four-years-as-chains-suffer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UN human rights chief calls for moratorium on AI technologies](https://www.computerweekly.com/news/252506734/UN-human-rights-chief-calls-for-moratorium-on-AI-technologies)
+- [Interview: Chancellor of the Exchequer Rishi Sunak on supporting the UK tech sector](https://www.computerweekly.com/news/252506730/Interview-Chancellor-of-the-Exchequer-Rishi-Sunak-on-supporting-the-UK-tech-sector)
+- [Tech Nation announces second cohort for Net Zero accelerator](https://www.computerweekly.com/news/252506723/Tech-Nation-announces-cohort-for-second-Net-Zero-accelerator)
+- [Volkswagen signs up to Arm-based software-defined car standard](https://www.computerweekly.com/news/252506725/Volkswagen-signs-up-to-Arm-based-software-defined-car-standard)
+- [Transport for London contracts TCS as it modernises taxi and private hire operation](https://www.computerweekly.com/news/252506721/Transport-for-London-contracts-TCS-as-it-modernises-taxi-and-private-hire-operation)
+- [Microsoft patches 66 vulnerabilities in September update](https://www.computerweekly.com/news/252506718/Microsoft-patches-66-vulnerabilities-in-September-update)
+- [Nordic central banks drive fintech and digital currency](https://www.computerweekly.com/news/252506713/Nordic-central-banks-drive-fintech-and-digital-currency)
 - [HDD support and Zoned Namespaces: Key takeaways about NVMe 2.0](https://www.computerweekly.com/feature/HDD-support-and-Zoned-Namespaces-Key-takeaways-about-NVMe-20)
 - [Renault set to test out Google supply chain digital twin](https://www.computerweekly.com/news/252506659/Renault-set-to-test-out-Google-supply-chain-digital-twin)
 - [TikTok’s take-off fuels hyperscale datacentre spend by parent company ByteDance](https://www.computerweekly.com/news/252506671/TikToks-take-off-fuels-hyperscale-datacentre-spend-by-parent-company-ByteDance)
-- [UK government takes equity shares in more than 150 startups](https://www.computerweekly.com/news/252506661/UK-government-takes-equity-shares-in-more-than-150-startups)
-- [Mass health tracker data breach has UK impact](https://www.computerweekly.com/news/252506664/Mass-health-tracker-data-breach-has-UK-impact)
-- [Uptime Institute highlights patchy reporting of water use by datacentre operators](https://www.computerweekly.com/news/252506651/Uptime-Institute-highlights-patchy-reporting-of-water-use-by-datacentre-operators)
-- [Cost of ransomware attack in financial sector exceeds $2m](https://www.computerweekly.com/news/252506646/Cost-of-ransomware-attack-in-financial-sector-exceeds-2m)
-- [Oracle Q1 2021-2 results: Cloud revenue reaches a quarter](https://www.computerweekly.com/news/252506655/Oracle-Q1-2021-2-results-cloud-revenue-reaches-one-quarter)
-- [Government minister holds secret meeting with Post Office Horizon scandal victims](https://www.computerweekly.com/news/252506647/Government-Minister-holds-secret-meeting-with-Post-Office-Horizon-scandal-victims)
-- [Database growth needs greater team collaboration](https://www.computerweekly.com/news/252506652/Database-growth-needs-greater-team-collaboration)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
-- [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
-- [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
-- [Donate to the Internet Achieve](https://archive.org/donate)
-- [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
-- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
-- [Competition Is For Losers](https://www.lrb.co.uk/the-paper/v43/n18/david-runciman/competition-is-for-losers)
-- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
-- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
-- [Drum Juggling](https://thekidshouldseethis.com/post/drum-juggling-with-kateryna-nikiforova)
+- [AMD ready to flex its ARMs](https://amd-now.com/amd-ready-to-flex-its-arms/)
+- [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
+- [How to build a search engine with Ruby on Rails](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/)
+- [Ask HN: Advice on bringing community broadband to Los Alamos?](https://news.ycombinator.com/item?id=28558854)
+- [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [You Don't Need to Burn Off Your Fingertips](https://www.troyhunt.com/you-dont-need-to-burn-off-your-fingertips-and-other-biometric-myths/)
+- [Tracking space debris is a growing business](https://www.economist.com/science-and-technology/tracking-space-debris-is-a-growing-business/21804756)
+- [U.S. court upholds dismissal of lawsuit against NSA on 'state secrets' grounds](https://www.reuters.com/world/us/us-court-upholds-dismissal-suit-against-nsa-state-secrets-grounds-2021-09-16/)
+- [Atlassian fired me while I was taking care of my wife who is fighting cancer](https://shitlassian.com/)
+- [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

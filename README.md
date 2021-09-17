@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Minister for data John Whittingdale ousted in Cabinet reshuffle](https://www.computerweekly.com/news/252506789/Minister-for-data-John-Whittingdale-ousted-in-Cabinet-reshuffle)
+- [Dutch education administrators underestimate threat of cyber crime](https://www.computerweekly.com/news/252506778/Dutch-education-administrators-underestimate-threat-of-cyber-crime)
+- [Bitdefender launches free REvil ransomware decryptor](https://www.computerweekly.com/news/252506780/BitDefender-launches-free-REvil-ransomware-decryptor)
+- [Inside nib’s digital transformation journey](https://www.computerweekly.com/video/Inside-nibs-digital-transformation-journey)
+- [European president outlines tech vision to drive Europe](https://www.computerweekly.com/news/252506774/European-president-outlines-tech-vision-to-drive-Europe)
+- [Travel-themed phishing lures spiked this summer](https://www.computerweekly.com/news/252506772/Travel-themed-phishing-lures-spiked-this-summer)
+- [Network Rail U-turns on blanket inside IR35 contractor determinations](https://www.computerweekly.com/news/252506768/IR35-reforms-Network-Rail-u-turns-on-contractor-blanket-ban-strategy)
 - [UN human rights chief calls for moratorium on AI technologies](https://www.computerweekly.com/news/252506734/UN-human-rights-chief-calls-for-moratorium-on-AI-technologies)
 - [Interview: Chancellor of the Exchequer Rishi Sunak on supporting the UK tech sector](https://www.computerweekly.com/news/252506730/Interview-Chancellor-of-the-Exchequer-Rishi-Sunak-on-supporting-the-UK-tech-sector)
 - [Tech Nation announces second cohort for Net Zero accelerator](https://www.computerweekly.com/news/252506723/Tech-Nation-announces-cohort-for-second-Net-Zero-accelerator)
-- [Volkswagen signs up to Arm-based software-defined car standard](https://www.computerweekly.com/news/252506725/Volkswagen-signs-up-to-Arm-based-software-defined-car-standard)
-- [Transport for London contracts TCS as it modernises taxi and private hire operation](https://www.computerweekly.com/news/252506721/Transport-for-London-contracts-TCS-as-it-modernises-taxi-and-private-hire-operation)
-- [Microsoft patches 66 vulnerabilities in September update](https://www.computerweekly.com/news/252506718/Microsoft-patches-66-vulnerabilities-in-September-update)
-- [Nordic central banks drive fintech and digital currency](https://www.computerweekly.com/news/252506713/Nordic-central-banks-drive-fintech-and-digital-currency)
-- [HDD support and Zoned Namespaces: Key takeaways about NVMe 2.0](https://www.computerweekly.com/feature/HDD-support-and-Zoned-Namespaces-Key-takeaways-about-NVMe-20)
-- [Renault set to test out Google supply chain digital twin](https://www.computerweekly.com/news/252506659/Renault-set-to-test-out-Google-supply-chain-digital-twin)
-- [TikTok’s take-off fuels hyperscale datacentre spend by parent company ByteDance](https://www.computerweekly.com/news/252506671/TikToks-take-off-fuels-hyperscale-datacentre-spend-by-parent-company-ByteDance)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

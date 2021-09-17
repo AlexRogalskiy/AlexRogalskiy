@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a difference between IT and Cyber Security? If so, what?](https://www.reddit.com/r/InformationTechnology/comments/ppjbtb/is_there_a_difference_between_it_and_cyber/)
+- [Questions about starting a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ppcho8/questions_about_starting_a_career_in_it/)
 - [Official Guinness World Record attempt](https://www.reddit.com/r/InformationTechnology/comments/posuc3/official_guinness_world_record_attempt/)
 - [Would MyComputerCareer be a good school to admit to if one wants to obtain a $40K and up type of job without the hassle of spending 4 years at a University?](https://www.reddit.com/r/InformationTechnology/comments/pnrqyp/would_mycomputercareer_be_a_good_school_to_admit/)
 - [Knows unknowns and unknown unknowns (Rumsfeld), IT mindmap](https://www.reddit.com/r/InformationTechnology/comments/pnhjja/knows_unknowns_and_unknown_unknowns_rumsfeld_it/)
@@ -414,8 +416,6 @@
 - [Email server doesn't work on some networks](https://www.reddit.com/r/InformationTechnology/comments/plyv1o/email_server_doesnt_work_on_some_networks/)
 - [I feel like the mistake of no internships is really costing me](https://www.reddit.com/r/InformationTechnology/comments/plttmp/i_feel_like_the_mistake_of_no_internships_is/)
 - [How should I take notes for IT?](https://www.reddit.com/r/InformationTechnology/comments/plpcka/how_should_i_take_notes_for_it/)
-- [Microsoft 365 emails to Spam](https://www.reddit.com/r/InformationTechnology/comments/pl0wkw/microsoft_365_emails_to_spam/)
-- [App ID Exclusions - Complete brainfart.](https://www.reddit.com/r/InformationTechnology/comments/pkyy51/app_id_exclusions_complete_brainfart/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

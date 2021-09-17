@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Podcast: Apple introduces the A15-powered iPhone 13, plus iOS 14.8 patches Pegasus spyware flaw](https://www.computerworld.com/article/3633869/podcast-apple-introduces-the-a15-powered-iphone-13-plus-ios-148-patches-pegasus-spyware-flaw.html#tk.rss_all)
+- [Apple’s challenge now: innovation at scale](https://www.computerworld.com/article/3633633/apples-challenge-now-innovation-at-scale.html#tk.rss_all)
+- [A handy hidden shortcut for taking control in Chrome on Android](https://www.computerworld.com/article/3633534/chrome-android-shortcut.html#tk.rss_all)
+- [It’s been a big week for patches](https://www.computerworld.com/article/3633593/it-s-been-a-big-week-for-patches.html#tk.rss_all)
+- [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html#tk.rss_all)
 - [What the iPhone 13 and iPad mini mean for the enterprise](https://www.computerworld.com/article/3633535/what-the-iphone-13-and-ipad-mini-mean-for-the-enterprise.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple hits the alarm with multi-OS emergency update to patch zero-click flaw](https://www.computerworld.com/article/3632924/apple-hits-the-alarm-with-multi-os-emergency-update-to-patch-zero-click-flaw.html#tk.rss_all)
-- [Apple’s big reveal — the iPhone 13 — seems lucky for most](https://www.computerworld.com/article/3632922/apples-big-reveal-the-iphone-13-seems-lucky-for-most.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [3 new time-saving Assistant tricks to try on Android](https://www.computerworld.com/article/3632945/google-assistant-android-tricks.html#tk.rss_all)
-- [Zoom talks up a video-centric workplace](https://www.computerworld.com/article/3633331/zoom-talks-up-a-video-centric-workplace.html#tk.rss_all)
-- [Don’t fight the COVID-19 vaccine mandate](https://www.computerworld.com/article/3632933/don-t-fight-the-covid-19-vaccine-mandate.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

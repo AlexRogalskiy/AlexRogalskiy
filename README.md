@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
-- [Intraday stock market API and Sentiment data in JSON](https://www.styvio.com/)
-- [Microsoft to let users completely remove account passwords and go passwordless](https://therecord.media/microsoft-to-let-users-completely-remove-account-passwords-and-go-passwordless/)
-- [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
-- [Picture captures both the Northern and Southern Hemisphere at once](https://www.eso.org/public/images/potw2137a/)
-- [Useful Spy Books](https://berthub.eu/articles/posts/useful-spy-books/)
-- [Run chaos experiments on physical machines](https://chaos-mesh.org/blog/run-chaos-experiments-on-physical-machines/)
-- [Braintrust (BTRST) is now available on Coinbase](https://blog.coinbase.com/braintrust-btrst-is-now-available-on-coinbase-5c64a363c9f0)
-- [Ask HN: What does your home office look like?](https://news.ycombinator.com/item?id=28547085)
-- [SEC Gives Whistle-Blower $110M in Second-Biggest Payout](https://finance.yahoo.com/news/sec-gives-whistle-blower-110-185045727.html)
+- [The tragic tale of Mt Everest’s most famous dead body](https://www.bbc.com/future/article/20151008-the-tragic-story-of-mt-everests-most-famous-dead-body)
+- [How do you find clients with social media?](https://news.ycombinator.com/item?id=28560527)
+- [Getting started with Terratest on Azure for all your TF testing needs](https://brendanthompson.com/posts/2021/09/getting-started-with-terratest-on-azure)
+- [Evidence Found of Humans Making Clothes 120k Years Ago](https://www.smithsonianmag.com/science-nature/evidence-of-fur-and-leather-clothing-among-worlds-oldest-found-in-moroccan-cave-180978689/)
+- [One U.S. state stands out in restricting corporate use of biometrics: Illinois](https://www.reuters.com/technology/one-us-state-stands-out-restricting-corporate-use-biometrics-illinois-2021-09-16/)
+- [Curating Datasets Is the New Programming](https://mcottondesign.com/post/ahRzfm1jb3R0b25kZXNpZ24zLWhyZHIRCxIEQmxvZxiAgID0qf6MCQw)
+- [Troll farms reached 140M Americans a month on Facebook before election](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)
+- [Free REvil ransomware master decrypter released for past victims](https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/)
+- [Games and Artificial Life: Open Endedness as Common Ground? IEEE CoG2021 Keynote](https://lana-in-kyoto.com/2021/09/10/iee-conference-on-games-2021-keynote/)
+- [Ask HN: 9M in Dev Work for Salesforce E-Comm Software?](https://news.ycombinator.com/item?id=28560436)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

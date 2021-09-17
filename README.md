@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
+- [Visual Studio 2022 Preview 4 shines on developer productivity](https://www.infoworld.com/article/3633612/visual-studio-2022-preview-4-shines-on-developer-productivity.html#tk.rss_all)
+- [Python concurrency and parallelism explained](https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained.html#tk.rss_all)
+- [How coupling impacts software quality](https://www.infoworld.com/article/3632143/how-coupling-impacts-software-quality.html#tk.rss_all)
 - [DataStax offers serverless, NoSQL Astra DB across multiple regions, clouds](https://www.infoworld.com/article/3633648/datastax-offers-serverless-nosql-astra-db-across-multiple-regions-clouds.html#tk.rss_all)
 - [Eclipse’s Jakarta EE gains momentum](https://www.infoworld.com/article/3633469/eclipses-jakarta-ee-gains-momentum.html#tk.rss_all)
 - [Put business logic in the application, not the database](https://www.infoworld.com/article/3633005/put-business-logic-in-the-application-not-the-database.html#tk.rss_all)
 - [Understanding WAGI, the WebAssembly Gateway Interface](https://www.infoworld.com/article/3632865/understanding-wagi-the-webassembly-gateway-interface.html#tk.rss_all)
 - [JDK 17: The new features in Java 17](https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html#tk.rss_all)
 - [What to do when you hit the cloudops wall](https://www.infoworld.com/article/3633170/what-to-do-when-you-hit-the-cloudops-wall.html#tk.rss_all)
-- [Machine learning is moving beyond the hype](https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html#tk.rss_all)
-- [Python slithers toward top of language popularity index](https://www.infoworld.com/article/3632862/python-slithers-toward-top-of-language-popularity-index.html#tk.rss_all)
-- [What’s new in Rust 1.55](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Mendix low-code PaaS adds Industry Clouds for key business sectors](https://www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

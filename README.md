@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Samsung Pay now supports TD cards](https://www.itworldcanada.com/article/samsung-pay-now-supports-td-cards/458514)
+- [It’s time to harness AI for business impacts](https://www.itworldcanada.com/article/its-time-to-harness-ai-for-business-impacts/458526)
+- [A new world of connected and autonomous heavy equipment](https://www.itworldcanada.com/article/a-new-world-of-connected-and-autonomous-heavy-equipment/458513)
+- [Brute force attacks, unpatched software and malicious emails behind most incidents investigated by Kaspersky last year](https://www.itworldcanada.com/article/brute-force-attacks-unpatched-software-and-malicious-emails-behind-most-incidents-investigated-by-kaspersky-last-year/458344)
+- [Hashtag Trending September 16 – Longer remote work days; rural broadband needs attention; TikTok’s mental health announcement](https://www.itworldcanada.com/article/458432-2/458432)
 - [Microsoft accounts to no longer need passwords](https://www.itworldcanada.com/article/microsoft-accounts-to-no-longer-need-passwords/458442)
 - [Anything will tell you something: The truth about data analytics](https://www.itworldcanada.com/article/anything-will-tell-you-something-the-truth-about-data-analytics/458437)
 - [Google Cloud launches Toronto region](https://www.itworldcanada.com/article/google-cloud-launches-toronto-region/458427)
 - [Malicious Linux version of Cobalt Strike hacking tool found](https://www.itworldcanada.com/article/malicious-linux-version-of-cobalt-strike-hacking-tool-found/458356)
 - [Cyber Security Today, Sept. 15, 2021 –  Huge database of fitness app information found unprotected, attack on Olympus and security patches released](https://www.itworldcanada.com/article/cyber-security-today-sept-15-2021-huge-database-of-fitness-app-information-found-unprotected-attack-on-olympus-and-security-patches-released/458322)
-- [Hashtag Trending Sept. 15 – Instagram harms teens; Wozniak for space; Virtual influencer rakes in sponsorships](https://www.itworldcanada.com/article/hashtag-trending-sept-15-instagram-harms-teens-wozniak-for-space-virtual-influencer-rakes-in-sponsorships/458352)
-- [Apple iPhone 13 Pro and iPhone 13 Pro Max are here](https://www.itworldcanada.com/article/apple-iphone-13-pro-and-iphone-13-pro-max-are-here/458328)
-- [Why there must be a renewed focus on business continuity](https://www.itworldcanada.com/article/why-there-must-be-a-renewed-focus-on-business-continuity/458325)
-- [Coffee Briefing, Sept. 14, 2021 – Uber partners with Aeroplan; new Twitter features; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-14-2021-uber-aeroplan-partnership-new-twitter-features-and-more/458291)
-- [Apple patches zero-click vulnerability discovered by Canadian researchers](https://www.itworldcanada.com/article/apple-patches-zero-click-vulnerability-discovered-by-canadian-researchers/458289)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

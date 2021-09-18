@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The tragic tale of Mt Everest’s most famous dead body](https://www.bbc.com/future/article/20151008-the-tragic-story-of-mt-everests-most-famous-dead-body)
-- [How do you find clients with social media?](https://news.ycombinator.com/item?id=28560527)
-- [Getting started with Terratest on Azure for all your TF testing needs](https://brendanthompson.com/posts/2021/09/getting-started-with-terratest-on-azure)
-- [Evidence Found of Humans Making Clothes 120k Years Ago](https://www.smithsonianmag.com/science-nature/evidence-of-fur-and-leather-clothing-among-worlds-oldest-found-in-moroccan-cave-180978689/)
-- [One U.S. state stands out in restricting corporate use of biometrics: Illinois](https://www.reuters.com/technology/one-us-state-stands-out-restricting-corporate-use-biometrics-illinois-2021-09-16/)
-- [Curating Datasets Is the New Programming](https://mcottondesign.com/post/ahRzfm1jb3R0b25kZXNpZ24zLWhyZHIRCxIEQmxvZxiAgID0qf6MCQw)
-- [Troll farms reached 140M Americans a month on Facebook before election](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)
-- [Free REvil ransomware master decrypter released for past victims](https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/)
-- [Games and Artificial Life: Open Endedness as Common Ground? IEEE CoG2021 Keynote](https://lana-in-kyoto.com/2021/09/10/iee-conference-on-games-2021-keynote/)
-- [Ask HN: 9M in Dev Work for Salesforce E-Comm Software?](https://news.ycombinator.com/item?id=28560436)
+- [Dollar Warning Update from the Islands Which Started It](https://alhambrapartners.com/2021/09/17/dollar-warning-update-from-the-islands-which-started-it/)
+- [Apple store all your email metadata for years on their servers (2018)](https://infosecwriteups.com/how-apple-stored-all-your-email-metadata-for-years-on-their-servers-2a61b1a3232d)
+- [There won’t be a Goddamn creator economy if we don’t invest directly in creators](https://pizzaparty.substack.com/p/there-wont-be-a-goddamn-creator-economy)
+- [AI Takeovers in Popular Culture](https://en.wikipedia.org/wiki/AI_takeovers_in_popular_culture)
+- [Human rights advocates decry Apple, Google decision to pull Navalny app](https://www.washingtonpost.com/business/2021/09/17/navalny-google-apple-app-russia/)
+- [Basic Computer Games](https://www.atariarchives.org/basicgames/)
+- [Sinking of the Rainbow Warrior (1985)](https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior)
+- [How to Perform an Evil Twin Attack with Airgeddon](https://livelinuxusb.com/how-to-perform-an-evil-twin-attack-with-airgeddon/)
+- [The Bagel Language](https://www.brandons.me/blog/the-bagel-language)
+- [“To what extent is defense spending about enabling upward redistr. of wealth?”](https://twitter.com/dwdavison/status/1438959754005598217)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

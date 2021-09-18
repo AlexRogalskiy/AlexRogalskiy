@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Sept. 17, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-17-2021/458548)
+- [Azure Linux admins urged to patch four zero-day OMI vulnerabilities](https://www.itworldcanada.com/article/azure-linux-admins-urged-to-patch-four-zero-day-omi-vulnerabilities/458555)
+- [Cyber Security Today, Sept. 17, 2021 –  Microsoft extends passwordless access, a warning to software developers and how an attack started with a compromised website.](https://www.itworldcanada.com/article/cyber-security-today-sept-17-2021-microsoft-extends-passwordless-access-a-warning-to-software-developers-and-how-an-attack-started-with-a-compromised-website/458414)
+- [Hashtag Trending Sept. 17 – Instagram for Kids criticism; El Salvador bitcoin protests; Uber Canada’s election discount](https://www.itworldcanada.com/article/hashtag-trending-september-17-instagram-for-kids-criticism-el-salvador-bitcoin-protests-uber-canadas-election-discount/458543)
 - [Samsung Pay now supports TD cards](https://www.itworldcanada.com/article/samsung-pay-now-supports-td-cards/458514)
 - [It’s time to harness AI for business impacts](https://www.itworldcanada.com/article/its-time-to-harness-ai-for-business-impacts/458526)
 - [A new world of connected and autonomous heavy equipment](https://www.itworldcanada.com/article/a-new-world-of-connected-and-autonomous-heavy-equipment/458513)
 - [Brute force attacks, unpatched software and malicious emails behind most incidents investigated by Kaspersky last year](https://www.itworldcanada.com/article/brute-force-attacks-unpatched-software-and-malicious-emails-behind-most-incidents-investigated-by-kaspersky-last-year/458344)
 - [Hashtag Trending September 16 – Longer remote work days; rural broadband needs attention; TikTok’s mental health announcement](https://www.itworldcanada.com/article/458432-2/458432)
 - [Microsoft accounts to no longer need passwords](https://www.itworldcanada.com/article/microsoft-accounts-to-no-longer-need-passwords/458442)
-- [Anything will tell you something: The truth about data analytics](https://www.itworldcanada.com/article/anything-will-tell-you-something-the-truth-about-data-analytics/458437)
-- [Google Cloud launches Toronto region](https://www.itworldcanada.com/article/google-cloud-launches-toronto-region/458427)
-- [Malicious Linux version of Cobalt Strike hacking tool found](https://www.itworldcanada.com/article/malicious-linux-version-of-cobalt-strike-hacking-tool-found/458356)
-- [Cyber Security Today, Sept. 15, 2021 –  Huge database of fitness app information found unprotected, attack on Olympus and security patches released](https://www.itworldcanada.com/article/cyber-security-today-sept-15-2021-huge-database-of-fitness-app-information-found-unprotected-attack-on-olympus-and-security-patches-released/458322)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

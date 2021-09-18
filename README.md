@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Legacy apps are at risk with the September Patch Tuesday update](https://www.computerworld.com/article/3633597/legacy-apps-are-at-risk-with-the-september-patch-tuesday-update.html#tk.rss_all)
+- [Should the brilliant new iPad mini go Pro?](https://www.computerworld.com/article/3633670/should-the-brilliant-new-ipad-mini-go-pro.html#tk.rss_all)
+- [Great R packages for data import, wrangling, and visualization](https://www.computerworld.com/article/2921176/great-r-packages-for-data-import-wrangling-visualization.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [Best-loved productivity tools of the rich and famous](https://www.computerworld.com/article/3633609/best-loved-productivity-tools-of-the-rich-and-famous.html#tk.rss_all)
+- [The problem with the Poly Studio E70 and X70](https://www.computerworld.com/article/3633650/the-problem-with-the-poly-studio-e70-and-x70.html#tk.rss_all)
+- [The rise of tablets: Why we don't need laptops or phones anymore](https://www.computerworld.com/article/3633872/the-rise-of-tablets-why-we-dont-need-laptops-or-phones-anymore.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Podcast: Apple introduces the A15-powered iPhone 13, plus iOS 14.8 patches Pegasus spyware flaw](https://www.computerworld.com/article/3633869/podcast-apple-introduces-the-a15-powered-iphone-13-plus-ios-148-patches-pegasus-spyware-flaw.html#tk.rss_all)
 - [Apple’s challenge now: innovation at scale](https://www.computerworld.com/article/3633633/apples-challenge-now-innovation-at-scale.html#tk.rss_all)
-- [A handy hidden shortcut for taking control in Chrome on Android](https://www.computerworld.com/article/3633534/chrome-android-shortcut.html#tk.rss_all)
-- [It’s been a big week for patches](https://www.computerworld.com/article/3633593/it-s-been-a-big-week-for-patches.html#tk.rss_all)
-- [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html#tk.rss_all)
-- [What the iPhone 13 and iPad mini mean for the enterprise](https://www.computerworld.com/article/3633535/what-the-iphone-13-and-ipad-mini-mean-for-the-enterprise.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple hits the alarm with multi-OS emergency update to patch zero-click flaw](https://www.computerworld.com/article/3632924/apple-hits-the-alarm-with-multi-os-emergency-update-to-patch-zero-click-flaw.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

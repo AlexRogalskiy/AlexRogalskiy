@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Minister for data John Whittingdale ousted in Cabinet reshuffle](https://www.computerweekly.com/news/252506789/Minister-for-data-John-Whittingdale-ousted-in-Cabinet-reshuffle)
+- [British home computing inventor Sir Clive Sinclair dies](https://www.computerweekly.com/news/252506837/British-home-computing-inventor-Sir-Clive-Sinclair-dies)
+- [JP Morgan launch of UK digital bank expected next week](https://www.computerweekly.com/news/252506836/JP-Morgan-launch-of-UK-digital-bank-expected-next-week)
+- [Is the tech sector facing an IT skills exodus?](https://www.computerweekly.com/feature/Is-the-tech-sector-facing-an-IT-skills-exodus)
+- [Whittingdale and Warman ousting completes reshuffle of every digital, data and tech minister](https://www.computerweekly.com/news/252506789/Minister-for-data-John-Whittingdale-ousted-in-Cabinet-reshuffle)
 - [Dutch education administrators underestimate threat of cyber crime](https://www.computerweekly.com/news/252506778/Dutch-education-administrators-underestimate-threat-of-cyber-crime)
 - [Bitdefender launches free REvil ransomware decryptor](https://www.computerweekly.com/news/252506780/BitDefender-launches-free-REvil-ransomware-decryptor)
 - [Inside nib’s digital transformation journey](https://www.computerweekly.com/video/Inside-nibs-digital-transformation-journey)
 - [European president outlines tech vision to drive Europe](https://www.computerweekly.com/news/252506774/European-president-outlines-tech-vision-to-drive-Europe)
 - [Travel-themed phishing lures spiked this summer](https://www.computerweekly.com/news/252506772/Travel-themed-phishing-lures-spiked-this-summer)
 - [Network Rail U-turns on blanket inside IR35 contractor determinations](https://www.computerweekly.com/news/252506768/IR35-reforms-Network-Rail-u-turns-on-contractor-blanket-ban-strategy)
-- [UN human rights chief calls for moratorium on AI technologies](https://www.computerweekly.com/news/252506734/UN-human-rights-chief-calls-for-moratorium-on-AI-technologies)
-- [Interview: Chancellor of the Exchequer Rishi Sunak on supporting the UK tech sector](https://www.computerweekly.com/news/252506730/Interview-Chancellor-of-the-Exchequer-Rishi-Sunak-on-supporting-the-UK-tech-sector)
-- [Tech Nation announces second cohort for Net Zero accelerator](https://www.computerweekly.com/news/252506723/Tech-Nation-announces-cohort-for-second-Net-Zero-accelerator)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

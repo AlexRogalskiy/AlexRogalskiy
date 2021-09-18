@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea fired ballistic missiles from train amid rising tensions with the South](https://www.theguardian.com/world/2021/sep/17/north-korea-fired-ballistic-missiles-from-train-amid-rising-tensions-with-the-south)
-- [The murder of Fikile: the woman who took on a coal mine](https://www.theguardian.com/news/audio/2021/sep/17/the-of-fikile-the-woman-who-took-on-a-coal-mine)
-- [Message in a bottle from Japan washes up on Hawaii beach after 37 years](https://www.theguardian.com/world/2021/sep/17/message-in-a-bottle-from-japan-washes-up-on-hawaii-beach-after-37-years)
-- [Prince Philip’s will to remain secret for 90 years, high court rules](https://www.theguardian.com/uk-news/2021/sep/17/prince-philip-duke-edinburgh-will-secret-90-years-queen-dignity)
-- [Watchdog finds ‘staggering variation’ in police use of Clare’s Law](https://www.theguardian.com/society/2021/sep/17/watchdog-finds-staggering-variation-in-police-use-of-clares-law)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/sep/17/premier-league-10-things-to-look-out-for-this-weekend)
-- [GSK teams with King’s College to use AI to fight cancer](https://www.theguardian.com/business/2021/sep/17/gsk-teams-with-kings-college-to-use-ai-to-fight-cancer)
-- [One in three Britons drink plant-based milk as demand soars](https://www.theguardian.com/business/2021/sep/17/britons-drink-plant-based-milk-demand)
-- [Prince Andrew can request unsealing of 2009 Epstein settlement, judge says](https://www.theguardian.com/uk-news/2021/sep/16/prince-andrew-lawsuit-unseal-settlement)
-- [Lyra McKee: two men charged with murder of Northern Irish journalist](https://www.theguardian.com/uk-news/2021/sep/16/lyra-mckee-two-men-charged-with-of-northern-irish-journalist)
+- [‘Living in terror’: Afghans left behind by New Zealand struggling to survive](https://www.theguardian.com/world/2021/sep/18/living-in-terror-afghans-left-behind-by-new-zealand-struggling-to-survive)
+- [Australia to oppose China’s bid to join trade pact until it halts strikes against exports](https://www.theguardian.com/australia-news/2021/sep/18/australia-to-oppose-chinas-bid-to-join-trade-pact-until-it-halts-strikes-against-exports)
+- [Case of BSE found on farm in Somerset but ‘no risk to food safety’](https://www.theguardian.com/uk-news/2021/sep/18/case-of-bse-found-on-farm-in-somerset-but-no-risk-to-food-safety)
+- [Real estate heir Robert Durst found guilty of murdering his friend Susan Berman](https://www.theguardian.com/us-news/2021/sep/17/robert-durst-found-guilty-of-first-degree-in-susan-berman-trial)
+- [Camp Siegfried review – love and terror on Long Island](https://www.theguardian.com/stage/2021/sep/18/camp-siegfried-review-old-vic-london-bess-wohl-katy-rudd)
+- [‘Naomi for president!’: London fashion week comes back to life](https://www.theguardian.com/fashion/2021/sep/17/naomi-for-president-london-fashion-week-comes-back-to-life)
+- [‘China’s Lehman Brothers moment’: Evergrande crisis rattles economy](https://www.theguardian.com/world/2021/sep/17/chinas-lehman-brothers-moment-evergrande-crisis-rattles-economy)
+- [Pelé recovering having re-entered intensive care unit in São Paulo](https://www.theguardian.com/football/2021/sep/17/pele-re-enters-intensive-care-unit-in-sao-paulo-three-days-after-leaving)
+- [Digested week: start with a Monday from hell and go from there](https://www.theguardian.com/uk-news/2021/sep/17/digested-week-start-with-a-monday-from-hell-and-go-from-there)
+- [Derby County face 12-point deduction after applying to enter administration](https://www.theguardian.com/football/2021/sep/17/derby-county-make-tough-decision-to-apply-to-enter-administration)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

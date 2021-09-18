@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Career](https://www.reddit.com/r/InformationTechnology/comments/pq8nke/it_career/)
+- [Looking for Professional Advice on IT?](https://www.reddit.com/r/InformationTechnology/comments/pq602h/looking_for_professional_advice_on_it/)
 - [Is there a difference between IT and Cyber Security? If so, what?](https://www.reddit.com/r/InformationTechnology/comments/ppjbtb/is_there_a_difference_between_it_and_cyber/)
 - [Questions about starting a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ppcho8/questions_about_starting_a_career_in_it/)
 - [Official Guinness World Record attempt](https://www.reddit.com/r/InformationTechnology/comments/posuc3/official_guinness_world_record_attempt/)
@@ -414,8 +416,6 @@
 - [How do you determine the ACK receive time for a TCP packet?](https://www.reddit.com/r/InformationTechnology/comments/pmk89e/how_do_you_determine_the_ack_receive_time_for_a/)
 - [is a CS degree from SNHU online worth it?](https://www.reddit.com/r/InformationTechnology/comments/pmdjei/is_a_cs_degree_from_snhu_online_worth_it/)
 - [Email server doesn't work on some networks](https://www.reddit.com/r/InformationTechnology/comments/plyv1o/email_server_doesnt_work_on_some_networks/)
-- [I feel like the mistake of no internships is really costing me](https://www.reddit.com/r/InformationTechnology/comments/plttmp/i_feel_like_the_mistake_of_no_internships_is/)
-- [How should I take notes for IT?](https://www.reddit.com/r/InformationTechnology/comments/plpcka/how_should_i_take_notes_for_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

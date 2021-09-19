@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Living in terror’: Afghans left behind by New Zealand struggling to survive](https://www.theguardian.com/world/2021/sep/18/living-in-terror-afghans-left-behind-by-new-zealand-struggling-to-survive)
-- [Australia to oppose China’s bid to join trade pact until it halts strikes against exports](https://www.theguardian.com/australia-news/2021/sep/18/australia-to-oppose-chinas-bid-to-join-trade-pact-until-it-halts-strikes-against-exports)
-- [Case of BSE found on farm in Somerset but ‘no risk to food safety’](https://www.theguardian.com/uk-news/2021/sep/18/case-of-bse-found-on-farm-in-somerset-but-no-risk-to-food-safety)
-- [Real estate heir Robert Durst found guilty of murdering his friend Susan Berman](https://www.theguardian.com/us-news/2021/sep/17/robert-durst-found-guilty-of-first-degree-in-susan-berman-trial)
-- [Camp Siegfried review – love and terror on Long Island](https://www.theguardian.com/stage/2021/sep/18/camp-siegfried-review-old-vic-london-bess-wohl-katy-rudd)
-- [‘Naomi for president!’: London fashion week comes back to life](https://www.theguardian.com/fashion/2021/sep/17/naomi-for-president-london-fashion-week-comes-back-to-life)
-- [‘China’s Lehman Brothers moment’: Evergrande crisis rattles economy](https://www.theguardian.com/world/2021/sep/17/chinas-lehman-brothers-moment-evergrande-crisis-rattles-economy)
-- [Pelé recovering having re-entered intensive care unit in São Paulo](https://www.theguardian.com/football/2021/sep/17/pele-re-enters-intensive-care-unit-in-sao-paulo-three-days-after-leaving)
-- [Digested week: start with a Monday from hell and go from there](https://www.theguardian.com/uk-news/2021/sep/17/digested-week-start-with-a-monday-from-hell-and-go-from-there)
-- [Derby County face 12-point deduction after applying to enter administration](https://www.theguardian.com/football/2021/sep/17/derby-county-make-tough-decision-to-apply-to-enter-administration)
+- [North Korea expanding weapons-grade uranium plant, satellite images suggest](https://www.theguardian.com/world/2021/sep/19/north-korea-expanding-weapons-grade-uranium-plant-satellite-images-suggest)
+- [California wildfires reach edge of sequoia grove containing world’s largest tree](https://www.theguardian.com/us-news/2021/sep/18/california-wildfires-giant-ancient-sequoias-fire-conditions)
+- [‘Heck of a ride’: SpaceX’s historic amateur astronauts splash down safely in Atlantic](https://www.theguardian.com/science/2021/sep/19/heck-of-a-ride-spacexs-historic-amateur-astronauts-land-safely-in-atlantic)
+- [Legends of the fall: is autumn all it’s cracked up to be?](https://www.theguardian.com/global/2021/sep/19/legends-of-the-fall-is-autumn-all-its-cracked-up-to-be)
+- [MPC’s rates dilemma: protect the recovery or tackle inflation?](https://www.theguardian.com/business/2021/sep/19/mpcs-rates-dilemma-protect-the-recovery-or-tackle-inflation)
+- [Baptism of fire as Liz Truss heads to US amid submarine row](https://www.theguardian.com/world/2021/sep/19/baptism-of-fire-as-liz-truss-heads-to-us-amid-submarine-row)
+- [Covid and Afghanistan ‘reveal weakness of UK’s security policy’](https://www.theguardian.com/uk-news/2021/sep/19/covid-and-afghanistan-reveal-weakness-of-uks-security-policy)
+- [Amir Khan says he was escorted from US flight ‘for no reason’](https://www.theguardian.com/uk-news/2021/sep/18/amir-khan-says-he-was-escorted-from-us-flight-for-no-reason)
+- [Aukus pact could allow New Zealand to deepen relations with Europe and Pacific | Pete McKenzie](https://www.theguardian.com/world/commentisfree/2021/sep/19/aukus-pact-could-push-new-zealand-to-deepen-relations-with-europe-and-pacific)
+- [Sergio Reguilón: ‘We have to build something … something big’](https://www.theguardian.com/football/2021/sep/18/sergio-reguilon-we-have-to-build-something-something-big)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

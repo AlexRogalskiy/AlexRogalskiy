@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Secure remote sign on](https://www.reddit.com/r/InformationTechnology/comments/pqytr2/secure_remote_sign_on/)
+- [People who are web developers, is it necessary to have a degree?](https://www.reddit.com/r/InformationTechnology/comments/pqrf1y/people_who_are_web_developers_is_it_necessary_to/)
+- [Traveling while working. Need to hide location. Is this vpn method legit?](https://www.reddit.com/r/InformationTechnology/comments/pqnxvy/traveling_while_working_need_to_hide_location_is/)
+- [What is better in IT to get a job, Certificates vs Degree](https://www.reddit.com/r/InformationTechnology/comments/pqmglk/what_is_better_in_it_to_get_a_job_certificates_vs/)
+- [Quick question](https://www.reddit.com/r/InformationTechnology/comments/pqlibx/quick_question/)
 - [IT Career](https://www.reddit.com/r/InformationTechnology/comments/pq8nke/it_career/)
 - [Looking for Professional Advice on IT?](https://www.reddit.com/r/InformationTechnology/comments/pq602h/looking_for_professional_advice_on_it/)
 - [Is there a difference between IT and Cyber Security? If so, what?](https://www.reddit.com/r/InformationTechnology/comments/ppjbtb/is_there_a_difference_between_it_and_cyber/)
 - [Questions about starting a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ppcho8/questions_about_starting_a_career_in_it/)
 - [Official Guinness World Record attempt](https://www.reddit.com/r/InformationTechnology/comments/posuc3/official_guinness_world_record_attempt/)
-- [Would MyComputerCareer be a good school to admit to if one wants to obtain a $40K and up type of job without the hassle of spending 4 years at a University?](https://www.reddit.com/r/InformationTechnology/comments/pnrqyp/would_mycomputercareer_be_a_good_school_to_admit/)
-- [Knows unknowns and unknown unknowns (Rumsfeld), IT mindmap](https://www.reddit.com/r/InformationTechnology/comments/pnhjja/knows_unknowns_and_unknown_unknowns_rumsfeld_it/)
-- [How do you determine the ACK receive time for a TCP packet?](https://www.reddit.com/r/InformationTechnology/comments/pmk89e/how_do_you_determine_the_ack_receive_time_for_a/)
-- [is a CS degree from SNHU online worth it?](https://www.reddit.com/r/InformationTechnology/comments/pmdjei/is_a_cs_degree_from_snhu_online_worth_it/)
-- [Email server doesn't work on some networks](https://www.reddit.com/r/InformationTechnology/comments/plyv1o/email_server_doesnt_work_on_some_networks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

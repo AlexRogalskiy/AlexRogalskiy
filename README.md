@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dollar Warning Update from the Islands Which Started It](https://alhambrapartners.com/2021/09/17/dollar-warning-update-from-the-islands-which-started-it/)
-- [Apple store all your email metadata for years on their servers (2018)](https://infosecwriteups.com/how-apple-stored-all-your-email-metadata-for-years-on-their-servers-2a61b1a3232d)
-- [There won’t be a Goddamn creator economy if we don’t invest directly in creators](https://pizzaparty.substack.com/p/there-wont-be-a-goddamn-creator-economy)
-- [AI Takeovers in Popular Culture](https://en.wikipedia.org/wiki/AI_takeovers_in_popular_culture)
-- [Human rights advocates decry Apple, Google decision to pull Navalny app](https://www.washingtonpost.com/business/2021/09/17/navalny-google-apple-app-russia/)
-- [Basic Computer Games](https://www.atariarchives.org/basicgames/)
-- [Sinking of the Rainbow Warrior (1985)](https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior)
-- [How to Perform an Evil Twin Attack with Airgeddon](https://livelinuxusb.com/how-to-perform-an-evil-twin-attack-with-airgeddon/)
-- [The Bagel Language](https://www.brandons.me/blog/the-bagel-language)
-- [“To what extent is defense spending about enabling upward redistr. of wealth?”](https://twitter.com/dwdavison/status/1438959754005598217)
+- [New iPhone 13 Will Require Vaccination to Unlock Screen](https://babylonbee.com/news/new-iphone-will-require-vaccination-to-unlock-screen)
+- [Ghost Peppers have a calming effect on the Nerves (2015)](https://www.futurity.org/chili-peppers-capsaicin-pain-903562/)
+- [Structural Project Using: AutoCAD, Etabs, Safe, S-Concrete and Excel Softwares](https://monacivilengineering.blogspot.com/2021/09/structural-project-using-autocad-etabs.html)
+- [Single Family Zoning is now banned in California](https://www.timesheraldonline.com/2021/09/17/gov-newsom-abolishes-single-family-zoning-in-california-2/)
+- [Want to save the earth then don’t buy that shiny new iPhone](https://www.theguardian.com/commentisfree/2021/sep/18/want-to-save-the-earth-then-dont-buy-that-shiny-new-iphone)
+- [A path to scape a Git Mess](http://justinhileman.info/article/git-pretty/git-pretty.png)
+- [The business of making native apps for mobile devices is dying (2008)](http://mobileopportunity.blogspot.com/2008/02/mobile-applications-rip.html)
+- [.NET MAUI Delayed Until Q2 of 2022](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
+- [mRNA cancer therapy enters human trials after success in mice](https://www.futuretimeline.net/blog/2021/09/13-mrna-future-cancer.htm)
+- [Show HN: A workflowy-inspired react component library](https://github.com/davidmnoll/chkflow)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
-- [Tim Cook Faces Surprising Employee Unrest at Apple](https://www.nytimes.com/2021/09/17/technology/apple-employee-unrest.html)
-- [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
-- [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
-- [A Review of “Kill It with Fire: Manage Aging Computer Systems”](https://www.usenix.org/publications/loginonline/kill-it-fire)
-- [Subscribe to RSS Feeds over Email](https://rssby.email/)
-- [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
-- [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
-- [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
-- [Transforming OpenStreetMap into thick roads and intersections](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+- [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
+- [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
+- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
+- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+- [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+- [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
+- [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
+- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

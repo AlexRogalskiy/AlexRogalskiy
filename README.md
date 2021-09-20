@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Configure wireless access point to office network](https://www.reddit.com/r/InformationTechnology/comments/prf4jy/configure_wireless_access_point_to_office_network/)
+- [What is the best Microsoft certificate to get that IT jobs love to see?](https://www.reddit.com/r/InformationTechnology/comments/prehfx/what_is_the_best_microsoft_certificate_to_get/)
+- [Looking for a preferably remote IT job.](https://www.reddit.com/r/InformationTechnology/comments/prcbsk/looking_for_a_preferably_remote_it_job/)
+- [How many binary digits represent a hexadecimal digit?](https://www.reddit.com/r/InformationTechnology/comments/pr3tax/how_many_binary_digits_represent_a_hexadecimal/)
+- [In your PC you can turn on god mode with following just some steps. step one: In your desktop press right click and create a new folder. Step two: Rename the folder with this code: GodMode{ED7BA470-8E54-465E-825C-99712043E01C}](https://www.reddit.com/r/InformationTechnology/comments/pr2b5g/in_your_pc_you_can_turn_on_god_mode_with/)
 - [Secure remote sign on](https://www.reddit.com/r/InformationTechnology/comments/pqytr2/secure_remote_sign_on/)
 - [People who are web developers, is it necessary to have a degree?](https://www.reddit.com/r/InformationTechnology/comments/pqrf1y/people_who_are_web_developers_is_it_necessary_to/)
 - [Traveling while working. Need to hide location. Is this vpn method legit?](https://www.reddit.com/r/InformationTechnology/comments/pqnxvy/traveling_while_working_need_to_hide_location_is/)
 - [What is better in IT to get a job, Certificates vs Degree](https://www.reddit.com/r/InformationTechnology/comments/pqmglk/what_is_better_in_it_to_get_a_job_certificates_vs/)
 - [Quick question](https://www.reddit.com/r/InformationTechnology/comments/pqlibx/quick_question/)
-- [IT Career](https://www.reddit.com/r/InformationTechnology/comments/pq8nke/it_career/)
-- [Looking for Professional Advice on IT?](https://www.reddit.com/r/InformationTechnology/comments/pq602h/looking_for_professional_advice_on_it/)
-- [Is there a difference between IT and Cyber Security? If so, what?](https://www.reddit.com/r/InformationTechnology/comments/ppjbtb/is_there_a_difference_between_it_and_cyber/)
-- [Questions about starting a career in IT](https://www.reddit.com/r/InformationTechnology/comments/ppcho8/questions_about_starting_a_career_in_it/)
-- [Official Guinness World Record attempt](https://www.reddit.com/r/InformationTechnology/comments/posuc3/official_guinness_world_record_attempt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

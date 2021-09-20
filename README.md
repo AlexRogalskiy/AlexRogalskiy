@@ -391,6 +391,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK tech sector on track for another record year of investment](https://www.computerweekly.com/news/252506853/UK-tech-sector-on-track-for-another-record-year-of-investment)
 - [British home computing inventor Sir Clive Sinclair dies](https://www.computerweekly.com/news/252506837/British-home-computing-inventor-Sir-Clive-Sinclair-dies)
 - [JP Morgan launch of UK digital bank expected next week](https://www.computerweekly.com/news/252506836/JP-Morgan-launch-of-UK-digital-bank-expected-next-week)
 - [Is the tech sector facing an IT skills exodus?](https://www.computerweekly.com/feature/Is-the-tech-sector-facing-an-IT-skills-exodus)
@@ -400,7 +401,6 @@
 - [Inside nib’s digital transformation journey](https://www.computerweekly.com/video/Inside-nibs-digital-transformation-journey)
 - [European president outlines tech vision to drive Europe](https://www.computerweekly.com/news/252506774/European-president-outlines-tech-vision-to-drive-Europe)
 - [Travel-themed phishing lures spiked this summer](https://www.computerweekly.com/news/252506772/Travel-themed-phishing-lures-spiked-this-summer)
-- [Network Rail U-turns on blanket inside IR35 contractor determinations](https://www.computerweekly.com/news/252506768/IR35-reforms-Network-Rail-u-turns-on-contractor-blanket-ban-strategy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
-- [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
-- [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
-- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
-- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
-- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
-- [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
-- [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
-- [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
-- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
+- [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
+- [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
+- [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
+- [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
+- [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
+- [Show HN: I built four eight-foot-long handwriting robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
+- [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
+- [What is property-based testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/)
+- [Spy tech that followed kids home for remote learning](https://www.the74million.org/article/gaggle-spy-tech-minneapolis-students-remote-learning/)
+- [Games that emphasize emergent narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

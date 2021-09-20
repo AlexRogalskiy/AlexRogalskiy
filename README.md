@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea expanding weapons-grade uranium plant, satellite images suggest](https://www.theguardian.com/world/2021/sep/19/north-korea-expanding-weapons-grade-uranium-plant-satellite-images-suggest)
-- [California wildfires reach edge of sequoia grove containing world’s largest tree](https://www.theguardian.com/us-news/2021/sep/18/california-wildfires-giant-ancient-sequoias-fire-conditions)
-- [‘Heck of a ride’: SpaceX’s historic amateur astronauts splash down safely in Atlantic](https://www.theguardian.com/science/2021/sep/19/heck-of-a-ride-spacexs-historic-amateur-astronauts-land-safely-in-atlantic)
-- [Legends of the fall: is autumn all it’s cracked up to be?](https://www.theguardian.com/global/2021/sep/19/legends-of-the-fall-is-autumn-all-its-cracked-up-to-be)
-- [MPC’s rates dilemma: protect the recovery or tackle inflation?](https://www.theguardian.com/business/2021/sep/19/mpcs-rates-dilemma-protect-the-recovery-or-tackle-inflation)
-- [Baptism of fire as Liz Truss heads to US amid submarine row](https://www.theguardian.com/world/2021/sep/19/baptism-of-fire-as-liz-truss-heads-to-us-amid-submarine-row)
-- [Covid and Afghanistan ‘reveal weakness of UK’s security policy’](https://www.theguardian.com/uk-news/2021/sep/19/covid-and-afghanistan-reveal-weakness-of-uks-security-policy)
-- [Amir Khan says he was escorted from US flight ‘for no reason’](https://www.theguardian.com/uk-news/2021/sep/18/amir-khan-says-he-was-escorted-from-us-flight-for-no-reason)
-- [Aukus pact could allow New Zealand to deepen relations with Europe and Pacific | Pete McKenzie](https://www.theguardian.com/world/commentisfree/2021/sep/19/aukus-pact-could-push-new-zealand-to-deepen-relations-with-europe-and-pacific)
-- [Sergio Reguilón: ‘We have to build something … something big’](https://www.theguardian.com/football/2021/sep/18/sergio-reguilon-we-have-to-build-something-something-big)
+- [Emmys 2021: the winners, the losers, the speeches – live!](https://www.theguardian.com/tv-and-radio/live/2021/sep/19/emmys-2021-winners-losers-speeches-latest)
+- [Finally! Get ready for a new season of culture](https://www.theguardian.com/news/audio/2021/sep/20/finally-get-ready-for-a-new-season-of-culture)
+- [‘We felt fooled’: France still furious after Australia scraps $90bn submarine deal](https://www.theguardian.com/world/2021/sep/20/we-felt-fooled-france-still-furious-after-australia-scraps-90bn-submarine-deal)
+- [Spanish Canary Island volcano erupts, sending lava streaming towards villages](https://www.theguardian.com/world/2021/sep/19/spanish-canary-island-volcano-erupts-after-weeks-of-earthquakes)
+- [Pro-Putin party wins majority in Russian elections despite declining support](https://www.theguardian.com/world/2021/sep/20/pro-putin-party-wins-majority-in-russian-elections-despite-declining-support)
+- [Bees kill 63 endangered penguins in South Africa](https://www.theguardian.com/world/2021/sep/20/bees-kill-63-endangered-penguins-in-south-africa)
+- [Welsh government launches smacking ban ad campaign before law change](https://www.theguardian.com/uk-news/2021/sep/20/welsh-government-launches-smacking-ban-ad-campaign-before-law-change)
+- [Rebellion and redemption: how the Slits gave a voice to female prisoners](https://www.theguardian.com/stage/2021/sep/20/rebellion-and-redemption-how-the-slits-gave-a-voice-to-female-prisoners)
+- [Sung Im Her: W.A.Y review – what a trip!](https://www.theguardian.com/stage/2021/sep/20/sung-im-her-way-review-place-london-korean-dance-festival)
+- [Most NHS staff vote to oppose 3% pay rise as union warns workers ‘fed up’](https://www.theguardian.com/society/2021/sep/20/most-nhs-staff-vote-to-oppose-3-pay-rise-as-union-warns-workers-fed-up)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

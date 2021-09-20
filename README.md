@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New iPhone 13 Will Require Vaccination to Unlock Screen](https://babylonbee.com/news/new-iphone-will-require-vaccination-to-unlock-screen)
-- [Ghost Peppers have a calming effect on the Nerves (2015)](https://www.futurity.org/chili-peppers-capsaicin-pain-903562/)
-- [Structural Project Using: AutoCAD, Etabs, Safe, S-Concrete and Excel Softwares](https://monacivilengineering.blogspot.com/2021/09/structural-project-using-autocad-etabs.html)
-- [Single Family Zoning is now banned in California](https://www.timesheraldonline.com/2021/09/17/gov-newsom-abolishes-single-family-zoning-in-california-2/)
-- [Want to save the earth then don’t buy that shiny new iPhone](https://www.theguardian.com/commentisfree/2021/sep/18/want-to-save-the-earth-then-dont-buy-that-shiny-new-iphone)
-- [A path to scape a Git Mess](http://justinhileman.info/article/git-pretty/git-pretty.png)
-- [The business of making native apps for mobile devices is dying (2008)](http://mobileopportunity.blogspot.com/2008/02/mobile-applications-rip.html)
-- [.NET MAUI Delayed Until Q2 of 2022](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
-- [mRNA cancer therapy enters human trials after success in mice](https://www.futuretimeline.net/blog/2021/09/13-mrna-future-cancer.htm)
-- [Show HN: A workflowy-inspired react component library](https://github.com/davidmnoll/chkflow)
+- [Ask HN: What things are the human mind bad at?](https://news.ycombinator.com/item?id=28589824)
+- [Better Box Fan Air Purifier (2013)](https://tombuildsstuff.blogspot.com/2013/06/better-box-fan-air-purifier.html)
+- [When I Was an Influencer](https://haleynahman.substack.com/p/70-when-i-was-an-influencer)
+- [Judge moves to evict Long Island man who hasn’t paid mortgage in 23 years](https://nypost.com/2021/09/18/judge-moves-to-evict-li-man-who-hasnt-paid-mortgage-in-23-years)
+- [Anak Krakatoa](https://en.wikipedia.org/wiki/Anak_Krakatoa)
+- [Google is getting caught in the antitrust net](https://arstechnica.com/tech-policy/2021/09/google-is-getting-caught-in-the-antitrust-net/)
+- [Was Moore’s Law Inevitable?](https://kk.org/thetechnium/was-moores-law/)
+- [Talking to the Competition and Markets Authority about Apple](https://www.kryogenix.org/days/2021/09/06/talking-to-the-competition-and-markets-authority-about-apple/)
+- [By taking on poliovirus, Marguerite Vogt transformed the study of all viruses](https://www.sciencenews.org/article/marguerite-vogt-polio-virus-lab-research-virology)
+- [Global warming equations in the Paris metro (2015)](https://mathematicswithoutapologies.wordpress.com/2016/01/14/global-warming-equations-in-the-paris-metro/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

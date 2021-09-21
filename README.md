@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
+- [GitLab’s S-1 points to an integrated devops future](https://www.infoworld.com/article/3633931/gitlab-s-s-1-points-to-an-integrated-devops-future.html#tk.rss_all)
+- [Will Google Cloud ever win over enterprises?](https://www.infoworld.com/article/3633195/will-google-cloud-ever-win-over-enterprises.html#tk.rss_all)
+- [Why embed analytics and data visualizations in apps](https://www.infoworld.com/article/3632919/why-embed-analytics-and-data-visualizations-in-apps.html#tk.rss_all)
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_all)
 - [The lack of cloud skills is hindering cloud progress](https://www.infoworld.com/article/3633636/the-lack-of-cloud-skills-is-hindering-cloud-progress.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Visual Studio 2022 Preview 4 shines on developer productivity](https://www.infoworld.com/article/3633612/visual-studio-2022-preview-4-shines-on-developer-productivity.html#tk.rss_all)
 - [Python concurrency and parallelism explained](https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained.html#tk.rss_all)
 - [How coupling impacts software quality](https://www.infoworld.com/article/3632143/how-coupling-impacts-software-quality.html#tk.rss_all)
-- [DataStax offers serverless, NoSQL Astra DB across multiple regions, clouds](https://www.infoworld.com/article/3633648/datastax-offers-serverless-nosql-astra-db-across-multiple-regions-clouds.html#tk.rss_all)
-- [Eclipse’s Jakarta EE gains momentum](https://www.infoworld.com/article/3633469/eclipses-jakarta-ee-gains-momentum.html#tk.rss_all)
-- [Put business logic in the application, not the database](https://www.infoworld.com/article/3633005/put-business-logic-in-the-application-not-the-database.html#tk.rss_all)
-- [Understanding WAGI, the WebAssembly Gateway Interface](https://www.infoworld.com/article/3632865/understanding-wagi-the-webassembly-gateway-interface.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emmys 2021: the winners, the losers, the speeches – live!](https://www.theguardian.com/tv-and-radio/live/2021/sep/19/emmys-2021-winners-losers-speeches-latest)
-- [Finally! Get ready for a new season of culture](https://www.theguardian.com/news/audio/2021/sep/20/finally-get-ready-for-a-new-season-of-culture)
-- [‘We felt fooled’: France still furious after Australia scraps $90bn submarine deal](https://www.theguardian.com/world/2021/sep/20/we-felt-fooled-france-still-furious-after-australia-scraps-90bn-submarine-deal)
-- [Spanish Canary Island volcano erupts, sending lava streaming towards villages](https://www.theguardian.com/world/2021/sep/19/spanish-canary-island-volcano-erupts-after-weeks-of-earthquakes)
-- [Pro-Putin party wins majority in Russian elections despite declining support](https://www.theguardian.com/world/2021/sep/20/pro-putin-party-wins-majority-in-russian-elections-despite-declining-support)
-- [Bees kill 63 endangered penguins in South Africa](https://www.theguardian.com/world/2021/sep/20/bees-kill-63-endangered-penguins-in-south-africa)
-- [Welsh government launches smacking ban ad campaign before law change](https://www.theguardian.com/uk-news/2021/sep/20/welsh-government-launches-smacking-ban-ad-campaign-before-law-change)
-- [Rebellion and redemption: how the Slits gave a voice to female prisoners](https://www.theguardian.com/stage/2021/sep/20/rebellion-and-redemption-how-the-slits-gave-a-voice-to-female-prisoners)
-- [Sung Im Her: W.A.Y review – what a trip!](https://www.theguardian.com/stage/2021/sep/20/sung-im-her-way-review-place-london-korean-dance-festival)
-- [Most NHS staff vote to oppose 3% pay rise as union warns workers ‘fed up’](https://www.theguardian.com/society/2021/sep/20/most-nhs-staff-vote-to-oppose-3-pay-rise-as-union-warns-workers-fed-up)
+- [Australia v India: first women’s one-day international – live!](https://www.theguardian.com/sport/live/2021/sep/21/australia-v-india-first-womens-one-day-international-live)
+- [Going nuclear: the secret submarine deal to challenge China](https://www.theguardian.com/news/audio/2021/sep/21/going-nuclear-the-secret-submarine-deal-to-challenge-china)
+- [Prince Andrew’s US attorney served with sexual assault lawsuit, Virginia Giuffre’s lawyers claim](https://www.theguardian.com/uk-news/2021/sep/21/prince-andrews-us-attorney-served-with-sexual-assault-lawsuit-virginia-giuffres-lawyers-claim)
+- [India seizes $2.7bn of heroin from Afghanistan at port](https://www.theguardian.com/world/2021/sep/21/india-seizes-27bn-of-heroin-from-afghanistan-at-port)
+- [Andy Murray won’t ‘wade in’ with advice for Emma Raducanu unless invited](https://www.theguardian.com/sport/2021/sep/21/andy-murray-wont-wade-in-advice-tennis-emma-raducanu)
+- [New Zealand police arrest pair trying to enter Auckland with ‘large amount’ of KFC](https://www.theguardian.com/world/2021/sep/21/new-zealand-police-arrest-pair-trying-to-enter-auckland-with-large-amount-of-kfc)
+- [Surge in UK job vacancies driven by low-paying work, says IFS](https://www.theguardian.com/business/2021/sep/21/surge-in-uk-job-vacancies-driven-by-low-paying-work-says-ifs)
+- [Call for ‘new deal’ for England’s children as poll shows mental health concerns](https://www.theguardian.com/society/2021/sep/21/call-for-new-deal-for-englands-children-as-poll-shows-mental-health-concerns)
+- [Daniel Craig has given us ‘woke’ James Bond, says Charlie Higson](https://www.theguardian.com/film/2021/sep/21/daniel-craig-has-given-us-woke-james-bond-says-charlie-higson)
+- [Children’s tsar will hope for better response to new catchup funds plea](https://www.theguardian.com/society/2021/sep/21/childrens-tsar-will-hope-for-better-response-to-new-catchup-funds-plea)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

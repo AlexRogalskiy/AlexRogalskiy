@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
-- [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
-- [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
-- [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
-- [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
-- [Show HN: I built four eight-foot-long handwriting robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
-- [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
-- [What is property-based testing? (2016)](https://hypothesis.works/articles/what-is-property-based-testing/)
-- [Spy tech that followed kids home for remote learning](https://www.the74million.org/article/gaggle-spy-tech-minneapolis-students-remote-learning/)
-- [Games that emphasize emergent narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
+- [Ask HN: What can I do to actively fight climate change?](https://news.ycombinator.com/item?id=28601257)
+- [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
+- [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
+- [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces](https://github.com/PySimpleGUI/PySimpleGUI)
+- [Show HN: 7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/)
+- [A function decorator that rewrites the bytecode to enable goto in Python](https://github.com/snoack/python-goto)
+- [What's the deal with tab size (8 spaces) in the GitHub UI?](https://github.community/t/whats-the-deal-with-tab-sizes-on-github-gists/954)
+- [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
+- [What is this Gemini thing, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

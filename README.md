@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian VoIP provider held for ransom by DDoS attack](https://www.itworldcanada.com/article/canadian-voip-provider-held-for-ransom-by-ddos-attack/458648)
+- [Canadian 5G networks excel in gaming, Opensignal report finds](https://www.itworldcanada.com/article/canadian-5g-networks-excel-in-gaming-opensignal-report-finds/458655)
+- [Digital signage: More than just a pretty fascia](https://www.itworldcanada.com/article/digital-signage-more-than-just-a-pretty-fascia/458649)
+- [Windows admins running Linux warned of threat](https://www.itworldcanada.com/article/windows-admins-running-linux-warned-of-threat/458620)
+- [Cyber Security Today, Sept. 20, 2021 – Patch for OMIGOD vulnerability, a list of ransomware exploits and prison for AT&T scammer](https://www.itworldcanada.com/article/cyber-security-today-sept-20-2021-patch-for-omigod-vulnerability-a-list-of-ransomware-exploits-and-prison-for-att-scammer/458609)
+- [Hashtag Trending Sept. 20 – Amazon bans fake reviews; Apple threatens to boot Facebook; Cracking MacBook displays?](https://www.itworldcanada.com/article/hashtag-trending-september-20-amazon-bans-fake-reviews-apple-threatens-to-boot-facebook-cracking-macbook-displays/458613)
 - [Cyber Security Today, Week in Review for Sept. 17, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-17-2021/458548)
 - [Azure Linux admins urged to patch four zero-day OMI vulnerabilities](https://www.itworldcanada.com/article/azure-linux-admins-urged-to-patch-four-zero-day-omi-vulnerabilities/458555)
 - [Cyber Security Today, Sept. 17, 2021 –  Microsoft extends passwordless access, a warning to software developers and how an attack started with a compromised website.](https://www.itworldcanada.com/article/cyber-security-today-sept-17-2021-microsoft-extends-passwordless-access-a-warning-to-software-developers-and-how-an-attack-started-with-a-compromised-website/458414)
 - [Hashtag Trending Sept. 17 – Instagram for Kids criticism; El Salvador bitcoin protests; Uber Canada’s election discount](https://www.itworldcanada.com/article/hashtag-trending-september-17-instagram-for-kids-criticism-el-salvador-bitcoin-protests-uber-canadas-election-discount/458543)
-- [Samsung Pay now supports TD cards](https://www.itworldcanada.com/article/samsung-pay-now-supports-td-cards/458514)
-- [It’s time to harness AI for business impacts](https://www.itworldcanada.com/article/its-time-to-harness-ai-for-business-impacts/458526)
-- [A new world of connected and autonomous heavy equipment](https://www.itworldcanada.com/article/a-new-world-of-connected-and-autonomous-heavy-equipment/458513)
-- [Brute force attacks, unpatched software and malicious emails behind most incidents investigated by Kaspersky last year](https://www.itworldcanada.com/article/brute-force-attacks-unpatched-software-and-malicious-emails-behind-most-incidents-investigated-by-kaspersky-last-year/458344)
-- [Hashtag Trending September 16 – Longer remote work days; rural broadband needs attention; TikTok’s mental health announcement](https://www.itworldcanada.com/article/458432-2/458432)
-- [Microsoft accounts to no longer need passwords](https://www.itworldcanada.com/article/microsoft-accounts-to-no-longer-need-passwords/458442)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

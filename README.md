@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Kioxia revisits SLC flash to power FL6 and rival Optane](https://www.computerweekly.com/news/252506903/Koxia-revisits-SLC-flash-to-power-FL6-and-rival-Optane)
+- [How Estonia’s country-as-a-service scheme has attracted tens of thousands of foreign entrepreneurs](https://www.computerweekly.com/feature/How-Estonias-country-as-a-service-scheme-has-attracted-tens-of-thousands-of-foreign-entrepreneurs)
+- [UK government announces digital trade strategy](https://www.computerweekly.com/news/252506904/UK-government-announces-digital-trade-strategy)
+- [Dear Chancellor: Unlocking private sector collaboration is the key to tech growth](https://www.computerweekly.com/opinion/Dear-Chancellor-unlocking-private-sector-collaboration-is-the-key-to-tech-growth)
+- [Trust deficit retards predictive analytics adoption in banking, says Qlik](https://www.computerweekly.com/news/252506855/Trust-deficit-retards-predictive-analytics-adoption-in-banking-says-Qlik)
+- [NGO Fair Trials calls on EU to ban predictive policing systems](https://www.computerweekly.com/news/252506851/NGO-Fair-Trials-calls-on-EU-to-ban-predictive-policing-systems)
+- [Putting data at the heart of policymaking will accelerate London’s recovery](https://www.computerweekly.com/opinion/Putting-data-at-the-heart-of-policymaking-will-accelerate-Londons-recovery)
+- [Climate change and datacentres: Weighing up water use](https://www.computerweekly.com/feature/Climate-change-and-datacentres-Weighing-up-water-use)
 - [UK tech sector on track for another record year of investment](https://www.computerweekly.com/news/252506853/UK-tech-sector-on-track-for-another-record-year-of-investment)
 - [British home computing inventor Sir Clive Sinclair dies](https://www.computerweekly.com/news/252506837/British-home-computing-inventor-Sir-Clive-Sinclair-dies)
-- [JP Morgan launch of UK digital bank expected next week](https://www.computerweekly.com/news/252506836/JP-Morgan-launch-of-UK-digital-bank-expected-next-week)
-- [Is the tech sector facing an IT skills exodus?](https://www.computerweekly.com/feature/Is-the-tech-sector-facing-an-IT-skills-exodus)
-- [Whittingdale and Warman ousting completes reshuffle of every digital, data and tech minister](https://www.computerweekly.com/news/252506789/Minister-for-data-John-Whittingdale-ousted-in-Cabinet-reshuffle)
-- [Dutch education administrators underestimate threat of cyber crime](https://www.computerweekly.com/news/252506778/Dutch-education-administrators-underestimate-threat-of-cyber-crime)
-- [Bitdefender launches free REvil ransomware decryptor](https://www.computerweekly.com/news/252506780/BitDefender-launches-free-REvil-ransomware-decryptor)
-- [Inside nib’s digital transformation journey](https://www.computerweekly.com/video/Inside-nibs-digital-transformation-journey)
-- [European president outlines tech vision to drive Europe](https://www.computerweekly.com/news/252506774/European-president-outlines-tech-vision-to-drive-Europe)
-- [Travel-themed phishing lures spiked this summer](https://www.computerweekly.com/news/252506772/Travel-themed-phishing-lures-spiked-this-summer)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

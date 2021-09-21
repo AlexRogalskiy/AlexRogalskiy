@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What things are the human mind bad at?](https://news.ycombinator.com/item?id=28589824)
-- [Better Box Fan Air Purifier (2013)](https://tombuildsstuff.blogspot.com/2013/06/better-box-fan-air-purifier.html)
-- [When I Was an Influencer](https://haleynahman.substack.com/p/70-when-i-was-an-influencer)
-- [Judge moves to evict Long Island man who hasn’t paid mortgage in 23 years](https://nypost.com/2021/09/18/judge-moves-to-evict-li-man-who-hasnt-paid-mortgage-in-23-years)
-- [Anak Krakatoa](https://en.wikipedia.org/wiki/Anak_Krakatoa)
-- [Google is getting caught in the antitrust net](https://arstechnica.com/tech-policy/2021/09/google-is-getting-caught-in-the-antitrust-net/)
-- [Was Moore’s Law Inevitable?](https://kk.org/thetechnium/was-moores-law/)
-- [Talking to the Competition and Markets Authority about Apple](https://www.kryogenix.org/days/2021/09/06/talking-to-the-competition-and-markets-authority-about-apple/)
-- [By taking on poliovirus, Marguerite Vogt transformed the study of all viruses](https://www.sciencenews.org/article/marguerite-vogt-polio-virus-lab-research-virology)
-- [Global warming equations in the Paris metro (2015)](https://mathematicswithoutapologies.wordpress.com/2016/01/14/global-warming-equations-in-the-paris-metro/)
+- [Ask HN: When did Techcrunch die for you and why?](https://news.ycombinator.com/item?id=28601413)
+- [FDA panel issues narrow recommendation for Covid vaccine booster doses](https://www.statnews.com/2021/09/17/fda-advisory-panel-recommends-against-booster-doses-of-covid-19-vaccine-for-most-americans/)
+- [Spotify Box (DIY embedded Linux audio interface)](https://evanhailey.com/2021/09/20/spot-box/)
+- [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
+- [Show HN: Create Custom Illustrations in the Browser](https://www.composable.art/)
+- [Ipv6excuses.com](https://ipv6excuses.com/)
+- [Digital: A Love Story](https://scoutshonour.com/digital/)
+- [Netflix Created a Fictional Female Grandmaster. USSR Created Dozens Real Ones](https://www.jacobinmag.com/2021/09/netflix-the-queens-gambit-soviet-chess-grandmaster-nona-gaprindashvili-sue-lawsuit-champion)
+- [Vaultwarden Emergency Access Support Merged](https://github.com/dani-garcia/vaultwarden/pull/1377)
+- [Policy-as-Code for Everyone](https://www.checkov.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

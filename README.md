@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Kioxia revisits SLC flash to power FL6 and rival Optane](https://www.computerweekly.com/news/252506903/Koxia-revisits-SLC-flash-to-power-FL6-and-rival-Optane)
-- [How Estonia’s country-as-a-service scheme has attracted tens of thousands of foreign entrepreneurs](https://www.computerweekly.com/feature/How-Estonias-country-as-a-service-scheme-has-attracted-tens-of-thousands-of-foreign-entrepreneurs)
-- [UK government announces digital trade strategy](https://www.computerweekly.com/news/252506904/UK-government-announces-digital-trade-strategy)
-- [Dear Chancellor: Unlocking private sector collaboration is the key to tech growth](https://www.computerweekly.com/opinion/Dear-Chancellor-unlocking-private-sector-collaboration-is-the-key-to-tech-growth)
-- [Trust deficit retards predictive analytics adoption in banking, says Qlik](https://www.computerweekly.com/news/252506855/Trust-deficit-retards-predictive-analytics-adoption-in-banking-says-Qlik)
-- [NGO Fair Trials calls on EU to ban predictive policing systems](https://www.computerweekly.com/news/252506851/NGO-Fair-Trials-calls-on-EU-to-ban-predictive-policing-systems)
-- [Putting data at the heart of policymaking will accelerate London’s recovery](https://www.computerweekly.com/opinion/Putting-data-at-the-heart-of-policymaking-will-accelerate-Londons-recovery)
-- [Climate change and datacentres: Weighing up water use](https://www.computerweekly.com/feature/Climate-change-and-datacentres-Weighing-up-water-use)
-- [UK tech sector on track for another record year of investment](https://www.computerweekly.com/news/252506853/UK-tech-sector-on-track-for-another-record-year-of-investment)
-- [British home computing inventor Sir Clive Sinclair dies](https://www.computerweekly.com/news/252506837/British-home-computing-inventor-Sir-Clive-Sinclair-dies)
+- [Managing cyber risk through integrated supply chains](https://www.computerweekly.com/opinion/Managing-cyber-risk-through-integrated-supply-chains)
+- [US sanctions Suex crypto exchange over ransomware links](https://www.computerweekly.com/news/252506976/US-sanctions-Suex-crypto-exchange-over-ransomware-links)
+- [Investigation launched after MoD email blunder](https://www.computerweekly.com/news/252506972/Investigation-launched-after-MoD-email-blunder)
+- [NHS App reaches 16 million users](https://www.computerweekly.com/news/252506971/NHS-App-reaches-16-million-users)
+- [UK needs coordinated effort to regain ground in high-performance computing](https://www.computerweekly.com/news/252506966/UK-needs-coordinated-effort-to-regain-ground-in-high-performance-computing)
+- [Digital Clinical Safety Strategy adds to NHS patient safety plan](https://www.computerweekly.com/news/252506970/Digital-Clinical-Safety-Strategy-adds-to-NHS-patient-safety-plan)
+- [Dutch scientist receives top award for work on digital media’s effect on society](https://www.computerweekly.com/news/252506969/Dutch-scientist-receives-top-award-for-work-on-digital-medias-effect-on-society)
+- [Open banking objectives a decade away for over a third of UK finance firms](https://www.computerweekly.com/news/252506961/Open-banking-objectives-a-decade-away-for-over-a-third-of-UK-finance-firms)
+- [IDC: Salesforce-related economic activity will create 271,000 UK jobs and £52bn in sales by 2026](https://www.computerweekly.com/news/252506957/IDC-Salesforce-related-economic-activity-will-create-271000-UK-jobs-and-52bn-in-sales-by-2026)
+- [Chancellor Rishi Sunak listens to UK tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Chancellor-Rishi-Sunak-listens-to-UK-tech-Computer-Weekly-Downtime-Upload-podcast)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

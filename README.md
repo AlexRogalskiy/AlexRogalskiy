@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Salesforce goes all-in with Slack](https://www.itworldcanada.com/article/salesforce-goes-all-in-with-slack/458811)
+- [Pearson and Canadian edtech partner to level up digital math support across Canadian schools](https://www.itworldcanada.com/article/pearson-and-canadian-edtech-partner-to-level-up-digital-math-support-across-canadian-schools/458743)
+- [Ontarians are getting digital ID this fall: All you need to know](https://www.itworldcanada.com/article/ontarians-are-getting-digital-id-this-fall-all-you-need-to-know/458633)
+- [AI-infused planning and forecasting is reshaping the way finance teams work](https://www.itworldcanada.com/article/ai-infused-planning-and-forecasting-is-reshaping-the-way-finance-teams-work/458737)
+- [Coffee Briefing, Sept. 21, 2021 – all the tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-21-2021-all-the-tech-news-a-podcast-roundup-and-more/458726)
+- [Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate](https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698)
 - [Canadian VoIP provider held for ransom by DDoS attack](https://www.itworldcanada.com/article/canadian-voip-provider-held-for-ransom-by-ddos-attack/458648)
 - [Canadian 5G networks excel in gaming, Opensignal report finds](https://www.itworldcanada.com/article/canadian-5g-networks-excel-in-gaming-opensignal-report-finds/458655)
 - [Digital signage: More than just a pretty fascia](https://www.itworldcanada.com/article/digital-signage-more-than-just-a-pretty-fascia/458649)
 - [Windows admins running Linux warned of threat](https://www.itworldcanada.com/article/windows-admins-running-linux-warned-of-threat/458620)
-- [Cyber Security Today, Sept. 20, 2021 – Patch for OMIGOD vulnerability, a list of ransomware exploits and prison for AT&T scammer](https://www.itworldcanada.com/article/cyber-security-today-sept-20-2021-patch-for-omigod-vulnerability-a-list-of-ransomware-exploits-and-prison-for-att-scammer/458609)
-- [Hashtag Trending Sept. 20 – Amazon bans fake reviews; Apple threatens to boot Facebook; Cracking MacBook displays?](https://www.itworldcanada.com/article/hashtag-trending-september-20-amazon-bans-fake-reviews-apple-threatens-to-boot-facebook-cracking-macbook-displays/458613)
-- [Cyber Security Today, Week in Review for Sept. 17, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-17-2021/458548)
-- [Azure Linux admins urged to patch four zero-day OMI vulnerabilities](https://www.itworldcanada.com/article/azure-linux-admins-urged-to-patch-four-zero-day-omi-vulnerabilities/458555)
-- [Cyber Security Today, Sept. 17, 2021 –  Microsoft extends passwordless access, a warning to software developers and how an attack started with a compromised website.](https://www.itworldcanada.com/article/cyber-security-today-sept-17-2021-microsoft-extends-passwordless-access-a-warning-to-software-developers-and-how-an-attack-started-with-a-compromised-website/458414)
-- [Hashtag Trending Sept. 17 – Instagram for Kids criticism; El Salvador bitcoin protests; Uber Canada’s election discount](https://www.itworldcanada.com/article/hashtag-trending-september-17-instagram-for-kids-criticism-el-salvador-bitcoin-protests-uber-canadas-election-discount/458543)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

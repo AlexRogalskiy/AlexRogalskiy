@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Salesforce broadens Slack integrations across Customer360 apps](https://www.computerworld.com/article/3633886/salesforce-broadens-slack-integrations-across-customer360-apps.html#tk.rss_all)
+- [What is iCloud+ (and why should you use it)?](https://www.computerworld.com/article/3634029/what-is-icloud-and-why-should-you-use-it.html#tk.rss_all)
+- [Slack begins rolling out video and audio message ‘clips’](https://www.computerworld.com/article/3633933/slack-begins-rolling-out-video-and-audio-message-clips.html#tk.rss_all)
+- [My boss, the algorithm](https://www.computerworld.com/article/3633616/my-boss-the-algorithm.html#tk.rss_all)
 - [Microsoft releases new perpetual Office for enterprise](https://www.computerworld.com/article/3633903/microsoft-releases-new-perpetual-office-for-enterprise.html#tk.rss_all)
+- [BrandPost: Elevating Business Computing Everywhere](https://www.computerworld.com/article/3634028/elevating-business-computing-everywhere.html#tk.rss_all)
 - [A penchant for patching: After 20 years, the system’s still a mess](https://www.computerworld.com/article/3633645/a-penchant-for-patching-after-20-years-the-systems-still-a-mess.html#tk.rss_all)
 - [What’s not coming (yet) in iOS 15/iPadOS 15](https://www.computerworld.com/article/3633621/whats-not-coming-yet-in-ios-15ipados-15.html#tk.rss_all)
 - [How Apple is changing MDM in iOS 15](https://www.computerworld.com/article/3633613/how-apple-is-changing-mdm-in-ios-15.html#tk.rss_all)
 - [Legacy apps are at risk with the September Patch Tuesday update](https://www.computerworld.com/article/3633597/legacy-apps-are-at-risk-with-the-september-patch-tuesday-update.html#tk.rss_all)
-- [Should the brilliant new iPad mini go Pro?](https://www.computerworld.com/article/3633670/should-the-brilliant-new-ipad-mini-go-pro.html#tk.rss_all)
-- [Great R packages for data import, wrangling, and visualization](https://www.computerworld.com/article/2921176/great-r-packages-for-data-import-wrangling-visualization.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Best-loved productivity tools of the rich and famous](https://www.computerworld.com/article/3633609/best-loved-productivity-tools-of-the-rich-and-famous.html#tk.rss_all)
-- [The problem with the Poly Studio E70 and X70](https://www.computerworld.com/article/3633650/the-problem-with-the-poly-studio-e70-and-x70.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

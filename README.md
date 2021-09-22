@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: When did Techcrunch die for you and why?](https://news.ycombinator.com/item?id=28601413)
-- [FDA panel issues narrow recommendation for Covid vaccine booster doses](https://www.statnews.com/2021/09/17/fda-advisory-panel-recommends-against-booster-doses-of-covid-19-vaccine-for-most-americans/)
-- [Spotify Box (DIY embedded Linux audio interface)](https://evanhailey.com/2021/09/20/spot-box/)
-- [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
-- [Show HN: Create Custom Illustrations in the Browser](https://www.composable.art/)
-- [Ipv6excuses.com](https://ipv6excuses.com/)
-- [Digital: A Love Story](https://scoutshonour.com/digital/)
-- [Netflix Created a Fictional Female Grandmaster. USSR Created Dozens Real Ones](https://www.jacobinmag.com/2021/09/netflix-the-queens-gambit-soviet-chess-grandmaster-nona-gaprindashvili-sue-lawsuit-champion)
-- [Vaultwarden Emergency Access Support Merged](https://github.com/dani-garcia/vaultwarden/pull/1377)
-- [Policy-as-Code for Everyone](https://www.checkov.io/)
+- [NSW Health moves to ServiceNow vaccine management system](https://www.itnews.com.au/news/nsw-health-moves-to-servicenow-vaccine-booking-system-570117)
+- [Show HN: Journal·in: Insights into your own journal](https://journal.qflair.com/)
+- [CBA's X15 Invests In:Different](https://www.itnews.com.au/news/cbas-x15-invests-in-different-570105)
+- [Alabama Had More Deaths Than Births in 2020](https://www.npr.org/2021/09/20/1038950564/alabama-deaths-births-2020-coronavirus-surge-vaccination-rate)
+- [Insight launches a customizable iOS browser with support for extensions](https://techcrunch.com/2021/02/10/insight-launches-a-customizable-ios-browser-with-support-for-extensions/)
+- [Guerrilla Urbanism](https://link.springer.com/article/10.1057/s41289-020-00118-6)
+- [What Is Data Control?](https://rudderstack.com/blog/what-is-data-control)
+- [The Book of Inkscape: The Definitive Guide to the Graphics Editor, 2nd Edition](https://nostarch.com/inkscape2E)
+- [Covid Pass in Lithuania: How vaccine mandate laws have upended my family's life](https://txti.es/covid-pass/images)
+- [The Left and Right Hand Path, Oversimplified](https://philosophyinhell.substack.com/p/the-left-and-right-hand-path-oversimplified)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

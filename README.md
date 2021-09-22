@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_all)
+- [What's the real value of multicloud redundancy?](https://www.infoworld.com/article/3633901/whats-the-real-value-of-multicloud-redundancy.html#tk.rss_all)
+- [Oracle v. Google: What the verdict means for open source](https://www.infoworld.com/article/3633668/oracle-v-google-what-the-verdict-means-for-open-source.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [GitLab’s S-1 points to an integrated devops future](https://www.infoworld.com/article/3633931/gitlab-s-s-1-points-to-an-integrated-devops-future.html#tk.rss_all)
 - [Will Google Cloud ever win over enterprises?](https://www.infoworld.com/article/3633195/will-google-cloud-ever-win-over-enterprises.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_all)
 - [The lack of cloud skills is hindering cloud progress](https://www.infoworld.com/article/3633636/the-lack-of-cloud-skills-is-hindering-cloud-progress.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Visual Studio 2022 Preview 4 shines on developer productivity](https://www.infoworld.com/article/3633612/visual-studio-2022-preview-4-shines-on-developer-productivity.html#tk.rss_all)
-- [Python concurrency and parallelism explained](https://www.infoworld.com/article/3632284/python-concurrency-and-parallelism-explained.html#tk.rss_all)
-- [How coupling impacts software quality](https://www.infoworld.com/article/3632143/how-coupling-impacts-software-quality.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

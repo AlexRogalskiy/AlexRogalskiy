@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v India: first women’s one-day international – live!](https://www.theguardian.com/sport/live/2021/sep/21/australia-v-india-first-womens-one-day-international-live)
-- [Going nuclear: the secret submarine deal to challenge China](https://www.theguardian.com/news/audio/2021/sep/21/going-nuclear-the-secret-submarine-deal-to-challenge-china)
-- [Prince Andrew’s US attorney served with sexual assault lawsuit, Virginia Giuffre’s lawyers claim](https://www.theguardian.com/uk-news/2021/sep/21/prince-andrews-us-attorney-served-with-sexual-assault-lawsuit-virginia-giuffres-lawyers-claim)
-- [India seizes $2.7bn of heroin from Afghanistan at port](https://www.theguardian.com/world/2021/sep/21/india-seizes-27bn-of-heroin-from-afghanistan-at-port)
-- [Andy Murray won’t ‘wade in’ with advice for Emma Raducanu unless invited](https://www.theguardian.com/sport/2021/sep/21/andy-murray-wont-wade-in-advice-tennis-emma-raducanu)
-- [New Zealand police arrest pair trying to enter Auckland with ‘large amount’ of KFC](https://www.theguardian.com/world/2021/sep/21/new-zealand-police-arrest-pair-trying-to-enter-auckland-with-large-amount-of-kfc)
-- [Surge in UK job vacancies driven by low-paying work, says IFS](https://www.theguardian.com/business/2021/sep/21/surge-in-uk-job-vacancies-driven-by-low-paying-work-says-ifs)
-- [Call for ‘new deal’ for England’s children as poll shows mental health concerns](https://www.theguardian.com/society/2021/sep/21/call-for-new-deal-for-englands-children-as-poll-shows-mental-health-concerns)
-- [Daniel Craig has given us ‘woke’ James Bond, says Charlie Higson](https://www.theguardian.com/film/2021/sep/21/daniel-craig-has-given-us-woke-james-bond-says-charlie-higson)
-- [Children’s tsar will hope for better response to new catchup funds plea](https://www.theguardian.com/society/2021/sep/21/childrens-tsar-will-hope-for-better-response-to-new-catchup-funds-plea)
+- [Victoria earthquake live updates: Melbourne buildings damaged as residents told to expect more aftershocks](https://www.theguardian.com/australia-news/live/2021/sep/22/melbourne-earthquake-live-updates-victoria-tremor-mansfield-)
+- [Germany decides: who will follow Angela Merkel?](https://www.theguardian.com/news/audio/2021/sep/22/germany-decides-who-will-follow-angela-merkel-podcast)
+- [Willie Garson, Sex and the City and White Collar actor, dies at 57](https://www.theguardian.com/tv-and-radio/2021/sep/22/willie-garson-sex-and-the-city-and-white-collar-actor-dies-at-57)
+- [Gabby Petito: coroner confirms death by homicide as search for fiance continues](https://www.theguardian.com/us-news/2021/sep/21/gabby-petito-confirmed-dead-homicide-autopsy-county-coroner-fbi)
+- [‘We will be very swift’: riot police on Melbourne streets to prevent third day of protests](https://www.theguardian.com/australia-news/2021/sep/22/riot-police-on-melbourne-streets-to-prevent-third-day-of-protests)
+- [New Zealand: rushing anti-terror law could lead to surveillance overreach, minor parties say](https://www.theguardian.com/world/2021/sep/22/new-zealand-rushing-anti-terror-law-could-lead-to-surveillance-overreach-minor-parties-say)
+- [Taliban ask to address UN general assembly after Afghanistan takeover](https://www.theguardian.com/world/2021/sep/22/taliban-ask-to-address-un-general-assembly-after-afghanistan-takeover)
+- [Internet freedom on the decline in US and globally, study finds](https://www.theguardian.com/technology/2021/sep/21/internet-freedom-decline-free-speech-study)
+- [Government review finds 10% of drugs dispensed in England are pointless](https://www.theguardian.com/society/2021/sep/22/government-review-finds-10-of-drugs-dispensed-in-england-are-pointless)
+- [Ministers have no clear plan to tackle child poverty, say cross-party MPs](https://www.theguardian.com/society/2021/sep/22/ministers-have-no-clear-plan-to-tackle-child-poverty-say-cross-party-mps)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

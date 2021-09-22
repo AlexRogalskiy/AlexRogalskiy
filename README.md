@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: What can I do to actively fight climate change?](https://news.ycombinator.com/item?id=28601257)
-- [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
-- [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
-- [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces](https://github.com/PySimpleGUI/PySimpleGUI)
-- [Show HN: 7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/)
-- [A function decorator that rewrites the bytecode to enable goto in Python](https://github.com/snoack/python-goto)
-- [What's the deal with tab size (8 spaces) in the GitHub UI?](https://github.community/t/whats-the-deal-with-tab-sizes-on-github-gists/954)
-- [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
-- [What is this Gemini thing, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html)
+- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
+- [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/)
+- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
+- [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
+- [DOJ sues to block domestic alliance between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
+- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
+- [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
+- [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
+- [That time I told my wife I wanted to quit my job](https://keygen.sh/blog/that-time-i-told-my-wife-i-wanted-to-quit-my-job/)
+- [Goats became an unconventional weapon against wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NSW Health moves to ServiceNow vaccine management system](https://www.itnews.com.au/news/nsw-health-moves-to-servicenow-vaccine-booking-system-570117)
-- [Show HN: Journal·in: Insights into your own journal](https://journal.qflair.com/)
-- [CBA's X15 Invests In:Different](https://www.itnews.com.au/news/cbas-x15-invests-in-different-570105)
-- [Alabama Had More Deaths Than Births in 2020](https://www.npr.org/2021/09/20/1038950564/alabama-deaths-births-2020-coronavirus-surge-vaccination-rate)
-- [Insight launches a customizable iOS browser with support for extensions](https://techcrunch.com/2021/02/10/insight-launches-a-customizable-ios-browser-with-support-for-extensions/)
-- [Guerrilla Urbanism](https://link.springer.com/article/10.1057/s41289-020-00118-6)
-- [What Is Data Control?](https://rudderstack.com/blog/what-is-data-control)
-- [The Book of Inkscape: The Definitive Guide to the Graphics Editor, 2nd Edition](https://nostarch.com/inkscape2E)
-- [Covid Pass in Lithuania: How vaccine mandate laws have upended my family's life](https://txti.es/covid-pass/images)
-- [The Left and Right Hand Path, Oversimplified](https://philosophyinhell.substack.com/p/the-left-and-right-hand-path-oversimplified)
+- [Community Building basics (Part 1)](https://zoonromanticon.substack.com/p/community-building-basics)
+- [People with migraines get less REM sleep, study finds](https://lite.cnn.com/en/article/h_4f95a648b6024f0a7983ed37485eb0d7)
+- [Up to 16-foot waves forecast near Chicago](https://lite.cnn.com/en/article/h_b534dbb69e75f7bd1ed9174e7c442ccb)
+- [Facebook Ordered to Release Records on Closed Myanmar Accounts](https://www.wsj.com/articles/facebook-ordered-to-release-records-on-closed-myanmar-accounts-11632360776)
+- [Theranos Trial: texts described herself as ‘best business person of the year’](https://www.cnbc.com/2021/09/22/elizabeth-holmes-private-text-messages-leak-during-theranos-fraud-trial.html)
+- [How to Use Gmail Fetcher for Your Professional Emails on Namecheap or Any Cpanel](https://www.instarlaxy.com/blog/importing-your-domain-email-account-into-gmail-namecheap-or-any-cpanel/)
+- [Google Cloud/Workspace sending erroneous suspension/non-payment notices](https://news.ycombinator.com/item?id=28624486)
+- [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
+- [Robinhood Announces Crypto Wallets](https://blog.robinhood.com/news/2021/9/22/crypto-wallets-are-coming-to-robinhood)
+- [Apple Privacy Measures Reduce Facebook Ad Tracking by 15%](https://www.facebook.com/noscript://)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

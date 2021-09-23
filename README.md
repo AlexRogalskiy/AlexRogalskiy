@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jobs I could get with a bachelors in IT?](https://www.reddit.com/r/InformationTechnology/comments/ptk7r6/jobs_i_could_get_with_a_bachelors_in_it/)
+- [any IT entry level jobs](https://www.reddit.com/r/InformationTechnology/comments/ptenvo/any_it_entry_level_jobs/)
+- [How can I build up my networking skills at an IT job?](https://www.reddit.com/r/InformationTechnology/comments/ptdkp6/how_can_i_build_up_my_networking_skills_at_an_it/)
+- [Associates degree useful?](https://www.reddit.com/r/InformationTechnology/comments/pt8616/associates_degree_useful/)
+- [Crypto mining as a Capstone Project?](https://www.reddit.com/r/InformationTechnology/comments/pt6h9g/crypto_mining_as_a_capstone_project/)
+- [Strange files](https://www.reddit.com/r/InformationTechnology/comments/pt2vwo/strange_files/)
 - [According to my teacher, vacuum tubes and relays are for fast switching right? What does he mean by “fast switching”?](https://www.reddit.com/r/InformationTechnology/comments/pslzqg/according_to_my_teacher_vacuum_tubes_and_relays/)
 - [Any advice to get into network/security IT careers?](https://www.reddit.com/r/InformationTechnology/comments/psimua/any_advice_to_get_into_networksecurity_it_careers/)
 - [Why Choose Restaurant App Development in 2021 for Food Business?](https://www.reddit.com/r/InformationTechnology/comments/psfwwi/why_choose_restaurant_app_development_in_2021_for/)
 - [Pascal](https://www.reddit.com/r/InformationTechnology/comments/ps8gl2/pascal/)
-- [I wallked into my first IT class today.](https://www.reddit.com/r/InformationTechnology/comments/ps4ogc/i_wallked_into_my_first_it_class_today/)
-- [Has anyone here ever worked on WoWs(Work Stations on Wheels) in a medical setting?](https://www.reddit.com/r/InformationTechnology/comments/ps2ldc/has_anyone_here_ever_worked_on_wowswork_stations/)
-- [How would you automate converting information on datasheets that are PDFs to Excel cells and remove the middle man of having someone do data entry?](https://www.reddit.com/r/InformationTechnology/comments/ps2b8q/how_would_you_automate_converting_information_on/)
-- [Thinking about a career change to IT](https://www.reddit.com/r/InformationTechnology/comments/prr1ws/thinking_about_a_career_change_to_it/)
-- [Configure wireless access point to office network](https://www.reddit.com/r/InformationTechnology/comments/prf4jy/configure_wireless_access_point_to_office_network/)
-- [What is the best Microsoft certificate to get that IT jobs love to see?](https://www.reddit.com/r/InformationTechnology/comments/prehfx/what_is_the_best_microsoft_certificate_to_get/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

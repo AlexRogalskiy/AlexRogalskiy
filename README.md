@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [How a phishing-as-a-service operation works](https://www.itworldcanada.com/article/how-a-phishing-as-a-service-operation-works/458832)
+- [All the new Microsoft Surface devices announced today](https://www.itworldcanada.com/article/all-the-new-microsoft-surface-devices-announced-today/458845)
+- [Cyber Security Today, Sept. 22, 2021 – Epik breach has epic ramifications, misconfigurations by EventBuilder users  and phishing attacks on the aviation sector](https://www.itworldcanada.com/article/cyber-security-today-sept-22-2021-epik-breach-has-epic-ramifications-misconfigurations-by-eventbuilder-users-and-phishing-attacks-on-the-aviation-sector/458810)
+- [Hashtag Trending Sept. 22 – Facebook climate misinformation; Amazon’s creepy AI cameras; remote work changing cities](https://www.itworldcanada.com/article/hashtag-trending-september-22-facebook-climate-misinformation-amazons-creepy-ai-cameras-remote-work-changing-cities/458828)
 - [Salesforce goes all-in with Slack](https://www.itworldcanada.com/article/salesforce-goes-all-in-with-slack/458811)
 - [Pearson and Canadian edtech partner to level up digital math support across Canadian schools](https://www.itworldcanada.com/article/pearson-and-canadian-edtech-partner-to-level-up-digital-math-support-across-canadian-schools/458743)
 - [Ontarians are getting digital ID this fall: All you need to know](https://www.itworldcanada.com/article/ontarians-are-getting-digital-id-this-fall-all-you-need-to-know/458633)
 - [AI-infused planning and forecasting is reshaping the way finance teams work](https://www.itworldcanada.com/article/ai-infused-planning-and-forecasting-is-reshaping-the-way-finance-teams-work/458737)
 - [Coffee Briefing, Sept. 21, 2021 – all the tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-21-2021-all-the-tech-news-a-podcast-roundup-and-more/458726)
 - [Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate](https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698)
-- [Canadian VoIP provider held for ransom by DDoS attack](https://www.itworldcanada.com/article/canadian-voip-provider-held-for-ransom-by-ddos-attack/458648)
-- [Canadian 5G networks excel in gaming, Opensignal report finds](https://www.itworldcanada.com/article/canadian-5g-networks-excel-in-gaming-opensignal-report-finds/458655)
-- [Digital signage: More than just a pretty fascia](https://www.itworldcanada.com/article/digital-signage-more-than-just-a-pretty-fascia/458649)
-- [Windows admins running Linux warned of threat](https://www.itworldcanada.com/article/windows-admins-running-linux-warned-of-threat/458620)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
-- [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/)
-- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
-- [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
-- [DOJ sues to block domestic alliance between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
-- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
-- [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
-- [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
-- [That time I told my wife I wanted to quit my job](https://keygen.sh/blog/that-time-i-told-my-wife-i-wanted-to-quit-my-job/)
-- [Goats became an unconventional weapon against wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
+- [Biomarkers of dairy fat intake, cardiovascular disease, and all-cause mortality](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
+- [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
+- [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
+- [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
+- [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
+- [Spotify Box](https://evanhailey.com/2021/09/20/spot-box/)
+- [Google Drive of historical footage locked and flagged as terrorist activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
+- [Lab-grown meat may never be cost-competitive enough to displace traditional meat](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
+- [Micro-Max, a 133-line Chess Source](https://home.hccnet.nl/h.g.muller/max-src2.html)
+- [How we got to LiveView](https://fly.io/blog/how-we-got-to-liveview/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

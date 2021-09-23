@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Swift 5.5 introduces async/await, structured concurrency, and actors](https://www.infoworld.com/article/3634448/swift-55-introduces-asyncawait-structured-concurrency-and-actors.html#tk.rss_all)
+- [Open source skills only got hotter during the pandemic](https://www.infoworld.com/article/3634131/open-source-skills-only-got-hotter-during-the-pandemic.html#tk.rss_all)
+- [Get started with Go testing](https://www.infoworld.com/article/3633659/get-started-with-go-testing.html#tk.rss_all)
+- [Working with Azure Managed Instance for Cassandra](https://www.infoworld.com/article/3633603/working-with-azure-managed-instance-for-cassandra.html#tk.rss_all)
+- [How to choose the right data visualization tools for your apps](https://www.infoworld.com/article/3339679/how-to-choose-the-right-data-visualization-tools.html#tk.rss_all)
 - [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_all)
 - [What's the real value of multicloud redundancy?](https://www.infoworld.com/article/3633901/whats-the-real-value-of-multicloud-redundancy.html#tk.rss_all)
 - [Oracle v. Google: What the verdict means for open source](https://www.infoworld.com/article/3633668/oracle-v-google-what-the-verdict-means-for-open-source.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [GitLab’s S-1 points to an integrated devops future](https://www.infoworld.com/article/3633931/gitlab-s-s-1-points-to-an-integrated-devops-future.html#tk.rss_all)
-- [Will Google Cloud ever win over enterprises?](https://www.infoworld.com/article/3633195/will-google-cloud-ever-win-over-enterprises.html#tk.rss_all)
-- [Why embed analytics and data visualizations in apps](https://www.infoworld.com/article/3632919/why-embed-analytics-and-data-visualizations-in-apps.html#tk.rss_all)
-- [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_all)
-- [The lack of cloud skills is hindering cloud progress](https://www.infoworld.com/article/3633636/the-lack-of-cloud-skills-is-hindering-cloud-progress.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

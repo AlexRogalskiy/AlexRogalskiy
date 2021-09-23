@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Victoria earthquake live updates: Melbourne buildings damaged as residents told to expect more aftershocks](https://www.theguardian.com/australia-news/live/2021/sep/22/melbourne-earthquake-live-updates-victoria-tremor-mansfield-)
-- [Germany decides: who will follow Angela Merkel?](https://www.theguardian.com/news/audio/2021/sep/22/germany-decides-who-will-follow-angela-merkel-podcast)
-- [Willie Garson, Sex and the City and White Collar actor, dies at 57](https://www.theguardian.com/tv-and-radio/2021/sep/22/willie-garson-sex-and-the-city-and-white-collar-actor-dies-at-57)
-- [Gabby Petito: coroner confirms death by homicide as search for fiance continues](https://www.theguardian.com/us-news/2021/sep/21/gabby-petito-confirmed-dead-homicide-autopsy-county-coroner-fbi)
-- [‘We will be very swift’: riot police on Melbourne streets to prevent third day of protests](https://www.theguardian.com/australia-news/2021/sep/22/riot-police-on-melbourne-streets-to-prevent-third-day-of-protests)
-- [New Zealand: rushing anti-terror law could lead to surveillance overreach, minor parties say](https://www.theguardian.com/world/2021/sep/22/new-zealand-rushing-anti-terror-law-could-lead-to-surveillance-overreach-minor-parties-say)
-- [Taliban ask to address UN general assembly after Afghanistan takeover](https://www.theguardian.com/world/2021/sep/22/taliban-ask-to-address-un-general-assembly-after-afghanistan-takeover)
-- [Internet freedom on the decline in US and globally, study finds](https://www.theguardian.com/technology/2021/sep/21/internet-freedom-decline-free-speech-study)
-- [Government review finds 10% of drugs dispensed in England are pointless](https://www.theguardian.com/society/2021/sep/22/government-review-finds-10-of-drugs-dispensed-in-england-are-pointless)
-- [Ministers have no clear plan to tackle child poverty, say cross-party MPs](https://www.theguardian.com/society/2021/sep/22/ministers-have-no-clear-plan-to-tackle-child-poverty-say-cross-party-mps)
+- [The energy crisis no one saw coming – podcast](https://www.theguardian.com/news/audio/2021/sep/23/the-energy-crisis-no-one-saw-coming-podcast)
+- [Thousands of civilians flee Myanmar town after military clash with rebels](https://www.theguardian.com/world/2021/sep/23/thousands-of-civilians-flee-myanmar-town-after-military-clash-with-rebels)
+- [‘Would you like Pfizer with that?’ New Zealanders could get Covid jab with fast-food fix](https://www.theguardian.com/world/2021/sep/23/would-you-like-pfizer-with-that-new-zealanders-could-get-covid-jab-with-fast-food-fix)
+- [Biden administration to reopen migrant detention camp near Guantánamo Bay prison](https://www.theguardian.com/us-news/2021/sep/22/guantanamo-bay-migrant-camp-biden-reopen)
+- [Scientists use AI to create drug regime for rare form of brain cancer in children](https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children)
+- [World Rugby to introduce new guidelines to reduce contact training](https://www.theguardian.com/sport/2021/sep/23/world-rugby-to-introduce-new-guidelines-to-reduce-contact-training)
+- [Melvin Van Peebles, groundbreaking playwright and director, dies at age 89](https://www.theguardian.com/film/2021/sep/22/melvin-van-peebles-groundbreaking-playwright-director-dies)
+- [Hawaii to remove forbidden staircase due to ‘rampant trespassing’](https://www.theguardian.com/us-news/2021/sep/22/hawaii-stairway-to-heaven-trail-remove)
+- [Britney Spears says she agrees with father that conservatorship should end](https://www.theguardian.com/music/2021/sep/22/britney-spears-end-conservatorship-father)
+- [Sex Actually With Alice Levine review – the cam couples turning love into porn](https://www.theguardian.com/tv-and-radio/2021/sep/22/sex-actually-with-alice-levine-review-the-cam-couples-turning-love-into-porn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

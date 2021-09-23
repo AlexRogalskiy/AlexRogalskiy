@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Managing cyber risk through integrated supply chains](https://www.computerweekly.com/opinion/Managing-cyber-risk-through-integrated-supply-chains)
-- [US sanctions Suex crypto exchange over ransomware links](https://www.computerweekly.com/news/252506976/US-sanctions-Suex-crypto-exchange-over-ransomware-links)
-- [Investigation launched after MoD email blunder](https://www.computerweekly.com/news/252506972/Investigation-launched-after-MoD-email-blunder)
-- [NHS App reaches 16 million users](https://www.computerweekly.com/news/252506971/NHS-App-reaches-16-million-users)
-- [UK needs coordinated effort to regain ground in high-performance computing](https://www.computerweekly.com/news/252506966/UK-needs-coordinated-effort-to-regain-ground-in-high-performance-computing)
-- [Digital Clinical Safety Strategy adds to NHS patient safety plan](https://www.computerweekly.com/news/252506970/Digital-Clinical-Safety-Strategy-adds-to-NHS-patient-safety-plan)
-- [Dutch scientist receives top award for work on digital media’s effect on society](https://www.computerweekly.com/news/252506969/Dutch-scientist-receives-top-award-for-work-on-digital-medias-effect-on-society)
-- [Open banking objectives a decade away for over a third of UK finance firms](https://www.computerweekly.com/news/252506961/Open-banking-objectives-a-decade-away-for-over-a-third-of-UK-finance-firms)
-- [IDC: Salesforce-related economic activity will create 271,000 UK jobs and £52bn in sales by 2026](https://www.computerweekly.com/news/252506957/IDC-Salesforce-related-economic-activity-will-create-271000-UK-jobs-and-52bn-in-sales-by-2026)
-- [Chancellor Rishi Sunak listens to UK tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Chancellor-Rishi-Sunak-listens-to-UK-tech-Computer-Weekly-Downtime-Upload-podcast)
+- [JP Morgan Chase to replace core banking system with Google-inspired cloud platform](https://www.computerweekly.com/news/252507033/JP-Morgan-Chase-to-replace-core-banking-system-with-Google-inspired-replacement)
+- [Dreamforce 2021: Benioff declares Salesforce as net zero and Slack ubiquitous across stack](https://www.computerweekly.com/news/252507026/Dreamforce-2021-Benioff-declares-Salesforce-as-net-zero-and-Slack-ubiquitous-across-stack)
+- [UK government launches first national artificial intelligence strategy](https://www.computerweekly.com/news/252507034/UK-government-launches-first-national-artificial-intelligence-strategy)
+- [Newham aims to harness local talent to build data economy in London](https://www.computerweekly.com/news/252507023/Newham-aims-to-harness-local-talent-to-build-data-economy-in-London)
+- [Linode commits to NVMe storage infrastructure upgrade across its global datacentre portfolio](https://www.computerweekly.com/news/252507012/Linode-commits-to-NVMe-storage-infrastructure-upgrade-across-its-global-datacentre-portfolio)
+- [AI cannot be regulated by technical measures alone](https://www.computerweekly.com/news/252507021/AI-cannot-be-regulated-by-technical-measures-alone)
+- [Mastercard invests in digital competence training for five million very small businesses](https://www.computerweekly.com/news/252507022/Mastercard-invests-in-digital-competence-training-for-five-million-very-small-businesses)
+- [UK data plans aim to boost growth but will they isolate the UK from its international friends?](https://www.computerweekly.com/opinion/UK-data-plans-data-plans-aim-to-boost-growth-but-will-they-isolate-us-its-international-friends)
+- [Legacy, unautomated IT was root cause of human error in pensions underpayment](https://www.computerweekly.com/news/252507017/Legacy-unautomated-IT-was-root-cause-of-human-error-in-pensions-underpayment)
+- [Foreign professionals and upskilled locals in demand as UAE sets ambitious coding targets](https://www.computerweekly.com/news/252506908/Foreign-professionals-and-upskilled-locals-in-demand-as-UAE-sets-ambitious-coding-targets)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

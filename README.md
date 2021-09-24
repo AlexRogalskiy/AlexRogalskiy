@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Eastlink announces $26 million mobile network expansion project in New Brunswick](https://www.itworldcanada.com/article/eastlink-announces-26-million-mobile-network-expansion-project-in-new-brunswick/459038)
+- [Get ready for Windows 11 with these tips](https://www.itworldcanada.com/article/get-ready-for-windows-11-with-these-tips/459015)
+- [Questrade: Empowering users while delivering results](https://www.itworldcanada.com/article/questrade-empowering-users-while-delivering-results/458990)
+- [Bruce Discovery Search: A sky beam on data](https://www.itworldcanada.com/article/bruce-discovery-search-a-sky-beam-on-data/458984)
+- [Hashtag Trending Sept. 23- Apple Wallet for vaccine proof; U.S. Internet freedom; Amazon’s tech dressing rooms](https://www.itworldcanada.com/article/hashtag-trending-september-23-apple-wallet-for-vaccine-proof-u-s-internet-freedom-amazons-tech-dressing-rooms/458934)
 - [How a phishing-as-a-service operation works](https://www.itworldcanada.com/article/how-a-phishing-as-a-service-operation-works/458832)
 - [All the new Microsoft Surface devices announced today](https://www.itworldcanada.com/article/all-the-new-microsoft-surface-devices-announced-today/458845)
 - [Cyber Security Today, Sept. 22, 2021 – Epik breach has epic ramifications, misconfigurations by EventBuilder users  and phishing attacks on the aviation sector](https://www.itworldcanada.com/article/cyber-security-today-sept-22-2021-epik-breach-has-epic-ramifications-misconfigurations-by-eventbuilder-users-and-phishing-attacks-on-the-aviation-sector/458810)
 - [Hashtag Trending Sept. 22 – Facebook climate misinformation; Amazon’s creepy AI cameras; remote work changing cities](https://www.itworldcanada.com/article/hashtag-trending-september-22-facebook-climate-misinformation-amazons-creepy-ai-cameras-remote-work-changing-cities/458828)
 - [Salesforce goes all-in with Slack](https://www.itworldcanada.com/article/salesforce-goes-all-in-with-slack/458811)
-- [Pearson and Canadian edtech partner to level up digital math support across Canadian schools](https://www.itworldcanada.com/article/pearson-and-canadian-edtech-partner-to-level-up-digital-math-support-across-canadian-schools/458743)
-- [Ontarians are getting digital ID this fall: All you need to know](https://www.itworldcanada.com/article/ontarians-are-getting-digital-id-this-fall-all-you-need-to-know/458633)
-- [AI-infused planning and forecasting is reshaping the way finance teams work](https://www.itworldcanada.com/article/ai-infused-planning-and-forecasting-is-reshaping-the-way-finance-teams-work/458737)
-- [Coffee Briefing, Sept. 21, 2021 – all the tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-21-2021-all-the-tech-news-a-podcast-roundup-and-more/458726)
-- [Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate](https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The evolution of Apple's iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
+- [Podcast: Folding phones: The future of mobile?](https://www.computerworld.com/article/3634470/podcast-folding-phones-the-future-of-mobile.html#tk.rss_all)
+- [Android's underappreciated upgrade advantage](https://www.computerworld.com/article/3634113/android-upgrade-advantage.html#tk.rss_all)
+- [Jamf survey: Employees will quit for platform choice](https://www.computerworld.com/article/3634588/jamf-survey-employees-will-quit-for-platform-choice.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [How Windows 10 ends up a lot like Windows 7](https://www.computerworld.com/article/3634373/how-windows-10-ends-up-a-lot-like-windows-7.html#tk.rss_all)
 - [20+ iOS 15 changes that help you get things done](https://www.computerworld.com/article/3633682/20-ios-15-changes-that-help-you-get-things-done.html#tk.rss_all)
 - [MSRT vs. MSERT: When to use each Windows malware tool](https://www.computerworld.com/article/3631618/msrt-vs-msert-when-to-use-each-windows-malware-tool.html#tk.rss_all)
 - [Salesforce broadens Slack integrations across Customer360 apps](https://www.computerworld.com/article/3633886/salesforce-broadens-slack-integrations-across-customer360-apps.html#tk.rss_all)
 - [What is iCloud+ (and why should you use it)?](https://www.computerworld.com/article/3634029/what-is-icloud-and-why-should-you-use-it.html#tk.rss_all)
-- [Slack begins rolling out video and audio message ‘clips’](https://www.computerworld.com/article/3633933/slack-begins-rolling-out-video-and-audio-message-clips.html#tk.rss_all)
-- [My boss, the algorithm](https://www.computerworld.com/article/3633616/my-boss-the-algorithm.html#tk.rss_all)
-- [Microsoft releases new perpetual Office for enterprise](https://www.computerworld.com/article/3633903/microsoft-releases-new-perpetual-office-for-enterprise.html#tk.rss_all)
-- [BrandPost: Elevating Business Computing Everywhere](https://www.computerworld.com/article/3634028/elevating-business-computing-everywhere.html#tk.rss_all)
-- [A penchant for patching: After 20 years, the system’s still a mess](https://www.computerworld.com/article/3633645/a-penchant-for-patching-after-20-years-the-systems-still-a-mess.html#tk.rss_all)
-- [What’s not coming (yet) in iOS 15/iPadOS 15](https://www.computerworld.com/article/3633621/whats-not-coming-yet-in-ios-15ipados-15.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

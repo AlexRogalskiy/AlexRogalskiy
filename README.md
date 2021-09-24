@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [JP Morgan Chase to replace core banking system with Google-inspired cloud platform](https://www.computerweekly.com/news/252507033/JP-Morgan-Chase-to-replace-core-banking-system-with-Google-inspired-replacement)
-- [Dreamforce 2021: Benioff declares Salesforce as net zero and Slack ubiquitous across stack](https://www.computerweekly.com/news/252507026/Dreamforce-2021-Benioff-declares-Salesforce-as-net-zero-and-Slack-ubiquitous-across-stack)
-- [UK government launches first national artificial intelligence strategy](https://www.computerweekly.com/news/252507034/UK-government-launches-first-national-artificial-intelligence-strategy)
-- [Newham aims to harness local talent to build data economy in London](https://www.computerweekly.com/news/252507023/Newham-aims-to-harness-local-talent-to-build-data-economy-in-London)
-- [Linode commits to NVMe storage infrastructure upgrade across its global datacentre portfolio](https://www.computerweekly.com/news/252507012/Linode-commits-to-NVMe-storage-infrastructure-upgrade-across-its-global-datacentre-portfolio)
-- [AI cannot be regulated by technical measures alone](https://www.computerweekly.com/news/252507021/AI-cannot-be-regulated-by-technical-measures-alone)
-- [Mastercard invests in digital competence training for five million very small businesses](https://www.computerweekly.com/news/252507022/Mastercard-invests-in-digital-competence-training-for-five-million-very-small-businesses)
-- [UK data plans aim to boost growth but will they isolate the UK from its international friends?](https://www.computerweekly.com/opinion/UK-data-plans-data-plans-aim-to-boost-growth-but-will-they-isolate-us-its-international-friends)
-- [Legacy, unautomated IT was root cause of human error in pensions underpayment](https://www.computerweekly.com/news/252507017/Legacy-unautomated-IT-was-root-cause-of-human-error-in-pensions-underpayment)
-- [Foreign professionals and upskilled locals in demand as UAE sets ambitious coding targets](https://www.computerweekly.com/news/252506908/Foreign-professionals-and-upskilled-locals-in-demand-as-UAE-sets-ambitious-coding-targets)
+- [Tech job adverts increasing outside London bubble](https://www.computerweekly.com/news/252507086/Tech-job-adverts-increasing-outside-London-bubble)
+- [Regulator concerns about resilience and security could slow cloud adoption in financial services](https://www.computerweekly.com/news/252507100/Regulator-concerns-about-resilience-and-security-could-slow-cloud-adoption-in-financial-services)
+- [Fresh alert over Conti ransomware surge](https://www.computerweekly.com/news/252507084/Fresh-alert-over-Conti-ransomware-surge)
+- [European cloud providers are growing revenue but losing market share, Synergy data shows](https://www.computerweekly.com/news/252507079/European-cloud-providers-are-growing-revenue-but-losing-market-share-Synergy-data-shows)
+- [MoD in second leak of Afghan citizens’ data](https://www.computerweekly.com/news/252507078/MoD-in-second-leak-of-Afghan-citizens-data)
+- [Tech Nation announces 15 startups for 10th Future Fifty cohort](https://www.computerweekly.com/news/252507076/Tech-Nation-announces-15-startups-for-tenth-Future-Fifty-cohort)
+- [Threat actors target VMware vCenter Server users](https://www.computerweekly.com/news/252507073/Threat-actors-target-VMware-vCenter-Server-users)
+- [Authorised push payment  fraud sees huge increase as criminals switch tactics](https://www.computerweekly.com/news/252507072/Authorised-push-payment-fraud-sees-huge-increase-as-criminals-switch-tactics)
+- [SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May](https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May)
+- [Government digital chief outlines extent of legacy IT challenge](https://www.computerweekly.com/news/252507067/Government-digital-chief-outlines-extent-of-legacy-IT-challenge)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

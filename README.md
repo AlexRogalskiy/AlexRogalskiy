@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The energy crisis no one saw coming – podcast](https://www.theguardian.com/news/audio/2021/sep/23/the-energy-crisis-no-one-saw-coming-podcast)
-- [Thousands of civilians flee Myanmar town after military clash with rebels](https://www.theguardian.com/world/2021/sep/23/thousands-of-civilians-flee-myanmar-town-after-military-clash-with-rebels)
-- [‘Would you like Pfizer with that?’ New Zealanders could get Covid jab with fast-food fix](https://www.theguardian.com/world/2021/sep/23/would-you-like-pfizer-with-that-new-zealanders-could-get-covid-jab-with-fast-food-fix)
-- [Biden administration to reopen migrant detention camp near Guantánamo Bay prison](https://www.theguardian.com/us-news/2021/sep/22/guantanamo-bay-migrant-camp-biden-reopen)
-- [Scientists use AI to create drug regime for rare form of brain cancer in children](https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children)
-- [World Rugby to introduce new guidelines to reduce contact training](https://www.theguardian.com/sport/2021/sep/23/world-rugby-to-introduce-new-guidelines-to-reduce-contact-training)
-- [Melvin Van Peebles, groundbreaking playwright and director, dies at age 89](https://www.theguardian.com/film/2021/sep/22/melvin-van-peebles-groundbreaking-playwright-director-dies)
-- [Hawaii to remove forbidden staircase due to ‘rampant trespassing’](https://www.theguardian.com/us-news/2021/sep/22/hawaii-stairway-to-heaven-trail-remove)
-- [Britney Spears says she agrees with father that conservatorship should end](https://www.theguardian.com/music/2021/sep/22/britney-spears-end-conservatorship-father)
-- [Sex Actually With Alice Levine review – the cam couples turning love into porn](https://www.theguardian.com/tv-and-radio/2021/sep/22/sex-actually-with-alice-levine-review-the-cam-couples-turning-love-into-porn)
+- [Jacinda Ardern looks to life beyond lockdowns with 90% vaccination target](https://www.theguardian.com/world/2021/sep/24/jacinda-ardern-looks-to-life-beyond-lockdowns-with-90-vaccination-target)
+- [Gabby Petito case: Brian Laundrie charged with illegal bank card use](https://www.theguardian.com/us-news/2021/sep/23/gabby-petito-brian-laundrie-latest-bank-card)
+- [Keir Starmer’s make-or-break conference week](https://www.theguardian.com/news/audio/2021/sep/24/keir-starmers-make-or-break-conference-week-podcast)
+- [China sends jets and bombers near Taiwan as Beijing opposes island’s trade deal bid](https://www.theguardian.com/world/2021/sep/24/china-sends-jets-and-bombers-near-taiwan-as-beijing-opposes-islands-trade-deal-bid)
+- [Talking Horses: Modern Games may jet to the US for Breeders’ Cup](https://www.theguardian.com/sport/2021/sep/23/modern-games-may-jet-to-the-us-for-breed-after-newmarket-romp-horse-racing-tips)
+- [Liz Truss accused of treating equalities role as ‘side hustle’](https://www.theguardian.com/politics/2021/sep/24/liz-truss-accused-of-treating-equalities-role-as-side-hustle)
+- [One in five UK eating disorder patients forced to pay for private care](https://www.theguardian.com/society/2021/sep/24/one-in-five-uk-eating-disorder-patients-forced-pay-private-care)
+- [Vast area of Scottish Highlands to be rewilded in ambitious 30-year project](https://www.theguardian.com/environment/2021/sep/24/vast-area-of-scottish-highlands-to-be-rewilded-in-ambitious-30-year-project-aoe)
+- [UK restaurants to be banned from keeping staff tips](https://www.theguardian.com/business/2021/sep/24/uk-restaurants-to-be-banned-from-keeping-staff-tips)
+- [Primary Sats tests in England ‘do not appear to harm children’s wellbeing’](https://www.theguardian.com/education/2021/sep/24/primary-school-sats-tests-england-harm-mental-health-ucl)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

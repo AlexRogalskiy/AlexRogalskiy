@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [6 great new Java features you don’t want to miss](https://www.infoworld.com/article/3633638/6-great-new-java-features-you-dont-want-to-miss.html#tk.rss_all)
+- [Easy racing bar charts in R with ddplot](https://www.infoworld.com/article/3633448/easy-racing-bar-charts-in-r-with-ddplot.html#tk.rss_all)
 - [Swift 5.5 introduces async/await, structured concurrency, and actors](https://www.infoworld.com/article/3634448/swift-55-introduces-asyncawait-structured-concurrency-and-actors.html#tk.rss_all)
 - [Open source skills only got hotter during the pandemic](https://www.infoworld.com/article/3634131/open-source-skills-only-got-hotter-during-the-pandemic.html#tk.rss_all)
 - [Get started with Go testing](https://www.infoworld.com/article/3633659/get-started-with-go-testing.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_all)
 - [What's the real value of multicloud redundancy?](https://www.infoworld.com/article/3633901/whats-the-real-value-of-multicloud-redundancy.html#tk.rss_all)
 - [Oracle v. Google: What the verdict means for open source](https://www.infoworld.com/article/3633668/oracle-v-google-what-the-verdict-means-for-open-source.html#tk.rss_all)
-- [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
-- [GitLab’s S-1 points to an integrated devops future](https://www.infoworld.com/article/3633931/gitlab-s-s-1-points-to-an-integrated-devops-future.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

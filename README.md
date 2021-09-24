@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Community Building basics (Part 1)](https://zoonromanticon.substack.com/p/community-building-basics)
-- [People with migraines get less REM sleep, study finds](https://lite.cnn.com/en/article/h_4f95a648b6024f0a7983ed37485eb0d7)
-- [Up to 16-foot waves forecast near Chicago](https://lite.cnn.com/en/article/h_b534dbb69e75f7bd1ed9174e7c442ccb)
-- [Facebook Ordered to Release Records on Closed Myanmar Accounts](https://www.wsj.com/articles/facebook-ordered-to-release-records-on-closed-myanmar-accounts-11632360776)
-- [Theranos Trial: texts described herself as ‘best business person of the year’](https://www.cnbc.com/2021/09/22/elizabeth-holmes-private-text-messages-leak-during-theranos-fraud-trial.html)
-- [How to Use Gmail Fetcher for Your Professional Emails on Namecheap or Any Cpanel](https://www.instarlaxy.com/blog/importing-your-domain-email-account-into-gmail-namecheap-or-any-cpanel/)
-- [Google Cloud/Workspace sending erroneous suspension/non-payment notices](https://news.ycombinator.com/item?id=28624486)
-- [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
-- [Robinhood Announces Crypto Wallets](https://blog.robinhood.com/news/2021/9/22/crypto-wallets-are-coming-to-robinhood)
-- [Apple Privacy Measures Reduce Facebook Ad Tracking by 15%](https://www.facebook.com/noscript://)
+- [Cell-free chemoenzymatic starch synthesis from carbon dioxide](https://www.science.org/action/cookieAbsent)
+- [Projects for React and the Static Web](https://50reactprojects.com/)
+- [Uber to pay pensions to all its UK drivers, backdated to 2017](https://www.theguardian.com/technology/2021/sep/24/uber-to-pay-pensions-to-all-its-uk-drivers-backdated-to-2017)
+- [Ways to trigger Terraform cloud runs from GitHub](https://brendanthompson.com/posts/2021/09/triggering-terraform-cloud-runs-from-github)
+- [The New Space Empires](https://antonhowes.substack.com/p/age-of-invention-the-new-space-empires)
+- [HTTP State Management Mechanism](https://datatracker.ietf.org/doc/html/rfc6265)
+- [Miniflare Now Part of Cloudflare](https://twitter.com/_mrbbot/status/1441143456106094595)
+- [Preparing for Technical Interviews](https://www.youtube.com/watch?v=QPbVQKEEEYk)
+- [CEO Stress, Aging, and Death](https://news.ycombinator.com/item?id=28637807)
+- [The Suppressed Electrodynamics of Ampère-Gauss-Weber [pdf]](https://www.physics.princeton.edu/~mcdonald/examples/weber.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

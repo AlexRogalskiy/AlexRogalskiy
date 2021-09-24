@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Biomarkers of dairy fat intake, cardiovascular disease, and all-cause mortality](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
-- [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
-- [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
-- [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
-- [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
-- [Spotify Box](https://evanhailey.com/2021/09/20/spot-box/)
-- [Google Drive of historical footage locked and flagged as terrorist activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
-- [Lab-grown meat may never be cost-competitive enough to displace traditional meat](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
-- [Micro-Max, a 133-line Chess Source](https://home.hccnet.nl/h.g.muller/max-src2.html)
-- [How we got to LiveView](https://fly.io/blog/how-we-got-to-liveview/)
+- [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
+- [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
+- [Apple's Power Move to Kneecap Facebook Advertising Is Working](https://bigtechnology.substack.com/p/completely-running-blind-apples-power)
+- [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
+- [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
+- [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
+- [A Tour of Grant Imahara’s Shop [video]](https://www.youtube.com/watch?v=hsCSTO8SaQU)
+- [Epic launches anti-cheat support for Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

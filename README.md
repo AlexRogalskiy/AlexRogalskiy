@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [IT systems failure blights UK Border Force electronic passport gates](https://www.computerweekly.com/news/252507175/IT-systems-failure-blights-UK-Border-Force-electronic-passport-gates)
+- [Digdata partners with Facebook to encourage future data talent](https://www.computerweekly.com/news/252507169/Digdata-partners-with-Facebook-to-encourage-future-data-talent)
+- [IR35 reforms: HMRC confirms compliance checks under way in financial services, oil and gas sectors](https://www.computerweekly.com/news/252507165/IR35-reforms-HMRC-confirms-compliance-checks-under-way-in-financial-services-oil-and-gas-sectors)
+- [Big Data London: Mitigate AI bias rather than try to remove it, say experts](https://www.computerweekly.com/news/252507142/Big-Data-London-Mitigate-AI-bias-rather-than-try-to-remove-it-say-experts)
+- [Big Data London: NHS Digital data service struggled with Covid testing demands](https://www.computerweekly.com/news/252507136/Big-Data-London-NHS-Digital-data-service-struggled-with-Covid-testing-demands)
+- [IBM ramps up quantum education initiative](https://www.computerweekly.com/news/252507140/IBM-ramps-up-Quantum-education-initiative)
+- [Facial recognition cannot be a standalone authentication method](https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method)
+- [London publishes guidelines for ethical use of smart city tech](https://www.computerweekly.com/news/252507107/London-publishes-guidelines-for-ethical-use-of-smart-city-tech)
+- [HMRC postpones Making Tax Digital until 2024](https://www.computerweekly.com/news/252507113/HMRC-postpones-Making-Tax-Digital-until-2024)
 - [Tech job adverts increasing outside London bubble](https://www.computerweekly.com/news/252507086/Tech-job-adverts-increasing-outside-London-bubble)
-- [Regulator concerns about resilience and security could slow cloud adoption in financial services](https://www.computerweekly.com/news/252507100/Regulator-concerns-about-resilience-and-security-could-slow-cloud-adoption-in-financial-services)
-- [Fresh alert over Conti ransomware surge](https://www.computerweekly.com/news/252507084/Fresh-alert-over-Conti-ransomware-surge)
-- [European cloud providers are growing revenue but losing market share, Synergy data shows](https://www.computerweekly.com/news/252507079/European-cloud-providers-are-growing-revenue-but-losing-market-share-Synergy-data-shows)
-- [MoD in second leak of Afghan citizens’ data](https://www.computerweekly.com/news/252507078/MoD-in-second-leak-of-Afghan-citizens-data)
-- [Tech Nation announces 15 startups for 10th Future Fifty cohort](https://www.computerweekly.com/news/252507076/Tech-Nation-announces-15-startups-for-tenth-Future-Fifty-cohort)
-- [Threat actors target VMware vCenter Server users](https://www.computerweekly.com/news/252507073/Threat-actors-target-VMware-vCenter-Server-users)
-- [Authorised push payment  fraud sees huge increase as criminals switch tactics](https://www.computerweekly.com/news/252507072/Authorised-push-payment-fraud-sees-huge-increase-as-criminals-switch-tactics)
-- [SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May](https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May)
-- [Government digital chief outlines extent of legacy IT challenge](https://www.computerweekly.com/news/252507067/Government-digital-chief-outlines-extent-of-legacy-IT-challenge)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

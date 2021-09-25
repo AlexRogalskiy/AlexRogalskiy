@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
-- [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
-- [Apple's Power Move to Kneecap Facebook Advertising Is Working](https://bigtechnology.substack.com/p/completely-running-blind-apples-power)
-- [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
-- [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
-- [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
-- [A Tour of Grant Imahara’s Shop [video]](https://www.youtube.com/watch?v=hsCSTO8SaQU)
-- [Epic launches anti-cheat support for Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
+- [I Am Not Satoshi Nakamoto](https://www.schneier.com/blog/archives/2021/09/i-am-not-satoshi-nakamoto.html)
+- [Limits on Toilet Paper and Cleaning Supplies Are Back at Costco](https://www.npr.org/sections/coronavirus-live-updates/2021/09/24/1040471872/limits-toilet-paper-cleaning-supplies-costco-delta-covid)
+- [Facebook Is Other People](https://kevinmunger.substack.com/p/facebook-is-other-people)
+- [Tree-ring dating of musical instruments](https://doi.org/10.1126/science.abj3823)
+- [AMD’s Lisa Su Breaks Through the Silicon Ceiling](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
+- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
+- [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
+- [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

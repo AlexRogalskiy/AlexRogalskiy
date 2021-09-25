@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Eastlink announces $26 million mobile network expansion project in New Brunswick](https://www.itworldcanada.com/article/eastlink-announces-26-million-mobile-network-expansion-project-in-new-brunswick/459038)
-- [Get ready for Windows 11 with these tips](https://www.itworldcanada.com/article/get-ready-for-windows-11-with-these-tips/459015)
-- [Questrade: Empowering users while delivering results](https://www.itworldcanada.com/article/questrade-empowering-users-while-delivering-results/458990)
-- [Bruce Discovery Search: A sky beam on data](https://www.itworldcanada.com/article/bruce-discovery-search-a-sky-beam-on-data/458984)
-- [Hashtag Trending Sept. 23- Apple Wallet for vaccine proof; U.S. Internet freedom; Amazon’s tech dressing rooms](https://www.itworldcanada.com/article/hashtag-trending-september-23-apple-wallet-for-vaccine-proof-u-s-internet-freedom-amazons-tech-dressing-rooms/458934)
-- [How a phishing-as-a-service operation works](https://www.itworldcanada.com/article/how-a-phishing-as-a-service-operation-works/458832)
-- [All the new Microsoft Surface devices announced today](https://www.itworldcanada.com/article/all-the-new-microsoft-surface-devices-announced-today/458845)
-- [Cyber Security Today, Sept. 22, 2021 – Epik breach has epic ramifications, misconfigurations by EventBuilder users  and phishing attacks on the aviation sector](https://www.itworldcanada.com/article/cyber-security-today-sept-22-2021-epik-breach-has-epic-ramifications-misconfigurations-by-eventbuilder-users-and-phishing-attacks-on-the-aviation-sector/458810)
-- [Hashtag Trending Sept. 22 – Facebook climate misinformation; Amazon’s creepy AI cameras; remote work changing cities](https://www.itworldcanada.com/article/hashtag-trending-september-22-facebook-climate-misinformation-amazons-creepy-ai-cameras-remote-work-changing-cities/458828)
-- [Salesforce goes all-in with Slack](https://www.itworldcanada.com/article/salesforce-goes-all-in-with-slack/458811)
+- [How to Measure Anything: Finding the Value of Intangibles](https://www.itworldcanada.com/article/how-to-measure-anything-finding-the-value-of-intangibles/459122)
+- [Data for Good Case Study: Hike Nova Scotia Survey 2020](https://www.itworldcanada.com/article/data-for-good-case-study-hike-nova-scotia-survey-2020/459119)
+- [Common Errors and Bloopers of Data Visualization: Solutions on How to Avoid Them](https://www.itworldcanada.com/article/common-errors-and-bloopers-of-data-visualization-solutions-on-how-to-avoid-them/459117)
+- [Cyber Security Today, Week in Review for Sept. 24, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-24-2021/458972)
+- [How Analytics Have Changed in the Last 10 Years: Analytics on the Edge](https://www.itworldcanada.com/article/how-analytics-have-changed-in-the-last-10-years-analytics-on-the-edge/459108)
+- [Xplornet launches first rural standlone 5G network](https://www.itworldcanada.com/article/xplornet-launches-first-rural-standlone-5g-network/459048)
+- [IBM Canada opens new cloud centre to help Canadian government with cloud modernization](https://www.itworldcanada.com/article/ibm-canada-opens-new-cloud-centre-to-help-canadian-government-with-cloud-modernization/459061)
+- [Cisco Systems, SonicWall and VMware issue important patches](https://www.itworldcanada.com/article/cisco-systems-sonicwall-and-vmware-issue-important-patches/459068)
+- [Cyber Security Today, Sept. 24, 2021 – A new hacking group discovered, another COVID text scam found, ransomware advice and more](https://www.itworldcanada.com/article/cyber-security-today-sept-24-2021-a-new-hacking-group-discovered-another-covid-text-scam-found-ransomware-advice-and-more/459049)
+- [Hashtag Trending September 24 – European Commission Mandates USB-C; Social Media Platforms Sue Texas; Fedex’s Autonomous Delivery](https://www.itworldcanada.com/article/hashtag-trending-september-24-european-commission-mandates-usb-c-social-media-platforms-sue-texas-fedexs-autonomous-delivery/459033)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

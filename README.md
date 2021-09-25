@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [Canadian Olympians Owe Gold to Data Visualization](https://www.informationweek.com/big-data/software-platforms/canadian-olympians-owe-gold-to-data-visualization-/d/d-id/1341581?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [How to Explain Complex Technology Issues to Business Leaders](https://www.informationweek.com/strategic-cio/how-to-explain-complex-technology-issues-to-business-leaders/a/d-id/1341570?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why ING Entrusted Core Dev Needs to Low Code/No Code](https://www.informationweek.com/devops/project-management/why-ing-entrusted-core-dev-needs-to-low-code-no-code/a/d-id/1341579?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [In the Age of Telework, Protection Is Prerequisite](https://www.informationweek.com/infrastructure/net-security/in-the-age-of-telework-protection-is-prerequisite/a/d-id/1341573?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [SolarWinds CEO Talks Securing IT in the Wake of Sunburst](https://www.informationweek.com/strategic-cio/security-and-risk-strategy/solarwinds-ceo-talks-securing-it-in-the-wake-of-sunburst/a/d-id/1341582?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [The Cybersecurity Minefield of Cloud Entitlements](https://www.informationweek.com/cloud/the-cybersecurity-minefield-of-cloud-entitlements/d/d-id/1341577?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [SAS Announces Plan to Get IPO Ready](https://www.informationweek.com/big-data/software-platforms/sas-announces-plan-to-get-ipo-ready/d/d-id/1341580?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Cloud Security Basics CIOs and CTOs Should Know](https://www.informationweek.com/cloud/cloud-security-basics-cios-and-ctos-should-know/a/d-id/1341578?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Should You Trust Low Code/No Code for Mission-Critical Applications?](https://www.informationweek.com/software/should-you-trust-low-code-no-code-for-mission-critical-applications/a/d-id/1341569?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Don't Lose IT Employees During the Great Resignation](https://www.informationweek.com/strategic-cio/team-building-and-staffing/dont-lose-it-employees-during-the-great-resignation/a/d-id/1341575?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
+- [When to Pull the Plug on a Failing IT Project](https://www.informationweek.com/strategic-cio/when-to-pull-the-plug-on-a-failing-it-project)
+- [3 Ways to Do AIOps Right in Cloud-Native Environments](https://www.informationweek.com/cloud/3-ways-to-do-aiops-right-in-cloud-native-environments)
+- [Pros and Cons of Being a CIO at a Non-Profit Entity](https://www.informationweek.com/strategic-cio/pros-and-cons-of-being-a-cio-at-a-non-profit-entity)
+- [Ways to Prevent Multi-Cloud Mayhem](https://www.informationweek.com/cloud/ways-to-prevent-multi-cloud-mayhem)
+- [IT Talent Shortage Hobbles Emerging Tech Adoption](https://www.informationweek.com/team-building-and-staffing/it-talent-shortage-hobbles-emerging-tech-adoption)
+- [How to Get the Most out of an Acquired Company’s Technology](https://www.informationweek.com/executive-insights-and-innovation/how-to-get-the-most-out-of-an-acquired-company-s-technology)
+- [The IT Skills Shortage Expands and Deepens](https://www.informationweek.com/team-building-and-staffing/the-it-skills-shortage-expands-and-deepens)
+- [Identifying Tool Sprawl and Its Impact on Your Company](https://www.informationweek.com/enterprise-agility/identifying-tool-sprawl-and-its-impact-on-your-company)
+- [JLL CIO: Hybrid Work, AI, and a Data and Tech Revolution](https://www.informationweek.com/ai-or-machine-learning/jll-cio-hybrid-work-ai-and-a-data-and-tech-revolution)
+- [How Enterprises Can Tackle Misinformation in the Workplace](https://www.informationweek.com/big-data-analytics/how-enterprises-can-tackle-misinformation-in-the-workplace)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

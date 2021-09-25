@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jacinda Ardern looks to life beyond lockdowns with 90% vaccination target](https://www.theguardian.com/world/2021/sep/24/jacinda-ardern-looks-to-life-beyond-lockdowns-with-90-vaccination-target)
-- [Gabby Petito case: Brian Laundrie charged with illegal bank card use](https://www.theguardian.com/us-news/2021/sep/23/gabby-petito-brian-laundrie-latest-bank-card)
-- [Keir Starmer’s make-or-break conference week](https://www.theguardian.com/news/audio/2021/sep/24/keir-starmers-make-or-break-conference-week-podcast)
-- [China sends jets and bombers near Taiwan as Beijing opposes island’s trade deal bid](https://www.theguardian.com/world/2021/sep/24/china-sends-jets-and-bombers-near-taiwan-as-beijing-opposes-islands-trade-deal-bid)
-- [Talking Horses: Modern Games may jet to the US for Breeders’ Cup](https://www.theguardian.com/sport/2021/sep/23/modern-games-may-jet-to-the-us-for-breed-after-newmarket-romp-horse-racing-tips)
-- [Liz Truss accused of treating equalities role as ‘side hustle’](https://www.theguardian.com/politics/2021/sep/24/liz-truss-accused-of-treating-equalities-role-as-side-hustle)
-- [One in five UK eating disorder patients forced to pay for private care](https://www.theguardian.com/society/2021/sep/24/one-in-five-uk-eating-disorder-patients-forced-pay-private-care)
-- [Vast area of Scottish Highlands to be rewilded in ambitious 30-year project](https://www.theguardian.com/environment/2021/sep/24/vast-area-of-scottish-highlands-to-be-rewilded-in-ambitious-30-year-project-aoe)
-- [UK restaurants to be banned from keeping staff tips](https://www.theguardian.com/business/2021/sep/24/uk-restaurants-to-be-banned-from-keeping-staff-tips)
-- [Primary Sats tests in England ‘do not appear to harm children’s wellbeing’](https://www.theguardian.com/education/2021/sep/24/primary-school-sats-tests-england-harm-mental-health-ucl)
+- [Canadian PM Trudeau says detained citizens Michael Kovrig and Michael Spavor have left China](https://www.theguardian.com/world/2021/sep/25/canadian-pm-trudeau-says-detained-citizens-michael-kovrig-and-michael-spavor-have-left-china)
+- [Biden will make ‘case-by-case’ decision on executive privilege over Capitol riot records – as it happened](https://www.theguardian.com/us-news/live/2021/sep/24/arizona-audit-trump-lost-votes-biden-us-politics-live-updates)
+- [Ryder Cup: Europe left with mountain to climb as USA dominate first day](https://www.theguardian.com/sport/2021/sep/25/ryder-cup-golf-day-one-report-usa-europe)
+- [‘A bit of a mystery’: why hospital admissions for Covid in England are going down](https://www.theguardian.com/world/2021/sep/24/a-bit-of-a-mistery-why-england-covid-cases-are-going-down-despite-ease-of-restrictions)
+- [Covid live: case rates decrease in England amid higher numbers in rest of UK; Norway to end restrictions](https://www.theguardian.com/world/live/2021/sep/24/coronavirus-live-news-fewer-than-4-of-africans-vaccinated-who-backs-regeneron-for-high-risk-patients)
+- [Andrew Neil ‘almost had breakdown’ at GB News](https://www.theguardian.com/media/2021/sep/24/andrew-neil-almost-had-breakdown-at-gb-news)
+- [Prince Andrew accepts he has been served in US sexual assault lawsuit](https://www.theguardian.com/uk-news/2021/sep/24/prince-andrew-accepts-he-has-been-served-in-us-sexual-assault-lawsuit)
+- [Labour would empower unions to drive up wages, says Angela Rayner](https://www.theguardian.com/politics/2021/sep/24/labour-would-empower-unions-to-drive-up-wages-says-angela-rayner)
+- [Anthony Joshua stirred by local clubland memories before Usyk test](https://www.theguardian.com/sport/2021/sep/24/anthony-joshua-oleksandr-usyk-tottenham-boxing-test)
+- [Nuno Espírito Santo admits he ignores heading advice in Tottenham training](https://www.theguardian.com/football/2021/sep/24/nuno-espirito-santo-admits-he-ignores-heading-advice-in-tottenham-training)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

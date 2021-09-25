@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Apple needs to act against fake app-privacy promises](https://www.computerworld.com/article/3634595/apple-needs-to-act-against-fake-app-privacy-promises.html#tk.rss_all)
+- [The problem with the subscription economy](https://www.computerworld.com/article/3634591/the-problem-with-the-subscription-economy.html#tk.rss_all)
+- [10 top file-sharing services: Dropbox, Box, Google Drive, OneDrive, and more](https://www.computerworld.com/article/3632983/top-file-sharing-services-dropbox-box-google-drive-onedrive-more.html#tk.rss_all)
+- [Microsoft’s Surface Laptop Studio: The perfect Windows 11 laptop?](https://www.computerworld.com/article/3634453/microsofts-surface-laptop-studio-the-perfect-windows-11-laptop.html#tk.rss_all)
 - [The evolution of Apple's iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
 - [Podcast: Folding phones: The future of mobile?](https://www.computerworld.com/article/3634470/podcast-folding-phones-the-future-of-mobile.html#tk.rss_all)
 - [Android's underappreciated upgrade advantage](https://www.computerworld.com/article/3634113/android-upgrade-advantage.html#tk.rss_all)
 - [Jamf survey: Employees will quit for platform choice](https://www.computerworld.com/article/3634588/jamf-survey-employees-will-quit-for-platform-choice.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [How Windows 10 ends up a lot like Windows 7](https://www.computerworld.com/article/3634373/how-windows-10-ends-up-a-lot-like-windows-7.html#tk.rss_all)
-- [20+ iOS 15 changes that help you get things done](https://www.computerworld.com/article/3633682/20-ios-15-changes-that-help-you-get-things-done.html#tk.rss_all)
-- [MSRT vs. MSERT: When to use each Windows malware tool](https://www.computerworld.com/article/3631618/msrt-vs-msert-when-to-use-each-windows-malware-tool.html#tk.rss_all)
-- [Salesforce broadens Slack integrations across Customer360 apps](https://www.computerworld.com/article/3633886/salesforce-broadens-slack-integrations-across-customer360-apps.html#tk.rss_all)
-- [What is iCloud+ (and why should you use it)?](https://www.computerworld.com/article/3634029/what-is-icloud-and-why-should-you-use-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cell-free chemoenzymatic starch synthesis from carbon dioxide](https://www.science.org/action/cookieAbsent)
-- [Projects for React and the Static Web](https://50reactprojects.com/)
-- [Uber to pay pensions to all its UK drivers, backdated to 2017](https://www.theguardian.com/technology/2021/sep/24/uber-to-pay-pensions-to-all-its-uk-drivers-backdated-to-2017)
-- [Ways to trigger Terraform cloud runs from GitHub](https://brendanthompson.com/posts/2021/09/triggering-terraform-cloud-runs-from-github)
-- [The New Space Empires](https://antonhowes.substack.com/p/age-of-invention-the-new-space-empires)
-- [HTTP State Management Mechanism](https://datatracker.ietf.org/doc/html/rfc6265)
-- [Miniflare Now Part of Cloudflare](https://twitter.com/_mrbbot/status/1441143456106094595)
-- [Preparing for Technical Interviews](https://www.youtube.com/watch?v=QPbVQKEEEYk)
-- [CEO Stress, Aging, and Death](https://news.ycombinator.com/item?id=28637807)
-- [The Suppressed Electrodynamics of Ampère-Gauss-Weber [pdf]](https://www.physics.princeton.edu/~mcdonald/examples/weber.pdf)
+- [Millions Still Months Behind on Rent After Eviction Moratorium Ends](https://www.cbpp.org/blog/millions-still-months-behind-on-rent-after-eviction-moratorium-ends)
+- [The Fed has signalled an inflection point](https://www.ft.com/content/becc9a89-6c06-4ace-a380-736cedb2fcc1)
+- [High U.S. Meat Prices Are Here to Stay Amid Depleted Reserves](https://www.bloomberg.com/news/articles/2021-09-22/high-u-s-meat-prices-are-here-to-stay-amid-depleted-reserves)
+- [The Pandemic Seems to Have Made Childhood Obesity Worse, but There’s Hope](https://www.nytimes.com/2021/06/24/magazine/childhood-obesity-pandemic.html)
+- [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
+- [So What If Aliens’ Quantum Computers Explain Dark Energy?](https://www.wired.com/story/so-what-if-aliens-quantum-computers-explain-dark-energy/)
+- [Enabling Safari Extensions with the macOS Catalina Patcher](https://uglyduck.ca/safari-extensions-catalina-patcher/)
+- [RTC (Real-Time Communication) at Scale](http://horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
+- [Coverage Is Not Strongly Correlated with Test Suite Effectiveness](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html)
+- [Flying Microchips the Size of a Sand Grain Used to Monitor Air Quality](https://eandt.theiet.org/content/articles/2021/09/flying-microchips-the-size-of-a-grain-of-sand-used-to-monitor-air-quality/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

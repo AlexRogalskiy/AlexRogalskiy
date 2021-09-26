@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Am Not Satoshi Nakamoto](https://www.schneier.com/blog/archives/2021/09/i-am-not-satoshi-nakamoto.html)
-- [Limits on Toilet Paper and Cleaning Supplies Are Back at Costco](https://www.npr.org/sections/coronavirus-live-updates/2021/09/24/1040471872/limits-toilet-paper-cleaning-supplies-costco-delta-covid)
-- [Facebook Is Other People](https://kevinmunger.substack.com/p/facebook-is-other-people)
-- [Tree-ring dating of musical instruments](https://doi.org/10.1126/science.abj3823)
-- [AMD’s Lisa Su Breaks Through the Silicon Ceiling](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
-- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
-- [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
-- [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
+- [JSFuck](http://www.jsfuck.com/)
+- [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
+- [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
+- [Show HN: LIV is a webmail front-end for your personal email server](https://github.com/derek-zhou/liv)
+- [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
+- [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
+- [How to Deal with Complexity Like a Pilot (Part 1)](https://www.franklinfaraday.com/how-to-deal-with-complexity-like-a-pilot-part-1/)
+- [The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
+- [Modern Communication: Sockets (2014)](https://ocaml.github.io/ocamlunix/sockets.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

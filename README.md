@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Millions Still Months Behind on Rent After Eviction Moratorium Ends](https://www.cbpp.org/blog/millions-still-months-behind-on-rent-after-eviction-moratorium-ends)
-- [The Fed has signalled an inflection point](https://www.ft.com/content/becc9a89-6c06-4ace-a380-736cedb2fcc1)
-- [High U.S. Meat Prices Are Here to Stay Amid Depleted Reserves](https://www.bloomberg.com/news/articles/2021-09-22/high-u-s-meat-prices-are-here-to-stay-amid-depleted-reserves)
-- [The Pandemic Seems to Have Made Childhood Obesity Worse, but There’s Hope](https://www.nytimes.com/2021/06/24/magazine/childhood-obesity-pandemic.html)
-- [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
-- [So What If Aliens’ Quantum Computers Explain Dark Energy?](https://www.wired.com/story/so-what-if-aliens-quantum-computers-explain-dark-energy/)
-- [Enabling Safari Extensions with the macOS Catalina Patcher](https://uglyduck.ca/safari-extensions-catalina-patcher/)
-- [RTC (Real-Time Communication) at Scale](http://horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html)
-- [Coverage Is Not Strongly Correlated with Test Suite Effectiveness](https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html)
-- [Flying Microchips the Size of a Sand Grain Used to Monitor Air Quality](https://eandt.theiet.org/content/articles/2021/09/flying-microchips-the-size-of-a-grain-of-sand-used-to-monitor-air-quality/)
+- [Exiting the Matrix](https://www.youtube.com/watch?v=QQdKbpeRe-Y)
+- [Covid-19 Vaccine Mandate for New York City Teachers Blocked by Federal Judge](https://www.wsj.com/articles/covid-19-vaccine-mandate-for-new-york-city-teachers-blocked-by-federal-judge-11632589910)
+- [DRNets can solve Sudoku, speed scientific discovery](https://news.cornell.edu/stories/2021/09/drnets-can-solve-sudoku-speed-scientific-discovery)
+- [Flying by the Fat of the Sea: the secret of shorebirds’ marathon migrations](https://www.hakaimagazine.com/features/flying-by-the-fat-of-the-sea/)
+- [How to Train Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
+- [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
+- [Pre-Occupied](http://www.newyorker.com/magazine/2011/11/28/pre-occupied)
+- [New release of the simdjson library: version 1.0](https://lemire.me/blog/2021/09/25/new-release-of-the-simdjson-library-version-1-0/)
+- [Lofi beats with nice bass to listen while you code, study or work](https://open.spotify.com/playlist/03XGVdYSFum8T6McmcU998)
+- [New report provides road map for expanding chestnut agroforestry in the U.S.](https://news.mongabay.com/2021/07/new-report-provides-road-map-for-expanding-chestnut-agroforestry-in-the-u-s/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

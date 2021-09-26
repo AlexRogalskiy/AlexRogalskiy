@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canadian PM Trudeau says detained citizens Michael Kovrig and Michael Spavor have left China](https://www.theguardian.com/world/2021/sep/25/canadian-pm-trudeau-says-detained-citizens-michael-kovrig-and-michael-spavor-have-left-china)
-- [Biden will make ‘case-by-case’ decision on executive privilege over Capitol riot records – as it happened](https://www.theguardian.com/us-news/live/2021/sep/24/arizona-audit-trump-lost-votes-biden-us-politics-live-updates)
-- [Ryder Cup: Europe left with mountain to climb as USA dominate first day](https://www.theguardian.com/sport/2021/sep/25/ryder-cup-golf-day-one-report-usa-europe)
-- [‘A bit of a mystery’: why hospital admissions for Covid in England are going down](https://www.theguardian.com/world/2021/sep/24/a-bit-of-a-mistery-why-england-covid-cases-are-going-down-despite-ease-of-restrictions)
-- [Covid live: case rates decrease in England amid higher numbers in rest of UK; Norway to end restrictions](https://www.theguardian.com/world/live/2021/sep/24/coronavirus-live-news-fewer-than-4-of-africans-vaccinated-who-backs-regeneron-for-high-risk-patients)
-- [Andrew Neil ‘almost had breakdown’ at GB News](https://www.theguardian.com/media/2021/sep/24/andrew-neil-almost-had-breakdown-at-gb-news)
-- [Prince Andrew accepts he has been served in US sexual assault lawsuit](https://www.theguardian.com/uk-news/2021/sep/24/prince-andrew-accepts-he-has-been-served-in-us-sexual-assault-lawsuit)
-- [Labour would empower unions to drive up wages, says Angela Rayner](https://www.theguardian.com/politics/2021/sep/24/labour-would-empower-unions-to-drive-up-wages-says-angela-rayner)
-- [Anthony Joshua stirred by local clubland memories before Usyk test](https://www.theguardian.com/sport/2021/sep/24/anthony-joshua-oleksandr-usyk-tottenham-boxing-test)
-- [Nuno Espírito Santo admits he ignores heading advice in Tottenham training](https://www.theguardian.com/football/2021/sep/24/nuno-espirito-santo-admits-he-ignores-heading-advice-in-tottenham-training)
+- [Hong Kong Tiananmen vigil group disbands amid crackdown on dissent](https://www.theguardian.com/world/2021/sep/26/hong-kong-tiananmen-vigil-group-disbands-amid-crackdown-on-dissent)
+- [Kim Jong-un’s sister says North Korea open to talks with South if Seoul shows ‘respect’](https://www.theguardian.com/world/2021/sep/26/kim-jong-uns-sister-says-north-korea-open-to-talks-with-south-if-seoul-shows-respect)
+- [Petulant Brooks Koepka causes Ryder Cup storm as Europe hopes fade](https://www.theguardian.com/sport/2021/sep/26/petulant-brooks-koepka-causes-ryder-cup-storm-as-europe-hopes-fade)
+- [Boxing fans revel in cathartic energy of Anthony Joshua v Oleksandr Usyk | Sachin Nakrani](https://www.theguardian.com/sport/blog/2021/sep/26/boxing-fans-revel-in-cathartic-energy-of-anthony-joshua-v-oleksandr-usyk)
+- [Fears for 1 million furloughed staff with Sunak set to finally end scheme](https://www.theguardian.com/business/2021/sep/26/fears-for-1-million-furloughed-staff-with-sunak-set-to-finally-end-scheme)
+- [Oleksandr Usyk defeats Anthony Joshua to claim world heavyweight title](https://www.theguardian.com/sport/2021/sep/25/oleksandr-usyk-shocks-anthony-joshua-to-claim-world-heavyweight-title)
+- [The edit: Shoulder bags, 15 of the best in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/25/the-edit-shoulder-bags-15-of-the-best-in-pictures)
+- [Emma Raducanu commits to Australian Open despite strict quarantine laws](https://www.theguardian.com/sport/2021/sep/25/emma-raducanu-commits-to-australian-open-despite-strict-quarantine-laws)
+- [Pelosi: Biden spending plan, infrastructure deal and funding ‘must pass’ next week](https://www.theguardian.com/us-news/2021/sep/25/pelosi-biden-spending-plan-infrastructure-deal-government-funding-letter-democrats-republicans)
+- [European lorry drivers ‘will not want to come to UK’, warn haulage chiefs](https://www.theguardian.com/business/2021/sep/25/european-lorry-drivers-will-not-want-to-come-to-uk-warn-haulage-chiefs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

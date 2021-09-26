@@ -406,10 +406,10 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
 - [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
 - [Good help desk software?](https://www.reddit.com/r/InformationTechnology/comments/puixyc/good_help_desk_software/)
 - [UPS rage](https://www.reddit.com/r/InformationTechnology/comments/puhe07/ups_rage/)
-- [Data Policy Breach](https://www.reddit.com/r/InformationTechnology/comments/pudzas/data_policy_breach/)
 - [What is the mechanism, protocol, or port that sends a file when I copy+paste from RDP?](https://www.reddit.com/r/InformationTechnology/comments/ptp3vh/what_is_the_mechanism_protocol_or_port_that_sends/)
 - [DD-WRT vs PFSense](https://www.reddit.com/r/InformationTechnology/comments/ptm6ql/ddwrt_vs_pfsense/)
 - [Jobs I could get with a bachelors in IT?](https://www.reddit.com/r/InformationTechnology/comments/ptk7r6/jobs_i_could_get_with_a_bachelors_in_it/)

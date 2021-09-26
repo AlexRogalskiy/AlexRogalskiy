@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
 - [The real value of continuous security scanning for cloud-based workloads](https://www.infoworld.com/article/3634450/the-real-value-of-continuous-security-scanning-for-cloud-based-workloads.html#tk.rss_all)
 - [Deis Labs unveils Hippo PaaS for WebAssembly](https://www.infoworld.com/article/3634379/deis-labs-unveils-hippo-paas-for-webassembly.html#tk.rss_all)
 - [6 great new Java features you don’t want to miss](https://www.infoworld.com/article/3633638/6-great-new-java-features-you-dont-want-to-miss.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Get started with Go testing](https://www.infoworld.com/article/3633659/get-started-with-go-testing.html#tk.rss_all)
 - [Working with Azure Managed Instance for Cassandra](https://www.infoworld.com/article/3633603/working-with-azure-managed-instance-for-cassandra.html#tk.rss_all)
 - [How to choose the right data visualization tools for your apps](https://www.infoworld.com/article/3339679/how-to-choose-the-right-data-visualization-tools.html#tk.rss_all)
-- [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

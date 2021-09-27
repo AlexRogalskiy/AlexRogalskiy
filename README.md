@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong Tiananmen vigil group disbands amid crackdown on dissent](https://www.theguardian.com/world/2021/sep/26/hong-kong-tiananmen-vigil-group-disbands-amid-crackdown-on-dissent)
-- [Kim Jong-un’s sister says North Korea open to talks with South if Seoul shows ‘respect’](https://www.theguardian.com/world/2021/sep/26/kim-jong-uns-sister-says-north-korea-open-to-talks-with-south-if-seoul-shows-respect)
-- [Petulant Brooks Koepka causes Ryder Cup storm as Europe hopes fade](https://www.theguardian.com/sport/2021/sep/26/petulant-brooks-koepka-causes-ryder-cup-storm-as-europe-hopes-fade)
-- [Boxing fans revel in cathartic energy of Anthony Joshua v Oleksandr Usyk | Sachin Nakrani](https://www.theguardian.com/sport/blog/2021/sep/26/boxing-fans-revel-in-cathartic-energy-of-anthony-joshua-v-oleksandr-usyk)
-- [Fears for 1 million furloughed staff with Sunak set to finally end scheme](https://www.theguardian.com/business/2021/sep/26/fears-for-1-million-furloughed-staff-with-sunak-set-to-finally-end-scheme)
-- [Oleksandr Usyk defeats Anthony Joshua to claim world heavyweight title](https://www.theguardian.com/sport/2021/sep/25/oleksandr-usyk-shocks-anthony-joshua-to-claim-world-heavyweight-title)
-- [The edit: Shoulder bags, 15 of the best in pictures](https://www.theguardian.com/fashion/gallery/2021/sep/25/the-edit-shoulder-bags-15-of-the-best-in-pictures)
-- [Emma Raducanu commits to Australian Open despite strict quarantine laws](https://www.theguardian.com/sport/2021/sep/25/emma-raducanu-commits-to-australian-open-despite-strict-quarantine-laws)
-- [Pelosi: Biden spending plan, infrastructure deal and funding ‘must pass’ next week](https://www.theguardian.com/us-news/2021/sep/25/pelosi-biden-spending-plan-infrastructure-deal-government-funding-letter-democrats-republicans)
-- [European lorry drivers ‘will not want to come to UK’, warn haulage chiefs](https://www.theguardian.com/business/2021/sep/25/european-lorry-drivers-will-not-want-to-come-to-uk-warn-haulage-chiefs)
+- [The Pegasus project: hacked in London – podcast](https://www.theguardian.com/news/audio/2021/sep/27/the-pegasus-project-hacked-in-london-podcast)
+- [German election live: Social Democrats edge ahead in chancellor race as CDU plunges to historic low](https://www.theguardian.com/world/live/2021/sep/26/germany-election-2021-results-reaction-angela-merkel-era-ends-baerbock-scholz-laschet-spd-greens-cdu-live-latest-updates)
+- [‘A great loss’: tributes pour in for pioneering PNG female doctor who died from Covid](https://www.theguardian.com/world/2021/sep/27/a-great-loss-tributes-pour-in-for-pioneering-png-female-doctor-who-died-from-covid)
+- [Dating while autistic: romance isn’t easy when you miss the social cues – and the red flags | Kay Kerr](https://www.theguardian.com/books/2021/sep/27/dating-while-autistic-romance-isnt-easy-when-you-miss-the-social-cues-and-the-red-flags)
+- [My father was brutally killed by the Taliban. The US ignored his pleas for help | Muska Najibullah](https://www.theguardian.com/commentisfree/2021/sep/27/father-killed-taliban-us-ignored-pleas-daughter-afghan-president)
+- [Five Palestinians shot dead in gun battles with Israeli troops in West Bank](https://www.theguardian.com/world/2021/sep/27/five-palestinians-shot-dead-in-gun-battles-with-israeli-troops-in-west-bank)
+- [Ryder Cup: Team USA romp to victory as McIlroy’s tournament ends in tears](https://www.theguardian.com/sport/2021/sep/26/ryder-cup-team-usa-europe-collin-morikawa-seals-winning-half-point)
+- [Theoneste Bagosora, architect of Rwanda genocide, dies aged 80](https://www.theguardian.com/world/2021/sep/27/theoneste-bagosora-architect-of-rwanda-genocide-dies-aged-80)
+- [NHS backlog disproportionately affecting England’s most deprived](https://www.theguardian.com/society/2021/sep/27/nhs-backlog-disproportionately-affecting-england-most-deprived)
+- [Covid has wiped out years of progress on life expectancy, finds study](https://www.theguardian.com/society/2021/sep/27/covid-has-wiped-out-years-of-progress-on-life-expectancy-finds-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

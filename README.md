@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Exiting the Matrix](https://www.youtube.com/watch?v=QQdKbpeRe-Y)
-- [Covid-19 Vaccine Mandate for New York City Teachers Blocked by Federal Judge](https://www.wsj.com/articles/covid-19-vaccine-mandate-for-new-york-city-teachers-blocked-by-federal-judge-11632589910)
-- [DRNets can solve Sudoku, speed scientific discovery](https://news.cornell.edu/stories/2021/09/drnets-can-solve-sudoku-speed-scientific-discovery)
-- [Flying by the Fat of the Sea: the secret of shorebirds’ marathon migrations](https://www.hakaimagazine.com/features/flying-by-the-fat-of-the-sea/)
-- [How to Train Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
-- [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
-- [Pre-Occupied](http://www.newyorker.com/magazine/2011/11/28/pre-occupied)
-- [New release of the simdjson library: version 1.0](https://lemire.me/blog/2021/09/25/new-release-of-the-simdjson-library-version-1-0/)
-- [Lofi beats with nice bass to listen while you code, study or work](https://open.spotify.com/playlist/03XGVdYSFum8T6McmcU998)
-- [New report provides road map for expanding chestnut agroforestry in the U.S.](https://news.mongabay.com/2021/07/new-report-provides-road-map-for-expanding-chestnut-agroforestry-in-the-u-s/)
+- [The gig workers index: Mixed emotions, dim prospects](https://restofworld.org/2021/global-gig-workers-index-mixed-emotions-dim-prospects/)
+- [You Can Make More Money by Seeking Long-Term Clients](https://parttime.substack.com/p/how-you-can-make-more-money-by-seeking)
+- [Slow Teslas everywhere: 24 hours into ‘the FSD button’](https://electrek.co/2021/09/26/slow-teslas-everywhere-24-hours-into-the-fsd-button-what-is-your-safety-score-beta/)
+- [In Race for 5G, Alarm and Security Services Get Stuck in the Middle](https://www.nytimes.com/2021/09/24/technology/att-5g-race.html)
+- [Why companies don't post salaries in job adverts](https://www.bbc.com/worklife/article/20210921-why-companies-dont-post-salaries-in-job-adverts)
+- [Dive – Analyze Docker Images](https://gochronicles.com/dive/)
+- [That Comment Someone Left on Facebook? It Can Get You Sued](https://www.nytimes.com/2021/09/24/technology/facebook-australia-comments.html)
+- [Goldman Sachs, Ozy Media and a $40M Conference Call Gone Wrong](https://www.nytimes.com/2021/09/26/business/media/ozy-media-goldman-sachs.html)
+- [Tesla FSD v10.1 Epic Monorail Test Success](https://www.youtube.com/watch?v=yMQTkgtZAdU)
+- [Big Data in the Age of the Telegraph](https://www.mckinsey.com/business-functions/organization/our-insights/big-data-in-the-age-of-the-telegraph)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

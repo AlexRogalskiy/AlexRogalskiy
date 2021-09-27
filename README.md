@@ -377,7 +377,7 @@
 
 <!-- INFOWORLD-POST-LIST:START -->
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
-- [The real value of continuous security scanning for cloud-based workloads](https://www.infoworld.com/article/3634450/the-real-value-of-continuous-security-scanning-for-cloud-based-workloads.html#tk.rss_all)
+- [Move faster with continuous security scanning in the cloud](https://www.infoworld.com/article/3634450/move-faster-with-continuous-security-scanning-in-the-cloud.html#tk.rss_all)
 - [Deis Labs unveils Hippo PaaS for WebAssembly](https://www.infoworld.com/article/3634379/deis-labs-unveils-hippo-paas-for-webassembly.html#tk.rss_all)
 - [6 great new Java features you don’t want to miss](https://www.infoworld.com/article/3633638/6-great-new-java-features-you-dont-want-to-miss.html#tk.rss_all)
 - [Easy racing bar charts in R with ddplot](https://www.infoworld.com/article/3633448/easy-racing-bar-charts-in-r-with-ddplot.html#tk.rss_all)

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
-- [JSFuck](http://www.jsfuck.com/)
-- [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
-- [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
-- [Show HN: LIV is a webmail front-end for your personal email server](https://github.com/derek-zhou/liv)
-- [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
-- [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
-- [How to Deal with Complexity Like a Pilot (Part 1)](https://www.franklinfaraday.com/how-to-deal-with-complexity-like-a-pilot-part-1/)
-- [The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
-- [Modern Communication: Sockets (2014)](https://ocaml.github.io/ocamlunix/sockets.html)
+- [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
+- [Delta Concerns of U.S. School Reopenings and Reducing Airborne Transmission](https://www.gospeakupamerica.com/deltaschools)
+- [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
+- [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
+- [AT&T says it has big problems. A T-Mobile salesman showed me how big](https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/)
+- [Show HN: Find Reddit discussion threads for your TV shows](https://www.redditdiscuss.com/)
+- [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
+- [Sometimes mindlessness is better than mindfulness](https://www.scientificamerican.com/article/sometimes-mindlessness-is-better-than-mindfulness/)
+- [What our research says about teen well-being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
+- [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

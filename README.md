@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Student here, doubt about licenses.](https://www.reddit.com/r/InformationTechnology/comments/pvquil/it_student_here_doubt_about_licenses/)
 - [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
 - [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
 - [Good help desk software?](https://www.reddit.com/r/InformationTechnology/comments/puixyc/good_help_desk_software/)
@@ -415,7 +416,6 @@
 - [Jobs I could get with a bachelors in IT?](https://www.reddit.com/r/InformationTechnology/comments/ptk7r6/jobs_i_could_get_with_a_bachelors_in_it/)
 - [any IT entry level jobs](https://www.reddit.com/r/InformationTechnology/comments/ptenvo/any_it_entry_level_jobs/)
 - [How can I build up my networking skills at an IT job?](https://www.reddit.com/r/InformationTechnology/comments/ptdkp6/how_can_i_build_up_my_networking_skills_at_an_it/)
-- [Associates degree useful?](https://www.reddit.com/r/InformationTechnology/comments/pt8616/associates_degree_useful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

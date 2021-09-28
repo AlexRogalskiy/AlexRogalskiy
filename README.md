@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The cores of Alder Lake: Gracemont and Golden Cove](https://www.itworldcanada.com/article/the-cores-of-alder-lake-gracemont-and-golden-cove/457977)
+- [Resourceful data: Alberta Energy Regulator](https://www.itworldcanada.com/article/resourceful-data-alberta-energy-regulator/459199)
+- [Exchange Autodiscover design flaw creates security risk, says report](https://www.itworldcanada.com/article/exchange-autodiscover-design-flaw-creates-security-risk-says-report/459168)
+- [Hashtag Trending September 27 – App tracking rule bending; crypto miner power plant purchase; hamster investor](https://www.itworldcanada.com/article/hashtag-trending-september-27-app-tracking-rule-bending-crypto-miner-power-plant-purchase-hamster-investor/459174)
+- [Cyber Security Today, Sept. 27, 2021 – A new ransomware group found, AlphaBay criminal marketplace is back and updates from Chrome and Apple to install](https://www.itworldcanada.com/article/cyber-security-today-sept-27-2021-a-new-ransomware-group-found-alphabay-criminal-marketplace-is-back-and-updates-from-chrome-and-apple-to-install/459164)
 - [Despite Meng deal, expert suggests that Huawei won’t get OK to sell 5G network equipment to Canadian telcos](https://www.itworldcanada.com/article/despite-meng-deal-expert-suggests-that-huawei-wont-get-ok-to-sell-5g-network-equipment-to-canadian-telcos/459130)
 - [How to Measure Anything: Finding the Value of Intangibles](https://www.itworldcanada.com/article/how-to-measure-anything-finding-the-value-of-intangibles/459122)
 - [Data for Good Case Study: Hike Nova Scotia Survey 2020](https://www.itworldcanada.com/article/data-for-good-case-study-hike-nova-scotia-survey-2020/459119)
 - [Common Errors and Bloopers of Data Visualization: Solutions on How to Avoid Them](https://www.itworldcanada.com/article/common-errors-and-bloopers-of-data-visualization-solutions-on-how-to-avoid-them/459117)
 - [Cyber Security Today, Week in Review for Sept. 24, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-24-2021/458972)
-- [How Analytics Have Changed in the Last 10 Years: Analytics on the Edge](https://www.itworldcanada.com/article/how-analytics-have-changed-in-the-last-10-years-analytics-on-the-edge/459108)
-- [Xplornet launches first rural standlone 5G network](https://www.itworldcanada.com/article/xplornet-launches-first-rural-standlone-5g-network/459048)
-- [IBM Canada opens new cloud centre to help Canadian government with cloud modernization](https://www.itworldcanada.com/article/ibm-canada-opens-new-cloud-centre-to-help-canadian-government-with-cloud-modernization/459061)
-- [Cisco Systems, SonicWall and VMware issue important patches](https://www.itworldcanada.com/article/cisco-systems-sonicwall-and-vmware-issue-important-patches/459068)
-- [Cyber Security Today, Sept. 24, 2021 – A new hacking group discovered, another COVID text scam found, ransomware advice and more](https://www.itworldcanada.com/article/cyber-security-today-sept-24-2021-a-new-hacking-group-discovered-another-covid-text-scam-found-ransomware-advice-and-more/459049)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

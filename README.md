@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Don’t rush to machine learning](https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html#tk.rss_all)
+- [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html#tk.rss_all)
+- [Maintenance windows are a mistake](https://www.infoworld.com/article/3632987/maintenance-windows-are-a-mistake.html#tk.rss_all)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
 - [Move faster with continuous security scanning in the cloud](https://www.infoworld.com/article/3634450/move-faster-with-continuous-security-scanning-in-the-cloud.html#tk.rss_all)
 - [Deis Labs unveils Hippo PaaS for WebAssembly](https://www.infoworld.com/article/3634379/deis-labs-unveils-hippo-paas-for-webassembly.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Easy racing bar charts in R with ddplot](https://www.infoworld.com/article/3633448/easy-racing-bar-charts-in-r-with-ddplot.html#tk.rss_all)
 - [Swift 5.5 introduces async/await, structured concurrency, and actors](https://www.infoworld.com/article/3634448/swift-55-introduces-asyncawait-structured-concurrency-and-actors.html#tk.rss_all)
 - [Open source skills only got hotter during the pandemic](https://www.infoworld.com/article/3634131/open-source-skills-only-got-hotter-during-the-pandemic.html#tk.rss_all)
-- [Get started with Go testing](https://www.infoworld.com/article/3633659/get-started-with-go-testing.html#tk.rss_all)
-- [Working with Azure Managed Instance for Cassandra](https://www.infoworld.com/article/3633603/working-with-azure-managed-instance-for-cassandra.html#tk.rss_all)
-- [How to choose the right data visualization tools for your apps](https://www.infoworld.com/article/3339679/how-to-choose-the-right-data-visualization-tools.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

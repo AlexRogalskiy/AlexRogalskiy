@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Pegasus project: hacked in London – podcast](https://www.theguardian.com/news/audio/2021/sep/27/the-pegasus-project-hacked-in-london-podcast)
-- [German election live: Social Democrats edge ahead in chancellor race as CDU plunges to historic low](https://www.theguardian.com/world/live/2021/sep/26/germany-election-2021-results-reaction-angela-merkel-era-ends-baerbock-scholz-laschet-spd-greens-cdu-live-latest-updates)
-- [‘A great loss’: tributes pour in for pioneering PNG female doctor who died from Covid](https://www.theguardian.com/world/2021/sep/27/a-great-loss-tributes-pour-in-for-pioneering-png-female-doctor-who-died-from-covid)
-- [Dating while autistic: romance isn’t easy when you miss the social cues – and the red flags | Kay Kerr](https://www.theguardian.com/books/2021/sep/27/dating-while-autistic-romance-isnt-easy-when-you-miss-the-social-cues-and-the-red-flags)
-- [My father was brutally killed by the Taliban. The US ignored his pleas for help | Muska Najibullah](https://www.theguardian.com/commentisfree/2021/sep/27/father-killed-taliban-us-ignored-pleas-daughter-afghan-president)
-- [Five Palestinians shot dead in gun battles with Israeli troops in West Bank](https://www.theguardian.com/world/2021/sep/27/five-palestinians-shot-dead-in-gun-battles-with-israeli-troops-in-west-bank)
-- [Ryder Cup: Team USA romp to victory as McIlroy’s tournament ends in tears](https://www.theguardian.com/sport/2021/sep/26/ryder-cup-team-usa-europe-collin-morikawa-seals-winning-half-point)
-- [Theoneste Bagosora, architect of Rwanda genocide, dies aged 80](https://www.theguardian.com/world/2021/sep/27/theoneste-bagosora-architect-of-rwanda-genocide-dies-aged-80)
-- [NHS backlog disproportionately affecting England’s most deprived](https://www.theguardian.com/society/2021/sep/27/nhs-backlog-disproportionately-affecting-england-most-deprived)
-- [Covid has wiped out years of progress on life expectancy, finds study](https://www.theguardian.com/society/2021/sep/27/covid-has-wiped-out-years-of-progress-on-life-expectancy-finds-study)
+- [R Kelly found guilty on racketeering and sex trafficking charges](https://www.theguardian.com/music/2021/sep/27/r-kelly-racketeering-sex-trafficking)
+- [Bond is back. Where’s he going next?](https://www.theguardian.com/news/audio/2021/sep/28/bond-is-back-wheres-he-going-next)
+- [Power shortages in China hits homes and factories prompting global supply fears](https://www.theguardian.com/world/2021/sep/28/power-shortages-in-china-hits-homes-and-factories-prompting-global-supply-fears)
+- [Biden’s agenda hangs in balance as Republicans block measure to fund government](https://www.theguardian.com/us-news/2021/sep/27/joe-biden-spending-bill-democrats-negotiations-cost)
+- [Ash Barty pulls out of Indian Wells, WTA Finals campaign under cloud](https://www.theguardian.com/sport/2021/sep/28/ash-barty-pulls-out-of-indian-wells-wta-finals-campaign-under-cloud)
+- [North Korea fires unidentified projectile into sea, South Korean military says](https://www.theguardian.com/world/2021/sep/28/north-korea-fires-projectile-into-sea-of-japan-reports)
+- [UK sends warship through Taiwan Strait for first time in more than a decade](https://www.theguardian.com/uk-news/2021/sep/28/uk-sends-warship-through-taiwan-straight-for-first-time-in-more-than-a-decade)
+- [BBC may lose London Marathon TV rights as organisers consider options](https://www.theguardian.com/sport/2021/sep/28/bbc-london-marathon-tv-rights)
+- [Uefa warns of ESL’s ‘threat to football’ but drops legal action against clubs](https://www.theguardian.com/football/2021/sep/27/super-league-still-poses-existential-threat-to-footballs-future-uefa-warns)
+- [Five a day: UK children with healthy diet have best mental health](https://www.theguardian.com/society/2021/sep/27/five-a-day-children-healthy-diet-best-mental-health-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

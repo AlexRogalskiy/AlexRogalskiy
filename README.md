@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Evite Used Cloud Scalability to Match Its Elasticity](https://www.informationweek.com/cloud/how-evite-used-cloud-scalability-to-match-its-elasticity)
+- [Cloud Computing Like a Day in a Chocolate Factory for IT Managers](https://www.informationweek.com/cloud/cloud-computing-like-a-day-in-a-chocolate-factory-for-it-managers)
+- [Capitalize on Valuable Data With a Single Analytics Platform](https://www.informationweek.com/big-data-analytics/capitalize-on-valuable-data-with-a-single-analytics-platform)
 - [When to Pull the Plug on a Failing IT Project](https://www.informationweek.com/strategic-cio/when-to-pull-the-plug-on-a-failing-it-project)
 - [3 Ways to Do AIOps Right in Cloud-Native Environments](https://www.informationweek.com/cloud/3-ways-to-do-aiops-right-in-cloud-native-environments)
 - [Pros and Cons of Being a CIO at a Non-Profit Entity](https://www.informationweek.com/strategic-cio/pros-and-cons-of-being-a-cio-at-a-non-profit-entity)
@@ -368,9 +371,6 @@
 - [IT Talent Shortage Hobbles Emerging Tech Adoption](https://www.informationweek.com/team-building-and-staffing/it-talent-shortage-hobbles-emerging-tech-adoption)
 - [How to Get the Most out of an Acquired Company’s Technology](https://www.informationweek.com/executive-insights-and-innovation/how-to-get-the-most-out-of-an-acquired-company-s-technology)
 - [The IT Skills Shortage Expands and Deepens](https://www.informationweek.com/team-building-and-staffing/the-it-skills-shortage-expands-and-deepens)
-- [Identifying Tool Sprawl and Its Impact on Your Company](https://www.informationweek.com/enterprise-agility/identifying-tool-sprawl-and-its-impact-on-your-company)
-- [JLL CIO: Hybrid Work, AI, and a Data and Tech Revolution](https://www.informationweek.com/ai-or-machine-learning/jll-cio-hybrid-work-ai-and-a-data-and-tech-revolution)
-- [How Enterprises Can Tackle Misinformation in the Workplace](https://www.informationweek.com/big-data-analytics/how-enterprises-can-tackle-misinformation-in-the-workplace)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

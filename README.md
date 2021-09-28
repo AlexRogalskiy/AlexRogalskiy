@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
-- [Delta Concerns of U.S. School Reopenings and Reducing Airborne Transmission](https://www.gospeakupamerica.com/deltaschools)
-- [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
-- [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
-- [AT&T says it has big problems. A T-Mobile salesman showed me how big](https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/)
-- [Show HN: Find Reddit discussion threads for your TV shows](https://www.redditdiscuss.com/)
-- [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
-- [Sometimes mindlessness is better than mindfulness](https://www.scientificamerican.com/article/sometimes-mindlessness-is-better-than-mindfulness/)
-- [What our research says about teen well-being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
-- [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
+- [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
+- [Ford to invest $11.4B in EV and battery plants in TN and KY, Create 11k Jobs [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
+- [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
+- [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
+- [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
+- [Vectors are over, hashes are the future of AI](https://www.sajari.com/blog/vectors-versus-hashes)
+- [Procedurally generating a rounded box mesh](https://wwwtyro.net/2021/09/24/rounded-box.html)
+- [Cloud Run quietly swaps HOME env var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
+- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
+- [DoS attacks against my online game](https://hookrace.net/blog/dos-attacks-against-online-game/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

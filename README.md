@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What low-stress IT Jobs work 35-40 hours a week with lower barriers to entry?](https://www.reddit.com/r/InformationTechnology/comments/pwl122/what_lowstress_it_jobs_work_3540_hours_a_week/)
+- [Looking to creating an environment similar to my school and old workplace and college campus for the growing business I'm working for.](https://www.reddit.com/r/InformationTechnology/comments/pwl0g0/looking_to_creating_an_environment_similar_to_my/)
 - [IT Student here, doubt about licenses.](https://www.reddit.com/r/InformationTechnology/comments/pvquil/it_student_here_doubt_about_licenses/)
 - [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
 - [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
@@ -414,8 +416,6 @@
 - [What is the mechanism, protocol, or port that sends a file when I copy+paste from RDP?](https://www.reddit.com/r/InformationTechnology/comments/ptp3vh/what_is_the_mechanism_protocol_or_port_that_sends/)
 - [DD-WRT vs PFSense](https://www.reddit.com/r/InformationTechnology/comments/ptm6ql/ddwrt_vs_pfsense/)
 - [Jobs I could get with a bachelors in IT?](https://www.reddit.com/r/InformationTechnology/comments/ptk7r6/jobs_i_could_get_with_a_bachelors_in_it/)
-- [any IT entry level jobs](https://www.reddit.com/r/InformationTechnology/comments/ptenvo/any_it_entry_level_jobs/)
-- [How can I build up my networking skills at an IT job?](https://www.reddit.com/r/InformationTechnology/comments/ptdkp6/how_can_i_build_up_my_networking_skills_at_an_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

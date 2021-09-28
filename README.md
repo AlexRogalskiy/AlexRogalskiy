@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The gig workers index: Mixed emotions, dim prospects](https://restofworld.org/2021/global-gig-workers-index-mixed-emotions-dim-prospects/)
-- [You Can Make More Money by Seeking Long-Term Clients](https://parttime.substack.com/p/how-you-can-make-more-money-by-seeking)
-- [Slow Teslas everywhere: 24 hours into ‘the FSD button’](https://electrek.co/2021/09/26/slow-teslas-everywhere-24-hours-into-the-fsd-button-what-is-your-safety-score-beta/)
-- [In Race for 5G, Alarm and Security Services Get Stuck in the Middle](https://www.nytimes.com/2021/09/24/technology/att-5g-race.html)
-- [Why companies don't post salaries in job adverts](https://www.bbc.com/worklife/article/20210921-why-companies-dont-post-salaries-in-job-adverts)
-- [Dive – Analyze Docker Images](https://gochronicles.com/dive/)
-- [That Comment Someone Left on Facebook? It Can Get You Sued](https://www.nytimes.com/2021/09/24/technology/facebook-australia-comments.html)
-- [Goldman Sachs, Ozy Media and a $40M Conference Call Gone Wrong](https://www.nytimes.com/2021/09/26/business/media/ozy-media-goldman-sachs.html)
-- [Tesla FSD v10.1 Epic Monorail Test Success](https://www.youtube.com/watch?v=yMQTkgtZAdU)
-- [Big Data in the Age of the Telegraph](https://www.mckinsey.com/business-functions/organization/our-insights/big-data-in-the-age-of-the-telegraph)
+- [The Gravity-Defying Mail Jumpers of Lake Geneva](https://www.atlasobscura.com/articles/mail-jumping-lake-geneva)
+- [A Bonding Exercise](https://blog.sigterm.se/posts/a-bonding-exercise/)
+- [The Ancient People Who Burned Their Culture to the Ground](https://www.atlasobscura.com/articles/tartessos-casas-del-turunuelo)
+- [What's the most used chatbot to integrate?](https://news.ycombinator.com/item?id=28678542)
+- [How to make your website more energy efficient](https://www.wholegraindigital.com/blog/website-energy-efficiency/)
+- [Housing in Alaska can’t survive climate change. This group is trying a new model](https://www.washingtonpost.com/climate-solutions/2021/09/24/alaska-housing-climate-change/)
+- [Hubble Captures a 'Einstein Ring' Magnifying the Depths of the Universe](https://www.sciencealert.com/a-perfect-einstein-ring-shows-how-we-use-gravity-to-magnify-the-distant-universe)
+- [This is how Leetcode Feels Like to Me](https://www.youtube.com/watch?v=dX480fsk510)
+- [Linux Benchmark Scripts and Tools](https://haydenjames.io/linux-benchmark-scripts-tools/)
+- [‘Babylon 5’ Reboot in Development at the CW from Original Series Creator](https://variety.com/2021/tv/news/babylon-5-reboot-the-cw-j-michael-straczynski-1235075236/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

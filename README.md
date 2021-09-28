@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [IT systems failure blights UK Border Force electronic passport gates](https://www.computerweekly.com/news/252507175/IT-systems-failure-blights-UK-Border-Force-electronic-passport-gates)
-- [Digdata partners with Facebook to encourage future data talent](https://www.computerweekly.com/news/252507169/Digdata-partners-with-Facebook-to-encourage-future-data-talent)
-- [IR35 reforms: HMRC confirms compliance checks under way in financial services, oil and gas sectors](https://www.computerweekly.com/news/252507165/IR35-reforms-HMRC-confirms-compliance-checks-under-way-in-financial-services-oil-and-gas-sectors)
-- [Big Data London: Mitigate AI bias rather than try to remove it, say experts](https://www.computerweekly.com/news/252507142/Big-Data-London-Mitigate-AI-bias-rather-than-try-to-remove-it-say-experts)
-- [Big Data London: NHS Digital data service struggled with Covid testing demands](https://www.computerweekly.com/news/252507136/Big-Data-London-NHS-Digital-data-service-struggled-with-Covid-testing-demands)
-- [IBM ramps up quantum education initiative](https://www.computerweekly.com/news/252507140/IBM-ramps-up-Quantum-education-initiative)
-- [Facial recognition cannot be a standalone authentication method](https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method)
-- [London publishes guidelines for ethical use of smart city tech](https://www.computerweekly.com/news/252507107/London-publishes-guidelines-for-ethical-use-of-smart-city-tech)
-- [HMRC postpones Making Tax Digital until 2024](https://www.computerweekly.com/news/252507113/HMRC-postpones-Making-Tax-Digital-until-2024)
-- [Tech job adverts increasing outside London bubble](https://www.computerweekly.com/news/252507086/Tech-job-adverts-increasing-outside-London-bubble)
+- [Uber drivers strike over pay issues and unfair dismissal claims](https://www.computerweekly.com/news/252507239/Uber-drivers-strike-over-pay-issues-and-unfair-dismissal-claims)
+- [Women and BAME people bear brunt of cyber crime impact](https://www.computerweekly.com/news/252507237/Women-and-BAME-people-bear-brunt-of-cyber-crime-impact)
+- [GCP gets triple-redundant NAS and built-in Kubernetes backup](https://www.computerweekly.com/news/252507233/GCP-gets-triple-redundant-NAS-and-built-in-Kubernetes-backup)
+- [Giant Umbrella contractors suffer salary payment delays following suspected ‘data breach’](https://www.computerweekly.com/news/252507227/Giant-Umbrella-contractors-suffer-salary-payment-delays-following-suspected-data-breach)
+- [Fixing the SME tech crisis](https://www.computerweekly.com/news/252507229/Fixing-the-SME-tech-crisis)
+- [Private equity cash fuels Nordic datacentre growth](https://www.computerweekly.com/news/252507218/Private-equity-cash-fuels-Nordic-datacentre-growth)
+- [Dubai International Finance Centre’s data protection law to be boosted by new federal regulation](https://www.computerweekly.com/news/252507224/Dubai-International-Finance-Centres-data-protection-law-to-be-boosted-by-new-federal-regulation)
+- [CIO interview: Jon Braithwaite, UK & Ireland CIO, Compass Group](https://www.computerweekly.com/news/252507042/CIO-interview-Jon-Braithwaite-UK-Ireland-CIO-Compass-Group)
+- [Why UK firms should reconsider jurisdiction in technology contracts after Brexit](https://www.computerweekly.com/opinion/Why-UK-firms-should-reconsider-jurisdiction-in-technology-contracts-after-Brexit)
+- [Scotland sees increase in job opportunities in tech](https://www.computerweekly.com/news/252507194/Scotland-sees-increase-in-job-opportunities-in-tech)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

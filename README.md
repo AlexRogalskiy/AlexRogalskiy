@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple puts a Map to the future on iPhone](https://www.computerworld.com/article/3634415/apple-puts-a-map-to-the-future-on-iphone.html#tk.rss_all)
+- [How to choose the best desktop-as-a-service solution](https://www.computerworld.com/article/3634468/how-to-choose-the-best-desktop-as-a-service-solution.html#tk.rss_all)
+- [Survey says! What my informal survey shows about Windows](https://www.computerworld.com/article/3634410/survey-says-what-my-informal-survey-shows-about-windows.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Apple needs to act against fake app-privacy promises](https://www.computerworld.com/article/3634595/apple-needs-to-act-against-fake-app-privacy-promises.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [10 top file-sharing services: Dropbox, Box, Google Drive, OneDrive, and more](https://www.computerworld.com/article/3632983/top-file-sharing-services-dropbox-box-google-drive-onedrive-more.html#tk.rss_all)
 - [Microsoft’s Surface Laptop Studio: The perfect Windows 11 laptop?](https://www.computerworld.com/article/3634453/microsofts-surface-laptop-studio-the-perfect-windows-11-laptop.html#tk.rss_all)
 - [The evolution of Apple's iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
-- [Podcast: Folding phones: The future of mobile?](https://www.computerworld.com/article/3634470/podcast-folding-phones-the-future-of-mobile.html#tk.rss_all)
-- [Android's underappreciated upgrade advantage](https://www.computerworld.com/article/3634113/android-upgrade-advantage.html#tk.rss_all)
-- [Jamf survey: Employees will quit for platform choice](https://www.computerworld.com/article/3634588/jamf-survey-employees-will-quit-for-platform-choice.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

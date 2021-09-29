@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Cloudflare hopes lack of outbound data fees will convert AWS S3 users to its R2 storage service](https://www.infoworld.com/article/3634406/cloudflare-hopes-lack-of-outbound-data-fees-will-convert-aws-s3-users-to-its-r2-storage-service.html#tk.rss_all)
+- [How to secure cloud infrastructure across the development lifecycle](https://www.infoworld.com/article/3634774/how-to-secure-cloud-infrastructure-across-the-development-lifecycle.html#tk.rss_all)
+- [What's your multicloud maturity level?](https://www.infoworld.com/article/3634753/whats-your-multicloud-maturity-level.html#tk.rss_all)
+- [Electron framework adds encryption API](https://www.infoworld.com/article/3634383/electron-framework-adds-encryption-api.html#tk.rss_all)
+- [What is vector search? Better search through AI](https://www.infoworld.com/article/3634357/what-is-vector-search-better-search-through-ai.html#tk.rss_all)
 - [Don’t rush to machine learning](https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html#tk.rss_all)
 - [Cyber security in the public cloud](https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html#tk.rss_all)
 - [Maintenance windows are a mistake](https://www.infoworld.com/article/3632987/maintenance-windows-are-a-mistake.html#tk.rss_all)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
-- [Move faster with continuous security scanning in the cloud](https://www.infoworld.com/article/3634450/move-faster-with-continuous-security-scanning-in-the-cloud.html#tk.rss_all)
-- [Deis Labs unveils Hippo PaaS for WebAssembly](https://www.infoworld.com/article/3634379/deis-labs-unveils-hippo-paas-for-webassembly.html#tk.rss_all)
-- [6 great new Java features you don’t want to miss](https://www.infoworld.com/article/3633638/6-great-new-java-features-you-dont-want-to-miss.html#tk.rss_all)
-- [Easy racing bar charts in R with ddplot](https://www.infoworld.com/article/3633448/easy-racing-bar-charts-in-r-with-ddplot.html#tk.rss_all)
-- [Swift 5.5 introduces async/await, structured concurrency, and actors](https://www.infoworld.com/article/3634448/swift-55-introduces-asyncawait-structured-concurrency-and-actors.html#tk.rss_all)
-- [Open source skills only got hotter during the pandemic](https://www.infoworld.com/article/3634131/open-source-skills-only-got-hotter-during-the-pandemic.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

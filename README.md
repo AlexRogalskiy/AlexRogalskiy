@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Engineers in High Demand, Winning High Salaries](https://www.informationweek.com/hardware-or-architectures/data-engineers-in-high-demand-winning-high-salaries)
+- [Has Your Business Defined Customer Experience Correctly?](https://www.informationweek.com/executive-insights-and-innovation/has-your-business-defined-customer-experience-correctly-)
+- [In-House Gatekeepers Help CIOs Drive Digital Initiatives](https://www.informationweek.com/strategic-cio/in-house-gatekeepers-help-cios-drive-digital-initiatives)
 - [How Evite Used Cloud Scalability to Match Its Elasticity](https://www.informationweek.com/cloud/how-evite-used-cloud-scalability-to-match-its-elasticity)
 - [Cloud Computing Like a Day in a Chocolate Factory for IT Managers](https://www.informationweek.com/cloud/cloud-computing-like-a-day-in-a-chocolate-factory-for-it-managers)
 - [Capitalize on Valuable Data With a Single Analytics Platform](https://www.informationweek.com/big-data-analytics/capitalize-on-valuable-data-with-a-single-analytics-platform)
@@ -368,9 +371,6 @@
 - [3 Ways to Do AIOps Right in Cloud-Native Environments](https://www.informationweek.com/cloud/3-ways-to-do-aiops-right-in-cloud-native-environments)
 - [Pros and Cons of Being a CIO at a Non-Profit Entity](https://www.informationweek.com/strategic-cio/pros-and-cons-of-being-a-cio-at-a-non-profit-entity)
 - [Ways to Prevent Multi-Cloud Mayhem](https://www.informationweek.com/cloud/ways-to-prevent-multi-cloud-mayhem)
-- [IT Talent Shortage Hobbles Emerging Tech Adoption](https://www.informationweek.com/team-building-and-staffing/it-talent-shortage-hobbles-emerging-tech-adoption)
-- [How to Get the Most out of an Acquired Company’s Technology](https://www.informationweek.com/executive-insights-and-innovation/how-to-get-the-most-out-of-an-acquired-company-s-technology)
-- [The IT Skills Shortage Expands and Deepens](https://www.informationweek.com/team-building-and-staffing/the-it-skills-shortage-expands-and-deepens)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

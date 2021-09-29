@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Registration open for 3rd annual Gone Phishing Tournament](https://www.itworldcanada.com/article/registration-open-for-3rd-annual-gone-phishing-tournament/459241)
+- [Coffee Briefing, Sept. 28, 2021 – Amazon Connect’s new AI/ML-enabled features; Aptum’s Cloud Impact study; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-28-2021-amazon-connects-new-ai-ml-enabled-features-aptums-cloud-impact-study-a-podcast-roundup-and-more/459246)
+- [Hashtag Trending September 28 – Mega-Retailers Curbed By California Law; Japan Breaks Internet Speed Record; Facebook Denies Instagram Wrongdoing](https://www.itworldcanada.com/article/hashtag-trending-september-28-mega-retailers-curbed-by-california-law-japan-breaks-internet-speed-record-facebook-denies-instagram-wrongdoing/459236)
 - [The cores of Alder Lake: Gracemont and Golden Cove](https://www.itworldcanada.com/article/the-cores-of-alder-lake-gracemont-and-golden-cove/457977)
 - [Resourceful data: Alberta Energy Regulator](https://www.itworldcanada.com/article/resourceful-data-alberta-energy-regulator/459199)
 - [Exchange Autodiscover design flaw creates security risk, says report](https://www.itworldcanada.com/article/exchange-autodiscover-design-flaw-creates-security-risk-says-report/459168)
@@ -428,9 +431,6 @@
 - [Cyber Security Today, Sept. 27, 2021 – A new ransomware group found, AlphaBay criminal marketplace is back and updates from Chrome and Apple to install](https://www.itworldcanada.com/article/cyber-security-today-sept-27-2021-a-new-ransomware-group-found-alphabay-criminal-marketplace-is-back-and-updates-from-chrome-and-apple-to-install/459164)
 - [Despite Meng deal, expert suggests that Huawei won’t get OK to sell 5G network equipment to Canadian telcos](https://www.itworldcanada.com/article/despite-meng-deal-expert-suggests-that-huawei-wont-get-ok-to-sell-5g-network-equipment-to-canadian-telcos/459130)
 - [How to Measure Anything: Finding the Value of Intangibles](https://www.itworldcanada.com/article/how-to-measure-anything-finding-the-value-of-intangibles/459122)
-- [Data for Good Case Study: Hike Nova Scotia Survey 2020](https://www.itworldcanada.com/article/data-for-good-case-study-hike-nova-scotia-survey-2020/459119)
-- [Common Errors and Bloopers of Data Visualization: Solutions on How to Avoid Them](https://www.itworldcanada.com/article/common-errors-and-bloopers-of-data-visualization-solutions-on-how-to-avoid-them/459117)
-- [Cyber Security Today, Week in Review for Sept. 24, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-sept-24-2021/458972)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [R Kelly found guilty on racketeering and sex trafficking charges](https://www.theguardian.com/music/2021/sep/27/r-kelly-racketeering-sex-trafficking)
-- [Bond is back. Where’s he going next?](https://www.theguardian.com/news/audio/2021/sep/28/bond-is-back-wheres-he-going-next)
-- [Power shortages in China hits homes and factories prompting global supply fears](https://www.theguardian.com/world/2021/sep/28/power-shortages-in-china-hits-homes-and-factories-prompting-global-supply-fears)
-- [Biden’s agenda hangs in balance as Republicans block measure to fund government](https://www.theguardian.com/us-news/2021/sep/27/joe-biden-spending-bill-democrats-negotiations-cost)
-- [Ash Barty pulls out of Indian Wells, WTA Finals campaign under cloud](https://www.theguardian.com/sport/2021/sep/28/ash-barty-pulls-out-of-indian-wells-wta-finals-campaign-under-cloud)
-- [North Korea fires unidentified projectile into sea, South Korean military says](https://www.theguardian.com/world/2021/sep/28/north-korea-fires-projectile-into-sea-of-japan-reports)
-- [UK sends warship through Taiwan Strait for first time in more than a decade](https://www.theguardian.com/uk-news/2021/sep/28/uk-sends-warship-through-taiwan-straight-for-first-time-in-more-than-a-decade)
-- [BBC may lose London Marathon TV rights as organisers consider options](https://www.theguardian.com/sport/2021/sep/28/bbc-london-marathon-tv-rights)
-- [Uefa warns of ESL’s ‘threat to football’ but drops legal action against clubs](https://www.theguardian.com/football/2021/sep/27/super-league-still-poses-existential-threat-to-footballs-future-uefa-warns)
-- [Five a day: UK children with healthy diet have best mental health](https://www.theguardian.com/society/2021/sep/27/five-a-day-children-healthy-diet-best-mental-health-study)
+- [Can China help end the world’s addiction to coal?](https://www.theguardian.com/news/audio/2021/sep/29/can-china-help-end-the-worlds-addiction-to-coal)
+- [Japan’s ruling party to vote for new leader who is likely to become next PM](https://www.theguardian.com/world/2021/sep/29/japans-ruling-party-ldp-vote-new-leader-kono-kishida-noda-takaichi)
+- [North Korea says it fired new hypersonic missile into sea](https://www.theguardian.com/world/2021/sep/28/north-korea-fires-projectile-into-sea-of-japan-reports)
+- [Pacific nations face ‘lost decade’ due to economic cost of Covid](https://www.theguardian.com/world/2021/sep/29/pacific-nations-face-lost-decade-due-to-economic-cost-of-covid)
+- [Three-quarters of small French boats may be denied fishing in UK waters](https://www.theguardian.com/politics/2021/sep/29/three-quarters-of-small-french-boats-may-be-denied-fishing-in-uk-waters)
+- [No Time to Die review: Daniel Craig dispatches James Bond with panache, rage – and cuddles](https://www.theguardian.com/film/2021/sep/29/no-time-to-die-review-daniel-craig-dispatches-james-bond-with-panache-rage-and-cuddles)
+- [Blame-shifting over US withdrawal ignores deeper failings in Afghanistan](https://www.theguardian.com/world/2021/sep/28/blame-shifting-over-us-withdrawal-ignores-deeper-failings-in-afghanistan)
+- [Champions League roundup: Sheriff Tiraspol shock Real Madrid](https://www.theguardian.com/football/2021/sep/28/champions-league-roundup-sheriff-tiraspol-shock-real-madrid)
+- [Starmer to accuse Tories of being ‘lost in the woods’ as he rejects Corbyn era](https://www.theguardian.com/politics/2021/sep/28/starmer-to-accuse-tories-of-being-lost-in-the-woods-as-he-rejects-corbyn-era)
+- [Mohamed Salah and Roberto Firmino double up as Liverpool crush Porto](https://www.theguardian.com/football/2021/sep/28/porto-liverpool-champions-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

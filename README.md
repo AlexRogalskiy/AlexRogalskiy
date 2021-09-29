@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Digital regulators need discrete but cooperative remits](https://www.computerweekly.com/news/252507267/Digital-regulators-need-discrete-but-cooperative-remits)
+- [How one red team exercise averted a new SolarWinds-style attack](https://www.computerweekly.com/news/252507266/How-one-red-team-exercise-averted-a-new-SolarWinds-style-attack)
+- [A Computer Weekly buyer’s guide to SIEM and SOAR](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-SIEM-and-SOAR)
+- [Ultimate questions require ultimate understanding in the quantum era](https://www.computerweekly.com/feature/Ultimate-questions-require-ultimate-understanding-in-the-quantum-era)
+- [Pure launches Fusion cloud control layer for storage](https://www.computerweekly.com/news/252507074/Pure-launches-Fusion-cloud-control-layer-for-storage)
+- [Dutch IT firm transforms HR policy built on lessons from pandemic](https://www.computerweekly.com/news/252507234/Dutch-IT-firm-transforms-HR-policy-built-on-lessons-from-pandemic)
+- [Government announces data strategy for defence](https://www.computerweekly.com/news/252507242/Government-announces-data-strategy-for-defence)
+- [PwC initiative Tech She Can becomes independent charity](https://www.computerweekly.com/news/252507256/PwC-initiative-Tech-She-Can-becomes-independent-charity)
+- [Chancellor Rishi Sunak talks tech](https://www.computerweekly.com/ezine/Computer-Weekly/Chancellor-Rishi-Sunak-talks-tech)
 - [Uber drivers strike over pay issues and unfair dismissal claims](https://www.computerweekly.com/news/252507239/Uber-drivers-strike-over-pay-issues-and-unfair-dismissal-claims)
-- [Women and BAME people bear brunt of cyber crime impact](https://www.computerweekly.com/news/252507237/Women-and-BAME-people-bear-brunt-of-cyber-crime-impact)
-- [GCP gets triple-redundant NAS and built-in Kubernetes backup](https://www.computerweekly.com/news/252507233/GCP-gets-triple-redundant-NAS-and-built-in-Kubernetes-backup)
-- [Giant Umbrella contractors suffer salary payment delays following suspected ‘data breach’](https://www.computerweekly.com/news/252507227/Giant-Umbrella-contractors-suffer-salary-payment-delays-following-suspected-data-breach)
-- [Fixing the SME tech crisis](https://www.computerweekly.com/news/252507229/Fixing-the-SME-tech-crisis)
-- [Private equity cash fuels Nordic datacentre growth](https://www.computerweekly.com/news/252507218/Private-equity-cash-fuels-Nordic-datacentre-growth)
-- [Dubai International Finance Centre’s data protection law to be boosted by new federal regulation](https://www.computerweekly.com/news/252507224/Dubai-International-Finance-Centres-data-protection-law-to-be-boosted-by-new-federal-regulation)
-- [CIO interview: Jon Braithwaite, UK & Ireland CIO, Compass Group](https://www.computerweekly.com/news/252507042/CIO-interview-Jon-Braithwaite-UK-Ireland-CIO-Compass-Group)
-- [Why UK firms should reconsider jurisdiction in technology contracts after Brexit](https://www.computerweekly.com/opinion/Why-UK-firms-should-reconsider-jurisdiction-in-technology-contracts-after-Brexit)
-- [Scotland sees increase in job opportunities in tech](https://www.computerweekly.com/news/252507194/Scotland-sees-increase-in-job-opportunities-in-tech)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

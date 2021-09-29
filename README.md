@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
-- [Ford to invest $11.4B in EV and battery plants in TN and KY, Create 11k Jobs [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
-- [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
-- [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
-- [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
-- [Vectors are over, hashes are the future of AI](https://www.sajari.com/blog/vectors-versus-hashes)
-- [Procedurally generating a rounded box mesh](https://wwwtyro.net/2021/09/24/rounded-box.html)
-- [Cloud Run quietly swaps HOME env var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
-- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
-- [DoS attacks against my online game](https://hookrace.net/blog/dos-attacks-against-online-game/)
+- [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
+- [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
+- [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
+- [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
+- [Safety of Nuclear Energy](https://ourworldindata.org/nuclear-energy)
+- [Squirrel stores thousands of nuts inside man's parked truck](https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche)
+- [Dude, where’s my stuff](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/)
+- [Podman in Linux](http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html)
+- [Mobile LTE Coverage Map](https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map)
+- [Hypersonic HAWC missile flies, but details are kept hidden](https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

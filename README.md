@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Gravity-Defying Mail Jumpers of Lake Geneva](https://www.atlasobscura.com/articles/mail-jumping-lake-geneva)
-- [A Bonding Exercise](https://blog.sigterm.se/posts/a-bonding-exercise/)
-- [The Ancient People Who Burned Their Culture to the Ground](https://www.atlasobscura.com/articles/tartessos-casas-del-turunuelo)
-- [What's the most used chatbot to integrate?](https://news.ycombinator.com/item?id=28678542)
-- [How to make your website more energy efficient](https://www.wholegraindigital.com/blog/website-energy-efficiency/)
-- [Housing in Alaska can’t survive climate change. This group is trying a new model](https://www.washingtonpost.com/climate-solutions/2021/09/24/alaska-housing-climate-change/)
-- [Hubble Captures a 'Einstein Ring' Magnifying the Depths of the Universe](https://www.sciencealert.com/a-perfect-einstein-ring-shows-how-we-use-gravity-to-magnify-the-distant-universe)
-- [This is how Leetcode Feels Like to Me](https://www.youtube.com/watch?v=dX480fsk510)
-- [Linux Benchmark Scripts and Tools](https://haydenjames.io/linux-benchmark-scripts-tools/)
-- [‘Babylon 5’ Reboot in Development at the CW from Original Series Creator](https://variety.com/2021/tv/news/babylon-5-reboot-the-cw-j-michael-straczynski-1235075236/)
+- [NSA – Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
+- [Refugees help power machine learning advances at Microsoft, Facebook, and Amazon](https://restofworld.org/2021/refugees-machine-learning-big-tech/)
+- [Mars Ingenuity: 2,800 RPM Spin a Success, Flight 14 Delayed to Post Conjunction](https://www.androidpolice.com/2021/09/28/buying-a-new-usb-c-hub-lessons-learned/)
+- [Macy’s fights to block Amazon from advertising on billboard](https://www.crainsnewyork.com/commercial-real-estate/macys-fights-block-amazon-advertising-its-billboard)
+- [Amplitude valued at US$5b after shares jump in Nasdaq debut](https://www.businesstimes.com.sg/garage/gic-backed-amplitude-valued-at-us5b-after-shares-jump-in-nasdaq-debut)
+- [Biggest clean energy project to power Singapore from Australia](https://newatlas.com/energy/sun-cable-australia-singapore-solar-undersea-powerlink/)
+- [Messing Nuclei Up](https://lude.rs/h4ck1ng/messing_nuclei_up.html)
+- [Unsolved Problems in Machine Learning Safety](https://arxiv.org/abs/2109.13916)
+- [The RCA Solid State Technology Center (SSTC)](https://www.cpushack.com/2021/09/28/the-rca-solid-state-technology-center-sstc/)
+- [Ruby: Proposal to Merge YJIT](https://bugs.ruby-lang.org/issues/18229#note-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

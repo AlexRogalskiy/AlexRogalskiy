@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NSA – Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
-- [Refugees help power machine learning advances at Microsoft, Facebook, and Amazon](https://restofworld.org/2021/refugees-machine-learning-big-tech/)
-- [Mars Ingenuity: 2,800 RPM Spin a Success, Flight 14 Delayed to Post Conjunction](https://www.androidpolice.com/2021/09/28/buying-a-new-usb-c-hub-lessons-learned/)
-- [Macy’s fights to block Amazon from advertising on billboard](https://www.crainsnewyork.com/commercial-real-estate/macys-fights-block-amazon-advertising-its-billboard)
-- [Amplitude valued at US$5b after shares jump in Nasdaq debut](https://www.businesstimes.com.sg/garage/gic-backed-amplitude-valued-at-us5b-after-shares-jump-in-nasdaq-debut)
-- [Biggest clean energy project to power Singapore from Australia](https://newatlas.com/energy/sun-cable-australia-singapore-solar-undersea-powerlink/)
-- [Messing Nuclei Up](https://lude.rs/h4ck1ng/messing_nuclei_up.html)
-- [Unsolved Problems in Machine Learning Safety](https://arxiv.org/abs/2109.13916)
-- [The RCA Solid State Technology Center (SSTC)](https://www.cpushack.com/2021/09/28/the-rca-solid-state-technology-center-sstc/)
-- [Ruby: Proposal to Merge YJIT](https://bugs.ruby-lang.org/issues/18229#note-1)
+- [Google MUM Demonstrated](https://searchengineland.com/mum-brings-multimodal-search-to-lens-deeper-understanding-of-videos-and-new-serp-features-374798)
+- [Seventy-Seven Cents on the Thaler? Women’s Wages in the Middle Ages (2016)](https://yvonneseale.org/blog/2016/05/31/womens-work/)
+- [Macy Wants to Block Amazon Ads from a Giant Billboard Next to Its Flagship Store](https://www.npr.org/2021/09/29/1041742081/macys-billboard-amazon-new-york)
+- [Can this man save the world from artificial intelligence?](https://www.thetimes.co.uk/article/can-this-man-save-the-world-from-artificial-intelligence-329dd6zvd)
+- [How to Interview a Programmer (2003)](https://www.artima.com/articles/how-to-interview-a-programmer)
+- [Ahead of German election, Telegram plays radicalizing role](https://www.politico.eu/article/german-telegram-election-misinformation/)
+- [Why Are Fast Food Workers Signing Noncompetes?](https://www.nytimes.com/2021/09/29/opinion/noncompete-agreement-workers.html)
+- [KVM over IP HAT for RPi 4 earns over $560K on Kickstarter](https://linuxgizmos.com/kvm-over-ip-hat-for-rpi-4-earns-over-560k-on-kickstarter/)
+- [Russia threatens to block YouTube after German channels are deleted](https://www.ctvnews.ca/business/youtube-shuts-german-channels-of-russian-broadcaster-russia-threatens-retaliation-1.5604751)
+- [Nova – The Cannabis Question](https://www.pbs.org/video/the-cannabis-question-82boad/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

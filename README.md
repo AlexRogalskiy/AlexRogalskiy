@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can China help end the world’s addiction to coal?](https://www.theguardian.com/news/audio/2021/sep/29/can-china-help-end-the-worlds-addiction-to-coal)
-- [Japan’s ruling party to vote for new leader who is likely to become next PM](https://www.theguardian.com/world/2021/sep/29/japans-ruling-party-ldp-vote-new-leader-kono-kishida-noda-takaichi)
-- [North Korea says it fired new hypersonic missile into sea](https://www.theguardian.com/world/2021/sep/28/north-korea-fires-projectile-into-sea-of-japan-reports)
-- [Pacific nations face ‘lost decade’ due to economic cost of Covid](https://www.theguardian.com/world/2021/sep/29/pacific-nations-face-lost-decade-due-to-economic-cost-of-covid)
-- [Three-quarters of small French boats may be denied fishing in UK waters](https://www.theguardian.com/politics/2021/sep/29/three-quarters-of-small-french-boats-may-be-denied-fishing-in-uk-waters)
-- [No Time to Die review: Daniel Craig dispatches James Bond with panache, rage – and cuddles](https://www.theguardian.com/film/2021/sep/29/no-time-to-die-review-daniel-craig-dispatches-james-bond-with-panache-rage-and-cuddles)
-- [Blame-shifting over US withdrawal ignores deeper failings in Afghanistan](https://www.theguardian.com/world/2021/sep/28/blame-shifting-over-us-withdrawal-ignores-deeper-failings-in-afghanistan)
-- [Champions League roundup: Sheriff Tiraspol shock Real Madrid](https://www.theguardian.com/football/2021/sep/28/champions-league-roundup-sheriff-tiraspol-shock-real-madrid)
-- [Starmer to accuse Tories of being ‘lost in the woods’ as he rejects Corbyn era](https://www.theguardian.com/politics/2021/sep/28/starmer-to-accuse-tories-of-being-lost-in-the-woods-as-he-rejects-corbyn-era)
-- [Mohamed Salah and Roberto Firmino double up as Liverpool crush Porto](https://www.theguardian.com/football/2021/sep/28/porto-liverpool-champions-league-match-report)
+- [The conviction of R Kelly](https://www.theguardian.com/news/audio/2021/sep/30/the-conviction-of-r-kelly)
+- [Kim Jong-un orders hotline with the South to reopen as he condemns ‘cunning’ US](https://www.theguardian.com/world/2021/sep/30/kim-jong-un-hotline-south-us-bidens-north-korea-sister-cunning)
+- [Dominic Raab ‘open-minded’ about allowing asylum seekers to work in UK](https://www.theguardian.com/uk-news/2021/sep/30/dominic-raab-open-minded-about-allowing-asylum-seekers-to-work-in-uk)
+- [Tell us what you think of James Bond’s No Time to Die](https://www.theguardian.com/film/2021/sep/30/tell-us-what-you-think-of-james-bonds-no-time-to-die)
+- [How Lincoln University regenerated the east Midlands city](https://www.theguardian.com/education/2021/sep/30/how-lincoln-university-regenerated-the-east-midlands-city)
+- [Origin story of Dennis the Menace’s jumper to be revealed](https://www.theguardian.com/books/2021/sep/30/backstory-dennis-the-menace-jumper-70th-comic-strip)
+- [Ditching furlough scheme will add to UK’s economic woes, warn unions and firms](https://www.theguardian.com/uk-news/2021/sep/30/ditching-furlough-scheme-will-add-to-uks-economic-woes-warn-unions-and-firms)
+- [UK product safety laws won’t prevent another Grenfell tragedy, report warns](https://www.theguardian.com/technology/2021/sep/30/uk-product-safety-laws-wont-prevent-another-grenfell-tragedy-report-warns)
+- [Cutting methane should be a key Cop26 aim, research suggests](https://www.theguardian.com/environment/2021/sep/30/cutting-methane-should-be-a-key-cop26-aim-research-suggests)
+- [Architect of £9,000 tuition fees calls for faster loan repayments](https://www.theguardian.com/education/2021/sep/30/architect-of-9000-tuition-fees-calls-for-faster-loan-repayments)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

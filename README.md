@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Going Beyond Backup: Acronis True Image is Now Acronis Cyber Protect Home Office](https://www.computerworld.com/article/3635052/going-beyond-backup-acronis-true-image-is-now-acronis-cyber-protect-home-office.html#tk.rss_all)
+- [Apple makes a quiet transition to post-consumerism](https://www.computerworld.com/article/3634873/apple-makes-a-quiet-transition-to-post-consumerism.html#tk.rss_all)
+- [Dropbox’s 'Capture' feature embraces async video](https://www.computerworld.com/article/3634420/dropboxs-capture-feature-embraces-async-video.html#tk.rss_all)
+- [Gmail vs. Outlook: Which works better for business?](https://www.computerworld.com/article/3367936/gmail-vs-outlook-which-works-better-for-business.html#tk.rss_all)
+- [Apple’s latest right-to-repair trick is delightfully evil](https://www.computerworld.com/article/3634384/apples-latest-right-to-repair-trick-is-delightfully-evil.html#tk.rss_all)
 - [Chrome, Edge kick off faster release cadence; enterprises can skip versions](https://www.computerworld.com/article/3634759/chrome-edge-kick-off-faster-release-cadence-enterprises-can-skip-versions.html#tk.rss_all)
 - [Apple, 1Password, and Cloudflare all move to protect email](https://www.computerworld.com/article/3634778/apple-1password-and-cloudflare-all-move-to-protect-email.html#tk.rss_all)
 - [Bad boss! Get your nose out of employees' business](https://www.computerworld.com/article/3634752/bad-boss-get-your-nose-out-of-employees-business.html#tk.rss_all)
 - [On app tracking, both Android and iOS have to do better](https://www.computerworld.com/article/3634460/on-app-tracking-both-android-and-ios-need-to-do-more.html#tk.rss_all)
 - [Apple puts a Map to the future on iPhone](https://www.computerworld.com/article/3634415/apple-puts-a-map-to-the-future-on-iphone.html#tk.rss_all)
-- [How to choose the best desktop-as-a-service solution](https://www.computerworld.com/article/3634468/how-to-choose-the-best-desktop-as-a-service-solution.html#tk.rss_all)
-- [Survey says! What my informal survey shows about Windows](https://www.computerworld.com/article/3634410/survey-says-what-my-informal-survey-shows-about-windows.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Apple needs to act against fake app-privacy promises](https://www.computerworld.com/article/3634595/apple-needs-to-act-against-fake-app-privacy-promises.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

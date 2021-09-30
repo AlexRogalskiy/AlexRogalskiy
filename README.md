@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [ServiceNow’s latest version of the Now Platform focuses on hybrid work solutions](https://www.itworldcanada.com/article/servicenows-latest-version-of-the-now-platform-focuses-on-hybrid-work-solutions/458987)
+- [Western Digital releases WD Red SN700 enterprise NVMe SSD](https://www.itworldcanada.com/article/western-digital-releases-wd-red-sn700-enterprise-nvme-ssd/459332)
+- [The number of end of life applications still running is ‘irresponsible’, says expert](https://www.itworldcanada.com/article/the-number-of-end-of-life-applications-still-running-is-irresponsible-says-expert/459329)
+- [Cyber Security Today, Sept. 29, 2021 – A new ransomware gang pops up, another open database found, Nobelium has a new hacking tool and more](https://www.itworldcanada.com/article/cyber-security-today-sept-29-2021-a-new-ransomware-gang-pops-up-another-open-database-found-nobelium-has-a-new-hacking-tool-and-more/459323)
+- [Hashtag Trending Sept. 29 – Amazon home robot; Pay for tacos with crypto; Intel starts new fab](https://www.itworldcanada.com/article/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/459344)
 - [Registration open for 3rd annual Gone Phishing Tournament](https://www.itworldcanada.com/article/registration-open-for-3rd-annual-gone-phishing-tournament/459241)
 - [Coffee Briefing, Sept. 28, 2021 – Amazon Connect’s new AI/ML-enabled features; Aptum’s Cloud Impact study; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-sept-28-2021-amazon-connects-new-ai-ml-enabled-features-aptums-cloud-impact-study-a-podcast-roundup-and-more/459246)
 - [Hashtag Trending September 28 – Mega-Retailers Curbed By California Law; Japan Breaks Internet Speed Record; Facebook Denies Instagram Wrongdoing](https://www.itworldcanada.com/article/hashtag-trending-september-28-mega-retailers-curbed-by-california-law-japan-breaks-internet-speed-record-facebook-denies-instagram-wrongdoing/459236)
 - [The cores of Alder Lake: Gracemont and Golden Cove](https://www.itworldcanada.com/article/the-cores-of-alder-lake-gracemont-and-golden-cove/457977)
 - [Resourceful data: Alberta Energy Regulator](https://www.itworldcanada.com/article/resourceful-data-alberta-energy-regulator/459199)
-- [Exchange Autodiscover design flaw creates security risk, says report](https://www.itworldcanada.com/article/exchange-autodiscover-design-flaw-creates-security-risk-says-report/459168)
-- [Hashtag Trending September 27 – App tracking rule bending; crypto miner power plant purchase; hamster investor](https://www.itworldcanada.com/article/hashtag-trending-september-27-app-tracking-rule-bending-crypto-miner-power-plant-purchase-hamster-investor/459174)
-- [Cyber Security Today, Sept. 27, 2021 – A new ransomware group found, AlphaBay criminal marketplace is back and updates from Chrome and Apple to install](https://www.itworldcanada.com/article/cyber-security-today-sept-27-2021-a-new-ransomware-group-found-alphabay-criminal-marketplace-is-back-and-updates-from-chrome-and-apple-to-install/459164)
-- [Despite Meng deal, expert suggests that Huawei won’t get OK to sell 5G network equipment to Canadian telcos](https://www.itworldcanada.com/article/despite-meng-deal-expert-suggests-that-huawei-wont-get-ok-to-sell-5g-network-equipment-to-canadian-telcos/459130)
-- [How to Measure Anything: Finding the Value of Intangibles](https://www.itworldcanada.com/article/how-to-measure-anything-finding-the-value-of-intangibles/459122)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

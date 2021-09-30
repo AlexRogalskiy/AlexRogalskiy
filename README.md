@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
+- [How to Know When to Abandon an Underperforming Cloud Provider](https://www.informationweek.com/cloud/how-to-know-when-to-abandon-an-underperforming-cloud-provider)
 - [Data Engineers in High Demand, Winning High Salaries](https://www.informationweek.com/hardware-or-architectures/data-engineers-in-high-demand-winning-high-salaries)
 - [Has Your Business Defined Customer Experience Correctly?](https://www.informationweek.com/executive-insights-and-innovation/has-your-business-defined-customer-experience-correctly-)
 - [In-House Gatekeepers Help CIOs Drive Digital Initiatives](https://www.informationweek.com/strategic-cio/in-house-gatekeepers-help-cios-drive-digital-initiatives)
@@ -369,8 +371,6 @@
 - [Capitalize on Valuable Data With a Single Analytics Platform](https://www.informationweek.com/big-data-analytics/capitalize-on-valuable-data-with-a-single-analytics-platform)
 - [When to Pull the Plug on a Failing IT Project](https://www.informationweek.com/strategic-cio/when-to-pull-the-plug-on-a-failing-it-project)
 - [3 Ways to Do AIOps Right in Cloud-Native Environments](https://www.informationweek.com/cloud/3-ways-to-do-aiops-right-in-cloud-native-environments)
-- [Pros and Cons of Being a CIO at a Non-Profit Entity](https://www.informationweek.com/strategic-cio/pros-and-cons-of-being-a-cio-at-a-non-profit-entity)
-- [Ways to Prevent Multi-Cloud Mayhem](https://www.informationweek.com/cloud/ways-to-prevent-multi-cloud-mayhem)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

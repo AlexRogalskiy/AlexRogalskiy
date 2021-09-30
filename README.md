@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
-- [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
-- [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
-- [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
-- [Safety of Nuclear Energy](https://ourworldindata.org/nuclear-energy)
-- [Squirrel stores thousands of nuts inside man's parked truck](https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche)
-- [Dude, where’s my stuff](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/)
-- [Podman in Linux](http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html)
-- [Mobile LTE Coverage Map](https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map)
-- [Hypersonic HAWC missile flies, but details are kept hidden](https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/)
+- [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
+- [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
+- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
+- [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
+- [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+- [GPUs open the potential to forecast urban weather for drones and air taxis](https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis)
+- [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
+- [Can You See Me Now? A measurement study of Zoom, Webex, and Meet](https://arxiv.org/abs/2109.13113)
+- [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

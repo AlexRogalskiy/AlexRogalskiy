@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Digital regulators need discrete but cooperative remits](https://www.computerweekly.com/news/252507267/Digital-regulators-need-discrete-but-cooperative-remits)
-- [How one red team exercise averted a new SolarWinds-style attack](https://www.computerweekly.com/news/252507266/How-one-red-team-exercise-averted-a-new-SolarWinds-style-attack)
-- [A Computer Weekly buyer’s guide to SIEM and SOAR](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-SIEM-and-SOAR)
-- [Ultimate questions require ultimate understanding in the quantum era](https://www.computerweekly.com/feature/Ultimate-questions-require-ultimate-understanding-in-the-quantum-era)
-- [Pure launches Fusion cloud control layer for storage](https://www.computerweekly.com/news/252507074/Pure-launches-Fusion-cloud-control-layer-for-storage)
-- [Dutch IT firm transforms HR policy built on lessons from pandemic](https://www.computerweekly.com/news/252507234/Dutch-IT-firm-transforms-HR-policy-built-on-lessons-from-pandemic)
-- [Government announces data strategy for defence](https://www.computerweekly.com/news/252507242/Government-announces-data-strategy-for-defence)
-- [PwC initiative Tech She Can becomes independent charity](https://www.computerweekly.com/news/252507256/PwC-initiative-Tech-She-Can-becomes-independent-charity)
-- [Chancellor Rishi Sunak talks tech](https://www.computerweekly.com/ezine/Computer-Weekly/Chancellor-Rishi-Sunak-talks-tech)
-- [Uber drivers strike over pay issues and unfair dismissal claims](https://www.computerweekly.com/news/252507239/Uber-drivers-strike-over-pay-issues-and-unfair-dismissal-claims)
+- [Russia arrests prominent cyber security executive](https://www.computerweekly.com/news/252507417/Russia-arrests-prominent-cyber-security-executive)
+- [FoggyWeb malware latest tool of dangerous Nobelium APT](https://www.computerweekly.com/news/252507421/FoggyWeb-malware-latest-tool-of-dangerous-Nobelium-APT)
+- [Security boost in Windows 11 limits PC reuse](https://www.computerweekly.com/news/252507307/Security-boost-in-Windows-11-limits-PC-reuse)
+- [UK government announces industry group to lead digital pound debate](https://www.computerweekly.com/news/252507319/UK-government-announces-industry-group-to-lead-digital-pound-debate)
+- [AWS courts local councils across UK and Ireland with three-month free cloud services trial offer](https://www.computerweekly.com/news/252507300/AWS-courts-local-councils-across-UK-and-Ireland-with-three-month-free-cloud-services-trial-offer)
+- [Dedicated number for victims of fraud launched amid national security threat](https://www.computerweekly.com/news/252507303/Dedicated-number-for-victims-of-fraud-launched-amid-national-security-threat)
+- [Women in fintech welcome Barclays initiative and demand more from the sector](https://www.computerweekly.com/news/252507306/Women-in-fintech-welcome-Barclays-initiative-and-demand-more-from-the-sector)
+- [Could Iceland be the best place in the world for high-performance computing?](https://www.computerweekly.com/feature/Could-Iceland-be-the-best-place-in-the-world-for-high-performance-computing)
+- [Rebooting the hospitality sector with technology](https://www.computerweekly.com/opinion/Rebooting-the-hospitality-sector-with-technology)
+- [NVMe-over-fabrics: Five need-to-knows](https://www.computerweekly.com/feature/NVMe-over-fabrics-Five-need-to-knows)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

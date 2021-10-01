@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
-- [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
-- [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
-- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
-- [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
-- [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
-- [GPUs open the potential to forecast urban weather for drones and air taxis](https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis)
-- [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
-- [Can You See Me Now? A measurement study of Zoom, Webex, and Meet](https://arxiv.org/abs/2109.13113)
-- [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
+- [PwC Tells U.S. Employees They Need Never Return to the Office](https://www.reuters.com/business/exclusive-pwc-tells-us-employees-they-need-never-return-office-2021-09-30/)
+- [The OpenBSD Webzine](https://webzine.puffy.cafe/)
+- [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
+- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
+- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- [Coping with the Clutter of Houseplants](https://dirtwise.substack.com/p/navigating-the-urban-jungle)
+- [Enabling IPv6 Support for GitHub Pages](https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/)
+- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
+- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
+- [DMV approves Cruise and Waymo for commercial service in parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

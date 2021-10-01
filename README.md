@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why to Rethink Liability Insurance for IT](https://www.informationweek.com/security-and-risk-strategy/why-to-rethink-liability-insurance-for-it)
+- [How to Boost Camaraderie, Connections for Remote and Hybrid Teams](https://www.informationweek.com/team-building-and-staffing/how-to-boost-camaraderie-connections-for-remote-and-hybrid-teams)
 - [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
 - [How to Know When to Abandon an Underperforming Cloud Provider](https://www.informationweek.com/cloud/how-to-know-when-to-abandon-an-underperforming-cloud-provider)
 - [Data Engineers in High Demand, Winning High Salaries](https://www.informationweek.com/hardware-or-architectures/data-engineers-in-high-demand-winning-high-salaries)
@@ -369,8 +371,6 @@
 - [How Evite Used Cloud Scalability to Match Its Elasticity](https://www.informationweek.com/cloud/how-evite-used-cloud-scalability-to-match-its-elasticity)
 - [Cloud Computing Like a Day in a Chocolate Factory for IT Managers](https://www.informationweek.com/cloud/cloud-computing-like-a-day-in-a-chocolate-factory-for-it-managers)
 - [Capitalize on Valuable Data With a Single Analytics Platform](https://www.informationweek.com/big-data-analytics/capitalize-on-valuable-data-with-a-single-analytics-platform)
-- [When to Pull the Plug on a Failing IT Project](https://www.informationweek.com/strategic-cio/when-to-pull-the-plug-on-a-failing-it-project)
-- [3 Ways to Do AIOps Right in Cloud-Native Environments](https://www.informationweek.com/cloud/3-ways-to-do-aiops-right-in-cloud-native-environments)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

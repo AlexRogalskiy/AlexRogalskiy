@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: iPhone privacy settings still allow apps to track users, plus Android's privacy measures](https://www.computerworld.com/article/3635150/podcast-iphone-privacy-settings-still-allow-apps-to-track-users-plus-how-androids-privacy-measures.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [The Chrome shortcut sidebar you didn't know you needed](https://www.computerworld.com/article/3635008/google-chrome-shortcut-sidebar.html#tk.rss_all)
+- [Microsoft Teams gets Phone features, Operator Connect service](https://www.computerworld.com/article/3635149/microsoft-teams-gets-phone-features-operator-connect-service.html#tk.rss_all)
 - [BrandPost: Going Beyond Backup: Acronis True Image is Now Acronis Cyber Protect Home Office](https://www.computerworld.com/article/3635052/going-beyond-backup-acronis-true-image-is-now-acronis-cyber-protect-home-office.html#tk.rss_all)
 - [Apple makes a quiet transition to post-consumerism](https://www.computerworld.com/article/3634873/apple-makes-a-quiet-transition-to-post-consumerism.html#tk.rss_all)
 - [Dropbox’s 'Capture' feature embraces async video](https://www.computerworld.com/article/3634420/dropboxs-capture-feature-embraces-async-video.html#tk.rss_all)
 - [Gmail vs. Outlook: Which works better for business?](https://www.computerworld.com/article/3367936/gmail-vs-outlook-which-works-better-for-business.html#tk.rss_all)
 - [Apple’s latest right-to-repair trick is delightfully evil](https://www.computerworld.com/article/3634384/apples-latest-right-to-repair-trick-is-delightfully-evil.html#tk.rss_all)
-- [Chrome, Edge kick off faster release cadence; enterprises can skip versions](https://www.computerworld.com/article/3634759/chrome-edge-kick-off-faster-release-cadence-enterprises-can-skip-versions.html#tk.rss_all)
-- [Apple, 1Password, and Cloudflare all move to protect email](https://www.computerworld.com/article/3634778/apple-1password-and-cloudflare-all-move-to-protect-email.html#tk.rss_all)
-- [Bad boss! Get your nose out of employees' business](https://www.computerworld.com/article/3634752/bad-boss-get-your-nose-out-of-employees-business.html#tk.rss_all)
-- [On app tracking, both Android and iOS have to do better](https://www.computerworld.com/article/3634460/on-app-tracking-both-android-and-ios-need-to-do-more.html#tk.rss_all)
-- [Apple puts a Map to the future on iPhone](https://www.computerworld.com/article/3634415/apple-puts-a-map-to-the-future-on-iphone.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

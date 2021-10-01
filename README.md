@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The conviction of R Kelly](https://www.theguardian.com/news/audio/2021/sep/30/the-conviction-of-r-kelly)
-- [Kim Jong-un orders hotline with the South to reopen as he condemns ‘cunning’ US](https://www.theguardian.com/world/2021/sep/30/kim-jong-un-hotline-south-us-bidens-north-korea-sister-cunning)
-- [Dominic Raab ‘open-minded’ about allowing asylum seekers to work in UK](https://www.theguardian.com/uk-news/2021/sep/30/dominic-raab-open-minded-about-allowing-asylum-seekers-to-work-in-uk)
-- [Tell us what you think of James Bond’s No Time to Die](https://www.theguardian.com/film/2021/sep/30/tell-us-what-you-think-of-james-bonds-no-time-to-die)
-- [How Lincoln University regenerated the east Midlands city](https://www.theguardian.com/education/2021/sep/30/how-lincoln-university-regenerated-the-east-midlands-city)
-- [Origin story of Dennis the Menace’s jumper to be revealed](https://www.theguardian.com/books/2021/sep/30/backstory-dennis-the-menace-jumper-70th-comic-strip)
-- [Ditching furlough scheme will add to UK’s economic woes, warn unions and firms](https://www.theguardian.com/uk-news/2021/sep/30/ditching-furlough-scheme-will-add-to-uks-economic-woes-warn-unions-and-firms)
-- [UK product safety laws won’t prevent another Grenfell tragedy, report warns](https://www.theguardian.com/technology/2021/sep/30/uk-product-safety-laws-wont-prevent-another-grenfell-tragedy-report-warns)
-- [Cutting methane should be a key Cop26 aim, research suggests](https://www.theguardian.com/environment/2021/sep/30/cutting-methane-should-be-a-key-cop26-aim-research-suggests)
-- [Architect of £9,000 tuition fees calls for faster loan repayments](https://www.theguardian.com/education/2021/sep/30/architect-of-9000-tuition-fees-calls-for-faster-loan-repayments)
+- [Florida man uses recycling bin to catch large alligator outside his house](https://www.theguardian.com/us-news/2021/oct/01/florida-man-catches-alligator-in-trash-can-wheelie-bn)
+- [Boris Johnson wants a conference reset. Will reality ruin it?](https://www.theguardian.com/news/audio/2021/oct/01/boris-johnson-wants-a-conference-reset-will-reality-ruin-it)
+- [Biden signs bill averting shutdown as heated infrastructure debate drags on – live](https://www.theguardian.com/us-news/live/2021/sep/30/joe-biden-infrastructure-social-policy-congress-us-politics-live-latest-news)
+- [‘Punching the air’: Pelé leaves hospital to undergo chemotherapy](https://www.theguardian.com/football/2021/oct/01/punching-the-air-pele-leaves-hospital-to-undergo-chemotherapy)
+- [North Korea fires new anti-aircraft missile in latest test, state media reports](https://www.theguardian.com/world/2021/oct/01/north-korea-test-fires-new-anti-aircraft-missile-state-media)
+- [‘Red wall’ Tories call on Rishi Sunak to cut business rates](https://www.theguardian.com/politics/2021/oct/01/red-wall-tories-call-on-rishi-sunak-to-cut-business-rates)
+- [Home Office, Foreign Office and MoJ worst for openness, finds report](https://www.theguardian.com/politics/2021/oct/01/home-office-foreign-office-and-moj-worst-for-openness-finds-report)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/oct/01/premier-league-10-things-to-look-out-for-this-weekend)
+- [Long Beach school officer shoots 18-year-old, leaving her on life support](https://www.theguardian.com/us-news/2021/sep/30/school-officer-shooting-california-manuela-rodriguez)
+- [Dr Dre, Kendrick Lamar, Eminem, Mary J Blige and Snoop Dogg to perform at Super Bowl](https://www.theguardian.com/music/2021/sep/30/super-bowl-half-time-show-dr-dre-eminem-mary-j-blige)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
+- [Computer Weekly announces the 2021 Most Influential Women in UK Tech](https://www.computerweekly.com/news/252507482/Computer-Weekly-announces-the-2021-Most-Influential-Women-in-UK-Tech)
+- [Computer Weekly’s 2021 women in tech Rising Stars](https://www.computerweekly.com/news/252507298/Computer-Weeklys-2021-women-in-tech-Rising-Stars)
+- [UK AI strategy focused on economic growth, resilience and ethics](https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics)
+- [Digital bank fined by regulator due to weak anti-money laundering controls](https://www.computerweekly.com/news/252507492/Digital-bank-fined-by-regulator-due-to-weak-anti-money-laundering-controls)
+- [Team leaders urged to address developer mental health](https://www.computerweekly.com/news/252507495/Team-leaders-urged-to-address-developer-mental-health)
+- [Will the end of furlough help fill tech vacancies?](https://www.computerweekly.com/opinion/Will-the-end-of-furlough-help-fill-tech-vacancies)
+- [Starling Bank takes its banking-as-a-service into European Union](https://www.computerweekly.com/news/252507489/Starling-Bank-takes-its-banking-as-a-service-into-the-EU)
+- [UK consumers would collectively pay over £1bn a year for control of their data](https://www.computerweekly.com/news/252507442/UK-consumers-would-collectively-pay-over-1bn-a-year-for-control-of-their-data)
 - [Russia arrests prominent cyber security executive](https://www.computerweekly.com/news/252507417/Russia-arrests-prominent-cyber-security-executive)
-- [FoggyWeb malware latest tool of dangerous Nobelium APT](https://www.computerweekly.com/news/252507421/FoggyWeb-malware-latest-tool-of-dangerous-Nobelium-APT)
-- [Security boost in Windows 11 limits PC reuse](https://www.computerweekly.com/news/252507307/Security-boost-in-Windows-11-limits-PC-reuse)
-- [UK government announces industry group to lead digital pound debate](https://www.computerweekly.com/news/252507319/UK-government-announces-industry-group-to-lead-digital-pound-debate)
-- [AWS courts local councils across UK and Ireland with three-month free cloud services trial offer](https://www.computerweekly.com/news/252507300/AWS-courts-local-councils-across-UK-and-Ireland-with-three-month-free-cloud-services-trial-offer)
-- [Dedicated number for victims of fraud launched amid national security threat](https://www.computerweekly.com/news/252507303/Dedicated-number-for-victims-of-fraud-launched-amid-national-security-threat)
-- [Women in fintech welcome Barclays initiative and demand more from the sector](https://www.computerweekly.com/news/252507306/Women-in-fintech-welcome-Barclays-initiative-and-demand-more-from-the-sector)
-- [Could Iceland be the best place in the world for high-performance computing?](https://www.computerweekly.com/feature/Could-Iceland-be-the-best-place-in-the-world-for-high-performance-computing)
-- [Rebooting the hospitality sector with technology](https://www.computerweekly.com/opinion/Rebooting-the-hospitality-sector-with-technology)
-- [NVMe-over-fabrics: Five need-to-knows](https://www.computerweekly.com/feature/NVMe-over-fabrics-Five-need-to-knows)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

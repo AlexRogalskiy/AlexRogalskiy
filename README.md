@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google MUM Demonstrated](https://searchengineland.com/mum-brings-multimodal-search-to-lens-deeper-understanding-of-videos-and-new-serp-features-374798)
-- [Seventy-Seven Cents on the Thaler? Women’s Wages in the Middle Ages (2016)](https://yvonneseale.org/blog/2016/05/31/womens-work/)
-- [Macy Wants to Block Amazon Ads from a Giant Billboard Next to Its Flagship Store](https://www.npr.org/2021/09/29/1041742081/macys-billboard-amazon-new-york)
-- [Can this man save the world from artificial intelligence?](https://www.thetimes.co.uk/article/can-this-man-save-the-world-from-artificial-intelligence-329dd6zvd)
-- [How to Interview a Programmer (2003)](https://www.artima.com/articles/how-to-interview-a-programmer)
-- [Ahead of German election, Telegram plays radicalizing role](https://www.politico.eu/article/german-telegram-election-misinformation/)
-- [Why Are Fast Food Workers Signing Noncompetes?](https://www.nytimes.com/2021/09/29/opinion/noncompete-agreement-workers.html)
-- [KVM over IP HAT for RPi 4 earns over $560K on Kickstarter](https://linuxgizmos.com/kvm-over-ip-hat-for-rpi-4-earns-over-560k-on-kickstarter/)
-- [Russia threatens to block YouTube after German channels are deleted](https://www.ctvnews.ca/business/youtube-shuts-german-channels-of-russian-broadcaster-russia-threatens-retaliation-1.5604751)
-- [Nova – The Cannabis Question](https://www.pbs.org/video/the-cannabis-question-82boad/)
+- [The Great Overgrown: photography of nature reclaiming abandoned places](https://www.nationalgeographic.com/travel/article/photos-of-abandoned-places-around-the-world)
+- [JShelter – browser extension to mitigate potential threats from JavaScript](https://jshelter.org/)
+- [Tarantino defends all feet in his movies](https://screenrant.com/quentin-tarantino-movies-feet-why-response/)
+- [Ocean Drone Captures Video from Inside a Category 4 Hurricane](https://www.saildrone.com/press-release/ocean-drone-captures-video-inside-category-4-hurricane)
+- [Both sides of the isle up in arms over child safety on Instagram/Facebook](https://www.washingtonpost.com/technology/2021/09/30/facebook-instagram-teens-health/)
+- [Hellbanned from Hacker News (2012)](https://jcs.org/2012/06/13/hellbanned_from_hacker_news)
+- [FSF announces JShelter browser add-on to combat threats from nonfree JavaScript](https://www.fsf.org/news/fsf-announces-jshelter-browser-add-on-to-combat-threats-from-nonfree-javascript)
+- [Blue Origin Is Stuck in a Toxic Past](https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past)
+- [U.S. lawmakers push for new controls on ex-spies working overseas](https://www.reuters.com/world/us/exclusive-us-lawmakers-push-new-controls-ex-spies-working-overseas-2021-09-30/)
+- [New $28K Prefab Tiny Home Is Proof That the Future Is Now](https://www.dwell.com/article/cube-two-x-nestron-035d916a)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

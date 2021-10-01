@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with this question I have?](https://www.reddit.com/r/InformationTechnology/comments/pyxjcf/help_with_this_question_i_have/)
+- [Extractinig Files from HDD](https://www.reddit.com/r/InformationTechnology/comments/pywqtw/extractinig_files_from_hdd/)
+- [Comptia A+ Question](https://www.reddit.com/r/InformationTechnology/comments/pyhr6o/comptia_a_question/)
 - [Community college options for an international student.](https://www.reddit.com/r/InformationTechnology/comments/py7f7r/community_college_options_for_an_international/)
 - [What low-stress IT Jobs work 35-40 hours a week with lower barriers to entry?](https://www.reddit.com/r/InformationTechnology/comments/pwl122/what_lowstress_it_jobs_work_3540_hours_a_week/)
 - [Looking to creating an environment similar to my school and old workplace and college campus for the growing business I'm working for.](https://www.reddit.com/r/InformationTechnology/comments/pwl0g0/looking_to_creating_an_environment_similar_to_my/)
@@ -413,9 +416,6 @@
 - [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
 - [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
 - [Good help desk software?](https://www.reddit.com/r/InformationTechnology/comments/puixyc/good_help_desk_software/)
-- [UPS rage](https://www.reddit.com/r/InformationTechnology/comments/puhe07/ups_rage/)
-- [What is the mechanism, protocol, or port that sends a file when I copy+paste from RDP?](https://www.reddit.com/r/InformationTechnology/comments/ptp3vh/what_is_the_mechanism_protocol_or_port_that_sends/)
-- [DD-WRT vs PFSense](https://www.reddit.com/r/InformationTechnology/comments/ptm6ql/ddwrt_vs_pfsense/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

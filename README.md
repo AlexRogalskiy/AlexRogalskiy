@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [asking](https://www.reddit.com/r/InformationTechnology/comments/pz93ic/asking/)
 - [Help with this question I have?](https://www.reddit.com/r/InformationTechnology/comments/pyxjcf/help_with_this_question_i_have/)
 - [Extractinig Files from HDD](https://www.reddit.com/r/InformationTechnology/comments/pywqtw/extractinig_files_from_hdd/)
 - [Comptia A+ Question](https://www.reddit.com/r/InformationTechnology/comments/pyhr6o/comptia_a_question/)
@@ -415,7 +416,6 @@
 - [IT Student here, doubt about licenses.](https://www.reddit.com/r/InformationTechnology/comments/pvquil/it_student_here_doubt_about_licenses/)
 - [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
 - [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
-- [Good help desk software?](https://www.reddit.com/r/InformationTechnology/comments/puixyc/good_help_desk_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

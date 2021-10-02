@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How PepsiCo Put Data to Work Connecting to Customers](https://www.informationweek.com/it-strategy/how-pepsico-put-data-to-work-connecting-to-customers)
+- [6 Tips to Adopt and Thrive With a Product-Driven Culture](https://www.informationweek.com/enterprise-agility/6-tips-to-adopt-and-thrive-with-a-product-driven-culture)
 - [Why to Rethink Liability Insurance for IT](https://www.informationweek.com/security-and-risk-strategy/why-to-rethink-liability-insurance-for-it)
 - [How to Boost Camaraderie, Connections for Remote and Hybrid Teams](https://www.informationweek.com/team-building-and-staffing/how-to-boost-camaraderie-connections-for-remote-and-hybrid-teams)
 - [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
@@ -369,8 +371,6 @@
 - [Has Your Business Defined Customer Experience Correctly?](https://www.informationweek.com/executive-insights-and-innovation/has-your-business-defined-customer-experience-correctly-)
 - [In-House Gatekeepers Help CIOs Drive Digital Initiatives](https://www.informationweek.com/strategic-cio/in-house-gatekeepers-help-cios-drive-digital-initiatives)
 - [How Evite Used Cloud Scalability to Match Its Elasticity](https://www.informationweek.com/cloud/how-evite-used-cloud-scalability-to-match-its-elasticity)
-- [Cloud Computing Like a Day in a Chocolate Factory for IT Managers](https://www.informationweek.com/cloud/cloud-computing-like-a-day-in-a-chocolate-factory-for-it-managers)
-- [Capitalize on Valuable Data With a Single Analytics Platform](https://www.informationweek.com/big-data-analytics/capitalize-on-valuable-data-with-a-single-analytics-platform)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

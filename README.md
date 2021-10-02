@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Fintech firm Stripe is on a hiring spree to fill its first Canadian office in Toronto](https://www.itworldcanada.com/article/fintech-firm-stripe-is-on-a-hiring-spree-in-toronto-to-fill-its-first-canadian-office/459555)
+- [Twitter looks to the future with new features](https://www.itworldcanada.com/article/twitter-looks-to-the-future-with-new-features/459542)
+- [Cyber Security Awareness Month starts with disappointing Canadian survey](https://www.itworldcanada.com/article/cyber-security-awareness-month-starts-with-disappointing-canadian-survey/459536)
+- [Cyber Security Today, Oct. 1, 2021 – Microsoft addresses Azure flaw, advice on configuring VPNs, Eduroam WiFi issue and more](https://www.itworldcanada.com/article/cyber-security-today-oct-1-2021-microsoft-addresses-azure-flaw-advice-on-configuring-vpns-eduroam-wifi-issue-and-more/459512)
+- [Hashtag Trending October 1- YouTube bans anti-vaxxers; Facebook may face fine in Russia; Google’s search engine dominance](https://www.itworldcanada.com/article/hashtag-trending-october-1-youtube-bans-anti-vaxxers-facebook-may-face-fine-in-russia-googles-search-engine-dominance/459517)
 - [Analytics Unleashed 2021 event roundup – businesses must have data analytics on the frontline](https://www.itworldcanada.com/article/analytics-unleashed-2021-event-roundup-businesses-must-have-data-analytics-on-the-frontline/459225)
 - [Vancouver-based IT firm to expand to Winnipeg, create 100 tech jobs](https://www.itworldcanada.com/article/vancouver-based-it-firm-to-expand-to-winnipeg-create-100-tech-jobs/459415)
 - [Three things you need to know to manage multi-cloud](https://www.itworldcanada.com/article/three-things-you-need-to-know-to-manage-multi-cloud/459436)
 - [Security of Canadian vaccine credential storage app questioned](https://www.itworldcanada.com/article/security-of-canadian-vaccine-credential-storage-app-questioned/459380)
 - [IT transformation can be a profitable investment](https://www.itworldcanada.com/article/it-transformation-can-be-a-profitable-investment/459484)
-- [Hashtag Trending September 30- Amazon’s Astro; Samsung semiconductor factor; Apple remote work](https://www.itworldcanada.com/article/hashtag-trending-september-30-amazons-astro-samsung-semiconductor-factor-apple-remote-work/459422)
-- [ServiceNow’s latest version of the Now Platform focuses on hybrid work solutions](https://www.itworldcanada.com/article/servicenows-latest-version-of-the-now-platform-focuses-on-hybrid-work-solutions/458987)
-- [Western Digital releases WD Red SN700 enterprise NVMe SSD](https://www.itworldcanada.com/article/western-digital-releases-wd-red-sn700-enterprise-nvme-ssd/459332)
-- [The number of end of life applications still running is ‘irresponsible’, says expert](https://www.itworldcanada.com/article/the-number-of-end-of-life-applications-still-running-is-irresponsible-says-expert/459329)
-- [Cyber Security Today, Sept. 29, 2021 – A new ransomware gang pops up, another open database found, Nobelium has a new hacking tool and more](https://www.itworldcanada.com/article/cyber-security-today-sept-29-2021-a-new-ransomware-gang-pops-up-another-open-database-found-nobelium-has-a-new-hacking-tool-and-more/459323)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Sumo Logic enhances observability suite for app, infrastructure performance](https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html#tk.rss_all)
+- [CodeSee launches codebase onboarding portal for open source developers](https://www.infoworld.com/article/3635371/codesee-launches-codebase-onboarding-portal-for-open-source-developers.html#tk.rss_all)
+- [GitHub Enterprise Cloud connects with Azure AD, Okta](https://www.infoworld.com/article/3635294/github-enterprise-cloud-connects-with-azure-ad-okta.html#tk.rss_all)
+- [PostgreSQL 14 brings performance boosts](https://www.infoworld.com/article/3635136/postgresql-14-brings-performance-boosts.html#tk.rss_all)
+- [How cloud computing impacts technology evolution](https://www.infoworld.com/article/3635092/how-cloud-computing-impacts-technology-evolution.html#tk.rss_all)
 - [Java port eyed for RISC-V hardware](https://www.infoworld.com/article/3635029/java-port-eyed-for-risc-v-hardware.html#tk.rss_all)
 - [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_all)
 - [How to prevent CSRF attacks in ASP.NET Core](https://www.infoworld.com/article/3634428/how-to-prevent-csrf-attacks-in-aspnet-core.html#tk.rss_all)
 - [The 2021 Enterprise Architecture Awards](https://www.infoworld.com/article/3634779/the-2021-enterprise-architecture-awards.html#tk.rss_all)
 - [Under the hood with .NET 6](https://www.infoworld.com/article/3634600/under-the-hood-with-net-6.html#tk.rss_all)
-- [Microsoft weighs in on Surface Duo apps](https://www.infoworld.com/article/3634419/microsoft-weighs-in-on-surface-duo-apps.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Cloudflare hopes lack of outbound data fees will convert AWS S3 users to its R2 storage service](https://www.infoworld.com/article/3634406/cloudflare-hopes-lack-of-outbound-data-fees-will-convert-aws-s3-users-to-its-r2-storage-service.html#tk.rss_all)
-- [How to secure cloud infrastructure across the development lifecycle](https://www.infoworld.com/article/3634774/how-to-secure-cloud-infrastructure-across-the-development-lifecycle.html#tk.rss_all)
-- [What's your multicloud maturity level?](https://www.infoworld.com/article/3634753/whats-your-multicloud-maturity-level.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

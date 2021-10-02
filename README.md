@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Florida man uses recycling bin to catch large alligator outside his house](https://www.theguardian.com/us-news/2021/oct/01/florida-man-catches-alligator-in-trash-can-wheelie-bn)
-- [Boris Johnson wants a conference reset. Will reality ruin it?](https://www.theguardian.com/news/audio/2021/oct/01/boris-johnson-wants-a-conference-reset-will-reality-ruin-it)
-- [Biden signs bill averting shutdown as heated infrastructure debate drags on – live](https://www.theguardian.com/us-news/live/2021/sep/30/joe-biden-infrastructure-social-policy-congress-us-politics-live-latest-news)
-- [‘Punching the air’: Pelé leaves hospital to undergo chemotherapy](https://www.theguardian.com/football/2021/oct/01/punching-the-air-pele-leaves-hospital-to-undergo-chemotherapy)
-- [North Korea fires new anti-aircraft missile in latest test, state media reports](https://www.theguardian.com/world/2021/oct/01/north-korea-test-fires-new-anti-aircraft-missile-state-media)
-- [‘Red wall’ Tories call on Rishi Sunak to cut business rates](https://www.theguardian.com/politics/2021/oct/01/red-wall-tories-call-on-rishi-sunak-to-cut-business-rates)
-- [Home Office, Foreign Office and MoJ worst for openness, finds report](https://www.theguardian.com/politics/2021/oct/01/home-office-foreign-office-and-moj-worst-for-openness-finds-report)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/oct/01/premier-league-10-things-to-look-out-for-this-weekend)
-- [Long Beach school officer shoots 18-year-old, leaving her on life support](https://www.theguardian.com/us-news/2021/sep/30/school-officer-shooting-california-manuela-rodriguez)
-- [Dr Dre, Kendrick Lamar, Eminem, Mary J Blige and Snoop Dogg to perform at Super Bowl](https://www.theguardian.com/music/2021/sep/30/super-bowl-half-time-show-dr-dre-eminem-mary-j-blige)
+- [‘I’m overjoyed’: Canadian Michael Spavor speaks out after China release](https://www.theguardian.com/world/2021/oct/02/im-overjoyed-canadian-michael-spavor-speaks-out-after-china-release)
+- [Taiwan reports largest ever incursion as 38 Chinese planes fly over air space](https://www.theguardian.com/world/2021/oct/02/taiwan-reports-largest-ever-incursion-as-38-chinese-planes-fly-over-air-space)
+- [‘We’re going to get it done’: Biden vows to break impasse after Capitol Hill talks](https://www.theguardian.com/us-news/2021/oct/01/joe-biden-capitol-hill-infrastructure-vote-talks-domestic-agenda)
+- [Media startup Ozy shuts down after New York Times report raises concerns](https://www.theguardian.com/media/2021/oct/01/media-startup-ozy-shuts-down-after-new-york-times-report-raises-concerns)
+- [Tories order biggest shake-up of NHS leadership in England for 40 years](https://www.theguardian.com/politics/2021/oct/02/tories-order-biggest-shake-up-of-nhs-leadership-in-england-for-40-years)
+- [Bristol’s Radradra blow mars Sinckler’s winning return against Bath](https://www.theguardian.com/sport/2021/oct/01/bristol-bath-premiership-rugby-match-report)
+- [‘It’s the package’: how Liverpool’s rhythm got the goals flowing again](https://www.theguardian.com/football/2021/oct/01/liverpool-rhythm-goals-jurgen-klopp-manchester-city)
+- [Emergency visa scheme extended in major U-turn by Boris Johnson](https://www.theguardian.com/business/2021/oct/01/overseas-food-and-fuel-drivers-to-get-visas-in-major-u-turn-by-boris-johnson)
+- [St Helens sweep Leeds aside to book final date with Catalans](https://www.theguardian.com/sport/2021/oct/01/st-helens-leeds-super-league-match-report)
+- [What If If Only review – short and sharp, with shades of Scrooge](https://www.theguardian.com/stage/2021/oct/01/what-if-if-only-review-short-and-sharp-with-shades-of-scrooge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

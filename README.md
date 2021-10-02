@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Great Overgrown: photography of nature reclaiming abandoned places](https://www.nationalgeographic.com/travel/article/photos-of-abandoned-places-around-the-world)
-- [JShelter – browser extension to mitigate potential threats from JavaScript](https://jshelter.org/)
-- [Tarantino defends all feet in his movies](https://screenrant.com/quentin-tarantino-movies-feet-why-response/)
-- [Ocean Drone Captures Video from Inside a Category 4 Hurricane](https://www.saildrone.com/press-release/ocean-drone-captures-video-inside-category-4-hurricane)
-- [Both sides of the isle up in arms over child safety on Instagram/Facebook](https://www.washingtonpost.com/technology/2021/09/30/facebook-instagram-teens-health/)
-- [Hellbanned from Hacker News (2012)](https://jcs.org/2012/06/13/hellbanned_from_hacker_news)
-- [FSF announces JShelter browser add-on to combat threats from nonfree JavaScript](https://www.fsf.org/news/fsf-announces-jshelter-browser-add-on-to-combat-threats-from-nonfree-javascript)
-- [Blue Origin Is Stuck in a Toxic Past](https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past)
-- [U.S. lawmakers push for new controls on ex-spies working overseas](https://www.reuters.com/world/us/exclusive-us-lawmakers-push-new-controls-ex-spies-working-overseas-2021-09-30/)
-- [New $28K Prefab Tiny Home Is Proof That the Future Is Now](https://www.dwell.com/article/cube-two-x-nestron-035d916a)
+- [It's official. China's manufacturing industry is in trouble](https://www.cnn.com/2021/09/30/economy/china-factories-growth-intl-hnk/index.html)
+- [Leaks Show Hundreds Joined Oath Keepers Militia Immediately After Jan. 6 Attack](https://themountain.news/news/leaked-data-show-hundreds-joined-oathkeepers-militia-after-jan-6-attack)
+- [Terence Tao Analysis I [pdf]](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
+- [USPS suspends mail deliveries to New Zealand](https://www.rnz.co.nz/news/national/452764/united-states-postal-service-suspends-mail-deliveries-to-new-zealand)
+- [Ask HN: Where do large companies register domains?](https://news.ycombinator.com/item?id=28725367)
+- [Factorio's Belt Bug](http://pubby.games/factorio.html)
+- [Gboard – The Teacup Version [video]](https://youtu.be/20pC05yisRM)
+- [Expo 2020 Dubai: Home – Connecting Minds, Creating the Future](https://www.expo2020dubai.com/)
+- [So You Want to Go to Grad School (In the Academic Humanities)?](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
+- [All Your App Is: A Collection of Tiny Details (2012)](https://blog.codinghorror.com/this-is-all-your-app-is-a-collection-of-tiny-details/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

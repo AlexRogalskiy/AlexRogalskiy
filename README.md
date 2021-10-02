@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
+- [Met Police purchase new retrospective facial-recognition system](https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system)
+- [BEIS urged to prioritise funding to protect umbrella workers in government Spending Review](https://www.computerweekly.com/news/252507586/BEIS-urged-to-prioritise-funding-to-protect-umbrella-workers-in-government-Spending-Review)
+- [Norway and IoT: A match made in heaven](https://www.computerweekly.com/news/252507568/Norway-and-IoT-a-match-made-in-heaven)
+- [Amnesty International exploited in malware campaign](https://www.computerweekly.com/news/252507561/Amnesty-International-exploited-in-malware-campaign)
+- [Local Digital Capital Index: A framework for levelling up](https://www.computerweekly.com/opinion/Local-Digital-Capital-Index-a-framework-for-levelling-up)
+- [JVCKenwood hit by Conti ransomware attack](https://www.computerweekly.com/news/252507556/JVCKenwood-hit-by-Conti-ransomware-attack)
+- [IR35: Giant Group cyber attack prompts renewed calls for statutory regulation of umbrella companies](https://www.computerweekly.com/news/252507545/IR35-Giant-Group-cyber-attack-prompts-renewed-calls-for-statutory-regulation-of-umbrella-companies)
 - [Computer Weekly announces the 2021 Most Influential Women in UK Tech](https://www.computerweekly.com/news/252507482/Computer-Weekly-announces-the-2021-Most-Influential-Women-in-UK-Tech)
 - [Computer Weekly’s 2021 women in tech Rising Stars](https://www.computerweekly.com/news/252507298/Computer-Weeklys-2021-women-in-tech-Rising-Stars)
-- [UK AI strategy focused on economic growth, resilience and ethics](https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics)
-- [Digital bank fined by regulator due to weak anti-money laundering controls](https://www.computerweekly.com/news/252507492/Digital-bank-fined-by-regulator-due-to-weak-anti-money-laundering-controls)
-- [Team leaders urged to address developer mental health](https://www.computerweekly.com/news/252507495/Team-leaders-urged-to-address-developer-mental-health)
-- [Will the end of furlough help fill tech vacancies?](https://www.computerweekly.com/opinion/Will-the-end-of-furlough-help-fill-tech-vacancies)
-- [Starling Bank takes its banking-as-a-service into European Union](https://www.computerweekly.com/news/252507489/Starling-Bank-takes-its-banking-as-a-service-into-the-EU)
-- [UK consumers would collectively pay over £1bn a year for control of their data](https://www.computerweekly.com/news/252507442/UK-consumers-would-collectively-pay-over-1bn-a-year-for-control-of-their-data)
-- [Russia arrests prominent cyber security executive](https://www.computerweekly.com/news/252507417/Russia-arrests-prominent-cyber-security-executive)
+- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PwC Tells U.S. Employees They Need Never Return to the Office](https://www.reuters.com/business/exclusive-pwc-tells-us-employees-they-need-never-return-office-2021-09-30/)
-- [The OpenBSD Webzine](https://webzine.puffy.cafe/)
-- [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
-- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
-- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
-- [Coping with the Clutter of Houseplants](https://dirtwise.substack.com/p/navigating-the-urban-jungle)
-- [Enabling IPv6 Support for GitHub Pages](https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/)
-- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
-- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
-- [DMV approves Cruise and Waymo for commercial service in parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
+- [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
+- [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
+- [Coinbase Cloud](https://www.coinbase.com/cloud)
+- [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/)
+- [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
+- [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
+- [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
+- [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
+- [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

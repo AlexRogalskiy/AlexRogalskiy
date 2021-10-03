@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I’m overjoyed’: Canadian Michael Spavor speaks out after China release](https://www.theguardian.com/world/2021/oct/02/im-overjoyed-canadian-michael-spavor-speaks-out-after-china-release)
-- [Taiwan reports largest ever incursion as 38 Chinese planes fly over air space](https://www.theguardian.com/world/2021/oct/02/taiwan-reports-largest-ever-incursion-as-38-chinese-planes-fly-over-air-space)
-- [‘We’re going to get it done’: Biden vows to break impasse after Capitol Hill talks](https://www.theguardian.com/us-news/2021/oct/01/joe-biden-capitol-hill-infrastructure-vote-talks-domestic-agenda)
-- [Media startup Ozy shuts down after New York Times report raises concerns](https://www.theguardian.com/media/2021/oct/01/media-startup-ozy-shuts-down-after-new-york-times-report-raises-concerns)
-- [Tories order biggest shake-up of NHS leadership in England for 40 years](https://www.theguardian.com/politics/2021/oct/02/tories-order-biggest-shake-up-of-nhs-leadership-in-england-for-40-years)
-- [Bristol’s Radradra blow mars Sinckler’s winning return against Bath](https://www.theguardian.com/sport/2021/oct/01/bristol-bath-premiership-rugby-match-report)
-- [‘It’s the package’: how Liverpool’s rhythm got the goals flowing again](https://www.theguardian.com/football/2021/oct/01/liverpool-rhythm-goals-jurgen-klopp-manchester-city)
-- [Emergency visa scheme extended in major U-turn by Boris Johnson](https://www.theguardian.com/business/2021/oct/01/overseas-food-and-fuel-drivers-to-get-visas-in-major-u-turn-by-boris-johnson)
-- [St Helens sweep Leeds aside to book final date with Catalans](https://www.theguardian.com/sport/2021/oct/01/st-helens-leeds-super-league-match-report)
-- [What If If Only review – short and sharp, with shades of Scrooge](https://www.theguardian.com/stage/2021/oct/01/what-if-if-only-review-short-and-sharp-with-shades-of-scrooge)
+- [Canary Islands volcano ‘much more aggressive’ as new fissures erupt](https://www.theguardian.com/world/2021/oct/03/canary-islands-volcano-much-more-aggressive-as-new-fissures-erupt)
+- [Algeria recalls ambassador to France as diplomatic row mounts](https://www.theguardian.com/world/2021/oct/03/algeria-recalled-ambassador-to-france-as-diplomatic-row-mounts)
+- [BepiColombo spacecraft sends its first images of Mercury during flyby](https://www.theguardian.com/science/2021/oct/03/bepicolombo-spacecraft-sends-its-first-images-of-mercury-during-flyby)
+- [Cameron Norrie upsets Andrey Rublev to reach San Diego Open final](https://www.theguardian.com/sport/2021/oct/03/tennis-cameron-norrie-reaches-san-diego-open-final-andrey-rublev)
+- [Wrexham ‘need to get out of this league’ says McElhenney after game is called off](https://www.theguardian.com/football/2021/oct/03/wrexham-rob-mcelhenney-aldershot-game-called-off)
+- [Sunak threatened by new winter of discontent after UK recovery fizzles out](https://www.theguardian.com/business/2021/oct/03/sunak-threatened-by-new-winter-of-discontent-after-uk-recovery-fizzles-out)
+- [UK to slash international travel ‘red list’ to just nine countries](https://www.theguardian.com/world/2021/oct/02/uk-to-slash-international-travel-red-list-to-just-9-countries)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Girl, 15, dies of Covid on day she was due to get vaccine](https://www.theguardian.com/world/2021/oct/02/portsmouth-teenager-dies-of-covid-on-day-she-was-due-to-get-vaccine)
+- [You can’t level up by raising taxes on the poor, Tories tell PM](https://www.theguardian.com/politics/2021/oct/02/you-cant-level-up-by-raising-taxes-on-the-poor-tories-tell-pm)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

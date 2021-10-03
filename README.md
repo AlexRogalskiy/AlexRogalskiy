@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
-- [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
-- [Coinbase Cloud](https://www.coinbase.com/cloud)
-- [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/)
-- [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
-- [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
-- [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
-- [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
-- [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
+- [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
+- [If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)](https://apple.stackexchange.com/a/363933)
+- [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix)
+- [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
+- [Farmer Born in 1842 Talks About Life and Change: Filmed in 1929](https://youtu.be/mD9ctCudvlw)
+- [Sketching in eInk](https://www.bit-101.com/blog/2021/10/sketching-in-eink/)
+- [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
+- [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
+- [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

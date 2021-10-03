@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Oct. 1, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-1-2021/459502)
 - [Fintech firm Stripe is on a hiring spree to fill its first Canadian office in Toronto](https://www.itworldcanada.com/article/fintech-firm-stripe-is-on-a-hiring-spree-in-toronto-to-fill-its-first-canadian-office/459555)
 - [Twitter looks to the future with new features](https://www.itworldcanada.com/article/twitter-looks-to-the-future-with-new-features/459542)
 - [Cyber Security Awareness Month starts with disappointing Canadian survey](https://www.itworldcanada.com/article/cyber-security-awareness-month-starts-with-disappointing-canadian-survey/459536)
@@ -430,7 +431,6 @@
 - [Vancouver-based IT firm to expand to Winnipeg, create 100 tech jobs](https://www.itworldcanada.com/article/vancouver-based-it-firm-to-expand-to-winnipeg-create-100-tech-jobs/459415)
 - [Three things you need to know to manage multi-cloud](https://www.itworldcanada.com/article/three-things-you-need-to-know-to-manage-multi-cloud/459436)
 - [Security of Canadian vaccine credential storage app questioned](https://www.itworldcanada.com/article/security-of-canadian-vaccine-credential-storage-app-questioned/459380)
-- [IT transformation can be a profitable investment](https://www.itworldcanada.com/article/it-transformation-can-be-a-profitable-investment/459484)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

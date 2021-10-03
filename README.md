@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get started in the Information Technology field?](https://www.reddit.com/r/InformationTechnology/comments/q078o7/how_to_get_started_in_the_information_technology/)
+- [Do IT work with emails? If so, can one help me?](https://www.reddit.com/r/InformationTechnology/comments/pzzvn6/do_it_work_with_emails_if_so_can_one_help_me/)
+- [Question about two favor authentication from a k12 educator](https://www.reddit.com/r/InformationTechnology/comments/pzzgv1/question_about_two_favor_authentication_from_a/)
+- [VMWorld 2021](https://www.reddit.com/r/InformationTechnology/comments/pzyobv/vmworld_2021/)
+- [Which IT certification should I go for entry level?](https://www.reddit.com/r/InformationTechnology/comments/pzp7r9/which_it_certification_should_i_go_for_entry_level/)
 - [asking](https://www.reddit.com/r/InformationTechnology/comments/pz93ic/asking/)
 - [Help with this question I have?](https://www.reddit.com/r/InformationTechnology/comments/pyxjcf/help_with_this_question_i_have/)
 - [Extractinig Files from HDD](https://www.reddit.com/r/InformationTechnology/comments/pywqtw/extractinig_files_from_hdd/)
 - [Comptia A+ Question](https://www.reddit.com/r/InformationTechnology/comments/pyhr6o/comptia_a_question/)
 - [Community college options for an international student.](https://www.reddit.com/r/InformationTechnology/comments/py7f7r/community_college_options_for_an_international/)
-- [What low-stress IT Jobs work 35-40 hours a week with lower barriers to entry?](https://www.reddit.com/r/InformationTechnology/comments/pwl122/what_lowstress_it_jobs_work_3540_hours_a_week/)
-- [Looking to creating an environment similar to my school and old workplace and college campus for the growing business I'm working for.](https://www.reddit.com/r/InformationTechnology/comments/pwl0g0/looking_to_creating_an_environment_similar_to_my/)
-- [IT Student here, doubt about licenses.](https://www.reddit.com/r/InformationTechnology/comments/pvquil/it_student_here_doubt_about_licenses/)
-- [From Culinary to IT, how do I land my first job?](https://www.reddit.com/r/InformationTechnology/comments/pva9qu/from_culinary_to_it_how_do_i_land_my_first_job/)
-- [Can someone explain the difference between Two-tier architecture, three-tier architecture and n-tier architecture?](https://www.reddit.com/r/InformationTechnology/comments/puoc5d/can_someone_explain_the_difference_between/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

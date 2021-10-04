@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
-- [If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)](https://apple.stackexchange.com/a/363933)
-- [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix)
-- [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
-- [Farmer Born in 1842 Talks About Life and Change: Filmed in 1929](https://youtu.be/mD9ctCudvlw)
-- [Sketching in eInk](https://www.bit-101.com/blog/2021/10/sketching-in-eink/)
-- [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
-- [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
-- [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
+- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
+- [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
+- [Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
+- [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
+- [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
+- [Characterization of bacteria and fungi associated with the ISS' surfaces](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x)
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
+- [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
+- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
+- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

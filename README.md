@@ -398,9 +398,9 @@
 - [Local Digital Capital Index: A framework for levelling up](https://www.computerweekly.com/opinion/Local-Digital-Capital-Index-a-framework-for-levelling-up)
 - [JVCKenwood hit by Conti ransomware attack](https://www.computerweekly.com/news/252507556/JVCKenwood-hit-by-Conti-ransomware-attack)
 - [IR35: Giant Group cyber attack prompts renewed calls for statutory regulation of umbrella companies](https://www.computerweekly.com/news/252507545/IR35-Giant-Group-cyber-attack-prompts-renewed-calls-for-statutory-regulation-of-umbrella-companies)
+- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
 - [Computer Weekly announces the 2021 Most Influential Women in UK Tech](https://www.computerweekly.com/news/252507482/Computer-Weekly-announces-the-2021-Most-Influential-Women-in-UK-Tech)
 - [Computer Weekly’s 2021 women in tech Rising Stars](https://www.computerweekly.com/news/252507298/Computer-Weeklys-2021-women-in-tech-Rising-Stars)
-- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

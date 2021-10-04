@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canary Islands volcano ‘much more aggressive’ as new fissures erupt](https://www.theguardian.com/world/2021/oct/03/canary-islands-volcano-much-more-aggressive-as-new-fissures-erupt)
-- [Algeria recalls ambassador to France as diplomatic row mounts](https://www.theguardian.com/world/2021/oct/03/algeria-recalled-ambassador-to-france-as-diplomatic-row-mounts)
-- [BepiColombo spacecraft sends its first images of Mercury during flyby](https://www.theguardian.com/science/2021/oct/03/bepicolombo-spacecraft-sends-its-first-images-of-mercury-during-flyby)
-- [Cameron Norrie upsets Andrey Rublev to reach San Diego Open final](https://www.theguardian.com/sport/2021/oct/03/tennis-cameron-norrie-reaches-san-diego-open-final-andrey-rublev)
-- [Wrexham ‘need to get out of this league’ says McElhenney after game is called off](https://www.theguardian.com/football/2021/oct/03/wrexham-rob-mcelhenney-aldershot-game-called-off)
-- [Sunak threatened by new winter of discontent after UK recovery fizzles out](https://www.theguardian.com/business/2021/oct/03/sunak-threatened-by-new-winter-of-discontent-after-uk-recovery-fizzles-out)
-- [UK to slash international travel ‘red list’ to just nine countries](https://www.theguardian.com/world/2021/oct/02/uk-to-slash-international-travel-red-list-to-just-9-countries)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Girl, 15, dies of Covid on day she was due to get vaccine](https://www.theguardian.com/world/2021/oct/02/portsmouth-teenager-dies-of-covid-on-day-she-was-due-to-get-vaccine)
-- [You can’t level up by raising taxes on the poor, Tories tell PM](https://www.theguardian.com/politics/2021/oct/02/you-cant-level-up-by-raising-taxes-on-the-poor-tories-tell-pm)
+- [Pakistan minister ditched offshore plans amid ‘concerns’ over tax authority](https://www.theguardian.com/news/2021/oct/04/pakistan-minister-ditched-offshore-plans-tax-authority-concerns-chaudhry-moonis-elahi)
+- [Inside the Pandora papers – financial secrets of the rich and powerful](https://www.theguardian.com/news/audio/2021/oct/04/inside-the-pandora-papers-financial-secrets-of-the-rich-and-powerful-podcast)
+- [Facebook is putting profit before public good, says whistleblower Frances Haugen](https://www.theguardian.com/technology/2021/oct/03/former-facebook-employee-frances-haugen-identifies-herself-as-whistleblower)
+- [India: at least eight dead after farm protesters attack minister’s convoy](https://www.theguardian.com/world/2021/oct/04/india-at-least-eight-dead-after-farm-protesters-attack-ministers-convoy)
+- [Eight killed after plane crashes into Milan office building](https://www.theguardian.com/world/2021/oct/03/several-killed-after-small-plane-crashes-into-milan-office-building)
+- [Muhammad cartoonist Lars Vilks reportedly dies in car crash](https://www.theguardian.com/world/2021/oct/04/muhammad-cartoonist-lars-vilks-reportedly-dies-in-car-crash)
+- [India’s Christians living in fear as claims of ‘forced conversions’ swirl](https://www.theguardian.com/world/2021/oct/04/india-christians-living-in-fear-claims-forced-conversions)
+- [US condemns China for ‘provocative’ aircraft sorties into Taiwan defence zone](https://www.theguardian.com/world/2021/oct/04/us-condemns-china-for-provocative-aircraft-sorties-into-taiwan-defence-zone)
+- [How to Survive an Apocalypse review – dinner drama ducks deep questions](https://www.theguardian.com/stage/2021/oct/04/how-to-survive-an-apocalypse-review-dinner-drama-ducks-deep-questions)
+- [‘The strangeness seeped into the music’: how Iceland’s midnight sun inspired Jezabels’ Heather Shannon](https://www.theguardian.com/music/2021/oct/04/the-strangeness-seeped-into-the-music-how-icelands-midnight-sun-inspired-jezabels-heather-shannon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

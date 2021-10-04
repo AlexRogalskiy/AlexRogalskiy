@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Libadwaita](https://adrienplazas.com/blog/2021/03/31/introducing-libadwaita.html)
-- [Rent-a-ship: Costco hires vessels for urgent deliveries](https://www.freightwaves.com/news/rent-a-ship-costco-hires-vessels-for-urgent-deliveries)
-- [Apply to multiple jobs that match your skills. All at once](https://www.skillshunt.us)
-- [Show HN: The Social Search Engine, A crowd-sourced, anonymous social search tool](https://thesocialsearchengine.com/)
-- [Crypto CEO threatens customers after mistakenly sending them millions](https://mashable.com/article/compound-ceo-asks-for-money-back-defi-bug)
-- [‘Jean Sibelius’ Review: An Early Finale](https://www.wsj.com/articles/jean-sibelius-composer-review-an-early-finale-11633096341)
-- [HelloSystem 0.6.0](https://github.com/helloSystem/ISO/releases/tag/r0.6.0)
-- [Hands on with Amazon’s Astro home robot](https://www.fastcompany.com/90682103/amazon-astro-home-robot-hands-on)
-- [“Look It Up, Check It Out”: REX 84 and the History of an American Conspiracy](https://wearethemutants.com/2017/03/13/look-it-up-check-it-out-rex-84-and-the-history-of-an-american-conspiracy/amp/)
-- [Ask HN: Can carmakers chips be emulated by more available ARM microcontrollers?](https://news.ycombinator.com/item?id=28733877)
+- [A Tiny Czech Village Was Caught Up in a Russian Spy Case](https://www.euronews.com/2021/05/19/how-a-tiny-czech-village-was-caught-up-in-a-huge-russian-spy-case)
+- [The classic cars being converted to electric vehicles](https://www.bbc.com/news/business-58578061)
+- [Ask HN: Can I save my career?](https://news.ycombinator.com/item?id=28742292)
+- [Engineer Identification Test (2000)](https://web.archive.org/web/20010424073233/http://www.geocities.com/tech_chick01/stories/engineerid.html)
+- [A Simple Bug Is Leaving AirTag Users Vulnerable to an Attack](https://www.wired.com/story/simple-bug-leaving-airtag-users-vulnerable-attack/)
+- [Ask HN: Host of Software Engineering Daily likely needs help again](https://news.ycombinator.com/item?id=28742231)
+- [Covid-19 Scenario Modeling Hub](https://covid19scenariomodelinghub.org/)
+- [Pinscape the Virtual Pinball Cabinet](http://mjrnet.org/pinscape/)
+- [Jessica Berg Wilson – Johnson and Johnson Death – Telling Our Stories](https://nomoresilence.world/johnson/jessica-berg-wilson-johnson-johnson-death/)
+- [Over the Course of the Pandemic, Bugs Have Invaded the World’s Museums](https://www.architecturaldigest.com/story/museum-bug-problem)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

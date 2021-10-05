@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Sumo Logic enhances observability suite for app, infrastructure performance](https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html#tk.rss_all)
-- [CodeSee launches codebase onboarding portal for open source developers](https://www.infoworld.com/article/3635371/codesee-launches-codebase-onboarding-portal-for-open-source-developers.html#tk.rss_all)
-- [GitHub Enterprise Cloud connects with Azure AD, Okta](https://www.infoworld.com/article/3635294/github-enterprise-cloud-connects-with-azure-ad-okta.html#tk.rss_all)
-- [PostgreSQL 14 brings performance boosts](https://www.infoworld.com/article/3635136/postgresql-14-brings-performance-boosts.html#tk.rss_all)
-- [How cloud computing impacts technology evolution](https://www.infoworld.com/article/3635092/how-cloud-computing-impacts-technology-evolution.html#tk.rss_all)
-- [Java port eyed for RISC-V hardware](https://www.infoworld.com/article/3635029/java-port-eyed-for-risc-v-hardware.html#tk.rss_all)
-- [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_all)
-- [How to prevent CSRF attacks in ASP.NET Core](https://www.infoworld.com/article/3634428/how-to-prevent-csrf-attacks-in-aspnet-core.html#tk.rss_all)
-- [The 2021 Enterprise Architecture Awards](https://www.infoworld.com/article/3634779/the-2021-enterprise-architecture-awards.html#tk.rss_all)
-- [Under the hood with .NET 6](https://www.infoworld.com/article/3634600/under-the-hood-with-net-6.html#tk.rss_all)
+- [BrandPost: How to Layer Secure Docker Containers With Hardened Images](https://www.infoworld.com/article/3635809/how-to-layer-secure-docker-containers-with-hardened-images.html#tk.rss_all)
+- [What’s new in Python 3.10](https://www.infoworld.com/article/3617460/whats-new-in-python-310.html#tk.rss_all)
+- [BrandPost: How CIS and ATO on AWS Can Ease the Compliance Process](https://www.infoworld.com/article/3635571/how-cis-and-ato-on-aws-can-ease-the-compliance-process.html#tk.rss_all)
+- [BrandPost: Four Reasons to Use Hardened VMs for Your Cloud Migration](https://www.infoworld.com/article/3635554/four-reasons-to-use-hardened-vms-for-your-cloud-migration.html#tk.rss_all)
+- [BrandPost: CIS Hardened VMs on AWS Graviton2: Enhancing EC2 Security](https://www.infoworld.com/article/3635570/cis-hardened-vms-on-aws-graviton2-enhancing-ec2-security.html#tk.rss_all)
+- [BrandPost: 5 Cloud Computing Benefits: Why You Should Work in the Cloud](https://www.infoworld.com/article/3635588/5-cloud-computing-benefits-why-you-should-work-in-the-cloud.html#tk.rss_all)
+- [BrandPost: 3 Ways to Use CIS Cloud Security Resources on the AWS Cloud](https://www.infoworld.com/article/3635550/3-ways-to-use-cis-cloud-security-resources-on-the-aws-cloud.html#tk.rss_all)
+- [The way we AI now](https://www.infoworld.com/article/3635489/the-way-we-ai-now.html#tk.rss_all)
+- [How cloud-native apps and microservices impact the development process](https://www.infoworld.com/article/3635293/how-cloud-native-apps-and-microservices-impact-the-development-process.html#tk.rss_all)
+- [Review: Google Cloud Vertex AI irons out ML platform wrinkles](https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

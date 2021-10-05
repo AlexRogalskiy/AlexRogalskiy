@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pakistan minister ditched offshore plans amid ‘concerns’ over tax authority](https://www.theguardian.com/news/2021/oct/04/pakistan-minister-ditched-offshore-plans-tax-authority-concerns-chaudhry-moonis-elahi)
-- [Inside the Pandora papers – financial secrets of the rich and powerful](https://www.theguardian.com/news/audio/2021/oct/04/inside-the-pandora-papers-financial-secrets-of-the-rich-and-powerful-podcast)
-- [Facebook is putting profit before public good, says whistleblower Frances Haugen](https://www.theguardian.com/technology/2021/oct/03/former-facebook-employee-frances-haugen-identifies-herself-as-whistleblower)
-- [India: at least eight dead after farm protesters attack minister’s convoy](https://www.theguardian.com/world/2021/oct/04/india-at-least-eight-dead-after-farm-protesters-attack-ministers-convoy)
-- [Eight killed after plane crashes into Milan office building](https://www.theguardian.com/world/2021/oct/03/several-killed-after-small-plane-crashes-into-milan-office-building)
-- [Muhammad cartoonist Lars Vilks reportedly dies in car crash](https://www.theguardian.com/world/2021/oct/04/muhammad-cartoonist-lars-vilks-reportedly-dies-in-car-crash)
-- [India’s Christians living in fear as claims of ‘forced conversions’ swirl](https://www.theguardian.com/world/2021/oct/04/india-christians-living-in-fear-claims-forced-conversions)
-- [US condemns China for ‘provocative’ aircraft sorties into Taiwan defence zone](https://www.theguardian.com/world/2021/oct/04/us-condemns-china-for-provocative-aircraft-sorties-into-taiwan-defence-zone)
-- [How to Survive an Apocalypse review – dinner drama ducks deep questions](https://www.theguardian.com/stage/2021/oct/04/how-to-survive-an-apocalypse-review-dinner-drama-ducks-deep-questions)
-- [‘The strangeness seeped into the music’: how Iceland’s midnight sun inspired Jezabels’ Heather Shannon](https://www.theguardian.com/music/2021/oct/04/the-strangeness-seeped-into-the-music-how-icelands-midnight-sun-inspired-jezabels-heather-shannon)
+- [The Pandora papers: who’s giving money to the Conservatives? – podcast](https://www.theguardian.com/news/audio/2021/oct/05/the-pandora-papers-whos-giving-money-to-the-conservatives-podcast)
+- [Facebook, Instagram and WhatsApp working again after global outage took down platforms](https://www.theguardian.com/technology/2021/oct/04/facebook-instagram-and-whatsapp-hit-by-outage)
+- [Offshore loot: how notorious dealer used trusts to hoard Khmer treasures](https://www.theguardian.com/news/2021/oct/05/offshore-trusts-used-pass-on-looted-khmer-treasures-leak-shows-douglas-latchford)
+- [Singapore passes foreign interference law allowing authorities to block internet content](https://www.theguardian.com/world/2021/oct/05/singapore-passes-foreign-interference-law-allowing-authorities-to-block-internet-content)
+- [Cristiano Ronaldo should have started against Everton, says Sir Alex Ferguson](https://www.theguardian.com/football/2021/oct/05/cristiano-ronaldo-should-have-started-against-everton-says-sir-alex-ferguson)
+- [Priti Patel to enable police to stop disruptive protesters going to demos](https://www.theguardian.com/politics/2021/oct/05/priti-patel-to-enable-police-to-stop-disruptive-protesters-going-to-demos)
+- [Pfizer Covid jab ‘90% effective against hospitalisation for at least 6 months’](https://www.theguardian.com/world/2021/oct/05/pfizer-covid-jab-90-effective-against-hospitalisation-for-at-least-6-months)
+- [NHS England to offer breakthrough treatment for sickle cell disease](https://www.theguardian.com/society/2021/oct/05/nhs-england-breakthrough-treatment-sickle-cell-disease)
+- [Most ethnic minority finance workers suffer discrimination, finds UK report](https://www.theguardian.com/business/2021/oct/05/most-ethnic-minority-finance-workers-suffer-discrimination-finds-uk-report)
+- [London home of couple who escaped slavery in US gets blue plaque](https://www.theguardian.com/world/2021/oct/05/london-home-of-couple-who-escaped-slavery-in-us-gets-blue-plaque)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Tiny Czech Village Was Caught Up in a Russian Spy Case](https://www.euronews.com/2021/05/19/how-a-tiny-czech-village-was-caught-up-in-a-huge-russian-spy-case)
-- [The classic cars being converted to electric vehicles](https://www.bbc.com/news/business-58578061)
-- [Ask HN: Can I save my career?](https://news.ycombinator.com/item?id=28742292)
-- [Engineer Identification Test (2000)](https://web.archive.org/web/20010424073233/http://www.geocities.com/tech_chick01/stories/engineerid.html)
-- [A Simple Bug Is Leaving AirTag Users Vulnerable to an Attack](https://www.wired.com/story/simple-bug-leaving-airtag-users-vulnerable-attack/)
-- [Ask HN: Host of Software Engineering Daily likely needs help again](https://news.ycombinator.com/item?id=28742231)
-- [Covid-19 Scenario Modeling Hub](https://covid19scenariomodelinghub.org/)
-- [Pinscape the Virtual Pinball Cabinet](http://mjrnet.org/pinscape/)
-- [Jessica Berg Wilson – Johnson and Johnson Death – Telling Our Stories](https://nomoresilence.world/johnson/jessica-berg-wilson-johnson-johnson-death/)
-- [Over the Course of the Pandemic, Bugs Have Invaded the World’s Museums](https://www.architecturaldigest.com/story/museum-bug-problem)
+- [AlphaFold Is the Most Important Achievement in AI–Ever](https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/)
+- [Beta Website](https://app.babbl.dev/)
+- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
+- [Robert J. Shiller: Stock, Bond and Real Estate Prices Are All Uncomfortably High](https://www.nytimes.com/2021/10/01/business/stock-bond-real-estate-prices.html)
+- [E-CNY: The Players](https://interconnected.blog/e-cny-players-dcep-e-rmb/)
+- [More Details on Today's Outage](https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A10158791436142200%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr)
+- [Ask HN: How do you clarify roles and responsibilities in cross functional teams?](https://news.ycombinator.com/item?id=28754704)
+- [Future-Proof with Evidence-Based Learning Hacks](https://modelthinkers.com/playbook/future-proof-with-learning-hacks)
+- [SEC Charges Webcast Host for Market Manipulation Scheme](https://www.sec.gov/news/press-release/2021-206)
+- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

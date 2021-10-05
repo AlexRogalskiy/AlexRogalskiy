@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Moving Banks Out of their Brick-and-Mortar Mindset](https://www.informationweek.com/strategic-cio/moving-banks-out-of-their-brick-and-mortar-mindset)
+- [Why Enterprises are Training AI for Local Markets](https://www.informationweek.com/ai-or-machine-learning/why-enterprises-are-training-ai-for-local-markets)
+- [3 Ways to Better Apply AI to Small Data Sets](https://www.informationweek.com/ai-or-machine-learning/3-ways-to-better-apply-ai-to-small-data-sets)
 - [How PepsiCo Put Data to Work Connecting to Customers](https://www.informationweek.com/it-strategy/how-pepsico-put-data-to-work-connecting-to-customers)
 - [6 Tips to Adopt and Thrive With a Product-Driven Culture](https://www.informationweek.com/enterprise-agility/6-tips-to-adopt-and-thrive-with-a-product-driven-culture)
 - [Why to Rethink Liability Insurance for IT](https://www.informationweek.com/security-and-risk-strategy/why-to-rethink-liability-insurance-for-it)
@@ -368,9 +371,6 @@
 - [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
 - [How to Know When to Abandon an Underperforming Cloud Provider](https://www.informationweek.com/cloud/how-to-know-when-to-abandon-an-underperforming-cloud-provider)
 - [Data Engineers in High Demand, Winning High Salaries](https://www.informationweek.com/hardware-or-architectures/data-engineers-in-high-demand-winning-high-salaries)
-- [Has Your Business Defined Customer Experience Correctly?](https://www.informationweek.com/executive-insights-and-innovation/has-your-business-defined-customer-experience-correctly-)
-- [In-House Gatekeepers Help CIOs Drive Digital Initiatives](https://www.informationweek.com/strategic-cio/in-house-gatekeepers-help-cios-drive-digital-initiatives)
-- [How Evite Used Cloud Scalability to Match Its Elasticity](https://www.informationweek.com/cloud/how-evite-used-cloud-scalability-to-match-its-elasticity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

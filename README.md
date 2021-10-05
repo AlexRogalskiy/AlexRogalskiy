@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft sets perpetual-license Office 2021 prices, reveals new-feature list](https://www.computerworld.com/article/3635648/microsoft-sets-perpetual-license-office-2021-prices-reveals-new-feature-list.html#tk.rss_all)
+- [How one coding error turned AirTags into perfect malware distributors](https://www.computerworld.com/article/3635628/how-one-coding-error-turned-airtags-into-perfect-malware-distributors.html#tk.rss_all)
+- [How to make sense of Microsoft’s upcoming mail security changes](https://www.computerworld.com/article/3635608/how-to-make-sense-of-microsofts-upcoming-mail-security-changes.html#tk.rss_all)
+- [My first week with an iPhone 13 mini](https://www.computerworld.com/article/3635548/my-first-week-with-an-iphone-13-mini.html#tk.rss_all)
+- [Android vs. iOS in the enterprise: IT now has a real choice](https://www.computerworld.com/article/3634332/android-vs-ios-enterprise-it-now-has-real-choice.html#tk.rss_all)
 - [The case of the insecure printer](https://www.computerworld.com/article/3635098/the-case-of-the-insecure-printer.html#tk.rss_all)
 - [Varjo and a better approach to VR-based collaboration](https://www.computerworld.com/article/3635070/varjo-and-a-better-approach-to-vr-based-collaboration.html#tk.rss_all)
 - [Apple deepens its engagement in enterprise security](https://www.computerworld.com/article/3635054/apple-deepens-its-engagement-in-enterprise-security.html#tk.rss_all)
 - [Zoom’s $14.7B acquisition bid for Five9 falls apart](https://www.computerworld.com/article/3635290/zooms-147b-acquisition-bid-for-five9-falls-apart.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Enterprise security addresses the work-from-home crowd](https://www.computerworld.com/article/3635069/enterprise-security-addresses-the-work-from-home-crowd.html#tk.rss_all)
-- [Podcast: iPhone privacy settings still allow apps to track users, plus Android's privacy measures](https://www.computerworld.com/article/3635150/podcast-iphone-privacy-settings-still-allow-apps-to-track-users-plus-how-androids-privacy-measures.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [The Chrome shortcut sidebar you didn't know you needed](https://www.computerworld.com/article/3635008/google-chrome-shortcut-sidebar.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

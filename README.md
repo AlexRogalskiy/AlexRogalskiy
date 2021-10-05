@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
-- [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
-- [Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
-- [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
-- [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
-- [Characterization of bacteria and fungi associated with the ISS' surfaces](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x)
-- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
-- [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
-- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
-- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
+- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
+- [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
+- [Time machine: Solaris 2.6 on QEMU](https://smackeyacky.blogspot.com/2021/10/time-machine-solaris-26-on-qemu.html)
+- [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
+- [Curiosity Is Better Than Being Smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
+- [Squeezing Down the Theory Space for Cosmic Inflation](https://physics.aps.org/articles/v14/135)
+- [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
+- [Facebook is back up](https://facebook.com/)
+- [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
+- [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

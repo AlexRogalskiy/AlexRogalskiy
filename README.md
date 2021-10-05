@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Elevate partners with Beanfield Metroconnect to upgrade network infrastrucure](https://www.itworldcanada.com/article/elevate-partners-with-beanfield-metroconnect-to-upgrade-network-infrastrucure/459636)
+- [Many Canadian firms knuckle under to ransomware demands, survey suggests](https://www.itworldcanada.com/article/many-canadian-firms-knuckle-under-to-ransomware-demands-survey-suggests/459614)
+- [Facebook, Instagram, WhatsApp offline around much of the world](https://www.itworldcanada.com/article/facebook-instagram-whatsapp-offline-around-much-of-the-world/459621)
+- [Cyber Security Today, Oct. 4, 2021  – Select group of countries to fight cybercrime, Coinbase victimized by 2FA error,  a text messaging scam and more.](https://www.itworldcanada.com/article/cyber-security-today-oct-4-2021-select-group-of-countries-to-fight-cybercrime-coinbase-victimized-by-2fa-error-a-text-messaging-scam-and-more/459605)
+- [Hashtag Trending Oct. 4 – Add vaccine passport to iPhones in Alberta; Crypto platform mishap; Google ends support for IE](https://www.itworldcanada.com/article/hashtag-trending-oct-4-add-vaccine-passport-to-iphones-in-alberta-crypto-platform-mishap-google-ends-support-for-ie/459609)
 - [Cyber Security Today, Week in Review for Oct. 1, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-1-2021/459502)
 - [Fintech firm Stripe is on a hiring spree to fill its first Canadian office in Toronto](https://www.itworldcanada.com/article/fintech-firm-stripe-is-on-a-hiring-spree-in-toronto-to-fill-its-first-canadian-office/459555)
 - [Twitter looks to the future with new features](https://www.itworldcanada.com/article/twitter-looks-to-the-future-with-new-features/459542)
 - [Cyber Security Awareness Month starts with disappointing Canadian survey](https://www.itworldcanada.com/article/cyber-security-awareness-month-starts-with-disappointing-canadian-survey/459536)
 - [Cyber Security Today, Oct. 1, 2021 – Microsoft addresses Azure flaw, advice on configuring VPNs, Eduroam WiFi issue and more](https://www.itworldcanada.com/article/cyber-security-today-oct-1-2021-microsoft-addresses-azure-flaw-advice-on-configuring-vpns-eduroam-wifi-issue-and-more/459512)
-- [Hashtag Trending October 1- YouTube bans anti-vaxxers; Facebook may face fine in Russia; Google’s search engine dominance](https://www.itworldcanada.com/article/hashtag-trending-october-1-youtube-bans-anti-vaxxers-facebook-may-face-fine-in-russia-googles-search-engine-dominance/459517)
-- [Analytics Unleashed 2021 event roundup – businesses must have data analytics on the frontline](https://www.itworldcanada.com/article/analytics-unleashed-2021-event-roundup-businesses-must-have-data-analytics-on-the-frontline/459225)
-- [Vancouver-based IT firm to expand to Winnipeg, create 100 tech jobs](https://www.itworldcanada.com/article/vancouver-based-it-firm-to-expand-to-winnipeg-create-100-tech-jobs/459415)
-- [Three things you need to know to manage multi-cloud](https://www.itworldcanada.com/article/three-things-you-need-to-know-to-manage-multi-cloud/459436)
-- [Security of Canadian vaccine credential storage app questioned](https://www.itworldcanada.com/article/security-of-canadian-vaccine-credential-storage-app-questioned/459380)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

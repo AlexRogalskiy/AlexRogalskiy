@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Nexustorage aims at file and block access to object storage](https://www.computerweekly.com/news/252507679/Nexustorage-aims-at-file-and-block-access-to-object-storage)
+- [Mandiant name returns to fore ahead of FireEye sale](https://www.computerweekly.com/news/252507681/Mandiant-name-returns-to-fore-ahead-of-FireEye-sale)
+- [NHSX publishes IT standards and interoperability priorities](https://www.computerweekly.com/news/252507676/NHSX-publishes-IT-standards-and-interoperability-priorities)
+- [Chancellor uses Tory Party conference speech to announce AI scholarships](https://www.computerweekly.com/news/252507677/Chancellor-uses-Tory-Party-conference-speech-to-announce-AI-scholarships)
+- [NHSX IT chief outlines opportunities of elective recovery tech fund](https://www.computerweekly.com/news/252507674/NHSX-IT-chief-outlines-opportunities-of-elective-recovery-tech-fund)
+- [One Identity buys OneLogin for access management expertise](https://www.computerweekly.com/news/252507675/One-Identity-buys-OneLogin-for-access-management-expertise)
+- [Two arrests made in European ransomware investigation](https://www.computerweekly.com/news/252507668/Two-arrests-made-in-European-ransomware-investigation)
+- [Mastercard acquisition of Aiia is a further sign of open banking’s big future](https://www.computerweekly.com/news/252507664/Mastercard-acquisition-of-Aiia-is-a-further-sign-of-open-bankings-big-future)
+- [Security Think Tank: Embracing vulnerability management for the greater good](https://www.computerweekly.com/opinion/Security-Think-Tank-Embracing-vulnerability-management-for-the-greater-good)
 - [Met Police purchase new retrospective facial-recognition system](https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system)
-- [BEIS urged to prioritise funding to protect umbrella workers in government Spending Review](https://www.computerweekly.com/news/252507586/BEIS-urged-to-prioritise-funding-to-protect-umbrella-workers-in-government-Spending-Review)
-- [Norway and IoT: A match made in heaven](https://www.computerweekly.com/news/252507568/Norway-and-IoT-a-match-made-in-heaven)
-- [Amnesty International exploited in malware campaign](https://www.computerweekly.com/news/252507561/Amnesty-International-exploited-in-malware-campaign)
-- [Local Digital Capital Index: A framework for levelling up](https://www.computerweekly.com/opinion/Local-Digital-Capital-Index-a-framework-for-levelling-up)
-- [JVCKenwood hit by Conti ransomware attack](https://www.computerweekly.com/news/252507556/JVCKenwood-hit-by-Conti-ransomware-attack)
-- [IR35: Giant Group cyber attack prompts renewed calls for statutory regulation of umbrella companies](https://www.computerweekly.com/news/252507545/IR35-Giant-Group-cyber-attack-prompts-renewed-calls-for-statutory-regulation-of-umbrella-companies)
-- [Stop being ‘apologetic’ for differing skillsets, says Most Influential Woman in UK Tech 2021](https://www.computerweekly.com/news/252507308/Stop-being-apologetic-for-differing-skillsets-says-Most-Influential-Woman-in-UK-Tech-2021)
-- [Computer Weekly announces the 2021 Most Influential Women in UK Tech](https://www.computerweekly.com/news/252507482/Computer-Weekly-announces-the-2021-Most-Influential-Women-in-UK-Tech)
-- [Computer Weekly’s 2021 women in tech Rising Stars](https://www.computerweekly.com/news/252507298/Computer-Weeklys-2021-women-in-tech-Rising-Stars)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

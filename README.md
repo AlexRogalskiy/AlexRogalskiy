@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice needed](https://www.reddit.com/r/InformationTechnology/comments/q1kakn/advice_needed/)
+- [Your Start](https://www.reddit.com/r/InformationTechnology/comments/q1jynq/your_start/)
+- [Are there IT contract marketplaces in the US?](https://www.reddit.com/r/InformationTechnology/comments/q1jwtu/are_there_it_contract_marketplaces_in_the_us/)
+- [What's the best way to set up an Excel document that is able to live update and edit across multiple computers?](https://www.reddit.com/r/InformationTechnology/comments/q1cscz/whats_the_best_way_to_set_up_an_excel_document/)
+- [Is the IT Fundamentals cert from comptia worth my time and money?](https://www.reddit.com/r/InformationTechnology/comments/q1by8k/is_the_it_fundamentals_cert_from_comptia_worth_my/)
+- [Favorite!](https://www.reddit.com/r/InformationTechnology/comments/q13aky/favorite/)
 - [what are the pros and cons of desktop hotspots](https://www.reddit.com/r/InformationTechnology/comments/q0ux04/what_are_the_pros_and_cons_of_desktop_hotspots/)
 - [looking for more knowledge](https://www.reddit.com/r/InformationTechnology/comments/q0qv3b/looking_for_more_knowledge/)
 - [Is a help desk job good for someone who has no knowledge and wants to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/q0nt9t/is_a_help_desk_job_good_for_someone_who_has_no/)
 - [Boolean Search for IT Recruiter](https://www.reddit.com/r/InformationTechnology/comments/q0gg68/boolean_search_for_it_recruiter/)
-- [Things you would change about Information Technology Jobs](https://www.reddit.com/r/InformationTechnology/comments/q0cib1/things_you_would_change_about_information/)
-- [How to get started in the Information Technology field?](https://www.reddit.com/r/InformationTechnology/comments/q078o7/how_to_get_started_in_the_information_technology/)
-- [Do IT work with emails? If so, can one help me?](https://www.reddit.com/r/InformationTechnology/comments/pzzvn6/do_it_work_with_emails_if_so_can_one_help_me/)
-- [Question about two favor authentication from a k12 educator](https://www.reddit.com/r/InformationTechnology/comments/pzzgv1/question_about_two_favor_authentication_from_a/)
-- [Which IT certification should I go for entry level?](https://www.reddit.com/r/InformationTechnology/comments/pzp7r9/which_it_certification_should_i_go_for_entry_level/)
-- [asking](https://www.reddit.com/r/InformationTechnology/comments/pz93ic/asking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

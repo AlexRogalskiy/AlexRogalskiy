@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Pratt & Whitney’s Low-Code Strategy to Save Development Time](https://www.informationweek.com/project-management/pratt-whitney-s-low-code-strategy-to-save-development-time)
+- [Reinventing the Customer Experience, One Process at a Time](https://www.informationweek.com/executive-insights-and-innovation/reinventing-the-customer-experience-one-process-at-a-time)
 - [Moving Banks Out of their Brick-and-Mortar Mindset](https://www.informationweek.com/strategic-cio/moving-banks-out-of-their-brick-and-mortar-mindset)
 - [Why Enterprises are Training AI for Local Markets](https://www.informationweek.com/ai-or-machine-learning/why-enterprises-are-training-ai-for-local-markets)
 - [3 Ways to Better Apply AI to Small Data Sets](https://www.informationweek.com/ai-or-machine-learning/3-ways-to-better-apply-ai-to-small-data-sets)
@@ -369,8 +371,6 @@
 - [Why to Rethink Liability Insurance for IT](https://www.informationweek.com/security-and-risk-strategy/why-to-rethink-liability-insurance-for-it)
 - [How to Boost Camaraderie, Connections for Remote and Hybrid Teams](https://www.informationweek.com/team-building-and-staffing/how-to-boost-camaraderie-connections-for-remote-and-hybrid-teams)
 - [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
-- [How to Know When to Abandon an Underperforming Cloud Provider](https://www.informationweek.com/cloud/how-to-know-when-to-abandon-an-underperforming-cloud-provider)
-- [Data Engineers in High Demand, Winning High Salaries](https://www.informationweek.com/hardware-or-architectures/data-engineers-in-high-demand-winning-high-salaries)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

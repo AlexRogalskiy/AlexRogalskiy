@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [BrandPost: How to Layer Secure Docker Containers With Hardened Images](https://www.infoworld.com/article/3635809/how-to-layer-secure-docker-containers-with-hardened-images.html#tk.rss_all)
-- [What’s new in Python 3.10](https://www.infoworld.com/article/3617460/whats-new-in-python-310.html#tk.rss_all)
-- [BrandPost: How CIS and ATO on AWS Can Ease the Compliance Process](https://www.infoworld.com/article/3635571/how-cis-and-ato-on-aws-can-ease-the-compliance-process.html#tk.rss_all)
-- [BrandPost: Four Reasons to Use Hardened VMs for Your Cloud Migration](https://www.infoworld.com/article/3635554/four-reasons-to-use-hardened-vms-for-your-cloud-migration.html#tk.rss_all)
-- [BrandPost: CIS Hardened VMs on AWS Graviton2: Enhancing EC2 Security](https://www.infoworld.com/article/3635570/cis-hardened-vms-on-aws-graviton2-enhancing-ec2-security.html#tk.rss_all)
-- [BrandPost: 5 Cloud Computing Benefits: Why You Should Work in the Cloud](https://www.infoworld.com/article/3635588/5-cloud-computing-benefits-why-you-should-work-in-the-cloud.html#tk.rss_all)
-- [BrandPost: 3 Ways to Use CIS Cloud Security Resources on the AWS Cloud](https://www.infoworld.com/article/3635550/3-ways-to-use-cis-cloud-security-resources-on-the-aws-cloud.html#tk.rss_all)
-- [The way we AI now](https://www.infoworld.com/article/3635489/the-way-we-ai-now.html#tk.rss_all)
-- [How cloud-native apps and microservices impact the development process](https://www.infoworld.com/article/3635293/how-cloud-native-apps-and-microservices-impact-the-development-process.html#tk.rss_all)
-- [Review: Google Cloud Vertex AI irons out ML platform wrinkles](https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html#tk.rss_all)
+- [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
+- [BrandPost: What You Need to Know About Hybrid Cloud Environments](https://www.infoworld.com/article/3635893/what-you-need-to-know-about-hybrid-cloud-environments.html#tk.rss_all)
+- [BrandPost: NGINX and CIS Hardened Images Equals Security and Efficiency](https://www.infoworld.com/article/3635690/nginx-and-cis-hardened-images-equals-security-and-efficiency.html#tk.rss_all)
+- [BrandPost: New Hardened VMs from CIS: Graviton2 and Windows 2019 STIG](https://www.infoworld.com/article/3635891/new-hardened-vms-from-cis-graviton2-and-windows-2019-stig.html#tk.rss_all)
+- [BrandPost: Meet Your Shared Security Responsibility on AWS With CIS](https://www.infoworld.com/article/3635711/meet-your-shared-security-responsibility-on-aws-with-cis.html#tk.rss_all)
+- [BrandPost: How to Meet the Shared Responsibility Model With CIS](https://www.infoworld.com/article/3635890/how-to-meet-the-shared-responsibility-model-with-cis.html#tk.rss_all)
+- [BrandPost: How to Meet STIG Compliance and Achieve OS Security With CIS](https://www.infoworld.com/article/3635749/how-to-meet-stig-compliance-and-achieve-os-security-with-cis.html#tk.rss_all)
+- [Good cloud architects are generalists not specialists](https://www.infoworld.com/article/3635568/good-cloud-architects-are-generalists-not-specialists.html#tk.rss_all)
+- [Explainable AI explained](https://www.infoworld.com/article/3634602/explainable-ai-explained.html#tk.rss_all)
+- [Lessons learned securing Kubernetes in the cloud](https://www.infoworld.com/article/3633675/lessons-learned-securing-kubernetes-in-the-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

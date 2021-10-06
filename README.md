@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AlphaFold Is the Most Important Achievement in AI–Ever](https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/)
-- [Beta Website](https://app.babbl.dev/)
-- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
-- [Robert J. Shiller: Stock, Bond and Real Estate Prices Are All Uncomfortably High](https://www.nytimes.com/2021/10/01/business/stock-bond-real-estate-prices.html)
-- [E-CNY: The Players](https://interconnected.blog/e-cny-players-dcep-e-rmb/)
-- [More Details on Today's Outage](https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A10158791436142200%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr)
-- [Ask HN: How do you clarify roles and responsibilities in cross functional teams?](https://news.ycombinator.com/item?id=28754704)
-- [Future-Proof with Evidence-Based Learning Hacks](https://modelthinkers.com/playbook/future-proof-with-learning-hacks)
-- [SEC Charges Webcast Host for Market Manipulation Scheme](https://www.sec.gov/news/press-release/2021-206)
-- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
+- [NASA selects GE Aviation and MagniX to develop electric aircraft engines](https://wegoelectric.net/nasa-selects-ge-aviation-magnix-to-develop-electric-aircraft-engines/)
+- [Grounded Language](http://www.jtoy.net/blog/grounded_language.html)
+- [Working Overtime: NASA’s Deep Space Atomic Clock Completes Mission](https://www.jpl.nasa.gov/news/working-overtime-nasas-deep-space-atomic-clock-completes-mission)
+- [The Open Society and Its Prophets](https://www.tabletmag.com/sections/arts-letters/articles/the-open-society-prophets)
+- [Privacy Is Power](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
+- [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
+- [iOS 15 review: Forget quantity, Focus on quality](https://arstechnica.com/gadgets/2021/10/ios-15-review-apple-turns-its-focus-to-the-little-things/)
+- [Seeking Pencils](http://www.pencilpages.com/classifieds/seeking.htm)
+- [Frequent Linux Commands Dump](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
+- [OpenWrt Login Alert](https://abishekmuthian.com/openwrt-login-alert/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

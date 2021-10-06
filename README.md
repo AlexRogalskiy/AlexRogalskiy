@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
-- [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
-- [Time machine: Solaris 2.6 on QEMU](https://smackeyacky.blogspot.com/2021/10/time-machine-solaris-26-on-qemu.html)
-- [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
-- [Curiosity Is Better Than Being Smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
-- [Squeezing Down the Theory Space for Cosmic Inflation](https://physics.aps.org/articles/v14/135)
-- [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
-- [Facebook is back up](https://facebook.com/)
-- [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
-- [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
+- [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
+- [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
+- [Moving Google Toward the Mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
+- [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
+- [Statement from Mark Zuckerberg](https://www.facebook.com/4/posts/10113961365418581/?d=n)
+- [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html)
+- [We need to take CO2 out of the sky](https://www.orbuch.com/carbon-removal/)
+- [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
+- [Towards Learning to Play Piano with Dexterous Hands and Touch](https://arxiv.org/abs/2106.02040)
+- [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

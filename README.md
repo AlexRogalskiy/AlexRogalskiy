@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [18 year old female, considering future in information technology.](https://www.reddit.com/r/InformationTechnology/comments/q27inx/18_year_old_female_considering_future_in/)
+- [HELP! Need project ideas for class](https://www.reddit.com/r/InformationTechnology/comments/q25sln/help_need_project_ideas_for_class/)
+- [Virtualize an actual SSD](https://www.reddit.com/r/InformationTechnology/comments/q23iv5/virtualize_an_actual_ssd/)
+- [Is work able to RDP into my PC?](https://www.reddit.com/r/InformationTechnology/comments/q216dm/is_work_able_to_rdp_into_my_pc/)
+- [I completed a request ticket but my work was never used by the requester. How do discourage tickets being created and the end result going to waste?](https://www.reddit.com/r/InformationTechnology/comments/q1z1wa/i_completed_a_request_ticket_but_my_work_was/)
+- [Entrance exam](https://www.reddit.com/r/InformationTechnology/comments/q1usow/entrance_exam/)
+- [Looking to get into IT.](https://www.reddit.com/r/InformationTechnology/comments/q1o6e6/looking_to_get_into_it/)
 - [Advice needed](https://www.reddit.com/r/InformationTechnology/comments/q1kakn/advice_needed/)
 - [Your Start](https://www.reddit.com/r/InformationTechnology/comments/q1jynq/your_start/)
 - [Are there IT contract marketplaces in the US?](https://www.reddit.com/r/InformationTechnology/comments/q1jwtu/are_there_it_contract_marketplaces_in_the_us/)
-- [What's the best way to set up an Excel document that is able to live update and edit across multiple computers?](https://www.reddit.com/r/InformationTechnology/comments/q1cscz/whats_the_best_way_to_set_up_an_excel_document/)
-- [Is the IT Fundamentals cert from comptia worth my time and money?](https://www.reddit.com/r/InformationTechnology/comments/q1by8k/is_the_it_fundamentals_cert_from_comptia_worth_my/)
-- [Favorite!](https://www.reddit.com/r/InformationTechnology/comments/q13aky/favorite/)
-- [what are the pros and cons of desktop hotspots](https://www.reddit.com/r/InformationTechnology/comments/q0ux04/what_are_the_pros_and_cons_of_desktop_hotspots/)
-- [looking for more knowledge](https://www.reddit.com/r/InformationTechnology/comments/q0qv3b/looking_for_more_knowledge/)
-- [Is a help desk job good for someone who has no knowledge and wants to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/q0nt9t/is_a_help_desk_job_good_for_someone_who_has_no/)
-- [Boolean Search for IT Recruiter](https://www.reddit.com/r/InformationTechnology/comments/q0gg68/boolean_search_for_it_recruiter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Nexustorage aims at file and block access to object storage](https://www.computerweekly.com/news/252507679/Nexustorage-aims-at-file-and-block-access-to-object-storage)
-- [Mandiant name returns to fore ahead of FireEye sale](https://www.computerweekly.com/news/252507681/Mandiant-name-returns-to-fore-ahead-of-FireEye-sale)
-- [NHSX publishes IT standards and interoperability priorities](https://www.computerweekly.com/news/252507676/NHSX-publishes-IT-standards-and-interoperability-priorities)
-- [Chancellor uses Tory Party conference speech to announce AI scholarships](https://www.computerweekly.com/news/252507677/Chancellor-uses-Tory-Party-conference-speech-to-announce-AI-scholarships)
-- [NHSX IT chief outlines opportunities of elective recovery tech fund](https://www.computerweekly.com/news/252507674/NHSX-IT-chief-outlines-opportunities-of-elective-recovery-tech-fund)
-- [One Identity buys OneLogin for access management expertise](https://www.computerweekly.com/news/252507675/One-Identity-buys-OneLogin-for-access-management-expertise)
-- [Two arrests made in European ransomware investigation](https://www.computerweekly.com/news/252507668/Two-arrests-made-in-European-ransomware-investigation)
-- [Mastercard acquisition of Aiia is a further sign of open banking’s big future](https://www.computerweekly.com/news/252507664/Mastercard-acquisition-of-Aiia-is-a-further-sign-of-open-bankings-big-future)
-- [Security Think Tank: Embracing vulnerability management for the greater good](https://www.computerweekly.com/opinion/Security-Think-Tank-Embracing-vulnerability-management-for-the-greater-good)
-- [Met Police purchase new retrospective facial-recognition system](https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system)
+- [Five tips to bridge application management service gaps](https://www.computerweekly.com/opinion/Five-tips-to-bridge-application-management-service-gaps)
+- [New strategies needed to close the cyber security skills gap](https://www.computerweekly.com/opinion/New-strategies-needed-to-close-the-cyber-security-skills-gap)
+- [CIO interview: Lisa Heneghan, chief digital officer, KPMG](https://www.computerweekly.com/news/252507723/CIO-interview-Lisa-Heneghan-chief-digital-officer-KPMG)
+- [New Python-based ransomware attacks unfold in record time](https://www.computerweekly.com/news/252507739/New-Python-based-ransomware-attacks-unfold-in-record-time)
+- [Invest in cyber security with confidence using a structured approach](https://www.computerweekly.com/opinion/Invest-in-cyber-security-with-confidence-using-a-structured-approach)
+- [Concerns raised over confidentiality and transparency in government data innovation](https://www.computerweekly.com/news/252507738/Concerns-raised-over-confidentiality-and-transparency-in-government-data-innovation)
+- [Microsoft’s financial services cloud available next month](https://www.computerweekly.com/news/252507733/Microsofts-financial-services-cloud-available-next-month)
+- [Kao Data secures up to £130m in funding to finance colocation datacentre expansions](https://www.computerweekly.com/news/252507731/Kao-Data-secures-up-to-130m-in-funding-to-finance-colocation-datacentre-expansions)
+- [Britain needs its amazing migrants](https://www.computerweekly.com/opinion/Britain-needs-its-amazing-migrants)
+- [Keeping the UK in the global race to adopt digital identity](https://www.computerweekly.com/opinion/Keeping-the-UK-in-the-global-race-to-adopt-digital-identity)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

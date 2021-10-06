@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
+- [Apple's Siri needs to become a 'bicycle for the mind'](https://www.computerworld.com/article/3635750/apples-siri-needs-to-become-a-bicycle-for-the-mind.html#tk.rss_all)
+- [Why return to the office if you’re just Zooming all day anyway?](https://www.computerworld.com/article/3635102/why-return-to-the-office-if-you-re-just-zooming-all-day-anyway.html#tk.rss_all)
+- [Windows 11 in-depth review: Windows 10 gets a nip and tuck](https://www.computerworld.com/article/3635101/windows-11-in-depth-review-windows-10-gets-a-nip-and-tuck.html#tk.rss_all)
 - [Microsoft sets perpetual-license Office 2021 prices, reveals new-feature list](https://www.computerworld.com/article/3635648/microsoft-sets-perpetual-license-office-2021-prices-reveals-new-feature-list.html#tk.rss_all)
 - [How one coding error turned AirTags into perfect malware distributors](https://www.computerworld.com/article/3635628/how-one-coding-error-turned-airtags-into-perfect-malware-distributors.html#tk.rss_all)
+- [BrandPost: Solving for the Impossible: AMD Delivers Uncompromising Performance and Battery Life](https://www.computerworld.com/article/3635629/solving-for-the-impossible-amd-delivers-uncompromising-performance-and-battery-life.html#tk.rss_all)
 - [How to make sense of Microsoft’s upcoming mail security changes](https://www.computerworld.com/article/3635608/how-to-make-sense-of-microsofts-upcoming-mail-security-changes.html#tk.rss_all)
 - [My first week with an iPhone 13 mini](https://www.computerworld.com/article/3635548/my-first-week-with-an-iphone-13-mini.html#tk.rss_all)
 - [Android vs. iOS in the enterprise: IT now has a real choice](https://www.computerworld.com/article/3634332/android-vs-ios-enterprise-it-now-has-real-choice.html#tk.rss_all)
-- [The case of the insecure printer](https://www.computerworld.com/article/3635098/the-case-of-the-insecure-printer.html#tk.rss_all)
-- [Varjo and a better approach to VR-based collaboration](https://www.computerworld.com/article/3635070/varjo-and-a-better-approach-to-vr-based-collaboration.html#tk.rss_all)
-- [Apple deepens its engagement in enterprise security](https://www.computerworld.com/article/3635054/apple-deepens-its-engagement-in-enterprise-security.html#tk.rss_all)
-- [Zoom’s $14.7B acquisition bid for Five9 falls apart](https://www.computerworld.com/article/3635290/zooms-147b-acquisition-bid-for-five9-falls-apart.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

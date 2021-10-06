@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Pandora papers: who’s giving money to the Conservatives? – podcast](https://www.theguardian.com/news/audio/2021/oct/05/the-pandora-papers-whos-giving-money-to-the-conservatives-podcast)
-- [Facebook, Instagram and WhatsApp working again after global outage took down platforms](https://www.theguardian.com/technology/2021/oct/04/facebook-instagram-and-whatsapp-hit-by-outage)
-- [Offshore loot: how notorious dealer used trusts to hoard Khmer treasures](https://www.theguardian.com/news/2021/oct/05/offshore-trusts-used-pass-on-looted-khmer-treasures-leak-shows-douglas-latchford)
-- [Singapore passes foreign interference law allowing authorities to block internet content](https://www.theguardian.com/world/2021/oct/05/singapore-passes-foreign-interference-law-allowing-authorities-to-block-internet-content)
-- [Cristiano Ronaldo should have started against Everton, says Sir Alex Ferguson](https://www.theguardian.com/football/2021/oct/05/cristiano-ronaldo-should-have-started-against-everton-says-sir-alex-ferguson)
-- [Priti Patel to enable police to stop disruptive protesters going to demos](https://www.theguardian.com/politics/2021/oct/05/priti-patel-to-enable-police-to-stop-disruptive-protesters-going-to-demos)
-- [Pfizer Covid jab ‘90% effective against hospitalisation for at least 6 months’](https://www.theguardian.com/world/2021/oct/05/pfizer-covid-jab-90-effective-against-hospitalisation-for-at-least-6-months)
-- [NHS England to offer breakthrough treatment for sickle cell disease](https://www.theguardian.com/society/2021/oct/05/nhs-england-breakthrough-treatment-sickle-cell-disease)
-- [Most ethnic minority finance workers suffer discrimination, finds UK report](https://www.theguardian.com/business/2021/oct/05/most-ethnic-minority-finance-workers-suffer-discrimination-finds-uk-report)
-- [London home of couple who escaped slavery in US gets blue plaque](https://www.theguardian.com/world/2021/oct/05/london-home-of-couple-who-escaped-slavery-in-us-gets-blue-plaque)
+- [New York Yankees v Boston Red Sox: American League wild card game – live!](https://www.theguardian.com/sport/live/2021/oct/05/new-york-yankees-v-boston-red-sox-american-league-wild-card-game-live)
+- [Why everything you’ve heard about panic buying might be wrong](https://www.theguardian.com/news/audio/2021/oct/06/why-everything-youve-heard-about-panic-buying-might-be-wrong)
+- [Pygmy pipehorse discovered in New Zealand given Māori name in ‘world first’](https://www.theguardian.com/world/2021/oct/06/pygmy-pipehorse-discovered-in-new-zealand-given-maori-name-in-world-first)
+- [Facebook harms children and is damaging democracy, claims whistleblower](https://www.theguardian.com/technology/2021/oct/05/facebook-harms-children-damaging-democracy-claims-whistleblower)
+- [Huawei hopes US decision on Meng Wanzhou heralds new era in relations](https://www.theguardian.com/world/2021/oct/06/huawei-hopes-us-decision-on-meng-wanzhou-heralds-new-era-in-relations)
+- [Biden says he and China's Xi have agreed to abide by Taiwan agreements](https://www.theguardian.com/world/2021/oct/06/biden-says-he-and-chinas-xi-have-agreed-to-abide-by-taiwan-agreement)
+- [UK petrol prices are closing in on all-time high, warns RAC](https://www.theguardian.com/money/2021/oct/06/uk-petrol-prices-are-closing-in-on-all-time-high-warns-rac)
+- [Websites hosting porn in UK told to enforce age checks or face fines](https://www.theguardian.com/technology/2021/oct/06/websites-hosting-porn-uk-told-enforce-age-checks-face-fines)
+- [Scientists discover Welsh ‘dragon’ dinosaur – the size of a chicken](https://www.theguardian.com/science/2021/oct/06/scientists-discover-welsh-dragon-dinosaur-size-of-chicken)
+- [Hundreds gather for vigil in memory of Sabina Nessa](https://www.theguardian.com/uk-news/2021/oct/06/hundreds-gather-for-vigil-in-memory-of-sabina-nessa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

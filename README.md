@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NASA selects GE Aviation and MagniX to develop electric aircraft engines](https://wegoelectric.net/nasa-selects-ge-aviation-magnix-to-develop-electric-aircraft-engines/)
-- [Grounded Language](http://www.jtoy.net/blog/grounded_language.html)
-- [Working Overtime: NASA’s Deep Space Atomic Clock Completes Mission](https://www.jpl.nasa.gov/news/working-overtime-nasas-deep-space-atomic-clock-completes-mission)
-- [The Open Society and Its Prophets](https://www.tabletmag.com/sections/arts-letters/articles/the-open-society-prophets)
-- [Privacy Is Power](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
-- [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
-- [iOS 15 review: Forget quantity, Focus on quality](https://arstechnica.com/gadgets/2021/10/ios-15-review-apple-turns-its-focus-to-the-little-things/)
-- [Seeking Pencils](http://www.pencilpages.com/classifieds/seeking.htm)
-- [Frequent Linux Commands Dump](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
-- [OpenWrt Login Alert](https://abishekmuthian.com/openwrt-login-alert/)
+- [Texas's controversial abortion bill blocked by federal judge](https://www.washingtonpost.com/politics/courts_law/texas-abortion-lawsuit-decision/2021/10/06/ae70d946-22e7-11ec-9309-b743b79abc59_story.html)
+- [Apple prepping for launch of Legacy Contacts feature in iOS 15](https://9to5mac.com/2021/10/06/legacy-contact-feature-on-the-way/)
+- [The Economics of Programming Languages (2005)](https://www.welton.it/articles/programming_language_economics.html)
+- [Reflecting on Four Years at Databricks](https://www.lihaoyi.com/post/ReflectingonFourYearsatDatabricks.html)
+- [Apple Promotes Apple Music, Apple Arcade in iOS Settings App](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app)
+- [WHO endorses use of world’s first malaria vaccine in Africa](https://www.theguardian.com/global-development/2021/oct/06/who-endorses-use-of-worlds-first-malaria-vaccine-in-africa)
+- [Scaling Kubernetes Tenant Management with Hierarchical Namespaces Controller](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
+- [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
+- [Mexican government charges against academics criticized](https://apnews.com/article/science-mexico-arrests-52cfc9ae18d53395a4d76030bbdbdccf)
+- [Ask HN: Is HN too white and male?](https://news.ycombinator.com/item?id=28780911)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

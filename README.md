@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [18 year old female, considering future in information technology.](https://www.reddit.com/r/InformationTechnology/comments/q27inx/18_year_old_female_considering_future_in/)
+- [online colleges](https://www.reddit.com/r/InformationTechnology/comments/q2y25t/online_colleges/)
+- [FireEye agent (xagt) with 100% of disk usage](https://www.reddit.com/r/InformationTechnology/comments/q2t68d/fireeye_agent_xagt_with_100_of_disk_usage/)
+- [CompTIA A+ Exam](https://www.reddit.com/r/InformationTechnology/comments/q2obxm/comptia_a_exam/)
+- [Top Staff Augmentation In Qatar](https://www.reddit.com/r/InformationTechnology/comments/q2hvsa/top_staff_augmentation_in_qatar/)
+- [Mid 20s, know nothing about I.T but I want to get a job in it one day. Is it possible to teach myself?](https://www.reddit.com/r/InformationTechnology/comments/q2fejb/mid_20s_know_nothing_about_it_but_i_want_to_get_a/)
+- [Hard to lose weight while working in IT](https://www.reddit.com/r/InformationTechnology/comments/q2d6m8/hard_to_lose_weight_while_working_in_it/)
 - [HELP! Need project ideas for class](https://www.reddit.com/r/InformationTechnology/comments/q25sln/help_need_project_ideas_for_class/)
 - [Virtualize an actual SSD](https://www.reddit.com/r/InformationTechnology/comments/q23iv5/virtualize_an_actual_ssd/)
 - [Is work able to RDP into my PC?](https://www.reddit.com/r/InformationTechnology/comments/q216dm/is_work_able_to_rdp_into_my_pc/)
 - [I completed a request ticket but my work was never used by the requester. How do discourage tickets being created and the end result going to waste?](https://www.reddit.com/r/InformationTechnology/comments/q1z1wa/i_completed_a_request_ticket_but_my_work_was/)
-- [Entrance exam](https://www.reddit.com/r/InformationTechnology/comments/q1usow/entrance_exam/)
-- [Looking to get into IT.](https://www.reddit.com/r/InformationTechnology/comments/q1o6e6/looking_to_get_into_it/)
-- [Advice needed](https://www.reddit.com/r/InformationTechnology/comments/q1kakn/advice_needed/)
-- [Your Start](https://www.reddit.com/r/InformationTechnology/comments/q1jynq/your_start/)
-- [Are there IT contract marketplaces in the US?](https://www.reddit.com/r/InformationTechnology/comments/q1jwtu/are_there_it_contract_marketplaces_in_the_us/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

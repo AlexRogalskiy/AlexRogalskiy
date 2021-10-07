@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Seaports, Backlogged Supply Chain Seek a Digital Response](https://www.informationweek.com/big-data-analytics/seaports-backlogged-supply-chain-seek-a-digital-response)
+- [The Art of Sharing Credit for a Successful IT Project](https://www.informationweek.com/team-building-and-staffing/the-art-of-sharing-credit-for-a-successful-it-project)
 - [Pratt & Whitney’s Low-Code Strategy to Save Development Time](https://www.informationweek.com/project-management/pratt-whitney-s-low-code-strategy-to-save-development-time)
 - [Reinventing the Customer Experience, One Process at a Time](https://www.informationweek.com/executive-insights-and-innovation/reinventing-the-customer-experience-one-process-at-a-time)
 - [Moving Banks Out of their Brick-and-Mortar Mindset](https://www.informationweek.com/strategic-cio/moving-banks-out-of-their-brick-and-mortar-mindset)
@@ -369,8 +371,6 @@
 - [How PepsiCo Put Data to Work Connecting to Customers](https://www.informationweek.com/it-strategy/how-pepsico-put-data-to-work-connecting-to-customers)
 - [6 Tips to Adopt and Thrive With a Product-Driven Culture](https://www.informationweek.com/enterprise-agility/6-tips-to-adopt-and-thrive-with-a-product-driven-culture)
 - [Why to Rethink Liability Insurance for IT](https://www.informationweek.com/security-and-risk-strategy/why-to-rethink-liability-insurance-for-it)
-- [How to Boost Camaraderie, Connections for Remote and Hybrid Teams](https://www.informationweek.com/team-building-and-staffing/how-to-boost-camaraderie-connections-for-remote-and-hybrid-teams)
-- [Think ‘Adaptive, Creative, and Resilient’ to Drive Growth](https://www.informationweek.com/enterprise-agility/think-adaptive-creative-and-resilient-to-drive-growth)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

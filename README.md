@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Five tips to bridge application management service gaps](https://www.computerweekly.com/opinion/Five-tips-to-bridge-application-management-service-gaps)
-- [New strategies needed to close the cyber security skills gap](https://www.computerweekly.com/opinion/New-strategies-needed-to-close-the-cyber-security-skills-gap)
-- [CIO interview: Lisa Heneghan, chief digital officer, KPMG](https://www.computerweekly.com/news/252507723/CIO-interview-Lisa-Heneghan-chief-digital-officer-KPMG)
-- [New Python-based ransomware attacks unfold in record time](https://www.computerweekly.com/news/252507739/New-Python-based-ransomware-attacks-unfold-in-record-time)
-- [Invest in cyber security with confidence using a structured approach](https://www.computerweekly.com/opinion/Invest-in-cyber-security-with-confidence-using-a-structured-approach)
-- [Concerns raised over confidentiality and transparency in government data innovation](https://www.computerweekly.com/news/252507738/Concerns-raised-over-confidentiality-and-transparency-in-government-data-innovation)
-- [Microsoft’s financial services cloud available next month](https://www.computerweekly.com/news/252507733/Microsofts-financial-services-cloud-available-next-month)
-- [Kao Data secures up to £130m in funding to finance colocation datacentre expansions](https://www.computerweekly.com/news/252507731/Kao-Data-secures-up-to-130m-in-funding-to-finance-colocation-datacentre-expansions)
-- [Britain needs its amazing migrants](https://www.computerweekly.com/opinion/Britain-needs-its-amazing-migrants)
-- [Keeping the UK in the global race to adopt digital identity](https://www.computerweekly.com/opinion/Keeping-the-UK-in-the-global-race-to-adopt-digital-identity)
+- [MEPs approve report opposing certain uses of AI by police](https://www.computerweekly.com/news/252507796/MEPs-approve-report-opposing-certain-uses-of-AI-by-police)
+- [VMworld 2021: VMware CEO fleshes out and refines company’s enterprise multi-cloud strategy](https://www.computerweekly.com/news/252507820/VMworld-2021-VMware-CEO-fleshes-out-and-refines-enterprise-multi-cloud-strategy)
+- [Open Infrastructure Foundation hails surge in OpenStack deployments as Microsoft joins ranks](https://www.computerweekly.com/news/252507795/Open-Infrastructure-Foundation-hails-surge-in-OpenStack-deployments-as-Microsoft-joins-ranks)
+- [US lawmakers propose ransomware reporting rules](https://www.computerweekly.com/news/252507818/US-lawmakers-propose-ransomware-reporting-rules)
+- [Security Think Tank: Responsible vulnerability disclosure is a joint effort](https://www.computerweekly.com/opinion/Security-Think-Tank-Responsible-vulnerability-disclosure-is-a-joint-effort)
+- [The power of two: quantum or neuromorphic computing?](https://www.computerweekly.com/news/252507793/The-power-of-two-Quantum-or-Neuromorphic-computing)
+- [Gaming service Twitch hacked, data leaked](https://www.computerweekly.com/news/252507802/Gaming-service-Twitch-hacked-data-leaked)
+- [Tech Nation adds 30 fintech scaleups to growth programme as funding continues to rise](https://www.computerweekly.com/news/252507800/Tech-Nation-adds-30-fintech-scaleups-to-growth-programme-as-funding-continues-to-rise)
+- [Apache web server users urged to patch immediately](https://www.computerweekly.com/news/252507797/Apache-web-server-users-urged-to-patch-immediately)
+- [Ocado gets closer to autonomous delivery with Wayve trial](https://www.computerweekly.com/news/252507791/Ocado-gets-closer-to-autonomous-delivery-with-Wayve-trial)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

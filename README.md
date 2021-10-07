@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New York Yankees v Boston Red Sox: American League wild card game – live!](https://www.theguardian.com/sport/live/2021/oct/05/new-york-yankees-v-boston-red-sox-american-league-wild-card-game-live)
-- [Why everything you’ve heard about panic buying might be wrong](https://www.theguardian.com/news/audio/2021/oct/06/why-everything-youve-heard-about-panic-buying-might-be-wrong)
-- [Pygmy pipehorse discovered in New Zealand given Māori name in ‘world first’](https://www.theguardian.com/world/2021/oct/06/pygmy-pipehorse-discovered-in-new-zealand-given-maori-name-in-world-first)
-- [Facebook harms children and is damaging democracy, claims whistleblower](https://www.theguardian.com/technology/2021/oct/05/facebook-harms-children-damaging-democracy-claims-whistleblower)
-- [Huawei hopes US decision on Meng Wanzhou heralds new era in relations](https://www.theguardian.com/world/2021/oct/06/huawei-hopes-us-decision-on-meng-wanzhou-heralds-new-era-in-relations)
-- [Biden says he and China's Xi have agreed to abide by Taiwan agreements](https://www.theguardian.com/world/2021/oct/06/biden-says-he-and-chinas-xi-have-agreed-to-abide-by-taiwan-agreement)
-- [UK petrol prices are closing in on all-time high, warns RAC](https://www.theguardian.com/money/2021/oct/06/uk-petrol-prices-are-closing-in-on-all-time-high-warns-rac)
-- [Websites hosting porn in UK told to enforce age checks or face fines](https://www.theguardian.com/technology/2021/oct/06/websites-hosting-porn-uk-told-enforce-age-checks-face-fines)
-- [Scientists discover Welsh ‘dragon’ dinosaur – the size of a chicken](https://www.theguardian.com/science/2021/oct/06/scientists-discover-welsh-dragon-dinosaur-size-of-chicken)
-- [Hundreds gather for vigil in memory of Sabina Nessa](https://www.theguardian.com/uk-news/2021/oct/06/hundreds-gather-for-vigil-in-memory-of-sabina-nessa)
+- [Can women trust the police?](https://www.theguardian.com/news/audio/2021/oct/07/can-women-trust-the-police-podcast)
+- [Pakistan earthquake: at least 15 dead after powerful 5.7 magnitude tremor](https://www.theguardian.com/world/2021/oct/07/pakistan-earthquake-magnitude-deaths)
+- [Biden: Republicans playing ‘Russian roulette’ with US economy over debt ceiling – as it happened](https://www.theguardian.com/us-news/live/2021/oct/06/facebook-democrats-republicans-joe-biden-congress-us-politics-latest-news)
+- [New Zealanders should ‘plan to encounter’ Covid before Christmas, expert warns](https://www.theguardian.com/world/2021/oct/07/new-zealanders-should-plan-to-encounter-covid-before-christmas-expert-warns)
+- [Cambodia celebrates return of ancient Khmer sculptures from Douglas Latchford collection](https://www.theguardian.com/world/2021/oct/07/cambodia-celebrates-return-of-ancient-khmer-sculptures-from-douglas-latchford-collection)
+- [Universities ‘failing to mark down students’ for poor writing skills](https://www.theguardian.com/education/2021/oct/07/universities-failing-to-mark-down-students-for-poor-writing-skills)
+- [Only eight of UK’s top 100 companies headed by women, report says](https://www.theguardian.com/business/2021/oct/07/only-eight-of-uks-top-100-companies-headed-by-women-report-says)
+- [‘Eco-anxiety’: fear of environmental doom weighs on young people](https://www.theguardian.com/society/2021/oct/06/eco-anxiety-fear-of-environmental-doom-weighs-on-young-people)
+- [The Mirror and the Light review – Cromwell’s spell is finally broken](https://www.theguardian.com/stage/2021/oct/06/the-mirror-and-the-light-review-gielgud-theatre-london)
+- [Brighton and Hove Albion footballer arrested on suspicion of sexual assault](https://www.theguardian.com/uk-news/2021/oct/06/brighton-and-hove-albion-footballer-arrested-on-suspicion-of-sexual-assault)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

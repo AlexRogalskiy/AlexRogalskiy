@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
-- [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
-- [Moving Google Toward the Mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
-- [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
-- [Statement from Mark Zuckerberg](https://www.facebook.com/4/posts/10113961365418581/?d=n)
-- [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html)
-- [We need to take CO2 out of the sky](https://www.orbuch.com/carbon-removal/)
-- [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
-- [Towards Learning to Play Piano with Dexterous Hands and Touch](https://arxiv.org/abs/2106.02040)
-- [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
+- [Academia’s ableist culture laid bare](https://www.nature.com/articles/d41586-021-02695-0)
+- [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
+- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
+- [Medical Ethicist at UC Irvine on leave for challenging Vaccine mandate](https://aaronkheriaty.substack.com/p/legal-update-10521)
+- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
+- [Canyon.mid](https://canyonmid.com/)
+- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
+- [The naughty username checking system used by Twitch](https://ghostbin.com/57bCm)
+- [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
+- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

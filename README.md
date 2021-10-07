@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Jump into WebAssembly with Hippo](https://www.infoworld.com/article/3635848/jump-into-webassembly-with-hippo.html#tk.rss_all)
+- [What is Rust? Safe, fast, and easy software development](https://www.infoworld.com/article/3218074/what-is-rust-safe-fast-and-easy-software-development.html#tk.rss_all)
 - [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
 - [BrandPost: What You Need to Know About Hybrid Cloud Environments](https://www.infoworld.com/article/3635893/what-you-need-to-know-about-hybrid-cloud-environments.html#tk.rss_all)
 - [BrandPost: NGINX and CIS Hardened Images Equals Security and Efficiency](https://www.infoworld.com/article/3635690/nginx-and-cis-hardened-images-equals-security-and-efficiency.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [BrandPost: How to Meet the Shared Responsibility Model With CIS](https://www.infoworld.com/article/3635890/how-to-meet-the-shared-responsibility-model-with-cis.html#tk.rss_all)
 - [BrandPost: How to Meet STIG Compliance and Achieve OS Security With CIS](https://www.infoworld.com/article/3635749/how-to-meet-stig-compliance-and-achieve-os-security-with-cis.html#tk.rss_all)
 - [Good cloud architects are generalists not specialists](https://www.infoworld.com/article/3635568/good-cloud-architects-are-generalists-not-specialists.html#tk.rss_all)
-- [Explainable AI explained](https://www.infoworld.com/article/3634602/explainable-ai-explained.html#tk.rss_all)
-- [Lessons learned securing Kubernetes in the cloud](https://www.infoworld.com/article/3633675/lessons-learned-securing-kubernetes-in-the-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

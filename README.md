@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [MapleSEC: Three keys to improving cloud security](https://www.itworldcanada.com/article/maplesec-three-keys-to-improving-cloud-security/459850)
+- [MapleSEC Diary, Day 2 – Building Resilience](https://www.itworldcanada.com/article/maplesec-diary-day-2-building-resilience/460021)
+- [Micron releases 7400 NVMe enterprise SSDs](https://www.itworldcanada.com/article/micron-releases-7400-nvme-enterprise-ssds/459989)
+- [Hashtag Trending October 7- Twitch source code leaked; Amazon workers organize; Facebook makes political donations](https://www.itworldcanada.com/article/hashtag-trending-october-7-twitch-source-code-leaked-amazon-workers-organize-facebook-makes-political-donations/459855)
 - [MapleSEC.ca 2021 – day 1 attendee diary](https://www.itworldcanada.com/article/maplesec-ca-2021-day-1-attendee-diary/459845)
 - [Many small Canadian firms allocate nothing in operating budgets for cybersecurity: Survey](https://www.itworldcanada.com/article/many-small-canadian-firms-allocate-nothing-in-operating-budgets-for-cybersecurity-survey/459724)
 - [Canadians asked to comment on draft guidance for police use of facial recognition](https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786)
 - [The future of cybersecurity is AI, deep fakes and ransomware, MapleSec conference told](https://www.itworldcanada.com/article/the-future-of-cybersecurity-is-ai-deep-fakes-and-ransomware-maplesec-conference-told/459781)
 - [Cyber Security Today, Oct. 6, 2021 – Misconfigurations, link shortening, ransomware operators arrested and more](https://www.itworldcanada.com/article/cyber-security-today-oct-6-2021-misconfigurations-link-shortening-ransomware-operators-arrested-and-more/459776)
 - [Hashtag Trending October 6 – Facebook outage; Tesla fined for toxic workplace; Windows 11 releases](https://www.itworldcanada.com/article/hashtag-trending-october-6-facebook-outage-tesla-fined-for-toxic-workplace-windows-11-releases/459778)
-- [Coffee Briefing, Oct. 5, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-5-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/459709)
-- [Brown is the color of silence: Asus announces RTX 3070 Noctua Edition graphics cards](https://www.itworldcanada.com/article/brown-is-the-color-of-silence-asus-announces-rtx-3070-noctua-edition-graphics-cards/459690)
-- [Hashtag Trending Oct. 5 – Apple makes big money on games; Google Plex cut; New Zealand considers cryptocurrency](https://www.itworldcanada.com/article/hashtag-trending-october-5-apple-makes-big-money-on-games-google-plex-cut-new-zealand-considers-cryptocurrency/459720)
-- [Elevate partners with Beanfield Metroconnect to upgrade network infrastrucure](https://www.itworldcanada.com/article/elevate-partners-with-beanfield-metroconnect-to-upgrade-network-infrastrucure/459636)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

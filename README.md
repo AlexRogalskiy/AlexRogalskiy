@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [MEPs approve report opposing certain uses of AI by police](https://www.computerweekly.com/news/252507796/MEPs-approve-report-opposing-certain-uses-of-AI-by-police)
-- [VMworld 2021: VMware CEO fleshes out and refines company’s enterprise multi-cloud strategy](https://www.computerweekly.com/news/252507820/VMworld-2021-VMware-CEO-fleshes-out-and-refines-enterprise-multi-cloud-strategy)
-- [Open Infrastructure Foundation hails surge in OpenStack deployments as Microsoft joins ranks](https://www.computerweekly.com/news/252507795/Open-Infrastructure-Foundation-hails-surge-in-OpenStack-deployments-as-Microsoft-joins-ranks)
-- [US lawmakers propose ransomware reporting rules](https://www.computerweekly.com/news/252507818/US-lawmakers-propose-ransomware-reporting-rules)
-- [Security Think Tank: Responsible vulnerability disclosure is a joint effort](https://www.computerweekly.com/opinion/Security-Think-Tank-Responsible-vulnerability-disclosure-is-a-joint-effort)
-- [The power of two: quantum or neuromorphic computing?](https://www.computerweekly.com/news/252507793/The-power-of-two-Quantum-or-Neuromorphic-computing)
-- [Gaming service Twitch hacked, data leaked](https://www.computerweekly.com/news/252507802/Gaming-service-Twitch-hacked-data-leaked)
-- [Tech Nation adds 30 fintech scaleups to growth programme as funding continues to rise](https://www.computerweekly.com/news/252507800/Tech-Nation-adds-30-fintech-scaleups-to-growth-programme-as-funding-continues-to-rise)
-- [Apache web server users urged to patch immediately](https://www.computerweekly.com/news/252507797/Apache-web-server-users-urged-to-patch-immediately)
-- [Ocado gets closer to autonomous delivery with Wayve trial](https://www.computerweekly.com/news/252507791/Ocado-gets-closer-to-autonomous-delivery-with-Wayve-trial)
+- [ONS publishes technical learnings of UK’s first online census](https://www.computerweekly.com/news/252507874/ONS-publishes-technical-learnings-of-UKs-first-online-census)
+- [What lies beyond the data warehouse?](https://www.computerweekly.com/feature/What-lies-beyond-the-data-warehouse)
+- [HCL Benelux telco partnership targets SME and government](https://www.computerweekly.com/news/252507866/HCL-Benelux-telco-partnership-targets-SME-and-government)
+- [Addressing the backup dilemma to ransomware recovery](https://www.computerweekly.com/opinion/Addressing-the-backup-dilemma-to-ransomware-recovery)
+- [Open source for good](https://www.computerweekly.com/opinion/Open-Source-for-Good)
+- [ICO expresses concerns over its future independence](https://www.computerweekly.com/news/252507865/ICO-expresses-concerns-over-its-future-independence)
+- [Uber faces legal action over ‘racist’ facial verification system](https://www.computerweekly.com/news/252507861/Uber-faces-legal-action-over-racist-facial-verification-system)
+- [Twitch data breach investigations continue](https://www.computerweekly.com/news/252507856/Twitch-data-breach-investigations-continue)
+- [How data drives Air Canada’s cargo business](https://www.computerweekly.com/news/252507721/How-data-drives-Air-Canadas-cargo-business)
+- [CW Middle East: Middle East hospitals accelerate take-up of healthcare technologies](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Middle-East-hospitals-accelerate-take-up-of-healthcare-technologies)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

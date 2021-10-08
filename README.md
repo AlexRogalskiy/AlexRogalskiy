@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Box moves to tackle the shift to hybrid workplaces](https://www.computerworld.com/article/3636491/box-tackles-key-workplace-trends-with-enhanced-product-capabilities.html#tk.rss_all)
+- [Apple gains traction as enterprise workplaces become hybrid](https://www.computerworld.com/article/3636409/apple-gains-traction-as-enterprise-workplaces-become-hybrid.html#tk.rss_all)
+- [The Pixel 6's most important feature might be invisible](https://www.computerworld.com/article/3635719/google-pixel-6-phone-features.html#tk.rss_all)
+- [Google Keep cheat sheet: How to get started](https://www.computerworld.com/article/3333002/google-keep-cheat-sheet-how-to-get-started.html#tk.rss_all)
+- [What's in the latest Firefox update? 93 improves SmartBlock, debuts sponsored search suggestions](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-93-improves-smartblock-debuts-sponsored-search-suggestions.html#tk.rss_all)
+- [Google now tells criminals when Chrome users are 'idle.' What could go wrong?](https://www.computerworld.com/article/3635691/google-now-tells-criminals-when-users-leave-their-devices.html#tk.rss_all)
 - [What the iPhone 13 says about Apple’s 2021 MacBook Pro](https://www.computerworld.com/article/3635854/what-the-iphone-13-says-about-apples-2021-macbook-pro.html#tk.rss_all)
 - [What’s new in Office 2021?](https://www.computerworld.com/article/3635689/what-s-new-in-office-2021.html#tk.rss_all)
 - [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
 - [Apple's Siri needs to become a 'bicycle for the mind'](https://www.computerworld.com/article/3635750/apples-siri-needs-to-become-a-bicycle-for-the-mind.html#tk.rss_all)
-- [Why return to the office if you’re just Zooming all day anyway?](https://www.computerworld.com/article/3635102/why-return-to-the-office-if-you-re-just-zooming-all-day-anyway.html#tk.rss_all)
-- [Windows 11 in-depth review: Windows 10 gets a nip and tuck](https://www.computerworld.com/article/3635101/windows-11-in-depth-review-windows-10-gets-a-nip-and-tuck.html#tk.rss_all)
-- [Microsoft sets perpetual-license Office 2021 prices, reveals new-feature list](https://www.computerworld.com/article/3635648/microsoft-sets-perpetual-license-office-2021-prices-reveals-new-feature-list.html#tk.rss_all)
-- [How one coding error turned AirTags into perfect malware distributors](https://www.computerworld.com/article/3635628/how-one-coding-error-turned-airtags-into-perfect-malware-distributors.html#tk.rss_all)
-- [BrandPost: Solving for the Impossible: AMD Delivers Uncompromising Performance and Battery Life](https://www.computerworld.com/article/3635629/solving-for-the-impossible-amd-delivers-uncompromising-performance-and-battery-life.html#tk.rss_all)
-- [How to make sense of Microsoft’s upcoming mail security changes](https://www.computerworld.com/article/3635608/how-to-make-sense-of-microsofts-upcoming-mail-security-changes.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

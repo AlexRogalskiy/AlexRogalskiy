@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to use the Developer Exception Page in ASP.NET Core MVC](https://www.infoworld.com/article/3635756/how-to-use-the-developer-exception-page-in-aspnet-core-mvc.html#tk.rss_all)
 - [Jump into WebAssembly with Hippo](https://www.infoworld.com/article/3635848/jump-into-webassembly-with-hippo.html#tk.rss_all)
 - [What is Rust? Safe, fast, and easy software development](https://www.infoworld.com/article/3218074/what-is-rust-safe-fast-and-easy-software-development.html#tk.rss_all)
 - [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [BrandPost: Meet Your Shared Security Responsibility on AWS With CIS](https://www.infoworld.com/article/3635711/meet-your-shared-security-responsibility-on-aws-with-cis.html#tk.rss_all)
 - [BrandPost: How to Meet the Shared Responsibility Model With CIS](https://www.infoworld.com/article/3635890/how-to-meet-the-shared-responsibility-model-with-cis.html#tk.rss_all)
 - [BrandPost: How to Meet STIG Compliance and Achieve OS Security With CIS](https://www.infoworld.com/article/3635749/how-to-meet-stig-compliance-and-achieve-os-security-with-cis.html#tk.rss_all)
-- [Good cloud architects are generalists not specialists](https://www.infoworld.com/article/3635568/good-cloud-architects-are-generalists-not-specialists.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

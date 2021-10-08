@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can women trust the police?](https://www.theguardian.com/news/audio/2021/oct/07/can-women-trust-the-police-podcast)
-- [Pakistan earthquake: at least 15 dead after powerful 5.7 magnitude tremor](https://www.theguardian.com/world/2021/oct/07/pakistan-earthquake-magnitude-deaths)
-- [Biden: Republicans playing ‘Russian roulette’ with US economy over debt ceiling – as it happened](https://www.theguardian.com/us-news/live/2021/oct/06/facebook-democrats-republicans-joe-biden-congress-us-politics-latest-news)
-- [New Zealanders should ‘plan to encounter’ Covid before Christmas, expert warns](https://www.theguardian.com/world/2021/oct/07/new-zealanders-should-plan-to-encounter-covid-before-christmas-expert-warns)
-- [Cambodia celebrates return of ancient Khmer sculptures from Douglas Latchford collection](https://www.theguardian.com/world/2021/oct/07/cambodia-celebrates-return-of-ancient-khmer-sculptures-from-douglas-latchford-collection)
-- [Universities ‘failing to mark down students’ for poor writing skills](https://www.theguardian.com/education/2021/oct/07/universities-failing-to-mark-down-students-for-poor-writing-skills)
-- [Only eight of UK’s top 100 companies headed by women, report says](https://www.theguardian.com/business/2021/oct/07/only-eight-of-uks-top-100-companies-headed-by-women-report-says)
-- [‘Eco-anxiety’: fear of environmental doom weighs on young people](https://www.theguardian.com/society/2021/oct/06/eco-anxiety-fear-of-environmental-doom-weighs-on-young-people)
-- [The Mirror and the Light review – Cromwell’s spell is finally broken](https://www.theguardian.com/stage/2021/oct/06/the-mirror-and-the-light-review-gielgud-theatre-london)
-- [Brighton and Hove Albion footballer arrested on suspicion of sexual assault](https://www.theguardian.com/uk-news/2021/oct/06/brighton-and-hove-albion-footballer-arrested-on-suspicion-of-sexual-assault)
+- [The whistleblower who plunged Facebook into crisis](https://www.theguardian.com/news/audio/2021/oct/08/whistleblower-facebook-plunged-crisis-frances-haugen-podcast)
+- [Andrew Lloyd Webber says he hated the film Cats so much he bought a dog](https://www.theguardian.com/culture/2021/oct/08/andrew-lloyd-webber-says-he-hated-the-film-cats-so-much-he-bought-a-dog)
+- [Senate approves short-term deal to raise debt ceiling and avert economic crisis](https://www.theguardian.com/us-news/2021/oct/07/debt-ceiling-deal-senate)
+- [Thai restaurant rides wave of success as customers flock to dine in floodwaters](https://www.theguardian.com/world/2021/oct/08/thai-restaurant-rides-wave-of-success-as-customers-flock-to-dine-in-floodwaters)
+- [‘Crisis unfolding’ as Papua New Guinea hospitals hit by worst Covid wave yet](https://www.theguardian.com/world/2021/oct/08/crisis-unfolding-as-papua-new-guinea-hospitals-hit-by-worst-covid-wave-yet)
+- [Tesla headquarters will move from California to Texas, Elon Musk announces](https://www.theguardian.com/technology/2021/oct/07/tesla-moving-texas-elon-musk-california)
+- [US nuclear-powered submarine hits submerged object in South China Sea](https://www.theguardian.com/us-news/2021/oct/08/us-navy-nuclear-submarine-strikes-submerged-object-in-south-china-sea-uss-connecticut)
+- [‘Let’s go!’: Andy Murray retrieves stolen wedding ring attached to tennis shoes](https://www.theguardian.com/sport/2021/oct/07/idiot-andy-murray-wedding-ring-stolen-tennis-shoes-under-car)
+- [Eight candidates for the next UK city of culture announced](https://www.theguardian.com/culture/2021/oct/08/eight-candidates-for-the-next-uk-city-of-culture-announced)
+- [Migrants reaching Dover spend first night in unsafe conditions](https://www.theguardian.com/world/2021/oct/08/migrants-reaching-dover-spend-first-night-in-unsafe-conditions)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

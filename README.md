@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Texas's controversial abortion bill blocked by federal judge](https://www.washingtonpost.com/politics/courts_law/texas-abortion-lawsuit-decision/2021/10/06/ae70d946-22e7-11ec-9309-b743b79abc59_story.html)
-- [Apple prepping for launch of Legacy Contacts feature in iOS 15](https://9to5mac.com/2021/10/06/legacy-contact-feature-on-the-way/)
-- [The Economics of Programming Languages (2005)](https://www.welton.it/articles/programming_language_economics.html)
-- [Reflecting on Four Years at Databricks](https://www.lihaoyi.com/post/ReflectingonFourYearsatDatabricks.html)
-- [Apple Promotes Apple Music, Apple Arcade in iOS Settings App](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app)
-- [WHO endorses use of world’s first malaria vaccine in Africa](https://www.theguardian.com/global-development/2021/oct/06/who-endorses-use-of-worlds-first-malaria-vaccine-in-africa)
-- [Scaling Kubernetes Tenant Management with Hierarchical Namespaces Controller](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
-- [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
-- [Mexican government charges against academics criticized](https://apnews.com/article/science-mexico-arrests-52cfc9ae18d53395a4d76030bbdbdccf)
-- [Ask HN: Is HN too white and male?](https://news.ycombinator.com/item?id=28780911)
+- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
+- [What Happened to Facebook Yesterday?](https://computer-curmudgeon.com/Blog/2021/10/06/what-happened-to-facebook-yesterday-/)
+- [I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
+- [Free Isometric Illustrations](https://passionhacks.com/gradient-isometric-illustrations/)
+- [Working Computer Model in the Browser](http://www.buthowdoitknow.com/cpu_model_intro.html)
+- [Switching Careers from Product to Engineering: First Job as a Programmer (2020)](https://andreea.xyz/posts/first-programmer-job)
+- [Why do cats knead with their paws](https://theconversation.com/why-do-cats-knead-with-their-paws-156254)
+- [Ask HN: Strategies to Combat Feeling Tired?](https://news.ycombinator.com/item?id=28794858)
+- [The robot that can make pasta and sauce – and save restaurants 60% on rent](https://sifted.eu/articles/cala-robot/)
+- [I tried out Nio's ET7 autonomous EV, it felt like I's driving an airplane](https://www.businessinsider.com/i-tested-out-chinese-tesla-and-it-was-like-airplane-2021-9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

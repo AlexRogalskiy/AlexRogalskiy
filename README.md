@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Academia’s ableist culture laid bare](https://www.nature.com/articles/d41586-021-02695-0)
-- [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
-- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
-- [Medical Ethicist at UC Irvine on leave for challenging Vaccine mandate](https://aaronkheriaty.substack.com/p/legal-update-10521)
-- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
-- [Canyon.mid](https://canyonmid.com/)
-- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
-- [The naughty username checking system used by Twitch](https://ghostbin.com/57bCm)
-- [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
-- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
+- [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
+- [XMonad – The Automated Tiling WM](https://xmonad.org/)
+- [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
+- [Laser for control of mosquitos, weeds and pests](https://github.com/Ildaron/Laser_control)
+- [Why kidney failure led me to found an Health Tech Startup](https://news.ycombinator.com/item?id=28793637)
+- [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
+- [Constitution Grove – the Navy’s White Oak Forest on a High Tech Base (2020)](http://www.oldsaltblog.com/2020/11/constitution-grove-the-navys-white-oak-forest-on-a-high-tech-base/)
+- [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
+- [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
+- [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

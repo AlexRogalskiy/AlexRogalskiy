@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do SMS messages with an identifier still originate form a sender number?](https://www.reddit.com/r/InformationTechnology/comments/q35b5f/do_sms_messages_with_an_identifier_still/)
 - [online colleges](https://www.reddit.com/r/InformationTechnology/comments/q2y25t/online_colleges/)
 - [FireEye agent (xagt) with 100% of disk usage](https://www.reddit.com/r/InformationTechnology/comments/q2t68d/fireeye_agent_xagt_with_100_of_disk_usage/)
 - [CompTIA A+ Exam](https://www.reddit.com/r/InformationTechnology/comments/q2obxm/comptia_a_exam/)
@@ -415,7 +416,6 @@
 - [HELP! Need project ideas for class](https://www.reddit.com/r/InformationTechnology/comments/q25sln/help_need_project_ideas_for_class/)
 - [Virtualize an actual SSD](https://www.reddit.com/r/InformationTechnology/comments/q23iv5/virtualize_an_actual_ssd/)
 - [Is work able to RDP into my PC?](https://www.reddit.com/r/InformationTechnology/comments/q216dm/is_work_able_to_rdp_into_my_pc/)
-- [I completed a request ticket but my work was never used by the requester. How do discourage tickets being created and the end result going to waste?](https://www.reddit.com/r/InformationTechnology/comments/q1z1wa/i_completed_a_request_ticket_but_my_work_was/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

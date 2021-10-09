@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [3 Biggest Mistakes Companies Make When Adopting Cloud Computing](https://www.informationweek.com/cloud/3-biggest-mistakes-companies-make-when-adopting-cloud-computing)
 - [A Question of Digital Balance](https://www.informationweek.com/strategic-cio/a-question-of-digital-balance)
 - [5 Lessons from Facebook, Instagram, WhatsApp Outage](https://www.informationweek.com/security-and-risk-strategy/5-lessons-from-facebook-instagram-whatsapp-outage)
+- [The Cyber Insurance Market in Flux](https://www.informationweek.com/security-and-risk-strategy/the-cyber-insurance-market-in-flux)
 - [Should Sustainability Be an IT Priority?](https://www.informationweek.com/executive-insights-and-innovation/should-sustainability-be-an-it-priority-)
 - [Seaports, Backlogged Supply Chain Seek a Digital Response](https://www.informationweek.com/big-data-analytics/seaports-backlogged-supply-chain-seek-a-digital-response)
 - [The Art of Sharing Credit for a Successful IT Project](https://www.informationweek.com/team-building-and-staffing/the-art-of-sharing-credit-for-a-successful-it-project)
 - [Pratt & Whitney’s Low-Code Strategy to Save Development Time](https://www.informationweek.com/project-management/pratt-whitney-s-low-code-strategy-to-save-development-time)
 - [Reinventing the Customer Experience, One Process at a Time](https://www.informationweek.com/executive-insights-and-innovation/reinventing-the-customer-experience-one-process-at-a-time)
 - [Moving Banks Out of their Brick-and-Mortar Mindset](https://www.informationweek.com/strategic-cio/moving-banks-out-of-their-brick-and-mortar-mindset)
-- [Why Enterprises are Training AI for Local Markets](https://www.informationweek.com/ai-or-machine-learning/why-enterprises-are-training-ai-for-local-markets)
-- [3 Ways to Better Apply AI to Small Data Sets](https://www.informationweek.com/ai-or-machine-learning/3-ways-to-better-apply-ai-to-small-data-sets)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

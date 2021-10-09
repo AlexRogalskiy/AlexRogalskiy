@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Has Apple set the scene for its next small big thing?](https://www.computerworld.com/article/3636413/has-apple-set-the-scene-for-its-next-small-big-thing.html#tk.rss_all)
+- [The most important Pixel 6 feature might be invisible](https://www.computerworld.com/article/3635719/pixel-6-feature.html#tk.rss_all)
+- [Home office tips from a veteran freelancer](https://www.computerworld.com/article/3636495/home-office-tips-from-a-veteran-freelancer.html#tk.rss_all)
+- [Windows 11 arrives: my initial impressions](https://www.computerworld.com/article/3636498/windows-11-arrives-my-initial-impressions.html#tk.rss_all)
+- [Async video messaging: Another route to productive remote work](https://www.computerworld.com/article/3636492/async-video-messaging-another-route-to-productive-remote-work.html#tk.rss_all)
 - [Box moves to tackle the shift to hybrid workplaces](https://www.computerworld.com/article/3636491/box-tackles-key-workplace-trends-with-enhanced-product-capabilities.html#tk.rss_all)
 - [Apple gains traction as enterprise workplaces become hybrid](https://www.computerworld.com/article/3636409/apple-gains-traction-as-enterprise-workplaces-become-hybrid.html#tk.rss_all)
-- [The Pixel 6's most important feature might be invisible](https://www.computerworld.com/article/3635719/google-pixel-6-phone-features.html#tk.rss_all)
-- [Google Keep cheat sheet: How to get started](https://www.computerworld.com/article/3333002/google-keep-cheat-sheet-how-to-get-started.html#tk.rss_all)
-- [What's in the latest Firefox update? 93 improves SmartBlock, debuts sponsored search suggestions](https://www.computerworld.com/article/3251749/whats-in-the-latest-firefox-update-93-improves-smartblock-debuts-sponsored-search-suggestions.html#tk.rss_all)
-- [Google now tells criminals when Chrome users are 'idle.' What could go wrong?](https://www.computerworld.com/article/3635691/google-now-tells-criminals-when-users-leave-their-devices.html#tk.rss_all)
-- [What the iPhone 13 says about Apple’s 2021 MacBook Pro](https://www.computerworld.com/article/3635854/what-the-iphone-13-says-about-apples-2021-macbook-pro.html#tk.rss_all)
-- [What’s new in Office 2021?](https://www.computerworld.com/article/3635689/what-s-new-in-office-2021.html#tk.rss_all)
-- [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
-- [Apple's Siri needs to become a 'bicycle for the mind'](https://www.computerworld.com/article/3635750/apples-siri-needs-to-become-a-bicycle-for-the-mind.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

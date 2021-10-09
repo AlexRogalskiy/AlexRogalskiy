@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Oct. 8, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-8-2021/460057)
+- [VMworld 2021 announcement roundup](https://www.itworldcanada.com/article/vmworld-2021-announcement-roundup/460496)
+- [BlackBerry helps partners secure software supply chain](https://www.itworldcanada.com/article/blackberry-helps-partners-secure-software-supply-chain/460441)
+- [MapleSEC: Three self-help books that can help awareness trainers](https://www.itworldcanada.com/article/maplesec-three-self-help-books-that-can-help-awareness-trainers/460277)
+- [Cyber Security Today, Oct. 8, 2021 – New Linux malware, a new hacking group and a thick advisory report from Microsoft](https://www.itworldcanada.com/article/cyber-security-today-oct-8-2021-new-linux-malware-a-new-hacking-group-and-a-thick-advisory-report-from-microsoft/460100)
+- [Hashtag Trending October 8 – Alberta Covid App Blunder; U.S. Internet is Pricey; Intel Scraps U.K. Chip Plant](https://www.itworldcanada.com/article/hashtag-trending-october-8-alberta-covid-app-blunder-u-s-internet-is-pricey-intel-scraps-u-k-chip-plant/460102)
 - [MapleSEC: Three keys to improving cloud security](https://www.itworldcanada.com/article/maplesec-three-keys-to-improving-cloud-security/459850)
 - [MapleSEC Diary, Day 2 – Building Resilience](https://www.itworldcanada.com/article/maplesec-diary-day-2-building-resilience/460021)
 - [Micron releases 7400 NVMe enterprise SSDs](https://www.itworldcanada.com/article/micron-releases-7400-nvme-enterprise-ssds/459989)
 - [Hashtag Trending October 7- Twitch source code leaked; Amazon workers organize; Facebook makes political donations](https://www.itworldcanada.com/article/hashtag-trending-october-7-twitch-source-code-leaked-amazon-workers-organize-facebook-makes-political-donations/459855)
-- [MapleSEC.ca 2021 – day 1 attendee diary](https://www.itworldcanada.com/article/maplesec-ca-2021-day-1-attendee-diary/459845)
-- [Many small Canadian firms allocate nothing in operating budgets for cybersecurity: Survey](https://www.itworldcanada.com/article/many-small-canadian-firms-allocate-nothing-in-operating-budgets-for-cybersecurity-survey/459724)
-- [Canadians asked to comment on draft guidance for police use of facial recognition](https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786)
-- [The future of cybersecurity is AI, deep fakes and ransomware, MapleSec conference told](https://www.itworldcanada.com/article/the-future-of-cybersecurity-is-ai-deep-fakes-and-ransomware-maplesec-conference-told/459781)
-- [Cyber Security Today, Oct. 6, 2021 – Misconfigurations, link shortening, ransomware operators arrested and more](https://www.itworldcanada.com/article/cyber-security-today-oct-6-2021-misconfigurations-link-shortening-ransomware-operators-arrested-and-more/459776)
-- [Hashtag Trending October 6 – Facebook outage; Tesla fined for toxic workplace; Windows 11 releases](https://www.itworldcanada.com/article/hashtag-trending-october-6-facebook-outage-tesla-fined-for-toxic-workplace-windows-11-releases/459778)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

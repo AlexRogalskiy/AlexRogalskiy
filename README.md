@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free college](https://www.reddit.com/r/InformationTechnology/comments/q3pfob/free_college/)
+- [Every time it happens](https://www.reddit.com/r/InformationTechnology/comments/q3ov9u/every_time_it_happens/)
 - [Do SMS messages with an identifier still originate form a sender number?](https://www.reddit.com/r/InformationTechnology/comments/q35b5f/do_sms_messages_with_an_identifier_still/)
 - [online colleges](https://www.reddit.com/r/InformationTechnology/comments/q2y25t/online_colleges/)
 - [FireEye agent (xagt) with 100% of disk usage](https://www.reddit.com/r/InformationTechnology/comments/q2t68d/fireeye_agent_xagt_with_100_of_disk_usage/)
@@ -414,8 +416,6 @@
 - [Mid 20s, know nothing about I.T but I want to get a job in it one day. Is it possible to teach myself?](https://www.reddit.com/r/InformationTechnology/comments/q2fejb/mid_20s_know_nothing_about_it_but_i_want_to_get_a/)
 - [Hard to lose weight while working in IT](https://www.reddit.com/r/InformationTechnology/comments/q2d6m8/hard_to_lose_weight_while_working_in_it/)
 - [HELP! Need project ideas for class](https://www.reddit.com/r/InformationTechnology/comments/q25sln/help_need_project_ideas_for_class/)
-- [Virtualize an actual SSD](https://www.reddit.com/r/InformationTechnology/comments/q23iv5/virtualize_an_actual_ssd/)
-- [Is work able to RDP into my PC?](https://www.reddit.com/r/InformationTechnology/comments/q216dm/is_work_able_to_rdp_into_my_pc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

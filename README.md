@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
-- [XMonad – The Automated Tiling WM](https://xmonad.org/)
-- [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
-- [Laser for control of mosquitos, weeds and pests](https://github.com/Ildaron/Laser_control)
-- [Why kidney failure led me to found an Health Tech Startup](https://news.ycombinator.com/item?id=28793637)
-- [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
-- [Constitution Grove – the Navy’s White Oak Forest on a High Tech Base (2020)](http://www.oldsaltblog.com/2020/11/constitution-grove-the-navys-white-oak-forest-on-a-high-tech-base/)
-- [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
-- [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
-- [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
+- [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
+- [Ć Programming Language](https://github.com/pfusik/cito)
+- [Hydrogen’s moment is here at last](https://www.economist.com/leaders/2021/10/09/hydrogens-moment-is-here-at-last)
+- [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
+- [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
+- [Tesorio (YC S15) is Hiring a Head of Talent to help us grow 2x next year](https://jobs.lever.co/tesorio/cb6976de-e744-4f68-b10a-a9c2c62b3911)
+- [Byzantine warrior with gold-threaded jaw unearthed in Greece](https://www.livescience.com/byzantine-warrior-fractured-jaw)
+- [Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://github.com/mattiasgustavsson/dos-like)
+- [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/ham-radio)
+- [1 Year of Coinbase as a mission focused company](https://twitter.com/brian_armstrong/status/1443727729476530178)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

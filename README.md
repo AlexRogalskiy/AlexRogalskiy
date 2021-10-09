@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
-- [What Happened to Facebook Yesterday?](https://computer-curmudgeon.com/Blog/2021/10/06/what-happened-to-facebook-yesterday-/)
-- [I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
-- [Free Isometric Illustrations](https://passionhacks.com/gradient-isometric-illustrations/)
-- [Working Computer Model in the Browser](http://www.buthowdoitknow.com/cpu_model_intro.html)
-- [Switching Careers from Product to Engineering: First Job as a Programmer (2020)](https://andreea.xyz/posts/first-programmer-job)
-- [Why do cats knead with their paws](https://theconversation.com/why-do-cats-knead-with-their-paws-156254)
-- [Ask HN: Strategies to Combat Feeling Tired?](https://news.ycombinator.com/item?id=28794858)
-- [The robot that can make pasta and sauce – and save restaurants 60% on rent](https://sifted.eu/articles/cala-robot/)
-- [I tried out Nio's ET7 autonomous EV, it felt like I's driving an airplane](https://www.businessinsider.com/i-tested-out-chinese-tesla-and-it-was-like-airplane-2021-9)
+- [Housing supply restrictions are driving the U.S. rent spike](https://www.bloomberg.com/news/articles/2021-10-05/tenants-struggle-with-red-hot-u-s-rental-market)
+- [David Mitchell on Tax Avoidance (2015) [video]](https://www.youtube.com/watch?v=m2q-Csk-ktc)
+- [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
+- [VMware ESXi Servers Encrypted by Lightning-Fast Python Script](https://threatpost.com/vmware-esxi-encrypted-python-script-ransomware/175374/)
+- [Twitch Leak Included Emails, Passwords in Clear Text: Researcher](https://threatpost.com/twitch-leak-emails-passwords/175390/)
+- [Getting Rich vs. Staying Rich](http://www.collaborativefund.com/blog/getting-rich-vs-staying-rich/)
+- [Facebook Bans Developer of Unfollow Everything Tool](https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life)
+- [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
+- [Gas prices are at 7-year highs, and Biden can't do much about it](https://www.cnn.com/2021/10/08/business/gas-prices-oil-biden-opec/index.html)
+- [Microsoft Will Allow More Repair Shops After Activist Protests](https://www.bloomberg.com/news/articles/2021-10-07/microsoft-will-allow-more-repair-shops-after-activist-protests)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Quarkus: Get started with Kubernetes-native Java](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html#tk.rss_all)
+- [Is devops becoming a cloud-only sport?](https://www.infoworld.com/article/3636208/is-devops-becoming-a-cloud-only-sport.html#tk.rss_all)
 - [How to use the Developer Exception Page in ASP.NET Core MVC](https://www.infoworld.com/article/3635756/how-to-use-the-developer-exception-page-in-aspnet-core-mvc.html#tk.rss_all)
 - [Jump into WebAssembly with Hippo](https://www.infoworld.com/article/3635848/jump-into-webassembly-with-hippo.html#tk.rss_all)
 - [What is Rust? Safe, fast, and easy software development](https://www.infoworld.com/article/3218074/what-is-rust-safe-fast-and-easy-software-development.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [BrandPost: NGINX and CIS Hardened Images Equals Security and Efficiency](https://www.infoworld.com/article/3635690/nginx-and-cis-hardened-images-equals-security-and-efficiency.html#tk.rss_all)
 - [BrandPost: New Hardened VMs from CIS: Graviton2 and Windows 2019 STIG](https://www.infoworld.com/article/3635891/new-hardened-vms-from-cis-graviton2-and-windows-2019-stig.html#tk.rss_all)
 - [BrandPost: Meet Your Shared Security Responsibility on AWS With CIS](https://www.infoworld.com/article/3635711/meet-your-shared-security-responsibility-on-aws-with-cis.html#tk.rss_all)
-- [BrandPost: How to Meet the Shared Responsibility Model With CIS](https://www.infoworld.com/article/3635890/how-to-meet-the-shared-responsibility-model-with-cis.html#tk.rss_all)
-- [BrandPost: How to Meet STIG Compliance and Achieve OS Security With CIS](https://www.infoworld.com/article/3635749/how-to-meet-stig-compliance-and-achieve-os-security-with-cis.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

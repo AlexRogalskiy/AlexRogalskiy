@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Lewis Hamilton charity aims to help train 150 black STEM teachers](https://www.computerweekly.com/news/252507924/Lewis-Hamilton-charity-aims-to-help-train-150-black-STEM-teachers)
+- [Craft beer specialist Brewdog fixes serious app vulnerability](https://www.computerweekly.com/news/252507912/Craft-beer-specialist-Brewdog-fixes-serious-app-vulnerability)
+- [Fast-moving Ryuk campaign targets healthcare organisations](https://www.computerweekly.com/news/252507902/Fast-moving-Ryuk-campaign-targets-healthcare-organisations)
+- [NatWest admits to weaknesses in anti-money laundering systems](https://www.computerweekly.com/news/252507903/NatWest-admits-to-weaknesses-in-anti-money-laundering-systems)
 - [ONS publishes technical learnings of UK’s first online census](https://www.computerweekly.com/news/252507874/ONS-publishes-technical-learnings-of-UKs-first-online-census)
 - [What lies beyond the data warehouse?](https://www.computerweekly.com/feature/What-lies-beyond-the-data-warehouse)
 - [HCL Benelux telco partnership targets SME and government](https://www.computerweekly.com/news/252507866/HCL-Benelux-telco-partnership-targets-SME-and-government)
 - [Addressing the backup dilemma to ransomware recovery](https://www.computerweekly.com/opinion/Addressing-the-backup-dilemma-to-ransomware-recovery)
 - [Open source for good](https://www.computerweekly.com/opinion/Open-Source-for-Good)
 - [ICO expresses concerns over its future independence](https://www.computerweekly.com/news/252507865/ICO-expresses-concerns-over-its-future-independence)
-- [Uber faces legal action over ‘racist’ facial verification system](https://www.computerweekly.com/news/252507861/Uber-faces-legal-action-over-racist-facial-verification-system)
-- [Twitch data breach investigations continue](https://www.computerweekly.com/news/252507856/Twitch-data-breach-investigations-continue)
-- [How data drives Air Canada’s cargo business](https://www.computerweekly.com/news/252507721/How-data-drives-Air-Canadas-cargo-business)
-- [CW Middle East: Middle East hospitals accelerate take-up of healthcare technologies](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Middle-East-hospitals-accelerate-take-up-of-healthcare-technologies)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

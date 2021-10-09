@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The whistleblower who plunged Facebook into crisis](https://www.theguardian.com/news/audio/2021/oct/08/whistleblower-facebook-plunged-crisis-frances-haugen-podcast)
-- [Andrew Lloyd Webber says he hated the film Cats so much he bought a dog](https://www.theguardian.com/culture/2021/oct/08/andrew-lloyd-webber-says-he-hated-the-film-cats-so-much-he-bought-a-dog)
-- [Senate approves short-term deal to raise debt ceiling and avert economic crisis](https://www.theguardian.com/us-news/2021/oct/07/debt-ceiling-deal-senate)
-- [Thai restaurant rides wave of success as customers flock to dine in floodwaters](https://www.theguardian.com/world/2021/oct/08/thai-restaurant-rides-wave-of-success-as-customers-flock-to-dine-in-floodwaters)
-- [‘Crisis unfolding’ as Papua New Guinea hospitals hit by worst Covid wave yet](https://www.theguardian.com/world/2021/oct/08/crisis-unfolding-as-papua-new-guinea-hospitals-hit-by-worst-covid-wave-yet)
-- [Tesla headquarters will move from California to Texas, Elon Musk announces](https://www.theguardian.com/technology/2021/oct/07/tesla-moving-texas-elon-musk-california)
-- [US nuclear-powered submarine hits submerged object in South China Sea](https://www.theguardian.com/us-news/2021/oct/08/us-navy-nuclear-submarine-strikes-submerged-object-in-south-china-sea-uss-connecticut)
-- [‘Let’s go!’: Andy Murray retrieves stolen wedding ring attached to tennis shoes](https://www.theguardian.com/sport/2021/oct/07/idiot-andy-murray-wedding-ring-stolen-tennis-shoes-under-car)
-- [Eight candidates for the next UK city of culture announced](https://www.theguardian.com/culture/2021/oct/08/eight-candidates-for-the-next-uk-city-of-culture-announced)
-- [Migrants reaching Dover spend first night in unsafe conditions](https://www.theguardian.com/world/2021/oct/08/migrants-reaching-dover-spend-first-night-in-unsafe-conditions)
+- [Hong Kong University orders removal of Tiananmen Square massacre statue](https://www.theguardian.com/world/2021/oct/09/hong-kong-university-orders-removal-of-tiananmen-square-massacre-statue)
+- [Madonna: Madame X review – tour doc prostrates itself before queen of pop](https://www.theguardian.com/music/2021/oct/09/madonna-madame-x-review-tour-doc-prostrates-itself-before-queen-of-pop)
+- [@Home review – Didy Veldman explores where the heart is](https://www.theguardian.com/stage/2021/oct/09/home-review-didy-veldman)
+- [Warnings distinctly British children’s TV could vanish if subsidy ends](https://www.theguardian.com/tv-and-radio/2021/oct/08/warnings-distinctly-british-childrens-tv-could-vanish-if-subsidy-ends)
+- [Study finds Covid-19 pandemic worsened mental health around the world](https://www.theguardian.com/world/2021/oct/08/covid-crisis-dramatically-worsened-global-mental-health-study-finds)
+- [Biden overrules Trump effort to keep White House files from 6 January panel](https://www.theguardian.com/us-news/2021/oct/08/biden-overrules-trump-white-house-files-6-january-panel)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/oct/08/twenty-photographs-of-the-week)
+- [No federal charges against officer who shot and paralyzed Jacob Blake](https://www.theguardian.com/us-news/2021/oct/08/jacob-blake-police-shooting-kenosha-charges)
+- [Smith and Lynagh lead Harlequins’ second-half comeback to stun Bristol](https://www.theguardian.com/sport/2021/oct/08/harlequins-bristol-premiership-match-report)
+- [Five migrants shot dead at Libyan detention centre amid mass escape](https://www.theguardian.com/world/2021/oct/08/five-migrants-shot-dead-at-libyan-detention-centre-amid-mass-escape)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

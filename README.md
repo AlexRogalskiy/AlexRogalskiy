@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
-- [Ć Programming Language](https://github.com/pfusik/cito)
-- [Hydrogen’s moment is here at last](https://www.economist.com/leaders/2021/10/09/hydrogens-moment-is-here-at-last)
-- [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
-- [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
-- [Tesorio (YC S15) is Hiring a Head of Talent to help us grow 2x next year](https://jobs.lever.co/tesorio/cb6976de-e744-4f68-b10a-a9c2c62b3911)
-- [Byzantine warrior with gold-threaded jaw unearthed in Greece](https://www.livescience.com/byzantine-warrior-fractured-jaw)
-- [Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://github.com/mattiasgustavsson/dos-like)
-- [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/ham-radio)
-- [1 Year of Coinbase as a mission focused company](https://twitter.com/brian_armstrong/status/1443727729476530178)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
+- [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
+- [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
+- [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
+- [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
+- [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
+- [DPRK Textbooks](https://archive.org/details/DPRKTexts)
+- [The Mind Has No Firewall [pdf]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
+- [Soupault is a tool that helps you create and manage static websites](https://soupault.app/)
+- [A probe intended to study the Trojan asteroids takes off shortly](https://www.economist.com/science-and-technology/2021/10/09/a-probe-intended-to-study-the-trojan-asteroids-takes-off-shortly)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Housing supply restrictions are driving the U.S. rent spike](https://www.bloomberg.com/news/articles/2021-10-05/tenants-struggle-with-red-hot-u-s-rental-market)
-- [David Mitchell on Tax Avoidance (2015) [video]](https://www.youtube.com/watch?v=m2q-Csk-ktc)
-- [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
-- [VMware ESXi Servers Encrypted by Lightning-Fast Python Script](https://threatpost.com/vmware-esxi-encrypted-python-script-ransomware/175374/)
-- [Twitch Leak Included Emails, Passwords in Clear Text: Researcher](https://threatpost.com/twitch-leak-emails-passwords/175390/)
-- [Getting Rich vs. Staying Rich](http://www.collaborativefund.com/blog/getting-rich-vs-staying-rich/)
-- [Facebook Bans Developer of Unfollow Everything Tool](https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life)
-- [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
-- [Gas prices are at 7-year highs, and Biden can't do much about it](https://www.cnn.com/2021/10/08/business/gas-prices-oil-biden-opec/index.html)
-- [Microsoft Will Allow More Repair Shops After Activist Protests](https://www.bloomberg.com/news/articles/2021-10-07/microsoft-will-allow-more-repair-shops-after-activist-protests)
+- [I Learned to Love Pseudoscience](http://backreaction.blogspot.com/2021/10/how-i-learned-to-love-pseudoscience.html)
+- [The Whim Wheelchair – A DIY Electric Powered Wheelchair](https://wiki.replimat.org/wiki/Wheelchairs)
+- [C/C++ cross-compiling toolchain for macOS, iOS, iPadOS, etc.](https://github.com/tpoechtrager/cctools-port)
+- [Darwin’s Barnacles](https://www.sciencehistory.org/distillations/darwins-barnacles)
+- [Tinyprinter.club](https://tinyprinter.club/)
+- [The Early Days of Computer Magnetic Storage](https://madned.substack.com/p/old-memories-2-magnetic-boogaloo)
+- [Apple Tried to Make the iPhone in 1993](https://www.youtube.com/watch?v=JB0TeqWZylw)
+- [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
+- [Strangler Pattern Done Wrong](http://diego-pacheco.blogspot.com/2021/10/strangler-pattern-done-wrong.html)
+- [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

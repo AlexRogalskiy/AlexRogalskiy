@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong University orders removal of Tiananmen Square massacre statue](https://www.theguardian.com/world/2021/oct/09/hong-kong-university-orders-removal-of-tiananmen-square-massacre-statue)
-- [Madonna: Madame X review – tour doc prostrates itself before queen of pop](https://www.theguardian.com/music/2021/oct/09/madonna-madame-x-review-tour-doc-prostrates-itself-before-queen-of-pop)
-- [@Home review – Didy Veldman explores where the heart is](https://www.theguardian.com/stage/2021/oct/09/home-review-didy-veldman)
-- [Warnings distinctly British children’s TV could vanish if subsidy ends](https://www.theguardian.com/tv-and-radio/2021/oct/08/warnings-distinctly-british-childrens-tv-could-vanish-if-subsidy-ends)
-- [Study finds Covid-19 pandemic worsened mental health around the world](https://www.theguardian.com/world/2021/oct/08/covid-crisis-dramatically-worsened-global-mental-health-study-finds)
-- [Biden overrules Trump effort to keep White House files from 6 January panel](https://www.theguardian.com/us-news/2021/oct/08/biden-overrules-trump-white-house-files-6-january-panel)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/oct/08/twenty-photographs-of-the-week)
-- [No federal charges against officer who shot and paralyzed Jacob Blake](https://www.theguardian.com/us-news/2021/oct/08/jacob-blake-police-shooting-kenosha-charges)
-- [Smith and Lynagh lead Harlequins’ second-half comeback to stun Bristol](https://www.theguardian.com/sport/2021/oct/08/harlequins-bristol-premiership-match-report)
-- [Five migrants shot dead at Libyan detention centre amid mass escape](https://www.theguardian.com/world/2021/oct/08/five-migrants-shot-dead-at-libyan-detention-centre-amid-mass-escape)
+- [Iran says more than 120kg of uranium enriched to 20%](https://www.theguardian.com/world/2021/oct/10/iran-says-more-than-120kg-of-uranium-enriched-to-20)
+- [Tories’ manifesto pledge to build 300,000 houses a year now ‘almost impossible’](https://www.theguardian.com/society/2021/oct/10/tories-manifesto-pledge-to-build-300000-houses-a-year-now-almost-impossible)
+- [Analysis: six squeezes on the UK economy from bills to shopping to petrol](https://www.theguardian.com/politics/2021/oct/10/analysis-six-squeezes-on-the-uk-economy-from-bills-to-shopping-to-petrol)
+- [Top tanks: 5 ways to style sweater vests – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/09/top-tanks-5-ways-to-style-sweater-vests-in-pictures)
+- [Ian Baraclough slams ‘diabolical’ red card as Northern Ireland beaten](https://www.theguardian.com/football/2021/oct/09/switzerland-northern-ireland-world-cup-qualifying-match-report)
+- [Czech PM’s party loses election to liberal-conservative coalition](https://www.theguardian.com/world/2021/oct/09/czech-pm-set-to-lose-power-after-weak-showing-in-general-election)
+- [Nursing crisis sweeps wards as NHS battles to find recruits](https://www.theguardian.com/society/2021/oct/09/nursing-crisis-sweeps-wards-as-nhs-battles-to-find-recruits)
+- [Woman in hospital after being hit by car and stabbed in Cumbria](https://www.theguardian.com/uk-news/2021/oct/09/woman-in-hospital-after-being-hit-by-car-and-stabbed-in-cumbria)
+- [Trade war looms as UK set to spurn EU offer on Northern Ireland](https://www.theguardian.com/politics/2021/oct/09/trade-war-looms-as-uk-set-to-spurn-eu-offer-on-northern-ireland)
+- [Colombian nun kidnapped by jihadists in Mali in 2017 is freed](https://www.theguardian.com/world/2021/oct/09/colombian-nun-kidnapped-by-jihadists-in-mali-in-2017-is-freed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

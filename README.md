@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [In DESPERATE need of IT/internet/remote wifi access help!!](https://www.reddit.com/r/InformationTechnology/comments/q52hzh/in_desperate_need_of_itinternetremote_wifi_access/)
+- [Slim job opportunities](https://www.reddit.com/r/InformationTechnology/comments/q504jc/slim_job_opportunities/)
 - [Looking to get started in IT but don't know where to start?](https://www.reddit.com/r/InformationTechnology/comments/q4vd2n/looking_to_get_started_in_it_but_dont_know_where/)
 - [Looking for some extra learning resources!](https://www.reddit.com/r/InformationTechnology/comments/q4okee/looking_for_some_extra_learning_resources/)
 - [Why I Love Working in IT](https://www.reddit.com/r/InformationTechnology/comments/q4dfk4/why_i_love_working_in_it/)
@@ -414,8 +416,6 @@
 - [online colleges](https://www.reddit.com/r/InformationTechnology/comments/q2y25t/online_colleges/)
 - [FireEye agent (xagt) with 100% of disk usage](https://www.reddit.com/r/InformationTechnology/comments/q2t68d/fireeye_agent_xagt_with_100_of_disk_usage/)
 - [CompTIA A+ Exam](https://www.reddit.com/r/InformationTechnology/comments/q2obxm/comptia_a_exam/)
-- [Top Staff Augmentation In Qatar](https://www.reddit.com/r/InformationTechnology/comments/q2hvsa/top_staff_augmentation_in_qatar/)
-- [Mid 20s, know nothing about I.T but I want to get a job in it one day. Is it possible to teach myself?](https://www.reddit.com/r/InformationTechnology/comments/q2fejb/mid_20s_know_nothing_about_it_but_i_want_to_get_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I Learned to Love Pseudoscience](http://backreaction.blogspot.com/2021/10/how-i-learned-to-love-pseudoscience.html)
-- [The Whim Wheelchair – A DIY Electric Powered Wheelchair](https://wiki.replimat.org/wiki/Wheelchairs)
-- [C/C++ cross-compiling toolchain for macOS, iOS, iPadOS, etc.](https://github.com/tpoechtrager/cctools-port)
-- [Darwin’s Barnacles](https://www.sciencehistory.org/distillations/darwins-barnacles)
-- [Tinyprinter.club](https://tinyprinter.club/)
-- [The Early Days of Computer Magnetic Storage](https://madned.substack.com/p/old-memories-2-magnetic-boogaloo)
-- [Apple Tried to Make the iPhone in 1993](https://www.youtube.com/watch?v=JB0TeqWZylw)
-- [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
-- [Strangler Pattern Done Wrong](http://diego-pacheco.blogspot.com/2021/10/strangler-pattern-done-wrong.html)
-- [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
+- [Grafana Dashboards for Redis Enterprise Cluster in 5 Minutes](https://developer.redis.com/explore/redisexplorer)
+- [All Linux and Mac Computers Get Their Time Zones from the Same Database](https://tech.slashdot.org/story/21/10/10/1950239/all-linux-and-mac-computers-get-their-time-zones-from-the-same-database)
+- [1B TikTok Users Understand What Congress Doesn’t](https://www.theatlantic.com/ideas/archive/2021/10/problem-underestimating-tiktok/620354/)
+- [Uses This: A collection of Nerdy Interviews about Desktop Setups](https://usesthis.com/)
+- [Why I only hold 3 meetings a week and don’t plan on adding more](https://www.fastcompany.com/90683949/how-i-successfully-run-a-business-on-3-meetings-per-week)
+- [TenFourFox FPR32 SPR5 available (the last official build)](http://tenfourfox.blogspot.com/2021/10/tenfourfox-fpr32-spr5-available-last.html)
+- [Frontiers of Performance with Daniel Lemire](https://corecursive.com/frontiers-of-performance-with-daniel-lemire/)
+- [Mesmerised brown crabs ‘attracted to’ undersea cables](https://www.theguardian.com/environment/2021/oct/11/underwater-cables-renewables-affect-blood-cells-brown-crabs-study)
+- [On Nathan Schneider on the limits of cryptoeconomics](https://vitalik.ca/general/2021/09/26/limits.html)
+- [Near's Original Lossless 600DPI SNES Scans](https://www.patreon.com/posts/nears-original-57250631)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

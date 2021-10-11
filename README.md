@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
-- [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
-- [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
-- [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
-- [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
-- [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
-- [DPRK Textbooks](https://archive.org/details/DPRKTexts)
-- [The Mind Has No Firewall [pdf]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
-- [Soupault is a tool that helps you create and manage static websites](https://soupault.app/)
-- [A probe intended to study the Trojan asteroids takes off shortly](https://www.economist.com/science-and-technology/2021/10/09/a-probe-intended-to-study-the-trojan-asteroids-takes-off-shortly)
+- [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
+- [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
+- [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
+- [Software for Math Research](https://amathr.org/software/)
+- [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
+- [Classified tank specs leaked on War Thunder game forums again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
+- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
+- [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

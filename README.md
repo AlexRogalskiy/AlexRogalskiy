@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran says more than 120kg of uranium enriched to 20%](https://www.theguardian.com/world/2021/oct/10/iran-says-more-than-120kg-of-uranium-enriched-to-20)
-- [Tories’ manifesto pledge to build 300,000 houses a year now ‘almost impossible’](https://www.theguardian.com/society/2021/oct/10/tories-manifesto-pledge-to-build-300000-houses-a-year-now-almost-impossible)
-- [Analysis: six squeezes on the UK economy from bills to shopping to petrol](https://www.theguardian.com/politics/2021/oct/10/analysis-six-squeezes-on-the-uk-economy-from-bills-to-shopping-to-petrol)
-- [Top tanks: 5 ways to style sweater vests – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/09/top-tanks-5-ways-to-style-sweater-vests-in-pictures)
-- [Ian Baraclough slams ‘diabolical’ red card as Northern Ireland beaten](https://www.theguardian.com/football/2021/oct/09/switzerland-northern-ireland-world-cup-qualifying-match-report)
-- [Czech PM’s party loses election to liberal-conservative coalition](https://www.theguardian.com/world/2021/oct/09/czech-pm-set-to-lose-power-after-weak-showing-in-general-election)
-- [Nursing crisis sweeps wards as NHS battles to find recruits](https://www.theguardian.com/society/2021/oct/09/nursing-crisis-sweeps-wards-as-nhs-battles-to-find-recruits)
-- [Woman in hospital after being hit by car and stabbed in Cumbria](https://www.theguardian.com/uk-news/2021/oct/09/woman-in-hospital-after-being-hit-by-car-and-stabbed-in-cumbria)
-- [Trade war looms as UK set to spurn EU offer on Northern Ireland](https://www.theguardian.com/politics/2021/oct/09/trade-war-looms-as-uk-set-to-spurn-eu-offer-on-northern-ireland)
-- [Colombian nun kidnapped by jihadists in Mali in 2017 is freed](https://www.theguardian.com/world/2021/oct/09/colombian-nun-kidnapped-by-jihadists-in-mali-in-2017-is-freed)
+- [The countdown to Cop26: can world leaders save the planet?](https://www.theguardian.com/news/audio/2021/oct/11/the-countdown-to-cop26-can-world-leaders-save-the-planet-podcast)
+- [‘It feels unreal’: elation and trepidation as Sydney businesses reopen after NSW lockdown](https://www.theguardian.com/australia-news/2021/oct/11/it-feels-unreal-elation-and-trepidation-as-sydney-businesses-reopen-after-nsw-lockdown)
+- [Singapore’s new ‘foreign interference’ law leaves journalists like me with an impossible puzzle |  Kirsten Han](https://www.theguardian.com/world/2021/oct/11/singapores-new-foreign-interference-law-leaves-journalists-like-me-with-an-impossible-puzzle)
+- [‘We are staying!’: Poles demonstrate in support of EU membership](https://www.theguardian.com/world/2021/oct/11/poland-demonstrate-support-eu-membership-polexit)
+- [Toothless USA slump to World Cup qualifying defeat to Panama](https://www.theguardian.com/football/2021/oct/10/toothless-usa-slump-to-world-cup-qualifying-defeat-to-panama)
+- [‘We have to show courage’: the Philippines mothers taking Duterte and his ‘war on drugs’ to court](https://www.theguardian.com/world/2021/oct/11/we-have-to-show-courage-the-philippines-mothers-taking-duterte-and-his-war-on-drugs-to-court)
+- [Andy Murray battles back to beat Carlos Alcarez at Indian Wells](https://www.theguardian.com/sport/2021/oct/11/andy-murray-battles-back-to-beat-carlos-alcarez-at-indian-wells)
+- [Mesmerised brown crabs ‘attracted to’ undersea cables](https://www.theguardian.com/environment/2021/oct/11/underwater-cables-renewables-affect-blood-cells-brown-crabs-study)
+- [Lego to remove gender bias from its toys after findings of child survey](https://www.theguardian.com/lifeandstyle/2021/oct/11/lego-to-remove-gender-bias-after-survey-shows-impact-on-children-stereotypes)
+- [Mo Gilligan review – expert social anthropology from the boy next door](https://www.theguardian.com/stage/2021/oct/11/mo-gilligan-review-hammersmith-apollo-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

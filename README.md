@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
-- [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
-- [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
-- [Software for Math Research](https://amathr.org/software/)
-- [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
-- [Classified tank specs leaked on War Thunder game forums again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
-- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
-- [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
+- [Australians ‘complacent’ to rapid growth in digital surveillance](https://www.innovationaus.com/australians-complacent-to-rapid-growth-in-digital-surveillance/)
+- [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
+- [Peter Norvig Joins Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
+- [Instagram has largely replaced TikTok in India](https://restofworld.org/2021/instagram-and-class-in-india/)
+- [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
+- [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
+- [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
+- [Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3](https://github.com/NVlabs/stylegan3)
+- [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
+- [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

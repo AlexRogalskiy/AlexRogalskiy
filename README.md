@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Grafana Dashboards for Redis Enterprise Cluster in 5 Minutes](https://developer.redis.com/explore/redisexplorer)
-- [All Linux and Mac Computers Get Their Time Zones from the Same Database](https://tech.slashdot.org/story/21/10/10/1950239/all-linux-and-mac-computers-get-their-time-zones-from-the-same-database)
-- [1B TikTok Users Understand What Congress Doesn’t](https://www.theatlantic.com/ideas/archive/2021/10/problem-underestimating-tiktok/620354/)
-- [Uses This: A collection of Nerdy Interviews about Desktop Setups](https://usesthis.com/)
-- [Why I only hold 3 meetings a week and don’t plan on adding more](https://www.fastcompany.com/90683949/how-i-successfully-run-a-business-on-3-meetings-per-week)
-- [TenFourFox FPR32 SPR5 available (the last official build)](http://tenfourfox.blogspot.com/2021/10/tenfourfox-fpr32-spr5-available-last.html)
-- [Frontiers of Performance with Daniel Lemire](https://corecursive.com/frontiers-of-performance-with-daniel-lemire/)
-- [Mesmerised brown crabs ‘attracted to’ undersea cables](https://www.theguardian.com/environment/2021/oct/11/underwater-cables-renewables-affect-blood-cells-brown-crabs-study)
-- [On Nathan Schneider on the limits of cryptoeconomics](https://vitalik.ca/general/2021/09/26/limits.html)
-- [Near's Original Lossless 600DPI SNES Scans](https://www.patreon.com/posts/nears-original-57250631)
+- [Show HN: Longjump 0.1.0, a CLI tool to open URI's with rich context](https://github.com/alexcwatt/longjump)
+- [Pentagon Official Resigns over Belief China Has Won AI Battle](https://www.newsweek.com/pentagon-official-resigns-over-belief-china-has-won-ai-battle-heading-global-dominance-1637772)
+- [Why are we addicted to misery porn](https://abishekmuthian.com/why-are-we-addicted-to-misery-porn/)
+- [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
+- [Spruce begins work on Sign-in With Ethereum](https://blog.spruceid.com/sign-in-with-ethereum/)
+- [The World's Recycling System Is Falling Apart. What's Going On?](https://fee.org/articles/the-worlds-recycling-system-is-falling-apart-whats-going-on/)
+- [That One Side Would Like to Utterly Destroy the Other Side Seems Significant](https://freddiedeboer.substack.com/p/that-one-side-would-like-to-utterly)
+- [A Nobel Prize for the Credibility Revolution](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
+- [‘It’s Not Sustainable’: What America’s Port Crisis Looks Like Up Close](https://www.nytimes.com/2021/10/11/business/supply-chain-crisis-savannah-port.html)
+- [Anil Seth on Emergence, Information, and Consciousness – Sean Carroll [audio]](https://www.preposterousuniverse.com/podcast/2021/10/11/168-anil-seth-on-emergence-information-and-consciousness/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

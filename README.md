@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Thoughts on navigating the transition to Windows 11](https://www.computerworld.com/article/3636239/thoughts-on-navigating-the-transition-to-windows-11.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [Windows 11 arrives: my initial impressions](https://www.computerworld.com/article/3636498/windows-11-arrives-my-initial-impressions.html#tk.rss_all)
 - [Async video messaging: Another route to productive remote work](https://www.computerworld.com/article/3636492/async-video-messaging-another-route-to-productive-remote-work.html#tk.rss_all)
 - [Box moves to tackle the shift to hybrid workplaces](https://www.computerworld.com/article/3636491/box-tackles-key-workplace-trends-with-enhanced-product-capabilities.html#tk.rss_all)
-- [Apple gains traction as enterprise workplaces become hybrid](https://www.computerworld.com/article/3636409/apple-gains-traction-as-enterprise-workplaces-become-hybrid.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Covid-19 will loom over cyber strategy for years to come](https://www.computerweekly.com/news/252507981/Covid-19-will-loom-over-cyber-strategy-for-years-to-come)
+- [IR35: FCSA defends Charter change that lets umbrella firms operate offshore setups](https://www.computerweekly.com/news/252507973/IR35-FCSA-defends-Charter-change-that-lets-umbrella-firms-operate-offshore-setups)
+- [Sensitive documents to stay with whistleblower after deadline for agreement for their return passes](https://www.computerweekly.com/news/252507958/Sensitive-documents-to-stay-with-whistleblower-after-deadline-for-agreement-for-their-return-passes)
+- [West Midlands expected to grow by £2.7bn with tech sector drive](https://www.computerweekly.com/news/252507931/West-Midlands-expected-to-grow-by-27bn-with-tech-sector-drive)
+- [Developing an integrated customer and employee experience strategy](https://www.computerweekly.com/feature/Developing-an-integrated-customer-and-employee-experience-strategy)
 - [Lewis Hamilton charity aims to help train 150 black STEM teachers](https://www.computerweekly.com/news/252507924/Lewis-Hamilton-charity-aims-to-help-train-150-black-STEM-teachers)
 - [Craft beer specialist Brewdog fixes serious app vulnerability](https://www.computerweekly.com/news/252507912/Craft-beer-specialist-Brewdog-fixes-serious-app-vulnerability)
 - [Fast-moving Ryuk campaign targets healthcare organisations](https://www.computerweekly.com/news/252507902/Fast-moving-Ryuk-campaign-targets-healthcare-organisations)
 - [NatWest admits to weaknesses in anti-money laundering systems](https://www.computerweekly.com/news/252507903/NatWest-admits-to-weaknesses-in-anti-money-laundering-systems)
 - [ONS publishes technical learnings of UK’s first online census](https://www.computerweekly.com/news/252507874/ONS-publishes-technical-learnings-of-UKs-first-online-census)
-- [What lies beyond the data warehouse?](https://www.computerweekly.com/feature/What-lies-beyond-the-data-warehouse)
-- [HCL Benelux telco partnership targets SME and government](https://www.computerweekly.com/news/252507866/HCL-Benelux-telco-partnership-targets-SME-and-government)
-- [Addressing the backup dilemma to ransomware recovery](https://www.computerweekly.com/opinion/Addressing-the-backup-dilemma-to-ransomware-recovery)
-- [Open source for good](https://www.computerweekly.com/opinion/Open-Source-for-Good)
-- [ICO expresses concerns over its future independence](https://www.computerweekly.com/news/252507865/ICO-expresses-concerns-over-its-future-independence)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

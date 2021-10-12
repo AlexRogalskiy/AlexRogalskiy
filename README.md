@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The countdown to Cop26: can world leaders save the planet?](https://www.theguardian.com/news/audio/2021/oct/11/the-countdown-to-cop26-can-world-leaders-save-the-planet-podcast)
-- [‘It feels unreal’: elation and trepidation as Sydney businesses reopen after NSW lockdown](https://www.theguardian.com/australia-news/2021/oct/11/it-feels-unreal-elation-and-trepidation-as-sydney-businesses-reopen-after-nsw-lockdown)
-- [Singapore’s new ‘foreign interference’ law leaves journalists like me with an impossible puzzle |  Kirsten Han](https://www.theguardian.com/world/2021/oct/11/singapores-new-foreign-interference-law-leaves-journalists-like-me-with-an-impossible-puzzle)
-- [‘We are staying!’: Poles demonstrate in support of EU membership](https://www.theguardian.com/world/2021/oct/11/poland-demonstrate-support-eu-membership-polexit)
-- [Toothless USA slump to World Cup qualifying defeat to Panama](https://www.theguardian.com/football/2021/oct/10/toothless-usa-slump-to-world-cup-qualifying-defeat-to-panama)
-- [‘We have to show courage’: the Philippines mothers taking Duterte and his ‘war on drugs’ to court](https://www.theguardian.com/world/2021/oct/11/we-have-to-show-courage-the-philippines-mothers-taking-duterte-and-his-war-on-drugs-to-court)
-- [Andy Murray battles back to beat Carlos Alcarez at Indian Wells](https://www.theguardian.com/sport/2021/oct/11/andy-murray-battles-back-to-beat-carlos-alcarez-at-indian-wells)
-- [Mesmerised brown crabs ‘attracted to’ undersea cables](https://www.theguardian.com/environment/2021/oct/11/underwater-cables-renewables-affect-blood-cells-brown-crabs-study)
-- [Lego to remove gender bias from its toys after findings of child survey](https://www.theguardian.com/lifeandstyle/2021/oct/11/lego-to-remove-gender-bias-after-survey-shows-impact-on-children-stereotypes)
-- [Mo Gilligan review – expert social anthropology from the boy next door](https://www.theguardian.com/stage/2021/oct/11/mo-gilligan-review-hammersmith-apollo-london)
+- [Jon Gruden quits Raiders after homophobic, racist and misogynistic emails](https://www.theguardian.com/sport/2021/oct/11/jon-gruden-quits-raiders-after-homophobic-racist-and-misogynistic-emails)
+- [Dubai’s ruler and the Pegasus phone hacking exposed in a UK court](https://www.theguardian.com/news/audio/2021/oct/12/dubai-ruler-and-pegasus-phone-hacking-exposed-in-a-uk-court)
+- [North Korea’s Kim Jong-un says US is ‘root cause’ of instability on peninsula](https://www.theguardian.com/world/2021/oct/12/north-koreas-kim-jong-un-says-us-is-root-cause-of-instability-on-peninsula)
+- [India faces electricity crisis as coal supplies run critically low](https://www.theguardian.com/world/2021/oct/12/india-electricity-crisis-coal-supplies-critically-low)
+- [Elk with car tyre stuck around its neck for two years is free at last](https://www.theguardian.com/world/2021/oct/12/elk-with-car-tyre-stuck-around-its-neck-for-two-years-is-free-at-last)
+- [Fina sets up integrity unit as part of major swimming shake up](https://www.theguardian.com/sport/2021/oct/12/fina-sets-up-integrity-unit-as-part-of-major-swimming-shake-up)
+- [Tigray says Ethiopia has launched major attack on several fronts](https://www.theguardian.com/world/2021/oct/12/tigray-says-ethiopia-has-launched-major-attack-on-several-fronts)
+- [California justice department to investigate enormous oil spill](https://www.theguardian.com/us-news/2021/oct/11/california-oil-spill-investigation-attorney-general)
+- [Cop26: world poised for big leap forward on climate crisis, says John Kerry](https://www.theguardian.com/environment/2021/oct/11/john-kerry-cop26-climate-summit-starting-line-rest-of-decade)
+- [Sunak ‘planning £2bn in cuts and the UK’s highest peacetime tax rate’](https://www.theguardian.com/uk-news/2021/oct/12/sunak-planning-2bn-in-cuts-and-the-uks-highest-peacetime-tax-rate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

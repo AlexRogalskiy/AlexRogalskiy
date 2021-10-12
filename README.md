@@ -421,6 +421,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Oct. 11, 2021 – Three charged in U.S. email scam, French police arrest COVID hacker and an app developer makes a security mistake](https://www.itworldcanada.com/article/cyber-security-today-oct-11-2021-three-charged-in-u-s-email-scam-french-police-arrest-covid-hacker-and-an-app-developer-makes-a-security-mistake/460548)
 - [Cyber Security Today, Week in Review for Oct. 8, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-8-2021/460057)
 - [VMworld 2021 announcement roundup](https://www.itworldcanada.com/article/vmworld-2021-announcement-roundup/460496)
 - [BlackBerry helps partners secure software supply chain](https://www.itworldcanada.com/article/blackberry-helps-partners-secure-software-supply-chain/460441)
@@ -430,7 +431,6 @@
 - [MapleSEC: Three keys to improving cloud security](https://www.itworldcanada.com/article/maplesec-three-keys-to-improving-cloud-security/459850)
 - [MapleSEC Diary, Day 2 – Building Resilience](https://www.itworldcanada.com/article/maplesec-diary-day-2-building-resilience/460021)
 - [Micron releases 7400 NVMe enterprise SSDs](https://www.itworldcanada.com/article/micron-releases-7400-nvme-enterprise-ssds/459989)
-- [Hashtag Trending October 7- Twitch source code leaked; Amazon workers organize; Facebook makes political donations](https://www.itworldcanada.com/article/hashtag-trending-october-7-twitch-source-code-leaked-amazon-workers-organize-facebook-makes-political-donations/459855)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

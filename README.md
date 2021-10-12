@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I discover the software for academic journals (Journal of Information Technology, Journal of Nature, etc.) and e-journal management systems i.e. SAGE Publishing, Researchagate, Semantic Scholar?](https://www.reddit.com/r/InformationTechnology/comments/q65eie/how_do_i_discover_the_software_for_academic/)
+- [Questions about Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/q626je/questions_about_google_it_support_professional/)
+- [Security for chrome on workstations.](https://www.reddit.com/r/InformationTechnology/comments/q5yudp/security_for_chrome_on_workstations/)
+- [Graduation project idea for a senior student in Business Information System BIS?](https://www.reddit.com/r/InformationTechnology/comments/q5ukpg/graduation_project_idea_for_a_senior_student_in/)
 - [In DESPERATE need of IT/internet/remote wifi access help!!](https://www.reddit.com/r/InformationTechnology/comments/q52hzh/in_desperate_need_of_itinternetremote_wifi_access/)
 - [Slim job opportunities](https://www.reddit.com/r/InformationTechnology/comments/q504jc/slim_job_opportunities/)
 - [Looking to get started in IT but don't know where to start?](https://www.reddit.com/r/InformationTechnology/comments/q4vd2n/looking_to_get_started_in_it_but_dont_know_where/)
 - [Looking for some extra learning resources!](https://www.reddit.com/r/InformationTechnology/comments/q4okee/looking_for_some_extra_learning_resources/)
 - [Why I Love Working in IT](https://www.reddit.com/r/InformationTechnology/comments/q4dfk4/why_i_love_working_in_it/)
 - [Free college](https://www.reddit.com/r/InformationTechnology/comments/q3pfob/free_college/)
-- [Do SMS messages with an identifier still originate form a sender number?](https://www.reddit.com/r/InformationTechnology/comments/q35b5f/do_sms_messages_with_an_identifier_still/)
-- [online colleges](https://www.reddit.com/r/InformationTechnology/comments/q2y25t/online_colleges/)
-- [FireEye agent (xagt) with 100% of disk usage](https://www.reddit.com/r/InformationTechnology/comments/q2t68d/fireeye_agent_xagt_with_100_of_disk_usage/)
-- [CompTIA A+ Exam](https://www.reddit.com/r/InformationTechnology/comments/q2obxm/comptia_a_exam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

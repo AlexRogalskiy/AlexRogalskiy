@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
+- [How to Build a Strong and Effective Data Retention Policy](https://www.informationweek.com/big-data/how-to-build-a-strong-and-effective-data-retention-policy)
+- [Safely and Securely Bringing Employees Back to the Office](https://www.informationweek.com/security-and-risk-strategy/safely-and-securely-bringing-employees-back-to-the-office)
 - [A Question of Digital Balance](https://www.informationweek.com/strategic-cio/a-question-of-digital-balance)
 - [Streamlining Data Storage at the 49ers’ Homefield](https://www.informationweek.com/big-data-analytics/streamlining-data-storage-at-the-49ers-homefield)
 - [How to Optimize Your Hybrid Cloud Architecture](https://www.informationweek.com/cloud/how-to-optimize-your-hybrid-cloud-architecture)
@@ -368,9 +371,6 @@
 - [5 Lessons from Facebook, Instagram, WhatsApp Outage](https://www.informationweek.com/security-and-risk-strategy/5-lessons-from-facebook-instagram-whatsapp-outage)
 - [The Cyber Insurance Market in Flux](https://www.informationweek.com/security-and-risk-strategy/the-cyber-insurance-market-in-flux)
 - [Should Sustainability Be an IT Priority?](https://www.informationweek.com/executive-insights-and-innovation/should-sustainability-be-an-it-priority-)
-- [Seaports, Backlogged Supply Chain Seek a Digital Response](https://www.informationweek.com/big-data-analytics/seaports-backlogged-supply-chain-seek-a-digital-response)
-- [The Art of Sharing Credit for a Successful IT Project](https://www.informationweek.com/team-building-and-staffing/the-art-of-sharing-credit-for-a-successful-it-project)
-- [Pratt & Whitney’s Low-Code Strategy to Save Development Time](https://www.informationweek.com/project-management/pratt-whitney-s-low-code-strategy-to-save-development-time)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

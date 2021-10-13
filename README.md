@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Covid-19 will loom over cyber strategy for years to come](https://www.computerweekly.com/news/252507981/Covid-19-will-loom-over-cyber-strategy-for-years-to-come)
-- [IR35: FCSA defends Charter change that lets umbrella firms operate offshore setups](https://www.computerweekly.com/news/252507973/IR35-FCSA-defends-Charter-change-that-lets-umbrella-firms-operate-offshore-setups)
-- [Sensitive documents to stay with whistleblower after deadline for agreement for their return passes](https://www.computerweekly.com/news/252507958/Sensitive-documents-to-stay-with-whistleblower-after-deadline-for-agreement-for-their-return-passes)
-- [West Midlands expected to grow by £2.7bn with tech sector drive](https://www.computerweekly.com/news/252507931/West-Midlands-expected-to-grow-by-27bn-with-tech-sector-drive)
-- [Developing an integrated customer and employee experience strategy](https://www.computerweekly.com/feature/Developing-an-integrated-customer-and-employee-experience-strategy)
-- [Lewis Hamilton charity aims to help train 150 black STEM teachers](https://www.computerweekly.com/news/252507924/Lewis-Hamilton-charity-aims-to-help-train-150-black-STEM-teachers)
-- [Craft beer specialist Brewdog fixes serious app vulnerability](https://www.computerweekly.com/news/252507912/Craft-beer-specialist-Brewdog-fixes-serious-app-vulnerability)
-- [Fast-moving Ryuk campaign targets healthcare organisations](https://www.computerweekly.com/news/252507902/Fast-moving-Ryuk-campaign-targets-healthcare-organisations)
-- [NatWest admits to weaknesses in anti-money laundering systems](https://www.computerweekly.com/news/252507903/NatWest-admits-to-weaknesses-in-anti-money-laundering-systems)
-- [ONS publishes technical learnings of UK’s first online census](https://www.computerweekly.com/news/252507874/ONS-publishes-technical-learnings-of-UKs-first-online-census)
+- [BCS calls on government to retain protections against AI](https://www.computerweekly.com/news/252508041/BCS-calls-on-government-to-retain-protections-against-AI)
+- [Ban UK police use of facial-recognition, House of Lords told](https://www.computerweekly.com/news/252508053/Ban-UK-police-use-of-facial-recognition-House-of-Lords-told)
+- [Digital gender gap prompts $1tn GDP loss for developing countries](https://www.computerweekly.com/news/252508038/Digital-gender-gap-prompts-1tn-GDP-loss-for-developing-countries)
+- [Morgan Stanley brings diverse fintech innovation to London](https://www.computerweekly.com/news/252508030/Morgan-Stanley-brings-diverse-fintech-innovation-to-London)
+- [Nearly half of finance firms will acquire or partner fintechs in next year](https://www.computerweekly.com/news/252508022/Nearly-half-of-finance-firms-will-acquire-or-partner-fintechs-in-next-year)
+- [Microsoft thwarts mega-DDoS attack on Azure platform](https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform)
+- [UK government outlines strengths and weaknesses in innovation](https://www.computerweekly.com/news/252507991/UK-government-outlines-strengths-and-weaknesses-in-innovation)
+- [NetApp adds CloudCheckr to Spot portfolio](https://www.computerweekly.com/news/252508018/NetApp-adds-CloudCheckr-to-Spot-portfolio)
+- [AI estimated to provide 10% boost to UK GDP by 2030](https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030)
+- [How AI – and puffins – are boosting renewable energy](https://www.computerweekly.com/ezine/Computer-Weekly/How-AI-and-puffins-are-boosting-renewable-energy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

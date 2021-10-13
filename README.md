@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Longjump 0.1.0, a CLI tool to open URI's with rich context](https://github.com/alexcwatt/longjump)
-- [Pentagon Official Resigns over Belief China Has Won AI Battle](https://www.newsweek.com/pentagon-official-resigns-over-belief-china-has-won-ai-battle-heading-global-dominance-1637772)
-- [Why are we addicted to misery porn](https://abishekmuthian.com/why-are-we-addicted-to-misery-porn/)
-- [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
-- [Spruce begins work on Sign-in With Ethereum](https://blog.spruceid.com/sign-in-with-ethereum/)
-- [The World's Recycling System Is Falling Apart. What's Going On?](https://fee.org/articles/the-worlds-recycling-system-is-falling-apart-whats-going-on/)
-- [That One Side Would Like to Utterly Destroy the Other Side Seems Significant](https://freddiedeboer.substack.com/p/that-one-side-would-like-to-utterly)
-- [A Nobel Prize for the Credibility Revolution](https://marginalrevolution.com/marginalrevolution/2021/10/the-credibility-revolution-1.html)
-- [‘It’s Not Sustainable’: What America’s Port Crisis Looks Like Up Close](https://www.nytimes.com/2021/10/11/business/supply-chain-crisis-savannah-port.html)
-- [Anil Seth on Emergence, Information, and Consciousness – Sean Carroll [audio]](https://www.preposterousuniverse.com/podcast/2021/10/11/168-anil-seth-on-emergence-information-and-consciousness/)
+- [Google Colab available in GCP marketplace](https://console.cloud.google.com/marketplace/product/colab-marketplace-image-public/colab?pli=1&ncid=em-anno-131822-vt04&linkId=100000074423427#cid=_em-anno_en-us)
+- [Linux Security Quick Reference Guide (2000) [pdf]](http://irix7.com/techpubs/860-0214-001.pdf)
+- [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
+- [Total Recall Technologies vs. Palmer Luckey, et al.](https://www.docketbird.com/court-cases/Total-Recall-Technologies-v-Palmer-Luckey-et-al/cand-3:2015-cv-02281)
+- [44% of executives want to return to work, 17% of employees do](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
+- [A Happy and Lightweight Python Based Google News API](https://github.com/ranahaani/GNews)
+- [It's Ada Lovelace Day Learn the Ada Programming Language in 2021](https://opensource.com/article/21/10/learn-ada-2021)
+- [LCH colors in CSS: what, why, and how? – Lea Verou](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/#3-lch-lightness-actually-means-something)
+- [US attorney details illegal acts, sealing the fate of the “nuclear Renaissance”](https://thebulletin.org/2021/08/us-attorney-details-illegal-acts-at-construction-projects-sealing-the-fate-of-the-nuclear-renaissance/)
+- [The Video Game Canon](https://www.videogamecanon.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

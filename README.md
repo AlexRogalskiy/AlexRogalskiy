@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jon Gruden quits Raiders after homophobic, racist and misogynistic emails](https://www.theguardian.com/sport/2021/oct/11/jon-gruden-quits-raiders-after-homophobic-racist-and-misogynistic-emails)
-- [Dubai’s ruler and the Pegasus phone hacking exposed in a UK court](https://www.theguardian.com/news/audio/2021/oct/12/dubai-ruler-and-pegasus-phone-hacking-exposed-in-a-uk-court)
-- [North Korea’s Kim Jong-un says US is ‘root cause’ of instability on peninsula](https://www.theguardian.com/world/2021/oct/12/north-koreas-kim-jong-un-says-us-is-root-cause-of-instability-on-peninsula)
-- [India faces electricity crisis as coal supplies run critically low](https://www.theguardian.com/world/2021/oct/12/india-electricity-crisis-coal-supplies-critically-low)
-- [Elk with car tyre stuck around its neck for two years is free at last](https://www.theguardian.com/world/2021/oct/12/elk-with-car-tyre-stuck-around-its-neck-for-two-years-is-free-at-last)
-- [Fina sets up integrity unit as part of major swimming shake up](https://www.theguardian.com/sport/2021/oct/12/fina-sets-up-integrity-unit-as-part-of-major-swimming-shake-up)
-- [Tigray says Ethiopia has launched major attack on several fronts](https://www.theguardian.com/world/2021/oct/12/tigray-says-ethiopia-has-launched-major-attack-on-several-fronts)
-- [California justice department to investigate enormous oil spill](https://www.theguardian.com/us-news/2021/oct/11/california-oil-spill-investigation-attorney-general)
-- [Cop26: world poised for big leap forward on climate crisis, says John Kerry](https://www.theguardian.com/environment/2021/oct/11/john-kerry-cop26-climate-summit-starting-line-rest-of-decade)
-- [Sunak ‘planning £2bn in cuts and the UK’s highest peacetime tax rate’](https://www.theguardian.com/uk-news/2021/oct/12/sunak-planning-2bn-in-cuts-and-the-uks-highest-peacetime-tax-rate)
+- [Alexander Zverev sees off Andy Murray to reach Indian Wells fourth round](https://www.theguardian.com/sport/2021/oct/13/andy-murray-alexander-zverev-indian-wells-tennis-match-report)
+- [What went wrong with the UK’s handling of the Covid pandemic?](https://www.theguardian.com/news/audio/2021/oct/13/what-went-wrong-with-the-uks-handling-of-the-covid-pandemic)
+- [Squid Game is Netflix’s biggest debut hit, reaching 111m viewers worldwide](https://www.theguardian.com/tv-and-radio/2021/oct/13/squid-game-is-netflixs-biggest-debut-hit-reaching-111m-viewers-worldwide)
+- [Bali is reopening to tourists, but nervous locals wonder what the future will bring](https://www.theguardian.com/world/2021/oct/13/bali-is-reopening-to-tourists-but-nervous-locals-wonder-what-the-future-will-bring)
+- [Apple may cut iPhone 13 production by millions as US warns of Christmas shortages](https://www.theguardian.com/technology/2021/oct/13/apple-may-cut-iphone-13-production-by-millions-as-us-warns-of-christmas-shortages)
+- [Dutch royals can marry person of same gender without giving up throne, says PM](https://www.theguardian.com/world/2021/oct/13/dutch-royals-can-marry-person-of-same-gender-without-giving-up-throne-says-pm)
+- [House passes bill to raise US debt ceiling through early December](https://www.theguardian.com/us-news/2021/oct/12/house-approves-us-debt-ceiling-limit-increase)
+- [Drug trial offers new hope for those with metastatic breast cancer](https://www.theguardian.com/science/2021/oct/13/drug-trial-offers-new-hope-for-those-with-metastatic-breast-cancer)
+- [Social media bringing antisemitic ideas to new generation, report says](https://www.theguardian.com/media/2021/oct/13/social-media-bringing-antisemitic-ideas-to-new-generation-report-says)
+- [‘It was my playground’: growing up in the shadow of Stonehenge](https://www.theguardian.com/uk-news/2021/oct/13/it-was-my-playground-growing-up-in-the-shadow-of-stonehenge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

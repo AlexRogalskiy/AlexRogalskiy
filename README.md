@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Australians ‘complacent’ to rapid growth in digital surveillance](https://www.innovationaus.com/australians-complacent-to-rapid-growth-in-digital-surveillance/)
-- [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
-- [Peter Norvig Joins Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
-- [Instagram has largely replaced TikTok in India](https://restofworld.org/2021/instagram-and-class-in-india/)
-- [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
-- [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
-- [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
-- [Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3](https://github.com/NVlabs/stylegan3)
-- [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
-- [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
+- [.NET Foundation — Use of GitHub Enterprise #59](https://github.com/dotnet-foundation/Home/discussions/59)
+- [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
+- [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
+- [History of Mathematics Project](https://history-of-mathematics.org/)
+- [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
+- [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
+- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
+- [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
+- [The Curlews of Galloway](https://www.theparisreview.org/blog/2021/09/30/the-curlews-of-galloway/)
+- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

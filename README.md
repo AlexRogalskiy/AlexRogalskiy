@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian students are helping SMEs innovate with funding from Mitacs – here’s how](https://www.itworldcanada.com/article/canadian-students-are-helping-smes-innovate-with-support-from-mitacs-heres-how/460658)
+- [How Nunavut recovered from a ransomware attack](https://www.itworldcanada.com/article/how-nunavut-recovered-from-a-ransomware-attack/460550)
+- [New bootkit can bypass Windows protection](https://www.itworldcanada.com/article/new-bootkit-can-bypass-windows-protection/460584)
+- [Coffee Briefing, Oct. 12, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-12-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/460570)
+- [Hashtag Trending Oct. 12 – Facebook bans developer; Illegal Amazon rainforest sales; Google cracks down on climate change misinformation](https://www.itworldcanada.com/article/hashtag-trending-oct-12-facebook-bans-developer-illegal-amazon-rainforest-sales-google-cracks-down-on-climate-change-content/460580)
 - [Cyber Security Today, Oct. 11, 2021 – Three charged in U.S. email scam, French police arrest COVID hacker and an app developer makes a security mistake](https://www.itworldcanada.com/article/cyber-security-today-oct-11-2021-three-charged-in-u-s-email-scam-french-police-arrest-covid-hacker-and-an-app-developer-makes-a-security-mistake/460548)
 - [Cyber Security Today, Week in Review for Oct. 8, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-8-2021/460057)
 - [VMworld 2021 announcement roundup](https://www.itworldcanada.com/article/vmworld-2021-announcement-roundup/460496)
 - [BlackBerry helps partners secure software supply chain](https://www.itworldcanada.com/article/blackberry-helps-partners-secure-software-supply-chain/460441)
 - [MapleSEC: Three self-help books that can help awareness trainers](https://www.itworldcanada.com/article/maplesec-three-self-help-books-that-can-help-awareness-trainers/460277)
-- [Cyber Security Today, Oct. 8, 2021 – New Linux malware, a new hacking group and a thick advisory report from Microsoft](https://www.itworldcanada.com/article/cyber-security-today-oct-8-2021-new-linux-malware-a-new-hacking-group-and-a-thick-advisory-report-from-microsoft/460100)
-- [Hashtag Trending October 8 – Alberta Covid App Blunder; U.S. Internet is Pricey; Intel Scraps U.K. Chip Plant](https://www.itworldcanada.com/article/hashtag-trending-october-8-alberta-covid-app-blunder-u-s-internet-is-pricey-intel-scraps-u-k-chip-plant/460102)
-- [MapleSEC: Three keys to improving cloud security](https://www.itworldcanada.com/article/maplesec-three-keys-to-improving-cloud-security/459850)
-- [MapleSEC Diary, Day 2 – Building Resilience](https://www.itworldcanada.com/article/maplesec-diary-day-2-building-resilience/460021)
-- [Micron releases 7400 NVMe enterprise SSDs](https://www.itworldcanada.com/article/micron-releases-7400-nvme-enterprise-ssds/459989)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

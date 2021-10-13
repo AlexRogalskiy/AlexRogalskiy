@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Thoughts on navigating the transition to Windows 11](https://www.computerworld.com/article/3636239/thoughts-on-navigating-the-transition-to-windows-11.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Has Apple set the scene for its next small big thing?](https://www.computerworld.com/article/3636413/has-apple-set-the-scene-for-its-next-small-big-thing.html#tk.rss_all)
-- [The most important Pixel 6 feature might be invisible](https://www.computerworld.com/article/3635719/pixel-6-feature.html#tk.rss_all)
-- [Home office tips from a veteran freelancer](https://www.computerworld.com/article/3636495/home-office-tips-from-a-veteran-freelancer.html#tk.rss_all)
-- [Windows 11 arrives: my initial impressions](https://www.computerworld.com/article/3636498/windows-11-arrives-my-initial-impressions.html#tk.rss_all)
-- [Async video messaging: Another route to productive remote work](https://www.computerworld.com/article/3636492/async-video-messaging-another-route-to-productive-remote-work.html#tk.rss_all)
-- [Box moves to tackle the shift to hybrid workplaces](https://www.computerworld.com/article/3636491/box-tackles-key-workplace-trends-with-enhanced-product-capabilities.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [iPhone SE 2022: Apple reads the room](https://www.computerworld.com/article/3636455/iphone-se-2022-apple-reads-the-room.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Google rolls out new Workspace app integrations, security features](https://www.computerworld.com/article/3636417/google-rolls-out-new-workspace-app-integrations-security-features.html#tk.rss_all)
+- [Don’t put all your eggs in one Facebook basket](https://www.computerworld.com/article/3636451/don-t-put-all-your-eggs-in-one-facebook-basket.html#tk.rss_all)
+- [Edge computing: The architecture of the future](https://www.networkworld.com/article/3636499/edge-computing-the-architecture-of-the-future.html#tk.rss_all)
+- [The cutting edge of healthcare: How edge computing will transform medicine](https://www.computerworld.com/article/3635589/cutting-edge-healthcare-how-edge-computing-will-transform-medicine.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

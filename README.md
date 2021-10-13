@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Python tops Tiobe language index](https://www.infoworld.com/article/3636789/python-tops-tiobe-language-index.html#tk.rss_all)
+- [Which cloud database should you use?](https://www.infoworld.com/article/3636500/which-cloud-database-should-you-use.html#tk.rss_all)
+- [AI won’t save you from a move to cloud computing](https://www.infoworld.com/article/3636209/ai-wont-save-you-from-a-move-to-cloud-computing.html#tk.rss_all)
+- [How to choose a cloud IoT platform](https://www.infoworld.com/article/3539010/how-to-choose-a-cloud-iot-platform.html#tk.rss_all)
+- [Edge computing: The architecture of the future](https://www.networkworld.com/article/3636499/edge-computing-the-architecture-of-the-future.html#tk.rss_all)
 - [The best way to go ‘all in’ on cloud](https://www.infoworld.com/article/3636237/the-best-way-to-go-all-in-on-cloud.html#tk.rss_all)
 - [Technical debt will sink you](https://www.infoworld.com/article/3635708/technical-debt-will-sink-you.html#tk.rss_all)
 - [Quarkus: Get started with Kubernetes-native Java](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html#tk.rss_all)
 - [Is devops becoming a cloud-only sport?](https://www.infoworld.com/article/3636208/is-devops-becoming-a-cloud-only-sport.html#tk.rss_all)
 - [How to use the Developer Exception Page in ASP.NET Core MVC](https://www.infoworld.com/article/3635756/how-to-use-the-developer-exception-page-in-aspnet-core-mvc.html#tk.rss_all)
-- [Jump into WebAssembly with Hippo](https://www.infoworld.com/article/3635848/jump-into-webassembly-with-hippo.html#tk.rss_all)
-- [What is Rust? Safe, fast, and easy software development](https://www.infoworld.com/article/3218074/what-is-rust-safe-fast-and-easy-software-development.html#tk.rss_all)
-- [Microsoft lets Windows 11 loose on the world](https://www.computerworld.com/article/3635896/microsoft-lets-windows-11-loose-on-the-world.html#tk.rss_all)
-- [BrandPost: What You Need to Know About Hybrid Cloud Environments](https://www.infoworld.com/article/3635893/what-you-need-to-know-about-hybrid-cloud-environments.html#tk.rss_all)
-- [BrandPost: NGINX and CIS Hardened Images Equals Security and Efficiency](https://www.infoworld.com/article/3635690/nginx-and-cis-hardened-images-equals-security-and-efficiency.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

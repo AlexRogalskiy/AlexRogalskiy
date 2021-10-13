@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Transition from someone who is "good with computers" to working in a Windows corporate environment?](https://www.reddit.com/r/InformationTechnology/comments/q6snx5/transition_from_someone_who_is_good_with/)
 - [How do I discover the software for academic journals (Journal of Information Technology, Journal of Nature, etc.) and e-journal management systems i.e. SAGE Publishing, Researchagate, Semantic Scholar?](https://www.reddit.com/r/InformationTechnology/comments/q65eie/how_do_i_discover_the_software_for_academic/)
 - [Questions about Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/q626je/questions_about_google_it_support_professional/)
 - [Security for chrome on workstations.](https://www.reddit.com/r/InformationTechnology/comments/q5yudp/security_for_chrome_on_workstations/)
@@ -415,7 +416,6 @@
 - [Looking to get started in IT but don't know where to start?](https://www.reddit.com/r/InformationTechnology/comments/q4vd2n/looking_to_get_started_in_it_but_dont_know_where/)
 - [Looking for some extra learning resources!](https://www.reddit.com/r/InformationTechnology/comments/q4okee/looking_for_some_extra_learning_resources/)
 - [Why I Love Working in IT](https://www.reddit.com/r/InformationTechnology/comments/q4dfk4/why_i_love_working_in_it/)
-- [Free college](https://www.reddit.com/r/InformationTechnology/comments/q3pfob/free_college/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

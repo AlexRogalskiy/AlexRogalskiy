@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [BCS calls on government to retain protections against AI](https://www.computerweekly.com/news/252508041/BCS-calls-on-government-to-retain-protections-against-AI)
-- [Ban UK police use of facial-recognition, House of Lords told](https://www.computerweekly.com/news/252508053/Ban-UK-police-use-of-facial-recognition-House-of-Lords-told)
-- [Digital gender gap prompts $1tn GDP loss for developing countries](https://www.computerweekly.com/news/252508038/Digital-gender-gap-prompts-1tn-GDP-loss-for-developing-countries)
-- [Morgan Stanley brings diverse fintech innovation to London](https://www.computerweekly.com/news/252508030/Morgan-Stanley-brings-diverse-fintech-innovation-to-London)
-- [Nearly half of finance firms will acquire or partner fintechs in next year](https://www.computerweekly.com/news/252508022/Nearly-half-of-finance-firms-will-acquire-or-partner-fintechs-in-next-year)
-- [Microsoft thwarts mega-DDoS attack on Azure platform](https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform)
-- [UK government outlines strengths and weaknesses in innovation](https://www.computerweekly.com/news/252507991/UK-government-outlines-strengths-and-weaknesses-in-innovation)
-- [NetApp adds CloudCheckr to Spot portfolio](https://www.computerweekly.com/news/252508018/NetApp-adds-CloudCheckr-to-Spot-portfolio)
-- [AI estimated to provide 10% boost to UK GDP by 2030](https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030)
-- [How AI – and puffins – are boosting renewable energy](https://www.computerweekly.com/ezine/Computer-Weekly/How-AI-and-puffins-are-boosting-renewable-energy)
+- [Institutes of Technology launch to upskill adults in tech careers](https://www.computerweekly.com/news/252508105/Institutes-of-Technology-launch-to-upskill-adults-in-tech-careers)
+- [Google Cybersecurity Action Team springs into life](https://www.computerweekly.com/news/252508108/Google-Cybersecurity-Action-Team-springs-into-life)
+- [Hybrid cloud: Five key questions in 2021](https://www.computerweekly.com/feature/Hybrid-cloud-Five-key-questions-in-2021)
+- [Modern SaaS shifts core ERP architectures](https://www.computerweekly.com/news/252508103/Modern-SaaS-shifts-core-ERP-architectures)
+- [Government launches Gov.uk app](https://www.computerweekly.com/news/252508106/Government-launches-Govuk-app)
+- [Microsoft makes carbon emissions-tracking dashboard generally available to cloud users](https://www.computerweekly.com/news/252508093/Microsoft-makes-carbon-emissions-tracking-dashboard-generally-available-to-cloud-users)
+- [Half-year cloud market tracker data highlights soaring demand for IaaS and PaaS](https://www.computerweekly.com/news/252508104/Half-year-cloud-market-tracker-data-highlights-soaring-demand-for-IaaS-and-PaaS)
+- [FCA warns over future hybrid working security risks](https://www.computerweekly.com/news/252508101/FCA-warns-over-future-hybrid-working-security-risks)
+- [Post Office Horizon scandal inquiry announces first public hearing](https://www.computerweekly.com/news/252508099/Post-Office-Horizon-scandal-inquiry-announces-first-public-hearing)
+- [Google builds out hybrid and multicloud vision for enterprises](https://www.computerweekly.com/news/252508091/Google-builds-out-hybrid-and-multicloud-vision-for-enterprises)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

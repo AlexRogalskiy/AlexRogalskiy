@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Wire Your SMB for Digital Success](https://www.computerworld.com/article/3637032/wire-your-smb-for-digital-success.html#tk.rss_all)
+- [Apple warns: Sideloading apps threatens an iCrime wave](https://www.computerworld.com/article/3636244/apple-warns-sideloading-apps-threatens-an-icrime-wave.html#tk.rss_all)
+- [US IT job growth slows, but 2021 still on track for record hiring](https://www.computerworld.com/article/3542681/us-it-job-growth-slows-but-2021-still-on-track-for-record-hiring.html#tk.rss_all)
+- [Windows 11: Microsoft's pointless update](https://www.computerworld.com/article/3636788/windows-11-microsofts-pointless-update.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [iPhone SE 2022: Apple reads the room](https://www.computerworld.com/article/3636455/iphone-se-2022-apple-reads-the-room.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Google rolls out new Workspace app integrations, security features](https://www.computerworld.com/article/3636417/google-rolls-out-new-workspace-app-integrations-security-features.html#tk.rss_all)
-- [Don’t put all your eggs in one Facebook basket](https://www.computerworld.com/article/3636451/don-t-put-all-your-eggs-in-one-facebook-basket.html#tk.rss_all)
-- [Edge computing: The architecture of the future](https://www.networkworld.com/article/3636499/edge-computing-the-architecture-of-the-future.html#tk.rss_all)
-- [The cutting edge of healthcare: How edge computing will transform medicine](https://www.computerworld.com/article/3635589/cutting-edge-healthcare-how-edge-computing-will-transform-medicine.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

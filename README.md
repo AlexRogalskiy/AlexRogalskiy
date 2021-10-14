@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Google Cloud Next Paints Digital Landscape Where Data and AI Meet](https://www.informationweek.com/cloud/google-cloud-next-paints-digital-landscape-where-data-and-ai-meet)
+- [Stop Using AI and ML Interchangeably](https://www.informationweek.com/ai-or-machine-learning/stop-using-ai-and-ml-interchangeably)
 - [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
 - [How to Build a Strong and Effective Data Retention Policy](https://www.informationweek.com/big-data/how-to-build-a-strong-and-effective-data-retention-policy)
 - [Safely and Securely Bringing Employees Back to the Office](https://www.informationweek.com/security-and-risk-strategy/safely-and-securely-bringing-employees-back-to-the-office)
@@ -369,8 +371,6 @@
 - [How to Optimize Your Hybrid Cloud Architecture](https://www.informationweek.com/cloud/how-to-optimize-your-hybrid-cloud-architecture)
 - [3 Biggest Mistakes Companies Make When Adopting Cloud Computing](https://www.informationweek.com/cloud/3-biggest-mistakes-companies-make-when-adopting-cloud-computing)
 - [5 Lessons from Facebook, Instagram, WhatsApp Outage](https://www.informationweek.com/security-and-risk-strategy/5-lessons-from-facebook-instagram-whatsapp-outage)
-- [The Cyber Insurance Market in Flux](https://www.informationweek.com/security-and-risk-strategy/the-cyber-insurance-market-in-flux)
-- [Should Sustainability Be an IT Priority?](https://www.informationweek.com/executive-insights-and-innovation/should-sustainability-be-an-it-priority-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

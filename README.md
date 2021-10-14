@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Colab available in GCP marketplace](https://console.cloud.google.com/marketplace/product/colab-marketplace-image-public/colab?pli=1&ncid=em-anno-131822-vt04&linkId=100000074423427#cid=_em-anno_en-us)
-- [Linux Security Quick Reference Guide (2000) [pdf]](http://irix7.com/techpubs/860-0214-001.pdf)
-- [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
-- [Total Recall Technologies vs. Palmer Luckey, et al.](https://www.docketbird.com/court-cases/Total-Recall-Technologies-v-Palmer-Luckey-et-al/cand-3:2015-cv-02281)
-- [44% of executives want to return to work, 17% of employees do](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
-- [A Happy and Lightweight Python Based Google News API](https://github.com/ranahaani/GNews)
-- [It's Ada Lovelace Day Learn the Ada Programming Language in 2021](https://opensource.com/article/21/10/learn-ada-2021)
-- [LCH colors in CSS: what, why, and how? – Lea Verou](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/#3-lch-lightness-actually-means-something)
-- [US attorney details illegal acts, sealing the fate of the “nuclear Renaissance”](https://thebulletin.org/2021/08/us-attorney-details-illegal-acts-at-construction-projects-sealing-the-fate-of-the-nuclear-renaissance/)
-- [The Video Game Canon](https://www.videogamecanon.com/)
+- [Islands of Interactivity with Vue in Vite.js](https://iles-docs.netlify.app/)
+- [Projection: What you spot is what you got (2012)](https://marthabeck.com/2012/01/projection-when-what-you-spot-is-what-youve-got/)
+- [Social Security Benefits to Rise 5.9% in 2022, Most in Four Decades](https://www.nytimes.com/2021/10/13/business/social-security-cola.html)
+- [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
+- [Self-Supervised Learning Is More Robust to Dataset Imbalance](https://papers.labml.ai/paper/5799186c2b0d11ec9e9dcba33be64600)
+- [Lake Karachay perhaps the most polluted place on the planet could kill in hours](https://en.wikipedia.org/wiki/Pollution_of_Lake_Karachay)
+- [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
+- [Henrietta Lacks Is Honored by WHO](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html)
+- [Covid and Age](https://www.nytimes.com/2021/10/12/briefing/covid-age-risk-infection-vaccine.html)
+- [The neuroscience of advanced scientific concepts](https://www.nature.com/articles/s41539-021-00107-6)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

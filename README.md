@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Ransomware defence starts with vulnerability management: BlackBerry](https://www.itworldcanada.com/article/ransomware-defence-starts-with-vulnerability-management-blackberry/460820)
+- [Thirty nations open two-day counter-ransomware meeting](https://www.itworldcanada.com/article/thirty-nations-open-two-day-counter-ransomware-meeting/460696)
+- [Cyber Security Today, Oct. 13, 2021 – Quebec talent agency and U.S. fertility clinic hit by ransomware, a Verizon logo scam, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-13-2021-quebec-talent-agency-and-u-s-fertility-clinic-hit-by-ransomware-a-verizon-logo-scam-and-more/460686)
+- [Hashtag Trending Oct. 13 – Amazon remote work; Android snooping; Waze and Headspace](https://www.itworldcanada.com/article/hashtag-trending-oct-13-amazon-remote-work-android-snooping-waze-and-headspace/460689)
 - [Canadian students are helping SMEs innovate with funding from Mitacs – here’s how](https://www.itworldcanada.com/article/canadian-students-are-helping-smes-innovate-with-support-from-mitacs-heres-how/460658)
 - [How Nunavut recovered from a ransomware attack](https://www.itworldcanada.com/article/how-nunavut-recovered-from-a-ransomware-attack/460550)
 - [New bootkit can bypass Windows protection](https://www.itworldcanada.com/article/new-bootkit-can-bypass-windows-protection/460584)
 - [Coffee Briefing, Oct. 12, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-12-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/460570)
 - [Hashtag Trending Oct. 12 – Facebook bans developer; Illegal Amazon rainforest sales; Google cracks down on climate change misinformation](https://www.itworldcanada.com/article/hashtag-trending-oct-12-facebook-bans-developer-illegal-amazon-rainforest-sales-google-cracks-down-on-climate-change-content/460580)
 - [Cyber Security Today, Oct. 11, 2021 – Three charged in U.S. email scam, French police arrest COVID hacker and an app developer makes a security mistake](https://www.itworldcanada.com/article/cyber-security-today-oct-11-2021-three-charged-in-u-s-email-scam-french-police-arrest-covid-hacker-and-an-app-developer-makes-a-security-mistake/460548)
-- [Cyber Security Today, Week in Review for Oct. 8, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-8-2021/460057)
-- [VMworld 2021 announcement roundup](https://www.itworldcanada.com/article/vmworld-2021-announcement-roundup/460496)
-- [BlackBerry helps partners secure software supply chain](https://www.itworldcanada.com/article/blackberry-helps-partners-secure-software-supply-chain/460441)
-- [MapleSEC: Three self-help books that can help awareness trainers](https://www.itworldcanada.com/article/maplesec-three-self-help-books-that-can-help-awareness-trainers/460277)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

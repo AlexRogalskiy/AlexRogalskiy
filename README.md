@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [.NET Foundation — Use of GitHub Enterprise #59](https://github.com/dotnet-foundation/Home/discussions/59)
-- [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
-- [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
-- [History of Mathematics Project](https://history-of-mathematics.org/)
-- [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
-- [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
-- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
-- [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
-- [The Curlews of Galloway](https://www.theparisreview.org/blog/2021/09/30/the-curlews-of-galloway/)
-- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
+- [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+- [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
+- [Parcel v2](https://parceljs.org/blog/v2/)
+- [TX Bans Local Nurses from Quitting to Work FEMA Crisis Contracts in State](https://nurse.org/articles/texas-bans-nurses-from-in-state-crisis-contracts/)
+- [Patrick Stewart on the teacher who spotted his talent](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
+- [Pink Floyd's Young Lust – explained and demystified](https://telephoneworld.org/landline-telephone-history/pink-floyds-young-lust-explained-and-demystified/)
+- [Kyshtym Disaster](https://en.wikipedia.org/wiki/Kyshtym_disaster)
+- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
+- [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

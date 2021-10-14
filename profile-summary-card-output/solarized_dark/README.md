@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/profile-summary-card-output/solarized_dark/3-stats.svg)
-```
-
-    

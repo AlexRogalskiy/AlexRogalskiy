@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Alexander Zverev sees off Andy Murray to reach Indian Wells fourth round](https://www.theguardian.com/sport/2021/oct/13/andy-murray-alexander-zverev-indian-wells-tennis-match-report)
-- [What went wrong with the UK’s handling of the Covid pandemic?](https://www.theguardian.com/news/audio/2021/oct/13/what-went-wrong-with-the-uks-handling-of-the-covid-pandemic)
-- [Squid Game is Netflix’s biggest debut hit, reaching 111m viewers worldwide](https://www.theguardian.com/tv-and-radio/2021/oct/13/squid-game-is-netflixs-biggest-debut-hit-reaching-111m-viewers-worldwide)
-- [Bali is reopening to tourists, but nervous locals wonder what the future will bring](https://www.theguardian.com/world/2021/oct/13/bali-is-reopening-to-tourists-but-nervous-locals-wonder-what-the-future-will-bring)
-- [Apple may cut iPhone 13 production by millions as US warns of Christmas shortages](https://www.theguardian.com/technology/2021/oct/13/apple-may-cut-iphone-13-production-by-millions-as-us-warns-of-christmas-shortages)
-- [Dutch royals can marry person of same gender without giving up throne, says PM](https://www.theguardian.com/world/2021/oct/13/dutch-royals-can-marry-person-of-same-gender-without-giving-up-throne-says-pm)
-- [House passes bill to raise US debt ceiling through early December](https://www.theguardian.com/us-news/2021/oct/12/house-approves-us-debt-ceiling-limit-increase)
-- [Drug trial offers new hope for those with metastatic breast cancer](https://www.theguardian.com/science/2021/oct/13/drug-trial-offers-new-hope-for-those-with-metastatic-breast-cancer)
-- [Social media bringing antisemitic ideas to new generation, report says](https://www.theguardian.com/media/2021/oct/13/social-media-bringing-antisemitic-ideas-to-new-generation-report-says)
-- [‘It was my playground’: growing up in the shadow of Stonehenge](https://www.theguardian.com/uk-news/2021/oct/13/it-was-my-playground-growing-up-in-the-shadow-of-stonehenge)
+- [‘We’re ready’: Fiji prepares to welcome tourists almost two years after closing borders](https://www.theguardian.com/world/2021/oct/14/were-ready-fiji-prepares-to-welcome-tourists-almost-two-years-after-closing-borders)
+- [Has England gone back to the office?](https://www.theguardian.com/news/audio/2021/oct/14/has-england-gone-back-to-the-office-podcast)
+- [Norway bow and arrow attacks: Danish citizen charged as death toll reaches five](https://www.theguardian.com/world/2021/oct/13/several-killed-bow-and-arrow-attack-norway)
+- [USA 2-1 Costa Rica: 2022 World Cup qualifier – as it happened](https://www.theguardian.com/football/live/2021/oct/13/usa-v-costa-rica-2022-world-cup-qualifier-live)
+- [‘Sophisticated’: ancient faeces shows humans enjoyed beer and blue cheese 2,700 years ago](https://www.theguardian.com/science/2021/oct/14/sophisticated-ancient-faeces-shows-humans-enjoyed-beer-and-blue-cheese-2700-years-ago)
+- [US leads world in bitcoin mining after China crackdown sends industry overseas](https://www.theguardian.com/technology/2021/oct/14/us-leads-world-in-bitcoin-mining-after-china-crackdown-sends-industry-overseas)
+- [‘Last chance’: WHO reveals new team to investigate Covid origins](https://www.theguardian.com/world/2021/oct/14/last-chance-who-reveals-new-team-to-investigate-covid-origins)
+- [Rishi Sunak urged to cut business rates to unlock billions in investment](https://www.theguardian.com/politics/2021/oct/14/rishi-sunak-urged-cut-business-rates-unlock-billions-investment)
+- [One in five of Europe’s bird species slipping towards extinction](https://www.theguardian.com/environment/2021/oct/14/one-in-five-of-europes-bird-species-slipping-towards-extinction-aoe)
+- [Michael Johnson: ‘You’re going to see athletes protesting the centres of power’](https://www.theguardian.com/sport/2021/oct/14/michael-johnson-athletes-protesting-centres-of-power-getting-directly-involved)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

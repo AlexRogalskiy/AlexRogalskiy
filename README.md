@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We’re ready’: Fiji prepares to welcome tourists almost two years after closing borders](https://www.theguardian.com/world/2021/oct/14/were-ready-fiji-prepares-to-welcome-tourists-almost-two-years-after-closing-borders)
-- [Has England gone back to the office?](https://www.theguardian.com/news/audio/2021/oct/14/has-england-gone-back-to-the-office-podcast)
-- [Norway bow and arrow attacks: Danish citizen charged as death toll reaches five](https://www.theguardian.com/world/2021/oct/13/several-killed-bow-and-arrow-attack-norway)
-- [USA 2-1 Costa Rica: 2022 World Cup qualifier – as it happened](https://www.theguardian.com/football/live/2021/oct/13/usa-v-costa-rica-2022-world-cup-qualifier-live)
-- [‘Sophisticated’: ancient faeces shows humans enjoyed beer and blue cheese 2,700 years ago](https://www.theguardian.com/science/2021/oct/14/sophisticated-ancient-faeces-shows-humans-enjoyed-beer-and-blue-cheese-2700-years-ago)
-- [US leads world in bitcoin mining after China crackdown sends industry overseas](https://www.theguardian.com/technology/2021/oct/14/us-leads-world-in-bitcoin-mining-after-china-crackdown-sends-industry-overseas)
-- [‘Last chance’: WHO reveals new team to investigate Covid origins](https://www.theguardian.com/world/2021/oct/14/last-chance-who-reveals-new-team-to-investigate-covid-origins)
-- [Rishi Sunak urged to cut business rates to unlock billions in investment](https://www.theguardian.com/politics/2021/oct/14/rishi-sunak-urged-cut-business-rates-unlock-billions-investment)
-- [One in five of Europe’s bird species slipping towards extinction](https://www.theguardian.com/environment/2021/oct/14/one-in-five-of-europes-bird-species-slipping-towards-extinction-aoe)
-- [Michael Johnson: ‘You’re going to see athletes protesting the centres of power’](https://www.theguardian.com/sport/2021/oct/14/michael-johnson-athletes-protesting-centres-of-power-getting-directly-involved)
+- [Newcastle fans think they’ve got their club back. But at what cost? podcast](https://www.theguardian.com/news/audio/2021/oct/15/newcastle-fans-think-theyve-got-their-club-back-but-at-what-cost-podcast)
+- [Boeing pilot indicted for allegedly deceiving US regulators over 737 Max](https://www.theguardian.com/business/2021/oct/14/boeing-pilot-737-max-indictment-faa)
+- [Wreck of legendary naval cutter USS Bear found off coast of Boston](https://www.theguardian.com/us-news/2021/oct/15/wreck-of-legendary-naval-cutter-uss-bear-found-off-coast-of-boston)
+- [Apple’s plan to scan for child abuse images ‘tears at heart of privacy’](https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy)
+- [Microsoft to shut LinkedIn in China amid Beijing tech clampdown](https://www.theguardian.com/world/2021/oct/15/microsoft-to-shut-linkedin-in-china-amid-beijing-tech-clampdown)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/oct/15/premier-league-10-things-to-look-out-for-this-weekend)
+- [The Tragedy of Macbeth review – Yaël Farber’s blood-curdling terror](https://www.theguardian.com/stage/2021/oct/15/the-tragedy-of-macbeth-review-yael-farber-saoirse-ronan-almeida-theatre)
+- [Jacky Wright and Marcus Rashford in Top 10 most powerful black Britons](https://www.theguardian.com/world/2021/oct/15/jacky-wright-and-marcus-rashford-in-top-10-most-powerful-black-britons)
+- [Contactless card limit to more than double to £100 from Friday](https://www.theguardian.com/money/2021/oct/15/contactless-card-limit-to-more-than-double-to-pounds-100-from-friday)
+- [Queen ‘irritated’ by world leaders talking not doing on climate crisis](https://www.theguardian.com/uk-news/2021/oct/14/queen-irritated-by-world-leaders-talking-not-doing-on-climate-change)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [RPA Deals Heat Up Amid Faster Digital Transformation Pushes](https://www.informationweek.com/software-platforms/rpa-deals-heat-up-amid-faster-digital-transformation-pushes)
+- [Modern App Dev: An Enterprise Guide](https://www.informationweek.com/devops/modern-app-dev-an-enterprise-guide)
 - [Google Cloud Next Paints Digital Landscape Where Data and AI Meet](https://www.informationweek.com/cloud/google-cloud-next-paints-digital-landscape-where-data-and-ai-meet)
 - [Stop Using AI and ML Interchangeably](https://www.informationweek.com/ai-or-machine-learning/stop-using-ai-and-ml-interchangeably)
-- [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
 - [How to Build a Strong and Effective Data Retention Policy](https://www.informationweek.com/big-data/how-to-build-a-strong-and-effective-data-retention-policy)
 - [Safely and Securely Bringing Employees Back to the Office](https://www.informationweek.com/security-and-risk-strategy/safely-and-securely-bringing-employees-back-to-the-office)
 - [A Question of Digital Balance](https://www.informationweek.com/strategic-cio/a-question-of-digital-balance)
 - [Streamlining Data Storage at the 49ers’ Homefield](https://www.informationweek.com/big-data-analytics/streamlining-data-storage-at-the-49ers-homefield)
 - [How to Optimize Your Hybrid Cloud Architecture](https://www.informationweek.com/cloud/how-to-optimize-your-hybrid-cloud-architecture)
-- [3 Biggest Mistakes Companies Make When Adopting Cloud Computing](https://www.informationweek.com/cloud/3-biggest-mistakes-companies-make-when-adopting-cloud-computing)
-- [5 Lessons from Facebook, Instagram, WhatsApp Outage](https://www.informationweek.com/security-and-risk-strategy/5-lessons-from-facebook-instagram-whatsapp-outage)
+- [The Cyber Insurance Market in Flux](https://www.informationweek.com/security-and-risk-strategy/the-cyber-insurance-market-in-flux)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

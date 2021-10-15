@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Islands of Interactivity with Vue in Vite.js](https://iles-docs.netlify.app/)
-- [Projection: What you spot is what you got (2012)](https://marthabeck.com/2012/01/projection-when-what-you-spot-is-what-youve-got/)
-- [Social Security Benefits to Rise 5.9% in 2022, Most in Four Decades](https://www.nytimes.com/2021/10/13/business/social-security-cola.html)
-- [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
-- [Self-Supervised Learning Is More Robust to Dataset Imbalance](https://papers.labml.ai/paper/5799186c2b0d11ec9e9dcba33be64600)
-- [Lake Karachay perhaps the most polluted place on the planet could kill in hours](https://en.wikipedia.org/wiki/Pollution_of_Lake_Karachay)
-- [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
-- [Henrietta Lacks Is Honored by WHO](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html)
-- [Covid and Age](https://www.nytimes.com/2021/10/12/briefing/covid-age-risk-infection-vaccine.html)
-- [The neuroscience of advanced scientific concepts](https://www.nature.com/articles/s41539-021-00107-6)
+- [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
+- [The Love-at-First-Sight Gaze Pattern on Search-Results Pages](https://www.nngroup.com/articles/love-at-first-sight-pattern/)
+- [Nikon Designs Two f/1.2 Zoom Lenses: 35-50mm and 50-70mm](https://petapixel.com/2021/10/14/nikon-designs-two-f-1-2-zoom-lenses-35-50mm-and-50-70mm/)
+- [Glorytun – Multipath UDP Tunnel](https://github.com/angt/glorytun)
+- [A Big Bet on Nanotechnology Has Paid Off](https://www.scientificamerican.com/article/a-big-bet-on-nanotechnology-has-paid-off/)
+- [Virgin Galactic to delay commercial space travel service](https://www.reuters.com/business/aerospace-defense/virgin-galactic-delay-commercial-space-travel-service-2021-10-14/)
+- [Tesla officially launches its insurance using ‘real-time driving behavior’](https://electrek.co/2021/10/14/tesla-officially-launches-insurance-using-real-time-driving-behavior-texas/)
+- [Supply Chain Looms as Serious Threat to Batteries' Green Reputation (2018)](https://www.greentechmedia.com/articles/read/graphite-the-biggest-threat-to-batteries-green-reputation)
+- [The Council of the Gods](https://en.wikipedia.org/wiki/The_Council_of_the_Gods)
+- [How fast can we sort? (2015)](https://sortingsearching.com/2015/05/17/how-fast-can-we-sort.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

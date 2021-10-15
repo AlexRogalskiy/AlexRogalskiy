@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
-- [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
-- [Parcel v2](https://parceljs.org/blog/v2/)
-- [TX Bans Local Nurses from Quitting to Work FEMA Crisis Contracts in State](https://nurse.org/articles/texas-bans-nurses-from-in-state-crisis-contracts/)
-- [Patrick Stewart on the teacher who spotted his talent](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
-- [Pink Floyd's Young Lust – explained and demystified](https://telephoneworld.org/landline-telephone-history/pink-floyds-young-lust-explained-and-demystified/)
-- [Kyshtym Disaster](https://en.wikipedia.org/wiki/Kyshtym_disaster)
-- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
-- [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
+- [Meat and mental health: Meat eaters suffer less depression, anxiety](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1974336)
+- [By 2500 earth could be alien to humans](https://www.mcgill.ca/channels/channels/news/2500-earth-could-be-alien-humans-334080)
+- [Covid super-immunity: one of the pandemic’s great puzzles](https://www.nature.com/articles/d41586-021-02795-x)
+- [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
+- [Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud](https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud)
+- [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
+- [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
+- [The Serde Rust Framework](https://serde.rs/)
+- [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
+- [Oculess – Removes account requirements and telemetry from Oculus Quest devices](https://github.com/basti564/Oculess)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

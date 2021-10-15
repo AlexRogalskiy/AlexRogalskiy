@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Apple's 'Unleashed' event preview: 14- and 16-in. MacBook Pros with Apple Silicon](https://www.computerworld.com/article/3636994/podcast-apples-unleashed-event-preview-14-and-16-in-macbook-pros-with-apple-silicon.html#tk.rss_all)
+- [Apple needs to introduce an iCloud business suite for the enterprise](https://www.computerworld.com/article/3637110/apple-needs-to-introduce-an-icloud-business-suite-for-the-enterprise.html#tk.rss_all)
+- [13 handy hidden tricks for Google Maps on Android](https://www.computerworld.com/article/3319439/google-maps-android.html#tk.rss_all)
+- [How to choose the right UEM platform](https://www.computerworld.com/article/3636154/how-to-choose-uem-platform-unified-endpoint-management.html#tk.rss_all)
 - [BrandPost: Wire Your SMB for Digital Success](https://www.computerworld.com/article/3637032/wire-your-smb-for-digital-success.html#tk.rss_all)
 - [Apple warns: Sideloading apps threatens an iCrime wave](https://www.computerworld.com/article/3636244/apple-warns-sideloading-apps-threatens-an-icrime-wave.html#tk.rss_all)
 - [US IT job growth slows, but 2021 still on track for record hiring](https://www.computerworld.com/article/3542681/us-it-job-growth-slows-but-2021-still-on-track-for-record-hiring.html#tk.rss_all)
 - [Windows 11: Microsoft's pointless update](https://www.computerworld.com/article/3636788/windows-11-microsofts-pointless-update.html#tk.rss_all)
 - [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [iPhone SE 2022: Apple reads the room](https://www.computerworld.com/article/3636455/iphone-se-2022-apple-reads-the-room.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

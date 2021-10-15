@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Institutes of Technology launch to upskill adults in tech careers](https://www.computerweekly.com/news/252508105/Institutes-of-Technology-launch-to-upskill-adults-in-tech-careers)
-- [Google Cybersecurity Action Team springs into life](https://www.computerweekly.com/news/252508108/Google-Cybersecurity-Action-Team-springs-into-life)
-- [Hybrid cloud: Five key questions in 2021](https://www.computerweekly.com/feature/Hybrid-cloud-Five-key-questions-in-2021)
-- [Modern SaaS shifts core ERP architectures](https://www.computerweekly.com/news/252508103/Modern-SaaS-shifts-core-ERP-architectures)
-- [Government launches Gov.uk app](https://www.computerweekly.com/news/252508106/Government-launches-Govuk-app)
-- [Microsoft makes carbon emissions-tracking dashboard generally available to cloud users](https://www.computerweekly.com/news/252508093/Microsoft-makes-carbon-emissions-tracking-dashboard-generally-available-to-cloud-users)
-- [Half-year cloud market tracker data highlights soaring demand for IaaS and PaaS](https://www.computerweekly.com/news/252508104/Half-year-cloud-market-tracker-data-highlights-soaring-demand-for-IaaS-and-PaaS)
-- [FCA warns over future hybrid working security risks](https://www.computerweekly.com/news/252508101/FCA-warns-over-future-hybrid-working-security-risks)
-- [Post Office Horizon scandal inquiry announces first public hearing](https://www.computerweekly.com/news/252508099/Post-Office-Horizon-scandal-inquiry-announces-first-public-hearing)
-- [Google builds out hybrid and multicloud vision for enterprises](https://www.computerweekly.com/news/252508091/Google-builds-out-hybrid-and-multicloud-vision-for-enterprises)
+- [NXP Semiconductors doubles down on datacentre migration plan with AWS](https://www.computerweekly.com/news/252508162/NXP-Semiconductors-doubles-down-on-datacentre-migration-plan-with-AWS)
+- [NHS Digital enhances in-house cyber awareness drive](https://www.computerweekly.com/news/252508157/NHS-Digital-enhances-in-house-cyber-awareness-drive)
+- [IBM pledges to reskill 30 million people by 2030](https://www.computerweekly.com/news/252508155/IBM-pledges-to-reskill-30-million-people-by-2030)
+- [Denmark takes another step towards empowering women in tech](https://www.computerweekly.com/news/252508139/Denmark-takes-another-step-towards-empowering-women-in-tech)
+- [UK government advances voter ID project](https://www.computerweekly.com/news/252508147/UK-government-advances-voter-ID-project)
+- [Darlington Building Society invests in platform for digital transformation](https://www.computerweekly.com/news/252508145/Darlington-Building-Society-invests-in-platform-for-digital-transformation)
+- [FCSA clarifies anti-tax avoidance stance of offshore Charter change for umbrella firms](https://www.computerweekly.com/news/252508143/FCSA-clarifies-anti-tax-avoidance-stance-of-offshore-Charter-change-for-umbrella-firms)
+- [Poppy Gustafsson, most influential woman in UK tech 2021 - winner’s speech](https://www.computerweekly.com/video/Poppy-Gustafsson-most-influential-woman-in-UK-tech-2021-winners-speech)
+- [Encryption protects the marginalised – and it’s under threat](https://www.computerweekly.com/opinion/Encryption-protects-the-marginalised-and-its-under-threat)
+- [SocGen to cull thousands of jobs and move to single IT platform in merger with subsidiary](https://www.computerweekly.com/news/252508136/SocGen-to-cull-thousands-of-jobs-and-move-to-single-IT-platform-in-merger-with-subsidiary)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Red Hat OpenStack tightens OpenShift Kubernetes integration](https://www.infoworld.com/article/3637080/red-hat-openstack-tightens-openshift-kubernetes-integration.html#tk.rss_all)
+- [How to become a cloud architecture generalist](https://www.infoworld.com/article/3636516/how-to-become-a-cloud-architecture-generalist.html#tk.rss_all)
 - [TypeScript adds ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-adds-esm-support-for-nodejs.html#tk.rss_all)
 - [Python stands to lose its GIL, and gain a lot of speed](https://www.infoworld.com/article/3637073/python-stands-to-lose-its-gil-and-gain-a-lot-of-speed.html#tk.rss_all)
 - [Visual Studio Code adds split editor capability](https://www.infoworld.com/article/3637034/visual-studio-code-adds-split-editor-capability.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [CNCF and Linux Foundation launch entry-level Kubernetes certification](https://www.infoworld.com/article/3636245/cncf-and-linux-foundation-launch-entry-level-kubernetes-certification.html#tk.rss_all)
 - [Google Cloud extends its reach with new Distributed Cloud options](https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html#tk.rss_all)
 - [Microsoft Visual Studio 2022 is due November 8](https://www.infoworld.com/article/3636794/microsoft-visual-studio-2022-due-november-8.html#tk.rss_all)
-- [Amazon Honeycode review: No code has its limits](https://www.infoworld.com/article/3636423/amazon-honeycode-review-no-code-has-its-limits.html#tk.rss_all)
-- [Optimizing C and C++ Windows binaries with SizeBench](https://www.infoworld.com/article/3636160/optimizing-c-and-c-windows-binaries-with-sizebench.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

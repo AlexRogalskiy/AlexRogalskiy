@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Experts call Apple's CSAM scheme 'a dangerous technology'](https://www.computerworld.com/article/3637076/experts-call-apples-csam-scheme-a-dangerous-technology.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [Make your own promotional videos the easy way](https://www.computerworld.com/article/3637011/make-your-own-promotional-videos-the-easy-way.html#tk.rss_all)
+- [Windows 11 and the need for better BIOS integration](https://www.computerworld.com/article/3637009/windows-11-and-the-need-for-better-bios-integration.html#tk.rss_all)
 - [Podcast: Apple's 'Unleashed' event preview: 14- and 16-in. MacBook Pros with Apple Silicon](https://www.computerworld.com/article/3636994/podcast-apples-unleashed-event-preview-14-and-16-in-macbook-pros-with-apple-silicon.html#tk.rss_all)
 - [Apple needs to introduce an iCloud business suite for the enterprise](https://www.computerworld.com/article/3637110/apple-needs-to-introduce-an-icloud-business-suite-for-the-enterprise.html#tk.rss_all)
 - [13 handy hidden tricks for Google Maps on Android](https://www.computerworld.com/article/3319439/google-maps-android.html#tk.rss_all)
 - [How to choose the right UEM platform](https://www.computerworld.com/article/3636154/how-to-choose-uem-platform-unified-endpoint-management.html#tk.rss_all)
 - [BrandPost: Wire Your SMB for Digital Success](https://www.computerworld.com/article/3637032/wire-your-smb-for-digital-success.html#tk.rss_all)
-- [Apple warns: Sideloading apps threatens an iCrime wave](https://www.computerworld.com/article/3636244/apple-warns-sideloading-apps-threatens-an-icrime-wave.html#tk.rss_all)
-- [US IT job growth slows, but 2021 still on track for record hiring](https://www.computerworld.com/article/3542681/us-it-job-growth-slows-but-2021-still-on-track-for-record-hiring.html#tk.rss_all)
-- [Windows 11: Microsoft's pointless update](https://www.computerworld.com/article/3636788/windows-11-microsofts-pointless-update.html#tk.rss_all)
-- [Tech event calendar 2021: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

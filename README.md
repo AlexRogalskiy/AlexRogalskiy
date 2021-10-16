@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Non-programming IT skills?](https://www.reddit.com/r/InformationTechnology/comments/q8k4mk/nonprogramming_it_skills/)
+- [MS-100 prep](https://www.reddit.com/r/InformationTechnology/comments/q8gsvj/ms100_prep/)
 - [Software/Technical Associate Consultant Interview Question?](https://www.reddit.com/r/InformationTechnology/comments/q8e35x/softwaretechnical_associate_consultant_interview/)
 - [Have you ever tried IT staff augmentation services? Was it a good experience?](https://www.reddit.com/r/InformationTechnology/comments/q832ud/have_you_ever_tried_it_staff_augmentation/)
 - [Recovering deleted Instagram Direct Messages](https://www.reddit.com/r/InformationTechnology/comments/q80ypd/recovering_deleted_instagram_direct_messages/)
@@ -414,8 +416,6 @@
 - [Generation USA](https://www.reddit.com/r/InformationTechnology/comments/q79x8s/generation_usa/)
 - [Transition from someone who is "good with computers" to working in a Windows corporate environment?](https://www.reddit.com/r/InformationTechnology/comments/q6snx5/transition_from_someone_who_is_good_with/)
 - [How do I discover the software for academic journals (Journal of Information Technology, Journal of Nature, etc.) and e-journal management systems i.e. SAGE Publishing, Researchagate, Semantic Scholar?](https://www.reddit.com/r/InformationTechnology/comments/q65eie/how_do_i_discover_the_software_for_academic/)
-- [Questions about Google IT Support Professional Cert](https://www.reddit.com/r/InformationTechnology/comments/q626je/questions_about_google_it_support_professional/)
-- [Security for chrome on workstations.](https://www.reddit.com/r/InformationTechnology/comments/q5yudp/security_for_chrome_on_workstations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

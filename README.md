@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meat and mental health: Meat eaters suffer less depression, anxiety](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1974336)
-- [By 2500 earth could be alien to humans](https://www.mcgill.ca/channels/channels/news/2500-earth-could-be-alien-humans-334080)
-- [Covid super-immunity: one of the pandemic’s great puzzles](https://www.nature.com/articles/d41586-021-02795-x)
-- [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
-- [Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud](https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud)
-- [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
-- [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
-- [The Serde Rust Framework](https://serde.rs/)
-- [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
-- [Oculess – Removes account requirements and telemetry from Oculus Quest devices](https://github.com/basti564/Oculess)
+- [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
+- [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
+- [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
+- [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
+- [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
+- [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
+- [Show HN: IndieFeeds.com, HN clone where submissions come from personal websites](https://indiefeeds.com/)
+- [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
+- [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
+- [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

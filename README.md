@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
-- [The Love-at-First-Sight Gaze Pattern on Search-Results Pages](https://www.nngroup.com/articles/love-at-first-sight-pattern/)
-- [Nikon Designs Two f/1.2 Zoom Lenses: 35-50mm and 50-70mm](https://petapixel.com/2021/10/14/nikon-designs-two-f-1-2-zoom-lenses-35-50mm-and-50-70mm/)
-- [Glorytun – Multipath UDP Tunnel](https://github.com/angt/glorytun)
-- [A Big Bet on Nanotechnology Has Paid Off](https://www.scientificamerican.com/article/a-big-bet-on-nanotechnology-has-paid-off/)
-- [Virgin Galactic to delay commercial space travel service](https://www.reuters.com/business/aerospace-defense/virgin-galactic-delay-commercial-space-travel-service-2021-10-14/)
-- [Tesla officially launches its insurance using ‘real-time driving behavior’](https://electrek.co/2021/10/14/tesla-officially-launches-insurance-using-real-time-driving-behavior-texas/)
-- [Supply Chain Looms as Serious Threat to Batteries' Green Reputation (2018)](https://www.greentechmedia.com/articles/read/graphite-the-biggest-threat-to-batteries-green-reputation)
-- [The Council of the Gods](https://en.wikipedia.org/wiki/The_Council_of_the_Gods)
-- [How fast can we sort? (2015)](https://sortingsearching.com/2015/05/17/how-fast-can-we-sort.html)
+- [Ask HN: Will decentralized and centralized networks co-exist?](https://news.ycombinator.com/item?id=28885063)
+- [Mirrorboard: A one-handed keyboard layout for the lazy (2007)](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/)
+- [ADA color compliance tool for brand palettes](https://abc.useallfive.com/)
+- [ReMarkable's E Ink Tablet Now Requires a Subscription to Access Best Features](https://gizmodo.com/remarkables-e-ink-tablet-now-requires-a-subscription-to-1847856223)
+- [Destan: The first Turkish female superhero TV show](https://www.youtube.com/watch?v=UKVHO6IFxBM)
+- [Dark Matter Alternative Passes Big Test](https://physics.aps.org/articles/v14/143)
+- [Quarto: A scientific and technical publishing system built on Pandoc](https://quarto.org/)
+- [The Software Principle of Locality [pdf]](http://leanagilepartners.com/library/The_Software_Principle_of_Locality.pdf)
+- ['Donald Trump' in Mongolian](http://www.cjvlang.com/Spicks/trump.html)
+- [Daily Coding Challenge #29 – Product of Array Except Self. [Facebook Interview]](https://www.pankajtanwar.in/code/product-of-array-except-self)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

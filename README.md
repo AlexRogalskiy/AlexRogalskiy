@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Newcastle fans think they’ve got their club back. But at what cost? podcast](https://www.theguardian.com/news/audio/2021/oct/15/newcastle-fans-think-theyve-got-their-club-back-but-at-what-cost-podcast)
-- [Boeing pilot indicted for allegedly deceiving US regulators over 737 Max](https://www.theguardian.com/business/2021/oct/14/boeing-pilot-737-max-indictment-faa)
-- [Wreck of legendary naval cutter USS Bear found off coast of Boston](https://www.theguardian.com/us-news/2021/oct/15/wreck-of-legendary-naval-cutter-uss-bear-found-off-coast-of-boston)
-- [Apple’s plan to scan for child abuse images ‘tears at heart of privacy’](https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy)
-- [Microsoft to shut LinkedIn in China amid Beijing tech clampdown](https://www.theguardian.com/world/2021/oct/15/microsoft-to-shut-linkedin-in-china-amid-beijing-tech-clampdown)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/oct/15/premier-league-10-things-to-look-out-for-this-weekend)
-- [The Tragedy of Macbeth review – Yaël Farber’s blood-curdling terror](https://www.theguardian.com/stage/2021/oct/15/the-tragedy-of-macbeth-review-yael-farber-saoirse-ronan-almeida-theatre)
-- [Jacky Wright and Marcus Rashford in Top 10 most powerful black Britons](https://www.theguardian.com/world/2021/oct/15/jacky-wright-and-marcus-rashford-in-top-10-most-powerful-black-britons)
-- [Contactless card limit to more than double to £100 from Friday](https://www.theguardian.com/money/2021/oct/15/contactless-card-limit-to-more-than-double-to-pounds-100-from-friday)
-- [Queen ‘irritated’ by world leaders talking not doing on climate crisis](https://www.theguardian.com/uk-news/2021/oct/14/queen-irritated-by-world-leaders-talking-not-doing-on-climate-change)
+- [Bill Clinton to remain in hospital as he recovers from urological infection](https://www.theguardian.com/us-news/2021/oct/15/bill-clinton-to-remain-in-hospital-as-he-recovers-from-urological-infection)
+- [Netflix fires employee trans activist for allegedly leaking internal documents](https://www.theguardian.com/media/2021/oct/15/netflix-fires-employee-trans-activist-for-allegedly-leaking-internal-documents)
+- [David Amess: MP’s killing declared a terrorist incident](https://www.theguardian.com/uk-news/2021/oct/15/counter-terrorism-police-take-over-inquiry-into-david-amess-killing)
+- [UK announces extra £29m of humanitarian aid for Ethiopia](https://www.theguardian.com/world/2021/oct/16/uk-announces-extra-29m-of-humanitarian-aid-for-ethiopia)
+- [‘It’s amazing’: Moeen Ali wins IPL as Chennai beat Kolkata in Dubai final](https://www.theguardian.com/sport/2021/oct/15/its-amazing-moeen-ali-wins-ipl-as-chennai-beat-kolkata-in-dubai-final)
+- [Shia mosque bombing in Afghanistan that killed at least 47 claimed by ISKP](https://www.theguardian.com/world/2021/oct/15/casualties-explosion-hits-shia-mosque-afghanistan)
+- [‘Prioritise football’: Solskjær wants returning Rashford to focus on United](https://www.theguardian.com/football/2021/oct/15/solskjaer-wants-returning-marcus-rashford-to-prioritise-football-manchester-united)
+- [Earwig review – twisty body-horror noir threatens to bite](https://www.theguardian.com/film/2021/oct/15/earwig-review-twisty-body-horror-noir-threatens-to-bite)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/oct/15/twenty-photographs-of-the-week)
+- [Quirke’s double tips seesaw contest Sale’s way and sinks Harlequins](https://www.theguardian.com/sport/2021/oct/15/sale-harlequins-premeirship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

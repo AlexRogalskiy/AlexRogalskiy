@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Argos topped online sales for sports and outdoor gear in 2020](https://www.computerweekly.com/news/252508211/Argos-topped-online-sales-for-sports-and-outdoor-gear-in-2020)
+- [Manchester City teams up with Qualtrics for fan experience management](https://www.computerweekly.com/news/252508207/Manchester-City-teams-up-with-Qualtrics-for-fan-experience-management)
+- [Global IT outsourcing sees record spending and no sign of slowing](https://www.computerweekly.com/news/252508205/Global-IT-outsourcing-sees-record-spending-and-no-sign-of-slowing)
+- [Doing the right thing: How CISOs should approach responsible disclosure](https://www.computerweekly.com/opinion/Doing-the-right-thing-How-CISOs-should-approach-responsible-disclosure)
+- [Apple scheme to detect child abuse creates serious privacy and security risks, say scientists](https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists)
 - [NXP Semiconductors doubles down on datacentre migration plan with AWS](https://www.computerweekly.com/news/252508162/NXP-Semiconductors-doubles-down-on-datacentre-migration-plan-with-AWS)
 - [NHS Digital enhances in-house cyber awareness drive](https://www.computerweekly.com/news/252508157/NHS-Digital-enhances-in-house-cyber-awareness-drive)
 - [IBM pledges to reskill 30 million people by 2030](https://www.computerweekly.com/news/252508155/IBM-pledges-to-reskill-30-million-people-by-2030)
 - [Denmark takes another step towards empowering women in tech](https://www.computerweekly.com/news/252508139/Denmark-takes-another-step-towards-empowering-women-in-tech)
 - [UK government advances voter ID project](https://www.computerweekly.com/news/252508147/UK-government-advances-voter-ID-project)
-- [Darlington Building Society invests in platform for digital transformation](https://www.computerweekly.com/news/252508145/Darlington-Building-Society-invests-in-platform-for-digital-transformation)
-- [FCSA clarifies anti-tax avoidance stance of offshore Charter change for umbrella firms](https://www.computerweekly.com/news/252508143/FCSA-clarifies-anti-tax-avoidance-stance-of-offshore-Charter-change-for-umbrella-firms)
-- [Poppy Gustafsson, most influential woman in UK tech 2021 - winner’s speech](https://www.computerweekly.com/video/Poppy-Gustafsson-most-influential-woman-in-UK-tech-2021-winners-speech)
-- [Encryption protects the marginalised – and it’s under threat](https://www.computerweekly.com/opinion/Encryption-protects-the-marginalised-and-its-under-threat)
-- [SocGen to cull thousands of jobs and move to single IT platform in merger with subsidiary](https://www.computerweekly.com/news/252508136/SocGen-to-cull-thousands-of-jobs-and-move-to-single-IT-platform-in-merger-with-subsidiary)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

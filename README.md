@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Friday, Oct. 15, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-oct-15-2021/460963)
+- [Accelerator program to help Western Canada’s Black entrepreneurs](https://www.itworldcanada.com/article/accelerator-program-to-help-western-canadas-black-entrepreneurs/461005)
+- [Countries agree to ‘urgent action’ on ransomware, but issue few specifics](https://www.itworldcanada.com/article/countries-agree-to-urgent-action-on-ransomware-but-issue-few-specifics/460968)
+- [Dell announces Latitude 5430 and 7330 Extreme rugged PCs](https://www.itworldcanada.com/article/dell-announces-latitude-5430-and-7330-extreme-rugged-pcs/461164)
+- [Google announces sustainability initiatives](https://www.itworldcanada.com/article/google-announces-sustainability-initiatives/460905)
+- [Cyber Security Today, Oct. 15, 2021 – Canadian researchers find Windows bugs, watch for fake URLs and more](https://www.itworldcanada.com/article/cyber-security-today-oct-15-2021-canadian-researchers-find-windows-bugs-watch-for-fake-urls-and-more/461004)
+- [Hashtag Trending Oct. 15 – No more LinkedIn in China; Windows 11 patch slows AMD processors; U.S. now biggest bitcoin mining hub](https://www.itworldcanada.com/article/hashtag-trending-oct-15-no-more-linkedin-in-china-windows-11-patch-slows-amd-processors-u-s-now-biggest-bitcoin-mining-hub/461002)
 - [BlackBerry enhances XDR and QNX, will add AI to Guard managed detection service](https://www.itworldcanada.com/article/blackberry-enhances-xdr-and-qnx-will-add-ai-to-guard-managed-detection-service/460849)
 - [Is it time for small businesses to rethink their cyber security strategies?](https://www.itworldcanada.com/article/is-it-time-for-small-businesses-to-rethink-their-cyber-security-strategies/460692)
 - [Grant Thornton and Xero partner to provide free custom cloud accounting solution to Canadian women-owned SMBs](https://www.itworldcanada.com/article/grant-thornton-and-xero-partner-to-provide-free-custom-cloud-accounting-solution-to-canadian-women-owned-smbs/460911)
-- [Hashtag Trending Oct. 14- Amazon copies products; NVIDIA and Arm deal; Google app design change](https://www.itworldcanada.com/article/hashtag-trending-oct-14-amazon-copies-products-nvidia-and-arm-deal-google-app-design-change/460876)
-- [Ransomware defence starts with vulnerability management: BlackBerry](https://www.itworldcanada.com/article/ransomware-defence-starts-with-vulnerability-management-blackberry/460820)
-- [Thirty nations open two-day counter-ransomware meeting](https://www.itworldcanada.com/article/thirty-nations-open-two-day-counter-ransomware-meeting/460696)
-- [Silicon Valley Bank opens its third Canadian office in Montreal](https://www.itworldcanada.com/article/silicon-valley-bank-opens-its-third-canadian-office-in-montreal/460915)
-- [Cyber Security Today, Oct. 13, 2021 – Quebec talent agency and U.S. fertility clinic hit by ransomware, a Verizon logo scam, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-13-2021-quebec-talent-agency-and-u-s-fertility-clinic-hit-by-ransomware-a-verizon-logo-scam-and-more/460686)
-- [Hashtag Trending Oct. 13 – Amazon remote work; Android snooping; Waze and Headspace](https://www.itworldcanada.com/article/hashtag-trending-oct-13-amazon-remote-work-android-snooping-waze-and-headspace/460689)
-- [Canadian students are helping SMEs innovate with funding from Mitacs – here’s how](https://www.itworldcanada.com/article/canadian-students-are-helping-smes-innovate-with-support-from-mitacs-heres-how/460658)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

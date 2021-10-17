@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A plus cert](https://www.reddit.com/r/InformationTechnology/comments/q9o2xr/a_plus_cert/)
+- [Anybody here gone through imposter syndrome in the beginning of your career?](https://www.reddit.com/r/InformationTechnology/comments/q9m9f3/anybody_here_gone_through_imposter_syndrome_in/)
 - [Non-programming IT skills?](https://www.reddit.com/r/InformationTechnology/comments/q8k4mk/nonprogramming_it_skills/)
 - [MS-100 prep](https://www.reddit.com/r/InformationTechnology/comments/q8gsvj/ms100_prep/)
 - [Software/Technical Associate Consultant Interview Question?](https://www.reddit.com/r/InformationTechnology/comments/q8e35x/softwaretechnical_associate_consultant_interview/)
@@ -414,8 +416,6 @@
 - [how to pick online university](https://www.reddit.com/r/InformationTechnology/comments/q80rf1/how_to_pick_online_university/)
 - [Question: How does a captive portal identify a client](https://www.reddit.com/r/InformationTechnology/comments/q7c53u/question_how_does_a_captive_portal_identify_a/)
 - [Generation USA](https://www.reddit.com/r/InformationTechnology/comments/q79x8s/generation_usa/)
-- [Transition from someone who is "good with computers" to working in a Windows corporate environment?](https://www.reddit.com/r/InformationTechnology/comments/q6snx5/transition_from_someone_who_is_good_with/)
-- [How do I discover the software for academic journals (Journal of Information Technology, Journal of Nature, etc.) and e-journal management systems i.e. SAGE Publishing, Researchagate, Semantic Scholar?](https://www.reddit.com/r/InformationTechnology/comments/q65eie/how_do_i_discover_the_software_for_academic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
-- [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
-- [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
-- [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
-- [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
-- [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
-- [Show HN: IndieFeeds.com, HN clone where submissions come from personal websites](https://indiefeeds.com/)
-- [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
-- [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
-- [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
+- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
+- [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
+- [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
+- [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
+- [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
+- [The Fugate family of Kentucky has had blue skin for centuries (2017)](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
+- [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
+- [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
+- [Privacy activists oppose EU plans for a GDPR-compliant Whois v2](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

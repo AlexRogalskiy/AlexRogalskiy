@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Four zero-day exploits add urgency to October's Patch Tuesday](https://www.computerworld.com/article/3637013/four-zero-day-exploits-add-urgency-to-octobers-patch-tuesday.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Experts call Apple's CSAM scheme 'a dangerous technology'](https://www.computerworld.com/article/3637076/experts-call-apples-csam-scheme-a-dangerous-technology.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [Apple needs to introduce an iCloud business suite for the enterprise](https://www.computerworld.com/article/3637110/apple-needs-to-introduce-an-icloud-business-suite-for-the-enterprise.html#tk.rss_all)
 - [13 handy hidden tricks for Google Maps on Android](https://www.computerworld.com/article/3319439/google-maps-android.html#tk.rss_all)
 - [How to choose the right UEM platform](https://www.computerworld.com/article/3636154/how-to-choose-uem-platform-unified-endpoint-management.html#tk.rss_all)
-- [BrandPost: Wire Your SMB for Digital Success](https://www.computerworld.com/article/3637032/wire-your-smb-for-digital-success.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

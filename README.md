@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Will decentralized and centralized networks co-exist?](https://news.ycombinator.com/item?id=28885063)
-- [Mirrorboard: A one-handed keyboard layout for the lazy (2007)](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/)
-- [ADA color compliance tool for brand palettes](https://abc.useallfive.com/)
-- [ReMarkable's E Ink Tablet Now Requires a Subscription to Access Best Features](https://gizmodo.com/remarkables-e-ink-tablet-now-requires-a-subscription-to-1847856223)
-- [Destan: The first Turkish female superhero TV show](https://www.youtube.com/watch?v=UKVHO6IFxBM)
-- [Dark Matter Alternative Passes Big Test](https://physics.aps.org/articles/v14/143)
-- [Quarto: A scientific and technical publishing system built on Pandoc](https://quarto.org/)
-- [The Software Principle of Locality [pdf]](http://leanagilepartners.com/library/The_Software_Principle_of_Locality.pdf)
-- ['Donald Trump' in Mongolian](http://www.cjvlang.com/Spicks/trump.html)
-- [Daily Coding Challenge #29 – Product of Array Except Self. [Facebook Interview]](https://www.pankajtanwar.in/code/product-of-array-except-self)
+- [A Short Note on The Y Combinator (2018)](https://invenia.github.io/blog/2018/08/20/ycombinator/)
+- [Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software](https://github.com/glacambre/firenvim)
+- [Stiff asks, great programmers answer (2006)](http://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/)
+- [When Did Things Happen? (Surveying Historical Knowledge)](https://alexdanco.com/2021/10/16/when-did-things-happen/)
+- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
+- [Is it time for baseball to adopt robot umpires?](https://hardware.slashdot.org/story/21/10/16/2321247/is-it-time-for-baseball-to-adopt-robot-umpires)
+- [Quickly Do Algorithms Improve?](https://news.mit.edu/2021/how-quickly-do-algorithms-improve-0920)
+- [Demystifying C++’s constexpr, consteval, constinit keywords](https://noahan.me/posts/constexpr-consteval-constinit/)
+- [Can China afford to stay isolated as world abandons 'zero Covid'?](https://www.scmp.com/week-asia/opinion/article/3152549/can-china-afford-stay-isolated-world-abandons-zero-covid)
+- [Show HN: Plant a Tree Every Time You Do Trash Day](https://news.ycombinator.com/item?id=28893130)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

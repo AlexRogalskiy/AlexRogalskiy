@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bill Clinton to remain in hospital as he recovers from urological infection](https://www.theguardian.com/us-news/2021/oct/15/bill-clinton-to-remain-in-hospital-as-he-recovers-from-urological-infection)
-- [Netflix fires employee trans activist for allegedly leaking internal documents](https://www.theguardian.com/media/2021/oct/15/netflix-fires-employee-trans-activist-for-allegedly-leaking-internal-documents)
-- [David Amess: MP’s killing declared a terrorist incident](https://www.theguardian.com/uk-news/2021/oct/15/counter-terrorism-police-take-over-inquiry-into-david-amess-killing)
-- [UK announces extra £29m of humanitarian aid for Ethiopia](https://www.theguardian.com/world/2021/oct/16/uk-announces-extra-29m-of-humanitarian-aid-for-ethiopia)
-- [‘It’s amazing’: Moeen Ali wins IPL as Chennai beat Kolkata in Dubai final](https://www.theguardian.com/sport/2021/oct/15/its-amazing-moeen-ali-wins-ipl-as-chennai-beat-kolkata-in-dubai-final)
-- [Shia mosque bombing in Afghanistan that killed at least 47 claimed by ISKP](https://www.theguardian.com/world/2021/oct/15/casualties-explosion-hits-shia-mosque-afghanistan)
-- [‘Prioritise football’: Solskjær wants returning Rashford to focus on United](https://www.theguardian.com/football/2021/oct/15/solskjaer-wants-returning-marcus-rashford-to-prioritise-football-manchester-united)
-- [Earwig review – twisty body-horror noir threatens to bite](https://www.theguardian.com/film/2021/oct/15/earwig-review-twisty-body-horror-noir-threatens-to-bite)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/oct/15/twenty-photographs-of-the-week)
-- [Quirke’s double tips seesaw contest Sale’s way and sinks Harlequins](https://www.theguardian.com/sport/2021/oct/15/sale-harlequins-premeirship-match-report)
+- [Thousands rally in Sudan’s capital to demand military rule](https://www.theguardian.com/world/2021/oct/17/thousands-rally-in-sudans-capital-to-demand-military-rule)
+- [Trend watch: How to wear oversized shirts](https://www.theguardian.com/fashion/2021/oct/16/trend-watch-how-to-wear-oversized-shirts)
+- [ear for eye review – a blistering call to action with Lashana Lynch](https://www.theguardian.com/tv-and-radio/2021/oct/16/ear-for-eye-review-a-blistering-call-to-action-with-lashana-lynch)
+- [Cameron Norrie sweeps Grigor Dimitrov aside to reach Indian Wells final](https://www.theguardian.com/sport/2021/oct/16/cameron-norrie-sweeps-grigor-dimitrov-aside-to-reach-indian-wells-final)
+- [Female Spanish thriller writer Carmen Mola revealed to be three men](https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men)
+- [The Batman trailer reveals Robert Pattinson’s dark take on superhero](https://www.theguardian.com/film/2021/oct/16/the-batman-trailer-reveals-robert-pattinsons-dark-take-on-superhero)
+- [Bull review – a gangland revenge shocker with Neil Maskell on vicious form](https://www.theguardian.com/film/2021/oct/16/bull-review-a-gangland-revenge-shocker-neil-maskell-paul-andrew-williams)
+- [Nazanin Zaghari-Ratcliffe’s husband hits out at government handling of case](https://www.theguardian.com/news/2021/oct/16/nazanin-zaghari-ratcliffe-loses-latest-court-appeal-in-iran)
+- [David Amess killing: what we know so far](https://www.theguardian.com/uk-news/2021/oct/16/david-amess-killing-what-we-know-so-far)
+- [Coal-state Democrat set to scupper Biden clean energy plans](https://www.theguardian.com/environment/2021/oct/16/coal-state-democrat-set-to-scupper-biden-clean-energy-plans)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

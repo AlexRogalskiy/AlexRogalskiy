@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thousands rally in Sudan’s capital to demand military rule](https://www.theguardian.com/world/2021/oct/17/thousands-rally-in-sudans-capital-to-demand-military-rule)
-- [Trend watch: How to wear oversized shirts](https://www.theguardian.com/fashion/2021/oct/16/trend-watch-how-to-wear-oversized-shirts)
-- [ear for eye review – a blistering call to action with Lashana Lynch](https://www.theguardian.com/tv-and-radio/2021/oct/16/ear-for-eye-review-a-blistering-call-to-action-with-lashana-lynch)
-- [Cameron Norrie sweeps Grigor Dimitrov aside to reach Indian Wells final](https://www.theguardian.com/sport/2021/oct/16/cameron-norrie-sweeps-grigor-dimitrov-aside-to-reach-indian-wells-final)
-- [Female Spanish thriller writer Carmen Mola revealed to be three men](https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men)
-- [The Batman trailer reveals Robert Pattinson’s dark take on superhero](https://www.theguardian.com/film/2021/oct/16/the-batman-trailer-reveals-robert-pattinsons-dark-take-on-superhero)
-- [Bull review – a gangland revenge shocker with Neil Maskell on vicious form](https://www.theguardian.com/film/2021/oct/16/bull-review-a-gangland-revenge-shocker-neil-maskell-paul-andrew-williams)
-- [Nazanin Zaghari-Ratcliffe’s husband hits out at government handling of case](https://www.theguardian.com/news/2021/oct/16/nazanin-zaghari-ratcliffe-loses-latest-court-appeal-in-iran)
-- [David Amess killing: what we know so far](https://www.theguardian.com/uk-news/2021/oct/16/david-amess-killing-what-we-know-so-far)
-- [Coal-state Democrat set to scupper Biden clean energy plans](https://www.theguardian.com/environment/2021/oct/16/coal-state-democrat-set-to-scupper-biden-clean-energy-plans)
+- [Britain’s rich history of black literature](https://www.theguardian.com/news/audio/2021/oct/18/britains-rich-history-of-black-literature-podcast)
+- [Prince William reveals Earthshot Prize winners in global bid to tackle climate crisis](https://www.theguardian.com/uk-news/2021/oct/18/prince-william-reveals-earthshot-prize-winners-in-global-bid-to-tackle-climate-crisis)
+- [Russian movie crew return to Earth after filming 12 days on the International Space Station – video](https://www.theguardian.com/world/video/2021/oct/18/russian-movie-crew-return-to-earth-after-filming-12-days-on-the-international-space-station-video)
+- [‘It feels really natural’: hundreds pose nude for Spencer Tunick shoot near Dead Sea](https://www.theguardian.com/artanddesign/2021/oct/18/spencer-tunick-hundreds-pose-nude-dead-sea-israel)
+- [Clubs face bouncer shortage as UK staffing squeeze hits nightlife](https://www.theguardian.com/business/2021/oct/18/clubs-face-bouncer-shortage-as-uk-staffing-squeeze-hits-nightlife)
+- [NHS England hospitals having to rely on ‘obsolete’ imaging equipment](https://www.theguardian.com/society/2021/oct/18/nhs-england-hospitals-having-to-rely-on-obsolete-imaging-equipment)
+- [Love and Other Acts of Violence review – mesmerising moments amid the darkness](https://www.theguardian.com/stage/2021/oct/18/love-and-other-acts-of-violence-review-donmar-warehouse)
+- [Candoco Dance Company review – it all just works, beautifully](https://www.theguardian.com/stage/2021/oct/18/candoco-dance-company-review-sadlers-wells-london)
+- [Psychosis cases soar in England as pandemic hits mental health](https://www.theguardian.com/society/2021/oct/18/psychosis-cases-soar-in-england-as-pandemic-hits-mental-health)
+- [India floods: at least 25 dead after heavy rains spark landslides in Kerala](https://www.theguardian.com/world/2021/oct/18/india-floods-deaths-heavy-rains-landslides-kerala)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

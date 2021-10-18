@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
-- [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
-- [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
-- [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
-- [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
-- [The Fugate family of Kentucky has had blue skin for centuries (2017)](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
-- [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
-- [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
-- [Privacy activists oppose EU plans for a GDPR-compliant Whois v2](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
+- [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
+- [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
+- [Wrongfully Accused: The Swastika Is Not Hitler's Hakenkreuz](https://cohna.org/swastika-is-not-hakenkreuz/)
+- [How Time Series Databases Work–and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
+- [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
+- [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
+- [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
+- [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
+- [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
+- [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qab9xu/degree_in_it/)
+- [Getting Certifications or get a Degree?](https://www.reddit.com/r/InformationTechnology/comments/qa7r29/getting_certifications_or_get_a_degree/)
+- [Help, 21F, continue school or take job offer](https://www.reddit.com/r/InformationTechnology/comments/qa4c3c/help_21f_continue_school_or_take_job_offer/)
+- [How to Install and Configure Azure Azure AD Connect for Sync with Active Directories](https://www.reddit.com/r/InformationTechnology/comments/qa22c0/how_to_install_and_configure_azure_azure_ad/)
+- [is information technology good for me ?](https://www.reddit.com/r/InformationTechnology/comments/qa0pem/is_information_technology_good_for_me/)
+- [Google Admin](https://www.reddit.com/r/InformationTechnology/comments/q9yeg6/google_admin/)
+- [Resources for learning about Office 365 Troubleshooting techniques](https://www.reddit.com/r/InformationTechnology/comments/q9sgt8/resources_for_learning_about_office_365/)
 - [A plus cert](https://www.reddit.com/r/InformationTechnology/comments/q9o2xr/a_plus_cert/)
 - [Anybody here gone through imposter syndrome in the beginning of your career?](https://www.reddit.com/r/InformationTechnology/comments/q9m9f3/anybody_here_gone_through_imposter_syndrome_in/)
 - [Non-programming IT skills?](https://www.reddit.com/r/InformationTechnology/comments/q8k4mk/nonprogramming_it_skills/)
-- [MS-100 prep](https://www.reddit.com/r/InformationTechnology/comments/q8gsvj/ms100_prep/)
-- [Software/Technical Associate Consultant Interview Question?](https://www.reddit.com/r/InformationTechnology/comments/q8e35x/softwaretechnical_associate_consultant_interview/)
-- [Have you ever tried IT staff augmentation services? Was it a good experience?](https://www.reddit.com/r/InformationTechnology/comments/q832ud/have_you_ever_tried_it_staff_augmentation/)
-- [Recovering deleted Instagram Direct Messages](https://www.reddit.com/r/InformationTechnology/comments/q80ypd/recovering_deleted_instagram_direct_messages/)
-- [how to pick online university](https://www.reddit.com/r/InformationTechnology/comments/q80rf1/how_to_pick_online_university/)
-- [Question: How does a captive portal identify a client](https://www.reddit.com/r/InformationTechnology/comments/q7c53u/question_how_does_a_captive_portal_identify_a/)
-- [Generation USA](https://www.reddit.com/r/InformationTechnology/comments/q79x8s/generation_usa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

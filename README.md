@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Short Note on The Y Combinator (2018)](https://invenia.github.io/blog/2018/08/20/ycombinator/)
-- [Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software](https://github.com/glacambre/firenvim)
-- [Stiff asks, great programmers answer (2006)](http://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/)
-- [When Did Things Happen? (Surveying Historical Knowledge)](https://alexdanco.com/2021/10/16/when-did-things-happen/)
-- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
-- [Is it time for baseball to adopt robot umpires?](https://hardware.slashdot.org/story/21/10/16/2321247/is-it-time-for-baseball-to-adopt-robot-umpires)
-- [Quickly Do Algorithms Improve?](https://news.mit.edu/2021/how-quickly-do-algorithms-improve-0920)
-- [Demystifying C++’s constexpr, consteval, constinit keywords](https://noahan.me/posts/constexpr-consteval-constinit/)
-- [Can China afford to stay isolated as world abandons 'zero Covid'?](https://www.scmp.com/week-asia/opinion/article/3152549/can-china-afford-stay-isolated-world-abandons-zero-covid)
-- [Show HN: Plant a Tree Every Time You Do Trash Day](https://news.ycombinator.com/item?id=28893130)
+- [African Renaissance Monument](https://en.wikipedia.org/wiki/African_Renaissance_Monument)
+- [Psychosis cases soar in England as pandemic hits mental health](https://www.theguardian.com/society/2021/oct/18/psychosis-cases-soar-in-england-as-pandemic-hits-mental-health)
+- [How to Build an Offshore Wind Farm](https://login.politicopro.com?redirect=https://subscriber.politicopro.com/article/eenews/2021/10/15/how-to-build-an-offshore-wind-farm-in-4-simple-steps-281784)
+- [Does Squid Games Follow Benford’s Law? No, But](https://twitter.com/nibnalin/status/1449920225831370753)
+- [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
+- [Scientists Face a Third Round of Charges by Mexican Government](https://www.the-scientist.com/news-opinion/scientists-face-a-third-round-of-charges-by-mexican-government-69318)
+- [Investing in the Unknown and Unknowable [pdf]](https://scholar.harvard.edu/files/rzeckhauser/files/investing_in_unknown_and_unknowable.pdf)
+- [The soul of the beast (2019) by Pablo Galindo [EuroPython]](https://www.youtube.com/watch?v=1_23AVsiQEc)
+- [The forbidden erotica of ancient Pompeii](https://www.bbc.com/reel/video/p09xtq4m/the-forbidden-erotica-of-ancient-pompeii)
+- [Speaking in code: hands-free input with Talon](https://blakewatson.com/journal/speaking-in-code-hands-free-input-with-talon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

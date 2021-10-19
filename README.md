@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
-- [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
-- [Wrongfully Accused: The Swastika Is Not Hitler's Hakenkreuz](https://cohna.org/swastika-is-not-hakenkreuz/)
-- [How Time Series Databases Work–and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
-- [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
-- [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
-- [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
-- [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
-- [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
-- [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
+- [SigNoz (YC W21) Is Hiring a senior back-end engineer](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
+- [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
+- [Backblaze S-1 IPO](https://www.sec.gov/Archives/edgar/data/1462056/000119312521301141/d62601ds1.htm)
+- [First federal grant for psychedelic treatment research in 50 years](https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years)
+- [The Myth of Self-Documenting Code](https://buttondown.email/hillelwayne/archive/the-myth-of-self-documenting-code/)
+- [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
+- [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
+- [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
+- [Mach Engine: The Future of Graphics (With Zig)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig)
+- [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

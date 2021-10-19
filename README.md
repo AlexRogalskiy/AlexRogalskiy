@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [African Renaissance Monument](https://en.wikipedia.org/wiki/African_Renaissance_Monument)
-- [Psychosis cases soar in England as pandemic hits mental health](https://www.theguardian.com/society/2021/oct/18/psychosis-cases-soar-in-england-as-pandemic-hits-mental-health)
-- [How to Build an Offshore Wind Farm](https://login.politicopro.com?redirect=https://subscriber.politicopro.com/article/eenews/2021/10/15/how-to-build-an-offshore-wind-farm-in-4-simple-steps-281784)
-- [Does Squid Games Follow Benford’s Law? No, But](https://twitter.com/nibnalin/status/1449920225831370753)
-- [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
-- [Scientists Face a Third Round of Charges by Mexican Government](https://www.the-scientist.com/news-opinion/scientists-face-a-third-round-of-charges-by-mexican-government-69318)
-- [Investing in the Unknown and Unknowable [pdf]](https://scholar.harvard.edu/files/rzeckhauser/files/investing_in_unknown_and_unknowable.pdf)
-- [The soul of the beast (2019) by Pablo Galindo [EuroPython]](https://www.youtube.com/watch?v=1_23AVsiQEc)
-- [The forbidden erotica of ancient Pompeii](https://www.bbc.com/reel/video/p09xtq4m/the-forbidden-erotica-of-ancient-pompeii)
-- [Speaking in code: hands-free input with Talon](https://blakewatson.com/journal/speaking-in-code-hands-free-input-with-talon/)
+- [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
+- [Hazel Scott: The Gorgeous Face of Jazz at the Mid-Century](https://blogs.loc.gov/loc/2021/10/hazel-scott-the-gorgeous-face-of-jazz-at-the-mid-century/)
+- [Dropbox's persistent account upgrade prompt](https://www.reallygoodux.io/blog/dropbox-premium-upgrade-prompt)
+- [Inspiring UX, straight to your inbox](https://www.reallygoodux.io/)
+- [Why Nano](https://benkaiser.dev/nano/)
+- [Weave S-1 (YC W14)](https://sec.report/Document/0001628280-21-020169/weaves-1.htm)
+- [The nuclear proliferator who was never indicted](https://www.thehindu.com/opinion/the-nuclear-proliferator-who-was-never-indicted/article37061556.ece)
+- [Intel Unveiling 12th Gen Alder Lake Unlocked Desktop CPUs and Z690 Platform](https://wccftech.com/intel-officially-launches-12th-gen-alder-lake-unlocked-cpus-z690-platform-on-4th-november-unveiling-next-week/)
+- [A (fictional) British 1980's nuclear attack warning on TV](https://www.youtube.com/watch?v=zhgJG__IkyY)
+- [Upsell Prompts](https://www.reallygoodux.io/categories/upsell-prompts)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [umass lowell University](https://www.reddit.com/r/InformationTechnology/comments/qb1npc/umass_lowell_university/)
+- [BYOD Policy](https://www.reddit.com/r/InformationTechnology/comments/qav4qj/byod_policy/)
+- [How can I fix this problem?](https://www.reddit.com/r/InformationTechnology/comments/qaj6yy/how_can_i_fix_this_problem/)
 - [Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qab9xu/degree_in_it/)
 - [Getting Certifications or get a Degree?](https://www.reddit.com/r/InformationTechnology/comments/qa7r29/getting_certifications_or_get_a_degree/)
 - [Help, 21F, continue school or take job offer](https://www.reddit.com/r/InformationTechnology/comments/qa4c3c/help_21f_continue_school_or_take_job_offer/)
@@ -413,9 +416,6 @@
 - [is information technology good for me ?](https://www.reddit.com/r/InformationTechnology/comments/qa0pem/is_information_technology_good_for_me/)
 - [Google Admin](https://www.reddit.com/r/InformationTechnology/comments/q9yeg6/google_admin/)
 - [Resources for learning about Office 365 Troubleshooting techniques](https://www.reddit.com/r/InformationTechnology/comments/q9sgt8/resources_for_learning_about_office_365/)
-- [A plus cert](https://www.reddit.com/r/InformationTechnology/comments/q9o2xr/a_plus_cert/)
-- [Anybody here gone through imposter syndrome in the beginning of your career?](https://www.reddit.com/r/InformationTechnology/comments/q9m9f3/anybody_here_gone_through_imposter_syndrome_in/)
-- [Non-programming IT skills?](https://www.reddit.com/r/InformationTechnology/comments/q8k4mk/nonprogramming_it_skills/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

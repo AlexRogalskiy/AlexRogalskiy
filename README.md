@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Tech Vendors Target Enterprise ESG Reporting](https://www.informationweek.com/information-management/tech-vendors-target-enterprise-esg-reporting)
+- [Enabling Citizen Data Scientists to Reach Their Full Potential](https://www.informationweek.com/team-building-and-staffing/enabling-citizen-data-scientists-to-reach-their-full-potential)
+- [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
 - [KubeCon + CloudNativeCon Highlights Security for Open Source](https://www.informationweek.com/cloud/kubecon-cloudnativecon-highlights-security-for-open-source)
 - [What Product Teams Can Learn from DevOps Principles](https://www.informationweek.com/devops/what-product-teams-can-learn-from-devops-principles)
 - [RPA Deals Heat Up Amid Faster Digital Transformation Pushes](https://www.informationweek.com/software-platforms/rpa-deals-heat-up-amid-faster-digital-transformation-pushes)
@@ -368,9 +371,6 @@
 - [Google Cloud Next Paints Digital Landscape Where Data and AI Meet](https://www.informationweek.com/cloud/google-cloud-next-paints-digital-landscape-where-data-and-ai-meet)
 - [Stop Using AI and ML Interchangeably](https://www.informationweek.com/ai-or-machine-learning/stop-using-ai-and-ml-interchangeably)
 - [How to Build a Strong and Effective Data Retention Policy](https://www.informationweek.com/big-data/how-to-build-a-strong-and-effective-data-retention-policy)
-- [Safely and Securely Bringing Employees Back to the Office](https://www.informationweek.com/security-and-risk-strategy/safely-and-securely-bringing-employees-back-to-the-office)
-- [A Question of Digital Balance](https://www.informationweek.com/strategic-cio/a-question-of-digital-balance)
-- [Streamlining Data Storage at the 49ers’ Homefield](https://www.informationweek.com/big-data-analytics/streamlining-data-storage-at-the-49ers-homefield)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

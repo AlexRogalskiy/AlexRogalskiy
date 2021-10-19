@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Government launches consultation on future of medical devices](https://www.computerweekly.com/news/252508274/Government-launches-consultation-on-future-of-medical-devices)
+- [How Samlesbury, Lancashire became the home of the National Cyber Force](https://www.computerweekly.com/news/252508268/How-Samlesbury-Lancashire-became-the-home-of-the-National-Cyber-Force)
+- [No easy fix for vulnerability exploitation, so be prepared](https://www.computerweekly.com/opinion/No-easy-fix-for-vulnerability-exploitation-so-be-prepared)
+- [How companies are rethinking digital customer experience in wake of pandemic](https://www.computerweekly.com/feature/How-companies-are-rethinking-digital-customer-experience-in-wake-of-pandemic)
 - [Argos topped online sales for sports and outdoor gear in 2020](https://www.computerweekly.com/news/252508211/Argos-topped-online-sales-for-sports-and-outdoor-gear-in-2020)
 - [Manchester City teams up with Qualtrics for fan experience management](https://www.computerweekly.com/news/252508207/Manchester-City-teams-up-with-Qualtrics-for-fan-experience-management)
 - [Global IT outsourcing sees record spending and no sign of slowing](https://www.computerweekly.com/news/252508205/Global-IT-outsourcing-sees-record-spending-and-no-sign-of-slowing)
 - [Doing the right thing: How CISOs should approach responsible disclosure](https://www.computerweekly.com/opinion/Doing-the-right-thing-How-CISOs-should-approach-responsible-disclosure)
 - [Apple scheme to detect child abuse creates serious privacy and security risks, say scientists](https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists)
 - [NXP Semiconductors doubles down on datacentre migration plan with AWS](https://www.computerweekly.com/news/252508162/NXP-Semiconductors-doubles-down-on-datacentre-migration-plan-with-AWS)
-- [NHS Digital enhances in-house cyber awareness drive](https://www.computerweekly.com/news/252508157/NHS-Digital-enhances-in-house-cyber-awareness-drive)
-- [IBM pledges to reskill 30 million people by 2030](https://www.computerweekly.com/news/252508155/IBM-pledges-to-reskill-30-million-people-by-2030)
-- [Denmark takes another step towards empowering women in tech](https://www.computerweekly.com/news/252508139/Denmark-takes-another-step-towards-empowering-women-in-tech)
-- [UK government advances voter ID project](https://www.computerweekly.com/news/252508147/UK-government-advances-voter-ID-project)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

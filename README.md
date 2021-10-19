@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Britain’s rich history of black literature](https://www.theguardian.com/news/audio/2021/oct/18/britains-rich-history-of-black-literature-podcast)
-- [Prince William reveals Earthshot Prize winners in global bid to tackle climate crisis](https://www.theguardian.com/uk-news/2021/oct/18/prince-william-reveals-earthshot-prize-winners-in-global-bid-to-tackle-climate-crisis)
-- [Russian movie crew return to Earth after filming 12 days on the International Space Station – video](https://www.theguardian.com/world/video/2021/oct/18/russian-movie-crew-return-to-earth-after-filming-12-days-on-the-international-space-station-video)
-- [‘It feels really natural’: hundreds pose nude for Spencer Tunick shoot near Dead Sea](https://www.theguardian.com/artanddesign/2021/oct/18/spencer-tunick-hundreds-pose-nude-dead-sea-israel)
-- [Clubs face bouncer shortage as UK staffing squeeze hits nightlife](https://www.theguardian.com/business/2021/oct/18/clubs-face-bouncer-shortage-as-uk-staffing-squeeze-hits-nightlife)
-- [NHS England hospitals having to rely on ‘obsolete’ imaging equipment](https://www.theguardian.com/society/2021/oct/18/nhs-england-hospitals-having-to-rely-on-obsolete-imaging-equipment)
-- [Love and Other Acts of Violence review – mesmerising moments amid the darkness](https://www.theguardian.com/stage/2021/oct/18/love-and-other-acts-of-violence-review-donmar-warehouse)
-- [Candoco Dance Company review – it all just works, beautifully](https://www.theguardian.com/stage/2021/oct/18/candoco-dance-company-review-sadlers-wells-london)
-- [Psychosis cases soar in England as pandemic hits mental health](https://www.theguardian.com/society/2021/oct/18/psychosis-cases-soar-in-england-as-pandemic-hits-mental-health)
-- [India floods: at least 25 dead after heavy rains spark landslides in Kerala](https://www.theguardian.com/world/2021/oct/18/india-floods-deaths-heavy-rains-landslides-kerala)
+- [The killing of MP David Amess](https://www.theguardian.com/news/audio/2021/oct/19/the-killing-of-mp-david-amess-podcast)
+- [New Zealand Covid cases rise to new record as young people bear brunt of infections](https://www.theguardian.com/world/2021/oct/19/new-zealand-covid-cases-rise-to-new-record-as-young-people-bear-brunt-of-infections)
+- [House explosion in Ayr puts four people in hospital](https://www.theguardian.com/uk-news/2021/oct/18/emergency-services-at-scene-of-suspected-house-explosion-in-ayr)
+- [British households will be £1,000 worse off next year, thinktank warns](https://www.theguardian.com/money/2021/oct/19/british-households-will-be-1000-worse-off-next-year-thinktank-warns)
+- [More than a third of UK music industry workers lost jobs in 2020](https://www.theguardian.com/business/2021/oct/19/more-than-a-third-of-uk-music-industry-workers-lost-jobs-2020-covid)
+- [Grenfell: Value Engineering review – gruelling, unfinished tragedy](https://www.theguardian.com/stage/2021/oct/19/grenfell-value-engineering-review-gruelling-unfinished-tragedy)
+- [Tesco takes on Amazon Go with launch of ‘just walk out’ store](https://www.theguardian.com/business/2021/oct/19/tesco-takes-on-amazon-go-with-launch-of-just-walk-out-store)
+- [Army veteran on trial in Belfast over Troubles killing dies with Covid-19](https://www.theguardian.com/uk-news/2021/oct/18/army-veteran-trial-belfast-over-troubles-killing-dies-covid-19)
+- [Lacazette saves Arsenal with last-gasp equaliser to deny Vieira’s Crystal Palace](https://www.theguardian.com/football/2021/oct/18/arsenal-crystal-palace-premier-league-match-report)
+- [Vunipola brothers and Jamie George left out of England’s autumn Test series](https://www.theguardian.com/sport/2021/oct/18/england-rugby-squad-autumn-test-series-farrell-vunipola-george)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

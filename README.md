@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [JNUC 21 brings major security and deployment improvements to Apple enterprise](https://www.computerworld.com/article/3637059/jnuc-21-brings-major-security-and-deployment-improvements-to-apple-enterprise.html#tk.rss_all)
+- [Zoho One suite expands to more than 50 apps](https://www.computerworld.com/article/3636984/zoho-one-suite-expands-more-than-50-apps.html#tk.rss_all)
+- [Just who is Windows 11 for, anyway?](https://www.computerworld.com/article/3637054/just-who-is-windows-11-for-anyway.html#tk.rss_all)
+- [How to keep your workers (so you don’t have to replace them)](https://www.computerworld.com/article/3637051/how-to-keep-your-workers-so-you-don-t-have-to-replace-them.html#tk.rss_all)
 - [Apple’s new MacBook Pros leapfrog the competition](https://www.computerworld.com/article/3636978/apples-new-macbook-pros-leapfrog-the-competition.html#tk.rss_all)
+- [BrandPost: Build for the Real World: Supercharge Your Next Refresh with AMD](https://www.computerworld.com/article/3637015/build-for-the-real-world-supercharge-your-next-refresh-with-amd.html#tk.rss_all)
 - [As Google moves to reshape Workspace, barriers to business adoption remain](https://www.computerworld.com/article/3637079/as-google-moves-to-reshape-workspace-barriers-to-business-adoption-remain.html#tk.rss_all)
 - [Four zero-day exploits add urgency to October's Patch Tuesday](https://www.computerworld.com/article/3637013/four-zero-day-exploits-add-urgency-to-octobers-patch-tuesday.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Experts call Apple's CSAM scheme 'a dangerous technology'](https://www.computerworld.com/article/3637076/experts-call-apples-csam-scheme-a-dangerous-technology.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [Make your own promotional videos the easy way](https://www.computerworld.com/article/3637011/make-your-own-promotional-videos-the-easy-way.html#tk.rss_all)
-- [Windows 11 and the need for better BIOS integration](https://www.computerworld.com/article/3637009/windows-11-and-the-need-for-better-bios-integration.html#tk.rss_all)
-- [Podcast: Apple's 'Unleashed' event preview: 14- and 16-in. MacBook Pros with Apple Silicon](https://www.computerworld.com/article/3636994/podcast-apples-unleashed-event-preview-14-and-16-in-macbook-pros-with-apple-silicon.html#tk.rss_all)
-- [Apple needs to introduce an iCloud business suite for the enterprise](https://www.computerworld.com/article/3637110/apple-needs-to-introduce-an-icloud-business-suite-for-the-enterprise.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

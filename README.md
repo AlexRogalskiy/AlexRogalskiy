@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
-- [Hazel Scott: The Gorgeous Face of Jazz at the Mid-Century](https://blogs.loc.gov/loc/2021/10/hazel-scott-the-gorgeous-face-of-jazz-at-the-mid-century/)
-- [Dropbox's persistent account upgrade prompt](https://www.reallygoodux.io/blog/dropbox-premium-upgrade-prompt)
-- [Inspiring UX, straight to your inbox](https://www.reallygoodux.io/)
-- [Why Nano](https://benkaiser.dev/nano/)
-- [Weave S-1 (YC W14)](https://sec.report/Document/0001628280-21-020169/weaves-1.htm)
-- [The nuclear proliferator who was never indicted](https://www.thehindu.com/opinion/the-nuclear-proliferator-who-was-never-indicted/article37061556.ece)
-- [Intel Unveiling 12th Gen Alder Lake Unlocked Desktop CPUs and Z690 Platform](https://wccftech.com/intel-officially-launches-12th-gen-alder-lake-unlocked-cpus-z690-platform-on-4th-november-unveiling-next-week/)
-- [A (fictional) British 1980's nuclear attack warning on TV](https://www.youtube.com/watch?v=zhgJG__IkyY)
-- [Upsell Prompts](https://www.reallygoodux.io/categories/upsell-prompts)
+- [Who Are the World’s Biggest Climate Polluters? Satellites Sweep for Culprits](https://www.wsj.com/articles/who-are-the-worlds-biggest-climate-polluters-satellites-sweep-for-culprits-11634635980)
+- [Rep.Porter notes Johnson&Johnson split to avoid fine for asbestos in baby powder](https://twitter.com/RepKatiePorter/status/1450522100758810626)
+- [World Model Learning and Inference](https://www.sciencedirect.com/science/article/pii/S0893608021003610)
+- [Ask HN: Why is touch typing reducing my speed](https://news.ycombinator.com/item?id=28925998)
+- [Vapor Storms Are Threatening People and Property](https://www.scientificamerican.com/article/vapor-storms-are-threatening-people-and-property/)
+- [A Farewell to Bioinformatics (2012)](https://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html)
+- [Surbana Jurong joins expert team to deliver Singapore-Australia solar power link](https://www.channelnewsasia.com/singapore/surbana-jurong-member-company-joins-expert-team-deliver-singapore-australia-solar-power-link-2256096)
+- [Texas schools are being told to teach ‘opposing views’ of the Holocaust. Why?](https://www.theguardian.com/commentisfree/2021/oct/19/texas-holocaust-curriculum-schools-hb-3979)
+- [Audio bunkum reaches its apogee](https://smackeyacky.blogspot.com/2021/10/unbelievable-audio-bunkum-reaches-its.html)
+- [A programming language most of declarative and imperative programming](https://github.com/pschachte/wybe)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

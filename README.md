@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bachelors Degree vs Certification ?](https://www.reddit.com/r/InformationTechnology/comments/qbo488/bachelors_degree_vs_certification/)
+- [How to give EXACT answers about which commands you use most frequently to others](https://www.reddit.com/r/InformationTechnology/comments/qbnymi/how_to_give_exact_answers_about_which_commands/)
+- [Personal Growth and Education Suggestions](https://www.reddit.com/r/InformationTechnology/comments/qbnpmi/personal_growth_and_education_suggestions/)
+- [Find my BBRAS](https://www.reddit.com/r/InformationTechnology/comments/qbiweu/find_my_bbras/)
+- [SSO for a fully remote game development company](https://www.reddit.com/r/InformationTechnology/comments/qbivml/sso_for_a_fully_remote_game_development_company/)
+- [Rookie in IT. Is it normal to feel this stupid?](https://www.reddit.com/r/InformationTechnology/comments/qbfzpb/rookie_in_it_is_it_normal_to_feel_this_stupid/)
+- [SaaS Systems Documentation](https://www.reddit.com/r/InformationTechnology/comments/qbeyhz/saas_systems_documentation/)
+- [“Home projects?”](https://www.reddit.com/r/InformationTechnology/comments/qbc2bs/home_projects/)
 - [umass lowell University](https://www.reddit.com/r/InformationTechnology/comments/qb1npc/umass_lowell_university/)
 - [BYOD Policy](https://www.reddit.com/r/InformationTechnology/comments/qav4qj/byod_policy/)
-- [How can I fix this problem?](https://www.reddit.com/r/InformationTechnology/comments/qaj6yy/how_can_i_fix_this_problem/)
-- [Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qab9xu/degree_in_it/)
-- [Getting Certifications or get a Degree?](https://www.reddit.com/r/InformationTechnology/comments/qa7r29/getting_certifications_or_get_a_degree/)
-- [Help, 21F, continue school or take job offer](https://www.reddit.com/r/InformationTechnology/comments/qa4c3c/help_21f_continue_school_or_take_job_offer/)
-- [How to Install and Configure Azure Azure AD Connect for Sync with Active Directories](https://www.reddit.com/r/InformationTechnology/comments/qa22c0/how_to_install_and_configure_azure_azure_ad/)
-- [is information technology good for me ?](https://www.reddit.com/r/InformationTechnology/comments/qa0pem/is_information_technology_good_for_me/)
-- [Google Admin](https://www.reddit.com/r/InformationTechnology/comments/q9yeg6/google_admin/)
-- [Resources for learning about Office 365 Troubleshooting techniques](https://www.reddit.com/r/InformationTechnology/comments/q9sgt8/resources_for_learning_about_office_365/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

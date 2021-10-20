@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_all)
+- [Google Cloud tools aim to ease machine-learning, cross-cloud analytics](https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html#tk.rss_all)
+- [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_all)
+- [3 things to add to your 2022 cloud to-do list](https://www.infoworld.com/article/3636974/3-things-to-add-to-your-2022-cloud-to-do-list.html#tk.rss_all)
+- [Kubernetes object storage best practices](https://www.infoworld.com/article/3635148/kubernetes-object-storage-best-practices.html#tk.rss_all)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
 - [The best open source software of 2021](https://www.infoworld.com/article/3637038/the-best-open-source-software-of-2021.html#tk.rss_all)
 - [Google gets boring](https://www.infoworld.com/article/3637014/google-gets-boring.html#tk.rss_all)
 - [3 ways to use data, analytics, and machine learning in test automation](https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Red Hat OpenStack tightens OpenShift Kubernetes integration](https://www.infoworld.com/article/3637080/red-hat-openstack-tightens-openshift-kubernetes-integration.html#tk.rss_all)
-- [How to become a cloud architecture generalist](https://www.infoworld.com/article/3636516/how-to-become-a-cloud-architecture-generalist.html#tk.rss_all)
-- [TypeScript adds ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-adds-esm-support-for-nodejs.html#tk.rss_all)
-- [Python stands to lose its GIL, and gain a lot of speed](https://www.infoworld.com/article/3637073/python-stands-to-lose-its-gil-and-gain-a-lot-of-speed.html#tk.rss_all)
-- [Visual Studio Code adds split editor capability](https://www.infoworld.com/article/3637034/visual-studio-code-adds-split-editor-capability.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

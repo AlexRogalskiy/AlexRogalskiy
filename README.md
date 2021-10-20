@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Should a Top IT Performer Be Allowed to Hold Multiple Organization Roles?](https://www.informationweek.com/team-building-and-staffing/should-a-top-it-performer-be-allowed-to-hold-multiple-organization-roles-)
+- [How CIOs Can Grow and Spend Political Capital to Achieve Executive Impact](https://www.informationweek.com/executive-insights-and-innovation/how-cios-can-grow-and-spend-political-capital-to-achieve-executive-impact)
 - [Tech Vendors Target Enterprise ESG Reporting](https://www.informationweek.com/information-management/tech-vendors-target-enterprise-esg-reporting)
 - [Enabling Citizen Data Scientists to Reach Their Full Potential](https://www.informationweek.com/team-building-and-staffing/enabling-citizen-data-scientists-to-reach-their-full-potential)
 - [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
@@ -369,8 +371,6 @@
 - [RPA Deals Heat Up Amid Faster Digital Transformation Pushes](https://www.informationweek.com/software-platforms/rpa-deals-heat-up-amid-faster-digital-transformation-pushes)
 - [Modern App Dev: An Enterprise Guide](https://www.informationweek.com/devops/modern-app-dev-an-enterprise-guide)
 - [Google Cloud Next Paints Digital Landscape Where Data and AI Meet](https://www.informationweek.com/cloud/google-cloud-next-paints-digital-landscape-where-data-and-ai-meet)
-- [Stop Using AI and ML Interchangeably](https://www.informationweek.com/ai-or-machine-learning/stop-using-ai-and-ml-interchangeably)
-- [How to Build a Strong and Effective Data Retention Policy](https://www.informationweek.com/big-data/how-to-build-a-strong-and-effective-data-retention-policy)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

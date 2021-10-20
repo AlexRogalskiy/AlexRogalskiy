@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Back on the office network: What are the risks for mobile users?](https://www.computerweekly.com/feature/Back-on-the-office-network-What-are-the-risks-for-mobile-users)
+- [Government flags opportunity for re-use of waste datacentre heat in net-zero strategy](https://www.computerweekly.com/news/252508339/Government-flags-opportunity-for-re-use-of-waste-datacentre-heat-in-net-zero-strategy)
+- [Zopa becomes unicorn with latest funds to go to bank operation](https://www.computerweekly.com/news/252508323/Zopa-becomes-unicorn-with-latest-funds-to-go-to-bank-operation)
+- [What will the 2025 end of life mean for enterprise Windows 10?](https://www.computerweekly.com/news/252508310/What-will-the-2025-end-of-life-mean-for-enterprise-Windows-10)
+- [Making the case for and against police use of facial recognition technology](https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology)
+- [Making machine learning operational](https://www.computerweekly.com/news/252508275/Making-machine-learning-operational)
+- [Want to to sidestep public cloud? AuriStor offers global file storage](https://www.computerweekly.com/news/252508308/Want-to-to-sidestep-public-cloud-AuriStor-offers-global-file-storage)
 - [Government launches consultation on future of medical devices](https://www.computerweekly.com/news/252508274/Government-launches-consultation-on-future-of-medical-devices)
 - [How Samlesbury, Lancashire became the home of the National Cyber Force](https://www.computerweekly.com/news/252508268/How-Samlesbury-Lancashire-became-the-home-of-the-National-Cyber-Force)
 - [No easy fix for vulnerability exploitation, so be prepared](https://www.computerweekly.com/opinion/No-easy-fix-for-vulnerability-exploitation-so-be-prepared)
-- [How companies are rethinking digital customer experience in wake of pandemic](https://www.computerweekly.com/feature/How-companies-are-rethinking-digital-customer-experience-in-wake-of-pandemic)
-- [Argos topped online sales for sports and outdoor gear in 2020](https://www.computerweekly.com/news/252508211/Argos-topped-online-sales-for-sports-and-outdoor-gear-in-2020)
-- [Manchester City teams up with Qualtrics for fan experience management](https://www.computerweekly.com/news/252508207/Manchester-City-teams-up-with-Qualtrics-for-fan-experience-management)
-- [Global IT outsourcing sees record spending and no sign of slowing](https://www.computerweekly.com/news/252508205/Global-IT-outsourcing-sees-record-spending-and-no-sign-of-slowing)
-- [Doing the right thing: How CISOs should approach responsible disclosure](https://www.computerweekly.com/opinion/Doing-the-right-thing-How-CISOs-should-approach-responsible-disclosure)
-- [Apple scheme to detect child abuse creates serious privacy and security risks, say scientists](https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists)
-- [NXP Semiconductors doubles down on datacentre migration plan with AWS](https://www.computerweekly.com/news/252508162/NXP-Semiconductors-doubles-down-on-datacentre-migration-plan-with-AWS)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The killing of MP David Amess](https://www.theguardian.com/news/audio/2021/oct/19/the-killing-of-mp-david-amess-podcast)
-- [New Zealand Covid cases rise to new record as young people bear brunt of infections](https://www.theguardian.com/world/2021/oct/19/new-zealand-covid-cases-rise-to-new-record-as-young-people-bear-brunt-of-infections)
-- [House explosion in Ayr puts four people in hospital](https://www.theguardian.com/uk-news/2021/oct/18/emergency-services-at-scene-of-suspected-house-explosion-in-ayr)
-- [British households will be £1,000 worse off next year, thinktank warns](https://www.theguardian.com/money/2021/oct/19/british-households-will-be-1000-worse-off-next-year-thinktank-warns)
-- [More than a third of UK music industry workers lost jobs in 2020](https://www.theguardian.com/business/2021/oct/19/more-than-a-third-of-uk-music-industry-workers-lost-jobs-2020-covid)
-- [Grenfell: Value Engineering review – gruelling, unfinished tragedy](https://www.theguardian.com/stage/2021/oct/19/grenfell-value-engineering-review-gruelling-unfinished-tragedy)
-- [Tesco takes on Amazon Go with launch of ‘just walk out’ store](https://www.theguardian.com/business/2021/oct/19/tesco-takes-on-amazon-go-with-launch-of-just-walk-out-store)
-- [Army veteran on trial in Belfast over Troubles killing dies with Covid-19](https://www.theguardian.com/uk-news/2021/oct/18/army-veteran-trial-belfast-over-troubles-killing-dies-covid-19)
-- [Lacazette saves Arsenal with last-gasp equaliser to deny Vieira’s Crystal Palace](https://www.theguardian.com/football/2021/oct/18/arsenal-crystal-palace-premier-league-match-report)
-- [Vunipola brothers and Jamie George left out of England’s autumn Test series](https://www.theguardian.com/sport/2021/oct/18/england-rugby-squad-autumn-test-series-farrell-vunipola-george)
+- [Cop 26: a question of degrees – what a hotter planet means for all of us](https://www.theguardian.com/news/audio/2021/oct/20/cop-26-a-question-of-degrees-what-a-hotter-planet-means-for-all-of-us-podcast)
+- [‘Climate change is hitting us’: French beekeepers expect worst honey harvest in half a century](https://www.theguardian.com/environment/2021/oct/20/france-honey-worst-harvest-climate-change)
+- [‘The US has a long reach’: a legal expert on how Succession’s Logan Roy could avoid extradition](https://www.theguardian.com/tv-and-radio/2021/oct/19/succession-season-3-extradition-bosnia)
+- [Floating props and little sleep: Russians describe filming world’s first movie in space](https://www.theguardian.com/world/2021/oct/20/floating-props-and-little-sleep-russians-describe-filming-worlds-first-movie-in-space)
+- [North Korea says test was new type of submarine-launched ballistic missile](https://www.theguardian.com/world/2021/oct/20/north-korea-says-test-was-new-type-of-submarine-launched-ballistic-missile)
+- [House Capitol attack committee votes to recommend Steve Bannon prosecution](https://www.theguardian.com/us-news/2021/oct/19/capitol-attack-committee-prosecution-steve-bannon-trump)
+- [IAEA chief: Aukus could set precedent for pursuit of nuclear submarines](https://www.theguardian.com/world/2021/oct/19/iaea-aukus-deal-nuclear-submarines)
+- [Implement ‘plan B’ winter measures now or risk NHS crisis, Johnson warned](https://www.theguardian.com/world/2021/oct/19/implement-plan-b-winter-measures-now-or-risk-nhs-crisis-johnson-warned)
+- [Manchester airport’s Terminal 2 reopens after reports of suspicious package](https://www.theguardian.com/uk-news/2021/oct/19/manchester-airport-evacuated-after-reports-of-suspicious-package)
+- [FCA to warn younger investors off cryptos and other high-risk products](https://www.theguardian.com/technology/2021/oct/20/fca-to-warn-younger-investors-off-cryptos-and-other-high-risk-products)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

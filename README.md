@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SigNoz (YC W21) Is Hiring a senior back-end engineer](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
-- [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
-- [Backblaze S-1 IPO](https://www.sec.gov/Archives/edgar/data/1462056/000119312521301141/d62601ds1.htm)
-- [First federal grant for psychedelic treatment research in 50 years](https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years)
-- [The Myth of Self-Documenting Code](https://buttondown.email/hillelwayne/archive/the-myth-of-self-documenting-code/)
-- [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
-- [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
-- [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
-- [Mach Engine: The Future of Graphics (With Zig)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig)
-- [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
+- [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
+- [New Optical Switch Up to 1000x Faster Than Transistors](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
+- [Overly analytical guide to escorting](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
+- [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
+- [Outdated, vulnerable open source components shipped with Windows 10 and 11](https://seclists.org/fulldisclosure/2021/Oct/17)
+- [Version Control for Structure Editing](https://alarmingdevelopment.org/?p=1570)
+- [Five things we still don’t know about water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
+- [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
+- [The FDA wants you to be able to buy a hearing aid without a prescription](https://www.npr.org/2021/10/19/1047303559/fda-hearing-aid-prescription-over-the-counter)
+- [Study: Recycled Lithium Batteries as Good as Newly Mined](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

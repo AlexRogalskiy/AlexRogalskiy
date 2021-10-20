@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Most organizations still lack the basics to fight ransomware: Vendor](https://www.itworldcanada.com/article/most-organizations-still-lack-the-basics-to-fight-ransomware-vendor/461772)
+- [Citrix partners with Google Cloud to launch desktop-as-a-service for hybrid workers](https://www.itworldcanada.com/article/citrix-partners-with-google-cloud-to-launch-desktop-as-a-service-for-hybrid-workers/461845)
+- [REvil down again, this time for the count?](https://www.itworldcanada.com/article/revil-down-again-this-time-for-the-count/461756)
+- [Coffee Briefing, Oct. 19, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-19-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/461747)
+- [Hashtag Trending Oct. 19- Google CEO on the climate crisis; Facebook disputes AI claim; New MacBook Pro](https://www.itworldcanada.com/article/hashtag-trending-oct-19-google-ceo-on-the-climate-crisis-facebook-disputes-ai-claim-new-macbook-pro/461740)
 - [Cyber Security Today, Oct, 18, 2021 – Ransomware payments may have totalled hundreds of millions in US, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-18-2021-ransomware-payments-may-have-totalled-hundreds-of-millions-in-us-and-more/461555)
 - [Hashtag Trending Oct. 18 – Starlink to provide in-flight Wi-Fi; Canon disabling printers; ransomware attacks cost billions](https://www.itworldcanada.com/article/hashtag-trending-oct-18-starlink-to-provide-in-flight-wi-fi-canon-disabling-printers-ransomware-attacks-cost-billions/461638)
 - [Cyber Security Today, Week in Review for Friday, Oct. 15, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-oct-15-2021/460963)
 - [This is the biggest concern for Canadian IT leaders now](https://www.itworldcanada.com/article/this-is-the-biggest-concern-for-canadian-it-leaders-now/461302)
 - [Accelerator program to help Western Canada’s Black entrepreneurs](https://www.itworldcanada.com/article/accelerator-program-to-help-western-canadas-black-entrepreneurs/461005)
-- [Countries agree to ‘urgent action’ on ransomware, but issue few specifics](https://www.itworldcanada.com/article/countries-agree-to-urgent-action-on-ransomware-but-issue-few-specifics/460968)
-- [Dell announces Latitude 5430 and 7330 Extreme rugged PCs](https://www.itworldcanada.com/article/dell-announces-latitude-5430-and-7330-extreme-rugged-pcs/461164)
-- [Google announces sustainability initiatives](https://www.itworldcanada.com/article/google-announces-sustainability-initiatives/460905)
-- [Cyber Security Today, Oct. 15, 2021 – Canadian researchers find Windows bugs, watch for fake URLs and more](https://www.itworldcanada.com/article/cyber-security-today-oct-15-2021-canadian-researchers-find-windows-bugs-watch-for-fake-urls-and-more/461004)
-- [Hashtag Trending Oct. 15 – No more LinkedIn in China; Windows 11 patch slows AMD processors; U.S. now biggest bitcoin mining hub](https://www.itworldcanada.com/article/hashtag-trending-oct-15-no-more-linkedin-in-china-windows-11-patch-slows-amd-processors-u-s-now-biggest-bitcoin-mining-hub/461002)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

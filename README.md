@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Gartner: Top Predictions for IT Organizations and Users for 2022 and Beyond](https://www.informationweek.com/executive-insights-and-innovation/gartner-top-predictions-for-it-organizations-and-users-for-2022-and-beyond)
+- [Facebook’s Teachable Moment](https://www.informationweek.com/security-and-risk-strategy/facebook-s-teachable-moment)
 - [Should a Top IT Performer Be Allowed to Hold Multiple Organization Roles?](https://www.informationweek.com/team-building-and-staffing/should-a-top-it-performer-be-allowed-to-hold-multiple-organization-roles-)
 - [How CIOs Can Grow and Spend Political Capital to Achieve Executive Impact](https://www.informationweek.com/executive-insights-and-innovation/how-cios-can-grow-and-spend-political-capital-to-achieve-executive-impact)
 - [Tech Vendors Target Enterprise ESG Reporting](https://www.informationweek.com/information-management/tech-vendors-target-enterprise-esg-reporting)
@@ -369,8 +371,6 @@
 - [KubeCon + CloudNativeCon Highlights Security for Open Source](https://www.informationweek.com/cloud/kubecon-cloudnativecon-highlights-security-for-open-source)
 - [What Product Teams Can Learn from DevOps Principles](https://www.informationweek.com/devops/what-product-teams-can-learn-from-devops-principles)
 - [RPA Deals Heat Up Amid Faster Digital Transformation Pushes](https://www.informationweek.com/software-platforms/rpa-deals-heat-up-amid-faster-digital-transformation-pushes)
-- [Modern App Dev: An Enterprise Guide](https://www.informationweek.com/devops/modern-app-dev-an-enterprise-guide)
-- [Google Cloud Next Paints Digital Landscape Where Data and AI Meet](https://www.informationweek.com/cloud/google-cloud-next-paints-digital-landscape-where-data-and-ai-meet)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

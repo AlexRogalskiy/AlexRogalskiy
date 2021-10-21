@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop 26: a question of degrees – what a hotter planet means for all of us](https://www.theguardian.com/news/audio/2021/oct/20/cop-26-a-question-of-degrees-what-a-hotter-planet-means-for-all-of-us-podcast)
-- [‘Climate change is hitting us’: French beekeepers expect worst honey harvest in half a century](https://www.theguardian.com/environment/2021/oct/20/france-honey-worst-harvest-climate-change)
-- [‘The US has a long reach’: a legal expert on how Succession’s Logan Roy could avoid extradition](https://www.theguardian.com/tv-and-radio/2021/oct/19/succession-season-3-extradition-bosnia)
-- [Floating props and little sleep: Russians describe filming world’s first movie in space](https://www.theguardian.com/world/2021/oct/20/floating-props-and-little-sleep-russians-describe-filming-worlds-first-movie-in-space)
-- [North Korea says test was new type of submarine-launched ballistic missile](https://www.theguardian.com/world/2021/oct/20/north-korea-says-test-was-new-type-of-submarine-launched-ballistic-missile)
-- [House Capitol attack committee votes to recommend Steve Bannon prosecution](https://www.theguardian.com/us-news/2021/oct/19/capitol-attack-committee-prosecution-steve-bannon-trump)
-- [IAEA chief: Aukus could set precedent for pursuit of nuclear submarines](https://www.theguardian.com/world/2021/oct/19/iaea-aukus-deal-nuclear-submarines)
-- [Implement ‘plan B’ winter measures now or risk NHS crisis, Johnson warned](https://www.theguardian.com/world/2021/oct/19/implement-plan-b-winter-measures-now-or-risk-nhs-crisis-johnson-warned)
-- [Manchester airport’s Terminal 2 reopens after reports of suspicious package](https://www.theguardian.com/uk-news/2021/oct/19/manchester-airport-evacuated-after-reports-of-suspicious-package)
-- [FCA to warn younger investors off cryptos and other high-risk products](https://www.theguardian.com/technology/2021/oct/20/fca-to-warn-younger-investors-off-cryptos-and-other-high-risk-products)
+- [Face off: the government versus GPs](https://www.theguardian.com/news/audio/2021/oct/21/face-off-the-government-versus-gps)
+- [Singapore hospitals risk being ‘overwhelmed’ after record daily Covid deaths](https://www.theguardian.com/world/2021/oct/21/singapore-hospitals-risk-being-overwhelmed-after-record-daily-covid-deaths)
+- [Third of Pacific islands unable to attend Cop26, sparking fears summit will be less ambitious](https://www.theguardian.com/world/2021/oct/21/third-of-pacific-islands-unable-to-attend-cop26-sparking-fears-summit-will-be-less-ambitious)
+- [Tesla reports record quarterly earnings despite global supply chain meltdown](https://www.theguardian.com/technology/2021/oct/20/tesla-third-quarter-net-earnings-global-supply-chain)
+- [Biden’s pick for China ambassador says ‘we cannot trust the Chinese’ on Taiwan](https://www.theguardian.com/us-news/2021/oct/21/bidens-pick-for-china-ambassador-says-we-cannot-trust-the-chinese-on-taiwan)
+- [Government taskforce to tackle sharp rise in scams during pandemic](https://www.theguardian.com/uk-news/2021/oct/20/45-million-people-in-uk-received-scam-texts-or-calls-in-last-three-months)
+- [Expect 18 more months of rising energy bills, UK householders warned](https://www.theguardian.com/business/2021/oct/21/expect-18-more-months-of-rising-energy-bills-uk-householders-warned)
+- [Cuts to overseas aid thwart UK efforts to fight Covid pandemic](https://www.theguardian.com/world/2021/oct/21/cuts-to-overseas-aid-thwart-uk-efforts-to-fight-covid-pandemic)
+- [Ten projects chosen for ‘once-in-a-lifetime’ UK festival of creativity](https://www.theguardian.com/culture/2021/oct/21/ten-projects-chosen-for-unboxed-creativity-in-the-uk-festival)
+- [‘It will take a while’: Chelsea face striker shortage as Lukaku and Werner limp off](https://www.theguardian.com/football/2021/oct/20/chelsea-face-striker-shortage-after-injuries-to-lukaku-and-werner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

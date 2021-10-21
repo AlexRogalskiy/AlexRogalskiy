@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Not getting any responses to job submissions. Could it be my resume?](https://www.reddit.com/r/InformationTechnology/comments/qce4ig/not_getting_any_responses_to_job_submissions/)
+- [How much should I be making? I work as IT analyst and IT project coordinator](https://www.reddit.com/r/InformationTechnology/comments/qc16lj/how_much_should_i_be_making_i_work_as_it_analyst/)
+- [SaaS/System Audit Template](https://www.reddit.com/r/InformationTechnology/comments/qc09lw/saassystem_audit_template/)
+- [Workplace Diversity Within The Information Technology Professions](https://www.reddit.com/r/InformationTechnology/comments/qbzzws/workplace_diversity_within_the_information/)
+- [Should I use ElasticSearch or MongoDB for such documents for the given purpose?](https://www.reddit.com/r/InformationTechnology/comments/qbvnfk/should_i_use_elasticsearch_or_mongodb_for_such/)
 - [Bachelors Degree vs Certification ?](https://www.reddit.com/r/InformationTechnology/comments/qbo488/bachelors_degree_vs_certification/)
 - [How to give EXACT answers about which commands you use most frequently to others](https://www.reddit.com/r/InformationTechnology/comments/qbnymi/how_to_give_exact_answers_about_which_commands/)
 - [Personal Growth and Education Suggestions](https://www.reddit.com/r/InformationTechnology/comments/qbnpmi/personal_growth_and_education_suggestions/)
 - [Find my BBRAS](https://www.reddit.com/r/InformationTechnology/comments/qbiweu/find_my_bbras/)
 - [SSO for a fully remote game development company](https://www.reddit.com/r/InformationTechnology/comments/qbivml/sso_for_a_fully_remote_game_development_company/)
-- [Rookie in IT. Is it normal to feel this stupid?](https://www.reddit.com/r/InformationTechnology/comments/qbfzpb/rookie_in_it_is_it_normal_to_feel_this_stupid/)
-- [SaaS Systems Documentation](https://www.reddit.com/r/InformationTechnology/comments/qbeyhz/saas_systems_documentation/)
-- [“Home projects?”](https://www.reddit.com/r/InformationTechnology/comments/qbc2bs/home_projects/)
-- [umass lowell University](https://www.reddit.com/r/InformationTechnology/comments/qb1npc/umass_lowell_university/)
-- [BYOD Policy](https://www.reddit.com/r/InformationTechnology/comments/qav4qj/byod_policy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

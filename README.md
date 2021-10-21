@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Back on the office network: What are the risks for mobile users?](https://www.computerweekly.com/feature/Back-on-the-office-network-What-are-the-risks-for-mobile-users)
-- [Government flags opportunity for re-use of waste datacentre heat in net-zero strategy](https://www.computerweekly.com/news/252508339/Government-flags-opportunity-for-re-use-of-waste-datacentre-heat-in-net-zero-strategy)
-- [Zopa becomes unicorn with latest funds to go to bank operation](https://www.computerweekly.com/news/252508323/Zopa-becomes-unicorn-with-latest-funds-to-go-to-bank-operation)
-- [What will the 2025 end of life mean for enterprise Windows 10?](https://www.computerweekly.com/news/252508310/What-will-the-2025-end-of-life-mean-for-enterprise-Windows-10)
-- [Making the case for and against police use of facial recognition technology](https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology)
-- [Making machine learning operational](https://www.computerweekly.com/news/252508275/Making-machine-learning-operational)
-- [Want to to sidestep public cloud? AuriStor offers global file storage](https://www.computerweekly.com/news/252508308/Want-to-to-sidestep-public-cloud-AuriStor-offers-global-file-storage)
-- [Government launches consultation on future of medical devices](https://www.computerweekly.com/news/252508274/Government-launches-consultation-on-future-of-medical-devices)
-- [How Samlesbury, Lancashire became the home of the National Cyber Force](https://www.computerweekly.com/news/252508268/How-Samlesbury-Lancashire-became-the-home-of-the-National-Cyber-Force)
-- [No easy fix for vulnerability exploitation, so be prepared](https://www.computerweekly.com/opinion/No-easy-fix-for-vulnerability-exploitation-so-be-prepared)
+- [UK government launches information assurance unit for defence](https://www.computerweekly.com/news/252508403/UK-government-launches-information-assurance-unit-for-defence)
+- [UK government allocates £17.5m to farming innovation programme](https://www.computerweekly.com/news/252508406/UK-government-allocates-175m-to-farming-innovation-programme)
+- [A Computer Weekly buyer’s guide to sustainable datacentres](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-sustainable-datacentres)
+- [Spectra Logic unveils Vail hybrid cloud storage virtualisation](https://www.computerweekly.com/news/252508023/Spectra-Logic-unveils-Vail-hybrid-cloud-storage-virtualisation)
+- [US intelligence agencies issue advisory on BlackMatter gang](https://www.computerweekly.com/news/252508402/US-intelligence-agencies-issue-advisory-on-BlackMatter-gang)
+- [Lloyds Bank closes more branches as customers migrate to digital channels](https://www.computerweekly.com/news/252508400/Lloyds-Bank-closes-more-branches-as-customers-migrate-to-digital-channels)
+- [LightBasin hackers breach 13 telcos in two years](https://www.computerweekly.com/news/252508391/LightBasin-hackers-breach-13-telcos-in-two-years)
+- [Oracle NetSuite embeds HSBC corporate banking services into ERP](https://www.computerweekly.com/news/252508386/Oracle-embeds-HSBC-corporate-banking-services-into-ERP)
+- [What does Saudi Arabia’s autonomous vehicle agenda mean to the rest of the world?](https://www.computerweekly.com/news/252508316/What-does-Saudi-Arabias-autonomous-vehicle-agenda-mean-to-the-rest-of-the-world)
+- [DWP IT chief outlines the challenges of establishing a Chief Data Office](https://www.computerweekly.com/news/252508371/DWP-IT-chief-outlines-the-challenges-of-establishing-a-chief-data-office)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

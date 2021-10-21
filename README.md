@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Who Are the World’s Biggest Climate Polluters? Satellites Sweep for Culprits](https://www.wsj.com/articles/who-are-the-worlds-biggest-climate-polluters-satellites-sweep-for-culprits-11634635980)
-- [Rep.Porter notes Johnson&Johnson split to avoid fine for asbestos in baby powder](https://twitter.com/RepKatiePorter/status/1450522100758810626)
-- [World Model Learning and Inference](https://www.sciencedirect.com/science/article/pii/S0893608021003610)
-- [Ask HN: Why is touch typing reducing my speed](https://news.ycombinator.com/item?id=28925998)
-- [Vapor Storms Are Threatening People and Property](https://www.scientificamerican.com/article/vapor-storms-are-threatening-people-and-property/)
-- [A Farewell to Bioinformatics (2012)](https://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html)
-- [Surbana Jurong joins expert team to deliver Singapore-Australia solar power link](https://www.channelnewsasia.com/singapore/surbana-jurong-member-company-joins-expert-team-deliver-singapore-australia-solar-power-link-2256096)
-- [Texas schools are being told to teach ‘opposing views’ of the Holocaust. Why?](https://www.theguardian.com/commentisfree/2021/oct/19/texas-holocaust-curriculum-schools-hb-3979)
-- [Audio bunkum reaches its apogee](https://smackeyacky.blogspot.com/2021/10/unbelievable-audio-bunkum-reaches-its.html)
-- [A programming language most of declarative and imperative programming](https://github.com/pschachte/wybe)
+- [FCC Official calls for ban on DJI drones](https://petapixel.com/2021/10/20/top-fcc-official-calls-for-ban-of-dji-drones-citing-national-security-risk/)
+- [Ask HN: Where Are the SEOs?](https://news.ycombinator.com/item?id=28939504)
+- [Trump announces plans to launch new social media platform called TRUTH Social](https://www.businessinsider.com/trump-announces-plans-for-new-social-media-site-in-2022-2021-10)
+- [Physics Experiment Reveals Formation of a New State of Matter](https://scitechdaily.com/physics-experiment-reveals-formation-of-a-new-state-of-matter-breaks-time-reversal-symmetry/)
+- [Social media’s ‘queer tax’ is exhausting, unfair, and unavoidable](https://thenextweb.com/news/social-medias-queer-tax-exhausting-unfair-unavoidable)
+- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
+- [Julian Schnabel – Self Portraits of Others](https://www.brantfoundation.org/exhibitions/self-portraits-of-others-2/)
+- [Servers are 'making more, working less' with robot waiters, restaurant CEO says](https://www.foxbusiness.com/technology/servers-making-more-working-less-robot-waiters-sergios)
+- [Keeping trolls out of the Caves of Qud community](https://www.gamesindustry.biz/articles/2021-09-07-keeping-trolls-out-of-the-caves-of-qud-community)
+- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

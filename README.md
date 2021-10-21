@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
-- [New Optical Switch Up to 1000x Faster Than Transistors](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
-- [Overly analytical guide to escorting](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
-- [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
-- [Outdated, vulnerable open source components shipped with Windows 10 and 11](https://seclists.org/fulldisclosure/2021/Oct/17)
-- [Version Control for Structure Editing](https://alarmingdevelopment.org/?p=1570)
-- [Five things we still don’t know about water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
-- [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
-- [The FDA wants you to be able to buy a hearing aid without a prescription](https://www.npr.org/2021/10/19/1047303559/fda-hearing-aid-prescription-over-the-counter)
-- [Study: Recycled Lithium Batteries as Good as Newly Mined](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined)
+- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
+- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
+- [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [Apple sends DMCA takedown for IP address](https://twitter.com/RayRedacted/status/1450712865552412675)
+- [Machu Picchu was built over major fault zones (2019)](https://www.science.org/content/article/machu-picchu-was-built-over-major-fault-zones-now-researchers-think-they-know-why)
+- [OWASP top 10 change visualization from 2004 to now](https://public.flourish.studio/visualisation/7574790/)
+- [Merge YJIT: an in-process JIT compiler](https://github.com/ruby/ruby/pull/4992)
+- [Exome sequencing and analysis of 450k UK Biobank participants](https://www.nature.com/articles/s41586-021-04103-z)
+- [DuckDuckGo as a TTY](https://duckduckgo.com/tty/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

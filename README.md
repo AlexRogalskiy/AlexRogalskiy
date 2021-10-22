@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FCC Official calls for ban on DJI drones](https://petapixel.com/2021/10/20/top-fcc-official-calls-for-ban-of-dji-drones-citing-national-security-risk/)
-- [Ask HN: Where Are the SEOs?](https://news.ycombinator.com/item?id=28939504)
-- [Trump announces plans to launch new social media platform called TRUTH Social](https://www.businessinsider.com/trump-announces-plans-for-new-social-media-site-in-2022-2021-10)
-- [Physics Experiment Reveals Formation of a New State of Matter](https://scitechdaily.com/physics-experiment-reveals-formation-of-a-new-state-of-matter-breaks-time-reversal-symmetry/)
-- [Social media’s ‘queer tax’ is exhausting, unfair, and unavoidable](https://thenextweb.com/news/social-medias-queer-tax-exhausting-unfair-unavoidable)
-- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
-- [Julian Schnabel – Self Portraits of Others](https://www.brantfoundation.org/exhibitions/self-portraits-of-others-2/)
-- [Servers are 'making more, working less' with robot waiters, restaurant CEO says](https://www.foxbusiness.com/technology/servers-making-more-working-less-robot-waiters-sergios)
-- [Keeping trolls out of the Caves of Qud community](https://www.gamesindustry.biz/articles/2021-09-07-keeping-trolls-out-of-the-caves-of-qud-community)
-- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
+- [Google for Creators](https://theseoboss.com/google-for-creators/)
+- [“We Need to Have This Knife Fight.” Facebook’s War Strategy vs. Apple's New iOS](https://bigtechnology.substack.com/p/we-need-to-have-this-knife-fight)
+- [Organizing online, Covid skeptics drive public health pros from their jobs](https://www.npr.org/2021/10/20/1047336966/organizing-on-social-media-covid-skeptics-drive-public-health-professionals-from)
+- [Science Has Entered a New Era of Alchemy. Good](https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/)
+- [Why no tusks? Poaching tips scales of elephant evolution](https://apnews.com/article/science-africa-environment-and-nature-elephants-mozambique-048e181c6dadc591b1f43c6e963f0f0e)
+- [Apple October 2020 Keynote but only when they say 5G (67 times total)](https://www.youtube.com/watch?v=LvT1ldIZt7g)
+- [AWS WAF's Dangerous Defaults](https://osamaelnaggar.com/blog/aws_waf_dangerous_defaults/)
+- [Small Modular Reactors](https://en.wikipedia.org/wiki/Small_modular_reactor)
+- [Fastmail Experiencing Outages](https://www.fastmailstatus.com/services/general)
+- [The genius who finally persuaded Boris Johnson to lock down](https://www.thetimes.co.uk/article/marc-warner-covid-genius-persuaded-pm-lockdown-2bfbgcg60)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

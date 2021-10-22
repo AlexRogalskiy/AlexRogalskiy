@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft previews Visual Studio Code for the Web](https://www.infoworld.com/article/3637869/microsoft-previews-visual-studio-code-for-the-web.html#tk.rss_all)
+- [Continuous integration with Docker and Jenkins](https://www.infoworld.com/article/3637829/continuous-integration-with-docker-and-jenkins.html#tk.rss_all)
+- [How to use IDisposable in ASP.NET Core](https://www.infoworld.com/article/3637150/how-to-use-idisposable-in-aspnet-core.html#tk.rss_all)
+- [Never look up tidyr’s pivot_wider or pivot_longer again!](https://www.infoworld.com/article/3637083/never-look-up-tidyrs-pivotwider-or-pivotlonger-again.html#tk.rss_all)
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [Azure updates AKS with new Kubernetes technologies](https://www.infoworld.com/article/3637002/azure-updates-aks-with-new-kubernetes-technologies.html#tk.rss_all)
 - [What is Kubernetes? Your next application platform](https://www.infoworld.com/article/3268073/what-is-kubernetes-your-next-application-platform.html#tk.rss_all)
 - [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_all)
 - [Google Cloud tools aim to ease machine-learning, cross-cloud analytics](https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html#tk.rss_all)
 - [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_all)
-- [3 things to add to your 2022 cloud to-do list](https://www.infoworld.com/article/3636974/3-things-to-add-to-your-2022-cloud-to-do-list.html#tk.rss_all)
-- [Kubernetes object storage best practices](https://www.infoworld.com/article/3635148/kubernetes-object-storage-best-practices.html#tk.rss_all)
-- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
-- [The best open source software of 2021](https://www.infoworld.com/article/3637038/the-best-open-source-software-of-2021.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

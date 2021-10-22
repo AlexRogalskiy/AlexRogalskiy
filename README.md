@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Face off: the government versus GPs](https://www.theguardian.com/news/audio/2021/oct/21/face-off-the-government-versus-gps)
-- [Singapore hospitals risk being ‘overwhelmed’ after record daily Covid deaths](https://www.theguardian.com/world/2021/oct/21/singapore-hospitals-risk-being-overwhelmed-after-record-daily-covid-deaths)
-- [Third of Pacific islands unable to attend Cop26, sparking fears summit will be less ambitious](https://www.theguardian.com/world/2021/oct/21/third-of-pacific-islands-unable-to-attend-cop26-sparking-fears-summit-will-be-less-ambitious)
-- [Tesla reports record quarterly earnings despite global supply chain meltdown](https://www.theguardian.com/technology/2021/oct/20/tesla-third-quarter-net-earnings-global-supply-chain)
-- [Biden’s pick for China ambassador says ‘we cannot trust the Chinese’ on Taiwan](https://www.theguardian.com/us-news/2021/oct/21/bidens-pick-for-china-ambassador-says-we-cannot-trust-the-chinese-on-taiwan)
-- [Government taskforce to tackle sharp rise in scams during pandemic](https://www.theguardian.com/uk-news/2021/oct/20/45-million-people-in-uk-received-scam-texts-or-calls-in-last-three-months)
-- [Expect 18 more months of rising energy bills, UK householders warned](https://www.theguardian.com/business/2021/oct/21/expect-18-more-months-of-rising-energy-bills-uk-householders-warned)
-- [Cuts to overseas aid thwart UK efforts to fight Covid pandemic](https://www.theguardian.com/world/2021/oct/21/cuts-to-overseas-aid-thwart-uk-efforts-to-fight-covid-pandemic)
-- [Ten projects chosen for ‘once-in-a-lifetime’ UK festival of creativity](https://www.theguardian.com/culture/2021/oct/21/ten-projects-chosen-for-unboxed-creativity-in-the-uk-festival)
-- [‘It will take a while’: Chelsea face striker shortage as Lukaku and Werner limp off](https://www.theguardian.com/football/2021/oct/20/chelsea-face-striker-shortage-after-injuries-to-lukaku-and-werner)
+- [The Korean debt crisis that inspired Squid Game’s dark dystopia](https://www.theguardian.com/news/audio/2021/oct/22/the-korean-debt-crisis-that-inspired-squid-games-dark-dystopia)
+- [Queen’s overnight hospital stay is her first in eight years](https://www.theguardian.com/uk-news/2021/oct/22/queens-overnight-hospital-stay-is-her-first-in-eight-years)
+- [Covid may have killed up to 180,000 health workers globally, WHO says](https://www.theguardian.com/world/2021/oct/22/covid-may-have-killed-up-to-180000-health-workers-globally-who-says)
+- [‘Sorry, a slight distraction’: Jacinda Ardern unruffled as earthquake interrupts press conference](https://www.theguardian.com/world/2021/oct/22/earthquake-shakes-new-zealand-parliament-during-jacinda-ardern-press-conference)
+- [Almost all Tory voters agree company tax avoidance morally wrong, poll finds](https://www.theguardian.com/news/2021/oct/21/almost-all-tory-voters-agree-company-tax-avoidance-morally-wrong-poll-finds)
+- [California family found dead on hike killed by extreme heat, sheriff says](https://www.theguardian.com/us-news/2021/oct/21/california-family-hike-cause-of-death)
+- [Lana Del Rey: Blue Banisters review – as perplexing as she is captivating](https://www.theguardian.com/music/2021/oct/22/lana-del-rey-blue-banisters-review)
+- [CBI warns Rishi Sunak he risks undercutting future green economy](https://www.theguardian.com/politics/2021/oct/22/cbi-warns-rishi-sunak-he-risks-undercutting-future-green-economy)
+- [NS&I green saving bonds go on sale with fixed 0.65% interest rate](https://www.theguardian.com/money/2021/oct/22/nsi-green-saving-bonds-go-on-sale-with-fixed-065-interest-rate)
+- [England and Wales court backlog crisis ‘to go on for several years’](https://www.theguardian.com/law/2021/oct/22/england-wales-court-backlog-covid-crisis-go-on-for-several-years)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

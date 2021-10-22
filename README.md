@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [DC Fintech Week Tackles Financial Inclusivity](https://www.informationweek.com/fintech/dc-fintech-week-tackles-financial-inclusivity)
+- [IT’s Pivotal Role in Customer Service](https://www.informationweek.com/digital-business/it-s-pivotal-role-in-customer-service)
 - [Gartner: Top Predictions for IT Organizations and Users for 2022 and Beyond](https://www.informationweek.com/executive-insights-and-innovation/gartner-top-predictions-for-it-organizations-and-users-for-2022-and-beyond)
 - [Facebook’s Teachable Moment](https://www.informationweek.com/security-and-risk-strategy/facebook-s-teachable-moment)
 - [Should a Top IT Performer Be Allowed to Hold Multiple Organization Roles?](https://www.informationweek.com/team-building-and-staffing/should-a-top-it-performer-be-allowed-to-hold-multiple-organization-roles-)
@@ -369,8 +371,6 @@
 - [Enabling Citizen Data Scientists to Reach Their Full Potential](https://www.informationweek.com/team-building-and-staffing/enabling-citizen-data-scientists-to-reach-their-full-potential)
 - [Mastering Analytics With DataOps And Data Fabrics](https://www.informationweek.com/big-data-analytics/mastering-analytics-with-dataops-and-data-fabrics)
 - [KubeCon + CloudNativeCon Highlights Security for Open Source](https://www.informationweek.com/cloud/kubecon-cloudnativecon-highlights-security-for-open-source)
-- [What Product Teams Can Learn from DevOps Principles](https://www.informationweek.com/devops/what-product-teams-can-learn-from-devops-principles)
-- [RPA Deals Heat Up Amid Faster Digital Transformation Pushes](https://www.informationweek.com/software-platforms/rpa-deals-heat-up-amid-faster-digital-transformation-pushes)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

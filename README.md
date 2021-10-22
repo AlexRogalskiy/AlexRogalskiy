@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Learn how to turn digital transformation promise into results](https://www.itworldcanada.com/article/learn-how-to-turn-digital-transformation-promise-into-results/462277)
+- [Lighthouse Labs to offer free JavaScript training to Canadians](https://www.itworldcanada.com/article/lighthouse-labs-to-offer-free-javascript-training-to-canadians/462270)
+- [Only a quarter of Canadian execs bring cyber, privacy teams into project planning: Survey](https://www.itworldcanada.com/article/only-a-quarter-of-canadian-execs-bring-cyber-privacy-teams-into-project-planning-survey/462229)
+- [Don’t be tripped up by zero trust myths](https://www.itworldcanada.com/article/dont-be-tripped-up-by-zero-trust-myths/462098)
+- [Hashtag Trending Oct. 21- Facebook’s Name Change; New Play Store Security Feature; Instagram Posts from Desktop](https://www.itworldcanada.com/article/hashtag-trending-oct-21-facebooks-name-change-new-play-store-security-feature-instagram-posts-from-desktop/462038)
 - [The number of non-business IoT devices is increasing on corporate networks: Survey](https://www.itworldcanada.com/article/the-number-of-non-business-iot-devices-is-increasing-on-corporate-networks-survey/461907)
 - [Google Pixel 6 and Pixel 6 Pro launch with homebrew Tensor chip](https://www.itworldcanada.com/article/google-pixel-6-and-pixel-6-pro-launch-with-homebrew-tensor-chip/461908)
 - [Apple’s new MacBook Pros use new fast big chips](https://www.itworldcanada.com/article/apples-new-macbook-pros-use-new-fast-big-chips/461774)
+- [Digital payments increasing globally: report](https://www.itworldcanada.com/article/digital-payments-increasing-globally-report/461936)
 - [Cyber Security Today, Oct. 20, 2021 – Administrators urged to update PowerShell, ransomware reports to read and a hacker gets seven years in prison](https://www.itworldcanada.com/article/cyber-security-today-oct-20-2021-administrators-urged-to-update-powershell-ransomware-reports-to-read-and-a-hacker-gets-seven-years-in-prison/461898)
-- [Hashtag Trending Oct. 20 – Google announces Pixel; Facebook settles with the DOJ; Amazon takes heat on competition practices](https://www.itworldcanada.com/article/hashtag-trending-oct-20-google-announces-pixel-facebook-settles-with-the-doj-amazon-takes-heat-on-competition-practices/461901)
-- [Most organizations still lack the basics to fight ransomware: Vendor](https://www.itworldcanada.com/article/most-organizations-still-lack-the-basics-to-fight-ransomware-vendor/461772)
-- [Citrix partners with Google Cloud to launch desktop-as-a-service for hybrid workers](https://www.itworldcanada.com/article/citrix-partners-with-google-cloud-to-launch-desktop-as-a-service-for-hybrid-workers/461845)
-- [REvil down again, this time for the count?](https://www.itworldcanada.com/article/revil-down-again-this-time-for-the-count/461756)
-- [Coffee Briefing, Oct. 19, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-19-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/461747)
-- [Trend Micro launches Cloud One cloud security platform in Canada](https://www.itworldcanada.com/article/trend-micro-launches-cloud-one-cloud-security-platform-in-canada/461938)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

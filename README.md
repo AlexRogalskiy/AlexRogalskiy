@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
-- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
-- [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
-- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [Apple sends DMCA takedown for IP address](https://twitter.com/RayRedacted/status/1450712865552412675)
-- [Machu Picchu was built over major fault zones (2019)](https://www.science.org/content/article/machu-picchu-was-built-over-major-fault-zones-now-researchers-think-they-know-why)
-- [OWASP top 10 change visualization from 2004 to now](https://public.flourish.studio/visualisation/7574790/)
-- [Merge YJIT: an in-process JIT compiler](https://github.com/ruby/ruby/pull/4992)
-- [Exome sequencing and analysis of 450k UK Biobank participants](https://www.nature.com/articles/s41586-021-04103-z)
-- [DuckDuckGo as a TTY](https://duckduckgo.com/tty/)
+- [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
+- [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
+- [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
+- [Recoll: A desktop full-text search tool](https://www.lesbonscomptes.com/recoll/)
+- [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
+- [New 16-inch MBP with M1 Max to feature High Power Mode for intensive workloads](https://www.macrumors.com/2021/10/21/new-macbook-pros-high-power-mode/)
+- [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
+- [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
+- [YouTube will be removed from Roku as of December 9th – existing users unaffected](https://9to5google.com/2021/10/21/youtube-will-be-removed-from-roku-as-of-december-9-existing-users-unaffected/)
+- [Let’s Talk about PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

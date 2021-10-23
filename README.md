@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Korean debt crisis that inspired Squid Game’s dark dystopia](https://www.theguardian.com/news/audio/2021/oct/22/the-korean-debt-crisis-that-inspired-squid-games-dark-dystopia)
-- [Queen’s overnight hospital stay is her first in eight years](https://www.theguardian.com/uk-news/2021/oct/22/queens-overnight-hospital-stay-is-her-first-in-eight-years)
-- [Covid may have killed up to 180,000 health workers globally, WHO says](https://www.theguardian.com/world/2021/oct/22/covid-may-have-killed-up-to-180000-health-workers-globally-who-says)
-- [‘Sorry, a slight distraction’: Jacinda Ardern unruffled as earthquake interrupts press conference](https://www.theguardian.com/world/2021/oct/22/earthquake-shakes-new-zealand-parliament-during-jacinda-ardern-press-conference)
-- [Almost all Tory voters agree company tax avoidance morally wrong, poll finds](https://www.theguardian.com/news/2021/oct/21/almost-all-tory-voters-agree-company-tax-avoidance-morally-wrong-poll-finds)
-- [California family found dead on hike killed by extreme heat, sheriff says](https://www.theguardian.com/us-news/2021/oct/21/california-family-hike-cause-of-death)
-- [Lana Del Rey: Blue Banisters review – as perplexing as she is captivating](https://www.theguardian.com/music/2021/oct/22/lana-del-rey-blue-banisters-review)
-- [CBI warns Rishi Sunak he risks undercutting future green economy](https://www.theguardian.com/politics/2021/oct/22/cbi-warns-rishi-sunak-he-risks-undercutting-future-green-economy)
-- [NS&I green saving bonds go on sale with fixed 0.65% interest rate](https://www.theguardian.com/money/2021/oct/22/nsi-green-saving-bonds-go-on-sale-with-fixed-065-interest-rate)
-- [England and Wales court backlog crisis ‘to go on for several years’](https://www.theguardian.com/law/2021/oct/22/england-wales-court-backlog-covid-crisis-go-on-for-several-years)
+- [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
+- [Ethiopian government airstrike on Tigray forces UN to abort flight in midair](https://www.theguardian.com/world/2021/oct/23/ethiopian-government-airstrike-on-tigray-forces-un-to-abort-flight-in-midair)
+- [UN fears new atrocity in Myanmar as troops gather in restive northern states](https://www.theguardian.com/world/2021/oct/23/un-fears-new-atrocity-in-myanmar-as-troops-gather-in-restive-northern-states)
+- [Alec Baldwin was given loaded weapon and told it was safe, court records show](https://www.theguardian.com/film/2021/oct/22/alec-baldwin-film-shooting-halyna-hutchins)
+- [Lyft admits it recorded 4,000 sexual assault claims in long-awaited report](https://www.theguardian.com/technology/2021/oct/22/lyft-sexual-assault-reports-uber-ridesharing)
+- [English cities to receive transport boost of almost £7bn in budget](https://www.theguardian.com/uk-news/2021/oct/23/english-cities-transport-budget-greater-manchester-west-midlands)
+- [Talking Horses: Luxembourg looks to stake Derby claim at Doncaster](https://www.theguardian.com/sport/blog/2021/oct/23/talking-horses-luxembourg-looks-to-stake-derby-claim-at-doncaster)
+- [Katie Archibald claims her second world omnium title with dominant display](https://www.theguardian.com/sport/2021/oct/22/katie-archibald-cycling-world-championship-roubaix-omnium)
+- [Former associate of Rudy Giuliani convicted over illegal campaign contributions](https://www.theguardian.com/us-news/2021/oct/22/lev-parnas-former-associate-rudy-giuliani-convicted-illegal-campaign-contributions)
+- [Have Sumatran fishing crews found the fabled Island of Gold?](https://www.theguardian.com/world/2021/oct/22/have-sumatran-fishing-crews-found-the-fabled-island-of-gold)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

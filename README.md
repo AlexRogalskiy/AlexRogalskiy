@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Acronis gets deeper into the Apple enterprise with Addigy partnership](https://www.computerworld.com/article/3637932/acronis-gets-deeper-into-apple-enterprise-with-addigy-integration.html#tk.rss_all)
+- [Varjo’s new VR headset points the way to collaboration done right](https://www.computerworld.com/article/3637933/varjo-s-new-vr-headset-points-the-way-to-collaboration-done-right.html#tk.rss_all)
+- [Customer service: Your greatest competitive weapon](https://www.computerworld.com/article/3637871/customer-service-your-greatest-competitive-weapon.html#tk.rss_all)
+- [Got a Pixel? Don't miss these 8 buried Android 12 treasures](https://www.computerworld.com/article/3635490/google-pixel-android-12.html#tk.rss_all)
 - [Apple still has a world to reach with the iPhone's 5G promise](https://www.computerworld.com/article/3637872/apple-has-world-to-reach-with-iphone-5g-promise.html#tk.rss_all)
 - [Podcast: What the new M1 Pro and M1 Max chips suggest about the future of the Mac](https://www.computerworld.com/article/3638050/podcast-what-the-new-m1-pro-and-m1-max-chips-suggest-about-the-future-of-the-mac.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Microsoft makes virtual healthcare visits easier to manage in Teams](https://www.computerworld.com/article/3637849/microsoft-makes-virtual-healthcare-visits-easier-to-manage-in-teams.html#tk.rss_all)
-- [The two Pixel 6 numbers that could change everything](https://www.computerworld.com/article/3637003/pixel-6-change.html#tk.rss_all)
-- [What happens when you put iPhone chips in Macs?](https://www.computerworld.com/article/3637751/what-happens-when-you-put-iphone-chips-in-macs.html#tk.rss_all)
-- [Asana takes aim at the enterprise with new workflow features](https://www.computerworld.com/article/3636981/asana-takes-aim-at-the-enterprise-with-new-workflow-features.html#tk.rss_all)
-- [JNUC 21 brings major security and deployment improvements to Apple enterprise](https://www.computerworld.com/article/3637059/jnuc-21-brings-major-security-and-deployment-improvements-to-apple-enterprise.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

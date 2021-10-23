@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google for Creators](https://theseoboss.com/google-for-creators/)
-- [“We Need to Have This Knife Fight.” Facebook’s War Strategy vs. Apple's New iOS](https://bigtechnology.substack.com/p/we-need-to-have-this-knife-fight)
-- [Organizing online, Covid skeptics drive public health pros from their jobs](https://www.npr.org/2021/10/20/1047336966/organizing-on-social-media-covid-skeptics-drive-public-health-professionals-from)
-- [Science Has Entered a New Era of Alchemy. Good](https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/)
-- [Why no tusks? Poaching tips scales of elephant evolution](https://apnews.com/article/science-africa-environment-and-nature-elephants-mozambique-048e181c6dadc591b1f43c6e963f0f0e)
-- [Apple October 2020 Keynote but only when they say 5G (67 times total)](https://www.youtube.com/watch?v=LvT1ldIZt7g)
-- [AWS WAF's Dangerous Defaults](https://osamaelnaggar.com/blog/aws_waf_dangerous_defaults/)
-- [Small Modular Reactors](https://en.wikipedia.org/wiki/Small_modular_reactor)
-- [Fastmail Experiencing Outages](https://www.fastmailstatus.com/services/general)
-- [The genius who finally persuaded Boris Johnson to lock down](https://www.thetimes.co.uk/article/marc-warner-covid-genius-persuaded-pm-lockdown-2bfbgcg60)
+- [January 6 insurrection and Facebook: Internal docs paint a damning picture](https://www.cnn.com/2021/10/22/business/january-6-insurrection-facebook-papers/index.html)
+- [Show HN: Kids Are Waking Up – Individual Sovereignty](https://anthonypolanco.com/kids-are-waking-up51194112)
+- [I Found a Creepy List on My Son’s Laptop](https://slate.com/human-interest/2021/10/kids-social-justice-vigilantes-parenting-advice-care-feeding.html)
+- [Software Crisis](https://en.wikipedia.org/wiki/Software_crisis)
+- [In Defense of King George](https://www.smithsonianmag.com/history/in-defense-of-king-george-180978852/)
+- [NYC schools will replace the gifted admissions exam with a lottery this year](https://www.nytimes.com/2021/10/08/world/nyc-schools-will-replace-the-gifted-and-talented-admissions-exam-with-a-lottery-this-year.html)
+- [Picking Colors for Pyret Error Messages](https://blog.brownplt.org/2018/06/11/philogenic-colors.html)
+- [Thisisunsafe – Bypassing Chrome security warnings](https://cybercafe.dev/thisisunsafe-bypassing-chrome-security-warnings/)
+- [If You Don’t Already, You, Too, Can Learn to Love Snow Camping](https://www.adventure-journal.com/2021/10/if-you-dont-already-you-too-can-learn-to-love-snow-camping/)
+- [Think Everything’s Expensive Now? Get Ready for What’s Next](https://www.bloomberg.com/news/articles/2021-10-22/think-everything-s-expensive-now-wait-until-you-see-what-s-next)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

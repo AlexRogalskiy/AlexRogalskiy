@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains unveils Qodana code quality platform for CI/CD](https://www.infoworld.com/article/3638052/jetbrains-unveils-qodana-code-quality-platform-for-cicd.html#tk.rss_all)
+- [Get your cloud data right the first time](https://www.infoworld.com/article/3638110/get-your-cloud-data-right-the-first-time.html#tk.rss_all)
+- [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
 - [Microsoft previews Visual Studio Code for the Web](https://www.infoworld.com/article/3637869/microsoft-previews-visual-studio-code-for-the-web.html#tk.rss_all)
 - [Continuous integration with Docker and Jenkins](https://www.infoworld.com/article/3637829/continuous-integration-with-docker-and-jenkins.html#tk.rss_all)
 - [How to use IDisposable in ASP.NET Core](https://www.infoworld.com/article/3637150/how-to-use-idisposable-in-aspnet-core.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
 - [Azure updates AKS with new Kubernetes technologies](https://www.infoworld.com/article/3637002/azure-updates-aks-with-new-kubernetes-technologies.html#tk.rss_all)
 - [What is Kubernetes? Your next application platform](https://www.infoworld.com/article/3268073/what-is-kubernetes-your-next-application-platform.html#tk.rss_all)
-- [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_all)
-- [Google Cloud tools aim to ease machine-learning, cross-cloud analytics](https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html#tk.rss_all)
-- [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Mississauga competing to be named world’s #1 Intelligent Community of the Year](https://www.itworldcanada.com/article/mississauga-competing-to-be-named-worlds-1-intelligent-community-of-the-year/462439)
+- [Mercedes-Benz adopts Microsoft Hololens 2 to fix cars faster](https://www.itworldcanada.com/article/mercedes-benz-adopts-microsoft-hololens-2-to-fix-cars-faster/462315)
+- [Cyber Security Today, Week in Review for Oct. 22, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-22-2021/462261)
+- [Encouraging a culture of speed in your organization](https://www.itworldcanada.com/article/encouraging-a-culture-of-speed-in-your-organization/462432)
+- [Canadian firms complacent on cybersecurity, says advanced manufacturing agency](https://www.itworldcanada.com/article/canadian-firms-complacent-on-cybersecurity-says-advanced-manufacturing-agency/462292)
+- [Cyber Security Today, Oct. 22, 2012 – A new ransomware strain discovered, a scam hijacks YouTube accounts and watch those open source code libraries](https://www.itworldcanada.com/article/cyber-security-today-oct-22-2012-a-new-ransomware-strain-discovered-a-scam-hijacks-youtube-accounts-and-watch-those-open-source-code-libraries/462282)
+- [Hashtag Trending Oct. 22- Trump’s Social Platform; The Canadian Dream; Fake Vaccine Cards Sold](https://www.itworldcanada.com/article/hashtag-trending-oct-22-trumps-social-platform-the-canadian-dream-fake-vaccine-cards-sold/462285)
 - [Learn how to turn digital transformation promise into results](https://www.itworldcanada.com/article/learn-how-to-turn-digital-transformation-promise-into-results/462277)
 - [Lighthouse Labs to offer free JavaScript training to Canadians](https://www.itworldcanada.com/article/lighthouse-labs-to-offer-free-javascript-training-to-canadians/462270)
 - [Only a quarter of Canadian execs bring cyber, privacy teams into project planning: Survey](https://www.itworldcanada.com/article/only-a-quarter-of-canadian-execs-bring-cyber-privacy-teams-into-project-planning-survey/462229)
-- [Don’t be tripped up by zero trust myths](https://www.itworldcanada.com/article/dont-be-tripped-up-by-zero-trust-myths/462098)
-- [Hashtag Trending Oct. 21- Facebook’s Name Change; New Play Store Security Feature; Instagram Posts from Desktop](https://www.itworldcanada.com/article/hashtag-trending-oct-21-facebooks-name-change-new-play-store-security-feature-instagram-posts-from-desktop/462038)
-- [The number of non-business IoT devices is increasing on corporate networks: Survey](https://www.itworldcanada.com/article/the-number-of-non-business-iot-devices-is-increasing-on-corporate-networks-survey/461907)
-- [Google Pixel 6 and Pixel 6 Pro launch with homebrew Tensor chip](https://www.itworldcanada.com/article/google-pixel-6-and-pixel-6-pro-launch-with-homebrew-tensor-chip/461908)
-- [Apple’s new MacBook Pros use new fast big chips](https://www.itworldcanada.com/article/apples-new-macbook-pros-use-new-fast-big-chips/461774)
-- [Digital payments increasing globally: report](https://www.itworldcanada.com/article/digital-payments-increasing-globally-report/461936)
-- [Cyber Security Today, Oct. 20, 2021 – Administrators urged to update PowerShell, ransomware reports to read and a hacker gets seven years in prison](https://www.itworldcanada.com/article/cyber-security-today-oct-20-2021-administrators-urged-to-update-powershell-ransomware-reports-to-read-and-a-hacker-gets-seven-years-in-prison/461898)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

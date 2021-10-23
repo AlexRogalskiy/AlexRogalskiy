@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
-- [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
-- [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
-- [Recoll: A desktop full-text search tool](https://www.lesbonscomptes.com/recoll/)
-- [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
-- [New 16-inch MBP with M1 Max to feature High Power Mode for intensive workloads](https://www.macrumors.com/2021/10/21/new-macbook-pros-high-power-mode/)
-- [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
-- [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
-- [YouTube will be removed from Roku as of December 9th – existing users unaffected](https://9to5google.com/2021/10/21/youtube-will-be-removed-from-roku-as-of-december-9-existing-users-unaffected/)
-- [Let’s Talk about PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/)
+- [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
+- [Nassim Nicholas Taleb Calls Bitcoin a Tulip Bubble Without the Aesthetics](https://www.bloomberg.com/news/articles/2021-10-21/taleb-calls-bitcoin-a-tulip-bubble-without-the-aesthetics)
+- [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
+- [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
+- [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
+- [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
+- [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
+- [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
+- [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
+- [Hackernews.com](https://hackernews.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

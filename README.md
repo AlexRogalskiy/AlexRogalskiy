@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Multi-government operation targets REvil ransomware group](https://www.computerweekly.com/news/252508564/Multi-government-operation-targets-REvil-ransomware-group)
+- [Women more likely to have retrained for tech roles than men](https://www.computerweekly.com/news/252508548/Women-more-likely-to-have-retrained-for-tech-roles-than-men)
+- [MEPs vote to expand Europol data mandate](https://www.computerweekly.com/news/252508544/MEPs-vote-to-expand-Europol-data-mandate)
+- [Government seeks supplier for UK digital identity project](https://www.computerweekly.com/news/252508501/Government-seeks-supplier-for-UK-digital-identity-project)
+- [Post Office board ‘appalling’ and ‘short-sighted’, said minister researching Horizon project in 2000](https://www.computerweekly.com/news/252508541/Post-Office-board-appalling-short-sighted-and-partisan-said-Minister-researching-Horizon-project)
 - [Airport operator MAG boosts threat visibility with hybrid SOC](https://www.computerweekly.com/news/252508144/Airport-operator-MAG-boosts-threat-visibility-with-hybrid-SOC)
 - [SAP Q3 2021: Cloud year-on-year revenue up one-fifth, S/4 Hana adoption steady](https://www.computerweekly.com/news/252508486/SAP-Q3-2021-cloud-year-on-year-revenue-up-one-fifth-S-4-Hana-adoption-steady)
 - [Depop launches programme to help charities sell online](https://www.computerweekly.com/news/252508468/Depop-launches-programme-to-help-charities-sell-online)
 - [German regulator imposes limit on number of new customers digital bank can sign each month](https://www.computerweekly.com/news/252508473/German-regulator-imposes-limit-on-number-of-new-customers-N26-can-sign-each-month)
 - [NetApp Insight frames moves to public cloud and cloud native](https://www.computerweekly.com/news/252508467/NetApp-Insight-frames-moves-to-public-cloud-and-cloud-native)
-- [UK government launches information assurance unit for defence](https://www.computerweekly.com/news/252508403/UK-government-launches-information-assurance-unit-for-defence)
-- [UK government allocates £17.5m to farming innovation programme](https://www.computerweekly.com/news/252508406/UK-government-allocates-175m-to-farming-innovation-programme)
-- [A Computer Weekly buyer’s guide to sustainable datacentres](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-sustainable-datacentres)
-- [Spectra Logic unveils Vail hybrid cloud storage virtualisation](https://www.computerweekly.com/news/252508023/Spectra-Logic-unveils-Vail-hybrid-cloud-storage-virtualisation)
-- [US intelligence agencies issue advisory on BlackMatter gang](https://www.computerweekly.com/news/252508402/US-intelligence-agencies-issue-advisory-on-BlackMatter-gang)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

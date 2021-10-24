@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
-- [Ethiopian government airstrike on Tigray forces UN to abort flight in midair](https://www.theguardian.com/world/2021/oct/23/ethiopian-government-airstrike-on-tigray-forces-un-to-abort-flight-in-midair)
-- [UN fears new atrocity in Myanmar as troops gather in restive northern states](https://www.theguardian.com/world/2021/oct/23/un-fears-new-atrocity-in-myanmar-as-troops-gather-in-restive-northern-states)
-- [Alec Baldwin was given loaded weapon and told it was safe, court records show](https://www.theguardian.com/film/2021/oct/22/alec-baldwin-film-shooting-halyna-hutchins)
-- [Lyft admits it recorded 4,000 sexual assault claims in long-awaited report](https://www.theguardian.com/technology/2021/oct/22/lyft-sexual-assault-reports-uber-ridesharing)
-- [English cities to receive transport boost of almost £7bn in budget](https://www.theguardian.com/uk-news/2021/oct/23/english-cities-transport-budget-greater-manchester-west-midlands)
-- [Talking Horses: Luxembourg looks to stake Derby claim at Doncaster](https://www.theguardian.com/sport/blog/2021/oct/23/talking-horses-luxembourg-looks-to-stake-derby-claim-at-doncaster)
-- [Katie Archibald claims her second world omnium title with dominant display](https://www.theguardian.com/sport/2021/oct/22/katie-archibald-cycling-world-championship-roubaix-omnium)
-- [Former associate of Rudy Giuliani convicted over illegal campaign contributions](https://www.theguardian.com/us-news/2021/oct/22/lev-parnas-former-associate-rudy-giuliani-convicted-illegal-campaign-contributions)
-- [Have Sumatran fishing crews found the fabled Island of Gold?](https://www.theguardian.com/world/2021/oct/22/have-sumatran-fishing-crews-found-the-fabled-island-of-gold)
+- [Colombia’s most-wanted drug lord, Otoniel, captured by armed forces](https://www.theguardian.com/world/2021/oct/24/columbias-most-wanted-drug-lord-otoniel-captured-by-armed-forces)
+- [Frances Haugen: ‘I never wanted to be a whistleblower. But lives were in danger’](https://www.theguardian.com/technology/2021/oct/24/frances-haugen-i-never-wanted-to-be-a-whistleblower-but-lives-were-in-danger)
+- [Two children among six killed by old landmine in Senegal](https://www.theguardian.com/world/2021/oct/24/two-children-among-six-killed-by-old-landmine-in-senegal)
+- [‘Don’t sit this one out’: Obama stumps for Virginia governor candidate Terry McAuliffe](https://www.theguardian.com/us-news/2021/oct/23/barack-obama-terry-mcauliffe-campaign-virginia-governor)
+- [The 31st annual Tompkins Square Halloween dog parade](https://www.theguardian.com/artanddesign/gallery/2021/oct/23/the-31st-annual-tompkins-square-halloween-dog-parade)
+- [Ethan Hayter strikes world omnium gold as Katie Archibald adds bronze](https://www.theguardian.com/sport/2021/oct/23/cycling-world-track-championships-ethan-hayter-katie-archibald)
+- [Hamilton laments ‘real struggle’ as Verstappen pips him to F1 US GP pole](https://www.theguardian.com/sport/2021/oct/23/max-verstappen-pips-lewis-hamilton-to-claim-us-f1-gp-pole-in-austin)
+- [US west coast braces for ‘atmospheric river’ as huge storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
+- [Michael Gove ‘open’ to keeping Grenfell Tower as a memorial](https://www.theguardian.com/uk-news/2021/oct/23/michael-gove-open-to-keeping-grenfell-tower-as-a-memorial)
+- [Senior Tories tell chancellor: spend, don’t cut, to level up](https://www.theguardian.com/politics/2021/oct/23/senior-tories-tell-chancellor-spend-dont-cut-to-level-up)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Python Question](https://www.reddit.com/r/InformationTechnology/comments/qegnfu/python_question/)
+- [Struggle applying to IT jobs](https://www.reddit.com/r/InformationTechnology/comments/qebjk1/struggle_applying_to_it_jobs/)
 - [ISCSI and diskless windows 10 how do I do it?](https://www.reddit.com/r/InformationTechnology/comments/qd64i6/iscsi_and_diskless_windows_10_how_do_i_do_it/)
 - [Barcode printer for asset management](https://www.reddit.com/r/InformationTechnology/comments/qd106b/barcode_printer_for_asset_management/)
 - [Weird behavior in windows 11](https://www.reddit.com/r/InformationTechnology/comments/qcpd55/weird_behavior_in_windows_11/)
@@ -414,8 +416,6 @@
 - [Workplace Diversity Within The Information Technology Professions](https://www.reddit.com/r/InformationTechnology/comments/qbzzws/workplace_diversity_within_the_information/)
 - [Should I use ElasticSearch or MongoDB for such documents for the given purpose?](https://www.reddit.com/r/InformationTechnology/comments/qbvnfk/should_i_use_elasticsearch_or_mongodb_for_such/)
 - [Bachelors Degree vs Certification ?](https://www.reddit.com/r/InformationTechnology/comments/qbo488/bachelors_degree_vs_certification/)
-- [How to give EXACT answers about which commands you use most frequently to others](https://www.reddit.com/r/InformationTechnology/comments/qbnymi/how_to_give_exact_answers_about_which_commands/)
-- [Personal Growth and Education Suggestions](https://www.reddit.com/r/InformationTechnology/comments/qbnpmi/personal_growth_and_education_suggestions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

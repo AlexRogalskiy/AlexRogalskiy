@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
-- [Nassim Nicholas Taleb Calls Bitcoin a Tulip Bubble Without the Aesthetics](https://www.bloomberg.com/news/articles/2021-10-21/taleb-calls-bitcoin-a-tulip-bubble-without-the-aesthetics)
-- [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
-- [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
-- [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
-- [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
-- [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
-- [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
-- [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
-- [Hackernews.com](https://hackernews.com/)
+- [Ask HN: Is the Great Resignation in tech real? If so, why?](https://news.ycombinator.com/item?id=28973942)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28973926)
+- [Prosecutors uncover money-laundering operation between US and Dubai](https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/)
+- [San Fransicko: A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
+- [Goodnight Dune](https://goodnightdune.com/)
+- [Your Phone Is Listening and It's Not Paranoia (2018)](https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia)
+- [How to build a universe that doesn’t fall apart two days later (1978)](https://urbigenous.net/library/how_to_build.html)
+- [No time to die: An indepth analysis of James Bonds exposure to infectious agents](https://www.sciencedirect.com/science/article/pii/S1477893921002167)
+- [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
+- [Go the F to Sleep](https://aplus.rs/2021/hackintosh-sleep-wake/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

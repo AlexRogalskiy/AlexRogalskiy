@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [January 6 insurrection and Facebook: Internal docs paint a damning picture](https://www.cnn.com/2021/10/22/business/january-6-insurrection-facebook-papers/index.html)
-- [Show HN: Kids Are Waking Up – Individual Sovereignty](https://anthonypolanco.com/kids-are-waking-up51194112)
-- [I Found a Creepy List on My Son’s Laptop](https://slate.com/human-interest/2021/10/kids-social-justice-vigilantes-parenting-advice-care-feeding.html)
-- [Software Crisis](https://en.wikipedia.org/wiki/Software_crisis)
-- [In Defense of King George](https://www.smithsonianmag.com/history/in-defense-of-king-george-180978852/)
-- [NYC schools will replace the gifted admissions exam with a lottery this year](https://www.nytimes.com/2021/10/08/world/nyc-schools-will-replace-the-gifted-and-talented-admissions-exam-with-a-lottery-this-year.html)
-- [Picking Colors for Pyret Error Messages](https://blog.brownplt.org/2018/06/11/philogenic-colors.html)
-- [Thisisunsafe – Bypassing Chrome security warnings](https://cybercafe.dev/thisisunsafe-bypassing-chrome-security-warnings/)
-- [If You Don’t Already, You, Too, Can Learn to Love Snow Camping](https://www.adventure-journal.com/2021/10/if-you-dont-already-you-too-can-learn-to-love-snow-camping/)
-- [Think Everything’s Expensive Now? Get Ready for What’s Next](https://www.bloomberg.com/news/articles/2021-10-22/think-everything-s-expensive-now-wait-until-you-see-what-s-next)
+- [Project West Ford](https://en.wikipedia.org/wiki/Project_West_Ford)
+- [Jack Dorsey says ‘hyperinflation’ will happen soon in the U.S. and the world](https://www.cnbc.com/2021/10/23/twitter-and-square-ceo-jack-dorsey-says-hyperinflation-will-happen-soon-in-the-us-and-the-world.html)
+- [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
+- [F-35 Lightning Walkaround [video]](https://www.youtube.com/watch?v=FoIbyrJFNaE)
+- [UK: Students could be prevented from taking university courses deemed low value](https://inews.co.uk/news/education/students-places-university-courses-plans-cap-numbers-low-value-degrees-1116908)
+- [Does a morality AI think I should watch more anime?](https://delphi.allenai.org/?a1=Should+I+watch+more+anime%3F)
+- [Ask HN: Trustworthy advertiser networks for small websites](https://news.ycombinator.com/item?id=28974142)
+- [Send wgmi – Non-Commercial for sending appreciation with gifts by indie makers](https://sendwgmi.webflow.io/)
+- [Assume You're Going to Win](https://www.jonathancai.com/assume-youre-going-to-win/)
+- [Saudi Arabia targets net zero emissions by 2060](https://www.reuters.com/business/cop/saudi-arabia-worlds-biggest-oil-exporter-unveil-green-goals-2021-10-23/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

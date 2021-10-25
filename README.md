@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colombia’s most-wanted drug lord, Otoniel, captured by armed forces](https://www.theguardian.com/world/2021/oct/24/columbias-most-wanted-drug-lord-otoniel-captured-by-armed-forces)
-- [Frances Haugen: ‘I never wanted to be a whistleblower. But lives were in danger’](https://www.theguardian.com/technology/2021/oct/24/frances-haugen-i-never-wanted-to-be-a-whistleblower-but-lives-were-in-danger)
-- [Two children among six killed by old landmine in Senegal](https://www.theguardian.com/world/2021/oct/24/two-children-among-six-killed-by-old-landmine-in-senegal)
-- [‘Don’t sit this one out’: Obama stumps for Virginia governor candidate Terry McAuliffe](https://www.theguardian.com/us-news/2021/oct/23/barack-obama-terry-mcauliffe-campaign-virginia-governor)
-- [The 31st annual Tompkins Square Halloween dog parade](https://www.theguardian.com/artanddesign/gallery/2021/oct/23/the-31st-annual-tompkins-square-halloween-dog-parade)
-- [Ethan Hayter strikes world omnium gold as Katie Archibald adds bronze](https://www.theguardian.com/sport/2021/oct/23/cycling-world-track-championships-ethan-hayter-katie-archibald)
-- [Hamilton laments ‘real struggle’ as Verstappen pips him to F1 US GP pole](https://www.theguardian.com/sport/2021/oct/23/max-verstappen-pips-lewis-hamilton-to-claim-us-f1-gp-pole-in-austin)
-- [US west coast braces for ‘atmospheric river’ as huge storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
-- [Michael Gove ‘open’ to keeping Grenfell Tower as a memorial](https://www.theguardian.com/uk-news/2021/oct/23/michael-gove-open-to-keeping-grenfell-tower-as-a-memorial)
-- [Senior Tories tell chancellor: spend, don’t cut, to level up](https://www.theguardian.com/politics/2021/oct/23/senior-tories-tell-chancellor-spend-dont-cut-to-level-up)
+- [What a net zero world will look like – and how to get there](https://www.theguardian.com/news/audio/2021/oct/25/what-a-net-zero-world-will-look-like-and-how-to-get-there)
+- [Japan royal wedding: subdued ritual looms as Princess Mako marries amid controversy](https://www.theguardian.com/world/2021/oct/25/japan-royal-wedding-subdued-ritual-looms-as-princess-mako-marries-amid-controversy)
+- [China to cut fossil fuel use to below 20% by 2060](https://www.theguardian.com/world/2021/oct/25/china-to-cut-fossil-fuel-use-to-below-20-by-2060)
+- [Rishi Sunak to launch £1.4bn fund to attract more overseas investment](https://www.theguardian.com/uk-news/2021/oct/24/rishi-sunak-to-launch-fund-to-attract-more-overseas-investment)
+- [UK government ‘waging secret war against transparency’](https://www.theguardian.com/politics/2021/oct/25/uk-government-waging-secret-war-against-transparency)
+- [Shoppers fill freezers with Christmas food over disruption fears](https://www.theguardian.com/business/2021/oct/25/shoppers-fill-freezers-with-christmas-food-over-disruption-fears)
+- [Cross-party MPs deride government’s ‘inconsistent’ green jobs policy](https://www.theguardian.com/environment/2021/oct/25/inconsistent-green-jobs-policy-under-fire-cross-party-mps)
+- [Ministers to ramp up Covid vaccine rollout as hospitalisations rise](https://www.theguardian.com/society/2021/oct/25/ministers-to-ramp-up-covid-vaccine-rollout-as-hospitalisations-rise)
+- [British scientists being ‘frozen out’ of EU research due to NI row, claims MP](https://www.theguardian.com/politics/2021/oct/25/british-scientists-being-frozen-out-of-eu-research-due-to-ni-row-claims-mp)
+- [Jailing of most mothers for non-violent crimes should stop, says report](https://www.theguardian.com/society/2021/oct/25/jailing-of-most-mothers-for-non-violent-crimes-should-stop-says-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

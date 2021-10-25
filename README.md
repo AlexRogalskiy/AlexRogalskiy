@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Did you know coding / other IT knowledge before starting a degree for IT?](https://www.reddit.com/r/InformationTechnology/comments/qf6s8c/did_you_know_coding_other_it_knowledge_before/)
+- [How to manage a fairly unrestricted organization](https://www.reddit.com/r/InformationTechnology/comments/qevzf7/how_to_manage_a_fairly_unrestricted_organization/)
 - [Python Question](https://www.reddit.com/r/InformationTechnology/comments/qegnfu/python_question/)
 - [Struggle applying to IT jobs](https://www.reddit.com/r/InformationTechnology/comments/qebjk1/struggle_applying_to_it_jobs/)
 - [ISCSI and diskless windows 10 how do I do it?](https://www.reddit.com/r/InformationTechnology/comments/qd64i6/iscsi_and_diskless_windows_10_how_do_i_do_it/)
@@ -414,8 +416,6 @@
 - [Not getting any responses to job submissions. Could it be my resume?](https://www.reddit.com/r/InformationTechnology/comments/qce4ig/not_getting_any_responses_to_job_submissions/)
 - [How much should I be making? I work as IT analyst and IT project coordinator](https://www.reddit.com/r/InformationTechnology/comments/qc16lj/how_much_should_i_be_making_i_work_as_it_analyst/)
 - [Workplace Diversity Within The Information Technology Professions](https://www.reddit.com/r/InformationTechnology/comments/qbzzws/workplace_diversity_within_the_information/)
-- [Should I use ElasticSearch or MongoDB for such documents for the given purpose?](https://www.reddit.com/r/InformationTechnology/comments/qbvnfk/should_i_use_elasticsearch_or_mongodb_for_such/)
-- [Bachelors Degree vs Certification ?](https://www.reddit.com/r/InformationTechnology/comments/qbo488/bachelors_degree_vs_certification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

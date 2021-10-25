@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Project West Ford](https://en.wikipedia.org/wiki/Project_West_Ford)
-- [Jack Dorsey says ‘hyperinflation’ will happen soon in the U.S. and the world](https://www.cnbc.com/2021/10/23/twitter-and-square-ceo-jack-dorsey-says-hyperinflation-will-happen-soon-in-the-us-and-the-world.html)
-- [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
-- [F-35 Lightning Walkaround [video]](https://www.youtube.com/watch?v=FoIbyrJFNaE)
-- [UK: Students could be prevented from taking university courses deemed low value](https://inews.co.uk/news/education/students-places-university-courses-plans-cap-numbers-low-value-degrees-1116908)
-- [Does a morality AI think I should watch more anime?](https://delphi.allenai.org/?a1=Should+I+watch+more+anime%3F)
-- [Ask HN: Trustworthy advertiser networks for small websites](https://news.ycombinator.com/item?id=28974142)
-- [Send wgmi – Non-Commercial for sending appreciation with gifts by indie makers](https://sendwgmi.webflow.io/)
-- [Assume You're Going to Win](https://www.jonathancai.com/assume-youre-going-to-win/)
-- [Saudi Arabia targets net zero emissions by 2060](https://www.reuters.com/business/cop/saudi-arabia-worlds-biggest-oil-exporter-unveil-green-goals-2021-10-23/)
+- [Visualising the computational graph of a Jax program](http://www.bnikolic.co.uk/blog/python/jax/2020/10/20/jax-outputgraph.html)
+- [Aaron Swartz – Rewriting Reddit from Lisp (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
+- [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
+- [Ask HN: What do I learn to solve the guillotine problem?](https://news.ycombinator.com/item?id=28983858)
+- [The little book about OS development](https://littleosbook.github.io/)
+- [Tech stampede as investors hunt Latin American unicorns](https://www.reuters.com/technology/tech-stampede-investors-hunt-latin-american-unicorns-2021-10-21/)
+- [Zlibrary – The Largest eBook Library](https://z-lib.org/)
+- [Is Big Necessarily Bad?](https://www.youtube.com/watch?v=IDrCRIgfm-g)
+- [Problem with Solar Energy Panels Across Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o)
+- [Schrodinger’s Military? Challenges for China’s Military Modernization Ambitions](https://warontherocks.com/2021/10/schrodingers-military-challenges-for-the-chinas-military-modernization-ambitions/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

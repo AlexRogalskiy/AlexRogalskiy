@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Is the Great Resignation in tech real? If so, why?](https://news.ycombinator.com/item?id=28973942)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28973926)
-- [Prosecutors uncover money-laundering operation between US and Dubai](https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/)
-- [San Fransicko: A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
-- [Goodnight Dune](https://goodnightdune.com/)
-- [Your Phone Is Listening and It's Not Paranoia (2018)](https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia)
-- [How to build a universe that doesn’t fall apart two days later (1978)](https://urbigenous.net/library/how_to_build.html)
-- [No time to die: An indepth analysis of James Bonds exposure to infectious agents](https://www.sciencedirect.com/science/article/pii/S1477893921002167)
-- [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
-- [Go the F to Sleep](https://aplus.rs/2021/hackintosh-sleep-wake/)
+- [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
+- [Fork Freshness: Discover Active Forks of Abandoned GitHub Repositories](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
+- [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
+- [We are recreating the entire planet in Minecraft](https://buildtheearth.net/)
+- [Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-connection-machine/)
+- [Signed Integers Are Asymmetrical](https://borretti.me/article/signed-integers-asymmetrical)
+- [The Financial Times’ 404 page](https://www.ft.com/3lJQa6w)
+- [5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wanting to join the industry green and looking for advice](https://www.reddit.com/r/InformationTechnology/comments/qfqo79/wanting_to_join_the_industry_green_and_looking/)
+- [Resume](https://www.reddit.com/r/InformationTechnology/comments/qfpsez/resume/)
+- [How I got someone to stop being rude to me while I was trying to help him](https://www.reddit.com/r/InformationTechnology/comments/qfna83/how_i_got_someone_to_stop_being_rude_to_me_while/)
+- [Im shook. They fired the other new guy.](https://www.reddit.com/r/InformationTechnology/comments/qfmf2f/im_shook_they_fired_the_other_new_guy/)
+- [What new skills to have for IT support?](https://www.reddit.com/r/InformationTechnology/comments/qfj1of/what_new_skills_to_have_for_it_support/)
+- [Looking for an online solution for document review workflow](https://www.reddit.com/r/InformationTechnology/comments/qfg3pz/looking_for_an_online_solution_for_document/)
+- [When attending event for IT professionals, what influences your decision to go?](https://www.reddit.com/r/InformationTechnology/comments/qfd88u/when_attending_event_for_it_professionals_what/)
 - [Did you know coding / other IT knowledge before starting a degree for IT?](https://www.reddit.com/r/InformationTechnology/comments/qf6s8c/did_you_know_coding_other_it_knowledge_before/)
 - [How to manage a fairly unrestricted organization](https://www.reddit.com/r/InformationTechnology/comments/qevzf7/how_to_manage_a_fairly_unrestricted_organization/)
 - [Python Question](https://www.reddit.com/r/InformationTechnology/comments/qegnfu/python_question/)
-- [Struggle applying to IT jobs](https://www.reddit.com/r/InformationTechnology/comments/qebjk1/struggle_applying_to_it_jobs/)
-- [ISCSI and diskless windows 10 how do I do it?](https://www.reddit.com/r/InformationTechnology/comments/qd64i6/iscsi_and_diskless_windows_10_how_do_i_do_it/)
-- [Barcode printer for asset management](https://www.reddit.com/r/InformationTechnology/comments/qd106b/barcode_printer_for_asset_management/)
-- [Weird behavior in windows 11](https://www.reddit.com/r/InformationTechnology/comments/qcpd55/weird_behavior_in_windows_11/)
-- [Not getting any responses to job submissions. Could it be my resume?](https://www.reddit.com/r/InformationTechnology/comments/qce4ig/not_getting_any_responses_to_job_submissions/)
-- [How much should I be making? I work as IT analyst and IT project coordinator](https://www.reddit.com/r/InformationTechnology/comments/qc16lj/how_much_should_i_be_making_i_work_as_it_analyst/)
-- [Workplace Diversity Within The Information Technology Professions](https://www.reddit.com/r/InformationTechnology/comments/qbzzws/workplace_diversity_within_the_information/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

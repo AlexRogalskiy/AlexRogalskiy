@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft returns Hot Reload to the .NET SDK](https://www.infoworld.com/article/3637881/microsoft-returns-hot-reload-to-the-net-sdk.html#tk.rss_all)
+- [What’s new in Rust 1.56](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_all)
+- [Elastic’s Shay Banon: Why we went beyond our search roots—and stood up to ‘bully’ AWS](https://www.infoworld.com/article/3637121/elastics-shay-banon-why-we-went-beyond-our-search-rootsand-stood-up-to-bully-aws.html#tk.rss_all)
+- [Why you should use a microservice architecture](https://www.infoworld.com/article/3637016/why-you-should-use-a-microservice-architecture.html#tk.rss_all)
 - [JetBrains unveils Qodana code quality platform for CI/CD](https://www.infoworld.com/article/3638052/jetbrains-unveils-qodana-code-quality-platform-for-cicd.html#tk.rss_all)
 - [Get your cloud data right the first time](https://www.infoworld.com/article/3638110/get-your-cloud-data-right-the-first-time.html#tk.rss_all)
 - [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
 - [Microsoft previews Visual Studio Code for the Web](https://www.infoworld.com/article/3637869/microsoft-previews-visual-studio-code-for-the-web.html#tk.rss_all)
 - [Continuous integration with Docker and Jenkins](https://www.infoworld.com/article/3637829/continuous-integration-with-docker-and-jenkins.html#tk.rss_all)
-- [How to use IDisposable in ASP.NET Core](https://www.infoworld.com/article/3637150/how-to-use-idisposable-in-aspnet-core.html#tk.rss_all)
-- [Never look up tidyr’s pivot_wider or pivot_longer again!](https://www.infoworld.com/article/3637083/never-look-up-tidyrs-pivotwider-or-pivotlonger-again.html#tk.rss_all)
-- [What to expect in Java 18](https://www.infoworld.com/article/3630510/what-to-expect-in-java-18.html#tk.rss_all)
-- [Azure updates AKS with new Kubernetes technologies](https://www.infoworld.com/article/3637002/azure-updates-aks-with-new-kubernetes-technologies.html#tk.rss_all)
-- [What is Kubernetes? Your next application platform](https://www.infoworld.com/article/3268073/what-is-kubernetes-your-next-application-platform.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

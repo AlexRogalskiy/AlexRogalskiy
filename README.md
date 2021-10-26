@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Tech firms launch digital identity scheme for real estate](https://www.computerweekly.com/news/252508606/Tech-firms-launch-digital-identity-scheme-for-real-estate)
+- [The RSPCA on how going cloud-first helped it rescue and rehome animals throughout the pandemic](https://www.computerweekly.com/news/252508498/The-RSPCA-on-how-going-cloud-first-helped-it-rescue-and-rehome-animals-throughout-the-pandemic)
+- [Chancellor sets aside £2.1bn to fund NHS IT modernisation](https://www.computerweekly.com/news/252508602/Chancellor-sets-aside-21bn-to-fund-NHS-IT-modernisation)
+- [Tech must be core to a high-wage UK economy, says TechUK](https://www.computerweekly.com/news/252508590/Tech-must-be-core-to-a-high-wage-UK-economy-says-techUK)
+- [Attempted hack causes Tesco website outage](https://www.computerweekly.com/news/252508597/Attempted-hack-causes-Tesco-website-outage)
 - [Digital healthcare in use by nearly half of UK’s adult population](https://www.computerweekly.com/news/252508552/Digital-healthcare-in-use-by-nearly-half-of-UKs-adult-population)
 - [Multi-government operation targets REvil ransomware group](https://www.computerweekly.com/news/252508564/Multi-government-operation-targets-REvil-ransomware-group)
 - [Women more likely to have retrained for tech roles than men](https://www.computerweekly.com/news/252508548/Women-more-likely-to-have-retrained-for-tech-roles-than-men)
 - [MEPs vote to expand Europol data mandate](https://www.computerweekly.com/news/252508544/MEPs-vote-to-expand-Europol-data-mandate)
 - [Government seeks supplier for UK digital identity project](https://www.computerweekly.com/news/252508501/Government-seeks-supplier-for-UK-digital-identity-project)
-- [Post Office board ‘appalling’ and ‘short-sighted’, said minister researching Horizon project in 2000](https://www.computerweekly.com/news/252508541/Post-Office-board-appalling-short-sighted-and-partisan-said-Minister-researching-Horizon-project)
-- [Airport operator MAG boosts threat visibility with hybrid SOC](https://www.computerweekly.com/news/252508144/Airport-operator-MAG-boosts-threat-visibility-with-hybrid-SOC)
-- [SAP Q3 2021: Cloud year-on-year revenue up one-fifth, S/4 Hana adoption steady](https://www.computerweekly.com/news/252508486/SAP-Q3-2021-cloud-year-on-year-revenue-up-one-fifth-S-4-Hana-adoption-steady)
-- [Depop launches programme to help charities sell online](https://www.computerweekly.com/news/252508468/Depop-launches-programme-to-help-charities-sell-online)
-- [German regulator imposes limit on number of new customers digital bank can sign each month](https://www.computerweekly.com/news/252508473/German-regulator-imposes-limit-on-number-of-new-customers-N26-can-sign-each-month)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
-- [Fork Freshness: Discover Active Forks of Abandoned GitHub Repositories](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
-- [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
-- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
-- [We are recreating the entire planet in Minecraft](https://buildtheearth.net/)
-- [Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-connection-machine/)
-- [Signed Integers Are Asymmetrical](https://borretti.me/article/signed-integers-asymmetrical)
-- [The Financial Times’ 404 page](https://www.ft.com/3lJQa6w)
-- [5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
+- [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
+- [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
+- [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
+- [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
+- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
+- [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
+- [System sniffs out hardware trojans in electromagnetic emissions](https://spectrum.ieee.org/hardware-trojan)
+- [Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
+- [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
+- [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

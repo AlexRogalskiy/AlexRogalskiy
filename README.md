@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Visualising the computational graph of a Jax program](http://www.bnikolic.co.uk/blog/python/jax/2020/10/20/jax-outputgraph.html)
-- [Aaron Swartz – Rewriting Reddit from Lisp (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
-- [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
-- [Ask HN: What do I learn to solve the guillotine problem?](https://news.ycombinator.com/item?id=28983858)
-- [The little book about OS development](https://littleosbook.github.io/)
-- [Tech stampede as investors hunt Latin American unicorns](https://www.reuters.com/technology/tech-stampede-investors-hunt-latin-american-unicorns-2021-10-21/)
-- [Zlibrary – The Largest eBook Library](https://z-lib.org/)
-- [Is Big Necessarily Bad?](https://www.youtube.com/watch?v=IDrCRIgfm-g)
-- [Problem with Solar Energy Panels Across Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o)
-- [Schrodinger’s Military? Challenges for China’s Military Modernization Ambitions](https://warontherocks.com/2021/10/schrodingers-military-challenges-for-the-chinas-military-modernization-ambitions/)
+- [Historical Financial Information About Public Companies](https://roic.ai)
+- [Vaccine passports in Scotland an “unmitigated disaster”](https://www.conference-news.co.uk/news/vaccine-passports-scotland-unmitigated-disaster)
+- [On-Device Panoptic Segmentation for Camera Using Transformers](https://machinelearning.apple.com/research/panoptic-segmentation)
+- [Hertz Invests in Largest Electric Vehicle Rental Fleet](https://ir.hertz.com/2021-10-25-Hertz-Invests-in-Largest-Electric-Vehicle-Rental-Fleet-and-Partners-with-Seven-Time-Super-Bowl-Champion-Tom-Brady-to-Headline-New-Campaign)
+- [Busting coronavirus myths [Updated on Friday 22 October 2021 at 15:07]](https://factcheck.afp.com/busting-coronavirus-myths)
+- [A Program for Monetary Reform (1939) [pdf]](https://www.monetary.org/pdfs/a_program_for_monetary_reform.pdf)
+- [Why are American homes so big?](https://www.theatlantic.com/family/archive/2019/09/american-houses-big/597811/)
+- [Scientists link Covid vaccines to rare neurological complications](https://www.ft.com/content/b2b74d63-7c94-4602-82eb-82e87ec5186f)
+- [A crusade to end grading in high schools](https://www.washingtonpost.com/magazine/2021/10/20/crusade-end-grading-high-schools/)
+- [Car subscription service, Go, raises $41M](https://technical.ly/philly/2021/10/19/go-car-subscription-raise/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What a net zero world will look like – and how to get there](https://www.theguardian.com/news/audio/2021/oct/25/what-a-net-zero-world-will-look-like-and-how-to-get-there)
-- [Japan royal wedding: subdued ritual looms as Princess Mako marries amid controversy](https://www.theguardian.com/world/2021/oct/25/japan-royal-wedding-subdued-ritual-looms-as-princess-mako-marries-amid-controversy)
-- [China to cut fossil fuel use to below 20% by 2060](https://www.theguardian.com/world/2021/oct/25/china-to-cut-fossil-fuel-use-to-below-20-by-2060)
-- [Rishi Sunak to launch £1.4bn fund to attract more overseas investment](https://www.theguardian.com/uk-news/2021/oct/24/rishi-sunak-to-launch-fund-to-attract-more-overseas-investment)
-- [UK government ‘waging secret war against transparency’](https://www.theguardian.com/politics/2021/oct/25/uk-government-waging-secret-war-against-transparency)
-- [Shoppers fill freezers with Christmas food over disruption fears](https://www.theguardian.com/business/2021/oct/25/shoppers-fill-freezers-with-christmas-food-over-disruption-fears)
-- [Cross-party MPs deride government’s ‘inconsistent’ green jobs policy](https://www.theguardian.com/environment/2021/oct/25/inconsistent-green-jobs-policy-under-fire-cross-party-mps)
-- [Ministers to ramp up Covid vaccine rollout as hospitalisations rise](https://www.theguardian.com/society/2021/oct/25/ministers-to-ramp-up-covid-vaccine-rollout-as-hospitalisations-rise)
-- [British scientists being ‘frozen out’ of EU research due to NI row, claims MP](https://www.theguardian.com/politics/2021/oct/25/british-scientists-being-frozen-out-of-eu-research-due-to-ni-row-claims-mp)
-- [Jailing of most mothers for non-violent crimes should stop, says report](https://www.theguardian.com/society/2021/oct/25/jailing-of-most-mothers-for-non-violent-crimes-should-stop-says-report)
+- [How British police tried to recruit an informant in Black Lives Matter](https://www.theguardian.com/news/audio/2021/oct/26/how-british-police-tried-recruit-informant-inside-black-lives-matter-blm-podcast)
+- [Alec Baldwin was pointing gun at camera when it went off, director says](https://www.theguardian.com/film/2021/oct/25/alec-baldwin-was-rehearsing-scene-when-gun-went-off-rust-director-says)
+- [‘Dictating what is Indian’: backlash over Urdu phrase in fashion advert](https://www.theguardian.com/world/2021/oct/26/completely-bizarre-india-clothes-ad-taken-down-after-critics-say-urdu-use-offensive-to-hindus-fabindia)
+- [Climate crisis: economists ‘grossly undervalue young lives’, warns Stern](https://www.theguardian.com/environment/2021/oct/26/climate-crisis-economists-grossly-undervalue-young-lives-warns-stern)
+- [Waitrose to sell potato milk as demand for plant-based options grows](https://www.theguardian.com/food/2021/oct/26/waitrose-to-sell-potato-milk-as-demand-for-plant-based-options-grows)
+- [Joanna Lumley says wartime-style rationing could help solve climate crisis](https://www.theguardian.com/environment/2021/oct/26/joanna-lumley-wartime-rationing-solve-climate-crisis)
+- [Revealed: scale of abuse and sexual harassment of women in UK military](https://www.theguardian.com/uk-news/2021/oct/25/revealed-scale-of-abuse-and-sexual-harassment-of-women-in-uk-military)
+- [Blue plaque for Britain’s first black train driver unveiled at King’s Cross](https://www.theguardian.com/uk-news/2021/oct/25/blue-plaque-for-britains-first-black-train-driver-unveiled-at-kings-cross)
+- [Will Sunak’s budget really help ease the cost of living squeeze?](https://www.theguardian.com/uk-news/2021/oct/25/will-rishi-sunak-national-living-wage-rise-really-help-ease-the-cost-of-living-squeeze)
+- [Rishi Sunak to scrap public sector pay freeze in autumn budget](https://www.theguardian.com/uk-news/2021/oct/25/rishi-sunak-to-scrap-public-sector-pay-freeze-amid-cost-of-living-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

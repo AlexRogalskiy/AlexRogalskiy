@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CIO Agenda: Cloud, Cybersecurity, and AI Investments Ahead](https://www.informationweek.com/executive-insights-and-innovation/cio-agenda-cloud-cybersecurity-and-ai-investments-ahead)
+- [Are You Hybrid Cloud-ready? 6 Considerations to Help You Get There](https://www.informationweek.com/cloud/are-you-hybrid-cloud-ready-6-considerations-to-help-you-get-there)
 - [PayPal CEO Discusses Responsible Innovation at DC Fintech](https://www.informationweek.com/fintech/paypal-ceo-discusses-responsible-innovation-at-dc-fintech)
 - [How to Get Your Cloud Spending Under Control](https://www.informationweek.com/cloud/how-to-get-your-cloud-spending-under-control)
 - [DC Fintech Week Tackles Financial Inclusivity](https://www.informationweek.com/fintech/dc-fintech-week-tackles-financial-inclusivity)
@@ -369,8 +371,6 @@
 - [Facebook’s Teachable Moment](https://www.informationweek.com/security-and-risk-strategy/facebook-s-teachable-moment)
 - [Should a Top IT Performer Be Allowed to Hold Multiple Organization Roles?](https://www.informationweek.com/team-building-and-staffing/should-a-top-it-performer-be-allowed-to-hold-multiple-organization-roles-)
 - [How CIOs Can Grow and Spend Political Capital to Achieve Executive Impact](https://www.informationweek.com/executive-insights-and-innovation/how-cios-can-grow-and-spend-political-capital-to-achieve-executive-impact)
-- [Tech Vendors Target Enterprise ESG Reporting](https://www.informationweek.com/information-management/tech-vendors-target-enterprise-esg-reporting)
-- [Enabling Citizen Data Scientists to Reach Their Full Potential](https://www.informationweek.com/team-building-and-staffing/enabling-citizen-data-scientists-to-reach-their-full-potential)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

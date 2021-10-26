@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Gartner finds three key focus areas for CIOs to drive value](https://www.itworldcanada.com/article/gartner-finds-three-key-focus-areas-for-cios-to-drive-value/462572)
+- [Coding error by ransomware gang briefly allowed firms to refuse to be blackmailed](https://www.itworldcanada.com/article/coding-error-by-ransomware-gang-briefly-allowed-firms-to-refuse-to-be-blackmailed/462516)
+- [Google Pixel 6 series the first to be certified on Rogers standalone 5G](https://www.itworldcanada.com/article/google-pixel-6-series-the-first-to-be-certified-on-rogers-standalone-5g/462584)
+- [Latest Nobelium campaign targets victims via cloud providers and resellers: Microsoft](https://www.itworldcanada.com/article/latest-nobelium-campaign-targets-victims-via-cloud-providers-and-resellers-microsoft/462541)
+- [Cyber Security Today, Oct. 25, 2021 – A warning to JavaScript users, ransomware gangs feeling squeezed and an SQL vulnerability found](https://www.itworldcanada.com/article/cyber-security-today-oct-25-2021-a-warning-to-javascript-users-ransomware-gangs-feeling-squeezed-and-an-sql-vulnerability-found/462505)
+- [Hashtag Trending Oct. 25 – Apple sued for iPhone cost; Watching movies at home is now the popular choice; Alexa named the most invasive smart assistant](https://www.itworldcanada.com/article/hashtag-trending-oct-25-apple-sued-for-iphone-cost-watching-movies-at-home-is-now-the-popular-choice-alexa-named-the-most-invasive-smart-assistant/462538)
 - [Mississauga competing to be named world’s #1 Intelligent Community of the Year](https://www.itworldcanada.com/article/mississauga-competing-to-be-named-worlds-1-intelligent-community-of-the-year/462439)
 - [Mercedes-Benz adopts Microsoft Hololens 2 to fix cars faster](https://www.itworldcanada.com/article/mercedes-benz-adopts-microsoft-hololens-2-to-fix-cars-faster/462315)
 - [Cyber Security Today, Week in Review for Oct. 22, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-22-2021/462261)
 - [Encouraging a culture of speed in your organization](https://www.itworldcanada.com/article/encouraging-a-culture-of-speed-in-your-organization/462432)
-- [Canadian firms complacent on cybersecurity, says advanced manufacturing agency](https://www.itworldcanada.com/article/canadian-firms-complacent-on-cybersecurity-says-advanced-manufacturing-agency/462292)
-- [Cyber Security Today, Oct. 22, 2012 – A new ransomware strain discovered, a scam hijacks YouTube accounts and watch those open source code libraries](https://www.itworldcanada.com/article/cyber-security-today-oct-22-2012-a-new-ransomware-strain-discovered-a-scam-hijacks-youtube-accounts-and-watch-those-open-source-code-libraries/462282)
-- [Hashtag Trending Oct. 22- Trump’s Social Platform; The Canadian Dream; Fake Vaccine Cards Sold](https://www.itworldcanada.com/article/hashtag-trending-oct-22-trumps-social-platform-the-canadian-dream-fake-vaccine-cards-sold/462285)
-- [Learn how to turn digital transformation promise into results](https://www.itworldcanada.com/article/learn-how-to-turn-digital-transformation-promise-into-results/462277)
-- [Lighthouse Labs to offer free JavaScript training to Canadians](https://www.itworldcanada.com/article/lighthouse-labs-to-offer-free-javascript-training-to-canadians/462270)
-- [Only a quarter of Canadian execs bring cyber, privacy teams into project planning: Survey](https://www.itworldcanada.com/article/only-a-quarter-of-canadian-execs-bring-cyber-privacy-teams-into-project-planning-survey/462229)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

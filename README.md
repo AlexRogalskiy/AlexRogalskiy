@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Tech firms launch digital identity scheme for real estate](https://www.computerweekly.com/news/252508606/Tech-firms-launch-digital-identity-scheme-for-real-estate)
-- [The RSPCA on how going cloud-first helped it rescue and rehome animals throughout the pandemic](https://www.computerweekly.com/news/252508498/The-RSPCA-on-how-going-cloud-first-helped-it-rescue-and-rehome-animals-throughout-the-pandemic)
-- [Chancellor sets aside £2.1bn to fund NHS IT modernisation](https://www.computerweekly.com/news/252508602/Chancellor-sets-aside-21bn-to-fund-NHS-IT-modernisation)
-- [Tech must be core to a high-wage UK economy, says TechUK](https://www.computerweekly.com/news/252508590/Tech-must-be-core-to-a-high-wage-UK-economy-says-techUK)
-- [Attempted hack causes Tesco website outage](https://www.computerweekly.com/news/252508597/Attempted-hack-causes-Tesco-website-outage)
-- [Digital healthcare in use by nearly half of UK’s adult population](https://www.computerweekly.com/news/252508552/Digital-healthcare-in-use-by-nearly-half-of-UKs-adult-population)
-- [Multi-government operation targets REvil ransomware group](https://www.computerweekly.com/news/252508564/Multi-government-operation-targets-REvil-ransomware-group)
-- [Women more likely to have retrained for tech roles than men](https://www.computerweekly.com/news/252508548/Women-more-likely-to-have-retrained-for-tech-roles-than-men)
-- [MEPs vote to expand Europol data mandate](https://www.computerweekly.com/news/252508544/MEPs-vote-to-expand-Europol-data-mandate)
-- [Government seeks supplier for UK digital identity project](https://www.computerweekly.com/news/252508501/Government-seeks-supplier-for-UK-digital-identity-project)
+- [COP26: Is the tech sector ready to rise to climate challenge?](https://www.computerweekly.com/news/252508644/COP26-Is-the-tech-sector-ready-to-rise-to-climate-challenge)
+- [DarkMarket takedown results in 150 arrests](https://www.computerweekly.com/news/252508657/DarkMarket-takedown-results-in-150-arrests)
+- [Retail tech community reacts to BNPL regulatory proposals](https://www.computerweekly.com/feature/Retail-tech-community-reacts-to-BNPL-regulatory-proposals)
+- [Cyber experts on how to nobble a Nobelium attack](https://www.computerweekly.com/news/252508656/Cyber-experts-on-how-to-nobble-a-Nobelium-attack)
+- [Building better data foundations to make the most of AI](https://www.computerweekly.com/opinion/Building-better-data-foundations-to-make-the-most-of-AI)
+- [Thought Machine: Google-inspired banking fintech to unicorn and beyond](https://www.computerweekly.com/news/252508648/Thought-Machine-Google-inspired-banking-fintech-to-unicorn-and-beyond)
+- [CIO interview: Dal Virdi, IT director, Shakespeare Martineau](https://www.computerweekly.com/news/252508267/CIO-interview-Dal-Virdi-IT-director-Shakespeare-Martineau)
+- [Government selects network analytics tech to combat Covid-19 loan fraud](https://www.computerweekly.com/news/252508646/Government-selects-network-analytics-tech-to-combat-Covid-19-loan-fraud)
+- [Interview: Identifying talent at Nasa using data science](https://www.computerweekly.com/news/252508270/Interview-Identifying-talent-at-Nasa-using-data-science)
+- [The future is digital, so why is Britain’s national strategy waterfall?](https://www.computerweekly.com/opinion/The-future-is-digital-so-why-is-Britains-national-strategy-waterfall)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

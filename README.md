@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Historical Financial Information About Public Companies](https://roic.ai)
-- [Vaccine passports in Scotland an “unmitigated disaster”](https://www.conference-news.co.uk/news/vaccine-passports-scotland-unmitigated-disaster)
-- [On-Device Panoptic Segmentation for Camera Using Transformers](https://machinelearning.apple.com/research/panoptic-segmentation)
-- [Hertz Invests in Largest Electric Vehicle Rental Fleet](https://ir.hertz.com/2021-10-25-Hertz-Invests-in-Largest-Electric-Vehicle-Rental-Fleet-and-Partners-with-Seven-Time-Super-Bowl-Champion-Tom-Brady-to-Headline-New-Campaign)
-- [Busting coronavirus myths [Updated on Friday 22 October 2021 at 15:07]](https://factcheck.afp.com/busting-coronavirus-myths)
-- [A Program for Monetary Reform (1939) [pdf]](https://www.monetary.org/pdfs/a_program_for_monetary_reform.pdf)
-- [Why are American homes so big?](https://www.theatlantic.com/family/archive/2019/09/american-houses-big/597811/)
-- [Scientists link Covid vaccines to rare neurological complications](https://www.ft.com/content/b2b74d63-7c94-4602-82eb-82e87ec5186f)
-- [A crusade to end grading in high schools](https://www.washingtonpost.com/magazine/2021/10/20/crusade-end-grading-high-schools/)
-- [Car subscription service, Go, raises $41M](https://technical.ly/philly/2021/10/19/go-car-subscription-raise/)
+- [Square One Second Edition](https://writing.kemitchell.com/2021/10/27/Square-One-2e.html)
+- [Neuralink Update – October 2021](https://www.youtube.com/watch?v=XO_0GoVwhCw)
+- [Ask HN: Do you sleep better by the ocean?](https://news.ycombinator.com/item?id=29008830)
+- [LittleJS – The Tiny JavaScript Game Engine That Can](https://github.com/KilledByAPixel/LittleJS)
+- [How games were made on the Nintendo DS – MVG](https://www.youtube.com/watch?v=dvgZs3sUM5Y)
+- [Go 1.18 will embed source version information into binaries](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource)
+- [Ask HN: advice for ramping fast on solidity](https://news.ycombinator.com/item?id=29008798)
+- [Google Antitrust](https://daringfireball.net/linked/2021/10/26/google-antitrust-complaint)
+- [List of people who have gone over Niagara Falls](https://en.wikipedia.org/wiki/List_of_people_who_have_gone_over_Niagara_Falls)
+- [Dissect Design: A collection of product design case studies](https://www.dissectdesign.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [A Word of Warning for Remote IT Infrastructure Workforces](https://www.informationweek.com/security-and-risk-strategy/a-word-of-warning-for-remote-it-infrastructure-workforces)
+- [AIOps: A Foundational Block of a Composable Enterprise](https://www.informationweek.com/big-data/aiops-a-foundational-block-of-a-composable-enterprise)
 - [CIO Agenda: Cloud, Cybersecurity, and AI Investments Ahead](https://www.informationweek.com/executive-insights-and-innovation/cio-agenda-cloud-cybersecurity-and-ai-investments-ahead)
 - [Are You Hybrid Cloud-ready? 6 Considerations to Help You Get There](https://www.informationweek.com/cloud/are-you-hybrid-cloud-ready-6-considerations-to-help-you-get-there)
 - [PayPal CEO Discusses Responsible Innovation at DC Fintech](https://www.informationweek.com/fintech/paypal-ceo-discusses-responsible-innovation-at-dc-fintech)
@@ -369,8 +371,6 @@
 - [IT’s Pivotal Role in Customer Service](https://www.informationweek.com/digital-business/it-s-pivotal-role-in-customer-service)
 - [Gartner: Top Predictions for IT Organizations and Users for 2022 and Beyond](https://www.informationweek.com/executive-insights-and-innovation/gartner-top-predictions-for-it-organizations-and-users-for-2022-and-beyond)
 - [Facebook’s Teachable Moment](https://www.informationweek.com/security-and-risk-strategy/facebook-s-teachable-moment)
-- [Should a Top IT Performer Be Allowed to Hold Multiple Organization Roles?](https://www.informationweek.com/team-building-and-staffing/should-a-top-it-performer-be-allowed-to-hold-multiple-organization-roles-)
-- [How CIOs Can Grow and Spend Political Capital to Achieve Executive Impact](https://www.informationweek.com/executive-insights-and-innovation/how-cios-can-grow-and-spend-political-capital-to-achieve-executive-impact)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

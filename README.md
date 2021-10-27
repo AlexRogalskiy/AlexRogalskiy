@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
-- [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
-- [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
-- [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
-- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
-- [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
-- [System sniffs out hardware trojans in electromagnetic emissions](https://spectrum.ieee.org/hardware-trojan)
-- [Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
-- [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
-- [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
+- [Affordable 70 MPH electric motorcycle is already here and no one noticed](https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/)
+- [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
+- [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
+- [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
+- [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
+- [France moves to shield its book industry from Amazon](https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/)
+- [EasyPost (YC S13) is default remote and hiring](https://www.easypost.com/careers)
+- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Bugs in our pockets: the risks of client-side scanning](https://arxiv.org/abs/2110.07450)
+- [Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Coffee Briefing, Oct. 26, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-26-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/462833)
+- [More infosec pros working in Canada, U.S. than ever, but there’s still a talent gap: Study](https://www.itworldcanada.com/article/more-infosec-pros-working-in-canada-u-s-than-ever-but-theres-still-a-talent-gap-study/462625)
+- [Hashtag Trending Oct. 26- Australia’s privacy bill; Tesla software flaws; Robot detained in Egypt](https://www.itworldcanada.com/article/hashtag-trending-oct-26-australias-privacy-bill-tesla-software-flaws-robot-detained-in-egypt/462643)
+- [Gartner: seven disruptions you might not see coming](https://www.itworldcanada.com/article/gartner-seven-disruptions-you-might-not-see-coming/462651)
+- [Gartner’s top predictions for IT organizations and users in coming years](https://www.itworldcanada.com/article/gartners-top-predictions-for-it-organizations-and-users-in-coming-years/462645)
 - [Gartner finds three key focus areas for CIOs to drive value](https://www.itworldcanada.com/article/gartner-finds-three-key-focus-areas-for-cios-to-drive-value/462572)
 - [Coding error by ransomware gang briefly allowed firms to refuse to be blackmailed](https://www.itworldcanada.com/article/coding-error-by-ransomware-gang-briefly-allowed-firms-to-refuse-to-be-blackmailed/462516)
 - [Google Pixel 6 series the first to be certified on Rogers standalone 5G](https://www.itworldcanada.com/article/google-pixel-6-series-the-first-to-be-certified-on-rogers-standalone-5g/462584)
 - [Latest Nobelium campaign targets victims via cloud providers and resellers: Microsoft](https://www.itworldcanada.com/article/latest-nobelium-campaign-targets-victims-via-cloud-providers-and-resellers-microsoft/462541)
 - [Cyber Security Today, Oct. 25, 2021 – A warning to JavaScript users, ransomware gangs feeling squeezed and an SQL vulnerability found](https://www.itworldcanada.com/article/cyber-security-today-oct-25-2021-a-warning-to-javascript-users-ransomware-gangs-feeling-squeezed-and-an-sql-vulnerability-found/462505)
-- [Hashtag Trending Oct. 25 – Apple sued for iPhone cost; Watching movies at home is now the popular choice; Alexa named the most invasive smart assistant](https://www.itworldcanada.com/article/hashtag-trending-oct-25-apple-sued-for-iphone-cost-watching-movies-at-home-is-now-the-popular-choice-alexa-named-the-most-invasive-smart-assistant/462538)
-- [Mississauga competing to be named world’s #1 Intelligent Community of the Year](https://www.itworldcanada.com/article/mississauga-competing-to-be-named-worlds-1-intelligent-community-of-the-year/462439)
-- [Mercedes-Benz adopts Microsoft Hololens 2 to fix cars faster](https://www.itworldcanada.com/article/mercedes-benz-adopts-microsoft-hololens-2-to-fix-cars-faster/462315)
-- [Cyber Security Today, Week in Review for Oct. 22, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-22-2021/462261)
-- [Encouraging a culture of speed in your organization](https://www.itworldcanada.com/article/encouraging-a-culture-of-speed-in-your-organization/462432)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

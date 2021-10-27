@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Auditing](https://www.reddit.com/r/InformationTechnology/comments/qgkpj6/auditing/)
+- [What software or coding tools are you trying to get your company to invest in?](https://www.reddit.com/r/InformationTechnology/comments/qgjhxk/what_software_or_coding_tools_are_you_trying_to/)
+- [Presentation about tracking - demonstration?](https://www.reddit.com/r/InformationTechnology/comments/qfzrmj/presentation_about_tracking_demonstration/)
 - [Wanting to join the industry green and looking for advice](https://www.reddit.com/r/InformationTechnology/comments/qfqo79/wanting_to_join_the_industry_green_and_looking/)
 - [Resume](https://www.reddit.com/r/InformationTechnology/comments/qfpsez/resume/)
 - [How I got someone to stop being rude to me while I was trying to help him](https://www.reddit.com/r/InformationTechnology/comments/qfna83/how_i_got_someone_to_stop_being_rude_to_me_while/)
@@ -413,9 +416,6 @@
 - [What new skills to have for IT support?](https://www.reddit.com/r/InformationTechnology/comments/qfj1of/what_new_skills_to_have_for_it_support/)
 - [Looking for an online solution for document review workflow](https://www.reddit.com/r/InformationTechnology/comments/qfg3pz/looking_for_an_online_solution_for_document/)
 - [When attending event for IT professionals, what influences your decision to go?](https://www.reddit.com/r/InformationTechnology/comments/qfd88u/when_attending_event_for_it_professionals_what/)
-- [Did you know coding / other IT knowledge before starting a degree for IT?](https://www.reddit.com/r/InformationTechnology/comments/qf6s8c/did_you_know_coding_other_it_knowledge_before/)
-- [How to manage a fairly unrestricted organization](https://www.reddit.com/r/InformationTechnology/comments/qevzf7/how_to_manage_a_fairly_unrestricted_organization/)
-- [Python Question](https://www.reddit.com/r/InformationTechnology/comments/qegnfu/python_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

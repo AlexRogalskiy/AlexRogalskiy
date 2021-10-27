@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How British police tried to recruit an informant in Black Lives Matter](https://www.theguardian.com/news/audio/2021/oct/26/how-british-police-tried-recruit-informant-inside-black-lives-matter-blm-podcast)
-- [Alec Baldwin was pointing gun at camera when it went off, director says](https://www.theguardian.com/film/2021/oct/25/alec-baldwin-was-rehearsing-scene-when-gun-went-off-rust-director-says)
-- [‘Dictating what is Indian’: backlash over Urdu phrase in fashion advert](https://www.theguardian.com/world/2021/oct/26/completely-bizarre-india-clothes-ad-taken-down-after-critics-say-urdu-use-offensive-to-hindus-fabindia)
-- [Climate crisis: economists ‘grossly undervalue young lives’, warns Stern](https://www.theguardian.com/environment/2021/oct/26/climate-crisis-economists-grossly-undervalue-young-lives-warns-stern)
-- [Waitrose to sell potato milk as demand for plant-based options grows](https://www.theguardian.com/food/2021/oct/26/waitrose-to-sell-potato-milk-as-demand-for-plant-based-options-grows)
-- [Joanna Lumley says wartime-style rationing could help solve climate crisis](https://www.theguardian.com/environment/2021/oct/26/joanna-lumley-wartime-rationing-solve-climate-crisis)
-- [Revealed: scale of abuse and sexual harassment of women in UK military](https://www.theguardian.com/uk-news/2021/oct/25/revealed-scale-of-abuse-and-sexual-harassment-of-women-in-uk-military)
-- [Blue plaque for Britain’s first black train driver unveiled at King’s Cross](https://www.theguardian.com/uk-news/2021/oct/25/blue-plaque-for-britains-first-black-train-driver-unveiled-at-kings-cross)
-- [Will Sunak’s budget really help ease the cost of living squeeze?](https://www.theguardian.com/uk-news/2021/oct/25/will-rishi-sunak-national-living-wage-rise-really-help-ease-the-cost-of-living-squeeze)
-- [Rishi Sunak to scrap public sector pay freeze in autumn budget](https://www.theguardian.com/uk-news/2021/oct/25/rishi-sunak-to-scrap-public-sector-pay-freeze-amid-cost-of-living-crisis)
+- [World Series Game 1: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/oct/26/world-series-game-1-atlanta-braves-v-houston-astros-live)
+- [The day that could define Rishi Sunak – podcast](https://www.theguardian.com/news/audio/2021/oct/27/the-day-that-could-define-rishi-sunak-podcast)
+- [Australian Open: no exemptions for unvaccinated tennis players, premier says](https://www.theguardian.com/sport/2021/oct/27/unvaccinated-tennis-stars-can-travel-to-australia-for-open-says-pm-scott-morrison)
+- [Sudan coup: deposed PM allowed home as general says politicians ‘stirred up strife’](https://www.theguardian.com/world/2021/oct/27/sudan-coup-deposed-pm-allowed-home-as-general-says-politicians-stirred-up-strife)
+- [US bans China Telecom over national security concerns](https://www.theguardian.com/us-news/2021/oct/27/us-bans-china-telecom-from-operating-over-national-security-concerns)
+- [‘It is bullying, pure and simple’: being a woman in Japanese politics](https://www.theguardian.com/world/2021/oct/27/being-a-woman-in-japanese-politics)
+- [Prince Andrew’s lawyer asks to keep 2009 legal agreement sealed](https://www.theguardian.com/uk-news/2021/oct/26/prince-andrew-lawyer-2009-legal-agreement-sealed)
+- [Rust film set shooting: prosecutor says criminal charges possible](https://www.theguardian.com/film/2021/oct/26/rust-film-set-shooting-alec-baldwin)
+- [Aung San Suu Kyi testifies in Myanmar court as lawyers barred from speaking about her case](https://www.theguardian.com/world/2021/oct/27/aung-san-suu-kyi-testifies-in-myanmar-court-as-lawyers-barred-from-speaking-about-her-case)
+- [Man feared drowned near Harwich after trying to cross Channel](https://www.theguardian.com/uk-news/2021/oct/26/coastguard-and-rnli-in-search-and-rescue-mission-near-harwich)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why traditional IP networking is wrong for the cloud](https://www.infoworld.com/article/3638171/why-traditional-ip-networking-is-wrong-for-the-cloud.html#tk.rss_all)
+- [Mind the value at risk with cloud computing solutions](https://www.infoworld.com/article/3638057/mind-the-value-at-risk-with-cloud-computing-solutions.html#tk.rss_all)
 - [Microsoft returns Hot Reload to the .NET SDK](https://www.infoworld.com/article/3637881/microsoft-returns-hot-reload-to-the-net-sdk.html#tk.rss_all)
 - [What’s new in Rust 1.56](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [JetBrains unveils Qodana code quality platform for CI/CD](https://www.infoworld.com/article/3638052/jetbrains-unveils-qodana-code-quality-platform-for-cicd.html#tk.rss_all)
 - [Get your cloud data right the first time](https://www.infoworld.com/article/3638110/get-your-cloud-data-right-the-first-time.html#tk.rss_all)
 - [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
-- [Microsoft previews Visual Studio Code for the Web](https://www.infoworld.com/article/3637869/microsoft-previews-visual-studio-code-for-the-web.html#tk.rss_all)
-- [Continuous integration with Docker and Jenkins](https://www.infoworld.com/article/3637829/continuous-integration-with-docker-and-jenkins.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

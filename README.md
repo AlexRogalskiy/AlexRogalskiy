@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 1: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/oct/26/world-series-game-1-atlanta-braves-v-houston-astros-live)
-- [The day that could define Rishi Sunak – podcast](https://www.theguardian.com/news/audio/2021/oct/27/the-day-that-could-define-rishi-sunak-podcast)
-- [Australian Open: no exemptions for unvaccinated tennis players, premier says](https://www.theguardian.com/sport/2021/oct/27/unvaccinated-tennis-stars-can-travel-to-australia-for-open-says-pm-scott-morrison)
-- [Sudan coup: deposed PM allowed home as general says politicians ‘stirred up strife’](https://www.theguardian.com/world/2021/oct/27/sudan-coup-deposed-pm-allowed-home-as-general-says-politicians-stirred-up-strife)
-- [US bans China Telecom over national security concerns](https://www.theguardian.com/us-news/2021/oct/27/us-bans-china-telecom-from-operating-over-national-security-concerns)
-- [‘It is bullying, pure and simple’: being a woman in Japanese politics](https://www.theguardian.com/world/2021/oct/27/being-a-woman-in-japanese-politics)
-- [Prince Andrew’s lawyer asks to keep 2009 legal agreement sealed](https://www.theguardian.com/uk-news/2021/oct/26/prince-andrew-lawyer-2009-legal-agreement-sealed)
-- [Rust film set shooting: prosecutor says criminal charges possible](https://www.theguardian.com/film/2021/oct/26/rust-film-set-shooting-alec-baldwin)
-- [Aung San Suu Kyi testifies in Myanmar court as lawyers barred from speaking about her case](https://www.theguardian.com/world/2021/oct/27/aung-san-suu-kyi-testifies-in-myanmar-court-as-lawyers-barred-from-speaking-about-her-case)
-- [Man feared drowned near Harwich after trying to cross Channel](https://www.theguardian.com/uk-news/2021/oct/26/coastguard-and-rnli-in-search-and-rescue-mission-near-harwich)
+- [World Series Game 2: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/oct/27/world-series-game-2-atlanta-braves-v-houston-astros-live)
+- [The scourge of spiking: the students fighting for a safe night out](https://www.theguardian.com/news/audio/2021/oct/28/scourge-of-spiking-students-fighting-for-safe-night-out-podcast)
+- [I long for a day when gay footballers like me and Josh Cavallo don’t need to be so ‘brave’ | Andy Brennan](https://www.theguardian.com/football/2021/oct/28/i-long-for-a-day-when-gay-footballers-like-me-and-josh-cavallo-dont-need-to-be-so-brave)
+- [Hong Kong doubles down on Covid restrictions to fall into line with mainland China](https://www.theguardian.com/world/2021/oct/28/hong-kong-doubles-down-on-covid-restrictions-to-fall-into-line-with-mainland-china)
+- [Facebook tells staff to preserve documents amid heated inquiries](https://www.theguardian.com/technology/2021/oct/27/facebook-staff-preserve-documents-inquiries-latest)
+- [Taiwan president says China threat growing ‘every day’ as Biden criticises Beijing](https://www.theguardian.com/world/2021/oct/27/taiwan-has-no-right-to-join-un-china-insists-as-us-ratchets-up-tensions)
+- [DNA from Sitting Bull’s hair confirms US man is his great-grandson](https://www.theguardian.com/us-news/2021/oct/28/dna-from-sitting-bulls-hair-confirms-us-man-is-his-great-grandson)
+- [World’s chief scientists urge Cop26 attendees to step up low-carbon policies](https://www.theguardian.com/environment/2021/oct/28/world-leading-scientists)
+- [Latest figures reveal how pandemic shaped UK radio listening habits](https://www.theguardian.com/tv-and-radio/2021/oct/28/latest-figures-reveal-how-pandemic-shaped-uk-radio-listening-habits)
+- [I used to be a compulsive liar. Should I reach out to someone I hurt or leave it in the past? | Leading questions](https://www.theguardian.com/lifeandstyle/2021/oct/28/i-used-to-be-a-compulsive-liar-should-i-reach-out-to-someone-i-hurt-or-leave-it-in-the-past)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

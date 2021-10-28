@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Affordable 70 MPH electric motorcycle is already here and no one noticed](https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/)
-- [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
-- [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
-- [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
-- [France moves to shield its book industry from Amazon](https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/)
-- [EasyPost (YC S13) is default remote and hiring](https://www.easypost.com/careers)
-- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
-- [Bugs in our pockets: the risks of client-side scanning](https://arxiv.org/abs/2110.07450)
-- [Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
+- [Closing Email with “Thanks” Gets the Most Replies](https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/)
+- [Non-Transitive Dice](https://singingbanana.com/dice/article.htm)
+- [Jerry (YC S17) is hiring a senior software engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [End Amazon’s Surveillance Partnership with Police](https://www.endringpartnerships.com/)
+- [Expectations for Generics in Go 1.18](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ)
+- [There Is No Bottom When It Comes to Section 230 Reform Proposals](https://blog.ericgoldman.org/archives/2021/10/there-is-no-bottom-when-it-comes-to-section-230-reform-proposals-comments-on-the-justice-against-malicious-algorithms-act.htm)
+- [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
+- [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
+- [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
+- [No YAML](https://noyaml.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

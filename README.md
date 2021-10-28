@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Square One Second Edition](https://writing.kemitchell.com/2021/10/27/Square-One-2e.html)
-- [Neuralink Update – October 2021](https://www.youtube.com/watch?v=XO_0GoVwhCw)
-- [Ask HN: Do you sleep better by the ocean?](https://news.ycombinator.com/item?id=29008830)
-- [LittleJS – The Tiny JavaScript Game Engine That Can](https://github.com/KilledByAPixel/LittleJS)
-- [How games were made on the Nintendo DS – MVG](https://www.youtube.com/watch?v=dvgZs3sUM5Y)
-- [Go 1.18 will embed source version information into binaries](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource)
-- [Ask HN: advice for ramping fast on solidity](https://news.ycombinator.com/item?id=29008798)
-- [Google Antitrust](https://daringfireball.net/linked/2021/10/26/google-antitrust-complaint)
-- [List of people who have gone over Niagara Falls](https://en.wikipedia.org/wiki/List_of_people_who_have_gone_over_Niagara_Falls)
-- [Dissect Design: A collection of product design case studies](https://www.dissectdesign.com/)
+- [Intel Shares Alder Lake Pricing, Specs and Gaming Performance](https://www.tomshardware.com/features/intel-shares-alder-lake-pricing-specs-and-gaming-performance)
+- [The University of the Future](https://chaitinschool.org/blog/the-university-of-the-future/)
+- [The antidepressant fluvoxamine can keep Covid-19 patients out of the hospital](https://www.sciencenews.org/article/covid-antidepressant-fluvoxamine-drug-hospital-death)
+- [What Are Facebook “Quick Experiments”?](https://webapps.stackexchange.com/questions/144303/what-are-facebook-quick-experiments)
+- [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/)
+- [The Image-Guided Surgery Toolkit](https://www.kitware.com/igstk/)
+- [Global potential for harvesting drinking water from air using solar energy](https://www.nature.com/articles/s41586-021-03900-w)
+- [Ash HN: Will HN meet the same fate of SlashDot?](https://news.ycombinator.com/item?id=29021409)
+- [Ancient Xinjiang Mummies Are Not of Indo-European Origin](https://www.nature.com/articles/s41586-021-04052-7)
+- [America is now the leading destination for Bitcoin mining](https://www.economist.com/graphic-detail/2021/10/22/america-is-the-big-winner-of-chinas-crypto-crackdown)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

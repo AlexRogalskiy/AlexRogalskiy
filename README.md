@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel Shares Alder Lake Pricing, Specs and Gaming Performance](https://www.tomshardware.com/features/intel-shares-alder-lake-pricing-specs-and-gaming-performance)
-- [The University of the Future](https://chaitinschool.org/blog/the-university-of-the-future/)
-- [The antidepressant fluvoxamine can keep Covid-19 patients out of the hospital](https://www.sciencenews.org/article/covid-antidepressant-fluvoxamine-drug-hospital-death)
-- [What Are Facebook “Quick Experiments”?](https://webapps.stackexchange.com/questions/144303/what-are-facebook-quick-experiments)
-- [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/)
-- [The Image-Guided Surgery Toolkit](https://www.kitware.com/igstk/)
-- [Global potential for harvesting drinking water from air using solar energy](https://www.nature.com/articles/s41586-021-03900-w)
-- [Ash HN: Will HN meet the same fate of SlashDot?](https://news.ycombinator.com/item?id=29021409)
-- [Ancient Xinjiang Mummies Are Not of Indo-European Origin](https://www.nature.com/articles/s41586-021-04052-7)
-- [America is now the leading destination for Bitcoin mining](https://www.economist.com/graphic-detail/2021/10/22/america-is-the-big-winner-of-chinas-crypto-crackdown)
+- [CDC's New 'Best Estimate' Implies a Covid-19 Infection Fatality Rate Below 0.3%](https://reason.com/2020/05/24/the-cdcs-new-best-estimate-implies-a-covid-19-infection-fatality-rate-below-0-3/)
+- [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
+- [Disable Adobe background processes on macOS](https://www.ravbug.com/tutorials/stop-adobe-daemons/)
+- [Sharing Her Passion for Chemistry and Textbooks](https://physics.aps.org/articles/v14/151)
+- [New activity from Russian actor Nobelium](https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/)
+- [FreeTDS – open-source client for Microsoft SQL Server and Sybase databases](https://www.freetds.org/)
+- [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+- [California Condors Are Capable of Asexual Reproduction](https://www.wired.com/story/california-condors-are-capable-of-asexual-reproduction/)
+- [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
+- [Global Money Laundering Watchdog Says Uh, Yeah, Better Regulate Cryptocurrency](https://gizmodo.com/global-money-laundering-watchdog-says-uh-yeah-better-1847956545)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

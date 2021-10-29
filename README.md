@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Closing Email with “Thanks” Gets the Most Replies](https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/)
-- [Non-Transitive Dice](https://singingbanana.com/dice/article.htm)
-- [Jerry (YC S17) is hiring a senior software engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [End Amazon’s Surveillance Partnership with Police](https://www.endringpartnerships.com/)
-- [Expectations for Generics in Go 1.18](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ)
-- [There Is No Bottom When It Comes to Section 230 Reform Proposals](https://blog.ericgoldman.org/archives/2021/10/there-is-no-bottom-when-it-comes-to-section-230-reform-proposals-comments-on-the-justice-against-malicious-algorithms-act.htm)
-- [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
-- [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
-- [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
-- [No YAML](https://noyaml.com/)
+- [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
+- [Facebook Unceremoniously Kills Off 'Oculus' Brand](https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/)
+- [How nimble Keyence grew into a $140B titan](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
+- [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+- [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
+- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Animated guide to Symex: Emacs structural editing with Lisp](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
+- [55 GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+- [Open-Source Babelfish for Postgres](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
+- [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

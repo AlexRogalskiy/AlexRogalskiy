@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 2: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/oct/27/world-series-game-2-atlanta-braves-v-houston-astros-live)
-- [The scourge of spiking: the students fighting for a safe night out](https://www.theguardian.com/news/audio/2021/oct/28/scourge-of-spiking-students-fighting-for-safe-night-out-podcast)
-- [I long for a day when gay footballers like me and Josh Cavallo don’t need to be so ‘brave’ | Andy Brennan](https://www.theguardian.com/football/2021/oct/28/i-long-for-a-day-when-gay-footballers-like-me-and-josh-cavallo-dont-need-to-be-so-brave)
-- [Hong Kong doubles down on Covid restrictions to fall into line with mainland China](https://www.theguardian.com/world/2021/oct/28/hong-kong-doubles-down-on-covid-restrictions-to-fall-into-line-with-mainland-china)
-- [Facebook tells staff to preserve documents amid heated inquiries](https://www.theguardian.com/technology/2021/oct/27/facebook-staff-preserve-documents-inquiries-latest)
-- [Taiwan president says China threat growing ‘every day’ as Biden criticises Beijing](https://www.theguardian.com/world/2021/oct/27/taiwan-has-no-right-to-join-un-china-insists-as-us-ratchets-up-tensions)
-- [DNA from Sitting Bull’s hair confirms US man is his great-grandson](https://www.theguardian.com/us-news/2021/oct/28/dna-from-sitting-bulls-hair-confirms-us-man-is-his-great-grandson)
-- [World’s chief scientists urge Cop26 attendees to step up low-carbon policies](https://www.theguardian.com/environment/2021/oct/28/world-leading-scientists)
-- [Latest figures reveal how pandemic shaped UK radio listening habits](https://www.theguardian.com/tv-and-radio/2021/oct/28/latest-figures-reveal-how-pandemic-shaped-uk-radio-listening-habits)
-- [I used to be a compulsive liar. Should I reach out to someone I hurt or leave it in the past? | Leading questions](https://www.theguardian.com/lifeandstyle/2021/oct/28/i-used-to-be-a-compulsive-liar-should-i-reach-out-to-someone-i-hurt-or-leave-it-in-the-past)
+- [Cop26: what would success look like for a country vanishing under water?](https://www.theguardian.com/news/audio/2021/oct/29/cop26-what-would-success-look-like-for-a-country-vanishing-under-water-podcast)
+- [‘Existential challenge’: G20 draft climate communique commits to 1.5C goal  – report](https://www.theguardian.com/world/2021/oct/29/g20-draft-climate-communique-15c-goal)
+- [Auckland, closed to the world by Covid, tops Lonely Planet’s list of best cities to visit](https://www.theguardian.com/world/2021/oct/29/auckland-closed-to-the-world-by-covid-tops-lonely-planets-list-of-best-cities-to-visit)
+- [Apple blames chip shortages and slow supply chain for disappointing quarter](https://www.theguardian.com/technology/2021/oct/28/apple-earnings-fourth-quarter-loss-chip-shortages-slow-supply-chain)
+- [Yes it’s expensive, but failing to meet climate challenge will cost a lot more | Larry Elliott](https://www.theguardian.com/business/2021/oct/28/yes-its-expensive-but-failing-to-meet-climate-challenge-will-cost-a-lot-more)
+- [Ed Sheeran: = review – calculated, craven, corny … or brilliantly crafted?](https://www.theguardian.com/music/2021/oct/29/ed-sheeran-review-calculated-craven-corny-or-brilliantly-crafted)
+- [Regulator paves way for NHS e-cigarette prescriptions in England](https://www.theguardian.com/society/2021/oct/29/regulator-paves-way-for-nhs-e-cigarette-prescriptions-in-england)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/oct/29/premier-league-10-things-to-look-out-for-this-weekend)
+- [Health watchdog Nice publishes delayed ME guidance](https://www.theguardian.com/society/2021/oct/29/health-watchdog-nice-publishes-delayed-me-guidance)
+- [The Magician’s Elephant review – a puppet you’ll never forget](https://www.theguardian.com/stage/2021/oct/29/the-magicians-elephant-review-royal-shakespeare-theatre)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

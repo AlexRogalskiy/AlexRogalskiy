@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CDC's New 'Best Estimate' Implies a Covid-19 Infection Fatality Rate Below 0.3%](https://reason.com/2020/05/24/the-cdcs-new-best-estimate-implies-a-covid-19-infection-fatality-rate-below-0-3/)
-- [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
-- [Disable Adobe background processes on macOS](https://www.ravbug.com/tutorials/stop-adobe-daemons/)
-- [Sharing Her Passion for Chemistry and Textbooks](https://physics.aps.org/articles/v14/151)
-- [New activity from Russian actor Nobelium](https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/)
-- [FreeTDS – open-source client for Microsoft SQL Server and Sybase databases](https://www.freetds.org/)
-- [Reflections on Trusting Trust (1984) [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-- [California Condors Are Capable of Asexual Reproduction](https://www.wired.com/story/california-condors-are-capable-of-asexual-reproduction/)
-- [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
-- [Global Money Laundering Watchdog Says Uh, Yeah, Better Regulate Cryptocurrency](https://gizmodo.com/global-money-laundering-watchdog-says-uh-yeah-better-1847956545)
+- [Ocean Plastic](https://unchartedterritories.tomaspueyo.com/p/ocean-plastic)
+- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [Minimum Advertised Price monitoring and enforcement](https://news.ycombinator.com/item?id=29045442)
+- [Paranormal Politics: A poltergeist sowed division in 18th-century England](https://www.historytoday.com/archive/feature/paranormal-politics)
+- [First Jami beta with Swarm support](https://jami.net/first-jami-beta-with-swarm-support/)
+- [Nbrowser: “Open URL with ” dialog on Android but for Linux (using rofi menu)](https://github.com/MyOS-ArchLinux/nbrowser)
+- [Git in the Trenches](http://cbx33.github.io/gitt/intro.html)
+- [GAO Sides with Microsoft in NSA Contract Protest](https://www.nextgov.com/it-modernization/2021/10/gao-sides-microsoft-massive-nsa-contract-protest/186487/)
+- [Bee colonies've collapsed across the US. BeeHero developed a high-tech solution](https://www.theguardian.com/environment/2021/oct/29/beehero-bee-colonies-collapse-us-high-tech-solution)
+- [How the risk of Covid-19 for kids compares to other dangers](https://www.vox.com/22699019/covid-19-children-kids-risk-hospitalization-death)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

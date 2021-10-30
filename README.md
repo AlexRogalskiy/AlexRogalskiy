@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
-- [Facebook Unceremoniously Kills Off 'Oculus' Brand](https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/)
-- [How nimble Keyence grew into a $140B titan](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
-- [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-- [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
-- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [Animated guide to Symex: Emacs structural editing with Lisp](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
-- [55 GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
-- [Open-Source Babelfish for Postgres](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
-- [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
+- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [OpenWorm](https://github.com/openworm)
+- [Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast)
+- [“Metaverse” creator reacts to Facebook name change](https://www.axios.com/metaverse-creator-neal-stephenson-facebook-name-change-a4259282-5016-4c67-a7ae-b0eb381a7773.html)
+- [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
+- [Roblox has been down for over 24 hours](https://status.roblox.com/)
+- [Circular Harmonics](https://valdes.cc/articles/ch.html)
+- [Better Operator Precedence](https://scattered-thoughts.net/writing/better-operator-precedence/)
+- [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
+- [Release (YC W20) Is Hiring a Product Director – Remote](https://releasehub.com/company#hire)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

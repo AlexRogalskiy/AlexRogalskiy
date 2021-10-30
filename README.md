@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cop26: what would success look like for a country vanishing under water?](https://www.theguardian.com/news/audio/2021/oct/29/cop26-what-would-success-look-like-for-a-country-vanishing-under-water-podcast)
-- [‘Existential challenge’: G20 draft climate communique commits to 1.5C goal  – report](https://www.theguardian.com/world/2021/oct/29/g20-draft-climate-communique-15c-goal)
-- [Auckland, closed to the world by Covid, tops Lonely Planet’s list of best cities to visit](https://www.theguardian.com/world/2021/oct/29/auckland-closed-to-the-world-by-covid-tops-lonely-planets-list-of-best-cities-to-visit)
-- [Apple blames chip shortages and slow supply chain for disappointing quarter](https://www.theguardian.com/technology/2021/oct/28/apple-earnings-fourth-quarter-loss-chip-shortages-slow-supply-chain)
-- [Yes it’s expensive, but failing to meet climate challenge will cost a lot more | Larry Elliott](https://www.theguardian.com/business/2021/oct/28/yes-its-expensive-but-failing-to-meet-climate-challenge-will-cost-a-lot-more)
-- [Ed Sheeran: = review – calculated, craven, corny … or brilliantly crafted?](https://www.theguardian.com/music/2021/oct/29/ed-sheeran-review-calculated-craven-corny-or-brilliantly-crafted)
-- [Regulator paves way for NHS e-cigarette prescriptions in England](https://www.theguardian.com/society/2021/oct/29/regulator-paves-way-for-nhs-e-cigarette-prescriptions-in-england)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/oct/29/premier-league-10-things-to-look-out-for-this-weekend)
-- [Health watchdog Nice publishes delayed ME guidance](https://www.theguardian.com/society/2021/oct/29/health-watchdog-nice-publishes-delayed-me-guidance)
-- [The Magician’s Elephant review – a puppet you’ll never forget](https://www.theguardian.com/stage/2021/oct/29/the-magicians-elephant-review-royal-shakespeare-theatre)
+- [‘Momentum for peace’: Pope Francis urged to visit North Korea by Moon Jae-in](https://www.theguardian.com/world/2021/oct/30/pope-francis-north-korea-moon-jae-in-visit-south-korea)
+- [Prince Andrew asks US judge to dismiss lawsuit alleging sexual abuse](https://www.theguardian.com/uk-news/2021/oct/29/prince-andrew-virginia-giuffre-lawsuit)
+- [Trudeau files last-ditch appeal against billions for Indigenous children](https://www.theguardian.com/global-development/2021/oct/29/trudeau-government-canada-indigenous-children)
+- [Covid bioweapon claims ‘scientifically invalid’, US intelligence reports](https://www.theguardian.com/world/2021/oct/29/us-intelligence-report-covid-origins)
+- [Australia’s 2050 net zero emissions plan relies on ‘gross manipulation’ of data, experts say](https://www.theguardian.com/australia-news/2021/oct/30/australias-2050-net-zero-emissions-plan-relies-on-gross-manipulation-of-data-experts-say)
+- [‘If we don’t act now it will be too late’, warns Johnson ahead of Cop26](https://www.theguardian.com/environment/2021/oct/29/boris-johnson-cop26-climate-warning-rome-g20-dont-act-now-too-late)
+- [Johnny Williams: ‘There have been sacrifices. It’s almost like a first cap’](https://www.theguardian.com/sport/2021/oct/29/johnny-williams-wales-new-zealand-injuries-rugby-union)
+- [Scotland’s new faces given chance against Tonga before tougher Tests](https://www.theguardian.com/sport/2021/oct/29/scotlands-new-faces-given-chance-against-tonga-before-tougher-tests)
+- [Prince Harry and Meghan appeal to G20 to keep Covid vaccine donation pledges](https://www.theguardian.com/uk-news/2021/oct/29/prince-harry-and-meghan-appeal-to-g20-to-keep-covid-vaccine-donation-pledges)
+- [Manchester United must finally dump Fergusonism and make a clean break | Jonathan Liew](https://www.theguardian.com/football/blog/2021/oct/29/manchester-united-must-finally-dump-fergusonism-and-make-a-clean-break)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

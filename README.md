@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Momentum for peace’: Pope Francis urged to visit North Korea by Moon Jae-in](https://www.theguardian.com/world/2021/oct/30/pope-francis-north-korea-moon-jae-in-visit-south-korea)
-- [Prince Andrew asks US judge to dismiss lawsuit alleging sexual abuse](https://www.theguardian.com/uk-news/2021/oct/29/prince-andrew-virginia-giuffre-lawsuit)
-- [Trudeau files last-ditch appeal against billions for Indigenous children](https://www.theguardian.com/global-development/2021/oct/29/trudeau-government-canada-indigenous-children)
-- [Covid bioweapon claims ‘scientifically invalid’, US intelligence reports](https://www.theguardian.com/world/2021/oct/29/us-intelligence-report-covid-origins)
-- [Australia’s 2050 net zero emissions plan relies on ‘gross manipulation’ of data, experts say](https://www.theguardian.com/australia-news/2021/oct/30/australias-2050-net-zero-emissions-plan-relies-on-gross-manipulation-of-data-experts-say)
-- [‘If we don’t act now it will be too late’, warns Johnson ahead of Cop26](https://www.theguardian.com/environment/2021/oct/29/boris-johnson-cop26-climate-warning-rome-g20-dont-act-now-too-late)
-- [Johnny Williams: ‘There have been sacrifices. It’s almost like a first cap’](https://www.theguardian.com/sport/2021/oct/29/johnny-williams-wales-new-zealand-injuries-rugby-union)
-- [Scotland’s new faces given chance against Tonga before tougher Tests](https://www.theguardian.com/sport/2021/oct/29/scotlands-new-faces-given-chance-against-tonga-before-tougher-tests)
-- [Prince Harry and Meghan appeal to G20 to keep Covid vaccine donation pledges](https://www.theguardian.com/uk-news/2021/oct/29/prince-harry-and-meghan-appeal-to-g20-to-keep-covid-vaccine-donation-pledges)
-- [Manchester United must finally dump Fergusonism and make a clean break | Jonathan Liew](https://www.theguardian.com/football/blog/2021/oct/29/manchester-united-must-finally-dump-fergusonism-and-make-a-clean-break)
+- [US and EU reach peace deal on Trump-era tariffs on steel and aluminium](https://www.theguardian.com/business/2021/oct/31/us-and-eu-reach-peace-deal-on-trump-era-tariffs-on-steel-and-aluminium)
+- [Scott Morrison contradicts Biden’s comments on whether French were informed about Aukus](https://www.theguardian.com/australia-news/2021/oct/31/scott-morrison-contradicts-bidens-claims-that-french-werent-fully-informed-on-aukus)
+- [Will it be the Bank that stole Christmas by putting up rates?](https://www.theguardian.com/business/2021/oct/31/will-it-be-the-bank-that-stole-christmas-by-putting-up-rates)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/30/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trend watch: Pump up the volume with statement sleeves](https://www.theguardian.com/fashion/2021/oct/30/trend-watch-pump-up-the-volume-with-statement-sleeves)
+- [France and UK told: end dispute or you’ll wreck Cop26 summit](https://www.theguardian.com/business/2021/oct/30/france-and-uk-told-end-dispute-or-youll-wreck-cop26-summit)
+- [Barcelona’s Sergio Agüero admitted to hospital after Alavés draw](https://www.theguardian.com/football/2021/oct/30/barcelona-alaves-la-liga-match-report)
+- [Boris Johnson stresses importance of Covid booster jabs](https://www.theguardian.com/world/2021/oct/30/boris-johnson-stresses-importance-of-covid-booster-jabs)
+- [Springboks provide acid test despite unstoppable Tom Curry’s mantra](https://www.theguardian.com/sport/2021/oct/30/springboks-provide-acid-test-despite-unstoppable-tom-currys-mantra)
+- [Alec Baldwin breaks silence on Rust shooting: ‘She was my friend’](https://www.theguardian.com/us-news/2021/oct/30/alec-baldwin-rust-shooting-halyna-hutchins)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

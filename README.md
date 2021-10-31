@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
-- [OpenWorm](https://github.com/openworm)
-- [Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast)
-- [“Metaverse” creator reacts to Facebook name change](https://www.axios.com/metaverse-creator-neal-stephenson-facebook-name-change-a4259282-5016-4c67-a7ae-b0eb381a7773.html)
-- [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
-- [Roblox has been down for over 24 hours](https://status.roblox.com/)
-- [Circular Harmonics](https://valdes.cc/articles/ch.html)
-- [Better Operator Precedence](https://scattered-thoughts.net/writing/better-operator-precedence/)
-- [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
-- [Release (YC W20) Is Hiring a Product Director – Remote](https://releasehub.com/company#hire)
+- [I Miss the Old Internet](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
+- [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
+- [Ask HN: If the Internet were redesigned today, what changes would you make?](https://news.ycombinator.com/item?id=29053266)
+- [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
+- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
+- [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
+- [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
+- [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/)
+- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
+- [Schoellkopf Power Station Disaster – a history](https://www.niagarafrontier.com/schoellkopf.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

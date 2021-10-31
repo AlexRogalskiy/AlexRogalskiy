@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ocean Plastic](https://unchartedterritories.tomaspueyo.com/p/ocean-plastic)
-- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
-- [Minimum Advertised Price monitoring and enforcement](https://news.ycombinator.com/item?id=29045442)
-- [Paranormal Politics: A poltergeist sowed division in 18th-century England](https://www.historytoday.com/archive/feature/paranormal-politics)
-- [First Jami beta with Swarm support](https://jami.net/first-jami-beta-with-swarm-support/)
-- [Nbrowser: “Open URL with ” dialog on Android but for Linux (using rofi menu)](https://github.com/MyOS-ArchLinux/nbrowser)
-- [Git in the Trenches](http://cbx33.github.io/gitt/intro.html)
-- [GAO Sides with Microsoft in NSA Contract Protest](https://www.nextgov.com/it-modernization/2021/10/gao-sides-microsoft-massive-nsa-contract-protest/186487/)
-- [Bee colonies've collapsed across the US. BeeHero developed a high-tech solution](https://www.theguardian.com/environment/2021/oct/29/beehero-bee-colonies-collapse-us-high-tech-solution)
-- [How the risk of Covid-19 for kids compares to other dangers](https://www.vox.com/22699019/covid-19-children-kids-risk-hospitalization-death)
+- [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
+- [The Definitive Collection of V.90/V.92 Modem Sounds](https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/)
+- [Beyond Smart](http://www.paulgraham.com/smart.html)
+- [The plexiglass barrier problem – Macleans.ca](https://www.macleans.ca/society/health/the-plexiglass-barrier-problem/)
+- [UFOs: When Science Fiction Meets Spirituality: Harvbishop.com](https://www.harvbishop.com/ufos-when-science-fiction-meets-spirituality/)
+- [Lumina Desktop Environment](https://lumina-desktop.org/)
+- [Ask HN: The Expected Style for Tech Résumés](https://news.ycombinator.com/item?id=29053845)
+- [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
+- [Stargate DAW – digital audio workstation with a powerful pattern-based workflow](https://stargateaudio.github.io/)
+- [Zrythm – highly automated and intuitive digital audio workstation](https://www.zrythm.org/en/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US and EU reach peace deal on Trump-era tariffs on steel and aluminium](https://www.theguardian.com/business/2021/oct/31/us-and-eu-reach-peace-deal-on-trump-era-tariffs-on-steel-and-aluminium)
-- [Scott Morrison contradicts Biden’s comments on whether French were informed about Aukus](https://www.theguardian.com/australia-news/2021/oct/31/scott-morrison-contradicts-bidens-claims-that-french-werent-fully-informed-on-aukus)
-- [Will it be the Bank that stole Christmas by putting up rates?](https://www.theguardian.com/business/2021/oct/31/will-it-be-the-bank-that-stole-christmas-by-putting-up-rates)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/oct/30/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trend watch: Pump up the volume with statement sleeves](https://www.theguardian.com/fashion/2021/oct/30/trend-watch-pump-up-the-volume-with-statement-sleeves)
-- [France and UK told: end dispute or you’ll wreck Cop26 summit](https://www.theguardian.com/business/2021/oct/30/france-and-uk-told-end-dispute-or-youll-wreck-cop26-summit)
-- [Barcelona’s Sergio Agüero admitted to hospital after Alavés draw](https://www.theguardian.com/football/2021/oct/30/barcelona-alaves-la-liga-match-report)
-- [Boris Johnson stresses importance of Covid booster jabs](https://www.theguardian.com/world/2021/oct/30/boris-johnson-stresses-importance-of-covid-booster-jabs)
-- [Springboks provide acid test despite unstoppable Tom Curry’s mantra](https://www.theguardian.com/sport/2021/oct/30/springboks-provide-acid-test-despite-unstoppable-tom-currys-mantra)
-- [Alec Baldwin breaks silence on Rust shooting: ‘She was my friend’](https://www.theguardian.com/us-news/2021/oct/30/alec-baldwin-rust-shooting-halyna-hutchins)
+- [World Series Game 5: Houston Astros v Atlanta Braves – live!](https://www.theguardian.com/sport/live/2021/oct/31/world-series-game-5-houston-astros-v-atlanta-braves-live)
+- [Ruling party of Fumio Kishida wins comfortable victory in Japanese election](https://www.theguardian.com/world/2021/oct/31/ruling-party-of-fumio-kishida-wins-smaller-majority-in-japanese-election)
+- [Thailand reopens to some vaccinated tourists after 18 months of Covid curbs](https://www.theguardian.com/world/2021/nov/01/thailand-reopens-to-vaccinated-tourists-after-18-months-of-covid-curbs)
+- [‘I’ve got to get to my daughter, I’ve got to hold her’: families reunite at Sydney airport after international border reopens](https://www.theguardian.com/australia-news/2021/nov/01/hugs-and-tears-as-families-reunite-at-sydney-airport-after-australias-international-border-reopens)
+- [Netflix’s Emily in Paris to focus on diversity, says star Lily Collins](https://www.theguardian.com/tv-and-radio/2021/nov/01/emily-in-paris-netflix-series-two-diversity-lily-collins)
+- [Covid booster jabs offered at NHS walk-in clinics in England](https://www.theguardian.com/society/2021/nov/01/nhs-walk-in-clinics-england-now-offer-covid-booster-vaccinations)
+- [Ministers’ conduct needs to be properly policed, review says](https://www.theguardian.com/politics/2021/nov/01/ministers-conduct-needs-to-be-properly-policed-review-says)
+- [‘The Great Resignation’: almost one in four workers planning job change](https://www.theguardian.com/money/2021/nov/01/the-great-resignation-almost-one-in-four-workers-planning-job-change)
+- [‘Christmas dinner in a can’ promises answer to supermarket shortages](https://www.theguardian.com/lifeandstyle/2021/nov/01/christmas-dinner-in-a-can-promises-answer-to-supermarket-shortages)
+- [EU riding roughshod over Northern Ireland trade, says Brexit minister](https://www.theguardian.com/politics/2021/nov/01/eu-riding-roughshod-over-northern-ireland-trade-says-brexit-minister)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

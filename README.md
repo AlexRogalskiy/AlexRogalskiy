@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
-- [The Definitive Collection of V.90/V.92 Modem Sounds](https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/)
-- [Beyond Smart](http://www.paulgraham.com/smart.html)
-- [The plexiglass barrier problem – Macleans.ca](https://www.macleans.ca/society/health/the-plexiglass-barrier-problem/)
-- [UFOs: When Science Fiction Meets Spirituality: Harvbishop.com](https://www.harvbishop.com/ufos-when-science-fiction-meets-spirituality/)
-- [Lumina Desktop Environment](https://lumina-desktop.org/)
-- [Ask HN: The Expected Style for Tech Résumés](https://news.ycombinator.com/item?id=29053845)
-- [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
-- [Stargate DAW – digital audio workstation with a powerful pattern-based workflow](https://stargateaudio.github.io/)
-- [Zrythm – highly automated and intuitive digital audio workstation](https://www.zrythm.org/en/index.html)
+- [What I Tell All New VCs About Their First Funds](https://hunterwalk.com/2021/10/31/what-i-tell-all-new-vcs-about-their-first-funds/)
+- [Ask HN: What are remote startups doing for Holiday Events?](https://news.ycombinator.com/item?id=29062464)
+- [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
+- [Identification of proteins associated with Fusarium crown rot resistance](http://www.hotpaper.io/view/Identification_of_proteins_associated_with_Fusarium_crown_rot_resistance_in_wheat_using_labelfree_quantification_analysis.html)
+- [Multipath Extensions for WireGuard [pdf]](http://dl.ifip.org/db/conf/networking/networking2021/1570719654.pdf)
+- [RetDec – retargetable machine-code decompiler based on LLVM](https://github.com/avast/retdec)
+- [Mirabelle, a stream processing engine for monitoring, inspired by Riemann](https://www.mirabelle.mcorbin.fr/)
+- [Quantum Measurements Episode 3 Quantum Programming LiveStream](https://www.youtube.com/watch?v=O6ZZfGgGu7g)
+- [Basketballer Aaron Gordon and his mother want to bring diversity to tech](https://theundefeated.com/features/nuggets-aaron-gordon-and-his-mother-are-determined-to-bring-diversity-to-the-tech-world/)
+- [John Carmack: metaverse is a honeypot trap for architecture astronauts [video]](https://www.youtube.com/watch?v=BnSUk0je6oo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

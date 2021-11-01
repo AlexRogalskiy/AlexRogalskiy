@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Miss the Old Internet](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
-- [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
-- [Ask HN: If the Internet were redesigned today, what changes would you make?](https://news.ycombinator.com/item?id=29053266)
-- [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
-- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
-- [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
-- [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
-- [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/)
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
-- [Schoellkopf Power Station Disaster – a history](https://www.niagarafrontier.com/schoellkopf.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29062037)
+- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+- [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
+- [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
+- [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
+- [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
+- [Ask HN: How do you tackle your own negativity?](https://news.ycombinator.com/item?id=29060798)
+- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
+- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
+- [Watermelons](https://seasonal.substack.com/p/watermelons)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

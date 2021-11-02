@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29062037)
-- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
-- [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
-- [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
-- [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
-- [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
-- [Ask HN: How do you tackle your own negativity?](https://news.ycombinator.com/item?id=29060798)
-- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
-- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
-- [Watermelons](https://seasonal.substack.com/p/watermelons)
+- [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
+- [Bringing back Cartoon Modern, a rare animation artbook](https://animationobsessive.substack.com/p/our-treat-to-you)
+- [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
+- [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
+- [Culture shock](https://siddhesh.substack.com/p/culture-shock)
+- [C³: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
+- [The simplest of slumbers](https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber)
+- [Inflationary Hikes](https://fedguy.com/inflationary-hikes/)
+- [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
+- [Web developer tool secrets that shouldn’t be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 5: Houston Astros v Atlanta Braves – live!](https://www.theguardian.com/sport/live/2021/oct/31/world-series-game-5-houston-astros-v-atlanta-braves-live)
-- [Ruling party of Fumio Kishida wins comfortable victory in Japanese election](https://www.theguardian.com/world/2021/oct/31/ruling-party-of-fumio-kishida-wins-smaller-majority-in-japanese-election)
-- [Thailand reopens to some vaccinated tourists after 18 months of Covid curbs](https://www.theguardian.com/world/2021/nov/01/thailand-reopens-to-vaccinated-tourists-after-18-months-of-covid-curbs)
-- [‘I’ve got to get to my daughter, I’ve got to hold her’: families reunite at Sydney airport after international border reopens](https://www.theguardian.com/australia-news/2021/nov/01/hugs-and-tears-as-families-reunite-at-sydney-airport-after-australias-international-border-reopens)
-- [Netflix’s Emily in Paris to focus on diversity, says star Lily Collins](https://www.theguardian.com/tv-and-radio/2021/nov/01/emily-in-paris-netflix-series-two-diversity-lily-collins)
-- [Covid booster jabs offered at NHS walk-in clinics in England](https://www.theguardian.com/society/2021/nov/01/nhs-walk-in-clinics-england-now-offer-covid-booster-vaccinations)
-- [Ministers’ conduct needs to be properly policed, review says](https://www.theguardian.com/politics/2021/nov/01/ministers-conduct-needs-to-be-properly-policed-review-says)
-- [‘The Great Resignation’: almost one in four workers planning job change](https://www.theguardian.com/money/2021/nov/01/the-great-resignation-almost-one-in-four-workers-planning-job-change)
-- [‘Christmas dinner in a can’ promises answer to supermarket shortages](https://www.theguardian.com/lifeandstyle/2021/nov/01/christmas-dinner-in-a-can-promises-answer-to-supermarket-shortages)
-- [EU riding roughshod over Northern Ireland trade, says Brexit minister](https://www.theguardian.com/politics/2021/nov/01/eu-riding-roughshod-over-northern-ireland-trade-says-brexit-minister)
+- [Dr Aaron Beck, the father of cognitive behavioural therapy, dies aged 100](https://www.theguardian.com/science/2021/nov/02/dr-aaron-beck-the-father-of-cognitive-behavioural-therapy-dies-aged-100)
+- [Robert Durst indicted for murder 39 years after wife Kathie Durst disappeared](https://www.theguardian.com/us-news/2021/nov/01/robert-durst-indicted-murder-accusation-kathie-durst)
+- [Nasa delays SpaceX launch to ISS over ‘medical issue’ with astronaut](https://www.theguardian.com/science/2021/nov/02/nasa-delays-spacex-launch-to-iss-over-medical-issue-with-astronaut)
+- [Tesla opens Superchargers to other electric cars for first time](https://www.theguardian.com/technology/2021/nov/02/tesla-opens-superchargers-to-other-electric-cars-for-first-time)
+- [Halt smart motorway projects until safety upgrades are made, say MPs](https://www.theguardian.com/world/2021/nov/02/halt-smart-motorway-projects-until-safety-upgrades-are-made-say-mps)
+- [Facebook failing to protect users from Covid misinformation, says monitor](https://www.theguardian.com/technology/2021/nov/02/facebook-failing-to-protect-users-from-covid-misinformation-says-monitor)
+- [Thousands of adverse birth outcomes in England down to ‘alarming’ inequality](https://www.theguardian.com/lifeandstyle/2021/nov/01/thousands-of-adverse-birth-outcomes-in-england-down-to-alarming-inequality)
+- [Why is Emmanuel Macron so upset with Scott Morrison?](https://www.theguardian.com/australia-news/2021/nov/02/why-is-emmanuel-macron-so-upset-with-scott-morrison)
+- [Mark Zuckerberg should quit Facebook, says Frances Haugen](https://www.theguardian.com/technology/2021/nov/01/mark-zuckerberg-should-quit-facebook-says-frances-haugen)
+- [Murray spurns seven match points in Paris Masters defeat by Koepfer](https://www.theguardian.com/sport/2021/nov/01/cameron-norrie-cruises-to-victory-over-federico-delbonis-in-paris)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

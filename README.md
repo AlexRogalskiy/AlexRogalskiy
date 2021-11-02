@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What I Tell All New VCs About Their First Funds](https://hunterwalk.com/2021/10/31/what-i-tell-all-new-vcs-about-their-first-funds/)
-- [Ask HN: What are remote startups doing for Holiday Events?](https://news.ycombinator.com/item?id=29062464)
-- [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
-- [Identification of proteins associated with Fusarium crown rot resistance](http://www.hotpaper.io/view/Identification_of_proteins_associated_with_Fusarium_crown_rot_resistance_in_wheat_using_labelfree_quantification_analysis.html)
-- [Multipath Extensions for WireGuard [pdf]](http://dl.ifip.org/db/conf/networking/networking2021/1570719654.pdf)
-- [RetDec – retargetable machine-code decompiler based on LLVM](https://github.com/avast/retdec)
-- [Mirabelle, a stream processing engine for monitoring, inspired by Riemann](https://www.mirabelle.mcorbin.fr/)
-- [Quantum Measurements Episode 3 Quantum Programming LiveStream](https://www.youtube.com/watch?v=O6ZZfGgGu7g)
-- [Basketballer Aaron Gordon and his mother want to bring diversity to tech](https://theundefeated.com/features/nuggets-aaron-gordon-and-his-mother-are-determined-to-bring-diversity-to-the-tech-world/)
-- [John Carmack: metaverse is a honeypot trap for architecture astronauts [video]](https://www.youtube.com/watch?v=BnSUk0je6oo)
+- [GitHub is China’s ‘last land of free speech’ – but for how long?](https://restofworld.org/2021/github-microsoft-in-china-how-long/)
+- [Influencers in Shanghai are posing at Costco, pretending they're in L.A](https://www.nbcnews.com/news/asian-america/influencers-shanghai-are-posing-costco-pretending-l-rcna4162)
+- [Scientist and Killer: A Split Life](https://pursuit.unimelb.edu.au/articles/scientist-and-killer-a-split-life)
+- [High Performance, High Compression Ratio, High Usability Open-Source TSDB:CnosDB](https://github.com/cnosdatabase/cnosdb)
+- [Tesla opens Superchargers to other electric cars for first time](https://www.theguardian.com/technology/2021/nov/02/tesla-opens-superchargers-to-other-electric-cars-for-first-time)
+- [A Gentle Introduction to SuperCollider [pdf]](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
+- [Problem with spreading Erlang is that programers havent heard much about it](https://twitter.com/rvirding/status/1454109942990966792)
+- [World Series: The sports data pioneer who spotted baseball's big fix of 1919](https://www.bbc.co.uk/sport/baseball/59078788)
+- [DDD, Hexagonal, Onion, Clean, CQRS, How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- [J2ME Gaming](https://old.reddit.com/r/J2MEgaming/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

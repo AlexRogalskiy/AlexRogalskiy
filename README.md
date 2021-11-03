@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
-- [Bringing back Cartoon Modern, a rare animation artbook](https://animationobsessive.substack.com/p/our-treat-to-you)
-- [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
-- [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
-- [Culture shock](https://siddhesh.substack.com/p/culture-shock)
-- [C³: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
-- [The simplest of slumbers](https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber)
-- [Inflationary Hikes](https://fedguy.com/inflationary-hikes/)
-- [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
-- [Web developer tool secrets that shouldn’t be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
+- [CoV–2 Spike Impairs DNA Damage Repair – Inhibits V(D)J Recombination in Vitro](https://www.mdpi.com/1999-4915/13/10/2056/htm)
+- [Corrily (YC W21) Is Hiring a Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
+- [Modernizing the Wolfenstein 3D Fizzlefade Algorithm (2017)](https://jacopretorius.net/2017/09/wolfeinstein-3d-fizzlefade-algorithm.html)
+- [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
+- [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html)
+- [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
+- [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
+- [A U.S. submarine struck an underwater mountain last month, the Navy says](https://www.npr.org/2021/11/02/1051422572/navy-submarine-nuclear-collision-south-china-sea)
+- [Backblaze IPO](https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm)
+- [Unix's confusing set of low-level ways to allocate memory](https://utcc.utoronto.ca/~cks/space/blog/unix/SbrkVersusMmap)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

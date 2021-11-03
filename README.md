@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dr Aaron Beck, the father of cognitive behavioural therapy, dies aged 100](https://www.theguardian.com/science/2021/nov/02/dr-aaron-beck-the-father-of-cognitive-behavioural-therapy-dies-aged-100)
-- [Robert Durst indicted for murder 39 years after wife Kathie Durst disappeared](https://www.theguardian.com/us-news/2021/nov/01/robert-durst-indicted-murder-accusation-kathie-durst)
-- [Nasa delays SpaceX launch to ISS over ‘medical issue’ with astronaut](https://www.theguardian.com/science/2021/nov/02/nasa-delays-spacex-launch-to-iss-over-medical-issue-with-astronaut)
-- [Tesla opens Superchargers to other electric cars for first time](https://www.theguardian.com/technology/2021/nov/02/tesla-opens-superchargers-to-other-electric-cars-for-first-time)
-- [Halt smart motorway projects until safety upgrades are made, say MPs](https://www.theguardian.com/world/2021/nov/02/halt-smart-motorway-projects-until-safety-upgrades-are-made-say-mps)
-- [Facebook failing to protect users from Covid misinformation, says monitor](https://www.theguardian.com/technology/2021/nov/02/facebook-failing-to-protect-users-from-covid-misinformation-says-monitor)
-- [Thousands of adverse birth outcomes in England down to ‘alarming’ inequality](https://www.theguardian.com/lifeandstyle/2021/nov/01/thousands-of-adverse-birth-outcomes-in-england-down-to-alarming-inequality)
-- [Why is Emmanuel Macron so upset with Scott Morrison?](https://www.theguardian.com/australia-news/2021/nov/02/why-is-emmanuel-macron-so-upset-with-scott-morrison)
-- [Mark Zuckerberg should quit Facebook, says Frances Haugen](https://www.theguardian.com/technology/2021/nov/01/mark-zuckerberg-should-quit-facebook-says-frances-haugen)
-- [Murray spurns seven match points in Paris Masters defeat by Koepfer](https://www.theguardian.com/sport/2021/nov/01/cameron-norrie-cruises-to-victory-over-federico-delbonis-in-paris)
+- [World Series Game 6: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/nov/02/world-series-game-6-atlanta-braves-v-houston-astros-live)
+- [Eric Adams, former police officer, wins New York mayor’s race](https://www.theguardian.com/us-news/2021/nov/02/eric-adams-wins-mayor-election-new-york-city)
+- [British waitress wins legal battle against Australia’s ‘backpacker tax’](https://www.theguardian.com/australia-news/2021/nov/03/british-waitress-wins-legal-battle-against-australias-backpacker-tax)
+- [Hong Kong protests: filmmakers decry new law that could censor a moment in history](https://www.theguardian.com/world/2021/nov/03/hong-kong-protests-filmmakers-decry-new-law-that-could-censor-a-moment-in-history)
+- [Newcastle close to landing Unai Emery but manager insists ‘no offer’ made yet](https://www.theguardian.com/football/2021/nov/02/newcastle-close-to-landing-unai-emery-as-manager-from-villarreal)
+- [Coronavirus live: UK sees highest daily death toll since February; Greek cases set new record high](https://www.theguardian.com/world/live/2021/nov/02/coronavirus-news-live-china-tells-families-to-stock-up-amid-covid-outbreak-japans-cases-dramatically-decline)
+- [MoD wasting billions with ‘broken’ procurement system, MPs warn](https://www.theguardian.com/uk-news/2021/nov/03/mod-wasting-billions-with-broken-procurement-system-mps-warn)
+- [Women under 35 face higher risk of breast cancer spreading – study](https://www.theguardian.com/society/2021/nov/03/women-under-35-face-higher-risk-of-breast-cancer-spreading-study)
+- [Electric cars account for under 5% of miles driven by Uber in Europe](https://www.theguardian.com/technology/2021/nov/03/electric-cars-under-5-per-cent-miles-driven-uber-europe)
+- [Europe’s record summer ‘impossible’ without global heating](https://www.theguardian.com/environment/2021/nov/03/europe-record-summer-global-heating-cop26)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

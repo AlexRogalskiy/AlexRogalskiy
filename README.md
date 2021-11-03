@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GitHub is China’s ‘last land of free speech’ – but for how long?](https://restofworld.org/2021/github-microsoft-in-china-how-long/)
-- [Influencers in Shanghai are posing at Costco, pretending they're in L.A](https://www.nbcnews.com/news/asian-america/influencers-shanghai-are-posing-costco-pretending-l-rcna4162)
-- [Scientist and Killer: A Split Life](https://pursuit.unimelb.edu.au/articles/scientist-and-killer-a-split-life)
-- [High Performance, High Compression Ratio, High Usability Open-Source TSDB:CnosDB](https://github.com/cnosdatabase/cnosdb)
-- [Tesla opens Superchargers to other electric cars for first time](https://www.theguardian.com/technology/2021/nov/02/tesla-opens-superchargers-to-other-electric-cars-for-first-time)
-- [A Gentle Introduction to SuperCollider [pdf]](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
-- [Problem with spreading Erlang is that programers havent heard much about it](https://twitter.com/rvirding/status/1454109942990966792)
-- [World Series: The sports data pioneer who spotted baseball's big fix of 1919](https://www.bbc.co.uk/sport/baseball/59078788)
-- [DDD, Hexagonal, Onion, Clean, CQRS, How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
-- [J2ME Gaming](https://old.reddit.com/r/J2MEgaming/)
+- [Notability Users Frustrated by Switch to Subscription Model](https://www.macrumors.com/2021/11/02/notability-users-frustrated-subscription-model/)
+- [Fully Managed RStudio on Amazon SageMaker for Data Scientists](https://aws.amazon.com/blogs/aws/announcing-fully-managed-rstudio-on-amazon-sagemaker-for-data-scientists/)
+- [Ask HN: Accounting / Accountant for Consulting](https://news.ycombinator.com/item?id=29090287)
+- [Mars Express keeps an ear out for Chinese rover](https://blogs.esa.int/mex/2021/10/27/mars-express-keeps-an-ear-out-for-chinese-rover/)
+- [Amazon seeks FCC approval for prototype satellites](https://www.axios.com/amazon-fcc-prototype-satellites-975ea733-8c9a-40cd-b630-191a910c2258.html)
+- ['Ghost port': Asia's first fully-automated port begins operations in Qingdao](https://news.cgtn.com/news/3d637a4e31677a4d/share_p.html)
+- [NREL Researchers Point Toward Energy Efficiency Instead of Long-Term Storage](https://www.nrel.gov/news/press/2021/nrel-researchers-point-toward-energy-efficiency-instead-of-long-term-storage.html)
+- [I took a $74, 35-hour train ride. Here are the 7 best and 7 worst parts](https://www.insider.com/best-and-worst-parts-long-train-ride-35-hours-photos-2021-10)
+- [Elements may have been forged on Earth, as well as in space](https://physicsworld.com/a/elements-may-have-been-forged-on-earth-as-well-as-in-space/)
+- [Why Are We Microdosing Vaccines for Kids](https://www.theatlantic.com/science/archive/2021/11/kids-covid-vaccines-age-smaller-dose/620591/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

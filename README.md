@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Why traditional IP networking is wrong for the cloud](https://www.infoworld.com/article/3638171/why-traditional-ip-networking-is-wrong-for-the-cloud.html#tk.rss_all)
-- [Mind the value at risk with cloud computing solutions](https://www.infoworld.com/article/3638057/mind-the-value-at-risk-with-cloud-computing-solutions.html#tk.rss_all)
-- [Microsoft returns Hot Reload to the .NET SDK](https://www.infoworld.com/article/3637881/microsoft-returns-hot-reload-to-the-net-sdk.html#tk.rss_all)
-- [What’s new in Rust 1.56](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_all)
-- [Elastic’s Shay Banon: Why we went beyond our search roots—and stood up to ‘bully’ AWS](https://www.infoworld.com/article/3637121/elastics-shay-banon-why-we-went-beyond-our-search-rootsand-stood-up-to-bully-aws.html#tk.rss_all)
-- [Why you should use a microservice architecture](https://www.infoworld.com/article/3637016/why-you-should-use-a-microservice-architecture.html#tk.rss_all)
-- [JetBrains unveils Qodana code quality platform for CI/CD](https://www.infoworld.com/article/3638052/jetbrains-unveils-qodana-code-quality-platform-for-cicd.html#tk.rss_all)
-- [Get your cloud data right the first time](https://www.infoworld.com/article/3638110/get-your-cloud-data-right-the-first-time.html#tk.rss_all)
-- [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
+- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
+- [GitHub introduces code review controls](https://www.infoworld.com/article/3639588/github-introduces-code-review-controls.html#tk.rss_all)
+- [TypeScript delays ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_all)
+- [Oracle bolsters cloud infrastructure with suite of AI tools](https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html#tk.rss_all)
+- [Cloud costs a lot of money](https://www.infoworld.com/article/3639017/cloud-costs-a-lot-of-money.html#tk.rss_all)
+- [Inner source in the enterprise gains momentum](https://www.infoworld.com/article/3638692/inner-source-in-the-enterprise-gains-momentum.html#tk.rss_all)
+- [Python virtualenv and venv dos and don’ts](https://www.infoworld.com/article/3306656/python-virtualenv-and-venv-dos-and-donts.html#tk.rss_all)
+- [Ignite 2021: Azure’s Chaos Studio goes public](https://www.infoworld.com/article/3638777/ignite-2021-azures-chaos-studio-goes-public.html#tk.rss_all)
+- [When containers become a nightmare](https://www.infoworld.com/article/3639035/when-containers-become-a-nightmare.html#tk.rss_all)
+- [The 18 highest paying developer roles in 2021](https://www.infoworld.com/article/3638775/the-18-highest-paying-developer-roles-in-2021.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

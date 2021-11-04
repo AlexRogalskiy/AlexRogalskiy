@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Auditing](https://www.reddit.com/r/InformationTechnology/comments/qgkpj6/auditing/)
-- [What software or coding tools are you trying to get your company to invest in?](https://www.reddit.com/r/InformationTechnology/comments/qgjhxk/what_software_or_coding_tools_are_you_trying_to/)
-- [Presentation about tracking - demonstration?](https://www.reddit.com/r/InformationTechnology/comments/qfzrmj/presentation_about_tracking_demonstration/)
-- [Wanting to join the industry green and looking for advice](https://www.reddit.com/r/InformationTechnology/comments/qfqo79/wanting_to_join_the_industry_green_and_looking/)
-- [Resume](https://www.reddit.com/r/InformationTechnology/comments/qfpsez/resume/)
-- [How I got someone to stop being rude to me while I was trying to help him](https://www.reddit.com/r/InformationTechnology/comments/qfna83/how_i_got_someone_to_stop_being_rude_to_me_while/)
-- [Im shook. They fired the other new guy.](https://www.reddit.com/r/InformationTechnology/comments/qfmf2f/im_shook_they_fired_the_other_new_guy/)
-- [What new skills to have for IT support?](https://www.reddit.com/r/InformationTechnology/comments/qfj1of/what_new_skills_to_have_for_it_support/)
-- [Looking for an online solution for document review workflow](https://www.reddit.com/r/InformationTechnology/comments/qfg3pz/looking_for_an_online_solution_for_document/)
-- [When attending event for IT professionals, what influences your decision to go?](https://www.reddit.com/r/InformationTechnology/comments/qfd88u/when_attending_event_for_it_professionals_what/)
+- [should i install linux on an external ssd or use the one in my laptop.](https://www.reddit.com/r/InformationTechnology/comments/qm2egr/should_i_install_linux_on_an_external_ssd_or_use/)
+- [Anyone use ASUS Zenbooks in their enterprise environment?](https://www.reddit.com/r/InformationTechnology/comments/qluh4i/anyone_use_asus_zenbooks_in_their_enterprise/)
+- [Unit:Computer maintenance](https://www.reddit.com/r/InformationTechnology/comments/qlu816/unitcomputer_maintenance/)
+- [Considering getting involved with IT](https://www.reddit.com/r/InformationTechnology/comments/qlth2s/considering_getting_involved_with_it/)
+- [Free Training on the New Microsoft AZ-800 Course](https://www.reddit.com/r/InformationTechnology/comments/qlrnfr/free_training_on_the_new_microsoft_az800_course/)
+- [I'm thinking about getting an IT degree, what do you think?](https://www.reddit.com/r/InformationTechnology/comments/qln9h5/im_thinking_about_getting_an_it_degree_what_do/)
+- [What are some possible VPN-related environmental issues?](https://www.reddit.com/r/InformationTechnology/comments/qlbkv0/what_are_some_possible_vpnrelated_environmental/)
+- [Which cert should I take instead of aws](https://www.reddit.com/r/InformationTechnology/comments/ql9kqw/which_cert_should_i_take_instead_of_aws/)
+- [how can I make my text sort in Word alphabetically by first words of paragraphs?](https://www.reddit.com/r/InformationTechnology/comments/ql76m9/how_can_i_make_my_text_sort_in_word/)
+- [Is the A+ really needless?](https://www.reddit.com/r/InformationTechnology/comments/qkxm1b/is_the_a_really_needless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

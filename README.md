@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [COP26: Is the tech sector ready to rise to climate challenge?](https://www.computerweekly.com/news/252508644/COP26-Is-the-tech-sector-ready-to-rise-to-climate-challenge)
-- [DarkMarket takedown results in 150 arrests](https://www.computerweekly.com/news/252508657/DarkMarket-takedown-results-in-150-arrests)
-- [Retail tech community reacts to BNPL regulatory proposals](https://www.computerweekly.com/feature/Retail-tech-community-reacts-to-BNPL-regulatory-proposals)
-- [Cyber experts on how to nobble a Nobelium attack](https://www.computerweekly.com/news/252508656/Cyber-experts-on-how-to-nobble-a-Nobelium-attack)
-- [Building better data foundations to make the most of AI](https://www.computerweekly.com/opinion/Building-better-data-foundations-to-make-the-most-of-AI)
-- [Thought Machine: Google-inspired banking fintech to unicorn and beyond](https://www.computerweekly.com/news/252508648/Thought-Machine-Google-inspired-banking-fintech-to-unicorn-and-beyond)
-- [CIO interview: Dal Virdi, IT director, Shakespeare Martineau](https://www.computerweekly.com/news/252508267/CIO-interview-Dal-Virdi-IT-director-Shakespeare-Martineau)
-- [Government selects network analytics tech to combat Covid-19 loan fraud](https://www.computerweekly.com/news/252508646/Government-selects-network-analytics-tech-to-combat-Covid-19-loan-fraud)
-- [Interview: Identifying talent at Nasa using data science](https://www.computerweekly.com/news/252508270/Interview-Identifying-talent-at-Nasa-using-data-science)
-- [The future is digital, so why is Britain’s national strategy waterfall?](https://www.computerweekly.com/opinion/The-future-is-digital-so-why-is-Britains-national-strategy-waterfall)
+- [Spyware firm NSO and others added to US banned Entity List](https://www.computerweekly.com/news/252509004/Spyware-firm-NSO-and-others-added-to-US-banned-Entity-List)
+- [Facebook self-imposes facial recognition moratorium](https://www.computerweekly.com/news/252508999/Facebook-self-imposes-facial-recognition-moratorium)
+- [UK’s Labour Party hit by third-party data breach](https://www.computerweekly.com/news/252508998/UKs-Labour-Party-hit-by-third-party-data-breach)
+- [Security Think Tank: SASE – marketing buzz or the future of security?](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-marketing-buzz-or-the-future-of-security)
+- [BlackMatter ransomware crew shuts down, leaves victims in a bind](https://www.computerweekly.com/news/252508990/BlackMatter-ransomware-crew-shuts-down-leaves-victims-in-a-bind)
+- [Quarter of people don’t plan to visit a bank branch again](https://www.computerweekly.com/news/252508989/Quarter-of-people-dont-plan-to-visit-a-bank-branch-again)
+- [How tech can help companies make bigger strides towards sustainability](https://www.computerweekly.com/opinion/How-tech-can-help-companies-make-bigger-strides-towards-sustainability)
+- [ODI Summit 2021: ‘Social prescribing’ for mental health lacks data infrastructure](https://www.computerweekly.com/news/252508944/ODI-Summit-2021-Social-prescribing-for-mental-health-lacks-data-infrastructure)
+- [Electronic waste excluded from COP26 agenda](https://www.computerweekly.com/news/252508945/Electronic-waste-excluded-from-COP26-agenda)
+- [Convicted Silk Road admin stripped of £500k in crypto earnings](https://www.computerweekly.com/news/252508946/Convicted-Silk-Road-admin-stripped-of-500k-in-crypto-earnings)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

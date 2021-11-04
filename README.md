@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CoV–2 Spike Impairs DNA Damage Repair – Inhibits V(D)J Recombination in Vitro](https://www.mdpi.com/1999-4915/13/10/2056/htm)
-- [Corrily (YC W21) Is Hiring a Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
-- [Modernizing the Wolfenstein 3D Fizzlefade Algorithm (2017)](https://jacopretorius.net/2017/09/wolfeinstein-3d-fizzlefade-algorithm.html)
-- [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
-- [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html)
-- [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
-- [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
-- [A U.S. submarine struck an underwater mountain last month, the Navy says](https://www.npr.org/2021/11/02/1051422572/navy-submarine-nuclear-collision-south-china-sea)
-- [Backblaze IPO](https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm)
-- [Unix's confusing set of low-level ways to allocate memory](https://utcc.utoronto.ca/~cks/space/blog/unix/SbrkVersusMmap)
+- [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
+- [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
+- [Podcasts are my new Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
+- [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
+- [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
+- [NASA Shows the First 3D Imagery Captured of Jupiter's Atmosphere](https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/)
+- [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
+- [Minimum Viable Secure Product](https://mvsp.dev/)
+- [Amazon Time Sync Service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
+- [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

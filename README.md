@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [A Word of Warning for Remote IT Infrastructure Workforces](https://www.informationweek.com/security-and-risk-strategy/a-word-of-warning-for-remote-it-infrastructure-workforces)
-- [AIOps: A Foundational Block of a Composable Enterprise](https://www.informationweek.com/big-data/aiops-a-foundational-block-of-a-composable-enterprise)
-- [CIO Agenda: Cloud, Cybersecurity, and AI Investments Ahead](https://www.informationweek.com/executive-insights-and-innovation/cio-agenda-cloud-cybersecurity-and-ai-investments-ahead)
-- [Are You Hybrid Cloud-ready? 6 Considerations to Help You Get There](https://www.informationweek.com/cloud/are-you-hybrid-cloud-ready-6-considerations-to-help-you-get-there)
-- [PayPal CEO Discusses Responsible Innovation at DC Fintech](https://www.informationweek.com/fintech/paypal-ceo-discusses-responsible-innovation-at-dc-fintech)
-- [How to Get Your Cloud Spending Under Control](https://www.informationweek.com/cloud/how-to-get-your-cloud-spending-under-control)
-- [DC Fintech Week Tackles Financial Inclusivity](https://www.informationweek.com/fintech/dc-fintech-week-tackles-financial-inclusivity)
-- [IT’s Pivotal Role in Customer Service](https://www.informationweek.com/digital-business/it-s-pivotal-role-in-customer-service)
-- [Gartner: Top Predictions for IT Organizations and Users for 2022 and Beyond](https://www.informationweek.com/executive-insights-and-innovation/gartner-top-predictions-for-it-organizations-and-users-for-2022-and-beyond)
-- [Facebook’s Teachable Moment](https://www.informationweek.com/security-and-risk-strategy/facebook-s-teachable-moment)
+- [How to Improve Remote Network Reliability](https://www.informationweek.com/it-strategy/how-to-improve-remote-network-reliability)
+- [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
+- [Federated Computing Will Shape the Future of Computing](https://www.informationweek.com/big-data/federated-computing-will-shape-the-future-of-computing)
+- [Facebook Shuts Down Facial Recognition](https://www.informationweek.com/ai-or-machine-learning/facebook-shuts-down-facial-recognition)
+- [Global Tech Policy Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)
+- [Collaboration is Key to Defending Operational Technology](https://www.informationweek.com/security-and-risk-strategy/collaboration-is-key-to-defending-operational-technology)
+- [There's Gold in Digital Onboarding](https://www.informationweek.com/digital-business/there-s-gold-in-digital-onboarding)
+- [IoT’s Best Use Cases](https://www.informationweek.com/big-data/iot-s-best-use-cases)
+- [Chatbots: Approaching 60 Sure Looks Good on You](https://www.informationweek.com/big-data/chatbots-approaching-60-sure-looks-good-on-you)
+- [Why Fiserv Turned to Microservices for API Development](https://www.informationweek.com/fintech/why-fiserv-turned-to-microservices-for-api-development)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

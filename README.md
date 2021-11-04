@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Pixel 6 or Pixel 6 Pro? Some real-world guidance that might surprise you](https://www.computerworld.com/article/3637971/pixel-6-vs-pixel-6-pro.html#tk.rss_all)
-- [How to use Shortcuts in macOS Monterey](https://www.computerworld.com/article/3637960/how-to-use-shortcuts-in-macos-monterey.html#tk.rss_all)
-- [How to get rid of Windows 11 (and roll back to Windows 10)](https://www.computerworld.com/article/3637879/how-to-get-rid-of-windows-11-and-roll-back-to-windows-10.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [15+ macOS Monterey changes to help you get work done](https://www.computerworld.com/article/3637955/15-macos-monterey-changes-to-help-you-get-work-done.html#tk.rss_all)
-- [Will Zuckerberg’s ‘metaverse’ change everything?](https://www.computerworld.com/article/3637952/will-zuckerbergs-metaverse-change-everything.html#tk.rss_all)
-- [Acronis gets deeper into the Apple enterprise with Addigy partnership](https://www.computerworld.com/article/3637932/acronis-gets-deeper-into-apple-enterprise-with-addigy-integration.html#tk.rss_all)
-- [Varjo’s new VR headset points the way to collaboration done right](https://www.computerworld.com/article/3637933/varjo-s-new-vr-headset-points-the-way-to-collaboration-done-right.html#tk.rss_all)
-- [Customer service: Your greatest competitive weapon](https://www.computerworld.com/article/3637871/customer-service-your-greatest-competitive-weapon.html#tk.rss_all)
-- [Got a Pixel? Don't miss these 8 buried Android 12 treasures](https://www.computerworld.com/article/3635490/google-pixel-android-12.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Teams and Webex: What if Microsoft and Cisco merged their platforms?](https://www.computerworld.com/article/3639591/teams-and-webex-what-if-microsoft-and-cisco-merged-their-platforms.html#tk.rss_all)
+- [Is Microsoft getting pushy with Windows 11?](https://www.computerworld.com/article/3639590/is-microsoft-getting-pushy-with-windows-11.html#tk.rss_all)
+- [Corel Painter shows the big picture for Apple Silicon performance](https://www.computerworld.com/article/3638703/corel-painter-shows-the-big-picture-for-apple-silicon-performance.html#tk.rss_all)
+- [50 Chromebook tips for maximum productivity](https://www.computerworld.com/article/3237230/chromebook-tips-for-maximum-productivity.html#tk.rss_all)
+- [From zero to hero? Hexnode's CEO on Apple in the enterprise](https://www.computerworld.com/article/3639056/from-zero-to-hero-hexnodes-ceo-on-apple-in-the-enterprise.html#tk.rss_all)
+- [Microsoft to bring Mesh avatars and virtual environments to Teams](https://www.computerworld.com/article/3638698/microsoft-to-bring-mesh-avatars-and-virtual-environments-to-teams.html#tk.rss_all)
+- [Slack launches Community Forum site and companion app](https://www.computerworld.com/article/3639055/slack-launches-community-forum-site-and-companion-app.html#tk.rss_all)
+- [The internet your company (and workforce) needs for success](https://www.computerworld.com/article/3638841/the-internet-your-company-and-workforce-needs-for-success.html#tk.rss_all)
+- [Finally! Adobe rolls out Photoshop and Illustrator for DaaS users](https://www.computerworld.com/article/3639015/finally-adobe-rolls-out-photoshop-and-illustrator-for-daas-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

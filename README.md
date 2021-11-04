@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 6: Atlanta Braves v Houston Astros – live!](https://www.theguardian.com/sport/live/2021/nov/02/world-series-game-6-atlanta-braves-v-houston-astros-live)
-- [Eric Adams, former police officer, wins New York mayor’s race](https://www.theguardian.com/us-news/2021/nov/02/eric-adams-wins-mayor-election-new-york-city)
-- [British waitress wins legal battle against Australia’s ‘backpacker tax’](https://www.theguardian.com/australia-news/2021/nov/03/british-waitress-wins-legal-battle-against-australias-backpacker-tax)
-- [Hong Kong protests: filmmakers decry new law that could censor a moment in history](https://www.theguardian.com/world/2021/nov/03/hong-kong-protests-filmmakers-decry-new-law-that-could-censor-a-moment-in-history)
-- [Newcastle close to landing Unai Emery but manager insists ‘no offer’ made yet](https://www.theguardian.com/football/2021/nov/02/newcastle-close-to-landing-unai-emery-as-manager-from-villarreal)
-- [Coronavirus live: UK sees highest daily death toll since February; Greek cases set new record high](https://www.theguardian.com/world/live/2021/nov/02/coronavirus-news-live-china-tells-families-to-stock-up-amid-covid-outbreak-japans-cases-dramatically-decline)
-- [MoD wasting billions with ‘broken’ procurement system, MPs warn](https://www.theguardian.com/uk-news/2021/nov/03/mod-wasting-billions-with-broken-procurement-system-mps-warn)
-- [Women under 35 face higher risk of breast cancer spreading – study](https://www.theguardian.com/society/2021/nov/03/women-under-35-face-higher-risk-of-breast-cancer-spreading-study)
-- [Electric cars account for under 5% of miles driven by Uber in Europe](https://www.theguardian.com/technology/2021/nov/03/electric-cars-under-5-per-cent-miles-driven-uber-europe)
-- [Europe’s record summer ‘impossible’ without global heating](https://www.theguardian.com/environment/2021/nov/03/europe-record-summer-global-heating-cop26)
+- [Arrests in Belfast after police attacked in Brexit protocol unrest](https://www.theguardian.com/uk-news/2021/nov/03/police-attacked-in-belfast-over-northern-ireland-protocol)
+- [Cleo Smith update: man being questioned by WA police taken to hospital for a second time](https://www.theguardian.com/australia-news/2021/nov/04/cleo-smith-update-man-being-questioned-by-wa-police-taken-to-hospital-for-a-second-time)
+- [‘Honest mistake’: US strike that killed 10 Afghan civilians was legal, says Pentagon](https://www.theguardian.com/world/2021/nov/04/us-afghanistan-strike-killed-civilians-legal-pentagon)
+- [Body blow for Biden as voters in Virginia and New Jersey desert Democrats](https://www.theguardian.com/us-news/2021/nov/03/joe-biden-virginia-new-jersey-democrats)
+- [Bill Gates call for huge global effort to prepare for future pandemics](https://www.theguardian.com/us-news/2021/nov/04/bill-gates-call-for-huge-global-effort-to-prepare-for-future-pandemics)
+- [John Lewis Christmas ad featuring teen alien to crash-land on TV screens](https://www.theguardian.com/media/2021/nov/04/john-lewis-christmas-ad-alien-tv)
+- [‘Reality check’: Global CO2 emissions shooting back to record levels](https://www.theguardian.com/environment/2021/nov/04/reality-check-global-co2-emissions-shooting-back-to-record-levels)
+- [England Covid infection rates doubled in over-65s between September and October](https://www.theguardian.com/world/2021/nov/04/england-covid-infection-rates-doubled-in-over-65s-between-september-and-october)
+- [Pride and Prejudice* (*sort of) review – silliness and sensibility](https://www.theguardian.com/stage/2021/nov/03/pride-and-prejudice-sort-of-review-silliness-and-sensibility)
+- [Alex Dowsett falls short in attempt to regain world hour record in Mexico](https://www.theguardian.com/sport/2021/nov/03/alex-dowsett-falls-short-in-attempt-to-regain-world-hour-record-in-mexico)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Coffee Briefing, Oct. 26, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-oct-26-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/462833)
-- [More infosec pros working in Canada, U.S. than ever, but there’s still a talent gap: Study](https://www.itworldcanada.com/article/more-infosec-pros-working-in-canada-u-s-than-ever-but-theres-still-a-talent-gap-study/462625)
-- [Hashtag Trending Oct. 26- Australia’s privacy bill; Tesla software flaws; Robot detained in Egypt](https://www.itworldcanada.com/article/hashtag-trending-oct-26-australias-privacy-bill-tesla-software-flaws-robot-detained-in-egypt/462643)
-- [Gartner: seven disruptions you might not see coming](https://www.itworldcanada.com/article/gartner-seven-disruptions-you-might-not-see-coming/462651)
-- [Gartner’s top predictions for IT organizations and users in coming years](https://www.itworldcanada.com/article/gartners-top-predictions-for-it-organizations-and-users-in-coming-years/462645)
-- [Gartner finds three key focus areas for CIOs to drive value](https://www.itworldcanada.com/article/gartner-finds-three-key-focus-areas-for-cios-to-drive-value/462572)
-- [Coding error by ransomware gang briefly allowed firms to refuse to be blackmailed](https://www.itworldcanada.com/article/coding-error-by-ransomware-gang-briefly-allowed-firms-to-refuse-to-be-blackmailed/462516)
-- [Google Pixel 6 series the first to be certified on Rogers standalone 5G](https://www.itworldcanada.com/article/google-pixel-6-series-the-first-to-be-certified-on-rogers-standalone-5g/462584)
-- [Latest Nobelium campaign targets victims via cloud providers and resellers: Microsoft](https://www.itworldcanada.com/article/latest-nobelium-campaign-targets-victims-via-cloud-providers-and-resellers-microsoft/462541)
-- [Cyber Security Today, Oct. 25, 2021 – A warning to JavaScript users, ransomware gangs feeling squeezed and an SQL vulnerability found](https://www.itworldcanada.com/article/cyber-security-today-oct-25-2021-a-warning-to-javascript-users-ransomware-gangs-feeling-squeezed-and-an-sql-vulnerability-found/462505)
+- [eStruxture to add a second datacentre in Calgary](https://www.itworldcanada.com/article/estruxture-to-add-a-second-datacentre-in-calgary/464130)
+- [Newfoundland confirms cyberattack as cause of healthcare IT outage](https://www.itworldcanada.com/article/newfoundland-confirms-cyberattack-as-cause-of-healthcare-it-outage/464121)
+- [BlackMatter ransomware group reportedly closing](https://www.itworldcanada.com/article/blackmatter-ransomware-group-reportedly-closing/464057)
+- [Shopify Markets gets Avalara’s duty and import tax compliance technology](https://www.itworldcanada.com/article/shopify-markets-gets-avalaras-duty-and-import-tax-compliance-technology/464081)
+- [Calgary real estate developer hit by ransomware](https://www.itworldcanada.com/article/calgary-real-estate-developer-hit-by-ransomware/463870)
+- [Cyber Security Today, Nov. 3, 2021 – We lost our Groove, an FBI ransomware warning and alert to GitLab users](https://www.itworldcanada.com/article/cyber-security-today-nov-3-2021-we-lost-our-groove-an-fbi-ransomware-warning-and-alert-to-gitlab-users/464043)
+- [Hashtag Trending Nov. 3 – U.S. government to pay for Huawei gear replacement; Yahoo leaves China; Meta trademark woes](https://www.itworldcanada.com/article/hashtag-trending-nov-3-u-s-government-to-pay-for-huawei-gear-replacement-yahoo-leaves-china-meta-trademark-woes/464049)
+- [CIO Association of Canada appoints executive director](https://www.itworldcanada.com/article/cio-association-of-canada-appoints-executive-director/464041)
+- [Linux Foundation enhances LFX Security platform](https://www.itworldcanada.com/article/linux-foundation-enhances-lfx-security-platform/463882)
+- [Coffee Briefing, Nov. 2, 2021 – All the recent tech news; a podcast roundup; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-2-2021-all-the-recent-tech-news-a-podcast-roundup-and-more/463852)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NAO raises concerns over systems preparedness for import controls](https://www.computerweekly.com/news/252509088/NAO-raises-concerns-over-systems-preparedness-for-import-controls)
+- [Rise with SAP attracts 11% interest from SAP customers](https://www.computerweekly.com/news/252509084/Rise-with-SAP-attracts-11-interest-from-SAP-customers)
+- [Women grossly underrepresented in global fintech](https://www.computerweekly.com/news/252509083/Women-grossly-underrepresented-in-global-fintech)
+- [How in-store technology is supporting retail’s sustainability agenda](https://www.computerweekly.com/feature/How-in-store-technology-is-supporting-retails-sustainability-agenda)
+- [Fujitsu escaped huge lawsuit because Post Office behaved so badly in Horizon scandal](https://www.computerweekly.com/news/252509066/Fujitsu-escaped-huge-lawsuit-because-Post-Office-behaved-so-badly-in-Horizon-scandal)
+- [The Netherlands works on resilience with large-scale national cyber exercise](https://www.computerweekly.com/news/252508877/The-Netherlands-works-on-resilience-with-large-scale-national-cyber-exercise)
+- [What is Kyndryl?](https://www.computerweekly.com/news/252508995/What-is-Kyndryl)
 - [Spyware firm NSO and others added to US banned Entity List](https://www.computerweekly.com/news/252509004/Spyware-firm-NSO-and-others-added-to-US-banned-Entity-List)
 - [Facebook self-imposes facial recognition moratorium](https://www.computerweekly.com/news/252508999/Facebook-self-imposes-facial-recognition-moratorium)
 - [UK’s Labour Party hit by third-party data breach](https://www.computerweekly.com/news/252508998/UKs-Labour-Party-hit-by-third-party-data-breach)
-- [Security Think Tank: SASE – marketing buzz or the future of security?](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-marketing-buzz-or-the-future-of-security)
-- [BlackMatter ransomware crew shuts down, leaves victims in a bind](https://www.computerweekly.com/news/252508990/BlackMatter-ransomware-crew-shuts-down-leaves-victims-in-a-bind)
-- [Quarter of people don’t plan to visit a bank branch again](https://www.computerweekly.com/news/252508989/Quarter-of-people-dont-plan-to-visit-a-bank-branch-again)
-- [How tech can help companies make bigger strides towards sustainability](https://www.computerweekly.com/opinion/How-tech-can-help-companies-make-bigger-strides-towards-sustainability)
-- [ODI Summit 2021: ‘Social prescribing’ for mental health lacks data infrastructure](https://www.computerweekly.com/news/252508944/ODI-Summit-2021-Social-prescribing-for-mental-health-lacks-data-infrastructure)
-- [Electronic waste excluded from COP26 agenda](https://www.computerweekly.com/news/252508945/Electronic-waste-excluded-from-COP26-agenda)
-- [Convicted Silk Road admin stripped of £500k in crypto earnings](https://www.computerweekly.com/news/252508946/Convicted-Silk-Road-admin-stripped-of-500k-in-crypto-earnings)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

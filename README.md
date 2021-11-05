@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: New 27-inch iMac with M1 Pro chip rumors, plus M1 MacBook memory leak bugs](https://www.computerworld.com/article/3639544/podcast-new-27-inch-imac-with-m1-pro-chip-rumors-plus-m1-macbook-memory-leak-bugs.html#tk.rss_all)
+- [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
+- [Microsoft unveils Loop — and a new collaborative Office doc](https://www.computerworld.com/article/3639508/microsoft-unveils-loop-and-a-new-collaborative-office-doc.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Teams and Webex: What if Microsoft and Cisco merged their platforms?](https://www.computerworld.com/article/3639591/teams-and-webex-what-if-microsoft-and-cisco-merged-their-platforms.html#tk.rss_all)
 - [Is Microsoft getting pushy with Windows 11?](https://www.computerworld.com/article/3639590/is-microsoft-getting-pushy-with-windows-11.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [50 Chromebook tips for maximum productivity](https://www.computerworld.com/article/3237230/chromebook-tips-for-maximum-productivity.html#tk.rss_all)
 - [From zero to hero? Hexnode's CEO on Apple in the enterprise](https://www.computerworld.com/article/3639056/from-zero-to-hero-hexnodes-ceo-on-apple-in-the-enterprise.html#tk.rss_all)
 - [Microsoft to bring Mesh avatars and virtual environments to Teams](https://www.computerworld.com/article/3638698/microsoft-to-bring-mesh-avatars-and-virtual-environments-to-teams.html#tk.rss_all)
-- [Slack launches Community Forum site and companion app](https://www.computerworld.com/article/3639055/slack-launches-community-forum-site-and-companion-app.html#tk.rss_all)
-- [The internet your company (and workforce) needs for success](https://www.computerworld.com/article/3638841/the-internet-your-company-and-workforce-needs-for-success.html#tk.rss_all)
-- [Finally! Adobe rolls out Photoshop and Illustrator for DaaS users](https://www.computerworld.com/article/3639015/finally-adobe-rolls-out-photoshop-and-illustrator-for-daas-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

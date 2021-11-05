@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Casey Muratori's refterm lecture series (5 videos) (October 2021)](https://www.youtube.com/watch?v=pgoetgxecw8&amp;list=PLEMXAbCVnmY6zCgpCFlgggRkrp0tpWfrn)
-- [Misconceptions about Nuclear Power](https://old.reddit.com/r/Futurology/comments/qlj92a/chinas_climate_goals_hinge_on_a_440_billion/)
-- [Chinese athlete accuses former top Communist Party official of sexual assault](https://www.npr.org/sections/goatsandsoda/2021/11/03/1051873031/chinese-tennis-athlete-accuses-former-top-communist-party-official-of-sexual-ass)
-- [FAA: Leaded Aviation Gas](https://www.faa.gov/about/initiatives/avgas/)
-- [Ask HN: Is it better to specialize or generalize?](https://news.ycombinator.com/item?id=29102973)
-- [Soft Real-Time on Windows IoT Enterprise](https://docs.microsoft.com/en-us/windows/iot/iot-enterprise/soft-real-time/soft-real-time)
-- [The Minecraft Generation (2016)](https://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html)
-- [What will the metaverse mean for current companies?](https://news.ycombinator.com/item?id=29102894)
-- [Is Carbon Capture Here?](https://www.nytimes.com/2021/10/31/climate/is-carbon-capture-here.html)
-- [The uses and abuses of green finance](https://www.economist.com/leaders/the-uses-and-abuses-of-green-finance/21806111)
+- [I can’t type the number twenty on iOS](https://apple.stackexchange.com/questions/430232/i-can-t-type-the-number-twenty-on-ios)
+- [Red Hat forced to hire cheaper, less senior engineers after IBM freezes budget](https://www.theregister.com/2021/11/05/red_hat_jobs/)
+- [Can Slime Molds Think?](https://www.harvardmagazine.com/2021/11/right-now-can-slime-molds-think)
+- [Why are IRA limits so much lower than 401ks?](https://www.morningstar.com/articles/943986/why-are-ira-limits-so-much-lower-than-those-for-401ks)
+- [Arena: ANSI C-like Scripting Language 236K static musl (2006)](https://web.archive.org/web/20100706054938if_/http://www.minimalinux.org/arena/arena-0.9.13.tar.gz)
+- [If you think pair programming is inefficient, try waiting hours for code review](https://twitter.com/jezhumble/status/1456114116653813762)
+- [Newfoundland and Labrador health-care cyberattack is worst in Canadian history](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
+- [It's Time to Retire the MVP](https://bootcamp.uxdesign.cc/its-time-to-retire-the-mvp-72190e08e4fc?gi=f0bdf3f4fa84)
+- [iRobot Select: $29/Month](https://select.irobot.com/)
+- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=29114620)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

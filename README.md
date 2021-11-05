@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
-- [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
-- [Podcasts are my new Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
-- [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
-- [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
-- [NASA Shows the First 3D Imagery Captured of Jupiter's Atmosphere](https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/)
-- [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
-- [Minimum Viable Secure Product](https://mvsp.dev/)
-- [Amazon Time Sync Service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
-- [Ask HN: Who's not sucky to work for?](https://news.ycombinator.com/item?id=29099746)
+- [Newfoundland and Labrador health-care cyberattack is worst in Canadian history](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
+- [IRS announces 401(k) limit increases to $20,500](https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500)
+- [Widespread Security Risk Identified in Phones and Bluetooth Devices](https://spectrum.ieee.org/bluetooth-security)
+- [QuestDB (YC S20) Is Hiring C++ Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
+- [Amazon.com BBB Business Profile](https://www.bbb.org/us/wa/seattle/profile/ecommerce/amazoncom-1296-7039385)
+- [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
+- [Web fonts, boy, I don't know (2016)](https://meowni.ca/posts/web-fonts/)
+- [M1 Pro First Impressions: Core Management and CPU Performance](https://eclecticlight.co/2021/11/04/m1-pro-first-impressions-2-core-management-and-cpu-performance/)
+- [World food prices reach new peak since July 2011](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
+- [Happy birthday Vim (2020)](https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

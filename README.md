@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud May See More AI, Face Increased Geopolitical Friction](https://www.informationweek.com/cloud/cloud-may-see-more-ai-face-increased-geopolitical-friction)
+- [How AI Can Help Your Organization Stay a Step Ahead of Cyberattackers](https://www.informationweek.com/security-and-risk-strategy/how-ai-can-help-your-organization-stay-a-step-ahead-of-cyberattackers)
 - [How to Improve Remote Network Reliability](https://www.informationweek.com/it-strategy/how-to-improve-remote-network-reliability)
 - [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
 - [Federated Computing Will Shape the Future of Computing](https://www.informationweek.com/big-data/federated-computing-will-shape-the-future-of-computing)
@@ -369,8 +371,6 @@
 - [Collaboration is Key to Defending Operational Technology](https://www.informationweek.com/security-and-risk-strategy/collaboration-is-key-to-defending-operational-technology)
 - [There's Gold in Digital Onboarding](https://www.informationweek.com/digital-business/there-s-gold-in-digital-onboarding)
 - [IoT’s Best Use Cases](https://www.informationweek.com/big-data/iot-s-best-use-cases)
-- [Chatbots: Approaching 60 Sure Looks Good on You](https://www.informationweek.com/big-data/chatbots-approaching-60-sure-looks-good-on-you)
-- [Why Fiserv Turned to Microservices for API Development](https://www.informationweek.com/fintech/why-fiserv-turned-to-microservices-for-api-development)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

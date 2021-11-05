@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Arrests in Belfast after police attacked in Brexit protocol unrest](https://www.theguardian.com/uk-news/2021/nov/03/police-attacked-in-belfast-over-northern-ireland-protocol)
-- [Cleo Smith update: man being questioned by WA police taken to hospital for a second time](https://www.theguardian.com/australia-news/2021/nov/04/cleo-smith-update-man-being-questioned-by-wa-police-taken-to-hospital-for-a-second-time)
-- [‘Honest mistake’: US strike that killed 10 Afghan civilians was legal, says Pentagon](https://www.theguardian.com/world/2021/nov/04/us-afghanistan-strike-killed-civilians-legal-pentagon)
-- [Body blow for Biden as voters in Virginia and New Jersey desert Democrats](https://www.theguardian.com/us-news/2021/nov/03/joe-biden-virginia-new-jersey-democrats)
-- [Bill Gates call for huge global effort to prepare for future pandemics](https://www.theguardian.com/us-news/2021/nov/04/bill-gates-call-for-huge-global-effort-to-prepare-for-future-pandemics)
-- [John Lewis Christmas ad featuring teen alien to crash-land on TV screens](https://www.theguardian.com/media/2021/nov/04/john-lewis-christmas-ad-alien-tv)
-- [‘Reality check’: Global CO2 emissions shooting back to record levels](https://www.theguardian.com/environment/2021/nov/04/reality-check-global-co2-emissions-shooting-back-to-record-levels)
-- [England Covid infection rates doubled in over-65s between September and October](https://www.theguardian.com/world/2021/nov/04/england-covid-infection-rates-doubled-in-over-65s-between-september-and-october)
-- [Pride and Prejudice* (*sort of) review – silliness and sensibility](https://www.theguardian.com/stage/2021/nov/03/pride-and-prejudice-sort-of-review-silliness-and-sensibility)
-- [Alex Dowsett falls short in attempt to regain world hour record in Mexico](https://www.theguardian.com/sport/2021/nov/03/alex-dowsett-falls-short-in-attempt-to-regain-world-hour-record-in-mexico)
+- [Warning over ‘extremely low’ wine production in Europe due to bad weather](https://www.theguardian.com/food/2021/nov/05/warning-over-extremely-low-wine-production-in-europe-due-to-bad-weather)
+- [‘Devastating’: Ahmaud Arbery’s family weighs in on almost entirely white jury](https://www.theguardian.com/us-news/2021/nov/04/ahmaud-arbery-family-white-jury-murder-trial)
+- [West Ham ‘appalled’ by footage of fans singing antisemitic song on flight](https://www.theguardian.com/football/2021/nov/05/west-ham-left-appalled-by-footage-of-fans-singing-antisemitic-song)
+- [Vast veggie: huge New Zealand potato weighing 7.9kg could claim world record](https://www.theguardian.com/world/2021/nov/05/vast-veggie-huge-new-zealand-potato-weighing-79kg-could-claim-world-record)
+- [Dual-drug treatment offers hope to children with rare brain cancer](https://www.theguardian.com/science/2021/nov/05/dual-drug-treatment-offers-hope-to-children-with-rare-brain-cancer)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/nov/05/premier-league-10-things-to-look-out-for-this-weekend)
+- [Ventilate your home to stop Covid spread, government says](https://www.theguardian.com/world/2021/nov/05/ventilate-home-stop-covid-spread-government-uk)
+- [Gig-working in England and Wales more than doubles in five years](https://www.theguardian.com/business/2021/nov/05/gig-working-in-england-and-wales-more-than-doubles-in-five-years)
+- [Abba: Voyage review – no thank you for the music](https://www.theguardian.com/music/2021/nov/05/abba-voyage-review-pop-back)
+- [MPs call for inquiry into Liberty Steel tycoon Sanjeev Gupta](https://www.theguardian.com/business/2021/nov/05/mps-inquiry-liberty-steel-tycoon-sanjeev-gupta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

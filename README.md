@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to improve StringBuilder performance in C#](https://www.infoworld.com/article/3638755/how-to-improve-stringbuilder-performance-in-c.html#tk.rss_all)
+- [The RED method: A new strategy for monitoring microservices](https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html#tk.rss_all)
+- [How to use Docker for Java development](https://www.infoworld.com/article/3638548/how-to-use-docker-for-java-development.html#tk.rss_all)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
 - [GitHub introduces code review controls](https://www.infoworld.com/article/3639588/github-introduces-code-review-controls.html#tk.rss_all)
 - [TypeScript delays ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Cloud costs a lot of money](https://www.infoworld.com/article/3639017/cloud-costs-a-lot-of-money.html#tk.rss_all)
 - [Inner source in the enterprise gains momentum](https://www.infoworld.com/article/3638692/inner-source-in-the-enterprise-gains-momentum.html#tk.rss_all)
 - [Python virtualenv and venv dos and don’ts](https://www.infoworld.com/article/3306656/python-virtualenv-and-venv-dos-and-donts.html#tk.rss_all)
-- [Ignite 2021: Azure’s Chaos Studio goes public](https://www.infoworld.com/article/3638777/ignite-2021-azures-chaos-studio-goes-public.html#tk.rss_all)
-- [When containers become a nightmare](https://www.infoworld.com/article/3639035/when-containers-become-a-nightmare.html#tk.rss_all)
-- [The 18 highest paying developer roles in 2021](https://www.infoworld.com/article/3638775/the-18-highest-paying-developer-roles-in-2021.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

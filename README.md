@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Newfoundland and Labrador health-care cyberattack is worst in Canadian history](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
-- [IRS announces 401(k) limit increases to $20,500](https://www.irs.gov/newsroom/irs-announces-401k-limit-increases-to-20500)
-- [Widespread Security Risk Identified in Phones and Bluetooth Devices](https://spectrum.ieee.org/bluetooth-security)
-- [QuestDB (YC S20) Is Hiring C++ Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
-- [Amazon.com BBB Business Profile](https://www.bbb.org/us/wa/seattle/profile/ecommerce/amazoncom-1296-7039385)
-- [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-- [Web fonts, boy, I don't know (2016)](https://meowni.ca/posts/web-fonts/)
-- [M1 Pro First Impressions: Core Management and CPU Performance](https://eclecticlight.co/2021/11/04/m1-pro-first-impressions-2-core-management-and-cpu-performance/)
-- [World food prices reach new peak since July 2011](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
-- [Happy birthday Vim (2020)](https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg)
+- [Sirum hiring Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
+- [The road of Barbados becoming a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
+- [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
+- [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
+- [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
+- [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
+- [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w)
+- [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
+- [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

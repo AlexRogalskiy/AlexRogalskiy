@@ -376,6 +376,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [More evidence we’re in a multicloud world](https://www.infoworld.com/article/3639690/more-evidence-were-in-a-multicloud-world.html#tk.rss_all)
 - [How to improve StringBuilder performance in C#](https://www.infoworld.com/article/3638755/how-to-improve-stringbuilder-performance-in-c.html#tk.rss_all)
 - [The RED method: A new strategy for monitoring microservices](https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html#tk.rss_all)
 - [How to use Docker for Java development](https://www.infoworld.com/article/3638548/how-to-use-docker-for-java-development.html#tk.rss_all)
@@ -385,7 +386,6 @@
 - [Oracle bolsters cloud infrastructure with suite of AI tools](https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html#tk.rss_all)
 - [Cloud costs a lot of money](https://www.infoworld.com/article/3639017/cloud-costs-a-lot-of-money.html#tk.rss_all)
 - [Inner source in the enterprise gains momentum](https://www.infoworld.com/article/3638692/inner-source-in-the-enterprise-gains-momentum.html#tk.rss_all)
-- [Python virtualenv and venv dos and don’ts](https://www.infoworld.com/article/3306656/python-virtualenv-and-venv-dos-and-donts.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

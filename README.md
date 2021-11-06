@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I don't understand IT people](https://www.reddit.com/r/InformationTechnology/comments/qngv3f/i_dont_understand_it_people/)
+- [Where do these certs take you?](https://www.reddit.com/r/InformationTechnology/comments/qnepe9/where_do_these_certs_take_you/)
+- [Things to brush up on for second phase of hiring?](https://www.reddit.com/r/InformationTechnology/comments/qnef13/things_to_brush_up_on_for_second_phase_of_hiring/)
+- [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/qndjj7/free_training_on_comptia_a_full_course/)
 - [I'm going to graduate college with an IT degree and a certificate in cyber security (offered with the concentration). What certifications should I get before I graduate and how do I get them?](https://www.reddit.com/r/InformationTechnology/comments/qmlisv/im_going_to_graduate_college_with_an_it_degree/)
 - [Does a small company IT need Intune?](https://www.reddit.com/r/InformationTechnology/comments/qmjrbp/does_a_small_company_it_need_intune/)
 - [should i install linux on an external ssd or use the one in my laptop.](https://www.reddit.com/r/InformationTechnology/comments/qm2egr/should_i_install_linux_on_an_external_ssd_or_use/)
 - [Anyone use ASUS Zenbooks in their enterprise environment?](https://www.reddit.com/r/InformationTechnology/comments/qluh4i/anyone_use_asus_zenbooks_in_their_enterprise/)
 - [Considering getting involved with IT](https://www.reddit.com/r/InformationTechnology/comments/qlth2s/considering_getting_involved_with_it/)
 - [Free Training on the New Microsoft AZ-800 Course](https://www.reddit.com/r/InformationTechnology/comments/qlrnfr/free_training_on_the_new_microsoft_az800_course/)
-- [I'm thinking about getting an IT degree, what do you think?](https://www.reddit.com/r/InformationTechnology/comments/qln9h5/im_thinking_about_getting_an_it_degree_what_do/)
-- [What are some possible VPN-related environmental issues?](https://www.reddit.com/r/InformationTechnology/comments/qlbkv0/what_are_some_possible_vpnrelated_environmental/)
-- [Which cert should I take instead of aws](https://www.reddit.com/r/InformationTechnology/comments/ql9kqw/which_cert_should_i_take_instead_of_aws/)
-- [how can I make my text sort in Word alphabetically by first words of paragraphs?](https://www.reddit.com/r/InformationTechnology/comments/ql76m9/how_can_i_make_my_text_sort_in_word/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

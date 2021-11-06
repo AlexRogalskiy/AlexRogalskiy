@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [SAP VP Martin Lang touts Apple, M1 Macs and the mobile enterprise](https://www.computerworld.com/article/3639513/sap-vp-martin-lang-touts-apple-m1-macs-and-the-mobile-enterprise.html#tk.rss_all)
+- [New digital storefronts shake up online retail—and advertising](https://www.computerworld.com/article/3639533/new-digital-storefronts-shake-up-the-online-retail-and-advertising.html#tk.rss_all)
+- [5 Android 12 features you can bring to any phone today](https://www.computerworld.com/article/3609897/android-12-features-any-phone.html#tk.rss_all)
 - [Podcast: New 27-inch iMac with M1 Pro chip rumors, plus M1 MacBook memory leak bugs](https://www.computerworld.com/article/3639544/podcast-new-27-inch-imac-with-m1-pro-chip-rumors-plus-m1-macbook-memory-leak-bugs.html#tk.rss_all)
 - [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
 - [Microsoft unveils Loop — and a new collaborative Office doc](https://www.computerworld.com/article/3639508/microsoft-unveils-loop-and-a-new-collaborative-office-doc.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Teams and Webex: What if Microsoft and Cisco merged their platforms?](https://www.computerworld.com/article/3639591/teams-and-webex-what-if-microsoft-and-cisco-merged-their-platforms.html#tk.rss_all)
 - [Is Microsoft getting pushy with Windows 11?](https://www.computerworld.com/article/3639590/is-microsoft-getting-pushy-with-windows-11.html#tk.rss_all)
 - [Corel Painter shows the big picture for Apple Silicon performance](https://www.computerworld.com/article/3638703/corel-painter-shows-the-big-picture-for-apple-silicon-performance.html#tk.rss_all)
-- [50 Chromebook tips for maximum productivity](https://www.computerworld.com/article/3237230/chromebook-tips-for-maximum-productivity.html#tk.rss_all)
-- [From zero to hero? Hexnode's CEO on Apple in the enterprise](https://www.computerworld.com/article/3639056/from-zero-to-hero-hexnodes-ceo-on-apple-in-the-enterprise.html#tk.rss_all)
-- [Microsoft to bring Mesh avatars and virtual environments to Teams](https://www.computerworld.com/article/3638698/microsoft-to-bring-mesh-avatars-and-virtual-environments-to-teams.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

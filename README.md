@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Warning over ‘extremely low’ wine production in Europe due to bad weather](https://www.theguardian.com/food/2021/nov/05/warning-over-extremely-low-wine-production-in-europe-due-to-bad-weather)
-- [‘Devastating’: Ahmaud Arbery’s family weighs in on almost entirely white jury](https://www.theguardian.com/us-news/2021/nov/04/ahmaud-arbery-family-white-jury-murder-trial)
-- [West Ham ‘appalled’ by footage of fans singing antisemitic song on flight](https://www.theguardian.com/football/2021/nov/05/west-ham-left-appalled-by-footage-of-fans-singing-antisemitic-song)
-- [Vast veggie: huge New Zealand potato weighing 7.9kg could claim world record](https://www.theguardian.com/world/2021/nov/05/vast-veggie-huge-new-zealand-potato-weighing-79kg-could-claim-world-record)
-- [Dual-drug treatment offers hope to children with rare brain cancer](https://www.theguardian.com/science/2021/nov/05/dual-drug-treatment-offers-hope-to-children-with-rare-brain-cancer)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/nov/05/premier-league-10-things-to-look-out-for-this-weekend)
-- [Ventilate your home to stop Covid spread, government says](https://www.theguardian.com/world/2021/nov/05/ventilate-home-stop-covid-spread-government-uk)
-- [Gig-working in England and Wales more than doubles in five years](https://www.theguardian.com/business/2021/nov/05/gig-working-in-england-and-wales-more-than-doubles-in-five-years)
-- [Abba: Voyage review – no thank you for the music](https://www.theguardian.com/music/2021/nov/05/abba-voyage-review-pop-back)
-- [MPs call for inquiry into Liberty Steel tycoon Sanjeev Gupta](https://www.theguardian.com/business/2021/nov/05/mps-inquiry-liberty-steel-tycoon-sanjeev-gupta)
+- [Modern Games romps home after being reinstated at Breeders’ Cup meeting](https://www.theguardian.com/sport/2021/nov/06/modern-games-romps-home-after-being-reinstated-at-breeders-cup-meeting)
+- [Succession-style feud gripping Canada settled as court sides with Edward Rogers](https://www.theguardian.com/world/2021/nov/05/canada-succession-rogers-communications-feud-saga)
+- [Covid concerns hand Eddie Jones a fraught start to autumn examination](https://www.theguardian.com/sport/2021/nov/05/covid-concerns-hand-eddie-jones-a-fraught-start-to-autumn-examination)
+- [Women’s rights activist shot dead in northern Afghanistan](https://www.theguardian.com/world/2021/nov/05/womens-rights-activist-shot-dead-in-northern-afghanistan)
+- [Eight police officers injured in clashes with protesters in Parliament Square](https://www.theguardian.com/world/2021/nov/05/five-police-officers-injured-in-clashes-with-protesters-in-parliament-square)
+- [Armstrong blasts Southampton to victory to increase Aston Villa’s woes](https://www.theguardian.com/football/2021/nov/05/southampton-aston-villa-premier-league-match-report)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/nov/05/twenty-photographs-of-the-week)
+- [Footfalls and Rockaby review – Beckett double bill casts a chilling spell](https://www.theguardian.com/stage/2021/nov/05/footfalls-and-rockaby-review-beckett-double-bill-casts-a-chilling-spell)
+- [Setback for Biden as Democrats delay vote on sweeping investment plan](https://www.theguardian.com/us-news/2021/nov/05/biden-spending-bill-vote-build-back-better-package-latest)
+- [Federica Cavenati, rising star of fashion design, dies aged 28](https://www.theguardian.com/fashion/2021/nov/05/federica-cavenati-rising-star-of-fashion-design-dies-aged-28)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

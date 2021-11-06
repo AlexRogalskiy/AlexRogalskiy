@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I can’t type the number twenty on iOS](https://apple.stackexchange.com/questions/430232/i-can-t-type-the-number-twenty-on-ios)
-- [Red Hat forced to hire cheaper, less senior engineers after IBM freezes budget](https://www.theregister.com/2021/11/05/red_hat_jobs/)
-- [Can Slime Molds Think?](https://www.harvardmagazine.com/2021/11/right-now-can-slime-molds-think)
-- [Why are IRA limits so much lower than 401ks?](https://www.morningstar.com/articles/943986/why-are-ira-limits-so-much-lower-than-those-for-401ks)
-- [Arena: ANSI C-like Scripting Language 236K static musl (2006)](https://web.archive.org/web/20100706054938if_/http://www.minimalinux.org/arena/arena-0.9.13.tar.gz)
-- [If you think pair programming is inefficient, try waiting hours for code review](https://twitter.com/jezhumble/status/1456114116653813762)
-- [Newfoundland and Labrador health-care cyberattack is worst in Canadian history](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
-- [It's Time to Retire the MVP](https://bootcamp.uxdesign.cc/its-time-to-retire-the-mvp-72190e08e4fc?gi=f0bdf3f4fa84)
-- [iRobot Select: $29/Month](https://select.irobot.com/)
-- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=29114620)
+- [Be a Force of Nature](https://news.ycombinator.com/item?id=29126949)
+- [Venture Capital, Competitor Ties, and Entrepreneurial Innovation (2015) [pdf]](https://foster.uw.edu/wp-content/uploads/2021/05/Pahnke-McDonald-Wang-Hallen-2015.pdf)
+- [Filling Blind](https://www.youtube.com/watch?v=41QMaJqxqIo)
+- [Where all 50 states stand on making daylight saving time permanent](https://www.9news.com/article/news/nation-world/daylight-saving-time-bill-status-all-50-states/507-25ff8777-63bc-423f-895d-22f5a3d5d28c)
+- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
+- [Ethereum Game Axie Infinity Launches Ronin DEX, SLP Token Spikes 74%](https://decrypt.co/85281/ethereum-game-axie-infinity-ronin-dex-slp-token-spikes)
+- [Faulty DRM Breaks Dozens of Games on Intel’s Alder Lake CPUs](https://arstechnica.com/gaming/2021/11/faulty-drm-breaks-dozens-of-games-on-intels-alder-lake-cpus/)
+- [An open source GTO solver](https://bupticybee.github.io/texassolver_page/)
+- [A quantum walk down Wall Street](https://www.economist.com/finance-and-economics/2021/11/06/a-quantum-walk-down-wall-street)
+- [Jury finds crypto products are not securities](https://www.reuters.com/legal/transactional/apparent-first-conn-class-action-jury-finds-crypto-products-are-not-securities-2021-11-03/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

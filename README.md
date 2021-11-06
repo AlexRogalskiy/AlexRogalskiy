@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NAO raises concerns over systems preparedness for import controls](https://www.computerweekly.com/news/252509088/NAO-raises-concerns-over-systems-preparedness-for-import-controls)
-- [Rise with SAP attracts 11% interest from SAP customers](https://www.computerweekly.com/news/252509084/Rise-with-SAP-attracts-11-interest-from-SAP-customers)
-- [Women grossly underrepresented in global fintech](https://www.computerweekly.com/news/252509083/Women-grossly-underrepresented-in-global-fintech)
-- [How in-store technology is supporting retail’s sustainability agenda](https://www.computerweekly.com/feature/How-in-store-technology-is-supporting-retails-sustainability-agenda)
-- [Fujitsu escaped huge lawsuit because Post Office behaved so badly in Horizon scandal](https://www.computerweekly.com/news/252509066/Fujitsu-escaped-huge-lawsuit-because-Post-Office-behaved-so-badly-in-Horizon-scandal)
-- [The Netherlands works on resilience with large-scale national cyber exercise](https://www.computerweekly.com/news/252508877/The-Netherlands-works-on-resilience-with-large-scale-national-cyber-exercise)
-- [What is Kyndryl?](https://www.computerweekly.com/news/252508995/What-is-Kyndryl)
-- [Spyware firm NSO and others added to US banned Entity List](https://www.computerweekly.com/news/252509004/Spyware-firm-NSO-and-others-added-to-US-banned-Entity-List)
-- [Facebook self-imposes facial recognition moratorium](https://www.computerweekly.com/news/252508999/Facebook-self-imposes-facial-recognition-moratorium)
-- [UK’s Labour Party hit by third-party data breach](https://www.computerweekly.com/news/252508998/UKs-Labour-Party-hit-by-third-party-data-breach)
+- [Petrol station retailer EG Group opts for Rise with SAP to fuel growth](https://www.computerweekly.com/news/252509162/Petrol-station-retailer-EG-Group-opts-for-Rise-with-SAP-to-fuel-growth)
+- [Mining deaths lawsuit against major tech companies dismissed](https://www.computerweekly.com/news/252509170/Mining-deaths-lawsuit-against-major-tech-companies-dismissed)
+- [Immutable snapshots aim to neutralise ransomware](https://www.computerweekly.com/feature/Immutable-snapshots-aim-to-neutralise-ransomware)
+- [Digital secretary calls for permanent online safety committee](https://www.computerweekly.com/news/252509152/Digital-secretary-calls-for-permanent-online-safety-committee)
+- [HMRC IT transformation plans under strain, says NAO report](https://www.computerweekly.com/news/252509159/HMRC-IT-transformation-plans-under-strain-says-NAO-report)
+- [Number of subpostmasters appealing convictions reaches 137 at one legal firm](https://www.computerweekly.com/news/252509150/Number-of-subpostmasters-appealing-convictions-reaches-137-at-one-legal-firm)
+- [US offers $10m reward for intel on DarkSide ransomware gang](https://www.computerweekly.com/news/252509151/US-offers-10m-reward-for-intel-on-DarkSide-ransomware-gang)
+- [COP26: IT and climate change – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/COP26-IT-and-climate-change-Computer-Weekly-Downtime-Upload-podcast)
+- [Police interview former Fujitsu staff for second time in potential perjury investigation](https://www.computerweekly.com/news/252509113/Police-interview-former-Fujitsu-staff-for-second-time-in-potential-perjury-investigation)
+- [UK and US governments agree joint quantum collaboration](https://www.computerweekly.com/news/252509079/UK-and-US-governments-agree-joint-quantum-collaboration)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

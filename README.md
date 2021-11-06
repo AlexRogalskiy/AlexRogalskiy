@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [How BlackBerry found an initial access broker supporting threat groups](https://www.itworldcanada.com/article/how-blackberry-found-an-initial-access-broker-supporting-threat-groups/464255)
+- [It will take time to restore healthcare IT system, say Newfoundland officials](https://www.itworldcanada.com/article/it-will-take-time-to-restore-healthcare-it-system-say-newfoundland-officials/464268)
+- [Cyber Security Today, Week in Review for Nov. 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-nov-5-2021/464146)
+- [Sixty-seven per cent of Canadian firms surveyed were hit by ransomware in last 12 months](https://www.itworldcanada.com/article/sixty-seven-per-cent-of-canadian-firms-surveyed-were-hit-by-ransomware-in-last-12-months/464245)
+- [Cyber Security Today, Nov. 5, 2021 – DDoS attacks increasing, phone scams up and ugly future cybersecurity predictions](https://www.itworldcanada.com/article/cyber-security-today-nov-5-2021-ddos-attacks-increasing-phone-scams-up-and-ugly-future-cybersecurity-predictions/464238)
+- [Hashtag Trending Nov. 5 – Meta still loves facial recognition; NYC mayor loves cryptocurrency; Tencent loves its own chips](https://www.itworldcanada.com/article/hashtag-trending-nov-5-meta-still-loves-facial-recognition-nyc-mayor-loves-cryptocurrency-tencent-loves-its-own-chips/464222)
 - [RCMP to pay up to $1 million for AI solution to crack data encryption and passwords](https://www.itworldcanada.com/article/rcmp-to-pay-up-to-1-million-for-ai-solution-to-crack-data-encryption-and-passwords/464226)
 - [SecTor 2021: To blunt attacks by advanced threat actors you need an updated incident response plan](https://www.itworldcanada.com/article/sector-2021-to-blunt-attacks-by-advanced-threat-actors-you-need-an-updated-incident-response-plan/464157)
 - [Hashtag Trending Nov. 4- Musk disputes Hertz Deal; Zillow backs out of home buying market; Facebook shuts down facial recognition](https://www.itworldcanada.com/article/hashtag-trending-nov-4-musk-disputes-hertz-deal-zillow-backs-out-of-home-buying-market-facebook-shuts-down-facial-recognition/464142)
 - [eStruxture to add a second datacentre in Calgary](https://www.itworldcanada.com/article/estruxture-to-add-a-second-datacentre-in-calgary/464130)
-- [Newfoundland confirms cyberattack as cause of healthcare IT outage](https://www.itworldcanada.com/article/newfoundland-confirms-cyberattack-as-cause-of-healthcare-it-outage/464121)
-- [BlackMatter ransomware group reportedly closing](https://www.itworldcanada.com/article/blackmatter-ransomware-group-reportedly-closing/464057)
-- [Shopify Markets gets Avalara’s duty and import tax compliance technology](https://www.itworldcanada.com/article/shopify-markets-gets-avalaras-duty-and-import-tax-compliance-technology/464081)
-- [Calgary real estate developer hit by ransomware](https://www.itworldcanada.com/article/calgary-real-estate-developer-hit-by-ransomware/463870)
-- [Cyber Security Today, Nov. 3, 2021 – We lost our Groove, an FBI ransomware warning and alert to GitLab users](https://www.itworldcanada.com/article/cyber-security-today-nov-3-2021-we-lost-our-groove-an-fbi-ransomware-warning-and-alert-to-gitlab-users/464043)
-- [Hashtag Trending Nov. 3 – U.S. government to pay for Huawei gear replacement; Yahoo leaves China; Meta trademark woes](https://www.itworldcanada.com/article/hashtag-trending-nov-3-u-s-government-to-pay-for-huawei-gear-replacement-yahoo-leaves-china-meta-trademark-woes/464049)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

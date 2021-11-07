@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Modern Games romps home after being reinstated at Breeders’ Cup meeting](https://www.theguardian.com/sport/2021/nov/06/modern-games-romps-home-after-being-reinstated-at-breeders-cup-meeting)
-- [Succession-style feud gripping Canada settled as court sides with Edward Rogers](https://www.theguardian.com/world/2021/nov/05/canada-succession-rogers-communications-feud-saga)
-- [Covid concerns hand Eddie Jones a fraught start to autumn examination](https://www.theguardian.com/sport/2021/nov/05/covid-concerns-hand-eddie-jones-a-fraught-start-to-autumn-examination)
-- [Women’s rights activist shot dead in northern Afghanistan](https://www.theguardian.com/world/2021/nov/05/womens-rights-activist-shot-dead-in-northern-afghanistan)
-- [Eight police officers injured in clashes with protesters in Parliament Square](https://www.theguardian.com/world/2021/nov/05/five-police-officers-injured-in-clashes-with-protesters-in-parliament-square)
-- [Armstrong blasts Southampton to victory to increase Aston Villa’s woes](https://www.theguardian.com/football/2021/nov/05/southampton-aston-villa-premier-league-match-report)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/nov/05/twenty-photographs-of-the-week)
-- [Footfalls and Rockaby review – Beckett double bill casts a chilling spell](https://www.theguardian.com/stage/2021/nov/05/footfalls-and-rockaby-review-beckett-double-bill-casts-a-chilling-spell)
-- [Setback for Biden as Democrats delay vote on sweeping investment plan](https://www.theguardian.com/us-news/2021/nov/05/biden-spending-bill-vote-build-back-better-package-latest)
-- [Federica Cavenati, rising star of fashion design, dies aged 28](https://www.theguardian.com/fashion/2021/nov/05/federica-cavenati-rising-star-of-fashion-design-dies-aged-28)
+- [Breeders’ Cup meeting 2021: day two – live!](https://www.theguardian.com/sport/live/2021/nov/06/breeders-cup-meeting-2021-day-two-live)
+- [Exploding drone assassination attempt on Iraqi PM fails](https://www.theguardian.com/world/2021/nov/07/exploding-drone-assassination-attempt-on-iraqi-pm-fails)
+- [Airlines hope for fistfuls of dollars as transatlantic flying returns](https://www.theguardian.com/business/2021/nov/07/airlines-hope-for-fistfuls-of-dollars-as-transatlantic-flying-returns)
+- [Alpine alert: get the off-piste look – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/06/alpine-alert-get-the-off-piste-look-in-pictures)
+- [Stepping out: 10 of the best chelsea boots for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/06/stepping-out-10-of-the-best-chelsea-boots-for-men-in-pictures)
+- [Former UB40 member Astro dies after short illness](https://www.theguardian.com/music/2021/nov/06/former-ub40-member-astro-dies-after-short-illness)
+- [Climate protests: fury, and optimism, in the Glasgow rain](https://www.theguardian.com/environment/2021/nov/06/climate-protests-fury-and-optimism-in-the-glasgow-rain)
+- [French bishops kneel in penance over Catholic church’s role in child abuse](https://www.theguardian.com/world/2021/nov/06/french-bishops-kneel-in-penance-over-catholic-churchs-role-in-child-abuse)
+- [Valtteri Bottas blisters to Mexican GP pole as Mercedes keep Red Bull at bay](https://www.theguardian.com/sport/2021/nov/06/valtteri-bottas-mexican-gp-pole-mercedes-keep-red-bull-at-bay-f1-qualifying)
+- [Elon Musk asks Twitter followers if he should sell 10% of Tesla stock](https://www.theguardian.com/technology/2021/nov/06/elon-musk-twitter-followers-sell-tesla-stock-billionaires-tax)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

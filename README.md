@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Be a Force of Nature](https://news.ycombinator.com/item?id=29126949)
-- [Venture Capital, Competitor Ties, and Entrepreneurial Innovation (2015) [pdf]](https://foster.uw.edu/wp-content/uploads/2021/05/Pahnke-McDonald-Wang-Hallen-2015.pdf)
-- [Filling Blind](https://www.youtube.com/watch?v=41QMaJqxqIo)
-- [Where all 50 states stand on making daylight saving time permanent](https://www.9news.com/article/news/nation-world/daylight-saving-time-bill-status-all-50-states/507-25ff8777-63bc-423f-895d-22f5a3d5d28c)
-- [Guide to DRM-Free Living: Literature](https://www.defectivebydesign.org/guide/ebooks)
-- [Ethereum Game Axie Infinity Launches Ronin DEX, SLP Token Spikes 74%](https://decrypt.co/85281/ethereum-game-axie-infinity-ronin-dex-slp-token-spikes)
-- [Faulty DRM Breaks Dozens of Games on Intel’s Alder Lake CPUs](https://arstechnica.com/gaming/2021/11/faulty-drm-breaks-dozens-of-games-on-intels-alder-lake-cpus/)
-- [An open source GTO solver](https://bupticybee.github.io/texassolver_page/)
-- [A quantum walk down Wall Street](https://www.economist.com/finance-and-economics/2021/11/06/a-quantum-walk-down-wall-street)
-- [Jury finds crypto products are not securities](https://www.reuters.com/legal/transactional/apparent-first-conn-class-action-jury-finds-crypto-products-are-not-securities-2021-11-03/)
+- [M1/M1 Pro Max MacBook Pro Owners Complain of Crashes Playing HDR YouTube Videos](https://www.macrumors.com/2021/11/05/m1-pro-max-youtube-hdr-crashes/)
+- [Why Canadians can't bike in the winter (but Finnish people can)](https://www.youtube.com/watch?v=wBZPhGGU6sU)
+- [Architecture that extends types using extension methods (Microsoft patent)](https://patents.google.com/patent/US20100175048A1/en)
+- [He Can’t Cure His Dad. But a Scientist’s Research May Help Everyone Else](https://www.nytimes.com/2021/11/04/health/sharif-tabebordbar-gene-therapy.html)
+- [Ask HN: Is nuclear power a practical short term solution to climate change?](https://news.ycombinator.com/item?id=29135898)
+- [Declarative GUIs in Racket (gui-easy)](https://defn.io/2021/08/01/ann-gui-easy/)
+- [QB64 Game Programming](http://www.qb64sourcecode.com/)
+- [ElasticON Global – Free Elasticsearch and Elk Stack Virtual User Conference](https://www.elastic.co/elasticon/global)
+- [Making Entropy Production Work](https://phys.org/news/2021-11-entropy-production.html)
+- [Mental Models: Iceberg Analysis and Undercurrents](https://newsletter.smarter.blog/p/icebergs-and-undercurrents)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Considering returning to IT, but not sure what route to go. Please help.](https://www.reddit.com/r/InformationTechnology/comments/qobavd/considering_returning_to_it_but_not_sure_what/)
+- [I work with these everyday and I realize I barely know the difference.](https://www.reddit.com/r/InformationTechnology/comments/qoapg2/i_work_with_these_everyday_and_i_realize_i_barely/)
+- [IT Student asking for help. Multi-user concept.](https://www.reddit.com/r/InformationTechnology/comments/qo91oo/it_student_asking_for_help_multiuser_concept/)
+- [Breaking Into IT with NO degrees/Certs](https://www.reddit.com/r/InformationTechnology/comments/qnrmxo/breaking_into_it_with_no_degreescerts/)
 - [I don't understand IT people](https://www.reddit.com/r/InformationTechnology/comments/qngv3f/i_dont_understand_it_people/)
 - [Where do these certs take you?](https://www.reddit.com/r/InformationTechnology/comments/qnepe9/where_do_these_certs_take_you/)
 - [Things to brush up on for second phase of hiring?](https://www.reddit.com/r/InformationTechnology/comments/qnef13/things_to_brush_up_on_for_second_phase_of_hiring/)
 - [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/qndjj7/free_training_on_comptia_a_full_course/)
 - [I'm going to graduate college with an IT degree and a certificate in cyber security (offered with the concentration). What certifications should I get before I graduate and how do I get them?](https://www.reddit.com/r/InformationTechnology/comments/qmlisv/im_going_to_graduate_college_with_an_it_degree/)
 - [Does a small company IT need Intune?](https://www.reddit.com/r/InformationTechnology/comments/qmjrbp/does_a_small_company_it_need_intune/)
-- [should i install linux on an external ssd or use the one in my laptop.](https://www.reddit.com/r/InformationTechnology/comments/qm2egr/should_i_install_linux_on_an_external_ssd_or_use/)
-- [Anyone use ASUS Zenbooks in their enterprise environment?](https://www.reddit.com/r/InformationTechnology/comments/qluh4i/anyone_use_asus_zenbooks_in_their_enterprise/)
-- [Considering getting involved with IT](https://www.reddit.com/r/InformationTechnology/comments/qlth2s/considering_getting_involved_with_it/)
-- [Free Training on the New Microsoft AZ-800 Course](https://www.reddit.com/r/InformationTechnology/comments/qlrnfr/free_training_on_the_new_microsoft_az800_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

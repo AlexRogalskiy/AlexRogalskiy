@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sirum hiring Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
-- [The road of Barbados becoming a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
-- [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
-- [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
-- [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
-- [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
-- [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w)
-- [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
-- [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
+- [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
+- [Ask HN: Why crypto is rising so fast when its not creating value?](https://news.ycombinator.com/item?id=29135226)
+- [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
+- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
+- [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
+- [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
+- [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
+- [ASCII Paint](http://ascii.alienmelon.com/)
+- [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
+- [Setting up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

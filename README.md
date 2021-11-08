@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you tell people you work with computers?](https://www.reddit.com/r/InformationTechnology/comments/qp1bb1/do_you_tell_people_you_work_with_computers/)
+- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/qp0c4q/first_it_job/)
+- [Resetting Windows, but keeping the apps on a second hard drive](https://www.reddit.com/r/InformationTechnology/comments/qoq7sk/resetting_windows_but_keeping_the_apps_on_a/)
 - [Considering returning to IT, but not sure what route to go. Please help.](https://www.reddit.com/r/InformationTechnology/comments/qobavd/considering_returning_to_it_but_not_sure_what/)
 - [I work with these everyday and I realize I barely know the difference.](https://www.reddit.com/r/InformationTechnology/comments/qoapg2/i_work_with_these_everyday_and_i_realize_i_barely/)
 - [IT Student asking for help. Multi-user concept.](https://www.reddit.com/r/InformationTechnology/comments/qo91oo/it_student_asking_for_help_multiuser_concept/)
@@ -413,9 +416,6 @@
 - [I don't understand IT people](https://www.reddit.com/r/InformationTechnology/comments/qngv3f/i_dont_understand_it_people/)
 - [Where do these certs take you?](https://www.reddit.com/r/InformationTechnology/comments/qnepe9/where_do_these_certs_take_you/)
 - [Things to brush up on for second phase of hiring?](https://www.reddit.com/r/InformationTechnology/comments/qnef13/things_to_brush_up_on_for_second_phase_of_hiring/)
-- [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/qndjj7/free_training_on_comptia_a_full_course/)
-- [I'm going to graduate college with an IT degree and a certificate in cyber security (offered with the concentration). What certifications should I get before I graduate and how do I get them?](https://www.reddit.com/r/InformationTechnology/comments/qmlisv/im_going_to_graduate_college_with_an_it_degree/)
-- [Does a small company IT need Intune?](https://www.reddit.com/r/InformationTechnology/comments/qmjrbp/does_a_small_company_it_need_intune/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

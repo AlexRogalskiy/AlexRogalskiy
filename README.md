@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Breeders’ Cup meeting 2021: day two – live!](https://www.theguardian.com/sport/live/2021/nov/06/breeders-cup-meeting-2021-day-two-live)
-- [Exploding drone assassination attempt on Iraqi PM fails](https://www.theguardian.com/world/2021/nov/07/exploding-drone-assassination-attempt-on-iraqi-pm-fails)
-- [Airlines hope for fistfuls of dollars as transatlantic flying returns](https://www.theguardian.com/business/2021/nov/07/airlines-hope-for-fistfuls-of-dollars-as-transatlantic-flying-returns)
-- [Alpine alert: get the off-piste look – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/06/alpine-alert-get-the-off-piste-look-in-pictures)
-- [Stepping out: 10 of the best chelsea boots for men – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/06/stepping-out-10-of-the-best-chelsea-boots-for-men-in-pictures)
-- [Former UB40 member Astro dies after short illness](https://www.theguardian.com/music/2021/nov/06/former-ub40-member-astro-dies-after-short-illness)
-- [Climate protests: fury, and optimism, in the Glasgow rain](https://www.theguardian.com/environment/2021/nov/06/climate-protests-fury-and-optimism-in-the-glasgow-rain)
-- [French bishops kneel in penance over Catholic church’s role in child abuse](https://www.theguardian.com/world/2021/nov/06/french-bishops-kneel-in-penance-over-catholic-churchs-role-in-child-abuse)
-- [Valtteri Bottas blisters to Mexican GP pole as Mercedes keep Red Bull at bay](https://www.theguardian.com/sport/2021/nov/06/valtteri-bottas-mexican-gp-pole-mercedes-keep-red-bull-at-bay-f1-qualifying)
-- [Elon Musk asks Twitter followers if he should sell 10% of Tesla stock](https://www.theguardian.com/technology/2021/nov/06/elon-musk-twitter-followers-sell-tesla-stock-billionaires-tax)
+- [‘We saw everyone drop’: bee swarm stops play in New Zealand cricket match](https://www.theguardian.com/sport/2021/nov/08/we-saw-everyone-drop-bee-swarm-stops-play-in-new-zealand-cricket-match)
+- [UK government could restrict travel for people who refuse Covid boosters](https://www.theguardian.com/world/2021/nov/07/uk-government-could-restrict-travel-people-who-refuse-covid-boosters)
+- [Vera Lynn secretly ordered to sing at Queen’s 16th birthday](https://www.theguardian.com/music/2021/nov/08/vera-lynn-secretly-ordered-to-sing-at-queen-16th-birthday)
+- [Weetabix workers to hold four-day strikes over pay and conditions](https://www.theguardian.com/business/2021/nov/08/weetabix-workers-to-hold-four-day-strikes-over-pay-and-conditions)
+- [BA and Virgin Atlantic put aside rivalry for return of leisure flights to US](https://www.theguardian.com/business/2021/nov/08/ba-and-virgin-atlantic-put-aside-rivalry-for-return-of-leisure-flights-to-us-covid)
+- [UK business output falls for sixth month in a row amid supply chain crisis](https://www.theguardian.com/business/2021/nov/08/uk-business-output-falls-for-sixth-month-in-a-row-amid-supply-chain-crisis)
+- [Northern Ireland: bus hijacked and set alight on outskirts of Belfast](https://www.theguardian.com/uk-news/2021/nov/07/northern-ireland-bus-hijacked-and-set-alight-on-outskirts-of-belfast)
+- [MPs could be barred from consultancy roles in sleaze clampdown](https://www.theguardian.com/politics/2021/nov/07/mps-could-be-barred-from-consultancy-roles-in-sleaze-clampdown)
+- [Astroworld: questions over why Travis Scott played on as crush developed](https://www.theguardian.com/us-news/2021/nov/07/rapper-travis-scott-devastated-after-astroworld-festival-deaths-houston)
+- [Close to Me review – Christopher Eccleston arouses suspicion in a deliciously dark binge-watch](https://www.theguardian.com/tv-and-radio/2021/nov/07/close-to-me-review-christopher-eccleston-arouses-suspicion-in-a-deliciously-dark-binge-watch)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -391,6 +391,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Reaching the data gold standard: dream or reality?](https://www.computerweekly.com/opinion/Reaching-the-data-gold-standard-dream-or-reality)
+- [Technology spending reaches record levels, fuelling jobs boom](https://www.computerweekly.com/news/252509085/Technology-spending-reaches-record-levels-fuels-jobs-boom)
+- [Businesses failing to cut carbon footprint of ‘power-hungry’ technology](https://www.computerweekly.com/news/252509025/Businesses-failing-to-cut-carbon-footprint-of-power-hungry-technology)
 - [Petrol station retailer EG Group opts for Rise with SAP to fuel growth](https://www.computerweekly.com/news/252509162/Petrol-station-retailer-EG-Group-opts-for-Rise-with-SAP-to-fuel-growth)
 - [Mining deaths lawsuit against major tech companies dismissed](https://www.computerweekly.com/news/252509170/Mining-deaths-lawsuit-against-major-tech-companies-dismissed)
 - [Immutable snapshots aim to neutralise ransomware](https://www.computerweekly.com/feature/Immutable-snapshots-aim-to-neutralise-ransomware)
@@ -398,9 +401,6 @@
 - [HMRC IT transformation plans under strain, says NAO report](https://www.computerweekly.com/news/252509159/HMRC-IT-transformation-plans-under-strain-says-NAO-report)
 - [Number of subpostmasters appealing convictions reaches 137 at one legal firm](https://www.computerweekly.com/news/252509150/Number-of-subpostmasters-appealing-convictions-reaches-137-at-one-legal-firm)
 - [US offers $10m reward for intel on DarkSide ransomware gang](https://www.computerweekly.com/news/252509151/US-offers-10m-reward-for-intel-on-DarkSide-ransomware-gang)
-- [COP26: IT and climate change – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/COP26-IT-and-climate-change-Computer-Weekly-Downtime-Upload-podcast)
-- [Police interview former Fujitsu staff for second time in potential perjury investigation](https://www.computerweekly.com/news/252509113/Police-interview-former-Fujitsu-staff-for-second-time-in-potential-perjury-investigation)
-- [UK and US governments agree joint quantum collaboration](https://www.computerweekly.com/news/252509079/UK-and-US-governments-agree-joint-quantum-collaboration)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [M1/M1 Pro Max MacBook Pro Owners Complain of Crashes Playing HDR YouTube Videos](https://www.macrumors.com/2021/11/05/m1-pro-max-youtube-hdr-crashes/)
-- [Why Canadians can't bike in the winter (but Finnish people can)](https://www.youtube.com/watch?v=wBZPhGGU6sU)
-- [Architecture that extends types using extension methods (Microsoft patent)](https://patents.google.com/patent/US20100175048A1/en)
-- [He Can’t Cure His Dad. But a Scientist’s Research May Help Everyone Else](https://www.nytimes.com/2021/11/04/health/sharif-tabebordbar-gene-therapy.html)
-- [Ask HN: Is nuclear power a practical short term solution to climate change?](https://news.ycombinator.com/item?id=29135898)
-- [Declarative GUIs in Racket (gui-easy)](https://defn.io/2021/08/01/ann-gui-easy/)
-- [QB64 Game Programming](http://www.qb64sourcecode.com/)
-- [ElasticON Global – Free Elasticsearch and Elk Stack Virtual User Conference](https://www.elastic.co/elasticon/global)
-- [Making Entropy Production Work](https://phys.org/news/2021-11-entropy-production.html)
-- [Mental Models: Iceberg Analysis and Undercurrents](https://newsletter.smarter.blog/p/icebergs-and-undercurrents)
+- [Researchers Revise Recipe for Building a Rocky Planet Like Earth](https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/)
+- [Sponge Genes Hint at the Origins of Neurons and Other Cells](https://www.quantamagazine.org/sponge-genes-hint-at-the-origins-of-neurons-and-other-cells-20211104/)
+- [Blacklisting this Israeli spyware firm is only a first step](https://www.washingtonpost.com/opinions/2021/11/05/blacklisting-nso-group-is-only-first-step/)
+- [Pilot Says Too Many Jumpers Outside Led to King Air Spin](https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/)
+- [Biohacking tricks give the best footballers the ultimate kick](https://www.redbull.com/gb-en/theredbulletin/biohacking-tricks-for-professional-footballers)
+- [The Treasury-Fed Accord: A New Narrative Account [pdf]](https://www.richmondfed.org/~/media/richmondfedorg/publications/research/economic_quarterly/2001/winter/pdf/hetzel.pdf)
+- [Tell HN: /asknew Has Been Created](https://news.ycombinator.com/item?id=29145550)
+- [Broken toilet on SpaceX capsule means astronauts will return to Earth in diapers](https://www.npr.org/2021/11/07/1053383188/a-broken-toilet-on-spacex-capsule-means-astronauts-will-return-to-earth-in-diape)
+- [Art Bell Bumper Music](https://open.spotify.com/playlist/49OayBkZk80EI301TkJrqJ)
+- [Covid-19 Vaccines and Myocarditis Link Probed by Researchers](https://www.wsj.com/articles/researchers-probe-link-between-covid-19-vaccines-and-myocarditis-11636290002)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

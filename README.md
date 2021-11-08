@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
-- [Ask HN: Why crypto is rising so fast when its not creating value?](https://news.ycombinator.com/item?id=29135226)
-- [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
-- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
-- [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
-- [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
-- [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
-- [ASCII Paint](http://ascii.alienmelon.com/)
-- [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
-- [Setting up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
+- [Generally Intelligent (YC S17) Is Hiring ML Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
+- [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
+- [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
+- [Taking notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
+- [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
+- [Falsehoods programmers believe about names – with examples (2018)](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
+- [Why is Tcl syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
+- [Hypnogram: Create an image from text](https://hypnogram.xyz/)
+- [_why's Estate](https://viewsourcecode.org/why/)
+- [Your users will do what you make easy](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

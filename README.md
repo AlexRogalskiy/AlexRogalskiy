@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
+- [10 Top Skills for Cloud Computing](https://www.informationweek.com/cloud-computing/10-top-skills-for-cloud-computing)
+- [Microsoft CEO Nadella Outlines Forward-Looking Tech Trends](https://www.informationweek.com/strategic-cio/microsoft-ceo-nadella-outlines-forward-looking-tech-trends)
+- [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
 - [How IT Budgets Must Adapt to Remote Work](https://www.informationweek.com/strategic-cio/how-it-budgets-must-adapt-to-remote-work)
 - [The Perils of Patching](https://www.informationweek.com/security-and-risk-strategy/the-perils-of-patching)
 - [Cloud May See More AI, Face Increased Geopolitical Friction](https://www.informationweek.com/cloud/cloud-may-see-more-ai-face-increased-geopolitical-friction)
 - [How AI Can Help Your Organization Stay a Step Ahead of Cyberattackers](https://www.informationweek.com/security-and-risk-strategy/how-ai-can-help-your-organization-stay-a-step-ahead-of-cyberattackers)
 - [How to Improve Remote Network Reliability](https://www.informationweek.com/it-strategy/how-to-improve-remote-network-reliability)
-- [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
 - [Federated Computing Will Shape the Future of Computing](https://www.informationweek.com/big-data/federated-computing-will-shape-the-future-of-computing)
-- [Facebook Shuts Down Facial Recognition](https://www.informationweek.com/ai-or-machine-learning/facebook-shuts-down-facial-recognition)
-- [Global Tech Policy Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)
-- [Collaboration is Key to Defending Operational Technology](https://www.informationweek.com/security-and-risk-strategy/collaboration-is-key-to-defending-operational-technology)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

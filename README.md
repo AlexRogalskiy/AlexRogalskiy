@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent (YC S17) Is Hiring ML Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
-- [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
-- [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
-- [Taking notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
-- [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
-- [Falsehoods programmers believe about names – with examples (2018)](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
-- [Why is Tcl syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
-- [Hypnogram: Create an image from text](https://hypnogram.xyz/)
-- [_why's Estate](https://viewsourcecode.org/why/)
-- [Your users will do what you make easy](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad)
+- [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
+- [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
+- [Etleap &lpar;YC W13&rpar; Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
+- [Shooting an Elephant &lpar;1936&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)
+- [Real-time search with Typesense](https://servicestack.net/blog/typesense-realtime-search)
+- [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
+- [The brain can recall and reawaken past immune responses](https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/)
+- [Culturally transmitted skills and values](https://danluu.com/culture/)
+- [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
+- [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

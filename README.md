@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We saw everyone drop’: bee swarm stops play in New Zealand cricket match](https://www.theguardian.com/sport/2021/nov/08/we-saw-everyone-drop-bee-swarm-stops-play-in-new-zealand-cricket-match)
-- [UK government could restrict travel for people who refuse Covid boosters](https://www.theguardian.com/world/2021/nov/07/uk-government-could-restrict-travel-people-who-refuse-covid-boosters)
-- [Vera Lynn secretly ordered to sing at Queen’s 16th birthday](https://www.theguardian.com/music/2021/nov/08/vera-lynn-secretly-ordered-to-sing-at-queen-16th-birthday)
-- [Weetabix workers to hold four-day strikes over pay and conditions](https://www.theguardian.com/business/2021/nov/08/weetabix-workers-to-hold-four-day-strikes-over-pay-and-conditions)
-- [BA and Virgin Atlantic put aside rivalry for return of leisure flights to US](https://www.theguardian.com/business/2021/nov/08/ba-and-virgin-atlantic-put-aside-rivalry-for-return-of-leisure-flights-to-us-covid)
-- [UK business output falls for sixth month in a row amid supply chain crisis](https://www.theguardian.com/business/2021/nov/08/uk-business-output-falls-for-sixth-month-in-a-row-amid-supply-chain-crisis)
-- [Northern Ireland: bus hijacked and set alight on outskirts of Belfast](https://www.theguardian.com/uk-news/2021/nov/07/northern-ireland-bus-hijacked-and-set-alight-on-outskirts-of-belfast)
-- [MPs could be barred from consultancy roles in sleaze clampdown](https://www.theguardian.com/politics/2021/nov/07/mps-could-be-barred-from-consultancy-roles-in-sleaze-clampdown)
-- [Astroworld: questions over why Travis Scott played on as crush developed](https://www.theguardian.com/us-news/2021/nov/07/rapper-travis-scott-devastated-after-astroworld-festival-deaths-houston)
-- [Close to Me review – Christopher Eccleston arouses suspicion in a deliciously dark binge-watch](https://www.theguardian.com/tv-and-radio/2021/nov/07/close-to-me-review-christopher-eccleston-arouses-suspicion-in-a-deliciously-dark-binge-watch)
+- [Sleep at 10pm linked to lower risk of heart disease, study finds](https://www.theguardian.com/lifeandstyle/2021/nov/09/sleep-at-10pm-linked-to-lower-risk-of-heart-disease-study-finds)
+- [1bn people will suffer extreme heat at just 2C heating, say scientists](https://www.theguardian.com/environment/2021/nov/09/1bn-people-will-suffer-extreme-heat-at-just-2c-heating-say-scientists)
+- [Bond boosts cinema spending as consumer demand drives retail recovery](https://www.theguardian.com/business/2021/nov/09/bond-boosts-cinema-spending-as-consumer-demand-drives-retail-recovery)
+- [Lawyer John Eastman and Michael Flynn among six subpoenaed by Capitol attack panel](https://www.theguardian.com/us-news/2021/nov/08/capitol-attack-committee-subpoenas-michael-flynn-bill-stepien)
+- [Dexter: New Blood review – a lean, mean return for TV’s top serial killer](https://www.theguardian.com/tv-and-radio/2021/nov/08/dexter-new-blood-review-leaner-hungrier-serial-killer)
+- [Seventh-tier Buxton host League One Morecambe in FA Cup second round](https://www.theguardian.com/football/2021/nov/08/seventh-tier-buxton-host-league-one-morecambe-in-fa-cup-second-round)
+- [Boy, 10, dies after being attacked by dog near Caerphilly](https://www.theguardian.com/uk-news/2021/nov/08/boy-10-dies-after-being-attacked-by-dog-near-caerphilly)
+- [Frank Lampard in talks to fill managerial vacancy at Norwich City](https://www.theguardian.com/football/2021/nov/08/frank-lampard-in-talks-to-fill-managerial-vacancy-at-norwich-city)
+- [Rolls-Royce secures £450m for mini nuclear reactors venture](https://www.theguardian.com/business/2021/nov/08/rolls-royce-secures-450m-for-mini-nuclear-reactors-venture)
+- [Sprinters Gemili and Neita on collision course with UK Athletics over Reider](https://www.theguardian.com/sport/2021/nov/08/sprinters-gemili-and-neita-on-collision-course-with-uk-athletics-over-reider)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

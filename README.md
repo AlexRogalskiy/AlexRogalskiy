@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Researchers Revise Recipe for Building a Rocky Planet Like Earth](https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/)
-- [Sponge Genes Hint at the Origins of Neurons and Other Cells](https://www.quantamagazine.org/sponge-genes-hint-at-the-origins-of-neurons-and-other-cells-20211104/)
-- [Blacklisting this Israeli spyware firm is only a first step](https://www.washingtonpost.com/opinions/2021/11/05/blacklisting-nso-group-is-only-first-step/)
-- [Pilot Says Too Many Jumpers Outside Led to King Air Spin](https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/)
-- [Biohacking tricks give the best footballers the ultimate kick](https://www.redbull.com/gb-en/theredbulletin/biohacking-tricks-for-professional-footballers)
-- [The Treasury-Fed Accord: A New Narrative Account [pdf]](https://www.richmondfed.org/~/media/richmondfedorg/publications/research/economic_quarterly/2001/winter/pdf/hetzel.pdf)
-- [Tell HN: /asknew Has Been Created](https://news.ycombinator.com/item?id=29145550)
-- [Broken toilet on SpaceX capsule means astronauts will return to Earth in diapers](https://www.npr.org/2021/11/07/1053383188/a-broken-toilet-on-spacex-capsule-means-astronauts-will-return-to-earth-in-diape)
-- [Art Bell Bumper Music](https://open.spotify.com/playlist/49OayBkZk80EI301TkJrqJ)
-- [Covid-19 Vaccines and Myocarditis Link Probed by Researchers](https://www.wsj.com/articles/researchers-probe-link-between-covid-19-vaccines-and-myocarditis-11636290002)
+- [How to scam people with NTFS and how the IRS is going to ruin it](https://twitter.com/Foone/status/1457749433844568066)
+- [The Economics of a Successful Marriage](https://www.investopedia.com/financial-edge/0411/apply-economics-for-a-successful-marriage.aspx)
+- [They Painted the ‘Samurai Jack’ Backgrounds](https://animationobsessive.substack.com/p/how-they-painted-samurai-jack)
+- [Satellite images show China has built mock-ups of US warships](https://www.theguardian.com/us-news/2021/nov/08/satellite-images-china-mock-ups-us-warships)
+- [U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks: Q1 2021 [pdf]](https://www.nrel.gov/docs/fy22osti/80694.pdf)
+- [Death Valley Junction, a California town with two residents and an opera house](https://www.sfgate.com/travel/article/death-valley-amargosa-opera-house-16595328.php)
+- [Sorry, but a $10M Sewer System Won&#39;t Fix Your Economy](https://www.strongtowns.org/journal/2021/10/26/maine-sewer-article)
+- [Astronomer’s peer-reviewed work passed under the “equity” lens and found wanting](https://www.city-journal.org/scientific-merit-and-the-equity-cult)
+- [Pull Request Review Reminders for Teams](https://github.com/schlagelk/Mariachi)
+- [The BuzzFeedification of Mental Health](https://mentalhellth.xyz/p/the-buzzfeed-ification-of-mental)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

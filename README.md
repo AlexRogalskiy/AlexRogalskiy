@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Thinking of upgrading your company’s tech gear? Now’s not the time.](https://www.computerworld.com/article/3639830/thinking-of-upgrading-your-company-s-tech-gear-now-s-not-the-time.html#tk.rss_all)
+- [Tableau’s new Slack capabilities democratize data](https://www.cio.com/article/3639623/tableau-s-new-slack-capabilities-democratize-data.html#tk.rss_all)
+- [Podcast: How Pixel users can get the most out of Android 12](https://www.computerworld.com/article/3639922/podcast-how-pixel-users-can-get-the-most-out-of-android-12.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [What’s past is prologue: When code-signing in Windows 11 goes bad](https://www.computerworld.com/article/3639697/what-s-past-is-prologue-when-code-signing-in-windows-11-goes-bad.html#tk.rss_all)
 - [US IT job growth slows because of too few candidates](https://www.computerworld.com/article/3542681/us-it-job-growth-slows-because-of-too-few-candidates.html#tk.rss_all)
 - [SAP VP Martin Lang touts Apple, M1 Macs and the mobile enterprise](https://www.computerworld.com/article/3639513/sap-vp-martin-lang-touts-apple-m1-macs-and-the-mobile-enterprise.html#tk.rss_all)
-- [New digital storefronts shake up online retail—and advertising](https://www.computerworld.com/article/3639533/new-digital-storefronts-shake-up-the-online-retail-and-advertising.html#tk.rss_all)
-- [5 Android 12 features you can bring to any phone today](https://www.computerworld.com/article/3609897/android-12-features-any-phone.html#tk.rss_all)
-- [Podcast: New 27-inch iMac with M1 Pro chip rumors, plus M1 MacBook memory leak bugs](https://www.computerworld.com/article/3639544/podcast-new-27-inch-imac-with-m1-pro-chip-rumors-plus-m1-macbook-memory-leak-bugs.html#tk.rss_all)
-- [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
-- [Microsoft unveils Loop — and a new collaborative Office doc](https://www.computerworld.com/article/3639508/microsoft-unveils-loop-and-a-new-collaborative-office-doc.html#tk.rss_all)
-- [Teams and Webex: What if Microsoft and Cisco merged their platforms?](https://www.computerworld.com/article/3639591/teams-and-webex-what-if-microsoft-and-cisco-merged-their-platforms.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

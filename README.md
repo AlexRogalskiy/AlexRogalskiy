@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need to upgrade our Macs](https://www.reddit.com/r/InformationTechnology/comments/qqba8w/need_to_upgrade_our_macs/)
 - [I want to give up. People are ruining something I loved so much now I&#39;m starting to hate.](https://www.reddit.com/r/InformationTechnology/comments/qpfma8/i_want_to_give_up_people_are_ruining_something_i/)
 - [Do you tell people you work with computers?](https://www.reddit.com/r/InformationTechnology/comments/qp1bb1/do_you_tell_people_you_work_with_computers/)
 - [First IT job](https://www.reddit.com/r/InformationTechnology/comments/qp0c4q/first_it_job/)
@@ -415,7 +416,6 @@
 - [IT Student asking for help. Multi-user concept.](https://www.reddit.com/r/InformationTechnology/comments/qo91oo/it_student_asking_for_help_multiuser_concept/)
 - [Breaking Into IT with NO degrees/Certs](https://www.reddit.com/r/InformationTechnology/comments/qnrmxo/breaking_into_it_with_no_degreescerts/)
 - [I don&#39;t understand IT people](https://www.reddit.com/r/InformationTechnology/comments/qngv3f/i_dont_understand_it_people/)
-- [Where do these certs take you?](https://www.reddit.com/r/InformationTechnology/comments/qnepe9/where_do_these_certs_take_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

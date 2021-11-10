@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Mining for intelligence: Why business process intelligence makes for agility](https://www.computerweekly.com/feature/Mining-for-intelligence-Why-business-process-intelligence-makes-for-agility)
-- [How can enterprises avoid datacentre supply chain issues affecting IT upgrades?](https://www.computerweekly.com/feature/How-can-enterprises-avoid-datacentre-supply-chain-issues-affecting-IT-upgrades)
-- [REvil associates arrested in international ransomware crackdown](https://www.computerweekly.com/news/252509215/REvil-associates-arrested-in-international-ransomware-crackdown)
-- [Gig economy workforce nearly trebles over five years](https://www.computerweekly.com/news/252509210/Gig-economy-workforce-nearly-trebles-over-five-years)
-- [NHSX chief information officer outlines role of tech in achieving net zero targets](https://www.computerweekly.com/news/252509205/NHSX-chief-information-officer-outlines-role-of-tech-in-achieving-net-zero-targets)
-- [Watching me, watching you – challenging the rise of digital surveillance at work](https://www.computerweekly.com/opinion/Watching-me-watching-you-challenging-the-rise-of-digital-surveillance-at-work)
-- [CME Group signs 10-year cloud and product innovation deal with Google](https://www.computerweekly.com/news/252509204/CME-Group-signs-10-year-cloud-and-product-innovation-deal-with-Google)
-- [How cosmetics retailer Lush made over its approach to authentication](https://www.computerweekly.com/news/252509200/How-cosmetics-retailer-Lush-made-over-its-approach-to-authentication)
-- [Irish government confirms datacentre strategy review in revised 2021 climate plan](https://www.computerweekly.com/news/252509199/Irish-government-confirms-datacentre-strategy-review-in-revised-2021-climate-plan)
-- [Sustainability: IT isn’t working](https://www.computerweekly.com/news/252509067/Sustainability-IT-isnt-working)
+- [Yoti develops age estimation algorithm for under-13s](https://www.computerweekly.com/news/252509286/Yoti-develops-age-estimation-algorithm-for-under-13s)
+- [The Secret IR Insider’s Diary – this is not a fashion show](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-this-is-not-a-fashion-show)
+- [NHS gets £250m boost to accelerate digital diagnostics plan](https://www.computerweekly.com/news/252509279/NHS-gets-250m-boost-to-accelerate-digital-diagnostics-plan)
+- [Tech’s reaction to the Budget’s skills promises](https://www.computerweekly.com/news/252509270/Techs-reaction-to-the-budgets-skills-promises)
+- [What’s up with Wotsits, Quavers and Monster Munch?](https://www.computerweekly.com/news/252509281/Whats-up-with-Wotsits-Quavers-and-Monster-Munch)
+- [Standard Chartered picks Starling Bank tech for product launch](https://www.computerweekly.com/news/252509274/Standard-Chartered-picks-Starling-Bank-tech-for-product-launch)
+- [Real Madrid teams up with Adobe to enhance global fan experience](https://www.computerweekly.com/news/252509271/Real-Madrid-teams-up-with-Adobe-to-enhance-global-fan-experience)
+- [Vienna’s tech startup ecosystem gathers momentum](https://www.computerweekly.com/news/252509259/Viennas-tech-startup-ecosystem-gathers-momentum)
+- [Gartner: Why CIOs need to replan their roadmap](https://www.computerweekly.com/news/252509257/Gartner-Why-CIOs-need-to-replan-their-roadmap)
+- [Blockchain technology will help banks will cut cross-border payment costs by $10bn in 2030](https://www.computerweekly.com/news/252509262/Blockchain-technology-will-help-banks-will-cut-cross-border-payment-costs-by-10bn-in-2030)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

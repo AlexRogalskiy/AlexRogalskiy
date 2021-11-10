@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft joins Java Community Process](https://www.infoworld.com/article/3639518/microsoft-joins-java-community-process.html#tk.rss_all)
+- [Microsoft’s Pyjion compiler for Python reaches 1.0](https://www.infoworld.com/article/3639924/microsofts-pyjion-compiler-for-python-reaches-10.html#tk.rss_all)
+- [What does the chip shortage mean for cloud computing?](https://www.infoworld.com/article/3639835/what-does-the-chip-shortage-mean-for-cloud-computing.html#tk.rss_all)
+- [Metaverse? A Second Life with VR glasses](https://www.infoworld.com/article/3639550/metaverse-a-second-life-with-vr-glasses.html#tk.rss_all)
+- [Understanding SLOs for monitoring applications](https://www.infoworld.com/article/3639053/understanding-slos-for-monitoring-applications.html#tk.rss_all)
 - [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
 - [Microsoft Visual Studio 2022 arrives](https://www.infoworld.com/article/3639559/microsoft-visual-studio-2022-arrives.html#tk.rss_all)
 - [All your serverless are belong to us](https://www.infoworld.com/article/3639558/all-your-serverless-are-belong-to-us.html#tk.rss_all)
 - [GitHub Copilot preview gives me hope](https://www.infoworld.com/article/3639552/github-copilot-preview-gives-me-hope.html#tk.rss_all)
 - [The case against monorepos](https://www.infoworld.com/article/3638860/the-case-against-monorepos.html#tk.rss_all)
-- [More evidence we’re in a multicloud world](https://www.infoworld.com/article/3639690/more-evidence-were-in-a-multicloud-world.html#tk.rss_all)
-- [How to improve StringBuilder performance in C#](https://www.infoworld.com/article/3638755/how-to-improve-stringbuilder-performance-in-c.html#tk.rss_all)
-- [The RED method: A new strategy for monitoring microservices](https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html#tk.rss_all)
-- [How to use Docker for Java development](https://www.infoworld.com/article/3638548/how-to-use-docker-for-java-development.html#tk.rss_all)
-- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

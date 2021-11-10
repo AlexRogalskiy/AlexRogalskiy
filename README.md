@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
-- [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
-- [Shooting an Elephant &lpar;1936&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)
-- [Real-time search with Typesense](https://servicestack.net/blog/typesense-realtime-search)
-- [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
-- [The brain can recall and reawaken past immune responses](https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/)
-- [Culturally transmitted skills and values](https://danluu.com/culture/)
-- [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
-- [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
+- [Why Python needs to be paused during profiling – but Ruby doesn&#39;t always](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/)
+- [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Back-End Engineer](https://corrily.crew.work/jobs/61813ccf6fe1e5d3f8686048)
+- [The Question We’ve Stopped Asking About Teen-Agers and Social Media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media)
+- [Compass Pathways&#39; Phase IIb psilocybin trial shows reduced depression symptoms](https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/)
+- [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
+- [Show HN: I&#39;m 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
+- [The Surreal Horror of Pam](https://christine.website/talks/surreal-horror-pam-2021-11-09)
+- [Macron says France will build new nuclear energy reactors](https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/)
+- [Write thin to write fast](https://breckyunits.com/write-thin-to-write-fast.html)
+- [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to scam people with NTFS and how the IRS is going to ruin it](https://twitter.com/Foone/status/1457749433844568066)
-- [The Economics of a Successful Marriage](https://www.investopedia.com/financial-edge/0411/apply-economics-for-a-successful-marriage.aspx)
-- [They Painted the ‘Samurai Jack’ Backgrounds](https://animationobsessive.substack.com/p/how-they-painted-samurai-jack)
-- [Satellite images show China has built mock-ups of US warships](https://www.theguardian.com/us-news/2021/nov/08/satellite-images-china-mock-ups-us-warships)
-- [U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks: Q1 2021 [pdf]](https://www.nrel.gov/docs/fy22osti/80694.pdf)
-- [Death Valley Junction, a California town with two residents and an opera house](https://www.sfgate.com/travel/article/death-valley-amargosa-opera-house-16595328.php)
-- [Sorry, but a $10M Sewer System Won&#39;t Fix Your Economy](https://www.strongtowns.org/journal/2021/10/26/maine-sewer-article)
-- [Astronomer’s peer-reviewed work passed under the “equity” lens and found wanting](https://www.city-journal.org/scientific-merit-and-the-equity-cult)
-- [Pull Request Review Reminders for Teams](https://github.com/schlagelk/Mariachi)
-- [The BuzzFeedification of Mental Health](https://mentalhellth.xyz/p/the-buzzfeed-ification-of-mental)
+- [You, another new search engine, hopes privacy can help it take on Google](https://www.washingtonpost.com/technology/2021/11/09/search-engine-you/)
+- [An Open Letter to Canva from Picmaker](https://designoverload.org)
+- [Career Advice from Discussion with a Senior Google Engineer](https://thewriting.dev/career-advice-from-discussion-with-a-senior-google-engineer/)
+- [Alloy 6](https://alloytools.org/alloy6.html)
+- [Keynote: Making Progress – Alan Kay](https://www.youtube.com/watch?v=9MqVfzxAp6A)
+- [CodeIgniter Training](https://news.ycombinator.com/item?id=29170263)
+- [Nvidia Announces Platform for Creating AI Avatars](https://nvidianews.nvidia.com/news/nvidia-announces-platform-for-creating-ai-avatars)
+- [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
+- [What makes entrepreneurs entrepreneurial? &lpar;2008&rpar; [pdf]](https://www.effectuation.org/sites/default/files/research_papers/what-makes-entrepreneurs-entrepreneurial-sarasvathy_0.pdf)
+- [Iris Energy IPO F-1](https://www.sec.gov/Archives/edgar/data/0001878848/000114036121037102/ny20000275x7_f1a.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

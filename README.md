@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [AWS announces plans to open infrastructure region in Alberta](https://www.itworldcanada.com/article/aws-announces-plans-to-open-infrastructure-region-in-alberta/464498)
+- [Canadian police played a role in the arrest of suspects tied to ransomware gangs](https://www.itworldcanada.com/article/canadian-police-played-a-role-in-the-arrest-of-suspects-tied-to-ransomware-gangs/464491)
+- [Newfoundland attackers got personal data of patients, hospital workers](https://www.itworldcanada.com/article/newfoundland-attackers-got-personal-data-of-patients-hospital-workers/464555)
+- [Empathy is now a key skill of a CISO, conference told](https://www.itworldcanada.com/article/empathy-is-now-a-key-skill-of-a-ciso-conference-told/464447)
+- [Coffee Briefing, Nov. 9, 2021 – Canada Life partnership; global expansion for INEO; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-9-2021-canada-life-partnership-global-expansion-for-ineo-and-more/464452)
+- [Data on 25,000 current and former employees may have been stolen in TTC attack](https://www.itworldcanada.com/article/data-on-25000-current-and-former-employees-may-have-been-stolen-in-ttc-attack/464461)
+- [Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store](https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459)
+- [Budapest Convention on Cybercrime born 20 years ago this month](https://www.itworldcanada.com/article/budapest-convention-on-cybercrime-born-20-years-ago-this-month/464434)
+- [U.S. accuses man held in Poland with Kaseya ransomware attack, seizes $6 million](https://www.itworldcanada.com/article/u-s-accuses-man-held-in-poland-with-kaseya-ransomware-attack-seizes-6-million/464420)
 - [Kyndryl completes spinoff from IBM](https://www.itworldcanada.com/article/kyndryl-completes-spinoff-from-ibm/464411)
-- [The Big Opportunities in Automating Heavy Equipment](https://www.itworldcanada.com/article/the-big-opportunities-in-automating-heavy-equipment/464380)
-- [Markham becomes home to Tesla’s first branded manufacturing facility in Canada](https://www.itworldcanada.com/article/markham-becomes-home-to-teslas-first-branded-manufacturing-facility-in-canada/464368)
-- [Cyber Security Today, Nov. 8, 2021 – Ransomware delivered in 15 minutes, creating an incident response plan and get rid of old Windows](https://www.itworldcanada.com/article/cyber-security-today-nov-8-2021-ransomware-delivered-in-15-minutes-creating-an-incident-response-plan-and-get-rid-of-old-windows/464356)
-- [Hashtag Trending Nov. 8 – OneDrive to ditch Windows 7 and 8; screen repair disables Face ID; BMW removes touchscreens in some cars](https://www.itworldcanada.com/article/hashtag-trending-nov-8-onedrive-to-ditch-windows-7-and-8-screen-repair-disables-face-id-bmw-removes-touchscreens-in-some-cars/464361)
-- [How BlackBerry found an initial access broker supporting threat groups](https://www.itworldcanada.com/article/how-blackberry-found-an-initial-access-broker-supporting-threat-groups/464255)
-- [It will take time to restore healthcare IT system, say Newfoundland officials](https://www.itworldcanada.com/article/it-will-take-time-to-restore-healthcare-it-system-say-newfoundland-officials/464268)
-- [Cyber Security Today, Week in Review for Nov. 5, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-nov-5-2021/464146)
-- [Sixty-seven per cent of Canadian firms surveyed were hit by ransomware in last 12 months](https://www.itworldcanada.com/article/sixty-seven-per-cent-of-canadian-firms-surveyed-were-hit-by-ransomware-in-last-12-months/464245)
-- [Cyber Security Today, Nov. 5, 2021 – DDoS attacks increasing, phone scams up and ugly future cybersecurity predictions](https://www.itworldcanada.com/article/cyber-security-today-nov-5-2021-ddos-attacks-increasing-phone-scams-up-and-ugly-future-cybersecurity-predictions/464238)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

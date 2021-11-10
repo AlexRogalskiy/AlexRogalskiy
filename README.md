@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sleep at 10pm linked to lower risk of heart disease, study finds](https://www.theguardian.com/lifeandstyle/2021/nov/09/sleep-at-10pm-linked-to-lower-risk-of-heart-disease-study-finds)
-- [1bn people will suffer extreme heat at just 2C heating, say scientists](https://www.theguardian.com/environment/2021/nov/09/1bn-people-will-suffer-extreme-heat-at-just-2c-heating-say-scientists)
-- [Bond boosts cinema spending as consumer demand drives retail recovery](https://www.theguardian.com/business/2021/nov/09/bond-boosts-cinema-spending-as-consumer-demand-drives-retail-recovery)
-- [Lawyer John Eastman and Michael Flynn among six subpoenaed by Capitol attack panel](https://www.theguardian.com/us-news/2021/nov/08/capitol-attack-committee-subpoenas-michael-flynn-bill-stepien)
-- [Dexter: New Blood review – a lean, mean return for TV’s top serial killer](https://www.theguardian.com/tv-and-radio/2021/nov/08/dexter-new-blood-review-leaner-hungrier-serial-killer)
-- [Seventh-tier Buxton host League One Morecambe in FA Cup second round](https://www.theguardian.com/football/2021/nov/08/seventh-tier-buxton-host-league-one-morecambe-in-fa-cup-second-round)
-- [Boy, 10, dies after being attacked by dog near Caerphilly](https://www.theguardian.com/uk-news/2021/nov/08/boy-10-dies-after-being-attacked-by-dog-near-caerphilly)
-- [Frank Lampard in talks to fill managerial vacancy at Norwich City](https://www.theguardian.com/football/2021/nov/08/frank-lampard-in-talks-to-fill-managerial-vacancy-at-norwich-city)
-- [Rolls-Royce secures £450m for mini nuclear reactors venture](https://www.theguardian.com/business/2021/nov/08/rolls-royce-secures-450m-for-mini-nuclear-reactors-venture)
-- [Sprinters Gemili and Neita on collision course with UK Athletics over Reider](https://www.theguardian.com/sport/2021/nov/08/sprinters-gemili-and-neita-on-collision-course-with-uk-athletics-over-reider)
+- [Myanmar court jails two Aung San Suu Kyi allies for total of 165 years](https://www.theguardian.com/world/2021/nov/10/myanmar-court-jails-two-aung-san-suu-kyi-allies-for-165-years)
+- [Car bombing kills pregnant Yemeni journalist in Aden – reports](https://www.theguardian.com/world/2021/nov/10/car-bombing-kills-pregnant-yemeni-journalist-in-aden-reports)
+- [Squid Game to return for season two, creator Hwang Dong-hyuk says](https://www.theguardian.com/tv-and-radio/2021/nov/10/squid-game-to-return-for-season-two-creator-hwang-dong-hyuk-says)
+- [Helen Garner: I always liked my diary better than anything else I wrote](https://www.theguardian.com/books/2021/nov/10/helen-garner-i-always-liked-my-diary-better-than-anything-else-i-wrote)
+- [US Capitol attack committee issues subpoenas to 10 senior Trump officials](https://www.theguardian.com/us-news/2021/nov/09/capitol-attack-committee-subpoenas-trump-officials)
+- [Tigray conflict: Ethiopia detains 16 UN workers and accuses them of ‘terror act’](https://www.theguardian.com/world/2021/nov/10/tigray-conflict-ethiopia-detains-16-un-workers-and-accuses-them-of-terror-act)
+- [Nasa bumps moon landing back to 2025 at the earliest](https://www.theguardian.com/science/2021/nov/09/nasa-moon-landing-delayed)
+- [Peter Jackson sells special effects studio Weta Digital for $1.63bn](https://www.theguardian.com/film/2021/nov/10/peter-jackson-sells-special-effects-studio-weta-digital-for-almost-2bn)
+- [UK firms offer up to £2,000 sign-on bonuses amid Christmas labour shortage](https://www.theguardian.com/business/2021/nov/10/uk-firms-offer-up-to-2000-sign-on-bonuses-amid-christmas-labour-shortage)
+- [‘We dread summers’: dangerous ‘fire weather’ days are on the rise in northern California](https://www.theguardian.com/us-news/2021/nov/09/northern-california-wildfires-fire-weather-climate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

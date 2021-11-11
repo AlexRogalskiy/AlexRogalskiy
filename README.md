@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple introduces Business Essentials service for SMBs](https://www.computerworld.com/article/3640310/apple-introduces-business-essentials-service-for-smbs.html#tk.rss_all)
+- [Review: The new 16-in. MacBook Pro is Apple to the core](https://www.computerworld.com/article/3639923/review-the-new-16in-macbook-pro-is-apple-to-the-core.html#tk.rss_all)
+- [11 advanced Assistant tricks you should really remember on Android](https://www.computerworld.com/article/3639844/google-assistant-android.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Tableau’s new Slack capabilities democratize data](https://www.cio.com/article/3639623/tableau-s-new-slack-capabilities-democratize-data.html#tk.rss_all)
 - [Podcast: How Pixel users can get the most out of Android 12](https://www.computerworld.com/article/3639922/podcast-how-pixel-users-can-get-the-most-out-of-android-12.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [What’s past is prologue: When code-signing in Windows 11 goes bad](https://www.computerworld.com/article/3639697/what-s-past-is-prologue-when-code-signing-in-windows-11-goes-bad.html#tk.rss_all)
-- [US IT job growth slows because of too few candidates](https://www.computerworld.com/article/3542681/us-it-job-growth-slows-because-of-too-few-candidates.html#tk.rss_all)
-- [SAP VP Martin Lang touts Apple, M1 Macs and the mobile enterprise](https://www.computerworld.com/article/3639513/sap-vp-martin-lang-touts-apple-m1-macs-and-the-mobile-enterprise.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

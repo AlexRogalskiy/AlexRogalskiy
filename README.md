@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Empower your IT group to build your post-pandemic workplace](https://www.itworldcanada.com/article/empower-your-it-group-to-build-your-post-pandemic-workplace/464766)
+- [Cyber Security Today, Nov. 10, 2021 – An employee fooled at the Robinhood trading platform, and more firms hit by ignoring security updates](https://www.itworldcanada.com/article/cyber-security-today-nov-10-2021-an-employee-fooled-at-the-robinhood-trading-platform-and-more-firms-hit-by-ignoring-security-updates/464574)
+- [Hashtag Trending Nov 10 – U.S. $65 billion broadband plan; TSMC’s new chip plant in Japan;  McAfee goes private again](https://www.itworldcanada.com/article/hashtag-trending-nov-10-u-s-65-billion-broadband-plan-tsmcs-new-chip-plant-in-japan-mcafee-goes-private-again/464629)
 - [AWS announces plans to open infrastructure region in Alberta](https://www.itworldcanada.com/article/aws-announces-plans-to-open-infrastructure-region-in-alberta/464498)
 - [Canadian police played a role in the arrest of suspects tied to ransomware gangs](https://www.itworldcanada.com/article/canadian-police-played-a-role-in-the-arrest-of-suspects-tied-to-ransomware-gangs/464491)
 - [Newfoundland attackers got personal data of patients, hospital workers](https://www.itworldcanada.com/article/newfoundland-attackers-got-personal-data-of-patients-hospital-workers/464555)
@@ -428,9 +431,6 @@
 - [Coffee Briefing, Nov. 9, 2021 – Canada Life partnership; global expansion for INEO; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-9-2021-canada-life-partnership-global-expansion-for-ineo-and-more/464452)
 - [Data on 25,000 current and former employees may have been stolen in TTC attack](https://www.itworldcanada.com/article/data-on-25000-current-and-former-employees-may-have-been-stolen-in-ttc-attack/464461)
 - [Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store](https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459)
-- [Budapest Convention on Cybercrime born 20 years ago this month](https://www.itworldcanada.com/article/budapest-convention-on-cybercrime-born-20-years-ago-this-month/464434)
-- [U.S. accuses man held in Poland with Kaseya ransomware attack, seizes $6 million](https://www.itworldcanada.com/article/u-s-accuses-man-held-in-poland-with-kaseya-ransomware-attack-seizes-6-million/464420)
-- [Kyndryl completes spinoff from IBM](https://www.itworldcanada.com/article/kyndryl-completes-spinoff-from-ibm/464411)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

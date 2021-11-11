@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft’s C# 10 promises ‘prettier’ code](https://www.infoworld.com/article/3640449/microsofts-c-10-promises-prettier-code.html#tk.rss_all)
+- [How to automate QA testing of SaaS and low-code applications](https://www.infoworld.com/article/3639519/how-to-automate-qa-testing-of-saas-and-low-code-applications.html#tk.rss_all)
+- [Microsoft’s Kubernetes for the rest of us](https://www.infoworld.com/article/3640048/microsofts-kubernetes-for-the-rest-of-us.html#tk.rss_all)
+- [OpenJDK proposals would bring universal generics to Java](https://www.infoworld.com/article/3639525/openjdk-proposals-would-bring-universal-generics-to-java.html#tk.rss_all)
+- [Power Apps review: Sweeter than Honeycode](https://www.infoworld.com/article/3638115/microsoft-power-apps-review-sweeter-than-honeycode.html#tk.rss_all)
 - [Microsoft joins Java Community Process](https://www.infoworld.com/article/3639518/microsoft-joins-java-community-process.html#tk.rss_all)
 - [Microsoft’s Pyjion compiler for Python reaches 1.0](https://www.infoworld.com/article/3639924/microsofts-pyjion-compiler-for-python-reaches-10.html#tk.rss_all)
 - [What does the chip shortage mean for cloud computing?](https://www.infoworld.com/article/3639835/what-does-the-chip-shortage-mean-for-cloud-computing.html#tk.rss_all)
 - [Metaverse? A Second Life with VR glasses](https://www.infoworld.com/article/3639550/metaverse-a-second-life-with-vr-glasses.html#tk.rss_all)
 - [Understanding SLOs for monitoring applications](https://www.infoworld.com/article/3639053/understanding-slos-for-monitoring-applications.html#tk.rss_all)
-- [What’s new in Microsoft .NET 6](https://www.infoworld.com/article/3608611/whats-new-in-microsoft-net-6.html#tk.rss_all)
-- [Microsoft Visual Studio 2022 arrives](https://www.infoworld.com/article/3639559/microsoft-visual-studio-2022-arrives.html#tk.rss_all)
-- [All your serverless are belong to us](https://www.infoworld.com/article/3639558/all-your-serverless-are-belong-to-us.html#tk.rss_all)
-- [GitHub Copilot preview gives me hope](https://www.infoworld.com/article/3639552/github-copilot-preview-gives-me-hope.html#tk.rss_all)
-- [The case against monorepos](https://www.infoworld.com/article/3638860/the-case-against-monorepos.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You, another new search engine, hopes privacy can help it take on Google](https://www.washingtonpost.com/technology/2021/11/09/search-engine-you/)
-- [An Open Letter to Canva from Picmaker](https://designoverload.org)
-- [Career Advice from Discussion with a Senior Google Engineer](https://thewriting.dev/career-advice-from-discussion-with-a-senior-google-engineer/)
-- [Alloy 6](https://alloytools.org/alloy6.html)
-- [Keynote: Making Progress – Alan Kay](https://www.youtube.com/watch?v=9MqVfzxAp6A)
-- [CodeIgniter Training](https://news.ycombinator.com/item?id=29170263)
-- [Nvidia Announces Platform for Creating AI Avatars](https://nvidianews.nvidia.com/news/nvidia-announces-platform-for-creating-ai-avatars)
-- [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
-- [What makes entrepreneurs entrepreneurial? &lpar;2008&rpar; [pdf]](https://www.effectuation.org/sites/default/files/research_papers/what-makes-entrepreneurs-entrepreneurial-sarasvathy_0.pdf)
-- [Iris Energy IPO F-1](https://www.sec.gov/Archives/edgar/data/0001878848/000114036121037102/ny20000275x7_f1a.htm)
+- [Sovereign Default, the Debt Ceiling, and the $1T Coin](https://www.lynalden.com/sovereign-default/)
+- [ASCII Video Player](https://pessimistress.github.io/ascii/)
+- [Rack Mount, 1U, 19“ &lpar;PoE Version&rpar; RPi 4B](https://www.tindie.com/products/uctronics/rack-mount-1u-19-poe-version-rpi-4b/)
+- [Elon Musk exercises Tesla options, sells $1.1 bln in shares to cover taxes](https://www.reuters.com/business/autos-transportation/tesla-selloff-puts-risk-its-1-trillion-club-membership-2021-11-10/)
+- [An Engineer&#39;s View of Venture Capitalists &lpar;2001&rpar;](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists)
+- [Blueprint: Sharing data and protocols around reversing biological age](https://blueprint.bryanjohnson.co/)
+- [Show HN: Terraform Variables – A Standard](https://lachlanwhite.com/posts/terraform/10-11-2021-terraform-variables-a-standard/)
+- [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
+- [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+- [Smaller U.S. Ports Pitch for Cargo as California’s Logjams Swell](https://www.supplychainbrain.com/articles/34062-smaller-us-ports-pitch-for-cargo-as-californias-logjams-swell)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

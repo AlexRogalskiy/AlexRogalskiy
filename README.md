@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar court jails two Aung San Suu Kyi allies for total of 165 years](https://www.theguardian.com/world/2021/nov/10/myanmar-court-jails-two-aung-san-suu-kyi-allies-for-165-years)
-- [Car bombing kills pregnant Yemeni journalist in Aden – reports](https://www.theguardian.com/world/2021/nov/10/car-bombing-kills-pregnant-yemeni-journalist-in-aden-reports)
-- [Squid Game to return for season two, creator Hwang Dong-hyuk says](https://www.theguardian.com/tv-and-radio/2021/nov/10/squid-game-to-return-for-season-two-creator-hwang-dong-hyuk-says)
-- [Helen Garner: I always liked my diary better than anything else I wrote](https://www.theguardian.com/books/2021/nov/10/helen-garner-i-always-liked-my-diary-better-than-anything-else-i-wrote)
-- [US Capitol attack committee issues subpoenas to 10 senior Trump officials](https://www.theguardian.com/us-news/2021/nov/09/capitol-attack-committee-subpoenas-trump-officials)
-- [Tigray conflict: Ethiopia detains 16 UN workers and accuses them of ‘terror act’](https://www.theguardian.com/world/2021/nov/10/tigray-conflict-ethiopia-detains-16-un-workers-and-accuses-them-of-terror-act)
-- [Nasa bumps moon landing back to 2025 at the earliest](https://www.theguardian.com/science/2021/nov/09/nasa-moon-landing-delayed)
-- [Peter Jackson sells special effects studio Weta Digital for $1.63bn](https://www.theguardian.com/film/2021/nov/10/peter-jackson-sells-special-effects-studio-weta-digital-for-almost-2bn)
-- [UK firms offer up to £2,000 sign-on bonuses amid Christmas labour shortage](https://www.theguardian.com/business/2021/nov/10/uk-firms-offer-up-to-2000-sign-on-bonuses-amid-christmas-labour-shortage)
-- [‘We dread summers’: dangerous ‘fire weather’ days are on the rise in northern California](https://www.theguardian.com/us-news/2021/nov/09/northern-california-wildfires-fire-weather-climate)
+- [Human trials of vaccine for multiple species of Ebola to begin soon](https://www.theguardian.com/world/2021/nov/11/human-trials-of-vaccine-for-multiple-species-of-ebola-to-begin-soon)
+- [Fraud victims face ‘reimbursement lottery’ from their banks](https://www.theguardian.com/money/2021/nov/11/victims-face-reimbursement-lottery-from-their-banks)
+- [The Seven Pomegranate Seeds review – Euripides tied in knots](https://www.theguardian.com/stage/2021/nov/10/the-seven-pomegranate-seeds-review-euripides)
+- [Xi Jinping warns against return to Asia-Pacific tensions of cold war era](https://www.theguardian.com/world/2021/nov/10/chinas-xi-warns-against-return-to-confrontation-and-division-of-cold-war-era)
+- [Ben Chilwell draws on All Blacks mindset after ‘difficult summer’](https://www.theguardian.com/football/2021/nov/10/ben-chilwell-draws-on-all-blacks-mindset-after-difficult-summer)
+- [Whole genome sequencing could save NHS millions of pounds, study suggests](https://www.theguardian.com/science/2021/nov/10/whole-genome-sequencing-could-save-nhs-millions-of-pounds-study-suggests)
+- [Life sentence for murderer of French Holocaust survivor Mireille Knoll](https://www.theguardian.com/world/2021/nov/10/life-sentence-for-murderer-of-french-holocaust-survivor-mireille-knoll)
+- [Bezos-backed electric carmaker Rivian in biggest US float since Facebook](https://www.theguardian.com/environment/2021/nov/10/bezos-rivian-world-biggest-ipos-shares-electric-carmaker-ford-general-motors-stock-market-debut)
+- [Origins of ‘Transeurasian’ languages traced to Neolithic millet farmers](https://www.theguardian.com/science/2021/nov/10/origins-of-transeurasian-languages-traced-to-neolithic-millet-farmers)
+- [Defendant believed Ahmaud Arbery was ‘wanting to flee’ and not out jogging](https://www.theguardian.com/us-news/2021/nov/10/ahmaud-arbery-killing-trial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

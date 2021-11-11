@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The IT Talent Crisis: 2 Ways to Hire and Retain](https://www.informationweek.com/team-building-and-staffing/the-it-talent-crisis-2-ways-to-hire-and-retain)
+- [Skilling Up the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/team-building-and-staffing/skilling-up-the-cybersecurity-workforce-of-tomorrow)
+- [Crisis Learnings Can Fuel Technology Leaders’ Innovation Strategies](https://www.informationweek.com/strategic-cio/crisis-learnings-can-fuel-technology-leaders-innovation-strategies)
 - [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
 - [AI, Automation Predictions for 2022: More Big Changes Ahead](https://www.informationweek.com/ai-or-machine-learning/ai-automation-predictions-for-2022-more-big-changes-ahead)
 - [In a SaaS-Powered World, Change Is the Only Constant](https://www.informationweek.com/software-as-a-service/in-a-saas-powered-world-change-is-the-only-constant)
@@ -368,9 +371,6 @@
 - [10 Top Skills for Cloud Computing](https://www.informationweek.com/cloud-computing/10-top-skills-for-cloud-computing)
 - [Microsoft CEO Nadella Outlines Forward-Looking Tech Trends](https://www.informationweek.com/strategic-cio/microsoft-ceo-nadella-outlines-forward-looking-tech-trends)
 - [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
-- [How IT Budgets Must Adapt to Remote Work](https://www.informationweek.com/strategic-cio/how-it-budgets-must-adapt-to-remote-work)
-- [The Perils of Patching](https://www.informationweek.com/security-and-risk-strategy/the-perils-of-patching)
-- [Cloud May See More AI, Face Increased Geopolitical Friction](https://www.informationweek.com/cloud/cloud-may-see-more-ai-face-increased-geopolitical-friction)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

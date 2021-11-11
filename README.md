@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Python needs to be paused during profiling – but Ruby doesn&#39;t always](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/)
-- [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Back-End Engineer](https://corrily.crew.work/jobs/61813ccf6fe1e5d3f8686048)
-- [The Question We’ve Stopped Asking About Teen-Agers and Social Media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media)
-- [Compass Pathways&#39; Phase IIb psilocybin trial shows reduced depression symptoms](https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/)
-- [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
-- [Show HN: I&#39;m 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
-- [The Surreal Horror of Pam](https://christine.website/talks/surreal-horror-pam-2021-11-09)
-- [Macron says France will build new nuclear energy reactors](https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/)
-- [Write thin to write fast](https://breckyunits.com/write-thin-to-write-fast.html)
-- [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
+- [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
+- [Types and Programming Languages &lpar;2002&rpar;](https://mitpress.mit.edu/books/types-and-programming-languages)
+- [How to fold an origami cat: Lexus takumi challenge &lpar;2020&rpar;](https://mag.lexus.co.uk/how-to-fold-origami-cat/)
+- [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
+- [WhatsApp end-to-end encrypted backups security assessment](https://research.nccgroup.com/2021/10/27/public-report-whatsapp-end-to-end-encrypted-backups-security-assessment/)
+- [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
+- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Google Summer of Code in 2022 – No longer limited to students](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)
+- [The gradual extinction of softness](https://hippocampusmagazine.com/2021/11/the-gradual-extinction-of-softness-by-chantha-nguon-with-kim-green/)
+- [A Guide to Your 1816 Stagecoach Journey](https://about1816.wordpress.com/2021/11/09/a-regency-stagecoach-guide-part-one/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

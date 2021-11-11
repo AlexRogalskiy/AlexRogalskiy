@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Vast Data: Big shifts promised for an AI future](https://www.computerweekly.com/news/252509333/Vast-Data-Big-shifts-promised-for-an-AI-future)
+- [Traditional banks could get revenue boost if they copy digital challengers](https://www.computerweekly.com/news/252509332/Traditional-banks-could-get-revenue-boost-if-they-copy-digital-challengers)
+- [November Patch Tuesday drop fixes bugs in Excel, Exchange Server](https://www.computerweekly.com/news/252509331/November-Patch-Tuesday-drop-fixes-bugs-in-Excel-Exchange-Server)
+- [EU artificial intelligence regulation risks undermining social safety net](https://www.computerweekly.com/news/252509326/EU-AI-regulation-risks-undermining-social-safety-net)
+- [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
+- [Digital surveillance of remote workers may increase enterprise risk](https://www.computerweekly.com/feature/Digital-surveillance-of-remote-workers-may-increase-enterprise-risk)
+- [How to manage endpoint security in a hybrid work environment](https://www.computerweekly.com/feature/How-to-manage-endpoint-security-in-a-hybrid-work-environment)
 - [Yoti develops age estimation algorithm for under-13s](https://www.computerweekly.com/news/252509286/Yoti-develops-age-estimation-algorithm-for-under-13s)
 - [The Secret IR Insider’s Diary – this is not a fashion show](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-this-is-not-a-fashion-show)
 - [NHS gets £250m boost to accelerate digital diagnostics plan](https://www.computerweekly.com/news/252509279/NHS-gets-250m-boost-to-accelerate-digital-diagnostics-plan)
-- [Tech’s reaction to the Budget’s skills promises](https://www.computerweekly.com/news/252509270/Techs-reaction-to-the-budgets-skills-promises)
-- [What’s up with Wotsits, Quavers and Monster Munch?](https://www.computerweekly.com/news/252509281/Whats-up-with-Wotsits-Quavers-and-Monster-Munch)
-- [Standard Chartered picks Starling Bank tech for product launch](https://www.computerweekly.com/news/252509274/Standard-Chartered-picks-Starling-Bank-tech-for-product-launch)
-- [Real Madrid teams up with Adobe to enhance global fan experience](https://www.computerweekly.com/news/252509271/Real-Madrid-teams-up-with-Adobe-to-enhance-global-fan-experience)
-- [Vienna’s tech startup ecosystem gathers momentum](https://www.computerweekly.com/news/252509259/Viennas-tech-startup-ecosystem-gathers-momentum)
-- [Gartner: Why CIOs need to replan their roadmap](https://www.computerweekly.com/news/252509257/Gartner-Why-CIOs-need-to-replan-their-roadmap)
-- [Blockchain technology will help banks will cut cross-border payment costs by $10bn in 2030](https://www.computerweekly.com/news/252509262/Blockchain-technology-will-help-banks-will-cut-cross-border-payment-costs-by-10bn-in-2030)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

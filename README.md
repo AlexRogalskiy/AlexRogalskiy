@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What to Look for in a Payment Hub Platform](https://www.informationweek.com/fintech/what-to-look-for-in-a-payment-hub-platform)
+- [How Climate Change is Changing Cyber Resilience Plans](https://www.informationweek.com/security-and-risk-strategy/how-climate-change-is-changing-cyber-resilience-plans)
+- [A Venn Diagram is Forming Through IT/OT Convergence](https://www.informationweek.com/executive-insights-and-innovation/a-venn-diagram-is-forming-through-it-ot-convergence)
 - [The IT Talent Crisis: 2 Ways to Hire and Retain](https://www.informationweek.com/team-building-and-staffing/the-it-talent-crisis-2-ways-to-hire-and-retain)
 - [Skilling Up the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/team-building-and-staffing/skilling-up-the-cybersecurity-workforce-of-tomorrow)
 - [Crisis Learnings Can Fuel Technology Leaders’ Innovation Strategies](https://www.informationweek.com/strategic-cio/crisis-learnings-can-fuel-technology-leaders-innovation-strategies)
@@ -368,9 +371,6 @@
 - [AI, Automation Predictions for 2022: More Big Changes Ahead](https://www.informationweek.com/ai-or-machine-learning/ai-automation-predictions-for-2022-more-big-changes-ahead)
 - [In a SaaS-Powered World, Change Is the Only Constant](https://www.informationweek.com/software-as-a-service/in-a-saas-powered-world-change-is-the-only-constant)
 - [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
-- [10 Top Skills for Cloud Computing](https://www.informationweek.com/cloud-computing/10-top-skills-for-cloud-computing)
-- [Microsoft CEO Nadella Outlines Forward-Looking Tech Trends](https://www.informationweek.com/strategic-cio/microsoft-ceo-nadella-outlines-forward-looking-tech-trends)
-- [How to Prevent Your Next Cybersecurity Attack](https://www.informationweek.com/security-and-risk-strategy/how-to-prevent-your-next-cybersecurity-attack)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

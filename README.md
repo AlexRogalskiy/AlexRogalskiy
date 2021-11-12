@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Human trials of vaccine for multiple species of Ebola to begin soon](https://www.theguardian.com/world/2021/nov/11/human-trials-of-vaccine-for-multiple-species-of-ebola-to-begin-soon)
-- [Fraud victims face ‘reimbursement lottery’ from their banks](https://www.theguardian.com/money/2021/nov/11/victims-face-reimbursement-lottery-from-their-banks)
-- [The Seven Pomegranate Seeds review – Euripides tied in knots](https://www.theguardian.com/stage/2021/nov/10/the-seven-pomegranate-seeds-review-euripides)
-- [Xi Jinping warns against return to Asia-Pacific tensions of cold war era](https://www.theguardian.com/world/2021/nov/10/chinas-xi-warns-against-return-to-confrontation-and-division-of-cold-war-era)
-- [Ben Chilwell draws on All Blacks mindset after ‘difficult summer’](https://www.theguardian.com/football/2021/nov/10/ben-chilwell-draws-on-all-blacks-mindset-after-difficult-summer)
-- [Whole genome sequencing could save NHS millions of pounds, study suggests](https://www.theguardian.com/science/2021/nov/10/whole-genome-sequencing-could-save-nhs-millions-of-pounds-study-suggests)
-- [Life sentence for murderer of French Holocaust survivor Mireille Knoll](https://www.theguardian.com/world/2021/nov/10/life-sentence-for-murderer-of-french-holocaust-survivor-mireille-knoll)
-- [Bezos-backed electric carmaker Rivian in biggest US float since Facebook](https://www.theguardian.com/environment/2021/nov/10/bezos-rivian-world-biggest-ipos-shares-electric-carmaker-ford-general-motors-stock-market-debut)
-- [Origins of ‘Transeurasian’ languages traced to Neolithic millet farmers](https://www.theguardian.com/science/2021/nov/10/origins-of-transeurasian-languages-traced-to-neolithic-millet-farmers)
-- [Defendant believed Ahmaud Arbery was ‘wanting to flee’ and not out jogging](https://www.theguardian.com/us-news/2021/nov/10/ahmaud-arbery-killing-trial)
+- [‘Super rare’: Antarctic penguin washes up in New Zealand, 3,000km from home](https://www.theguardian.com/world/2021/nov/12/super-rare-antarctic-penguin-washes-up-in-new-zealand-3000km-from-home)
+- [A day with the paramedics on the frontline of the UK’s ambulance crisis – podcast](https://www.theguardian.com/news/audio/2021/nov/12/a-day-with-the-paramedics-on-the-frontline-of-the-uk-ambulance-crisis-podcast)
+- [PNG residents evicted a decade ago for casino development face violence and poverty: report](https://www.theguardian.com/world/2021/nov/12/png-residents-evicted-a-decade-ago-for-casino-development-face-violence-and-poverty-report)
+- [Prince Charles’s former aide quits as charity boss amid cash-for-honours claims](https://www.theguardian.com/uk-news/2021/nov/12/prince-charless-former-aide-quits-as-charity-boss-amid-cash-for-honours-claims)
+- [Disadvantaged graduates earn half as much as privileged peers in first job](https://www.theguardian.com/money/2021/nov/12/disadvantaged-graduates-earn-half-as-much-as-privileged-peers-in-first-job)
+- [Tory MP who accused Marcus Rashford of ‘playing politics’ has second job](https://www.theguardian.com/politics/2021/nov/11/tory-mp-who-accused-marcus-rashford-of-playing-politics-has-second-job)
+- [Blood pressure drugs could prevent type 2 diabetes, study finds](https://www.theguardian.com/society/2021/nov/11/blood-pressure-drugs-could-prevent-type-2-diabetes-study-finds)
+- [Banksy artwork deliberately destroyed by Christopher Walken in BBC comedy show finale](https://www.theguardian.com/artanddesign/2021/nov/12/banksy-artwork-deliberately-destroyed-by-christopher-walken-in-bbc-comedy-show-finale)
+- [UK tells Iran sanctions preventing payment of £400m debt](https://www.theguardian.com/news/2021/nov/11/uk-tells-iran-that-sanctions-prevent-payment-of-400m-debt)
+- [Kyle Rittenhouse judge in spotlight after angry reprimand of prosecution](https://www.theguardian.com/us-news/2021/nov/11/kyle-rittenhouse-judge-trial-bruce-schroeder-prosecution)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

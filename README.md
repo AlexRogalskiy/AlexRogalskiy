@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sovereign Default, the Debt Ceiling, and the $1T Coin](https://www.lynalden.com/sovereign-default/)
-- [ASCII Video Player](https://pessimistress.github.io/ascii/)
-- [Rack Mount, 1U, 19“ &lpar;PoE Version&rpar; RPi 4B](https://www.tindie.com/products/uctronics/rack-mount-1u-19-poe-version-rpi-4b/)
-- [Elon Musk exercises Tesla options, sells $1.1 bln in shares to cover taxes](https://www.reuters.com/business/autos-transportation/tesla-selloff-puts-risk-its-1-trillion-club-membership-2021-11-10/)
-- [An Engineer&#39;s View of Venture Capitalists &lpar;2001&rpar;](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists)
-- [Blueprint: Sharing data and protocols around reversing biological age](https://blueprint.bryanjohnson.co/)
-- [Show HN: Terraform Variables – A Standard](https://lachlanwhite.com/posts/terraform/10-11-2021-terraform-variables-a-standard/)
-- [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
-- [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
-- [Smaller U.S. Ports Pitch for Cargo as California’s Logjams Swell](https://www.supplychainbrain.com/articles/34062-smaller-us-ports-pitch-for-cargo-as-californias-logjams-swell)
+- [Nuclear radiation used to transmit digital data wirelessly](https://phys.org/news/2021-11-nuclear-transmit-digital-wirelessly.html)
+- [Chromium team to allow organisations to block access to View Source](https://twitter.com/textfiles/status/1458555850524663815)
+- [PiBox: A Modular Raspberry Pi Storage Server by Dan Pastusek](https://www.kickstarter.com/projects/pastudan/pibox-a-modular-raspberry-pi-storage-server)
+- [Validation and invalidation of SARS-CoV-2 main protease inhibitors using the](https://www.pubcard.net/paper/ccac30148db1446191b3b8c7bc54c88e)
+- [Hacker News will never delete your comments or account ever](https://news.ycombinator.com/item?id=29195590)
+- [Covid antiviral pills: what scientists still want to know](https://www.nature.com/articles/d41586-021-03074-5)
+- [Liberal Hypocrisy Is Fueling American Inequality &lpar;NYT Opinion&rpar;](https://www.youtube.com/watch?v=hNDgcjVGHIw)
+- [System76 Open Source Contributions to Linux Community](https://blog.system76.com/post/667593198841069568/open-up-contributions-and-collaborations)
+- [Hacker News will not let you delete comments or account, ever](https://news.ycombinator.com/item?id=29195506)
+- [Rectangular Starlink Dish](https://www.cnet.com/home/internet/starlink-debuts-a-new-satellite-internet-dish/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

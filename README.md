@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
-- [Types and Programming Languages &lpar;2002&rpar;](https://mitpress.mit.edu/books/types-and-programming-languages)
-- [How to fold an origami cat: Lexus takumi challenge &lpar;2020&rpar;](https://mag.lexus.co.uk/how-to-fold-origami-cat/)
-- [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
-- [WhatsApp end-to-end encrypted backups security assessment](https://research.nccgroup.com/2021/10/27/public-report-whatsapp-end-to-end-encrypted-backups-security-assessment/)
-- [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
-- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Google Summer of Code in 2022 – No longer limited to students](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)
-- [The gradual extinction of softness](https://hippocampusmagazine.com/2021/11/the-gradual-extinction-of-softness-by-chantha-nguon-with-kim-green/)
-- [A Guide to Your 1816 Stagecoach Journey](https://about1816.wordpress.com/2021/11/09/a-regency-stagecoach-guide-part-one/)
+- [Amazon recruiter invites CTO of Azure to apply for SDE II](https://twitter.com/markrussinovich/status/1458485897683353601)
+- [Why Zillow Couldn’t Make Algorithmic House Pricing Work](https://www.wired.com/story/zillow-ibuyer-real-estate/)
+- [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
+- [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
+- [The Rust compiler has gotten faster again](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html)
+- [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
+- [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
+- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array)
+- [Querying AWS at scale across APIs, regions, and accounts](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/)
+- [PlayDate Fulfillment Delayed](https://lists.play.date/w/C1CCc0cxLPvgKc6tC8jVmg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [No, sideloading is not good for you](https://www.computerworld.com/article/3640611/no-sideloading-is-not-good-for-you.html#tk.rss_all)
+- [Meta and Microsoft move to tie Workplace and Teams closer together](https://www.computerworld.com/article/3640450/meta-and-microsoft-move-to-tie-workplace-and-teams-closer-together.html#tk.rss_all)
 - [Apple introduces Business Essentials service for SMBs](https://www.computerworld.com/article/3640310/apple-introduces-business-essentials-service-for-smbs.html#tk.rss_all)
 - [Review: The new 16-in. MacBook Pro is Apple to the core](https://www.computerworld.com/article/3639923/review-the-new-16in-macbook-pro-is-apple-to-the-core.html#tk.rss_all)
 - [11 advanced Assistant tricks you should really remember on Android](https://www.computerworld.com/article/3639844/google-assistant-android.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Thinking of upgrading your company’s tech gear? Now’s not the time.](https://www.computerworld.com/article/3639830/thinking-of-upgrading-your-company-s-tech-gear-now-s-not-the-time.html#tk.rss_all)
 - [Tableau’s new Slack capabilities democratize data](https://www.cio.com/article/3639623/tableau-s-new-slack-capabilities-democratize-data.html#tk.rss_all)
-- [Podcast: How Pixel users can get the most out of Android 12](https://www.computerworld.com/article/3639922/podcast-how-pixel-users-can-get-the-most-out-of-android-12.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

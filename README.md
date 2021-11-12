@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [3rd Party Remote Desktop Support](https://www.reddit.com/r/InformationTechnology/comments/qrx1rw/3rd_party_remote_desktop_support/)
+- [IT degree?](https://www.reddit.com/r/InformationTechnology/comments/qrsgp4/it_degree/)
+- [Who handles and assigns your ticket priority? Is assigning them manually still the best option?](https://www.reddit.com/r/InformationTechnology/comments/qrn3v3/who_handles_and_assigns_your_ticket_priority_is/)
 - [If Anyone Is Doing BTEC National Level 3 IT &lpar;Information Technology&rpar; Please DM Me on Discord @otglot#6009](https://www.reddit.com/r/InformationTechnology/comments/qqz1s5/if_anyone_is_doing_btec_national_level_3_it/)
 - [Studying the relationship between agile/scrum framework and work engagement &amp; satisfaction](https://www.reddit.com/r/InformationTechnology/comments/qqyxuy/studying_the_relationship_between_agilescrum/)
 - [Does this Reddit have a Discord?](https://www.reddit.com/r/InformationTechnology/comments/qqslia/does_this_reddit_have_a_discord/)
@@ -413,9 +416,6 @@
 - [I want to give up. People are ruining something I loved so much now I&#39;m starting to hate.](https://www.reddit.com/r/InformationTechnology/comments/qpfma8/i_want_to_give_up_people_are_ruining_something_i/)
 - [Do you tell people you work with computers?](https://www.reddit.com/r/InformationTechnology/comments/qp1bb1/do_you_tell_people_you_work_with_computers/)
 - [First IT job](https://www.reddit.com/r/InformationTechnology/comments/qp0c4q/first_it_job/)
-- [Resetting Windows, but keeping the apps on a second hard drive](https://www.reddit.com/r/InformationTechnology/comments/qoq7sk/resetting_windows_but_keeping_the_apps_on_a/)
-- [Considering returning to IT, but not sure what route to go. Please help.](https://www.reddit.com/r/InformationTechnology/comments/qobavd/considering_returning_to_it_but_not_sure_what/)
-- [I work with these everyday and I realize I barely know the difference.](https://www.reddit.com/r/InformationTechnology/comments/qoapg2/i_work_with_these_everyday_and_i_realize_i_barely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

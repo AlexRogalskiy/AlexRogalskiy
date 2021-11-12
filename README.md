@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Ruby tees up new JIT compiler](https://www.infoworld.com/article/3640530/ruby-tees-up-new-jit-compiler.html#tk.rss_all)
+- [How to resolve dependencies in ASP.NET Core](https://www.infoworld.com/article/3640368/how-to-resolve-dependencies-in-aspnet-core.html#tk.rss_all)
+- [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_all)
 - [Microsoft’s C# 10 promises ‘prettier’ code](https://www.infoworld.com/article/3640449/microsofts-c-10-promises-prettier-code.html#tk.rss_all)
 - [How to automate QA testing of SaaS and low-code applications](https://www.infoworld.com/article/3639519/how-to-automate-qa-testing-of-saas-and-low-code-applications.html#tk.rss_all)
 - [Microsoft’s Kubernetes for the rest of us](https://www.infoworld.com/article/3640048/microsofts-kubernetes-for-the-rest-of-us.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Power Apps review: Sweeter than Honeycode](https://www.infoworld.com/article/3638115/microsoft-power-apps-review-sweeter-than-honeycode.html#tk.rss_all)
 - [Microsoft joins Java Community Process](https://www.infoworld.com/article/3639518/microsoft-joins-java-community-process.html#tk.rss_all)
 - [Microsoft’s Pyjion compiler for Python reaches 1.0](https://www.infoworld.com/article/3639924/microsofts-pyjion-compiler-for-python-reaches-10.html#tk.rss_all)
-- [What does the chip shortage mean for cloud computing?](https://www.infoworld.com/article/3639835/what-does-the-chip-shortage-mean-for-cloud-computing.html#tk.rss_all)
-- [Metaverse? A Second Life with VR glasses](https://www.infoworld.com/article/3639550/metaverse-a-second-life-with-vr-glasses.html#tk.rss_all)
-- [Understanding SLOs for monitoring applications](https://www.infoworld.com/article/3639053/understanding-slos-for-monitoring-applications.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

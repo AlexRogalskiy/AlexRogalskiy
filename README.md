@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Vast Data: Big shifts promised for an AI future](https://www.computerweekly.com/news/252509333/Vast-Data-Big-shifts-promised-for-an-AI-future)
-- [Traditional banks could get revenue boost if they copy digital challengers](https://www.computerweekly.com/news/252509332/Traditional-banks-could-get-revenue-boost-if-they-copy-digital-challengers)
-- [November Patch Tuesday drop fixes bugs in Excel, Exchange Server](https://www.computerweekly.com/news/252509331/November-Patch-Tuesday-drop-fixes-bugs-in-Excel-Exchange-Server)
-- [EU artificial intelligence regulation risks undermining social safety net](https://www.computerweekly.com/news/252509326/EU-AI-regulation-risks-undermining-social-safety-net)
-- [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
-- [Digital surveillance of remote workers may increase enterprise risk](https://www.computerweekly.com/feature/Digital-surveillance-of-remote-workers-may-increase-enterprise-risk)
-- [How to manage endpoint security in a hybrid work environment](https://www.computerweekly.com/feature/How-to-manage-endpoint-security-in-a-hybrid-work-environment)
-- [Yoti develops age estimation algorithm for under-13s](https://www.computerweekly.com/news/252509286/Yoti-develops-age-estimation-algorithm-for-under-13s)
-- [The Secret IR Insider’s Diary – this is not a fashion show](https://www.computerweekly.com/opinion/The-Secret-IR-Insiders-Diary-this-is-not-a-fashion-show)
-- [NHS gets £250m boost to accelerate digital diagnostics plan](https://www.computerweekly.com/news/252509279/NHS-gets-250m-boost-to-accelerate-digital-diagnostics-plan)
+- [Online sales now account for 34.4% of M&amp;S clothing and home goods](https://www.computerweekly.com/news/252509376/Online-sales-now-account-for-344-of-MS-clothing-and-home-goods)
+- [Cambridge Quantum tackles rail optimisation for German operator](https://www.computerweekly.com/news/252509377/Cambridge-Quantum-tackles-rail-optimisation-for-German-operator)
+- [HPE’s Aruba networking unit hit by cyber attack](https://www.computerweekly.com/news/252509375/HPEs-Aruba-networking-unit-hit-by-cyber-attack)
+- [How the tech sector can lead the green revolution](https://www.computerweekly.com/opinion/How-the-tech-sector-can-lead-the-green-revolution)
+- [Building bridges to better diversity](https://www.computerweekly.com/opinion/Building-bridges-to-better-diversity)
+- [Post-Covid tech world to see 89% of UK tech operations hosted off-premise](https://www.computerweekly.com/news/252509372/Post-Covid-tech-world-to-see-89-of-UK-tech-operations-hosted-off-premise)
+- [Green energy Cray supercomputer to power weather predictions](https://www.computerweekly.com/news/252509371/Green-energy-Cray-supercomputer-to-power-weather-predictions)
+- [Finance ombudsman overturns more than three-quarters of bank decisions on APP fraud](https://www.computerweekly.com/news/252509369/Finance-ombudsman-overturns-more-than-three-quarters-of-bank-decisions-on-APP-fraud)
+- [Scale of crime-as-a-service economy a growing concern, say researchers](https://www.computerweekly.com/news/252509367/Scale-of-crime-as-a-service-economy-a-growing-concern-say-researchers)
+- [CIO interview: Ralph Munsen, CIO, Warner Music Group](https://www.computerweekly.com/news/252508913/CIO-Interview-Ralph-Munsen-CIO-Warner-Music-Group)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Updates to Exchange and Microsoft Installer drive Patch Tuesday testing](https://www.computerworld.com/article/3640403/updates-to-exchange-and-microsoft-installer-drive-patch-tuesday-testing.html#tk.rss_all)
+- [Jamf CEO welcomes Apple Business Essentials](https://www.computerworld.com/article/3640399/jamf-ceo-welcomes-apple-business-essentials.html#tk.rss_all)
+- [Nvidia re-envisions the metaverse as a collaboration platform](https://www.computerworld.com/article/3640398/nvidia-re-envisions-the-metaverse-as-a-collaboration-platform.html#tk.rss_all)
+- [How to hold better, shorter meetings](https://www.computerworld.com/article/3639527/how-to-hold-better-shorter-meetings.html#tk.rss_all)
+- [Apple’s message for everyone: Keep up](https://www.computerworld.com/article/3640168/apple-s-message-for-everyone-keep-up.html#tk.rss_all)
+- [A handy hack for the Pixel&#39;s new shortcut system](https://www.computerworld.com/article/3640348/google-pixel-shortcut.html#tk.rss_all)
 - [No, sideloading is not good for you](https://www.computerworld.com/article/3640611/no-sideloading-is-not-good-for-you.html#tk.rss_all)
 - [Meta and Microsoft move to tie Workplace and Teams closer together](https://www.computerworld.com/article/3640450/meta-and-microsoft-move-to-tie-workplace-and-teams-closer-together.html#tk.rss_all)
 - [Apple introduces Business Essentials service for SMBs](https://www.computerworld.com/article/3640310/apple-introduces-business-essentials-service-for-smbs.html#tk.rss_all)
 - [Review: The new 16-in. MacBook Pro is Apple to the core](https://www.computerworld.com/article/3639923/review-the-new-16in-macbook-pro-is-apple-to-the-core.html#tk.rss_all)
-- [11 advanced Assistant tricks you should really remember on Android](https://www.computerworld.com/article/3639844/google-assistant-android.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Thinking of upgrading your company’s tech gear? Now’s not the time.](https://www.computerworld.com/article/3639830/thinking-of-upgrading-your-company-s-tech-gear-now-s-not-the-time.html#tk.rss_all)
-- [Tableau’s new Slack capabilities democratize data](https://www.cio.com/article/3639623/tableau-s-new-slack-capabilities-democratize-data.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

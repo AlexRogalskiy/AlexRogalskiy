@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Super rare’: Antarctic penguin washes up in New Zealand, 3,000km from home](https://www.theguardian.com/world/2021/nov/12/super-rare-antarctic-penguin-washes-up-in-new-zealand-3000km-from-home)
-- [A day with the paramedics on the frontline of the UK’s ambulance crisis – podcast](https://www.theguardian.com/news/audio/2021/nov/12/a-day-with-the-paramedics-on-the-frontline-of-the-uk-ambulance-crisis-podcast)
-- [PNG residents evicted a decade ago for casino development face violence and poverty: report](https://www.theguardian.com/world/2021/nov/12/png-residents-evicted-a-decade-ago-for-casino-development-face-violence-and-poverty-report)
-- [Prince Charles’s former aide quits as charity boss amid cash-for-honours claims](https://www.theguardian.com/uk-news/2021/nov/12/prince-charless-former-aide-quits-as-charity-boss-amid-cash-for-honours-claims)
-- [Disadvantaged graduates earn half as much as privileged peers in first job](https://www.theguardian.com/money/2021/nov/12/disadvantaged-graduates-earn-half-as-much-as-privileged-peers-in-first-job)
-- [Tory MP who accused Marcus Rashford of ‘playing politics’ has second job](https://www.theguardian.com/politics/2021/nov/11/tory-mp-who-accused-marcus-rashford-of-playing-politics-has-second-job)
-- [Blood pressure drugs could prevent type 2 diabetes, study finds](https://www.theguardian.com/society/2021/nov/11/blood-pressure-drugs-could-prevent-type-2-diabetes-study-finds)
-- [Banksy artwork deliberately destroyed by Christopher Walken in BBC comedy show finale](https://www.theguardian.com/artanddesign/2021/nov/12/banksy-artwork-deliberately-destroyed-by-christopher-walken-in-bbc-comedy-show-finale)
-- [UK tells Iran sanctions preventing payment of £400m debt](https://www.theguardian.com/news/2021/nov/11/uk-tells-iran-that-sanctions-prevent-payment-of-400m-debt)
-- [Kyle Rittenhouse judge in spotlight after angry reprimand of prosecution](https://www.theguardian.com/us-news/2021/nov/11/kyle-rittenhouse-judge-trial-bruce-schroeder-prosecution)
+- [Steve Bannon indicted for refusing to comply with Capitol attack subpoena - as it happened](https://www.theguardian.com/us-news/live/2021/nov/12/trump-capitol-inquiry-latest-mark-meadows-contempt-us-politics-biden-democrats)
+- [Spurs ready to be patient in effort to turn WSL derby tide against Arsenal](https://www.theguardian.com/football/2021/nov/13/spurs-prepared-to-be-patient-in-bid-to-turn-wsl-derby-tide-against-arsenal)
+- [Man killed and woman in critical condition after stabbing in Brentford](https://www.theguardian.com/uk-news/2021/nov/12/man-killed-and-woman-in-critical-condition-after-stabbing-in-brentford)
+- [Britney Spears’s conservatorship terminated after nearly 14 years](https://www.theguardian.com/music/2021/nov/12/britney-spears-conservatorship-terminated)
+- [Beijing urges US businesses to lobby against China-related bills in Congress](https://www.theguardian.com/world/2021/nov/12/us-businesses-lobby-china-related-bills-congress)
+- [Benas Satkus own goal ends Northern Ireland’s long wait for Windsor Park win](https://www.theguardian.com/football/2021/nov/12/northern-ireland-lithuania-world-cup-2022-qualifying-match-report)
+- [Steve Bannon indicted for refusal to comply with Capitol attack subpoena](https://www.theguardian.com/us-news/2021/nov/12/steve-bannon-indicted-capitol-attack-subpoena)
+- [Harry Kane hits hat-trick as England cruise past Albania on way to Qatar](https://www.theguardian.com/football/2021/nov/12/england-albania-world-cup-2022-qualifying-match-report)
+- [Itoje and Farrell excited by new-look England line-up for Australia clash](https://www.theguardian.com/sport/2021/nov/12/itoje-and-farrell-excited-by-new-look-england-line-up-for-australia-clash)
+- [Cop26 in extra time as leaders warn of the deadly cost of failure](https://www.theguardian.com/environment/2021/nov/12/cop26-in-extra-time-as-leaders-warn-of-the-deadly-cost-of-failure)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

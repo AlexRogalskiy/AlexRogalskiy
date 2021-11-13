@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Entry Level IT Technician career path?](https://www.reddit.com/r/InformationTechnology/comments/qsqjhd/entry_level_it_technician_career_path/)
+- [IT Pepsico Internship](https://www.reddit.com/r/InformationTechnology/comments/qsnstv/it_pepsico_internship/)
+- [Would you say ETL and Data architecture are difficult to learn?](https://www.reddit.com/r/InformationTechnology/comments/qs606y/would_you_say_etl_and_data_architecture_are/)
+- [Finding online platform for IT Outsourcing companies and where canl find out about Startups](https://www.reddit.com/r/InformationTechnology/comments/qs333w/finding_online_platform_for_it_outsourcing/)
 - [3rd Party Remote Desktop Support](https://www.reddit.com/r/InformationTechnology/comments/qrx1rw/3rd_party_remote_desktop_support/)
 - [IT degree?](https://www.reddit.com/r/InformationTechnology/comments/qrsgp4/it_degree/)
 - [Who handles and assigns your ticket priority? Is assigning them manually still the best option?](https://www.reddit.com/r/InformationTechnology/comments/qrn3v3/who_handles_and_assigns_your_ticket_priority_is/)
 - [If Anyone Is Doing BTEC National Level 3 IT &lpar;Information Technology&rpar; Please DM Me on Discord @otglot#6009](https://www.reddit.com/r/InformationTechnology/comments/qqz1s5/if_anyone_is_doing_btec_national_level_3_it/)
 - [Studying the relationship between agile/scrum framework and work engagement &amp; satisfaction](https://www.reddit.com/r/InformationTechnology/comments/qqyxuy/studying_the_relationship_between_agilescrum/)
 - [Does this Reddit have a Discord?](https://www.reddit.com/r/InformationTechnology/comments/qqslia/does_this_reddit_have_a_discord/)
-- [Need to upgrade our Macs](https://www.reddit.com/r/InformationTechnology/comments/qqba8w/need_to_upgrade_our_macs/)
-- [I want to give up. People are ruining something I loved so much now I&#39;m starting to hate.](https://www.reddit.com/r/InformationTechnology/comments/qpfma8/i_want_to_give_up_people_are_ruining_something_i/)
-- [Do you tell people you work with computers?](https://www.reddit.com/r/InformationTechnology/comments/qp1bb1/do_you_tell_people_you_work_with_computers/)
-- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/qp0c4q/first_it_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

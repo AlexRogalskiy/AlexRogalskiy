@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nuclear radiation used to transmit digital data wirelessly](https://phys.org/news/2021-11-nuclear-transmit-digital-wirelessly.html)
-- [Chromium team to allow organisations to block access to View Source](https://twitter.com/textfiles/status/1458555850524663815)
-- [PiBox: A Modular Raspberry Pi Storage Server by Dan Pastusek](https://www.kickstarter.com/projects/pastudan/pibox-a-modular-raspberry-pi-storage-server)
-- [Validation and invalidation of SARS-CoV-2 main protease inhibitors using the](https://www.pubcard.net/paper/ccac30148db1446191b3b8c7bc54c88e)
-- [Hacker News will never delete your comments or account ever](https://news.ycombinator.com/item?id=29195590)
-- [Covid antiviral pills: what scientists still want to know](https://www.nature.com/articles/d41586-021-03074-5)
-- [Liberal Hypocrisy Is Fueling American Inequality &lpar;NYT Opinion&rpar;](https://www.youtube.com/watch?v=hNDgcjVGHIw)
-- [System76 Open Source Contributions to Linux Community](https://blog.system76.com/post/667593198841069568/open-up-contributions-and-collaborations)
-- [Hacker News will not let you delete comments or account, ever](https://news.ycombinator.com/item?id=29195506)
-- [Rectangular Starlink Dish](https://www.cnet.com/home/internet/starlink-debuts-a-new-satellite-internet-dish/)
+- [Inside The World of Foley Artists](https://www.theguardian.com/film/2021/nov/12/inside-the-world-of-foley-artists-watermelons-are-brilliant-for-the-sound-of-brains-hitting-the-floor)
+- [Zillow could skew housing prices and push younger homebuyers out of market](https://www.usatoday.com/story/opinion/2021/11/03/house-prices-zillow-could-skew-market/6246437001/?gnt-cfr=1)
+- [Snakebites and Covid-19: two crises, one research and development opportunity](https://gh.bmj.com/content/6/10/e006913)
+- [Does Zillow&#39;s collapse signal the end of using algorithmic pricing?](https://www.thedenverchannel.com/news/local-news/does-zillows-collapse-signal-the-end-of-ibuying-or-a-lesson-for-others-using-algorithmic-pricing)
+- [The welcome spread of assisted dying](https://www.economist.com/leaders/2021/11/13/the-welcome-spread-of-assisted-dying)
+- [Hybrid artificial neural networks and analytical model for prediction of optical](https://www.pubcard.net/paper/eff8ade44dc5449e8205fb07684b573b)
+- [Where *Isn&#39;t* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
+- [Habits of highly effective HN submitters](https://blog.morningbrief.ai/habits-of-highly-effective-hn-submitters/)
+- [One of the World’s Poorest Countries Found a Better Way to Do Stimulus](https://www.bloomberg.com/news/features/2021-11-08/how-togo-made-all-digital-government-stimulus-system-in-two-weeks)
+- [The truth about shoplifting in San Francisco](https://popular.info/p/the-truth-about-shoplifting-in-san)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

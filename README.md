@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon recruiter invites CTO of Azure to apply for SDE II](https://twitter.com/markrussinovich/status/1458485897683353601)
-- [Why Zillow Couldn’t Make Algorithmic House Pricing Work](https://www.wired.com/story/zillow-ibuyer-real-estate/)
-- [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
-- [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
-- [The Rust compiler has gotten faster again](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html)
-- [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
-- [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
-- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array)
-- [Querying AWS at scale across APIs, regions, and accounts](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/)
-- [PlayDate Fulfillment Delayed](https://lists.play.date/w/C1CCc0cxLPvgKc6tC8jVmg)
+- [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Covid.com – trusted Connectivity Supplier for 40 years. Unfortunate URL](https://www.covid.com/)
+- [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
+- [Fantasy Map Generator &lpar;2018&rpar;](https://azgaar.github.io/Fantasy-Map-Generator/)
+- [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
+- [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
+- [How many people have Q Clearance?](http://blog.nuclearsecrecy.com/2021/11/12/how-many-people-have-q-clearance/)
+- [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
+- [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

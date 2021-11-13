@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cryptocurrency&#39;s Climate Impact: What&#39;s Really Being Done About It?](https://www.informationweek.com/fintech/cryptocurrencys-climate-impact-whats-really-being-done-about-it-)
+- [AI Has an Image Problem and That’s Not Fair](https://www.informationweek.com/ai-or-machine-learning/ai-has-an-image-problem-and-that-s-not-fair)
 - [What to Look for in a Payment Hub Platform](https://www.informationweek.com/fintech/what-to-look-for-in-a-payment-hub-platform)
 - [How Climate Change is Changing Cyber Resilience Plans](https://www.informationweek.com/security-and-risk-strategy/how-climate-change-is-changing-cyber-resilience-plans)
 - [A Venn Diagram is Forming Through IT/OT Convergence](https://www.informationweek.com/executive-insights-and-innovation/a-venn-diagram-is-forming-through-it-ot-convergence)
@@ -369,8 +371,6 @@
 - [Crisis Learnings Can Fuel Technology Leaders’ Innovation Strategies](https://www.informationweek.com/strategic-cio/crisis-learnings-can-fuel-technology-leaders-innovation-strategies)
 - [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
 - [AI, Automation Predictions for 2022: More Big Changes Ahead](https://www.informationweek.com/ai-or-machine-learning/ai-automation-predictions-for-2022-more-big-changes-ahead)
-- [In a SaaS-Powered World, Change Is the Only Constant](https://www.informationweek.com/software-as-a-service/in-a-saas-powered-world-change-is-the-only-constant)
-- [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

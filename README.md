@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Online sales now account for 34.4% of M&amp;S clothing and home goods](https://www.computerweekly.com/news/252509376/Online-sales-now-account-for-344-of-MS-clothing-and-home-goods)
-- [Cambridge Quantum tackles rail optimisation for German operator](https://www.computerweekly.com/news/252509377/Cambridge-Quantum-tackles-rail-optimisation-for-German-operator)
-- [HPE’s Aruba networking unit hit by cyber attack](https://www.computerweekly.com/news/252509375/HPEs-Aruba-networking-unit-hit-by-cyber-attack)
-- [How the tech sector can lead the green revolution](https://www.computerweekly.com/opinion/How-the-tech-sector-can-lead-the-green-revolution)
-- [Building bridges to better diversity](https://www.computerweekly.com/opinion/Building-bridges-to-better-diversity)
-- [Post-Covid tech world to see 89% of UK tech operations hosted off-premise](https://www.computerweekly.com/news/252509372/Post-Covid-tech-world-to-see-89-of-UK-tech-operations-hosted-off-premise)
-- [Green energy Cray supercomputer to power weather predictions](https://www.computerweekly.com/news/252509371/Green-energy-Cray-supercomputer-to-power-weather-predictions)
-- [Finance ombudsman overturns more than three-quarters of bank decisions on APP fraud](https://www.computerweekly.com/news/252509369/Finance-ombudsman-overturns-more-than-three-quarters-of-bank-decisions-on-APP-fraud)
-- [Scale of crime-as-a-service economy a growing concern, say researchers](https://www.computerweekly.com/news/252509367/Scale-of-crime-as-a-service-economy-a-growing-concern-say-researchers)
-- [CIO interview: Ralph Munsen, CIO, Warner Music Group](https://www.computerweekly.com/news/252508913/CIO-Interview-Ralph-Munsen-CIO-Warner-Music-Group)
+- [Royal Navy gets £100m electronic warfare boost](https://www.computerweekly.com/news/252509441/Royal-Navy-gets-100m-electronic-warfare-boost)
+- [Arkwright’s till, Tesco GetGo and retail tech’s non-linear innovation journey](https://www.computerweekly.com/feature/Arkwrights-till-Tesco-GetGo-and-retail-techs-non-linear-innovation-journey)
+- [New law needed to rein in AI-powered workplace surveillance](https://www.computerweekly.com/news/252509431/New-law-needed-to-rein-in-AI-powered-workplace-surveillance)
+- [OpenUK debuts carbon-negative datacentre blueprint at COP26](https://www.computerweekly.com/news/252509423/OpenUK-debuts-carbon-negative-datacentre-blueprint-at-COP26)
+- [Oversight of biometrics and surveillance should not go to ICO](https://www.computerweekly.com/news/252509416/Oversight-of-biometrics-and-surveillance-should-not-go-to-ICO)
+- [Cost reduction is still the biggest driver of banks’ cloud adoption](https://www.computerweekly.com/news/252509419/Cost-reduction-is-still-the-biggest-driver-of-banks-cloud-adoption)
+- [BT applies Covid-19 R number modelling to threat response](https://www.computerweekly.com/news/252509412/BT-applies-Covid-19-R-number-modelling-to-threat-response)
+- [LOTI to develop data ethics governance approach for London](https://www.computerweekly.com/news/252509385/LOTI-to-develop-data-ethics-governance-approach-for-London)
+- [CaixaBank to complete IT integration of Bankia in two days](https://www.computerweekly.com/news/252509409/CaixaBank-to-complete-IT-integration-of-Bankia-in-two-days)
+- [Government publishes research on maritime technology sector](https://www.computerweekly.com/news/252509386/Government-publishes-research-on-maritime-technology-sector)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

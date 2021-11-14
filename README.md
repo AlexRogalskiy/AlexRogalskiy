@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you ideally store and retrieve information of software product keys?](https://www.reddit.com/r/InformationTechnology/comments/qtcb7b/how_do_you_ideally_store_and_retrieve_information/)
+- [Do you consider AV to fall under the IT field?](https://www.reddit.com/r/InformationTechnology/comments/qsw5q8/do_you_consider_av_to_fall_under_the_it_field/)
+- [Data analyst](https://www.reddit.com/r/InformationTechnology/comments/qssyiy/data_analyst/)
 - [Entry Level IT Technician career path?](https://www.reddit.com/r/InformationTechnology/comments/qsqjhd/entry_level_it_technician_career_path/)
 - [IT Pepsico Internship](https://www.reddit.com/r/InformationTechnology/comments/qsnstv/it_pepsico_internship/)
 - [Would you say ETL and Data architecture are difficult to learn?](https://www.reddit.com/r/InformationTechnology/comments/qs606y/would_you_say_etl_and_data_architecture_are/)
@@ -413,9 +416,6 @@
 - [3rd Party Remote Desktop Support](https://www.reddit.com/r/InformationTechnology/comments/qrx1rw/3rd_party_remote_desktop_support/)
 - [IT degree?](https://www.reddit.com/r/InformationTechnology/comments/qrsgp4/it_degree/)
 - [Who handles and assigns your ticket priority? Is assigning them manually still the best option?](https://www.reddit.com/r/InformationTechnology/comments/qrn3v3/who_handles_and_assigns_your_ticket_priority_is/)
-- [If Anyone Is Doing BTEC National Level 3 IT &lpar;Information Technology&rpar; Please DM Me on Discord @otglot#6009](https://www.reddit.com/r/InformationTechnology/comments/qqz1s5/if_anyone_is_doing_btec_national_level_3_it/)
-- [Studying the relationship between agile/scrum framework and work engagement &amp; satisfaction](https://www.reddit.com/r/InformationTechnology/comments/qqyxuy/studying_the_relationship_between_agilescrum/)
-- [Does this Reddit have a Discord?](https://www.reddit.com/r/InformationTechnology/comments/qqslia/does_this_reddit_have_a_discord/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

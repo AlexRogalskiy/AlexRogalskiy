@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Inside The World of Foley Artists](https://www.theguardian.com/film/2021/nov/12/inside-the-world-of-foley-artists-watermelons-are-brilliant-for-the-sound-of-brains-hitting-the-floor)
-- [Zillow could skew housing prices and push younger homebuyers out of market](https://www.usatoday.com/story/opinion/2021/11/03/house-prices-zillow-could-skew-market/6246437001/?gnt-cfr=1)
-- [Snakebites and Covid-19: two crises, one research and development opportunity](https://gh.bmj.com/content/6/10/e006913)
-- [Does Zillow&#39;s collapse signal the end of using algorithmic pricing?](https://www.thedenverchannel.com/news/local-news/does-zillows-collapse-signal-the-end-of-ibuying-or-a-lesson-for-others-using-algorithmic-pricing)
-- [The welcome spread of assisted dying](https://www.economist.com/leaders/2021/11/13/the-welcome-spread-of-assisted-dying)
-- [Hybrid artificial neural networks and analytical model for prediction of optical](https://www.pubcard.net/paper/eff8ade44dc5449e8205fb07684b573b)
-- [Where *Isn&#39;t* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
-- [Habits of highly effective HN submitters](https://blog.morningbrief.ai/habits-of-highly-effective-hn-submitters/)
-- [One of the World’s Poorest Countries Found a Better Way to Do Stimulus](https://www.bloomberg.com/news/features/2021-11-08/how-togo-made-all-digital-government-stimulus-system-in-two-weeks)
-- [The truth about shoplifting in San Francisco](https://popular.info/p/the-truth-about-shoplifting-in-san)
+- [Shadershop – Photoshop like interface for programming GPU shaders](https://github.com/cdglabs/Shadershop)
+- [The eccentric dog breeds that vanished](https://www.bbc.com/future/article/20211105-the-bizarre-dog-breeds-time-forgot)
+- [MIT engineers develop a new way to remove carbon dioxide from air](https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025)
+- [Hackers sent spam emails from FBI accounts, agency confirms](https://www.npr.org/2021/11/13/1055589999/hackers-sent-spam-emails-from-fbi-accounts-agency-confirms)
+- [0xA000 Font Family – a tile mastered font-family](https://pippin.gimp.org/0xA000/)
+- [Architectural Considerations for a New Generation of Protocols &lpar;1990&rpar; [pdf]](https://groups.csail.mit.edu/ana/Publications/PubPDFs/Architectural%20Considerations%20for%20a%20New%20Generation%20of%20Protocols.pdf)
+- [A redditor gets caught up in a triangulation scam and investigates](https://old.reddit.com/r/personalfinance/comments/qlyuwg/a_couple_recent_fraudulent_credit_card_charges/)
+- [Intel Core I9-12900K vs. Core I9-11900K: Alder Lake and Rocket Lake CPU Face Off](https://www.pcmag.com/comparisons/intel-core-i9-12900k-vs-core-i9-11900k-alder-lake-and-rocket-lake-cpus)
+- [VMware WS 1.0 for Linux – 1999](http://web.archive.org/web/19991012153104/http://vmware.com/download/download_linux_pre.html)
+- [Immersion Den – A learning companion for the Web3 space](https://immersionden.xyz/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

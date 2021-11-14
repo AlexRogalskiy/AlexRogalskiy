@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Steve Bannon indicted for refusing to comply with Capitol attack subpoena - as it happened](https://www.theguardian.com/us-news/live/2021/nov/12/trump-capitol-inquiry-latest-mark-meadows-contempt-us-politics-biden-democrats)
-- [Spurs ready to be patient in effort to turn WSL derby tide against Arsenal](https://www.theguardian.com/football/2021/nov/13/spurs-prepared-to-be-patient-in-bid-to-turn-wsl-derby-tide-against-arsenal)
-- [Man killed and woman in critical condition after stabbing in Brentford](https://www.theguardian.com/uk-news/2021/nov/12/man-killed-and-woman-in-critical-condition-after-stabbing-in-brentford)
-- [Britney Spears’s conservatorship terminated after nearly 14 years](https://www.theguardian.com/music/2021/nov/12/britney-spears-conservatorship-terminated)
-- [Beijing urges US businesses to lobby against China-related bills in Congress](https://www.theguardian.com/world/2021/nov/12/us-businesses-lobby-china-related-bills-congress)
-- [Benas Satkus own goal ends Northern Ireland’s long wait for Windsor Park win](https://www.theguardian.com/football/2021/nov/12/northern-ireland-lithuania-world-cup-2022-qualifying-match-report)
-- [Steve Bannon indicted for refusal to comply with Capitol attack subpoena](https://www.theguardian.com/us-news/2021/nov/12/steve-bannon-indicted-capitol-attack-subpoena)
-- [Harry Kane hits hat-trick as England cruise past Albania on way to Qatar](https://www.theguardian.com/football/2021/nov/12/england-albania-world-cup-2022-qualifying-match-report)
-- [Itoje and Farrell excited by new-look England line-up for Australia clash](https://www.theguardian.com/sport/2021/nov/12/itoje-and-farrell-excited-by-new-look-england-line-up-for-australia-clash)
-- [Cop26 in extra time as leaders warn of the deadly cost of failure](https://www.theguardian.com/environment/2021/nov/12/cop26-in-extra-time-as-leaders-warn-of-the-deadly-cost-of-failure)
+- [Queen to attend Remembrance Sunday service at Cenotaph](https://www.theguardian.com/uk-news/2021/nov/14/queen-to-attend-remembrance-sunday-service-at-cenotaph)
+- [Cash, coal, cars, trees… and choreography: how Britain kept Cop26 alive](https://www.theguardian.com/environment/2021/nov/14/cash-coal-cars-trees-and-choreography-how-britain-kept-cop26-alive)
+- [Why soaring prices could mean higher pay for pulling pints](https://www.theguardian.com/business/2021/nov/14/why-soaring-prices-could-mean-higher-pay-for-pulling-pints)
+- [Knit hits: labels to know –in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/13/knit-hits-labels-to-know-in-pictures)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [The Observer view on the Cop26 agreement](https://www.theguardian.com/environment/commentisfree/2021/nov/13/the-observer-view-on-the-cop26-agreement)
+- [Ecuador: 68 inmates killed and 25 injured in latest prison massacre](https://www.theguardian.com/world/2021/nov/13/ecuador-68-inmates-killed-and-25-injured-in-latest-prison-massacre)
+- [Aaron Ramsey shines for Wales against Belarus as Gareth Bale reaches century](https://www.theguardian.com/football/2021/nov/13/wales-belarus-world-cup-qualifier-match-report)
+- [Lewis Hamilton battles back brilliantly from penalty in Brazil sprint](https://www.theguardian.com/sport/2021/nov/13/lewis-hamilton-disqualified-from-brazilian-f1-gp-qualifying)
+- [Mung beans, bunnies and the Muppets: PM’s green rhetoric ‘insulting and divisive’](https://www.theguardian.com/environment/2021/nov/13/mung-beans-bunnies-and-the-muppets-pms-green-rhetoric-insulting-and-divisive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

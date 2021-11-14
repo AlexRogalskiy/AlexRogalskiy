@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Covid.com – trusted Connectivity Supplier for 40 years. Unfortunate URL](https://www.covid.com/)
-- [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
-- [Fantasy Map Generator &lpar;2018&rpar;](https://azgaar.github.io/Fantasy-Map-Generator/)
-- [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
-- [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
-- [How many people have Q Clearance?](http://blog.nuclearsecrecy.com/2021/11/12/how-many-people-have-q-clearance/)
-- [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
-- [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/)
+- [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
+- [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
+- [Hoax email blast abused poor coding in FBI website](https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/)
+- [Study finds a difference between neurons of humans and other mammals](https://news.mit.edu/2021/neurons-humans-mammals-1110)
+- [Vaccum-chamber quantum sensor device could allow GPS-free navigation](https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/)
+- [Dataminers are finding developer comments and unlicensed songs in GTA Trilogy](https://www.pcgamer.com/uk/dataminers-are-finding-developer-comments-and-unlicensed-songs-in-gta-trilogy-as-rockstar-games-launcher-remains-offline/)
+- [Ask HN: Advice for moving on from a failed startup?](https://news.ycombinator.com/item?id=29213305)
+- [In a ‘learning trap’ experiment, adults leap conclusions while children explore](https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185)
+- [Substack &lpar;YC W18&rpar; is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [The case of the 500-mile email &lpar;2002&rpar;](https://www.ibiblio.org/harris/500milemail.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

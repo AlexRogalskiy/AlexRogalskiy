@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Queen to attend Remembrance Sunday service at Cenotaph](https://www.theguardian.com/uk-news/2021/nov/14/queen-to-attend-remembrance-sunday-service-at-cenotaph)
-- [Cash, coal, cars, trees… and choreography: how Britain kept Cop26 alive](https://www.theguardian.com/environment/2021/nov/14/cash-coal-cars-trees-and-choreography-how-britain-kept-cop26-alive)
-- [Why soaring prices could mean higher pay for pulling pints](https://www.theguardian.com/business/2021/nov/14/why-soaring-prices-could-mean-higher-pay-for-pulling-pints)
-- [Knit hits: labels to know –in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/13/knit-hits-labels-to-know-in-pictures)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [The Observer view on the Cop26 agreement](https://www.theguardian.com/environment/commentisfree/2021/nov/13/the-observer-view-on-the-cop26-agreement)
-- [Ecuador: 68 inmates killed and 25 injured in latest prison massacre](https://www.theguardian.com/world/2021/nov/13/ecuador-68-inmates-killed-and-25-injured-in-latest-prison-massacre)
-- [Aaron Ramsey shines for Wales against Belarus as Gareth Bale reaches century](https://www.theguardian.com/football/2021/nov/13/wales-belarus-world-cup-qualifier-match-report)
-- [Lewis Hamilton battles back brilliantly from penalty in Brazil sprint](https://www.theguardian.com/sport/2021/nov/13/lewis-hamilton-disqualified-from-brazilian-f1-gp-qualifying)
-- [Mung beans, bunnies and the Muppets: PM’s green rhetoric ‘insulting and divisive’](https://www.theguardian.com/environment/2021/nov/13/mung-beans-bunnies-and-the-muppets-pms-green-rhetoric-insulting-and-divisive)
+- [Liverpool Women’s hospital: three terror arrests after man killed in taxi explosion](https://www.theguardian.com/uk-news/2021/nov/14/liverpool-womens-hospital-one-man-dies-and-one-injured-after-taxi-explodes)
+- [Covid live: Egypt starts vaccine trial; Austria to put unvaccinated people in lockdown](https://www.theguardian.com/world/live/2021/nov/14/covid-live-coronavirus-booster-jabs-arrests-lockdown-protests)
+- [Lost Origin review – big-budget interactive adventure gets into a muddle](https://www.theguardian.com/stage/2021/nov/15/lost-origin-review-snazzy-interactive-tech-muddled-premise)
+- [UK firm to trial T-cell Covid vaccine that could give longer immunity](https://www.theguardian.com/society/2021/nov/15/uk-firm-to-trial-t-cell-covid-vaccine-that-could-give-longer-immunity)
+- [Real living wage rise puts pressure on UK government to raise minimum wage](https://www.theguardian.com/society/2021/nov/15/real-living-wage-rise-puts-pressure-on-uk-government-to-raise-minimum-wage)
+- [Major European carmakers will hit emissions targets too easily, research shows](https://www.theguardian.com/environment/2021/nov/15/major-european-carmakers-will-hit-emissions-targets-too-easily-research-shows)
+- [Adele opens up to Oprah about divorce and being a single parent](https://www.theguardian.com/music/2021/nov/15/adele-opens-up-to-oprah-about-divorce-and-being-a-single-parent)
+- [Aleksandar Mitrovic consigns Portugal to play-offs with late winner for Serbia](https://www.theguardian.com/football/2021/nov/14/aleksandar-mitrovic-consigns-portugal-to-play-offs-with-late-winner-for-serbia)
+- [NSW floods: thousands prepare to evacuate as Lachlan River threatens Forbes](https://www.theguardian.com/australia-news/2021/nov/15/nsw-floods-thousands-prepare-to-evacuate-as-lachlan-river-threatens-forbes)
+- [England players may protest against Qatar once World Cup spot is confirmed](https://www.theguardian.com/football/2021/nov/14/england-players-may-protest-against-qatar-once-world-cup-spot-is-confirmed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

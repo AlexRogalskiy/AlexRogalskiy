@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
-- [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
-- [Hoax email blast abused poor coding in FBI website](https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/)
-- [Study finds a difference between neurons of humans and other mammals](https://news.mit.edu/2021/neurons-humans-mammals-1110)
-- [Vaccum-chamber quantum sensor device could allow GPS-free navigation](https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/)
-- [Dataminers are finding developer comments and unlicensed songs in GTA Trilogy](https://www.pcgamer.com/uk/dataminers-are-finding-developer-comments-and-unlicensed-songs-in-gta-trilogy-as-rockstar-games-launcher-remains-offline/)
-- [Ask HN: Advice for moving on from a failed startup?](https://news.ycombinator.com/item?id=29213305)
-- [In a ‘learning trap’ experiment, adults leap conclusions while children explore](https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185)
-- [Substack &lpar;YC W18&rpar; is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [The case of the 500-mile email &lpar;2002&rpar;](https://www.ibiblio.org/harris/500milemail.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
+- [The chip that changed the world](https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999)
+- [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
+- [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
+- [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
+- [China and India will have to ‘justify’ watered down coal pledge–Cop26 president](https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496)
+- [From zero to hero: contributing to open source &lpar;2017&rpar;](https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/)
+- [Will real estate ever be normal again?](https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html)
+- [Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online](https://cds.nyu.edu/deep-learning/)
+- [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

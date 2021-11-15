@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Shadershop – Photoshop like interface for programming GPU shaders](https://github.com/cdglabs/Shadershop)
-- [The eccentric dog breeds that vanished](https://www.bbc.com/future/article/20211105-the-bizarre-dog-breeds-time-forgot)
-- [MIT engineers develop a new way to remove carbon dioxide from air](https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025)
-- [Hackers sent spam emails from FBI accounts, agency confirms](https://www.npr.org/2021/11/13/1055589999/hackers-sent-spam-emails-from-fbi-accounts-agency-confirms)
-- [0xA000 Font Family – a tile mastered font-family](https://pippin.gimp.org/0xA000/)
-- [Architectural Considerations for a New Generation of Protocols &lpar;1990&rpar; [pdf]](https://groups.csail.mit.edu/ana/Publications/PubPDFs/Architectural%20Considerations%20for%20a%20New%20Generation%20of%20Protocols.pdf)
-- [A redditor gets caught up in a triangulation scam and investigates](https://old.reddit.com/r/personalfinance/comments/qlyuwg/a_couple_recent_fraudulent_credit_card_charges/)
-- [Intel Core I9-12900K vs. Core I9-11900K: Alder Lake and Rocket Lake CPU Face Off](https://www.pcmag.com/comparisons/intel-core-i9-12900k-vs-core-i9-11900k-alder-lake-and-rocket-lake-cpus)
-- [VMware WS 1.0 for Linux – 1999](http://web.archive.org/web/19991012153104/http://vmware.com/download/download_linux_pre.html)
-- [Immersion Den – A learning companion for the Web3 space](https://immersionden.xyz/)
+- [The Story of The A.C Gilbert Company](https://www.youtube.com/watch?v=ryokI-gS9mM)
+- [A TikTok bone salesman’s wall of spines](https://www.washingtonpost.com/science/2021/10/09/tiktok-jonsbones-human-remains-wall-spines/)
+- [Ask HN: What is the use of facebooks metaverse?](https://news.ycombinator.com/item?id=29222870)
+- [Show HN: I have built a Chrome extension for collaborative web browsing](https://chrome.google.com/webstore/detail/linkwork/ecmleophaaakekpnibjhmcookecnemje)
+- [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)
+- [The History of Money in America [video][35:40]](https://www.youtube.com/watch?v=I5INCV7AQTI)
+- [Ask HN: How much equity should an early employee get?](https://news.ycombinator.com/item?id=29222783)
+- [Amazon driver survives truck split by train](https://abc13.com/amazon-amtrak-crash-wisconsin-milwaukee/11235591/)
+- [Metaverse: What 24 Hours Feels Like](https://www.wsj.com/video/series/joanna-stern-personal-technology/trapped-in-the-metaverse-heres-what-24-hours-feels-like/820EA261-05CD-44E9-871C-8CFB8E65DBBF)
+- [Mozilla Plays Matchmaker: Microsoft Store Offers Firefox for Windows 10 and 11](https://fossforce.com/2021/11/mozilla-plays-matchmaker-microsoft-store-now-offers-firefox-for-windows-10-and-11/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

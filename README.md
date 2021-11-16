@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Story of The A.C Gilbert Company](https://www.youtube.com/watch?v=ryokI-gS9mM)
-- [A TikTok bone salesman’s wall of spines](https://www.washingtonpost.com/science/2021/10/09/tiktok-jonsbones-human-remains-wall-spines/)
-- [Ask HN: What is the use of facebooks metaverse?](https://news.ycombinator.com/item?id=29222870)
-- [Show HN: I have built a Chrome extension for collaborative web browsing](https://chrome.google.com/webstore/detail/linkwork/ecmleophaaakekpnibjhmcookecnemje)
-- [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)
-- [The History of Money in America [video][35:40]](https://www.youtube.com/watch?v=I5INCV7AQTI)
-- [Ask HN: How much equity should an early employee get?](https://news.ycombinator.com/item?id=29222783)
-- [Amazon driver survives truck split by train](https://abc13.com/amazon-amtrak-crash-wisconsin-milwaukee/11235591/)
-- [Metaverse: What 24 Hours Feels Like](https://www.wsj.com/video/series/joanna-stern-personal-technology/trapped-in-the-metaverse-heres-what-24-hours-feels-like/820EA261-05CD-44E9-871C-8CFB8E65DBBF)
-- [Mozilla Plays Matchmaker: Microsoft Store Offers Firefox for Windows 10 and 11](https://fossforce.com/2021/11/mozilla-plays-matchmaker-microsoft-store-now-offers-firefox-for-windows-10-and-11/)
+- [Functional Programming in C++](https://www.gamedeveloper.com/programming/in-depth-functional-programming-in-c-)
+- [Tech companies were granted confidentiality before meeting minister](https://www.businesspost.ie/tech/tech-companies-were-granted-confidentiality-before-meeting-minister-c8d6002f)
+- [Software evolves – An experience guided by results](http://gabrielmalakias.com.br/ruby/sidekiq/actormodel/2021/11/15/software-evolves-an-experience-guided-by-results.html)
+- [Syria&#39;s My Lai? US massacred 70 civilians and covered it up](https://mate.substack.com/p/syrias-my-lai-us-massacred-70-civilians)
+- [Developing Games in Go for Nintendo Switch](https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [Better prognostic determination of cT3 rectal cancer through measurement of](https://www.pubcard.net/paper/16431c41f74c4e5896a5bbfa264222f2)
+- [How do I learn proper writing?](https://news.ycombinator.com/item?id=29235787)
+- [The genius of John von Neumann](https://unherd.com/2021/11/the-genius-of-john-von-neumann/)
+- [Ask HN: Best way to Google? log out first](https://news.ycombinator.com/item?id=29235738)
+- [Ask HN: Best tutorials you’ve ever seen &lpar;in terms of production value&rpar;?](https://news.ycombinator.com/item?id=29235689)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

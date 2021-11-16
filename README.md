@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
+- [Elastic keeps ticking](https://www.infoworld.com/article/3640617/elastic-keeps-ticking.html#tk.rss_all)
+- [3 reasons devops must integrate agile and ITSM tools](https://www.infoworld.com/article/3640405/3-reasons-devops-must-integrate-agile-and-itsm-tools.html#tk.rss_all)
+- [Why AI investments fail to deliver](https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html#tk.rss_all)
 - [Deno improves JSX transform, WebAssembly support](https://www.infoworld.com/article/3640539/deno-improves-jsx-transform-webassembly-support.html#tk.rss_all)
 - [Visual Studio Code 1.62 brings workbench enhancements](https://www.infoworld.com/article/3640537/visual-studio-code-162-brings-workbench-enhancements.html#tk.rss_all)
 - [Abstracting public clouds down to common services](https://www.infoworld.com/article/3640011/abstracting-public-clouds-down-to-common-services.html#tk.rss_all)
 - [Ruby tees up new JIT compiler](https://www.infoworld.com/article/3640530/ruby-tees-up-new-jit-compiler.html#tk.rss_all)
 - [How to resolve dependencies in ASP.NET Core](https://www.infoworld.com/article/3640368/how-to-resolve-dependencies-in-aspnet-core.html#tk.rss_all)
 - [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_all)
-- [Microsoft’s C# 10 promises ‘prettier’ code](https://www.infoworld.com/article/3640449/microsofts-c-10-promises-prettier-code.html#tk.rss_all)
-- [How to automate QA testing of SaaS and low-code applications](https://www.infoworld.com/article/3639519/how-to-automate-qa-testing-of-saas-and-low-code-applications.html#tk.rss_all)
-- [Microsoft’s Kubernetes for the rest of us](https://www.infoworld.com/article/3640048/microsofts-kubernetes-for-the-rest-of-us.html#tk.rss_all)
-- [OpenJDK proposals would bring universal generics to Java](https://www.infoworld.com/article/3639525/openjdk-proposals-would-bring-universal-generics-to-java.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

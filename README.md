@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [A CIO&#39;s Introduction to the Metaverse](https://www.informationweek.com/strategic-cio/a-cio-s-introduction-to-the-metaverse)
+- [3 Components CIOs Need to Create an Ethical AI Framework](https://www.informationweek.com/ai-or-machine-learning/3-components-cios-need-to-create-an-ethical-ai-framework)
+- [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
 - [Cryptocurrency&#39;s Climate Impact: What&#39;s Really Being Done About It?](https://www.informationweek.com/fintech/cryptocurrencys-climate-impact-whats-really-being-done-about-it-)
 - [AI Has an Image Problem and That’s Not Fair](https://www.informationweek.com/ai-or-machine-learning/ai-has-an-image-problem-and-that-s-not-fair)
 - [What to Look for in a Payment Hub Platform](https://www.informationweek.com/fintech/what-to-look-for-in-a-payment-hub-platform)
@@ -368,9 +371,6 @@
 - [A Venn Diagram is Forming Through IT/OT Convergence](https://www.informationweek.com/executive-insights-and-innovation/a-venn-diagram-is-forming-through-it-ot-convergence)
 - [The IT Talent Crisis: 2 Ways to Hire and Retain](https://www.informationweek.com/team-building-and-staffing/the-it-talent-crisis-2-ways-to-hire-and-retain)
 - [Skilling Up the Cybersecurity Workforce of Tomorrow](https://www.informationweek.com/team-building-and-staffing/skilling-up-the-cybersecurity-workforce-of-tomorrow)
-- [Crisis Learnings Can Fuel Technology Leaders’ Innovation Strategies](https://www.informationweek.com/strategic-cio/crisis-learnings-can-fuel-technology-leaders-innovation-strategies)
-- [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
-- [AI, Automation Predictions for 2022: More Big Changes Ahead](https://www.informationweek.com/ai-or-machine-learning/ai-automation-predictions-for-2022-more-big-changes-ahead)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

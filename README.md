@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Royal Navy gets £100m electronic warfare boost](https://www.computerweekly.com/news/252509441/Royal-Navy-gets-100m-electronic-warfare-boost)
-- [Arkwright’s till, Tesco GetGo and retail tech’s non-linear innovation journey](https://www.computerweekly.com/feature/Arkwrights-till-Tesco-GetGo-and-retail-techs-non-linear-innovation-journey)
-- [New law needed to rein in AI-powered workplace surveillance](https://www.computerweekly.com/news/252509431/New-law-needed-to-rein-in-AI-powered-workplace-surveillance)
-- [OpenUK debuts carbon-negative datacentre blueprint at COP26](https://www.computerweekly.com/news/252509423/OpenUK-debuts-carbon-negative-datacentre-blueprint-at-COP26)
-- [Oversight of biometrics and surveillance should not go to ICO](https://www.computerweekly.com/news/252509416/Oversight-of-biometrics-and-surveillance-should-not-go-to-ICO)
-- [Cost reduction is still the biggest driver of banks’ cloud adoption](https://www.computerweekly.com/news/252509419/Cost-reduction-is-still-the-biggest-driver-of-banks-cloud-adoption)
-- [BT applies Covid-19 R number modelling to threat response](https://www.computerweekly.com/news/252509412/BT-applies-Covid-19-R-number-modelling-to-threat-response)
-- [LOTI to develop data ethics governance approach for London](https://www.computerweekly.com/news/252509385/LOTI-to-develop-data-ethics-governance-approach-for-London)
-- [CaixaBank to complete IT integration of Bankia in two days](https://www.computerweekly.com/news/252509409/CaixaBank-to-complete-IT-integration-of-Bankia-in-two-days)
-- [Government publishes research on maritime technology sector](https://www.computerweekly.com/news/252509386/Government-publishes-research-on-maritime-technology-sector)
+- [UK government proposes new rules for digital supply chain security](https://www.computerweekly.com/news/252509505/UK-government-proposes-new-rules-for-digital-supply-chain-security)
+- [Video firm gets Qumulo scale-out NAS and super-fine metrics](https://www.computerweekly.com/news/252509499/Video-firm-gets-Qumulo-scale-out-NAS-and-super-fine-metrics)
+- [UK’s first datacentre-focused University Technical College course makes its debut](https://www.computerweekly.com/news/252509486/UKs-first-datacentre-focused-University-Technical-College-course-makes-its-debut)
+- [General Motors restructures IT to develop $25bn software business](https://www.computerweekly.com/news/252509490/General-Motors-restructures-IT-to-develop-25bn-software-business)
+- [Three-quarters of global IT decision-makers facing skills gaps](https://www.computerweekly.com/news/252509481/Three-quarters-of-global-IT-decision-makers-facing-skills-gaps)
+- [Government bodies refuse FOI requests on basis of misleading database search times, says academic](https://www.computerweekly.com/news/252509483/Government-bodies-refuse-FOI-requests-on-basis-of-misleading-database-search-times-says-academic)
+- [Social value not yet fully embedded in procurement practices](https://www.computerweekly.com/feature/Social-value-not-yet-fully-embedded-in-procurement-practices)
+- [Convictions of eight former subpostmasters in Scotland under review](https://www.computerweekly.com/news/252509479/Convictions-of-eight-former-subpostmasters-in-Scotland-under-review)
+- [Norwegian telco Telenor partners with Google Cloud for digital transformation push](https://www.computerweekly.com/news/252509477/Norwegian-telco-Telenor-partners-with-Google-Cloud-for-digital-transformation-push)
+- [CaixaBank system normal after migration of millions of customer accounts](https://www.computerweekly.com/news/252509475/CaixaBank-system-normal-after-migration-of-millions-of-customer-accounts)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

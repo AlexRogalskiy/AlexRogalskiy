@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Survey- Very Brief](https://www.reddit.com/r/InformationTechnology/comments/quunpr/it_survey_very_brief/)
+- [How to Block Specific Youtube Channels on Router](https://www.reddit.com/r/InformationTechnology/comments/qukrzx/how_to_block_specific_youtube_channels_on_router/)
 - [Need Encouragement](https://www.reddit.com/r/InformationTechnology/comments/qu57w0/need_encouragement/)
 - [Why are there different looks of wall sockets/electrical extension](https://www.reddit.com/r/InformationTechnology/comments/qtndh6/why_are_there_different_looks_of_wall/)
 - [How do you ideally store and retrieve information of software product keys?](https://www.reddit.com/r/InformationTechnology/comments/qtcb7b/how_do_you_ideally_store_and_retrieve_information/)
@@ -414,8 +416,6 @@
 - [Entry Level IT Technician career path?](https://www.reddit.com/r/InformationTechnology/comments/qsqjhd/entry_level_it_technician_career_path/)
 - [IT Pepsico Internship](https://www.reddit.com/r/InformationTechnology/comments/qsnstv/it_pepsico_internship/)
 - [Would you say ETL and Data architecture are difficult to learn?](https://www.reddit.com/r/InformationTechnology/comments/qs606y/would_you_say_etl_and_data_architecture_are/)
-- [Finding online platform for IT Outsourcing companies and where canl find out about Startups](https://www.reddit.com/r/InformationTechnology/comments/qs333w/finding_online_platform_for_it_outsourcing/)
-- [3rd Party Remote Desktop Support](https://www.reddit.com/r/InformationTechnology/comments/qrx1rw/3rd_party_remote_desktop_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

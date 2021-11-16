@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
-- [The chip that changed the world](https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999)
-- [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
-- [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
-- [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
-- [China and India will have to ‘justify’ watered down coal pledge–Cop26 president](https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496)
-- [From zero to hero: contributing to open source &lpar;2017&rpar;](https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/)
-- [Will real estate ever be normal again?](https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html)
-- [Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online](https://cds.nyu.edu/deep-learning/)
-- [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
+- [Individuals Matter](https://danluu.com/people-matter/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
+- [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
+- [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
+- [Show HN: I made a no-code tool to create animated technical papers](https://textframe.app/examples/bitcoin)
+- [Prevent Zoom from consuming all your CPU on Linux](https://gist.github.com/abraithwaite/1d78a946f90be478faedb5ca4db6d62e)
+- [Ergonomics of the Symbolics Lisp Machine – Reflections on Developer Productivity](http://lispm.de/symbolics-lisp-machine-ergonomics)
+- [Air cargo is suddenly affordable relative to ocean shipping](https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping)
+- [Space debris forces astronauts on space station to take shelter in return ships](https://www.space.com/space-debris-astronauts-shelter-november-2021)
+- [Processing billions of events in real time](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

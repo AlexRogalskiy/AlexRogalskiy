@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Liverpool Women’s hospital: three terror arrests after man killed in taxi explosion](https://www.theguardian.com/uk-news/2021/nov/14/liverpool-womens-hospital-one-man-dies-and-one-injured-after-taxi-explodes)
-- [Covid live: Egypt starts vaccine trial; Austria to put unvaccinated people in lockdown](https://www.theguardian.com/world/live/2021/nov/14/covid-live-coronavirus-booster-jabs-arrests-lockdown-protests)
-- [Lost Origin review – big-budget interactive adventure gets into a muddle](https://www.theguardian.com/stage/2021/nov/15/lost-origin-review-snazzy-interactive-tech-muddled-premise)
-- [UK firm to trial T-cell Covid vaccine that could give longer immunity](https://www.theguardian.com/society/2021/nov/15/uk-firm-to-trial-t-cell-covid-vaccine-that-could-give-longer-immunity)
-- [Real living wage rise puts pressure on UK government to raise minimum wage](https://www.theguardian.com/society/2021/nov/15/real-living-wage-rise-puts-pressure-on-uk-government-to-raise-minimum-wage)
-- [Major European carmakers will hit emissions targets too easily, research shows](https://www.theguardian.com/environment/2021/nov/15/major-european-carmakers-will-hit-emissions-targets-too-easily-research-shows)
-- [Adele opens up to Oprah about divorce and being a single parent](https://www.theguardian.com/music/2021/nov/15/adele-opens-up-to-oprah-about-divorce-and-being-a-single-parent)
-- [Aleksandar Mitrovic consigns Portugal to play-offs with late winner for Serbia](https://www.theguardian.com/football/2021/nov/14/aleksandar-mitrovic-consigns-portugal-to-play-offs-with-late-winner-for-serbia)
-- [NSW floods: thousands prepare to evacuate as Lachlan River threatens Forbes](https://www.theguardian.com/australia-news/2021/nov/15/nsw-floods-thousands-prepare-to-evacuate-as-lachlan-river-threatens-forbes)
-- [England players may protest against Qatar once World Cup spot is confirmed](https://www.theguardian.com/football/2021/nov/14/england-players-may-protest-against-qatar-once-world-cup-spot-is-confirmed)
+- [Biden-Xi virtual summit: US president warns nations must not ‘veer into open conflict’](https://www.theguardian.com/us-news/2021/nov/16/xi-biden-virtual-summit-us-china-conflict-taiwan-hong-kong)
+- [More than 500 stung by scorpions flushed out by storms in Egypt](https://www.theguardian.com/world/2021/nov/16/more-than-500-stung-by-scorpions-flushed-out-by-storms-in-egypt)
+- [Record rainfall prompts evacuations along the Pacific north-west](https://www.theguardian.com/environment/2021/nov/15/canada-floods-evacuation-wildfires-rain)
+- [Kyle Rittenhouse trial: jury prepares to deliberate after closing arguments](https://www.theguardian.com/us-news/2021/nov/15/kyle-rittenhouse-trial-attorneys-closing-arguments)
+- [Amazon to pay $500,000 fine for failing to notify workers of Covid cases](https://www.theguardian.com/technology/2021/nov/15/amazon-fined-workers-covid-cases)
+- [Almost $500bn ‘lost to tax abuse by firms and super-rich in 2021’](https://www.theguardian.com/world/2021/nov/16/almost-500bn-lost-to-tax-abuse-by-firms-and-super-rich-in-2021)
+- [Amnesty report: Qatar migrant workers trapped and exploited before World Cup](https://www.theguardian.com/football/2021/nov/16/qatar-migrant-workers-trapped-exploited-before-world-cup-amnesty-report)
+- [Biden basks in bipartisan triumph – but is it a new start or a swansong?](https://www.theguardian.com/us-news/2021/nov/15/joe-biden-bipartisan-infrastructure-signing-sketch)
+- [Nick Kyrgios calls for Australian Open to be cancelled over ‘morally wrong’ player vaccine mandate](https://www.theguardian.com/sport/2021/nov/16/nick-kyrgios-calls-for-australian-open-to-be-cancelled-over-morally-wrong-player-vaccine-mandate)
+- [UK and France reach agreement to ‘prevent 100% of Channel crossings’](https://www.theguardian.com/world/2021/nov/15/france-uk-migrant-crisis-priti-patel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

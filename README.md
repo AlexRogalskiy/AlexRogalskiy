@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cavoukian on Newfoundland cyber attack:  ‘It’s appalling’](https://www.itworldcanada.com/article/cavoukian-on-newfoundland-cyber-attack-its-appalling/465317)
+- [Does artificial intelligence for IT operations pay off?](https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334)
+- [Cyber Security Today, Nov. 15, 2021 – Cyberattack hits Ottawa medical clinic, FBI email server hacked, and a record DDoS attack](https://www.itworldcanada.com/article/cyber-security-today-nov-15-2021-cyberattack-hits-ottawa-medical-clinic-fbi-email-server-hacked-and-a-record-ddos-attack/465312)
+- [Hashtag trending Nov. 15 – FBI external email hacked; Facebook tapers targeted ads; Patreon’s video platform](https://www.itworldcanada.com/article/hashtag-trending-nov-15-fbi-external-email-hacked-facebook-tapers-targeted-ads-patreons-video-platform/465322)
 - [Canadian firm, RCMP team to develop AI governance framework](https://www.itworldcanada.com/article/canadian-firm-rcmp-team-to-develop-ai-governance-framework/465128)
 - [Cyber Security Today, Week in Review for Friday, Nov. 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-nov-12-2021/464935)
 - [Hit the ground running in the emerging next normal](https://www.itworldcanada.com/article/hit-the-ground-running-in-the-emerging-next-normal/465132)
 - [Cyber Security Today, Nov. 12, 2021 – Ransomware training from Ryerson, Aruba Central compromised, new botnet is discovered and more](https://www.itworldcanada.com/article/cyber-security-today-nov-12-2021-ransomware-training-from-ryerson-aruba-central-compromised-new-botnet-is-discovered-and-more/464972)
 - [Hashtag Trending Nov. 12- Youtube dislikes private; Facebook makes society worse; Lower than expected growth for Disney+](https://www.itworldcanada.com/article/hashtag-trending-nov-12-youtube-dislikes-private-facebook-makes-society-worse-lower-than-expected-growth-for-disney/465044)
 - [Dialectica to open second Canadian office; will create 500 jobs in Canada over 3 – 5 years](https://www.itworldcanada.com/article/dialectica-to-open-second-canadian-office-will-create-500-jobs-in-canada-over-3-5-years/464943)
-- [Hashtag Trending Nov. 11 – Google Antitrust Ruling; REvil takedown impactful; Brain Implant For Writing?](https://www.itworldcanada.com/article/hashtag-trending-nov-11-google-antitrust-ruling-revil-takedown-impactful-brain-implant-for-writing/464872)
-- [Empower your IT group to build your post-pandemic workplace](https://www.itworldcanada.com/article/empower-your-it-group-to-build-your-post-pandemic-workplace/464766)
-- [Cyber Security Today, Nov. 10, 2021 – An employee fooled at the Robinhood trading platform, and more firms hit by ignoring security updates](https://www.itworldcanada.com/article/cyber-security-today-nov-10-2021-an-employee-fooled-at-the-robinhood-trading-platform-and-more-firms-hit-by-ignoring-security-updates/464574)
-- [Hashtag Trending Nov 10 – U.S. $65 billion broadband plan; TSMC’s new chip plant in Japan;  McAfee goes private again](https://www.itworldcanada.com/article/hashtag-trending-nov-10-u-s-65-billion-broadband-plan-tsmcs-new-chip-plant-in-japan-mcafee-goes-private-again/464629)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

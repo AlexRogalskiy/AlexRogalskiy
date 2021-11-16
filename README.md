@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [This Made-for-iPad accessory can transform lives](https://www.computerworld.com/article/3640720/this-made-for-ipad-accessory-can-transform-lives.html#tk.rss_all)
+- [Store your corporate card on an iPhone? Uh-oh](https://www.computerworld.com/article/3640715/store-your-corporate-card-on-an-iphone-uh-oh.html#tk.rss_all)
+- [As companies unfurl future-of-work plans, speed bumps remain](https://www.computerworld.com/article/3640538/as-companies-unfurl-future-of-work-plans-speed-bumps-remain.html#tk.rss_all)
 - [Updates to Exchange and Microsoft Installer drive Patch Tuesday testing](https://www.computerworld.com/article/3640403/updates-to-exchange-and-microsoft-installer-drive-patch-tuesday-testing.html#tk.rss_all)
 - [Jamf CEO welcomes Apple Business Essentials](https://www.computerworld.com/article/3640399/jamf-ceo-welcomes-apple-business-essentials.html#tk.rss_all)
 - [Nvidia re-envisions the metaverse as a collaboration platform](https://www.computerworld.com/article/3640398/nvidia-re-envisions-the-metaverse-as-a-collaboration-platform.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Apple’s message for everyone: Keep up](https://www.computerworld.com/article/3640168/apple-s-message-for-everyone-keep-up.html#tk.rss_all)
 - [A handy hack for the Pixel&#39;s new shortcut system](https://www.computerworld.com/article/3640348/google-pixel-shortcut.html#tk.rss_all)
 - [No, sideloading is not good for you](https://www.computerworld.com/article/3640611/no-sideloading-is-not-good-for-you.html#tk.rss_all)
-- [Meta and Microsoft move to tie Workplace and Teams closer together](https://www.computerworld.com/article/3640450/meta-and-microsoft-move-to-tie-workplace-and-teams-closer-together.html#tk.rss_all)
-- [Apple introduces Business Essentials service for SMBs](https://www.computerworld.com/article/3640310/apple-introduces-business-essentials-service-for-smbs.html#tk.rss_all)
-- [Review: The new 16-in. MacBook Pro is Apple to the core](https://www.computerworld.com/article/3639923/review-the-new-16in-macbook-pro-is-apple-to-the-core.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

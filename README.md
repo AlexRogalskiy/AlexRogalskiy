@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK government proposes new rules for digital supply chain security](https://www.computerweekly.com/news/252509505/UK-government-proposes-new-rules-for-digital-supply-chain-security)
-- [Video firm gets Qumulo scale-out NAS and super-fine metrics](https://www.computerweekly.com/news/252509499/Video-firm-gets-Qumulo-scale-out-NAS-and-super-fine-metrics)
-- [UK’s first datacentre-focused University Technical College course makes its debut](https://www.computerweekly.com/news/252509486/UKs-first-datacentre-focused-University-Technical-College-course-makes-its-debut)
-- [General Motors restructures IT to develop $25bn software business](https://www.computerweekly.com/news/252509490/General-Motors-restructures-IT-to-develop-25bn-software-business)
-- [Three-quarters of global IT decision-makers facing skills gaps](https://www.computerweekly.com/news/252509481/Three-quarters-of-global-IT-decision-makers-facing-skills-gaps)
-- [Government bodies refuse FOI requests on basis of misleading database search times, says academic](https://www.computerweekly.com/news/252509483/Government-bodies-refuse-FOI-requests-on-basis-of-misleading-database-search-times-says-academic)
-- [Social value not yet fully embedded in procurement practices](https://www.computerweekly.com/feature/Social-value-not-yet-fully-embedded-in-procurement-practices)
-- [Convictions of eight former subpostmasters in Scotland under review](https://www.computerweekly.com/news/252509479/Convictions-of-eight-former-subpostmasters-in-Scotland-under-review)
-- [Norwegian telco Telenor partners with Google Cloud for digital transformation push](https://www.computerweekly.com/news/252509477/Norwegian-telco-Telenor-partners-with-Google-Cloud-for-digital-transformation-push)
-- [CaixaBank system normal after migration of millions of customer accounts](https://www.computerweekly.com/news/252509475/CaixaBank-system-normal-after-migration-of-millions-of-customer-accounts)
+- [One-fifth of NCSC-supported cyber incidents linked to Covid-19](https://www.computerweekly.com/news/252509550/One-fifth-of-NCSC-supported-cyber-incidents-linked-to-Covid-19)
+- [Unit4 research finds divergence between decision-makers and employees in SMEs](https://www.computerweekly.com/news/252509565/Unit4-research-finds-divergence-between-decision-makers-and-employees-in-SMEs)
+- [Tech suppliers chosen for £5bn NHS digital records framework](https://www.computerweekly.com/news/252509559/Tech-suppliers-chosen-for-5bn-NHS-digital-records-framework)
+- [Nvidia/Arm: Competitions and Markets Authority to drill down further in Phase 2 investigation](https://www.computerweekly.com/news/252509561/Nvidia-ARM-Competitions-and-Markets-Authority-to-drill-down-further-in-Phase-2-investigation)
+- [Blueprint for future high street shows tech’s role in creating thriving communities](https://www.computerweekly.com/news/252509543/Blueprint-for-future-high-street-shows-techs-role-in-creating-thriving-communities)
+- [Security Think Tank: SASE – more than the sum of its parts?](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-more-than-the-sum-of-its-parts)
+- [Can UAE become a world leader in AI?](https://www.computerweekly.com/news/252509538/Can-UAE-become-a-world-leader-in-AI)
+- [NHS Digital announces sustainability pledge](https://www.computerweekly.com/news/252509529/NHS-Digital-announces-sustainability-pledge)
+- [IBM readies System Two modular quantum architecture](https://www.computerweekly.com/news/252509537/IBM-readies-System-Two-modular-quantum-architecture)
+- [How cosmetics retailer Lush authenticates with ease](https://www.computerweekly.com/ezine/Computer-Weekly/How-cosmetics-retailer-Lush-authenticates-with-ease)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

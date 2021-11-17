@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The SaaS-ification movement explained](https://www.infoworld.com/article/3640719/the-saas-ification-movement-explained.html#tk.rss_all)
+- [Kotlin roadmap points to compiler, mobile improvements](https://www.infoworld.com/article/3640580/kotlin-roadmap-points-to-compiler-mobile-improvements.html#tk.rss_all)
+- [Docker really did change the world](https://www.infoworld.com/article/3639596/docker-really-did-change-the-world.html#tk.rss_all)
 - [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
 - [Elastic keeps ticking](https://www.infoworld.com/article/3640617/elastic-keeps-ticking.html#tk.rss_all)
 - [3 reasons devops must integrate agile and ITSM tools](https://www.infoworld.com/article/3640405/3-reasons-devops-must-integrate-agile-and-itsm-tools.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Deno improves JSX transform, WebAssembly support](https://www.infoworld.com/article/3640539/deno-improves-jsx-transform-webassembly-support.html#tk.rss_all)
 - [Visual Studio Code 1.62 brings workbench enhancements](https://www.infoworld.com/article/3640537/visual-studio-code-162-brings-workbench-enhancements.html#tk.rss_all)
 - [Abstracting public clouds down to common services](https://www.infoworld.com/article/3640011/abstracting-public-clouds-down-to-common-services.html#tk.rss_all)
-- [Ruby tees up new JIT compiler](https://www.infoworld.com/article/3640530/ruby-tees-up-new-jit-compiler.html#tk.rss_all)
-- [How to resolve dependencies in ASP.NET Core](https://www.infoworld.com/article/3640368/how-to-resolve-dependencies-in-aspnet-core.html#tk.rss_all)
-- [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

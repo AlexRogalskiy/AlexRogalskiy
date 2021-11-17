@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would you please share your opinions on my resume? Am applying to an IT internship position at Proctor and Gamble. Go easy on me please, ive never had to make a resume](https://www.reddit.com/r/InformationTechnology/comments/qvn628/would_you_please_share_your_opinions_on_my_resume/)
+- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/qvk327/needed_it_decision_makers_research_opportunity/)
+- [How to manage remote endpoints not in a domain network](https://www.reddit.com/r/InformationTechnology/comments/qvhh2f/how_to_manage_remote_endpoints_not_in_a_domain/)
+- [Signature style](https://www.reddit.com/r/InformationTechnology/comments/qv0jvk/signature_style/)
 - [IT Survey- Very Brief](https://www.reddit.com/r/InformationTechnology/comments/quunpr/it_survey_very_brief/)
 - [How to Block Specific Youtube Channels on Router](https://www.reddit.com/r/InformationTechnology/comments/qukrzx/how_to_block_specific_youtube_channels_on_router/)
 - [Need Encouragement](https://www.reddit.com/r/InformationTechnology/comments/qu57w0/need_encouragement/)
 - [Why are there different looks of wall sockets/electrical extension](https://www.reddit.com/r/InformationTechnology/comments/qtndh6/why_are_there_different_looks_of_wall/)
 - [How do you ideally store and retrieve information of software product keys?](https://www.reddit.com/r/InformationTechnology/comments/qtcb7b/how_do_you_ideally_store_and_retrieve_information/)
 - [Do you consider AV to fall under the IT field?](https://www.reddit.com/r/InformationTechnology/comments/qsw5q8/do_you_consider_av_to_fall_under_the_it_field/)
-- [Data analyst](https://www.reddit.com/r/InformationTechnology/comments/qssyiy/data_analyst/)
-- [Entry Level IT Technician career path?](https://www.reddit.com/r/InformationTechnology/comments/qsqjhd/entry_level_it_technician_career_path/)
-- [IT Pepsico Internship](https://www.reddit.com/r/InformationTechnology/comments/qsnstv/it_pepsico_internship/)
-- [Would you say ETL and Data architecture are difficult to learn?](https://www.reddit.com/r/InformationTechnology/comments/qs606y/would_you_say_etl_and_data_architecture_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

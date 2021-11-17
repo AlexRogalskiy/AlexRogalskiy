@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft releases its Windows 10 November 2021 update](https://www.computerworld.com/article/3640973/microsoft-releases-its-windows-10-november-2021-update.html#tk.rss_all)
+- [With latest Safari preview release, Apple tweaks Pro Motion scrolling issue](https://www.computerworld.com/article/3640913/with-latest-safari-preview-release-apple-tweaks-pro-motion-scrolling-issue.html#tk.rss_all)
+- [Slack moves to extend in-app workflow automation](https://www.computerworld.com/article/3640948/slack-moves-to-extend-in-app-workflow-automation.html#tk.rss_all)
+- [What next for HomeKit — into the office or factory floor?](https://www.computerworld.com/article/3640627/what-next-for-homekit-into-the-office-or-factory-floor.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Stop looking over my shoulder!](https://www.computerworld.com/article/3640714/stop-looking-over-my-shoulder.html#tk.rss_all)
+- [Recent Windows 11 Insider build looks to thwart Edge browser workarounds](https://www.computerworld.com/article/3640622/latest-windows-11-build-looks-to-force-edge-use-by-thwarting-browser-workarounds.html#tk.rss_all)
+- [Q&amp;A: Phil Libin on the future of work — and why an office return is a bad idea](https://www.computerworld.com/article/3640721/qa-phil-libin-on-the-future-of-work-and-why-an-office-return-is-a-bad-idea.html#tk.rss_all)
 - [This Made-for-iPad accessory can transform lives](https://www.computerworld.com/article/3640720/this-made-for-ipad-accessory-can-transform-lives.html#tk.rss_all)
 - [Store your corporate card on an iPhone? Uh-oh](https://www.computerworld.com/article/3640715/store-your-corporate-card-on-an-iphone-uh-oh.html#tk.rss_all)
-- [As companies unfurl future-of-work plans, speed bumps remain](https://www.computerworld.com/article/3640538/as-companies-unfurl-future-of-work-plans-speed-bumps-remain.html#tk.rss_all)
-- [Updates to Exchange and Microsoft Installer drive Patch Tuesday testing](https://www.computerworld.com/article/3640403/updates-to-exchange-and-microsoft-installer-drive-patch-tuesday-testing.html#tk.rss_all)
-- [Jamf CEO welcomes Apple Business Essentials](https://www.computerworld.com/article/3640399/jamf-ceo-welcomes-apple-business-essentials.html#tk.rss_all)
-- [Nvidia re-envisions the metaverse as a collaboration platform](https://www.computerworld.com/article/3640398/nvidia-re-envisions-the-metaverse-as-a-collaboration-platform.html#tk.rss_all)
-- [How to hold better, shorter meetings](https://www.computerworld.com/article/3639527/how-to-hold-better-shorter-meetings.html#tk.rss_all)
-- [Apple’s message for everyone: Keep up](https://www.computerworld.com/article/3640168/apple-s-message-for-everyone-keep-up.html#tk.rss_all)
-- [A handy hack for the Pixel&#39;s new shortcut system](https://www.computerworld.com/article/3640348/google-pixel-shortcut.html#tk.rss_all)
-- [No, sideloading is not good for you](https://www.computerworld.com/article/3640611/no-sideloading-is-not-good-for-you.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

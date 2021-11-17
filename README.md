@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Functional Programming in C++](https://www.gamedeveloper.com/programming/in-depth-functional-programming-in-c-)
-- [Tech companies were granted confidentiality before meeting minister](https://www.businesspost.ie/tech/tech-companies-were-granted-confidentiality-before-meeting-minister-c8d6002f)
-- [Software evolves – An experience guided by results](http://gabrielmalakias.com.br/ruby/sidekiq/actormodel/2021/11/15/software-evolves-an-experience-guided-by-results.html)
-- [Syria&#39;s My Lai? US massacred 70 civilians and covered it up](https://mate.substack.com/p/syrias-my-lai-us-massacred-70-civilians)
-- [Developing Games in Go for Nintendo Switch](https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub?start=false&loop=false&delayms=3000&slide=id.p)
-- [Better prognostic determination of cT3 rectal cancer through measurement of](https://www.pubcard.net/paper/16431c41f74c4e5896a5bbfa264222f2)
-- [How do I learn proper writing?](https://news.ycombinator.com/item?id=29235787)
-- [The genius of John von Neumann](https://unherd.com/2021/11/the-genius-of-john-von-neumann/)
-- [Ask HN: Best way to Google? log out first](https://news.ycombinator.com/item?id=29235738)
-- [Ask HN: Best tutorials you’ve ever seen &lpar;in terms of production value&rpar;?](https://news.ycombinator.com/item?id=29235689)
+- [Tilt Typeface](https://github.com/andyclymer/Tilt-Typeface)
+- [Intel Fab Expansion in China Allegedly Discouraged by White House](https://www.tomshardware.com/news/intel-china-fab-expansion-nixed-by-white-house)
+- [The Migrant Workers Who Follow Climate Disasters](https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters)
+- [New Zealand vaccine passport specification](https://github.com/minhealthnz/nzcovidpass-spec)
+- [Product engineering teams avoid dependencies: the independent executor model](https://www.rubick.com/independent-executor-model/)
+- [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
+- [Tor Browser 11.0.1 - Search with Blockchair](https://blog.torproject.org/new-release-tor-browser-1101)
+- [Tesla Semi Sighting](https://electrek.co/2021/11/15/tesla-semi-quick-charge-megacharger-important-visit/)
+- [Wrangler 2.0 – A new developer experience for Cloudflare Workers](https://blog.cloudflare.com/wrangler-v2-beta/)
+- [Increasing Politicization and Homogeneity of NSF Grants](https://cspicenter.org/reports/increasing-politicization-and-homogeneity-in-scientific-funding-an-analysis-of-nsf-grants-1990-2020/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

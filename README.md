@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Individuals Matter](https://danluu.com/people-matter/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
-- [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
-- [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
-- [Show HN: I made a no-code tool to create animated technical papers](https://textframe.app/examples/bitcoin)
-- [Prevent Zoom from consuming all your CPU on Linux](https://gist.github.com/abraithwaite/1d78a946f90be478faedb5ca4db6d62e)
-- [Ergonomics of the Symbolics Lisp Machine – Reflections on Developer Productivity](http://lispm.de/symbolics-lisp-machine-ergonomics)
-- [Air cargo is suddenly affordable relative to ocean shipping](https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping)
-- [Space debris forces astronauts on space station to take shelter in return ships](https://www.space.com/space-debris-astronauts-shelter-november-2021)
-- [Processing billions of events in real time](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
+- [.plan](https://plan.cat)
+- [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
+- [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
+- [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
+- [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- [Skittish: A playful space for online events](https://skittish.com/)
+- [Types of Parser Combinators](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/)
+- [A 1980s space telescope may have seen planet nine](https://gizmodo.com/a-1980s-space-telescope-may-have-seen-planet-nine-1848066820)
+- [What really happened at the Millennium Tower?](https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower)
+- [Automatically generating types for Cloudflare Workers](https://blog.cloudflare.com/automatically-generated-types/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

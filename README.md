@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Six things financial institutions should know about moving to the cloud](https://www.itworldcanada.com/article/six-things-financial-institutions-should-know-about-moving-to-the-cloud/462962)
+- [OpenText to move all its datacentres and datacentre partners to hydroelectric power by 2040](https://www.itworldcanada.com/article/opentext-to-move-all-its-datacentres-and-datacentre-partners-to-hydroelectric-power-by-2040/465443)
+- [Coffee Briefing, Nov. 16, 2021 – Square Marketing comes to Canada; alliance to increase academic diversity in Canada; initiatives to support Canadian SMBs; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-16-2021-square-marketing-comes-to-canada-alliance-to-increase-academic-diversity-in-canada-initiatives-to-support-canadian-smbs-and-more/465382)
+- [Randori defends delay of months in notifying vendor of serious vulnerabilities](https://www.itworldcanada.com/article/randori-defends-delay-of-months-in-notifying-vendor-of-serious-vulnerabilities/465008)
+- [Canadian Telecom Summit: ‘Complexity is the enemy of security and the opportunity for cybercrime’](https://www.itworldcanada.com/article/canadian-telecom-summit-complexity-is-the-enemy-of-security-and-the-opportunity-for-cybercrime/465395)
+- [Report reveals Canadian software developers dissatisfied with current salary](https://www.itworldcanada.com/article/report-reveals-canadian-software-developers-dissatisfied-with-current-salary/464911)
+- [Hashtag trending Nov. 16 – Liberals to take a stance on Huawei; Epic Games shuts down Fortnite in China; Twitter Blue’s big problem](https://www.itworldcanada.com/article/hashtag-trending-nov-16-liberals-to-take-a-stance-on-huawei-epic-games-shuts-down-fortnite-in-china-twitter-blues-big-problem/465406)
 - [Cavoukian on Newfoundland cyber attack:  ‘It’s appalling’](https://www.itworldcanada.com/article/cavoukian-on-newfoundland-cyber-attack-its-appalling/465317)
+- [Flight plan: How data keeps Canada’s new search and rescue planes in the air](https://www.itworldcanada.com/article/flight-plan-how-data-keeps-canadas-new-search-and-rescue-planes-in-the-air/465354)
 - [Does artificial intelligence for IT operations pay off?](https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334)
-- [Cyber Security Today, Nov. 15, 2021 – Cyberattack hits Ottawa medical clinic, FBI email server hacked, and a record DDoS attack](https://www.itworldcanada.com/article/cyber-security-today-nov-15-2021-cyberattack-hits-ottawa-medical-clinic-fbi-email-server-hacked-and-a-record-ddos-attack/465312)
-- [Hashtag trending Nov. 15 – FBI external email hacked; Facebook tapers targeted ads; Patreon’s video platform](https://www.itworldcanada.com/article/hashtag-trending-nov-15-fbi-external-email-hacked-facebook-tapers-targeted-ads-patreons-video-platform/465322)
-- [Canadian firm, RCMP team to develop AI governance framework](https://www.itworldcanada.com/article/canadian-firm-rcmp-team-to-develop-ai-governance-framework/465128)
-- [Cyber Security Today, Week in Review for Friday, Nov. 12, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-nov-12-2021/464935)
-- [Hit the ground running in the emerging next normal](https://www.itworldcanada.com/article/hit-the-ground-running-in-the-emerging-next-normal/465132)
-- [Cyber Security Today, Nov. 12, 2021 – Ransomware training from Ryerson, Aruba Central compromised, new botnet is discovered and more](https://www.itworldcanada.com/article/cyber-security-today-nov-12-2021-ransomware-training-from-ryerson-aruba-central-compromised-new-botnet-is-discovered-and-more/464972)
-- [Hashtag Trending Nov. 12- Youtube dislikes private; Facebook makes society worse; Lower than expected growth for Disney+](https://www.itworldcanada.com/article/hashtag-trending-nov-12-youtube-dislikes-private-facebook-makes-society-worse-lower-than-expected-growth-for-disney/465044)
-- [Dialectica to open second Canadian office; will create 500 jobs in Canada over 3 – 5 years](https://www.itworldcanada.com/article/dialectica-to-open-second-canadian-office-will-create-500-jobs-in-canada-over-3-5-years/464943)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [.plan](https://plan.cat)
-- [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
-- [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
-- [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
-- [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- [Skittish: A playful space for online events](https://skittish.com/)
-- [Types of Parser Combinators](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/)
-- [A 1980s space telescope may have seen planet nine](https://gizmodo.com/a-1980s-space-telescope-may-have-seen-planet-nine-1848066820)
-- [What really happened at the Millennium Tower?](https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower)
-- [Automatically generating types for Cloudflare Workers](https://blog.cloudflare.com/automatically-generated-types/)
+- [Dask – a flexible library for parallel computing in Python](https://dask.org/)
+- [Microsoft gaming chief calls for industry-wide game preservation](https://www.axios.com/microsoft-old-games-preserve-emulation-748793a7-f559-4933-babf-81f34adc7cf6.html)
+- [Most who want simple ‘bonsai’ trees are ill-served by traditional bonsai methods](https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of)
+- [A Busy Beaver champion derived from scratch](https://nickdrozd.github.io/2021/10/31/busy-beaver-derived.html)
+- [TPM Sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
+- [Fuzzbuzz &lpar;YC W19&rpar; Is Hiring a Security Dev Advocate, Full Stack/Back End Eng](https://angel.co/company/fuzzbuzz/jobs)
+- [Daddy isn’t coming back](https://www.ft.com/content/062b5655-28b3-4bf8-9629-c3eac803c3f3)
+- [Three sins of authors in computer science and math &lpar;1997&rpar;](https://www.cs.cmu.edu/~jrs/sins.html)
+- [XMPP, a comeback story](https://takebackourtech.org/xmpp-comeback/)
+- [The Bug in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [One-fifth of NCSC-supported cyber incidents linked to Covid-19](https://www.computerweekly.com/news/252509550/One-fifth-of-NCSC-supported-cyber-incidents-linked-to-Covid-19)
-- [Unit4 research finds divergence between decision-makers and employees in SMEs](https://www.computerweekly.com/news/252509565/Unit4-research-finds-divergence-between-decision-makers-and-employees-in-SMEs)
-- [Tech suppliers chosen for £5bn NHS digital records framework](https://www.computerweekly.com/news/252509559/Tech-suppliers-chosen-for-5bn-NHS-digital-records-framework)
-- [Nvidia/Arm: Competitions and Markets Authority to drill down further in Phase 2 investigation](https://www.computerweekly.com/news/252509561/Nvidia-ARM-Competitions-and-Markets-Authority-to-drill-down-further-in-Phase-2-investigation)
-- [Blueprint for future high street shows tech’s role in creating thriving communities](https://www.computerweekly.com/news/252509543/Blueprint-for-future-high-street-shows-techs-role-in-creating-thriving-communities)
-- [Security Think Tank: SASE – more than the sum of its parts?](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-more-than-the-sum-of-its-parts)
-- [Can UAE become a world leader in AI?](https://www.computerweekly.com/news/252509538/Can-UAE-become-a-world-leader-in-AI)
-- [NHS Digital announces sustainability pledge](https://www.computerweekly.com/news/252509529/NHS-Digital-announces-sustainability-pledge)
-- [IBM readies System Two modular quantum architecture](https://www.computerweekly.com/news/252509537/IBM-readies-System-Two-modular-quantum-architecture)
-- [How cosmetics retailer Lush authenticates with ease](https://www.computerweekly.com/ezine/Computer-Weekly/How-cosmetics-retailer-Lush-authenticates-with-ease)
+- [Security startups line up on Cyber Runway](https://www.computerweekly.com/news/252509630/108-security-startups-line-up-on-Cyber-Runway)
+- [Zero-days: The next element of the service-based cyber economy?](https://www.computerweekly.com/news/252509634/Zero-days-The-next-element-of-the-service-based-cyber-economy)
+- [HMRC should boost data analytics capability, says NAO report](https://www.computerweekly.com/news/252509631/HMRC-should-boost-data-analytics-capability-says-NAO-report)
+- [Out of the shadows: The rise of ethical hackers in 2021](https://www.computerweekly.com/news/252509626/Out-of-the-shadows-The-rise-of-ethical-hackers-in-2021)
+- [Average size of hyperscale datacentres is on the rise](https://www.computerweekly.com/news/252509624/Average-size-of-hyperscale-datacentres-is-on-the-rise)
+- [Amazon to stop accepting Visa credit cards in UK due to high fees](https://www.computerweekly.com/news/252509622/Amazon-to-stop-accepting-Visa-credit-cards-in-UK-due-to-high-fees)
+- [Cloud repatriation: Five reasons to repatriate data from cloud](https://www.computerweekly.com/feature/Cloud-repatriation-Five-reasons-to-repatriate-data-from-cloud)
+- [ONS data points to rise in UK tech employment for women](https://www.computerweekly.com/news/252509611/ONS-data-points-to-rise-in-UK-tech-employment-for-women)
+- [Post Office agrees to share privileged legal information with Horizon scandal inquiry](https://www.computerweekly.com/news/252509618/Post-Office-agrees-to-share-privileged-legal-information-with-Horizon-scandal-inquiry)
+- [COP26: Lord Maude on using open source to help fight against climate change](https://www.computerweekly.com/news/252509566/COP26-Lord-Maude-on-how-open-source-could-help-in-the-fight-against-climate-change)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

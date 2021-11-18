@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pfizer strikes deal to allow generic versions of its Covid pill for world’s poor](https://www.theguardian.com/business/2021/nov/17/pfizer-strikes-deal-to-allow-generic-versions-of-its-covid-pill-for-worlds-poor)
-- [One-third of people in Pacific paid a bribe in the last year, says corruption report](https://www.theguardian.com/world/2021/nov/17/one-third-of-people-in-pacific-paid-a-bribe-in-the-last-year-says-corruption-report)
-- [Spain scraps visa requirement for UK touring musicians](https://www.theguardian.com/business/2021/nov/16/spain-scraps-visa-requirement-for-uk-touring-musicians)
-- [Canada confirms fatalities from floods and landslides after Pacific north-west storm](https://www.theguardian.com/world/2021/nov/16/canada-fatalities-storm-pacific-north-west-washington)
-- [Ministers ‘lost control of universal credit fraud in Covid crisis’](https://www.theguardian.com/society/2021/nov/17/ministers-lost-control-of-universal-credit-in-covid-crisis)
-- [Every part of justice system fails mentally ill people, inspectors find](https://www.theguardian.com/society/2021/nov/17/every-part-of-justice-system-fails-mentally-ill-people-inspectors-find)
-- [Grandmothers may be more connected to grandchildren than to own offspring](https://www.theguardian.com/lifeandstyle/2021/nov/17/grandmothers-may-be-more-connected-to-grandchildren-than-to-own-offspring)
-- [FA Cup roundup: Gateshead earn Charlton tie with win at Altrincham](https://www.theguardian.com/football/2021/nov/16/fa-cup-roundup-gateshead-earn-charlton-tie-with-win-at-altrincham)
-- [Decathlon stops canoe sales in northern France to curb migrant crossings](https://www.theguardian.com/world/2021/nov/16/decathlon-stops-canoe-sales-in-northern-france-to-curb-migrant-crossings)
-- [Gareth Southgate expects ‘no complications’ over new England deal](https://www.theguardian.com/football/2021/nov/16/gareth-southgate-expects-no-complications-over-new-england-deal)
+- [Pacific north-west floods latest: Canada’s Trudeau deploys air force to ‘terrifically bad situation’ – live](https://www.theguardian.com/world/live/2021/nov/17/canada-floods-vancouver-british-columbia-weather-pacific-north-west-latest-updates)
+- [Meghan Markle gives surprise interview with Ellen DeGeneres](https://www.theguardian.com/uk-news/2021/nov/18/meghan-markle-gives-surprise-interview-with-ellen-degeneres)
+- [‘Blood micromoon’: New Zealand to enjoy partial lunar eclipse not seen for 800 years](https://www.theguardian.com/world/2021/nov/18/blood-micromoon-new-zealand-to-enjoy-partial-lunar-eclipse-not-seen-for-800-years)
+- [Mask-wearing cuts Covid incidence by 53%, says global study](https://www.theguardian.com/world/2021/nov/17/wearing-masks-single-most-effective-way-to-tackle-covid-study-finds)
+- [Poorer nations still lack access to world’s key antibiotics](https://www.theguardian.com/business/2021/nov/18/poorer-nations-still-lack-access-to-worlds-key-antibiotics)
+- [New HIV jabs taken two months apart hailed as huge step forward](https://www.theguardian.com/society/2021/nov/18/new-hiv-jabs-taken-two-months-apart-hailed-as-huge-step-forward)
+- [Covid Delta variant offshoot ‘less likely’ to cause symptoms](https://www.theguardian.com/world/2021/nov/18/covid-delta-variant-offshoot-less-likely-to-cause-symptoms)
+- [Average pay deal in Britain worth just 2%, data shows](https://www.theguardian.com/business/2021/nov/18/average-pay-deal-britain)
+- [Rangers close to naming Giovanni van Bronckhorst as Gerrard’s successor](https://www.theguardian.com/football/2021/nov/17/rangers-close-to-naming-giovanni-van-bronckhorst-as-gerrards-successor)
+- [Ebony Rainford-Brent reveals horrific racist abuse received in hate letter](https://www.theguardian.com/sport/2021/nov/17/ebony-rainford-brent-reveals-horrific-racist-abuse-received-in-hate-letter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

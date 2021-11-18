@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
+- [Java could get virtual threads](https://www.infoworld.com/article/3641288/java-could-get-virtual-threads.html#tk.rss_all)
+- [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_all)
+- [Getting started with Azure Fluid Relay](https://www.infoworld.com/article/3640727/getting-started-with-azure-fluid-relay.html#tk.rss_all)
+- [The race to secure Kubernetes at run time](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html#tk.rss_all)
 - [The SaaS-ification movement explained](https://www.infoworld.com/article/3640719/the-saas-ification-movement-explained.html#tk.rss_all)
 - [Kotlin roadmap points to compiler, mobile improvements](https://www.infoworld.com/article/3640580/kotlin-roadmap-points-to-compiler-mobile-improvements.html#tk.rss_all)
 - [Docker really did change the world](https://www.infoworld.com/article/3639596/docker-really-did-change-the-world.html#tk.rss_all)
 - [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
 - [Elastic keeps ticking](https://www.infoworld.com/article/3640617/elastic-keeps-ticking.html#tk.rss_all)
-- [3 reasons devops must integrate agile and ITSM tools](https://www.infoworld.com/article/3640405/3-reasons-devops-must-integrate-agile-and-itsm-tools.html#tk.rss_all)
-- [Why AI investments fail to deliver](https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html#tk.rss_all)
-- [Deno improves JSX transform, WebAssembly support](https://www.infoworld.com/article/3640539/deno-improves-jsx-transform-webassembly-support.html#tk.rss_all)
-- [Visual Studio Code 1.62 brings workbench enhancements](https://www.infoworld.com/article/3640537/visual-studio-code-162-brings-workbench-enhancements.html#tk.rss_all)
-- [Abstracting public clouds down to common services](https://www.infoworld.com/article/3640011/abstracting-public-clouds-down-to-common-services.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

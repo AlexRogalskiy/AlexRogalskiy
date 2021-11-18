@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Analytics Can Fix the Supply Chain. Eventually](https://www.informationweek.com/big-data/data-analytics-can-fix-the-supply-chain-eventually)
+- [The Deep Skills Every Network Manager Should Possess](https://www.informationweek.com/strategic-cio/the-deep-skills-every-network-manager-should-possess)
+- [The Future of Privacy: What IT Leaders Need to Know](https://www.informationweek.com/big-data/the-future-of-privacy-what-it-leaders-need-to-know)
 - [Bringing Security up to the Speed of the Cloud](https://www.informationweek.com/security-and-privacy/bringing-security-up-to-the-speed-of-the-cloud)
 - [Gauging Cybersecurity Resiliency and Why It Matters](https://www.informationweek.com/security-and-risk-strategy/gauging-cybersecurity-resiliency-and-why-it-matters)
 - [What is Customer Identity and Access Management &lpar;CIAM&rpar;?](https://www.informationweek.com/security-and-risk-strategy/ciam-101-what-is-customer-identity-and-access-management-)
@@ -368,9 +371,6 @@
 - [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
 - [3 Components CIOs Need to Create an Ethical AI Framework](https://www.informationweek.com/ai-or-machine-learning/3-components-cios-need-to-create-an-ethical-ai-framework)
 - [Cryptocurrency&#39;s Climate Impact: What&#39;s Really Being Done About It?](https://www.informationweek.com/fintech/cryptocurrencys-climate-impact-whats-really-being-done-about-it-)
-- [AI Has an Image Problem and That’s Not Fair](https://www.informationweek.com/ai-or-machine-learning/ai-has-an-image-problem-and-that-s-not-fair)
-- [What to Look for in a Payment Hub Platform](https://www.informationweek.com/fintech/what-to-look-for-in-a-payment-hub-platform)
-- [How Climate Change is Changing Cyber Resilience Plans](https://www.informationweek.com/security-and-risk-strategy/how-climate-change-is-changing-cyber-resilience-plans)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

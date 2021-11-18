@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Six things financial institutions should know about moving to the cloud](https://www.itworldcanada.com/article/six-things-financial-institutions-should-know-about-moving-to-the-cloud/462962)
+- [The little chip that could: Intel’s 4004 turns 50](https://www.itworldcanada.com/article/the-little-chip-that-could-intels-4004-turns-50/465740)
+- [Most organizations don’t understand third party cyber risks: survey](https://www.itworldcanada.com/article/most-organizations-dont-understand-third-party-cyber-risks-survey/465416)
+- [Ryerson launches new, hands-on innovation course](https://www.itworldcanada.com/article/ryerson-launches-new-hands-on-course/464928)
+- [Cloudli launches communication app for business texting and calling](https://www.itworldcanada.com/article/cloudli-launches-communication-app-for-business-texting-and-calling/465343)
+- [Cyber Security Today, Nov. 17, 2021 – Ransomware gangs now buying zero-day vulnerabilities, a warning about vulnerable memory chips and the Emotet gang is back](https://www.itworldcanada.com/article/cyber-security-today-nov-17-2021-ransomware-gangs-now-buying-zero-day-vulnerabilities-a-warning-about-vulnerable-memory-chips-and-the-emotet-gang-is-back/465503)
+- [Hashtag trending Nov. 17 – Amazon fined; homebuyers keen on internet; U.S. government rejects making chips in China](https://www.itworldcanada.com/article/hashtag-trending-nov-17-amazon-fined-homebuyers-keen-on-internet-u-s-government-rejects-making-chips-in-china/465640)
 - [OpenText to move all its datacentres and datacentre partners to hydroelectric power by 2040](https://www.itworldcanada.com/article/opentext-to-move-all-its-datacentres-and-datacentre-partners-to-hydroelectric-power-by-2040/465443)
 - [Coffee Briefing, Nov. 16, 2021 – Square Marketing comes to Canada; alliance to increase academic diversity in Canada; initiatives to support Canadian SMBs; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-16-2021-square-marketing-comes-to-canada-alliance-to-increase-academic-diversity-in-canada-initiatives-to-support-canadian-smbs-and-more/465382)
 - [Randori defends delay of months in notifying vendor of serious vulnerabilities](https://www.itworldcanada.com/article/randori-defends-delay-of-months-in-notifying-vendor-of-serious-vulnerabilities/465008)
 - [Canadian Telecom Summit: ‘Complexity is the enemy of security and the opportunity for cybercrime’](https://www.itworldcanada.com/article/canadian-telecom-summit-complexity-is-the-enemy-of-security-and-the-opportunity-for-cybercrime/465395)
-- [Report reveals Canadian software developers dissatisfied with current salary](https://www.itworldcanada.com/article/report-reveals-canadian-software-developers-dissatisfied-with-current-salary/464911)
-- [Hashtag trending Nov. 16 – Liberals to take a stance on Huawei; Epic Games shuts down Fortnite in China; Twitter Blue’s big problem](https://www.itworldcanada.com/article/hashtag-trending-nov-16-liberals-to-take-a-stance-on-huawei-epic-games-shuts-down-fortnite-in-china-twitter-blues-big-problem/465406)
-- [Cavoukian on Newfoundland cyber attack:  ‘It’s appalling’](https://www.itworldcanada.com/article/cavoukian-on-newfoundland-cyber-attack-its-appalling/465317)
-- [Flight plan: How data keeps Canada’s new search and rescue planes in the air](https://www.itworldcanada.com/article/flight-plan-how-data-keeps-canadas-new-search-and-rescue-planes-in-the-air/465354)
-- [Does artificial intelligence for IT operations pay off?](https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

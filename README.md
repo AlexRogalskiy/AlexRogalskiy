@@ -406,9 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Common Captive Portals? Exceptions to add to firewalls &amp; network endpoints](https://www.reddit.com/r/InformationTechnology/comments/qw8a9a/common_captive_portals_exceptions_to_add_to/)
 - [Would you please share your opinions on my resume? Am applying to an IT internship position at Proctor and Gamble. Go easy on me please, ive never had to make a resume](https://www.reddit.com/r/InformationTechnology/comments/qvn628/would_you_please_share_your_opinions_on_my_resume/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/qvk327/needed_it_decision_makers_research_opportunity/)
-- [How to manage remote endpoints not in a domain network](https://www.reddit.com/r/InformationTechnology/comments/qvhh2f/how_to_manage_remote_endpoints_not_in_a_domain/)
 - [Signature style](https://www.reddit.com/r/InformationTechnology/comments/qv0jvk/signature_style/)
 - [IT Survey- Very Brief](https://www.reddit.com/r/InformationTechnology/comments/quunpr/it_survey_very_brief/)
 - [How to Block Specific Youtube Channels on Router](https://www.reddit.com/r/InformationTechnology/comments/qukrzx/how_to_block_specific_youtube_channels_on_router/)

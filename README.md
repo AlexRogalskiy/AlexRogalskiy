@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple gives in on right-to-repair](https://www.computerworld.com/article/3641328/apple-gives-in-on-right-to-repair.html#tk.rss_all)
+- [FileMaker Pro now supports Siri Shortcuts on Mac, iPhone, iPad](https://www.computerworld.com/article/3640407/filemaker-pro-now-supports-siri-shortcuts-on-mac-iphone-ipad.html#tk.rss_all)
+- [A 20-second tweak for smarter, simpler Android security](https://www.computerworld.com/article/3640544/android-security.html#tk.rss_all)
+- [Windows 10 21H2, the bashful one, arrives](https://www.computerworld.com/article/3640972/windows-10-21h2-the-bashful-one-arrives.html#tk.rss_all)
 - [Microsoft releases its Windows 10 November 2021 update](https://www.computerworld.com/article/3640973/microsoft-releases-its-windows-10-november-2021-update.html#tk.rss_all)
 - [With latest Safari preview release, Apple tweaks Pro Motion scrolling issue](https://www.computerworld.com/article/3640913/with-latest-safari-preview-release-apple-tweaks-pro-motion-scrolling-issue.html#tk.rss_all)
 - [Slack moves to extend in-app workflow automation](https://www.computerworld.com/article/3640948/slack-moves-to-extend-in-app-workflow-automation.html#tk.rss_all)
 - [What next for HomeKit — into the office or factory floor?](https://www.computerworld.com/article/3640627/what-next-for-homekit-into-the-office-or-factory-floor.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Stop looking over my shoulder!](https://www.computerworld.com/article/3640714/stop-looking-over-my-shoulder.html#tk.rss_all)
-- [Recent Windows 11 Insider build looks to thwart Edge browser workarounds](https://www.computerworld.com/article/3640622/latest-windows-11-build-looks-to-force-edge-use-by-thwarting-browser-workarounds.html#tk.rss_all)
-- [Q&amp;A: Phil Libin on the future of work — and why an office return is a bad idea](https://www.computerworld.com/article/3640721/qa-phil-libin-on-the-future-of-work-and-why-an-office-return-is-a-bad-idea.html#tk.rss_all)
-- [This Made-for-iPad accessory can transform lives](https://www.computerworld.com/article/3640720/this-made-for-ipad-accessory-can-transform-lives.html#tk.rss_all)
-- [Store your corporate card on an iPhone? Uh-oh](https://www.computerworld.com/article/3640715/store-your-corporate-card-on-an-iphone-uh-oh.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

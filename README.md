@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tilt Typeface](https://github.com/andyclymer/Tilt-Typeface)
-- [Intel Fab Expansion in China Allegedly Discouraged by White House](https://www.tomshardware.com/news/intel-china-fab-expansion-nixed-by-white-house)
-- [The Migrant Workers Who Follow Climate Disasters](https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters)
-- [New Zealand vaccine passport specification](https://github.com/minhealthnz/nzcovidpass-spec)
-- [Product engineering teams avoid dependencies: the independent executor model](https://www.rubick.com/independent-executor-model/)
-- [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
-- [Tor Browser 11.0.1 - Search with Blockchair](https://blog.torproject.org/new-release-tor-browser-1101)
-- [Tesla Semi Sighting](https://electrek.co/2021/11/15/tesla-semi-quick-charge-megacharger-important-visit/)
-- [Wrangler 2.0 – A new developer experience for Cloudflare Workers](https://blog.cloudflare.com/wrangler-v2-beta/)
-- [Increasing Politicization and Homogeneity of NSF Grants](https://cspicenter.org/reports/increasing-politicization-and-homogeneity-in-scientific-funding-an-analysis-of-nsf-grants-1990-2020/)
+- [Ups will make deliveries using Waymo’s autonomous Class 8 trucks](https://www.theverge.com/2021/11/17/22787278/ups-waymo-autonomous-truck-freight-texas-deliveries)
+- [Blockchain and Crypto Online Courses](https://news.ycombinator.com/item?id=29261370)
+- [Blog: Math for Aspiring Data Scientists](https://online.datasciencedojo.com/blogs/math-for-machine-learning-math-for-aspiring-data-scientists)
+- [A communication tool for people with speech impairments](https://blog.google/outreach-initiatives/accessibility/project-relate/)
+- [A few thoughts on Ray Ozzie’s “Clear” Proposal &lpar;2018&rpar;](https://blog.cryptographyengineering.com/2018/04/26/a-few-thoughts-on-ray-ozzies-clear-proposal/)
+- [LinusTechTips creates product testing lab [video]](https://www.youtube.com/watch?v=pt3-6BsWlPk)
+- [Easy to Reuse Code vs. Code Designed for Reuse](https://redmonk.com/rstephens/2021/11/17/code-reuse/)
+- [Banks do not create money out of thin air](https://voxeu.org/article/banks-do-not-create-money-out-thin-air)
+- [Best Stargate SG-1 Episodes &lpar;2018&rpar;](https://www.denofgeek.com/tv/25-best-stargate-sg-1-episodes/)
+- [People have a right to be upset about inflation](https://noahpinion.substack.com/p/people-have-a-right-to-be-upset-about)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

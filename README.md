@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CIO Association of Canada to host fireside chat with BlackBerry’s John Chen](https://www.itworldcanada.com/article/cio-association-of-canada-to-host-fireside-chat-with-blackberrys-john-chen/465917)
+- [Mobile Applications Look Like the Future of Live Sports Entertainment](https://www.itworldcanada.com/article/mobile-applications-look-like-the-future-of-live-sports-entertainment/465755)
+- [Hashtag Trending Nov. 18 – Apple softens right to repair stance; FTC wants to make online subs easier to cancel; Amazon boots Visa](https://www.itworldcanada.com/article/hashtag-trending-nov-18-apple-softens-right-to-repair-stance-ftc-wants-to-make-online-subs-easier-to-cancel-amazon-boots-visa/465800)
 - [The little chip that could: Intel’s 4004 turns 50](https://www.itworldcanada.com/article/the-little-chip-that-could-intels-4004-turns-50/465740)
 - [Most organizations don’t understand third party cyber risks: survey](https://www.itworldcanada.com/article/most-organizations-dont-understand-third-party-cyber-risks-survey/465416)
 - [Ryerson launches new, hands-on innovation course](https://www.itworldcanada.com/article/ryerson-launches-new-hands-on-course/464928)
@@ -428,9 +431,6 @@
 - [Cyber Security Today, Nov. 17, 2021 – Ransomware gangs now buying zero-day vulnerabilities, a warning about vulnerable memory chips and the Emotet gang is back](https://www.itworldcanada.com/article/cyber-security-today-nov-17-2021-ransomware-gangs-now-buying-zero-day-vulnerabilities-a-warning-about-vulnerable-memory-chips-and-the-emotet-gang-is-back/465503)
 - [Hashtag trending Nov. 17 – Amazon fined; homebuyers keen on internet; U.S. government rejects making chips in China](https://www.itworldcanada.com/article/hashtag-trending-nov-17-amazon-fined-homebuyers-keen-on-internet-u-s-government-rejects-making-chips-in-china/465640)
 - [OpenText to move all its datacentres and datacentre partners to hydroelectric power by 2040](https://www.itworldcanada.com/article/opentext-to-move-all-its-datacentres-and-datacentre-partners-to-hydroelectric-power-by-2040/465443)
-- [Coffee Briefing, Nov. 16, 2021 – Square Marketing comes to Canada; alliance to increase academic diversity in Canada; initiatives to support Canadian SMBs; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-16-2021-square-marketing-comes-to-canada-alliance-to-increase-academic-diversity-in-canada-initiatives-to-support-canadian-smbs-and-more/465382)
-- [Randori defends delay of months in notifying vendor of serious vulnerabilities](https://www.itworldcanada.com/article/randori-defends-delay-of-months-in-notifying-vendor-of-serious-vulnerabilities/465008)
-- [Canadian Telecom Summit: ‘Complexity is the enemy of security and the opportunity for cybercrime’](https://www.itworldcanada.com/article/canadian-telecom-summit-complexity-is-the-enemy-of-security-and-the-opportunity-for-cybercrime/465395)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

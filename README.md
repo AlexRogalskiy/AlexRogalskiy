@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pacific north-west floods latest: Canada’s Trudeau deploys air force to ‘terrifically bad situation’ – live](https://www.theguardian.com/world/live/2021/nov/17/canada-floods-vancouver-british-columbia-weather-pacific-north-west-latest-updates)
-- [Meghan Markle gives surprise interview with Ellen DeGeneres](https://www.theguardian.com/uk-news/2021/nov/18/meghan-markle-gives-surprise-interview-with-ellen-degeneres)
-- [‘Blood micromoon’: New Zealand to enjoy partial lunar eclipse not seen for 800 years](https://www.theguardian.com/world/2021/nov/18/blood-micromoon-new-zealand-to-enjoy-partial-lunar-eclipse-not-seen-for-800-years)
-- [Mask-wearing cuts Covid incidence by 53%, says global study](https://www.theguardian.com/world/2021/nov/17/wearing-masks-single-most-effective-way-to-tackle-covid-study-finds)
-- [Poorer nations still lack access to world’s key antibiotics](https://www.theguardian.com/business/2021/nov/18/poorer-nations-still-lack-access-to-worlds-key-antibiotics)
-- [New HIV jabs taken two months apart hailed as huge step forward](https://www.theguardian.com/society/2021/nov/18/new-hiv-jabs-taken-two-months-apart-hailed-as-huge-step-forward)
-- [Covid Delta variant offshoot ‘less likely’ to cause symptoms](https://www.theguardian.com/world/2021/nov/18/covid-delta-variant-offshoot-less-likely-to-cause-symptoms)
-- [Average pay deal in Britain worth just 2%, data shows](https://www.theguardian.com/business/2021/nov/18/average-pay-deal-britain)
-- [Rangers close to naming Giovanni van Bronckhorst as Gerrard’s successor](https://www.theguardian.com/football/2021/nov/17/rangers-close-to-naming-giovanni-van-bronckhorst-as-gerrards-successor)
-- [Ebony Rainford-Brent reveals horrific racist abuse received in hate letter](https://www.theguardian.com/sport/2021/nov/17/ebony-rainford-brent-reveals-horrific-racist-abuse-received-in-hate-letter)
+- [Canada storm: floods could lead to country-wide shortages as air force deployed to British Columbia – live](https://www.theguardian.com/world/live/2021/nov/18/canada-storm-vancouver-air-force-arrives-to-help-residents-in-british-columbia-live)
+- [Uganda police kill five men after suicide bombings, including Muslim cleric](https://www.theguardian.com/world/2021/nov/19/uganda-police-kill-five-men-after-suicide-bombings-including-muslim-cleric)
+- [Alex Hales pictured in blackface as English cricket handed a new blow](https://www.theguardian.com/sport/2021/nov/18/english-cricket-nuclear-option-regulator-sports-minister-racism)
+- [Cathay Pacific sacks three pilots for catching Covid on layover](https://www.theguardian.com/world/2021/nov/19/cathay-pacific-sacks-three-pilots-for-getting-infected-with-covid-on-layover)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/nov/19/premier-league-10-things-to-look-out-for-this-weekend)
+- [Vulnerable children unable to access help due to austerity, says inquiry](https://www.theguardian.com/society/2021/nov/19/vulnerable-children-unable-to-access-help-due-to-austerity-says-inquiry)
+- [Hamas to be declared terrorist organisation and supporting it unlawful](https://www.theguardian.com/world/2021/nov/19/hamas-to-be-declared-terrorist-organisation-and-supporting-it-unlawful)
+- [Deforestation in Brazil’s Amazon at highest level since 2006](https://www.theguardian.com/environment/2021/nov/18/deforestation-in-brazils-amazon-rises-by-more-than-a-fifth-in-a-year)
+- [Man’s severe migraines ‘completely eliminated’ on plant-based diet](https://www.theguardian.com/science/2021/nov/18/mans-severe-migraines-completely-eliminated-on-plant-based-diet)
+- [Dissent, threats and fury: mood darkens in New Zealand as Covid restrictions bite](https://www.theguardian.com/world/2021/nov/19/dissent-threats-and-fury-mood-darkens-in-new-zealand-as-covid-restrictions-bite)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

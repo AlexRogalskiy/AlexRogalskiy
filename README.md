@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Harness Your Heritage: Building an IT Future on Past Success](https://www.informationweek.com/strategic-cio/harness-your-heritage-building-an-it-future-on-past-success)
+- [Why a Low-Code Development Recipe Worked for Pampered Chef](https://www.informationweek.com/devops/why-a-low-code-development-recipe-worked-for-pampered-chef)
+- [How Automation is Changing Entry-Level Career Paths in IT](https://www.informationweek.com/big-data/how-automation-is-changing-entry-level-career-paths-in-it)
 - [Data Analytics Can Fix the Supply Chain. Eventually](https://www.informationweek.com/big-data/data-analytics-can-fix-the-supply-chain-eventually)
 - [The Deep Skills Every Network Manager Should Possess](https://www.informationweek.com/strategic-cio/the-deep-skills-every-network-manager-should-possess)
 - [The Future of Privacy: What IT Leaders Need to Know](https://www.informationweek.com/big-data/the-future-of-privacy-what-it-leaders-need-to-know)
@@ -368,9 +371,6 @@
 - [Gauging Cybersecurity Resiliency and Why It Matters](https://www.informationweek.com/security-and-risk-strategy/gauging-cybersecurity-resiliency-and-why-it-matters)
 - [What is Customer Identity and Access Management &lpar;CIAM&rpar;?](https://www.informationweek.com/security-and-risk-strategy/ciam-101-what-is-customer-identity-and-access-management-)
 - [A CIO&#39;s Introduction to the Metaverse](https://www.informationweek.com/strategic-cio/a-cio-s-introduction-to-the-metaverse)
-- [Data Center TCO Factors You Can’t Afford to Overlook](https://www.informationweek.com/strategic-cio/data-center-tco-factors-you-can-t-afford-to-overlook)
-- [3 Components CIOs Need to Create an Ethical AI Framework](https://www.informationweek.com/ai-or-machine-learning/3-components-cios-need-to-create-an-ethical-ai-framework)
-- [Cryptocurrency&#39;s Climate Impact: What&#39;s Really Being Done About It?](https://www.informationweek.com/fintech/cryptocurrencys-climate-impact-whats-really-being-done-about-it-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

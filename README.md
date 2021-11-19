@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Supply chain issues affect tech buying; Apple to launch its Self Service Repair program](https://www.computerworld.com/article/3641214/podcast-supply-chain-issues-affect-tech-buying-and-apple-will-launch-its-self-service-repair-progra.html#tk.rss_all)
+- [Now that Apple offers right to repair, what will you do?](https://www.computerworld.com/article/3641211/now-that-apple-offers-right-to-repair-what-will-you-do.html#tk.rss_all)
+- [4 big ways to put Zoom apps to work](https://www.computerworld.com/article/3640391/4-big-ways-to-put-zoom-apps-to-work.html#tk.rss_all)
+- [Latest Android security hole shows why IT should consider a mobile app allow list](https://www.computerworld.com/article/3640516/latest-android-security-hole-means-it-should-consider-a-mobile-whitelist.html#tk.rss_all)
 - [Apple gives in on right-to-repair](https://www.computerworld.com/article/3641328/apple-gives-in-on-right-to-repair.html#tk.rss_all)
 - [FileMaker Pro now supports Siri Shortcuts on Mac, iPhone, iPad](https://www.computerworld.com/article/3640407/filemaker-pro-now-supports-siri-shortcuts-on-mac-iphone-ipad.html#tk.rss_all)
 - [A 20-second tweak for smarter, simpler Android security](https://www.computerworld.com/article/3640544/android-security.html#tk.rss_all)
 - [Windows 10 21H2, the bashful one, arrives](https://www.computerworld.com/article/3640972/windows-10-21h2-the-bashful-one-arrives.html#tk.rss_all)
 - [Microsoft releases its Windows 10 November 2021 update](https://www.computerworld.com/article/3640973/microsoft-releases-its-windows-10-november-2021-update.html#tk.rss_all)
-- [With latest Safari preview release, Apple tweaks Pro Motion scrolling issue](https://www.computerworld.com/article/3640913/with-latest-safari-preview-release-apple-tweaks-pro-motion-scrolling-issue.html#tk.rss_all)
-- [Slack moves to extend in-app workflow automation](https://www.computerworld.com/article/3640948/slack-moves-to-extend-in-app-workflow-automation.html#tk.rss_all)
-- [What next for HomeKit — into the office or factory floor?](https://www.computerworld.com/article/3640627/what-next-for-homekit-into-the-office-or-factory-floor.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Stop looking over my shoulder!](https://www.computerworld.com/article/3640714/stop-looking-over-my-shoulder.html#tk.rss_all)
+- [With latest Safari preview release, Apple tweaks ProMotion scrolling issue](https://www.computerworld.com/article/3640913/with-latest-safari-preview-release-apple-tweaks-promotion-scrolling-issue.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

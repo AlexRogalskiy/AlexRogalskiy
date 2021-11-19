@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How Axa drives digitisation forward](https://www.computerweekly.com/news/252509700/How-Axa-drives-digitisation-forward)
+- [Government to legislate to make APP fraud reimbursement mandatory](https://www.computerweekly.com/news/252509701/Government-to-legislate-to-make-APP-fraud-reimbursement-mandatory)
+- [Memento ransomware gang quick to retool for ‘optimum’ outcome](https://www.computerweekly.com/news/252509698/Memento-ransomware-gang-quick-to-retool-for-optimum-outcome)
+- [Alert over spate of Iran-linked BitLocker attacks](https://www.computerweekly.com/news/252509689/Alert-over-spate-of-Iran-linked-BitLocker-attacks)
+- [Sky ECC provided free cryptophones to a Canadian police force](https://www.computerweekly.com/news/252509553/Sky-ECC-provided-free-cryptophones-to-Canadian-police-force)
+- [Six more former subpostmasters have convictions overturned](https://www.computerweekly.com/news/252509696/Six-more-former-subpostmasters-have-convictions-overturned)
+- [Cryptophone supplier Sky Global takes legal action over US government website seizures](https://www.computerweekly.com/news/252509539/Cryptophone-supplier-Sky-Global-takes-legal-action-over-US-government-website-seizures)
+- [AstraZeneca looks at the bigger picture in enterprise social media](https://www.computerweekly.com/news/252509639/AstraZeneca-looks-at-the-bigger-picture-in-enterprise-social-media)
 - [Security startups line up on Cyber Runway](https://www.computerweekly.com/news/252509630/108-security-startups-line-up-on-Cyber-Runway)
 - [Zero-days: The next element of the service-based cyber economy?](https://www.computerweekly.com/news/252509634/Zero-days-The-next-element-of-the-service-based-cyber-economy)
-- [HMRC should boost data analytics capability, says NAO report](https://www.computerweekly.com/news/252509631/HMRC-should-boost-data-analytics-capability-says-NAO-report)
-- [Out of the shadows: The rise of ethical hackers in 2021](https://www.computerweekly.com/news/252509626/Out-of-the-shadows-The-rise-of-ethical-hackers-in-2021)
-- [Average size of hyperscale datacentres is on the rise](https://www.computerweekly.com/news/252509624/Average-size-of-hyperscale-datacentres-is-on-the-rise)
-- [Amazon to stop accepting Visa credit cards in UK due to high fees](https://www.computerweekly.com/news/252509622/Amazon-to-stop-accepting-Visa-credit-cards-in-UK-due-to-high-fees)
-- [Cloud repatriation: Five reasons to repatriate data from cloud](https://www.computerweekly.com/feature/Cloud-repatriation-Five-reasons-to-repatriate-data-from-cloud)
-- [ONS data points to rise in UK tech employment for women](https://www.computerweekly.com/news/252509611/ONS-data-points-to-rise-in-UK-tech-employment-for-women)
-- [Post Office agrees to share privileged legal information with Horizon scandal inquiry](https://www.computerweekly.com/news/252509618/Post-Office-agrees-to-share-privileged-legal-information-with-Horizon-scandal-inquiry)
-- [COP26: Lord Maude on using open source to help fight against climate change](https://www.computerweekly.com/news/252509566/COP26-Lord-Maude-on-how-open-source-could-help-in-the-fight-against-climate-change)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ups will make deliveries using Waymo’s autonomous Class 8 trucks](https://www.theverge.com/2021/11/17/22787278/ups-waymo-autonomous-truck-freight-texas-deliveries)
-- [Blockchain and Crypto Online Courses](https://news.ycombinator.com/item?id=29261370)
-- [Blog: Math for Aspiring Data Scientists](https://online.datasciencedojo.com/blogs/math-for-machine-learning-math-for-aspiring-data-scientists)
-- [A communication tool for people with speech impairments](https://blog.google/outreach-initiatives/accessibility/project-relate/)
-- [A few thoughts on Ray Ozzie’s “Clear” Proposal &lpar;2018&rpar;](https://blog.cryptographyengineering.com/2018/04/26/a-few-thoughts-on-ray-ozzies-clear-proposal/)
-- [LinusTechTips creates product testing lab [video]](https://www.youtube.com/watch?v=pt3-6BsWlPk)
-- [Easy to Reuse Code vs. Code Designed for Reuse](https://redmonk.com/rstephens/2021/11/17/code-reuse/)
-- [Banks do not create money out of thin air](https://voxeu.org/article/banks-do-not-create-money-out-thin-air)
-- [Best Stargate SG-1 Episodes &lpar;2018&rpar;](https://www.denofgeek.com/tv/25-best-stargate-sg-1-episodes/)
-- [People have a right to be upset about inflation](https://noahpinion.substack.com/p/people-have-a-right-to-be-upset-about)
+- [Ask HN: Why do you need Anti-Bot?](https://news.ycombinator.com/item?id=29273092)
+- [What Happened at the Millennium Tower?](https://www.youtube.com/watch?v=ph9O9yJoeZY)
+- [Kurt Vonnegut&#39;s 1988 Letter to the Future More Relevant Today](https://www.ecowatch.com/kurt-vonnegut-letter-to-the-future-kick-kennedy-1935826979.html)
+- [The Russiagate Whitewash Era Begins](https://taibbi.substack.com/p/the-russiagate-whitewash-era-begins)
+- [Quora Revenue Sharing](https://www.quora.com/)
+- [Ask HN: Best resources to understand cryptocurrencies/blockchain technologies?](https://news.ycombinator.com/item?id=29273006)
+- [Fresh look at Covid origin points to food market in Wuhan, scientist says](https://www.cnn.com/2021/11/18/health/covid-origins-market-theory/index.html)
+- [&#39;Crypto&#39; Means Cryptocurrency. We Lost the War, and It&#39;s OK](https://www.vice.com/en/article/k7w8bv/crypto-means-cryptocurrency-we-lost-the-war-and-its-ok)
+- [Lean ICT: Towards Digital Sobriety &lpar;2019&rpar;](https://theshiftproject.org/en/article/lean-ict-our-new-report/)
+- [New way to detect coronavirus through building ventilation systems](https://www.sciencedaily.com/releases/2021/11/211110131659.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

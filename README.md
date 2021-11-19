@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dask – a flexible library for parallel computing in Python](https://dask.org/)
-- [Microsoft gaming chief calls for industry-wide game preservation](https://www.axios.com/microsoft-old-games-preserve-emulation-748793a7-f559-4933-babf-81f34adc7cf6.html)
-- [Most who want simple ‘bonsai’ trees are ill-served by traditional bonsai methods](https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of)
-- [A Busy Beaver champion derived from scratch](https://nickdrozd.github.io/2021/10/31/busy-beaver-derived.html)
-- [TPM Sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
-- [Fuzzbuzz &lpar;YC W19&rpar; Is Hiring a Security Dev Advocate, Full Stack/Back End Eng](https://angel.co/company/fuzzbuzz/jobs)
-- [Daddy isn’t coming back](https://www.ft.com/content/062b5655-28b3-4bf8-9629-c3eac803c3f3)
-- [Three sins of authors in computer science and math &lpar;1997&rpar;](https://www.cs.cmu.edu/~jrs/sins.html)
-- [XMPP, a comeback story](https://takebackourtech.org/xmpp-comeback/)
-- [The Bug in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html)
+- [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
+- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/)
+- [HomeBrew Computers Web-Ring](https://www.homebrewcpuring.org/)
+- [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
+- [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
+- [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
+- [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
+- [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/)
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://www.usemotion.com/careers)
+- [Solar-driven water splitting at 13.8% solar-to-hydrogen efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

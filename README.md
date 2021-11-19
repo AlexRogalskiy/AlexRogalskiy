@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Offers](https://www.reddit.com/r/InformationTechnology/comments/qx4u9o/offers/)
+- [I have a job interview!](https://www.reddit.com/r/InformationTechnology/comments/qx2h2y/i_have_a_job_interview/)
+- [Need your opinions and advices](https://www.reddit.com/r/InformationTechnology/comments/qwt9w1/need_your_opinions_and_advices/)
+- [Can I get some Love Reddit IT People- New hire IT Training from an IT Manager &lpar;I feel cringy hitting enter lol&rpar;](https://www.reddit.com/r/InformationTechnology/comments/qws15l/can_i_get_some_love_reddit_it_people_new_hire_it/)
 - [Common Captive Portals? Exceptions to add to firewalls &amp; network endpoints](https://www.reddit.com/r/InformationTechnology/comments/qw8a9a/common_captive_portals_exceptions_to_add_to/)
 - [Would you please share your opinions on my resume? Am applying to an IT internship position at Proctor and Gamble. Go easy on me please, ive never had to make a resume](https://www.reddit.com/r/InformationTechnology/comments/qvn628/would_you_please_share_your_opinions_on_my_resume/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/qvk327/needed_it_decision_makers_research_opportunity/)
 - [Signature style](https://www.reddit.com/r/InformationTechnology/comments/qv0jvk/signature_style/)
 - [IT Survey- Very Brief](https://www.reddit.com/r/InformationTechnology/comments/quunpr/it_survey_very_brief/)
 - [How to Block Specific Youtube Channels on Router](https://www.reddit.com/r/InformationTechnology/comments/qukrzx/how_to_block_specific_youtube_channels_on_router/)
-- [Need Encouragement](https://www.reddit.com/r/InformationTechnology/comments/qu57w0/need_encouragement/)
-- [Why are there different looks of wall sockets/electrical extension](https://www.reddit.com/r/InformationTechnology/comments/qtndh6/why_are_there_different_looks_of_wall/)
-- [How do you ideally store and retrieve information of software product keys?](https://www.reddit.com/r/InformationTechnology/comments/qtcb7b/how_do_you_ideally_store_and_retrieve_information/)
-- [Do you consider AV to fall under the IT field?](https://www.reddit.com/r/InformationTechnology/comments/qsw5q8/do_you_consider_av_to_fall_under_the_it_field/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

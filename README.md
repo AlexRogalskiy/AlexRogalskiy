@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [A quick guide to modern cryptography](https://www.infoworld.com/article/3641388/a-quick-guide-to-modern-cryptography.html#tk.rss_all)
+- [TypeScript 4.5 arrives with Promise improvements](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_all)
+- [Overhauling Apache Kylin for the cloud](https://www.infoworld.com/article/3639516/overhauling-apache-kylin-for-the-cloud.html#tk.rss_all)
 - [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
 - [Java could get virtual threads](https://www.infoworld.com/article/3641288/java-could-get-virtual-threads.html#tk.rss_all)
 - [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [The race to secure Kubernetes at run time](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html#tk.rss_all)
 - [The SaaS-ification movement explained](https://www.infoworld.com/article/3640719/the-saas-ification-movement-explained.html#tk.rss_all)
 - [Kotlin roadmap points to compiler, mobile improvements](https://www.infoworld.com/article/3640580/kotlin-roadmap-points-to-compiler-mobile-improvements.html#tk.rss_all)
-- [Docker really did change the world](https://www.infoworld.com/article/3639596/docker-really-did-change-the-world.html#tk.rss_all)
-- [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
-- [Elastic keeps ticking](https://www.infoworld.com/article/3640617/elastic-keeps-ticking.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tips for Contract work](https://www.reddit.com/r/InformationTechnology/comments/qxe449/tips_for_contract_work/)
+- [Help with awful hacker movie](https://www.reddit.com/r/InformationTechnology/comments/qxcvei/help_with_awful_hacker_movie/)
+- [Future career if i take this SQA Analyst / Field test job?](https://www.reddit.com/r/InformationTechnology/comments/qx84ur/future_career_if_i_take_this_sqa_analyst_field/)
 - [Offers](https://www.reddit.com/r/InformationTechnology/comments/qx4u9o/offers/)
 - [I have a job interview!](https://www.reddit.com/r/InformationTechnology/comments/qx2h2y/i_have_a_job_interview/)
 - [Need your opinions and advices](https://www.reddit.com/r/InformationTechnology/comments/qwt9w1/need_your_opinions_and_advices/)
@@ -413,9 +416,6 @@
 - [Common Captive Portals? Exceptions to add to firewalls &amp; network endpoints](https://www.reddit.com/r/InformationTechnology/comments/qw8a9a/common_captive_portals_exceptions_to_add_to/)
 - [Would you please share your opinions on my resume? Am applying to an IT internship position at Proctor and Gamble. Go easy on me please, ive never had to make a resume](https://www.reddit.com/r/InformationTechnology/comments/qvn628/would_you_please_share_your_opinions_on_my_resume/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/qvk327/needed_it_decision_makers_research_opportunity/)
-- [Signature style](https://www.reddit.com/r/InformationTechnology/comments/qv0jvk/signature_style/)
-- [IT Survey- Very Brief](https://www.reddit.com/r/InformationTechnology/comments/quunpr/it_survey_very_brief/)
-- [How to Block Specific Youtube Channels on Router](https://www.reddit.com/r/InformationTechnology/comments/qukrzx/how_to_block_specific_youtube_channels_on_router/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

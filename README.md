@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [These are the top skills IT professionals need to succeed](https://www.itworldcanada.com/article/these-are-the-top-skills-it-professionals-need-to-succeed/466170)
+- [Cyber Security Today, Week in Review for Nov. 19, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-nov-19-2021/465949)
+- [OpenText World 2021: Lessons learned from incident responders](https://www.itworldcanada.com/article/opentext-world-2021-lessons-learned-from-incident-responders/466039)
+- [Cyber Security Today, Nov. 19, 2021 – Warning for FatPipe administrators, BIOS alert for Intel processors and new website malware found](https://www.itworldcanada.com/article/cyber-security-today-nov-19-2021-warning-for-fatpipe-administrators-bios-alert-for-intel-processors-and-new-website-malware-found/465983)
+- [Hashtag Trending Nov. 19- YouTube faces criticism for dislike count update; Canadian teen involved in crypto scam; Starbucks and Amazon team up](https://www.itworldcanada.com/article/hashtag-trending-nov-19-youtube-faces-criticism-for-dislike-count-update-canadian-teen-involved-in-crypto-scam-starbucks-and-amazon-team-up/466085)
 - [CIO Association of Canada to host fireside chat with BlackBerry’s John Chen](https://www.itworldcanada.com/article/cio-association-of-canada-to-host-fireside-chat-with-blackberrys-john-chen/465917)
 - [Mobile Applications Look Like the Future of Live Sports Entertainment](https://www.itworldcanada.com/article/mobile-applications-look-like-the-future-of-live-sports-entertainment/465755)
 - [Hashtag Trending Nov. 18 – Apple softens right to repair stance; FTC wants to make online subs easier to cancel; Amazon boots Visa](https://www.itworldcanada.com/article/hashtag-trending-nov-18-apple-softens-right-to-repair-stance-ftc-wants-to-make-online-subs-easier-to-cancel-amazon-boots-visa/465800)
 - [The little chip that could: Intel’s 4004 turns 50](https://www.itworldcanada.com/article/the-little-chip-that-could-intels-4004-turns-50/465740)
 - [Most organizations don’t understand third party cyber risks: survey](https://www.itworldcanada.com/article/most-organizations-dont-understand-third-party-cyber-risks-survey/465416)
-- [Ryerson launches new, hands-on innovation course](https://www.itworldcanada.com/article/ryerson-launches-new-hands-on-course/464928)
-- [Cloudli launches communication app for business texting and calling](https://www.itworldcanada.com/article/cloudli-launches-communication-app-for-business-texting-and-calling/465343)
-- [Cyber Security Today, Nov. 17, 2021 – Ransomware gangs now buying zero-day vulnerabilities, a warning about vulnerable memory chips and the Emotet gang is back](https://www.itworldcanada.com/article/cyber-security-today-nov-17-2021-ransomware-gangs-now-buying-zero-day-vulnerabilities-a-warning-about-vulnerable-memory-chips-and-the-emotet-gang-is-back/465503)
-- [Hashtag trending Nov. 17 – Amazon fined; homebuyers keen on internet; U.S. government rejects making chips in China](https://www.itworldcanada.com/article/hashtag-trending-nov-17-amazon-fined-homebuyers-keen-on-internet-u-s-government-rejects-making-chips-in-china/465640)
-- [OpenText to move all its datacentres and datacentre partners to hydroelectric power by 2040](https://www.itworldcanada.com/article/opentext-to-move-all-its-datacentres-and-datacentre-partners-to-hydroelectric-power-by-2040/465443)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

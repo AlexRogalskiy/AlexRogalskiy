@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why do you need Anti-Bot?](https://news.ycombinator.com/item?id=29273092)
-- [What Happened at the Millennium Tower?](https://www.youtube.com/watch?v=ph9O9yJoeZY)
-- [Kurt Vonnegut&#39;s 1988 Letter to the Future More Relevant Today](https://www.ecowatch.com/kurt-vonnegut-letter-to-the-future-kick-kennedy-1935826979.html)
-- [The Russiagate Whitewash Era Begins](https://taibbi.substack.com/p/the-russiagate-whitewash-era-begins)
-- [Quora Revenue Sharing](https://www.quora.com/)
-- [Ask HN: Best resources to understand cryptocurrencies/blockchain technologies?](https://news.ycombinator.com/item?id=29273006)
-- [Fresh look at Covid origin points to food market in Wuhan, scientist says](https://www.cnn.com/2021/11/18/health/covid-origins-market-theory/index.html)
-- [&#39;Crypto&#39; Means Cryptocurrency. We Lost the War, and It&#39;s OK](https://www.vice.com/en/article/k7w8bv/crypto-means-cryptocurrency-we-lost-the-war-and-its-ok)
-- [Lean ICT: Towards Digital Sobriety &lpar;2019&rpar;](https://theshiftproject.org/en/article/lean-ict-our-new-report/)
-- [New way to detect coronavirus through building ventilation systems](https://www.sciencedaily.com/releases/2021/11/211110131659.htm)
+- [Florida court could reveal true identity of Bitcoin creator Satoshi Nakamoto](https://www.independent.co.uk/news/world/americas/bitcoin-satoshi-nakamoto-creator-florida-b1958346.html)
+- [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
+- [Show HN: A battery-included BGP/MRT/BMP data parser written in Rust](https://github.com/bgpkit/bgpkit-parser)
+- [Indigenous Recipes to Try for Thanksgiving](https://www.atlasobscura.com/articles/indigenous-recipes-to-try-for-thanksgiving)
+- [Google Public DNS is down](https://dns.google)
+- [Paul Graham reveals Lambda School 2020 job placement results](https://twitter.com/paulg/status/1460573796080013318)
+- [Jenkins X Cloud Native CI/CD with TestProject](https://collabnix.com/jenkins-x-cloud-native-ci-cd-with-testproject/)
+- [Payments in Japan](https://bam.kalzumeus.com/archive/payments-in-japan/)
+- [Hannah Arendt Award Laureates](https://en.wikipedia.org/wiki/Hannah_Arendt_Award)
+- [Brain implants could be the next computer mouse](https://www.technologyreview.com/2021/10/27/1036821/brain-computer-interface-implant-mouse/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

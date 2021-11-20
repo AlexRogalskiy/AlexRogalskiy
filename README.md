@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canada storm: floods could lead to country-wide shortages as air force deployed to British Columbia – live](https://www.theguardian.com/world/live/2021/nov/18/canada-storm-vancouver-air-force-arrives-to-help-residents-in-british-columbia-live)
-- [Uganda police kill five men after suicide bombings, including Muslim cleric](https://www.theguardian.com/world/2021/nov/19/uganda-police-kill-five-men-after-suicide-bombings-including-muslim-cleric)
-- [Alex Hales pictured in blackface as English cricket handed a new blow](https://www.theguardian.com/sport/2021/nov/18/english-cricket-nuclear-option-regulator-sports-minister-racism)
-- [Cathay Pacific sacks three pilots for catching Covid on layover](https://www.theguardian.com/world/2021/nov/19/cathay-pacific-sacks-three-pilots-for-getting-infected-with-covid-on-layover)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/nov/19/premier-league-10-things-to-look-out-for-this-weekend)
-- [Vulnerable children unable to access help due to austerity, says inquiry](https://www.theguardian.com/society/2021/nov/19/vulnerable-children-unable-to-access-help-due-to-austerity-says-inquiry)
-- [Hamas to be declared terrorist organisation and supporting it unlawful](https://www.theguardian.com/world/2021/nov/19/hamas-to-be-declared-terrorist-organisation-and-supporting-it-unlawful)
-- [Deforestation in Brazil’s Amazon at highest level since 2006](https://www.theguardian.com/environment/2021/nov/18/deforestation-in-brazils-amazon-rises-by-more-than-a-fifth-in-a-year)
-- [Man’s severe migraines ‘completely eliminated’ on plant-based diet](https://www.theguardian.com/science/2021/nov/18/mans-severe-migraines-completely-eliminated-on-plant-based-diet)
-- [Dissent, threats and fury: mood darkens in New Zealand as Covid restrictions bite](https://www.theguardian.com/world/2021/nov/19/dissent-threats-and-fury-mood-darkens-in-new-zealand-as-covid-restrictions-bite)
+- [Elizabeth Holmes trial: Theranos founder takes stand in her own defense](https://www.theguardian.com/technology/2021/nov/19/elizabeth-holmes-trial-prosecution-rests)
+- [Australian Open rules Novak Djokovic and all other players must be vaccinated against Covid to play](https://www.theguardian.com/sport/2021/nov/20/australian-open-rules-novak-djokovic-and-all-other-players-must-be-vaccinated-against-covid-to-play)
+- [Yes, Cop26 could have gone further – but it still brought us closer to a 1.5C world | James Shaw](https://www.theguardian.com/world/commentisfree/2021/nov/20/yes-cop26-could-have-gone-further-but-it-still-brought-us-closer-to-a-15c-world)
+- [UN and White House call on China to give proof of Peng Shuai’s whereabouts](https://www.theguardian.com/world/2021/nov/19/peng-shuai-wta-prepared-to-pull-out-of-china-over-tennis-stars-disappearance)
+- [Paul Dacre pulls out of running to be next Ofcom chair](https://www.theguardian.com/media/2021/nov/19/paul-dacre-pulls-out-of-running-next-ofcom-chair)
+- [Rotterdam police open fire as Covid protest turns violent](https://www.theguardian.com/world/2021/nov/19/the-netherlands-rotterdam-police-open-fire-as-covid-protest-turns-violent)
+- [‘Indiana’s new power couple’: Biden pardons Thanksgiving turkeys Peanut Butter and Jelly](https://www.theguardian.com/us-news/2021/nov/19/biden-pardons-thanksgiving-turkeys-peanut-butter-jelly)
+- [Omar Souleyman: singer held by Turkey over alleged militant links is freed](https://www.theguardian.com/world/2021/nov/19/singer-omar-souleyman-held-by-turkey-over-alleged-militant-links-is-freed)
+- [Kyle Rittenhouse verdict declares open hunting season on progressive protesters | Cas Mudde](https://www.theguardian.com/us-news/commentisfree/2021/nov/19/kyle-rittenhouse-verdict-acquitted-protest)
+- [Early starts and a personal touch: what it’s like to play for Eddie Howe](https://www.theguardian.com/football/2021/nov/19/early-starts-and-a-personal-touch-what-its-like-to-play-for-eddie-howe-newcastle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

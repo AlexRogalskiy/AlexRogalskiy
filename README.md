@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [8 Tips for Creating a Cybersecurity Culture](https://www.informationweek.com/it-life/8-tips-for-creating-a-cybersecurity-culture)
+- [The New Normal is Insecure by Default](https://www.informationweek.com/security-and-risk-strategy/the-new-normal-is-insecure-by-default)
+- [Pitfalls to Avoid When Setting Up a DevOps Center of Excellence](https://www.informationweek.com/devops/pitfalls-to-avoid-when-setting-up-a-devops-center-of-excellence)
 - [Harness Your Heritage: Building an IT Future on Past Success](https://www.informationweek.com/strategic-cio/harness-your-heritage-building-an-it-future-on-past-success)
 - [Why a Low-Code Development Recipe Worked for Pampered Chef](https://www.informationweek.com/devops/why-a-low-code-development-recipe-worked-for-pampered-chef)
 - [How Automation is Changing Entry-Level Career Paths in IT](https://www.informationweek.com/big-data/how-automation-is-changing-entry-level-career-paths-in-it)
@@ -368,9 +371,6 @@
 - [The Deep Skills Every Network Manager Should Possess](https://www.informationweek.com/strategic-cio/the-deep-skills-every-network-manager-should-possess)
 - [The Future of Privacy: What IT Leaders Need to Know](https://www.informationweek.com/big-data/the-future-of-privacy-what-it-leaders-need-to-know)
 - [Bringing Security up to the Speed of the Cloud](https://www.informationweek.com/security-and-privacy/bringing-security-up-to-the-speed-of-the-cloud)
-- [Gauging Cybersecurity Resiliency and Why It Matters](https://www.informationweek.com/security-and-risk-strategy/gauging-cybersecurity-resiliency-and-why-it-matters)
-- [What is Customer Identity and Access Management &lpar;CIAM&rpar;?](https://www.informationweek.com/security-and-risk-strategy/ciam-101-what-is-customer-identity-and-access-management-)
-- [A CIO&#39;s Introduction to the Metaverse](https://www.informationweek.com/strategic-cio/a-cio-s-introduction-to-the-metaverse)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

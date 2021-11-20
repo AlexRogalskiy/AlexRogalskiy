@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Security is the Achilles’ heel of multicloud](https://www.infoworld.com/article/3641331/the-achilles-heel-of-multicloud-security.html#tk.rss_all)
+- [Kotlin 1.6.0 debuts memory manager](https://www.infoworld.com/article/3641254/kotlin-160-debuts-memory-manager.html#tk.rss_all)
 - [A quick guide to modern cryptography](https://www.infoworld.com/article/3641388/a-quick-guide-to-modern-cryptography.html#tk.rss_all)
 - [TypeScript 4.5 arrives with Promise improvements](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_all)
 - [Overhauling Apache Kylin for the cloud](https://www.infoworld.com/article/3639516/overhauling-apache-kylin-for-the-cloud.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_all)
 - [Getting started with Azure Fluid Relay](https://www.infoworld.com/article/3640727/getting-started-with-azure-fluid-relay.html#tk.rss_all)
 - [The race to secure Kubernetes at run time](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html#tk.rss_all)
-- [The SaaS-ification movement explained](https://www.infoworld.com/article/3640719/the-saas-ification-movement-explained.html#tk.rss_all)
-- [Kotlin roadmap points to compiler, mobile improvements](https://www.infoworld.com/article/3640580/kotlin-roadmap-points-to-compiler-mobile-improvements.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

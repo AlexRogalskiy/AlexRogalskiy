@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
-- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/)
-- [HomeBrew Computers Web-Ring](https://www.homebrewcpuring.org/)
-- [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
-- [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
-- [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
-- [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
-- [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://www.usemotion.com/careers)
-- [Solar-driven water splitting at 13.8% solar-to-hydrogen efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Surely You&#39;re Joking, Comrade Beria](http://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
+- [The Origins of Raoul Duke](https://themillions.com/2021/11/the-origins-of-raoul-duke.html)
+- [Amazon Ion – a richly-typed, self-describing, hierarchical serialization format](https://amzn.github.io/ion-docs/)
+- [Show HN: WildCard, a retro Hypercard/HyperTalk simulator](https://hypervariety.com/WildCard/)
+- [Modern mainboard for traditional T60 ThinkPad](https://www.xyte.ch/t700-crowdfunding/)
+- [The ‘Zelle Fraud’ Scam: How It Works, How to Fight Back](https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/)
+- [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
+- [Renaissance Science – XXII: Land Surveying](https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/)
+- [How Metro Agencies Design the Letter &#39;M&#39;](https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

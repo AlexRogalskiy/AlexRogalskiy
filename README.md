@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Subpostmasters asked to withdraw support for Post Office scandal inquiry](https://www.computerweekly.com/news/252509817/Subpostmasters-asked-to-remove-support-for-Post-Office-scandal-inquiry)
+- [Why is Emotet back, and should we be worried about it?](https://www.computerweekly.com/news/252509771/Why-is-Emotet-back-and-should-we-be-worried-about-it)
+- [UK government announces safety tech challenge fund winners](https://www.computerweekly.com/news/252509763/UK-government-announces-safety-tech-challenge-fund-winners)
+- [Gaia-X founding member Scaleway exits project over misgivings about its future direction](https://www.computerweekly.com/news/252509766/Gaia-X-founding-member-Scaleway-exits-project-over-misgivings-about-its-future-direction)
+- [GCHQ, NSA chiefs recommit to counter cyber threats](https://www.computerweekly.com/news/252509762/GCHQ-NSA-chiefs-recommit-to-counter-cyber-threats)
 - [How Axa drives digitisation forward](https://www.computerweekly.com/news/252509700/How-Axa-drives-digitisation-forward)
 - [Government to legislate to make APP fraud reimbursement mandatory](https://www.computerweekly.com/news/252509701/Government-to-legislate-to-make-APP-fraud-reimbursement-mandatory)
 - [Memento ransomware gang quick to retool for ‘optimum’ outcome](https://www.computerweekly.com/news/252509698/Memento-ransomware-gang-quick-to-retool-for-optimum-outcome)
 - [Alert over spate of Iran-linked BitLocker attacks](https://www.computerweekly.com/news/252509689/Alert-over-spate-of-Iran-linked-BitLocker-attacks)
 - [Sky ECC provided free cryptophones to a Canadian police force](https://www.computerweekly.com/news/252509553/Sky-ECC-provided-free-cryptophones-to-Canadian-police-force)
-- [Six more former subpostmasters have convictions overturned](https://www.computerweekly.com/news/252509696/Six-more-former-subpostmasters-have-convictions-overturned)
-- [Cryptophone supplier Sky Global takes legal action over US government website seizures](https://www.computerweekly.com/news/252509539/Cryptophone-supplier-Sky-Global-takes-legal-action-over-US-government-website-seizures)
-- [AstraZeneca looks at the bigger picture in enterprise social media](https://www.computerweekly.com/news/252509639/AstraZeneca-looks-at-the-bigger-picture-in-enterprise-social-media)
-- [Security startups line up on Cyber Runway](https://www.computerweekly.com/news/252509630/108-security-startups-line-up-on-Cyber-Runway)
-- [Zero-days: The next element of the service-based cyber economy?](https://www.computerweekly.com/news/252509634/Zero-days-The-next-element-of-the-service-based-cyber-economy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

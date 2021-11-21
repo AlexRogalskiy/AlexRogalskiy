@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Florida court could reveal true identity of Bitcoin creator Satoshi Nakamoto](https://www.independent.co.uk/news/world/americas/bitcoin-satoshi-nakamoto-creator-florida-b1958346.html)
-- [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
-- [Show HN: A battery-included BGP/MRT/BMP data parser written in Rust](https://github.com/bgpkit/bgpkit-parser)
-- [Indigenous Recipes to Try for Thanksgiving](https://www.atlasobscura.com/articles/indigenous-recipes-to-try-for-thanksgiving)
-- [Google Public DNS is down](https://dns.google)
-- [Paul Graham reveals Lambda School 2020 job placement results](https://twitter.com/paulg/status/1460573796080013318)
-- [Jenkins X Cloud Native CI/CD with TestProject](https://collabnix.com/jenkins-x-cloud-native-ci-cd-with-testproject/)
-- [Payments in Japan](https://bam.kalzumeus.com/archive/payments-in-japan/)
-- [Hannah Arendt Award Laureates](https://en.wikipedia.org/wiki/Hannah_Arendt_Award)
-- [Brain implants could be the next computer mouse](https://www.technologyreview.com/2021/10/27/1036821/brain-computer-interface-implant-mouse/)
+- [The Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/)
+- [Practical Web dev tutorial: see changes and update code in the browser](https://efficient-dev.vercel.app/how-to-create-a-button)
+- [Minecraft Classic 0.30 that works in a web browser, with optional enhancements](https://www.classicube.net/server/play/?warned=true)
+- [Irreversibility and Heat Generation in the Computing Process &lpar;1961&rpar;](https://ieeexplore.ieee.org/document/5392446)
+- [The Ship&#39;s Captain Died at Sea. 6 Mos Later, His Body Was Still in the Freezer](https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406)
+- [California Pizza Kitchen Serves Up Employee SSNs in Data Breach](https://threatpost.com/california-pizza-kitchen-employee-ssns-data-breach/176478/)
+- [Australian Rhino Project Achieves Major Milestone](https://theaustralianrhinoproject.org/index.php/news/blogs/11-news-and-blogs/301-the-australian-rhino-project-achieves-major-milestone)
+- [Modeling Wealth Inequality: How the rich get richer and the poor get poorer [pdf]](https://cc.kzoo.edu/jant/aem.pdf)
+- [Across Europe, protests swell against pandemic restrictions](https://www.washingtonpost.com/world/europe/europe-protests-restrictions-rotterdam/2021/11/20/298d8f7c-4a14-11ec-beca-3cc7103bd814_story.html)
+- [Google is evil &lpar;dark UX pattern&rpar;](https://imgur.com/a/MQbeQWH)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

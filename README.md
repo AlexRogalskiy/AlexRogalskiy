@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elizabeth Holmes trial: Theranos founder takes stand in her own defense](https://www.theguardian.com/technology/2021/nov/19/elizabeth-holmes-trial-prosecution-rests)
-- [Australian Open rules Novak Djokovic and all other players must be vaccinated against Covid to play](https://www.theguardian.com/sport/2021/nov/20/australian-open-rules-novak-djokovic-and-all-other-players-must-be-vaccinated-against-covid-to-play)
-- [Yes, Cop26 could have gone further – but it still brought us closer to a 1.5C world | James Shaw](https://www.theguardian.com/world/commentisfree/2021/nov/20/yes-cop26-could-have-gone-further-but-it-still-brought-us-closer-to-a-15c-world)
-- [UN and White House call on China to give proof of Peng Shuai’s whereabouts](https://www.theguardian.com/world/2021/nov/19/peng-shuai-wta-prepared-to-pull-out-of-china-over-tennis-stars-disappearance)
-- [Paul Dacre pulls out of running to be next Ofcom chair](https://www.theguardian.com/media/2021/nov/19/paul-dacre-pulls-out-of-running-next-ofcom-chair)
-- [Rotterdam police open fire as Covid protest turns violent](https://www.theguardian.com/world/2021/nov/19/the-netherlands-rotterdam-police-open-fire-as-covid-protest-turns-violent)
-- [‘Indiana’s new power couple’: Biden pardons Thanksgiving turkeys Peanut Butter and Jelly](https://www.theguardian.com/us-news/2021/nov/19/biden-pardons-thanksgiving-turkeys-peanut-butter-jelly)
-- [Omar Souleyman: singer held by Turkey over alleged militant links is freed](https://www.theguardian.com/world/2021/nov/19/singer-omar-souleyman-held-by-turkey-over-alleged-militant-links-is-freed)
-- [Kyle Rittenhouse verdict declares open hunting season on progressive protesters | Cas Mudde](https://www.theguardian.com/us-news/commentisfree/2021/nov/19/kyle-rittenhouse-verdict-acquitted-protest)
-- [Early starts and a personal touch: what it’s like to play for Eddie Howe](https://www.theguardian.com/football/2021/nov/19/early-starts-and-a-personal-touch-what-its-like-to-play-for-eddie-howe-newcastle)
+- [Peng Shuai: fresh video emerges as China faces growing global condemnation](https://www.theguardian.com/sport/2021/nov/21/peng-shuai-fresh-video-emerges-as-china-faces-growing-global-condemnation)
+- [Four children, aged one to 10, die in Melbourne house fire](https://www.theguardian.com/australia-news/2021/nov/21/four-children-aged-one-to-10-die-in-melbourne-house-fire)
+- [Unusual bedfellows: how gangs are pushing New Zealand’s Covid vaccination drive](https://www.theguardian.com/world/2021/nov/21/unusual-bedfellows-how-gangs-are-pushing-new-zealands-covid-vaccination-drive)
+- [Manchester United board decide to sack Solskjær at emergency meeting](https://www.theguardian.com/football/2021/nov/20/ole-gunnar-solskjr-admits-united-players-are-in-a-terrible-place)
+- [Novak Djokovic ducks Australian Open questions after ATP Finals loss to Zverev](https://www.theguardian.com/sport/2021/nov/21/tennis-novak-djokovic-australian-open-questions-atp-finals-alexander-zverev)
+- [Man held on suspicion of murder after two people found dead near Preston](https://www.theguardian.com/uk-news/2021/nov/21/man-held-on-suspicion-of-after-two-people-found-dead-near-preston)
+- [Man arrested on suspicion of murder after 60-year-old dies in Manchester](https://www.theguardian.com/uk-news/2021/nov/21/man-arrested-on-suspicion-of-of-man-60-in-manchester)
+- [Candy collars: shopping guide to beaded jewellery](https://www.theguardian.com/fashion/gallery/2021/nov/20/candy-collars-shopping-guide-to-beaded-jewellery)
+- [France stand firm to seal first victory over New Zealand for 12 years](https://www.theguardian.com/sport/2021/nov/20/france-stand-firm-to-seal-first-victory-over-new-zealand-for-12-years)
+- [Dysfunctional Manchester United have bigger problems than just Solskjær | Jonathan Liew](https://www.theguardian.com/football/2021/nov/20/manchester-united-have-bigger-problems-than-just-solskjaer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

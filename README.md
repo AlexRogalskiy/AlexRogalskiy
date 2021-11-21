@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Surely You&#39;re Joking, Comrade Beria](http://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
-- [The Origins of Raoul Duke](https://themillions.com/2021/11/the-origins-of-raoul-duke.html)
-- [Amazon Ion – a richly-typed, self-describing, hierarchical serialization format](https://amzn.github.io/ion-docs/)
-- [Show HN: WildCard, a retro Hypercard/HyperTalk simulator](https://hypervariety.com/WildCard/)
-- [Modern mainboard for traditional T60 ThinkPad](https://www.xyte.ch/t700-crowdfunding/)
-- [The ‘Zelle Fraud’ Scam: How It Works, How to Fight Back](https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/)
-- [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
-- [Renaissance Science – XXII: Land Surveying](https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/)
-- [How Metro Agencies Design the Letter &#39;M&#39;](https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo)
+- [Mikroelektronik Karl Marx U552C](https://www.richis-lab.de/ROM03.htm)
+- [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
+- [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
+- [Five Myths About Building Billion-Dollar Startups](https://645ventures.com/top-five-myths-about-billion-dollar-companies/)
+- [WiFi Dabba, Inc. &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/wPQkG43-growth-head-wifi-dabba-inc)
+- [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
+- [Advent of Code 2021](https://adventofcode.com/2021)
+- [LLVM relicensing update and call for help](https://blog.llvm.org/posts/2021-11-18-relicensing-update/)
+- [Yara Birkeland, the World’s First Autonomous and Emission-Free Containership](https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/)
+- [An Introduction to Lagrange Multipliers](http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

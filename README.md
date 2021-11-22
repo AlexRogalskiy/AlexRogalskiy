@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/)
-- [Practical Web dev tutorial: see changes and update code in the browser](https://efficient-dev.vercel.app/how-to-create-a-button)
-- [Minecraft Classic 0.30 that works in a web browser, with optional enhancements](https://www.classicube.net/server/play/?warned=true)
-- [Irreversibility and Heat Generation in the Computing Process &lpar;1961&rpar;](https://ieeexplore.ieee.org/document/5392446)
-- [The Ship&#39;s Captain Died at Sea. 6 Mos Later, His Body Was Still in the Freezer](https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406)
-- [California Pizza Kitchen Serves Up Employee SSNs in Data Breach](https://threatpost.com/california-pizza-kitchen-employee-ssns-data-breach/176478/)
-- [Australian Rhino Project Achieves Major Milestone](https://theaustralianrhinoproject.org/index.php/news/blogs/11-news-and-blogs/301-the-australian-rhino-project-achieves-major-milestone)
-- [Modeling Wealth Inequality: How the rich get richer and the poor get poorer [pdf]](https://cc.kzoo.edu/jant/aem.pdf)
-- [Across Europe, protests swell against pandemic restrictions](https://www.washingtonpost.com/world/europe/europe-protests-restrictions-rotterdam/2021/11/20/298d8f7c-4a14-11ec-beca-3cc7103bd814_story.html)
-- [Google is evil &lpar;dark UX pattern&rpar;](https://imgur.com/a/MQbeQWH)
+- [The Making of Elite](https://www.youtube.com/watch?v=GpWoF5uVgbA)
+- [Ask HN: What is the most meaningful work you have done?](https://news.ycombinator.com/item?id=29301997)
+- [Apple Watch Series 8 Suppliers Developing Blood Glucose Monitoring Components](https://www.macrumors.com/2021/10/25/apple-watch-series-8-blood-glucose-sensors/)
+- [Women Who Seek Out &lpar;and Find&rpar; “Happy-Ending” Massages](https://bust.com/sex/198504-women-seek-happy-ending-massages-to-emulate-orgasms.html)
+- [Global Expert Warns of Dangerous New Food Fraud Risk](https://therottenapple.substack.com/p/issue-15-2021-11-22)
+- [Don&#39;t Bring a Tree to a Mesh Fight](https://valand.dev/blog/post/dont-bring-a-tree-to-a-mesh-fight/)
+- [Hand Gestures Help Us Learn Math](https://www.theatlantic.com/health/archive/2013/04/study-hand-gestures-help-us-learn-math/274500/)
+- [To be independent, seniors are juggling being watched with being on their own](https://www.washingtonpost.com/technology/2021/11/19/seniors-smart-home-privacy/)
+- [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
+- [Manage Remote Teams by Outcome, Not Surveillance &lpar;2020&rpar;](https://www.linkedin.com/pulse/manage-remote-teams-outcome-surveillance-tim-berglund)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

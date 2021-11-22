@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mikroelektronik Karl Marx U552C](https://www.richis-lab.de/ROM03.htm)
-- [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
-- [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
-- [Five Myths About Building Billion-Dollar Startups](https://645ventures.com/top-five-myths-about-billion-dollar-companies/)
-- [WiFi Dabba, Inc. &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/wPQkG43-growth-head-wifi-dabba-inc)
-- [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
-- [Advent of Code 2021](https://adventofcode.com/2021)
-- [LLVM relicensing update and call for help](https://blog.llvm.org/posts/2021-11-18-relicensing-update/)
-- [Yara Birkeland, the World’s First Autonomous and Emission-Free Containership](https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/)
-- [An Introduction to Lagrange Multipliers](http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
+- [Cop/Out](https://www.rifters.com/crawl/?p=10064)
+- [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+- [The many gifts of awkward silence](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
+- [I got nerd sniped into benchmarking legacy x86 instructions &lpar;2019&rpar;](https://www.acepace.net/2019-07-27-xlatb/)
+- [Wearable device senses blood glucose and administers insulin accordingly](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2)
+- [The Race to Make Better Qubits](https://semiengineering.com/the-race-to-make-better-qubits/)
+- [WeWork and Adam Neumann: Scam or Genius? 5 Lessons Learned](https://blog.francescoperticarari.com/wework-and-adam-neumann-scam-or-genius-5-lessons-learned-from-their-raise-and-fall)
+- [Japanese Dome House](http://www.i-domehouse.com/about_dome_house/)
+- [Explanations for the Havana Syndrome](http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

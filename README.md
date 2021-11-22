@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Peng Shuai: fresh video emerges as China faces growing global condemnation](https://www.theguardian.com/sport/2021/nov/21/peng-shuai-fresh-video-emerges-as-china-faces-growing-global-condemnation)
-- [Four children, aged one to 10, die in Melbourne house fire](https://www.theguardian.com/australia-news/2021/nov/21/four-children-aged-one-to-10-die-in-melbourne-house-fire)
-- [Unusual bedfellows: how gangs are pushing New Zealand’s Covid vaccination drive](https://www.theguardian.com/world/2021/nov/21/unusual-bedfellows-how-gangs-are-pushing-new-zealands-covid-vaccination-drive)
-- [Manchester United board decide to sack Solskjær at emergency meeting](https://www.theguardian.com/football/2021/nov/20/ole-gunnar-solskjr-admits-united-players-are-in-a-terrible-place)
-- [Novak Djokovic ducks Australian Open questions after ATP Finals loss to Zverev](https://www.theguardian.com/sport/2021/nov/21/tennis-novak-djokovic-australian-open-questions-atp-finals-alexander-zverev)
-- [Man held on suspicion of murder after two people found dead near Preston](https://www.theguardian.com/uk-news/2021/nov/21/man-held-on-suspicion-of-after-two-people-found-dead-near-preston)
-- [Man arrested on suspicion of murder after 60-year-old dies in Manchester](https://www.theguardian.com/uk-news/2021/nov/21/man-arrested-on-suspicion-of-of-man-60-in-manchester)
-- [Candy collars: shopping guide to beaded jewellery](https://www.theguardian.com/fashion/gallery/2021/nov/20/candy-collars-shopping-guide-to-beaded-jewellery)
-- [France stand firm to seal first victory over New Zealand for 12 years](https://www.theguardian.com/sport/2021/nov/20/france-stand-firm-to-seal-first-victory-over-new-zealand-for-12-years)
-- [Dysfunctional Manchester United have bigger problems than just Solskjær | Jonathan Liew](https://www.theguardian.com/football/2021/nov/20/manchester-united-have-bigger-problems-than-just-solskjaer)
+- [At least 20 injured after car speeds through Christmas parade in Wisconsin](https://www.theguardian.com/us-news/2021/nov/22/several-injured-after-car-speeds-through-christmas-parade-in-wisconsin-reports)
+- [Chinese tennis star Peng Shuai tells IOC she is ‘safe and well’](https://www.theguardian.com/sport/2021/nov/21/latest-peng-shuai-images-do-little-to-ease-fears-about-her-safety-wta-france-tennis-china)
+- [Adele interview bungle leaves Australian TV reporter red-faced – and she doesn’t go easy on him](https://www.theguardian.com/media/2021/nov/22/adele-interview-bungle-leaves-australian-tv-reporter-red-faced-and-she-doesnt-go-easy-on-him)
+- [New initiative aims to save curlew from extinction in Wales](https://www.theguardian.com/environment/2021/nov/22/new-initiative-aims-to-save-curlew-from-extinction-wales)
+- [Police and banks tell shoppers to be vigilant for Black Friday scams](https://www.theguardian.com/technology/2021/nov/22/banks-police-shoppers-vigilant-black-friday-scams)
+- [UK invites south-east Asian nations to G7 summit amid Aukus tensions](https://www.theguardian.com/world/2021/nov/22/uk-invites-south-east-asian-nations-to-g7-summit-amid-aukus-tensions)
+- [Start of final Crossrail trials in London raises hope of early 2022 opening](https://www.theguardian.com/uk-news/2021/nov/22/start-of-final-crossrail-trials-in-london-raises-hope-of-early-2022-opening)
+- [‘Woke’ sneers could sap young people’s drive for change, says top headteacher](https://www.theguardian.com/education/2021/nov/22/woke-sneers-could-sap-young-peoples-drive-for-change-says-top-headteacher)
+- [Far-right populist looks set to win first round of Chile’s presidential election](https://www.theguardian.com/world/2021/nov/21/far-right-populist-looks-set-to-win-first-round-of-chiles-presidential-election)
+- [An Audience With Adele review – a master comedian at work](https://www.theguardian.com/tv-and-radio/2021/nov/21/an-audience-with-adele-review-a-master-comedian-at-work)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

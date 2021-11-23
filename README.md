@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [HPE and Transamerica Open Their Cloud Transformation Playbooks](https://www.informationweek.com/cloud/hpe-and-transamerica-open-their-cloud-transformation-playbooks)
+- [Overcoming Roadblocks to Digital Transformation](https://www.informationweek.com/it-life/overcoming-roadblocks-to-digital-transformation)
+- [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
 - [8 Tips for Creating a Cybersecurity Culture](https://www.informationweek.com/it-life/8-tips-for-creating-a-cybersecurity-culture)
 - [The New Normal is Insecure by Default](https://www.informationweek.com/security-and-risk-strategy/the-new-normal-is-insecure-by-default)
 - [Pitfalls to Avoid When Setting Up a DevOps Center of Excellence](https://www.informationweek.com/devops/pitfalls-to-avoid-when-setting-up-a-devops-center-of-excellence)
-- [Harness Your Heritage: Building an IT Future on Past Success](https://www.informationweek.com/strategic-cio/harness-your-heritage-building-an-it-future-on-past-success)
 - [Why a Low-Code Development Recipe Worked for Pampered Chef](https://www.informationweek.com/devops/why-a-low-code-development-recipe-worked-for-pampered-chef)
 - [How Automation is Changing Entry-Level Career Paths in IT](https://www.informationweek.com/big-data/how-automation-is-changing-entry-level-career-paths-in-it)
 - [Data Analytics Can Fix the Supply Chain. Eventually](https://www.informationweek.com/big-data/data-analytics-can-fix-the-supply-chain-eventually)
 - [The Deep Skills Every Network Manager Should Possess](https://www.informationweek.com/strategic-cio/the-deep-skills-every-network-manager-should-possess)
-- [The Future of Privacy: What IT Leaders Need to Know](https://www.informationweek.com/big-data/the-future-of-privacy-what-it-leaders-need-to-know)
-- [Bringing Security up to the Speed of the Cloud](https://www.informationweek.com/security-and-privacy/bringing-security-up-to-the-speed-of-the-cloud)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

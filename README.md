@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [IBM Canada, ISA Cybersecurity partner to help protect student data](https://www.itworldcanada.com/article/ibm-canada-isa-cybersecurity-partner-to-help-protect-student-data/466280)
+- [Breaking news: GoDaddy’s managed WorldPress service hacked](https://www.itworldcanada.com/article/breaking-news-godaddys-managed-worldpress-service-hacked/466268)
+- [Five steps to help your organization succeed with AI](https://www.itworldcanada.com/article/five-steps-to-help-your-organization-succeed-with-ai/466261)
+- [Canada, EU agree to work more closely on the use of digital credentials](https://www.itworldcanada.com/article/canada-eu-agree-to-work-more-closely-on-the-use-of-digital-credentials/466239)
+- [RedCurl corporate data theft group is back: Report](https://www.itworldcanada.com/article/redcurl-corporate-data-theft-group-is-back-report/466224)
+- [Cyber Security Today, Nov. 22, 2012 – A sex video site exposed, free incident and vulnerability response advice and a detailed look into the Conti ransomware gang](https://www.itworldcanada.com/article/cyber-security-today-nov-22-2012-a-sex-video-site-exposed-free-incident-and-vulnerability-response-advice-and-a-detailed-look-into-the-conti-ransomware-gang/466197)
+- [Hashtag trending Nov. 22 – Amazon strike; Tesla’s low reliability; Starlink tracks deforestation](https://www.itworldcanada.com/article/hashtag-trending-nov-22-amazon-strike-teslas-low-reliability-starlink-tracks-deforestation/466221)
+- [Making Waves: The Raging Debate About 5G](https://www.itworldcanada.com/article/making-waves-the-raging-debate-about-5g/466204)
 - [These are the top skills IT professionals need to succeed](https://www.itworldcanada.com/article/these-are-the-top-skills-it-professionals-need-to-succeed/466170)
 - [Cyber Security Today, Week in Review for Nov. 19, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-nov-19-2021/465949)
-- [OpenText World 2021: Lessons learned from incident responders](https://www.itworldcanada.com/article/opentext-world-2021-lessons-learned-from-incident-responders/466039)
-- [Cyber Security Today, Nov. 19, 2021 – Warning for FatPipe administrators, BIOS alert for Intel processors and new website malware found](https://www.itworldcanada.com/article/cyber-security-today-nov-19-2021-warning-for-fatpipe-administrators-bios-alert-for-intel-processors-and-new-website-malware-found/465983)
-- [Hashtag Trending Nov. 19- YouTube faces criticism for dislike count update; Canadian teen involved in crypto scam; Starbucks and Amazon team up](https://www.itworldcanada.com/article/hashtag-trending-nov-19-youtube-faces-criticism-for-dislike-count-update-canadian-teen-involved-in-crypto-scam-starbucks-and-amazon-team-up/466085)
-- [CIO Association of Canada to host fireside chat with BlackBerry’s John Chen](https://www.itworldcanada.com/article/cio-association-of-canada-to-host-fireside-chat-with-blackberrys-john-chen/465917)
-- [Mobile Applications Look Like the Future of Live Sports Entertainment](https://www.itworldcanada.com/article/mobile-applications-look-like-the-future-of-live-sports-entertainment/465755)
-- [Hashtag Trending Nov. 18 – Apple softens right to repair stance; FTC wants to make online subs easier to cancel; Amazon boots Visa](https://www.itworldcanada.com/article/hashtag-trending-nov-18-apple-softens-right-to-repair-stance-ftc-wants-to-make-online-subs-easier-to-cancel-amazon-boots-visa/465800)
-- [The little chip that could: Intel’s 4004 turns 50](https://www.itworldcanada.com/article/the-little-chip-that-could-intels-4004-turns-50/465740)
-- [Most organizations don’t understand third party cyber risks: survey](https://www.itworldcanada.com/article/most-organizations-dont-understand-third-party-cyber-risks-survey/465416)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

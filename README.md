@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Upcoming holidays prompt ransomware warning from authorities](https://www.computerweekly.com/news/252509865/Upcoming-holidays-prompt-ransomware-warning-from-authorities)
+- [More wrongful convictions overturned in Post Office scandal](https://www.computerweekly.com/news/252509860/More-wrongful-convictions-overturned-in-Post-Office-scandal)
+- [Black Friday cyber warning for 4,000 card-skimming victims](https://www.computerweekly.com/news/252509859/Black-Friday-cyber-warning-for-4000-card-skimming-victims)
+- [CIO interview: Karl Hoods, CDIO, Department for Business, Energy and Industrial Strategy](https://www.computerweekly.com/news/252509781/CIO-interview-Karl-Hoods-CDIO-Department-for-Business-Energy-and-Industrial-Strategy)
+- [DHSC reluctant to confirm details of digital delivery review](https://www.computerweekly.com/news/252509799/DHSC-reluctant-to-confirm-details-of-digital-delivery-review)
+- [UK holds international digital government conference](https://www.computerweekly.com/news/252509790/UK-holds-international-digital-government-conference)
+- [Back to the past with government identity](https://www.computerweekly.com/opinion/Back-to-the-past-with-government-identity)
+- [How advanced comms can gain an edge in the post-pandemic world](https://www.computerweekly.com/feature/How-advanced-comms-gains-an-edge-in-the-post-pandemic-world)
 - [Subpostmasters asked to withdraw support for Post Office scandal inquiry](https://www.computerweekly.com/news/252509817/Subpostmasters-asked-to-remove-support-for-Post-Office-scandal-inquiry)
 - [Why is Emotet back, and should we be worried about it?](https://www.computerweekly.com/news/252509771/Why-is-Emotet-back-and-should-we-be-worried-about-it)
-- [UK government announces safety tech challenge fund winners](https://www.computerweekly.com/news/252509763/UK-government-announces-safety-tech-challenge-fund-winners)
-- [Gaia-X founding member Scaleway exits project over misgivings about its future direction](https://www.computerweekly.com/news/252509766/Gaia-X-founding-member-Scaleway-exits-project-over-misgivings-about-its-future-direction)
-- [GCHQ, NSA chiefs recommit to counter cyber threats](https://www.computerweekly.com/news/252509762/GCHQ-NSA-chiefs-recommit-to-counter-cyber-threats)
-- [How Axa drives digitisation forward](https://www.computerweekly.com/news/252509700/How-Axa-drives-digitisation-forward)
-- [Government to legislate to make APP fraud reimbursement mandatory](https://www.computerweekly.com/news/252509701/Government-to-legislate-to-make-APP-fraud-reimbursement-mandatory)
-- [Memento ransomware gang quick to retool for ‘optimum’ outcome](https://www.computerweekly.com/news/252509698/Memento-ransomware-gang-quick-to-retool-for-optimum-outcome)
-- [Alert over spate of Iran-linked BitLocker attacks](https://www.computerweekly.com/news/252509689/Alert-over-spate-of-Iran-linked-BitLocker-attacks)
-- [Sky ECC provided free cryptophones to a Canadian police force](https://www.computerweekly.com/news/252509553/Sky-ECC-provided-free-cryptophones-to-Canadian-police-force)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

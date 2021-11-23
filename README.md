@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Making of Elite](https://www.youtube.com/watch?v=GpWoF5uVgbA)
-- [Ask HN: What is the most meaningful work you have done?](https://news.ycombinator.com/item?id=29301997)
-- [Apple Watch Series 8 Suppliers Developing Blood Glucose Monitoring Components](https://www.macrumors.com/2021/10/25/apple-watch-series-8-blood-glucose-sensors/)
-- [Women Who Seek Out &lpar;and Find&rpar; “Happy-Ending” Massages](https://bust.com/sex/198504-women-seek-happy-ending-massages-to-emulate-orgasms.html)
-- [Global Expert Warns of Dangerous New Food Fraud Risk](https://therottenapple.substack.com/p/issue-15-2021-11-22)
-- [Don&#39;t Bring a Tree to a Mesh Fight](https://valand.dev/blog/post/dont-bring-a-tree-to-a-mesh-fight/)
-- [Hand Gestures Help Us Learn Math](https://www.theatlantic.com/health/archive/2013/04/study-hand-gestures-help-us-learn-math/274500/)
-- [To be independent, seniors are juggling being watched with being on their own](https://www.washingtonpost.com/technology/2021/11/19/seniors-smart-home-privacy/)
-- [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
-- [Manage Remote Teams by Outcome, Not Surveillance &lpar;2020&rpar;](https://www.linkedin.com/pulse/manage-remote-teams-outcome-surveillance-tim-berglund)
+- [Cal Newport – The Great Cubicle Escape](https://www.newyorker.com/culture/office-space/the-great-cubicle-escape)
+- [The Algorithm That Lets Particle Physicists Count Higher Than Two](https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/)
+- [Mystery NetBurst &lpar;2016&rpar;](http://www.os2museum.com/wp/mystery-netburst/)
+- [Venus of the Sewers](https://daily.jstor.org/venus-of-the-sewers/)
+- [Aimless Clicking](https://seths.blog/2021/11/aimless-clicking/)
+- [I Live in Arkansas. Why Is My State Telling Me Not to Boycott Israel?](https://www.nytimes.com/2021/11/22/opinion/israel-arkansas-bds-pledge.html)
+- [Democrats are pushing tax breaks for rich. They’ll cry when voters punish them](https://www.theguardian.com/commentisfree/2021/nov/22/democrats-are-pushing-tax-breaks-for-the-rich-theyll-cry-when-voters-punish-them)
+- [Albrecht Dürer: Self-publicist, tourist, entrepreneur, Renaissance artist](https://www.spectator.co.uk/article/albrecht-d-rer-was-a-16th-century-andy-warhol)
+- [Why is France so afraid of God?](https://www.theatlantic.com/magazine/archive/2021/12/france-god-religion-secularism/620528/)
+- [Chrome OS overtakes Macs for second place OS market share for the first time](https://www.techspot.com/news/88677-chrome-os-overtakes-macos-second-place-annual-market.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

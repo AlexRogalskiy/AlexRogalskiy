@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_all)
+- [Stop saying open source nonsense](https://www.infoworld.com/article/3641218/stop-saying-open-source-nonsense.html#tk.rss_all)
+- [Learn to love the multitenant cloud](https://www.infoworld.com/article/3640722/learn-to-love-the-multitenant-cloud.html#tk.rss_all)
 - [Security is the Achilles’ heel of multicloud](https://www.infoworld.com/article/3641331/the-achilles-heel-of-multicloud-security.html#tk.rss_all)
 - [Kotlin 1.6.0 debuts memory manager](https://www.infoworld.com/article/3641254/kotlin-160-debuts-memory-manager.html#tk.rss_all)
 - [A quick guide to modern cryptography](https://www.infoworld.com/article/3641388/a-quick-guide-to-modern-cryptography.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Overhauling Apache Kylin for the cloud](https://www.infoworld.com/article/3639516/overhauling-apache-kylin-for-the-cloud.html#tk.rss_all)
 - [Microsoft’s F# 6 boosts performance, ease](https://www.infoworld.com/article/3637930/microsofts-f-6-boosts-performance-ease.html#tk.rss_all)
 - [Java could get virtual threads](https://www.infoworld.com/article/3641288/java-could-get-virtual-threads.html#tk.rss_all)
-- [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_all)
-- [Getting started with Azure Fluid Relay](https://www.infoworld.com/article/3640727/getting-started-with-azure-fluid-relay.html#tk.rss_all)
-- [The race to secure Kubernetes at run time](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

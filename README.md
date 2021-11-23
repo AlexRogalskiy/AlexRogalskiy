@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 20 injured after car speeds through Christmas parade in Wisconsin](https://www.theguardian.com/us-news/2021/nov/22/several-injured-after-car-speeds-through-christmas-parade-in-wisconsin-reports)
-- [Chinese tennis star Peng Shuai tells IOC she is ‘safe and well’](https://www.theguardian.com/sport/2021/nov/21/latest-peng-shuai-images-do-little-to-ease-fears-about-her-safety-wta-france-tennis-china)
-- [Adele interview bungle leaves Australian TV reporter red-faced – and she doesn’t go easy on him](https://www.theguardian.com/media/2021/nov/22/adele-interview-bungle-leaves-australian-tv-reporter-red-faced-and-she-doesnt-go-easy-on-him)
-- [New initiative aims to save curlew from extinction in Wales](https://www.theguardian.com/environment/2021/nov/22/new-initiative-aims-to-save-curlew-from-extinction-wales)
-- [Police and banks tell shoppers to be vigilant for Black Friday scams](https://www.theguardian.com/technology/2021/nov/22/banks-police-shoppers-vigilant-black-friday-scams)
-- [UK invites south-east Asian nations to G7 summit amid Aukus tensions](https://www.theguardian.com/world/2021/nov/22/uk-invites-south-east-asian-nations-to-g7-summit-amid-aukus-tensions)
-- [Start of final Crossrail trials in London raises hope of early 2022 opening](https://www.theguardian.com/uk-news/2021/nov/22/start-of-final-crossrail-trials-in-london-raises-hope-of-early-2022-opening)
-- [‘Woke’ sneers could sap young people’s drive for change, says top headteacher](https://www.theguardian.com/education/2021/nov/22/woke-sneers-could-sap-young-peoples-drive-for-change-says-top-headteacher)
-- [Far-right populist looks set to win first round of Chile’s presidential election](https://www.theguardian.com/world/2021/nov/21/far-right-populist-looks-set-to-win-first-round-of-chiles-presidential-election)
-- [An Audience With Adele review – a master comedian at work](https://www.theguardian.com/tv-and-radio/2021/nov/21/an-audience-with-adele-review-a-master-comedian-at-work)
+- [As China threat rises, can Aukus alliance recover from rancorous birth?](https://www.theguardian.com/world/2021/nov/23/as-china-threat-rises-can-aukus-alliance-recover-from-rancorous-birth)
+- [Diego Maradona: Cuban woman alleges footballer raped her when she was 16](https://www.theguardian.com/football/2021/nov/23/diego-maradona-cuban-woman-alleges-footballer-raped-her-when-she-was-16)
+- [Record-breaking amounts of meth and fentanyl seized in San Diego](https://www.theguardian.com/society/2021/nov/22/record-breaking-amounts-of-meth-and-fentanyl-seized-in-san-diego)
+- [The Princes and the Press review – more degrading airing of the royal dirty laundry](https://www.theguardian.com/tv-and-radio/2021/nov/23/the-princes-and-the-press-review-more-degrading-airing-of-the-royal-dirty-laundry)
+- [ATP calls time on toilet breaks in new guidelines for men’s tennis](https://www.theguardian.com/sport/2021/nov/23/atp-calls-time-on-toilet-breaks-in-new-guidelines-for-mens-tennis)
+- [Joe Biden intends to run again in 2024, White House confirms](https://www.theguardian.com/us-news/2021/nov/22/joe-biden-intends-to-run-again-2024-white-house)
+- [System for assessing who needs to pay for NHS care ‘incentivises racial profiling’](https://www.theguardian.com/society/2021/nov/23/system-for-assessing-who-needs-to-pay-for-nhs-care-incentivises-racial-profiling)
+- [NHS to give therapy for depression before medication under new guidelines](https://www.theguardian.com/society/2021/nov/23/nhs-to-give-therapy-for-depression-before-medication-under-new-guidelines)
+- [Roger Stone and Alex Jones among five to receive Capitol attack subpoenas](https://www.theguardian.com/us-news/2021/nov/22/roger-stone-alex-jones-subpoenas-capitol-attack)
+- [Housework may promote health in old age, study suggests](https://www.theguardian.com/society/2021/nov/22/housework-may-promote-health-in-old-age-study-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

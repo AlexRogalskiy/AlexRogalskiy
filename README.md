@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career change to IT and feeling a bit lost as to where to go next](https://www.reddit.com/r/InformationTechnology/comments/qzuezk/career_change_to_it_and_feeling_a_bit_lost_as_to/)
+- [How is it safe for allow app to get your iPhone deta in iOS ?](https://www.reddit.com/r/InformationTechnology/comments/qzn2cr/how_is_it_safe_for_allow_app_to_get_your_iphone/)
+- [Changing careers](https://www.reddit.com/r/InformationTechnology/comments/qzjo25/changing_careers/)
+- [BS in Information technology with specialization in animation and game development](https://www.reddit.com/r/InformationTechnology/comments/qzdknq/bs_in_information_technology_with_specialization/)
+- [Single mom of 3 possibly going for a degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qzazgf/single_mom_of_3_possibly_going_for_a_degree_in_it/)
 - [What is working a remote job in IT like?](https://www.reddit.com/r/InformationTechnology/comments/qysu8s/what_is_working_a_remote_job_in_it_like/)
 - [IT job](https://www.reddit.com/r/InformationTechnology/comments/qy7cvm/it_job/)
 - [Tips for Contract work](https://www.reddit.com/r/InformationTechnology/comments/qxe449/tips_for_contract_work/)
 - [Help with awful hacker movie](https://www.reddit.com/r/InformationTechnology/comments/qxcvei/help_with_awful_hacker_movie/)
 - [Future career if i take this SQA Analyst / Field test job?](https://www.reddit.com/r/InformationTechnology/comments/qx84ur/future_career_if_i_take_this_sqa_analyst_field/)
-- [Offers](https://www.reddit.com/r/InformationTechnology/comments/qx4u9o/offers/)
-- [I have a job interview!](https://www.reddit.com/r/InformationTechnology/comments/qx2h2y/i_have_a_job_interview/)
-- [Need your opinions and advices](https://www.reddit.com/r/InformationTechnology/comments/qwt9w1/need_your_opinions_and_advices/)
-- [Can I get some Love Reddit IT People- New hire IT Training from an IT Manager &lpar;I feel cringy hitting enter lol&rpar;](https://www.reddit.com/r/InformationTechnology/comments/qws15l/can_i_get_some_love_reddit_it_people_new_hire_it/)
-- [Common Captive Portals? Exceptions to add to firewalls &amp; network endpoints](https://www.reddit.com/r/InformationTechnology/comments/qw8a9a/common_captive_portals_exceptions_to_add_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

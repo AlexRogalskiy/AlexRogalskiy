@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
-- [Cop/Out](https://www.rifters.com/crawl/?p=10064)
-- [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
-- [The many gifts of awkward silence](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
-- [I got nerd sniped into benchmarking legacy x86 instructions &lpar;2019&rpar;](https://www.acepace.net/2019-07-27-xlatb/)
-- [Wearable device senses blood glucose and administers insulin accordingly](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2)
-- [The Race to Make Better Qubits](https://semiengineering.com/the-race-to-make-better-qubits/)
-- [WeWork and Adam Neumann: Scam or Genius? 5 Lessons Learned](https://blog.francescoperticarari.com/wework-and-adam-neumann-scam-or-genius-5-lessons-learned-from-their-raise-and-fall)
-- [Japanese Dome House](http://www.i-domehouse.com/about_dome_house/)
-- [Explanations for the Havana Syndrome](http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html)
+- [I Test in Prod](https://increment.com/testing/i-test-in-production/)
+- [No News Is Good News: A Critique of the One Billion Word Benchmark](https://arxiv.org/abs/2110.12609)
+- [Blood sugar level follows perceived time rather than actual time in diabetics](https://www.pnas.org/content/113/29/8168)
+- [Show HN: Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/)
+- [Examples of the Importance of Context-Sensitivity in Data-Centric AI](https://www.surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai)
+- [HATEOAS: An Alternative Explaination](https://htmx.org/essays/hateoas/)
+- [SugarCoat: Private browsing without breaking the web](https://ucsdnews.ucsd.edu/pressrelease/SugarCoat)
+- [The 2 Sigma Problem [pdf]](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+- [Japan’s curiously quiescent inflation rate](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate)
+- [Remix – A framework focused on web fundamentals and modern UX](https://remix.run/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

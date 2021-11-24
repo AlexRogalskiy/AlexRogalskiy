@@ -406,6 +406,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Could you please vaguely describe the difference between a PSK and a password??](https://www.reddit.com/r/InformationTechnology/comments/r0o5ig/could_you_please_vaguely_describe_the_difference/)
+- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/r0mg5u/needed_it_decision_makers_research_opportunity/)
+- [Updating an air gapped device?](https://www.reddit.com/r/InformationTechnology/comments/r0bin1/updating_an_air_gapped_device/)
 - [Career change to IT and feeling a bit lost as to where to go next](https://www.reddit.com/r/InformationTechnology/comments/qzuezk/career_change_to_it_and_feeling_a_bit_lost_as_to/)
 - [How is it safe for allow app to get your iPhone deta in iOS ?](https://www.reddit.com/r/InformationTechnology/comments/qzn2cr/how_is_it_safe_for_allow_app_to_get_your_iphone/)
 - [Changing careers](https://www.reddit.com/r/InformationTechnology/comments/qzjo25/changing_careers/)
@@ -413,9 +416,6 @@
 - [Single mom of 3 possibly going for a degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qzazgf/single_mom_of_3_possibly_going_for_a_degree_in_it/)
 - [What is working a remote job in IT like?](https://www.reddit.com/r/InformationTechnology/comments/qysu8s/what_is_working_a_remote_job_in_it_like/)
 - [IT job](https://www.reddit.com/r/InformationTechnology/comments/qy7cvm/it_job/)
-- [Tips for Contract work](https://www.reddit.com/r/InformationTechnology/comments/qxe449/tips_for_contract_work/)
-- [Help with awful hacker movie](https://www.reddit.com/r/InformationTechnology/comments/qxcvei/help_with_awful_hacker_movie/)
-- [Future career if i take this SQA Analyst / Field test job?](https://www.reddit.com/r/InformationTechnology/comments/qx84ur/future_career_if_i_take_this_sqa_analyst_field/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

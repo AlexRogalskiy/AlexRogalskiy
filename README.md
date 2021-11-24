@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Test in Prod](https://increment.com/testing/i-test-in-production/)
-- [No News Is Good News: A Critique of the One Billion Word Benchmark](https://arxiv.org/abs/2110.12609)
-- [Blood sugar level follows perceived time rather than actual time in diabetics](https://www.pnas.org/content/113/29/8168)
-- [Show HN: Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/)
-- [Examples of the Importance of Context-Sensitivity in Data-Centric AI](https://www.surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai)
-- [HATEOAS: An Alternative Explaination](https://htmx.org/essays/hateoas/)
-- [SugarCoat: Private browsing without breaking the web](https://ucsdnews.ucsd.edu/pressrelease/SugarCoat)
-- [The 2 Sigma Problem [pdf]](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
-- [Japan’s curiously quiescent inflation rate](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate)
-- [Remix – A framework focused on web fundamentals and modern UX](https://remix.run/)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [The New Ten-Factor Authentication Processes](https://www.mcsweeneys.net/articles/the-new-ten-factor-authentication-processes-for-university-faculty)
+- [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
+- [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
+- [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
+- [Facebook can pursue malware lawsuit against Israel&#39;s NSO Group -US appeals court](https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/)
+- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
+- [An engineer&#39;s observations on Web3 and its possibilities](https://www.psl.com/feed-posts/web3-engineer-take)
+- [Show HN: Tamagui – React design systems optimized for native and web](https://tamagui.dev)
+- [C64](https://replit.com/@mattiselin/C64?v=1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

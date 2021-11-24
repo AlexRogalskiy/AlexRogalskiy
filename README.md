@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [As China threat rises, can Aukus alliance recover from rancorous birth?](https://www.theguardian.com/world/2021/nov/23/as-china-threat-rises-can-aukus-alliance-recover-from-rancorous-birth)
-- [Diego Maradona: Cuban woman alleges footballer raped her when she was 16](https://www.theguardian.com/football/2021/nov/23/diego-maradona-cuban-woman-alleges-footballer-raped-her-when-she-was-16)
-- [Record-breaking amounts of meth and fentanyl seized in San Diego](https://www.theguardian.com/society/2021/nov/22/record-breaking-amounts-of-meth-and-fentanyl-seized-in-san-diego)
-- [The Princes and the Press review – more degrading airing of the royal dirty laundry](https://www.theguardian.com/tv-and-radio/2021/nov/23/the-princes-and-the-press-review-more-degrading-airing-of-the-royal-dirty-laundry)
-- [ATP calls time on toilet breaks in new guidelines for men’s tennis](https://www.theguardian.com/sport/2021/nov/23/atp-calls-time-on-toilet-breaks-in-new-guidelines-for-mens-tennis)
-- [Joe Biden intends to run again in 2024, White House confirms](https://www.theguardian.com/us-news/2021/nov/22/joe-biden-intends-to-run-again-2024-white-house)
-- [System for assessing who needs to pay for NHS care ‘incentivises racial profiling’](https://www.theguardian.com/society/2021/nov/23/system-for-assessing-who-needs-to-pay-for-nhs-care-incentivises-racial-profiling)
-- [NHS to give therapy for depression before medication under new guidelines](https://www.theguardian.com/society/2021/nov/23/nhs-to-give-therapy-for-depression-before-medication-under-new-guidelines)
-- [Roger Stone and Alex Jones among five to receive Capitol attack subpoenas](https://www.theguardian.com/us-news/2021/nov/22/roger-stone-alex-jones-subpoenas-capitol-attack)
-- [Housework may promote health in old age, study suggests](https://www.theguardian.com/society/2021/nov/22/housework-may-promote-health-in-old-age-study-suggests)
+- [New Zealand to reopen borders to vaccinated visitors from new year](https://www.theguardian.com/world/2021/nov/24/new-zealand-to-reopen-borders-to-vaccinated-visitors-from-new-year)
+- [Dart mission: why is Nasa crashing a spacecraft into an asteroid?](https://www.theguardian.com/science/2021/nov/24/dart-mission-why-is-nasa-crashing-a-spacecraft-into-an-asteroid)
+- [‘Harper’s law’: killing emergency workers to bring life sentence](https://www.theguardian.com/society/2021/nov/24/harpers-law-killing-emergency-workers-to-bring-life-sentence)
+- [Councils in England report 34% rise in elective home education](https://www.theguardian.com/education/2021/nov/24/councils-england-report-34-rise-elective-home-education-children)
+- [Watchdog overturns ban on advert of Land Rover in forest](https://www.theguardian.com/media/2021/nov/24/watchdog-overturns-ban-on-advert-of-land-rover-in-forest)
+- [Windrush: Home Office has compensated just 5% of victims in four years](https://www.theguardian.com/uk-news/2021/nov/24/windrush-home-office-has-compensated-just-5-of-victims-in-four-years)
+- [UK should be neutral in a poll on Irish unification, says shadow minister](https://www.theguardian.com/uk-news/2021/nov/23/britain-should-stay-neutral-in-a-poll-on-irish-unification-says-shadow-minister)
+- [Lewandowski’s acrobatics keep Bayern perfect while Benfica thwart Barcelona](https://www.theguardian.com/football/2021/nov/23/champions-league-lewandowski-snow-bayern-dynamo-kyiv-barcelona-benfica)
+- [Libya: UN special envoy quits a month before presidential elections](https://www.theguardian.com/world/2021/nov/23/libya-un-special-envoy-quits-a-month-before-presidential-elections)
+- [Chirashi sushi: a home-style fish and rice dish readily adaptable for any occasion](https://www.theguardian.com/food/2021/nov/24/chirashi-sushi-a-home-style-fish-and-rice-dish-readily-adaptable-for-any-occasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

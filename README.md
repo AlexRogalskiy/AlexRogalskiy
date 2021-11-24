@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Qualcomm announces new Snapdragon SoCs naming scheme](https://www.itworldcanada.com/article/qualcomm-announces-new-snapdragon-socs-naming-scheme/466534)
+- [Ericsson acquires Vonage for US$6.2 billion](https://www.itworldcanada.com/article/ericsson-acquires-vonage-for-us6-2-billion/466515)
+- [Coffee Briefing, Nov. 23, 2021 – Uber and Indigo partnership; new tech for senior care in Canada; AWS new cloud training initiatives; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-23-2021-uber-and-indigo-partnership-new-tech-for-senior-care-in-canada-aws-new-cloud-training-initiatives-and-more/466423)
+- [University research group creates avatar to help online shoppers feel how clothes fit](https://www.itworldcanada.com/article/university-research-group-creates-avatar-to-help-online-shoppers-feel-how-clothes-fit/466288)
+- [Hashtag Trending Nov. 23 – WhatsApp privacy policy change; German state transition to open source; Microsoft Edge installment payments](https://www.itworldcanada.com/article/hashtag-trending-nov-23-whatsapp-privacy-policy-change-german-state-transition-to-open-source-microsoft-edge-installment-payments/466441)
 - [IBM Canada, ISA Cybersecurity partner to help protect student data](https://www.itworldcanada.com/article/ibm-canada-isa-cybersecurity-partner-to-help-protect-student-data/466280)
-- [Breaking news: GoDaddy’s managed WorldPress service hacked](https://www.itworldcanada.com/article/breaking-news-godaddys-managed-worldpress-service-hacked/466268)
+- [Compromised password leads to hack of GoDaddy’s managed WordPress service](https://www.itworldcanada.com/article/breaking-news-godaddys-managed-worldpress-service-hacked/466268)
 - [Five steps to help your organization succeed with AI](https://www.itworldcanada.com/article/five-steps-to-help-your-organization-succeed-with-ai/466261)
 - [Canada, EU agree to work more closely on the use of digital credentials](https://www.itworldcanada.com/article/canada-eu-agree-to-work-more-closely-on-the-use-of-digital-credentials/466239)
 - [RedCurl corporate data theft group is back: Report](https://www.itworldcanada.com/article/redcurl-corporate-data-theft-group-is-back-report/466224)
-- [Cyber Security Today, Nov. 22, 2012 – A sex video site exposed, free incident and vulnerability response advice and a detailed look into the Conti ransomware gang](https://www.itworldcanada.com/article/cyber-security-today-nov-22-2012-a-sex-video-site-exposed-free-incident-and-vulnerability-response-advice-and-a-detailed-look-into-the-conti-ransomware-gang/466197)
-- [Hashtag trending Nov. 22 – Amazon strike; Tesla’s low reliability; Starlink tracks deforestation](https://www.itworldcanada.com/article/hashtag-trending-nov-22-amazon-strike-teslas-low-reliability-starlink-tracks-deforestation/466221)
-- [Making Waves: The Raging Debate About 5G](https://www.itworldcanada.com/article/making-waves-the-raging-debate-about-5g/466204)
-- [These are the top skills IT professionals need to succeed](https://www.itworldcanada.com/article/these-are-the-top-skills-it-professionals-need-to-succeed/466170)
-- [Cyber Security Today, Week in Review for Nov. 19, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-nov-19-2021/465949)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

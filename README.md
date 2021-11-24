@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Upcoming holidays prompt ransomware warning from authorities](https://www.computerweekly.com/news/252509865/Upcoming-holidays-prompt-ransomware-warning-from-authorities)
-- [More wrongful convictions overturned in Post Office scandal](https://www.computerweekly.com/news/252509860/More-wrongful-convictions-overturned-in-Post-Office-scandal)
-- [Black Friday cyber warning for 4,000 card-skimming victims](https://www.computerweekly.com/news/252509859/Black-Friday-cyber-warning-for-4000-card-skimming-victims)
-- [CIO interview: Karl Hoods, CDIO, Department for Business, Energy and Industrial Strategy](https://www.computerweekly.com/news/252509781/CIO-interview-Karl-Hoods-CDIO-Department-for-Business-Energy-and-Industrial-Strategy)
-- [DHSC reluctant to confirm details of digital delivery review](https://www.computerweekly.com/news/252509799/DHSC-reluctant-to-confirm-details-of-digital-delivery-review)
-- [UK holds international digital government conference](https://www.computerweekly.com/news/252509790/UK-holds-international-digital-government-conference)
-- [Back to the past with government identity](https://www.computerweekly.com/opinion/Back-to-the-past-with-government-identity)
-- [How advanced comms can gain an edge in the post-pandemic world](https://www.computerweekly.com/feature/How-advanced-comms-gains-an-edge-in-the-post-pandemic-world)
-- [Subpostmasters asked to withdraw support for Post Office scandal inquiry](https://www.computerweekly.com/news/252509817/Subpostmasters-asked-to-remove-support-for-Post-Office-scandal-inquiry)
-- [Why is Emotet back, and should we be worried about it?](https://www.computerweekly.com/news/252509771/Why-is-Emotet-back-and-should-we-be-worried-about-it)
+- [Schrems accuses Irish DPC of trying to block publication of Facebook documents](https://www.computerweekly.com/news/252509939/Schrems-accuses-Irish-DPC-of-trying-to-block-publication-of-Facebook-documents)
+- [NCSC commits to new diversity measures](https://www.computerweekly.com/news/252509921/NCSC-commits-to-new-diversity-measures)
+- [Commons committee launches STEM diversity inquiry](https://www.computerweekly.com/news/252509922/Commons-committee-launches-STEM-diversity-inquiry)
+- [Men’s Mental Health Month: How fintech can reduce anxiety around debt](https://www.computerweekly.com/opinion/Mens-Mental-Health-Month-how-fintech-can-reduce-anxiety-around-debt)
+- [Four-day week introduced for staff at digital bank](https://www.computerweekly.com/news/252509904/Four-day-week-introduced-for-staff-at-digital-bank)
+- [Lessons from Lisbon: Reflections on a week at Web Summit](https://www.computerweekly.com/opinion/Lessons-from-Lisbon-reflections-on-a-week-at-Web-Summit)
+- [How software development will change in 2022](https://www.computerweekly.com/opinion/How-software-development-will-change-in-2022)
+- [CIO interview: Mia Sorgi, director of digital product and experience, PepsiCo Europe](https://www.computerweekly.com/news/252509784/CIO-interview-Mia-Sorgi-director-of-digital-product-and-experience-PepsiCo-Europe)
+- [How can specialist retailers get closer to their customers?](https://www.computerweekly.com/opinion/How-can-specialist-retailers-get-closer-to-their-customers)
+- [NHSX and NHS Digital to merge with NHS England](https://www.computerweekly.com/news/252509887/NHSX-and-NHS-Digital-to-merge-with-NHS-England)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

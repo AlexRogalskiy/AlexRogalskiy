@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cal Newport – The Great Cubicle Escape](https://www.newyorker.com/culture/office-space/the-great-cubicle-escape)
-- [The Algorithm That Lets Particle Physicists Count Higher Than Two](https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/)
-- [Mystery NetBurst &lpar;2016&rpar;](http://www.os2museum.com/wp/mystery-netburst/)
-- [Venus of the Sewers](https://daily.jstor.org/venus-of-the-sewers/)
-- [Aimless Clicking](https://seths.blog/2021/11/aimless-clicking/)
-- [I Live in Arkansas. Why Is My State Telling Me Not to Boycott Israel?](https://www.nytimes.com/2021/11/22/opinion/israel-arkansas-bds-pledge.html)
-- [Democrats are pushing tax breaks for rich. They’ll cry when voters punish them](https://www.theguardian.com/commentisfree/2021/nov/22/democrats-are-pushing-tax-breaks-for-the-rich-theyll-cry-when-voters-punish-them)
-- [Albrecht Dürer: Self-publicist, tourist, entrepreneur, Renaissance artist](https://www.spectator.co.uk/article/albrecht-d-rer-was-a-16th-century-andy-warhol)
-- [Why is France so afraid of God?](https://www.theatlantic.com/magazine/archive/2021/12/france-god-religion-secularism/620528/)
-- [Chrome OS overtakes Macs for second place OS market share for the first time](https://www.techspot.com/news/88677-chrome-os-overtakes-macos-second-place-annual-market.html)
+- [Humans didn’t invent mathematics, it’s what the world is made of](https://theconversation.com/pythagoras-revenge-humans-didnt-invent-mathematics-its-what-the-world-is-made-of-172034)
+- [Retrotechtacular: How Solidarity Hacked Polish TV](https://hackaday.com/2016/07/05/retrotechtacular-how-solidarity-hacked-polish-tv/)
+- [Castles, alligators, machine guns, and mail](https://nbailey.ca/rant/castles-alligators-machine-guns-and-mail/)
+- [How the Rosetta Stone Yielded Its Secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
+- [2081: A Hopeful View of the Human Future](https://en.wikipedia.org/wiki/2081:_A_Hopeful_View_of_the_Human_Future)
+- [To Those Who Walked Out on Palestinian-Israeli Dialoge](https://blogs.timesofisrael.com/to-the-students-who-walked-out-on-palestinian-israeli-dialogue/)
+- [Why the Future Doesn&#39;t Need Us – Bill Joy &lpar;2000&rpar;](https://www.wired.com/2000/04/joy-2/)
+- [Group’s second paper on potential treatments for Covid-19 is retracted](https://retractionwatch.com/2021/11/23/groups-second-paper-on-potential-treatments-for-covid-19-is-retracted/)
+- [Show HN: I wrote a script to bring Chrome DevTools to Android](https://github.com/leohku/andure)
+- [Ask HN: Best method to accept invoice payments online?](https://news.ycombinator.com/item?id=29326185)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

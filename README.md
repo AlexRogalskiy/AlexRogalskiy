@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand to reopen borders to vaccinated visitors from new year](https://www.theguardian.com/world/2021/nov/24/new-zealand-to-reopen-borders-to-vaccinated-visitors-from-new-year)
-- [Dart mission: why is Nasa crashing a spacecraft into an asteroid?](https://www.theguardian.com/science/2021/nov/24/dart-mission-why-is-nasa-crashing-a-spacecraft-into-an-asteroid)
-- [‘Harper’s law’: killing emergency workers to bring life sentence](https://www.theguardian.com/society/2021/nov/24/harpers-law-killing-emergency-workers-to-bring-life-sentence)
-- [Councils in England report 34% rise in elective home education](https://www.theguardian.com/education/2021/nov/24/councils-england-report-34-rise-elective-home-education-children)
-- [Watchdog overturns ban on advert of Land Rover in forest](https://www.theguardian.com/media/2021/nov/24/watchdog-overturns-ban-on-advert-of-land-rover-in-forest)
-- [Windrush: Home Office has compensated just 5% of victims in four years](https://www.theguardian.com/uk-news/2021/nov/24/windrush-home-office-has-compensated-just-5-of-victims-in-four-years)
-- [UK should be neutral in a poll on Irish unification, says shadow minister](https://www.theguardian.com/uk-news/2021/nov/23/britain-should-stay-neutral-in-a-poll-on-irish-unification-says-shadow-minister)
-- [Lewandowski’s acrobatics keep Bayern perfect while Benfica thwart Barcelona](https://www.theguardian.com/football/2021/nov/23/champions-league-lewandowski-snow-bayern-dynamo-kyiv-barcelona-benfica)
-- [Libya: UN special envoy quits a month before presidential elections](https://www.theguardian.com/world/2021/nov/23/libya-un-special-envoy-quits-a-month-before-presidential-elections)
-- [Chirashi sushi: a home-style fish and rice dish readily adaptable for any occasion](https://www.theguardian.com/food/2021/nov/24/chirashi-sushi-a-home-style-fish-and-rice-dish-readily-adaptable-for-any-occasion)
+- [North American fertilizer shortage sparks fears of higher food prices](https://www.theguardian.com/environment/2021/nov/25/fertilizer-shortage-north-america-farmers-food-prices)
+- [Australia named ‘preferred candidate’ to host 2027 Rugby World Cup](https://www.theguardian.com/sport/2021/nov/25/australia-named-preferred-candidate-to-host-2027-rugby-world-cup)
+- [New Zealand opposition leader Judith Collins ousted after move to demote rival backfires](https://www.theguardian.com/world/2021/nov/25/new-zealand-opposition-leader-judith-collins-ousted-after-move-to-demote-rival-backfires)
+- [WA man charged with murder of daughter who died 15 years after he assaulted her](https://www.theguardian.com/australia-news/2021/nov/25/wa-man-charged-with-of-daughter-who-died-15-years-after-he-assaulted-her)
+- [Tragedy at sea claims dozens of lives in deadliest day of Channel crisis](https://www.theguardian.com/world/2021/nov/24/several-people-dead-migrant-boat-capsizes-channel)
+- [One in 10 UK families will struggle to cover basics this winter, charity finds](https://www.theguardian.com/society/2021/nov/25/one-in-10-uk-families-will-struggle-to-cover-basics-this-winter-charity-finds)
+- [Cosmetic surgery ads aimed at under-18s to be banned in UK](https://www.theguardian.com/society/2021/nov/25/cosmetic-surgery-ads-aimed-at-under-18s-to-be-banned-in-uk)
+- [Junior Messias delivers late winner for Milan to leave Atlético Madrid in trouble](https://www.theguardian.com/football/2021/nov/24/junior-messias-rescues-milan-hopes-with-crucial-late-goal-at-atletico-madrid)
+- [This is justice of a kind. But don’t forget Ahmaud Arbery’s killers almost got away | Akin Olla](https://www.theguardian.com/commentisfree/2021/nov/24/ahmaud-arbery-murder-verdict-white-supremacy)
+- [Intelligence and security committee report signed off after complaint to PM](https://www.theguardian.com/uk-news/2021/nov/24/intelligence-and-security-committee-report-signed-off-after-complaint-to-pm)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

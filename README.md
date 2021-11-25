@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Anyone know what is this ?](https://www.reddit.com/r/InformationTechnology/comments/r1kkb9/does_anyone_know_what_is_this/)
+- [What is Information Systems Management? What roles fit the ISM major?](https://www.reddit.com/r/InformationTechnology/comments/r1ikqb/what_is_information_systems_management_what_roles/)
+- [Should this be a red flag for new IT job I just accepted?](https://www.reddit.com/r/InformationTechnology/comments/r1gsl6/should_this_be_a_red_flag_for_new_it_job_i_just/)
+- [Can I connect two routers wirelessly and use the second router as an Ethernet access point?](https://www.reddit.com/r/InformationTechnology/comments/r1gnib/can_i_connect_two_routers_wirelessly_and_use_the/)
+- [Guest laptop cannot reach internet](https://www.reddit.com/r/InformationTechnology/comments/r182tq/guest_laptop_cannot_reach_internet/)
+- [What Is Information Technology? Overview and Examples](https://www.reddit.com/r/InformationTechnology/comments/r17jv4/what_is_information_technology_overview_and/)
+- [Mass deployment to UEFI enabled tablets that don&#39;t have PXE.](https://www.reddit.com/r/InformationTechnology/comments/r1322y/mass_deployment_to_uefi_enabled_tablets_that_dont/)
 - [Could you please vaguely describe the difference between a PSK and a password??](https://www.reddit.com/r/InformationTechnology/comments/r0o5ig/could_you_please_vaguely_describe_the_difference/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/r0mg5u/needed_it_decision_makers_research_opportunity/)
 - [Updating an air gapped device?](https://www.reddit.com/r/InformationTechnology/comments/r0bin1/updating_an_air_gapped_device/)
-- [Career change to IT and feeling a bit lost as to where to go next](https://www.reddit.com/r/InformationTechnology/comments/qzuezk/career_change_to_it_and_feeling_a_bit_lost_as_to/)
-- [How is it safe for allow app to get your iPhone deta in iOS ?](https://www.reddit.com/r/InformationTechnology/comments/qzn2cr/how_is_it_safe_for_allow_app_to_get_your_iphone/)
-- [Changing careers](https://www.reddit.com/r/InformationTechnology/comments/qzjo25/changing_careers/)
-- [BS in Information technology with specialization in animation and game development](https://www.reddit.com/r/InformationTechnology/comments/qzdknq/bs_in_information_technology_with_specialization/)
-- [Single mom of 3 possibly going for a degree in IT](https://www.reddit.com/r/InformationTechnology/comments/qzazgf/single_mom_of_3_possibly_going_for_a_degree_in_it/)
-- [What is working a remote job in IT like?](https://www.reddit.com/r/InformationTechnology/comments/qysu8s/what_is_working_a_remote_job_in_it_like/)
-- [IT job](https://www.reddit.com/r/InformationTechnology/comments/qy7cvm/it_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

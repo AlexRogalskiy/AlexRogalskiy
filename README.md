@@ -346,6 +346,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple pulls no punches in lawsuit against &#39;amoral&#39; NSO Group](https://www.computerworld.com/article/3641261/apple-pulls-no-punches-in-lawsuit-against-amoral-nso-group.html#tk.rss_all)
 - [Will Windows come to M1 Macs soon?](https://www.computerworld.com/article/3641639/will-windows-come-to-m1-macs-soon.html#tk.rss_all)
 - [Ransomware is a threat, even for the smallest of businesses](https://www.computerworld.com/article/3641849/ransomware-is-a-threat-even-for-the-smallest-of-businesses.html#tk.rss_all)
 - [13 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-overview.html#tk.rss_all)
@@ -353,9 +356,6 @@
 - [Will the shift to Windows 11 mean more e-waste?](https://www.computerworld.com/article/3641833/will-the-shift-to-windows-11-mean-more-e-waste.html#tk.rss_all)
 - [Apple delays office return, but is it still too optimistic?](https://www.computerworld.com/article/3641831/apple-delays-office-return-but-is-it-still-too-optimistic.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [How to repair Windows 10 &lpar;and 11&rpar; in 4 steps](https://www.computerworld.com/article/3080839/repair-windows-10-and-11-step-by-step-guide.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

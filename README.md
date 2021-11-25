@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [58 per cent of shoppers sticking to online shopping this holiday season: Google trends](https://www.itworldcanada.com/article/58-per-cent-of-shoppers-sticking-to-online-shopping-this-holiday-season-google-trends/466647)
+- [Canada’s first Automobility Hub launches in Windsor-Essex](https://www.itworldcanada.com/article/canadas-first-automobility-hub-launches-in-windsor-essex/466625)
+- [High spectrum cost a barrier to affordable mobile plans, say experts](https://www.itworldcanada.com/article/high-spectrum-cost-a-barrier-to-affordable-mobile-plans-say-experts/466304)
+- [How SMBs are using technology to turn crisis into opportunity](https://www.itworldcanada.com/article/how-smbs-are-using-technology-to-turn-crisis-into-opportunity/466621)
+- [SaskTel advances smart city initiatives with IoT provider eleven-x](https://www.itworldcanada.com/article/sasktel-advances-smart-city-initiatives-with-iot-provider-eleven-x/466613)
+- [Cyber Security Today, Nov. 24, 2021 – A new Windows zero-day bug is found, a cybersecurity support program for Canadian teachers and students and a holiday warning from the FBI](https://www.itworldcanada.com/article/cyber-security-today-nov-24-2021-a-new-windows-zero-day-bug-is-found-a-cybersecurity-support-program-for-canadian-teachers-and-students-and-a-holiday-warning-from-the-fbi/466512)
+- [Hashtag trending Nov. 24 – GoDaddy breach; Samsung’s new chip plant; Amazon and Apple anti-competition](https://www.itworldcanada.com/article/hashtag-trending-nov-24-godaddy-breach-samsungs-new-chip-plant-amazon-and-apple-anti-competition/466571)
 - [Qualcomm announces new Snapdragon SoCs naming scheme](https://www.itworldcanada.com/article/qualcomm-announces-new-snapdragon-socs-naming-scheme/466534)
 - [Ericsson acquires Vonage for US$6.2 billion](https://www.itworldcanada.com/article/ericsson-acquires-vonage-for-us6-2-billion/466515)
 - [Coffee Briefing, Nov. 23, 2021 – Uber and Indigo partnership; new tech for senior care in Canada; AWS new cloud training initiatives; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-23-2021-uber-and-indigo-partnership-new-tech-for-senior-care-in-canada-aws-new-cloud-training-initiatives-and-more/466423)
-- [University research group creates avatar to help online shoppers feel how clothes fit](https://www.itworldcanada.com/article/university-research-group-creates-avatar-to-help-online-shoppers-feel-how-clothes-fit/466288)
-- [Hashtag Trending Nov. 23 – WhatsApp privacy policy change; German state transition to open source; Microsoft Edge installment payments](https://www.itworldcanada.com/article/hashtag-trending-nov-23-whatsapp-privacy-policy-change-german-state-transition-to-open-source-microsoft-edge-installment-payments/466441)
-- [IBM Canada, ISA Cybersecurity partner to help protect student data](https://www.itworldcanada.com/article/ibm-canada-isa-cybersecurity-partner-to-help-protect-student-data/466280)
-- [Compromised password leads to hack of GoDaddy’s managed WordPress service](https://www.itworldcanada.com/article/breaking-news-godaddys-managed-worldpress-service-hacked/466268)
-- [Five steps to help your organization succeed with AI](https://www.itworldcanada.com/article/five-steps-to-help-your-organization-succeed-with-ai/466261)
-- [Canada, EU agree to work more closely on the use of digital credentials](https://www.itworldcanada.com/article/canada-eu-agree-to-work-more-closely-on-the-use-of-digital-credentials/466239)
-- [RedCurl corporate data theft group is back: Report](https://www.itworldcanada.com/article/redcurl-corporate-data-theft-group-is-back-report/466224)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

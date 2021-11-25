@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [The New Ten-Factor Authentication Processes](https://www.mcsweeneys.net/articles/the-new-ten-factor-authentication-processes-for-university-faculty)
-- [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
-- [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
-- [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
-- [Facebook can pursue malware lawsuit against Israel&#39;s NSO Group -US appeals court](https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/)
-- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
-- [An engineer&#39;s observations on Web3 and its possibilities](https://www.psl.com/feed-posts/web3-engineer-take)
-- [Show HN: Tamagui – React design systems optimized for native and web](https://tamagui.dev)
-- [C64](https://replit.com/@mattiselin/C64?v=1)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Marketing Manager](https://www.safebutler.com/careers)
+- [FarPlay: Low-Latency Audio over the Internet](https://farplay.io/)
+- [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
+- [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/)
+- [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
+- [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
+- [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
+- [The brusque Mr. Fix-It for Mexico City’s accordions](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
+- [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
+- [The 3-2-1 Backup Rule – Why Your Data Will Always Survive &lpar;2019&rpar;](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

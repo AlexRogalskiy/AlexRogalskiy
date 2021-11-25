@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Humans didn’t invent mathematics, it’s what the world is made of](https://theconversation.com/pythagoras-revenge-humans-didnt-invent-mathematics-its-what-the-world-is-made-of-172034)
-- [Retrotechtacular: How Solidarity Hacked Polish TV](https://hackaday.com/2016/07/05/retrotechtacular-how-solidarity-hacked-polish-tv/)
-- [Castles, alligators, machine guns, and mail](https://nbailey.ca/rant/castles-alligators-machine-guns-and-mail/)
-- [How the Rosetta Stone Yielded Its Secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
-- [2081: A Hopeful View of the Human Future](https://en.wikipedia.org/wiki/2081:_A_Hopeful_View_of_the_Human_Future)
-- [To Those Who Walked Out on Palestinian-Israeli Dialoge](https://blogs.timesofisrael.com/to-the-students-who-walked-out-on-palestinian-israeli-dialogue/)
-- [Why the Future Doesn&#39;t Need Us – Bill Joy &lpar;2000&rpar;](https://www.wired.com/2000/04/joy-2/)
-- [Group’s second paper on potential treatments for Covid-19 is retracted](https://retractionwatch.com/2021/11/23/groups-second-paper-on-potential-treatments-for-covid-19-is-retracted/)
-- [Show HN: I wrote a script to bring Chrome DevTools to Android](https://github.com/leohku/andure)
-- [Ask HN: Best method to accept invoice payments online?](https://news.ycombinator.com/item?id=29326185)
+- [Carcinogens, Scientific Disagreement, and the Role of Scientists](https://chembites.org/2021/11/24/carcinogens-scientific-disagreement-and-the-role-of-scientists/)
+- [Ask HN: What jobs are as high-paying and comfortable as a software developer?](https://news.ycombinator.com/item?id=29337597)
+- [Show HN: Create a shareable resume using your GitHub](https://www.gittr.ee/portfolio/)
+- [Chris for the San Report EP. 14 Happy Thanksgiving to All](https://speakingaboutnews.com/the-san-report/)
+- [Dishwashers on $90 &lpar;AUD&rpar; an hour as staff shortages smash hospitality sector](https://www.smh.com.au/national/dishwashers-on-90-an-hour-as-staff-shortages-smash-hospitality-sector-20211119-p59a9x.html)
+- [Poster2Plot: Generate Movie/T.V show plot from a poster using Machine Learning](https://huggingface.co/spaces/deepklarity/poster2plot)
+- [Researchers Defeat Randomness to Create Ideal Code](https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/)
+- [Does Windows on Arm have a future?](https://www.zdnet.com/article/does-windows-on-arm-have-a-future/)
+- [Interface Message Processors &lpar;IMP&rpar; for the ARPA Computer Network &lpar;1974&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/AD0773419.pdf)
+- [100 Mental Models](https://wisdomtheory.gumroad.com/l/100MM)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

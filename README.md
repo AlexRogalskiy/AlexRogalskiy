@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
+- [Send Outlook email and Teams messages with R](https://www.infoworld.com/article/3641408/send-outlook-email-and-teams-messages-with-r.html#tk.rss_all)
+- [Take a look at Azure Monitor](https://www.infoworld.com/article/3641910/take-a-look-at-azure-monitor.html#tk.rss_all)
 - [Windows Forms advances in .NET 6 but still needs work](https://www.infoworld.com/article/3641257/windows-forms-advances-in-net-6-but-still-needs-work.html#tk.rss_all)
 - [Build a cloud culture to attract and keep skilled people](https://www.infoworld.com/article/3641988/build-a-cloud-culture-to-attract-and-keep-skilled-people.html#tk.rss_all)
 - [How CI/CD is different for data science](https://www.infoworld.com/article/3640569/how-cicd-is-different-for-data-science.html#tk.rss_all)
-- [Send Outlook email and Teams messages with R](https://www.infoworld.com/article/3641408/send-outlook-email-and-teams-messages-with-r.html#tk.rss_all)
 - [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_all)
 - [Stop saying open source nonsense](https://www.infoworld.com/article/3641218/stop-saying-open-source-nonsense.html#tk.rss_all)
 - [Learn to love the multitenant cloud](https://www.infoworld.com/article/3640722/learn-to-love-the-multitenant-cloud.html#tk.rss_all)
 - [Security is the Achilles’ heel of multicloud](https://www.infoworld.com/article/3641331/the-achilles-heel-of-multicloud-security.html#tk.rss_all)
-- [Kotlin 1.6.0 debuts memory manager](https://www.infoworld.com/article/3641254/kotlin-160-debuts-memory-manager.html#tk.rss_all)
-- [A quick guide to modern cryptography](https://www.infoworld.com/article/3641388/a-quick-guide-to-modern-cryptography.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

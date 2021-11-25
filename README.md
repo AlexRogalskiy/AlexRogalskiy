@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Schrems accuses Irish DPC of trying to block publication of Facebook documents](https://www.computerweekly.com/news/252509939/Schrems-accuses-Irish-DPC-of-trying-to-block-publication-of-Facebook-documents)
-- [NCSC commits to new diversity measures](https://www.computerweekly.com/news/252509921/NCSC-commits-to-new-diversity-measures)
-- [Commons committee launches STEM diversity inquiry](https://www.computerweekly.com/news/252509922/Commons-committee-launches-STEM-diversity-inquiry)
-- [Men’s Mental Health Month: How fintech can reduce anxiety around debt](https://www.computerweekly.com/opinion/Mens-Mental-Health-Month-how-fintech-can-reduce-anxiety-around-debt)
-- [Four-day week introduced for staff at digital bank](https://www.computerweekly.com/news/252509904/Four-day-week-introduced-for-staff-at-digital-bank)
-- [Lessons from Lisbon: Reflections on a week at Web Summit](https://www.computerweekly.com/opinion/Lessons-from-Lisbon-reflections-on-a-week-at-Web-Summit)
-- [How software development will change in 2022](https://www.computerweekly.com/opinion/How-software-development-will-change-in-2022)
-- [CIO interview: Mia Sorgi, director of digital product and experience, PepsiCo Europe](https://www.computerweekly.com/news/252509784/CIO-interview-Mia-Sorgi-director-of-digital-product-and-experience-PepsiCo-Europe)
-- [How can specialist retailers get closer to their customers?](https://www.computerweekly.com/opinion/How-can-specialist-retailers-get-closer-to-their-customers)
-- [NHSX and NHS Digital to merge with NHS England](https://www.computerweekly.com/news/252509887/NHSX-and-NHS-Digital-to-merge-with-NHS-England)
+- [Growing pains: Where next for Gaia-X?](https://www.computerweekly.com/news/252509984/Growing-pains-Where-next-for-Gaia-X)
+- [One in three Norwegian unicorns created in 2021 alone](https://www.computerweekly.com/news/252510003/One-in-three-Norwegian-unicorns-created-in-2021-alone)
+- [Regulation of AI needed to avoid the mistakes of social media](https://www.computerweekly.com/news/252509996/Regulation-of-AI-needed-to-avoid-the-mistakes-of-social-media)
+- [UK government announces NHS digital delivery review](https://www.computerweekly.com/news/252509992/UK-government-announces-NHS-digital-delivery-review)
+- [IT Priorities 2022: Software development](https://www.computerweekly.com/news/252509981/IT-Priorities-2022-Software-development)
+- [Consumer cyber bill to protect mobiles, smart devices](https://www.computerweekly.com/news/252509985/Consumer-cyber-bill-to-protect-mobiles-smart-devices)
+- [Societe Generale accelerates data and artificial intelligence strategy](https://www.computerweekly.com/news/252509983/French-banking-giant-accelerates-data-and-AI-strategy)
+- [Kazakhstan’s IT industry growing rapidly thanks to heavy government support](https://www.computerweekly.com/news/252509923/Kazakhstans-IT-industry-growing-rapidly-thanks-to-heavy-government-support)
+- [Apple sues under-fire malware firm NSO](https://www.computerweekly.com/news/252509980/Apple-sues-under-fire-malware-firm-NSO)
+- [The value of open source in Europe](https://www.computerweekly.com/opinion/The-value-of-Open-Source-in-Europe)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

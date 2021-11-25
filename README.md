@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [In Memoriam: Dark Reading&#39;s Tim Wilson](https://www.informationweek.com/it-life/in-memoriam-dark-reading-s-tim-wilson)
+- [How to Maintain Team Productivity Without Being Viewed as a Scrooge](https://www.informationweek.com/strategic-cio/how-to-maintain-team-productivity-without-being-viewed-as-a-scrooge)
+- [CIOs: Understand These Legal Traps](https://www.informationweek.com/it-life/cios-understand-these-legal-traps)
 - [Retailers Choosing Tech Upgrades Over Holiday Magic in 2021](https://www.informationweek.com/it-life/retailers-choosing-tech-upgrades-over-holiday-magic-in-2021)
 - [Elevate Your Tech Talent Onboarding with These 5 Tips](https://www.informationweek.com/it-life/elevate-your-tech-talent-onboarding-with-these-5-tips)
 - [HPE and Transamerica Open Their Cloud Transformation Playbooks](https://www.informationweek.com/cloud/hpe-and-transamerica-open-their-cloud-transformation-playbooks)
@@ -368,9 +371,6 @@
 - [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
 - [8 Tips for Creating a Cybersecurity Culture](https://www.informationweek.com/it-life/8-tips-for-creating-a-cybersecurity-culture)
 - [The New Normal is Insecure by Default](https://www.informationweek.com/security-and-risk-strategy/the-new-normal-is-insecure-by-default)
-- [Pitfalls to Avoid When Setting Up a DevOps Center of Excellence](https://www.informationweek.com/devops/pitfalls-to-avoid-when-setting-up-a-devops-center-of-excellence)
-- [Why a Low-Code Development Recipe Worked for Pampered Chef](https://www.informationweek.com/devops/why-a-low-code-development-recipe-worked-for-pampered-chef)
-- [How Automation is Changing Entry-Level Career Paths in IT](https://www.informationweek.com/big-data/how-automation-is-changing-entry-level-career-paths-in-it)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

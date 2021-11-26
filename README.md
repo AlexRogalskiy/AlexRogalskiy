@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Carcinogens, Scientific Disagreement, and the Role of Scientists](https://chembites.org/2021/11/24/carcinogens-scientific-disagreement-and-the-role-of-scientists/)
-- [Ask HN: What jobs are as high-paying and comfortable as a software developer?](https://news.ycombinator.com/item?id=29337597)
-- [Show HN: Create a shareable resume using your GitHub](https://www.gittr.ee/portfolio/)
-- [Chris for the San Report EP. 14 Happy Thanksgiving to All](https://speakingaboutnews.com/the-san-report/)
-- [Dishwashers on $90 &lpar;AUD&rpar; an hour as staff shortages smash hospitality sector](https://www.smh.com.au/national/dishwashers-on-90-an-hour-as-staff-shortages-smash-hospitality-sector-20211119-p59a9x.html)
-- [Poster2Plot: Generate Movie/T.V show plot from a poster using Machine Learning](https://huggingface.co/spaces/deepklarity/poster2plot)
-- [Researchers Defeat Randomness to Create Ideal Code](https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/)
-- [Does Windows on Arm have a future?](https://www.zdnet.com/article/does-windows-on-arm-have-a-future/)
-- [Interface Message Processors &lpar;IMP&rpar; for the ARPA Computer Network &lpar;1974&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/AD0773419.pdf)
-- [100 Mental Models](https://wisdomtheory.gumroad.com/l/100MM)
+- [Uber Shuts Down in Belgium](https://techcrunch.com/2021/11/25/uber-belgium-shutdown/)
+- [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
+- [How to Understand the GUI API of macOS?](https://news.ycombinator.com/item?id=29346907)
+- [Links for November](https://astralcodexten.substack.com/p/links-for-november)
+- [Time Until the End of the World](https://www.wolframalpha.com/input/?i=time+left+until+the+end+of+the+world)
+- [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
+- [Advertising shaped Thanksgiving’s traditional foods](https://thecounter.org/thanksgiving-turkey-advertising-origins/)
+- [Welcome on Mezha.Media](https://mezha.media/2021/11/25/vitayemo-na-mezha-media/)
+- [Deuterium molecules in superposition act as slits for classic quantum experiment](https://www.chemistryworld.com/news/quantum-double-slit-experiment-done-with-molecules-for-the-first-time/4014819.article)
+- [Open Source GIS Fights the Three-Horned Monster &lpar;2002&rpar;](http://blog.cleverelephant.ca/2021/11/geoworld-2002.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

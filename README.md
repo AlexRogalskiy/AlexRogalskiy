@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [E00 - Choosing Your IT Career Path - HN&#39;s IT Crash course](https://www.reddit.com/r/InformationTechnology/comments/r2avjb/e00_choosing_your_it_career_path_hns_it_crash/)
+- [How To Streamline your Project with Extended Development Team](https://www.reddit.com/r/InformationTechnology/comments/r1x32o/how_to_streamline_your_project_with_extended/)
 - [Does Anyone know what is this ?](https://www.reddit.com/r/InformationTechnology/comments/r1kkb9/does_anyone_know_what_is_this/)
 - [What is Information Systems Management? What roles fit the ISM major?](https://www.reddit.com/r/InformationTechnology/comments/r1ikqb/what_is_information_systems_management_what_roles/)
 - [Should this be a red flag for new IT job I just accepted?](https://www.reddit.com/r/InformationTechnology/comments/r1gsl6/should_this_be_a_red_flag_for_new_it_job_i_just/)
@@ -414,8 +416,6 @@
 - [What Is Information Technology? Overview and Examples](https://www.reddit.com/r/InformationTechnology/comments/r17jv4/what_is_information_technology_overview_and/)
 - [Mass deployment to UEFI enabled tablets that don&#39;t have PXE.](https://www.reddit.com/r/InformationTechnology/comments/r1322y/mass_deployment_to_uefi_enabled_tablets_that_dont/)
 - [Could you please vaguely describe the difference between a PSK and a password??](https://www.reddit.com/r/InformationTechnology/comments/r0o5ig/could_you_please_vaguely_describe_the_difference/)
-- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/r0mg5u/needed_it_decision_makers_research_opportunity/)
-- [Updating an air gapped device?](https://www.reddit.com/r/InformationTechnology/comments/r0bin1/updating_an_air_gapped_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North American fertilizer shortage sparks fears of higher food prices](https://www.theguardian.com/environment/2021/nov/25/fertilizer-shortage-north-america-farmers-food-prices)
-- [Australia named ‘preferred candidate’ to host 2027 Rugby World Cup](https://www.theguardian.com/sport/2021/nov/25/australia-named-preferred-candidate-to-host-2027-rugby-world-cup)
-- [New Zealand opposition leader Judith Collins ousted after move to demote rival backfires](https://www.theguardian.com/world/2021/nov/25/new-zealand-opposition-leader-judith-collins-ousted-after-move-to-demote-rival-backfires)
-- [WA man charged with murder of daughter who died 15 years after he assaulted her](https://www.theguardian.com/australia-news/2021/nov/25/wa-man-charged-with-of-daughter-who-died-15-years-after-he-assaulted-her)
-- [Tragedy at sea claims dozens of lives in deadliest day of Channel crisis](https://www.theguardian.com/world/2021/nov/24/several-people-dead-migrant-boat-capsizes-channel)
-- [One in 10 UK families will struggle to cover basics this winter, charity finds](https://www.theguardian.com/society/2021/nov/25/one-in-10-uk-families-will-struggle-to-cover-basics-this-winter-charity-finds)
-- [Cosmetic surgery ads aimed at under-18s to be banned in UK](https://www.theguardian.com/society/2021/nov/25/cosmetic-surgery-ads-aimed-at-under-18s-to-be-banned-in-uk)
-- [Junior Messias delivers late winner for Milan to leave Atlético Madrid in trouble](https://www.theguardian.com/football/2021/nov/24/junior-messias-rescues-milan-hopes-with-crucial-late-goal-at-atletico-madrid)
-- [This is justice of a kind. But don’t forget Ahmaud Arbery’s killers almost got away | Akin Olla](https://www.theguardian.com/commentisfree/2021/nov/24/ahmaud-arbery-murder-verdict-white-supremacy)
-- [Intelligence and security committee report signed off after complaint to PM](https://www.theguardian.com/uk-news/2021/nov/24/intelligence-and-security-committee-report-signed-off-after-complaint-to-pm)
+- [Tim Paine takes leave of absence from cricket, Pat Cummins to be named Australian captain](https://www.theguardian.com/sport/2021/nov/26/extremely-concerned-tim-paine-takes-leave-of-absence-from-all-cricket)
+- [Late diagnosis of breast cancer rises as NHS struggles in Covid crisis](https://www.theguardian.com/society/2021/nov/26/late-diagnosis-of-breast-cancer-rises-as-nhs-struggles-in-covid-crisis)
+- [Sunak’s Kickstart scheme not delivering value for money, NAO finds](https://www.theguardian.com/politics/2021/nov/26/sunaks-kickstart-scheme-not-delivering-value-for-money-nao-finds)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/nov/26/premier-league-10-things-to-look-out-for-this-weekend)
+- [Death of England: Face to Face review – state of the nation drama is a fast, furious triumph](https://www.theguardian.com/tv-and-radio/2021/nov/25/death-of-england-face-to-face-review-state-of-the-nation-drama-is-a-fast-furious-triumph)
+- [The Drifters Girl review – sensational songs but flat storytelling](https://www.theguardian.com/stage/2021/nov/25/the-drifters-girl-review-beverley-knight)
+- [Crouch review a genuine landmark for football with possibility of real change | David Conn](https://www.theguardian.com/football/2021/nov/25/crouch-review-a-genuine-landmark-for-football-with-possibility-of-real-change)
+- [Alfredo Morelos sinks Sparta Prague to send Rangers into knockout stage](https://www.theguardian.com/football/2021/nov/25/rangers-sparta-prague-europa-league-match-report)
+- [Exeter Chiefs to ditch Native American branding after consulting fans](https://www.theguardian.com/sport/2021/nov/25/exeter-chiefs-to-ditch-native-american-branding-after-consulting-fans)
+- [Action over variant shows government keen to avoid Christmas calamity of 2020](https://www.theguardian.com/world/2021/nov/25/action-over-variant-shows-government-keen-to-avoid-christmas-calamity-of-2020)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

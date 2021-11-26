@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving](https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659)
 - [58 per cent of shoppers sticking to online shopping this holiday season: Google trends](https://www.itworldcanada.com/article/58-per-cent-of-shoppers-sticking-to-online-shopping-this-holiday-season-google-trends/466647)
 - [Canada’s first Automobility Hub launches in Windsor-Essex](https://www.itworldcanada.com/article/canadas-first-automobility-hub-launches-in-windsor-essex/466625)
+- [When good enough is no longer good enough](https://www.itworldcanada.com/article/when-good-enough-is-no-longer-good-enough/466642)
 - [High spectrum cost a barrier to affordable mobile plans, say experts](https://www.itworldcanada.com/article/high-spectrum-cost-a-barrier-to-affordable-mobile-plans-say-experts/466304)
 - [How SMBs are using technology to turn crisis into opportunity](https://www.itworldcanada.com/article/how-smbs-are-using-technology-to-turn-crisis-into-opportunity/466621)
 - [SaskTel advances smart city initiatives with IoT provider eleven-x](https://www.itworldcanada.com/article/sasktel-advances-smart-city-initiatives-with-iot-provider-eleven-x/466613)
 - [Cyber Security Today, Nov. 24, 2021 – A new Windows zero-day bug is found, a cybersecurity support program for Canadian teachers and students and a holiday warning from the FBI](https://www.itworldcanada.com/article/cyber-security-today-nov-24-2021-a-new-windows-zero-day-bug-is-found-a-cybersecurity-support-program-for-canadian-teachers-and-students-and-a-holiday-warning-from-the-fbi/466512)
 - [Hashtag trending Nov. 24 – GoDaddy breach; Samsung’s new chip plant; Amazon and Apple anti-competition](https://www.itworldcanada.com/article/hashtag-trending-nov-24-godaddy-breach-samsungs-new-chip-plant-amazon-and-apple-anti-competition/466571)
 - [Qualcomm announces new Snapdragon SoCs naming scheme](https://www.itworldcanada.com/article/qualcomm-announces-new-snapdragon-socs-naming-scheme/466534)
-- [Ericsson acquires Vonage for US$6.2 billion](https://www.itworldcanada.com/article/ericsson-acquires-vonage-for-us6-2-billion/466515)
-- [Coffee Briefing, Nov. 23, 2021 – Uber and Indigo partnership; new tech for senior care in Canada; AWS new cloud training initiatives; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-23-2021-uber-and-indigo-partnership-new-tech-for-senior-care-in-canada-aws-new-cloud-training-initiatives-and-more/466423)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

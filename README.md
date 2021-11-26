@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Zero Trust: An Answer to the Ransomware Menace?](https://www.informationweek.com/security-and-risk-strategy/zero-trust-an-answer-to-the-ransomware-menace-)
+- [https://www.networkcomputing.com/data-centers/what-expect-era-data-center-quantum-computing-nears](https://www.informationweek.com/strategic-cio/https-www-networkcomputing-com-data-centers-what-expect-era-data-center-quantum-computing-nears)
 - [In Memoriam: Dark Reading&#39;s Tim Wilson](https://www.informationweek.com/it-life/in-memoriam-dark-reading-s-tim-wilson)
 - [How to Maintain Team Productivity Without Being Viewed as a Scrooge](https://www.informationweek.com/strategic-cio/how-to-maintain-team-productivity-without-being-viewed-as-a-scrooge)
 - [CIOs: Understand These Legal Traps](https://www.informationweek.com/it-life/cios-understand-these-legal-traps)
@@ -369,8 +371,6 @@
 - [HPE and Transamerica Open Their Cloud Transformation Playbooks](https://www.informationweek.com/cloud/hpe-and-transamerica-open-their-cloud-transformation-playbooks)
 - [Overcoming Roadblocks to Digital Transformation](https://www.informationweek.com/it-life/overcoming-roadblocks-to-digital-transformation)
 - [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
-- [8 Tips for Creating a Cybersecurity Culture](https://www.informationweek.com/it-life/8-tips-for-creating-a-cybersecurity-culture)
-- [The New Normal is Insecure by Default](https://www.informationweek.com/security-and-risk-strategy/the-new-normal-is-insecure-by-default)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

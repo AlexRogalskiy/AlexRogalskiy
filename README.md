@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Marketing Manager](https://www.safebutler.com/careers)
-- [FarPlay: Low-Latency Audio over the Internet](https://farplay.io/)
-- [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
-- [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/)
-- [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
-- [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
-- [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
-- [The brusque Mr. Fix-It for Mexico City’s accordions](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
-- [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
-- [The 3-2-1 Backup Rule – Why Your Data Will Always Survive &lpar;2019&rpar;](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
+- [Canada tells Boeing its bid for C$19 bln fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
+- [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
+- [Umarell](https://en.wikipedia.org/wiki/Umarell)
+- [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [90% of Black Friday deals were the same price or cheaper six months before](https://www.bbc.com/news/business-59380453)
+- [What the world can learn from Britain’s humble hedge](https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge)
+- [PHP 8.1.0](https://www.php.net/releases/8.1/en.php)
+- [Vulnerabilities in chips in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
+- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

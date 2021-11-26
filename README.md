@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Government must prove its plans to police encryption work, says ex-cyber security chief](https://www.computerweekly.com/news/252510066/Government-must-proves-its-plans-to-police-encryption-work-says-ex-cyber-security-chief)
+- [British Army announces transformation programme](https://www.computerweekly.com/news/252510056/British-Army-announces-transformation-programme)
+- [Post Office supported 1999 law change that eased prosecutions using computer evidence](https://www.computerweekly.com/news/252510062/Post-Office-supported-1999-law-change-that-eased-prosecutions-using-computer-evidence)
+- [Industry must collaborate to advance digital skills, says FutureDotNow](https://www.computerweekly.com/news/252510049/Industry-must-collaborate-to-advance-digital-skills-says-FutureDotNow)
+- [Harness data to make better business conversations](https://www.computerweekly.com/opinion/Harness-data-to-make-better-business-conversations)
+- [UK consumers warned of increase in credit card application fraud](https://www.computerweekly.com/news/252510042/UK-consumers-warned-of-increase-in-credit-card-application-fraud)
+- [CW Nordics: Could Iceland be the best place in the world for HPC?](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Could-Iceland-be-the-best-place-in-the-world-for-HPC)
 - [Growing pains: Where next for Gaia-X?](https://www.computerweekly.com/news/252509984/Growing-pains-Where-next-for-Gaia-X)
 - [One in three Norwegian unicorns created in 2021 alone](https://www.computerweekly.com/news/252510003/One-in-three-Norwegian-unicorns-created-in-2021-alone)
 - [Regulation of AI needed to avoid the mistakes of social media](https://www.computerweekly.com/news/252509996/Regulation-of-AI-needed-to-avoid-the-mistakes-of-social-media)
-- [UK government announces NHS digital delivery review](https://www.computerweekly.com/news/252509992/UK-government-announces-NHS-digital-delivery-review)
-- [IT Priorities 2022: Software development](https://www.computerweekly.com/news/252509981/IT-Priorities-2022-Software-development)
-- [Consumer cyber bill to protect mobiles, smart devices](https://www.computerweekly.com/news/252509985/Consumer-cyber-bill-to-protect-mobiles-smart-devices)
-- [Societe Generale accelerates data and artificial intelligence strategy](https://www.computerweekly.com/news/252509983/French-banking-giant-accelerates-data-and-AI-strategy)
-- [Kazakhstan’s IT industry growing rapidly thanks to heavy government support](https://www.computerweekly.com/news/252509923/Kazakhstans-IT-industry-growing-rapidly-thanks-to-heavy-government-support)
-- [Apple sues under-fire malware firm NSO](https://www.computerweekly.com/news/252509980/Apple-sues-under-fire-malware-firm-NSO)
-- [The value of open source in Europe](https://www.computerweekly.com/opinion/The-value-of-Open-Source-in-Europe)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

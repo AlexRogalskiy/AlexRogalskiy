@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Ways to Prevent IT Projects From Getting Sunk](https://www.informationweek.com/strategic-cio/ways-to-prevent-it-projects-from-getting-sunk)
+- [Data Quality: How to Show the ROI for Projects](https://www.informationweek.com/big-data/data-quality-how-to-show-the-roi-for-projects)
+- [Why Modern Cybersecurity Requires AI](https://www.informationweek.com/security-and-risk-strategy/why-modern-cybersecurity-requires-ai)
 - [Zero Trust: An Answer to the Ransomware Menace?](https://www.informationweek.com/security-and-risk-strategy/zero-trust-an-answer-to-the-ransomware-menace-)
 - [https://www.networkcomputing.com/data-centers/what-expect-era-data-center-quantum-computing-nears](https://www.informationweek.com/strategic-cio/https-www-networkcomputing-com-data-centers-what-expect-era-data-center-quantum-computing-nears)
 - [In Memoriam: Dark Reading&#39;s Tim Wilson](https://www.informationweek.com/it-life/in-memoriam-dark-reading-s-tim-wilson)
@@ -368,9 +371,6 @@
 - [CIOs: Understand These Legal Traps](https://www.informationweek.com/it-life/cios-understand-these-legal-traps)
 - [Retailers Choosing Tech Upgrades Over Holiday Magic in 2021](https://www.informationweek.com/it-life/retailers-choosing-tech-upgrades-over-holiday-magic-in-2021)
 - [Elevate Your Tech Talent Onboarding with These 5 Tips](https://www.informationweek.com/it-life/elevate-your-tech-talent-onboarding-with-these-5-tips)
-- [HPE and Transamerica Open Their Cloud Transformation Playbooks](https://www.informationweek.com/cloud/hpe-and-transamerica-open-their-cloud-transformation-playbooks)
-- [Overcoming Roadblocks to Digital Transformation](https://www.informationweek.com/it-life/overcoming-roadblocks-to-digital-transformation)
-- [3 Ways CDOs Drive Successful Industrial Digital Transformation](https://www.informationweek.com/strategic-cio/3-ways-cdos-drive-successful-industrial-digital-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

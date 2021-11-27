@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tim Paine takes leave of absence from cricket, Pat Cummins to be named Australian captain](https://www.theguardian.com/sport/2021/nov/26/extremely-concerned-tim-paine-takes-leave-of-absence-from-all-cricket)
-- [Late diagnosis of breast cancer rises as NHS struggles in Covid crisis](https://www.theguardian.com/society/2021/nov/26/late-diagnosis-of-breast-cancer-rises-as-nhs-struggles-in-covid-crisis)
-- [Sunak’s Kickstart scheme not delivering value for money, NAO finds](https://www.theguardian.com/politics/2021/nov/26/sunaks-kickstart-scheme-not-delivering-value-for-money-nao-finds)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/nov/26/premier-league-10-things-to-look-out-for-this-weekend)
-- [Death of England: Face to Face review – state of the nation drama is a fast, furious triumph](https://www.theguardian.com/tv-and-radio/2021/nov/25/death-of-england-face-to-face-review-state-of-the-nation-drama-is-a-fast-furious-triumph)
-- [The Drifters Girl review – sensational songs but flat storytelling](https://www.theguardian.com/stage/2021/nov/25/the-drifters-girl-review-beverley-knight)
-- [Crouch review a genuine landmark for football with possibility of real change | David Conn](https://www.theguardian.com/football/2021/nov/25/crouch-review-a-genuine-landmark-for-football-with-possibility-of-real-change)
-- [Alfredo Morelos sinks Sparta Prague to send Rangers into knockout stage](https://www.theguardian.com/football/2021/nov/25/rangers-sparta-prague-europa-league-match-report)
-- [Exeter Chiefs to ditch Native American branding after consulting fans](https://www.theguardian.com/sport/2021/nov/25/exeter-chiefs-to-ditch-native-american-branding-after-consulting-fans)
-- [Action over variant shows government keen to avoid Christmas calamity of 2020](https://www.theguardian.com/world/2021/nov/25/action-over-variant-shows-government-keen-to-avoid-christmas-calamity-of-2020)
+- [Covid live: WHO calls Omicron variant of concern; New York declares ‘disaster emergency’](https://www.theguardian.com/world/live/2021/nov/26/covid-news-live-new-variant-sparks-tougher-restrictions-in-india-and-singapore-ahead-of-who-meeting)
+- [Solomon Islands unrest: three bodies found in burnt-out building](https://www.theguardian.com/world/2021/nov/27/solomon-islands-unrest-three-bodies-found-in-burnt-out-building)
+- [Stephen Sondheim’s musical masterpieces on stage and screen – in pictures](https://www.theguardian.com/stage/gallery/2021/nov/26/stephen-sondheims-musical-masterpieces-on-stage-and-screen-in-pictures)
+- [Stephen Sondheim: a daring and dazzling musical theatre icon](https://www.theguardian.com/stage/2021/nov/26/stephen-sondheim-a-daring-and-dazzling-musical-theatre-icon)
+- [Stephen Sondheim: master craftsman who reinvented the musical dies aged 91](https://www.theguardian.com/stage/2021/nov/26/stephen-sondheim-composer-lyricist-musical-west-side-story-follies-company)
+- [Storm Arwen: man dies in Northern Ireland as red warning issued for parts of UK](https://www.theguardian.com/uk-news/2021/nov/26/storm-arwen-red-warning-issued-for-parts-of-scotland-and-northern-england)
+- [Exeter’s Sam Simmonds leaves it late to crush Bath’s hopes of a first win](https://www.theguardian.com/sport/2021/nov/26/exeters-sam-simmonds-leaves-it-late-to-crush-baths-hopes-of-a-first-win)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/nov/26/twenty-photographs-of-the-week)
+- [Ralf Rangnick’s arrival is a response to Thomas Tuchel’s Chelsea revolution | Barney Ronay](https://www.theguardian.com/football/blog/2021/nov/26/ralf-rangnicks-arrival-is-a-response-to-thomas-tuchels-chelsea-revolution)
+- [Cricket has made a start in tackling discrimination – it must see it through | Chris Grant](https://www.theguardian.com/sport/2021/nov/26/cricket-has-made-a-start-in-tackling-discrimination-it-must-see-it-through)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

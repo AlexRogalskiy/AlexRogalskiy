@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Analyst: Apple&#39;s AR glasses will run Mac chips](https://www.computerworld.com/article/3642649/analyst-apples-ar-glasses-will-run-mac-chips.html#tk.rss_all)
+- [Apple’s NSO lawsuit targets illegal spying by oppressive regimes](https://www.computerworld.com/article/3642328/apples-nso-lawsuit-targets-illegal-spying-by-oppressive-regimes.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple pulls no punches in lawsuit against &#39;amoral&#39; NSO Group](https://www.computerworld.com/article/3641261/apple-pulls-no-punches-in-lawsuit-against-amoral-nso-group.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [13 hidden Pixel phone superpowers](https://www.computerworld.com/article/3622244/pixel-phone-overview.html#tk.rss_all)
 - [About Apple Business Essentials, I have questions](https://www.computerworld.com/article/3641769/about-apple-business-essentials-i-have-questions.html#tk.rss_all)
 - [Will the shift to Windows 11 mean more e-waste?](https://www.computerworld.com/article/3641833/will-the-shift-to-windows-11-mean-more-e-waste.html#tk.rss_all)
-- [Apple delays office return, but is it still too optimistic?](https://www.computerworld.com/article/3641831/apple-delays-office-return-but-is-it-still-too-optimistic.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

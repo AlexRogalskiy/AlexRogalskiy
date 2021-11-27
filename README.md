@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Post Office inquiry clears up opaque stance on subpostmaster compensation](https://www.computerweekly.com/news/252510083/Post-Office-Inquiry-clears-up-opaque-stance-on-subpostmaster-compensation)
+- [Computing at the edge: Let’s get on board](https://www.computerweekly.com/opinion/Computing-at-the-Edge-Lets-get-on-board)
+- [UK’s surveillance culture may be normalising use of tech for abuse](https://www.computerweekly.com/news/252510073/UKs-surveillance-culture-may-be-normalising-use-of-tech-for-abuse)
+- [Security Think Tank: SASE will become operational reality](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-will-become-operational-reality)
 - [Government must prove its plans to police encryption work, says ex-cyber security chief](https://www.computerweekly.com/news/252510066/Government-must-proves-its-plans-to-police-encryption-work-says-ex-cyber-security-chief)
 - [British Army announces transformation programme](https://www.computerweekly.com/news/252510056/British-Army-announces-transformation-programme)
 - [Post Office supported 1999 law change that eased prosecutions using computer evidence](https://www.computerweekly.com/news/252510062/Post-Office-supported-1999-law-change-that-eased-prosecutions-using-computer-evidence)
 - [Industry must collaborate to advance digital skills, says FutureDotNow](https://www.computerweekly.com/news/252510049/Industry-must-collaborate-to-advance-digital-skills-says-FutureDotNow)
 - [Harness data to make better business conversations](https://www.computerweekly.com/opinion/Harness-data-to-make-better-business-conversations)
 - [UK consumers warned of increase in credit card application fraud](https://www.computerweekly.com/news/252510042/UK-consumers-warned-of-increase-in-credit-card-application-fraud)
-- [CW Nordics: Could Iceland be the best place in the world for HPC?](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Could-Iceland-be-the-best-place-in-the-world-for-HPC)
-- [Growing pains: Where next for Gaia-X?](https://www.computerweekly.com/news/252509984/Growing-pains-Where-next-for-Gaia-X)
-- [One in three Norwegian unicorns created in 2021 alone](https://www.computerweekly.com/news/252510003/One-in-three-Norwegian-unicorns-created-in-2021-alone)
-- [Regulation of AI needed to avoid the mistakes of social media](https://www.computerweekly.com/news/252509996/Regulation-of-AI-needed-to-avoid-the-mistakes-of-social-media)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

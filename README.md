@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Canada tells Boeing its bid for C$19 bln fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
-- [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
-- [Umarell](https://en.wikipedia.org/wiki/Umarell)
-- [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [90% of Black Friday deals were the same price or cheaper six months before](https://www.bbc.com/news/business-59380453)
-- [What the world can learn from Britain’s humble hedge](https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge)
-- [PHP 8.1.0](https://www.php.net/releases/8.1/en.php)
-- [Vulnerabilities in chips in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
-- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
+- [LemonScript: A typed programming language inspired by TypeScript and Python](https://plebussupremus1234.github.io//LemonScript/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Cognitive distortions predict safetyism-inspired beliefs in college students](https://psyarxiv.com/5g7nc/)
+- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+- [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
+- [Procrastination and the Extended Will [pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9521&rep=rep1&type=pdf)
+- [PyTorch: Where we are headed and why it looks a lot like Julia &lpar;but not exactly&rpar;](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
+- [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
+- [Ask HN: What are the best-designed things you&#39;ve ever used?](https://news.ycombinator.com/item?id=29353980)
+- [Teach Yourself Computer Science &lpar;2020&rpar;](https://teachyourselfcs.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

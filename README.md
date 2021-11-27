@@ -406,6 +406,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/r2rqay/training_on_comptia_a_full_course/)
+- [Which degree?](https://www.reddit.com/r/InformationTechnology/comments/r2r5pi/which_degree/)
 - [E00 - Choosing Your IT Career Path - HN&#39;s IT Crash course](https://www.reddit.com/r/InformationTechnology/comments/r2avjb/e00_choosing_your_it_career_path_hns_it_crash/)
 - [How To Streamline your Project with Extended Development Team](https://www.reddit.com/r/InformationTechnology/comments/r1x32o/how_to_streamline_your_project_with_extended/)
 - [Does Anyone know what is this ?](https://www.reddit.com/r/InformationTechnology/comments/r1kkb9/does_anyone_know_what_is_this/)
@@ -414,8 +416,6 @@
 - [Can I connect two routers wirelessly and use the second router as an Ethernet access point?](https://www.reddit.com/r/InformationTechnology/comments/r1gnib/can_i_connect_two_routers_wirelessly_and_use_the/)
 - [Guest laptop cannot reach internet](https://www.reddit.com/r/InformationTechnology/comments/r182tq/guest_laptop_cannot_reach_internet/)
 - [What Is Information Technology? Overview and Examples](https://www.reddit.com/r/InformationTechnology/comments/r17jv4/what_is_information_technology_overview_and/)
-- [Mass deployment to UEFI enabled tablets that don&#39;t have PXE.](https://www.reddit.com/r/InformationTechnology/comments/r1322y/mass_deployment_to_uefi_enabled_tablets_that_dont/)
-- [Could you please vaguely describe the difference between a PSK and a password??](https://www.reddit.com/r/InformationTechnology/comments/r0o5ig/could_you_please_vaguely_describe_the_difference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

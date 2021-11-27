@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Uber Shuts Down in Belgium](https://techcrunch.com/2021/11/25/uber-belgium-shutdown/)
-- [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
-- [How to Understand the GUI API of macOS?](https://news.ycombinator.com/item?id=29346907)
-- [Links for November](https://astralcodexten.substack.com/p/links-for-november)
-- [Time Until the End of the World](https://www.wolframalpha.com/input/?i=time+left+until+the+end+of+the+world)
-- [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
-- [Advertising shaped Thanksgiving’s traditional foods](https://thecounter.org/thanksgiving-turkey-advertising-origins/)
-- [Welcome on Mezha.Media](https://mezha.media/2021/11/25/vitayemo-na-mezha-media/)
-- [Deuterium molecules in superposition act as slits for classic quantum experiment](https://www.chemistryworld.com/news/quantum-double-slit-experiment-done-with-molecules-for-the-first-time/4014819.article)
-- [Open Source GIS Fights the Three-Horned Monster &lpar;2002&rpar;](http://blog.cleverelephant.ca/2021/11/geoworld-2002.html)
+- [Implementing Oauth2 and OpenID Connect in your application](https://engineering.intility.com/article/implementing-oauth2-and-openid-connect-in-your-application)
+- [A Utopia of Useful Things](https://www.laphamsquarterly.org/roundtable/utopia-useful-things)
+- [Show HN: Handpicked Underground Electronic Music App](https://mixtape.ai)
+- [Gödel’s Loophole in U.S. Constitution](https://www.newyorker.com/news/daily-comment/kurt-godels-loophole-and-donald-trumps-defiance)
+- [Swiss vote on easing Covid restrictions](https://www.bbc.com/news/world-europe-59380745)
+- [The Paywalled Garden: iOS is Adware &lpar;2020&rpar;](https://stevestreza.com/2020/02/17/ios-adware/)
+- [PHP RFC: Pure intersection types](https://wiki.php.net/rfc/pure-intersection-types)
+- [Tea and Consent &lpar;Video, 2015&rpar;](https://www.youtube.com/watch?v=pZwvrxVavnQ)
+- [Alcuin&#39;s Sequence](https://en.wikipedia.org/wiki/Alcuin%27s_sequence)
+- [Radix UI](https://www.radix-ui.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

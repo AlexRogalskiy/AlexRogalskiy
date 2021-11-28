@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live: WHO calls Omicron variant of concern; New York declares ‘disaster emergency’](https://www.theguardian.com/world/live/2021/nov/26/covid-news-live-new-variant-sparks-tougher-restrictions-in-india-and-singapore-ahead-of-who-meeting)
-- [Solomon Islands unrest: three bodies found in burnt-out building](https://www.theguardian.com/world/2021/nov/27/solomon-islands-unrest-three-bodies-found-in-burnt-out-building)
-- [Stephen Sondheim’s musical masterpieces on stage and screen – in pictures](https://www.theguardian.com/stage/gallery/2021/nov/26/stephen-sondheims-musical-masterpieces-on-stage-and-screen-in-pictures)
-- [Stephen Sondheim: a daring and dazzling musical theatre icon](https://www.theguardian.com/stage/2021/nov/26/stephen-sondheim-a-daring-and-dazzling-musical-theatre-icon)
-- [Stephen Sondheim: master craftsman who reinvented the musical dies aged 91](https://www.theguardian.com/stage/2021/nov/26/stephen-sondheim-composer-lyricist-musical-west-side-story-follies-company)
-- [Storm Arwen: man dies in Northern Ireland as red warning issued for parts of UK](https://www.theguardian.com/uk-news/2021/nov/26/storm-arwen-red-warning-issued-for-parts-of-scotland-and-northern-england)
-- [Exeter’s Sam Simmonds leaves it late to crush Bath’s hopes of a first win](https://www.theguardian.com/sport/2021/nov/26/exeters-sam-simmonds-leaves-it-late-to-crush-baths-hopes-of-a-first-win)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/nov/26/twenty-photographs-of-the-week)
-- [Ralf Rangnick’s arrival is a response to Thomas Tuchel’s Chelsea revolution | Barney Ronay](https://www.theguardian.com/football/blog/2021/nov/26/ralf-rangnicks-arrival-is-a-response-to-thomas-tuchels-chelsea-revolution)
-- [Cricket has made a start in tackling discrimination – it must see it through | Chris Grant](https://www.theguardian.com/sport/2021/nov/26/cricket-has-made-a-start-in-tackling-discrimination-it-must-see-it-through)
+- [Covid live news: UK, Germany and Italy detect Omicron cases; Israel bans all visitors](https://www.theguardian.com/world/live/2021/nov/28/covid-live-news-uk-germany-and-italy-detect-omicron-cases-israel-bans-all-visitors)
+- [Water profits surge even as leaks and spills wash away public trust](https://www.theguardian.com/business/2021/nov/28/water-profits-surge-even-as-leaks-and-spills-wash-away-public-trust)
+- [Follow suit: 5 ways to style party suits – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/27/follow-suit-5-ways-to-style-party-suits-in-pictures)
+- [We love: fashion fixes for the week ahead](https://www.theguardian.com/fashion/gallery/2021/nov/27/we-love-fashion-fixes-for-the-week-ahead)
+- [Farce as Belenenses start game with nine men – including two keepers](https://www.theguardian.com/football/2021/nov/27/farce-as-belenenses-start-game-with-nine-men-including-two-keepers)
+- [Border Force staff union joins fight to block Priti Patel’s pushback plans](https://www.theguardian.com/politics/2021/nov/27/border-force-staff-union-joins-fight-to-block-to-priti-patels-pushback-plans)
+- [Mayor’s Fund for London reports Naomi Campbell’s charity over debt of £50,000](https://www.theguardian.com/society/2021/nov/27/mayors-fund-for-london-reports-naomi-campbells-charity-over-debt-of-50000)
+- [Barbarians deny ‘shambles’ of Covid call-off was their fault or RFU’s](https://www.theguardian.com/sport/2021/nov/27/barbarians-deny-shambles-of-covid-call-off-was-their-fault-or-rfus)
+- [Niger: two killed and 17 injured in clash with French military convoy](https://www.theguardian.com/world/2021/nov/27/niger-two-killed-and-17-injured-in-clash-with-french-military-convoy)
+- [Over 100,000 of the most vulnerable people have not had third jab](https://www.theguardian.com/world/2021/nov/27/over-100000-of-the-most-vulnerable-people-have-not-had-third-jab)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

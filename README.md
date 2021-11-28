@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LemonScript: A typed programming language inspired by TypeScript and Python](https://plebussupremus1234.github.io//LemonScript/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Cognitive distortions predict safetyism-inspired beliefs in college students](https://psyarxiv.com/5g7nc/)
-- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
-- [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
-- [Procrastination and the Extended Will [pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9521&rep=rep1&type=pdf)
-- [PyTorch: Where we are headed and why it looks a lot like Julia &lpar;but not exactly&rpar;](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
-- [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
-- [Ask HN: What are the best-designed things you&#39;ve ever used?](https://news.ycombinator.com/item?id=29353980)
-- [Teach Yourself Computer Science &lpar;2020&rpar;](https://teachyourselfcs.com/)
+- [Aphantasia - the inability to voluntarily create mental images](https://en.wikipedia.org/wiki/Aphantasia)
+- [Mina: Cryptocurrency Protocol with a Succinct Blockchain](https://minaprotocol.com/https://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.com/en)
+- [Five Books That Changed My Career as a Software Engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
+- [Permutation-Invariant Neural Networks for Reinforcement Learning](https://blog.otoro.net/2021/11/18/attentionneuron/)
+- [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
+- [Rare Greek Variables](https://www.gwern.net/Variables)
+- [My friends Instagram was hacked and deep-fake videos posted in less than 6 hours](https://news.ycombinator.com/item?id=29364427)
+- [Ask HN: Why is Docusign a $50B company?](https://news.ycombinator.com/item?id=29363897)
+- [The Myth of Multitasking &lpar;2008&rpar;](https://www.thenewatlantis.com/publications/the-myth-of-multitasking)
+- [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

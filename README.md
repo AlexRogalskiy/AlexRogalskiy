@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Implementing Oauth2 and OpenID Connect in your application](https://engineering.intility.com/article/implementing-oauth2-and-openid-connect-in-your-application)
-- [A Utopia of Useful Things](https://www.laphamsquarterly.org/roundtable/utopia-useful-things)
-- [Show HN: Handpicked Underground Electronic Music App](https://mixtape.ai)
-- [Gödel’s Loophole in U.S. Constitution](https://www.newyorker.com/news/daily-comment/kurt-godels-loophole-and-donald-trumps-defiance)
-- [Swiss vote on easing Covid restrictions](https://www.bbc.com/news/world-europe-59380745)
-- [The Paywalled Garden: iOS is Adware &lpar;2020&rpar;](https://stevestreza.com/2020/02/17/ios-adware/)
-- [PHP RFC: Pure intersection types](https://wiki.php.net/rfc/pure-intersection-types)
-- [Tea and Consent &lpar;Video, 2015&rpar;](https://www.youtube.com/watch?v=pZwvrxVavnQ)
-- [Alcuin&#39;s Sequence](https://en.wikipedia.org/wiki/Alcuin%27s_sequence)
-- [Radix UI](https://www.radix-ui.com/)
+- [How to parse EVE Online chat logs &lpar;in Common Lisp&rpar;](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
+- [The Second-Mover Advantage &lpar;2013&rpar;](https://insight.kellogg.northwestern.edu/article/the_second_mover_advantage)
+- [The Case Against Lockdowns](https://cspicenter.org/blog/waronscience/the-case-against-lockdowns/)
+- [SpaceX Satellite Signals Used Like GPS to Pinpoint Location on Earth](http://spaceref.com/news/viewpr.html?pid=58830)
+- [Global Trends 2040: A More Contested World](https://www.forrester.com/blogs/global-trends-2040-a-more-contested-word/)
+- [Dana Gioia – “Why Beauty Matters” &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=QAlMjfMfbB4)
+- [Ask HN: Best current options for an FAQ site?](https://news.ycombinator.com/item?id=29365391)
+- [Free speech has won another victory at Cambridge](https://www.spiked-online.com/2021/11/26/how-we-uncancelled-jordan-peterson/)
+- [The World’s Hidden Harmony [pdf]](https://embodiedpresent.com/gift/The-World%E2%80%99s-Hidden-Harmony-Philip-Shepherd-Tim-McKee.pdf)
+- [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

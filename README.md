@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to parse EVE Online chat logs &lpar;in Common Lisp&rpar;](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
-- [The Second-Mover Advantage &lpar;2013&rpar;](https://insight.kellogg.northwestern.edu/article/the_second_mover_advantage)
-- [The Case Against Lockdowns](https://cspicenter.org/blog/waronscience/the-case-against-lockdowns/)
-- [SpaceX Satellite Signals Used Like GPS to Pinpoint Location on Earth](http://spaceref.com/news/viewpr.html?pid=58830)
-- [Global Trends 2040: A More Contested World](https://www.forrester.com/blogs/global-trends-2040-a-more-contested-word/)
-- [Dana Gioia – “Why Beauty Matters” &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=QAlMjfMfbB4)
-- [Ask HN: Best current options for an FAQ site?](https://news.ycombinator.com/item?id=29365391)
-- [Free speech has won another victory at Cambridge](https://www.spiked-online.com/2021/11/26/how-we-uncancelled-jordan-peterson/)
-- [The World’s Hidden Harmony [pdf]](https://embodiedpresent.com/gift/The-World%E2%80%99s-Hidden-Harmony-Philip-Shepherd-Tim-McKee.pdf)
-- [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
+- [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
+- [Macy’s Day Parade NFT](https://sweet.io/macys)
+- [Scientists captured growth of butterfly wings inside chrysalis on video](https://arstechnica.com/science/2021/11/metamorphosis-scientists-watch-butterfly-wings-grow-inside-chrysalis-in-real-time/)
+- [Bread &lpar;1929&rpar; [video]](https://dovzhenkocentre.org/player-khlib/)
+- [Space law hasn’t been changed since 1967 – but the UN aims to update laws](https://theconversation.com/space-law-hasnt-been-changed-since-1967-but-the-un-aims-to-update-laws-and-keep-space-peaceful-171351)
+- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
+- [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
+- [Thieves Stole $40M of Copper by Spray-Painting Rocks in Turkey](https://www.bloomberg.com/features/2021-painted-rocks-copper-heist/)
+- [Breakthroughs – Locally Testable Codes with Constant Rate, Distance, Locality](https://simons.berkeley.edu/events/breakthroughs-locally-testable-codes-constant-rate-distance-and-locality)
+- [Epic’s Tim Sweeney Wants to Break Down Digital Walls in Gaming](https://www.bloomberg.com/news/newsletters/2021-11-26/epic-s-tim-sweeney-advocates-for-a-single-app-store-for-video-games)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

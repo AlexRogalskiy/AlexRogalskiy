@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Aphantasia - the inability to voluntarily create mental images](https://en.wikipedia.org/wiki/Aphantasia)
-- [Mina: Cryptocurrency Protocol with a Succinct Blockchain](https://minaprotocol.com/https://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.com/en)
-- [Five Books That Changed My Career as a Software Engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
-- [Permutation-Invariant Neural Networks for Reinforcement Learning](https://blog.otoro.net/2021/11/18/attentionneuron/)
-- [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
-- [Rare Greek Variables](https://www.gwern.net/Variables)
-- [My friends Instagram was hacked and deep-fake videos posted in less than 6 hours](https://news.ycombinator.com/item?id=29364427)
-- [Ask HN: Why is Docusign a $50B company?](https://news.ycombinator.com/item?id=29363897)
-- [The Myth of Multitasking &lpar;2008&rpar;](https://www.thenewatlantis.com/publications/the-myth-of-multitasking)
-- [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
+- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
+- [A father comforts his son on deathbed. The photo that changed the face of AIDS](https://rarehistoricalphotos.com/father-son-deathbed-david-kirby-1989/)
+- [Herbs and Spices Might Contain Arsenic, Cadmium, and Lead](https://www.consumerreports.org/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead/)
+- [Vinegar: Safari extension that replaces YouTube embeds with html5 video tags](https://andadinosaur.com/launch-vinegar)
+- [A Constitutional Convention is closer than you think](https://www.coloradofiscal.org/a-constitutional-convention-is-closer-than-you-think/blog/)
+- [Anthocyanins](https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/)
+- [How to Save a Ski Town](https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/)
+- [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
+- [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

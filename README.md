@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which university should I choose to attend in order to become an Information Security Analyst/ Specialist/Manager?](https://www.reddit.com/r/InformationTechnology/comments/r4i3ec/which_university_should_i_choose_to_attend_in/)
+- [Changing Careers..](https://www.reddit.com/r/InformationTechnology/comments/r4fhdz/changing_careers/)
+- [Student jobs?](https://www.reddit.com/r/InformationTechnology/comments/r4aefl/student_jobs/)
+- [Is there an Active Directory simulator or emulator that can be used for training if you don&#39;t have access to a Windows Server installation?](https://www.reddit.com/r/InformationTechnology/comments/r41t66/is_there_an_active_directory_simulator_or/)
+- [How much can you make with IT DEGREE?](https://www.reddit.com/r/InformationTechnology/comments/r41izu/how_much_can_you_make_with_it_degree/)
 - [Podcast recommendations](https://www.reddit.com/r/InformationTechnology/comments/r3p4fq/podcast_recommendations/)
 - [Will not reset!!! HP Officejet 7500 E910 Error: 0x61011beb](https://www.reddit.com/r/InformationTechnology/comments/r3m1mr/will_not_reset_hp_officejet_7500_e910_error/)
 - [Network diagramming standard?](https://www.reddit.com/r/InformationTechnology/comments/r3dm83/network_diagramming_standard/)
 - [Do remote working network administrators take their breaks whenever they want?](https://www.reddit.com/r/InformationTechnology/comments/r3d8e8/do_remote_working_network_administrators_take/)
 - [Help. Lol](https://www.reddit.com/r/InformationTechnology/comments/r3c44q/help_lol/)
-- [Which degree?](https://www.reddit.com/r/InformationTechnology/comments/r2r5pi/which_degree/)
-- [E00 - Choosing Your IT Career Path - HN&#39;s IT Crash course](https://www.reddit.com/r/InformationTechnology/comments/r2avjb/e00_choosing_your_it_career_path_hns_it_crash/)
-- [How To Streamline your Project with Extended Development Team](https://www.reddit.com/r/InformationTechnology/comments/r1x32o/how_to_streamline_your_project_with_extended/)
-- [Does Anyone know what is this ?](https://www.reddit.com/r/InformationTechnology/comments/r1kkb9/does_anyone_know_what_is_this/)
-- [What is Information Systems Management? What roles fit the ISM major?](https://www.reddit.com/r/InformationTechnology/comments/r1ikqb/what_is_information_systems_management_what_roles/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: UK, Germany and Italy detect Omicron cases; Israel bans all visitors](https://www.theguardian.com/world/live/2021/nov/28/covid-live-news-uk-germany-and-italy-detect-omicron-cases-israel-bans-all-visitors)
-- [Water profits surge even as leaks and spills wash away public trust](https://www.theguardian.com/business/2021/nov/28/water-profits-surge-even-as-leaks-and-spills-wash-away-public-trust)
-- [Follow suit: 5 ways to style party suits – in pictures](https://www.theguardian.com/fashion/gallery/2021/nov/27/follow-suit-5-ways-to-style-party-suits-in-pictures)
-- [We love: fashion fixes for the week ahead](https://www.theguardian.com/fashion/gallery/2021/nov/27/we-love-fashion-fixes-for-the-week-ahead)
-- [Farce as Belenenses start game with nine men – including two keepers](https://www.theguardian.com/football/2021/nov/27/farce-as-belenenses-start-game-with-nine-men-including-two-keepers)
-- [Border Force staff union joins fight to block Priti Patel’s pushback plans](https://www.theguardian.com/politics/2021/nov/27/border-force-staff-union-joins-fight-to-block-to-priti-patels-pushback-plans)
-- [Mayor’s Fund for London reports Naomi Campbell’s charity over debt of £50,000](https://www.theguardian.com/society/2021/nov/27/mayors-fund-for-london-reports-naomi-campbells-charity-over-debt-of-50000)
-- [Barbarians deny ‘shambles’ of Covid call-off was their fault or RFU’s](https://www.theguardian.com/sport/2021/nov/27/barbarians-deny-shambles-of-covid-call-off-was-their-fault-or-rfus)
-- [Niger: two killed and 17 injured in clash with French military convoy](https://www.theguardian.com/world/2021/nov/27/niger-two-killed-and-17-injured-in-clash-with-french-military-convoy)
-- [Over 100,000 of the most vulnerable people have not had third jab](https://www.theguardian.com/world/2021/nov/27/over-100000-of-the-most-vulnerable-people-have-not-had-third-jab)
+- [Covid live news: Omicron variant detected in Canada as Fauci warns two weeks needed to study new strain](https://www.theguardian.com/world/live/2021/nov/29/covid-live-news-omicron-variant-detected-in-canada-as-fauci-warns-two-weeks-needed-to-study-new-strain)
+- [Could the Omicron variant have been avoided? It could set back vaccine successes around the world | Meru Sheel](https://www.theguardian.com/commentisfree/2021/nov/29/could-the-omicron-variant-have-been-avoided-it-could-set-back-vaccine-successes-around-the-world)
+- [Prince Norodom Ranariddh, former Cambodian PM, dies aged 77](https://www.theguardian.com/world/2021/nov/29/prince-norodom-ranariddh-former-cambodian-pm-dies-aged-77)
+- [‘Perfect storm’ for UK manufacturers as costs, credit and cash crunch looms](https://www.theguardian.com/business/2021/nov/29/perfect-storm-for-uk-manufacturers-as-costs-credit-and-cash-crunch-looms)
+- [‘Race for space’ fuelling busiest UK housing market since 2007](https://www.theguardian.com/business/2021/nov/29/race-for-space-fuelling-busiest-uk-housing-market-since-2007)
+- [Britain and Israel to sign trade and defence deal](https://www.theguardian.com/politics/2021/nov/28/britain-and-israel-to-sign-trade-and-defence-deal)
+- [Trump challenges media and Democrats to debate his electoral fraud lie](https://www.theguardian.com/us-news/2021/nov/29/trump-press-democrats-debate-electoral-fraud-lie-schiff-meadows-capitol-attack)
+- [Mark Selby knocked out of UK Championship by Hossein Vafaei](https://www.theguardian.com/sport/2021/nov/28/mark-selby-knocked-out-of-uk-championship-by-hossein-vafaei)
+- [Fauci: US could face ‘fifth wave’ of Covid as Omicron variant nears](https://www.theguardian.com/world/2021/nov/28/us-covid-omicron-variant-fifth-wave-fauci)
+- [American Rust review – Jeff Daniels is stuck in an opioid Groundhog Day](https://www.theguardian.com/tv-and-radio/2021/nov/28/american-rust-review-jeff-daniels-is-stuck-in-an-opioid-groundhog-day)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

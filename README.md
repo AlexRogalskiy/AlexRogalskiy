@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [UNESCO launches global standard for AI ethics](https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html#tk.rss_all)
+- [JetBrains previews next-gen Fleet IDE](https://www.infoworld.com/article/3642536/jetbrains-previews-next-gen-fleet-ide.html#tk.rss_all)
+- [Inside the new AWS](https://www.infoworld.com/article/3642652/inside-the-new-aws.html#tk.rss_all)
+- [How the public clouds are innovating on AI](https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html#tk.rss_all)
+- [Google Cloud AppSheet review: No-code with extras](https://www.infoworld.com/article/3640975/google-cloud-appsheet-review-no-code-with-extras.html#tk.rss_all)
 - [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
 - [Send Outlook email and Teams messages with R](https://www.infoworld.com/article/3641408/send-outlook-email-and-teams-messages-with-r.html#tk.rss_all)
 - [Take a look at Azure Monitor](https://www.infoworld.com/article/3641910/take-a-look-at-azure-monitor.html#tk.rss_all)
 - [Windows Forms advances in .NET 6 but still needs work](https://www.infoworld.com/article/3641257/windows-forms-advances-in-net-6-but-still-needs-work.html#tk.rss_all)
 - [Build a cloud culture to attract and keep skilled people](https://www.infoworld.com/article/3641988/build-a-cloud-culture-to-attract-and-keep-skilled-people.html#tk.rss_all)
-- [How CI/CD is different for data science](https://www.infoworld.com/article/3640569/how-cicd-is-different-for-data-science.html#tk.rss_all)
-- [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_all)
-- [Stop saying open source nonsense](https://www.infoworld.com/article/3641218/stop-saying-open-source-nonsense.html#tk.rss_all)
-- [Learn to love the multitenant cloud](https://www.infoworld.com/article/3640722/learn-to-love-the-multitenant-cloud.html#tk.rss_all)
-- [Security is the Achilles’ heel of multicloud](https://www.infoworld.com/article/3641331/the-achilles-heel-of-multicloud-security.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

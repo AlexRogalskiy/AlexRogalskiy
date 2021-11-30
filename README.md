@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
-- [Macy’s Day Parade NFT](https://sweet.io/macys)
-- [Scientists captured growth of butterfly wings inside chrysalis on video](https://arstechnica.com/science/2021/11/metamorphosis-scientists-watch-butterfly-wings-grow-inside-chrysalis-in-real-time/)
-- [Bread &lpar;1929&rpar; [video]](https://dovzhenkocentre.org/player-khlib/)
-- [Space law hasn’t been changed since 1967 – but the UN aims to update laws](https://theconversation.com/space-law-hasnt-been-changed-since-1967-but-the-un-aims-to-update-laws-and-keep-space-peaceful-171351)
-- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
-- [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
-- [Thieves Stole $40M of Copper by Spray-Painting Rocks in Turkey](https://www.bloomberg.com/features/2021-painted-rocks-copper-heist/)
-- [Breakthroughs – Locally Testable Codes with Constant Rate, Distance, Locality](https://simons.berkeley.edu/events/breakthroughs-locally-testable-codes-constant-rate-distance-and-locality)
-- [Epic’s Tim Sweeney Wants to Break Down Digital Walls in Gaming](https://www.bloomberg.com/news/newsletters/2021-11-26/epic-s-tim-sweeney-advocates-for-a-single-app-store-for-video-games)
+- [Will Geoengineering Kill Us or Save Us?](https://www.currentaffairs.org/2021/06/will-geoengineering-kill-us-or-save-us)
+- [Firmware “Best Known Configuration” in Fwupd](https://blogs.gnome.org/hughsie/2021/11/29/firmware-best-known-configuration-in-fwupd/)
+- [Artwork by Anatoly Fomenko, Professor of Math at Moscow University](https://sanjindumisic.com/artwork-by-anatoly-fomenko/)
+- [Why Instagram photos are square – Kevin Systrom and Lex Fridman [video]](https://www.youtube.com/watch?v=FkNmmrZaSBY)
+- [Tuner: Minimalist radio station player for Linux](https://github.com/louis77/tuner)
+- [SpaceX’s Starlink Will Make Life Hell for Astronomers](https://www.thedailybeast.com/spacexs-starlink-is-making-life-hell-for-astronomers-but-telescopes-on-the-moon-could-fix-that)
+- [Pyramid Texts](https://en.wikipedia.org/wiki/Pyramid_Texts)
+- [HP&#39;s Clarke – 4-Bit CPU/LCD Driver/Memory Controller](https://grack.com/writing/saturn/clarke.txt)
+- [Assessing the effect of beard hair lengths on masks used during the pandemic](https://www.nature.com/articles/s41370-021-00337-1)
+- [Explain Yourself – A Primer on ML Interpretability and Explainability](https://thegradient.pub/explain-yourself/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

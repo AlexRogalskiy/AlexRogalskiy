@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Post Office inquiry clears up opaque stance on subpostmaster compensation](https://www.computerweekly.com/news/252510083/Post-Office-Inquiry-clears-up-opaque-stance-on-subpostmaster-compensation)
-- [Computing at the edge: Let’s get on board](https://www.computerweekly.com/opinion/Computing-at-the-Edge-Lets-get-on-board)
-- [UK’s surveillance culture may be normalising use of tech for abuse](https://www.computerweekly.com/news/252510073/UKs-surveillance-culture-may-be-normalising-use-of-tech-for-abuse)
-- [Security Think Tank: SASE will become operational reality](https://www.computerweekly.com/opinion/Security-Think-Tank-SASE-will-become-operational-reality)
-- [Government must prove its plans to police encryption work, says ex-cyber security chief](https://www.computerweekly.com/news/252510066/Government-must-proves-its-plans-to-police-encryption-work-says-ex-cyber-security-chief)
-- [British Army announces transformation programme](https://www.computerweekly.com/news/252510056/British-Army-announces-transformation-programme)
-- [Post Office supported 1999 law change that eased prosecutions using computer evidence](https://www.computerweekly.com/news/252510062/Post-Office-supported-1999-law-change-that-eased-prosecutions-using-computer-evidence)
-- [Industry must collaborate to advance digital skills, says FutureDotNow](https://www.computerweekly.com/news/252510049/Industry-must-collaborate-to-advance-digital-skills-says-FutureDotNow)
-- [Harness data to make better business conversations](https://www.computerweekly.com/opinion/Harness-data-to-make-better-business-conversations)
-- [UK consumers warned of increase in credit card application fraud](https://www.computerweekly.com/news/252510042/UK-consumers-warned-of-increase-in-credit-card-application-fraud)
+- [ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches](https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches)
+- [UKISUG 2021: S/4 Hana skills deficit and legacy custom code hamper migration](https://www.computerweekly.com/news/252510124/UKISUG-2021-S-4-Hana-skills-deficit-and-legacy-custom-code-hamper-migration)
+- [UK announces standard for algorithmic transparency](https://www.computerweekly.com/news/252510131/UK-announces-standard-for-algorithmic-transparency)
+- [IT Priorities 2022: End-user computing](https://www.computerweekly.com/news/252510130/IT-priorities-2022-End-user-computing)
+- [UK ‘impact startups’ raise £2bn in 2021](https://www.computerweekly.com/news/252510125/UK-impact-startups-raise-2bn-in-2021)
+- [British Army picks Immersive Labs for cyber training](https://www.computerweekly.com/news/252510118/British-Army-picks-Immersive-Labs-for-cyber-training)
+- [Cabinet Office slammed after advising users to ditch UKCloud as further investment nears](https://www.computerweekly.com/news/252510117/Cabinet-Office-slammed-after-advising-users-to-ditch-UKCloud-as-further-investment-nears)
+- [DWP extends Capita contract for Scottish jobs programme](https://www.computerweekly.com/news/252510120/DWP-extends-Capita-contract-for-Scottish-job-programme)
+- [NetSuite CEO Goldberg: Growth companies nimble for post-Covid normality](https://www.computerweekly.com/news/252510090/NetSuite-CEO-Goldberg-growth-companies-nimble-for-post-Covid-normalcy)
+- [Three latest trends and developments around the Mitre ATT&amp;CK framework](https://www.computerweekly.com/news/252510119/Three-latest-trends-and-developments-around-the-Mitre-ATTCK-framework)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

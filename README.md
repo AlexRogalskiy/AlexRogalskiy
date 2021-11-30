@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
-- [A father comforts his son on deathbed. The photo that changed the face of AIDS](https://rarehistoricalphotos.com/father-son-deathbed-david-kirby-1989/)
-- [Herbs and Spices Might Contain Arsenic, Cadmium, and Lead](https://www.consumerreports.org/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead/)
-- [Vinegar: Safari extension that replaces YouTube embeds with html5 video tags](https://andadinosaur.com/launch-vinegar)
-- [A Constitutional Convention is closer than you think](https://www.coloradofiscal.org/a-constitutional-convention-is-closer-than-you-think/blog/)
-- [Anthocyanins](https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/)
-- [How to Save a Ski Town](https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/)
-- [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
-- [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
+- [Long View: Is the World Deglobalising?](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising)
+- [Accepted and ghosted: interviewing for a leadership position at Stripe](https://news.ycombinator.com/item?id=29387264)
+- [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
+- [Will Nix Overtake Docker](https://blog.replit.com/nix-vs-docker)
+- [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
+- [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
+- [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
+- [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
+- [Show HN: An AWS Savings Plans Calculator](https://cloudshim.com/calculator)
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

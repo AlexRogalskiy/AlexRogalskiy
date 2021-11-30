@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: Omicron variant detected in Canada as Fauci warns two weeks needed to study new strain](https://www.theguardian.com/world/live/2021/nov/29/covid-live-news-omicron-variant-detected-in-canada-as-fauci-warns-two-weeks-needed-to-study-new-strain)
-- [Could the Omicron variant have been avoided? It could set back vaccine successes around the world | Meru Sheel](https://www.theguardian.com/commentisfree/2021/nov/29/could-the-omicron-variant-have-been-avoided-it-could-set-back-vaccine-successes-around-the-world)
-- [Prince Norodom Ranariddh, former Cambodian PM, dies aged 77](https://www.theguardian.com/world/2021/nov/29/prince-norodom-ranariddh-former-cambodian-pm-dies-aged-77)
-- [‘Perfect storm’ for UK manufacturers as costs, credit and cash crunch looms](https://www.theguardian.com/business/2021/nov/29/perfect-storm-for-uk-manufacturers-as-costs-credit-and-cash-crunch-looms)
-- [‘Race for space’ fuelling busiest UK housing market since 2007](https://www.theguardian.com/business/2021/nov/29/race-for-space-fuelling-busiest-uk-housing-market-since-2007)
-- [Britain and Israel to sign trade and defence deal](https://www.theguardian.com/politics/2021/nov/28/britain-and-israel-to-sign-trade-and-defence-deal)
-- [Trump challenges media and Democrats to debate his electoral fraud lie](https://www.theguardian.com/us-news/2021/nov/29/trump-press-democrats-debate-electoral-fraud-lie-schiff-meadows-capitol-attack)
-- [Mark Selby knocked out of UK Championship by Hossein Vafaei](https://www.theguardian.com/sport/2021/nov/28/mark-selby-knocked-out-of-uk-championship-by-hossein-vafaei)
-- [Fauci: US could face ‘fifth wave’ of Covid as Omicron variant nears](https://www.theguardian.com/world/2021/nov/28/us-covid-omicron-variant-fifth-wave-fauci)
-- [American Rust review – Jeff Daniels is stuck in an opioid Groundhog Day](https://www.theguardian.com/tv-and-radio/2021/nov/28/american-rust-review-jeff-daniels-is-stuck-in-an-opioid-groundhog-day)
+- [Covid live news: UK battles new virus variant as Omicron is detected around the world – as it happened](https://www.theguardian.com/world/live/2021/nov/29/covid-live-news-omicron-variant-detected-in-canada-as-fauci-warns-two-weeks-needed-to-study-new-strain)
+- [MI6 needs tech sector’s help to win AI race with China and Russia – spy chief](https://www.theguardian.com/uk-news/2021/nov/30/mi6-will-need-to-be-more-open-to-stay-secret-spy-chief-to-say)
+- [Aung San Suu Kyi: Myanmar court set to deliver first verdict on deposed leader](https://www.theguardian.com/world/2021/nov/30/aung-san-suu-kyi-myanmar-court-set-to-deliver-first-verdict-on-deposed-leader)
+- [Lego gives its 20,000 employees three days extra holiday after profits rise 140%](https://www.theguardian.com/lifeandstyle/2021/nov/30/lego-gives-its-20000-employees-three-days-extra-holiday-after-profits-rise-140)
+- [Queen congratulates Barbados as it becomes a republic](https://www.theguardian.com/world/2021/nov/30/queen-congratulates-barbados-as-it-becomes-a-republic)
+- [Most deprived schools hit hardest by education cuts in England, IFS says](https://www.theguardian.com/politics/2021/nov/30/most-deprived-schools-hit-hardest-by-education-cuts-in-england-ifs-says)
+- [Bree Runway, Holly Humberstone and Lola Young nominated for Brits Rising Star award](https://www.theguardian.com/music/2021/nov/30/bree-runway-holly-humberstone-and-lola-young-nominated-for-brits-rising-star-award)
+- [Novelist Bernardine Evaristo to be president of Royal Society of Literature](https://www.theguardian.com/books/2021/nov/30/novelist-bernardine-evaristo-to-be-president-of-royal-society-of-literature)
+- [Reporter denies William tacitly approved leak of Meghan bullying claims](https://www.theguardian.com/uk-news/2021/nov/29/reporter-denies-william-approved-leak-meghan-bullying-claims)
+- [Covid: UK aims for 500,000 jabs a day in bid to outpace Omicron variant](https://www.theguardian.com/world/2021/nov/29/covid-uk-aims-500000-jabs-a-day-in-bid-to-outpace-omicron-variant)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

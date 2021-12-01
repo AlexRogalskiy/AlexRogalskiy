@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Will Geoengineering Kill Us or Save Us?](https://www.currentaffairs.org/2021/06/will-geoengineering-kill-us-or-save-us)
-- [Firmware “Best Known Configuration” in Fwupd](https://blogs.gnome.org/hughsie/2021/11/29/firmware-best-known-configuration-in-fwupd/)
-- [Artwork by Anatoly Fomenko, Professor of Math at Moscow University](https://sanjindumisic.com/artwork-by-anatoly-fomenko/)
-- [Why Instagram photos are square – Kevin Systrom and Lex Fridman [video]](https://www.youtube.com/watch?v=FkNmmrZaSBY)
-- [Tuner: Minimalist radio station player for Linux](https://github.com/louis77/tuner)
-- [SpaceX’s Starlink Will Make Life Hell for Astronomers](https://www.thedailybeast.com/spacexs-starlink-is-making-life-hell-for-astronomers-but-telescopes-on-the-moon-could-fix-that)
-- [Pyramid Texts](https://en.wikipedia.org/wiki/Pyramid_Texts)
-- [HP&#39;s Clarke – 4-Bit CPU/LCD Driver/Memory Controller](https://grack.com/writing/saturn/clarke.txt)
-- [Assessing the effect of beard hair lengths on masks used during the pandemic](https://www.nature.com/articles/s41370-021-00337-1)
-- [Explain Yourself – A Primer on ML Interpretability and Explainability](https://thegradient.pub/explain-yourself/)
+- [Microsoft Defender scares admins with Emotet false positives – keep moving](https://tongwing.woon.sg/blog/microsoft-defender-scares-admins-with-emotet-false-positives/)
+- [Elon Musk says Raptor engine production is a ‘disaster’ that puts SpaceX at risk](https://www.theverge.com/2021/11/30/22809720/elon-musk-spacex-raptor-engine-crisis-bankruptcy-starship)
+- [firewalld 1.0.1 Release](https://firewalld.org/2021/08/firewalld-1-0-1-release)
+- [Metaverse Real Estate Piles Up Record Sales in Sandbox and Other Virtual Realms](https://www.wsj.com/articles/metaverse-real-estate-piles-up-record-sales-in-sandbox-and-other-virtual-realms-11638268380)
+- [Twitter bans sharing of photos without consent](https://www.france24.com/en/live-news/20211130-twitter-bans-sharing-of-photos-without-consent)
+- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
+- [Pickleball is the fastest-growing sport in America](https://www.economist.com/united-states/2021/01/28/pickleball-is-the-fastest-growing-sport-in-america)
+- [Respeecher Updates Its Voice Marketplace](https://www.respeecher.com/blog/respeecher-updates-voice-marketplace-smbs-content-creators)
+- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

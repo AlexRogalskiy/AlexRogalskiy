@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [AWS kicks off re:Invent with compute, networking, and data launches](https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html#tk.rss_all)
+- [Weaveworks launches first enterprise Gitops platform](https://www.infoworld.com/article/3642533/weaveworks-launches-first-enterprise-gitops-platform.html#tk.rss_all)
+- [The cloud as supercomputer](https://www.infoworld.com/article/3642848/the-cloud-as-supercomputer.html#tk.rss_all)
+- [PHP 8.1 brings enums, read-only properties](https://www.infoworld.com/article/3642836/php-81-brings-enums-read-only-properties.html#tk.rss_all)
+- [Scaling telemetry monitoring with InfluxDB](https://www.infoworld.com/article/3640726/scaling-telemetry-monitoring-with-influxdb.html#tk.rss_all)
 - [UNESCO launches global standard for AI ethics](https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html#tk.rss_all)
 - [JetBrains previews next-gen Fleet IDE](https://www.infoworld.com/article/3642536/jetbrains-previews-next-gen-fleet-ide.html#tk.rss_all)
 - [Inside the new AWS](https://www.infoworld.com/article/3642652/inside-the-new-aws.html#tk.rss_all)
 - [How the public clouds are innovating on AI](https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html#tk.rss_all)
 - [Google Cloud AppSheet review: No-code with extras](https://www.infoworld.com/article/3640975/google-cloud-appsheet-review-no-code-with-extras.html#tk.rss_all)
-- [JDK 18: What to expect in Java 18](https://www.infoworld.com/article/3630510/jdk-18-what-to-expect-in-java-18.html#tk.rss_all)
-- [Send Outlook email and Teams messages with R](https://www.infoworld.com/article/3641408/send-outlook-email-and-teams-messages-with-r.html#tk.rss_all)
-- [Take a look at Azure Monitor](https://www.infoworld.com/article/3641910/take-a-look-at-azure-monitor.html#tk.rss_all)
-- [Windows Forms advances in .NET 6 but still needs work](https://www.infoworld.com/article/3641257/windows-forms-advances-in-net-6-but-still-needs-work.html#tk.rss_all)
-- [Build a cloud culture to attract and keep skilled people](https://www.infoworld.com/article/3641988/build-a-cloud-culture-to-attract-and-keep-skilled-people.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

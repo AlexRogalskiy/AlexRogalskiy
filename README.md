@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What can I expect from an entry level &lpar;tier 1&rpar; support job?](https://www.reddit.com/r/InformationTechnology/comments/r61xub/what_can_i_expect_from_an_entry_level_tier_1/)
+- [Military, College or Certifications?](https://www.reddit.com/r/InformationTechnology/comments/r5gork/military_college_or_certifications/)
+- [Need Assistance! Trying to install Nessus Essentials on Kali Linux.](https://www.reddit.com/r/InformationTechnology/comments/r4x2o4/need_assistance_trying_to_install_nessus/)
+- [Is it possible to permanently mobilize a serverfarm?](https://www.reddit.com/r/InformationTechnology/comments/r4q9jc/is_it_possible_to_permanently_mobilize_a/)
+- [Is there any alternative to open VCE file rather than using VCE exam simulator ?](https://www.reddit.com/r/InformationTechnology/comments/r4pdx8/is_there_any_alternative_to_open_vce_file_rather/)
+- [Best sites for tech news?](https://www.reddit.com/r/InformationTechnology/comments/r4nbye/best_sites_for_tech_news/)
+- [How can I go about telling this major hospital IT interview I am only seeking to work extra part time hours?](https://www.reddit.com/r/InformationTechnology/comments/r4lqlk/how_can_i_go_about_telling_this_major_hospital_it/)
 - [Which university should I choose to attend in order to become an Information Security Analyst/ Specialist/Manager?](https://www.reddit.com/r/InformationTechnology/comments/r4i3ec/which_university_should_i_choose_to_attend_in/)
 - [Changing Careers..](https://www.reddit.com/r/InformationTechnology/comments/r4fhdz/changing_careers/)
 - [Student jobs?](https://www.reddit.com/r/InformationTechnology/comments/r4aefl/student_jobs/)
-- [Is there an Active Directory simulator or emulator that can be used for training if you don&#39;t have access to a Windows Server installation?](https://www.reddit.com/r/InformationTechnology/comments/r41t66/is_there_an_active_directory_simulator_or/)
-- [How much can you make with IT DEGREE?](https://www.reddit.com/r/InformationTechnology/comments/r41izu/how_much_can_you_make_with_it_degree/)
-- [Podcast recommendations](https://www.reddit.com/r/InformationTechnology/comments/r3p4fq/podcast_recommendations/)
-- [Will not reset!!! HP Officejet 7500 E910 Error: 0x61011beb](https://www.reddit.com/r/InformationTechnology/comments/r3m1mr/will_not_reset_hp_officejet_7500_e910_error/)
-- [Network diagramming standard?](https://www.reddit.com/r/InformationTechnology/comments/r3dm83/network_diagramming_standard/)
-- [Do remote working network administrators take their breaks whenever they want?](https://www.reddit.com/r/InformationTechnology/comments/r3d8e8/do_remote_working_network_administrators_take/)
-- [Help. Lol](https://www.reddit.com/r/InformationTechnology/comments/r3c44q/help_lol/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

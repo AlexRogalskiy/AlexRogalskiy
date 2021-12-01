@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: UK battles new virus variant as Omicron is detected around the world – as it happened](https://www.theguardian.com/world/live/2021/nov/29/covid-live-news-omicron-variant-detected-in-canada-as-fauci-warns-two-weeks-needed-to-study-new-strain)
-- [MI6 needs tech sector’s help to win AI race with China and Russia – spy chief](https://www.theguardian.com/uk-news/2021/nov/30/mi6-will-need-to-be-more-open-to-stay-secret-spy-chief-to-say)
-- [Aung San Suu Kyi: Myanmar court set to deliver first verdict on deposed leader](https://www.theguardian.com/world/2021/nov/30/aung-san-suu-kyi-myanmar-court-set-to-deliver-first-verdict-on-deposed-leader)
-- [Lego gives its 20,000 employees three days extra holiday after profits rise 140%](https://www.theguardian.com/lifeandstyle/2021/nov/30/lego-gives-its-20000-employees-three-days-extra-holiday-after-profits-rise-140)
-- [Queen congratulates Barbados as it becomes a republic](https://www.theguardian.com/world/2021/nov/30/queen-congratulates-barbados-as-it-becomes-a-republic)
-- [Most deprived schools hit hardest by education cuts in England, IFS says](https://www.theguardian.com/politics/2021/nov/30/most-deprived-schools-hit-hardest-by-education-cuts-in-england-ifs-says)
-- [Bree Runway, Holly Humberstone and Lola Young nominated for Brits Rising Star award](https://www.theguardian.com/music/2021/nov/30/bree-runway-holly-humberstone-and-lola-young-nominated-for-brits-rising-star-award)
-- [Novelist Bernardine Evaristo to be president of Royal Society of Literature](https://www.theguardian.com/books/2021/nov/30/novelist-bernardine-evaristo-to-be-president-of-royal-society-of-literature)
-- [Reporter denies William tacitly approved leak of Meghan bullying claims](https://www.theguardian.com/uk-news/2021/nov/29/reporter-denies-william-approved-leak-meghan-bullying-claims)
-- [Covid: UK aims for 500,000 jabs a day in bid to outpace Omicron variant](https://www.theguardian.com/world/2021/nov/29/covid-uk-aims-500000-jabs-a-day-in-bid-to-outpace-omicron-variant)
+- [Covid news live: WHO advises vulnerable or unvaccinated against travel over Omicron](https://www.theguardian.com/world/live/2021/dec/01/covid-news-live-who-advises-vulnerable-against-travel-over-omicron-greece-to-fine-those-over-60-who-refuse-vaccine)
+- [‘Utter torment’: Japan’s party season loses lustre as workers dread drinking with the boss](https://www.theguardian.com/world/2021/dec/01/utter-torment-japans-party-season-loses-lustre-as-workers-dread-drinking-with-the-boss)
+- [‘Virgil was here’: Miami hosts Abloh’s final collection for Louis Vuitton](https://www.theguardian.com/fashion/2021/dec/01/virgil-was-here-ablohs-final-collection-for-louis-vuitton)
+- [Non-fungible tokens take No 1 spot in influential art world power list](https://www.theguardian.com/technology/2021/dec/01/non-fungible-tokens-take-no-1-spot-in-influential-art-world-power-list)
+- [Manchester city council’s new leader vows to prioritise women’s safety](https://www.theguardian.com/uk-news/2021/dec/01/manchester-city-council-new-leader-bev-craig-prioritise-womens-safety)
+- [UK watchdog’s action against Facebook over Giphy prove it has teeth | Larry Elliott](https://www.theguardian.com/business/2021/nov/30/uk-watchdogs-action-against-facebook-over-giphy-prove-it-has-teeth)
+- [Britain’s Davis Cup hopes dashed by Germany in doubles defeat](https://www.theguardian.com/sport/2021/nov/30/britains-davis-cup-hopes-dashed-by-germany-in-doubles-defeat)
+- [Michigan school shooting leaves three students dead and eight wounded](https://www.theguardian.com/us-news/2021/nov/30/michigan-school-shooting-oxford)
+- [Ex-IS member guilty of genocide for chaining up Yazidi girl to die in the sun](https://www.theguardian.com/world/2021/nov/30/ex-is-member-guilty-of-genocide-for-leaving-yazidi-girl-to-die-in-the-sun)
+- [Stath Lets Flats must never die. Can this really be the end?](https://www.theguardian.com/tv-and-radio/2021/nov/30/stath-lets-flats-must-never-die-can-this-really-be-the-end)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

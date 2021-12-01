@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches](https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches)
-- [UKISUG 2021: S/4 Hana skills deficit and legacy custom code hamper migration](https://www.computerweekly.com/news/252510124/UKISUG-2021-S-4-Hana-skills-deficit-and-legacy-custom-code-hamper-migration)
-- [UK announces standard for algorithmic transparency](https://www.computerweekly.com/news/252510131/UK-announces-standard-for-algorithmic-transparency)
-- [IT Priorities 2022: End-user computing](https://www.computerweekly.com/news/252510130/IT-priorities-2022-End-user-computing)
-- [UK ‘impact startups’ raise £2bn in 2021](https://www.computerweekly.com/news/252510125/UK-impact-startups-raise-2bn-in-2021)
-- [British Army picks Immersive Labs for cyber training](https://www.computerweekly.com/news/252510118/British-Army-picks-Immersive-Labs-for-cyber-training)
-- [Cabinet Office slammed after advising users to ditch UKCloud as further investment nears](https://www.computerweekly.com/news/252510117/Cabinet-Office-slammed-after-advising-users-to-ditch-UKCloud-as-further-investment-nears)
-- [DWP extends Capita contract for Scottish jobs programme](https://www.computerweekly.com/news/252510120/DWP-extends-Capita-contract-for-Scottish-job-programme)
-- [NetSuite CEO Goldberg: Growth companies nimble for post-Covid normality](https://www.computerweekly.com/news/252510090/NetSuite-CEO-Goldberg-growth-companies-nimble-for-post-Covid-normalcy)
-- [Three latest trends and developments around the Mitre ATT&amp;CK framework](https://www.computerweekly.com/news/252510119/Three-latest-trends-and-developments-around-the-Mitre-ATTCK-framework)
+- [Compliance, device management a challenge for NHS cyber teams](https://www.computerweekly.com/news/252510213/Compliance-device-management-a-challenge-for-NHS-cyber-teams)
+- [UK MSP set to use Nebulon cloud-defined storage IaaS](https://www.computerweekly.com/news/252510207/UK-MSP-set-to-use-Nebulon-cloud-defined-storage-IaaS)
+- [Initiative launched to increase London tech diversity](https://www.computerweekly.com/news/252510206/Initiative-launched-to-increase-London-tech-diversity)
+- [MI6 will ‘open up’ to tech firms to innovate faster than adversaries, says chief Richard Moore](https://www.computerweekly.com/news/252510212/MI6-will-open-up-to-tech-firms-to-innovate-faster-than-adversaries-says-chief-Richard-Moore)
+- [HMRC denies outside-IR35 hiring ban as accounts reveal agency’s reliance on umbrella workers](https://www.computerweekly.com/news/252510205/IR35-HMRC-denies-PSC-hiring-ban-as-accounts-reveal-agencys-reliance-on-umbrella-workers)
+- [Technology horizon-scanning programme launched by UK regulatory bodies](https://www.computerweekly.com/news/252510195/Technology-horizon-scanning-programme-launched-by-UK-regulatory-bodies)
+- [HP patches bugs in over 150 printer models](https://www.computerweekly.com/news/252510182/HP-patches-bugs-in-over-150-printer-models)
+- [Recovering from ransomware: One organisation’s inside story](https://www.computerweekly.com/news/252510116/Recovering-from-ransomware-One-organisations-inside-story)
+- [Financial Ombudsman Service takes step towards digital transformation with Workday](https://www.computerweekly.com/news/252510183/Financial-Ombudsman-Service-takes-step-towards-digital-transformation-with-Workday)
+- [UK government launches report on digital trade](https://www.computerweekly.com/news/252510167/UK-government-launches-report-on-digital-trade)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

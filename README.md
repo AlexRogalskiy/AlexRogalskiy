@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Long View: Is the World Deglobalising?](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising)
-- [Accepted and ghosted: interviewing for a leadership position at Stripe](https://news.ycombinator.com/item?id=29387264)
-- [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
-- [Will Nix Overtake Docker](https://blog.replit.com/nix-vs-docker)
-- [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
-- [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
-- [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
-- [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
-- [Show HN: An AWS Savings Plans Calculator](https://cloudshim.com/calculator)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
+- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
+- [Microcode Research Team](https://github.com/chip-red-pill)
+- [Texas woman wins round in lawsuit challenging swat teams destruction of her home](https://ij.org/press-release/texas-woman-wins-round-one-in-lawsuit-challenging-swat-teams-destruction-of-her-home/)
+- [Show HN: I made a free, ad-free and open source tool for sharing private notes](https://burnernote.com/?ref=hackernews)
+- [Synthetic tissue can repair hearts, muscles, and vocal cords](https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206)
+- [The American Prison System’s War on Reading](https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/)
+- [German Court Rules Against Internet Security Non-Profit Quad9](https://www.quad9.net/news/press/german-court-rules-against/)
+- [New cancer therapy holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

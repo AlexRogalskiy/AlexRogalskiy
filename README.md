@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The Cost of a Ransomware Attack, Part 2: Response &amp; Recovery](https://www.informationweek.com/security-and-risk-strategy/cost-of-a-ransomware-attack-part-2-response-recovery)
+- [6 Best Practices for NLP Implementation](https://www.informationweek.com/big-data/6-best-practices-for-nlp-implementation)
 - [The Cost of a Ransomware Attack, Part 1: The Ransom](https://www.informationweek.com/security-and-risk-strategy/the-cost-of-a-ransomware-attack-part-1-the-ransom)
 - [Global Tech Policy Briefing for November 2021: Banking, Broadband, &amp; Big Tech](https://www.informationweek.com/government/global-tech-policy-briefing-for-november-2021-banking-broadband-big-tech)
 - [When is it Okay to Miss an IT Project Deadline?](https://www.informationweek.com/it-life/when-is-it-okay-to-miss-an-it-project-deadline-)
@@ -369,8 +371,6 @@
 - [Harness Your Heritage: Building an IT Future on Past Success](https://www.informationweek.com/strategic-cio/harness-your-heritage-building-an-it-future-on-past-success)
 - [Ways to Prevent IT Projects From Getting Sunk](https://www.informationweek.com/strategic-cio/ways-to-prevent-it-projects-from-getting-sunk)
 - [Data Quality: How to Show the ROI for Projects](https://www.informationweek.com/big-data/data-quality-how-to-show-the-roi-for-projects)
-- [Why Modern Cybersecurity Requires AI](https://www.informationweek.com/security-and-risk-strategy/why-modern-cybersecurity-requires-ai)
-- [Zero Trust: An Answer to the Ransomware Menace?](https://www.informationweek.com/security-and-risk-strategy/zero-trust-an-answer-to-the-ransomware-menace-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

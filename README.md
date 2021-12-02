@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Compliance, device management a challenge for NHS cyber teams](https://www.computerweekly.com/news/252510213/Compliance-device-management-a-challenge-for-NHS-cyber-teams)
-- [UK MSP set to use Nebulon cloud-defined storage IaaS](https://www.computerweekly.com/news/252510207/UK-MSP-set-to-use-Nebulon-cloud-defined-storage-IaaS)
-- [Initiative launched to increase London tech diversity](https://www.computerweekly.com/news/252510206/Initiative-launched-to-increase-London-tech-diversity)
-- [MI6 will ‘open up’ to tech firms to innovate faster than adversaries, says chief Richard Moore](https://www.computerweekly.com/news/252510212/MI6-will-open-up-to-tech-firms-to-innovate-faster-than-adversaries-says-chief-Richard-Moore)
-- [HMRC denies outside-IR35 hiring ban as accounts reveal agency’s reliance on umbrella workers](https://www.computerweekly.com/news/252510205/IR35-HMRC-denies-PSC-hiring-ban-as-accounts-reveal-agencys-reliance-on-umbrella-workers)
-- [Technology horizon-scanning programme launched by UK regulatory bodies](https://www.computerweekly.com/news/252510195/Technology-horizon-scanning-programme-launched-by-UK-regulatory-bodies)
-- [HP patches bugs in over 150 printer models](https://www.computerweekly.com/news/252510182/HP-patches-bugs-in-over-150-printer-models)
-- [Recovering from ransomware: One organisation’s inside story](https://www.computerweekly.com/news/252510116/Recovering-from-ransomware-One-organisations-inside-story)
-- [Financial Ombudsman Service takes step towards digital transformation with Workday](https://www.computerweekly.com/news/252510183/Financial-Ombudsman-Service-takes-step-towards-digital-transformation-with-Workday)
-- [UK government launches report on digital trade](https://www.computerweekly.com/news/252510167/UK-government-launches-report-on-digital-trade)
+- [Unesco member states adopt AI ethics recommendation](https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation)
+- [Kaspersky introduces cyber policy for bionic devices](https://www.computerweekly.com/news/252510280/Kaspersky-introduces-cyber-policy-for-bionic-devices)
+- [Wolverhampton to pilot app that rewards healthy behaviours](https://www.computerweekly.com/news/252510289/Wolverhampton-to-pilot-app-that-rewards-healthy-behaviours)
+- [Goldman Sachs debuts AWS-powered cloud for financial services sector](https://www.computerweekly.com/news/252510272/Goldman-Sachs-debuts-AWS-powered-cloud-for-financial-services-sector)
+- [A ‘whole of society’ approach to cyber may be on the horizon](https://www.computerweekly.com/opinion/A-whole-of-society-approach-to-cyber-may-be-on-the-horizon)
+- [The way we talk and think about tech is crucial to helping solve the skills shortage crisis](https://www.computerweekly.com/news/252510262/The-way-we-talk-and-think-about-tech-is-crucial-to-helping-solve-the-skills-shortage-crisis)
+- [Cloud-based Redwood becomes latest challenger bank to make a profit](https://www.computerweekly.com/news/252510261/Cloud-based-Redwood-becomes-latest-challenger-bank-to-make-a-profit)
+- [HPE results boosted by new orders rush](https://www.computerweekly.com/news/252510259/HPE-results-boosted-by-new-orders-rush)
+- [Swedish researchers are patiently developing a useful quantum computer](https://www.computerweekly.com/feature/Swedish-researchers-are-patiently-developing-a-useful-quantum-computer)
+- [IT Priorities 2022: IT a focus for business recovery](https://www.computerweekly.com/news/252510196/IT-Priorities-2022-IT-a-focus-for-business-recovery)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: WHO advises vulnerable or unvaccinated against travel over Omicron](https://www.theguardian.com/world/live/2021/dec/01/covid-news-live-who-advises-vulnerable-against-travel-over-omicron-greece-to-fine-those-over-60-who-refuse-vaccine)
-- [‘Utter torment’: Japan’s party season loses lustre as workers dread drinking with the boss](https://www.theguardian.com/world/2021/dec/01/utter-torment-japans-party-season-loses-lustre-as-workers-dread-drinking-with-the-boss)
-- [‘Virgil was here’: Miami hosts Abloh’s final collection for Louis Vuitton](https://www.theguardian.com/fashion/2021/dec/01/virgil-was-here-ablohs-final-collection-for-louis-vuitton)
-- [Non-fungible tokens take No 1 spot in influential art world power list](https://www.theguardian.com/technology/2021/dec/01/non-fungible-tokens-take-no-1-spot-in-influential-art-world-power-list)
-- [Manchester city council’s new leader vows to prioritise women’s safety](https://www.theguardian.com/uk-news/2021/dec/01/manchester-city-council-new-leader-bev-craig-prioritise-womens-safety)
-- [UK watchdog’s action against Facebook over Giphy prove it has teeth | Larry Elliott](https://www.theguardian.com/business/2021/nov/30/uk-watchdogs-action-against-facebook-over-giphy-prove-it-has-teeth)
-- [Britain’s Davis Cup hopes dashed by Germany in doubles defeat](https://www.theguardian.com/sport/2021/nov/30/britains-davis-cup-hopes-dashed-by-germany-in-doubles-defeat)
-- [Michigan school shooting leaves three students dead and eight wounded](https://www.theguardian.com/us-news/2021/nov/30/michigan-school-shooting-oxford)
-- [Ex-IS member guilty of genocide for chaining up Yazidi girl to die in the sun](https://www.theguardian.com/world/2021/nov/30/ex-is-member-guilty-of-genocide-for-leaving-yazidi-girl-to-die-in-the-sun)
-- [Stath Lets Flats must never die. Can this really be the end?](https://www.theguardian.com/tv-and-radio/2021/nov/30/stath-lets-flats-must-never-die-can-this-really-be-the-end)
+- [Coronavirus news live: South Africa sees ‘exponential increase’ in Covid cases, dominated by Omicron variant](https://www.theguardian.com/world/live/2021/dec/02/coronavirus-news-live-south-africa-sees-exponential-increase-in-covid-cases-dominated-by-omicron-variant)
+- [‘Humbled’ Alex Carey added to Australia squad for Ashes opener in Brisbane](https://www.theguardian.com/sport/2021/dec/02/alex-carey-added-to-australia-squad-for-ashes-opener-in-brisbane)
+- [Austrian surgeon fined €2,700 for amputating wrong leg](https://www.theguardian.com/world/2021/dec/02/austrian-surgeon-fined-2700-for-amputating-wrong-leg)
+- [Macron privately called Boris Johnson a ‘clown’, says French magazine](https://www.theguardian.com/uk-news/2021/dec/02/macron-privately-called-boris-johnson-a-clown-says-french-magazine)
+- [Afghan boy, 11, goes missing in London weeks after arriving in the UK](https://www.theguardian.com/uk-news/2021/dec/02/afghan-boy-mohammed-khan-goes-missing-in-london-weeks-after-arriving-in-the-uk)
+- [MoD overhauls rules for investigating sexual offences in armed forces](https://www.theguardian.com/uk-news/2021/dec/02/mod-overhauls-rules-for-investigating-sexual-offences-in-armed-forces)
+- [Teesside factory making Covid vaccine gets £400m injection](https://www.theguardian.com/business/2021/dec/02/teesside-factory-making-covid-vaccine-gets-pounds-400m-injection-uk-pharmaceutical-manufacturing)
+- [Stacey Abrams announces she’s running for Georgia governor again](https://www.theguardian.com/us-news/2021/dec/01/stacey-abrams-running-georgia-governor)
+- [Ghislaine Maxwell accuser says she met Trump at 14 and flew with Prince Andrew](https://www.theguardian.com/us-news/2021/dec/01/ghislaine-maxwell-accuser-cross-examination)
+- [Poverty, not climate breakdown, caused Madagascar’s food crisis, finds study](https://www.theguardian.com/environment/2021/dec/01/poverty-not-climate-breakdown-caused-madagascars-food-crisis-finds-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

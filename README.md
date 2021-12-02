@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Red Hat plops Celonis EMS on AWS cloud](https://www.infoworld.com/article/3643291/red-hat-plops-celonis-ems-on-aws-cloud.html#tk.rss_all)
+- [Using WiX to build Windows installers](https://www.infoworld.com/article/3642378/using-wix-to-build-windows-installers.html#tk.rss_all)
 - [AWS kicks off re:Invent with compute, networking, and data launches](https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html#tk.rss_all)
 - [Weaveworks launches first enterprise Gitops platform](https://www.infoworld.com/article/3642533/weaveworks-launches-first-enterprise-gitops-platform.html#tk.rss_all)
 - [The cloud as supercomputer](https://www.infoworld.com/article/3642848/the-cloud-as-supercomputer.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [Scaling telemetry monitoring with InfluxDB](https://www.infoworld.com/article/3640726/scaling-telemetry-monitoring-with-influxdb.html#tk.rss_all)
 - [UNESCO launches global standard for AI ethics](https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html#tk.rss_all)
 - [JetBrains previews next-gen Fleet IDE](https://www.infoworld.com/article/3642536/jetbrains-previews-next-gen-fleet-ide.html#tk.rss_all)
-- [Inside the new AWS](https://www.infoworld.com/article/3642652/inside-the-new-aws.html#tk.rss_all)
-- [How the public clouds are innovating on AI](https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html#tk.rss_all)
-- [Google Cloud AppSheet review: No-code with extras](https://www.infoworld.com/article/3640975/google-cloud-appsheet-review-no-code-with-extras.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

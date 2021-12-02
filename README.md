@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
-- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
-- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
-- [Microcode Research Team](https://github.com/chip-red-pill)
-- [Texas woman wins round in lawsuit challenging swat teams destruction of her home](https://ij.org/press-release/texas-woman-wins-round-one-in-lawsuit-challenging-swat-teams-destruction-of-her-home/)
-- [Show HN: I made a free, ad-free and open source tool for sharing private notes](https://burnernote.com/?ref=hackernews)
-- [Synthetic tissue can repair hearts, muscles, and vocal cords](https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206)
-- [The American Prison System’s War on Reading](https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/)
-- [German Court Rules Against Internet Security Non-Profit Quad9](https://www.quad9.net/news/press/german-court-rules-against/)
-- [New cancer therapy holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
+- [Facebook reverses Kyle Rittenhouse policy](https://www.bbc.com/news/technology-59486397)
+- [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
+- [Firefox&#39;s Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
+- [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
+- [Block &lpar;aka Square, Tidal, CashApp etc&rpar;](https://block.xyz/)
+- [Square is now called Block](https://twitter.com/Square/status/1466158910067388423)
+- [Recurrency &lpar;YC S20&rpar; is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
+- [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
+- [Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
+- [Scamp CPU: A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

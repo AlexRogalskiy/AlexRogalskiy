@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft Defender scares admins with Emotet false positives – keep moving](https://tongwing.woon.sg/blog/microsoft-defender-scares-admins-with-emotet-false-positives/)
-- [Elon Musk says Raptor engine production is a ‘disaster’ that puts SpaceX at risk](https://www.theverge.com/2021/11/30/22809720/elon-musk-spacex-raptor-engine-crisis-bankruptcy-starship)
-- [firewalld 1.0.1 Release](https://firewalld.org/2021/08/firewalld-1-0-1-release)
-- [Metaverse Real Estate Piles Up Record Sales in Sandbox and Other Virtual Realms](https://www.wsj.com/articles/metaverse-real-estate-piles-up-record-sales-in-sandbox-and-other-virtual-realms-11638268380)
-- [Twitter bans sharing of photos without consent](https://www.france24.com/en/live-news/20211130-twitter-bans-sharing-of-photos-without-consent)
-- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
-- [Pickleball is the fastest-growing sport in America](https://www.economist.com/united-states/2021/01/28/pickleball-is-the-fastest-growing-sport-in-america)
-- [Respeecher Updates Its Voice Marketplace](https://www.respeecher.com/blog/respeecher-updates-voice-marketplace-smbs-content-creators)
-- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
-- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
+- [Former Ubiquiti Employee Charged with Stealing Data and Extorting Company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
+- [Ask HN: Google Services Reset](https://news.ycombinator.com/item?id=29411753)
+- [How Twitter Can Fix Itself](https://www.nytimes.com/2021/12/01/opinion/twitter-agrawal-dorsey.html)
+- [Some Degrees Leave Students with High Debt but Without High Salaries](https://www.wsj.com/articles/some-professional-degrees-leave-students-with-high-debt-but-without-high-salaries-11638354602)
+- [The New Stack’s Top Kubernetes Stories of 2021](https://thenewstack.io/the-new-stacks-top-kubernetes-stories-of-2021/)
+- [Atomontage](https://www.atomontage.com/)
+- [First Meta, now Block: Square announces name change](https://www.washingtonpost.com/technology/2021/12/01/square-block-name-change/)
+- [Godfrey&#39;s Cordial](https://en.wikipedia.org/wiki/Godfrey%27s_Cordial)
+- [The singularity is not near &lpar;2018&rpar;](https://www.salon.com/2018/05/13/the-singularity-is-not-near-the-intellectual-fraud-of-the-singularitarians/)
+- [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

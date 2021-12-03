@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Former Ubiquiti Employee Charged with Stealing Data and Extorting Company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
-- [Ask HN: Google Services Reset](https://news.ycombinator.com/item?id=29411753)
-- [How Twitter Can Fix Itself](https://www.nytimes.com/2021/12/01/opinion/twitter-agrawal-dorsey.html)
-- [Some Degrees Leave Students with High Debt but Without High Salaries](https://www.wsj.com/articles/some-professional-degrees-leave-students-with-high-debt-but-without-high-salaries-11638354602)
-- [The New Stack’s Top Kubernetes Stories of 2021](https://thenewstack.io/the-new-stacks-top-kubernetes-stories-of-2021/)
-- [Atomontage](https://www.atomontage.com/)
-- [First Meta, now Block: Square announces name change](https://www.washingtonpost.com/technology/2021/12/01/square-block-name-change/)
-- [Godfrey&#39;s Cordial](https://en.wikipedia.org/wiki/Godfrey%27s_Cordial)
-- [The singularity is not near &lpar;2018&rpar;](https://www.salon.com/2018/05/13/the-singularity-is-not-near-the-intellectual-fraud-of-the-singularitarians/)
-- [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
+- [Ludwig Moves to YouTube Gaming](https://www.forbes.com/sites/johanmoreno/2021/11/30/the-battle-between-youtube-and-twitch-heats-up-as-ludwig-moves-to-youtube-gaming/)
+- [Cut Medicine in Half](https://www.cato-unbound.org/2007/09/10/robin-hanson/cut-medicine-half/)
+- [The 8000th Busy Beaver number eludes ZF set theory &lpar;2016&rpar;](https://scottaaronson.blog/?p=2725)
+- [Ask HN: What&#39;s a Good Reddit Alternative?](https://news.ycombinator.com/item?id=29425840)
+- [Finding Stale Issues and PRs](https://docs.mergestat.com/blog/2021/12/02/finding-stale-issues-and-prs)
+- [Early winter heat shatters records in U.S., Canada](https://www.axios.com/early-winter-heat-us-canada-records-372c8bec-0c9d-490a-9ac3-b4a6c9748173.html)
+- [Blood or saliva THC levels found to be poor sign of driving impairment](https://newatlas.com/health-wellbeing/thc-blood-saliva-not-linked-cannabis-driving-impairment/)
+- [Didi will delist from the New York Stock Exchange](https://www.cnbc.com/2021/12/03/didi-on-delisting-from-us-and-list-in-hong-kong.html)
+- [Extreme food prices slam inflation-ridden Turkey and Sri Lanka](https://asia.nikkei.com/Business/Markets/Commodities/Extreme-food-prices-slam-inflation-ridden-Turkey-and-Sri-Lanka)
+- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

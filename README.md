@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: What Apple&#39;s lawsuit against NSO Group means for digital rights](https://www.computerworld.com/article/3643336/podcast-what-apples-lawsuit-against-nso-group-means-for-digital-rights.html#tk.rss_all)
+- [How to use FileVault to protect business data on Macs](https://www.computerworld.com/article/3643332/how-to-use-filevault-to-protect-business-data-on-macs.html#tk.rss_all)
+- [Windows 11 adoption nears 9%, but businesses are waiting](https://www.computerworld.com/article/3643074/windows-11-adoption-nears-9-but-businesses-are-waiting.html#tk.rss_all)
+- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 - [Microsoft aims Teams Essentials at small-biz customers](https://www.computerworld.com/article/3643369/microsoft-aims-teams-essentials-at-small-biz-customers.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [What to expect from Apple in 2022](https://www.computerworld.com/article/3643031/what-to-expect-from-apple-in-2022.html#tk.rss_all)
 - [The Pixel-exclusive rebirth of a beloved Android feature](https://www.computerworld.com/article/3643069/pixel-android-feature.html#tk.rss_all)
 - [How to use Outlook’s new calendar board view to organize your work](https://www.computerworld.com/article/3642290/how-to-use-outlooks-new-calendar-board-view-to-organize-your-work.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [What&#39;s needed to consolidate Apple’s enterprise gains?](https://www.computerworld.com/article/3643049/whats-needed-to-consolidate-apples-enterprise-gains.html#tk.rss_all)
-- [Rise in employee monitoring prompts calls for new rules to protect workers](https://www.computerworld.com/article/3642712/rise-in-employee-monitoring-prompts-calls-for-new-rules-to-protect-workers.html#tk.rss_all)
-- [Microsoft under fire in Europe for OneDrive bundling; legal fight brewing](https://www.computerworld.com/article/3642834/microsoft-under-fire-in-europe-for-onedrive-bundling-legal-fight-brewing.html#tk.rss_all)
-- [How to get more out of Edge &lpar;and bolster its security&rpar;](https://www.computerworld.com/article/3642833/how-to-get-more-out-of-edge-and-bolster-its-security.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus news live: South Africa sees ‘exponential increase’ in Covid cases, dominated by Omicron variant](https://www.theguardian.com/world/live/2021/dec/02/coronavirus-news-live-south-africa-sees-exponential-increase-in-covid-cases-dominated-by-omicron-variant)
-- [‘Humbled’ Alex Carey added to Australia squad for Ashes opener in Brisbane](https://www.theguardian.com/sport/2021/dec/02/alex-carey-added-to-australia-squad-for-ashes-opener-in-brisbane)
-- [Austrian surgeon fined €2,700 for amputating wrong leg](https://www.theguardian.com/world/2021/dec/02/austrian-surgeon-fined-2700-for-amputating-wrong-leg)
-- [Macron privately called Boris Johnson a ‘clown’, says French magazine](https://www.theguardian.com/uk-news/2021/dec/02/macron-privately-called-boris-johnson-a-clown-says-french-magazine)
-- [Afghan boy, 11, goes missing in London weeks after arriving in the UK](https://www.theguardian.com/uk-news/2021/dec/02/afghan-boy-mohammed-khan-goes-missing-in-london-weeks-after-arriving-in-the-uk)
-- [MoD overhauls rules for investigating sexual offences in armed forces](https://www.theguardian.com/uk-news/2021/dec/02/mod-overhauls-rules-for-investigating-sexual-offences-in-armed-forces)
-- [Teesside factory making Covid vaccine gets £400m injection](https://www.theguardian.com/business/2021/dec/02/teesside-factory-making-covid-vaccine-gets-pounds-400m-injection-uk-pharmaceutical-manufacturing)
-- [Stacey Abrams announces she’s running for Georgia governor again](https://www.theguardian.com/us-news/2021/dec/01/stacey-abrams-running-georgia-governor)
-- [Ghislaine Maxwell accuser says she met Trump at 14 and flew with Prince Andrew](https://www.theguardian.com/us-news/2021/dec/01/ghislaine-maxwell-accuser-cross-examination)
-- [Poverty, not climate breakdown, caused Madagascar’s food crisis, finds study](https://www.theguardian.com/environment/2021/dec/01/poverty-not-climate-breakdown-caused-madagascars-food-crisis-finds-study)
+- [Covid news live: New York state detects five cases of Omicron variant as new US air travel rules loom](https://www.theguardian.com/world/live/2021/dec/03/covid-news-live-new-york-state-detects-five-cases-of-omicron-variant-as-new-us-air-travel-rules-loom)
+- [Old Bexley and Sidcup byelection: Tories retain true-blue seat](https://www.theguardian.com/politics/2021/dec/03/old-bexley-and-sidcup-byelection-louie-french-mp-tories-retain-seat)
+- [Ghislaine Maxwell warned Epstein’s house manager not to ‘look at his eyes’, court hears](https://www.theguardian.com/us-news/2021/dec/02/ghislaine-maxwell-trial-warned-jeffrey-epstein-house-manager)
+- [Staff absences having ‘massive impact’ on pupils in England say head teachers](https://www.theguardian.com/education/2021/dec/03/staff-absences-having-massive-impact-on-pupils-in-england-say-head-teachers)
+- [UK government’s risk planning is weak and secretive, says Lords report](https://www.theguardian.com/politics/2021/dec/03/uk-governments-risk-planning-is-weak-and-secretive-says-lords-report)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/dec/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [Republican senators threaten shutdown despite House passing funding bill](https://www.theguardian.com/us-news/2021/dec/02/republican-senators-threaten-government-shutdown-despite-house-passing-funding-bill)
+- [Covid booster shots significantly strengthen immunity, trial finds](https://www.theguardian.com/world/2021/dec/02/covid-booster-shots-significantly-strengthen-immunity-trial-finds)
+- [France rejects idea of joint patrols with UK forces on Calais coast](https://www.theguardian.com/world/2021/dec/02/france-rejects-idea-of-british-patrols-along-calais-beaches)
+- [$75bn takeover of chip designer Arm by rival Nvidia in jeopardy](https://www.theguardian.com/business/2021/dec/02/75bn-takeover-of-chip-designer-arm-by-rival-nvidia-in-jeopardy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

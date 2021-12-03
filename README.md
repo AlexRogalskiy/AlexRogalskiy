@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Coffee Briefing, Nov. 30, 2021 – Square Photo Studio app comes to Canada; Mastercard to launch open baking solutions to Canada next year; and more](https://www.itworldcanada.com/article/coffee-briefing-nov-30-2021-square-photo-studio-app-comes-to-canada-mastercard-to-launch-open-baking-solutions-to-canada-next-year-and-more/466969)
-- [Hashtag Trending Nov. 30- Windows 11 upgrades low; Twitter’s Jack Dorsey steps down; Russia fines Google](https://www.itworldcanada.com/article/hashtag-trending-nov-30-windows-11-upgrades-low-twitters-jack-dorsey-steps-down-russia-fines-google/466954)
-- [Canada’s Semiconductor Council releases its action plan recommendations](https://www.itworldcanada.com/article/canadas-semiconductor-council-releases-its-action-plan-recommendations/466885)
-- [Cyber Security Today, Nov. 29, 2021 – Ikea under phishing attack, evasive JavaScript loader discovered and malware found hiding in Linux calendars](https://www.itworldcanada.com/article/cyber-security-today-nov-29-2021-ikea-under-phishing-attack-evasive-javascript-loader-discovered-and-malware-found-hiding-in-linux-calendars/466856)
-- [Hashtag Trending Nov. 29 – Lush leaves social media; Apple warns prosecutor of iPhone hack; man receives 3D-printed eye](https://www.itworldcanada.com/article/hashtag-trending-nov-29-lush-leaves-social-media-apple-warns-prosecutor-of-iphone-hack-man-receives-3d-printed-eye/466876)
-- [VMware and Mitacs collaborate on sustainable 6G development](https://www.itworldcanada.com/article/vmware-and-mitacs-collaborate-on-sustainable-6g-development/466844)
-- [Cyber Security Today, Week in Review for Friday, Nov. 26, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-nov-26-2021/466662)
-- [Cisco Canada, STEM Fellowship launch cybersecurity training for 40,000 Canadian students](https://www.itworldcanada.com/article/cisco-canada-stem-fellowship-launch-cybersecurity-training-for-40000-canadian-students/466786)
-- [Cyber Security Today, Nov. 26, 2021 – Advice to online retailers for the holiday season, lengthy prison terms for cybercrooks and watch for Android updates](https://www.itworldcanada.com/article/cyber-security-today-nov-26-2021-advice-to-online-retailers-for-the-holiday-season-lengthy-prison-terms-for-cybercrooks-and-watch-for-android-updates/466718)
-- [Hashtag trending Nov. 26 – Instagram CEO to appear before Congress; U.S. government blocks China’s quantum compute companies; France wants to hide Wish](https://www.itworldcanada.com/article/hashtag-trending-nov-26-instagram-ceo-to-appear-before-congress-u-s-government-blocks-chinas-quantum-compute-companies-france-wants-to-hide-wish/466713)
+- [Canada invests $3.2 million into silicon photonics company](https://www.itworldcanada.com/article/canada-invests-3-2-million-into-silicon-photonics-company/467326)
+- [Ontario family agency hit by ransomware, says no data was stolen](https://www.itworldcanada.com/article/ontario-family-agency-hit-by-ransomware-says-no-data-was-stolen/467297)
+- [AWS launches program to identify partners working to transition to a lower carbon world](https://www.itworldcanada.com/article/aws-launches-program-to-identify-partners-working-to-transition-to-a-lower-carbon-world/467267)
+- [Hashtag Trending Dec. 2 – Amazon underreported COVID cases; Microsoft’s BNPL faces poor feedback; Google employee lawsuit](https://www.itworldcanada.com/article/hashtag-trending-dec-2-amazon-underreported-covid-cases-microsofts-bnpl-faces-poor-feedback-google-employee-lawsuit/467225)
+- [CIO Association of Canada hosts BlackBerry’s John Chen in fireside chat](https://www.itworldcanada.com/article/cio-association-of-canada-hosts-blackberrys-john-chen-in-fireside-chat/467233)
+- [Microsoft launches independent Teams subscription for SMBs](https://www.itworldcanada.com/article/microsoft-launches-independent-teams-subscription-for-smbs/467219)
+- [Ransomware response: Do your backups work?](https://www.itworldcanada.com/article/ransomware-response-do-your-backups-work/466745)
+- [New ransomware group is third rebranding of gang that hit Canadian, U.S. targets: Report](https://www.itworldcanada.com/article/new-ransomware-group-is-third-rebranding-of-gang-that-hit-canadian-u-s-targets-report/466928)
+- [Samsung to open new regional office in Saskatchewan](https://www.itworldcanada.com/article/samsung-to-open-new-regional-office-in-saskatchewan/467193)
+- [Newly launched spending card in Canada allows customers to pay in foreign currencies without exchange rate mark-ups](https://www.itworldcanada.com/article/newly-launched-spending-card-in-canada-allows-customers-to-pay-in-foreign-currencies-without-exchange-rate-mark-ups/467134)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

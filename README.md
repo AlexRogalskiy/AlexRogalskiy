@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK government publishes tech-enabled adult social care plan](https://www.computerweekly.com/news/252510374/UK-government-publishes-tech-enabled-adult-social-care-plan)
+- [United Airlines draws from AWS and diverse tech team to overcome Covid-19 business challenges](https://www.computerweekly.com/news/252510362/United-Airlines-draws-from-AWS-and-diverse-tech-team-setup-to-overcome-Covid-19-business-challenges)
+- [Pandora Papers: How journalists mined terabytes of offshore data to expose the world’s elites](https://www.computerweekly.com/news/252510313/Pandora-Papers-How-journalists-mined-terabytes-of-offshore-data-to-expose-the-worlds-elites)
+- [Millions of credit card details for sale on dark web for as little as 75p](https://www.computerweekly.com/news/252510368/Millions-of-credit-card-details-for-sale-on-dark-web-for-a-few-pounds-each)
+- [COP26 reflections, tech sector reacts to Sunak on skills – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/COP26-reflections-tech-sector-reacts-to-Sunak-on-skills-Computer-Weekly-Downtime-Upload-podcast)
+- [Facebook parent Meta tightens links with open source community through expanded AWS partnership](https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership)
+- [Security Think Tank: Think people, processes and systems](https://www.computerweekly.com/opinion/Security-Think-Tank-Think-people-processes-systems)
 - [Unesco member states adopt AI ethics recommendation](https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation)
 - [Kaspersky introduces cyber policy for bionic devices](https://www.computerweekly.com/news/252510280/Kaspersky-introduces-cyber-policy-for-bionic-devices)
 - [Wolverhampton to pilot app that rewards healthy behaviours](https://www.computerweekly.com/news/252510289/Wolverhampton-to-pilot-app-that-rewards-healthy-behaviours)
-- [Goldman Sachs debuts AWS-powered cloud for financial services sector](https://www.computerweekly.com/news/252510272/Goldman-Sachs-debuts-AWS-powered-cloud-for-financial-services-sector)
-- [A ‘whole of society’ approach to cyber may be on the horizon](https://www.computerweekly.com/opinion/A-whole-of-society-approach-to-cyber-may-be-on-the-horizon)
-- [The way we talk and think about tech is crucial to helping solve the skills shortage crisis](https://www.computerweekly.com/news/252510262/The-way-we-talk-and-think-about-tech-is-crucial-to-helping-solve-the-skills-shortage-crisis)
-- [Cloud-based Redwood becomes latest challenger bank to make a profit](https://www.computerweekly.com/news/252510261/Cloud-based-Redwood-becomes-latest-challenger-bank-to-make-a-profit)
-- [HPE results boosted by new orders rush](https://www.computerweekly.com/news/252510259/HPE-results-boosted-by-new-orders-rush)
-- [Swedish researchers are patiently developing a useful quantum computer](https://www.computerweekly.com/feature/Swedish-researchers-are-patiently-developing-a-useful-quantum-computer)
-- [IT Priorities 2022: IT a focus for business recovery](https://www.computerweekly.com/news/252510196/IT-Priorities-2022-IT-a-focus-for-business-recovery)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

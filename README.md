@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How are Organizations Doing with Cloud?](https://www.informationweek.com/cloud/how-are-organizations-doing-with-cloud-)
+- [Don&#39;t Let Your ITSM Platform Drain IT Budget and Resources](https://www.informationweek.com/strategic-cio/don-t-let-your-itsm-platform-drain-it-budget-and-resources)
+- [Ringler Goes Low Code/No Code to Leverage Data Analytics](https://www.informationweek.com/devops/ringler-goes-low-code-no-code-to-leverage-data-analytics)
 - [The Cost of a Ransomware Attack, Part 2: Response &amp; Recovery](https://www.informationweek.com/security-and-risk-strategy/cost-of-a-ransomware-attack-part-2-response-recovery)
 - [6 Best Practices for NLP Implementation](https://www.informationweek.com/big-data/6-best-practices-for-nlp-implementation)
 - [The Cost of a Ransomware Attack, Part 1: The Ransom](https://www.informationweek.com/security-and-risk-strategy/the-cost-of-a-ransomware-attack-part-1-the-ransom)
@@ -368,9 +371,6 @@
 - [When is it Okay to Miss an IT Project Deadline?](https://www.informationweek.com/it-life/when-is-it-okay-to-miss-an-it-project-deadline-)
 - [Whatever Happened to Business Supercomputers?](https://www.informationweek.com/big-data/whatever-happened-to-business-supercomputers-)
 - [Reduce and Reimagine: How CIOs Can Transform IT Spend](https://www.informationweek.com/it-life/reduce-and-reimagine-how-cios-can-transform-it-spend)
-- [Harness Your Heritage: Building an IT Future on Past Success](https://www.informationweek.com/strategic-cio/harness-your-heritage-building-an-it-future-on-past-success)
-- [Ways to Prevent IT Projects From Getting Sunk](https://www.informationweek.com/strategic-cio/ways-to-prevent-it-projects-from-getting-sunk)
-- [Data Quality: How to Show the ROI for Projects](https://www.informationweek.com/big-data/data-quality-how-to-show-the-roi-for-projects)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

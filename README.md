@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook reverses Kyle Rittenhouse policy](https://www.bbc.com/news/technology-59486397)
-- [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
-- [Firefox&#39;s Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
-- [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
-- [Block &lpar;aka Square, Tidal, CashApp etc&rpar;](https://block.xyz/)
-- [Square is now called Block](https://twitter.com/Square/status/1466158910067388423)
-- [Recurrency &lpar;YC S20&rpar; is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
-- [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
-- [Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
-- [Scamp CPU: A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
+- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
+- [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
+- [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X](https://corecursive.com/cocoa-culture-with-hansen-hsu/)
+- [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
+- [An eccentric monk’s singular scrap cathedral](https://hazlitt.net/longreads/sacrifice)
+- [FTC sues to block Nvidia-Arm merger](https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger)
+- [Gigablast Search Engine](https://gigablast.com/about.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bootable USB not Recognized &lpar;Cross Posted&rpar;](https://www.reddit.com/r/InformationTechnology/comments/r7h7sc/bootable_usb_not_recognized_cross_posted/)
+- [Best way to improve skills while working as a Level 1 helpdesk technician?](https://www.reddit.com/r/InformationTechnology/comments/r79wey/best_way_to_improve_skills_while_working_as_a/)
+- [Working from home from a security perspective](https://www.reddit.com/r/InformationTechnology/comments/r6z4db/working_from_home_from_a_security_perspective/)
+- [Can someone please explain this?](https://www.reddit.com/r/InformationTechnology/comments/r6z3ks/can_someone_please_explain_this/)
+- [IIS website can&#39;t be accessed by public](https://www.reddit.com/r/InformationTechnology/comments/r6wikx/iis_website_cant_be_accessed_by_public/)
+- [Passed security+ today!](https://www.reddit.com/r/InformationTechnology/comments/r6sj3y/passed_security_today/)
+- [Fork Bomb on an Instagram account](https://www.reddit.com/r/InformationTechnology/comments/r6kcg4/fork_bomb_on_an_instagram_account/)
+- [Information Technology Needs](https://www.reddit.com/r/InformationTechnology/comments/r6dpis/information_technology_needs/)
+- [Entry level IT job at a college](https://www.reddit.com/r/InformationTechnology/comments/r6agup/entry_level_it_job_at_a_college/)
 - [What can I expect from an entry level &lpar;tier 1&rpar; support job?](https://www.reddit.com/r/InformationTechnology/comments/r61xub/what_can_i_expect_from_an_entry_level_tier_1/)
-- [Military, College or Certifications?](https://www.reddit.com/r/InformationTechnology/comments/r5gork/military_college_or_certifications/)
-- [Need Assistance! Trying to install Nessus Essentials on Kali Linux.](https://www.reddit.com/r/InformationTechnology/comments/r4x2o4/need_assistance_trying_to_install_nessus/)
-- [Is it possible to permanently mobilize a serverfarm?](https://www.reddit.com/r/InformationTechnology/comments/r4q9jc/is_it_possible_to_permanently_mobilize_a/)
-- [Is there any alternative to open VCE file rather than using VCE exam simulator ?](https://www.reddit.com/r/InformationTechnology/comments/r4pdx8/is_there_any_alternative_to_open_vce_file_rather/)
-- [Best sites for tech news?](https://www.reddit.com/r/InformationTechnology/comments/r4nbye/best_sites_for_tech_news/)
-- [How can I go about telling this major hospital IT interview I am only seeking to work extra part time hours?](https://www.reddit.com/r/InformationTechnology/comments/r4lqlk/how_can_i_go_about_telling_this_major_hospital_it/)
-- [Which university should I choose to attend in order to become an Information Security Analyst/ Specialist/Manager?](https://www.reddit.com/r/InformationTechnology/comments/r4i3ec/which_university_should_i_choose_to_attend_in/)
-- [Changing Careers..](https://www.reddit.com/r/InformationTechnology/comments/r4fhdz/changing_careers/)
-- [Student jobs?](https://www.reddit.com/r/InformationTechnology/comments/r4aefl/student_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

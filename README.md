@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
-- [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
-- [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
-- [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X](https://corecursive.com/cocoa-culture-with-hansen-hsu/)
-- [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
-- [An eccentric monk’s singular scrap cathedral](https://hazlitt.net/longreads/sacrifice)
-- [FTC sues to block Nvidia-Arm merger](https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger)
-- [Gigablast Search Engine](https://gigablast.com/about.html)
+- [The City of Palliative Care](https://jayriverlong.github.io/2021/11/28/palliative.html)
+- [To regrow forests the U.S. needs billions of seeds–and many more &#39;seed hunters&#39;](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
+- [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
+- [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
+- [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
+- [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
+- [YouTube deleting comments who criticize their hiding of the dislike count](https://www.youtube.com/watch?v=43wp_EUk2ho)
+- [I bought those AR cycling glasses that were on HN last month](https://painandcycling.com/engo-hud-ar-glasses)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

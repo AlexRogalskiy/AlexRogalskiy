@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: New York state detects five cases of Omicron variant as new US air travel rules loom](https://www.theguardian.com/world/live/2021/dec/03/covid-news-live-new-york-state-detects-five-cases-of-omicron-variant-as-new-us-air-travel-rules-loom)
-- [Old Bexley and Sidcup byelection: Tories retain true-blue seat](https://www.theguardian.com/politics/2021/dec/03/old-bexley-and-sidcup-byelection-louie-french-mp-tories-retain-seat)
-- [Ghislaine Maxwell warned Epstein’s house manager not to ‘look at his eyes’, court hears](https://www.theguardian.com/us-news/2021/dec/02/ghislaine-maxwell-trial-warned-jeffrey-epstein-house-manager)
-- [Staff absences having ‘massive impact’ on pupils in England say head teachers](https://www.theguardian.com/education/2021/dec/03/staff-absences-having-massive-impact-on-pupils-in-england-say-head-teachers)
-- [UK government’s risk planning is weak and secretive, says Lords report](https://www.theguardian.com/politics/2021/dec/03/uk-governments-risk-planning-is-weak-and-secretive-says-lords-report)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2021/dec/03/premier-league-10-things-to-look-out-for-this-weekend)
-- [Republican senators threaten shutdown despite House passing funding bill](https://www.theguardian.com/us-news/2021/dec/02/republican-senators-threaten-government-shutdown-despite-house-passing-funding-bill)
-- [Covid booster shots significantly strengthen immunity, trial finds](https://www.theguardian.com/world/2021/dec/02/covid-booster-shots-significantly-strengthen-immunity-trial-finds)
-- [France rejects idea of joint patrols with UK forces on Calais coast](https://www.theguardian.com/world/2021/dec/02/france-rejects-idea-of-british-patrols-along-calais-beaches)
-- [$75bn takeover of chip designer Arm by rival Nvidia in jeopardy](https://www.theguardian.com/business/2021/dec/02/75bn-takeover-of-chip-designer-arm-by-rival-nvidia-in-jeopardy)
+- [Dog noises, name calling, claims of abuse: a week of shame in Australian politics](https://www.theguardian.com/australia-news/2021/dec/04/dog-noises-name-calling-claims-of-abuse-a-week-of-shame-in-australian-politics)
+- [Labour MPs report Boris Johnson to police over 2020 Christmas parties](https://www.theguardian.com/politics/2021/dec/03/tories-to-go-ahead-with-christmas-party-despite-omicron-risks)
+- [RNLI takes down its website after suspected hacking attempt](https://www.theguardian.com/world/2021/dec/03/rnli-takes-down-its-website-after-suspected-hacking-attempt)
+- [Act now against Omicron to stop new Covid wave, UK ministers warned](https://www.theguardian.com/world/2021/dec/03/omicron-act-now-stop-nhs-being-overwhelmed-covid-variant-uk-ministers-warned)
+- [Maxwell prosecutors: ‘sexualized’ photo of young girl displayed outside Epstein bedroom](https://www.theguardian.com/us-news/2021/dec/03/ghislaine-maxwell-trial-jeffrey-epstein-photograph)
+- [Carlsen draws first blood against Nepomniachtchi in world title battle](https://www.theguardian.com/sport/2021/dec/03/carlsen-draws-first-blood-against-nepomniachtchi-in-world-title-battle)
+- [‘Trying to hide heartache merely leads to more grief’: Geoff Hurst at 80 on highs, lows and the boys of ‘66](https://www.theguardian.com/football/2021/dec/03/geoff-hurst-heartache-1966-world-cup-donald-mcrae-interview)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/dec/03/twenty-photographs-of-the-week)
+- [Michigan shooting: suspect’s parents missing after pair charged with manslaughter](https://www.theguardian.com/us-news/2021/dec/03/michigan-high-school-shooting-parents-manslaughter-charges)
+- [Hundreds of military families sickened by contaminated Pearl Harbor water](https://www.theguardian.com/us-news/2021/dec/03/hawaii-drinking-water-contamination-navy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

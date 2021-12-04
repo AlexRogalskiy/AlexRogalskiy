@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A Computer Weekly buyer’s guide to post-Covid supply chain management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-post-Covid-supply-chain-management)
+- [Almost three-quarters of digital talent planning job change](https://www.computerweekly.com/news/252510438/Almost-three-quarters-of-digital-talent-planning-job-change)
+- [IR35: Government consultation on umbrella companies fuels regulation hopes](https://www.computerweekly.com/news/252510435/IR35-Government-consultation-on-umbrella-companies-fuels-regulation-hopes)
+- [Virgin Money adapts offices to fit flexible and collaborative working](https://www.computerweekly.com/news/252510436/Virgin-Money-adapts-property-portfolio-to-fit-flexible-and-collaborative-working)
+- [Bank of Ireland fined €24.5m for business continuity failures](https://www.computerweekly.com/news/252510425/Bank-of-Ireland-fined-245m-for-business-continuity-failures)
+- [Serious violence duty in PCSC Bill would gut UK data rights](https://www.computerweekly.com/news/252510271/Serious-violence-duty-in-PCSC-Bill-would-gut-UK-data-rights)
 - [UK government publishes tech-enabled adult social care plan](https://www.computerweekly.com/news/252510374/UK-government-publishes-tech-enabled-adult-social-care-plan)
 - [United Airlines draws from AWS and diverse tech team to overcome Covid-19 business challenges](https://www.computerweekly.com/news/252510362/United-Airlines-draws-from-AWS-and-diverse-tech-team-setup-to-overcome-Covid-19-business-challenges)
 - [Pandora Papers: How journalists mined terabytes of offshore data to expose the world’s elites](https://www.computerweekly.com/news/252510313/Pandora-Papers-How-journalists-mined-terabytes-of-offshore-data-to-expose-the-worlds-elites)
 - [Millions of credit card details for sale on dark web for as little as 75p](https://www.computerweekly.com/news/252510368/Millions-of-credit-card-details-for-sale-on-dark-web-for-a-few-pounds-each)
-- [COP26 reflections, tech sector reacts to Sunak on skills – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/COP26-reflections-tech-sector-reacts-to-Sunak-on-skills-Computer-Weekly-Downtime-Upload-podcast)
-- [Facebook parent Meta tightens links with open source community through expanded AWS partnership](https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership)
-- [Security Think Tank: Think people, processes and systems](https://www.computerweekly.com/opinion/Security-Think-Tank-Think-people-processes-systems)
-- [Unesco member states adopt AI ethics recommendation](https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation)
-- [Kaspersky introduces cyber policy for bionic devices](https://www.computerweekly.com/news/252510280/Kaspersky-introduces-cyber-policy-for-bionic-devices)
-- [Wolverhampton to pilot app that rewards healthy behaviours](https://www.computerweekly.com/news/252510289/Wolverhampton-to-pilot-app-that-rewards-healthy-behaviours)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

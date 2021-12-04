@@ -362,15 +362,15 @@
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
 - [How are Organizations Doing with Cloud?](https://www.informationweek.com/cloud/how-are-organizations-doing-with-cloud-)
+- [Salesforce-Slack Drive Continues with New Co-CEO Taylor](https://www.informationweek.com/cloud/salesforce-slack-drive-continues-with-new-co-ceo-taylor)
+- [Nasdaq CEO at AWS re:Invent Talks Cloud’s Impact on FinTech](https://www.informationweek.com/cloud/nasdaq-ceo-at-aws-re-invent-talks-cloud-s-impact-on-fintech)
+- [3 Steps To Take When Implementing Cloud-to-Edge Service Models](https://www.informationweek.com/cloud/3-steps-to-take-when-implementing-cloud-to-edge-service-models)
+- [Answering Broadband Questions in the Infrastructure Investment Bill](https://www.informationweek.com/it-life/answering-broadband-questions-in-the-infrastructure-investment-bill)
 - [Don&#39;t Let Your ITSM Platform Drain IT Budget and Resources](https://www.informationweek.com/strategic-cio/don-t-let-your-itsm-platform-drain-it-budget-and-resources)
 - [Ringler Goes Low Code/No Code to Leverage Data Analytics](https://www.informationweek.com/devops/ringler-goes-low-code-no-code-to-leverage-data-analytics)
 - [The Cost of a Ransomware Attack, Part 2: Response &amp; Recovery](https://www.informationweek.com/security-and-risk-strategy/cost-of-a-ransomware-attack-part-2-response-recovery)
 - [6 Best Practices for NLP Implementation](https://www.informationweek.com/big-data/6-best-practices-for-nlp-implementation)
 - [The Cost of a Ransomware Attack, Part 1: The Ransom](https://www.informationweek.com/security-and-risk-strategy/the-cost-of-a-ransomware-attack-part-1-the-ransom)
-- [Global Tech Policy Briefing for November 2021: Banking, Broadband, &amp; Big Tech](https://www.informationweek.com/government/global-tech-policy-briefing-for-november-2021-banking-broadband-big-tech)
-- [When is it Okay to Miss an IT Project Deadline?](https://www.informationweek.com/it-life/when-is-it-okay-to-miss-an-it-project-deadline-)
-- [Whatever Happened to Business Supercomputers?](https://www.informationweek.com/big-data/whatever-happened-to-business-supercomputers-)
-- [Reduce and Reimagine: How CIOs Can Transform IT Spend](https://www.informationweek.com/it-life/reduce-and-reimagine-how-cios-can-transform-it-spend)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

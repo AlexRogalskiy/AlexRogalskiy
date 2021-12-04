@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ludwig Moves to YouTube Gaming](https://www.forbes.com/sites/johanmoreno/2021/11/30/the-battle-between-youtube-and-twitch-heats-up-as-ludwig-moves-to-youtube-gaming/)
-- [Cut Medicine in Half](https://www.cato-unbound.org/2007/09/10/robin-hanson/cut-medicine-half/)
-- [The 8000th Busy Beaver number eludes ZF set theory &lpar;2016&rpar;](https://scottaaronson.blog/?p=2725)
-- [Ask HN: What&#39;s a Good Reddit Alternative?](https://news.ycombinator.com/item?id=29425840)
-- [Finding Stale Issues and PRs](https://docs.mergestat.com/blog/2021/12/02/finding-stale-issues-and-prs)
-- [Early winter heat shatters records in U.S., Canada](https://www.axios.com/early-winter-heat-us-canada-records-372c8bec-0c9d-490a-9ac3-b4a6c9748173.html)
-- [Blood or saliva THC levels found to be poor sign of driving impairment](https://newatlas.com/health-wellbeing/thc-blood-saliva-not-linked-cannabis-driving-impairment/)
-- [Didi will delist from the New York Stock Exchange](https://www.cnbc.com/2021/12/03/didi-on-delisting-from-us-and-list-in-hong-kong.html)
-- [Extreme food prices slam inflation-ridden Turkey and Sri Lanka](https://asia.nikkei.com/Business/Markets/Commodities/Extreme-food-prices-slam-inflation-ridden-Turkey-and-Sri-Lanka)
-- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- [California Will Curtail Water to Farms and Cities Next Year as Drought Worsens](https://www.bloomberg.com/news/articles/2021-12-01/california-to-cut-water-to-farms-and-cities-as-drought-worsens)
+- [Emacs with Nyxt- extend your editor with the power of a Lisp browser](https://nyxt.atlas.engineer/article/emacs-conf.org)
+- [We won&#39;t know how bad omicron is for another month](https://www.technologyreview.com/2021/12/01/1040802/how-bad-will-omicron-get/)
+- [Hundreds of military families sickened by contaminated Pearl Harbor water](https://www.theguardian.com/us-news/2021/dec/03/hawaii-drinking-water-contamination-navy)
+- [Ask HN: How to start teaching my 3rd grader daughter computer programming?](https://news.ycombinator.com/item?id=29438050)
+- [Consent for Id.me to Collect Biometric Data](https://www.id.me/biometric)
+- [VirtualBeeb – BBC Micro Simulation](https://virtual.bbcmic.ro/)
+- [The Webb Space Telescope Will Rewrite Cosmic History. If It Works](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/)
+- [Open-source Vizio lawsuit takes an ugly turn](https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/)
+- [Solution in D for Advent of Code 2021, Day 3](https://lsferreira.net/../../posts/zet-4-aoc-2021-03/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

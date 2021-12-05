@@ -406,7 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [someone else&#39;s account is logged into my computer: how?](https://www.reddit.com/r/InformationTechnology/comments/r8e22i/someone_elses_account_is_logged_into_my_computer/)
+- [How to Figure Out What You Want to do in IT](https://www.reddit.com/r/InformationTechnology/comments/r8ibbc/how_to_figure_out_what_you_want_to_do_in_it/)
 - [Need some advice on how to do a side IT request for a coworker.](https://www.reddit.com/r/InformationTechnology/comments/r8aqjz/need_some_advice_on_how_to_do_a_side_it_request/)
 - [Work Computer Keeps Lowering its Volume if I have Headphones On and Pull the chord by moving](https://www.reddit.com/r/InformationTechnology/comments/r87fh1/work_computer_keeps_lowering_its_volume_if_i_have/)
 - [Are all businesses IT this all over the place?](https://www.reddit.com/r/InformationTechnology/comments/r85suc/are_all_businesses_it_this_all_over_the_place/)

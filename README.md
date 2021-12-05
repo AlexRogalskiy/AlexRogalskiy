@@ -391,8 +391,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [A Computer Weekly buyer’s guide to post-Covid supply chain management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-post-Covid-supply-chain-management)
 - [Almost three-quarters of digital talent planning job change](https://www.computerweekly.com/news/252510438/Almost-three-quarters-of-digital-talent-planning-job-change)
+- [A Computer Weekly buyer’s guide to post-Covid supply chain management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-post-Covid-supply-chain-management)
 - [IR35: Government consultation on umbrella companies fuels regulation hopes](https://www.computerweekly.com/news/252510435/IR35-Government-consultation-on-umbrella-companies-fuels-regulation-hopes)
 - [Virgin Money adapts offices to fit flexible and collaborative working](https://www.computerweekly.com/news/252510436/Virgin-Money-adapts-property-portfolio-to-fit-flexible-and-collaborative-working)
 - [Bank of Ireland fined €24.5m for business continuity failures](https://www.computerweekly.com/news/252510425/Bank-of-Ireland-fined-245m-for-business-continuity-failures)

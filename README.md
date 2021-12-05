@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The City of Palliative Care](https://jayriverlong.github.io/2021/11/28/palliative.html)
-- [To regrow forests the U.S. needs billions of seeds–and many more &#39;seed hunters&#39;](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
-- [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
-- [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
-- [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
-- [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
-- [YouTube deleting comments who criticize their hiding of the dislike count](https://www.youtube.com/watch?v=43wp_EUk2ho)
-- [I bought those AR cycling glasses that were on HN last month](https://painandcycling.com/engo-hud-ar-glasses)
+- [Show HN: Collaborative RSS Reader](https://linklonk.com/)
+- [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
+- [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
+- [How can a ski lift allow turns to the left and the right on its route? [video]](https://www.youtube.com/watch?v=x4Av3jGKee8)
+- [Threepp: A C++17 Port of Three.js](https://github.com/markaren/threepp)
+- [All Horses Are the Same Color](https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/)
+- [English to Emoji – Yandex Translate](https://translate.yandex.com/?lang=en-emj&text=Hello%20World)
+- [Graviton2 and Graviton3](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html)
+- [More Data from Voyager 1](https://destevez.net/2021/12/more-data-from-voyager-1/)
+- [Vegetable Oil for Lubricating Chainsaws &lpar;2008&rpar;](https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

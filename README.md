@@ -346,6 +346,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [We’re thinking about metaverse collaboration the wrong way](https://www.computerworld.com/article/3643573/were-thinking-about-metaverse-collaboration-the-wrong-way.html#tk.rss_all)
 - [Apple, accessibility, and Project Titan](https://www.computerworld.com/article/3643628/apple-accessibility-and-project-titan.html#tk.rss_all)
 - [Microsoft may soon let Windows 11 users bypass Edge as the default browser](https://www.computerworld.com/article/3643338/microsoft-may-soon-let-windows-11-users-bypass-edge-as-the-default-browser.html#tk.rss_all)
 - [Despise passwords? Some good news and bad news](https://www.computerworld.com/article/3643571/despise-passwords-some-good-news-and-bad-news.html#tk.rss_all)
@@ -355,7 +356,6 @@
 - [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 - [Microsoft aims Teams Essentials at small-biz customers](https://www.computerworld.com/article/3643369/microsoft-aims-teams-essentials-at-small-biz-customers.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [What to expect from Apple in 2022](https://www.computerworld.com/article/3643031/what-to-expect-from-apple-in-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

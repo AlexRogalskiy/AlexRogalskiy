@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dog noises, name calling, claims of abuse: a week of shame in Australian politics](https://www.theguardian.com/australia-news/2021/dec/04/dog-noises-name-calling-claims-of-abuse-a-week-of-shame-in-australian-politics)
-- [Labour MPs report Boris Johnson to police over 2020 Christmas parties](https://www.theguardian.com/politics/2021/dec/03/tories-to-go-ahead-with-christmas-party-despite-omicron-risks)
-- [RNLI takes down its website after suspected hacking attempt](https://www.theguardian.com/world/2021/dec/03/rnli-takes-down-its-website-after-suspected-hacking-attempt)
-- [Act now against Omicron to stop new Covid wave, UK ministers warned](https://www.theguardian.com/world/2021/dec/03/omicron-act-now-stop-nhs-being-overwhelmed-covid-variant-uk-ministers-warned)
-- [Maxwell prosecutors: ‘sexualized’ photo of young girl displayed outside Epstein bedroom](https://www.theguardian.com/us-news/2021/dec/03/ghislaine-maxwell-trial-jeffrey-epstein-photograph)
-- [Carlsen draws first blood against Nepomniachtchi in world title battle](https://www.theguardian.com/sport/2021/dec/03/carlsen-draws-first-blood-against-nepomniachtchi-in-world-title-battle)
-- [‘Trying to hide heartache merely leads to more grief’: Geoff Hurst at 80 on highs, lows and the boys of ‘66](https://www.theguardian.com/football/2021/dec/03/geoff-hurst-heartache-1966-world-cup-donald-mcrae-interview)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2021/dec/03/twenty-photographs-of-the-week)
-- [Michigan shooting: suspect’s parents missing after pair charged with manslaughter](https://www.theguardian.com/us-news/2021/dec/03/michigan-high-school-shooting-parents-manslaughter-charges)
-- [Hundreds of military families sickened by contaminated Pearl Harbor water](https://www.theguardian.com/us-news/2021/dec/03/hawaii-drinking-water-contamination-navy)
+- [Rio Tinto lithium mine: thousands of protesters block roads across Serbia](https://www.theguardian.com/world/2021/dec/05/rio-tinto-lithium-mine-thousands-of-protesters-block-roads-across-serbia)
+- [Covid antiviral pill molnupiravir/Lagevrio set for UK at-home trials](https://www.theguardian.com/world/2021/dec/05/covid-antiviral-pill-molnupiravirlagevrio-set-for-uk-at-home-trials)
+- [UK’s progress on Covid now squandered, warns top scientist](https://www.theguardian.com/world/2021/dec/04/uks-progress-on-covid-now-squandered-warns-top-scientist)
+- [Michigan shooting: suspect’s parents held on $1m bond after capture](https://www.theguardian.com/us-news/2021/dec/04/michigan-shooting-suspects-parents-held-on-1m-bond-james-jennifer-crumbley)
+- [LV= sell-off could knock the mutuals movement for six](https://www.theguardian.com/business/2021/dec/05/lv-sell-off-could-knock-the-mutuals-movement-for-six)
+- [Collin Morikawa close to victory in the Bahamas and first world No 1 ranking](https://www.theguardian.com/sport/2021/dec/05/collin-morikawa-close-to-victory-in-the-bahamas-and-first-world-no-1-ranking)
+- [Call for Tory peer Michelle Mone to resign as accuser speaks out in alleged racism row](https://www.theguardian.com/politics/2021/dec/04/call-for-tory-peer-michelle-mone-to-resign-as-accuser-speaks-out-in-alleged-racism-row)
+- [Chris Cuomo fired by CNN for helping brother Andrew fight sexual misconduct charges](https://www.theguardian.com/media/2021/dec/04/chris-cuomo-fired-cnn-brother-andrew-sexual-misconduct-charges)
+- [Luca Brecel reaches UK Championship final before revealing toilet troubles](https://www.theguardian.com/sport/2021/dec/04/luca-brecel-overcomes-toilet-troubles-to-reach-uk-championship-final)
+- [Biden and Putin to hold call amid tensions over Ukraine – White House](https://www.theguardian.com/world/2021/dec/04/biden-putin-call-ukraine-russia-white-house)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

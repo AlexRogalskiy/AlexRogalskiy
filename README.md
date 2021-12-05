@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [California Will Curtail Water to Farms and Cities Next Year as Drought Worsens](https://www.bloomberg.com/news/articles/2021-12-01/california-to-cut-water-to-farms-and-cities-as-drought-worsens)
-- [Emacs with Nyxt- extend your editor with the power of a Lisp browser](https://nyxt.atlas.engineer/article/emacs-conf.org)
-- [We won&#39;t know how bad omicron is for another month](https://www.technologyreview.com/2021/12/01/1040802/how-bad-will-omicron-get/)
-- [Hundreds of military families sickened by contaminated Pearl Harbor water](https://www.theguardian.com/us-news/2021/dec/03/hawaii-drinking-water-contamination-navy)
-- [Ask HN: How to start teaching my 3rd grader daughter computer programming?](https://news.ycombinator.com/item?id=29438050)
-- [Consent for Id.me to Collect Biometric Data](https://www.id.me/biometric)
-- [VirtualBeeb – BBC Micro Simulation](https://virtual.bbcmic.ro/)
-- [The Webb Space Telescope Will Rewrite Cosmic History. If It Works](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/)
-- [Open-source Vizio lawsuit takes an ugly turn](https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/)
-- [Solution in D for Advent of Code 2021, Day 3](https://lsferreira.net/../../posts/zet-4-aoc-2021-03/)
+- [Ask HN: How do you sustain mindfulness throughout your day?](https://news.ycombinator.com/item?id=29446222)
+- [Ethics Grand Rounds: The Ethics of Vaccine Mandates](https://videocast.nih.gov/watch=44165)
+- [Post-Conquest Aztec Altar Found in Mexico on 500th Anniversary of Spain Invasion](https://www.artnews.com/art-news/news/post-conquest-aztec-artifacts-uncovered-1234612330/)
+- [Chronic pain breaks a rock band on The Dodos&#39; &#39;Grizzly Peak&#39;](https://www.npr.org/2021/12/04/1060584024/dodos-grizzly-peak-chronic-pain-music-career-hidden-costs)
+- [Peter Jackson’s the Beatles: Get Back Accomplishes the Unthinkable](https://www.vulture.com/article/review-peter-jackson-the-beatles-get-back.html)
+- [Advent of Code 2021 in Google Sheets: First 4 Days](https://ryxcommar.com/2021/12/04/advent-of-code-2021-in-google-sheets-first-4-days/)
+- [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
+- [Fly-Pie 10](https://www.youtube.com/watch?v=BGXtckqhEIk)
+- [SpaceX enthusiast designs a 1:110 scale Lego Starship](https://www.teslaoracle.com/2021/11/28/spacex-enthusiast-designs-a-1110-scale-lego-starship/)
+- [The Map of Quantum Computing](https://www.youtube.com/watch?v=-UlxHPIEVqA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

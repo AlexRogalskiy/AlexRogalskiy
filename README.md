@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rio Tinto lithium mine: thousands of protesters block roads across Serbia](https://www.theguardian.com/world/2021/dec/05/rio-tinto-lithium-mine-thousands-of-protesters-block-roads-across-serbia)
-- [Covid antiviral pill molnupiravir/Lagevrio set for UK at-home trials](https://www.theguardian.com/world/2021/dec/05/covid-antiviral-pill-molnupiravirlagevrio-set-for-uk-at-home-trials)
-- [UK’s progress on Covid now squandered, warns top scientist](https://www.theguardian.com/world/2021/dec/04/uks-progress-on-covid-now-squandered-warns-top-scientist)
-- [Michigan shooting: suspect’s parents held on $1m bond after capture](https://www.theguardian.com/us-news/2021/dec/04/michigan-shooting-suspects-parents-held-on-1m-bond-james-jennifer-crumbley)
-- [LV= sell-off could knock the mutuals movement for six](https://www.theguardian.com/business/2021/dec/05/lv-sell-off-could-knock-the-mutuals-movement-for-six)
-- [Collin Morikawa close to victory in the Bahamas and first world No 1 ranking](https://www.theguardian.com/sport/2021/dec/05/collin-morikawa-close-to-victory-in-the-bahamas-and-first-world-no-1-ranking)
-- [Call for Tory peer Michelle Mone to resign as accuser speaks out in alleged racism row](https://www.theguardian.com/politics/2021/dec/04/call-for-tory-peer-michelle-mone-to-resign-as-accuser-speaks-out-in-alleged-racism-row)
-- [Chris Cuomo fired by CNN for helping brother Andrew fight sexual misconduct charges](https://www.theguardian.com/media/2021/dec/04/chris-cuomo-fired-cnn-brother-andrew-sexual-misconduct-charges)
-- [Luca Brecel reaches UK Championship final before revealing toilet troubles](https://www.theguardian.com/sport/2021/dec/04/luca-brecel-overcomes-toilet-troubles-to-reach-uk-championship-final)
-- [Biden and Putin to hold call amid tensions over Ukraine – White House](https://www.theguardian.com/world/2021/dec/04/biden-putin-call-ukraine-russia-white-house)
+- [Covid news live: Omicron found in one-third of US states but early reports on severity are ‘encouraging’, Fauci says](https://www.theguardian.com/world/live/2021/dec/06/covid-news-live-omicron-found-in-one-third-of-us-states-germany-plans-vaccine-mandates-for-some-health-jobs)
+- [Mountaineer given jewels he found on French glacier 50 years after plane crash](https://www.theguardian.com/world/2021/dec/06/mountaineer-given-jewels-he-found-on-french-glacier-50-years-after-plane-crash)
+- [Gambian opposition parties reject election results](https://www.theguardian.com/world/2021/dec/05/gambian-opposition-parties-reject-preliminary-election-results)
+- [‘Ferocious’ Niger battle leaves dozens of soldiers and militants dead](https://www.theguardian.com/world/2021/dec/06/ferocious-niger-battle-leaves-dozens-of-soldiers-and-militants-dead)
+- [Three in four girls have been sent sexual images via apps, report finds](https://www.theguardian.com/media/2021/dec/06/three-in-four-girls-have-been-sent-sexual-images-via-apps-report-finds)
+- [CBI revises next year’s economic growth forecast down to 5.1%](https://www.theguardian.com/business/2021/dec/06/cbi-revises-next-years-economic-growth-forecast-down-to-51)
+- [Female Royal Navy staff back calls for rape cases to be tried in civilian courts](https://www.theguardian.com/uk-news/2021/dec/06/female-royal-navy-staff-back-calls-for-cases-to-be-tried-in-civilian-courts)
+- [Covid not over and next pandemic could be more lethal, says Oxford jab creator](https://www.theguardian.com/world/2021/dec/06/covid-not-over-next-pandemic-could-be-more-lethal-oxford-jab-creator)
+- [Middle-class drug users could lose UK passports under Boris Johnson’s plans](https://www.theguardian.com/society/2021/dec/06/middle-class-drug-users-could-lose-uk-passports-under-boris-johnsons-plans)
+- [Tesco could face empty shelves over pay dispute, Unite union says](https://www.theguardian.com/business/2021/dec/06/tesco-could-face-empty-shelves-over-pay-deal-dispute-unite-union-warns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

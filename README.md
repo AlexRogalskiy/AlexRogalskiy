@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How do you sustain mindfulness throughout your day?](https://news.ycombinator.com/item?id=29446222)
-- [Ethics Grand Rounds: The Ethics of Vaccine Mandates](https://videocast.nih.gov/watch=44165)
-- [Post-Conquest Aztec Altar Found in Mexico on 500th Anniversary of Spain Invasion](https://www.artnews.com/art-news/news/post-conquest-aztec-artifacts-uncovered-1234612330/)
-- [Chronic pain breaks a rock band on The Dodos&#39; &#39;Grizzly Peak&#39;](https://www.npr.org/2021/12/04/1060584024/dodos-grizzly-peak-chronic-pain-music-career-hidden-costs)
-- [Peter Jackson’s the Beatles: Get Back Accomplishes the Unthinkable](https://www.vulture.com/article/review-peter-jackson-the-beatles-get-back.html)
-- [Advent of Code 2021 in Google Sheets: First 4 Days](https://ryxcommar.com/2021/12/04/advent-of-code-2021-in-google-sheets-first-4-days/)
-- [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
-- [Fly-Pie 10](https://www.youtube.com/watch?v=BGXtckqhEIk)
-- [SpaceX enthusiast designs a 1:110 scale Lego Starship](https://www.teslaoracle.com/2021/11/28/spacex-enthusiast-designs-a-1110-scale-lego-starship/)
-- [The Map of Quantum Computing](https://www.youtube.com/watch?v=-UlxHPIEVqA)
+- [The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq](https://www.principiarewrite.com/)
+- [First-in-US NYC law requires algorithms used in hiring to be “audited” for bias](https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/)
+- [You shouldn’t use Google Chrome &lpar;2020&rpar;](https://zapek.com/blog/why-you-shouldnt-use-google-chrome/)
+- [Mayhem Beneath the Surface of the Stock Market](https://wolfstreet.com/2021/12/05/the-mayhem-beneath-the-surface-of-the-stock-market/)
+- [San Francisco suspends CannabisTax 2 help dispensaries compete with drug dealers](https://thenationaldesk.com/news/americas-news-now/san-francisco-suspends-cannabis-tax-to-help-dispensaries-compete-with-drug-dealers)
+- [&#39;Metaverse&#39; hype fuels booming digital property market](https://techxplore.com/news/2021-12-metaverse-hype-fuels-booming-digital.html)
+- [Coding Jams: Playlists for the Daily Grind](https://partee.io/2021/12/05/coding-jams/)
+- [Squaring Up to Defend Mathematics](https://www.wsj.com/articles/defending-mathematics-science-stem-equity-education-california-k12-math-matters-11638728196)
+- [Console #82 – RosettaBoy, Fosscord, and Shisho](https://console.substack.com/p/console-82)
+- [Spotify pulls content of comedians fighting to get royalties for their work](https://gizmodo.com/spotify-pulls-content-of-hundreds-of-comedians-fighting-1848163916)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

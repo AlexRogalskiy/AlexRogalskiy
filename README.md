@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Collaborative RSS Reader](https://linklonk.com/)
-- [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
-- [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
-- [How can a ski lift allow turns to the left and the right on its route? [video]](https://www.youtube.com/watch?v=x4Av3jGKee8)
-- [Threepp: A C++17 Port of Three.js](https://github.com/markaren/threepp)
-- [All Horses Are the Same Color](https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/)
-- [English to Emoji – Yandex Translate](https://translate.yandex.com/?lang=en-emj&text=Hello%20World)
-- [Graviton2 and Graviton3](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html)
-- [More Data from Voyager 1](https://destevez.net/2021/12/more-data-from-voyager-1/)
-- [Vegetable Oil for Lubricating Chainsaws &lpar;2008&rpar;](https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html)
+- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542)
+- [LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism](https://dl.acm.org/doi/10.1145/3477132.3483565)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29455025)
+- [WhatsApp has removed answer to “how do I choose not to share data with FB”](https://faq.whatsapp.com/general/26000016)
+- [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
+- [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
+- [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
+- [All Placebos are not created equal](https://atis.substack.com/p/all-placebos-are-not-created-equal)
+- [Crohn’s Disease: Is the Cold Chain Hypothesis Still Hot?](https://academic.oup.com/ecco-jcc/article/15/4/678/5908865)
+- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

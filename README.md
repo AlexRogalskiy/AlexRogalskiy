@@ -406,6 +406,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [CompTIA A+ Exam Tips and Exam Process Explained](https://www.reddit.com/r/InformationTechnology/comments/r9mze6/comptia_a_exam_tips_and_exam_process_explained/)
 - [How to Figure Out What You Want to do in IT](https://www.reddit.com/r/InformationTechnology/comments/r8ibbc/how_to_figure_out_what_you_want_to_do_in_it/)
 - [Need some advice on how to do a side IT request for a coworker.](https://www.reddit.com/r/InformationTechnology/comments/r8aqjz/need_some_advice_on_how_to_do_a_side_it_request/)
 - [Work Computer Keeps Lowering its Volume if I have Headphones On and Pull the chord by moving](https://www.reddit.com/r/InformationTechnology/comments/r87fh1/work_computer_keeps_lowering_its_volume_if_i_have/)
@@ -415,7 +416,6 @@
 - [Chromebook Fleet for Education](https://www.reddit.com/r/InformationTechnology/comments/r7plwh/chromebook_fleet_for_education/)
 - [I need updating Window 10 to Win 10 20h2 +! Via usb](https://www.reddit.com/r/InformationTechnology/comments/r7o9wa/i_need_updating_window_10_to_win_10_20h2_via_usb/)
 - [Bootable USB not Recognized &lpar;Cross Posted&rpar;](https://www.reddit.com/r/InformationTechnology/comments/r7h7sc/bootable_usb_not_recognized_cross_posted/)
-- [Best way to improve skills while working as a Level 1 helpdesk technician?](https://www.reddit.com/r/InformationTechnology/comments/r79wey/best_way_to_improve_skills_while_working_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

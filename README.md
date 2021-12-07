@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is a double major in business and information technology worth it?](https://www.reddit.com/r/InformationTechnology/comments/rao4ed/is_a_double_major_in_business_and_information/)
+- [Resetting the BIOS to default fixed Adobe?](https://www.reddit.com/r/InformationTechnology/comments/ram0w9/resetting_the_bios_to_default_fixed_adobe/)
+- [Graphic card](https://www.reddit.com/r/InformationTechnology/comments/raimwf/graphic_card/)
+- [Career path in IT](https://www.reddit.com/r/InformationTechnology/comments/raf23h/career_path_in_it/)
+- [Best Network Monitoring Dashboard?](https://www.reddit.com/r/InformationTechnology/comments/rad2qw/best_network_monitoring_dashboard/)
 - [CompTIA A+ Exam Tips and Exam Process Explained](https://www.reddit.com/r/InformationTechnology/comments/r9mze6/comptia_a_exam_tips_and_exam_process_explained/)
 - [How to Figure Out What You Want to do in IT](https://www.reddit.com/r/InformationTechnology/comments/r8ibbc/how_to_figure_out_what_you_want_to_do_in_it/)
 - [Need some advice on how to do a side IT request for a coworker.](https://www.reddit.com/r/InformationTechnology/comments/r8aqjz/need_some_advice_on_how_to_do_a_side_it_request/)
 - [Work Computer Keeps Lowering its Volume if I have Headphones On and Pull the chord by moving](https://www.reddit.com/r/InformationTechnology/comments/r87fh1/work_computer_keeps_lowering_its_volume_if_i_have/)
 - [Are all businesses IT this all over the place?](https://www.reddit.com/r/InformationTechnology/comments/r85suc/are_all_businesses_it_this_all_over_the_place/)
-- [The best school to transfer too](https://www.reddit.com/r/InformationTechnology/comments/r837yv/the_best_school_to_transfer_too/)
-- [SMTP &quot;package&quot;](https://www.reddit.com/r/InformationTechnology/comments/r80gqi/smtp_package/)
-- [Chromebook Fleet for Education](https://www.reddit.com/r/InformationTechnology/comments/r7plwh/chromebook_fleet_for_education/)
-- [I need updating Window 10 to Win 10 20h2 +! Via usb](https://www.reddit.com/r/InformationTechnology/comments/r7o9wa/i_need_updating_window_10_to_win_10_20h2_via_usb/)
-- [Bootable USB not Recognized &lpar;Cross Posted&rpar;](https://www.reddit.com/r/InformationTechnology/comments/r7h7sc/bootable_usb_not_recognized_cross_posted/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

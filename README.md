@@ -346,6 +346,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why Apple may be planning life after Arm](https://www.computerworld.com/article/3643577/why-apple-may-be-planning-life-after-arm.html#tk.rss_all)
+- [Technology is to blame for the ‘Great Resignation’](https://www.computerworld.com/article/3643335/technology-is-to-blame-for-the-great-resignation.html#tk.rss_all)
 - [We’re thinking about metaverse collaboration the wrong way](https://www.computerworld.com/article/3643573/were-thinking-about-metaverse-collaboration-the-wrong-way.html#tk.rss_all)
 - [Apple, accessibility, and Project Titan](https://www.computerworld.com/article/3643628/apple-accessibility-and-project-titan.html#tk.rss_all)
 - [Microsoft may soon let Windows 11 users bypass Edge as the default browser](https://www.computerworld.com/article/3643338/microsoft-may-soon-let-windows-11-users-bypass-edge-as-the-default-browser.html#tk.rss_all)
@@ -354,8 +356,6 @@
 - [How to use FileVault to protect business data on Macs](https://www.computerworld.com/article/3643332/how-to-use-filevault-to-protect-business-data-on-macs.html#tk.rss_all)
 - [Windows 11 adoption nears 9%, but businesses are waiting](https://www.computerworld.com/article/3643074/windows-11-adoption-nears-9-but-businesses-are-waiting.html#tk.rss_all)
 - [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
-- [Microsoft aims Teams Essentials at small-biz customers](https://www.computerworld.com/article/3643369/microsoft-aims-teams-essentials-at-small-biz-customers.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

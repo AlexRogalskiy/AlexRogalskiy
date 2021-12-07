@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq](https://www.principiarewrite.com/)
-- [First-in-US NYC law requires algorithms used in hiring to be “audited” for bias](https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/)
-- [You shouldn’t use Google Chrome &lpar;2020&rpar;](https://zapek.com/blog/why-you-shouldnt-use-google-chrome/)
-- [Mayhem Beneath the Surface of the Stock Market](https://wolfstreet.com/2021/12/05/the-mayhem-beneath-the-surface-of-the-stock-market/)
-- [San Francisco suspends CannabisTax 2 help dispensaries compete with drug dealers](https://thenationaldesk.com/news/americas-news-now/san-francisco-suspends-cannabis-tax-to-help-dispensaries-compete-with-drug-dealers)
-- [&#39;Metaverse&#39; hype fuels booming digital property market](https://techxplore.com/news/2021-12-metaverse-hype-fuels-booming-digital.html)
-- [Coding Jams: Playlists for the Daily Grind](https://partee.io/2021/12/05/coding-jams/)
-- [Squaring Up to Defend Mathematics](https://www.wsj.com/articles/defending-mathematics-science-stem-equity-education-california-k12-math-matters-11638728196)
-- [Console #82 – RosettaBoy, Fosscord, and Shisho](https://console.substack.com/p/console-82)
-- [Spotify pulls content of comedians fighting to get royalties for their work](https://gizmodo.com/spotify-pulls-content-of-hundreds-of-comedians-fighting-1848163916)
+- [Open-source mail delivery platform for incoming and outgoing email](https://github.com/postalserver/postal)
+- [Great Power Competition: The Emerging World Order](https://www.youtube.com/watch?v=OuNhMuEGk0M&amp;list=PLZWTT6rAMJAVttT3ynHoVupNjmw2NuS4W&amp;index=48)
+- [Use Cases Before Features](https://21-lessons.com/use-cases-before-features/)
+- [Google CEO Sundar Pichai Testifies House Judiciary Committee](https://www.youtube.com/watch?v=DXyU0LOqKPM)
+- [Spotify&#39;s Backdoor: How Podcasts Could Be the Platform&#39;s Downfall](https://hackernoon.com/spotifys-backdoor-how-podcasts-could-be-the-platforms-downfall)
+- [Ask HN: Is Innovation Slowing Down?](https://news.ycombinator.com/item?id=29468471)
+- [The Graphic Truth: Perceptions of Covid](https://www.gzeromedia.com/the-graphic-truth-perceptions-of-covid)
+- [Herbert Simon: September 9, 1979: Complete Talk](https://www.youtube.com/watch?v=p5c9ns0oeZg)
+- [Deploying Nvidia&#39;s Triton Inference Server with MinIO as the Model Store](https://thenewstack.io/deploy-nvidia-triton-inference-server-with-minio-as-model-store/)
+- [Emails show what happened before Missouri gov. called journalist a “hacker”](https://arstechnica.com/tech-policy/2021/12/missouri-planned-to-thank-security-journalist-before-governor-called-him-a-hacker/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

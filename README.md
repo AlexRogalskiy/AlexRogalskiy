@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [A Computer Weekly buyer’s guide to post-Covid supply chain management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-post-Covid-supply-chain-management)
-- [Almost three-quarters of digital talent planning job change](https://www.computerweekly.com/news/252510438/Almost-three-quarters-of-digital-talent-planning-job-change)
-- [IR35: Government consultation on umbrella companies fuels regulation hopes](https://www.computerweekly.com/news/252510435/IR35-Government-consultation-on-umbrella-companies-fuels-regulation-hopes)
-- [Virgin Money adapts offices to fit flexible and collaborative working](https://www.computerweekly.com/news/252510436/Virgin-Money-adapts-property-portfolio-to-fit-flexible-and-collaborative-working)
-- [Bank of Ireland fined €24.5m for business continuity failures](https://www.computerweekly.com/news/252510425/Bank-of-Ireland-fined-245m-for-business-continuity-failures)
-- [Serious violence duty in PCSC Bill would gut UK data rights](https://www.computerweekly.com/news/252510271/Serious-violence-duty-in-PCSC-Bill-would-gut-UK-data-rights)
-- [UK government publishes tech-enabled adult social care plan](https://www.computerweekly.com/news/252510374/UK-government-publishes-tech-enabled-adult-social-care-plan)
-- [United Airlines draws from AWS and diverse tech team to overcome Covid-19 business challenges](https://www.computerweekly.com/news/252510362/United-Airlines-draws-from-AWS-and-diverse-tech-team-setup-to-overcome-Covid-19-business-challenges)
-- [Pandora Papers: How journalists mined terabytes of offshore data to expose the world’s elites](https://www.computerweekly.com/news/252510313/Pandora-Papers-How-journalists-mined-terabytes-of-offshore-data-to-expose-the-worlds-elites)
-- [Millions of credit card details for sale on dark web for as little as 75p](https://www.computerweekly.com/news/252510368/Millions-of-credit-card-details-for-sale-on-dark-web-for-a-few-pounds-each)
+- [Women in tech lack training opportunities, says Skillsoft](https://www.computerweekly.com/news/252510521/Women-in-tech-lack-training-opportunities-says-Skillsoft)
+- [Parents more equipped for home learning than teachers](https://www.computerweekly.com/news/252510514/Parents-more-equipped-for-home-learning-than-teachers)
+- [IT Priorities 2022: Pandemic’s long tail for cyber buyers](https://www.computerweekly.com/news/252510505/IT-Priorities-2022-Pandemics-long-tail-for-cyber-buyers)
+- [European finance firms increase open banking spend](https://www.computerweekly.com/news/252510511/Finance-firms-increase-open-banking-spend)
+- [Consumers say supermarkets among best at social engagement](https://www.computerweekly.com/news/252510499/Consumers-say-supermarkets-among-best-at-social-engagement)
+- [Surge in Nobelium-linked supply chain attacks](https://www.computerweekly.com/news/252510495/Surge-in-Nobelium-linked-supply-chain-attacks)
+- [Winter plan for health and social care gets £250m tech boost](https://www.computerweekly.com/news/252510501/Winter-plan-for-health-and-social-care-gets-250m-tech-boost)
+- [Gartner: Four ways women can drive a more inclusive workplace](https://www.computerweekly.com/opinion/Gartner-Four-ways-women-can-drive-a-more-inclusive-workplace)
+- [IT priorities 2022: UK IT leaders show preference for cloud-first strategies](https://www.computerweekly.com/news/252510441/IT-priorities-2022-UK-IT-leaders-show-preference-for-cloud-first-strategies)
+- [Cyber attacks and severe space weather among extreme risks faced by UK](https://www.computerweekly.com/news/252510449/Cyber-attacks-and-severe-space-weather-among-extreme-risks-faced-by-UK)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

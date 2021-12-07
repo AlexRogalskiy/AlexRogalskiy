@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542)
-- [LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism](https://dl.acm.org/doi/10.1145/3477132.3483565)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29455025)
-- [WhatsApp has removed answer to “how do I choose not to share data with FB”](https://faq.whatsapp.com/general/26000016)
-- [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
-- [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
-- [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
-- [All Placebos are not created equal](https://atis.substack.com/p/all-placebos-are-not-created-equal)
-- [Crohn’s Disease: Is the Cold Chain Hypothesis Still Hot?](https://academic.oup.com/ecco-jcc/article/15/4/678/5908865)
-- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
+- [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
+- [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql)
+- [Elegant PCB Business Card Made with Inkscape, KiCad and Svg2Shenzen](https://github.com/Hanqaqa/PCB_Business_Card)
+- [Making Something Social Destroys the Truth of It](https://nav.al/social)
+- [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
+- [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- [CT scans of AirPods evolution](https://scanofthemonth.com/)
+- [Global Sequencer](https://globalsequencer.com/)
+- [Show HN: t2md – convert Trello to markdown folders on disk, fast](https://github.com/GSGBen/t2md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

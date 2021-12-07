@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Omicron found in one-third of US states but early reports on severity are ‘encouraging’, Fauci says](https://www.theguardian.com/world/live/2021/dec/06/covid-news-live-omicron-found-in-one-third-of-us-states-germany-plans-vaccine-mandates-for-some-health-jobs)
-- [Mountaineer given jewels he found on French glacier 50 years after plane crash](https://www.theguardian.com/world/2021/dec/06/mountaineer-given-jewels-he-found-on-french-glacier-50-years-after-plane-crash)
-- [Gambian opposition parties reject election results](https://www.theguardian.com/world/2021/dec/05/gambian-opposition-parties-reject-preliminary-election-results)
-- [‘Ferocious’ Niger battle leaves dozens of soldiers and militants dead](https://www.theguardian.com/world/2021/dec/06/ferocious-niger-battle-leaves-dozens-of-soldiers-and-militants-dead)
-- [Three in four girls have been sent sexual images via apps, report finds](https://www.theguardian.com/media/2021/dec/06/three-in-four-girls-have-been-sent-sexual-images-via-apps-report-finds)
-- [CBI revises next year’s economic growth forecast down to 5.1%](https://www.theguardian.com/business/2021/dec/06/cbi-revises-next-years-economic-growth-forecast-down-to-51)
-- [Female Royal Navy staff back calls for rape cases to be tried in civilian courts](https://www.theguardian.com/uk-news/2021/dec/06/female-royal-navy-staff-back-calls-for-cases-to-be-tried-in-civilian-courts)
-- [Covid not over and next pandemic could be more lethal, says Oxford jab creator](https://www.theguardian.com/world/2021/dec/06/covid-not-over-next-pandemic-could-be-more-lethal-oxford-jab-creator)
-- [Middle-class drug users could lose UK passports under Boris Johnson’s plans](https://www.theguardian.com/society/2021/dec/06/middle-class-drug-users-could-lose-uk-passports-under-boris-johnsons-plans)
-- [Tesco could face empty shelves over pay dispute, Unite union says](https://www.theguardian.com/business/2021/dec/06/tesco-could-face-empty-shelves-over-pay-deal-dispute-unite-union-warns)
+- [Covid news live: Omicron likely to become dominant variant, Harvard researcher says; France to close nightclubs](https://www.theguardian.com/world/live/2021/dec/07/covid-news-live-omicron-likely-to-become-dominant-variant-harvard-researcher-says-france-to-close-nightclubs)
+- [‘We suffered for 66 years’: US ends latest Emmett Till murder investigation without charges](https://www.theguardian.com/world/2021/dec/06/we-suffered-for-66-years-us-ends-latest-emmett-till-investigation-without-charges)
+- [Nick Cave gave me the chance to hear my dad’s voice one last time | Nick Buckley](https://www.theguardian.com/music/2021/dec/07/nick-cave-gave-me-the-chance-to-hear-my-dads-voice-one-last-time)
+- [California officials determine cause of city’s ‘stench of death’](https://www.theguardian.com/us-news/2021/dec/06/carson-california-smell-of-death)
+- [Cabinet ministers mock Daily Telegraph for mistaken identity tweet](https://www.theguardian.com/media/2021/dec/07/cabinet-ministers-mock-daily-telegraph-for-mistaken-identity-tweet)
+- [David Tennant questions Tory focus on ‘Britishness’ of TV shows](https://www.theguardian.com/media/2021/dec/07/david-tennant-questions-tory-focus-on-britishness-of-tv-shows)
+- [Whistleblower condemns Foreign Office over Kabul evacuation](https://www.theguardian.com/uk-news/2021/dec/07/whistleblower-condemns-foreign-office-over-kabul-evacuation)
+- [Party drug users are fuelling serious crime, says Sajid Javid](https://www.theguardian.com/politics/2021/dec/06/party-drug-users-are-fuelling-serious-says-sajid-javid)
+- [Moderna or Novavax after AstraZeneca jab confers high Covid immunity, study finds](https://www.theguardian.com/society/2021/dec/06/moderna-or-novavax-after-astrazeneca-jab-confers-high-covid-immunity-study-finds)
+- [Second accuser says Ghislaine Maxwell asked her to find young women for Epstein](https://www.theguardian.com/us-news/2021/dec/06/ghislaine-maxwell-sex-trafficking-trial-second-week)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

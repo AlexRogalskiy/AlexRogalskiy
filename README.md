@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How CentOS changes the cloud Linux game](https://www.infoworld.com/article/3643708/how-centos-changes-the-cloud-linux-game.html#tk.rss_all)
+- [Review: Document parsing in AWS, Azure, and Google Cloud](https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html#tk.rss_all)
+- [A cure for complexity in software development](https://www.infoworld.com/article/3642835/a-cure-for-complexity-in-software-development.html#tk.rss_all)
 - [Top developer takeaways from AWS re:Invent 2021](https://www.infoworld.com/article/3643649/top-developer-takeaways-from-aws-reinvent-2021.html#tk.rss_all)
 - [AWS updates databases, AI and serverless offerings at re:Invent](https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html#tk.rss_all)
 - [JetBrains launches cross-platform UI framework for Kotlin](https://www.infoworld.com/article/3643392/jetbrains-launches-cross-platform-ui-framework-for-kotlin.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [AWS brings no-code to Amazon SageMaker machine learning](https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html#tk.rss_all)
 - [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-solidjs.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Red Hat plops Celonis EMS on AWS cloud](https://www.infoworld.com/article/3643291/red-hat-plops-celonis-ems-on-aws-cloud.html#tk.rss_all)
-- [Using WiX to build Windows installers](https://www.infoworld.com/article/3642378/using-wix-to-build-windows-installers.html#tk.rss_all)
-- [AWS kicks off re:Invent with compute, networking, and data launches](https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

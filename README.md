@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cloudflare announces new firewall capabilities and the Oahu migration tool](https://www.itworldcanada.com/article/cloudflare-announces-new-firewall-capabilities-and-the-oahu-migration-tool/467628)
+- [‘Cyber hygiene isn’t part of our day to day activities, yet,’ says Canadian cyber security chief](https://www.itworldcanada.com/article/cyber-hygiene-isnt-part-of-our-day-to-day-activities-yet-says-canadian-cybersecurity-chief/467593)
+- [Six things financial institutions should know about moving to the cloud](https://www.itworldcanada.com/article/six-things-financial-institutions-should-know-about-moving-to-the-cloud-2/467563)
+- [Ottawa releases Ransomware Playbook to help Canadian organizations fight attacks](https://www.itworldcanada.com/article/ottawa-releases-ransomware-playbook-to-help-canadian-organizations-fight-attacks/467512)
+- [Cyber Security Today, Dec. 6, 2021 – A scam aimed at verified Twitter users, a ransomware warning from the FBI, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-6-2021-a-scam-aimed-at-verified-twitter-users-a-ransomware-warning-from-the-fbi-and-more/467499)
+- [Hashtag Trending Dec. 6 – Easy default browser change; hack receipt printers for antiwork; Apple cuts iPhone 13 production goal](https://www.itworldcanada.com/article/hashtag-trending-dec-6-easy-default-browser-change-hack-receipt-printers-for-antiwork-apple-cuts-iphone-13-production-goal/467503)
 - [Cyber Security Today, Week in Review for Dec. 3, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-dec-3-2021/467339)
 - [Being curious pays and employers are taking note, finds SAS report](https://www.itworldcanada.com/article/being-curious-pays-and-employers-are-taking-note-finds-sas-report/467453)
 - [Accenture extends its partnership with AWS to help businesses digitally transform](https://www.itworldcanada.com/article/accenture-extends-its-partnership-with-aws-to-help-businesses-digitally-transform/467354)
 - [Governor General of Canada’s IT network hacked](https://www.itworldcanada.com/article/governor-general-of-canadas-it-network-hacked/467400)
-- [Cyber Security Today, Dec. 3, 2021 – A holiday ransomware warning, ManageEngine patches needed, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-3-2021-a-holiday-ransomware-warning-manageengine-patches-needed-and-more/467335)
-- [Hashtag Trending Dec. 3 – Bring back YouTube dislikes; Deplatforming bill blocked in Texas; war on disinformation](https://www.itworldcanada.com/article/hashtag-trending-dec-3-bring-back-youtube-dislikes-deplatforming-bill-blocked-in-texas-war-on-disinformation/467333)
-- [Canada invests $3.2 million into silicon photonics company](https://www.itworldcanada.com/article/canada-invests-3-2-million-into-silicon-photonics-company/467326)
-- [Ontario family agency hit by ransomware, says no data was stolen](https://www.itworldcanada.com/article/ontario-family-agency-hit-by-ransomware-says-no-data-was-stolen/467297)
-- [AWS launches program to identify partners working to transition to a lower carbon world](https://www.itworldcanada.com/article/aws-launches-program-to-identify-partners-working-to-transition-to-a-lower-carbon-world/467267)
-- [Hashtag Trending Dec. 2 – Amazon underreported COVID cases; Microsoft’s BNPL faces poor feedback; Google employee lawsuit](https://www.itworldcanada.com/article/hashtag-trending-dec-2-amazon-underreported-covid-cases-microsofts-bnpl-faces-poor-feedback-google-employee-lawsuit/467225)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

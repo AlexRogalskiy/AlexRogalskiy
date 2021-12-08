@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Open-source mail delivery platform for incoming and outgoing email](https://github.com/postalserver/postal)
-- [Great Power Competition: The Emerging World Order](https://www.youtube.com/watch?v=OuNhMuEGk0M&amp;list=PLZWTT6rAMJAVttT3ynHoVupNjmw2NuS4W&amp;index=48)
-- [Use Cases Before Features](https://21-lessons.com/use-cases-before-features/)
-- [Google CEO Sundar Pichai Testifies House Judiciary Committee](https://www.youtube.com/watch?v=DXyU0LOqKPM)
-- [Spotify&#39;s Backdoor: How Podcasts Could Be the Platform&#39;s Downfall](https://hackernoon.com/spotifys-backdoor-how-podcasts-could-be-the-platforms-downfall)
-- [Ask HN: Is Innovation Slowing Down?](https://news.ycombinator.com/item?id=29468471)
-- [The Graphic Truth: Perceptions of Covid](https://www.gzeromedia.com/the-graphic-truth-perceptions-of-covid)
-- [Herbert Simon: September 9, 1979: Complete Talk](https://www.youtube.com/watch?v=p5c9ns0oeZg)
-- [Deploying Nvidia&#39;s Triton Inference Server with MinIO as the Model Store](https://thenewstack.io/deploy-nvidia-triton-inference-server-with-minio-as-model-store/)
-- [Emails show what happened before Missouri gov. called journalist a “hacker”](https://arstechnica.com/tech-policy/2021/12/missouri-planned-to-thank-security-journalist-before-governor-called-him-a-hacker/)
+- [Use machine learning to make anything. Yes. Anything](https://www.youtube.com/watch?v=ojPfWlD8E3M)
+- [How the Supply Chain Crisis Unfolded](https://www.nytimes.com/interactive/2021/12/05/business/economy/supply-chain.html)
+- [Federated Learning](https://github.com/poga/awesome-federated-learning)
+- [Psychedelics Alter Metaphysical Beliefs](https://www.nature.com/articles/s41598-021-01209-2)
+- [Has Google Dropped the Pixel Fold?](https://www.displaysupplychain.com/blog/has-google-dropped-the-pixel-fold)
+- [How Can Something Be Racist but Not Racist at the Same Time?](https://www.nytimes.com/2021/12/07/opinion/racism-america-complex-confusion.html)
+- [Mitto AG’s network used to track people via mobile phones, former employees say](https://www.thebureauinvestigates.com/stories/2021-12-06/swiss-tech-company-boss-accused-of-selling-mobile-network-access-for-spying)
+- [Australia joins diplomatic boycott of Beijing Winter Olympics](https://www.abc.net.au/news/2021-12-08/australia-joins-diplomatic-boycott-of-beijing-winter-olympics/100678660)
+- [The State of External Retina Displays, [Almost] 2022 Edition](https://www.caseyliss.com/2021/12/7/monitor-liss)
+- [Arch Packages You Might Want to Install](https://www.schoenitzer.de/blog/2021/Arch%20Packages.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

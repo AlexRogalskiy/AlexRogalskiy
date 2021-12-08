@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian, U.S. police investigation leads to Ottawa man facing cyber charges](https://www.itworldcanada.com/article/canadian-u-s-police-investigation-leads-to-ottawa-man-facing-cyber-charges/467688)
+- [AWS experiencing widespread outage](https://www.itworldcanada.com/article/aws-experiencing-widespread-outage/467676)
+- [How GTA municipalities are empowering the next generation digital citizen](https://www.itworldcanada.com/article/how-gta-municipalities-are-empowering-the-next-generation-digital-citizen/467602)
+- [Coffee Briefing, Dec. 6, 2021 – New Cloudflare R2 storage capabilities; CompTIA updates Linux+ exam; and more](https://www.itworldcanada.com/article/coffee-briefing-dec-6-2021-new-cloudflare-r2-storage-capabilities-comptia-updates-linux-exam-and-more/467647)
+- [Almost 20 per cent of employees failed latest Gone Phishing Tournament test](https://www.itworldcanada.com/article/almost-20-per-cent-of-employees-failed-latest-gone-phishing-tournament-test/467650)
+- [How to defend an air-gapped network](https://www.itworldcanada.com/article/how-to-defend-an-air-gapped-network/467507)
+- [IBM and Telus partner on 5G edge compute solutions](https://www.itworldcanada.com/article/ibm-and-telus-partner-on-5g-edge-compute-solutions/467635)
+- [Hashtag Trending Dec. 7 – Amazon’s shipping containers; Verizon data collection; YouTube’s copyright report](https://www.itworldcanada.com/article/hashtag-trending-dec-7-amazons-shipping-containers-verizon-data-collection-youtubes-copyright-report/467643)
 - [Cloudflare announces new firewall capabilities and the Oahu migration tool](https://www.itworldcanada.com/article/cloudflare-announces-new-firewall-capabilities-and-the-oahu-migration-tool/467628)
 - [‘Cyber hygiene isn’t part of our day to day activities, yet,’ says Canadian cyber security chief](https://www.itworldcanada.com/article/cyber-hygiene-isnt-part-of-our-day-to-day-activities-yet-says-canadian-cybersecurity-chief/467593)
-- [Six things financial institutions should know about moving to the cloud](https://www.itworldcanada.com/article/six-things-financial-institutions-should-know-about-moving-to-the-cloud-2/467563)
-- [Ottawa releases Ransomware Playbook to help Canadian organizations fight attacks](https://www.itworldcanada.com/article/ottawa-releases-ransomware-playbook-to-help-canadian-organizations-fight-attacks/467512)
-- [Cyber Security Today, Dec. 6, 2021 – A scam aimed at verified Twitter users, a ransomware warning from the FBI, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-6-2021-a-scam-aimed-at-verified-twitter-users-a-ransomware-warning-from-the-fbi-and-more/467499)
-- [Hashtag Trending Dec. 6 – Easy default browser change; hack receipt printers for antiwork; Apple cuts iPhone 13 production goal](https://www.itworldcanada.com/article/hashtag-trending-dec-6-easy-default-browser-change-hack-receipt-printers-for-antiwork-apple-cuts-iphone-13-production-goal/467503)
-- [Cyber Security Today, Week in Review for Dec. 3, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-dec-3-2021/467339)
-- [Being curious pays and employers are taking note, finds SAS report](https://www.itworldcanada.com/article/being-curious-pays-and-employers-are-taking-note-finds-sas-report/467453)
-- [Accenture extends its partnership with AWS to help businesses digitally transform](https://www.itworldcanada.com/article/accenture-extends-its-partnership-with-aws-to-help-businesses-digitally-transform/467354)
-- [Governor General of Canada’s IT network hacked](https://www.itworldcanada.com/article/governor-general-of-canadas-it-network-hacked/467400)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
-- [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
-- [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql)
-- [Elegant PCB Business Card Made with Inkscape, KiCad and Svg2Shenzen](https://github.com/Hanqaqa/PCB_Business_Card)
-- [Making Something Social Destroys the Truth of It](https://nav.al/social)
-- [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
-- [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
-- [CT scans of AirPods evolution](https://scanofthemonth.com/)
-- [Global Sequencer](https://globalsequencer.com/)
-- [Show HN: t2md – convert Trello to markdown folders on disk, fast](https://github.com/GSGBen/t2md)
+- [An Open Letter to Mr. Mark Zuckerberg: A Call to Act on Mental Health Science](https://www.oii.ox.ac.uk/an-open-letter-to-mark-zuckerberg/)
+- [The RNA World Hypothesis](https://www.ncbi.nlm.nih.gov/books/NBK26876/)
+- [Amazon packages pile up after AWS outage spawns delivery havoc](https://www.detroitnews.com/story/business/2021/12/07/amazon-aws-cloud-users-report-issues-accessing-websites/6419088001/)
+- [A method for indoor cultivation of black morel mushrooms is finally developed](https://thedanishmorelproject.com/)
+- [Kubernetes 1.23 Released](https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/)
+- [Devcycle.com – Feature Management and Experimentation – is hiring full-stack devs](https://devcycle.com/company/careers)
+- [Show HN: P2P remote desktop – an alternative to TeamViewer / AnyDesk](https://github.com/miroslavpejic85/p2p)
+- [Show HN: git-history, for analyzing scraped data collected using Git and SQLite](https://simonwillison.net/2021/Dec/7/git-history/)
+- [Open Dynamic Robot Initiative &lpar;2020&rpar;](https://open-dynamic-robot-initiative.github.io/)
+- [You Can&#39;t Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [A look at Microsoft&#39;s patches and fixes in 2021 — the year of change](https://www.computerworld.com/article/3643411/a-look-at-microsofts-patches-and-fixes-in-2021-the-year-of-change.html#tk.rss_all)
+- [Eve Systems CEO: Matter standard is a &#39;foundational&#39; tech](https://www.computerworld.com/article/3643672/eve-systems-ceo-matter-standard-is-a-foundational-tech.html#tk.rss_all)
+- [Omicron: Here we go again](https://www.computerworld.com/article/3643334/omicron-here-we-go-again.html#tk.rss_all)
+- [New Goldman Sachs-AWS data service points to a larger banking trend](https://www.computerworld.com/article/3643631/new-goldman-sachs-aws-data-service-points-to-a-larger-banking-trend.html#tk.rss_all)
 - [Why Apple may be planning life after Arm](https://www.computerworld.com/article/3643577/why-apple-may-be-planning-life-after-arm.html#tk.rss_all)
 - [Technology is to blame for the ‘Great Resignation’](https://www.computerworld.com/article/3643335/technology-is-to-blame-for-the-great-resignation.html#tk.rss_all)
 - [We’re thinking about metaverse collaboration the wrong way](https://www.computerworld.com/article/3643573/were-thinking-about-metaverse-collaboration-the-wrong-way.html#tk.rss_all)
 - [Apple, accessibility, and Project Titan](https://www.computerworld.com/article/3643628/apple-accessibility-and-project-titan.html#tk.rss_all)
 - [Microsoft may soon let Windows 11 users bypass Edge as the default browser](https://www.computerworld.com/article/3643338/microsoft-may-soon-let-windows-11-users-bypass-edge-as-the-default-browser.html#tk.rss_all)
 - [Despise passwords? Some good news and bad news](https://www.computerworld.com/article/3643571/despise-passwords-some-good-news-and-bad-news.html#tk.rss_all)
-- [Podcast: What Apple&#39;s lawsuit against NSO Group means for digital rights](https://www.computerworld.com/article/3643336/podcast-what-apples-lawsuit-against-nso-group-means-for-digital-rights.html#tk.rss_all)
-- [How to use FileVault to protect business data on Macs](https://www.computerworld.com/article/3643332/how-to-use-filevault-to-protect-business-data-on-macs.html#tk.rss_all)
-- [Windows 11 adoption nears 9%, but businesses are waiting](https://www.computerworld.com/article/3643074/windows-11-adoption-nears-9-but-businesses-are-waiting.html#tk.rss_all)
-- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

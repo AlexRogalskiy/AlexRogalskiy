@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Omicron likely to become dominant variant, Harvard researcher says; France to close nightclubs](https://www.theguardian.com/world/live/2021/dec/07/covid-news-live-omicron-likely-to-become-dominant-variant-harvard-researcher-says-france-to-close-nightclubs)
-- [‘We suffered for 66 years’: US ends latest Emmett Till murder investigation without charges](https://www.theguardian.com/world/2021/dec/06/we-suffered-for-66-years-us-ends-latest-emmett-till-investigation-without-charges)
-- [Nick Cave gave me the chance to hear my dad’s voice one last time | Nick Buckley](https://www.theguardian.com/music/2021/dec/07/nick-cave-gave-me-the-chance-to-hear-my-dads-voice-one-last-time)
-- [California officials determine cause of city’s ‘stench of death’](https://www.theguardian.com/us-news/2021/dec/06/carson-california-smell-of-death)
-- [Cabinet ministers mock Daily Telegraph for mistaken identity tweet](https://www.theguardian.com/media/2021/dec/07/cabinet-ministers-mock-daily-telegraph-for-mistaken-identity-tweet)
-- [David Tennant questions Tory focus on ‘Britishness’ of TV shows](https://www.theguardian.com/media/2021/dec/07/david-tennant-questions-tory-focus-on-britishness-of-tv-shows)
-- [Whistleblower condemns Foreign Office over Kabul evacuation](https://www.theguardian.com/uk-news/2021/dec/07/whistleblower-condemns-foreign-office-over-kabul-evacuation)
-- [Party drug users are fuelling serious crime, says Sajid Javid](https://www.theguardian.com/politics/2021/dec/06/party-drug-users-are-fuelling-serious-says-sajid-javid)
-- [Moderna or Novavax after AstraZeneca jab confers high Covid immunity, study finds](https://www.theguardian.com/society/2021/dec/06/moderna-or-novavax-after-astrazeneca-jab-confers-high-covid-immunity-study-finds)
-- [Second accuser says Ghislaine Maxwell asked her to find young women for Epstein](https://www.theguardian.com/us-news/2021/dec/06/ghislaine-maxwell-sex-trafficking-trial-second-week)
+- [Ashes 2021-22: Australia v England first Test, day one – live!](https://www.theguardian.com/sport/live/2021/dec/08/ashes-2021-22-australia-v-england-first-test-day-one-live-cricket-score-updates)
+- [Covid live news: South Korea surge sparks hospital alarm; ‘stealth’ Omicron variant found](https://www.theguardian.com/world/live/2021/dec/08/covid-live-news-south-korea-surge-sparks-hospital-alarm-stealth-omicron-variant-found)
+- [Indonesia president vows to rebuild after volcano eruption as death toll rises to 34](https://www.theguardian.com/world/2021/dec/08/indonesia-president-vows-to-rebuild-after-volcano-eruption-as-death-toll-rises-to-34)
+- [Don’t Look Up review – slapstick apocalypse according to DiCaprio and Lawrence](https://www.theguardian.com/film/2021/dec/08/dont-look-up-review-slapstick-apocalypse-according-to-dicaprio-and-lawrence)
+- [UK races to deliver booster jabs before Omicron takes hold](https://www.theguardian.com/world/2021/dec/08/uk-races-to-deliver-booster-jabs-before-omicron-takes-hold)
+- [UK’s anti-money laundering measures need complete reset, says report](https://www.theguardian.com/law/2021/dec/08/uks-anti-money-laundering-measures-need-complete-reset-says-report)
+- [The Book of Dust: La Belle Sauvage review – a theatrical marvel](https://www.theguardian.com/stage/2021/dec/08/the-book-of-dust-la-belle-sauvage-review-philip-pullman-nicholas-hytner)
+- [Multinational running England’s catch-up tuition 90% below enrolment target](https://www.theguardian.com/education/2021/dec/07/randstad-england-pupil-catch-up-tuition-scheme-targets)
+- [Australia joins Beijing Winter Olympics diplomatic boycott over China’s human rights abuses](https://www.theguardian.com/australia-news/2021/dec/08/australia-joins-beijing-winter-olympics-diplomatic-boycott-over-chinas-human-rights-abuses)
+- [PM accused of lying after No 10 officials caught joking about Christmas party](https://www.theguardian.com/politics/2021/dec/07/leaked-video-shows-no-10-officials-joking-about-holding-christmas-party)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

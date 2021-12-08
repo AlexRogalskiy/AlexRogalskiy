@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Women in tech lack training opportunities, says Skillsoft](https://www.computerweekly.com/news/252510521/Women-in-tech-lack-training-opportunities-says-Skillsoft)
-- [Parents more equipped for home learning than teachers](https://www.computerweekly.com/news/252510514/Parents-more-equipped-for-home-learning-than-teachers)
-- [IT Priorities 2022: Pandemic’s long tail for cyber buyers](https://www.computerweekly.com/news/252510505/IT-Priorities-2022-Pandemics-long-tail-for-cyber-buyers)
-- [European finance firms increase open banking spend](https://www.computerweekly.com/news/252510511/Finance-firms-increase-open-banking-spend)
-- [Consumers say supermarkets among best at social engagement](https://www.computerweekly.com/news/252510499/Consumers-say-supermarkets-among-best-at-social-engagement)
-- [Surge in Nobelium-linked supply chain attacks](https://www.computerweekly.com/news/252510495/Surge-in-Nobelium-linked-supply-chain-attacks)
-- [Winter plan for health and social care gets £250m tech boost](https://www.computerweekly.com/news/252510501/Winter-plan-for-health-and-social-care-gets-250m-tech-boost)
-- [Gartner: Four ways women can drive a more inclusive workplace](https://www.computerweekly.com/opinion/Gartner-Four-ways-women-can-drive-a-more-inclusive-workplace)
-- [IT priorities 2022: UK IT leaders show preference for cloud-first strategies](https://www.computerweekly.com/news/252510441/IT-priorities-2022-UK-IT-leaders-show-preference-for-cloud-first-strategies)
-- [Cyber attacks and severe space weather among extreme risks faced by UK](https://www.computerweekly.com/news/252510449/Cyber-attacks-and-severe-space-weather-among-extreme-risks-faced-by-UK)
+- [Ready for Oracle E-Business Release 12.2 by new year 2022?](https://www.computerweekly.com/opinion/Ready-for-Oracle-E-Business-Release-122-by-New-Year-2022)
+- [Loan charge: MPs call on financial secretary for new independent review into HMRC policy](https://www.computerweekly.com/news/252510593/Loan-Charge-MPs-call-on-Treasury-Secretary-for-new-independent-review-into-HMRC-policy)
+- [UK technology issues contributed to Afghanistan withdrawal chaos](https://www.computerweekly.com/news/252510583/UK-technology-issues-contributed-to-Afghanistan-withdrawal-chaos)
+- [IT Priorities 2022: ERP gets back on the horse](https://www.computerweekly.com/news/252510569/IT-Priorities-2022-ERP-gets-back-on-the-horse)
+- [Zopa to focus on banking after closing peer-to-peer lending](https://www.computerweekly.com/news/252510580/Zopa-to-focus-on-banking-after-closing-peer-to-peer-lending)
+- [Labour reshuffle expands shadow ministerial team on digital, technology and innovation policy](https://www.computerweekly.com/news/252510579/Labour-reshuffle-expands-shadow-ministerial-team-on-digital-technology-and-innovation-policy)
+- [More than 65% of IT business leaders say pandemic was good for D&amp;I](https://www.computerweekly.com/news/252510578/More-than-65-of-IT-business-leaders-say-pandemic-was-good-for-DI)
+- [Government makes £116m pledge to help UK&#39;s green-tech firms innovate to fight climate change](https://www.computerweekly.com/news/252510572/Government-makes-116m-pledge-to-help-UKs-green-tech-firms-innovate-to-fight-climate-change)
+- [Investigation mounted into Spar supermarket cyber attack](https://www.computerweekly.com/news/252510577/Investigation-mounted-into-Spar-supermarket-cyber-attack)
+- [Former TSB CEO joins money-sharing fintech](https://www.computerweekly.com/news/252510573/Former-TSB-CEO-joins-money-sharing-fintech)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

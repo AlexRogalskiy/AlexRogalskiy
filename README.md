@@ -361,16 +361,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AWS CTO Vogels on Cloud Eliminating Constraints on Innovation](https://www.informationweek.com/cloud/aws-cto-vogels-on-cloud-eliminating-constraints-on-innovation)
+- [Get Moving: 3G Sunsetting Deadline is Rapidly Approaching](https://www.informationweek.com/mobile/get-moving-3g-sunsetting-deadline-is-rapidly-approaching)
+- [7 Tech Trends that will Change the Fintech Industry in 2022](https://www.informationweek.com/fintech/7-tech-trends-that-will-change-the-fintech-industry-in-2022)
+- [Can CIOs Become CEOs?](https://www.informationweek.com/strategic-cio/can-cios-become-ceos-)
 - [Ex-Googler&#39;s Ethical AI Startup Models More Inclusive Approach](https://www.informationweek.com/big-data/ex-googler-s-ethical-ai-startup-models-more-inclusive-approach)
 - [Future-Proofing Software Delivery with Value Stream Management](https://www.informationweek.com/software/future-proofing-software-delivery-with-value-stream-management)
 - [How to Choose Which RPA/Intelligent Automation Platform Is Right for You](https://www.informationweek.com/big-data/how-to-choose-which-rpa-intelligent-automation-platform-is-right-for-you)
 - [3 Steps To Take When Implementing Cloud-to-Edge Service Models](https://www.informationweek.com/cloud/3-steps-to-take-when-implementing-cloud-to-edge-service-models)
 - [Optimizing Your Cybersecurity Budget](https://www.informationweek.com/security-and-risk-strategy/optimizing-your-cybersecurity-budget)
-- [7 Tech Trends that will Change the Fintech Industry in 2022](https://www.informationweek.com/fintech/7-tech-trends-that-will-change-the-fintech-industry-in-2022)
 - [How are Organizations Doing with Cloud?](https://www.informationweek.com/cloud/how-are-organizations-doing-with-cloud-)
-- [Salesforce-Slack Drive Continues with New Co-CEO Taylor](https://www.informationweek.com/cloud/salesforce-slack-drive-continues-with-new-co-ceo-taylor)
-- [Nasdaq CEO at AWS re:Invent Talks Cloud’s Impact on FinTech](https://www.informationweek.com/cloud/nasdaq-ceo-at-aws-re-invent-talks-cloud-s-impact-on-fintech)
-- [Answering Broadband Questions in the Infrastructure Investment Bill](https://www.informationweek.com/it-life/answering-broadband-questions-in-the-infrastructure-investment-bill)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

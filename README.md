@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What does an average day look like for an entry level IT position using Active Directory?](https://www.reddit.com/r/InformationTechnology/comments/rbdm3e/what_does_an_average_day_look_like_for_an_entry/)
+- [Help](https://www.reddit.com/r/InformationTechnology/comments/rb6l8r/help/)
+- [Microsoft Azure, Google Cloud, or Amazon Web Services?](https://www.reddit.com/r/InformationTechnology/comments/rb2ng7/microsoft_azure_google_cloud_or_amazon_web/)
+- [Systems Administrator, Network Engineer, Security Engineer. Which of these three paths would you choose &lpar;or avoid&rpar;? And why?](https://www.reddit.com/r/InformationTechnology/comments/rb2n83/systems_administrator_network_engineer_security/)
+- [DevJam Diaries #2 Rory Preddy about new Java features on Azure | Microsoft](https://www.reddit.com/r/InformationTechnology/comments/raw2p9/devjam_diaries_2_rory_preddy_about_new_java/)
+- [What are some good tech certifications?](https://www.reddit.com/r/InformationTechnology/comments/raqx48/what_are_some_good_tech_certifications/)
 - [Is a double major in business and information technology worth it?](https://www.reddit.com/r/InformationTechnology/comments/rao4ed/is_a_double_major_in_business_and_information/)
 - [Resetting the BIOS to default fixed Adobe?](https://www.reddit.com/r/InformationTechnology/comments/ram0w9/resetting_the_bios_to_default_fixed_adobe/)
 - [Graphic card](https://www.reddit.com/r/InformationTechnology/comments/raimwf/graphic_card/)
 - [Career path in IT](https://www.reddit.com/r/InformationTechnology/comments/raf23h/career_path_in_it/)
-- [Best Network Monitoring Dashboard?](https://www.reddit.com/r/InformationTechnology/comments/rad2qw/best_network_monitoring_dashboard/)
-- [CompTIA A+ Exam Tips and Exam Process Explained](https://www.reddit.com/r/InformationTechnology/comments/r9mze6/comptia_a_exam_tips_and_exam_process_explained/)
-- [How to Figure Out What You Want to do in IT](https://www.reddit.com/r/InformationTechnology/comments/r8ibbc/how_to_figure_out_what_you_want_to_do_in_it/)
-- [Need some advice on how to do a side IT request for a coworker.](https://www.reddit.com/r/InformationTechnology/comments/r8aqjz/need_some_advice_on_how_to_do_a_side_it_request/)
-- [Work Computer Keeps Lowering its Volume if I have Headphones On and Pull the chord by moving](https://www.reddit.com/r/InformationTechnology/comments/r87fh1/work_computer_keeps_lowering_its_volume_if_i_have/)
-- [Are all businesses IT this all over the place?](https://www.reddit.com/r/InformationTechnology/comments/r85suc/are_all_businesses_it_this_all_over_the_place/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

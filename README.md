@@ -376,6 +376,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Rust 1.57](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Overcomplicated cloud solutions are making the skills shortage worse](https://www.infoworld.com/article/3643709/overcomplicated-cloud-solutions-are-making-the-skills-shortage-worse.html#tk.rss_all)
+- [Integrate security into CI/CD with the Trivy scanner](https://www.infoworld.com/article/3642288/integrate-security-into-cicd-with-the-trivy-scanner.html#tk.rss_all)
 - [How CentOS changes the cloud Linux game](https://www.infoworld.com/article/3643708/how-centos-changes-the-cloud-linux-game.html#tk.rss_all)
 - [Review: Document parsing in AWS, Azure, and Google Cloud](https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html#tk.rss_all)
 - [A cure for complexity in software development](https://www.infoworld.com/article/3642835/a-cure-for-complexity-in-software-development.html#tk.rss_all)
@@ -383,9 +386,6 @@
 - [AWS updates databases, AI and serverless offerings at re:Invent](https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html#tk.rss_all)
 - [JetBrains launches cross-platform UI framework for Kotlin](https://www.infoworld.com/article/3643392/jetbrains-launches-cross-platform-ui-framework-for-kotlin.html#tk.rss_all)
 - [Why the cloud computing hangover?](https://www.infoworld.com/article/3643293/why-the-cloud-computing-hangover.html#tk.rss_all)
-- [AWS brings no-code to Amazon SageMaker machine learning](https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html#tk.rss_all)
-- [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-solidjs.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: What users can expect from Apple in 2022](https://www.computerworld.com/article/3644148/podcast-what-users-can-expect-from-apple-in-2022.html#tk.rss_all)
+- [Q&amp;A: JLL exec sees no return to pre-COVID work routines, but a 4-day work week](https://www.computerworld.com/article/3643654/qa-jll-exec-sees-no-return-to-pre-covid-work-routines-but-a-4-day-work-week.html#tk.rss_all)
+- [BrandPost: 5 Reasons Small to Medium Businesses Are Investing in New Networks](https://www.computerworld.com/article/3643677/5-reasons-small-to-medium-businesses-are-investing-in-new-networks.html#tk.rss_all)
+- [Designer smartphone hacks will trickle down in 2022](https://www.computerworld.com/article/3643970/designer-smartphone-hacks-will-trickle-down-in-2022.html#tk.rss_all)
+- [Give your Chrome OS interface an instant upgrade](https://www.computerworld.com/article/3643578/chrome-os-interface-upgrade.html#tk.rss_all)
 - [A look at Microsoft&#39;s patches and fixes in 2021 — the year of change](https://www.computerworld.com/article/3643411/a-look-at-microsofts-patches-and-fixes-in-2021-the-year-of-change.html#tk.rss_all)
 - [Eve Systems CEO: Matter standard is a &#39;foundational&#39; tech](https://www.computerworld.com/article/3643672/eve-systems-ceo-matter-standard-is-a-foundational-tech.html#tk.rss_all)
 - [Omicron: Here we go again](https://www.computerworld.com/article/3643334/omicron-here-we-go-again.html#tk.rss_all)
 - [New Goldman Sachs-AWS data service points to a larger banking trend](https://www.computerworld.com/article/3643631/new-goldman-sachs-aws-data-service-points-to-a-larger-banking-trend.html#tk.rss_all)
 - [Why Apple may be planning life after Arm](https://www.computerworld.com/article/3643577/why-apple-may-be-planning-life-after-arm.html#tk.rss_all)
-- [Technology is to blame for the ‘Great Resignation’](https://www.computerworld.com/article/3643335/technology-is-to-blame-for-the-great-resignation.html#tk.rss_all)
-- [We’re thinking about metaverse collaboration the wrong way](https://www.computerworld.com/article/3643573/were-thinking-about-metaverse-collaboration-the-wrong-way.html#tk.rss_all)
-- [Apple, accessibility, and Project Titan](https://www.computerworld.com/article/3643628/apple-accessibility-and-project-titan.html#tk.rss_all)
-- [Microsoft may soon let Windows 11 users bypass Edge as the default browser](https://www.computerworld.com/article/3643338/microsoft-may-soon-let-windows-11-users-bypass-edge-as-the-default-browser.html#tk.rss_all)
-- [Despise passwords? Some good news and bad news](https://www.computerworld.com/article/3643571/despise-passwords-some-good-news-and-bad-news.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

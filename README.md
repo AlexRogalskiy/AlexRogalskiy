@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22: Australia v England first Test, day one – live!](https://www.theguardian.com/sport/live/2021/dec/08/ashes-2021-22-australia-v-england-first-test-day-one-live-cricket-score-updates)
-- [Covid live news: South Korea surge sparks hospital alarm; ‘stealth’ Omicron variant found](https://www.theguardian.com/world/live/2021/dec/08/covid-live-news-south-korea-surge-sparks-hospital-alarm-stealth-omicron-variant-found)
-- [Indonesia president vows to rebuild after volcano eruption as death toll rises to 34](https://www.theguardian.com/world/2021/dec/08/indonesia-president-vows-to-rebuild-after-volcano-eruption-as-death-toll-rises-to-34)
-- [Don’t Look Up review – slapstick apocalypse according to DiCaprio and Lawrence](https://www.theguardian.com/film/2021/dec/08/dont-look-up-review-slapstick-apocalypse-according-to-dicaprio-and-lawrence)
-- [UK races to deliver booster jabs before Omicron takes hold](https://www.theguardian.com/world/2021/dec/08/uk-races-to-deliver-booster-jabs-before-omicron-takes-hold)
-- [UK’s anti-money laundering measures need complete reset, says report](https://www.theguardian.com/law/2021/dec/08/uks-anti-money-laundering-measures-need-complete-reset-says-report)
-- [The Book of Dust: La Belle Sauvage review – a theatrical marvel](https://www.theguardian.com/stage/2021/dec/08/the-book-of-dust-la-belle-sauvage-review-philip-pullman-nicholas-hytner)
-- [Multinational running England’s catch-up tuition 90% below enrolment target](https://www.theguardian.com/education/2021/dec/07/randstad-england-pupil-catch-up-tuition-scheme-targets)
-- [Australia joins Beijing Winter Olympics diplomatic boycott over China’s human rights abuses](https://www.theguardian.com/australia-news/2021/dec/08/australia-joins-beijing-winter-olympics-diplomatic-boycott-over-chinas-human-rights-abuses)
-- [PM accused of lying after No 10 officials caught joking about Christmas party](https://www.theguardian.com/politics/2021/dec/07/leaked-video-shows-no-10-officials-joking-about-holding-christmas-party)
+- [Ashes 2021-22: Australia v England first Test, day two – live!](https://www.theguardian.com/sport/live/2021/dec/09/ashes-2021-22-day-2-two-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Woman’s body pulled from submerged car in dramatic recovery at Niagara Falls’ edge](https://www.theguardian.com/us-news/2021/dec/08/niagara-falls-woman-car-coast-guard)
+- [Covid news live: England moves to ‘plan B’; three Pfizer shots can ‘neutralise’ Omicron, lab tests show](https://www.theguardian.com/world/live/2021/dec/09/covid-news-live-england-moves-to-plan-b-three-pfizer-shots-can-neutralise-omicron-lab-tests-show)
+- [Spurs met with furious response from Rennes after calling off match due to Covid](https://www.theguardian.com/football/2021/dec/08/antonio-conte-scared-as-covid-outbreak-worsens-at-tottenham-rennes-brighton)
+- [The Guardian named news provider of the year and wins four other awards](https://www.theguardian.com/culture/2021/dec/09/the-guardian-named-news-provider-of-the-year-and-wins-three-other-awards)
+- [Ofgem has shown a lack of basic regulatory insight over energy crisis | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2021/dec/09/ofgem-has-shown-a-lack-of-basic-regulatory-insight-over-energy-crisis)
+- [UK urged to tax £3tn windfall from 20 years of soaring house prices](https://www.theguardian.com/money/2021/dec/09/uk-urged-to-tax-pound-3tn-windfall-20-years-soaring-house-prices-capital-gains-tax)
+- [Ofgem blamed for errors that led to energy firms collapsing](https://www.theguardian.com/business/2021/dec/09/ofgem-blamed-for-errors-that-led-to-energy-firms-collapsing)
+- [Robbie Shakespeare, of Sly and Robbie fame, dies at age 68](https://www.theguardian.com/music/2021/dec/08/robbie-shakespeare-sly-and-robbie-dies)
+- [New Zealand to ban smoking for next generation in bid to outlaw habit by 2025](https://www.theguardian.com/world/2021/dec/09/new-zealand-to-ban-smoking-for-next-generation-in-bid-to-outlaw-habit-by-2025)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

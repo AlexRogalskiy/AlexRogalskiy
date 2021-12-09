@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [2021 another record-breaker for vulnerability disclosure](https://www.computerweekly.com/news/252510662/2021-another-record-breaker-for-vulnerability-disclosure)
+- [Institute of Coding adds 1,500 grads to UK’s tech talent pool](https://www.computerweekly.com/news/252510667/Institute-of-Coding-adds-1500-grads-to-UKs-tech-talent-pool)
+- [Russia may be collaborating with US to bring cyber criminals to heel](https://www.computerweekly.com/news/252510666/Russia-may-be-collaborating-with-US-to-bring-cyber-criminals-to-heel)
+- [Most consumers expect banks to cover losses to scams](https://www.computerweekly.com/news/252510660/Most-consumers-expect-banks-to-cover-losses-to-scams)
+- [Pure adds flagship FlashArray//XL with doubled throughput](https://www.computerweekly.com/news/252510589/Pure-adds-flagship-FlashArray-XL-with-doubled-throughput)
+- [UK privacy chief denies conflict of interest in new role](https://www.computerweekly.com/news/252510653/UK-privacy-chief-denies-conflict-of-interest-in-new-role)
+- [Number of .uk domain suspensions at record low](https://www.computerweekly.com/news/252510647/Number-of-uk-domain-suspensions-at-record-low)
+- [AWS outage: API and networking issues disrupt services hosted in major US Amazon datacentre hub](https://www.computerweekly.com/news/252510642/AWS-outage-API-and-networking-issues-disrupt-services-hosted-in-major-US-Amazon-datacentre-hub)
 - [Ready for Oracle E-Business Release 12.2 by new year 2022?](https://www.computerweekly.com/opinion/Ready-for-Oracle-E-Business-Release-122-by-New-Year-2022)
 - [Loan charge: MPs call on financial secretary for new independent review into HMRC policy](https://www.computerweekly.com/news/252510593/Loan-Charge-MPs-call-on-Treasury-Secretary-for-new-independent-review-into-HMRC-policy)
-- [UK technology issues contributed to Afghanistan withdrawal chaos](https://www.computerweekly.com/news/252510583/UK-technology-issues-contributed-to-Afghanistan-withdrawal-chaos)
-- [IT Priorities 2022: ERP gets back on the horse](https://www.computerweekly.com/news/252510569/IT-Priorities-2022-ERP-gets-back-on-the-horse)
-- [Zopa to focus on banking after closing peer-to-peer lending](https://www.computerweekly.com/news/252510580/Zopa-to-focus-on-banking-after-closing-peer-to-peer-lending)
-- [Labour reshuffle expands shadow ministerial team on digital, technology and innovation policy](https://www.computerweekly.com/news/252510579/Labour-reshuffle-expands-shadow-ministerial-team-on-digital-technology-and-innovation-policy)
-- [More than 65% of IT business leaders say pandemic was good for D&amp;I](https://www.computerweekly.com/news/252510578/More-than-65-of-IT-business-leaders-say-pandemic-was-good-for-DI)
-- [Government makes £116m pledge to help UK&#39;s green-tech firms innovate to fight climate change](https://www.computerweekly.com/news/252510572/Government-makes-116m-pledge-to-help-UKs-green-tech-firms-innovate-to-fight-climate-change)
-- [Investigation mounted into Spar supermarket cyber attack](https://www.computerweekly.com/news/252510577/Investigation-mounted-into-Spar-supermarket-cyber-attack)
-- [Former TSB CEO joins money-sharing fintech](https://www.computerweekly.com/news/252510573/Former-TSB-CEO-joins-money-sharing-fintech)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Balancing Productivity &amp; Job Satisfaction During the Great Resignation](https://www.informationweek.com/strategic-cio/balancing-productivity-and-job-satisfaction-during-the-great-resignation)
+- [The Intentional Futurist in the C-Suite: Watch These Signals](https://www.informationweek.com/strategic-cio/the-intentional-futurist-in-the-c-suite-watch-these-signals)
+- [Hot Network Security Acronyms You Must Know: ZTN, XDR, SASE, BYOD](https://www.informationweek.com/security-and-risk-strategy/hot-network-security-acronyms-you-must-know-ztn-xdr-sase-byod)
 - [AWS CTO Vogels on Cloud Eliminating Constraints on Innovation](https://www.informationweek.com/cloud/aws-cto-vogels-on-cloud-eliminating-constraints-on-innovation)
 - [Get Moving: 3G Sunsetting Deadline is Rapidly Approaching](https://www.informationweek.com/mobile/get-moving-3g-sunsetting-deadline-is-rapidly-approaching)
 - [7 Tech Trends that will Change the Fintech Industry in 2022](https://www.informationweek.com/fintech/7-tech-trends-that-will-change-the-fintech-industry-in-2022)
@@ -368,9 +371,6 @@
 - [Ex-Googler&#39;s Ethical AI Startup Models More Inclusive Approach](https://www.informationweek.com/big-data/ex-googler-s-ethical-ai-startup-models-more-inclusive-approach)
 - [Future-Proofing Software Delivery with Value Stream Management](https://www.informationweek.com/software/future-proofing-software-delivery-with-value-stream-management)
 - [How to Choose Which RPA/Intelligent Automation Platform Is Right for You](https://www.informationweek.com/big-data/how-to-choose-which-rpa-intelligent-automation-platform-is-right-for-you)
-- [3 Steps To Take When Implementing Cloud-to-Edge Service Models](https://www.informationweek.com/cloud/3-steps-to-take-when-implementing-cloud-to-edge-service-models)
-- [Optimizing Your Cybersecurity Budget](https://www.informationweek.com/security-and-risk-strategy/optimizing-your-cybersecurity-budget)
-- [How are Organizations Doing with Cloud?](https://www.informationweek.com/cloud/how-are-organizations-doing-with-cloud-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

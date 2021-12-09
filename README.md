@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Use machine learning to make anything. Yes. Anything](https://www.youtube.com/watch?v=ojPfWlD8E3M)
-- [How the Supply Chain Crisis Unfolded](https://www.nytimes.com/interactive/2021/12/05/business/economy/supply-chain.html)
-- [Federated Learning](https://github.com/poga/awesome-federated-learning)
-- [Psychedelics Alter Metaphysical Beliefs](https://www.nature.com/articles/s41598-021-01209-2)
-- [Has Google Dropped the Pixel Fold?](https://www.displaysupplychain.com/blog/has-google-dropped-the-pixel-fold)
-- [How Can Something Be Racist but Not Racist at the Same Time?](https://www.nytimes.com/2021/12/07/opinion/racism-america-complex-confusion.html)
-- [Mitto AG’s network used to track people via mobile phones, former employees say](https://www.thebureauinvestigates.com/stories/2021-12-06/swiss-tech-company-boss-accused-of-selling-mobile-network-access-for-spying)
-- [Australia joins diplomatic boycott of Beijing Winter Olympics](https://www.abc.net.au/news/2021-12-08/australia-joins-diplomatic-boycott-of-beijing-winter-olympics/100678660)
-- [The State of External Retina Displays, [Almost] 2022 Edition](https://www.caseyliss.com/2021/12/7/monitor-liss)
-- [Arch Packages You Might Want to Install](https://www.schoenitzer.de/blog/2021/Arch%20Packages.html)
+- [The State of Democracy in the United States](https://www.mfa.gov.cn/mfa_eng/zxxx_662805/202112/t20211205_10462535.html)
+- [Across the Sahara in a day: swifts zip across the desert at rates](https://www.nature.com/articles/d41586-021-03582-4)
+- [Eptstein&#39;s video catalogue was previously cataloged by FBI and Returned to him](https://patriotone.substack.com/p/sexual-abuse-in-palm-beach-day-seven)
+- [Does Georgism Work? Is Land a Big Deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
+- [Google confirms Android bug that prevents emergency calling](https://9to5google.com/2021/12/08/android-emergency-calling-bug/)
+- [How SF Castro Safeway is redesigning itself to halt shoplifting](https://www.sfchronicle.com/sf/article/S-F-Safeway-adds-barriers-to-deter-shoplifing-16675205.php)
+- [Graham&#39;s Number](https://en.wikipedia.org/wiki/Graham%27s_number)
+- [Sycamore v0.7 &lpar;a rust WASM web framework&rpar;: Client-side hydration and Builder API](https://sycamore-rs.netlify.app/news/announcing-v0.7.0)
+- [React Conf 2021](https://www.youtube.com/watch?v=CzTXnOJj-uc)
+- [Mnesx: NES Emulator for MSX &lpar;2020&rpar;](https://www.youtube.com/watch?v=0q-u7pKaao8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

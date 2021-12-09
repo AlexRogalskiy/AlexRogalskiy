@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Gap settles anti-spam violation for $200,000](https://www.itworldcanada.com/article/gap-settles-anti-spam-violation-for-200000/467880)
+- [Cyber Security Today, Dec. 8, 2021 – Microsoft, Google disrupt botnets and worrisome news about Emotet malware](https://www.itworldcanada.com/article/cyber-security-today-dec-8-2021-microsoft-google-disrupt-botnets-and-worrisome-news-about-emotet-malware/467729)
+- [More access to mental health support for Canadians with new Canada Life-Dialogue partnership](https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856)
+- [Average ransomware payment for Canadian firms hits $450,000](https://www.itworldcanada.com/article/average-ransomware-payment-for-canadian-firms-hits-450000/467792)
+- [Mississauga teens win the DMZ Hack against Hate Hackathon](https://www.itworldcanada.com/article/mississauga-teens-win-dmz-hack-against-hate-hackathon/467589)
+- [Hashtag Trending Dec. 8 – Massive numbers of YouTube copyright strikes; Microsoft seizes hacker’s servers; Outage at AWS](https://www.itworldcanada.com/article/hashtag-trending-dec-8-massive-numbers-of-youtube-copyright-strikes-microsoft-seizes-hackers-servers-outage-at-aws/467727)
+- [SaskTel launches Lüm Mobile](https://www.itworldcanada.com/article/sasktel-launches-lum-mobile/467731)
 - [Canadian, U.S. police investigation leads to Ottawa man facing cyber charges](https://www.itworldcanada.com/article/canadian-u-s-police-investigation-leads-to-ottawa-man-facing-cyber-charges/467688)
-- [AWS experiencing widespread outage](https://www.itworldcanada.com/article/aws-experiencing-widespread-outage/467676)
+- [AWS returning to normal after outage](https://www.itworldcanada.com/article/aws-experiencing-widespread-outage/467676)
 - [How GTA municipalities are empowering the next generation digital citizen](https://www.itworldcanada.com/article/how-gta-municipalities-are-empowering-the-next-generation-digital-citizen/467602)
-- [Coffee Briefing, Dec. 6, 2021 – New Cloudflare R2 storage capabilities; CompTIA updates Linux+ exam; and more](https://www.itworldcanada.com/article/coffee-briefing-dec-6-2021-new-cloudflare-r2-storage-capabilities-comptia-updates-linux-exam-and-more/467647)
-- [Almost 20 per cent of employees failed latest Gone Phishing Tournament test](https://www.itworldcanada.com/article/almost-20-per-cent-of-employees-failed-latest-gone-phishing-tournament-test/467650)
-- [How to defend an air-gapped network](https://www.itworldcanada.com/article/how-to-defend-an-air-gapped-network/467507)
-- [IBM and Telus partner on 5G edge compute solutions](https://www.itworldcanada.com/article/ibm-and-telus-partner-on-5g-edge-compute-solutions/467635)
-- [Hashtag Trending Dec. 7 – Amazon’s shipping containers; Verizon data collection; YouTube’s copyright report](https://www.itworldcanada.com/article/hashtag-trending-dec-7-amazons-shipping-containers-verizon-data-collection-youtubes-copyright-report/467643)
-- [Cloudflare announces new firewall capabilities and the Oahu migration tool](https://www.itworldcanada.com/article/cloudflare-announces-new-firewall-capabilities-and-the-oahu-migration-tool/467628)
-- [‘Cyber hygiene isn’t part of our day to day activities, yet,’ says Canadian cyber security chief](https://www.itworldcanada.com/article/cyber-hygiene-isnt-part-of-our-day-to-day-activities-yet-says-canadian-cybersecurity-chief/467593)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

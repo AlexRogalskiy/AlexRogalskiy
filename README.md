@@ -361,6 +361,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Outage and Recovery: What Comes Next After AWS Disruption](https://www.informationweek.com/cloud/outage-and-recovery-what-comes-next-after-aws-disruption)
+- [Will Edge Computing Kill the Cloud?](https://www.informationweek.com/cloud/will-edge-computing-kill-the-cloud-)
 - [Balancing Productivity &amp; Job Satisfaction During the Great Resignation](https://www.informationweek.com/strategic-cio/balancing-productivity-and-job-satisfaction-during-the-great-resignation)
 - [The Intentional Futurist in the C-Suite: Watch These Signals](https://www.informationweek.com/strategic-cio/the-intentional-futurist-in-the-c-suite-watch-these-signals)
 - [Hot Network Security Acronyms You Must Know: ZTN, XDR, SASE, BYOD](https://www.informationweek.com/security-and-risk-strategy/hot-network-security-acronyms-you-must-know-ztn-xdr-sase-byod)
@@ -369,8 +371,6 @@
 - [7 Tech Trends that will Change the Fintech Industry in 2022](https://www.informationweek.com/fintech/7-tech-trends-that-will-change-the-fintech-industry-in-2022)
 - [Can CIOs Become CEOs?](https://www.informationweek.com/strategic-cio/can-cios-become-ceos-)
 - [Ex-Googler&#39;s Ethical AI Startup Models More Inclusive Approach](https://www.informationweek.com/big-data/ex-googler-s-ethical-ai-startup-models-more-inclusive-approach)
-- [Future-Proofing Software Delivery with Value Stream Management](https://www.informationweek.com/software/future-proofing-software-delivery-with-value-stream-management)
-- [How to Choose Which RPA/Intelligent Automation Platform Is Right for You](https://www.informationweek.com/big-data/how-to-choose-which-rpa-intelligent-automation-platform-is-right-for-you)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

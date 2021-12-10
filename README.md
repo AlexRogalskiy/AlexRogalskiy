@@ -421,16 +421,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Zayo announces network expansions in Toronto](https://www.itworldcanada.com/article/zayo-announces-network-expansions-in-toronto/468031)
+- [Canada’s privacy commissioner urges Parliament to reform privacy law](https://www.itworldcanada.com/article/canadas-privacy-commissioner-urges-parliament-to-reform-privacy-law/467983)
+- [Canadian firms lagging in zero trust, SASE architectures, survey suggests](https://www.itworldcanada.com/article/canadian-firms-lagging-in-zero-trust-sase-architectures-survey-suggests/467745)
+- [Deeper Dive 5G: Beginning With the End in Mind: How to Prepare for 5G &lpar;Episode 5&rpar;](https://www.itworldcanada.com/article/beginning-with-the-end-in-mind-how-to-prepare-for-5g/468007)
+- [Deeper Dive 5G: Making a Difference Right Now: Real World Examples of 5G &lpar;Episode 4&rpar;](https://www.itworldcanada.com/article/making-a-difference-right-now-real-world-examples-of-5g/467994)
+- [Deeper Dive 5G: 5G: Up in the Air &lpar;Episode 3&rpar;](https://www.itworldcanada.com/article/5g-up-in-the-air/467988)
+- [Deeper Dive 5G: Clearing the Air about 5G &lpar;Episode 2&rpar;](https://www.itworldcanada.com/article/clearing-the-air-about-5g/467979)
+- [Calgary company keeping industrial workers safe with wearables](https://www.itworldcanada.com/article/calgary-company-keeping-industrial-workers-safe-with-wearables/467434)
+- [Hashtag Trending Dec. 9 –  Apple’s 5-year deal with China; Snapchat Spectacles; Instagram’s new features](https://www.itworldcanada.com/article/hashtag-trending-dec-9-apples-5-year-deal-with-china-snapchat-spectacles-instagrams-new-features/467930)
 - [Gap settles anti-spam violation for $200,000](https://www.itworldcanada.com/article/gap-settles-anti-spam-violation-for-200000/467880)
-- [Cyber Security Today, Dec. 8, 2021 – Microsoft, Google disrupt botnets and worrisome news about Emotet malware](https://www.itworldcanada.com/article/cyber-security-today-dec-8-2021-microsoft-google-disrupt-botnets-and-worrisome-news-about-emotet-malware/467729)
-- [More access to mental health support for Canadians with new Canada Life-Dialogue partnership](https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856)
-- [Average ransomware payment for Canadian firms hits $450,000](https://www.itworldcanada.com/article/average-ransomware-payment-for-canadian-firms-hits-450000/467792)
-- [Mississauga teens win the DMZ Hack against Hate Hackathon](https://www.itworldcanada.com/article/mississauga-teens-win-dmz-hack-against-hate-hackathon/467589)
-- [Hashtag Trending Dec. 8 – Massive numbers of YouTube copyright strikes; Microsoft seizes hacker’s servers; Outage at AWS](https://www.itworldcanada.com/article/hashtag-trending-dec-8-massive-numbers-of-youtube-copyright-strikes-microsoft-seizes-hackers-servers-outage-at-aws/467727)
-- [SaskTel launches Lüm Mobile](https://www.itworldcanada.com/article/sasktel-launches-lum-mobile/467731)
-- [Canadian, U.S. police investigation leads to Ottawa man facing cyber charges](https://www.itworldcanada.com/article/canadian-u-s-police-investigation-leads-to-ottawa-man-facing-cyber-charges/467688)
-- [AWS returning to normal after outage](https://www.itworldcanada.com/article/aws-experiencing-widespread-outage/467676)
-- [How GTA municipalities are empowering the next generation digital citizen](https://www.itworldcanada.com/article/how-gta-municipalities-are-empowering-the-next-generation-digital-citizen/467602)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

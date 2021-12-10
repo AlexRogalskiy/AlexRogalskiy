@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22: Australia v England first Test, day two – live!](https://www.theguardian.com/sport/live/2021/dec/09/ashes-2021-22-day-2-two-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Woman’s body pulled from submerged car in dramatic recovery at Niagara Falls’ edge](https://www.theguardian.com/us-news/2021/dec/08/niagara-falls-woman-car-coast-guard)
-- [Covid news live: England moves to ‘plan B’; three Pfizer shots can ‘neutralise’ Omicron, lab tests show](https://www.theguardian.com/world/live/2021/dec/09/covid-news-live-england-moves-to-plan-b-three-pfizer-shots-can-neutralise-omicron-lab-tests-show)
-- [Spurs met with furious response from Rennes after calling off match due to Covid](https://www.theguardian.com/football/2021/dec/08/antonio-conte-scared-as-covid-outbreak-worsens-at-tottenham-rennes-brighton)
-- [The Guardian named news provider of the year and wins four other awards](https://www.theguardian.com/culture/2021/dec/09/the-guardian-named-news-provider-of-the-year-and-wins-three-other-awards)
-- [Ofgem has shown a lack of basic regulatory insight over energy crisis | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2021/dec/09/ofgem-has-shown-a-lack-of-basic-regulatory-insight-over-energy-crisis)
-- [UK urged to tax £3tn windfall from 20 years of soaring house prices](https://www.theguardian.com/money/2021/dec/09/uk-urged-to-tax-pound-3tn-windfall-20-years-soaring-house-prices-capital-gains-tax)
-- [Ofgem blamed for errors that led to energy firms collapsing](https://www.theguardian.com/business/2021/dec/09/ofgem-blamed-for-errors-that-led-to-energy-firms-collapsing)
-- [Robbie Shakespeare, of Sly and Robbie fame, dies at age 68](https://www.theguardian.com/music/2021/dec/08/robbie-shakespeare-sly-and-robbie-dies)
-- [New Zealand to ban smoking for next generation in bid to outlaw habit by 2025](https://www.theguardian.com/world/2021/dec/09/new-zealand-to-ban-smoking-for-next-generation-in-bid-to-outlaw-habit-by-2025)
+- [Ashes 2021-22: Australia v England first Test, day three – live!](https://www.theguardian.com/sport/live/2021/dec/10/ashes-2021-22-day-3-three-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Covid news live: Australia to offer jabs to children aged five to 11; US Omicron cases mostly mild, CDC chief says](https://www.theguardian.com/world/live/2021/dec/10/covid-news-live-australia-to-offer-jabs-to-children-aged-five-to-11-us-omicron-cases-mostly-mild-cdc-chief-says)
+- [Dozens die and thousands flee in West Darfur tribal fighting](https://www.theguardian.com/world/2021/dec/10/dozens-die-and-thousands-flee-in-west-darfur-tribal-fighting)
+- [Court rules against Trump effort to shield documents from Capitol attack panel – as it happened](https://www.theguardian.com/us-news/live/2021/dec/09/joe-biden-house-summit-democracy-kamala-harris-us-politics-live)
+- [Dozens killed after truck packed with migrants crashes in Mexico](https://www.theguardian.com/world/2021/dec/10/dozens-killed-after-truck-packed-with-migrants-crashes-in-mexico)
+- [Spending without taxing: now we’re all guinea pigs in an endless money experiment | Satyajit Das](https://www.theguardian.com/commentisfree/2021/dec/10/spending-without-taxing-now-were-all-guinea-pigs-in-an-endless-money-experiment)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/dec/10/premier-league-10-things-to-look-out-for-this-weekend)
+- [Jussie Smollett found guilty of faking hate crime against himself](https://www.theguardian.com/us-news/2021/dec/09/jussie-smollett-found-guilty-faking-hate-crime-against-himself)
+- [Trouble in Mind review – rage and racism rock the rehearsal room](https://www.theguardian.com/stage/2021/dec/10/trouble-in-mind-review-national-theatre)
+- [How to Make It on OnlyFans review – a nudge-wink giggle over homespun smut](https://www.theguardian.com/tv-and-radio/2021/dec/09/how-to-make-it-on-onlyfans-review-a-nudge-wink-giggle-over-homespun-smut)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Young people think it’s ‘too late’ for them to get into tech](https://www.computerweekly.com/news/252510734/Young-people-think-its-too-late-for-them-to-get-into-tech)
+- [CDEI publishes roadmap for UK AI assurance ecosystem](https://www.computerweekly.com/news/252510707/CDEI-publishes-roadmap-for-UK-AI-assurance-ecosystem)
+- [Home Office slammed over police IT legacy replacement delays](https://www.computerweekly.com/news/252510728/Home-Office-slammed-over-police-IT-legacy-replacement)
+- [What are the challenges associated with the MITRE ATT&amp;CK framework?](https://www.computerweekly.com/news/252510650/What-are-the-challenges-associated-with-the-MITRE-ATTCK-framework)
+- [UK and US to collaborate on privacy innovation contest](https://www.computerweekly.com/news/252510718/UK-and-US-to-collaborate-on-privacy-innovation-contest)
+- [The power of AI can be unleashed with a focus on ethics](https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics)
+- [CW Europe: Norway embraces internet of things](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Norway-embraces-internet-of-things)
+- [Security Think Tank: Good documentation could save your bacon](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-documentation-could-save-your-bacon)
 - [2021 another record-breaker for vulnerability disclosure](https://www.computerweekly.com/news/252510662/2021-another-record-breaker-for-vulnerability-disclosure)
 - [Institute of Coding adds 1,500 grads to UK’s tech talent pool](https://www.computerweekly.com/news/252510667/Institute-of-Coding-adds-1500-grads-to-UKs-tech-talent-pool)
-- [Russia may be collaborating with US to bring cyber criminals to heel](https://www.computerweekly.com/news/252510666/Russia-may-be-collaborating-with-US-to-bring-cyber-criminals-to-heel)
-- [Most consumers expect banks to cover losses to scams](https://www.computerweekly.com/news/252510660/Most-consumers-expect-banks-to-cover-losses-to-scams)
-- [Pure adds flagship FlashArray//XL with doubled throughput](https://www.computerweekly.com/news/252510589/Pure-adds-flagship-FlashArray-XL-with-doubled-throughput)
-- [UK privacy chief denies conflict of interest in new role](https://www.computerweekly.com/news/252510653/UK-privacy-chief-denies-conflict-of-interest-in-new-role)
-- [Number of .uk domain suspensions at record low](https://www.computerweekly.com/news/252510647/Number-of-uk-domain-suspensions-at-record-low)
-- [AWS outage: API and networking issues disrupt services hosted in major US Amazon datacentre hub](https://www.computerweekly.com/news/252510642/AWS-outage-API-and-networking-issues-disrupt-services-hosted-in-major-US-Amazon-datacentre-hub)
-- [Ready for Oracle E-Business Release 12.2 by new year 2022?](https://www.computerweekly.com/opinion/Ready-for-Oracle-E-Business-Release-122-by-New-Year-2022)
-- [Loan charge: MPs call on financial secretary for new independent review into HMRC policy](https://www.computerweekly.com/news/252510593/Loan-Charge-MPs-call-on-Treasury-Secretary-for-new-independent-review-into-HMRC-policy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

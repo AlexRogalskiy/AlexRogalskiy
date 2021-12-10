@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Eptstein&#39;s video catalogue was previously cataloged by FBI and Returned to him](https://patriotone.substack.com/p/sexual-abuse-in-palm-beach-day-seven)
-- [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/)
-- [The Filing Cabinet: a vertical history of information](https://99percentinvisible.org/article/datascrapers-vertical-filing-cabinets-set-the-stage-for-the-information-age/)
-- [Ask HN: Does the Easel programming language still exist?](https://news.ycombinator.com/item?id=29492255)
-- [Writing a register based VM in less than 125 lines of C code](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
-- [An update on 0day CVE-2021-43798: Grafana directory traversal](https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/)
-- [Why I stopped releasing EasyOS as an ISO file](https://bkhome.org/news/202112/why-iso-was-retired.html)
-- [Apple Open Source](https://opensource.apple.com/)
-- [CareRev &lpar;YC S16&rpar; is hiring iOS developers to unite people in healthcare](https://grnh.se/ad461ea33us)
-- [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=36.72127,-143.37158&extent=50.94458,-108.21533&sort=largest&listOnlyShown=true)
+- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
+- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
+- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s Real](https://www.npr.org/templates/story/story.php?storyId=113242681)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+- [Log4j RCE Found](https://github.com/apache/logging-log4j2/pull/608)
+- [How Do You Fix a Stroad](https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad)
+- [Faster Gitlab CI/CD pipelines](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/)
+- [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
+- [Chrome users beware: Manifest v3 is deceitful and threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

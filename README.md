@@ -376,6 +376,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub previews enhanced code search](https://www.infoworld.com/article/3644270/github-previews-enhanced-code-search.html#tk.rss_all)
+- [Get started with Git](https://www.infoworld.com/article/3643330/get-started-with-git.html#tk.rss_all)
 - [Flutter 2.8 boosts mobile performance](https://www.infoworld.com/article/3644228/flutter-28-boosts-mobile-performance.html#tk.rss_all)
 - [Build on Excel using the Microsoft Graph API](https://www.infoworld.com/article/3643701/working-with-the-excel-microsoft-graph-apis.html#tk.rss_all)
 - [Miško Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/miko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_all)
@@ -384,8 +386,6 @@
 - [Overcomplicated cloud solutions are making the skills shortage worse](https://www.infoworld.com/article/3643709/overcomplicated-cloud-solutions-are-making-the-skills-shortage-worse.html#tk.rss_all)
 - [Integrate security into CI/CD with the Trivy scanner](https://www.infoworld.com/article/3642288/integrate-security-into-cicd-with-the-trivy-scanner.html#tk.rss_all)
 - [How CentOS changes the cloud Linux game](https://www.infoworld.com/article/3643708/how-centos-changes-the-cloud-linux-game.html#tk.rss_all)
-- [Review: Document parsing in AWS, Azure, and Google Cloud](https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html#tk.rss_all)
-- [A cure for complexity in software development](https://www.infoworld.com/article/3642835/a-cure-for-complexity-in-software-development.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The State of Democracy in the United States](https://www.mfa.gov.cn/mfa_eng/zxxx_662805/202112/t20211205_10462535.html)
-- [Across the Sahara in a day: swifts zip across the desert at rates](https://www.nature.com/articles/d41586-021-03582-4)
-- [Eptstein&#39;s video catalogue was previously cataloged by FBI and Returned to him](https://patriotone.substack.com/p/sexual-abuse-in-palm-beach-day-seven)
-- [Does Georgism Work? Is Land a Big Deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
-- [Google confirms Android bug that prevents emergency calling](https://9to5google.com/2021/12/08/android-emergency-calling-bug/)
-- [How SF Castro Safeway is redesigning itself to halt shoplifting](https://www.sfchronicle.com/sf/article/S-F-Safeway-adds-barriers-to-deter-shoplifing-16675205.php)
-- [Graham&#39;s Number](https://en.wikipedia.org/wiki/Graham%27s_number)
-- [Sycamore v0.7 &lpar;a rust WASM web framework&rpar;: Client-side hydration and Builder API](https://sycamore-rs.netlify.app/news/announcing-v0.7.0)
-- [React Conf 2021](https://www.youtube.com/watch?v=CzTXnOJj-uc)
-- [Mnesx: NES Emulator for MSX &lpar;2020&rpar;](https://www.youtube.com/watch?v=0q-u7pKaao8)
+- [The Power of Testimony: Why personal narrative has displaced fiction](https://yalereview.org/article/the-power-of-testimony)
+- [Keep Watch Star Fork Order](https://github.com/github/feedback/discussions/8599)
+- [&#39;Naturally Acquired Immunity&#39; to Covid-19 – 135 Research Studies](https://www.bibliotecapleyades.net/ciencia3/ciencia_coronavirusvaccine80.htm)
+- [ONS Data reveals the Fully Vaccinated are 6 times more likely to die](https://dailyexpose.uk/2021/10/27/fully-vaccinated-6-x-more-likely-to-die-than-unvaccinated/)
+- [The Great &lpar;Fake&rpar; Child-Sex-Trafficking Epidemic](https://www.theatlantic.com/magazine/archive/2022/01/children-sex-trafficking-conspiracy-epidemic/620845/)
+- [After AWS outage, Larry Ellison says Oracle’s cloud ‘never ever goes down’](https://www.cnbc.com/2021/12/09/after-aws-outage-larry-ellison-says-oracles-cloud-never-goes-down.html)
+- [The west is a victim of its own long peace](https://www.ft.com/content/7d9dee20-e704-4dc1-94d9-c1c1938d6726)
+- [Human skin triglycerides prevent bed bug arrestment](https://www.nature.com/articles/s41598-021-01981-1)
+- [Liqvid – Create interactive videos in React](https://liqvidjs.org/)
+- [Ask HN: What are some ways to synthesize HN comments into actionable knowledge?](https://news.ycombinator.com/item?id=29505685)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Information Technology may be the best means to help curb and alleviate a lot of the issues with poverty](https://www.reddit.com/r/InformationTechnology/comments/rcuid4/information_technology_may_be_the_best_means_to/)
+- [Infrastructure help](https://www.reddit.com/r/InformationTechnology/comments/rctqam/infrastructure_help/)
+- [Bluetooth History](https://www.reddit.com/r/InformationTechnology/comments/rcjw2b/bluetooth_history/)
+- [What is the way to learn tech and IT when world is overwhelmed by it](https://www.reddit.com/r/InformationTechnology/comments/rcj4dk/what_is_the_way_to_learn_tech_and_it_when_world/)
+- [Give me the problems which are faced by It industry globaly](https://www.reddit.com/r/InformationTechnology/comments/rcfsyz/give_me_the_problems_which_are_faced_by_it/)
+- [New to the field](https://www.reddit.com/r/InformationTechnology/comments/rc8gb7/new_to_the_field/)
 - [Any free certs that someone can get?](https://www.reddit.com/r/InformationTechnology/comments/rc4qsa/any_free_certs_that_someone_can_get/)
 - [Are there any free certificates to earn?](https://www.reddit.com/r/InformationTechnology/comments/rc4qdy/are_there_any_free_certificates_to_earn/)
 - [Fiber Optic Cabling Types and Connectors Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rbvgfb/fiber_optic_cabling_types_and_connectors/)
 - [How did someone&#39;s completely make they messages disappear on Facebook messenger from existence???](https://www.reddit.com/r/InformationTechnology/comments/rbhh40/how_did_someones_completely_make_they_messages/)
-- [What does an average day look like for an entry level IT position using Active Directory?](https://www.reddit.com/r/InformationTechnology/comments/rbdm3e/what_does_an_average_day_look_like_for_an_entry/)
-- [Help](https://www.reddit.com/r/InformationTechnology/comments/rb6l8r/help/)
-- [Microsoft Azure, Google Cloud, or Amazon Web Services?](https://www.reddit.com/r/InformationTechnology/comments/rb2ng7/microsoft_azure_google_cloud_or_amazon_web/)
-- [Systems Administrator, Network Engineer, Security Engineer. Which of these three paths would you choose &lpar;or avoid&rpar;? And why?](https://www.reddit.com/r/InformationTechnology/comments/rb2n83/systems_administrator_network_engineer_security/)
-- [DevJam Diaries #2 Rory Preddy about new Java features on Azure | Microsoft](https://www.reddit.com/r/InformationTechnology/comments/raw2p9/devjam_diaries_2_rory_preddy_about_new_java/)
-- [What are some good tech certifications?](https://www.reddit.com/r/InformationTechnology/comments/raqx48/what_are_some_good_tech_certifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
-- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
-- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s Real](https://www.npr.org/templates/story/story.php?storyId=113242681)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
-- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
-- [Log4j RCE Found](https://github.com/apache/logging-log4j2/pull/608)
-- [How Do You Fix a Stroad](https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad)
-- [Faster Gitlab CI/CD pipelines](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/)
-- [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
-- [Chrome users beware: Manifest v3 is deceitful and threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+- [Charlottesville’s Robert Lee Statue Will Be Melted Down,Transformed into New Art](https://www.smithsonianmag.com/smart-news/robert-e-lee-statue-in-charlottesville-will-be-melted-for-new-art-180979189/)
+- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
+- [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
+- [The Strange, Unfinished Saga of Cyberpunk 2077](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077)
+- [Summary of the AWS Service Event in the Northern Virginia &lpar;US-East-1&rpar; Region](https://aws.amazon.com/message/12721/)
+- [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
+- [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
+- [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot)
+- [The Trees That Miss the Mammoths &lpar;2011&rpar;](https://af-legacy-prd.americanforests.org/magazine/article/trees-that-miss-the-mammoths/)
+- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

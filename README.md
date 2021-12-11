@@ -346,16 +346,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How will we use Apple&#39;s AR glasses — and with what UI?](https://www.computerworld.com/article/3644413/how-will-we-use-apples-ar-glasses-and-with-what-ui.html#tk.rss_all)
+- [The way to better collaboration: define the problem, craft a solution](https://www.computerworld.com/article/3644272/the-way-to-better-collaboration-define-the-problem-craft-a-solution.html#tk.rss_all)
+- [Smart leaders seize the opportunity to rethink the workplace](https://www.computerworld.com/article/3644268/smart-leaders-seize-the-opportunity-to-rethink-the-workplace.html#tk.rss_all)
+- [Using DISM to install Windows updates](https://www.computerworld.com/article/3643309/using-dism-to-install-windows-updates.html#tk.rss_all)
+- [6 easy fixes for Android 12 annoyances](https://www.computerworld.com/article/3643890/android-12-fixes.html#tk.rss_all)
 - [US IT job recovery is in full swing, but employee retention can be tenuous](https://www.computerworld.com/article/3542681/us-it-job-recovery-is-in-full-swing-but-employee-retention-can-be-tenuous.html#tk.rss_all)
 - [Apple should enforce the App Store privacy promise](https://www.computerworld.com/article/3644428/apple-should-enforce-the-app-store-privacy-promise.html#tk.rss_all)
 - [AWS outage hit collaboration vendors, highlights risk of cloud-based tools](https://www.computerworld.com/article/3644370/aws-outage-hit-collaboration-vendors-highlights-risk-of-cloud-based-tools.html#tk.rss_all)
 - [Podcast: What users can expect from Apple in 2022](https://www.computerworld.com/article/3644148/podcast-what-users-can-expect-from-apple-in-2022.html#tk.rss_all)
-- [Q&amp;A: JLL exec sees no return to pre-COVID work routines, but a 4-day work week](https://www.computerworld.com/article/3643654/qa-jll-exec-sees-no-return-to-pre-covid-work-routines-but-a-4-day-work-week.html#tk.rss_all)
-- [BrandPost: 5 Reasons Small to Medium Businesses Are Investing in New Networks](https://www.computerworld.com/article/3643677/5-reasons-small-to-medium-businesses-are-investing-in-new-networks.html#tk.rss_all)
-- [Designer smartphone hacks will trickle down in 2022](https://www.computerworld.com/article/3643970/designer-smartphone-hacks-will-trickle-down-in-2022.html#tk.rss_all)
-- [Give your Chrome OS interface an instant upgrade](https://www.computerworld.com/article/3643578/chrome-os-interface-upgrade.html#tk.rss_all)
-- [A look at Microsoft&#39;s patches and fixes in 2021 — the year of change](https://www.computerworld.com/article/3643411/a-look-at-microsofts-patches-and-fixes-in-2021-the-year-of-change.html#tk.rss_all)
-- [Eve Systems CEO: Matter standard is a &#39;foundational&#39; tech](https://www.computerworld.com/article/3643672/eve-systems-ceo-matter-standard-is-a-foundational-tech.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

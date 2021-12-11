@@ -421,6 +421,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for December 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-december-10-2021/468018)
+- [Cyber Security Today, Dec. 10, 2021 – E-commerce websites infected through a Google utility, poor OAuth implementation leads to hacks, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-10-2021-e-commerce-websites-infected-through-a-google-utility-poor-oauth-implementation-leads-to-hacks-and-more/468076)
+- [Hashtag Trending Dec. 10 – Amazon Fined by Italy; Instagram Chronological Timeline Return; Metaverse Privacy Concerns](https://www.itworldcanada.com/article/hashtag-trending-dec-10-amazon-fined-by-italy-instagram-chronological-timeline-return-metaverse-privacy-concerns/468087)
 - [Zayo announces network expansions in Toronto](https://www.itworldcanada.com/article/zayo-announces-network-expansions-in-toronto/468031)
 - [Canada’s privacy commissioner urges Parliament to reform privacy law](https://www.itworldcanada.com/article/canadas-privacy-commissioner-urges-parliament-to-reform-privacy-law/467983)
 - [Canadian firms lagging in zero trust, SASE architectures, survey suggests](https://www.itworldcanada.com/article/canadian-firms-lagging-in-zero-trust-sase-architectures-survey-suggests/467745)
@@ -428,9 +431,6 @@
 - [Deeper Dive 5G: Making a Difference Right Now: Real World Examples of 5G &lpar;Episode 4&rpar;](https://www.itworldcanada.com/article/making-a-difference-right-now-real-world-examples-of-5g/467994)
 - [Deeper Dive 5G: 5G: Up in the Air &lpar;Episode 3&rpar;](https://www.itworldcanada.com/article/5g-up-in-the-air/467988)
 - [Deeper Dive 5G: Clearing the Air about 5G &lpar;Episode 2&rpar;](https://www.itworldcanada.com/article/clearing-the-air-about-5g/467979)
-- [Calgary company keeping industrial workers safe with wearables](https://www.itworldcanada.com/article/calgary-company-keeping-industrial-workers-safe-with-wearables/467434)
-- [Hashtag Trending Dec. 9 –  Apple’s 5-year deal with China; Snapchat Spectacles; Instagram’s new features](https://www.itworldcanada.com/article/hashtag-trending-dec-9-apples-5-year-deal-with-china-snapchat-spectacles-instagrams-new-features/467930)
-- [Gap settles anti-spam violation for $200,000](https://www.itworldcanada.com/article/gap-settles-anti-spam-violation-for-200000/467880)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

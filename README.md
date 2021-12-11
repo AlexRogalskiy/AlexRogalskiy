@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Power of Testimony: Why personal narrative has displaced fiction](https://yalereview.org/article/the-power-of-testimony)
-- [Keep Watch Star Fork Order](https://github.com/github/feedback/discussions/8599)
-- [&#39;Naturally Acquired Immunity&#39; to Covid-19 – 135 Research Studies](https://www.bibliotecapleyades.net/ciencia3/ciencia_coronavirusvaccine80.htm)
-- [ONS Data reveals the Fully Vaccinated are 6 times more likely to die](https://dailyexpose.uk/2021/10/27/fully-vaccinated-6-x-more-likely-to-die-than-unvaccinated/)
-- [The Great &lpar;Fake&rpar; Child-Sex-Trafficking Epidemic](https://www.theatlantic.com/magazine/archive/2022/01/children-sex-trafficking-conspiracy-epidemic/620845/)
-- [After AWS outage, Larry Ellison says Oracle’s cloud ‘never ever goes down’](https://www.cnbc.com/2021/12/09/after-aws-outage-larry-ellison-says-oracles-cloud-never-goes-down.html)
-- [The west is a victim of its own long peace](https://www.ft.com/content/7d9dee20-e704-4dc1-94d9-c1c1938d6726)
-- [Human skin triglycerides prevent bed bug arrestment](https://www.nature.com/articles/s41598-021-01981-1)
-- [Liqvid – Create interactive videos in React](https://liqvidjs.org/)
-- [Ask HN: What are some ways to synthesize HN comments into actionable knowledge?](https://news.ycombinator.com/item?id=29505685)
+- [AltTab: Windows Alt-Tab on macOS](https://github.com/lwouis/alt-tab-macos)
+- [Did I get owned by Log4Shell?](https://blog.px.dev/did-i-get-owned-by-log4shell/)
+- [A New Aerogel Could Produce 70 Times More Hydrogen Than Rival Methods](https://interestingengineering.com/a-new-aerogel-could-produce-70-times-more-hydrogen-than-rival-methods)
+- [You shouldn’t believe that new medical study](https://www.vox.com/2015/3/23/8264355/research-study-hype)
+- [B2 Backblaze Offline for Maintenance “for a number of hours”](https://help.backblaze.com/hc/en-us/articles/4412580603419)
+- [Magnus Carlsen retains Chess World Champion title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
+- [KDE Wants to Fix Every Linus Tech Tips Complaint](https://openforeveryone.net/articles/kde-fixing-every-ltt-complaint-plasma-ark/)
+- [Goodbye Category. Hello Movement](https://www.linkedin.com/posts/andyraskin_goodbye-category-hello-movement-got-this-activity-6838485447627436032-3-v8)
+- [Minecraft: Java Edition should be patched immediately after exploit discovered](https://www.pcgamer.com/uk/minecraft-java-edition-should-be-patched-immediately-after-high-severity-exploit-discovered-across-web/)
+- [Author Vanessa Riley is chronicling the real lives of Regency women of color](https://austenconnection.substack.com/p/the-podcast-s2-ep5-regency-women)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

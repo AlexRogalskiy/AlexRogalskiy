@@ -361,6 +361,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Is Networking the New Killer App?](https://www.informationweek.com/strategic-cio/is-networking-the-new-killer-app-)
+- [User Interface Design: Beautiful Is Not Always Functional](https://www.informationweek.com/software/user-interface-design-beautiful-is-not-always-functional)
+- [AWS Unveils Private 5G Service, Validating Enterprise Use Case](https://www.informationweek.com/mobile/aws-unveils-private-5g-service-validating-enterprise-use-case)
 - [Outage and Recovery: What Comes Next After AWS Disruption](https://www.informationweek.com/cloud/outage-and-recovery-what-comes-next-after-aws-disruption)
 - [Will Edge Computing Kill the Cloud?](https://www.informationweek.com/cloud/will-edge-computing-kill-the-cloud-)
 - [Balancing Productivity &amp; Job Satisfaction During the Great Resignation](https://www.informationweek.com/strategic-cio/balancing-productivity-and-job-satisfaction-during-the-great-resignation)
@@ -368,9 +371,6 @@
 - [Hot Network Security Acronyms You Must Know: ZTN, XDR, SASE, BYOD](https://www.informationweek.com/security-and-risk-strategy/hot-network-security-acronyms-you-must-know-ztn-xdr-sase-byod)
 - [AWS CTO Vogels on Cloud Eliminating Constraints on Innovation](https://www.informationweek.com/cloud/aws-cto-vogels-on-cloud-eliminating-constraints-on-innovation)
 - [Get Moving: 3G Sunsetting Deadline is Rapidly Approaching](https://www.informationweek.com/mobile/get-moving-3g-sunsetting-deadline-is-rapidly-approaching)
-- [7 Tech Trends that will Change the Fintech Industry in 2022](https://www.informationweek.com/fintech/7-tech-trends-that-will-change-the-fintech-industry-in-2022)
-- [Can CIOs Become CEOs?](https://www.informationweek.com/strategic-cio/can-cios-become-ceos-)
-- [Ex-Googler&#39;s Ethical AI Startup Models More Inclusive Approach](https://www.informationweek.com/big-data/ex-googler-s-ethical-ai-startup-models-more-inclusive-approach)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -391,16 +391,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Young people think it’s ‘too late’ for them to get into tech](https://www.computerweekly.com/news/252510734/Young-people-think-its-too-late-for-them-to-get-into-tech)
-- [CDEI publishes roadmap for UK AI assurance ecosystem](https://www.computerweekly.com/news/252510707/CDEI-publishes-roadmap-for-UK-AI-assurance-ecosystem)
-- [Home Office slammed over police IT legacy replacement delays](https://www.computerweekly.com/news/252510728/Home-Office-slammed-over-police-IT-legacy-replacement)
-- [What are the challenges associated with the MITRE ATT&amp;CK framework?](https://www.computerweekly.com/news/252510650/What-are-the-challenges-associated-with-the-MITRE-ATTCK-framework)
-- [UK and US to collaborate on privacy innovation contest](https://www.computerweekly.com/news/252510718/UK-and-US-to-collaborate-on-privacy-innovation-contest)
-- [The power of AI can be unleashed with a focus on ethics](https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics)
-- [CW Europe: Norway embraces internet of things](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Norway-embraces-internet-of-things)
-- [Security Think Tank: Good documentation could save your bacon](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-documentation-could-save-your-bacon)
-- [2021 another record-breaker for vulnerability disclosure](https://www.computerweekly.com/news/252510662/2021-another-record-breaker-for-vulnerability-disclosure)
-- [Institute of Coding adds 1,500 grads to UK’s tech talent pool](https://www.computerweekly.com/news/252510667/Institute-of-Coding-adds-1500-grads-to-UKs-tech-talent-pool)
+- [SMEs dominate list of 200 fastest growing tech companies](https://www.computerweekly.com/news/252510788/SMEs-dominate-list-of-200-fastest-growing-tech-companies)
+- [Julian Assange can be extradited to the US to face espionage and hacking charges, court rules](https://www.computerweekly.com/news/252510785/Julian-Assange-can-be-extradited-to-the-US-to-face-espionage-and-hacking-charges-court-rules)
+- [Singapore and UK sign digital trade deal](https://www.computerweekly.com/news/252510782/Singapore-and-UK-sign-digital-trade-deal)
+- [Drone killer app saves Swedish lives](https://www.computerweekly.com/news/252510715/Drone-killer-app-saves-Swedish-lives)
+- [C-suite’s biggest ransomware fear: Post-attack regulatory sanctions](https://www.computerweekly.com/news/252510780/C-suites-biggest-ransomware-fear-Post-attack-regulatory-sanctions)
+- [Channeling Nordic startup innovation towards global survival](https://www.computerweekly.com/news/252510781/Channeling-Nordic-startup-innovation-towards-global-survival)
+- [Finland looks to democratise the ‘wild west’ of artificial intelligence](https://www.computerweekly.com/news/252510587/Finland-looks-to-democratise-the-wild-west-of-artificial-intelligence)
+- [UAE joins the race to produce a usable quantum computer](https://www.computerweekly.com/news/252510779/UAE-joins-the-race-to-produce-a-usable-quantum-computer)
+- [Retailers as tech firms: Next, The Very Group and others see power in the platform](https://www.computerweekly.com/feature/Retailers-as-tech-firms-Next-The-Very-Group-and-others-see-power-in-the-platform)
+- [PAC scrutinises failure of large government IT modernisation projects](https://www.computerweekly.com/news/252510771/PAC-scrutinises-failure-of-large-government-IT-modernisation-projects)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

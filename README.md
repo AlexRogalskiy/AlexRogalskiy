@@ -376,16 +376,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to detect the Log4j vulnerability in your applications](https://www.infoworld.com/article/3644492/how-to-detect-the-log4j-vulnerability-in-your-applications.html#tk.rss_all)
+- [Visual Studio Code tweaks problem navigation, screencast mode](https://www.infoworld.com/article/3644490/visual-studio-code-tweaks-problem-navigation-screencast-mode.html#tk.rss_all)
+- [The true value of serverless computing](https://www.infoworld.com/article/3644408/the-true-value-of-serverless-computing.html#tk.rss_all)
 - [GitHub previews enhanced code search](https://www.infoworld.com/article/3644270/github-previews-enhanced-code-search.html#tk.rss_all)
 - [Get started with Git](https://www.infoworld.com/article/3643330/get-started-with-git.html#tk.rss_all)
 - [Flutter 2.8 boosts mobile performance](https://www.infoworld.com/article/3644228/flutter-28-boosts-mobile-performance.html#tk.rss_all)
 - [Build on Excel using the Microsoft Graph API](https://www.infoworld.com/article/3643701/working-with-the-excel-microsoft-graph-apis.html#tk.rss_all)
-- [Miško Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/miko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_all)
+- [Misko Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/misko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_all)
 - [Django 4.0 adds Redis database caching](https://www.infoworld.com/article/3643415/django-40-adds-redis-database-caching.html#tk.rss_all)
 - [What’s new in Rust 1.57](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Overcomplicated cloud solutions are making the skills shortage worse](https://www.infoworld.com/article/3643709/overcomplicated-cloud-solutions-are-making-the-skills-shortage-worse.html#tk.rss_all)
-- [Integrate security into CI/CD with the Trivy scanner](https://www.infoworld.com/article/3642288/integrate-security-into-cicd-with-the-trivy-scanner.html#tk.rss_all)
-- [How CentOS changes the cloud Linux game](https://www.infoworld.com/article/3643708/how-centos-changes-the-cloud-linux-game.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

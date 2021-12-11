@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22: Australia v England first Test, day three – live!](https://www.theguardian.com/sport/live/2021/dec/10/ashes-2021-22-day-3-three-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Covid news live: Australia to offer jabs to children aged five to 11; US Omicron cases mostly mild, CDC chief says](https://www.theguardian.com/world/live/2021/dec/10/covid-news-live-australia-to-offer-jabs-to-children-aged-five-to-11-us-omicron-cases-mostly-mild-cdc-chief-says)
-- [Dozens die and thousands flee in West Darfur tribal fighting](https://www.theguardian.com/world/2021/dec/10/dozens-die-and-thousands-flee-in-west-darfur-tribal-fighting)
-- [Court rules against Trump effort to shield documents from Capitol attack panel – as it happened](https://www.theguardian.com/us-news/live/2021/dec/09/joe-biden-house-summit-democracy-kamala-harris-us-politics-live)
-- [Dozens killed after truck packed with migrants crashes in Mexico](https://www.theguardian.com/world/2021/dec/10/dozens-killed-after-truck-packed-with-migrants-crashes-in-mexico)
-- [Spending without taxing: now we’re all guinea pigs in an endless money experiment | Satyajit Das](https://www.theguardian.com/commentisfree/2021/dec/10/spending-without-taxing-now-were-all-guinea-pigs-in-an-endless-money-experiment)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2021/dec/10/premier-league-10-things-to-look-out-for-this-weekend)
-- [Jussie Smollett found guilty of faking hate crime against himself](https://www.theguardian.com/us-news/2021/dec/09/jussie-smollett-found-guilty-faking-hate-crime-against-himself)
-- [Trouble in Mind review – rage and racism rock the rehearsal room](https://www.theguardian.com/stage/2021/dec/10/trouble-in-mind-review-national-theatre)
-- [How to Make It on OnlyFans review – a nudge-wink giggle over homespun smut](https://www.theguardian.com/tv-and-radio/2021/dec/09/how-to-make-it-on-onlyfans-review-a-nudge-wink-giggle-over-homespun-smut)
+- [Ashes 2021-22: Australia v England first Test, day four – live!](https://www.theguardian.com/sport/live/2021/dec/11/ashes-2021-22-day-4-four-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Truss bills UK G7 meeting as a show of western unity against China and Russia](https://www.theguardian.com/world/2021/dec/11/truss-bills-uk-g7-meeting-as-a-show-of-western-unity-against-china-and-russia)
+- [Trident submariner who died at base named as Stephen Cashman](https://www.theguardian.com/uk-news/2021/dec/10/trident-submariner-25-dies-suddenly-at-naval-base-in-scotland)
+- [Bryan Mbeumo’s last-gasp penalty gives Brentford fightback win over Watford](https://www.theguardian.com/football/2021/dec/10/brentford-watford-premier-league-match-report)
+- [Winter Olympic curling qualifier drops sex toy adverts after US blackout](https://www.theguardian.com/sport/2021/dec/10/winter-olympics-curling-qualifier-sex-toy-adverts-tv-blackout)
+- [Marcus Smith: ‘If you set your mind properly you can almost achieve anything’](https://www.theguardian.com/sport/2021/dec/10/marcus-smith-interview-rugby-union-england-harlequins)
+- [Ghislaine Maxwell gave me nude massage when I was 16, accuser says](https://www.theguardian.com/us-news/2021/dec/10/ghislaine-maxwell-trial-accuser-jeffrey-epstein)
+- [Mark Huband obituary](https://www.theguardian.com/media/2021/dec/10/mark-huband-obituary)
+- [Simon McCoy becomes latest presenter to depart GB News](https://www.theguardian.com/media/2021/dec/10/simon-mccoy-becomes-latest-departure-from-gb-news)
+- [Michael Nesmith, singer and guitarist with the Monkees, dies aged 78](https://www.theguardian.com/music/2021/dec/10/mike-nesmith-singer-and-guitarist-with-the-monkees-dies-aged-78)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

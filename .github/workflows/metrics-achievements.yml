@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Metrics achievements
 
 on:
   # Schedule updates (each day)
@@ -21,7 +21,7 @@ jobs:
           user: AlexRogalskiy
           template: classic
           base: ""
-          filename: ./images/generated/metrics-achievements.svg
+          filename: images/generated/metrics-achievements.svg
           config_timezone: Europe/Moscow
           plugin_achievements: yes
           plugin_achievements_limit: 6

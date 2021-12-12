@@ -98,6 +98,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AlexRogalskiy&show_icons=true&count_private=true" alt="GitHub statistics" />
 </div>
 
+<div id="statistics_github_metrics_base_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/metrics-base.svg" alt="GitHub base metrics" />
+</div>
+
+<div id="statistics_github_metrics_achievements_id" align="center" style="align-content: center; text-align:center; margin: 20px 20px">
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/generated/metrics-achievements.svg" alt="GitHub achievements metrics" />
+</div>
+
 <div id="statistics_github_summary_block_id" align="center" style="align-content: center; text-align:center;">
     <a href="https://profile-summary-for-github.com/user/AlexRogalskiy" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20statistics-on%20github-7CBAE6.svg?logo=github&style=for-the-badge" alt="GitHub profile summary" />

@@ -331,16 +331,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Charlottesville’s Robert Lee Statue Will Be Melted Down,Transformed into New Art](https://www.smithsonianmag.com/smart-news/robert-e-lee-statue-in-charlottesville-will-be-melted-for-new-art-180979189/)
-- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
-- [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
-- [The Strange, Unfinished Saga of Cyberpunk 2077](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077)
-- [Summary of the AWS Service Event in the Northern Virginia &lpar;US-East-1&rpar; Region](https://aws.amazon.com/message/12721/)
-- [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
-- [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
-- [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot)
-- [The Trees That Miss the Mammoths &lpar;2011&rpar;](https://af-legacy-prd.americanforests.org/magazine/article/trees-that-miss-the-mammoths/)
-- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers)
+- [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
+- [The state of Washington pays multimillion dollar salaries to college coaches](http://fiscal.wa.gov/salaries.aspx)
+- [Ancient Spartans didn’t kill ‘weak’ babies, new study argues](https://www.science.org/content/article/ancient-greeks-didn-t-kill-weak-babies-new-study-argues)
+- [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
+- [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
+- [“Steve J called, we *can* deliver a Mac to Mick Jagger tomorrow..”](https://www.folklore.org/StoryView.py?project=Macintosh&story=A_Mac_For_Mick.txt&sortOrder=Sort+by+Date)
+- [Tiny primate may join the ranks of the world’s model organisms](https://www.economist.com/science-and-technology/a-tiny-primate-may-join-the-ranks-of-the-worlds-model-organisms/21806681)
+- [Moore&#39;s Law, AI, and the pace of progress](https://www.lesswrong.com/posts/aNAFrGbzXddQBMDqh/moore-s-law-ai-and-the-pace-of-progress)
+- [Thermoelectric Stoves: Ditch the Solar Panels? &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
+- [Creating a Better Leaf: Tinkering with Photosynthesis](https://www.newyorker.com/magazine/2021/12/13/creating-a-better-leaf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -406,16 +406,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Basic website development](https://www.reddit.com/r/InformationTechnology/comments/re92wd/basic_website_development/)
+- [Locked out of epic games account](https://www.reddit.com/r/InformationTechnology/comments/re5h6n/locked_out_of_epic_games_account/)
+- [Network or Cyber Security?](https://www.reddit.com/r/InformationTechnology/comments/re46jj/network_or_cyber_security/)
+- [mi tw earphones](https://www.reddit.com/r/InformationTechnology/comments/rdwv0k/mi_tw_earphones/)
+- [Thoughts on compTIA A+ cert](https://www.reddit.com/r/InformationTechnology/comments/rdph9h/thoughts_on_comptia_a_cert/)
 - [Information Technology may be the best means to help curb and alleviate a lot of the issues with poverty](https://www.reddit.com/r/InformationTechnology/comments/rcuid4/information_technology_may_be_the_best_means_to/)
 - [Infrastructure help](https://www.reddit.com/r/InformationTechnology/comments/rctqam/infrastructure_help/)
 - [Bluetooth History](https://www.reddit.com/r/InformationTechnology/comments/rcjw2b/bluetooth_history/)
 - [What is the way to learn tech and IT when world is overwhelmed by it](https://www.reddit.com/r/InformationTechnology/comments/rcj4dk/what_is_the_way_to_learn_tech_and_it_when_world/)
 - [Give me the problems which are faced by It industry globaly](https://www.reddit.com/r/InformationTechnology/comments/rcfsyz/give_me_the_problems_which_are_faced_by_it/)
-- [New to the field](https://www.reddit.com/r/InformationTechnology/comments/rc8gb7/new_to_the_field/)
-- [Any free certs that someone can get?](https://www.reddit.com/r/InformationTechnology/comments/rc4qsa/any_free_certs_that_someone_can_get/)
-- [Are there any free certificates to earn?](https://www.reddit.com/r/InformationTechnology/comments/rc4qdy/are_there_any_free_certificates_to_earn/)
-- [Fiber Optic Cabling Types and Connectors Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rbvgfb/fiber_optic_cabling_types_and_connectors/)
-- [How did someone&#39;s completely make they messages disappear on Facebook messenger from existence???](https://www.reddit.com/r/InformationTechnology/comments/rbhh40/how_did_someones_completely_make_they_messages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

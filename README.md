@@ -316,16 +316,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22: Australia v England first Test, day four – live!](https://www.theguardian.com/sport/live/2021/dec/11/ashes-2021-22-day-4-four-cricket-australia-vs-england-first-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Truss bills UK G7 meeting as a show of western unity against China and Russia](https://www.theguardian.com/world/2021/dec/11/truss-bills-uk-g7-meeting-as-a-show-of-western-unity-against-china-and-russia)
-- [Trident submariner who died at base named as Stephen Cashman](https://www.theguardian.com/uk-news/2021/dec/10/trident-submariner-25-dies-suddenly-at-naval-base-in-scotland)
-- [Bryan Mbeumo’s last-gasp penalty gives Brentford fightback win over Watford](https://www.theguardian.com/football/2021/dec/10/brentford-watford-premier-league-match-report)
-- [Winter Olympic curling qualifier drops sex toy adverts after US blackout](https://www.theguardian.com/sport/2021/dec/10/winter-olympics-curling-qualifier-sex-toy-adverts-tv-blackout)
-- [Marcus Smith: ‘If you set your mind properly you can almost achieve anything’](https://www.theguardian.com/sport/2021/dec/10/marcus-smith-interview-rugby-union-england-harlequins)
-- [Ghislaine Maxwell gave me nude massage when I was 16, accuser says](https://www.theguardian.com/us-news/2021/dec/10/ghislaine-maxwell-trial-accuser-jeffrey-epstein)
-- [Mark Huband obituary](https://www.theguardian.com/media/2021/dec/10/mark-huband-obituary)
-- [Simon McCoy becomes latest presenter to depart GB News](https://www.theguardian.com/media/2021/dec/10/simon-mccoy-becomes-latest-departure-from-gb-news)
-- [Michael Nesmith, singer and guitarist with the Monkees, dies aged 78](https://www.theguardian.com/music/2021/dec/10/mike-nesmith-singer-and-guitarist-with-the-monkees-dies-aged-78)
+- [Spanish bishop who married author of satanic erotica is stripped of powers](https://www.theguardian.com/world/2021/dec/12/spanish-bishop-who-married-author-of-satanic-erotica-is-stripped-of-powers)
+- [Scientists fear falling trust in Boris Johnson could harm bid to curb Omicron surge](https://www.theguardian.com/world/2021/dec/12/scientists-fear-falling-trust-in-boris-johnson-could-harm-bid-to-curb-omicron-surge)
+- [An interest rate rise in Omicron times? It could just happen](https://www.theguardian.com/business/2021/dec/12/an-interest-rate-rise-in-omicron-times-it-could-just-happen)
+- [Conor Benn’s demolition of Chris Algieri earns roar of approval from Nigel](https://www.theguardian.com/sport/2021/dec/12/conor-benn-demolition-chris-algieri-boxing)
+- [Shine on: add some metallic sparkle this party season](https://www.theguardian.com/fashion/2021/dec/11/shine-on-add-some-metallic-sparkle-this-party-season)
+- [Quo Vadis, Aida? takes best picture at European film awards](https://www.theguardian.com/film/2021/dec/11/quo-vadis-aida-wins-best-film-at-european-film-awards)
+- [Jonny Gray hat-trick inspires Exeter to easy win over Montpellier](https://www.theguardian.com/sport/2021/dec/11/exeter-montpellier-european-champions-cup-rugby-union-match-report)
+- [UK clinics defy guidance and give under-40s their Covid booster jabs now](https://www.theguardian.com/world/2021/dec/11/uk-clinics-defy-guidance-give-under-40s-covid-booster-vaccinations-now)
+- [Chile: candidates battle for moderate votes as presidential race nears end](https://www.theguardian.com/world/2021/dec/11/chile-candidates-battle-for-moderate-votes-as-presidential-race-nears-end)
+- [Saudi film festival is a ‘whitewash’ by authorities, say critics](https://www.theguardian.com/world/2021/dec/11/critics-condemn-saudi-film-festival-as-a-whitewash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

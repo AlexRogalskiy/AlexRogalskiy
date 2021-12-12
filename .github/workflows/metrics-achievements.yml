@@ -21,7 +21,7 @@ jobs:
           user: AlexRogalskiy
           template: classic
           base: ""
-          filename: metrics-achievements.svg
+          filename: ./images/generated/metrics-achievements.svg
           config_timezone: Europe/Moscow
           plugin_achievements: yes
           plugin_achievements_limit: 6

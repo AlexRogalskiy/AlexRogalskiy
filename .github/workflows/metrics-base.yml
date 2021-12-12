@@ -20,6 +20,6 @@ jobs:
           # Options
           user: AlexRogalskiy
           template: classic
-          filename: metrics-base.svg
+          filename: ./images/generated/metrics-base.svg
           base: header, activity, community, repositories
           config_timezone: Europe/Moscow

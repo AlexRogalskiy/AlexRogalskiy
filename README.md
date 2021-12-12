@@ -301,16 +301,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AltTab: Windows Alt-Tab on macOS](https://github.com/lwouis/alt-tab-macos)
-- [Did I get owned by Log4Shell?](https://blog.px.dev/did-i-get-owned-by-log4shell/)
-- [A New Aerogel Could Produce 70 Times More Hydrogen Than Rival Methods](https://interestingengineering.com/a-new-aerogel-could-produce-70-times-more-hydrogen-than-rival-methods)
-- [You shouldn’t believe that new medical study](https://www.vox.com/2015/3/23/8264355/research-study-hype)
-- [B2 Backblaze Offline for Maintenance “for a number of hours”](https://help.backblaze.com/hc/en-us/articles/4412580603419)
-- [Magnus Carlsen retains Chess World Champion title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
-- [KDE Wants to Fix Every Linus Tech Tips Complaint](https://openforeveryone.net/articles/kde-fixing-every-ltt-complaint-plasma-ark/)
-- [Goodbye Category. Hello Movement](https://www.linkedin.com/posts/andyraskin_goodbye-category-hello-movement-got-this-activity-6838485447627436032-3-v8)
-- [Minecraft: Java Edition should be patched immediately after exploit discovered](https://www.pcgamer.com/uk/minecraft-java-edition-should-be-patched-immediately-after-high-severity-exploit-discovered-across-web/)
-- [Author Vanessa Riley is chronicling the real lives of Regency women of color](https://austenconnection.substack.com/p/the-podcast-s2-ep5-regency-women)
+- [NewLimit: a company built to extend human healthspan](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
+- [Nothing Ear &lpar;1&rpar; Teardown](https://www.ifixit.com/Teardown/Nothing+ear+(1)+Teardown/145624)
+- [Genetic factor may soften Covid blow for Japanese: study](https://asia.nikkei.com/Spotlight/Coronavirus/Genetic-factor-may-soften-COVID-blow-for-Japanese-study)
+- [George Orwell Outside the Whale](https://www.newstatesman.com/culture/books/2021/12/george-orwell-outside-the-whale)
+- [Get rid of the annoying Safari notification ads in macOS &lpar;2014&rpar;](https://www.ctrl.blog/entry/how-to-osx-try-safari-promotion.html)
+- [Destination Moon: A 70th Anniversary Appreciation &lpar;2020&rpar;](https://www.centauri-dreams.org/2020/06/12/destination-moon-a-70th-anniversary-appreciation/)
+- [Busting Bias](https://www.youtube.com/watch?v=ppqcNCmoUTI)
+- [The impact of AI on the future of insurance](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
+- [FOIA Lawsuit Data on Pfizer Vaccine Adverse Events [pdf]](https://phmpt.org/wp-content/uploads/2021/11/5.3.6-postmarketing-experience.pdf)
+- [Julian Assange suffers stroke while in prison](https://twitter.com/wikileaks/status/1469791896268587011)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- [The state of Washington pays multimillion dollar salaries to college coaches](http://fiscal.wa.gov/salaries.aspx)
-- [Ancient Spartans didn’t kill ‘weak’ babies, new study argues](https://www.science.org/content/article/ancient-greeks-didn-t-kill-weak-babies-new-study-argues)
-- [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
-- [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
-- [“Steve J called, we *can* deliver a Mac to Mick Jagger tomorrow..”](https://www.folklore.org/StoryView.py?project=Macintosh&story=A_Mac_For_Mick.txt&sortOrder=Sort+by+Date)
-- [Tiny primate may join the ranks of the world’s model organisms](https://www.economist.com/science-and-technology/a-tiny-primate-may-join-the-ranks-of-the-worlds-model-organisms/21806681)
-- [Moore&#39;s Law, AI, and the pace of progress](https://www.lesswrong.com/posts/aNAFrGbzXddQBMDqh/moore-s-law-ai-and-the-pace-of-progress)
-- [Thermoelectric Stoves: Ditch the Solar Panels? &lpar;2020&rpar;](https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html)
-- [Creating a Better Leaf: Tinkering with Photosynthesis](https://www.newyorker.com/magazine/2021/12/13/creating-a-better-leaf)
+- [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
+- [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring ML research engineers &lpar;remote, SF&rpar;](https://news.ycombinator.com/item?id=29535427)
+- [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
+- [Americans overestimate social mobility in their country](https://www.economist.com/graphic-detail/2018/02/14/americans-overestimate-social-mobility-in-their-country)
+- [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
+- [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
+- [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
+- [Show HN: FileFlows – file processing Docker application](https://fileflows.com)
+- [The Matrix Is Unreal](https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

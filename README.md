@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Spanish bishop who married author of satanic erotica is stripped of powers](https://www.theguardian.com/world/2021/dec/12/spanish-bishop-who-married-author-of-satanic-erotica-is-stripped-of-powers)
-- [Scientists fear falling trust in Boris Johnson could harm bid to curb Omicron surge](https://www.theguardian.com/world/2021/dec/12/scientists-fear-falling-trust-in-boris-johnson-could-harm-bid-to-curb-omicron-surge)
-- [An interest rate rise in Omicron times? It could just happen](https://www.theguardian.com/business/2021/dec/12/an-interest-rate-rise-in-omicron-times-it-could-just-happen)
-- [Conor Benn’s demolition of Chris Algieri earns roar of approval from Nigel](https://www.theguardian.com/sport/2021/dec/12/conor-benn-demolition-chris-algieri-boxing)
-- [Shine on: add some metallic sparkle this party season](https://www.theguardian.com/fashion/2021/dec/11/shine-on-add-some-metallic-sparkle-this-party-season)
-- [Quo Vadis, Aida? takes best picture at European film awards](https://www.theguardian.com/film/2021/dec/11/quo-vadis-aida-wins-best-film-at-european-film-awards)
-- [Jonny Gray hat-trick inspires Exeter to easy win over Montpellier](https://www.theguardian.com/sport/2021/dec/11/exeter-montpellier-european-champions-cup-rugby-union-match-report)
-- [UK clinics defy guidance and give under-40s their Covid booster jabs now](https://www.theguardian.com/world/2021/dec/11/uk-clinics-defy-guidance-give-under-40s-covid-booster-vaccinations-now)
-- [Chile: candidates battle for moderate votes as presidential race nears end](https://www.theguardian.com/world/2021/dec/11/chile-candidates-battle-for-moderate-votes-as-presidential-race-nears-end)
-- [Saudi film festival is a ‘whitewash’ by authorities, say critics](https://www.theguardian.com/world/2021/dec/11/critics-condemn-saudi-film-festival-as-a-whitewash)
+- [Experts warn Papua New Guinea is potential breeding ground for new Covid variants](https://www.theguardian.com/world/2021/dec/13/experts-warn-papua-new-guinea-is-potential-breeding-ground-for-new-covid-variants)
+- [One in three UK small firms plan major staff cuts, survey reveals](https://www.theguardian.com/business/2021/dec/13/one-in-three-uk-small-firms-plan-major-staff-cuts-survey-reveals)
+- [Cabaret review – Eddie Redmayne is electric in this blinder of a show](https://www.theguardian.com/stage/2021/dec/13/cabaret-review-eddie-redmayne-playhouse-theatre)
+- [UK housing market forecast for 2022? Busy, but less frenetic](https://www.theguardian.com/business/2021/dec/13/uk-housing-market-forecast-for-2022-busy-but-less-frenetic)
+- [New Zealand authorities investigate claims man received 10 Covid vaccinations in one day](https://www.theguardian.com/world/2021/dec/13/new-zealand-authorities-investigate-claims-man-received-10-covid-vaccinations-in-one-day)
+- [Met police searching for missing Petra Srncova find body in park](https://www.theguardian.com/uk-news/2021/dec/12/police-searching-for-missing-petra-srncova-find-body-in-park)
+- [Karim Benzema and Asensio fire Real Madrid to derby glory over Atlético](https://www.theguardian.com/football/2021/dec/12/real-madrid-atletico-madrid-la-liga-match-report)
+- [Kentucky tornadoes: fears death toll from record twisters could exceed 100](https://www.theguardian.com/us-news/2021/dec/12/kentucky-tornadoes-death-toll)
+- [Time to fess up over Downing Street parties, Labour tells Boris Johnson](https://www.theguardian.com/politics/2021/dec/12/time-to-fess-up-over-downing-street-parties-labour-tells-boris-johnson)
+- [Close to Me review – Christopher Eccleston’s hairdo says it all in amnesia thriller’s finale](https://www.theguardian.com/tv-and-radio/2021/dec/12/close-to-me-review-christopher-ecclestons-hairdo-says-it-all-in-amnesia-thrillers-finale)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

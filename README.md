@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NewLimit: a company built to extend human healthspan](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
-- [Nothing Ear &lpar;1&rpar; Teardown](https://www.ifixit.com/Teardown/Nothing+ear+(1)+Teardown/145624)
-- [Genetic factor may soften Covid blow for Japanese: study](https://asia.nikkei.com/Spotlight/Coronavirus/Genetic-factor-may-soften-COVID-blow-for-Japanese-study)
-- [George Orwell Outside the Whale](https://www.newstatesman.com/culture/books/2021/12/george-orwell-outside-the-whale)
-- [Get rid of the annoying Safari notification ads in macOS &lpar;2014&rpar;](https://www.ctrl.blog/entry/how-to-osx-try-safari-promotion.html)
-- [Destination Moon: A 70th Anniversary Appreciation &lpar;2020&rpar;](https://www.centauri-dreams.org/2020/06/12/destination-moon-a-70th-anniversary-appreciation/)
-- [Busting Bias](https://www.youtube.com/watch?v=ppqcNCmoUTI)
-- [The impact of AI on the future of insurance](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
-- [FOIA Lawsuit Data on Pfizer Vaccine Adverse Events [pdf]](https://phmpt.org/wp-content/uploads/2021/11/5.3.6-postmarketing-experience.pdf)
-- [Julian Assange suffers stroke while in prison](https://twitter.com/wikileaks/status/1469791896268587011)
+- [The Fifth Age of Oil](https://www.lynalden.com/december-2021-newsletter/)
+- [Transparent Textures](https://www.transparenttextures.com/)
+- [Smoothed U.S. Recession Probabilities &lpar;1 month later&rpar;](https://news.ycombinator.com/item?id=29535807)
+- [I Self-Published My First Technical Book](https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html)
+- [No Floating Promises: an eslint rule to prevent async code errors](https://mikebifulco.com/posts/eslint-no-floating-promises)
+- [Why aren&#39;t the most useful Mac apps on the App Store?](https://alinpanaitiu.com/blog/apps-outside-app-store/)
+- [Apple Set to Release Nudity Detection in Texting, Other Features Remain on Hold](https://www.bloomberg.com/news/newsletters/2021-12-12/what-s-in-apple-s-ios-15-2-ipados-15-2-nude-image-detection-legacy-contacts-kx3m3nmb)
+- [Linus Torvalds Is Giving It All Away &lpar;1997&rpar;](https://www.metroactive.com/papers/metro/05.08.97/cover/linus-9719.html)
+- [The Books I Read In 2021](https://themakingofamillionaire.com/the-books-i-read-in-2021-6833117bd0a7?gi=ffd0f1a639cb)
+- [Visualization of American Incarceration Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

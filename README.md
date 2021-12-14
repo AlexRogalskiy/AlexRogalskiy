@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [A roadmap for digital leadership](https://www.itworldcanada.com/article/a-roadmap-for-digital-leadership/468352)
+- [Making a difference in the new hybrid workplace: A changing role for IT](https://www.itworldcanada.com/article/making-a-difference-in-the-new-hybrid-workplace-a-changing-role-for-it/468346)
+- [Walmart Canada launches Interac debit payments for ecommerce shopping](https://www.itworldcanada.com/article/walmart-canada-launches-interac-debit-payments-for-ecommerce-shopping/468029)
+- [Canadian websites temporarily shut down as world scrambles to mitigate or patch Log4Shell vulnerability](https://www.itworldcanada.com/article/canadian-websites-temporarily-shut-down-as-world-scrambles-to-mitigate-or-patch-log4shell-vulnerability/468264)
+- [Cyber Security Today, Dec. 13, 2021 – The hunt for apps with log4j vulnerabilities continues, new threat and ransomware groups discovered and a warning to WordPress admins](https://www.itworldcanada.com/article/cyber-security-today-dec-13-2021-the-hunt-for-apps-with-log4j-vulnerabilities-continues-new-threat-and-ransomware-groups-discovered-and-a-warning-to-wordpress-admins/468260)
+- [Hashtag Trending Dec. 13 – Fully self-driving cars; Activision strike; DDR5 memory scalping](https://www.itworldcanada.com/article/hashtag-trending-dec-13-fully-self-driving-cars-activision-strike-ddr5-memory-scalping/468277)
 - [Three new payment card skimmers found aimed at WooCommerce installations](https://www.itworldcanada.com/article/three-new-payment-card-skimmers-found-aimed-at-woocommerce-installations/468191)
 - [It could take years for applications using vulnerable version of Java log4j library to be patched, says expert](https://www.itworldcanada.com/article/it-could-take-years-for-applications-using-vulnerable-version-of-java-log4j-library-to-be-patched-says-expert/468238)
 - [Cyber Security Today, Week in Review for December 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-december-10-2021/468018)
 - [Cyber Security Today, Dec. 10, 2021 – E-commerce websites infected through a Google utility, poor OAuth implementation leads to hacks, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-10-2021-e-commerce-websites-infected-through-a-google-utility-poor-oauth-implementation-leads-to-hacks-and-more/468076)
-- [Hashtag Trending Dec. 10 – Amazon Fined by Italy; Instagram Chronological Timeline Return; Metaverse Privacy Concerns](https://www.itworldcanada.com/article/hashtag-trending-dec-10-amazon-fined-by-italy-instagram-chronological-timeline-return-metaverse-privacy-concerns/468087)
-- [Zayo announces network expansions in Toronto](https://www.itworldcanada.com/article/zayo-announces-network-expansions-in-toronto/468031)
-- [Canada’s privacy commissioner urges Parliament to reform privacy law](https://www.itworldcanada.com/article/canadas-privacy-commissioner-urges-parliament-to-reform-privacy-law/467983)
-- [Canadian firms lagging in zero trust, SASE architectures, survey suggests](https://www.itworldcanada.com/article/canadian-firms-lagging-in-zero-trust-sase-architectures-survey-suggests/467745)
-- [Deeper Dive 5G: Beginning With the End in Mind: How to Prepare for 5G &lpar;Episode 5&rpar;](https://www.itworldcanada.com/article/beginning-with-the-end-in-mind-how-to-prepare-for-5g/468007)
-- [Deeper Dive 5G: Making a Difference Right Now: Real World Examples of 5G &lpar;Episode 4&rpar;](https://www.itworldcanada.com/article/making-a-difference-right-now-real-world-examples-of-5g/467994)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

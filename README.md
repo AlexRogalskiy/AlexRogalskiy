@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Information Technology &amp; Cyber Security](https://www.reddit.com/r/InformationTechnology/comments/rfpcpd/information_technology_cyber_security/)
+- [IT Roles that deal with end users](https://www.reddit.com/r/InformationTechnology/comments/rfhzt0/it_roles_that_deal_with_end_users/)
+- [Gpu is always 100%](https://www.reddit.com/r/InformationTechnology/comments/rfg7yq/gpu_is_always_100/)
+- [Windows ISO file](https://www.reddit.com/r/InformationTechnology/comments/rfdqje/windows_iso_file/)
 - [8GB ECC RAM vs 32GB ECC RAM - Is the performance increase worth the cost?](https://www.reddit.com/r/InformationTechnology/comments/rf0l9g/8gb_ecc_ram_vs_32gb_ecc_ram_is_the_performance/)
 - [How can I get an internship with my information technology degree and what skills are in demand to have a god IT career.](https://www.reddit.com/r/InformationTechnology/comments/reso9n/how_can_i_get_an_internship_with_my_information/)
 - [Healthcare IT](https://www.reddit.com/r/InformationTechnology/comments/reqb1s/healthcare_it/)
 - [Has anyone transitioned from pharmacy to healthcare IT?](https://www.reddit.com/r/InformationTechnology/comments/reob2x/has_anyone_transitioned_from_pharmacy_to/)
 - [Basic website development](https://www.reddit.com/r/InformationTechnology/comments/re92wd/basic_website_development/)
 - [Locked out of epic games account](https://www.reddit.com/r/InformationTechnology/comments/re5h6n/locked_out_of_epic_games_account/)
-- [Network or Cyber Security?](https://www.reddit.com/r/InformationTechnology/comments/re46jj/network_or_cyber_security/)
-- [Thoughts on compTIA A+ cert](https://www.reddit.com/r/InformationTechnology/comments/rdph9h/thoughts_on_comptia_a_cert/)
-- [Information Technology may be the best means to help curb and alleviate a lot of the issues with poverty](https://www.reddit.com/r/InformationTechnology/comments/rcuid4/information_technology_may_be_the_best_means_to/)
-- [Infrastructure help](https://www.reddit.com/r/InformationTechnology/comments/rctqam/infrastructure_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Oxford City Council services back online after weekend outage at SCC datacentre](https://www.computerweekly.com/news/252510877/Oxford-City-Council-services-back-online-after-weekend-outage-at-SCC-datacentre)
+- [Industry group aims to tackle energy-efficient software development](https://www.computerweekly.com/news/252510873/Industry-group-aims-to-tackle-energy-efficient-software-development)
+- [Scottish government announces support for right to disconnect](https://www.computerweekly.com/news/252510870/Scottish-government-announces-support-for-right-to-disconnect)
+- [What is Log4Shell, and why are we panicking about it?](https://www.computerweekly.com/news/252510860/What-is-Log4Shell-and-why-are-we-panicking-about-it)
+- [Security Think Tank: There’s much more to do to secure hybrid workers](https://www.computerweekly.com/opinion/Security-Think-Tank-Theres-much-more-to-do-to-secure-hybrid-workers)
 - [SMEs dominate list of 200 fastest growing tech companies](https://www.computerweekly.com/news/252510788/SMEs-dominate-list-of-200-fastest-growing-tech-companies)
 - [Julian Assange can be extradited to the US to face espionage and hacking charges, court rules](https://www.computerweekly.com/news/252510785/Julian-Assange-can-be-extradited-to-the-US-to-face-espionage-and-hacking-charges-court-rules)
 - [Singapore and UK sign digital trade deal](https://www.computerweekly.com/news/252510782/Singapore-and-UK-sign-digital-trade-deal)
 - [Drone killer app saves Swedish lives](https://www.computerweekly.com/news/252510715/Drone-killer-app-saves-Swedish-lives)
 - [C-suite’s biggest ransomware fear: Post-attack regulatory sanctions](https://www.computerweekly.com/news/252510780/C-suites-biggest-ransomware-fear-Post-attack-regulatory-sanctions)
-- [Channeling Nordic startup innovation towards global survival](https://www.computerweekly.com/news/252510781/Channeling-Nordic-startup-innovation-towards-global-survival)
-- [Finland looks to democratise the ‘wild west’ of artificial intelligence](https://www.computerweekly.com/news/252510587/Finland-looks-to-democratise-the-wild-west-of-artificial-intelligence)
-- [UAE joins the race to produce a usable quantum computer](https://www.computerweekly.com/news/252510779/UAE-joins-the-race-to-produce-a-usable-quantum-computer)
-- [Retailers as tech firms: Next, The Very Group and others see power in the platform](https://www.computerweekly.com/feature/Retailers-as-tech-firms-Next-The-Very-Group-and-others-see-power-in-the-platform)
-- [PAC scrutinises failure of large government IT modernisation projects](https://www.computerweekly.com/news/252510771/PAC-scrutinises-failure-of-large-government-IT-modernisation-projects)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

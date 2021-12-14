@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Fifth Age of Oil](https://www.lynalden.com/december-2021-newsletter/)
-- [Transparent Textures](https://www.transparenttextures.com/)
-- [Smoothed U.S. Recession Probabilities &lpar;1 month later&rpar;](https://news.ycombinator.com/item?id=29535807)
-- [I Self-Published My First Technical Book](https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html)
-- [No Floating Promises: an eslint rule to prevent async code errors](https://mikebifulco.com/posts/eslint-no-floating-promises)
-- [Why aren&#39;t the most useful Mac apps on the App Store?](https://alinpanaitiu.com/blog/apps-outside-app-store/)
-- [Apple Set to Release Nudity Detection in Texting, Other Features Remain on Hold](https://www.bloomberg.com/news/newsletters/2021-12-12/what-s-in-apple-s-ios-15-2-ipados-15-2-nude-image-detection-legacy-contacts-kx3m3nmb)
-- [Linus Torvalds Is Giving It All Away &lpar;1997&rpar;](https://www.metroactive.com/papers/metro/05.08.97/cover/linus-9719.html)
-- [The Books I Read In 2021](https://themakingofamillionaire.com/the-books-i-read-in-2021-6833117bd0a7?gi=ffd0f1a639cb)
-- [Visualization of American Incarceration Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+- [Scaling and automating remediation efforts for Log4j with code search](https://about.sourcegraph.com/blog/log4j-log4shell-0-day/)
+- [Ireland’s Public Healthcare Ransomware Scare](https://krebsonsecurity.com/2021/12/inside-irelands-public-healthcare-ransomware-scare/)
+- [Biden unveils plan to build 500k EV charging stations across the U.S.](https://www.cnbc.com/video/2021/12/13/biden-unveils-plan-to-build-500000-ev-charging-stations-across-the-us.html)
+- [Verizon&#39;s &quot;Custom Experience&quot; Is Data Collection in Disguise](https://www.howtogeek.com/772439/verizons-custom-experience-is-data-collection-in-disguise/)
+- [This is DOP &lpar;French&rpar;](https://techblog.deepki.com//data-oriented-programming/)
+- [WanderApp – Shake your hand to cast Harry Potter Spells with gyroscope data only](https://github.com/corupta/wander-app)
+- [Derw: An Elm-inspired language that transpiles to TypeScript](https://github.com/eeue56/derw)
+- [The Log4j Vulnerability Will Haunt the Internet for Years](https://www.wired.com/story/log4j-log4shell/)
+- [Sk00l M3 ASM](https://web.archive.org/web/20030405042300/http://blacksun.box.sk/tutorials.php?id=84)
+- [Quarantine hotel escapees arrested in Netherlands as EU enforces Covid measures](https://www.washingtonpost.com/world/2021/11/29/couple-arrested-coronavirus-quarantine-netherlands/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

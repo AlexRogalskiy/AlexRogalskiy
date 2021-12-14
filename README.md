@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [After a rocky year for patching, a look ahead to ‘22](https://www.computerworld.com/article/3644275/after-a-rocky-year-for-patching-a-look-ahead-to-22.html#tk.rss_all)
+- [2021 — the year Apple became a big player in enterprise tech](https://www.computerworld.com/article/3644494/2021-the-year-apple-became-a-big-player-in-enterprise-tech.html#tk.rss_all)
+- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
+- [11 smart steps for managing files on a Chromebook](https://www.computerworld.com/article/3643311/how-to-manage-files-on-chromebook.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How will we use Apple&#39;s AR glasses — and with what UI?](https://www.computerworld.com/article/3644413/how-will-we-use-apples-ar-glasses-and-with-what-ui.html#tk.rss_all)
 - [The way to better collaboration: define the problem, craft a solution](https://www.computerworld.com/article/3644272/the-way-to-better-collaboration-define-the-problem-craft-a-solution.html#tk.rss_all)
 - [Smart leaders seize the opportunity to rethink the workplace](https://www.computerworld.com/article/3644268/smart-leaders-seize-the-opportunity-to-rethink-the-workplace.html#tk.rss_all)
 - [Using DISM to install Windows updates](https://www.computerworld.com/article/3643309/using-dism-to-install-windows-updates.html#tk.rss_all)
 - [6 easy fixes for Android 12 annoyances](https://www.computerworld.com/article/3643890/android-12-fixes.html#tk.rss_all)
-- [US IT job recovery is in full swing, but employee retention can be tenuous](https://www.computerworld.com/article/3542681/us-it-job-recovery-is-in-full-swing-but-employee-retention-can-be-tenuous.html#tk.rss_all)
-- [Apple should enforce the App Store privacy promise](https://www.computerworld.com/article/3644428/apple-should-enforce-the-app-store-privacy-promise.html#tk.rss_all)
-- [AWS outage hit collaboration vendors, highlights risk of cloud-based tools](https://www.computerworld.com/article/3644370/aws-outage-hit-collaboration-vendors-highlights-risk-of-cloud-based-tools.html#tk.rss_all)
-- [Podcast: What users can expect from Apple in 2022](https://www.computerworld.com/article/3644148/podcast-what-users-can-expect-from-apple-in-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

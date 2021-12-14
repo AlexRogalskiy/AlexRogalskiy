@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Experts warn Papua New Guinea is potential breeding ground for new Covid variants](https://www.theguardian.com/world/2021/dec/13/experts-warn-papua-new-guinea-is-potential-breeding-ground-for-new-covid-variants)
-- [One in three UK small firms plan major staff cuts, survey reveals](https://www.theguardian.com/business/2021/dec/13/one-in-three-uk-small-firms-plan-major-staff-cuts-survey-reveals)
-- [Cabaret review – Eddie Redmayne is electric in this blinder of a show](https://www.theguardian.com/stage/2021/dec/13/cabaret-review-eddie-redmayne-playhouse-theatre)
-- [UK housing market forecast for 2022? Busy, but less frenetic](https://www.theguardian.com/business/2021/dec/13/uk-housing-market-forecast-for-2022-busy-but-less-frenetic)
-- [New Zealand authorities investigate claims man received 10 Covid vaccinations in one day](https://www.theguardian.com/world/2021/dec/13/new-zealand-authorities-investigate-claims-man-received-10-covid-vaccinations-in-one-day)
-- [Met police searching for missing Petra Srncova find body in park](https://www.theguardian.com/uk-news/2021/dec/12/police-searching-for-missing-petra-srncova-find-body-in-park)
-- [Karim Benzema and Asensio fire Real Madrid to derby glory over Atlético](https://www.theguardian.com/football/2021/dec/12/real-madrid-atletico-madrid-la-liga-match-report)
-- [Kentucky tornadoes: fears death toll from record twisters could exceed 100](https://www.theguardian.com/us-news/2021/dec/12/kentucky-tornadoes-death-toll)
-- [Time to fess up over Downing Street parties, Labour tells Boris Johnson](https://www.theguardian.com/politics/2021/dec/12/time-to-fess-up-over-downing-street-parties-labour-tells-boris-johnson)
-- [Close to Me review – Christopher Eccleston’s hairdo says it all in amnesia thriller’s finale](https://www.theguardian.com/tv-and-radio/2021/dec/12/close-to-me-review-christopher-ecclestons-hairdo-says-it-all-in-amnesia-thrillers-finale)
+- [Covid live: Mainland China reports first Omicron cases; Norway to tighten restrictions](https://www.theguardian.com/world/live/2021/dec/13/covid-news-live-boris-johnson-warns-of-omicron-tidal-wave-south-african-president-tests-positive)
+- [Biden and Manchin to meet amid race to pass Build Back Better agenda – live](https://www.theguardian.com/us-news/live/2021/dec/13/biden-manchin-democrats-build-back-better-agenda-us-politics-live)
+- [Structural racism at London School of Hygiene &amp; Tropical Medicine, finds report](https://www.theguardian.com/education/2021/dec/13/structural-racism-at-london-school-of-hygiene-tropical-medicine-finds-report)
+- [‘So depressing’: Covid empties City of London of pre-Christmas cheer](https://www.theguardian.com/world/2021/dec/13/so-depressing-covid-empties-city-of-london-of-pre-christmas-cheer)
+- [Money problems: how wealth on television became miserable this year](https://www.theguardian.com/tv-and-radio/2021/dec/13/money-problems-wealth-television-miserable-this-year)
+- [Instagram disabled artist’s @metaverse handle after Facebook rebranded to Meta](https://www.theguardian.com/technology/2021/dec/13/metaverse-facebook-instagram-handle-disabled-artist)
+- [Are superfast grocery delivery apps bad for society? They certainly lead to a lot of arguments | Zoe Williams](https://www.theguardian.com/commentisfree/2021/dec/13/are-superfast-grocery-delivery-apps-bad-for-society-they-certainly-lead-to-a-lot-of-arguments)
+- [Accused said Colston statue was ‘an abhorrent offence’ to Bristol, trial hears](https://www.theguardian.com/uk-news/2021/dec/13/accused-said-edward-colston-statue-was-an-abhorrent-offence-to-bristol-trial-hears)
+- [Quizmaster Johnson leaves Javid to answer the awkward questions | John Crace](https://www.theguardian.com/politics/2021/dec/13/quizmaster-johnson-leaves-javid-to-answer-the-awkward-questions)
+- [USA Gymnastics and USOPC reach $380m settlement with Nassar abuse survivors](https://www.theguardian.com/sport/2021/dec/13/usa-gymnastics-usopc-larry-nassar-lawsuit-settlement)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

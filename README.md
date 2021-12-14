@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
-- [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring ML research engineers &lpar;remote, SF&rpar;](https://news.ycombinator.com/item?id=29535427)
-- [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
-- [Americans overestimate social mobility in their country](https://www.economist.com/graphic-detail/2018/02/14/americans-overestimate-social-mobility-in-their-country)
-- [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
-- [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
-- [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
-- [Show HN: FileFlows – file processing Docker application](https://fileflows.com)
-- [The Matrix Is Unreal](https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/)
+- [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
+- [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
+- [Some thoughts on writing](https://danluu.com/writing-non-advice/)
+- [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
+- [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
+- [Leaving Quora after 10 years of answering questions](http://exquora.thoughtstorms.info/)
+- [The Scientific Paper is Obsolete &lpar;2018&rpar;](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+- [Sonic the Hedgehog for Commodore 64/128 + REU](https://www.lemon64.com/forum/viewtopic.php?t=78945)
+- [What a progressive utopia does to outdoor dining](https://www.theatlantic.com/ideas/archive/2021/12/california-san-francisco-outdoor-dining-progressive-utopia/620974/)
+- [The Hazards of Industrial Research](https://www.thearticle.com/the-hazards-of-industrial-research)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

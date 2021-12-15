@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
-- [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
-- [Some thoughts on writing](https://danluu.com/writing-non-advice/)
-- [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
-- [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
-- [Leaving Quora after 10 years of answering questions](http://exquora.thoughtstorms.info/)
-- [The Scientific Paper is Obsolete &lpar;2018&rpar;](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
-- [Sonic the Hedgehog for Commodore 64/128 + REU](https://www.lemon64.com/forum/viewtopic.php?t=78945)
-- [What a progressive utopia does to outdoor dining](https://www.theatlantic.com/ideas/archive/2021/12/california-san-francisco-outdoor-dining-progressive-utopia/620974/)
-- [The Hazards of Industrial Research](https://www.thearticle.com/the-hazards-of-industrial-research)
+- [DevCycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [Cash Glut in Eurozone Drives Dollar Demand](https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801)
+- [Pico CSS Framework](https://picocss.com/)
+- [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
+- [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
+- [Foot: A fast and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
+- [New-Age Bullshit Generator](https://sebpearce.com/bullshit/)
+- [Building an Autonomous Generative Art Collection with P5.js](https://richtabor.com/generative-art/)
+- [XXH: Bring your favorite shell wherever you go through the SSH](https://github.com/xxh/xxh)
+- [Go Replaces Interface{} with &#39;Any&#39;](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

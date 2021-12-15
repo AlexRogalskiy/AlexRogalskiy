@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live: Mainland China reports first Omicron cases; Norway to tighten restrictions](https://www.theguardian.com/world/live/2021/dec/13/covid-news-live-boris-johnson-warns-of-omicron-tidal-wave-south-african-president-tests-positive)
-- [Biden and Manchin to meet amid race to pass Build Back Better agenda – live](https://www.theguardian.com/us-news/live/2021/dec/13/biden-manchin-democrats-build-back-better-agenda-us-politics-live)
-- [Structural racism at London School of Hygiene &amp; Tropical Medicine, finds report](https://www.theguardian.com/education/2021/dec/13/structural-racism-at-london-school-of-hygiene-tropical-medicine-finds-report)
-- [‘So depressing’: Covid empties City of London of pre-Christmas cheer](https://www.theguardian.com/world/2021/dec/13/so-depressing-covid-empties-city-of-london-of-pre-christmas-cheer)
-- [Money problems: how wealth on television became miserable this year](https://www.theguardian.com/tv-and-radio/2021/dec/13/money-problems-wealth-television-miserable-this-year)
-- [Instagram disabled artist’s @metaverse handle after Facebook rebranded to Meta](https://www.theguardian.com/technology/2021/dec/13/metaverse-facebook-instagram-handle-disabled-artist)
-- [Are superfast grocery delivery apps bad for society? They certainly lead to a lot of arguments | Zoe Williams](https://www.theguardian.com/commentisfree/2021/dec/13/are-superfast-grocery-delivery-apps-bad-for-society-they-certainly-lead-to-a-lot-of-arguments)
-- [Accused said Colston statue was ‘an abhorrent offence’ to Bristol, trial hears](https://www.theguardian.com/uk-news/2021/dec/13/accused-said-edward-colston-statue-was-an-abhorrent-offence-to-bristol-trial-hears)
-- [Quizmaster Johnson leaves Javid to answer the awkward questions | John Crace](https://www.theguardian.com/politics/2021/dec/13/quizmaster-johnson-leaves-javid-to-answer-the-awkward-questions)
-- [USA Gymnastics and USOPC reach $380m settlement with Nassar abuse survivors](https://www.theguardian.com/sport/2021/dec/13/usa-gymnastics-usopc-larry-nassar-lawsuit-settlement)
+- [Coronavirus live: US Covid deaths reach new high; Omicron poses threat – as it happened](https://www.theguardian.com/world/live/2021/dec/14/covid-news-live-us-coronavirus-cases-surpass-50m-china-reports-first-omicron-case)
+- [Capitol attack a ‘coordinated act of terrorism’, says DC lawsuit against far-right groups – as it happened](https://www.theguardian.com/us-news/live/2021/dec/14/capitol-attack-panel-mark-meadows-donald-trump-joe-biden-us-politics-lates-news)
+- [Paris taxi firm suspends use of Tesla Model 3 cars after fatal accident](https://www.theguardian.com/technology/2021/dec/15/paris-taxi-firm-suspends-use-of-tesla-model-3-cars-after-fatal-accident)
+- [Nasa’s solar probe ‘touches’ sun for first time, dives into unexplored atmosphere](https://www.theguardian.com/science/2021/dec/14/nasa-solar-probe-touches-sun-first-time)
+- [Gas crisis fuels call for UK to update energy security policy](https://www.theguardian.com/business/2021/dec/15/gas-crisis-fuels-call-for-uk-to-update-energy-security-policy)
+- [Yorkshire windmill added to England’s National Heritage list](https://www.theguardian.com/culture/2021/dec/15/yorkshire-lelley-windmill-england-national-heritage-list)
+- [Bring It On: The Musical review – Lin-Manuel Miranda leads the cheer](https://www.theguardian.com/stage/2021/dec/14/bring-it-on-the-musical-review-lin-manuel-miranda-amber-davies-louis-smith)
+- [Epstein settlement ‘shielding’ Prince Andrew should be public, judge says](https://www.theguardian.com/uk-news/2021/dec/14/prince-andrew-jeffrey-epstein-settlement)
+- [Wiltshire officer dismissed over sexual relationship with vulnerable woman](https://www.theguardian.com/uk-news/2021/dec/14/wiltshire-police-officer-dismissed-after-gross-misconduct-hearing)
+- [Naughty &amp; Nice: Sex Toy Britain review – fistfuls of fun](https://www.theguardian.com/tv-and-radio/2021/dec/14/naughty-nice-sex-toy-britain-review-fistfuls-of-fun)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

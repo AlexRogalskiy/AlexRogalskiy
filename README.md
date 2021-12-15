@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Multibillion-dollar quantum opportunities if error rate recedes](https://www.computerweekly.com/news/252510933/Multibillion-dollar-quantum-opportunities-if-error-rate-recedes)
+- [Almost half of networks probed for Log4Shell weaknesses](https://www.computerweekly.com/news/252510939/Almost-half-of-networks-probed-for-Log4Shell-weaknesses)
+- [Joint committee publishes report on improving Online Safety Bill](https://www.computerweekly.com/news/252510934/Joint-committee-publishes-report-on-improving-Online-Safety-Bill)
+- [Security Think Tank: We are failing to get the cyber message across to users](https://www.computerweekly.com/opinion/Security-Think-Tank-We-are-failing-to-get-the-cyber-message-across-to-users)
+- [Lords urge regulators to evolve as digital change accelerates](https://www.computerweekly.com/news/252510884/Lords-urge-regulators-to-evolve-as-digital-change-accelerates)
+- [Government must go further after agreeing to pay compensation for wrongly convicted subpostmasters](https://www.computerweekly.com/news/252510928/Government-must-go-further-after-agreeing-to-pay-compensation-for-wrongly-convicted-subpostmasters)
+- [IT priorities 2022: Ransomware and cloud drive storage and backup](https://www.computerweekly.com/news/252510871/IT-priorities-2022-Ransomware-and-cloud-drive-storage-and-backup)
+- [The rules for a safer internet](https://www.computerweekly.com/ezine/Computer-Weekly/The-rules-for-a-safer-internet)
 - [Oxford City Council services back online after weekend outage at SCC datacentre](https://www.computerweekly.com/news/252510877/Oxford-City-Council-services-back-online-after-weekend-outage-at-SCC-datacentre)
 - [Industry group aims to tackle energy-efficient software development](https://www.computerweekly.com/news/252510873/Industry-group-aims-to-tackle-energy-efficient-software-development)
-- [Scottish government announces support for right to disconnect](https://www.computerweekly.com/news/252510870/Scottish-government-announces-support-for-right-to-disconnect)
-- [What is Log4Shell, and why are we panicking about it?](https://www.computerweekly.com/news/252510860/What-is-Log4Shell-and-why-are-we-panicking-about-it)
-- [Security Think Tank: There’s much more to do to secure hybrid workers](https://www.computerweekly.com/opinion/Security-Think-Tank-Theres-much-more-to-do-to-secure-hybrid-workers)
-- [SMEs dominate list of 200 fastest growing tech companies](https://www.computerweekly.com/news/252510788/SMEs-dominate-list-of-200-fastest-growing-tech-companies)
-- [Julian Assange can be extradited to the US to face espionage and hacking charges, court rules](https://www.computerweekly.com/news/252510785/Julian-Assange-can-be-extradited-to-the-US-to-face-espionage-and-hacking-charges-court-rules)
-- [Singapore and UK sign digital trade deal](https://www.computerweekly.com/news/252510782/Singapore-and-UK-sign-digital-trade-deal)
-- [Drone killer app saves Swedish lives](https://www.computerweekly.com/news/252510715/Drone-killer-app-saves-Swedish-lives)
-- [C-suite’s biggest ransomware fear: Post-attack regulatory sanctions](https://www.computerweekly.com/news/252510780/C-suites-biggest-ransomware-fear-Post-attack-regulatory-sanctions)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

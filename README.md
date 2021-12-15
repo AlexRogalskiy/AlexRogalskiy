@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Leveraging AIOps in the Finance Industry](https://www.informationweek.com/fintech/leveraging-aiops-in-the-finance-industry)
+- [Why Relationships with Your Tech Service Providers Might Be Waning](https://www.informationweek.com/it-life/why-relationships-with-your-tech-service-providers-might-be-waning)
 - [An Insider&#39;s View of Humana&#39;s AI Program](https://www.informationweek.com/big-data/an-insiders-view-of-humanas-ai-program)
 - [Why Sustainability Is the Next Priority for Enterprise Software](https://www.informationweek.com/software/why-sustainability-is-the-next-priority-for-enterprise-software)
 - [Is Networking the New Killer App?](https://www.informationweek.com/strategic-cio/is-networking-the-new-killer-app-)
@@ -377,8 +379,6 @@
 - [Outage and Recovery: What Comes Next After AWS Disruption](https://www.informationweek.com/cloud/outage-and-recovery-what-comes-next-after-aws-disruption)
 - [Will Edge Computing Kill the Cloud?](https://www.informationweek.com/cloud/will-edge-computing-kill-the-cloud-)
 - [Balancing Productivity &amp; Job Satisfaction During the Great Resignation](https://www.informationweek.com/strategic-cio/balancing-productivity-and-job-satisfaction-during-the-great-resignation)
-- [The Intentional Futurist in the C-Suite: Watch These Signals](https://www.informationweek.com/strategic-cio/the-intentional-futurist-in-the-c-suite-watch-these-signals)
-- [Hot Network Security Acronyms You Must Know: ZTN, XDR, SASE, BYOD](https://www.informationweek.com/security-and-risk-strategy/hot-network-security-acronyms-you-must-know-ztn-xdr-sase-byod)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

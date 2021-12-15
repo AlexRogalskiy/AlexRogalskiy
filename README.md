@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scaling and automating remediation efforts for Log4j with code search](https://about.sourcegraph.com/blog/log4j-log4shell-0-day/)
-- [Ireland’s Public Healthcare Ransomware Scare](https://krebsonsecurity.com/2021/12/inside-irelands-public-healthcare-ransomware-scare/)
-- [Biden unveils plan to build 500k EV charging stations across the U.S.](https://www.cnbc.com/video/2021/12/13/biden-unveils-plan-to-build-500000-ev-charging-stations-across-the-us.html)
-- [Verizon&#39;s &quot;Custom Experience&quot; Is Data Collection in Disguise](https://www.howtogeek.com/772439/verizons-custom-experience-is-data-collection-in-disguise/)
-- [This is DOP &lpar;French&rpar;](https://techblog.deepki.com//data-oriented-programming/)
-- [WanderApp – Shake your hand to cast Harry Potter Spells with gyroscope data only](https://github.com/corupta/wander-app)
-- [Derw: An Elm-inspired language that transpiles to TypeScript](https://github.com/eeue56/derw)
-- [The Log4j Vulnerability Will Haunt the Internet for Years](https://www.wired.com/story/log4j-log4shell/)
-- [Sk00l M3 ASM](https://web.archive.org/web/20030405042300/http://blacksun.box.sk/tutorials.php?id=84)
-- [Quarantine hotel escapees arrested in Netherlands as EU enforces Covid measures](https://www.washingtonpost.com/world/2021/11/29/couple-arrested-coronavirus-quarantine-netherlands/)
+- [NASA craft &#39;touches&#39; sun for first time, dives into atmosphere](https://apnews.com/article/science-business-sun-cdb6e773cbe6fea2c7225bea213701c2)
+- [Cataclysm-Dark Days Ahead-A turn-based survival game in a post-apocalyptic world](https://github.com/CleverRaven/Cataclysm-DDA)
+- [The State of CSS 2021 Survey Results](https://2021.stateofcss.com/en-us/)
+- [A fantasy football take on investing](https://www.wizest.com/sign-up-2022/)
+- [Honestly I just need karma and idk what to do so](https://news.ycombinator.com/item?id=29561241)
+- [“A Cat in the Rain,” by Ernest Hemingway, Part One](https://georgesaunders.substack.com/p/a-cat-in-the-rain-ernest-hemingway)
+- [Where I live no one cares about Covid](https://www.theatlantic.com/ideas/archive/2021/12/where-i-live-no-one-cares-about-covid/620958/)
+- [Record Number of LibreOffice Downloads](https://blog.documentfoundation.org/blog/2021/12/14/record-number-of-libreoffice-downloads/)
+- [Nationwide Wastewater Monitoring Network](https://biobot.io/data/)
+- [4D Toys Version 1.7: Klein Bottles](https://marctenbosch.com/news/2021/12/4d-toys-version-1-7-klein-bottles/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

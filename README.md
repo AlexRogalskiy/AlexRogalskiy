@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Why you should install the latest Apple updates](https://www.computerworld.com/article/3644420/why-you-should-install-the-latest-apple-updates.html#tk.rss_all)
+- [What you should do before your cloud goes down](https://www.computerworld.com/article/3644414/what-you-should-do-before-your-cloud-goes-down.html#tk.rss_all)
+- [Windows 11 cheat sheet](https://www.computerworld.com/article/3644474/windows-11-cheat-sheet.html#tk.rss_all)
 - [After a rocky year for patching, a look ahead to ‘22](https://www.computerworld.com/article/3644275/after-a-rocky-year-for-patching-a-look-ahead-to-22.html#tk.rss_all)
 - [2021 — the year Apple became a big player in enterprise tech](https://www.computerworld.com/article/3644494/2021-the-year-apple-became-a-big-player-in-enterprise-tech.html#tk.rss_all)
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [11 smart steps for managing files on a Chromebook](https://www.computerworld.com/article/3643311/how-to-manage-files-on-chromebook.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How will we use Apple&#39;s AR glasses — and with what UI?](https://www.computerworld.com/article/3644413/how-will-we-use-apples-ar-glasses-and-with-what-ui.html#tk.rss_all)
-- [The way to better collaboration: define the problem, craft a solution](https://www.computerworld.com/article/3644272/the-way-to-better-collaboration-define-the-problem-craft-a-solution.html#tk.rss_all)
-- [Smart leaders seize the opportunity to rethink the workplace](https://www.computerworld.com/article/3644268/smart-leaders-seize-the-opportunity-to-rethink-the-workplace.html#tk.rss_all)
-- [Using DISM to install Windows updates](https://www.computerworld.com/article/3643309/using-dism-to-install-windows-updates.html#tk.rss_all)
-- [6 easy fixes for Android 12 annoyances](https://www.computerworld.com/article/3643890/android-12-fixes.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

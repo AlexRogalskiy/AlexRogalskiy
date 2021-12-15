@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_all)
+- [Will multicloud save us from outages?](https://www.infoworld.com/article/3644376/will-multicloud-save-us-from-outages.html#tk.rss_all)
+- [Best practices for developing governable AI](https://www.infoworld.com/article/3644188/best-practices-for-developing-governable-ai.html#tk.rss_all)
+- [What is infrastructure as code? Automating your infrastructure builds](https://www.infoworld.com/article/3344382/what-is-infrastructure-as-code-automating-your-infrastructure-builds.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 - [Mulesoft updates Anypoint to streamline API management, support devops](https://www.infoworld.com/article/3644495/mulesoft-updates-anypoint-to-streamline-api-management-support-devops.html#tk.rss_all)
 - [What should HashiCorp do now?](https://www.infoworld.com/article/3644473/what-should-hashicorp-do-now.html#tk.rss_all)
 - [How canary releases enable continuous deployment](https://www.infoworld.com/article/3644449/how-canary-releases-enable-continuous-deployment.html#tk.rss_all)
 - [How to choose a cloud data warehouse](https://www.infoworld.com/article/3640540/how-to-choose-a-cloud-data-warehouse.html#tk.rss_all)
 - [How to detect the Log4j vulnerability in your applications](https://www.infoworld.com/article/3644492/how-to-detect-the-log4j-vulnerability-in-your-applications.html#tk.rss_all)
-- [Visual Studio Code tweaks problem navigation, screencast mode](https://www.infoworld.com/article/3644490/visual-studio-code-tweaks-problem-navigation-screencast-mode.html#tk.rss_all)
-- [The true value of serverless computing](https://www.infoworld.com/article/3644408/the-true-value-of-serverless-computing.html#tk.rss_all)
-- [GitHub previews enhanced code search](https://www.infoworld.com/article/3644270/github-previews-enhanced-code-search.html#tk.rss_all)
-- [Get started with Git](https://www.infoworld.com/article/3643330/get-started-with-git.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

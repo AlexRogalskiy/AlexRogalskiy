@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Coffee Briefing, Dec. 14, 2021 – Visa Canada expands global money transfer capabilities; new refund feature from Click2Pay; and more](https://www.itworldcanada.com/article/coffee-briefing-dec-14-2021-visa-canada-expands-global-money-transfer-capabilities-new-refund-feature-from-click2pay-and-more/468357)
+- [Hashtag Trending Dec. 14- Amazon warehouse collapse; Better CEO takes time off; Elon Musk Time Person of the Year](https://www.itworldcanada.com/article/hashtag-trending-dec-14-amazon-warehouse-collapse-better-ceo-takes-time-off-elon-musk-time-person-of-the-year/468334)
 - [A roadmap for digital leadership](https://www.itworldcanada.com/article/a-roadmap-for-digital-leadership/468352)
 - [Making a difference in the new hybrid workplace: A changing role for IT](https://www.itworldcanada.com/article/making-a-difference-in-the-new-hybrid-workplace-a-changing-role-for-it/468346)
 - [Walmart Canada launches Interac debit payments for ecommerce shopping](https://www.itworldcanada.com/article/walmart-canada-launches-interac-debit-payments-for-ecommerce-shopping/468029)
@@ -437,8 +439,6 @@
 - [Hashtag Trending Dec. 13 – Fully self-driving cars; Activision strike; DDR5 memory scalping](https://www.itworldcanada.com/article/hashtag-trending-dec-13-fully-self-driving-cars-activision-strike-ddr5-memory-scalping/468277)
 - [Three new payment card skimmers found aimed at WooCommerce installations](https://www.itworldcanada.com/article/three-new-payment-card-skimmers-found-aimed-at-woocommerce-installations/468191)
 - [It could take years for applications using vulnerable version of Java log4j library to be patched, says expert](https://www.itworldcanada.com/article/it-could-take-years-for-applications-using-vulnerable-version-of-java-log4j-library-to-be-patched-says-expert/468238)
-- [Cyber Security Today, Week in Review for December 10, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-december-10-2021/468018)
-- [Cyber Security Today, Dec. 10, 2021 – E-commerce websites infected through a Google utility, poor OAuth implementation leads to hacks, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-10-2021-e-commerce-websites-infected-through-a-google-utility-poor-oauth-implementation-leads-to-hacks-and-more/468076)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

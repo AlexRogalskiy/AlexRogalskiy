@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DevCycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
-- [Cash Glut in Eurozone Drives Dollar Demand](https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801)
-- [Pico CSS Framework](https://picocss.com/)
-- [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
-- [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
-- [Foot: A fast and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
-- [New-Age Bullshit Generator](https://sebpearce.com/bullshit/)
-- [Building an Autonomous Generative Art Collection with P5.js](https://richtabor.com/generative-art/)
-- [XXH: Bring your favorite shell wherever you go through the SSH](https://github.com/xxh/xxh)
-- [Go Replaces Interface{} with &#39;Any&#39;](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb)
+- [Tell HN: Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
+- [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
+- [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
+- [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
+- [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
+- [Chess.com vs. Lichess](https://siddhesh.substack.com/p/chesscom-vs-lichess)
+- [Show HN: Overpass – a self-hosted video live streaming app](https://github.com/GOATS2K/overpass)
+- [The Blog Is the Program](https://andregarzia.com/2021/12/the-blog-is-the-program.html)
+- [A Unix System Implementation for System/370 &lpar;1984&rpar; [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
+- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

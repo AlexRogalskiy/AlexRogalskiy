@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NASA craft &#39;touches&#39; sun for first time, dives into atmosphere](https://apnews.com/article/science-business-sun-cdb6e773cbe6fea2c7225bea213701c2)
-- [Cataclysm-Dark Days Ahead-A turn-based survival game in a post-apocalyptic world](https://github.com/CleverRaven/Cataclysm-DDA)
-- [The State of CSS 2021 Survey Results](https://2021.stateofcss.com/en-us/)
-- [A fantasy football take on investing](https://www.wizest.com/sign-up-2022/)
-- [Honestly I just need karma and idk what to do so](https://news.ycombinator.com/item?id=29561241)
-- [“A Cat in the Rain,” by Ernest Hemingway, Part One](https://georgesaunders.substack.com/p/a-cat-in-the-rain-ernest-hemingway)
-- [Where I live no one cares about Covid](https://www.theatlantic.com/ideas/archive/2021/12/where-i-live-no-one-cares-about-covid/620958/)
-- [Record Number of LibreOffice Downloads](https://blog.documentfoundation.org/blog/2021/12/14/record-number-of-libreoffice-downloads/)
-- [Nationwide Wastewater Monitoring Network](https://biobot.io/data/)
-- [4D Toys Version 1.7: Klein Bottles](https://marctenbosch.com/news/2021/12/4d-toys-version-1-7-klein-bottles/)
+- [Australia and US sign deal to help law enforcement demand data from tech giants](https://www.theguardian.com/technology/2021/dec/16/australia-and-us-sign-cloud-act-deal-to-help-law-enforcement-agencies-demand-data-from-tech-giants)
+- [New Arabian Nights translation to strip away earlier versions’ racism and sexism](https://www.theguardian.com/books/2021/dec/15/new-arabian-nights-translation-to-strip-away-earlier-versions-racism-and-sexism)
+- [Algebraic Effects: From Algebra to Programs](https://abstractfun.com/2021-06-26-algebraic-effects-trees/2021-06-26-algebraic-effects-trees/)
+- [Reddit Announces Confidential Submission of Draft S-1](https://www.prnewswire.com/news-releases/reddit-announces-confidential-submission-of-draft-registration-statement-related-to-proposed-public-offering-301446048.html)
+- [Damning whistleblower report reveals sidelined engineers, scarcity of expertise](https://www.theregister.com/2021/12/15/boeing_737_max_senate_report/)
+- [Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
+- [Hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+- [Ship tracing spans from Rust Applications to Jaeger](https://21-lessons.com/ship-rust-tracing-spans-to-jaeger/)
+- [Graphene: The Wonder Material of the Future](https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/)
+- [You shouldn&#39;t invest in the crypto currency?](https://rgwrite.com/blog/2021/07/10/cryptocurrency/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

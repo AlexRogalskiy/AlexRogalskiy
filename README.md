@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intel Core i9-12900K review: Intel’s return to form](https://www.itworldcanada.com/article/intel-core-i9-12900k-review-intels-return-to-form/464897)
+- [Three provincial privacy czars demand Clearview AI stop collecting images of residents](https://www.itworldcanada.com/article/three-provincial-privacy-czars-demand-clearview-ai-stop-collecting-images-of-residents/468417)
+- [Canadian platform helps companies improve their employee experience](https://www.itworldcanada.com/article/canadian-platform-helps-companies-improve-their-employee-experience/468323)
+- [Cyber Security Today, Dec. 15, 2021 – The hunt for Log4Shell bug continues, and lessons from a ransomware attack on hospitals in Ireland](https://www.itworldcanada.com/article/cyber-security-today-dec-15-2021-the-hunt-for-log4shell-bug-continues-and-lessons-from-a-ransomware-attack-on-hospitals-in-ireland/468408)
+- [Hashtag Trending Dec. 15- Apple investigation; Microsoft and iFixit; Google’s 911 bug](https://www.itworldcanada.com/article/hashtag-trending-dec-15-apple-investigation-microsoft-and-ifixit-googles-911-bug/468428)
 - [Coffee Briefing, Dec. 14, 2021 – Visa Canada expands global money transfer capabilities; new refund feature from Click2Pay; and more](https://www.itworldcanada.com/article/coffee-briefing-dec-14-2021-visa-canada-expands-global-money-transfer-capabilities-new-refund-feature-from-click2pay-and-more/468357)
 - [Hashtag Trending Dec. 14- Amazon warehouse collapse; Better CEO takes time off; Elon Musk Time Person of the Year](https://www.itworldcanada.com/article/hashtag-trending-dec-14-amazon-warehouse-collapse-better-ceo-takes-time-off-elon-musk-time-person-of-the-year/468334)
 - [A roadmap for digital leadership](https://www.itworldcanada.com/article/a-roadmap-for-digital-leadership/468352)
 - [Making a difference in the new hybrid workplace: A changing role for IT](https://www.itworldcanada.com/article/making-a-difference-in-the-new-hybrid-workplace-a-changing-role-for-it/468346)
 - [Walmart Canada launches Interac debit payments for ecommerce shopping](https://www.itworldcanada.com/article/walmart-canada-launches-interac-debit-payments-for-ecommerce-shopping/468029)
-- [Canadian websites temporarily shut down as world scrambles to mitigate or patch Log4Shell vulnerability](https://www.itworldcanada.com/article/canadian-websites-temporarily-shut-down-as-world-scrambles-to-mitigate-or-patch-log4shell-vulnerability/468264)
-- [Cyber Security Today, Dec. 13, 2021 – The hunt for apps with log4j vulnerabilities continues, new threat and ransomware groups discovered and a warning to WordPress admins](https://www.itworldcanada.com/article/cyber-security-today-dec-13-2021-the-hunt-for-apps-with-log4j-vulnerabilities-continues-new-threat-and-ransomware-groups-discovered-and-a-warning-to-wordpress-admins/468260)
-- [Hashtag Trending Dec. 13 – Fully self-driving cars; Activision strike; DDR5 memory scalping](https://www.itworldcanada.com/article/hashtag-trending-dec-13-fully-self-driving-cars-activision-strike-ddr5-memory-scalping/468277)
-- [Three new payment card skimmers found aimed at WooCommerce installations](https://www.itworldcanada.com/article/three-new-payment-card-skimmers-found-aimed-at-woocommerce-installations/468191)
-- [It could take years for applications using vulnerable version of Java log4j library to be patched, says expert](https://www.itworldcanada.com/article/it-could-take-years-for-applications-using-vulnerable-version-of-java-log4j-library-to-be-patched-says-expert/468238)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

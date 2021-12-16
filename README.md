@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Attackers Target Log4J to Drop Ransomware, Web Shells, Backdoors](https://www.informationweek.com/security-and-risk-strategy/attackers-target-log4j-to-drop-ransomware-web-shells-backdoors)
+- [Companies Need Customer-Centric Business Process Engineering](https://www.informationweek.com/software/companies-need-customer-centric-business-process-engineering)
+- [5 Steps to an Effective Security Assessment](https://www.informationweek.com/security-and-risk-strategy/5-steps-to-an-effective-security-assessment)
 - [Leveraging AIOps in the Finance Industry](https://www.informationweek.com/fintech/leveraging-aiops-in-the-finance-industry)
 - [Why Relationships with Your Tech Service Providers Might Be Waning](https://www.informationweek.com/it-life/why-relationships-with-your-tech-service-providers-might-be-waning)
 - [An Insider&#39;s View of Humana&#39;s AI Program](https://www.informationweek.com/big-data/an-insiders-view-of-humanas-ai-program)
@@ -376,9 +379,6 @@
 - [Is Networking the New Killer App?](https://www.informationweek.com/strategic-cio/is-networking-the-new-killer-app-)
 - [User Interface Design: Beautiful Is Not Always Functional](https://www.informationweek.com/software/user-interface-design-beautiful-is-not-always-functional)
 - [AWS Unveils Private 5G Service, Validating Enterprise Use Case](https://www.informationweek.com/mobile/aws-unveils-private-5g-service-validating-enterprise-use-case)
-- [Outage and Recovery: What Comes Next After AWS Disruption](https://www.informationweek.com/cloud/outage-and-recovery-what-comes-next-after-aws-disruption)
-- [Will Edge Computing Kill the Cloud?](https://www.informationweek.com/cloud/will-edge-computing-kill-the-cloud-)
-- [Balancing Productivity &amp; Job Satisfaction During the Great Resignation](https://www.informationweek.com/strategic-cio/balancing-productivity-and-job-satisfaction-during-the-great-resignation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

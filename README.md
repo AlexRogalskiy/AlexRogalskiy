@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Atlassian’s Confluence gets new features aimed at making content more engaging](https://www.computerworld.com/article/3645068/atlassians-confluence-gets-new-features-aimed-at-making-content-more-engaging.html#tk.rss_all)
+- [Did Apple send its controversial CSAM scanning back to the lab?](https://www.computerworld.com/article/3644970/did-apple-send-its-controversial-csam-scanning-back-to-the-lab.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Android security checkup: 16 steps to a safer phone](https://www.computerworld.com/article/3012630/android-security-checkup.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Why you should install the latest Apple updates](https://www.computerworld.com/article/3644420/why-you-should-install-the-latest-apple-updates.html#tk.rss_all)
 - [What you should do before your cloud goes down](https://www.computerworld.com/article/3644414/what-you-should-do-before-your-cloud-goes-down.html#tk.rss_all)
 - [Windows 11 cheat sheet](https://www.computerworld.com/article/3644474/windows-11-cheat-sheet.html#tk.rss_all)
 - [After a rocky year for patching, a look ahead to ‘22](https://www.computerworld.com/article/3644275/after-a-rocky-year-for-patching-a-look-ahead-to-22.html#tk.rss_all)
-- [2021 — the year Apple became a big player in enterprise tech](https://www.computerworld.com/article/3644494/2021-the-year-apple-became-a-big-player-in-enterprise-tech.html#tk.rss_all)
-- [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
-- [11 smart steps for managing files on a Chromebook](https://www.computerworld.com/article/3643311/how-to-manage-files-on-chromebook.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

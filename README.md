@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Multibillion-dollar quantum opportunities if error rate recedes](https://www.computerweekly.com/news/252510933/Multibillion-dollar-quantum-opportunities-if-error-rate-recedes)
-- [Almost half of networks probed for Log4Shell weaknesses](https://www.computerweekly.com/news/252510939/Almost-half-of-networks-probed-for-Log4Shell-weaknesses)
-- [Joint committee publishes report on improving Online Safety Bill](https://www.computerweekly.com/news/252510934/Joint-committee-publishes-report-on-improving-Online-Safety-Bill)
-- [Security Think Tank: We are failing to get the cyber message across to users](https://www.computerweekly.com/opinion/Security-Think-Tank-We-are-failing-to-get-the-cyber-message-across-to-users)
-- [Lords urge regulators to evolve as digital change accelerates](https://www.computerweekly.com/news/252510884/Lords-urge-regulators-to-evolve-as-digital-change-accelerates)
-- [Government must go further after agreeing to pay compensation for wrongly convicted subpostmasters](https://www.computerweekly.com/news/252510928/Government-must-go-further-after-agreeing-to-pay-compensation-for-wrongly-convicted-subpostmasters)
-- [IT priorities 2022: Ransomware and cloud drive storage and backup](https://www.computerweekly.com/news/252510871/IT-priorities-2022-Ransomware-and-cloud-drive-storage-and-backup)
-- [The rules for a safer internet](https://www.computerweekly.com/ezine/Computer-Weekly/The-rules-for-a-safer-internet)
-- [Oxford City Council services back online after weekend outage at SCC datacentre](https://www.computerweekly.com/news/252510877/Oxford-City-Council-services-back-online-after-weekend-outage-at-SCC-datacentre)
-- [Industry group aims to tackle energy-efficient software development](https://www.computerweekly.com/news/252510873/Industry-group-aims-to-tackle-energy-efficient-software-development)
+- [Pressure on government to pay fair compensation to subpostmasters left out of current schemes](https://www.computerweekly.com/news/252511005/Pressure-on-government-to-pay-fair-compensation-to-subpostmasters-left-out-of-current-schemes)
+- [Gig economy algorithmic management tools ‘unfair and opaque’](https://www.computerweekly.com/news/252511001/Gig-economy-algorithmic-management-tools-unfair-and-opaque)
+- [Asda follows EG Group parent in selection of Rise with SAP](https://www.computerweekly.com/news/252510997/Asda-follows-EG-Group-parent-in-selection-of-Rise-with-SAP)
+- [After Log4j, December Patch Tuesday piles on the pressure](https://www.computerweekly.com/news/252510996/After-Log4j-December-Patch-Tuesday-piles-on-the-pressure)
+- [Digital Ethics Summit: Innovation needs regulation to be ethical](https://www.computerweekly.com/news/252510992/Digital-Ethics-Summit-innovation-needs-regulation-to-be-ethical)
+- [Security Think Tank: Get to know your personal threat landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Get-to-know-your-personal-threat-landscape)
+- [AIB signs up to z15-powered transformation](https://www.computerweekly.com/news/252510987/AIB-signs-up-to-z15-powered-transformation)
+- [UK government to take ‘whole-of-society’ approach to cyber](https://www.computerweekly.com/news/252510985/UK-government-to-take-whole-of-society-approach-to-cyber)
+- [CMA wants Apple and Google to open up mobile ecosystem](https://www.computerweekly.com/news/252510984/CMA-wants-Apple-and-Google-to-open-up-mobile-ecosystem)
+- [Which? tells banks to stop rushing branch closures](https://www.computerweekly.com/news/252510983/Which-tells-banks-to-stop-rushing-branch-closures)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

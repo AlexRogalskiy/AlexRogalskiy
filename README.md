@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus live: US Covid deaths reach new high; Omicron poses threat – as it happened](https://www.theguardian.com/world/live/2021/dec/14/covid-news-live-us-coronavirus-cases-surpass-50m-china-reports-first-omicron-case)
-- [Capitol attack a ‘coordinated act of terrorism’, says DC lawsuit against far-right groups – as it happened](https://www.theguardian.com/us-news/live/2021/dec/14/capitol-attack-panel-mark-meadows-donald-trump-joe-biden-us-politics-lates-news)
-- [Paris taxi firm suspends use of Tesla Model 3 cars after fatal accident](https://www.theguardian.com/technology/2021/dec/15/paris-taxi-firm-suspends-use-of-tesla-model-3-cars-after-fatal-accident)
-- [Nasa’s solar probe ‘touches’ sun for first time, dives into unexplored atmosphere](https://www.theguardian.com/science/2021/dec/14/nasa-solar-probe-touches-sun-first-time)
-- [Gas crisis fuels call for UK to update energy security policy](https://www.theguardian.com/business/2021/dec/15/gas-crisis-fuels-call-for-uk-to-update-energy-security-policy)
-- [Yorkshire windmill added to England’s National Heritage list](https://www.theguardian.com/culture/2021/dec/15/yorkshire-lelley-windmill-england-national-heritage-list)
-- [Bring It On: The Musical review – Lin-Manuel Miranda leads the cheer](https://www.theguardian.com/stage/2021/dec/14/bring-it-on-the-musical-review-lin-manuel-miranda-amber-davies-louis-smith)
-- [Epstein settlement ‘shielding’ Prince Andrew should be public, judge says](https://www.theguardian.com/uk-news/2021/dec/14/prince-andrew-jeffrey-epstein-settlement)
-- [Wiltshire officer dismissed over sexual relationship with vulnerable woman](https://www.theguardian.com/uk-news/2021/dec/14/wiltshire-police-officer-dismissed-after-gross-misconduct-hearing)
-- [Naughty &amp; Nice: Sex Toy Britain review – fistfuls of fun](https://www.theguardian.com/tv-and-radio/2021/dec/14/naughty-nice-sex-toy-britain-review-fistfuls-of-fun)
+- [Covid news live: South Korea to reimpose dining curfews; South Africa reports daily cases record](https://www.theguardian.com/world/live/2021/dec/16/covid-news-live-south-korea-reimpose-dining-curfews-south-africa-daily-cases-record-omicron)
+- [Australia captain Pat Cummins out of second Ashes Test after contact with Covid case](https://www.theguardian.com/sport/2021/dec/16/australia-ashes-second-test-captain-pat-cummins-covid-19-scare)
+- [Gerwyn Price survives a scare to beat Edhouse in PDC world championship](https://www.theguardian.com/sport/2021/dec/16/gerwyn-price-survives-a-scare-to-beat-edhouse-in-pdc-world-championship)
+- [Parents urged to talk to children as young as nine about online porn](https://www.theguardian.com/society/2021/dec/16/parents-urged-talk-children-young-as-nine-online-porn)
+- [Rape survivors arriving in UK on small boats neglected by authorities – report](https://www.theguardian.com/world/2021/dec/16/survivors-arriving-in-uk-on-small-boats-neglected-by-authorities-report)
+- [Many Covid hospital patients do not feel fully recovered year later – study](https://www.theguardian.com/society/2021/dec/16/many-covid-hospital-patients-do-not-feel-fully-recovered-year-later-study)
+- [Reading fire: one dead and two missing as police expect no more survivors](https://www.theguardian.com/uk-news/2021/dec/15/reading-fire-man-held-on-suspicion-of-arson)
+- [US sanctions Chinese drugmakers amid addiction epidemic](https://www.theguardian.com/us-news/2021/dec/15/china-painkillers-drugs-us-sanctions)
+- [US releases 1,500 documents about JFK assassination inquiry](https://www.theguardian.com/us-news/2021/dec/15/john-f-kennedy-assassination-documents-released)
+- [Lucas Digne makes himself unavailable for Everton trip to Chelsea due to illness](https://www.theguardian.com/football/2021/dec/15/everton-lucas-digne-chelsea-illness-rafael-benitez)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

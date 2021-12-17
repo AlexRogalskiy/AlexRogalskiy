@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Enabling secure remote working is once again a top priority](https://www.computerweekly.com/opinion/Enabling-secure-remote-working-is-a-top-priority)
+- [Nationwide Building Society moves website to Azure cloud](https://www.computerweekly.com/news/252511040/Nationwide-Building-Society-moves-website-to-Azure-cloud)
 - [Pressure on government to pay fair compensation to subpostmasters left out of current schemes](https://www.computerweekly.com/news/252511005/Pressure-on-government-to-pay-fair-compensation-to-subpostmasters-left-out-of-current-schemes)
 - [Gig economy algorithmic management tools ‘unfair and opaque’](https://www.computerweekly.com/news/252511001/Gig-economy-algorithmic-management-tools-unfair-and-opaque)
-- [Asda follows EG Group parent in selection of Rise with SAP](https://www.computerweekly.com/news/252510997/Asda-follows-EG-Group-parent-in-selection-of-Rise-with-SAP)
+- [Asda follows EG Group sibling in selection of Rise with SAP](https://www.computerweekly.com/news/252510997/Asda-follows-EG-Group-parent-in-selection-of-Rise-with-SAP)
 - [After Log4j, December Patch Tuesday piles on the pressure](https://www.computerweekly.com/news/252510996/After-Log4j-December-Patch-Tuesday-piles-on-the-pressure)
 - [Digital Ethics Summit: Innovation needs regulation to be ethical](https://www.computerweekly.com/news/252510992/Digital-Ethics-Summit-innovation-needs-regulation-to-be-ethical)
 - [Security Think Tank: Get to know your personal threat landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Get-to-know-your-personal-threat-landscape)
 - [AIB signs up to z15-powered transformation](https://www.computerweekly.com/news/252510987/AIB-signs-up-to-z15-powered-transformation)
 - [UK government to take ‘whole-of-society’ approach to cyber](https://www.computerweekly.com/news/252510985/UK-government-to-take-whole-of-society-approach-to-cyber)
-- [CMA wants Apple and Google to open up mobile ecosystem](https://www.computerweekly.com/news/252510984/CMA-wants-Apple-and-Google-to-open-up-mobile-ecosystem)
-- [Which? tells banks to stop rushing branch closures](https://www.computerweekly.com/news/252510983/Which-tells-banks-to-stop-rushing-branch-closures)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

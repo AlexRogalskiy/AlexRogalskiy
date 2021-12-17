@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
-- [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
-- [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
-- [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
-- [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
-- [Chess.com vs. Lichess](https://siddhesh.substack.com/p/chesscom-vs-lichess)
-- [Show HN: Overpass – a self-hosted video live streaming app](https://github.com/GOATS2K/overpass)
-- [The Blog Is the Program](https://andregarzia.com/2021/12/the-blog-is-the-program.html)
-- [A Unix System Implementation for System/370 &lpar;1984&rpar; [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
-- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
+- [Ambiguous PNG Packer: Craft PNG files that appear different in Apple software](https://github.com/DavidBuchanan314/ambiguous-png-packer)
+- [Slack Outage](https://news.ycombinator.com/item?id=29586544)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
+- [Valve actively supporting Godot to make the engine work well on the Steam Deck](https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/)
+- [Defrag Like It&#39;s 1993](https://defrag.shiplift.dev/)
+- [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
+- [Polars: Fast DataFrame library for Rust and Python](https://www.pola.rs/)
+- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/)
+- [Facebook bans 7 &#39;surveillance-for-hire&#39; companies that spied on 50k users](https://www.npr.org/2021/12/16/1064628654/facebook-bans-surveillance-firms-that-spied-on-50000-people)
+- [How I learned to stop worrying and push to master](https://thenable.io/push-to-master/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

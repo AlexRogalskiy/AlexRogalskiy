@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Printer Driver issue.](https://www.reddit.com/r/InformationTechnology/comments/ri2val/printer_driver_issue/)
+- [Network Topologies Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rhv0co/network_topologies_explained_network_n10008/)
+- [Managed Kiosk Idea](https://www.reddit.com/r/InformationTechnology/comments/rhp61w/managed_kiosk_idea/)
+- [Why are there still so many different cable standards for various devices?](https://www.reddit.com/r/InformationTechnology/comments/rhhiqn/why_are_there_still_so_many_different_cable/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rhb0cl/needed_it_decision_makers_research_opportunity/)
 - [Azure Cloud Hands On Experience](https://www.reddit.com/r/InformationTechnology/comments/rh3et5/azure_cloud_hands_on_experience/)
 - [Advice on IT jobs](https://www.reddit.com/r/InformationTechnology/comments/rgubdz/advice_on_it_jobs/)
 - [Which technology/language is the best to build a stable and secure web-based system?](https://www.reddit.com/r/InformationTechnology/comments/rgrmp0/which_technologylanguage_is_the_best_to_build_a/)
 - [Any advice for an English major interested in beginning a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/rgospd/any_advice_for_an_english_major_interested_in/)
 - [Multimode fiber on single mode device](https://www.reddit.com/r/InformationTechnology/comments/rgjs7e/multimode_fiber_on_single_mode_device/)
-- [Help with server questions](https://www.reddit.com/r/InformationTechnology/comments/rggld4/help_with_server_questions/)
-- [How do I get my foot in the door right now?](https://www.reddit.com/r/InformationTechnology/comments/rgg98h/how_do_i_get_my_foot_in_the_door_right_now/)
-- [Quick question about A+ course](https://www.reddit.com/r/InformationTechnology/comments/rgg2zd/quick_question_about_a_course/)
-- [OAuth Migration Question](https://www.reddit.com/r/InformationTechnology/comments/rgfjlk/oauth_migration_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

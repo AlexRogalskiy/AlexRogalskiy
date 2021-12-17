@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_all)
+- [How developers scrambled to secure the Log4j vulnerability](https://www.infoworld.com/article/3645131/how-developers-scrambled-to-secure-the-log4j-vulnerability.html#tk.rss_all)
+- [How to use the minimal hosting model in ASP.NET Core 6](https://www.infoworld.com/article/3645148/how-to-use-the-minimal-hosting-model-in-aspnet-core-6.html#tk.rss_all)
+- [The future of the operational data warehouse](https://www.infoworld.com/article/3644888/the-future-of-the-operational-data-warehouse.html#tk.rss_all)
+- [Hands-on with the Marko JavaScript framework](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_all)
 - [Go language adds generics](https://www.infoworld.com/article/3645228/go-language-adds-generics.html#tk.rss_all)
 - [Azul brings Java compilation to the cloud](https://www.infoworld.com/article/3644971/azul-brings-java-compilation-to-the-cloud.html#tk.rss_all)
 - [Securing the Kubernetes software supply chain](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html#tk.rss_all)
 - [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_all)
 - [Will multicloud save us from outages?](https://www.infoworld.com/article/3644376/will-multicloud-save-us-from-outages.html#tk.rss_all)
-- [Best practices for developing governable AI](https://www.infoworld.com/article/3644188/best-practices-for-developing-governable-ai.html#tk.rss_all)
-- [What is infrastructure as code? Automating your infrastructure builds](https://www.infoworld.com/article/3344382/what-is-infrastructure-as-code-automating-your-infrastructure-builds.html#tk.rss_all)
-- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
-- [Mulesoft updates Anypoint to streamline API management, support devops](https://www.infoworld.com/article/3644495/mulesoft-updates-anypoint-to-streamline-api-management-support-devops.html#tk.rss_all)
-- [What should HashiCorp do now?](https://www.infoworld.com/article/3644473/what-should-hashicorp-do-now.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

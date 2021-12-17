@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quantum Compute Report Card: ‘We Need A Lot More Machines’](https://www.informationweek.com/hardware-or-architectures/quantum-compute-report-card-we-need-a-lot-more-machines-)
+- [The Importance of Digital Transformation in Predictive Analytics](https://www.informationweek.com/big-data/the-importance-of-digital-transformation-in-predictive-analytics)
 - [Attackers Target Log4J to Drop Ransomware, Web Shells, Backdoors](https://www.informationweek.com/security-and-risk-strategy/attackers-target-log4j-to-drop-ransomware-web-shells-backdoors)
 - [Companies Need Customer-Centric Business Process Engineering](https://www.informationweek.com/software/companies-need-customer-centric-business-process-engineering)
 - [5 Steps to an Effective Security Assessment](https://www.informationweek.com/security-and-risk-strategy/5-steps-to-an-effective-security-assessment)
@@ -377,8 +379,6 @@
 - [An Insider&#39;s View of Humana&#39;s AI Program](https://www.informationweek.com/big-data/an-insiders-view-of-humanas-ai-program)
 - [Why Sustainability Is the Next Priority for Enterprise Software](https://www.informationweek.com/software/why-sustainability-is-the-next-priority-for-enterprise-software)
 - [Is Networking the New Killer App?](https://www.informationweek.com/strategic-cio/is-networking-the-new-killer-app-)
-- [User Interface Design: Beautiful Is Not Always Functional](https://www.informationweek.com/software/user-interface-design-beautiful-is-not-always-functional)
-- [AWS Unveils Private 5G Service, Validating Enterprise Use Case](https://www.informationweek.com/mobile/aws-unveils-private-5g-service-validating-enterprise-use-case)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

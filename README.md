@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Australia and US sign deal to help law enforcement demand data from tech giants](https://www.theguardian.com/technology/2021/dec/16/australia-and-us-sign-cloud-act-deal-to-help-law-enforcement-agencies-demand-data-from-tech-giants)
-- [New Arabian Nights translation to strip away earlier versions’ racism and sexism](https://www.theguardian.com/books/2021/dec/15/new-arabian-nights-translation-to-strip-away-earlier-versions-racism-and-sexism)
-- [Algebraic Effects: From Algebra to Programs](https://abstractfun.com/2021-06-26-algebraic-effects-trees/2021-06-26-algebraic-effects-trees/)
-- [Reddit Announces Confidential Submission of Draft S-1](https://www.prnewswire.com/news-releases/reddit-announces-confidential-submission-of-draft-registration-statement-related-to-proposed-public-offering-301446048.html)
-- [Damning whistleblower report reveals sidelined engineers, scarcity of expertise](https://www.theregister.com/2021/12/15/boeing_737_max_senate_report/)
-- [Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
-- [Hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
-- [Ship tracing spans from Rust Applications to Jaeger](https://21-lessons.com/ship-rust-tracing-spans-to-jaeger/)
-- [Graphene: The Wonder Material of the Future](https://www.visualcapitalist.com/graphene-the-wonder-material-of-the-future/)
-- [You shouldn&#39;t invest in the crypto currency?](https://rgwrite.com/blog/2021/07/10/cryptocurrency/)
+- [Ask HN: Do you make new year resolutions and stick to it?](https://news.ycombinator.com/item?id=29586944)
+- [US accuses China of developing &#39;brain control weaponry&#39;](https://www.ft.com/content/f9637825-0e9b-45d7-a49a-1eb507d41e68)
+- [Sidewalk Labs products will be folded into Google proper](https://www.engadget.com/sidewalk-labs-products-google-alphabet-151740698.html)
+- [The sheer size of our government workforce is an alarming problem](https://thehill.com/opinion/finance/438242-the-federal-government-is-the-largest-employer-in-the-nation)
+- [Engineer accused of attempting to pass US secrets to Russia](https://apnews.com/article/business-europe-russia-arrests-sd-state-wire-ec8449cefbd035bb5ac606b8d16272cc)
+- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+- [I made a tiny Nintendo Switch Christmas ornament](https://www.youtube.com/watch?v=zJxyTgLjIB8)
+- [How Coinbase Thinks about the Metaverse](https://blog.coinbase.com/how-coinbase-thinks-about-the-metaverse-16d8070f4841)
+- [Patch fixing critical Log4j 0-day has its own vulnerability that’s under exploit](https://arstechnica.com/information-technology/2021/12/patch-fixing-critical-log4j-0-day-has-its-own-vulnerability-thats-under-exploit/)
+- [Judge tosses $4.5 bln deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

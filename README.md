@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: G7 calls Omicron ‘biggest threat’ to global health; unvaccinated face ‘winter of severe illness and death’, Biden warns](https://www.theguardian.com/world/live/2021/dec/17/covid-news-live-g7-calls-omicron-biggest-threat-to-global-health-unvaccinated-face-winter-of-severe-illness-and-death-biden-warns)
-- [North Shropshire byelection: Liberal Democrats say they will win ‘comfortably’ as count continues](https://www.theguardian.com/politics/2021/dec/17/north-shropshire-byelection-liberal-democrats-say-they-will-win-comfortably-as-count-continues)
-- [First evidence that leopard seals feed on sharks, researchers say](https://www.theguardian.com/environment/2021/dec/17/first-evidence-that-leopard-seals-feed-on-sharks-researchers-say)
-- [Search warrant issued for Alec Baldwin’s phone over Rust shooting investigation](https://www.theguardian.com/film/2021/dec/17/search-warrant-issued-for-alec-baldwins-phone-over-rust-shooting-investigation)
-- [From ‘tempestuous’ child to little rocket man: 10 years of Kim Jong-un](https://www.theguardian.com/world/2021/dec/17/from-tempestuous-child-to-little-rocket-man-10-years-of-kim-jong-un)
-- [Bark Ladies: the painters reimagining ancestral beings, mermaids and the Yolŋu universe – in pictures](https://www.theguardian.com/artanddesign/gallery/2021/dec/17/bark-ladies-the-painters-reimagining-ancestral-beings-mermaids-and-the-yolu-universe-in-pictures)
-- [UK changes tack over Northern Ireland protocol with push for ‘interim’ deal](https://www.theguardian.com/politics/2021/dec/17/uk-plans-interim-fix-to-brexit-protocol-to-stabilise-northern-ireland)
-- [Future BBC savings will require cheaper shows, say auditors](https://www.theguardian.com/media/2021/dec/17/future-bbc-savings-will-require-cheaper-shows-say-auditors)
-- [Global demand for coal could hit all-time high in 2022](https://www.theguardian.com/business/2021/dec/17/global-demand-coal-high-electricity-plants-covid-economic-recovery)
-- [Compulsory Covid jabs ‘calamitous’ for dental services in England, says BDA](https://www.theguardian.com/society/2021/dec/17/compulsory-covid-jabs-dentists-in-england-dropping-a-bomb-on-service)
+- [Elizabeth Holmes trial: jury to begin deliberations in Theranos founder’s case](https://www.theguardian.com/technology/2021/dec/17/elizabeth-holmes-trial-theranos-latest)
+- [Hundreds off work ill at leading London hospital as Omicron cases surge](https://www.theguardian.com/world/2021/dec/17/hundreds-off-work-ill-at-leading-london-hospital-as-omicron-cases-surge)
+- [NHS could face surge in hospitalisations despite booster, scientists warn](https://www.theguardian.com/world/2021/dec/17/nhs-could-face-surge-in-hospitalisations-despite-booster-say-scientists-omicron)
+- [More than 130 people rescued after becoming stranded in the Channel](https://www.theguardian.com/uk-news/2021/dec/17/more-than-130-people-rescued-after-becoming-stranded-in-the-channel)
+- [‘It’s unbelievable’: Borland conjures up nine-dart finish to sink Brooks in thriller](https://www.theguardian.com/sport/2021/dec/17/william-borland-conjures-up-nine-dart-finish-to-sink-bradley-brooks)
+- [Antonio Conte’s meticulous Tottenham plans up in the air due to Covid chaos](https://www.theguardian.com/football/2021/dec/17/antonio-conte-meticulous-tottenham-plans-up-in-air-due-to-covid-chaos-liverpool)
+- [Tuchel troubled by Chelsea’s results failing to match team’s performances | Jacob Steinberg](https://www.theguardian.com/football/2021/dec/17/thomas-tuchel-troubled-by-chelsea-results-failing-to-match-teams-performances)
+- [Ben Youngs: ‘It’s been a tough time, my role is to try and bring some joy’](https://www.theguardian.com/sport/2021/dec/17/ben-youngs-its-been-a-tough-time-my-role-is-to-try-and-bring-some-joy)
+- [Tiger Woods warns his return to competitive golf remains ‘a long way off’](https://www.theguardian.com/sport/2021/dec/17/tiger-woods-warns-return-to-competitive-golf-remains-long-way-off-pnc-championship)
+- [Ghislaine Maxwell’s lawyers call Jeffrey Epstein’s ex-girlfriend as a witness](https://www.theguardian.com/us-news/2021/dec/17/ghislaine-maxwell-trial-defense-finish-arguments-sex-trafficking)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

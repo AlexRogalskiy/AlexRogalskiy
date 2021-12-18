@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ambiguous PNG Packer: Craft PNG files that appear different in Apple software](https://github.com/DavidBuchanan314/ambiguous-png-packer)
-- [Slack Outage](https://news.ycombinator.com/item?id=29586544)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
-- [Valve actively supporting Godot to make the engine work well on the Steam Deck](https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/)
-- [Defrag Like It&#39;s 1993](https://defrag.shiplift.dev/)
-- [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
-- [Polars: Fast DataFrame library for Rust and Python](https://www.pola.rs/)
-- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/)
-- [Facebook bans 7 &#39;surveillance-for-hire&#39; companies that spied on 50k users](https://www.npr.org/2021/12/16/1064628654/facebook-bans-surveillance-firms-that-spied-on-50000-people)
-- [How I learned to stop worrying and push to master](https://thenable.io/push-to-master/)
+- [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
+- [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
+- [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
+- [Postgres is a great pub/sub and job server &lpar;2019&rpar;](https://webapp.io/blog/postgres-is-the-answer/)
+- [I bought 1000 meters of wire to settle a physics debate [video]](https://www.youtube.com/watch?v=2Vrhk5OjBP8)
+- [EDF shares plunge after faults found at French nuclear power reactor](https://www.reuters.com/world/europe/edf-shares-plunge-after-faults-found-french-nuclear-power-station-2021-12-16/)
+- [Flow Club &lpar;YC S21&rpar; is hiring a chief of staff to build the future of work](https://jobs.ashbyhq.com/flowclub/bac6c765-e057-4b0c-85c4-04fc3c915336)
+- [Passage: A fork of password-store that uses age instead of GnuPG](https://github.com/FiloSottile/passage)
+- [Satellite detects large mass of water in Mars canyon](https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html)
+- [Why start a new database conference?](https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

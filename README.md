@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Do you make new year resolutions and stick to it?](https://news.ycombinator.com/item?id=29586944)
-- [US accuses China of developing &#39;brain control weaponry&#39;](https://www.ft.com/content/f9637825-0e9b-45d7-a49a-1eb507d41e68)
-- [Sidewalk Labs products will be folded into Google proper](https://www.engadget.com/sidewalk-labs-products-google-alphabet-151740698.html)
-- [The sheer size of our government workforce is an alarming problem](https://thehill.com/opinion/finance/438242-the-federal-government-is-the-largest-employer-in-the-nation)
-- [Engineer accused of attempting to pass US secrets to Russia](https://apnews.com/article/business-europe-russia-arrests-sd-state-wire-ec8449cefbd035bb5ac606b8d16272cc)
-- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
-- [I made a tiny Nintendo Switch Christmas ornament](https://www.youtube.com/watch?v=zJxyTgLjIB8)
-- [How Coinbase Thinks about the Metaverse](https://blog.coinbase.com/how-coinbase-thinks-about-the-metaverse-16d8070f4841)
-- [Patch fixing critical Log4j 0-day has its own vulnerability that’s under exploit](https://arstechnica.com/information-technology/2021/12/patch-fixing-critical-log4j-0-day-has-its-own-vulnerability-thats-under-exploit/)
-- [Judge tosses $4.5 bln deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
+- [First consumer charge card since Amex](https://www.point.app/titan)
+- [Boeing suspends vaccine mandate for U.S. employees](https://www.reuters.com/business/aerospace-defense/exclusive-boeing-suspends-vaccination-requirement-us-based-employees-internal-2021-12-17/)
+- [Fine for violating Congressional Stock Act is $200 [pdf]](https://ethics.house.gov/sites/ethics.house.gov/files/Late%20Fee%20Waiver%20form%20(final).pdf)
+- [When the Jets Fly: New Warplanes Turn U.S. Towns into Sonic Hellscapes](https://www.youtube.com/watch?v=VdJr-U5WKCk)
+- [Group of Monkeys Kill over 250 Dogs for &#39;Revenge&#39; in Indian Town](https://www.newsweek.com/group-monkeys-kill-over-250-dogs-revenge-indian-town-1660683)
+- [Amazon fined $26M by Competition Commission of India](https://www.moneycontrol.com/news/business/cci-revokes-clearance-to-amazons-2019-deal-with-future-coupons-slaps-rs-200-crore-penalty-7838261.html)
+- [Which programming language or compiler is faster](https://programming-language-benchmarks.vercel.app/problem/spectral-norm)
+- [Adobe Stock Plummets 10%, Its Second- Worst Day in Past Decade](https://www.cnbc.com/2021/12/16/adobe-plunges-10percent-and-heads-for-second-worst-day-in-past-decade-.html)
+- [FSF Adopts New Governance Framework for Board Members](https://www.fsf.org/news/fsf-adopts-new-governance-framework-for-board-members)
+- [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

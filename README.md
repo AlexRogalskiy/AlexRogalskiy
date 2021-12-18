@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
+- [Why We Need Infrastructure-led Innovation to Transform Network Security](https://www.informationweek.com/security-and-risk-strategy/why-we-need-infrastructure-led-innovation-to-transform-network-security)
+- [The US Trucking Industry Takes the 3G Network Sunsetting Challenge](https://www.informationweek.com/it-life/the-us-trucking-industry-takes-the-3g-network-sunsetting-challenge)
 - [Quantum Compute Report Card: ‘We Need A Lot More Machines’](https://www.informationweek.com/hardware-or-architectures/quantum-compute-report-card-we-need-a-lot-more-machines-)
 - [The Importance of Digital Transformation in Predictive Analytics](https://www.informationweek.com/big-data/the-importance-of-digital-transformation-in-predictive-analytics)
 - [Attackers Target Log4J to Drop Ransomware, Web Shells, Backdoors](https://www.informationweek.com/security-and-risk-strategy/attackers-target-log4j-to-drop-ransomware-web-shells-backdoors)
@@ -376,9 +379,6 @@
 - [5 Steps to an Effective Security Assessment](https://www.informationweek.com/security-and-risk-strategy/5-steps-to-an-effective-security-assessment)
 - [Leveraging AIOps in the Finance Industry](https://www.informationweek.com/fintech/leveraging-aiops-in-the-finance-industry)
 - [Why Relationships with Your Tech Service Providers Might Be Waning](https://www.informationweek.com/it-life/why-relationships-with-your-tech-service-providers-might-be-waning)
-- [An Insider&#39;s View of Humana&#39;s AI Program](https://www.informationweek.com/big-data/an-insiders-view-of-humanas-ai-program)
-- [Why Sustainability Is the Next Priority for Enterprise Software](https://www.informationweek.com/software/why-sustainability-is-the-next-priority-for-enterprise-software)
-- [Is Networking the New Killer App?](https://www.informationweek.com/strategic-cio/is-networking-the-new-killer-app-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

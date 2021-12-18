@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Diversity and inclusion in tech: the next 10 years](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-the-next-10-years)
+- [CDEI research pinpoints barriers to trustworthy AI exploitation](https://www.computerweekly.com/news/252511104/CDEI-research-pinpoints-barriers-to-trustworthy-AI-exploitation)
+- [Cloud wars: How the US tech giants opening UK datacentres shook up the public sector market](https://www.computerweekly.com/news/252511058/Cloud-wars-How-the-US-tech-giants-opening-UK-datacentres-shook-up-the-public-sector-market)
+- [Security Think Tank: When will they ever learn?](https://www.computerweekly.com/opinion/Security-Think-Tank-When-will-they-ever-learn)
+- [HSBC fined £64m for automated transaction monitoring failures](https://www.computerweekly.com/news/252511100/HSBC-fined-64m-for-automated-transaction-monitoring-failures)
 - [Enabling secure remote working is once again a top priority](https://www.computerweekly.com/opinion/Enabling-secure-remote-working-is-a-top-priority)
 - [Nationwide Building Society moves website to Azure cloud](https://www.computerweekly.com/news/252511040/Nationwide-Building-Society-moves-website-to-Azure-cloud)
 - [Pressure on government to pay fair compensation to subpostmasters left out of current schemes](https://www.computerweekly.com/news/252511005/Pressure-on-government-to-pay-fair-compensation-to-subpostmasters-left-out-of-current-schemes)
 - [Gig economy algorithmic management tools ‘unfair and opaque’](https://www.computerweekly.com/news/252511001/Gig-economy-algorithmic-management-tools-unfair-and-opaque)
 - [Asda follows EG Group sibling in selection of Rise with SAP](https://www.computerweekly.com/news/252510997/Asda-follows-EG-Group-parent-in-selection-of-Rise-with-SAP)
-- [After Log4j, December Patch Tuesday piles on the pressure](https://www.computerweekly.com/news/252510996/After-Log4j-December-Patch-Tuesday-piles-on-the-pressure)
-- [Digital Ethics Summit: Innovation needs regulation to be ethical](https://www.computerweekly.com/news/252510992/Digital-Ethics-Summit-innovation-needs-regulation-to-be-ethical)
-- [Security Think Tank: Get to know your personal threat landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Get-to-know-your-personal-threat-landscape)
-- [AIB signs up to z15-powered transformation](https://www.computerweekly.com/news/252510987/AIB-signs-up-to-z15-powered-transformation)
-- [UK government to take ‘whole-of-society’ approach to cyber](https://www.computerweekly.com/news/252510985/UK-government-to-take-whole-of-society-approach-to-cyber)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

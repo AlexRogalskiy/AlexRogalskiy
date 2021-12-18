@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [UAlbany vs IUPUI for Bachelor of Science in Informatics?](https://www.reddit.com/r/InformationTechnology/comments/rita6x/ualbany_vs_iupui_for_bachelor_of_science_in/)
+- [How to track vendor notifications?](https://www.reddit.com/r/InformationTechnology/comments/risrqc/how_to_track_vendor_notifications/)
+- [MSIS to SWE?](https://www.reddit.com/r/InformationTechnology/comments/riqmh0/msis_to_swe/)
+- [I love my Job I love Computers](https://www.reddit.com/r/InformationTechnology/comments/riksnw/i_love_my_job_i_love_computers/)
+- [Making a decision](https://www.reddit.com/r/InformationTechnology/comments/rii3ri/making_a_decision/)
+- [setting up a server for version control](https://www.reddit.com/r/InformationTechnology/comments/riahag/setting_up_a_server_for_version_control/)
 - [Printer Driver issue.](https://www.reddit.com/r/InformationTechnology/comments/ri2val/printer_driver_issue/)
 - [Network Topologies Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rhv0co/network_topologies_explained_network_n10008/)
 - [Managed Kiosk Idea](https://www.reddit.com/r/InformationTechnology/comments/rhp61w/managed_kiosk_idea/)
 - [Why are there still so many different cable standards for various devices?](https://www.reddit.com/r/InformationTechnology/comments/rhhiqn/why_are_there_still_so_many_different_cable/)
-- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rhb0cl/needed_it_decision_makers_research_opportunity/)
-- [Azure Cloud Hands On Experience](https://www.reddit.com/r/InformationTechnology/comments/rh3et5/azure_cloud_hands_on_experience/)
-- [Advice on IT jobs](https://www.reddit.com/r/InformationTechnology/comments/rgubdz/advice_on_it_jobs/)
-- [Which technology/language is the best to build a stable and secure web-based system?](https://www.reddit.com/r/InformationTechnology/comments/rgrmp0/which_technologylanguage_is_the_best_to_build_a/)
-- [Any advice for an English major interested in beginning a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/rgospd/any_advice_for_an_english_major_interested_in/)
-- [Multimode fiber on single mode device](https://www.reddit.com/r/InformationTechnology/comments/rgjs7e/multimode_fiber_on_single_mode_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

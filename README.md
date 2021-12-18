@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft reveals plans for Entity Framework 7.0](https://www.infoworld.com/article/3645489/microsoft-reveals-plans-for-entity-framework-70.html#tk.rss_all)
+- [2 cloud computing predictions you won’t hear anywhere else](https://www.infoworld.com/article/3644493/2-cloud-computing-predictions-you-wont-hear-anywhere-else.html#tk.rss_all)
 - [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_all)
 - [How developers scrambled to secure the Log4j vulnerability](https://www.infoworld.com/article/3645131/how-developers-scrambled-to-secure-the-log4j-vulnerability.html#tk.rss_all)
 - [How to use the minimal hosting model in ASP.NET Core 6](https://www.infoworld.com/article/3645148/how-to-use-the-minimal-hosting-model-in-aspnet-core-6.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Go language adds generics](https://www.infoworld.com/article/3645228/go-language-adds-generics.html#tk.rss_all)
 - [Azul brings Java compilation to the cloud](https://www.infoworld.com/article/3644971/azul-brings-java-compilation-to-the-cloud.html#tk.rss_all)
 - [Securing the Kubernetes software supply chain](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html#tk.rss_all)
-- [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_all)
-- [Will multicloud save us from outages?](https://www.infoworld.com/article/3644376/will-multicloud-save-us-from-outages.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

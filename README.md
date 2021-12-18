@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Desjardins could pay $200 million to settle lawsuit from data breach](https://www.itworldcanada.com/article/desjardins-could-pay-200-million-to-settle-lawsuit-from-data-breach/468897)
+- [How falling for a phishing email led to a crippling ransomware attack in Ireland](https://www.itworldcanada.com/article/how-falling-for-a-phishing-email-led-to-a-crippling-ransomware-attack-in-ireland/468415)
+- [Cyber Security Today, Week in Review for Dec. 17, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-dec-17-2021/468773)
+- [Do as Much Good Stuff as You Can: Tips from the Founder of SmartONE Solutions](https://www.itworldcanada.com/article/do-as-much-good-stuff-as-you-can-tips-from-the-founder-of-smartone-solutions/468914)
+- [Cyber Security Today, Dec. 17, 2021 – Canadian propane distributor hit by ransomware, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-17-2021-canadian-propane-distributor-hit-by-ransomware-and-more/468787)
+- [Hashtag Trending Dec. 17 – Apple in-office delay; Metaverse needs power; T-mobile increases minimum wage](https://www.itworldcanada.com/article/hashtag-trending-dec-17-apple-in-office-delay-metaverse-needs-power-t-mobile-increases-minimum-wage/468792)
 - [Canada’s Security Compass Advisory shifts to Kroll](https://www.itworldcanada.com/article/canadas-security-compass-shifts-consulting-division-to-kroll/468665)
 - [Robo-Dog Spot demonstrates its potential at Toronto construction site](https://www.itworldcanada.com/article/robo-dog-spot-demonstrates-its-potential-at-toronto-construction-site/468682)
 - [CN partners with Google Cloud to modernize railway services](https://www.itworldcanada.com/article/cn-partners-with-google-cloud-to-modernize-railway-services/468715)
 - [No one’s losing faith over open source software despite Log4Shell, says expert](https://www.itworldcanada.com/article/no-ones-losing-faith-over-open-source-software-despite-log4shell-says-expert/468575)
-- [Google Canada commits half a million towards tech training program for Indigenous job seekers](https://www.itworldcanada.com/article/google-canada-commits-half-a-million-towards-tech-training-program-for-indigenous-job-seekers/468651)
-- [Hashtag Trending Dec. 16- Google Vaccine Mandate; Amazon Drivers Overworked; Billionaire Space Race Carbon Emissions](https://www.itworldcanada.com/article/hashtag-trending-dec-16-google-vaccine-mandate-amazon-drivers-overworked-billionaire-space-race-carbon-emissions/468527)
-- [Intel Core i9-12900K review: Intel’s return to form](https://www.itworldcanada.com/article/intel-core-i9-12900k-review-intels-return-to-form/464897)
-- [Three provincial privacy czars demand Clearview AI stop collecting images of residents](https://www.itworldcanada.com/article/three-provincial-privacy-czars-demand-clearview-ai-stop-collecting-images-of-residents/468417)
-- [Canadian platform helps companies improve their employee experience](https://www.itworldcanada.com/article/canadian-platform-helps-companies-improve-their-employee-experience/468323)
-- [Cyber Security Today, Dec. 15, 2021 – The hunt for Log4Shell bug continues, and lessons from a ransomware attack on hospitals in Ireland](https://www.itworldcanada.com/article/cyber-security-today-dec-15-2021-the-hunt-for-log4shell-bug-continues-and-lessons-from-a-ransomware-attack-on-hospitals-in-ireland/468408)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

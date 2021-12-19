@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [First consumer charge card since Amex](https://www.point.app/titan)
-- [Boeing suspends vaccine mandate for U.S. employees](https://www.reuters.com/business/aerospace-defense/exclusive-boeing-suspends-vaccination-requirement-us-based-employees-internal-2021-12-17/)
-- [Fine for violating Congressional Stock Act is $200 [pdf]](https://ethics.house.gov/sites/ethics.house.gov/files/Late%20Fee%20Waiver%20form%20(final).pdf)
-- [When the Jets Fly: New Warplanes Turn U.S. Towns into Sonic Hellscapes](https://www.youtube.com/watch?v=VdJr-U5WKCk)
-- [Group of Monkeys Kill over 250 Dogs for &#39;Revenge&#39; in Indian Town](https://www.newsweek.com/group-monkeys-kill-over-250-dogs-revenge-indian-town-1660683)
-- [Amazon fined $26M by Competition Commission of India](https://www.moneycontrol.com/news/business/cci-revokes-clearance-to-amazons-2019-deal-with-future-coupons-slaps-rs-200-crore-penalty-7838261.html)
-- [Which programming language or compiler is faster](https://programming-language-benchmarks.vercel.app/problem/spectral-norm)
-- [Adobe Stock Plummets 10%, Its Second- Worst Day in Past Decade](https://www.cnbc.com/2021/12/16/adobe-plunges-10percent-and-heads-for-second-worst-day-in-past-decade-.html)
-- [FSF Adopts New Governance Framework for Board Members](https://www.fsf.org/news/fsf-adopts-new-governance-framework-for-board-members)
-- [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
+- [Vehicle emission declines decreased deaths, study finds](https://phys.org/news/2021-12-vehicle-emission-declines-decreased-deaths.html)
+- [SpaceX launches 52 Starlink satellites from California base](https://phys.org/news/2021-12-spacex-starlink-satellites-california-base.html)
+- [Is Menadione safe for your pets?](https://onepercentamonth.com/2021/12/13/is-menadione-synthetic-vitamin-k-safe-for-your-pets/)
+- [Code Like a Pro Manning Book Humble Bundles](https://www.humblebundle.com/books/code-like-pro-manning-publications-books)
+- [Audie Murphy](https://en.wikipedia.org/wiki/Audie_Murphy)
+- [Selective Metals separation, may help alleviate critical shortages](https://news.mit.edu/2021/rare-metal-separation-shortage-1217)
+- [Eric Clapton sued a woman who listed CD on eBay for $11. She now owes thousands](https://www.washingtonpost.com/arts-entertainment/2021/12/17/eric-clapton-bootleg-cd-lawsuit-germany/)
+- [An experimental collection of generic data structures written in Go](https://github.com/zyedidia/generic)
+- [US distrust of Huawei linked in part to malware update in 2012](https://oltnews.com/us-distrust-of-huawei-linked-in-part-to-malware-update-in-2012-the-register)
+- [Maxheap-Python3](https://news.ycombinator.com/item?id=29610690)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Starting in IT in The Netherlands any degree](https://www.reddit.com/r/InformationTechnology/comments/rjkkl5/starting_in_it_in_the_netherlands_any_degree/)
+- [I&#39;m in The Netherlands and starting in IT](https://www.reddit.com/r/InformationTechnology/comments/rjki1u/im_in_the_netherlands_and_starting_in_it/)
+- [Why Europe will Lead the World into the Web 3.0 Economy - Analysis](https://www.reddit.com/r/InformationTechnology/comments/rjfyyp/why_europe_will_lead_the_world_into_the_web_30/)
+- [Emigrating to UK](https://www.reddit.com/r/InformationTechnology/comments/rj9mz8/emigrating_to_uk/)
 - [UAlbany vs IUPUI for Bachelor of Science in Informatics?](https://www.reddit.com/r/InformationTechnology/comments/rita6x/ualbany_vs_iupui_for_bachelor_of_science_in/)
 - [How to track vendor notifications?](https://www.reddit.com/r/InformationTechnology/comments/risrqc/how_to_track_vendor_notifications/)
 - [MSIS to SWE?](https://www.reddit.com/r/InformationTechnology/comments/riqmh0/msis_to_swe/)
 - [I love my Job I love Computers](https://www.reddit.com/r/InformationTechnology/comments/riksnw/i_love_my_job_i_love_computers/)
 - [Making a decision](https://www.reddit.com/r/InformationTechnology/comments/rii3ri/making_a_decision/)
 - [setting up a server for version control](https://www.reddit.com/r/InformationTechnology/comments/riahag/setting_up_a_server_for_version_control/)
-- [Printer Driver issue.](https://www.reddit.com/r/InformationTechnology/comments/ri2val/printer_driver_issue/)
-- [Network Topologies Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rhv0co/network_topologies_explained_network_n10008/)
-- [Managed Kiosk Idea](https://www.reddit.com/r/InformationTechnology/comments/rhp61w/managed_kiosk_idea/)
-- [Why are there still so many different cable standards for various devices?](https://www.reddit.com/r/InformationTechnology/comments/rhhiqn/why_are_there_still_so_many_different_cable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patching isn&#39;t enough for December&#39;s Patch Tuesday](https://www.computerworld.com/article/3645134/patching-isnt-enough-for-decembers-patch-tuesday.html#tk.rss_all)
 - [Three productivity improvements I expect to see in 2022](https://www.computerworld.com/article/3645471/three-productivity-improvements-i-expect-to-see-in-2022.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [8+ useful tips for Notes on iPhone, iPad, Mac](https://www.computerworld.com/article/3645469/8-useful-tips-for-notes-on-iphone-ipad-mac.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [Biggest tech IPOs of 2021](https://www.computerworld.com/article/3605037/biggest-tech-ipos-of-2021.html#tk.rss_all)
 - [EU ‘gig worker’ rules look to rein in algorithmic management](https://www.computerworld.com/article/3644462/eu-gig-worker-rules-look-to-rein-in-algorithmic-management.html#tk.rss_all)
 - [Atlassian’s Confluence gets new features aimed at making content more engaging](https://www.computerworld.com/article/3645068/atlassians-confluence-gets-new-features-aimed-at-making-content-more-engaging.html#tk.rss_all)
-- [Did Apple send its controversial CSAM scanning back to the lab?](https://www.computerworld.com/article/3644970/did-apple-send-its-controversial-csam-scanning-back-to-the-lab.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elizabeth Holmes trial: jury to begin deliberations in Theranos founder’s case](https://www.theguardian.com/technology/2021/dec/17/elizabeth-holmes-trial-theranos-latest)
-- [Hundreds off work ill at leading London hospital as Omicron cases surge](https://www.theguardian.com/world/2021/dec/17/hundreds-off-work-ill-at-leading-london-hospital-as-omicron-cases-surge)
-- [NHS could face surge in hospitalisations despite booster, scientists warn](https://www.theguardian.com/world/2021/dec/17/nhs-could-face-surge-in-hospitalisations-despite-booster-say-scientists-omicron)
-- [More than 130 people rescued after becoming stranded in the Channel](https://www.theguardian.com/uk-news/2021/dec/17/more-than-130-people-rescued-after-becoming-stranded-in-the-channel)
-- [‘It’s unbelievable’: Borland conjures up nine-dart finish to sink Brooks in thriller](https://www.theguardian.com/sport/2021/dec/17/william-borland-conjures-up-nine-dart-finish-to-sink-bradley-brooks)
-- [Antonio Conte’s meticulous Tottenham plans up in the air due to Covid chaos](https://www.theguardian.com/football/2021/dec/17/antonio-conte-meticulous-tottenham-plans-up-in-air-due-to-covid-chaos-liverpool)
-- [Tuchel troubled by Chelsea’s results failing to match team’s performances | Jacob Steinberg](https://www.theguardian.com/football/2021/dec/17/thomas-tuchel-troubled-by-chelsea-results-failing-to-match-teams-performances)
-- [Ben Youngs: ‘It’s been a tough time, my role is to try and bring some joy’](https://www.theguardian.com/sport/2021/dec/17/ben-youngs-its-been-a-tough-time-my-role-is-to-try-and-bring-some-joy)
-- [Tiger Woods warns his return to competitive golf remains ‘a long way off’](https://www.theguardian.com/sport/2021/dec/17/tiger-woods-warns-return-to-competitive-golf-remains-long-way-off-pnc-championship)
-- [Ghislaine Maxwell’s lawyers call Jeffrey Epstein’s ex-girlfriend as a witness](https://www.theguardian.com/us-news/2021/dec/17/ghislaine-maxwell-trial-defense-finish-arguments-sex-trafficking)
+- [Netherlands to enter lockdown as nations across Europe tighten curbs to slow Omicron spread](https://www.theguardian.com/world/2021/dec/19/netherlands-to-enter-lockdown-as-nations-across-europe-tighten-curbs-to-slow-omicron-spread)
+- [Nasa sets new date for James Webb space telescope launch](https://www.theguardian.com/science/2021/dec/19/nasa-sets-new-date-for-james-webb-space-telescope-launch)
+- [Pandemic on Wall Street causes rising levels … of bonuses](https://www.theguardian.com/business/2021/dec/19/pandemic-on-wall-street-causes-rising-levels-of-bonuses)
+- [Germany tightens restrictions on travel from UK to curb Omicron spread](https://www.theguardian.com/world/2021/dec/18/germany-tightens-restrictions-on-travel-from-uk-to-curb-omicron-spread)
+- [Police suffer minor injuries in London scuffles with anti-vax protesters](https://www.theguardian.com/world/2021/dec/18/police-suffer-minor-injuries-in-london-scuffles-with-anti-vax-protesters)
+- [Snuggle up: 10 of the best knitted dresses – in pictures](https://www.theguardian.com/fashion/gallery/2021/dec/18/snuggle-up-10-of-the-best-knitted-dresses-in-pictures)
+- [Paul Rudd Saturday Night Live to film without audience amid Omicron surge](https://www.theguardian.com/film/2021/dec/18/paul-rudd-saturday-night-live-film-without-audience-omicron-covid)
+- [Covid chaos leads Klopp to demand action to tackle anti-vaxx players | Richard Jolly](https://www.theguardian.com/football/2021/dec/18/covid-chaos-leads-jurgen-klopp-demand-action-anti-vaxx-players-liverpool)
+- [Jack Grealish targets Manchester City treble but admits he must improve](https://www.theguardian.com/football/2021/dec/18/jack-grealish-treble-manchester-city)
+- [Police make arrest over alleged racist abuse of Arsenal substitutes at Leeds](https://www.theguardian.com/football/2021/dec/18/arsenal-substitutes-targeted-by-alleged-racist-abuse-during-victory-at-leeds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

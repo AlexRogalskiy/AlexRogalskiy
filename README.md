@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Dead Sea of West Texas](https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/)
-- [What Children Lose When Their Brains Develop Too Fast](https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752)
-- [Apple&#39;s hackish attempt to make PNG decoding parallelizable](https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html)
-- [Show HN: IR stove thermometer, firmware in Rust](https://www.anyleaf.org)
-- [Manifesto for Ubiquitous Linking](https://linkingmanifesto.org/)
-- [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
-- [Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes](https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html)
-- [Thread Safety in C++ and Rust](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Tell HN: AWS warns us about irregular activity related to Log4shell](https://news.ycombinator.com/item?id=29608244)
+- [Amputated Fingertips Sometimes Grow Back](https://www.npr.org/sections/health-shots/2013/06/10/190385484/chopped-how-amputated-fingertips-sometimes-grow-back)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29620454)
+- [Overview: Alternate open-source front-ends for &lpar;YouTube, Twitter, etc.&rpar;](https://github.com/mendel5/alternative-front-ends)
+- [Show HN: Mum&#39;s 80th birthday present- a rotary phone from the 1970&#39;s](http://fourlightyears.blogspot.com/2021/12/this-is-my-mums-80th-birthday-present.html)
+- [Show HN: Interpretable Text Classification and Clustering in the Browser](https://huggingface.co/spaces/Hellisotherpeople/Interpretable_Text_Classification_And_Clustering)
+- [The AlohaNet: Surfing for Wireless Data &lpar;2009&rpar; [pdf]](https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf)
+- [Apple’s use of Swift and SwiftUI in iOS 15](https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/)
+- [Forest data for 236 countries and territories in the period 1990-2020](https://www.fao.org/forest-resources-assessment/2020/en/)
+- [The timing of evolutionary transitions suggests intelligent life is rare](https://www.liebertpub.com/doi/10.1089/ast.2019.2149)
+- [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

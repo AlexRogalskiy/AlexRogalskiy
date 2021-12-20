@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vehicle emission declines decreased deaths, study finds](https://phys.org/news/2021-12-vehicle-emission-declines-decreased-deaths.html)
-- [SpaceX launches 52 Starlink satellites from California base](https://phys.org/news/2021-12-spacex-starlink-satellites-california-base.html)
-- [Is Menadione safe for your pets?](https://onepercentamonth.com/2021/12/13/is-menadione-synthetic-vitamin-k-safe-for-your-pets/)
-- [Code Like a Pro Manning Book Humble Bundles](https://www.humblebundle.com/books/code-like-pro-manning-publications-books)
-- [Audie Murphy](https://en.wikipedia.org/wiki/Audie_Murphy)
-- [Selective Metals separation, may help alleviate critical shortages](https://news.mit.edu/2021/rare-metal-separation-shortage-1217)
-- [Eric Clapton sued a woman who listed CD on eBay for $11. She now owes thousands](https://www.washingtonpost.com/arts-entertainment/2021/12/17/eric-clapton-bootleg-cd-lawsuit-germany/)
-- [An experimental collection of generic data structures written in Go](https://github.com/zyedidia/generic)
-- [US distrust of Huawei linked in part to malware update in 2012](https://oltnews.com/us-distrust-of-huawei-linked-in-part-to-malware-update-in-2012-the-register)
-- [Maxheap-Python3](https://news.ycombinator.com/item?id=29610690)
+- [Millipede, 1,306 legs: the world’s leggiest animal in Western Australia](https://theconversation.com/1-millipede-1-306-legs-we-just-discovered-the-worlds-leggiest-animal-hiding-in-western-australia-173753)
+- [Migrating Off Log4j 2.x](https://blog.ltgt.net/migrating-off-log4j2/)
+- [Why Most Japanese Clip Art Looks the Same](https://www.youtube.com/watch?v=g3CyRZY90M4)
+- [Companies should support their employee&#39;s side projects](https://www.indiehackers.com/post/why-companies-should-support-their-employees-side-projects-17e9dfa64d)
+- [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
+- [Celebrating 20 Years of Cube: An in-depth interview with Aardappel](https://www.sauerworld.org/celebrating-20-years-of-cube-an-in-depth-interview-with-aardappel/)
+- [Review of System76 Launch [Keyboard]](https://www.bytedude.com/review-of-system-76-launch/)
+- [40-Meter Band](https://en.wikipedia.org/wiki/40-meter_band)
+- [Is the LDL response to saturated fat a sign of a healthy individual? &lpar;2018&rpar;](https://www.bmj.com/content/361/bmj.k2139/rr-4)
+- [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

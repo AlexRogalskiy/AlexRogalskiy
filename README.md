@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Netherlands to enter lockdown as nations across Europe tighten curbs to slow Omicron spread](https://www.theguardian.com/world/2021/dec/19/netherlands-to-enter-lockdown-as-nations-across-europe-tighten-curbs-to-slow-omicron-spread)
-- [Nasa sets new date for James Webb space telescope launch](https://www.theguardian.com/science/2021/dec/19/nasa-sets-new-date-for-james-webb-space-telescope-launch)
-- [Pandemic on Wall Street causes rising levels … of bonuses](https://www.theguardian.com/business/2021/dec/19/pandemic-on-wall-street-causes-rising-levels-of-bonuses)
-- [Germany tightens restrictions on travel from UK to curb Omicron spread](https://www.theguardian.com/world/2021/dec/18/germany-tightens-restrictions-on-travel-from-uk-to-curb-omicron-spread)
-- [Police suffer minor injuries in London scuffles with anti-vax protesters](https://www.theguardian.com/world/2021/dec/18/police-suffer-minor-injuries-in-london-scuffles-with-anti-vax-protesters)
-- [Snuggle up: 10 of the best knitted dresses – in pictures](https://www.theguardian.com/fashion/gallery/2021/dec/18/snuggle-up-10-of-the-best-knitted-dresses-in-pictures)
-- [Paul Rudd Saturday Night Live to film without audience amid Omicron surge](https://www.theguardian.com/film/2021/dec/18/paul-rudd-saturday-night-live-film-without-audience-omicron-covid)
-- [Covid chaos leads Klopp to demand action to tackle anti-vaxx players | Richard Jolly](https://www.theguardian.com/football/2021/dec/18/covid-chaos-leads-jurgen-klopp-demand-action-anti-vaxx-players-liverpool)
-- [Jack Grealish targets Manchester City treble but admits he must improve](https://www.theguardian.com/football/2021/dec/18/jack-grealish-treble-manchester-city)
-- [Police make arrest over alleged racist abuse of Arsenal substitutes at Leeds](https://www.theguardian.com/football/2021/dec/18/arsenal-substitutes-targeted-by-alleged-racist-abuse-during-victory-at-leeds)
+- [Leftist to become Chile’s youngest ever president after beating far-right rival](https://www.theguardian.com/world/2021/dec/19/leftist-gabriel-boric-elected-as-chiles-president)
+- [Covid news live: Omicron ‘raging around the world’, Fauci says; Belgian protests turn violent](https://www.theguardian.com/world/live/2021/dec/20/covid-news-live-omicron-raging-around-the-world-fauci-says-belgian-protests-turn-violent)
+- [Peng Shuai appearance fails to address concerns for tennis star’s wellbeing, says WTA](https://www.theguardian.com/sport/2021/dec/20/peng-shuai-appearance-fails-to-address-concerns-for-tennis-stars-wellbeing-says-wta)
+- [From Shakira’s boar brawl to Nicki Minaj’s testicle fiasco: the weirdest news stories of 2021](https://www.theguardian.com/media/2021/dec/20/from-shakiras-boar-brawl-to-nicki-minajs-testicle-fiasco-the-weirdest-news-stories-of-2021)
+- [Elizabeth Warren and Cory Booker test positive for Covid amid US Omicron surge](https://www.theguardian.com/us-news/2021/dec/19/elizabeth-warren-tests-positive-covid-omicron-surge)
+- [Hongkongers snub ‘patriots’ election with lowest turnout in three decades](https://www.theguardian.com/world/2021/dec/19/police-deployed-at-polling-stations-as-hong-kong-votes-in-overhauled-patriots-election)
+- [Pope Francis says domestic violence against women ‘almost satanic’](https://www.theguardian.com/world/2021/dec/20/pope-francis-says-domestic-violence-against-women-almost-satanic)
+- [Failure to create safe routes ‘forcing Afghans to make perilous journeys to UK’](https://www.theguardian.com/uk-news/2021/dec/20/failure-create-safe-routes-forcing-afghans-make-perilous-journeys-uk)
+- [Nearly half of FTSE 350 firms now have BAME directors](https://www.theguardian.com/business/2021/dec/20/nearly-half-of-ftse-350-firms-now-have-bame-directors)
+- [Spring Awakening review – desire and dread in coming-of-age musical](https://www.theguardian.com/stage/2021/dec/20/spring-awakening-review-desire-and-dread-in-coming-of-age-musical)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

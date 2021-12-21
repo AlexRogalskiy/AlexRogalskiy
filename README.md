@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amputated Fingertips Sometimes Grow Back](https://www.npr.org/sections/health-shots/2013/06/10/190385484/chopped-how-amputated-fingertips-sometimes-grow-back)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29620454)
-- [Overview: Alternate open-source front-ends for &lpar;YouTube, Twitter, etc.&rpar;](https://github.com/mendel5/alternative-front-ends)
-- [Show HN: Mum&#39;s 80th birthday present- a rotary phone from the 1970&#39;s](http://fourlightyears.blogspot.com/2021/12/this-is-my-mums-80th-birthday-present.html)
-- [Show HN: Interpretable Text Classification and Clustering in the Browser](https://huggingface.co/spaces/Hellisotherpeople/Interpretable_Text_Classification_And_Clustering)
-- [The AlohaNet: Surfing for Wireless Data &lpar;2009&rpar; [pdf]](https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf)
-- [Apple’s use of Swift and SwiftUI in iOS 15](https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/)
-- [Forest data for 236 countries and territories in the period 1990-2020](https://www.fao.org/forest-resources-assessment/2020/en/)
-- [The timing of evolutionary transitions suggests intelligent life is rare](https://www.liebertpub.com/doi/10.1089/ast.2019.2149)
-- [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
+- [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
+- [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
+- [Finley &lpar;YC W21&rpar; is hiring early engineers to build fintech SaaS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
+- [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
+- [Stop Whining about Rust Hype – A Pro-Rust Rant](https://thenewwazoo.github.io/whining.html)
+- [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
+- [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
+- [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
+- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html)
+- [Google to end support for OnHub routers in 2022](https://support.google.com/googlenest/answer/11257354?hl=en)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

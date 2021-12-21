@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Technical school or finish college?](https://www.reddit.com/r/InformationTechnology/comments/rl1ewa/technical_school_or_finish_college/)
+- [Degree still no luck ;-;](https://www.reddit.com/r/InformationTechnology/comments/rkuucl/degree_still_no_luck/)
+- [What tech jobs are available as part time/reduced hours, aside from Help Desk?](https://www.reddit.com/r/InformationTechnology/comments/rkunge/what_tech_jobs_are_available_as_part_timereduced/)
 - [Starting in IT in The Netherlands any degree](https://www.reddit.com/r/InformationTechnology/comments/rjkkl5/starting_in_it_in_the_netherlands_any_degree/)
 - [I&#39;m in The Netherlands and starting in IT](https://www.reddit.com/r/InformationTechnology/comments/rjki1u/im_in_the_netherlands_and_starting_in_it/)
 - [Why Europe will Lead the World into the Web 3.0 Economy - Analysis](https://www.reddit.com/r/InformationTechnology/comments/rjfyyp/why_europe_will_lead_the_world_into_the_web_30/)
@@ -421,9 +424,6 @@
 - [UAlbany vs IUPUI for Bachelor of Science in Informatics?](https://www.reddit.com/r/InformationTechnology/comments/rita6x/ualbany_vs_iupui_for_bachelor_of_science_in/)
 - [How to track vendor notifications?](https://www.reddit.com/r/InformationTechnology/comments/risrqc/how_to_track_vendor_notifications/)
 - [MSIS to SWE?](https://www.reddit.com/r/InformationTechnology/comments/riqmh0/msis_to_swe/)
-- [I love my Job I love Computers](https://www.reddit.com/r/InformationTechnology/comments/riksnw/i_love_my_job_i_love_computers/)
-- [Making a decision](https://www.reddit.com/r/InformationTechnology/comments/rii3ri/making_a_decision/)
-- [setting up a server for version control](https://www.reddit.com/r/InformationTechnology/comments/riahag/setting_up_a_server_for_version_control/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

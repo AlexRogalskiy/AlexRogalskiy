@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Millipede, 1,306 legs: the world’s leggiest animal in Western Australia](https://theconversation.com/1-millipede-1-306-legs-we-just-discovered-the-worlds-leggiest-animal-hiding-in-western-australia-173753)
-- [Migrating Off Log4j 2.x](https://blog.ltgt.net/migrating-off-log4j2/)
-- [Why Most Japanese Clip Art Looks the Same](https://www.youtube.com/watch?v=g3CyRZY90M4)
-- [Companies should support their employee&#39;s side projects](https://www.indiehackers.com/post/why-companies-should-support-their-employees-side-projects-17e9dfa64d)
-- [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
-- [Celebrating 20 Years of Cube: An in-depth interview with Aardappel](https://www.sauerworld.org/celebrating-20-years-of-cube-an-in-depth-interview-with-aardappel/)
-- [Review of System76 Launch [Keyboard]](https://www.bytedude.com/review-of-system-76-launch/)
-- [40-Meter Band](https://en.wikipedia.org/wiki/40-meter_band)
-- [Is the LDL response to saturated fat a sign of a healthy individual? &lpar;2018&rpar;](https://www.bmj.com/content/361/bmj.k2139/rr-4)
-- [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
+- [EFF: Release Records Showing How Law Enforcement Uses Cell-Site Simulators](https://www.eff.org/deeplinks/2021/12/eff-continues-legal-fight-release-records-showing-how-law-enforcement-uses-cell)
+- [Overemployed.com- work two remote jobs at once, gain financial freedom](https://overemployed.com/)
+- [Kodi: An Open Source Home Theater System](https://kodi.tv/)
+- [Ask HN: Best resource for learning location based/local advertising?](https://news.ycombinator.com/item?id=29633064)
+- [GLIDE: Photorealistic Image Generation, Editing w/ Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
+- [Animating &#39;A Charlie Brown Christmas&#39;](https://animationobsessive.substack.com/p/animating-a-charlie-brown-christmas)
+- [Almost Barely Working &lpar;2009&rpar;](http://clabs.org/blog/AlmostBarelyWorking)
+- [SpaceX headquarters in Hawthorne sees Covid-19 outbreak with 132 cases](https://abc7.com/spacex-covid-la-county-outbreaks-elon-musk-coronavirus/11362771/)
+- [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
+- [&lpar;Trailer&rpar; the Babylon Bee Interviews Elon Musk](https://www.youtube.com/watch?v=bvXkNrlDk1M)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

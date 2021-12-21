@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Clouds gather over Chinese providers – but is there a silver lining?](https://www.computerweekly.com/feature/Clouds-gather-over-Chinese-providers-but-is-there-a-silver-lining)
+- [Defra and MoJ hit with £120m IR35 tax bill despite using HMRC guidance](https://www.computerweekly.com/news/252511198/Defra-and-MoJ-hit-with-120m-IR35-tax-bill-despite-using-HMRC-guidance)
+- [Finnish government launches digital economy transformation projects](https://www.computerweekly.com/news/252511044/Finnish-government-launches-digital-economy-transformation-projects)
+- [Minorities in IT less likely to be in leadership positions](https://www.computerweekly.com/news/252511189/Minorities-in-IT-less-likely-to-be-in-leadership-positions)
+- [Top 10 ransomware and backup stories of 2021](https://www.computerweekly.com/feature/Top-10-ransomware-and-backup-stories-of-2021)
+- [Top 10 artificial intelligence stories of 2021](https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021)
+- [Security Think Tank: Reframing CISO-boardroom relations](https://www.computerweekly.com/opinion/Security-Think-Tank-Reframing-CISO-boardroom-relations)
+- [The emerging role of software in business development](https://www.computerweekly.com/feature/The-emerging-role-of-software-in-business-development)
 - [Diversity and inclusion in tech: the next 10 years](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-the-next-10-years)
 - [CDEI research pinpoints barriers to trustworthy AI exploitation](https://www.computerweekly.com/news/252511104/CDEI-research-pinpoints-barriers-to-trustworthy-AI-exploitation)
-- [Cloud wars: How the US tech giants opening UK datacentres shook up the public sector market](https://www.computerweekly.com/news/252511058/Cloud-wars-How-the-US-tech-giants-opening-UK-datacentres-shook-up-the-public-sector-market)
-- [Security Think Tank: When will they ever learn?](https://www.computerweekly.com/opinion/Security-Think-Tank-When-will-they-ever-learn)
-- [HSBC fined £64m for automated transaction monitoring failures](https://www.computerweekly.com/news/252511100/HSBC-fined-64m-for-automated-transaction-monitoring-failures)
-- [Enabling secure remote working is once again a top priority](https://www.computerweekly.com/opinion/Enabling-secure-remote-working-is-a-top-priority)
-- [Nationwide Building Society moves website to Azure cloud](https://www.computerweekly.com/news/252511040/Nationwide-Building-Society-moves-website-to-Azure-cloud)
-- [Pressure on government to pay fair compensation to subpostmasters left out of current schemes](https://www.computerweekly.com/news/252511005/Pressure-on-government-to-pay-fair-compensation-to-subpostmasters-left-out-of-current-schemes)
-- [Gig economy algorithmic management tools ‘unfair and opaque’](https://www.computerweekly.com/news/252511001/Gig-economy-algorithmic-management-tools-unfair-and-opaque)
-- [Asda follows EG Group sibling in selection of Rise with SAP](https://www.computerweekly.com/news/252510997/Asda-follows-EG-Group-parent-in-selection-of-Rise-with-SAP)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

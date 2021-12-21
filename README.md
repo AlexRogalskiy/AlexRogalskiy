@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Starlink internet performance still beating broadband download speeds in Canada](https://www.itworldcanada.com/article/starlink-internet-performance-still-beating-broadband-download-speeds-in-canada/469195)
+- [Eight last minute holiday gift ideas](https://www.itworldcanada.com/article/eight-last-minute-holiday-gift-ideas/469154)
+- [A Time to Be Bold: Canada’s New CIO Talks about Life and Leadership](https://www.itworldcanada.com/article/a-time-to-be-bold-canadas-new-cio-talks-about-life-and-leadership/469137)
+- [Cyber Security Today, Dec. 20, 2021 – Another log4j patch to install, a U.S. commission’s IT network allegedly compromised, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-20-2021-another-log4j-patch-to-install-a-u-s-commissions-it-network-allegedly-compromised-and-more/469069)
+- [Hashtag Trending Dec. 20 – JPMorgan fined; Meta called the worst company of the year; Amazon reverses its smartphone ban](https://www.itworldcanada.com/article/hashtag-trending-dec-20-jpmorgan-fined-meta-called-the-worst-company-of-the-year-amazon-reverses-its-smartphone-ban/469115)
+- [Apache issues third Log4j patch, new attack vector found](https://www.itworldcanada.com/article/apache-issues-third-log4j-patch-new-attack-vector-found/469083)
 - [Desjardins could pay $200 million to settle lawsuit from data breach](https://www.itworldcanada.com/article/desjardins-could-pay-200-million-to-settle-lawsuit-from-data-breach/468897)
 - [How falling for a phishing email led to a crippling ransomware attack in Ireland](https://www.itworldcanada.com/article/how-falling-for-a-phishing-email-led-to-a-crippling-ransomware-attack-in-ireland/468415)
 - [Cyber Security Today, Week in Review for Dec. 17, 2021](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-dec-17-2021/468773)
 - [Do as Much Good Stuff as You Can: Tips from the Founder of SmartONE Solutions](https://www.itworldcanada.com/article/do-as-much-good-stuff-as-you-can-tips-from-the-founder-of-smartone-solutions/468914)
-- [Cyber Security Today, Dec. 17, 2021 – Canadian propane distributor hit by ransomware, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-17-2021-canadian-propane-distributor-hit-by-ransomware-and-more/468787)
-- [Hashtag Trending Dec. 17 – Apple in-office delay; Metaverse needs power; T-mobile increases minimum wage](https://www.itworldcanada.com/article/hashtag-trending-dec-17-apple-in-office-delay-metaverse-needs-power-t-mobile-increases-minimum-wage/468792)
-- [Canada’s Security Compass Advisory shifts to Kroll](https://www.itworldcanada.com/article/canadas-security-compass-shifts-consulting-division-to-kroll/468665)
-- [Robo-Dog Spot demonstrates its potential at Toronto construction site](https://www.itworldcanada.com/article/robo-dog-spot-demonstrates-its-potential-at-toronto-construction-site/468682)
-- [CN partners with Google Cloud to modernize railway services](https://www.itworldcanada.com/article/cn-partners-with-google-cloud-to-modernize-railway-services/468715)
-- [No one’s losing faith over open source software despite Log4Shell, says expert](https://www.itworldcanada.com/article/no-ones-losing-faith-over-open-source-software-despite-log4shell-says-expert/468575)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

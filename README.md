@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Leftist to become Chile’s youngest ever president after beating far-right rival](https://www.theguardian.com/world/2021/dec/19/leftist-gabriel-boric-elected-as-chiles-president)
-- [Covid news live: Omicron ‘raging around the world’, Fauci says; Belgian protests turn violent](https://www.theguardian.com/world/live/2021/dec/20/covid-news-live-omicron-raging-around-the-world-fauci-says-belgian-protests-turn-violent)
-- [Peng Shuai appearance fails to address concerns for tennis star’s wellbeing, says WTA](https://www.theguardian.com/sport/2021/dec/20/peng-shuai-appearance-fails-to-address-concerns-for-tennis-stars-wellbeing-says-wta)
-- [From Shakira’s boar brawl to Nicki Minaj’s testicle fiasco: the weirdest news stories of 2021](https://www.theguardian.com/media/2021/dec/20/from-shakiras-boar-brawl-to-nicki-minajs-testicle-fiasco-the-weirdest-news-stories-of-2021)
-- [Elizabeth Warren and Cory Booker test positive for Covid amid US Omicron surge](https://www.theguardian.com/us-news/2021/dec/19/elizabeth-warren-tests-positive-covid-omicron-surge)
-- [Hongkongers snub ‘patriots’ election with lowest turnout in three decades](https://www.theguardian.com/world/2021/dec/19/police-deployed-at-polling-stations-as-hong-kong-votes-in-overhauled-patriots-election)
-- [Pope Francis says domestic violence against women ‘almost satanic’](https://www.theguardian.com/world/2021/dec/20/pope-francis-says-domestic-violence-against-women-almost-satanic)
-- [Failure to create safe routes ‘forcing Afghans to make perilous journeys to UK’](https://www.theguardian.com/uk-news/2021/dec/20/failure-create-safe-routes-forcing-afghans-make-perilous-journeys-uk)
-- [Nearly half of FTSE 350 firms now have BAME directors](https://www.theguardian.com/business/2021/dec/20/nearly-half-of-ftse-350-firms-now-have-bame-directors)
-- [Spring Awakening review – desire and dread in coming-of-age musical](https://www.theguardian.com/stage/2021/dec/20/spring-awakening-review-desire-and-dread-in-coming-of-age-musical)
+- [Covid news live: WHO declares 2022 to be the year ‘we end the pandemic’ as US says Omicron is now dominant strain](https://www.theguardian.com/world/live/2021/dec/21/covid-news-live-who-declares-2022-to-be-the-year-we-end-the-pandemic-as-us-says-omicron-is-now-dominant-strain)
+- [Philippines Typhoon Rai death toll reaches 375 as desperate survivors plead for supplies](https://www.theguardian.com/world/2021/dec/21/philippines-typhoon-rai-death-toll-reaches-375-as-desperate-survivors-plead-for-supplies)
+- [All sporting events in Wales to be held behind closed doors from Boxing Day](https://www.theguardian.com/sport/2021/dec/21/wales-sport-behind-closed-doors-boxing-day-football-rugby-union-horse-racing)
+- [Fans chant ‘stand up if you hate Boris’ at packed world darts championship](https://www.theguardian.com/politics/2021/dec/21/fans-chant-stand-up-if-you-hate-boris-at-packed-darts-championship)
+- [Crowd boos Trump after he reveals he took Covid booster](https://www.theguardian.com/us-news/2021/dec/20/trump-covid-19-booster-shot-crowd-boos)
+- [The 100 best male footballers in the world 2021: Nos 100-71](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
+- [Omicron is now dominant Covid-19 variant in US, officials say](https://www.theguardian.com/world/2021/dec/20/us-covid-omicron-coronavirus)
+- [PGA Tour gives players green light to play in Saudi International](https://www.theguardian.com/sport/2021/dec/20/golf-pga-tour-allows-players-saudi-international)
+- [Raymond van Barneveld makes winning return to PDC world championship](https://www.theguardian.com/sport/2021/dec/20/pdc-world-darts-championship-van-barneveld-wade)
+- [Walmart illegally dumps 1m toxic items in landfills yearly, lawsuit claims](https://www.theguardian.com/business/2021/dec/20/walmart-waste-california-lawsuit-dumping)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

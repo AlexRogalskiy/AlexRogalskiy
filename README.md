@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The 2021 IT Job Market: What a Year](https://www.informationweek.com/strategic-cio/the-2021-it-job-market-what-a-year)
+- [Tech Modernization: How to Start Building a Foundation](https://www.informationweek.com/cloud/tech-modernization-how-to-start-building-a-foundation)
 - [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
 - [Why We Need Infrastructure-led Innovation to Transform Network Security](https://www.informationweek.com/security-and-risk-strategy/why-we-need-infrastructure-led-innovation-to-transform-network-security)
 - [The US Trucking Industry Takes the 3G Network Sunsetting Challenge](https://www.informationweek.com/it-life/the-us-trucking-industry-takes-the-3g-network-sunsetting-challenge)
@@ -377,8 +379,6 @@
 - [Attackers Target Log4J to Drop Ransomware, Web Shells, Backdoors](https://www.informationweek.com/security-and-risk-strategy/attackers-target-log4j-to-drop-ransomware-web-shells-backdoors)
 - [Companies Need Customer-Centric Business Process Engineering](https://www.informationweek.com/software/companies-need-customer-centric-business-process-engineering)
 - [5 Steps to an Effective Security Assessment](https://www.informationweek.com/security-and-risk-strategy/5-steps-to-an-effective-security-assessment)
-- [Leveraging AIOps in the Finance Industry](https://www.informationweek.com/fintech/leveraging-aiops-in-the-finance-industry)
-- [Why Relationships with Your Tech Service Providers Might Be Waning](https://www.informationweek.com/it-life/why-relationships-with-your-tech-service-providers-might-be-waning)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

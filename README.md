@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Large organisations turning to digital currencies for stored value](https://www.computerweekly.com/news/252511273/Large-organisations-turning-to-digital-currencies-for-stored-value)
+- [Oracle buys Cerner for nearly $30bn in major push into healthcare](https://www.computerweekly.com/news/252511265/Oracle-buys-Cerner-for-nearly-30bn-in-major-push-into-healthcare)
+- [IT services spending recovery to get renewals boost in 2022](https://www.computerweekly.com/news/252511263/IT-services-spending-recovery-to-get-renewals-boost-in-2022)
+- [UK tech startups raise almost £30bn in record year](https://www.computerweekly.com/news/252511270/UK-tech-startups-raise-almost-30bn-in-record-year)
+- [What is Log4Shell - and why the panic?](https://www.computerweekly.com/ezine/Computer-Weekly/What-is-Log4Shell-and-why-the-panic)
+- [Top 10 NHS IT stories of 2021](https://www.computerweekly.com/news/252510431/Top-10-NHS-IT-stories-of-2021)
+- [Top 10 cloud storage, DR and datacentre storage stories of 2021](https://www.computerweekly.com/feature/Top-10-cloud-storage-DR-and-datacentre-storage-stories-of-2021)
+- [Top 10 software development stories of 2021](https://www.computerweekly.com/news/252510582/Top-10-software-development-stories-of-2021)
 - [Clouds gather over Chinese providers – but is there a silver lining?](https://www.computerweekly.com/feature/Clouds-gather-over-Chinese-providers-but-is-there-a-silver-lining)
 - [Defra and MoJ hit with £120m IR35 tax bill despite using HMRC guidance](https://www.computerweekly.com/news/252511198/Defra-and-MoJ-hit-with-120m-IR35-tax-bill-despite-using-HMRC-guidance)
-- [Finnish government launches digital economy transformation projects](https://www.computerweekly.com/news/252511044/Finnish-government-launches-digital-economy-transformation-projects)
-- [Minorities in IT less likely to be in leadership positions](https://www.computerweekly.com/news/252511189/Minorities-in-IT-less-likely-to-be-in-leadership-positions)
-- [Top 10 ransomware and backup stories of 2021](https://www.computerweekly.com/feature/Top-10-ransomware-and-backup-stories-of-2021)
-- [Top 10 artificial intelligence stories of 2021](https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021)
-- [Security Think Tank: Reframing CISO-boardroom relations](https://www.computerweekly.com/opinion/Security-Think-Tank-Reframing-CISO-boardroom-relations)
-- [The emerging role of software in business development](https://www.computerweekly.com/feature/The-emerging-role-of-software-in-business-development)
-- [Diversity and inclusion in tech: the next 10 years](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-the-next-10-years)
-- [CDEI research pinpoints barriers to trustworthy AI exploitation](https://www.computerweekly.com/news/252511104/CDEI-research-pinpoints-barriers-to-trustworthy-AI-exploitation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

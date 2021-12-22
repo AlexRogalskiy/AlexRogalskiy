@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Log4J Attacks Confirm Need for DevSecOps, Automation, SBOM](https://www.informationweek.com/devops/log4j-attacks-confirm-need-for-devsecops-automation-sbom)
+- [Data Innovation in 2021: Supply Chain, Ethical AI, Data Pros in High Demand](https://www.informationweek.com/big-data/data-innovation-in-2021-supply-chain-ethical-ai-data-pros-in-high-demand)
+- [Payment Trends to Watch in 2022](https://www.informationweek.com/fintech/payment-trends-to-watch-in-2022)
 - [The 2021 IT Job Market: What a Year](https://www.informationweek.com/strategic-cio/the-2021-it-job-market-what-a-year)
 - [Tech Modernization: How to Start Building a Foundation](https://www.informationweek.com/cloud/tech-modernization-how-to-start-building-a-foundation)
 - [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
@@ -376,9 +379,6 @@
 - [The US Trucking Industry Takes the 3G Network Sunsetting Challenge](https://www.informationweek.com/it-life/the-us-trucking-industry-takes-the-3g-network-sunsetting-challenge)
 - [Quantum Compute Report Card: ‘We Need A Lot More Machines’](https://www.informationweek.com/hardware-or-architectures/quantum-compute-report-card-we-need-a-lot-more-machines-)
 - [The Importance of Digital Transformation in Predictive Analytics](https://www.informationweek.com/big-data/the-importance-of-digital-transformation-in-predictive-analytics)
-- [Attackers Target Log4J to Drop Ransomware, Web Shells, Backdoors](https://www.informationweek.com/security-and-risk-strategy/attackers-target-log4j-to-drop-ransomware-web-shells-backdoors)
-- [Companies Need Customer-Centric Business Process Engineering](https://www.informationweek.com/software/companies-need-customer-centric-business-process-engineering)
-- [5 Steps to an Effective Security Assessment](https://www.informationweek.com/security-and-risk-strategy/5-steps-to-an-effective-security-assessment)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

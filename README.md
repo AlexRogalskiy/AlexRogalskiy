@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [EFF: Release Records Showing How Law Enforcement Uses Cell-Site Simulators](https://www.eff.org/deeplinks/2021/12/eff-continues-legal-fight-release-records-showing-how-law-enforcement-uses-cell)
-- [Overemployed.com- work two remote jobs at once, gain financial freedom](https://overemployed.com/)
-- [Kodi: An Open Source Home Theater System](https://kodi.tv/)
-- [Ask HN: Best resource for learning location based/local advertising?](https://news.ycombinator.com/item?id=29633064)
-- [GLIDE: Photorealistic Image Generation, Editing w/ Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
-- [Animating &#39;A Charlie Brown Christmas&#39;](https://animationobsessive.substack.com/p/animating-a-charlie-brown-christmas)
-- [Almost Barely Working &lpar;2009&rpar;](http://clabs.org/blog/AlmostBarelyWorking)
-- [SpaceX headquarters in Hawthorne sees Covid-19 outbreak with 132 cases](https://abc7.com/spacex-covid-la-county-outbreaks-elon-musk-coronavirus/11362771/)
-- [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
-- [&lpar;Trailer&rpar; the Babylon Bee Interviews Elon Musk](https://www.youtube.com/watch?v=bvXkNrlDk1M)
+- [MongoDB Poaches Top Amazon Executives to Compete with AWS](https://www.bloomberg.com/news/articles/2021-12-21/mongodb-poaches-top-amazon-executives-to-compete-with-aws)
+- [When Fossil Fuels Run Out, What Then? &lpar;It&#39;s 2060&rpar;](https://mahb.stanford.edu/library-item/fossil-fuels-run/)
+- [Microchip implanted in your arm tracks Covid vaccine status with cell phone scan](https://www.the-sun.com/tech/3913734/microchip-implanted-into-skin-vaccination-status-proof/)
+- [Starring the Computer](https://www.starringthecomputer.com/)
+- [Fossilized Dinosaur Embryo Discovered](https://www.cell.com/iscience/fulltext/S2589-0042(21)01487-5)
+- [Series of preclinical studies supports the Army’s pan-coronavirus vaccine](https://www.army.mil/article/252890/series_of_preclinical_studies_supports_the_armys_pan_coronavirus_vaccine_development_strategy)
+- [Attempting to use GNU Guix, again](https://ruzkuku.com/texts/guix-again.html)
+- [American Workers Are Burned Out, and Bosses Are Struggling to Respond](https://www.wsj.com/articles/worker-burnout-resignations-pandemic-stress--11640099198)
+- [Self-Publishing Is Not a Last Resort. It Is the Holy Grail](http://passionatereason.com/2021/12/self-publishing-is-not-a-last-resort-it-is-the-holy-grail/)
+- [Baseline pupil size is related to cognitive ability – ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why SBOM management is no longer optional](https://www.infoworld.com/article/3645452/why-sbom-management-is-no-longer-optional.html#tk.rss_all)
+- [How technology bias impacts cloud architecture](https://www.infoworld.com/article/3645137/how-technology-bias-impacts-cloud-architecture.html#tk.rss_all)
+- [Meeting the challenges of multi-cluster Kubernetes](https://www.infoworld.com/article/3644418/meeting-the-challenges-of-multi-cluster-kubernetes.html#tk.rss_all)
 - [5 rules for getting data architecture right](https://www.infoworld.com/article/3645349/5-rules-for-getting-data-architecture-right.html#tk.rss_all)
 - [Cloud numbers don’t add up](https://www.infoworld.com/article/3645135/cloud-numbers-dont-add-up.html#tk.rss_all)
 - [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [2 cloud computing predictions you won’t hear anywhere else](https://www.infoworld.com/article/3644493/2-cloud-computing-predictions-you-wont-hear-anywhere-else.html#tk.rss_all)
 - [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_all)
 - [How developers scrambled to secure the Log4j vulnerability](https://www.infoworld.com/article/3645131/how-developers-scrambled-to-secure-the-log4j-vulnerability.html#tk.rss_all)
-- [How to use the minimal hosting model in ASP.NET Core 6](https://www.infoworld.com/article/3645148/how-to-use-the-minimal-hosting-model-in-aspnet-core-6.html#tk.rss_all)
-- [The future of the operational data warehouse](https://www.infoworld.com/article/3644888/the-future-of-the-operational-data-warehouse.html#tk.rss_all)
-- [Hands-on with the Marko JavaScript framework](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

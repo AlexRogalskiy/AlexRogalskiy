@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s do yall recommend for earbuds?](https://www.reddit.com/r/InformationTechnology/comments/rluen5/whats_do_yall_recommend_for_earbuds/)
+- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rlnt0m/needed_it_decision_makers_research_opportunity/)
+- [What&#39;s the End User referring to Guessing Game](https://www.reddit.com/r/InformationTechnology/comments/rllb7a/whats_the_end_user_referring_to_guessing_game/)
+- [To close or not to close?](https://www.reddit.com/r/InformationTechnology/comments/rlfpu0/to_close_or_not_to_close/)
+- [Job Interview For An Incident Manager Role//Need material of major incident/RCA](https://www.reddit.com/r/InformationTechnology/comments/rled7e/job_interview_for_an_incident_manager_roleneed/)
 - [Technical school or finish college?](https://www.reddit.com/r/InformationTechnology/comments/rl1ewa/technical_school_or_finish_college/)
 - [Degree still no luck ;-;](https://www.reddit.com/r/InformationTechnology/comments/rkuucl/degree_still_no_luck/)
 - [What tech jobs are available as part time/reduced hours, aside from Help Desk?](https://www.reddit.com/r/InformationTechnology/comments/rkunge/what_tech_jobs_are_available_as_part_timereduced/)
 - [Starting in IT in The Netherlands any degree](https://www.reddit.com/r/InformationTechnology/comments/rjkkl5/starting_in_it_in_the_netherlands_any_degree/)
 - [I&#39;m in The Netherlands and starting in IT](https://www.reddit.com/r/InformationTechnology/comments/rjki1u/im_in_the_netherlands_and_starting_in_it/)
-- [Why Europe will Lead the World into the Web 3.0 Economy - Analysis](https://www.reddit.com/r/InformationTechnology/comments/rjfyyp/why_europe_will_lead_the_world_into_the_web_30/)
-- [Emigrating to UK](https://www.reddit.com/r/InformationTechnology/comments/rj9mz8/emigrating_to_uk/)
-- [UAlbany vs IUPUI for Bachelor of Science in Informatics?](https://www.reddit.com/r/InformationTechnology/comments/rita6x/ualbany_vs_iupui_for_bachelor_of_science_in/)
-- [How to track vendor notifications?](https://www.reddit.com/r/InformationTechnology/comments/risrqc/how_to_track_vendor_notifications/)
-- [MSIS to SWE?](https://www.reddit.com/r/InformationTechnology/comments/riqmh0/msis_to_swe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

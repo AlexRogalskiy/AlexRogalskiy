@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: WHO declares 2022 to be the year ‘we end the pandemic’ as US says Omicron is now dominant strain](https://www.theguardian.com/world/live/2021/dec/21/covid-news-live-who-declares-2022-to-be-the-year-we-end-the-pandemic-as-us-says-omicron-is-now-dominant-strain)
-- [Philippines Typhoon Rai death toll reaches 375 as desperate survivors plead for supplies](https://www.theguardian.com/world/2021/dec/21/philippines-typhoon-rai-death-toll-reaches-375-as-desperate-survivors-plead-for-supplies)
-- [All sporting events in Wales to be held behind closed doors from Boxing Day](https://www.theguardian.com/sport/2021/dec/21/wales-sport-behind-closed-doors-boxing-day-football-rugby-union-horse-racing)
-- [Fans chant ‘stand up if you hate Boris’ at packed world darts championship](https://www.theguardian.com/politics/2021/dec/21/fans-chant-stand-up-if-you-hate-boris-at-packed-darts-championship)
-- [Crowd boos Trump after he reveals he took Covid booster](https://www.theguardian.com/us-news/2021/dec/20/trump-covid-19-booster-shot-crowd-boos)
-- [The 100 best male footballers in the world 2021: Nos 100-71](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
-- [Omicron is now dominant Covid-19 variant in US, officials say](https://www.theguardian.com/world/2021/dec/20/us-covid-omicron-coronavirus)
-- [PGA Tour gives players green light to play in Saudi International](https://www.theguardian.com/sport/2021/dec/20/golf-pga-tour-allows-players-saudi-international)
-- [Raymond van Barneveld makes winning return to PDC world championship](https://www.theguardian.com/sport/2021/dec/20/pdc-world-darts-championship-van-barneveld-wade)
-- [Walmart illegally dumps 1m toxic items in landfills yearly, lawsuit claims](https://www.theguardian.com/business/2021/dec/20/walmart-waste-california-lawsuit-dumping)
+- [Covid news live: Europe facing ‘another storm’ due to Omicron, WHO warns; Israel announces fourth jab for over-60s](https://www.theguardian.com/world/live/2021/dec/22/covid-news-live-europe-facing-another-storm-due-to-omicron-who-warns-israel-announces-fourth-jab-for-over-60s)
+- [Harvard professor found guilty of hiding ties to Chinese-run recruitment program](https://www.theguardian.com/us-news/2021/dec/22/harvard-professor-found-guilty-of-hiding-ties-to-chinese-run-recruitment-program)
+- [‘A moral issue to correct’: the long tail of Elena Ceaușescu’s fraudulent scientific work](https://www.theguardian.com/world/2021/dec/22/a-moral-issue-to-correct-the-long-tail-of-elena-ceausescus-fraudulent-scientific-work)
+- [‘Like a freeway in traffic’: America’s busiest ports choked by a pandemic holiday](https://www.theguardian.com/business/2021/dec/21/inside-americas-busiest-port-during-holidays)
+- [JonBenét Ramsey: DNA testing could be used to solve case, police say](https://www.theguardian.com/us-news/2021/dec/21/jonbenet-ramsey-dna-testing-could-be-used-to-solve-case-police-say)
+- [Madagascar: minister swims 12 hours to safety after helicopter crash](https://www.theguardian.com/world/2021/dec/22/madagascar-minister-swims-12-hours-to-safety-after-helicopter-crash)
+- [‘We’re still in it’: Biden’s Covid address acknowledges battle fatigue but seeks to rally the troops](https://www.theguardian.com/us-news/2021/dec/21/joe-biden-covid-address-fatigue)
+- [No new Covid restrictions before Christmas, Boris Johnson confirms](https://www.theguardian.com/politics/2021/dec/21/no-new-covid-measures-before-christmas-boris-johnson-confirms)
+- [The 100 best male footballers in the world 2021: Nos 100-41](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
+- [Sexual harassment rife in UK universities, warns staff union](https://www.theguardian.com/education/2021/dec/22/sexual-harassment-rife-in-uk-universities-warns-staff-union)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

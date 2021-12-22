@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
-- [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
-- [Finley &lpar;YC W21&rpar; is hiring early engineers to build fintech SaaS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
-- [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
-- [Stop Whining about Rust Hype – A Pro-Rust Rant](https://thenewwazoo.github.io/whining.html)
-- [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
-- [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
-- [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
-- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html)
-- [Google to end support for OnHub routers in 2022](https://support.google.com/googlenest/answer/11257354?hl=en)
+- [When Fossil Fuels Run Out, What Then? &lpar;It&#39;s 2060&rpar;](https://mahb.stanford.edu/library-item/fossil-fuels-run/)
+- [&lpar;Mac&rpar;OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
+- [The Prisoner-Run Radio Station That’s Reaching Men on Death Row](https://www.themarshallproject.org/2021/12/20/the-prison-radio-station-that-s-reaching-men-on-death-row)
+- [11-week Kellogg’s strike to end after multi-year agreement reached](https://www.kiro7.com/news/trending/11-week-kelloggs-strike-end-after-multi-year-agreement-reached/25R67UQLN5FKDEKUQHDLZDWS2E/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
+- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
+- [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
+- [2021-22 Tesla Model Y earns highest IIHS accolade](https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade)
+- [Show HN: Aftertext](https://breckyunits.com/aftertext.html)
+- [The Great SPAC Scam: SPACs a Great Deal for Sponsors, but Not Others](https://www.mergersandinquisitions.com/great-spac-scam/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

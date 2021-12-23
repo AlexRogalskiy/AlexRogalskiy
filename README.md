@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CES 2022 exhibitors opting out over Omicron concerns, but CTA says the show will go on](https://www.itworldcanada.com/article/ces-2022-exhibitors-opting-out-over-omicron-concerns-but-cta-says-the-show-will-go-on/469360)
+- [Vancouver software company to acquire Australia-based Link Group for CA$3.2 billion](https://www.itworldcanada.com/article/vancouver-software-company-to-acquire-australia-based-link-group-for-ca3-2-billion/469361)
+- [Amazon Web Services hit with another outage, many services now restored](https://www.itworldcanada.com/article/amazon-web-services-hit-with-another-outage-many-services-now-restored/469344)
+- [Threat actors behind SolarWinds compromise are still active, warns Mandiant](https://www.itworldcanada.com/article/threat-actors-behind-solarwinds-compromise-are-still-active-warns-mandiant/469319)
+- [Cyber Security Today, Dec. 22, 2021 – Alerts for Windows administrators, install this ManageEngine update, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-22-2021-alerts-for-windows-administrators-install-this-manageengine-update-and-more/469266)
+- [Hashtag Trending Dec. 22 – Amazon censors bad reviews; Facebook struggles to keep employees; Mental health app security breach](https://www.itworldcanada.com/article/hashtag-trending-dec-22-amazon-censors-bad-reviews-facebook-struggles-to-keep-employees-mental-health-app-security-breach/469305)
 - [Scam call volume more than doubled in 2021, says T-Mobile](https://www.itworldcanada.com/article/scam-call-volume-more-than-doubled-in-2021-says-t-mobile/469285)
 - [Google Canada celebrates its 20th anniversary](https://www.itworldcanada.com/article/google-canada-celebrates-its-20th-anniversary/469201)
 - [Coffee Briefing, Dec. 21, 2021 – Sage Intacct expands in retail and ecommerce vertical; Toronto firm launches AI client churn risk predictor; and more](https://www.itworldcanada.com/article/coffee-briefing-dec-21-2021-sage-intacct-expands-in-retail-and-ecommerce-vertical-toronto-firm-launches-ai-client-churn-risk-predictor-and-more/469222)
 - [Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues](https://www.itworldcanada.com/article/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/469213)
-- [Starlink internet performance still beating broadband download speeds in Canada](https://www.itworldcanada.com/article/starlink-internet-performance-still-beating-broadband-download-speeds-in-canada/469195)
-- [Eight last minute holiday gift ideas](https://www.itworldcanada.com/article/eight-last-minute-holiday-gift-ideas/469154)
-- [A Time to Be Bold: Canada’s New CIO Talks about Life and Leadership](https://www.itworldcanada.com/article/a-time-to-be-bold-canadas-new-cio-talks-about-life-and-leadership/469137)
-- [Cyber Security Today, Dec. 20, 2021 – Another log4j patch to install, a U.S. commission’s IT network allegedly compromised, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-20-2021-another-log4j-patch-to-install-a-u-s-commissions-it-network-allegedly-compromised-and-more/469069)
-- [Hashtag Trending Dec. 20 – JPMorgan fined; Meta called the worst company of the year; Amazon reverses its smartphone ban](https://www.itworldcanada.com/article/hashtag-trending-dec-20-jpmorgan-fined-meta-called-the-worst-company-of-the-year-amazon-reverses-its-smartphone-ban/469115)
-- [Apache issues third Log4j patch, new attack vector found](https://www.itworldcanada.com/article/apache-issues-third-log4j-patch-new-attack-vector-found/469083)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

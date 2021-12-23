@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [CES 2022: Can hope defy Omicron?](https://www.computerworld.com/article/3645146/ces-2022-can-hope-defy-omicron.html#tk.rss_all)
+- [Mac enrollment simplified: Apple Configurator comes to iOS](https://www.computerworld.com/article/3645355/mac-enrollment-simplified-apple-configurator-ios.html#tk.rss_all)
+- [The top Chrome OS tips of 2021](https://www.computerworld.com/article/3328830/chrome-os-tips-2021.html#tk.rss_all)
 - [What Apple’s approach to building services income tells us](https://www.computerworld.com/article/3645372/what-apples-approach-to-building-services-income-tells-us.html#tk.rss_all)
 - [Don’t waste time reinventing the software wheel](https://www.computerworld.com/article/3645139/don-t-waste-time-reinventing-the-software-wheel.html#tk.rss_all)
 - [The Great Resignation: Why workers quit &lpar;and how companies can respond&rpar;](https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [What’s all the fuss with Log4j2?](https://www.computerworld.com/article/3645430/whats-all-the-fuss-with-log4j2.html#tk.rss_all)
 - [12+ tips to make remote meetings more effective](https://www.computerworld.com/article/3645472/12-tips-to-make-remote-meetings-more-effective.html#tk.rss_all)
 - [Office going hybrid? How to think through the options](https://www.computerworld.com/article/3644870/office-going-hybrid-how-to-think-thorugh-the-options.html#tk.rss_all)
-- [Patching isn&#39;t enough for December&#39;s Patch Tuesday](https://www.computerworld.com/article/3645134/patching-isnt-enough-for-decembers-patch-tuesday.html#tk.rss_all)
-- [Three productivity improvements I expect to see in 2022](https://www.computerworld.com/article/3645471/three-productivity-improvements-i-expect-to-see-in-2022.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

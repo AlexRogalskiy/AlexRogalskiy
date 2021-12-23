@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [8 Real Ways CIOs Can Drive Sustainability, Fight Climate Change](https://www.informationweek.com/cloud/8-real-ways-cios-can-drive-sustainability-fight-climate-change)
+- [Seismic Shifts in Software Development Still Need Hardware](https://www.informationweek.com/devops/seismic-shifts-in-software-development-still-need-hardware)
 - [Log4J Attacks Confirm Need for DevSecOps, Automation, SBOM](https://www.informationweek.com/devops/log4j-attacks-confirm-need-for-devsecops-automation-sbom)
 - [Data Innovation in 2021: Supply Chain, Ethical AI, Data Pros in High Demand](https://www.informationweek.com/big-data/data-innovation-in-2021-supply-chain-ethical-ai-data-pros-in-high-demand)
 - [Payment Trends to Watch in 2022](https://www.informationweek.com/fintech/payment-trends-to-watch-in-2022)
@@ -377,8 +379,6 @@
 - [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
 - [Why We Need Infrastructure-led Innovation to Transform Network Security](https://www.informationweek.com/security-and-risk-strategy/why-we-need-infrastructure-led-innovation-to-transform-network-security)
 - [The US Trucking Industry Takes the 3G Network Sunsetting Challenge](https://www.informationweek.com/it-life/the-us-trucking-industry-takes-the-3g-network-sunsetting-challenge)
-- [Quantum Compute Report Card: ‘We Need A Lot More Machines’](https://www.informationweek.com/hardware-or-architectures/quantum-compute-report-card-we-need-a-lot-more-machines-)
-- [The Importance of Digital Transformation in Predictive Analytics](https://www.informationweek.com/big-data/the-importance-of-digital-transformation-in-predictive-analytics)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

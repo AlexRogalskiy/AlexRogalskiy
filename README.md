@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Feeling Burnt Out From Job](https://www.reddit.com/r/InformationTechnology/comments/rmjzwx/feeling_burnt_out_from_job/)
+- [People who work in Change Management, who hurt you?](https://www.reddit.com/r/InformationTechnology/comments/rmc6ez/people_who_work_in_change_management_who_hurt_you/)
+- [Wordpad++](https://www.reddit.com/r/InformationTechnology/comments/rm66vk/wordpad/)
+- [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/rm60za/free_training_on_comptia_a_full_course/)
 - [What&#39;s do yall recommend for earbuds?](https://www.reddit.com/r/InformationTechnology/comments/rluen5/whats_do_yall_recommend_for_earbuds/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rlnt0m/needed_it_decision_makers_research_opportunity/)
 - [What&#39;s the End User referring to Guessing Game](https://www.reddit.com/r/InformationTechnology/comments/rllb7a/whats_the_end_user_referring_to_guessing_game/)
 - [To close or not to close?](https://www.reddit.com/r/InformationTechnology/comments/rlfpu0/to_close_or_not_to_close/)
 - [Job Interview For An Incident Manager Role//Need material of major incident/RCA](https://www.reddit.com/r/InformationTechnology/comments/rled7e/job_interview_for_an_incident_manager_roleneed/)
 - [Technical school or finish college?](https://www.reddit.com/r/InformationTechnology/comments/rl1ewa/technical_school_or_finish_college/)
-- [Degree still no luck ;-;](https://www.reddit.com/r/InformationTechnology/comments/rkuucl/degree_still_no_luck/)
-- [What tech jobs are available as part time/reduced hours, aside from Help Desk?](https://www.reddit.com/r/InformationTechnology/comments/rkunge/what_tech_jobs_are_available_as_part_timereduced/)
-- [Starting in IT in The Netherlands any degree](https://www.reddit.com/r/InformationTechnology/comments/rjkkl5/starting_in_it_in_the_netherlands_any_degree/)
-- [I&#39;m in The Netherlands and starting in IT](https://www.reddit.com/r/InformationTechnology/comments/rjki1u/im_in_the_netherlands_and_starting_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

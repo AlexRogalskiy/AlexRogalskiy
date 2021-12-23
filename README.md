@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Large organisations turning to digital currencies for stored value](https://www.computerweekly.com/news/252511273/Large-organisations-turning-to-digital-currencies-for-stored-value)
-- [Oracle buys Cerner for nearly $30bn in major push into healthcare](https://www.computerweekly.com/news/252511265/Oracle-buys-Cerner-for-nearly-30bn-in-major-push-into-healthcare)
-- [IT services spending recovery to get renewals boost in 2022](https://www.computerweekly.com/news/252511263/IT-services-spending-recovery-to-get-renewals-boost-in-2022)
-- [UK tech startups raise almost £30bn in record year](https://www.computerweekly.com/news/252511270/UK-tech-startups-raise-almost-30bn-in-record-year)
-- [What is Log4Shell - and why the panic?](https://www.computerweekly.com/ezine/Computer-Weekly/What-is-Log4Shell-and-why-the-panic)
-- [Top 10 NHS IT stories of 2021](https://www.computerweekly.com/news/252510431/Top-10-NHS-IT-stories-of-2021)
-- [Top 10 cloud storage, DR and datacentre storage stories of 2021](https://www.computerweekly.com/feature/Top-10-cloud-storage-DR-and-datacentre-storage-stories-of-2021)
-- [Top 10 software development stories of 2021](https://www.computerweekly.com/news/252510582/Top-10-software-development-stories-of-2021)
-- [Clouds gather over Chinese providers – but is there a silver lining?](https://www.computerweekly.com/feature/Clouds-gather-over-Chinese-providers-but-is-there-a-silver-lining)
-- [Defra and MoJ hit with £120m IR35 tax bill despite using HMRC guidance](https://www.computerweekly.com/news/252511198/Defra-and-MoJ-hit-with-120m-IR35-tax-bill-despite-using-HMRC-guidance)
+- [Is the IT sector beset by fear-mongering?](https://www.computerweekly.com/feature/Is-the-IT-sector-beset-by-fear-mongering)
+- [Diversity and inclusion in tech: has gender been left behind?](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-has-gender-been-left-behind)
+- [Marks &amp; Spencer upskills internal talent with data science education](https://www.computerweekly.com/news/252511315/Marks-Spencer-upskills-internal-talent-with-data-science-education)
+- [A trial relying on computer evidence should start with a trial of the computer evidence](https://www.computerweekly.com/opinion/A-trial-relying-on-computer-evidence-should-start-with-a-trial-of-the-computer-evidence)
+- [Scale-up vs scale-out: Horizontal vs vertical scaling for storage](https://www.computerweekly.com/feature/Scale-up-vs-scale-out-Horizontal-vs-vertical-scaling-for-storage)
+- [Top 10 government and public sector IT stories of 2021](https://www.computerweekly.com/news/252510434/Top-10-government-and-public-sector-IT-stories-of-2021)
+- [Top 10 cyber crime stories of 2021](https://www.computerweekly.com/news/252510733/Top-10-cyber-crime-stories-of-2021)
+- [Top 10 financial services and fintech stories of 2021](https://www.computerweekly.com/news/252510723/Top-10-financial-services-and-fintech-stories-of-2021)
+- [Top 10 end-user computing stories of 2021](https://www.computerweekly.com/news/252510574/Top-10-end-user-computing-stories-of-2021)
+- [How can you balance security with growth?](https://www.computerweekly.com/opinion/How-can-you-balance-security-with-growth)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

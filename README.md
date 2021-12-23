@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio feedback upgrade snubs older versions](https://www.infoworld.com/article/3645688/visual-studio-feedback-upgrade-snubs-older-versions.html#tk.rss_all)
+- [New Relic expands enterprise full-stack observability to include MLOps](https://www.infoworld.com/article/3645501/new-relic-expands-enterprise-full-stack-observability-to-include-mlops.html#tk.rss_all)
+- [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html#tk.rss_all)
+- [Using the Webview UI Toolkit for Visual Studio Code](https://www.infoworld.com/article/3645144/using-the-webview-ui-toolkit-for-visual-studio-code.html#tk.rss_all)
+- [Get started with Minikube](https://www.infoworld.com/article/3645128/get-started-with-minikube.html#tk.rss_all)
 - [Why SBOM management is no longer optional](https://www.infoworld.com/article/3645452/why-sbom-management-is-no-longer-optional.html#tk.rss_all)
 - [How technology bias impacts cloud architecture](https://www.infoworld.com/article/3645137/how-technology-bias-impacts-cloud-architecture.html#tk.rss_all)
 - [Meeting the challenges of multi-cluster Kubernetes](https://www.infoworld.com/article/3644418/meeting-the-challenges-of-multi-cluster-kubernetes.html#tk.rss_all)
 - [5 rules for getting data architecture right](https://www.infoworld.com/article/3645349/5-rules-for-getting-data-architecture-right.html#tk.rss_all)
 - [Cloud numbers don’t add up](https://www.infoworld.com/article/3645135/cloud-numbers-dont-add-up.html#tk.rss_all)
-- [Astonishingly easy mapping in R with mapview](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html#tk.rss_all)
-- [Microsoft reveals plans for Entity Framework 7.0](https://www.infoworld.com/article/3645489/microsoft-reveals-plans-for-entity-framework-70.html#tk.rss_all)
-- [2 cloud computing predictions you won’t hear anywhere else](https://www.infoworld.com/article/3644493/2-cloud-computing-predictions-you-wont-hear-anywhere-else.html#tk.rss_all)
-- [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_all)
-- [How developers scrambled to secure the Log4j vulnerability](https://www.infoworld.com/article/3645131/how-developers-scrambled-to-secure-the-log4j-vulnerability.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

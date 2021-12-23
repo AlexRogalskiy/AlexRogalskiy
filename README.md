@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Europe facing ‘another storm’ due to Omicron, WHO warns; Israel announces fourth jab for over-60s](https://www.theguardian.com/world/live/2021/dec/22/covid-news-live-europe-facing-another-storm-due-to-omicron-who-warns-israel-announces-fourth-jab-for-over-60s)
-- [Harvard professor found guilty of hiding ties to Chinese-run recruitment program](https://www.theguardian.com/us-news/2021/dec/22/harvard-professor-found-guilty-of-hiding-ties-to-chinese-run-recruitment-program)
-- [‘A moral issue to correct’: the long tail of Elena Ceaușescu’s fraudulent scientific work](https://www.theguardian.com/world/2021/dec/22/a-moral-issue-to-correct-the-long-tail-of-elena-ceausescus-fraudulent-scientific-work)
-- [‘Like a freeway in traffic’: America’s busiest ports choked by a pandemic holiday](https://www.theguardian.com/business/2021/dec/21/inside-americas-busiest-port-during-holidays)
-- [JonBenét Ramsey: DNA testing could be used to solve case, police say](https://www.theguardian.com/us-news/2021/dec/21/jonbenet-ramsey-dna-testing-could-be-used-to-solve-case-police-say)
-- [Madagascar: minister swims 12 hours to safety after helicopter crash](https://www.theguardian.com/world/2021/dec/22/madagascar-minister-swims-12-hours-to-safety-after-helicopter-crash)
-- [‘We’re still in it’: Biden’s Covid address acknowledges battle fatigue but seeks to rally the troops](https://www.theguardian.com/us-news/2021/dec/21/joe-biden-covid-address-fatigue)
-- [No new Covid restrictions before Christmas, Boris Johnson confirms](https://www.theguardian.com/politics/2021/dec/21/no-new-covid-measures-before-christmas-boris-johnson-confirms)
-- [The 100 best male footballers in the world 2021: Nos 100-41](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
-- [Sexual harassment rife in UK universities, warns staff union](https://www.theguardian.com/education/2021/dec/22/sexual-harassment-rife-in-uk-universities-warns-staff-union)
+- [Covid news live: Omicron carries lower hospitalisation risk, studies suggest; China locks down city of 13 million](https://www.theguardian.com/world/live/2021/dec/23/covid-news-live-omicron-carries-lower-hospitalisation-risk-studies-suggest-china-locks-down-city-of-13-million)
+- [James Franco admits sleeping with students and says he had sex addiction](https://www.theguardian.com/film/2021/dec/22/james-franco-interview-sexual-misconduct-allegations)
+- [Glen Durrant and Simon Whitlock crash out of PDC world darts championship](https://www.theguardian.com/sport/2021/dec/22/durrant-out-of-pdc-world-darts-championship-after-oconnor-defeat)
+- [Essential workers thousand of pounds worse off than a decade ago, TUC says](https://www.theguardian.com/money/2021/dec/23/essential-workers-thousand-of-pounds-worse-off-than-a-decade-ago-tuc-says)
+- [Ministers pledge to ‘reset the dial’ on women’s health in England](https://www.theguardian.com/society/2021/dec/23/ministers-pledge-to-reset-the-dial-on-womens-health-in-england)
+- [Charity says 16,000 UK children could be exposed to domestic abuse at Christmas](https://www.theguardian.com/society/2021/dec/23/charity-says-16000-uk-children-could-be-exposed-to-domestic-abuse-at-christmas)
+- [NHS England to offer life-changing drug to children with peanut allergy](https://www.theguardian.com/society/2021/dec/23/nhs-england-to-offer-life-changing-drug-to-children-with-peanut-allergy)
+- [Covid three times more frequent among young children in England, study finds](https://www.theguardian.com/world/2021/dec/23/covid-infection-rate-five-to-11-year-olds-england-study)
+- [The 100 best male footballers in the world 2021: Nos 100-11](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
+- [200,000 UK children could be made homeless this winter, warns Shelter](https://www.theguardian.com/society/2021/dec/22/200000-uk-children-could-be-made-homeless-this-winter-warns-shelter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

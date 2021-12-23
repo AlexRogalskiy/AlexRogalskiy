@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MongoDB Poaches Top Amazon Executives to Compete with AWS](https://www.bloomberg.com/news/articles/2021-12-21/mongodb-poaches-top-amazon-executives-to-compete-with-aws)
-- [When Fossil Fuels Run Out, What Then? &lpar;It&#39;s 2060&rpar;](https://mahb.stanford.edu/library-item/fossil-fuels-run/)
-- [Microchip implanted in your arm tracks Covid vaccine status with cell phone scan](https://www.the-sun.com/tech/3913734/microchip-implanted-into-skin-vaccination-status-proof/)
-- [Starring the Computer](https://www.starringthecomputer.com/)
-- [Fossilized Dinosaur Embryo Discovered](https://www.cell.com/iscience/fulltext/S2589-0042(21)01487-5)
-- [Series of preclinical studies supports the Army’s pan-coronavirus vaccine](https://www.army.mil/article/252890/series_of_preclinical_studies_supports_the_armys_pan_coronavirus_vaccine_development_strategy)
-- [Attempting to use GNU Guix, again](https://ruzkuku.com/texts/guix-again.html)
-- [American Workers Are Burned Out, and Bosses Are Struggling to Respond](https://www.wsj.com/articles/worker-burnout-resignations-pandemic-stress--11640099198)
-- [Self-Publishing Is Not a Last Resort. It Is the Holy Grail](http://passionatereason.com/2021/12/self-publishing-is-not-a-last-resort-it-is-the-holy-grail/)
-- [Baseline pupil size is related to cognitive ability – ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
+- [Alibaba punished by CN authority for not reporting the Log4j 0-day within 2 days](http://m.thepaper.cn/rss_newsDetail_15954250)
+- [Amazon’s Alexa Stalled with Users as Interest Faded, Documents Show](https://www.bloomberg.com/news/articles/2021-12-22/amazon-s-voice-controlled-smart-speaker-alexa-can-t-hold-customer-interest-docs)
+- [China Telecom vows to defy FCC order and continue US operations](https://www.bloomberg.com/news/articles/2021-12-22/china-telecom-vows-to-keep-operating-despite-u-s-order-to-stop)
+- [Regression, Fire, and Dangerous Things &lpar;1/3&rpar;](https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/)
+- [Researchers Develop Cheaper and Faster Way to Manufacture Lenses](https://petapixel.com/2021/12/22/researchers-develop-cheaper-and-faster-way-to-manufacture-lenses/)
+- [The World Hum map and database](https://thehum.info/)
+- [U.S. Investigating Tesla Video Game Feature](https://www.nytimes.com/2021/12/22/business/tesla-investigation-passenger-play.html)
+- [Free Software as in Free House](https://shkspr.mobi/blog/2021/12/free-software-as-in-free-house/)
+- [Show HN: Linkhorse – A Simple Bookmark Organizer](https://link.horse)
+- [Write Short Blogposts](https://matthewrocklin.com/blog/work/2019/06/25/write-short-blogposts)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

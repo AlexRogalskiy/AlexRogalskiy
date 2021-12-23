@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [When Fossil Fuels Run Out, What Then? &lpar;It&#39;s 2060&rpar;](https://mahb.stanford.edu/library-item/fossil-fuels-run/)
-- [&lpar;Mac&rpar;OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
-- [The Prisoner-Run Radio Station That’s Reaching Men on Death Row](https://www.themarshallproject.org/2021/12/20/the-prison-radio-station-that-s-reaching-men-on-death-row)
-- [11-week Kellogg’s strike to end after multi-year agreement reached](https://www.kiro7.com/news/trending/11-week-kelloggs-strike-end-after-multi-year-agreement-reached/25R67UQLN5FKDEKUQHDLZDWS2E/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
-- [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
-- [2021-22 Tesla Model Y earns highest IIHS accolade](https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade)
-- [Show HN: Aftertext](https://breckyunits.com/aftertext.html)
-- [The Great SPAC Scam: SPACs a Great Deal for Sponsors, but Not Others](https://www.mergersandinquisitions.com/great-spac-scam/)
+- [Street Fighter II paper trails – allocating sprite space by hand](https://fabiensanglard.net/sf2_sheets/index.html)
+- [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
+- [Fq: Jq for Binary Formats](https://github.com/wader/fq)
+- [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
+- [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
+- [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
+- [Will Machines Replace Us? Machine-Authored Texts and the Future of Scholarship](https://lthj.qut.edu.au/article/view/2089)
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers/)
+- [US returns $154M in bitcoins stolen by Sony employee](https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/)
+- [Regulators Shut Down Lending Platform &lpar;YC Alum&rpar; LendUp](https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

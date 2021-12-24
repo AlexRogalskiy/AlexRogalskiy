@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Omicron carries lower hospitalisation risk, studies suggest; China locks down city of 13 million](https://www.theguardian.com/world/live/2021/dec/23/covid-news-live-omicron-carries-lower-hospitalisation-risk-studies-suggest-china-locks-down-city-of-13-million)
-- [James Franco admits sleeping with students and says he had sex addiction](https://www.theguardian.com/film/2021/dec/22/james-franco-interview-sexual-misconduct-allegations)
-- [Glen Durrant and Simon Whitlock crash out of PDC world darts championship](https://www.theguardian.com/sport/2021/dec/22/durrant-out-of-pdc-world-darts-championship-after-oconnor-defeat)
-- [Essential workers thousand of pounds worse off than a decade ago, TUC says](https://www.theguardian.com/money/2021/dec/23/essential-workers-thousand-of-pounds-worse-off-than-a-decade-ago-tuc-says)
-- [Ministers pledge to ‘reset the dial’ on women’s health in England](https://www.theguardian.com/society/2021/dec/23/ministers-pledge-to-reset-the-dial-on-womens-health-in-england)
-- [Charity says 16,000 UK children could be exposed to domestic abuse at Christmas](https://www.theguardian.com/society/2021/dec/23/charity-says-16000-uk-children-could-be-exposed-to-domestic-abuse-at-christmas)
-- [NHS England to offer life-changing drug to children with peanut allergy](https://www.theguardian.com/society/2021/dec/23/nhs-england-to-offer-life-changing-drug-to-children-with-peanut-allergy)
-- [Covid three times more frequent among young children in England, study finds](https://www.theguardian.com/world/2021/dec/23/covid-infection-rate-five-to-11-year-olds-england-study)
-- [The 100 best male footballers in the world 2021: Nos 100-11](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
-- [200,000 UK children could be made homeless this winter, warns Shelter](https://www.theguardian.com/society/2021/dec/22/200000-uk-children-could-be-made-homeless-this-winter-warns-shelter)
+- [Covid news live: New York scales back New Year’s Eve celebrations; AstraZeneca booster protects against Omicron, study finds](https://www.theguardian.com/world/live/2021/dec/24/covid-news-live-new-york-scales-back-new-years-eve-celebrations-astrazeneca-booster-protects-against-omicron-study-finds)
+- [US and Japan draw up joint military plan in case of Taiwan emergency – report](https://www.theguardian.com/world/2021/dec/24/us-and-japan-draw-up-joint-military-plan-in-case-of-taiwan-emergency-report)
+- [Selfridges sold as part of £4bn deal](https://www.theguardian.com/business/2021/dec/24/selfridges-sold-as-part-of-4bn-deal)
+- [Rio Tinto puts Serbia lithium mine on hold](https://www.theguardian.com/world/2021/dec/24/rio-tinto-puts-serbia-lithium-mine-on-hold)
+- [The 100 best male footballers in the world 2021](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
+- [NHS urges people to get ‘gift of a jab’ at booster centres open on Christmas Day](https://www.theguardian.com/society/2021/dec/24/nhs-urges-people-to-get-gift-of-a-jab-at-booster-centres-open-on-christmas-day)
+- [Hugging has slumped under Covid, anxious Britons tell pollsters](https://www.theguardian.com/society/2021/dec/24/hugging-covid-anxious-britons-survey-yougov-pa-ons)
+- [A Christmas message from the First Dog on the Moon Institute | First Dog on the Moon](https://www.theguardian.com/commentisfree/2021/dec/24/a-christmas-message-from-the-first-dog-on-the-moon-institute)
+- [Raymond van Barneveld knocked out of PDC world championship by Rob Cross](https://www.theguardian.com/sport/2021/dec/23/raymond-van-barneveld-crashes-out-of-pdc-world-darts-championship)
+- [Singer Lisa Gentile is fourth woman to accuse Chris Noth of sexual assault](https://www.theguardian.com/tv-and-radio/2021/dec/23/chris-noth-lisa-gentile-sexual-assault)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

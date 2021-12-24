@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Vulnerabilities to fraud are increasing across the board](https://www.computerweekly.com/opinion/Vulnerabilities-to-fraud-are-increasing-across-the-board)
+- [Top 10 cloud stories of 2021](https://www.computerweekly.com/news/252510726/Top-10-cloud-stories-of-2021)
+- [Top 10 cyber security stories of 2021](https://www.computerweekly.com/news/252510738/Top-10-cyber-security-stories-of-2021)
+- [Top 10 women in tech and diversity in tech stories of 2021](https://www.computerweekly.com/news/252510806/Top-10-women-in-tech-and-diversity-in-tech-stories-of-2021)
+- [Top 10 Middle East IT stories of 2021](https://www.computerweekly.com/news/252510777/Top-10-Middle-East-IT-stories-of-2021)
 - [Is the IT sector beset by fear-mongering?](https://www.computerweekly.com/feature/Is-the-IT-sector-beset-by-fear-mongering)
 - [Diversity and inclusion in tech: has gender been left behind?](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-has-gender-been-left-behind)
 - [Marks &amp; Spencer upskills internal talent with data science education](https://www.computerweekly.com/news/252511315/Marks-Spencer-upskills-internal-talent-with-data-science-education)
-- [A trial relying on computer evidence should start with a trial of the computer evidence](https://www.computerweekly.com/opinion/A-trial-relying-on-computer-evidence-should-start-with-a-trial-of-the-computer-evidence)
 - [Scale-up vs scale-out: Horizontal vs vertical scaling for storage](https://www.computerweekly.com/feature/Scale-up-vs-scale-out-Horizontal-vs-vertical-scaling-for-storage)
-- [Top 10 government and public sector IT stories of 2021](https://www.computerweekly.com/news/252510434/Top-10-government-and-public-sector-IT-stories-of-2021)
-- [Top 10 cyber crime stories of 2021](https://www.computerweekly.com/news/252510733/Top-10-cyber-crime-stories-of-2021)
-- [Top 10 financial services and fintech stories of 2021](https://www.computerweekly.com/news/252510723/Top-10-financial-services-and-fintech-stories-of-2021)
-- [Top 10 end-user computing stories of 2021](https://www.computerweekly.com/news/252510574/Top-10-end-user-computing-stories-of-2021)
-- [How can you balance security with growth?](https://www.computerweekly.com/opinion/How-can-you-balance-security-with-growth)
+- [A trial relying on computer evidence should start with a trial of the computer evidence](https://www.computerweekly.com/opinion/A-trial-relying-on-computer-evidence-should-start-with-a-trial-of-the-computer-evidence)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

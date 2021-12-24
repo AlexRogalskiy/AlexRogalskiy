@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why More Businesses Will be Creating Their Own Chips in 2022](https://www.informationweek.com/it-life/why-more-businesses-will-be-creating-their-own-chips-in-2022)
+- [Supply Chains May Be Stalled - But Can Still Deliver Opportunity](https://www.informationweek.com/big-data/supply-chains-may-be-stalled-but-can-still-deliver-opportunity)
 - [8 Real Ways CIOs Can Drive Sustainability, Fight Climate Change](https://www.informationweek.com/cloud/8-real-ways-cios-can-drive-sustainability-fight-climate-change)
 - [Seismic Shifts in Software Development Still Need Hardware](https://www.informationweek.com/devops/seismic-shifts-in-software-development-still-need-hardware)
 - [Log4J Attacks Confirm Need for DevSecOps, Automation, SBOM](https://www.informationweek.com/devops/log4j-attacks-confirm-need-for-devsecops-automation-sbom)
@@ -377,8 +379,6 @@
 - [The 2021 IT Job Market: What a Year](https://www.informationweek.com/strategic-cio/the-2021-it-job-market-what-a-year)
 - [Tech Modernization: How to Start Building a Foundation](https://www.informationweek.com/cloud/tech-modernization-how-to-start-building-a-foundation)
 - [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
-- [Why We Need Infrastructure-led Innovation to Transform Network Security](https://www.informationweek.com/security-and-risk-strategy/why-we-need-infrastructure-led-innovation-to-transform-network-security)
-- [The US Trucking Industry Takes the 3G Network Sunsetting Challenge](https://www.informationweek.com/it-life/the-us-trucking-industry-takes-the-3g-network-sunsetting-challenge)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Street Fighter II paper trails – allocating sprite space by hand](https://fabiensanglard.net/sf2_sheets/index.html)
-- [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
-- [Fq: Jq for Binary Formats](https://github.com/wader/fq)
-- [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
-- [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
-- [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
-- [Will Machines Replace Us? Machine-Authored Texts and the Future of Scholarship](https://lthj.qut.edu.au/article/view/2089)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers/)
-- [US returns $154M in bitcoins stolen by Sony employee](https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/)
-- [Regulators Shut Down Lending Platform &lpar;YC Alum&rpar; LendUp](https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/)
+- [Kanye Story](https://thekanyestory.com)
+- [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
+- [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
+- [Google&#39;s removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
+- [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
+- [Toyota &#39;reviewing&#39; key fob remote start subscription plan after blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
+- [Ask HN: Those making $500/month on side projects in 2021 – Show and tell](https://news.ycombinator.com/item?id=29667095)
+- [Cornell McRay T&#39;Racing](https://github.com/h3r2tic/cornell-mcray)
+- [A rogues’ gallery of monster-sized gas giants](https://nautil.us/blog/we-discovered-a-rogues-gallery-of-monster_sized-gas-giants)
+- [U.S. SEC rejects Valkyrie, Kryptoin Bitcoin trusts](https://www.reuters.com/markets/funds/us-sec-rejects-valkyrie-kryptoin-bitcoin-trusts-2021-12-23/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

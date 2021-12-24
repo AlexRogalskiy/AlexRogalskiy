@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [TPMs](https://www.reddit.com/r/InformationTechnology/comments/rmzm7u/tpms/)
+- [thinking about changing my major to IT](https://www.reddit.com/r/InformationTechnology/comments/rmz94q/thinking_about_changing_my_major_to_it/)
+- [In 2019, I completed my engineering and started my career as a HR-Recruiter. Now I&#39;m thinking about switching my career to IT. I am currently in the Middle East working as a HR with a good salary. Should I continue this job or should I move to the USA to study IT? I am 24 years old](https://www.reddit.com/r/InformationTechnology/comments/rmohzl/in_2019_i_completed_my_engineering_and_started_my/)
 - [Feeling Burnt Out From Job](https://www.reddit.com/r/InformationTechnology/comments/rmjzwx/feeling_burnt_out_from_job/)
 - [People who work in Change Management, who hurt you?](https://www.reddit.com/r/InformationTechnology/comments/rmc6ez/people_who_work_in_change_management_who_hurt_you/)
 - [Wordpad++](https://www.reddit.com/r/InformationTechnology/comments/rm66vk/wordpad/)
@@ -421,9 +424,6 @@
 - [What&#39;s do yall recommend for earbuds?](https://www.reddit.com/r/InformationTechnology/comments/rluen5/whats_do_yall_recommend_for_earbuds/)
 - [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rlnt0m/needed_it_decision_makers_research_opportunity/)
 - [What&#39;s the End User referring to Guessing Game](https://www.reddit.com/r/InformationTechnology/comments/rllb7a/whats_the_end_user_referring_to_guessing_game/)
-- [To close or not to close?](https://www.reddit.com/r/InformationTechnology/comments/rlfpu0/to_close_or_not_to_close/)
-- [Job Interview For An Incident Manager Role//Need material of major incident/RCA](https://www.reddit.com/r/InformationTechnology/comments/rled7e/job_interview_for_an_incident_manager_roleneed/)
-- [Technical school or finish college?](https://www.reddit.com/r/InformationTechnology/comments/rl1ewa/technical_school_or_finish_college/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

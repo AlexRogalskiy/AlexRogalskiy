@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Alibaba punished by CN authority for not reporting the Log4j 0-day within 2 days](http://m.thepaper.cn/rss_newsDetail_15954250)
-- [Amazon’s Alexa Stalled with Users as Interest Faded, Documents Show](https://www.bloomberg.com/news/articles/2021-12-22/amazon-s-voice-controlled-smart-speaker-alexa-can-t-hold-customer-interest-docs)
-- [China Telecom vows to defy FCC order and continue US operations](https://www.bloomberg.com/news/articles/2021-12-22/china-telecom-vows-to-keep-operating-despite-u-s-order-to-stop)
-- [Regression, Fire, and Dangerous Things &lpar;1/3&rpar;](https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/)
-- [Researchers Develop Cheaper and Faster Way to Manufacture Lenses](https://petapixel.com/2021/12/22/researchers-develop-cheaper-and-faster-way-to-manufacture-lenses/)
-- [The World Hum map and database](https://thehum.info/)
-- [U.S. Investigating Tesla Video Game Feature](https://www.nytimes.com/2021/12/22/business/tesla-investigation-passenger-play.html)
-- [Free Software as in Free House](https://shkspr.mobi/blog/2021/12/free-software-as-in-free-house/)
-- [Show HN: Linkhorse – A Simple Bookmark Organizer](https://link.horse)
-- [Write Short Blogposts](https://matthewrocklin.com/blog/work/2019/06/25/write-short-blogposts)
+- [The Absurdity of Renting a Car Will No Longer Be Tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
+- [Theory: Context Is the Key to Code](https://news.ycombinator.com/item?id=29669327)
+- [Ask HN: Have you had Covid? How bad was it?](https://news.ycombinator.com/item?id=29669290)
+- [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
+- [Just Found This Book Analysing Anonymous Speech. Worth Buying?](https://www.bloomsbury.com/au/anonymous-speech-9781849466134/)
+- [Prodspec and Annealing: Google&#39;s Internal Infrastructure-as-Code](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)
+- [Comparing Open Source BGP Stacks](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
+- [The Art of a Katsuhiro Otomo Storyboard](https://animationobsessive.substack.com/p/4-the-art-of-an-otomo-storyboard)
+- [Droplet Dogma&#39;s Role in Misidentification of Airborne Infection Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904176)
+- [Kanye Story](https://thekanyestory.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

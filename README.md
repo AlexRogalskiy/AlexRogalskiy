@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Hands-on with Dropwizard REST APIs](https://www.infoworld.com/article/3645503/hands-on-with-dropwizard-rest-apis.html#tk.rss_all)
 - [Visual Studio feedback upgrade snubs older versions](https://www.infoworld.com/article/3645688/visual-studio-feedback-upgrade-snubs-older-versions.html#tk.rss_all)
 - [New Relic expands enterprise full-stack observability to include MLOps](https://www.infoworld.com/article/3645501/new-relic-expands-enterprise-full-stack-observability-to-include-mlops.html#tk.rss_all)
 - [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [How technology bias impacts cloud architecture](https://www.infoworld.com/article/3645137/how-technology-bias-impacts-cloud-architecture.html#tk.rss_all)
 - [Meeting the challenges of multi-cluster Kubernetes](https://www.infoworld.com/article/3644418/meeting-the-challenges-of-multi-cluster-kubernetes.html#tk.rss_all)
 - [5 rules for getting data architecture right](https://www.infoworld.com/article/3645349/5-rules-for-getting-data-architecture-right.html#tk.rss_all)
-- [Cloud numbers don’t add up](https://www.infoworld.com/article/3645135/cloud-numbers-dont-add-up.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

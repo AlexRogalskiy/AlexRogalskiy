@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How Apple&#39;s iCloud Private Relay supports enterprise VPN](https://www.computerworld.com/article/3645848/how-apples-icloud-private-relay-supports-enterprise-vpn.html#tk.rss_all)
+- [Privacy-centric DuckDuckGo to release Mac desktop browser](https://www.computerworld.com/article/3645668/privacy-centric-duckduckgo-to-release-mac-desktop-browser.html#tk.rss_all)
+- [The best Android apps for business in 2022](https://www.computerworld.com/article/3268630/best-android-apps-business-2022.html#tk.rss_all)
 - [CES 2022: Can hope defy Omicron?](https://www.computerworld.com/article/3645146/ces-2022-can-hope-defy-omicron.html#tk.rss_all)
 - [Mac enrollment simplified: Apple Configurator comes to iOS](https://www.computerworld.com/article/3645355/mac-enrollment-simplified-apple-configurator-ios.html#tk.rss_all)
 - [The top Chrome OS tips of 2021](https://www.computerworld.com/article/3328830/chrome-os-tips-2021.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Don’t waste time reinventing the software wheel](https://www.computerworld.com/article/3645139/don-t-waste-time-reinventing-the-software-wheel.html#tk.rss_all)
 - [The Great Resignation: Why workers quit &lpar;and how companies can respond&rpar;](https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html#tk.rss_all)
 - [12 Android tips you shouldn&#39;t miss from 2021](https://www.computerworld.com/article/3328644/android-tips-2021.html#tk.rss_all)
-- [What’s all the fuss with Log4j2?](https://www.computerworld.com/article/3645430/whats-all-the-fuss-with-log4j2.html#tk.rss_all)
-- [12+ tips to make remote meetings more effective](https://www.computerworld.com/article/3645472/12-tips-to-make-remote-meetings-more-effective.html#tk.rss_all)
-- [Office going hybrid? How to think through the options](https://www.computerworld.com/article/3644870/office-going-hybrid-how-to-think-thorugh-the-options.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

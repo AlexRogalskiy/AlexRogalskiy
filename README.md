@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Enterprise Tech 2022: What&#39;s Ahead for IT](https://www.informationweek.com/strategic-cio/enterprise-tech-2022-what-s-ahead-for-it)
+- [No-Code, Low-Code Machine Learning Platforms Still Require People](https://www.informationweek.com/ai-or-machine-learning/no-code-low-code-machine-learning-platforms-still-require-people)
 - [Why More Businesses Will be Creating Their Own Chips in 2022](https://www.informationweek.com/it-life/why-more-businesses-will-be-creating-their-own-chips-in-2022)
 - [Supply Chains May Be Stalled - But Can Still Deliver Opportunity](https://www.informationweek.com/big-data/supply-chains-may-be-stalled-but-can-still-deliver-opportunity)
 - [8 Real Ways CIOs Can Drive Sustainability, Fight Climate Change](https://www.informationweek.com/cloud/8-real-ways-cios-can-drive-sustainability-fight-climate-change)
@@ -377,8 +379,6 @@
 - [Data Innovation in 2021: Supply Chain, Ethical AI, Data Pros in High Demand](https://www.informationweek.com/big-data/data-innovation-in-2021-supply-chain-ethical-ai-data-pros-in-high-demand)
 - [Payment Trends to Watch in 2022](https://www.informationweek.com/fintech/payment-trends-to-watch-in-2022)
 - [The 2021 IT Job Market: What a Year](https://www.informationweek.com/strategic-cio/the-2021-it-job-market-what-a-year)
-- [Tech Modernization: How to Start Building a Foundation](https://www.informationweek.com/cloud/tech-modernization-how-to-start-building-a-foundation)
-- [Explaining Data Fabrics to the CEOs: How and Why](https://www.informationweek.com/big-data/explaining-data-fabrics-to-the-ceos-how-and-why)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

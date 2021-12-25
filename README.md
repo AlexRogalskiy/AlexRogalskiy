@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kanye Story](https://thekanyestory.com)
-- [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
-- [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
-- [Google&#39;s removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
-- [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
-- [Toyota &#39;reviewing&#39; key fob remote start subscription plan after blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
-- [Ask HN: Those making $500/month on side projects in 2021 – Show and tell](https://news.ycombinator.com/item?id=29667095)
-- [Cornell McRay T&#39;Racing](https://github.com/h3r2tic/cornell-mcray)
-- [A rogues’ gallery of monster-sized gas giants](https://nautil.us/blog/we-discovered-a-rogues-gallery-of-monster_sized-gas-giants)
-- [U.S. SEC rejects Valkyrie, Kryptoin Bitcoin trusts](https://www.reuters.com/markets/funds/us-sec-rejects-valkyrie-kryptoin-bitcoin-trusts-2021-12-23/)
+- [Thanks to the Chip Shortage, Texas Instruments Is Worth $170 B](https://www.wsj.com/articles/thanks-to-the-chip-shortage-texas-instruments-is-worth-170-billion-11640341805)
+- [Locked-out New Zealanders outraged as visa scheme for rich foreigners resumes](https://www.theguardian.com/world/2021/dec/24/locked-out-new-zealanders-outraged-as-visa-scheme-for-rich-foreigners-resumes)
+- [When a web PKI certificate won&#39;t cut it](https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html)
+- [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
+- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+- [All the giant companies used ffmpeg](https://twitter.com/ID_AA_Carmack/status/1258531455220609025)
+- [How the Jesuits Charted the World](https://engelsbergideas.com/essays/jesuit/)
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Corrugated-paper-making machine patent &lpar;1918&rpar;](https://patents.google.com/patent/US1264506A/en)
+- [Georgia teacher read the fine print and won $13K &lpar;2019&rpar;](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5045331/this-georgia-teacher-read-the-fine-print-and-won-13k-1.5045342)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

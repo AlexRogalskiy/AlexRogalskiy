@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Absurdity of Renting a Car Will No Longer Be Tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
-- [Theory: Context Is the Key to Code](https://news.ycombinator.com/item?id=29669327)
-- [Ask HN: Have you had Covid? How bad was it?](https://news.ycombinator.com/item?id=29669290)
-- [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
-- [Just Found This Book Analysing Anonymous Speech. Worth Buying?](https://www.bloomsbury.com/au/anonymous-speech-9781849466134/)
-- [Prodspec and Annealing: Google&#39;s Internal Infrastructure-as-Code](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production)
-- [Comparing Open Source BGP Stacks](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
-- [The Art of a Katsuhiro Otomo Storyboard](https://animationobsessive.substack.com/p/4-the-art-of-an-otomo-storyboard)
-- [Droplet Dogma&#39;s Role in Misidentification of Airborne Infection Transmission](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904176)
-- [Kanye Story](https://thekanyestory.com)
+- [Washington Post Grasps for New Direction as Trump-Era Boom Fades](https://www.wsj.com/articles/washington-post-grasps-for-new-direction-as-trump-era-boom-fades-11639695007)
+- [Intel apologizes in China after backlash over Xinjiang statement](https://www.cnn.com/2021/12/23/business/intel-china-apology-xinjiang-intl-hnk/index.html)
+- [Why are ML Compilers so Hard?](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/)
+- [12ft Ladder &lpar;Bypass any paywall&rpar;](https://12ft.io/)
+- [Ask HN: What are public AWS snapshots?](https://news.ycombinator.com/item?id=29679714)
+- [The Rise and Rise of Corrugated Iron](https://www.economist.com/christmas-specials/2021/12/18/the-rise-and-rise-of-corrugated-iron)
+- [Alexa owners not using it after only two weeks](https://mashable.com/article/amazon-alexa-usage-drop)
+- [Ducati Reveals a Prototype Electric Race Bike](https://www.forbes.com/sites/billroberson/2021/12/23/ducati-reveals-a-prototype-electric-race-bikewill-a-street-legal-model-follow-soon/)
+- [Public Streets Are the Lab for Self-Driving Experiments](https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html)
+- [Israel Considers 4th Vaccine Dose, but Some Experts Say It’s Premature](https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

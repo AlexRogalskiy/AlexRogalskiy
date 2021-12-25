@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Top 10 IR35 stories of 2021](https://www.computerweekly.com/news/252510918/Top-10-IR35-stories-of-2021)
+- [Top 10 Benelux stories of 2021](https://www.computerweekly.com/news/252510729/Top-10-Benelux-stories-of-2021)
 - [Vulnerabilities to fraud are increasing across the board](https://www.computerweekly.com/opinion/Vulnerabilities-to-fraud-are-increasing-across-the-board)
 - [Top 10 cloud stories of 2021](https://www.computerweekly.com/news/252510726/Top-10-cloud-stories-of-2021)
 - [Top 10 cyber security stories of 2021](https://www.computerweekly.com/news/252510738/Top-10-cyber-security-stories-of-2021)
@@ -407,8 +409,6 @@
 - [Is the IT sector beset by fear-mongering?](https://www.computerweekly.com/feature/Is-the-IT-sector-beset-by-fear-mongering)
 - [Diversity and inclusion in tech: has gender been left behind?](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-has-gender-been-left-behind)
 - [Marks &amp; Spencer upskills internal talent with data science education](https://www.computerweekly.com/news/252511315/Marks-Spencer-upskills-internal-talent-with-data-science-education)
-- [Scale-up vs scale-out: Horizontal vs vertical scaling for storage](https://www.computerweekly.com/feature/Scale-up-vs-scale-out-Horizontal-vs-vertical-scaling-for-storage)
-- [A trial relying on computer evidence should start with a trial of the computer evidence](https://www.computerweekly.com/opinion/A-trial-relying-on-computer-evidence-should-start-with-a-trial-of-the-computer-evidence)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

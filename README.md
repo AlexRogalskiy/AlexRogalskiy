@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reliable companies to apply for?](https://www.reddit.com/r/InformationTechnology/comments/rnz4jn/reliable_companies_to_apply_for/)
+- [How to Keep Your Company Data Safe from Cybercriminals?](https://www.reddit.com/r/InformationTechnology/comments/rnmedg/how_to_keep_your_company_data_safe_from/)
+- [Question](https://www.reddit.com/r/InformationTechnology/comments/rni50c/question/)
 - [TPMs](https://www.reddit.com/r/InformationTechnology/comments/rmzm7u/tpms/)
 - [thinking about changing my major to IT](https://www.reddit.com/r/InformationTechnology/comments/rmz94q/thinking_about_changing_my_major_to_it/)
 - [In 2019, I completed my engineering and started my career as a HR-Recruiter. Now I&#39;m thinking about switching my career to IT. I am currently in the Middle East working as a HR with a good salary. Should I continue this job or should I move to the USA to study IT? I am 24 years old](https://www.reddit.com/r/InformationTechnology/comments/rmohzl/in_2019_i_completed_my_engineering_and_started_my/)
@@ -421,9 +424,6 @@
 - [People who work in Change Management, who hurt you?](https://www.reddit.com/r/InformationTechnology/comments/rmc6ez/people_who_work_in_change_management_who_hurt_you/)
 - [Wordpad++](https://www.reddit.com/r/InformationTechnology/comments/rm66vk/wordpad/)
 - [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/rm60za/free_training_on_comptia_a_full_course/)
-- [What&#39;s do yall recommend for earbuds?](https://www.reddit.com/r/InformationTechnology/comments/rluen5/whats_do_yall_recommend_for_earbuds/)
-- [Needed: IT Decision Makers - Research Opportunity for IN-PERSON Sessions in HOUSTON](https://www.reddit.com/r/InformationTechnology/comments/rlnt0m/needed_it_decision_makers_research_opportunity/)
-- [What&#39;s the End User referring to Guessing Game](https://www.reddit.com/r/InformationTechnology/comments/rllb7a/whats_the_end_user_referring_to_guessing_game/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

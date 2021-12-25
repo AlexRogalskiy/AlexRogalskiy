@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: New York scales back New Year’s Eve celebrations; AstraZeneca booster protects against Omicron, study finds](https://www.theguardian.com/world/live/2021/dec/24/covid-news-live-new-york-scales-back-new-years-eve-celebrations-astrazeneca-booster-protects-against-omicron-study-finds)
-- [US and Japan draw up joint military plan in case of Taiwan emergency – report](https://www.theguardian.com/world/2021/dec/24/us-and-japan-draw-up-joint-military-plan-in-case-of-taiwan-emergency-report)
-- [Selfridges sold as part of £4bn deal](https://www.theguardian.com/business/2021/dec/24/selfridges-sold-as-part-of-4bn-deal)
-- [Rio Tinto puts Serbia lithium mine on hold](https://www.theguardian.com/world/2021/dec/24/rio-tinto-puts-serbia-lithium-mine-on-hold)
-- [The 100 best male footballers in the world 2021](https://www.theguardian.com/football/ng-interactive/2021/dec/21/the-100-best-male-footballers-in-the-world-2021)
-- [NHS urges people to get ‘gift of a jab’ at booster centres open on Christmas Day](https://www.theguardian.com/society/2021/dec/24/nhs-urges-people-to-get-gift-of-a-jab-at-booster-centres-open-on-christmas-day)
-- [Hugging has slumped under Covid, anxious Britons tell pollsters](https://www.theguardian.com/society/2021/dec/24/hugging-covid-anxious-britons-survey-yougov-pa-ons)
-- [A Christmas message from the First Dog on the Moon Institute | First Dog on the Moon](https://www.theguardian.com/commentisfree/2021/dec/24/a-christmas-message-from-the-first-dog-on-the-moon-institute)
-- [Raymond van Barneveld knocked out of PDC world championship by Rob Cross](https://www.theguardian.com/sport/2021/dec/23/raymond-van-barneveld-crashes-out-of-pdc-world-darts-championship)
-- [Singer Lisa Gentile is fourth woman to accuse Chris Noth of sexual assault](https://www.theguardian.com/tv-and-radio/2021/dec/23/chris-noth-lisa-gentile-sexual-assault)
+- [Central Africa: fighting kills six soldiers and 22 jihadists in Lake Chad region](https://www.theguardian.com/world/2021/dec/25/central-africa-fighting-kills-six-soldiers-and-22-jihadists-in-lake-chad-region)
+- [Australia and England ring the changes for Ashes Boxing Day Test](https://www.theguardian.com/sport/2021/dec/25/australia-and-england-ring-the-changes-for-ashes-boxing-day-test)
+- [At least 13 dead after third migrant boat in three days sinks in Greek waters](https://www.theguardian.com/world/2021/dec/24/at-least-six-dead-after-third-migrant-boat-in-three-days-sinks-in-greek-waters)
+- [A Ghost Story for Christmas: The Mezzotint review – a glittering half-hour nugget](https://www.theguardian.com/tv-and-radio/2021/dec/24/a-ghost-story-for-christmas-the-mezzotint-review-mark-gatiss)
+- [Caller tells Joe Biden ‘Let’s go Brandon’ during White House Christmas event](https://www.theguardian.com/us-news/2021/dec/24/caller-tells-joe-biden-lets-go-brandon-during-white-house-christmas-event)
+- [Man held after 100 iPads stolen from children’s hospital in Liverpool](https://www.theguardian.com/uk-news/2021/dec/24/man-held-after-100-ipads-stolen-from-childrens-hospital-in-liverpool)
+- [French coast: the early explorers who sparked British fears of a Francophone Australia](https://www.theguardian.com/science/2021/dec/25/french-coast-the-early-explorers-who-sparked-british-fears-of-a-francophone-australia)
+- [‘Leave it until the morning after’: how to properly wash wine glasses](https://www.theguardian.com/lifeandstyle/2021/dec/25/leave-it-until-the-morning-after-how-to-properly-wash-wine-glasses)
+- [Insatiable Robert Lewandowski now has stats to rival Messi and Ronaldo](https://www.theguardian.com/football/2021/dec/24/robert-lewandowski-stats-rival-messi-ronaldo-no-1-top-100-footballers-in-the-world-2021)
+- [Choppers on Mars and RNA jabs: the best scientific advances of 2021](https://www.theguardian.com/science/2021/dec/25/choppers-on-mars-and-rna-jabs-the-best-scientific-advances-of-2021)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

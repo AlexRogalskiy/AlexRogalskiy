@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Central Africa: fighting kills six soldiers and 22 jihadists in Lake Chad region](https://www.theguardian.com/world/2021/dec/25/central-africa-fighting-kills-six-soldiers-and-22-jihadists-in-lake-chad-region)
-- [Australia and England ring the changes for Ashes Boxing Day Test](https://www.theguardian.com/sport/2021/dec/25/australia-and-england-ring-the-changes-for-ashes-boxing-day-test)
-- [At least 13 dead after third migrant boat in three days sinks in Greek waters](https://www.theguardian.com/world/2021/dec/24/at-least-six-dead-after-third-migrant-boat-in-three-days-sinks-in-greek-waters)
-- [A Ghost Story for Christmas: The Mezzotint review – a glittering half-hour nugget](https://www.theguardian.com/tv-and-radio/2021/dec/24/a-ghost-story-for-christmas-the-mezzotint-review-mark-gatiss)
-- [Caller tells Joe Biden ‘Let’s go Brandon’ during White House Christmas event](https://www.theguardian.com/us-news/2021/dec/24/caller-tells-joe-biden-lets-go-brandon-during-white-house-christmas-event)
-- [Man held after 100 iPads stolen from children’s hospital in Liverpool](https://www.theguardian.com/uk-news/2021/dec/24/man-held-after-100-ipads-stolen-from-childrens-hospital-in-liverpool)
-- [French coast: the early explorers who sparked British fears of a Francophone Australia](https://www.theguardian.com/science/2021/dec/25/french-coast-the-early-explorers-who-sparked-british-fears-of-a-francophone-australia)
-- [‘Leave it until the morning after’: how to properly wash wine glasses](https://www.theguardian.com/lifeandstyle/2021/dec/25/leave-it-until-the-morning-after-how-to-properly-wash-wine-glasses)
-- [Insatiable Robert Lewandowski now has stats to rival Messi and Ronaldo](https://www.theguardian.com/football/2021/dec/24/robert-lewandowski-stats-rival-messi-ronaldo-no-1-top-100-footballers-in-the-world-2021)
-- [Choppers on Mars and RNA jabs: the best scientific advances of 2021](https://www.theguardian.com/science/2021/dec/25/choppers-on-mars-and-rna-jabs-the-best-scientific-advances-of-2021)
+- [Covid live news: France and Italy see record daily cases; Australia’s Omicron outbreak spreads](https://www.theguardian.com/world/live/2021/dec/26/covid-live-news-france-and-italy-see-record-daily-cases-australias-omicron-outbreak-spreads)
+- [Ashes 2021-22 third Test, day one: Australia v England – live!](https://www.theguardian.com/sport/live/2021/dec/26/ashes-2021-22-australia-vs-england-day-one-1-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Three members of K-pop band BTS test positive for Covid](https://www.theguardian.com/music/2021/dec/26/three-members-of-k-pop-band-bts-test-positive-for-covid)
+- [Burkina Faso declares two days of mourning after 41 militia members killed](https://www.theguardian.com/world/2021/dec/26/burkina-faso-declares-two-days-of-mourning-after-41-militia-members-killed)
+- [Sydney to Hobart yacht race: late flurry of withdrawals as Covid and injuries hit crews](https://www.theguardian.com/sport/2021/dec/26/sydney-to-hobart-yacht-race-late-flurry-of-withdrawals-as-covid-and-injuries-hit-crews)
+- [Space cadets Branson and Bezos scoop the 2021 shamelessness prize](https://www.theguardian.com/business/2021/dec/26/2021-business-agenda-awards-branson-bezos-musk)
+- [Plans to allow pubs to stay open longer for Queen’s platinum jubilee](https://www.theguardian.com/lifeandstyle/2021/dec/26/plans-to-allow-pubs-to-stay-open-longer-for-queens-platinum-jubilee)
+- [Scotland could suffer Boxing Day blizzards, says Met Office](https://www.theguardian.com/world/2021/dec/25/scotland-could-suffer-boxing-day-blizzards-says-met-office)
+- [Tennis star Denis Shapovalov tests positive for Covid after arriving in Sydney](https://www.theguardian.com/sport/2021/dec/26/tennis-star-denis-shapovalov-tests-positive-for-covid-after-arriving-in-sydney)
+- [Outlaw trail hunting on public land, demands Labour](https://www.theguardian.com/uk-news/2021/dec/25/outlaw-trail-hunting-on-public-land-demands-labour)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

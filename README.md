@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Thanks to the Chip Shortage, Texas Instruments Is Worth $170 B](https://www.wsj.com/articles/thanks-to-the-chip-shortage-texas-instruments-is-worth-170-billion-11640341805)
-- [Locked-out New Zealanders outraged as visa scheme for rich foreigners resumes](https://www.theguardian.com/world/2021/dec/24/locked-out-new-zealanders-outraged-as-visa-scheme-for-rich-foreigners-resumes)
-- [When a web PKI certificate won&#39;t cut it](https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html)
-- [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
-- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
-- [All the giant companies used ffmpeg](https://twitter.com/ID_AA_Carmack/status/1258531455220609025)
-- [How the Jesuits Charted the World](https://engelsbergideas.com/essays/jesuit/)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Corrugated-paper-making machine patent &lpar;1918&rpar;](https://patents.google.com/patent/US1264506A/en)
-- [Georgia teacher read the fine print and won $13K &lpar;2019&rpar;](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5045331/this-georgia-teacher-read-the-fine-print-and-won-13k-1.5045342)
+- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
+- [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
+- [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
+- [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
+- [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
+- [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
+- [Simple server alerts on a need-to-know basis](https://nbailey.ca/post/simple-alerts/)
+- [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/)
+- [A New Coefficient of Correlation](https://arxiv.org/abs/1909.10140)
+- [Christmas shopping the IBM way: computerized gift selection in 1962](https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

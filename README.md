@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Washington Post Grasps for New Direction as Trump-Era Boom Fades](https://www.wsj.com/articles/washington-post-grasps-for-new-direction-as-trump-era-boom-fades-11639695007)
-- [Intel apologizes in China after backlash over Xinjiang statement](https://www.cnn.com/2021/12/23/business/intel-china-apology-xinjiang-intl-hnk/index.html)
-- [Why are ML Compilers so Hard?](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/)
-- [12ft Ladder &lpar;Bypass any paywall&rpar;](https://12ft.io/)
-- [Ask HN: What are public AWS snapshots?](https://news.ycombinator.com/item?id=29679714)
-- [The Rise and Rise of Corrugated Iron](https://www.economist.com/christmas-specials/2021/12/18/the-rise-and-rise-of-corrugated-iron)
-- [Alexa owners not using it after only two weeks](https://mashable.com/article/amazon-alexa-usage-drop)
-- [Ducati Reveals a Prototype Electric Race Bike](https://www.forbes.com/sites/billroberson/2021/12/23/ducati-reveals-a-prototype-electric-race-bikewill-a-street-legal-model-follow-soon/)
-- [Public Streets Are the Lab for Self-Driving Experiments](https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html)
-- [Israel Considers 4th Vaccine Dose, but Some Experts Say It’s Premature](https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html)
+- [Beijing court rules Bitcoin mining contract &#39;void&#39;](https://techcrunch.com/2021/12/15/beijing-court-rules-bitcoin-mining-contract-void/)
+- [We wish you a nerdy Xmas](http://backreaction.blogspot.com/2021/12/we-wish-you-nerdy-xmas.html)
+- [Ask HN: Are there any studies that compare expression/statement based languages?](https://news.ycombinator.com/item?id=29689082)
+- [Ask HN: How to increase your executive presence](https://news.ycombinator.com/item?id=29689076)
+- [Google: Washington’s Birthday is December 24](https://www.google.com/search?q=washington%27s+birthday)
+- [The lost talks from Linus Torvalds at DECUS&#39;94](https://archive.org/details/199405-decusnew-orleans)
+- [Why do people write comments even if no one reads them?](https://news.ycombinator.com/item?id=29689061)
+- [VSCode terminal from DOM to &lt;canvas&gt;](https://code.visualstudio.com/blogs/2017/10/03/terminal-renderer#_dom-rendering)
+- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
+- [Terminal interface to search the LLVM-C API](https://github.com/alt-romes/llvm-c-search)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

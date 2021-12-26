@@ -414,8 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [My brand new laptop won&#39;t turn on. Any suggestions on what I should do?](https://www.reddit.com/r/InformationTechnology/comments/rofgkc/my_brand_new_laptop_wont_turn_on_any_suggestions/)
 - [Reliable companies to apply for?](https://www.reddit.com/r/InformationTechnology/comments/rnz4jn/reliable_companies_to_apply_for/)
-- [How to Keep Your Company Data Safe from Cybercriminals?](https://www.reddit.com/r/InformationTechnology/comments/rnmedg/how_to_keep_your_company_data_safe_from/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/rni50c/question/)
 - [TPMs](https://www.reddit.com/r/InformationTechnology/comments/rmzm7u/tpms/)
 - [thinking about changing my major to IT](https://www.reddit.com/r/InformationTechnology/comments/rmz94q/thinking_about_changing_my_major_to_it/)

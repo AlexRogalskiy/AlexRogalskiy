@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Beijing court rules Bitcoin mining contract &#39;void&#39;](https://techcrunch.com/2021/12/15/beijing-court-rules-bitcoin-mining-contract-void/)
-- [We wish you a nerdy Xmas](http://backreaction.blogspot.com/2021/12/we-wish-you-nerdy-xmas.html)
-- [Ask HN: Are there any studies that compare expression/statement based languages?](https://news.ycombinator.com/item?id=29689082)
-- [Ask HN: How to increase your executive presence](https://news.ycombinator.com/item?id=29689076)
-- [Google: Washington’s Birthday is December 24](https://www.google.com/search?q=washington%27s+birthday)
-- [The lost talks from Linus Torvalds at DECUS&#39;94](https://archive.org/details/199405-decusnew-orleans)
-- [Why do people write comments even if no one reads them?](https://news.ycombinator.com/item?id=29689061)
-- [VSCode terminal from DOM to &lt;canvas&gt;](https://code.visualstudio.com/blogs/2017/10/03/terminal-renderer#_dom-rendering)
-- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
-- [Terminal interface to search the LLVM-C API](https://github.com/alt-romes/llvm-c-search)
+- [The Problem with Ponzis](https://adventuresincapitalism.com/2021/12/27/the-problem-with-ponzis/)
+- [IIT Madras Offers Free Online 12-Week Course on AI](https://onlinecourses.nptel.ac.in/noc22_cs02/preview)
+- [Superhighway84 – a Usenet-inspired decentralized internet discussion system](https://xn--gckvb8fzb.com/superhighway84/)
+- [Inside Job &lpar;2021 TV Series&rpar;](https://en.wikipedia.org/wiki/Inside_Job_(2021_TV_series))
+- [Germanium Based Adaptive Transistors](https://scitechdaily.com/revolutionary-new-intelligent-transistor-developed/)
+- [Alternative statistical method could improve clinical trials](https://phys.org/news/2021-12-alternative-statistical-method-clinical-trials.html)
+- [Billard-Ball Computer](https://en.wikipedia.org/wiki/Billiard-ball_computer)
+- [Ask HN: What are good resources for following the latest R&amp;D in computer vision?](https://news.ycombinator.com/item?id=29698345)
+- [Ask HN: How to Start a Language Reform?](https://news.ycombinator.com/item?id=29698302)
+- [The Story of Tetris &lpar;2018&rpar;](https://www.youtube.com/watch?v=_fQtxKmgJC8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

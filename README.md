@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
-- [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
-- [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
-- [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
-- [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
-- [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
-- [Simple server alerts on a need-to-know basis](https://nbailey.ca/post/simple-alerts/)
-- [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/)
-- [A New Coefficient of Correlation](https://arxiv.org/abs/1909.10140)
-- [Christmas shopping the IBM way: computerized gift selection in 1962](https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html)
+- [Once poor, always poor? – Stears Business](https://www.stearsng.com/article/once-poor-always-poor)
+- [Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization](https://www.nature.com/articles/d41586-021-03824-5)
+- [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
+- [Risk of myocarditis following sequential COVID-19 vaccinations by age and sex [pdf]](https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1.full.pdf)
+- [Py2cr: A Python3 to Crystal Translator](https://github.com/nanobowers/py2cr)
+- [OsmAnd 4.1 adds inital support for Android Auto](https://osmand.net/blog#androidauto)
+- [A Tumblr developer on the App Store approval process](https://sreegs.tumblr.com/post/671649355334336512/alright-lets-talk-about-apple-and-tumblrs)
+- [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
+- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
+- [The absurdity of renting a car will no longer be tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

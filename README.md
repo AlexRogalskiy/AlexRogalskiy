@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: France and Italy see record daily cases; Australia’s Omicron outbreak spreads](https://www.theguardian.com/world/live/2021/dec/26/covid-live-news-france-and-italy-see-record-daily-cases-australias-omicron-outbreak-spreads)
-- [Ashes 2021-22 third Test, day one: Australia v England – live!](https://www.theguardian.com/sport/live/2021/dec/26/ashes-2021-22-australia-vs-england-day-one-1-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Three members of K-pop band BTS test positive for Covid](https://www.theguardian.com/music/2021/dec/26/three-members-of-k-pop-band-bts-test-positive-for-covid)
-- [Burkina Faso declares two days of mourning after 41 militia members killed](https://www.theguardian.com/world/2021/dec/26/burkina-faso-declares-two-days-of-mourning-after-41-militia-members-killed)
-- [Sydney to Hobart yacht race: late flurry of withdrawals as Covid and injuries hit crews](https://www.theguardian.com/sport/2021/dec/26/sydney-to-hobart-yacht-race-late-flurry-of-withdrawals-as-covid-and-injuries-hit-crews)
-- [Space cadets Branson and Bezos scoop the 2021 shamelessness prize](https://www.theguardian.com/business/2021/dec/26/2021-business-agenda-awards-branson-bezos-musk)
-- [Plans to allow pubs to stay open longer for Queen’s platinum jubilee](https://www.theguardian.com/lifeandstyle/2021/dec/26/plans-to-allow-pubs-to-stay-open-longer-for-queens-platinum-jubilee)
-- [Scotland could suffer Boxing Day blizzards, says Met Office](https://www.theguardian.com/world/2021/dec/25/scotland-could-suffer-boxing-day-blizzards-says-met-office)
-- [Tennis star Denis Shapovalov tests positive for Covid after arriving in Sydney](https://www.theguardian.com/sport/2021/dec/26/tennis-star-denis-shapovalov-tests-positive-for-covid-after-arriving-in-sydney)
-- [Outlaw trail hunting on public land, demands Labour](https://www.theguardian.com/uk-news/2021/dec/25/outlaw-trail-hunting-on-public-land-demands-labour)
+- [Covid news live: Australia case rise continues; Omicron grounds 1,000 more US flights](https://www.theguardian.com/world/live/2021/dec/27/covid-news-live-australia-case-rise-continues-omicron-grounds-1000-more-us-flights)
+- [Ashes 2021-22 third Test, day two: Australia v England – live!](https://www.theguardian.com/sport/live/2021/dec/27/ashes-2021-22-australia-vs-england-day-two-2-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Police investigate video after Windsor Castle security breach](https://www.theguardian.com/uk-news/2021/dec/26/man-19-mental-health-act-windsor-castle-arrest)
+- [Rising energy prices will give Treasury £3.1bn windfall, says Labour](https://www.theguardian.com/politics/2021/dec/27/rising-energy-prices-will-give-treasury-31bn-windfall-says-labour-vat-receipts-rishi-sunak)
+- [Police ‘ineptitude’ contributed to Stephen Port murders, says producer](https://www.theguardian.com/uk-news/2021/dec/27/police-ineptitude-contributed-to-stephen-port-murders-says-producer)
+- [Talking Horses: Deise Aba can grab Welsh National glory for Hobbs](https://www.theguardian.com/sport/blog/2021/dec/27/talking-horses-deise-aba-can-grab-welsh-national-glory-for-hobbs)
+- [Sarah Weddington, attorney who won Roe v Wade abortion case, dies aged 76](https://www.theguardian.com/us-news/2021/dec/26/sarah-weddington-attorney-who-won-roe-v-wade-abortion-case-dies-aged-76)
+- [Wayne Thiebaud, painter of cakes and San Francisco cityscapes, dies at 101](https://www.theguardian.com/artanddesign/2021/dec/26/wayne-thiebaud-painter-of-cakes-and-san-francisco-cityscapes-dies-at-101)
+- [Brighton end winless run after Trossard and Maupay superbly sink Brentford](https://www.theguardian.com/football/2021/dec/26/brighton-brentford-premier-league-match-report)
+- [A Very British Scandal review – Claire Foy is masterful as the ‘dirty duchess’ out for blood](https://www.theguardian.com/tv-and-radio/2021/dec/26/a-very-british-scandal-review-claire-foy-is-masterful-as-the-dirty-duchess-out-for-blood)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

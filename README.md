@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [goodnotes / notability for IT students](https://www.reddit.com/r/InformationTechnology/comments/rozlwm/goodnotes_notability_for_it_students/)
 - [My brand new laptop won&#39;t turn on. Any suggestions on what I should do?](https://www.reddit.com/r/InformationTechnology/comments/rofgkc/my_brand_new_laptop_wont_turn_on_any_suggestions/)
 - [Reliable companies to apply for?](https://www.reddit.com/r/InformationTechnology/comments/rnz4jn/reliable_companies_to_apply_for/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/rni50c/question/)
@@ -423,7 +424,6 @@
 - [Feeling Burnt Out From Job](https://www.reddit.com/r/InformationTechnology/comments/rmjzwx/feeling_burnt_out_from_job/)
 - [People who work in Change Management, who hurt you?](https://www.reddit.com/r/InformationTechnology/comments/rmc6ez/people_who_work_in_change_management_who_hurt_you/)
 - [Wordpad++](https://www.reddit.com/r/InformationTechnology/comments/rm66vk/wordpad/)
-- [Free Training on CompTIA A+ Full Course](https://www.reddit.com/r/InformationTechnology/comments/rm60za/free_training_on_comptia_a_full_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

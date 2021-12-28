@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Australia case rise continues; Omicron grounds 1,000 more US flights](https://www.theguardian.com/world/live/2021/dec/27/covid-news-live-australia-case-rise-continues-omicron-grounds-1000-more-us-flights)
-- [Ashes 2021-22 third Test, day two: Australia v England – live!](https://www.theguardian.com/sport/live/2021/dec/27/ashes-2021-22-australia-vs-england-day-two-2-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Police investigate video after Windsor Castle security breach](https://www.theguardian.com/uk-news/2021/dec/26/man-19-mental-health-act-windsor-castle-arrest)
-- [Rising energy prices will give Treasury £3.1bn windfall, says Labour](https://www.theguardian.com/politics/2021/dec/27/rising-energy-prices-will-give-treasury-31bn-windfall-says-labour-vat-receipts-rishi-sunak)
-- [Police ‘ineptitude’ contributed to Stephen Port murders, says producer](https://www.theguardian.com/uk-news/2021/dec/27/police-ineptitude-contributed-to-stephen-port-murders-says-producer)
-- [Talking Horses: Deise Aba can grab Welsh National glory for Hobbs](https://www.theguardian.com/sport/blog/2021/dec/27/talking-horses-deise-aba-can-grab-welsh-national-glory-for-hobbs)
-- [Sarah Weddington, attorney who won Roe v Wade abortion case, dies aged 76](https://www.theguardian.com/us-news/2021/dec/26/sarah-weddington-attorney-who-won-roe-v-wade-abortion-case-dies-aged-76)
-- [Wayne Thiebaud, painter of cakes and San Francisco cityscapes, dies at 101](https://www.theguardian.com/artanddesign/2021/dec/26/wayne-thiebaud-painter-of-cakes-and-san-francisco-cityscapes-dies-at-101)
-- [Brighton end winless run after Trossard and Maupay superbly sink Brentford](https://www.theguardian.com/football/2021/dec/26/brighton-brentford-premier-league-match-report)
-- [A Very British Scandal review – Claire Foy is masterful as the ‘dirty duchess’ out for blood](https://www.theguardian.com/tv-and-radio/2021/dec/26/a-very-british-scandal-review-claire-foy-is-masterful-as-the-dirty-duchess-out-for-blood)
+- [Ashes 2021-22: Australia thrash England by an innings to win third Test and series – live reaction!](https://www.theguardian.com/sport/live/2021/dec/28/ashes-2021-22-australia-vs-england-day-three-3-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Australia retain the Ashes after thrashing England to take 3-0 series lead | Ali Martin](https://www.theguardian.com/sport/2021/dec/28/australia-retain-the-ashes-after-thrashing-england-to-take-3-0-series-lead)
+- [England hospital Covid admissions highest since February; France announces new curbs – as it happened](https://www.theguardian.com/world/live/2021/dec/27/covid-news-live-australia-case-rise-continues-omicron-grounds-1000-more-us-flights)
+- [Labour’s David Lammy apologises for nominating Jeremy Corbyn to be leader](https://www.theguardian.com/politics/2021/dec/28/david-lammy-apologises-for-nominating-corbyn-to-be-labour-leader)
+- [MoD under fire for spending almost £13m on hire cars for staff](https://www.theguardian.com/uk-news/2021/dec/28/mod-under-fire-for-spending-almost-13m-on-hire-cars-for-staff)
+- [Teenagers four times more likely to smoke if parents do, say experts](https://www.theguardian.com/society/2021/dec/28/smokers-teenagers-parents)
+- [UK house price growth set to slow in 2022, property experts say](https://www.theguardian.com/money/2021/dec/28/uk-house-price-growth-2022-forecast)
+- [Haughey told Major unionists lack sophistication during NI talks](https://www.theguardian.com/politics/2021/dec/28/haughey-told-major-unionists-lack-sophistication-during-ni-talks)
+- [Peter Pike, former Labour MP for Burnley, dies aged 84](https://www.theguardian.com/uk-news/2021/dec/27/peter-pike-former-labour-mp-for-burnley-dies-aged-84)
+- [‘Other surfers respect me’: the 92-year-old still riding waves in New Zealand](https://www.theguardian.com/world/2021/dec/28/other-surfers-respect-me-the-92-year-old-still-riding-waves-in-new-zealand)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

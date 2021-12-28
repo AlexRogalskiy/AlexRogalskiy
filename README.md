@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Year in Review 2021 edition podcast](https://www.itworldcanada.com/article/cyber-security-today-year-in-review-2021-edition-podcast/469462)
 - [Brief phishing attack may have been dry run for exploiting Microsoft Office bug: Sophos](https://www.itworldcanada.com/article/brief-phishing-attack-may-have-been-dry-run-for-exploiting-microsoft-office-bug-sophos/469412)
 - [Five nations issue alert and comprehensive guidance for fighting Log4Shell vulnerabilities](https://www.itworldcanada.com/article/five-nations-issue-alert-and-comprehensive-guidance-for-fighting-log4shell-vulnerabilities/469426)
 - [Hashtag Trending Dec. 23- Social media distrust; engineers love blockchain; No vaccine, no pay at Intel](https://www.itworldcanada.com/article/hashtag-trending-dec-23-social-media-distrust-engineers-love-blockchain-no-vaccine-no-pay-at-intel/469384)
@@ -438,7 +439,6 @@
 - [Threat actors behind SolarWinds compromise are still active, warns Mandiant](https://www.itworldcanada.com/article/threat-actors-behind-solarwinds-compromise-are-still-active-warns-mandiant/469319)
 - [Cyber Security Today, Dec. 22, 2021 – Alerts for Windows administrators, install this ManageEngine update, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-22-2021-alerts-for-windows-administrators-install-this-manageengine-update-and-more/469266)
 - [Hashtag Trending Dec. 22 – Amazon censors bad reviews; Facebook struggles to keep employees; Mental health app security breach](https://www.itworldcanada.com/article/hashtag-trending-dec-22-amazon-censors-bad-reviews-facebook-struggles-to-keep-employees-mental-health-app-security-breach/469305)
-- [Scam call volume more than doubled in 2021, says T-Mobile](https://www.itworldcanada.com/article/scam-call-volume-more-than-doubled-in-2021-says-t-mobile/469285)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

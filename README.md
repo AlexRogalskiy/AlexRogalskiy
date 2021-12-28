@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Problem with Ponzis](https://adventuresincapitalism.com/2021/12/27/the-problem-with-ponzis/)
-- [IIT Madras Offers Free Online 12-Week Course on AI](https://onlinecourses.nptel.ac.in/noc22_cs02/preview)
-- [Superhighway84 – a Usenet-inspired decentralized internet discussion system](https://xn--gckvb8fzb.com/superhighway84/)
-- [Inside Job &lpar;2021 TV Series&rpar;](https://en.wikipedia.org/wiki/Inside_Job_(2021_TV_series))
-- [Germanium Based Adaptive Transistors](https://scitechdaily.com/revolutionary-new-intelligent-transistor-developed/)
-- [Alternative statistical method could improve clinical trials](https://phys.org/news/2021-12-alternative-statistical-method-clinical-trials.html)
-- [Billard-Ball Computer](https://en.wikipedia.org/wiki/Billiard-ball_computer)
-- [Ask HN: What are good resources for following the latest R&amp;D in computer vision?](https://news.ycombinator.com/item?id=29698345)
-- [Ask HN: How to Start a Language Reform?](https://news.ycombinator.com/item?id=29698302)
-- [The Story of Tetris &lpar;2018&rpar;](https://www.youtube.com/watch?v=_fQtxKmgJC8)
+- [Japan&#39;s Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+- [Teaching Information Security](https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/)
+- [Stable Genius Act](https://en.wikipedia.org/wiki/Stable_Genius_Act)
+- [Queensland sunflower crop planted by drone could be first of its kind](https://www.abc.net.au/news/2021-12-28/cambooya-sunflower-farm-planted-by-drone/100728166)
+- [Surgery to remove a tumor attached to the heart of a 26-week-old fetus](https://newsroom.clevelandclinic.org/2021/12/22/cleveland-clinic-performs-lifesaving-fetal-surgery-to-remove-rare-heart-tumor/)
+- [Another blog with 2021 book recommendations](https://maraoz.com/2021/12/27/books-2021/)
+- [An app to automate pull requests review](https://github.com/diegolnasc/gotcha)
+- [The Clipper Chip &lpar;1994&rpar;](https://archive.epic.org/crypto/clipper/)
+- [North-south antipathies endure around the globe](https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe)
+- [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

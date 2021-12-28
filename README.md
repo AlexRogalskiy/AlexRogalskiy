@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Once poor, always poor? – Stears Business](https://www.stearsng.com/article/once-poor-always-poor)
-- [Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization](https://www.nature.com/articles/d41586-021-03824-5)
-- [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
-- [Risk of myocarditis following sequential COVID-19 vaccinations by age and sex [pdf]](https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1.full.pdf)
-- [Py2cr: A Python3 to Crystal Translator](https://github.com/nanobowers/py2cr)
-- [OsmAnd 4.1 adds inital support for Android Auto](https://osmand.net/blog#androidauto)
-- [A Tumblr developer on the App Store approval process](https://sreegs.tumblr.com/post/671649355334336512/alright-lets-talk-about-apple-and-tumblrs)
-- [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
-- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
-- [The absurdity of renting a car will no longer be tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
+- [The FDA&#39;s Restrictive Regulation of Home-Testing Devices](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3914&context=dlj)
+- [Collection of V.90/V.92 modem sounds &lpar;2016&rpar;](https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/)
+- [AWS Ground Station](https://aws.amazon.com/ground-station/)
+- [The State of External Retina Displays](https://www.caseyliss.com/2021/12/7/monitor-liss)
+- [Compose.ai &lpar;YC W21&rpar; Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
+- [Takeaways from looking for a new senior role in tech](https://philcalcado.com/2021/12/20/job_hunt.html)
+- [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
+- [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
+- [Show HN: Drovp – Convenient UI for any drag and drop operations](https://drovp.app)
+- [Speedcabling &lpar;2008&rpar;](http://schkolne.com/speedcabling/rules.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

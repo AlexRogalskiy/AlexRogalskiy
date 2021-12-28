@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about retaining emails and files after leaving a job](https://www.reddit.com/r/InformationTechnology/comments/rq0cky/question_about_retaining_emails_and_files_after/)
+- [Is double degree in Computing and Information Technology worth it?](https://www.reddit.com/r/InformationTechnology/comments/rpw5sm/is_double_degree_in_computing_and_information/)
+- [What are java related jobs in IT?](https://www.reddit.com/r/InformationTechnology/comments/rpsudf/what_are_java_related_jobs_in_it/)
 - [goodnotes / notability for IT students](https://www.reddit.com/r/InformationTechnology/comments/rozlwm/goodnotes_notability_for_it_students/)
 - [My brand new laptop won&#39;t turn on. Any suggestions on what I should do?](https://www.reddit.com/r/InformationTechnology/comments/rofgkc/my_brand_new_laptop_wont_turn_on_any_suggestions/)
 - [Reliable companies to apply for?](https://www.reddit.com/r/InformationTechnology/comments/rnz4jn/reliable_companies_to_apply_for/)
@@ -421,9 +424,6 @@
 - [TPMs](https://www.reddit.com/r/InformationTechnology/comments/rmzm7u/tpms/)
 - [thinking about changing my major to IT](https://www.reddit.com/r/InformationTechnology/comments/rmz94q/thinking_about_changing_my_major_to_it/)
 - [In 2019, I completed my engineering and started my career as a HR-Recruiter. Now I&#39;m thinking about switching my career to IT. I am currently in the Middle East working as a HR with a good salary. Should I continue this job or should I move to the USA to study IT? I am 24 years old](https://www.reddit.com/r/InformationTechnology/comments/rmohzl/in_2019_i_completed_my_engineering_and_started_my/)
-- [Feeling Burnt Out From Job](https://www.reddit.com/r/InformationTechnology/comments/rmjzwx/feeling_burnt_out_from_job/)
-- [People who work in Change Management, who hurt you?](https://www.reddit.com/r/InformationTechnology/comments/rmc6ez/people_who_work_in_change_management_who_hurt_you/)
-- [Wordpad++](https://www.reddit.com/r/InformationTechnology/comments/rm66vk/wordpad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

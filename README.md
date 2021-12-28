@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What app developers need to do now to fight Log4j exploits](https://www.infoworld.com/article/3645908/what-app-developers-need-to-do-now-to-fight-log4j-exploits.html#tk.rss_all)
+- [How digital twins improve physical systems](https://www.infoworld.com/article/3645789/how-digital-twins-improve-physical-systems.html#tk.rss_all)
 - [GitLab 14.6 shines on distributed deployments](https://www.infoworld.com/article/3645849/gitlab-146-shines-on-distributed-deployments.html#tk.rss_all)
 - [Hands-on with Dropwizard REST APIs](https://www.infoworld.com/article/3645503/hands-on-with-dropwizard-rest-apis.html#tk.rss_all)
 - [Visual Studio feedback upgrade snubs older versions](https://www.infoworld.com/article/3645688/visual-studio-feedback-upgrade-snubs-older-versions.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Using the Webview UI Toolkit for Visual Studio Code](https://www.infoworld.com/article/3645144/using-the-webview-ui-toolkit-for-visual-studio-code.html#tk.rss_all)
 - [Get started with Minikube](https://www.infoworld.com/article/3645128/get-started-with-minikube.html#tk.rss_all)
 - [Why SBOM management is no longer optional](https://www.infoworld.com/article/3645452/why-sbom-management-is-no-longer-optional.html#tk.rss_all)
-- [How technology bias impacts cloud architecture](https://www.infoworld.com/article/3645137/how-technology-bias-impacts-cloud-architecture.html#tk.rss_all)
-- [Meeting the challenges of multi-cluster Kubernetes](https://www.infoworld.com/article/3644418/meeting-the-challenges-of-multi-cluster-kubernetes.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

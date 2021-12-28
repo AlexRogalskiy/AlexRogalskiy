@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [14 tech luminaries we lost in 2021](https://www.computerworld.com/article/3644496/tech-luminaries-we-lost-in-2021.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [How Apple&#39;s iCloud Private Relay supports enterprise VPN](https://www.computerworld.com/article/3645848/how-apples-icloud-private-relay-supports-enterprise-vpn.html#tk.rss_all)
 - [Privacy-centric DuckDuckGo to release Mac desktop browser](https://www.computerworld.com/article/3645668/privacy-centric-duckduckgo-to-release-mac-desktop-browser.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [The top Chrome OS tips of 2021](https://www.computerworld.com/article/3328830/chrome-os-tips-2021.html#tk.rss_all)
 - [What Apple’s approach to building services income tells us](https://www.computerworld.com/article/3645372/what-apples-approach-to-building-services-income-tells-us.html#tk.rss_all)
 - [Don’t waste time reinventing the software wheel](https://www.computerworld.com/article/3645139/don-t-waste-time-reinventing-the-software-wheel.html#tk.rss_all)
-- [The Great Resignation: Why workers quit &lpar;and how companies can respond&rpar;](https://www.computerworld.com/article/3645496/the-great-resignation-why-workers-quit-and-how-companies-can-respond.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

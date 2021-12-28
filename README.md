@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data and Analytics: For and of the People](https://www.informationweek.com/big-data/data-and-analytics-for-and-of-the-people)
+- [The Dark Web Has Its Own People&#39;s Court](https://www.informationweek.com/it-life/the-dark-web-has-its-own-people-s-court)
 - [Enterprise Tech 2022: What&#39;s Ahead for IT](https://www.informationweek.com/strategic-cio/enterprise-tech-2022-what-s-ahead-for-it)
 - [No-Code, Low-Code Machine Learning Platforms Still Require People](https://www.informationweek.com/ai-or-machine-learning/no-code-low-code-machine-learning-platforms-still-require-people)
 - [Why More Businesses Will be Creating Their Own Chips in 2022](https://www.informationweek.com/it-life/why-more-businesses-will-be-creating-their-own-chips-in-2022)
@@ -377,8 +379,6 @@
 - [Seismic Shifts in Software Development Still Need Hardware](https://www.informationweek.com/devops/seismic-shifts-in-software-development-still-need-hardware)
 - [Log4J Attacks Confirm Need for DevSecOps, Automation, SBOM](https://www.informationweek.com/devops/log4j-attacks-confirm-need-for-devsecops-automation-sbom)
 - [Data Innovation in 2021: Supply Chain, Ethical AI, Data Pros in High Demand](https://www.informationweek.com/big-data/data-innovation-in-2021-supply-chain-ethical-ai-data-pros-in-high-demand)
-- [Payment Trends to Watch in 2022](https://www.informationweek.com/fintech/payment-trends-to-watch-in-2022)
-- [The 2021 IT Job Market: What a Year](https://www.informationweek.com/strategic-cio/the-2021-it-job-market-what-a-year)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

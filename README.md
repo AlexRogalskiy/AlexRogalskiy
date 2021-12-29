@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Will Autonomous Vehicle Makers Get Back into Gear in 2022?](https://www.informationweek.com/ai-or-machine-learning/will-autonomous-vehicle-makers-get-back-into-gear-in-2022-)
+- [The Role of NLQ in Self-Service Business Intelligence](https://www.informationweek.com/big-data/the-role-of-nlq-in-self-service-business-intelligence)
 - [Data and Analytics: For and of the People](https://www.informationweek.com/big-data/data-and-analytics-for-and-of-the-people)
 - [The Dark Web Has Its Own People&#39;s Court](https://www.informationweek.com/it-life/the-dark-web-has-its-own-people-s-court)
 - [Enterprise Tech 2022: What&#39;s Ahead for IT](https://www.informationweek.com/strategic-cio/enterprise-tech-2022-what-s-ahead-for-it)
@@ -377,8 +379,6 @@
 - [Supply Chains May Be Stalled - But Can Still Deliver Opportunity](https://www.informationweek.com/big-data/supply-chains-may-be-stalled-but-can-still-deliver-opportunity)
 - [8 Real Ways CIOs Can Drive Sustainability, Fight Climate Change](https://www.informationweek.com/cloud/8-real-ways-cios-can-drive-sustainability-fight-climate-change)
 - [Seismic Shifts in Software Development Still Need Hardware](https://www.informationweek.com/devops/seismic-shifts-in-software-development-still-need-hardware)
-- [Log4J Attacks Confirm Need for DevSecOps, Automation, SBOM](https://www.informationweek.com/devops/log4j-attacks-confirm-need-for-devsecops-automation-sbom)
-- [Data Innovation in 2021: Supply Chain, Ethical AI, Data Pros in High Demand](https://www.informationweek.com/big-data/data-innovation-in-2021-supply-chain-ethical-ai-data-pros-in-high-demand)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

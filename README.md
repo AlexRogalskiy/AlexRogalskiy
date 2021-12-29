@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Beware of two-stage malware attacks, says Sophos](https://www.itworldcanada.com/article/beware-of-two-stage-malware-attacks-says-sophos/469491)
+- [Hashtag Trending 2021 Holiday Special- Part 1/2](https://www.itworldcanada.com/article/hashtag-trending-2021-holiday-special-part-1-2/469456)
 - [Cyber Security Today, Year in Review 2021 edition podcast](https://www.itworldcanada.com/article/cyber-security-today-year-in-review-2021-edition-podcast/469462)
 - [Brief phishing attack may have been dry run for exploiting Microsoft Office bug: Sophos](https://www.itworldcanada.com/article/brief-phishing-attack-may-have-been-dry-run-for-exploiting-microsoft-office-bug-sophos/469412)
 - [Five nations issue alert and comprehensive guidance for fighting Log4Shell vulnerabilities](https://www.itworldcanada.com/article/five-nations-issue-alert-and-comprehensive-guidance-for-fighting-log4shell-vulnerabilities/469426)
@@ -437,8 +439,6 @@
 - [Vancouver software company to acquire Australia-based Link Group for CA$3.2 billion](https://www.itworldcanada.com/article/vancouver-software-company-to-acquire-australia-based-link-group-for-ca3-2-billion/469361)
 - [Amazon Web Services hit with another outage, many services now restored](https://www.itworldcanada.com/article/amazon-web-services-hit-with-another-outage-many-services-now-restored/469344)
 - [Threat actors behind SolarWinds compromise are still active, warns Mandiant](https://www.itworldcanada.com/article/threat-actors-behind-solarwinds-compromise-are-still-active-warns-mandiant/469319)
-- [Cyber Security Today, Dec. 22, 2021 – Alerts for Windows administrators, install this ManageEngine update, and more](https://www.itworldcanada.com/article/cyber-security-today-dec-22-2021-alerts-for-windows-administrators-install-this-manageengine-update-and-more/469266)
-- [Hashtag Trending Dec. 22 – Amazon censors bad reviews; Facebook struggles to keep employees; Mental health app security breach](https://www.itworldcanada.com/article/hashtag-trending-dec-22-amazon-censors-bad-reviews-facebook-struggles-to-keep-employees-mental-health-app-security-breach/469305)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

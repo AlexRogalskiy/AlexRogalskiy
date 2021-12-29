@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Decided to get a bachelors in IT.](https://www.reddit.com/r/InformationTechnology/comments/rqwm0o/decided_to_get_a_bachelors_in_it/)
+- [Ayuda :&lpar;](https://www.reddit.com/r/InformationTechnology/comments/rqu2uk/ayuda/)
+- [Looking for insight on a trend around whitelisting... is it suddenly a bad word?](https://www.reddit.com/r/InformationTechnology/comments/rqstji/looking_for_insight_on_a_trend_around/)
+- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/rqorh3/first_it_job/)
+- [Do you have to have a desktop setup for a remote helpdesk position?](https://www.reddit.com/r/InformationTechnology/comments/rqmcmt/do_you_have_to_have_a_desktop_setup_for_a_remote/)
+- [Masters: IT project management vs information assurance and security](https://www.reddit.com/r/InformationTechnology/comments/rqkqdh/masters_it_project_management_vs_information/)
+- [Is it worth getting a mac book in addition to a Windows Laptop computer as someone entering the field of IT?](https://www.reddit.com/r/InformationTechnology/comments/rq8ypi/is_it_worth_getting_a_mac_book_in_addition_to_a/)
 - [Question about retaining emails and files after leaving a job](https://www.reddit.com/r/InformationTechnology/comments/rq0cky/question_about_retaining_emails_and_files_after/)
 - [Is double degree in Computing and Information Technology worth it?](https://www.reddit.com/r/InformationTechnology/comments/rpw5sm/is_double_degree_in_computing_and_information/)
 - [What are java related jobs in IT?](https://www.reddit.com/r/InformationTechnology/comments/rpsudf/what_are_java_related_jobs_in_it/)
-- [goodnotes / notability for IT students](https://www.reddit.com/r/InformationTechnology/comments/rozlwm/goodnotes_notability_for_it_students/)
-- [My brand new laptop won&#39;t turn on. Any suggestions on what I should do?](https://www.reddit.com/r/InformationTechnology/comments/rofgkc/my_brand_new_laptop_wont_turn_on_any_suggestions/)
-- [Reliable companies to apply for?](https://www.reddit.com/r/InformationTechnology/comments/rnz4jn/reliable_companies_to_apply_for/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/rni50c/question/)
-- [TPMs](https://www.reddit.com/r/InformationTechnology/comments/rmzm7u/tpms/)
-- [thinking about changing my major to IT](https://www.reddit.com/r/InformationTechnology/comments/rmz94q/thinking_about_changing_my_major_to_it/)
-- [In 2019, I completed my engineering and started my career as a HR-Recruiter. Now I&#39;m thinking about switching my career to IT. I am currently in the Middle East working as a HR with a good salary. Should I continue this job or should I move to the USA to study IT? I am 24 years old](https://www.reddit.com/r/InformationTechnology/comments/rmohzl/in_2019_i_completed_my_engineering_and_started_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

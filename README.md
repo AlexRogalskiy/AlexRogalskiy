@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The FDA&#39;s Restrictive Regulation of Home-Testing Devices](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3914&context=dlj)
-- [Collection of V.90/V.92 modem sounds &lpar;2016&rpar;](https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/)
-- [AWS Ground Station](https://aws.amazon.com/ground-station/)
-- [The State of External Retina Displays](https://www.caseyliss.com/2021/12/7/monitor-liss)
-- [Compose.ai &lpar;YC W21&rpar; Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
-- [Takeaways from looking for a new senior role in tech](https://philcalcado.com/2021/12/20/job_hunt.html)
-- [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
-- [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
-- [Show HN: Drovp – Convenient UI for any drag and drop operations](https://drovp.app)
-- [Speedcabling &lpar;2008&rpar;](http://schkolne.com/speedcabling/rules.html)
+- [Ask HN: Why doesn&#39;t YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
+- [Oven Stoves and Heat Walls &lpar;2008&rpar;](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
+- [John Madden, football legend, dies at 85](https://profootballtalk.nbcsports.com/2021/12/28/john-madden-football-legend-dies-at-85/)
+- [Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
+- [Cyberattack on one of Norway’s largest media companies shuts down presses](https://therecord.media/cyberattack-on-one-of-norways-largest-media-companies-shuts-down-presses/)
+- [Tools to Download Netflix / Disney / Apple TV Content](https://github.com/widevinedump)
+- [Tardigrades walk like insects 500k times their size](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/)
+- [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
+- [No one is certain what Roman bronze dodecahedrons were used for](https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact)
+- [Down the Rabbit Hole: The world of estranged parents&#39; forums &lpar;2015&rpar;](http://www.issendai.com/psychology/estrangement/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

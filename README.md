@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22: Australia thrash England by an innings to win third Test and series – live reaction!](https://www.theguardian.com/sport/live/2021/dec/28/ashes-2021-22-australia-vs-england-day-three-3-cricket-3rd-third-boxing-day-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Australia retain the Ashes after thrashing England to take 3-0 series lead | Ali Martin](https://www.theguardian.com/sport/2021/dec/28/australia-retain-the-ashes-after-thrashing-england-to-take-3-0-series-lead)
-- [England hospital Covid admissions highest since February; France announces new curbs – as it happened](https://www.theguardian.com/world/live/2021/dec/27/covid-news-live-australia-case-rise-continues-omicron-grounds-1000-more-us-flights)
-- [Labour’s David Lammy apologises for nominating Jeremy Corbyn to be leader](https://www.theguardian.com/politics/2021/dec/28/david-lammy-apologises-for-nominating-corbyn-to-be-labour-leader)
-- [MoD under fire for spending almost £13m on hire cars for staff](https://www.theguardian.com/uk-news/2021/dec/28/mod-under-fire-for-spending-almost-13m-on-hire-cars-for-staff)
-- [Teenagers four times more likely to smoke if parents do, say experts](https://www.theguardian.com/society/2021/dec/28/smokers-teenagers-parents)
-- [UK house price growth set to slow in 2022, property experts say](https://www.theguardian.com/money/2021/dec/28/uk-house-price-growth-2022-forecast)
-- [Haughey told Major unionists lack sophistication during NI talks](https://www.theguardian.com/politics/2021/dec/28/haughey-told-major-unionists-lack-sophistication-during-ni-talks)
-- [Peter Pike, former Labour MP for Burnley, dies aged 84](https://www.theguardian.com/uk-news/2021/dec/27/peter-pike-former-labour-mp-for-burnley-dies-aged-84)
-- [‘Other surfers respect me’: the 92-year-old still riding waves in New Zealand](https://www.theguardian.com/world/2021/dec/28/other-surfers-respect-me-the-92-year-old-still-riding-waves-in-new-zealand)
+- [Covid news live: infections hit record highs across Europe; South Africa reinstates contact tracing and isolation](https://www.theguardian.com/world/live/2021/dec/29/covid-news-live-infections-hit-record-highs-across-europe-south-africa-reinstates-contact-tracing-and-isolation)
+- [Hong Kong police arrest six people from independent outlet Stand News](https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news)
+- [Harry Reid, who led Senate Democrats for 12 years, dies at 82](https://www.theguardian.com/us-news/2021/dec/28/harry-reid-senate-democrats-nevada-dies)
+- [Who is Hun Manet? PM’s son anointed as Cambodia’s next leader](https://www.theguardian.com/world/2021/dec/29/who-is-hun-manet-pms-son-anointed-as-cambodias-next-leader)
+- [WHO warns Omicron could overwhelm health systems as cases rise to record highs in Europe](https://www.theguardian.com/world/2021/dec/29/who-warns-omicron-could-overwhelm-health-systems-as-cases-rise-to-record-highs-in-europe)
+- [UK households warned of ‘year of the squeeze’ as cost of living soars](https://www.theguardian.com/money/2021/dec/29/uk-households-warned-of-year-of-the-squeeze-as-cost-of-living-soars)
+- [Tony Blair considered asking Queen to open Stormont assembly](https://www.theguardian.com/uk-news/2021/dec/29/tony-blair-considered-asking-queen-to-open-stormont-assembly)
+- [Vinyl turns tables as UK sales take highest market share since 1990](https://www.theguardian.com/music/2021/dec/29/vinyl-uk-sales-highest-market-share-since-1990)
+- [Talking Horses: Slick-jumping West Balboa value wager in Challow Hurdle](https://www.theguardian.com/sport/blog/2021/dec/29/talking-horses-slick-jumping-west-balboa-value-wager-in-challow-hurdle-horse-racing-tips)
+- [April Ashley, model, actor and transgender activist, dies aged 86](https://www.theguardian.com/uk-news/2021/dec/28/april-ashley-model-actor-and-transgender-activist-dies-aged-86)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

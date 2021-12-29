@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [You can safely ignore Web3](https://www.computerworld.com/article/3645691/you-can-safely-ignore-web3.html#tk.rss_all)
+- [26 time-saving tips for the Chrome Android browser](https://www.computerworld.com/article/2975137/26-time-saving-tips-for-the-chrome-android-browser.html#tk.rss_all)
 - [14 tech luminaries we lost in 2021](https://www.computerworld.com/article/3644496/tech-luminaries-we-lost-in-2021.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [How Apple&#39;s iCloud Private Relay supports enterprise VPN](https://www.computerworld.com/article/3645848/how-apples-icloud-private-relay-supports-enterprise-vpn.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [CES 2022: Can hope defy Omicron?](https://www.computerworld.com/article/3645146/ces-2022-can-hope-defy-omicron.html#tk.rss_all)
 - [Mac enrollment simplified: Apple Configurator comes to iOS](https://www.computerworld.com/article/3645355/mac-enrollment-simplified-apple-configurator-ios.html#tk.rss_all)
 - [The top Chrome OS tips of 2021](https://www.computerworld.com/article/3328830/chrome-os-tips-2021.html#tk.rss_all)
-- [What Apple’s approach to building services income tells us](https://www.computerworld.com/article/3645372/what-apples-approach-to-building-services-income-tells-us.html#tk.rss_all)
-- [Don’t waste time reinventing the software wheel](https://www.computerworld.com/article/3645139/don-t-waste-time-reinventing-the-software-wheel.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What most cloud-using CIOs want in 2022](https://www.infoworld.com/article/3645138/what-most-cloud-using-cios-want-in-2022.html#tk.rss_all)
+- [How no-code, reusable AI will bridge the AI divide](https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html#tk.rss_all)
 - [What app developers need to do now to fight Log4j exploits](https://www.infoworld.com/article/3645908/what-app-developers-need-to-do-now-to-fight-log4j-exploits.html#tk.rss_all)
 - [How digital twins improve physical systems](https://www.infoworld.com/article/3645789/how-digital-twins-improve-physical-systems.html#tk.rss_all)
 - [GitLab 14.6 shines on distributed deployments](https://www.infoworld.com/article/3645849/gitlab-146-shines-on-distributed-deployments.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [New Relic expands enterprise full-stack observability to include MLOps](https://www.infoworld.com/article/3645501/new-relic-expands-enterprise-full-stack-observability-to-include-mlops.html#tk.rss_all)
 - [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html#tk.rss_all)
 - [Using the Webview UI Toolkit for Visual Studio Code](https://www.infoworld.com/article/3645144/using-the-webview-ui-toolkit-for-visual-studio-code.html#tk.rss_all)
-- [Get started with Minikube](https://www.infoworld.com/article/3645128/get-started-with-minikube.html#tk.rss_all)
-- [Why SBOM management is no longer optional](https://www.infoworld.com/article/3645452/why-sbom-management-is-no-longer-optional.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

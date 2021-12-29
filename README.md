@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Japan&#39;s Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
-- [Teaching Information Security](https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/)
-- [Stable Genius Act](https://en.wikipedia.org/wiki/Stable_Genius_Act)
-- [Queensland sunflower crop planted by drone could be first of its kind](https://www.abc.net.au/news/2021-12-28/cambooya-sunflower-farm-planted-by-drone/100728166)
-- [Surgery to remove a tumor attached to the heart of a 26-week-old fetus](https://newsroom.clevelandclinic.org/2021/12/22/cleveland-clinic-performs-lifesaving-fetal-surgery-to-remove-rare-heart-tumor/)
-- [Another blog with 2021 book recommendations](https://maraoz.com/2021/12/27/books-2021/)
-- [An app to automate pull requests review](https://github.com/diegolnasc/gotcha)
-- [The Clipper Chip &lpar;1994&rpar;](https://archive.epic.org/crypto/clipper/)
-- [North-south antipathies endure around the globe](https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe)
-- [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+- [Ask HN: How to go from contractor to agency owner](https://news.ycombinator.com/item?id=29721028)
+- [Microsoft is now adding a Games panel to its Edge browser](https://www.neowin.net/news/microsoft-is-now-adding-a-games-panel-to-its-edge-browser/)
+- [Covid-19 Made Americans into Super Savers. Now They’re Hoarding Cash](https://www.wsj.com/articles/covid-19-made-americans-into-super-savers-now-theyre-hoarding-cash-11638450002)
+- [Know Thy Complexities: Big O Cheat Sheet Website](https://www.bigocheatsheet.com/)
+- [The powerful accessibility of the customizable web](https://blakewatson.com/journal/the-powerful-accessibility-of-the-customizable-web/)
+- [Hong Kong police arrest six people from independent outlet Stand News](https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news)
+- [Linux Fu: Don’t Share Well with Others](https://hackaday.com/2021/12/28/linux-fu-dont-share-well-with-others/)
+- [Transport Canada&#39;s Drone Management portal is broken](https://twitter.com/nishilk/status/1476011116648034311)
+- [Harry M. Reid, a Power in the Senate, Dies at 82](https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html)
+- [Foundations of Type Design Course](https://rocketdocs.gatsbyjs.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Virtual whiteboards prove vital for remote developer teams](https://www.infoworld.com/article/3645708/virtual-whiteboards-prove-vital-for-remote-developer-teams.html#tk.rss_all)
 - [What most cloud-using CIOs want in 2022](https://www.infoworld.com/article/3645138/what-most-cloud-using-cios-want-in-2022.html#tk.rss_all)
 - [How no-code, reusable AI will bridge the AI divide](https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html#tk.rss_all)
 - [What app developers need to do now to fight Log4j exploits](https://www.infoworld.com/article/3645908/what-app-developers-need-to-do-now-to-fight-log4j-exploits.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [Visual Studio feedback upgrade snubs older versions](https://www.infoworld.com/article/3645688/visual-studio-feedback-upgrade-snubs-older-versions.html#tk.rss_all)
 - [New Relic expands enterprise full-stack observability to include MLOps](https://www.infoworld.com/article/3645501/new-relic-expands-enterprise-full-stack-observability-to-include-mlops.html#tk.rss_all)
 - [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html#tk.rss_all)
-- [Using the Webview UI Toolkit for Visual Studio Code](https://www.infoworld.com/article/3645144/using-the-webview-ui-toolkit-for-visual-studio-code.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

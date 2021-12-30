@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rootkit in HPE server management module can wipe hard drives: Report](https://www.itworldcanada.com/article/rootkit-in-hpe-server-management-module-can-wipe-hard-drives-report/469555)
+- [Apache issues fifth patch this month to close another bug in Log4j](https://www.itworldcanada.com/article/apache-issues-fifth-patch-this-month-to-close-another-bug-in-log4j/469537)
+- [Credential stuffing attack spooks LastPass users](https://www.itworldcanada.com/article/credential-stuffing-attack-spooks-lastpass-users/469549)
+- [Cyber Security Today, Dec. 29, 2021 – How hackers stole data on 113,000 customers from a Canadian bank](https://www.itworldcanada.com/article/cyber-security-today-dec-29-2021-how-hackers-stole-data-on-113000-customers-from-a-canadian-bank/469465)
+- [Hashtag Trending 2021 holiday special – Part 2/2](https://www.itworldcanada.com/article/hashtag-trending-2021-holiday-special-part-2-2/469534)
+- [China complains to UN about dodging SpaceX Starlink satellites](https://www.itworldcanada.com/article/china-complains-to-un-about-dodging-spacex-starlink-satellites/469526)
 - [Beware of two-stage malware attacks, says Sophos](https://www.itworldcanada.com/article/beware-of-two-stage-malware-attacks-says-sophos/469491)
 - [Hashtag Trending 2021 Holiday Special- Part 1/2](https://www.itworldcanada.com/article/hashtag-trending-2021-holiday-special-part-1-2/469456)
 - [Cyber Security Today, Year in Review 2021 edition podcast](https://www.itworldcanada.com/article/cyber-security-today-year-in-review-2021-edition-podcast/469462)
 - [Brief phishing attack may have been dry run for exploiting Microsoft Office bug: Sophos](https://www.itworldcanada.com/article/brief-phishing-attack-may-have-been-dry-run-for-exploiting-microsoft-office-bug-sophos/469412)
-- [Five nations issue alert and comprehensive guidance for fighting Log4Shell vulnerabilities](https://www.itworldcanada.com/article/five-nations-issue-alert-and-comprehensive-guidance-for-fighting-log4shell-vulnerabilities/469426)
-- [Hashtag Trending Dec. 23- Social media distrust; engineers love blockchain; No vaccine, no pay at Intel](https://www.itworldcanada.com/article/hashtag-trending-dec-23-social-media-distrust-engineers-love-blockchain-no-vaccine-no-pay-at-intel/469384)
-- [CES 2022 exhibitors opting out over Omicron concerns, but CTA says the show will go on](https://www.itworldcanada.com/article/ces-2022-exhibitors-opting-out-over-omicron-concerns-but-cta-says-the-show-will-go-on/469360)
-- [Vancouver software company to acquire Australia-based Link Group for CA$3.2 billion](https://www.itworldcanada.com/article/vancouver-software-company-to-acquire-australia-based-link-group-for-ca3-2-billion/469361)
-- [Amazon Web Services hit with another outage, many services now restored](https://www.itworldcanada.com/article/amazon-web-services-hit-with-another-outage-many-services-now-restored/469344)
-- [Threat actors behind SolarWinds compromise are still active, warns Mandiant](https://www.itworldcanada.com/article/threat-actors-behind-solarwinds-compromise-are-still-active-warns-mandiant/469319)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

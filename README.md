@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Top 10 business applications stories of 2021](https://www.computerweekly.com/news/252511007/Top-10-business-applications-stories-of-2021)
+- [Top 10 retail technology stories of 2021](https://www.computerweekly.com/news/252510803/Top-10-retail-technology-stories-of-2021)
+- [Top 10 Nordic IT stories of 2021](https://www.computerweekly.com/news/252510786/Top-10-Nordic-IT-stories-of-2021)
 - [Top 10 IR35 stories of 2021](https://www.computerweekly.com/news/252510918/Top-10-IR35-stories-of-2021)
 - [Top 10 Benelux stories of 2021](https://www.computerweekly.com/news/252510729/Top-10-Benelux-stories-of-2021)
 - [Vulnerabilities to fraud are increasing across the board](https://www.computerweekly.com/opinion/Vulnerabilities-to-fraud-are-increasing-across-the-board)
-- [Top 10 Middle East IT stories of 2021](https://www.computerweekly.com/news/252510777/Top-10-Middle-East-IT-stories-of-2021)
 - [Top 10 cloud stories of 2021](https://www.computerweekly.com/news/252510726/Top-10-cloud-stories-of-2021)
 - [Top 10 cyber security stories of 2021](https://www.computerweekly.com/news/252510738/Top-10-cyber-security-stories-of-2021)
 - [Top 10 women in tech and diversity in tech stories of 2021](https://www.computerweekly.com/news/252510806/Top-10-women-in-tech-and-diversity-in-tech-stories-of-2021)
-- [Is the IT sector beset by fear-mongering?](https://www.computerweekly.com/feature/Is-the-IT-sector-beset-by-fear-mongering)
-- [Diversity and inclusion in tech: has gender been left behind?](https://www.computerweekly.com/video/Diversity-and-inclusion-in-tech-has-gender-been-left-behind)
-- [Marks &amp; Spencer upskills internal talent with data science education](https://www.computerweekly.com/news/252511315/Marks-Spencer-upskills-internal-talent-with-data-science-education)
+- [Top 10 Middle East IT stories of 2021](https://www.computerweekly.com/news/252510777/Top-10-Middle-East-IT-stories-of-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How to go from contractor to agency owner](https://news.ycombinator.com/item?id=29721028)
-- [Microsoft is now adding a Games panel to its Edge browser](https://www.neowin.net/news/microsoft-is-now-adding-a-games-panel-to-its-edge-browser/)
-- [Covid-19 Made Americans into Super Savers. Now They’re Hoarding Cash](https://www.wsj.com/articles/covid-19-made-americans-into-super-savers-now-theyre-hoarding-cash-11638450002)
-- [Know Thy Complexities: Big O Cheat Sheet Website](https://www.bigocheatsheet.com/)
-- [The powerful accessibility of the customizable web](https://blakewatson.com/journal/the-powerful-accessibility-of-the-customizable-web/)
-- [Hong Kong police arrest six people from independent outlet Stand News](https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news)
-- [Linux Fu: Don’t Share Well with Others](https://hackaday.com/2021/12/28/linux-fu-dont-share-well-with-others/)
-- [Transport Canada&#39;s Drone Management portal is broken](https://twitter.com/nishilk/status/1476011116648034311)
-- [Harry M. Reid, a Power in the Senate, Dies at 82](https://www.nytimes.com/2021/12/28/us/politics/harry-reid-dead.html)
-- [Foundations of Type Design Course](https://rocketdocs.gatsbyjs.io/)
+- [Salt water lamp WaterLight set to power communities without electricity](https://www.designweek.co.uk/issues/12-18-april-2021/waterlight/)
+- [Coso Artifact](https://en.wikipedia.org/wiki/Coso_artifact)
+- [If AI Is Predicting Your Future, Are You Still Free?](https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/)
+- [Big Tech’s Next Monopoly Game: Building the Car of the Future](https://www.politico.com/news/magazine/2021/12/27/self-driving-car-big-tech-monopoly-525867)
+- [Soviet-era Russian TTL chips have metric 2.5mm pitch](https://twitter.com/mikelectricstuf/status/1476143606339706883)
+- [KFC for Christmas in Japan [video]](https://www.youtube.com/watch?v=N3tEtimMHoE)
+- [Cosmonauts were issued a sawed-off shotgun that also fired AK-47 rounds](https://en.wikipedia.org/wiki/TP-82_Cosmonaut_survival_pistol)
+- [On the Art of Joke-Telling and Writing Prose](https://residentcontrarian.substack.com/p/on-the-art-of-joke-telling-and-writing)
+- [Oregon reports first 3 cases of drug-resistant &#39;superbug&#39; fungus Candida auris](https://ktvz.com/health/2021/12/28/oregon-reports-first-3-cases-of-drug-resistant-superbug-fungus-candida-auris/)
+- [“I’m Surprised You Got This Far”: Annual Review 2021](https://www.pamelajhobart.com/annual-review-2021/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

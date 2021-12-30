@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why are your IT people so miserable? Log4j2itis](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html#tk.rss_all)
+- [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
 - [You can safely ignore Web3](https://www.computerworld.com/article/3645691/you-can-safely-ignore-web3.html#tk.rss_all)
 - [26 time-saving tips for the Chrome Android browser](https://www.computerworld.com/article/2975137/26-time-saving-tips-for-the-chrome-android-browser.html#tk.rss_all)
 - [14 tech luminaries we lost in 2021](https://www.computerworld.com/article/3644496/tech-luminaries-we-lost-in-2021.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [Privacy-centric DuckDuckGo to release Mac desktop browser](https://www.computerworld.com/article/3645668/privacy-centric-duckduckgo-to-release-mac-desktop-browser.html#tk.rss_all)
 - [The best Android apps for business in 2022](https://www.computerworld.com/article/3268630/best-android-apps-business-2022.html#tk.rss_all)
 - [CES 2022: Can hope defy Omicron?](https://www.computerworld.com/article/3645146/ces-2022-can-hope-defy-omicron.html#tk.rss_all)
-- [Mac enrollment simplified: Apple Configurator comes to iOS](https://www.computerworld.com/article/3645355/mac-enrollment-simplified-apple-configurator-ios.html#tk.rss_all)
-- [The top Chrome OS tips of 2021](https://www.computerworld.com/article/3328830/chrome-os-tips-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

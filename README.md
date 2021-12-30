@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Why doesn&#39;t YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
-- [Oven Stoves and Heat Walls &lpar;2008&rpar;](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
-- [John Madden, football legend, dies at 85](https://profootballtalk.nbcsports.com/2021/12/28/john-madden-football-legend-dies-at-85/)
-- [Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
-- [Cyberattack on one of Norway’s largest media companies shuts down presses](https://therecord.media/cyberattack-on-one-of-norways-largest-media-companies-shuts-down-presses/)
-- [Tools to Download Netflix / Disney / Apple TV Content](https://github.com/widevinedump)
-- [Tardigrades walk like insects 500k times their size](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/)
-- [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
-- [No one is certain what Roman bronze dodecahedrons were used for](https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact)
-- [Down the Rabbit Hole: The world of estranged parents&#39; forums &lpar;2015&rpar;](http://www.issendai.com/psychology/estrangement/index.html)
+- [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
+- [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
+- [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
+- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Mobile Engineer &lpar;React Native&rpar;](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
+- [You Can&#39;t Win](https://kylepoyar.substack.com/p/you-cant-win)
+- [Go CheckLocks Analyzer](https://github.com/google/gvisor/tree/master/tools/checklocks)
+- [You can&#39;t copy code with memcpy](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
+- [Python, unlike C, has the mod operator always return a positive number](https://twitter.com/ID_AA_Carmack/status/1476294133975240712)
+- [Show HN: I learnt how to use WebSockets, made something beautiful/terrible](https://www.walloftext.art/)
+- [FAA investigating controversial crash video](https://www.avweb.com/aviation-news/plane-crash-video-sparks-online-backlash/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

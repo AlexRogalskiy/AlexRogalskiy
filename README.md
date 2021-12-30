@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: infections hit record highs across Europe; South Africa reinstates contact tracing and isolation](https://www.theguardian.com/world/live/2021/dec/29/covid-news-live-infections-hit-record-highs-across-europe-south-africa-reinstates-contact-tracing-and-isolation)
-- [Hong Kong police arrest six people from independent outlet Stand News](https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news)
-- [Harry Reid, who led Senate Democrats for 12 years, dies at 82](https://www.theguardian.com/us-news/2021/dec/28/harry-reid-senate-democrats-nevada-dies)
-- [Who is Hun Manet? PM’s son anointed as Cambodia’s next leader](https://www.theguardian.com/world/2021/dec/29/who-is-hun-manet-pms-son-anointed-as-cambodias-next-leader)
-- [WHO warns Omicron could overwhelm health systems as cases rise to record highs in Europe](https://www.theguardian.com/world/2021/dec/29/who-warns-omicron-could-overwhelm-health-systems-as-cases-rise-to-record-highs-in-europe)
-- [UK households warned of ‘year of the squeeze’ as cost of living soars](https://www.theguardian.com/money/2021/dec/29/uk-households-warned-of-year-of-the-squeeze-as-cost-of-living-soars)
-- [Tony Blair considered asking Queen to open Stormont assembly](https://www.theguardian.com/uk-news/2021/dec/29/tony-blair-considered-asking-queen-to-open-stormont-assembly)
-- [Vinyl turns tables as UK sales take highest market share since 1990](https://www.theguardian.com/music/2021/dec/29/vinyl-uk-sales-highest-market-share-since-1990)
-- [Talking Horses: Slick-jumping West Balboa value wager in Challow Hurdle](https://www.theguardian.com/sport/blog/2021/dec/29/talking-horses-slick-jumping-west-balboa-value-wager-in-challow-hurdle-horse-racing-tips)
-- [April Ashley, model, actor and transgender activist, dies aged 86](https://www.theguardian.com/uk-news/2021/dec/28/april-ashley-model-actor-and-transgender-activist-dies-aged-86)
+- [Chinese police parade suspected Covid rule-breakers through streets](https://www.theguardian.com/world/2021/dec/30/chinese-police-parade-suspected-covid-rule-breakers-through-streets)
+- [The Tourist review – Jamie Dornan is intense in explosively entertaining outback thriller](https://www.theguardian.com/tv-and-radio/2021/dec/30/the-tourist-review-jamie-dornan-is-intense-in-explosively-entertaining-outback-thriller)
+- [Britons with homes in EU told they can’t drive through France to get there](https://www.theguardian.com/world/2021/dec/29/britons-living-in-eu-told-they-cant-drive-through-france-to-get-to-uk)
+- [‘Hell of a way to wake up’: Darwin shaken by earthquake off Indonesian coast](https://www.theguardian.com/world/2021/dec/30/hell-of-a-way-to-wake-up-darwin-shaken-by-earthquake-off-indonesian-coast)
+- [Amazon’s Alexa device tells 10-year-old to touch a penny to a live plug socket](https://www.theguardian.com/technology/2021/dec/29/amazons-alexa-child-penny-live-plug)
+- [Liverpool and Chelsea are still title contenders, says Pep Guardiola](https://www.theguardian.com/football/2021/dec/30/liverpool-and-chelsea-are-still-title-contenders-says-pep-guardiola)
+- [Tackle pay stagnation to help Britons with soaring living costs, urges TUC](https://www.theguardian.com/money/2021/dec/30/tackle-pay-stagnation-to-help-britons-with-soaring-living-costs-urges-tuc)
+- [Hospitals in England asked to look for up to 4,000 emergency Covid beds](https://www.theguardian.com/society/2021/dec/30/covid-hospitals-england-asked-look-4000-emergency-beds)
+- [No 10 hired US lawyers to advise on Lewinsky scandal before Blair visit to US](https://www.theguardian.com/politics/2021/dec/30/no-10-hired-us-lawyers-to-advise-on-lewinsky-scandal-before-blair-visit-to-us)
+- [Downing Street initially opposed Stephen Lawrence inquiry](https://www.theguardian.com/uk-news/2021/dec/30/downing-street-initially-opposed-stephen-lawrence-inquiry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
-- [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
-- [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
-- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Mobile Engineer &lpar;React Native&rpar;](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
-- [You Can&#39;t Win](https://kylepoyar.substack.com/p/you-cant-win)
-- [Go CheckLocks Analyzer](https://github.com/google/gvisor/tree/master/tools/checklocks)
-- [You can&#39;t copy code with memcpy](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
-- [Python, unlike C, has the mod operator always return a positive number](https://twitter.com/ID_AA_Carmack/status/1476294133975240712)
-- [Show HN: I learnt how to use WebSockets, made something beautiful/terrible](https://www.walloftext.art/)
-- [FAA investigating controversial crash video](https://www.avweb.com/aviation-news/plane-crash-video-sparks-online-backlash/)
+- [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
+- [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
+- [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
+- [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
+- [Sciter, the 5 MB Electron alternative, has switched to JavaScript](https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/)
+- [Wind whipped fires raging through Boulder County](https://www.dailycamera.com/2021/12/30/boulder-county-grass-fires/)
+- [macOS Setup after 15 Years of Linux](https://hookrace.net/blog/macos-setup/)
+- [New Malware Uses SSD Over-Provisioning to Bypass Security Measures](https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability)
+- [The Science of Visual Data Communication: What Works](https://journals.sagepub.com/doi/10.1177/15291006211051956)
+- [The curious history of the clothespeg &lpar;2016&rpar;](https://medium.economist.com/the-curious-history-of-the-clothespeg-3f8615519c61?gi=5c6e0f307927)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

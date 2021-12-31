@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Access Database relationships?](https://www.reddit.com/r/InformationTechnology/comments/rs8ris/access_database_relationships/)
+- [How BI Dashboards Help Global Healthcare Company Receive Fast Drug Approval in the USA and EU - bipp Case Study](https://www.reddit.com/r/InformationTechnology/comments/rry5eu/how_bi_dashboards_help_global_healthcare_company/)
+- [Top 5 Penetration Testing Courses/Certifications](https://www.reddit.com/r/InformationTechnology/comments/rrxusm/top_5_penetration_testing_coursescertifications/)
 - [How can I get started in Information Technology/Networking as a complete beginner?](https://www.reddit.com/r/InformationTechnology/comments/rrhuja/how_can_i_get_started_in_information/)
 - [Inconsistent POST Error](https://www.reddit.com/r/InformationTechnology/comments/rrhug0/inconsistent_post_error/)
 - [need help](https://www.reddit.com/r/InformationTechnology/comments/rrh51f/need_help/)
@@ -421,9 +424,6 @@
 - [Where do you see IT in the next 40 years?](https://www.reddit.com/r/InformationTechnology/comments/rrbo4m/where_do_you_see_it_in_the_next_40_years/)
 - [Decided to get a bachelors in IT.](https://www.reddit.com/r/InformationTechnology/comments/rqwm0o/decided_to_get_a_bachelors_in_it/)
 - [Ayuda :&lpar;](https://www.reddit.com/r/InformationTechnology/comments/rqu2uk/ayuda/)
-- [Looking for insight on a trend around whitelisting... is it suddenly a bad word?](https://www.reddit.com/r/InformationTechnology/comments/rqstji/looking_for_insight_on_a_trend_around/)
-- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/rqorh3/first_it_job/)
-- [Do you have to have a desktop setup for a remote helpdesk position?](https://www.reddit.com/r/InformationTechnology/comments/rqmcmt/do_you_have_to_have_a_desktop_setup_for_a_remote/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

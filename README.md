@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [December 2021 Global Tech Policy Briefing](https://www.informationweek.com/government/december-2021-global-tech-policy-briefing)
+- [Steal These Use Cases: 2021&#39;s Technology Wins in the Enterprise](https://www.informationweek.com/strategic-cio/steal-these-use-cases-2021-s-technology-wins-in-the-enterprise)
+- [What to Expect at CES 2022: The Human Side of Innovation](https://www.informationweek.com/it-life/what-to-expect-at-ces-2022-the-human-side-of-innovation)
 - [Tech Briefing: A CIO Primer on Key Emerging Technologies](https://www.informationweek.com/strategic-cio/tech-briefing-a-cio-primer-on-key-emerging-technologies)
 - [What Do Scuba Diving and Digital Transformation Have in Common?](https://www.informationweek.com/strategic-cio/what-do-scuba-diving-and-digital-transformation-have-in-common-)
 - [Will Autonomous Vehicle Makers Get Back into Gear in 2022?](https://www.informationweek.com/ai-or-machine-learning/will-autonomous-vehicle-makers-get-back-into-gear-in-2022-)
@@ -376,9 +379,6 @@
 - [Data and Analytics: For and of the People](https://www.informationweek.com/big-data/data-and-analytics-for-and-of-the-people)
 - [The Dark Web Has Its Own People&#39;s Court](https://www.informationweek.com/it-life/the-dark-web-has-its-own-people-s-court)
 - [Enterprise Tech 2022: What&#39;s Ahead for IT](https://www.informationweek.com/strategic-cio/enterprise-tech-2022-what-s-ahead-for-it)
-- [No-Code, Low-Code Machine Learning Platforms Still Require People](https://www.informationweek.com/ai-or-machine-learning/no-code-low-code-machine-learning-platforms-still-require-people)
-- [Why More Businesses Will be Creating Their Own Chips in 2022](https://www.informationweek.com/it-life/why-more-businesses-will-be-creating-their-own-chips-in-2022)
-- [Supply Chains May Be Stalled - But Can Still Deliver Opportunity](https://www.informationweek.com/big-data/supply-chains-may-be-stalled-but-can-still-deliver-opportunity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

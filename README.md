@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chinese police parade suspected Covid rule-breakers through streets](https://www.theguardian.com/world/2021/dec/30/chinese-police-parade-suspected-covid-rule-breakers-through-streets)
-- [The Tourist review – Jamie Dornan is intense in explosively entertaining outback thriller](https://www.theguardian.com/tv-and-radio/2021/dec/30/the-tourist-review-jamie-dornan-is-intense-in-explosively-entertaining-outback-thriller)
-- [Britons with homes in EU told they can’t drive through France to get there](https://www.theguardian.com/world/2021/dec/29/britons-living-in-eu-told-they-cant-drive-through-france-to-get-to-uk)
-- [‘Hell of a way to wake up’: Darwin shaken by earthquake off Indonesian coast](https://www.theguardian.com/world/2021/dec/30/hell-of-a-way-to-wake-up-darwin-shaken-by-earthquake-off-indonesian-coast)
-- [Amazon’s Alexa device tells 10-year-old to touch a penny to a live plug socket](https://www.theguardian.com/technology/2021/dec/29/amazons-alexa-child-penny-live-plug)
-- [Liverpool and Chelsea are still title contenders, says Pep Guardiola](https://www.theguardian.com/football/2021/dec/30/liverpool-and-chelsea-are-still-title-contenders-says-pep-guardiola)
-- [Tackle pay stagnation to help Britons with soaring living costs, urges TUC](https://www.theguardian.com/money/2021/dec/30/tackle-pay-stagnation-to-help-britons-with-soaring-living-costs-urges-tuc)
-- [Hospitals in England asked to look for up to 4,000 emergency Covid beds](https://www.theguardian.com/society/2021/dec/30/covid-hospitals-england-asked-look-4000-emergency-beds)
-- [No 10 hired US lawyers to advise on Lewinsky scandal before Blair visit to US](https://www.theguardian.com/politics/2021/dec/30/no-10-hired-us-lawyers-to-advise-on-lewinsky-scandal-before-blair-visit-to-us)
-- [Downing Street initially opposed Stephen Lawrence inquiry](https://www.theguardian.com/uk-news/2021/dec/30/downing-street-initially-opposed-stephen-lawrence-inquiry)
+- [Ted Cruz confuses Washington state with Western Australia in attack on Covid ‘kill-joys’](https://www.theguardian.com/us-news/2021/dec/31/ted-cruz-confuses-washington-state-with-western-australia-in-attack-on-covid-kill-joys)
+- [Covid news live: South Africa says fourth wave has peaked; US will soon see ‘viral blizzard’, expert warns](https://www.theguardian.com/world/live/2021/dec/31/covid-news-live-south-africa-says-fourth-wave-has-peaked-us-will-soon-see-viral-blizzard-expert-warns)
+- [‘Atmosphere of fear’: Hong Kong students lament loss of Tiananmen statues](https://www.theguardian.com/world/2021/dec/31/atmosphere-of-fear-hong-kong-students-lament-loss-of-tiananmen-statues)
+- [Manchester City’s João Cancelo assaulted at home during robbery](https://www.theguardian.com/football/2021/dec/31/manchester-citys-joao-cancelo-assaulted-at-home-during-robbery)
+- [Gary Kirsten says England coaching job would be a ‘lovely project’](https://www.theguardian.com/sport/2021/dec/31/gary-kirsten-says-england-coaching-job-would-be-a-lovely-project)
+- [‘A horrific event’: wildfires fanned by high winds force Colorado evacuations](https://www.theguardian.com/us-news/2021/dec/30/colorado-wildfires-evacuations-latest)
+- [Tom Jenkins’s best sports photos of 2021](https://www.theguardian.com/sport/2021/dec/31/tom-jenkinss-best-sports-photos-of-2021)
+- [Murder investigation launched after 15-year-old fatally stabbed in Croydon](https://www.theguardian.com/uk-news/2021/dec/30/investigation-launched-after-15-year-old-fatally-stabbed-in-croydon)
+- [Biden and Putin exchange warnings during phone call amid rising Ukraine tensions](https://www.theguardian.com/us-news/2021/dec/30/biden-putin-call-russia-us-ukraine-tensions)
+- [Sebastian Coe calls political boycott of Winter Olympics ‘meaningless’](https://www.theguardian.com/sport/2021/dec/30/sebastian-coe-calls-political-boycott-of-winter-olympics-meaningless)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

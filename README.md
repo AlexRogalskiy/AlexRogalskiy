@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Salt water lamp WaterLight set to power communities without electricity](https://www.designweek.co.uk/issues/12-18-april-2021/waterlight/)
-- [Coso Artifact](https://en.wikipedia.org/wiki/Coso_artifact)
-- [If AI Is Predicting Your Future, Are You Still Free?](https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/)
-- [Big Tech’s Next Monopoly Game: Building the Car of the Future](https://www.politico.com/news/magazine/2021/12/27/self-driving-car-big-tech-monopoly-525867)
-- [Soviet-era Russian TTL chips have metric 2.5mm pitch](https://twitter.com/mikelectricstuf/status/1476143606339706883)
-- [KFC for Christmas in Japan [video]](https://www.youtube.com/watch?v=N3tEtimMHoE)
-- [Cosmonauts were issued a sawed-off shotgun that also fired AK-47 rounds](https://en.wikipedia.org/wiki/TP-82_Cosmonaut_survival_pistol)
-- [On the Art of Joke-Telling and Writing Prose](https://residentcontrarian.substack.com/p/on-the-art-of-joke-telling-and-writing)
-- [Oregon reports first 3 cases of drug-resistant &#39;superbug&#39; fungus Candida auris](https://ktvz.com/health/2021/12/28/oregon-reports-first-3-cases-of-drug-resistant-superbug-fungus-candida-auris/)
-- [“I’m Surprised You Got This Far”: Annual Review 2021](https://www.pamelajhobart.com/annual-review-2021/)
+- [Bugs Must Be a Bigger Part of the Human Food Chain](https://www.bloomberg.com/opinion/articles/2021-12-17/why-bugs-must-be-a-bigger-part-of-the-human-food-chain)
+- [WorldQL: A spatial message broker and database for real-time multiplayer](https://github.com/WorldQL/worldql_server)
+- [University loses 77TB of research data due to backup error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/)
+- [CDC Wants to Hide the Post-Licensure Covid-19 Vaccine Safety Data](https://aaronsiri.substack.com/p/the-fda-wants-to-hide-pre-licensure)
+- [NASA Plans Coverage of Webb Space Telescope Deployments](https://www.nasa.gov/press-release/update-nasa-plans-coverage-of-webb-space-telescope-deployments/)
+- [Show HN: Generate your Twitter YearInReview video](https://literoom.co/XflUvVIAWt)
+- [Satoshi&#39;s Leaked Los Angeles IP Address Near Elon Musk 2009 Residence](https://web.archive.org/web/20190624124044/https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
+- [Semihosting, Your PC as Console of an Embedded RISC-V CPU](https://tomverbeure.github.io/2021/12/30/Semihosting-on-RISCV.html)
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
+- [The Corozal: Scottish dredger that helped build the Panama Canal](https://www.bbc.com/news/uk-scotland-59644117)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

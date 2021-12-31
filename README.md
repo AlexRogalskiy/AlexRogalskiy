@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For Hackensack Meridian Health CIO, a year of change](https://www.computerworld.com/article/3645671/for-hackensack-meridian-health-cio-a-year-of-change.html#tk.rss_all)
 - [Why are your IT people so miserable? Log4j2itis](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html#tk.rss_all)
 - [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
 - [You can safely ignore Web3](https://www.computerworld.com/article/3645691/you-can-safely-ignore-web3.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [How Apple&#39;s iCloud Private Relay supports enterprise VPN](https://www.computerworld.com/article/3645848/how-apples-icloud-private-relay-supports-enterprise-vpn.html#tk.rss_all)
 - [Privacy-centric DuckDuckGo to release Mac desktop browser](https://www.computerworld.com/article/3645668/privacy-centric-duckduckgo-to-release-mac-desktop-browser.html#tk.rss_all)
 - [The best Android apps for business in 2022](https://www.computerworld.com/article/3268630/best-android-apps-business-2022.html#tk.rss_all)
-- [CES 2022: Can hope defy Omicron?](https://www.computerworld.com/article/3645146/ces-2022-can-hope-defy-omicron.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

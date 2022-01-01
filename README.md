@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sick of this field, sick of Help Desk, crap pay, lack of opportunity, and sexism.](https://www.reddit.com/r/InformationTechnology/comments/rszmo8/sick_of_this_field_sick_of_help_desk_crap_pay/)
+- [Telegram adds message reactions, bigger emoji animations, and more in the latest update](https://www.reddit.com/r/InformationTechnology/comments/rsogxn/telegram_adds_message_reactions_bigger_emoji/)
 - [Access Database relationships?](https://www.reddit.com/r/InformationTechnology/comments/rs8ris/access_database_relationships/)
 - [How BI Dashboards Help Global Healthcare Company Receive Fast Drug Approval in the USA and EU - bipp Case Study](https://www.reddit.com/r/InformationTechnology/comments/rry5eu/how_bi_dashboards_help_global_healthcare_company/)
 - [Top 5 Penetration Testing Courses/Certifications](https://www.reddit.com/r/InformationTechnology/comments/rrxusm/top_5_penetration_testing_coursescertifications/)
@@ -422,8 +424,6 @@
 - [need help](https://www.reddit.com/r/InformationTechnology/comments/rrh51f/need_help/)
 - [Do I need certifications to land a job?](https://www.reddit.com/r/InformationTechnology/comments/rre8hq/do_i_need_certifications_to_land_a_job/)
 - [Where do you see IT in the next 40 years?](https://www.reddit.com/r/InformationTechnology/comments/rrbo4m/where_do_you_see_it_in_the_next_40_years/)
-- [Decided to get a bachelors in IT.](https://www.reddit.com/r/InformationTechnology/comments/rqwm0o/decided_to_get_a_bachelors_in_it/)
-- [Ayuda :&lpar;](https://www.reddit.com/r/InformationTechnology/comments/rqu2uk/ayuda/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

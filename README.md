@@ -399,6 +399,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Top 10 crime, national security and law stories of 2021](https://www.computerweekly.com/news/252511110/Top-10-crime-national-security-and-law-stories-of-2021)
+- [Top 10 startup stories of 2021](https://www.computerweekly.com/news/252510994/Top-10-startup-stories-of-2021)
+- [Top 10 Computer Weekly Downtime Upload podcasts of 2021](https://www.computerweekly.com/news/252511287/Top-10-Computer-Weekly-Downtime-Upload-podcasts-of-2021)
 - [Top 10 information management stories of 2021](https://www.computerweekly.com/news/252511129/Top-10-information-management-stories-of-2021)
 - [Top 10 IT careers and skills stories of 2021](https://www.computerweekly.com/news/252510787/Top-10-IT-careers-and-skills-stories-of-2021)
 - [Top 10 technology and ethics stories of 2021](https://www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021)
@@ -406,9 +409,6 @@
 - [Top 10 business applications stories of 2021](https://www.computerweekly.com/news/252511007/Top-10-business-applications-stories-of-2021)
 - [Top 10 retail technology stories of 2021](https://www.computerweekly.com/news/252510803/Top-10-retail-technology-stories-of-2021)
 - [Top 10 Nordic IT stories of 2021](https://www.computerweekly.com/news/252510786/Top-10-Nordic-IT-stories-of-2021)
-- [Top 10 IR35 stories of 2021](https://www.computerweekly.com/news/252510918/Top-10-IR35-stories-of-2021)
-- [Top 10 Benelux stories of 2021](https://www.computerweekly.com/news/252510729/Top-10-Benelux-stories-of-2021)
-- [Vulnerabilities to fraud are increasing across the board](https://www.computerweekly.com/opinion/Vulnerabilities-to-fraud-are-increasing-across-the-board)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

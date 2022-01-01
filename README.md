@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
-- [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
-- [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
-- [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
-- [Sciter, the 5 MB Electron alternative, has switched to JavaScript](https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/)
-- [Wind whipped fires raging through Boulder County](https://www.dailycamera.com/2021/12/30/boulder-county-grass-fires/)
-- [macOS Setup after 15 Years of Linux](https://hookrace.net/blog/macos-setup/)
-- [New Malware Uses SSD Over-Provisioning to Bypass Security Measures](https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability)
-- [The Science of Visual Data Communication: What Works](https://journals.sagepub.com/doi/10.1177/15291006211051956)
-- [The curious history of the clothespeg &lpar;2016&rpar;](https://medium.economist.com/the-curious-history-of-the-clothespeg-3f8615519c61?gi=5c6e0f307927)
+- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
+- [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
+- [Don&#39;t Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
+- [How the West Was Lost](https://notochina.org/how-china-is-using-amazon-to-wipe-out-the-middleman/)
+- [Coding error at Santander Bank put millions into random accounts on Christmas](https://newsconcerns.com/santander-accidentally-put-millions-into-random-accounts-on-christmas-day/)
+- [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
+- [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
+- [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
+- [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
+- [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

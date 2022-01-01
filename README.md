@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bugs Must Be a Bigger Part of the Human Food Chain](https://www.bloomberg.com/opinion/articles/2021-12-17/why-bugs-must-be-a-bigger-part-of-the-human-food-chain)
-- [WorldQL: A spatial message broker and database for real-time multiplayer](https://github.com/WorldQL/worldql_server)
-- [University loses 77TB of research data due to backup error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/)
-- [CDC Wants to Hide the Post-Licensure Covid-19 Vaccine Safety Data](https://aaronsiri.substack.com/p/the-fda-wants-to-hide-pre-licensure)
-- [NASA Plans Coverage of Webb Space Telescope Deployments](https://www.nasa.gov/press-release/update-nasa-plans-coverage-of-webb-space-telescope-deployments/)
-- [Show HN: Generate your Twitter YearInReview video](https://literoom.co/XflUvVIAWt)
-- [Satoshi&#39;s Leaked Los Angeles IP Address Near Elon Musk 2009 Residence](https://web.archive.org/web/20190624124044/https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
-- [Semihosting, Your PC as Console of an Embedded RISC-V CPU](https://tomverbeure.github.io/2021/12/30/Semihosting-on-RISCV.html)
-- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
-- [The Corozal: Scottish dredger that helped build the Panama Canal](https://www.bbc.com/news/uk-scotland-59644117)
+- [Rumpology](https://en.wikipedia.org/wiki/Rumpology)
+- [Ask HN: What are the endeavours you are focusing on in 2022?](https://news.ycombinator.com/item?id=29754805)
+- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
+- [Who Won in Afghanistan? Private Contractors](https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154)
+- [Peloton: From Pandemic Winner to HBO Punchline](https://www.wsj.com/articles/inside-a-year-at-peloton-from-pandemic-winner-to-hbo-punchline-11640952004)
+- [Show HN: Clendar, a Minimal Calendar App](https://news.ycombinator.com/item?id=29754757)
+- [George Orwell&#39;s Critique of Rudyard Kipling](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/rudyard-kipling/)
+- [Happy New Year HN](https://news.ycombinator.com/item?id=29754722)
+- [Sometimes Science Is Wrong](https://www.scientificamerican.com/article/sometimes-science-is-wrong/)
+- [Computing “In the Noise” Room at the Bottom](https://news.ycombinator.com/item?id=29754667)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

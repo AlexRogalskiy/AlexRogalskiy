@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ted Cruz confuses Washington state with Western Australia in attack on Covid ‘kill-joys’](https://www.theguardian.com/us-news/2021/dec/31/ted-cruz-confuses-washington-state-with-western-australia-in-attack-on-covid-kill-joys)
-- [Covid news live: South Africa says fourth wave has peaked; US will soon see ‘viral blizzard’, expert warns](https://www.theguardian.com/world/live/2021/dec/31/covid-news-live-south-africa-says-fourth-wave-has-peaked-us-will-soon-see-viral-blizzard-expert-warns)
-- [‘Atmosphere of fear’: Hong Kong students lament loss of Tiananmen statues](https://www.theguardian.com/world/2021/dec/31/atmosphere-of-fear-hong-kong-students-lament-loss-of-tiananmen-statues)
-- [Manchester City’s João Cancelo assaulted at home during robbery](https://www.theguardian.com/football/2021/dec/31/manchester-citys-joao-cancelo-assaulted-at-home-during-robbery)
-- [Gary Kirsten says England coaching job would be a ‘lovely project’](https://www.theguardian.com/sport/2021/dec/31/gary-kirsten-says-england-coaching-job-would-be-a-lovely-project)
-- [‘A horrific event’: wildfires fanned by high winds force Colorado evacuations](https://www.theguardian.com/us-news/2021/dec/30/colorado-wildfires-evacuations-latest)
-- [Tom Jenkins’s best sports photos of 2021](https://www.theguardian.com/sport/2021/dec/31/tom-jenkinss-best-sports-photos-of-2021)
-- [Murder investigation launched after 15-year-old fatally stabbed in Croydon](https://www.theguardian.com/uk-news/2021/dec/30/investigation-launched-after-15-year-old-fatally-stabbed-in-croydon)
-- [Biden and Putin exchange warnings during phone call amid rising Ukraine tensions](https://www.theguardian.com/us-news/2021/dec/30/biden-putin-call-russia-us-ukraine-tensions)
-- [Sebastian Coe calls political boycott of Winter Olympics ‘meaningless’](https://www.theguardian.com/sport/2021/dec/30/sebastian-coe-calls-political-boycott-of-winter-olympics-meaningless)
+- [New Year’s Eve 2021: celebrations around the world amid concern over Covid – live updates](https://www.theguardian.com/world/live/2021/dec/31/new-years-eve-2021-celebrations-around-the-world-amid-concern-over-covid-live-updates)
+- [North Korea’s Kim Jong-un warns of ‘life-and-death struggle’ in 10th anniversary speech](https://www.theguardian.com/world/2022/jan/01/north-koreas-kim-jong-un-warns-of-life-and-death-struggle-in-10th-anniversary-speech)
+- [Global economy to grow by about 4% in 2022, says thinktank](https://www.theguardian.com/business/2022/jan/01/global-economy-growth-forecast-2022-inflation)
+- [New year Brexit changes ‘permanently damage’ EU trade, says food body](https://www.theguardian.com/politics/2022/jan/01/new-year-brexit-changes-permanently-damage-eu-trade-says-food-body)
+- [Talking Horses: our tipping contest triumph and New Year’s Day pointers](https://www.theguardian.com/sport/blog/2022/jan/01/talking-horses-tipster-triumph-cheltenham-saturday-tips)
+- [Spurs need more than January window to be top-four contenders, warns Conte](https://www.theguardian.com/football/2021/dec/31/antonio-conte-tottenham-january-signings-not-enough-top-four)
+- [Jason and Laura Kenny become knight and dame in sport’s New Year honours](https://www.theguardian.com/sport/2021/dec/31/jason-and-laura-kenny-become-knight-and-dame-in-sports-new-year-honours)
+- [Johnson lists returning crowns to pint glasses as a key Brexit success](https://www.theguardian.com/politics/2021/dec/31/boris-johnson-crowns-pint-glasses-key-brexit-success)
+- [New year honours feature Covid experts with Chris Whitty knighted](https://www.theguardian.com/uk-news/2021/dec/31/chris-whitty-knighted-as-covid-experts-feted-in-new-year-honours-list)
+- [Lib Dems set sights on Tory seats in south of England](https://www.theguardian.com/politics/2021/dec/31/lib-dems-tory-seats-south-of-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

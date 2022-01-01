@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The IT Backlog in the Age of DevOps](https://www.informationweek.com/devops/the-it-backlog-in-the-age-of-devops)
+- [Will the Democratization of Technology Accelerate Progress in AI?](https://www.informationweek.com/big-data/will-the-democratization-of-technology-accelerate-progress-in-ai-)
 - [December 2021 Global Tech Policy Briefing](https://www.informationweek.com/government/december-2021-global-tech-policy-briefing)
 - [Steal These Use Cases: 2021&#39;s Technology Wins in the Enterprise](https://www.informationweek.com/strategic-cio/steal-these-use-cases-2021-s-technology-wins-in-the-enterprise)
 - [What to Expect at CES 2022: The Human Side of Innovation](https://www.informationweek.com/it-life/what-to-expect-at-ces-2022-the-human-side-of-innovation)
@@ -377,8 +379,6 @@
 - [Will Autonomous Vehicle Makers Get Back into Gear in 2022?](https://www.informationweek.com/ai-or-machine-learning/will-autonomous-vehicle-makers-get-back-into-gear-in-2022-)
 - [The Role of NLQ in Self-Service Business Intelligence](https://www.informationweek.com/big-data/the-role-of-nlq-in-self-service-business-intelligence)
 - [Data and Analytics: For and of the People](https://www.informationweek.com/big-data/data-and-analytics-for-and-of-the-people)
-- [The Dark Web Has Its Own People&#39;s Court](https://www.informationweek.com/it-life/the-dark-web-has-its-own-people-s-court)
-- [Enterprise Tech 2022: What&#39;s Ahead for IT](https://www.informationweek.com/strategic-cio/enterprise-tech-2022-what-s-ahead-for-it)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

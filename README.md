@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What would be your approach to securing a smart home filled with smart bulbs?](https://www.reddit.com/r/InformationTechnology/comments/rtix72/what_would_be_your_approach_to_securing_a_smart/)
+- [League of Legends publisher Riot Games settles discrimination lawsuit for $100 million](https://www.reddit.com/r/InformationTechnology/comments/rthu5i/league_of_legends_publisher_riot_games_settles/)
+- [Network Types Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rthlvo/network_types_explained_comptia_network_n10008/)
 - [Sick of this field, sick of Help Desk, crap pay, lack of opportunity, and sexism.](https://www.reddit.com/r/InformationTechnology/comments/rszmo8/sick_of_this_field_sick_of_help_desk_crap_pay/)
 - [Telegram adds message reactions, bigger emoji animations, and more in the latest update](https://www.reddit.com/r/InformationTechnology/comments/rsogxn/telegram_adds_message_reactions_bigger_emoji/)
 - [Access Database relationships?](https://www.reddit.com/r/InformationTechnology/comments/rs8ris/access_database_relationships/)
-- [How BI Dashboards Help Global Healthcare Company Receive Fast Drug Approval in the USA and EU - bipp Case Study](https://www.reddit.com/r/InformationTechnology/comments/rry5eu/how_bi_dashboards_help_global_healthcare_company/)
 - [Top 5 Penetration Testing Courses/Certifications](https://www.reddit.com/r/InformationTechnology/comments/rrxusm/top_5_penetration_testing_coursescertifications/)
 - [How can I get started in Information Technology/Networking as a complete beginner?](https://www.reddit.com/r/InformationTechnology/comments/rrhuja/how_can_i_get_started_in_information/)
 - [Inconsistent POST Error](https://www.reddit.com/r/InformationTechnology/comments/rrhug0/inconsistent_post_error/)
 - [need help](https://www.reddit.com/r/InformationTechnology/comments/rrh51f/need_help/)
-- [Do I need certifications to land a job?](https://www.reddit.com/r/InformationTechnology/comments/rre8hq/do_i_need_certifications_to_land_a_job/)
-- [Where do you see IT in the next 40 years?](https://www.reddit.com/r/InformationTechnology/comments/rrbo4m/where_do_you_see_it_in_the_next_40_years/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

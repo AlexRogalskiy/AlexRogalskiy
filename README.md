@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Year’s Eve 2021: celebrations around the world amid concern over Covid – live updates](https://www.theguardian.com/world/live/2021/dec/31/new-years-eve-2021-celebrations-around-the-world-amid-concern-over-covid-live-updates)
-- [North Korea’s Kim Jong-un warns of ‘life-and-death struggle’ in 10th anniversary speech](https://www.theguardian.com/world/2022/jan/01/north-koreas-kim-jong-un-warns-of-life-and-death-struggle-in-10th-anniversary-speech)
-- [Global economy to grow by about 4% in 2022, says thinktank](https://www.theguardian.com/business/2022/jan/01/global-economy-growth-forecast-2022-inflation)
-- [New year Brexit changes ‘permanently damage’ EU trade, says food body](https://www.theguardian.com/politics/2022/jan/01/new-year-brexit-changes-permanently-damage-eu-trade-says-food-body)
-- [Talking Horses: our tipping contest triumph and New Year’s Day pointers](https://www.theguardian.com/sport/blog/2022/jan/01/talking-horses-tipster-triumph-cheltenham-saturday-tips)
-- [Spurs need more than January window to be top-four contenders, warns Conte](https://www.theguardian.com/football/2021/dec/31/antonio-conte-tottenham-january-signings-not-enough-top-four)
-- [Jason and Laura Kenny become knight and dame in sport’s New Year honours](https://www.theguardian.com/sport/2021/dec/31/jason-and-laura-kenny-become-knight-and-dame-in-sports-new-year-honours)
-- [Johnson lists returning crowns to pint glasses as a key Brexit success](https://www.theguardian.com/politics/2021/dec/31/boris-johnson-crowns-pint-glasses-key-brexit-success)
-- [New year honours feature Covid experts with Chris Whitty knighted](https://www.theguardian.com/uk-news/2021/dec/31/chris-whitty-knighted-as-covid-experts-feted-in-new-year-honours-list)
-- [Lib Dems set sights on Tory seats in south of England](https://www.theguardian.com/politics/2021/dec/31/lib-dems-tory-seats-south-of-england)
+- [Colorado wildfire: three feared dead and nearly 1,000 homes destroyed as Biden declares disaster](https://www.theguardian.com/us-news/2022/jan/01/colorado-wildfire-damage-biden-disaster-declaration)
+- [What is aquamation? The process behind Desmond Tutu’s ‘green cremation’](https://www.theguardian.com/world/2022/jan/02/what-is-aquamation-the-process-behind-desmond-tutus-green-cremation)
+- [6m UK homes may be unable to pay energy bills after price hike, charity warns](https://www.theguardian.com/society/2022/jan/01/6m-homes-uk-pay-energy-bills-price-hike-fuel-poverty)
+- [Smith joins Wright, Wade and Anderson in PDC world championship semi-finals](https://www.theguardian.com/sport/2022/jan/01/wade-and-anderson-storm-into-pdc-world-championship-semi-finals)
+- [Beanies and bobbles: 17 of the best woolly hats – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/01/beanies-and-bobbles-17-of-the-best-woolly-hats-in-pictures)
+- [US judge delivers double setback to Prince Andrew’s abuse case battle](https://www.theguardian.com/uk-news/2022/jan/01/prince-andrew-lawsuit-virginia-giuffre-effort-block-rejected)
+- [Thomas Tuchel may drop Romelu Lukaku for Liverpool over interview](https://www.theguardian.com/football/2022/jan/01/thomas-tuchel-chelsea-will-not-stop-trying-to-hunt-down-manchester-city)
+- [Schools in England told: wear masks in class as fears mount of Omicron surge](https://www.theguardian.com/world/2022/jan/01/schools-in-england-told-wear-masks-in-class-as-fears-mount-of-omicron-surge)
+- [Priti Patel vows to curb eco protests and asylum appeals in 2022](https://www.theguardian.com/politics/2022/jan/01/priti-patel-vows-to-curb-eco-protests-and-asylum-appeals-in-2022)
+- [The Tourist review – Jamie Dornan is explosive in this Memento-lite caper](https://www.theguardian.com/tv-and-radio/2022/jan/01/the-tourist-review-jamie-dornan-is-explosive-in-this-memento-lite-caper)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

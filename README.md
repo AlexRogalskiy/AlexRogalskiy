@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
-- [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
-- [Don&#39;t Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
-- [How the West Was Lost](https://notochina.org/how-china-is-using-amazon-to-wipe-out-the-middleman/)
-- [Coding error at Santander Bank put millions into random accounts on Christmas](https://newsconcerns.com/santander-accidentally-put-millions-into-random-accounts-on-christmas-day/)
-- [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
-- [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
-- [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
-- [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
-- [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
+- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
+- [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
+- [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
+- [Show HN: A web app to turn photos into 3D AR models.](https://usdz.app?ref=hn)
+- [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
+- [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
+- [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
+- [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
+- [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
+- [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

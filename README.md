@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rumpology](https://en.wikipedia.org/wiki/Rumpology)
-- [Ask HN: What are the endeavours you are focusing on in 2022?](https://news.ycombinator.com/item?id=29754805)
-- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
-- [Who Won in Afghanistan? Private Contractors](https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154)
-- [Peloton: From Pandemic Winner to HBO Punchline](https://www.wsj.com/articles/inside-a-year-at-peloton-from-pandemic-winner-to-hbo-punchline-11640952004)
-- [Show HN: Clendar, a Minimal Calendar App](https://news.ycombinator.com/item?id=29754757)
-- [George Orwell&#39;s Critique of Rudyard Kipling](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/rudyard-kipling/)
-- [Happy New Year HN](https://news.ycombinator.com/item?id=29754722)
-- [Sometimes Science Is Wrong](https://www.scientificamerican.com/article/sometimes-science-is-wrong/)
-- [Computing “In the Noise” Room at the Bottom](https://news.ycombinator.com/item?id=29754667)
+- [Google doesn&#39;t have a reliable answer for Mass Formation Psychosis](https://www.google.com/search?q=Mass+Formation+Psychosis)
+- [Are cylindrical reflector telescopes with software focus correction possible?](https://news.ycombinator.com/item?id=29765120)
+- [Petition to open source Flash &lpar;2019&rpar;](https://github.com/open-source-flash/open-source-flash)
+- [A Closer Look at the Sony PSP DTP-T1000 Development Kit](https://www.youtube.com/watch?v=vY1j30jzRsE)
+- [Quebec bans oil heating in new homes starting Dec. 31](https://www.cbc.ca/news/canada/montreal/quebec-bans-oil-heating-1.6252420)
+- [A Stored Program Computer For Small Scientific Spacecraft &lpar;1966&rpar; [pdf]](https://ntrs.nasa.gov/api/citations/19660029118/downloads/19660029118.pdf)
+- [Less Grind, More Chill](https://www.youtube.com/watch?v=tQSbkq2ieE0)
+- [Ask HN: Which successful startups use &#39;no code&#39;?](https://news.ycombinator.com/item?id=29765071)
+- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
+- [Overjustification Effect](https://en.wikipedia.org/wiki/Overjustification_effect)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

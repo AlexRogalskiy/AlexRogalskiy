@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Predictions for 2022 by cybersecurity vendors](https://www.itworldcanada.com/article/predictions-for-2022-by-cybersecurity-vendors/469040)
 - [2021: ‘A crazy mess’: Cybersecurity year in review and a look ahead](https://www.itworldcanada.com/article/2021-a-crazy-mess-cybersecurity-year-in-review-and-a-look-ahead/469389)
 - [Supply chain and nation-state attacks will highlight 2022, says vendor](https://www.itworldcanada.com/article/supply-chain-and-nation-state-attacks-will-highlight-2022-says-vendor/469499)
 - [Hashtag Trending Dec. 31 – Privacy search engine boom; Apple increases pay to retain talent; James Webb telescope takes off](https://www.itworldcanada.com/article/hashtag-trending-dec-31-privacy-search-engine-boom-apple-increases-pay-to-retain-talent-james-webb-telescope-takes-off/469656)
@@ -438,7 +439,6 @@
 - [Rootkit in HPE server management module can wipe hard drives: Report](https://www.itworldcanada.com/article/rootkit-in-hpe-server-management-module-can-wipe-hard-drives-report/469555)
 - [Apache issues fifth patch this month to close another bug in Log4j](https://www.itworldcanada.com/article/apache-issues-fifth-patch-this-month-to-close-another-bug-in-log4j/469537)
 - [Credential stuffing attack spooks LastPass users](https://www.itworldcanada.com/article/credential-stuffing-attack-spooks-lastpass-users/469549)
-- [Cyber Security Today, Dec. 29, 2021 – How hackers stole data on 113,000 customers from a Canadian bank](https://www.itworldcanada.com/article/cyber-security-today-dec-29-2021-how-hackers-stole-data-on-113000-customers-from-a-canadian-bank/469465)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

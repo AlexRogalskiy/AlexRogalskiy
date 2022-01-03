@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google doesn&#39;t have a reliable answer for Mass Formation Psychosis](https://www.google.com/search?q=Mass+Formation+Psychosis)
-- [Are cylindrical reflector telescopes with software focus correction possible?](https://news.ycombinator.com/item?id=29765120)
-- [Petition to open source Flash &lpar;2019&rpar;](https://github.com/open-source-flash/open-source-flash)
-- [A Closer Look at the Sony PSP DTP-T1000 Development Kit](https://www.youtube.com/watch?v=vY1j30jzRsE)
-- [Quebec bans oil heating in new homes starting Dec. 31](https://www.cbc.ca/news/canada/montreal/quebec-bans-oil-heating-1.6252420)
-- [A Stored Program Computer For Small Scientific Spacecraft &lpar;1966&rpar; [pdf]](https://ntrs.nasa.gov/api/citations/19660029118/downloads/19660029118.pdf)
-- [Less Grind, More Chill](https://www.youtube.com/watch?v=tQSbkq2ieE0)
-- [Ask HN: Which successful startups use &#39;no code&#39;?](https://news.ycombinator.com/item?id=29765071)
-- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
-- [Overjustification Effect](https://en.wikipedia.org/wiki/Overjustification_effect)
+- [America gave up on truly educating all its kids. Then Jan. 6 happened](https://www.inquirer.com/opinion/january-6-anniversary-civics-education-in-america-20220102.html)
+- [Asus Admits Fiery Z690 Motherboard Flaw, Starts Recall Program](https://www.tomshardware.com/news/asus-owns-up-to-fiery-z690-motherboard-flaw-starts-recall-program)
+- [Frozen tardigrade becomes first &#39;quantum entangled&#39; animal in history](https://www.livescience.com/tardigrade-quantum-entangled-experiment)
+- [NASA delays tightening Webb Space Telescope sunshield to study power system](https://www.space.com/james-webb-space-telescope-sunshield-tension-delay)
+- [Feedback: Will a chrome extension like this be useful?](https://news.ycombinator.com/item?id=29776569)
+- [New release of Costa – version 1.5.0](https://costa.jacobpalm.dk)
+- [Why YC &lpar;2006&rpar;](http://www.paulgraham.com/whyyc.html)
+- [Does anyone else get really bored while they&#39;re on vacation?](https://news.ycombinator.com/item?id=29776550)
+- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
+- [Show HN: A Simple Zipcode Based 3-Day Forecast VueJS SPA](https://github.com/jamesacampbell/getweatherbyzipcode)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colorado wildfire: three feared dead and nearly 1,000 homes destroyed as Biden declares disaster](https://www.theguardian.com/us-news/2022/jan/01/colorado-wildfire-damage-biden-disaster-declaration)
-- [What is aquamation? The process behind Desmond Tutu’s ‘green cremation’](https://www.theguardian.com/world/2022/jan/02/what-is-aquamation-the-process-behind-desmond-tutus-green-cremation)
-- [6m UK homes may be unable to pay energy bills after price hike, charity warns](https://www.theguardian.com/society/2022/jan/01/6m-homes-uk-pay-energy-bills-price-hike-fuel-poverty)
-- [Smith joins Wright, Wade and Anderson in PDC world championship semi-finals](https://www.theguardian.com/sport/2022/jan/01/wade-and-anderson-storm-into-pdc-world-championship-semi-finals)
-- [Beanies and bobbles: 17 of the best woolly hats – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/01/beanies-and-bobbles-17-of-the-best-woolly-hats-in-pictures)
-- [US judge delivers double setback to Prince Andrew’s abuse case battle](https://www.theguardian.com/uk-news/2022/jan/01/prince-andrew-lawsuit-virginia-giuffre-effort-block-rejected)
-- [Thomas Tuchel may drop Romelu Lukaku for Liverpool over interview](https://www.theguardian.com/football/2022/jan/01/thomas-tuchel-chelsea-will-not-stop-trying-to-hunt-down-manchester-city)
-- [Schools in England told: wear masks in class as fears mount of Omicron surge](https://www.theguardian.com/world/2022/jan/01/schools-in-england-told-wear-masks-in-class-as-fears-mount-of-omicron-surge)
-- [Priti Patel vows to curb eco protests and asylum appeals in 2022](https://www.theguardian.com/politics/2022/jan/01/priti-patel-vows-to-curb-eco-protests-and-asylum-appeals-in-2022)
-- [The Tourist review – Jamie Dornan is explosive in this Memento-lite caper](https://www.theguardian.com/tv-and-radio/2022/jan/01/the-tourist-review-jamie-dornan-is-explosive-in-this-memento-lite-caper)
+- [Covid news live: 4,000 more flights cancelled over Omicron; Israel to offer fourth jab to over-60s](https://www.theguardian.com/world/live/2022/jan/03/covid-news-live-4000-more-flights-cancelled-over-omicron-israel-to-offer-fourth-jab-to-over-60s)
+- [Peter Wright beats Gary Anderson to set up PDC world final with Michael Smith](https://www.theguardian.com/sport/2022/jan/03/peter-wright-beats-gary-anderson-to-set-up-pdc-world-final-with-michael-smith)
+- [UK motorist caught driving while distracted nine times in four years](https://www.theguardian.com/world/2022/jan/03/uk-motorist-caught-driving-while-distracted-nine-times-in-four-years)
+- [Unite demands clear targets for use of UK steel in HS2 project](https://www.theguardian.com/uk-news/2022/jan/03/unite-demands-clear-targets-for-use-of-uk-steel-in-hs2-project)
+- [BBC online exhibitions mark corporation’s 100 years of broadcasting](https://www.theguardian.com/media/2022/jan/03/bbc-online-exhibitions-mark-corporations-100-years-of-broadcasting)
+- [Volunteers praised for huge role in giving UK public Covid jabs](https://www.theguardian.com/world/2022/jan/03/volunteers-praised-for-huge-role-in-giving-uk-public-covid-jabs)
+- [Cyber-attack on UK’s Defence Academy caused ‘significant’ damage](https://www.theguardian.com/uk-news/2022/jan/02/cyber-attack-on-uks-defence-academy-caused-significant-damage)
+- [Sudan’s prime minister resigns as pro-democracy protests violently repressed](https://www.theguardian.com/world/2022/jan/02/sudans-prime-minister-resigns-as-pro-democracy-protests-violently-repressed)
+- [Russia ‘very likely’ to invade Ukraine without ‘enormous sanctions’ – Schiff](https://www.theguardian.com/world/2022/jan/02/russia-invade-ukraine-enormous-sanctions-schiff)
+- [Anne review – Maxine Peake exudes raw horror in extraordinary Hillsborough drama](https://www.theguardian.com/tv-and-radio/2022/jan/02/anne-review-maxine-peake-exudes-raw-horror-in-extraordinary-hillsborough-drama)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

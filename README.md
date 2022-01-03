@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
-- [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
-- [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
-- [Show HN: A web app to turn photos into 3D AR models.](https://usdz.app?ref=hn)
-- [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
-- [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
-- [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
-- [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
-- [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
-- [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
+- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
+- [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
+- [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
+- [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
+- [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya)
+- [2.3k Patch Would Improve Linux Build Times 50~80% &amp; Fix “Dependency Hell”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Fast-Kernel-Headers)
+- [Loving Someone with Depression](https://www.mentalhealth.org.uk/stories/andrew-loving-someone-depression)
+- [Machine Learning for MRI Image Reconstruction](https://rhotter.github.io/posts/ml-for-mri/)
+- [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
+- [Summary of Atomic Habits](https://www.chrisbehan.ca/posts/atomic-habits)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

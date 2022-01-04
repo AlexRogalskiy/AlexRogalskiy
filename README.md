@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for advice, any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/rv84rn/looking_for_advice_any_help_appreciated/)
 - [New to Industry, Looking for Guidance](https://www.reddit.com/r/InformationTechnology/comments/ru149a/new_to_industry_looking_for_guidance/)
 - [What would be your approach to securing a smart home filled with smart bulbs?](https://www.reddit.com/r/InformationTechnology/comments/rtix72/what_would_be_your_approach_to_securing_a_smart/)
 - [League of Legends publisher Riot Games settles discrimination lawsuit for $100 million](https://www.reddit.com/r/InformationTechnology/comments/rthu5i/league_of_legends_publisher_riot_games_settles/)
@@ -423,7 +424,6 @@
 - [Access Database relationships?](https://www.reddit.com/r/InformationTechnology/comments/rs8ris/access_database_relationships/)
 - [Top 5 Penetration Testing Courses/Certifications](https://www.reddit.com/r/InformationTechnology/comments/rrxusm/top_5_penetration_testing_coursescertifications/)
 - [How can I get started in Information Technology/Networking as a complete beginner?](https://www.reddit.com/r/InformationTechnology/comments/rrhuja/how_can_i_get_started_in_information/)
-- [Inconsistent POST Error](https://www.reddit.com/r/InformationTechnology/comments/rrhug0/inconsistent_post_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

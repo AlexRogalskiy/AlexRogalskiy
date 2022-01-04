@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Project Valhalla tees up Java object model improvements](https://www.infoworld.com/article/3646092/project-valhalla-tees-up-java-object-model-improvements.html#tk.rss_all)
+- [8 steps to better DNS](https://www.infoworld.com/article/3646130/8-steps-to-better-dns.html#tk.rss_all)
+- [Is Amazon Alexa a success?](https://www.infoworld.com/article/3646128/is-amazon-alexa-a-success.html#tk.rss_all)
 - [Virtual whiteboards prove vital for remote developer teams](https://www.infoworld.com/article/3645708/virtual-whiteboards-prove-vital-for-remote-developer-teams.html#tk.rss_all)
 - [What most cloud-using CIOs want in 2022](https://www.infoworld.com/article/3645138/what-most-cloud-using-cios-want-in-2022.html#tk.rss_all)
 - [How no-code, reusable AI will bridge the AI divide](https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [How digital twins improve physical systems](https://www.infoworld.com/article/3645789/how-digital-twins-improve-physical-systems.html#tk.rss_all)
 - [GitLab 14.6 shines on distributed deployments](https://www.infoworld.com/article/3645849/gitlab-146-shines-on-distributed-deployments.html#tk.rss_all)
 - [Hands-on with Dropwizard REST APIs](https://www.infoworld.com/article/3645503/hands-on-with-dropwizard-rest-apis.html#tk.rss_all)
-- [Visual Studio feedback upgrade snubs older versions](https://www.infoworld.com/article/3645688/visual-studio-feedback-upgrade-snubs-older-versions.html#tk.rss_all)
-- [New Relic expands enterprise full-stack observability to include MLOps](https://www.infoworld.com/article/3645501/new-relic-expands-enterprise-full-stack-observability-to-include-mlops.html#tk.rss_all)
-- [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Samsung announces Galaxy S21 FE 5G smartphone](https://www.itworldcanada.com/article/samsung-announces-galaxy-s21-fe-5g-smartphone/469637)
+- [Five interesting tech innovations at CES 2022](https://www.itworldcanada.com/article/five-interesting-tech-innovations-at-ces-2022/469606)
+- [Microsoft rushes fix for Exchange ‘year 2022’ bug that blocks email](https://www.itworldcanada.com/article/microsoft-rushes-fix-for-exchange-year-2022-bug-that-blocks-email/469680)
+- [Cyber Security Today, January 3, 2022 – New Year Resolutions](https://www.itworldcanada.com/article/cyber-security-today-january-3-2022-new-year-resolutions/469284)
+- [Hashtag Trending Jan. 3 – Starlink for school; illegal crypto mining crackdown; Twitter bans U.S. politician](https://www.itworldcanada.com/article/hashtag-trending-jan-3-starlink-for-school-illegal-crypto-mining-crackdown-twitter-bans-u-s-politician/469677)
 - [Predictions for 2022 by cybersecurity vendors](https://www.itworldcanada.com/article/predictions-for-2022-by-cybersecurity-vendors/469040)
 - [2021: ‘A crazy mess’: Cybersecurity year in review and a look ahead](https://www.itworldcanada.com/article/2021-a-crazy-mess-cybersecurity-year-in-review-and-a-look-ahead/469389)
 - [Supply chain and nation-state attacks will highlight 2022, says vendor](https://www.itworldcanada.com/article/supply-chain-and-nation-state-attacks-will-highlight-2022-says-vendor/469499)
 - [Hashtag Trending Dec. 31 – Privacy search engine boom; Apple increases pay to retain talent; James Webb telescope takes off](https://www.itworldcanada.com/article/hashtag-trending-dec-31-privacy-search-engine-boom-apple-increases-pay-to-retain-talent-james-webb-telescope-takes-off/469656)
 - [2021 year in review – IT under attack](https://www.itworldcanada.com/article/2021-year-in-review-it-under-attack/469608)
-- [More attacks on cloud providers, home workers coming in 2022: Kaspersky](https://www.itworldcanada.com/article/more-attacks-on-cloud-providers-home-workers-coming-in-2022-kaspersky/469593)
-- [Privacy in Canada: The Year in Review, and predictions for 2022](https://www.itworldcanada.com/article/privacy-in-canada-the-year-in-review-and-predictions-for-2022/469470)
-- [Rootkit in HPE server management module can wipe hard drives: Report](https://www.itworldcanada.com/article/rootkit-in-hpe-server-management-module-can-wipe-hard-drives-report/469555)
-- [Apache issues fifth patch this month to close another bug in Log4j](https://www.itworldcanada.com/article/apache-issues-fifth-patch-this-month-to-close-another-bug-in-log4j/469537)
-- [Credential stuffing attack spooks LastPass users](https://www.itworldcanada.com/article/credential-stuffing-attack-spooks-lastpass-users/469549)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

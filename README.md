@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [When biometrics can be outsmarted this way, we need to talk](https://www.computerworld.com/article/3646129/when-biometrics-can-be-outsmarted-this-way-we-need-to-talk.html#tk.rss_all)
+- [New Windows 11 device? Want to downgrade to 10? You&#39;ve got options](https://www.computerworld.com/article/3646191/new-windows-11-device-want-to-downgrade-to-10-youve-got-options.html#tk.rss_all)
+- [3 big workplace changes to expect in ‘22](https://www.computerworld.com/article/3645710/3-big-workplace-changes-to-expect-in-22.html#tk.rss_all)
 - [For Hackensack Meridian Health CIO, a year of change](https://www.computerworld.com/article/3645671/for-hackensack-meridian-health-cio-a-year-of-change.html#tk.rss_all)
 - [Why are your IT people so miserable? Log4j2itis](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html#tk.rss_all)
 - [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [26 time-saving tips for the Chrome Android browser](https://www.computerworld.com/article/2975137/26-time-saving-tips-for-the-chrome-android-browser.html#tk.rss_all)
 - [14 tech luminaries we lost in 2021](https://www.computerworld.com/article/3644496/tech-luminaries-we-lost-in-2021.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
-- [How Apple&#39;s iCloud Private Relay supports enterprise VPN](https://www.computerworld.com/article/3645848/how-apples-icloud-private-relay-supports-enterprise-vpn.html#tk.rss_all)
-- [Privacy-centric DuckDuckGo to release Mac desktop browser](https://www.computerworld.com/article/3645668/privacy-centric-duckduckgo-to-release-mac-desktop-browser.html#tk.rss_all)
-- [The best Android apps for business in 2022](https://www.computerworld.com/article/3268630/best-android-apps-business-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

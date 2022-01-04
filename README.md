@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: 4,000 more flights cancelled over Omicron; Israel to offer fourth jab to over-60s](https://www.theguardian.com/world/live/2022/jan/03/covid-news-live-4000-more-flights-cancelled-over-omicron-israel-to-offer-fourth-jab-to-over-60s)
-- [Peter Wright beats Gary Anderson to set up PDC world final with Michael Smith](https://www.theguardian.com/sport/2022/jan/03/peter-wright-beats-gary-anderson-to-set-up-pdc-world-final-with-michael-smith)
-- [UK motorist caught driving while distracted nine times in four years](https://www.theguardian.com/world/2022/jan/03/uk-motorist-caught-driving-while-distracted-nine-times-in-four-years)
-- [Unite demands clear targets for use of UK steel in HS2 project](https://www.theguardian.com/uk-news/2022/jan/03/unite-demands-clear-targets-for-use-of-uk-steel-in-hs2-project)
-- [BBC online exhibitions mark corporation’s 100 years of broadcasting](https://www.theguardian.com/media/2022/jan/03/bbc-online-exhibitions-mark-corporations-100-years-of-broadcasting)
-- [Volunteers praised for huge role in giving UK public Covid jabs](https://www.theguardian.com/world/2022/jan/03/volunteers-praised-for-huge-role-in-giving-uk-public-covid-jabs)
-- [Cyber-attack on UK’s Defence Academy caused ‘significant’ damage](https://www.theguardian.com/uk-news/2022/jan/02/cyber-attack-on-uks-defence-academy-caused-significant-damage)
-- [Sudan’s prime minister resigns as pro-democracy protests violently repressed](https://www.theguardian.com/world/2022/jan/02/sudans-prime-minister-resigns-as-pro-democracy-protests-violently-repressed)
-- [Russia ‘very likely’ to invade Ukraine without ‘enormous sanctions’ – Schiff](https://www.theguardian.com/world/2022/jan/02/russia-invade-ukraine-enormous-sanctions-schiff)
-- [Anne review – Maxine Peake exudes raw horror in extraordinary Hillsborough drama](https://www.theguardian.com/tv-and-radio/2022/jan/02/anne-review-maxine-peake-exudes-raw-horror-in-extraordinary-hillsborough-drama)
+- [Covid live news: Chinese city puts 1.3 million in strict lockdown over three asymptomatic cases](https://www.theguardian.com/world/live/2022/jan/04/covid-live-news-chinese-city-puts-13-million-in-strict-lockdown-over-three-asymptomatic-cases)
+- [Elizabeth Holmes trial: jury finds Theranos founder guilty on four fraud counts](https://www.theguardian.com/technology/2022/jan/03/elizabeth-holmes-trial-jury-finds-theranos-founder-guilty-on-four-counts)
+- [US Congress reports unprecedented surge in Covid-19 cases – as it happened](https://www.theguardian.com/us-news/live/2022/jan/03/us-politics-democrats-voting-rights-protections-bill-senate-latest-news)
+- [UK house sales to first-time buyers reach highest for 19 years](https://www.theguardian.com/money/2022/jan/04/uk-house-sales-first-time-buyers-highest-nearly-20-years)
+- [Calls for safe routes to UK as arrivals by small boat treble in a year](https://www.theguardian.com/uk-news/2022/jan/04/calls-for-safe-routes-to-uk-as-arrivals-by-small-boat-treble-in-a-year)
+- [UK government extends powers to intervene in foreign takeovers](https://www.theguardian.com/business/2022/jan/04/uk-government-extends-powers-to-intervene-in-foreign-takeovers)
+- [Adele and Sheeran top sales charts but UK is buoyed in 2021 by Abba and Queen](https://www.theguardian.com/business/2022/jan/04/adele-sheeran-abba-queen-2021-sales-streaming-top-10-albums)
+- [Peter Wright edges out Smith to win second PDC world championship](https://www.theguardian.com/sport/2022/jan/03/peter-wright-edges-out-michael-smith-to-secure-second-world-darts-title)
+- [Canadian court awards $107m to families of Iran plane crash victims](https://www.theguardian.com/world/2022/jan/03/canada-iran-plane-crash-victims-families-court)
+- [Keir Starmer to unveil plan to build on Labour’s poll lead momentum](https://www.theguardian.com/politics/2022/jan/03/keir-starmer-to-unveil-plan-to-build-on-labours-poll-lead-momentum)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [America gave up on truly educating all its kids. Then Jan. 6 happened](https://www.inquirer.com/opinion/january-6-anniversary-civics-education-in-america-20220102.html)
-- [Asus Admits Fiery Z690 Motherboard Flaw, Starts Recall Program](https://www.tomshardware.com/news/asus-owns-up-to-fiery-z690-motherboard-flaw-starts-recall-program)
-- [Frozen tardigrade becomes first &#39;quantum entangled&#39; animal in history](https://www.livescience.com/tardigrade-quantum-entangled-experiment)
-- [NASA delays tightening Webb Space Telescope sunshield to study power system](https://www.space.com/james-webb-space-telescope-sunshield-tension-delay)
-- [Feedback: Will a chrome extension like this be useful?](https://news.ycombinator.com/item?id=29776569)
-- [New release of Costa – version 1.5.0](https://costa.jacobpalm.dk)
-- [Why YC &lpar;2006&rpar;](http://www.paulgraham.com/whyyc.html)
-- [Does anyone else get really bored while they&#39;re on vacation?](https://news.ycombinator.com/item?id=29776550)
-- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
-- [Show HN: A Simple Zipcode Based 3-Day Forecast VueJS SPA](https://github.com/jamesacampbell/getweatherbyzipcode)
+- [The medical resident who had his wife peer review five of his papers](https://retractionwatch.com/2021/03/19/meet-the-medical-resident-who-had-his-wife-peer-review-five-of-his-papers/)
+- [Ask HN: How to opt-out of a “web-3” future and anything crypto related](https://news.ycombinator.com/item?id=29790450)
+- [JWST: Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
+- [Joint Statement of the Five Nuclear-Weapon States on Preventing Nuclear War](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/p5-statement-on-preventing-nuclear-war-and-avoiding-arms-races/)
+- [Show HN: Build in NoCode, Export To: Node.js, React, PHP Laravel](https://blog.sktch.io/post/introducing-sktch-io-s-exporter-build-in-nocode-export-to-any-framework-61cb6bb64c94073f6791307f)
+- [Ask HN: Following a Hacker News thread for new comments](https://news.ycombinator.com/item?id=29790353)
+- [Ask HN: Is there any value in having your own podcast “show”?](https://news.ycombinator.com/item?id=29790309)
+- [Tomb Raider II Source Code &lpar;1997&rpar;](https://archive.org/details/tomb-raider-ii-core-design-eidos-1997-source-code.-7z)
+- [Hollyhock House](https://en.wikipedia.org/wiki/Hollyhock_House)
+- [Dance Language of the Honey Bee](https://bee-health.extension.org/dance-language-of-the-honey-bee/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

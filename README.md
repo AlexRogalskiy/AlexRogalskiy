@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
-- [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
-- [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
-- [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
-- [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya)
-- [2.3k Patch Would Improve Linux Build Times 50~80% &amp; Fix “Dependency Hell”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Fast-Kernel-Headers)
-- [Loving Someone with Depression](https://www.mentalhealth.org.uk/stories/andrew-loving-someone-depression)
-- [Machine Learning for MRI Image Reconstruction](https://rhotter.github.io/posts/ml-for-mri/)
-- [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
-- [Summary of Atomic Habits](https://www.chrisbehan.ca/posts/atomic-habits)
+- [ASML reports fire at its Berlin factory](https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/)
+- [Elizabeth Holmes found guilty of conspiracy](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
+- [Lab Leak 2.0?](https://bprice.substack.com/p/lab-leak-20)
+- [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions](https://www.science.org/doi/10.1126/sciadv.abl6077)
+- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Senior Software Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- [Copyright doesn&#39;t need 95 years to get the job done](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
+- [Show HN: Clone your voice and speak a foreign language](https://coqui.ai/)
+- [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/)
+- [Show HN: Picosnitch – a reliable and lightweight security/privacy tool for Linux](https://elesiuta.github.io/picosnitch/)
+- [High beef prices and the destruction of independent cattle ranching](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

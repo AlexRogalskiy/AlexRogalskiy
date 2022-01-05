@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Python nabs programming language of the year honors](https://www.infoworld.com/article/3646136/python-nabs-programming-language-of-the-year-honors.html#tk.rss_all)
+- [2022: The year of software supply chain security](https://www.infoworld.com/article/3646231/2022-the-year-of-software-supply-chain-security.html#tk.rss_all)
+- [Using the cloud to automate home building](https://www.infoworld.com/article/3646192/using-the-cloud-to-automate-home-building.html#tk.rss_all)
 - [Project Valhalla tees up Java object model improvements](https://www.infoworld.com/article/3646092/project-valhalla-tees-up-java-object-model-improvements.html#tk.rss_all)
 - [8 steps to better DNS](https://www.infoworld.com/article/3646130/8-steps-to-better-dns.html#tk.rss_all)
 - [Is Amazon Alexa a success?](https://www.infoworld.com/article/3646128/is-amazon-alexa-a-success.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [What most cloud-using CIOs want in 2022](https://www.infoworld.com/article/3645138/what-most-cloud-using-cios-want-in-2022.html#tk.rss_all)
 - [How no-code, reusable AI will bridge the AI divide](https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html#tk.rss_all)
 - [What app developers need to do now to fight Log4j exploits](https://www.infoworld.com/article/3645908/what-app-developers-need-to-do-now-to-fight-log4j-exploits.html#tk.rss_all)
-- [How digital twins improve physical systems](https://www.infoworld.com/article/3645789/how-digital-twins-improve-physical-systems.html#tk.rss_all)
-- [GitLab 14.6 shines on distributed deployments](https://www.infoworld.com/article/3645849/gitlab-146-shines-on-distributed-deployments.html#tk.rss_all)
-- [Hands-on with Dropwizard REST APIs](https://www.infoworld.com/article/3645503/hands-on-with-dropwizard-rest-apis.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Information technology competitive jobs](https://www.reddit.com/r/InformationTechnology/comments/rwbqxb/information_technology_competitive_jobs/)
+- [VPN into office server](https://www.reddit.com/r/InformationTechnology/comments/rw1wkb/vpn_into_office_server/)
+- [What would be a good &#39;foundational skillset&#39; for an aspiring UI developer?](https://www.reddit.com/r/InformationTechnology/comments/rvmxkj/what_would_be_a_good_foundational_skillset_for_an/)
 - [Looking for advice, any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/rv84rn/looking_for_advice_any_help_appreciated/)
 - [New to Industry, Looking for Guidance](https://www.reddit.com/r/InformationTechnology/comments/ru149a/new_to_industry_looking_for_guidance/)
 - [What would be your approach to securing a smart home filled with smart bulbs?](https://www.reddit.com/r/InformationTechnology/comments/rtix72/what_would_be_your_approach_to_securing_a_smart/)
@@ -421,9 +424,6 @@
 - [Network Types Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rthlvo/network_types_explained_comptia_network_n10008/)
 - [Sick of this field, sick of Help Desk, crap pay, lack of opportunity, and sexism.](https://www.reddit.com/r/InformationTechnology/comments/rszmo8/sick_of_this_field_sick_of_help_desk_crap_pay/)
 - [Telegram adds message reactions, bigger emoji animations, and more in the latest update](https://www.reddit.com/r/InformationTechnology/comments/rsogxn/telegram_adds_message_reactions_bigger_emoji/)
-- [Access Database relationships?](https://www.reddit.com/r/InformationTechnology/comments/rs8ris/access_database_relationships/)
-- [Top 5 Penetration Testing Courses/Certifications](https://www.reddit.com/r/InformationTechnology/comments/rrxusm/top_5_penetration_testing_coursescertifications/)
-- [How can I get started in Information Technology/Networking as a complete beginner?](https://www.reddit.com/r/InformationTechnology/comments/rrhuja/how_can_i_get_started_in_information/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

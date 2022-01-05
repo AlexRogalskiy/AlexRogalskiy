@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The medical resident who had his wife peer review five of his papers](https://retractionwatch.com/2021/03/19/meet-the-medical-resident-who-had-his-wife-peer-review-five-of-his-papers/)
-- [Ask HN: How to opt-out of a “web-3” future and anything crypto related](https://news.ycombinator.com/item?id=29790450)
-- [JWST: Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
-- [Joint Statement of the Five Nuclear-Weapon States on Preventing Nuclear War](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/p5-statement-on-preventing-nuclear-war-and-avoiding-arms-races/)
-- [Show HN: Build in NoCode, Export To: Node.js, React, PHP Laravel](https://blog.sktch.io/post/introducing-sktch-io-s-exporter-build-in-nocode-export-to-any-framework-61cb6bb64c94073f6791307f)
-- [Ask HN: Following a Hacker News thread for new comments](https://news.ycombinator.com/item?id=29790353)
-- [Ask HN: Is there any value in having your own podcast “show”?](https://news.ycombinator.com/item?id=29790309)
-- [Tomb Raider II Source Code &lpar;1997&rpar;](https://archive.org/details/tomb-raider-ii-core-design-eidos-1997-source-code.-7z)
-- [Hollyhock House](https://en.wikipedia.org/wiki/Hollyhock_House)
-- [Dance Language of the Honey Bee](https://bee-health.extension.org/dance-language-of-the-honey-bee/)
+- [Sony teases PSVR 2 and Horizon VR at CES 2022](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
+- [OpenSea valued at $13.3B in new round of venture funding](https://www.nytimes.com/2022/01/04/business/opensea-13-billion-valuation-venture-funding.html)
+- [Angel Investor vs. Venture Capitalist vs. Private Equity](https://www.aleberry.com/blog/angel-investor-vs-venture-capitalist-vs-private-equity)
+- [Agency/Satisfaction](https://ava.substack.com/p/agencysatisfaction)
+- [Ask HN: What top notch stuff are you looking forward to from Apple this year?](https://news.ycombinator.com/item?id=29804176)
+- [Rainy Day on the Porch](https://www.youtube.com/watch?v=VvH9ziDUeys)
+- [US pay-TV drops another 637,000 subs in Q3 2021](https://www.lightreading.com/video-media/us-pay-tv-drops-another-637000-subs-in-q3-2021/d/d-id/774357)
+- [Five predictions for Bitcoin, NFTs and the future of money](https://www.cnet.com/personal-finance/crypto/5-predictions-for-bitcoin-nfts-and-the-future-of-money/)
+- [Garmin Venu 2 Plus gets a key missing feature](https://www.cnet.com/tech/mobile/garmin-venu-2-plus-gets-key-missing-feature-im-surprised-how-useful-it-is-ces-2022/)
+- [We are living in JG Ballard’s world &lpar;2020&rpar;](https://www.newstatesman.com/uncategorized/2020/04/why-we-are-living-jg-ballard-s-world)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

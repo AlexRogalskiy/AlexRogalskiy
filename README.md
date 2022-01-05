@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to bookmark Safari Tab groups &lpar;and other bookmark tips&rpar;](https://www.computerworld.com/article/3646034/how-to-bookmark-safari-tab-groups-and-other-bookmark-tips.html#tk.rss_all)
+- [The open office floor plan: rethinking an awful idea](https://www.computerworld.com/article/3646089/the-open-office-floor-plan-re-thinking-an-awful-idea.html#tk.rss_all)
+- [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
 - [When biometrics can be outsmarted this way, we need to talk](https://www.computerworld.com/article/3646129/when-biometrics-can-be-outsmarted-this-way-we-need-to-talk.html#tk.rss_all)
 - [New Windows 11 device? Want to downgrade to 10? You&#39;ve got options](https://www.computerworld.com/article/3646191/new-windows-11-device-want-to-downgrade-to-10-youve-got-options.html#tk.rss_all)
 - [3 big workplace changes to expect in ‘22](https://www.computerworld.com/article/3645710/3-big-workplace-changes-to-expect-in-22.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Why are your IT people so miserable? Log4j2itis](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html#tk.rss_all)
 - [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
 - [You can safely ignore Web3](https://www.computerworld.com/article/3645691/you-can-safely-ignore-web3.html#tk.rss_all)
-- [26 time-saving tips for the Chrome Android browser](https://www.computerworld.com/article/2975137/26-time-saving-tips-for-the-chrome-android-browser.html#tk.rss_all)
-- [14 tech luminaries we lost in 2021](https://www.computerworld.com/article/3644496/tech-luminaries-we-lost-in-2021.html#tk.rss_all)
-- [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

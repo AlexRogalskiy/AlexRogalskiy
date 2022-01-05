@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: Chinese city puts 1.3 million in strict lockdown over three asymptomatic cases](https://www.theguardian.com/world/live/2022/jan/04/covid-live-news-chinese-city-puts-13-million-in-strict-lockdown-over-three-asymptomatic-cases)
-- [Elizabeth Holmes trial: jury finds Theranos founder guilty on four fraud counts](https://www.theguardian.com/technology/2022/jan/03/elizabeth-holmes-trial-jury-finds-theranos-founder-guilty-on-four-counts)
-- [US Congress reports unprecedented surge in Covid-19 cases – as it happened](https://www.theguardian.com/us-news/live/2022/jan/03/us-politics-democrats-voting-rights-protections-bill-senate-latest-news)
-- [UK house sales to first-time buyers reach highest for 19 years](https://www.theguardian.com/money/2022/jan/04/uk-house-sales-first-time-buyers-highest-nearly-20-years)
-- [Calls for safe routes to UK as arrivals by small boat treble in a year](https://www.theguardian.com/uk-news/2022/jan/04/calls-for-safe-routes-to-uk-as-arrivals-by-small-boat-treble-in-a-year)
-- [UK government extends powers to intervene in foreign takeovers](https://www.theguardian.com/business/2022/jan/04/uk-government-extends-powers-to-intervene-in-foreign-takeovers)
-- [Adele and Sheeran top sales charts but UK is buoyed in 2021 by Abba and Queen](https://www.theguardian.com/business/2022/jan/04/adele-sheeran-abba-queen-2021-sales-streaming-top-10-albums)
-- [Peter Wright edges out Smith to win second PDC world championship](https://www.theguardian.com/sport/2022/jan/03/peter-wright-edges-out-michael-smith-to-secure-second-world-darts-title)
-- [Canadian court awards $107m to families of Iran plane crash victims](https://www.theguardian.com/world/2022/jan/03/canada-iran-plane-crash-victims-families-court)
-- [Keir Starmer to unveil plan to build on Labour’s poll lead momentum](https://www.theguardian.com/politics/2022/jan/03/keir-starmer-to-unveil-plan-to-build-on-labours-poll-lead-momentum)
+- [Ashes 2021-22 fourth Test, day one: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/05/ashes-2021-22-fourth-test-day-one-australia-v-england-live)
+- [Covid news live: Rio de Janeiro cancels Carnival parade for second year; Delhi imposes weekend curfew](https://www.theguardian.com/world/live/2022/jan/05/covid-news-live-delhi-imposes-weekend-curfew-macron-limits-social-life-for-unvaccinated-in-france)
+- [Bangladesh seal historic upset to end New Zealand’s unbeaten home Test run](https://www.theguardian.com/sport/2022/jan/05/cricket-new-zealand-bangladesh-first-test-report)
+- [Thousands of Rohingya shops demolished in Bangladesh, leaving refugees desperate](https://www.theguardian.com/world/2022/jan/05/thousands-of-rohingya-shops-demolished-in-bangladesh-leaving-refugees-desperate)
+- [‘Thematically richer than the Bible’: what I learned at the first annual Boss Baby symposium](https://www.theguardian.com/culture/2022/jan/05/thematically-richer-than-the-bible-what-i-learned-at-the-first-annual-boss-baby-symposium)
+- [Philadelphia QB Jalen Hurts urges NFL to act over Washington barrier collapse](https://www.theguardian.com/sport/2022/jan/05/philadelphias-jalen-hurts-writes-to-nfl-washington-barrier-collapse)
+- [‘Appalling message’: outrage over Novak Djokovic’s medical exemption to play Australian Open](https://www.theguardian.com/sport/2022/jan/05/appalling-message-outrage-over-novak-djokovics-medical-exemption-to-play-australian-open)
+- [Blood test could help detect cancer in people with nonspecific symptoms](https://www.theguardian.com/society/2022/jan/05/blood-test-could-help-detect-cancer-in-people-with-nonspecific-symptoms)
+- [North Korea has launched possible ballistic missile, say Japan and South Korea](https://www.theguardian.com/world/2022/jan/05/north-korea-missile-launch-japan)
+- [All motorists stuck on Virginia highway rescued, say transportation authorities](https://www.theguardian.com/us-news/2022/jan/04/virginia-motorists-stranded-overnight-freezing-temperatures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

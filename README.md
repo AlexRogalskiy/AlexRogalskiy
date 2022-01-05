@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Digital Trends in 2022: What You Need to Know](https://www.informationweek.com/software/digital-trends-in-2022-what-you-need-to-know)
+- [5 Cyber Resilience Lessons We Re-Learned in 2021 &lpar;But Will Probably Forget&rpar;](https://www.informationweek.com/security-and-risk-strategy/5-cyber-resilience-lessons-we-re-learned-in-2021-but-will-probably-forget-)
+- [DevOps or DevOops?](https://www.informationweek.com/devops/devops-or-devoops-)
+- [Work From Home: A Year in Review](https://www.informationweek.com/it-life/work-from-home-a-year-in-review)
 - [Reliance on Cloud Requires Greater Resilience Among Providers](https://www.informationweek.com/cloud/reliance-on-cloud-requires-greater-resilience-among-providers)
 - [Combating Ransomware for a New Era of Work](https://www.informationweek.com/security-and-risk-strategy/combating-ransomware-for-a-new-era-of-work)
 - [The IT Backlog in the Age of DevOps](https://www.informationweek.com/devops/the-it-backlog-in-the-age-of-devops)
 - [Will the Democratization of Technology Accelerate Progress in AI?](https://www.informationweek.com/big-data/will-the-democratization-of-technology-accelerate-progress-in-ai-)
 - [December 2021 Global Tech Policy Briefing](https://www.informationweek.com/government/december-2021-global-tech-policy-briefing)
 - [Steal These Use Cases: 2021&#39;s Technology Wins in the Enterprise](https://www.informationweek.com/strategic-cio/steal-these-use-cases-2021-s-technology-wins-in-the-enterprise)
-- [What to Expect at CES 2022: The Human Side of Innovation](https://www.informationweek.com/it-life/what-to-expect-at-ces-2022-the-human-side-of-innovation)
-- [Tech Briefing: A CIO Primer on Key Emerging Technologies](https://www.informationweek.com/strategic-cio/tech-briefing-a-cio-primer-on-key-emerging-technologies)
-- [What Do Scuba Diving and Digital Transformation Have in Common?](https://www.informationweek.com/strategic-cio/what-do-scuba-diving-and-digital-transformation-have-in-common-)
-- [Will Autonomous Vehicle Makers Get Back into Gear in 2022?](https://www.informationweek.com/ai-or-machine-learning/will-autonomous-vehicle-makers-get-back-into-gear-in-2022-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

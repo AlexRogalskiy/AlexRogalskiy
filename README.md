@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22 fourth Test, day one: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/05/ashes-2021-22-fourth-test-day-one-australia-v-england-live)
-- [Covid news live: Rio de Janeiro cancels Carnival parade for second year; Delhi imposes weekend curfew](https://www.theguardian.com/world/live/2022/jan/05/covid-news-live-delhi-imposes-weekend-curfew-macron-limits-social-life-for-unvaccinated-in-france)
-- [Bangladesh seal historic upset to end New Zealand’s unbeaten home Test run](https://www.theguardian.com/sport/2022/jan/05/cricket-new-zealand-bangladesh-first-test-report)
-- [Thousands of Rohingya shops demolished in Bangladesh, leaving refugees desperate](https://www.theguardian.com/world/2022/jan/05/thousands-of-rohingya-shops-demolished-in-bangladesh-leaving-refugees-desperate)
-- [‘Thematically richer than the Bible’: what I learned at the first annual Boss Baby symposium](https://www.theguardian.com/culture/2022/jan/05/thematically-richer-than-the-bible-what-i-learned-at-the-first-annual-boss-baby-symposium)
-- [Philadelphia QB Jalen Hurts urges NFL to act over Washington barrier collapse](https://www.theguardian.com/sport/2022/jan/05/philadelphias-jalen-hurts-writes-to-nfl-washington-barrier-collapse)
-- [‘Appalling message’: outrage over Novak Djokovic’s medical exemption to play Australian Open](https://www.theguardian.com/sport/2022/jan/05/appalling-message-outrage-over-novak-djokovics-medical-exemption-to-play-australian-open)
-- [Blood test could help detect cancer in people with nonspecific symptoms](https://www.theguardian.com/society/2022/jan/05/blood-test-could-help-detect-cancer-in-people-with-nonspecific-symptoms)
-- [North Korea has launched possible ballistic missile, say Japan and South Korea](https://www.theguardian.com/world/2022/jan/05/north-korea-missile-launch-japan)
-- [All motorists stuck on Virginia highway rescued, say transportation authorities](https://www.theguardian.com/us-news/2022/jan/04/virginia-motorists-stranded-overnight-freezing-temperatures)
+- [Ashes 2021-22 fourth Test, day two: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/06/ashes-2021-22-fourth-test-day-two-australia-v-england-live)
+- [Covid live news: Pfizer expects clinical data for under 5s in April; Italy to mandate vaccines for over 50s](https://www.theguardian.com/world/live/2022/jan/06/covid-live-news-pfizer-expects-clinical-data-for-under-5s-in-april-italy-to-mandate-vaccines-for-over-50s)
+- [Biden to blame Trump for ‘chaos and carnage’ of 6 January attack – as it happened](https://www.theguardian.com/us-news/live/2022/jan/05/trump-republicans-capitol-attack-anniversary-live-politics-latest)
+- [Lost in the storm: Novak Djokovic sees Australian Open dreams blown away | Tumaini Carayol](https://www.theguardian.com/sport/2022/jan/05/novak-djokovic-flies-into-australian-open-vaccination-storm)
+- [Carmakers report booming UK sales of electric vehicles](https://www.theguardian.com/environment/2022/jan/06/uk-carmakers-report-booming-sales-of-electric-vehicles)
+- [PinkPantheress tops stardom-predicting BBC Sound of … poll](https://www.theguardian.com/music/2022/jan/06/pinkpantheress-tops-stardom-predicting-bbc-sound-of-poll)
+- [Buy now, pay later customers unaware of debt risks, warns Which?](https://www.theguardian.com/money/2022/jan/06/buy-now-pay-later-customers-unaware-of-debt-risks-warns-which)
+- [Human remains found near suspected origin of Colorado wildfire](https://www.theguardian.com/us-news/2022/jan/05/colorado-wildfire-human-remains-marshall-fire)
+- [‘An important gap’: Conte admits Chelsea are much stronger than Spurs](https://www.theguardian.com/football/2022/jan/05/antonio-conte-admits-there-is-no-comparison-between-chelsea-and-spurs)
+- [Jacob Rees-Mogg urges Rishi Sunak to ditch impending tax rises](https://www.theguardian.com/politics/2022/jan/05/boris-johnson-and-angela-rayner-clash-at-pmqs-over-energy-prices-and-inflation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

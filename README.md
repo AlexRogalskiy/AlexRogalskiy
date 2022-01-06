@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Prediction Framework addresses data pipeline drudgery](https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html#tk.rss_all)
+- [Take advantage of .NET 6 on Microsoft Azure](https://www.infoworld.com/article/3646135/take-advantage-of-net-6-on-microsoft-azure.html#tk.rss_all)
+- [Review: Nvidia AI Enterprise shines on VMware](https://www.infoworld.com/article/3643668/review-nvidia-ai-enterprise-shines-on-vmware.html#tk.rss_all)
 - [Python nabs programming language of the year honors](https://www.infoworld.com/article/3646136/python-nabs-programming-language-of-the-year-honors.html#tk.rss_all)
 - [2022: The year of software supply chain security](https://www.infoworld.com/article/3646231/2022-the-year-of-software-supply-chain-security.html#tk.rss_all)
 - [Using the cloud to automate home building](https://www.infoworld.com/article/3646192/using-the-cloud-to-automate-home-building.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [8 steps to better DNS](https://www.infoworld.com/article/3646130/8-steps-to-better-dns.html#tk.rss_all)
 - [Is Amazon Alexa a success?](https://www.infoworld.com/article/3646128/is-amazon-alexa-a-success.html#tk.rss_all)
 - [Virtual whiteboards prove vital for remote developer teams](https://www.infoworld.com/article/3645708/virtual-whiteboards-prove-vital-for-remote-developer-teams.html#tk.rss_all)
-- [What most cloud-using CIOs want in 2022](https://www.infoworld.com/article/3645138/what-most-cloud-using-cios-want-in-2022.html#tk.rss_all)
-- [How no-code, reusable AI will bridge the AI divide](https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html#tk.rss_all)
-- [What app developers need to do now to fight Log4j exploits](https://www.infoworld.com/article/3645908/what-app-developers-need-to-do-now-to-fight-log4j-exploits.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

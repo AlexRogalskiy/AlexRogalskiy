@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problems with PCE AX58BT](https://www.reddit.com/r/InformationTechnology/comments/rwz2aj/problems_with_pce_ax58bt/)
+- [BSOD issue with Windows 11 apparently caused by Intel SST Driver](https://www.reddit.com/r/InformationTechnology/comments/rww4jj/bsod_issue_with_windows_11_apparently_caused_by/)
+- [Automating Onboarding Emails](https://www.reddit.com/r/InformationTechnology/comments/rwrpq7/automating_onboarding_emails/)
+- [Sustainability applied to digital preservation](https://www.reddit.com/r/InformationTechnology/comments/rwra20/sustainability_applied_to_digital_preservation/)
+- [2020 M1 Macbook Air showing wrong date and time.](https://www.reddit.com/r/InformationTechnology/comments/rwp4v2/2020_m1_macbook_air_showing_wrong_date_and_time/)
+- [Entry level jobs](https://www.reddit.com/r/InformationTechnology/comments/rwhijf/entry_level_jobs/)
 - [Information technology competitive jobs](https://www.reddit.com/r/InformationTechnology/comments/rwbqxb/information_technology_competitive_jobs/)
 - [VPN into office server](https://www.reddit.com/r/InformationTechnology/comments/rw1wkb/vpn_into_office_server/)
 - [What would be a good &#39;foundational skillset&#39; for an aspiring UI developer?](https://www.reddit.com/r/InformationTechnology/comments/rvmxkj/what_would_be_a_good_foundational_skillset_for_an/)
 - [Looking for advice, any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/rv84rn/looking_for_advice_any_help_appreciated/)
-- [New to Industry, Looking for Guidance](https://www.reddit.com/r/InformationTechnology/comments/ru149a/new_to_industry_looking_for_guidance/)
-- [What would be your approach to securing a smart home filled with smart bulbs?](https://www.reddit.com/r/InformationTechnology/comments/rtix72/what_would_be_your_approach_to_securing_a_smart/)
-- [League of Legends publisher Riot Games settles discrimination lawsuit for $100 million](https://www.reddit.com/r/InformationTechnology/comments/rthu5i/league_of_legends_publisher_riot_games_settles/)
-- [Network Types Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/rthlvo/network_types_explained_comptia_network_n10008/)
-- [Sick of this field, sick of Help Desk, crap pay, lack of opportunity, and sexism.](https://www.reddit.com/r/InformationTechnology/comments/rszmo8/sick_of_this_field_sick_of_help_desk_crap_pay/)
-- [Telegram adds message reactions, bigger emoji animations, and more in the latest update](https://www.reddit.com/r/InformationTechnology/comments/rsogxn/telegram_adds_message_reactions_bigger_emoji/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

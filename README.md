@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Judges to decide whether Assange can appeal against extradition as he reaches 1,000 days in jail](https://www.computerweekly.com/news/252511633/Judges-to-decide-whether-Assange-can-appeal-against-extradition-as-he-reaches-1000-days-in-jail)
+- [Lifelong learning critical for tech’s future – Jacqueline de Rojas](https://www.computerweekly.com/video/Lifelong-learning-critical-for-techs-future-Jacqueline-de-Rojas)
+- [Google buys Siemplify in first phase of cyber investment](https://www.computerweekly.com/news/252511615/Google-buys-Siemplify-in-first-phase-of-cyber-investment)
+- [Fintech players get cozy in Luxembourg](https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg)
+- [NHS App exceeds 22 million user mark](https://www.computerweekly.com/news/252511600/NHS-App-exceeds-22-million-user-mark)
 - [Law passes to give UK government enhanced screening powers for M&amp;A tech deals](https://www.computerweekly.com/news/252511559/Law-passes-to-give-UK-government-enhanced-screening-powers-for-MA-tech-deals)
 - [Inclusion, tech and the pandemic – Bev White](https://www.computerweekly.com/video/Inclusion-tech-and-the-pandemic-Bev-White)
 - [Tech talent is critical  - Amali de Alwis](https://www.computerweekly.com/video/Tech-talent-is-critical-Amali-de-Alwis)
 - [Admins warned that Exchange date fix will take time to roll out](https://www.computerweekly.com/news/252511545/Admins-warned-that-Exchange-date-fix-will-take-time-to-roll-out)
 - [Top 10 crime, national security and law stories of 2021](https://www.computerweekly.com/news/252511110/Top-10-crime-national-security-and-law-stories-of-2021)
-- [Top 10 startup stories of 2021](https://www.computerweekly.com/news/252510994/Top-10-startup-stories-of-2021)
-- [Top 10 Computer Weekly Downtime Upload podcasts of 2021](https://www.computerweekly.com/news/252511287/Top-10-Computer-Weekly-Downtime-Upload-podcasts-of-2021)
-- [Top 10 information management stories of 2021](https://www.computerweekly.com/news/252511129/Top-10-information-management-stories-of-2021)
-- [Top 10 IT careers and skills stories of 2021](https://www.computerweekly.com/news/252510787/Top-10-IT-careers-and-skills-stories-of-2021)
-- [Top 10 technology and ethics stories of 2021](https://www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

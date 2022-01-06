@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple Maps aims at business with Snapshots for email, web](https://www.computerworld.com/article/3646257/apple-maps-aims-at-business-with-snapshots-for-email-web.html#tk.rss_all)
+- [7 smart steps to get your Android phone in tip-top shape for 2022](https://www.computerworld.com/article/3602552/android-phone-2022.html#tk.rss_all)
+- [How Gmail filters can help organize your inbox](https://www.computerworld.com/article/3440520/how-gmail-filters-can-help-organize-your-inbox.html#tk.rss_all)
 - [How to bookmark Safari Tab groups &lpar;and other bookmark tips&rpar;](https://www.computerworld.com/article/3646034/how-to-bookmark-safari-tab-groups-and-other-bookmark-tips.html#tk.rss_all)
 - [The open office floor plan: rethinking an awful idea](https://www.computerworld.com/article/3646089/the-open-office-floor-plan-re-thinking-an-awful-idea.html#tk.rss_all)
 - [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [New Windows 11 device? Want to downgrade to 10? You&#39;ve got options](https://www.computerworld.com/article/3646191/new-windows-11-device-want-to-downgrade-to-10-youve-got-options.html#tk.rss_all)
 - [3 big workplace changes to expect in ‘22](https://www.computerworld.com/article/3645710/3-big-workplace-changes-to-expect-in-22.html#tk.rss_all)
 - [For Hackensack Meridian Health CIO, a year of change](https://www.computerworld.com/article/3645671/for-hackensack-meridian-health-cio-a-year-of-change.html#tk.rss_all)
-- [Why are your IT people so miserable? Log4j2itis](https://www.computerworld.com/article/3645709/why-are-your-it-people-so-miserable-log4j2itis.html#tk.rss_all)
-- [Chrome OS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
-- [You can safely ignore Web3](https://www.computerworld.com/article/3645691/you-can-safely-ignore-web3.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

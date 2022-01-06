@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CES 2022: Lenovo’s new ThinkBook Plus has a display in the keyboard](https://www.itworldcanada.com/article/embargo-jan-5-11amlenovos-new-thinkbook-laptop-has-a-display-in-the-palm-rest/469518)
+- [CES 2022: Lenovo launches refreshed ThinkPad X1 series laptops](https://www.itworldcanada.com/article/ces-2022-lenovo-launches-refreshed-thinkpad-x1-series-laptops/469576)
+- [Canadian heavy equipment maker confirms cyber attack by Karakurt](https://www.itworldcanada.com/article/canadian-heavy-equipment-maker-confirms-cyber-attack-by-karakurt/469984)
+- [Cyber Security Today, Jan. 5, 2022 – The year starts with confirmation of more data breaches](https://www.itworldcanada.com/article/cyber-security-today-jan-5-2022-the-year-starts-with-confirmation-of-more-data-breaches/469946)
+- [Hashtag Trending Jan. 5 – Holmes found guilty; Apple hits $3 trillion; Internal combustion engines](https://www.itworldcanada.com/article/hashtag-trending-jan-5-holmes-found-guilty-apple-hits-3-trillion-internal-combustion-engines/469980)
+- [CES 2022: Intel 12th gen ‘Alder Lake’ processors arrive in mobile platforms](https://www.itworldcanada.com/article/ces-2022-intel-12th-gen-alder-lake-processors-arrive-in-mobile-platforms/469960)
 - [Coffee Briefing Jan. 4, 2022 – accessibility maps; airlines request 5G delay; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-4-2022-accessibility-maps-airlines-request-5g-delay-and-more/469892)
 - [Montreal tourism agency confirms cyber attack](https://www.itworldcanada.com/article/montreal-tourism-agency-confirms-cyber-attack/469873)
 - [CES 2022: Lenovo announces ThinkPad Z Series laptops](https://www.itworldcanada.com/article/ces-2022-lenovo-announces-thinkpad-z-series-laptops/469506)
 - [Hashtag Trending Jan. 4 – Germany wants to stop data retention; China freezes game licenses; the end of BlackBerry](https://www.itworldcanada.com/article/hashtag-trending-jan-4-germany-wants-to-stop-data-retention-china-freezes-game-licenses-the-end-of-blackberry/469757)
-- [Samsung announces Galaxy S21 FE 5G smartphone](https://www.itworldcanada.com/article/samsung-announces-galaxy-s21-fe-5g-smartphone/469637)
-- [Five interesting tech innovations at CES 2022](https://www.itworldcanada.com/article/five-interesting-tech-innovations-at-ces-2022/469606)
-- [Microsoft rushes fix for Exchange ‘year 2022’ bug that blocks email](https://www.itworldcanada.com/article/microsoft-rushes-fix-for-exchange-year-2022-bug-that-blocks-email/469680)
-- [Cyber Security Today, January 3, 2022 – New Year Resolutions](https://www.itworldcanada.com/article/cyber-security-today-january-3-2022-new-year-resolutions/469284)
-- [Hashtag Trending Jan. 3 – Starlink for school; illegal crypto mining crackdown; Twitter bans U.S. politician](https://www.itworldcanada.com/article/hashtag-trending-jan-3-starlink-for-school-illegal-crypto-mining-crackdown-twitter-bans-u-s-politician/469677)
-- [Predictions for 2022 by cybersecurity vendors](https://www.itworldcanada.com/article/predictions-for-2022-by-cybersecurity-vendors/469040)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

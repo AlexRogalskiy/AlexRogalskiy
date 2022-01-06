@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Python Type Hints – How to Handle Optional Imports – Adam Johnson](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
-- [Where have you gone, Peter Norton? &lpar;2014&rpar;](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
-- [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
-- [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
-- [Archaeological dig reignites debate over the Old Testament’s historical accuracy](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
-- [A bit about PURLs](https://inkdroid.org/2021/12/16/purl/)
-- [Hudu &lpar;YC W21&rpar; Is Hiring a JavaScript Engineer](https://www.ycombinator.com/companies/hudu/jobs/2L2oFZn-javascript-engineer-at-hudu)
-- [A neuroscientist prepares for death](https://www.theatlantic.com/ideas/archive/2021/12/terminal-cancer-neuroscientist-prepares-death/621114/)
-- [The UX on this small child is terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible)
-- [Upgrading Executable on the Fly](https://nginx.org/en/docs/control.html#upgrade)
+- [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
+- [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
+- [Staggering stat: 87% of U.S. teenagers have iPhones](https://www.axios.com/teen-iphone-use-spending-habits-bc2e598e-303d-4024-8db8-c345b1415ad4.html)
+- [GitHub Successors](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
+- [Facebook collecting people&#39;s data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
+- [You Don&#39;t Need a Mentor–Find a Nemesis Instead](https://tedgioia.substack.com/p/you-dont-need-a-mentorfind-a-nemesis)
+- [Restricting SSH Agent Keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
+- [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
+- [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+- [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

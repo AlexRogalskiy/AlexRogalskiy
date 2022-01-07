@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hedgehogs Are a Source of Drug-Resistant Bacteria, Study Finds](https://www.nytimes.com/2022/01/05/science/hedgehog-mrsa-drug-resistant-bacteria.html)
-- [Why Creativity Thrives in the Dark](https://www.fastcompany.com/3020888/why-creativity-thrives-in-the-dark)
-- [Positioning: A strategic focus to win the market](https://www.growthlog.co/issues/positioning-a-strategic-focus-to-win-the-market-490367)
-- [Gary V&#39;s new NFT restaurant](https://www.milkroad.xyz/p/gary-vees-new-nft-restaurant)
-- [Show HN: Questmate, setup and assign recurring task lists for yourself and team](https://www.questmate.com)
-- [Automatic Plant Watering Device](https://community.dfrobot.com/makelog-312178.html)
-- [Why I&#39;m not using Mozilla Firefox?](https://news.ycombinator.com/item?id=29818293)
-- [BMW Debuts its New Color-Changing E-Ink Paint](https://www.theverge.com/2022/1/5/22867090/bmw-color-changing-paint-electric-car-ces)
-- [Seattle police faked radio chatter about Proud Boys during 2020 protests](https://www.seattletimes.com/seattle-news/politics/seattle-police-improperly-faked-radio-chatter-about-proud-boys-as-chop-formed-in-2020-investigation-finds/)
-- [The Fish Is Driving Again](https://techcrunch.com/2022/01/03/the-fish-is-driving-again/)
+- [The Order of Instagram Followers and Likes Explained](https://socialbuddy.com/order-of-instagram-followers-and-likes-explained/)
+- [Sound the bell at the start of each garbage collection](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/runtime_control.html#rts-flag--B)
+- [Celebrity fascination tied to lower intelligence](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-021-00679-3)
+- [My Favorite Liar](https://zenmoments.org/my-favorite-liar/)
+- [Why Fortran is easy to learn](https://craftofcoding.wordpress.com/2022/01/05/why-fortran-is-easy-to-learn/)
+- [Cyber Command Task Force Conducted Its First Offensive Operation](https://www.thedrive.com/the-war-zone/43776/cyber-command-task-force-conducted-its-first-offensive-operation-as-defense-secretary-watched)
+- [Raspberry Pi Stock](https://news.ycombinator.com/item?id=29833952)
+- [5G and Aviation Safety – Federal Aviation Administration](https://www.faa.gov/5g)
+- [Paul Pignon Interview &lpar;Radio Belgrade Electronic Music Studio&rpar;[video]](https://www.youtube.com/watch?v=JtG2BM-KE_k)
+- [T.S. Eliot was flawed, but a new book reminds of his greatness on the page](https://www.washingtonpost.com/books/2022/01/05/ts-eliot-may-have-been-flawed-new-book-reminds-his-greatness-page/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft previews Git improvements for Visual Studio](https://www.infoworld.com/article/3646588/microsoft-previews-git-improvements-for-visual-studio.html#tk.rss_all)
+- [A simple automated build pipeline for Node.js](https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html#tk.rss_all)
+- [Demystifying the Program and Startup classes in ASP.NET Core](https://www.infoworld.com/article/3646098/demystifying-the-program-and-startup-classes-in-aspnet-core.html#tk.rss_all)
 - [Google Prediction Framework addresses data pipeline drudgery](https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html#tk.rss_all)
 - [Take advantage of .NET 6 on Microsoft Azure](https://www.infoworld.com/article/3646135/take-advantage-of-net-6-on-microsoft-azure.html#tk.rss_all)
 - [Review: Nvidia AI Enterprise shines on VMware](https://www.infoworld.com/article/3643668/review-nvidia-ai-enterprise-shines-on-vmware.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [2022: The year of software supply chain security](https://www.infoworld.com/article/3646231/2022-the-year-of-software-supply-chain-security.html#tk.rss_all)
 - [Using the cloud to automate home building](https://www.infoworld.com/article/3646192/using-the-cloud-to-automate-home-building.html#tk.rss_all)
 - [Project Valhalla tees up Java object model improvements](https://www.infoworld.com/article/3646092/project-valhalla-tees-up-java-object-model-improvements.html#tk.rss_all)
-- [8 steps to better DNS](https://www.infoworld.com/article/3646130/8-steps-to-better-dns.html#tk.rss_all)
-- [Is Amazon Alexa a success?](https://www.infoworld.com/article/3646128/is-amazon-alexa-a-success.html#tk.rss_all)
-- [Virtual whiteboards prove vital for remote developer teams](https://www.infoworld.com/article/3645708/virtual-whiteboards-prove-vital-for-remote-developer-teams.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

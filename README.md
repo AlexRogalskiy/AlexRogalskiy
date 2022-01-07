@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22 fourth Test, day two: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/06/ashes-2021-22-fourth-test-day-two-australia-v-england-live)
-- [Covid live news: Pfizer expects clinical data for under 5s in April; Italy to mandate vaccines for over 50s](https://www.theguardian.com/world/live/2022/jan/06/covid-live-news-pfizer-expects-clinical-data-for-under-5s-in-april-italy-to-mandate-vaccines-for-over-50s)
-- [Biden to blame Trump for ‘chaos and carnage’ of 6 January attack – as it happened](https://www.theguardian.com/us-news/live/2022/jan/05/trump-republicans-capitol-attack-anniversary-live-politics-latest)
-- [Lost in the storm: Novak Djokovic sees Australian Open dreams blown away | Tumaini Carayol](https://www.theguardian.com/sport/2022/jan/05/novak-djokovic-flies-into-australian-open-vaccination-storm)
-- [Carmakers report booming UK sales of electric vehicles](https://www.theguardian.com/environment/2022/jan/06/uk-carmakers-report-booming-sales-of-electric-vehicles)
-- [PinkPantheress tops stardom-predicting BBC Sound of … poll](https://www.theguardian.com/music/2022/jan/06/pinkpantheress-tops-stardom-predicting-bbc-sound-of-poll)
-- [Buy now, pay later customers unaware of debt risks, warns Which?](https://www.theguardian.com/money/2022/jan/06/buy-now-pay-later-customers-unaware-of-debt-risks-warns-which)
-- [Human remains found near suspected origin of Colorado wildfire](https://www.theguardian.com/us-news/2022/jan/05/colorado-wildfire-human-remains-marshall-fire)
-- [‘An important gap’: Conte admits Chelsea are much stronger than Spurs](https://www.theguardian.com/football/2022/jan/05/antonio-conte-admits-there-is-no-comparison-between-chelsea-and-spurs)
-- [Jacob Rees-Mogg urges Rishi Sunak to ditch impending tax rises](https://www.theguardian.com/politics/2022/jan/05/boris-johnson-and-angela-rayner-clash-at-pmqs-over-energy-prices-and-inflation)
+- [Ashes 2021-22 fourth Test, day three: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/07/ashes-2021-22-fourth-test-day-three-australia-v-england-live)
+- [Covid news live: Bolsonaro criticises plans to vaccinate young children as Brazil cases soar](https://www.theguardian.com/world/live/2022/jan/07/covid-news-live-bolsonaro-criticises-plans-to-vaccinate-young-children-as-brazil-cases-soar)
+- [Soldier’s second world war letter to his mother delivered after 76 years](https://www.theguardian.com/world/2022/jan/06/soldier-world-war-ii-letter-delivered-after-76-years)
+- [I had death threats and my tires slashed for my reporting. Many journalists in the Pacific face huge dangers | Joyce McClure](https://www.theguardian.com/world/commentisfree/2022/jan/07/i-had-death-threats-for-my-reporting-many-journalists-in-the-pacific-face-huge-dangers)
+- [Top CEOs to surpass average yearly UK pay after just four days](https://www.theguardian.com/business/2022/jan/07/ftse-bosses-pay-average-9am)
+- [Military deployed at London hospitals due to Omicron staff shortages](https://www.theguardian.com/world/2022/jan/07/military-deployed-at-london-hospitals-due-to-omicron-staff-shortages)
+- [‘High pay day’ falls a bit later this year – but FTSE bosses need not fear | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2022/jan/07/high-pay-day-ftse-ceo-pay)
+- [Self-sabotaging Novak Djokovic deserves criticism, but so do others in this sorry saga | Tumaini Carayol](https://www.theguardian.com/sport/2022/jan/06/self-sabotaging-novak-djokovic-deserves-criticism-but-so-do-others-australian-open-vaccine)
+- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/jan/07/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
+- [Novak Djokovic: refugees hope tennis star’s hotel detention will cast light on their ‘torture’](https://www.theguardian.com/australia-news/2022/jan/07/novak-djokovic-refugees-hope-tennis-stars-hotel-detention-will-cast-light-on-their-torture)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

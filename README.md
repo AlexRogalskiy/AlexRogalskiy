@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [No end in sight for the Great Resignation; workers keep quitting for better pay, benefits](https://www.computerworld.com/article/3646390/no-end-in-sight-for-the-great-resignation-workers-keep-quitting-for-better-pay-benefits.html#tk.rss_all)
+- [Podcast: Apple silicon transition could wrap up by summer 2022](https://www.computerworld.com/article/3646568/podcast-apple-silicon-transition-could-wrap-up-by-summer-2022.html#tk.rss_all)
+- [Microsoft Defender for Endpoint brings remote deployment to iOS](https://www.computerworld.com/article/3646508/microsoft-defender-for-endpoint-brings-remote-deployment-to-ios.html#tk.rss_all)
+- [Nvidia’s metaverse-based Nucleus Cloud could spur the evolution of collaboration](https://www.computerworld.com/article/3646410/nvidias-metaverse-based-nucleus-cloud-could-spur-the-evolution-of-collaboration.html#tk.rss_all)
+- [The rise of digital bosses: They can hire you — and fire you](https://www.computerworld.com/article/3646234/the-rise-of-ai-based-managers-they-now-play-a-big-role-in-hiring-training-and-firing.html#tk.rss_all)
 - [Apple Maps aims at business with Snapshots for email, web](https://www.computerworld.com/article/3646257/apple-maps-aims-at-business-with-snapshots-for-email-web.html#tk.rss_all)
 - [7 smart steps to get your Android phone in tip-top shape for 2022](https://www.computerworld.com/article/3602552/android-phone-2022.html#tk.rss_all)
 - [How Gmail filters can help organize your inbox](https://www.computerworld.com/article/3440520/how-gmail-filters-can-help-organize-your-inbox.html#tk.rss_all)
 - [How to bookmark Safari Tab groups &lpar;and other bookmark tips&rpar;](https://www.computerworld.com/article/3646034/how-to-bookmark-safari-tab-groups-and-other-bookmark-tips.html#tk.rss_all)
 - [The open office floor plan: rethinking an awful idea](https://www.computerworld.com/article/3646089/the-open-office-floor-plan-re-thinking-an-awful-idea.html#tk.rss_all)
-- [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
-- [When biometrics can be outsmarted this way, we need to talk](https://www.computerworld.com/article/3646129/when-biometrics-can-be-outsmarted-this-way-we-need-to-talk.html#tk.rss_all)
-- [New Windows 11 device? Want to downgrade to 10? You&#39;ve got options](https://www.computerworld.com/article/3646191/new-windows-11-device-want-to-downgrade-to-10-youve-got-options.html#tk.rss_all)
-- [3 big workplace changes to expect in ‘22](https://www.computerworld.com/article/3645710/3-big-workplace-changes-to-expect-in-22.html#tk.rss_all)
-- [For Hackensack Meridian Health CIO, a year of change](https://www.computerworld.com/article/3645671/for-hackensack-meridian-health-cio-a-year-of-change.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

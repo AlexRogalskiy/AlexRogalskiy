@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
-- [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
-- [Staggering stat: 87% of U.S. teenagers have iPhones](https://www.axios.com/teen-iphone-use-spending-habits-bc2e598e-303d-4024-8db8-c345b1415ad4.html)
-- [GitHub Successors](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
-- [Facebook collecting people&#39;s data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
-- [You Don&#39;t Need a Mentor–Find a Nemesis Instead](https://tedgioia.substack.com/p/you-dont-need-a-mentorfind-a-nemesis)
-- [Restricting SSH Agent Keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
-- [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
-- [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
-- [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss)
+- [Stripe is open-sourcing the Sorbet &lpar;Ruby&rpar; VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
+- [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
+- [Deep learning can’t be trusted, brain modelling pioneer says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
+- [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
+- [Quit Your Job](https://palladiummag.com/2022/01/06/quit-your-job/)
+- [DevCycle &lpar;YC W14&rpar; is looking for devs who want to build tools you&#39;d use yourself](https://devcycle.com/company/careers)
+- [Sonoma County farm strikes black truffle gold after 9 years of waiting](https://www.latimes.com/food/story/2021-12-23/geyserville-sonoma-county-black-perigord-truffle)
+- [How to quit like a boss](https://jmsbrdy.com/blog/leaving-spring/)
+- [Gitea Is Joining the Fediverse](https://social.gitea.io/@gitea/107576791626052697)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

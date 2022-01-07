@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AI’s Bumpy Road to Fruition](https://www.informationweek.com/big-data/ai-s-bumpy-road-to-fruition)
+- [Human-Robot Teams: The Next IT Management Challenge](https://www.informationweek.com/big-data/human-robot-teams-the-next-it-management-challenge)
+- [SD-WAN and SASE – Hype or Reality?](https://www.informationweek.com/cloud/sd-wan-and-sase-hype-or-reality)
 - [Chase CIO Gill Haus Discusses Recruitment, Agile, and Automation](https://www.informationweek.com/strategic-cio/chase-cio-gill-haus-discusses-recruitment-agile-and-automation)
 - [IT Job Skills 2022: What’s Hot, What’s Not?](https://www.informationweek.com/strategic-cio/it-job-skills-2022-what-s-hot-what-s-not-)
 - [Digital Trends in 2022: What You Need to Know](https://www.informationweek.com/software/digital-trends-in-2022-what-you-need-to-know)
@@ -376,9 +379,6 @@
 - [DevOps or DevOops?](https://www.informationweek.com/devops/devops-or-devoops-)
 - [Work From Home: A Year in Review](https://www.informationweek.com/it-life/work-from-home-a-year-in-review)
 - [Reliance on Cloud Requires Greater Resilience Among Providers](https://www.informationweek.com/cloud/reliance-on-cloud-requires-greater-resilience-among-providers)
-- [Combating Ransomware for a New Era of Work](https://www.informationweek.com/security-and-risk-strategy/combating-ransomware-for-a-new-era-of-work)
-- [The IT Backlog in the Age of DevOps](https://www.informationweek.com/devops/the-it-backlog-in-the-age-of-devops)
-- [Will the Democratization of Technology Accelerate Progress in AI?](https://www.informationweek.com/big-data/will-the-democratization-of-technology-accelerate-progress-in-ai-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

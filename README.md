@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Order of Instagram Followers and Likes Explained](https://socialbuddy.com/order-of-instagram-followers-and-likes-explained/)
-- [Sound the bell at the start of each garbage collection](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/runtime_control.html#rts-flag--B)
-- [Celebrity fascination tied to lower intelligence](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-021-00679-3)
-- [My Favorite Liar](https://zenmoments.org/my-favorite-liar/)
-- [Why Fortran is easy to learn](https://craftofcoding.wordpress.com/2022/01/05/why-fortran-is-easy-to-learn/)
-- [Cyber Command Task Force Conducted Its First Offensive Operation](https://www.thedrive.com/the-war-zone/43776/cyber-command-task-force-conducted-its-first-offensive-operation-as-defense-secretary-watched)
-- [Raspberry Pi Stock](https://news.ycombinator.com/item?id=29833952)
-- [5G and Aviation Safety – Federal Aviation Administration](https://www.faa.gov/5g)
-- [Paul Pignon Interview &lpar;Radio Belgrade Electronic Music Studio&rpar;[video]](https://www.youtube.com/watch?v=JtG2BM-KE_k)
-- [T.S. Eliot was flawed, but a new book reminds of his greatness on the page](https://www.washingtonpost.com/books/2022/01/05/ts-eliot-may-have-been-flawed-new-book-reminds-his-greatness-page/)
+- [Impact of the semiconductor shortage on Canon’s MFP consumable products](https://www.canon-europe.com/support/business-product-support/interim-toner/)
+- [Ask HN: How to calculate an API request price?](https://news.ycombinator.com/item?id=29847991)
+- [Cognitive Load Theory](https://www.scotthyoung.com/blog/2022/01/04/cognitive-load-theory/)
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
+- [What you didn&#39;t know about ropeways](https://www.youtube.com/watch?v=HhI_1Yi5CtQ)
+- [After 150 years, is the time finally right for deep-ocean mining?](https://spectrum.ieee.org/the-seabed-solution)
+- [No – Atlantis has not been found in northern Africa](https://theness.com/neurologicablog/index.php/no-atlantis-has-not-been-discovered-in-north-africa/)
+- [What went wrong:Omicron decimates airline workforces;not travelers desire to fly](https://www.wsj.com/articles/after-two-weeks-of-flight-cancellations-airlines-assess-what-went-wrong-11641551402)
+- [Falsehoods programmers believe about video](https://haasn.dev/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html)
+- [Intrepid Compact Film Enlarger](https://www.kickstarter.com/projects/1436129614/the-intrepid-compact-enlarger-print-and-scan-35mm-and-120)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

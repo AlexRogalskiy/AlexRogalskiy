@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
+- [Will Apple win trust in the metaverse &lpar;as it has in the real world&rpar;?](https://www.computerworld.com/article/3646414/will-apple-win-trust-in-the-metaverse-as-it-has-in-the-real-world.html#tk.rss_all)
+- [“Deskless” workers are finally getting their day in the sun](https://www.computerworld.com/article/3646370/deskless-workers-are-finally-getting-their-day-in-the-sun.html#tk.rss_all)
+- [Apple is sneaking around its own privacy policy — and will regret it](https://www.computerworld.com/article/3646190/apple-is-sneaking-around-its-own-privacy-policy-and-will-regret-it.html#tk.rss_all)
+- [11 tips for wicked-fast Chromebook web browsing](https://www.computerworld.com/article/3643288/time-saving-chromebook-browsing-tips.html#tk.rss_all)
 - [No end in sight for the Great Resignation; workers keep quitting for better pay, benefits](https://www.computerworld.com/article/3646390/no-end-in-sight-for-the-great-resignation-workers-keep-quitting-for-better-pay-benefits.html#tk.rss_all)
 - [Podcast: Apple silicon transition could wrap up by summer 2022](https://www.computerworld.com/article/3646568/podcast-apple-silicon-transition-could-wrap-up-by-summer-2022.html#tk.rss_all)
 - [Microsoft Defender for Endpoint brings remote deployment to iOS](https://www.computerworld.com/article/3646508/microsoft-defender-for-endpoint-brings-remote-deployment-to-ios.html#tk.rss_all)
-- [Nvidia’s metaverse-based Nucleus Cloud could spur the evolution of collaboration](https://www.computerworld.com/article/3646410/nvidias-metaverse-based-nucleus-cloud-could-spur-the-evolution-of-collaboration.html#tk.rss_all)
-- [The rise of digital bosses: They can hire you — and fire you](https://www.computerworld.com/article/3646234/the-rise-of-ai-based-managers-they-now-play-a-big-role-in-hiring-training-and-firing.html#tk.rss_all)
-- [Apple Maps aims at business with Snapshots for email, web](https://www.computerworld.com/article/3646257/apple-maps-aims-at-business-with-snapshots-for-email-web.html#tk.rss_all)
-- [7 smart steps to get your Android phone in tip-top shape for 2022](https://www.computerworld.com/article/3602552/android-phone-2022.html#tk.rss_all)
-- [How Gmail filters can help organize your inbox](https://www.computerworld.com/article/3440520/how-gmail-filters-can-help-organize-your-inbox.html#tk.rss_all)
-- [How to bookmark Safari Tab groups &lpar;and other bookmark tips&rpar;](https://www.computerworld.com/article/3646034/how-to-bookmark-safari-tab-groups-and-other-bookmark-tips.html#tk.rss_all)
-- [The open office floor plan: rethinking an awful idea](https://www.computerworld.com/article/3646089/the-open-office-floor-plan-re-thinking-an-awful-idea.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

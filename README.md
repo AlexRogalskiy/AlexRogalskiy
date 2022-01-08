@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stripe is open-sourcing the Sorbet &lpar;Ruby&rpar; VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
-- [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
-- [Deep learning can’t be trusted, brain modelling pioneer says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
-- [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
-- [Quit Your Job](https://palladiummag.com/2022/01/06/quit-your-job/)
-- [DevCycle &lpar;YC W14&rpar; is looking for devs who want to build tools you&#39;d use yourself](https://devcycle.com/company/careers)
-- [Sonoma County farm strikes black truffle gold after 9 years of waiting](https://www.latimes.com/food/story/2021-12-23/geyserville-sonoma-county-black-perigord-truffle)
-- [How to quit like a boss](https://jmsbrdy.com/blog/leaving-spring/)
-- [Gitea Is Joining the Fediverse](https://social.gitea.io/@gitea/107576791626052697)
+- [My 70 year old mother has been using Linux on the desktop for the past 21 years](https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html)
+- [Fixing the Unfixable: Story of a Google Cloud SSRF](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
+- [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
+- [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
+- [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
+- [Gambler’s Fallacy and the Regression to the Mean](https://theness.com/neurologicablog/index.php/gamblers-fallacy-and-the-regression-to-the-mean/)
+- [Why “process substitution” is a late feature in Unix shells](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate)
+- [My First Impressions of Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Sugar not so nice for your child’s brain development](https://news.uga.edu/sugar-not-so-nice-childs-brain-development/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

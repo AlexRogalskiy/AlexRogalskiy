@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22 fourth Test, day three: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/07/ashes-2021-22-fourth-test-day-three-australia-v-england-live)
-- [Covid news live: Bolsonaro criticises plans to vaccinate young children as Brazil cases soar](https://www.theguardian.com/world/live/2022/jan/07/covid-news-live-bolsonaro-criticises-plans-to-vaccinate-young-children-as-brazil-cases-soar)
-- [Soldier’s second world war letter to his mother delivered after 76 years](https://www.theguardian.com/world/2022/jan/06/soldier-world-war-ii-letter-delivered-after-76-years)
-- [I had death threats and my tires slashed for my reporting. Many journalists in the Pacific face huge dangers | Joyce McClure](https://www.theguardian.com/world/commentisfree/2022/jan/07/i-had-death-threats-for-my-reporting-many-journalists-in-the-pacific-face-huge-dangers)
-- [Top CEOs to surpass average yearly UK pay after just four days](https://www.theguardian.com/business/2022/jan/07/ftse-bosses-pay-average-9am)
-- [Military deployed at London hospitals due to Omicron staff shortages](https://www.theguardian.com/world/2022/jan/07/military-deployed-at-london-hospitals-due-to-omicron-staff-shortages)
-- [‘High pay day’ falls a bit later this year – but FTSE bosses need not fear | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2022/jan/07/high-pay-day-ftse-ceo-pay)
-- [Self-sabotaging Novak Djokovic deserves criticism, but so do others in this sorry saga | Tumaini Carayol](https://www.theguardian.com/sport/2022/jan/06/self-sabotaging-novak-djokovic-deserves-criticism-but-so-do-others-australian-open-vaccine)
-- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/jan/07/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
-- [Novak Djokovic: refugees hope tennis star’s hotel detention will cast light on their ‘torture’](https://www.theguardian.com/australia-news/2022/jan/07/novak-djokovic-refugees-hope-tennis-stars-hotel-detention-will-cast-light-on-their-torture)
+- [Ashes 2021-22 fourth Test, day four: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/08/ashes-2021-22-australia-vs-england-day-four-4-cricket-4th-fourth-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Biden addresses pandemic: ‘We’re going to be able to control this’ – as it happened](https://www.theguardian.com/us-news/live/2022/jan/07/us-politics-supreme-court-vaccine-mandate-biden-republicans-democrats-live-updates)
+- [Sister of murdered officer sues Facebook for radicalizing attackers](https://www.theguardian.com/technology/2022/jan/07/sister-murdered-officer-underwood-sues-facebook-attacker-radicalization)
+- [‘Sometimes people overstep the mark’: Bairstow hits back at abusive fans](https://www.theguardian.com/sport/2022/jan/07/jonny-bairstow-disappointed-abusive-fans-did-not-see-his-ashes-century)
+- [Owners of flats in smaller buildings to be spared cost of removing cladding](https://www.theguardian.com/society/2022/jan/07/owners-of-flats-in-smaller-buildings-to-be-spared-cost-of-removing-cladding)
+- [Bristol prove too strong for Sale in second half to end losing run](https://www.theguardian.com/sport/2022/jan/07/bristol-prove-too-strong-for-sale-in-second-half-to-end-losing-run)
+- [Arsenal will let Mikel Arteta spend but face battle to land Dusan Vlahovic](https://www.theguardian.com/football/2022/jan/07/arsenal-will-let-mikel-arteta-spend-but-face-battle-to-land-dusan-vlahovic)
+- [Cole Palmer leads Manchester City’s big guns past Swindon in FA Cup](https://www.theguardian.com/football/2022/jan/07/bernardo-silva-leads-manchester-citys-big-guns-past-swindon-in-fa-cup)
+- [A Discovery of Witches review – hide the sex and blood! The polite vampires are here!](https://www.theguardian.com/tv-and-radio/2022/jan/07/a-discovery-of-witches-review-hide-the-sex-and-blood-the-polite-vampires-are-here)
+- [Three white men sentenced to life in prison for Ahmaud Arbery’s murder](https://www.theguardian.com/us-news/2022/jan/07/ahmaud-arbery-murder-three-men-sentenced-life-in-prison)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

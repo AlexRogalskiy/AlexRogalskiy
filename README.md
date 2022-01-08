@@ -384,7 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Microsoft previews Git improvements for Visual Studio](https://www.infoworld.com/article/3646588/microsoft-previews-git-improvements-for-visual-studio.html#tk.rss_all)
+- [What is streaming data? Event stream processing explained](https://www.infoworld.com/article/3646589/what-is-streaming-data-event-stream-processing-explained.html#tk.rss_all)
+- [The real value of 5G and cloud computing](https://www.infoworld.com/article/3646251/the-real-value-of-5g-and-cloud-computing.html#tk.rss_all)
+- [Visual Studio 2022 update offers Git improvements](https://www.infoworld.com/article/3646588/visual-studio-2022-update-offers-git-improvements.html#tk.rss_all)
 - [A simple automated build pipeline for Node.js](https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html#tk.rss_all)
 - [Demystifying the Program and Startup classes in ASP.NET Core](https://www.infoworld.com/article/3646098/demystifying-the-program-and-startup-classes-in-aspnet-core.html#tk.rss_all)
 - [Google Prediction Framework addresses data pipeline drudgery](https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Review: Nvidia AI Enterprise shines on VMware](https://www.infoworld.com/article/3643668/review-nvidia-ai-enterprise-shines-on-vmware.html#tk.rss_all)
 - [Python nabs programming language of the year honors](https://www.infoworld.com/article/3646136/python-nabs-programming-language-of-the-year-honors.html#tk.rss_all)
 - [2022: The year of software supply chain security](https://www.infoworld.com/article/3646231/2022-the-year-of-software-supply-chain-security.html#tk.rss_all)
-- [Using the cloud to automate home building](https://www.infoworld.com/article/3646192/using-the-cloud-to-automate-home-building.html#tk.rss_all)
-- [Project Valhalla tees up Java object model improvements](https://www.infoworld.com/article/3646092/project-valhalla-tees-up-java-object-model-improvements.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

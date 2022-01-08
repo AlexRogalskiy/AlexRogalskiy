@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Abbott CEO Ford at CES Talks Democratizing COVID Testing](https://www.informationweek.com/healthcare/abbot-ceo-ford-at-ces-talks-democratizing-covid-testing)
+- [Entering the Cloud-First Race? Consider These 5 Things](https://www.informationweek.com/cloud/entering-the-cloud-first-race-consider-these-5-things)
+- [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.informationweek.com/cloud/which-cloud-strategy-is-right-for-my-organization-s-security-needs-)
 - [AI’s Bumpy Road to Fruition](https://www.informationweek.com/big-data/ai-s-bumpy-road-to-fruition)
 - [Human-Robot Teams: The Next IT Management Challenge](https://www.informationweek.com/big-data/human-robot-teams-the-next-it-management-challenge)
 - [SD-WAN and SASE – Hype or Reality?](https://www.informationweek.com/cloud/sd-wan-and-sase-hype-or-reality)
@@ -376,9 +379,6 @@
 - [IT Job Skills 2022: What’s Hot, What’s Not?](https://www.informationweek.com/strategic-cio/it-job-skills-2022-what-s-hot-what-s-not-)
 - [Digital Trends in 2022: What You Need to Know](https://www.informationweek.com/software/digital-trends-in-2022-what-you-need-to-know)
 - [5 Cyber Resilience Lessons We Re-Learned in 2021 &lpar;But Will Probably Forget&rpar;](https://www.informationweek.com/security-and-risk-strategy/5-cyber-resilience-lessons-we-re-learned-in-2021-but-will-probably-forget-)
-- [DevOps or DevOops?](https://www.informationweek.com/devops/devops-or-devoops-)
-- [Work From Home: A Year in Review](https://www.informationweek.com/it-life/work-from-home-a-year-in-review)
-- [Reliance on Cloud Requires Greater Resilience Among Providers](https://www.informationweek.com/cloud/reliance-on-cloud-requires-greater-resilience-among-providers)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

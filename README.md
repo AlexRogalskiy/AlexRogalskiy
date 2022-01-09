@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Judges to decide whether Assange can appeal against extradition as he reaches 1,000 days in jail](https://www.computerweekly.com/news/252511633/Judges-to-decide-whether-Assange-can-appeal-against-extradition-as-he-reaches-1000-days-in-jail)
-- [Lifelong learning critical for tech’s future – Jacqueline de Rojas](https://www.computerweekly.com/video/Lifelong-learning-critical-for-techs-future-Jacqueline-de-Rojas)
-- [Google buys Siemplify in first phase of cyber investment](https://www.computerweekly.com/news/252511615/Google-buys-Siemplify-in-first-phase-of-cyber-investment)
-- [Fintech players get cozy in Luxembourg](https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg)
-- [NHS App exceeds 22 million user mark](https://www.computerweekly.com/news/252511600/NHS-App-exceeds-22-million-user-mark)
-- [Law passes to give UK government enhanced screening powers for M&amp;A tech deals](https://www.computerweekly.com/news/252511559/Law-passes-to-give-UK-government-enhanced-screening-powers-for-MA-tech-deals)
-- [Inclusion, tech and the pandemic – Bev White](https://www.computerweekly.com/video/Inclusion-tech-and-the-pandemic-Bev-White)
-- [Tech talent is critical  - Amali de Alwis](https://www.computerweekly.com/video/Tech-talent-is-critical-Amali-de-Alwis)
-- [Admins warned that Exchange date fix will take time to roll out](https://www.computerweekly.com/news/252511545/Admins-warned-that-Exchange-date-fix-will-take-time-to-roll-out)
-- [Top 10 crime, national security and law stories of 2021](https://www.computerweekly.com/news/252511110/Top-10-crime-national-security-and-law-stories-of-2021)
+- [New supercomputer opens doors for researchers in Sweden](https://www.computerweekly.com/feature/New-supercomputer-opens-doors-for-researchers-in-Sweden)
+- [Sharp end of the edge: Managing micro-datacentres in a shared environment](https://www.computerweekly.com/feature/Sharp-end-of-the-edge-Managing-micro-datacentres-in-a-shared-environment)
+- [Avoid complexity in data storage decisions](https://www.computerweekly.com/opinion/Avoid-complexity-in-data-storage-decisions)
+- [Record amount invested in UK fintech last year, but female founders still overlooked](https://www.computerweekly.com/news/252511688/Record-amount-invested-in-UK-fintech-last-year-but-female-founders-still-overlooked)
+- [Accessible retail: Personalising the UX for disabled consumers](https://www.computerweekly.com/feature/Accessible-retail-Personalising-the-UX-for-disabled-consumers)
+- [Which? raises concerns over buy now, pay later schemes](https://www.computerweekly.com/news/252511676/Which-raises-concerns-over-buy-now-pay-later-schemes)
+- [Fuzzy logic: The challenge of building data science teams](https://www.computerweekly.com/feature/Fuzzy-logic-the-challenge-of-building-data-science-teams)
+- [France fines Facebook and Google over alleged cookie malpractice](https://www.computerweekly.com/news/252511673/France-fines-Facebook-and-Google-over-alleged-cookie-malpractice)
+- [Amazon and Stellantis embark on multi-year, cloud-focused connected car push](https://www.computerweekly.com/news/252511665/Amazon-and-Stellantis-embark-on-multi-year-cloud-focused-connected-car-push)
+- [SMEs step up e-commerce ventures under shadow of Covid](https://www.computerweekly.com/feature/SMEs-step-up-e-commerce-ventures-under-shadow-of-Covid)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My 70 year old mother has been using Linux on the desktop for the past 21 years](https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html)
-- [Fixing the Unfixable: Story of a Google Cloud SSRF](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
-- [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
-- [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
-- [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
-- [Gambler’s Fallacy and the Regression to the Mean](https://theness.com/neurologicablog/index.php/gamblers-fallacy-and-the-regression-to-the-mean/)
-- [Why “process substitution” is a late feature in Unix shells](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate)
-- [My First Impressions of Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Sugar not so nice for your child’s brain development](https://news.uga.edu/sugar-not-so-nice-childs-brain-development/)
+- [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
+- [John Deere unveils fully autonomous 8R tractor](https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor)
+- [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
+- [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
+- [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
+- [Proposed bill in New Hampshire would enshrine free software into law](https://libreboot.org/news/usa-libre.html)
+- [Approved Cameras](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
+- [Finley &lpar;YC W21&rpar; is hiring in Eng and Sales to launch fintech infrastructure](https://www.finleycms.com/careers/)
+- [Sketch: A Common Lisp environment for the creation of electronic art](https://github.com/vydd/sketch)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

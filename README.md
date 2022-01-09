@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT or CS diploma in Canada](https://www.reddit.com/r/InformationTechnology/comments/rzeo6s/it_or_cs_diploma_in_canada/)
+- [Careers in technology that also deal with international relations?](https://www.reddit.com/r/InformationTechnology/comments/rym4mj/careers_in_technology_that_also_deal_with/)
+- [Looking for a Webcam that is Natively Twain Compliant](https://www.reddit.com/r/InformationTechnology/comments/rxih9w/looking_for_a_webcam_that_is_natively_twain/)
+- [Merger Hell](https://www.reddit.com/r/InformationTechnology/comments/rxhuar/merger_hell/)
 - [Problems with PCE AX58BT](https://www.reddit.com/r/InformationTechnology/comments/rwz2aj/problems_with_pce_ax58bt/)
 - [BSOD issue with Windows 11 apparently caused by Intel SST Driver](https://www.reddit.com/r/InformationTechnology/comments/rww4jj/bsod_issue_with_windows_11_apparently_caused_by/)
 - [Automating Onboarding Emails](https://www.reddit.com/r/InformationTechnology/comments/rwrpq7/automating_onboarding_emails/)
 - [Sustainability applied to digital preservation](https://www.reddit.com/r/InformationTechnology/comments/rwra20/sustainability_applied_to_digital_preservation/)
 - [2020 M1 Macbook Air showing wrong date and time.](https://www.reddit.com/r/InformationTechnology/comments/rwp4v2/2020_m1_macbook_air_showing_wrong_date_and_time/)
 - [Entry level jobs](https://www.reddit.com/r/InformationTechnology/comments/rwhijf/entry_level_jobs/)
-- [Information technology competitive jobs](https://www.reddit.com/r/InformationTechnology/comments/rwbqxb/information_technology_competitive_jobs/)
-- [VPN into office server](https://www.reddit.com/r/InformationTechnology/comments/rw1wkb/vpn_into_office_server/)
-- [What would be a good &#39;foundational skillset&#39; for an aspiring UI developer?](https://www.reddit.com/r/InformationTechnology/comments/rvmxkj/what_would_be_a_good_foundational_skillset_for_an/)
-- [Looking for advice, any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/rv84rn/looking_for_advice_any_help_appreciated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

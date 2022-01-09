@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [CES 2022: Lenovo’s new ThinkBook Plus has a display in the keyboard](https://www.itworldcanada.com/article/embargo-jan-5-11amlenovos-new-thinkbook-laptop-has-a-display-in-the-palm-rest/469518)
-- [CES 2022: Lenovo launches refreshed ThinkPad X1 series laptops](https://www.itworldcanada.com/article/ces-2022-lenovo-launches-refreshed-thinkpad-x1-series-laptops/469576)
-- [Canadian heavy equipment maker confirms cyber attack by Karakurt](https://www.itworldcanada.com/article/canadian-heavy-equipment-maker-confirms-cyber-attack-by-karakurt/469984)
-- [Cyber Security Today, Jan. 5, 2022 – The year starts with confirmation of more data breaches](https://www.itworldcanada.com/article/cyber-security-today-jan-5-2022-the-year-starts-with-confirmation-of-more-data-breaches/469946)
-- [Hashtag Trending Jan. 5 – Holmes found guilty; Apple hits $3 trillion; Internal combustion engines](https://www.itworldcanada.com/article/hashtag-trending-jan-5-holmes-found-guilty-apple-hits-3-trillion-internal-combustion-engines/469980)
-- [CES 2022: Intel 12th gen ‘Alder Lake’ processors arrive in mobile platforms](https://www.itworldcanada.com/article/ces-2022-intel-12th-gen-alder-lake-processors-arrive-in-mobile-platforms/469960)
-- [Coffee Briefing Jan. 4, 2022 – accessibility maps; airlines request 5G delay; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-4-2022-accessibility-maps-airlines-request-5g-delay-and-more/469892)
-- [Montreal tourism agency confirms cyber attack](https://www.itworldcanada.com/article/montreal-tourism-agency-confirms-cyber-attack/469873)
-- [CES 2022: Lenovo announces ThinkPad Z Series laptops](https://www.itworldcanada.com/article/ces-2022-lenovo-announces-thinkpad-z-series-laptops/469506)
-- [Hashtag Trending Jan. 4 – Germany wants to stop data retention; China freezes game licenses; the end of BlackBerry](https://www.itworldcanada.com/article/hashtag-trending-jan-4-germany-wants-to-stop-data-retention-china-freezes-game-licenses-the-end-of-blackberry/469757)
+- [Cyber Security Today, Week in Review for January 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-7-2022/470105)
+- [CES 2022: HP updates its prettiest business laptop](https://www.itworldcanada.com/article/ces-2022-hp-updates-its-prettiest-business-laptop/470238)
+- [BlackBerry phone with keyboard is not dead](https://www.itworldcanada.com/article/blackberry-phone-with-keyboard-is-not-dead/470208)
+- [Critical vulnerability in H2 database console discovered](https://www.itworldcanada.com/article/critical-vulnerability-in-h2-database-console-discovered/470153)
+- [Cloud-based school website provider, US county hit by ransomware](https://www.itworldcanada.com/article/cloud-based-school-website-provider-us-county-hit-by-ransomware/470144)
+- [Starlink internet is experiencing worldwide service interruptions](https://www.itworldcanada.com/article/starlink-internet-is-experiencing-worldwide-service-interruptions/470154)
+- [Cyber Security Today, Jan. 7, 2022 – A New Mexico county hit by ransomware, online pharmacy hacked, alleged book thief charged and controversy over Norton 360](https://www.itworldcanada.com/article/cyber-security-today-jan-7-2022-a-new-mexico-county-hit-by-ransomware-online-pharmacy-hacked-alleged-book-thief-charged-and-controversy-over-norton-360/470115)
+- [Hashtag Trending Jan. 7 – Norton helps to mine; Facebook takes data from deactivated accounts; IRC taxes online payment services](https://www.itworldcanada.com/article/hashtag-trending-jan-7-norton-helps-to-mine-facebook-takes-data-from-deactivated-accounts-irc-taxes-online-payment-services/470140)
+- [CES 2022: No frills, no problem. The Dell XPS 13 Plus is stunning](https://www.itworldcanada.com/article/ces-2022-no-frills-no-problem-dell-releases-redesigned-xps-13-plus/470051)
+- [CES 2022: Asus unveils three new mobile displays](https://www.itworldcanada.com/article/ces-2022-asuss-unveils-three-new-mobile-displays/470008)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

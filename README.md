@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22 fourth Test, day four: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/08/ashes-2021-22-australia-vs-england-day-four-4-cricket-4th-fourth-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Biden addresses pandemic: ‘We’re going to be able to control this’ – as it happened](https://www.theguardian.com/us-news/live/2022/jan/07/us-politics-supreme-court-vaccine-mandate-biden-republicans-democrats-live-updates)
-- [Sister of murdered officer sues Facebook for radicalizing attackers](https://www.theguardian.com/technology/2022/jan/07/sister-murdered-officer-underwood-sues-facebook-attacker-radicalization)
-- [‘Sometimes people overstep the mark’: Bairstow hits back at abusive fans](https://www.theguardian.com/sport/2022/jan/07/jonny-bairstow-disappointed-abusive-fans-did-not-see-his-ashes-century)
-- [Owners of flats in smaller buildings to be spared cost of removing cladding](https://www.theguardian.com/society/2022/jan/07/owners-of-flats-in-smaller-buildings-to-be-spared-cost-of-removing-cladding)
-- [Bristol prove too strong for Sale in second half to end losing run](https://www.theguardian.com/sport/2022/jan/07/bristol-prove-too-strong-for-sale-in-second-half-to-end-losing-run)
-- [Arsenal will let Mikel Arteta spend but face battle to land Dusan Vlahovic](https://www.theguardian.com/football/2022/jan/07/arsenal-will-let-mikel-arteta-spend-but-face-battle-to-land-dusan-vlahovic)
-- [Cole Palmer leads Manchester City’s big guns past Swindon in FA Cup](https://www.theguardian.com/football/2022/jan/07/bernardo-silva-leads-manchester-citys-big-guns-past-swindon-in-fa-cup)
-- [A Discovery of Witches review – hide the sex and blood! The polite vampires are here!](https://www.theguardian.com/tv-and-radio/2022/jan/07/a-discovery-of-witches-review-hide-the-sex-and-blood-the-polite-vampires-are-here)
-- [Three white men sentenced to life in prison for Ahmaud Arbery’s murder](https://www.theguardian.com/us-news/2022/jan/07/ahmaud-arbery-murder-three-men-sentenced-life-in-prison)
+- [Ashes 2021-22 fourth Test, day five: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/09/ashes-2021-22-australia-vs-england-day-five-5-cricket-4th-fourth-test-live-score-card-aus-v-eng-start-time-latest-updates)
+- [Liz Truss ‘willing’ to trigger article 16 of Brexit protocol if talks falter](https://www.theguardian.com/politics/2022/jan/09/liz-truss-willing-to-trigger-article-16-of-brexit-protocol-if-talks-falter)
+- [NSW and Queensland allow close contacts of Covid cases to work as states face food shortages](https://www.theguardian.com/australia-news/2022/jan/09/nsw-allows-close-contacts-of-covid-cases-to-work-as-state-faces-food-shortages)
+- [At least 200 villagers killed by bandits in north-west Nigeria](https://www.theguardian.com/world/2022/jan/09/hundreds-villagers-killed-by-bandits-in-north-west-nigeria)
+- [Baktash Abtin, dissident Iranian poet, dies of Covid on prison furlough](https://www.theguardian.com/world/2022/jan/09/baktash-abtin-dissident-iranian-poet-dies-of-covid-on-prison-furlough)
+- [TV explorer Simon Reeve fears documentaries make him a climate ‘hypocrite’](https://www.theguardian.com/environment/2022/jan/09/tv-explorer-simon-reeve-fears-documentaries-make-him-a-climate-hypocrite)
+- [Carillion fell quickly, but the auditing profession is now dragging its feet](https://www.theguardian.com/business/2022/jan/09/carillion-fell-quickly-but-the-auditing-profession-is-now-dragging-its-feet)
+- [Farm subsidy plan ‘risks increasing the UK’s reliance on food imports’](https://www.theguardian.com/environment/2022/jan/09/farm-subsidy-plan-risks-increasing-the-uks-reliance-on-food-imports)
+- [Duchess of Cambridge’s 40th birthday marked with trio of new photos](https://www.theguardian.com/uk-news/2022/jan/08/duchess-of-cambridges-40th-birthday-marked-with-trio-of-new-photos)
+- [Winter warmer: 5 ways to style roll necks – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/08/winter-warmer-5-ways-to-style-roll-necks-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

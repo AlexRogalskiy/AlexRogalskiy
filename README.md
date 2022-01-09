@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Impact of the semiconductor shortage on Canon’s MFP consumable products](https://www.canon-europe.com/support/business-product-support/interim-toner/)
-- [Ask HN: How to calculate an API request price?](https://news.ycombinator.com/item?id=29847991)
-- [Cognitive Load Theory](https://www.scotthyoung.com/blog/2022/01/04/cognitive-load-theory/)
-- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
-- [What you didn&#39;t know about ropeways](https://www.youtube.com/watch?v=HhI_1Yi5CtQ)
-- [After 150 years, is the time finally right for deep-ocean mining?](https://spectrum.ieee.org/the-seabed-solution)
-- [No – Atlantis has not been found in northern Africa](https://theness.com/neurologicablog/index.php/no-atlantis-has-not-been-discovered-in-north-africa/)
-- [What went wrong:Omicron decimates airline workforces;not travelers desire to fly](https://www.wsj.com/articles/after-two-weeks-of-flight-cancellations-airlines-assess-what-went-wrong-11641551402)
-- [Falsehoods programmers believe about video](https://haasn.dev/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html)
-- [Intrepid Compact Film Enlarger](https://www.kickstarter.com/projects/1436129614/the-intrepid-compact-enlarger-print-and-scan-35mm-and-120)
+- [In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
+- [The Spanish lab seeking the definitive Covid-19 vaccine](https://english.elpais.com/science-tech/2022-01-07/inside-the-spanish-lab-seeking-the-definitive-covid-19-vaccine.html)
+- [Omicron explosion spurs nationwide breakdown of services [USA]](https://apnews.com/article/coronavirus-pandemic-health-business-education-pandemics-76830eee3a8c2a5688df4fc77488195a)
+- [Google Cloud: US-WEST1 Networking Issues](https://status.cloud.google.com/incidents/NMcnk6aE8xMHHwRGmyryz)
+- [Youth suicide attempts soared during pandemic](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+- [Pluton is not &lpar;currently&rpar; a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
+- [Why are MHL signature manifests not widely used outside video production?](https://www.youtube.com/watch?v=nkJHyrr7fLg)
+- [Asteroid Impact Avoidance](https://en.wikipedia.org/wiki/Asteroid_impact_avoidance)
+- [Modern CLI Tools](https://twitter.com/amilajack/status/1479328649820000256)
+- [Garry Kasparov: Crypto Means Freedom](https://www.coindesk.com/layer2/2022/01/03/garry-kasparov-crypto-means-freedom/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

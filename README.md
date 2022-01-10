@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
-- [The Spanish lab seeking the definitive Covid-19 vaccine](https://english.elpais.com/science-tech/2022-01-07/inside-the-spanish-lab-seeking-the-definitive-covid-19-vaccine.html)
-- [Omicron explosion spurs nationwide breakdown of services [USA]](https://apnews.com/article/coronavirus-pandemic-health-business-education-pandemics-76830eee3a8c2a5688df4fc77488195a)
-- [Google Cloud: US-WEST1 Networking Issues](https://status.cloud.google.com/incidents/NMcnk6aE8xMHHwRGmyryz)
-- [Youth suicide attempts soared during pandemic](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
-- [Pluton is not &lpar;currently&rpar; a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
-- [Why are MHL signature manifests not widely used outside video production?](https://www.youtube.com/watch?v=nkJHyrr7fLg)
-- [Asteroid Impact Avoidance](https://en.wikipedia.org/wiki/Asteroid_impact_avoidance)
-- [Modern CLI Tools](https://twitter.com/amilajack/status/1479328649820000256)
-- [Garry Kasparov: Crypto Means Freedom](https://www.coindesk.com/layer2/2022/01/03/garry-kasparov-crypto-means-freedom/)
+- [Longleaf: The Heart of the Pine](https://southdocs.org/project/longleaf/)
+- [Is Something “Abnormal” Evolving in US Deaths](https://cognitivedissonance19.substack.com/p/something-abnormal-evolving-in-us)
+- [Fridays for Future Poland votes in favor of nuclear energy](https://twitter.com/adamblazowski/status/1479927706800332803)
+- [You Shouldn’t Use Faker &lpar;or other test randomization libraries&rpar;](https://kevin.burke.dev/kevin/faker-js-problems/)
+- [Robust Local Synchronization – Research Notebook Video](https://www.youtube.com/watch?v=oXiqMGhn9rk)
+- [Software CEO pays staff $5k to quit their job after two weeks](https://www.businessinsider.com/trainual-software-ceo-pays-employees-5000-quit-retain-top-talent-2022-1)
+- [Voyager Missions Status](https://voyager.jpl.nasa.gov/mission/status/)
+- [BetterScale – A better way to scale on x11 &lpar;gnome/budgie&rpar;](https://news.ycombinator.com/item?id=29869693)
+- [Merchant Service Horror: Amazon Pay and the Disappearing $2300](https://www.bigmessowires.com/2022/01/09/merchant-service-horror-amazon-pay-and-the-disappearing-2300/)
+- [Olestra &lpar;zero calorie cooking oil&rpar; – chemical synthesis and taste test](https://www.youtube.com/watch?v=3d8b_ohlcdk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

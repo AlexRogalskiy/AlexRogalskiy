@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ashes 2021-22 fourth Test, day five: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/09/ashes-2021-22-australia-vs-england-day-five-5-cricket-4th-fourth-test-live-score-card-aus-v-eng-start-time-latest-updates)
-- [Liz Truss ‘willing’ to trigger article 16 of Brexit protocol if talks falter](https://www.theguardian.com/politics/2022/jan/09/liz-truss-willing-to-trigger-article-16-of-brexit-protocol-if-talks-falter)
-- [NSW and Queensland allow close contacts of Covid cases to work as states face food shortages](https://www.theguardian.com/australia-news/2022/jan/09/nsw-allows-close-contacts-of-covid-cases-to-work-as-state-faces-food-shortages)
-- [At least 200 villagers killed by bandits in north-west Nigeria](https://www.theguardian.com/world/2022/jan/09/hundreds-villagers-killed-by-bandits-in-north-west-nigeria)
-- [Baktash Abtin, dissident Iranian poet, dies of Covid on prison furlough](https://www.theguardian.com/world/2022/jan/09/baktash-abtin-dissident-iranian-poet-dies-of-covid-on-prison-furlough)
-- [TV explorer Simon Reeve fears documentaries make him a climate ‘hypocrite’](https://www.theguardian.com/environment/2022/jan/09/tv-explorer-simon-reeve-fears-documentaries-make-him-a-climate-hypocrite)
-- [Carillion fell quickly, but the auditing profession is now dragging its feet](https://www.theguardian.com/business/2022/jan/09/carillion-fell-quickly-but-the-auditing-profession-is-now-dragging-its-feet)
-- [Farm subsidy plan ‘risks increasing the UK’s reliance on food imports’](https://www.theguardian.com/environment/2022/jan/09/farm-subsidy-plan-risks-increasing-the-uks-reliance-on-food-imports)
-- [Duchess of Cambridge’s 40th birthday marked with trio of new photos](https://www.theguardian.com/uk-news/2022/jan/08/duchess-of-cambridges-40th-birthday-marked-with-trio-of-new-photos)
-- [Winter warmer: 5 ways to style roll necks – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/08/winter-warmer-5-ways-to-style-roll-necks-in-pictures)
+- [Covid live news: 40% of Israel could be infected in current wave; Germany to study rapid antigen-test reliability for Omicron](https://www.theguardian.com/world/live/2022/jan/10/covid-live-news-40-of-israel-could-be-infected-in-current-wave-germany-to-study-rapid-antigen-test-reliability-for-omicron)
+- [Novak Djokovic appeals in court against cancellation of Australian visa – live updates](https://www.theguardian.com/sport/live/2022/jan/10/novak-djokovic-appeal-federal-circuit-court-cancellation-australian-visa-covid-vaccination-live-updates)
+- [Joy as baby given to US soldier during Afghan withdrawal is reunited with relatives](https://www.theguardian.com/world/2022/jan/10/there-are-celebrations-baby-lost-in-afghan-withdrawal-chaos-found-and-reunited-with-relativesfamily)
+- [Gove must spend ‘billions more’ to end building fire safety crisis](https://www.theguardian.com/society/2022/jan/09/gove-must-spend-billions-more-end-building-fire-safety-crisis)
+- [‘I’m more worried than excited about the future’: Japan’s Coming of Age Day tinged with anxiety](https://www.theguardian.com/world/2022/jan/10/im-more-worried-than-excited-about-the-future-japans-coming-of-age-day-tinged-with-anxiety)
+- [UK government urges all pregnant women to get immediate Covid jab](https://www.theguardian.com/politics/2022/jan/10/uk-government-urges-all-pregnant-women-to-get-immediate-covid-jab)
+- [Brexit changes will add to soaring costs in 2022, warn UK manufacturers](https://www.theguardian.com/business/2022/jan/10/brexit-changes-will-add-to-soaring-costs-in-2022-warn-uk-manufacturers)
+- [Platinum pudding for Queen’s jubilee to follow 1953’s coronation chicken](https://www.theguardian.com/uk-news/2022/jan/10/platinum-pudding-for-queens-jubilee-to-follow-1953s-coronation-chicken)
+- [From dogs to drones: the items Travelodge guests left behind in 2021](https://www.theguardian.com/business/2022/jan/10/from-dogs-to-drones-the-items-travelodge-guests-left-behind-in-2021)
+- [US tells Putin to choose confrontation or dialogue over Ukraine](https://www.theguardian.com/world/2022/jan/09/ukraine-fate-hangs-in-balance-as-critical-week-of-talks-begins)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

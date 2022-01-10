@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
-- [John Deere unveils fully autonomous 8R tractor](https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor)
-- [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
-- [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
-- [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
-- [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
-- [Proposed bill in New Hampshire would enshrine free software into law](https://libreboot.org/news/usa-libre.html)
-- [Approved Cameras](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
-- [Finley &lpar;YC W21&rpar; is hiring in Eng and Sales to launch fintech infrastructure](https://www.finleycms.com/careers/)
-- [Sketch: A Common Lisp environment for the creation of electronic art](https://github.com/vydd/sketch)
+- [&#39;America&#39;s Dad’ Bob Saget Dies at Orlando Hotel](https://www.news4jax.com/news/local/2022/01/10/sources-americas-dad-bob-saget-dies-at-orlando-hotel/)
+- [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/)
+- [The vicious cycle of food and sleep](https://knowablemagazine.org/article/mind/2021/vicious-cycle-food-sleep)
+- [Command Line Video Player](https://github.com/mpv-player/mpv)
+- [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
+- [Cryptoland [video]](https://peertube.social/videos/watch/8f7e61ed-47ab-4e82-a5c2-5a7d5e8bcb33)
+- [Let&#39;s Settle This](https://neal.fun/lets-settle-this/)
+- [RSS feeds are available for many U.S. Government collections](https://www.govinfo.gov/feeds)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

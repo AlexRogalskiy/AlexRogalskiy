@@ -414,7 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [IT or CS diploma in Canada](https://www.reddit.com/r/InformationTechnology/comments/rzeo6s/it_or_cs_diploma_in_canada/)
+- [General help appreciated](https://www.reddit.com/r/InformationTechnology/comments/s03mrd/general_help_appreciated/)
 - [Careers in technology that also deal with international relations?](https://www.reddit.com/r/InformationTechnology/comments/rym4mj/careers_in_technology_that_also_deal_with/)
 - [Looking for a Webcam that is Natively Twain Compliant](https://www.reddit.com/r/InformationTechnology/comments/rxih9w/looking_for_a_webcam_that_is_natively_twain/)
 - [Merger Hell](https://www.reddit.com/r/InformationTechnology/comments/rxhuar/merger_hell/)

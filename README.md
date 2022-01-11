@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;America&#39;s Dad’ Bob Saget Dies at Orlando Hotel](https://www.news4jax.com/news/local/2022/01/10/sources-americas-dad-bob-saget-dies-at-orlando-hotel/)
-- [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/)
-- [The vicious cycle of food and sleep](https://knowablemagazine.org/article/mind/2021/vicious-cycle-food-sleep)
-- [Command Line Video Player](https://github.com/mpv-player/mpv)
-- [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
-- [Cryptoland [video]](https://peertube.social/videos/watch/8f7e61ed-47ab-4e82-a5c2-5a7d5e8bcb33)
-- [Let&#39;s Settle This](https://neal.fun/lets-settle-this/)
-- [RSS feeds are available for many U.S. Government collections](https://www.govinfo.gov/feeds)
+- [A Holocaust Survivor&#39;s Hardboiled Science Fiction](https://www.newyorker.com/magazine/2022/01/17/a-holocaust-survivors-hardboiled-science-fiction)
+- [Lufthansa confirmed that 18,000 flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
+- [&#39;The Matrix Resurrections&#39; estimated to lose Warner Bros. $100M](https://wegotthiscovered.com/tv/the-matrix-resurrections-estimated-to-lose-warner-bros-100-million/)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
+- [Milton Friedman’s Interest Rate Fallacy](https://maroonmacro.substack.com/p/issue-38-milton-friedmans-interest)
+- [Minecraft mod that runs RISC-V Linux](https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09)
+- [Strengthening Our Efforts Against the Spread of Non-Consensual Intimate Images](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/)
+- [Plastic Liberated and Entombed Us](https://commonreader.wustl.edu/c/how-plastic-liberated-and-entombed-us/)
+- [A few things I’ve learned about livestreaming](https://dantepfer.com/blog/?p=1005)
+- [Michigan DOT Snowplow Names](https://www.michigan.gov/mdot/0,4616,7-151-9615-575096--,00.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

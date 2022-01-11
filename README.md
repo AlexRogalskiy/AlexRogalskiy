@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Longleaf: The Heart of the Pine](https://southdocs.org/project/longleaf/)
-- [Is Something “Abnormal” Evolving in US Deaths](https://cognitivedissonance19.substack.com/p/something-abnormal-evolving-in-us)
-- [Fridays for Future Poland votes in favor of nuclear energy](https://twitter.com/adamblazowski/status/1479927706800332803)
-- [You Shouldn’t Use Faker &lpar;or other test randomization libraries&rpar;](https://kevin.burke.dev/kevin/faker-js-problems/)
-- [Robust Local Synchronization – Research Notebook Video](https://www.youtube.com/watch?v=oXiqMGhn9rk)
-- [Software CEO pays staff $5k to quit their job after two weeks](https://www.businessinsider.com/trainual-software-ceo-pays-employees-5000-quit-retain-top-talent-2022-1)
-- [Voyager Missions Status](https://voyager.jpl.nasa.gov/mission/status/)
-- [BetterScale – A better way to scale on x11 &lpar;gnome/budgie&rpar;](https://news.ycombinator.com/item?id=29869693)
-- [Merchant Service Horror: Amazon Pay and the Disappearing $2300](https://www.bigmessowires.com/2022/01/09/merchant-service-horror-amazon-pay-and-the-disappearing-2300/)
-- [Olestra &lpar;zero calorie cooking oil&rpar; – chemical synthesis and taste test](https://www.youtube.com/watch?v=3d8b_ohlcdk)
+- [Probabilistic Thinking](https://cobie.substack.com/p/probabilistic-thinking)
+- [Email Is the Antidote](https://world.hey.com/dhh/email-is-the-antidote-d9d53c10)
+- [Appreciating the Physicality of Floppies](https://breakintochat.com/blog/2022/01/09/appreciating-the-physicality-of-floppies/)
+- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
+- [The &#39;breathing paintings&#39; of Nigerian artist Shofela Coker](https://animationobsessive.substack.com/p/breathing-paintings)
+- [The Sleep of Reason Produces Cats](https://lareviewofbooks.org/article/the-sleep-of-reason-produces-cats/)
+- [Female dolphins have a clitoris much like humans’](https://www.sciencenews.org/article/dolphin-female-clitoris-sexual-anatomy)
+- [Partitioning the internet using Anycast catchments [pdf]](https://kyle.schomp.info/docs/anycast_partition.pdf)
+- [Crev – socially scalable Code REView and recommendation system](https://github.com/crev-dev/)
+- [Akamai DNS: Providing Authoritative Answers to the World’s Queries [pdf]](https://www.akamai.com/content/dam/site/en/documents/technical-publication/akamai-dns-providing-authoritative-answers-to-the-worlds-queries.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

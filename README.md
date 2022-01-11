@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Multicloud and your career](https://www.infoworld.com/article/3646594/multicloud-and-your-career.html#tk.rss_all)
+- [5 questions to consider about agile capacity planning](https://www.infoworld.com/article/3646411/5-questions-to-consider-about-agile-capacity-planning.html#tk.rss_all)
+- [16 irresistible cloud innovations](https://www.infoworld.com/article/3642543/16-irresistible-cloud-innovations.html#tk.rss_all)
+- [The cloud comes down to earth](https://www.networkworld.com/article/3646532/the-cloud-comes-down-to-earth.html#tk.rss_all)
 - [AngularJS reaches end of life](https://www.infoworld.com/article/3646609/angularjs-reaches-end-of-life.html#tk.rss_all)
 - [What is streaming data? Event stream processing explained](https://www.infoworld.com/article/3646589/what-is-streaming-data-event-stream-processing-explained.html#tk.rss_all)
 - [The real value of 5G and cloud computing](https://www.infoworld.com/article/3646251/the-real-value-of-5g-and-cloud-computing.html#tk.rss_all)
 - [Visual Studio 2022 update offers Git improvements](https://www.infoworld.com/article/3646588/visual-studio-2022-update-offers-git-improvements.html#tk.rss_all)
 - [A simple automated build pipeline for Node.js](https://www.infoworld.com/article/3646195/a-simple-automated-build-pipeline-for-nodejs.html#tk.rss_all)
 - [Demystifying the Program and Startup classes in ASP.NET Core](https://www.infoworld.com/article/3646098/demystifying-the-program-and-startup-classes-in-aspnet-core.html#tk.rss_all)
-- [Google Prediction Framework addresses data pipeline drudgery](https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html#tk.rss_all)
-- [Take advantage of .NET 6 on Microsoft Azure](https://www.infoworld.com/article/3646135/take-advantage-of-net-6-on-microsoft-azure.html#tk.rss_all)
-- [Review: Nvidia AI Enterprise shines on VMware](https://www.infoworld.com/article/3643668/review-nvidia-ai-enterprise-shines-on-vmware.html#tk.rss_all)
-- [Python nabs programming language of the year honors](https://www.infoworld.com/article/3646136/python-nabs-programming-language-of-the-year-honors.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

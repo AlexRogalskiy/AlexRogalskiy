@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: 5 New Year’s Resolutions for Every SMB](https://www.computerworld.com/article/3646611/5-new-year-s-resolutions-for-every-smb.html#tk.rss_all)
+- [BrandPost: How to Adopt a “Defense in Depth” Security Strategy to Protect Your SMB](https://www.computerworld.com/article/3646571/how-to-adopt-a-defense-in-depth-security-strategy-to-protect-your-smb.html#tk.rss_all)
+- [17 ways the iPhone transformed enterprise tech](https://www.computerworld.com/article/3646553/17-ways-the-iphone-transformed-enterprise-tech.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [Windows security in ’22 — you need more than just antivirus software](https://www.computerworld.com/article/3646552/windows-security-in-22-you-need-more-than-just-antivirus-software.html#tk.rss_all)
+- [The cloud comes down to earth](https://www.networkworld.com/article/3646532/the-cloud-comes-down-to-earth.html#tk.rss_all)
+- [How to choose a SaaS management platform](https://www.computerworld.com/article/3641770/how-to-choose-a-saas-management-platform.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
-- [Will Apple win trust in the metaverse &lpar;as it has in the real world&rpar;?](https://www.computerworld.com/article/3646414/will-apple-win-trust-in-the-metaverse-as-it-has-in-the-real-world.html#tk.rss_all)
-- [“Deskless” workers are finally getting their day in the sun](https://www.computerworld.com/article/3646370/deskless-workers-are-finally-getting-their-day-in-the-sun.html#tk.rss_all)
-- [Apple is sneaking around its own privacy policy — and will regret it](https://www.computerworld.com/article/3646190/apple-is-sneaking-around-its-own-privacy-policy-and-will-regret-it.html#tk.rss_all)
-- [11 tips for wicked-fast Chromebook web browsing](https://www.computerworld.com/article/3643288/time-saving-chromebook-browsing-tips.html#tk.rss_all)
-- [No end in sight for the Great Resignation; workers keep quitting for better pay, benefits](https://www.computerworld.com/article/3646390/no-end-in-sight-for-the-great-resignation-workers-keep-quitting-for-better-pay-benefits.html#tk.rss_all)
-- [Podcast: Apple silicon transition could wrap up by summer 2022](https://www.computerworld.com/article/3646568/podcast-apple-silicon-transition-could-wrap-up-by-summer-2022.html#tk.rss_all)
-- [Microsoft Defender for Endpoint brings remote deployment to iOS](https://www.computerworld.com/article/3646508/microsoft-defender-for-endpoint-brings-remote-deployment-to-ios.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

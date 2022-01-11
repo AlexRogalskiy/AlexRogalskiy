@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How to make AI greener and more efficient](https://www.computerweekly.com/feature/How-to-make-AI-greener-and-more-efficient)
+- [Public sector IT and communications spend down 4% last year](https://www.computerweekly.com/news/252511744/Public-sector-IT-and-communications-spend-down-4-last-year)
+- [Young people are leaving tech because of bad culture](https://www.computerweekly.com/news/252511740/Young-people-are-leaving-tech-because-of-bad-culture)
+- [Ministry of Justice caught up in multiple cyber incidents](https://www.computerweekly.com/news/252511731/Ministry-of-Justice-caught-up-in-multiple-cyber-incidents)
+- [How to create a sustainable continuous learning culture](https://www.computerweekly.com/feature/How-to-create-a-sustainable-continuous-learning-culture)
+- [University of Edinburgh extends IoT data science to south-east Scottish pupils](https://www.computerweekly.com/feature/University-of-Edinburgh-extends-IoT-data-science-to-south-east-Scottish-pupils)
 - [New supercomputer opens doors for researchers in Sweden](https://www.computerweekly.com/feature/New-supercomputer-opens-doors-for-researchers-in-Sweden)
 - [Sharp end of the edge: Managing micro-datacentres in a shared environment](https://www.computerweekly.com/feature/Sharp-end-of-the-edge-Managing-micro-datacentres-in-a-shared-environment)
 - [Avoid complexity in data storage decisions](https://www.computerweekly.com/opinion/Avoid-complexity-in-data-storage-decisions)
 - [Record amount invested in UK fintech last year, but female founders still overlooked](https://www.computerweekly.com/news/252511688/Record-amount-invested-in-UK-fintech-last-year-but-female-founders-still-overlooked)
-- [Accessible retail: Personalising the UX for disabled consumers](https://www.computerweekly.com/feature/Accessible-retail-Personalising-the-UX-for-disabled-consumers)
-- [Which? raises concerns over buy now, pay later schemes](https://www.computerweekly.com/news/252511676/Which-raises-concerns-over-buy-now-pay-later-schemes)
-- [Fuzzy logic: The challenge of building data science teams](https://www.computerweekly.com/feature/Fuzzy-logic-the-challenge-of-building-data-science-teams)
-- [France fines Facebook and Google over alleged cookie malpractice](https://www.computerweekly.com/news/252511673/France-fines-Facebook-and-Google-over-alleged-cookie-malpractice)
-- [Amazon and Stellantis embark on multi-year, cloud-focused connected car push](https://www.computerweekly.com/news/252511665/Amazon-and-Stellantis-embark-on-multi-year-cloud-focused-connected-car-push)
-- [SMEs step up e-commerce ventures under shadow of Covid](https://www.computerweekly.com/feature/SMEs-step-up-e-commerce-ventures-under-shadow-of-Covid)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

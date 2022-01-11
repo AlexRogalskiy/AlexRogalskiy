@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CES 2022: HP Elite Dragonfly Chromebook aims for the high-end](https://www.itworldcanada.com/article/ces-2022-hp-elite-dragonfly-chromebook-aims-for-the-high-end/470265)
+- [Waterloo company simplifies parking process in busy cities](https://www.itworldcanada.com/article/waterloo-company-simplifies-parking-process-in-busy-cities/470058)
+- [Cyber Security Today, Jan 10, 2022 – Beware of unexpected USB keys in the mail, FlexBooker admits data theft and more](https://www.itworldcanada.com/article/cyber-security-today-jan-10-2022-beware-of-unexpected-usb-keys-in-the-mail-flexbooker-admits-data-theft-and-more/470262)
+- [Hashtag Trending Jan. 10 – Canon’s chipless ink; Reddit’s Antiwork; Google’s patent lawsuit loss](https://www.itworldcanada.com/article/hashtag-trending-jan-10-canons-chipless-ink-reddits-antiwork-googles-patent-lawsuit-loss/470282)
 - [Cyber Security Today, Week in Review for January 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-7-2022/470105)
 - [CES 2022: HP updates its prettiest business laptop](https://www.itworldcanada.com/article/ces-2022-hp-updates-its-prettiest-business-laptop/470238)
 - [BlackBerry phone with keyboard is not dead](https://www.itworldcanada.com/article/blackberry-phone-with-keyboard-is-not-dead/470208)
 - [Critical vulnerability in H2 database console discovered](https://www.itworldcanada.com/article/critical-vulnerability-in-h2-database-console-discovered/470153)
 - [Cloud-based school website provider, US county hit by ransomware](https://www.itworldcanada.com/article/cloud-based-school-website-provider-us-county-hit-by-ransomware/470144)
 - [Starlink internet is experiencing worldwide service interruptions](https://www.itworldcanada.com/article/starlink-internet-is-experiencing-worldwide-service-interruptions/470154)
-- [Cyber Security Today, Jan. 7, 2022 – A New Mexico county hit by ransomware, online pharmacy hacked, alleged book thief charged and controversy over Norton 360](https://www.itworldcanada.com/article/cyber-security-today-jan-7-2022-a-new-mexico-county-hit-by-ransomware-online-pharmacy-hacked-alleged-book-thief-charged-and-controversy-over-norton-360/470115)
-- [Hashtag Trending Jan. 7 – Norton helps to mine; Facebook takes data from deactivated accounts; IRC taxes online payment services](https://www.itworldcanada.com/article/hashtag-trending-jan-7-norton-helps-to-mine-facebook-takes-data-from-deactivated-accounts-irc-taxes-online-payment-services/470140)
-- [CES 2022: No frills, no problem. The Dell XPS 13 Plus is stunning](https://www.itworldcanada.com/article/ces-2022-no-frills-no-problem-dell-releases-redesigned-xps-13-plus/470051)
-- [CES 2022: Asus unveils three new mobile displays](https://www.itworldcanada.com/article/ces-2022-asuss-unveils-three-new-mobile-displays/470008)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

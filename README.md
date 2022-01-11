@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: 40% of Israel could be infected in current wave; Germany to study rapid antigen-test reliability for Omicron](https://www.theguardian.com/world/live/2022/jan/10/covid-live-news-40-of-israel-could-be-infected-in-current-wave-germany-to-study-rapid-antigen-test-reliability-for-omicron)
-- [Novak Djokovic appeals in court against cancellation of Australian visa – live updates](https://www.theguardian.com/sport/live/2022/jan/10/novak-djokovic-appeal-federal-circuit-court-cancellation-australian-visa-covid-vaccination-live-updates)
-- [Joy as baby given to US soldier during Afghan withdrawal is reunited with relatives](https://www.theguardian.com/world/2022/jan/10/there-are-celebrations-baby-lost-in-afghan-withdrawal-chaos-found-and-reunited-with-relativesfamily)
-- [Gove must spend ‘billions more’ to end building fire safety crisis](https://www.theguardian.com/society/2022/jan/09/gove-must-spend-billions-more-end-building-fire-safety-crisis)
-- [‘I’m more worried than excited about the future’: Japan’s Coming of Age Day tinged with anxiety](https://www.theguardian.com/world/2022/jan/10/im-more-worried-than-excited-about-the-future-japans-coming-of-age-day-tinged-with-anxiety)
-- [UK government urges all pregnant women to get immediate Covid jab](https://www.theguardian.com/politics/2022/jan/10/uk-government-urges-all-pregnant-women-to-get-immediate-covid-jab)
-- [Brexit changes will add to soaring costs in 2022, warn UK manufacturers](https://www.theguardian.com/business/2022/jan/10/brexit-changes-will-add-to-soaring-costs-in-2022-warn-uk-manufacturers)
-- [Platinum pudding for Queen’s jubilee to follow 1953’s coronation chicken](https://www.theguardian.com/uk-news/2022/jan/10/platinum-pudding-for-queens-jubilee-to-follow-1953s-coronation-chicken)
-- [From dogs to drones: the items Travelodge guests left behind in 2021](https://www.theguardian.com/business/2022/jan/10/from-dogs-to-drones-the-items-travelodge-guests-left-behind-in-2021)
-- [US tells Putin to choose confrontation or dialogue over Ukraine](https://www.theguardian.com/world/2022/jan/09/ukraine-fate-hangs-in-balance-as-critical-week-of-talks-begins)
+- [Covid news live: Pfizer says Omicron-specific vaccine could be available by March; Mexico president tests positive again](https://www.theguardian.com/world/live/2022/jan/11/covid-news-live-pfizer-says-omicron-specific-vaccine-could-be-available-by-march-mexico-president-tests-positive-again)
+- [‘Bring your own booze’: newspapers lash PM over latest Downing Street party claim](https://www.theguardian.com/media/2022/jan/11/bring-your-own-booze-newspapers-lash-pm-over-latest-downing-street-party-claim)
+- [North Korea conducts fresh missile launch after Kim Jong-un call to bolster military](https://www.theguardian.com/world/2022/jan/11/north-korea-has-fired-possible-ballistic-missile-says-japan)
+- [UK retailers warn sales at risk from soaring cost of living in 2022](https://www.theguardian.com/business/2022/jan/11/uk-retailers-warn-sales-at-risk-from-soaring-cost-of-living-in-2022)
+- [Two 16-year-old boys charged with murder following man’s death in Dorset](https://www.theguardian.com/uk-news/2022/jan/10/two-16-year-old-boys-charged-with-following-mans-death-in-dorset)
+- [Novak Djokovic: Liberal MPs divided over whether Australian government should again cancel visa](https://www.theguardian.com/australia-news/2022/jan/11/novak-djokovic-liberal-mps-divided-over-whether-australian-government-should-again-cancel-visa)
+- [‘Do star jumps’: energy supplier criticised over advice on keeping warm](https://www.theguardian.com/money/2022/jan/10/do-star-jumps-uk-energy-supplier-sse-criticised-over-keep-warm-advice)
+- [Maria Ewing, opera singer and ex-wife of Sir Peter Hall, dies aged 71](https://www.theguardian.com/music/2022/jan/10/maria-ewing-dies-aged-71-peter-hall)
+- [Euphoria season two review – far too much nudity, sex and violence](https://www.theguardian.com/tv-and-radio/2022/jan/10/euphoria-season-two-review-far-too-much-nudity-sex-and-violence)
+- [What is racial invisibility, and how do white people benefit from it? | Luke Pearson for IndigenousX](https://www.theguardian.com/commentisfree/2022/jan/11/what-is-racial-invisibility-and-how-do-white-people-benefit-from-it)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

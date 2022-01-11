@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Digital Twin Smart Mapping Hits the Slopes](https://www.informationweek.com/big-data/digital-twin-smart-mapping-hits-the-slopes)
+- [AI and Data This Year: Bigger, Bolder, and Business-Focused](https://www.informationweek.com/big-data/ai-and-data-this-year-bigger-bolder-and-business-focused)
 - [Abbott CEO Ford at CES Talks Democratizing COVID Testing](https://www.informationweek.com/healthcare/abbot-ceo-ford-at-ces-talks-democratizing-covid-testing)
 - [Entering the Cloud-First Race? Consider These 5 Things](https://www.informationweek.com/cloud/entering-the-cloud-first-race-consider-these-5-things)
 - [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.informationweek.com/cloud/which-cloud-strategy-is-right-for-my-organization-s-security-needs-)
@@ -377,8 +379,6 @@
 - [SD-WAN and SASE – Hype or Reality?](https://www.informationweek.com/cloud/sd-wan-and-sase-hype-or-reality)
 - [Chase CIO Gill Haus Discusses Recruitment, Agile, and Automation](https://www.informationweek.com/strategic-cio/chase-cio-gill-haus-discusses-recruitment-agile-and-automation)
 - [IT Job Skills 2022: What’s Hot, What’s Not?](https://www.informationweek.com/strategic-cio/it-job-skills-2022-what-s-hot-what-s-not-)
-- [Digital Trends in 2022: What You Need to Know](https://www.informationweek.com/software/digital-trends-in-2022-what-you-need-to-know)
-- [5 Cyber Resilience Lessons We Re-Learned in 2021 &lpar;But Will Probably Forget&rpar;](https://www.informationweek.com/security-and-risk-strategy/5-cyber-resilience-lessons-we-re-learned-in-2021-but-will-probably-forget-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

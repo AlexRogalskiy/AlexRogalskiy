@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Vulnerabilities in WordPress plugins more than doubled in 2021: Report](https://www.itworldcanada.com/article/vulnerabilities-in-wordpress-plugins-more-than-doubled-in-2021-report/470363)
+- [Log4Shell bug used to deploy NightSky ransomware on VMware Horizon, says Microsoft](https://www.itworldcanada.com/article/log4shell-bug-used-to-deploy-nightsky-ransomware-on-vmware-horizon-says-microsoft/470346)
+- [Coffee Briefing Jan. 11, 2022 – LG joins IBM Quantum Network; Telus program gets global privacy recognition; YRP adopts e-notes-taking solution; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-11-2022-lg-joins-ibm-quantum-network-telus-program-gets-global-privacy-recognition-yrp-adopts-e-notes-taking-solution-and-more/470359)
+- [Hashtag Trending Jan. 11 – Panasonic’s four day work week; Clean energy fund to raise $15 billion; Facebook accused of inciting violence](https://www.itworldcanada.com/article/hashtag-trending-jan-11-panasonics-four-day-work-week-clean-energy-fund-to-raise-15-billion-facebook-accused-of-inciting-violence/470341)
 - [CES 2022: HP Elite Dragonfly Chromebook aims for the high-end](https://www.itworldcanada.com/article/ces-2022-hp-elite-dragonfly-chromebook-aims-for-the-high-end/470265)
 - [Waterloo company simplifies parking process in busy cities](https://www.itworldcanada.com/article/waterloo-company-simplifies-parking-process-in-busy-cities/470058)
 - [Cyber Security Today, Jan 10, 2022 – Beware of unexpected USB keys in the mail, FlexBooker admits data theft and more](https://www.itworldcanada.com/article/cyber-security-today-jan-10-2022-beware-of-unexpected-usb-keys-in-the-mail-flexbooker-admits-data-theft-and-more/470262)
 - [Hashtag Trending Jan. 10 – Canon’s chipless ink; Reddit’s Antiwork; Google’s patent lawsuit loss](https://www.itworldcanada.com/article/hashtag-trending-jan-10-canons-chipless-ink-reddits-antiwork-googles-patent-lawsuit-loss/470282)
 - [Cyber Security Today, Week in Review for January 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-7-2022/470105)
 - [CES 2022: HP updates its prettiest business laptop](https://www.itworldcanada.com/article/ces-2022-hp-updates-its-prettiest-business-laptop/470238)
-- [BlackBerry phone with keyboard is not dead](https://www.itworldcanada.com/article/blackberry-phone-with-keyboard-is-not-dead/470208)
-- [Critical vulnerability in H2 database console discovered](https://www.itworldcanada.com/article/critical-vulnerability-in-h2-database-console-discovered/470153)
-- [Cloud-based school website provider, US county hit by ransomware](https://www.itworldcanada.com/article/cloud-based-school-website-provider-us-county-hit-by-ransomware/470144)
-- [Starlink internet is experiencing worldwide service interruptions](https://www.itworldcanada.com/article/starlink-internet-is-experiencing-worldwide-service-interruptions/470154)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

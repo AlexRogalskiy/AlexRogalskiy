@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Pfizer says Omicron-specific vaccine could be available by March; Mexico president tests positive again](https://www.theguardian.com/world/live/2022/jan/11/covid-news-live-pfizer-says-omicron-specific-vaccine-could-be-available-by-march-mexico-president-tests-positive-again)
-- [‘Bring your own booze’: newspapers lash PM over latest Downing Street party claim](https://www.theguardian.com/media/2022/jan/11/bring-your-own-booze-newspapers-lash-pm-over-latest-downing-street-party-claim)
-- [North Korea conducts fresh missile launch after Kim Jong-un call to bolster military](https://www.theguardian.com/world/2022/jan/11/north-korea-has-fired-possible-ballistic-missile-says-japan)
-- [UK retailers warn sales at risk from soaring cost of living in 2022](https://www.theguardian.com/business/2022/jan/11/uk-retailers-warn-sales-at-risk-from-soaring-cost-of-living-in-2022)
-- [Two 16-year-old boys charged with murder following man’s death in Dorset](https://www.theguardian.com/uk-news/2022/jan/10/two-16-year-old-boys-charged-with-following-mans-death-in-dorset)
-- [Novak Djokovic: Liberal MPs divided over whether Australian government should again cancel visa](https://www.theguardian.com/australia-news/2022/jan/11/novak-djokovic-liberal-mps-divided-over-whether-australian-government-should-again-cancel-visa)
-- [‘Do star jumps’: energy supplier criticised over advice on keeping warm](https://www.theguardian.com/money/2022/jan/10/do-star-jumps-uk-energy-supplier-sse-criticised-over-keep-warm-advice)
-- [Maria Ewing, opera singer and ex-wife of Sir Peter Hall, dies aged 71](https://www.theguardian.com/music/2022/jan/10/maria-ewing-dies-aged-71-peter-hall)
-- [Euphoria season two review – far too much nudity, sex and violence](https://www.theguardian.com/tv-and-radio/2022/jan/10/euphoria-season-two-review-far-too-much-nudity-sex-and-violence)
-- [What is racial invisibility, and how do white people benefit from it? | Luke Pearson for IndigenousX](https://www.theguardian.com/commentisfree/2022/jan/11/what-is-racial-invisibility-and-how-do-white-people-benefit-from-it)
+- [Covid news live: boosters not viable strategy against new variants, WHO warns; Quebec to impose ‘health tax’ on unvaccinated](https://www.theguardian.com/world/live/2022/jan/12/covid-news-live-boosters-not-viable-strategy-against-new-variants-who-warns-quebec-to-impose-health-tax-on-unvaccinated)
+- [New Zealand navy rescues duo stuck in Singapore for 18 months](https://www.theguardian.com/world/2022/jan/12/new-zealand-navy-rescues-duo-stuck-in-singapore-for-18-months)
+- [‘The party’s over, Boris’: what the papers say about Johnson’s No 10 crisis](https://www.theguardian.com/politics/2022/jan/12/the-partys-over-boris-what-the-papers-say-about-johnsons-no-10-crisis)
+- [Landmine-hunting hero rat dies in Cambodia after stellar career](https://www.theguardian.com/world/2022/jan/12/landmine-hunting-hero-rat-dies-in-cambodia-after-stellar-career)
+- [UK households suffer biggest fall in available cash in eight years](https://www.theguardian.com/business/2022/jan/12/uk-households-suffer-biggest-fall-in-available-cash-in-eight-years)
+- [Escape to the country? The top 10 UK property searches in 2021](https://www.theguardian.com/money/2022/jan/12/escape-to-the-country-the-top-10-uk-property-searches-in-2021)
+- [Smart motorway rollout suspended amid safety concerns](https://www.theguardian.com/uk-news/2022/jan/12/smart-motorway-rollout-suspended-amid-safety-concerns)
+- [I interviewed hundreds of people in search of the perfect routine. I realised there isn’t one](https://www.theguardian.com/lifeandstyle/2022/jan/12/i-interviewed-hundreds-of-people-in-search-of-the-perfect-routine-i-realised-there-isnt-one)
+- [Wolf Like Me review – so bad it’s good? No, just the former](https://www.theguardian.com/tv-and-radio/2022/jan/12/wolf-like-me-review-so-bad-its-good-no-just-the-former)
+- [Andrew Gosden’s family speak out after two men arrested over disappearance](https://www.theguardian.com/uk-news/2022/jan/11/two-men-arrested-over-andrew-gosden-disappearance-in-2007)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

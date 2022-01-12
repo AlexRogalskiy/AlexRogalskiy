@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Holocaust Survivor&#39;s Hardboiled Science Fiction](https://www.newyorker.com/magazine/2022/01/17/a-holocaust-survivors-hardboiled-science-fiction)
-- [Lufthansa confirmed that 18,000 flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
-- [&#39;The Matrix Resurrections&#39; estimated to lose Warner Bros. $100M](https://wegotthiscovered.com/tv/the-matrix-resurrections-estimated-to-lose-warner-bros-100-million/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
-- [Milton Friedman’s Interest Rate Fallacy](https://maroonmacro.substack.com/p/issue-38-milton-friedmans-interest)
-- [Minecraft mod that runs RISC-V Linux](https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09)
-- [Strengthening Our Efforts Against the Spread of Non-Consensual Intimate Images](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/)
-- [Plastic Liberated and Entombed Us](https://commonreader.wustl.edu/c/how-plastic-liberated-and-entombed-us/)
-- [A few things I’ve learned about livestreaming](https://dantepfer.com/blog/?p=1005)
-- [Michigan DOT Snowplow Names](https://www.michigan.gov/mdot/0,4616,7-151-9615-575096--,00.html)
+- [Cannot Download GitHub Assets](https://codeload.github.com/)
+- [Ask HN: Why new browsers use Chromium instead of Firefox as their base?](https://news.ycombinator.com/item?id=29900496)
+- [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
+- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- [Terence Tao&#39;s favorite problem-solving strategies &lpar;2010&rpar;](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
+- [“Modern” C++ Lamentations&lpar;2018&rpar;](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
+- [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743)
+- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech employees](https://withcompound.com/)
+- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
+- [Revisiting why hyperlinks are blue](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

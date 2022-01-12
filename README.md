@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT google class](https://www.reddit.com/r/InformationTechnology/comments/s1tgc0/it_google_class/)
+- [One of the jobs that I applied for has sent me a take home assignment. I&#39;m wondering if the assignment itself &lpar;I know interview assignments are fairly normal&rpar; is asking way too much?](https://www.reddit.com/r/InformationTechnology/comments/s1ocso/one_of_the_jobs_that_i_applied_for_has_sent_me_a/)
+- [On-Call and Relief Scheduler/Notifier](https://www.reddit.com/r/InformationTechnology/comments/s1mk8y/oncall_and_relief_schedulernotifier/)
+- [How much does a good DSS cost?](https://www.reddit.com/r/InformationTechnology/comments/s1kip5/how_much_does_a_good_dss_cost/)
+- [WAN Termination Points Explained - N10-008](https://www.reddit.com/r/InformationTechnology/comments/s1gjzn/wan_termination_points_explained_n10008/)
+- [Is anybody able to help](https://www.reddit.com/r/InformationTechnology/comments/s1fwcv/is_anybody_able_to_help/)
+- [DeFi, AI can be implemented and used for treatment](https://www.reddit.com/r/InformationTechnology/comments/s1f0d1/defi_ai_can_be_implemented_and_used_for_treatment/)
+- [New laptop](https://www.reddit.com/r/InformationTechnology/comments/s1eaoa/new_laptop/)
+- [Should I &lpar;22 M&rpar; leave my current job for a new opportunity? Slight increase in pay.](https://www.reddit.com/r/InformationTechnology/comments/s13swa/should_i_22_m_leave_my_current_job_for_a_new/)
 - [Does Comptia A+ actually land you a job? Or is it now the new associates degree? &lpar;Maybe even bachelors&rpar;](https://www.reddit.com/r/InformationTechnology/comments/s0z7d9/does_comptia_a_actually_land_you_a_job_or_is_it/)
-- [Certifications for Career Advancement](https://www.reddit.com/r/InformationTechnology/comments/s0sxrl/certifications_for_career_advancement/)
-- [Heat Dissipation on Rack Mounted Audio and Video equipment.](https://www.reddit.com/r/InformationTechnology/comments/s0sdis/heat_dissipation_on_rack_mounted_audio_and_video/)
-- [Post-military Heading Back to College](https://www.reddit.com/r/InformationTechnology/comments/s0m599/postmilitary_heading_back_to_college/)
-- [Interviewing Boss Candidates](https://www.reddit.com/r/InformationTechnology/comments/s0kd86/interviewing_boss_candidates/)
-- [Fields in IT](https://www.reddit.com/r/InformationTechnology/comments/s0ga7d/fields_in_it/)
-- [General help appreciated](https://www.reddit.com/r/InformationTechnology/comments/s03mrd/general_help_appreciated/)
-- [Careers in technology that also deal with international relations?](https://www.reddit.com/r/InformationTechnology/comments/rym4mj/careers_in_technology_that_also_deal_with/)
-- [Looking for a Webcam that is Natively Twain Compliant](https://www.reddit.com/r/InformationTechnology/comments/rxih9w/looking_for_a_webcam_that_is_natively_twain/)
-- [Merger Hell](https://www.reddit.com/r/InformationTechnology/comments/rxhuar/merger_hell/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

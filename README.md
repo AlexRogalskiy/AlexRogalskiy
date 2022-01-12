@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Probabilistic Thinking](https://cobie.substack.com/p/probabilistic-thinking)
-- [Email Is the Antidote](https://world.hey.com/dhh/email-is-the-antidote-d9d53c10)
-- [Appreciating the Physicality of Floppies](https://breakintochat.com/blog/2022/01/09/appreciating-the-physicality-of-floppies/)
-- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
-- [The &#39;breathing paintings&#39; of Nigerian artist Shofela Coker](https://animationobsessive.substack.com/p/breathing-paintings)
-- [The Sleep of Reason Produces Cats](https://lareviewofbooks.org/article/the-sleep-of-reason-produces-cats/)
-- [Female dolphins have a clitoris much like humans’](https://www.sciencenews.org/article/dolphin-female-clitoris-sexual-anatomy)
-- [Partitioning the internet using Anycast catchments [pdf]](https://kyle.schomp.info/docs/anycast_partition.pdf)
-- [Crev – socially scalable Code REView and recommendation system](https://github.com/crev-dev/)
-- [Akamai DNS: Providing Authoritative Answers to the World’s Queries [pdf]](https://www.akamai.com/content/dam/site/en/documents/technical-publication/akamai-dns-providing-authoritative-answers-to-the-worlds-queries.pdf)
+- [Impossible color – Claimed evidence of ability to see colors not in color space](https://en.wikipedia.org/wiki/Impossible_color)
+- [Japan&#39;s Abandoned Coin Lockers](https://www.youtube.com/watch?v=sajcUVDDBU8)
+- [A Guide to NSButton Styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
+- [Noisy and Unsafe: Stop Fetishizing Old Housing Units](https://www.theatlantic.com/ideas/archive/2022/01/stop-fetishizing-old-homes-new-construction-nice/621012/)
+- [GitHub appears to be having issues](https://downdetector.com/status/github/)
+- [Samsung no-showed on its major Exynos 2200 launch](https://arstechnica.com/gadgets/2022/01/samsung-no-showed-on-its-major-exynos-2200-launch-and-wont-say-why/)
+- [Cannot Download GitHub Assets](https://codeload.github.com/)
+- [Amazon&#39;s new AWS service terms seem pretty standard until you get to 42.10](https://old.reddit.com/r/sysadmin/comments/s1m26s/amazons_new_aws_service_terms/)
+- [Why Tesla Soared as Other Automakers Struggled to Make Cars](https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html)
+- [2021 CCP Volumes and Market Share in IRD](https://www.clarusft.com/2021-ccp-volumes-and-market-share-in-ird/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

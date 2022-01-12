@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How digital-twin technology could revolutionise the healthcare industry](https://www.computerweekly.com/opinion/How-Digital-Twin-Technology-Could-Revolutionise-the-Healthcare-Industry)
+- [Almost half of Log4j downloads still dangerously exposed](https://www.computerweekly.com/news/252511846/Almost-half-of-Log4j-downloads-still-dangerously-exposed)
+- [Post Office can’t access records of all money paid to it by victims of the Horizon scandal](https://www.computerweekly.com/news/252511844/Post-Office-cant-access-records-of-all-money-paid-to-it-by-victims-of-the-Horizon-scandal)
+- [Banks accused of neglecting customer security measures](https://www.computerweekly.com/news/252511838/Banks-accused-of-neglecting-customer-security-measures)
+- [IT departments struggling to secure printer endpoints](https://www.computerweekly.com/news/252511831/IT-departments-struggling-to-secure-printer-endpoints)
+- [Companies propose scanning content pre-encryption to fight CSAM](https://www.computerweekly.com/news/252511733/Companies-propose-scanning-content-pre-encryption-to-fight-CSAM)
+- [NHS England urged to produce tech roadmap to cope with pandemic backlog](https://www.computerweekly.com/news/252511810/NHS-England-urged-to-produce-tech-roadmap-to-cope-with-pandemic-backlog)
+- [Cyber security failure one of biggest risks facing countries and businesses, warns WEF](https://www.computerweekly.com/news/252511811/Cyber-security-failure-one-of-biggest-risks-facing-countries-and-businesses-warns-WEF)
+- [How Pepsi is taking digital to the max](https://www.computerweekly.com/ezine/Computer-Weekly/How-Pepsi-is-taking-digital-to-the-max)
 - [How to make AI greener and more efficient](https://www.computerweekly.com/feature/How-to-make-AI-greener-and-more-efficient)
-- [Public sector IT and communications spend down 4% last year](https://www.computerweekly.com/news/252511744/Public-sector-IT-and-communications-spend-down-4-last-year)
-- [Young people are leaving tech because of bad culture](https://www.computerweekly.com/news/252511740/Young-people-are-leaving-tech-because-of-bad-culture)
-- [Ministry of Justice caught up in multiple cyber incidents](https://www.computerweekly.com/news/252511731/Ministry-of-Justice-caught-up-in-multiple-cyber-incidents)
-- [How to create a sustainable continuous learning culture](https://www.computerweekly.com/feature/How-to-create-a-sustainable-continuous-learning-culture)
-- [University of Edinburgh extends IoT data science to south-east Scottish pupils](https://www.computerweekly.com/feature/University-of-Edinburgh-extends-IoT-data-science-to-south-east-Scottish-pupils)
-- [New supercomputer opens doors for researchers in Sweden](https://www.computerweekly.com/feature/New-supercomputer-opens-doors-for-researchers-in-Sweden)
-- [Sharp end of the edge: Managing micro-datacentres in a shared environment](https://www.computerweekly.com/feature/Sharp-end-of-the-edge-Managing-micro-datacentres-in-a-shared-environment)
-- [Avoid complexity in data storage decisions](https://www.computerweekly.com/opinion/Avoid-complexity-in-data-storage-decisions)
-- [Record amount invested in UK fintech last year, but female founders still overlooked](https://www.computerweekly.com/news/252511688/Record-amount-invested-in-UK-fintech-last-year-but-female-founders-still-overlooked)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

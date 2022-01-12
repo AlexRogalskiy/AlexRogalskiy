@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Triumph in adversity: Apple’s payment system opportunity](https://www.computerworld.com/article/3646558/triumph-in-adversity-apple-s-payment-system-opportunity.html#tk.rss_all)
+- [Why not a four-day workweek?](https://www.computerworld.com/article/3646592/why-not-a-four-day-work-week.html#tk.rss_all)
+- [Google finds a nation-state level of attacks on iPhone](https://www.computerworld.com/article/3646228/google-finds-a-nation-state-level-of-attacks-on-iphone.html#tk.rss_all)
+- [8 key technologies for the future of work](https://www.computerworld.com/article/3645502/8-key-technologies-for-the-future-of-work.html#tk.rss_all)
 - [BrandPost: 5 New Year’s Resolutions for Every SMB](https://www.computerworld.com/article/3646611/5-new-year-s-resolutions-for-every-smb.html#tk.rss_all)
 - [BrandPost: How to Adopt a “Defense in Depth” Security Strategy to Protect Your SMB](https://www.computerworld.com/article/3646571/how-to-adopt-a-defense-in-depth-security-strategy-to-protect-your-smb.html#tk.rss_all)
 - [17 ways the iPhone transformed enterprise tech](https://www.computerworld.com/article/3646553/17-ways-the-iphone-transformed-enterprise-tech.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Windows security in ’22 — you need more than just antivirus software](https://www.computerworld.com/article/3646552/windows-security-in-22-you-need-more-than-just-antivirus-software.html#tk.rss_all)
-- [The cloud comes down to earth](https://www.networkworld.com/article/3646532/the-cloud-comes-down-to-earth.html#tk.rss_all)
-- [How to choose a SaaS management platform](https://www.computerworld.com/article/3641770/how-to-choose-a-saas-management-platform.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Noteworthy technology acquisitions 2021](https://www.computerworld.com/article/3605102/noteworthy-technology-acquisitions-2021.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

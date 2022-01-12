@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Trends That Will Affect IT in 2022](https://www.informationweek.com/big-data/10-trends-that-will-affect-it-in-2022)
+- [The Great Resignation: How to Combat the Knowledge Drain Effect](https://www.informationweek.com/it-life/the-great-resignation-how-to-combat-the-knowledge-drain-effect)
 - [Digital Twin Smart Mapping Hits the Slopes](https://www.informationweek.com/big-data/digital-twin-smart-mapping-hits-the-slopes)
 - [AI and Data This Year: Bigger, Bolder, and Business-Focused](https://www.informationweek.com/big-data/ai-and-data-this-year-bigger-bolder-and-business-focused)
 - [Abbott CEO Ford at CES Talks Democratizing COVID Testing](https://www.informationweek.com/healthcare/abbot-ceo-ford-at-ces-talks-democratizing-covid-testing)
@@ -377,8 +379,6 @@
 - [AI’s Bumpy Road to Fruition](https://www.informationweek.com/big-data/ai-s-bumpy-road-to-fruition)
 - [Human-Robot Teams: The Next IT Management Challenge](https://www.informationweek.com/big-data/human-robot-teams-the-next-it-management-challenge)
 - [SD-WAN and SASE – Hype or Reality?](https://www.informationweek.com/cloud/sd-wan-and-sase-hype-or-reality)
-- [Chase CIO Gill Haus Discusses Recruitment, Agile, and Automation](https://www.informationweek.com/strategic-cio/chase-cio-gill-haus-discusses-recruitment-agile-and-automation)
-- [IT Job Skills 2022: What’s Hot, What’s Not?](https://www.informationweek.com/strategic-cio/it-job-skills-2022-what-s-hot-what-s-not-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

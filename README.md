@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: boosters not viable strategy against new variants, WHO warns; Quebec to impose ‘health tax’ on unvaccinated](https://www.theguardian.com/world/live/2022/jan/12/covid-news-live-boosters-not-viable-strategy-against-new-variants-who-warns-quebec-to-impose-health-tax-on-unvaccinated)
-- [New Zealand navy rescues duo stuck in Singapore for 18 months](https://www.theguardian.com/world/2022/jan/12/new-zealand-navy-rescues-duo-stuck-in-singapore-for-18-months)
-- [‘The party’s over, Boris’: what the papers say about Johnson’s No 10 crisis](https://www.theguardian.com/politics/2022/jan/12/the-partys-over-boris-what-the-papers-say-about-johnsons-no-10-crisis)
-- [Landmine-hunting hero rat dies in Cambodia after stellar career](https://www.theguardian.com/world/2022/jan/12/landmine-hunting-hero-rat-dies-in-cambodia-after-stellar-career)
-- [UK households suffer biggest fall in available cash in eight years](https://www.theguardian.com/business/2022/jan/12/uk-households-suffer-biggest-fall-in-available-cash-in-eight-years)
-- [Escape to the country? The top 10 UK property searches in 2021](https://www.theguardian.com/money/2022/jan/12/escape-to-the-country-the-top-10-uk-property-searches-in-2021)
-- [Smart motorway rollout suspended amid safety concerns](https://www.theguardian.com/uk-news/2022/jan/12/smart-motorway-rollout-suspended-amid-safety-concerns)
-- [I interviewed hundreds of people in search of the perfect routine. I realised there isn’t one](https://www.theguardian.com/lifeandstyle/2022/jan/12/i-interviewed-hundreds-of-people-in-search-of-the-perfect-routine-i-realised-there-isnt-one)
-- [Wolf Like Me review – so bad it’s good? No, just the former](https://www.theguardian.com/tv-and-radio/2022/jan/12/wolf-like-me-review-so-bad-its-good-no-just-the-former)
-- [Andrew Gosden’s family speak out after two men arrested over disappearance](https://www.theguardian.com/uk-news/2022/jan/11/two-men-arrested-over-andrew-gosden-disappearance-in-2007)
+- [Covid news live: US deaths rise 40% on last week, CDC says; German chancellor calls for mandatory vaccination of all adults](https://www.theguardian.com/world/live/2022/jan/13/covid-news-live-us-deaths-rise-40-on-last-week-cdc-says-german-chancellor-calls-for-mandatory-vaccination-of-all-adults)
+- [Ill health in ‘left behind’ areas costs England £30bn a year, says report](https://www.theguardian.com/inequality/2022/jan/13/ill-health-in-left-behind-areas-costs-england-30bn-a-year-says-report)
+- [Age UK calls for help for millions of older people struggling to afford heating](https://www.theguardian.com/money/2022/jan/13/age-uk-calls-for-help-for-millions-of-older-people-struggling-to-afford-heating)
+- [Ovo expected to make a quarter of staff redundant due to energy crisis](https://www.theguardian.com/business/2022/jan/12/ovo-expected-to-make-a-quarter-of-staff-redundant-due-to-energy-crisis)
+- [Pandemic brought ‘dramatic’ fall in English hospital admissions for childhood infections](https://www.theguardian.com/science/2022/jan/12/pandemic-brought-dramatic-fall-in-english-hospital-admissions-for-childhood-infections)
+- [My bile rises as I’m asked to move my dying cancer patient out of ICU to make room for an unvaccinated man with Covid | Ranjana Srivastava](https://www.theguardian.com/commentisfree/2022/jan/13/my-bile-rises-as-im-asked-to-move-my-dying-cancer-patient-out-of-icu-to-make-room-for-an-unvaccinated-man-with-covid)
+- [Ronnie Spector, pop singer who fronted the Ronettes, dies aged 78](https://www.theguardian.com/music/2022/jan/12/ronnie-spector-pop-singer-who-fronted-the-ronettes-dies-aged-78)
+- [US Capitol attack panel asks Kevin McCarthy to cooperate with inquiry](https://www.theguardian.com/us-news/2022/jan/12/kevin-mccarthy-january-6-panel-capitol-riot)
+- [Man arrested after allegedly damaging statue outside BBC Broadcasting House](https://www.theguardian.com/uk-news/2022/jan/12/man-arrested-after-allegedly-damaging-statue-outside-bbc-broadcasting-house)
+- [Valverde’s extra-time strike sends Real Madrid into Spanish Super Cup final](https://www.theguardian.com/football/2022/jan/12/real-madrid-barcelona-spanish-super-cup-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

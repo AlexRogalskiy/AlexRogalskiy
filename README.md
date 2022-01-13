@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Telus Health launches Virtual Pharmacy service in Canada](https://www.itworldcanada.com/article/telus-health-launches-virtual-pharmacy-service-in-canada/470468)
+- [Royal Ontario Museum opens registration for Spring 2022 info session of its Minecraft virtual program](https://www.itworldcanada.com/article/royal-ontario-museum-opens-registration-for-spring-2022-info-session-of-its-minecraft-virtual-program/470462)
+- [US warns critical infrastructure of Russian state-sponsored threats](https://www.itworldcanada.com/article/us-warns-critical-infrastructure-of-russian-state-sponsored-threats/470424)
+- [Cyber Security Today, Jan. 12, 2022 – Install these security updates, and beware of phony QR codes](https://www.itworldcanada.com/article/cyber-security-today-jan-12-2022-install-these-security-updates-and-beware-of-phony-qr-codes/470413)
+- [Canadian government contracts AI mapping company to help plan rural area networks](https://www.itworldcanada.com/article/canadian-government-contracts-ai-mapping-company-to-help-plan-rural-area-networks/470408)
+- [Hashtag Trending Jan. 12 – Amazon’s employee ranking system; Bitcoin ban; California allocates $6.1 billion to EV](https://www.itworldcanada.com/article/hashtag-trending-jan-12-amazons-employee-ranking-system-bitcoin-ban-california-allocates-6-1-billion-to-ev/470434)
 - [Vulnerabilities in WordPress plugins more than doubled in 2021: Report](https://www.itworldcanada.com/article/vulnerabilities-in-wordpress-plugins-more-than-doubled-in-2021-report/470363)
 - [Log4Shell bug used to deploy NightSky ransomware on VMware Horizon, says Microsoft](https://www.itworldcanada.com/article/log4shell-bug-used-to-deploy-nightsky-ransomware-on-vmware-horizon-says-microsoft/470346)
 - [Coffee Briefing Jan. 11, 2022 – LG joins IBM Quantum Network; Telus program gets global privacy recognition; YRP adopts e-notes-taking solution; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-11-2022-lg-joins-ibm-quantum-network-telus-program-gets-global-privacy-recognition-yrp-adopts-e-notes-taking-solution-and-more/470359)
 - [Hashtag Trending Jan. 11 – Panasonic’s four day work week; Clean energy fund to raise $15 billion; Facebook accused of inciting violence](https://www.itworldcanada.com/article/hashtag-trending-jan-11-panasonics-four-day-work-week-clean-energy-fund-to-raise-15-billion-facebook-accused-of-inciting-violence/470341)
-- [CES 2022: HP Elite Dragonfly Chromebook aims for the high-end](https://www.itworldcanada.com/article/ces-2022-hp-elite-dragonfly-chromebook-aims-for-the-high-end/470265)
-- [Waterloo company simplifies parking process in busy cities](https://www.itworldcanada.com/article/waterloo-company-simplifies-parking-process-in-busy-cities/470058)
-- [Cyber Security Today, Jan 10, 2022 – Beware of unexpected USB keys in the mail, FlexBooker admits data theft and more](https://www.itworldcanada.com/article/cyber-security-today-jan-10-2022-beware-of-unexpected-usb-keys-in-the-mail-flexbooker-admits-data-theft-and-more/470262)
-- [Hashtag Trending Jan. 10 – Canon’s chipless ink; Reddit’s Antiwork; Google’s patent lawsuit loss](https://www.itworldcanada.com/article/hashtag-trending-jan-10-canons-chipless-ink-reddits-antiwork-googles-patent-lawsuit-loss/470282)
-- [Cyber Security Today, Week in Review for January 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-7-2022/470105)
-- [CES 2022: HP updates its prettiest business laptop](https://www.itworldcanada.com/article/ces-2022-hp-updates-its-prettiest-business-laptop/470238)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

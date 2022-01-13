@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Fintech’s Future Through the Eyes of CES](https://www.informationweek.com/fintech/fintech-s-future-through-the-eyes-of-ces)
+- [Information Security Analyst Tops List of 2022 Top Jobs](https://www.informationweek.com/strategic-cio/information-security-analyst-tops-list-of-2022-top-jobs)
 - [10 Trends That Will Affect IT in 2022](https://www.informationweek.com/big-data/10-trends-that-will-affect-it-in-2022)
 - [The Great Resignation: How to Combat the Knowledge Drain Effect](https://www.informationweek.com/it-life/the-great-resignation-how-to-combat-the-knowledge-drain-effect)
 - [Digital Twin Smart Mapping Hits the Slopes](https://www.informationweek.com/big-data/digital-twin-smart-mapping-hits-the-slopes)
@@ -377,8 +379,6 @@
 - [Entering the Cloud-First Race? Consider These 5 Things](https://www.informationweek.com/cloud/entering-the-cloud-first-race-consider-these-5-things)
 - [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.informationweek.com/cloud/which-cloud-strategy-is-right-for-my-organization-s-security-needs-)
 - [AI’s Bumpy Road to Fruition](https://www.informationweek.com/big-data/ai-s-bumpy-road-to-fruition)
-- [Human-Robot Teams: The Next IT Management Challenge](https://www.informationweek.com/big-data/human-robot-teams-the-next-it-management-challenge)
-- [SD-WAN and SASE – Hype or Reality?](https://www.informationweek.com/cloud/sd-wan-and-sase-hype-or-reality)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

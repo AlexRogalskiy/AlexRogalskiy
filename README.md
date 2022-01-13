@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cannot Download GitHub Assets](https://codeload.github.com/)
-- [Ask HN: Why new browsers use Chromium instead of Firefox as their base?](https://news.ycombinator.com/item?id=29900496)
-- [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
-- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
-- [Terence Tao&#39;s favorite problem-solving strategies &lpar;2010&rpar;](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
-- [“Modern” C++ Lamentations&lpar;2018&rpar;](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
-- [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743)
-- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech employees](https://withcompound.com/)
-- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
-- [Revisiting why hyperlinks are blue](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
+- [5.16 Kernel Development Statistics](https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/)
+- [PUBG Game maker says Apple, Google selling rip-offs in new lawsuit](https://www.reuters.com/legal/litigation/game-maker-says-apple-google-selling-rip-offs-new-lawsuit-2022-01-11/)
+- [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
+- [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
+- [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
+- [New info about cellular death process previously thought to be irreversible](https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible)
+- [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
+- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs &lpar;2018&rpar;](https://twitter.com/TechEmails/status/1481339345822879745)
+- [Poor man&#39;s VPN &lpar;pay for only what you need&rpar;](https://github.com/amritb/poor-mans-vpn)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

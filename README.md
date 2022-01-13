@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating a Master Contact List](https://www.reddit.com/r/InformationTechnology/comments/s2k6k0/creating_a_master_contact_list/)
+- [I&#39;m going to college next month and I&#39;m not sure what to choose. I&#39;m hearing a lot of good about IT. Should i consider it or is it a bad degree to choose. I&#39;m interested in technology tho.](https://www.reddit.com/r/InformationTechnology/comments/s2fk3c/im_going_to_college_next_month_and_im_not_sure/)
+- [Any ideas for setting up Identity and Access Management Labs&lpar;IAM&rpar; ?](https://www.reddit.com/r/InformationTechnology/comments/s29d88/any_ideas_for_setting_up_identity_and_access/)
+- [Switching careers advice](https://www.reddit.com/r/InformationTechnology/comments/s23lw3/switching_careers_advice/)
+- [Russian data protection law.](https://www.reddit.com/r/InformationTechnology/comments/s22mpi/russian_data_protection_law/)
 - [IT google class](https://www.reddit.com/r/InformationTechnology/comments/s1tgc0/it_google_class/)
 - [One of the jobs that I applied for has sent me a take home assignment. I&#39;m wondering if the assignment itself &lpar;I know interview assignments are fairly normal&rpar; is asking way too much?](https://www.reddit.com/r/InformationTechnology/comments/s1ocso/one_of_the_jobs_that_i_applied_for_has_sent_me_a/)
 - [On-Call and Relief Scheduler/Notifier](https://www.reddit.com/r/InformationTechnology/comments/s1mk8y/oncall_and_relief_schedulernotifier/)
 - [How much does a good DSS cost?](https://www.reddit.com/r/InformationTechnology/comments/s1kip5/how_much_does_a_good_dss_cost/)
 - [WAN Termination Points Explained - N10-008](https://www.reddit.com/r/InformationTechnology/comments/s1gjzn/wan_termination_points_explained_n10008/)
-- [Is anybody able to help](https://www.reddit.com/r/InformationTechnology/comments/s1fwcv/is_anybody_able_to_help/)
-- [DeFi, AI can be implemented and used for treatment](https://www.reddit.com/r/InformationTechnology/comments/s1f0d1/defi_ai_can_be_implemented_and_used_for_treatment/)
-- [New laptop](https://www.reddit.com/r/InformationTechnology/comments/s1eaoa/new_laptop/)
-- [Should I &lpar;22 M&rpar; leave my current job for a new opportunity? Slight increase in pay.](https://www.reddit.com/r/InformationTechnology/comments/s13swa/should_i_22_m_leave_my_current_job_for_a_new/)
-- [Does Comptia A+ actually land you a job? Or is it now the new associates degree? &lpar;Maybe even bachelors&rpar;](https://www.reddit.com/r/InformationTechnology/comments/s0z7d9/does_comptia_a_actually_land_you_a_job_or_is_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

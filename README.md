@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [MEPs demand EU probe into Pegasus spyware abuse](https://www.computerweekly.com/news/252511930/MEPs-demand-EU-probe-into-Pegasus-spyware-abuse)
+- [UK government bodies challenged on secure identity](https://www.computerweekly.com/news/252511918/UK-government-bodies-challenged-on-secure-identity)
+- [Government backs Turing Institute in bid to set global AI technical standards](https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards)
+- [IT teams give remote tech the thumbs up, but worry about extra work](https://www.computerweekly.com/news/252511902/IT-teams-give-remote-tech-the-thumbs-up-but-worry-about-extra-work)
+- [Outsourced IT and business services hit record levels in 2021](https://www.computerweekly.com/news/252511911/IT-and-business-services-hit-record-levels-in-2021)
+- [Microsoft fixes six zero-days in January Patch Tuesday update](https://www.computerweekly.com/news/252511907/Microsoft-fixes-six-zero-days-in-January-Patch-Tuesday-update)
+- [Dutch cyber volunteers receive major funding boost](https://www.computerweekly.com/news/252511904/Dutch-cyber-volunteers-receive-major-funding-boost)
 - [How digital-twin technology could revolutionise the healthcare industry](https://www.computerweekly.com/opinion/How-Digital-Twin-Technology-Could-Revolutionise-the-Healthcare-Industry)
 - [Almost half of Log4j downloads still dangerously exposed](https://www.computerweekly.com/news/252511846/Almost-half-of-Log4j-downloads-still-dangerously-exposed)
 - [Post Office can’t access records of all money paid to it by victims of the Horizon scandal](https://www.computerweekly.com/news/252511844/Post-Office-cant-access-records-of-all-money-paid-to-it-by-victims-of-the-Horizon-scandal)
-- [Banks accused of neglecting customer security measures](https://www.computerweekly.com/news/252511838/Banks-accused-of-neglecting-customer-security-measures)
-- [IT departments struggling to secure printer endpoints](https://www.computerweekly.com/news/252511831/IT-departments-struggling-to-secure-printer-endpoints)
-- [Companies propose scanning content pre-encryption to fight CSAM](https://www.computerweekly.com/news/252511733/Companies-propose-scanning-content-pre-encryption-to-fight-CSAM)
-- [NHS England urged to produce tech roadmap to cope with pandemic backlog](https://www.computerweekly.com/news/252511810/NHS-England-urged-to-produce-tech-roadmap-to-cope-with-pandemic-backlog)
-- [Cyber security failure one of biggest risks facing countries and businesses, warns WEF](https://www.computerweekly.com/news/252511811/Cyber-security-failure-one-of-biggest-risks-facing-countries-and-businesses-warns-WEF)
-- [How Pepsi is taking digital to the max](https://www.computerweekly.com/ezine/Computer-Weekly/How-Pepsi-is-taking-digital-to-the-max)
-- [How to make AI greener and more efficient](https://www.computerweekly.com/feature/How-to-make-AI-greener-and-more-efficient)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

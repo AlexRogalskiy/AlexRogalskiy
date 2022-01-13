@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Impossible color – Claimed evidence of ability to see colors not in color space](https://en.wikipedia.org/wiki/Impossible_color)
-- [Japan&#39;s Abandoned Coin Lockers](https://www.youtube.com/watch?v=sajcUVDDBU8)
-- [A Guide to NSButton Styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
-- [Noisy and Unsafe: Stop Fetishizing Old Housing Units](https://www.theatlantic.com/ideas/archive/2022/01/stop-fetishizing-old-homes-new-construction-nice/621012/)
-- [GitHub appears to be having issues](https://downdetector.com/status/github/)
-- [Samsung no-showed on its major Exynos 2200 launch](https://arstechnica.com/gadgets/2022/01/samsung-no-showed-on-its-major-exynos-2200-launch-and-wont-say-why/)
-- [Cannot Download GitHub Assets](https://codeload.github.com/)
-- [Amazon&#39;s new AWS service terms seem pretty standard until you get to 42.10](https://old.reddit.com/r/sysadmin/comments/s1m26s/amazons_new_aws_service_terms/)
-- [Why Tesla Soared as Other Automakers Struggled to Make Cars](https://www.nytimes.com/2022/01/08/business/teslas-computer-chips-supply-chain.html)
-- [2021 CCP Volumes and Market Share in IRD](https://www.clarusft.com/2021-ccp-volumes-and-market-share-in-ird/)
+- [Awesome Elisp](https://github.com/p3r7/awesome-elisp)
+- [Hollywood&#39;s New Rules](https://bariweiss.substack.com/p/hollywoods-new-rules)
+- [EU to Stage Large-Scale Cyberattack Exercise on Supply Chains](https://www.bloomberg.com/news/articles/2022-01-11/eu-to-stage-large-scale-cyberattack-exercise-on-supply-chains)
+- [Amazon partnered with China propaganda arm to win Beijing&#39;s favor](https://www.japantimes.co.jp/news/2021/12/18/business/china-amazon-internet-censorship/)
+- [We Ship GitHub Mobile Every Week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
+- [Rethinking Errors, Warnings, and Lints](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
+- [Someone just took pictures of himself everyday for 5 years and sold it as an NFT](https://opensea.io/collection/ghozali-everyday?tab=activity)
+- [The Memories of Z80 Past: Zaxxon and Future Spy](https://nicole.express/2022/future-spy-but-its-now-the-future.html)
+- [Ask HN: Startups vs Big Companies: Which do you prefer?](https://news.ycombinator.com/item?id=29916008)
+- [FDA head says &#39;most people are going to get Covid&#39; at hearing with Fauci](https://www.washingtonpost.com/politics/2022/01/11/most-people-are-going-get-covid-momentous-warning-senate-hearing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

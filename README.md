@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [IPython REPL update advances code formatting](https://www.infoworld.com/article/3647171/ipython-repl-update-advances-code-formatting.html#tk.rss_all)
+- [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_all)
 - [Firefox 96 enhances CSS, Canvas support for developers](https://www.infoworld.com/article/3646751/firefox-96-enhances-css-canvas-support-for-developers.html#tk.rss_all)
 - [What is Web3? A new decentralized web, or the latest marketing buzzword](https://www.infoworld.com/article/3646597/what-is-web3-a-new-decentralized-web-or-the-latest-marketing-buzzword.html#tk.rss_all)
 - [Understanding Azure HPC](https://www.infoworld.com/article/3646419/understanding-azure-hpc.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Maybe cloud migration needs more than six Rs](https://www.infoworld.com/article/3646593/maybe-cloud-migration-needs-more-than-six-rs.html#tk.rss_all)
 - [All roads lead to hyperautomation in 2022](https://www.infoworld.com/article/3646556/all-roads-lead-to-hyperautomation-in-2022.html#tk.rss_all)
 - [Multicloud and your career](https://www.infoworld.com/article/3646594/multicloud-and-your-career.html#tk.rss_all)
-- [5 questions to consider about agile capacity planning](https://www.infoworld.com/article/3646411/5-questions-to-consider-about-agile-capacity-planning.html#tk.rss_all)
-- [16 irresistible cloud innovations](https://www.infoworld.com/article/3642543/16-irresistible-cloud-innovations.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

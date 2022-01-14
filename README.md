@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [5.16 Kernel Development Statistics](https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/)
-- [PUBG Game maker says Apple, Google selling rip-offs in new lawsuit](https://www.reuters.com/legal/litigation/game-maker-says-apple-google-selling-rip-offs-new-lawsuit-2022-01-11/)
-- [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
-- [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
-- [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
-- [New info about cellular death process previously thought to be irreversible](https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible)
-- [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
-- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs &lpar;2018&rpar;](https://twitter.com/TechEmails/status/1481339345822879745)
-- [Poor man&#39;s VPN &lpar;pay for only what you need&rpar;](https://github.com/amritb/poor-mans-vpn)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
+- [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
+- [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
+- [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
+- [Provably space-efficient parallel functional programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
+- [Exploring System76&#39;s New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
+- [Show HN: Create animations by dragging an element with your mouse](https://animatize.com/)
+- [Music industry is suing youtube-dl hosters](https://news.i-n24.com/lifestyle/news/253970.html)
+- [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
+- [Hate leap seconds? Imagine a negative one](https://counting.substack.com/p/hate-leap-seconds-imagine-a-negative)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

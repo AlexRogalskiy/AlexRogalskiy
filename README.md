@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Google forced to release documents about anti-union campaign](https://www.computerweekly.com/news/252511976/Google-forced-to-release-documents-about-anti-union-campaign)
+- [Nordic companies targeted in wave of cyber attacks](https://www.computerweekly.com/news/252511965/Nordic-companies-targeted-in-wave-of-cyber-attacks)
+- [Councillors refuse public release of IT audit of Hackney Psya ransomware attack](https://www.computerweekly.com/news/252511968/Councillors-refuse-public-release-of-IT-audit-of-Hackney-Psya-ransomware-attack)
+- [Ikano Bank’s team of robots exceeds 2021 targets](https://www.computerweekly.com/news/252511664/Ikano-Banks-team-of-robots-exceeds-2021-targets)
+- [CW Middle East: What does Saudi Arabia’s autonomous vehicle agenda mean for the world?](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-What-does-Saudi-Arabias-autonomous-vehicle-agenda-mean-for-the-world)
+- [NCSC sounds alarm over Russia-backed hacks](https://www.computerweekly.com/news/252511934/NCSC-sounds-alarm-over-Russia-backed-hacks)
+- [ICO investigates police use of app to covertly record calls from mobile phones](https://www.computerweekly.com/news/252511938/ICO-investigation-after-police-use-app-to-covertly-record-calls-from-mobile-phones)
 - [MEPs demand EU probe into Pegasus spyware abuse](https://www.computerweekly.com/news/252511930/MEPs-demand-EU-probe-into-Pegasus-spyware-abuse)
 - [UK government bodies challenged on secure identity](https://www.computerweekly.com/news/252511918/UK-government-bodies-challenged-on-secure-identity)
 - [Government backs Turing Institute in bid to set global AI technical standards](https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards)
-- [IT teams give remote tech the thumbs up, but worry about extra work](https://www.computerweekly.com/news/252511902/IT-teams-give-remote-tech-the-thumbs-up-but-worry-about-extra-work)
-- [Outsourced IT and business services hit record levels in 2021](https://www.computerweekly.com/news/252511911/IT-and-business-services-hit-record-levels-in-2021)
-- [Microsoft fixes six zero-days in January Patch Tuesday update](https://www.computerweekly.com/news/252511907/Microsoft-fixes-six-zero-days-in-January-Patch-Tuesday-update)
-- [Dutch cyber volunteers receive major funding boost](https://www.computerweekly.com/news/252511904/Dutch-cyber-volunteers-receive-major-funding-boost)
-- [How digital-twin technology could revolutionise the healthcare industry](https://www.computerweekly.com/opinion/How-Digital-Twin-Technology-Could-Revolutionise-the-Healthcare-Industry)
-- [Almost half of Log4j downloads still dangerously exposed](https://www.computerweekly.com/news/252511846/Almost-half-of-Log4j-downloads-still-dangerously-exposed)
-- [Post Office can’t access records of all money paid to it by victims of the Horizon scandal](https://www.computerweekly.com/news/252511844/Post-Office-cant-access-records-of-all-money-paid-to-it-by-victims-of-the-Horizon-scandal)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

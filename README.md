@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Supply chain, semi-conductor issues slam PC shipments](https://www.computerworld.com/article/3646991/supply-chain-semi-conductor-issues-slam-pc-shipments.html#tk.rss_all)
+- [Podcast: What’s next for the App Store?](https://www.computerworld.com/article/3647089/podcast-whats-next-for-the-app-store.html#tk.rss_all)
+- [The trillion-hour attention economy &lpar;and where the Apple Car fits in&rpar;](https://www.computerworld.com/article/3647148/the-trillion-hour-attention-economy-and-where-the-apple-car-fits-in.html#tk.rss_all)
+- [The future of work is here](https://www.computerworld.com/article/3646559/the-future-of-work-is-here.html#tk.rss_all)
+- [In IT, Boomers are out, raises are rising — and change is coming](https://www.computerworld.com/article/3646988/in-it-boomers-are-out-raises-are-rising-and-change-is-coming.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Cellular networks revolt against Apple privacy moves](https://www.computerworld.com/article/3646617/cellular-networks-revolt-against-apple-privacy-moves.html#tk.rss_all)
 - [ARHT Media’s ‘Holopresence’ — a  futuristic option for virtual appearances?](https://www.computerworld.com/article/3646575/arht-medias-holopresence-a-futuristic-option-for-virtual-appearances.html#tk.rss_all)
 - [Microsoft touts first PCs to ship natively with secure Pluton chip](https://www.computerworld.com/article/3646749/microsoft-touts-first-pcs-to-ship-natively-with-secure-pluton-chip.html#tk.rss_all)
 - [5 new Chrome OS features you should find right now](https://www.computerworld.com/article/3603041/chrome-os-features-2022.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Triumph in adversity: Apple’s payment system opportunity](https://www.computerworld.com/article/3646558/triumph-in-adversity-apple-s-payment-system-opportunity.html#tk.rss_all)
-- [Why not a four-day workweek?](https://www.computerworld.com/article/3646592/why-not-a-four-day-work-week.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

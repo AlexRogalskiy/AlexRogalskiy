@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Repurpose an Obsolete On-Premises Data Center](https://www.informationweek.com/cloud/how-to-repurpose-an-obsolete-on-premises-data-center)
+- [Tipping Point: Tech Decentralizes Out of IT](https://www.informationweek.com/strategic-cio/tipping-point-tech-decentralizes-out-of-it)
 - [Fintech’s Future Through the Eyes of CES](https://www.informationweek.com/fintech/fintech-s-future-through-the-eyes-of-ces)
 - [Information Security Analyst Tops List of 2022 Top Jobs](https://www.informationweek.com/strategic-cio/information-security-analyst-tops-list-of-2022-top-jobs)
 - [10 Trends That Will Affect IT in 2022](https://www.informationweek.com/big-data/10-trends-that-will-affect-it-in-2022)
@@ -377,8 +379,6 @@
 - [AI and Data This Year: Bigger, Bolder, and Business-Focused](https://www.informationweek.com/big-data/ai-and-data-this-year-bigger-bolder-and-business-focused)
 - [Abbott CEO Ford at CES Talks Democratizing COVID Testing](https://www.informationweek.com/healthcare/abbot-ceo-ford-at-ces-talks-democratizing-covid-testing)
 - [Entering the Cloud-First Race? Consider These 5 Things](https://www.informationweek.com/cloud/entering-the-cloud-first-race-consider-these-5-things)
-- [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.informationweek.com/cloud/which-cloud-strategy-is-right-for-my-organization-s-security-needs-)
-- [AI’s Bumpy Road to Fruition](https://www.informationweek.com/big-data/ai-s-bumpy-road-to-fruition)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

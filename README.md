@@ -429,6 +429,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Protest by open source developer raises questions about compensation, and ethics](https://www.itworldcanada.com/article/protest-by-open-source-developer-raises-questions-about-compensation-and-ethics/470489)
+- [Microsoft pulls Windows Server updates causing domain controller boot loops, Hyper-V issues](https://www.itworldcanada.com/article/microsoft-pulls-windows-server-updates-causing-domain-controller-boot-loops-hyper-v-issues/470578)
+- [Hashtag Trending Jan. 13 – Celebrity promotes cryptocurrency; Mozilla tracks Facebook; YouTube and fake news](https://www.itworldcanada.com/article/hashtag-trending-jan-13-celebrity-promotes-cryptocurrency-mozilla-tracks-facebook-youtube-and-fake-news/470472)
 - [Telus Health launches Virtual Pharmacy service in Canada](https://www.itworldcanada.com/article/telus-health-launches-virtual-pharmacy-service-in-canada/470468)
 - [Royal Ontario Museum opens registration for Spring 2022 info session of its Minecraft virtual program](https://www.itworldcanada.com/article/royal-ontario-museum-opens-registration-for-spring-2022-info-session-of-its-minecraft-virtual-program/470462)
 - [US warns critical infrastructure of Russian state-sponsored threats](https://www.itworldcanada.com/article/us-warns-critical-infrastructure-of-russian-state-sponsored-threats/470424)
@@ -436,9 +439,6 @@
 - [Canadian government contracts AI mapping company to help plan rural area networks](https://www.itworldcanada.com/article/canadian-government-contracts-ai-mapping-company-to-help-plan-rural-area-networks/470408)
 - [Hashtag Trending Jan. 12 – Amazon’s employee ranking system; Bitcoin ban; California allocates $6.1 billion to EV](https://www.itworldcanada.com/article/hashtag-trending-jan-12-amazons-employee-ranking-system-bitcoin-ban-california-allocates-6-1-billion-to-ev/470434)
 - [Vulnerabilities in WordPress plugins more than doubled in 2021: Report](https://www.itworldcanada.com/article/vulnerabilities-in-wordpress-plugins-more-than-doubled-in-2021-report/470363)
-- [Log4Shell bug used to deploy NightSky ransomware on VMware Horizon, says Microsoft](https://www.itworldcanada.com/article/log4shell-bug-used-to-deploy-nightsky-ransomware-on-vmware-horizon-says-microsoft/470346)
-- [Coffee Briefing Jan. 11, 2022 – LG joins IBM Quantum Network; Telus program gets global privacy recognition; YRP adopts e-notes-taking solution; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-11-2022-lg-joins-ibm-quantum-network-telus-program-gets-global-privacy-recognition-yrp-adopts-e-notes-taking-solution-and-more/470359)
-- [Hashtag Trending Jan. 11 – Panasonic’s four day work week; Clean energy fund to raise $15 billion; Facebook accused of inciting violence](https://www.itworldcanada.com/article/hashtag-trending-jan-11-panasonics-four-day-work-week-clean-energy-fund-to-raise-15-billion-facebook-accused-of-inciting-violence/470341)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

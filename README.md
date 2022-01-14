@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: US deaths rise 40% on last week, CDC says; German chancellor calls for mandatory vaccination of all adults](https://www.theguardian.com/world/live/2022/jan/13/covid-news-live-us-deaths-rise-40-on-last-week-cdc-says-german-chancellor-calls-for-mandatory-vaccination-of-all-adults)
-- [Ill health in ‘left behind’ areas costs England £30bn a year, says report](https://www.theguardian.com/inequality/2022/jan/13/ill-health-in-left-behind-areas-costs-england-30bn-a-year-says-report)
-- [Age UK calls for help for millions of older people struggling to afford heating](https://www.theguardian.com/money/2022/jan/13/age-uk-calls-for-help-for-millions-of-older-people-struggling-to-afford-heating)
-- [Ovo expected to make a quarter of staff redundant due to energy crisis](https://www.theguardian.com/business/2022/jan/12/ovo-expected-to-make-a-quarter-of-staff-redundant-due-to-energy-crisis)
-- [Pandemic brought ‘dramatic’ fall in English hospital admissions for childhood infections](https://www.theguardian.com/science/2022/jan/12/pandemic-brought-dramatic-fall-in-english-hospital-admissions-for-childhood-infections)
-- [My bile rises as I’m asked to move my dying cancer patient out of ICU to make room for an unvaccinated man with Covid | Ranjana Srivastava](https://www.theguardian.com/commentisfree/2022/jan/13/my-bile-rises-as-im-asked-to-move-my-dying-cancer-patient-out-of-icu-to-make-room-for-an-unvaccinated-man-with-covid)
-- [Ronnie Spector, pop singer who fronted the Ronettes, dies aged 78](https://www.theguardian.com/music/2022/jan/12/ronnie-spector-pop-singer-who-fronted-the-ronettes-dies-aged-78)
-- [US Capitol attack panel asks Kevin McCarthy to cooperate with inquiry](https://www.theguardian.com/us-news/2022/jan/12/kevin-mccarthy-january-6-panel-capitol-riot)
-- [Man arrested after allegedly damaging statue outside BBC Broadcasting House](https://www.theguardian.com/uk-news/2022/jan/12/man-arrested-after-allegedly-damaging-statue-outside-bbc-broadcasting-house)
-- [Valverde’s extra-time strike sends Real Madrid into Spanish Super Cup final](https://www.theguardian.com/football/2022/jan/12/real-madrid-barcelona-spanish-super-cup-match-report)
+- [Covid live news: poorer nations forced to reject 100m near-expired coronavirus vaccines; Spain to offer fourth dose to vulnerable](https://www.theguardian.com/world/live/2022/jan/14/covid-live-news-poorer-nations-forced-to-reject-100m-near-expired-coronavirus-vaccines-spain-to-offer-fourth-dose-to-vulnerable)
+- [EU could suspend Vanuatu visa-free travel over ‘golden passports’ scheme](https://www.theguardian.com/world/2022/jan/14/eu-could-suspend-vanuatu-visa-free-travel-over-golden-passports-scheme)
+- [Sinema says no to filibuster reform scuttling Democrats’ voting rights hopes](https://www.theguardian.com/us-news/2022/jan/13/kyrsten-sinema-democrats-filibuster-voting-rights)
+- [‘Throne out’: what the papers say about Prince Andrew’s royal removal](https://www.theguardian.com/uk-news/2022/jan/14/throne-out-what-the-papers-say-about-prince-andrews-royal-removal)
+- [NSW premier ‘shocked’ by footage of Hillsong members dancing and singing at youth camp](https://www.theguardian.com/australia-news/2022/jan/13/hillsong-church-camp-ordered-to-stop-singing-and-dancing-by-nsw-health)
+- [Fear of war dips in Taiwan despite rise in US-China tensions over island](https://www.theguardian.com/world/2022/jan/14/fear-war-dips-in-taiwan-despite-us-china-tensions-poll)
+- [California governor denies parole for Sirhan Sirhan, convicted of Robert Kennedy assassination](https://www.theguardian.com/us-news/2022/jan/13/sirhan-sirhan-california-governor-parole-latest)
+- [Deprived state schools in England hit hardest by Covid staff absences, survey finds](https://www.theguardian.com/education/2022/jan/14/deprived-state-schools-in-england-hid-hardest-by-covid-staff-absences-survey-finds)
+- [Cut English cricket’s funding over ‘deep-seated racism’, government urged](https://www.theguardian.com/sport/2022/jan/14/cut-english-crickets-funding-over-deep-seated-racism-government-urged)
+- [Google in $1bn deal to buy Central Saint Giles offices in London](https://www.theguardian.com/technology/2022/jan/14/google-deal-buy-central-saint-giles-offices-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

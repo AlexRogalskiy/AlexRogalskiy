@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Awesome Elisp](https://github.com/p3r7/awesome-elisp)
-- [Hollywood&#39;s New Rules](https://bariweiss.substack.com/p/hollywoods-new-rules)
-- [EU to Stage Large-Scale Cyberattack Exercise on Supply Chains](https://www.bloomberg.com/news/articles/2022-01-11/eu-to-stage-large-scale-cyberattack-exercise-on-supply-chains)
-- [Amazon partnered with China propaganda arm to win Beijing&#39;s favor](https://www.japantimes.co.jp/news/2021/12/18/business/china-amazon-internet-censorship/)
-- [We Ship GitHub Mobile Every Week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
-- [Rethinking Errors, Warnings, and Lints](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
-- [Someone just took pictures of himself everyday for 5 years and sold it as an NFT](https://opensea.io/collection/ghozali-everyday?tab=activity)
-- [The Memories of Z80 Past: Zaxxon and Future Spy](https://nicole.express/2022/future-spy-but-its-now-the-future.html)
-- [Ask HN: Startups vs Big Companies: Which do you prefer?](https://news.ycombinator.com/item?id=29916008)
-- [FDA head says &#39;most people are going to get Covid&#39; at hearing with Fauci](https://www.washingtonpost.com/politics/2022/01/11/most-people-are-going-get-covid-momentous-warning-senate-hearing/)
+- [Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit](https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html)
+- [Exploring Circular Ownership in Compliance Investigations](https://steeleglobal.com/exploring-circular-ownership-in-compliance-investigations/)
+- [Farmers seek jury trial against John Deere for anti repair practices](https://www.youtube.com/watch?v=4GnOBuyhBVQ)
+- [Bozkurt, B., [et al.] Myocarditis With Covid-19 mRNA Vaccines  &lpar;2021&rpar;](https://pubmed.ncbi.nlm.nih.gov/34281357/)
+- [Is anyone still waiting to hear back after interviews for YC W22?](https://news.ycombinator.com/item?id=29929828)
+- [Voice Cloning for Video Games: How Game Developers Benefit from Synthetic Voices](https://nypressnews.com/news/technology/voice-cloning-for-video-games-how-game-developers-can-benefit-from-synthetic-voices/)
+- [Why Gordian software has convinced me to believe in cats and apples](https://www.edge.org/conversation/jaron_lanier-why-gordian-software-has-convinced-me-to-believe-in-the-reality-of-cats)
+- [The Two Types of Gamers &lpar;Honers vs. Innovators&rpar;](https://www.youtube.com/watch?v=C3q5nSqGXr4)
+- [Tacit Knowledge Maps to Business and Its Relationship with Deliberate Practice](https://www.youtube.com/watch?v=R8w_pIGYa3I)
+- [Dr. David Berson: A Summary of Your Brain&#39;s Logic and Function](https://www.youtube.com/watch?v=oC3fhUjg30E)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

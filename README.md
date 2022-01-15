@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Jan. 14, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-jan-14-2022/470574)
+- [Firms using open source have duty to act fast when bugs are found: Apache](https://www.itworldcanada.com/article/firms-using-open-source-have-duty-to-act-fast-when-bugs-are-found-apache/470605)
+- [Russia says REvil gang arrested, infrastructure ‘liquidated’](https://www.itworldcanada.com/article/russia-says-revil-gang-arrested-infrastructure-liquidated/470613)
+- [Greentec becomes first e-waste processor in Canada to receive R2v3 certification](https://www.itworldcanada.com/article/greentec-becomes-first-e-waste-processor-in-canada-to-receive-r2v3-certification/470631)
+- [Cyber Security Today, Jan. 14, 2022 – More alleged cybercrooks arrested in Ukraine, a warning to law and accounting firms, and the latest phone scam](https://www.itworldcanada.com/article/cyber-security-today-jan-14-2022-more-alleged-cybercrooks-arrested-in-ukraine-a-warning-to-law-and-accounting-firms-and-the-latest-phone-scam/470591)
+- [Hashtag Trending Jan. 14 – Buying property in the metaverse; right-to-repair for cars; Reselling Tesla’s Cyberquad](https://www.itworldcanada.com/article/hashtag-trending-jan-14-buying-property-in-the-metaverse-right-to-repair-for-cars-reselling-teslas-cyberquad/470602)
 - [Protest by open source developer raises questions about compensation, and ethics](https://www.itworldcanada.com/article/protest-by-open-source-developer-raises-questions-about-compensation-and-ethics/470489)
 - [Microsoft pulls Windows Server updates causing domain controller boot loops, Hyper-V issues](https://www.itworldcanada.com/article/microsoft-pulls-windows-server-updates-causing-domain-controller-boot-loops-hyper-v-issues/470578)
 - [Hashtag Trending Jan. 13 – Celebrity promotes cryptocurrency; Mozilla tracks Facebook; YouTube and fake news](https://www.itworldcanada.com/article/hashtag-trending-jan-13-celebrity-promotes-cryptocurrency-mozilla-tracks-facebook-youtube-and-fake-news/470472)
 - [Telus Health launches Virtual Pharmacy service in Canada](https://www.itworldcanada.com/article/telus-health-launches-virtual-pharmacy-service-in-canada/470468)
-- [Royal Ontario Museum opens registration for Spring 2022 info session of its Minecraft virtual program](https://www.itworldcanada.com/article/royal-ontario-museum-opens-registration-for-spring-2022-info-session-of-its-minecraft-virtual-program/470462)
-- [US warns critical infrastructure of Russian state-sponsored threats](https://www.itworldcanada.com/article/us-warns-critical-infrastructure-of-russian-state-sponsored-threats/470424)
-- [Cyber Security Today, Jan. 12, 2022 – Install these security updates, and beware of phony QR codes](https://www.itworldcanada.com/article/cyber-security-today-jan-12-2022-install-these-security-updates-and-beware-of-phony-qr-codes/470413)
-- [Canadian government contracts AI mapping company to help plan rural area networks](https://www.itworldcanada.com/article/canadian-government-contracts-ai-mapping-company-to-help-plan-rural-area-networks/470408)
-- [Hashtag Trending Jan. 12 – Amazon’s employee ranking system; Bitcoin ban; California allocates $6.1 billion to EV](https://www.itworldcanada.com/article/hashtag-trending-jan-12-amazons-employee-ranking-system-bitcoin-ban-california-allocates-6-1-billion-to-ev/470434)
-- [Vulnerabilities in WordPress plugins more than doubled in 2021: Report](https://www.itworldcanada.com/article/vulnerabilities-in-wordpress-plugins-more-than-doubled-in-2021-report/470363)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

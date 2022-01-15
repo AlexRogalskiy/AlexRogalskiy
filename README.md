@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Google forced to release documents about anti-union campaign](https://www.computerweekly.com/news/252511976/Google-forced-to-release-documents-about-anti-union-campaign)
-- [Nordic companies targeted in wave of cyber attacks](https://www.computerweekly.com/news/252511965/Nordic-companies-targeted-in-wave-of-cyber-attacks)
-- [Councillors refuse public release of IT audit of Hackney Psya ransomware attack](https://www.computerweekly.com/news/252511968/Councillors-refuse-public-release-of-IT-audit-of-Hackney-Psya-ransomware-attack)
-- [Ikano Bank’s team of robots exceeds 2021 targets](https://www.computerweekly.com/news/252511664/Ikano-Banks-team-of-robots-exceeds-2021-targets)
-- [CW Middle East: What does Saudi Arabia’s autonomous vehicle agenda mean for the world?](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-What-does-Saudi-Arabias-autonomous-vehicle-agenda-mean-for-the-world)
-- [NCSC sounds alarm over Russia-backed hacks](https://www.computerweekly.com/news/252511934/NCSC-sounds-alarm-over-Russia-backed-hacks)
-- [ICO investigates police use of app to covertly record calls from mobile phones](https://www.computerweekly.com/news/252511938/ICO-investigation-after-police-use-app-to-covertly-record-calls-from-mobile-phones)
-- [MEPs demand EU probe into Pegasus spyware abuse](https://www.computerweekly.com/news/252511930/MEPs-demand-EU-probe-into-Pegasus-spyware-abuse)
-- [UK government bodies challenged on secure identity](https://www.computerweekly.com/news/252511918/UK-government-bodies-challenged-on-secure-identity)
-- [Government backs Turing Institute in bid to set global AI technical standards](https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards)
+- [Nato offers tech support after &#39;massive cyber attack&#39; hits Ukraine](https://www.computerweekly.com/news/252512047/Nato-offers-tech-support-after-massive-cyber-attack-hits-Ukraine)
+- [A Computer Weekly buyer’s guide to emerging technology](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-emerging-technology)
+- [A Computer Weekly buyer’s guide to 5G mobile networking](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-5G-mobile-networking)
+- [Sluggish adoption of Windows 11 with more devices on unsupported OSes](https://www.computerweekly.com/news/252512028/Sluggish-adoption-of-Windows-11-with-more-devices-on-unsupported-OSes)
+- [Umbrella company Brookson self-refers to NCSC following cyber attack on its network](https://www.computerweekly.com/news/252512026/Umbrella-company-Brookson-self-refers-to-NCSC-following-cyber-attack-on-its-network)
+- [Finland moves to industrialise quantum computing](https://www.computerweekly.com/feature/Finland-moves-to-industrialise-quantum-computing)
+- [Socitm outlines public sector digital trends for 2022](https://www.computerweekly.com/news/252512004/Socitm-outlines-public-sector-digital-trends-for-2022)
+- [Microsoft veteran turns her attention to levelling up IT industry for women](https://www.computerweekly.com/news/252511974/Microsft-veteran-turns-her-attention-to-levelling-up-industry-for-women)
+- [Twinings selects Rise with SAP to simplify its business brew](https://www.computerweekly.com/news/252511994/Twinings-selects-Rise-with-SAP-to-simplify-its-business-brew)
+- [Post Office received £1bn taxpayer subsidy last year as part of IT scandal compensation](https://www.computerweekly.com/news/252512010/Post-Office-received-1bn-taxpayer-subsidy-last-year-as-part-of-IT-scandal-compensation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

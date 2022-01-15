@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [sought after skills](https://www.reddit.com/r/InformationTechnology/comments/s49290/sought_after_skills/)
+- [Windows update January 14 2022 Patches](https://www.reddit.com/r/InformationTechnology/comments/s3x92a/windows_update_january_14_2022_patches/)
+- [can someone help ? the professor never explained this](https://www.reddit.com/r/InformationTechnology/comments/s3tyo7/can_someone_help_the_professor_never_explained/)
+- [Streaming Analytics Market Projected to Grow $50.1 billion by 2026](https://www.reddit.com/r/InformationTechnology/comments/s3q76c/streaming_analytics_market_projected_to_grow_501/)
+- [Dynamic Application Security Testing Market by Software, Services &amp; Application - 2022](https://www.reddit.com/r/InformationTechnology/comments/s3pthr/dynamic_application_security_testing_market_by/)
+- [Moving on from a Database Admin role. Advice on where to go next will be appreciated.](https://www.reddit.com/r/InformationTechnology/comments/s3k7b2/moving_on_from_a_database_admin_role_advice_on/)
 - [going in IT with absolutely no experience](https://www.reddit.com/r/InformationTechnology/comments/s3ec9f/going_in_it_with_absolutely_no_experience/)
 - [Windows 10 Pro for Personal or Business](https://www.reddit.com/r/InformationTechnology/comments/s3dl8q/windows_10_pro_for_personal_or_business/)
 - [Automation Testing Market Expected to Grow $49.9 Billion by 2026](https://www.reddit.com/r/InformationTechnology/comments/s2yjx2/automation_testing_market_expected_to_grow_499/)
 - [Speech Analytics Market Size, Share and Global Market Forecast to 2026 | COVID-19 Impact Analysis](https://www.reddit.com/r/InformationTechnology/comments/s2xn7a/speech_analytics_market_size_share_and_global/)
-- [Job experience](https://www.reddit.com/r/InformationTechnology/comments/s2pp2q/job_experience/)
-- [Creating a Master Contact List](https://www.reddit.com/r/InformationTechnology/comments/s2k6k0/creating_a_master_contact_list/)
-- [I&#39;m going to college next month and I&#39;m not sure what to choose. I&#39;m hearing a lot of good about IT. Should i consider it or is it a bad degree to choose. I&#39;m interested in technology tho.](https://www.reddit.com/r/InformationTechnology/comments/s2fk3c/im_going_to_college_next_month_and_im_not_sure/)
-- [Any ideas for setting up Identity and Access Management Labs&lpar;IAM&rpar; ?](https://www.reddit.com/r/InformationTechnology/comments/s29d88/any_ideas_for_setting_up_identity_and_access/)
-- [Switching careers advice](https://www.reddit.com/r/InformationTechnology/comments/s23lw3/switching_careers_advice/)
-- [Russian data protection law.](https://www.reddit.com/r/InformationTechnology/comments/s22mpi/russian_data_protection_law/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

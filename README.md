@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Jan. 6 Committee Subpoenas Twitter, Meta, Alphabet and Reddit](https://www.nytimes.com/2022/01/13/us/politics/jan-6-tech-subpoenas.html)
-- [Exploring Circular Ownership in Compliance Investigations](https://steeleglobal.com/exploring-circular-ownership-in-compliance-investigations/)
-- [Farmers seek jury trial against John Deere for anti repair practices](https://www.youtube.com/watch?v=4GnOBuyhBVQ)
-- [Bozkurt, B., [et al.] Myocarditis With Covid-19 mRNA Vaccines  &lpar;2021&rpar;](https://pubmed.ncbi.nlm.nih.gov/34281357/)
-- [Is anyone still waiting to hear back after interviews for YC W22?](https://news.ycombinator.com/item?id=29929828)
-- [Voice Cloning for Video Games: How Game Developers Benefit from Synthetic Voices](https://nypressnews.com/news/technology/voice-cloning-for-video-games-how-game-developers-can-benefit-from-synthetic-voices/)
-- [Why Gordian software has convinced me to believe in cats and apples](https://www.edge.org/conversation/jaron_lanier-why-gordian-software-has-convinced-me-to-believe-in-the-reality-of-cats)
-- [The Two Types of Gamers &lpar;Honers vs. Innovators&rpar;](https://www.youtube.com/watch?v=C3q5nSqGXr4)
-- [Tacit Knowledge Maps to Business and Its Relationship with Deliberate Practice](https://www.youtube.com/watch?v=R8w_pIGYa3I)
-- [Dr. David Berson: A Summary of Your Brain&#39;s Logic and Function](https://www.youtube.com/watch?v=oC3fhUjg30E)
+- [Postfix 3.6.4 Released](http://mirror.reverse.net/pub/postfix-release/official/postfix-3.6.4.RELEASE_NOTES)
+- [Rip, Democracy](https://akhil-ghatiki.github.io/#/rip-democracy)
+- [Meta scales Language Model to 1.1T parameters using Mixture of Experts](https://twitter.com/metaai/status/1482142998070661120)
+- [Send in more clowns – On the move with Joe Keenan &lpar;2019&rpar;](https://civilianglobal.com/arts/joe-keenan-interview-frasier-pgwodehouse-trump-everybody-rise-mike-ross/)
+- [Consciousness Is Not That Special](https://adhoc.fun/consciousness-is-not-that-special/)
+- [No lights, no heat, no money – that&#39;s life in Ukraine during cyber warfare](https://www.reuters.com/world/europe/no-lights-no-heat-no-money-thats-life-ukraine-during-cyber-warfare-2022-01-14/)
+- [A breakdown of a DKIM replay attack](https://protonmail.com/blog/dkim-replay-attack-breakdown/)
+- [Dropbox finally supports M1 Macs natively with new beta](https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos)
+- [PayPal stole users’ money after freezing, seizing funds, lawsuit alleges](https://arstechnica.com/tech-policy/2022/01/paypal-stole-users-money-after-freezing-seizing-funds-lawsuit-alleges/)
+- [Ford BlueCruise Balances Automation and Driver Monitoring](https://www.consumerreports.org/driver-assistance-systems/ford-bluecruise-active-driving-assistance-system-review-a5728630415/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

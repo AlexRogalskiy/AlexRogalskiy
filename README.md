@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Fender’s CIO Talks Tuning Up SAP with a Migration to AWS](https://www.informationweek.com/cloud/fender-s-cio-talks-tuning-up-sap-with-a-migration-to-aws)
+- [Network Management: How to Develop a Clear-Cut Roadmap](https://www.informationweek.com/it-strategy/network-management-how-to-develop-a-clear-cut-roadmap)
+- [Enterprise Data: Prepare for More Change in This Hot Area of Tech](https://www.informationweek.com/big-data/enterprise-data-prepare-for-more-change-in-this-hot-area-of-tech)
 - [How to Repurpose an Obsolete On-Premises Data Center](https://www.informationweek.com/cloud/how-to-repurpose-an-obsolete-on-premises-data-center)
 - [Tipping Point: Tech Decentralizes Out of IT](https://www.informationweek.com/strategic-cio/tipping-point-tech-decentralizes-out-of-it)
 - [Fintech’s Future Through the Eyes of CES](https://www.informationweek.com/fintech/fintech-s-future-through-the-eyes-of-ces)
@@ -376,9 +379,6 @@
 - [10 Trends That Will Affect IT in 2022](https://www.informationweek.com/big-data/10-trends-that-will-affect-it-in-2022)
 - [The Great Resignation: How to Combat the Knowledge Drain Effect](https://www.informationweek.com/it-life/the-great-resignation-how-to-combat-the-knowledge-drain-effect)
 - [Digital Twin Smart Mapping Hits the Slopes](https://www.informationweek.com/big-data/digital-twin-smart-mapping-hits-the-slopes)
-- [AI and Data This Year: Bigger, Bolder, and Business-Focused](https://www.informationweek.com/big-data/ai-and-data-this-year-bigger-bolder-and-business-focused)
-- [Abbott CEO Ford at CES Talks Democratizing COVID Testing](https://www.informationweek.com/healthcare/abbot-ceo-ford-at-ces-talks-democratizing-covid-testing)
-- [Entering the Cloud-First Race? Consider These 5 Things](https://www.informationweek.com/cloud/entering-the-cloud-first-race-consider-these-5-things)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

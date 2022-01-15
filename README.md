@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Parcel CSS parser offered as performance enhancer](https://www.infoworld.com/article/3647269/parcel-css-parser-offered-as-performance-enhancer.html#tk.rss_all)
+- [View cloud architecture through a new optimization lens](https://www.infoworld.com/article/3646989/view-cloud-architecture-through-a-new-optimization-lens.html#tk.rss_all)
 - [IPython REPL update advances code formatting](https://www.infoworld.com/article/3647171/ipython-repl-update-advances-code-formatting.html#tk.rss_all)
 - [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_all)
 - [Firefox 96 enhances CSS, Canvas support for developers](https://www.infoworld.com/article/3646751/firefox-96-enhances-css-canvas-support-for-developers.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Get started with generics in Go](https://www.infoworld.com/article/3646036/get-started-with-generics-in-go.html#tk.rss_all)
 - [Microsoft .NET MAUI Preview 11 updates Windows UI styling](https://www.infoworld.com/article/3646418/microsoft-net-maui-preview-11-updates-windows-ui-styling.html#tk.rss_all)
 - [Maybe cloud migration needs more than six Rs](https://www.infoworld.com/article/3646593/maybe-cloud-migration-needs-more-than-six-rs.html#tk.rss_all)
-- [All roads lead to hyperautomation in 2022](https://www.infoworld.com/article/3646556/all-roads-lead-to-hyperautomation-in-2022.html#tk.rss_all)
-- [Multicloud and your career](https://www.infoworld.com/article/3646594/multicloud-and-your-career.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

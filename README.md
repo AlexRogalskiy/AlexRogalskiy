@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid live news: poorer nations forced to reject 100m near-expired coronavirus vaccines; Spain to offer fourth dose to vulnerable](https://www.theguardian.com/world/live/2022/jan/14/covid-live-news-poorer-nations-forced-to-reject-100m-near-expired-coronavirus-vaccines-spain-to-offer-fourth-dose-to-vulnerable)
-- [EU could suspend Vanuatu visa-free travel over ‘golden passports’ scheme](https://www.theguardian.com/world/2022/jan/14/eu-could-suspend-vanuatu-visa-free-travel-over-golden-passports-scheme)
-- [Sinema says no to filibuster reform scuttling Democrats’ voting rights hopes](https://www.theguardian.com/us-news/2022/jan/13/kyrsten-sinema-democrats-filibuster-voting-rights)
-- [‘Throne out’: what the papers say about Prince Andrew’s royal removal](https://www.theguardian.com/uk-news/2022/jan/14/throne-out-what-the-papers-say-about-prince-andrews-royal-removal)
-- [NSW premier ‘shocked’ by footage of Hillsong members dancing and singing at youth camp](https://www.theguardian.com/australia-news/2022/jan/13/hillsong-church-camp-ordered-to-stop-singing-and-dancing-by-nsw-health)
-- [Fear of war dips in Taiwan despite rise in US-China tensions over island](https://www.theguardian.com/world/2022/jan/14/fear-war-dips-in-taiwan-despite-us-china-tensions-poll)
-- [California governor denies parole for Sirhan Sirhan, convicted of Robert Kennedy assassination](https://www.theguardian.com/us-news/2022/jan/13/sirhan-sirhan-california-governor-parole-latest)
-- [Deprived state schools in England hit hardest by Covid staff absences, survey finds](https://www.theguardian.com/education/2022/jan/14/deprived-state-schools-in-england-hid-hardest-by-covid-staff-absences-survey-finds)
-- [Cut English cricket’s funding over ‘deep-seated racism’, government urged](https://www.theguardian.com/sport/2022/jan/14/cut-english-crickets-funding-over-deep-seated-racism-government-urged)
-- [Google in $1bn deal to buy Central Saint Giles offices in London](https://www.theguardian.com/technology/2022/jan/14/google-deal-buy-central-saint-giles-offices-london)
+- [US ‘concerned’ Russia preparing for an invasion in Ukraine – as it happened](https://www.theguardian.com/us-news/live/2022/jan/14/biden-infrastructure-law-voting-rights-defeat-us-politics-latest)
+- [US man who faked death to evade rape charge arrested in Glasgow hospital](https://www.theguardian.com/uk-news/2022/jan/14/us-man-who-faked-death-to-evade-charge-arrested-in-glasgow-hospital)
+- [Mike Pence equates voting rights protections with Capitol attack](https://www.theguardian.com/us-news/2022/jan/14/mike-pence-equates-voting-rights-capitol-attack)
+- [North Korea fires railway-borne missiles in third weapons test this month](https://www.theguardian.com/world/2022/jan/14/north-korea-fires-railway-borne-missiles-in-third-weapons-test-this-month)
+- [Jean-Jacques Beineix: the French auteur who brought style and substance](https://www.theguardian.com/film/2022/jan/14/jean-jacques-beineix-the-french-auteur-who-brought-style-and-substance)
+- [‘I like to live in the present’: Antonio Conte leaves his Spurs future uncertain](https://www.theguardian.com/football/2022/jan/14/antonio-conte-leaves-tottenham-future-uncertain-spurs-transfers)
+- [Marcus Smith holds nerve to snatch last-gasp Harlequins win over Cardiff](https://www.theguardian.com/sport/2022/jan/14/cardiff-harlequins-european-rugby-champions-cup-match-report)
+- [Joachim Andersen own goal earns Brighton point against Crystal Palace](https://www.theguardian.com/football/2022/jan/14/brighton-crystal-palace-premier-league-match-report)
+- [Virginia Giuffre seeks testimony from Prince Andrew’s former assistant](https://www.theguardian.com/uk-news/2022/jan/14/prince-andrew-sexual-abuse-lawsuit-testimony-virginia-giuffre)
+- [Aubameyang diagnosed with ‘cardiac lesions’ at Afcon after Covid positive](https://www.theguardian.com/football/2022/jan/14/pierre-emerick-aubameyang-diagnosed-cardiac-lesions-afcon-gabon-arsenal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

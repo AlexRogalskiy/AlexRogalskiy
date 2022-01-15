@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
-- [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
-- [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
-- [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
-- [Provably space-efficient parallel functional programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
-- [Exploring System76&#39;s New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
-- [Show HN: Create animations by dragging an element with your mouse](https://animatize.com/)
-- [Music industry is suing youtube-dl hosters](https://news.i-n24.com/lifestyle/news/253970.html)
-- [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
-- [Hate leap seconds? Imagine a negative one](https://counting.substack.com/p/hate-leap-seconds-imagine-a-negative)
+- [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
+- [Health Canada authorizes psychedelic drugs for therapies](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-01-05/html/sor-dors271-eng.html)
+- [5G is for sensing, not communication [pdf]](https://acris.aalto.fi/ws/portalfiles/portal/20768974/sigg_et_al_VT_conf.pdf)
+- [Will you write HTML with us tomorrow?](http://html.energy/)
+- [How to Read a Textbook](https://www.cuesta.edu/student/resources/ssc/study_guides/reading_comp/305_read_text.html)
+- [Interactive piano reference to major and minor scales](https://muted.io/major-minor-scales/)
+- [Hallucinogens, alcohol and leadership strategies in the ancient Peruvian Andes](https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298)
+- [New theory proposes ‘forgetting’ is a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/)
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers in NYC](https://skio.com/careers)
+- [Grep one-liners as CI tasks](https://phili.pe/posts/using-grep-for-simple-ci-tasks/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

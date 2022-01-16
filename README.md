@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
-- [Health Canada authorizes psychedelic drugs for therapies](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-01-05/html/sor-dors271-eng.html)
-- [5G is for sensing, not communication [pdf]](https://acris.aalto.fi/ws/portalfiles/portal/20768974/sigg_et_al_VT_conf.pdf)
-- [Will you write HTML with us tomorrow?](http://html.energy/)
-- [How to Read a Textbook](https://www.cuesta.edu/student/resources/ssc/study_guides/reading_comp/305_read_text.html)
-- [Interactive piano reference to major and minor scales](https://muted.io/major-minor-scales/)
-- [Hallucinogens, alcohol and leadership strategies in the ancient Peruvian Andes](https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298)
-- [New theory proposes ‘forgetting’ is a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers in NYC](https://skio.com/careers)
-- [Grep one-liners as CI tasks](https://phili.pe/posts/using-grep-for-simple-ci-tasks/)
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
+- [Government Requests to Remove Content](https://transparencyreport.google.com/government-removals/)
+- [Efficient Large Scale Language Modeling with Mixtures of Experts](https://arxiv.org/abs/2112.10684)
+- [Safari 15 IndexedDB Leaks](https://safarileaks.com/)
+- [The Gates of Hell](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
+- [Essence: Desktop operating system built from scratch](https://nakst.gitlab.io/essence)
+- [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
+- [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
+- [Google helps Scientology billionaire Bob Duggan hide a dark family secret &lpar;2015&rpar;](https://tonyortega.org/2015/06/13/google-helps-scientology-billionaire-bob-duggan-hide-a-dark-family-secret/)
+- [Street Fighter II, Sound System Internals](https://fabiensanglard.net/sf2_sound_system/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Postfix 3.6.4 Released](http://mirror.reverse.net/pub/postfix-release/official/postfix-3.6.4.RELEASE_NOTES)
-- [Rip, Democracy](https://akhil-ghatiki.github.io/#/rip-democracy)
-- [Meta scales Language Model to 1.1T parameters using Mixture of Experts](https://twitter.com/metaai/status/1482142998070661120)
-- [Send in more clowns – On the move with Joe Keenan &lpar;2019&rpar;](https://civilianglobal.com/arts/joe-keenan-interview-frasier-pgwodehouse-trump-everybody-rise-mike-ross/)
-- [Consciousness Is Not That Special](https://adhoc.fun/consciousness-is-not-that-special/)
-- [No lights, no heat, no money – that&#39;s life in Ukraine during cyber warfare](https://www.reuters.com/world/europe/no-lights-no-heat-no-money-thats-life-ukraine-during-cyber-warfare-2022-01-14/)
-- [A breakdown of a DKIM replay attack](https://protonmail.com/blog/dkim-replay-attack-breakdown/)
-- [Dropbox finally supports M1 Macs natively with new beta](https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos)
-- [PayPal stole users’ money after freezing, seizing funds, lawsuit alleges](https://arstechnica.com/tech-policy/2022/01/paypal-stole-users-money-after-freezing-seizing-funds-lawsuit-alleges/)
-- [Ford BlueCruise Balances Automation and Driver Monitoring](https://www.consumerreports.org/driver-assistance-systems/ford-bluecruise-active-driving-assistance-system-review-a5728630415/)
+- [RISC-V Powered Mango Pi Takes on Raspberry Pi Zero at Its Own Game](https://www.tomshardware.com/news/raspberry-pi-alternative-mango-pi-risc-v-sbc)
+- [Ask HN: Does Babel need to do this to async / await?](https://babeljs.io/en/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=false&spec=false&loose=false&code_lz=MYewdgzgLgBAlgWwIIQJ5mDAvDAhmjACgEpsA-GAbwCgBIXAd1zlgAUAnEBOCAUwDp2vCCAA2AN16EA5AAk4AQmnFqAXyA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env&prettier=false&targets=&version=7.16.9&externalPlugins=%40babel%2Fplugin-transform-regenerator%407.12.1&assumptions=%7B%7D)
+- [My 85-year-old mother caught Covid. Medical triage made her doctor useless](https://www.usatoday.com/story/opinion/2022/01/15/monoclonal-antibody-treatments-desperate-covid-19-tests/9132367002/?gnt-cfr=1)
+- [Gf – A GDB Front End](https://github.com/nakst/gf)
+- [Ask HN: What&#39;s a good problem solving framework/method?](https://news.ycombinator.com/item?id=29952680)
+- [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
+- [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
+- [Large-Size Wall Clock at Munsu Water Park Tells a Touching Story &lpar;North Korea&rpar;](https://rodong.rep.kp/en/index.php?strPageID=SF01_02_01&newsID=2022-01-12-0007)
+- [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
+- [Concern for UK security as anti-vaxxer groups evolve towards US-style militias](https://www.theguardian.com/uk-news/2022/jan/15/concern-for-uk-security-as-anti-vaxxer-groups-evolve-towards-us-style-militias)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

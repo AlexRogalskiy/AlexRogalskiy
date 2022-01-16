@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US ‘concerned’ Russia preparing for an invasion in Ukraine – as it happened](https://www.theguardian.com/us-news/live/2022/jan/14/biden-infrastructure-law-voting-rights-defeat-us-politics-latest)
-- [US man who faked death to evade rape charge arrested in Glasgow hospital](https://www.theguardian.com/uk-news/2022/jan/14/us-man-who-faked-death-to-evade-charge-arrested-in-glasgow-hospital)
-- [Mike Pence equates voting rights protections with Capitol attack](https://www.theguardian.com/us-news/2022/jan/14/mike-pence-equates-voting-rights-capitol-attack)
-- [North Korea fires railway-borne missiles in third weapons test this month](https://www.theguardian.com/world/2022/jan/14/north-korea-fires-railway-borne-missiles-in-third-weapons-test-this-month)
-- [Jean-Jacques Beineix: the French auteur who brought style and substance](https://www.theguardian.com/film/2022/jan/14/jean-jacques-beineix-the-french-auteur-who-brought-style-and-substance)
-- [‘I like to live in the present’: Antonio Conte leaves his Spurs future uncertain](https://www.theguardian.com/football/2022/jan/14/antonio-conte-leaves-tottenham-future-uncertain-spurs-transfers)
-- [Marcus Smith holds nerve to snatch last-gasp Harlequins win over Cardiff](https://www.theguardian.com/sport/2022/jan/14/cardiff-harlequins-european-rugby-champions-cup-match-report)
-- [Joachim Andersen own goal earns Brighton point against Crystal Palace](https://www.theguardian.com/football/2022/jan/14/brighton-crystal-palace-premier-league-match-report)
-- [Virginia Giuffre seeks testimony from Prince Andrew’s former assistant](https://www.theguardian.com/uk-news/2022/jan/14/prince-andrew-sexual-abuse-lawsuit-testimony-virginia-giuffre)
-- [Aubameyang diagnosed with ‘cardiac lesions’ at Afcon after Covid positive](https://www.theguardian.com/football/2022/jan/14/pierre-emerick-aubameyang-diagnosed-cardiac-lesions-afcon-gabon-arsenal)
+- [Australia live news update: ‘irrational’ not to weigh anti-vax impact of Djokovic deportation, lawyer says; 33 Covid deaths in Victoria and NSW](https://www.theguardian.com/australia-news/live/2022/jan/16/australia-live-news-update-novak-djokovic-fights-to-overturn-visa-cancellation-in-federal-court-australian-open-tennis-covid-victoria-new-south-wales-scott-morrison-vaccine-coronavirus)
+- [Bengals earn first playoff win in 31 years after whistle error against Raiders](https://www.theguardian.com/sport/2022/jan/15/bengals-raiders-nfl-playoffs-whistle-error)
+- [Texas synagogue hostages: one of four released unharmed as siege continues](https://www.theguardian.com/us-news/2022/jan/15/texas-synagogue-colleyville-police-hostage)
+- [Woman pushed to her death in front of New York subway train](https://www.theguardian.com/us-news/2022/jan/15/new-york-subway-woman-pushed-to-death)
+- [So no one’s going to Davos: our guide to the big issues that won’t be tackled](https://www.theguardian.com/business/2022/jan/16/davos-our-guide-to-issues-unaddressed)
+- [Deborah Levy: I used writing as therapy to help me talk again after jailing of my father](https://www.theguardian.com/books/2022/jan/16/deborah-levy-i-used-writing-as-therapy-to-help-me-talk-again-after-jailing-of-my-father)
+- [Barbican invites audience to come and go through marathon 24-hour concert](https://www.theguardian.com/music/2022/jan/15/barbican-invites-audience-to-come-and-go-through-marathon-24-hour-concert)
+- [Work it out: 20 of the best women’s activewear pieces – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/15/work-it-out-20-of-the-best-womens-activewear-pieces-in-pictures)
+- [Prince Harry files legal claim over right to pay for UK police protection](https://www.theguardian.com/uk-news/2022/jan/15/prince-harry-presses-for-police-protection-to-visit-uk-with-family)
+- [Hundreds join vigil in London for murdered teacher Ashling Murphy](https://www.theguardian.com/society/2022/jan/15/hundreds-join-vigil-in-london-for-murdered-teacher-ashling-murphy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia live news update: ‘irrational’ not to weigh anti-vax impact of Djokovic deportation, lawyer says; 33 Covid deaths in Victoria and NSW](https://www.theguardian.com/australia-news/live/2022/jan/16/australia-live-news-update-novak-djokovic-fights-to-overturn-visa-cancellation-in-federal-court-australian-open-tennis-covid-victoria-new-south-wales-scott-morrison-vaccine-coronavirus)
-- [Bengals earn first playoff win in 31 years after whistle error against Raiders](https://www.theguardian.com/sport/2022/jan/15/bengals-raiders-nfl-playoffs-whistle-error)
-- [Texas synagogue hostages: one of four released unharmed as siege continues](https://www.theguardian.com/us-news/2022/jan/15/texas-synagogue-colleyville-police-hostage)
-- [Woman pushed to her death in front of New York subway train](https://www.theguardian.com/us-news/2022/jan/15/new-york-subway-woman-pushed-to-death)
-- [So no one’s going to Davos: our guide to the big issues that won’t be tackled](https://www.theguardian.com/business/2022/jan/16/davos-our-guide-to-issues-unaddressed)
-- [Deborah Levy: I used writing as therapy to help me talk again after jailing of my father](https://www.theguardian.com/books/2022/jan/16/deborah-levy-i-used-writing-as-therapy-to-help-me-talk-again-after-jailing-of-my-father)
-- [Barbican invites audience to come and go through marathon 24-hour concert](https://www.theguardian.com/music/2022/jan/15/barbican-invites-audience-to-come-and-go-through-marathon-24-hour-concert)
-- [Work it out: 20 of the best women’s activewear pieces – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/15/work-it-out-20-of-the-best-womens-activewear-pieces-in-pictures)
-- [Prince Harry files legal claim over right to pay for UK police protection](https://www.theguardian.com/uk-news/2022/jan/15/prince-harry-presses-for-police-protection-to-visit-uk-with-family)
-- [Hundreds join vigil in London for murdered teacher Ashling Murphy](https://www.theguardian.com/society/2022/jan/15/hundreds-join-vigil-in-london-for-murdered-teacher-ashling-murphy)
+- [Covid news live: New Zealand begins vaccinating children aged 5-11; French parliament approves vaccine pass](https://www.theguardian.com/world/live/2022/jan/17/covid-news-live-new-zealand-begins-vaccinating-children-aged-5-11-french-parliament-approves-vaccine-pass)
+- [Australian Open 2022: Naomi Osaka on court as grand slam begins without Novak Djokovic – live!](https://www.theguardian.com/sport/live/2022/jan/17/australian-open-2022-tennis-day-one-live-news-updates-naomi-osaka-rafael-nadal-ash-barty-novak-djokovic-schedule-today-scores-grand-slam-melbourne-park)
+- [Tens of thousands without power as winter storm blasts US south-east](https://www.theguardian.com/us-news/2022/jan/16/us-south-east-winter-storm)
+- [North Korea test fires fourth missile in a month – reports](https://www.theguardian.com/world/2022/jan/17/north-korea-test-fires-fourth-missile-in-a-month-reports)
+- [NFL playoffs: 49ers upset Cowboys in thriller as Bucs and Brady rumble on](https://www.theguardian.com/sport/2022/jan/16/nfl-wildcard-weekend-games-bucs-eagles-49ers-cowboys-ravens-steelers)
+- [Ruth Davidson speaks of fears over disclosure of mental health history](https://www.theguardian.com/politics/2022/jan/17/ruth-davidson-mental-health-depression)
+- [Saving Britney review – a Spears superfan breaks the ice](https://www.theguardian.com/stage/2022/jan/17/saving-britney-review-a-spears-superfan)
+- [World’s 10 richest men see their wealth double during Covid pandemic](https://www.theguardian.com/business/2022/jan/17/world-10-richest-men-see-their-wealth-double-during-covid-pandemic)
+- [UK households facing ‘fuel stress’ will treble to 6.3m – thinktank](https://www.theguardian.com/money/2022/jan/17/uk-households-facing-fuel-stress-will-treble-to-63m-thinktank)
+- [TUC says more than 250,000 workers self-isolating ‘without decent sick pay’](https://www.theguardian.com/politics/2022/jan/17/tuc-says-more-than-250000-workers-self-isolating-without-decent-sick-pay)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

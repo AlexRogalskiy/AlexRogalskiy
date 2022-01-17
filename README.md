@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Telecommunications question](https://www.reddit.com/r/InformationTechnology/comments/s5s2f6/telecommunications_question/)
+- [Does anyone want to connect on LinkedIn? I just got into the IT field and looking to grow my professional network. Please let me know! Fellow women especially &lt;3](https://www.reddit.com/r/InformationTechnology/comments/s5rlui/does_anyone_want_to_connect_on_linkedin_i_just/)
+- [Business Intelligence and Knowledge Management](https://www.reddit.com/r/InformationTechnology/comments/s5efg2/business_intelligence_and_knowledge_management/)
+- [Why does no one realize how much potential tech majors have?](https://www.reddit.com/r/InformationTechnology/comments/s4zxjq/why_does_no_one_realize_how_much_potential_tech/)
+- [Can you recover files from a seemingly corrupt external hdd?](https://www.reddit.com/r/InformationTechnology/comments/s4uwe5/can_you_recover_files_from_a_seemingly_corrupt/)
+- [Need help setting up an internet data point](https://www.reddit.com/r/InformationTechnology/comments/s4pu6q/need_help_setting_up_an_internet_data_point/)
 - [sought after skills](https://www.reddit.com/r/InformationTechnology/comments/s49290/sought_after_skills/)
 - [Windows update January 14 2022 Patches](https://www.reddit.com/r/InformationTechnology/comments/s3x92a/windows_update_january_14_2022_patches/)
 - [can someone help ? the professor never explained this](https://www.reddit.com/r/InformationTechnology/comments/s3tyo7/can_someone_help_the_professor_never_explained/)
 - [Streaming Analytics Market Projected to Grow $50.1 billion by 2026](https://www.reddit.com/r/InformationTechnology/comments/s3q76c/streaming_analytics_market_projected_to_grow_501/)
-- [Dynamic Application Security Testing Market by Software, Services &amp; Application - 2022](https://www.reddit.com/r/InformationTechnology/comments/s3pthr/dynamic_application_security_testing_market_by/)
-- [Moving on from a Database Admin role. Advice on where to go next will be appreciated.](https://www.reddit.com/r/InformationTechnology/comments/s3k7b2/moving_on_from_a_database_admin_role_advice_on/)
-- [going in IT with absolutely no experience](https://www.reddit.com/r/InformationTechnology/comments/s3ec9f/going_in_it_with_absolutely_no_experience/)
-- [Windows 10 Pro for Personal or Business](https://www.reddit.com/r/InformationTechnology/comments/s3dl8q/windows_10_pro_for_personal_or_business/)
-- [Automation Testing Market Expected to Grow $49.9 Billion by 2026](https://www.reddit.com/r/InformationTechnology/comments/s2yjx2/automation_testing_market_expected_to_grow_499/)
-- [Speech Analytics Market Size, Share and Global Market Forecast to 2026 | COVID-19 Impact Analysis](https://www.reddit.com/r/InformationTechnology/comments/s2xn7a/speech_analytics_market_size_share_and_global/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

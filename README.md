@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
-- [Government Requests to Remove Content](https://transparencyreport.google.com/government-removals/)
-- [Efficient Large Scale Language Modeling with Mixtures of Experts](https://arxiv.org/abs/2112.10684)
-- [Safari 15 IndexedDB Leaks](https://safarileaks.com/)
-- [The Gates of Hell](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
-- [Essence: Desktop operating system built from scratch](https://nakst.gitlab.io/essence)
-- [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
-- [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
-- [Google helps Scientology billionaire Bob Duggan hide a dark family secret &lpar;2015&rpar;](https://tonyortega.org/2015/06/13/google-helps-scientology-billionaire-bob-duggan-hide-a-dark-family-secret/)
-- [Street Fighter II, Sound System Internals](https://fabiensanglard.net/sf2_sound_system/index.html)
+- [DOS on Dope](https://secretgeek.net/dod_intro)
+- [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
+- [A guide to building Lego Classic Town cars](https://brickset.com/article/70066/a-guide-to-building-classic-town-cars)
+- [The Capital Sponge](https://www.lynalden.com/january-2022-newsletter/)
+- [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
+- [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
+- [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
+- [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
+- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly &lpar;1975&rpar;](http://altairbasic.org/)
+- [Why isn&#39;t there a universal data format for résumés?](https://toot.cat/@woozle/107634232290378715)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

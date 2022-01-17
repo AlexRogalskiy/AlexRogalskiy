@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RISC-V Powered Mango Pi Takes on Raspberry Pi Zero at Its Own Game](https://www.tomshardware.com/news/raspberry-pi-alternative-mango-pi-risc-v-sbc)
-- [Ask HN: Does Babel need to do this to async / await?](https://babeljs.io/en/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=false&spec=false&loose=false&code_lz=MYewdgzgLgBAlgWwIIQJ5mDAvDAhmjACgEpsA-GAbwCgBIXAd1zlgAUAnEBOCAUwDp2vCCAA2AN16EA5AAk4AQmnFqAXyA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env&prettier=false&targets=&version=7.16.9&externalPlugins=%40babel%2Fplugin-transform-regenerator%407.12.1&assumptions=%7B%7D)
-- [My 85-year-old mother caught Covid. Medical triage made her doctor useless](https://www.usatoday.com/story/opinion/2022/01/15/monoclonal-antibody-treatments-desperate-covid-19-tests/9132367002/?gnt-cfr=1)
-- [Gf – A GDB Front End](https://github.com/nakst/gf)
-- [Ask HN: What&#39;s a good problem solving framework/method?](https://news.ycombinator.com/item?id=29952680)
-- [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
-- [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
-- [Large-Size Wall Clock at Munsu Water Park Tells a Touching Story &lpar;North Korea&rpar;](https://rodong.rep.kp/en/index.php?strPageID=SF01_02_01&newsID=2022-01-12-0007)
-- [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
-- [Concern for UK security as anti-vaxxer groups evolve towards US-style militias](https://www.theguardian.com/uk-news/2022/jan/15/concern-for-uk-security-as-anti-vaxxer-groups-evolve-towards-us-style-militias)
+- [Ask HN: To those with successful paying startup projects](https://news.ycombinator.com/item?id=29962702)
+- [What happens when a person dies alone? A trauma cleaner shows us what it&#39;s like](https://www.channelnewsasia.com/singapore/trauma-death-cleaning-die-live-alone-home-2430556)
+- [Keep on Ticking: Entomologist Tells of Ticks’ 27-Year Lifespan](https://entomologytoday.org/2022/01/14/keep-ticking-argas-brumpti-ticks-longevity-27-year-lifespan/)
+- [Balanced budget fiscal stimulus: The case for shifting taxs onto land](https://voxeu.org/article/post-corona-balanced-budget-fiscal-stimulus-case-shifting-taxes-land)
+- [Ask HN : Planning to build it right like App](https://news.ycombinator.com/item?id=29962675)
+- [HyperTransformer: Model Generation for Few-Shot Learning](https://arxiv.org/abs/2201.04182)
+- [iPhone Hidden Trackpad](https://www.cnet.com/tech/mobile/iphones-hidden-trackpad-makes-editing-text-easier-learn-how-it-works/)
+- [DOS on Dope](https://secretgeek.net/dod_intro)
+- [State of accessibility on Linux, perspective of a blind user](https://old.reddit.com/r/linux/comments/s3vvot/state_of_accessibility_on_linux_perspective_of_a/)
+- [Copilot Is Shutting Down](https://www.copilot.com/closing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

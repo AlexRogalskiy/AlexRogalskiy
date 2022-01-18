@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian government launches new mental health support companion app](https://www.itworldcanada.com/article/canadian-government-launches-new-mental-health-support-companion-app/470752)
+- [Many Canadian, U.S. SMB websites vulnerable to spoofing, clickjacking and sniffing, says vendor](https://www.itworldcanada.com/article/many-canadian-u-s-smb-websites-vulnerable-to-spoofing-clickjacking-and-sniffing-says-vendor/470672)
+- [Bug in Safari can leak browsing activity, user identity, says report](https://www.itworldcanada.com/article/bug-in-safari-can-leak-browsing-activity-user-identity-says-report/470678)
+- [Cyber Security Today, Jan. 17, 2022 – New backdoor found attacking servers, another ransomware campaign against QNAP storage devices, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-17-2022-new-backdoor-found-attacking-servers-another-ransomware-campaign-against-qnap-storage-devices-and-more/470663)
+- [Hashtag Trending Jan. 17 – ‘Adaptive’ transistors; Kosovo crypto panic; Walmart NFT](https://www.itworldcanada.com/article/hashtag-trending-jan-17-adaptive-transistors-kosovo-crypto-panic-walmart-nft/470667)
 - [Cyber Security Today, Week in Review for Jan. 14, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-jan-14-2022/470574)
 - [Firms using open source have duty to act fast when bugs are found: Apache](https://www.itworldcanada.com/article/firms-using-open-source-have-duty-to-act-fast-when-bugs-are-found-apache/470605)
 - [Russia says REvil gang arrested, infrastructure ‘liquidated’](https://www.itworldcanada.com/article/russia-says-revil-gang-arrested-infrastructure-liquidated/470613)
 - [Greentec becomes first e-waste processor in Canada to receive R2v3 certification](https://www.itworldcanada.com/article/greentec-becomes-first-e-waste-processor-in-canada-to-receive-r2v3-certification/470631)
 - [Cyber Security Today, Jan. 14, 2022 – More alleged cybercrooks arrested in Ukraine, a warning to law and accounting firms, and the latest phone scam](https://www.itworldcanada.com/article/cyber-security-today-jan-14-2022-more-alleged-cybercrooks-arrested-in-ukraine-a-warning-to-law-and-accounting-firms-and-the-latest-phone-scam/470591)
-- [Hashtag Trending Jan. 14 – Buying property in the metaverse; right-to-repair for cars; Reselling Tesla’s Cyberquad](https://www.itworldcanada.com/article/hashtag-trending-jan-14-buying-property-in-the-metaverse-right-to-repair-for-cars-reselling-teslas-cyberquad/470602)
-- [Protest by open source developer raises questions about compensation, and ethics](https://www.itworldcanada.com/article/protest-by-open-source-developer-raises-questions-about-compensation-and-ethics/470489)
-- [Microsoft pulls Windows Server updates causing domain controller boot loops, Hyper-V issues](https://www.itworldcanada.com/article/microsoft-pulls-windows-server-updates-causing-domain-controller-boot-loops-hyper-v-issues/470578)
-- [Hashtag Trending Jan. 13 – Celebrity promotes cryptocurrency; Mozilla tracks Facebook; YouTube and fake news](https://www.itworldcanada.com/article/hashtag-trending-jan-13-celebrity-promotes-cryptocurrency-mozilla-tracks-facebook-youtube-and-fake-news/470472)
-- [Telus Health launches Virtual Pharmacy service in Canada](https://www.itworldcanada.com/article/telus-health-launches-virtual-pharmacy-service-in-canada/470468)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

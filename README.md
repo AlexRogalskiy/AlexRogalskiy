@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DOS on Dope](https://secretgeek.net/dod_intro)
-- [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
-- [A guide to building Lego Classic Town cars](https://brickset.com/article/70066/a-guide-to-building-classic-town-cars)
-- [The Capital Sponge](https://www.lynalden.com/january-2022-newsletter/)
-- [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
-- [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
-- [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
-- [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
-- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly &lpar;1975&rpar;](http://altairbasic.org/)
-- [Why isn&#39;t there a universal data format for résumés?](https://toot.cat/@woozle/107634232290378715)
+- [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
+- [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
+- [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
+- [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
+- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
+- [Cain&#39;s Jawbone: Puzzle solved for just third time in almost 100 years &lpar;2020&rpar;](https://www.theguardian.com/books/2020/nov/10/literary-puzzle-solved-for-just-third-time-in-almost-100-years-cains-jawbone)
+- [Mars rover detects carbon signature that may hint at past life source](https://www.science.org/content/article/mars-rover-detects-carbon-signature-hints-past-life-source)
+- [The Charisma Machine: The life, death, and legacy of One Laptop per Child](https://morganya.org/charisma.html)
+- [Why I Enjoy PostgreSQL – Infrastructure Engineer&#39;s Perspective](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/)
+- [Who Watches Watchmen? – Integrating Elixir Applications with Systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

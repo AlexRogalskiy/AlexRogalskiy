@@ -370,6 +370,8 @@
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
 - [Fender’s CIO Talks Tuning Up SAP with a Migration to AWS](https://www.informationweek.com/cloud/fender-s-cio-talks-tuning-up-sap-with-a-migration-to-aws)
+- [How Hybrid Multi-Cloud Can Mitigate Current Supply Chain Woes](https://www.informationweek.com/cloud/how-hybrid-multi-cloud-can-mitigate-current-supply-chain-woes)
+- [How to Configure an Edge Data Center to Meet Your Specific Needs](https://www.informationweek.com/cloud/how-to-configure-an-edge-data-center-to-meet-your-specific-needs)
 - [Network Management: How to Develop a Clear-Cut Roadmap](https://www.informationweek.com/it-strategy/network-management-how-to-develop-a-clear-cut-roadmap)
 - [Enterprise Data: Prepare for More Change in This Hot Area of Tech](https://www.informationweek.com/big-data/enterprise-data-prepare-for-more-change-in-this-hot-area-of-tech)
 - [How to Repurpose an Obsolete On-Premises Data Center](https://www.informationweek.com/cloud/how-to-repurpose-an-obsolete-on-premises-data-center)
@@ -377,8 +379,6 @@
 - [Fintech’s Future Through the Eyes of CES](https://www.informationweek.com/fintech/fintech-s-future-through-the-eyes-of-ces)
 - [Information Security Analyst Tops List of 2022 Top Jobs](https://www.informationweek.com/strategic-cio/information-security-analyst-tops-list-of-2022-top-jobs)
 - [10 Trends That Will Affect IT in 2022](https://www.informationweek.com/big-data/10-trends-that-will-affect-it-in-2022)
-- [The Great Resignation: How to Combat the Knowledge Drain Effect](https://www.informationweek.com/it-life/the-great-resignation-how-to-combat-the-knowledge-drain-effect)
-- [Digital Twin Smart Mapping Hits the Slopes](https://www.informationweek.com/big-data/digital-twin-smart-mapping-hits-the-slopes)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [UK government ignites debate over privacy vs. safety](https://www.computerworld.com/article/3647369/uk-government-ignites-debate-over-privacy-vs-safety.html#tk.rss_all)
+- [20 years after Gates’ call for trustworthy computing, we’re still not there](https://www.computerworld.com/article/3647289/20-years-after-gates-call-for-trustworthy-computing-we-re-still-not-there.html#tk.rss_all)
+- [How to handle Windows 10 and 11 updates](https://www.computerworld.com/article/3014600/how-to-handle-windows-10-and-11-updates.html#tk.rss_all)
 - [Patch Tuesday gets off to a busy start for January](https://www.computerworld.com/article/3647150/patch-tuesday-gets-off-to-a-busy-start-for-january.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [8+ useful iPhone tips for better productivity](https://www.computerworld.com/article/3647092/8-useful-iphone-tips-for-better-productivity.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [The golden age of computer monitors](https://www.computerworld.com/article/3647188/the-golden-age-of-computer-monitors.html#tk.rss_all)
 - [The 10 best new Microsoft Teams meeting features](https://www.computerworld.com/article/3646153/10-best-new-microsoft-teams-meeting-features.html#tk.rss_all)
 - [The cold, bitter truth about the Android-iOS messaging mess](https://www.computerworld.com/article/3646870/android-ios-messaging.html#tk.rss_all)
-- [Supply chain, semi-conductor issues slam PC shipments](https://www.computerworld.com/article/3646991/supply-chain-semi-conductor-issues-slam-pc-shipments.html#tk.rss_all)
-- [Podcast: What’s next for the App Store?](https://www.computerworld.com/article/3647089/podcast-whats-next-for-the-app-store.html#tk.rss_all)
-- [The trillion-hour attention economy &lpar;and where the Apple Car fits in&rpar;](https://www.computerworld.com/article/3647148/the-trillion-hour-attention-economy-and-where-the-apple-car-fits-in.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

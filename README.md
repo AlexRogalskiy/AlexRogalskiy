@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: To those with successful paying startup projects](https://news.ycombinator.com/item?id=29962702)
-- [What happens when a person dies alone? A trauma cleaner shows us what it&#39;s like](https://www.channelnewsasia.com/singapore/trauma-death-cleaning-die-live-alone-home-2430556)
-- [Keep on Ticking: Entomologist Tells of Ticks’ 27-Year Lifespan](https://entomologytoday.org/2022/01/14/keep-ticking-argas-brumpti-ticks-longevity-27-year-lifespan/)
-- [Balanced budget fiscal stimulus: The case for shifting taxs onto land](https://voxeu.org/article/post-corona-balanced-budget-fiscal-stimulus-case-shifting-taxes-land)
-- [Ask HN : Planning to build it right like App](https://news.ycombinator.com/item?id=29962675)
-- [HyperTransformer: Model Generation for Few-Shot Learning](https://arxiv.org/abs/2201.04182)
-- [iPhone Hidden Trackpad](https://www.cnet.com/tech/mobile/iphones-hidden-trackpad-makes-editing-text-easier-learn-how-it-works/)
-- [DOS on Dope](https://secretgeek.net/dod_intro)
-- [State of accessibility on Linux, perspective of a blind user](https://old.reddit.com/r/linux/comments/s3vvot/state_of_accessibility_on_linux_perspective_of_a/)
-- [Copilot Is Shutting Down](https://www.copilot.com/closing/)
+- [Activision Blizzard fires 3 dozen people in sexual harassment probe](https://www.reuters.com/business/activision-blizzard-fires-more-people-sexual-harassment-probe-report-says-2022-01-17/)
+- [I won&#39;t let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568)
+- [The Early, State-Sanctioned LSD Experiments in Communist Bulgaria &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-early-state-sanctioned-lsd-experiments-in-communist-bulgaria)
+- [Is it possible to buy mercury-free tuna?](https://www.quora.com/Is-it-possible-to-find-mercury-free-tuna-in-grocery-stores)
+- [Share of cereals allocated to human food](https://ourworldindata.org/grapher/share-cereal-human-food)
+- [Safari 15 bug can leak your recent browsing activity and personal identifiers](https://www.theverge.com/2022/1/16/22886809/safari-15-bug-leak-browsing-history-personal-information)
+- [Airlines call for Biden admin&#39;s “immediate intervention” in 5G deployment](https://www.axios.com/airlines-catastrophic-disruption-flights-5g-55446670-0f98-4f7b-8a89-c76bdacb2675.html)
+- [New Color Card App](https://appgallery.huawei.com/#/app/C104877975)
+- [Walmart Plans to Sell Virtual Goods, Create Cryptocurrency and NFTs](https://www.thestreet.com/investing/walmart-plans-to-sell-virtual-goods-create-cryptocurrency-and-nfts)
+- [Software Does Not Fail](http://niquette.com/paul/issue/softwr02.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

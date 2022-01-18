@@ -399,6 +399,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [‘Russian-backed’ hackers defaced Ukrainian websites as cover for dangerous malware attack](https://www.computerweekly.com/news/252512087/Russian-backed-hackers-defaced-Ukrainian-websites-as-cover-for-dangerous-malware-attack)
+- [Automation and interoperability key to UK’s digital energy plans](https://www.computerweekly.com/news/252512085/Automation-and-interoperability-key-to-UKs-digital-energy-plans)
+- [Umbrella firm Parasol confirms ‘malicious activity’ as root cause of ongoing systems outage](https://www.computerweekly.com/news/471512073/Umbrella-firm-Parasol-confirms-malicious-activity-as-root-cause-of-ongoing-systems-outage)
 - [Nato offers tech support after &#39;massive cyber attack&#39; hits Ukraine](https://www.computerweekly.com/news/252512047/Nato-offers-tech-support-after-massive-cyber-attack-hits-Ukraine)
 - [A Computer Weekly buyer’s guide to emerging technology](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-emerging-technology)
 - [A Computer Weekly buyer’s guide to 5G mobile networking](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-5G-mobile-networking)
@@ -406,9 +409,6 @@
 - [Umbrella company Brookson self-refers to NCSC following cyber attack on its network](https://www.computerweekly.com/news/252512026/Umbrella-company-Brookson-self-refers-to-NCSC-following-cyber-attack-on-its-network)
 - [Finland moves to industrialise quantum computing](https://www.computerweekly.com/feature/Finland-moves-to-industrialise-quantum-computing)
 - [Socitm outlines public sector digital trends for 2022](https://www.computerweekly.com/news/252512004/Socitm-outlines-public-sector-digital-trends-for-2022)
-- [Microsoft veteran turns her attention to levelling up IT industry for women](https://www.computerweekly.com/news/252511974/Microsft-veteran-turns-her-attention-to-levelling-up-industry-for-women)
-- [Twinings selects Rise with SAP to simplify its business brew](https://www.computerweekly.com/news/252511994/Twinings-selects-Rise-with-SAP-to-simplify-its-business-brew)
-- [Post Office received £1bn taxpayer subsidy last year as part of IT scandal compensation](https://www.computerweekly.com/news/252512010/Post-Office-received-1bn-taxpayer-subsidy-last-year-as-part-of-IT-scandal-compensation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

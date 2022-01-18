@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: New Zealand begins vaccinating children aged 5-11; French parliament approves vaccine pass](https://www.theguardian.com/world/live/2022/jan/17/covid-news-live-new-zealand-begins-vaccinating-children-aged-5-11-french-parliament-approves-vaccine-pass)
-- [Australian Open 2022: Naomi Osaka on court as grand slam begins without Novak Djokovic – live!](https://www.theguardian.com/sport/live/2022/jan/17/australian-open-2022-tennis-day-one-live-news-updates-naomi-osaka-rafael-nadal-ash-barty-novak-djokovic-schedule-today-scores-grand-slam-melbourne-park)
-- [Tens of thousands without power as winter storm blasts US south-east](https://www.theguardian.com/us-news/2022/jan/16/us-south-east-winter-storm)
-- [North Korea test fires fourth missile in a month – reports](https://www.theguardian.com/world/2022/jan/17/north-korea-test-fires-fourth-missile-in-a-month-reports)
-- [NFL playoffs: 49ers upset Cowboys in thriller as Bucs and Brady rumble on](https://www.theguardian.com/sport/2022/jan/16/nfl-wildcard-weekend-games-bucs-eagles-49ers-cowboys-ravens-steelers)
-- [Ruth Davidson speaks of fears over disclosure of mental health history](https://www.theguardian.com/politics/2022/jan/17/ruth-davidson-mental-health-depression)
-- [Saving Britney review – a Spears superfan breaks the ice](https://www.theguardian.com/stage/2022/jan/17/saving-britney-review-a-spears-superfan)
-- [World’s 10 richest men see their wealth double during Covid pandemic](https://www.theguardian.com/business/2022/jan/17/world-10-richest-men-see-their-wealth-double-during-covid-pandemic)
-- [UK households facing ‘fuel stress’ will treble to 6.3m – thinktank](https://www.theguardian.com/money/2022/jan/17/uk-households-facing-fuel-stress-will-treble-to-63m-thinktank)
-- [TUC says more than 250,000 workers self-isolating ‘without decent sick pay’](https://www.theguardian.com/politics/2022/jan/17/tuc-says-more-than-250000-workers-self-isolating-without-decent-sick-pay)
+- [Coronavirus news live: Poland enters fifth Covid wave; Australia reports record daily death toll](https://www.theguardian.com/world/live/2022/jan/18/coronavirus-news-live-poland-enters-fifth-covid-wave-australia-reports-record-daily-death-toll)
+- [‘She will not become dull and unattractive’: The charming history of menopause and HRT | Niki Bezzant](https://www.theguardian.com/world/2022/jan/18/she-will-not-become-dull-and-unattractive-the-charming-history-of-menopause-and-hrt)
+- [In an era of rightwing populism, we cannot destroy democracy in order to save it | Jeff Sparrow](https://www.theguardian.com/commentisfree/2022/jan/18/in-an-era-of-rightwing-populism-we-cannot-destroy-democracy-in-order-to-save-it)
+- [‘It’s a total disaster’: Omicron lays waste to India’s huge wedding season](https://www.theguardian.com/world/2022/jan/18/its-a-total-disaster-omicron-lays-waste-to-indias-huge-wedding-season)
+- [Australia dealt Ashes blow after Beth Mooney breaks jaw in training incident](https://www.theguardian.com/sport/2022/jan/18/australia-dealt-ashes-blow-after-beth-mooney-breaks-jaw-in-training-incident)
+- [Lords inflict multiple defeats on ministers with misogyny voted a hate crime](https://www.theguardian.com/society/2022/jan/18/government-defeated-as-lords-vote-to-make-misogyny-a-hate)
+- [Tonga volcano: distress signal detected in low-lying islands after eruption, as first death reported](https://www.theguardian.com/world/2022/jan/18/distress-signal-detected-in-low-lying-tongan-islands-after-volcano-eruption-as-first-death-reported)
+- [Sadiq Khan proposes journey charge for motorists in London](https://www.theguardian.com/uk-news/2022/jan/18/sadiq-khan-proposes-journey-charge-for-motorists-in-london)
+- [Thousands of student gambling addicts ‘spending £30 a week on habit’](https://www.theguardian.com/society/2022/jan/18/thousands-of-student-gambling-addicts-spending-30-a-week-on-habit)
+- [Magistrates will get power to give one-year jail sentences to cut backlog](https://www.theguardian.com/uk-news/2022/jan/18/magistrates-will-get-power-to-give-one-year-jail-sentences-to-cut-backlog)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

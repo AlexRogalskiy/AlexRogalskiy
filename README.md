@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Data management systems](https://www.reddit.com/r/InformationTechnology/comments/s65p2f/data_management_systems/)
 - [Telecommunications question](https://www.reddit.com/r/InformationTechnology/comments/s5s2f6/telecommunications_question/)
 - [Does anyone want to connect on LinkedIn? I just got into the IT field and looking to grow my professional network. Please let me know! Fellow women especially &lt;3](https://www.reddit.com/r/InformationTechnology/comments/s5rlui/does_anyone_want_to_connect_on_linkedin_i_just/)
 - [Business Intelligence and Knowledge Management](https://www.reddit.com/r/InformationTechnology/comments/s5efg2/business_intelligence_and_knowledge_management/)
@@ -423,7 +424,6 @@
 - [sought after skills](https://www.reddit.com/r/InformationTechnology/comments/s49290/sought_after_skills/)
 - [Windows update January 14 2022 Patches](https://www.reddit.com/r/InformationTechnology/comments/s3x92a/windows_update_january_14_2022_patches/)
 - [can someone help ? the professor never explained this](https://www.reddit.com/r/InformationTechnology/comments/s3tyo7/can_someone_help_the_professor_never_explained/)
-- [Streaming Analytics Market Projected to Grow $50.1 billion by 2026](https://www.reddit.com/r/InformationTechnology/comments/s3q76c/streaming_analytics_market_projected_to_grow_501/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

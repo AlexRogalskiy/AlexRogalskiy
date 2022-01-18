@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [A new kind of old-school testing](https://www.infoworld.com/article/3647288/a-new-kind-of-old-school-testing.html#tk.rss_all)
+- [4 models for escalating access permissions during emergencies](https://www.infoworld.com/article/3647069/4-models-for-escalating-access-permissions-during-emergencies.html#tk.rss_all)
 - [Parcel CSS parser offered as performance enhancer](https://www.infoworld.com/article/3647269/parcel-css-parser-offered-as-performance-enhancer.html#tk.rss_all)
 - [View cloud architecture through a new optimization lens](https://www.infoworld.com/article/3646989/view-cloud-architecture-through-a-new-optimization-lens.html#tk.rss_all)
 - [IPython REPL update advances code formatting](https://www.infoworld.com/article/3647171/ipython-repl-update-advances-code-formatting.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [What is Web3? A new decentralized web, or the latest marketing buzzword](https://www.infoworld.com/article/3646597/what-is-web3-a-new-decentralized-web-or-the-latest-marketing-buzzword.html#tk.rss_all)
 - [Understanding Azure HPC](https://www.infoworld.com/article/3646419/understanding-azure-hpc.html#tk.rss_all)
 - [Get started with generics in Go](https://www.infoworld.com/article/3646036/get-started-with-generics-in-go.html#tk.rss_all)
-- [Microsoft .NET MAUI Preview 11 updates Windows UI styling](https://www.infoworld.com/article/3646418/microsoft-net-maui-preview-11-updates-windows-ui-styling.html#tk.rss_all)
-- [Maybe cloud migration needs more than six Rs](https://www.infoworld.com/article/3646593/maybe-cloud-migration-needs-more-than-six-rs.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

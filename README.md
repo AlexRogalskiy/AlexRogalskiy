@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coronavirus news live: Poland enters fifth Covid wave; Australia reports record daily death toll](https://www.theguardian.com/world/live/2022/jan/18/coronavirus-news-live-poland-enters-fifth-covid-wave-australia-reports-record-daily-death-toll)
-- [‘She will not become dull and unattractive’: The charming history of menopause and HRT | Niki Bezzant](https://www.theguardian.com/world/2022/jan/18/she-will-not-become-dull-and-unattractive-the-charming-history-of-menopause-and-hrt)
-- [In an era of rightwing populism, we cannot destroy democracy in order to save it | Jeff Sparrow](https://www.theguardian.com/commentisfree/2022/jan/18/in-an-era-of-rightwing-populism-we-cannot-destroy-democracy-in-order-to-save-it)
-- [‘It’s a total disaster’: Omicron lays waste to India’s huge wedding season](https://www.theguardian.com/world/2022/jan/18/its-a-total-disaster-omicron-lays-waste-to-indias-huge-wedding-season)
-- [Australia dealt Ashes blow after Beth Mooney breaks jaw in training incident](https://www.theguardian.com/sport/2022/jan/18/australia-dealt-ashes-blow-after-beth-mooney-breaks-jaw-in-training-incident)
-- [Lords inflict multiple defeats on ministers with misogyny voted a hate crime](https://www.theguardian.com/society/2022/jan/18/government-defeated-as-lords-vote-to-make-misogyny-a-hate)
-- [Tonga volcano: distress signal detected in low-lying islands after eruption, as first death reported](https://www.theguardian.com/world/2022/jan/18/distress-signal-detected-in-low-lying-tongan-islands-after-volcano-eruption-as-first-death-reported)
-- [Sadiq Khan proposes journey charge for motorists in London](https://www.theguardian.com/uk-news/2022/jan/18/sadiq-khan-proposes-journey-charge-for-motorists-in-london)
-- [Thousands of student gambling addicts ‘spending £30 a week on habit’](https://www.theguardian.com/society/2022/jan/18/thousands-of-student-gambling-addicts-spending-30-a-week-on-habit)
-- [Magistrates will get power to give one-year jail sentences to cut backlog](https://www.theguardian.com/uk-news/2022/jan/18/magistrates-will-get-power-to-give-one-year-jail-sentences-to-cut-backlog)
+- [Australian Open 2022 day three: Ash Barty continues home grand slam bid, Nadal in second round action – live!](https://www.theguardian.com/sport/live/2022/jan/19/australian-open-2022-tennis-ao-day-three-live-news-updates-ash-barty-rafael-nadal-naomi-osaka-aus-open-schedule-today-scores-grand-slam-melbourne-park)
+- [Covid news live: England expected to ease Omicron restrictions; WHO chief says pandemic is ‘nowhere near over’](https://www.theguardian.com/world/live/2022/jan/19/covid-news-live-england-expected-to-ease-omicron-restrictions-who-chief-says-pandemic-is-nowhere-near-over)
+- [Man charged with murder after child’s body found in a barrel near the Blue Mountains](https://www.theguardian.com/australia-news/2022/jan/19/man-charged-with-over-disappearance-of-nine-year-old-girl-in-blue-mountains)
+- [Hong Kong activist who coined banned independence slogan released from prison](https://www.theguardian.com/world/2022/jan/19/hong-kong-activist-edward-leung-independence-slogan-fishball-revolution-released-from-prison)
+- [US and Russia to hold talks on Ukraine in potential sign ‘diplomacy is not dead’](https://www.theguardian.com/world/2022/jan/18/nato-invites-russia-for-fresh-talks-on-europe-amid-ukraine-crisis)
+- [Boris Johnson’s faster broadband promise is being broken, say MPs](https://www.theguardian.com/business/2022/jan/19/boris-johnsons-faster-broadband-promise-is-being-broken-say-mps)
+- [Millionaires call on governments worldwide to ‘tax us now’](https://www.theguardian.com/business/2022/jan/19/millionaires-call-on-governments-worldwide-to-tax-us-now)
+- [Northern leaders to put culture at centre of region’s post-pandemic recovery](https://www.theguardian.com/uk-news/2022/jan/19/northern-leaders-to-put-culture-at-centre-of-regions-post-pandemic-recovery)
+- [US Capitol attack committee subpoenas Rudy Giuliani and other Trump lawyers](https://www.theguardian.com/us-news/2022/jan/18/us-capitol-attack-committee-subpoenas-rudy-giuliani-and-other-trump-lawyers)
+- [Donald Trump’s former attorney general William Barr to publish his memoirs](https://www.theguardian.com/us-news/2022/jan/18/donald-trump-attorney-general-william-barr-memoir)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

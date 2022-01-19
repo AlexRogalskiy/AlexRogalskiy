@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [A new kind of old-school testing](https://www.infoworld.com/article/3647288/a-new-kind-of-old-school-testing.html#tk.rss_all)
+- [What’s new in Rust 1.58](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Suse open sources NeuVector container security platform](https://www.infoworld.com/article/3647295/suse-open-sources-neuvector-container-security-platform.html#tk.rss_all)
+- [The lowdown on industry clouds](https://www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.html#tk.rss_all)
+- [A new kind of old-school testing](https://www.infoworld.com/article/3647288/a-new-kind-of-old-school-software-testing.html#tk.rss_all)
 - [4 models for escalating access permissions during emergencies](https://www.infoworld.com/article/3647069/4-models-for-escalating-access-permissions-during-emergencies.html#tk.rss_all)
 - [Parcel CSS parser offered as performance enhancer](https://www.infoworld.com/article/3647269/parcel-css-parser-offered-as-performance-enhancer.html#tk.rss_all)
 - [View cloud architecture through a new optimization lens](https://www.infoworld.com/article/3646989/view-cloud-architecture-through-a-new-optimization-lens.html#tk.rss_all)
 - [IPython REPL update advances code formatting](https://www.infoworld.com/article/3647171/ipython-repl-update-advances-code-formatting.html#tk.rss_all)
 - [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_all)
 - [Firefox 96 enhances CSS, Canvas support for developers](https://www.infoworld.com/article/3646751/firefox-96-enhances-css-canvas-support-for-developers.html#tk.rss_all)
-- [What is Web3? A new decentralized web, or the latest marketing buzzword](https://www.infoworld.com/article/3646597/what-is-web3-a-new-decentralized-web-or-the-latest-marketing-buzzword.html#tk.rss_all)
-- [Understanding Azure HPC](https://www.infoworld.com/article/3646419/understanding-azure-hpc.html#tk.rss_all)
-- [Get started with generics in Go](https://www.infoworld.com/article/3646036/get-started-with-generics-in-go.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

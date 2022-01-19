@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft to buy video game maker Activision Blizzard for $68.7B](https://www.computerworld.com/article/3647294/microsoft-to-buy-video-game-maker-activision-blizzard-for-687b.html#tk.rss_all)
+- [Supply chain disruption, Apple, and the importance of ops](https://www.computerworld.com/article/3647211/supply-chain-disruption-apple-and-the-importance-of-ops.html#tk.rss_all)
+- [Get ready for the ‘Great Shutdown’](https://www.computerworld.com/article/3647270/get-ready-for-the-great-shutdown.html#tk.rss_all)
+- [24 advanced tips for Android 12](https://www.computerworld.com/article/3645142/24-advanced-tips-for-android-12.html#tk.rss_all)
 - [UK government ignites debate over privacy vs. safety](https://www.computerworld.com/article/3647369/uk-government-ignites-debate-over-privacy-vs-safety.html#tk.rss_all)
 - [20 years after Gates’ call for trustworthy computing, we’re still not there](https://www.computerworld.com/article/3647289/20-years-after-gates-call-for-trustworthy-computing-we-re-still-not-there.html#tk.rss_all)
 - [How to handle Windows 10 and 11 updates](https://www.computerworld.com/article/3014600/how-to-handle-windows-10-and-11-updates.html#tk.rss_all)
 - [Patch Tuesday gets off to a busy start for January](https://www.computerworld.com/article/3647150/patch-tuesday-gets-off-to-a-busy-start-for-january.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [8+ useful iPhone tips for better productivity](https://www.computerworld.com/article/3647092/8-useful-iphone-tips-for-better-productivity.html#tk.rss_all)
-- [Microsoft turns its focus toward frontline workers with Teams tweaks](https://www.computerworld.com/article/3647091/microsoft-turns-its-focus-toward-frontline-workers-with-teams-tweaks.html#tk.rss_all)
-- [The golden age of computer monitors](https://www.computerworld.com/article/3647188/the-golden-age-of-computer-monitors.html#tk.rss_all)
-- [The 10 best new Microsoft Teams meeting features](https://www.computerworld.com/article/3646153/10-best-new-microsoft-teams-meeting-features.html#tk.rss_all)
-- [The cold, bitter truth about the Android-iOS messaging mess](https://www.computerworld.com/article/3646870/android-ios-messaging.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

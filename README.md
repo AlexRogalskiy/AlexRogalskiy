@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Activision Blizzard fires 3 dozen people in sexual harassment probe](https://www.reuters.com/business/activision-blizzard-fires-more-people-sexual-harassment-probe-report-says-2022-01-17/)
-- [I won&#39;t let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568)
-- [The Early, State-Sanctioned LSD Experiments in Communist Bulgaria &lpar;2016&rpar;](https://www.atlasobscura.com/articles/the-early-state-sanctioned-lsd-experiments-in-communist-bulgaria)
-- [Is it possible to buy mercury-free tuna?](https://www.quora.com/Is-it-possible-to-find-mercury-free-tuna-in-grocery-stores)
-- [Share of cereals allocated to human food](https://ourworldindata.org/grapher/share-cereal-human-food)
-- [Safari 15 bug can leak your recent browsing activity and personal identifiers](https://www.theverge.com/2022/1/16/22886809/safari-15-bug-leak-browsing-history-personal-information)
-- [Airlines call for Biden admin&#39;s “immediate intervention” in 5G deployment](https://www.axios.com/airlines-catastrophic-disruption-flights-5g-55446670-0f98-4f7b-8a89-c76bdacb2675.html)
-- [New Color Card App](https://appgallery.huawei.com/#/app/C104877975)
-- [Walmart Plans to Sell Virtual Goods, Create Cryptocurrency and NFTs](https://www.thestreet.com/investing/walmart-plans-to-sell-virtual-goods-create-cryptocurrency-and-nfts)
-- [Software Does Not Fail](http://niquette.com/paul/issue/softwr02.htm)
+- [Phishing Email – With an Advertisement?](https://isc.sans.edu/forums/diary/28250/)
+- [Circuit Training: A framework for generating chip floor plans with Deep RL](https://github.com/google-research/circuit_training)
+- [The Native American population more than doubled since 2000](https://usafacts.org/articles/how-the-native-american-population-changed-since-the-last-census/)
+- [Human reproductive cloning: The curious incident of the dog in the night-time](https://www.statnews.com/2020/02/21/human-reproductive-cloning-curious-incident-of-the-dog-in-the-night-time/)
+- [Slovenia to bolster trade ties with Taiwan, wading into row with China](https://www.politico.eu/article/jansa-slovenia-to-follow-lithuania-for-new-office-in-taiwan/)
+- [Log4Shell Attacks – Getting Smarter](https://isc.sans.edu/forums/diary/28246/)
+- [The Incubator: The Brave New World of Bionic Babies](https://spectrum.ieee.org/the-ultimate-incubator-the-brave-new-world-of-bionic-babies)
+- [Ask HN: How to get YouTube to stop offering me a free trial of YouTube Premium?](https://news.ycombinator.com/item?id=29989013)
+- [How to price SaaS, Need advice](https://news.ycombinator.com/item?id=29988987)
+- [Emirates Cancels Most Flights to US Due to 5G – One Mile at a Time](https://onemileatatime.com/news/emirates-cancels-flights-5g/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

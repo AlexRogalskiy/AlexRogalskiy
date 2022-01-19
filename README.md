@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
-- [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
-- [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
-- [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
-- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
-- [Cain&#39;s Jawbone: Puzzle solved for just third time in almost 100 years &lpar;2020&rpar;](https://www.theguardian.com/books/2020/nov/10/literary-puzzle-solved-for-just-third-time-in-almost-100-years-cains-jawbone)
-- [Mars rover detects carbon signature that may hint at past life source](https://www.science.org/content/article/mars-rover-detects-carbon-signature-hints-past-life-source)
-- [The Charisma Machine: The life, death, and legacy of One Laptop per Child](https://morganya.org/charisma.html)
-- [Why I Enjoy PostgreSQL – Infrastructure Engineer&#39;s Perspective](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/)
-- [Who Watches Watchmen? – Integrating Elixir Applications with Systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
+- [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
+- [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+- [NASA: Tonga blast was 10 megatons, more powerful than a nuclear bomb](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons)
+- [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
+- [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
+- [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
+- [Wine 7.0](https://www.winehq.org/announce/7.0)
+- [Do svidaniya, Igor, and thank you for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
+- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
+- [Letter from Union Pacific to LA District Attorney re: train thefts, safety [pdf]](https://www.up.com/cs/groups/public/@uprr/@newsinfo/documents/up_pdf_nativedocs/pdf_up_la_district_atty_211221.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

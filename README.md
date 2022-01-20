@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Phishing Email – With an Advertisement?](https://isc.sans.edu/forums/diary/28250/)
-- [Circuit Training: A framework for generating chip floor plans with Deep RL](https://github.com/google-research/circuit_training)
-- [The Native American population more than doubled since 2000](https://usafacts.org/articles/how-the-native-american-population-changed-since-the-last-census/)
-- [Human reproductive cloning: The curious incident of the dog in the night-time](https://www.statnews.com/2020/02/21/human-reproductive-cloning-curious-incident-of-the-dog-in-the-night-time/)
-- [Slovenia to bolster trade ties with Taiwan, wading into row with China](https://www.politico.eu/article/jansa-slovenia-to-follow-lithuania-for-new-office-in-taiwan/)
-- [Log4Shell Attacks – Getting Smarter](https://isc.sans.edu/forums/diary/28246/)
-- [The Incubator: The Brave New World of Bionic Babies](https://spectrum.ieee.org/the-ultimate-incubator-the-brave-new-world-of-bionic-babies)
-- [Ask HN: How to get YouTube to stop offering me a free trial of YouTube Premium?](https://news.ycombinator.com/item?id=29989013)
-- [How to price SaaS, Need advice](https://news.ycombinator.com/item?id=29988987)
-- [Emirates Cancels Most Flights to US Due to 5G – One Mile at a Time](https://onemileatatime.com/news/emirates-cancels-flights-5g/)
+- [2021 – Year I want and do not want to remember](https://saiyampathak.com/2021-year-i-want-and-do-not-want-to-remember-4229c4a32015)
+- [Unpacking the Web3 Sausage](https://www.drorpoleg.com/unpacking-the-web3-sausage/)
+- [He animated this in Desmos Graphing Calculator](https://www.youtube.com/watch?v=4_8eY_Ij-5k)
+- [Biden threatens &#39;cyber&#39; response after Ukraine says computers wiped in attack](https://www.zdnet.com/article/biden-threatens-cyber-response-after-ukraine-says-computers-wiped-during-attack/)
+- [All Roads Lead to Arch: The Evolution of Linux Distros Used for Gaming over Time](https://boilingsteam.com/all-roads-lead-to-arch-the-evolution-of-linux-distros-used-for-gaming-over-time/)
+- [Ask HN: Are System Design documents out of fashion?](https://news.ycombinator.com/item?id=30003513)
+- [The Power of Cross-Marketing: Teddy Boy Blues](https://nicole.express/2022/theodore-child-ceruleans.html)
+- [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://noahpinion.substack.com/p/americas-top-environmental-groups)
+- [The Only NoFap Strategy That Works](https://www.youtube.com/watch?v=2ztLJPgXwbM)
+- [Webb Mirror Segment Deployments Complete](https://blogs.nasa.gov/webb/2022/01/19/webb-mirror-segment-deployments-complete/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

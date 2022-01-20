@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about private IP addressing &amp; autonomous systems](https://www.reddit.com/r/InformationTechnology/comments/s825iv/question_about_private_ip_addressing_autonomous/)
+- [Is a undergraduate certificate in HCI worth it?](https://www.reddit.com/r/InformationTechnology/comments/s7qoh4/is_a_undergraduate_certificate_in_hci_worth_it/)
 - [Data management systems](https://www.reddit.com/r/InformationTechnology/comments/s65p2f/data_management_systems/)
 - [Telecommunications question](https://www.reddit.com/r/InformationTechnology/comments/s5s2f6/telecommunications_question/)
 - [Does anyone want to connect on LinkedIn? I just got into the IT field and looking to grow my professional network. Please let me know! Fellow women especially &lt;3](https://www.reddit.com/r/InformationTechnology/comments/s5rlui/does_anyone_want_to_connect_on_linkedin_i_just/)
@@ -422,8 +424,6 @@
 - [Can you recover files from a seemingly corrupt external hdd?](https://www.reddit.com/r/InformationTechnology/comments/s4uwe5/can_you_recover_files_from_a_seemingly_corrupt/)
 - [Need help setting up an internet data point](https://www.reddit.com/r/InformationTechnology/comments/s4pu6q/need_help_setting_up_an_internet_data_point/)
 - [sought after skills](https://www.reddit.com/r/InformationTechnology/comments/s49290/sought_after_skills/)
-- [Windows update January 14 2022 Patches](https://www.reddit.com/r/InformationTechnology/comments/s3x92a/windows_update_january_14_2022_patches/)
-- [can someone help ? the professor never explained this](https://www.reddit.com/r/InformationTechnology/comments/s3tyo7/can_someone_help_the_professor_never_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft releases out-of-band patches to address issues from January’s Patch Tuesday](https://www.itworldcanada.com/article/microsoft-releases-out-of-band-patches-to-address-issues-from-januarys-patch-tuesday/470930)
+- [Inside Prometheus, a traffic delivery service used by threat actors](https://www.itworldcanada.com/article/inside-prometheus-a-traffic-delivery-service-used-by-threat-actors/470908)
+- [Many Canadian, U.S. SMB websites vulnerable to spoofing, clickjacking and sniffing, says vendor](https://www.itworldcanada.com/article/many-canadian-u-s-smb-websites-vulnerable-to-spoofing-clickjacking-and-sniffing-says-vendor/470672)
+- [Cyber Security Today, Jan. 19, 2022 – Box closes MFA vulnerabilities, VPN service used by crooks shut, ransomware stats, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-19-2022-box-closes-mfa-vulnerabilities-vpn-service-used-by-crooks-shut-ransomware-stats-and-more/470896)
+- [Hashtag Trending Jan. 19 – Microsoft’s big deal; Mozilla pauses crypto; Ericsson sues Apple](https://www.itworldcanada.com/article/hashtag-trending-jan-19-microsofts-big-deal-mozilla-pauses-crypto-ericsson-sues-apple/470877)
 - [Rogers to invest nearly $200 million to bring pure fibre to New Brunswick](https://www.itworldcanada.com/article/rogers-to-invest-nearly-200-million-to-bring-pure-fibre-to-new-brunswick/470856)
 - [World Economic Forum urges firms to build resiliency against cyberattacks](https://www.itworldcanada.com/article/world-economic-forum-urges-firms-to-build-resiliency-against-cyberattacks/470800)
 - [Mandatory Beijing Winter Olympics app puts voice, data at risk: Report](https://www.itworldcanada.com/article/mandatory-beijing-winter-olympics-app-puts-voice-data-at-risk-report/470777)
 - [Microsoft to acquire Activision Blizzard for $68.7 billion, its biggest acquisition ever](https://www.itworldcanada.com/article/microsoft-to-acquire-activision-blizzard-for-68-7-billion-its-biggest-acquisition-ever/470806)
 - [Coffee Briefing Jan. 18, 2022 – IBM Canada’s new president; TD’s new stock-trading app; Trulioo’s first CPO; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-18-2022-ibm-canadas-new-president-tds-new-stock-trading-app-trulioos-first-cpo-and-more/470759)
-- [Hashtag Trending Jan. 18 – FTC investigates Meta VR; Russia fines Alphabet Inc; Microsoft sustainability](https://www.itworldcanada.com/article/hashtag-trending-jan-18-ftc-investigates-meta-vr-russia-fines-alphabet-inc-microsoft-sustainability/470775)
-- [Canadian government launches new mental health support companion app](https://www.itworldcanada.com/article/canadian-government-launches-new-mental-health-support-companion-app/470752)
-- [Bug in Safari can leak browsing activity, user identity, says report](https://www.itworldcanada.com/article/bug-in-safari-can-leak-browsing-activity-user-identity-says-report/470678)
-- [Cyber Security Today, Jan. 17, 2022 – New backdoor found attacking servers, another ransomware campaign against QNAP storage devices, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-17-2022-new-backdoor-found-attacking-servers-another-ransomware-campaign-against-qnap-storage-devices-and-more/470663)
-- [Hashtag Trending Jan. 17 – ‘Adaptive’ transistors; Kosovo crypto panic; Walmart NFT](https://www.itworldcanada.com/article/hashtag-trending-jan-17-adaptive-transistors-kosovo-crypto-panic-walmart-nft/470667)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
-- [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
-- [NASA: Tonga blast was 10 megatons, more powerful than a nuclear bomb](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons)
-- [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
-- [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
-- [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
-- [Wine 7.0](https://www.winehq.org/announce/7.0)
-- [Do svidaniya, Igor, and thank you for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
-- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
-- [Letter from Union Pacific to LA District Attorney re: train thefts, safety [pdf]](https://www.up.com/cs/groups/public/@uprr/@newsinfo/documents/up_pdf_nativedocs/pdf_up_la_district_atty_211221.pdf)
+- [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
+- [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
+- [Ben Stiller’s New Series Is a Sci-Fi Take on Office Space, See the Trailer](https://www.giantfreakinrobot.com/ent/ben-stiller-severance.html)
+- [The QT Timebomb](https://fedguy.com/the-qt-timebomb/)
+- [Zettelkasten – Luhmann Style](https://github.com/Zettelkasten-Team/Zettelkasten)
+- [Gitlab Handbook&#39;s HN Page](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/)
+- [I&#39;m keeping a job search diary on my blog](https://letmypeoplecode.com/notes-from-the-job-hunt-day-1/)
+- [When Cigarette Companies Used Doctors to Push Smoking](https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement)
+- [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
+- [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

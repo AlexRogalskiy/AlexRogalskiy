@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2022 day three: Ash Barty continues home grand slam bid, Nadal in second round action – live!](https://www.theguardian.com/sport/live/2022/jan/19/australian-open-2022-tennis-ao-day-three-live-news-updates-ash-barty-rafael-nadal-naomi-osaka-aus-open-schedule-today-scores-grand-slam-melbourne-park)
-- [Covid news live: England expected to ease Omicron restrictions; WHO chief says pandemic is ‘nowhere near over’](https://www.theguardian.com/world/live/2022/jan/19/covid-news-live-england-expected-to-ease-omicron-restrictions-who-chief-says-pandemic-is-nowhere-near-over)
-- [Man charged with murder after child’s body found in a barrel near the Blue Mountains](https://www.theguardian.com/australia-news/2022/jan/19/man-charged-with-over-disappearance-of-nine-year-old-girl-in-blue-mountains)
-- [Hong Kong activist who coined banned independence slogan released from prison](https://www.theguardian.com/world/2022/jan/19/hong-kong-activist-edward-leung-independence-slogan-fishball-revolution-released-from-prison)
-- [US and Russia to hold talks on Ukraine in potential sign ‘diplomacy is not dead’](https://www.theguardian.com/world/2022/jan/18/nato-invites-russia-for-fresh-talks-on-europe-amid-ukraine-crisis)
-- [Boris Johnson’s faster broadband promise is being broken, say MPs](https://www.theguardian.com/business/2022/jan/19/boris-johnsons-faster-broadband-promise-is-being-broken-say-mps)
-- [Millionaires call on governments worldwide to ‘tax us now’](https://www.theguardian.com/business/2022/jan/19/millionaires-call-on-governments-worldwide-to-tax-us-now)
-- [Northern leaders to put culture at centre of region’s post-pandemic recovery](https://www.theguardian.com/uk-news/2022/jan/19/northern-leaders-to-put-culture-at-centre-of-regions-post-pandemic-recovery)
-- [US Capitol attack committee subpoenas Rudy Giuliani and other Trump lawyers](https://www.theguardian.com/us-news/2022/jan/18/us-capitol-attack-committee-subpoenas-rudy-giuliani-and-other-trump-lawyers)
-- [Donald Trump’s former attorney general William Barr to publish his memoirs](https://www.theguardian.com/us-news/2022/jan/18/donald-trump-attorney-general-william-barr-memoir)
+- [Covid news live: WHO recommends lifting international travel bans, says proof of vaccination not necessarily needed](https://www.theguardian.com/world/live/2022/jan/20/covid-news-live-who-recommends-lifting-international-travel-bans-and-abolishing-proof-of-vaccination-requirements)
+- [US releases video of Afghanistan drone strike that killed 10 civilians](https://www.theguardian.com/world/2022/jan/20/us-releases-video-of-afghanistan-drone-strike-that-killed-10-civilians)
+- [Supreme court rejects Trump bid to shield documents from January 6 panel](https://www.theguardian.com/us-news/2022/jan/19/us-capitol-riot-trump-documents-national-archives)
+- [Winter of peril and impossibility: Biden faces hard truth at anniversary press conference](https://www.theguardian.com/us-news/2022/jan/19/joe-biden-press-conference-republicans)
+- [New photos show Tonga tsunami devastation as some phone lines restored](https://www.theguardian.com/world/2022/jan/20/new-photos-show-tonga-tsunami-devastation-as-some-phone-lines-restored)
+- [Heavily armed police launch bid to reclaim control of Rio de Janeiro favela](https://www.theguardian.com/world/2022/jan/19/hundreds-of-armed-police-storm-rio-de-janeiro-favela)
+- [Joe Biden thinks Russia will attack Ukraine – but will face a ‘stiff price’](https://www.theguardian.com/world/2022/jan/19/russia-could-act-against-ukraine-at-any-moment-says-us)
+- [Antimicrobial resistance now a leading cause of death worldwide, study finds](https://www.theguardian.com/society/2022/jan/20/antimicrobial-resistance-antibiotic-resistant-bacterial-infections-deaths-lancet-study)
+- [Misogyny towards women’s sport common among male football fans, study finds](https://www.theguardian.com/football/2022/jan/20/misogyny-towards-womens-sport-common-among-male-football-fans-study-finds)
+- [Covid driving record numbers in England to become nurses](https://www.theguardian.com/education/2022/jan/20/covid-driving-record-numbers-in-england-to-become-nurses)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [The race to quantum computing](https://www.computerweekly.com/ezine/Computer-Weekly/The-race-to-quantum-computing)
-- [Nordic fintech to use Google-inspired core banking from Thought Machine](https://www.computerweekly.com/news/252512107/Nordic-fintech-to-use-Google-inspired-core-banking-from-Thought-Machine)
-- [Amazon puts UK Visa ban on hold](https://www.computerweekly.com/news/252512103/Amazon-puts-UK-Visa-ban-on-hold)
-- [Police take down VPN linked to multiple ransomware hits](https://www.computerweekly.com/news/252512108/Police-take-down-VPN-linked-to-multiple-ransomware-hits)
-- [Government widens subpostmaster miscarriage of justice compensation](https://www.computerweekly.com/news/252512095/Government-widens-subpostmaster-miscarriage-of-justice-compensation)
-- [Cobalt Strike still C2 infrastructure of choice](https://www.computerweekly.com/news/252512104/Cobalt-Strike-still-C2-infrastructure-of-choice)
-- [Test police algorithms in court rather than legislate, Lords told](https://www.computerweekly.com/news/252512093/Test-police-algorithms-in-court-rather-than-legislate-Lords-told)
-- [‘Russian-backed’ hackers defaced Ukrainian websites as cover for dangerous malware attack](https://www.computerweekly.com/news/252512087/Russian-backed-hackers-defaced-Ukrainian-websites-as-cover-for-dangerous-malware-attack)
-- [Automation and interoperability key to UK’s digital energy plans](https://www.computerweekly.com/news/252512085/Automation-and-interoperability-key-to-UKs-digital-energy-plans)
-- [Umbrella firm Parasol confirms ‘malicious activity’ as root cause of ongoing systems outage](https://www.computerweekly.com/news/471512073/Umbrella-firm-Parasol-confirms-malicious-activity-as-root-cause-of-ongoing-systems-outage)
+- [Government funds charity campaign to warn big tech over the risks of encryption to children](https://www.computerweekly.com/news/252512196/Government-funds-charity-campaign-to-warn-big-tech-over-the-risks-of-encryption-to-children)
+- [Around 65% of tech recruiters say there’s bias in the hiring process](https://www.computerweekly.com/news/252512192/Around-65-of-tech-recruiters-say-theres-bias-in-the-hiring-process)
+- [Gartner: IT spending forecast points to skills rebalance](https://www.computerweekly.com/news/252512123/Gartner-IT-spending-forecast-points-to-skills-rebalance)
+- [Danish digitisation partnership delivers plan to government](https://www.computerweekly.com/news/252512076/Danish-digitisation-partnership-delivers-plan-to-government)
+- [Investigators find Beijing 2022 app riddled with security flaws](https://www.computerweekly.com/news/252512175/Investigators-find-Beijing-2022-app-riddled-with-security-flaws)
+- [Content removal will not stop misinformation, says Royal Society](https://www.computerweekly.com/news/252512171/Content-removal-will-not-stop-misinformation-says-Royal-Society)
+- [Twelve million jobs to be lost to automation in Europe by 2040](https://www.computerweekly.com/news/252512174/Twelve-million-jobs-to-be-lost-to-automation-in-Europe-by-2040)
+- [Aldi launches grab-and-go test store in London](https://www.computerweekly.com/news/252512131/Aldi-launches-grab-and-go-test-store-in-London)
+- [IT teams blind to Kubernetes observability](https://www.computerweekly.com/news/252512161/IT-teams-blind-to-Kubernetes-observability)
+- [Trellix XDR platform forged out of McAfee, FireEye union](https://www.computerweekly.com/news/252512105/Trellix-XDR-platform-forged-out-of-McAfee-FireEye-union)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

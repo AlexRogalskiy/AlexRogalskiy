@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Fabrics: Six Top Use Cases](https://www.informationweek.com/big-data/data-fabrics-six-top-use-cases)
+- [The Automation Paradox: The Rise of Human-Led Automation](https://www.informationweek.com/big-data/the-automation-paradox-the-rise-of-human-led-automation)
 - [Why Low Code is the Great Unifier for Total Experience](https://www.informationweek.com/software/why-low-code-is-the-great-unifier-for-total-experience)
 - [The Cost of AI Bias: Lower Revenue, Lost Customers](https://www.informationweek.com/big-data/the-cost-of-ai-bias-lower-revenue-lost-customers)
 - [Tonga Volcano Highlights Global Undersea Cable Network Fragility](https://www.informationweek.com/security-and-risk-strategy/tonga-volcano-highlights-global-undersea-cable-network-fragility)
@@ -377,8 +379,6 @@
 - [Navigating Change: Ways for IT Leaders to Rise Above the Fear](https://www.informationweek.com/it-life/navigating-change-ways-for-it-leaders-to-rise-above-the-fear)
 - [Fender’s CIO Talks Tuning Up SAP with a Migration to AWS](https://www.informationweek.com/cloud/fender-s-cio-talks-tuning-up-sap-with-a-migration-to-aws)
 - [How Hybrid Multi-Cloud Can Mitigate Current Supply Chain Woes](https://www.informationweek.com/cloud/how-hybrid-multi-cloud-can-mitigate-current-supply-chain-woes)
-- [How to Configure an Edge Data Center to Meet Your Specific Needs](https://www.informationweek.com/cloud/how-to-configure-an-edge-data-center-to-meet-your-specific-needs)
-- [Network Management: How to Develop a Clear-Cut Roadmap](https://www.informationweek.com/it-strategy/network-management-how-to-develop-a-clear-cut-roadmap)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

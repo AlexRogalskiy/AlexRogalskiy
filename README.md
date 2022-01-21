@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
+- [Understand Diffie-Hellman key exchange](https://www.infoworld.com/article/3647751/understand-diffie-hellman-key-exchange.html#tk.rss_all)
 - [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_all)
 - [Securing Azure Kubernetes networking with Calico](https://www.infoworld.com/article/3647296/securing-azure-kubernetes-networking-with-calico.html#tk.rss_all)
 - [Airtable review: Flexible low-code/no-code in the cloud](https://www.infoworld.com/article/3647212/airtable-review-flexible-low-code-no-code-in-the-cloud.html#tk.rss_all)
 - [What’s new in Rust 1.58](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Suse open sources NeuVector container security platform](https://www.infoworld.com/article/3647295/suse-open-sources-neuvector-container-security-platform.html#tk.rss_all)
 - [The lowdown on industry clouds](https://www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.html#tk.rss_all)
-- [A new kind of old-school testing](https://www.infoworld.com/article/3647288/a-new-kind-of-old-school-software-testing.html#tk.rss_all)
+- [A new kind of old-school software testing](https://www.infoworld.com/article/3647288/a-new-kind-of-old-school-software-testing.html#tk.rss_all)
 - [4 models for escalating access permissions during emergencies](https://www.infoworld.com/article/3647069/4-models-for-escalating-access-permissions-during-emergencies.html#tk.rss_all)
-- [Parcel CSS parser offered as performance enhancer](https://www.infoworld.com/article/3647269/parcel-css-parser-offered-as-performance-enhancer.html#tk.rss_all)
-- [View cloud architecture through a new optimization lens](https://www.infoworld.com/article/3646989/view-cloud-architecture-through-a-new-optimization-lens.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

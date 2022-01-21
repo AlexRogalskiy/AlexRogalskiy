@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Government funds charity campaign to warn big tech over the risks of encryption to children](https://www.computerweekly.com/news/252512196/Government-funds-charity-campaign-to-warn-big-tech-over-the-risks-of-encryption-to-children)
-- [Around 65% of tech recruiters say there’s bias in the hiring process](https://www.computerweekly.com/news/252512192/Around-65-of-tech-recruiters-say-theres-bias-in-the-hiring-process)
-- [Gartner: IT spending forecast points to skills rebalance](https://www.computerweekly.com/news/252512123/Gartner-IT-spending-forecast-points-to-skills-rebalance)
-- [Danish digitisation partnership delivers plan to government](https://www.computerweekly.com/news/252512076/Danish-digitisation-partnership-delivers-plan-to-government)
-- [Investigators find Beijing 2022 app riddled with security flaws](https://www.computerweekly.com/news/252512175/Investigators-find-Beijing-2022-app-riddled-with-security-flaws)
-- [Content removal will not stop misinformation, says Royal Society](https://www.computerweekly.com/news/252512171/Content-removal-will-not-stop-misinformation-says-Royal-Society)
-- [Twelve million jobs to be lost to automation in Europe by 2040](https://www.computerweekly.com/news/252512174/Twelve-million-jobs-to-be-lost-to-automation-in-Europe-by-2040)
-- [Aldi launches grab-and-go test store in London](https://www.computerweekly.com/news/252512131/Aldi-launches-grab-and-go-test-store-in-London)
-- [IT teams blind to Kubernetes observability](https://www.computerweekly.com/news/252512161/IT-teams-blind-to-Kubernetes-observability)
-- [Trellix XDR platform forged out of McAfee, FireEye union](https://www.computerweekly.com/news/252512105/Trellix-XDR-platform-forged-out-of-McAfee-FireEye-union)
+- [Ransomware attacks dropped 37% in December, claims NCC](https://www.computerweekly.com/news/252512245/Ransomware-attacks-dropped-37-in-December-claims-NCC)
+- [Government ‘has nothing against’ paying 555 subpostmasters fair compensation](https://www.computerweekly.com/news/252512243/Government-has-nothing-against-paying-555-subpostmasters-fair-compensation)
+- [Updated cyber security regulations proposed for managed services sector](https://www.computerweekly.com/news/252512224/Updated-cyber-security-regulations-proposed-for-managed-services-sector)
+- [Data of 515,000 vulnerable people stolen in Red Cross attack](https://www.computerweekly.com/news/252512225/Data-of-515000-vulnerable-people-stolen-in-Red-Cross-attack)
+- [MoonBounce firmware bootkit shows advances in malicious implants](https://www.computerweekly.com/news/252512229/MoonBounce-firmware-bootkit-shows-advances-in-malicious-implants)
+- [Zopa Bank hits £1bn deposits in just 18 months](https://www.computerweekly.com/news/252512223/Zopa-bank-hits-1bn-deposits-in-just-18-months)
+- [Delayed pay: Umbrella company cyber attacks disrupt salary payments to thousands of contractors](https://www.computerweekly.com/news/252512199/Umbrella-company-cyber-attacks-disrupt-salary-payments-to-thousands-of-contractors)
+- [Security Think Tank: Cyber training is useless without staff empowerment](https://www.computerweekly.com/opinion/Security-Think-Tank-Cyber-training-is-useless-without-staff-empowerment)
+- [NCSC for Startups programme seeks ransomware-busters](https://www.computerweekly.com/news/252512220/NCSC-for-Startups-programme-seeks-ransomware-busters)
+- [UK SMEs to receive tech skills and software boost](https://www.computerweekly.com/news/252512201/UK-SMEs-to-receive-tech-skills-and-software-boost)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

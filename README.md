@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: WHO recommends lifting international travel bans, says proof of vaccination not necessarily needed](https://www.theguardian.com/world/live/2022/jan/20/covid-news-live-who-recommends-lifting-international-travel-bans-and-abolishing-proof-of-vaccination-requirements)
-- [US releases video of Afghanistan drone strike that killed 10 civilians](https://www.theguardian.com/world/2022/jan/20/us-releases-video-of-afghanistan-drone-strike-that-killed-10-civilians)
-- [Supreme court rejects Trump bid to shield documents from January 6 panel](https://www.theguardian.com/us-news/2022/jan/19/us-capitol-riot-trump-documents-national-archives)
-- [Winter of peril and impossibility: Biden faces hard truth at anniversary press conference](https://www.theguardian.com/us-news/2022/jan/19/joe-biden-press-conference-republicans)
-- [New photos show Tonga tsunami devastation as some phone lines restored](https://www.theguardian.com/world/2022/jan/20/new-photos-show-tonga-tsunami-devastation-as-some-phone-lines-restored)
-- [Heavily armed police launch bid to reclaim control of Rio de Janeiro favela](https://www.theguardian.com/world/2022/jan/19/hundreds-of-armed-police-storm-rio-de-janeiro-favela)
-- [Joe Biden thinks Russia will attack Ukraine – but will face a ‘stiff price’](https://www.theguardian.com/world/2022/jan/19/russia-could-act-against-ukraine-at-any-moment-says-us)
-- [Antimicrobial resistance now a leading cause of death worldwide, study finds](https://www.theguardian.com/society/2022/jan/20/antimicrobial-resistance-antibiotic-resistant-bacterial-infections-deaths-lancet-study)
-- [Misogyny towards women’s sport common among male football fans, study finds](https://www.theguardian.com/football/2022/jan/20/misogyny-towards-womens-sport-common-among-male-football-fans-study-finds)
-- [Covid driving record numbers in England to become nurses](https://www.theguardian.com/education/2022/jan/20/covid-driving-record-numbers-in-england-to-become-nurses)
+- [Covid news live: Africa sees cases ‘drop significantly’; experts say Australia’s Omicron wave ‘likely’ peaked](https://www.theguardian.com/world/live/2022/jan/21/covid-news-live-africa-sees-cases-drop-significantly-experts-say-australias-omicron-wave-likely-peaked)
+- [‘My show ain’t ready’: Adele postpones Las Vegas residency](https://www.theguardian.com/music/2022/jan/21/my-show-aint-ready-adele-postpones-las-vegas-residency)
+- [Britishvolt gets £100m boost to build UK’s first large-scale ‘gigafactory’](https://www.theguardian.com/environment/2022/jan/21/britishvolt-electric-car-battery-uk-gigafactory-blyth-jobs)
+- [End-to-end encryption protects children, says UK information watchdog](https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog)
+- [UK state pension systems not fit for purpose – MPs’ report](https://www.theguardian.com/society/2022/jan/21/uk-state-pension-systems-not-fit-for-purpose-mps-report)
+- [Bionic eye implant enables blind UK woman to detect visual signals](https://www.theguardian.com/society/2022/jan/21/bionic-eye-implant-blind-uk-woman-detect-visual-signals)
+- [More than 30,000 jobs at risk if insulation levy cut from fuel bills](https://www.theguardian.com/environment/2022/jan/21/more-than-30000-jobs-at-risk-if-insulation-levy-cut-from-fuel-bills)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/jan/21/premier-league-10-things-to-look-out-for-this-weekend)
+- [Belarus: US charges four government officials with piracy over Ryanair plane diversion](https://www.theguardian.com/world/2022/jan/21/belarus-us-charges-four-government-officials-with-piracy-over-ryanair-plane-diversion)
+- [Tory whips accused of intimidating MPs who oppose Boris Johnson](https://www.theguardian.com/politics/2022/jan/20/boris-johnson-ministers-confidence-vote-whipping)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

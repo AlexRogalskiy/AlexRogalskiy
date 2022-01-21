@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [2021 – Year I want and do not want to remember](https://saiyampathak.com/2021-year-i-want-and-do-not-want-to-remember-4229c4a32015)
-- [Unpacking the Web3 Sausage](https://www.drorpoleg.com/unpacking-the-web3-sausage/)
-- [He animated this in Desmos Graphing Calculator](https://www.youtube.com/watch?v=4_8eY_Ij-5k)
-- [Biden threatens &#39;cyber&#39; response after Ukraine says computers wiped in attack](https://www.zdnet.com/article/biden-threatens-cyber-response-after-ukraine-says-computers-wiped-during-attack/)
-- [All Roads Lead to Arch: The Evolution of Linux Distros Used for Gaming over Time](https://boilingsteam.com/all-roads-lead-to-arch-the-evolution-of-linux-distros-used-for-gaming-over-time/)
-- [Ask HN: Are System Design documents out of fashion?](https://news.ycombinator.com/item?id=30003513)
-- [The Power of Cross-Marketing: Teddy Boy Blues](https://nicole.express/2022/theodore-child-ceruleans.html)
-- [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://noahpinion.substack.com/p/americas-top-environmental-groups)
-- [The Only NoFap Strategy That Works](https://www.youtube.com/watch?v=2ztLJPgXwbM)
-- [Webb Mirror Segment Deployments Complete](https://blogs.nasa.gov/webb/2022/01/19/webb-mirror-segment-deployments-complete/)
+- [Antitrust bill that bars Big Tech self-preferencing advances in Senate](https://arstechnica.com/tech-policy/2022/01/antitrust-bill-that-bars-big-tech-self-preferencing-advances-in-senate/)
+- [Piss Christ](https://en.wikipedia.org/wiki/Piss_Christ)
+- [Deltacron: The Variant That Wasn’t](https://www.nature.com/articles/d41586-022-00149-9)
+- [Bitpowr: The Crypto Infrastructure You Need](https://www.bitpowr.com/)
+- [Major Breakthrough as Quantum Computing in Silicon Hits 99% Accuracy](https://scitechdaily.com/major-breakthrough-as-quantum-computing-in-silicon-hits-99-accuracy/)
+- [Teenage pilot Zara Rutherford completes solo round-world record](https://www.bbc.com/news/uk-england-hampshire-59899980)
+- [Atomic Memory Operations in RISC-V](https://twitter.com/hasheddan/status/1484344865836060678)
+- [Ask HN: Are there any online services that have helped your kids find friends?](https://news.ycombinator.com/item?id=30018293)
+- [Game Engine Programming by Jonathan Blow](https://www.youtube.com/playlist?list=PLmV5I2fxaiCI9IAdFmGChKbIbenqRMi6Z)
+- [Poll: % of commercial software built legally/illegally using OSS?](https://news.ycombinator.com/item?id=30018259)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

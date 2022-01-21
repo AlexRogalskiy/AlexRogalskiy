@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
-- [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
-- [Ben Stiller’s New Series Is a Sci-Fi Take on Office Space, See the Trailer](https://www.giantfreakinrobot.com/ent/ben-stiller-severance.html)
-- [The QT Timebomb](https://fedguy.com/the-qt-timebomb/)
-- [Zettelkasten – Luhmann Style](https://github.com/Zettelkasten-Team/Zettelkasten)
-- [Gitlab Handbook&#39;s HN Page](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/)
-- [I&#39;m keeping a job search diary on my blog](https://letmypeoplecode.com/notes-from-the-job-hunt-day-1/)
-- [When Cigarette Companies Used Doctors to Push Smoking](https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement)
-- [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
-- [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
+- [Fly.io – Free Postgres Databases &lpar;and free storage volumes, up to 3GB total&rpar;](https://fly.io/blog/free-postgres/)
+- [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
+- [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
+- [Remembering Mark Weiser: Chief Technologist Xerox PARC [pdf]](https://www.roywant.com/cv/papers/pubs/2000-02%20(IEEE%20PCom)%20weiser%20biography%20(print).pdf)
+- [Sir David Cox has died](https://rss.org.uk/news-publication/news-publications/2022/general-news/sir-david-cox-1924-2022/)
+- [Make Your Python CLI Tools Pop with Rich](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+- [70% of startups offer remote work options as hiring heats up, YC data shows](https://news.crunchbase.com/news/remote-work-y-combinator/)
+- [UK is spending £500k on a PR campaign demonising end-to-end encryption](https://www.theregister.com/2022/01/20/no_place_hide_campaign_anti_e2ee_ukgov/)
+- [FlyZolo – Youngest Woman Solo](https://flyzolo.com/)
+- [SICP: JavaScript Edition available for pre-order](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Nvidia, Others Hammer Out Tomorrow’s Cloud-Native Supercomputers](https://www.informationweek.com/cloud/nvidia-others-hammer-out-tomorrows-cloud-native-supercomputers)
+- [Transitioning IT Careers: How &lpar;and Where&rpar; to Stand Out Right Now](https://www.informationweek.com/strategic-cio/transitioning-it-careers-how-and-where-to-stand-out-right-now)
+- [A Safety Inquiry on 5G Deployments at US Airports Balloons](https://www.informationweek.com/it-life/a-safety-inquiry-on-5g-deployments-at-us-airports-balloons)
 - [Data Fabrics: Six Top Use Cases](https://www.informationweek.com/big-data/data-fabrics-six-top-use-cases)
 - [The Automation Paradox: The Rise of Human-Led Automation](https://www.informationweek.com/big-data/the-automation-paradox-the-rise-of-human-led-automation)
 - [Why Low Code is the Great Unifier for Total Experience](https://www.informationweek.com/software/why-low-code-is-the-great-unifier-for-total-experience)
@@ -376,9 +379,6 @@
 - [Tonga Volcano Highlights Global Undersea Cable Network Fragility](https://www.informationweek.com/security-and-risk-strategy/tonga-volcano-highlights-global-undersea-cable-network-fragility)
 - [IT Leaders: Are You Ready for These 8 Challenges?](https://www.informationweek.com/big-data/it-leaders-are-you-ready-for-these-8-challenges-)
 - [Data Breach Customer Relations: What NOT To Do](https://www.informationweek.com/security-and-risk-strategy/data-breach-customer-relations-what-not-to-do)
-- [Navigating Change: Ways for IT Leaders to Rise Above the Fear](https://www.informationweek.com/it-life/navigating-change-ways-for-it-leaders-to-rise-above-the-fear)
-- [Fender’s CIO Talks Tuning Up SAP with a Migration to AWS](https://www.informationweek.com/cloud/fender-s-cio-talks-tuning-up-sap-with-a-migration-to-aws)
-- [How Hybrid Multi-Cloud Can Mitigate Current Supply Chain Woes](https://www.informationweek.com/cloud/how-hybrid-multi-cloud-can-mitigate-current-supply-chain-woes)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

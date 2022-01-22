@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Tinder algorithm charging users more based on age](https://www.computerweekly.com/news/252512313/Tinder-algorithm-charging-users-more-based-on-age)
+- [UKCloud acquired: Troubled government cloud provider receives funding lifeline](https://www.computerweekly.com/news/252512297/Troubled-government-cloud-provider-receives-funding-lifeline)
+- [CTO interview: James Donkin, Ocado Technology](https://www.computerweekly.com/news/252511915/CTO-interview-James-Donkin-Ocado-Technology)
+- [Mandiant analysts: Russia-backed APTs likely to ramp up attacks](https://www.computerweekly.com/news/252512299/Mandiant-analysts-Russia-backed-APTs-likely-to-ramp-up-attacks)
+- [ICO criticises government-backed campaign to delay end-to-end encryption](https://www.computerweekly.com/news/252512294/ICO-criticises-government-backed-campaign-to-delay-end-to-end-encryption)
+- [Cyber pros: Don’t revel in REvil’s downfall just yet](https://www.computerweekly.com/news/252512240/Cyber-pros-Dont-revel-in-REvils-downfall-just-yet)
+- [MoJ faces ICO enforcement over subject access requests backlog](https://www.computerweekly.com/news/252512289/MoJ-faces-ICO-enforcement-over-subject-access-requests-backlog)
 - [Ransomware attacks dropped 37% in December, claims NCC](https://www.computerweekly.com/news/252512245/Ransomware-attacks-dropped-37-in-December-claims-NCC)
 - [Government ‘has nothing against’ paying 555 subpostmasters fair compensation](https://www.computerweekly.com/news/252512243/Government-has-nothing-against-paying-555-subpostmasters-fair-compensation)
 - [Updated cyber security regulations proposed for managed services sector](https://www.computerweekly.com/news/252512224/Updated-cyber-security-regulations-proposed-for-managed-services-sector)
-- [Data of 515,000 vulnerable people stolen in Red Cross attack](https://www.computerweekly.com/news/252512225/Data-of-515000-vulnerable-people-stolen-in-Red-Cross-attack)
-- [MoonBounce firmware bootkit shows advances in malicious implants](https://www.computerweekly.com/news/252512229/MoonBounce-firmware-bootkit-shows-advances-in-malicious-implants)
-- [Zopa Bank hits £1bn deposits in just 18 months](https://www.computerweekly.com/news/252512223/Zopa-bank-hits-1bn-deposits-in-just-18-months)
-- [Delayed pay: Umbrella company cyber attacks disrupt salary payments to thousands of contractors](https://www.computerweekly.com/news/252512199/Umbrella-company-cyber-attacks-disrupt-salary-payments-to-thousands-of-contractors)
-- [Security Think Tank: Cyber training is useless without staff empowerment](https://www.computerweekly.com/opinion/Security-Think-Tank-Cyber-training-is-useless-without-staff-empowerment)
-- [NCSC for Startups programme seeks ransomware-busters](https://www.computerweekly.com/news/252512220/NCSC-for-Startups-programme-seeks-ransomware-busters)
-- [UK SMEs to receive tech skills and software boost](https://www.computerweekly.com/news/252512201/UK-SMEs-to-receive-tech-skills-and-software-boost)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

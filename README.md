@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple: iOS 15 now installed on more than 60% of all iPhones](https://www.computerworld.com/article/3647877/apple-ios-15-now-installed-on-more-than-60-of-all-iphones.html#tk.rss_all)
+- [How to fix iPhone network coverage and hotspot problems](https://www.computerworld.com/article/3647993/how-to-fix-iphone-network-coverage-and-hotspot-problems.html#tk.rss_all)
+- [16 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/16-ways-to-speed-up-windows-10.html#tk.rss_all)
+- [Video vs. VR: What’s missing for successful collaboration?](https://www.computerworld.com/article/3647757/video-vs-vr-whats-missing-for-successful-collaboration.html#tk.rss_all)
+- [What you need to know about NFTs](https://www.computerworld.com/article/3647754/what-you-need-to-know-about-nfts.html#tk.rss_all)
+- [Can Google be trusted?](https://www.computerworld.com/article/3647371/can-google-be-trusted.html#tk.rss_all)
+- [Android&#39;s forgotten shortcut superpowers](https://www.computerworld.com/article/3568261/android-shortcut-superpowers.html#tk.rss_all)
 - [Microsoft beefs up Edge&#39;s security against zero-day attacks](https://www.computerworld.com/article/3648068/microsoft-beefs-up-edges-security-against-zero-day-attacks.html#tk.rss_all)
+- [Podcast: Microsoft’s Activision acquisition, explained](https://www.computerworld.com/article/3648049/podcast-microsofts-activision-acquisition-explained.html#tk.rss_all)
 - [Meta&#39;s Workplace touts upcoming WhatsApp integration for frontline workers](https://www.computerworld.com/article/3647989/metas-workplace-touts-upcoming-whatsapp-integration-for-frontline-workers.html#tk.rss_all)
-- [Apple &lpar;and everyone&rpar; needs harmonized digital health regulation](https://www.computerworld.com/article/3648009/apple-and-everyone-needs-harmonized-digital-health-regulation.html#tk.rss_all)
-- [What’s an office good for, anyway?](https://www.computerworld.com/article/3647309/what-s-an-office-good-for-anyway.html#tk.rss_all)
-- [Talent war to push CIOs toward consultancies, managed services in &#39;22](https://www.computerworld.com/article/3647749/talent-war-to-push-cios-toward-consultancies-managed-services-in-22.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Cisco Webex rolls out &#39;Connection Experiences&#39; to boost employee well-being](https://www.computerworld.com/article/3647708/cisco-webex-rolls-out-connection-experiences-to-boost-employee-well-being.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

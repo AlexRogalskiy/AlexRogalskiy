@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Antitrust bill that bars Big Tech self-preferencing advances in Senate](https://arstechnica.com/tech-policy/2022/01/antitrust-bill-that-bars-big-tech-self-preferencing-advances-in-senate/)
-- [Piss Christ](https://en.wikipedia.org/wiki/Piss_Christ)
-- [Deltacron: The Variant That Wasn’t](https://www.nature.com/articles/d41586-022-00149-9)
-- [Bitpowr: The Crypto Infrastructure You Need](https://www.bitpowr.com/)
-- [Major Breakthrough as Quantum Computing in Silicon Hits 99% Accuracy](https://scitechdaily.com/major-breakthrough-as-quantum-computing-in-silicon-hits-99-accuracy/)
-- [Teenage pilot Zara Rutherford completes solo round-world record](https://www.bbc.com/news/uk-england-hampshire-59899980)
-- [Atomic Memory Operations in RISC-V](https://twitter.com/hasheddan/status/1484344865836060678)
-- [Ask HN: Are there any online services that have helped your kids find friends?](https://news.ycombinator.com/item?id=30018293)
-- [Game Engine Programming by Jonathan Blow](https://www.youtube.com/playlist?list=PLmV5I2fxaiCI9IAdFmGChKbIbenqRMi6Z)
-- [Poll: % of commercial software built legally/illegally using OSS?](https://news.ycombinator.com/item?id=30018259)
+- [AI2 Macaw: multi-angle c&lpar;q&rpar;answering](https://macaw.apps.allenai.org/)
+- [Nats.rs: Rust Client for NATS](https://github.com/nats-io/nats.rs)
+- [Time Tracking for Freelance Developers](https://hybrd.co/posts/time-tracking-for-freelance-developers)
+- [ITER Vacuum and Pumping [video]](https://www.youtube.com/watch?v=ldoD0K8tZaE)
+- [kube-monkey: An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters](https://github.com/asobti/kube-monkey)
+- [Narrow Reading](https://morg.systems/Optimal-Reading-Immersion---Narrow-Reading)
+- [U.S. companies are pillaging Latin America’s tech talent](https://restofworld.org/2022/latin-america-startup-developer-scarcity/)
+- [How Robinhood Investors Robbed Themselves](https://www.wsj.com/articles/how-robinhood-investors-robbed-themselves-11642777209)
+- [In rare cases, coronavirus vaccines may cause Long Covid–like symptoms](https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms)
+- [The Problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

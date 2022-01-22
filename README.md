@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cities are increasing citizen engagement by “Amazonifying” their services](https://www.itworldcanada.com/article/cities-are-increasing-citizen-engagement-by-amazonifying-their-services/471080)
+- [Austrian data regulator decision on Google Analytics raises questions](https://www.itworldcanada.com/article/austrian-data-regulator-decision-on-google-analytics-raises-questions/471157)
+- [Cyber Security Today, Week in Review for January 21, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-21-2022/471037)
+- [Public sector leaders look forward to rebuilding culture in the new workplace](https://www.itworldcanada.com/article/public-sector-leaders-look-forward-to-rebuilding-culture-in-the-new-workplace/471078)
+- [Cities have a unique opportunity to transform the lives of their citizens](https://www.itworldcanada.com/article/cities-have-a-unique-opportunity-to-transform-the-lives-of-their-citizens/471076)
+- [Nigerian police arrest suspects in global business email compromise gang](https://www.itworldcanada.com/article/nigerian-police-arrest-suspects-in-global-business-email-compromise-gang/471096)
+- [Red Hat, Ubuntu issue warnings over Linux kernel vulnerability](https://www.itworldcanada.com/article/red-hat-ubuntu-issue-warnings-over-linux-kernel-vulnerability/471089)
+- [Cyber Security Today, Jan. 21, 2022 – Data theft from Red Cross, a US Labor Department scam and a new firmware bootkit found](https://www.itworldcanada.com/article/cyber-security-today-jan-21-2022-data-theft-from-red-cross-a-us-labor-department-scam-and-a-new-firmware-bootkit-found/471040)
+- [Hashtag Trending Jan. 21 – PlayStation creator skeptical of the metaverse; Russian may ban crypto; crypto.com loses $34M to hackers](https://www.itworldcanada.com/article/hashtag-trending-jan-21-playstation-creator-skeptical-of-the-metaverse-russian-may-ban-crypto-crypto-com-loses-34m-to-hackers/471084)
 - [Canada urges critical infrastructure firms to be ready for Russian-based cyber attacks](https://www.itworldcanada.com/article/canada-urges-critical-infrastructure-firms-to-be-ready-for-russian-based-cyber-attacks/471002)
-- [Making IT security invisible for public sector employees](https://www.itworldcanada.com/article/making-it-security-invisible-for-public-sector-employees/470950)
-- [It’s time to reimagine municipal service delivery](https://www.itworldcanada.com/article/its-time-to-reimagine-municipal-service-delivery/470952)
-- [1Password closes US$620 million funding round, now valued at US$6.8 billion](https://www.itworldcanada.com/article/1password-closes-us620-million-funding-round-now-valued-at-us6-8-billion/470980)
-- [Canada’s broadband internet speed increased by 27% in 2021, finds Ookla report](https://www.itworldcanada.com/article/canadas-broadband-internet-speed-increased-by-27-in-2021-finds-ookla-report/470954)
-- [Admins urged to patch SolarWinds Serv-U against Log4J bug](https://www.itworldcanada.com/article/admins-urged-to-patch-solarwinds-serv-u-against-log4j-bug/470969)
-- [Hashtag Trending Jan. 20 – Google Analytics breaches EU GDPR; Tech Giants fight antitrust legislations; Sony shares fall](https://www.itworldcanada.com/article/hashtag-trending-jan-20-google-analytics-breaches-eu-gdpr-tech-giants-fight-antitrust-legislations-sony-shares-fall/470946)
-- [Microsoft releases out-of-band patches to address issues from January’s Patch Tuesday](https://www.itworldcanada.com/article/microsoft-releases-out-of-band-patches-to-address-issues-from-januarys-patch-tuesday/470930)
-- [Inside Prometheus, a traffic delivery service used by threat actors](https://www.itworldcanada.com/article/inside-prometheus-a-traffic-delivery-service-used-by-threat-actors/470908)
-- [Many Canadian, U.S. SMB websites vulnerable to spoofing, clickjacking and sniffing, says vendor](https://www.itworldcanada.com/article/many-canadian-u-s-smb-websites-vulnerable-to-spoofing-clickjacking-and-sniffing-says-vendor/470672)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

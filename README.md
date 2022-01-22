@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Covid news live: Africa sees cases ‘drop significantly’; experts say Australia’s Omicron wave ‘likely’ peaked](https://www.theguardian.com/world/live/2022/jan/21/covid-news-live-africa-sees-cases-drop-significantly-experts-say-australias-omicron-wave-likely-peaked)
-- [‘My show ain’t ready’: Adele postpones Las Vegas residency](https://www.theguardian.com/music/2022/jan/21/my-show-aint-ready-adele-postpones-las-vegas-residency)
-- [Britishvolt gets £100m boost to build UK’s first large-scale ‘gigafactory’](https://www.theguardian.com/environment/2022/jan/21/britishvolt-electric-car-battery-uk-gigafactory-blyth-jobs)
-- [End-to-end encryption protects children, says UK information watchdog](https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog)
-- [UK state pension systems not fit for purpose – MPs’ report](https://www.theguardian.com/society/2022/jan/21/uk-state-pension-systems-not-fit-for-purpose-mps-report)
-- [Bionic eye implant enables blind UK woman to detect visual signals](https://www.theguardian.com/society/2022/jan/21/bionic-eye-implant-blind-uk-woman-detect-visual-signals)
-- [More than 30,000 jobs at risk if insulation levy cut from fuel bills](https://www.theguardian.com/environment/2022/jan/21/more-than-30000-jobs-at-risk-if-insulation-levy-cut-from-fuel-bills)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/jan/21/premier-league-10-things-to-look-out-for-this-weekend)
-- [Belarus: US charges four government officials with piracy over Ryanair plane diversion](https://www.theguardian.com/world/2022/jan/21/belarus-us-charges-four-government-officials-with-piracy-over-ryanair-plane-diversion)
-- [Tory whips accused of intimidating MPs who oppose Boris Johnson](https://www.theguardian.com/politics/2022/jan/20/boris-johnson-ministers-confidence-vote-whipping)
+- [Two Canadians killed after tourists shot at Mexican beach resort hotel](https://www.theguardian.com/world/2022/jan/22/one-canadian-killed-after-tourists-shot-at-mexican-beach-resort-hotel)
+- [Thich Nhat Hanh, revered Zen Buddhist monk and peace activist, dies at 95](https://www.theguardian.com/world/2022/jan/22/thich-nhat-hanh-revered-zen-buddhist-monk-and-peace-activist-dies-at-95)
+- [British fugitive arrested in Spain 24 hours after appeal launched](https://www.theguardian.com/uk-news/2022/jan/21/british-fugitive-arrested-in-spain-24-hours-after-appeal-launched)
+- [Average UK first-time buyer is now older than 30, says Halifax](https://www.theguardian.com/money/2022/jan/22/average-uk-first-time-buyer-is-now-older-than-30-says-halifax)
+- [Brian Laundrie admitted in notebook to killing Gabby Petito, FBI says](https://www.theguardian.com/us-news/2022/jan/21/brian-laundrie-gabby-petito-notebook-fbi)
+- [Mike Ashley takes legal action against Newcastle co-owner Amanda Staveley](https://www.theguardian.com/football/2022/jan/21/mike-ashley-takes-legal-action-against-newcastle-co-owner-amanda-staveley)
+- [Myanmar sentences lawmaker from Aung San Suu Kyi’s party to death](https://www.theguardian.com/world/2022/jan/21/myanmar-sentences-lawmaker-from-aung-san-suu-kyis-party-to-death)
+- [Fatal Attraction review – stage thriller is an affair to forget](https://www.theguardian.com/stage/2022/jan/21/fatal-attraction-review-stage)
+- [Raducanu leaves Melbourne with no regrets but new desire to ‘stay at the top’](https://www.theguardian.com/sport/2022/jan/21/emma-raducanu-melbourne-no-regrets-australian-open-tennis)
+- [Ralf Rangnick calls Ronaldo’s reaction to being substituted ‘too emotional’](https://www.theguardian.com/football/2022/jan/21/ronaldo-reaction-substituted-manchester-united-brentford-too-emotional-ralf-rangnick)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

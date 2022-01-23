@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Two Canadians killed after tourists shot at Mexican beach resort hotel](https://www.theguardian.com/world/2022/jan/22/one-canadian-killed-after-tourists-shot-at-mexican-beach-resort-hotel)
-- [Thich Nhat Hanh, revered Zen Buddhist monk and peace activist, dies at 95](https://www.theguardian.com/world/2022/jan/22/thich-nhat-hanh-revered-zen-buddhist-monk-and-peace-activist-dies-at-95)
-- [British fugitive arrested in Spain 24 hours after appeal launched](https://www.theguardian.com/uk-news/2022/jan/21/british-fugitive-arrested-in-spain-24-hours-after-appeal-launched)
-- [Average UK first-time buyer is now older than 30, says Halifax](https://www.theguardian.com/money/2022/jan/22/average-uk-first-time-buyer-is-now-older-than-30-says-halifax)
-- [Brian Laundrie admitted in notebook to killing Gabby Petito, FBI says](https://www.theguardian.com/us-news/2022/jan/21/brian-laundrie-gabby-petito-notebook-fbi)
-- [Mike Ashley takes legal action against Newcastle co-owner Amanda Staveley](https://www.theguardian.com/football/2022/jan/21/mike-ashley-takes-legal-action-against-newcastle-co-owner-amanda-staveley)
-- [Myanmar sentences lawmaker from Aung San Suu Kyi’s party to death](https://www.theguardian.com/world/2022/jan/21/myanmar-sentences-lawmaker-from-aung-san-suu-kyis-party-to-death)
-- [Fatal Attraction review – stage thriller is an affair to forget](https://www.theguardian.com/stage/2022/jan/21/fatal-attraction-review-stage)
-- [Raducanu leaves Melbourne with no regrets but new desire to ‘stay at the top’](https://www.theguardian.com/sport/2022/jan/21/emma-raducanu-melbourne-no-regrets-australian-open-tennis)
-- [Ralf Rangnick calls Ronaldo’s reaction to being substituted ‘too emotional’](https://www.theguardian.com/football/2022/jan/21/ronaldo-reaction-substituted-manchester-united-brentford-too-emotional-ralf-rangnick)
+- [Good Luck to You, Leo Grande – Emma Thompson hires sex worker in charming comedy](https://www.theguardian.com/film/2022/jan/22/good-luck-to-you-leo-grande-emma-thompson)
+- [French adventurer, 75, attempting to row across the Atlantic found dead](https://www.theguardian.com/world/2022/jan/23/french-adventurer-75-attempting-to-row-across-the-atlantic-found-dead)
+- [Chinese officials arrested for concealing true scale of flood death toll](https://www.theguardian.com/world/2022/jan/23/chinese-provincial-officials-concealed-scores-of-deaths-from-flood-disaster)
+- [Bengals upend top-seeded Titans to reach first AFC title game since 1988](https://www.theguardian.com/sport/2022/jan/22/nfl-playoff-scores-bengals-titans-packers-49ers)
+- [Red alert: PM cancels wedding as New Zealand prepares for thousands of Omicron cases a day](https://www.theguardian.com/world/2022/jan/23/red-alert-new-zealand-prepares-for-thousands-of-omicron-cases-a-day-with-community-spread)
+- [Nasdaq braces for nervy fortnight as investors fall out of love with tech](https://www.theguardian.com/business/2022/jan/23/nasdaq-braces-for-nervy-fortnight-as-investors-fall-out-of-love-with-tech)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Chief whip comes forward as person behind ‘Muslimness’ sacking claim](https://www.theguardian.com/politics/2022/jan/22/tory-mp-says-muslimness-given-as-reason-for-losing-job)
+- [Brandon King leads West Indies romp after England’s batting out of hell](https://www.theguardian.com/sport/2022/jan/22/brandon-king-steers-west-indies-home-after-englands-batting-collapses)
+- [Gavin Williamson tied new school funding to party vote, says Tory defector](https://www.theguardian.com/politics/2022/jan/22/gavin-williamson-tied-new-school-funding-to-party-vote-says-tory-defector)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI2 Macaw: multi-angle c&lpar;q&rpar;answering](https://macaw.apps.allenai.org/)
-- [Nats.rs: Rust Client for NATS](https://github.com/nats-io/nats.rs)
-- [Time Tracking for Freelance Developers](https://hybrd.co/posts/time-tracking-for-freelance-developers)
-- [ITER Vacuum and Pumping [video]](https://www.youtube.com/watch?v=ldoD0K8tZaE)
-- [kube-monkey: An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters](https://github.com/asobti/kube-monkey)
-- [Narrow Reading](https://morg.systems/Optimal-Reading-Immersion---Narrow-Reading)
-- [U.S. companies are pillaging Latin America’s tech talent](https://restofworld.org/2022/latin-america-startup-developer-scarcity/)
-- [How Robinhood Investors Robbed Themselves](https://www.wsj.com/articles/how-robinhood-investors-robbed-themselves-11642777209)
-- [In rare cases, coronavirus vaccines may cause Long Covid–like symptoms](https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms)
-- [The Problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
+- [How to Care Less About Work](https://www.theatlantic.com/ideas/archive/2021/12/how-care-less-about-work/620902/)
+- [Redivis: Open Company Handbook](https://handbook.redivis.com/)
+- [Mother sues Meta and Snap over daughter&#39;s suicide](https://www.bbc.com/news/world-us-canada-60091899)
+- [SaaS vs. On-Prem – Or Why Agile Happened When It Did](http://amurmann.com/posts/saas-vs-on-prem/)
+- [Omidyar-Greenwald-Snowden: A Triangle of Deception](https://thewublies.wordpress.com/2021/07/14/omidyar-greenwald-snowden-a-triangle-of-deception/)
+- [Quarto: A scientific and technical publishing system built on Pandoc](https://quarto.org/)
+- [Widex Compass Software](https://news.ycombinator.com/item?id=30042819)
+- [Better Desires](https://www.productlessons.xyz//article/why-we-set-wrong-goals-in-life)
+- [The End of the Pandemic Is Near](https://www.youtube.com/watch?v=ctFs7zACr7E)
+- [Avatar robot goes to school for German boy with severe lung disease](https://nypost.com/2022/01/21/avatar-robot-goes-to-school-for-ill-german-boy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

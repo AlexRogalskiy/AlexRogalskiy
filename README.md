@@ -400,8 +400,8 @@
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
 - [Tinder algorithm charging users more based on age](https://www.computerweekly.com/news/252512313/Tinder-algorithm-charging-users-more-based-on-age)
-- [UKCloud acquired: Troubled government cloud provider receives funding lifeline](https://www.computerweekly.com/news/252512297/Troubled-government-cloud-provider-receives-funding-lifeline)
 - [CTO interview: James Donkin, Ocado Technology](https://www.computerweekly.com/news/252511915/CTO-interview-James-Donkin-Ocado-Technology)
+- [UKCloud acquired: Troubled government cloud provider receives funding lifeline](https://www.computerweekly.com/news/252512297/Troubled-government-cloud-provider-receives-funding-lifeline)
 - [Mandiant analysts: Russia-backed APTs likely to ramp up attacks](https://www.computerweekly.com/news/252512299/Mandiant-analysts-Russia-backed-APTs-likely-to-ramp-up-attacks)
 - [ICO criticises government-backed campaign to delay end-to-end encryption](https://www.computerweekly.com/news/252512294/ICO-criticises-government-backed-campaign-to-delay-end-to-end-encryption)
 - [Cyber pros: Don’t revel in REvil’s downfall just yet](https://www.computerweekly.com/news/252512240/Cyber-pros-Dont-revel-in-REvils-downfall-just-yet)

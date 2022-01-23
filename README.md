@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would IT be able to check whose phone it is, if its charging to a work laptop?](https://www.reddit.com/r/InformationTechnology/comments/sa52f8/would_it_be_able_to_check_whose_phone_it_is_if/)
+- [Suggestion on open-source ITAM services.](https://www.reddit.com/r/InformationTechnology/comments/s9z1bw/suggestion_on_opensource_itam_services/)
 - [Mime attachment](https://www.reddit.com/r/InformationTechnology/comments/s9gg1d/mime_attachment/)
 - [What should i learn?](https://www.reddit.com/r/InformationTechnology/comments/s8twna/what_should_i_learn/)
 - [Question about private IP addressing &amp; autonomous systems](https://www.reddit.com/r/InformationTechnology/comments/s825iv/question_about_private_ip_addressing_autonomous/)
@@ -422,8 +424,6 @@
 - [Telecommunications question](https://www.reddit.com/r/InformationTechnology/comments/s5s2f6/telecommunications_question/)
 - [Does anyone want to connect on LinkedIn? I just got into the IT field and looking to grow my professional network. Please let me know! Fellow women especially &lt;3](https://www.reddit.com/r/InformationTechnology/comments/s5rlui/does_anyone_want_to_connect_on_linkedin_i_just/)
 - [Business Intelligence and Knowledge Management](https://www.reddit.com/r/InformationTechnology/comments/s5efg2/business_intelligence_and_knowledge_management/)
-- [Why does no one realize how much potential tech majors have?](https://www.reddit.com/r/InformationTechnology/comments/s4zxjq/why_does_no_one_realize_how_much_potential_tech/)
-- [Can you recover files from a seemingly corrupt external hdd?](https://www.reddit.com/r/InformationTechnology/comments/s4uwe5/can_you_recover_files_from_a_seemingly_corrupt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

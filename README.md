@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [On Leaving Facebook](https://frantic.im/leaving-facebook/)
-- [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
-- [Ask HN: What&#39;s Up with Google?](https://news.ycombinator.com/item?id=30031672)
-- [What fast fashion costs the world- Ending up in African landfills](https://expmag.com/2022/01/what-fast-fashion-costs-the-world/)
-- [Off the Grid – Hundred Rabbits](http://100r.co/site/off_the_grid.html)
-- [My self-hosting infrastructure, fully automated](https://github.com/khuedoan/homelab)
-- [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
-- [Thich Nhat Hanh has died](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
-- [Soviet Military Maps of North America and UK](https://www.sovietmaps.com/node/2)
-- [AWS is not a dumb pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
+- [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
+- [Bell Labs Org Chart &lpar;1980&rpar;](https://neil.computer/notes/bell-labs-org-chart/)
+- [WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
+- [Golang’s most important feature is invisible](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b?gi=21e47786496b)
+- [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
+- [Diamond hauled from deep inside Earth holds never-before-seen mineral](https://www.livescience.com/new-mantle-mineral-found-in-diamond)
+- [Show HN: Perspec – Scriptable desktop app to correct the perspective of images](https://github.com/feramhq/Perspec)
+- [Myths about cooking steak that need to go away &lpar;2013&rpar;](https://www.seriouseats.com/old-wives-tales-about-cooking-steak)
+- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
+- [Shell’s carbon capture plant is emitting more than it’s capturing](https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

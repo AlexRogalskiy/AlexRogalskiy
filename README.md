@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Care Less About Work](https://www.theatlantic.com/ideas/archive/2021/12/how-care-less-about-work/620902/)
-- [Redivis: Open Company Handbook](https://handbook.redivis.com/)
-- [Mother sues Meta and Snap over daughter&#39;s suicide](https://www.bbc.com/news/world-us-canada-60091899)
-- [SaaS vs. On-Prem – Or Why Agile Happened When It Did](http://amurmann.com/posts/saas-vs-on-prem/)
-- [Omidyar-Greenwald-Snowden: A Triangle of Deception](https://thewublies.wordpress.com/2021/07/14/omidyar-greenwald-snowden-a-triangle-of-deception/)
-- [Quarto: A scientific and technical publishing system built on Pandoc](https://quarto.org/)
-- [Widex Compass Software](https://news.ycombinator.com/item?id=30042819)
-- [Better Desires](https://www.productlessons.xyz//article/why-we-set-wrong-goals-in-life)
-- [The End of the Pandemic Is Near](https://www.youtube.com/watch?v=ctFs7zACr7E)
-- [Avatar robot goes to school for German boy with severe lung disease](https://nypost.com/2022/01/21/avatar-robot-goes-to-school-for-ill-german-boy/)
+- [Company Loans Tool](http://www.pppdetector.com)
+- [Casualties of Your Own Success](https://www.collaborativefund.com/blog/casualties-of-your-own-success/)
+- [The Surprising Reach of Tonga’s Giant Atmospheric Waves](https://eos.org/articles/the-surprising-reach-of-tongas-giant-atmospheric-waves)
+- [Which Values Children Should Be Encouraged to Learn, by Country](https://www.visualcapitalist.com/cp/which-values-children-should-learn-by-country/)
+- [The Mentorship Diamond – Mike McQuaid](https://mikemcquaid.com/2021/09/09/the-mentorship-diamond/)
+- [Lisp in Production – Interview with Atlas, the Guys Behind Nyxt Browser](https://www.youtube.com/watch?v=JqF3-mqdwpM)
+- [In Singapore CSA&#39;s forensics lab, officers dissecting cyberattacks use gadgets](https://www.channelnewsasia.com/singapore/csa-cybersecurity-cyberattacks-hackers-singhealth-forensics-lab-2440466)
+- [At Amazon, every 100ms of latency costed us 1% in sales](https://twitter.com/amilajack/status/1484970823005868033)
+- [Heat Pump Analysis](https://www.iea.org/reports/heat-pumps)
+- [Want to see just how bad Google Chrome is? Try this simple trick](https://www.zdnet.com/article/want-to-see-just-how-bad-google-chrome-is-try-this-simple-trick/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Good Luck to You, Leo Grande – Emma Thompson hires sex worker in charming comedy](https://www.theguardian.com/film/2022/jan/22/good-luck-to-you-leo-grande-emma-thompson)
-- [French adventurer, 75, attempting to row across the Atlantic found dead](https://www.theguardian.com/world/2022/jan/23/french-adventurer-75-attempting-to-row-across-the-atlantic-found-dead)
-- [Chinese officials arrested for concealing true scale of flood death toll](https://www.theguardian.com/world/2022/jan/23/chinese-provincial-officials-concealed-scores-of-deaths-from-flood-disaster)
-- [Bengals upend top-seeded Titans to reach first AFC title game since 1988](https://www.theguardian.com/sport/2022/jan/22/nfl-playoff-scores-bengals-titans-packers-49ers)
-- [Red alert: PM cancels wedding as New Zealand prepares for thousands of Omicron cases a day](https://www.theguardian.com/world/2022/jan/23/red-alert-new-zealand-prepares-for-thousands-of-omicron-cases-a-day-with-community-spread)
-- [Nasdaq braces for nervy fortnight as investors fall out of love with tech](https://www.theguardian.com/business/2022/jan/23/nasdaq-braces-for-nervy-fortnight-as-investors-fall-out-of-love-with-tech)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jan/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Chief whip comes forward as person behind ‘Muslimness’ sacking claim](https://www.theguardian.com/politics/2022/jan/22/tory-mp-says-muslimness-given-as-reason-for-losing-job)
-- [Brandon King leads West Indies romp after England’s batting out of hell](https://www.theguardian.com/sport/2022/jan/22/brandon-king-steers-west-indies-home-after-englands-batting-collapses)
-- [Gavin Williamson tied new school funding to party vote, says Tory defector](https://www.theguardian.com/politics/2022/jan/22/gavin-williamson-tied-new-school-funding-to-party-vote-says-tory-defector)
+- [Tonga volcano: 84% of population affected by ashfall and tsunami](https://www.theguardian.com/world/2022/jan/24/tonga-volcano-84-of-population-affected-by-ashfall-and-tsunami)
+- [US orders families of embassy staff out of Ukraine as tensions rise](https://www.theguardian.com/world/2022/jan/24/us-orders-families-of-embassy-staff-out-of-ukraine)
+- [Online safety bill ‘a missed opportunity’ to prevent child abuse, MPs warn](https://www.theguardian.com/technology/2022/jan/24/online-safety-bill-missed-opportunity-to-detect-child-abuse)
+- [UK’s biggest cities lose nearly a year of sales to Covid-related downturn](https://www.theguardian.com/business/2022/jan/24/uk-biggest-cities-lose-year-sales-to-covid)
+- [Long Covid: nearly 2m days lost in NHS staff absences in England](https://www.theguardian.com/society/2022/jan/24/long-covid-nearly-2m-days-lost-in-nhs-staff-absences-in-england)
+- [Romeo &amp; Juliet review – speedy 2-Tone adaptation lacks nuance](https://www.theguardian.com/stage/2022/jan/24/romeo-juliet-review-speedy-2-tone-adaptation-lacks-nuance)
+- [Brown bears ‘switch habitats’ to hunt vulnerable prey](https://www.theguardian.com/science/2022/jan/24/brown-bears-switch-habitats-to-hunt-vulnerable-prey-finds-study)
+- [Jason Roy gives England platform to survive West Indies’ late surge](https://www.theguardian.com/sport/2022/jan/24/jason-roy-gives-england-platform-to-survive-west-indies-late-surge)
+- [Rams beat Buccaneers at death to hold off another classic Brady comeback](https://www.theguardian.com/sport/2022/jan/23/nfl-playoff-scores-rams-buccaneers-chiefs-bills)
+- [‘We had to mimic to everyone to run’: how Tonga’s volcano and tsunami disaster unfolded](https://www.theguardian.com/world/2022/jan/24/houses-are-just-gone-tonga-emerges-from-volcano-and-tsunami-disaster)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

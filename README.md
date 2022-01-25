@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tonga volcano: 84% of population affected by ashfall and tsunami](https://www.theguardian.com/world/2022/jan/24/tonga-volcano-84-of-population-affected-by-ashfall-and-tsunami)
-- [US orders families of embassy staff out of Ukraine as tensions rise](https://www.theguardian.com/world/2022/jan/24/us-orders-families-of-embassy-staff-out-of-ukraine)
-- [Online safety bill ‘a missed opportunity’ to prevent child abuse, MPs warn](https://www.theguardian.com/technology/2022/jan/24/online-safety-bill-missed-opportunity-to-detect-child-abuse)
-- [UK’s biggest cities lose nearly a year of sales to Covid-related downturn](https://www.theguardian.com/business/2022/jan/24/uk-biggest-cities-lose-year-sales-to-covid)
-- [Long Covid: nearly 2m days lost in NHS staff absences in England](https://www.theguardian.com/society/2022/jan/24/long-covid-nearly-2m-days-lost-in-nhs-staff-absences-in-england)
-- [Romeo &amp; Juliet review – speedy 2-Tone adaptation lacks nuance](https://www.theguardian.com/stage/2022/jan/24/romeo-juliet-review-speedy-2-tone-adaptation-lacks-nuance)
-- [Brown bears ‘switch habitats’ to hunt vulnerable prey](https://www.theguardian.com/science/2022/jan/24/brown-bears-switch-habitats-to-hunt-vulnerable-prey-finds-study)
-- [Jason Roy gives England platform to survive West Indies’ late surge](https://www.theguardian.com/sport/2022/jan/24/jason-roy-gives-england-platform-to-survive-west-indies-late-surge)
-- [Rams beat Buccaneers at death to hold off another classic Brady comeback](https://www.theguardian.com/sport/2022/jan/23/nfl-playoff-scores-rams-buccaneers-chiefs-bills)
-- [‘We had to mimic to everyone to run’: how Tonga’s volcano and tsunami disaster unfolded](https://www.theguardian.com/world/2022/jan/24/houses-are-just-gone-tonga-emerges-from-volcano-and-tsunami-disaster)
+- [Snowstorm blankets eastern Mediterranean closing airports, schools and vaccination centres](https://www.theguardian.com/world/2022/jan/25/snowstorm-blankets-eastern-mediterranean-closing-airports-schools-and-vaccination-centres)
+- [Joe Biden appears to insult Fox News reporter over inflation question](https://www.theguardian.com/us-news/2022/jan/24/joe-biden-peter-doocy-inflation-insult)
+- [Victory in court for indigenous women raped during Guatemala’s civil war](https://www.theguardian.com/world/2022/jan/25/guatemala-victory-in-court-for-indigenous-women-raped-during-civil-war)
+- [Dementia patients who see same GP have better quality of life, study finds](https://www.theguardian.com/society/2022/jan/25/dementia-patients-who-see-same-gp-have-better-quality-of-life-study-finds)
+- [NHS England plans dental ‘treatment blitz’ to tackle appointments backlog](https://www.theguardian.com/society/2022/jan/25/nhs-england-dental-treatment-appointments-backlog)
+- [US puts 8,500 troops on heightened alert amid fears over Ukraine](https://www.theguardian.com/world/2022/jan/24/nato-reinforces-eastern-borders-as-ukraine-tensions-mount)
+- [‘A genocide against our people’: Australian Uyghur leader calls for athlete boycott of Beijing Winter Olympics](https://www.theguardian.com/australia-news/2022/jan/25/a-genocide-against-our-people-australian-uyghur-leader-calls-for-athlete-boycott-of-beijing-winter-olympics)
+- [Anthony Martial leaving Manchester United for Sevilla on loan](https://www.theguardian.com/football/2022/jan/24/anthony-martial-manchester-united-loan-sevilla)
+- [Deadly crush reported outside Africa Cup of Nations match in Cameroon](https://www.theguardian.com/football/2022/jan/24/africa-cup-of-nations-cameroon-olembe-stadium-crush)
+- [Palm Trees and Power Lines review – an unnerving, remarkable debut](https://www.theguardian.com/film/2022/jan/24/palm-trees-power-lines-film-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

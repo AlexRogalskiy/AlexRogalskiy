@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Siksika Nation community members are growing their local tech sector](https://www.itworldcanada.com/article/siksika-nation-community-members-are-growing-their-local-tech-sector/470993)
+- [Digital acceleration will boost local economic recovery, say GTA mayors](https://www.itworldcanada.com/article/digital-acceleration-will-boost-local-economic-recovery-say-gta-mayors/471213)
+- [Over 90 WordPress themes and plugins from AccessPress hacked, says report](https://www.itworldcanada.com/article/over-90-wordpress-themes-and-plugins-from-accesspress-hacked-says-report/471193)
+- [Cyber Security Today, Jan. 24, 2022 – Warning on WordPress plugins from AccessPress, news on cyber insurance, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-24-2022-warning-on-wordpress-plugins-from-accesspress-news-on-cyber-insurance-and-more/471190)
+- [Hashtag Trending Jan 24 – NYC mayor paid in crypto; Starlink photobomb; Nueralink human trials soon?](https://www.itworldcanada.com/article/hashtag-trending-jan-24-nyc-mayor-paid-in-crypto-starlink-photobomb-nueralink-human-trials-soon/471199)
 - [Cities are increasing citizen engagement by “Amazonifying” their services](https://www.itworldcanada.com/article/cities-are-increasing-citizen-engagement-by-amazonifying-their-services/471080)
 - [Austrian data regulator decision on Google Analytics raises questions](https://www.itworldcanada.com/article/austrian-data-regulator-decision-on-google-analytics-raises-questions/471157)
 - [Cyber Security Today, Week in Review for January 21, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-21-2022/471037)
 - [Public sector leaders look forward to rebuilding culture in the new workplace](https://www.itworldcanada.com/article/public-sector-leaders-look-forward-to-rebuilding-culture-in-the-new-workplace/471078)
 - [Cities have a unique opportunity to transform the lives of their citizens](https://www.itworldcanada.com/article/cities-have-a-unique-opportunity-to-transform-the-lives-of-their-citizens/471076)
-- [Nigerian police arrest suspects in global business email compromise gang](https://www.itworldcanada.com/article/nigerian-police-arrest-suspects-in-global-business-email-compromise-gang/471096)
-- [Red Hat, Ubuntu issue warnings over Linux kernel vulnerability](https://www.itworldcanada.com/article/red-hat-ubuntu-issue-warnings-over-linux-kernel-vulnerability/471089)
-- [Cyber Security Today, Jan. 21, 2022 – Data theft from Red Cross, a US Labor Department scam and a new firmware bootkit found](https://www.itworldcanada.com/article/cyber-security-today-jan-21-2022-data-theft-from-red-cross-a-us-labor-department-scam-and-a-new-firmware-bootkit-found/471040)
-- [Hashtag Trending Jan. 21 – PlayStation creator skeptical of the metaverse; Russian may ban crypto; crypto.com loses $34M to hackers](https://www.itworldcanada.com/article/hashtag-trending-jan-21-playstation-creator-skeptical-of-the-metaverse-russian-may-ban-crypto-crypto-com-loses-34m-to-hackers/471084)
-- [Canada urges critical infrastructure firms to be ready for Russian-based cyber attacks](https://www.itworldcanada.com/article/canada-urges-critical-infrastructure-firms-to-be-ready-for-russian-based-cyber-attacks/471002)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

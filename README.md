@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Company Loans Tool](http://www.pppdetector.com)
-- [Casualties of Your Own Success](https://www.collaborativefund.com/blog/casualties-of-your-own-success/)
-- [The Surprising Reach of Tonga’s Giant Atmospheric Waves](https://eos.org/articles/the-surprising-reach-of-tongas-giant-atmospheric-waves)
-- [Which Values Children Should Be Encouraged to Learn, by Country](https://www.visualcapitalist.com/cp/which-values-children-should-learn-by-country/)
-- [The Mentorship Diamond – Mike McQuaid](https://mikemcquaid.com/2021/09/09/the-mentorship-diamond/)
-- [Lisp in Production – Interview with Atlas, the Guys Behind Nyxt Browser](https://www.youtube.com/watch?v=JqF3-mqdwpM)
-- [In Singapore CSA&#39;s forensics lab, officers dissecting cyberattacks use gadgets](https://www.channelnewsasia.com/singapore/csa-cybersecurity-cyberattacks-hackers-singhealth-forensics-lab-2440466)
-- [At Amazon, every 100ms of latency costed us 1% in sales](https://twitter.com/amilajack/status/1484970823005868033)
-- [Heat Pump Analysis](https://www.iea.org/reports/heat-pumps)
-- [Want to see just how bad Google Chrome is? Try this simple trick](https://www.zdnet.com/article/want-to-see-just-how-bad-google-chrome-is-try-this-simple-trick/)
+- [What Americans lost when we abandoned the secret ballot](https://www.galioninquirer.com/opinion/72009/what-americans-lost-when-we-abandoned-the-secret-ballot)
+- [We are likely created by a computer program: SubSimulatorGPT2](https://old.reddit.com/r/SubSimulatorGPT2/comments/caaq82/we_are_likely_created_by_a_computer_program/)
+- [A culture where change is ordinary](https://katalisha.com/devops/2021/08/26/idealcast-20.html)
+- [CentOS Web Panel bugs allow code execution as root on Linux servers, patch now](https://www.bleepingcomputer.com/news/security/cwp-bugs-allow-code-execution-as-root-on-linux-servers-patch-now/)
+- [China develops largest quadruped bionic robot for delivery](https://www.globaltimes.cn/page/202201/1246094.shtml)
+- [Companies are desperate for workers but can&#39;t find them. Why?](https://slate.com/human-interest/2022/01/job-market-vacancies-hiring-desperate-no-workers-why.html)
+- [A Living Wage for REI Greenvests](https://www.coworker.org/petitions/a-living-wage-for-rei-greenvests)
+- [REI Workers in Manhattan File to Form Company’s First Union](https://geo.coop/gleanings/rei-workers-manhattan-file-form-companys-first-union)
+- [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
+- [Google&#39;s Latest Tracking Nightmare for Chrome Comes in Two Parts](https://www.forbes.com/sites/zakdoffman/2021/10/02/stop-using-google-chrome-on-windows-10-android-and-apple-iphones-ipads-and-macs/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

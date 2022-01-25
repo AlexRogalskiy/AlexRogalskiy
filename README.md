@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
+- [Stressing about an IT internship interview for one of the FANG companies](https://www.reddit.com/r/InformationTechnology/comments/sbu5ul/stressing_about_an_it_internship_interview_for/)
+- [What tool do you use for office space management?](https://www.reddit.com/r/InformationTechnology/comments/sbl5wu/what_tool_do_you_use_for_office_space_management/)
 - [Would IT be able to check whose phone it is, if its charging to a work laptop?](https://www.reddit.com/r/InformationTechnology/comments/sa52f8/would_it_be_able_to_check_whose_phone_it_is_if/)
 - [Suggestion on open-source ITAM services.](https://www.reddit.com/r/InformationTechnology/comments/s9z1bw/suggestion_on_opensource_itam_services/)
 - [Mime attachment](https://www.reddit.com/r/InformationTechnology/comments/s9gg1d/mime_attachment/)
@@ -421,9 +424,6 @@
 - [Question about private IP addressing &amp; autonomous systems](https://www.reddit.com/r/InformationTechnology/comments/s825iv/question_about_private_ip_addressing_autonomous/)
 - [Is a undergraduate certificate in HCI worth it?](https://www.reddit.com/r/InformationTechnology/comments/s7qoh4/is_a_undergraduate_certificate_in_hci_worth_it/)
 - [Data management systems](https://www.reddit.com/r/InformationTechnology/comments/s65p2f/data_management_systems/)
-- [Telecommunications question](https://www.reddit.com/r/InformationTechnology/comments/s5s2f6/telecommunications_question/)
-- [Does anyone want to connect on LinkedIn? I just got into the IT field and looking to grow my professional network. Please let me know! Fellow women especially &lt;3](https://www.reddit.com/r/InformationTechnology/comments/s5rlui/does_anyone_want_to_connect_on_linkedin_i_just/)
-- [Business Intelligence and Knowledge Management](https://www.reddit.com/r/InformationTechnology/comments/s5efg2/business_intelligence_and_knowledge_management/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

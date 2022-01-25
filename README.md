@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [P2P Future Darkens as EDonkey Closes &lpar;2005&rpar;](https://web.archive.org/web/20110918133225/http://betanews.com/2005/09/28/p2p-future-darkens-as-edonkey-closes/)
-- [Wordle-Solver – solves 99.7% of common five-letter English words](https://github.com/jason-chao/wordle-solver)
-- [Aerotime &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
-- [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
-- [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
-- [Roger Ebert: Mighty Morphin Power Rangers &lpar;1995&rpar;](https://www.rogerebert.com/reviews/mighty-morphin-power-rangers-the-movie-1995)
-- [Show HN: Shoot the neural network before it shoots you](https://github.com/victorqribeiro/bangBang)
-- [Ask HN: Where are you going to find long-form content online these days?](https://news.ycombinator.com/item?id=30051782)
-- [Huginn: System for building agents that perform automated tasks online](https://github.com/huginn/huginn)
-- [Brain of a White-Collar Worker &lpar;2007&rpar;](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext)
+- [The Ur-Quan Masters](http://sc2.sourceforge.net/)
+- [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
+- [Nova by Panic](https://nova.app)
+- [717 Gigapixel Image of Rembrandt&#39;s Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
+- [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
+- [Image that contains the code that generated it](https://allrgb.com/recursive)
+- [Saving on egress by switching from AWS to Hetzner](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650?gi=c7e9ad0d5001)
+- [Manara &lpar;YC W21&rpar; hiring full-stack engineers and designer &lpar;remote&rpar;](http://www.manara.tech/careers)
+- [Reasons I&#39;m Still Blogging About CRPGs After 10 Years &lpar;2019&rpar;](http://crpgaddict.blogspot.com/2019/10/10-reasons-im-still-blogging-about.html)
+- [FreeBSD has serious problems with focus, longevity and lifecycle](https://lists.freebsd.org/pipermail/freebsd-hackers/2012-January/037294.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

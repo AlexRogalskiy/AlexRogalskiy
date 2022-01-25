@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Git alternative Pijul moves to beta](https://www.infoworld.com/article/3648062/git-alternative-pijul-moves-to-beta.html#tk.rss_all)
+- [So you want to be a Web3 developer](https://www.infoworld.com/article/3648071/so-you-want-to-be-a-web3-developer.html#tk.rss_all)
+- [Why you should buy, not build, a customer data platform](https://www.infoworld.com/article/3648057/why-you-should-buy-not-build-a-customer-data-platform.html#tk.rss_all)
+- [Of hacks and patches](https://www.infoworld.com/article/3647878/of-hacks-and-patches.html#tk.rss_all)
 - [Rust 1.58.1 fixes dangerous race condition](https://www.infoworld.com/article/3648070/rust-1581-fixes-dangerous-race-condition.html#tk.rss_all)
 - [What’s new in Rust 1.58 and Rust 1.58.1](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [The forces behind enterprise cloud spending trends](https://www.infoworld.com/article/3648028/the-forces-behind-enterprise-cloud-spending-trends.html#tk.rss_all)
 - [What is Google Cloud Anthos? Managed Kubernetes everywhere](https://www.infoworld.com/article/3541324/what-is-google-cloud-anthos-managed-kubernetes-everywhere.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 - [Understand Diffie-Hellman key exchange](https://www.infoworld.com/article/3647751/understand-diffie-hellman-key-exchange.html#tk.rss_all)
-- [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_all)
-- [Securing Azure Kubernetes networking with Calico](https://www.infoworld.com/article/3647296/securing-azure-kubernetes-networking-with-calico.html#tk.rss_all)
-- [Airtable review: Flexible low-code/no-code in the cloud](https://www.infoworld.com/article/3647212/airtable-review-flexible-low-code-no-code-in-the-cloud.html#tk.rss_all)
-- [Suse open sources NeuVector container security platform](https://www.infoworld.com/article/3647295/suse-open-sources-neuvector-container-security-platform.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

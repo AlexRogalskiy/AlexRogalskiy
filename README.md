@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Tinder algorithm charging users more based on age](https://www.computerweekly.com/news/252512313/Tinder-algorithm-charging-users-more-based-on-age)
-- [CTO interview: James Donkin, Ocado Technology](https://www.computerweekly.com/news/252511915/CTO-interview-James-Donkin-Ocado-Technology)
-- [UKCloud acquired: Troubled government cloud provider receives funding lifeline](https://www.computerweekly.com/news/252512297/Troubled-government-cloud-provider-receives-funding-lifeline)
-- [Mandiant analysts: Russia-backed APTs likely to ramp up attacks](https://www.computerweekly.com/news/252512299/Mandiant-analysts-Russia-backed-APTs-likely-to-ramp-up-attacks)
-- [ICO criticises government-backed campaign to delay end-to-end encryption](https://www.computerweekly.com/news/252512294/ICO-criticises-government-backed-campaign-to-delay-end-to-end-encryption)
-- [Cyber pros: Don’t revel in REvil’s downfall just yet](https://www.computerweekly.com/news/252512240/Cyber-pros-Dont-revel-in-REvils-downfall-just-yet)
-- [MoJ faces ICO enforcement over subject access requests backlog](https://www.computerweekly.com/news/252512289/MoJ-faces-ICO-enforcement-over-subject-access-requests-backlog)
-- [Ransomware attacks dropped 37% in December, claims NCC](https://www.computerweekly.com/news/252512245/Ransomware-attacks-dropped-37-in-December-claims-NCC)
-- [Government ‘has nothing against’ paying 555 subpostmasters fair compensation](https://www.computerweekly.com/news/252512243/Government-has-nothing-against-paying-555-subpostmasters-fair-compensation)
-- [Updated cyber security regulations proposed for managed services sector](https://www.computerweekly.com/news/252512224/Updated-cyber-security-regulations-proposed-for-managed-services-sector)
+- [Hybrid cloud storage: The devils are in the details](https://www.computerweekly.com/opinion/Hybrid-Cloud-Storage-The-devils-are-in-the-details)
+- [MPs say Online Safety Bill fails to tackle full range of harms](https://www.computerweekly.com/news/252512361/MPs-say-Online-Safety-Bill-fails-to-tackle-full-range-of-harms)
+- [WikiLeaks founder Julian Assange can ask Supreme Court to hear extradition appeal](https://www.computerweekly.com/news/252512364/WikiLeaks-founder-Julian-Assange-can-ask-Supreme-Court-to-hear-extradition-appeal)
+- [Carbon emissions data to become key factor in cloud purchases by 2025, predicts Gartner](https://www.computerweekly.com/news/252512356/Carbon-emissions-data-to-become-key-factor-in-cloud-purchases-by-2025-predicts-Gartner)
+- [EDSFF brings built-for-NVMe connectivity to the datacentre](https://www.computerweekly.com/feature/EDSFF-brings-built-for-NVMe-connectivity-to-the-datacentre)
+- [CIO interview: Sheri Rhodes, CIO, Workday](https://www.computerweekly.com/news/252512172/CIO-interview-Sheri-Rhodes-CIO-Workday)
+- [Object storage: How research institute got 850TB for €150,000](https://www.computerweekly.com/feature/Object-storage-How-to-get-850TB-for-150000)
+- [How Forensic Architecture uses tech to protect human rights](https://www.computerweekly.com/feature/How-Forensic-Architecture-uses-tech-to-protect-human-rights)
+- [Outdated systems core to DWP £1bn pension underpayment blunders](https://www.computerweekly.com/news/252512346/Outdated-systems-core-to-DWP-1bn-pension-underpayment-blunders)
+- [Heathrow Airport takes to the cloud with Oracle Fusion Applications](https://www.computerweekly.com/news/252512312/Heathrow-Airport-takes-to-the-cloud-with-Oracle-Fusion-Applications)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

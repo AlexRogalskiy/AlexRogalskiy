@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
+- [How AI and Data Can Help Retail&#39;s Ongoing Pandemic Challenges](https://www.informationweek.com/big-data/how-ai-and-data-can-help-retail-s-ongoing-pandemic-challenges)
+- [Why You Should Have an AI &amp; Ethics Board](https://www.informationweek.com/big-data/why-you-should-have-an-ai-ethics-board)
 - [Nvidia, Others Hammer Out Tomorrow’s Cloud-Native Supercomputers](https://www.informationweek.com/cloud/nvidia-others-hammer-out-tomorrows-cloud-native-supercomputers)
 - [Transitioning IT Careers: How &lpar;and Where&rpar; to Stand Out Right Now](https://www.informationweek.com/strategic-cio/transitioning-it-careers-how-and-where-to-stand-out-right-now)
 - [A Safety Inquiry on 5G Deployments at US Airports Balloons](https://www.informationweek.com/it-life/a-safety-inquiry-on-5g-deployments-at-us-airports-balloons)
@@ -376,9 +379,6 @@
 - [The Automation Paradox: The Rise of Human-Led Automation](https://www.informationweek.com/big-data/the-automation-paradox-the-rise-of-human-led-automation)
 - [Why Low Code is the Great Unifier for Total Experience](https://www.informationweek.com/software/why-low-code-is-the-great-unifier-for-total-experience)
 - [The Cost of AI Bias: Lower Revenue, Lost Customers](https://www.informationweek.com/big-data/the-cost-of-ai-bias-lower-revenue-lost-customers)
-- [Tonga Volcano Highlights Global Undersea Cable Network Fragility](https://www.informationweek.com/security-and-risk-strategy/tonga-volcano-highlights-global-undersea-cable-network-fragility)
-- [IT Leaders: Are You Ready for These 8 Challenges?](https://www.informationweek.com/big-data/it-leaders-are-you-ready-for-these-8-challenges-)
-- [Data Breach Customer Relations: What NOT To Do](https://www.informationweek.com/security-and-risk-strategy/data-breach-customer-relations-what-not-to-do)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

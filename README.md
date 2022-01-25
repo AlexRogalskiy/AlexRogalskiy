@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [CFOs eye tech investments to attract, retain talent with AI/ML skills](https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html#tk.rss_all)
+- [VPNs and browsers — staying secure while online](https://www.computerworld.com/article/3647762/vpns-and-browsers-staying-secure-while-online.html#tk.rss_all)
+- [Apple&#39;s &#39;wild array&#39; of expected 2022 releases include plenty for business](https://www.computerworld.com/article/3648072/apples-wild-array-of-expected-2022-releases-include-plenty-for-business.html#tk.rss_all)
+- [After the shift to remote work, new hope for a four-day workweek](https://www.computerworld.com/article/3647755/after-the-shift-to-remote-work-new-hope-for-a-four-day-workweek.html#tk.rss_all)
 - [Apple: iOS 15 now installed on more than 60% of all iPhones](https://www.computerworld.com/article/3647877/apple-ios-15-now-installed-on-more-than-60-of-all-iphones.html#tk.rss_all)
 - [How to fix iPhone network coverage and hotspot problems](https://www.computerworld.com/article/3647993/how-to-fix-iphone-network-coverage-and-hotspot-problems.html#tk.rss_all)
 - [16 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/16-ways-to-speed-up-windows-10.html#tk.rss_all)
 - [Video vs. VR: What’s missing for successful collaboration?](https://www.computerworld.com/article/3647757/video-vs-vr-whats-missing-for-successful-collaboration.html#tk.rss_all)
 - [What you need to know about NFTs](https://www.computerworld.com/article/3647754/what-you-need-to-know-about-nfts.html#tk.rss_all)
 - [Can Google be trusted?](https://www.computerworld.com/article/3647371/can-google-be-trusted.html#tk.rss_all)
-- [Android&#39;s forgotten shortcut superpowers](https://www.computerworld.com/article/3568261/android-shortcut-superpowers.html#tk.rss_all)
-- [Microsoft beefs up Edge&#39;s security against zero-day attacks](https://www.computerworld.com/article/3648068/microsoft-beefs-up-edges-security-against-zero-day-attacks.html#tk.rss_all)
-- [Podcast: Microsoft’s Activision acquisition, explained](https://www.computerworld.com/article/3648049/podcast-microsofts-activision-acquisition-explained.html#tk.rss_all)
-- [Meta&#39;s Workplace touts upcoming WhatsApp integration for frontline workers](https://www.computerworld.com/article/3647989/metas-workplace-touts-upcoming-whatsapp-integration-for-frontline-workers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

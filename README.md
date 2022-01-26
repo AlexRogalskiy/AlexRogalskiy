@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
+- [25 of Our Most Popular IT Stories From 2021](https://www.informationweek.com/cloud/25-of-our-most-popular-it-stories-from-2021)
 - [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
 - [How AI and Data Can Help Retail&#39;s Ongoing Pandemic Challenges](https://www.informationweek.com/big-data/how-ai-and-data-can-help-retail-s-ongoing-pandemic-challenges)
 - [Why You Should Have an AI &amp; Ethics Board](https://www.informationweek.com/big-data/why-you-should-have-an-ai-ethics-board)
@@ -377,8 +379,6 @@
 - [A Safety Inquiry on 5G Deployments at US Airports Balloons](https://www.informationweek.com/it-life/a-safety-inquiry-on-5g-deployments-at-us-airports-balloons)
 - [Data Fabrics: Six Top Use Cases](https://www.informationweek.com/big-data/data-fabrics-six-top-use-cases)
 - [The Automation Paradox: The Rise of Human-Led Automation](https://www.informationweek.com/big-data/the-automation-paradox-the-rise-of-human-led-automation)
-- [Why Low Code is the Great Unifier for Total Experience](https://www.informationweek.com/software/why-low-code-is-the-great-unifier-for-total-experience)
-- [The Cost of AI Bias: Lower Revenue, Lost Customers](https://www.informationweek.com/big-data/the-cost-of-ai-bias-lower-revenue-lost-customers)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Vector Institute launches ML course for home caregivers and mothers on mat leave](https://www.itworldcanada.com/article/vector-institute-launches-ml-course-for-home-caregivers-and-mothers-on-mat-leave/471455)
+- [York Region’s new investment aims to attract global tech firms and create new jobs in the region](https://www.itworldcanada.com/article/york-regions-new-investment-aims-to-attract-global-tech-firms-and-create-new-jobs-in-the-region/471425)
+- [Ontario minister of digital government encourages municipal collaboration with province](https://www.itworldcanada.com/article/ontario-minister-of-digital-government-encourages-municipal-collaboration-with-province/471276)
+- [Coffee Briefing Jan. 25, 2022 – Chrome API for interest-based ads.; SAS Hackathon 2022 Kickoff; G Suite legacy free edition ending soon; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-25-2022-chrome-api-for-interest-based-ads-sas-hackathon-2022-kickoff-g-suite-legacy-free-edition-ending-soon-and-more/471297)
+- [Global Affairs Canada still recovering after ‘cyber incident,’ government says](https://www.itworldcanada.com/article/global-affairs-canada-still-recovering-after-cyber-incident-government-says/471346)
+- [Beanfield Metroconnect acquires FibreStream](https://www.itworldcanada.com/article/beanfield-metroconnect-acquires-fibrestream/471366)
+- [HP launches Z2 G9 SFF compact professional PC](https://www.itworldcanada.com/article/hp-launches-z2-g9-sff-compact-professional-pcs/471334)
+- [Hashtag Trending Jan 25 – Bitcoin tanks; Meta and Snap face new lawsuit; Gif turns 35](https://www.itworldcanada.com/article/hashtag-trending-jan-25-bitcoin-tanks-meta-and-snap-face-new-lawsuit-gif-turns-35/471305)
 - [Siksika Nation community members are growing their local tech sector](https://www.itworldcanada.com/article/siksika-nation-community-members-are-growing-their-local-tech-sector/470993)
 - [Digital acceleration will boost local economic recovery, say GTA mayors](https://www.itworldcanada.com/article/digital-acceleration-will-boost-local-economic-recovery-say-gta-mayors/471213)
-- [Over 90 WordPress themes and plugins from AccessPress hacked, says report](https://www.itworldcanada.com/article/over-90-wordpress-themes-and-plugins-from-accesspress-hacked-says-report/471193)
-- [Cyber Security Today, Jan. 24, 2022 – Warning on WordPress plugins from AccessPress, news on cyber insurance, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-24-2022-warning-on-wordpress-plugins-from-accesspress-news-on-cyber-insurance-and-more/471190)
-- [Hashtag Trending Jan 24 – NYC mayor paid in crypto; Starlink photobomb; Nueralink human trials soon?](https://www.itworldcanada.com/article/hashtag-trending-jan-24-nyc-mayor-paid-in-crypto-starlink-photobomb-nueralink-human-trials-soon/471199)
-- [Cities are increasing citizen engagement by “Amazonifying” their services](https://www.itworldcanada.com/article/cities-are-increasing-citizen-engagement-by-amazonifying-their-services/471080)
-- [Austrian data regulator decision on Google Analytics raises questions](https://www.itworldcanada.com/article/austrian-data-regulator-decision-on-google-analytics-raises-questions/471157)
-- [Cyber Security Today, Week in Review for January 21, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-21-2022/471037)
-- [Public sector leaders look forward to rebuilding culture in the new workplace](https://www.itworldcanada.com/article/public-sector-leaders-look-forward-to-rebuilding-culture-in-the-new-workplace/471078)
-- [Cities have a unique opportunity to transform the lives of their citizens](https://www.itworldcanada.com/article/cities-have-a-unique-opportunity-to-transform-the-lives-of-their-citizens/471076)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you get a software developer job with an Information Technology degree? If so, what was ur pathway to there?](https://www.reddit.com/r/InformationTechnology/comments/scu0v3/can_you_get_a_software_developer_job_with_an/)
+- [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
 - [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
 - [Stressing about an IT internship interview for one of the FANG companies](https://www.reddit.com/r/InformationTechnology/comments/sbu5ul/stressing_about_an_it_internship_interview_for/)
 - [What tool do you use for office space management?](https://www.reddit.com/r/InformationTechnology/comments/sbl5wu/what_tool_do_you_use_for_office_space_management/)
@@ -422,8 +424,6 @@
 - [Mime attachment](https://www.reddit.com/r/InformationTechnology/comments/s9gg1d/mime_attachment/)
 - [What should i learn?](https://www.reddit.com/r/InformationTechnology/comments/s8twna/what_should_i_learn/)
 - [Question about private IP addressing &amp; autonomous systems](https://www.reddit.com/r/InformationTechnology/comments/s825iv/question_about_private_ip_addressing_autonomous/)
-- [Is a undergraduate certificate in HCI worth it?](https://www.reddit.com/r/InformationTechnology/comments/s7qoh4/is_a_undergraduate_certificate_in_hci_worth_it/)
-- [Data management systems](https://www.reddit.com/r/InformationTechnology/comments/s65p2f/data_management_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

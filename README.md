@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Ur-Quan Masters](http://sc2.sourceforge.net/)
-- [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
-- [Nova by Panic](https://nova.app)
-- [717 Gigapixel Image of Rembrandt&#39;s Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
-- [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
-- [Image that contains the code that generated it](https://allrgb.com/recursive)
-- [Saving on egress by switching from AWS to Hetzner](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650?gi=c7e9ad0d5001)
-- [Manara &lpar;YC W21&rpar; hiring full-stack engineers and designer &lpar;remote&rpar;](http://www.manara.tech/careers)
-- [Reasons I&#39;m Still Blogging About CRPGs After 10 Years &lpar;2019&rpar;](http://crpgaddict.blogspot.com/2019/10/10-reasons-im-still-blogging-about.html)
-- [FreeBSD has serious problems with focus, longevity and lifecycle](https://lists.freebsd.org/pipermail/freebsd-hackers/2012-January/037294.html)
+- [Why Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
+- [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
+- [The Polygons of Éric&#39;s Chahi Another World](https://fabiensanglard.net/another_world_polygons/index.html)
+- [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
+- [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+- [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
+- [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
+- [The history of the end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)
+- [Rebuilding Notre Dame Cathedral](https://casdinteret.com/2022/01/rebuilding-notre-dame-painstaking-battle-between-new-and-old/)
+- [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://seclists.org/oss-sec/2022/q1/80)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

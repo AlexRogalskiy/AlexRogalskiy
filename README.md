@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Snowstorm blankets eastern Mediterranean closing airports, schools and vaccination centres](https://www.theguardian.com/world/2022/jan/25/snowstorm-blankets-eastern-mediterranean-closing-airports-schools-and-vaccination-centres)
-- [Joe Biden appears to insult Fox News reporter over inflation question](https://www.theguardian.com/us-news/2022/jan/24/joe-biden-peter-doocy-inflation-insult)
-- [Victory in court for indigenous women raped during Guatemala’s civil war](https://www.theguardian.com/world/2022/jan/25/guatemala-victory-in-court-for-indigenous-women-raped-during-civil-war)
-- [Dementia patients who see same GP have better quality of life, study finds](https://www.theguardian.com/society/2022/jan/25/dementia-patients-who-see-same-gp-have-better-quality-of-life-study-finds)
-- [NHS England plans dental ‘treatment blitz’ to tackle appointments backlog](https://www.theguardian.com/society/2022/jan/25/nhs-england-dental-treatment-appointments-backlog)
-- [US puts 8,500 troops on heightened alert amid fears over Ukraine](https://www.theguardian.com/world/2022/jan/24/nato-reinforces-eastern-borders-as-ukraine-tensions-mount)
-- [‘A genocide against our people’: Australian Uyghur leader calls for athlete boycott of Beijing Winter Olympics](https://www.theguardian.com/australia-news/2022/jan/25/a-genocide-against-our-people-australian-uyghur-leader-calls-for-athlete-boycott-of-beijing-winter-olympics)
-- [Anthony Martial leaving Manchester United for Sevilla on loan](https://www.theguardian.com/football/2022/jan/24/anthony-martial-manchester-united-loan-sevilla)
-- [Deadly crush reported outside Africa Cup of Nations match in Cameroon](https://www.theguardian.com/football/2022/jan/24/africa-cup-of-nations-cameroon-olembe-stadium-crush)
-- [Palm Trees and Power Lines review – an unnerving, remarkable debut](https://www.theguardian.com/film/2022/jan/24/palm-trees-power-lines-film-review)
+- [Ghostly monkey and slug snake among 224 new species found in Mekong region](https://www.theguardian.com/world/2022/jan/26/ghostly-monkey-and-slug-snake-among-224-new-species-found-in-mekong-region)
+- [UK could gain ‘first-mover’ advantage with India trade deal](https://www.theguardian.com/business/2022/jan/26/uk-could-gain-first-mover-advantage-with-india-trade-deal)
+- [Self-driving car users should have immunity from offences – report](https://www.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report)
+- [‘Big Roy’ fits the bill to give struggling Watford a chance of surviving](https://www.theguardian.com/football/2022/jan/26/big-roy-fits-the-bill-to-give-struggling-watford-a-chance-of-surviving)
+- [Oatly ads banned by UK watchdog over ‘misleading’ green claims](https://www.theguardian.com/media/2022/jan/26/oatly-ads-banned-by-uk-watchdog-over-misleading-green-claims)
+- [Western monarch butterfly count hits five-year high – but the fight isn’t over](https://www.theguardian.com/environment/2022/jan/25/western-monarch-butterfly-california-rebound)
+- [Man charged with the murder of his 19-year-old daughter in Norfolk](https://www.theguardian.com/uk-news/2022/jan/25/man-charged-with-the-of-his-19-year-old-daughter-in-norfolk)
+- [About 300,000 in UK have potentially deadly aortic valve condition, study finds](https://www.theguardian.com/society/2022/jan/25/heart-disease-aortic-valve-stenosis-uk-prevalence-study)
+- [World’s best building award won by rainwater-harvesting hospital in rural Bangladesh](https://www.theguardian.com/artanddesign/2022/jan/25/riba-best-building-award-friendship-hospital-bangladesh-kashef-chowdhury-david-chipperfield-wilkinson-eyre)
+- [England evacuated from hotel due to fire and Marler tests positive for Covid](https://www.theguardian.com/sport/2022/jan/25/england-suffer-another-six-nations-blow-as-joe-marler-tests-positive-for-covid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

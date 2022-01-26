@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [India eyes home-grown OS to compete with Android, iOS](https://www.computerworld.com/article/3648074/india-eyes-home-grown-os-to-compete-with-android-ios.html#tk.rss_all)
+- [Nvidia may abandon its $40B ARM acquisition](https://www.computerworld.com/article/3648064/nvidia-may-abandon-its-40b-arm-acquisition.html#tk.rss_all)
+- [Don’t cheap out on essential hardware](https://www.computerworld.com/article/3648060/don-t-cheap-out-on-essential-hardware.html#tk.rss_all)
+- [Will World War III begin in cyberspace?](https://www.computerworld.com/article/3647879/will-world-war-iii-begin-in-cyberspace.html#tk.rss_all)
 - [CFOs eye tech investments to attract, retain talent with AI/ML skills](https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html#tk.rss_all)
 - [VPNs and browsers — staying secure while online](https://www.computerworld.com/article/3647762/vpns-and-browsers-staying-secure-while-online.html#tk.rss_all)
 - [Apple&#39;s &#39;wild array&#39; of expected 2022 releases include plenty for business](https://www.computerworld.com/article/3648072/apples-wild-array-of-expected-2022-releases-include-plenty-for-business.html#tk.rss_all)
 - [After the shift to remote work, new hope for a four-day workweek](https://www.computerworld.com/article/3647755/after-the-shift-to-remote-work-new-hope-for-a-four-day-workweek.html#tk.rss_all)
 - [Apple: iOS 15 now installed on more than 60% of all iPhones](https://www.computerworld.com/article/3647877/apple-ios-15-now-installed-on-more-than-60-of-all-iphones.html#tk.rss_all)
 - [How to fix iPhone network coverage and hotspot problems](https://www.computerworld.com/article/3647993/how-to-fix-iphone-network-coverage-and-hotspot-problems.html#tk.rss_all)
-- [16 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/16-ways-to-speed-up-windows-10.html#tk.rss_all)
-- [Video vs. VR: What’s missing for successful collaboration?](https://www.computerworld.com/article/3647757/video-vs-vr-whats-missing-for-successful-collaboration.html#tk.rss_all)
-- [What you need to know about NFTs](https://www.computerworld.com/article/3647754/what-you-need-to-know-about-nfts.html#tk.rss_all)
-- [Can Google be trusted?](https://www.computerworld.com/article/3647371/can-google-be-trusted.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

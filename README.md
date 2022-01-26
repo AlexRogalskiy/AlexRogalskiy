@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Icelandic research could revolutionise AI](https://www.computerweekly.com/news/252512418/Icelandic-research-could-revolutionise-AI)
+- [Prepare, but don’t panic, over supposed Russian cyber threat](https://www.computerweekly.com/news/252512417/Prepare-but-dont-panic-over-supposed-Russian-cyber-threat)
+- [Cyber Essentials programme gets biggest update since launch](https://www.computerweekly.com/news/252512423/Cyber-Essentials-programme-gets-biggest-update-since-launch)
+- [UK government launches internal cyber strategy](https://www.computerweekly.com/news/252512412/UK-government-launches-internal-cyber-strategy)
+- [UK launches international data transfer council](https://www.computerweekly.com/news/252512391/UK-launches-international-data-transfer-council)
+- [Subpostmaster campaign group to meet government over unfair compensation settlement](https://www.computerweekly.com/news/252512410/Subpostmaster-campaign-group-to-meet-government-over-unfair-compensation-settlement)
+- [CIO interview: Michael Cole, CTO, European Tour and Ryder Cup](https://www.computerweekly.com/news/252512290/CIO-interview-Michael-Cole-CTO-European-Tour-and-Ryder-Cup)
+- [Why watching your remote workers doesn’t work](https://www.computerweekly.com/ezine/Computer-Weekly/Why-watching-your-remote-workers-doesnt-work)
+- [Retailers mired by manual data integration](https://www.computerweekly.com/news/252512402/Retailers-mired-by-manual-data-integration)
 - [Hybrid cloud storage: The devils are in the details](https://www.computerweekly.com/opinion/Hybrid-Cloud-Storage-The-devils-are-in-the-details)
-- [MPs say Online Safety Bill fails to tackle full range of harms](https://www.computerweekly.com/news/252512361/MPs-say-Online-Safety-Bill-fails-to-tackle-full-range-of-harms)
-- [WikiLeaks founder Julian Assange can ask Supreme Court to hear extradition appeal](https://www.computerweekly.com/news/252512364/WikiLeaks-founder-Julian-Assange-can-ask-Supreme-Court-to-hear-extradition-appeal)
-- [Carbon emissions data to become key factor in cloud purchases by 2025, predicts Gartner](https://www.computerweekly.com/news/252512356/Carbon-emissions-data-to-become-key-factor-in-cloud-purchases-by-2025-predicts-Gartner)
-- [EDSFF brings built-for-NVMe connectivity to the datacentre](https://www.computerweekly.com/feature/EDSFF-brings-built-for-NVMe-connectivity-to-the-datacentre)
-- [CIO interview: Sheri Rhodes, CIO, Workday](https://www.computerweekly.com/news/252512172/CIO-interview-Sheri-Rhodes-CIO-Workday)
-- [Object storage: How research institute got 850TB for €150,000](https://www.computerweekly.com/feature/Object-storage-How-to-get-850TB-for-150000)
-- [How Forensic Architecture uses tech to protect human rights](https://www.computerweekly.com/feature/How-Forensic-Architecture-uses-tech-to-protect-human-rights)
-- [Outdated systems core to DWP £1bn pension underpayment blunders](https://www.computerweekly.com/news/252512346/Outdated-systems-core-to-DWP-1bn-pension-underpayment-blunders)
-- [Heathrow Airport takes to the cloud with Oracle Fusion Applications](https://www.computerweekly.com/news/252512312/Heathrow-Airport-takes-to-the-cloud-with-Oracle-Fusion-Applications)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

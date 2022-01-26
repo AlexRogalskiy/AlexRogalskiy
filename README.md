@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Americans lost when we abandoned the secret ballot](https://www.galioninquirer.com/opinion/72009/what-americans-lost-when-we-abandoned-the-secret-ballot)
-- [We are likely created by a computer program: SubSimulatorGPT2](https://old.reddit.com/r/SubSimulatorGPT2/comments/caaq82/we_are_likely_created_by_a_computer_program/)
-- [A culture where change is ordinary](https://katalisha.com/devops/2021/08/26/idealcast-20.html)
-- [CentOS Web Panel bugs allow code execution as root on Linux servers, patch now](https://www.bleepingcomputer.com/news/security/cwp-bugs-allow-code-execution-as-root-on-linux-servers-patch-now/)
-- [China develops largest quadruped bionic robot for delivery](https://www.globaltimes.cn/page/202201/1246094.shtml)
-- [Companies are desperate for workers but can&#39;t find them. Why?](https://slate.com/human-interest/2022/01/job-market-vacancies-hiring-desperate-no-workers-why.html)
-- [A Living Wage for REI Greenvests](https://www.coworker.org/petitions/a-living-wage-for-rei-greenvests)
-- [REI Workers in Manhattan File to Form Company’s First Union](https://geo.coop/gleanings/rei-workers-manhattan-file-form-companys-first-union)
-- [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
-- [Google&#39;s Latest Tracking Nightmare for Chrome Comes in Two Parts](https://www.forbes.com/sites/zakdoffman/2021/10/02/stop-using-google-chrome-on-windows-10-android-and-apple-iphones-ipads-and-macs/)
+- [Most Useful JavaScript Hacks [video]](https://www.youtube.com/watch?v=oxssTkj5z7Q&feature=youtu.be)
+- [Ask HN: Ethics on Deleting Git History](https://news.ycombinator.com/item?id=30080882)
+- [A History of Haggis](https://www.historytoday.com/archive/historians-cookbook/history-haggis)
+- [Statistical Critiques That Don&#39;t Quite Work](https://nickch-k.github.io/SomeThoughts/posts/2022-01-23-overdebunked/)
+- [The Mighty App is currently offline due to an Nvidia driver bug](https://twitter.com/Suhail/status/1486131242546331648)
+- [Mathematics Required for PAIP?](https://news.ycombinator.com/item?id=30080861)
+- [What Americans Lost When We Abandoned the Secret Ballot](https://www.realclearpolitics.com/articles/2021/07/08/what_americans_lost_when_we_abandoned_the_secret_ballot_146050.html)
+- [Gopher at Quux.org](http://gopher.quux.org:70)
+- [1kb Fluid Simulation Quine](http://www.p01.org/fluid_simulation_quine/quine.html)
+- [Ask HN: Do you recommend online courses by Google, MS, etc.?](https://news.ycombinator.com/item?id=30080793)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

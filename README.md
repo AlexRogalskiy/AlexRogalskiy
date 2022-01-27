@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
-- [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
-- [The Polygons of Éric&#39;s Chahi Another World](https://fabiensanglard.net/another_world_polygons/index.html)
-- [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
-- [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
-- [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
-- [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
-- [The history of the end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)
-- [Rebuilding Notre Dame Cathedral](https://casdinteret.com/2022/01/rebuilding-notre-dame-painstaking-battle-between-new-and-old/)
-- [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://seclists.org/oss-sec/2022/q1/80)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
+- [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- [Hellekson&#39;s Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
+- [Moral Machine](https://www.moralmachine.net/)
+- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+- [Here We Go Again](https://seths.blog/2022/01/here-we-go-again-2/)
+- [Spotify is removing Neil Young’s music after falling out over Joe Rogan](https://techcrunch.com/2022/01/26/spotify-neil-young-joe-rogan/)
+- [Wordle-solving state of the art: all optimality results so far](https://www.poirrier.ca/notes/wordle-optimal/)
+- [Rancher Desktop 1.0.0 Has Arrived](https://www.suse.com/c/rancher_blog/rancher-desktop-1-0-0-has-arrived/)
+- [Washington state shuts down Amazon price-fixing program nationwide](https://www.atg.wa.gov/news/news-releases/ag-ferguson-investigation-shuts-down-amazon-price-fixing-program-nationwide)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

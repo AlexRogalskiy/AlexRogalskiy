@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft publishes Java roadmap for Visual Studio Code](https://www.infoworld.com/article/3648290/microsoft-looks-to-woo-more-java-developers-to-visual-studio-code.html#tk.rss_all)
+- [Preparing for the end of Dockershim in AKS](https://www.infoworld.com/article/3648288/preparing-for-the-end-of-dockershim-in-aks.html#tk.rss_all)
+- [4 keys to writing modern Python in 2022](https://www.infoworld.com/article/3648061/4-keys-to-writing-modern-python-in-2022.html#tk.rss_all)
 - [Ruby 3.1 arrives with new JIT compiler](https://www.infoworld.com/article/3647999/ruby-31-arrives-with-new-jit-compiler.html#tk.rss_all)
 - [Cloud architecture must accommodate rapid change](https://www.infoworld.com/article/3648189/cloud-architecture-must-accommodate-rapid-change.html#tk.rss_all)
 - [5 key observability trends for 2022](https://www.infoworld.com/article/3648053/5-key-observability-trends-for-2022.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Git alternative Pijul moves to beta](https://www.infoworld.com/article/3648062/git-alternative-pijul-moves-to-beta.html#tk.rss_all)
 - [So you want to be a Web3 developer](https://www.infoworld.com/article/3648071/so-you-want-to-be-a-web3-developer.html#tk.rss_all)
 - [Why you should buy, not build, a customer data platform](https://www.infoworld.com/article/3648057/why-you-should-buy-not-build-a-customer-data-platform.html#tk.rss_all)
-- [Of hacks and patches](https://www.infoworld.com/article/3647878/of-hacks-and-patches.html#tk.rss_all)
-- [Rust 1.58.1 fixes dangerous race condition](https://www.infoworld.com/article/3648070/rust-1581-fixes-dangerous-race-condition.html#tk.rss_all)
-- [What’s new in Rust 1.58 and Rust 1.58.1](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

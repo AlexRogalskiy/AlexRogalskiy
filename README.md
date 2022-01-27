@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Most Useful JavaScript Hacks [video]](https://www.youtube.com/watch?v=oxssTkj5z7Q&feature=youtu.be)
-- [Ask HN: Ethics on Deleting Git History](https://news.ycombinator.com/item?id=30080882)
-- [A History of Haggis](https://www.historytoday.com/archive/historians-cookbook/history-haggis)
-- [Statistical Critiques That Don&#39;t Quite Work](https://nickch-k.github.io/SomeThoughts/posts/2022-01-23-overdebunked/)
-- [The Mighty App is currently offline due to an Nvidia driver bug](https://twitter.com/Suhail/status/1486131242546331648)
-- [Mathematics Required for PAIP?](https://news.ycombinator.com/item?id=30080861)
-- [What Americans Lost When We Abandoned the Secret Ballot](https://www.realclearpolitics.com/articles/2021/07/08/what_americans_lost_when_we_abandoned_the_secret_ballot_146050.html)
-- [Gopher at Quux.org](http://gopher.quux.org:70)
-- [1kb Fluid Simulation Quine](http://www.p01.org/fluid_simulation_quine/quine.html)
-- [Ask HN: Do you recommend online courses by Google, MS, etc.?](https://news.ycombinator.com/item?id=30080793)
+- [Anti-work subreddit goes private after rough Fox News interview](https://mashable.com/article/antiwork-subreddit-fox-news-interview)
+- [Germany Needs Immigration of 400k Workers per Year, FDP Says](https://www.bloomberg.com/news/articles/2022-01-21/germany-needs-immigration-of-400-000-workers-per-year-fdp-says)
+- [We’re having less sex because we’re too busy, not because of social media](https://www.sciencefocus.com/news/are-we-really-having-less-sex/)
+- [Facebook’s Cryptocurrency Venture to Wind Down, Sell Assets](https://www.wsj.com/articles/facebooks-cryptocurrency-venture-to-wind-down-sell-assets-11643248799)
+- [Android Play Integrity API](https://developer.android.com/google/play/integrity)
+- [How the world&#39;s deepest shipwreck was found](https://www.bbc.com/future/article/20220121-the-dive-to-find-the-worlds-deepest-shipwreck)
+- [Introducing: Community.mojeek.com](https://blog.mojeek.com/2022/01/introducing-the-mojeek-discourse.html)
+- [Moderna starts trial for Omicron-specific booster shot](https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-starts-trial-testing-omicron-specific-booster-shot-2022-01-26/)
+- [Ask HN: What&#39;s Satellite Network Security Like? VPN? HTTPS?](https://news.ycombinator.com/item?id=30095213)
+- [Goldfish was trained to navigate a small robotic vehicle on land](https://twitter.com/ronen_segev/status/1477889582398164994/video/1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

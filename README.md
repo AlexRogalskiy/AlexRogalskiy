@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [9 Hottest IT Certifications Right Now](https://www.informationweek.com/strategic-cio/9-hottest-it-certifications-right-now)
+- [Countering Disruption by Making Asset Management Systems Smarter](https://www.informationweek.com/big-data/countering-disruption-by-making-asset-management-systems-smarter)
 - [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
 - [25 of Our Most Popular IT Stories From 2021](https://www.informationweek.com/cloud/25-of-our-most-popular-it-stories-from-2021)
 - [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
@@ -377,8 +379,6 @@
 - [Nvidia, Others Hammer Out Tomorrow’s Cloud-Native Supercomputers](https://www.informationweek.com/cloud/nvidia-others-hammer-out-tomorrows-cloud-native-supercomputers)
 - [Transitioning IT Careers: How &lpar;and Where&rpar; to Stand Out Right Now](https://www.informationweek.com/strategic-cio/transitioning-it-careers-how-and-where-to-stand-out-right-now)
 - [A Safety Inquiry on 5G Deployments at US Airports Balloons](https://www.informationweek.com/it-life/a-safety-inquiry-on-5g-deployments-at-us-airports-balloons)
-- [Data Fabrics: Six Top Use Cases](https://www.informationweek.com/big-data/data-fabrics-six-top-use-cases)
-- [The Automation Paradox: The Rise of Human-Led Automation](https://www.informationweek.com/big-data/the-automation-paradox-the-rise-of-human-led-automation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

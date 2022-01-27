@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [About that &#39;alarming&#39; chip shortage — don&#39;t count on new fab plants to help quickly](https://www.computerworld.com/article/3648349/about-that-alarming-chip-shortage-dont-count-on-new-fab-plants-to-help-quickly.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [BrandPost: How Wi-Fi 6 Impacts Your Business Network](https://www.computerworld.com/article/3648348/how-wi-fi-6-impacts-your-business-network.html#tk.rss_all)
+- [Dropbox, Microsoft OneDrive send out warnings to macOS users](https://www.computerworld.com/article/3648044/dropbox-microsoft-onedrive-send-out-warnings-to-macos-users.html#tk.rss_all)
+- [The ambitious Android tablet option Google tossed away](https://www.computerworld.com/article/3647997/android-tablet-google.html#tk.rss_all)
+- [How to choose the right project collaboration software](https://www.computerworld.com/article/3647528/how-to-choose-the-right-project-collaboration-software.html#tk.rss_all)
 - [India eyes home-grown OS to compete with Android, iOS](https://www.computerworld.com/article/3648074/india-eyes-home-grown-os-to-compete-with-android-ios.html#tk.rss_all)
 - [Nvidia may abandon its $40B ARM acquisition](https://www.computerworld.com/article/3648064/nvidia-may-abandon-its-40b-arm-acquisition.html#tk.rss_all)
 - [Don’t cheap out on essential hardware](https://www.computerworld.com/article/3648060/don-t-cheap-out-on-essential-hardware.html#tk.rss_all)
-- [Will World War III begin in cyberspace?](https://www.computerworld.com/article/3647879/will-world-war-iii-begin-in-cyberspace.html#tk.rss_all)
-- [CFOs eye tech investments to attract, retain talent with AI/ML skills](https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html#tk.rss_all)
-- [VPNs and browsers — staying secure while online](https://www.computerworld.com/article/3647762/vpns-and-browsers-staying-secure-while-online.html#tk.rss_all)
-- [Apple&#39;s &#39;wild array&#39; of expected 2022 releases include plenty for business](https://www.computerworld.com/article/3648072/apples-wild-array-of-expected-2022-releases-include-plenty-for-business.html#tk.rss_all)
-- [After the shift to remote work, new hope for a four-day workweek](https://www.computerworld.com/article/3647755/after-the-shift-to-remote-work-new-hope-for-a-four-day-workweek.html#tk.rss_all)
-- [Apple: iOS 15 now installed on more than 60% of all iPhones](https://www.computerworld.com/article/3647877/apple-ios-15-now-installed-on-more-than-60-of-all-iphones.html#tk.rss_all)
-- [How to fix iPhone network coverage and hotspot problems](https://www.computerworld.com/article/3647993/how-to-fix-iphone-network-coverage-and-hotspot-problems.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Major: Need a Research Topic](https://www.reddit.com/r/InformationTechnology/comments/sdjxi7/it_major_need_a_research_topic/)
 - [Can you get a software developer job with an Information Technology degree? If so, what was ur pathway to there?](https://www.reddit.com/r/InformationTechnology/comments/scu0v3/can_you_get_a_software_developer_job_with_an/)
 - [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
 - [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
@@ -423,7 +424,6 @@
 - [Suggestion on open-source ITAM services.](https://www.reddit.com/r/InformationTechnology/comments/s9z1bw/suggestion_on_opensource_itam_services/)
 - [Mime attachment](https://www.reddit.com/r/InformationTechnology/comments/s9gg1d/mime_attachment/)
 - [What should i learn?](https://www.reddit.com/r/InformationTechnology/comments/s8twna/what_should_i_learn/)
-- [Question about private IP addressing &amp; autonomous systems](https://www.reddit.com/r/InformationTechnology/comments/s825iv/question_about_private_ip_addressing_autonomous/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

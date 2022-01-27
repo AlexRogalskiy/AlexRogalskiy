@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Icelandic research could revolutionise AI](https://www.computerweekly.com/news/252512418/Icelandic-research-could-revolutionise-AI)
-- [Prepare, but don’t panic, over supposed Russian cyber threat](https://www.computerweekly.com/news/252512417/Prepare-but-dont-panic-over-supposed-Russian-cyber-threat)
-- [Cyber Essentials programme gets biggest update since launch](https://www.computerweekly.com/news/252512423/Cyber-Essentials-programme-gets-biggest-update-since-launch)
-- [UK government launches internal cyber strategy](https://www.computerweekly.com/news/252512412/UK-government-launches-internal-cyber-strategy)
-- [UK launches international data transfer council](https://www.computerweekly.com/news/252512391/UK-launches-international-data-transfer-council)
-- [Subpostmaster campaign group to meet government over unfair compensation settlement](https://www.computerweekly.com/news/252512410/Subpostmaster-campaign-group-to-meet-government-over-unfair-compensation-settlement)
-- [CIO interview: Michael Cole, CTO, European Tour and Ryder Cup](https://www.computerweekly.com/news/252512290/CIO-interview-Michael-Cole-CTO-European-Tour-and-Ryder-Cup)
-- [Why watching your remote workers doesn’t work](https://www.computerweekly.com/ezine/Computer-Weekly/Why-watching-your-remote-workers-doesnt-work)
-- [Retailers mired by manual data integration](https://www.computerweekly.com/news/252512402/Retailers-mired-by-manual-data-integration)
-- [Hybrid cloud storage: The devils are in the details](https://www.computerweekly.com/opinion/Hybrid-Cloud-Storage-The-devils-are-in-the-details)
+- [More intel emerges on WhisperGate malware that hit Ukraine](https://www.computerweekly.com/news/252512491/More-intel-emerges-on-WhisperGate-malware-that-hit-Ukraine)
+- [Stakes raised for hybrid cloud as complexity challenges continue](https://www.computerweekly.com/feature/Stakes-raised-for-hybrid-cloud-as-complexity-challenges-continue)
+- [PwnKit bug endangers Linux distributions worldwide](https://www.computerweekly.com/news/252512486/PwnKit-bug-endangers-Linux-distributions-worldwide)
+- [MPs to debate landmark IoT security law](https://www.computerweekly.com/news/252512472/MPs-to-debate-landmark-IoT-security-law)
+- [Space junk revealed by University of Texas graph database](https://www.computerweekly.com/news/252512246/Space-junk-revealed-by-University-of-Texas-graph-database)
+- [Dutch education anticipates quantum technology](https://www.computerweekly.com/news/252512365/Dutch-education-anticipates-quantum-technology)
+- [Should IT leaders plan for the quantum computing era?](https://www.computerweekly.com/news/252512411/Should-IT-leaders-plan-for-the-quantum-computing-era)
+- [EY to open Neuro-Diverse Centre of Excellence in Manchester](https://www.computerweekly.com/news/252512427/EY-to-open-Neuro-Diverse-Centre-of-Excellence-in-Manchester)
+- [Demands on Fujitsu to contribute to £1bn Horizon scandal compensation costs](https://www.computerweekly.com/news/252512465/Demands-on-Fujitsu-to-contribute-to-1bn-Horizon-scandal-compensation-costs)
+- [IBM fourth-quarter results show hybrid refocus](https://www.computerweekly.com/news/252512466/IBM-fourth-quarter-results-show-hybrid-refocus)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

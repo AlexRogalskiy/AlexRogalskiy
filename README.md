@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Composable Infrastructure Market Projected to reach $5,102 million by 2023 at a CAGR of 52.6%](https://www.reddit.com/r/InformationTechnology/comments/sdwi7d/composable_infrastructure_market_projected_to/)
+- [Tablet for reading and editing low budget](https://www.reddit.com/r/InformationTechnology/comments/sdvi29/tablet_for_reading_and_editing_low_budget/)
 - [IT Major: Need a Research Topic](https://www.reddit.com/r/InformationTechnology/comments/sdjxi7/it_major_need_a_research_topic/)
 - [Can you get a software developer job with an Information Technology degree? If so, what was ur pathway to there?](https://www.reddit.com/r/InformationTechnology/comments/scu0v3/can_you_get_a_software_developer_job_with_an/)
 - [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
@@ -422,8 +424,6 @@
 - [What tool do you use for office space management?](https://www.reddit.com/r/InformationTechnology/comments/sbl5wu/what_tool_do_you_use_for_office_space_management/)
 - [Would IT be able to check whose phone it is, if its charging to a work laptop?](https://www.reddit.com/r/InformationTechnology/comments/sa52f8/would_it_be_able_to_check_whose_phone_it_is_if/)
 - [Suggestion on open-source ITAM services.](https://www.reddit.com/r/InformationTechnology/comments/s9z1bw/suggestion_on_opensource_itam_services/)
-- [Mime attachment](https://www.reddit.com/r/InformationTechnology/comments/s9gg1d/mime_attachment/)
-- [What should i learn?](https://www.reddit.com/r/InformationTechnology/comments/s8twna/what_should_i_learn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
-- [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
-- [Hellekson&#39;s Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
-- [Moral Machine](https://www.moralmachine.net/)
-- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
-- [Here We Go Again](https://seths.blog/2022/01/here-we-go-again-2/)
-- [Spotify is removing Neil Young’s music after falling out over Joe Rogan](https://techcrunch.com/2022/01/26/spotify-neil-young-joe-rogan/)
-- [Wordle-solving state of the art: all optimality results so far](https://www.poirrier.ca/notes/wordle-optimal/)
-- [Rancher Desktop 1.0.0 Has Arrived](https://www.suse.com/c/rancher_blog/rancher-desktop-1-0-0-has-arrived/)
-- [Washington state shuts down Amazon price-fixing program nationwide](https://www.atg.wa.gov/news/news-releases/ag-ferguson-investigation-shuts-down-amazon-price-fixing-program-nationwide)
+- [Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
+- [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
+- [I won the local election, but my township ignored the results and state law](https://twitter.com/gaughen/status/1486834885964832770)
+- [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
+- [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
+- [Prime Video Uses WebAssembly](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
+- [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
+- [Hyperseed &lpar;YC S21&rpar;, no-code for finance pros, is hiring a front-end engineer](https://www.ycombinator.com/companies/hyperseed/jobs/18szLSd-front-end-engineer-for-the-no-code-platform-for-finance-professionals)
+- [Show HN: An in-browser text editor to easily create static HTML](https://triplelog.com/writer/)
+- [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

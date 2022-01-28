@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Stolen Canadian payment card info as cheap as fancy lattes](https://www.itworldcanada.com/article/stolen-canadian-payment-card-info-as-cheap-as-fancy-lattes/471522)
+- [McAfee Enterprise and FireEye combo is now Trellix](https://www.itworldcanada.com/article/mcafee-enterprise-and-fireeye-combo-is-now-trellix/471609)
+- [Linux vulnerability allows any unprivileged user to gain full root privileges: Report](https://www.itworldcanada.com/article/linux-vulnerability-allows-any-unprivileged-user-to-gain-full-root-privileges-report/471615)
+- [LifeLabs joins UBC’s Drone Transport Initiative to support access to essential health services for BC First Nations communities](https://www.itworldcanada.com/article/lifelabs-joins-ubcs-drone-transport-initiative-to-support-access-to-essential-health-services-for-bc-first-nations-communities/471584)
+- [Hashtag Trending Jan. 27 – Google sued again; billion euro fine dismissed againt Intel; man sues Uber for hiring unqualified driver](https://www.itworldcanada.com/article/hashtag-trending-jan-27-google-sued-again-intel-loses-billion-euro-fine-man-sues-uber-for-hiring-unqualified-driver/471604)
 - [Organizations have to continuously manage privacy risks, says new KPMG global privacy leader](https://www.itworldcanada.com/article/organizations-have-to-continuously-manage-privacy-risks-says-new-kmpg-global-privacy-leader/471483)
 - [CRTC action leads to closing of dark web marketplace selling goods and services to cyber criminals](https://www.itworldcanada.com/article/crtc-shuts-down-dark-web-marketplace-selling-goods-and-services-to-cyber-criminals/471500)
 - [Data Privacy Week: Organizations see strong ROI on privacy spending, says Cisco](https://www.itworldcanada.com/article/data-privacy-week-organizations-see-strong-roi-on-privacy-spending-says-cisco/471488)
 - [Cyber Security Today, Jan, 26, 2022 – Data Privacy week reminder, corporate Instagram accounts held for ransom, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-26-2022-data-privacy-week-reminder-corporate-instagram-accounts-held-for-ransom-and-more/471441)
 - [Hashtag Trending Jan 26 – Apple awards $100K for bug hunting; Google to block targeted ads for teens; Nvidia may leave its Arm deal](https://www.itworldcanada.com/article/hashtag-trending-jan-26-apple-awards-100k-for-bug-hunting-google-to-block-targeted-ads-for-teens-nvidia-may-leave-its-arm-deal/471478)
-- [Vector Institute launches ML course for home caregivers and mothers on mat leave](https://www.itworldcanada.com/article/vector-institute-launches-ml-course-for-home-caregivers-and-mothers-on-mat-leave/471455)
-- [York Region’s new investment aims to attract global tech firms and create new jobs in the region](https://www.itworldcanada.com/article/york-regions-new-investment-aims-to-attract-global-tech-firms-and-create-new-jobs-in-the-region/471425)
-- [Ontario minister of digital government encourages municipal collaboration with province](https://www.itworldcanada.com/article/ontario-minister-of-digital-government-encourages-municipal-collaboration-with-province/471276)
-- [Coffee Briefing Jan. 25, 2022 – Chrome API for interest-based ads.; SAS Hackathon 2022 Kickoff; G Suite legacy free edition ending soon; and more](https://www.itworldcanada.com/article/coffee-briefing-jan-25-2022-chrome-api-for-interest-based-ads-sas-hackathon-2022-kickoff-g-suite-legacy-free-edition-ending-soon-and-more/471297)
-- [Global Affairs Canada still recovering after ‘cyber incident,’ government says](https://www.itworldcanada.com/article/global-affairs-canada-still-recovering-after-cyber-incident-government-says/471346)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

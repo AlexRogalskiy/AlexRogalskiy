@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Women’s Ashes Test match, day one: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/27/womens-ashes-aus-vs-eng-live-cricket-test-match-day-one-australia-v-england-women-latest-updates-scores-news)
-- [Stephen Breyer to retire from supreme court, giving Biden chance to pick liberal judge](https://www.theguardian.com/law/2022/jan/26/stephen-breyer-retires-supreme-court-biden-pick-justice)
-- [Battered Biden gets opportunity to change political narrative as Breyer retires](https://www.theguardian.com/us-news/2022/jan/26/joe-biden-stephen-breyer-retires-supreme-court)
-- [Ozzie, the world’s oldest male gorilla, dies aged 61](https://www.theguardian.com/us-news/2022/jan/26/ozzie-atlanta-zoo-worlds-oldest-male-gorilla-dies)
-- [Covid-stricken Australian aid ship makes contactless delivery to virus-free Tonga](https://www.theguardian.com/world/2022/jan/27/covid-stricken-australian-aid-ship-makes-contactless-delivery-to-virus-free-tonga)
-- [Saudi tourist trampled to death by elephant on safari in Uganda](https://www.theguardian.com/world/2022/jan/27/elephant-kills-saudi-tourist-viewing-wildlife-in-uganda)
-- [Two men taken to hospital after double shooting near Wigan](https://www.theguardian.com/uk-news/2022/jan/27/two-men-taken-to-hospital-after-double-shooting-near-wigan)
-- [Powell and Pooran blast West Indies to 20-run victory over England in third T20](https://www.theguardian.com/sport/2022/jan/27/powell-and-pooran-blast-west-indies-to-21-run-victory-over-england-in-third-t20)
-- [Tesla sees record profit as electric car deliveries soar](https://www.theguardian.com/technology/2022/jan/26/tesla-elon-musk-profit-electric-car-deliveries-soar)
-- [Record number of Black and Asian students accepted at top UK universities](https://www.theguardian.com/education/2022/jan/27/record-number-of-black-and-asian-students-accepted-at-top-uk-universities)
+- [Women’s Ashes Test match, day two: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/28/womens-ashes-aus-vs-eng-live-cricket-test-match-day-two-australia-v-england-women-latest-updates-scores-news)
+- [North Korea confirms barrage of missile tests as Kim Jong-un visits arms factory](https://www.theguardian.com/world/2022/jan/28/north-korea-confirms-barrage-of-missile-tests-as-kim-jong-un-visits-arms-factory)
+- [Dozens killed in Tropical Storm Ana as southern Africa braces for more wild weather](https://www.theguardian.com/world/2022/jan/28/dozens-killed-in-tropical-storm-ana-as-southern-africa-braces-for-more-wild-weather)
+- [Alisson sent off twice in Brazil draw with Ecuador – and saved both times by VAR](https://www.theguardian.com/football/2022/jan/28/alisson-sent-off-twice-in-brazil-draw-with-ecuador-and-saved-both-times-by-var)
+- [Russia remains open but ‘not optimistic’ over Ukraine talks](https://www.theguardian.com/world/2022/jan/27/russia-remains-open-but-not-optimistic-over-ukraine-talks)
+- [Brit awards 2022: Inflo is first non-white winner of producer of the year](https://www.theguardian.com/music/2022/jan/28/brit-awards-2022-inflo-is-first-non-white-winner-of-producer-of-the-year)
+- [Lifting England Covid rules while 3bn people unvaccinated reckless – experts](https://www.theguardian.com/world/2022/jan/28/uk-covid-vaccine-stance-global-vaccination-levels-reckless-experts)
+- [Teenager charged over suspected hate crime after Jewish men attacked](https://www.theguardian.com/uk-news/2022/jan/27/teenager-arrested-after-two-jewish-men-attacked-in-north-london)
+- [McDonald’s new ‘menu hack’ includes a ‘Land, Air &amp; Sea’ burger](https://www.theguardian.com/business/2022/jan/27/mcdonalds-new-menu-land-air-sea-burger)
+- [Jacinda Ardern’s poll rating at lowest since becoming New Zealand’s PM](https://www.theguardian.com/world/2022/jan/28/jacinda-arderns-poll-rating-at-lowest-since-becoming-new-zealands-pm)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Enterprise Guide to Digital Transformation](https://www.informationweek.com/big-data/enterprise-guide-to-digital-transformation)
+- [Litigation vs Google May Cause Ripples in Data Collection](https://www.informationweek.com/big-data/litigation-vs-google-may-cause-ripples-in-data-collection)
+- [Watson Health Sale Signals More Pragmatic AI for Healthcare](https://www.informationweek.com/big-data/watson-health-sale-signals-more-pragmatic-ai-for-healthcare)
 - [9 Hottest IT Certifications Right Now](https://www.informationweek.com/strategic-cio/9-hottest-it-certifications-right-now)
 - [Countering Disruption by Making Asset Management Systems Smarter](https://www.informationweek.com/big-data/countering-disruption-by-making-asset-management-systems-smarter)
 - [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
@@ -376,9 +379,6 @@
 - [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
 - [How AI and Data Can Help Retail&#39;s Ongoing Pandemic Challenges](https://www.informationweek.com/big-data/how-ai-and-data-can-help-retail-s-ongoing-pandemic-challenges)
 - [Why You Should Have an AI &amp; Ethics Board](https://www.informationweek.com/big-data/why-you-should-have-an-ai-ethics-board)
-- [Nvidia, Others Hammer Out Tomorrow’s Cloud-Native Supercomputers](https://www.informationweek.com/cloud/nvidia-others-hammer-out-tomorrows-cloud-native-supercomputers)
-- [Transitioning IT Careers: How &lpar;and Where&rpar; to Stand Out Right Now](https://www.informationweek.com/strategic-cio/transitioning-it-careers-how-and-where-to-stand-out-right-now)
-- [A Safety Inquiry on 5G Deployments at US Airports Balloons](https://www.informationweek.com/it-life/a-safety-inquiry-on-5g-deployments-at-us-airports-balloons)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

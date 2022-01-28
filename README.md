@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [More intel emerges on WhisperGate malware that hit Ukraine](https://www.computerweekly.com/news/252512491/More-intel-emerges-on-WhisperGate-malware-that-hit-Ukraine)
-- [Stakes raised for hybrid cloud as complexity challenges continue](https://www.computerweekly.com/feature/Stakes-raised-for-hybrid-cloud-as-complexity-challenges-continue)
-- [PwnKit bug endangers Linux distributions worldwide](https://www.computerweekly.com/news/252512486/PwnKit-bug-endangers-Linux-distributions-worldwide)
-- [MPs to debate landmark IoT security law](https://www.computerweekly.com/news/252512472/MPs-to-debate-landmark-IoT-security-law)
-- [Space junk revealed by University of Texas graph database](https://www.computerweekly.com/news/252512246/Space-junk-revealed-by-University-of-Texas-graph-database)
-- [Dutch education anticipates quantum technology](https://www.computerweekly.com/news/252512365/Dutch-education-anticipates-quantum-technology)
-- [Should IT leaders plan for the quantum computing era?](https://www.computerweekly.com/news/252512411/Should-IT-leaders-plan-for-the-quantum-computing-era)
-- [EY to open Neuro-Diverse Centre of Excellence in Manchester](https://www.computerweekly.com/news/252512427/EY-to-open-Neuro-Diverse-Centre-of-Excellence-in-Manchester)
-- [Demands on Fujitsu to contribute to £1bn Horizon scandal compensation costs](https://www.computerweekly.com/news/252512465/Demands-on-Fujitsu-to-contribute-to-1bn-Horizon-scandal-compensation-costs)
-- [IBM fourth-quarter results show hybrid refocus](https://www.computerweekly.com/news/252512466/IBM-fourth-quarter-results-show-hybrid-refocus)
+- [CISOs must get out in front of Ukraine cyber crisis, says NCSC](https://www.computerweekly.com/news/252512559/CISOs-must-get-out-in-front-of-Ukraine-cyber-crisis-says-NCSC)
+- [SAP full-year 2021: Revenue nudges up 1%, cloud growth up 17%](https://www.computerweekly.com/news/252512565/SAP-full-year-2021-revenue-nudges-up-1-cloud-growth-up-17)
+- [Lack of tech skills is delaying projects](https://www.computerweekly.com/news/252512560/Lack-of-tech-skills-is-delaying-projects)
+- [Novel phishing campaign highlights need for MFA, says Microsoft](https://www.computerweekly.com/news/252512554/Novel-phishing-campaign-highlights-need-for-MFA-says-Microsoft)
+- [Microsoft uses Q2 2022 earnings to delve into metaverse](https://www.computerweekly.com/news/252512557/Microsoft-uses-Q2-2022-earnings-to-delve-into-Metaverse)
+- [Nightmare Log4Shell scenario averted by prompt, professional action](https://www.computerweekly.com/news/252512548/Nightmare-Log4Shell-scenario-averted-by-prompt-professional-action)
+- [Bank account switching accelerates as consumers choose digital services](https://www.computerweekly.com/news/252512553/Bank-account-switching-accelerates-as-consumers-choose-digital-services)
+- [Refrigeration firm freezes legacy backup for one Cohesity cluster](https://www.computerweekly.com/feature/Refrigeration-firm-freezes-legacy-backup-for-one-Cohesity-cluster)
+- [Imperial College London embarks on cloud security research push with Abu Dhabi tech hub](https://www.computerweekly.com/news/252512537/Imperial-College-London-embarks-on-cloud-datacentre-security-research-push-with-Abu-Dhabi-tech-hub)
+- [Navigating PIPL: European businesses plot their next steps into China](https://www.computerweekly.com/feature/Navigating-PIPL-European-businesses-plot-their-next-steps-into-China)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

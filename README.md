@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SpaceX winner ‘insanely disappointed’ he had to give away his trip to space](https://ktla.com/news/nationworld/spacex-winner-insanely-disappointed-he-had-to-give-away-his-trip-to-space/)
-- [Ants in Panama Are Masters of Damage Control](https://www.atlasobscura.com/articles/panama-azteca-ants-tree-damage)
-- [Three things Web3 should fix in 2022](https://www.platformer.news/p/three-things-web3-should-fix-in-2022)
-- [Why sometimes harder to get a job you’re ‘overqualified’ for](https://www.fastcompany.com/90713884/why-its-sometimes-harder-to-get-a-job-youre-overqualified-for)
-- [AI identifies wounded wild animals and poachers in camera trap footage](https://www.newscientist.com/article/2305616-ai-can-spot-wounded-wild-animals-and-poachers-in-camera-trap-footage/)
-- [The Rise of ClickOps](https://www.lastweekinaws.com/blog/clickops/)
-- [Brian Kernighan on the Origins of Unix](https://lwn.net/Articles/881431/)
-- [Ada/Spark Crate of the Year 2021 Winners Announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2021-winners-announced)
-- [The disinformation playbook: industry manipulates science-policy process &lpar;2021&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8651604/)
-- [Kasper: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel](https://www.vusec.net/projects/kasper/)
+- [Convert wordpress website to Android and iOS apps](https://twinr.dev/how-to-turn-your-wordpress-website-into-a-mobile-app/)
+- [People don&#39;t work as much as you think](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think)
+- [SpaceX to launch one flight a week in 2022](https://www.theverge.com/2022/1/27/22905029/spacex-nasa-52-launches-record-2022)
+- [General Dynamics X-62 VISTA the AI warplane](https://www.youtube.com/watch?v=y1V-ljdHO_0)
+- [Blockchain Could Solve the Problem of Digital Identity](https://time.com/6142810/proof-of-humanity/)
+- [Spotify support buckles under complaints from angry Neil Young fans](https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/)
+- [Handling Argc==0 in the Kernel](https://lwn.net/SubscriberLink/882799/7523e0f3744660ec/)
+- [Create faster capture system for yourself [audio]](https://open.spotify.com/episode/5jFIGeCwgVnE2Dy7I7nrwY)
+- [Army wife uses AirTags to track shady movers](https://appleinsider.com/articles/22/01/19/army-wife-uses-airtag-to-track-late-moving-truck-driver-during-a-relocation)
+- [Ask HN: Projects vs. Products](https://news.ycombinator.com/item?id=30122862)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

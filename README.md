@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [One year on, developers still love Apple Silicon Macs](https://www.computerworld.com/article/3648455/one-year-on-developers-still-love-apple-silicon-macs.html#tk.rss_all)
+- [Business execs see hiring as top issue in &#39;22, even as pandemic wanes](https://www.computerworld.com/article/3648337/business-execs-see-hiring-as-top-issue-in-22-even-as-pandemic-wanes.html#tk.rss_all)
+- [Why e-commerce search is so bad and what may soon fix it](https://www.computerworld.com/article/3648411/why-e-commerce-search-is-so-bad-and-what-may-soon-fix-it.html#tk.rss_all)
+- [42 ways Google Assistant can make you more efficient on Android](https://www.computerworld.com/article/3255009/google-assistant-efficiency-tips-android.html#tk.rss_all)
 - [Podcast: Intel’s $20 billion investment into Ohio chipmaking facility, plus chip shortage updates](https://www.computerworld.com/article/3648350/podcast-intels-20-billion-investment-into-ohio-chipmaking-facility-plus-chip-shortage-updates.html#tk.rss_all)
 - [Windows 11 and Android: Rethinking the PC-phone connection](https://www.computerworld.com/article/3648334/windows-11-and-android-rethinking-the-pc-phone-connection.html#tk.rss_all)
 - [Jamf CEO weighs in on Apple deployments and enterprise security](https://www.computerworld.com/article/3648589/jamf-ceo-weighs-in-on-apple-deployments-and-enterprise-security.html#tk.rss_all)
 - [Test your outrage over Google&#39;s new Topics advertising system](https://www.computerworld.com/article/3647763/google-topics-advertising.html#tk.rss_all)
 - [It’s time to talk about time](https://www.computerworld.com/article/3648075/it-s-time-to-talk-about-time.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [About that &#39;alarming&#39; chip shortage — don&#39;t count on new fab plants to help quickly](https://www.computerworld.com/article/3648349/about-that-alarming-chip-shortage-dont-count-on-new-fab-plants-to-help-quickly.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [BrandPost: How Wi-Fi 6 Impacts Your Business Network](https://www.computerworld.com/article/3648348/how-wi-fi-6-impacts-your-business-network.html#tk.rss_all)
-- [Dropbox, Microsoft OneDrive send out warnings to macOS users](https://www.computerworld.com/article/3648044/dropbox-microsoft-onedrive-send-out-warnings-to-macos-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

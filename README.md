@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NRF review: What’s in store for retail tech in 2022?](https://www.computerweekly.com/feature/NRF-review-whats-in-store-for-retail-tech-in-2022)
+- [Microsoft gives Nasa a lesson in timeshare optimisation](https://www.computerweekly.com/news/252512622/Microsoft-gives-NASA-a-lesson-in-timeshare-optimisation)
+- [British court rules in HP’s favour in Mike Lynch fraud case](https://www.computerweekly.com/news/252512620/British-court-rules-in-HPs-favour-in-Mike-Lynch-fraud-case)
+- [Cyber skills gap affecting data privacy practice, finds ISACA](https://www.computerweekly.com/news/252512597/Cyber-skills-gap-affecting-data-privacy-practice-finds-ISACA)
+- [Maidstone and Tunbridge Wells NHS Trust advances digital-first strategy](https://www.computerweekly.com/feature/Maidstone-and-Tunbridge-Wells-NHS-Trust-advances-digital-first-strategy)
+- [Leeds NHS Trust moves millions of patient records to the Microsoft Azure public cloud](https://www.computerweekly.com/news/252512591/Leeds-NHS-Trust-moves-millions-of-patient-records-to-the-Microsoft-Azure-public-cloud)
 - [CISOs must get out in front of Ukraine cyber crisis, says NCSC](https://www.computerweekly.com/news/252512559/CISOs-must-get-out-in-front-of-Ukraine-cyber-crisis-says-NCSC)
 - [SAP full-year 2021: Revenue nudges up 1%, cloud growth up 17%](https://www.computerweekly.com/news/252512565/SAP-full-year-2021-revenue-nudges-up-1-cloud-growth-up-17)
 - [Lack of tech skills is delaying projects](https://www.computerweekly.com/news/252512560/Lack-of-tech-skills-is-delaying-projects)
 - [Novel phishing campaign highlights need for MFA, says Microsoft](https://www.computerweekly.com/news/252512554/Novel-phishing-campaign-highlights-need-for-MFA-says-Microsoft)
-- [Microsoft uses Q2 2022 earnings to delve into metaverse](https://www.computerweekly.com/news/252512557/Microsoft-uses-Q2-2022-earnings-to-delve-into-Metaverse)
-- [Nightmare Log4Shell scenario averted by prompt, professional action](https://www.computerweekly.com/news/252512548/Nightmare-Log4Shell-scenario-averted-by-prompt-professional-action)
-- [Bank account switching accelerates as consumers choose digital services](https://www.computerweekly.com/news/252512553/Bank-account-switching-accelerates-as-consumers-choose-digital-services)
-- [Refrigeration firm freezes legacy backup for one Cohesity cluster](https://www.computerweekly.com/feature/Refrigeration-firm-freezes-legacy-backup-for-one-Cohesity-cluster)
-- [Imperial College London embarks on cloud security research push with Abu Dhabi tech hub](https://www.computerweekly.com/news/252512537/Imperial-College-London-embarks-on-cloud-datacentre-security-research-push-with-Abu-Dhabi-tech-hub)
-- [Navigating PIPL: European businesses plot their next steps into China](https://www.computerweekly.com/feature/Navigating-PIPL-European-businesses-plot-their-next-steps-into-China)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

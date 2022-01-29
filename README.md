@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Meta builds AI Research SuperCluster for future AI and the metaverse](https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730)
+- [Gang still posting data allegedly stolen from Saskatoon airport authority](https://www.itworldcanada.com/article/gang-still-posting-data-allegedly-stolen-from-saskatoon-airport-authority/471756)
+- [auticon Canada kicks off its 2022 tech recruitment campaign for adults with autism](https://www.itworldcanada.com/article/auticon-canada-kicks-off-its-2022-tech-recruitment-campaign-for-adults-with-autism/471705)
+- [Data Privacy Day message to companies: Don’t just write privacy policies, enforce them](https://www.itworldcanada.com/article/data-privacy-day-message-to-companies-dont-just-write-privacy-policies-enforce-them/471709)
+- [Cyber Security Today, Jan 28, 2022 – MFA spoils a phishing scam, a Zoom con discovered and another Log4j attacker unveiled](https://www.itworldcanada.com/article/cyber-security-today-jan-28-2022-mfa-spoils-a-phishing-scam-a-zoom-con-discovered-and-another-log4j-attacker-unveiled/471693)
+- [Hashtag Trending Jan 28 – Amazon disbands Twitter campaign; Spotify removes Neil Young’s music; anti-work subreddit private](https://www.itworldcanada.com/article/hashtag-trending-jan-28-amazon-disbands-twitter-campaign-spotify-removes-neil-youngs-music-anti-work-subreddit-private/471716)
 - [Stolen Canadian payment card info as cheap as fancy lattes](https://www.itworldcanada.com/article/stolen-canadian-payment-card-info-as-cheap-as-fancy-lattes/471522)
 - [McAfee Enterprise and FireEye combo is now Trellix](https://www.itworldcanada.com/article/mcafee-enterprise-and-fireeye-combo-is-now-trellix/471609)
 - [Linux vulnerability allows any unprivileged user to gain full root privileges: Report](https://www.itworldcanada.com/article/linux-vulnerability-allows-any-unprivileged-user-to-gain-full-root-privileges-report/471615)
 - [LifeLabs joins UBC’s Drone Transport Initiative to support access to essential health services for BC First Nations communities](https://www.itworldcanada.com/article/lifelabs-joins-ubcs-drone-transport-initiative-to-support-access-to-essential-health-services-for-bc-first-nations-communities/471584)
-- [Hashtag Trending Jan. 27 – Google sued again; billion euro fine dismissed againt Intel; man sues Uber for hiring unqualified driver](https://www.itworldcanada.com/article/hashtag-trending-jan-27-google-sued-again-intel-loses-billion-euro-fine-man-sues-uber-for-hiring-unqualified-driver/471604)
-- [Organizations have to continuously manage privacy risks, says new KPMG global privacy leader](https://www.itworldcanada.com/article/organizations-have-to-continuously-manage-privacy-risks-says-new-kmpg-global-privacy-leader/471483)
-- [CRTC action leads to closing of dark web marketplace selling goods and services to cyber criminals](https://www.itworldcanada.com/article/crtc-shuts-down-dark-web-marketplace-selling-goods-and-services-to-cyber-criminals/471500)
-- [Data Privacy Week: Organizations see strong ROI on privacy spending, says Cisco](https://www.itworldcanada.com/article/data-privacy-week-organizations-see-strong-roi-on-privacy-spending-says-cisco/471488)
-- [Cyber Security Today, Jan, 26, 2022 – Data Privacy week reminder, corporate Instagram accounts held for ransom, and more](https://www.itworldcanada.com/article/cyber-security-today-jan-26-2022-data-privacy-week-reminder-corporate-instagram-accounts-held-for-ransom-and-more/471441)
-- [Hashtag Trending Jan 26 – Apple awards $100K for bug hunting; Google to block targeted ads for teens; Nvidia may leave its Arm deal](https://www.itworldcanada.com/article/hashtag-trending-jan-26-apple-awards-100k-for-bug-hunting-google-to-block-targeted-ads-for-teens-nvidia-may-leave-its-arm-deal/471478)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

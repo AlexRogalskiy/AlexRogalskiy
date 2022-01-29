@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Harddrive swap unsuccessful](https://www.reddit.com/r/InformationTechnology/comments/sewx9s/harddrive_swap_unsuccessful/)
+- [Digital Signature Market Size, Share and Global Market Forecast to 2026](https://www.reddit.com/r/InformationTechnology/comments/sent8k/digital_signature_market_size_share_and_global/)
+- [Cybersecurity Market Witness the Growth of $345.4 Billion by 2026 at a CAGR of 9.7%](https://www.reddit.com/r/InformationTechnology/comments/sel7cg/cybersecurity_market_witness_the_growth_of_3454/)
 - [Composable Infrastructure Market Projected to reach $5,102 million by 2023 at a CAGR of 52.6%](https://www.reddit.com/r/InformationTechnology/comments/sdwi7d/composable_infrastructure_market_projected_to/)
 - [Tablet for reading and editing low budget](https://www.reddit.com/r/InformationTechnology/comments/sdvi29/tablet_for_reading_and_editing_low_budget/)
 - [IT Major: Need a Research Topic](https://www.reddit.com/r/InformationTechnology/comments/sdjxi7/it_major_need_a_research_topic/)
@@ -421,9 +424,6 @@
 - [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
 - [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
 - [Stressing about an IT internship interview for one of the FANG companies](https://www.reddit.com/r/InformationTechnology/comments/sbu5ul/stressing_about_an_it_internship_interview_for/)
-- [What tool do you use for office space management?](https://www.reddit.com/r/InformationTechnology/comments/sbl5wu/what_tool_do_you_use_for_office_space_management/)
-- [Would IT be able to check whose phone it is, if its charging to a work laptop?](https://www.reddit.com/r/InformationTechnology/comments/sa52f8/would_it_be_able_to_check_whose_phone_it_is_if/)
-- [Suggestion on open-source ITAM services.](https://www.reddit.com/r/InformationTechnology/comments/s9z1bw/suggestion_on_opensource_itam_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

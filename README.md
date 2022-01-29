@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
-- [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
-- [I won the local election, but my township ignored the results and state law](https://twitter.com/gaughen/status/1486834885964832770)
-- [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
-- [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
-- [Prime Video Uses WebAssembly](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
-- [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
-- [Hyperseed &lpar;YC S21&rpar;, no-code for finance pros, is hiring a front-end engineer](https://www.ycombinator.com/companies/hyperseed/jobs/18szLSd-front-end-engineer-for-the-no-code-platform-for-finance-professionals)
-- [Show HN: An in-browser text editor to easily create static HTML](https://triplelog.com/writer/)
-- [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
+- [What if all workers wrote software, not just the geek elite?](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
+- [Nimble &lpar;YC S17&rpar; Is Hiring a QA Engineer &lpar;F/T and Remote&rpar;](https://news.ycombinator.com/item?id=30122645)
+- [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
+- [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
+- [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
+- [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- [Rebranding FLoC Without Addressing Key Privacy Issues](https://brave.com/web-standards-at-brave/7-googles-topics-api/)
+- [Prioritization, multiple work streams, unplanned work](https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/)
+- [Can a biologist fix a radio?–Or, what I learned while studying apoptosis &lpar;2002&rpar; [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
+- [The Battle for the World’s Most Powerful Cyberweapon](https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

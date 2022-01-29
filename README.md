@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What to Expect from Network as a Service &lpar;NaaS&rpar; Technology](https://www.informationweek.com/cloud/what-to-expect-from-network-as-a-service-naas-technology)
+- [Killware: The Most Dangerous Evolution of Ransomware?](https://www.informationweek.com/security-and-risk-strategy/killware-the-most-dangerous-evolution-of-ransomware-)
 - [Enterprise Guide to Digital Transformation](https://www.informationweek.com/big-data/enterprise-guide-to-digital-transformation)
 - [Litigation vs Google May Cause Ripples in Data Collection](https://www.informationweek.com/big-data/litigation-vs-google-may-cause-ripples-in-data-collection)
 - [Watson Health Sale Signals More Pragmatic AI for Healthcare](https://www.informationweek.com/big-data/watson-health-sale-signals-more-pragmatic-ai-for-healthcare)
@@ -377,8 +379,6 @@
 - [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
 - [25 of Our Most Popular IT Stories From 2021](https://www.informationweek.com/cloud/25-of-our-most-popular-it-stories-from-2021)
 - [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
-- [How AI and Data Can Help Retail&#39;s Ongoing Pandemic Challenges](https://www.informationweek.com/big-data/how-ai-and-data-can-help-retail-s-ongoing-pandemic-challenges)
-- [Why You Should Have an AI &amp; Ethics Board](https://www.informationweek.com/big-data/why-you-should-have-an-ai-ethics-board)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

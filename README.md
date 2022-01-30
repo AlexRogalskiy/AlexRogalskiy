@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What if all workers wrote software, not just the geek elite?](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
-- [Nimble &lpar;YC S17&rpar; Is Hiring a QA Engineer &lpar;F/T and Remote&rpar;](https://news.ycombinator.com/item?id=30122645)
-- [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
-- [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
-- [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
-- [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
-- [Rebranding FLoC Without Addressing Key Privacy Issues](https://brave.com/web-standards-at-brave/7-googles-topics-api/)
-- [Prioritization, multiple work streams, unplanned work](https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/)
-- [Can a biologist fix a radio?–Or, what I learned while studying apoptosis &lpar;2002&rpar; [pdf]](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
-- [The Battle for the World’s Most Powerful Cyberweapon](https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html)
+- [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
+- [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
+- [PostgreSQL used fsync incorrectly for 20 years &lpar;2019&rpar; [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
+- [A pure Go embedded SQL database](https://gitlab.com/cznic/ql)
+- [Should I build a Tesla coil for a science fair?](https://www.teslacoildesign.com/appendix.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Black, the uncompromising Python code formatter, is stable](https://pypi.org/project/black/)
+- [Plant-based epoxy enables recyclable carbon fiber](https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html)
+- [Despite the hype, iPhone security no match for NSO spyware &lpar;2021&rpar;](https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

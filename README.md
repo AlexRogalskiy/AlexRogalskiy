@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT must-haves for landing a job?](https://www.reddit.com/r/InformationTechnology/comments/sfbr6m/it_musthaves_for_landing_a_job/)
 - [Harddrive swap unsuccessful](https://www.reddit.com/r/InformationTechnology/comments/sewx9s/harddrive_swap_unsuccessful/)
 - [Digital Signature Market Size, Share and Global Market Forecast to 2026](https://www.reddit.com/r/InformationTechnology/comments/sent8k/digital_signature_market_size_share_and_global/)
 - [Cybersecurity Market Witness the Growth of $345.4 Billion by 2026 at a CAGR of 9.7%](https://www.reddit.com/r/InformationTechnology/comments/sel7cg/cybersecurity_market_witness_the_growth_of_3454/)
@@ -423,7 +424,6 @@
 - [Can you get a software developer job with an Information Technology degree? If so, what was ur pathway to there?](https://www.reddit.com/r/InformationTechnology/comments/scu0v3/can_you_get_a_software_developer_job_with_an/)
 - [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
 - [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
-- [Stressing about an IT internship interview for one of the FANG companies](https://www.reddit.com/r/InformationTechnology/comments/sbu5ul/stressing_about_an_it_internship_interview_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

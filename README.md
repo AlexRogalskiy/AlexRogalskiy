@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Women’s Ashes Test match, day three: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/29/womens-ashes-aus-vs-eng-live-cricket-test-match-day-three-australia-v-england-women-latest-updates-scores-news)
-- [Boris Johnson to visit Ukraine region and hold call with Putin next week](https://www.theguardian.com/world/2022/jan/29/boris-johnson-to-visit-ukraine-region-and-hold-call-with-putin-next-week)
-- [Human Nurture review – urgent tale of race, identity and privilege](https://www.theguardian.com/stage/2022/jan/28/human-nurture-review-ryan-calais-cameron)
-- [Sue Gray report: redacted version is imminent, say government sources](https://www.theguardian.com/politics/2022/jan/28/sue-gray-report-fears-indefinite-delay-met-intervention-partygate)
-- [Tech entrepreneur Mike Lynch can be extradited to US, rules Priti Patel](https://www.theguardian.com/law/2022/jan/28/tech-entrepreneur-mike-lynch-can-be-extradited-to-us-rules-priti-patel)
-- [Frank Lampard in line to become new Everton manager after latest interview](https://www.theguardian.com/football/2022/jan/28/frank-lampard-set-to-be-handed-managers-job-at-everton)
-- [Three people found dead at home in Perth’s south-east](https://www.theguardian.com/australia-news/2022/jan/29/western-australia-three-people-found-dead-at-home-in-perths-south-east)
-- [Egan Bernal says he had 95% chance of becoming paraplegic after crash](https://www.theguardian.com/sport/2022/jan/28/cycling-egan-bernal-training-crash-injuries-update)
-- [Michael Avenatti questions Stormy Daniels about ghosts at his fraud trial](https://www.theguardian.com/us-news/2022/jan/28/michael-avenatti-fraud-trial-stormy-daniels-ghosts)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2022/jan/28/twenty-photographs-of-the-week)
+- [Women’s Ashes Test match, day four: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/30/womens-ashes-aus-vs-eng-live-cricket-test-match-day-four-australia-v-england-women-latest-updates-scores-news)
+- [Thousands join protest in Canada against Covid vaccine mandates](https://www.theguardian.com/world/2022/jan/30/thousands-join-protest-in-canada-against-covid-vaccine-mandates)
+- [How mighty will Amazon be after the pandemic?](https://www.theguardian.com/technology/2022/jan/30/how-mighty-will-amazon-be-after-the-pandemic)
+- [Parallel lines: New looks and lessons from corduroy](https://www.theguardian.com/fashion/2022/jan/29/parallel-lines-new-looks-and-lessons-from-corduroy)
+- [England level T20 series in West Indies after Moeen’s captain’s knock](https://www.theguardian.com/sport/2022/jan/29/england-level-t20-series-in-west-indies-after-moeens-captains-knock)
+- [Djokovic, Federer and now Nadal – the big three chasing a glorious 21st | Simon Cambers](https://www.theguardian.com/sport/blog/2022/jan/29/djokovic-federer-and-now-nadal-the-big-three-chasing-a-glorious-21st)
+- [West Ham’s offers for Kalvin Phillips and Raphinha turned down by Leeds](https://www.theguardian.com/football/2022/jan/29/west-ham-leeds-reject-raphinha-bid)
+- [Boris Johnson’s chief of staff ‘spent day watching cricket’ just before Kabul fell](https://www.theguardian.com/uk-news/2022/jan/29/boris-johnsons-chief-of-staff-spent-day-watching-cricket-just-before-kabul-fell)
+- [Boris Johnson and Rishi Sunak double down on national insurance rise](https://www.theguardian.com/money/2022/jan/29/boris-johnson-and-rishi-sunak-double-down-on-national-insurance-rise)
+- [UK ready to commit extra forces to Nato allies as Russia tension mounts](https://www.theguardian.com/world/2022/jan/29/uk-ready-to-commit-extra-forces-to-nato-allies-as-russia-tension-mounts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

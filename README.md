@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Convert wordpress website to Android and iOS apps](https://twinr.dev/how-to-turn-your-wordpress-website-into-a-mobile-app/)
-- [People don&#39;t work as much as you think](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think)
-- [SpaceX to launch one flight a week in 2022](https://www.theverge.com/2022/1/27/22905029/spacex-nasa-52-launches-record-2022)
-- [General Dynamics X-62 VISTA the AI warplane](https://www.youtube.com/watch?v=y1V-ljdHO_0)
-- [Blockchain Could Solve the Problem of Digital Identity](https://time.com/6142810/proof-of-humanity/)
-- [Spotify support buckles under complaints from angry Neil Young fans](https://arstechnica.com/tech-policy/2022/01/spotify-support-buckles-under-complaints-from-angry-neil-young-fans/)
-- [Handling Argc==0 in the Kernel](https://lwn.net/SubscriberLink/882799/7523e0f3744660ec/)
-- [Create faster capture system for yourself [audio]](https://open.spotify.com/episode/5jFIGeCwgVnE2Dy7I7nrwY)
-- [Army wife uses AirTags to track shady movers](https://appleinsider.com/articles/22/01/19/army-wife-uses-airtag-to-track-late-moving-truck-driver-during-a-relocation)
-- [Ask HN: Projects vs. Products](https://news.ycombinator.com/item?id=30122862)
+- [Hackers are now dropping malware into SSD drives through firmware updates](https://cybernews.com/security/hackers-are-now-dropping-malware-into-ssd-drives-through-firmware-updates/)
+- [Behind the Scenes of Barrett-Jackson Scottsdale the ‘Super Bowl’ of Car Auctions](https://www.thedrive.com/news/44075/behind-the-scenes-secrets-of-barrett-jackson-scottsdale-the-super-bowl-of-car-auctions)
+- [Thousands opposed to Covid-19 rules converge on Parliament Hill](https://www.cbc.ca/news/politics/truck-convoy-protest-some-key-players-1.6332312)
+- [Do you want to help build a Startup City?](https://www.buildprospera.com)
+- [Vivliostyle CSS Typesetting](https://vivliostyle.org/)
+- [Why Germany isn&#39;t sending weapons to Ukraine](https://www.bbc.com/news/world-europe-60155002)
+- [Mandatory Olympics iOS and Android apps are spying on athletes for China](https://appleinsider.com/articles/22/01/28/mandatory-olympics-ios-and-android-apps-are-spying-on-athletes-for-china)
+- [Piasecki PA-97: four helicopters bolted to a blimp](https://en.wikipedia.org/wiki/Piasecki_PA-97)
+- [backend.sql and frontend.js = ♥](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
+- [The IRS website will soon require facial recognition to log in to your account](https://www.cnn.com/2022/01/27/tech/facial-recognition-irs-idme/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

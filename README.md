@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hackers are now dropping malware into SSD drives through firmware updates](https://cybernews.com/security/hackers-are-now-dropping-malware-into-ssd-drives-through-firmware-updates/)
-- [Behind the Scenes of Barrett-Jackson Scottsdale the ‘Super Bowl’ of Car Auctions](https://www.thedrive.com/news/44075/behind-the-scenes-secrets-of-barrett-jackson-scottsdale-the-super-bowl-of-car-auctions)
-- [Thousands opposed to Covid-19 rules converge on Parliament Hill](https://www.cbc.ca/news/politics/truck-convoy-protest-some-key-players-1.6332312)
-- [Do you want to help build a Startup City?](https://www.buildprospera.com)
-- [Vivliostyle CSS Typesetting](https://vivliostyle.org/)
-- [Why Germany isn&#39;t sending weapons to Ukraine](https://www.bbc.com/news/world-europe-60155002)
-- [Mandatory Olympics iOS and Android apps are spying on athletes for China](https://appleinsider.com/articles/22/01/28/mandatory-olympics-ios-and-android-apps-are-spying-on-athletes-for-china)
-- [Piasecki PA-97: four helicopters bolted to a blimp](https://en.wikipedia.org/wiki/Piasecki_PA-97)
-- [backend.sql and frontend.js = ♥](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
-- [The IRS website will soon require facial recognition to log in to your account](https://www.cnn.com/2022/01/27/tech/facial-recognition-irs-idme/index.html)
+- [3D anime is using “automorph” – automatic mesh deformation tied to camera angle](https://www.animenewsnetwork.com/interest/2022-01-18/belle-beastars-show-how-the-3d-models-change-depending-on-the-angle/.181641)
+- [Hospitals are already using race to ration care](https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/)
+- [How Pokémon Go scales to millions of requests?](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
+- [Ask HN: Where to buy good quality furniture?](https://news.ycombinator.com/item?id=30143641)
+- [Ylang: Universal Language for eBPF, Stap+, GDB, and More &lpar;2021&rpar;](https://blog.openresty.com/en/ylang-intro-part4/)
+- [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
+- [How to Calculate the Energy Consumption of a Mac](https://www.rdegges.com/2022/how-to-calculate-the-energy-consumption-of-a-mac/)
+- [Is the Tenderloin ‘healing’? What it’s like under emergency declaration](https://www.sfchronicle.com/sf/article/Is-the-Tenderloin-healing-This-is-what-16811218.php)
+- [Lowest Global Warming Potential Refrigerators and Freezers](https://appliance.report/gwp/)
+- [Belphegor&#39;s Prime](https://en.wikipedia.org/wiki/Belphegor%27s_prime)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

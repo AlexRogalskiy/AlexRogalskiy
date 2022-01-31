@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Women’s Ashes Test match, day four: Australia v England – live!](https://www.theguardian.com/sport/live/2022/jan/30/womens-ashes-aus-vs-eng-live-cricket-test-match-day-four-australia-v-england-women-latest-updates-scores-news)
-- [Thousands join protest in Canada against Covid vaccine mandates](https://www.theguardian.com/world/2022/jan/30/thousands-join-protest-in-canada-against-covid-vaccine-mandates)
-- [How mighty will Amazon be after the pandemic?](https://www.theguardian.com/technology/2022/jan/30/how-mighty-will-amazon-be-after-the-pandemic)
-- [Parallel lines: New looks and lessons from corduroy](https://www.theguardian.com/fashion/2022/jan/29/parallel-lines-new-looks-and-lessons-from-corduroy)
-- [England level T20 series in West Indies after Moeen’s captain’s knock](https://www.theguardian.com/sport/2022/jan/29/england-level-t20-series-in-west-indies-after-moeens-captains-knock)
-- [Djokovic, Federer and now Nadal – the big three chasing a glorious 21st | Simon Cambers](https://www.theguardian.com/sport/blog/2022/jan/29/djokovic-federer-and-now-nadal-the-big-three-chasing-a-glorious-21st)
-- [West Ham’s offers for Kalvin Phillips and Raphinha turned down by Leeds](https://www.theguardian.com/football/2022/jan/29/west-ham-leeds-reject-raphinha-bid)
-- [Boris Johnson’s chief of staff ‘spent day watching cricket’ just before Kabul fell](https://www.theguardian.com/uk-news/2022/jan/29/boris-johnsons-chief-of-staff-spent-day-watching-cricket-just-before-kabul-fell)
-- [Boris Johnson and Rishi Sunak double down on national insurance rise](https://www.theguardian.com/money/2022/jan/29/boris-johnson-and-rishi-sunak-double-down-on-national-insurance-rise)
-- [UK ready to commit extra forces to Nato allies as Russia tension mounts](https://www.theguardian.com/world/2022/jan/29/uk-ready-to-commit-extra-forces-to-nato-allies-as-russia-tension-mounts)
+- [NFC championship game: San Francisco 49ers v Los Angeles Rams – live!](https://www.theguardian.com/sport/live/2022/jan/30/nfc-championship-game-san-francisco-49ers-v-los-angeles-rams-live)
+- [Beijing seals off several communities over two cases of Covid-19](https://www.theguardian.com/world/2022/jan/31/beijing-seals-off-several-communities-over-two-cases-of-covid-19)
+- [Foreign journalists in China subject to rising intimidation, survey finds](https://www.theguardian.com/world/2022/jan/31/foreign-journalists-china-intimidation-survey)
+- [India homeless shiver through New Delhi cold snap as scores die from exposure](https://www.theguardian.com/world/2022/jan/31/india-homeless-shiver-through-new-delhi-cold-snap-as-scores-die-from-exposure)
+- [Trusts cleared to use unvaccinated health staff amid reports of Javid U-turn](https://www.theguardian.com/society/2022/jan/30/nhs-england-could-employ-unvaccinated-staff-after-1-april-says-regulator)
+- [Spotify to direct listeners to correct Covid information after Joe Rogan controversy](https://www.theguardian.com/technology/2022/jan/31/spotify-to-direct-listeners-to-correct-covid-information-after-joe-rogan-controversy)
+- [Government plans to ‘cut £1bn in red tape’ with new post-Brexit legislation](https://www.theguardian.com/politics/2022/jan/31/government-plans-to-cut-1bn-in-red-tape-with-new-post-brexit-legislation)
+- [Women’s groups seek end to UK courts’ powers to jail people for own protection](https://www.theguardian.com/law/2022/jan/31/womens-rights-groups-seek-end-uk-courts-powers-jail-people-own-protection)
+- [Porters and cleaners at London NHS hospitals begin two-week strike](https://www.theguardian.com/society/2022/jan/31/porters-cleaners-london-nhs-hospitals-two-week-strike-barts-royal-london-whipps-cross-serco)
+- [Schools should be ranked on exclusions as well as GCSEs, say experts](https://www.theguardian.com/education/2022/jan/31/schools-should-be-ranked-on-exclusions-as-well-as-gcses-say-experts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

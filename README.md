@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
-- [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
-- [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
-- [PostgreSQL used fsync incorrectly for 20 years &lpar;2019&rpar; [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
-- [A pure Go embedded SQL database](https://gitlab.com/cznic/ql)
-- [Should I build a Tesla coil for a science fair?](https://www.teslacoildesign.com/appendix.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Black, the uncompromising Python code formatter, is stable](https://pypi.org/project/black/)
-- [Plant-based epoxy enables recyclable carbon fiber](https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html)
-- [Despite the hype, iPhone security no match for NSO spyware &lpar;2021&rpar;](https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/)
+- [Lizard Scale Patterns Described with Antiferromagnetic Model](https://physics.aps.org/articles/v15/s12)
+- [Unconscious R&amp;D &lpar;2021&rpar;](https://subconscious.substack.com/p/unconscious-r-and-d)
+- [State of the Web: Static Site Generators](https://byteofdev.com/posts/static-site-generators/)
+- [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
+- [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
+- [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
+- [Operation Warp Speed: A new model for industrial policy](https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/)
+- [The Story of Maxis Software &lpar;1999&rpar;](https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html)
+- [Don&#39;t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
+- [Deep symbolic regression for recurrent sequences](http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

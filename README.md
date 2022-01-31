@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Attempting to add RAM](https://www.reddit.com/r/InformationTechnology/comments/sgohpd/attempting_to_add_ram/)
+- [Help!](https://www.reddit.com/r/InformationTechnology/comments/sgnykn/help/)
+- [DHCP is not enabled for “Ethernet”/ Requested operation requires elevation](https://www.reddit.com/r/InformationTechnology/comments/sg5arm/dhcp_is_not_enabled_for_ethernet_requested/)
 - [IT must-haves for landing a job?](https://www.reddit.com/r/InformationTechnology/comments/sfbr6m/it_musthaves_for_landing_a_job/)
 - [Harddrive swap unsuccessful](https://www.reddit.com/r/InformationTechnology/comments/sewx9s/harddrive_swap_unsuccessful/)
 - [Digital Signature Market Size, Share and Global Market Forecast to 2026](https://www.reddit.com/r/InformationTechnology/comments/sent8k/digital_signature_market_size_share_and_global/)
@@ -421,9 +424,6 @@
 - [Composable Infrastructure Market Projected to reach $5,102 million by 2023 at a CAGR of 52.6%](https://www.reddit.com/r/InformationTechnology/comments/sdwi7d/composable_infrastructure_market_projected_to/)
 - [Tablet for reading and editing low budget](https://www.reddit.com/r/InformationTechnology/comments/sdvi29/tablet_for_reading_and_editing_low_budget/)
 - [IT Major: Need a Research Topic](https://www.reddit.com/r/InformationTechnology/comments/sdjxi7/it_major_need_a_research_topic/)
-- [Can you get a software developer job with an Information Technology degree? If so, what was ur pathway to there?](https://www.reddit.com/r/InformationTechnology/comments/scu0v3/can_you_get_a_software_developer_job_with_an/)
-- [Information program comparison: UW MSIM, CMU MISM and UMich MSI](https://www.reddit.com/r/InformationTechnology/comments/scekwc/information_program_comparison_uw_msim_cmu_mism/)
-- [Career](https://www.reddit.com/r/InformationTechnology/comments/sbyi6x/career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

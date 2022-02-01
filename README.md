@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tell me what my job title should be](https://www.reddit.com/r/InformationTechnology/comments/shhsgi/tell_me_what_my_job_title_should_be/)
+- [Could use some insight on initial employment](https://www.reddit.com/r/InformationTechnology/comments/she1az/could_use_some_insight_on_initial_employment/)
+- [What&#39;s the craziest question you&#39;ve been asked by a team member?](https://www.reddit.com/r/InformationTechnology/comments/sh8r9u/whats_the_craziest_question_youve_been_asked_by_a/)
+- [Service Procurement Market Witness the Growth of $1,011.6 Million USD by 2022](https://www.reddit.com/r/InformationTechnology/comments/sh2zmw/service_procurement_market_witness_the_growth_of/)
+- [Unified Communication and Collaboration Market Projected to grow at a CAGR 13.6%](https://www.reddit.com/r/InformationTechnology/comments/sgybv4/unified_communication_and_collaboration_market/)
+- [How Do YOU Store 10,000 laptops in a small Warehouse?](https://www.reddit.com/r/InformationTechnology/comments/sgruxt/how_do_you_store_10000_laptops_in_a_small/)
 - [Attempting to add RAM](https://www.reddit.com/r/InformationTechnology/comments/sgohpd/attempting_to_add_ram/)
 - [Help!](https://www.reddit.com/r/InformationTechnology/comments/sgnykn/help/)
 - [DHCP is not enabled for “Ethernet”/ Requested operation requires elevation](https://www.reddit.com/r/InformationTechnology/comments/sg5arm/dhcp_is_not_enabled_for_ethernet_requested/)
 - [IT must-haves for landing a job?](https://www.reddit.com/r/InformationTechnology/comments/sfbr6m/it_musthaves_for_landing_a_job/)
-- [Harddrive swap unsuccessful](https://www.reddit.com/r/InformationTechnology/comments/sewx9s/harddrive_swap_unsuccessful/)
-- [Digital Signature Market Size, Share and Global Market Forecast to 2026](https://www.reddit.com/r/InformationTechnology/comments/sent8k/digital_signature_market_size_share_and_global/)
-- [Cybersecurity Market Witness the Growth of $345.4 Billion by 2026 at a CAGR of 9.7%](https://www.reddit.com/r/InformationTechnology/comments/sel7cg/cybersecurity_market_witness_the_growth_of_3454/)
-- [Composable Infrastructure Market Projected to reach $5,102 million by 2023 at a CAGR of 52.6%](https://www.reddit.com/r/InformationTechnology/comments/sdwi7d/composable_infrastructure_market_projected_to/)
-- [Tablet for reading and editing low budget](https://www.reddit.com/r/InformationTechnology/comments/sdvi29/tablet_for_reading_and_editing_low_budget/)
-- [IT Major: Need a Research Topic](https://www.reddit.com/r/InformationTechnology/comments/sdjxi7/it_major_need_a_research_topic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

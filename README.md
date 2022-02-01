@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [The basics of patching and repairing balky Windows PCs](https://www.computerworld.com/article/3648457/the-basics-of-patching-and-repairing-balky-windows-pcs.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple makes it easier to share &#39;unlisted&#39; apps with employees, partners, and others](https://www.computerworld.com/article/3648418/apple-makes-it-easier-to-share-unlisted-apps-with-employees-partners-and-others.html#tk.rss_all)
+- [Google Meet cheat sheet: How to get started](https://www.computerworld.com/article/3647008/google-meet-cheat-sheet-how-to-get-started.html#tk.rss_all)
 - [One year on, developers still love Apple Silicon Macs](https://www.computerworld.com/article/3648455/one-year-on-developers-still-love-apple-silicon-macs.html#tk.rss_all)
 - [Business execs see hiring as top issue in &#39;22, even as pandemic wanes](https://www.computerworld.com/article/3648337/business-execs-see-hiring-as-top-issue-in-22-even-as-pandemic-wanes.html#tk.rss_all)
 - [Why e-commerce search is so bad and what may soon fix it](https://www.computerworld.com/article/3648411/why-e-commerce-search-is-so-bad-and-what-may-soon-fix-it.html#tk.rss_all)
 - [42 ways Google Assistant can make you more efficient on Android](https://www.computerworld.com/article/3255009/google-assistant-efficiency-tips-android.html#tk.rss_all)
-- [Podcast: Intel’s $20 billion investment into Ohio chipmaking facility, plus chip shortage updates](https://www.computerworld.com/article/3648350/podcast-intels-20-billion-investment-into-ohio-chipmaking-facility-plus-chip-shortage-updates.html#tk.rss_all)
-- [Windows 11 and Android: Rethinking the PC-phone connection](https://www.computerworld.com/article/3648334/windows-11-and-android-rethinking-the-pc-phone-connection.html#tk.rss_all)
-- [Jamf CEO weighs in on Apple deployments and enterprise security](https://www.computerworld.com/article/3648589/jamf-ceo-weighs-in-on-apple-deployments-and-enterprise-security.html#tk.rss_all)
-- [Test your outrage over Google&#39;s new Topics advertising system](https://www.computerworld.com/article/3647763/google-topics-advertising.html#tk.rss_all)
-- [It’s time to talk about time](https://www.computerworld.com/article/3648075/it-s-time-to-talk-about-time.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

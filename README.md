@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lizard Scale Patterns Described with Antiferromagnetic Model](https://physics.aps.org/articles/v15/s12)
-- [Unconscious R&amp;D &lpar;2021&rpar;](https://subconscious.substack.com/p/unconscious-r-and-d)
-- [State of the Web: Static Site Generators](https://byteofdev.com/posts/static-site-generators/)
-- [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
-- [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
-- [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
-- [Operation Warp Speed: A new model for industrial policy](https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/)
-- [The Story of Maxis Software &lpar;1999&rpar;](https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html)
-- [Don&#39;t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
-- [Deep symbolic regression for recurrent sequences](http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/)
+- [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)
+- [Crisis Text Line, from my perspective](http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html)
+- [The Sixth Mass Extinction: fact, fiction or speculation?](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816)
+- [The Wondrous Wordplay of Lunar New Year Food](https://www.atlasobscura.com/articles/lunar-new-year-food)
+- [Building a Cross-Platform Web and Mobile App from the Ground Up](https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up)
+- [Man found guilty of ‘grossly offensive’ tweet](https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet)
+- [Bottles – Run Windows software and games on Linux](https://github.com/bottlesdevs/Bottles)
+- [A short introduction to the undeciphered Aegean writing systems](https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/)
+- [Yggdrasil P2P mesh E2EE IPv6 network](https://yggdrasil-network.github.io/)
+- [Fifth Browser](https://github.com/clbr/fifth)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

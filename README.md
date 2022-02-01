@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Do you need a cloud center of excellence?](https://www.infoworld.com/article/3648590/do-you-need-a-cloud-center-of-excellence.html#tk.rss_all)
+- [The cloud is too big for one winner](https://www.infoworld.com/article/3648416/the-cloud-is-too-big-for-one-winner.html#tk.rss_all)
+- [Google releases differential privacy pipeline for Python](https://www.infoworld.com/article/3648415/google-releases-differential-privacy-pipeline-for-python.html#tk.rss_all)
+- [Roblox’s cloud-native catastrophe: A post mortem](https://www.infoworld.com/article/3648414/robloxs-cloud-native-catastrophe-a-post-mortem.html#tk.rss_all)
 - [Microsoft .NET Community Toolkit backs .NET 6](https://www.infoworld.com/article/3648649/microsoft-net-community-toolkit-backs-net-6.html#tk.rss_all)
 - [What is neural architecture search? AutoML for deep learning](https://www.infoworld.com/article/3648408/what-is-neural-architecture-search.html#tk.rss_all)
 - [Enterprise data centers won’t really go away](https://www.infoworld.com/article/3648335/enterprise-data-centers-wont-really-go-away.html#tk.rss_all)
 - [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_all)
-- [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_all)
-- [Slashing time to insight with unified data analytics](https://www.infoworld.com/article/3648040/slashing-time-to-insight-with-unified-data-analytics.html#tk.rss_all)
-- [Microsoft publishes Java roadmap for Visual Studio Code](https://www.infoworld.com/article/3648290/microsoft-looks-to-woo-more-java-developers-to-visual-studio-code.html#tk.rss_all)
-- [Preparing for the end of Dockershim in AKS](https://www.infoworld.com/article/3648288/preparing-for-the-end-of-dockershim-in-aks.html#tk.rss_all)
-- [4 keys to writing modern Python in 2022](https://www.infoworld.com/article/3648061/4-keys-to-writing-modern-python-in-2022.html#tk.rss_all)
-- [Ruby 3.1 arrives with new JIT compiler](https://www.infoworld.com/article/3647999/ruby-31-arrives-with-new-jit-compiler.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

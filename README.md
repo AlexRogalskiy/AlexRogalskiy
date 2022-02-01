@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Nebulon SmartInfrastructure brings cloud-defined storage to datacentre](https://www.computerweekly.com/news/252512693/Nebulon-SmartInfrastructure-brings-cloud-defined-storage-to-datacentre)
+- [UK has record year for tech IPOs in 2021](https://www.computerweekly.com/news/252512688/UK-has-record-year-for-tech-IPOs-in-2021)
+- [Last year sees growth in tech job adverts across UK](https://www.computerweekly.com/news/252512678/Last-year-sees-growth-in-tech-job-adverts-across-UK)
+- [Data on children of armed forces personnel exposed in breach](https://www.computerweekly.com/news/252512676/Data-on-children-of-armed-forces-personnel-exposed-in-breach)
+- [How apprenticeships are helping bridge the digital skills gap](https://www.computerweekly.com/opinion/How-apprenticeships-are-helping-bridge-the-digital-skills-gap)
+- [Understand your cyber training ‘need’ before committing to a programme](https://www.computerweekly.com/opinion/Understand-your-cyber-training-need-before-committing-to-a-programme)
+- [Data integration dogged by complexity and vital to business](https://www.computerweekly.com/feature/Data-integration-dogged-by-complexity-and-vital-to-business)
 - [NRF review: What’s in store for retail tech in 2022?](https://www.computerweekly.com/feature/NRF-review-whats-in-store-for-retail-tech-in-2022)
 - [Microsoft gives Nasa a lesson in timeshare optimisation](https://www.computerweekly.com/news/252512622/Microsoft-gives-NASA-a-lesson-in-timeshare-optimisation)
 - [British court rules in HP’s favour in Mike Lynch fraud case](https://www.computerweekly.com/news/252512620/British-court-rules-in-HPs-favour-in-Mike-Lynch-fraud-case)
-- [Cyber skills gap affecting data privacy practice, finds ISACA](https://www.computerweekly.com/news/252512597/Cyber-skills-gap-affecting-data-privacy-practice-finds-ISACA)
-- [Maidstone and Tunbridge Wells NHS Trust advances digital-first strategy](https://www.computerweekly.com/feature/Maidstone-and-Tunbridge-Wells-NHS-Trust-advances-digital-first-strategy)
-- [Leeds NHS Trust moves millions of patient records to the Microsoft Azure public cloud](https://www.computerweekly.com/news/252512591/Leeds-NHS-Trust-moves-millions-of-patient-records-to-the-Microsoft-Azure-public-cloud)
-- [CISOs must get out in front of Ukraine cyber crisis, says NCSC](https://www.computerweekly.com/news/252512559/CISOs-must-get-out-in-front-of-Ukraine-cyber-crisis-says-NCSC)
-- [SAP full-year 2021: Revenue nudges up 1%, cloud growth up 17%](https://www.computerweekly.com/news/252512565/SAP-full-year-2021-revenue-nudges-up-1-cloud-growth-up-17)
-- [Lack of tech skills is delaying projects](https://www.computerweekly.com/news/252512560/Lack-of-tech-skills-is-delaying-projects)
-- [Novel phishing campaign highlights need for MFA, says Microsoft](https://www.computerweekly.com/news/252512554/Novel-phishing-campaign-highlights-need-for-MFA-says-Microsoft)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

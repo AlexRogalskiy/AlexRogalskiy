@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Managing Cloud: Why to Keep a Data Center Mentality](https://www.informationweek.com/cloud/managing-cloud-why-to-keep-a-data-center-mentality)
+- [Ways to Smooth the Bumps on the Data-Driven Path](https://www.informationweek.com/big-data/ways-to-smooth-the-bumps-on-the-data-driven-path)
 - [What to Expect from Network as a Service &lpar;NaaS&rpar; Technology](https://www.informationweek.com/cloud/what-to-expect-from-network-as-a-service-naas-technology)
 - [Killware: The Most Dangerous Evolution of Ransomware?](https://www.informationweek.com/security-and-risk-strategy/killware-the-most-dangerous-evolution-of-ransomware-)
 - [Enterprise Guide to Digital Transformation](https://www.informationweek.com/big-data/enterprise-guide-to-digital-transformation)
@@ -377,8 +379,6 @@
 - [9 Hottest IT Certifications Right Now](https://www.informationweek.com/strategic-cio/9-hottest-it-certifications-right-now)
 - [Countering Disruption by Making Asset Management Systems Smarter](https://www.informationweek.com/big-data/countering-disruption-by-making-asset-management-systems-smarter)
 - [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
-- [25 of Our Most Popular IT Stories From 2021](https://www.informationweek.com/cloud/25-of-our-most-popular-it-stories-from-2021)
-- [The Key to Happiness at Work? Survey Says It’s DevSecOps](https://www.informationweek.com/cloud/the-key-to-happiness-at-work-survey-says-it-s-devsecops)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [3D anime is using “automorph” – automatic mesh deformation tied to camera angle](https://www.animenewsnetwork.com/interest/2022-01-18/belle-beastars-show-how-the-3d-models-change-depending-on-the-angle/.181641)
-- [Hospitals are already using race to ration care](https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/)
-- [How Pokémon Go scales to millions of requests?](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
-- [Ask HN: Where to buy good quality furniture?](https://news.ycombinator.com/item?id=30143641)
-- [Ylang: Universal Language for eBPF, Stap+, GDB, and More &lpar;2021&rpar;](https://blog.openresty.com/en/ylang-intro-part4/)
-- [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
-- [How to Calculate the Energy Consumption of a Mac](https://www.rdegges.com/2022/how-to-calculate-the-energy-consumption-of-a-mac/)
-- [Is the Tenderloin ‘healing’? What it’s like under emergency declaration](https://www.sfchronicle.com/sf/article/Is-the-Tenderloin-healing-This-is-what-16811218.php)
-- [Lowest Global Warming Potential Refrigerators and Freezers](https://appliance.report/gwp/)
-- [Belphegor&#39;s Prime](https://en.wikipedia.org/wiki/Belphegor%27s_prime)
+- [Vertiginous Question](https://en.wikipedia.org/wiki/Vertiginous_question)
+- [Push Notifications, WebXR, and better PWA support coming to iOS](https://firt.dev/ios-15.4b)
+- [India’s first 3D Construction Startup](https://tvasta.construction/home)
+- [U.S. and Allies Close to Reviving Nuclear Deal with Iran, Officials Say](https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html)
+- [Ask HN: Book comparing major programming languages at a technical level?](https://news.ycombinator.com/item?id=30157766)
+- [Reading on smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0)
+- [Maskless Gov. Newsom spotted at 49ers, Rams game despite mandate](https://twitter.com/magicjohnson/status/1487983267525455874)
+- [Indirect protection of children from SARS-CoV-2 through parental vaccination](https://www.science.org/doi/10.1126/science.abm3087)
+- [Ask HN: Has Galvanize completely gutted the Hack Reactor brand?](https://news.ycombinator.com/item?id=30157719)
+- [The Planet Needs a Sunscreen &lpar;1997&rpar;](https://www.wsj.com/articles/SB877028953900981000)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

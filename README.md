@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFC championship game: San Francisco 49ers v Los Angeles Rams – live!](https://www.theguardian.com/sport/live/2022/jan/30/nfc-championship-game-san-francisco-49ers-v-los-angeles-rams-live)
-- [Beijing seals off several communities over two cases of Covid-19](https://www.theguardian.com/world/2022/jan/31/beijing-seals-off-several-communities-over-two-cases-of-covid-19)
-- [Foreign journalists in China subject to rising intimidation, survey finds](https://www.theguardian.com/world/2022/jan/31/foreign-journalists-china-intimidation-survey)
-- [India homeless shiver through New Delhi cold snap as scores die from exposure](https://www.theguardian.com/world/2022/jan/31/india-homeless-shiver-through-new-delhi-cold-snap-as-scores-die-from-exposure)
-- [Trusts cleared to use unvaccinated health staff amid reports of Javid U-turn](https://www.theguardian.com/society/2022/jan/30/nhs-england-could-employ-unvaccinated-staff-after-1-april-says-regulator)
-- [Spotify to direct listeners to correct Covid information after Joe Rogan controversy](https://www.theguardian.com/technology/2022/jan/31/spotify-to-direct-listeners-to-correct-covid-information-after-joe-rogan-controversy)
-- [Government plans to ‘cut £1bn in red tape’ with new post-Brexit legislation](https://www.theguardian.com/politics/2022/jan/31/government-plans-to-cut-1bn-in-red-tape-with-new-post-brexit-legislation)
-- [Women’s groups seek end to UK courts’ powers to jail people for own protection](https://www.theguardian.com/law/2022/jan/31/womens-rights-groups-seek-end-uk-courts-powers-jail-people-own-protection)
-- [Porters and cleaners at London NHS hospitals begin two-week strike](https://www.theguardian.com/society/2022/jan/31/porters-cleaners-london-nhs-hospitals-two-week-strike-barts-royal-london-whipps-cross-serco)
-- [Schools should be ranked on exclusions as well as GCSEs, say experts](https://www.theguardian.com/education/2022/jan/31/schools-should-be-ranked-on-exclusions-as-well-as-gcses-say-experts)
+- [Man charged with murder after woman’s body found in bath in North Parramatta](https://www.theguardian.com/australia-news/2022/feb/01/man-charged-with-after-womans-body-found-in-bath-in-north-parramatta)
+- [Everton sign Dele Alli from Spurs after confirming Frank Lampard as manager](https://www.theguardian.com/football/2022/jan/31/frank-lampard-confirmed-as-everton-manager-hungry-to-get-started)
+- [Domestic abuse: average of 669 child protection referrals a day last year](https://www.theguardian.com/society/2022/feb/01/domestic-abuse-average-of-669-child-protection-referrals-a-day-last-year)
+- [Move to improve education outcomes latest part of levelling-up plans](https://www.theguardian.com/education/2022/feb/01/move-to-improve-education-outcomes-latest-part-of-levelling-up-plans)
+- [Women’s game suffering from uneven schedule, says Fifpro union](https://www.theguardian.com/football/2022/feb/01/womens-game-suffering-from-uneven-schedule-says-fifpro-union)
+- [Rise in Covid cases in England as reinfections included for first time](https://www.theguardian.com/world/2022/jan/31/spike-in-covid-cases-in-england-as-reinfections-included-for-first-time)
+- [Aubameyang to seal Barcelona move from Arsenal on free transfer](https://www.theguardian.com/football/2022/jan/31/barcelona-aubameyang-loan-arsenal)
+- [New York Times buys viral game Wordle for seven-figure sum](https://www.theguardian.com/games/2022/jan/31/wordle-new-york-times-buys)
+- [‘We only have a pen’: fury as fourth journalist killed in Mexico this year](https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo)
+- [Janet Jackson review – the breathtaking tale of a reluctant pop superstar](https://www.theguardian.com/tv-and-radio/2022/jan/31/janet-jackson-review-the-breathtaking-tale-of-a-reluctant-pop-superstar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Montreal start-up launches smart bracelet to help save kids’ lives in busy emergency rooms](https://www.itworldcanada.com/article/montreal-start-up-launches-smart-bracelet-to-help-save-kids-lives-in-busy-emergency-rooms/472064)
+- [Citrix sold for $16.5 billion, to be combined with TIBCO](https://www.itworldcanada.com/article/citrix-sold-for-16-5-billion-to-be-combined-with-tibco/472093)
+- [A Canadian-themed dark market will be back, predicts expert](https://www.itworldcanada.com/article/a-canadian-themed-dark-market-will-be-back-predicts-expert/471999)
+- [Google Canada announces its second cloud accelerator program for Canadian startups](https://www.itworldcanada.com/article/google-canada-announces-its-second-cloud-accelerator-program-for-canadian-startups/472026)
+- [Cyber Security Today, Jan. 31, 2022 – Windows Update alert, a warning to data centre admins and a digital loan platform hacked](https://www.itworldcanada.com/article/cyber-security-today-jan-31-2022-windows-update-alert-a-warning-to-data-centre-admins-and-a-digital-loan-platform-hacked/471934)
+- [Cyber Security Today, Week in Review for January 28, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-28-2022/471664)
+- [Hashtag Trending Jan. 31 – Sega leaves arcades; T-Mobile to fire unvaccianted employees; crypto dev a former fraudster](https://www.itworldcanada.com/article/hashtag-trending-jan-31-sega-leaves-arcades-t-mobile-to-fire-unvaccianted-employees-crypto-dev-a-former-fraudster/471970)
 - [Meta builds AI Research SuperCluster for future AI and the metaverse](https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730)
 - [Gang still posting data allegedly stolen from Saskatoon airport authority](https://www.itworldcanada.com/article/gang-still-posting-data-allegedly-stolen-from-saskatoon-airport-authority/471756)
 - [auticon Canada kicks off its 2022 tech recruitment campaign for adults with autism](https://www.itworldcanada.com/article/auticon-canada-kicks-off-its-2022-tech-recruitment-campaign-for-adults-with-autism/471705)
-- [Data Privacy Day message to companies: Don’t just write privacy policies, enforce them](https://www.itworldcanada.com/article/data-privacy-day-message-to-companies-dont-just-write-privacy-policies-enforce-them/471709)
-- [Cyber Security Today, Jan 28, 2022 – MFA spoils a phishing scam, a Zoom con discovered and another Log4j attacker unveiled](https://www.itworldcanada.com/article/cyber-security-today-jan-28-2022-mfa-spoils-a-phishing-scam-a-zoom-con-discovered-and-another-log4j-attacker-unveiled/471693)
-- [Hashtag Trending Jan 28 – Amazon disbands Twitter campaign; Spotify removes Neil Young’s music; anti-work subreddit private](https://www.itworldcanada.com/article/hashtag-trending-jan-28-amazon-disbands-twitter-campaign-spotify-removes-neil-youngs-music-anti-work-subreddit-private/471716)
-- [Stolen Canadian payment card info as cheap as fancy lattes](https://www.itworldcanada.com/article/stolen-canadian-payment-card-info-as-cheap-as-fancy-lattes/471522)
-- [McAfee Enterprise and FireEye combo is now Trellix](https://www.itworldcanada.com/article/mcafee-enterprise-and-fireeye-combo-is-now-trellix/471609)
-- [Linux vulnerability allows any unprivileged user to gain full root privileges: Report](https://www.itworldcanada.com/article/linux-vulnerability-allows-any-unprivileged-user-to-gain-full-root-privileges-report/471615)
-- [LifeLabs joins UBC’s Drone Transport Initiative to support access to essential health services for BC First Nations communities](https://www.itworldcanada.com/article/lifelabs-joins-ubcs-drone-transport-initiative-to-support-access-to-essential-health-services-for-bc-first-nations-communities/471584)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

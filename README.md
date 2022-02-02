@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Check Point buys Spectral to safeguard cloud development](https://www.computerweekly.com/news/252512766/Check-Point-buys-Spectral-to-safeguard-cloud-development)
+- [German fuel supplier taken offline in cyber attack](https://www.computerweekly.com/news/252512758/German-fuel-supplier-taken-offline-in-cyber-attack)
+- [Met Police faces legal action over Gangs Matrix](https://www.computerweekly.com/news/252512752/Met-police-faces-legal-action-over-Gangs-Matrix)
+- [Citrix joins Tibco in Vista enterprise IT portfolio](https://www.computerweekly.com/news/252512701/Citrix-joins-Tibco-in-Vista-enterprise-IT-portfolio)
+- [Over one-fifth of ransomware attacks target financial sector](https://www.computerweekly.com/news/252512737/Over-one-fifth-of-ransomware-attacks-target-financial-sector)
+- [How Ocado pushes technological boundaries](https://www.computerweekly.com/ezine/Computer-Weekly/How-Ocado-pushes-technological-boundaries)
 - [Nebulon SmartInfrastructure brings cloud-defined storage to datacentre](https://www.computerweekly.com/news/252512693/Nebulon-SmartInfrastructure-brings-cloud-defined-storage-to-datacentre)
 - [UK has record year for tech IPOs in 2021](https://www.computerweekly.com/news/252512688/UK-has-record-year-for-tech-IPOs-in-2021)
 - [Last year sees growth in tech job adverts across UK](https://www.computerweekly.com/news/252512678/Last-year-sees-growth-in-tech-job-adverts-across-UK)
 - [Data on children of armed forces personnel exposed in breach](https://www.computerweekly.com/news/252512676/Data-on-children-of-armed-forces-personnel-exposed-in-breach)
-- [How apprenticeships are helping bridge the digital skills gap](https://www.computerweekly.com/opinion/How-apprenticeships-are-helping-bridge-the-digital-skills-gap)
-- [Understand your cyber training ‘need’ before committing to a programme](https://www.computerweekly.com/opinion/Understand-your-cyber-training-need-before-committing-to-a-programme)
-- [Data integration dogged by complexity and vital to business](https://www.computerweekly.com/feature/Data-integration-dogged-by-complexity-and-vital-to-business)
-- [NRF review: What’s in store for retail tech in 2022?](https://www.computerweekly.com/feature/NRF-review-whats-in-store-for-retail-tech-in-2022)
-- [Microsoft gives Nasa a lesson in timeshare optimisation](https://www.computerweekly.com/news/252512622/Microsoft-gives-NASA-a-lesson-in-timeshare-optimisation)
-- [British court rules in HP’s favour in Mike Lynch fraud case](https://www.computerweekly.com/news/252512620/British-court-rules-in-HPs-favour-in-Mike-Lynch-fraud-case)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

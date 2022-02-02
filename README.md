@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vertiginous Question](https://en.wikipedia.org/wiki/Vertiginous_question)
-- [Push Notifications, WebXR, and better PWA support coming to iOS](https://firt.dev/ios-15.4b)
-- [India’s first 3D Construction Startup](https://tvasta.construction/home)
-- [U.S. and Allies Close to Reviving Nuclear Deal with Iran, Officials Say](https://www.nytimes.com/2022/01/31/us/politics/iran-nuclear-deal-biden.html)
-- [Ask HN: Book comparing major programming languages at a technical level?](https://news.ycombinator.com/item?id=30157766)
-- [Reading on smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0)
-- [Maskless Gov. Newsom spotted at 49ers, Rams game despite mandate](https://twitter.com/magicjohnson/status/1487983267525455874)
-- [Indirect protection of children from SARS-CoV-2 through parental vaccination](https://www.science.org/doi/10.1126/science.abm3087)
-- [Ask HN: Has Galvanize completely gutted the Hack Reactor brand?](https://news.ycombinator.com/item?id=30157719)
-- [The Planet Needs a Sunscreen &lpar;1997&rpar;](https://www.wsj.com/articles/SB877028953900981000)
+- [Dalit](https://en.wikipedia.org/wiki/Dalit)
+- [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
+- [Running Lisp in Production – Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+- [Hackers Move $3.55B Worth of Bitcoin from 2016 Bitfinex Hack](https://www.coindesk.com/markets/2022/02/01/hackers-move-383m-worth-of-bitcoin-from-2016-bitfinex-hack/)
+- [Pegasus Spyware](https://news.ycombinator.com/item?id=30172577)
+- [Inside Trickbot, Russia’s Notorious Ransomware Gang](https://www.wired.com/story/trickbot-malware-group-internal-messages/)
+- [The Back of the Envelope &lpar;1984&rpar; [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
+- [Taskbar Tweaker – Ramen Software](https://ramensoftware.com/7-taskbar-tweaker)
+- [SEC Executive Pay Plan Stokes Fear of Misguided Investor Votes](https://news.bloomberglaw.com/securities-law/sec-executive-pay-plan-stokes-fear-of-misguided-investor-votes)
+- [Google plans to limit its free unlimited Drive storage for WhatsApp backups](https://www.androidpolice.com/google-plans-to-limit-its-free-unlimited-drive-storage-for-whatsapp-backups/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Two APT groups accounted for almost half of cyberattacks by advanced threat actors in Q3: Report](https://www.itworldcanada.com/article/two-apt-groups-accounted-for-almost-half-of-cyberattacks-by-advanced-threat-actors-in-q3-report/472161)
+- [Coffee Briefing Feb. 1, 2022 – Applications open for second Google cloud Accelerator Canada; HCL launches Engineering and R&amp;D centre in Alberta; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-1-2022-applications-open-for-second-google-cloud-accelerator-canada-hcl-launches-engineering-and-r-and-more/472175)
+- [Admins urged to patch serious Samba vulnerability](https://www.itworldcanada.com/article/admins-urged-to-patch-serious-samba-vulnerability/472215)
+- [Hashtag Trending Feb. 1 – Semiconductor revenue increase; Netflix loses viewership after TV show debut month; Chinese satellite maneuvers](https://www.itworldcanada.com/article/hashtag-trending-feb-1-semiconductor-revenue-increase-netflix-loses-viewership-after-tv-show-debut-month-chinese-satellite-maneuvers/472165)
+- [How you sign on the dotted line has been transformed](https://www.itworldcanada.com/article/how-you-sign-on-the-dotted-line-has-been-transformed/472184)
 - [Montreal start-up launches smart bracelet to help save kids’ lives in busy emergency rooms](https://www.itworldcanada.com/article/montreal-start-up-launches-smart-bracelet-to-help-save-kids-lives-in-busy-emergency-rooms/472064)
 - [Citrix sold for $16.5 billion, to be combined with TIBCO](https://www.itworldcanada.com/article/citrix-sold-for-16-5-billion-to-be-combined-with-tibco/472093)
 - [A Canadian-themed dark market will be back, predicts expert](https://www.itworldcanada.com/article/a-canadian-themed-dark-market-will-be-back-predicts-expert/471999)
 - [Google Canada announces its second cloud accelerator program for Canadian startups](https://www.itworldcanada.com/article/google-canada-announces-its-second-cloud-accelerator-program-for-canadian-startups/472026)
 - [Cyber Security Today, Jan. 31, 2022 – Windows Update alert, a warning to data centre admins and a digital loan platform hacked](https://www.itworldcanada.com/article/cyber-security-today-jan-31-2022-windows-update-alert-a-warning-to-data-centre-admins-and-a-digital-loan-platform-hacked/471934)
-- [Cyber Security Today, Week in Review for January 28, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-january-28-2022/471664)
-- [Hashtag Trending Jan. 31 – Sega leaves arcades; T-Mobile to fire unvaccianted employees; crypto dev a former fraudster](https://www.itworldcanada.com/article/hashtag-trending-jan-31-sega-leaves-arcades-t-mobile-to-fire-unvaccianted-employees-crypto-dev-a-former-fraudster/471970)
-- [Meta builds AI Research SuperCluster for future AI and the metaverse](https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730)
-- [Gang still posting data allegedly stolen from Saskatoon airport authority](https://www.itworldcanada.com/article/gang-still-posting-data-allegedly-stolen-from-saskatoon-airport-authority/471756)
-- [auticon Canada kicks off its 2022 tech recruitment campaign for adults with autism](https://www.itworldcanada.com/article/auticon-canada-kicks-off-its-2022-tech-recruitment-campaign-for-adults-with-autism/471705)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

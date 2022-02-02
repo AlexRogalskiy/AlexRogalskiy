@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Crypto and NFTs: A New Digital Footprint for Enterprises?](https://www.informationweek.com/fintech/crypto-and-nfts-new-digital-footprint-for-enterprises)
+- [Which Way to Go for WFH Performance and Security Tools?](https://www.informationweek.com/security-and-risk-strategy/which-way-to-go-for-wfh-performance-and-security-tools-)
 - [Managing Cloud: Why to Keep a Data Center Mentality](https://www.informationweek.com/cloud/managing-cloud-why-to-keep-a-data-center-mentality)
 - [Ways to Smooth the Bumps on the Data-Driven Path](https://www.informationweek.com/big-data/ways-to-smooth-the-bumps-on-the-data-driven-path)
 - [What to Expect from Network as a Service &lpar;NaaS&rpar; Technology](https://www.informationweek.com/cloud/what-to-expect-from-network-as-a-service-naas-technology)
@@ -377,8 +379,6 @@
 - [Litigation vs Google May Cause Ripples in Data Collection](https://www.informationweek.com/big-data/litigation-vs-google-may-cause-ripples-in-data-collection)
 - [Watson Health Sale Signals More Pragmatic AI for Healthcare](https://www.informationweek.com/big-data/watson-health-sale-signals-more-pragmatic-ai-for-healthcare)
 - [9 Hottest IT Certifications Right Now](https://www.informationweek.com/strategic-cio/9-hottest-it-certifications-right-now)
-- [Countering Disruption by Making Asset Management Systems Smarter](https://www.informationweek.com/big-data/countering-disruption-by-making-asset-management-systems-smarter)
-- [How to Plan a Pain-Free Cloud Migration](https://www.informationweek.com/cloud/how-to-plan-a-pain-free-cloud-migration)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

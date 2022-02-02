@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Accidentally sent nude pic to my work email :/ I deleted it from my inbox and deleted folder right away and purged it the next day. Should I be worried?](https://www.reddit.com/r/InformationTechnology/comments/siayh5/accidentally_sent_nude_pic_to_my_work_email_i/)
+- [Potential Opportunity Worth ~USD 80 Bn Opening Up in Cloud Computing - Exclusive Research Study Published by MarketsandMarkets™](https://www.reddit.com/r/InformationTechnology/comments/shvv10/potential_opportunity_worth_usd_80_bn_opening_up/)
+- [RegTech market size is expected to grow from USD 6.3 billion in 2020 to USD 16.0 billion by 2025](https://www.reddit.com/r/InformationTechnology/comments/shrpz3/regtech_market_size_is_expected_to_grow_from_usd/)
+- [Video Conferencing Market may reach to $22.5 billion by 2026 at 19.7% CAGR](https://www.reddit.com/r/InformationTechnology/comments/shr2q0/video_conferencing_market_may_reach_to_225/)
 - [Tell me what my job title should be](https://www.reddit.com/r/InformationTechnology/comments/shhsgi/tell_me_what_my_job_title_should_be/)
 - [Could use some insight on initial employment](https://www.reddit.com/r/InformationTechnology/comments/she1az/could_use_some_insight_on_initial_employment/)
 - [What&#39;s the craziest question you&#39;ve been asked by a team member?](https://www.reddit.com/r/InformationTechnology/comments/sh8r9u/whats_the_craziest_question_youve_been_asked_by_a/)
 - [Service Procurement Market Witness the Growth of $1,011.6 Million USD by 2022](https://www.reddit.com/r/InformationTechnology/comments/sh2zmw/service_procurement_market_witness_the_growth_of/)
 - [Unified Communication and Collaboration Market Projected to grow at a CAGR 13.6%](https://www.reddit.com/r/InformationTechnology/comments/sgybv4/unified_communication_and_collaboration_market/)
 - [How Do YOU Store 10,000 laptops in a small Warehouse?](https://www.reddit.com/r/InformationTechnology/comments/sgruxt/how_do_you_store_10000_laptops_in_a_small/)
-- [Attempting to add RAM](https://www.reddit.com/r/InformationTechnology/comments/sgohpd/attempting_to_add_ram/)
-- [Help!](https://www.reddit.com/r/InformationTechnology/comments/sgnykn/help/)
-- [DHCP is not enabled for “Ethernet”/ Requested operation requires elevation](https://www.reddit.com/r/InformationTechnology/comments/sg5arm/dhcp_is_not_enabled_for_ethernet_requested/)
-- [IT must-haves for landing a job?](https://www.reddit.com/r/InformationTechnology/comments/sfbr6m/it_musthaves_for_landing_a_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

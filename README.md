@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man charged with murder after woman’s body found in bath in North Parramatta](https://www.theguardian.com/australia-news/2022/feb/01/man-charged-with-after-womans-body-found-in-bath-in-north-parramatta)
-- [Everton sign Dele Alli from Spurs after confirming Frank Lampard as manager](https://www.theguardian.com/football/2022/jan/31/frank-lampard-confirmed-as-everton-manager-hungry-to-get-started)
-- [Domestic abuse: average of 669 child protection referrals a day last year](https://www.theguardian.com/society/2022/feb/01/domestic-abuse-average-of-669-child-protection-referrals-a-day-last-year)
-- [Move to improve education outcomes latest part of levelling-up plans](https://www.theguardian.com/education/2022/feb/01/move-to-improve-education-outcomes-latest-part-of-levelling-up-plans)
-- [Women’s game suffering from uneven schedule, says Fifpro union](https://www.theguardian.com/football/2022/feb/01/womens-game-suffering-from-uneven-schedule-says-fifpro-union)
-- [Rise in Covid cases in England as reinfections included for first time](https://www.theguardian.com/world/2022/jan/31/spike-in-covid-cases-in-england-as-reinfections-included-for-first-time)
-- [Aubameyang to seal Barcelona move from Arsenal on free transfer](https://www.theguardian.com/football/2022/jan/31/barcelona-aubameyang-loan-arsenal)
-- [New York Times buys viral game Wordle for seven-figure sum](https://www.theguardian.com/games/2022/jan/31/wordle-new-york-times-buys)
-- [‘We only have a pen’: fury as fourth journalist killed in Mexico this year](https://www.theguardian.com/world/2022/jan/31/mexico-fourth-journalist-killed-roberto-toledo)
-- [Janet Jackson review – the breathtaking tale of a reluctant pop superstar](https://www.theguardian.com/tv-and-radio/2022/jan/31/janet-jackson-review-the-breathtaking-tale-of-a-reluctant-pop-superstar)
+- [Indian health workers allege widespread vaccine certificate fraud](https://www.theguardian.com/world/2022/feb/02/indian-health-workers-allege-widespread-vaccine-certificate)
+- [Tsunami-hit Tonga goes into lockdown after workers helping deliver aid catch Covid](https://www.theguardian.com/world/2022/feb/02/tsunami-hit-tonga-goes-into-lockdown-after-workers-helping-deliver-aid-catch-covid)
+- [Covid robbed Kyoto of foreign tourists – now it is not sure it wants them back](https://www.theguardian.com/world/2022/feb/02/covid-robbed-kyoto-of-foreign-tourists)
+- [Apologetic burglar gives $200 to New Mexico homeowners after breaking in](https://www.theguardian.com/us-news/2022/feb/01/new-mexico-burglar-apologises-breaking-in)
+- [Ecuador landslide: at least 22 dead after hillside collapses in capital Quito](https://www.theguardian.com/world/2022/feb/02/ecuador-landslide-deaths-hillside-collapses-quito)
+- [Four alternatives to Spotify: swapping is easier than you think](https://www.theguardian.com/technology/2022/feb/02/four-alternatives-to-spotify-swapping-is-easier-than-you-think)
+- [Levelling up: Gove calls time on ‘postcode lottery’ as strategy launched](https://www.theguardian.com/politics/2022/feb/02/levelling-up-gove-calls-time-on-postcode-lottery-as-strategy-launched)
+- [Government faces urgent call to tackle Britain’s ‘fraud epidemic’](https://www.theguardian.com/money/2022/feb/02/government-faces-urgent-call-to-tackle-britains-epidemic)
+- [We are ‘scapegoats’ for government failures, say headteachers](https://www.theguardian.com/education/2022/feb/02/we-are-scapegoats-for-government-failures-say-headteachers)
+- [UK shop price inflation almost doubles in January](https://www.theguardian.com/business/2022/feb/02/uk-shop-price-inflation-almost-doubles-in-january)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Go language adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-language-adds-generics.html#tk.rss_all)
+- [How SQL can unify access to APIs](https://www.infoworld.com/article/3648648/how-sql-can-unify-access-to-apis.html#tk.rss_all)
+- [3 multicloud myths that cloud pros still believe](https://www.infoworld.com/article/3648459/3-multicloud-myths-that-cloud-pros-still-believe.html#tk.rss_all)
 - [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Do you need a cloud center of excellence?](https://www.infoworld.com/article/3648590/do-you-need-a-cloud-center-of-excellence.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Google releases differential privacy pipeline for Python](https://www.infoworld.com/article/3648415/google-releases-differential-privacy-pipeline-for-python.html#tk.rss_all)
 - [Roblox’s cloud-native catastrophe: A post mortem](https://www.infoworld.com/article/3648414/robloxs-cloud-native-catastrophe-a-post-mortem.html#tk.rss_all)
 - [Microsoft .NET Community Toolkit backs .NET 6](https://www.infoworld.com/article/3648649/microsoft-net-community-toolkit-backs-net-6.html#tk.rss_all)
-- [What is neural architecture search? AutoML for deep learning](https://www.infoworld.com/article/3648408/what-is-neural-architecture-search.html#tk.rss_all)
-- [Enterprise data centers won’t really go away](https://www.infoworld.com/article/3648335/enterprise-data-centers-wont-really-go-away.html#tk.rss_all)
-- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Security Think Tank: How to build a human firewall](https://www.computerweekly.com/opinion/Security-Think-Tank-How-to-build-a-human-firewall)
+- [Mechanism underlying cookie popups found in breach of GDPR](https://www.computerweekly.com/news/252512832/Mechanism-underlying-cookie-popups-found-in-breach-of-GDPR)
+- [Zero-trust to soar in 2022, but dogged by implementation challenges](https://www.computerweekly.com/news/252512830/Zero-trust-to-soar-in-2022-but-dogged-by-implementation-challenges)
+- [Reforms needed to tackle economic crime, says Treasury Committee](https://www.computerweekly.com/news/252512826/Reforms-needed-to-tackle-economic-crime-says-Treasury-Committee)
+- [Finland brings cryostats and other cool things to quantum computing](https://www.computerweekly.com/feature/Finland-brings-cryostats-and-other-cool-things-to-quantum-computing)
+- [British Council data exposed by third-party cyber failure](https://www.computerweekly.com/news/252512816/British-Council-data-exposed-by-third-party-cyber-failure)
+- [What neurodivergent people really think of working in cyber security](https://www.computerweekly.com/feature/What-neurodivergent-people-really-think-of-working-in-cyber-security)
+- [JustPark moves from AWS to take up space in the Google public cloud](https://www.computerweekly.com/news/252512806/JustPark-moves-from-AWS-to-take-up-space-in-the-Google-public-cloud)
+- [Ikea hopes to fill 150 tech roles across Europe this year](https://www.computerweekly.com/news/252512807/Ikea-hopes-to-fill-150-tech-roles-across-Europe-this-year)
 - [Check Point buys Spectral to safeguard cloud development](https://www.computerweekly.com/news/252512766/Check-Point-buys-Spectral-to-safeguard-cloud-development)
-- [German fuel supplier taken offline in cyber attack](https://www.computerweekly.com/news/252512758/German-fuel-supplier-taken-offline-in-cyber-attack)
-- [Met Police faces legal action over Gangs Matrix](https://www.computerweekly.com/news/252512752/Met-police-faces-legal-action-over-Gangs-Matrix)
-- [Citrix joins Tibco in Vista enterprise IT portfolio](https://www.computerweekly.com/news/252512701/Citrix-joins-Tibco-in-Vista-enterprise-IT-portfolio)
-- [Over one-fifth of ransomware attacks target financial sector](https://www.computerweekly.com/news/252512737/Over-one-fifth-of-ransomware-attacks-target-financial-sector)
-- [How Ocado pushes technological boundaries](https://www.computerweekly.com/ezine/Computer-Weekly/How-Ocado-pushes-technological-boundaries)
-- [Nebulon SmartInfrastructure brings cloud-defined storage to datacentre](https://www.computerweekly.com/news/252512693/Nebulon-SmartInfrastructure-brings-cloud-defined-storage-to-datacentre)
-- [UK has record year for tech IPOs in 2021](https://www.computerweekly.com/news/252512688/UK-has-record-year-for-tech-IPOs-in-2021)
-- [Last year sees growth in tech job adverts across UK](https://www.computerweekly.com/news/252512678/Last-year-sees-growth-in-tech-job-adverts-across-UK)
-- [Data on children of armed forces personnel exposed in breach](https://www.computerweekly.com/news/252512676/Data-on-children-of-armed-forces-personnel-exposed-in-breach)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

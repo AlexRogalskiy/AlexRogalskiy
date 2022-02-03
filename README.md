@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Indian health workers allege widespread vaccine certificate fraud](https://www.theguardian.com/world/2022/feb/02/indian-health-workers-allege-widespread-vaccine-certificate)
-- [Tsunami-hit Tonga goes into lockdown after workers helping deliver aid catch Covid](https://www.theguardian.com/world/2022/feb/02/tsunami-hit-tonga-goes-into-lockdown-after-workers-helping-deliver-aid-catch-covid)
-- [Covid robbed Kyoto of foreign tourists – now it is not sure it wants them back](https://www.theguardian.com/world/2022/feb/02/covid-robbed-kyoto-of-foreign-tourists)
-- [Apologetic burglar gives $200 to New Mexico homeowners after breaking in](https://www.theguardian.com/us-news/2022/feb/01/new-mexico-burglar-apologises-breaking-in)
-- [Ecuador landslide: at least 22 dead after hillside collapses in capital Quito](https://www.theguardian.com/world/2022/feb/02/ecuador-landslide-deaths-hillside-collapses-quito)
-- [Four alternatives to Spotify: swapping is easier than you think](https://www.theguardian.com/technology/2022/feb/02/four-alternatives-to-spotify-swapping-is-easier-than-you-think)
-- [Levelling up: Gove calls time on ‘postcode lottery’ as strategy launched](https://www.theguardian.com/politics/2022/feb/02/levelling-up-gove-calls-time-on-postcode-lottery-as-strategy-launched)
-- [Government faces urgent call to tackle Britain’s ‘fraud epidemic’](https://www.theguardian.com/money/2022/feb/02/government-faces-urgent-call-to-tackle-britains-epidemic)
-- [We are ‘scapegoats’ for government failures, say headteachers](https://www.theguardian.com/education/2022/feb/02/we-are-scapegoats-for-government-failures-say-headteachers)
-- [UK shop price inflation almost doubles in January](https://www.theguardian.com/business/2022/feb/02/uk-shop-price-inflation-almost-doubles-in-january)
+- [Shipwreck in US waters confirmed as Captain Cook’s Endeavour](https://www.theguardian.com/australia-news/2022/feb/03/captain-cook-ship-endeavour-identified-confirmed-shipwreck-us-rhode-island)
+- [Covid news: Anger as Tory MP says lockdown breach ‘like parking fine’; Germany could relax restrictions in March – as it happened](https://www.theguardian.com/world/live/2022/feb/02/covid-live-news-france-to-ease-some-restrictions-tsunami-hit-tonga-enters-lockdown)
+- [Britishvolt and Glencore to build plant capable of recycling lithium-ion batteries](https://www.theguardian.com/business/2022/feb/03/britishvolt-and-glencore-to-build-plant-capable-of-recycling-lithium-ion-batteries)
+- [Spotify stocks fall as executives seek to reassure amid Rogan controversy](https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy)
+- [Two or more chronic health problems in middle age ‘doubles dementia risk’](https://www.theguardian.com/society/2022/feb/02/two-chronic-health-problems-middle-age-double-dementia-risk-multimorbidity-study)
+- [Opioid overdose deaths to ‘grow exponentially’ without action – study](https://www.theguardian.com/us-news/2022/feb/02/doubling-opioid-overdose-deaths-global-growth-lancet-stanford-study)
+- [Opposition councillors fail to block plans for new Wimbledon show court](https://www.theguardian.com/sport/2022/feb/02/councillors-vote-against-wimbledon-show-court)
+- [Treasury preparing 11th hour package to soften national cost of living crisis](https://www.theguardian.com/business/2022/feb/02/treasury-preparing-11th-hour-package-to-soften-national-cost-of-living-crisis)
+- [Pre-diabetes study finds benefit in brighter days and dimmer evenings](https://www.theguardian.com/society/2022/feb/02/pre-diabetes-study-finds-benefit-in-brighter-days-and-dimmer-evenings)
+- [Havana Syndrome could be caused by pulsed energy devices – US expert report](https://www.theguardian.com/us-news/2022/feb/02/havana-syndrome-concealable-devices-cia-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

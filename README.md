@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dalit](https://en.wikipedia.org/wiki/Dalit)
-- [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
-- [Running Lisp in Production – Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
-- [Hackers Move $3.55B Worth of Bitcoin from 2016 Bitfinex Hack](https://www.coindesk.com/markets/2022/02/01/hackers-move-383m-worth-of-bitcoin-from-2016-bitfinex-hack/)
-- [Pegasus Spyware](https://news.ycombinator.com/item?id=30172577)
-- [Inside Trickbot, Russia’s Notorious Ransomware Gang](https://www.wired.com/story/trickbot-malware-group-internal-messages/)
-- [The Back of the Envelope &lpar;1984&rpar; [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
-- [Taskbar Tweaker – Ramen Software](https://ramensoftware.com/7-taskbar-tweaker)
-- [SEC Executive Pay Plan Stokes Fear of Misguided Investor Votes](https://news.bloomberglaw.com/securities-law/sec-executive-pay-plan-stokes-fear-of-misguided-investor-votes)
-- [Google plans to limit its free unlimited Drive storage for WhatsApp backups](https://www.androidpolice.com/google-plans-to-limit-its-free-unlimited-drive-storage-for-whatsapp-backups/)
+- [More than $320M stolen in latest crypto hack](https://www.cnbc.com/2022/02/02/320-million-stolen-from-wormhole-bridge-linking-solana-and-ethereum.html)
+- [Summary of the FlexSC Paper](https://catern.com/flexsc.html)
+- [A Stick Figure Guide to the Advanced Encryption Standard &lpar;AES&rpar;](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
+- [FBI urges athletes to use burner phones during Beijing Winter Olympics](https://www.zdnet.com/article/fbi-urges-olympic-athletes-to-keep-personal-devices-at-home-use-burners/)
+- [I Am Not Proof of the American Dream](https://www.nytimes.com/2022/02/02/opinion/tara-westover-educated-student-debt.html)
+- [Firefox Reality &lpar;Firefox for VR&rpar; being spun out as “Wolvic”](https://wolvic.com/)
+- [Ask HN: Effect of Posting CandyCrush to Facebook](https://news.ycombinator.com/item?id=30187544)
+- [AlphaCode &lpar;DeepMind&rpar; Solves Programming Problems on Codeforces](https://codeforces.com/blog/entry/99566?mobile=false)
+- [Iowa man convicted of defrauding lottery with predictive code granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
+- [Wordle-over-SSH](https://github.com/ajeetdsouza/clidle)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

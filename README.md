@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What the Citrix Private Equity Deal Means for Enterprise Customers](https://www.informationweek.com/cloud/what-the-citrix-private-equity-deal-means-for-enterprise-customers)
+- [How IT Managers Can Retain Talent in Today&#39;s Job Market](https://www.informationweek.com/strategic-cio/how-it-managers-can-retain-talent-in-today-s-job-market)
+- [Human-Centered Transformation Will Enable Greater Creativity in Tech](https://www.informationweek.com/strategic-cio/human-centered-transformation-will-enable-greater-creativity-in-tech)
 - [Crypto and NFTs: A New Digital Footprint for Enterprises?](https://www.informationweek.com/fintech/crypto-and-nfts-new-digital-footprint-for-enterprises)
 - [Which Way to Go for WFH Performance and Security Tools?](https://www.informationweek.com/security-and-risk-strategy/which-way-to-go-for-wfh-performance-and-security-tools-)
 - [Managing Cloud: Why to Keep a Data Center Mentality](https://www.informationweek.com/cloud/managing-cloud-why-to-keep-a-data-center-mentality)
@@ -376,9 +379,6 @@
 - [What to Expect from Network as a Service &lpar;NaaS&rpar; Technology](https://www.informationweek.com/cloud/what-to-expect-from-network-as-a-service-naas-technology)
 - [Killware: The Most Dangerous Evolution of Ransomware?](https://www.informationweek.com/security-and-risk-strategy/killware-the-most-dangerous-evolution-of-ransomware-)
 - [Enterprise Guide to Digital Transformation](https://www.informationweek.com/big-data/enterprise-guide-to-digital-transformation)
-- [Litigation vs Google May Cause Ripples in Data Collection](https://www.informationweek.com/big-data/litigation-vs-google-may-cause-ripples-in-data-collection)
-- [Watson Health Sale Signals More Pragmatic AI for Healthcare](https://www.informationweek.com/big-data/watson-health-sale-signals-more-pragmatic-ai-for-healthcare)
-- [9 Hottest IT Certifications Right Now](https://www.informationweek.com/strategic-cio/9-hottest-it-certifications-right-now)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

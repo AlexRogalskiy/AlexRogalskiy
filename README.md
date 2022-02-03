@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple will be Meta’s less evil &lpar;more useful&rpar; digital twin](https://www.computerworld.com/article/3648659/apple-will-be-metas-less-evil-more-useful-digital-twin.html#tk.rss_all)
+- [Start-up emerges with an ‘enterprise browser&#39;](https://www.computerworld.com/article/3648597/start-up-emerges-with-an-enterprise-browser.html#tk.rss_all)
+- [Fly around your phone with Android&#39;s hidden voice command center](https://www.computerworld.com/article/3648595/android-voice-command-center.html#tk.rss_all)
 - [Why Apple’s improved 2FA protection matters to business](https://www.computerworld.com/article/3648460/why-apples-improved-2fa-protection-matters-to-business.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Let’s pull back on virtual meetings, shall we?](https://www.computerworld.com/article/3648593/let-s-pull-back-on-virtual-meetings-shall-we.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [The basics of patching and repairing balky Windows PCs](https://www.computerworld.com/article/3648457/the-basics-of-patching-and-repairing-balky-windows-pcs.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple makes it easier to share &#39;unlisted&#39; apps with employees, partners, and others](https://www.computerworld.com/article/3648418/apple-makes-it-easier-to-share-unlisted-apps-with-employees-partners-and-others.html#tk.rss_all)
-- [Google Meet cheat sheet: How to get started](https://www.computerworld.com/article/3647008/google-meet-cheat-sheet-how-to-get-started.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Groovy 4.0.0 adds SQL-like querying](https://www.infoworld.com/article/3649128/groovy-400-adds-sql-like-querying.html#tk.rss_all)
+- [Hiring and retaining developers in a hybrid working world](https://www.infoworld.com/article/3648657/hiring-and-retaining-developers-in-a-hybrid-working-world.html#tk.rss_all)
+- [Faster Python made easier with Cython’s pure Python mode](https://www.infoworld.com/article/3648539/faster-python-made-easier-with-cythons-pure-python-mode.html#tk.rss_all)
+- [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_all)
 - [Go language adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-language-adds-generics.html#tk.rss_all)
 - [How SQL can unify access to APIs](https://www.infoworld.com/article/3648648/how-sql-can-unify-access-to-apis.html#tk.rss_all)
 - [3 multicloud myths that cloud pros still believe](https://www.infoworld.com/article/3648459/3-multicloud-myths-that-cloud-pros-still-believe.html#tk.rss_all)
 - [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Do you need a cloud center of excellence?](https://www.infoworld.com/article/3648590/do-you-need-a-cloud-center-of-excellence.html#tk.rss_all)
-- [The cloud is too big for one winner](https://www.infoworld.com/article/3648416/the-cloud-is-too-big-for-one-winner.html#tk.rss_all)
-- [Google releases differential privacy pipeline for Python](https://www.infoworld.com/article/3648415/google-releases-differential-privacy-pipeline-for-python.html#tk.rss_all)
-- [Roblox’s cloud-native catastrophe: A post mortem](https://www.infoworld.com/article/3648414/robloxs-cloud-native-catastrophe-a-post-mortem.html#tk.rss_all)
-- [Microsoft .NET Community Toolkit backs .NET 6](https://www.infoworld.com/article/3648649/microsoft-net-community-toolkit-backs-net-6.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

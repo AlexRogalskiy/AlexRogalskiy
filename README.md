@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [On Why I&#39;m Quitting Alcohol](https://annagat.substack.com/p/on-why-im-quitting-alcohol)
-- [The Complicated Futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
-- [SoundPrint: Telling those of us with auditory sensitivities where not to go](https://accessible.substack.com/p/soundprint-telling-those-of-us-with)
-- [Starlink Premium](https://www.starlink.com/premium)
-- [Google to turn on activity tracking for many users who turned it off](https://news.ycombinator.com/item?id=30171800)
-- [Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022](https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/)
-- [America’s Covid job-saving programme gave most of its cash to the rich](https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich)
-- [Twitter stores original account names, dox vulnerability via Twitter Spaces](https://twitter.com/tszzl/status/1488466979799265281)
-- [A toy DNS resolver](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)
-- [C2rust: Transpile C to Rust](https://c2rust.com/)
+- [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
+- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
+- [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
+- [The Sumerian Game](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
+- [Facebook loses users globally for the first time](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/)
+- [Show HN: Find alternatives to almost any popular GitHub repo](https://news.ycombinator.com/item?id=30185599)
+- [Cocktail party ideas](https://danluu.com/cocktail-ideas/)
+- [Meta shares drop 20% on Q4 earnings miss, weak outlook](https://www.nasdaq.com/articles/facebook-parent-meta-platforms-shares-tank-20-on-q4-earnings-miss-weak-outlook)
+- [Nyxt browser annotations beat pen and paper, believe me](https://nyxt.atlas.engineer/article/annotations.org)
+- [Reduced-hours software development engineer position at Amazon](https://www.amazon.jobs/en/jobs/1896107/reduced-hours-software-development-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

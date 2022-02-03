@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Starlink satellite internet launches premium tier for remote businesses and ‘super users’](https://www.itworldcanada.com/article/starlink-satellite-internet-launches-premium-tier-for-remote-businesses-and-super-users/472430)
+- [UBC researchers and AWS team up to discover new strains of RNA viruses](https://www.itworldcanada.com/article/ubc-researchers-and-aws-team-up-to-discover-new-strains-of-rna-viruses/471516)
+- [Global tablet and Chromebook shipments slide in Q4 2021](https://www.itworldcanada.com/article/global-tablet-and-chromebook-shipments-slide-in-q4-2021/472409)
+- [BlackBerry sells legacy patents for $600 million](https://www.itworldcanada.com/article/blackberry-sells-legacy-patents-for-600-million/472083)
+- [Google Topics: Another try at a third-party cookie replacement](https://www.itworldcanada.com/article/google-topics-another-try-at-a-third-party-cookie-replacement/472336)
+- [Moving and Shaking the Real Estate Industry](https://www.itworldcanada.com/article/moving-and-shaking-the-real-estate-industry/472285)
+- [Cyber Security Today, Feb. 2, 2022 – Critical firmware bugs found in products from major IT manufacturers](https://www.itworldcanada.com/article/cyber-security-today-feb-2-2022-critical-firmware-bugs-found-in-products-from-major-it-manufacturers/472291)
+- [Hashtag Trending Feb. 2 – Apple and Google Maps hide Tim Cook’s house; right-to-repair for farmers; Sony buys Bungie](https://www.itworldcanada.com/article/hashtag-trending-feb-2-apple-and-google-maps-hide-tim-cooks-house-right-to-repair-for-farmers-sony-buys-bungie/472303)
 - [Two APT groups accounted for almost half of cyberattacks by advanced threat actors in Q3: Report](https://www.itworldcanada.com/article/two-apt-groups-accounted-for-almost-half-of-cyberattacks-by-advanced-threat-actors-in-q3-report/472161)
 - [Coffee Briefing Feb. 1, 2022 – Applications open for second Google cloud Accelerator Canada; HCL launches Engineering and R&amp;D centre in Alberta; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-1-2022-applications-open-for-second-google-cloud-accelerator-canada-hcl-launches-engineering-and-r-and-more/472175)
-- [Admins urged to patch serious Samba vulnerability](https://www.itworldcanada.com/article/admins-urged-to-patch-serious-samba-vulnerability/472215)
-- [Hashtag Trending Feb. 1 – Semiconductor revenue increase; Netflix loses viewership after TV show debut month; Chinese satellite maneuvers](https://www.itworldcanada.com/article/hashtag-trending-feb-1-semiconductor-revenue-increase-netflix-loses-viewership-after-tv-show-debut-month-chinese-satellite-maneuvers/472165)
-- [How you sign on the dotted line has been transformed](https://www.itworldcanada.com/article/how-you-sign-on-the-dotted-line-has-been-transformed/472184)
-- [Montreal start-up launches smart bracelet to help save kids’ lives in busy emergency rooms](https://www.itworldcanada.com/article/montreal-start-up-launches-smart-bracelet-to-help-save-kids-lives-in-busy-emergency-rooms/472064)
-- [Citrix sold for $16.5 billion, to be combined with TIBCO](https://www.itworldcanada.com/article/citrix-sold-for-16-5-billion-to-be-combined-with-tibco/472093)
-- [A Canadian-themed dark market will be back, predicts expert](https://www.itworldcanada.com/article/a-canadian-themed-dark-market-will-be-back-predicts-expert/471999)
-- [Google Canada announces its second cloud accelerator program for Canadian startups](https://www.itworldcanada.com/article/google-canada-announces-its-second-cloud-accelerator-program-for-canadian-startups/472026)
-- [Cyber Security Today, Jan. 31, 2022 – Windows Update alert, a warning to data centre admins and a digital loan platform hacked](https://www.itworldcanada.com/article/cyber-security-today-jan-31-2022-windows-update-alert-a-warning-to-data-centre-admins-and-a-digital-loan-platform-hacked/471934)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

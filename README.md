@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The top skills IT professionals need to succeed](https://www.itworldcanada.com/article/the-top-skills-it-professionals-need-to-succeed/472461)
+- [Hashtag Trending Feb. 3 – Big tech should pay back online scam victims; Is there a demand for the metaverse? Texas preps it’s power grid](https://www.itworldcanada.com/article/hashtag-trending-feb-3-big-tech-should-pay-back-online-scam-victims-is-there-a-demand-for-the-metaverse-texas-preps-its-power-grid/472454)
 - [Starlink satellite internet launches premium tier for remote businesses and ‘super users’](https://www.itworldcanada.com/article/starlink-satellite-internet-launches-premium-tier-for-remote-businesses-and-super-users/472430)
 - [UBC researchers and AWS team up to discover new strains of RNA viruses](https://www.itworldcanada.com/article/ubc-researchers-and-aws-team-up-to-discover-new-strains-of-rna-viruses/471516)
+- [Telus launches PureFibre X with Internet speeds of 2.5 Gbps in Edmonton and parts of B.C.](https://www.itworldcanada.com/article/telus-launches-purefibre-x-with-internet-speeds-of-2-5-gbps-in-edmonton-and-parts-of-b-c/472464)
 - [Global tablet and Chromebook shipments slide in Q4 2021](https://www.itworldcanada.com/article/global-tablet-and-chromebook-shipments-slide-in-q4-2021/472409)
 - [BlackBerry sells legacy patents for $600 million](https://www.itworldcanada.com/article/blackberry-sells-legacy-patents-for-600-million/472083)
 - [Google Topics: Another try at a third-party cookie replacement](https://www.itworldcanada.com/article/google-topics-another-try-at-a-third-party-cookie-replacement/472336)
 - [Moving and Shaking the Real Estate Industry](https://www.itworldcanada.com/article/moving-and-shaking-the-real-estate-industry/472285)
 - [Cyber Security Today, Feb. 2, 2022 – Critical firmware bugs found in products from major IT manufacturers](https://www.itworldcanada.com/article/cyber-security-today-feb-2-2022-critical-firmware-bugs-found-in-products-from-major-it-manufacturers/472291)
-- [Hashtag Trending Feb. 2 – Apple and Google Maps hide Tim Cook’s house; right-to-repair for farmers; Sony buys Bungie](https://www.itworldcanada.com/article/hashtag-trending-feb-2-apple-and-google-maps-hide-tim-cooks-house-right-to-repair-for-farmers-sony-buys-bungie/472303)
-- [Two APT groups accounted for almost half of cyberattacks by advanced threat actors in Q3: Report](https://www.itworldcanada.com/article/two-apt-groups-accounted-for-almost-half-of-cyberattacks-by-advanced-threat-actors-in-q3-report/472161)
-- [Coffee Briefing Feb. 1, 2022 – Applications open for second Google cloud Accelerator Canada; HCL launches Engineering and R&amp;D centre in Alberta; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-1-2022-applications-open-for-second-google-cloud-accelerator-canada-hcl-launches-engineering-and-r-and-more/472175)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

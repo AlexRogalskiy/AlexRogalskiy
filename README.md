@@ -399,6 +399,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EC proposes new directive to improve gig economy work conditions](https://www.computerweekly.com/news/252512896/EC-proposes-new-directive-to-improve-gig-economy-work-conditions)
+- [Brookson and Parasol cyber attacks: Contractor complaints about delayed payments continue](https://www.computerweekly.com/news/252512871/Brookson-and-Parasol-cyber-attacks-Contractor-complaints-about-delayed-payments-continue)
+- [French Supreme Court raises constitutional questions over EncroChat hacking secrecy](https://www.computerweekly.com/news/252512850/French-Supreme-Court-raises-constitutional-questions-over-EncroChat-hacking-secrecy)
 - [Security Think Tank: How to build a human firewall](https://www.computerweekly.com/opinion/Security-Think-Tank-How-to-build-a-human-firewall)
 - [Mechanism underlying cookie popups found in breach of GDPR](https://www.computerweekly.com/news/252512832/Mechanism-underlying-cookie-popups-found-in-breach-of-GDPR)
 - [Zero-trust to soar in 2022, but dogged by implementation challenges](https://www.computerweekly.com/news/252512830/Zero-trust-to-soar-in-2022-but-dogged-by-implementation-challenges)
@@ -406,9 +409,6 @@
 - [Finland brings cryostats and other cool things to quantum computing](https://www.computerweekly.com/feature/Finland-brings-cryostats-and-other-cool-things-to-quantum-computing)
 - [British Council data exposed by third-party cyber failure](https://www.computerweekly.com/news/252512816/British-Council-data-exposed-by-third-party-cyber-failure)
 - [What neurodivergent people really think of working in cyber security](https://www.computerweekly.com/feature/What-neurodivergent-people-really-think-of-working-in-cyber-security)
-- [JustPark moves from AWS to take up space in the Google public cloud](https://www.computerweekly.com/news/252512806/JustPark-moves-from-AWS-to-take-up-space-in-the-Google-public-cloud)
-- [Ikea hopes to fill 150 tech roles across Europe this year](https://www.computerweekly.com/news/252512807/Ikea-hopes-to-fill-150-tech-roles-across-Europe-this-year)
-- [Check Point buys Spectral to safeguard cloud development](https://www.computerweekly.com/news/252512766/Check-Point-buys-Spectral-to-safeguard-cloud-development)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

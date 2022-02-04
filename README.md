@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Research shows Windows updates can take eight hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-eight-hours-to-complete.html#tk.rss_all)
+- [Report: US Black workers in tech switch jobs more often, feel less connected](https://www.computerworld.com/article/3649052/report-us-black-workers-in-tech-switch-jobs-more-often-feel-less-connected.html#tk.rss_all)
+- [Second Israeli firm accused of undermining iPhones, like NSO Group](https://www.computerworld.com/article/3649208/second-israeli-firm-accused-of-undermining-iphones-like-nso-group.html#tk.rss_all)
+- [Tear up your remote work policy &lpar;if you have one&rpar; and start over](https://www.computerworld.com/article/3648591/tear-up-your-remote-work-policy-if-you-have-one-and-start-over.html#tk.rss_all)
+- [With ‘unlisted apps,’ Apple makes another enterprise move](https://www.computerworld.com/article/3648988/with-unlisted-apps-apple-makes-another-enterprise-move.html#tk.rss_all)
 - [Apple will be Meta’s less evil &lpar;more useful&rpar; digital twin](https://www.computerworld.com/article/3648659/apple-will-be-metas-less-evil-more-useful-digital-twin.html#tk.rss_all)
 - [Start-up emerges with an ‘enterprise browser&#39;](https://www.computerworld.com/article/3648597/start-up-emerges-with-an-enterprise-browser.html#tk.rss_all)
 - [Fly around your phone with Android&#39;s hidden voice command center](https://www.computerworld.com/article/3648595/android-voice-command-center.html#tk.rss_all)
 - [Why Apple’s improved 2FA protection matters to business](https://www.computerworld.com/article/3648460/why-apples-improved-2fa-protection-matters-to-business.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Let’s pull back on virtual meetings, shall we?](https://www.computerworld.com/article/3648593/let-s-pull-back-on-virtual-meetings-shall-we.html#tk.rss_all)
-- [Bitcoin: Delusions of money](https://www.computerworld.com/article/3648339/bitcoin-delusions-of-money.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [The basics of patching and repairing balky Windows PCs](https://www.computerworld.com/article/3648457/the-basics-of-patching-and-repairing-balky-windows-pcs.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

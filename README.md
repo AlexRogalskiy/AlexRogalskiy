@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [VPN](https://www.reddit.com/r/InformationTechnology/comments/sjw92c/vpn/)
+- [Getting into cyber security](https://www.reddit.com/r/InformationTechnology/comments/sjqz49/getting_into_cyber_security/)
+- [How do I implement the queuing process of a patient queue management system?](https://www.reddit.com/r/InformationTechnology/comments/sjfhor/how_do_i_implement_the_queuing_process_of_a/)
+- [Application Delivery Controller Market Projected to reach $3.9 billion by 2024 at a CAGR 10.0%](https://www.reddit.com/r/InformationTechnology/comments/sjey1v/application_delivery_controller_market_projected/)
 - [Logistics Automation Market Projected to Grow $88.9 billion by 2026 at a CAGR of 10.6%](https://www.reddit.com/r/InformationTechnology/comments/siqd0n/logistics_automation_market_projected_to_grow_889/)
 - [Managed Services Market Projected to reach $354.8 billion by 2026 at a CAGR of 7.9%](https://www.reddit.com/r/InformationTechnology/comments/siix1t/managed_services_market_projected_to_reach_3548/)
 - [3rd week at my first tech job](https://www.reddit.com/r/InformationTechnology/comments/sifwtp/3rd_week_at_my_first_tech_job/)
 - [Accidentally sent nude pic to my work email :/ I deleted it from my inbox and deleted folder right away and purged it the next day. Should I be worried?](https://www.reddit.com/r/InformationTechnology/comments/siayh5/accidentally_sent_nude_pic_to_my_work_email_i/)
 - [Potential Opportunity Worth ~USD 80 Bn Opening Up in Cloud Computing - Exclusive Research Study Published by MarketsandMarkets™](https://www.reddit.com/r/InformationTechnology/comments/shvv10/potential_opportunity_worth_usd_80_bn_opening_up/)
 - [RegTech market size is expected to grow from USD 6.3 billion in 2020 to USD 16.0 billion by 2025](https://www.reddit.com/r/InformationTechnology/comments/shrpz3/regtech_market_size_is_expected_to_grow_from_usd/)
-- [Video Conferencing Market may reach to $22.5 billion by 2026 at 19.7% CAGR](https://www.reddit.com/r/InformationTechnology/comments/shr2q0/video_conferencing_market_may_reach_to_225/)
-- [Tell me what my job title should be](https://www.reddit.com/r/InformationTechnology/comments/shhsgi/tell_me_what_my_job_title_should_be/)
-- [Could use some insight on initial employment](https://www.reddit.com/r/InformationTechnology/comments/she1az/could_use_some_insight_on_initial_employment/)
-- [What&#39;s the craziest question you&#39;ve been asked by a team member?](https://www.reddit.com/r/InformationTechnology/comments/sh8r9u/whats_the_craziest_question_youve_been_asked_by_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

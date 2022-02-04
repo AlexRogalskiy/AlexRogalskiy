@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shipwreck in US waters confirmed as Captain Cook’s Endeavour](https://www.theguardian.com/australia-news/2022/feb/03/captain-cook-ship-endeavour-identified-confirmed-shipwreck-us-rhode-island)
-- [Covid news: Anger as Tory MP says lockdown breach ‘like parking fine’; Germany could relax restrictions in March – as it happened](https://www.theguardian.com/world/live/2022/feb/02/covid-live-news-france-to-ease-some-restrictions-tsunami-hit-tonga-enters-lockdown)
-- [Britishvolt and Glencore to build plant capable of recycling lithium-ion batteries](https://www.theguardian.com/business/2022/feb/03/britishvolt-and-glencore-to-build-plant-capable-of-recycling-lithium-ion-batteries)
-- [Spotify stocks fall as executives seek to reassure amid Rogan controversy](https://www.theguardian.com/technology/2022/feb/02/spotify-stocks-fall-rogan-controversy)
-- [Two or more chronic health problems in middle age ‘doubles dementia risk’](https://www.theguardian.com/society/2022/feb/02/two-chronic-health-problems-middle-age-double-dementia-risk-multimorbidity-study)
-- [Opioid overdose deaths to ‘grow exponentially’ without action – study](https://www.theguardian.com/us-news/2022/feb/02/doubling-opioid-overdose-deaths-global-growth-lancet-stanford-study)
-- [Opposition councillors fail to block plans for new Wimbledon show court](https://www.theguardian.com/sport/2022/feb/02/councillors-vote-against-wimbledon-show-court)
-- [Treasury preparing 11th hour package to soften national cost of living crisis](https://www.theguardian.com/business/2022/feb/02/treasury-preparing-11th-hour-package-to-soften-national-cost-of-living-crisis)
-- [Pre-diabetes study finds benefit in brighter days and dimmer evenings](https://www.theguardian.com/society/2022/feb/02/pre-diabetes-study-finds-benefit-in-brighter-days-and-dimmer-evenings)
-- [Havana Syndrome could be caused by pulsed energy devices – US expert report](https://www.theguardian.com/us-news/2022/feb/02/havana-syndrome-concealable-devices-cia-report)
+- [Rescuers in Morocco dig for third day to reach boy, 5, trapped in a well](https://www.theguardian.com/world/2022/feb/04/rescuers-in-morocco-dig-for-third-day-to-reach-boy-5-trapped-in-a-well)
+- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/feb/04/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
+- [‘No viable alternative’: UK must introduce road pricing, MPs say](https://www.theguardian.com/politics/2022/feb/04/uk-road-pricing-transport-committee-mps-electric-shift)
+- [Winter Olympics 2022: 10 things to look out for in Beijing](https://www.theguardian.com/sport/2022/feb/04/winter-olympics-2022-10-things-to-look-out-for-in-beijing)
+- [People in England surviving cancer for longer, NHS reports](https://www.theguardian.com/society/2022/feb/03/cancer-england-survival-statistics-increases-nhs)
+- [I am happily settled, and yet I still think of my first love. Will it forever hold me in its sway? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/feb/04/i-am-happily-settled-and-yet-i-still-think-of-my-first-love-will-it-forever-hold-me-in-its-sway)
+- [Amazon profits surge as company raises price of Prime membership](https://www.theguardian.com/technology/2022/feb/03/amazon-profits-surge-cost-increase-prime-membership)
+- [Facebook suffers $230bn wipeout in biggest one-day US stock plunge](https://www.theguardian.com/technology/2022/feb/03/facebook-stock-shares-meta-mark-zuckerberg)
+- [‘I was astonished’: how a TikToker sent his dad’s unreleased 43-year-old song viral](https://www.theguardian.com/culture/2022/feb/04/i-was-astonished-how-a-tiktoker-sent-his-dads-unreleased-43-year-old-song-viral)
+- [Ottawa protests: tensions grow as ‘intolerable’ truck blockade paralyzes Canada capital](https://www.theguardian.com/discover-cool-canada/2022/feb/03/ottawa-protests-tensions-grow-truck-blockade-paralyzes-canada-capital)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

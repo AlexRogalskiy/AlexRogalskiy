@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
-- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
-- [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
-- [The Sumerian Game](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
-- [Facebook loses users globally for the first time](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/)
-- [Show HN: Find alternatives to almost any popular GitHub repo](https://news.ycombinator.com/item?id=30185599)
-- [Cocktail party ideas](https://danluu.com/cocktail-ideas/)
-- [Meta shares drop 20% on Q4 earnings miss, weak outlook](https://www.nasdaq.com/articles/facebook-parent-meta-platforms-shares-tank-20-on-q4-earnings-miss-weak-outlook)
-- [Nyxt browser annotations beat pen and paper, believe me](https://nyxt.atlas.engineer/article/annotations.org)
-- [Reduced-hours software development engineer position at Amazon](https://www.amazon.jobs/en/jobs/1896107/reduced-hours-software-development-engineer)
+- [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
+- [Australian mining billionaire files lawsuit against Facebook over scam ads](https://www.reuters.com/technology/australian-mining-billionaire-files-lawsuit-against-facebook-over-scam-ads-2022-02-03/)
+- [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
+- [Slackware 15.0](http://www.slackware.com/releasenotes/15.0.php)
+- [Openbase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
+- [Dip Switch USB Stick](https://twitter.com/bikerglen/status/1482516332432162820)
+- [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
+- [How we broke the supply chain](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
+- [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
+- [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

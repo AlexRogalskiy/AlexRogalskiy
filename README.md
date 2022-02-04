@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [More than $320M stolen in latest crypto hack](https://www.cnbc.com/2022/02/02/320-million-stolen-from-wormhole-bridge-linking-solana-and-ethereum.html)
-- [Summary of the FlexSC Paper](https://catern.com/flexsc.html)
-- [A Stick Figure Guide to the Advanced Encryption Standard &lpar;AES&rpar;](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-- [FBI urges athletes to use burner phones during Beijing Winter Olympics](https://www.zdnet.com/article/fbi-urges-olympic-athletes-to-keep-personal-devices-at-home-use-burners/)
-- [I Am Not Proof of the American Dream](https://www.nytimes.com/2022/02/02/opinion/tara-westover-educated-student-debt.html)
-- [Firefox Reality &lpar;Firefox for VR&rpar; being spun out as “Wolvic”](https://wolvic.com/)
-- [Ask HN: Effect of Posting CandyCrush to Facebook](https://news.ycombinator.com/item?id=30187544)
-- [AlphaCode &lpar;DeepMind&rpar; Solves Programming Problems on Codeforces](https://codeforces.com/blog/entry/99566?mobile=false)
-- [Iowa man convicted of defrauding lottery with predictive code granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
-- [Wordle-over-SSH](https://github.com/ajeetdsouza/clidle)
+- [Distowatch – Linux Distribution News and Rankins](https://distrowatch.com/)
+- [Show HN: Wordle Solver in Go](https://github.com/ammario/wordle-solver)
+- [Stop the Earn IT Act to Save Our Privacy](https://act.eff.org/action/stop-the-earn-it-act-to-save-our-privacy)
+- [Information Theory and the Digital Age [pdf]](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf)
+- [Neography: Constructed Writing Systems](https://old.reddit.com/r/neography/)
+- [Astronomers set up center to counter threat of satellite swarms](https://www.science.org/content/article/astronomers-set-center-counter-threat-satellite-swarms)
+- [Cascade layers are coming to the browser](https://developer.chrome.com/blog/cascade-layers/)
+- [Big Web Almanac Quiz](https://big-web-almanac-game.web.app/)
+- [Ask HN: Database or Maybe Google Programmable Search Engine?](https://news.ycombinator.com/item?id=30201735)
+- [How Resident Evil 7 Saved Resident Evil [video]](https://www.youtube.com/watch?v=3cR89qOunY8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

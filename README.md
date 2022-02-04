@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Supercloud: The 2022 Answer to Multi-Cloud Challenges](https://www.informationweek.com/cloud/supercloud-the-2022-answer-to-multi-cloud-challenges)
+- [On-Premises Selenium Grid vs Selenium Grid Cloud: Which To Choose?](https://www.informationweek.com/cloud/on-premises-selenium-grid-vs-selenium-grid-cloud-which-to-choose-)
 - [What the Citrix Private Equity Deal Means for Enterprise Customers](https://www.informationweek.com/cloud/what-the-citrix-private-equity-deal-means-for-enterprise-customers)
+- [Global Tech Policy Briefing: January 2022](https://www.informationweek.com/government/global-tech-policy-briefing-january-2022)
 - [How IT Managers Can Retain Talent in Today&#39;s Job Market](https://www.informationweek.com/strategic-cio/how-it-managers-can-retain-talent-in-today-s-job-market)
 - [Human-Centered Transformation Will Enable Greater Creativity in Tech](https://www.informationweek.com/strategic-cio/human-centered-transformation-will-enable-greater-creativity-in-tech)
 - [Crypto and NFTs: A New Digital Footprint for Enterprises?](https://www.informationweek.com/fintech/crypto-and-nfts-new-digital-footprint-for-enterprises)
 - [Which Way to Go for WFH Performance and Security Tools?](https://www.informationweek.com/security-and-risk-strategy/which-way-to-go-for-wfh-performance-and-security-tools-)
 - [Managing Cloud: Why to Keep a Data Center Mentality](https://www.informationweek.com/cloud/managing-cloud-why-to-keep-a-data-center-mentality)
 - [Ways to Smooth the Bumps on the Data-Driven Path](https://www.informationweek.com/big-data/ways-to-smooth-the-bumps-on-the-data-driven-path)
-- [What to Expect from Network as a Service &lpar;NaaS&rpar; Technology](https://www.informationweek.com/cloud/what-to-expect-from-network-as-a-service-naas-technology)
-- [Killware: The Most Dangerous Evolution of Ransomware?](https://www.informationweek.com/security-and-risk-strategy/killware-the-most-dangerous-evolution-of-ransomware-)
-- [Enterprise Guide to Digital Transformation](https://www.informationweek.com/big-data/enterprise-guide-to-digital-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

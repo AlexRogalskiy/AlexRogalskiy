@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Swift-C++ interoperability effort moves forward](https://www.infoworld.com/article/3649131/swift-c-plus-plus-interoperability-effort-moves-forward.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [A short guide to cloud computing training and certifications](https://www.infoworld.com/article/3649109/a-short-guide-to-cloud-computing-training-and-certifications.html#tk.rss_all)
+- [What is human-in-the-loop machine learning? Better data, better models](https://www.infoworld.com/article/3648456/what-is-human-in-the-loop-machine-learning-better-data-better-models.html#tk.rss_all)
 - [Java proposal would lower GC latency](https://www.infoworld.com/article/3649194/java-proposal-would-lower-gc-latency.html#tk.rss_all)
 - [How to handle Java errors and cleanup without finalize](https://www.infoworld.com/article/3649089/how-to-handle-java-errors-and-cleanup-without-finalize.html#tk.rss_all)
 - [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html#tk.rss_all)
 - [3 predictions for AI adoption in 2022](https://www.infoworld.com/article/3648013/3-predictions-for-ai-adoption-in-2022.html#tk.rss_all)
 - [Groovy 4.0.0 adds SQL-like querying](https://www.infoworld.com/article/3649128/groovy-400-adds-sql-like-querying.html#tk.rss_all)
 - [How to hire and retain developers in a hybrid working world](https://www.infoworld.com/article/3648657/how-to-hire-and-retain-developers-in-a-hybrid-working-world.html#tk.rss_all)
-- [Faster Python made easier with Cython’s pure Python mode](https://www.infoworld.com/article/3648539/faster-python-made-easier-with-cythons-pure-python-mode.html#tk.rss_all)
-- [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_all)
-- [Go language adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-language-adds-generics.html#tk.rss_all)
-- [How SQL can unify access to APIs](https://www.infoworld.com/article/3648648/how-sql-can-unify-access-to-apis.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

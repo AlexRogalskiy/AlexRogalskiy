@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Beginner&#39;s guide to R: Syntax quirks you&#39;ll want to know](https://www.computerworld.com/article/2497319/business-intelligence-beginner-s-guide-to-r-syntax-quirks-you-ll-want-to-know.html#tk.rss_all)
+- [Apple begins the Great App Store cost negotiation](https://www.computerworld.com/article/3649111/apple-begins-the-great-app-store-cost-negotiation.html#tk.rss_all)
+- [On building a better briefing](https://www.computerworld.com/article/3649110/on-building-a-better-briefing.html#tk.rss_all)
+- [Furnishing the work-from-home office](https://www.computerworld.com/article/3649190/furnishing-the-work-from-home-office.html#tk.rss_all)
+- [Q&amp;A: CISO sees &#39;enterprise&#39; browser as easier way to monitor employee web use](https://www.computerworld.com/article/3648968/qa-ciso-sees-enterprise-browser-as-easier-way-to-monitor-employee-web-use.html#tk.rss_all)
 - [Research shows Windows updates can take eight hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-eight-hours-to-complete.html#tk.rss_all)
 - [Report: US Black workers in tech switch jobs more often, feel less connected](https://www.computerworld.com/article/3649052/report-us-black-workers-in-tech-switch-jobs-more-often-feel-less-connected.html#tk.rss_all)
 - [Second Israeli firm accused of undermining iPhones, like NSO Group](https://www.computerworld.com/article/3649208/second-israeli-firm-accused-of-undermining-iphones-like-nso-group.html#tk.rss_all)
 - [Tear up your remote work policy &lpar;if you have one&rpar; and start over](https://www.computerworld.com/article/3648591/tear-up-your-remote-work-policy-if-you-have-one-and-start-over.html#tk.rss_all)
 - [With ‘unlisted apps,’ Apple makes another enterprise move](https://www.computerworld.com/article/3648988/with-unlisted-apps-apple-makes-another-enterprise-move.html#tk.rss_all)
-- [Apple will be Meta’s less evil &lpar;more useful&rpar; digital twin](https://www.computerworld.com/article/3648659/apple-will-be-metas-less-evil-more-useful-digital-twin.html#tk.rss_all)
-- [Start-up emerges with an ‘enterprise browser&#39;](https://www.computerworld.com/article/3648597/start-up-emerges-with-an-enterprise-browser.html#tk.rss_all)
-- [Fly around your phone with Android&#39;s hidden voice command center](https://www.computerworld.com/article/3648595/android-voice-command-center.html#tk.rss_all)
-- [Why Apple’s improved 2FA protection matters to business](https://www.computerworld.com/article/3648460/why-apples-improved-2fa-protection-matters-to-business.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

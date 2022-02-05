@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
-- [Australian mining billionaire files lawsuit against Facebook over scam ads](https://www.reuters.com/technology/australian-mining-billionaire-files-lawsuit-against-facebook-over-scam-ads-2022-02-03/)
-- [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
-- [Slackware 15.0](http://www.slackware.com/releasenotes/15.0.php)
-- [Openbase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
-- [Dip Switch USB Stick](https://twitter.com/bikerglen/status/1482516332432162820)
-- [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
-- [How we broke the supply chain](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
-- [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
-- [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
+- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
+- [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
+- [Google gives execs raises after declining to boost employees&#39; pay – HRD Canada](https://www.hcamag.com/ca/specialization/industrial-relations/google-gives-execs-raises-after-declining-to-boost-employees-pay/321236)
+- [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
+- [SpaceX engineers in Fiji for six months](https://www.fbcnews.com.fj/business/spacex-engineers-in-fiji-for-six-months/)
+- [Cassowary – Run Windows Apps on Linux using a VM as if they were native apps](https://github.com/casualsnek/cassowary)
+- [Aro: A C compiler written in Zig](https://github.com/Vexu/arocc)
+- [Serenity OS: Interview](https://corecursive.com/serenity-os-with-andreas-kling/)
+- [Show HN: Angularis – like Tetris, but based on triangles](https://angularis.mondaybits.com/)
+- [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Distowatch – Linux Distribution News and Rankins](https://distrowatch.com/)
-- [Show HN: Wordle Solver in Go](https://github.com/ammario/wordle-solver)
-- [Stop the Earn IT Act to Save Our Privacy](https://act.eff.org/action/stop-the-earn-it-act-to-save-our-privacy)
-- [Information Theory and the Digital Age [pdf]](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf)
-- [Neography: Constructed Writing Systems](https://old.reddit.com/r/neography/)
-- [Astronomers set up center to counter threat of satellite swarms](https://www.science.org/content/article/astronomers-set-center-counter-threat-satellite-swarms)
-- [Cascade layers are coming to the browser](https://developer.chrome.com/blog/cascade-layers/)
-- [Big Web Almanac Quiz](https://big-web-almanac-game.web.app/)
-- [Ask HN: Database or Maybe Google Programmable Search Engine?](https://news.ycombinator.com/item?id=30201735)
-- [How Resident Evil 7 Saved Resident Evil [video]](https://www.youtube.com/watch?v=3cR89qOunY8)
+- [Ask HN: Are there software engineers in big tech who use XMonad day to day?](https://news.ycombinator.com/item?id=30216302)
+- [Alzheimer&#39;s-like changes found in Covid patients&#39; brains](https://news.yahoo.com/alzheimers-changes-found-covid-patients-190738037.html)
+- [Delta CEO wants U.S. to put unruly passengers on &#39;no-fly&#39; list](https://www.reuters.com/business/aerospace-defense/delta-ceo-wants-us-place-convicted-unruly-passengers-no-fly-list-2022-02-04/)
+- [Why airline route maps look the way they do](https://www.cnn.com/travel/article/airline-route-maps/index.html)
+- [Front End vs. Back End System Design Interviews](https://www.zhenghao.io/posts/system-design-interviews)
+- [Detecting Individual Decision-Making Style in Chess](https://proceedings.neurips.cc/paper/2021/hash/ccf8111910291ba472b385e9c5f59099-Abstract.html)
+- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
+- [Ask HN: What tools and templates do you use to document your Product Analytics?](https://news.ycombinator.com/item?id=30216192)
+- [Effectiveness of Face Mask Use in Indoor Public Settings for Prevention of Covid](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm)
+- [CDC turns to poop surveillance for future Covid monitoring](https://arstechnica.com/science/2022/02/cdc-turns-to-poop-surveillance-for-future-covid-monitoring/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

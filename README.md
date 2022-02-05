@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rescuers in Morocco dig for third day to reach boy, 5, trapped in a well](https://www.theguardian.com/world/2022/feb/04/rescuers-in-morocco-dig-for-third-day-to-reach-boy-5-trapped-in-a-well)
-- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/feb/04/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
-- [‘No viable alternative’: UK must introduce road pricing, MPs say](https://www.theguardian.com/politics/2022/feb/04/uk-road-pricing-transport-committee-mps-electric-shift)
-- [Winter Olympics 2022: 10 things to look out for in Beijing](https://www.theguardian.com/sport/2022/feb/04/winter-olympics-2022-10-things-to-look-out-for-in-beijing)
-- [People in England surviving cancer for longer, NHS reports](https://www.theguardian.com/society/2022/feb/03/cancer-england-survival-statistics-increases-nhs)
-- [I am happily settled, and yet I still think of my first love. Will it forever hold me in its sway? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/feb/04/i-am-happily-settled-and-yet-i-still-think-of-my-first-love-will-it-forever-hold-me-in-its-sway)
-- [Amazon profits surge as company raises price of Prime membership](https://www.theguardian.com/technology/2022/feb/03/amazon-profits-surge-cost-increase-prime-membership)
-- [Facebook suffers $230bn wipeout in biggest one-day US stock plunge](https://www.theguardian.com/technology/2022/feb/03/facebook-stock-shares-meta-mark-zuckerberg)
-- [‘I was astonished’: how a TikToker sent his dad’s unreleased 43-year-old song viral](https://www.theguardian.com/culture/2022/feb/04/i-was-astonished-how-a-tiktoker-sent-his-dads-unreleased-43-year-old-song-viral)
-- [Ottawa protests: tensions grow as ‘intolerable’ truck blockade paralyzes Canada capital](https://www.theguardian.com/discover-cool-canada/2022/feb/03/ottawa-protests-tensions-grow-truck-blockade-paralyzes-canada-capital)
+- [Amazon reportedly circling exercise bike maker Peloton as company flounders](https://www.theguardian.com/business/2022/feb/04/peloton-amazon-potential-acquisition-deal)
+- [Justin Langer resigns as Australia cricket coach following CA board meeting](https://www.theguardian.com/sport/2022/feb/05/justin-langer-resigns-as-australia-cricket-coach-following-ca-board-meeting)
+- [Tube workers to strike over jobs, pensions and working conditions](https://www.theguardian.com/uk-news/2022/feb/04/tube-workers-strike-march-jobs-pensions-working-conditions-rmt)
+- [‘I never want to see a phone again’: Alice Seabright on her visceral social media drama](https://www.theguardian.com/tv-and-radio/2022/feb/05/i-never-want-to-see-a-phone-again-alice-seabright-on-her-visceral-social-media-drama)
+- [Aboriginal flag to permanently fly above Sydney Harbour Bridge as premier blasts timeframe](https://www.theguardian.com/australia-news/2022/feb/05/aboriginal-flag-to-permanently-fly-above-sydney-harbour-bridge-as-premier-blasts-timeframe)
+- [‘He is wrong’: Pence rebuts Trump claim that he could have overturned election](https://www.theguardian.com/us-news/2022/feb/04/mike-pence-rebukes-donald-trump-election-claims-florida)
+- [Middlesbrough knock Manchester United out of FA Cup on penalties](https://www.theguardian.com/football/2022/feb/04/manchester-united-middlesbrough-fa-cup-match-report)
+- [Johnson struggles to rally team as pressure on him builds up](https://www.theguardian.com/politics/2022/feb/04/boris-johnson-struggles-to-rally-team-as-pressure-on-him-builds-up)
+- [Sending threatening posts among offences in revised online safety bill](https://www.theguardian.com/society/2022/feb/04/sending-threatening-posts-among-offences-in-revised-online-safety-bill)
+- [Antonio Conte delivers scathing review of Tottenham’s transfer mistakes](https://www.theguardian.com/football/2022/feb/04/antonio-conte-scathing-tottenham-transfer-mistakes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Are there software engineers in big tech who use XMonad day to day?](https://news.ycombinator.com/item?id=30216302)
-- [Alzheimer&#39;s-like changes found in Covid patients&#39; brains](https://news.yahoo.com/alzheimers-changes-found-covid-patients-190738037.html)
-- [Delta CEO wants U.S. to put unruly passengers on &#39;no-fly&#39; list](https://www.reuters.com/business/aerospace-defense/delta-ceo-wants-us-place-convicted-unruly-passengers-no-fly-list-2022-02-04/)
-- [Why airline route maps look the way they do](https://www.cnn.com/travel/article/airline-route-maps/index.html)
-- [Front End vs. Back End System Design Interviews](https://www.zhenghao.io/posts/system-design-interviews)
-- [Detecting Individual Decision-Making Style in Chess](https://proceedings.neurips.cc/paper/2021/hash/ccf8111910291ba472b385e9c5f59099-Abstract.html)
-- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
-- [Ask HN: What tools and templates do you use to document your Product Analytics?](https://news.ycombinator.com/item?id=30216192)
-- [Effectiveness of Face Mask Use in Indoor Public Settings for Prevention of Covid](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm)
-- [CDC turns to poop surveillance for future Covid monitoring](https://arstechnica.com/science/2022/02/cdc-turns-to-poop-surveillance-for-future-covid-monitoring/)
+- [Expanded Child Tax Policy Slashed Child Poverty](https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d)
+- [Submarines – music video made entirely with AI](https://www.ziaxaza.com/)
+- [Show HN: CNC G and M Code Parser in Python](https://github.com/CodeNameMPC/GCodeParser)
+- [Anatomy of the State [pdf]](https://cdn.mises.org/Anatomy+of+the+State_3.pdf)
+- [Is Quora Skirting the Edge of ‘Spammy’ When It Comes to SEO? &lpar;2016&rpar;](https://moz.com/blog/is-quora-skirting-the-edge-of-spammy-when-it-comes-to-seo)
+- [Food Prices Approach Record Highs, Threatening the World’s Poorest](https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html)
+- [Bricks app: free note-taking and multi-line calculator](https://free.getbricks.app/)
+- [Ask HN: How to build flash game in 2022?](https://news.ycombinator.com/item?id=30228534)
+- [Notepad++ 8.3: Boycott Beijing 2022](https://notepad-plus-plus.org/downloads/v8.3/)
+- [Ask HN: Has Anyone Seen a Driverless Waymo in SF?](https://news.ycombinator.com/item?id=30228525)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

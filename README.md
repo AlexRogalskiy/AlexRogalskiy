@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Brief Introduction to Library Ethical Codes](https://www.reddit.com/r/InformationTechnology/comments/slmuou/a_brief_introduction_to_library_ethical_codes/)
 - [What can an autonomous system not do](https://www.reddit.com/r/InformationTechnology/comments/skptdh/what_can_an_autonomous_system_not_do/)
 - [install.wim and install.esd files are 118GB???](https://www.reddit.com/r/InformationTechnology/comments/skpdz7/installwim_and_installesd_files_are_118gb/)
 - [Autonomous Systems Positives and Negatives](https://www.reddit.com/r/InformationTechnology/comments/skohhw/autonomous_systems_positives_and_negatives/)
@@ -423,7 +424,6 @@
 - [Logistics Automation Market Projected to Grow $88.9 billion by 2026 at a CAGR of 10.6%](https://www.reddit.com/r/InformationTechnology/comments/siqd0n/logistics_automation_market_projected_to_grow_889/)
 - [Managed Services Market Projected to reach $354.8 billion by 2026 at a CAGR of 7.9%](https://www.reddit.com/r/InformationTechnology/comments/siix1t/managed_services_market_projected_to_reach_3548/)
 - [3rd week at my first tech job](https://www.reddit.com/r/InformationTechnology/comments/sifwtp/3rd_week_at_my_first_tech_job/)
-- [Accidentally sent nude pic to my work email :/ I deleted it from my inbox and deleted folder right away and purged it the next day. Should I be worried?](https://www.reddit.com/r/InformationTechnology/comments/siayh5/accidentally_sent_nude_pic_to_my_work_email_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

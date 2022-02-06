@@ -369,7 +369,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [Tech Job Market Still Smoking Hot, New Labor Report Stats Say](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
+- [Tech Job Market Still Smoking Hot](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
 - [How Fighting AI Bias Can Make Fintech Even More Inclusive](https://www.informationweek.com/fintech/how-fighting-ai-bias-can-make-fintech-even-more-inclusive)
 - [The Future of Resilient Supply Chains Is Circular](https://www.informationweek.com/big-data/the-future-of-resilient-supply-chains-is-circular)
 - [Supercloud: The 2022 Answer to Multi-Cloud Challenges](https://www.informationweek.com/cloud/supercloud-the-2022-answer-to-multi-cloud-challenges)

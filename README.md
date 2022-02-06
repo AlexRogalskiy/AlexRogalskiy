@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Amazon reportedly circling exercise bike maker Peloton as company flounders](https://www.theguardian.com/business/2022/feb/04/peloton-amazon-potential-acquisition-deal)
-- [Justin Langer resigns as Australia cricket coach following CA board meeting](https://www.theguardian.com/sport/2022/feb/05/justin-langer-resigns-as-australia-cricket-coach-following-ca-board-meeting)
-- [Tube workers to strike over jobs, pensions and working conditions](https://www.theguardian.com/uk-news/2022/feb/04/tube-workers-strike-march-jobs-pensions-working-conditions-rmt)
-- [‘I never want to see a phone again’: Alice Seabright on her visceral social media drama](https://www.theguardian.com/tv-and-radio/2022/feb/05/i-never-want-to-see-a-phone-again-alice-seabright-on-her-visceral-social-media-drama)
-- [Aboriginal flag to permanently fly above Sydney Harbour Bridge as premier blasts timeframe](https://www.theguardian.com/australia-news/2022/feb/05/aboriginal-flag-to-permanently-fly-above-sydney-harbour-bridge-as-premier-blasts-timeframe)
-- [‘He is wrong’: Pence rebuts Trump claim that he could have overturned election](https://www.theguardian.com/us-news/2022/feb/04/mike-pence-rebukes-donald-trump-election-claims-florida)
-- [Middlesbrough knock Manchester United out of FA Cup on penalties](https://www.theguardian.com/football/2022/feb/04/manchester-united-middlesbrough-fa-cup-match-report)
-- [Johnson struggles to rally team as pressure on him builds up](https://www.theguardian.com/politics/2022/feb/04/boris-johnson-struggles-to-rally-team-as-pressure-on-him-builds-up)
-- [Sending threatening posts among offences in revised online safety bill](https://www.theguardian.com/society/2022/feb/04/sending-threatening-posts-among-offences-in-revised-online-safety-bill)
-- [Antonio Conte delivers scathing review of Tottenham’s transfer mistakes](https://www.theguardian.com/football/2022/feb/04/antonio-conte-scathing-tottenham-transfer-mistakes)
+- [Winter Olympics day two: Men’s downhill; Jamie Anderson in snowboard slopestyle – live!](https://www.theguardian.com/sport/live/2022/feb/06/winter-olympics-day-two-mens-downhill-jamie-anderson-goes-for-gold-in-snowboard-slopestyle)
+- [Women’s Ashes 2022 second ODI: Australia v England – live!](https://www.theguardian.com/sport/live/2022/feb/06/womens-ashes-aus-vs-eng-live-cricket-second-odi-australia-v-england-2022-one-day-international-latest-updates-scores-news)
+- [Morocco boy trapped in well for four days dies before rescuers can reach him](https://www.theguardian.com/world/2022/feb/05/rescue-workers-in-morocco-edge-closer-to-boy-trapped-in-well)
+- [Surfer Kelly Slater wins eighth Pipeline Pro days out from 50th birthday](https://www.theguardian.com/sport/2022/feb/06/surfer-kelly-slater-wins-eighth-pipeline-pro-days-out-from-50th-birthday)
+- [Peru’s prime minister to step down after allegations of domestic violence](https://www.theguardian.com/world/2022/feb/06/perus-prime-minister-to-step-down-after-allegations-of-domestic-violence)
+- [As energy bills rise, oil giants are poised to make unpopular profits](https://www.theguardian.com/business/2022/feb/06/as-energy-bills-rise-oil-giants-are-poised-to-make-unpopular-profits)
+- [Visualized: a third of Americans already face above-average warming](https://www.theguardian.com/environment/2022/feb/05/americans-above-average-temperature-increase-climate-crisis)
+- [Chris Eubank Jr eyes world stage after points win over Liam Williams](https://www.theguardian.com/sport/2022/feb/05/chris-eubank-jr-eyes-world-stage-after-points-win-over-liam-williams)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Harry Kane doubles up to steer Tottenham past Brighton in FA Cup](https://www.theguardian.com/football/2022/feb/05/tottenham-brighton-fa-cup-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

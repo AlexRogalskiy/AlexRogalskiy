@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
-- [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
-- [Google gives execs raises after declining to boost employees&#39; pay – HRD Canada](https://www.hcamag.com/ca/specialization/industrial-relations/google-gives-execs-raises-after-declining-to-boost-employees-pay/321236)
-- [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
-- [SpaceX engineers in Fiji for six months](https://www.fbcnews.com.fj/business/spacex-engineers-in-fiji-for-six-months/)
-- [Cassowary – Run Windows Apps on Linux using a VM as if they were native apps](https://github.com/casualsnek/cassowary)
-- [Aro: A C compiler written in Zig](https://github.com/Vexu/arocc)
-- [Serenity OS: Interview](https://corecursive.com/serenity-os-with-andreas-kling/)
-- [Show HN: Angularis – like Tetris, but based on triangles](https://angularis.mondaybits.com/)
-- [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
+- [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
+- [Send your email right to the other person&#39;s spam](https://straight2spam.xyz)
+- [Ask HN: Best books on managing software complexity?](https://news.ycombinator.com/item?id=30228261)
+- [Imminent Merger of a Supermassive Black Hole Binary](https://arxiv.org/abs/2201.11633)
+- [Cause of Cambrian Explosion – Terrestrial or cosmic? &lpar;2018&rpar;](https://www.sciencedirect.com/science/article/pii/S0079610718300798)
+- [Why would a Java prime sieve run at only half its speed _some_ of the times?](https://blog.agical.se/en/posts/java-bitset-performance-mystery)
+- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
+- [Jolie: A drop-in replacement of Django Admin](https://www.jolie.dev/)
+- [Google Chrome U2F API decommission: What the change means](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/)
+- [Bitcoin&#39;s fungibility graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

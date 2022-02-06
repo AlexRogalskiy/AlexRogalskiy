@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code for Web gets verified GitHub commits](https://www.infoworld.com/article/3648993/visual-studio-code-for-web-gets-verified-github-commits.html#tk.rss_all)
 - [Swift-C++ interoperability effort moves forward](https://www.infoworld.com/article/3649131/swift-c-plus-plus-interoperability-effort-moves-forward.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [A short guide to cloud computing training and certifications](https://www.infoworld.com/article/3649109/a-short-guide-to-cloud-computing-training-and-certifications.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html#tk.rss_all)
 - [3 predictions for AI adoption in 2022](https://www.infoworld.com/article/3648013/3-predictions-for-ai-adoption-in-2022.html#tk.rss_all)
 - [Groovy 4.0.0 adds SQL-like querying](https://www.infoworld.com/article/3649128/groovy-400-adds-sql-like-querying.html#tk.rss_all)
-- [How to hire and retain developers in a hybrid working world](https://www.infoworld.com/article/3648657/how-to-hire-and-retain-developers-in-a-hybrid-working-world.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
-- [Send your email right to the other person&#39;s spam](https://straight2spam.xyz)
-- [Ask HN: Best books on managing software complexity?](https://news.ycombinator.com/item?id=30228261)
-- [Imminent Merger of a Supermassive Black Hole Binary](https://arxiv.org/abs/2201.11633)
-- [Cause of Cambrian Explosion – Terrestrial or cosmic? &lpar;2018&rpar;](https://www.sciencedirect.com/science/article/pii/S0079610718300798)
-- [Why would a Java prime sieve run at only half its speed _some_ of the times?](https://blog.agical.se/en/posts/java-bitset-performance-mystery)
-- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
-- [Jolie: A drop-in replacement of Django Admin](https://www.jolie.dev/)
-- [Google Chrome U2F API decommission: What the change means](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/)
-- [Bitcoin&#39;s fungibility graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
+- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
+- [Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It](https://nymag.com/intelligencer/2022/02/mark-zuckerbergs-disaster-is-taking-silicon-valley-with-it.html)
+- [School Closures In 1918 Flu Had No Impact On Educational Or Career Attainment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01170/109263/School-Closures-during-the-1918-Flu-Pandemic?redirectedFrom=fulltext)
+- [Some of the error messages produced by Apple&#39;s MPW C compiler](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+- [The Peter Thiel Paradox](https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-peter-thiel-paradox)
+- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
+- [No-JavaScript Fingerprinting](https://noscriptfingerprint.com/)
+- [On building 30k Debian packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
+- [My seatbelt rule for judgment](https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/)
+- [Ask HN: How do you get started as independent consultant or contractor](https://news.ycombinator.com/item?id=30237149)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

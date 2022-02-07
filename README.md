@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Expanded Child Tax Policy Slashed Child Poverty](https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d)
-- [Submarines – music video made entirely with AI](https://www.ziaxaza.com/)
-- [Show HN: CNC G and M Code Parser in Python](https://github.com/CodeNameMPC/GCodeParser)
-- [Anatomy of the State [pdf]](https://cdn.mises.org/Anatomy+of+the+State_3.pdf)
-- [Is Quora Skirting the Edge of ‘Spammy’ When It Comes to SEO? &lpar;2016&rpar;](https://moz.com/blog/is-quora-skirting-the-edge-of-spammy-when-it-comes-to-seo)
-- [Food Prices Approach Record Highs, Threatening the World’s Poorest](https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html)
-- [Bricks app: free note-taking and multi-line calculator](https://free.getbricks.app/)
-- [Ask HN: How to build flash game in 2022?](https://news.ycombinator.com/item?id=30228534)
-- [Notepad++ 8.3: Boycott Beijing 2022](https://notepad-plus-plus.org/downloads/v8.3/)
-- [Ask HN: Has Anyone Seen a Driverless Waymo in SF?](https://news.ycombinator.com/item?id=30228525)
+- [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
+- [Mapping Social Contracts to Reinforce Societal Resiliency in Estonia](https://tnsr.org/2022/01/countering-hybrid-warfare-mapping-social-contracts-to-reinforce-societal-resiliency-in-estonia-and-beyond/)
+- [Build Trading Algos for Any Asset](https://package.blankly.finance/)
+- [Modern Monetary Theory Got a Pandemic Tryout. Inflation Is Now Testing It](https://www.nytimes.com/2022/02/06/business/economy/modern-monetary-theory-stephanie-kelton.html)
+- [The Most Popular PHP Frameworks to Use in 2022](https://kinsta.com/blog/php-frameworks/)
+- [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)
+- [Google Chrome’s New Icon Looks Pretty Much the Same to My Untrained Eyes](https://gizmodo.com/google-chrome-gets-first-new-icon-eight-years-1848489310)
+- [Fair use Japanese content on YouTube might stop](https://www.youtube.com/watch?v=v6uH71BdMBA)
+- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
+- [Can winter sports survive on a warming planet?](https://www.economist.com/1843/2022/01/31/can-winter-sports-survive-on-a-warming-planet)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

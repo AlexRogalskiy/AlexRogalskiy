@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Winter Olympics day two: Men’s downhill; Jamie Anderson in snowboard slopestyle – live!](https://www.theguardian.com/sport/live/2022/feb/06/winter-olympics-day-two-mens-downhill-jamie-anderson-goes-for-gold-in-snowboard-slopestyle)
-- [Women’s Ashes 2022 second ODI: Australia v England – live!](https://www.theguardian.com/sport/live/2022/feb/06/womens-ashes-aus-vs-eng-live-cricket-second-odi-australia-v-england-2022-one-day-international-latest-updates-scores-news)
-- [Morocco boy trapped in well for four days dies before rescuers can reach him](https://www.theguardian.com/world/2022/feb/05/rescue-workers-in-morocco-edge-closer-to-boy-trapped-in-well)
-- [Surfer Kelly Slater wins eighth Pipeline Pro days out from 50th birthday](https://www.theguardian.com/sport/2022/feb/06/surfer-kelly-slater-wins-eighth-pipeline-pro-days-out-from-50th-birthday)
-- [Peru’s prime minister to step down after allegations of domestic violence](https://www.theguardian.com/world/2022/feb/06/perus-prime-minister-to-step-down-after-allegations-of-domestic-violence)
-- [As energy bills rise, oil giants are poised to make unpopular profits](https://www.theguardian.com/business/2022/feb/06/as-energy-bills-rise-oil-giants-are-poised-to-make-unpopular-profits)
-- [Visualized: a third of Americans already face above-average warming](https://www.theguardian.com/environment/2022/feb/05/americans-above-average-temperature-increase-climate-crisis)
-- [Chris Eubank Jr eyes world stage after points win over Liam Williams](https://www.theguardian.com/sport/2022/feb/05/chris-eubank-jr-eyes-world-stage-after-points-win-over-liam-williams)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Harry Kane doubles up to steer Tottenham past Brighton in FA Cup](https://www.theguardian.com/football/2022/feb/05/tottenham-brighton-fa-cup-match-report)
+- [Nine killed in three days after more than 100 avalanches hit Austria](https://www.theguardian.com/world/2022/feb/05/eight-killed-in-two-days-after-third-deadly-avalanche-hits-austria)
+- [Cyclone Batsirai hits Madagascar, leaving 10 dead](https://www.theguardian.com/world/2022/feb/07/cyclone-batsirai-hits-madagascar-leaving-10-dead)
+- [New Zealand Māori party calls for a ‘divorce’ from Britain’s royal family](https://www.theguardian.com/world/2022/feb/07/new-zealand-maori-party-calls-for-a-divorce-from-britains-royal-family)
+- [Ottawa declares state of emergency as Canada trucker protest paralyses city](https://www.theguardian.com/world/2022/feb/07/ottawa-declares-state-of-emergency-as-canada-trucker-protest-paralyses-city)
+- [Truss says Falklands part of ‘British family’ after China backs Argentina](https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim)
+- [Monica Ali says reaction to previous novel caused 10 years of depression](https://www.theguardian.com/books/2022/feb/07/monica-ali-says-reaction-to-previous-novel-caused-10-years-of-depression)
+- [Channel 4 presenting team for Winter Paralympics will all be disabled people](https://www.theguardian.com/sport/2022/feb/07/channel-4-presenting-team-for-winter-paralympics-will-all-be-disabled-people)
+- [The Invisible Man review – HG Wells in the psychiatrist’s room](https://www.theguardian.com/stage/2022/feb/07/the-invisible-man-review-northern-stage-newcastle)
+- [Camilla and May back NHS campaign to help victims and survivors of abuse](https://www.theguardian.com/society/2022/feb/07/camilla-and-may-back-nhs-campaign-to-help-victims-and-survivors-of-abuse)
+- [Overmars ‘ashamed’ after quitting Ajax over inappropriate messages](https://www.theguardian.com/football/2022/feb/06/overmars-ashamed-after-quitting-ajax-over-inappropriate-messages)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

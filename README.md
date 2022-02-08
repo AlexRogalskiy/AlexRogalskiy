@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
-- [Mapping Social Contracts to Reinforce Societal Resiliency in Estonia](https://tnsr.org/2022/01/countering-hybrid-warfare-mapping-social-contracts-to-reinforce-societal-resiliency-in-estonia-and-beyond/)
-- [Build Trading Algos for Any Asset](https://package.blankly.finance/)
-- [Modern Monetary Theory Got a Pandemic Tryout. Inflation Is Now Testing It](https://www.nytimes.com/2022/02/06/business/economy/modern-monetary-theory-stephanie-kelton.html)
-- [The Most Popular PHP Frameworks to Use in 2022](https://kinsta.com/blog/php-frameworks/)
-- [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)
-- [Google Chrome’s New Icon Looks Pretty Much the Same to My Untrained Eyes](https://gizmodo.com/google-chrome-gets-first-new-icon-eight-years-1848489310)
-- [Fair use Japanese content on YouTube might stop](https://www.youtube.com/watch?v=v6uH71BdMBA)
-- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
-- [Can winter sports survive on a warming planet?](https://www.economist.com/1843/2022/01/31/can-winter-sports-survive-on-a-warming-planet)
+- [UK archeologists unearth Roman-era cemetery with dozens of decapitated skeletons](https://www.foxnews.com/world/uk-roman-era-cemetery-decapitated-skeletons)
+- [SoftBank&#39;s Sale of Arm to Nvidia Collapses, Arm to IPO](https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/)
+- [Harry Egipt, The Forgotten Genius of Soviet TV Commercials](https://dangerousminds.net/comments/vegetarian_nightmares_and_hot_chicks_meet_harry_egipt_forgotten_genius)
+- [The Waste Land](https://www.nybooks.com/articles/2022/02/24/the-waste-land-sewage-treatment/)
+- [The browser wars, told by a veteran](https://www.techradar.com/news/the-story-of-the-browser-wars-told-from-the-frontlines)
+- [We’re Fine Without Facebook, German and French Ministers Say](https://www.bloomberg.com/news/articles/2022-02-07/we-re-fine-without-facebook-german-and-french-ministers-say)
+- [Cerebral and Alto Neuroscience embark on at-home clinical trial for depression](https://techcrunch.com/2021/12/20/how-cerebral-and-alto-neuroscience-embarked-on-an-at-home-clinical-trial-for-depression/)
+- [Tesla cut a steering component from some cars to deal with chip shortage](https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html)
+- [Start a Blog](https://guzey.com/personal/why-have-a-blog/)
+- [Ecru](https://en.wikipedia.org/wiki/Ecru)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Research shows Windows updates can take six hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-six-hours-to-complete.html#tk.rss_all)
+- [Addigy talks up Apple-in-the-enterprise tech show](https://www.computerworld.com/article/3648994/addigy-talks-up-apple-in-the-enterprise-tech-show.html#tk.rss_all)
+- [The Windows 11 ‘push,’ revisited](https://www.computerworld.com/article/3648995/the-windows-11-push-revisited.html#tk.rss_all)
+- [How UEM supports the hybrid workplace](https://www.computerworld.com/article/3648596/how-uem-supports-the-hybrid-workplace.html#tk.rss_all)
 - [Beginner&#39;s guide to R: Syntax quirks you&#39;ll want to know](https://www.computerworld.com/article/2497319/business-intelligence-beginner-s-guide-to-r-syntax-quirks-you-ll-want-to-know.html#tk.rss_all)
 - [Apple begins the Great App Store cost negotiation](https://www.computerworld.com/article/3649111/apple-begins-the-great-app-store-cost-negotiation.html#tk.rss_all)
 - [On building a better briefing](https://www.computerworld.com/article/3649110/on-building-a-better-briefing.html#tk.rss_all)
 - [Furnishing the work-from-home office](https://www.computerworld.com/article/3649190/furnishing-the-work-from-home-office.html#tk.rss_all)
 - [Q&amp;A: CISO sees &#39;enterprise&#39; browser as easier way to monitor employee web use](https://www.computerworld.com/article/3648968/qa-ciso-sees-enterprise-browser-as-easier-way-to-monitor-employee-web-use.html#tk.rss_all)
-- [Research shows Windows updates can take eight hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-eight-hours-to-complete.html#tk.rss_all)
 - [Report: US Black workers in tech switch jobs more often, feel less connected](https://www.computerworld.com/article/3649052/report-us-black-workers-in-tech-switch-jobs-more-often-feel-less-connected.html#tk.rss_all)
-- [Second Israeli firm accused of undermining iPhones, like NSO Group](https://www.computerworld.com/article/3649208/second-israeli-firm-accused-of-undermining-iphones-like-nso-group.html#tk.rss_all)
-- [Tear up your remote work policy &lpar;if you have one&rpar; and start over](https://www.computerworld.com/article/3648591/tear-up-your-remote-work-policy-if-you-have-one-and-start-over.html#tk.rss_all)
-- [With ‘unlisted apps,’ Apple makes another enterprise move](https://www.computerworld.com/article/3648988/with-unlisted-apps-apple-makes-another-enterprise-move.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

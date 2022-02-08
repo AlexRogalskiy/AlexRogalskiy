@@ -369,7 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [Tech Job Market Still Smoking Hot](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
+- [Conversational AI: How It Works and Where It&#39;s Headed](https://www.informationweek.com/big-data/conversational-ai-how-it-works-and-where-it-s-headed)
+- [Tips for Making Your Agile Framework More … Agile](https://www.informationweek.com/enterprise-agility/tips-for-making-your-agile-framework-more-agile)
+- [Tech Job Market Still Smoking Hot, New Labor Report Stats Say](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
 - [How Fighting AI Bias Can Make Fintech Even More Inclusive](https://www.informationweek.com/fintech/how-fighting-ai-bias-can-make-fintech-even-more-inclusive)
 - [The Future of Resilient Supply Chains Is Circular](https://www.informationweek.com/big-data/the-future-of-resilient-supply-chains-is-circular)
 - [Supercloud: The 2022 Answer to Multi-Cloud Challenges](https://www.informationweek.com/cloud/supercloud-the-2022-answer-to-multi-cloud-challenges)
@@ -377,8 +379,6 @@
 - [What the Citrix Private Equity Deal Means for Enterprise Customers](https://www.informationweek.com/cloud/what-the-citrix-private-equity-deal-means-for-enterprise-customers)
 - [Global Tech Policy Briefing: January 2022](https://www.informationweek.com/government/global-tech-policy-briefing-january-2022)
 - [How IT Managers Can Retain Talent in Today&#39;s Job Market](https://www.informationweek.com/strategic-cio/how-it-managers-can-retain-talent-in-today-s-job-market)
-- [Human-Centered Transformation Will Enable Greater Creativity in Tech](https://www.informationweek.com/strategic-cio/human-centered-transformation-will-enable-greater-creativity-in-tech)
-- [Crypto and NFTs: A New Digital Footprint for Enterprises?](https://www.informationweek.com/fintech/crypto-and-nfts-new-digital-footprint-for-enterprises)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

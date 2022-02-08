@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft to stop running of VBA macros by default](https://www.itworldcanada.com/article/472614-2/472614)
+- [More than half of attacked Canadian firms paid cyber ransoms: Survey](https://www.itworldcanada.com/article/more-than-half-of-attacked-canadian-firms-paid-cyber-ransoms-survey/472576)
+- [Cyber Security Today, Feb. 7, 2022 – Insight into a ransomware gang, email used in cyberattacks on Ukraine, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-7-2022-insight-into-a-ransomware-gang-email-used-in-cyberattacks-on-ukraine-and-more/472565)
+- [Hashtag Trending Feb. 7 – 5G network rollout pause; Meta may pull Facebook and Instagram from EU; tech CEO is unimpressed with metaverse workspace](https://www.itworldcanada.com/article/hashtag-trending-feb-7-5g-network-rollout-pause-meta-may-pull-facebook-and-instagram-from-eu-tech-ceo-is-unimpressed-with-metaverse-workspace/472570)
 - [Cyber Security Today, Week in Review for Feb. 4, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-feb-4-2022/472467)
 - [Cyber Security Today, Feb. 4, 2022 –  Heed these update warnings from ESET and Sealevel Systems](https://www.itworldcanada.com/article/cyber-security-today-feb-4-2022-heed-these-update-warnings-from-eset-and-sealevel-systems/472450)
 - [Hashtag Trending Feb. 4 – Social media shares drop; Facebook loses daily users; Tesla recalls cars](https://www.itworldcanada.com/article/hashtag-trending-feb-4-social-media-shares-drop-facebook-loses-daily-users-tesla-recalls-cars/472510)
 - [IBM brings Canada’s first universal quantum computer to Quebec](https://www.itworldcanada.com/article/ibm-brings-canadas-first-universal-quantum-computer-to-quebec/472497)
 - [The top skills IT professionals need to succeed](https://www.itworldcanada.com/article/the-top-skills-it-professionals-need-to-succeed/472461)
 - [Hashtag Trending Feb. 3 – Big tech should pay back online scam victims; Is there a demand for the metaverse? Texas preps it’s power grid](https://www.itworldcanada.com/article/hashtag-trending-feb-3-big-tech-should-pay-back-online-scam-victims-is-there-a-demand-for-the-metaverse-texas-preps-its-power-grid/472454)
-- [Starlink satellite internet launches premium tier for remote businesses and ‘super users’](https://www.itworldcanada.com/article/starlink-satellite-internet-launches-premium-tier-for-remote-businesses-and-super-users/472430)
-- [UBC researchers and AWS team up to discover new strains of RNA viruses](https://www.itworldcanada.com/article/ubc-researchers-and-aws-team-up-to-discover-new-strains-of-rna-viruses/471516)
-- [Telus launches PureFibre X with Internet speeds of 2.5 Gbps in Edmonton and parts of B.C.](https://www.itworldcanada.com/article/telus-launches-purefibre-x-with-internet-speeds-of-2-5-gbps-in-edmonton-and-parts-of-b-c/472464)
-- [Global tablet and Chromebook shipments slide in Q4 2021](https://www.itworldcanada.com/article/global-tablet-and-chromebook-shipments-slide-in-q4-2021/472409)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

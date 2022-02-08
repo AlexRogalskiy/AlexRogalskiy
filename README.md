@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I consider hack reactor or WGU for Cyber Security?](https://www.reddit.com/r/InformationTechnology/comments/smeuck/should_i_consider_hack_reactor_or_wgu_for_cyber/)
 - [Checking for any tracking hardware/software/settings on computer](https://www.reddit.com/r/InformationTechnology/comments/smdjvd/checking_for_any_tracking/)
 - [A Brief Introduction to Library Ethical Codes](https://www.reddit.com/r/InformationTechnology/comments/slmuou/a_brief_introduction_to_library_ethical_codes/)
 - [What can an autonomous system not do](https://www.reddit.com/r/InformationTechnology/comments/skptdh/what_can_an_autonomous_system_not_do/)
@@ -423,7 +424,6 @@
 - [Getting into cyber security](https://www.reddit.com/r/InformationTechnology/comments/sjqz49/getting_into_cyber_security/)
 - [How do I implement the queuing process of a patient queue management system?](https://www.reddit.com/r/InformationTechnology/comments/sjfhor/how_do_i_implement_the_queuing_process_of_a/)
 - [Logistics Automation Market Projected to Grow $88.9 billion by 2026 at a CAGR of 10.6%](https://www.reddit.com/r/InformationTechnology/comments/siqd0n/logistics_automation_market_projected_to_grow_889/)
-- [Managed Services Market Projected to reach $354.8 billion by 2026 at a CAGR of 7.9%](https://www.reddit.com/r/InformationTechnology/comments/siix1t/managed_services_market_projected_to_reach_3548/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

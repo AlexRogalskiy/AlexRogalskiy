@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nine killed in three days after more than 100 avalanches hit Austria](https://www.theguardian.com/world/2022/feb/05/eight-killed-in-two-days-after-third-deadly-avalanche-hits-austria)
-- [Cyclone Batsirai hits Madagascar, leaving 10 dead](https://www.theguardian.com/world/2022/feb/07/cyclone-batsirai-hits-madagascar-leaving-10-dead)
-- [New Zealand Māori party calls for a ‘divorce’ from Britain’s royal family](https://www.theguardian.com/world/2022/feb/07/new-zealand-maori-party-calls-for-a-divorce-from-britains-royal-family)
-- [Ottawa declares state of emergency as Canada trucker protest paralyses city](https://www.theguardian.com/world/2022/feb/07/ottawa-declares-state-of-emergency-as-canada-trucker-protest-paralyses-city)
-- [Truss says Falklands part of ‘British family’ after China backs Argentina](https://www.theguardian.com/uk-news/2022/feb/07/truss-says-falklands-part-of-british-family-after-china-supports-argentinas-claim)
-- [Monica Ali says reaction to previous novel caused 10 years of depression](https://www.theguardian.com/books/2022/feb/07/monica-ali-says-reaction-to-previous-novel-caused-10-years-of-depression)
-- [Channel 4 presenting team for Winter Paralympics will all be disabled people](https://www.theguardian.com/sport/2022/feb/07/channel-4-presenting-team-for-winter-paralympics-will-all-be-disabled-people)
-- [The Invisible Man review – HG Wells in the psychiatrist’s room](https://www.theguardian.com/stage/2022/feb/07/the-invisible-man-review-northern-stage-newcastle)
-- [Camilla and May back NHS campaign to help victims and survivors of abuse](https://www.theguardian.com/society/2022/feb/07/camilla-and-may-back-nhs-campaign-to-help-victims-and-survivors-of-abuse)
-- [Overmars ‘ashamed’ after quitting Ajax over inappropriate messages](https://www.theguardian.com/football/2022/feb/06/overmars-ashamed-after-quitting-ajax-over-inappropriate-messages)
+- [Women’s Ashes 2022 third ODI: Australia v England – live!](https://www.theguardian.com/sport/live/2022/feb/08/womens-ashes-aus-vs-eng-live-cricket-third-odi-australia-v-england-2022-one-day-international-latest-updates-scores-news)
+- [Winter Olympics 2022 day four: USA v Canada in women’s ice hockey; men’s super-G – live!](https://www.theguardian.com/sport/live/2022/feb/07/winter-olympics-2022-day-four-beijing-usa-canada-ice-hockey-super-giant-slalom-updates)
+- [US approves $100m deal for Taiwan to upgrade Patriot missile system](https://www.theguardian.com/world/2022/feb/08/us-approves-100m-deal-for-taiwan-to-upgrade-patriot-missile-system)
+- [Houston Texans appoint Lovie Smith as head coach while Saints line up Allen](https://www.theguardian.com/sport/2022/feb/07/houston-texans-set-to-appoint-lovie-smith-as-new-head-coach)
+- [Hundreds gather for funeral of Morocco boy who died in well](https://www.theguardian.com/world/2022/feb/08/hundreds-gather-for-funeral-of-morocco-boy-who-died-in-well)
+- [Peter Thiel, PayPal founder and Trump ally, to step down from Meta board](https://www.theguardian.com/technology/2022/feb/07/peter-thiel-meta-facebook-board-resign)
+- [Make UK employers report ethnicity pay gap, MPs tell ministers](https://www.theguardian.com/inequality/2022/feb/08/ethnicity-pay-gap-report-uk-mps-committee)
+- [‘There’s a truth to it’: RSC casts disabled actor as Richard III](https://www.theguardian.com/stage/2022/feb/08/theres-a-truth-to-it-rsc-casts-disabled-actor-as-richard-iii)
+- [Trial scheme will pay householders to delay electricity use](https://www.theguardian.com/business/2022/feb/08/trial-scheme-will-pay-householders-to-delay-electricity-use)
+- [Porn sites in UK will have to check ages in planned update to online safety bill](https://www.theguardian.com/society/2022/feb/08/porn-sites-in-uk-will-have-to-check-ages-in-planned-update-to-online-safety-bill)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

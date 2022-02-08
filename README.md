@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The best US cities for remote software developers](https://www.infoworld.com/article/3649192/the-best-us-cities-for-remote-software-developers.html#tk.rss_all)
+- [Use synthetic data for continuous testing and machine learning](https://www.infoworld.com/article/3649055/use-synthetic-data-for-continuous-testing-and-machine-learning.html#tk.rss_all)
 - [Visual Studio Code for Web gets verified GitHub commits](https://www.infoworld.com/article/3648993/visual-studio-code-for-web-gets-verified-github-commits.html#tk.rss_all)
 - [Swift-C++ interoperability effort moves forward](https://www.infoworld.com/article/3649131/swift-c-plus-plus-interoperability-effort-moves-forward.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Java proposal would lower GC latency](https://www.infoworld.com/article/3649194/java-proposal-would-lower-gc-latency.html#tk.rss_all)
 - [How to handle Java errors and cleanup without finalize](https://www.infoworld.com/article/3649089/how-to-handle-java-errors-and-cleanup-without-finalize.html#tk.rss_all)
 - [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html#tk.rss_all)
-- [3 predictions for AI adoption in 2022](https://www.infoworld.com/article/3648013/3-predictions-for-ai-adoption-in-2022.html#tk.rss_all)
-- [Groovy 4.0.0 adds SQL-like querying](https://www.infoworld.com/article/3649128/groovy-400-adds-sql-like-querying.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

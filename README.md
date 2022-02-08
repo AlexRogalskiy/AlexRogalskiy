@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
-- [Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It](https://nymag.com/intelligencer/2022/02/mark-zuckerbergs-disaster-is-taking-silicon-valley-with-it.html)
-- [School Closures In 1918 Flu Had No Impact On Educational Or Career Attainment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01170/109263/School-Closures-during-the-1918-Flu-Pandemic?redirectedFrom=fulltext)
-- [Some of the error messages produced by Apple&#39;s MPW C compiler](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
-- [The Peter Thiel Paradox](https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-peter-thiel-paradox)
-- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
-- [No-JavaScript Fingerprinting](https://noscriptfingerprint.com/)
-- [On building 30k Debian packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
-- [My seatbelt rule for judgment](https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/)
-- [Ask HN: How do you get started as independent consultant or contractor](https://news.ycombinator.com/item?id=30237149)
+- [Tell HN: Udacity dark pattern to cancel a subscription](https://news.ycombinator.com/item?id=30253785)
+- [MHDDoS – DDoS Attack Script with 36 Method](https://github.com/MHProDev/MHDDoS)
+- [Can no longer view websites on smart display](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
+- [Finding the average of two unsigned integers without overflow](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
+- [In underground waterways, an endangered ecosystem](https://undark.org/2022/02/07/in-underground-waterways-an-endangered-ecosystem/)
+- [KDE: A Nice Tiling Environment and a Surprisingly Awesome DE](https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de)
+- [Read “Data and Reality”](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/)
+- [Red-teaming language models with language models](https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models)
+- [Vue 3 as the New Default](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html)
+- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://moonshotbrands.breezy.hr/p/8d057efe0230-chief-technology-officer-cto)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

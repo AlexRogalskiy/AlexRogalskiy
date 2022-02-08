@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Amazon to create 1,500 UK apprenticeships in 2022](https://www.computerweekly.com/news/252512975/Amazon-to-create-1500-UK-apprenticeships-in-2022)
-- [Cyber attacks on European oil facilities spreading](https://www.computerweekly.com/news/252512974/Cyber-attacks-on-European-oil-facilities-spreading)
-- [AWS vs Amazon: Cloud giant’s revenue rises as parent company’s profit falls during Q4](https://www.computerweekly.com/news/252512961/AWS-vs-Amazon-Cloud-giants-revenue-rises-as-parent-companys-profit-falls-during-Q4)
-- [EC proposes new directive to improve gig economy work conditions](https://www.computerweekly.com/news/252512896/EC-proposes-new-directive-to-improve-gig-economy-work-conditions)
-- [Brookson and Parasol cyber attacks: Contractor complaints about delayed payments continue](https://www.computerweekly.com/news/252512871/Brookson-and-Parasol-cyber-attacks-Contractor-complaints-about-delayed-payments-continue)
-- [French Supreme Court raises constitutional questions over EncroChat hacking secrecy](https://www.computerweekly.com/news/252512850/French-Supreme-Court-raises-constitutional-questions-over-EncroChat-hacking-secrecy)
-- [Security Think Tank: How to build a human firewall](https://www.computerweekly.com/opinion/Security-Think-Tank-How-to-build-a-human-firewall)
-- [Mechanism underlying cookie popups found in breach of GDPR](https://www.computerweekly.com/news/252512832/Mechanism-underlying-cookie-popups-found-in-breach-of-GDPR)
-- [Zero-trust to soar in 2022, but dogged by implementation challenges](https://www.computerweekly.com/news/252512830/Zero-trust-to-soar-in-2022-but-dogged-by-implementation-challenges)
-- [Reforms needed to tackle economic crime, says Treasury Committee](https://www.computerweekly.com/news/252512826/Reforms-needed-to-tackle-economic-crime-says-Treasury-Committee)
+- [Umbrella company Parasol confirms data breach linked to cyber attack five weeks ago](https://www.computerweekly.com/news/252513042/Umbrella-company-Parasol-confirms-data-breach-linked-to-cyber-attack-five-weeks-ago)
+- [Government expands tech firms’ obligations in Online Safety Bill](https://www.computerweekly.com/news/252513036/Government-expands-tech-firms-obligations-in-Online-Safety-Bill)
+- [The UK-Australia FTA shows the UK means business on digital trade policy](https://www.computerweekly.com/opinion/The-UK-Australia-FTA-shows-the-UK-means-business-on-digital-trade-policy)
+- [CIO interview: Brian Roche, director of IT, George Best Belfast City Airport](https://www.computerweekly.com/news/252512626/CIO-interview-Brian-Roche-director-of-IT-George-Best-Belfast-City-Airport)
+- [Airport services firm thwarts attempted ransomware heist](https://www.computerweekly.com/news/252513022/Airport-services-firm-thwarts-attempted-ransomware-heist)
+- [Umbrella IT contractors urged to seize on court ruling to reclaim withheld holiday pay](https://www.computerweekly.com/news/252512987/Umbrella-IT-contractors-urged-to-seize-on-Supreme-Court-ruling-to-reclaim-withheld-holiday-pay)
+- [TV provider MediaHub boots SAN and NAS for Scality object storage](https://www.computerweekly.com/news/252513018/TV-provider-MediaHub-boots-SAN-and-NAS-for-Scality-object-storage)
+- [Breaking the noise barrier: The startups developing quantum computers](https://www.computerweekly.com/news/252512990/Breaking-the-noise-barrier-the-startups-developing-quantum-computers)
+- [Met police deploy facial recognition in Westminster](https://www.computerweekly.com/news/252513015/Met-police-deploy-facial-recognition-in-Westminster)
+- [Kao Data to expand datacentre footprint by opening 16MW facility in Slough](https://www.computerweekly.com/news/252512733/Kao-Data-to-expand-datacentre-footprint-by-opening-16MW-facility-in-Slough)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

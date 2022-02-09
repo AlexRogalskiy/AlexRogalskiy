@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The Unforeseen Consequences of the Cloud Boom](https://www.informationweek.com/cloud/the-unforeseen-consequences-of-the-cloud-boom)
+- [8 Ways to Build Stronger Vendor Partnerships](https://www.informationweek.com/strategic-cio/8-ways-to-build-stronger-vendor-partnerships)
+- [3 Goals for a Strong Security Foundation](https://www.informationweek.com/security-and-risk-strategy/3-goals-for-a-strong-security-foundation)
+- [8 Security Dinosaurs and What Filled Their Footprints](https://www.informationweek.com/it-life/8-security-dinosaurs-and-what-filled-their-footprints)
 - [Conversational AI: How It Works and Where It&#39;s Headed](https://www.informationweek.com/big-data/conversational-ai-how-it-works-and-where-it-s-headed)
 - [Tips for Making Your Agile Framework More … Agile](https://www.informationweek.com/enterprise-agility/tips-for-making-your-agile-framework-more-agile)
 - [Tech Job Market Still Smoking Hot, New Labor Report Stats Say](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
 - [How Fighting AI Bias Can Make Fintech Even More Inclusive](https://www.informationweek.com/fintech/how-fighting-ai-bias-can-make-fintech-even-more-inclusive)
 - [The Future of Resilient Supply Chains Is Circular](https://www.informationweek.com/big-data/the-future-of-resilient-supply-chains-is-circular)
 - [Supercloud: The 2022 Answer to Multi-Cloud Challenges](https://www.informationweek.com/cloud/supercloud-the-2022-answer-to-multi-cloud-challenges)
-- [On-Premises Selenium Grid vs Selenium Grid Cloud: Which To Choose?](https://www.informationweek.com/cloud/on-premises-selenium-grid-vs-selenium-grid-cloud-which-to-choose-)
-- [What the Citrix Private Equity Deal Means for Enterprise Customers](https://www.informationweek.com/cloud/what-the-citrix-private-equity-deal-means-for-enterprise-customers)
-- [Global Tech Policy Briefing: January 2022](https://www.informationweek.com/government/global-tech-policy-briefing-january-2022)
-- [How IT Managers Can Retain Talent in Today&#39;s Job Market](https://www.informationweek.com/strategic-cio/how-it-managers-can-retain-talent-in-today-s-job-market)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

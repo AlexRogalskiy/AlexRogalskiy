@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Documentation, Policies and other resources.](https://www.reddit.com/r/InformationTechnology/comments/snqntf/documentation_policies_and_other_resources/)
+- [2nd monitor not working, please help!!](https://www.reddit.com/r/InformationTechnology/comments/snouj2/2nd_monitor_not_working_please_help/)
+- [Trying to connect a canon image runner 1643iF to a windows XP computer. Anyone know where I can download a generic driver or a universal driver to be able to print. I know the computer is old.](https://www.reddit.com/r/InformationTechnology/comments/snc6ny/trying_to_connect_a_canon_image_runner_1643if_to/)
 - [Should I consider hack reactor or WGU for Cyber Security?](https://www.reddit.com/r/InformationTechnology/comments/smeuck/should_i_consider_hack_reactor_or_wgu_for_cyber/)
 - [Checking for any tracking hardware/software/settings on computer](https://www.reddit.com/r/InformationTechnology/comments/smdjvd/checking_for_any_tracking/)
 - [A Brief Introduction to Library Ethical Codes](https://www.reddit.com/r/InformationTechnology/comments/slmuou/a_brief_introduction_to_library_ethical_codes/)
@@ -421,9 +424,6 @@
 - [install.wim and install.esd files are 118GB???](https://www.reddit.com/r/InformationTechnology/comments/skpdz7/installwim_and_installesd_files_are_118gb/)
 - [Autonomous Systems Positives and Negatives](https://www.reddit.com/r/InformationTechnology/comments/skohhw/autonomous_systems_positives_and_negatives/)
 - [VPN](https://www.reddit.com/r/InformationTechnology/comments/sjw92c/vpn/)
-- [Getting into cyber security](https://www.reddit.com/r/InformationTechnology/comments/sjqz49/getting_into_cyber_security/)
-- [How do I implement the queuing process of a patient queue management system?](https://www.reddit.com/r/InformationTechnology/comments/sjfhor/how_do_i_implement_the_queuing_process_of_a/)
-- [Logistics Automation Market Projected to Grow $88.9 billion by 2026 at a CAGR of 10.6%](https://www.reddit.com/r/InformationTechnology/comments/siqd0n/logistics_automation_market_projected_to_grow_889/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

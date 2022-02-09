@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Women’s Ashes 2022 third ODI: Australia v England – live!](https://www.theguardian.com/sport/live/2022/feb/08/womens-ashes-aus-vs-eng-live-cricket-third-odi-australia-v-england-2022-one-day-international-latest-updates-scores-news)
-- [Winter Olympics 2022 day four: USA v Canada in women’s ice hockey; men’s super-G – live!](https://www.theguardian.com/sport/live/2022/feb/07/winter-olympics-2022-day-four-beijing-usa-canada-ice-hockey-super-giant-slalom-updates)
-- [US approves $100m deal for Taiwan to upgrade Patriot missile system](https://www.theguardian.com/world/2022/feb/08/us-approves-100m-deal-for-taiwan-to-upgrade-patriot-missile-system)
-- [Houston Texans appoint Lovie Smith as head coach while Saints line up Allen](https://www.theguardian.com/sport/2022/feb/07/houston-texans-set-to-appoint-lovie-smith-as-new-head-coach)
-- [Hundreds gather for funeral of Morocco boy who died in well](https://www.theguardian.com/world/2022/feb/08/hundreds-gather-for-funeral-of-morocco-boy-who-died-in-well)
-- [Peter Thiel, PayPal founder and Trump ally, to step down from Meta board](https://www.theguardian.com/technology/2022/feb/07/peter-thiel-meta-facebook-board-resign)
-- [Make UK employers report ethnicity pay gap, MPs tell ministers](https://www.theguardian.com/inequality/2022/feb/08/ethnicity-pay-gap-report-uk-mps-committee)
-- [‘There’s a truth to it’: RSC casts disabled actor as Richard III](https://www.theguardian.com/stage/2022/feb/08/theres-a-truth-to-it-rsc-casts-disabled-actor-as-richard-iii)
-- [Trial scheme will pay householders to delay electricity use](https://www.theguardian.com/business/2022/feb/08/trial-scheme-will-pay-householders-to-delay-electricity-use)
-- [Porn sites in UK will have to check ages in planned update to online safety bill](https://www.theguardian.com/society/2022/feb/08/porn-sites-in-uk-will-have-to-check-ages-in-planned-update-to-online-safety-bill)
+- [Winter Olympics 2022 day five: Shiffrin goes for gold in slalom; snowboard cross final – live!](https://www.theguardian.com/sport/live/2022/feb/08/winter-olympics-2022-day-five-mikaela-shiffrin-slalom-snowboard-cross-latest-updates)
+- [Croatia scraps euro coin design over plagiarism controversy](https://www.theguardian.com/world/2022/feb/09/croatia-scraps-euro-coin-design-over-plagiarism-controversy)
+- [Brexit damaging trade with EU, says public accounts committee](https://www.theguardian.com/politics/2022/feb/09/brexit-damaging-trade-with-eu-says-public-accounts-committee)
+- [Fifth of young women and girls ‘cyber-flashed’ in past year, UK study reveals](https://www.theguardian.com/society/2022/feb/09/online-sexual-abuse-cyber-flashed-young-women)
+- [Brit awards 2022: every performance reviewed, from Adele to Dave and Little Simz](https://www.theguardian.com/music/2022/feb/08/brit-awards-2022-every-performance-reviewed-from-adele-to-little-simz)
+- [US married couple arrested for allegedly conspiring to launder $4.5bn in bitcoin](https://www.theguardian.com/technology/2022/feb/08/us-married-couple-arrested-allegedly-conspiring-launder-45bn-bitcoin)
+- [Adele sweeps gender-neutral Brit awards dominated by female acts](https://www.theguardian.com/music/2022/feb/08/adele-sweeps-gender-neutral-brit-awards-dominated-by-female-acts)
+- [‘I have sinned’: US nun to serve a year in jail for wire fraud and money laundering](https://www.theguardian.com/world/2022/feb/08/california-nun-sentenced-money-laundering)
+- [Jay Rodriguez delivers Burnley point against wasteful Manchester United](https://www.theguardian.com/football/2022/feb/08/burnley-manchester-united-premier-league-match-report)
+- [Kieran Trippier’s stunner for Newcastle leaves Lampard’s Everton in trouble](https://www.theguardian.com/football/2022/feb/08/newcastle-everton-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

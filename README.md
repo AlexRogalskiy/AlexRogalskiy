@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Nvidia drops plans to buy Arm for $40B](https://www.computerworld.com/article/3649132/nvidia-drops-plans-to-buy-arm-for-40b.html#tk.rss_all)
+- [BrandPost: Cyberthreats are big trouble for small businesses](https://www.computerworld.com/article/3649360/cyberthreats-are-big-trouble-for-small-businesses.html#tk.rss_all)
+- [Google Workspace sees Essentials Starter as a way to &#39;democratize&#39; collaboration](https://www.computerworld.com/article/3649203/google-workspace-sees-essentials-starter-as-a-way-to-democratize-collaboration.html#tk.rss_all)
+- [Employees want the right tools for work — so let them choose](https://www.computerworld.com/article/3649202/employees-want-the-right-tools-for-work-so-let-them-choose.html#tk.rss_all)
+- [5G is finally ready for business](https://www.computerworld.com/article/3649199/5g-is-finally-ready-for-business.html#tk.rss_all)
+- [How to use Dropbox for team collaboration](https://www.computerworld.com/article/3607759/how-to-use-dropbox-for-team-collaboration.html#tk.rss_all)
 - [Research shows Windows updates can take six hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-six-hours-to-complete.html#tk.rss_all)
 - [Addigy talks up Apple-in-the-enterprise tech show](https://www.computerworld.com/article/3648994/addigy-talks-up-apple-in-the-enterprise-tech-show.html#tk.rss_all)
 - [The Windows 11 ‘push,’ revisited](https://www.computerworld.com/article/3648995/the-windows-11-push-revisited.html#tk.rss_all)
 - [How UEM supports the hybrid workplace](https://www.computerworld.com/article/3648596/how-uem-supports-the-hybrid-workplace.html#tk.rss_all)
-- [Beginner&#39;s guide to R: Syntax quirks you&#39;ll want to know](https://www.computerworld.com/article/2497319/business-intelligence-beginner-s-guide-to-r-syntax-quirks-you-ll-want-to-know.html#tk.rss_all)
-- [Apple begins the Great App Store cost negotiation](https://www.computerworld.com/article/3649111/apple-begins-the-great-app-store-cost-negotiation.html#tk.rss_all)
-- [On building a better briefing](https://www.computerworld.com/article/3649110/on-building-a-better-briefing.html#tk.rss_all)
-- [Furnishing the work-from-home office](https://www.computerworld.com/article/3649190/furnishing-the-work-from-home-office.html#tk.rss_all)
-- [Q&amp;A: CISO sees &#39;enterprise&#39; browser as easier way to monitor employee web use](https://www.computerworld.com/article/3648968/qa-ciso-sees-enterprise-browser-as-easier-way-to-monitor-employee-web-use.html#tk.rss_all)
-- [Report: US Black workers in tech switch jobs more often, feel less connected](https://www.computerworld.com/article/3649052/report-us-black-workers-in-tech-switch-jobs-more-often-feel-less-connected.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

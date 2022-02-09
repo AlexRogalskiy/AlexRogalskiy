@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Creatio updates Atlas low-code platform to make it easier to reuse code](https://www.infoworld.com/article/3649351/creatio-updates-atlas-low-code-platform-to-make-it-easier-to-reuse-code.html#tk.rss_all)
+- [Google Flutter 2.10 intros stable support for Windows](https://www.infoworld.com/article/3649201/google-flutter-210-brings-stable-support-for-windows-targets.html#tk.rss_all)
+- [Overdoing service-focused cloud development](https://www.infoworld.com/article/3649197/overdoing-service-focused-cloud-development.html#tk.rss_all)
+- [How we should think about cloud lock-in](https://www.infoworld.com/article/3648992/how-we-should-think-about-cloud-lock-in.html#tk.rss_all)
 - [The best US cities for remote software developers](https://www.infoworld.com/article/3649192/the-best-us-cities-for-remote-software-developers.html#tk.rss_all)
 - [Use synthetic data for continuous testing and machine learning](https://www.infoworld.com/article/3649055/use-synthetic-data-for-continuous-testing-and-machine-learning.html#tk.rss_all)
 - [Visual Studio Code for Web gets verified GitHub commits](https://www.infoworld.com/article/3648993/visual-studio-code-for-web-gets-verified-github-commits.html#tk.rss_all)
 - [Swift-C++ interoperability effort moves forward](https://www.infoworld.com/article/3649131/swift-c-plus-plus-interoperability-effort-moves-forward.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [A short guide to cloud computing training and certifications](https://www.infoworld.com/article/3649109/a-short-guide-to-cloud-computing-training-and-certifications.html#tk.rss_all)
-- [What is human-in-the-loop machine learning? Better data, better models](https://www.infoworld.com/article/3648456/what-is-human-in-the-loop-machine-learning-better-data-better-models.html#tk.rss_all)
-- [Java proposal would lower GC latency](https://www.infoworld.com/article/3649194/java-proposal-would-lower-gc-latency.html#tk.rss_all)
-- [How to handle Java errors and cleanup without finalize](https://www.infoworld.com/article/3649089/how-to-handle-java-errors-and-cleanup-without-finalize.html#tk.rss_all)
-- [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

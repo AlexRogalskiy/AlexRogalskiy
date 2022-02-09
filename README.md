@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Umbrella company Parasol confirms data breach linked to cyber attack five weeks ago](https://www.computerweekly.com/news/252513042/Umbrella-company-Parasol-confirms-data-breach-linked-to-cyber-attack-five-weeks-ago)
-- [Government expands tech firms’ obligations in Online Safety Bill](https://www.computerweekly.com/news/252513036/Government-expands-tech-firms-obligations-in-Online-Safety-Bill)
-- [The UK-Australia FTA shows the UK means business on digital trade policy](https://www.computerweekly.com/opinion/The-UK-Australia-FTA-shows-the-UK-means-business-on-digital-trade-policy)
-- [CIO interview: Brian Roche, director of IT, George Best Belfast City Airport](https://www.computerweekly.com/news/252512626/CIO-interview-Brian-Roche-director-of-IT-George-Best-Belfast-City-Airport)
-- [Airport services firm thwarts attempted ransomware heist](https://www.computerweekly.com/news/252513022/Airport-services-firm-thwarts-attempted-ransomware-heist)
-- [Umbrella IT contractors urged to seize on court ruling to reclaim withheld holiday pay](https://www.computerweekly.com/news/252512987/Umbrella-IT-contractors-urged-to-seize-on-Supreme-Court-ruling-to-reclaim-withheld-holiday-pay)
-- [TV provider MediaHub boots SAN and NAS for Scality object storage](https://www.computerweekly.com/news/252513018/TV-provider-MediaHub-boots-SAN-and-NAS-for-Scality-object-storage)
-- [Breaking the noise barrier: The startups developing quantum computers](https://www.computerweekly.com/news/252512990/Breaking-the-noise-barrier-the-startups-developing-quantum-computers)
-- [Met police deploy facial recognition in Westminster](https://www.computerweekly.com/news/252513015/Met-police-deploy-facial-recognition-in-Westminster)
-- [Kao Data to expand datacentre footprint by opening 16MW facility in Slough](https://www.computerweekly.com/news/252512733/Kao-Data-to-expand-datacentre-footprint-by-opening-16MW-facility-in-Slough)
+- [NHS England works with Ada Lovelace Institute to tackle AI bias in healthcare](https://www.computerweekly.com/news/252513125/NHS-England-works-with-Ada-Lovelace-Institute-to-tackle-AI-bias-in-healthcare)
+- [DPD delivers swift fix for serious API flaw](https://www.computerweekly.com/news/252513120/DPD-delivers-swift-fix-for-serious-API-flaw)
+- [Microsoft to start blocking macros to thwart malware](https://www.computerweekly.com/news/252513124/Microsoft-to-start-blocking-macros-to-thwart-malware)
+- [The Security Interviews: Building the UK’s future cyber ecosystem](https://www.computerweekly.com/news/252512966/The-Security-Interviews-Building-the-UKs-future-cyber-ecosystem)
+- [Parasol data breach: Contractors rage as fallout from umbrella cyber attack continues](https://www.computerweekly.com/news/252513112/Parasol-data-breach-Contractors-rage-as-fallout-from-umbrella-cyber-attack-continues)
+- [Tiger offers lightweight file access for hybrid cloud](https://www.computerweekly.com/news/252513113/Tiger-offers-lightweight-file-access-for-hybrid-cloud)
+- [Porn sites will be legally required to verify users’ ages](https://www.computerweekly.com/news/252513104/Porn-sites-will-be-legally-required-to-verify-users-ages)
+- [Female-led data hackathon runs for second year](https://www.computerweekly.com/news/252513091/Female-led-data-hackathon-runs-for-second-year)
+- [Right to disconnect and less monitoring key to better remote work](https://www.computerweekly.com/news/252513090/Right-to-disconnect-and-less-monitoring-key-to-better-remote-work)
+- [Why data integration is a business and CIO opportunity](https://www.computerweekly.com/opinion/Why-data-integration-is-a-business-and-CIO-opportunity)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

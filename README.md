@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Udacity dark pattern to cancel a subscription](https://news.ycombinator.com/item?id=30253785)
-- [MHDDoS – DDoS Attack Script with 36 Method](https://github.com/MHProDev/MHDDoS)
-- [Can no longer view websites on smart display](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
-- [Finding the average of two unsigned integers without overflow](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
-- [In underground waterways, an endangered ecosystem](https://undark.org/2022/02/07/in-underground-waterways-an-endangered-ecosystem/)
-- [KDE: A Nice Tiling Environment and a Surprisingly Awesome DE](https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de)
-- [Read “Data and Reality”](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/)
-- [Red-teaming language models with language models](https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models)
-- [Vue 3 as the New Default](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html)
-- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://moonshotbrands.breezy.hr/p/8d057efe0230-chief-technology-officer-cto)
+- [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
+- [Show HN: PgCat, Postgres pooler with sharding, load balancing and failover](https://github.com/levkk/pgcat)
+- [Why is the Zoom app listening on my microphone when not in a meeting?](https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019)
+- [A Lonely Universe](https://inference-review.com/article/a-lonely-universe)
+- [The Kelly criterion: How to size bets &lpar;2019&rpar;](https://explore.paulbutler.org/bet/)
+- [What driveling times are these! Georgian grumblings on an age of decline](https://www.laphamsquarterly.org/roundtable/what-driveling-times-are-these)
+- [Texas power crisis revealed flaw in market’s design](https://news.cornell.edu/stories/2022/02/texas-power-crisis-revealed-flaw-markets-design)
+- [Netbeez &lpar;YC W16&rpar; is hiring a React.js engineer – remote &lpar;US&rpar;, contract to hire](https://netbeez.bamboohr.com/jobs/view.php?id=21&source=aWQ9MjM%3D)
+- [Number of Earth’s tree species estimated to be 14% higher than currently known](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
+- [Atari asks for help finding developer of 2600 game Aquaventure](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

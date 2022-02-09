@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [UK archeologists unearth Roman-era cemetery with dozens of decapitated skeletons](https://www.foxnews.com/world/uk-roman-era-cemetery-decapitated-skeletons)
-- [SoftBank&#39;s Sale of Arm to Nvidia Collapses, Arm to IPO](https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/)
-- [Harry Egipt, The Forgotten Genius of Soviet TV Commercials](https://dangerousminds.net/comments/vegetarian_nightmares_and_hot_chicks_meet_harry_egipt_forgotten_genius)
-- [The Waste Land](https://www.nybooks.com/articles/2022/02/24/the-waste-land-sewage-treatment/)
-- [The browser wars, told by a veteran](https://www.techradar.com/news/the-story-of-the-browser-wars-told-from-the-frontlines)
-- [We’re Fine Without Facebook, German and French Ministers Say](https://www.bloomberg.com/news/articles/2022-02-07/we-re-fine-without-facebook-german-and-french-ministers-say)
-- [Cerebral and Alto Neuroscience embark on at-home clinical trial for depression](https://techcrunch.com/2021/12/20/how-cerebral-and-alto-neuroscience-embarked-on-an-at-home-clinical-trial-for-depression/)
-- [Tesla cut a steering component from some cars to deal with chip shortage](https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html)
-- [Start a Blog](https://guzey.com/personal/why-have-a-blog/)
-- [Ecru](https://en.wikipedia.org/wiki/Ecru)
+- [How Note Taking Can Help You Become an Expert](https://commoncog.com/blog/how-note-taking-can-help-you-become-an-expert/)
+- [App Store Connect doesn&#39;t generate DSYM file](https://developer.apple.com/forums/thread/700051)
+- [Quantum Holograms Don’t Even Need to “See” Their Subject](https://spectrum.ieee.org/quantum-holography-using-undetected-light)
+- [Open Source GPS Reciever [Vehicle]](https://news.ycombinator.com/item?id=30267815)
+- [Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/)
+- [Thunder Out of China](https://inference-review.com/article/thunder-out-of-china)
+- [Facebook market cap falls below $600B, threshold for antitrust scrutiny](https://www.cnbc.com/2022/02/08/facebook-market-cap-under-600-billion-threshold-for-antitrust-bills.html)
+- [In which five different paths lead to methods](https://technomancy.us/197)
+- [Who Got Funded?](https://topstartups.substack.com/p/culdesac-lattice-robustintelligence)
+- [Psychology of Amazon&#39;s Purchase Flow](https://growth.design/case-studies/amazon-purchase-ux)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

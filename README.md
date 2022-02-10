@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
-- [Show HN: PgCat, Postgres pooler with sharding, load balancing and failover](https://github.com/levkk/pgcat)
-- [Why is the Zoom app listening on my microphone when not in a meeting?](https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019)
-- [A Lonely Universe](https://inference-review.com/article/a-lonely-universe)
-- [The Kelly criterion: How to size bets &lpar;2019&rpar;](https://explore.paulbutler.org/bet/)
-- [What driveling times are these! Georgian grumblings on an age of decline](https://www.laphamsquarterly.org/roundtable/what-driveling-times-are-these)
-- [Texas power crisis revealed flaw in market’s design](https://news.cornell.edu/stories/2022/02/texas-power-crisis-revealed-flaw-markets-design)
-- [Netbeez &lpar;YC W16&rpar; is hiring a React.js engineer – remote &lpar;US&rpar;, contract to hire](https://netbeez.bamboohr.com/jobs/view.php?id=21&source=aWQ9MjM%3D)
-- [Number of Earth’s tree species estimated to be 14% higher than currently known](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
-- [Atari asks for help finding developer of 2600 game Aquaventure](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
+- [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
+- [Incomplete history of Forbes.com as a platform for scams, grift, bad journalism](https://www.niemanlab.org/2022/02/an-incomplete-history-of-forbes-com-as-a-platform-for-scams-grift-and-bad-journalism/)
+- [The Black Hole Photographs: Censored Images from America’s Great Depression](https://flashbak.com/weird-black-hole-photographs-58283/)
+- [Racket 8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
+- [Aspect-ratio is great](https://css-irl.info/aspect-ratio-is-great/)
+- [Did HAL Commit Murder?](https://thereader.mitpress.mit.edu/when-hal-kills-computer-ethics/)
+- [How PostgreSQL stores rows](https://ketansingh.me/posts/how-postgres-stores-rows/)
+- [Collapse of the Fern Hollow Bridge &lpar;Pittsburgh, Pa&rpar; Preliminary NTSB Report](https://www.ntsb.gov:443/investigations/Pages/HWY22MH003.aspx)
+- [Simutrans – Transport Simulator](https://www.simutrans.com/en/)
+- [Last call to voluntarily migrate Java accounts](https://www.minecraft.net/en-us/article/last-call-voluntarily-migrate-java-accounts)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

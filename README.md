@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Lenovo awards $100,000 in grants to women and BIPOC small business owners across Ontario](https://www.itworldcanada.com/article/lenovo-awards-100000-in-grants-to-women-and-bipoc-small-business-owners-across-ontario/472965)
+- [How IT can help fight human trafficking](https://www.itworldcanada.com/article/how-it-can-help-fight-human-trafficking/472854)
+- [Can e-signatures deliver a personal touch in a remote business world?](https://www.itworldcanada.com/article/can-e-signatures-deliver-a-personal-touch-in-a-remote-business-world/472560)
+- [Cyber Security Today, Feb. 9, 2022 – Puma victim of a cyberattack, a QuickBooks scam, an API warning, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-9-2022-puma-victim-of-a-cyberattack-a-quickbooks-scam-an-api-warning-and-more/472809)
+- [Hashtag Trending Feb. 9 – IRS scraps facial recognition; 2FA works; the costly Huawei gear rip and replace](https://www.itworldcanada.com/article/hashtag-trending-feb-9-irs-scraps-facial-recognition-2fa-works-the-costly-huawei-gear-rip-and-replace/472837)
 - [Coffee Briefing Feb. 8, 2022 – Trulioo aquires HelloFlow; Google Canada commits $1.5 million to support Indigenous businesses; registrations open for Startup Global 2022; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-8-2022-trulioo-aquires-helloflow-google-canada-commits-1-5-million-to-support-indigenous-businesses-registrations-open-for-startup-global-2022-and-more/472789)
 - [Researchers help organizations understand how available security capabilities can be used to defend against threats](https://www.itworldcanada.com/article/researchers-help-organizations-understand-how-available-security-capabilities-can-be-used-to-defend-against-threats/472703)
 - [Canadian sentenced for his role in Netwalker ransomware attacks](https://www.itworldcanada.com/article/canadian-sentenced-for-his-role-in-netwalker-ransomware-attacks/472760)
 - [TD accelerates data estate initiative on Microsoft Azure](https://www.itworldcanada.com/article/td-accelerates-data-estate-initiative-on-microsoft-azure/472057)
 - [Hashtag Trending Feb. 8 – Amazon increases its max base pay; Microsoft building its metaverse with Activision Blizzard deal; Google is sued](https://www.itworldcanada.com/article/hashtag-trending-feb-8-amazon-increases-its-max-base-pay-microsoft-building-its-metaverse-with-activision-blizzard-deal-google-is-sued/472719)
-- [Nvidia terminates its $40 billion Arm acquisition](https://www.itworldcanada.com/article/nvidia-terminates-its-40-billion-arm-acquisition/472721)
-- [Microsoft to stop running of VBA macros by default](https://www.itworldcanada.com/article/472614-2/472614)
-- [More than half of attacked Canadian firms paid cyber ransoms: Survey](https://www.itworldcanada.com/article/more-than-half-of-attacked-canadian-firms-paid-cyber-ransoms-survey/472576)
-- [Cyber Security Today, Feb. 7, 2022 – Insight into a ransomware gang, email used in cyberattacks on Ukraine, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-7-2022-insight-into-a-ransomware-gang-email-used-in-cyberattacks-on-ukraine-and-more/472565)
-- [Hashtag Trending Feb. 7 – 5G network rollout pause; Meta may pull Facebook and Instagram from EU; tech CEO is unimpressed with metaverse workspace](https://www.itworldcanada.com/article/hashtag-trending-feb-7-5g-network-rollout-pause-meta-may-pull-facebook-and-instagram-from-eu-tech-ceo-is-unimpressed-with-metaverse-workspace/472570)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

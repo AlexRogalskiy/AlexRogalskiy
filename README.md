@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [NHS England works with Ada Lovelace Institute to tackle AI bias in healthcare](https://www.computerweekly.com/news/252513125/NHS-England-works-with-Ada-Lovelace-Institute-to-tackle-AI-bias-in-healthcare)
-- [DPD delivers swift fix for serious API flaw](https://www.computerweekly.com/news/252513120/DPD-delivers-swift-fix-for-serious-API-flaw)
-- [Microsoft to start blocking macros to thwart malware](https://www.computerweekly.com/news/252513124/Microsoft-to-start-blocking-macros-to-thwart-malware)
-- [The Security Interviews: Building the UK’s future cyber ecosystem](https://www.computerweekly.com/news/252512966/The-Security-Interviews-Building-the-UKs-future-cyber-ecosystem)
-- [Parasol data breach: Contractors rage as fallout from umbrella cyber attack continues](https://www.computerweekly.com/news/252513112/Parasol-data-breach-Contractors-rage-as-fallout-from-umbrella-cyber-attack-continues)
-- [Tiger offers lightweight file access for hybrid cloud](https://www.computerweekly.com/news/252513113/Tiger-offers-lightweight-file-access-for-hybrid-cloud)
-- [Porn sites will be legally required to verify users’ ages](https://www.computerweekly.com/news/252513104/Porn-sites-will-be-legally-required-to-verify-users-ages)
-- [Female-led data hackathon runs for second year](https://www.computerweekly.com/news/252513091/Female-led-data-hackathon-runs-for-second-year)
-- [Right to disconnect and less monitoring key to better remote work](https://www.computerweekly.com/news/252513090/Right-to-disconnect-and-less-monitoring-key-to-better-remote-work)
-- [Why data integration is a business and CIO opportunity](https://www.computerweekly.com/opinion/Why-data-integration-is-a-business-and-CIO-opportunity)
+- [Minister defends digital economy legislation before Lords](https://www.computerweekly.com/news/252513171/Minister-defends-digital-economy-legislation-before-Lords)
+- [Linux-based clouds an open door for attackers, says VMware](https://www.computerweekly.com/news/252513174/Linux-based-clouds-an-open-door-for-attackers-says-VMware)
+- [Ransomware ever more sophisticated and impactful, warns NCSC](https://www.computerweekly.com/news/252513166/Ransomware-more-sophisticated-and-impactful-warns-NCSC)
+- [Data strategy highlights geospatial data challenges](https://www.computerweekly.com/news/252513167/Data-strategy-highlights-geospatial-data-challenges)
+- [Microsoft stomps on 48 bugs in February Patch Tuesday update](https://www.computerweekly.com/news/252513160/Microsoft-stomps-on-48-bugs-in-February-Patch-Tuesday-update)
+- [Tech companies risk being compelled by law to protect children, says online safety expert](https://www.computerweekly.com/news/252513162/Tech-companies-risk-being-compelled-by-law-to-protect-children-says-online-safety-expert)
+- [How Carrefour is lowering its Oracle footprint](https://www.computerweekly.com/news/252513020/How-Carrefour-is-lowering-its-Oracle-footprint)
+- [Five key tech trends for digital leaders in 2022](https://www.computerweekly.com/opinion/Five-key-tech-trends-for-digital-leaders-in-2022)
+- [Posix vs object storage: How much longer for Posix?](https://www.computerweekly.com/feature/Posix-vs-object-storage-How-much-longer-for-Posix)
+- [Log4Shell, Ukraine and umbrella firm cyber attacks – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Log4shell-Ukraine-and-umbrella-firm-cyber-attacks-Computer-Weekly-Downtime-Upload-podcast)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For Apple Car, a Chargepoint buy makes more sense than Peloton](https://www.computerworld.com/article/3649099/for-apple-car-a-chargepoint-buy-makes-more-sense-than-peloton.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Workarounds for 4 tasks Windows 11 makes harder](https://www.computerworld.com/article/3648540/workarounds-for-4-tasks-windows-11-makes-harder.html#tk.rss_all)
+- [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings-2022.html#tk.rss_all)
+- [Rackspace is now the roach motel of cloud platforms](https://www.computerworld.com/article/3649196/rackspace-is-now-the-roach-motel-of-cloud-platforms.html#tk.rss_all)
 - [Nvidia drops plans to buy Arm for $40B](https://www.computerworld.com/article/3649132/nvidia-drops-plans-to-buy-arm-for-40b.html#tk.rss_all)
 - [BrandPost: Cyberthreats are big trouble for small businesses](https://www.computerworld.com/article/3649360/cyberthreats-are-big-trouble-for-small-businesses.html#tk.rss_all)
 - [Google Workspace sees Essentials Starter as a way to &#39;democratize&#39; collaboration](https://www.computerworld.com/article/3649203/google-workspace-sees-essentials-starter-as-a-way-to-democratize-collaboration.html#tk.rss_all)
-- [Employees want the right tools for work — so let them choose](https://www.computerworld.com/article/3649202/employees-want-the-right-tools-for-work-so-let-them-choose.html#tk.rss_all)
-- [5G is finally ready for business](https://www.computerworld.com/article/3649199/5g-is-finally-ready-for-business.html#tk.rss_all)
-- [How to use Dropbox for team collaboration](https://www.computerworld.com/article/3607759/how-to-use-dropbox-for-team-collaboration.html#tk.rss_all)
-- [Research shows Windows updates can take six hours to complete](https://www.computerworld.com/article/3649193/research-shows-windows-updates-can-take-six-hours-to-complete.html#tk.rss_all)
-- [Addigy talks up Apple-in-the-enterprise tech show](https://www.computerworld.com/article/3648994/addigy-talks-up-apple-in-the-enterprise-tech-show.html#tk.rss_all)
-- [The Windows 11 ‘push,’ revisited](https://www.computerworld.com/article/3648995/the-windows-11-push-revisited.html#tk.rss_all)
-- [How UEM supports the hybrid workplace](https://www.computerworld.com/article/3648596/how-uem-supports-the-hybrid-workplace.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Winter Olympics 2022 day five: Shiffrin goes for gold in slalom; snowboard cross final – live!](https://www.theguardian.com/sport/live/2022/feb/08/winter-olympics-2022-day-five-mikaela-shiffrin-slalom-snowboard-cross-latest-updates)
-- [Croatia scraps euro coin design over plagiarism controversy](https://www.theguardian.com/world/2022/feb/09/croatia-scraps-euro-coin-design-over-plagiarism-controversy)
-- [Brexit damaging trade with EU, says public accounts committee](https://www.theguardian.com/politics/2022/feb/09/brexit-damaging-trade-with-eu-says-public-accounts-committee)
-- [Fifth of young women and girls ‘cyber-flashed’ in past year, UK study reveals](https://www.theguardian.com/society/2022/feb/09/online-sexual-abuse-cyber-flashed-young-women)
-- [Brit awards 2022: every performance reviewed, from Adele to Dave and Little Simz](https://www.theguardian.com/music/2022/feb/08/brit-awards-2022-every-performance-reviewed-from-adele-to-little-simz)
-- [US married couple arrested for allegedly conspiring to launder $4.5bn in bitcoin](https://www.theguardian.com/technology/2022/feb/08/us-married-couple-arrested-allegedly-conspiring-launder-45bn-bitcoin)
-- [Adele sweeps gender-neutral Brit awards dominated by female acts](https://www.theguardian.com/music/2022/feb/08/adele-sweeps-gender-neutral-brit-awards-dominated-by-female-acts)
-- [‘I have sinned’: US nun to serve a year in jail for wire fraud and money laundering](https://www.theguardian.com/world/2022/feb/08/california-nun-sentenced-money-laundering)
-- [Jay Rodriguez delivers Burnley point against wasteful Manchester United](https://www.theguardian.com/football/2022/feb/08/burnley-manchester-united-premier-league-match-report)
-- [Kieran Trippier’s stunner for Newcastle leaves Lampard’s Everton in trouble](https://www.theguardian.com/football/2022/feb/08/newcastle-everton-premier-league-match-report)
+- [Winter Olympics 2022 day six: Nathan Chen and Chloe Kim go for gold – live!](https://www.theguardian.com/sport/live/2022/feb/10/winter-olympics-2022-day-six-nathan-chen-chloe-kim-figure-skating-snowboard-beijing-latest-results)
+- [Hong Kong leader Carrie Lam apologises for long Covid testing queues as new restrictions bite](https://www.theguardian.com/world/2022/feb/10/hong-kong-leader-carrie-lam-apologises-for-long-covid-testing-queues-as-new-restrictions-bite)
+- [‘Just-in-time to just-in-case’: EU’s $49bn chip plan shows tectonic shift in global economy](https://www.theguardian.com/technology/2022/feb/09/eu-hopes-43bn-plan-will-fix-chip-shortages-as-supply-chain-crisis-bites)
+- [Sneakers designed by Virgil Abloh fetch $25m, with one pair going for $350,000](https://www.theguardian.com/fashion/2022/feb/10/sneakers-designed-by-virgil-abloh-fetch-25m-with-one-pair-going-for-350000)
+- [New Zealand police clash with anti-vaccine protesters at parliament, 50 arrested](https://www.theguardian.com/world/2022/feb/10/new-zealand-police-clash-with-anti-vaccine-protesters-during-eviction-operation)
+- [Nasa fears SpaceX plan for 30,000 satellites could hamper space missions](https://www.theguardian.com/science/2022/feb/10/nasa-fears-spacex-plan-for-30000-satellites-could-hamper-space-missions)
+- [Bank of England boss urged to shadow care worker for a day amid low pay row](https://www.theguardian.com/business/2022/feb/09/bank-of-england-boss-urged-to-shadow-care-worker-for-a-day-amid-low-pay-row)
+- [Tax wealth to pay for ageing UK population, says thinktank](https://www.theguardian.com/business/2022/feb/10/tax-wealth-to-pay-for-ageing-uk-population-says-thinktank)
+- [Stephen Hawking exhibition hopes to unravel the mysteries of his blackboard](https://www.theguardian.com/science/2022/feb/10/stephen-hawking-exhibition-hopes-to-unravel-the-mysteries-of-his-blackboard)
+- [Anti-Jewish hate incidents hit record high in UK](https://www.theguardian.com/news/2022/feb/10/anti-jewish-hate-incidents-hit-record-high-in-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

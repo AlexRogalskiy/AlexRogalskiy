@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it better to receive a certificate or graduate with a bachelors in information technology?](https://www.reddit.com/r/InformationTechnology/comments/soe78a/is_it_better_to_receive_a_certificate_or_graduate/)
+- [Windows 10 Password Expiration command](https://www.reddit.com/r/InformationTechnology/comments/sod2oy/windows_10_password_expiration_command/)
 - [Documentation, Policies and other resources.](https://www.reddit.com/r/InformationTechnology/comments/snqntf/documentation_policies_and_other_resources/)
 - [2nd monitor not working, please help!!](https://www.reddit.com/r/InformationTechnology/comments/snouj2/2nd_monitor_not_working_please_help/)
 - [Trying to connect a canon image runner 1643iF to a windows XP computer. Anyone know where I can download a generic driver or a universal driver to be able to print. I know the computer is old.](https://www.reddit.com/r/InformationTechnology/comments/snc6ny/trying_to_connect_a_canon_image_runner_1643if_to/)
@@ -422,8 +424,6 @@
 - [A Brief Introduction to Library Ethical Codes](https://www.reddit.com/r/InformationTechnology/comments/slmuou/a_brief_introduction_to_library_ethical_codes/)
 - [What can an autonomous system not do](https://www.reddit.com/r/InformationTechnology/comments/skptdh/what_can_an_autonomous_system_not_do/)
 - [install.wim and install.esd files are 118GB???](https://www.reddit.com/r/InformationTechnology/comments/skpdz7/installwim_and_installesd_files_are_118gb/)
-- [Autonomous Systems Positives and Negatives](https://www.reddit.com/r/InformationTechnology/comments/skohhw/autonomous_systems_positives_and_negatives/)
-- [VPN](https://www.reddit.com/r/InformationTechnology/comments/sjw92c/vpn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

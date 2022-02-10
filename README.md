@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Note Taking Can Help You Become an Expert](https://commoncog.com/blog/how-note-taking-can-help-you-become-an-expert/)
-- [App Store Connect doesn&#39;t generate DSYM file](https://developer.apple.com/forums/thread/700051)
-- [Quantum Holograms Don’t Even Need to “See” Their Subject](https://spectrum.ieee.org/quantum-holography-using-undetected-light)
-- [Open Source GPS Reciever [Vehicle]](https://news.ycombinator.com/item?id=30267815)
-- [Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/)
-- [Thunder Out of China](https://inference-review.com/article/thunder-out-of-china)
-- [Facebook market cap falls below $600B, threshold for antitrust scrutiny](https://www.cnbc.com/2022/02/08/facebook-market-cap-under-600-billion-threshold-for-antitrust-bills.html)
-- [In which five different paths lead to methods](https://technomancy.us/197)
-- [Who Got Funded?](https://topstartups.substack.com/p/culdesac-lattice-robustintelligence)
-- [Psychology of Amazon&#39;s Purchase Flow](https://growth.design/case-studies/amazon-purchase-ux)
+- [Falling into the Pit of Success &lpar;2007&rpar;](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
+- [DataandPython](https://news.ycombinator.com/item?id=30281697)
+- [Google Fi is blocking frequent travelers and expats](https://news.ycombinator.com/item?id=30281668)
+- [Truckers in France are starting to prepare for a freedom Convoy](https://twitter.com/TeresaFreeThink/status/1491339596546080770)
+- [Neil Young’s Spotify Protest Isn’t Censorship, It’s Exercising His Free Market](https://hunterwalk.com/2022/02/09/neil-youngs-spotify-protest-isnt-censorship-its-exercising-his-free-market-rights-why-are-we-confusing-the-two/)
+- [A modest proposal for improving HN](https://news.ycombinator.com/item?id=30281648)
+- [Edrys: The open remote teaching platform &lpar;Deno-based&rpar;](https://news.ycombinator.com/item?id=30281639)
+- [Clarity Trumps Persuasion](https://capitalandgrowth.org/answers/Article/3907948/Clarity-Trumps-Persuasion-Branding-Waffle-vs-Clear-Value-Proposition-Statement)
+- [Holographic Rainbow Chocolate](https://www.instructables.com/Holographic-Rainbow-Chocolate/)
+- [Ask HN: Long-Term Effects of VR?](https://news.ycombinator.com/item?id=30281611)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

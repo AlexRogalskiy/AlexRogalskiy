@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Falling into the Pit of Success &lpar;2007&rpar;](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
-- [DataandPython](https://news.ycombinator.com/item?id=30281697)
-- [Google Fi is blocking frequent travelers and expats](https://news.ycombinator.com/item?id=30281668)
-- [Truckers in France are starting to prepare for a freedom Convoy](https://twitter.com/TeresaFreeThink/status/1491339596546080770)
-- [Neil Young’s Spotify Protest Isn’t Censorship, It’s Exercising His Free Market](https://hunterwalk.com/2022/02/09/neil-youngs-spotify-protest-isnt-censorship-its-exercising-his-free-market-rights-why-are-we-confusing-the-two/)
-- [A modest proposal for improving HN](https://news.ycombinator.com/item?id=30281648)
-- [Edrys: The open remote teaching platform &lpar;Deno-based&rpar;](https://news.ycombinator.com/item?id=30281639)
-- [Clarity Trumps Persuasion](https://capitalandgrowth.org/answers/Article/3907948/Clarity-Trumps-Persuasion-Branding-Waffle-vs-Clear-Value-Proposition-Statement)
-- [Holographic Rainbow Chocolate](https://www.instructables.com/Holographic-Rainbow-Chocolate/)
-- [Ask HN: Long-Term Effects of VR?](https://news.ycombinator.com/item?id=30281611)
+- [What if social media optimized for human values? A case study](https://www.surgehq.ai/blog/what-if-social-media-optimized-for-human-values)
+- [How to pitch a Jamstack website to your clients](https://cloudcannon.com/blog/how-to-pitch-a-jamstack-website-to-clients/)
+- [“The Early Days of Unix at Bell Labs” – Brian Kernighan &lpar;LCA 2022 Online&rpar;](https://www.youtube.com/watch?v=ECCr_KFl41E)
+- [A top researcher says it&#39;s time to rethink our entire approach to preschool](https://www.npr.org/2022/02/10/1079406041/researcher-says-rethink-prek-preschool-prekindergarten)
+- [A spy technology that threatens all of humanity](https://news.ycombinator.com/item?id=30296008)
+- [Why are videoconferences so tiring?](https://www.researchable.info/takes/why-are-videoconferences-so-tiring)
+- [Performance Study of Lightweight Hypervisors Used in Container Env [pdf]](https://www.scitepress.org/Papers/2021/104405/104405.pdf)
+- [Is America finally ready to take UFOs seriously?](https://www.theguardian.com/world/2022/feb/05/ufos-america-aliens-government-report)
+- [China ghosted Hollywood: Studio slavishness to the CCP was for nothing](https://unherd.com/2022/02/how-china-ghosted-hollywood/)
+- [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

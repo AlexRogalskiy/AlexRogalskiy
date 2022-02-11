@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [CNCF survey: Managed Kubernetes becomes the norm](https://www.infoworld.com/article/3649710/cncf-survey-managed-kubernetes-becomes-the-norm.html#tk.rss_all)
+- [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_all)
+- [How to work with IAsyncDisposable in .NET 6](https://www.infoworld.com/article/3649352/how-to-work-with-iasyncdisposable-in-net-6.html#tk.rss_all)
+- [8 new JavaScript features you might have missed](https://www.infoworld.com/article/3649200/8-new-javascript-features-you-might-have-missed.html#tk.rss_all)
 - [Starburst update aims to help develop data products from any source](https://www.infoworld.com/article/3649100/starburst-update-aims-to-help-develop-data-products-from-any-source.html#tk.rss_all)
 - [One significant cost of multicloud](https://www.infoworld.com/article/3649116/one-significant-cost-of-multicloud.html#tk.rss_all)
 - [Using PWA Studio in Visual Studio Code](https://www.infoworld.com/article/3649115/using-pwa-studio-in-visual-studio-code.html#tk.rss_all)
 - [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_all)
 - [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_all)
 - [Creatio updates Atlas low-code platform to make it easier to reuse code](https://www.infoworld.com/article/3649351/creatio-updates-atlas-low-code-platform-to-make-it-easier-to-reuse-code.html#tk.rss_all)
-- [Google Flutter 2.10 intros stable support for Windows](https://www.infoworld.com/article/3649201/google-flutter-210-brings-stable-support-for-windows-targets.html#tk.rss_all)
-- [Overdoing service-focused cloud development](https://www.infoworld.com/article/3649197/overdoing-service-focused-cloud-development.html#tk.rss_all)
-- [How we should think about cloud lock-in](https://www.infoworld.com/article/3648992/how-we-should-think-about-cloud-lock-in.html#tk.rss_all)
-- [The best US cities for remote software developers](https://www.infoworld.com/article/3649192/the-best-us-cities-for-remote-software-developers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Where Developers Fit in the Metaverse and Crypto Landscape](https://www.informationweek.com/devops/where-developers-fit-in-the-metaverse-and-crypto-landscape)
+- [Beyond the Data Warehouse: What Are the Repository Options Today?](https://www.informationweek.com/big-data/beyond-the-data-warehouse-what-are-the-repository-options-today-)
 - [Data Science: A Guide to Careers and Team Building](https://www.informationweek.com/ai-or-machine-learning/data-science-a-guide-to-careers-and-team-building)
 - [How Tech Turned an Emerging Generation of Sports Fans Into Bettors](https://www.informationweek.com/cloud/how-tech-turned-an-emerging-generation-of-sports-fans-into-bettors)
 - [The Unforeseen Consequences of the Cloud Boom](https://www.informationweek.com/cloud/the-unforeseen-consequences-of-the-cloud-boom)
@@ -377,8 +379,6 @@
 - [8 Security Dinosaurs and What Filled Their Footprints](https://www.informationweek.com/it-life/8-security-dinosaurs-and-what-filled-their-footprints)
 - [Conversational AI: How It Works and Where It&#39;s Headed](https://www.informationweek.com/big-data/conversational-ai-how-it-works-and-where-it-s-headed)
 - [Tips for Making Your Agile Framework More … Agile](https://www.informationweek.com/enterprise-agility/tips-for-making-your-agile-framework-more-agile)
-- [Tech Job Market Still Smoking Hot, New Labor Report Stats Say](https://www.informationweek.com/strategic-cio/tech-job-market-still-smoking-hot)
-- [How Fighting AI Bias Can Make Fintech Even More Inclusive](https://www.informationweek.com/fintech/how-fighting-ai-bias-can-make-fintech-even-more-inclusive)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

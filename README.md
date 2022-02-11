@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
-- [Incomplete history of Forbes.com as a platform for scams, grift, bad journalism](https://www.niemanlab.org/2022/02/an-incomplete-history-of-forbes-com-as-a-platform-for-scams-grift-and-bad-journalism/)
-- [The Black Hole Photographs: Censored Images from America’s Great Depression](https://flashbak.com/weird-black-hole-photographs-58283/)
-- [Racket 8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
-- [Aspect-ratio is great](https://css-irl.info/aspect-ratio-is-great/)
-- [Did HAL Commit Murder?](https://thereader.mitpress.mit.edu/when-hal-kills-computer-ethics/)
-- [How PostgreSQL stores rows](https://ketansingh.me/posts/how-postgres-stores-rows/)
-- [Collapse of the Fern Hollow Bridge &lpar;Pittsburgh, Pa&rpar; Preliminary NTSB Report](https://www.ntsb.gov:443/investigations/Pages/HWY22MH003.aspx)
-- [Simutrans – Transport Simulator](https://www.simutrans.com/en/)
-- [Last call to voluntarily migrate Java accounts](https://www.minecraft.net/en-us/article/last-call-voluntarily-migrate-java-accounts)
+- [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
+- [Newly Declassified Docs Reveal Previously Secret CIA Bulk Collection](https://www.wyden.senate.gov/news/press-releases/wyden-and-heinrich-newly-declassified-documents-reveal-previously-secret-cia-bulk-collection-problems-with-cia-handling-of-americans-information)
+- [Atlas &lpar;YC W22&rpar; Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
+- [Case against OOP is understated, not overstated &lpar;2020&rpar;](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
+- [Wordle Now Redirects to NYT](https://news.ycombinator.com/item?id=30293297)
+- [Cloudflare announces fourth quarter and fiscal year 2021 financial results](https://cloudflare.net/news/news-details/2022/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2021-Financial-Results/default.aspx)
+- [Structured Procrastination &lpar;1995&rpar;](http://www.structuredprocrastination.com/)
+- [Twenty years of C# with Anders Hejlsberg [audio]](https://www.dotnetrocks.com/?show=1780)
+- [Show HN: A Schemaless Data Store Within Your SQL Database](https://schemafreesql.com/)
+- [Betty Davis has died](https://www.rollingstone.com/music/music-news/betty-davis-dead-obit-1297372/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

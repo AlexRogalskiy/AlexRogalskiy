@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Is Camo an essential app for remote workers with an iPhone?](https://www.computerworld.com/article/3649750/is-camo-an-essential-app-for-remote-workers-with-an-iphone.html#tk.rss_all)
+- [It’s time to pay attention to pay](https://www.computerworld.com/article/3649728/it-s-time-to-pay-attention-to-pay.html#tk.rss_all)
+- [Apple wants to know why you hate Safari](https://www.computerworld.com/article/3649769/apple-wants-to-know-why-you-hate-safari.html#tk.rss_all)
 - [For Apple Car, a Chargepoint buy makes more sense than Peloton](https://www.computerworld.com/article/3649099/for-apple-car-a-chargepoint-buy-makes-more-sense-than-peloton.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Workarounds for 4 tasks Windows 11 makes harder](https://www.computerworld.com/article/3648540/workarounds-for-4-tasks-windows-11-makes-harder.html#tk.rss_all)
 - [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings-2022.html#tk.rss_all)
 - [Rackspace is now the roach motel of cloud platforms](https://www.computerworld.com/article/3649196/rackspace-is-now-the-roach-motel-of-cloud-platforms.html#tk.rss_all)
-- [Nvidia drops plans to buy Arm for $40B](https://www.computerworld.com/article/3649132/nvidia-drops-plans-to-buy-arm-for-40b.html#tk.rss_all)
-- [BrandPost: Cyberthreats are big trouble for small businesses](https://www.computerworld.com/article/3649360/cyberthreats-are-big-trouble-for-small-businesses.html#tk.rss_all)
-- [Google Workspace sees Essentials Starter as a way to &#39;democratize&#39; collaboration](https://www.computerworld.com/article/3649203/google-workspace-sees-essentials-starter-as-a-way-to-democratize-collaboration.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

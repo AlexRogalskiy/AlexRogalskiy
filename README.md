@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Winter Olympics 2022 day six: Nathan Chen and Chloe Kim go for gold – live!](https://www.theguardian.com/sport/live/2022/feb/10/winter-olympics-2022-day-six-nathan-chen-chloe-kim-figure-skating-snowboard-beijing-latest-results)
-- [Hong Kong leader Carrie Lam apologises for long Covid testing queues as new restrictions bite](https://www.theguardian.com/world/2022/feb/10/hong-kong-leader-carrie-lam-apologises-for-long-covid-testing-queues-as-new-restrictions-bite)
-- [‘Just-in-time to just-in-case’: EU’s $49bn chip plan shows tectonic shift in global economy](https://www.theguardian.com/technology/2022/feb/09/eu-hopes-43bn-plan-will-fix-chip-shortages-as-supply-chain-crisis-bites)
-- [Sneakers designed by Virgil Abloh fetch $25m, with one pair going for $350,000](https://www.theguardian.com/fashion/2022/feb/10/sneakers-designed-by-virgil-abloh-fetch-25m-with-one-pair-going-for-350000)
-- [New Zealand police clash with anti-vaccine protesters at parliament, 50 arrested](https://www.theguardian.com/world/2022/feb/10/new-zealand-police-clash-with-anti-vaccine-protesters-during-eviction-operation)
-- [Nasa fears SpaceX plan for 30,000 satellites could hamper space missions](https://www.theguardian.com/science/2022/feb/10/nasa-fears-spacex-plan-for-30000-satellites-could-hamper-space-missions)
-- [Bank of England boss urged to shadow care worker for a day amid low pay row](https://www.theguardian.com/business/2022/feb/09/bank-of-england-boss-urged-to-shadow-care-worker-for-a-day-amid-low-pay-row)
-- [Tax wealth to pay for ageing UK population, says thinktank](https://www.theguardian.com/business/2022/feb/10/tax-wealth-to-pay-for-ageing-uk-population-says-thinktank)
-- [Stephen Hawking exhibition hopes to unravel the mysteries of his blackboard](https://www.theguardian.com/science/2022/feb/10/stephen-hawking-exhibition-hopes-to-unravel-the-mysteries-of-his-blackboard)
-- [Anti-Jewish hate incidents hit record high in UK](https://www.theguardian.com/news/2022/feb/10/anti-jewish-hate-incidents-hit-record-high-in-uk)
+- [Saved. The Wordle clue that helped rescue 80-year-old woman from hostage ordeal](https://www.theguardian.com/us-news/2022/feb/11/saved-the-wordle-clue-that-helped-rescue-80-year-old-woman-from-hostage-ordeal)
+- [Winter Olympics 2022 day seven: Shaun White’s farewell; Ledecká goes for double-double – live!](https://www.theguardian.com/sport/live/2022/feb/11/winter-olympics-2022-day-seven-shaun-whites-farewell-ledecka-goes-for-double-double-live)
+- [‘What took so long?’: how the papers covered the resignation of Cressida Dick](https://www.theguardian.com/uk-news/2022/feb/11/what-took-so-long-how-the-papers-covered-the-resignation-of-cressida-dick)
+- [Ex-Cheer star Jerry Harris pleads guilty to child sexual abuse image charges](https://www.theguardian.com/media/2022/feb/10/jerry-harris-netflix-cheer-guilty-child-pornography)
+- [‘It is necessary’: Cressida Dick critics touched by Met police scandals welcome her resignation](https://www.theguardian.com/uk-news/2022/feb/11/it-is-necessary-cressida-dick-critics-touched-by-met-police-scandals-welcome-her-resignation)
+- [Farrell rues Sexton blow but puts faith in Carbery to ‘deliver’ against France](https://www.theguardian.com/sport/2022/feb/10/johnny-sexton-ireland-six-nations-france-rugby-union)
+- [Paranoia and alarmism: Canada truckers’ ‘intelligence reports’ hint at mindset](https://www.theguardian.com/world/2022/feb/10/canada-truckers-protest-mindset-intelligence-reports)
+- [Lord of the bling: Peter Jackson tops Forbes highest paid entertainer list](https://www.theguardian.com/film/2022/feb/11/lord-of-the-bling-peter-jackson-tops-forbes-highest-paid-entertainer-list)
+- [HMRC accused of ‘ignorance and inaction’ over £6bn Covid fraud](https://www.theguardian.com/world/2022/feb/11/hmrc-accused-of-ignorance-and-inaction-over-6bn-covid)
+- [Ai Weiwei: The Liberty of Doubt review – so dull and sentimental it’s offensive](https://www.theguardian.com/artanddesign/2022/feb/11/ai-weiwei-the-liberty-of-doubt-review-so-dull-and-sentimental-its-offensive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How are face tattoos viewed in the it field?](https://www.reddit.com/r/InformationTechnology/comments/spdbkx/how_are_face_tattoos_viewed_in_the_it_field/)
+- [Number system calculator](https://www.reddit.com/r/InformationTechnology/comments/spc9rq/number_system_calculator/)
+- [Backing up a Dell PowerEdge 2800.](https://www.reddit.com/r/InformationTechnology/comments/sp7t0j/backing_up_a_dell_poweredge_2800/)
+- [How to get a job in software developer? What are the pathways to do so? Any certificates?](https://www.reddit.com/r/InformationTechnology/comments/sp7rh1/how_to_get_a_job_in_software_developer_what_are/)
 - [Is it better to receive a certificate or graduate with a bachelors in information technology?](https://www.reddit.com/r/InformationTechnology/comments/soe78a/is_it_better_to_receive_a_certificate_or_graduate/)
 - [Windows 10 Password Expiration command](https://www.reddit.com/r/InformationTechnology/comments/sod2oy/windows_10_password_expiration_command/)
 - [Documentation, Policies and other resources.](https://www.reddit.com/r/InformationTechnology/comments/snqntf/documentation_policies_and_other_resources/)
 - [2nd monitor not working, please help!!](https://www.reddit.com/r/InformationTechnology/comments/snouj2/2nd_monitor_not_working_please_help/)
 - [Trying to connect a canon image runner 1643iF to a windows XP computer. Anyone know where I can download a generic driver or a universal driver to be able to print. I know the computer is old.](https://www.reddit.com/r/InformationTechnology/comments/snc6ny/trying_to_connect_a_canon_image_runner_1643if_to/)
 - [Should I consider hack reactor or WGU for Cyber Security?](https://www.reddit.com/r/InformationTechnology/comments/smeuck/should_i_consider_hack_reactor_or_wgu_for_cyber/)
-- [Checking for any tracking hardware/software/settings on computer](https://www.reddit.com/r/InformationTechnology/comments/smdjvd/checking_for_any_tracking/)
-- [A Brief Introduction to Library Ethical Codes](https://www.reddit.com/r/InformationTechnology/comments/slmuou/a_brief_introduction_to_library_ethical_codes/)
-- [What can an autonomous system not do](https://www.reddit.com/r/InformationTechnology/comments/skptdh/what_can_an_autonomous_system_not_do/)
-- [install.wim and install.esd files are 118GB???](https://www.reddit.com/r/InformationTechnology/comments/skpdz7/installwim_and_installesd_files_are_118gb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

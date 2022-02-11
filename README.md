@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Minister defends digital economy legislation before Lords](https://www.computerweekly.com/news/252513171/Minister-defends-digital-economy-legislation-before-Lords)
-- [Linux-based clouds an open door for attackers, says VMware](https://www.computerweekly.com/news/252513174/Linux-based-clouds-an-open-door-for-attackers-says-VMware)
-- [Ransomware ever more sophisticated and impactful, warns NCSC](https://www.computerweekly.com/news/252513166/Ransomware-more-sophisticated-and-impactful-warns-NCSC)
-- [Data strategy highlights geospatial data challenges](https://www.computerweekly.com/news/252513167/Data-strategy-highlights-geospatial-data-challenges)
-- [Microsoft stomps on 48 bugs in February Patch Tuesday update](https://www.computerweekly.com/news/252513160/Microsoft-stomps-on-48-bugs-in-February-Patch-Tuesday-update)
-- [Tech companies risk being compelled by law to protect children, says online safety expert](https://www.computerweekly.com/news/252513162/Tech-companies-risk-being-compelled-by-law-to-protect-children-says-online-safety-expert)
-- [How Carrefour is lowering its Oracle footprint](https://www.computerweekly.com/news/252513020/How-Carrefour-is-lowering-its-Oracle-footprint)
-- [Five key tech trends for digital leaders in 2022](https://www.computerweekly.com/opinion/Five-key-tech-trends-for-digital-leaders-in-2022)
-- [Posix vs object storage: How much longer for Posix?](https://www.computerweekly.com/feature/Posix-vs-object-storage-How-much-longer-for-Posix)
-- [Log4Shell, Ukraine and umbrella firm cyber attacks – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Log4shell-Ukraine-and-umbrella-firm-cyber-attacks-Computer-Weekly-Downtime-Upload-podcast)
+- [UK government starts search for new chief digital officer](https://www.computerweekly.com/news/252513253/UK-government-starts-search-for-new-chief-digital-officer)
+- [IR35 reforms: HMRC slammed for ‘over-collecting tax’ from non-compliant public sector bodies](https://www.computerweekly.com/news/252513255/IR35-reforms-HMRC-slammed-for-over-collecting-tax-from-non-compliant-public-sector-bodies)
+- [How diplomatic immunity silenced the prosecutor who coordinated Sweden’s EncroChat probe](https://www.computerweekly.com/news/252513203/How-diplomatic-immunity-silenced-the-prosecutor-who-coordinated-Swedens-EncroChat-probe)
+- [Interview: Eddie Copeland, director, London Office of Technology and Innovation](https://www.computerweekly.com/news/252513060/Interview-Eddie-Copeland-director-London-Office-of-Technology-and-Innovation)
+- [Retail’s staff engagement and happiness problem – can tech help?](https://www.computerweekly.com/feature/Retails-staff-engagement-and-happiness-problem-can-tech-help)
+- [Phishing tests are a useful exercise, but don’t overdo it](https://www.computerweekly.com/opinion/Phishing-tests-are-a-useful-exercise-but-dont-overdo-it)
+- [Tech sector can lead the fight against climate change](https://www.computerweekly.com/opinion/Tech-sector-can-lead-the-fight-against-climate-change)
+- [CW Benelux: Unesco members adopt AI ethics recommendation](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Unesco-members-adopt-AI-ethics-recommendation)
+- [Government earmarks £23m for 2,000 AI scholarships in England](https://www.computerweekly.com/news/252513208/Government-earmarks-23m-for-2000-AI-scholarships-in-England)
+- [IR35: NAO slams HMRC’s ‘haphazard’ roll-out of off-payroll reforms to public sector](https://www.computerweekly.com/news/252513226/IR35-NAO-slams-HMRCs-haphazard-roll-out-of-off-payroll-reforms-to-public-sector)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

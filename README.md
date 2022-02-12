@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Future for Careers in Automation Looking Bright](https://www.informationweek.com/ai-or-machine-learning/future-for-careers-in-automation-looking-bright)
+- [Remote &amp; Hybrid Work and the Shift from Speaking to Scribing](https://www.informationweek.com/it-life/remote-hybrid-work-and-the-shift-from-speaking-to-scribing)
 - [Where Developers Fit in the Metaverse and Crypto Landscape](https://www.informationweek.com/devops/where-developers-fit-in-the-metaverse-and-crypto-landscape)
 - [Beyond the Data Warehouse: What Are the Repository Options Today?](https://www.informationweek.com/big-data/beyond-the-data-warehouse-what-are-the-repository-options-today-)
 - [Data Science: A Guide to Careers and Team Building](https://www.informationweek.com/ai-or-machine-learning/data-science-a-guide-to-careers-and-team-building)
@@ -377,8 +379,6 @@
 - [8 Ways to Build Stronger Vendor Partnerships](https://www.informationweek.com/strategic-cio/8-ways-to-build-stronger-vendor-partnerships)
 - [3 Goals for a Strong Security Foundation](https://www.informationweek.com/security-and-risk-strategy/3-goals-for-a-strong-security-foundation)
 - [8 Security Dinosaurs and What Filled Their Footprints](https://www.informationweek.com/it-life/8-security-dinosaurs-and-what-filled-their-footprints)
-- [Conversational AI: How It Works and Where It&#39;s Headed](https://www.informationweek.com/big-data/conversational-ai-how-it-works-and-where-it-s-headed)
-- [Tips for Making Your Agile Framework More … Agile](https://www.informationweek.com/enterprise-agility/tips-for-making-your-agile-framework-more-agile)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

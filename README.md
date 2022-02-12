@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What if social media optimized for human values? A case study](https://www.surgehq.ai/blog/what-if-social-media-optimized-for-human-values)
-- [How to pitch a Jamstack website to your clients](https://cloudcannon.com/blog/how-to-pitch-a-jamstack-website-to-clients/)
-- [“The Early Days of Unix at Bell Labs” – Brian Kernighan &lpar;LCA 2022 Online&rpar;](https://www.youtube.com/watch?v=ECCr_KFl41E)
-- [A top researcher says it&#39;s time to rethink our entire approach to preschool](https://www.npr.org/2022/02/10/1079406041/researcher-says-rethink-prek-preschool-prekindergarten)
-- [A spy technology that threatens all of humanity](https://news.ycombinator.com/item?id=30296008)
-- [Why are videoconferences so tiring?](https://www.researchable.info/takes/why-are-videoconferences-so-tiring)
-- [Performance Study of Lightweight Hypervisors Used in Container Env [pdf]](https://www.scitepress.org/Papers/2021/104405/104405.pdf)
-- [Is America finally ready to take UFOs seriously?](https://www.theguardian.com/world/2022/feb/05/ufos-america-aliens-government-report)
-- [China ghosted Hollywood: Studio slavishness to the CCP was for nothing](https://unherd.com/2022/02/how-china-ghosted-hollywood/)
-- [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
+- [IBM Emails Show Millennial Workers Favored over ‘Dinobabies’](https://www.bloomberg.com/news/articles/2022-02-12/ibm-emails-show-millennial-workers-favored-over-dinobabies)
+- [Plain Text Sports – The day&#39;s sports in plain text](https://plaintextsports.com/)
+- [Tampermonkey is not Open Source &lpar;2019&rpar;](https://www.gkbrk.com/2019/09/tampermonkey-closed-source/)
+- [Face Recognition Is Out. So How Will the IRS Verify Identity?](https://www.wired.com/story/face-recognition-irs-verify-identity/)
+- [Elon Musk&#39;s US tax bill: $11B. Tesla&#39;s: $0](https://www.cnn.com/2022/02/10/investing/elon-musk-tesla-zero-tax-bill/index.html)
+- [A Hacker Group Has Been Framing People for Crimes They Didn&#39;t Commit](https://gizmodo.com/a-hacker-group-has-been-framing-people-for-crimes-they-1848522497)
+- [Fine-Tuning OpenAI&#39;s GPT-3 &lpar;Weights and Biases&rpar;](https://www.youtube.com/watch?v=CitdnuOGK48)
+- [OpenAI Chief Scientist Says Advanced AI May Already Be Conscious](https://futurism.com/the-byte/openai-already-sentient)
+- [Remembering a Carver](https://www.youtube.com/watch?v=ij9KXgiyDAc)
+- [LCARS – Star Trek Website Templates](https://www.thelcars.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

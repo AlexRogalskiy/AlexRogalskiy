@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Twitter complaint-tracking bot reveals most griped about tech products](https://www.computerworld.com/article/3649992/twitter-complaint-tracking-bot-reveals-most-griped-about-tech-products.html#tk.rss_all)
+- [Take your time testing these February Patch Tuesday updates](https://www.computerworld.com/article/3650013/take-your-time-testing-these-february-patch-tuesday-updates.html#tk.rss_all)
+- [A multiverse of metaverses: an emerging productivity powerhouse?](https://www.computerworld.com/article/3650012/a-multiverse-of-metaverses-an-emerging-productivity-powerhouse.html#tk.rss_all)
+- [Using choice to keep and retain talent amid the &#39;Great Resignation&#39;](https://www.computerworld.com/article/3649793/using-choice-to-keep-and-retain-talent-amid-the-great-resignation.html#tk.rss_all)
+- [Web accessibility is good for your soul—and for business](https://www.computerworld.com/article/3649989/web-accessibility-is-good-for-your-soul-and-for-business.html#tk.rss_all)
+- [Pixel power! 42 advanced Assistant actions for Google&#39;s Pixel phones](https://www.computerworld.com/article/3649001/google-pixel-assistant.html#tk.rss_all)
 - [Is Camo an essential app for remote workers with an iPhone?](https://www.computerworld.com/article/3649750/is-camo-an-essential-app-for-remote-workers-with-an-iphone.html#tk.rss_all)
 - [It’s time to pay attention to pay](https://www.computerworld.com/article/3649728/it-s-time-to-pay-attention-to-pay.html#tk.rss_all)
 - [Apple wants to know why you hate Safari](https://www.computerworld.com/article/3649769/apple-wants-to-know-why-you-hate-safari.html#tk.rss_all)
 - [For Apple Car, a Chargepoint buy makes more sense than Peloton](https://www.computerworld.com/article/3649099/for-apple-car-a-chargepoint-buy-makes-more-sense-than-peloton.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Workarounds for 4 tasks Windows 11 makes harder](https://www.computerworld.com/article/3648540/workarounds-for-4-tasks-windows-11-makes-harder.html#tk.rss_all)
-- [6 secret settings for better browsing in Chrome on Android](https://www.computerworld.com/article/2474114/chrome-android-settings-2022.html#tk.rss_all)
-- [Rackspace is now the roach motel of cloud platforms](https://www.computerworld.com/article/3649196/rackspace-is-now-the-roach-motel-of-cloud-platforms.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft ends support for older Visual Studio versions](https://www.infoworld.com/article/3650031/microsoft-ends-support-for-older-visual-studio-versions.html#tk.rss_all)
+- [Ballerina revamps RESTful services support](https://www.infoworld.com/article/3650010/ballerina-revamps-restful-services-support.html#tk.rss_all)
+- [Edge computing vs. cloud computing? Nope!](https://www.infoworld.com/article/3649988/edge-computing-vs-cloud-computing-nope.html#tk.rss_all)
+- [What is OLAP? Analytical databases](https://www.infoworld.com/article/3649211/what-is-olap-analytical-databases.html#tk.rss_all)
 - [CNCF survey: Managed Kubernetes becomes the norm](https://www.infoworld.com/article/3649710/cncf-survey-managed-kubernetes-becomes-the-norm.html#tk.rss_all)
 - [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_all)
 - [How to work with IAsyncDisposable in .NET 6](https://www.infoworld.com/article/3649352/how-to-work-with-iasyncdisposable-in-net-6.html#tk.rss_all)
 - [8 new JavaScript features you might have missed](https://www.infoworld.com/article/3649200/8-new-javascript-features-you-might-have-missed.html#tk.rss_all)
 - [Starburst update aims to help develop data products from any source](https://www.infoworld.com/article/3649100/starburst-update-aims-to-help-develop-data-products-from-any-source.html#tk.rss_all)
 - [One significant cost of multicloud](https://www.infoworld.com/article/3649116/one-significant-cost-of-multicloud.html#tk.rss_all)
-- [Using PWA Studio in Visual Studio Code](https://www.infoworld.com/article/3649115/using-pwa-studio-in-visual-studio-code.html#tk.rss_all)
-- [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_all)
-- [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_all)
-- [Creatio updates Atlas low-code platform to make it easier to reuse code](https://www.infoworld.com/article/3649351/creatio-updates-atlas-low-code-platform-to-make-it-easier-to-reuse-code.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

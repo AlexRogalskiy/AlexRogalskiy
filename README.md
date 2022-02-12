@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Samsung launches Galaxy S22 smartphones with five years of security support](https://www.itworldcanada.com/article/samsung-launches-galaxy-s22-smartphones-with-five-years-of-security-support/473016)
-- [New program aims to scale Black-led tech startups across Canada](https://www.itworldcanada.com/article/new-program-aims-to-scale-black-led-tech-startups-across-canada/473007)
-- [A conversation with IBM Canada president Dave McCann: It’s all about the people](https://www.itworldcanada.com/article/a-conversation-with-ibm-canada-president-dave-mccann-its-all-about-the-people/472996)
-- [The latest ransomware attacker tactic: Pay us to stay away](https://www.itworldcanada.com/article/the-latest-ransomware-attacker-tactic-pay-us-to-stay-away/472980)
-- [Hashtag Trending Feb. 10 – Amazon gets $4.7 billion in tax breaks; TikTok tracks a lot of personal data; SpaceX loses satellites to geomagnetic storm](https://www.itworldcanada.com/article/hashtag-trending-feb-10-amazon-gets-4-7-billion-in-subsidies-tiktok-tracks-a-lot-of-personal-data-spacex-loses-satellites-to-geomagnetic-storm/472986)
-- [Lenovo awards $100,000 in grants to women and BIPOC small business owners across Ontario](https://www.itworldcanada.com/article/lenovo-awards-100000-in-grants-to-women-and-bipoc-small-business-owners-across-ontario/472965)
-- [How IT can help fight human trafficking](https://www.itworldcanada.com/article/how-it-can-help-fight-human-trafficking/472854)
-- [Can e-signatures deliver a personal touch in a remote business world?](https://www.itworldcanada.com/article/can-e-signatures-deliver-a-personal-touch-in-a-remote-business-world/472560)
-- [Cyber Security Today, Feb. 9, 2022 – Puma victim of a cyberattack, a QuickBooks scam, an API warning, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-9-2022-puma-victim-of-a-cyberattack-a-quickbooks-scam-an-api-warning-and-more/472809)
-- [Hashtag Trending Feb. 9 – IRS scraps facial recognition; 2FA works; the costly Huawei gear rip and replace](https://www.itworldcanada.com/article/hashtag-trending-feb-9-irs-scraps-facial-recognition-2fa-works-the-costly-huawei-gear-rip-and-replace/472837)
+- [Digital home service providers should not be complacent after business boom](https://www.itworldcanada.com/article/digital-home-service-providers-should-not-be-complacent-after-business-boom/473033)
+- [Rogers Business introduces new IoT solutions for smart buildings and smart cities](https://www.itworldcanada.com/article/rogers-business-introduces-new-iot-solutions-for-smart-buildings-and-smart-cities/473144)
+- [Cyber Security Today, Week in Review for February 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-11-2022/473009)
+- [Research reveals gap between what business leaders say is good for business and their actions](https://www.itworldcanada.com/article/research-reveals-gap-between-what-business-leaders-say-is-good-for-business-and-their-actions/473118)
+- [Tenzr Health launching wearable technology in Ontario physiotherapy clinics](https://www.itworldcanada.com/article/tenzr-health-launching-wearable-technology-in-ontario-physiotherapy-clinics/472967)
+- [Russian-backed cyber attacks on West could start next week: Canadian expert](https://www.itworldcanada.com/article/russian-backed-cyber-attacks-on-west-could-start-next-week-canadian-expert/473065)
+- [Contamination incident affects ‘at least 6.5 exabytes’ of SSD memory chips](https://www.itworldcanada.com/article/contamination-incident-affects-at-least-6-5-exabytes-of-ssd-memory-chips/473080)
+- [Critical security updates for SAP, Siemens, Schneider Electric and a WordPress plugin](https://www.itworldcanada.com/article/critical-security-updates-for-sap-siemens-schneider-electric-and-a-wordpress-plugin/473061)
+- [The new BlackBerry phone is dead after all](https://www.itworldcanada.com/article/the-new-blackberry-phone-is-dead-after-all/473067)
+- [Cyber Security Today, Feb. 11, 2022 – Marketing firm leaves a huge database open, why former employees can be a security risk and more](https://www.itworldcanada.com/article/cyber-security-today-feb-11-2022-marketing-firm-leaves-a-huge-database-open-why-former-employees-can-be-a-security-risk-and-more/473036)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

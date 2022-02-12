@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
-- [Newly Declassified Docs Reveal Previously Secret CIA Bulk Collection](https://www.wyden.senate.gov/news/press-releases/wyden-and-heinrich-newly-declassified-documents-reveal-previously-secret-cia-bulk-collection-problems-with-cia-handling-of-americans-information)
-- [Atlas &lpar;YC W22&rpar; Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
-- [Case against OOP is understated, not overstated &lpar;2020&rpar;](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
-- [Wordle Now Redirects to NYT](https://news.ycombinator.com/item?id=30293297)
-- [Cloudflare announces fourth quarter and fiscal year 2021 financial results](https://cloudflare.net/news/news-details/2022/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2021-Financial-Results/default.aspx)
-- [Structured Procrastination &lpar;1995&rpar;](http://www.structuredprocrastination.com/)
-- [Twenty years of C# with Anders Hejlsberg [audio]](https://www.dotnetrocks.com/?show=1780)
-- [Show HN: A Schemaless Data Store Within Your SQL Database](https://schemafreesql.com/)
-- [Betty Davis has died](https://www.rollingstone.com/music/music-news/betty-davis-dead-obit-1297372/)
+- [CAD files for the external shell &lpar;surface topology&rpar; of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
+- [Show HN: Plost – a deceptively simple plotting library](https://github.com/tvst/plost)
+- [Nimble &lpar;YC S17&rpar; seeks product designer &lpar;part-time or full-time, remote&rpar;](https://news.ycombinator.com/item?id=30308933)
+- [Blade Runner 2099 Sequel Series Coming from Ridley Scott](https://consequence.net/2022/02/ridley-scott-blade-runner-2099/)
+- [Language homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
+- [Building an Intelligent Emacs](https://ianyepan.github.io/posts/emacs-ide/)
+- [Lock the doors: Remembering Columbia&#39;s final homecoming &lpar;2020&rpar;](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
+- [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
+- [How Einstein arrived at his theory of general relativity](https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/)
+- [Launch HN: Anja Health &lpar;YC W22&rpar; – Freezing stem cells at birth for future health](https://anjahealth.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

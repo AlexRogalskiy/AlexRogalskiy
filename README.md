@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Finance Bill Sub-Committee blames IR35 for ‘concerning’ rise in umbrella company contractors](https://www.computerweekly.com/news/252513311/Finance-Bill-Sub-Committee-blames-IR35-for-concerning-rise-in-umbrella-company-contractors)
+- [CMA secures final Privacy Sandbox guarantees from Google](https://www.computerweekly.com/news/252513300/CMA-secures-final-Privacy-Sandbox-guarantees-from-Google)
+- [NetApp provides data infrastructure for EMBL](https://www.computerweekly.com/news/252513293/NetApp-provides-data-infrastructure-for-EMBL)
+- [UK government publishes plans to improve health and social care integration](https://www.computerweekly.com/news/252513292/UK-government-publishes-plans-to-improve-health-and-social-care-integration)
+- [Why security professionals should pay attention to what Russia is doing](https://www.computerweekly.com/news/252513285/Why-security-pros-should-pay-attention-to-what-Russia-is-doing)
+- [Lords to scrutinise UK plans to become a science and tech ‘superpower’](https://www.computerweekly.com/news/252513272/Lords-to-scrutinise-UK-plans-to-become-a-science-and-tech-superpower)
+- [Hackney Council could be forced to answer questions about IT security training after Psya ransomware](https://www.computerweekly.com/news/252513258/Hackney-Council-could-be-forced-to-answer-questions-about-IT-security-training-after-Psya-ransomware)
 - [UK government starts search for new chief digital officer](https://www.computerweekly.com/news/252513253/UK-government-starts-search-for-new-chief-digital-officer)
 - [IR35 reforms: HMRC slammed for ‘over-collecting tax’ from non-compliant public sector bodies](https://www.computerweekly.com/news/252513255/IR35-reforms-HMRC-slammed-for-over-collecting-tax-from-non-compliant-public-sector-bodies)
 - [How diplomatic immunity silenced the prosecutor who coordinated Sweden’s EncroChat probe](https://www.computerweekly.com/news/252513203/How-diplomatic-immunity-silenced-the-prosecutor-who-coordinated-Swedens-EncroChat-probe)
-- [Interview: Eddie Copeland, director, London Office of Technology and Innovation](https://www.computerweekly.com/news/252513060/Interview-Eddie-Copeland-director-London-Office-of-Technology-and-Innovation)
-- [Retail’s staff engagement and happiness problem – can tech help?](https://www.computerweekly.com/feature/Retails-staff-engagement-and-happiness-problem-can-tech-help)
-- [Phishing tests are a useful exercise, but don’t overdo it](https://www.computerweekly.com/opinion/Phishing-tests-are-a-useful-exercise-but-dont-overdo-it)
-- [Tech sector can lead the fight against climate change](https://www.computerweekly.com/opinion/Tech-sector-can-lead-the-fight-against-climate-change)
-- [CW Benelux: Unesco members adopt AI ethics recommendation](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Unesco-members-adopt-AI-ethics-recommendation)
-- [Government earmarks £23m for 2,000 AI scholarships in England](https://www.computerweekly.com/news/252513208/Government-earmarks-23m-for-2000-AI-scholarships-in-England)
-- [IR35: NAO slams HMRC’s ‘haphazard’ roll-out of off-payroll reforms to public sector](https://www.computerweekly.com/news/252513226/IR35-NAO-slams-HMRCs-haphazard-roll-out-of-off-payroll-reforms-to-public-sector)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

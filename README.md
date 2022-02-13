@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [IBM Emails Show Millennial Workers Favored over ‘Dinobabies’](https://www.bloomberg.com/news/articles/2022-02-12/ibm-emails-show-millennial-workers-favored-over-dinobabies)
-- [Plain Text Sports – The day&#39;s sports in plain text](https://plaintextsports.com/)
-- [Tampermonkey is not Open Source &lpar;2019&rpar;](https://www.gkbrk.com/2019/09/tampermonkey-closed-source/)
-- [Face Recognition Is Out. So How Will the IRS Verify Identity?](https://www.wired.com/story/face-recognition-irs-verify-identity/)
-- [Elon Musk&#39;s US tax bill: $11B. Tesla&#39;s: $0](https://www.cnn.com/2022/02/10/investing/elon-musk-tesla-zero-tax-bill/index.html)
-- [A Hacker Group Has Been Framing People for Crimes They Didn&#39;t Commit](https://gizmodo.com/a-hacker-group-has-been-framing-people-for-crimes-they-1848522497)
-- [Fine-Tuning OpenAI&#39;s GPT-3 &lpar;Weights and Biases&rpar;](https://www.youtube.com/watch?v=CitdnuOGK48)
-- [OpenAI Chief Scientist Says Advanced AI May Already Be Conscious](https://futurism.com/the-byte/openai-already-sentient)
-- [Remembering a Carver](https://www.youtube.com/watch?v=ij9KXgiyDAc)
-- [LCARS – Star Trek Website Templates](https://www.thelcars.com/)
+- [Quordle](https://www.quordle.com/)
+- [Tiered CBDC and the Financial System [pdf]](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2351~c8c18bbd60.en.pdf)
+- [Baldur&#39;s Gate 2: Enhanced Edition by KowalLazy in 24:31](https://www.youtube.com/watch?v=gBcHJPZDicU)
+- [Do you have a photographic memory?](https://www.stuff.co.nz/life-style/well-good/77899063/can-you-pass-this-photographic-memory-test)
+- [The non-existence of institutional facts](https://link.springer.com/article/10.1007/s11229-020-03010-6)
+- [Is the 4 Corners Monument wrong, or is Google Maps wrong?](https://travel.stackexchange.com/questions/172149/is-the-4-corners-monument-wrong-or-is-google-maps-wrong)
+- [Epic Fights in Science](http://backreaction.blogspot.com/2022/02/epic-fights-in-science.html)
+- [Expanded CRPG Book Released – MUDs, BBS, MMOs and East Asian RPGs Added](https://crpgbook.wordpress.com/2022/02/07/update-29-the-expanded-edition-is-released/)
+- [Why Does Alcohol Mess with My Sleep?](https://www.nytimes.com/2022/01/25/well/mind/alcohol-drinking-sleep.html)
+- [Let Your Kids Be Bad at Things](https://www.theatlantic.com/family/archive/2022/02/foreverland-excerpt-heather-havrilesky-i-nearly-ruined-my-daughters-talent-show/621506/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

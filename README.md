@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Yoga, nature walks: Salesforce opens luxe ‘ranch’ to help remote workers connect](https://www.theguardian.com/us-news/2022/feb/11/salesforce-california-luxury-ranch-employees)
-- [Ireland look to Joey Carbery to step up in finely poised match with France](https://www.theguardian.com/sport/2022/feb/12/ireland-look-to-joey-carbery-to-step-up-in-finely-poised-match-with-france)
-- [US warns of ‘distinct possibility’ Russia will invade Ukraine within days](https://www.theguardian.com/world/2022/feb/11/biden-ukraine-us-russian-invasion-winter-olympics)
-- [Ghislaine Maxwell lawyers cannot keep retrial arguments under seal, judge rules](https://www.theguardian.com/us-news/2022/feb/11/ghislaine-maxwell-lawyers-motion-juror-retrial)
-- [PM sent Downing Street lockdown party questionnaire by Met police](https://www.theguardian.com/politics/2022/feb/11/pm-sent-downing-street-lockdown-party-questionnaire-by-met-police)
-- [Christian Eriksen urges Brentford teammates: ‘Don’t go easy on me’](https://www.theguardian.com/football/2022/feb/11/christian-eriksen-urges-brentford-teammates-dont-go-easy-on-me)
-- [Eddie Jones tells his England players to channel their inner Muhammad Ali](https://www.theguardian.com/sport/2022/feb/11/eddie-jones-tells-his-england-players-to-channel-their-inner-muhammad-ali)
-- [Snow Maiden review – The Russian State Ballet of Siberia’s stilted fairytale](https://www.theguardian.com/stage/2022/feb/11/snow-maiden-review-russian-state-ballet-siberia-uk-tour)
-- [Alex Dombrandt: ‘I’m proud I went down a different route to the norm’](https://www.theguardian.com/sport/2022/feb/11/alex-dombrandt-england-harlequins-rugby-proud-different-route)
-- [Chelsea and Arsenal cancel each other out in WSL stalemate](https://www.theguardian.com/football/2022/feb/11/chelsea-arsenal-wsl-match-report)
+- [NatWest: the bailed-out bank that’s become an economic bellwether](https://www.theguardian.com/business/2022/feb/13/natwest-the-bailed-out-bank-thats-become-an-economic-bellwether)
+- [Cost of living crisis demonstrations – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/feb/12/cost-of-living-crisis-demonstrations-in-pictures)
+- [The Edit: 14 of the best blouses for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/12/the-edit-14-of-the-best-blouses-for-spring-in-pictures)
+- [Five UN workers abducted by suspected al-Qaida militants in Yemen](https://www.theguardian.com/world/2022/feb/12/five-un-workers-abducted-by-suspected-al-qaida-militants-in-yemen)
+- [Biden warns Putin: you’ll pay a heavy cost if you attack Ukraine](https://www.theguardian.com/world/2022/feb/12/biden-warns-putin-youll-pay-a-heavy-cost-if-you-attack-ukraine)
+- [Eddie Jones’ young England side look to curtail Italian feelgood factor](https://www.theguardian.com/sport/2022/feb/12/eddie-jones-young-england-side-look-to-curtail-italian-feelgood-factor)
+- [Fire &lpar;or Both Sides of the Blade&rpar; review – Claire Denis’ many-faced love story](https://www.theguardian.com/film/2022/feb/12/fire-or-both-sides-of-the-blade-review-claire-denis-many-faced-love-story)
+- [‘Thanks to everyone at Asda’: success for anti-poverty campaigner Jack Monroe](https://www.theguardian.com/business/2022/feb/12/thanks-to-everyone-at-asda-success-for-anti-poverty-campaigner-jack-monroe)
+- [Brian Flores’s racism lawsuit leaves Super Bowl struggling for attention](https://www.theguardian.com/sport/2022/feb/12/brian-flores-racism-lawsuit-cincinnati-bengals-los-angeles-rams-super-bowl)
+- [NHS staffing levels are at crisis point, so why isn’t it allowed to plan for the future? | Andrew Goddard](https://www.theguardian.com/commentisfree/2022/feb/12/nhs-staffing-levels-are-at-crisis-point-so-why-isnt-it-allowed-to-plan-for-the-future)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

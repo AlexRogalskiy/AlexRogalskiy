@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the current character encoding that used in today&#39;s computers &lpar;laptops, phones, Apple watches, etc&rpar;? Is it UTF-8 or something more advance than UTF-8?](https://www.reddit.com/r/InformationTechnology/comments/sr3q8f/what_is_the_current_character_encoding_that_used/)
+- [We know the highest decimal value we can represent with a byte is 255. How does the computer consider the values larger than 255?](https://www.reddit.com/r/InformationTechnology/comments/sr35r4/we_know_the_highest_decimal_value_we_can/)
+- [Need help with MBA IT Management resources.](https://www.reddit.com/r/InformationTechnology/comments/sr0o0p/need_help_with_mba_it_management_resources/)
+- [Just needing to verify i did this right: The Fiver-Layer Network Model](https://www.reddit.com/r/InformationTechnology/comments/sqir57/just_needing_to_verify_i_did_this_right_the/)
 - [Is it normal in IT to have 33 units in one semester?](https://www.reddit.com/r/InformationTechnology/comments/sprw9k/is_it_normal_in_it_to_have_33_units_in_one/)
 - [weird request](https://www.reddit.com/r/InformationTechnology/comments/spqv5p/weird_request/)
 - [How are face tattoos viewed in the it field?](https://www.reddit.com/r/InformationTechnology/comments/spdbkx/how_are_face_tattoos_viewed_in_the_it_field/)
 - [Backing up a Dell PowerEdge 2800.](https://www.reddit.com/r/InformationTechnology/comments/sp7t0j/backing_up_a_dell_poweredge_2800/)
 - [How to get a job in software developer? What are the pathways to do so? Any certificates?](https://www.reddit.com/r/InformationTechnology/comments/sp7rh1/how_to_get_a_job_in_software_developer_what_are/)
 - [Is it better to receive a certificate or graduate with a bachelors in information technology?](https://www.reddit.com/r/InformationTechnology/comments/soe78a/is_it_better_to_receive_a_certificate_or_graduate/)
-- [Windows 10 Password Expiration command](https://www.reddit.com/r/InformationTechnology/comments/sod2oy/windows_10_password_expiration_command/)
-- [Documentation, Policies and other resources.](https://www.reddit.com/r/InformationTechnology/comments/snqntf/documentation_policies_and_other_resources/)
-- [2nd monitor not working, please help!!](https://www.reddit.com/r/InformationTechnology/comments/snouj2/2nd_monitor_not_working_please_help/)
-- [Trying to connect a canon image runner 1643iF to a windows XP computer. Anyone know where I can download a generic driver or a universal driver to be able to print. I know the computer is old.](https://www.reddit.com/r/InformationTechnology/comments/snc6ny/trying_to_connect_a_canon_image_runner_1643if_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

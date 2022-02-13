@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CAD files for the external shell &lpar;surface topology&rpar; of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
-- [Show HN: Plost – a deceptively simple plotting library](https://github.com/tvst/plost)
-- [Nimble &lpar;YC S17&rpar; seeks product designer &lpar;part-time or full-time, remote&rpar;](https://news.ycombinator.com/item?id=30308933)
-- [Blade Runner 2099 Sequel Series Coming from Ridley Scott](https://consequence.net/2022/02/ridley-scott-blade-runner-2099/)
-- [Language homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
-- [Building an Intelligent Emacs](https://ianyepan.github.io/posts/emacs-ide/)
-- [Lock the doors: Remembering Columbia&#39;s final homecoming &lpar;2020&rpar;](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
-- [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
-- [How Einstein arrived at his theory of general relativity](https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/)
-- [Launch HN: Anja Health &lpar;YC W22&rpar; – Freezing stem cells at birth for future health](https://anjahealth.com)
+- [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
+- [Simula One – Linux VR Computer](https://shop.simulavr.com/)
+- [Traffic Simulator](https://traffic-simulation.de/ring.html)
+- [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
+- [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
+- [SikuliX – Automate what you see on a computer monitor](http://sikulix.com)
+- [Running macOS in a Virtual Machine on Apple Silicon Macs](https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs)
+- [Mutt 2.2.0](http://www.mutt.org/relnotes/2.2/)
+- [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
+- [Forbidden Emacs Lisp Knowledge: Block Comments](https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

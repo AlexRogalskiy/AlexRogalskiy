@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NatWest: the bailed-out bank that’s become an economic bellwether](https://www.theguardian.com/business/2022/feb/13/natwest-the-bailed-out-bank-thats-become-an-economic-bellwether)
-- [Cost of living crisis demonstrations – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/feb/12/cost-of-living-crisis-demonstrations-in-pictures)
-- [The Edit: 14 of the best blouses for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/12/the-edit-14-of-the-best-blouses-for-spring-in-pictures)
-- [Five UN workers abducted by suspected al-Qaida militants in Yemen](https://www.theguardian.com/world/2022/feb/12/five-un-workers-abducted-by-suspected-al-qaida-militants-in-yemen)
-- [Biden warns Putin: you’ll pay a heavy cost if you attack Ukraine](https://www.theguardian.com/world/2022/feb/12/biden-warns-putin-youll-pay-a-heavy-cost-if-you-attack-ukraine)
-- [Eddie Jones’ young England side look to curtail Italian feelgood factor](https://www.theguardian.com/sport/2022/feb/12/eddie-jones-young-england-side-look-to-curtail-italian-feelgood-factor)
-- [Fire &lpar;or Both Sides of the Blade&rpar; review – Claire Denis’ many-faced love story](https://www.theguardian.com/film/2022/feb/12/fire-or-both-sides-of-the-blade-review-claire-denis-many-faced-love-story)
-- [‘Thanks to everyone at Asda’: success for anti-poverty campaigner Jack Monroe](https://www.theguardian.com/business/2022/feb/12/thanks-to-everyone-at-asda-success-for-anti-poverty-campaigner-jack-monroe)
-- [Brian Flores’s racism lawsuit leaves Super Bowl struggling for attention](https://www.theguardian.com/sport/2022/feb/12/brian-flores-racism-lawsuit-cincinnati-bengals-los-angeles-rams-super-bowl)
-- [NHS staffing levels are at crisis point, so why isn’t it allowed to plan for the future? | Andrew Goddard](https://www.theguardian.com/commentisfree/2022/feb/12/nhs-staffing-levels-are-at-crisis-point-so-why-isnt-it-allowed-to-plan-for-the-future)
+- [Super Bowl LVI: Los Angeles Rams v Cincinnati Bengals – live!](https://www.theguardian.com/sport/live/2022/feb/13/super-bowl-lvi-los-angeles-rams-v-cincinnati-bengals-live)
+- [Winter Olympics 2022 day 10: curling, monobob and freestyle skiing – live!](https://www.theguardian.com/sport/live/2022/feb/14/winter-olympics-2022-day-10-curling-monobob-and-freestyle-skiing-live)
+- [Super Bowl: the ads, the music and everything but the football – live](https://www.theguardian.com/culture/live/2022/feb/13/super-bowl-the-ads-the-music-and-everything-but-the-football-live)
+- [Farrell focuses on the positives but Ireland must beware ghosts of Paris | Andy Bull](https://www.theguardian.com/sport/2022/feb/14/farrell-focuses-on-the-positives-but-ireland-must-beware-ghosts-of-paris)
+- [UK dating app Fluttr aims to beat the ‘Tinder swindlers’ with biometric ID](https://www.theguardian.com/technology/2022/feb/13/uk-dating-app-fluttr-aims-to-beat-the-tinder-swindlers-with-biometric-id)
+- [Refugee group warns of ‘astonishing’ cost of new Home Office policies](https://www.theguardian.com/uk-news/2022/feb/14/refugee-group-warns-of-astonishing-cost-of-new-home-office-policies)
+- [Campaign aims to boost cervical screening rates in England](https://www.theguardian.com/society/2022/feb/14/campaign-aims-to-boost-cervical-screening-rates-in-england)
+- [Small pets at risk of heatstroke as temperatures rise, study finds](https://www.theguardian.com/lifeandstyle/2022/feb/14/small-pets-risk-heatstroke-temperatures-rise-climate-crisis)
+- [UK employers expecting to award pay rises of 3% this year, survey shows](https://www.theguardian.com/business/2022/feb/14/uk-employers-expecting-to-award-pay-rises-of-3-this-year-survey-shows)
+- [UK and Scottish government agree deal on freeports in Scotland](https://www.theguardian.com/uk-news/2022/feb/14/uk-scottish-government-agree-green-freeports-scotland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

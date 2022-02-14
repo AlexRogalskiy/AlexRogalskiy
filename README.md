@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
-- [Simula One – Linux VR Computer](https://shop.simulavr.com/)
-- [Traffic Simulator](https://traffic-simulation.de/ring.html)
-- [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
-- [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
-- [SikuliX – Automate what you see on a computer monitor](http://sikulix.com)
-- [Running macOS in a Virtual Machine on Apple Silicon Macs](https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs)
-- [Mutt 2.2.0](http://www.mutt.org/relnotes/2.2/)
-- [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
-- [Forbidden Emacs Lisp Knowledge: Block Comments](https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html)
+- [The Future of 12ft Ladder](https://12ft.io/the-future)
+- [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
+- [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
+- [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
+- [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
+- [Learning rust with entirely too many linked lists &lpar;2019&rpar;](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [Surveillance too cheap to meter](https://queue.acm.org/detail.cfm?id=3511661)
+- [CFIREsim 3.0 – Retirement Simulator](https://www.cfiresim.com)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Ronja: Reasonable Optical Near Joint Access](http://ronja.twibright.com/about.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

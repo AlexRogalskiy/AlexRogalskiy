@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [RAM vs ROM vs Cache Vs Register vs Hard drive](https://www.reddit.com/r/InformationTechnology/comments/sr7uz1/ram_vs_rom_vs_cache_vs_register_vs_hard_drive/)
 - [What is the current character encoding that used in today&#39;s computers &lpar;laptops, phones, Apple watches, etc&rpar;? Is it UTF-8 or something more advance than UTF-8?](https://www.reddit.com/r/InformationTechnology/comments/sr3q8f/what_is_the_current_character_encoding_that_used/)
 - [We know the highest decimal value we can represent with a byte is 255. How does the computer consider the values larger than 255?](https://www.reddit.com/r/InformationTechnology/comments/sr35r4/we_know_the_highest_decimal_value_we_can/)
 - [Need help with MBA IT Management resources.](https://www.reddit.com/r/InformationTechnology/comments/sr0o0p/need_help_with_mba_it_management_resources/)
@@ -423,7 +424,6 @@
 - [How are face tattoos viewed in the it field?](https://www.reddit.com/r/InformationTechnology/comments/spdbkx/how_are_face_tattoos_viewed_in_the_it_field/)
 - [Backing up a Dell PowerEdge 2800.](https://www.reddit.com/r/InformationTechnology/comments/sp7t0j/backing_up_a_dell_poweredge_2800/)
 - [How to get a job in software developer? What are the pathways to do so? Any certificates?](https://www.reddit.com/r/InformationTechnology/comments/sp7rh1/how_to_get_a_job_in_software_developer_what_are/)
-- [Is it better to receive a certificate or graduate with a bachelors in information technology?](https://www.reddit.com/r/InformationTechnology/comments/soe78a/is_it_better_to_receive_a_certificate_or_graduate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

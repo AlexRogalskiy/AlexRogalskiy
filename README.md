@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Quordle](https://www.quordle.com/)
-- [Tiered CBDC and the Financial System [pdf]](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2351~c8c18bbd60.en.pdf)
-- [Baldur&#39;s Gate 2: Enhanced Edition by KowalLazy in 24:31](https://www.youtube.com/watch?v=gBcHJPZDicU)
-- [Do you have a photographic memory?](https://www.stuff.co.nz/life-style/well-good/77899063/can-you-pass-this-photographic-memory-test)
-- [The non-existence of institutional facts](https://link.springer.com/article/10.1007/s11229-020-03010-6)
-- [Is the 4 Corners Monument wrong, or is Google Maps wrong?](https://travel.stackexchange.com/questions/172149/is-the-4-corners-monument-wrong-or-is-google-maps-wrong)
-- [Epic Fights in Science](http://backreaction.blogspot.com/2022/02/epic-fights-in-science.html)
-- [Expanded CRPG Book Released – MUDs, BBS, MMOs and East Asian RPGs Added](https://crpgbook.wordpress.com/2022/02/07/update-29-the-expanded-edition-is-released/)
-- [Why Does Alcohol Mess with My Sleep?](https://www.nytimes.com/2022/01/25/well/mind/alcohol-drinking-sleep.html)
-- [Let Your Kids Be Bad at Things](https://www.theatlantic.com/family/archive/2022/02/foreverland-excerpt-heather-havrilesky-i-nearly-ruined-my-daughters-talent-show/621506/)
+- [Why the West’s Diplomacy with Russia Keeps Failing](https://www.theatlantic.com/ideas/archive/2022/02/lavrov-russia-diplomacy-ukraine/622075/)
+- [Philosophy is the theory of the nonsense of life](https://wittgenstein.app/OjFZKLU70qGTFA1dRMxk)
+- [Cybercriminals Tampering with QR Codes to Steal Victim Funds](https://www.ic3.gov/Media/Y2022/PSA220118)
+- [Ask HN: Does anyone use the next link on comments?](https://news.ycombinator.com/item?id=30327728)
+- [HMRC seizes NFT for first time in £1.4m fraud case](https://www.bbc.com/news/business-60369879)
+- [A Profile in Corruption: The Double Life of Donald Manes &lpar;1987&rpar;](https://www.villagevoice.com/2020/08/17/a-profile-in-corruption-the-double-life-of-donald-manes/)
+- [You &lpar;probably&rpar; won’t finish reading this story](https://www.vox.com/vox-conversations-podcast/2022/2/8/22910773/vox-conversations-johann-hari-stolen-focus)
+- [Engineers are building bridges with recycled wind turbine blades](https://www.theverge.com/2022/2/11/22929059/recycled-wind-turbine-blade-bridges-world-first)
+- [Authoritarian Science and the Case of Hydroxychloroquine](https://www.city-journal.org/hydroxychloroquine-and-authoritarian-science)
+- [Ask HN: What do you believe is the future of web frameworks?](https://news.ycombinator.com/item?id=30327623)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

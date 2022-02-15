@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Feb. 14, 2022 – Critical vulnerabilities in Adobe Commerce and Magento, Microsoft ups Windows security and bugs found in Moxa MXview](https://www.itworldcanada.com/article/cyber-security-today-feb-14-2022-critical-vulnerabilities-in-adobe-commerce-and-magento-microsoft-ups-windows-security-and-bugs-found-in-moxa-mxview/473182)
+- [Hashtag Trending Feb 14 – IBM age discrimination; U.S EV charging stations; Apple raises pay for retail employees](https://www.itworldcanada.com/article/hashtag-trending-feb-14-ibm-age-discrimination-u-s-ev-charging-stations-apple-raises-pay-for-retail-employees/473185)
 - [Digital home service providers should not be complacent after business boom](https://www.itworldcanada.com/article/digital-home-service-providers-should-not-be-complacent-after-business-boom/473033)
 - [Rogers Business introduces new IoT solutions for smart buildings and smart cities](https://www.itworldcanada.com/article/rogers-business-introduces-new-iot-solutions-for-smart-buildings-and-smart-cities/473144)
 - [Cyber Security Today, Week in Review for February 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-11-2022/473009)
 - [Research reveals gap between what business leaders say is good for business and their actions](https://www.itworldcanada.com/article/research-reveals-gap-between-what-business-leaders-say-is-good-for-business-and-their-actions/473118)
 - [Tenzr Health launching wearable technology in Ontario physiotherapy clinics](https://www.itworldcanada.com/article/tenzr-health-launching-wearable-technology-in-ontario-physiotherapy-clinics/472967)
-- [Russian-backed cyber attacks on West could start next week: Canadian expert](https://www.itworldcanada.com/article/russian-backed-cyber-attacks-on-west-could-start-next-week-canadian-expert/473065)
+- [Russian-backed cyber attacks on West could start this week: Canadian expert](https://www.itworldcanada.com/article/russian-backed-cyber-attacks-on-west-could-start-next-week-canadian-expert/473065)
 - [Contamination incident affects ‘at least 6.5 exabytes’ of SSD memory chips](https://www.itworldcanada.com/article/contamination-incident-affects-at-least-6-5-exabytes-of-ssd-memory-chips/473080)
 - [Critical security updates for SAP, Siemens, Schneider Electric and a WordPress plugin](https://www.itworldcanada.com/article/critical-security-updates-for-sap-siemens-schneider-electric-and-a-wordpress-plugin/473061)
-- [The new BlackBerry phone is dead after all](https://www.itworldcanada.com/article/the-new-blackberry-phone-is-dead-after-all/473067)
-- [Cyber Security Today, Feb. 11, 2022 – Marketing firm leaves a huge database open, why former employees can be a security risk and more](https://www.itworldcanada.com/article/cyber-security-today-feb-11-2022-marketing-firm-leaves-a-huge-database-open-why-former-employees-can-be-a-security-risk-and-more/473036)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

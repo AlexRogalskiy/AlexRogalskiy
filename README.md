@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A Computer Weekly buyer’s guide to hybrid cloud storage](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-hybrid-cloud-storage)
+- [Evolving a data integration strategy](https://www.computerweekly.com/feature/Evolving-a-data-integration-strategy)
 - [Finance Bill Sub-Committee blames IR35 for ‘concerning’ rise in umbrella company contractors](https://www.computerweekly.com/news/252513311/Finance-Bill-Sub-Committee-blames-IR35-for-concerning-rise-in-umbrella-company-contractors)
 - [CMA secures final Privacy Sandbox guarantees from Google](https://www.computerweekly.com/news/252513300/CMA-secures-final-Privacy-Sandbox-guarantees-from-Google)
 - [NetApp provides data infrastructure for EMBL](https://www.computerweekly.com/news/252513293/NetApp-provides-data-infrastructure-for-EMBL)
@@ -407,8 +409,6 @@
 - [Lords to scrutinise UK plans to become a science and tech ‘superpower’](https://www.computerweekly.com/news/252513272/Lords-to-scrutinise-UK-plans-to-become-a-science-and-tech-superpower)
 - [Hackney Council could be forced to answer questions about IT security training after Psya ransomware](https://www.computerweekly.com/news/252513258/Hackney-Council-could-be-forced-to-answer-questions-about-IT-security-training-after-Psya-ransomware)
 - [UK government starts search for new chief digital officer](https://www.computerweekly.com/news/252513253/UK-government-starts-search-for-new-chief-digital-officer)
-- [IR35 reforms: HMRC slammed for ‘over-collecting tax’ from non-compliant public sector bodies](https://www.computerweekly.com/news/252513255/IR35-reforms-HMRC-slammed-for-over-collecting-tax-from-non-compliant-public-sector-bodies)
-- [How diplomatic immunity silenced the prosecutor who coordinated Sweden’s EncroChat probe](https://www.computerweekly.com/news/252513203/How-diplomatic-immunity-silenced-the-prosecutor-who-coordinated-Swedens-EncroChat-probe)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

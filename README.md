@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why the West’s Diplomacy with Russia Keeps Failing](https://www.theatlantic.com/ideas/archive/2022/02/lavrov-russia-diplomacy-ukraine/622075/)
-- [Philosophy is the theory of the nonsense of life](https://wittgenstein.app/OjFZKLU70qGTFA1dRMxk)
-- [Cybercriminals Tampering with QR Codes to Steal Victim Funds](https://www.ic3.gov/Media/Y2022/PSA220118)
-- [Ask HN: Does anyone use the next link on comments?](https://news.ycombinator.com/item?id=30327728)
-- [HMRC seizes NFT for first time in £1.4m fraud case](https://www.bbc.com/news/business-60369879)
-- [A Profile in Corruption: The Double Life of Donald Manes &lpar;1987&rpar;](https://www.villagevoice.com/2020/08/17/a-profile-in-corruption-the-double-life-of-donald-manes/)
-- [You &lpar;probably&rpar; won’t finish reading this story](https://www.vox.com/vox-conversations-podcast/2022/2/8/22910773/vox-conversations-johann-hari-stolen-focus)
-- [Engineers are building bridges with recycled wind turbine blades](https://www.theverge.com/2022/2/11/22929059/recycled-wind-turbine-blade-bridges-world-first)
-- [Authoritarian Science and the Case of Hydroxychloroquine](https://www.city-journal.org/hydroxychloroquine-and-authoritarian-science)
-- [Ask HN: What do you believe is the future of web frameworks?](https://news.ycombinator.com/item?id=30327623)
+- [The true cost of empty offices](https://www.economist.com/finance-and-economics/the-true-cost-of-empty-offices/21807703)
+- [Three.js – JavaScript 3D Library](https://threejs.org/)
+- [Ask HN: Where can I find quality, written explanations of Calculus concepts?](https://news.ycombinator.com/item?id=30341834)
+- [Magic words always solve Wordle: chump, drift, globe, snaky, later](https://github.com/alexandres/5magicwords)
+- [Ask HN: Good Resources to Learn and Implement a Parser &lpar;Compiler&rpar;](https://news.ycombinator.com/item?id=30341823)
+- [Intel nears $6 bln deal to buy Tower Semiconductor](https://www.reuters.com/technology/intel-nearing-6-bln-deal-buy-tower-semiconductor-wsj-2022-02-14/)
+- [Rust people: how would you personally go about parsing this string](https://github.com/gamozolabs/whylol)
+- [The Auditor Grindset: A crash course on crypto hacking while keeping your sanity](https://blog.zellic.io/2022/02/11/auditor-grindset/)
+- [The CCLA denounces invocation of Emergencies Act](https://twitter.com/cancivlib/status/1493383579983917057)
+- [Investigators to explore Nike&#39;s racial discrimination against Russians](https://ruposters.ru/news/14-02-2022/proverit-izza-otsutstviya-belih-modelei)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

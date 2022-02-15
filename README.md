@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The Metaverse: How to Get Your Organization Ready](https://www.informationweek.com/cloud/the-metaverse-how-to-get-your-organization-ready)
+- [The Long Road to Quantum: Are We There Yet?](https://www.informationweek.com/cloud/the-long-road-to-quantum-are-we-there-yet-)
+- [6 Barriers to Moving and Managing Legacy Data to the Cloud](https://www.informationweek.com/cloud/6-barriers-to-moving-and-managing-legacy-data-to-the-cloud)
 - [Future for Careers in Automation Looking Bright](https://www.informationweek.com/ai-or-machine-learning/future-for-careers-in-automation-looking-bright)
 - [Remote &amp; Hybrid Work and the Shift from Speaking to Scribing](https://www.informationweek.com/it-life/remote-hybrid-work-and-the-shift-from-speaking-to-scribing)
 - [Where Developers Fit in the Metaverse and Crypto Landscape](https://www.informationweek.com/devops/where-developers-fit-in-the-metaverse-and-crypto-landscape)
@@ -376,9 +379,6 @@
 - [Data Science: A Guide to Careers and Team Building](https://www.informationweek.com/ai-or-machine-learning/data-science-a-guide-to-careers-and-team-building)
 - [How Tech Turned an Emerging Generation of Sports Fans Into Bettors](https://www.informationweek.com/cloud/how-tech-turned-an-emerging-generation-of-sports-fans-into-bettors)
 - [The Unforeseen Consequences of the Cloud Boom](https://www.informationweek.com/cloud/the-unforeseen-consequences-of-the-cloud-boom)
-- [8 Ways to Build Stronger Vendor Partnerships](https://www.informationweek.com/strategic-cio/8-ways-to-build-stronger-vendor-partnerships)
-- [3 Goals for a Strong Security Foundation](https://www.informationweek.com/security-and-risk-strategy/3-goals-for-a-strong-security-foundation)
-- [8 Security Dinosaurs and What Filled Their Footprints](https://www.informationweek.com/it-life/8-security-dinosaurs-and-what-filled-their-footprints)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

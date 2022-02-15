@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft edges back to ‘normal’ with workplace re-opening plan](https://www.computerworld.com/article/3650037/microsoft-edges-back-to-normal-with-workplace-re-opening-plan.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [The Windows 11 feedback loop — what do users want most?](https://www.computerworld.com/article/3649715/the-windows-11-feedback-loop-what-do-users-want-most.html#tk.rss_all)
+- [Will Apple VR glasses be good for the enterprise?](https://www.computerworld.com/article/3649712/will-apple-vr-glasses-be-good-for-the-enterprise.html#tk.rss_all)
+- [Jamf and more: Apple MDM tools for smaller businesses](https://www.computerworld.com/article/3648594/jamf-and-more-apple-mdm-tools-for-smaller-businesses.html#tk.rss_all)
 - [Pixel power! 42 advanced Assistant actions for any Pixel phone](https://www.computerworld.com/article/3649001/pixel-phone-assistant.html#tk.rss_all)
 - [Twitter complaint-tracking bot reveals most griped about tech products](https://www.computerworld.com/article/3649992/twitter-complaint-tracking-bot-reveals-most-griped-about-tech-products.html#tk.rss_all)
 - [Take your time testing these February Patch Tuesday updates](https://www.computerworld.com/article/3650013/take-your-time-testing-these-february-patch-tuesday-updates.html#tk.rss_all)
 - [A multiverse of metaverses: an emerging productivity powerhouse?](https://www.computerworld.com/article/3650012/a-multiverse-of-metaverses-an-emerging-productivity-powerhouse.html#tk.rss_all)
 - [Using choice to keep and retain talent amid the &#39;Great Resignation&#39;](https://www.computerworld.com/article/3649793/using-choice-to-keep-and-retain-talent-amid-the-great-resignation.html#tk.rss_all)
-- [Web accessibility is good for your soul—and for business](https://www.computerworld.com/article/3649989/web-accessibility-is-good-for-your-soul-and-for-business.html#tk.rss_all)
-- [Is Camo an essential app for remote workers with an iPhone?](https://www.computerworld.com/article/3649750/is-camo-an-essential-app-for-remote-workers-with-an-iphone.html#tk.rss_all)
-- [It’s time to pay attention to pay](https://www.computerworld.com/article/3649728/it-s-time-to-pay-attention-to-pay.html#tk.rss_all)
-- [Apple wants to know why you hate Safari](https://www.computerworld.com/article/3649769/apple-wants-to-know-why-you-hate-safari.html#tk.rss_all)
-- [For Apple Car, a Chargepoint buy makes more sense than Peloton](https://www.computerworld.com/article/3649099/for-apple-car-a-chargepoint-buy-makes-more-sense-than-peloton.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

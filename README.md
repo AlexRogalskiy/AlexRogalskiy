@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Future of 12ft Ladder](https://12ft.io/the-future)
-- [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
-- [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
-- [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
-- [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
-- [Learning rust with entirely too many linked lists &lpar;2019&rpar;](https://rust-unofficial.github.io/too-many-lists/index.html)
-- [Surveillance too cheap to meter](https://queue.acm.org/detail.cfm?id=3511661)
-- [CFIREsim 3.0 – Retirement Simulator](https://www.cfiresim.com)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Ronja: Reasonable Optical Near Joint Access](http://ronja.twibright.com/about.php)
+- [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
+- [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
+- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
+- [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
+- [JDeploy – Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://www.jdeploy.com)
+- [Why do we round corners?](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed)
+- [Trudeau Invokes Emergencies Act](https://ottawacitizen.com/news/local-news/truck-convoy-day-18-in-ottawa-noon-deadline-in-mayors-deal-with-convoy-pm-talking-to-premiers)
+- [Ask HN: How to prepare as soon-to-be blind developer?](https://news.ycombinator.com/item?id=30339187)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Structurally-Typed Condition Handling](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the difference between internet and World Wide Web?](https://www.reddit.com/r/InformationTechnology/comments/st8yr6/what_is_the_difference_between_internet_and_world/)
+- [Traveling Jobs?](https://www.reddit.com/r/InformationTechnology/comments/st8jcu/traveling_jobs/)
+- [Stick with Windows Sccm\AD\GPO or make a move learning ServiceNow](https://www.reddit.com/r/InformationTechnology/comments/st4721/stick_with_windows_sccmadgpo_or_make_a_move/)
+- [Whats the best laptop for IT?](https://www.reddit.com/r/InformationTechnology/comments/st30g7/whats_the_best_laptop_for_it/)
 - [Do Our Companies Know What Time We Log Onto our Computer in the AM?](https://www.reddit.com/r/InformationTechnology/comments/sspcbv/do_our_companies_know_what_time_we_log_onto_our/)
 - [Best route for Getting into Cloud.](https://www.reddit.com/r/InformationTechnology/comments/ssnfo2/best_route_for_getting_into_cloud/)
 - [Any decent training material for Active Directory?](https://www.reddit.com/r/InformationTechnology/comments/sskdc2/any_decent_training_material_for_active_directory/)
 - [How do you study in IT? How do you learn quickly in IT? There is too many terms and a lot of memorization.](https://www.reddit.com/r/InformationTechnology/comments/ssje8r/how_do_you_study_in_it_how_do_you_learn_quickly/)
 - [Which is better MAC or Windows?](https://www.reddit.com/r/InformationTechnology/comments/ssd19f/which_is_better_mac_or_windows/)
 - [32 bit architecture vs 64 bit architecture for CPU](https://www.reddit.com/r/InformationTechnology/comments/ssckgf/32_bit_architecture_vs_64_bit_architecture_for_cpu/)
-- [Need help to start IT career.](https://www.reddit.com/r/InformationTechnology/comments/ss8f75/need_help_to_start_it_career/)
-- [RAM vs ROM vs Cache Vs Register vs Hard drive](https://www.reddit.com/r/InformationTechnology/comments/sr7uz1/ram_vs_rom_vs_cache_vs_register_vs_hard_drive/)
-- [What is the current character encoding that used in today&#39;s computers &lpar;laptops, phones, Apple watches, etc&rpar;? Is it UTF-8 or something more advance than UTF-8?](https://www.reddit.com/r/InformationTechnology/comments/sr3q8f/what_is_the_current_character_encoding_that_used/)
-- [We know the highest decimal value we can represent with a byte is 255. How does the computer consider the values larger than 255?](https://www.reddit.com/r/InformationTechnology/comments/sr35r4/we_know_the_highest_decimal_value_we_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

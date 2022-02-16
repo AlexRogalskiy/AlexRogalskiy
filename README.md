@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IT Teams Must be Ready to Embrace the Unexpected](https://www.informationweek.com/strategic-cio/it-teams-must-be-ready-to-embrace-the-unexpected)
+- [7 IT Infrastructure Skills in High Demand](https://www.informationweek.com/cloud/7-it-infrastructure-skills-in-high-demand)
+- [Neurodiversity Hiring Will be a Competitive Advantage](https://www.informationweek.com/team-building-and-staffing/neurodiversity-hiring-will-be-a-competitive-advantage)
+- [An 8-Step Plan to Updating Your Network Disaster Recovery Plan](https://www.informationweek.com/it-life/an-8-step-plan-to-updating-your-network-disaster-recovery-plan)
 - [The Metaverse: How to Get Your Organization Ready](https://www.informationweek.com/cloud/the-metaverse-how-to-get-your-organization-ready)
 - [The Long Road to Quantum: Are We There Yet?](https://www.informationweek.com/cloud/the-long-road-to-quantum-are-we-there-yet-)
 - [6 Barriers to Moving and Managing Legacy Data to the Cloud](https://www.informationweek.com/cloud/6-barriers-to-moving-and-managing-legacy-data-to-the-cloud)
 - [Future for Careers in Automation Looking Bright](https://www.informationweek.com/ai-or-machine-learning/future-for-careers-in-automation-looking-bright)
 - [Remote &amp; Hybrid Work and the Shift from Speaking to Scribing](https://www.informationweek.com/it-life/remote-hybrid-work-and-the-shift-from-speaking-to-scribing)
 - [Where Developers Fit in the Metaverse and Crypto Landscape](https://www.informationweek.com/devops/where-developers-fit-in-the-metaverse-and-crypto-landscape)
-- [Beyond the Data Warehouse: What Are the Repository Options Today?](https://www.informationweek.com/big-data/beyond-the-data-warehouse-what-are-the-repository-options-today-)
-- [Data Science: A Guide to Careers and Team Building](https://www.informationweek.com/ai-or-machine-learning/data-science-a-guide-to-careers-and-team-building)
-- [How Tech Turned an Emerging Generation of Sports Fans Into Bettors](https://www.informationweek.com/cloud/how-tech-turned-an-emerging-generation-of-sports-fans-into-bettors)
-- [The Unforeseen Consequences of the Cloud Boom](https://www.informationweek.com/cloud/the-unforeseen-consequences-of-the-cloud-boom)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

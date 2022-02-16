@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [The Citrix deal and what it means for Tibco](https://www.computerweekly.com/news/252513438/The-Citrix-deal-and-what-it-means-for-Tibco)
+- [Botched third-party configuration exposes Internet Society data to web](https://www.computerweekly.com/news/252513427/Botched-third-party-configuration-exposes-Internet-Society-data-to-web)
+- [Parasol data breach: Frustrated IT contractors dig into the dark web in search of their data](https://www.computerweekly.com/news/252513433/Parasol-data-breach-Frustrated-IT-contractors-dig-into-the-dark-web-in-search-of-their-data)
+- [Nebulon gets Ansible collection for datacentre deployment](https://www.computerweekly.com/news/252513426/Nebulon-gets-Ansible-collection-for-datacentre-deployment)
+- [TA2451 targets aviation and transport sector with tailored lures](https://www.computerweekly.com/news/252513382/TA2451-targets-aviation-and-transport-sector-with-tailored-lures)
+- [China emerges as leader in vulnerability exploitation](https://www.computerweekly.com/news/252513372/China-emerges-as-leader-in-vulnerability-exploitation)
 - [A Computer Weekly buyer’s guide to hybrid cloud storage](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-hybrid-cloud-storage)
+- [On a mission to track space junk](https://www.computerweekly.com/ezine/Computer-Weekly/On-a-mission-to-track-space-junk)
 - [Evolving a data integration strategy](https://www.computerweekly.com/feature/Evolving-a-data-integration-strategy)
 - [Finance Bill Sub-Committee blames IR35 for ‘concerning’ rise in umbrella company contractors](https://www.computerweekly.com/news/252513311/Finance-Bill-Sub-Committee-blames-IR35-for-concerning-rise-in-umbrella-company-contractors)
-- [CMA secures final Privacy Sandbox guarantees from Google](https://www.computerweekly.com/news/252513300/CMA-secures-final-Privacy-Sandbox-guarantees-from-Google)
-- [NetApp provides data infrastructure for EMBL](https://www.computerweekly.com/news/252513293/NetApp-provides-data-infrastructure-for-EMBL)
-- [UK government publishes plans to improve health and social care integration](https://www.computerweekly.com/news/252513292/UK-government-publishes-plans-to-improve-health-and-social-care-integration)
-- [Why security professionals should pay attention to what Russia is doing](https://www.computerweekly.com/news/252513285/Why-security-pros-should-pay-attention-to-what-Russia-is-doing)
-- [Lords to scrutinise UK plans to become a science and tech ‘superpower’](https://www.computerweekly.com/news/252513272/Lords-to-scrutinise-UK-plans-to-become-a-science-and-tech-superpower)
-- [Hackney Council could be forced to answer questions about IT security training after Psya ransomware](https://www.computerweekly.com/news/252513258/Hackney-Council-could-be-forced-to-answer-questions-about-IT-security-training-after-Psya-ransomware)
-- [UK government starts search for new chief digital officer](https://www.computerweekly.com/news/252513253/UK-government-starts-search-for-new-chief-digital-officer)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

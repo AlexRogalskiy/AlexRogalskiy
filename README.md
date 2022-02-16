@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Winter Olympics day 11: freestyle skiing, snowboard and women’s downhill – live!](https://www.theguardian.com/sport/live/2022/feb/15/winter-olympics-day-11-freestyle-skiing-snowboard-and-womens-downhill-live)
-- [New Hampshire students launched a boat in 2020. It was just found in Norway](https://www.theguardian.com/us-news/2022/feb/14/new-hampshire-students-boat-norway)
-- [‘Noise radar’ in Paris will catch raucous cars and motorbikes](https://www.theguardian.com/world/2022/feb/15/noise-radar-in-paris-will-catch-raucous-cars-and-motorbikes)
-- [The World of Stonehenge review – even the stone axes astound](https://www.theguardian.com/culture/2022/feb/15/the-world-of-stonehenge-review-british-museum)
-- [Twenty minutes of daily exercise may cut heart disease risk in over-70s](https://www.theguardian.com/society/2022/feb/14/daily-exercise-20-minutes-may-cut-heart-disease-risk-in-over-70s)
-- [Boris Johnson expected to deny wrongdoing over No 10 parties](https://www.theguardian.com/politics/2022/feb/14/boris-johnson-expected-to-deny-wrongdoing-over-no-10-parties)
-- [Rangnick turns to sports psychologist to end Manchester United’s drawing habit](https://www.theguardian.com/football/2022/feb/14/rangnick-turns-to-sports-psychologist-to-end-manchester-uniteds-drawing-habit)
-- [Labour vows to reverse decline in UK manufacturing](https://www.theguardian.com/politics/2022/feb/14/labour-vows-to-reverse-decline-in-uk-manufacturing)
-- [Coach brings its American heritage aesthetic to New York Fashion Week](https://www.theguardian.com/fashion/2022/feb/14/coach-brings-its-american-heritage-aesthetic-to-new-york-fashion-week)
-- [Congressman echoes Trump’s claim that Clinton aides deserved to die](https://www.theguardian.com/us-news/2022/feb/14/us-congressman-jim-jordan-echoes-trump-clinton-aides-executed)
+- [‘His final disgrace’: how the papers covered Prince Andrew’s sexual abuse case settlement](https://www.theguardian.com/uk-news/2022/feb/16/his-final-disgrace-papers-prince-andrew-case-settlement)
+- [Less than 10% of patients intolerant to statins, study finds](https://www.theguardian.com/society/2022/feb/16/less-than-10-percent-of-patients-intolerant-to-statins-study-finds)
+- [Electric car charging points ‘spread too unequally across UK’](https://www.theguardian.com/environment/2022/feb/16/electric-car-charging-points-spread-too-unequally-across-uk)
+- [Disabled children should exercise for 20 minutes a day, first UK guidelines say](https://www.theguardian.com/society/2022/feb/16/disabled-children-should-exercise-for-20-minutes-a-day-first-uk-guidelines-say)
+- [UK museum in urgent appeal for funds to finish repairs on 17th-century naval tapestry](https://www.theguardian.com/culture/2022/feb/16/uk-museum-urgent-appeal-funds-repairs-17th-century-naval-tapestry)
+- [‘We can do better,’ says Guardiola after Manchester City dismantle Sporting](https://www.theguardian.com/football/2022/feb/15/pep-guardiola-manchester-city-sporting-lisbon-champions-league)
+- [Ruthless Manchester City toy with Sporting to ruin home side’s big night | Jonathan Liew](https://www.theguardian.com/football/blog/2022/feb/15/ruthless-manchester-city-toy-with-sporting-to-ruin-home-sides-big-night)
+- [Devil’s Advocate review – a mind-boggling tale of a real-life grifter](https://www.theguardian.com/tv-and-radio/2022/feb/15/devils-advocate-review-another-mind-boggling-tale-of-a-real-life-grifter-giovanni-di-stefano)
+- [New Zealand bans conversion practices in vote hailed as ‘win for humanity’](https://www.theguardian.com/world/2022/feb/16/new-zealand-bans-conversion-practices-in-vote-hailed-as-win-for-humanity)
+- [Patient who died at UK hospital from Lassa fever was newborn baby – reports](https://www.theguardian.com/society/2022/feb/15/newborn-baby-dies-from-lassa-fever-in-luton-hospital)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

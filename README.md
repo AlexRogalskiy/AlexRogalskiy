@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The true cost of empty offices](https://www.economist.com/finance-and-economics/the-true-cost-of-empty-offices/21807703)
-- [Three.js – JavaScript 3D Library](https://threejs.org/)
-- [Ask HN: Where can I find quality, written explanations of Calculus concepts?](https://news.ycombinator.com/item?id=30341834)
-- [Magic words always solve Wordle: chump, drift, globe, snaky, later](https://github.com/alexandres/5magicwords)
-- [Ask HN: Good Resources to Learn and Implement a Parser &lpar;Compiler&rpar;](https://news.ycombinator.com/item?id=30341823)
-- [Intel nears $6 bln deal to buy Tower Semiconductor](https://www.reuters.com/technology/intel-nearing-6-bln-deal-buy-tower-semiconductor-wsj-2022-02-14/)
-- [Rust people: how would you personally go about parsing this string](https://github.com/gamozolabs/whylol)
-- [The Auditor Grindset: A crash course on crypto hacking while keeping your sanity](https://blog.zellic.io/2022/02/11/auditor-grindset/)
-- [The CCLA denounces invocation of Emergencies Act](https://twitter.com/cancivlib/status/1493383579983917057)
-- [Investigators to explore Nike&#39;s racial discrimination against Russians](https://ruposters.ru/news/14-02-2022/proverit-izza-otsutstviya-belih-modelei)
+- [I used to think Chinese phones had too much bloatware – until I used an iPhone](https://www.techradar.com/news/i-used-to-think-chinese-phones-had-too-much-bloatware-until-i-used-an-iphone)
+- [The unstated scandal: The CIA collected info on President Trump](https://technofog.substack.com/p/the-unstated-scandal-the-cia-collected)
+- [Rockbox – free replacement firmware for digital music players](https://www.rockbox.org/)
+- [&quot;Live in the future&quot;: Zuckerberg unveils overhaul amid shift to metaverse](https://www.theguardian.com/technology/2022/feb/15/meta-mark-zuckerberg-facebook-metaverse)
+- [Multimodal Conditional Image Synthesis with Product-of-Experts GANs](https://deepimagination.cc/PoE-GAN/)
+- [Intel expands in specialty chipmaking with $5.4B deal for Israel&#39;s Tower](https://www.reuters.com/technology/israels-tower-semi-shares-halted-amid-talk-firm-be-sold-intel-2022-02-15/)
+- [What if Russia and the West are working together?](https://news.ycombinator.com/item?id=30355557)
+- [List of Interface Bit Rates](https://en.wikipedia.org/wiki/List_of_interface_bit_rates)
+- [How the CDC Abandoned Science](https://www.tabletmag.com/sections/science/articles/how-the-cdc-abandoned-science)
+- [The Remdesivir Riddle](https://doyourownresearch.substack.com/p/the-remdesivir-riddle)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

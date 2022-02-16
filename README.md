@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
-- [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
-- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
-- [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
-- [JDeploy – Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://www.jdeploy.com)
-- [Why do we round corners?](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed)
-- [Trudeau Invokes Emergencies Act](https://ottawacitizen.com/news/local-news/truck-convoy-day-18-in-ottawa-noon-deadline-in-mayors-deal-with-convoy-pm-talking-to-premiers)
-- [Ask HN: How to prepare as soon-to-be blind developer?](https://news.ycombinator.com/item?id=30339187)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Structurally-Typed Condition Handling](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling)
+- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
+- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [The Seductions of Clarity](https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity)
+- [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
+- [What Every Programmer Should Know About Memory &lpar;2007&rpar; [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
+- [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/)
+- [Software defined USB port &lpar;Raspberry Pi pico RP2040&rpar;](https://github.com/sekigon-gonnoc/Pico-PIO-USB)
+- [Free public domain ebooks in PDf, ePub, mobi formats](https://www.globalgreyebooks.com/index.html)
+- [Citizen sleuths exposed pollution from a century-old Michigan factory &lpar;2019&rpar;](https://www.science.org/content/article/citizen-sleuths-exposed-pollution-century-old-michigan-factory-nationwide-implications)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

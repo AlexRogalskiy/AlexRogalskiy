@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
+- [Microsoft .NET 7 Preview 1 coming this week](https://www.infoworld.com/article/3649797/microsoft-net-7-preview-1-coming-this-week.html#tk.rss_all)
+- [Embedded intelligence: concepts versus buzzwords](https://www.infoworld.com/article/3649796/embedded-intelligence-concepts-versus-buzzwords.html#tk.rss_all)
+- [Overcoming the IoT interoperability hurdle](https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html#tk.rss_all)
 - [Node.js trademarks move to OpenJS Foundation](https://www.infoworld.com/article/3649993/nodejs-trademarks-move-to-openjs-foundation.html#tk.rss_all)
 - [Think you can out-cloud the cloud?](https://www.infoworld.com/article/3650033/think-you-can-out-cloud-the-cloud.html#tk.rss_all)
 - [How to manage software developers without micromanaging](https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html#tk.rss_all)
 - [12 ways to slash your cloud costs](https://www.infoworld.com/article/3648050/12-ways-to-slash-your-cloud-costs.html#tk.rss_all)
 - [Microsoft ends support for older Visual Studio versions](https://www.infoworld.com/article/3650031/microsoft-ends-support-for-older-visual-studio-versions.html#tk.rss_all)
 - [Ballerina revamps RESTful services support](https://www.infoworld.com/article/3650010/ballerina-revamps-restful-services-support.html#tk.rss_all)
-- [Edge computing vs. cloud computing? Nope!](https://www.infoworld.com/article/3649988/edge-computing-vs-cloud-computing-nope.html#tk.rss_all)
-- [What is OLAP? Analytical databases](https://www.infoworld.com/article/3649211/what-is-olap-analytical-databases.html#tk.rss_all)
-- [CNCF survey: Managed Kubernetes becomes the norm](https://www.infoworld.com/article/3649710/cncf-survey-managed-kubernetes-becomes-the-norm.html#tk.rss_all)
-- [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

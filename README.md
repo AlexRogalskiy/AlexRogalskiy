@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is BIOs in simple words?](https://www.reddit.com/r/InformationTechnology/comments/sucipb/what_is_bios_in_simple_words/)
+- [What do I learn next?](https://www.reddit.com/r/InformationTechnology/comments/suc709/what_do_i_learn_next/)
+- [CVSS for Known Exploited Vulnerabilities Catalog](https://www.reddit.com/r/InformationTechnology/comments/suag7s/cvss_for_known_exploited_vulnerabilities_catalog/)
+- [Maximizing an opportunity I have been given](https://www.reddit.com/r/InformationTechnology/comments/sua4ae/maximizing_an_opportunity_i_have_been_given/)
+- [Screenshot shows text way too blurry](https://www.reddit.com/r/InformationTechnology/comments/su74j8/screenshot_shows_text_way_too_blurry/)
+- [What IT podcasts and IT YouTube channels do you recommend?](https://www.reddit.com/r/InformationTechnology/comments/su0ufm/what_it_podcasts_and_it_youtube_channels_do_you/)
+- [How do you get directly to the root cause of a technical issue?](https://www.reddit.com/r/InformationTechnology/comments/su04ka/how_do_you_get_directly_to_the_root_cause_of_a/)
+- [CopyProfile in unattend.xml](https://www.reddit.com/r/InformationTechnology/comments/stxbpt/copyprofile_in_unattendxml/)
 - [What is the difference between internet and World Wide Web?](https://www.reddit.com/r/InformationTechnology/comments/st8yr6/what_is_the_difference_between_internet_and_world/)
 - [Traveling Jobs?](https://www.reddit.com/r/InformationTechnology/comments/st8jcu/traveling_jobs/)
-- [Stick with Windows Sccm\AD\GPO or make a move learning ServiceNow](https://www.reddit.com/r/InformationTechnology/comments/st4721/stick_with_windows_sccmadgpo_or_make_a_move/)
-- [Whats the best laptop for IT?](https://www.reddit.com/r/InformationTechnology/comments/st30g7/whats_the_best_laptop_for_it/)
-- [Do Our Companies Know What Time We Log Onto our Computer in the AM?](https://www.reddit.com/r/InformationTechnology/comments/sspcbv/do_our_companies_know_what_time_we_log_onto_our/)
-- [Best route for Getting into Cloud.](https://www.reddit.com/r/InformationTechnology/comments/ssnfo2/best_route_for_getting_into_cloud/)
-- [Any decent training material for Active Directory?](https://www.reddit.com/r/InformationTechnology/comments/sskdc2/any_decent_training_material_for_active_directory/)
-- [How do you study in IT? How do you learn quickly in IT? There is too many terms and a lot of memorization.](https://www.reddit.com/r/InformationTechnology/comments/ssje8r/how_do_you_study_in_it_how_do_you_learn_quickly/)
-- [Which is better MAC or Windows?](https://www.reddit.com/r/InformationTechnology/comments/ssd19f/which_is_better_mac_or_windows/)
-- [32 bit architecture vs 64 bit architecture for CPU](https://www.reddit.com/r/InformationTechnology/comments/ssckgf/32_bit_architecture_vs_64_bit_architecture_for_cpu/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

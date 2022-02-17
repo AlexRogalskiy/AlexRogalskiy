@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘His final disgrace’: how the papers covered Prince Andrew’s sexual abuse case settlement](https://www.theguardian.com/uk-news/2022/feb/16/his-final-disgrace-papers-prince-andrew-case-settlement)
-- [Less than 10% of patients intolerant to statins, study finds](https://www.theguardian.com/society/2022/feb/16/less-than-10-percent-of-patients-intolerant-to-statins-study-finds)
-- [Electric car charging points ‘spread too unequally across UK’](https://www.theguardian.com/environment/2022/feb/16/electric-car-charging-points-spread-too-unequally-across-uk)
-- [Disabled children should exercise for 20 minutes a day, first UK guidelines say](https://www.theguardian.com/society/2022/feb/16/disabled-children-should-exercise-for-20-minutes-a-day-first-uk-guidelines-say)
-- [UK museum in urgent appeal for funds to finish repairs on 17th-century naval tapestry](https://www.theguardian.com/culture/2022/feb/16/uk-museum-urgent-appeal-funds-repairs-17th-century-naval-tapestry)
-- [‘We can do better,’ says Guardiola after Manchester City dismantle Sporting](https://www.theguardian.com/football/2022/feb/15/pep-guardiola-manchester-city-sporting-lisbon-champions-league)
-- [Ruthless Manchester City toy with Sporting to ruin home side’s big night | Jonathan Liew](https://www.theguardian.com/football/blog/2022/feb/15/ruthless-manchester-city-toy-with-sporting-to-ruin-home-sides-big-night)
-- [Devil’s Advocate review – a mind-boggling tale of a real-life grifter](https://www.theguardian.com/tv-and-radio/2022/feb/15/devils-advocate-review-another-mind-boggling-tale-of-a-real-life-grifter-giovanni-di-stefano)
-- [New Zealand bans conversion practices in vote hailed as ‘win for humanity’](https://www.theguardian.com/world/2022/feb/16/new-zealand-bans-conversion-practices-in-vote-hailed-as-win-for-humanity)
-- [Patient who died at UK hospital from Lassa fever was newborn baby – reports](https://www.theguardian.com/society/2022/feb/15/newborn-baby-dies-from-lassa-fever-in-luton-hospital)
+- [Ukraine crisis: Nato considering new battlegroups in eastern Europe after ‘no sign’ of Russian de-escalation – live](https://www.theguardian.com/world/live/2022/feb/16/ukraine-russia-latest-news-live-putin-biden-kyiv-russian-invasion-threat)
+- [Devastating floods and mudslides leave at least 94 dead in Brazil](https://www.theguardian.com/world/2022/feb/16/brazil-floods-mudslides-petropolis-rio-de-janeiro-state)
+- [Women apply in their thousands to drive trains in Saudi Arabia](https://www.theguardian.com/world/2022/feb/17/women-apply-in-their-thousands-to-drive-trains-in-saudi-arabia)
+- [Guidance on political impartiality in English classrooms ‘confusing’ say teachers’ unions](https://www.theguardian.com/education/2022/feb/17/guidance-on-political-impartiality-in-english-classrooms-confusing-say-teachers-unions)
+- [Falsely convicted postal workers must be ‘fully compensated’, says committee](https://www.theguardian.com/business/2022/feb/17/falsely-convicted-postal-workers-must-be-fully-compensated-says-committee)
+- [Rise in university applications from UK 18-year-olds, figures show](https://www.theguardian.com/education/2022/feb/17/rise-in-university-applications-from-uk-18-year-olds-figures-show)
+- [Heading football and head impacts ‘change blood patterns in brain’](https://www.theguardian.com/football/2022/feb/17/heading-football-and-head-impacts-change-blood-patterns-in-brain)
+- [World spends $1.8tn a year on subsidies that harm environment, study finds](https://www.theguardian.com/environment/2022/feb/17/world-spends-18tn-a-year-on-subsidies-that-harm-environment-study-finds-aoe)
+- [Germany and Switzerland set to ease restrictions – as it happened](https://www.theguardian.com/world/live/2022/feb/16/covid-news-live-south-korea-reports-record-number-of-cases-china-tells-hong-kong-to-stabilise-outbreak)
+- [Funding of Duke of York’s settlement to be raised in parliament](https://www.theguardian.com/uk-news/2022/feb/16/duke-of-yorks-sexual-abuse-case-settlement-to-be-raised-in-parliament)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

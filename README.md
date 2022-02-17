@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I used to think Chinese phones had too much bloatware – until I used an iPhone](https://www.techradar.com/news/i-used-to-think-chinese-phones-had-too-much-bloatware-until-i-used-an-iphone)
-- [The unstated scandal: The CIA collected info on President Trump](https://technofog.substack.com/p/the-unstated-scandal-the-cia-collected)
-- [Rockbox – free replacement firmware for digital music players](https://www.rockbox.org/)
-- [&quot;Live in the future&quot;: Zuckerberg unveils overhaul amid shift to metaverse](https://www.theguardian.com/technology/2022/feb/15/meta-mark-zuckerberg-facebook-metaverse)
-- [Multimodal Conditional Image Synthesis with Product-of-Experts GANs](https://deepimagination.cc/PoE-GAN/)
-- [Intel expands in specialty chipmaking with $5.4B deal for Israel&#39;s Tower](https://www.reuters.com/technology/israels-tower-semi-shares-halted-amid-talk-firm-be-sold-intel-2022-02-15/)
-- [What if Russia and the West are working together?](https://news.ycombinator.com/item?id=30355557)
-- [List of Interface Bit Rates](https://en.wikipedia.org/wiki/List_of_interface_bit_rates)
-- [How the CDC Abandoned Science](https://www.tabletmag.com/sections/science/articles/how-the-cdc-abandoned-science)
-- [The Remdesivir Riddle](https://doyourownresearch.substack.com/p/the-remdesivir-riddle)
+- [What Pundits Don’t Understand About the San Francisco Recall](https://www.motherjones.com/politics/2022/02/san-francisco-school-board-recall/)
+- [The Principia Discordia](https://www.cs.cmu.edu/~tilt/principia/body.html)
+- [Otter Browser aims to bring Chromium to OS/2](https://www.xda-developers.com/otter-browser-os2/)
+- [Valve is partnering with iFixit to sell Steam Deck replacement parts](https://www.pcgamer.com/valve-is-partnering-with-ifixit-to-sell-steam-deck-replacement-parts/)
+- [Where Mac Catalyst Falls Short](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
+- [Ask HN: Downsides of leaving startup after two weeks?](https://news.ycombinator.com/item?id=30368638)
+- [PfSense 2.6.0 Released](https://docs.netgate.com/pfsense/en/latest/releases/22-01_2-6-0.html)
+- [WebRTC: Journey to make Wayland screen sharing enabled by default](https://jgrulich.cz/2022/02/16/webrtc-journey-to-make-wayland-screen-sharing-enabled-by-default/)
+- [Need to Separate AWS from Amazon.com consumer account &lpar;2012&rpar;](https://forums.aws.amazon.com/thread.jspa?threadID=85882)
+- [Cargo Ship Full of Porsches and VWs Is on Fire and Adrift in The Atlantic](https://www.thedrive.com/news/44330/cargo-ship-full-of-porsches-and-vws-is-on-fire-and-adrift-in-the-atlantic)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

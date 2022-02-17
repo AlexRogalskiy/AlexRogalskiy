@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [5 useful features you won’t be seeing in Go](https://www.infoworld.com/article/3650015/5-useful-features-you-wont-be-seeing-in-go.html#tk.rss_all)
+- [Run PHP on .NET with PeachPie](https://www.infoworld.com/article/3649759/run-php-on-net-with-peachpie.html#tk.rss_all)
+- [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 - [Microsoft .NET 7 Preview 1 coming this week](https://www.infoworld.com/article/3649797/microsoft-net-7-preview-1-coming-this-week.html#tk.rss_all)
 - [Embedded intelligence: concepts versus buzzwords](https://www.infoworld.com/article/3649796/embedded-intelligence-concepts-versus-buzzwords.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Node.js trademarks move to OpenJS Foundation](https://www.infoworld.com/article/3649993/nodejs-trademarks-move-to-openjs-foundation.html#tk.rss_all)
 - [Think you can out-cloud the cloud?](https://www.infoworld.com/article/3650033/think-you-can-out-cloud-the-cloud.html#tk.rss_all)
 - [How to manage software developers without micromanaging](https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html#tk.rss_all)
-- [12 ways to slash your cloud costs](https://www.infoworld.com/article/3648050/12-ways-to-slash-your-cloud-costs.html#tk.rss_all)
-- [Microsoft ends support for older Visual Studio versions](https://www.infoworld.com/article/3650031/microsoft-ends-support-for-older-visual-studio-versions.html#tk.rss_all)
-- [Ballerina revamps RESTful services support](https://www.infoworld.com/article/3650010/ballerina-revamps-restful-services-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

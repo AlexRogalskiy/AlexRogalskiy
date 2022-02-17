@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Google updates Workspace’s ‘smart canvas,’ shutters Currents](https://www.computerworld.com/article/3650468/google-updates-workspaces-smart-canvas-shutters-currents.html#tk.rss_all)
+- [Why Apple spent billions to get to 5G — services](https://www.computerworld.com/article/3649800/why-apple-spent-billions-to-get-to-5g-services.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Asana launches Asana Flow to power intelligent work prioritization](https://www.computerworld.com/article/3649994/asana-launches-asana-flow-to-power-intelligent-work-prioritization.html#tk.rss_all)
 - [Meet Chrome OS Flex, Google&#39;s new weapon for desktop domination](https://www.computerworld.com/article/3649716/chrome-os-flex.html#tk.rss_all)
 - [The Apple Silicon transition is almost complete](https://www.computerworld.com/article/3649729/the-apple-silicon-transition-is-almost-complete.html#tk.rss_all)
 - [Who did I just hire!?](https://www.computerworld.com/article/3650032/who-did-i-just-hire.html#tk.rss_all)
 - [Microsoft edges back to ‘normal’ with workplace reopening plan](https://www.computerworld.com/article/3650037/microsoft-edges-back-to-normal-with-workplace-reopening-plan.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [The Windows 11 feedback loop — what do users want most?](https://www.computerworld.com/article/3649715/the-windows-11-feedback-loop-what-do-users-want-most.html#tk.rss_all)
-- [BrandPost: Cyberattack evolution: What small businesses need to know](https://www.computerworld.com/article/3649714/cyberattack-evolution-what-small-businesses-need-to-know.html#tk.rss_all)
-- [Will Apple VR glasses be good for the enterprise?](https://www.computerworld.com/article/3649712/will-apple-vr-glasses-be-good-for-the-enterprise.html#tk.rss_all)
-- [Jamf and more: Apple MDM tools for smaller businesses](https://www.computerworld.com/article/3648594/jamf-and-more-apple-mdm-tools-for-smaller-businesses.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
-- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [The Seductions of Clarity](https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity)
-- [Lorinda Cherry, author of dc, bc, eqn has died](https://ncwit.org/profile/lorinda-cherry/)
-- [What Every Programmer Should Know About Memory &lpar;2007&rpar; [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-- [Akamai to Acquire Linode](https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode)
-- [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/)
-- [Software defined USB port &lpar;Raspberry Pi pico RP2040&rpar;](https://github.com/sekigon-gonnoc/Pico-PIO-USB)
-- [Free public domain ebooks in PDf, ePub, mobi formats](https://www.globalgreyebooks.com/index.html)
-- [Citizen sleuths exposed pollution from a century-old Michigan factory &lpar;2019&rpar;](https://www.science.org/content/article/citizen-sleuths-exposed-pollution-century-old-michigan-factory-nationwide-implications)
+- [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
+- [Worldle](https://worldle.teuteuf.fr/)
+- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
+- [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
+- [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
+- [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
+- [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
+- [Show HN: ytcast – cast YouTube videos to your smart TV from command-line](https://github.com/MarcoLucidi01/ytcast)
+- [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
+- [Pure Bash Bible – A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

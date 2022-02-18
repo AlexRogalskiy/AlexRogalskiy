@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Nvidia founder and CEO portrays AI-centricity](https://www.computerweekly.com/news/252513541/Nvidia-found-and-CEO-portrays-AI-centricity)
+- [It takes a village: Protecting kids online is everyone’s responsibility](https://www.computerweekly.com/feature/It-takes-a-village-Protecting-kids-online-is-everyones-responsibility)
 - [2021 another record year for UK cyber investment](https://www.computerweekly.com/news/252513497/2021-another-record-year-for-UK-cyber-investment)
 - [Interview: How do you define IBM?](https://www.computerweekly.com/news/252513111/Interview-How-do-you-define-IBM)
 - [DWP data sharing pilot aims for single source of the truth](https://www.computerweekly.com/news/252513495/DWP-data-sharing-pilot-aims-for-single-source-of-the-truth)
@@ -407,8 +409,6 @@
 - [Uptime Institute to help financial services organisations reduce infrastructure outage risks](https://www.computerweekly.com/news/252513476/Uptime-Institute-to-help-financial-services-organisations-reduce-infrastructure-outage-risk)
 - [The Citrix deal and what it means for Tibco](https://www.computerweekly.com/news/252513438/The-Citrix-deal-and-what-it-means-for-Tibco)
 - [Botched third-party configuration exposes Internet Society data to web](https://www.computerweekly.com/news/252513427/Botched-third-party-configuration-exposes-Internet-Society-data-to-web)
-- [Parasol data breach: Frustrated IT contractors dig into the dark web in search of their data](https://www.computerweekly.com/news/252513433/Parasol-data-breach-Frustrated-IT-contractors-dig-into-the-dark-web-in-search-of-their-data)
-- [Nebulon gets Ansible collection for datacentre deployment](https://www.computerweekly.com/news/252513426/Nebulon-gets-Ansible-collection-for-datacentre-deployment)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

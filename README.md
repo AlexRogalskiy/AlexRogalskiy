@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does VPN reallly protect our data and prevent our data from being seen?](https://www.reddit.com/r/InformationTechnology/comments/sv4h5u/does_vpn_reallly_protect_our_data_and_prevent_our/)
+- [BI, Data and Analytics Trends for 2022 - Analysis &amp; Predictions](https://www.reddit.com/r/InformationTechnology/comments/suo5nh/bi_data_and_analytics_trends_for_2022_analysis/)
+- [what are some of the best cloud based share drives?](https://www.reddit.com/r/InformationTechnology/comments/sufesu/what_are_some_of_the_best_cloud_based_share_drives/)
+- [Best way to access shared drive thro wifi?](https://www.reddit.com/r/InformationTechnology/comments/sufdzf/best_way_to_access_shared_drive_thro_wifi/)
+- [Certifications for Production IT](https://www.reddit.com/r/InformationTechnology/comments/suf6fw/certifications_for_production_it/)
 - [What is BIOs in simple words?](https://www.reddit.com/r/InformationTechnology/comments/sucipb/what_is_bios_in_simple_words/)
 - [What do I learn next?](https://www.reddit.com/r/InformationTechnology/comments/suc709/what_do_i_learn_next/)
 - [CVSS for Known Exploited Vulnerabilities Catalog](https://www.reddit.com/r/InformationTechnology/comments/suag7s/cvss_for_known_exploited_vulnerabilities_catalog/)
 - [Maximizing an opportunity I have been given](https://www.reddit.com/r/InformationTechnology/comments/sua4ae/maximizing_an_opportunity_i_have_been_given/)
 - [Screenshot shows text way too blurry](https://www.reddit.com/r/InformationTechnology/comments/su74j8/screenshot_shows_text_way_too_blurry/)
-- [What IT podcasts and IT YouTube channels do you recommend?](https://www.reddit.com/r/InformationTechnology/comments/su0ufm/what_it_podcasts_and_it_youtube_channels_do_you/)
-- [How do you get directly to the root cause of a technical issue?](https://www.reddit.com/r/InformationTechnology/comments/su04ka/how_do_you_get_directly_to_the_root_cause_of_a/)
-- [CopyProfile in unattend.xml](https://www.reddit.com/r/InformationTechnology/comments/stxbpt/copyprofile_in_unattendxml/)
-- [What is the difference between internet and World Wide Web?](https://www.reddit.com/r/InformationTechnology/comments/st8yr6/what_is_the_difference_between_internet_and_world/)
-- [Traveling Jobs?](https://www.reddit.com/r/InformationTechnology/comments/st8jcu/traveling_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

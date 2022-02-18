@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Athabasca University partners to launch Canada’s first AI ethics micro-credential](https://www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554)
+- [Consortium gets $80 million to oversee Canadian Cyber Security Innovation Network](https://www.itworldcanada.com/article/consortium-gets-80-million-to-oversee-canadian-cyber-security-innovation-network/473530)
+- [Nailing down costs of some MSSP services can be elusive: Panel](https://www.itworldcanada.com/article/nailing-down-costs-of-some-mssp-services-can-be-elusive-panel/473516)
+- [Hashtag Trending Feb. 17 – ‘Metamates’; Elon Musk’s Neuralink; Kids Online Safety Act](https://www.itworldcanada.com/article/hashtag-trending-feb-17-metamates-elon-musks-neuralink-kids-online-safety-act/473520)
 - [Canada to get its first AWS Local Zones in Toronto and Vancouver](https://www.itworldcanada.com/article/canada-to-get-its-first-aws-local-zones-in-toronto-and-vancouver/473506)
 - [New tool helps Canadian higher education institutions navigate the global talent competition](https://www.itworldcanada.com/article/new-tool-helps-canadian-higher-education-institutions-navigate-the-global-talent-competition/473476)
 - [Ontario’s major cities have the worst Uber passengers](https://www.itworldcanada.com/article/ontarios-major-cities-have-the-worst-uber-passengers/473457)
 - [Serious vulnerability found in Apache Cassandra NoSQL database](https://www.itworldcanada.com/article/serious-vulnerability-found-in-apache-cassandra-nosql-database/473453)
 - [Cyber Security Today – Debian Linux had the most vulnerabilities last year, VMware security updates released, and more](https://www.itworldcanada.com/article/cyber-security-today-debian-linux-had-the-most-vulnerabilities-last-year-vmware-security-updates-released-and-more/473417)
 - [Hashtag Trending Feb. 16 –  FTC robocall investigation compliance; Virgin Galactic wants to sell more space flights; Google Chrome OS Flex](https://www.itworldcanada.com/article/hashtag-trending-feb-16-ftc-robocall-investigation-compliance-virgin-galactic-wants-to-sell-more-space-flights-google-chrome-os-flex/473420)
-- [Buy more to make more: Intel acquires Tower semiconductors](https://www.itworldcanada.com/article/buy-more-to-make-more-intel-acquires-tower-semiconductors/473427)
-- [ATB Ventures to help Canadian government with its digital ID efforts](https://www.itworldcanada.com/article/atb-ventures-to-help-canadian-government-with-its-digital-id-efforts/473393)
-- [Commvault enhances its intelligent data services to harden infrastructure against hackers](https://www.itworldcanada.com/article/commvault-enhances-its-intelligent-data-services-to-harden-infrastructure-against-hackers/473403)
-- [Avoid pitfalls of GDPR in Canada’s new privacy law, government told](https://www.itworldcanada.com/article/avoid-pitfalls-of-gdpr-in-canadas-new-privacy-law-government-told/473356)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

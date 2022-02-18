@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
-- [Worldle](https://worldle.teuteuf.fr/)
-- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-- [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
-- [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
-- [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
-- [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
-- [Show HN: ytcast – cast YouTube videos to your smart TV from command-line](https://github.com/MarcoLucidi01/ytcast)
-- [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
-- [Pure Bash Bible – A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
+- [Scientist busts myths about how humans burn calories–and why](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
+- [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring a frontent engineer &lpar;remote&rpar;](https://angel.co/l/2wC1ba)
+- [Fred&#39;s ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php)
+- [Skip · A programming language to skip the things you have already computed](http://skiplang.com/)
+- [The Patriot Missile Failure &lpar;2000&rpar;](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
+- [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
+- [LanguageTool – FOSS Style and Grammar Checker for 25 Languages](https://languagetool.org/)
+- [Transgenic glowing fish invades Brazilian streams](https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

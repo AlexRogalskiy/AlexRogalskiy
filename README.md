@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Rust language is fun but challenging — survey](https://www.infoworld.com/article/3650531/rust-language-is-fun-but-challenging-survey.html#tk.rss_all)
+- [Visual Studio 2022 update improves search, Git integration](https://www.infoworld.com/article/3650530/visual-studio-2022-update-improves-search-git-integration.html#tk.rss_all)
+- [A brief intro to the Pants build system](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html#tk.rss_all)
 - [5 useful features you won’t be seeing in Go](https://www.infoworld.com/article/3650015/5-useful-features-you-wont-be-seeing-in-go.html#tk.rss_all)
 - [Run PHP on .NET with PeachPie](https://www.infoworld.com/article/3649759/run-php-on-net-with-peachpie.html#tk.rss_all)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Microsoft .NET 7 Preview 1 coming this week](https://www.infoworld.com/article/3649797/microsoft-net-7-preview-1-coming-this-week.html#tk.rss_all)
 - [Embedded intelligence: concepts versus buzzwords](https://www.infoworld.com/article/3649796/embedded-intelligence-concepts-versus-buzzwords.html#tk.rss_all)
 - [Overcoming the IoT interoperability hurdle](https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html#tk.rss_all)
-- [Node.js trademarks move to OpenJS Foundation](https://www.infoworld.com/article/3649993/nodejs-trademarks-move-to-openjs-foundation.html#tk.rss_all)
-- [Think you can out-cloud the cloud?](https://www.infoworld.com/article/3650033/think-you-can-out-cloud-the-cloud.html#tk.rss_all)
-- [How to manage software developers without micromanaging](https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

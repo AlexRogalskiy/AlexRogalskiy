@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What Happens If Tech ‘Thought Leaders’ Have No Clothes?](https://www.informationweek.com/executive-insights-and-innovation/opinion-what-happens-if-tech-leaders-have-no-clothes-)
+- [How IT Can Modernize and Streamline Enterprise Supply Chains](https://www.informationweek.com/big-data/how-it-can-modernize-and-streamline-enterprise-supply-chains)
 - [What Amazon&#39;s Pay Cap Increase Means to the Tech Pro Job Market](https://www.informationweek.com/strategic-cio/what-amazon-s-pay-cap-increase-means-to-the-tech-pro-job-market)
 - [The Benefits of Adopting a Low-Code/No-Code Development Platform](https://www.informationweek.com/software/the-benefits-of-adopting-a-low-code-no-code-development-platform)
 - [IT Teams Must be Ready to Embrace the Unexpected](https://www.informationweek.com/strategic-cio/it-teams-must-be-ready-to-embrace-the-unexpected)
@@ -377,8 +379,6 @@
 - [An 8-Step Plan to Updating Your Network Disaster Recovery Plan](https://www.informationweek.com/it-life/an-8-step-plan-to-updating-your-network-disaster-recovery-plan)
 - [The Metaverse: How to Get Your Organization Ready](https://www.informationweek.com/cloud/the-metaverse-how-to-get-your-organization-ready)
 - [The Long Road to Quantum: Are We There Yet?](https://www.informationweek.com/cloud/the-long-road-to-quantum-are-we-there-yet-)
-- [6 Barriers to Moving and Managing Legacy Data to the Cloud](https://www.informationweek.com/cloud/6-barriers-to-moving-and-managing-legacy-data-to-the-cloud)
-- [Future for Careers in Automation Looking Bright](https://www.informationweek.com/ai-or-machine-learning/future-for-careers-in-automation-looking-bright)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

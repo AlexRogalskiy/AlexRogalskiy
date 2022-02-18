@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Pundits Don’t Understand About the San Francisco Recall](https://www.motherjones.com/politics/2022/02/san-francisco-school-board-recall/)
-- [The Principia Discordia](https://www.cs.cmu.edu/~tilt/principia/body.html)
-- [Otter Browser aims to bring Chromium to OS/2](https://www.xda-developers.com/otter-browser-os2/)
-- [Valve is partnering with iFixit to sell Steam Deck replacement parts](https://www.pcgamer.com/valve-is-partnering-with-ifixit-to-sell-steam-deck-replacement-parts/)
-- [Where Mac Catalyst Falls Short](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
-- [Ask HN: Downsides of leaving startup after two weeks?](https://news.ycombinator.com/item?id=30368638)
-- [PfSense 2.6.0 Released](https://docs.netgate.com/pfsense/en/latest/releases/22-01_2-6-0.html)
-- [WebRTC: Journey to make Wayland screen sharing enabled by default](https://jgrulich.cz/2022/02/16/webrtc-journey-to-make-wayland-screen-sharing-enabled-by-default/)
-- [Need to Separate AWS from Amazon.com consumer account &lpar;2012&rpar;](https://forums.aws.amazon.com/thread.jspa?threadID=85882)
-- [Cargo Ship Full of Porsches and VWs Is on Fire and Adrift in The Atlantic](https://www.thedrive.com/news/44330/cargo-ship-full-of-porsches-and-vws-is-on-fire-and-adrift-in-the-atlantic)
+- [Google Creates $100M Fund for Skills Training Program](https://www.nytimes.com/2022/02/17/business/google-training-program.html)
+- [Briefs – A Microgames Series](https://goldextra.com/en/briefs-a-microgames-series)
+- [Show HN: The Insomnia Converser is there for you when everyone is sleeping](https://www.2am.qflair.com)
+- [Wordle: New York Times changes upset fans](https://www.bbc.com/news/technology-60416057)
+- [Aerodynamics improvements in Microsoft Flight Simulator](https://www.youtube.com/watch?v=Ndl07_7PsWg)
+- [Silicon Valley lost 40k residents in 2021](https://www.marketwatch.com/story/silicon-valleys-population-shrank-in-2021-unlike-any-time-since-the-dot-com-bust-but-it-wasnt-just-because-people-left-11645142270)
+- [Safer Application Users in Postgres](https://blog.crunchydata.com/blog/safer-application-users-in-postgres)
+- [The solved riddle of the Apple-1 serial number](https://www.apple1registry.com/en/serial.html)
+- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
+- [Optimal Wordle Solutions](https://jonathanolson.net/experiments/optimal-wordle-solutions)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

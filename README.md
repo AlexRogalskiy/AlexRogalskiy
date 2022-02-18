@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine crisis: Nato considering new battlegroups in eastern Europe after ‘no sign’ of Russian de-escalation – live](https://www.theguardian.com/world/live/2022/feb/16/ukraine-russia-latest-news-live-putin-biden-kyiv-russian-invasion-threat)
-- [Devastating floods and mudslides leave at least 94 dead in Brazil](https://www.theguardian.com/world/2022/feb/16/brazil-floods-mudslides-petropolis-rio-de-janeiro-state)
-- [Women apply in their thousands to drive trains in Saudi Arabia](https://www.theguardian.com/world/2022/feb/17/women-apply-in-their-thousands-to-drive-trains-in-saudi-arabia)
-- [Guidance on political impartiality in English classrooms ‘confusing’ say teachers’ unions](https://www.theguardian.com/education/2022/feb/17/guidance-on-political-impartiality-in-english-classrooms-confusing-say-teachers-unions)
-- [Falsely convicted postal workers must be ‘fully compensated’, says committee](https://www.theguardian.com/business/2022/feb/17/falsely-convicted-postal-workers-must-be-fully-compensated-says-committee)
-- [Rise in university applications from UK 18-year-olds, figures show](https://www.theguardian.com/education/2022/feb/17/rise-in-university-applications-from-uk-18-year-olds-figures-show)
-- [Heading football and head impacts ‘change blood patterns in brain’](https://www.theguardian.com/football/2022/feb/17/heading-football-and-head-impacts-change-blood-patterns-in-brain)
-- [World spends $1.8tn a year on subsidies that harm environment, study finds](https://www.theguardian.com/environment/2022/feb/17/world-spends-18tn-a-year-on-subsidies-that-harm-environment-study-finds-aoe)
-- [Germany and Switzerland set to ease restrictions – as it happened](https://www.theguardian.com/world/live/2022/feb/16/covid-news-live-south-korea-reports-record-number-of-cases-china-tells-hong-kong-to-stabilise-outbreak)
-- [Funding of Duke of York’s settlement to be raised in parliament](https://www.theguardian.com/uk-news/2022/feb/16/duke-of-yorks-sexual-abuse-case-settlement-to-be-raised-in-parliament)
+- [‘Deeply concerning’: British government picks Alexander Downer to review UK’s border force](https://www.theguardian.com/australia-news/2022/feb/18/deeply-concerning-british-government-picks-alexander-downer-to-review-uks-border-force)
+- [Trump and two eldest children must testify in New York case, judge rules](https://www.theguardian.com/us-news/2022/feb/17/donald-trump-children-testify-new-york-fraud-investigation)
+- [Disney-branded California community promises the company’s ‘special magic’](https://www.theguardian.com/us-news/2022/feb/17/disney-california-storyliving-community-rancho-mirage)
+- [England and Wales to get extra 4,000 prison places in record expansion](https://www.theguardian.com/society/2022/feb/18/england-and-wales-to-get-extra-4000-prison-places-in-record-expansion)
+- [Free Covid tests and self-isolation rules must continue, say NHS leaders](https://www.theguardian.com/world/2022/feb/18/free-covid-tests-and-self-isolation-rules-must-continue-say-nhs-leaders)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/feb/18/premier-league-10-things-to-look-out-for-this-weekend)
+- [Olivia Colman to star in BBC adaptation of Charles Dickens’ Great Expectations](https://www.theguardian.com/tv-and-radio/2022/feb/17/olivia-colman-to-star-in-bbc-adaptation-of-charles-dickens-great-expectations)
+- [Ecuador legislators approve regulations allowing abortion in cases of rape](https://www.theguardian.com/world/2022/feb/17/ecuador-abortion-rape-cases-legal)
+- [Patson Daka and Harvey Barnes help Leicester run riot against Randers](https://www.theguardian.com/football/2022/feb/17/leicester-randers-europa-conference-league-match-report)
+- [Ashton’s long-range try sets up big Warrington win over Castleford](https://www.theguardian.com/sport/2022/feb/17/warrington-castleford-super-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Creates $100M Fund for Skills Training Program](https://www.nytimes.com/2022/02/17/business/google-training-program.html)
-- [Briefs – A Microgames Series](https://goldextra.com/en/briefs-a-microgames-series)
-- [Show HN: The Insomnia Converser is there for you when everyone is sleeping](https://www.2am.qflair.com)
-- [Wordle: New York Times changes upset fans](https://www.bbc.com/news/technology-60416057)
-- [Aerodynamics improvements in Microsoft Flight Simulator](https://www.youtube.com/watch?v=Ndl07_7PsWg)
-- [Silicon Valley lost 40k residents in 2021](https://www.marketwatch.com/story/silicon-valleys-population-shrank-in-2021-unlike-any-time-since-the-dot-com-bust-but-it-wasnt-just-because-people-left-11645142270)
-- [Safer Application Users in Postgres](https://blog.crunchydata.com/blog/safer-application-users-in-postgres)
-- [The solved riddle of the Apple-1 serial number](https://www.apple1registry.com/en/serial.html)
-- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
-- [Optimal Wordle Solutions](https://jonathanolson.net/experiments/optimal-wordle-solutions)
+- [You shouldn’t use Markdown for content anymore](https://twitter.com/kmelve/status/1494688125980798978)
+- [Incentives Structures](https://cobie.substack.com/p/incentives-structures)
+- [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
+- [The Paradox of the Lizard Tail, Solved](https://www.nytimes.com/2022/02/17/science/lizard-tails-break.html)
+- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+- [NYC Mayor demands CEOs end work from home as economy struggles](https://www.forbes.com/sites/jackkelly/2022/02/17/new-york-city-mayor-eric-adams-calls-for-companies-to-quickly-bring-workers-back-to-the-office/)
+- [Census quirks; using UBC area as an example](https://doodles.mountainmath.ca/blog/2022/02/17/census-quirks-using-ubc-area-as-an-example/)
+- [Expat 2.4.5 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-4-5-released/)
+- [Baizuo](https://en.wikipedia.org/wiki/Baizuo)
+- [A product manager’s guide to Web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft .NET 7 zeroes in on containers and cloud](https://www.infoworld.com/article/3650674/microsoft-net-7-zeroes-in-on-containers-and-cloud.html#tk.rss_all)
+- [What is OLTP? The backbone of ecommerce](https://www.infoworld.com/article/3650769/what-is-oltp-the-backbone-of-ecommerce.html#tk.rss_all)
+- [IT spending will be mostly cloud soon. Are you ready?](https://www.infoworld.com/article/3650768/it-spending-will-soon-shift-to-mostly-cloud.html#tk.rss_all)
 - [Rust language is fun but challenging — survey](https://www.infoworld.com/article/3650531/rust-language-is-fun-but-challenging-survey.html#tk.rss_all)
 - [Visual Studio 2022 update improves search, Git integration](https://www.infoworld.com/article/3650530/visual-studio-2022-update-improves-search-git-integration.html#tk.rss_all)
 - [A brief intro to the Pants build system](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Run PHP on .NET with PeachPie](https://www.infoworld.com/article/3649759/run-php-on-net-with-peachpie.html#tk.rss_all)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
-- [Microsoft .NET 7 Preview 1 coming this week](https://www.infoworld.com/article/3649797/microsoft-net-7-preview-1-coming-this-week.html#tk.rss_all)
-- [Embedded intelligence: concepts versus buzzwords](https://www.infoworld.com/article/3649796/embedded-intelligence-concepts-versus-buzzwords.html#tk.rss_all)
-- [Overcoming the IoT interoperability hurdle](https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [‘Bridge the Gap’ shows were next-gen collaboration systems should go](https://www.computerworld.com/article/3650652/bridge-the-gap-shows-were-next-gen-collaboration-systems-should-go.html#tk.rss_all)
+- [iPad Air: Apple&#39;s best all-around tablet is about to get better](https://www.computerworld.com/article/3650491/ipad-air-apples-best-all-around-tablet-is-about-to-get-better.html#tk.rss_all)
+- [Vendor onboarding doesn’t have to be a slog](https://www.computerworld.com/article/3650648/vendor-onboarding-doesn-t-have-to-be-a-slog.html#tk.rss_all)
+- [New VA CIO focuses on digital transformation, EHR changeout](https://www.computerworld.com/article/3650510/new-va-cio-focuses-on-digital-transformation-ehr-changeout.html#tk.rss_all)
+- [5 easy ways to make Android more ergonomic](https://www.computerworld.com/article/3650489/5-easy-ways-to-make-android-more-ergonomic.html#tk.rss_all)
+- [‘Bridge the Gap’ shows where next-gen collaboration systems should go](https://www.computerworld.com/article/3650652/bridge-the-gap-shows-where-next-gen-collaboration-systems-should-go.html#tk.rss_all)
 - [Google slowly follows Apple in app-tracking lockdown](https://www.computerworld.com/article/3650651/google-slowly-follows-apple-in-app-tracking-lockdown.html#tk.rss_all)
 - [How the future of work changes the future of business travel](https://www.computerworld.com/article/3650014/how-the-future-of-work-changes-the-future-of-business-travel.html#tk.rss_all)
 - [Diversity in IT: To hire Black tech pros, partnerships are key](https://www.computerworld.com/article/3649757/diversity-in-it-to-hire-black-tech-pros-partnerships-are-key.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Google updates Workspace’s ‘smart canvas,’ shutters Currents](https://www.computerworld.com/article/3650468/google-updates-workspaces-smart-canvas-shutters-currents.html#tk.rss_all)
-- [Why Apple spent billions to get to 5G — services](https://www.computerworld.com/article/3649800/why-apple-spent-billions-to-get-to-5g-services.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Asana launches Asana Flow to power intelligent work prioritization](https://www.computerworld.com/article/3649994/asana-launches-asana-flow-to-power-intelligent-work-prioritization.html#tk.rss_all)
-- [Meet Chrome OS Flex, Google&#39;s new weapon for desktop domination](https://www.computerworld.com/article/3649716/chrome-os-flex.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Resume for help desk jobs](https://www.reddit.com/r/InformationTechnology/comments/svtic0/resume_for_help_desk_jobs/)
+- [Why are &#39;weak&#39; VMs so much faster than weak physical hardware?](https://www.reddit.com/r/InformationTechnology/comments/svn81x/why_are_weak_vms_so_much_faster_than_weak/)
+- [KodeKloud or A Cloud Guru?](https://www.reddit.com/r/InformationTechnology/comments/svlfua/kodekloud_or_a_cloud_guru/)
+- [Can I become an information architect with a UX design degree?](https://www.reddit.com/r/InformationTechnology/comments/svc4y9/can_i_become_an_information_architect_with_a_ux/)
 - [Does VPN reallly protect our data and prevent our data from being seen?](https://www.reddit.com/r/InformationTechnology/comments/sv4h5u/does_vpn_reallly_protect_our_data_and_prevent_our/)
 - [BI, Data and Analytics Trends for 2022 - Analysis &amp; Predictions](https://www.reddit.com/r/InformationTechnology/comments/suo5nh/bi_data_and_analytics_trends_for_2022_analysis/)
 - [what are some of the best cloud based share drives?](https://www.reddit.com/r/InformationTechnology/comments/sufesu/what_are_some_of_the_best_cloud_based_share_drives/)
 - [Best way to access shared drive thro wifi?](https://www.reddit.com/r/InformationTechnology/comments/sufdzf/best_way_to_access_shared_drive_thro_wifi/)
 - [Certifications for Production IT](https://www.reddit.com/r/InformationTechnology/comments/suf6fw/certifications_for_production_it/)
 - [What is BIOs in simple words?](https://www.reddit.com/r/InformationTechnology/comments/sucipb/what_is_bios_in_simple_words/)
-- [What do I learn next?](https://www.reddit.com/r/InformationTechnology/comments/suc709/what_do_i_learn_next/)
-- [CVSS for Known Exploited Vulnerabilities Catalog](https://www.reddit.com/r/InformationTechnology/comments/suag7s/cvss_for_known_exploited_vulnerabilities_catalog/)
-- [Maximizing an opportunity I have been given](https://www.reddit.com/r/InformationTechnology/comments/sua4ae/maximizing_an_opportunity_i_have_been_given/)
-- [Screenshot shows text way too blurry](https://www.reddit.com/r/InformationTechnology/comments/su74j8/screenshot_shows_text_way_too_blurry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

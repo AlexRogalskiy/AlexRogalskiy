@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
-- [Scientist busts myths about how humans burn calories–and why](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
-- [Internals of Go&#39;s new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
-- [SuperTokens &lpar;YC S20&rpar; Is Hiring a frontent engineer &lpar;remote&rpar;](https://angel.co/l/2wC1ba)
-- [Fred&#39;s ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php)
-- [Skip · A programming language to skip the things you have already computed](http://skiplang.com/)
-- [The Patriot Missile Failure &lpar;2000&rpar;](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
-- [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
-- [LanguageTool – FOSS Style and Grammar Checker for 25 Languages](https://languagetool.org/)
-- [Transgenic glowing fish invades Brazilian streams](https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams)
+- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+- [A Saudi woman&#39;s iPhone revealed hacking around the world](https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/)
+- [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
+- [Faster Python calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
+- [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
+- [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
+- [Works in Progress has joined Stripe](https://www.worksinprogress.co/works-in-progress-has-joined-stripe/)
+- [Study finds most unemployed young men have criminal records](https://phys.org/news/2022-02-unemployed-young-men-criminal.html)
+- [Dover &lpar;YC S19&rpar; is hiring engineers at all levels](https://dover.com/careers)
+- [The Trip to Rose Cottage](https://granta.com/the-trip-to-rose-cottage/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What You Need to Know About AI Ethics](https://www.informationweek.com/big-data/what-you-need-to-know-about-ai-ethics)
+- [Facing Decentralized Finance and Crypto Security Dilemmas](https://www.informationweek.com/fintech/facing-decentralized-finance-and-crypto-security-dilemmas)
+- [The Power of Technology for the Middle Market Sector](https://www.informationweek.com/it-life/the-power-of-technology-for-the-middle-market-sector)
 - [What Happens If Tech ‘Thought Leaders’ Have No Clothes?](https://www.informationweek.com/executive-insights-and-innovation/opinion-what-happens-if-tech-leaders-have-no-clothes-)
 - [How IT Can Modernize and Streamline Enterprise Supply Chains](https://www.informationweek.com/big-data/how-it-can-modernize-and-streamline-enterprise-supply-chains)
 - [What Amazon&#39;s Pay Cap Increase Means to the Tech Pro Job Market](https://www.informationweek.com/strategic-cio/what-amazon-s-pay-cap-increase-means-to-the-tech-pro-job-market)
@@ -376,9 +379,6 @@
 - [IT Teams Must be Ready to Embrace the Unexpected](https://www.informationweek.com/strategic-cio/it-teams-must-be-ready-to-embrace-the-unexpected)
 - [7 IT Infrastructure Skills in High Demand](https://www.informationweek.com/cloud/7-it-infrastructure-skills-in-high-demand)
 - [Neurodiversity Hiring Will be a Competitive Advantage](https://www.informationweek.com/team-building-and-staffing/neurodiversity-hiring-will-be-a-competitive-advantage)
-- [An 8-Step Plan to Updating Your Network Disaster Recovery Plan](https://www.informationweek.com/it-life/an-8-step-plan-to-updating-your-network-disaster-recovery-plan)
-- [The Metaverse: How to Get Your Organization Ready](https://www.informationweek.com/cloud/the-metaverse-how-to-get-your-organization-ready)
-- [The Long Road to Quantum: Are We There Yet?](https://www.informationweek.com/cloud/the-long-road-to-quantum-are-we-there-yet-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

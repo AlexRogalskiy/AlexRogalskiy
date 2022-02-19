@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Why culture is critical for data integration](https://www.computerweekly.com/opinion/Why-culture-is-critical-to-data-integration)
+- [January 2022 saw low growth in online sales](https://www.computerweekly.com/news/252513606/January-2022-saw-low-growth-in-online-sales)
+- [Lawyers say ‘unprecedented’ secrecy deprived EncroChat defendants of fair trials](https://www.computerweekly.com/news/252513605/Lawyers-say-unprecedented-secrecy-deprived-EncroChat-defendants-of-fair-trials)
+- [UK organisations untroubled by Trickbot surge](https://www.computerweekly.com/news/252513598/UK-organisations-untroubled-by-Trickbot-surge)
+- [CDO interview: Lisa Valentino, executive VP for client and brand solutions, Disney Advertising Sales](https://www.computerweekly.com/news/252513371/CDO-interview-Lisa-Valentino-executive-VP-for-client-and-brand-solutions-Disney-Advertising-Sales)
+- [CIO interview: Adam Miller, group head of IT, Markerstudy Group](https://www.computerweekly.com/news/252513365/CIO-interview-Adam-Miller-group-head-of-IT-Markerstudy-Group)
+- [CW APAC: Trend Watch - enterprise 5G](https://www.computerweekly.com/ezine/CW-Asia-Pacific/CW-APAC-Trend-Watch-enterprise-5G)
+- [Amazon drops Elasticsearch name from cloud portfolio after trademark infringement suit concludes](https://www.computerweekly.com/news/252513588/Amazon-drops-Elasticsearch-name-from-cloud-portfolio-after-trademark-infringement-suit-concludes)
 - [Nvidia founder and CEO portrays AI-centricity](https://www.computerweekly.com/news/252513541/Nvidia-found-and-CEO-portrays-AI-centricity)
 - [It takes a village: Protecting kids online is everyone’s responsibility](https://www.computerweekly.com/feature/It-takes-a-village-Protecting-kids-online-is-everyones-responsibility)
-- [2021 another record year for UK cyber investment](https://www.computerweekly.com/news/252513497/2021-another-record-year-for-UK-cyber-investment)
-- [Interview: How do you define IBM?](https://www.computerweekly.com/news/252513111/Interview-How-do-you-define-IBM)
-- [DWP data sharing pilot aims for single source of the truth](https://www.computerweekly.com/news/252513495/DWP-data-sharing-pilot-aims-for-single-source-of-the-truth)
-- [DDoS attacks hit Ukrainian defence ministry and banks](https://www.computerweekly.com/news/252513489/DDoS-attacks-hit-Ukrainian-defence-ministry-and-banks)
-- [BlackCat ransomware gang claims responsibility for Swissport attack](https://www.computerweekly.com/news/252513488/BlackCat-ransomware-gang-claims-responsibility-for-Swissport-attack)
-- [Uptime Institute to help financial services organisations reduce infrastructure outage risks](https://www.computerweekly.com/news/252513476/Uptime-Institute-to-help-financial-services-organisations-reduce-infrastructure-outage-risk)
-- [The Citrix deal and what it means for Tibco](https://www.computerweekly.com/news/252513438/The-Citrix-deal-and-what-it-means-for-Tibco)
-- [Botched third-party configuration exposes Internet Society data to web](https://www.computerweekly.com/news/252513427/Botched-third-party-configuration-exposes-Internet-Society-data-to-web)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

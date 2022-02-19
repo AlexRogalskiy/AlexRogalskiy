@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Deeply concerning’: British government picks Alexander Downer to review UK’s border force](https://www.theguardian.com/australia-news/2022/feb/18/deeply-concerning-british-government-picks-alexander-downer-to-review-uks-border-force)
-- [Trump and two eldest children must testify in New York case, judge rules](https://www.theguardian.com/us-news/2022/feb/17/donald-trump-children-testify-new-york-fraud-investigation)
-- [Disney-branded California community promises the company’s ‘special magic’](https://www.theguardian.com/us-news/2022/feb/17/disney-california-storyliving-community-rancho-mirage)
-- [England and Wales to get extra 4,000 prison places in record expansion](https://www.theguardian.com/society/2022/feb/18/england-and-wales-to-get-extra-4000-prison-places-in-record-expansion)
-- [Free Covid tests and self-isolation rules must continue, say NHS leaders](https://www.theguardian.com/world/2022/feb/18/free-covid-tests-and-self-isolation-rules-must-continue-say-nhs-leaders)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/feb/18/premier-league-10-things-to-look-out-for-this-weekend)
-- [Olivia Colman to star in BBC adaptation of Charles Dickens’ Great Expectations](https://www.theguardian.com/tv-and-radio/2022/feb/17/olivia-colman-to-star-in-bbc-adaptation-of-charles-dickens-great-expectations)
-- [Ecuador legislators approve regulations allowing abortion in cases of rape](https://www.theguardian.com/world/2022/feb/17/ecuador-abortion-rape-cases-legal)
-- [Patson Daka and Harvey Barnes help Leicester run riot against Randers](https://www.theguardian.com/football/2022/feb/17/leicester-randers-europa-conference-league-match-report)
-- [Ashton’s long-range try sets up big Warrington win over Castleford](https://www.theguardian.com/sport/2022/feb/17/warrington-castleford-super-league-match-report)
+- [Canadian police arrest at least 100 protesters in bid to break up Ottawa truck blockade](https://www.theguardian.com/world/2022/feb/18/trucker-convoy-protest-canada-ottawa-police-arrests-latest-news)
+- [Far-right Oath Keepers leader to stay in jail until Capitol attack trial, judge rules](https://www.theguardian.com/us-news/2022/feb/18/oath-keepers-stewart-rhodes-capitol-attack)
+- [NHS severs links with GambleAware over industry connection concerns](https://www.theguardian.com/society/2022/feb/19/nhs-severs-links-with-gambleaware-over-industry-connection-concerns)
+- [Talking Horses: Dashel Drasher can double up in quality Ascot Chase](https://www.theguardian.com/sport/2022/feb/19/talking-horses-dashel-drasher-can-double-up-in-quality-ascot-chase)
+- [Biden ‘convinced’ Putin plans to invade but says diplomacy ‘always a possibility’](https://www.theguardian.com/world/2022/feb/18/joe-biden-russia-ukraine-vladimir-putin)
+- [Jai Field’s magical hat-trick leads Wigan to bruising victory over Leeds](https://www.theguardian.com/sport/2022/feb/18/jai-fields-magical-hat-trick-leads-wigan-to-bruising-victory-over-leeds)
+- [Arteta senses Arsenal have backbone to stand tall in battle for top four](https://www.theguardian.com/football/2022/feb/18/arteta-senses-arsenal-have-backbone-to-stand-tall-in-battle-for-top-four)
+- [Jürgen Klopp angrily rejects claim that five substitutes rule favours Liverpool](https://www.theguardian.com/football/2022/feb/18/jurgen-klopp-angrily-rejects-claim-that-five-substitutes-rule-favours-liverpool)
+- [Jonny Wilkinson’s role in teaching Marcus Smith to become bulletproof](https://www.theguardian.com/sport/2022/feb/18/jonny-wilkinsons-role-in-teaching-marcus-smith-to-become-bulletproof)
+- [Alexander Downer is the wrong choice to review the UK’s border force – Australia’s record is nothing to emulate | Daniel Ghezelbash](https://www.theguardian.com/commentisfree/2022/feb/19/alexander-downer-is-the-wrong-choice-to-review-the-uks-border-force-australias-record-is-nothing-to-emulate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

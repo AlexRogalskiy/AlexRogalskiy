@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
-- [A Saudi woman&#39;s iPhone revealed hacking around the world](https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/)
-- [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
-- [Faster Python calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
-- [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
-- [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
-- [Works in Progress has joined Stripe](https://www.worksinprogress.co/works-in-progress-has-joined-stripe/)
-- [Study finds most unemployed young men have criminal records](https://phys.org/news/2022-02-unemployed-young-men-criminal.html)
-- [Dover &lpar;YC S19&rpar; is hiring engineers at all levels](https://dover.com/careers)
-- [The Trip to Rose Cottage](https://granta.com/the-trip-to-rose-cottage/)
+- [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
+- [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
+- [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
+- [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
+- [Tell HN: YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
+- [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
+- [Is Datalog a good language for authorization?](https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/)
+- [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
+- [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
+- [Linux&#39;s GPLv2 licence is routinely violated &lpar;2015&rpar;](https://www.devever.net/~hl/linuxgpl)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

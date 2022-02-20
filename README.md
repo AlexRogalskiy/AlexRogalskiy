@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canadian police arrest at least 100 protesters in bid to break up Ottawa truck blockade](https://www.theguardian.com/world/2022/feb/18/trucker-convoy-protest-canada-ottawa-police-arrests-latest-news)
-- [Far-right Oath Keepers leader to stay in jail until Capitol attack trial, judge rules](https://www.theguardian.com/us-news/2022/feb/18/oath-keepers-stewart-rhodes-capitol-attack)
-- [NHS severs links with GambleAware over industry connection concerns](https://www.theguardian.com/society/2022/feb/19/nhs-severs-links-with-gambleaware-over-industry-connection-concerns)
-- [Talking Horses: Dashel Drasher can double up in quality Ascot Chase](https://www.theguardian.com/sport/2022/feb/19/talking-horses-dashel-drasher-can-double-up-in-quality-ascot-chase)
-- [Biden ‘convinced’ Putin plans to invade but says diplomacy ‘always a possibility’](https://www.theguardian.com/world/2022/feb/18/joe-biden-russia-ukraine-vladimir-putin)
-- [Jai Field’s magical hat-trick leads Wigan to bruising victory over Leeds](https://www.theguardian.com/sport/2022/feb/18/jai-fields-magical-hat-trick-leads-wigan-to-bruising-victory-over-leeds)
-- [Arteta senses Arsenal have backbone to stand tall in battle for top four](https://www.theguardian.com/football/2022/feb/18/arteta-senses-arsenal-have-backbone-to-stand-tall-in-battle-for-top-four)
-- [Jürgen Klopp angrily rejects claim that five substitutes rule favours Liverpool](https://www.theguardian.com/football/2022/feb/18/jurgen-klopp-angrily-rejects-claim-that-five-substitutes-rule-favours-liverpool)
-- [Jonny Wilkinson’s role in teaching Marcus Smith to become bulletproof](https://www.theguardian.com/sport/2022/feb/18/jonny-wilkinsons-role-in-teaching-marcus-smith-to-become-bulletproof)
-- [Alexander Downer is the wrong choice to review the UK’s border force – Australia’s record is nothing to emulate | Daniel Ghezelbash](https://www.theguardian.com/commentisfree/2022/feb/19/alexander-downer-is-the-wrong-choice-to-review-the-uks-border-force-australias-record-is-nothing-to-emulate)
+- [Winter Olympics day 16: GB in women’s curling final; men’s ice hockey – live!](https://www.theguardian.com/sport/live/2022/feb/20/winter-olympics-day-16-gb-in-womens-curling-final-mens-ice-hockey-live)
+- [Forecast of 80mph winds as thousands without power in UK after Storm Eunice](https://www.theguardian.com/uk-news/2022/feb/20/forecast-of-80mph-winds-as-thousands-without-power-in-uk-after-storm-eunice)
+- [Queensland man charged with murder after allegedly sawing off another man’s leg](https://www.theguardian.com/australia-news/2022/feb/20/queensland-man-charged-with-after-allegedly-sawing-off-another-mans-leg)
+- [Australian rivals and Brexit barriers leave UK farmers on stony ground](https://www.theguardian.com/business/2022/feb/20/australian-rivals-and-brexit-barriers-leave-uk-farmers-on-stony-ground)
+- [Kell Brook stops Amir Khan in sixth round to win grudge match](https://www.theguardian.com/sport/2022/feb/19/kell-brook-stops-amir-khan-in-sixth-round-to-win-grudge-match)
+- [Blaze of glory: Be a cut above the rest in an oversized blazer](https://www.theguardian.com/fashion/2022/feb/19/blaze-of-glory-be-a-cut-above-the-rest-in-an-oversized-blazer)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Two of Nigeria’s looted Benin bronzes returned to traditional palace](https://www.theguardian.com/world/2022/feb/19/nigerias-looted-benin-bronzes-returned-to-traditional-palace)
+- [Ottawa: police use pepper spray and stun grenades to clear trucker protest](https://www.theguardian.com/world/2022/feb/19/ottawa-police-pepper-spray-stun-grenades-trucker-protest)
+- [Johnson to end forced self-isolation after positive Covid test in England](https://www.theguardian.com/politics/2022/feb/19/johnson-to-end-forced-self-isolation-after-positive-covid-test-in-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

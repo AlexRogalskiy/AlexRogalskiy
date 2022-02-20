@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do y&#39;all as IT professionals keep a logbook?](https://www.reddit.com/r/InformationTechnology/comments/swiwnb/do_yall_as_it_professionals_keep_a_logbook/)
+- [For those working IT for small companies: What percent of your time do you spend working on PDF forms and other tasks?](https://www.reddit.com/r/InformationTechnology/comments/swdxsc/for_those_working_it_for_small_companies_what/)
+- [Information Security Specialist or SysAdmin?](https://www.reddit.com/r/InformationTechnology/comments/sw3smb/information_security_specialist_or_sysadmin/)
 - [Resume for help desk jobs](https://www.reddit.com/r/InformationTechnology/comments/svtic0/resume_for_help_desk_jobs/)
 - [Why are &#39;weak&#39; VMs so much faster than weak physical hardware?](https://www.reddit.com/r/InformationTechnology/comments/svn81x/why_are_weak_vms_so_much_faster_than_weak/)
 - [KodeKloud or A Cloud Guru?](https://www.reddit.com/r/InformationTechnology/comments/svlfua/kodekloud_or_a_cloud_guru/)
@@ -421,9 +424,6 @@
 - [Does VPN reallly protect our data and prevent our data from being seen?](https://www.reddit.com/r/InformationTechnology/comments/sv4h5u/does_vpn_reallly_protect_our_data_and_prevent_our/)
 - [BI, Data and Analytics Trends for 2022 - Analysis &amp; Predictions](https://www.reddit.com/r/InformationTechnology/comments/suo5nh/bi_data_and_analytics_trends_for_2022_analysis/)
 - [what are some of the best cloud based share drives?](https://www.reddit.com/r/InformationTechnology/comments/sufesu/what_are_some_of_the_best_cloud_based_share_drives/)
-- [Best way to access shared drive thro wifi?](https://www.reddit.com/r/InformationTechnology/comments/sufdzf/best_way_to_access_shared_drive_thro_wifi/)
-- [Certifications for Production IT](https://www.reddit.com/r/InformationTechnology/comments/suf6fw/certifications_for_production_it/)
-- [What is BIOs in simple words?](https://www.reddit.com/r/InformationTechnology/comments/sucipb/what_is_bios_in_simple_words/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You shouldn’t use Markdown for content anymore](https://twitter.com/kmelve/status/1494688125980798978)
-- [Incentives Structures](https://cobie.substack.com/p/incentives-structures)
-- [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
-- [The Paradox of the Lizard Tail, Solved](https://www.nytimes.com/2022/02/17/science/lizard-tails-break.html)
-- [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
-- [NYC Mayor demands CEOs end work from home as economy struggles](https://www.forbes.com/sites/jackkelly/2022/02/17/new-york-city-mayor-eric-adams-calls-for-companies-to-quickly-bring-workers-back-to-the-office/)
-- [Census quirks; using UBC area as an example](https://doodles.mountainmath.ca/blog/2022/02/17/census-quirks-using-ubc-area-as-an-example/)
-- [Expat 2.4.5 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-4-5-released/)
-- [Baizuo](https://en.wikipedia.org/wiki/Baizuo)
-- [A product manager’s guide to Web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)
+- [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+- [Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India](https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692)
+- [Hossenfelder&#39;s proposal on early universe inflation had to mention diversity](https://twitter.com/skdh/status/1494937030207365121)
+- [The strange journey of ancient trees to a Georgian billionaire’s mansion](https://english.elpais.com/culture/2022-02-18/taming-the-garden-the-strange-journey-of-ancient-trees-to-a-georgian-billionaires-mansion.html)
+- [Open access to orbit and runaway space debris growth](https://arxiv.org/abs/2202.07442)
+- [Managing Modern Complexity &lpar;1970&rpar;](https://pdf.sciencedirectassets.com/271788/1-s2.0-S0016328770X00019/1-s2.0-S0016328770800039/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC%2FQ57czCRZlupBRP6uYhHZbUuTn2x1uFRh5Tw9pY0avAIhAM7BaGke%2FxfNx9Pus%2Fpbl1s2XvJFjzX20n0jRTF0qx%2FrKvoDCCIQBBoMMDU5MDAzNTQ2ODY1Igw%2BwApIRdhKJqTUDpkq1wOd%2FXKFq9Yoz%2Bh0s36zCE2udFgdnj%2Bq9LVi7p3ROyapj7ajTRAj%2BrQrMvXVELFRNDXEeelLaSBN8aout364VxkuwboMLxOTR1R7u7kvgZBTly8o%2BiGta9R3gIvQSNjAlF6RZonJEvwQWEGWyMQQ2K%2BCuUsBa8IRg%2BxrsbTOOYT%2F9o7exQbhipT6i8qiKx0Reod4QnbDN3Kuyub1Y7Ss3XcIW6BmhCxCPtAN%2Bje5%2FcHvYj2DO4E75bl%2BwXlJJvpbWEwX6mYF0fP6%2FWPwfAgwgTcC9vjQniZRUsyy3cKKb1rGIAW08RfvSWpLTmrgUSLsyPOx69VQ3QltL9mHMuoiwxwL6lmHLASIaD4X7YTPlcGYuNK0sXS%2Fx9dLgTJqo3dmBTUK2dvxT5gOFYfwPr7fPuZi2FYeH0vJ%2BJ06JgeEtOL5t48zlSG9x3JkGkVkEdJCOfxwK6w%2Bl8VdTSOwv6fNPcCCbI8aXdMtIAkvD2OfjFXKEhjpI91EDhyCnUM2q1xz9b5GgjFwEvgiZG4tPfUEDULzdQUeObmzzhsfVSFKv0cFC%2BCYNADAprt92zNAYOs2qr2QW5ewcbEIl8%2B%2B2eWNZuZTr53N5PqmSCEd4Qzqi9L5PTIfFFFnSsUw4qDGkAY6pAF6KERm6PhJQ41qjkevhn%2FVFHT%2FzazgZZQ%2BBIT64eqALy1%2B2HnAQcGUn0TC9TkSLDxmx5fcdpjDYtwyXUXUhE3LBDejQc2qHR6dXn%2FGAZ7gKJ2e%2FWsdqOyMmQateEvUykywqhQRzCxXpWylspsot%2BBiKZdkqfUcPnXtHtEG4DuGOgMsN47aDwnTRtAR83ZWzhm5zSaAUhRJy%2Fk6MU2hlqsK7mjX6g%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220220T020639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXFN53MMH%2F20220220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4e8dbed0f17a238788c0eb95102892ffe3dc8a39073fb9f3e95457d940503c4b&hash=c07260f6419bf28e9d81aa1da493d4a3f7216523c7169910344fbcedc56b2610&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016328770800039&tid=spdf-91b0be37-5de4-40d0-a0d3-178711a42629&sid=0c365b376721094fc05aedf181139f839f73gxrqa&type=client&ua=4c035e575c065153560204&rr=6e042d473be69663)
+- [Ask HN: Should I Quit College?](https://news.ycombinator.com/item?id=30402564)
+- [QAnon founder may have been identified thanks to machine learning](https://www.engadget.com/qanon-machine-learning-205618665.html)
+- [NFT holders panic as wallets are drained; some blame smart contract from OpenSea](https://web3isgoinggreat.com/?id=2022-02-19-1)
+- [Opensea exploit in migration contract allowing users to grab any NFT from others](https://twitter.com/unusual_whales/status/1495204532753625092)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

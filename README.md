@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do we technically need an internet provider to be able to access the internet and the web?](https://www.reddit.com/r/InformationTechnology/comments/sxi6q0/do_we_technically_need_an_internet_provider_to_be/)
+- [Can we operate the interne and the web t with a power generator/ solar panel in case there is a blackout, tornado, etc?](https://www.reddit.com/r/InformationTechnology/comments/sxi5z0/can_we_operate_the_interne_and_the_web_t_with_a/)
+- [IT jobs in retirement](https://www.reddit.com/r/InformationTechnology/comments/sxgjgc/it_jobs_in_retirement/)
+- [Starting a website](https://www.reddit.com/r/InformationTechnology/comments/sxd9rp/starting_a_website/)
+- [Career change advice](https://www.reddit.com/r/InformationTechnology/comments/sx1k6d/career_change_advice/)
+- [New to the world of Information Technology](https://www.reddit.com/r/InformationTechnology/comments/swtl8b/new_to_the_world_of_information_technology/)
 - [Do y&#39;all as IT professionals keep a logbook?](https://www.reddit.com/r/InformationTechnology/comments/swiwnb/do_yall_as_it_professionals_keep_a_logbook/)
 - [For those working IT for small companies: What percent of your time do you spend working on PDF forms and other tasks?](https://www.reddit.com/r/InformationTechnology/comments/swdxsc/for_those_working_it_for_small_companies_what/)
 - [Information Security Specialist or SysAdmin?](https://www.reddit.com/r/InformationTechnology/comments/sw3smb/information_security_specialist_or_sysadmin/)
 - [Resume for help desk jobs](https://www.reddit.com/r/InformationTechnology/comments/svtic0/resume_for_help_desk_jobs/)
-- [Why are &#39;weak&#39; VMs so much faster than weak physical hardware?](https://www.reddit.com/r/InformationTechnology/comments/svn81x/why_are_weak_vms_so_much_faster_than_weak/)
-- [KodeKloud or A Cloud Guru?](https://www.reddit.com/r/InformationTechnology/comments/svlfua/kodekloud_or_a_cloud_guru/)
-- [Can I become an information architect with a UX design degree?](https://www.reddit.com/r/InformationTechnology/comments/svc4y9/can_i_become_an_information_architect_with_a_ux/)
-- [Does VPN reallly protect our data and prevent our data from being seen?](https://www.reddit.com/r/InformationTechnology/comments/sv4h5u/does_vpn_reallly_protect_our_data_and_prevent_our/)
-- [BI, Data and Analytics Trends for 2022 - Analysis &amp; Predictions](https://www.reddit.com/r/InformationTechnology/comments/suo5nh/bi_data_and_analytics_trends_for_2022_analysis/)
-- [what are some of the best cloud based share drives?](https://www.reddit.com/r/InformationTechnology/comments/sufesu/what_are_some_of_the_best_cloud_based_share_drives/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
-- [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo)
-- [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
-- [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
-- [Tell HN: YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
-- [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
-- [Is Datalog a good language for authorization?](https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/)
-- [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
-- [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
-- [Linux&#39;s GPLv2 licence is routinely violated &lpar;2015&rpar;](https://www.devever.net/~hl/linuxgpl)
+- [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
+- [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
+- [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
+- [Imagine if a lemon law penalized schools for rotten educations](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
+- [About adding a static route to my DOCSIS modem](https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/)
+- [Lit-up fishing nets reduce catch of unwanted sharks, rays and squid: study](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
+- [When programming books are wrong](https://www.programmingbooks.dev)
+- [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
+- [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
+- [Node.js Notebooks](https://github.com/DonJayamanne/typescript-notebook)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

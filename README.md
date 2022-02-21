@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Winter Olympics day 16: GB in women’s curling final; men’s ice hockey – live!](https://www.theguardian.com/sport/live/2022/feb/20/winter-olympics-day-16-gb-in-womens-curling-final-mens-ice-hockey-live)
-- [Forecast of 80mph winds as thousands without power in UK after Storm Eunice](https://www.theguardian.com/uk-news/2022/feb/20/forecast-of-80mph-winds-as-thousands-without-power-in-uk-after-storm-eunice)
-- [Queensland man charged with murder after allegedly sawing off another man’s leg](https://www.theguardian.com/australia-news/2022/feb/20/queensland-man-charged-with-after-allegedly-sawing-off-another-mans-leg)
-- [Australian rivals and Brexit barriers leave UK farmers on stony ground](https://www.theguardian.com/business/2022/feb/20/australian-rivals-and-brexit-barriers-leave-uk-farmers-on-stony-ground)
-- [Kell Brook stops Amir Khan in sixth round to win grudge match](https://www.theguardian.com/sport/2022/feb/19/kell-brook-stops-amir-khan-in-sixth-round-to-win-grudge-match)
-- [Blaze of glory: Be a cut above the rest in an oversized blazer](https://www.theguardian.com/fashion/2022/feb/19/blaze-of-glory-be-a-cut-above-the-rest-in-an-oversized-blazer)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Two of Nigeria’s looted Benin bronzes returned to traditional palace](https://www.theguardian.com/world/2022/feb/19/nigerias-looted-benin-bronzes-returned-to-traditional-palace)
-- [Ottawa: police use pepper spray and stun grenades to clear trucker protest](https://www.theguardian.com/world/2022/feb/19/ottawa-police-pepper-spray-stun-grenades-trucker-protest)
-- [Johnson to end forced self-isolation after positive Covid test in England](https://www.theguardian.com/politics/2022/feb/19/johnson-to-end-forced-self-isolation-after-positive-covid-test-in-england)
+- [Fifty years on, ‘Nixon in China’ loses its sparkle in Beijing and Washington](https://www.theguardian.com/world/2022/feb/21/fifty-years-on-nixon-in-china-loses-its-sparkle-in-beijing-and-washington)
+- [Macron paves way for potential Putin-Biden summit on Ukraine crisis](https://www.theguardian.com/world/2022/feb/20/putin-and-macron-agree-to-try-and-secure-ceasefire-in-eastern-ukraine)
+- [‘Egotistical’: Rory McIlroy attacks Phil Mickelson over Saudi-backed tour](https://www.theguardian.com/sport/2022/feb/21/egotistical-rory-mcilroy-attacks-phil-mickelson-over-saudi-backed-breakaway-golf-tour)
+- [Priti Patel approves ban on ‘harmful’ anti-vaxxer protests at schools](https://www.theguardian.com/politics/2022/feb/21/priti-patel-approves-ban-on-harmful-anti-vaxxer-protests-at-schools)
+- [Andrew Neil to host Sunday night political show on Channel 4](https://www.theguardian.com/media/2022/feb/21/andrew-neil-to-host-sunday-night-political-show-on-channel-4)
+- [Two halves of signed Jimi Hendrix lyric sheet reunited after 55 years](https://www.theguardian.com/music/2022/feb/21/two-halves-signed-jimi-hendrix-lyric-sheet-reunited-55-years)
+- [Asking prices for UK homes show record rise, as demand exceeds supply](https://www.theguardian.com/money/2022/feb/21/asking-prices-for-uk-homes-show-record-rise-as-demand-exceeds-supply)
+- [Moorcroft review – bittersweet football comedy is right on target](https://www.theguardian.com/stage/2022/feb/21/moorcroft-review-tron-glasgow)
+- [David Hockney exhibition will feature artist’s latest self-portrait](https://www.theguardian.com/artanddesign/2022/feb/21/david-hockney-exhibition-will-feature-artists-latest-self-portrait)
+- [Bernie Madoff’s sister and her husband found dead in apparent murder-suicide](https://www.theguardian.com/us-news/2022/feb/20/bernie-madoff-sister-husband-dead-murder-suicide)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

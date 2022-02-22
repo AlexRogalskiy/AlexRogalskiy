@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
-- [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
-- [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
-- [Imagine if a lemon law penalized schools for rotten educations](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
-- [About adding a static route to my DOCSIS modem](https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/)
-- [Lit-up fishing nets reduce catch of unwanted sharks, rays and squid: study](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
-- [When programming books are wrong](https://www.programmingbooks.dev)
-- [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
-- [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
-- [Node.js Notebooks](https://github.com/DonJayamanne/typescript-notebook)
+- [Show HN: Mappable – raw text to API in 30min](https://mappable.ai/)
+- [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
+- [Industrial Augmented Reality – Who&#39;s Using It?](https://aircada.com/industrial-augmented-reality-who-is-actually-using-it/)
+- [The Price of Nails Since 1695: A Window into Economic Change](https://www.nber.org/papers/w29617)
+- [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
+- [Wallabag: Self-hostable application for saving web pages and articles](https://github.com/wallabag/wallabag)
+- [Coinbase CEO tweets how they came up with Super Bowl ad, lied about it](https://web3isgoinggreat.com/?id=2022-02-21-0)
+- [DYMO&#39;s new label printer uses RFID tags to prevent the use of non-OEM paper](https://appleinsider.com/articles/22/02/21/if-you-thought-printer-cartridge-drm-was-bad-dymo-is-forcing-users-to-buy-rfid-paper)
+- [The Poison Papers: Hidden History of Chemical and Pesticide Hazards in the U.S.](https://www.poisonpapers.org/)
+- [Data races in Python, despite the Global Interpreter Lock](https://verdagon.dev/blog/python-data-races)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

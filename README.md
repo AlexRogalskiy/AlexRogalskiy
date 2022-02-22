@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Salesforce teams with AWS on direct-to-consumer streaming media solution](https://techcrunch.com/2022/02/17/salesforce-teams-with-aws-on-direct-to-consumer-streaming-media-solution/)
-- [Embeddable JavaScript engine Duktape 2.7.0 released](https://duktape.org/download.html)
-- [CodeCrafters: Deep dive projects for curious hackers](https://codecrafters.io)
-- [Ralph Merkle – DOAs, Democracy and Governance &lpar;Draft, Pdf&rpar;](https://merkle.com/papers/DAOdemocracyDraft.pdf)
-- [95%-ile isn&#39;t that good](https://danluu.com/p95-skill/)
-- [Keycloak 17.0.0 with TLS in Docker Compose behind Envoy proxy](https://gruchalski.com/posts/2022-02-20-keycloak-1700-with-tls-behind-envoy/)
-- [Ask HN: Where did you find your technical &lpar;or non-technical&rpar; co-founder?](https://news.ycombinator.com/item?id=30411111)
-- [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
-- [Playing to Win](https://www.alicemaz.com/writing/minecraft.html)
-- [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
+- [How this Startup used partnerships to raise $1M and gain thousands of followers](https://www.intribe.co/blog/how-mosea-utilized-partnerships)
+- [The CDC isn’t publishing large portions of the Covid data it collects](https://www.nytimes.com/2022/02/20/health/the-cdc-isnt-publishing-large-portions-of-the-covid-data-it-collects.html)
+- [Join us to debate about the future of Devise in the Rails 7 ecosystem](https://old.reddit.com/r/rails/comments/sy376j/whats_going_on_with_devise_for_rails_7/)
+- [Dart: Does crashing a spacecraft into an asteroid change its course?](https://www.nasa.gov/planetarydefense/dart/)
+- [Animating Chinese Ink-Wash Paintings](https://animationobsessive.substack.com/p/animating-chinese-ink-wash-paintings)
+- [Mold 1.1 high-speed linker adds support for Link-Time Optimization and RISC-V](https://github.com/rui314/mold/releases/tag/v1.1)
+- [Russian US Power-Grid Hackers](https://www.bloomberg.com/news/features/2022-01-26/what-happens-when-russian-hackers-cyberattack-the-u-s-electric-power-grid)
+- [Tesla investigated over &#39;phantom braking&#39; problem](https://www.bbc.com/news/technology-60432351)
+- [Havana Syndrome: Officials stricken with illness on White House grounds](https://www.cbsnews.com/news/havana-syndrome-white-house-cabinet-60-minutes-2022-02-20/)
+- [TextSnatcher – An Easy to use OCR front end for GNU/Linux](https://github.com/RajSolai/TextSnatcher)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

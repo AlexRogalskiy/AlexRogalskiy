@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.informationweek.com/it-life/hybrid-work-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table)
+- [Zero Trust: Not Just for Government](https://www.informationweek.com/security-and-risk-strategy/zero-trust-not-just-for-government)
+- [What to Consider when Selecting a SASE Provider](https://www.informationweek.com/it-life/what-to-consider-when-selecting-a-sase-provider)
 - [What You Need to Know About AI Ethics](https://www.informationweek.com/big-data/what-you-need-to-know-about-ai-ethics)
 - [Facing Decentralized Finance and Crypto Security Dilemmas](https://www.informationweek.com/fintech/facing-decentralized-finance-and-crypto-security-dilemmas)
 - [The Power of Technology for the Middle Market Sector](https://www.informationweek.com/it-life/the-power-of-technology-for-the-middle-market-sector)
@@ -376,9 +379,6 @@
 - [How IT Can Modernize and Streamline Enterprise Supply Chains](https://www.informationweek.com/big-data/how-it-can-modernize-and-streamline-enterprise-supply-chains)
 - [What Amazon&#39;s Pay Cap Increase Means to the Tech Pro Job Market](https://www.informationweek.com/strategic-cio/what-amazon-s-pay-cap-increase-means-to-the-tech-pro-job-market)
 - [The Benefits of Adopting a Low-Code/No-Code Development Platform](https://www.informationweek.com/software/the-benefits-of-adopting-a-low-code-no-code-development-platform)
-- [IT Teams Must be Ready to Embrace the Unexpected](https://www.informationweek.com/strategic-cio/it-teams-must-be-ready-to-embrace-the-unexpected)
-- [7 IT Infrastructure Skills in High Demand](https://www.informationweek.com/cloud/7-it-infrastructure-skills-in-high-demand)
-- [Neurodiversity Hiring Will be a Competitive Advantage](https://www.informationweek.com/team-building-and-staffing/neurodiversity-hiring-will-be-a-competitive-advantage)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [It’s official, OnwardMobility shuts down; no new BlackBerry coming](https://www.itworldcanada.com/article/its-official-onwardmobility-shuts-down-no-new-blackberry-coming/473985)
+- [Cyber Security Today, Feb. 21, 2022 – Data on Internet Society members exposed, an alert to Linux administrators, Microsoft Teams users get tricked and more](https://www.itworldcanada.com/article/cyber-security-today-feb-21-2022-data-on-internet-society-members-exposed-an-alert-to-linux-administrators-microsoft-teams-users-get-tricked-and-more/473901)
 - [Windows 11 will block WEP and TKIP Wi-Fi connections](https://www.itworldcanada.com/article/windows-11-will-block-wep-and-tkip-wi-fi-connections/473710)
 - [Western University commits $1M to research 5G use cases](https://www.itworldcanada.com/article/western-university-commits-1m-to-research-5g-use-cases/473688)
 - [Cyber Security Today, Feb. 18, 2022 – Crooks using virtual meetings to trick employees, details on a new botnet, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-18-2022-crooks-using-virtual-meetings-to-trick-employees-details-on-a-new-botnet-and-more/473600)
@@ -437,8 +439,6 @@
 - [Consortium gets $80 million to oversee Canadian Cyber Security Innovation Network](https://www.itworldcanada.com/article/consortium-gets-80-million-to-oversee-canadian-cyber-security-innovation-network/473530)
 - [Cyber Security Today, Week in Review for February 18, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-18-2022/473543)
 - [Nailing down costs of some MSSP services can be elusive: Panel](https://www.itworldcanada.com/article/nailing-down-costs-of-some-mssp-services-can-be-elusive-panel/473516)
-- [Hashtag Trending Feb. 17 – ‘Metamates’; Elon Musk’s Neuralink; Kids Online Safety Act](https://www.itworldcanada.com/article/hashtag-trending-feb-17-metamates-elon-musks-neuralink-kids-online-safety-act/473520)
-- [Canada to get its first AWS Local Zones in Toronto and Vancouver](https://www.itworldcanada.com/article/canada-to-get-its-first-aws-local-zones-in-toronto-and-vancouver/473506)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [12 &lpar;additional&rpar; desktop tips to get more from your Mac](https://www.computerworld.com/article/3650752/12-additional-desktop-tips-to-get-more-from-your-mac.html#tk.rss_all)
+- [Apple Reality is getting real](https://www.computerworld.com/article/3650749/apple-reality-is-getting-real.html#tk.rss_all)
 - [iPad Air: Apple&#39;s best all-around tablet is about to get better](https://www.computerworld.com/article/3650491/ipad-air-apples-best-all-around-tablet-is-about-to-get-better.html#tk.rss_all)
 - [Vendor onboarding doesn’t have to be a slog](https://www.computerworld.com/article/3650648/vendor-onboarding-doesn-t-have-to-be-a-slog.html#tk.rss_all)
 - [New VA CIO focuses on digital transformation, EHR changeout](https://www.computerworld.com/article/3650510/new-va-cio-focuses-on-digital-transformation-ehr-changeout.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [Google slowly follows Apple in app-tracking lockdown](https://www.computerworld.com/article/3650651/google-slowly-follows-apple-in-app-tracking-lockdown.html#tk.rss_all)
 - [How the future of work changes the future of business travel](https://www.computerworld.com/article/3650014/how-the-future-of-work-changes-the-future-of-business-travel.html#tk.rss_all)
 - [Diversity in IT: To hire Black tech pros, partnerships are key](https://www.computerworld.com/article/3649757/diversity-in-it-to-hire-black-tech-pros-partnerships-are-key.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Google updates Workspace’s ‘smart canvas,’ shutters Currents](https://www.computerworld.com/article/3650468/google-updates-workspaces-smart-canvas-shutters-currents.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Vercel, Netlify, and the new era of serverless PaaS](https://www.infoworld.com/article/3650751/vercel-netlify-and-the-new-era-of-serverless-paas.html#tk.rss_all)
+- [5 reasons software architects should embrace low code](https://www.infoworld.com/article/3650649/5-reasons-software-architects-should-embrace-low-code.html#tk.rss_all)
+- [TypeScript usage growing by leads and bounds — report](https://www.infoworld.com/article/3650513/typescript-usage-growing-by-leads-and-bounds-report.html#tk.rss_all)
+- [Why open source is essential in a cloud era](https://www.infoworld.com/article/3650473/why-open-source-is-essential-in-a-cloud-era.html#tk.rss_all)
 - [Microsoft .NET 7 zeroes in on containers and cloud](https://www.infoworld.com/article/3650674/microsoft-net-7-zeroes-in-on-containers-and-cloud.html#tk.rss_all)
 - [What is OLTP? The backbone of ecommerce](https://www.infoworld.com/article/3650769/what-is-oltp-the-backbone-of-ecommerce.html#tk.rss_all)
 - [IT spending will be mostly cloud soon. Are you ready?](https://www.infoworld.com/article/3650768/it-spending-will-soon-shift-to-mostly-cloud.html#tk.rss_all)
 - [Rust language is fun but challenging — survey](https://www.infoworld.com/article/3650531/rust-language-is-fun-but-challenging-survey.html#tk.rss_all)
 - [Visual Studio 2022 update improves search, Git integration](https://www.infoworld.com/article/3650530/visual-studio-2022-update-improves-search-git-integration.html#tk.rss_all)
 - [A brief intro to the Pants build system](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html#tk.rss_all)
-- [5 useful features you won’t be seeing in Go](https://www.infoworld.com/article/3650015/5-useful-features-you-wont-be-seeing-in-go.html#tk.rss_all)
-- [Run PHP on .NET with PeachPie](https://www.infoworld.com/article/3649759/run-php-on-net-with-peachpie.html#tk.rss_all)
-- [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_all)
-- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

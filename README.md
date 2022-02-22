@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone feel a little cringe when recruiter say they want to break people into &quot;tech&quot;?](https://www.reddit.com/r/InformationTechnology/comments/sy0ztz/does_anyone_feel_a_little_cringe_when_recruiter/)
+- [Very Funny and Bizarre IT Help Desk Video for your enjoyment](https://www.reddit.com/r/InformationTechnology/comments/sxwuz1/very_funny_and_bizarre_it_help_desk_video_for/)
+- [Need a SQL Vet to Answer This](https://www.reddit.com/r/InformationTechnology/comments/sxujxg/need_a_sql_vet_to_answer_this/)
+- [Confused on TCP vs IP Which is better for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/sxihsn/confused_on_tcp_vs_ip_which_is_better_for_data/)
 - [Do we technically need an internet provider to be able to access the internet and the web?](https://www.reddit.com/r/InformationTechnology/comments/sxi6q0/do_we_technically_need_an_internet_provider_to_be/)
 - [Can we operate the interne and the web t with a power generator/ solar panel in case there is a blackout, tornado, etc?](https://www.reddit.com/r/InformationTechnology/comments/sxi5z0/can_we_operate_the_interne_and_the_web_t_with_a/)
 - [IT jobs in retirement](https://www.reddit.com/r/InformationTechnology/comments/sxgjgc/it_jobs_in_retirement/)
 - [Starting a website](https://www.reddit.com/r/InformationTechnology/comments/sxd9rp/starting_a_website/)
 - [Career change advice](https://www.reddit.com/r/InformationTechnology/comments/sx1k6d/career_change_advice/)
 - [New to the world of Information Technology](https://www.reddit.com/r/InformationTechnology/comments/swtl8b/new_to_the_world_of_information_technology/)
-- [Do y&#39;all as IT professionals keep a logbook?](https://www.reddit.com/r/InformationTechnology/comments/swiwnb/do_yall_as_it_professionals_keep_a_logbook/)
-- [For those working IT for small companies: What percent of your time do you spend working on PDF forms and other tasks?](https://www.reddit.com/r/InformationTechnology/comments/swdxsc/for_those_working_it_for_small_companies_what/)
-- [Information Security Specialist or SysAdmin?](https://www.reddit.com/r/InformationTechnology/comments/sw3smb/information_security_specialist_or_sysadmin/)
-- [Resume for help desk jobs](https://www.reddit.com/r/InformationTechnology/comments/svtic0/resume_for_help_desk_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

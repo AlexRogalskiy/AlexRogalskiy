@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [12 &lpar;additional&rpar; desktop tips to get more from your Mac](https://www.computerworld.com/article/3650752/12-additional-desktop-tips-to-get-more-from-your-mac.html#tk.rss_all)
-- [Apple Reality is getting real](https://www.computerworld.com/article/3650749/apple-reality-is-getting-real.html#tk.rss_all)
-- [iPad Air: Apple&#39;s best all-around tablet is about to get better](https://www.computerworld.com/article/3650491/ipad-air-apples-best-all-around-tablet-is-about-to-get-better.html#tk.rss_all)
-- [Vendor onboarding doesn’t have to be a slog](https://www.computerworld.com/article/3650648/vendor-onboarding-doesn-t-have-to-be-a-slog.html#tk.rss_all)
-- [New VA CIO focuses on digital transformation, EHR changeout](https://www.computerworld.com/article/3650510/new-va-cio-focuses-on-digital-transformation-ehr-changeout.html#tk.rss_all)
-- [5 easy ways to make Android more ergonomic](https://www.computerworld.com/article/3650489/5-easy-ways-to-make-android-more-ergonomic.html#tk.rss_all)
-- [‘Bridge the Gap’ shows where next-gen collaboration systems should go](https://www.computerworld.com/article/3650652/bridge-the-gap-shows-where-next-gen-collaboration-systems-should-go.html#tk.rss_all)
-- [Google slowly follows Apple in app-tracking lockdown](https://www.computerworld.com/article/3650651/google-slowly-follows-apple-in-app-tracking-lockdown.html#tk.rss_all)
-- [How the future of work changes the future of business travel](https://www.computerworld.com/article/3650014/how-the-future-of-work-changes-the-future-of-business-travel.html#tk.rss_all)
-- [Diversity in IT: To hire Black tech pros, partnerships are key](https://www.computerworld.com/article/3649757/diversity-in-it-to-hire-black-tech-pros-partnerships-are-key.html#tk.rss_all)
+- [Slack outage stymies some business users](https://www.computerworld.com/article/3650677/slack-outage-stymies-some-business-users.html#tk.rss_all)
+- [No, Microsoft, don’t require an account to set up Windows 11](https://www.computerworld.com/article/3650755/no-microsoft-dont-require-an-account-to-set-up-windows-11.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple’s new workplace transition isn’t going well](https://www.computerworld.com/article/3650676/apples-new-workplace-transition-isnt-going-well.html#tk.rss_all)
+- [Trello introduces Dashcards to boost portfolio work tracking](https://www.computerworld.com/article/3650536/trello-introduces-dashcards-to-boost-portfolio-work-tracking.html#tk.rss_all)
+- [BrandPost: Human errors cause significant IT security problems for small businesses](https://www.computerworld.com/article/3650538/human-errors-cause-significant-it-security-problems-for-small-businesses.html#tk.rss_all)
+- [Don’t be Coinbase. Don’t crash your site.](https://www.computerworld.com/article/3650471/don-t-be-coinbase-don-t-crash-your-site.html#tk.rss_all)
+- [Why workforce management faces a daunting post-COVID world](https://www.computerworld.com/article/3650490/why-workforce-management-faces-a-daunting-post-covid-world.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

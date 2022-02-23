@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Applications for the fourth round of BC Fast Funding program for SMBs to open soon](https://www.itworldcanada.com/article/applications-for-the-fourth-round-of-bc-fast-funding-program-for-smbs-open-soon/473577)
+- [Canadian, US, UK sanctions may spark retaliatory cyber attacks on Western critical infrastructure](https://www.itworldcanada.com/article/us-uk-sanctions-may-spark-retaliatory-cyber-attacks-on-western-critical-infrastructure/474071)
+- [Unprotected federal agencies leave Canada open to cyber attacks, says Parliamentary committee](https://www.itworldcanada.com/article/unprotected-federal-agencies-leave-canada-open-to-cyber-attacks-says-parliamentary-committee/473982)
+- [Coffee Briefing Feb. 22, 2022 – Global AI talent bursary; SAS Safe Roads competition; Privacy Sandbox on Android; digitizing pharma experiences; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-22-2022-global-ai-talent-bursary-sas-safe-roads-competition-privacy-sandbox-on-android-digitizing-pharma-experiences-and-more/474087)
+- [Use toughest available password protection for Cisco devices, NSA tells admins](https://www.itworldcanada.com/article/use-toughest-available-password-protection-for-cisco-devices-nsa-tells-admins/473676)
+- [Hashtag Trending Feb. 22 – Nvidia spends $10B for semiconductors; White Castle hires robots; NYC wants to slow down delivery times](https://www.itworldcanada.com/article/hashtag-trending-feb-22-nvidia-spends-10b-for-semiconductors-white-castle-hires-robots-nyc-wants-to-slow-down-delivery-times/474042)
 - [It’s official, OnwardMobility shuts down; no new BlackBerry coming](https://www.itworldcanada.com/article/its-official-onwardmobility-shuts-down-no-new-blackberry-coming/473985)
 - [Cyber Security Today, Feb. 21, 2022 – Data on Internet Society members exposed, an alert to Linux administrators, Microsoft Teams users get tricked and more](https://www.itworldcanada.com/article/cyber-security-today-feb-21-2022-data-on-internet-society-members-exposed-an-alert-to-linux-administrators-microsoft-teams-users-get-tricked-and-more/473901)
 - [Windows 11 will block WEP and TKIP Wi-Fi connections](https://www.itworldcanada.com/article/windows-11-will-block-wep-and-tkip-wi-fi-connections/473710)
 - [Western University commits $1M to research 5G use cases](https://www.itworldcanada.com/article/western-university-commits-1m-to-research-5g-use-cases/473688)
-- [Cyber Security Today, Feb. 18, 2022 – Crooks using virtual meetings to trick employees, details on a new botnet, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-18-2022-crooks-using-virtual-meetings-to-trick-employees-details-on-a-new-botnet-and-more/473600)
-- [Hashtag Trending Feb. 18 – Geothermal laser drill; FCC bans exclusive revenue sharing; Amazon and Visa ends feud](https://www.itworldcanada.com/article/hashtag-trending-feb-18-geothermal-laser-drill-fcc-bans-exclusive-revenue-sharing-amazon-and-visa-ends-feud/473594)
-- [Athabasca University partners to launch Canada’s first AI ethics micro-credential](https://www.itworldcanada.com/article/athabasca-university-partners-to-launch-canadas-first-ai-ethics-micro-credential/473554)
-- [Consortium gets $80 million to oversee Canadian Cyber Security Innovation Network](https://www.itworldcanada.com/article/consortium-gets-80-million-to-oversee-canadian-cyber-security-innovation-network/473530)
-- [Cyber Security Today, Week in Review for February 18, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-february-18-2022/473543)
-- [Nailing down costs of some MSSP services can be elusive: Panel](https://www.itworldcanada.com/article/nailing-down-costs-of-some-mssp-services-can-be-elusive-panel/473516)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

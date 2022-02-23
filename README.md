@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Gartner: Public sector must target disjointed IT strategy](https://www.computerweekly.com/news/252513699/Gartner-Public-sector-must-target-disjointed-IT-strategy)
+- [Software AG executives trumpet progress on Helix growth plan](https://www.computerweekly.com/news/252513697/Software-AG-executives-trumpet-progress-on-Helix-growth-plan)
+- [UK organisations swift to chide phishing victims](https://www.computerweekly.com/news/252513683/UK-organisations-swift-to-chide-phishing-victims)
+- [Hammerspace offers follow-the-sun access to on-prem and cloud storage](https://www.computerweekly.com/news/252513684/Hammerspace-offers-follow-the-sun-access-to-on-prem-and-cloud-storage)
+- [Security Think Tank: Good training is all about context](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-training-is-all-about-context)
+- [Think nation-state cyber attacks won’t hit you? Think again…](https://www.computerweekly.com/ezine/Computer-Weekly/Think-nation-state-cyber-attacks-wont-hit-you-Think-again)
 - [Zoom gains NCSC Cyber Essentials Plus and NHS security badges](https://www.computerweekly.com/news/252513658/Zoom-gains-NCSC-Cyber-Essentials-Plus-and-NHS-security-badges)
 - [Union pushes for collective bargaining around technology and data](https://www.computerweekly.com/news/252513651/Union-pushes-for-collective-bargaining-around-technology-and-data)
 - [Computer science degree applications up by 13%](https://www.computerweekly.com/news/252513659/Computer-Science-degree-applications-up-by-13)
 - [RealWear enables remote nuclear reactor inspection](https://www.computerweekly.com/news/252513649/RealWear-enables-remote-nuclear-reactor-inspection)
-- [UK joins US in pinning Ukraine DDoS attacks on Russia](https://www.computerweekly.com/news/252513645/UK-joins-US-in-pinning-Ukraine-DDoS-attacks-on-Russia)
-- [Technology is the key to the door of levelling up the UK](https://www.computerweekly.com/opinion/Technology-is-the-key-to-the-door-of-levelling-up-the-UK)
-- [Website owners urged to adopt ‘eco-standard’ to help cut internet-generated carbon emissions](https://www.computerweekly.com/news/252513643/Website-owners-urged-to-adopt-eco-standard-to-help-cut-internet-generated-carbon-emissions)
-- [Why culture is critical for data integration](https://www.computerweekly.com/opinion/Why-culture-is-critical-to-data-integration)
-- [January 2022 saw low growth in online sales](https://www.computerweekly.com/news/252513606/January-2022-saw-low-growth-in-online-sales)
-- [Lawyers say ‘unprecedented’ secrecy deprived EncroChat defendants of fair trials](https://www.computerweekly.com/news/252513605/Lawyers-say-unprecedented-secrecy-deprived-EncroChat-defendants-of-fair-trials)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

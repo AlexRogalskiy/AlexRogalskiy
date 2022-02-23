@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How this Startup used partnerships to raise $1M and gain thousands of followers](https://www.intribe.co/blog/how-mosea-utilized-partnerships)
-- [The CDC isn’t publishing large portions of the Covid data it collects](https://www.nytimes.com/2022/02/20/health/the-cdc-isnt-publishing-large-portions-of-the-covid-data-it-collects.html)
-- [Join us to debate about the future of Devise in the Rails 7 ecosystem](https://old.reddit.com/r/rails/comments/sy376j/whats_going_on_with_devise_for_rails_7/)
-- [Dart: Does crashing a spacecraft into an asteroid change its course?](https://www.nasa.gov/planetarydefense/dart/)
-- [Animating Chinese Ink-Wash Paintings](https://animationobsessive.substack.com/p/animating-chinese-ink-wash-paintings)
-- [Mold 1.1 high-speed linker adds support for Link-Time Optimization and RISC-V](https://github.com/rui314/mold/releases/tag/v1.1)
-- [Russian US Power-Grid Hackers](https://www.bloomberg.com/news/features/2022-01-26/what-happens-when-russian-hackers-cyberattack-the-u-s-electric-power-grid)
-- [Tesla investigated over &#39;phantom braking&#39; problem](https://www.bbc.com/news/technology-60432351)
-- [Havana Syndrome: Officials stricken with illness on White House grounds](https://www.cbsnews.com/news/havana-syndrome-white-house-cabinet-60-minutes-2022-02-20/)
-- [TextSnatcher – An Easy to use OCR front end for GNU/Linux](https://github.com/RajSolai/TextSnatcher)
+- [Building a Marketing Engineering Platform Using Nextjs, Cloudflare, Contentful](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
+- [Ask HN: Founder Visas for Australia](https://news.ycombinator.com/item?id=30436836)
+- [Supporting conflict-free tungsten in Rwanda &lpar;2016&rpar;](https://www.fairphone.com/en/2016/01/13/supporting-conflict-free-tungsten-in-rwanda/)
+- [GitHub&#39;s database of known vulnerabilities is now open source](https://github.com/github/advisory-database)
+- [There are neurons in the brain that only seem to respond to singing](https://www.newscientist.com/article/2309238-there-are-neurons-in-the-brain-that-only-seem-to-respond-to-singing/)
+- [Plugins in Rust: Getting Our Hands Dirty](https://nullderef.com/blog/plugin-impl/)
+- [Are NFTs a ‘Poverty Trap’?](https://www.vice.com/en/article/m7v5qq/meet-the-guy-who-went-viral-on-youtube-for-explaining-how-nfts-crypto-are-a-poverty-trap)
+- [Ukraine prepares to remove data from Russia’s reach](https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777)
+- [WipeClean](https://github.com/JeanJouliaCode/wipeClean)
+- [Clean Your Terminal with a Squeegee](https://old.reddit.com/r/ProgrammerHumor/comments/sz0enz/i_made_a_node_package_to_clean_your_terminal_with/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

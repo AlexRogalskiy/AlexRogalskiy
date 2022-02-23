@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Places Remote Workers Are Moving](https://www.informationweek.com/it-life/10-places-remote-workers-are-moving)
+- [What’s the Secret to Retaining Tech Talent?](https://www.informationweek.com/team-building-and-staffing/what-s-the-secret-to-retaining-tech-talent-)
 - [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.informationweek.com/it-life/hybrid-work-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table)
 - [Zero Trust: Not Just for Government](https://www.informationweek.com/security-and-risk-strategy/zero-trust-not-just-for-government)
 - [What to Consider when Selecting a SASE Provider](https://www.informationweek.com/it-life/what-to-consider-when-selecting-a-sase-provider)
@@ -377,8 +379,6 @@
 - [The Power of Technology for the Middle Market Sector](https://www.informationweek.com/it-life/the-power-of-technology-for-the-middle-market-sector)
 - [What Happens If Tech ‘Thought Leaders’ Have No Clothes?](https://www.informationweek.com/executive-insights-and-innovation/opinion-what-happens-if-tech-leaders-have-no-clothes-)
 - [How IT Can Modernize and Streamline Enterprise Supply Chains](https://www.informationweek.com/big-data/how-it-can-modernize-and-streamline-enterprise-supply-chains)
-- [What Amazon&#39;s Pay Cap Increase Means to the Tech Pro Job Market](https://www.informationweek.com/strategic-cio/what-amazon-s-pay-cap-increase-means-to-the-tech-pro-job-market)
-- [The Benefits of Adopting a Low-Code/No-Code Development Platform](https://www.informationweek.com/software/the-benefits-of-adopting-a-low-code-no-code-development-platform)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

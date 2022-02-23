@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Go to college for It or Get certifications?](https://www.reddit.com/r/InformationTechnology/comments/sz27j9/go_to_college_for_it_or_get_certifications/)
+- [Getting internet to the back of my property](https://www.reddit.com/r/InformationTechnology/comments/syxrd4/getting_internet_to_the_back_of_my_property/)
+- [weird request](https://www.reddit.com/r/InformationTechnology/comments/sytp1v/weird_request/)
+- [How high would a building have to be to give you satisfactory retribution when you chuck that POS hardware you have to use every day over the side?](https://www.reddit.com/r/InformationTechnology/comments/sysqxt/how_high_would_a_building_have_to_be_to_give_you/)
+- [Serious burnout](https://www.reddit.com/r/InformationTechnology/comments/sysbia/serious_burnout/)
+- [Having this error when trying to open a .exe file in a share drive....](https://www.reddit.com/r/InformationTechnology/comments/syrw1o/having_this_error_when_trying_to_open_a_exe_file/)
 - [Does anyone feel a little cringe when recruiter say they want to break people into &quot;tech&quot;?](https://www.reddit.com/r/InformationTechnology/comments/sy0ztz/does_anyone_feel_a_little_cringe_when_recruiter/)
 - [Very Funny and Bizarre IT Help Desk Video for your enjoyment](https://www.reddit.com/r/InformationTechnology/comments/sxwuz1/very_funny_and_bizarre_it_help_desk_video_for/)
 - [Need a SQL Vet to Answer This](https://www.reddit.com/r/InformationTechnology/comments/sxujxg/need_a_sql_vet_to_answer_this/)
 - [Confused on TCP vs IP Which is better for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/sxihsn/confused_on_tcp_vs_ip_which_is_better_for_data/)
-- [Do we technically need an internet provider to be able to access the internet and the web?](https://www.reddit.com/r/InformationTechnology/comments/sxi6q0/do_we_technically_need_an_internet_provider_to_be/)
-- [Can we operate the interne and the web t with a power generator/ solar panel in case there is a blackout, tornado, etc?](https://www.reddit.com/r/InformationTechnology/comments/sxi5z0/can_we_operate_the_interne_and_the_web_t_with_a/)
-- [IT jobs in retirement](https://www.reddit.com/r/InformationTechnology/comments/sxgjgc/it_jobs_in_retirement/)
-- [Starting a website](https://www.reddit.com/r/InformationTechnology/comments/sxd9rp/starting_a_website/)
-- [Career change advice](https://www.reddit.com/r/InformationTechnology/comments/sx1k6d/career_change_advice/)
-- [New to the world of Information Technology](https://www.reddit.com/r/InformationTechnology/comments/swtl8b/new_to_the_world_of_information_technology/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

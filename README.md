@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Go 1.18 adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-118-adds-much-anticipated-generics.html#tk.rss_all)
+- [Deno 1.19 extends web streams support](https://www.infoworld.com/article/3651188/deno-119-extends-web-streams-support.html#tk.rss_all)
+- [How to protect your Kubernetes infrastructure from the Argo CD vulnerability](https://www.infoworld.com/article/3650659/how-to-protect-your-kubernetes-infrastructure-from-the-argo-cd-vulnerability.html#tk.rss_all)
+- [Getting started with Avalonia UI](https://www.infoworld.com/article/3650477/getting-started-with-avalonia-ui.html#tk.rss_all)
+- [How to choose a streaming data platform](https://www.infoworld.com/article/3648058/how-to-choose-a-streaming-data-platform.html#tk.rss_all)
 - [Slack outage stymies some business users](https://www.computerworld.com/article/3650677/slack-outage-stymies-some-business-users.html#tk.rss_all)
 - [The lowdown on low code and no code in the cloud](https://www.infoworld.com/article/3650475/the-lowdown-on-low-code-and-no-code-in-the-cloud.html#tk.rss_all)
 - [Building and running microservices at scale: A CTO’s view](https://www.infoworld.com/article/3648054/building-and-running-microservices-at-scale-a-ctos-view.html#tk.rss_all)
 - [Vercel, Netlify, and the new era of serverless PaaS](https://www.infoworld.com/article/3650751/vercel-netlify-and-the-new-era-of-serverless-paas.html#tk.rss_all)
 - [5 reasons software architects should embrace low code](https://www.infoworld.com/article/3650649/5-reasons-software-architects-should-embrace-low-code.html#tk.rss_all)
-- [TypeScript usage growing by leaps and bounds — report](https://www.infoworld.com/article/3650513/typescript-usage-growing-by-leaps-and-bounds-report.html#tk.rss_all)
-- [Why open source is essential in a cloud era](https://www.infoworld.com/article/3650473/why-open-source-is-essential-in-a-cloud-era.html#tk.rss_all)
-- [Microsoft .NET 7 zeroes in on containers and cloud](https://www.infoworld.com/article/3650674/microsoft-net-7-zeroes-in-on-containers-and-cloud.html#tk.rss_all)
-- [What is OLTP? The backbone of ecommerce](https://www.infoworld.com/article/3650769/what-is-oltp-the-backbone-of-ecommerce.html#tk.rss_all)
-- [IT spending will be mostly cloud soon. Are you ready?](https://www.infoworld.com/article/3650768/it-spending-will-soon-shift-to-mostly-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

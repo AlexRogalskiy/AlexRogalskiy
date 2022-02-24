@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Two IP Addresses?](https://www.reddit.com/r/InformationTechnology/comments/szwcwb/two_ip_addresses/)
+- [Any video source to supplement the course 2 week of Google Technical Support Fundamentals Course](https://www.reddit.com/r/InformationTechnology/comments/szu1fz/any_video_source_to_supplement_the_course_2_week/)
+- [2FA at workstation level but no phone or cell phone allowed](https://www.reddit.com/r/InformationTechnology/comments/szq664/2fa_at_workstation_level_but_no_phone_or_cell/)
+- [Company Does Not Require iPhone Back, Any Way Of Converting It To Personal?](https://www.reddit.com/r/InformationTechnology/comments/szl2me/company_does_not_require_iphone_back_any_way_of/)
+- [New to IT](https://www.reddit.com/r/InformationTechnology/comments/szl248/new_to_it/)
+- [Moving fileshares to cloud](https://www.reddit.com/r/InformationTechnology/comments/szjhy6/moving_fileshares_to_cloud/)
+- [How to Choose the Right Business Intelligence Tool - Checklist](https://www.reddit.com/r/InformationTechnology/comments/szg3nn/how_to_choose_the_right_business_intelligence/)
 - [Go to college for It or Get certifications?](https://www.reddit.com/r/InformationTechnology/comments/sz27j9/go_to_college_for_it_or_get_certifications/)
 - [Getting internet to the back of my property](https://www.reddit.com/r/InformationTechnology/comments/syxrd4/getting_internet_to_the_back_of_my_property/)
 - [weird request](https://www.reddit.com/r/InformationTechnology/comments/sytp1v/weird_request/)
-- [How high would a building have to be to give you satisfactory retribution when you chuck that POS hardware you have to use every day over the side?](https://www.reddit.com/r/InformationTechnology/comments/sysqxt/how_high_would_a_building_have_to_be_to_give_you/)
-- [Serious burnout](https://www.reddit.com/r/InformationTechnology/comments/sysbia/serious_burnout/)
-- [Having this error when trying to open a .exe file in a share drive....](https://www.reddit.com/r/InformationTechnology/comments/syrw1o/having_this_error_when_trying_to_open_a_exe_file/)
-- [Does anyone feel a little cringe when recruiter say they want to break people into &quot;tech&quot;?](https://www.reddit.com/r/InformationTechnology/comments/sy0ztz/does_anyone_feel_a_little_cringe_when_recruiter/)
-- [Very Funny and Bizarre IT Help Desk Video for your enjoyment](https://www.reddit.com/r/InformationTechnology/comments/sxwuz1/very_funny_and_bizarre_it_help_desk_video_for/)
-- [Need a SQL Vet to Answer This](https://www.reddit.com/r/InformationTechnology/comments/sxujxg/need_a_sql_vet_to_answer_this/)
-- [Confused on TCP vs IP Which is better for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/sxihsn/confused_on_tcp_vs_ip_which_is_better_for_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

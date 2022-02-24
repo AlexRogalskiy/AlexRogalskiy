@@ -429,6 +429,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Manufacturing was most attacked sector in Canada in 2021: IBM](https://www.itworldcanada.com/article/manufacturing-was-most-attacked-sector-in-canada-in-2021-ibm/474271)
+- [Cyber Security Today, Feb. 23, 2022 – Warning to SQL Server admins, logistics company hit by cyber attack and more](https://www.itworldcanada.com/article/cyber-security-today-feb-23-2022-warning-to-sql-server-admins-logistics-company-hit-by-cyber-attack-and-more/474190)
+- [Hashtag Trending Feb. 23 – TikTok’s privacy issues; Apple faces fines; taking U.S. tech giants to court?](https://www.itworldcanada.com/article/hashtag-trending-feb-23-tiktoks-privacy-issues-apple-faces-fines-taking-u-s-tech-giants-to-court/474244)
 - [Applications for the fourth round of BC Fast Funding program for SMBs to open soon](https://www.itworldcanada.com/article/applications-for-the-fourth-round-of-bc-fast-funding-program-for-smbs-open-soon/473577)
 - [Canadian, US, UK sanctions may spark retaliatory cyber attacks on Western critical infrastructure](https://www.itworldcanada.com/article/us-uk-sanctions-may-spark-retaliatory-cyber-attacks-on-western-critical-infrastructure/474071)
 - [Unprotected federal agencies leave Canada open to cyber attacks, says Parliamentary committee](https://www.itworldcanada.com/article/unprotected-federal-agencies-leave-canada-open-to-cyber-attacks-says-parliamentary-committee/473982)
@@ -436,9 +439,6 @@
 - [Use toughest available password protection for Cisco devices, NSA tells admins](https://www.itworldcanada.com/article/use-toughest-available-password-protection-for-cisco-devices-nsa-tells-admins/473676)
 - [Hashtag Trending Feb. 22 – Nvidia spends $10B for semiconductors; White Castle hires robots; NYC wants to slow down delivery times](https://www.itworldcanada.com/article/hashtag-trending-feb-22-nvidia-spends-10b-for-semiconductors-white-castle-hires-robots-nyc-wants-to-slow-down-delivery-times/474042)
 - [It’s official, OnwardMobility shuts down; no new BlackBerry coming](https://www.itworldcanada.com/article/its-official-onwardmobility-shuts-down-no-new-blackberry-coming/473985)
-- [Cyber Security Today, Feb. 21, 2022 – Data on Internet Society members exposed, an alert to Linux administrators, Microsoft Teams users get tricked and more](https://www.itworldcanada.com/article/cyber-security-today-feb-21-2022-data-on-internet-society-members-exposed-an-alert-to-linux-administrators-microsoft-teams-users-get-tricked-and-more/473901)
-- [Windows 11 will block WEP and TKIP Wi-Fi connections](https://www.itworldcanada.com/article/windows-11-will-block-wep-and-tkip-wi-fi-connections/473710)
-- [Western University commits $1M to research 5G use cases](https://www.itworldcanada.com/article/western-university-commits-1m-to-research-5g-use-cases/473688)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

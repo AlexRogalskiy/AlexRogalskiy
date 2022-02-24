@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
-- [Google leaves TODO message at the top of basic HTML homepage](https://news.ycombinator.com/item?id=30436450)
-- [Ask HN: Why don&#39;t more software projects use BitTorrent for downloads?](https://news.ycombinator.com/item?id=30436367)
-- [GitBOM](https://gitbom.dev/)
-- [Moral injury can occur in many contexts and populations, including the workplace](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/promoted/jobs/iLZ8H9O-software-engineer-continuous-deployment)
-- [Wordle is pretty damn smart in many subtle ways](https://vaghetti.dev/posts/wordle/)
-- [Avoiding the top Nginx configuration mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-- [In our cashless society, we need to take digital jail seriously](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/)
-- [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal](https://nod.ai/pytorch-m1-max-gpu/)
+- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=30448991)
+- [We are hiring contract developers to build new features in PyPI](https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html)
+- [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
+- [Cloudflare to acquire Area 1 Security for $162M](https://blog.cloudflare.com/why-we-are-acquiring-area-1/)
+- [Ledit: Simple, GPU-rendered, no bullshit text editor](https://github.com/liz3/ledit)
+- [Dwarf Fortress Steam Updates – Release Roadmap](https://store.steampowered.com/news/app/975370/view/3099043827445055732)
+- [Show HN: I Designed and Built an eBike](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136)
+- [sqlite-utils - CLI &amp; Python utility functions for manipulating SQLite databases](https://sqlite-utils.datasette.io/en/stable/index.html)
+- [The prospects for 128 bit processors &lpar;1995&rpar;](https://yarchive.net/comp/128bit.html)
+- [The Rain System  “contains wildfires within 10 minutes of ignition”](https://www.rain.aero/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

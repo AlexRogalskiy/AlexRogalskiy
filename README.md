@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Customers Deserve Great Experiences … and So Do Your Agents](https://www.informationweek.com/strategic-cio/customers-deserve-great-experiences-and-so-do-your-agents)
+- [Cyber Insurance&#39;s Battle With Cyberwarfare: An IW Special Report](https://www.informationweek.com/security-and-risk-strategy/cyber-insurance-s-battle-with-cyberwarfare-an-iw-special-report)
+- [How to Keep IT Team Members From Quitting in a Tight Employment Market](https://www.informationweek.com/strategic-cio/how-to-keep-it-team-members-from-quitting-in-a-tight-employment-market)
 - [10 Places Remote Workers Are Moving](https://www.informationweek.com/it-life/10-places-remote-workers-are-moving)
 - [What’s the Secret to Retaining Tech Talent?](https://www.informationweek.com/team-building-and-staffing/what-s-the-secret-to-retaining-tech-talent-)
 - [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.informationweek.com/it-life/hybrid-work-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table)
@@ -376,9 +379,6 @@
 - [What to Consider when Selecting a SASE Provider](https://www.informationweek.com/it-life/what-to-consider-when-selecting-a-sase-provider)
 - [What You Need to Know About AI Ethics](https://www.informationweek.com/big-data/what-you-need-to-know-about-ai-ethics)
 - [Facing Decentralized Finance and Crypto Security Dilemmas](https://www.informationweek.com/fintech/facing-decentralized-finance-and-crypto-security-dilemmas)
-- [The Power of Technology for the Middle Market Sector](https://www.informationweek.com/it-life/the-power-of-technology-for-the-middle-market-sector)
-- [What Happens If Tech ‘Thought Leaders’ Have No Clothes?](https://www.informationweek.com/executive-insights-and-innovation/opinion-what-happens-if-tech-leaders-have-no-clothes-)
-- [How IT Can Modernize and Streamline Enterprise Supply Chains](https://www.informationweek.com/big-data/how-it-can-modernize-and-streamline-enterprise-supply-chains)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

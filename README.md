@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Gartner: Public sector must target disjointed IT strategy](https://www.computerweekly.com/news/252513699/Gartner-Public-sector-must-target-disjointed-IT-strategy)
-- [Software AG executives trumpet progress on Helix growth plan](https://www.computerweekly.com/news/252513697/Software-AG-executives-trumpet-progress-on-Helix-growth-plan)
-- [UK organisations swift to chide phishing victims](https://www.computerweekly.com/news/252513683/UK-organisations-swift-to-chide-phishing-victims)
-- [Hammerspace offers follow-the-sun access to on-prem and cloud storage](https://www.computerweekly.com/news/252513684/Hammerspace-offers-follow-the-sun-access-to-on-prem-and-cloud-storage)
-- [Security Think Tank: Good training is all about context](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-training-is-all-about-context)
-- [Think nation-state cyber attacks won’t hit you? Think again…](https://www.computerweekly.com/ezine/Computer-Weekly/Think-nation-state-cyber-attacks-wont-hit-you-Think-again)
-- [Zoom gains NCSC Cyber Essentials Plus and NHS security badges](https://www.computerweekly.com/news/252513658/Zoom-gains-NCSC-Cyber-Essentials-Plus-and-NHS-security-badges)
-- [Union pushes for collective bargaining around technology and data](https://www.computerweekly.com/news/252513651/Union-pushes-for-collective-bargaining-around-technology-and-data)
-- [Computer science degree applications up by 13%](https://www.computerweekly.com/news/252513659/Computer-Science-degree-applications-up-by-13)
-- [RealWear enables remote nuclear reactor inspection](https://www.computerweekly.com/news/252513649/RealWear-enables-remote-nuclear-reactor-inspection)
+- [Paid-for advertising still not covered in Online Safety Bill](https://www.computerweekly.com/news/252513731/Paid-for-advertising-still-not-covered-in-Online-Safety-Bill)
+- [European Commission opens path to a Data Act to stoke digital economy](https://www.computerweekly.com/news/252513743/European-Commission-opens-path-to-a-Data-Act-to-stoke-digital-economy)
+- [Salesforce pays out over £2m in bug bounties](https://www.computerweekly.com/news/252513721/Salesforce-pays-out-over-2m-in-bug-bounties)
+- [DCMS launches free cyber skills platform for kids](https://www.computerweekly.com/news/252513740/DCMS-launches-free-cyber-skills-platform-for-kids)
+- [Backups ‘no longer effective’ for stopping ransomware attacks](https://www.computerweekly.com/news/252513735/Backups-no-longer-effective-for-stopping-ransomware-attacks)
+- [Microsoft extends Defender umbrella to Google Cloud Platform](https://www.computerweekly.com/news/252513685/Microsoft-extends-Defender-umbrella-to-Google-Cloud-Platform)
+- [Police forces ‘must’ do data protection due diligence checks before using PDS-backed AWS cloud](https://www.computerweekly.com/news/252513730/Police-forces-urged-to-do-data-protection-due-diligence-checks-before-using-PDS-backed-AWS-cloud)
+- [No imminent cyber threat to UK from Russia](https://www.computerweekly.com/news/252513732/No-imminent-cyber-threat-to-UK-from-Russia)
+- [IT leaders primed to drive innovation and hybrid work](https://www.computerweekly.com/news/252513728/IT-leaders-primed-to-drive-innovation-and-hybrid-work)
+- [Gartner: How to overcome a lack of cloud skills in your organisation](https://www.computerweekly.com/opinion/Gartner-How-to-overcome-a-lack-of-cloud-skills-in-your-organisation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

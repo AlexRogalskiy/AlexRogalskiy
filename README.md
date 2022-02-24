@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine crisis live news: Blinken cancels Lavrov meeting as west’s sanctions target Russian economy](https://www.theguardian.com/world/live/2022/feb/22/ukraine-russia-latest-live-news-updates-crisis-putin-biden-zelenskiy-kyiv-kiev-russian-invasion-border-threat)
-- [China’s dating shows for over-65s challenge taboos about older people and sex](https://www.theguardian.com/world/2022/feb/23/chinas-dating-shows-for-over-65s-challenge-taboos-about-older-people-and-sex)
-- [Biden’s Russia sanctions: why holding back could be part of his strategy](https://www.theguardian.com/us-news/2022/feb/22/joe-biden-russia-first-sanctions-ukraine-analysis)
-- [Children ‘breathe out fewer aerosols’, which may reduce Covid risk – study](https://www.theguardian.com/world/2022/feb/23/children-breathe-out-fewer-aerosols-which-may-reduce-covid-risk-study)
-- [UK lost up to £16bn due to fraud and error in Covid loans schemes](https://www.theguardian.com/world/2022/feb/23/uk-lost-up-to-16bn-due-to-and-error-in-covid-loans-schemes)
-- [Netflix offers £1.5m budget in search for new UK film-makers](https://www.theguardian.com/film/2022/feb/23/netflix-breakout-search-for-new-uk-film-makers)
-- [‘Aggressive’ marketing of formula milk flouts code, warns WHO as it urges curbs](https://www.theguardian.com/global-development/2022/feb/22/aggressive-marketing-formula-milk-flouts-code-warns-who-tobacco-plain-packaging)
-- [New York Fashion Week: inclusivity centre stage at raw and diverse Telfar Clemens show](https://www.theguardian.com/fashion/2022/feb/23/new-york-fashion-week-inclusivity-centre-stage-at-raw-and-diverse-telfar-clemens-show)
-- [Phil Mickelson apologises for ‘reckless’ comments over Saudi-backed tour](https://www.theguardian.com/sport/2022/feb/22/phil-mickelson-apologises-for-reckless-comments-over-saudi-backed-tour)
-- [Amsterdam: gunman overpowered and all hostages free after Apple store siege – police](https://www.theguardian.com/world/2022/feb/22/amsterdam-hostages-apple-store)
+- [Ukraine president vows to defend country as Russia says separatists ‘ask for military help’](https://www.theguardian.com/world/2022/feb/23/ukraine-urges-its-citizens-to-leave-russia-immediately)
+- [Vegetarians have 14% lower cancer risk than meat-eaters, study finds](https://www.theguardian.com/lifeandstyle/2022/feb/24/vegetarians-have-14-lower-cancer-risk-than-meat-eaters-study-finds)
+- [Ronson Chan: the former Hong Kong editor who is now a delivery driver](https://www.theguardian.com/world/2022/feb/24/ronson-chan-the-former-hong-kong-editor-who-is-now-a-delivery-driver)
+- [From tuna fishing to teen love: the producer behind K-pop’s biggest stars](https://www.theguardian.com/world/2022/feb/24/bumzu-producer-behind-k-pops-biggest-stars-south-korea)
+- [Amsterdam Apple store gunman dies of injuries](https://www.theguardian.com/world/2022/feb/23/amsterdam-hostage-who-helped-end-siege-praised-for-bravery)
+- [Students in England to pay back loans over 40 years instead of 30](https://www.theguardian.com/money/2022/feb/24/students-in-england-to-pay-back-loans-over-40-years-instead-of-30)
+- [Ikea opens first city centre shopping mall in west London](https://www.theguardian.com/business/2022/feb/24/ikea-opens-first-city-centre-shopping-mall-in-west-london)
+- [‘I creak quite a lot’: Jason Kenny calls time on record-breaking cycling career](https://www.theguardian.com/sport/2022/feb/24/jason-kenny-calls-time-on-his-record-breaking-cycling-career)
+- [Plastic packaging increases fresh food waste, study finds](https://www.theguardian.com/environment/2022/feb/24/plastic-packaging-increases-fresh-food-waste-study-finds)
+- [‘Maybe I’m not so good’: Conte questions Tottenham future after Burnley loss](https://www.theguardian.com/football/2022/feb/23/maybe-im-not-so-good-conte-questions-tottenham-future-after-burnley-loss)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

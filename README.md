@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building a Marketing Engineering Platform Using Nextjs, Cloudflare, Contentful](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
-- [Ask HN: Founder Visas for Australia](https://news.ycombinator.com/item?id=30436836)
-- [Supporting conflict-free tungsten in Rwanda &lpar;2016&rpar;](https://www.fairphone.com/en/2016/01/13/supporting-conflict-free-tungsten-in-rwanda/)
-- [GitHub&#39;s database of known vulnerabilities is now open source](https://github.com/github/advisory-database)
-- [There are neurons in the brain that only seem to respond to singing](https://www.newscientist.com/article/2309238-there-are-neurons-in-the-brain-that-only-seem-to-respond-to-singing/)
-- [Plugins in Rust: Getting Our Hands Dirty](https://nullderef.com/blog/plugin-impl/)
-- [Are NFTs a ‘Poverty Trap’?](https://www.vice.com/en/article/m7v5qq/meet-the-guy-who-went-viral-on-youtube-for-explaining-how-nfts-crypto-are-a-poverty-trap)
-- [Ukraine prepares to remove data from Russia’s reach](https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777)
-- [WipeClean](https://github.com/JeanJouliaCode/wipeClean)
-- [Clean Your Terminal with a Squeegee](https://old.reddit.com/r/ProgrammerHumor/comments/sz0enz/i_made_a_node_package_to_clean_your_terminal_with/)
+- [The Lab Where Intel Tries to Hack Its Own Chips](https://www.wired.com/story/intel-lab-istare-hack-chips/)
+- [Community log of Emergency Action Messages &lpar;radio&rpar; sent via HFGCS](https://eam.watch/)
+- [Why investors including YC can’t fix your company [video]](https://www.youtube.com/watch?v=UqKzpLqXuI0)
+- [The Friendship of Respeecher and OVON Gives Way to an Industry Ethical Standards](https://www.respeecher.com/blog/friendship-respeecher-open-voice-network-industry-ethical-standards-synthesized-voice-technology)
+- [Show HN: Logidiff – determine if two or more logical statements are equivalent](https://blog.eowyn.net/logidiff/)
+- [Book a call with a top business mentor](https://mentordial.com)
+- [CompuServe &lpar;1989&rpar; [video]](https://www.youtube.com/watch?v=YfUyR1wlcus)
+- [Personal link shortener using free plans on Airtable, Cloudflare, &amp; GitHub](https://github.com/adamjgrant/link-shortener/blob/main/README.md)
+- [Akiflow – Centralize Your Schedule](https://akiflow.com/)
+- [Top senator warns Putin cyberattacks could trigger bigger war](https://www.axios.com/mark-warner-putin-cyber-attacks-ukraine-40c5e959-5093-4d79-bf24-8d4731edb293.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

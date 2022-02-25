@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Lab Where Intel Tries to Hack Its Own Chips](https://www.wired.com/story/intel-lab-istare-hack-chips/)
-- [Community log of Emergency Action Messages &lpar;radio&rpar; sent via HFGCS](https://eam.watch/)
-- [Why investors including YC can’t fix your company [video]](https://www.youtube.com/watch?v=UqKzpLqXuI0)
-- [The Friendship of Respeecher and OVON Gives Way to an Industry Ethical Standards](https://www.respeecher.com/blog/friendship-respeecher-open-voice-network-industry-ethical-standards-synthesized-voice-technology)
-- [Show HN: Logidiff – determine if two or more logical statements are equivalent](https://blog.eowyn.net/logidiff/)
-- [Book a call with a top business mentor](https://mentordial.com)
-- [CompuServe &lpar;1989&rpar; [video]](https://www.youtube.com/watch?v=YfUyR1wlcus)
-- [Personal link shortener using free plans on Airtable, Cloudflare, &amp; GitHub](https://github.com/adamjgrant/link-shortener/blob/main/README.md)
-- [Akiflow – Centralize Your Schedule](https://akiflow.com/)
-- [Top senator warns Putin cyberattacks could trigger bigger war](https://www.axios.com/mark-warner-putin-cyber-attacks-ukraine-40c5e959-5093-4d79-bf24-8d4731edb293.html)
+- [In California, the Search for the Ultimate Wild Fig Heats Up](https://www.smithsonianmag.com/science-nature/california-search-for-ultimate-wild-fig-heats-up-180979538/)
+- [We can undermine Putin by stealing his technical talent](https://www.nationalreview.com/2022/02/drain-putins-brains/)
+- [How to Ask Questions of Experts to Gain More Than Just Answers &lpar;2017&rpar;](https://josh.works/better-questions)
+- [The Battle of Snake Island](https://en.wikipedia.org/wiki/Battle_of_Snake_Island)
+- [Otto Skorzeny](https://en.wikipedia.org/wiki/Otto_Skorzeny)
+- [AI, and the Real Capacity Crisis in Chip Design](https://www.eetimes.com/ai-and-the-real-capacity-crisis-in-chip-design/)
+- [A new LaTeX template for bar/restaurant menus](https://latextemplates.com/template/ryo-menu)
+- [Stratechery Interview with Pat Gelsinger](https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/)
+- [Show HN: Inferrd – open-source ML Deployment](https://github.com/inferrd/inferrd)
+- [PyTorch Distributed Evaluation](https://leimao.github.io/blog/PyTorch-Distributed-Evaluation/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

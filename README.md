@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine president vows to defend country as Russia says separatists ‘ask for military help’](https://www.theguardian.com/world/2022/feb/23/ukraine-urges-its-citizens-to-leave-russia-immediately)
-- [Vegetarians have 14% lower cancer risk than meat-eaters, study finds](https://www.theguardian.com/lifeandstyle/2022/feb/24/vegetarians-have-14-lower-cancer-risk-than-meat-eaters-study-finds)
-- [Ronson Chan: the former Hong Kong editor who is now a delivery driver](https://www.theguardian.com/world/2022/feb/24/ronson-chan-the-former-hong-kong-editor-who-is-now-a-delivery-driver)
-- [From tuna fishing to teen love: the producer behind K-pop’s biggest stars](https://www.theguardian.com/world/2022/feb/24/bumzu-producer-behind-k-pops-biggest-stars-south-korea)
-- [Amsterdam Apple store gunman dies of injuries](https://www.theguardian.com/world/2022/feb/23/amsterdam-hostage-who-helped-end-siege-praised-for-bravery)
-- [Students in England to pay back loans over 40 years instead of 30](https://www.theguardian.com/money/2022/feb/24/students-in-england-to-pay-back-loans-over-40-years-instead-of-30)
-- [Ikea opens first city centre shopping mall in west London](https://www.theguardian.com/business/2022/feb/24/ikea-opens-first-city-centre-shopping-mall-in-west-london)
-- [‘I creak quite a lot’: Jason Kenny calls time on record-breaking cycling career](https://www.theguardian.com/sport/2022/feb/24/jason-kenny-calls-time-on-his-record-breaking-cycling-career)
-- [Plastic packaging increases fresh food waste, study finds](https://www.theguardian.com/environment/2022/feb/24/plastic-packaging-increases-fresh-food-waste-study-finds)
-- [‘Maybe I’m not so good’: Conte questions Tottenham future after Burnley loss](https://www.theguardian.com/football/2022/feb/23/maybe-im-not-so-good-conte-questions-tottenham-future-after-burnley-loss)
+- [Russia-Ukraine latest news: Zelenskiy vows to stay in Kyiv despite fears of attack on capital – live updates](https://www.theguardian.com/world/live/2022/feb/24/russia-invades-ukraine-declares-war-latest-news-live-updates-russian-invasion-vladimir-putin-explosions-bombing-kyiv-kharkiv)
+- [Ukrainian government calls on hackers to help defend against Russia](https://www.theguardian.com/world/2022/feb/24/ukraine-hackers-defend-against-russia)
+- [‘Her blood … his hands’: what the papers say about Russia’s invasion of Ukraine](https://www.theguardian.com/media/2022/feb/25/her-blood-his-hands-what-the-papers-say-about-russias-invasion-of-ukraine)
+- [Life-threatening floods forecast for Queensland as Sydney records wettest summer in 30 years](https://www.theguardian.com/australia-news/2022/feb/25/sydney-records-wettest-summer-in-30-years-with-nsw-and-queensland-facing-further-torrential-rain)
+- [UK social media users could get power to block unverified accounts](https://www.theguardian.com/media/2022/feb/25/uk-social-media-users-could-get-power-to-block-unverified-accounts)
+- [Central Cee: 23 review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2022/feb/25/central-cee-23-review-london-rapper-debut)
+- [Rape victims ‘systematically failed’ in England and Wales, report finds](https://www.theguardian.com/society/2022/feb/25/victims-systematically-failed-in-england-and-wales-report-finds)
+- [England’s Covid vaccine drive good value for money at £8.3bn, says NAO](https://www.theguardian.com/world/2022/feb/25/england-covid-vaccine-drive-good-value-for-money-pounds-83bn-nao-spending-watchdog)
+- [Premier League and Carabao Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/feb/25/premier-league-and-carabao-cup-final-10-things-to-look-out-for-this-weekend)
+- [The Collaboration review – Warhol and Basquiat mix paint and trade blows](https://www.theguardian.com/stage/2022/feb/25/the-collaboration-review-young-vic-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

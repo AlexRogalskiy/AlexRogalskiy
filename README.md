@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Rust 1.59](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Microsoft unveils C# 11 list patterns, raw string literals](https://www.infoworld.com/article/3651509/microsoft-unveils-c-11-list-patterns-raw-string-literals.html#tk.rss_all)
+- [Implement authorization for Swagger in ASP.NET Core 6](https://www.infoworld.com/article/3650668/implement-authorization-for-swagger-in-aspnet-core-6.html#tk.rss_all)
+- [Understand the RSA encryption algorithm](https://www.infoworld.com/article/3650488/understand-the-rsa-encryption-algorithm.html#tk.rss_all)
 - [Go 1.18 adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-118-adds-much-anticipated-generics.html#tk.rss_all)
 - [Deno 1.19 extends web streams support](https://www.infoworld.com/article/3651188/deno-119-extends-web-streams-support.html#tk.rss_all)
 - [How to protect your Kubernetes infrastructure from the Argo CD vulnerability](https://www.infoworld.com/article/3650659/how-to-protect-your-kubernetes-infrastructure-from-the-argo-cd-vulnerability.html#tk.rss_all)
 - [Getting started with Avalonia UI](https://www.infoworld.com/article/3650477/getting-started-with-avalonia-ui.html#tk.rss_all)
 - [How to choose a streaming data platform](https://www.infoworld.com/article/3648058/how-to-choose-a-streaming-data-platform.html#tk.rss_all)
 - [Slack outage stymies some business users](https://www.computerworld.com/article/3650677/slack-outage-stymies-some-business-users.html#tk.rss_all)
-- [The lowdown on low code and no code in the cloud](https://www.infoworld.com/article/3650475/the-lowdown-on-low-code-and-no-code-in-the-cloud.html#tk.rss_all)
-- [Building and running microservices at scale: A CTO’s view](https://www.infoworld.com/article/3648054/building-and-running-microservices-at-scale-a-ctos-view.html#tk.rss_all)
-- [Vercel, Netlify, and the new era of serverless PaaS](https://www.infoworld.com/article/3650751/vercel-netlify-and-the-new-era-of-serverless-paas.html#tk.rss_all)
-- [5 reasons software architects should embrace low code](https://www.infoworld.com/article/3650649/5-reasons-software-architects-should-embrace-low-code.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

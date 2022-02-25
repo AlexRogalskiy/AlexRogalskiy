@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [IBM Canada CSR leader invites Canadian non-profits to apply for IBM’s newly launched global sustainability accelerator](https://www.itworldcanada.com/article/ibm-canada-csr-leader-invites-canadian-non-profits-to-apply-for-ibms-newly-launched-global-sustainability-accelerator/474425)
+- [WatchGuard firewall admins warned that new malware targets the devices](https://www.itworldcanada.com/article/watchguard-firewall-admins-warned-that-new-malware-targets-the-devices/474350)
+- [MAPLESEC panel: ‘Great resignation’ may also mean loss of a firm’s cybersecurity knowledge](https://www.itworldcanada.com/article/maplesec-panel-great-resignation-may-also-mean-loss-of-a-firms-cybersecurity-knowledge/474334)
+- [Maple Leaf Sports &amp; Entertainment leverages AWS AI infrastructure to power next gen experiences](https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338)
+- [Hashtag Trending Feb. 24 – Amazon sues fake reviewers; 3G network shutdown impacts vehicle updates; Virgin Hyperloop to only move cargo](https://www.itworldcanada.com/article/hashtag-trending-feb-24-amazon-sues-fake-reviewers-3g-network-shutdown-impacts-vehicle-updates-virgin-hyperloop-to-only-move-cargo/474346)
+- [U.S. submits formal comments opposing Canada’s digital services tax proposal](https://www.itworldcanada.com/article/u-s-submits-formal-comments-opposing-canadas-digital-services-tax-proposal/474291)
 - [Manufacturing was most attacked sector in Canada in 2021: IBM](https://www.itworldcanada.com/article/manufacturing-was-most-attacked-sector-in-canada-in-2021-ibm/474271)
 - [Cyber Security Today, Feb. 23, 2022 – Warning to SQL Server admins, logistics company hit by cyber attack and more](https://www.itworldcanada.com/article/cyber-security-today-feb-23-2022-warning-to-sql-server-admins-logistics-company-hit-by-cyber-attack-and-more/474190)
 - [Hashtag Trending Feb. 23 – TikTok’s privacy issues; Apple faces fines; taking U.S. tech giants to court?](https://www.itworldcanada.com/article/hashtag-trending-feb-23-tiktoks-privacy-issues-apple-faces-fines-taking-u-s-tech-giants-to-court/474244)
 - [Applications for the fourth round of BC Fast Funding program for SMBs to open soon](https://www.itworldcanada.com/article/applications-for-the-fourth-round-of-bc-fast-funding-program-for-smbs-open-soon/473577)
-- [Canadian, US, UK sanctions may spark retaliatory cyber attacks on Western critical infrastructure](https://www.itworldcanada.com/article/us-uk-sanctions-may-spark-retaliatory-cyber-attacks-on-western-critical-infrastructure/474071)
-- [Unprotected federal agencies leave Canada open to cyber attacks, says Parliamentary committee](https://www.itworldcanada.com/article/unprotected-federal-agencies-leave-canada-open-to-cyber-attacks-says-parliamentary-committee/473982)
-- [Coffee Briefing Feb. 22, 2022 – Global AI talent bursary; SAS Safe Roads competition; Privacy Sandbox on Android; digitizing pharma experiences; and more](https://www.itworldcanada.com/article/coffee-briefing-feb-22-2022-global-ai-talent-bursary-sas-safe-roads-competition-privacy-sandbox-on-android-digitizing-pharma-experiences-and-more/474087)
-- [Use toughest available password protection for Cisco devices, NSA tells admins](https://www.itworldcanada.com/article/use-toughest-available-password-protection-for-cisco-devices-nsa-tells-admins/473676)
-- [Hashtag Trending Feb. 22 – Nvidia spends $10B for semiconductors; White Castle hires robots; NYC wants to slow down delivery times](https://www.itworldcanada.com/article/hashtag-trending-feb-22-nvidia-spends-10b-for-semiconductors-white-castle-hires-robots-nyc-wants-to-slow-down-delivery-times/474042)
-- [It’s official, OnwardMobility shuts down; no new BlackBerry coming](https://www.itworldcanada.com/article/its-official-onwardmobility-shuts-down-no-new-blackberry-coming/473985)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

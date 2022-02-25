@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://news.ycombinator.com/item?id=30448991)
-- [We are hiring contract developers to build new features in PyPI](https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html)
-- [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
-- [Cloudflare to acquire Area 1 Security for $162M](https://blog.cloudflare.com/why-we-are-acquiring-area-1/)
-- [Ledit: Simple, GPU-rendered, no bullshit text editor](https://github.com/liz3/ledit)
-- [Dwarf Fortress Steam Updates – Release Roadmap](https://store.steampowered.com/news/app/975370/view/3099043827445055732)
-- [Show HN: I Designed and Built an eBike](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136)
-- [sqlite-utils - CLI &amp; Python utility functions for manipulating SQLite databases](https://sqlite-utils.datasette.io/en/stable/index.html)
-- [The prospects for 128 bit processors &lpar;1995&rpar;](https://yarchive.net/comp/128bit.html)
-- [The Rain System  “contains wildfires within 10 minutes of ignition”](https://www.rain.aero/)
+- [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
+- [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
+- [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
+- [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
+- [Why does Google still have the “I’m Feeling Lucky” button?](https://reallifemag.com/search-party/)
+- [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
+- [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
+- [RocketLit &lpar;YC S16&rpar; is hiring a full-stack senior PHP developer for ed tech](https://www.innerorbit.com/about/careers/full-stack-developer.php)
+- [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
+- [Pangolin desktop environment for Fuchsia and Linux written in Flutter](https://github.com/dahliaOS/pangolin_desktop)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

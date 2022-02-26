@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In California, the Search for the Ultimate Wild Fig Heats Up](https://www.smithsonianmag.com/science-nature/california-search-for-ultimate-wild-fig-heats-up-180979538/)
-- [We can undermine Putin by stealing his technical talent](https://www.nationalreview.com/2022/02/drain-putins-brains/)
-- [How to Ask Questions of Experts to Gain More Than Just Answers &lpar;2017&rpar;](https://josh.works/better-questions)
-- [The Battle of Snake Island](https://en.wikipedia.org/wiki/Battle_of_Snake_Island)
-- [Otto Skorzeny](https://en.wikipedia.org/wiki/Otto_Skorzeny)
-- [AI, and the Real Capacity Crisis in Chip Design](https://www.eetimes.com/ai-and-the-real-capacity-crisis-in-chip-design/)
-- [A new LaTeX template for bar/restaurant menus](https://latextemplates.com/template/ryo-menu)
-- [Stratechery Interview with Pat Gelsinger](https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/)
-- [Show HN: Inferrd – open-source ML Deployment](https://github.com/inferrd/inferrd)
-- [PyTorch Distributed Evaluation](https://leimao.github.io/blog/PyTorch-Distributed-Evaluation/)
+- [Adding PoisonValue for representing poison value explicitly in IR](https://reviews.llvm.org/D71126)
+- [Show HN: Nomoreinvasion.com – Easy insertable message to support Ukraine](https://nomoreinvasion.com)
+- [Chipmaker Nvidia investigates potential cyberattack](https://www.reuters.com/technology/chipmaker-nvidia-investigating-potential-cyberattack-report-2022-02-25/)
+- [Russian military uses crowdwork platform for sourcing Intel](https://twitter.com/hiddenmarkov/status/1497351111656751109)
+- [How Open Source Intelligence Became the World&#39;s Window into the Ukraine Invasion](https://time.com/6150884/ukraine-russia-attack-open-source-intelligence/)
+- [Which Linux filesystem is best in 2022?](https://www.youtube.com/watch?v=G785-kxFH_M)
+- [Zendesk terminates $4.1B SurveyMonkey acquisition](https://techcrunch.com/2022/02/25/zendesk-terminates-4-1b-surveymonkey-acquisition-after-its-own-investors-reject-deal/)
+- [Israeli Military Veterans Built a Sniper Drone](https://www.discovermagazine.com/technology/israeli-military-veterans-built-a-sniper-drone)
+- [NCAA adjusts THC test threshold](https://www.ncaa.org/news/2022/2/25/media-center-committee-adjusts-thc-test-threshold.aspx)
+- [Show HN: Advanced News Search](https://xn--1-zfa.com/news/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

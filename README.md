@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [3G Sunsetting Reality Sets In as AT&amp;T Turns Off Service](https://www.informationweek.com/it-life/3g-sunsetting-reality-sets-in-as-at-t-turns-off-service)
+- [Enterprise Guide to Edge Computing](https://www.informationweek.com/cloud/enterprise-guide-to-edge-computing)
+- [A Plea to the Private Sector: Follow DOD on Data Strategy Tenets](https://www.informationweek.com/big-data/a-plea-to-the-private-sector-follow-dod-on-data-strategy-tenets)
 - [Can AI Lead the Way in Low Code/No Code App Development?](https://www.informationweek.com/devops/can-ai-lead-the-way-in-low-code-no-code-app-development-)
 - [The Circular Economy for Enterprise Computing Gear is Evolving](https://www.informationweek.com/strategic-cio/the-circular-economy-for-enterprise-computing-gear-is-evolving)
 - [Customers Deserve Great Experiences … and So Do Your Agents](https://www.informationweek.com/strategic-cio/customers-deserve-great-experiences-and-so-do-your-agents)
@@ -376,9 +379,6 @@
 - [How to Keep IT Team Members From Quitting in a Tight Employment Market](https://www.informationweek.com/strategic-cio/how-to-keep-it-team-members-from-quitting-in-a-tight-employment-market)
 - [10 Places Remote Workers Are Moving](https://www.informationweek.com/it-life/10-places-remote-workers-are-moving)
 - [What’s the Secret to Retaining Tech Talent?](https://www.informationweek.com/team-building-and-staffing/what-s-the-secret-to-retaining-tech-talent-)
-- [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.informationweek.com/it-life/hybrid-work-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table)
-- [Zero Trust: Not Just for Government](https://www.informationweek.com/security-and-risk-strategy/zero-trust-not-just-for-government)
-- [What to Consider when Selecting a SASE Provider](https://www.informationweek.com/it-life/what-to-consider-when-selecting-a-sase-provider)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

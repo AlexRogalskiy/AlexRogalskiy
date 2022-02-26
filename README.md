@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine latest news: Zelenskiy vows to stay in Kyiv despite fears of attack on capital – live updates](https://www.theguardian.com/world/live/2022/feb/24/russia-invades-ukraine-declares-war-latest-news-live-updates-russian-invasion-vladimir-putin-explosions-bombing-kyiv-kharkiv)
-- [Ukrainian government calls on hackers to help defend against Russia](https://www.theguardian.com/world/2022/feb/24/ukraine-hackers-defend-against-russia)
-- [‘Her blood … his hands’: what the papers say about Russia’s invasion of Ukraine](https://www.theguardian.com/media/2022/feb/25/her-blood-his-hands-what-the-papers-say-about-russias-invasion-of-ukraine)
-- [Life-threatening floods forecast for Queensland as Sydney records wettest summer in 30 years](https://www.theguardian.com/australia-news/2022/feb/25/sydney-records-wettest-summer-in-30-years-with-nsw-and-queensland-facing-further-torrential-rain)
-- [UK social media users could get power to block unverified accounts](https://www.theguardian.com/media/2022/feb/25/uk-social-media-users-could-get-power-to-block-unverified-accounts)
-- [Central Cee: 23 review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2022/feb/25/central-cee-23-review-london-rapper-debut)
-- [Rape victims ‘systematically failed’ in England and Wales, report finds](https://www.theguardian.com/society/2022/feb/25/victims-systematically-failed-in-england-and-wales-report-finds)
-- [England’s Covid vaccine drive good value for money at £8.3bn, says NAO](https://www.theguardian.com/world/2022/feb/25/england-covid-vaccine-drive-good-value-for-money-pounds-83bn-nao-spending-watchdog)
-- [Premier League and Carabao Cup final: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/feb/25/premier-league-and-carabao-cup-final-10-things-to-look-out-for-this-weekend)
-- [The Collaboration review – Warhol and Basquiat mix paint and trade blows](https://www.theguardian.com/stage/2022/feb/25/the-collaboration-review-young-vic-london)
+- [Russia-Ukraine latest news: Zelenskiy warns tonight will be ‘the hardest’; explosions heard in capital](https://www.theguardian.com/world/live/2022/feb/25/russia-ukraine-invasion-latest-news-live-updates-russian-war-vladimir-putin-explosions-bombing-invades-kyiv)
+- [Russian forces advance inside Ukraine: what we know so far](https://www.theguardian.com/world/2022/feb/26/russian-forces-advance-inside-ukraine-what-we-know-so-far)
+- [African countries spending billions to cope with climate crisis](https://www.theguardian.com/environment/2022/feb/26/african-countries-spending-billions-to-cope-with-climate-crisis)
+- [People in England told to pay council tax by direct debit to get £150 rebate](https://www.theguardian.com/money/2022/feb/26/energy-bills-council-tax-direct-debit-rebate-gas-electricity-prices)
+- [Flight cancellations and delays as ‘tech issues’ hit British Airways](https://www.theguardian.com/business/2022/feb/25/flight-cancellations-and-delays-as-tech-issues-hit-british-airways)
+- [Video of Ukrainian ‘tank man’ trying to block Russian military convoy goes viral](https://www.theguardian.com/world/2022/feb/25/ukraine-tank-man-video-clip)
+- [Russian forces tighten hold on Kyiv in attempt to topple government](https://www.theguardian.com/world/2022/feb/25/kyiv-attack-latest-russia-invasion-ukraine)
+- [Argentina scientists unearth dinosaur with ‘puny arms’ and hard head](https://www.theguardian.com/science/2022/feb/25/argentina-dinosaur-fossil-skull-guemesia-ochoai)
+- [Antonio Conte vows to continue telling home truths at Tottenham](https://www.theguardian.com/football/2022/feb/25/antonio-conte-vows-to-continue-telling-home-truths-at-tottenham)
+- [France wary of Scotland threat as they return to Murrayfield cauldron](https://www.theguardian.com/sport/2022/feb/25/france-wary-of-scotland-threat-as-they-return-to-murrayfield-cauldron)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

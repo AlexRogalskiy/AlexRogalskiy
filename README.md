@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Mass phishing attacks against Ukrainian citizens reported](https://www.computerweekly.com/news/252513885/Mass-phishing-attacks-against-Ukrainian-citizens-reported)
+- [Irish data watchdog calls for ‘objective metrics’ for big tech regulation](https://www.computerweekly.com/news/252513875/Irish-data-watchdog-calls-for-objective-metrics-for-big-tech-regulation)
+- [Darktrace buys attack surface management firm Cybersprint](https://www.computerweekly.com/news/252513868/Darktrace-buys-attack-surface-management-firm-Cybersprint)
+- [Cracking the code on blockchain and crypto: What might adoption mean for datacentres?](https://www.computerweekly.com/feature/Cracking-the-code-on-blockchain-and-crypto-What-might-adoption-mean-for-datacentres)
+- [NAO report praises NHS for data and digital leadership in Covid-19 vaccine roll-out](https://www.computerweekly.com/news/252513854/NAO-report-praises-NHS-for-data-and-digital-leadership-in-Covid-19-vaccine-roll-out)
 - [Cloud storage cost challenges and how to tackle them](https://www.computerweekly.com/feature/Cloud-storage-cost-challenges-and-how-to-tackle-them)
 - [Define RPO and RTO tiers for storage and data protection strategy](https://www.computerweekly.com/feature/Define-RPO-and-RTO-tiers-for-storage-and-data-protection-strategy)
 - [The UK’s cyber security sector is thriving, but our work has only just begun](https://www.computerweekly.com/opinion/The-UKs-cyber-security-sector-is-thriving-but-our-work-has-only-just-begun)
 - [Researchers link Dridex botnet to emergent Entropy ransomware](https://www.computerweekly.com/news/252513806/Researchers-link-Dridex-botnet-to-emergent-Entropy-ransomware)
 - [KnowBe4 cyber drama tackles Colonial Pipeline in fourth season](https://www.computerweekly.com/news/252513807/KnowBe4-cyber-drama-tackles-Colonial-Pipeline-in-fourth-season)
-- [New wave of cyber attacks on Ukraine preceded Russian invasion](https://www.computerweekly.com/news/252513801/New-wave-of-cyber-attacks-on-Ukraine-preceded-Russian-invasion)
-- [Christal Bemont, Talend CEO: Show up as yourself](https://www.computerweekly.com/feature/Christal-Bemont-Talend-CEO-show-up-as-yourself)
-- [Security organisations form Nonprofit Cyber coalition](https://www.computerweekly.com/news/252513795/Security-organisations-form-Nonprofit-Cyber-coalition)
-- [New cyber guidelines to safeguard construction sector](https://www.computerweekly.com/news/252513797/New-cyber-guidelines-to-safeguard-construction-sector)
-- [CW Nordics: Swedish drone app gets life-saving equipment to heart attack victims](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Swedish-drone-app-gets-life-saving-equipment-to-heart-attack-victims)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

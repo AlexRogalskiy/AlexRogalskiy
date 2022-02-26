@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Ukraine: Can Apple solve this new supply chain challenge?](https://www.computerworld.com/article/3651728/ukraine-can-apple-solve-this-new-supply-chain-challenge.html#tk.rss_all)
+- [Video meetings don’t have to be live](https://www.computerworld.com/article/3651448/video-meetings-don-t-have-to-be-live.html#tk.rss_all)
+- [Windows is in Moscow’s crosshairs, too](https://www.computerworld.com/article/3651490/windows-is-in-moscow-s-crosshairs-too.html#tk.rss_all)
+- [12 classic but essential &lpar;and free!&rpar; utilities for Windows 10 and 11](https://www.computerworld.com/article/3650754/classic-essential-free-utilities-windows-10-windows-11.html#tk.rss_all)
+- [Understanding the connection between productivity and pay](https://www.computerworld.com/article/3651529/understanding-the-connection-between-productivity-and-pay.html#tk.rss_all)
+- [10 hidden tricks for making the most of Android gestures](https://www.computerworld.com/article/3439060/android-gestures.html#tk.rss_all)
 - [Podcast: Apple’s custom 5G modems coming in 2023, plus Google to limit app trackers](https://www.computerworld.com/article/3651669/podcast-apples-custom-5g-modems-coming-in-2023-plus-google-to-limit-app-trackers.html#tk.rss_all)
 - [How Volvo put Apple Watch at the center of its services vision](https://www.computerworld.com/article/3651369/how-volvo-put-apple-watch-at-the-center-of-its-services-vision.html#tk.rss_all)
 - [No one has ever told you the most important fact about digital nomads](https://www.computerworld.com/article/3650492/no-one-has-ever-told-you-the-most-important-fact-about-digital-nomads.html#tk.rss_all)
 - [Microsoft&#39;s Edge challenges Safari as second most-popular browser](https://www.computerworld.com/article/3651508/microsofts-edge-challenges-safari-as-second-most-popular-browser.html#tk.rss_all)
-- [The rise of &#39;bleisure&#39; trips: How post-pandemic business travel will change](https://www.computerworld.com/article/3651108/the-rise-of-bleisure-trips-how-post-pandemic-business-travel-will-change.html#tk.rss_all)
-- [Is Apple’s Qualcomm relationship already on the rocks?](https://www.computerworld.com/article/3651069/is-apples-qualcomm-relationship-already-on-the-rocks.html#tk.rss_all)
-- [A hidden gem in Gboard on Android](https://www.computerworld.com/article/3650753/gboard-android-gem.html#tk.rss_all)
-- [Slack vs. Teams: Which is best for your business?](https://www.computerworld.com/article/3505976/slack-vs-teams-which-is-best-for-your-business.html#tk.rss_all)
-- [Slack outage stymies some business users](https://www.computerworld.com/article/3650677/slack-outage-stymies-some-business-users.html#tk.rss_all)
-- [No, Microsoft, don’t require an account to set up Windows 11](https://www.computerworld.com/article/3650755/no-microsoft-dont-require-an-account-to-set-up-windows-11.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

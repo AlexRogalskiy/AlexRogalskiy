@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
-- [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
-- [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
-- [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
-- [Why does Google still have the “I’m Feeling Lucky” button?](https://reallifemag.com/search-party/)
-- [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
-- [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
-- [RocketLit &lpar;YC S16&rpar; is hiring a full-stack senior PHP developer for ed tech](https://www.innerorbit.com/about/careers/full-stack-developer.php)
-- [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
-- [Pangolin desktop environment for Fuchsia and Linux written in Flutter](https://github.com/dahliaOS/pangolin_desktop)
+- [Detailed simulation of complete minimal cellular life](https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue)
+- [Russian-manufactured armored vehicle vulnerability in urban combat &lpar;1997&rpar;](https://man.fas.org/dod-101/sys/land/row/rusav.htm)
+- [The definitive guide that you never wanted: Backpack fabrics](https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405)
+- [Ask HN: Any scientifically proven techniques to boost concentration?](https://news.ycombinator.com/item?id=30473322)
+- [Machine Learning with PyTorch and Scikit-Learn – The *New* Python ML Book](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+- [The claimed effect size is about a zillion times higher than is plausible](https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/)
+- [Curious lack of sprintf scaling](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
+- [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
+- [DIY Split Flap Display](https://mcuoneclipse.com/2022/01/09/diy-split-flap-display/)
+- [Badger 2040 – Fast updating RP2040 based e-Ink badge](https://shop.pimoroni.com/products/badger-2040)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why SWIFT is the nuclear option of Russian financial sanctions](https://www.computerworld.com/article/3651495/why-swift-is-the-nuclear-option-of-russian-financial-sanctions.html#tk.rss_all)
 - [GitLab 14.8 adds security approval policies, extends SSH support](https://www.infoworld.com/article/3651501/gitlab-148-adds-security-approval-policies-ssh-key-types.html#tk.rss_all)
 - [What is Apache Kafka? Scalable event streaming](https://www.infoworld.com/article/3651358/what-is-apache-kafka-scalable-event-streaming.html#tk.rss_all)
 - [Use the cloud to strengthen your supply chain](https://www.infoworld.com/article/3651355/use-the-cloud-to-strengthen-your-supply-chain.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [Understand the RSA encryption algorithm](https://www.infoworld.com/article/3650488/understand-the-rsa-encryption-algorithm.html#tk.rss_all)
 - [Go 1.18 adds much-anticipated generics](https://www.infoworld.com/article/3645228/go-118-adds-much-anticipated-generics.html#tk.rss_all)
 - [Deno 1.19 extends web streams support](https://www.infoworld.com/article/3651188/deno-119-extends-web-streams-support.html#tk.rss_all)
-- [How to protect your Kubernetes infrastructure from the Argo CD vulnerability](https://www.infoworld.com/article/3650659/how-to-protect-your-kubernetes-infrastructure-from-the-argo-cd-vulnerability.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

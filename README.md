@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Detailed simulation of complete minimal cellular life](https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue)
-- [Russian-manufactured armored vehicle vulnerability in urban combat &lpar;1997&rpar;](https://man.fas.org/dod-101/sys/land/row/rusav.htm)
-- [The definitive guide that you never wanted: Backpack fabrics](https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405)
-- [Ask HN: Any scientifically proven techniques to boost concentration?](https://news.ycombinator.com/item?id=30473322)
-- [Machine Learning with PyTorch and Scikit-Learn – The *New* Python ML Book](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
-- [The claimed effect size is about a zillion times higher than is plausible](https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/)
-- [Curious lack of sprintf scaling](https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/)
-- [DevCycle &lpar;YC W14&rpar; is hiring engineers at all levels](https://devcycle.com/company/careers)
-- [DIY Split Flap Display](https://mcuoneclipse.com/2022/01/09/diy-split-flap-display/)
-- [Badger 2040 – Fast updating RP2040 based e-Ink badge](https://shop.pimoroni.com/products/badger-2040)
+- [Russian Offensive Campaign Assessment, Feb 26, 2022](http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_26.html)
+- [The Internet Was Designed with a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
+- [Colors.lol &lpar;2020&rpar;](https://colors.lol/)
+- [Liquorix Kernel](https://liquorix.net/)
+- [Login with a Public Ed25519 Key](https://github.com/62726164/ed25519-login)
+- [No_color](https://no-color.org/)
+- [Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers &lpar;2019&rpar;](https://www.bloombergquint.com/business/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
+- [IL2CPP runtime performance improvements in Unity 2021.2](https://blog.unity.com/technology/feature-highlight-il2cpp-runtime-performance-improvements-in-unity-20212)
+- [Heat people, not spaces &lpar;2015&rpar;](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)
+- [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

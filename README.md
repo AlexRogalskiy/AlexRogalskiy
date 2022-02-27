@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine latest news: Zelenskiy warns tonight will be ‘the hardest’; explosions heard in capital](https://www.theguardian.com/world/live/2022/feb/25/russia-ukraine-invasion-latest-news-live-updates-russian-war-vladimir-putin-explosions-bombing-invades-kyiv)
-- [Russian forces advance inside Ukraine: what we know so far](https://www.theguardian.com/world/2022/feb/26/russian-forces-advance-inside-ukraine-what-we-know-so-far)
-- [African countries spending billions to cope with climate crisis](https://www.theguardian.com/environment/2022/feb/26/african-countries-spending-billions-to-cope-with-climate-crisis)
-- [People in England told to pay council tax by direct debit to get £150 rebate](https://www.theguardian.com/money/2022/feb/26/energy-bills-council-tax-direct-debit-rebate-gas-electricity-prices)
-- [Flight cancellations and delays as ‘tech issues’ hit British Airways](https://www.theguardian.com/business/2022/feb/25/flight-cancellations-and-delays-as-tech-issues-hit-british-airways)
-- [Video of Ukrainian ‘tank man’ trying to block Russian military convoy goes viral](https://www.theguardian.com/world/2022/feb/25/ukraine-tank-man-video-clip)
-- [Russian forces tighten hold on Kyiv in attempt to topple government](https://www.theguardian.com/world/2022/feb/25/kyiv-attack-latest-russia-invasion-ukraine)
-- [Argentina scientists unearth dinosaur with ‘puny arms’ and hard head](https://www.theguardian.com/science/2022/feb/25/argentina-dinosaur-fossil-skull-guemesia-ochoai)
-- [Antonio Conte vows to continue telling home truths at Tottenham](https://www.theguardian.com/football/2022/feb/25/antonio-conte-vows-to-continue-telling-home-truths-at-tottenham)
-- [France wary of Scotland threat as they return to Murrayfield cauldron](https://www.theguardian.com/sport/2022/feb/25/france-wary-of-scotland-threat-as-they-return-to-murrayfield-cauldron)
+- [Russia-Ukraine latest news: missile strikes on oil facilities reported as some Russian banks cut off from Swift system – live](https://www.theguardian.com/world/live/2022/feb/26/russia-ukraine-latest-news-fighting-kyiv-zelenskiy-assault-putin-capital)
+- [Swift action at last brings meaningful sanctions against Putin regime](https://www.theguardian.com/world/2022/feb/27/swift-action-at-last-brings-meaningful-sanctions-against-putin-regime)
+- [North Korea test fires possible ballistic missile in sea in eighth launch this year](https://www.theguardian.com/world/2022/feb/27/north-korea-test-fires-possible-ballistic-missile-in-sea-in-eighth-test-this-year)
+- [Builders face an end to era of through-the-roof house prices](https://www.theguardian.com/business/2022/feb/27/builders-face-an-end-to-era-of-through-the-roof-house-prices)
+- [Spring loaded: this season’s 10 fashion trends – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/26/spring-loaded-this-seasons-10-fashion-trends-in-pictures)
+- [Josh Taylor retains titles after controversial win over Jack Catterall](https://www.theguardian.com/sport/2022/feb/26/josh-taylor-retains-titles-after-controversial-win-over-jack-catterall)
+- [Colour fast: Highlight your wardrobe with pops of colour – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/26/colour-fast-highlight-your-wardrobe-with-pops-of-colour-in-pictures)
+- [Boris Johnson warns of ‘very grim days ahead for Ukraine’](https://www.theguardian.com/world/2022/feb/26/boris-johnson-warns-of-very-grim-days-ahead-for-ukraine)
+- [What is Swift and what will shutting Russia out of it achieve?](https://www.theguardian.com/technology/2022/feb/24/what-is-swift-international-payments-network-russia-sanction)
+- [US, UK, Europe and Canada to block Swift access for some Russian banks](https://www.theguardian.com/world/2022/feb/26/us-uk-europe-and-canada-to-block-russian-access-to-swift)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Linksys router mess up](https://www.reddit.com/r/InformationTechnology/comments/t2ara7/linksys_router_mess_up/)
 - [Using kali Linux to crack windows 11 local password](https://www.reddit.com/r/InformationTechnology/comments/t0u8hr/using_kali_linux_to_crack_windows_11_local/)
 - [Status:Shared for a name.last folder under Cdrive/user](https://www.reddit.com/r/InformationTechnology/comments/t0q011/statusshared_for_a_namelast_folder_under/)
 - [Would anyone like to become a buddy with me, so we can discuss geek stuff?! :&rpar;](https://www.reddit.com/r/InformationTechnology/comments/t09y7l/would_anyone_like_to_become_a_buddy_with_me_so_we/)
@@ -423,7 +424,6 @@
 - [2FA at workstation level but no phone or cell phone allowed](https://www.reddit.com/r/InformationTechnology/comments/szq664/2fa_at_workstation_level_but_no_phone_or_cell/)
 - [Company Does Not Require iPhone Back, Any Way Of Converting It To Personal?](https://www.reddit.com/r/InformationTechnology/comments/szl2me/company_does_not_require_iphone_back_any_way_of/)
 - [New to IT](https://www.reddit.com/r/InformationTechnology/comments/szl248/new_to_it/)
-- [Moving fileshares to cloud](https://www.reddit.com/r/InformationTechnology/comments/szjhy6/moving_fileshares_to_cloud/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

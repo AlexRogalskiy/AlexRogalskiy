@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Adding PoisonValue for representing poison value explicitly in IR](https://reviews.llvm.org/D71126)
-- [Show HN: Nomoreinvasion.com – Easy insertable message to support Ukraine](https://nomoreinvasion.com)
-- [Chipmaker Nvidia investigates potential cyberattack](https://www.reuters.com/technology/chipmaker-nvidia-investigating-potential-cyberattack-report-2022-02-25/)
-- [Russian military uses crowdwork platform for sourcing Intel](https://twitter.com/hiddenmarkov/status/1497351111656751109)
-- [How Open Source Intelligence Became the World&#39;s Window into the Ukraine Invasion](https://time.com/6150884/ukraine-russia-attack-open-source-intelligence/)
-- [Which Linux filesystem is best in 2022?](https://www.youtube.com/watch?v=G785-kxFH_M)
-- [Zendesk terminates $4.1B SurveyMonkey acquisition](https://techcrunch.com/2022/02/25/zendesk-terminates-4-1b-surveymonkey-acquisition-after-its-own-investors-reject-deal/)
-- [Israeli Military Veterans Built a Sniper Drone](https://www.discovermagazine.com/technology/israeli-military-veterans-built-a-sniper-drone)
-- [NCAA adjusts THC test threshold](https://www.ncaa.org/news/2022/2/25/media-center-committee-adjusts-thc-test-threshold.aspx)
-- [Show HN: Advanced News Search](https://xn--1-zfa.com/news/)
+- [Planetary Sapience](https://www.noemamag.com/planetary-sapience/)
+- [You can’t rebuild Wikipedia with crypto](https://www.theverge.com/2022/2/16/22936487/molly-white-web3-is-going-just-great)
+- [OpRussia OpKremlin FckPutin](https://twitter.com/YourAnonTV)
+- [Ask HN: Why are fonts on websites so small?](https://news.ycombinator.com/item?id=30484656)
+- [Joint Statement on Further Restrictive Economic Measures](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/)
+- [How I Made an AI Generate Synth1 Presets](https://jamesskripchuk.com/TPDNE/)
+- [How to explore ethical non-monogamy](https://psyche.co/guides/how-to-explore-ethical-non-monogamy-with-care-and-kindness)
+- [Kremlin website down and Russian TV &#39;hacked by Anonymous&#39;](https://www.dailyrecord.co.uk/news/uk-world-news/kremlin-website-down-russian-tv-26338733)
+- [Volkssturm](https://en.wikipedia.org/wiki/Volkssturm)
+- [Apple, Google and Netflix Find Themselves in an Unenviable Situation](https://www.thestreet.com/technology/apple-google-and-netflix-find-themselves-in-an-unenviable-situation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

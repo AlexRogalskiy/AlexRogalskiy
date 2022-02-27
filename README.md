@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why SWIFT is the nuclear option of Russian financial sanctions](https://www.computerworld.com/article/3651495/why-swift-is-the-nuclear-option-of-russian-financial-sanctions.html#tk.rss_all)
 - [Ukraine: Can Apple solve this new supply chain challenge?](https://www.computerworld.com/article/3651728/ukraine-can-apple-solve-this-new-supply-chain-challenge.html#tk.rss_all)
 - [Video meetings don’t have to be live](https://www.computerworld.com/article/3651448/video-meetings-don-t-have-to-be-live.html#tk.rss_all)
 - [Windows is in Moscow’s crosshairs, too](https://www.computerworld.com/article/3651490/windows-is-in-moscow-s-crosshairs-too.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [Podcast: Apple’s custom 5G modems coming in 2023, plus Google to limit app trackers](https://www.computerworld.com/article/3651669/podcast-apples-custom-5g-modems-coming-in-2023-plus-google-to-limit-app-trackers.html#tk.rss_all)
 - [How Volvo put Apple Watch at the center of its services vision](https://www.computerworld.com/article/3651369/how-volvo-put-apple-watch-at-the-center-of-its-services-vision.html#tk.rss_all)
 - [No one has ever told you the most important fact about digital nomads](https://www.computerworld.com/article/3650492/no-one-has-ever-told-you-the-most-important-fact-about-digital-nomads.html#tk.rss_all)
-- [Microsoft&#39;s Edge challenges Safari as second most-popular browser](https://www.computerworld.com/article/3651508/microsofts-edge-challenges-safari-as-second-most-popular-browser.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

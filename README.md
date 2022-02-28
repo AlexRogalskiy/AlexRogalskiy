@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine latest news: missile strikes on oil facilities reported as some Russian banks cut off from Swift system – live](https://www.theguardian.com/world/live/2022/feb/26/russia-ukraine-latest-news-fighting-kyiv-zelenskiy-assault-putin-capital)
-- [Swift action at last brings meaningful sanctions against Putin regime](https://www.theguardian.com/world/2022/feb/27/swift-action-at-last-brings-meaningful-sanctions-against-putin-regime)
-- [North Korea test fires possible ballistic missile in sea in eighth launch this year](https://www.theguardian.com/world/2022/feb/27/north-korea-test-fires-possible-ballistic-missile-in-sea-in-eighth-test-this-year)
-- [Builders face an end to era of through-the-roof house prices](https://www.theguardian.com/business/2022/feb/27/builders-face-an-end-to-era-of-through-the-roof-house-prices)
-- [Spring loaded: this season’s 10 fashion trends – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/26/spring-loaded-this-seasons-10-fashion-trends-in-pictures)
-- [Josh Taylor retains titles after controversial win over Jack Catterall](https://www.theguardian.com/sport/2022/feb/26/josh-taylor-retains-titles-after-controversial-win-over-jack-catterall)
-- [Colour fast: Highlight your wardrobe with pops of colour – in pictures](https://www.theguardian.com/fashion/gallery/2022/feb/26/colour-fast-highlight-your-wardrobe-with-pops-of-colour-in-pictures)
-- [Boris Johnson warns of ‘very grim days ahead for Ukraine’](https://www.theguardian.com/world/2022/feb/26/boris-johnson-warns-of-very-grim-days-ahead-for-ukraine)
-- [What is Swift and what will shutting Russia out of it achieve?](https://www.theguardian.com/technology/2022/feb/24/what-is-swift-international-payments-network-russia-sanction)
-- [US, UK, Europe and Canada to block Swift access for some Russian banks](https://www.theguardian.com/world/2022/feb/26/us-uk-europe-and-canada-to-block-russian-access-to-swift)
+- [Russia-Ukraine war latest news: US condemns Putin’s nuclear deterrence order; rouble crashes as markets open – live updates](https://www.theguardian.com/world/live/2022/feb/27/russia-ukraine-latest-news-missile-strikes-on-oil-facilities-reported-as-some-russian-banks-cut-off-from-swift-system-live)
+- [Denounce Putin or lose your job: Russian conductor Valery Gergiev given public ultimatum](https://www.theguardian.com/music/2022/feb/28/denounce-putin-or-lose-your-job-russian-conductor-valery-gergiev-given-public-ultimatum)
+- [Putin signals escalation as he puts Russia’s nuclear force on high alert](https://www.theguardian.com/world/2022/feb/27/vladimir-putin-puts-russia-nuclear-deterrence-forces-on-high-alert-ukraine)
+- [Indonesia earthquake death toll climbs to 11 after more bodies recovered on Sumatra](https://www.theguardian.com/world/2022/feb/28/indonesia-earthquake-death-toll-climbs-after-more-bodies-recovered-on-sumatra)
+- [Devastating floods wreak havoc in Queensland and NSW – in pictures](https://www.theguardian.com/australia-news/gallery/2022/feb/28/qld-floods-queensland-flooding-brisbane-2022-bne-gympie-photos-gallery-in-pictures)
+- [Liz Truss criticised for backing Britons who wish to fight in Ukraine](https://www.theguardian.com/world/2022/feb/27/liz-truss-says-she-would-back-britons-going-to-ukraine-to-fight-russia)
+- [Russian oligarchs in UK face new laws tackling ‘dirty money’](https://www.theguardian.com/politics/2022/feb/28/russian-oligarchs-in-uk-face-new-laws-tackling-dirty-money)
+- [UK faith leaders call on Boris Johnson to not ‘close door’ on refugees](https://www.theguardian.com/uk-news/2022/feb/28/uk-faith-leaders-call-on-boris-johnson-to-not-close-door-on-refugees)
+- [Birmingham to host six-month arts festival for Commonwealth Games](https://www.theguardian.com/uk-news/2022/feb/28/birmingham-to-host-six-month-arts-festival-for-commonwealth-games)
+- [NHS pilots pregnancy screening that may cut racial disparities in baby deaths](https://www.theguardian.com/lifeandstyle/2022/feb/28/nhs-pilots-pregnancy-screening-that-may-cut-racial-disparities-in-baby-deaths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

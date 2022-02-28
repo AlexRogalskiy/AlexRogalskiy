@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Planetary Sapience](https://www.noemamag.com/planetary-sapience/)
-- [You can’t rebuild Wikipedia with crypto](https://www.theverge.com/2022/2/16/22936487/molly-white-web3-is-going-just-great)
-- [OpRussia OpKremlin FckPutin](https://twitter.com/YourAnonTV)
-- [Ask HN: Why are fonts on websites so small?](https://news.ycombinator.com/item?id=30484656)
-- [Joint Statement on Further Restrictive Economic Measures](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/26/joint-statement-on-further-restrictive-economic-measures/)
-- [How I Made an AI Generate Synth1 Presets](https://jamesskripchuk.com/TPDNE/)
-- [How to explore ethical non-monogamy](https://psyche.co/guides/how-to-explore-ethical-non-monogamy-with-care-and-kindness)
-- [Kremlin website down and Russian TV &#39;hacked by Anonymous&#39;](https://www.dailyrecord.co.uk/news/uk-world-news/kremlin-website-down-russian-tv-26338733)
-- [Volkssturm](https://en.wikipedia.org/wiki/Volkssturm)
-- [Apple, Google and Netflix Find Themselves in an Unenviable Situation](https://www.thestreet.com/technology/apple-google-and-netflix-find-themselves-in-an-unenviable-situation)
+- [RStudio Blog: Challenges in Package Management](https://www.rstudio.com/blog/challenges-in-package-management/)
+- [Mac tricks that most people don’t know about](https://9to5mac.com/2022/02/18/top-10-hidden-mac-tricks-that-most-people-dont-know-about/)
+- [Looks count:Computing&amp;constructing visually expressive mass customized housing](https://www.researchgate.net/publication/220306708_Looks_count_Computing_and_constructing_visually_expressive_mass_customized_housing)
+- [Congressional Research Service: Russia’s Invasion of Ukraine: NATO Response](https://crsreports.congress.gov/product/pdf/IN/IN11866)
+- [Yes, ‘Elden Ring’ Is Perfectly Playable on Linux &lpar;Including Online Features&rpar;](https://www.forbes.com/sites/jasonevangelho/2022/02/27/yes-elden-ring-is-perfectly-playable-on-linux-including-online-features/)
+- [NATO Applies to Join UTO/Ukrainian Treaty Organization](https://www.google.com/search?q=%22NATO+applies+to+join+Ukrainian+Treaty+Organization%22)
+- [&#39;AB&#39;](https://twitter.com/sirsfurther/status/1497701704745295876)
+- [Step-by-step visualization of C/Java/Python programs execution state](https://ryoskate.jp/PLIVET/)
+- [Sweden to send 5000 anti-tank weapons to Ukraine](https://www.ukrinform.net/rubric-ato/3415150-sweden-to-send-5000-antitank-weapons-to-ukraine.html)
+- [Who’s Afraid of Bill Gates?](https://bethepeoplenews.com/whos-afraid-of-bill-gates/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

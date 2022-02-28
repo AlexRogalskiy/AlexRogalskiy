@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Russian Offensive Campaign Assessment, Feb 26, 2022](http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_26.html)
-- [The Internet Was Designed with a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
-- [Colors.lol &lpar;2020&rpar;](https://colors.lol/)
-- [Liquorix Kernel](https://liquorix.net/)
-- [Login with a Public Ed25519 Key](https://github.com/62726164/ed25519-login)
-- [No_color](https://no-color.org/)
-- [Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers &lpar;2019&rpar;](https://www.bloombergquint.com/business/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
-- [IL2CPP runtime performance improvements in Unity 2021.2](https://blog.unity.com/technology/feature-highlight-il2cpp-runtime-performance-improvements-in-unity-20212)
-- [Heat people, not spaces &lpar;2015&rpar;](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)
-- [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
+- [The Painfully Shy Developer&#39;s Guide to Networking for a Better Job](https://www.samjulien.com/shy-dev-networking/)
+- [Physicists build circuit that generates clean limitless power from graphene](https://www.thebrighterside.news/post/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
+- [Russian Ruble just lost ~30% of its value](https://www.cmegroup.com/markets/fx/emerging-market/russian-ruble.html)
+- [Milky Way and Andromeda galaxies are already merging &lpar;2020&rpar;](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
+- [I enforced the AGPL on my code &lpar;2020&rpar;](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
+- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
+- [Longbet: By 2027, software will be metered/sold by the second](https://longbets.org/884/)
+- [The Great Curly Brace Trace Chase &lpar;2003&rpar;](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
+- [Open source alternatives to popular SaaS products](https://github.com/RunaCapital/awesome-oss-alternatives)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -414,7 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Linksys router mess up](https://www.reddit.com/r/InformationTechnology/comments/t2ara7/linksys_router_mess_up/)
+- [BSc &lpar;Hons&rpar; Digital and Technology Solutions Degree Apprenticeship](https://www.reddit.com/r/InformationTechnology/comments/t2z158/bsc_hons_digital_and_technology_solutions_degree/)
 - [Using kali Linux to crack windows 11 local password](https://www.reddit.com/r/InformationTechnology/comments/t0u8hr/using_kali_linux_to_crack_windows_11_local/)
 - [Status:Shared for a name.last folder under Cdrive/user](https://www.reddit.com/r/InformationTechnology/comments/t0q011/statusshared_for_a_namelast_folder_under/)
 - [Would anyone like to become a buddy with me, so we can discuss geek stuff?! :&rpar;](https://www.reddit.com/r/InformationTechnology/comments/t09y7l/would_anyone_like_to_become_a_buddy_with_me_so_we/)

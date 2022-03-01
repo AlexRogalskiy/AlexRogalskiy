@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK Treasury publishes consultation on online sales tax](https://www.computerweekly.com/news/252513957/UK-Treasury-publishes-consultation-on-online-sales-tax)
+- [Ukraine cyber attacks seen spiking, but no destructive cyber war yet](https://www.computerweekly.com/news/252513946/Ukraine-cyber-attacks-seen-spiking-but-no-destructive-cyber-war-yet)
+- [Online Safety Bill updated to deal with anonymous abuse](https://www.computerweekly.com/news/252513939/Online-Safety-Bill-updated-to-deal-with-anonymous-abuse)
+- [Sajid Javid outlines NHS tech targets](https://www.computerweekly.com/news/252513886/Sajid-Javid-outlines-NHS-tech-targets)
+- [British Airways outage: Airline cancels weekend short-haul flights due to ‘technical issues’](https://www.computerweekly.com/news/252513937/British-Airways-outage-Airline-cancels-weekend-short-haul-flights-due-to-technical-issues)
+- [A plan for technical and security training](https://www.computerweekly.com/feature/A-plan-for-technical-and-security-training)
 - [Mass phishing attacks against Ukrainian citizens reported](https://www.computerweekly.com/news/252513885/Mass-phishing-attacks-against-Ukrainian-citizens-reported)
 - [Irish data watchdog calls for ‘objective metrics’ for big tech regulation](https://www.computerweekly.com/news/252513875/Irish-data-watchdog-calls-for-objective-metrics-for-big-tech-regulation)
 - [Darktrace buys attack surface management firm Cybersprint](https://www.computerweekly.com/news/252513868/Darktrace-buys-attack-surface-management-firm-Cybersprint)
 - [Cracking the code on blockchain and crypto: What might adoption mean for datacentres?](https://www.computerweekly.com/feature/Cracking-the-code-on-blockchain-and-crypto-What-might-adoption-mean-for-datacentres)
-- [NAO report praises NHS for data and digital leadership in Covid-19 vaccine roll-out](https://www.computerweekly.com/news/252513854/NAO-report-praises-NHS-for-data-and-digital-leadership-in-Covid-19-vaccine-roll-out)
-- [Cloud storage cost challenges and how to tackle them](https://www.computerweekly.com/feature/Cloud-storage-cost-challenges-and-how-to-tackle-them)
-- [Define RPO and RTO tiers for storage and data protection strategy](https://www.computerweekly.com/feature/Define-RPO-and-RTO-tiers-for-storage-and-data-protection-strategy)
-- [The UK’s cyber security sector is thriving, but our work has only just begun](https://www.computerweekly.com/opinion/The-UKs-cyber-security-sector-is-thriving-but-our-work-has-only-just-begun)
-- [Researchers link Dridex botnet to emergent Entropy ransomware](https://www.computerweekly.com/news/252513806/Researchers-link-Dridex-botnet-to-emergent-Entropy-ransomware)
-- [KnowBe4 cyber drama tackles Colonial Pipeline in fourth season](https://www.computerweekly.com/news/252513807/KnowBe4-cyber-drama-tackles-Colonial-Pipeline-in-fourth-season)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

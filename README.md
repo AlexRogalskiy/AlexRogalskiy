@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cyber Threat Alliance and Cisco Talos Talk Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/cyber-threat-alliance-and-cisco-talos-talk-threat-landscape)
+- [No, the Cloud Is Not a Green Technology](https://www.informationweek.com/cloud/no-the-cloud-is-not-a-green-technology)
 - [3G Sunsetting Reality Sets In as AT&amp;T Turns Off Service](https://www.informationweek.com/it-life/3g-sunsetting-reality-sets-in-as-at-t-turns-off-service)
 - [Enterprise Guide to Edge Computing](https://www.informationweek.com/cloud/enterprise-guide-to-edge-computing)
 - [A Plea to the Private Sector: Follow DOD on Data Strategy Tenets](https://www.informationweek.com/big-data/a-plea-to-the-private-sector-follow-dod-on-data-strategy-tenets)
@@ -377,8 +379,6 @@
 - [Customers Deserve Great Experiences … and So Do Your Agents](https://www.informationweek.com/strategic-cio/customers-deserve-great-experiences-and-so-do-your-agents)
 - [Cyber Insurance&#39;s Battle With Cyberwarfare: An IW Special Report](https://www.informationweek.com/security-and-risk-strategy/cyber-insurance-s-battle-with-cyberwarfare-an-iw-special-report)
 - [How to Keep IT Team Members From Quitting in a Tight Employment Market](https://www.informationweek.com/strategic-cio/how-to-keep-it-team-members-from-quitting-in-a-tight-employment-market)
-- [10 Places Remote Workers Are Moving](https://www.informationweek.com/it-life/10-places-remote-workers-are-moving)
-- [What’s the Secret to Retaining Tech Talent?](https://www.informationweek.com/team-building-and-staffing/what-s-the-secret-to-retaining-tech-talent-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

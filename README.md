@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Intelsat powers private mobile networks via satellite using Microsoft Azure](https://www.itworldcanada.com/article/intelsat-powers-private-mobile-networks-via-satellite-using-microsoft-azure/474710)
+- [Amazon Canada launches new program to teach coding through music from Indigenous artists](https://www.itworldcanada.com/article/amazon-canada-launches-new-program-to-teach-coding-through-music-from-indigenous-artists/474517)
+- [Cyber Security Today, Feb. 28, 2022 – Tips to protect against expected Russia-Ukraine cyber retaliation, and more](https://www.itworldcanada.com/article/cyber-security-today-feb-28-2022-tips-to-protect-against-expected-russia-ukraine-cyber-retaliation-and-more/474649)
+- [Hashtag Trending Feb. 28 – big tech’s business restrictions against Russia](https://www.itworldcanada.com/article/hashtag-trending-feb-28-big-techs-business-restrictions-against-russia/474670)
 - [Cyber Security Today, Week in Review for Friday, Feb. 25, 2020](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-feb-25-2020/474385)
 - [Canadian telcos waive long distance connection fees to Ukraine](https://www.itworldcanada.com/article/canadian-telcos-waive-long-distance-connection-fees-to-ukraine/474534)
 - [Conti ransomware gang backs Russia, vows retaliation for ‘war activities’ against Moscow](https://www.itworldcanada.com/article/conti-ransomware-gang-backs-russia-vows-retaliation-for-war-activities-against-moscow/474519)
 - [Cyber Security Today, Feb. 25, 2022 – A new ransomware strain found, watch for double backdoors, a new sextortion tactic and more](https://www.itworldcanada.com/article/cyber-security-today-feb-25-2022-a-new-ransomware-strain-found-watch-for-double-backdoors-a-new-sextortion-tactic-and-more/474411)
 - [Hashtag Trending Feb. 25 – Privacy policy hurts Meta’s business; labor organizer arrested; Twitter accidentally suspends journalist account](https://www.itworldcanada.com/article/hashtag-trending-feb-25-privacy-policy-hurts-metas-business-labor-organizer-arrested-twitter-accidentally-suspends-journalist-account/474430)
 - [IBM Canada CSR leader invites Canadian non-profits to apply for IBM’s newly launched global sustainability accelerator](https://www.itworldcanada.com/article/ibm-canada-csr-leader-invites-canadian-non-profits-to-apply-for-ibms-newly-launched-global-sustainability-accelerator/474425)
-- [WatchGuard firewall admins warned that new malware targets the devices](https://www.itworldcanada.com/article/watchguard-firewall-admins-warned-that-new-malware-targets-the-devices/474350)
-- [MAPLESEC panel: ‘Great resignation’ may also mean loss of a firm’s cybersecurity knowledge](https://www.itworldcanada.com/article/maplesec-panel-great-resignation-may-also-mean-loss-of-a-firms-cybersecurity-knowledge/474334)
-- [Maple Leaf Sports &amp; Entertainment leverages AWS AI infrastructure to power next gen experiences](https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338)
-- [Hashtag Trending Feb. 24 – Amazon sues fake reviewers; 3G network shutdown impacts vehicle updates; Virgin Hyperloop to only move cargo](https://www.itworldcanada.com/article/hashtag-trending-feb-24-amazon-sues-fake-reviewers-3g-network-shutdown-impacts-vehicle-updates-virgin-hyperloop-to-only-move-cargo/474346)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

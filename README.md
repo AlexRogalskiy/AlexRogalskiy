@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Painfully Shy Developer&#39;s Guide to Networking for a Better Job](https://www.samjulien.com/shy-dev-networking/)
-- [Physicists build circuit that generates clean limitless power from graphene](https://www.thebrighterside.news/post/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
-- [Russian Ruble just lost ~30% of its value](https://www.cmegroup.com/markets/fx/emerging-market/russian-ruble.html)
-- [Milky Way and Andromeda galaxies are already merging &lpar;2020&rpar;](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
-- [I enforced the AGPL on my code &lpar;2020&rpar;](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html)
-- [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
-- [Longbet: By 2027, software will be metered/sold by the second](https://longbets.org/884/)
-- [The Great Curly Brace Trace Chase &lpar;2003&rpar;](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
-- [Open source alternatives to popular SaaS products](https://github.com/RunaCapital/awesome-oss-alternatives)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Web devs rally to challenge Apple App Store browser rules](https://open-web-advocacy.org/)
+- [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
+- [Orwell&#39;s Proposed Preface to ‘Animal Farm’](https://orwell.ru/library/novels/Animal_Farm/english/efp_go)
+- [Strangest Sorting Algorithms](https://codoholicconfessions.wordpress.com/2017/05/21/strangest-sorting-algorithms/)
+- [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
+- [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
+- [Wasmer 2.2](https://wasmer.io/posts/wasmer-2.2)
+- [Ask HN: What is the oldest, still supported OS?](https://news.ycombinator.com/item?id=30505219)
+- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
+- [Namecheap: Russia Service Termination](https://news.ycombinator.com/item?id=30504812)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RStudio Blog: Challenges in Package Management](https://www.rstudio.com/blog/challenges-in-package-management/)
-- [Mac tricks that most people don’t know about](https://9to5mac.com/2022/02/18/top-10-hidden-mac-tricks-that-most-people-dont-know-about/)
-- [Looks count:Computing&amp;constructing visually expressive mass customized housing](https://www.researchgate.net/publication/220306708_Looks_count_Computing_and_constructing_visually_expressive_mass_customized_housing)
-- [Congressional Research Service: Russia’s Invasion of Ukraine: NATO Response](https://crsreports.congress.gov/product/pdf/IN/IN11866)
-- [Yes, ‘Elden Ring’ Is Perfectly Playable on Linux &lpar;Including Online Features&rpar;](https://www.forbes.com/sites/jasonevangelho/2022/02/27/yes-elden-ring-is-perfectly-playable-on-linux-including-online-features/)
-- [NATO Applies to Join UTO/Ukrainian Treaty Organization](https://www.google.com/search?q=%22NATO+applies+to+join+Ukrainian+Treaty+Organization%22)
-- [&#39;AB&#39;](https://twitter.com/sirsfurther/status/1497701704745295876)
-- [Step-by-step visualization of C/Java/Python programs execution state](https://ryoskate.jp/PLIVET/)
-- [Sweden to send 5000 anti-tank weapons to Ukraine](https://www.ukrinform.net/rubric-ato/3415150-sweden-to-send-5000-antitank-weapons-to-ukraine.html)
-- [Who’s Afraid of Bill Gates?](https://bethepeoplenews.com/whos-afraid-of-bill-gates/)
+- [How does Siri know which device to use when you say “Hey Siri”?](https://support.apple.com/en-us/HT208472)
+- [Elon Musk’s promised Starlink terminals have reached Ukraine](https://www.theverge.com/2022/2/28/22955339/elon-musk-spacex-starlink-ukraine-user-terminals-russia-invasion)
+- [GoPuff Is a $ 40B Delivery Company. 9 Years Ago It Started as a Hookah Store](https://read.bustlers.xyz/p/gopuff-is-a-40-billion-delivery-company)
+- [Ukraine Receives Crypto Donations of More Than $22M](https://www.nytimes.com/2022/02/28/business/ukraine-crypto-donations.html)
+- [Vulnerable U.S. electric grid facing threats from Russia and domestic terrorists](https://www.cbsnews.com/news/america-electric-grid-60-minutes-2022-02-27/)
+- [Crypto and Ukraine](https://www.milkroad.com/p/west-fighting-banks-not-tanks-mean-crypto)
+- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
+- [No, bad leftovers didn’t cause teen’s life-threatening infection, amputations](https://arstechnica.com/science/2022/02/experts-skewer-media-reports-blaming-life-threatening-infection-on-bad-lo-mein/)
+- [Vetted freelance blockchain devs are easy to find now](https://airtable.com/shrNBwo1UrJgel6yh?prefill_Source=HackerNews)
+- [Nostalgia MacPaint](https://paint.withdiagram.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

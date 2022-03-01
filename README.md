@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest news: US condemns Putin’s nuclear deterrence order; rouble crashes as markets open – live updates](https://www.theguardian.com/world/live/2022/feb/27/russia-ukraine-latest-news-missile-strikes-on-oil-facilities-reported-as-some-russian-banks-cut-off-from-swift-system-live)
-- [Denounce Putin or lose your job: Russian conductor Valery Gergiev given public ultimatum](https://www.theguardian.com/music/2022/feb/28/denounce-putin-or-lose-your-job-russian-conductor-valery-gergiev-given-public-ultimatum)
-- [Putin signals escalation as he puts Russia’s nuclear force on high alert](https://www.theguardian.com/world/2022/feb/27/vladimir-putin-puts-russia-nuclear-deterrence-forces-on-high-alert-ukraine)
-- [Indonesia earthquake death toll climbs to 11 after more bodies recovered on Sumatra](https://www.theguardian.com/world/2022/feb/28/indonesia-earthquake-death-toll-climbs-after-more-bodies-recovered-on-sumatra)
-- [Devastating floods wreak havoc in Queensland and NSW – in pictures](https://www.theguardian.com/australia-news/gallery/2022/feb/28/qld-floods-queensland-flooding-brisbane-2022-bne-gympie-photos-gallery-in-pictures)
-- [Liz Truss criticised for backing Britons who wish to fight in Ukraine](https://www.theguardian.com/world/2022/feb/27/liz-truss-says-she-would-back-britons-going-to-ukraine-to-fight-russia)
-- [Russian oligarchs in UK face new laws tackling ‘dirty money’](https://www.theguardian.com/politics/2022/feb/28/russian-oligarchs-in-uk-face-new-laws-tackling-dirty-money)
-- [UK faith leaders call on Boris Johnson to not ‘close door’ on refugees](https://www.theguardian.com/uk-news/2022/feb/28/uk-faith-leaders-call-on-boris-johnson-to-not-close-door-on-refugees)
-- [Birmingham to host six-month arts festival for Commonwealth Games](https://www.theguardian.com/uk-news/2022/feb/28/birmingham-to-host-six-month-arts-festival-for-commonwealth-games)
-- [NHS pilots pregnancy screening that may cut racial disparities in baby deaths](https://www.theguardian.com/lifeandstyle/2022/feb/28/nhs-pilots-pregnancy-screening-that-may-cut-racial-disparities-in-baby-deaths)
+- [Russia-Ukraine war latest news: 40-mile-long Russian army convoy nears Kyiv, satellite images show – live updates](https://www.theguardian.com/world/live/2022/feb/28/russia-ukraine-war-latest-news-update-conflict-belarus-putin-nuclear-deterrence-order-kyiv-russian-invasion-live-updates)
+- [Ukraine: what we know on day six of Russia’s invasion](https://www.theguardian.com/world/2022/mar/01/ukraine-what-we-know-day-six-russia-invasion)
+- [Tyrannosaurus rex may have been three species, scientists say](https://www.theguardian.com/science/2022/mar/01/tyrannosaurus-rex-may-have-been-three-species-scientists-say)
+- [Alaska man found clinging to ice chunk after frozen shoreline breaks off](https://www.theguardian.com/us-news/2022/feb/28/alaska-rescue-ice-chunk-cook-inlet)
+- [‘Horrendous’ rocket attack kills civilians in Kharkiv as Moscow ‘adapts its tactics’](https://www.theguardian.com/world/2022/feb/28/ukraine-several-killed-by-russian-rocket-strikes-in-civilian-areas-of-kharkiv)
+- [Ukraine&#39;s UN ambassador reads texts from Russian soldier to mother before he was killed – video](https://www.theguardian.com/world/video/2022/mar/01/ukraines-un-ambassador-reads-texts-from-russian-soldier-to-mother-before-he-was-killed-video)
+- [The great decoupling: how UK-based firms are unwinding exposure to Russia](https://www.theguardian.com/business/2022/mar/01/the-great-decoupling-how-uk-based-firms-are-unwinding-exposure-to-russia)
+- [Businesses urge Sunak to delay ‘ill-timed and illogical’ NI rise](https://www.theguardian.com/business/2022/mar/01/national-insurance-businesses-urge-sunak-delay-rise)
+- [Culture of obstruction has sunk investigations into police misconduct, MPs say](https://www.theguardian.com/uk-news/2022/mar/01/police-culture-change-needed-in-handling-complaints-say-mps)
+- [Pandemic spurred record numbers of ‘ultra wealthy’ in 2021](https://www.theguardian.com/money/2022/mar/01/pandemic-spurred-record-numbers-of-ultra-wealthy-in-2021)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Search for Talent on a Global Scale](https://www.informationweek.com/team-building-and-staffing/how-to-search-for-talent-on-a-global-scale)
+- [How to Make Your Interview Process More Efficient](https://www.informationweek.com/it-life/how-to-make-your-interview-process-more-efficient)
 - [Cyber Threat Alliance and Cisco Talos Talk Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/cyber-threat-alliance-and-cisco-talos-talk-threat-landscape)
 - [No, the Cloud Is Not a Green Technology](https://www.informationweek.com/cloud/no-the-cloud-is-not-a-green-technology)
 - [3G Sunsetting Reality Sets In as AT&amp;T Turns Off Service](https://www.informationweek.com/it-life/3g-sunsetting-reality-sets-in-as-at-t-turns-off-service)
@@ -377,8 +379,6 @@
 - [Can AI Lead the Way in Low Code/No Code App Development?](https://www.informationweek.com/devops/can-ai-lead-the-way-in-low-code-no-code-app-development-)
 - [The Circular Economy for Enterprise Computing Gear is Evolving](https://www.informationweek.com/strategic-cio/the-circular-economy-for-enterprise-computing-gear-is-evolving)
 - [Customers Deserve Great Experiences … and So Do Your Agents](https://www.informationweek.com/strategic-cio/customers-deserve-great-experiences-and-so-do-your-agents)
-- [Cyber Insurance&#39;s Battle With Cyberwarfare: An IW Special Report](https://www.informationweek.com/security-and-risk-strategy/cyber-insurance-s-battle-with-cyberwarfare-an-iw-special-report)
-- [How to Keep IT Team Members From Quitting in a Tight Employment Market](https://www.informationweek.com/strategic-cio/how-to-keep-it-team-members-from-quitting-in-a-tight-employment-market)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

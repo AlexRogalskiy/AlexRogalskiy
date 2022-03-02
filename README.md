@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Wasmer 2.2 revs compiler, supports Apple M1 and Aarch64](https://www.infoworld.com/article/3652048/wasmer-22-revs-compiler-supports-apple-m1-and-aarch64.html#tk.rss_all)
+- [TypeScript 4.6 adds control flow analysis, ES2022 support](https://www.infoworld.com/article/3647880/typescript-46-adds-control-flow-analysis-es2022-support.html#tk.rss_all)
+- [VMware adds container runtime protection to Carbon Black security portfolio](https://www.infoworld.com/article/3651681/vmware-adds-container-runtime-protection-to-carbon-black-security-portfolio.html#tk.rss_all)
+- [The truth about VDI and cloud computing](https://www.infoworld.com/article/3651451/the-truth-about-vdi-and-cloud-computing.html#tk.rss_all)
+- [JSONB in PostgreSQL today and tomorrow](https://www.infoworld.com/article/3651356/jsonb-in-postgresql-today-and-tomorrow.html#tk.rss_all)
 - [AWS Lambda backs .NET 6](https://www.infoworld.com/article/3651507/aws-lambda-backs-net-6.html#tk.rss_all)
 - [The rise of WebAssembly](https://www.infoworld.com/article/3651503/the-rise-of-webassembly.html#tk.rss_all)
-- [Everyone’s into venture capital these days](https://www.infoworld.com/article/3651502/why-tech-companies-have-venture-capital-funds.html#tk.rss_all)
+- [Why tech companies have venture capital funds](https://www.infoworld.com/article/3651502/why-tech-companies-have-venture-capital-funds.html#tk.rss_all)
 - [When your app should be smooth, not sticky](https://www.infoworld.com/article/3650511/when-your-app-should-be-smooth-not-sticky.html#tk.rss_all)
 - [Why SWIFT is the nuclear option of Russian financial sanctions](https://www.computerworld.com/article/3651495/why-swift-is-the-nuclear-option-of-russian-financial-sanctions.html#tk.rss_all)
-- [GitLab 14.8 adds security approval policies, extends SSH support](https://www.infoworld.com/article/3651501/gitlab-148-adds-security-approval-policies-ssh-key-types.html#tk.rss_all)
-- [What is Apache Kafka? Scalable event streaming](https://www.infoworld.com/article/3651358/what-is-apache-kafka-scalable-event-streaming.html#tk.rss_all)
-- [Use the cloud to strengthen your supply chain](https://www.infoworld.com/article/3651355/use-the-cloud-to-strengthen-your-supply-chain.html#tk.rss_all)
-- [What’s new in Rust 1.59](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Microsoft unveils C# 11 list patterns, raw string literals](https://www.infoworld.com/article/3651509/microsoft-unveils-c-11-list-patterns-raw-string-literals.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

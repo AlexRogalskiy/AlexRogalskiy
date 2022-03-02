@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [BBC blasted with millions of malicious emails](https://www.computerweekly.com/news/252514025/BBC-blasted-with-millions-of-malicious-emails)
+- [DCMS opens consultation on telecoms cyber standards](https://www.computerweekly.com/news/252514022/DCMS-opens-consultation-on-telecoms-cyber-standards)
+- [ESET details new IsaacWiper malware used on Ukraine](https://www.computerweekly.com/news/252514012/ESET-details-new-IsaacWiper-malware-used-on-Ukraine)
+- [Retailers get business-critical IT and data management in order](https://www.computerweekly.com/feature/Retailers-get-business-critical-IT-and-data-management-in-order)
+- [Workplace surveillance ‘spiralling out of control’, says TUC](https://www.computerweekly.com/news/252514006/Workplace-surveillance-spiraling-out-of-control-says-TUC)
+- [ASOS commits to keep using Microsoft Azure for another five years to support business growth push](https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push)
+- [Forrester: Boom in IT spending to drive economic recovery](https://www.computerweekly.com/news/252514001/Forrester-Boom-in-IT-spending-to-drive-economic-recovery)
+- [Kao Data expands Harlow datacentre campus by opening second 10MW facility](https://www.computerweekly.com/news/252513997/Kao-Data-expands-Harlow-datacentre-campus-by-opening-second-10MW-facility)
+- [Post Office Horizon scandal enters public conscience – at last](https://www.computerweekly.com/ezine/Computer-Weekly/Post-Office-Horizon-scandal-enters-public-conscience-at-last)
 - [UK Treasury publishes consultation on online sales tax](https://www.computerweekly.com/news/252513957/UK-Treasury-publishes-consultation-on-online-sales-tax)
-- [Ukraine cyber attacks seen spiking, but no destructive cyber war yet](https://www.computerweekly.com/news/252513946/Ukraine-cyber-attacks-seen-spiking-but-no-destructive-cyber-war-yet)
-- [Online Safety Bill updated to deal with anonymous abuse](https://www.computerweekly.com/news/252513939/Online-Safety-Bill-updated-to-deal-with-anonymous-abuse)
-- [Sajid Javid outlines NHS tech targets](https://www.computerweekly.com/news/252513886/Sajid-Javid-outlines-NHS-tech-targets)
-- [British Airways outage: Airline cancels weekend short-haul flights due to ‘technical issues’](https://www.computerweekly.com/news/252513937/British-Airways-outage-Airline-cancels-weekend-short-haul-flights-due-to-technical-issues)
-- [A plan for technical and security training](https://www.computerweekly.com/feature/A-plan-for-technical-and-security-training)
-- [Mass phishing attacks against Ukrainian citizens reported](https://www.computerweekly.com/news/252513885/Mass-phishing-attacks-against-Ukrainian-citizens-reported)
-- [Irish data watchdog calls for ‘objective metrics’ for big tech regulation](https://www.computerweekly.com/news/252513875/Irish-data-watchdog-calls-for-objective-metrics-for-big-tech-regulation)
-- [Darktrace buys attack surface management firm Cybersprint](https://www.computerweekly.com/news/252513868/Darktrace-buys-attack-surface-management-firm-Cybersprint)
-- [Cracking the code on blockchain and crypto: What might adoption mean for datacentres?](https://www.computerweekly.com/feature/Cracking-the-code-on-blockchain-and-crypto-What-might-adoption-mean-for-datacentres)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

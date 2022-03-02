@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [View Every Command Ran During App Start](https://www.reddit.com/r/InformationTechnology/comments/t4ofxy/view_every_command_ran_during_app_start/)
+- [An easy Linux Server for beginners](https://www.reddit.com/r/InformationTechnology/comments/t4jqjn/an_easy_linux_server_for_beginners/)
+- [Can anyone suggest a device management platform &lpar;for Apple and Windows devices&rpar; that ensures either CIS or SOC standards?](https://www.reddit.com/r/InformationTechnology/comments/t4d5xy/can_anyone_suggest_a_device_management_platform/)
+- [What is non-routable address space in simple words?](https://www.reddit.com/r/InformationTechnology/comments/t49jv6/what_is_nonroutable_address_space_in_simple_words/)
+- [recuperar mi cuenta de gmail](https://www.reddit.com/r/InformationTechnology/comments/t410qn/recuperar_mi_cuenta_de_gmail/)
+- [Hi, I have an assessment test for a school district for the job title, TECHNOLOGY SERVICE TECHNICIAN. What should I study?!](https://www.reddit.com/r/InformationTechnology/comments/t40po1/hi_i_have_an_assessment_test_for_a_school/)
+- [What are the least stressful tech jobs? or non-tech tech jobs? Currently trying to decide what i want to major in for ny bachelor&#39;s degree.](https://www.reddit.com/r/InformationTechnology/comments/t3zmxg/what_are_the_least_stressful_tech_jobs_or_nontech/)
 - [How can one use a degree in UX Design to make the world a better place?](https://www.reddit.com/r/InformationTechnology/comments/t3wiyp/how_can_one_use_a_degree_in_ux_design_to_make_the/)
 - [Error after 365 Migration on TS- anyone had this happen to them?](https://www.reddit.com/r/InformationTechnology/comments/t3tvxc/error_after_365_migration_on_ts_anyone_had_this/)
 - [Non-Profits: Atlassian gives a 75% discount on all cloud products including Jira Service Management](https://www.reddit.com/r/InformationTechnology/comments/t3pyrx/nonprofits_atlassian_gives_a_75_discount_on_all/)
-- [What do you use to order IT hardware assets? For example dell directly, Lenovo directly?](https://www.reddit.com/r/InformationTechnology/comments/t3pbjp/what_do_you_use_to_order_it_hardware_assets_for/)
-- [Is there a good source on subnetting? How to convert an IP address in CIDR notation to determine number of usable hosts and broadcast address? I am learning subnetting from Google IT but it is not explained well.](https://www.reddit.com/r/InformationTechnology/comments/t3lym0/is_there_a_good_source_on_subnetting_how_to/)
-- [What is the difference between system software and application software? What is the difference between operating system and system software?](https://www.reddit.com/r/InformationTechnology/comments/t3lbz2/what_is_the_difference_between_system_software/)
-- [Information Technology Specialist 1 &lpar;Programming&rpar; Exam Review??](https://www.reddit.com/r/InformationTechnology/comments/t3kz0m/information_technology_specialist_1_programming/)
-- [Help With a Non-Google Searchable Topic](https://www.reddit.com/r/InformationTechnology/comments/t3jb3p/help_with_a_nongoogle_searchable_topic/)
-- [Does cleaning a computer with all-purpose cleaning vinegar and water cause damage?](https://www.reddit.com/r/InformationTechnology/comments/t3b9tn/does_cleaning_a_computer_with_allpurpose_cleaning/)
-- [Universities internet](https://www.reddit.com/r/InformationTechnology/comments/t3b3n8/universities_internet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

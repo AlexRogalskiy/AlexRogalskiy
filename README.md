@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How does Siri know which device to use when you say “Hey Siri”?](https://support.apple.com/en-us/HT208472)
-- [Elon Musk’s promised Starlink terminals have reached Ukraine](https://www.theverge.com/2022/2/28/22955339/elon-musk-spacex-starlink-ukraine-user-terminals-russia-invasion)
-- [GoPuff Is a $ 40B Delivery Company. 9 Years Ago It Started as a Hookah Store](https://read.bustlers.xyz/p/gopuff-is-a-40-billion-delivery-company)
-- [Ukraine Receives Crypto Donations of More Than $22M](https://www.nytimes.com/2022/02/28/business/ukraine-crypto-donations.html)
-- [Vulnerable U.S. electric grid facing threats from Russia and domestic terrorists](https://www.cbsnews.com/news/america-electric-grid-60-minutes-2022-02-27/)
-- [Crypto and Ukraine](https://www.milkroad.com/p/west-fighting-banks-not-tanks-mean-crypto)
-- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
-- [No, bad leftovers didn’t cause teen’s life-threatening infection, amputations](https://arstechnica.com/science/2022/02/experts-skewer-media-reports-blaming-life-threatening-infection-on-bad-lo-mein/)
-- [Vetted freelance blockchain devs are easy to find now](https://airtable.com/shrNBwo1UrJgel6yh?prefill_Source=HackerNews)
-- [Nostalgia MacPaint](https://paint.withdiagram.com/)
+- [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+- [The Internet Is a Force Multiplier for Ukraine](https://www.theverge.com/22955742/ukraine-russia-invasion-social-media-platforms-democracy)
+- [Apex Legends Works on Linux](https://old.reddit.com/r/linux_gaming/comments/t4f15k/apex_legends_seems_to_be_working_via_proton_now/)
+- [Migrate consumer Google Workspace mailboxes to Microsoft 365 or Office 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes)
+- [Calm&#39;s Cofounder Guide to Going Viral](https://read.bustlers.xyz/p/calm)
+- [Amazon workers sent management list of demands, including $25/hour starting wage](https://www.businessinsider.com/workers-first-union-push-at-amazon-retail-store-want-25hr-2022-3)
+- [German Armed Forces Matrix messaging case study &lpar;2020&rpar;](https://element.io/case-studies/bundeswehr)
+- [What&#39;s Cool on Line? &lpar;1996&rpar;](https://www.nytimes.com/1996/10/07/business/what-s-cool-on-line-the-e-mail-basket-please.html)
+- [Ask HN: Version Control for Non-Engineers?](https://news.ycombinator.com/item?id=30522845)
+- [Crowdfunding: Send Putin to Jupiter](https://putler.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

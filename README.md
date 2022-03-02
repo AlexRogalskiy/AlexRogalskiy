@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Will Apple sanction Russia? &lpar;Updated&rpar;](https://www.computerworld.com/article/3651679/will-apple-sanction-russia-updated.html#tk.rss_all)
+- [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
+- [Zoom issues disappointing revenue forecast as growth continues to slow](https://www.computerworld.com/article/3651678/zoom-posts-disappointing-revenue-forecast-as-growth-continues-to-slow.html#tk.rss_all)
+- [After the SWIFT ban, can Russia find other routes for its money — including crypto?](https://www.computerworld.com/article/3651361/after-the-swift-ban-can-russia-find-other-routes-for-its-money-including-crypto.html#tk.rss_all)
 - [Why Apple’s most addictive device boosts its health](https://www.computerworld.com/article/3651449/why-apples-most-addictive-device-boosts-its-health.html#tk.rss_all)
 - [BrandPost:  Small and midsize businesses  can mitigate security risks with patch management](https://www.computerworld.com/article/3651450/small-and-midsize-businesses-can-mitigate-security-risks-with-patch-management.html#tk.rss_all)
 - [In a time of war, it’s important to stay secure](https://www.computerworld.com/article/3651359/in-a-time-of-war-its-important-to-stay-secure.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [New Lenovo devices look to power hybrid working](https://www.computerworld.com/article/3651504/new-lenovo-devices-look-to-power-hybrid-working.html#tk.rss_all)
 - [Behavioral Analytics is getting trickier](https://www.computerworld.com/article/3650675/behavioral-analytics-is-getting-trickier.html#tk.rss_all)
-- [Why SWIFT is the nuclear option of Russian financial sanctions](https://www.computerworld.com/article/3651495/why-swift-is-the-nuclear-option-of-russian-financial-sanctions.html#tk.rss_all)
-- [Ukraine: Can Apple solve this new supply chain challenge?](https://www.computerworld.com/article/3651728/ukraine-can-apple-solve-this-new-supply-chain-challenge.html#tk.rss_all)
-- [Video meetings don’t have to be live](https://www.computerworld.com/article/3651448/video-meetings-don-t-have-to-be-live.html#tk.rss_all)
-- [Windows is in Moscow’s crosshairs, too](https://www.computerworld.com/article/3651490/windows-is-in-moscow-s-crosshairs-too.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

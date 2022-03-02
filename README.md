@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Web devs rally to challenge Apple App Store browser rules](https://open-web-advocacy.org/)
-- [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
-- [Orwell&#39;s Proposed Preface to ‘Animal Farm’](https://orwell.ru/library/novels/Animal_Farm/english/efp_go)
-- [Strangest Sorting Algorithms](https://codoholicconfessions.wordpress.com/2017/05/21/strangest-sorting-algorithms/)
-- [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
-- [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
-- [Wasmer 2.2](https://wasmer.io/posts/wasmer-2.2)
-- [Ask HN: What is the oldest, still supported OS?](https://news.ycombinator.com/item?id=30505219)
-- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
-- [Namecheap: Russia Service Termination](https://news.ycombinator.com/item?id=30504812)
+- [Hidetaka Miyazaki Sees Death as a Feature, Not a Bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
+- [Surprise Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
+- [Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?](https://news.ycombinator.com/item?id=30522524)
+- [You need to turn that system off. Right now. This isn&#39;t a request.](https://twitter.com/tekkub/status/1498753501526069248)
+- [Secure Messengers in War Time](https://nuno.sh/blog/secure-messengers-in-wartime/)
+- [Employers Who Violate Colorado’s Non-Compete Laws Face Stiff New Penalties](https://www.gunder.com/news/employers-who-violate-colorados-non-compete-laws-face-stiff-new-penalties-including-jail/)
+- [What&#39;s Going on Inside Your Node_modules Folder?](https://socket.dev/blog/inside-node-modules)
+- [Winning Wordle](https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb)
+- [Write plain text files](https://sive.rs/plaintext)
+- [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

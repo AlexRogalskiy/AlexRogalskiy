@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest news: Biden vows to make Putin pay; reports of strikes on Kyiv neighbourhoods – live](https://www.theguardian.com/world/live/2022/mar/01/ukraine-russia-latest-news-live-updates-war-vladimir-putin-kyiv-kharkiv-russian-invasion-update)
-- [Biden delivers State of the Union address and condemns Vladimir Putin – live](https://www.theguardian.com/us-news/live/2022/mar/01/joe-biden-state-of-the-union-address-putin-russia-ukraine-live-latest)
-- [Polish charity to take in 2,000 Ukrainian orphans](https://www.theguardian.com/world/2022/mar/02/polish-charity-to-take-in-2000-ukrainian-orphans)
-- [Ukraine: what we know on day seven of Russia’s invasion](https://www.theguardian.com/world/2022/mar/02/ukraine-russia-invasion-war-what-we-know-on-day-seven)
-- [Ballina flood: wall of water racing to town as NSW conditions remain ‘very dangerous’](https://www.theguardian.com/australia-news/2022/mar/02/ballina-flood-wall-of-water-racing-to-town-amid-warning-nsw-conditions-remain-very-dangerous)
-- [Dior and Saint Laurent: an elevated discussion between past and future](https://www.theguardian.com/fashion/2022/mar/02/dior-and-saint-laurent-an-elevated-discussion-between-past-and-future)
-- [Man arrested after shooting of 15-year-old girl in Liverpool](https://www.theguardian.com/uk-news/2022/mar/02/man-arrested-after-shooting-of-15-year-old-girl-in-liverpool)
-- [Private healthcare boom adds to fears of two-tier system in UK](https://www.theguardian.com/society/2022/mar/02/private-healthcare-boom-two-tier-system-uk)
-- [Paleontology ‘a hotbed of unethical practices rooted in colonialism’, say scientists](https://www.theguardian.com/uk-news/2022/mar/02/paleontology-a-hotbed-of-unethical-practices-rooted-in-colonialism-say-scientists)
-- [Watchdog bans London tube Floki Inu cryptocurrency ad campaign](https://www.theguardian.com/technology/2022/mar/02/watchdog-bans-floki-inu-cryptocurrency-campaign-on-london-tube-elon-musk)
+- [Roger Graef, acclaimed TV documentary maker, dies aged 85](https://www.theguardian.com/tv-and-radio/2022/mar/03/roger-graef-acclaimed-tv-documentary-maker-dies-aged-85)
+- [Russia-Ukraine war latest: 1m refugees have fled since invasion; Russian controls imposed in Kherson, says mayor– live](https://www.theguardian.com/world/live/2022/mar/02/ukraine-news-russia-war-kyiv-kharkiv-russian-invasion-vladimir-putin-joe-biden-latest-live-updates)
+- [January 6 commitee files legal challenge against former Trump lawyer](https://www.theguardian.com/us-news/2022/mar/02/january-6-commitee-challenge-trump-lawyer)
+- [Germany seizes Russian billionaire Alisher Usmanov’s $600m superyacht – report](https://www.theguardian.com/world/2022/mar/03/germany-seizes-russian-billionaire-alisher-usmanovs-600m-superyacht-report)
+- [Russia-Ukraine war: what we know on day eight](https://www.theguardian.com/world/2022/mar/03/russia-ukraine-war-russian-invasion-news-what-we-know-so-far-on-day-seven)
+- [Lawrence stakes England claim as Bairstow hits ton in Windies warm-up](https://www.theguardian.com/sport/2022/mar/03/cricket-england-warm-up-dan-lawrence-jonny-bairstow-west-indies)
+- [NSW floods: almost 500,000 people across state under evacuation orders or warnings](https://www.theguardian.com/australia-news/2022/mar/03/nsw-floods-almost-500000-people-across-greater-sydney-under-evacuation-orders)
+- [Maxwells in spotlight and Frozen Planet returns in BBC’s documentaries push](https://www.theguardian.com/media/2022/mar/03/maxwells-in-spotlight-and-frozen-planet-returns-in-bbcs-documentaries-push)
+- [Scottish Premiership roundup: Celtic and Rangers rediscover winning ways](https://www.theguardian.com/football/2022/mar/02/scottish-premiership-roundup-celtic-and-rangers-rediscover-winning-ways)
+- [Moscow police detain children for laying flowers at Ukrainian embassy](https://www.theguardian.com/world/2022/mar/02/moscow-police-arrest-children-for-laying-flowers-at-ukrainian-embassy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

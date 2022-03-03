@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Remote Workforce Inclusion Requires Combination of Tech Tools, Human Touch](https://www.informationweek.com/strategic-cio/remote-workforce-inclusion-requires-combination-of-tech-tools-human-touch)
+- [How Language Can Cultivate Inclusivity in Tech](https://www.informationweek.com/it-life/how-language-can-cultivate-inclusivity-in-tech)
+- [Upskilling: The Best Way to Keep Network Operations Current, Reliable, and Secure](https://www.informationweek.com/team-building-and-staffing/upskilling-the-best-way-to-keep-network-operations-current-reliable-and-secure)
 - [How to Search for Talent on a Global Scale](https://www.informationweek.com/team-building-and-staffing/how-to-search-for-talent-on-a-global-scale)
 - [How to Make Your Interview Process More Efficient](https://www.informationweek.com/it-life/how-to-make-your-interview-process-more-efficient)
 - [Cyber Threat Alliance and Cisco Talos Talk Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/cyber-threat-alliance-and-cisco-talos-talk-threat-landscape)
@@ -376,9 +379,6 @@
 - [3G Sunsetting Reality Sets In as AT&amp;T Turns Off Service](https://www.informationweek.com/it-life/3g-sunsetting-reality-sets-in-as-at-t-turns-off-service)
 - [Enterprise Guide to Edge Computing](https://www.informationweek.com/cloud/enterprise-guide-to-edge-computing)
 - [A Plea to the Private Sector: Follow DOD on Data Strategy Tenets](https://www.informationweek.com/big-data/a-plea-to-the-private-sector-follow-dod-on-data-strategy-tenets)
-- [Can AI Lead the Way in Low Code/No Code App Development?](https://www.informationweek.com/devops/can-ai-lead-the-way-in-low-code-no-code-app-development-)
-- [The Circular Economy for Enterprise Computing Gear is Evolving](https://www.informationweek.com/strategic-cio/the-circular-economy-for-enterprise-computing-gear-is-evolving)
-- [Customers Deserve Great Experiences … and So Do Your Agents](https://www.informationweek.com/strategic-cio/customers-deserve-great-experiences-and-so-do-your-agents)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

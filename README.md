@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
-- [The Internet Is a Force Multiplier for Ukraine](https://www.theverge.com/22955742/ukraine-russia-invasion-social-media-platforms-democracy)
-- [Apex Legends Works on Linux](https://old.reddit.com/r/linux_gaming/comments/t4f15k/apex_legends_seems_to_be_working_via_proton_now/)
-- [Migrate consumer Google Workspace mailboxes to Microsoft 365 or Office 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes)
-- [Calm&#39;s Cofounder Guide to Going Viral](https://read.bustlers.xyz/p/calm)
-- [Amazon workers sent management list of demands, including $25/hour starting wage](https://www.businessinsider.com/workers-first-union-push-at-amazon-retail-store-want-25hr-2022-3)
-- [German Armed Forces Matrix messaging case study &lpar;2020&rpar;](https://element.io/case-studies/bundeswehr)
-- [What&#39;s Cool on Line? &lpar;1996&rpar;](https://www.nytimes.com/1996/10/07/business/what-s-cool-on-line-the-e-mail-basket-please.html)
-- [Ask HN: Version Control for Non-Engineers?](https://news.ycombinator.com/item?id=30522845)
-- [Crowdfunding: Send Putin to Jupiter](https://putler.io/)
+- [Smart YouTube](https://blakeir.com/blog/smart-youtube)
+- [What If San Francisco Does Not Recover?](https://www.zerohedge.com/personal-finance/what-if-san-francisco-does-not-recover)
+- [Bring Back Risk](https://www.city-journal.org/bring-back-risk)
+- [Savor Wordle](https://wordle.tomhummel.com/a/savor/)
+- [Most Washington Voters Agree: Repeal Parking Mandates Near Transit](https://www.sightline.org/2022/03/01/most-washington-voters-agree-repeal-parking-mandates-near-transit/)
+- [Life of an Airline Flight: What Systems Get You from Here to There via the Air](https://www.youtube.com/watch?v=8_t41xvPp1w)
+- [New mysterious Apple “Peek Performance” event on March 8](https://twitter.com/gregjoz/status/1499067834411872258)
+- [Kinopio](https://kinopio.club/)
+- [Primary Chronicle](https://en.wikipedia.org/wiki/Primary_Chronicle)
+- [Legendary theoretical physicist Hans Bethe delivers 3 lectures on quantum theory](http://bethe.cornell.edu/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

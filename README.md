@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Developers push back against Apple ‘ban’ on third-party browsers](https://www.computerworld.com/article/3652348/developers-push-back-against-apple-ban-on-third-party-browsers.html#tk.rss_all)
+- [CVS app glitch makes – then cancels — vaccine appointments. And it gets worse.](https://www.computerworld.com/article/3651929/cvs-app-glitch-makes-then-cancels-vaccine-appointments-and-it-gets-worse.html#tk.rss_all)
+- [Could poor at-home internet dampen the remote work revolution?](https://www.computerworld.com/article/3651365/could-poor-at-home-internet-dampen-the-remote-work-revolution.html#tk.rss_all)
+- [Apple announces its spring Mac/iPad/iPhone event](https://www.computerworld.com/article/3651456/apple-announces-its-spring-macipadiphone-event.html#tk.rss_all)
+- [14 handy hidden features in the Gmail Android app](https://www.computerworld.com/article/3307097/gmail-android-app.html#tk.rss_all)
+- [Cortana explained: The rocky past and promising future of Microsoft’s digital assistant](https://www.computerworld.com/article/3252218/cortana-explained-why-microsofts-virtual-assistant-is-wired-for-business.html#tk.rss_all)
+- [Slack addition boosts Salesforce revenue forecast to $32B](https://www.computerworld.com/article/3651932/slack-addition-boosts-salesforce-revenue-forecast-to-32b.html#tk.rss_all)
 - [Will Apple sanction Russia? &lpar;Updated&rpar;](https://www.computerworld.com/article/3651679/will-apple-sanction-russia-updated.html#tk.rss_all)
 - [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Zoom issues disappointing revenue forecast as growth continues to slow](https://www.computerworld.com/article/3651678/zoom-posts-disappointing-revenue-forecast-as-growth-continues-to-slow.html#tk.rss_all)
-- [After the SWIFT ban, can Russia find other routes for its money — including crypto?](https://www.computerworld.com/article/3651361/after-the-swift-ban-can-russia-find-other-routes-for-its-money-including-crypto.html#tk.rss_all)
-- [Why Apple’s most addictive device boosts its health](https://www.computerworld.com/article/3651449/why-apples-most-addictive-device-boosts-its-health.html#tk.rss_all)
-- [BrandPost:  Small and midsize businesses  can mitigate security risks with patch management](https://www.computerworld.com/article/3651450/small-and-midsize-businesses-can-mitigate-security-risks-with-patch-management.html#tk.rss_all)
-- [In a time of war, it’s important to stay secure](https://www.computerworld.com/article/3651359/in-a-time-of-war-its-important-to-stay-secure.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [New Lenovo devices look to power hybrid working](https://www.computerworld.com/article/3651504/new-lenovo-devices-look-to-power-hybrid-working.html#tk.rss_all)
-- [Behavioral Analytics is getting trickier](https://www.computerworld.com/article/3650675/behavioral-analytics-is-getting-trickier.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Why training alone is not enough](https://www.computerweekly.com/opinion/Why-training-alone-is-not-enough)
+- [Eight schools recognised for quality security education](https://www.computerweekly.com/news/252514069/Eight-schools-recognised-for-quality-security-education)
+- [Raspberry Pi at 10: Cheaper than chips](https://www.computerweekly.com/news/252514066/Raspberry-Pi-at-10-Cheaper-than-chips)
+- [Cyber companies step up support for Ukraine](https://www.computerweekly.com/news/252514063/Cyber-companies-step-up-support-for-Ukraine)
+- [SunSeed malware hits those involved in Ukraine refugee relief](https://www.computerweekly.com/news/252514061/SunSeed-malware-hits-those-involved-in-Ukraine-refugee-relief)
+- [Decarbonising datacentres: Turning the hot air about heat reuse into real-life use cases](https://www.computerweekly.com/feature/Decarbonising-datacentres-Turning-the-hot-air-about-heat-reuse-into-real-life-use-cases)
+- [Ban predictive policing systems in EU AI Act, says civil society](https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society)
+- [Ship from store: A pandemic retail trend that’s here to stay?](https://www.computerweekly.com/feature/Ship-from-store-a-pandemic-retail-trend-thats-here-to-stay)
 - [BBC blasted with millions of malicious emails](https://www.computerweekly.com/news/252514025/BBC-blasted-with-millions-of-malicious-emails)
 - [DCMS opens consultation on telecoms cyber standards](https://www.computerweekly.com/news/252514022/DCMS-opens-consultation-on-telecoms-cyber-standards)
-- [ESET details new IsaacWiper malware used on Ukraine](https://www.computerweekly.com/news/252514012/ESET-details-new-IsaacWiper-malware-used-on-Ukraine)
-- [Retailers get business-critical IT and data management in order](https://www.computerweekly.com/feature/Retailers-get-business-critical-IT-and-data-management-in-order)
-- [Workplace surveillance ‘spiralling out of control’, says TUC](https://www.computerweekly.com/news/252514006/Workplace-surveillance-spiraling-out-of-control-says-TUC)
-- [ASOS commits to keep using Microsoft Azure for another five years to support business growth push](https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push)
-- [Forrester: Boom in IT spending to drive economic recovery](https://www.computerweekly.com/news/252514001/Forrester-Boom-in-IT-spending-to-drive-economic-recovery)
-- [Kao Data expands Harlow datacentre campus by opening second 10MW facility](https://www.computerweekly.com/news/252513997/Kao-Data-expands-Harlow-datacentre-campus-by-opening-second-10MW-facility)
-- [Post Office Horizon scandal enters public conscience – at last](https://www.computerweekly.com/ezine/Computer-Weekly/Post-Office-Horizon-scandal-enters-public-conscience-at-last)
-- [UK Treasury publishes consultation on online sales tax](https://www.computerweekly.com/news/252513957/UK-Treasury-publishes-consultation-on-online-sales-tax)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

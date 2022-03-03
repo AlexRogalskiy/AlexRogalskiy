@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hidetaka Miyazaki Sees Death as a Feature, Not a Bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
-- [Surprise Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
-- [Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?](https://news.ycombinator.com/item?id=30522524)
-- [You need to turn that system off. Right now. This isn&#39;t a request.](https://twitter.com/tekkub/status/1498753501526069248)
-- [Secure Messengers in War Time](https://nuno.sh/blog/secure-messengers-in-wartime/)
-- [Employers Who Violate Colorado’s Non-Compete Laws Face Stiff New Penalties](https://www.gunder.com/news/employers-who-violate-colorados-non-compete-laws-face-stiff-new-penalties-including-jail/)
-- [What&#39;s Going on Inside Your Node_modules Folder?](https://socket.dev/blog/inside-node-modules)
-- [Winning Wordle](https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb)
-- [Write plain text files](https://sive.rs/plaintext)
-- [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+- [Space junk on a 5,800-MPH collision-course with moon on Friday](https://www.latimes.com/science/story/2022-03-02/space-junk-on-a-5-800-mph-collision-course-with-moon-on-friday)
+- [Flexport &lpar;YC W14&rpar; is hiring software engineers, esp. with logistics experience](https://Flexport.com/careers)
+- [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
+- [My Stripe Tax Story](https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c)
+- [Moving money internationally](https://bam.kalzumeus.com/archive/moving-money-internationally/)
+- [DeepNet: Scaling Transformers to 1k Layers](https://arxiv.org/abs/2203.00555)
+- [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
+- [Google mandates workers back to Silicon Valley, other offices from April 4](https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/)
+- [Producing graphene in bulk using waste food, plastic and other materials](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
+- [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

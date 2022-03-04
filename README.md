@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Mastercard funds training programs for women and POC at the Rogers Cybersecure Catalyst](https://www.itworldcanada.com/article/mastercard-funds-training-programs-for-women-and-poc-at-the-rogers-cybersecure-catalyst/474918)
+- [Canadian government announces $240 million investment in semiconductor and photonics industries](https://www.itworldcanada.com/article/canadian-government-announces-240-million-investment-in-semiconductor-and-photonics-industries/474893)
+- [Samsung and Telus deploy Canada’s first MCPTX service for emergency responders](https://www.itworldcanada.com/article/samsung-and-telus-deploy-canadas-first-mcptx-service-for-emergency-responders/474908)
+- [Ukraine’s IT outsourcing industry threatened by Russian invasion](https://www.itworldcanada.com/article/ukraines-it-outsourcing-industry-threatened-by-russian-invasion/474865)
+- [Hashtag Trending March 3 – Biden pushes for child safety laws on social media; Amazon employees ask for higher pay; Apple halts product sales to Russia](https://www.itworldcanada.com/article/hashtag-trending-mar-3-biden-pushes-for-child-safety-laws-on-social-media-amazon-employees-ask-for-higher-pay-apple-halts-product-sales-to-russia/474872)
 - [TekSavvy calls for investigation of CRTC chair Ian Scott](https://www.itworldcanada.com/article/teksavvy-calls-for-investigation-of-crtc-chair-ian-scott/474846)
 - [Successful phishing attacks were up in 2021: Report](https://www.itworldcanada.com/article/successful-phishing-attacks-were-up-in-2021-report/474808)
 - [Cyber Security Today, March 2, 2022 — Toyota and Aon deal with cyber attacks, updates on Axis and Nvidia attacks, and more](https://www.itworldcanada.com/article/cyber-security-today-march-2-2022-toyota-and-aon-deal-with-cyber-attacks-updates-on-axis-and-nvidia-attacks-and-more/474804)
 - [Hashtag Trending Mar. 2 – Reddit quarantines r/Russia; Nvidia experiences cyberattack; Italy’s semiconductor investment](https://www.itworldcanada.com/article/hashtag-trending-march-2-reddit-quarantines-r-russia-nvidia-experiences-cyberattack-italys-semiconductor-investment/474800)
 - [Bell Canada deploys Google Distributed Cloud Edge in its network](https://www.itworldcanada.com/article/bell-canada-deploys-google-distributed-cloud-edge-in-its-network/474792)
-- [Canadian healthcare provider’s unpatched Exchange server exploited twice by ransomware gangs](https://www.itworldcanada.com/article/canadian-healthcare-providers-unpatched-exchange-server-exploited-twice-by-ransomware-gangs/474780)
-- [Coffee Briefing March 1, 2022 – AWS-NHL partnership; Gen Z and identity theft; Calibre Scientific opens online lab in North America; OpenText CE 22.1; and more](https://www.itworldcanada.com/article/coffee-briefing-march-1-2022-aws-nhl-partnership-gen-z-and-identity-theft-calibre-scientific-opens-online-lab-in-north-america-opentext-ce-22-1-and-more/474761)
-- [Huawei opens its first experience store in Toronto](https://www.itworldcanada.com/article/huawei-opens-its-first-experience-store-in-toronto/474703)
-- [New wiper malware used against Ukraine could be used against other targets](https://www.itworldcanada.com/article/new-wiper-malware-used-against-ukraine-could-be-used-against-other-targets/474743)
-- [Hashtag Trending Mar. 1 – Meta tackles disinformation campaigns; Starlink in Ukraine; Germany’s renewable energy](https://www.itworldcanada.com/article/hashtag-trending-mar-1-meta-tackles-disinformation-campaigns-starlink-in-ukraine-germanys-renewable-energy/474739)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

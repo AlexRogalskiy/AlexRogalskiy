@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Roger Graef, acclaimed TV documentary maker, dies aged 85](https://www.theguardian.com/tv-and-radio/2022/mar/03/roger-graef-acclaimed-tv-documentary-maker-dies-aged-85)
-- [Russia-Ukraine war latest: 1m refugees have fled since invasion; Russian controls imposed in Kherson, says mayor– live](https://www.theguardian.com/world/live/2022/mar/02/ukraine-news-russia-war-kyiv-kharkiv-russian-invasion-vladimir-putin-joe-biden-latest-live-updates)
-- [January 6 commitee files legal challenge against former Trump lawyer](https://www.theguardian.com/us-news/2022/mar/02/january-6-commitee-challenge-trump-lawyer)
-- [Germany seizes Russian billionaire Alisher Usmanov’s $600m superyacht – report](https://www.theguardian.com/world/2022/mar/03/germany-seizes-russian-billionaire-alisher-usmanovs-600m-superyacht-report)
-- [Russia-Ukraine war: what we know on day eight](https://www.theguardian.com/world/2022/mar/03/russia-ukraine-war-russian-invasion-news-what-we-know-so-far-on-day-seven)
-- [Lawrence stakes England claim as Bairstow hits ton in Windies warm-up](https://www.theguardian.com/sport/2022/mar/03/cricket-england-warm-up-dan-lawrence-jonny-bairstow-west-indies)
-- [NSW floods: almost 500,000 people across state under evacuation orders or warnings](https://www.theguardian.com/australia-news/2022/mar/03/nsw-floods-almost-500000-people-across-greater-sydney-under-evacuation-orders)
-- [Maxwells in spotlight and Frozen Planet returns in BBC’s documentaries push](https://www.theguardian.com/media/2022/mar/03/maxwells-in-spotlight-and-frozen-planet-returns-in-bbcs-documentaries-push)
-- [Scottish Premiership roundup: Celtic and Rangers rediscover winning ways](https://www.theguardian.com/football/2022/mar/02/scottish-premiership-roundup-celtic-and-rangers-rediscover-winning-ways)
-- [Moscow police detain children for laying flowers at Ukrainian embassy](https://www.theguardian.com/world/2022/mar/02/moscow-police-arrest-children-for-laying-flowers-at-ukrainian-embassy)
+- [Russia-Ukraine war latest news: foreign minister urges ceasefire after shelling starts fire at nuclear power plant – live](https://www.theguardian.com/world/live/2022/mar/03/ukraine-news-russia-war-vladimir-putin-biden-latest-live-updates-kherson-kyiv-kharkiv-refugees-russian-invasion)
+- [Birmingham Erdington byelection winner is Labour’s Paulette Hamilton](https://www.theguardian.com/uk-news/2022/mar/04/birmingham-erdington-byelection-winner-is-labours-paulette-hamilton)
+- [Novak Djokovic set for French Open with vaccination restrictions to be eased](https://www.theguardian.com/sport/2022/mar/04/novak-djokovic-set-for-french-open-with-vaccination-restrictions-to-be-eased)
+- [War in Ukraine: what we know on day nine of the Russian invasion](https://www.theguardian.com/world/2022/mar/04/war-in-ukraine-what-we-know-on-day-nine-of-the-russian-invasion)
+- [Rod Marsh: baggy green brigadier and keeper of Australian Test cricket culture | Angus Fontaine](https://www.theguardian.com/sport/2022/mar/04/rod-marsh-the-baggy-green-brigadier-and-keeper-of-australian-test-cricket-culture)
+- [Members of Ukrainian parliament sing national anthem as they gather in Kyiv – video](https://www.theguardian.com/global/video/2022/mar/04/members-of-ukrainian-parliament-sing-national-anthem-as-they-gather-in-kyiv-video)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/mar/04/premier-league-10-things-to-look-out-for-this-weekend)
+- [UK data watchdog urges vigilance amid heightened cyber threat](https://www.theguardian.com/technology/2022/mar/04/uk-data-watchdog-urges-vigilance-amid-heightened-cyber-threat)
+- [UK’s economic growth to halve this year says British Chambers of Commerce](https://www.theguardian.com/business/2022/mar/04/uks-economic-growth-to-halve-this-year-says-british-chambers-of-commerce)
+- [Early stegosaur fossils may shed light on stegosaurus evolution](https://www.theguardian.com/science/2022/mar/04/early-stegosaur-fossils-may-shed-light-on-stegosaurus-evolution)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

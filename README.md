@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Pulumi launches Business Critical edition for enterprise customers](https://www.infoworld.com/article/3651514/pulumi-launches-business-critical-edition-for-enterprise-customers.html#tk.rss_all)
+- [Java 8 still dominates, but Java 17 wave is coming – survey](https://www.infoworld.com/article/3652408/java-8-still-dominates-but-java-17-wave-is-coming-survey.html#tk.rss_all)
+- [Easier ggplot with ggcharts in R](https://www.infoworld.com/article/3651770/easier-ggplot-with-ggcharts-in-r.html#tk.rss_all)
+- [Rust programming for Java developers](https://www.infoworld.com/article/3651362/rust-programming-for-java-developers.html#tk.rss_all)
 - [Harvard census identifies most commonly used open source packages](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html#tk.rss_all)
 - [Use DirectML to train PyTorch machine learning models on a PC](https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html#tk.rss_all)
 - [Software development coaching dos and don’ts](https://www.infoworld.com/article/3651533/software-development-coaching-dos-and-donts.html#tk.rss_all)
 - [Review: Creatio 8.0 Atlas shoulders no-code CRM](https://www.infoworld.com/article/3651500/review-creatio-80-atlas-shoulders-no-code-crm.html#tk.rss_all)
 - [Wasmer 2.2 revs compiler, supports Apple M1 and Aarch64](https://www.infoworld.com/article/3652048/wasmer-22-revs-compiler-supports-apple-m1-and-aarch64.html#tk.rss_all)
 - [TypeScript 4.6 adds control flow analysis, ES2022 support](https://www.infoworld.com/article/3647880/typescript-46-adds-control-flow-analysis-es2022-support.html#tk.rss_all)
-- [VMware adds container runtime protection to Carbon Black security portfolio](https://www.infoworld.com/article/3651681/vmware-adds-container-runtime-protection-to-carbon-black-security-portfolio.html#tk.rss_all)
-- [The truth about VDI and cloud computing](https://www.infoworld.com/article/3651451/the-truth-about-vdi-and-cloud-computing.html#tk.rss_all)
-- [JSONB in PostgreSQL today and tomorrow](https://www.infoworld.com/article/3651356/jsonb-in-postgresql-today-and-tomorrow.html#tk.rss_all)
-- [AWS Lambda backs .NET 6](https://www.infoworld.com/article/3651507/aws-lambda-backs-net-6.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

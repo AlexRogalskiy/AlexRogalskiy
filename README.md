@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [SAP and Oracle express solidarity with Ukraine against Russia](https://www.computerweekly.com/news/252514133/SAP-and-Oracle-express-solidarity-with-Ukraine-against-Russia)
+- [Boardroom does not see ransomware as a priority](https://www.computerweekly.com/news/252514125/Boardroom-does-not-see-ransomware-as-a-priority)
+- [Nato Cyber Security unit tests post-quantum VPN](https://www.computerweekly.com/news/252514105/Nato-Cyber-Security-unit-tests-post-quantum-VPN)
+- [Direct action is a risky business for Ukraine&#39;s volunteer hackers](https://www.computerweekly.com/news/252514103/Direct-action-is-a-risky-business-for-Ukraines-volunteer-hackers)
+- [Use of encrypted Telegram platform soars in Ukraine, Russia](https://www.computerweekly.com/news/252514111/Use-of-encrypted-Telegram-platform-soars-in-Ukraine-Russia)
+- [Seguridad empresarial frente al cibercrimen en evolución](https://www.computerweekly.com/es/ehandbook/Seguridad-empresarial-frente-al-cibercrimen-en-evolucion)
+- [English Channel surveillance used ‘to deter and punish migrants’](https://www.computerweekly.com/feature/English-Channel-surveillance-used-to-deter-and-punish-migrants)
 - [Why training alone is not enough](https://www.computerweekly.com/opinion/Why-training-alone-is-not-enough)
 - [Eight schools recognised for quality security education](https://www.computerweekly.com/news/252514069/Eight-schools-recognised-for-quality-security-education)
 - [Raspberry Pi at 10: Cheaper than chips](https://www.computerweekly.com/news/252514066/Raspberry-Pi-at-10-Cheaper-than-chips)
-- [Cyber companies step up support for Ukraine](https://www.computerweekly.com/news/252514063/Cyber-companies-step-up-support-for-Ukraine)
-- [SunSeed malware hits those involved in Ukraine refugee relief](https://www.computerweekly.com/news/252514061/SunSeed-malware-hits-those-involved-in-Ukraine-refugee-relief)
-- [Decarbonising datacentres: Turning the hot air about heat reuse into real-life use cases](https://www.computerweekly.com/feature/Decarbonising-datacentres-Turning-the-hot-air-about-heat-reuse-into-real-life-use-cases)
-- [Ban predictive policing systems in EU AI Act, says civil society](https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society)
-- [Ship from store: A pandemic retail trend that’s here to stay?](https://www.computerweekly.com/feature/Ship-from-store-a-pandemic-retail-trend-thats-here-to-stay)
-- [BBC blasted with millions of malicious emails](https://www.computerweekly.com/news/252514025/BBC-blasted-with-millions-of-malicious-emails)
-- [DCMS opens consultation on telecoms cyber standards](https://www.computerweekly.com/news/252514022/DCMS-opens-consultation-on-telecoms-cyber-standards)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

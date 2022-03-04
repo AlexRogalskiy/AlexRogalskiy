@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Smart YouTube](https://blakeir.com/blog/smart-youtube)
-- [What If San Francisco Does Not Recover?](https://www.zerohedge.com/personal-finance/what-if-san-francisco-does-not-recover)
-- [Bring Back Risk](https://www.city-journal.org/bring-back-risk)
-- [Savor Wordle](https://wordle.tomhummel.com/a/savor/)
-- [Most Washington Voters Agree: Repeal Parking Mandates Near Transit](https://www.sightline.org/2022/03/01/most-washington-voters-agree-repeal-parking-mandates-near-transit/)
-- [Life of an Airline Flight: What Systems Get You from Here to There via the Air](https://www.youtube.com/watch?v=8_t41xvPp1w)
-- [New mysterious Apple “Peek Performance” event on March 8](https://twitter.com/gregjoz/status/1499067834411872258)
-- [Kinopio](https://kinopio.club/)
-- [Primary Chronicle](https://en.wikipedia.org/wiki/Primary_Chronicle)
-- [Legendary theoretical physicist Hans Bethe delivers 3 lectures on quantum theory](http://bethe.cornell.edu/)
+- [U.S. Oil Tops $112 a Barrel, Highest Since 2011](https://www.thebalance.com/us-oil-tops-usd112-high-since-2011-5220993)
+- [The Tibetan Plateau is one of the great unexplored mysteries](https://twitter.com/JudithGeology/status/1499295147627991044)
+- [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
+- [Before and after images reveal Russian destruction](https://www.bbc.com/news/world-europe-60610840)
+- [In Japan, a million people have shut themselves in their rooms](https://www.abc.net.au/news/2022-02-17/hikikomori-seiko-goto-japan/100792330)
+- [Call for Ukrainian cyber defense. Stop the war](https://hackenproof.com/ukraine-will-win/call-for-ukrainian-cyber-defense-stop-the-war)
+- [Web3 by Example](https://www.web3byexample.com/)
+- [Why We Dream About Past Loves](https://www.nytimes.com/2022/02/23/style/dreams-about-an-ex-love.html)
+- [Electric car prices could be about to plummet](https://news.sky.com/story/electric-car-prices-are-about-to-plummet-heres-why-12536407)
+- [OpenStack Is Dead?](https://ubuntu.com/blog/openstack-is-dead)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

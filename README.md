@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Space junk on a 5,800-MPH collision-course with moon on Friday](https://www.latimes.com/science/story/2022-03-02/space-junk-on-a-5-800-mph-collision-course-with-moon-on-friday)
-- [Flexport &lpar;YC W14&rpar; is hiring software engineers, esp. with logistics experience](https://Flexport.com/careers)
-- [Mayor Breed withdraws proposal to gut city’s surveillance oversight law](https://www.aclunc.org/news/mayor-breed-withdraws-proposal-gut-city-s-surveillance-oversight-law-following-campaign-aclu)
-- [My Stripe Tax Story](https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c)
-- [Moving money internationally](https://bam.kalzumeus.com/archive/moving-money-internationally/)
-- [DeepNet: Scaling Transformers to 1k Layers](https://arxiv.org/abs/2203.00555)
-- [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
-- [Google mandates workers back to Silicon Valley, other offices from April 4](https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/)
-- [Producing graphene in bulk using waste food, plastic and other materials](https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash)
-- [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate)
+- [Ask HN: What are some good keyboards?](https://news.ycombinator.com/item?id=30549628)
+- [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
+- [Fourier Slice Photography &lpar;2005&rpar;](https://graphics.stanford.edu/papers/fourierphoto/)
+- [How the weak can win – A primer on protracted war](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
+- [New York Times tech workers vote to certify union](https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html)
+- [Brave Talk: Unlimited, private video calls, in browser](https://brave.com/talk/)
+- [Speeding up Go&#39;s built-in JSON encoder for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
+- [How “latency numbers everybody should know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- [USDA Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
+- [The inventor of the screw-in coffin](https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

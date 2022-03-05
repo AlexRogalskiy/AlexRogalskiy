@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Scrapping NHS Digital a backward step for patient data rights](https://www.computerweekly.com/news/252514193/Scrapping-NHS-Digital-a-backward-step-for-patient-data-rights)
+- [Microsoft stops sales of products and services to Russia](https://www.computerweekly.com/news/252514191/Microsoft-stops-sales-of-products-and-services-to-Russia)
+- [Assessing the aims of the Government Cyber Security Strategy](https://www.computerweekly.com/opinion/Assessing-the-aims-of-the-Government-Cyber-Security-Strategy)
+- [Universities need better protection from email-based cyber attacks](https://www.computerweekly.com/opinion/Universities-need-better-protection-from-email-based-cyber-attacks)
+- [Diversity and inclusion in STEM – data, culture and social benefit](https://www.computerweekly.com/news/252514131/Diversity-and-inclusion-in-STEM-data-culture-and-social-benefit)
 - [SAP and Oracle express solidarity with Ukraine against Russia](https://www.computerweekly.com/news/252514133/SAP-and-Oracle-express-solidarity-with-Ukraine-against-Russia)
 - [Boardroom does not see ransomware as a priority](https://www.computerweekly.com/news/252514125/Boardroom-does-not-see-ransomware-as-a-priority)
-- [Nato Cyber Security unit tests post-quantum VPN](https://www.computerweekly.com/news/252514105/Nato-Cyber-Security-unit-tests-post-quantum-VPN)
 - [Direct action is a risky business for Ukraine&#39;s volunteer hackers](https://www.computerweekly.com/news/252514103/Direct-action-is-a-risky-business-for-Ukraines-volunteer-hackers)
+- [Nato Cyber Security unit tests post-quantum VPN](https://www.computerweekly.com/news/252514105/Nato-Cyber-Security-unit-tests-post-quantum-VPN)
 - [Use of encrypted Telegram platform soars in Ukraine, Russia](https://www.computerweekly.com/news/252514111/Use-of-encrypted-Telegram-platform-soars-in-Ukraine-Russia)
-- [Seguridad empresarial frente al cibercrimen en evolución](https://www.computerweekly.com/es/ehandbook/Seguridad-empresarial-frente-al-cibercrimen-en-evolucion)
-- [English Channel surveillance used ‘to deter and punish migrants’](https://www.computerweekly.com/feature/English-Channel-surveillance-used-to-deter-and-punish-migrants)
-- [Why training alone is not enough](https://www.computerweekly.com/opinion/Why-training-alone-is-not-enough)
-- [Eight schools recognised for quality security education](https://www.computerweekly.com/news/252514069/Eight-schools-recognised-for-quality-security-education)
-- [Raspberry Pi at 10: Cheaper than chips](https://www.computerweekly.com/news/252514066/Raspberry-Pi-at-10-Cheaper-than-chips)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

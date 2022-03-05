@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers will not get Shaw’s wireless licenses, says Innovation Minister](https://www.itworldcanada.com/article/rogers-will-not-get-shaws-wireless-licenses-says-innovation-minister/474998)
+- [Zoho introduces new version of its Creator platform with a focus on low code](https://www.itworldcanada.com/article/zoho-introduces-new-version-of-its-creator-platform-with-a-focus-on-low-code/474983)
+- [Cyber Security Today, Week in Review for March 4, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-4-2022/474907)
+- [Six quick tactics to blunt a cyber attack from Russia – or any nation state](https://www.itworldcanada.com/article/six-quick-tactics-to-blunt-a-cyber-attack-from-russia-or-any-nation-state/474953)
+- [Cyber Security Today, March 4, 2022 –  Huge numbers of medical infusion pumps at risk, help for Ukrainian organizations hit by ransomware and more](https://www.itworldcanada.com/article/cyber-security-today-march-4-2022-huge-numbers-of-medical-infusion-pumps-at-risk-help-for-ukrainian-organizations-hit-by-ransomware-and-more/474945)
+- [Hashtag Trending March 4 – Amazon closes physical stores; TikTok investigation; EU’s case against China](https://www.itworldcanada.com/article/hashtag-trending-march-4-amazon-closes-physical-stores-tiktok-investigation-eus-case-against-china/474948)
 - [Mastercard funds training programs for women and POC at the Rogers Cybersecure Catalyst](https://www.itworldcanada.com/article/mastercard-funds-training-programs-for-women-and-poc-at-the-rogers-cybersecure-catalyst/474918)
 - [Canadian government announces $240 million investment in semiconductor and photonics industries](https://www.itworldcanada.com/article/canadian-government-announces-240-million-investment-in-semiconductor-and-photonics-industries/474893)
 - [Samsung and Telus deploy Canada’s first MCPTX service for emergency responders](https://www.itworldcanada.com/article/samsung-and-telus-deploy-canadas-first-mcptx-service-for-emergency-responders/474908)
 - [Ukraine’s IT outsourcing industry threatened by Russian invasion](https://www.itworldcanada.com/article/ukraines-it-outsourcing-industry-threatened-by-russian-invasion/474865)
-- [Hashtag Trending March 3 – Biden pushes for child safety laws on social media; Amazon employees ask for higher pay; Apple halts product sales to Russia](https://www.itworldcanada.com/article/hashtag-trending-mar-3-biden-pushes-for-child-safety-laws-on-social-media-amazon-employees-ask-for-higher-pay-apple-halts-product-sales-to-russia/474872)
-- [TekSavvy calls for investigation of CRTC chair Ian Scott](https://www.itworldcanada.com/article/teksavvy-calls-for-investigation-of-crtc-chair-ian-scott/474846)
-- [Successful phishing attacks were up in 2021: Report](https://www.itworldcanada.com/article/successful-phishing-attacks-were-up-in-2021-report/474808)
-- [Cyber Security Today, March 2, 2022 — Toyota and Aon deal with cyber attacks, updates on Axis and Nvidia attacks, and more](https://www.itworldcanada.com/article/cyber-security-today-march-2-2022-toyota-and-aon-deal-with-cyber-attacks-updates-on-axis-and-nvidia-attacks-and-more/474804)
-- [Hashtag Trending Mar. 2 – Reddit quarantines r/Russia; Nvidia experiences cyberattack; Italy’s semiconductor investment](https://www.itworldcanada.com/article/hashtag-trending-march-2-reddit-quarantines-r-russia-nvidia-experiences-cyberattack-italys-semiconductor-investment/474800)
-- [Bell Canada deploys Google Distributed Cloud Edge in its network](https://www.itworldcanada.com/article/bell-canada-deploys-google-distributed-cloud-edge-in-its-network/474792)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

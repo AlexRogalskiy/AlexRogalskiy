@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [U.S. Oil Tops $112 a Barrel, Highest Since 2011](https://www.thebalance.com/us-oil-tops-usd112-high-since-2011-5220993)
-- [The Tibetan Plateau is one of the great unexplored mysteries](https://twitter.com/JudithGeology/status/1499295147627991044)
-- [Let&#39;s Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
-- [Before and after images reveal Russian destruction](https://www.bbc.com/news/world-europe-60610840)
-- [In Japan, a million people have shut themselves in their rooms](https://www.abc.net.au/news/2022-02-17/hikikomori-seiko-goto-japan/100792330)
-- [Call for Ukrainian cyber defense. Stop the war](https://hackenproof.com/ukraine-will-win/call-for-ukrainian-cyber-defense-stop-the-war)
-- [Web3 by Example](https://www.web3byexample.com/)
-- [Why We Dream About Past Loves](https://www.nytimes.com/2022/02/23/style/dreams-about-an-ex-love.html)
-- [Electric car prices could be about to plummet](https://news.sky.com/story/electric-car-prices-are-about-to-plummet-heres-why-12536407)
-- [OpenStack Is Dead?](https://ubuntu.com/blog/openstack-is-dead)
+- [Heardle – Like Wordle, but for Music](https://www.heardle.app/)
+- [A Web Around the World, Part 5: Selling the Telephone](https://www.filfre.net/2022/03/a-web-around-the-world-part-5-selling-the-telephone/)
+- [I just find a Christmas valley in programming industry](https://news.ycombinator.com/item?id=30563434)
+- [FOMO in software? You ain&#39;t missing out – nadh.in](https://nadh.in/blog/fomo-yamo/)
+- [Support Ukrainians by Refunding Old Card Payments](https://news.ycombinator.com/item?id=30563239)
+- [Ask HN: What do you think of the metaverse? [March 2022]](https://news.ycombinator.com/item?id=30563196)
+- [Ask HN: What questions do you ask when evaluating an offer with options?](https://news.ycombinator.com/item?id=30563182)
+- [Keeping Time at Stonehenge](https://www.cambridge.org/core/journals/antiquity/article/keeping-time-at-stonehenge/792A5E8E091C8B7CB9C26B4A35A6B399)
+- [Rekwest – adv Fetch-alike client for Node, with zero deps](https://www.npmjs.com/package/rekwest/v/3.0.1)
+- [Segmented Sleep Makes a Comeback During the Pandemic](https://www.nytimes.com/2022/02/12/style/segmented-sleep.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [4 Common Reasons Low-code Projects Fail](https://www.informationweek.com/software/4-common-reasons-low-code-projects-fail)
+- [10 Ways IT Can Get Ready for the Metaverse](https://www.informationweek.com/big-data/10-ways-it-can-get-ready-for-the-metaverse)
 - [Why Your Organization Needs Deep Visibility into the Current Cyber Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/why-your-organization-needs-deep-visibility-into-the-current-cyber-threat-landscape)
 - [Digital War Chest: Crypto and Russia’s Invasion of Ukraine](https://www.informationweek.com/fintech/digital-war-chest-crypto-and-russias-invasion-of-ukraine)
 - [5 Challenges AI and Analytics are Poised to Transform](https://www.informationweek.com/ai-or-machine-learning/5-challenges-ai-and-analytics-are-poised-to-transform)
@@ -377,8 +379,6 @@
 - [Upskilling: The Best Way to Keep Network Operations Current, Reliable, and Secure](https://www.informationweek.com/team-building-and-staffing/upskilling-the-best-way-to-keep-network-operations-current-reliable-and-secure)
 - [How to Search for Talent on a Global Scale](https://www.informationweek.com/team-building-and-staffing/how-to-search-for-talent-on-a-global-scale)
 - [How to Make Your Interview Process More Efficient](https://www.informationweek.com/it-life/how-to-make-your-interview-process-more-efficient)
-- [Cyber Threat Alliance and Cisco Talos Talk Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/cyber-threat-alliance-and-cisco-talos-talk-threat-landscape)
-- [No, the Cloud Is Not a Green Technology](https://www.informationweek.com/cloud/no-the-cloud-is-not-a-green-technology)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

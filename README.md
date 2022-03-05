@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: What are some good keyboards?](https://news.ycombinator.com/item?id=30549628)
-- [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
-- [Fourier Slice Photography &lpar;2005&rpar;](https://graphics.stanford.edu/papers/fourierphoto/)
-- [How the weak can win – A primer on protracted war](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
-- [New York Times tech workers vote to certify union](https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html)
-- [Brave Talk: Unlimited, private video calls, in browser](https://brave.com/talk/)
-- [Speeding up Go&#39;s built-in JSON encoder for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
-- [How “latency numbers everybody should know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
-- [USDA Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
-- [The inventor of the screw-in coffin](https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin)
+- [WhatsApp Privacy Policy update for people in the European Region](https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-privacy-policy-for-people-in-the-european-region/?lang=en)
+- [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
+- [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
+- [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022)
+- [Possible BGP hijack](https://bgpstream.com/event/287556)
+- [Is the Russian Air Force incapable of complex air operations?](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations/)
+- [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
+- [Steam Deck reports are here](https://www.protondb.com/news/steam-deck-reports-are-here)
+- [Making CRDTs Byzantine Fault Tolerant [pdf]](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
+- [Relationship Hero &lpar;YC S17&rpar; is hiring sales associates &lpar;remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

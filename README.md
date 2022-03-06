@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WhatsApp Privacy Policy update for people in the European Region](https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-privacy-policy-for-people-in-the-european-region/?lang=en)
-- [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
-- [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
-- [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022)
-- [Possible BGP hijack](https://bgpstream.com/event/287556)
-- [Is the Russian Air Force incapable of complex air operations?](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations/)
-- [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
-- [Steam Deck reports are here](https://www.protondb.com/news/steam-deck-reports-are-here)
-- [Making CRDTs Byzantine Fault Tolerant [pdf]](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
-- [Relationship Hero &lpar;YC S17&rpar; is hiring sales associates &lpar;remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
+- [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
+- [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
+- [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
+- [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
+- [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776)
+- [Unveiling the anonymous author: Stylometry techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
+- [Smarking &lpar;YC W15&rpar; is hiring to accelerate mobility digitization](https://www.smarking.com/careers)
+- [The Arc Language Forum](http://arclanguage.org/forum)
+- [Bolivia is awash with contraband cars from Japan](https://www.economist.com/the-americas/2022/03/05/bolivia-is-awash-with-contraband-cars-from-japan)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

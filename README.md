@@ -406,8 +406,8 @@
 - [Diversity and inclusion in STEM – data, culture and social benefit](https://www.computerweekly.com/news/252514131/Diversity-and-inclusion-in-STEM-data-culture-and-social-benefit)
 - [SAP and Oracle express solidarity with Ukraine against Russia](https://www.computerweekly.com/news/252514133/SAP-and-Oracle-express-solidarity-with-Ukraine-against-Russia)
 - [Boardroom does not see ransomware as a priority](https://www.computerweekly.com/news/252514125/Boardroom-does-not-see-ransomware-as-a-priority)
-- [Direct action is a risky business for Ukraine&#39;s volunteer hackers](https://www.computerweekly.com/news/252514103/Direct-action-is-a-risky-business-for-Ukraines-volunteer-hackers)
 - [Nato Cyber Security unit tests post-quantum VPN](https://www.computerweekly.com/news/252514105/Nato-Cyber-Security-unit-tests-post-quantum-VPN)
+- [Direct action is a risky business for Ukraine&#39;s volunteer hackers](https://www.computerweekly.com/news/252514103/Direct-action-is-a-risky-business-for-Ukraines-volunteer-hackers)
 - [Use of encrypted Telegram platform soars in Ukraine, Russia](https://www.computerweekly.com/news/252514111/Use-of-encrypted-Telegram-platform-soars-in-Ukraine-Russia)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 

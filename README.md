@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [ICC Women’s World Cup: Australia v England – live!](https://www.theguardian.com/sport/live/2022/mar/05/australia-vs-england-icc-womens-cricket-world-cup-2022-aus-v-eng-live-updates)
-- [Tributes paid to Shane Warne after Australian icon dies aged 52 – latest updates](https://www.theguardian.com/sport/live/2022/mar/04/shane-warne-tributes-australian-cricket-icon-dies-aged-52)
-- [Russia-Ukraine war latest news: Nato gives ‘green light to bombing’ with lack of no-fly zone, says Zelenskiy](https://www.theguardian.com/world/live/2022/mar/04/ukraine-news-russia-war-vladimir-putin-zelenskiy-kyiv-latest-live-updates-russian-invasion-nuclear-power-plant)
-- [California jogger Sherri Papini staged own violent kidnapping, FBI says](https://www.theguardian.com/us-news/2022/mar/04/california-kidnapping-sherri-papini)
-- [Serena Williams says she ‘would be in jail’ if she behaved like Zverev on court](https://www.theguardian.com/sport/2022/mar/05/serena-williams-alexander-zverev-tennis-double-standard)
-- [‘The worst possible nightmare’: voices from Ukrainian football as war rages](https://www.theguardian.com/football/2022/mar/05/ukrainian-football-voices-russia-invasion-war-worst-nightmare)
-- [‘We’ve no idea if it will work’: Taskmaster launches own streaming service](https://www.theguardian.com/tv-and-radio/2022/mar/05/taskmaster-launches-own-streaming-service-supermax)
-- [Binance founder says cryptocurrencies won’t help Russia evade sanctions](https://www.theguardian.com/technology/2022/mar/04/binance-founder-says-cryptocurrencies-wont-help-russia-evade-sanctions)
-- [Reporter killed in Mexico to become seventh journalist killing this year](https://www.theguardian.com/world/2022/mar/04/seventh-journalist-killed-mexico)
-- [Viktor Hovland overtakes Rory McIlroy to take halfway lead at Bay Hill](https://www.theguardian.com/sport/2022/mar/04/viktor-hovland-overtakes-mcilroy-to-take-halfway-lead-at-bay-hill)
+- [Russia-Ukraine war latest: UK sets out international ‘plan of action’ for crisis; Ukraine calls for more Nato help in meeting with US – live](https://www.theguardian.com/world/live/2022/mar/05/russia-ukraine-war-latest-news-nato-gives-green-light-to-bombing-with-lack-of-no-fly-zone-says-zelenskiy)
+- [Shane Warne suffered chest pains before he travelled to Thailand, police say](https://www.theguardian.com/sport/2022/mar/06/shane-warne-suffered-chest-pains-before-he-travelled-to-thailand-police-say)
+- [Bank of England puts Covid behind it, but now must face costs of war](https://www.theguardian.com/business/2022/mar/06/bank-puts-covid-behind-it-but-faces-repercussions-of-war)
+- [Visa and Mastercard will both suspend operations in Russia](https://www.theguardian.com/world/2022/mar/05/visa-and-mastercard-will-both-suspend-operations-in-russia)
+- [The edit: 12 of the best sling backs – in pictures](https://www.theguardian.com/fashion/gallery/2022/mar/05/the-edit-12-of-the-best-sling-backs-in-pictures)
+- [Gooch and Horschel share Bay Hill lead as Hovland falters and McIlroy drifts](https://www.theguardian.com/sport/2022/mar/05/talor-gooch-and-billy-horschel-share-lead-before-final-round-at-bay-hill)
+- [Defiant Putin warns the west: your sanctions are akin to an act of war](https://www.theguardian.com/world/2022/mar/05/defiant-putin-warns-the-west-your-sanctions-are-akin-to-an-act-of-war)
+- [Harry Randall hoping practice pays off as England aim to take final step](https://www.theguardian.com/sport/2022/mar/05/harry-randall-hoping-practice-pays-off-as-england-aim-to-take-final-step)
+- [Anti-Covid controls protest convoy gathers on outskirts of Washington DC](https://www.theguardian.com/us-news/2022/mar/05/covid-protest-convoy-washington-dc)
+- [Labour: Angela Rayner will ‘push’ for next leader to be a woman](https://www.theguardian.com/politics/2022/mar/05/labour-angela-rayner-will-push-for-next-leader-to-be-a-woman)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

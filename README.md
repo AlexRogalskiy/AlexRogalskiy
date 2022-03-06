@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Heardle – Like Wordle, but for Music](https://www.heardle.app/)
-- [A Web Around the World, Part 5: Selling the Telephone](https://www.filfre.net/2022/03/a-web-around-the-world-part-5-selling-the-telephone/)
-- [I just find a Christmas valley in programming industry](https://news.ycombinator.com/item?id=30563434)
-- [FOMO in software? You ain&#39;t missing out – nadh.in](https://nadh.in/blog/fomo-yamo/)
-- [Support Ukrainians by Refunding Old Card Payments](https://news.ycombinator.com/item?id=30563239)
-- [Ask HN: What do you think of the metaverse? [March 2022]](https://news.ycombinator.com/item?id=30563196)
-- [Ask HN: What questions do you ask when evaluating an offer with options?](https://news.ycombinator.com/item?id=30563182)
-- [Keeping Time at Stonehenge](https://www.cambridge.org/core/journals/antiquity/article/keeping-time-at-stonehenge/792A5E8E091C8B7CB9C26B4A35A6B399)
-- [Rekwest – adv Fetch-alike client for Node, with zero deps](https://www.npmjs.com/package/rekwest/v/3.0.1)
-- [Segmented Sleep Makes a Comeback During the Pandemic](https://www.nytimes.com/2022/02/12/style/segmented-sleep.html)
+- [Vagueness](https://plato.stanford.edu/entries/vagueness/)
+- [DEC64: Decimal Floating Point](https://www.crockford.com/dec64.html)
+- [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
+- [The Scientist and Engineer&#39;s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- [The Socratic Method: Teaching by Asking Instead of by Telling](http://www.garlikov.com/Soc_Meth.html)
+- [Jim Creek Naval Radio Station &lpar;2019&rpar;](https://www.historylink.org/File/20778)
+- [America Was Wrong About Ethanol – Study Shows [video]](https://www.youtube.com/watch?v=F-yDKeya4SU)
+- [Dead Hand “fail deadly” automated nuclear weapon launcher](https://en.wikipedia.org/wiki/Dead_Hand)
+- [The technological case against Bitcoin and blockchain](https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/)
+- [Ukraine Tech Collective](https://news.ycombinator.com/item?id=30574267)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

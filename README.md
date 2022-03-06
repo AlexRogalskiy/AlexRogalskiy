@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Common IT troubleshooting Solutions](https://www.reddit.com/r/InformationTechnology/comments/t7jrmz/common_it_troubleshooting_solutions/)
+- [Confused on Network ID: Is a network ID an IP address for subnetting table or part of an IP address?](https://www.reddit.com/r/InformationTechnology/comments/t7f9uj/confused_on_network_id_is_a_network_id_an_ip/)
+- [Career path decision stuck in a Crossroad of thoughts...](https://www.reddit.com/r/InformationTechnology/comments/t7f7j5/career_path_decision_stuck_in_a_crossroad_of/)
+- [Digital Organization](https://www.reddit.com/r/InformationTechnology/comments/t76ofm/digital_organization/)
 - [can&#39;t delete stuff, also can someone explain me what is Zulu platform x64 is?](https://www.reddit.com/r/InformationTechnology/comments/t5xpme/cant_delete_stuff_also_can_someone_explain_me/)
 - [Can you share IP addresses and MAC addresses with random strangers? Should they be treated like confidential information like your credit card info?](https://www.reddit.com/r/InformationTechnology/comments/t5sxh5/can_you_share_ip_addresses_and_mac_addresses_with/)
 - [Going back to school&lpar;help needed&rpar;](https://www.reddit.com/r/InformationTechnology/comments/t5n1gg/going_back_to_schoolhelp_needed/)
 - [Stand-alone switch or DIY router as a switch?](https://www.reddit.com/r/InformationTechnology/comments/t5dn3f/standalone_switch_or_diy_router_as_a_switch/)
 - [Are you passionate about it?](https://www.reddit.com/r/InformationTechnology/comments/t56e2k/are_you_passionate_about_it/)
 - [Why do health departments know your ip address?](https://www.reddit.com/r/InformationTechnology/comments/t55h4w/why_do_health_departments_know_your_ip_address/)
-- [View Every Command Ran During App Start](https://www.reddit.com/r/InformationTechnology/comments/t4ofxy/view_every_command_ran_during_app_start/)
-- [An easy Linux Server for beginners](https://www.reddit.com/r/InformationTechnology/comments/t4jqjn/an_easy_linux_server_for_beginners/)
-- [Can anyone suggest a device management platform &lpar;for Apple and Windows devices&rpar; that ensures either CIS or SOC standards?](https://www.reddit.com/r/InformationTechnology/comments/t4d5xy/can_anyone_suggest_a_device_management_platform/)
-- [What is non-routable address space in simple words?](https://www.reddit.com/r/InformationTechnology/comments/t49jv6/what_is_nonroutable_address_space_in_simple_words/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

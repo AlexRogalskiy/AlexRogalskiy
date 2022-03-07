@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [If you&#39;re going for an interview for a first time IT role, and have no experiance make sure you are solid on basic troubleshooting methodology.](https://www.reddit.com/r/InformationTechnology/comments/t8exeg/if_youre_going_for_an_interview_for_a_first_time/)
+- [Getting a job in IT?](https://www.reddit.com/r/InformationTechnology/comments/t805t4/getting_a_job_in_it/)
+- [Homeschooler/Highschooler wants to learn IT, needs some advice](https://www.reddit.com/r/InformationTechnology/comments/t7qjyq/homeschoolerhighschooler_wants_to_learn_it_needs/)
+- [Difference b/w Msinfo32 and WinSAT?](https://www.reddit.com/r/InformationTechnology/comments/t7pvmw/difference_bw_msinfo32_and_winsat/)
 - [Common IT troubleshooting Solutions](https://www.reddit.com/r/InformationTechnology/comments/t7jrmz/common_it_troubleshooting_solutions/)
 - [Confused on Network ID: Is a network ID an IP address for subnetting table or part of an IP address?](https://www.reddit.com/r/InformationTechnology/comments/t7f9uj/confused_on_network_id_is_a_network_id_an_ip/)
 - [Career path decision stuck in a Crossroad of thoughts...](https://www.reddit.com/r/InformationTechnology/comments/t7f7j5/career_path_decision_stuck_in_a_crossroad_of/)
 - [Digital Organization](https://www.reddit.com/r/InformationTechnology/comments/t76ofm/digital_organization/)
 - [can&#39;t delete stuff, also can someone explain me what is Zulu platform x64 is?](https://www.reddit.com/r/InformationTechnology/comments/t5xpme/cant_delete_stuff_also_can_someone_explain_me/)
 - [Can you share IP addresses and MAC addresses with random strangers? Should they be treated like confidential information like your credit card info?](https://www.reddit.com/r/InformationTechnology/comments/t5sxh5/can_you_share_ip_addresses_and_mac_addresses_with/)
-- [Going back to school&lpar;help needed&rpar;](https://www.reddit.com/r/InformationTechnology/comments/t5n1gg/going_back_to_schoolhelp_needed/)
-- [Stand-alone switch or DIY router as a switch?](https://www.reddit.com/r/InformationTechnology/comments/t5dn3f/standalone_switch_or_diy_router_as_a_switch/)
-- [Are you passionate about it?](https://www.reddit.com/r/InformationTechnology/comments/t56e2k/are_you_passionate_about_it/)
-- [Why do health departments know your ip address?](https://www.reddit.com/r/InformationTechnology/comments/t55h4w/why_do_health_departments_know_your_ip_address/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

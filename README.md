@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vagueness](https://plato.stanford.edu/entries/vagueness/)
-- [DEC64: Decimal Floating Point](https://www.crockford.com/dec64.html)
-- [The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
-- [The Scientist and Engineer&#39;s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-- [The Socratic Method: Teaching by Asking Instead of by Telling](http://www.garlikov.com/Soc_Meth.html)
-- [Jim Creek Naval Radio Station &lpar;2019&rpar;](https://www.historylink.org/File/20778)
-- [America Was Wrong About Ethanol – Study Shows [video]](https://www.youtube.com/watch?v=F-yDKeya4SU)
-- [Dead Hand “fail deadly” automated nuclear weapon launcher](https://en.wikipedia.org/wiki/Dead_Hand)
-- [The technological case against Bitcoin and blockchain](https://lukeplant.me.uk/blog/posts/the-technological-case-against-bitcoin-and-blockchain/)
-- [Ukraine Tech Collective](https://news.ycombinator.com/item?id=30574267)
+- [Electronic Component](https://www.easybom.com)
+- [Speeding up UI tests with CodeceptJS and Playwright](https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79?gi=91771115f3c0)
+- [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth)
+- [Objective or Biased – the use of Artificial Intelligence for job applications](https://interaktiv.br.de/ki-bewerbung/en/)
+- [“Don’t Become a Scientist” 20 Years Later – Prosperous Physicist](http://www.prosperousphysicist.com/dont-become-a-scientist-20-years-later/)
+- [In a network of computers, evidence of machine learning &lpar;2012&rpar;](https://www.nytimes.com/2012/06/26/technology/in-a-big-network-of-computers-evidence-of-machine-learning.html)
+- [More Questions for Stephen Kotkin: Ukraine Edition](https://www.youtube.com/watch?v=ylaC0MUleZs)
+- [Scientists create revolutionary blood test that can detect 50 genetic diseases](https://www.studyfinds.org/blood-test-genetic-disease/)
+- [Thousands of Russians detained in anti-War Protests across Russia](https://text.npr.org/1084818519)
+- [Ukrainians Find That Relatives in Russia Don’t Believe It’s a War](https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

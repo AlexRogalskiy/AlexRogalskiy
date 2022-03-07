@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: UK sets out international ‘plan of action’ for crisis; Ukraine calls for more Nato help in meeting with US – live](https://www.theguardian.com/world/live/2022/mar/05/russia-ukraine-war-latest-news-nato-gives-green-light-to-bombing-with-lack-of-no-fly-zone-says-zelenskiy)
-- [Shane Warne suffered chest pains before he travelled to Thailand, police say](https://www.theguardian.com/sport/2022/mar/06/shane-warne-suffered-chest-pains-before-he-travelled-to-thailand-police-say)
-- [Bank of England puts Covid behind it, but now must face costs of war](https://www.theguardian.com/business/2022/mar/06/bank-puts-covid-behind-it-but-faces-repercussions-of-war)
-- [Visa and Mastercard will both suspend operations in Russia](https://www.theguardian.com/world/2022/mar/05/visa-and-mastercard-will-both-suspend-operations-in-russia)
-- [The edit: 12 of the best sling backs – in pictures](https://www.theguardian.com/fashion/gallery/2022/mar/05/the-edit-12-of-the-best-sling-backs-in-pictures)
-- [Gooch and Horschel share Bay Hill lead as Hovland falters and McIlroy drifts](https://www.theguardian.com/sport/2022/mar/05/talor-gooch-and-billy-horschel-share-lead-before-final-round-at-bay-hill)
-- [Defiant Putin warns the west: your sanctions are akin to an act of war](https://www.theguardian.com/world/2022/mar/05/defiant-putin-warns-the-west-your-sanctions-are-akin-to-an-act-of-war)
-- [Harry Randall hoping practice pays off as England aim to take final step](https://www.theguardian.com/sport/2022/mar/05/harry-randall-hoping-practice-pays-off-as-england-aim-to-take-final-step)
-- [Anti-Covid controls protest convoy gathers on outskirts of Washington DC](https://www.theguardian.com/us-news/2022/mar/05/covid-protest-convoy-washington-dc)
-- [Labour: Angela Rayner will ‘push’ for next leader to be a woman](https://www.theguardian.com/politics/2022/mar/05/labour-angela-rayner-will-push-for-next-leader-to-be-a-woman)
+- [Russia-Ukraine war: Zelenskiy vows to ‘punish atrocities’ as family dies trying to evacuate Irpin – live](https://www.theguardian.com/world/live/2022/mar/06/russia-ukraine-war-biden-and-zelenskiy-discuss-more-support-for-ukraine-as-visa-mastercard-pull-out-of-russia-live)
+- [Ukraine’s Zelenskiy vows revenge on Russian forces after fleeing family killed in shelling of Irpin](https://www.theguardian.com/world/2022/mar/07/ukraine-volodymr-zelenskiy-vows-revenge-russia-forces-fleeing-family-civilians-killed-shelling-irpin-town)
+- [Chatham Islands, one of world’s most remote places, records first Covid cases](https://www.theguardian.com/world/2022/mar/07/chatham-islands-one-of-worlds-most-remote-places-records-first-covid-cases)
+- [‘Shocking behaviour’: Russian gymnast shows ‘Z’ symbol on podium next to Ukrainian winner](https://www.theguardian.com/sport/2022/mar/07/shocking-behaviour-russian-gymnast-shows-z-symbol-on-podium-next-to-ukrainian-winner)
+- [Oil prices near all-time record as US and Europe consider ban on Russian crude](https://www.theguardian.com/business/2022/mar/07/oil-prices-near-all-time-record-as-us-and-europe-consider-ban-on-russian-crude)
+- [Florida Panhandle wildfires force evacuation from more than a thousand homes](https://www.theguardian.com/us-news/2022/mar/06/florida-panhandle-wildfires-evacuations)
+- [An Improbable Musical review – improv masters hit a glorious sweet spot](https://www.theguardian.com/stage/2022/mar/07/an-improbable-musical-review-josie-lawrence)
+- [More than 1 million girls in the UK lose interest in sport as teenagers](https://www.theguardian.com/education/2022/mar/07/uk-girls-lose-interest-in-sport-as-teenagers-women-in-sport-survey)
+- [Parents of murdered Gracie Spinks deliver stark warning on police failings](https://www.theguardian.com/uk-news/2022/mar/07/parents-of-murdered-gracie-spinks-deliver-stark-warning-on-police-failings)
+- [South Korea’s presidential candidates face balancing act amid rising anti-China sentiment](https://www.theguardian.com/world/2022/mar/07/south-koreas-presidential-candidates-face-balancing-act-amid-rising-anti-china-sentiment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

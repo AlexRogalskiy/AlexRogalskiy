@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
-- [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
-- [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
-- [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
-- [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
-- [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776)
-- [Unveiling the anonymous author: Stylometry techniques](https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/)
-- [Smarking &lpar;YC W15&rpar; is hiring to accelerate mobility digitization](https://www.smarking.com/careers)
-- [The Arc Language Forum](http://arclanguage.org/forum)
-- [Bolivia is awash with contraband cars from Japan](https://www.economist.com/the-americas/2022/03/05/bolivia-is-awash-with-contraband-cars-from-japan)
+- [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
+- [The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues](https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight)
+- [Cooklang – Managing Recipes in Git](https://briansunter.com/blog/cooklang/)
+- [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
+- [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
+- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
+- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
+- [Commodore 64 – Reverse Engineered BusCard](https://pdbuchan.com/commodore/buscard/buscard.html)
+- [Request Coalescing in Async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Kremlin’s Aggression Divides Digital Ecosystems Along Tech Trenches](https://www.informationweek.com/strategic-cio/kremlin-s-aggression-divides-digital-ecosystems-along-tech-trenches)
+- [Snowflake Streamlit Acquisition to Add Open-Source Dev Framework](https://www.informationweek.com/big-data/snowflake-streamlit-acquisition-to-add-open-source-dev-framework)
+- [Why Your Company Should Evolve From Data-Driven to Decision-Driven](https://www.informationweek.com/big-data/why-your-company-should-evolve-from-data-driven-to-decision-driven)
 - [4 Common Reasons Low-code Projects Fail](https://www.informationweek.com/software/4-common-reasons-low-code-projects-fail)
 - [10 Ways IT Can Get Ready for the Metaverse](https://www.informationweek.com/big-data/10-ways-it-can-get-ready-for-the-metaverse)
 - [Why Your Organization Needs Deep Visibility into the Current Cyber Threat Landscape](https://www.informationweek.com/security-and-risk-strategy/why-your-organization-needs-deep-visibility-into-the-current-cyber-threat-landscape)
@@ -376,9 +379,6 @@
 - [5 Challenges AI and Analytics are Poised to Transform](https://www.informationweek.com/ai-or-machine-learning/5-challenges-ai-and-analytics-are-poised-to-transform)
 - [Remote Workforce Inclusion Requires Combination of Tech Tools, Human Touch](https://www.informationweek.com/strategic-cio/remote-workforce-inclusion-requires-combination-of-tech-tools-human-touch)
 - [How Language Can Cultivate Inclusivity in Tech](https://www.informationweek.com/it-life/how-language-can-cultivate-inclusivity-in-tech)
-- [Upskilling: The Best Way to Keep Network Operations Current, Reliable, and Secure](https://www.informationweek.com/team-building-and-staffing/upskilling-the-best-way-to-keep-network-operations-current-reliable-and-secure)
-- [How to Search for Talent on a Global Scale](https://www.informationweek.com/team-building-and-staffing/how-to-search-for-talent-on-a-global-scale)
-- [How to Make Your Interview Process More Efficient](https://www.informationweek.com/it-life/how-to-make-your-interview-process-more-efficient)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

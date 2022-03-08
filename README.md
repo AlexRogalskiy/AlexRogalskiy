@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Zelenskiy vows to ‘punish atrocities’ as family dies trying to evacuate Irpin – live](https://www.theguardian.com/world/live/2022/mar/06/russia-ukraine-war-biden-and-zelenskiy-discuss-more-support-for-ukraine-as-visa-mastercard-pull-out-of-russia-live)
-- [Ukraine’s Zelenskiy vows revenge on Russian forces after fleeing family killed in shelling of Irpin](https://www.theguardian.com/world/2022/mar/07/ukraine-volodymr-zelenskiy-vows-revenge-russia-forces-fleeing-family-civilians-killed-shelling-irpin-town)
-- [Chatham Islands, one of world’s most remote places, records first Covid cases](https://www.theguardian.com/world/2022/mar/07/chatham-islands-one-of-worlds-most-remote-places-records-first-covid-cases)
-- [‘Shocking behaviour’: Russian gymnast shows ‘Z’ symbol on podium next to Ukrainian winner](https://www.theguardian.com/sport/2022/mar/07/shocking-behaviour-russian-gymnast-shows-z-symbol-on-podium-next-to-ukrainian-winner)
-- [Oil prices near all-time record as US and Europe consider ban on Russian crude](https://www.theguardian.com/business/2022/mar/07/oil-prices-near-all-time-record-as-us-and-europe-consider-ban-on-russian-crude)
-- [Florida Panhandle wildfires force evacuation from more than a thousand homes](https://www.theguardian.com/us-news/2022/mar/06/florida-panhandle-wildfires-evacuations)
-- [An Improbable Musical review – improv masters hit a glorious sweet spot](https://www.theguardian.com/stage/2022/mar/07/an-improbable-musical-review-josie-lawrence)
-- [More than 1 million girls in the UK lose interest in sport as teenagers](https://www.theguardian.com/education/2022/mar/07/uk-girls-lose-interest-in-sport-as-teenagers-women-in-sport-survey)
-- [Parents of murdered Gracie Spinks deliver stark warning on police failings](https://www.theguardian.com/uk-news/2022/mar/07/parents-of-murdered-gracie-spinks-deliver-stark-warning-on-police-failings)
-- [South Korea’s presidential candidates face balancing act amid rising anti-China sentiment](https://www.theguardian.com/world/2022/mar/07/south-koreas-presidential-candidates-face-balancing-act-amid-rising-anti-china-sentiment)
+- [ICC Women’s World Cup: Australia v Pakistan – live!](https://www.theguardian.com/sport/live/2022/mar/08/australia-vs-pakistan-icc-womens-cricket-world-cup-2022-aus-v-pak-live-updates)
+- [Russia-Ukraine war: Zelenskiy says invasion is ‘nightmare’ for Russia; Moscow accused of ‘medieval’ tactics – live](https://www.theguardian.com/world/live/2022/mar/07/ukraine-news-russia-war-latest-news-vladimir-putin-zelenskiy-kyiv-russian-invasion-civilian-attacks-irpin-ceasefire-live-updates)
+- [Russia Ukraine war: what we know on day 13 of the Russian invasion](https://www.theguardian.com/world/2022/mar/08/russia-ukraine-war-what-we-know-on-day-13-of-the-russian-invasion)
+- [Guantanamo Bay detainee allowed to return to Saudi Arabia after 20 years](https://www.theguardian.com/us-news/2022/mar/07/accused-911-hijacker-repatriated-saudi-arabia)
+- [Vitaly Gerasimov: second Russian general killed, Ukraine defence ministry claims](https://www.theguardian.com/world/2022/mar/08/vitaly-gerasimov-second-russian-general-killed-ukraine-defence-ministry-claims)
+- [Poor tech, opaque rules, exhausted staff: inside the private company surveilling US immigrants](https://www.theguardian.com/us-news/2022/mar/07/us-immigration-surveillance-ice-bi-isap)
+- [UK household incomes facing biggest decline since mid-70s, says thinktank](https://www.theguardian.com/business/2022/mar/08/uk-household-incomes-decline-resolution-foundation-ukraine-conflict-energy-prices)
+- [Demand grows for UK ministers to reclassify psilocybin for medical research](https://www.theguardian.com/science/2022/mar/08/demand-grows-for-uk-ministers-to-reclassify-psilocybin-for-medical-research)
+- [Unsung heroine who saved refugees from Nazis honoured in Leeds](https://www.theguardian.com/world/2022/mar/08/unsung-heroine-who-saved-refugees-from-nazis-honoured-in-leeds)
+- [Ageing reversal: scientists rejuvenate tissues in middle-aged mice](https://www.theguardian.com/science/2022/mar/07/ageing-reversal-scientists-rejuvenate-tissues-in-middle-aged-mice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

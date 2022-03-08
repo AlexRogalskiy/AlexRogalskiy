@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
-- [The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues](https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight)
-- [Cooklang – Managing Recipes in Git](https://briansunter.com/blog/cooklang/)
-- [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
-- [The Vintage Beauty of Soviet Control Rooms &lpar;2018&rpar;](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- [I Can No Longer Compile My First Flash Game](https://devtails.xyz/i-can-no-longer-compile-my-first-flash-game)
-- [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
-- [Commodore 64 – Reverse Engineered BusCard](https://pdbuchan.com/commodore/buscard/buscard.html)
-- [Request Coalescing in Async Rust](https://fasterthanli.me/articles/request-coalescing-in-async-rust)
+- [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
+- [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
+- [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
+- [Buffet an All-inclusive Buffer for C](https://github.com/alcover/buffet)
+- [Corners Don&#39;t Look Like That: Regarding Screenspace Ambient Occlusion](http://nothings.org/gamedev/ssao/)
+- [A neurologist who hacked his brain and almost lost his mind &lpar;2016&rpar;](https://www.wired.com/2016/01/phil-kennedy-mind-control-computer/)
+- [An update on the threat landscape](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/)
+- [Kodable &lpar;YC IK12&rpar; is hiring game developers to help us teach kids to code](https://www.indeed.com/viewjob?t=senior+game+developer&jk=90675a990f5b7fb6&_ga=2.111768833.403711911.1646594062-903361712.1645574492)
+- [The voice of Utah&#39;s arches – Ambient seismic vibration sped up 25x](https://geohazards.earth.utah.edu/tones/)
+- [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://github.com/TomWright/dasel)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

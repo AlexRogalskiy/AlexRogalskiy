@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Electronic Component](https://www.easybom.com)
-- [Speeding up UI tests with CodeceptJS and Playwright](https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79?gi=91771115f3c0)
-- [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth)
-- [Objective or Biased – the use of Artificial Intelligence for job applications](https://interaktiv.br.de/ki-bewerbung/en/)
-- [“Don’t Become a Scientist” 20 Years Later – Prosperous Physicist](http://www.prosperousphysicist.com/dont-become-a-scientist-20-years-later/)
-- [In a network of computers, evidence of machine learning &lpar;2012&rpar;](https://www.nytimes.com/2012/06/26/technology/in-a-big-network-of-computers-evidence-of-machine-learning.html)
-- [More Questions for Stephen Kotkin: Ukraine Edition](https://www.youtube.com/watch?v=ylaC0MUleZs)
-- [Scientists create revolutionary blood test that can detect 50 genetic diseases](https://www.studyfinds.org/blood-test-genetic-disease/)
-- [Thousands of Russians detained in anti-War Protests across Russia](https://text.npr.org/1084818519)
-- [Ukrainians Find That Relatives in Russia Don’t Believe It’s a War](https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html)
+- [International sanctions during the Russo-Ukrainian War](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War)
+- [Russia Is Trying to Recruit Foreign-Fighters &lpar;Syrians&rpar; to Fight in Ukraine](https://text.npr.org/1084963489)
+- [The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review](https://dl.acm.org/doi/pdf/10.1145/3474097)
+- [Underselling Hawking](https://inference-review.com/article/underselling-hawking#When:14:53:00Z)
+- [17 Equations that changed the course of history](https://www.businessinsider.com/17-equations-that-changed-the-world-2014-3)
+- [How to Love Yourself for Real, According to Therapists](https://www.self.com/story/how-to-love-yourself)
+- [Federated Learning with Formal Differential Privacy Guarantees](https://ai.googleblog.com/2022/02/federated-learning-with-formal.html)
+- [Strange Tooth Discovery Prompts Rethink of Human Evolution](https://scitechdaily.com/strange-tooth-discovery-prompts-rethink-of-human-evolution/)
+- [Interactively edit individual DCT blocks in any JPEG image in the browser](https://github.com/OmarShehata/jpeg-sandbox)
+- [Acting U.S. Ambassador to Ukraine – “We&#39;re Trying Everything to Avoid WW-III”](https://text.npr.org/1084902080)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

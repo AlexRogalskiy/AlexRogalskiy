@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [When more is too much in security](https://www.computerweekly.com/opinion/When-more-is-too-much-in-security)
+- [Micron 7450 aims its 176 TLC layers at QLC flash use cases](https://www.computerweekly.com/news/252514246/Micron-7450-aims-its-176-TLC-layers-at-QLC-flash-use-cases)
+- [NHS AI framework offers decision support for stroke diagnosis](https://www.computerweekly.com/news/252514237/NHS-AI-framework-offers-decision-support-for-stroke-diagnosis)
+- [Ukraine joins Nato cyber knowledge hub](https://www.computerweekly.com/news/252514241/Ukraine-joins-Nato-cyber-knowledge-hub)
+- [When to pull the plug on an ecommerce site](https://www.computerweekly.com/opinion/When-to-pull-the-plug-on-an-ecommerce-site)
+- [Why post-pandemic reskilling must focus on mainframes](https://www.computerweekly.com/feature/Why-post-pandemic-reskilling-must-focus-on-mainframes)
 - [Scrapping NHS Digital a backward step for patient data rights](https://www.computerweekly.com/news/252514193/Scrapping-NHS-Digital-a-backward-step-for-patient-data-rights)
 - [Microsoft stops sales of products and services to Russia](https://www.computerweekly.com/news/252514191/Microsoft-stops-sales-of-products-and-services-to-Russia)
 - [Assessing the aims of the Government Cyber Security Strategy](https://www.computerweekly.com/opinion/Assessing-the-aims-of-the-Government-Cyber-Security-Strategy)
 - [Universities need better protection from email-based cyber attacks](https://www.computerweekly.com/opinion/Universities-need-better-protection-from-email-based-cyber-attacks)
-- [Diversity and inclusion in STEM – data, culture and social benefit](https://www.computerweekly.com/news/252514131/Diversity-and-inclusion-in-STEM-data-culture-and-social-benefit)
-- [SAP and Oracle express solidarity with Ukraine against Russia](https://www.computerweekly.com/news/252514133/SAP-and-Oracle-express-solidarity-with-Ukraine-against-Russia)
-- [Boardroom does not see ransomware as a priority](https://www.computerweekly.com/news/252514125/Boardroom-does-not-see-ransomware-as-a-priority)
-- [Nato Cyber Security unit tests post-quantum VPN](https://www.computerweekly.com/news/252514105/Nato-Cyber-Security-unit-tests-post-quantum-VPN)
-- [Direct action is a risky business for Ukraine&#39;s volunteer hackers](https://www.computerweekly.com/news/252514103/Direct-action-is-a-risky-business-for-Ukraines-volunteer-hackers)
-- [Use of encrypted Telegram platform soars in Ukraine, Russia](https://www.computerweekly.com/news/252514111/Use-of-encrypted-Telegram-platform-soars-in-Ukraine-Russia)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

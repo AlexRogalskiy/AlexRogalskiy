@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [‘Peek performance’ — Apple turns things upside down](https://www.computerworld.com/article/3652539/peek-performance-apple-turns-things-upside-down.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Phishing e-mails are more prevalent &lpar;and dangerous&rpar; than ever](https://www.computerworld.com/article/3652594/phishing-e-mails-are-more-prevalent-and-dangerous-than-ever.html#tk.rss_all)
+- [After Russia’s invasion of Ukraine, it&#39;s time to hunker down](https://www.computerworld.com/article/3652536/after-russia-s-invasion-of-ukraine-its-time-to-hunker-down.html#tk.rss_all)
+- [Google buys cybersecurity company Mandiant for $5.4B](https://www.computerworld.com/article/3652533/google-buys-cybersecurity-company-mandiant-for-54b.html#tk.rss_all)
+- [Could the post-pandemic, hybrid workplace boost gender equality?](https://www.computerworld.com/article/3652618/could-the-post-pandemic-hybrid-workplace-boost-gender-equality.html#tk.rss_all)
+- [Windows 11: The end of the old-school Windows desktop](https://www.computerworld.com/article/3652612/windows-11-the-end-of-the-old-school-windows-desktop.html#tk.rss_all)
 - [Change my password? AGAIN?](https://www.computerworld.com/article/3652695/change-my-password-again.html#tk.rss_all)
 - [Apple joins the Great Return to &lpar;hybrid&rpar; work](https://www.computerworld.com/article/3652613/apple-joins-the-great-return-to-hybrid-work.html#tk.rss_all)
-- [BrandPost: Everything-as-a-Service to Drive Development of Digital Healthcare Amid the Pandemic](https://www.computerworld.com/article/3652614/everything-as-a-service-to-drive-development-of-digital-healthcare-amid-the-pandemic.html#tk.rss_all)
-- [Russia is likely using cryptocurrency to thwart sanctions](https://www.computerworld.com/article/3652493/russia-is-likely-using-cryptocurrency-to-thwart-sanctions.html#tk.rss_all)
-- [Microsoft becomes latest tech firm to suspend sales in Russia](https://www.computerworld.com/article/3652693/microsoft-becomes-latest-tech-firm-to-suspend-sales-in-russia.html#tk.rss_all)
-- [Coda and Notion turn up the heat on Microsoft Office](https://www.computerworld.com/article/3652691/coda-and-notion-turn-up-the-heat-on-microsoft-office.html#tk.rss_all)
-- [Apple, Google, Microsoft, and Mozilla aim for a more consistent web](https://www.computerworld.com/article/3652610/apple-google-microsoft-and-mozilla-aim-for-a-more-consistent-web.html#tk.rss_all)
-- [What business can learn from the Afghanistan withdrawal and the Ukraine war](https://www.computerworld.com/article/3652514/what-business-can-learn-from-the-afghanistan-withdrawal-and-the-ukraine-war.html#tk.rss_all)
-- [Employee monitoring risks ‘spiraling out of control,’ union group warns](https://www.computerworld.com/article/3652513/employee-monitoring-risks-spiraling-out-of-control-union-group-warns.html#tk.rss_all)
-- [Twitter is the latest tech company to announce office reopenings](https://www.computerworld.com/article/3652511/twitter-is-the-latest-tech-company-to-announce-office-reopenings.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

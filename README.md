@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Cloud computing and the metaverse](https://www.infoworld.com/article/3652496/cloud-computing-and-the-metaverse.html#tk.rss_all)
+- [Java 19 could be an ambitious release](https://www.infoworld.com/article/3652336/java-19-may-be-quite-ambitious.html#tk.rss_all)
+- [Solving complex problems with vector databases](https://www.infoworld.com/article/3651360/solving-complex-problems-with-vector-databases.html#tk.rss_all)
 - [5 ways spreadsheets kill your business](https://www.infoworld.com/article/3652609/5-ways-spreadsheets-kill-your-business.html#tk.rss_all)
-- [Open data matters, but why?](https://www.infoworld.com/article/3652495/open-data-matters-but-why.html#tk.rss_all)
+- [What is open data, and why does it matter?](https://www.infoworld.com/article/3652495/what-is-open-data-and-why-does-it-matter.html#tk.rss_all)
 - [7 reasons to embrace Web3 — and 7 reasons not to](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [Why Google donated Knative to the CNCF](https://www.infoworld.com/article/3652689/why-google-donated-knative-to-the-cncf.html#tk.rss_all)
 - [‘Cloud native’ confusion continues](https://www.infoworld.com/article/3652530/cloud-native-confusion-continues.html#tk.rss_all)
-- [Visual Studio Code 1.65 overhauls editor history navigation](https://www.infoworld.com/article/3652489/visual-studio-code-165-overhauls-editor-history-navigation.html#tk.rss_all)
-- [Pulumi launches Business Critical edition for enterprise customers](https://www.infoworld.com/article/3651514/pulumi-launches-business-critical-edition-for-enterprise-customers.html#tk.rss_all)
-- [Java 8 still dominates, but Java 17 wave is coming – survey](https://www.infoworld.com/article/3652408/java-8-still-dominates-but-java-17-wave-is-coming-survey.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
+- [Info Sec](https://www.reddit.com/r/InformationTechnology/comments/t9k4ch/info_sec/)
+- [Breaking into tech](https://www.reddit.com/r/InformationTechnology/comments/t9jezi/breaking_into_tech/)
+- [Transfer data files to China](https://www.reddit.com/r/InformationTechnology/comments/t9isiy/transfer_data_files_to_china/)
+- [Remote answering devices for Unified Communications](https://www.reddit.com/r/InformationTechnology/comments/t9iqog/remote_answering_devices_for_unified/)
+- [Any suggestions with a Research Topic related to IoT/Networking?](https://www.reddit.com/r/InformationTechnology/comments/t9bwpu/any_suggestions_with_a_research_topic_related_to/)
 - [Career question](https://www.reddit.com/r/InformationTechnology/comments/t94blj/career_question/)
 - [Anyone Know The Deal with Cisco Transceivers?](https://www.reddit.com/r/InformationTechnology/comments/t926t4/anyone_know_the_deal_with_cisco_transceivers/)
 - [How do employers and IT professionals monitor employee activities to enforce confidentiality and ensure client privacy?](https://www.reddit.com/r/InformationTechnology/comments/t91cqe/how_do_employers_and_it_professionals_monitor/)
 - [Does the Industry Acknowledges Good for life A+](https://www.reddit.com/r/InformationTechnology/comments/t8xcbe/does_the_industry_acknowledges_good_for_life_a/)
-- [Cyber Security concern: blocked site popping up all over the network](https://www.reddit.com/r/InformationTechnology/comments/t8vipb/cyber_security_concern_blocked_site_popping_up/)
-- [data engineer job interview](https://www.reddit.com/r/InformationTechnology/comments/t8fu8i/data_engineer_job_interview/)
-- [If you&#39;re going for an interview for a first time IT role, and have no experiance make sure you are solid on basic troubleshooting methodology.](https://www.reddit.com/r/InformationTechnology/comments/t8exeg/if_youre_going_for_an_interview_for_a_first_time/)
-- [Getting a job in IT?](https://www.reddit.com/r/InformationTechnology/comments/t805t4/getting_a_job_in_it/)
-- [Homeschooler/Highschooler wants to learn IT, needs some advice](https://www.reddit.com/r/InformationTechnology/comments/t7qjyq/homeschoolerhighschooler_wants_to_learn_it_needs/)
-- [Difference b/w Msinfo32 and WinSAT?](https://www.reddit.com/r/InformationTechnology/comments/t7pvmw/difference_bw_msinfo32_and_winsat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [International sanctions during the Russo-Ukrainian War](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War)
-- [Russia Is Trying to Recruit Foreign-Fighters &lpar;Syrians&rpar; to Fight in Ukraine](https://text.npr.org/1084963489)
-- [The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review](https://dl.acm.org/doi/pdf/10.1145/3474097)
-- [Underselling Hawking](https://inference-review.com/article/underselling-hawking#When:14:53:00Z)
-- [17 Equations that changed the course of history](https://www.businessinsider.com/17-equations-that-changed-the-world-2014-3)
-- [How to Love Yourself for Real, According to Therapists](https://www.self.com/story/how-to-love-yourself)
-- [Federated Learning with Formal Differential Privacy Guarantees](https://ai.googleblog.com/2022/02/federated-learning-with-formal.html)
-- [Strange Tooth Discovery Prompts Rethink of Human Evolution](https://scitechdaily.com/strange-tooth-discovery-prompts-rethink-of-human-evolution/)
-- [Interactively edit individual DCT blocks in any JPEG image in the browser](https://github.com/OmarShehata/jpeg-sandbox)
-- [Acting U.S. Ambassador to Ukraine – “We&#39;re Trying Everything to Avoid WW-III”](https://text.npr.org/1084902080)
+- [Mildred Dresselhaus: A Giant of Nanoscience](https://physicsworld.com/a/mildred-dresselhaus-a-giant-of-nanoscience/)
+- [Name of Pittsburgh](https://en.wikipedia.org/wiki/Name_of_Pittsburgh)
+- [The Future of Plugin, Themes, and Services Purchases on WordPress.com](https://wordpress.com/blog/2022/03/08/the-future-of-plugin-themes-and-services-purchases-on-wordpress-com/)
+- [May I Have My Paycheck in Bitcoin?](https://news.bloombergtax.com/daily-tax-report/may-i-have-my-paycheck-in-bitcoin-crypto-payments-explained)
+- [Why Tensors? A Beginner&#39;s Perspective](https://mfaizan.github.io/2022/03/08/why-tensors.html)
+- [Russian Butterfly Mines](https://twitter.com/deangloster/status/1501149968358281217)
+- [Password Manager Security [pdf] &lpar;2020&rpar;](https://courses.csail.mit.edu/6.857/2020/projects/16-Weckwerth-Xia-Zhang.pdf)
+- [The Immigration Angle on Digital Nomads &lpar;2021&rpar;](https://blog.stottandmay.com/immigration-angle-on-digital-nomads)
+- [The first non-English press release about the Nyxt Browser: agora, em Português](https://nyxt.atlas.engineer/article/terminal-root-press-release.org)
+- [Open5x: Accessible 5-axis 3D printing and conformal slicing](https://arxiv.org/abs/2202.11426)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

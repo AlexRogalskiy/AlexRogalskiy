@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [ICC Women’s World Cup: Australia v Pakistan – live!](https://www.theguardian.com/sport/live/2022/mar/08/australia-vs-pakistan-icc-womens-cricket-world-cup-2022-aus-v-pak-live-updates)
-- [Russia-Ukraine war: Zelenskiy says invasion is ‘nightmare’ for Russia; Moscow accused of ‘medieval’ tactics – live](https://www.theguardian.com/world/live/2022/mar/07/ukraine-news-russia-war-latest-news-vladimir-putin-zelenskiy-kyiv-russian-invasion-civilian-attacks-irpin-ceasefire-live-updates)
-- [Russia Ukraine war: what we know on day 13 of the Russian invasion](https://www.theguardian.com/world/2022/mar/08/russia-ukraine-war-what-we-know-on-day-13-of-the-russian-invasion)
-- [Guantanamo Bay detainee allowed to return to Saudi Arabia after 20 years](https://www.theguardian.com/us-news/2022/mar/07/accused-911-hijacker-repatriated-saudi-arabia)
-- [Vitaly Gerasimov: second Russian general killed, Ukraine defence ministry claims](https://www.theguardian.com/world/2022/mar/08/vitaly-gerasimov-second-russian-general-killed-ukraine-defence-ministry-claims)
-- [Poor tech, opaque rules, exhausted staff: inside the private company surveilling US immigrants](https://www.theguardian.com/us-news/2022/mar/07/us-immigration-surveillance-ice-bi-isap)
-- [UK household incomes facing biggest decline since mid-70s, says thinktank](https://www.theguardian.com/business/2022/mar/08/uk-household-incomes-decline-resolution-foundation-ukraine-conflict-energy-prices)
-- [Demand grows for UK ministers to reclassify psilocybin for medical research](https://www.theguardian.com/science/2022/mar/08/demand-grows-for-uk-ministers-to-reclassify-psilocybin-for-medical-research)
-- [Unsung heroine who saved refugees from Nazis honoured in Leeds](https://www.theguardian.com/world/2022/mar/08/unsung-heroine-who-saved-refugees-from-nazis-honoured-in-leeds)
-- [Ageing reversal: scientists rejuvenate tissues in middle-aged mice](https://www.theguardian.com/science/2022/mar/07/ageing-reversal-scientists-rejuvenate-tissues-in-middle-aged-mice)
+- [Russia-Ukraine war: US rejects Polish plan to offer jets to Ukraine; Russia accused of breaking Mariupol ceasefire – live](https://www.theguardian.com/world/live/2022/mar/08/ukraine-news-russia-war-vladimir-putin-volodymyr-zelenskiy-kyiv-russian-invasion-live-latest-updates)
+- [West Indies v England: ICC Women’s World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/08/west-indies-v-england-icc-womens-world-cup-live)
+- [‘We will fight until the end’: how the papers covered Zelenskiy’s Commons speech](https://www.theguardian.com/world/2022/mar/09/we-will-fight-until-the-end-how-the-papers-covered-zelenskiys-commons-speech)
+- [Saudi Arabia and UAE leaders ‘decline calls with Biden’ amid fears of oil price spike](https://www.theguardian.com/us-news/2022/mar/09/saudi-arabia-and-uae-leaders-decline-calls-with-biden-amid-fears-of-oil-price-spike)
+- [‘I want to go out on top’: Sexton commits to World Cup before England encounter](https://www.theguardian.com/sport/2022/mar/09/i-want-to-go-out-on-top-sexton-commits-to-world-cup-before-england-encounter)
+- [Elon Musk seeks to end US restrictions on his tweets](https://www.theguardian.com/technology/2022/mar/08/elon-musk-seeks-end-us-restrictions-tweets)
+- [Russia-Ukraine war: what we know on day 14 of the Russian invasion](https://www.theguardian.com/world/2022/mar/09/russia-ukraine-war-what-we-know-on-day-14-of-the-russian-invasion)
+- [US dismisses Polish plan to provide fighter jets to be sent to Ukraine](https://www.theguardian.com/world/2022/mar/08/poland-mig-29-jets-us-ukraine)
+- [Russian planes that enter UK airspace could be detained by government](https://www.theguardian.com/uk-news/2022/mar/08/russian-planes-that-enter-uk-airspace-could-be-detained-by-government)
+- [A father used a ghost gun to kill his three daughters. It’s a sign of a growing crisis](https://www.theguardian.com/us-news/2022/mar/08/a-father-used-a-ghost-gun-to-kill-his-three-daughters-its-a-sign-of-a-growing-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

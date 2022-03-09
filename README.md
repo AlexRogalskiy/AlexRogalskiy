@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [When more is too much in security](https://www.computerweekly.com/opinion/When-more-is-too-much-in-security)
-- [Micron 7450 aims its 176 TLC layers at QLC flash use cases](https://www.computerweekly.com/news/252514246/Micron-7450-aims-its-176-TLC-layers-at-QLC-flash-use-cases)
-- [NHS AI framework offers decision support for stroke diagnosis](https://www.computerweekly.com/news/252514237/NHS-AI-framework-offers-decision-support-for-stroke-diagnosis)
-- [Ukraine joins Nato cyber knowledge hub](https://www.computerweekly.com/news/252514241/Ukraine-joins-Nato-cyber-knowledge-hub)
-- [When to pull the plug on an ecommerce site](https://www.computerweekly.com/opinion/When-to-pull-the-plug-on-an-ecommerce-site)
-- [Why post-pandemic reskilling must focus on mainframes](https://www.computerweekly.com/feature/Why-post-pandemic-reskilling-must-focus-on-mainframes)
-- [Scrapping NHS Digital a backward step for patient data rights](https://www.computerweekly.com/news/252514193/Scrapping-NHS-Digital-a-backward-step-for-patient-data-rights)
-- [Microsoft stops sales of products and services to Russia](https://www.computerweekly.com/news/252514191/Microsoft-stops-sales-of-products-and-services-to-Russia)
-- [Assessing the aims of the Government Cyber Security Strategy](https://www.computerweekly.com/opinion/Assessing-the-aims-of-the-Government-Cyber-Security-Strategy)
-- [Universities need better protection from email-based cyber attacks](https://www.computerweekly.com/opinion/Universities-need-better-protection-from-email-based-cyber-attacks)
+- [2022 must be a big year for sustainability in the tech sector](https://www.computerweekly.com/news/252514035/2022-must-be-a-big-year-for-sustainability-in-the-tech-sector)
+- [Google buys Mandiant for £4bn](https://www.computerweekly.com/news/252514330/Google-buys-Mandiant-for-4bn)
+- [Security Think Tank: Building the cyber workforce we need](https://www.computerweekly.com/opinion/Security-Think-Tank-Building-the-cyber-workforce-we-need)
+- [A Computer Weekly buyer’s guide to data integration](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-data-integration)
+- [Amazon resists independent audit of warehouse working conditions](https://www.computerweekly.com/news/252514311/Amazon-resists-independent-audit-of-warehouse-working-conditions)
+- [Why some data-driven decisions are not to be trusted](https://www.computerweekly.com/feature/Why-some-data-driven-decisions-are-not-to-be-trusted)
+- [Challenges for IT providers as Ukraine crisis worsens](https://www.computerweekly.com/news/252514308/Challenges-for-IT-providers-as-Ukraine-crisis-worsens)
+- [Government publishes update on plan to tackle legacy IT](https://www.computerweekly.com/news/252514283/Government-publishes-update-on-plan-to-tackle-legacy-IT)
+- [Using technology to protect human rights](https://www.computerweekly.com/ezine/Computer-Weekly/Using-technology-to-protect-human-rights)
+- [Why we need to keep up the charge on women in tech](https://www.computerweekly.com/opinion/Why-we-need-to-keep-up-the-charge-on-women-in-tech)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

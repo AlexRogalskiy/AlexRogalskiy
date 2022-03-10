@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
-- [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
-- [Mathematicians discover the perfect way to multiply &lpar;2019&rpar;](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-- [Finley &lpar;YC W21&rpar; is hiring account executives and senior engineers &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
-- [Put an io_uring on it: Exploiting the Linux kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
-- [Static torrent website with peer-to-peer queries over BitTorrent on 2M records](https://boredcaveman.xyz/post/0x2_static-torrent-website-p2p-queries.html)
-- [Launch HN: Optery &lpar;YC W22&rpar; – Remove your personal info from the internet](https://news.ycombinator.com/item?id=30605010)
-- [Apple M1 Ultra](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
-- [Apple Mac Studio](https://www.apple.com/mac-studio/)
+- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
+- [Ruby Together](https://rubytogether.org/)
+- [Appeal to Ruby Community from Kharkiv Rubyist](https://zverok.space/blog/2022-03-03-WAR.html)
+- [Python Built-In Functions to Know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
+- [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
+- [Show HN: 2D Game engine and editor for Windows and Linux](https://github.com/ensisoft/gamestudio)
+- [Sodinokibi/REvil Ransomware Defendant Extradited to United States](https://www.justice.gov/opa/pr/sodinokibirevil-ransomware-defendant-extradited-united-states-and-arraigned-texas)
+- [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

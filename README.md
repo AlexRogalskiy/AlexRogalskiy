@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I took 2 years off from college during Covid. I&#39;m scheduled to go back this fall &lpar;2022&rpar;. In the meantime, I&#39;m looking at getting some certifications and doing a bootcamp. I&#39;m wondering if I can get some advice/tips on this plan/track over the coming months.](https://www.reddit.com/r/InformationTechnology/comments/tai758/i_took_2_years_off_from_college_during_covid_im/)
+- [Help Desk Manager vs Level 1 CS Tech job progression question.](https://www.reddit.com/r/InformationTechnology/comments/ta7y2n/help_desk_manager_vs_level_1_cs_tech_job/)
 - [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
 - [Info Sec](https://www.reddit.com/r/InformationTechnology/comments/t9k4ch/info_sec/)
 - [Breaking into tech](https://www.reddit.com/r/InformationTechnology/comments/t9jezi/breaking_into_tech/)
@@ -422,8 +424,6 @@
 - [Any suggestions with a Research Topic related to IoT/Networking?](https://www.reddit.com/r/InformationTechnology/comments/t9bwpu/any_suggestions_with_a_research_topic_related_to/)
 - [Career question](https://www.reddit.com/r/InformationTechnology/comments/t94blj/career_question/)
 - [Anyone Know The Deal with Cisco Transceivers?](https://www.reddit.com/r/InformationTechnology/comments/t926t4/anyone_know_the_deal_with_cisco_transceivers/)
-- [How do employers and IT professionals monitor employee activities to enforce confidentiality and ensure client privacy?](https://www.reddit.com/r/InformationTechnology/comments/t91cqe/how_do_employers_and_it_professionals_monitor/)
-- [Does the Industry Acknowledges Good for life A+](https://www.reddit.com/r/InformationTechnology/comments/t8xcbe/does_the_industry_acknowledges_good_for_life_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

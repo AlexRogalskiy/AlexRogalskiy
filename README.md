@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The power of two: Apple’s M1 Ultra chip is two M1 Max chips joined together](https://www.itworldcanada.com/article/the-power-of-two-apples-m1-ultra-chip-is-two-m1-max-chips-joined-together/475477)
+- [Canada to get first-of-its-kind 3D printed housing project in Leamington, Ontario](https://www.itworldcanada.com/article/canada-to-get-first-of-its-kind-3d-printed-housing-project-in-leamington-ontario/475465)
+- [Cyber Security Today, March 9, 2022 – Warnings to Linux and HP device administrators, Samsung confirms data theft and more](https://www.itworldcanada.com/article/cyber-security-today-march-9-2022-warnings-to-linux-and-hp-device-administrators-samsung-confirms-data-theft-and-more/475348)
+- [Hashtag Trending March 9 – Apple’s new chip; Apple device’s repairability; another threat to chip production](https://www.itworldcanada.com/article/hashtag-trending-march-9-apples-new-chip-apple-devices-repairability-another-threat-to-chip-production/475404)
+- [On International Women’s Day, voices of cybersecurity experts from Egypt, Saudi Arabia, Dubai and India](https://www.itworldcanada.com/article/on-international-womens-day-voices-of-cybersecurity-experts-from-egypt-saudi-arabia-dubai-and-india/475289)
 - [International Women’s Day: Shopify’s Backbone Angels Surpass 2021 Goals](https://www.itworldcanada.com/article/international-womens-day-shopifys-backbone-angels-surpass-2021-goals/475342)
 - [Google to buy Mandiant for US$5.4 billion](https://www.itworldcanada.com/article/google-to-buy-mandiant-for-us5-4-billion/475324)
 - [International Women’s Day: Coffee Briefing March 8, 2022 – ITWC’s Top Women in Cybersecurity Celebration; women breaking the bias in tech; and more](https://www.itworldcanada.com/article/international-womens-day-coffee-briefing-march-8-2022-itwcs-top-women-in-cybersecurity-celebration-women-breaking-the-bias-in-tech-and-more/475300)
 - [Federal government and British Columbia to invest $830 million in rural area network development](https://www.itworldcanada.com/article/federal-government-and-british-columbia-to-invest-830-million-in-rural-area-network-development/475302)
 - [Liquid Media and Eluvio screen IndieFlix film on blockchain-powered platform](https://www.itworldcanada.com/article/liquid-media-and-eluvio-screen-indieflix-film-on-blockchain-powered-platform/475129)
-- [Proposed Ontario employee electronic monitoring disclosure law may help firms: Lawyer](https://www.itworldcanada.com/article/proposed-ontario-employee-electronic-monitoring-disclosure-law-may-help-firms-lawyer/475189)
-- [International Women’s Day: Toronto company teaches kids about financial management through an app](https://www.itworldcanada.com/article/toronto-company-teaches-kids-about-financial-management-through-an-app/474856)
-- [Hashtag Trending March 8 – Alberta invest in women in tech program; Zypp Electric creates space for women; women in crypto and NFTs](https://www.itworldcanada.com/article/hashtag-trending-march-8-albert-invest-in-women-in-tech-program-zypp-electric-creates-space-for-women-women-in-crypto-and-nfts/475228)
-- [UN begins three-year effort to create cybercrime treaty](https://www.itworldcanada.com/article/un-begins-three-year-effort-to-create-cybercrime-treaty/475022)
-- [Cyber Security Today, March 7, 2022 – More damage from the Nvidia hack, real customer data exposed, the unexplained closing of a criminal forum and more](https://www.itworldcanada.com/article/cyber-security-today-march-7-2022-more-damage-from-the-nvidia-hack-real-customer-data-exposed-the-unexplained-closing-of-a-criminal-forum-and-more/475019)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

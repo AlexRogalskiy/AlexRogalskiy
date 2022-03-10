@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [IT workers grow restless, and younger ones want respect — Gartner](https://www.computerworld.com/article/3653249/it-workers-grow-restless-and-younger-ones-want-respect-gartner.html#tk.rss_all)
+- [Biden issues executive order on crypto regulation, stablecoin proposal](https://www.computerworld.com/article/3653328/biden-issues-executive-order-on-crypto-regulation-stablecoin-proposal.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [The M1 Ultra: Apple’s big leap forward in chip design](https://www.computerworld.com/article/3652700/the-m1-ultra-apples-big-leap-forward-in-chip-design.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Women, minorities less inclined to return to office, face &#39;proximity bias&#39;](https://www.computerworld.com/article/3652592/women-people-of-color-less-likely-to-want-to-return-to-office.html#tk.rss_all)
+- [Tech giants move to reopen offices, but differ on hybrid-work plans](https://www.computerworld.com/article/3652538/tech-giants-move-to-reopen-offices-but-differ-on-hybrid-work-plans.html#tk.rss_all)
+- [The glorious return of the scrappy Android underdogs](https://www.computerworld.com/article/3652617/android-underdogs.html#tk.rss_all)
 - [‘Peek performance’ — Apple turns things upside down](https://www.computerworld.com/article/3652539/peek-performance-apple-turns-things-upside-down.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Phishing e-mails are more prevalent &lpar;and dangerous&rpar; than ever](https://www.computerworld.com/article/3652594/phishing-e-mails-are-more-prevalent-and-dangerous-than-ever.html#tk.rss_all)
-- [After Russia’s invasion of Ukraine, it&#39;s time to hunker down](https://www.computerworld.com/article/3652536/after-russia-s-invasion-of-ukraine-its-time-to-hunker-down.html#tk.rss_all)
-- [Google buys cybersecurity company Mandiant for $5.4B](https://www.computerworld.com/article/3652533/google-buys-cybersecurity-company-mandiant-for-54b.html#tk.rss_all)
-- [Could the post-pandemic, hybrid workplace boost gender equality?](https://www.computerworld.com/article/3652618/could-the-post-pandemic-hybrid-workplace-boost-gender-equality.html#tk.rss_all)
-- [Windows 11: The end of the old-school Windows desktop](https://www.computerworld.com/article/3652612/windows-11-the-end-of-the-old-school-windows-desktop.html#tk.rss_all)
-- [Change my password? AGAIN?](https://www.computerworld.com/article/3652695/change-my-password-again.html#tk.rss_all)
-- [Apple joins the Great Return to &lpar;hybrid&rpar; work](https://www.computerworld.com/article/3652613/apple-joins-the-great-return-to-hybrid-work.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

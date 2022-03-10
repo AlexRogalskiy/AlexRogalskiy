@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules](https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html#tk.rss_all)
+- [In an evolving cloud world, Azure passes AWS](https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html#tk.rss_all)
+- [Accessibility Insights makes code more accessible](https://www.infoworld.com/article/3652619/accessibility-insights-makes-code-more-accessible.html#tk.rss_all)
+- [How to evaluate software asset management tools](https://www.infoworld.com/article/3652615/how-to-evaluate-software-asset-management-tools.html#tk.rss_all)
+- [Microsoft previews Edge Developer Tools for Visual Studio](https://www.infoworld.com/article/3652526/microsoft-previews-edge-developer-tools-for-visual-studio.html#tk.rss_all)
 - [Cloud computing and the metaverse](https://www.infoworld.com/article/3652496/cloud-computing-and-the-metaverse.html#tk.rss_all)
-- [Java 19 could be an ambitious release](https://www.infoworld.com/article/3652336/java-19-may-be-quite-ambitious.html#tk.rss_all)
+- [Java 19 could be big](https://www.infoworld.com/article/3652336/java-19-could-be-big.html#tk.rss_all)
 - [Solving complex problems with vector databases](https://www.infoworld.com/article/3651360/solving-complex-problems-with-vector-databases.html#tk.rss_all)
 - [5 ways spreadsheets kill your business](https://www.infoworld.com/article/3652609/5-ways-spreadsheets-kill-your-business.html#tk.rss_all)
 - [What is open data, and why does it matter?](https://www.infoworld.com/article/3652495/what-is-open-data-and-why-does-it-matter.html#tk.rss_all)
-- [7 reasons to embrace Web3 — and 7 reasons not to](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html#tk.rss_all)
-- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [Why Google donated Knative to the CNCF](https://www.infoworld.com/article/3652689/why-google-donated-knative-to-the-cncf.html#tk.rss_all)
-- [‘Cloud native’ confusion continues](https://www.infoworld.com/article/3652530/cloud-native-confusion-continues.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

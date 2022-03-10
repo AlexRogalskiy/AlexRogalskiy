@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mildred Dresselhaus: A Giant of Nanoscience](https://physicsworld.com/a/mildred-dresselhaus-a-giant-of-nanoscience/)
-- [Name of Pittsburgh](https://en.wikipedia.org/wiki/Name_of_Pittsburgh)
-- [The Future of Plugin, Themes, and Services Purchases on WordPress.com](https://wordpress.com/blog/2022/03/08/the-future-of-plugin-themes-and-services-purchases-on-wordpress-com/)
-- [May I Have My Paycheck in Bitcoin?](https://news.bloombergtax.com/daily-tax-report/may-i-have-my-paycheck-in-bitcoin-crypto-payments-explained)
-- [Why Tensors? A Beginner&#39;s Perspective](https://mfaizan.github.io/2022/03/08/why-tensors.html)
-- [Russian Butterfly Mines](https://twitter.com/deangloster/status/1501149968358281217)
-- [Password Manager Security [pdf] &lpar;2020&rpar;](https://courses.csail.mit.edu/6.857/2020/projects/16-Weckwerth-Xia-Zhang.pdf)
-- [The Immigration Angle on Digital Nomads &lpar;2021&rpar;](https://blog.stottandmay.com/immigration-angle-on-digital-nomads)
-- [The first non-English press release about the Nyxt Browser: agora, em Português](https://nyxt.atlas.engineer/article/terminal-root-press-release.org)
-- [Open5x: Accessible 5-axis 3D printing and conformal slicing](https://arxiv.org/abs/2202.11426)
+- [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock)
+- [Conservatives win back power in South Korea&#39;s presidential election](https://thehill.com/policy/international/597591-conservatives-win-back-power-in-south-koreas-presidential-election)
+- [Humans of New York Became a One-Man Philanthropy Machine](https://nymag.com/intelligencer/article/humans-of-new-york-brandon-stanton.html)
+- [Cat Paper Collection](https://www.cs.cmu.edu/~junyanz/cat/cat_papers.html)
+- [Bundle for Ukraine](https://itch.io/b/1316/bundle-for-ukraine)
+- [“Taste typicality” a foundational, multi-modal dimension of aesthetic experience](https://www.cell.com/current-biology/fulltext/S0960-9822(22)00261-5)
+- [Calculating the Last Minute](https://seths.blog/2022/03/calculating-the-last-minute/)
+- [Deep Work](https://ava.substack.com/p/deep-work)
+- [Scientists confirm thermonuclear fusion in a sheared-flow Z-pinch device](https://phys.org/news/2022-03-scientists-thermonuclear-fusion-sheared-flow-z-pinch.html)
+- [Why Russians Are Fleeing Russia](https://www.vice.com/en/article/5dgqq5/russians-flee-russia-vladimir-putin-ukraine-war)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

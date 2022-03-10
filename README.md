@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: US rejects Polish plan to offer jets to Ukraine; Russia accused of breaking Mariupol ceasefire – live](https://www.theguardian.com/world/live/2022/mar/08/ukraine-news-russia-war-vladimir-putin-volodymyr-zelenskiy-kyiv-russian-invasion-live-latest-updates)
-- [West Indies v England: ICC Women’s World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/08/west-indies-v-england-icc-womens-world-cup-live)
-- [‘We will fight until the end’: how the papers covered Zelenskiy’s Commons speech](https://www.theguardian.com/world/2022/mar/09/we-will-fight-until-the-end-how-the-papers-covered-zelenskiys-commons-speech)
-- [Saudi Arabia and UAE leaders ‘decline calls with Biden’ amid fears of oil price spike](https://www.theguardian.com/us-news/2022/mar/09/saudi-arabia-and-uae-leaders-decline-calls-with-biden-amid-fears-of-oil-price-spike)
-- [‘I want to go out on top’: Sexton commits to World Cup before England encounter](https://www.theguardian.com/sport/2022/mar/09/i-want-to-go-out-on-top-sexton-commits-to-world-cup-before-england-encounter)
-- [Elon Musk seeks to end US restrictions on his tweets](https://www.theguardian.com/technology/2022/mar/08/elon-musk-seeks-end-us-restrictions-tweets)
-- [Russia-Ukraine war: what we know on day 14 of the Russian invasion](https://www.theguardian.com/world/2022/mar/09/russia-ukraine-war-what-we-know-on-day-14-of-the-russian-invasion)
-- [US dismisses Polish plan to provide fighter jets to be sent to Ukraine](https://www.theguardian.com/world/2022/mar/08/poland-mig-29-jets-us-ukraine)
-- [Russian planes that enter UK airspace could be detained by government](https://www.theguardian.com/uk-news/2022/mar/08/russian-planes-that-enter-uk-airspace-could-be-detained-by-government)
-- [A father used a ghost gun to kill his three daughters. It’s a sign of a growing crisis](https://www.theguardian.com/us-news/2022/mar/08/a-father-used-a-ghost-gun-to-kill-his-three-daughters-its-a-sign-of-a-growing-crisis)
+- [Russia-Ukraine war latest: strike on children’s hospital ‘ultimate evidence that genocide is happening’ – Zelenskiy](https://www.theguardian.com/world/live/2022/mar/09/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates)
+- [Denmark PM says sorry to Greenland Inuits taken for ‘heartless’ social experiment](https://www.theguardian.com/world/2022/mar/10/denmark-pm-says-sorry-to-greenland-inuits-taken-for-heartless-social-experiment)
+- [Russia-Ukraine war update: what we know on day 15 of the Russian invasion](https://www.theguardian.com/world/2022/mar/10/russia-ukraine-war-update-what-we-know-on-day-15-of-the-russian-invasion)
+- [Obi-Wan Kenobi trailer: Ewan McGregor returns to role in Star Wars show – video](https://www.theguardian.com/film/video/2022/mar/10/obi-wan-kenobi-trailer-ewan-mcgregor-returns-to-role-in-star-wars-show-video)
+- [Wrongly built drainage system led to Stonehaven train crash, investigators find](https://www.theguardian.com/business/2022/mar/10/wrongly-built-drainage-system-led-to-stonehaven-train-crash-investigators-find)
+- [Lenny Henry to make playwright debut with Windrush drama](https://www.theguardian.com/stage/2022/mar/10/lenny-henry-to-make-playwright-debut-with-windrush-drama)
+- [‘Pretty awesome’: celebrity mountain lion’s walkabout excites Los Angeles residents](https://www.theguardian.com/us-news/2022/mar/09/mountain-lion-los-angeles-california-p22)
+- [Novak Djokovic pulls out of Indian Wells as vaccine stance derails US trip](https://www.theguardian.com/sport/2022/mar/10/novak-djokovic-pulls-out-of-indian-wells-as-vaccine-stance-puts-paid-to-us-trip)
+- [‘It’s astonishing’: endangered bat not seen in 40 years found in Rwanda](https://www.theguardian.com/world/2022/mar/09/bats-endangered-hills-horseshoe-bat-rwanda)
+- [Britain and US fear Russia could be setting stage to use chemical weapons](https://www.theguardian.com/world/2022/mar/09/britain-fears-russia-could-be-setting-stage-to-use-chemical-weapons)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

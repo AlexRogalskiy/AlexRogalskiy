@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
-- [How to Use Lambdas in Ruby &lpar;2020&rpar;](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
-- [Ruby Together](https://rubytogether.org/)
-- [Appeal to Ruby Community from Kharkiv Rubyist](https://zverok.space/blog/2022-03-03-WAR.html)
-- [Python Built-In Functions to Know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
-- [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
-- [Show HN: 2D Game engine and editor for Windows and Linux](https://github.com/ensisoft/gamestudio)
-- [Sodinokibi/REvil Ransomware Defendant Extradited to United States](https://www.justice.gov/opa/pr/sodinokibirevil-ransomware-defendant-extradited-united-states-and-arraigned-texas)
-- [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
+- [Why the 2020 census has 9 fake people in a single house](https://fullstackeconomics.com/why-the-2020-census-has-9-fake-people-in-a-single-house/)
+- [Earn-IT threatens encryption and therefore user freedom](https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Engineering Manager, Software Development](https://jobs.lever.co/getjerry/4290d136-b59c-49d7-83c2-1f1f71f57e4c)
+- [Just Say No to Central Bank Digital Currencies](https://theupheaval.substack.com/p/just-say-no-to-cbdcs)
+- [Ragingbull.com to pay $2.4M for bogus earnings claims, subscription charges](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
+- [We’re the founders of Substack, we just launched an iOS app. AUA](https://news.ycombinator.com/item?id=30632952)
+- [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/)
+- [Following the oud through the history of Armenian music](https://www.laphamsquarterly.org/roundtable/variations-theme)
+- [Apple AirTags draining battery of devices close by](https://annoying.technology/posts/d9d6d289a06def25/)
+- [Show HN: Prepform – AI and spaced-repetition to optimize learning](https://prepform.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

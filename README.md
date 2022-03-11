@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: strike on children’s hospital ‘ultimate evidence that genocide is happening’ – Zelenskiy](https://www.theguardian.com/world/live/2022/mar/09/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates)
-- [Denmark PM says sorry to Greenland Inuits taken for ‘heartless’ social experiment](https://www.theguardian.com/world/2022/mar/10/denmark-pm-says-sorry-to-greenland-inuits-taken-for-heartless-social-experiment)
-- [Russia-Ukraine war update: what we know on day 15 of the Russian invasion](https://www.theguardian.com/world/2022/mar/10/russia-ukraine-war-update-what-we-know-on-day-15-of-the-russian-invasion)
-- [Obi-Wan Kenobi trailer: Ewan McGregor returns to role in Star Wars show – video](https://www.theguardian.com/film/video/2022/mar/10/obi-wan-kenobi-trailer-ewan-mcgregor-returns-to-role-in-star-wars-show-video)
-- [Wrongly built drainage system led to Stonehaven train crash, investigators find](https://www.theguardian.com/business/2022/mar/10/wrongly-built-drainage-system-led-to-stonehaven-train-crash-investigators-find)
-- [Lenny Henry to make playwright debut with Windrush drama](https://www.theguardian.com/stage/2022/mar/10/lenny-henry-to-make-playwright-debut-with-windrush-drama)
-- [‘Pretty awesome’: celebrity mountain lion’s walkabout excites Los Angeles residents](https://www.theguardian.com/us-news/2022/mar/09/mountain-lion-los-angeles-california-p22)
-- [Novak Djokovic pulls out of Indian Wells as vaccine stance derails US trip](https://www.theguardian.com/sport/2022/mar/10/novak-djokovic-pulls-out-of-indian-wells-as-vaccine-stance-puts-paid-to-us-trip)
-- [‘It’s astonishing’: endangered bat not seen in 40 years found in Rwanda](https://www.theguardian.com/world/2022/mar/09/bats-endangered-hills-horseshoe-bat-rwanda)
-- [Britain and US fear Russia could be setting stage to use chemical weapons](https://www.theguardian.com/world/2022/mar/09/britain-fears-russia-could-be-setting-stage-to-use-chemical-weapons)
+- [Russia-Ukraine war latest news: ‘We are all dealing with a terrorist state,’ says Zelenskiy; Mariupol citizens without food, water or medical care](https://www.theguardian.com/world/live/2022/mar/10/ukraine-news-russia-war-kyiv-vladimir-putin-volodymyr-zelenskiy-russian-invasion-hospital-bombing-latest-live-updates)
+- [Russia-Ukraine war update: what we know on day 16 of the Russian invasion](https://www.theguardian.com/world/2022/mar/11/russia-ukraine-war-update-what-we-know-on-day-16-of-the-russian-invasion)
+- [Islamic State names new leader, confirming US raid killed predecessor](https://www.theguardian.com/world/2022/mar/11/islamic-state-names-new-leader-confirming-us-raid-killed-predecessor)
+- [Actor Jussie Smollett sentenced to 150 days in jail for lying to police about fake hate crime](https://www.theguardian.com/us-news/2022/mar/10/jussie-smollett-sentenced-faking-hate-crime)
+- [‘A necessary war’: reporting on the Ukraine ‘disagreement’ outside the west](https://www.theguardian.com/world/2022/mar/11/a-necessary-war-reporting-on-the-ukraine-disagreement-outside-the-west)
+- [Senior teachers will endure long pay freeze under DfE plans, study finds](https://www.theguardian.com/education/2022/mar/11/senior-teachers-will-endure-long-pay-freeze-under-dfe-plans-study-finds)
+- [MoD delivery of Ajax armoured vehicles will be a challenge, says watchdog](https://www.theguardian.com/uk-news/2022/mar/11/mod-delivery-of-ajax-armoured-vehicles-will-be-a-challenge-says-watchdog)
+- [Thomas Tuchel insists it is ‘business as usual’ at Chelsea despite sanctions news](https://www.theguardian.com/football/2022/mar/10/thomas-tuchel-insists-it-is-business-as-usual-at-chelsea-despite-sanctions-news)
+- [UK government to allow members of public to house Ukrainian refugees](https://www.theguardian.com/world/2022/mar/10/uk-to-open-sponsored-route-for-ukrainian-refugees)
+- [All Blacks issue apology after backlash to International Women’s Day tribute](https://www.theguardian.com/sport/2022/mar/11/all-blacks-issue-apology-after-backlash-to-international-womens-day-tribute)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

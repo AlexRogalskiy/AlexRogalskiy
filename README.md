@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock)
-- [Conservatives win back power in South Korea&#39;s presidential election](https://thehill.com/policy/international/597591-conservatives-win-back-power-in-south-koreas-presidential-election)
-- [Humans of New York Became a One-Man Philanthropy Machine](https://nymag.com/intelligencer/article/humans-of-new-york-brandon-stanton.html)
-- [Cat Paper Collection](https://www.cs.cmu.edu/~junyanz/cat/cat_papers.html)
-- [Bundle for Ukraine](https://itch.io/b/1316/bundle-for-ukraine)
-- [“Taste typicality” a foundational, multi-modal dimension of aesthetic experience](https://www.cell.com/current-biology/fulltext/S0960-9822(22)00261-5)
-- [Calculating the Last Minute](https://seths.blog/2022/03/calculating-the-last-minute/)
-- [Deep Work](https://ava.substack.com/p/deep-work)
-- [Scientists confirm thermonuclear fusion in a sheared-flow Z-pinch device](https://phys.org/news/2022-03-scientists-thermonuclear-fusion-sheared-flow-z-pinch.html)
-- [Why Russians Are Fleeing Russia](https://www.vice.com/en/article/5dgqq5/russians-flee-russia-vladimir-putin-ukraine-war)
+- [Samsung and Omnivision Claim Smallest Camera Pixels](https://spectrum.ieee.org/cmos-image-sensor-pixel)
+- [Sex work isn&#39;t always about sex](https://onlysky.media/elouis/sex-work-isnt-always-about-sex/)
+- [What is the risk of nuclear war?](https://www.bbc.com/future/article/20220309-how-to-evaluate-the-risk-of-nuclear-war)
+- [A Visual Guide to North Korea&#39;s Totalitarian OS &lpar;2014&rpar;](https://www.fastcompany.com/3036046/what-its-like-to-use-north-koreas-red-star-os)
+- [Twitter makes it harder to choose the old reverse-chronological feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
+- [Face mask mandates in schools do not lead to lower Covid transmission](https://philip.greenspun.com/blog/2022/03/10/face-mask-mandates-in-schools-were-not-associated-with-lower-sars-cov-2-incidence-or-transmission/)
+- [John Mearsheimer and the dark origins of realism](https://www.newstatesman.com/ideas/2022/03/john-mearsheimer-and-the-dark-origins-of-realism)
+- [Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist)
+- [Soar &lpar;Cognitive Architecture&rpar;](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
+- [The Google attack: How I attacked myself using Google Spreadsheets](https://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

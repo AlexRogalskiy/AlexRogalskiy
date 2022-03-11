@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [National Cyber Strategy misses the mark in one important way](https://www.computerweekly.com/opinion/National-Cyber-Strategy-misses-the-mark-in-one-important-way)
+- [Nordic colocation firm atNorth claims to have opened Sweden’s first large-scale HPC hub](https://www.computerweekly.com/news/252514452/Nordic-colocation-firm-atNorth-claims-to-have-opened-Swedens-first-large-scale-HPC-hub)
+- [BT signs five-year deal with Google Cloud to revamp customer experience](https://www.computerweekly.com/news/252514447/BT-signs-five-year-deal-with-Google-Cloud-to-revamp-customer-experience)
+- [Tech brands sign on to HackerOne responsible security drive](https://www.computerweekly.com/news/252514448/Tech-brands-sign-on-to-HackerOne-responsible-security-drive)
+- [CW Europe: Luxembourg sees big role in global fintech market](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Luxembourg-sees-big-role-in-global-fintech-market)
 - [Paid-for advertising measures included in Online Safety Bill](https://www.computerweekly.com/news/252514394/Paid-for-advertising-measures-included-in-Online-Safety-Bill)
 - [Cloud-era disaster recovery planning: Maintenance and continuous improvement](https://www.computerweekly.com/feature/Cloud-era-disaster-recovery-planning-Maintenance-and-continuous-improvement)
 - [Strategic Review of Policing: Police tech needs better ethical scrutiny](https://www.computerweekly.com/news/252514375/Strategic-Review-of-Policing-Police-tech-needs-better-ethical-scrutiny)
 - [China’s APT41 exploited Log4j within hours](https://www.computerweekly.com/news/252514376/Chinas-APT41-exploited-Log4j-within-hours)
 - [Microsoft serves up three zero-days on March Patch Tuesday](https://www.computerweekly.com/news/252514370/Microsoft-serves-up-three-zero-days-on-March-Patch-Tuesday)
-- [Uptime Institute debuts online tool to showcase datacentre industry career opportunities](https://www.computerweekly.com/news/252514364/Uptime-Institute-debuts-online-tool-to-showcase-datacentre-industry-career-opportunities)
-- [Datacentres and climate change: Operators accused of being all talk and no action on sustainability](https://www.computerweekly.com/feature/Datacentres-and-climate-change-Operators-accused-of-being-all-talk-and-no-action-on-sustainability)
-- [Gartner: How to retain and motivate IT staff](https://www.computerweekly.com/news/252514361/Gartner-How-to-retain-and-motivate-IT-staff)
-- [2022 must be a big year for sustainability in the tech sector](https://www.computerweekly.com/news/252514035/2022-must-be-a-big-year-for-sustainability-in-the-tech-sector)
-- [Google buys Mandiant for £4bn](https://www.computerweekly.com/news/252514330/Google-buys-Mandiant-for-4bn)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

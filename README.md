@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [System Support Rep next steps..](https://www.reddit.com/r/InformationTechnology/comments/tb9wi7/system_support_rep_next_steps/)
+- [After one year of Level 1&amp;2 Information Technology Specialist at a call center, what would be a good next step position in I.T. to consider?](https://www.reddit.com/r/InformationTechnology/comments/taz1x2/after_one_year_of_level_12_information_technology/)
 - [I took 2 years off from college during Covid. I&#39;m scheduled to go back this fall &lpar;2022&rpar;. In the meantime, I&#39;m looking at getting some certifications and doing a bootcamp. I&#39;m wondering if I can get some advice/tips on this plan/track over the coming months.](https://www.reddit.com/r/InformationTechnology/comments/tai758/i_took_2_years_off_from_college_during_covid_im/)
 - [Help Desk Manager vs Level 1 CS Tech job progression question.](https://www.reddit.com/r/InformationTechnology/comments/ta7y2n/help_desk_manager_vs_level_1_cs_tech_job/)
 - [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
@@ -422,8 +424,6 @@
 - [Transfer data files to China](https://www.reddit.com/r/InformationTechnology/comments/t9isiy/transfer_data_files_to_china/)
 - [Remote answering devices for Unified Communications](https://www.reddit.com/r/InformationTechnology/comments/t9iqog/remote_answering_devices_for_unified/)
 - [Any suggestions with a Research Topic related to IoT/Networking?](https://www.reddit.com/r/InformationTechnology/comments/t9bwpu/any_suggestions_with_a_research_topic_related_to/)
-- [Career question](https://www.reddit.com/r/InformationTechnology/comments/t94blj/career_question/)
-- [Anyone Know The Deal with Cisco Transceivers?](https://www.reddit.com/r/InformationTechnology/comments/t926t4/anyone_know_the_deal_with_cisco_transceivers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

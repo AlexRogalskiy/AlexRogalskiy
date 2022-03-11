@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [React 18 brings concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_all)
+- [Project Loom: Understand the new Java concurrency model](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html#tk.rss_all)
+- [How to work with disconnected entities in Entity Framework Core](https://www.infoworld.com/article/3652595/how-to-work-with-disconnected-entities-in-entity-framework-core.html#tk.rss_all)
+- [How Trade Ledger switched to microservices for its cloud-based software](https://www.infoworld.com/article/3652532/how-australia-s-trade-ledger-switched-to-microservices-for-its-cloud-based-software.html#tk.rss_all)
 - [Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules](https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html#tk.rss_all)
 - [In an evolving cloud world, Azure passes AWS](https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html#tk.rss_all)
 - [Accessibility Insights makes code more accessible](https://www.infoworld.com/article/3652619/accessibility-insights-makes-code-more-accessible.html#tk.rss_all)
 - [How to evaluate software asset management tools](https://www.infoworld.com/article/3652615/how-to-evaluate-software-asset-management-tools.html#tk.rss_all)
 - [Microsoft previews Edge Developer Tools for Visual Studio](https://www.infoworld.com/article/3652526/microsoft-previews-edge-developer-tools-for-visual-studio.html#tk.rss_all)
 - [Cloud computing and the metaverse](https://www.infoworld.com/article/3652496/cloud-computing-and-the-metaverse.html#tk.rss_all)
-- [Java 19 could be big](https://www.infoworld.com/article/3652336/java-19-could-be-big.html#tk.rss_all)
-- [Solving complex problems with vector databases](https://www.infoworld.com/article/3651360/solving-complex-problems-with-vector-databases.html#tk.rss_all)
-- [5 ways spreadsheets kill your business](https://www.infoworld.com/article/3652609/5-ways-spreadsheets-kill-your-business.html#tk.rss_all)
-- [What is open data, and why does it matter?](https://www.infoworld.com/article/3652495/what-is-open-data-and-why-does-it-matter.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

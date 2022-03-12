@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why the 2020 census has 9 fake people in a single house](https://fullstackeconomics.com/why-the-2020-census-has-9-fake-people-in-a-single-house/)
-- [Earn-IT threatens encryption and therefore user freedom](https://www.fsf.org/blogs/community/earn-it-threatens-encryption-and-therefore-user-freedom)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Engineering Manager, Software Development](https://jobs.lever.co/getjerry/4290d136-b59c-49d7-83c2-1f1f71f57e4c)
-- [Just Say No to Central Bank Digital Currencies](https://theupheaval.substack.com/p/just-say-no-to-cbdcs)
-- [Ragingbull.com to pay $2.4M for bogus earnings claims, subscription charges](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
-- [We’re the founders of Substack, we just launched an iOS app. AUA](https://news.ycombinator.com/item?id=30632952)
-- [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/)
-- [Following the oud through the history of Armenian music](https://www.laphamsquarterly.org/roundtable/variations-theme)
-- [Apple AirTags draining battery of devices close by](https://annoying.technology/posts/d9d6d289a06def25/)
-- [Show HN: Prepform – AI and spaced-repetition to optimize learning](https://prepform.com)
+- [Putin’s Worsening Problems](https://newlinesmag.com/argument/putins-worsening-problems/)
+- [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
+- [The Art of Plain Text &lpar;2015&rpar;](https://www.netmeister.org/blog/the-art-of-plain-text.html)
+- [RISC-V J extension – Instructions for JITs](https://github.com/riscv/riscv-j-extension)
+- [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341)
+- [Researchers train an algorithm to interpret pig grunts as emotions](https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/)
+- [Incident report: Spotify outage on March 8](https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/)
+- [Why Single Sign on Sucks](https://goteleport.com/blog/why-sso-sucks/)
+- [To avoid Finland’s tax a 1,000HP imported Hennessey RAM is limited to 55MPH](https://www.thedrive.com/news/44642/imported-1000-hp-hennessey-ram-trx-limited-to-55-mph-over-tax-loophole)
+- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

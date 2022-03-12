@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for March 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-11-2022/475673)
+- [Lethbridge College to allow students to occupy property in the metaverse](https://www.itworldcanada.com/article/lethbridge-college-to-allow-students-to-occupy-property-in-the-metaverse/475801)
+- [Splinternet: will Russia pull itself off the internet?](https://www.itworldcanada.com/article/splinternet-will-russia-pull-itself-off-the-internet/475791)
+- [Canadian sentenced for ransomware attacks extradited to U.S. to face more charges](https://www.itworldcanada.com/article/canadian-sentenced-for-ransomware-attacks-extradited-to-u-s-to-face-more-charges/475704)
+- [Experts skeptical new Russian certificate authority will evade sanctions](https://www.itworldcanada.com/article/experts-skeptical-new-russian-certificate-authority-will-evade-sanctions/475693)
+- [Cyber Security Today, March 11, 2022 – Threats from APC power supplies, a warning to ServiceNow administrators and more](https://www.itworldcanada.com/article/cyber-security-today-march-11-2022-threats-from-apc-power-supplies-a-warning-to-servicenow-administrators-and-more/475664)
+- [Hashtag Trending March 11 – Google’s anti-harassment tool; Tinder background check; Tabs in file explorer](https://www.itworldcanada.com/article/hashtag-trending-march-11-googles-anti-harassment-tool-tinder-background-check-tabs-in-file-explorer/475660)
 - [Hashtag Trending March 10 – Algorithmic Accountability Act; Apple’s pricey accessory; Twitter’s Tor onion service](https://www.itworldcanada.com/article/hashtag-trending-march-10-algorithmic-accountability-act-apples-pricey-accessory-twitters-tor-onion-service/475534)
 - [The power of two: Apple’s M1 Ultra chip is two M1 Max chips joined together](https://www.itworldcanada.com/article/the-power-of-two-apples-m1-ultra-chip-is-two-m1-max-chips-joined-together/475477)
 - [Canada to get first-of-its-kind 3D printed housing project in Leamington, Ontario](https://www.itworldcanada.com/article/canada-to-get-first-of-its-kind-3d-printed-housing-project-in-leamington-ontario/475465)
-- [Cyber Security Today, March 9, 2022 – Warnings to Linux and HP device administrators, Samsung confirms data theft and more](https://www.itworldcanada.com/article/cyber-security-today-march-9-2022-warnings-to-linux-and-hp-device-administrators-samsung-confirms-data-theft-and-more/475348)
-- [Hashtag Trending March 9 – Apple’s new chip; Apple device’s repairability; another threat to chip production](https://www.itworldcanada.com/article/hashtag-trending-march-9-apples-new-chip-apple-devices-repairability-another-threat-to-chip-production/475404)
-- [On International Women’s Day, voices of cybersecurity experts from Egypt, Saudi Arabia, Dubai and India](https://www.itworldcanada.com/article/on-international-womens-day-voices-of-cybersecurity-experts-from-egypt-saudi-arabia-dubai-and-india/475289)
-- [International Women’s Day: Shopify’s Backbone Angels Surpass 2021 Goals](https://www.itworldcanada.com/article/international-womens-day-shopifys-backbone-angels-surpass-2021-goals/475342)
-- [Google to buy Mandiant for US$5.4 billion](https://www.itworldcanada.com/article/google-to-buy-mandiant-for-us5-4-billion/475324)
-- [International Women’s Day: Coffee Briefing March 8, 2022 – ITWC’s Top Women in Cybersecurity Celebration; women breaking the bias in tech; and more](https://www.itworldcanada.com/article/international-womens-day-coffee-briefing-march-8-2022-itwcs-top-women-in-cybersecurity-celebration-women-breaking-the-bias-in-tech-and-more/475300)
-- [Federal government and British Columbia to invest $830 million in rural area network development](https://www.itworldcanada.com/article/federal-government-and-british-columbia-to-invest-830-million-in-rural-area-network-development/475302)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

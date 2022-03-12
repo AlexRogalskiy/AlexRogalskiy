@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Majority of UK adults support legal right to disconnect](https://www.computerweekly.com/news/252514515/Majority-of-UK-adults-support-legal-right-to-disconnect)
+- [Five tips to help you deploy a successful AI initiative](https://www.computerweekly.com/opinion/Five-tips-to-help-you-deploy-a-successful-AI-initiative)
+- [AWS launches its first UK healthtech accelerator](https://www.computerweekly.com/news/252514502/AWS-launches-its-first-UK-healthtech-accelerator)
+- [Volvo Cars recruiting 700 tech professionals for Stockholm hub](https://www.computerweekly.com/news/252514500/Volvo-Cars-recruiting-700-tech-professionals-for-Stockholm-hub)
+- [Kaspersky forced to deny source code leak](https://www.computerweekly.com/news/252514499/Kaspersky-forced-to-deny-source-code-leak)
+- [Police EncroChat cryptophone hacking implant did not work properly and frequently failed](https://www.computerweekly.com/news/252514476/Police-EncroChat-cryptophone-hacking-implant-did-not-work-properly-and-frequently-failed)
+- [Government launches outcome of digital ID consultation](https://www.computerweekly.com/news/252514475/Government-launches-outcome-of-digital-ID-consultation)
 - [National Cyber Strategy misses the mark in one important way](https://www.computerweekly.com/opinion/National-Cyber-Strategy-misses-the-mark-in-one-important-way)
 - [Nordic colocation firm atNorth claims to have opened Sweden’s first large-scale HPC hub](https://www.computerweekly.com/news/252514452/Nordic-colocation-firm-atNorth-claims-to-have-opened-Swedens-first-large-scale-HPC-hub)
 - [BT signs five-year deal with Google Cloud to revamp customer experience](https://www.computerweekly.com/news/252514447/BT-signs-five-year-deal-with-Google-Cloud-to-revamp-customer-experience)
-- [Tech brands sign on to HackerOne responsible security drive](https://www.computerweekly.com/news/252514448/Tech-brands-sign-on-to-HackerOne-responsible-security-drive)
-- [CW Europe: Luxembourg sees big role in global fintech market](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Luxembourg-sees-big-role-in-global-fintech-market)
-- [Paid-for advertising measures included in Online Safety Bill](https://www.computerweekly.com/news/252514394/Paid-for-advertising-measures-included-in-Online-Safety-Bill)
-- [Cloud-era disaster recovery planning: Maintenance and continuous improvement](https://www.computerweekly.com/feature/Cloud-era-disaster-recovery-planning-Maintenance-and-continuous-improvement)
-- [Strategic Review of Policing: Police tech needs better ethical scrutiny](https://www.computerweekly.com/news/252514375/Strategic-Review-of-Policing-Police-tech-needs-better-ethical-scrutiny)
-- [China’s APT41 exploited Log4j within hours](https://www.computerweekly.com/news/252514376/Chinas-APT41-exploited-Log4j-within-hours)
-- [Microsoft serves up three zero-days on March Patch Tuesday](https://www.computerweekly.com/news/252514370/Microsoft-serves-up-three-zero-days-on-March-Patch-Tuesday)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

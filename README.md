@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Samsung and Omnivision Claim Smallest Camera Pixels](https://spectrum.ieee.org/cmos-image-sensor-pixel)
-- [Sex work isn&#39;t always about sex](https://onlysky.media/elouis/sex-work-isnt-always-about-sex/)
-- [What is the risk of nuclear war?](https://www.bbc.com/future/article/20220309-how-to-evaluate-the-risk-of-nuclear-war)
-- [A Visual Guide to North Korea&#39;s Totalitarian OS &lpar;2014&rpar;](https://www.fastcompany.com/3036046/what-its-like-to-use-north-koreas-red-star-os)
-- [Twitter makes it harder to choose the old reverse-chronological feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
-- [Face mask mandates in schools do not lead to lower Covid transmission](https://philip.greenspun.com/blog/2022/03/10/face-mask-mandates-in-schools-were-not-associated-with-lower-sars-cov-2-incidence-or-transmission/)
-- [John Mearsheimer and the dark origins of realism](https://www.newstatesman.com/ideas/2022/03/john-mearsheimer-and-the-dark-origins-of-realism)
-- [Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist)
-- [Soar &lpar;Cognitive Architecture&rpar;](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
-- [The Google attack: How I attacked myself using Google Spreadsheets](https://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html)
+- [POTUS warns Russia will pay &#39;a severe price&#39; if Chemical-Weapons used in Ukraine](https://lite.cnn.com/en/article/h_e4af33f8aa7c2d9fde2a4fde4e4d17ef)
+- [Belarus may be preparing to invade Ukraine](https://www.jpost.com/breaking-news/article-700998)
+- [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
+- [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
+- [After over three decades of covering Russia, I leave in despair](https://www.cnn.com/2022/03/11/europe/leaving-russia-analysis-robertson-intl-cmd/index.html)
+- [Putin’s Worsening Problems](https://newlinesmag.com/argument/putins-worsening-problems/)
+- [Pernosco – new kind of x86 debugger](https://pernos.co/about/overview)
+- [Solar Panels Built from Waste Crops Can Make Energy Without Direct Light](https://www.goodnewsnetwork.org/solar-panels-built-from-waste-crops-can-make-energy-without-direct-light/)
+- [Kids show mysteriously low levels of Covid antibodies](https://www.nature.com/articles/d41586-022-00681-8)
+- [Video2X: Anime/GIF Upscaling with AI](https://github.com/k4yt3x/video2x)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

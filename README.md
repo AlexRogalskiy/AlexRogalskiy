@@ -369,8 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [The Cloud Security Partnership](https://www.informationweek.com/cloud/the-cloud-security-partnership)
+- [Tech Giants AWS, Microsoft, Google, IBM Step Up Efforts to Punish Kremlin](https://www.informationweek.com/strategic-cio/tech-giants-aws-microsoft-google-ibm-step-up-efforts-to-punish-kremlin)
 - [Google&#39;s Mandiant Acquisition Brings Cybersecurity Automation to Forefront](https://www.informationweek.com/strategic-cio/google-s-mandiant-acquisition-brings-cybersecurity-automation-to-forefront)
+- [The Cloud Security Partnership](https://www.informationweek.com/cloud/the-cloud-security-partnership)
 - [How to Architect for Resiliency in a Cloud Outages Reality](https://www.informationweek.com/cloud/how-to-architect-for-resiliency-in-a-cloud-outages-reality)
 - [Can Digital Resources Help in Wake of Ban on Russian Energy?](https://www.informationweek.com/big-data/can-digital-resources-help-in-wake-of-ban-on-russian-energy-)
 - [Digital Supply Chain Management: Enhancing Value at Every Stage](https://www.informationweek.com/big-data/digital-supply-chain-management-enhancing-value-at-every-stage)
@@ -378,7 +379,6 @@
 - [IT Hiring: How to Appeal to GenZ Talent](https://www.informationweek.com/it-life/it-hiring-how-to-appeal-to-genz-talent)
 - [7 Ways Cloud Computing Supports Data Transformation](https://www.informationweek.com/cloud/7-ways-cloud-computing-supports-data-transformation)
 - [The Alternative Cloud Isn’t So Alternative Anymore](https://www.informationweek.com/cloud/the-alternative-cloud-isn-t-so-alternative-anymore)
-- [Metaverse: The Next Frontier in Healthcare?](https://www.informationweek.com/big-data/metaverse-the-next-frontier-in-healthcare-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

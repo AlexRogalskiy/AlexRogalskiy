@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google, Microsoft, Apple, Mozilla address browser pain points](https://www.infoworld.com/article/3653630/google-microsoft-apple-mozilla-address-browser-pain-points.html#tk.rss_all)
+- [The biggest obstacle to cloud is people](https://www.infoworld.com/article/3653371/the-biggest-obstacle-to-cloud-is-people.html#tk.rss_all)
+- [What is a serverless database? Elastic compute for the data tier](https://www.infoworld.com/article/3653228/what-is-a-serverless-database-elastic-compute-for-the-data-tier.html#tk.rss_all)
 - [React 18 brings concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_all)
 - [Project Loom: Understand the new Java concurrency model](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html#tk.rss_all)
 - [How to work with disconnected entities in Entity Framework Core](https://www.infoworld.com/article/3652595/how-to-work-with-disconnected-entities-in-entity-framework-core.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules](https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html#tk.rss_all)
 - [In an evolving cloud world, Azure passes AWS](https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html#tk.rss_all)
 - [Accessibility Insights makes code more accessible](https://www.infoworld.com/article/3652619/accessibility-insights-makes-code-more-accessible.html#tk.rss_all)
-- [How to evaluate software asset management tools](https://www.infoworld.com/article/3652615/how-to-evaluate-software-asset-management-tools.html#tk.rss_all)
-- [Microsoft previews Edge Developer Tools for Visual Studio](https://www.infoworld.com/article/3652526/microsoft-previews-edge-developer-tools-for-visual-studio.html#tk.rss_all)
-- [Cloud computing and the metaverse](https://www.infoworld.com/article/3652496/cloud-computing-and-the-metaverse.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

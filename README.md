@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can employer monitor personal pc &lpar;not used for work activity&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tc3r3e/can_employer_monitor_personal_pc_not_used_for/)
+- [What degree should I pursue if I want to work with computers?](https://www.reddit.com/r/InformationTechnology/comments/tbyrkc/what_degree_should_i_pursue_if_i_want_to_work/)
+- [I&#39;ve applied to over 400 jobs since the beginning of the year, but have only had 3 interviews.](https://www.reddit.com/r/InformationTechnology/comments/tbwecw/ive_applied_to_over_400_jobs_since_the_beginning/)
 - [System Support Rep next steps..](https://www.reddit.com/r/InformationTechnology/comments/tb9wi7/system_support_rep_next_steps/)
 - [After one year of Level 1&amp;2 Information Technology Specialist at a call center, what would be a good next step position in I.T. to consider?](https://www.reddit.com/r/InformationTechnology/comments/taz1x2/after_one_year_of_level_12_information_technology/)
 - [I took 2 years off from college during Covid. I&#39;m scheduled to go back this fall &lpar;2022&rpar;. In the meantime, I&#39;m looking at getting some certifications and doing a bootcamp. I&#39;m wondering if I can get some advice/tips on this plan/track over the coming months.](https://www.reddit.com/r/InformationTechnology/comments/tai758/i_took_2_years_off_from_college_during_covid_im/)
@@ -421,9 +424,6 @@
 - [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
 - [Info Sec](https://www.reddit.com/r/InformationTechnology/comments/t9k4ch/info_sec/)
 - [Breaking into tech](https://www.reddit.com/r/InformationTechnology/comments/t9jezi/breaking_into_tech/)
-- [Transfer data files to China](https://www.reddit.com/r/InformationTechnology/comments/t9isiy/transfer_data_files_to_china/)
-- [Remote answering devices for Unified Communications](https://www.reddit.com/r/InformationTechnology/comments/t9iqog/remote_answering_devices_for_unified/)
-- [Any suggestions with a Research Topic related to IoT/Networking?](https://www.reddit.com/r/InformationTechnology/comments/t9bwpu/any_suggestions_with_a_research_topic_related_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

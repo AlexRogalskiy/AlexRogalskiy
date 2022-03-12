@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Who will Apple&#39;s M-series Mac Pro be for?](https://www.computerworld.com/article/3653609/who-will-apples-m-series-mac-pro-be-for.html#tk.rss_all)
+- [The loss of ‘decent work’ is making employees less productive](https://www.computerworld.com/article/3653310/the-loss-of-decent-work-is-making-employees-less-productive.html#tk.rss_all)
 - [Podcast: What the new Mac Studio is all about &lpar;And what it’s not&rpar;](https://www.computerworld.com/article/3653374/podcast-what-the-new-mac-studio-is-all-about-and-what-its-not.html#tk.rss_all)
 - [BrandPost: Preparing for a technology supply-chain attack](https://www.computerworld.com/article/3653252/preparing-for-a-technology-supply-chain-attack.html#tk.rss_all)
 - [Q&amp;A: Your company&#39;s been bought — here&#39;s how to keep your IT career on track](https://www.computerworld.com/article/3652540/qa-your-companys-been-bought-heres-how-to-keep-your-it-career-on-track.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [IT workers grow restless, and younger ones want respect — Gartner](https://www.computerworld.com/article/3653249/it-workers-grow-restless-and-younger-ones-want-respect-gartner.html#tk.rss_all)
 - [Biden issues executive order on crypto regulation, stablecoin proposal](https://www.computerworld.com/article/3653328/biden-issues-executive-order-on-crypto-regulation-stablecoin-proposal.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [The M1 Ultra: Apple’s big leap forward in chip design](https://www.computerworld.com/article/3652700/the-m1-ultra-apples-big-leap-forward-in-chip-design.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

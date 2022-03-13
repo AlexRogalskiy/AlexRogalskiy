@@ -414,7 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can employer monitor personal pc &lpar;not used for work activity&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tc3r3e/can_employer_monitor_personal_pc_not_used_for/)
+- [Help on figuring out my degree choice for college.](https://www.reddit.com/r/InformationTechnology/comments/tctxc1/help_on_figuring_out_my_degree_choice_for_college/)
+- [Mail server](https://www.reddit.com/r/InformationTechnology/comments/tctp2e/mail_server/)
 - [What degree should I pursue if I want to work with computers?](https://www.reddit.com/r/InformationTechnology/comments/tbyrkc/what_degree_should_i_pursue_if_i_want_to_work/)
 - [I&#39;ve applied to over 400 jobs since the beginning of the year, but have only had 3 interviews.](https://www.reddit.com/r/InformationTechnology/comments/tbwecw/ive_applied_to_over_400_jobs_since_the_beginning/)
 - [System Support Rep next steps..](https://www.reddit.com/r/InformationTechnology/comments/tb9wi7/system_support_rep_next_steps/)
@@ -423,7 +424,6 @@
 - [Help Desk Manager vs Level 1 CS Tech job progression question.](https://www.reddit.com/r/InformationTechnology/comments/ta7y2n/help_desk_manager_vs_level_1_cs_tech_job/)
 - [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
 - [Info Sec](https://www.reddit.com/r/InformationTechnology/comments/t9k4ch/info_sec/)
-- [Breaking into tech](https://www.reddit.com/r/InformationTechnology/comments/t9jezi/breaking_into_tech/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

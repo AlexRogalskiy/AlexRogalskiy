@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft delivers a solid, low-impact Patch Tuesday](https://www.computerworld.com/article/3653356/microsoft-delivers-a-solid-low-impact-patch-tuesday.html#tk.rss_all)
 - [Who will Apple&#39;s M-series Mac Pro be for?](https://www.computerworld.com/article/3653609/who-will-apples-m-series-mac-pro-be-for.html#tk.rss_all)
 - [The loss of ‘decent work’ is making employees less productive](https://www.computerworld.com/article/3653310/the-loss-of-decent-work-is-making-employees-less-productive.html#tk.rss_all)
 - [Podcast: What the new Mac Studio is all about &lpar;And what it’s not&rpar;](https://www.computerworld.com/article/3653374/podcast-what-the-new-mac-studio-is-all-about-and-what-its-not.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [IT workers grow restless, and younger ones want respect — Gartner](https://www.computerworld.com/article/3653249/it-workers-grow-restless-and-younger-ones-want-respect-gartner.html#tk.rss_all)
 - [Biden issues executive order on crypto regulation, stablecoin proposal](https://www.computerworld.com/article/3653328/biden-issues-executive-order-on-crypto-regulation-stablecoin-proposal.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

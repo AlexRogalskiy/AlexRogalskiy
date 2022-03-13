@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Putin’s Worsening Problems](https://newlinesmag.com/argument/putins-worsening-problems/)
-- [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
-- [The Art of Plain Text &lpar;2015&rpar;](https://www.netmeister.org/blog/the-art-of-plain-text.html)
-- [RISC-V J extension – Instructions for JITs](https://github.com/riscv/riscv-j-extension)
-- [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341)
-- [Researchers train an algorithm to interpret pig grunts as emotions](https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/)
-- [Incident report: Spotify outage on March 8](https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/)
-- [Why Single Sign on Sucks](https://goteleport.com/blog/why-sso-sucks/)
-- [To avoid Finland’s tax a 1,000HP imported Hennessey RAM is limited to 55MPH](https://www.thedrive.com/news/44642/imported-1000-hp-hennessey-ram-trx-limited-to-55-mph-over-tax-loophole)
-- [Making RockPro64 a NetBSD Server](https://blog.netbsd.org/tnf/entry/making_rockpro64_a_netbsd_server)
+- [In Moscow, McDonald&#39;s packs up, radio falls silent and the brain drain begins](https://lite.cnn.com/en/article/h_032d5311e117bcfd9144ac4c4360ab33)
+- [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
+- [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
+- [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
+- [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
+- [33 years ago today I submitted a proposal for a system called the World Wide Web](https://twitter.com/timberners_lee/status/1502594846044954630)
+- [The Case for Induction Cooking](https://www.nytimes.com/2022/03/11/dining/induction-cooking.html)
+- [Comfort of Bloated Web](https://susam.net/maze/wall/comfort-of-bloated-web.html)
+- [.NET Myths Dispelled](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f)
+- [Show HN: Hubfs – File System for GitHub](https://github.com/winfsp/hubfs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

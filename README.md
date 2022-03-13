@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_all)
 - [Google, Microsoft, Apple, Mozilla address browser pain points](https://www.infoworld.com/article/3653630/google-microsoft-apple-mozilla-address-browser-pain-points.html#tk.rss_all)
 - [The biggest obstacle to cloud is people](https://www.infoworld.com/article/3653371/the-biggest-obstacle-to-cloud-is-people.html#tk.rss_all)
 - [What is a serverless database? Elastic compute for the data tier](https://www.infoworld.com/article/3653228/what-is-a-serverless-database-elastic-compute-for-the-data-tier.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [How Trade Ledger switched to microservices for its cloud-based software](https://www.infoworld.com/article/3652532/how-australia-s-trade-ledger-switched-to-microservices-for-its-cloud-based-software.html#tk.rss_all)
 - [Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules](https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html#tk.rss_all)
 - [In an evolving cloud world, Azure passes AWS](https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html#tk.rss_all)
-- [Accessibility Insights makes code more accessible](https://www.infoworld.com/article/3652619/accessibility-insights-makes-code-more-accessible.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

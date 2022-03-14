@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [In Moscow, McDonald&#39;s packs up, radio falls silent and the brain drain begins](https://lite.cnn.com/en/article/h_032d5311e117bcfd9144ac4c4360ab33)
-- [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
-- [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
-- [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
-- [Shader Park: A JavaScript library for creating interactive procedural shaders](https://shaderpark.com/)
-- [33 years ago today I submitted a proposal for a system called the World Wide Web](https://twitter.com/timberners_lee/status/1502594846044954630)
-- [The Case for Induction Cooking](https://www.nytimes.com/2022/03/11/dining/induction-cooking.html)
-- [Comfort of Bloated Web](https://susam.net/maze/wall/comfort-of-bloated-web.html)
-- [.NET Myths Dispelled](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27?gi=7ef0cf441b4f)
-- [Show HN: Hubfs – File System for GitHub](https://github.com/winfsp/hubfs)
+- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
+- [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi)
+- [My Pinephone Setup](https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
+- [Veloren is a multiplayer voxel RPG written in Rust](https://www.veloren.net/)
+- [Show HN: A Wordle clone made in Google Sheets](https://github.com/sajadmh/google-sheets-wordle)
+- [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
+- [Fresno lost $400k to a phishing scam in 2020 and never told the public](https://www.fresnobee.com/news/local/article259205608.html)
+- [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
+- [Joern – Bug Hunter&#39;s Workbench](https://joern.io/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -362,7 +362,7 @@
 - [Q&amp;A: Your company&#39;s been bought — here&#39;s how to keep your IT career on track](https://www.computerworld.com/article/3652540/qa-your-companys-been-bought-heres-how-to-keep-your-it-career-on-track.html#tk.rss_all)
 - [28 power user tips for Microsoft Teams](https://www.computerworld.com/article/3238014/microsoft-teams-tips-and-tricks.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [IT workers grow restless, and younger ones want respect — Gartner](https://www.computerworld.com/article/3653249/it-workers-grow-restless-and-younger-ones-want-respect-gartner.html#tk.rss_all)
+- [IT workers grow restless, and younger ones want respect —Gartner](https://www.computerworld.com/article/3653249/it-workers-grow-restless-and-younger-ones-want-respect-gartner.html#tk.rss_all)
 - [Biden issues executive order on crypto regulation, stablecoin proposal](https://www.computerworld.com/article/3653328/biden-issues-executive-order-on-crypto-regulation-stablecoin-proposal.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 

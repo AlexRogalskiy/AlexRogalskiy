@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Taking Away the Berries](https://rachelbythebay.com/w/2022/03/12/chow/)
-- [How did the gold standard work?](https://twitter.com/ProfPaulPoast/status/1459864898633146368)
-- [Quantum Summer](https://quantumsummer.world)
-- [I Spent a Day in Decentraland&#39;s NFT Metaverse So You Don&#39;t Have To](https://www.thegamer.com/decentraland-nft-metaverse/)
-- [The Ten REST Commandments](https://treblle.com/blog/the-10-rest-commandments)
-- [First scan of a dying human brain shows life flashes before eyes](https://www.youtube.com/watch?v=pWoG_Bul1cE)
-- [An early glimpse of Steve Jobs and Apple in a 1981 video](https://www.fastcompany.com/90730223/1981-steve-jobs-video)
-- [Fish Swimming &lpar;2007&rpar;](http://www.theartofnature.org/id20.html)
-- [History of Interactive Computing &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=z1QoyDVLU1M)
-- [William Blake&#39;s printing process [video]](https://www.youtube.com/watch?v=96LUAaaPqRc)
+- [Recalbox – Retrogaming Open Source OS for Raspberry Pi, Odroid and PC](https://gitlab.com/recalbox/recalbox)
+- [The Godfather almost never happened](https://trungphan.substack.com/p/the-godfather-almost-never-happened)
+- [A new computer algebra system in pure Rust](https://github.com/p-e-w/savage)
+- [A Simple Ejectable CLI Pattern](https://hire.jonasgalvez.com.br/2022/mar/13/a-simple-ejectable-cli-pattern/)
+- [OpenHAB – vendor and tech agnostic open source automation software for your home](https://www.openhab.org/)
+- [Sleep Is Death – a storytelling game for two players &lpar;2010&rpar;](http://www.sleepisdeath.net/)
+- [US Music Revenue Tops $15B for the First Time](https://celebrityaccess.com/2022/03/09/recorded-music-revenue-tops-15-billion-for-the-first-time-in-2021/)
+- [Ask HN: r/ProgrammerHumor at 1.8m and /r/MachineLearning at 2.3m, how?](https://news.ycombinator.com/item?id=30667721)
+- [The innovative surfing tech making waves](https://www.bbc.com/news/business-60689501)
+- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

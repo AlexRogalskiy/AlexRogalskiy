@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest news: invaders ‘cannot conquer us’, Zelenskiy says, as 13,000 flee besieged cities – live](https://www.theguardian.com/world/live/2022/mar/12/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates-live)
-- [Russia-Ukraine war update: what we know on day 18 of the Russian invasion](https://www.theguardian.com/world/2022/mar/13/russia-ukraine-war-update-what-we-know-on-day-18-of-the-russian-invasion)
-- [Rockets fired towards US consulate in northern Iraq city of Erbil: officials](https://www.theguardian.com/world/2022/mar/13/rockets-fired-towards-us-consulate-in-northern-iraq-city-of-erbil-officials)
-- [Kyiv ‘ready to fight’ as Russian forces close in on Ukraine capital](https://www.theguardian.com/world/2022/mar/12/kyiv-ready-to-fight-as-russian-forces-close-in-ukraine-capital)
-- [Players battle ‘brutal’ conditions at storm-hit Players Championship](https://www.theguardian.com/sport/2022/mar/13/players-battle-brutal-conditions-at-storm-hit-players-championship)
-- [Will the Bank of England push rates up with war set to drag spending power down?](https://www.theguardian.com/business/2022/mar/13/will-bank-really-push-rates-up-war-drag-spending-down)
-- [Scotland and Wales want to act as Ukrainian refugee ‘super sponsors’](https://www.theguardian.com/politics/2022/mar/13/scotland-and-wales-want-to-act-as-ukrainian-refugee-super-sponsors)
-- [Vote now! Painted snail and shipworm vie for mollusc of the year title](https://www.theguardian.com/environment/2022/mar/13/vote-now-painted-snail-and-shipworm-vie-for-mollusc-of-the-year-title-aoe)
-- [UK visa red tape distracting fighters on frontline, says Ukraine’s former PM](https://www.theguardian.com/world/2022/mar/12/uk-visa-red-tape-distracting-fighters-on-frontline-says-ukraines-former-pm)
-- [Light as air: Easy breezy shirts for men – in pictures](https://www.theguardian.com/fashion/gallery/2022/mar/12/light-as-air-easy-breezy-shirts-for-men-in-pictures)
+- [Russia-Ukraine war latest news: UK says Russian navy has blockaded Black Sea coast; Zelenskiy urges Nato to implement no-fly zone](https://www.theguardian.com/world/live/2022/mar/13/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates-live)
+- [South Africa v England: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/14/south-africa-v-england-icc-womens-cricket-world-cup-live)
+- [‘I can’t explain it’: the man behind the wheels-doors Twitter post that ‘exploded’ online](https://www.theguardian.com/world/2022/mar/14/i-cant-explain-it-the-man-behind-the-wheels-doors-twitter-post-that-exploded-online)
+- [Ukraine war: everything we know on day 19 of the Russian invasion](https://www.theguardian.com/world/2022/mar/14/ukraine-war-everything-we-know-on-day-19-of-the-russian-invasion)
+- [Tom Brady returns to NFL with Tampa Bay Buccaneers after 40-day retirement](https://www.theguardian.com/sport/2022/mar/13/tom-brady-returns-retirement-nfl-football-tampa-bay-buccaneers)
+- [Tenants face having to find extra £1,000 for 2022 rent and bills](https://www.theguardian.com/business/2022/mar/14/tenants-face-having-to-find-extra-1000-for-2022-rent-and-bills)
+- [UK shoppers face more identity checks when buying online](https://www.theguardian.com/money/2022/mar/14/uk-shoppers-face-more-identity-checks-when-buying-online)
+- [UK to donate more than 500 mobile generators to Ukraine](https://www.theguardian.com/world/2022/mar/14/uk-to-donate-more-than-500-mobile-generators-to-ukraine)
+- [Severn Trent and Anglian Water pledge to do more to protect rivers](https://www.theguardian.com/business/2022/mar/14/severn-trent-and-anglian-water-pledge-to-do-more-to-protect-rivers)
+- [Cherry Jezebel – Liverpool’s drag queens offer a darkly comic night of the soul](https://www.theguardian.com/stage/2022/mar/14/cherry-jezebel-everyman-liverpool-jonathan-larkin)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

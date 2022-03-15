@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recalbox – Retrogaming Open Source OS for Raspberry Pi, Odroid and PC](https://gitlab.com/recalbox/recalbox)
-- [The Godfather almost never happened](https://trungphan.substack.com/p/the-godfather-almost-never-happened)
-- [A new computer algebra system in pure Rust](https://github.com/p-e-w/savage)
-- [A Simple Ejectable CLI Pattern](https://hire.jonasgalvez.com.br/2022/mar/13/a-simple-ejectable-cli-pattern/)
-- [OpenHAB – vendor and tech agnostic open source automation software for your home](https://www.openhab.org/)
-- [Sleep Is Death – a storytelling game for two players &lpar;2010&rpar;](http://www.sleepisdeath.net/)
-- [US Music Revenue Tops $15B for the First Time](https://celebrityaccess.com/2022/03/09/recorded-music-revenue-tops-15-billion-for-the-first-time-in-2021/)
-- [Ask HN: r/ProgrammerHumor at 1.8m and /r/MachineLearning at 2.3m, how?](https://news.ycombinator.com/item?id=30667721)
-- [The innovative surfing tech making waves](https://www.bbc.com/news/business-60689501)
-- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
+- [Facebook’s Cryptocurrency Dream Died](https://www.ft.com/content/a88fb591-72d5-4b6b-bb5d-223adfb893f3)
+- [The Danger of Aging Without Learning](https://andrewruiz.substack.com/p/limits)
+- [Russia-Ukraine War – What happened – March-14-2022](https://text.npr.org/1086427498)
+- [Asteroid half the size of a giraffe strikes Earth off the coast of Iceland](https://www.dailymail.co.uk/sciencetech/article-10610491/Asteroid-half-size-giraffe-strikes-Earth-coast-Iceland.html)
+- [We try to match Churchill drink for drink send help](https://www.youtube.com/watch?v=PrbwvG0XeUQ)
+- [JetBrains Leaves Russia](https://twitter.com/devarbol/status/1503545586137632770)
+- [Token Economy, a Book](https://github.com/sherminvo/TokenEconomyBook/wiki)
+- [Corset a front end SPA alternative to React/Vue/Sevelt](https://corset.dev/)
+- [What Is Reusable Identity?](https://identitymanagementinstitute.org/what-is-reusable-identity/)
+- [Gitlab&#39;s Enterprise Dimensional Model](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

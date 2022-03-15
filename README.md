@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Those with BS in Information Technology, what job did you end up getting?](https://www.reddit.com/r/InformationTechnology/comments/teblbu/those_with_bs_in_information_technology_what_job/)
+- [Applying for a job that requires living in a different state. Can I use VPN to get away with not actually living there?](https://www.reddit.com/r/InformationTechnology/comments/te98ez/applying_for_a_job_that_requires_living_in_a/)
+- [Currently studying for Net+. What does it look like when you actually get a job with the cert?](https://www.reddit.com/r/InformationTechnology/comments/te7uzg/currently_studying_for_net_what_does_it_look_like/)
+- [Where can I find some sort of training?](https://www.reddit.com/r/InformationTechnology/comments/te7dao/where_can_i_find_some_sort_of_training/)
+- [Technical Problem with an Iphone 6](https://www.reddit.com/r/InformationTechnology/comments/tdosz8/technical_problem_with_an_iphone_6/)
 - [Predictive Analytics](https://www.reddit.com/r/InformationTechnology/comments/tcz70a/predictive_analytics/)
 - [Help on figuring out my degree choice for college.](https://www.reddit.com/r/InformationTechnology/comments/tctxc1/help_on_figuring_out_my_degree_choice_for_college/)
 - [Mail server](https://www.reddit.com/r/InformationTechnology/comments/tctp2e/mail_server/)
 - [What degree should I pursue if I want to work with computers?](https://www.reddit.com/r/InformationTechnology/comments/tbyrkc/what_degree_should_i_pursue_if_i_want_to_work/)
 - [I&#39;ve applied to over 400 jobs since the beginning of the year, but have only had 3 interviews.](https://www.reddit.com/r/InformationTechnology/comments/tbwecw/ive_applied_to_over_400_jobs_since_the_beginning/)
-- [System Support Rep next steps..](https://www.reddit.com/r/InformationTechnology/comments/tb9wi7/system_support_rep_next_steps/)
-- [After one year of Level 1&amp;2 Information Technology Specialist at a call center, what would be a good next step position in I.T. to consider?](https://www.reddit.com/r/InformationTechnology/comments/taz1x2/after_one_year_of_level_12_information_technology/)
-- [I took 2 years off from college during Covid. I&#39;m scheduled to go back this fall &lpar;2022&rpar;. In the meantime, I&#39;m looking at getting some certifications and doing a bootcamp. I&#39;m wondering if I can get some advice/tips on this plan/track over the coming months.](https://www.reddit.com/r/InformationTechnology/comments/tai758/i_took_2_years_off_from_college_during_covid_im/)
-- [Help Desk Manager vs Level 1 CS Tech job progression question.](https://www.reddit.com/r/InformationTechnology/comments/ta7y2n/help_desk_manager_vs_level_1_cs_tech_job/)
-- [AA degree in general studies but want to complete IT related certifications](https://www.reddit.com/r/InformationTechnology/comments/t9wn7i/aa_degree_in_general_studies_but_want_to_complete/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

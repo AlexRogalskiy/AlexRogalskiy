@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, March 14, 2022 – Ukraine leaks details of advanced Russian reactors, and more](https://www.itworldcanada.com/article/cyber-security-today-march-14-2022-ukraine-leaks-details-of-advanced-russian-reactors-and-more/475982)
+- [Hashtag Trending March 14 – Uber adds fuel charge; Russia wants to ban Instagram;  YouTube Vanced discontinued](https://www.itworldcanada.com/article/hashtag-trending-march-14-uber-adds-fuel-charge-russia-wants-to-ban-instagram-youtube-vanced-discontinued/476024)
 - [Cyber Security Today, Week in Review for March 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-11-2022/475673)
 - [Lethbridge College to allow students to occupy property in the metaverse](https://www.itworldcanada.com/article/lethbridge-college-to-allow-students-to-occupy-property-in-the-metaverse/475801)
 - [Splinternet: will Russia pull itself off the internet?](https://www.itworldcanada.com/article/splinternet-will-russia-pull-itself-off-the-internet/475791)
@@ -437,8 +439,6 @@
 - [Cyber Security Today, March 11, 2022 – Threats from APC power supplies, a warning to ServiceNow administrators and more](https://www.itworldcanada.com/article/cyber-security-today-march-11-2022-threats-from-apc-power-supplies-a-warning-to-servicenow-administrators-and-more/475664)
 - [Hashtag Trending March 11 – Google’s anti-harassment tool; Tinder background check; Tabs in file explorer](https://www.itworldcanada.com/article/hashtag-trending-march-11-googles-anti-harassment-tool-tinder-background-check-tabs-in-file-explorer/475660)
 - [Hashtag Trending March 10 – Algorithmic Accountability Act; Apple’s pricey accessory; Twitter’s Tor onion service](https://www.itworldcanada.com/article/hashtag-trending-march-10-algorithmic-accountability-act-apples-pricey-accessory-twitters-tor-onion-service/475534)
-- [The power of two: Apple’s M1 Ultra chip is two M1 Max chips joined together](https://www.itworldcanada.com/article/the-power-of-two-apples-m1-ultra-chip-is-two-m1-max-chips-joined-together/475477)
-- [Canada to get first-of-its-kind 3D printed housing project in Leamington, Ontario](https://www.itworldcanada.com/article/canada-to-get-first-of-its-kind-3d-printed-housing-project-in-leamington-ontario/475465)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -369,6 +369,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Talent Shortage: Are Universities Delivering Well-Prepared IT Graduates?](https://www.informationweek.com/software/talent-shortage-are-universities-delivering-well-prepared-it-graduates-)
 - [Tech Giants AWS, Microsoft, Google, IBM Step Up Efforts to Punish Kremlin](https://www.informationweek.com/strategic-cio/tech-giants-aws-microsoft-google-ibm-step-up-efforts-to-punish-kremlin)
 - [Google&#39;s Mandiant Acquisition Brings Cybersecurity Automation to Forefront](https://www.informationweek.com/strategic-cio/google-s-mandiant-acquisition-brings-cybersecurity-automation-to-forefront)
 - [The Cloud Security Partnership](https://www.informationweek.com/cloud/the-cloud-security-partnership)
@@ -378,7 +379,6 @@
 - [How Remote Workers Can Keep Their Careers On Track in a Back-to-the-Office World](https://www.informationweek.com/strategic-cio/how-remote-workers-can-keep-their-careers-on-track-in-a-back-to-the-office-world)
 - [IT Hiring: How to Appeal to GenZ Talent](https://www.informationweek.com/it-life/it-hiring-how-to-appeal-to-genz-talent)
 - [7 Ways Cloud Computing Supports Data Transformation](https://www.informationweek.com/cloud/7-ways-cloud-computing-supports-data-transformation)
-- [The Alternative Cloud Isn’t So Alternative Anymore](https://www.informationweek.com/cloud/the-alternative-cloud-isn-t-so-alternative-anymore)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

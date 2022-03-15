@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest news: UK says Russian navy has blockaded Black Sea coast; Zelenskiy urges Nato to implement no-fly zone](https://www.theguardian.com/world/live/2022/mar/13/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates-live)
-- [South Africa v England: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/14/south-africa-v-england-icc-womens-cricket-world-cup-live)
-- [‘I can’t explain it’: the man behind the wheels-doors Twitter post that ‘exploded’ online](https://www.theguardian.com/world/2022/mar/14/i-cant-explain-it-the-man-behind-the-wheels-doors-twitter-post-that-exploded-online)
-- [Ukraine war: everything we know on day 19 of the Russian invasion](https://www.theguardian.com/world/2022/mar/14/ukraine-war-everything-we-know-on-day-19-of-the-russian-invasion)
-- [Tom Brady returns to NFL with Tampa Bay Buccaneers after 40-day retirement](https://www.theguardian.com/sport/2022/mar/13/tom-brady-returns-retirement-nfl-football-tampa-bay-buccaneers)
-- [Tenants face having to find extra £1,000 for 2022 rent and bills](https://www.theguardian.com/business/2022/mar/14/tenants-face-having-to-find-extra-1000-for-2022-rent-and-bills)
-- [UK shoppers face more identity checks when buying online](https://www.theguardian.com/money/2022/mar/14/uk-shoppers-face-more-identity-checks-when-buying-online)
-- [UK to donate more than 500 mobile generators to Ukraine](https://www.theguardian.com/world/2022/mar/14/uk-to-donate-more-than-500-mobile-generators-to-ukraine)
-- [Severn Trent and Anglian Water pledge to do more to protect rivers](https://www.theguardian.com/business/2022/mar/14/severn-trent-and-anglian-water-pledge-to-do-more-to-protect-rivers)
-- [Cherry Jezebel – Liverpool’s drag queens offer a darkly comic night of the soul](https://www.theguardian.com/stage/2022/mar/14/cherry-jezebel-everyman-liverpool-jonathan-larkin)
+- [Australia v West Indies: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/15/australia-vs-west-indies-icc-womens-cricket-world-cup-2022-aus-v-windies-live-updates)
+- [Ukraine war: Zelenskiy calls on Russian troops to surrender; reports say Moscow has asked China for missiles– latest news](https://www.theguardian.com/world/live/2022/mar/14/russia-ukraine-war-latest-news-talks-resume-blockade-black-sea-coast-zelenskiy-putin-live)
+- [Why are Tokyo residents saying sayōnara to Japan’s capital?](https://www.theguardian.com/world/2022/mar/15/tokyo-population-fell-japan-capital)
+- [China has already decided to send economic aid to Russia in Ukraine conflict, US officials fear](https://www.theguardian.com/world/2022/mar/15/china-has-already-decided-to-send-economic-aid-to-russia-in-ukraine-conflict-us-officials-fear)
+- [Seven in 10 meal deal snacks contain dangerously high salt content](https://www.theguardian.com/society/2022/mar/15/seven-in-10-meal-deal-snacks-contain-dangerously-high-salt-content)
+- [Half of UK low-paid workers given less than a week’s notice of shifts](https://www.theguardian.com/business/2022/mar/15/uk-low-paid-workers-shifts-living-wage-foundation)
+- [Cameron Smith holds on to win delayed Players Championship and $3.6m prize](https://www.theguardian.com/sport/2022/mar/14/golf-players-championship-cameron-smith-anirban-lahari-paul-casey)
+- [Crystal Palace frustrate Manchester City again to throw title race wide open](https://www.theguardian.com/football/2022/mar/14/crystal-palace-manchester-city-premier-league-match-report)
+- [Australian PM’s department drops widely mocked ‘phallic’ women’s network logo](https://www.theguardian.com/australia-news/2022/mar/15/australian-pms-department-drops-widely-mocked-phallic-womens-network-logo)
+- [Holding review – a charming adaptation of Graham Norton’s novel](https://www.theguardian.com/tv-and-radio/2022/mar/14/holding-review-a-charming-adaptation-of-graham-nortons-novel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

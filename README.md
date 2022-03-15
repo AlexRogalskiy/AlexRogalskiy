@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Python removes ‘dead batteries’ from standard library](https://www.infoworld.com/article/3653636/python-removes-dead-batteries-from-standard-library.html#tk.rss_all)
+- [15 star founders of high-flying open source projects](https://www.infoworld.com/article/3653349/15-star-founders-of-high-flying-open-source-projects.html#tk.rss_all)
+- [Is low-code safe and secure?](https://www.infoworld.com/article/3651928/is-low-code-safe-and-secure.html#tk.rss_all)
 - [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_all)
 - [Google, Microsoft, Apple, Mozilla address browser pain points](https://www.infoworld.com/article/3653630/google-microsoft-apple-mozilla-address-browser-pain-points.html#tk.rss_all)
 - [The biggest obstacle to cloud is people](https://www.infoworld.com/article/3653371/the-biggest-obstacle-to-cloud-is-people.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [React 18 brings concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_all)
 - [Project Loom: Understand the new Java concurrency model](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html#tk.rss_all)
 - [How to work with disconnected entities in Entity Framework Core](https://www.infoworld.com/article/3652595/how-to-work-with-disconnected-entities-in-entity-framework-core.html#tk.rss_all)
-- [How Trade Ledger switched to microservices for its cloud-based software](https://www.infoworld.com/article/3652532/how-australia-s-trade-ledger-switched-to-microservices-for-its-cloud-based-software.html#tk.rss_all)
-- [Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules](https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html#tk.rss_all)
-- [In an evolving cloud world, Azure passes AWS](https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

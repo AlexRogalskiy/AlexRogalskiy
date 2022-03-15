@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Secrets to Great API Design](https://www.nylas.com/blog/secrets-to-great-api-design/)
-- [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi)
-- [My Pinephone Setup](https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
-- [Veloren is a multiplayer voxel RPG written in Rust](https://www.veloren.net/)
-- [Show HN: A Wordle clone made in Google Sheets](https://github.com/sajadmh/google-sheets-wordle)
-- [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
-- [Fresno lost $400k to a phishing scam in 2020 and never told the public](https://www.fresnobee.com/news/local/article259205608.html)
-- [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
-- [Joern – Bug Hunter&#39;s Workbench](https://joern.io/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
+- [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
+- [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
+- [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
+- [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
+- [Podman can transfer container images without a registry](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
+- [Solito – React Native and Next.js unified](https://solito.dev/)
+- [New WebKit features in Safari 15.4](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
+- [Show HN: I built an open-source web hosting platform for static sites](https://github.com/symkat/MarkdownSite)
+- [Launch HN: Lifecast &lpar;YC W22&rpar; – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

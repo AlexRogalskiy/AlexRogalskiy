@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple&#39;s Universal Control delivers big productivity benefits](https://www.computerworld.com/article/3653263/apples-universal-control-delivers-big-productivity-benefits.html#tk.rss_all)
+- [Arm to cut up to 15% of jobs following failed takeover by Nvidia](https://www.computerworld.com/article/3653589/arm-to-cut-up-to-15-of-jobs-following-failed-nvidia-takeover.html#tk.rss_all)
+- [Q&amp;A: AstraZeneca CIO Cindy Hoots on Covid-19, collaboration — and change](https://www.computerworld.com/article/3653635/qanda-astrazeneca-cio-cindy-hoots-on-covid-19-collaboration-and-change.html#tk.rss_all)
+- [5 ways to save business bucks on the cloud](https://www.computerworld.com/article/3653355/5-ways-to-save-business-bucks-on-the-cloud.html#tk.rss_all)
+- [How to preview and deploy Windows 10 and 11 updates](https://www.computerworld.com/article/3220429/how-to-preview-deploy-windows-10-windows-11-updates.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Apple supplier Foxconn halts production amid COVID-19 outbreak in China](https://www.computerworld.com/article/3653314/apple-supplier-foxconn-halts-production-amid-covid-19-outbreak-in-china.html#tk.rss_all)
 - [What are the best VPN services for conflict zones?](https://www.computerworld.com/article/3653313/what-are-the-best-vpn-services-for-conflict-zones.html#tk.rss_all)
 - [Do you know where your software comes from?](https://www.computerworld.com/article/3653260/do-you-know-where-your-software-comes-from.html#tk.rss_all)
 - [The US is &#39;very far&#39; behind China and others in creating a national digital currency](https://www.computerworld.com/article/3653631/the-us-is-very-far-behind-china-and-others-in-creating-a-national-digital-currency.html#tk.rss_all)
-- [Microsoft delivers a solid, low-impact Patch Tuesday](https://www.computerworld.com/article/3653356/microsoft-delivers-a-solid-low-impact-patch-tuesday.html#tk.rss_all)
-- [Who will Apple&#39;s M-series Mac Pro be for?](https://www.computerworld.com/article/3653609/who-will-apples-m-series-mac-pro-be-for.html#tk.rss_all)
-- [The loss of ‘decent work’ is making employees less productive](https://www.computerworld.com/article/3653310/the-loss-of-decent-work-is-making-employees-less-productive.html#tk.rss_all)
-- [Podcast: What the new Mac Studio is all about &lpar;And what it’s not&rpar;](https://www.computerworld.com/article/3653374/podcast-what-the-new-mac-studio-is-all-about-and-what-its-not.html#tk.rss_all)
-- [BrandPost: Preparing for a technology supply-chain attack](https://www.computerworld.com/article/3653252/preparing-for-a-technology-supply-chain-attack.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

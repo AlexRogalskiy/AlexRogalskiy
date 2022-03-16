@@ -414,8 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [HCI in IT industry](https://www.reddit.com/r/InformationTechnology/comments/temkr4/hci_in_it_industry/)
 - [Those with BS in Information Technology, what job did you end up getting?](https://www.reddit.com/r/InformationTechnology/comments/teblbu/those_with_bs_in_information_technology_what_job/)
-- [Applying for a job that requires living in a different state. Can I use VPN to get away with not actually living there?](https://www.reddit.com/r/InformationTechnology/comments/te98ez/applying_for_a_job_that_requires_living_in_a/)
 - [Currently studying for Net+. What does it look like when you actually get a job with the cert?](https://www.reddit.com/r/InformationTechnology/comments/te7uzg/currently_studying_for_net_what_does_it_look_like/)
 - [Where can I find some sort of training?](https://www.reddit.com/r/InformationTechnology/comments/te7dao/where_can_i_find_some_sort_of_training/)
 - [Technical Problem with an Iphone 6](https://www.reddit.com/r/InformationTechnology/comments/tdosz8/technical_problem_with_an_iphone_6/)

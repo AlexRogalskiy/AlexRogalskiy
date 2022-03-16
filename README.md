@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Facebook’s Cryptocurrency Dream Died](https://www.ft.com/content/a88fb591-72d5-4b6b-bb5d-223adfb893f3)
-- [The Danger of Aging Without Learning](https://andrewruiz.substack.com/p/limits)
-- [Russia-Ukraine War – What happened – March-14-2022](https://text.npr.org/1086427498)
-- [Asteroid half the size of a giraffe strikes Earth off the coast of Iceland](https://www.dailymail.co.uk/sciencetech/article-10610491/Asteroid-half-size-giraffe-strikes-Earth-coast-Iceland.html)
-- [We try to match Churchill drink for drink send help](https://www.youtube.com/watch?v=PrbwvG0XeUQ)
-- [JetBrains Leaves Russia](https://twitter.com/devarbol/status/1503545586137632770)
-- [Token Economy, a Book](https://github.com/sherminvo/TokenEconomyBook/wiki)
-- [Corset a front end SPA alternative to React/Vue/Sevelt](https://corset.dev/)
-- [What Is Reusable Identity?](https://identitymanagementinstitute.org/what-is-reusable-identity/)
-- [Gitlab&#39;s Enterprise Dimensional Model](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
+- [An Introduction to Session-Based Authentication in Rust](https://www.lpalmieri.com/posts/session-based-authentication-in-rust/)
+- [Correlation Is Evidence of Causation](http://allendowney.blogspot.com/2014/02/correlation-is-evidence-of-causation.html)
+- [Dumb things you can sometimes do with hard links](http://rachelbythebay.com/w/2022/03/15/link/)
+- [Ask HN: How to reset expectations with a lower paying job](https://news.ycombinator.com/item?id=30694651)
+- [Justice Creep](https://astralcodexten.substack.com/p/justice-creep)
+- [Pioneer 10 turns 50: Remembering humankind&#39;s first jaunt to Jupiter](https://www.theregister.com/2022/03/15/pioneer_10_anniversary/)
+- [AMC Bought a Gold Mine](https://www.bloomberg.com/opinion/articles/2022-03-15/amc-bought-a-gold-mine)
+- [As wheat prices soar, Australian farmers step up](https://www.aljazeera.com/economy/2022/3/10/as-wheat-prices-soar-australian-farmers-step-up-to-the-plate)
+- [Ask HN: Why does iOS allow auto pasting from clipboard](https://news.ycombinator.com/item?id=30694569)
+- [India&#39;s solar energy boom fuels local struggle for green justice](https://longreads.trust.org/item/India-solar-parks-leave-workers-out-jobs-green-transition)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

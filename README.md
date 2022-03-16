@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Toronto to get Walmart Tech Hub and hundreds of tech jobs](https://www.itworldcanada.com/article/toronto-to-get-walmart-tech-hub-and-hundreds-of-tech-jobs/476237)
+- [Rogers partners with Sheridan College on 5G research](https://www.itworldcanada.com/article/rogers-partners-with-sheridan-college-on-5g-research/476073)
+- [Coffee Briefing March 15, 2022 – New cybersecurity and cloud skills training programs from Rogers Cybersecurity Catalyst and AWS; and more](https://www.itworldcanada.com/article/coffee-briefing-march-15-2022-new-cybersecurity-and-cloud-skills-training-programs-from-rogers-cybersecurity-catalyst-and-aws-and-more/476184)
+- [ESET discovers fourth data wiper malware aimed at Ukraine](https://www.itworldcanada.com/article/eset-discovers-fourth-data-wiper-malware-aimed-at-ukraine/476154)
+- [Critical vulnerabilities found in Veeam Backup &amp; Replication](https://www.itworldcanada.com/article/critical-vulnerabilities-found-in-veeam-backup-replication/476118)
+- [Hashtag Trending March 15 – Google faces lawsuit; Ford to ship and sell incomplete cars; Misinformation on TikTok](https://www.itworldcanada.com/article/hashtag-trending-march-15-google-faces-lawsuit-ford-to-ship-and-sell-incomplete-cars-misinformation-on-tiktok/476128)
 - [Cyber Security Today, March 14, 2022 – Ukraine leaks details of advanced Russian reactors, and more](https://www.itworldcanada.com/article/cyber-security-today-march-14-2022-ukraine-leaks-details-of-advanced-russian-reactors-and-more/475982)
 - [Hashtag Trending March 14 – Uber adds fuel charge; Russia wants to ban Instagram;  YouTube Vanced discontinued](https://www.itworldcanada.com/article/hashtag-trending-march-14-uber-adds-fuel-charge-russia-wants-to-ban-instagram-youtube-vanced-discontinued/476024)
 - [Cyber Security Today, Week in Review for March 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-11-2022/475673)
 - [Lethbridge College to allow students to occupy property in the metaverse](https://www.itworldcanada.com/article/lethbridge-college-to-allow-students-to-occupy-property-in-the-metaverse/475801)
-- [Splinternet: will Russia pull itself off the internet?](https://www.itworldcanada.com/article/splinternet-will-russia-pull-itself-off-the-internet/475791)
-- [Canadian sentenced for ransomware attacks extradited to U.S. to face more charges](https://www.itworldcanada.com/article/canadian-sentenced-for-ransomware-attacks-extradited-to-u-s-to-face-more-charges/475704)
-- [Experts skeptical new Russian certificate authority will evade sanctions](https://www.itworldcanada.com/article/experts-skeptical-new-russian-certificate-authority-will-evade-sanctions/475693)
-- [Cyber Security Today, March 11, 2022 – Threats from APC power supplies, a warning to ServiceNow administrators and more](https://www.itworldcanada.com/article/cyber-security-today-march-11-2022-threats-from-apc-power-supplies-a-warning-to-servicenow-administrators-and-more/475664)
-- [Hashtag Trending March 11 – Google’s anti-harassment tool; Tinder background check; Tabs in file explorer](https://www.itworldcanada.com/article/hashtag-trending-march-11-googles-anti-harassment-tool-tinder-background-check-tabs-in-file-explorer/475660)
-- [Hashtag Trending March 10 – Algorithmic Accountability Act; Apple’s pricey accessory; Twitter’s Tor onion service](https://www.itworldcanada.com/article/hashtag-trending-march-10-algorithmic-accountability-act-apples-pricey-accessory-twitters-tor-onion-service/475534)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

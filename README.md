@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Clearview AI Offers Face Recognition AI to Ukraine](https://www.informationweek.com/big-data/clearview-ai-offers-face-recognition-ai-to-ukraine)
+- [How Tech Services Can Combat the Great IT Resignation](https://www.informationweek.com/strategic-cio/how-tech-services-can-combat-the-great-it-resignation)
+- [Digital ID Technology Promises Stronger Security](https://www.informationweek.com/security-and-risk-strategy/digital-id-technology-promises-stronger-security)
+- [AI Workloads Require Infrastructure Upgrades](https://www.informationweek.com/ai-or-machine-learning/ai-workloads-require-infrastructure-upgrades)
+- [An American Playbook for Tech Leadership](https://www.informationweek.com/strategic-cio/an-american-playbook-for-tech-leadership)
 - [Talent Shortage: Are Universities Delivering Well-Prepared IT Graduates?](https://www.informationweek.com/software/talent-shortage-are-universities-delivering-well-prepared-it-graduates-)
 - [Tech Giants AWS, Microsoft, Google, IBM Step Up Efforts to Punish Kremlin](https://www.informationweek.com/strategic-cio/tech-giants-aws-microsoft-google-ibm-step-up-efforts-to-punish-kremlin)
 - [Google&#39;s Mandiant Acquisition Brings Cybersecurity Automation to Forefront](https://www.informationweek.com/strategic-cio/google-s-mandiant-acquisition-brings-cybersecurity-automation-to-forefront)
 - [The Cloud Security Partnership](https://www.informationweek.com/cloud/the-cloud-security-partnership)
 - [How to Architect for Resiliency in a Cloud Outages Reality](https://www.informationweek.com/cloud/how-to-architect-for-resiliency-in-a-cloud-outages-reality)
-- [Can Digital Resources Help in Wake of Ban on Russian Energy?](https://www.informationweek.com/big-data/can-digital-resources-help-in-wake-of-ban-on-russian-energy-)
-- [Digital Supply Chain Management: Enhancing Value at Every Stage](https://www.informationweek.com/big-data/digital-supply-chain-management-enhancing-value-at-every-stage)
-- [How Remote Workers Can Keep Their Careers On Track in a Back-to-the-Office World](https://www.informationweek.com/strategic-cio/how-remote-workers-can-keep-their-careers-on-track-in-a-back-to-the-office-world)
-- [IT Hiring: How to Appeal to GenZ Talent](https://www.informationweek.com/it-life/it-hiring-how-to-appeal-to-genz-talent)
-- [7 Ways Cloud Computing Supports Data Transformation](https://www.informationweek.com/cloud/7-ways-cloud-computing-supports-data-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

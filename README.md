@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Supreme court refuses Julian Assange extradition appeal](https://www.computerweekly.com/news/252514591/Supreme-court-refuses-Julian-Assange-extradition-appeal)
+- [Meta fined €17m over EU data breaches](https://www.computerweekly.com/news/252514639/Meta-fined-Euro-17m-over-EU-data-breaches)
+- [Cloud enterprise applications need great developer tools too](https://www.computerweekly.com/opinion/Cloud-enterprise-applications-need-great-developer-tools-too)
+- [How cyber security teams can conquer the four-day working week](https://www.computerweekly.com/opinion/How-cyber-security-teams-can-conquer-the-four-day-working-week)
+- [Cross-party group of MPs calls on Loan Charge contractors to participate in call for evidence](https://www.computerweekly.com/news/252514614/Cross-party-group-of-MPs-calls-on-Loan-Charge-contractors-to-participate-in-call-for-evidence)
+- [IR35 private sector reforms one year on: Assessing the impact on the UK’s tech talent pool](https://www.computerweekly.com/news/252514613/IR35-private-sector-reforms-one-year-on-Assessing-the-impact-on-the-UKs-tech-talent-pool)
+- [How data analytics drives wind turbine power generation](https://www.computerweekly.com/feature/How-data-analytics-drives-wind-turbine-power-generation)
+- [Achieving agility, collaboration and data control in the cloud](https://www.computerweekly.com/opinion/Achieving-agility-collaboration-and-data-control-in-the-cloud)
+- [Supreme Court refuses Julian Assange extradition appeal](https://www.computerweekly.com/news/252514591/Supreme-court-refuses-Julian-Assange-extradition-appeal)
+- [How the tech sector is supporting Ukraine](https://www.computerweekly.com/ezine/Computer-Weekly/How-the-tech-sector-is-supporting-Ukraine)
 - [Ukraine: Cyber warfare and IT industry boycott of Russia – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Ukraine-Cyber-warfare-and-IT-industry-boycott-of-Russia-Computer-Weekly-Downtime-Upload-podcast)
-- [First female business computer programmer dies](https://www.computerweekly.com/news/252514561/First-female-business-computer-programmer-dies)
-- [How can I avoid an exodus of cyber talent linked to stress and burnout?](https://www.computerweekly.com/feature/How-can-I-avoid-an-exodus-of-cyber-talent-linked-to-stress-and-burnout)
-- [Encryption myths versus realities of Online Safety Bill](https://www.computerweekly.com/opinion/Encryption-myths-versus-realities-of-Online-Safety-Bill)
-- [Best-of-breed cloud ERP applications proffer a modern strategy](https://www.computerweekly.com/feature/Best-of-breed-cloud-ERP-applications-proffer-a-modern-strategy)
-- [Majority of UK adults support legal right to disconnect](https://www.computerweekly.com/news/252514515/Majority-of-UK-adults-support-legal-right-to-disconnect)
-- [Five tips to help you deploy a successful AI initiative](https://www.computerweekly.com/opinion/Five-tips-to-help-you-deploy-a-successful-AI-initiative)
-- [AWS launches its first UK healthtech accelerator](https://www.computerweekly.com/news/252514502/AWS-launches-its-first-UK-healthtech-accelerator)
-- [Volvo Cars recruiting 700 tech professionals for Stockholm hub](https://www.computerweekly.com/news/252514500/Volvo-Cars-recruiting-700-tech-professionals-for-Stockholm-hub)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

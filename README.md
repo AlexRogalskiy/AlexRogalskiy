@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
-- [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
-- [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
-- [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
-- [Some discouraging anecdotes on how services handle account deletions](https://www.ctrl.blog/entry/account-deletions-2021.html)
-- [Podman can transfer container images without a registry](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
-- [Solito – React Native and Next.js unified](https://solito.dev/)
-- [New WebKit features in Safari 15.4](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
-- [Show HN: I built an open-source web hosting platform for static sites](https://github.com/symkat/MarkdownSite)
-- [Launch HN: Lifecast &lpar;YC W22&rpar; – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
+- [Tesla fired an employee after he posted driverless tech reviews on YouTube](https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html)
+- [Tiny WASI – A tiny WASI runtime written in TypeScript](https://github.com/qrdate/tinywasi)
+- [Type Polymorphic Functions in TypeScript](https://www.zhenghao.io/posts/type-functions)
+- [RDP Clients for Debian: An incomplete review](https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html)
+- [Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics](https://hotdoglinux.com/)
+- [Seafloor changes associated with the degradation of Arctic submarine permafrost](https://www.pnas.org/doi/full/10.1073/pnas.2119105119)
+- [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
+- [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
+- [Demand for ornamental plants is ravaging South Africa’s rare desert flora](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
+- [New Capabilities for GPT-3: Edit and Insert](https://openai.com/blog/gpt-3-edit-insert/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Meta fined €17m over EU data breaches](https://www.computerweekly.com/news/252514639/Meta-fined-Euro-17m-over-EU-data-breaches)
-- [Cloud enterprise applications need great developer tools too](https://www.computerweekly.com/opinion/Cloud-enterprise-applications-need-great-developer-tools-too)
-- [How cyber security teams can conquer the four-day working week](https://www.computerweekly.com/opinion/How-cyber-security-teams-can-conquer-the-four-day-working-week)
-- [Cross-party group of MPs calls on Loan Charge contractors to participate in call for evidence](https://www.computerweekly.com/news/252514614/Cross-party-group-of-MPs-calls-on-Loan-Charge-contractors-to-participate-in-call-for-evidence)
-- [IR35 private sector reforms one year on: Assessing the impact on the UK’s tech talent pool](https://www.computerweekly.com/news/252514613/IR35-private-sector-reforms-one-year-on-Assessing-the-impact-on-the-UKs-tech-talent-pool)
-- [How data analytics drives wind turbine power generation](https://www.computerweekly.com/feature/How-data-analytics-drives-wind-turbine-power-generation)
-- [Achieving agility, collaboration and data control in the cloud](https://www.computerweekly.com/opinion/Achieving-agility-collaboration-and-data-control-in-the-cloud)
-- [Supreme Court refuses Julian Assange extradition appeal](https://www.computerweekly.com/news/252514591/Supreme-court-refuses-Julian-Assange-extradition-appeal)
-- [How the tech sector is supporting Ukraine](https://www.computerweekly.com/ezine/Computer-Weekly/How-the-tech-sector-is-supporting-Ukraine)
-- [Ukraine: Cyber warfare and IT industry boycott of Russia – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Ukraine-Cyber-warfare-and-IT-industry-boycott-of-Russia-Computer-Weekly-Downtime-Upload-podcast)
+- [Biden signs ransomware reporting mandate into law](https://www.computerweekly.com/news/252514695/Biden-signs-ransomware-reporting-mandate-into-law)
+- [Two men convicted after using EncroChat cryptophones to plot killing](https://www.computerweekly.com/news/252514694/Two-men-convicted-after-using-EncroChat-cryptophones-to-plot-killing)
+- [UCL report projects 5,500 ‘open data’ jobs in Newham by 2035](https://www.computerweekly.com/news/252514693/UCL-report-projects-5500-open-data-jobs-in-Newham-by-2035)
+- [SentinelOne adds Attivo Networks to identity portfolio](https://www.computerweekly.com/news/252514692/SentinelOne-adds-Attivo-Networks-to-identity-portfolio)
+- [UKtech50 2022: Help us find the most influential people in UK IT](https://www.computerweekly.com/news/252514683/UKtech50-2022-Help-us-find-the-most-influential-people-in-UK-IT)
+- [AWS pledges to invest £1.8bn in building out its UK datacentre footprint over next two years](https://www.computerweekly.com/news/252514684/AWS-pledges-to-invest-18bn-in-building-out-its-UK-datacentre-footprint-over-next-two-years)
+- [Facebook owner Meta plots Spanish datacentre build to power ‘metaverse’ strategy](https://www.computerweekly.com/news/252514670/Facebook-owner-Meta-plots-Spanish-datacentre-build-to-power-metaverse-strategy)
+- [German authorities warn on Kaspersky but stop short of ban](https://www.computerweekly.com/news/252514679/German-authorities-warn-on-Kaspersky-but-stop-short-of-ban)
+- [Quantum launches ‘scale-out’ i6H rackmount tape library](https://www.computerweekly.com/news/252514672/Quantum-launches-scale-out-i6H-rackmount-tape-library)
+- [CaddyWiper is fourth new malware linked to Ukraine war](https://www.computerweekly.com/news/252514678/CaddyWiper-is-fourth-new-malware-linked-to-Ukraine-war)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

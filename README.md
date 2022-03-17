@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla fired an employee after he posted driverless tech reviews on YouTube](https://www.cnbc.com/2022/03/15/tesla-fired-employee-who-posted-fsd-beta-videos-as-ai-addict-on-youtube.html)
-- [Tiny WASI – A tiny WASI runtime written in TypeScript](https://github.com/qrdate/tinywasi)
-- [Type Polymorphic Functions in TypeScript](https://www.zhenghao.io/posts/type-functions)
-- [RDP Clients for Debian: An incomplete review](https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html)
-- [Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics](https://hotdoglinux.com/)
-- [Seafloor changes associated with the degradation of Arctic submarine permafrost](https://www.pnas.org/doi/full/10.1073/pnas.2119105119)
-- [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
-- [Daily &lpar;YC W16&rpar; Is Hiring Solutions Engineers &lpar;Any Time Zone&rpar;](https://boards.greenhouse.io/daily/jobs/4383908004)
-- [Demand for ornamental plants is ravaging South Africa’s rare desert flora](https://www.nationalgeographic.com/animals/article/tiny-succulents-are-under-siege-from-international-crime-rings)
-- [New Capabilities for GPT-3: Edit and Insert](https://openai.com/blog/gpt-3-edit-insert/)
+- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
+- [Ask HN: Anyone have stock option horror stories?](https://news.ycombinator.com/item?id=30706743)
+- [Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless](https://flexport.com/careers)
+- [I found a security issue on a competitor, got fired and served a summons](https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/)
+- [TUIs](https://github.com/rothgar/awesome-tuis)
+- [C Isn&#39;t a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
+- [NPM package compromised by author: erases files on RU / BY computers on install](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
+- [Deno Is Webby](https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/)
+- [How to make Docker images even smaller](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
+- [Decision: Red Hat, Inc. vs. Daniel Pocock / Software Freedom Institute SA](https://www.adrforum.com/DomainDecisions/1980642.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

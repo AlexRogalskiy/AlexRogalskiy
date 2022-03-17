@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [15 tools that make Kubernetes easier](https://www.infoworld.com/article/3488817/15-tools-that-make-kubernetes-easier.html#tk.rss_all)
+- [13 tools that make Kubernetes better](https://www.infoworld.com/article/3261450/13-tools-that-make-kubernetes-better.html#tk.rss_all)
 - [Go 1.18 arrives with much-anticipated generics](https://www.infoworld.com/article/3645228/go-118-arrives-with-much-anticipated-generics.html#tk.rss_all)
 - [Turns out AWS can partner after all](https://www.infoworld.com/article/3653258/turns-out-aws-can-partner-after-all.html#tk.rss_all)
 - [JDK 19: Java 19 begins to take shape](https://www.infoworld.com/article/3653331/jdk-19-java-19-begins-to-take-shape.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Python removes ‘dead batteries’ from standard library](https://www.infoworld.com/article/3653636/python-removes-dead-batteries-from-standard-library.html#tk.rss_all)
 - [15 star founders of high-flying open source projects](https://www.infoworld.com/article/3653349/15-star-founders-of-high-flying-open-source-projects.html#tk.rss_all)
 - [Is low-code safe and secure?](https://www.infoworld.com/article/3651928/is-low-code-safe-and-secure.html#tk.rss_all)
-- [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_all)
-- [Google, Microsoft, Apple, Mozilla address browser pain points](https://www.infoworld.com/article/3653630/google-microsoft-apple-mozilla-address-browser-pain-points.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

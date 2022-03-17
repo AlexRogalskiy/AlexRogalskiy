@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England v India: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/16/england-india-icc-womens-cricket-world-cup-live)
-- [Ukraine-Russia war latest: ‘room for compromise’ in ceasefire talks; three EU leaders meet Zelenskiy in Kyiv – live](https://www.theguardian.com/world/live/2022/mar/15/ukraine-war-large-explosions-heard-in-kyiv-zelenskiy-calls-on-russian-troops-to-surrender-putin-china-latest-news)
-- [North Korea suspected missile fails after launch, says South Korea](https://www.theguardian.com/world/2022/mar/16/north-korea-suspected-missile-fails-after-launch-says-south-korea)
-- [‘Europe stands with you’: EU leaders vow support for Ukraine during Kyiv visit](https://www.theguardian.com/world/2022/mar/15/polish-czech-and-slovenian-prime-ministers-travel-to-kyiv-ukraine)
-- [&#39;You are not alone&#39;: Three EU country leaders meet Zelenskiy in Kyiv – video](https://www.theguardian.com/world/video/2022/mar/16/you-are-not-alone-three-eu-country-leaders-meet-zelenskiy-in-kyiv-video)
-- [Russia-Ukraine war: what we know on day 21 of the invasion](https://www.theguardian.com/world/2022/mar/16/russia-ukraine-war-what-we-know-on-day-21-of-the-invasion)
-- [Harriet Dart’s unlikely Indian Wells run ended by resurgent Madison Keys](https://www.theguardian.com/sport/2022/mar/16/harriet-darts-unlikely-indian-wells-run-ended-by-resurgent-madison-keys)
-- [Survey shows teachers unaware equality laws apply to pupils’ hair](https://www.theguardian.com/education/2022/mar/16/survey-shows-teachers-unaware-equality-laws-apply-to-pupils-hair)
-- [Surgery and cancer care in England will have long delays for years – report](https://www.theguardian.com/society/2022/mar/16/surgery-and-cancer-care-in-england-will-have-long-delays-for-years-report)
-- [‘Death of the suit’: V&amp;A exhibition explores evolution of menswear](https://www.theguardian.com/fashion/2022/mar/16/death-of-the-suit-va-exhibition-explores-evolution-of-menswear)
+- [Russia-Ukraine war latest: Biden calling Putin a war criminal is ‘unforgivable rhetoric’, says Kremlin – live](https://www.theguardian.com/world/live/2022/mar/16/ukraine-russia-war-latest-zelenskiy-says-peace-talks-are-more-realistic-three-eu-leaders-vow-support-on-kyiv-visit-live)
+- [Nazanin Zaghari-Ratcliffe returns to the UK after six-year ordeal](https://www.theguardian.com/news/2022/mar/17/nazanin-zaghari-ratcliffe-anoosheh-ashoori-returns-uk-six-years-iran-prison)
+- [Russia-Ukraine war: what we know on day 22 of the invasion](https://www.theguardian.com/world/2022/mar/17/russia-ukraine-war-what-we-know-on-day-22-of-the-invasion)
+- [‘Free at last’: what the papers say about the release of Nazanin Zaghari-Ratcliffe](https://www.theguardian.com/news/2022/mar/17/free-at-last-what-the-papers-say-about-the-release-of-nazanin-zaghari-ratcliffe)
+- [Mariupol: Russia accused of bombing theatre and swimming pool sheltering civilians](https://www.theguardian.com/world/2022/mar/16/mariupol-ukraine-russia-seized-hospital)
+- [Mariupol theatre and swimming pool where civilians sheltered lie in ruins – video](https://www.theguardian.com/world/video/2022/mar/17/mariupol-theatre-and-swimming-pool-where-civilians-sheltered-lie-in-ruins-video)
+- [Gordon Brown urges Sunak to address cost of living crisis in spring statement](https://www.theguardian.com/business/2022/mar/17/gordon-brown-urges-sunak-to-address-cost-of-living-crisis-in-spring-statement)
+- [Tech bosses face jail if they hamper Ofcom investigations from next year](https://www.theguardian.com/technology/2022/mar/17/tech-bosses-face-jail-if-they-hamper-ofcom-investigations-from-next-year)
+- [Chris Cuomo seeks $125m from CNN over alleged wrongful termination](https://www.theguardian.com/media/2022/mar/16/chris-cuomo-cnn-firing-arbitration-andrew)
+- [UK government to scrap ‘BAME’ in response to race inquiry](https://www.theguardian.com/world/2022/mar/16/uk-government-scrap-bame-response-sewell-race-inquiry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An Introduction to Session-Based Authentication in Rust](https://www.lpalmieri.com/posts/session-based-authentication-in-rust/)
-- [Correlation Is Evidence of Causation](http://allendowney.blogspot.com/2014/02/correlation-is-evidence-of-causation.html)
-- [Dumb things you can sometimes do with hard links](http://rachelbythebay.com/w/2022/03/15/link/)
-- [Ask HN: How to reset expectations with a lower paying job](https://news.ycombinator.com/item?id=30694651)
-- [Justice Creep](https://astralcodexten.substack.com/p/justice-creep)
-- [Pioneer 10 turns 50: Remembering humankind&#39;s first jaunt to Jupiter](https://www.theregister.com/2022/03/15/pioneer_10_anniversary/)
-- [AMC Bought a Gold Mine](https://www.bloomberg.com/opinion/articles/2022-03-15/amc-bought-a-gold-mine)
-- [As wheat prices soar, Australian farmers step up](https://www.aljazeera.com/economy/2022/3/10/as-wheat-prices-soar-australian-farmers-step-up-to-the-plate)
-- [Ask HN: Why does iOS allow auto pasting from clipboard](https://news.ycombinator.com/item?id=30694569)
-- [India&#39;s solar energy boom fuels local struggle for green justice](https://longreads.trust.org/item/India-solar-parks-leave-workers-out-jobs-green-transition)
+- [Startups and the 1000 Day Rule](https://thomasmondel.com/the-1000-day-rule/)
+- [Starter Story grew to 1.4M monthly visitors, $500k in annual revenue](https://simonowens.substack.com/p/how-starter-story-grew-to-14-million)
+- [Making Connections with TCP and Sockets for Cloudflare Workers &lpar;2021&rpar;](https://blog.cloudflare.com/introducing-socket-workers/)
+- [In Putin’s Russia, ‘fake news’ now means real news](https://www.washingtonpost.com/technology/2022/03/11/russia-fake-news-law-misinformation/)
+- [Open OS Ecosystem on Apple Silicon Macs – Asahi Linux Project](https://github.com/AsahiLinux/docs/wiki/Open-OS-Ecosystem-on-Apple-Silicon-Macs)
+- [Facebook removes ‘deepfake’ of Ukrainian President Zelenskyy](https://www.theverge.com/2022/3/16/22981806/facebook-removes-deepfake-ukraine-zelenskyy-meta-instagram)
+- [Chrysler-parent Stellantis &#39;ready to deploy&#39; $329M venture capital fund](https://www.freep.com/story/money/cars/chrysler/2022/03/16/stellantis-venture-capital-fund-startups/7059465001/)
+- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
+- [Airbnb&#39;s Pledge to Host Ukrainian Refugees Gets a Reality Check](https://www.politico.eu/article/airbnb-pledge-target-house-ukranian-refugees-reality-check/)
+- [Largest wooden rollercoaster in the world in Poland “Zadra”- Polish for Splinter](https://www.thesun.co.uk/travel/9807406/energylandia-worlds-largest-wooden-rollercoaster/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [UniDoc’s health clinic “cubes” are now being tested in Ontario pharmacies](https://www.itworldcanada.com/article/unidocs-health-clinic-cubes-are-now-being-tested-in-ontario-pharmacies/476063)
+- [Launching in April – a free Lighthouse Labs program to teach Canadians data skills](https://www.itworldcanada.com/article/launching-in-april-a-free-lighthouse-labs-program-to-teach-canadians-data-skills/476348)
+- [Globalive wants to buy Freedom Mobile for $3.75 billion](https://www.itworldcanada.com/article/globalive-wants-to-buy-freedom-mobile-for-3-75-billion/476354)
+- [Cyber Security Today, March 16, 2022 – Mobile risks are increasing, QNAP NAS devices at risk, fraud prevention advice and more](https://www.itworldcanada.com/article/cyber-security-today-march-16-2022-mobile-risks-are-increasing-qnap-nas-devices-at-risk-fraud-prevention-advice-and-more/476236)
+- [Hashtag Trending March 16 – Windows 11 ads; Arm layoff; Israeli government DDoS](https://www.itworldcanada.com/article/hashtag-trending-march-16-windows-11-ads-arm-layoff-israeli-government-ddos/476232)
 - [Toronto to get Walmart Tech Hub and hundreds of tech jobs](https://www.itworldcanada.com/article/toronto-to-get-walmart-tech-hub-and-hundreds-of-tech-jobs/476237)
 - [Rogers partners with Sheridan College on 5G research](https://www.itworldcanada.com/article/rogers-partners-with-sheridan-college-on-5g-research/476073)
 - [Coffee Briefing March 15, 2022 – New cybersecurity and cloud skills training programs from Rogers Cybersecurity Catalyst and AWS; and more](https://www.itworldcanada.com/article/coffee-briefing-march-15-2022-new-cybersecurity-and-cloud-skills-training-programs-from-rogers-cybersecurity-catalyst-and-aws-and-more/476184)
 - [ESET discovers fourth data wiper malware aimed at Ukraine](https://www.itworldcanada.com/article/eset-discovers-fourth-data-wiper-malware-aimed-at-ukraine/476154)
 - [Critical vulnerabilities found in Veeam Backup &amp; Replication](https://www.itworldcanada.com/article/critical-vulnerabilities-found-in-veeam-backup-replication/476118)
-- [Hashtag Trending March 15 – Google faces lawsuit; Ford to ship and sell incomplete cars; Misinformation on TikTok](https://www.itworldcanada.com/article/hashtag-trending-march-15-google-faces-lawsuit-ford-to-ship-and-sell-incomplete-cars-misinformation-on-tiktok/476128)
-- [Cyber Security Today, March 14, 2022 – Ukraine leaks details of advanced Russian reactors, and more](https://www.itworldcanada.com/article/cyber-security-today-march-14-2022-ukraine-leaks-details-of-advanced-russian-reactors-and-more/475982)
-- [Hashtag Trending March 14 – Uber adds fuel charge; Russia wants to ban Instagram;  YouTube Vanced discontinued](https://www.itworldcanada.com/article/hashtag-trending-march-14-uber-adds-fuel-charge-russia-wants-to-ban-instagram-youtube-vanced-discontinued/476024)
-- [Cyber Security Today, Week in Review for March 11, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-11-2022/475673)
-- [Lethbridge College to allow students to occupy property in the metaverse](https://www.itworldcanada.com/article/lethbridge-college-to-allow-students-to-occupy-property-in-the-metaverse/475801)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Four-day workweek’s popularity grew during the pandemic — survey](https://www.computerworld.com/article/3654208/four-day-workweeks-popularity-grew-during-the-pandemic-survey.html#tk.rss_all)
+- [Intel’s European expansion will solidify future chip supply chain](https://www.computerworld.com/article/3654209/intel-s-european-expansion-will-solidify-future-chip-supply-chain.html#tk.rss_all)
+- [Slack suspends access for Russia-based customers](https://www.computerworld.com/article/3654168/slack-suspends-access-for-russia-based-customers.html#tk.rss_all)
+- [Slack hails Apple’s new iPad Air with collaboration boost](https://www.computerworld.com/article/3653335/slack-hails-apples-new-ipad-air-with-collaboration-boost.html#tk.rss_all)
+- [Slack’s iPad app gets a desktop-like makeover](https://www.computerworld.com/article/3653363/slack-s-ipad-app-gets-a-desktop-like-makeover.html#tk.rss_all)
+- [Microsoft’s Work Trend Index highlights a growing disconnect over hybrid work](https://www.computerworld.com/article/3653639/microsofts-work-trend-index-highlights-a-growing-disconnect-over-hybrid-work.html#tk.rss_all)
+- [How cryptocurrency is being used to funnel money to Ukraine](https://www.computerworld.com/article/3653615/crypto-to-the-rescue-its-being-used-to-funnel-money-to-ukraine.html#tk.rss_all)
 - [Apple&#39;s Universal Control delivers big productivity benefits](https://www.computerworld.com/article/3653263/apples-universal-control-delivers-big-productivity-benefits.html#tk.rss_all)
 - [Arm to cut up to 15% of jobs following failed takeover by Nvidia](https://www.computerworld.com/article/3653589/arm-to-cut-up-to-15-of-jobs-following-failed-nvidia-takeover.html#tk.rss_all)
 - [Q&amp;A: AstraZeneca CIO Cindy Hoots on Covid-19, collaboration — and change](https://www.computerworld.com/article/3653635/qanda-astrazeneca-cio-cindy-hoots-on-covid-19-collaboration-and-change.html#tk.rss_all)
-- [5 ways to save business bucks on the cloud](https://www.computerworld.com/article/3653355/5-ways-to-save-business-bucks-on-the-cloud.html#tk.rss_all)
-- [How to preview and deploy Windows 10 and 11 updates](https://www.computerworld.com/article/3220429/how-to-preview-deploy-windows-10-windows-11-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Apple supplier Foxconn halts production amid COVID-19 outbreak in China](https://www.computerworld.com/article/3653314/apple-supplier-foxconn-halts-production-amid-covid-19-outbreak-in-china.html#tk.rss_all)
-- [What are the best VPN services for conflict zones?](https://www.computerworld.com/article/3653313/what-are-the-best-vpn-services-for-conflict-zones.html#tk.rss_all)
-- [Do you know where your software comes from?](https://www.computerworld.com/article/3653260/do-you-know-where-your-software-comes-from.html#tk.rss_all)
-- [The US is &#39;very far&#39; behind China and others in creating a national digital currency](https://www.computerworld.com/article/3653631/the-us-is-very-far-behind-china-and-others-in-creating-a-national-digital-currency.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

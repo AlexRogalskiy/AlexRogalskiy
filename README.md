@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Subnetting Simplified - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tflih4/subnetting_simplified_network_n10008/)
 - [HCI in IT industry](https://www.reddit.com/r/InformationTechnology/comments/temkr4/hci_in_it_industry/)
 - [Those with BS in Information Technology, what job did you end up getting?](https://www.reddit.com/r/InformationTechnology/comments/teblbu/those_with_bs_in_information_technology_what_job/)
 - [Currently studying for Net+. What does it look like when you actually get a job with the cert?](https://www.reddit.com/r/InformationTechnology/comments/te7uzg/currently_studying_for_net_what_does_it_look_like/)
@@ -423,7 +424,6 @@
 - [Help on figuring out my degree choice for college.](https://www.reddit.com/r/InformationTechnology/comments/tctxc1/help_on_figuring_out_my_degree_choice_for_college/)
 - [Mail server](https://www.reddit.com/r/InformationTechnology/comments/tctp2e/mail_server/)
 - [What degree should I pursue if I want to work with computers?](https://www.reddit.com/r/InformationTechnology/comments/tbyrkc/what_degree_should_i_pursue_if_i_want_to_work/)
-- [I&#39;ve applied to over 400 jobs since the beginning of the year, but have only had 3 interviews.](https://www.reddit.com/r/InformationTechnology/comments/tbwecw/ive_applied_to_over_400_jobs_since_the_beginning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

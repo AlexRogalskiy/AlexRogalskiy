@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [VPNs Give Russians an End Run Around Censorship](https://www.informationweek.com/security-and-risk-strategy/vpns-give-russians-an-end-run-around-censorship)
+- [US Regulators Move to Understand Crypto and Explore Guardrails](https://www.informationweek.com/fintech/us-regulators-move-to-understand-crypto-and-explore-guardrails)
+- [Ukraine Crisis, Rise in Cyberattack Threats Bolster Case for Zero Trust](https://www.informationweek.com/security-and-risk-strategy/ukraine-crisis-rise-in-cyberattack-threats-bolster-case-for-zero-trust)
 - [IT Careers: 10 Things IT Leaders Would Tell Their Kids Today](https://www.informationweek.com/it-life/it-careers-10-things-it-leaders-would-tell-their-kids-today)
 - [The Role CIOs Play in Retaining Employees Amid the Great Resignation](https://www.informationweek.com/strategic-cio/the-role-cios-play-in-retaining-employees-amid-the-great-resignation)
 - [Clearview AI Offers Face Recognition AI to Ukraine](https://www.informationweek.com/big-data/clearview-ai-offers-face-recognition-ai-to-ukraine)
@@ -376,9 +379,6 @@
 - [Digital ID Technology Promises Stronger Security](https://www.informationweek.com/security-and-risk-strategy/digital-id-technology-promises-stronger-security)
 - [AI Workloads Require Infrastructure Upgrades](https://www.informationweek.com/ai-or-machine-learning/ai-workloads-require-infrastructure-upgrades)
 - [An American Playbook for Tech Leadership](https://www.informationweek.com/strategic-cio/an-american-playbook-for-tech-leadership)
-- [Talent Shortage: Are Universities Delivering Well-Prepared IT Graduates?](https://www.informationweek.com/software/talent-shortage-are-universities-delivering-well-prepared-it-graduates-)
-- [Tech Giants AWS, Microsoft, Google, IBM Step Up Efforts to Punish Kremlin](https://www.informationweek.com/strategic-cio/tech-giants-aws-microsoft-google-ibm-step-up-efforts-to-punish-kremlin)
-- [Google&#39;s Mandiant Acquisition Brings Cybersecurity Automation to Forefront](https://www.informationweek.com/strategic-cio/google-s-mandiant-acquisition-brings-cybersecurity-automation-to-forefront)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Startups and the 1000 Day Rule](https://thomasmondel.com/the-1000-day-rule/)
-- [Starter Story grew to 1.4M monthly visitors, $500k in annual revenue](https://simonowens.substack.com/p/how-starter-story-grew-to-14-million)
-- [Making Connections with TCP and Sockets for Cloudflare Workers &lpar;2021&rpar;](https://blog.cloudflare.com/introducing-socket-workers/)
-- [In Putin’s Russia, ‘fake news’ now means real news](https://www.washingtonpost.com/technology/2022/03/11/russia-fake-news-law-misinformation/)
-- [Open OS Ecosystem on Apple Silicon Macs – Asahi Linux Project](https://github.com/AsahiLinux/docs/wiki/Open-OS-Ecosystem-on-Apple-Silicon-Macs)
-- [Facebook removes ‘deepfake’ of Ukrainian President Zelenskyy](https://www.theverge.com/2022/3/16/22981806/facebook-removes-deepfake-ukraine-zelenskyy-meta-instagram)
-- [Chrysler-parent Stellantis &#39;ready to deploy&#39; $329M venture capital fund](https://www.freep.com/story/money/cars/chrysler/2022/03/16/stellantis-venture-capital-fund-startups/7059465001/)
-- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
-- [Airbnb&#39;s Pledge to Host Ukrainian Refugees Gets a Reality Check](https://www.politico.eu/article/airbnb-pledge-target-house-ukranian-refugees-reality-check/)
-- [Largest wooden rollercoaster in the world in Poland “Zadra”- Polish for Splinter](https://www.thesun.co.uk/travel/9807406/energylandia-worlds-largest-wooden-rollercoaster/)
+- [The Illinois town that got up and left](https://www.bbc.com/future/article/20220310-the-illinois-town-valmeyer-could-be-a-model-for-relocation)
+- [Ask HN: Experience with the Y Combinator speed dating for edtech?](https://news.ycombinator.com/item?id=30718202)
+- [Hundreds of GoDaddy-hosted sites backdoored in a single day](https://www.bleepingcomputer.com/news/security/hundreds-of-godaddy-hosted-sites-backdoored-in-a-single-day/)
+- [The Promise of AI with Demis Hassabis](https://castbox.fm/episode/S2-Ep9%3A-The-promise-of-AI-with-Demis-Hassabis-id2238222-id476273676)
+- [How I Built a Data Analytics Solution with $100](https://www.starterstory.com/stories/how-i-built-a-data-analytics-solution-with-100-side-hustle)
+- [Ask HN: Do Sanctions Impact Software Updates](https://news.ycombinator.com/item?id=30718147)
+- [Revising Down the Rise of China](https://www.lowyinstitute.org/publications/revising-down-rise-china)
+- [Q2 2022](https://blknoiz06.substack.com/p/quarter-ii-2022)
+- [Speaking about the OpenPGP Web of Trust](https://gwolf.org/2022/03/speaking-about-the-openpgp-wot-on-libreplanet-this-saturday.html)
+- [IPv6 Cabal Twitter Account](https://twitter.com/ipv6cabal)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

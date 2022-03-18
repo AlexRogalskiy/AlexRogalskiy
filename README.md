@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Samsung’s A53 5G smartphone could be this year’s best midrange heavy-hitter](https://www.itworldcanada.com/article/samsungs-a53-5g-smartphone-could-be-this-years-best-midrange-heavy-hitter/476542)
+- [Rogers combines its 5G network with Microsoft Azure to help SMBs enhance customer experience](https://www.itworldcanada.com/article/rogers-combines-its-5g-network-with-microsoft-azure-to-help-smbs-enhance-customer-experience/476510)
+- [Federal government targets “harmful” online disinformation](https://www.itworldcanada.com/article/federal-government-targets-harmful-online-disinformation/476500)
+- [A New Breed of Technology Leader](https://www.itworldcanada.com/article/a-new-breed-of-technology-leader/476374)
+- [Hashtag Trending March 17- Marketers must pay fines for unwanted calls; Tesla hikes prices; University of Alberta protects digital data in Ukraine](https://www.itworldcanada.com/article/hashtag-trending-march-17-marketers-must-pay-fines-for-unwanted-calls-tesla-hikes-prices-university-of-alberta-protects-digital-data-in-ukraine/476450)
 - [UniDoc’s health clinic “cubes” are now being tested in Ontario pharmacies](https://www.itworldcanada.com/article/unidocs-health-clinic-cubes-are-now-being-tested-in-ontario-pharmacies/476063)
 - [Launching in April – a free Lighthouse Labs program to teach Canadians data skills](https://www.itworldcanada.com/article/launching-in-april-a-free-lighthouse-labs-program-to-teach-canadians-data-skills/476348)
 - [Globalive wants to buy Freedom Mobile for $3.75 billion](https://www.itworldcanada.com/article/globalive-wants-to-buy-freedom-mobile-for-3-75-billion/476354)
 - [Cyber Security Today, March 16, 2022 – Mobile risks are increasing, QNAP NAS devices at risk, fraud prevention advice and more](https://www.itworldcanada.com/article/cyber-security-today-march-16-2022-mobile-risks-are-increasing-qnap-nas-devices-at-risk-fraud-prevention-advice-and-more/476236)
 - [Hashtag Trending March 16 – Windows 11 ads; Arm layoff; Israeli government DDoS](https://www.itworldcanada.com/article/hashtag-trending-march-16-windows-11-ads-arm-layoff-israeli-government-ddos/476232)
-- [Toronto to get Walmart Tech Hub and hundreds of tech jobs](https://www.itworldcanada.com/article/toronto-to-get-walmart-tech-hub-and-hundreds-of-tech-jobs/476237)
-- [Rogers partners with Sheridan College on 5G research](https://www.itworldcanada.com/article/rogers-partners-with-sheridan-college-on-5g-research/476073)
-- [Coffee Briefing March 15, 2022 – New cybersecurity and cloud skills training programs from Rogers Cybersecurity Catalyst and AWS; and more](https://www.itworldcanada.com/article/coffee-briefing-march-15-2022-new-cybersecurity-and-cloud-skills-training-programs-from-rogers-cybersecurity-catalyst-and-aws-and-more/476184)
-- [ESET discovers fourth data wiper malware aimed at Ukraine](https://www.itworldcanada.com/article/eset-discovers-fourth-data-wiper-malware-aimed-at-ukraine/476154)
-- [Critical vulnerabilities found in Veeam Backup &amp; Replication](https://www.itworldcanada.com/article/critical-vulnerabilities-found-in-veeam-backup-replication/476118)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

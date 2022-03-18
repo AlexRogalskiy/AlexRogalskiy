@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Prepare for the future with Google Analytics 4](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/)
-- [Ask HN: Anyone have stock option horror stories?](https://news.ycombinator.com/item?id=30706743)
-- [Flexport Is Hiring Machine Learning Engineers to Make Global Trade Seamless](https://flexport.com/careers)
-- [I found a security issue on a competitor, got fired and served a summons](https://accidhacker.wordpress.com/2022/03/16/i-found-a-security-issue-on-a-competitor-got-fired-and-served-a-summons/)
-- [TUIs](https://github.com/rothgar/awesome-tuis)
-- [C Isn&#39;t a Programming Language Anymore](https://gankra.github.io/blah/c-isnt-a-language/)
-- [NPM package compromised by author: erases files on RU / BY computers on install](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
-- [Deno Is Webby](https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/)
-- [How to make Docker images even smaller](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
-- [Decision: Red Hat, Inc. vs. Daniel Pocock / Software Freedom Institute SA](https://www.adrforum.com/DomainDecisions/1980642.htm)
+- [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
+- [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
+- [Forage &lpar;YC S21&rpar; is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
+- [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
+- [Sweden’s &#39;speed camera lottery&#39; hit a red light years ago &lpar;2021&rpar;](https://www.aap.com.au/factcheck/swedens-speed-camera-lottery-hit-a-red-light-years-ago/)
+- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
+- [Bridgetown - progressive site generator and framework, powered by Ruby](https://www.bridgetownrb.com/)
+- [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+- [Hot-code reloading on macOS/arm64 with Zig](http://www.jakubkonka.com/2022/03/16/hcs-zig.html)
+- [Photography is not Objective, Art is a Set of Choices](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

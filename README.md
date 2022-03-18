@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NCSC catches 10 million phishes](https://www.computerweekly.com/news/252514743/NCSC-catches-10-million-phishes)
+- [Accenture: Trust and opportunities in the metaverse](https://www.computerweekly.com/news/252514739/Accenture-Trust-and-opportunities-in-the-metaverse)
+- [Kaspersky CEO: Ukraine war must end through diplomacy](https://www.computerweekly.com/news/252514755/Kaspersky-CEO-Ukraine-war-must-end-through-diplomacy)
+- [Storage suppliers put Kubernetes platforms centre stage](https://www.computerweekly.com/feature/Storage-suppliers-put-Kubernetes-platforms-centre-stage)
+- [Online Safety Bill introduced in Parliament](https://www.computerweekly.com/news/252514740/Online-Safety-Bill-introduced-in-Parliament)
+- [Alarm raised over ‘trickster’ LokiLocker ransomware](https://www.computerweekly.com/news/252514737/Alarm-raised-over-trickster-LokiLocker-ransomware)
+- [Value of contactless transactions doubles in two years](https://www.computerweekly.com/news/252514736/Value-of-contactless-transactions-doubles-in-two-years)
+- [ERP and the cloud](https://www.computerweekly.com/opinion/ERP-and-the-Cloud)
+- [FCSA takes steps to help umbrella company members protect themselves better from cyber attacks](https://www.computerweekly.com/news/252514733/FCSA-takes-steps-to-help-umbrella-company-members-protect-themselves-better-from-cyber-attacks)
 - [Biden signs ransomware reporting mandate into law](https://www.computerweekly.com/news/252514695/Biden-signs-ransomware-reporting-mandate-into-law)
-- [Two men convicted after using EncroChat cryptophones to plot killing](https://www.computerweekly.com/news/252514694/Two-men-convicted-after-using-EncroChat-cryptophones-to-plot-killing)
-- [UCL report projects 5,500 ‘open data’ jobs in Newham by 2035](https://www.computerweekly.com/news/252514693/UCL-report-projects-5500-open-data-jobs-in-Newham-by-2035)
-- [SentinelOne adds Attivo Networks to identity portfolio](https://www.computerweekly.com/news/252514692/SentinelOne-adds-Attivo-Networks-to-identity-portfolio)
-- [UKtech50 2022: Help us find the most influential people in UK IT](https://www.computerweekly.com/news/252514683/UKtech50-2022-Help-us-find-the-most-influential-people-in-UK-IT)
-- [AWS pledges to invest £1.8bn in building out its UK datacentre footprint over next two years](https://www.computerweekly.com/news/252514684/AWS-pledges-to-invest-18bn-in-building-out-its-UK-datacentre-footprint-over-next-two-years)
-- [Facebook owner Meta plots Spanish datacentre build to power ‘metaverse’ strategy](https://www.computerweekly.com/news/252514670/Facebook-owner-Meta-plots-Spanish-datacentre-build-to-power-metaverse-strategy)
-- [German authorities warn on Kaspersky but stop short of ban](https://www.computerweekly.com/news/252514679/German-authorities-warn-on-Kaspersky-but-stop-short-of-ban)
-- [Quantum launches ‘scale-out’ i6H rackmount tape library](https://www.computerweekly.com/news/252514672/Quantum-launches-scale-out-i6H-rackmount-tape-library)
-- [CaddyWiper is fourth new malware linked to Ukraine war](https://www.computerweekly.com/news/252514678/CaddyWiper-is-fourth-new-malware-linked-to-Ukraine-war)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

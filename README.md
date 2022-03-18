@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Foxconn’s factory shutdown, Mac Studio review and iOS 15.4](https://www.computerworld.com/article/3654194/foxconn-s-factory-shutdown-mac-studio-review-and-ios-15-4.html#tk.rss_all)
+- [Apple leads the 5G transition, reports claim](https://www.computerworld.com/article/3654488/apple-leads-the-5g-transition-reports-claim.html#tk.rss_all)
+- [BrandPost: Disaster recovery: Hitting the data protection home run](https://www.computerworld.com/article/3654193/disaster-recovery-hitting-the-data-protection-home-run.html#tk.rss_all)
+- [Are we destined to work in the metaverse?](https://www.computerworld.com/article/3653632/are-we-destined-to-work-in-the-metaverse.html#tk.rss_all)
+- [How Lenovo IT boosts diversity and inclusion](https://www.computerworld.com/article/3651048/lenovo-diversity-inclusion-tech-employees.html#tk.rss_all)
 - [Four-day workweek’s popularity grew during the pandemic — survey](https://www.computerworld.com/article/3654208/four-day-workweeks-popularity-grew-during-the-pandemic-survey.html#tk.rss_all)
 - [Intel’s European expansion will solidify future chip supply chain](https://www.computerworld.com/article/3654209/intel-s-european-expansion-will-solidify-future-chip-supply-chain.html#tk.rss_all)
 - [Slack suspends access for Russia-based customers](https://www.computerworld.com/article/3654168/slack-suspends-access-for-russia-based-customers.html#tk.rss_all)
 - [Slack hails Apple’s new iPad Air with collaboration boost](https://www.computerworld.com/article/3653335/slack-hails-apples-new-ipad-air-with-collaboration-boost.html#tk.rss_all)
 - [Slack’s iPad app gets a desktop-like makeover](https://www.computerworld.com/article/3653363/slack-s-ipad-app-gets-a-desktop-like-makeover.html#tk.rss_all)
-- [Microsoft’s Work Trend Index highlights a growing disconnect over hybrid work](https://www.computerworld.com/article/3653639/microsofts-work-trend-index-highlights-a-growing-disconnect-over-hybrid-work.html#tk.rss_all)
-- [How cryptocurrency is being used to funnel money to Ukraine](https://www.computerworld.com/article/3653615/crypto-to-the-rescue-its-being-used-to-funnel-money-to-ukraine.html#tk.rss_all)
-- [Apple&#39;s Universal Control delivers big productivity benefits](https://www.computerworld.com/article/3653263/apples-universal-control-delivers-big-productivity-benefits.html#tk.rss_all)
-- [Arm to cut up to 15% of jobs following failed takeover by Nvidia](https://www.computerworld.com/article/3653589/arm-to-cut-up-to-15-of-jobs-following-failed-nvidia-takeover.html#tk.rss_all)
-- [Q&amp;A: AstraZeneca CIO Cindy Hoots on Covid-19, collaboration — and change](https://www.computerworld.com/article/3653635/qanda-astrazeneca-cio-cindy-hoots-on-covid-19-collaboration-and-change.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

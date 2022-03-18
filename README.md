@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Biden calling Putin a war criminal is ‘unforgivable rhetoric’, says Kremlin – live](https://www.theguardian.com/world/live/2022/mar/16/ukraine-russia-war-latest-zelenskiy-says-peace-talks-are-more-realistic-three-eu-leaders-vow-support-on-kyiv-visit-live)
-- [Nazanin Zaghari-Ratcliffe returns to the UK after six-year ordeal](https://www.theguardian.com/news/2022/mar/17/nazanin-zaghari-ratcliffe-anoosheh-ashoori-returns-uk-six-years-iran-prison)
-- [Russia-Ukraine war: what we know on day 22 of the invasion](https://www.theguardian.com/world/2022/mar/17/russia-ukraine-war-what-we-know-on-day-22-of-the-invasion)
-- [‘Free at last’: what the papers say about the release of Nazanin Zaghari-Ratcliffe](https://www.theguardian.com/news/2022/mar/17/free-at-last-what-the-papers-say-about-the-release-of-nazanin-zaghari-ratcliffe)
-- [Mariupol: Russia accused of bombing theatre and swimming pool sheltering civilians](https://www.theguardian.com/world/2022/mar/16/mariupol-ukraine-russia-seized-hospital)
-- [Mariupol theatre and swimming pool where civilians sheltered lie in ruins – video](https://www.theguardian.com/world/video/2022/mar/17/mariupol-theatre-and-swimming-pool-where-civilians-sheltered-lie-in-ruins-video)
-- [Gordon Brown urges Sunak to address cost of living crisis in spring statement](https://www.theguardian.com/business/2022/mar/17/gordon-brown-urges-sunak-to-address-cost-of-living-crisis-in-spring-statement)
-- [Tech bosses face jail if they hamper Ofcom investigations from next year](https://www.theguardian.com/technology/2022/mar/17/tech-bosses-face-jail-if-they-hamper-ofcom-investigations-from-next-year)
-- [Chris Cuomo seeks $125m from CNN over alleged wrongful termination](https://www.theguardian.com/media/2022/mar/16/chris-cuomo-cnn-firing-arbitration-andrew)
-- [UK government to scrap ‘BAME’ in response to race inquiry](https://www.theguardian.com/world/2022/mar/16/uk-government-scrap-bame-response-sewell-race-inquiry)
+- [Russia-Ukraine war latest: Biden to warn Xi against backing Putin as Russian military offensives falter – live](https://www.theguardian.com/world/live/2022/mar/17/russia-ukraine-war-latest-kremlin-anger-after-biden-calls-putin-a-war-criminal-us-to-send-more-military-aid-live)
+- [Russian journalist who staged anti-war TV protest quits job, but rejects French asylum offer](https://www.theguardian.com/world/2022/mar/18/russian-journalist-who-staged-anti-war-tv-protest-quits-job-but-rejects-french-asylum-offer)
+- [Three-year-old girl hospitalised after ‘terrifying’ kangaroo attack in NSW](https://www.theguardian.com/environment/2022/mar/18/three-year-old-girl-hospitalised-after-terrifying-kangaroo-attack-in-nsw)
+- [Russia-Ukraine war: what we know on day 23 of the invasion](https://www.theguardian.com/world/2022/mar/18/russia-ukraine-war-what-we-know-on-day-23-of-the-invasion)
+- [Australian government extends sanctions to Russian oligarchs Oleg Deripaska and Viktor Vekselberg](https://www.theguardian.com/australia-news/2022/mar/18/australian-government-extends-sanctions-to-russian-oligarchs-oleg-deripaska-and-viktor-vekselberg)
+- [Papua New Guinean MP charged with murder over shooting death in restaurant](https://www.theguardian.com/world/2022/mar/18/papua-new-guinean-mp-charged-with-over-shooting-death-in-restaurant)
+- [FA Cup and Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/mar/18/fa-cup-and-premier-league-10-things-to-look-out-for-this-weekend)
+- [Ministers failed to allow parliament opportunity to scrutinise UK Covid laws](https://www.theguardian.com/world/2022/mar/18/ministers-failed-to-allow-parliament-opportunity-to-scrutinise-uk-covid-laws)
+- [Thousands of UK steelworkers victims of pension regulation scandal, says NAO](https://www.theguardian.com/business/2022/mar/18/thousands-of-uk-steelworkers-victims-of-pension-regulation-scandal-says-nao)
+- [Almost a third of disabled children and teenagers face abuse, global study finds](https://www.theguardian.com/society/2022/mar/17/almost-a-third-of-disabled-children-and-teenagers-face-abuse-global-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

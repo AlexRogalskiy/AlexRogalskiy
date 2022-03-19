@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Illinois town that got up and left](https://www.bbc.com/future/article/20220310-the-illinois-town-valmeyer-could-be-a-model-for-relocation)
-- [Ask HN: Experience with the Y Combinator speed dating for edtech?](https://news.ycombinator.com/item?id=30718202)
-- [Hundreds of GoDaddy-hosted sites backdoored in a single day](https://www.bleepingcomputer.com/news/security/hundreds-of-godaddy-hosted-sites-backdoored-in-a-single-day/)
-- [The Promise of AI with Demis Hassabis](https://castbox.fm/episode/S2-Ep9%3A-The-promise-of-AI-with-Demis-Hassabis-id2238222-id476273676)
-- [How I Built a Data Analytics Solution with $100](https://www.starterstory.com/stories/how-i-built-a-data-analytics-solution-with-100-side-hustle)
-- [Ask HN: Do Sanctions Impact Software Updates](https://news.ycombinator.com/item?id=30718147)
-- [Revising Down the Rise of China](https://www.lowyinstitute.org/publications/revising-down-rise-china)
-- [Q2 2022](https://blknoiz06.substack.com/p/quarter-ii-2022)
-- [Speaking about the OpenPGP Web of Trust](https://gwolf.org/2022/03/speaking-about-the-openpgp-wot-on-libreplanet-this-saturday.html)
-- [IPv6 Cabal Twitter Account](https://twitter.com/ipv6cabal)
+- [Netflix Is Testing Ways to Make You Stop Sharing Your Password](https://www.gq.com/story/netflix-password-sharing-additional-fees)
+- [Putin replaced 1k staffers over fears they&#39;d poison him](https://www.businessinsider.com/ukraine-russia-putin-replaced-staffers-over-fears-poison-him-report-2022-3)
+- [FPGA Design Elements](http://fpgacpu.ca/fpga/index.html)
+- [The Case for Fighting for Fitness](https://www.gq.com/story/fighting-for-fitness)
+- [Tuples secure multi-party computation against malicious adversaries algorithms](https://crypto.stackexchange.com/questions/99165/tuples-2p-secure-multi-party-computation-against-malicious-adversaries-algorithm)
+- [Two NASA Scientists Have a Frank and Honest Discussion about Antarctica](https://www.youtube.com/watch?v=5iu1Zmc9M6c)
+- [Poland to propose Ukraine peacekeeping mission at NATO summit, says PM](https://www.reuters.com/world/europe/poland-propose-ukraine-peacekeeping-mission-nato-summit-says-pm-2022-03-18/)
+- [Progressive enhancement – web design strategy with emphasis on web content first](https://en.wikipedia.org/wiki/Progressive_enhancement)
+- [Gdb-dashboard: a better TUI for gdb](https://github.com/cyrus-and/gdb-dashboard)
+- [CVE-2022-27226: CSRF to RCE in iRZ Mobile Routers through 2022-03-16](https://johnjhacking.com/blog/cve-2022-27226/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

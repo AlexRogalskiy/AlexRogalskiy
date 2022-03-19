@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft emphasizes regex source generation in .NET 7](https://www.infoworld.com/article/3654154/microsoft-emphasizes-regex-source-generation-in-net-7.html#tk.rss_all)
+- [What happened to performance engineering in the cloud?](https://www.infoworld.com/article/3654295/what-happened-to-performance-engineering-in-the-cloud.html#tk.rss_all)
+- [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_all)
 - [Oracle OCI compute, storage, networking tools aim to cut cloud complexity](https://www.infoworld.com/article/3654296/oracle-oci-compute-storage-networking-tools-aim-to-cut-cloud-complexity.html#tk.rss_all)
 - [ServiceNow adds incident response platform to SaaS portfolio](https://www.infoworld.com/article/3654192/servicenow-adds-incident-response-platform-to-saas-portfolio.html#tk.rss_all)
 - [Microsoft .NET MAUI nears the finish line](https://www.infoworld.com/article/3654290/microsoft-net-maui-nears-the-finish-line.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Vercel CEO: Deployment should be instantaneous](https://www.infoworld.com/article/3653262/vercel-ceo-deployment-should-be-instantaneous.html#tk.rss_all)
 - [15 tools that make Kubernetes easier](https://www.infoworld.com/article/3488817/15-tools-that-make-kubernetes-easier.html#tk.rss_all)
 - [13 tools that make Kubernetes better](https://www.infoworld.com/article/3261450/13-tools-that-make-kubernetes-better.html#tk.rss_all)
-- [Go 1.18 arrives with much-anticipated generics](https://www.infoworld.com/article/3645228/go-118-arrives-with-much-anticipated-generics.html#tk.rss_all)
-- [Turns out AWS can partner after all](https://www.infoworld.com/article/3653258/turns-out-aws-can-partner-after-all.html#tk.rss_all)
-- [JDK 19: Java 19 begins to take shape](https://www.infoworld.com/article/3653331/jdk-19-java-19-begins-to-take-shape.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

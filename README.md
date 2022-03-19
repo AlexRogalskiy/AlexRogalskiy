@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Brandeis University CIO La Creta Talks Migrating to Workday](https://www.informationweek.com/strategic-cio/brandeis-university-cio-la-creta-talks-migrating-to-workday)
+- [Automation Is Everywhere. But Where Do You Start?](https://www.informationweek.com/ai-or-machine-learning/automation-is-everywhere-but-where-do-you-start-)
 - [VPNs Give Russians an End Run Around Censorship](https://www.informationweek.com/security-and-risk-strategy/vpns-give-russians-an-end-run-around-censorship)
 - [US Regulators Move to Understand Crypto and Explore Guardrails](https://www.informationweek.com/fintech/us-regulators-move-to-understand-crypto-and-explore-guardrails)
 - [Ukraine Crisis, Rise in Cyberattack Threats Bolster Case for Zero Trust](https://www.informationweek.com/security-and-risk-strategy/ukraine-crisis-rise-in-cyberattack-threats-bolster-case-for-zero-trust)
@@ -377,8 +379,6 @@
 - [Clearview AI Offers Face Recognition AI to Ukraine](https://www.informationweek.com/big-data/clearview-ai-offers-face-recognition-ai-to-ukraine)
 - [How Tech Services Can Combat the Great IT Resignation](https://www.informationweek.com/strategic-cio/how-tech-services-can-combat-the-great-it-resignation)
 - [Digital ID Technology Promises Stronger Security](https://www.informationweek.com/security-and-risk-strategy/digital-id-technology-promises-stronger-security)
-- [AI Workloads Require Infrastructure Upgrades](https://www.informationweek.com/ai-or-machine-learning/ai-workloads-require-infrastructure-upgrades)
-- [An American Playbook for Tech Leadership](https://www.informationweek.com/strategic-cio/an-american-playbook-for-tech-leadership)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

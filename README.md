@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Biden to warn Xi against backing Putin as Russian military offensives falter – live](https://www.theguardian.com/world/live/2022/mar/17/russia-ukraine-war-latest-kremlin-anger-after-biden-calls-putin-a-war-criminal-us-to-send-more-military-aid-live)
-- [Russian journalist who staged anti-war TV protest quits job, but rejects French asylum offer](https://www.theguardian.com/world/2022/mar/18/russian-journalist-who-staged-anti-war-tv-protest-quits-job-but-rejects-french-asylum-offer)
-- [Three-year-old girl hospitalised after ‘terrifying’ kangaroo attack in NSW](https://www.theguardian.com/environment/2022/mar/18/three-year-old-girl-hospitalised-after-terrifying-kangaroo-attack-in-nsw)
-- [Russia-Ukraine war: what we know on day 23 of the invasion](https://www.theguardian.com/world/2022/mar/18/russia-ukraine-war-what-we-know-on-day-23-of-the-invasion)
-- [Australian government extends sanctions to Russian oligarchs Oleg Deripaska and Viktor Vekselberg](https://www.theguardian.com/australia-news/2022/mar/18/australian-government-extends-sanctions-to-russian-oligarchs-oleg-deripaska-and-viktor-vekselberg)
-- [Papua New Guinean MP charged with murder over shooting death in restaurant](https://www.theguardian.com/world/2022/mar/18/papua-new-guinean-mp-charged-with-over-shooting-death-in-restaurant)
-- [FA Cup and Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/mar/18/fa-cup-and-premier-league-10-things-to-look-out-for-this-weekend)
-- [Ministers failed to allow parliament opportunity to scrutinise UK Covid laws](https://www.theguardian.com/world/2022/mar/18/ministers-failed-to-allow-parliament-opportunity-to-scrutinise-uk-covid-laws)
-- [Thousands of UK steelworkers victims of pension regulation scandal, says NAO](https://www.theguardian.com/business/2022/mar/18/thousands-of-uk-steelworkers-victims-of-pension-regulation-scandal-says-nao)
-- [Almost a third of disabled children and teenagers face abuse, global study finds](https://www.theguardian.com/society/2022/mar/17/almost-a-third-of-disabled-children-and-teenagers-face-abuse-global-study-finds)
+- [India v Australia: ICC Women’s World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/19/india-vs-australia-icc-womens-cricket-world-cup-2022-ind-v-aus-live-updates)
+- [Russia-Ukraine war latest: Zelenskiy urges ‘honest’ peace talks without delay ; Biden outlines ‘consequences’ if China aids Russia – live](https://www.theguardian.com/world/live/2022/mar/18/russia-ukraine-war-latest-news-biden-to-warn-xi-against-backing-putin-as-russian-military-offensives-falter-live)
+- [Russia-Ukraine war: what we know on day 24 of the invasion](https://www.theguardian.com/world/2022/mar/19/russia-ukraine-war-what-we-know-on-day-24-of-the-invasion)
+- [Jewellery industry accused of silence over Russian diamonds](https://www.theguardian.com/world/2022/mar/19/jewellery-industry-accused-of-silence-over-russian-diamonds)
+- [Get off the sofa: music, art and more to summon motivation](https://www.theguardian.com/culture/2022/mar/19/get-off-the-sofa-music-art-and-more-to-summon-motivation)
+- [As the bombs rain down, I remember my family’s history – and know we must do more to save Ukraine | Jonathan Freedland](https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu)
+- [Who pays the P&amp;O ferryman? The 800 staff thrown overboard, of course | Marina Hyde](https://www.theguardian.com/commentisfree/2022/mar/18/p-o-ferries-staff-dubai-ferry-employees)
+- [Google gives Black workers lower-level jobs and pays them less, suit claims](https://www.theguardian.com/technology/2022/mar/18/google-black-employees-lawsuit-racial-bias)
+- [UK city of culture 2025: Southampton and Bradford among those on shortlist](https://www.theguardian.com/culture/2022/mar/18/uk-city-of-culture-2025-shortlist)
+- [Death of sexual assault survivor in therapy preventable, inquest finds](https://www.theguardian.com/uk-news/2022/mar/18/death-of-sexual-assault-survivor-in-therapy-preventable-inquest-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

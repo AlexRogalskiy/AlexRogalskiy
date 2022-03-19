@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Do svidaniya, Kaspersky — goodbye](https://www.computerworld.com/article/3654149/do-svidaniya-kaspersky-goodbye.html#tk.rss_all)
 - [Podcast: Foxconn’s factory shutdown, Mac Studio review and iOS 15.4](https://www.computerworld.com/article/3654194/foxconn-s-factory-shutdown-mac-studio-review-and-ios-15-4.html#tk.rss_all)
 - [Apple leads the 5G transition, reports claim](https://www.computerworld.com/article/3654488/apple-leads-the-5g-transition-reports-claim.html#tk.rss_all)
 - [BrandPost: Disaster recovery: Hitting the data protection home run](https://www.computerworld.com/article/3654193/disaster-recovery-hitting-the-data-protection-home-run.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [Intel’s European expansion will solidify future chip supply chain](https://www.computerworld.com/article/3654209/intel-s-european-expansion-will-solidify-future-chip-supply-chain.html#tk.rss_all)
 - [Slack suspends access for Russia-based customers](https://www.computerworld.com/article/3654168/slack-suspends-access-for-russia-based-customers.html#tk.rss_all)
 - [Slack hails Apple’s new iPad Air with collaboration boost](https://www.computerworld.com/article/3653335/slack-hails-apples-new-ipad-air-with-collaboration-boost.html#tk.rss_all)
-- [Slack’s iPad app gets a desktop-like makeover](https://www.computerworld.com/article/3653363/slack-s-ipad-app-gets-a-desktop-like-makeover.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

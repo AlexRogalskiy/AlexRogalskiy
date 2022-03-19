@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
-- [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
-- [Forage &lpar;YC S21&rpar; is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
-- [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
-- [Sweden’s &#39;speed camera lottery&#39; hit a red light years ago &lpar;2021&rpar;](https://www.aap.com.au/factcheck/swedens-speed-camera-lottery-hit-a-red-light-years-ago/)
-- [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
-- [Bridgetown - progressive site generator and framework, powered by Ruby](https://www.bridgetownrb.com/)
-- [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
-- [Hot-code reloading on macOS/arm64 with Zig](http://www.jakubkonka.com/2022/03/16/hcs-zig.html)
-- [Photography is not Objective, Art is a Set of Choices](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html)
+- [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
+- [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
+- [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
+- [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
+- [Crypto is an Unproductive Bubble](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/)
+- [Small subgroups of the population seem much larger to many Americans](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)
+- [How Putin’s Oligarchs Bought London](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london)
+- [Show HN: Edrys – an open-source remote teaching platform](https://github.com/edrys-org/edrys)
+- [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/)
+- [Replit &lpar;YC W18&rpar; Is Hiring Security Hackers to Safely Run Untrusted Code](https://jobs.lever.co/replit/6ed43742-5732-4235-b38c-35e2bdab9195)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

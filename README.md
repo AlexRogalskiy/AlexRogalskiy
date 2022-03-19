@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [University of Reading tracks fruit tree flowering as spring breaks, with Oracle](https://www.computerweekly.com/news/252514818/University-of-Reading-tracks-fruit-tree-flowering-as-Spring-breaks-with-Oracle)
+- [Electronic patient records key to NHS digital transformation](https://www.computerweekly.com/news/252514807/Electronic-Patient-Records-key-to-NHS-digital-transformation)
+- [Dark web littered with Ukraine crypto scammers](https://www.computerweekly.com/news/252514802/Dark-web-littered-with-Ukraine-crypto-scammers)
+- [ERP: Join the dots faster with ready-made ecosystems](https://www.computerweekly.com/opinion/ERP-Join-the-dots-faster-with-ready-made-ecosystems)
+- [Ukrainian cyber defences prove resilient](https://www.computerweekly.com/news/252514798/Ukrainian-cyber-defences-prove-resilient)
+- [National Cyber Strategy will enhance UK’s cyber power status](https://www.computerweekly.com/opinion/National-Cyber-Strategy-will-enhance-UKs-cyber-power-status)
 - [NCSC catches 10 million phishes](https://www.computerweekly.com/news/252514743/NCSC-catches-10-million-phishes)
 - [Accenture: Trust and opportunities in the metaverse](https://www.computerweekly.com/news/252514739/Accenture-Trust-and-opportunities-in-the-metaverse)
 - [Kaspersky CEO: Ukraine war must end through diplomacy](https://www.computerweekly.com/news/252514755/Kaspersky-CEO-Ukraine-war-must-end-through-diplomacy)
 - [Storage suppliers put Kubernetes platforms centre stage](https://www.computerweekly.com/feature/Storage-suppliers-put-Kubernetes-platforms-centre-stage)
-- [Online Safety Bill introduced in Parliament](https://www.computerweekly.com/news/252514740/Online-Safety-Bill-introduced-in-Parliament)
-- [Alarm raised over ‘trickster’ LokiLocker ransomware](https://www.computerweekly.com/news/252514737/Alarm-raised-over-trickster-LokiLocker-ransomware)
-- [Value of contactless transactions doubles in two years](https://www.computerweekly.com/news/252514736/Value-of-contactless-transactions-doubles-in-two-years)
-- [ERP and the cloud](https://www.computerweekly.com/opinion/ERP-and-the-Cloud)
-- [FCSA takes steps to help umbrella company members protect themselves better from cyber attacks](https://www.computerweekly.com/news/252514733/FCSA-takes-steps-to-help-umbrella-company-members-protect-themselves-better-from-cyber-attacks)
-- [Biden signs ransomware reporting mandate into law](https://www.computerweekly.com/news/252514695/Biden-signs-ransomware-reporting-mandate-into-law)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

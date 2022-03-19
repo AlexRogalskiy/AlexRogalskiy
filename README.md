@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking For Windows Engineer](https://www.reddit.com/r/InformationTechnology/comments/thkhz0/looking_for_windows_engineer/)
+- [Where should i start learning??](https://www.reddit.com/r/InformationTechnology/comments/thiith/where_should_i_start_learning/)
+- [Help! I need a SQL server developer and AdventureWorks database on my Mac](https://www.reddit.com/r/InformationTechnology/comments/thbywd/help_i_need_a_sql_server_developer_and/)
+- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/th31uu/first_it_job/)
+- [I work IT for a small company and I want to develop a help ticket system. What would you recommend for this?](https://www.reddit.com/r/InformationTechnology/comments/th2ljj/i_work_it_for_a_small_company_and_i_want_to/)
+- [Am I insane for wanted to get a 2nd bachelors degree?](https://www.reddit.com/r/InformationTechnology/comments/tgsz9d/am_i_insane_for_wanted_to_get_a_2nd_bachelors/)
+- [Has anyone here taken the CSSLP exam?](https://www.reddit.com/r/InformationTechnology/comments/tgrf7x/has_anyone_here_taken_the_csslp_exam/)
 - [Subnetting Simplified - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tflih4/subnetting_simplified_network_n10008/)
 - [HCI in IT industry](https://www.reddit.com/r/InformationTechnology/comments/temkr4/hci_in_it_industry/)
 - [Those with BS in Information Technology, what job did you end up getting?](https://www.reddit.com/r/InformationTechnology/comments/teblbu/those_with_bs_in_information_technology_what_job/)
-- [Currently studying for Net+. What does it look like when you actually get a job with the cert?](https://www.reddit.com/r/InformationTechnology/comments/te7uzg/currently_studying_for_net_what_does_it_look_like/)
-- [Where can I find some sort of training?](https://www.reddit.com/r/InformationTechnology/comments/te7dao/where_can_i_find_some_sort_of_training/)
-- [Technical Problem with an Iphone 6](https://www.reddit.com/r/InformationTechnology/comments/tdosz8/technical_problem_with_an_iphone_6/)
-- [Predictive Analytics](https://www.reddit.com/r/InformationTechnology/comments/tcz70a/predictive_analytics/)
-- [Help on figuring out my degree choice for college.](https://www.reddit.com/r/InformationTechnology/comments/tctxc1/help_on_figuring_out_my_degree_choice_for_college/)
-- [Mail server](https://www.reddit.com/r/InformationTechnology/comments/tctp2e/mail_server/)
-- [What degree should I pursue if I want to work with computers?](https://www.reddit.com/r/InformationTechnology/comments/tbyrkc/what_degree_should_i_pursue_if_i_want_to_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -414,7 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking For Windows Engineer](https://www.reddit.com/r/InformationTechnology/comments/thkhz0/looking_for_windows_engineer/)
+- [Studying a Master in Information Technology after an undergraduate in a different field?](https://www.reddit.com/r/InformationTechnology/comments/ti99ua/studying_a_master_in_information_technology_after/)
+- [Help with frozen phone](https://www.reddit.com/r/InformationTechnology/comments/thrq7q/help_with_frozen_phone/)
 - [Where should i start learning??](https://www.reddit.com/r/InformationTechnology/comments/thiith/where_should_i_start_learning/)
 - [Help! I need a SQL server developer and AdventureWorks database on my Mac](https://www.reddit.com/r/InformationTechnology/comments/thbywd/help_i_need_a_sql_server_developer_and/)
 - [First IT job](https://www.reddit.com/r/InformationTechnology/comments/th31uu/first_it_job/)
@@ -423,7 +424,6 @@
 - [Has anyone here taken the CSSLP exam?](https://www.reddit.com/r/InformationTechnology/comments/tgrf7x/has_anyone_here_taken_the_csslp_exam/)
 - [Subnetting Simplified - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tflih4/subnetting_simplified_network_n10008/)
 - [HCI in IT industry](https://www.reddit.com/r/InformationTechnology/comments/temkr4/hci_in_it_industry/)
-- [Those with BS in Information Technology, what job did you end up getting?](https://www.reddit.com/r/InformationTechnology/comments/teblbu/those_with_bs_in_information_technology_what_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

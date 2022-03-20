@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Netflix Is Testing Ways to Make You Stop Sharing Your Password](https://www.gq.com/story/netflix-password-sharing-additional-fees)
-- [Putin replaced 1k staffers over fears they&#39;d poison him](https://www.businessinsider.com/ukraine-russia-putin-replaced-staffers-over-fears-poison-him-report-2022-3)
-- [FPGA Design Elements](http://fpgacpu.ca/fpga/index.html)
-- [The Case for Fighting for Fitness](https://www.gq.com/story/fighting-for-fitness)
-- [Tuples secure multi-party computation against malicious adversaries algorithms](https://crypto.stackexchange.com/questions/99165/tuples-2p-secure-multi-party-computation-against-malicious-adversaries-algorithm)
-- [Two NASA Scientists Have a Frank and Honest Discussion about Antarctica](https://www.youtube.com/watch?v=5iu1Zmc9M6c)
-- [Poland to propose Ukraine peacekeeping mission at NATO summit, says PM](https://www.reuters.com/world/europe/poland-propose-ukraine-peacekeeping-mission-nato-summit-says-pm-2022-03-18/)
-- [Progressive enhancement – web design strategy with emphasis on web content first](https://en.wikipedia.org/wiki/Progressive_enhancement)
-- [Gdb-dashboard: a better TUI for gdb](https://github.com/cyrus-and/gdb-dashboard)
-- [CVE-2022-27226: CSRF to RCE in iRZ Mobile Routers through 2022-03-16](https://johnjhacking.com/blog/cve-2022-27226/)
+- [AI suggested 40k new possible chemical weapons in a few hours](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx)
+- [A Whale of a Tale about a Science Breakthrough Ignored for Decades](https://www.atlasobscura.com/articles/animal-menopause)
+- [Amazon warehouse fires a worker 1 day before his $3000 hiring bonus](https://old.reddit.com/r/antiwork/comments/ti3ml2/amazon_warehouse_fires_my_brother_1_day_before/)
+- [Ask HN: What advice would you give to a newly-minted senior software engineer?](https://news.ycombinator.com/item?id=30739379)
+- [Limit your technical debt and secure your code base using MegaLinter](https://nicolas.vuillamy.fr/improve-uniformize-and-secure-your-code-base-with-megalinter-62ebab422c1?gi=76b8d4f4c994)
+- [Vladimir Putin Has Fallen into the Dictator Trap](https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/)
+- [NFT Traders [video]](https://www.youtube.com/watch?v=JgdP7oWP0_0)
+- [Art: Building a Prefix Search Trie in Go](https://aly.arriqaaq.com/art-building-a-prefix-search-trie-in-go/)
+- [Mariupol City Council says Residents are being-forced to go to Russia](https://lite.cnn.com/en/article/h_74eeb2b5fbe2d9f855d01a87555af2c7)
+- [Show HN: I made a CLI tool that turns pixels into emojis](https://github.com/ahhhh6980/Mosaic)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

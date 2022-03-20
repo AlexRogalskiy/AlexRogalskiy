@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Daytime napping and Alzheimer&#39;s dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
-- [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
-- [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
-- [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
-- [Crypto is an Unproductive Bubble](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/)
-- [Small subgroups of the population seem much larger to many Americans](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)
-- [How Putin’s Oligarchs Bought London](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london)
-- [Show HN: Edrys – an open-source remote teaching platform](https://github.com/edrys-org/edrys)
-- [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/)
-- [Replit &lpar;YC W18&rpar; Is Hiring Security Hackers to Safely Run Untrusted Code](https://jobs.lever.co/replit/6ed43742-5732-4235-b38c-35e2bdab9195)
+- [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
+- [The Secret Sounds of ‘Dune’: Rice Krispies and Marianne Faithfull](https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html)
+- [NYC splits engine idling fines with the reporter](https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html)
+- [Study on quality of sleep when pet cats choose location of slumber](https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/)
+- [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
+- [Qualcomm: From Satellites to CDMA to Snapdragons](https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons)
+- [Fzf – a command-line fuzzy finder](https://github.com/junegunn/fzf)
+- [Dogs are good models for human psychiatric disorders, study argues](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
+- [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
+- [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

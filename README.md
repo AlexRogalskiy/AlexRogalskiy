@@ -369,6 +369,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Private 5G Networks Sector Surges with New Services, Investments, and User Trials](https://www.informationweek.com/it-life/private-5g-networks-sector-surges-with-new-services-investments-and-user-trials)
 - [Brandeis University CIO La Creta Talks Migrating to Workday](https://www.informationweek.com/strategic-cio/brandeis-university-cio-la-creta-talks-migrating-to-workday)
 - [Automation Is Everywhere. But Where Do You Start?](https://www.informationweek.com/ai-or-machine-learning/automation-is-everywhere-but-where-do-you-start-)
 - [VPNs Give Russians an End Run Around Censorship](https://www.informationweek.com/security-and-risk-strategy/vpns-give-russians-an-end-run-around-censorship)
@@ -378,7 +379,6 @@
 - [The Role CIOs Play in Retaining Employees Amid the Great Resignation](https://www.informationweek.com/strategic-cio/the-role-cios-play-in-retaining-employees-amid-the-great-resignation)
 - [Clearview AI Offers Face Recognition AI to Ukraine](https://www.informationweek.com/big-data/clearview-ai-offers-face-recognition-ai-to-ukraine)
 - [How Tech Services Can Combat the Great IT Resignation](https://www.informationweek.com/strategic-cio/how-tech-services-can-combat-the-great-it-resignation)
-- [Digital ID Technology Promises Stronger Security](https://www.informationweek.com/security-and-risk-strategy/digital-id-technology-promises-stronger-security)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI suggested 40k new possible chemical weapons in a few hours](https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx)
-- [A Whale of a Tale about a Science Breakthrough Ignored for Decades](https://www.atlasobscura.com/articles/animal-menopause)
-- [Amazon warehouse fires a worker 1 day before his $3000 hiring bonus](https://old.reddit.com/r/antiwork/comments/ti3ml2/amazon_warehouse_fires_my_brother_1_day_before/)
-- [Ask HN: What advice would you give to a newly-minted senior software engineer?](https://news.ycombinator.com/item?id=30739379)
-- [Limit your technical debt and secure your code base using MegaLinter](https://nicolas.vuillamy.fr/improve-uniformize-and-secure-your-code-base-with-megalinter-62ebab422c1?gi=76b8d4f4c994)
-- [Vladimir Putin Has Fallen into the Dictator Trap](https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/)
-- [NFT Traders [video]](https://www.youtube.com/watch?v=JgdP7oWP0_0)
-- [Art: Building a Prefix Search Trie in Go](https://aly.arriqaaq.com/art-building-a-prefix-search-trie-in-go/)
-- [Mariupol City Council says Residents are being-forced to go to Russia](https://lite.cnn.com/en/article/h_74eeb2b5fbe2d9f855d01a87555af2c7)
-- [Show HN: I made a CLI tool that turns pixels into emojis](https://github.com/ahhhh6980/Mosaic)
+- [Not smart but clever? The return of &#39;dumbphones&#39;](https://www.bbc.co.uk/news/business-60763168)
+- [Sri Lanka cancels school exams over paper shortage as financial crisis bites](https://www.theguardian.com/world/2022/mar/20/sri-lanka-cancels-school-exams-over-paper-shortage-as-financial-crisis-bites)
+- [Ask HN: How would you like to interact with the cloud?](https://news.ycombinator.com/item?id=30749447)
+- [Gas pumps happen to be about as insecure as your typical router](https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/)
+- [On 6G and Trustworthiness](https://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness/fulltext)
+- [Voyager 1 Signal Spotted by Earth Radio Telescopes](https://cdn.mos.cms.futurecdn.net/UnVvotmEGQxCEz5AvbzUmD-970-80.jpg)
+- [Apple Mac Studio: Reviews Reviewed](https://mondaynote.com/apple-mac-studio-reviews-reviewed-605a82420772?gi=a75caf63cb58)
+- [Ask HN: Why do people work at evil megacorps?](https://news.ycombinator.com/item?id=30749346)
+- [Run This Diagnostic to Thoughtfully Build &lpar;and Evaluate&rpar; Your Startup’s Culture](https://review.firstround.com/run-this-diagnostic-to-thoughtfully-build-and-evaluate-your-startups-culture)
+- [Engineering Deep Learning Systems](https://www.manning.com/books/engineering-deep-learning-systems)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

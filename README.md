@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [College student seeking to get and IT related job with no previous work experience or certification](https://www.reddit.com/r/InformationTechnology/comments/ticl3a/college_student_seeking_to_get_and_it_related_job/)
 - [Studying a Master in Information Technology after an undergraduate in a different field?](https://www.reddit.com/r/InformationTechnology/comments/ti99ua/studying_a_master_in_information_technology_after/)
 - [Help with frozen phone](https://www.reddit.com/r/InformationTechnology/comments/thrq7q/help_with_frozen_phone/)
 - [Where should i start learning??](https://www.reddit.com/r/InformationTechnology/comments/thiith/where_should_i_start_learning/)
@@ -423,7 +424,6 @@
 - [Am I insane for wanted to get a 2nd bachelors degree?](https://www.reddit.com/r/InformationTechnology/comments/tgsz9d/am_i_insane_for_wanted_to_get_a_2nd_bachelors/)
 - [Has anyone here taken the CSSLP exam?](https://www.reddit.com/r/InformationTechnology/comments/tgrf7x/has_anyone_here_taken_the_csslp_exam/)
 - [Subnetting Simplified - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tflih4/subnetting_simplified_network_n10008/)
-- [HCI in IT industry](https://www.reddit.com/r/InformationTechnology/comments/temkr4/hci_in_it_industry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

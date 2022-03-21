@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Just some red flags. No big deal. Just ignore them](https://rachelbythebay.com/w/2020/05/22/boarded/)
-- [The Secret Sounds of ‘Dune’: Rice Krispies and Marianne Faithfull](https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html)
-- [NYC splits engine idling fines with the reporter](https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html)
-- [Study on quality of sleep when pet cats choose location of slumber](https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/)
-- [Streak &lpar;YC W22&rpar; Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
-- [Qualcomm: From Satellites to CDMA to Snapdragons](https://thehistoryofcomputing.net/qualcomm-from-satellites-to-cdma-to-snapdragons)
-- [Fzf – a command-line fuzzy finder](https://github.com/junegunn/fzf)
-- [Dogs are good models for human psychiatric disorders, study argues](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
-- [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
-- [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
+- [Please Put Units in Names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+- [Tell HN: Did you know you can negotiate price on many things?](https://news.ycombinator.com/item?id=30748959)
+- [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
+- [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
+- [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
+- [CodeEdit: Building a free, open-source code editor for macOS](https://github.com/CodeEditApp/CodeEdit)
+- [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [LibreTube: Alternative YouTube front end for Android built with Piped](https://f-droid.org/en/packages/com.github.libretube/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

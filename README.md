@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England v New Zealand: Women’s World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/20/england-v-new-zealand-womens-world-cup-live)
-- [Sri Lanka cancels school exams over paper shortage as financial crisis bites](https://www.theguardian.com/world/2022/mar/20/sri-lanka-cancels-school-exams-over-paper-shortage-as-financial-crisis-bites)
-- [Russian-Ukraine war latest: thousands of Mariupol residents ‘being deported to remote parts of Russia’ – live](https://www.theguardian.com/world/live/2022/mar/19/russia-ukraine-war-latest-zelenskiy-urges-honest-peace-talks-without-delay-russian-forces-tighten-grip-around-mariupol-live)
-- [Suits of armour and jousting knights: the Orange medieval festival – in pictures](https://www.theguardian.com/australia-news/gallery/2022/mar/20/suits-of-armour-and-jousting-knights-the-orange-medieval-festival-in-pictures)
-- [Uber hopes for an easier ride with its new London licence](https://www.theguardian.com/technology/2022/mar/20/uber-hopes-for-an-easier-ride-with-its-new-london-licence)
-- [5m people in England to be offered Covid booster jabs](https://www.theguardian.com/world/2022/mar/20/5m-people-in-england-to-be-offered-covid-booster-jabs)
-- [20 of the best spring coats to wear now – in pictures](https://www.theguardian.com/fashion/gallery/2022/mar/19/best-spring-coats-2022)
-- [Jones’s claims of England’s progress ring hollow as France highlight gulf in class | Andy Bull](https://www.theguardian.com/sport/blog/2022/mar/19/eddiejones-six-nations-claims-of-englands-progress-ring-hollow-as-france-highlight-gulf-in-class)
-- [Ministers ‘told in advance about P&amp;O mass sackings’](https://www.theguardian.com/business/2022/mar/19/ministers-told-in-advance-about-po-mass-sackings)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/mar/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Russia-Ukraine war: Kyiv rejects Moscow’s 5am deadline for Mariupol surrender; Biden to visit Poland – live](https://www.theguardian.com/world/live/2022/mar/20/russian-ukraine-war-latest-thousands-of-mariupol-residents-being-deported-to-remote-parts-of-russia-live)
+- [Taylor Fritz hands Rafael Nadal first loss of 2022 with win in Indian Wells final](https://www.theguardian.com/sport/2022/mar/21/taylor-fritz-hands-rafael-nadal-first-loss-of-2022-with-win-in-indian-wells-final)
+- [China has fully militarized three islands in South China Sea, US admiral says](https://www.theguardian.com/world/2022/mar/21/china-has-fully-militarized-three-islands-in-south-china-sea-us-admiral-says)
+- [Ukrainian mother seriously wounded while shielding baby from missile strike](https://www.theguardian.com/world/2022/mar/21/ukrainian-mother-seriously-wounded-while-shielding-baby-from-missile-strike)
+- [Russia-Ukraine war: what we know on day 26 of the invasion](https://www.theguardian.com/world/2022/mar/21/russia-ukraine-war-what-we-know-on-day-26-of-the-invasion)
+- [‘Some were too scared to leave’: the man who rescued 25 people from devastated Mariupol](https://www.theguardian.com/world/2022/mar/21/some-were-too-scared-to-leave-the-man-who-rescued-25-people-from-devastated-mariupol)
+- [US supreme court justice Clarence Thomas in hospital with ‘flu-like symptoms’](https://www.theguardian.com/us-news/2022/mar/21/us-supreme-court-justice-clarence-thomas-in-hospital-with-flu-like-symptoms)
+- [Wales introduces ban on smacking  and slapping children](https://www.theguardian.com/uk-news/2022/mar/21/wales-introduces-ban-on-smacking-and-slapping-children)
+- [Average house price in Great Britain exceeds £350,000 for first time](https://www.theguardian.com/business/2022/mar/21/average-house-price-in-great-britain-exceeds-350000-for-first-time)
+- [Raise benefits and pensions to help lower earners, thinktank tells Rishi Sunak](https://www.theguardian.com/uk-news/2022/mar/21/raise-benefits-and-pensions-to-help-lower-earners-thinktank-tells-rishi-sunak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

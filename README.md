@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s with the requirements for entry level positions?](https://www.reddit.com/r/InformationTechnology/comments/tjsvd6/whats_with_the_requirements_for_entry_level/)
+- [Full stack web developer |Help| develop powerful modern web applica...](https://www.reddit.com/r/InformationTechnology/comments/tjmhhk/full_stack_web_developer_help_develop_powerful/)
+- [What do you guys use for source/version control?](https://www.reddit.com/r/InformationTechnology/comments/tjmga3/what_do_you_guys_use_for_sourceversion_control/)
+- [How to get into a remote IT role without a bachelors or experience](https://www.reddit.com/r/InformationTechnology/comments/tjd2dm/how_to_get_into_a_remote_it_role_without_a/)
 - [College student seeking to get and IT related job with no previous work experience or certification](https://www.reddit.com/r/InformationTechnology/comments/ticl3a/college_student_seeking_to_get_and_it_related_job/)
 - [Studying a Master in Information Technology after an undergraduate in a different field?](https://www.reddit.com/r/InformationTechnology/comments/ti99ua/studying_a_master_in_information_technology_after/)
 - [Help with frozen phone](https://www.reddit.com/r/InformationTechnology/comments/thrq7q/help_with_frozen_phone/)
 - [Where should i start learning??](https://www.reddit.com/r/InformationTechnology/comments/thiith/where_should_i_start_learning/)
 - [Help! I need a SQL server developer and AdventureWorks database on my Mac](https://www.reddit.com/r/InformationTechnology/comments/thbywd/help_i_need_a_sql_server_developer_and/)
 - [First IT job](https://www.reddit.com/r/InformationTechnology/comments/th31uu/first_it_job/)
-- [I work IT for a small company and I want to develop a help ticket system. What would you recommend for this?](https://www.reddit.com/r/InformationTechnology/comments/th2ljj/i_work_it_for_a_small_company_and_i_want_to/)
-- [Am I insane for wanted to get a 2nd bachelors degree?](https://www.reddit.com/r/InformationTechnology/comments/tgsz9d/am_i_insane_for_wanted_to_get_a_2nd_bachelors/)
-- [Has anyone here taken the CSSLP exam?](https://www.reddit.com/r/InformationTechnology/comments/tgrf7x/has_anyone_here_taken_the_csslp_exam/)
-- [Subnetting Simplified - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/tflih4/subnetting_simplified_network_n10008/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

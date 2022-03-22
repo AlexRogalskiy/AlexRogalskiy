@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Siloed data holding back coordinated health responses](https://www.computerweekly.com/news/252514852/Siloed-data-holding-back-coordinated-health-responses)
+- [DWP Digital launches Birmingham hub](https://www.computerweekly.com/news/252514854/DWP-Digital-launches-Birmingham-hub)
+- [How 2022’s most significant data privacy trends affect your organisation](https://www.computerweekly.com/opinion/How-2022s-most-significant-data-privacy-trends-affect-your-organisation)
+- [UK Cyber Strategy a welcome injection of progress](https://www.computerweekly.com/opinion/UK-Cyber-Strategy-a-welcome-injection-of-progress)
+- [Cloud ERP: Rise of the industry cloud](https://www.computerweekly.com/feature/Cloud-ERP-Rise-of-the-industry-cloud)
 - [University of Reading tracks fruit tree flowering as spring breaks, with Oracle](https://www.computerweekly.com/news/252514818/University-of-Reading-tracks-fruit-tree-flowering-as-Spring-breaks-with-Oracle)
 - [Electronic patient records key to NHS digital transformation](https://www.computerweekly.com/news/252514807/Electronic-Patient-Records-key-to-NHS-digital-transformation)
 - [Dark web littered with Ukraine crypto scammers](https://www.computerweekly.com/news/252514802/Dark-web-littered-with-Ukraine-crypto-scammers)
 - [ERP: Join the dots faster with ready-made ecosystems](https://www.computerweekly.com/opinion/ERP-Join-the-dots-faster-with-ready-made-ecosystems)
 - [Ukrainian cyber defences prove resilient](https://www.computerweekly.com/news/252514798/Ukrainian-cyber-defences-prove-resilient)
-- [National Cyber Strategy will enhance UK’s cyber power status](https://www.computerweekly.com/opinion/National-Cyber-Strategy-will-enhance-UKs-cyber-power-status)
-- [NCSC catches 10 million phishes](https://www.computerweekly.com/news/252514743/NCSC-catches-10-million-phishes)
-- [Accenture: Trust and opportunities in the metaverse](https://www.computerweekly.com/news/252514739/Accenture-Trust-and-opportunities-in-the-metaverse)
-- [Kaspersky CEO: Ukraine war must end through diplomacy](https://www.computerweekly.com/news/252514755/Kaspersky-CEO-Ukraine-war-must-end-through-diplomacy)
-- [Storage suppliers put Kubernetes platforms centre stage](https://www.computerweekly.com/feature/Storage-suppliers-put-Kubernetes-platforms-centre-stage)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

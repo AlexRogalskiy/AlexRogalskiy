@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Not smart but clever? The return of &#39;dumbphones&#39;](https://www.bbc.co.uk/news/business-60763168)
-- [Sri Lanka cancels school exams over paper shortage as financial crisis bites](https://www.theguardian.com/world/2022/mar/20/sri-lanka-cancels-school-exams-over-paper-shortage-as-financial-crisis-bites)
-- [Ask HN: How would you like to interact with the cloud?](https://news.ycombinator.com/item?id=30749447)
-- [Gas pumps happen to be about as insecure as your typical router](https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/)
-- [On 6G and Trustworthiness](https://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness/fulltext)
-- [Voyager 1 Signal Spotted by Earth Radio Telescopes](https://cdn.mos.cms.futurecdn.net/UnVvotmEGQxCEz5AvbzUmD-970-80.jpg)
-- [Apple Mac Studio: Reviews Reviewed](https://mondaynote.com/apple-mac-studio-reviews-reviewed-605a82420772?gi=a75caf63cb58)
-- [Ask HN: Why do people work at evil megacorps?](https://news.ycombinator.com/item?id=30749346)
-- [Run This Diagnostic to Thoughtfully Build &lpar;and Evaluate&rpar; Your Startup’s Culture](https://review.firstround.com/run-this-diagnostic-to-thoughtfully-build-and-evaluate-your-startups-culture)
-- [Engineering Deep Learning Systems](https://www.manning.com/books/engineering-deep-learning-systems)
+- [Working Across Departments](https://staysaasy.com/startups/2022/02/20/departments.html)
+- [CD Projekt Red will be making games in Unreal Engine 5](https://en.cdprojektred.com/news/a-new-saga-begins/)
+- [The Case for Technosignatures](https://arxiv.org/abs/2203.10899)
+- [Retirement the Margaritaville Way](https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way)
+- [Canada needs to get to 100M people by 2100: BlackRock&#39;s Wiseman](https://www.bnnbloomberg.ca/canada-needs-to-get-to-100-million-people-by-2100-blackrock-s-mark-wiseman-1.1337065)
+- [I’m a scientist from Kenya–not the ‘third world’ or a ‘developing country’](https://www.science.org/content/article/i-m-scientist-kenya-not-third-world-or-developing-country)
+- [Big Tech Tries to Defund the Police](https://mattstoller.substack.com/p/big-tech-tries-to-defund-the-police)
+- [Accessible Rich Internet Applications – ARIA – MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [Before the Fall of the Roman Republic: Income Inequality, Xenophobia](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
+- [How to Build an Evil Compiler](https://www.awelm.com/posts/evil-compiler/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

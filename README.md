@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Please Put Units in Names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
-- [Tell HN: Did you know you can negotiate price on many things?](https://news.ycombinator.com/item?id=30748959)
-- [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
-- [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
-- [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
-- [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
-- [CodeEdit: Building a free, open-source code editor for macOS](https://github.com/CodeEditApp/CodeEdit)
-- [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [LibreTube: Alternative YouTube front end for Android built with Piped](https://f-droid.org/en/packages/com.github.libretube/)
+- [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
+- [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
+- [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
+- [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
+- [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
+- [The GömböC: The object that shouldn&#39;t exist &lpar;2014&rpar;](https://plus.maths.org/content/gomboc-object-barely-exists)
+- [Skio &lpar;subscriptions for Shopify, above market comp&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [React Arborist – A full-featured tree component for React](https://github.com/brimdata/react-arborist)
+- [Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode](https://github.com/jwilk/chemiscripts)
+- [Two-minute battery changes push India’s delivery riders to switch to e-scooters](https://theprint.in/tech/two-minute-battery-changes-push-indias-delivery-riders-to-switch-to-e-scooters/881609/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

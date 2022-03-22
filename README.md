@@ -429,6 +429,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Ericsson names new chief legal officer ahead of its annual general meeting](https://www.itworldcanada.com/article/ericsson-names-new-chief-legal-officer-ahead-of-its-annual-general-meeting/477172)
+- [Cyber Security Today, March 21, 2022 – Poor password hygiene was behind huge TransUnion hack, cyber retaliation against Russia backfires and more](https://www.itworldcanada.com/article/cyber-security-today-march-21-2022-poor-password-hygiene-was-behind-huge-transunion-hack-cyber-retaliation-against-russia-backfires-and-more/477028)
+- [Hashtag Trending March 21 – Robots for long-haul freights; Apple saves billions; Google’s new search history delete feature](https://www.itworldcanada.com/article/hashtag-trending-march-21-robots-for-long-haul-freights-apple-saves-billions-googles-new-search-history-delete-feature/477097)
 - [Cyber Security Today, Week in Review for March 18, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-18-2022/476511)
 - [Database administrators urged to tighten security against RAT](https://www.itworldcanada.com/article/database-administrators-urged-to-tighten-security-against-rat/476595)
 - [Vulnerability discovered in CRI-O container engine for Kubernetes](https://www.itworldcanada.com/article/vulnerability-discovered-in-cri-o-container-engine-for-kubernetes/476588)
@@ -436,9 +439,6 @@
 - [Hashtag Trending March 18 – Tech merger bill; Netflix’s new fee; Amazon wage strikes](https://www.itworldcanada.com/article/hashtag-trending-march-18-tech-merger-bill-netflixs-new-fee-amazon-wage-strikes/476626)
 - [Samsung’s A53 5G smartphone could be this year’s best midrange heavy-hitter](https://www.itworldcanada.com/article/samsungs-a53-5g-smartphone-could-be-this-years-best-midrange-heavy-hitter/476542)
 - [Rogers combines its 5G network with Microsoft Azure to help SMBs enhance customer experience](https://www.itworldcanada.com/article/rogers-combines-its-5g-network-with-microsoft-azure-to-help-smbs-enhance-customer-experience/476510)
-- [Federal government targets “harmful” online disinformation](https://www.itworldcanada.com/article/federal-government-targets-harmful-online-disinformation/476500)
-- [A New Breed of Technology Leader](https://www.itworldcanada.com/article/a-new-breed-of-technology-leader/476374)
-- [Hashtag Trending March 17- Marketers must pay fines for unwanted calls; Tesla hikes prices; University of Alberta protects digital data in Ukraine](https://www.itworldcanada.com/article/hashtag-trending-march-17-marketers-must-pay-fines-for-unwanted-calls-tesla-hikes-prices-university-of-alberta-protects-digital-data-in-ukraine/476450)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

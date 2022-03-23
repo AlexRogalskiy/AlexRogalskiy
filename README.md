@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Converge Networking and Security with Zero-Trust Edge](https://www.informationweek.com/security-and-risk-strategy/converge-networking-and-security-with-zero-trust-edge)
+- [IT Talent Shortage: How to Put AI Scouting Systems to Work](https://www.informationweek.com/software/it-talent-shortage-how-to-put-ai-scouting-systems-to-work)
+- [The Restructuring CIO: Transforming How IT Works](https://www.informationweek.com/strategic-cio/the-restructuring-cio-transforming-how-it-works)
 - [New Tools Measure Green IT, Sustainability Success](https://www.informationweek.com/software/new-tools-measure-green-it-sustainability-success)
 - [Government Is a Data Partner You Might Not Want, But You Have](https://www.informationweek.com/big-data/government-is-a-data-partner-you-might-not-want-but-you-have)
 - [Private 5G Networks Sector Surges with New Services, Investments, and User Trials](https://www.informationweek.com/it-life/private-5g-networks-sector-surges-with-new-services-investments-and-user-trials)
@@ -376,9 +379,6 @@
 - [Automation Is Everywhere. But Where Do You Start?](https://www.informationweek.com/ai-or-machine-learning/automation-is-everywhere-but-where-do-you-start-)
 - [VPNs Give Russians an End Run Around Censorship](https://www.informationweek.com/security-and-risk-strategy/vpns-give-russians-an-end-run-around-censorship)
 - [US Regulators Move to Understand Crypto and Explore Guardrails](https://www.informationweek.com/fintech/us-regulators-move-to-understand-crypto-and-explore-guardrails)
-- [Ukraine Crisis, Rise in Cyberattack Threats Bolster Case for Zero Trust](https://www.informationweek.com/security-and-risk-strategy/ukraine-crisis-rise-in-cyberattack-threats-bolster-case-for-zero-trust)
-- [IT Careers: 10 Things IT Leaders Would Tell Their Kids Today](https://www.informationweek.com/it-life/it-careers-10-things-it-leaders-would-tell-their-kids-today)
-- [The Role CIOs Play in Retaining Employees Amid the Great Resignation](https://www.informationweek.com/strategic-cio/the-role-cios-play-in-retaining-employees-amid-the-great-resignation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

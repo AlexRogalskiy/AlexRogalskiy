@@ -414,9 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Switched to Cybersecurity and feel like it was a huge mistake](https://www.reddit.com/r/InformationTechnology/comments/tkivxe/switched_to_cybersecurity_and_feel_like_it_was_a/)
+- [Getting my first IT job.. all help desk ROLES say WAN/LAN](https://www.reddit.com/r/InformationTechnology/comments/tkidhf/getting_my_first_it_job_all_help_desk_roles_say/)
 - [What&#39;s with the requirements for entry level positions?](https://www.reddit.com/r/InformationTechnology/comments/tjsvd6/whats_with_the_requirements_for_entry_level/)
-- [Full stack web developer |Help| develop powerful modern web applica...](https://www.reddit.com/r/InformationTechnology/comments/tjmhhk/full_stack_web_developer_help_develop_powerful/)
-- [What do you guys use for source/version control?](https://www.reddit.com/r/InformationTechnology/comments/tjmga3/what_do_you_guys_use_for_sourceversion_control/)
 - [How to get into a remote IT role without a bachelors or experience](https://www.reddit.com/r/InformationTechnology/comments/tjd2dm/how_to_get_into_a_remote_it_role_without_a/)
 - [College student seeking to get and IT related job with no previous work experience or certification](https://www.reddit.com/r/InformationTechnology/comments/ticl3a/college_student_seeking_to_get_and_it_related_job/)
 - [Studying a Master in Information Technology after an undergraduate in a different field?](https://www.reddit.com/r/InformationTechnology/comments/ti99ua/studying_a_master_in_information_technology_after/)

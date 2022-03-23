@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Desynchronization of Nickel Production and Consumption](https://www.symmetrybroken.com/nickel-decoupling/)
-- [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
-- [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
-- [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
-- [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
-- [The GömböC: The object that shouldn&#39;t exist &lpar;2014&rpar;](https://plus.maths.org/content/gomboc-object-barely-exists)
-- [Skio &lpar;subscriptions for Shopify, above market comp&rpar; is hiring eng in NYC](https://skio.com/careers/)
-- [React Arborist – A full-featured tree component for React](https://github.com/brimdata/react-arborist)
-- [Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode](https://github.com/jwilk/chemiscripts)
-- [Two-minute battery changes push India’s delivery riders to switch to e-scooters](https://theprint.in/tech/two-minute-battery-changes-push-indias-delivery-riders-to-switch-to-e-scooters/881609/)
+- [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
+- [Honduras Is Not For Sale &lpar;2021&rpar;](https://www.hondurasisnotforsale.org)
+- [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
+- [The AI Research Residency Program](https://huggingface.co/blog/ai-residency)
+- [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
+- [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant &lpar;BCI&rpar;](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819)
+- [Monitorian &lpar;Windows monitor control app&rpar;](https://github.com/emoacht/Monitorian)
+- [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
+- [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

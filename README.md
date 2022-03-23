@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Google Canada announces second cohort for Google Cloud Accelerator for startups](https://www.itworldcanada.com/article/google-canada-announces-second-cohort-for-google-cloud-accelerator-for-startups/477353)
+- [Coffee Briefing March 22, 2022 – new venture fund focuses on national security and critical infrastructure in Canada; new research says Google makes us more likely to forget things; and more](https://www.itworldcanada.com/article/coffee-briefing-march-22-2022-new-venture-fund-focuses-on-national-security-and-critical-infrastructure-in-canada-new-research-says-google-makes-us-more-likely-to-forget-things-and-more/477243)
+- [Lapsus$ claims Microsoft, Okta are its latest victims](https://www.itworldcanada.com/article/lapsus-claims-microsoft-okta-are-its-latest-victims/477303)
+- [US, Canada warn critical infrastructure providers of possible Russian cyber attacks](https://www.itworldcanada.com/article/us-canada-warn-critical-infrastructure-providers-of-possible-russian-cyber-attacks/477206)
+- [Hashtag Trending March 22 – Australia to tackle misinformation; Amazon acquires MGM; DC sues Grubhub](https://www.itworldcanada.com/article/hashtag-trending-march-22-australia-to-tackle-misinformation-amazon-acquires-mgm-dc-sues-grubhub/477258)
+- [Meet Skyhigh Security, the new name for McAfee Enterprise SSE](https://www.itworldcanada.com/article/meet-skyhigh-security-the-new-name-for-mcafee-enterprise-sse/477259)
 - [Ericsson names new chief legal officer ahead of its annual general meeting](https://www.itworldcanada.com/article/ericsson-names-new-chief-legal-officer-ahead-of-its-annual-general-meeting/477172)
 - [Cyber Security Today, March 21, 2022 – Poor password hygiene was behind huge TransUnion hack, cyber retaliation against Russia backfires and more](https://www.itworldcanada.com/article/cyber-security-today-march-21-2022-poor-password-hygiene-was-behind-huge-transunion-hack-cyber-retaliation-against-russia-backfires-and-more/477028)
 - [Hashtag Trending March 21 – Robots for long-haul freights; Apple saves billions; Google’s new search history delete feature](https://www.itworldcanada.com/article/hashtag-trending-march-21-robots-for-long-haul-freights-apple-saves-billions-googles-new-search-history-delete-feature/477097)
 - [Cyber Security Today, Week in Review for March 18, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-18-2022/476511)
-- [Database administrators urged to tighten security against RAT](https://www.itworldcanada.com/article/database-administrators-urged-to-tighten-security-against-rat/476595)
-- [Vulnerability discovered in CRI-O container engine for Kubernetes](https://www.itworldcanada.com/article/vulnerability-discovered-in-cri-o-container-engine-for-kubernetes/476588)
-- [Cyber Security Today, March 18, 2022 – An FBI warning on misconfigured MFA, Asus routers targeted by a botnet, a tool for detecting infected MikroTik routers and more](https://www.itworldcanada.com/article/cyber-security-today-march-18-2022-an-fbi-warning-on-misconfigured-mfa-asus-routers-targeted-by-a-botnet-a-tool-for-detecting-infected-mikrotik-routers-and-more/476534)
-- [Hashtag Trending March 18 – Tech merger bill; Netflix’s new fee; Amazon wage strikes](https://www.itworldcanada.com/article/hashtag-trending-march-18-tech-merger-bill-netflixs-new-fee-amazon-wage-strikes/476626)
-- [Samsung’s A53 5G smartphone could be this year’s best midrange heavy-hitter](https://www.itworldcanada.com/article/samsungs-a53-5g-smartphone-could-be-this-years-best-midrange-heavy-hitter/476542)
-- [Rogers combines its 5G network with Microsoft Azure to help SMBs enhance customer experience](https://www.itworldcanada.com/article/rogers-combines-its-5g-network-with-microsoft-azure-to-help-smbs-enhance-customer-experience/476510)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

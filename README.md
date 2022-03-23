@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Biden issues warning about Russian cyber attacks](https://www.computerweekly.com/news/252514969/Biden-issues-warning-about-Russian-cyber-attacks)
+- [NetApp Cloud Insights gets AI monitoring and ransomware detection](https://www.computerweekly.com/news/252514965/NetApp-Cloud-Insight-gets-AI-monitoring-and-ransomware-detection)
+- [BMW Group adopts HPE GreenLake to improve data management](https://www.computerweekly.com/news/252514939/BMW-Group-adopts-HPE-Greenlake-to-improve-data-management)
+- [Details of Conti ransomware affiliate released](https://www.computerweekly.com/news/252514952/Details-of-Conti-ransomware-affiliate-released)
+- [Weighing up the nuclear option for powering datacentres](https://www.computerweekly.com/feature/Weighing-up-the-nuclear-option-for-powering-datacentres)
+- [Revised scope of UK security strategy reflects digitised society](https://www.computerweekly.com/opinion/Revised-scope-of-UK-security-strategy-reflects-digitised-society)
+- [One year on from IR35 reforms – why IT skills are harder to find](https://www.computerweekly.com/ezine/Computer-Weekly/One-year-on-from-IR35-reforms-why-IT-skills-are-harder-to-find)
+- [Unite calls on Arm to halt job cuts and open up the books](https://www.computerweekly.com/news/252514928/Unite-calls-on-Arm-to-halt-job-cuts-and-open-up-the-books)
 - [Siloed data holding back coordinated health responses](https://www.computerweekly.com/news/252514852/Siloed-data-holding-back-coordinated-health-responses)
 - [DWP Digital launches Birmingham hub](https://www.computerweekly.com/news/252514854/DWP-Digital-launches-Birmingham-hub)
-- [How 2022’s most significant data privacy trends affect your organisation](https://www.computerweekly.com/opinion/How-2022s-most-significant-data-privacy-trends-affect-your-organisation)
-- [UK Cyber Strategy a welcome injection of progress](https://www.computerweekly.com/opinion/UK-Cyber-Strategy-a-welcome-injection-of-progress)
-- [Cloud ERP: Rise of the industry cloud](https://www.computerweekly.com/feature/Cloud-ERP-Rise-of-the-industry-cloud)
-- [University of Reading tracks fruit tree flowering as spring breaks, with Oracle](https://www.computerweekly.com/news/252514818/University-of-Reading-tracks-fruit-tree-flowering-as-Spring-breaks-with-Oracle)
-- [Electronic patient records key to NHS digital transformation](https://www.computerweekly.com/news/252514807/Electronic-Patient-Records-key-to-NHS-digital-transformation)
-- [Dark web littered with Ukraine crypto scammers](https://www.computerweekly.com/news/252514802/Dark-web-littered-with-Ukraine-crypto-scammers)
-- [ERP: Join the dots faster with ready-made ecosystems](https://www.computerweekly.com/opinion/ERP-Join-the-dots-faster-with-ready-made-ecosystems)
-- [Ukrainian cyber defences prove resilient](https://www.computerweekly.com/news/252514798/Ukrainian-cyber-defences-prove-resilient)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

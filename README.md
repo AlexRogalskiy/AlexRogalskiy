@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ex CafePress owner fined $500k for &#39;shoddy&#39; security, covering up data breach](https://www.zdnet.com/article/cafepress-fined-500-million-for-shoddy-security-covering-up-data-breach/)
-- [Predicting the Future [video]](https://www.youtube.com/watch?v=cCijKesekbI)
-- [Ask HN: What are some good alternatives to a 13“ M1 MBP?](https://news.ycombinator.com/item?id=30774220)
-- [Alternatives to Google Products – Pixel Privacy](https://pixelprivacy.com/resources/alternatives-to-google-products/)
-- [New Updated Okta Statement on Lapsus$ &lpar;3/22 6:31 PST Update&rpar;](https://news.ycombinator.com/item?id=30774193)
-- [New Teachers Are Earning 11% Less Than They Were 30 Years Ago](https://myelearningworld.com/new-teacher-pay/)
-- [DC sues Grubhub, claiming its app is full of hidden fees and jacked-up prices](https://www.theverge.com/2022/3/21/22989563/district-of-columbia-karl-racine-grubhub-lawsuit-misleading-fees)
-- [Brain Chemical Helps Signal to Neurons When to Start a Movement](https://www.quantamagazine.org/brain-chemical-helps-signal-to-neurons-when-to-start-a-movement-20220322/)
-- [‘Emotional moment’: locked-in patient communicates with family via implant](https://www.theguardian.com/science/2022/mar/22/emotional-moment-locked-in-patient-communicates-with-family-via-implant)
-- [What the Anti-Work Discourse Gets Wrong](https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/)
+- [Estimating: Stop Trying Harder](https://www.geepawhill.org/2017/07/15/estimating-stop-trying-harder/)
+- [The Science and Practice of a Good Life](https://www.psychologytoday.com/us/blog/the-pursuit-peace/202203/the-science-and-practice-good-life)
+- [Sealed, confidential IBM files from age-discrimination case surface in public](https://www.theregister.com/2022/03/24/confidential_ibm_docs_age_discrimination/)
+- [Novartis receives FDA approval for novel radioligand therapy drug](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-novartis-therapy-prostate-cancer-2022-03-23/)
+- [Machine Learning Reimagines the Building Blocks of Computing](https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/)
+- [Functional Queues](https://vfoley.xyz/functional-queues/)
+- [The Origin and Evolution of Baby Carrots](http://www.carrotmuseum.co.uk/babycarrot.html#full)
+- [The PowerPC Compiler Writer’s Guide [pdf]](https://cr.yp.to/2005-590/powerpc-cwg.pdf)
+- [A method for replacing Python tuple entries](https://lwn.net/SubscriberLink/888945/34d3f1fba1cab360/)
+- [Ask HN: What do you want from the news?](https://news.ycombinator.com/item?id=30785786)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

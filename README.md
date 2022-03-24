@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recovery data software](https://www.reddit.com/r/InformationTechnology/comments/tllucv/recovery_data_software/)
+- [IT job with Green Card](https://www.reddit.com/r/InformationTechnology/comments/tlbcha/it_job_with_green_card/)
+- [What are the most important acronyms in IT for noobs to know?](https://www.reddit.com/r/InformationTechnology/comments/tkmkzy/what_are_the_most_important_acronyms_in_it_for/)
 - [Switched to Cybersecurity and feel like it was a huge mistake](https://www.reddit.com/r/InformationTechnology/comments/tkivxe/switched_to_cybersecurity_and_feel_like_it_was_a/)
 - [Getting my first IT job.. all help desk ROLES say WAN/LAN](https://www.reddit.com/r/InformationTechnology/comments/tkidhf/getting_my_first_it_job_all_help_desk_roles_say/)
 - [What&#39;s with the requirements for entry level positions?](https://www.reddit.com/r/InformationTechnology/comments/tjsvd6/whats_with_the_requirements_for_entry_level/)
@@ -421,9 +424,6 @@
 - [College student seeking to get and IT related job with no previous work experience or certification](https://www.reddit.com/r/InformationTechnology/comments/ticl3a/college_student_seeking_to_get_and_it_related_job/)
 - [Studying a Master in Information Technology after an undergraduate in a different field?](https://www.reddit.com/r/InformationTechnology/comments/ti99ua/studying_a_master_in_information_technology_after/)
 - [Help with frozen phone](https://www.reddit.com/r/InformationTechnology/comments/thrq7q/help_with_frozen_phone/)
-- [Where should i start learning??](https://www.reddit.com/r/InformationTechnology/comments/thiith/where_should_i_start_learning/)
-- [Help! I need a SQL server developer and AdventureWorks database on my Mac](https://www.reddit.com/r/InformationTechnology/comments/thbywd/help_i_need_a_sql_server_developer_and/)
-- [First IT job](https://www.reddit.com/r/InformationTechnology/comments/th31uu/first_it_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

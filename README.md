@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Starlink raises internet service and hardware costs](https://www.itworldcanada.com/article/starlink-raises-internet-service-and-hardware-costs/477518)
+- [Microsoft admits Lapsus$ hacked an employee’s account; provides analysis of group’s tactics](https://www.itworldcanada.com/article/microsoft-admits-lapsus-hacked-an-employees-account-provides-analysis-of-groups-tactics/477489)
+- [Cyber Security Today, March 23, 2022 – Satellite disruption investigated, HP printers need updating, and more](https://www.itworldcanada.com/article/cyber-security-today-march-23-2022-satellite-disruption-investigated-hp-printers-need-updating-and-more/477346)
+- [Okta should have moved faster to understand report on cyber attack, says CSO](https://www.itworldcanada.com/article/okta-should-have-moved-faster-to-understand-report-on-cyber-attack-says-cso/477469)
+- [Making ransom payment no assurance of getting data back: Telus](https://www.itworldcanada.com/article/making-ransom-payment-no-assurance-of-getting-data-back-telus/477202)
+- [Hashtag Trending March 23 – U.S. pays devs well; online scams on the rise; and Ukraine uses Clearview AI facial recognition](https://www.itworldcanada.com/article/hashtag-trending-march-23-u-s-pays-devs-well-online-scams-on-the-rise-and-ukraine-uses-clearview-ai-facial-recognition/477371)
 - [Google Canada announces second cohort for Google Cloud Accelerator for startups](https://www.itworldcanada.com/article/google-canada-announces-second-cohort-for-google-cloud-accelerator-for-startups/477353)
 - [Coffee Briefing March 22, 2022 – new venture fund focuses on national security and critical infrastructure in Canada; new research says Google makes us more likely to forget things; and more](https://www.itworldcanada.com/article/coffee-briefing-march-22-2022-new-venture-fund-focuses-on-national-security-and-critical-infrastructure-in-canada-new-research-says-google-makes-us-more-likely-to-forget-things-and-more/477243)
 - [Lapsus$ claims Microsoft, Okta are its latest victims](https://www.itworldcanada.com/article/lapsus-claims-microsoft-okta-are-its-latest-victims/477303)
 - [US, Canada warn critical infrastructure providers of possible Russian cyber attacks](https://www.itworldcanada.com/article/us-canada-warn-critical-infrastructure-providers-of-possible-russian-cyber-attacks/477206)
-- [Hashtag Trending March 22 – Australia to tackle misinformation; Amazon acquires MGM; DC sues Grubhub](https://www.itworldcanada.com/article/hashtag-trending-march-22-australia-to-tackle-misinformation-amazon-acquires-mgm-dc-sues-grubhub/477258)
-- [Meet Skyhigh Security, the new name for McAfee Enterprise SSE](https://www.itworldcanada.com/article/meet-skyhigh-security-the-new-name-for-mcafee-enterprise-sse/477259)
-- [Ericsson names new chief legal officer ahead of its annual general meeting](https://www.itworldcanada.com/article/ericsson-names-new-chief-legal-officer-ahead-of-its-annual-general-meeting/477172)
-- [Cyber Security Today, March 21, 2022 – Poor password hygiene was behind huge TransUnion hack, cyber retaliation against Russia backfires and more](https://www.itworldcanada.com/article/cyber-security-today-march-21-2022-poor-password-hygiene-was-behind-huge-transunion-hack-cyber-retaliation-against-russia-backfires-and-more/477028)
-- [Hashtag Trending March 21 – Robots for long-haul freights; Apple saves billions; Google’s new search history delete feature](https://www.itworldcanada.com/article/hashtag-trending-march-21-robots-for-long-haul-freights-apple-saves-billions-googles-new-search-history-delete-feature/477097)
-- [Cyber Security Today, Week in Review for March 18, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-march-18-2022/476511)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Walmart to Hire 5K as Tech Job Market Stays Tight](https://www.informationweek.com/strategic-cio/walmart-to-hire-5k-as-tech-job-market-stays-tight)
+- [Virtual Reality Transforms the Workplace](https://www.informationweek.com/big-data/virtual-reality-transforms-the-workplace)
+- [The NetOps Struggle is Real](https://www.informationweek.com/it-life/the-netops-struggle-is-real)
 - [Converge Networking and Security with Zero-Trust Edge](https://www.informationweek.com/security-and-risk-strategy/converge-networking-and-security-with-zero-trust-edge)
 - [IT Talent Shortage: How to Put AI Scouting Systems to Work](https://www.informationweek.com/software/it-talent-shortage-how-to-put-ai-scouting-systems-to-work)
 - [The Restructuring CIO: Transforming How IT Works](https://www.informationweek.com/strategic-cio/the-restructuring-cio-transforming-how-it-works)
@@ -376,9 +379,6 @@
 - [Government Is a Data Partner You Might Not Want, But You Have](https://www.informationweek.com/big-data/government-is-a-data-partner-you-might-not-want-but-you-have)
 - [Private 5G Networks Sector Surges with New Services, Investments, and User Trials](https://www.informationweek.com/it-life/private-5g-networks-sector-surges-with-new-services-investments-and-user-trials)
 - [Brandeis University CIO La Creta Talks Migrating to Workday](https://www.informationweek.com/strategic-cio/brandeis-university-cio-la-creta-talks-migrating-to-workday)
-- [Automation Is Everywhere. But Where Do You Start?](https://www.informationweek.com/ai-or-machine-learning/automation-is-everywhere-but-where-do-you-start-)
-- [VPNs Give Russians an End Run Around Censorship](https://www.informationweek.com/security-and-risk-strategy/vpns-give-russians-an-end-run-around-censorship)
-- [US Regulators Move to Understand Crypto and Explore Guardrails](https://www.informationweek.com/fintech/us-regulators-move-to-understand-crypto-and-explore-guardrails)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

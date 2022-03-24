@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Red Hat OpenShift adds Nvidia, Arm, AI support](https://www.infoworld.com/article/3654749/red-hat-openshift-adds-nvidia-arm-ai-support.html#tk.rss_all)
+- [PDM: A smarter way to manage Python packages](https://www.infoworld.com/article/3654196/pdm-a-smarter-way-to-manage-python-packages.html#tk.rss_all)
 - [Demand for software developers doubled in 2021](https://www.infoworld.com/article/3654480/demand-for-software-developers-doubled-in-2021.html#tk.rss_all)
 - [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
 - [My data killed my cloud project!](https://www.infoworld.com/article/3654182/my-data-killed-my-cloud-project.html#tk.rss_all)
 - [Orchestrating data for machine learning pipelines](https://www.infoworld.com/article/3651453/orchestrating-data-for-machine-learning-pipelines.html#tk.rss_all)
 - [Cloud convenience and open source](https://www.infoworld.com/article/3654271/cloud-convenience-and-open-source.html#tk.rss_all)
-- [Improve agile and app dev meetings](https://www.infoworld.com/article/3654198/improve-agile-and-app-dev-meetings.html#tk.rss_all)
+- [How to improve agile meetings](https://www.infoworld.com/article/3654198/how-to-improve-agile-meetings.html#tk.rss_all)
 - [Microsoft revs up regex source generation in .NET 7](https://www.infoworld.com/article/3654154/microsoft-revs-up-regex-source-generation-in-net-7.html#tk.rss_all)
 - [What happened to performance engineering in the cloud?](https://www.infoworld.com/article/3654295/what-happened-to-performance-engineering-in-the-cloud.html#tk.rss_all)
-- [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_all)
-- [Oracle OCI compute, storage, networking tools aim to cut cloud complexity](https://www.infoworld.com/article/3654296/oracle-oci-compute-storage-networking-tools-aim-to-cut-cloud-complexity.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

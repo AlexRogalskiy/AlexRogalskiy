@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple acquires UK fintech startup Credit Kudos](https://www.computerworld.com/article/3654908/apple-acquires-uk-fintech-startup-credit-kudos.html#tk.rss_all)
+- [Jamf introduces essential Apple admin tools for SMBs](https://www.computerworld.com/article/3654491/jamf-introduces-essential-apple-admin-tools-for-smbs.html#tk.rss_all)
+- [BrandPost: Security Priorities for 2022: What Small and Midsize Businesses Need to Know](https://www.computerworld.com/article/3654277/security-priorities-for-2022-what-small-and-midsize-businesses-need-to-know.html#tk.rss_all)
+- [BlueJeans enters virtual corporate learning space](https://www.computerworld.com/article/3654481/bluejeans-enters-the-virtual-corporate-learning-space.html#tk.rss_all)
+- [Cisco: Your Webex meeting could soon be behind the wheel](https://www.computerworld.com/article/3654306/cisco-your-next-webex-meeting-could-be-behind-the-wheel.html#tk.rss_all)
+- [A fascinating twist at the intersection of Android and Chrome OS](https://www.computerworld.com/article/3654158/android-chrome-os-intersection.html#tk.rss_all)
 - [iCloud goes down: Live by the service, die by the service](https://www.computerworld.com/article/3654275/icloud-goes-down-live-by-the-service-die-by-the-service.html#tk.rss_all)
 - [Google Sheets cheat sheet: How to get started](https://www.computerworld.com/article/3431382/how-to-use-google-sheets.html#tk.rss_all)
 - [You can&#39;t keep quiet when you&#39;re hacked anymore](https://www.computerworld.com/article/3654178/you-cant-keep-quiet-when-youre-hacked-anymore.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Microsoft, its partners, and the ‘last-mile problem’](https://www.computerworld.com/article/3654474/microsoft-its-partners-and-the-last-mile-problem.html#tk.rss_all)
-- [Review: The iPad Air 5 remains the most versatile Apple tablet](https://www.computerworld.com/article/3654473/review-the-ipad-air-5-remains-the-most-versatile-apple-tablet.html#tk.rss_all)
-- [Enterprise AR will be dominated by Apple and Magic Leap](https://www.computerworld.com/article/3654197/enterprise-ar-will-be-dominated-by-apple-and-magic-leap.html#tk.rss_all)
-- [As high-tech firms lead the return to office, leasing rates hit positive territory](https://www.computerworld.com/article/3654212/as-high-tech-firms-lead-the-return-to-office-leasing-rates-hit-positive-territory.html#tk.rss_all)
-- [Do svidaniya, Kaspersky — goodbye](https://www.computerworld.com/article/3654149/do-svidaniya-kaspersky-goodbye.html#tk.rss_all)
-- [Podcast: Foxconn’s factory shutdown, Mac Studio review and iOS 15.4](https://www.computerworld.com/article/3654194/foxconn-s-factory-shutdown-mac-studio-review-and-ios-15-4.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

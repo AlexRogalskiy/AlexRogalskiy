@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Umbrella company Workwell refutes contractor’s ‘withheld holiday pay’ claim](https://www.computerweekly.com/news/252514997/Umbrella-company-Workwell-refutes-contractors-withheld-holiday-pay-claim)
+- [Private equity house spins SSE company out of McAfee Enterprise](https://www.computerweekly.com/news/252514998/Private-equity-house-spins-SSE-company-out-of-McAfee-Enterprise)
+- [Spring Statement: Chancellor expands R&amp;D tax relief to cloud computing and storage](https://www.computerweekly.com/news/252515001/Spring-Statement-Chancellor-expands-RD-tax-relief-to-cloud-computing-and-storage)
+- [Chinese state media use Facebook to push pro-Russia disinformation on Ukraine war](https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war)
 - [Biden issues warning about Russian cyber attacks](https://www.computerweekly.com/news/252514969/Biden-issues-warning-about-Russian-cyber-attacks)
 - [NetApp Cloud Insights gets AI monitoring and ransomware detection](https://www.computerweekly.com/news/252514965/NetApp-Cloud-Insight-gets-AI-monitoring-and-ransomware-detection)
 - [BMW Group adopts HPE GreenLake to improve data management](https://www.computerweekly.com/news/252514939/BMW-Group-adopts-HPE-Greenlake-to-improve-data-management)
 - [Details of Conti ransomware affiliate released](https://www.computerweekly.com/news/252514952/Details-of-Conti-ransomware-affiliate-released)
 - [Weighing up the nuclear option for powering datacentres](https://www.computerweekly.com/feature/Weighing-up-the-nuclear-option-for-powering-datacentres)
 - [Revised scope of UK security strategy reflects digitised society](https://www.computerweekly.com/opinion/Revised-scope-of-UK-security-strategy-reflects-digitised-society)
-- [One year on from IR35 reforms – why IT skills are harder to find](https://www.computerweekly.com/ezine/Computer-Weekly/One-year-on-from-IR35-reforms-why-IT-skills-are-harder-to-find)
-- [Unite calls on Arm to halt job cuts and open up the books](https://www.computerweekly.com/news/252514928/Unite-calls-on-Arm-to-halt-job-cuts-and-open-up-the-books)
-- [Siloed data holding back coordinated health responses](https://www.computerweekly.com/news/252514852/Siloed-data-holding-back-coordinated-health-responses)
-- [DWP Digital launches Birmingham hub](https://www.computerweekly.com/news/252514854/DWP-Digital-launches-Birmingham-hub)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
-- [Honduras Is Not For Sale &lpar;2021&rpar;](https://www.hondurasisnotforsale.org)
-- [Old imageshack images have a 1:5 chance of showing a Ukranian flag](https://lucb1e.com/randomprojects/crapware/nowarmaybe.html)
-- [The AI Research Residency Program](https://huggingface.co/blog/ai-residency)
-- [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
-- [Completely Locked-In Patients Can Communicate, Thanks to a Brain Implant &lpar;BCI&rpar;](https://www.technologynetworks.com/neuroscience/news/for-the-first-time-a-completely-locked-in-patient-can-communicate-thanks-to-brain-implant-359819)
-- [Monitorian &lpar;Windows monitor control app&rpar;](https://github.com/emoacht/Monitorian)
-- [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
-- [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
+- [But life had other plans](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
+- [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
+- [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
+- [What’s a fire and why does it burn? &lpar;2016&rpar;](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
+- [John Roach, Pioneer of the Personal Computer, Has Died](https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html)
+- [Mozilla’s Vision for the Evolution of the Web](https://webvision.mozilla.org/full/)
+- [Scooping the Loop Snooper &lpar;2000&rpar;](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
+- [Finley &lpar;YC W21&rpar; is hiring to build B2B fintech software &lpar;remote&rpar;](https://www.finleycms.com/careers/)
+- [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
+- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

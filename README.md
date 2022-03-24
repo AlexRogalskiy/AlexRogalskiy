@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: humanitarian convoy seized near Mariupol, says Zelenskiy, as he decries ‘constant bombing’ of city](https://www.theguardian.com/world/live/2022/mar/22/russia-ukraine-war-zelenskiy-urges-talks-with-putin-biden-flags-clear-sign-russia-considering-chemical-weapons-live)
-- [Ash Barty announces shock retirement from tennis at 25](https://www.theguardian.com/sport/2022/mar/23/ash-barty-announces-shock-retirement-from-tennis-at-25)
-- [Russia-Ukraine war: what we know on day 28 of the invasion](https://www.theguardian.com/world/2022/mar/23/russia-ukraine-war-what-we-know-on-day-28-of-the-invasion)
-- [Tornado hits New Orleans as major system kills one person in Texas](https://www.theguardian.com/world/2022/mar/22/tornado-new-orleans-texas-oklahoma-storm-latest)
-- [BuzzFeed offers buyouts to news division in effort to increase profitability](https://www.theguardian.com/media/2022/mar/22/buzzfeed-news-job-cuts-buyouts-profitability)
-- [China Eastern Airlines crash: severe damage makes it ‘very difficult’ to find cause – aviation chief](https://www.theguardian.com/world/2022/mar/23/china-eastern-airlines-crash-severe-damage-makes-it-very-difficult-to-find-cause-aviation-chief)
-- [A fifth of children in care self-harmed during pandemic, research finds](https://www.theguardian.com/society/2022/mar/23/a-fifth-of-children-in-care-self-harmed-during-pandemic-research-finds)
-- [Alexia Putellas puts Barcelona in charge after early setback against Real Madrid](https://www.theguardian.com/football/2022/mar/22/real-madrid-barcelona-womens-champions-league-quarter-final-first-leg-match-report)
-- [Fundraise or die: how Fijians are crowdfunding lifesaving kidney treatment](https://www.theguardian.com/world/2022/mar/23/fundraise-or-die-how-fijians-are-crowdfunding-lifesaving-kidney-treatment)
-- [The Simpler Life review – you have to laugh at this reality show’s nonsense concept](https://www.theguardian.com/tv-and-radio/2022/mar/22/the-simpler-life-review-you-have-to-laugh-at-this-reality-shows-nonsense-concept)
+- [Pakistan v England: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/24/pakistan-vs-england-icc-womens-cricket-world-cup-2022-pak-v-eng-live-updates)
+- [Russia-Ukraine war latest news: Zelenskiy expects ‘meaningful steps’ at Nato, EU and G7 summits – live](https://www.theguardian.com/world/live/2022/mar/23/russia-ukraine-war-humanitarian-convoy-seized-near-mariupol-says-zelenskiy-as-he-decries-constant-bombing-of-city)
+- [Daniel Johns checks into rehabilitation centre after car accident](https://www.theguardian.com/global/2022/mar/24/silverchair-singer-daniel-johns-checks-into-rehabilitation-centre-after-car-accident)
+- [Ketanji Brown Jackson faces renewed Republican attacks in Senate grilling](https://www.theguardian.com/us-news/2022/mar/23/ketanji-brown-jackson-senate-questioning-second-round-republicans)
+- [Russia-Ukraine war: what we know on day 29 of the invasion](https://www.theguardian.com/world/2022/mar/24/russia-ukraine-war-what-we-know-on-day-29-of-the-invasion)
+- [Washington joins nine other states in restricting gun magazine capacity size](https://www.theguardian.com/us-news/2022/mar/23/washington-gun-control-bills-jay-inslee)
+- [Ukrainian orphans en route to Scotland after landing in UK](https://www.theguardian.com/world/2022/mar/24/ukrainian-orphans-en-route-to-scotland-after-landing-in-uk)
+- [Matt Hancock failed to disclose messages with Owen Paterson over Covid contracts](https://www.theguardian.com/politics/2022/mar/24/matt-hancock-failed-to-disclose-messages-with-owen-paterson-over-covid-contracts)
+- [Merseyside’s new Shakespeare theatre opens by celebrating builders and footballers](https://www.theguardian.com/stage/2022/mar/24/shakespeare-north-playhouse-open-jimmy-mcgovern-johnny-vegas)
+- [Straight Line Crazy review – Ralph Fiennes enthrals as the man who shaped New York](https://www.theguardian.com/stage/2022/mar/24/straight-line-crazy-review-ralph-fiennes-bridge-theatre-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CRTC agrees to let Rogers buy Shaw’s broadcasting services](https://www.itworldcanada.com/article/crtc-agrees-to-let-rogers-buy-shaws-broadcasting-services/477688)
+- [Studies reveal that full-stack observability and automation adoption are priorities for businesses in 2022](https://www.itworldcanada.com/article/studies-reveal-that-full-stack-observability-and-automation-adoption-are-priorities-for-businesses-in-2022/477636)
+- [Seven in UK arrested, allegedly linked to Lapsus$: News reports](https://www.itworldcanada.com/article/seven-in-uk-arrested-allegedly-linked-to-lapsus-news-reports/477647)
+- [MAPLESEC panel: Incident response teams should expect the unexpected](https://www.itworldcanada.com/article/maplesec-panel-incident-response-teams-should-expect-the-unexpected/477635)
+- [Telus is upping its fixed wireless Internet speed game in rural communities across B.C. and Alberta](https://www.itworldcanada.com/article/telus-is-upping-its-fixed-wireless-internet-speed-game-in-rural-communities-across-b-c-and-alberta/477505)
+- [Canada’s SecureKey to be bought by Avast](https://www.itworldcanada.com/article/canadas-securekey-to-be-bought-by-avast/477594)
+- [Hashtag Trending March 24 – Microsoft attacked by Lapsu$; EU wants more stringent cybersecurity rules; YouTube offers free TV with ads](https://www.itworldcanada.com/article/hashtag-trending-march-24-microsoft-attacked-by-lapsu-eu-wants-more-stringent-cybersecurity-rules-youtube-offers-free-tv-with-ads/477600)
 - [Starlink raises internet service and hardware costs](https://www.itworldcanada.com/article/starlink-raises-internet-service-and-hardware-costs/477518)
 - [Microsoft admits Lapsus$ hacked an employee’s account; provides analysis of group’s tactics](https://www.itworldcanada.com/article/microsoft-admits-lapsus-hacked-an-employees-account-provides-analysis-of-groups-tactics/477489)
 - [Cyber Security Today, March 23, 2022 – Satellite disruption investigated, HP printers need updating, and more](https://www.itworldcanada.com/article/cyber-security-today-march-23-2022-satellite-disruption-investigated-hp-printers-need-updating-and-more/477346)
-- [Okta should have moved faster to understand report on cyber attack, says CSO](https://www.itworldcanada.com/article/okta-should-have-moved-faster-to-understand-report-on-cyber-attack-says-cso/477469)
-- [Making ransom payment no assurance of getting data back: Telus](https://www.itworldcanada.com/article/making-ransom-payment-no-assurance-of-getting-data-back-telus/477202)
-- [Hashtag Trending March 23 – U.S. pays devs well; online scams on the rise; and Ukraine uses Clearview AI facial recognition](https://www.itworldcanada.com/article/hashtag-trending-march-23-u-s-pays-devs-well-online-scams-on-the-rise-and-ukraine-uses-clearview-ai-facial-recognition/477371)
-- [Google Canada announces second cohort for Google Cloud Accelerator for startups](https://www.itworldcanada.com/article/google-canada-announces-second-cohort-for-google-cloud-accelerator-for-startups/477353)
-- [Coffee Briefing March 22, 2022 – new venture fund focuses on national security and critical infrastructure in Canada; new research says Google makes us more likely to forget things; and more](https://www.itworldcanada.com/article/coffee-briefing-march-22-2022-new-venture-fund-focuses-on-national-security-and-critical-infrastructure-in-canada-new-research-says-google-makes-us-more-likely-to-forget-things-and-more/477243)
-- [Lapsus$ claims Microsoft, Okta are its latest victims](https://www.itworldcanada.com/article/lapsus-claims-microsoft-okta-are-its-latest-victims/477303)
-- [US, Canada warn critical infrastructure providers of possible Russian cyber attacks](https://www.itworldcanada.com/article/us-canada-warn-critical-infrastructure-providers-of-possible-russian-cyber-attacks/477206)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

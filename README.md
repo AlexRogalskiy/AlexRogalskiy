@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Is Apple&#39;s macOS Monterey 12.3 beta haunted?](https://www.computerworld.com/article/3655088/is-apples-macos-monterey-123-beta-haunted.html#tk.rss_all)
+- [Nvidia GTC: Building the digital you](https://www.computerworld.com/article/3655068/nvidia-gtc-building-the-digital-you.html#tk.rss_all)
+- [10 easy steps to make Chrome faster and more secure](https://www.computerworld.com/article/3453843/easy-steps-to-make-chrome-faster-and-more-secure.html#tk.rss_all)
+- [The trouble with hybrid work](https://www.computerworld.com/article/3654214/the-trouble-with-hybrid-work.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple acquires UK fintech startup Credit Kudos](https://www.computerworld.com/article/3654908/apple-acquires-uk-fintech-startup-credit-kudos.html#tk.rss_all)
 - [Jamf introduces essential Apple admin tools for SMBs](https://www.computerworld.com/article/3654491/jamf-introduces-essential-apple-admin-tools-for-smbs.html#tk.rss_all)
 - [BrandPost: Security Priorities for 2022: What Small and Midsize Businesses Need to Know](https://www.computerworld.com/article/3654277/security-priorities-for-2022-what-small-and-midsize-businesses-need-to-know.html#tk.rss_all)
 - [BlueJeans enters virtual corporate learning space](https://www.computerworld.com/article/3654481/bluejeans-enters-the-virtual-corporate-learning-space.html#tk.rss_all)
-- [Cisco: Your Webex meeting could soon be behind the wheel](https://www.computerworld.com/article/3654306/cisco-your-next-webex-meeting-could-be-behind-the-wheel.html#tk.rss_all)
-- [A fascinating twist at the intersection of Android and Chrome OS](https://www.computerworld.com/article/3654158/android-chrome-os-intersection.html#tk.rss_all)
-- [iCloud goes down: Live by the service, die by the service](https://www.computerworld.com/article/3654275/icloud-goes-down-live-by-the-service-die-by-the-service.html#tk.rss_all)
-- [Google Sheets cheat sheet: How to get started](https://www.computerworld.com/article/3431382/how-to-use-google-sheets.html#tk.rss_all)
-- [You can&#39;t keep quiet when you&#39;re hacked anymore](https://www.computerworld.com/article/3654178/you-cant-keep-quiet-when-youre-hacked-anymore.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

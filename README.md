@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [But life had other plans](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
-- [Beauty and wonder of science boosts researchers’ well-being](https://www.nature.com/articles/d41586-022-00762-8)
-- [A Closer Look at the Lapsus$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/)
-- [What’s a fire and why does it burn? &lpar;2016&rpar;](https://qchu.wordpress.com/2016/05/26/whats-a-fire-and-why-does-it-whats-the-word-burn/)
-- [John Roach, Pioneer of the Personal Computer, Has Died](https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html)
-- [Mozilla’s Vision for the Evolution of the Web](https://webvision.mozilla.org/full/)
-- [Scooping the Loop Snooper &lpar;2000&rpar;](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
-- [Finley &lpar;YC W21&rpar; is hiring to build B2B fintech software &lpar;remote&rpar;](https://www.finleycms.com/careers/)
-- [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
-- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+- [Meditation – Saint Christopher&#39;s Blog](https://lovehumanity.gitlab.io/meditation/)
+- [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
+- [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
+- [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
+- [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
+- [The end of the nice GTK button](https://blog.brixit.nl/the-end-of-the-nice-gtk-button/)
+- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- [Applebee’s exec urges using high gas prices to push lower wages, sparks walkout](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
+- [Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://github.com/porsager/postgres)
+- [Reddit&#39;s website uses DRM for fingerprinting &lpar;2020&rpar;](https://smitop.com/post/reddit-whiteops/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

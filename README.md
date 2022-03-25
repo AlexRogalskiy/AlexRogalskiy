@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Anonymous claims it has hacked the Central Bank of Russia](https://www.computerweekly.com/news/252515064/Anonymous-claims-it-has-hacked-the-Central-Bank-of-Russia)
+- [Ransomware demands and payments increase with use of leak sites](https://www.computerweekly.com/news/252515058/Ransomware-demands-and-payments-increase-with-use-of-leak-sites)
+- [Trainline readies for fresh challenges from launch of Great British Railways](https://www.computerweekly.com/news/252514967/Trainline-readies-for-fresh-challenges-from-launch-of-Great-British-Railways)
+- [Why you need soft skills to excel in your tech career](https://www.computerweekly.com/feature/Why-you-need-soft-skills-to-excel-in-your-tech-career)
+- [Unipart maps way ahead with Rise with SAP service](https://www.computerweekly.com/news/252515054/Unipart-maps-way-ahead-with-Rise-with-SAP-service)
+- [The Security Interviews: Red gets automated](https://www.computerweekly.com/news/252514941/The-Security-interviews-Red-gets-automated)
+- [CIO interview: Craig York, CTO, Milton Keynes University Hospital](https://www.computerweekly.com/news/252514851/CIO-interview-Craig-York-CTO-Milton-Keynes-University-Hospital)
+- [Ad agency slashes NetApp costs with Datadobi data migration](https://www.computerweekly.com/news/252515014/Ad-agency-slashes-NetApp-costs-with-Datadobi-data-migration)
+- [Hiring and retention challenges in cyber security persist](https://www.computerweekly.com/news/252515016/Hiring-and-retention-challenges-in-cyber-security-persist)
 - [Umbrella company Workwell refutes contractor’s ‘withheld holiday pay’ claim](https://www.computerweekly.com/news/252514997/Umbrella-company-Workwell-refutes-contractors-withheld-holiday-pay-claim)
-- [Private equity house spins SSE company out of McAfee Enterprise](https://www.computerweekly.com/news/252514998/Private-equity-house-spins-SSE-company-out-of-McAfee-Enterprise)
-- [Spring Statement: Chancellor expands R&amp;D tax relief to cloud computing and storage](https://www.computerweekly.com/news/252515001/Spring-Statement-Chancellor-expands-RD-tax-relief-to-cloud-computing-and-storage)
-- [Chinese state media use Facebook to push pro-Russia disinformation on Ukraine war](https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war)
-- [Biden issues warning about Russian cyber attacks](https://www.computerweekly.com/news/252514969/Biden-issues-warning-about-Russian-cyber-attacks)
-- [NetApp Cloud Insights gets AI monitoring and ransomware detection](https://www.computerweekly.com/news/252514965/NetApp-Cloud-Insight-gets-AI-monitoring-and-ransomware-detection)
-- [BMW Group adopts HPE GreenLake to improve data management](https://www.computerweekly.com/news/252514939/BMW-Group-adopts-HPE-Greenlake-to-improve-data-management)
-- [Details of Conti ransomware affiliate released](https://www.computerweekly.com/news/252514952/Details-of-Conti-ransomware-affiliate-released)
-- [Weighing up the nuclear option for powering datacentres](https://www.computerweekly.com/feature/Weighing-up-the-nuclear-option-for-powering-datacentres)
-- [Revised scope of UK security strategy reflects digitised society](https://www.computerweekly.com/opinion/Revised-scope-of-UK-security-strategy-reflects-digitised-society)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

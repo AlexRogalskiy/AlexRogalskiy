@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Supply Chain Strategies: 3D Printing Our Way Out of Russia’s War](https://www.informationweek.com/software/supply-chain-strategies-3d-printing-our-way-out-of-russia-s-war)
+- [How To Get Workers On Board With AI](https://www.informationweek.com/ai-or-machine-learning/how-to-get-workers-on-board-with-ai)
 - [Walmart to Hire 5K as Tech Job Market Stays Tight](https://www.informationweek.com/strategic-cio/walmart-to-hire-5k-as-tech-job-market-stays-tight)
 - [Virtual Reality Transforms the Workplace](https://www.informationweek.com/big-data/virtual-reality-transforms-the-workplace)
 - [The NetOps Struggle is Real](https://www.informationweek.com/it-life/the-netops-struggle-is-real)
@@ -377,8 +379,6 @@
 - [The Restructuring CIO: Transforming How IT Works](https://www.informationweek.com/strategic-cio/the-restructuring-cio-transforming-how-it-works)
 - [New Tools Measure Green IT, Sustainability Success](https://www.informationweek.com/software/new-tools-measure-green-it-sustainability-success)
 - [Government Is a Data Partner You Might Not Want, But You Have](https://www.informationweek.com/big-data/government-is-a-data-partner-you-might-not-want-but-you-have)
-- [Private 5G Networks Sector Surges with New Services, Investments, and User Trials](https://www.informationweek.com/it-life/private-5g-networks-sector-surges-with-new-services-investments-and-user-trials)
-- [Brandeis University CIO La Creta Talks Migrating to Workday](https://www.informationweek.com/strategic-cio/brandeis-university-cio-la-creta-talks-migrating-to-workday)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

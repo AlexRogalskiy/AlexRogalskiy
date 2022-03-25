@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Estimating: Stop Trying Harder](https://www.geepawhill.org/2017/07/15/estimating-stop-trying-harder/)
-- [The Science and Practice of a Good Life](https://www.psychologytoday.com/us/blog/the-pursuit-peace/202203/the-science-and-practice-good-life)
-- [Sealed, confidential IBM files from age-discrimination case surface in public](https://www.theregister.com/2022/03/24/confidential_ibm_docs_age_discrimination/)
-- [Novartis receives FDA approval for novel radioligand therapy drug](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-novartis-therapy-prostate-cancer-2022-03-23/)
-- [Machine Learning Reimagines the Building Blocks of Computing](https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/)
-- [Functional Queues](https://vfoley.xyz/functional-queues/)
-- [The Origin and Evolution of Baby Carrots](http://www.carrotmuseum.co.uk/babycarrot.html#full)
-- [The PowerPC Compiler Writer’s Guide [pdf]](https://cr.yp.to/2005-590/powerpc-cwg.pdf)
-- [A method for replacing Python tuple entries](https://lwn.net/SubscriberLink/888945/34d3f1fba1cab360/)
-- [Ask HN: What do you want from the news?](https://news.ycombinator.com/item?id=30785786)
+- [Ask HN: Aren&#39;t most startups wasting money on AWS when they don&#39;t need it?](https://news.ycombinator.com/item?id=30798068)
+- [Who Was Agent 355?](https://www.smithsonianmag.com/history/the-myth-of-agent-355-the-woman-spy-who-supposedly-helped-win-the-revolutionary-war-180979748/)
+- [Light Pillar](https://en.wikipedia.org/wiki/Light_pillar)
+- [Junior at Harvard looking for summer internships](https://news.ycombinator.com/item?id=30798054)
+- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
+- [UK Cops Arrest 7 Suspected Lapsus$ Gang Members](https://threatpost.com/uk-cops-collar-7-suspected-lapsus-gang-members/179098/)
+- [Europe says yes to messaging interoperability](https://techcrunch.com/2022/03/24/dma-political-agreement/)
+- [Deepmind Alphafold: A Gift to Humanity](https://www.youtube.com/watch?v=FYVf0bRgO5Q)
+- [Ask HN: What&#39;s a developer experience issue at work that makes you want to quit?](https://news.ycombinator.com/item?id=30797963)
+- [To Infinity and Beyond](https://continuations.com/post/679636085735882752/to-infinity-and-beyond)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pakistan v England: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/24/pakistan-vs-england-icc-womens-cricket-world-cup-2022-pak-v-eng-live-updates)
-- [Russia-Ukraine war latest news: Zelenskiy expects ‘meaningful steps’ at Nato, EU and G7 summits – live](https://www.theguardian.com/world/live/2022/mar/23/russia-ukraine-war-humanitarian-convoy-seized-near-mariupol-says-zelenskiy-as-he-decries-constant-bombing-of-city)
-- [Daniel Johns checks into rehabilitation centre after car accident](https://www.theguardian.com/global/2022/mar/24/silverchair-singer-daniel-johns-checks-into-rehabilitation-centre-after-car-accident)
-- [Ketanji Brown Jackson faces renewed Republican attacks in Senate grilling](https://www.theguardian.com/us-news/2022/mar/23/ketanji-brown-jackson-senate-questioning-second-round-republicans)
-- [Russia-Ukraine war: what we know on day 29 of the invasion](https://www.theguardian.com/world/2022/mar/24/russia-ukraine-war-what-we-know-on-day-29-of-the-invasion)
-- [Washington joins nine other states in restricting gun magazine capacity size](https://www.theguardian.com/us-news/2022/mar/23/washington-gun-control-bills-jay-inslee)
-- [Ukrainian orphans en route to Scotland after landing in UK](https://www.theguardian.com/world/2022/mar/24/ukrainian-orphans-en-route-to-scotland-after-landing-in-uk)
-- [Matt Hancock failed to disclose messages with Owen Paterson over Covid contracts](https://www.theguardian.com/politics/2022/mar/24/matt-hancock-failed-to-disclose-messages-with-owen-paterson-over-covid-contracts)
-- [Merseyside’s new Shakespeare theatre opens by celebrating builders and footballers](https://www.theguardian.com/stage/2022/mar/24/shakespeare-north-playhouse-open-jimmy-mcgovern-johnny-vegas)
-- [Straight Line Crazy review – Ralph Fiennes enthrals as the man who shaped New York](https://www.theguardian.com/stage/2022/mar/24/straight-line-crazy-review-ralph-fiennes-bridge-theatre-london)
+- [Mexico v USA: World Cup 2022 qualifying – live!](https://www.theguardian.com/football/live/2022/mar/24/mexico-v-usa-world-cup-2022-qualifying-live-score-soccer)
+- [Bangladesh v Australia: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/25/bangladesh-vs-australia-icc-womens-cricket-world-cup-2022-ban-v-aus-live-updates)
+- [Ukraine war latest news: Russia running out of precision guided missiles, Pentagon claims; Kyiv and Moscow exchange prisoners – live](https://www.theguardian.com/world/live/2022/mar/24/russia-ukraine-war-latest-news-zelenskiy-expects-meaningful-steps-at-nato-eu-and-g7-summits-live)
+- [US volunteers reach the frontline of the war in Ukraine](https://www.theguardian.com/world/2022/mar/25/us-volunteers-reach-the-frontline-of-the-war-in-ukraine)
+- [Man accused of smuggling 1,700 reptiles from Mexico and Hong Kong](https://www.theguardian.com/us-news/2022/mar/24/california-man-smuggled-1700-reptiles)
+- [I have been unhappy about a friendship of over 55 years. Why do I still put up with her? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/mar/25/i-have-been-unhappy-about-a-friendship-of-over-55-years-why-do-i-still-put-up-with-her)
+- [Emma Raducanu’s struggles continue with loss to Katerina Siniakova in Miami](https://www.theguardian.com/sport/2022/mar/24/emma-raducanus-struggles-continue-with-loss-to-katerina-siniakova-in-miami)
+- [Man dies after light aircraft crashes at airfield in north Suffolk](https://www.theguardian.com/uk-news/2022/mar/24/man-dies-after-light-aircraft-crashes-at-airfield-in-north-suffolk)
+- [North Korea confirms missile testing and says Kim Jong-un oversaw launch](https://www.theguardian.com/world/2022/mar/24/n-korea-confirms-missile-testing-ahead-of-long-confrontation-with-us)
+- [UK government vows 10-fold increase in electric car chargers by 2030](https://www.theguardian.com/politics/2022/mar/24/uk-government-vows-10-fold-increase-in-electric-car-chargers-by-2030)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

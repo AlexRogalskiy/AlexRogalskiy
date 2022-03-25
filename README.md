@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [DataStax adds real-time data streaming to managed AstraDB service](https://www.infoworld.com/article/3654889/datastax-adds-real-time-data-streaming-to-managed-astradb-service.html#tk.rss_all)
+- [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_all)
+- [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_all)
 - [Red Hat OpenShift adds Nvidia, Arm, AI support](https://www.infoworld.com/article/3654749/red-hat-openshift-adds-nvidia-arm-ai-support.html#tk.rss_all)
 - [PDM: A smarter way to manage Python packages](https://www.infoworld.com/article/3654196/pdm-a-smarter-way-to-manage-python-packages.html#tk.rss_all)
 - [Demand for software developers doubled in 2021](https://www.infoworld.com/article/3654480/demand-for-software-developers-doubled-in-2021.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [My data killed my cloud project!](https://www.infoworld.com/article/3654182/my-data-killed-my-cloud-project.html#tk.rss_all)
 - [Orchestrating data for machine learning pipelines](https://www.infoworld.com/article/3651453/orchestrating-data-for-machine-learning-pipelines.html#tk.rss_all)
 - [Cloud convenience and open source](https://www.infoworld.com/article/3654271/cloud-convenience-and-open-source.html#tk.rss_all)
-- [How to improve agile meetings](https://www.infoworld.com/article/3654198/how-to-improve-agile-meetings.html#tk.rss_all)
-- [Microsoft revs up regex source generation in .NET 7](https://www.infoworld.com/article/3654154/microsoft-revs-up-regex-source-generation-in-net-7.html#tk.rss_all)
-- [What happened to performance engineering in the cloud?](https://www.infoworld.com/article/3654295/what-happened-to-performance-engineering-in-the-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

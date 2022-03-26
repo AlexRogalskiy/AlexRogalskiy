@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [US offers concessions on surveillance and privacy as EU and US agree successor to Privacy Shield](https://www.computerweekly.com/news/252515146/US-offers-concessions-on-surveillance-and-privacy-as-EU-and-US-agree-successor-to-Privacy-Shield)
+- [European Commission proposes new cyber security regulations](https://www.computerweekly.com/news/252515140/European-Commission-proposes-new-cyber-security-regulations)
+- [London police arrest seven in connection to Lapsus$](https://www.computerweekly.com/news/252515139/London-police-arrest-seven-in-connection-to-Lapsus)
+- [Telehouse’s takeover of Thomson Reuters Docklands datacentre brings more colo capacity to London](https://www.computerweekly.com/news/252515073/Telehouses-takeover-of-Thomson-Reuters-Docklands-datacentre-brings-more-colo-capacity-to-London)
+- [NHS advances digital trials with high-tech mobile health clinic](https://www.computerweekly.com/news/252515113/NHS-advances-digital-trials-with-high-tech-mobile-health-clinic)
+- [How Lapsus$ exploited the failings of multifactor authentication](https://www.computerweekly.com/news/252515111/How-Lapsus-exploited-the-failings-of-multifactor-authentication)
+- [More than 300 new hyperscale datacentres in development globally](https://www.computerweekly.com/news/252515075/More-than-300-new-hyperscale-datacentres-in-development-globally)
 - [Anonymous claims it has hacked the Central Bank of Russia](https://www.computerweekly.com/news/252515064/Anonymous-claims-it-has-hacked-the-Central-Bank-of-Russia)
 - [Ransomware demands and payments increase with use of leak sites](https://www.computerweekly.com/news/252515058/Ransomware-demands-and-payments-increase-with-use-of-leak-sites)
 - [Trainline readies for fresh challenges from launch of Great British Railways](https://www.computerweekly.com/news/252514967/Trainline-readies-for-fresh-challenges-from-launch-of-Great-British-Railways)
-- [Why you need soft skills to excel in your tech career](https://www.computerweekly.com/feature/Why-you-need-soft-skills-to-excel-in-your-tech-career)
-- [Unipart maps way ahead with Rise with SAP service](https://www.computerweekly.com/news/252515054/Unipart-maps-way-ahead-with-Rise-with-SAP-service)
-- [The Security Interviews: Red gets automated](https://www.computerweekly.com/news/252514941/The-Security-interviews-Red-gets-automated)
-- [CIO interview: Craig York, CTO, Milton Keynes University Hospital](https://www.computerweekly.com/news/252514851/CIO-interview-Craig-York-CTO-Milton-Keynes-University-Hospital)
-- [Ad agency slashes NetApp costs with Datadobi data migration](https://www.computerweekly.com/news/252515014/Ad-agency-slashes-NetApp-costs-with-Datadobi-data-migration)
-- [Hiring and retention challenges in cyber security persist](https://www.computerweekly.com/news/252515016/Hiring-and-retention-challenges-in-cyber-security-persist)
-- [Umbrella company Workwell refutes contractor’s ‘withheld holiday pay’ claim](https://www.computerweekly.com/news/252514997/Umbrella-company-Workwell-refutes-contractors-withheld-holiday-pay-claim)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

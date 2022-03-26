@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Nine in ten Canadian nonprofits consider digital transformation efforts a top priority in updating business processes – report](https://www.itworldcanada.com/article/nine-in-ten-canadian-nonprofits-consider-digital-transformation-efforts-a-top-priority-in-updating-business-processes-report/477732)
+- [Cyber Security Today, Week in Review for Friday March 25, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-25-2022/477556)
+- [This week in ransomware](https://www.itworldcanada.com/article/this-week-in-ransomware/477716)
+- [Cyber Security Today, March 25, 2022 – More ransomware statistics, infected Excel files, a Chrome bug exploited and more](https://www.itworldcanada.com/article/cyber-security-today-march-25-2022-more-ransomware-statistics-infected-excel-files-a-chrome-bug-exploited-and-more/477694)
+- [Hashtag Trending March 25 – Uber is adding NYC yellow cabs to its app; Mercedes to accept legal responsibility when Drive Pilot mode is active; Netflix’s latest price hikes in the U.S.](https://www.itworldcanada.com/article/hashtag-trending-march-25-uber-is-adding-nyc-yellow-cabs-to-its-app-mercedes-to-accept-legal-responsibility-when-drive-pilot-mode-is-active-netflixs-latest-price-hikes-in-the-u-s/477709)
 - [CRTC agrees to let Rogers buy Shaw’s broadcasting services](https://www.itworldcanada.com/article/crtc-agrees-to-let-rogers-buy-shaws-broadcasting-services/477688)
 - [Studies reveal that full-stack observability and automation adoption are priorities for businesses in 2022](https://www.itworldcanada.com/article/studies-reveal-that-full-stack-observability-and-automation-adoption-are-priorities-for-businesses-in-2022/477636)
 - [Seven in UK arrested, allegedly linked to Lapsus$: News reports](https://www.itworldcanada.com/article/seven-in-uk-arrested-allegedly-linked-to-lapsus-news-reports/477647)
 - [MAPLESEC panel: Incident response teams should expect the unexpected](https://www.itworldcanada.com/article/maplesec-panel-incident-response-teams-should-expect-the-unexpected/477635)
 - [Telus is upping its fixed wireless Internet speed game in rural communities across B.C. and Alberta](https://www.itworldcanada.com/article/telus-is-upping-its-fixed-wireless-internet-speed-game-in-rural-communities-across-b-c-and-alberta/477505)
-- [Canada’s SecureKey to be bought by Avast](https://www.itworldcanada.com/article/canadas-securekey-to-be-bought-by-avast/477594)
-- [Hashtag Trending March 24 – Microsoft attacked by Lapsu$; EU wants more stringent cybersecurity rules; YouTube offers free TV with ads](https://www.itworldcanada.com/article/hashtag-trending-march-24-microsoft-attacked-by-lapsu-eu-wants-more-stringent-cybersecurity-rules-youtube-offers-free-tv-with-ads/477600)
-- [Starlink raises internet service and hardware costs](https://www.itworldcanada.com/article/starlink-raises-internet-service-and-hardware-costs/477518)
-- [Microsoft admits Lapsus$ hacked an employee’s account; provides analysis of group’s tactics](https://www.itworldcanada.com/article/microsoft-admits-lapsus-hacked-an-employees-account-provides-analysis-of-groups-tactics/477489)
-- [Cyber Security Today, March 23, 2022 – Satellite disruption investigated, HP printers need updating, and more](https://www.itworldcanada.com/article/cyber-security-today-march-23-2022-satellite-disruption-investigated-hp-printers-need-updating-and-more/477346)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

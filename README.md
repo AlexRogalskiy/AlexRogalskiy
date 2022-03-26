@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Aren&#39;t most startups wasting money on AWS when they don&#39;t need it?](https://news.ycombinator.com/item?id=30798068)
-- [Who Was Agent 355?](https://www.smithsonianmag.com/history/the-myth-of-agent-355-the-woman-spy-who-supposedly-helped-win-the-revolutionary-war-180979748/)
-- [Light Pillar](https://en.wikipedia.org/wiki/Light_pillar)
-- [Junior at Harvard looking for summer internships](https://news.ycombinator.com/item?id=30798054)
-- [Prioritized Task Scheduling](https://wicg.github.io/scheduling-apis/)
-- [UK Cops Arrest 7 Suspected Lapsus$ Gang Members](https://threatpost.com/uk-cops-collar-7-suspected-lapsus-gang-members/179098/)
-- [Europe says yes to messaging interoperability](https://techcrunch.com/2022/03/24/dma-political-agreement/)
-- [Deepmind Alphafold: A Gift to Humanity](https://www.youtube.com/watch?v=FYVf0bRgO5Q)
-- [Ask HN: What&#39;s a developer experience issue at work that makes you want to quit?](https://news.ycombinator.com/item?id=30797963)
-- [To Infinity and Beyond](https://continuations.com/post/679636085735882752/to-infinity-and-beyond)
+- [The Overcast Redesign: Part One](https://marco.org/2022/03/25/overcast-redesign-2022)
+- [How to inspect a Thread Dump like a pro](http://www.mastertheboss.com/java/how-to-inspect-a-thread-dump-like-a-pro/)
+- [UK Wants to Incarcerate Asylum Seekers “Offshore” on Abandoned Oil Rigs](https://truthout.org/articles/uk-wants-to-incarcerate-asylum-seekers-offshore-on-abandoned-oil-rigs/)
+- [Sorting by Review Done Right](https://convermax.com/blog/2019/10/1/sorting-by-review-done-right)
+- [CDC coding error led to overcount of 72,000 Covid deaths](https://www.theguardian.com/world/2022/mar/24/cdc-coding-error-overcount-covid-deaths)
+- [Jq Needs Contributors](https://github.com/stedolan/jq/issues/2305)
+- [Matter’s delay means you’ll have to wait longer for some new smart home products](https://www.theverge.com/2022/3/24/22994597/matter-delay-nanoleaf-essentials-eve-wemo)
+- [Russia&#39;s days as an energy superpower are coming to an end](https://lite.cnn.com/en/article/h_e0ae5372c07db819fea25a109d36b89b)
+- [Coinbase to Monitor Canadian Transactions Above 1k CAD](https://cryptobriefing.com/coinbase-to-monitor-canadian-transactions-above-1000-cad/)
+- [January 6 committee has text messages between Ginni Thomas and Mark Meadows](https://lite.cnn.com/en/article/h_005d545bc02e6b923c8ad6bb21d0b752)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

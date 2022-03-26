@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft ends support for .NET 5.0](https://www.infoworld.com/article/3654921/microsoft-ends-support-for-net-50.html#tk.rss_all)
+- [PlanetScale introduces Rewind feature to &#39;undo&#39; bad schema migrations](https://www.infoworld.com/article/3654892/planetscale-introduces-rewind-feature-to-undo-bad-schema-migrations.html#tk.rss_all)
+- [Redis Stack outfits Redis for real-time apps](https://www.infoworld.com/article/3654915/redis-stack-outfits-redis-for-real-time-apps.html#tk.rss_all)
+- [Why governance is critical to cloud success](https://www.infoworld.com/article/3654911/why-governance-is-critical-to-cloud-success.html#tk.rss_all)
 - [DataStax adds real-time data streaming to managed AstraDB service](https://www.infoworld.com/article/3654889/datastax-adds-real-time-data-streaming-to-managed-astradb-service.html#tk.rss_all)
 - [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_all)
 - [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_all)
 - [Red Hat OpenShift adds Nvidia, Arm, AI support](https://www.infoworld.com/article/3654749/red-hat-openshift-adds-nvidia-arm-ai-support.html#tk.rss_all)
 - [PDM: A smarter way to manage Python packages](https://www.infoworld.com/article/3654196/pdm-a-smarter-way-to-manage-python-packages.html#tk.rss_all)
 - [Demand for software developers doubled in 2021](https://www.infoworld.com/article/3654480/demand-for-software-developers-doubled-in-2021.html#tk.rss_all)
-- [JDK 18: The new features in Java 18](https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html#tk.rss_all)
-- [My data killed my cloud project!](https://www.infoworld.com/article/3654182/my-data-killed-my-cloud-project.html#tk.rss_all)
-- [Orchestrating data for machine learning pipelines](https://www.infoworld.com/article/3651453/orchestrating-data-for-machine-learning-pipelines.html#tk.rss_all)
-- [Cloud convenience and open source](https://www.infoworld.com/article/3654271/cloud-convenience-and-open-source.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

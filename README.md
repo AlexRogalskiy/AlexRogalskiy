@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Dawn Foods Tries a Low-Code Recipe for QA Testing Automation](https://www.informationweek.com/devops/dawn-foods-tries-a-low-code-recipe-for-qa-testing-automation)
+- [Companies Are Adopting Cloud, but Do They Really Know Why?](https://www.informationweek.com/cloud/companies-are-adopting-cloud-but-do-they-really-know-why-)
 - [Supply Chain Strategies: 3D Printing Our Way Out of Russia’s War](https://www.informationweek.com/software/supply-chain-strategies-3d-printing-our-way-out-of-russia-s-war)
 - [How To Get Workers On Board With AI](https://www.informationweek.com/ai-or-machine-learning/how-to-get-workers-on-board-with-ai)
 - [Walmart to Hire 5K as Tech Job Market Stays Tight](https://www.informationweek.com/strategic-cio/walmart-to-hire-5k-as-tech-job-market-stays-tight)
@@ -377,8 +379,6 @@
 - [Converge Networking and Security with Zero-Trust Edge](https://www.informationweek.com/security-and-risk-strategy/converge-networking-and-security-with-zero-trust-edge)
 - [IT Talent Shortage: How to Put AI Scouting Systems to Work](https://www.informationweek.com/software/it-talent-shortage-how-to-put-ai-scouting-systems-to-work)
 - [The Restructuring CIO: Transforming How IT Works](https://www.informationweek.com/strategic-cio/the-restructuring-cio-transforming-how-it-works)
-- [New Tools Measure Green IT, Sustainability Success](https://www.informationweek.com/software/new-tools-measure-green-it-sustainability-success)
-- [Government Is a Data Partner You Might Not Want, But You Have](https://www.informationweek.com/big-data/government-is-a-data-partner-you-might-not-want-but-you-have)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

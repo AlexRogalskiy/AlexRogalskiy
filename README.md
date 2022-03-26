@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generally speaking, which is the better solutions for remote users: VPN or Remote Desktop?](https://www.reddit.com/r/InformationTechnology/comments/tnxo20/generally_speaking_which_is_the_better_solutions/)
+- [How do you IT professionals deal with the never ending neck pain](https://www.reddit.com/r/InformationTechnology/comments/tntvbd/how_do_you_it_professionals_deal_with_the_never/)
+- [Once you have your Network+, A+, and Security+ certificates, what jobs are open to you? Salaries?](https://www.reddit.com/r/InformationTechnology/comments/tnla1k/once_you_have_your_network_a_and_security/)
+- [master&#39;s thesis presentation](https://www.reddit.com/r/InformationTechnology/comments/tnkj3t/masters_thesis_presentation/)
+- [High-school internship?](https://www.reddit.com/r/InformationTechnology/comments/tnk084/highschool_internship/)
 - [Is there a field of or any giants in the philosophy of information technology?](https://www.reddit.com/r/InformationTechnology/comments/tnarca/is_there_a_field_of_or_any_giants_in_the/)
 - [Should I stay in school/should I pursue a master&#39;s degree](https://www.reddit.com/r/InformationTechnology/comments/tn8tuh/should_i_stay_in_schoolshould_i_pursue_a_masters/)
 - [Certifications](https://www.reddit.com/r/InformationTechnology/comments/tn6g1r/certifications/)
 - [Has anyone here moved from an hourly position to a salaried role?](https://www.reddit.com/r/InformationTechnology/comments/tmxr7r/has_anyone_here_moved_from_an_hourly_position_to/)
 - [Recovery data software](https://www.reddit.com/r/InformationTechnology/comments/tllucv/recovery_data_software/)
-- [IT job with Green Card](https://www.reddit.com/r/InformationTechnology/comments/tlbcha/it_job_with_green_card/)
-- [What are the most important acronyms in IT for noobs to know?](https://www.reddit.com/r/InformationTechnology/comments/tkmkzy/what_are_the_most_important_acronyms_in_it_for/)
-- [Switched to Cybersecurity and feel like it was a huge mistake](https://www.reddit.com/r/InformationTechnology/comments/tkivxe/switched_to_cybersecurity_and_feel_like_it_was_a/)
-- [Getting my first IT job.. all help desk ROLES say WAN/LAN](https://www.reddit.com/r/InformationTechnology/comments/tkidhf/getting_my_first_it_job_all_help_desk_roles_say/)
-- [What&#39;s with the requirements for entry level positions?](https://www.reddit.com/r/InformationTechnology/comments/tjsvd6/whats_with_the_requirements_for_entry_level/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

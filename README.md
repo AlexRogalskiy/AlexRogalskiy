@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meditation – Saint Christopher&#39;s Blog](https://lovehumanity.gitlab.io/meditation/)
-- [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
-- [Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
-- [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
-- [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
-- [The end of the nice GTK button](https://blog.brixit.nl/the-end-of-the-nice-gtk-button/)
-- [Courier &lpar;YC S19&rpar; Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
-- [Applebee’s exec urges using high gas prices to push lower wages, sparks walkout](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
-- [Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://github.com/porsager/postgres)
-- [Reddit&#39;s website uses DRM for fingerprinting &lpar;2020&rpar;](https://smitop.com/post/reddit-whiteops/)
+- [Australian workplaces surveyed – only 7.2% going back to 100% in office](https://theaussiecorporate.com/wfhpolicies/)
+- [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
+- [Phantom OS](http://phantomos.org/)
+- [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
+- [Varieties of Mathematical Understanding](https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/)
+- [Mounting evidence for a 95 GeV Higgs boson](https://arxiv.org/abs/2203.13180)
+- [Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
+- [N2: Alternative Ninja Implementation](https://github.com/evmar/n2)
+- [API-0.core.keybaseapi.com has expired certificate](https://www.sslshopper.com/ssl-checker.html#hostname=https://api-0.core.keybaseapi.com)
+- [Why isn&#39;t there a Swagger/OpenAPI for binary formats?](http://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

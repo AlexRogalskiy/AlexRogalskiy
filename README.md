@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Artificial intelligence tackles the written word](https://www.computerworld.com/article/3654920/artificial-intelligence-tackles-the-written-word.html#tk.rss_all)
+- [EU targets big tech with new Digital Markets Act](https://www.computerworld.com/article/3654894/eu-targets-big-tech-with-new-digital-markets-act.html#tk.rss_all)
+- [Everything-as-a-service, Apple, and the future of business](https://www.computerworld.com/article/3655090/everything-as-a-service-apple-and-the-future-of-business.html#tk.rss_all)
+- [US, EU reach preliminary data privacy agreement](https://www.csoonline.com/article/3655076/u-s-eu-reach-preliminary-data-privacy-agreement.html#tk.rss_all)
+- [8 hidden Pixel features for smarter calling](https://www.computerworld.com/article/3614863/pixel-features-calling.html#tk.rss_all)
 - [Is Apple&#39;s macOS Monterey 12.3 beta haunted?](https://www.computerworld.com/article/3655088/is-apples-macos-monterey-123-beta-haunted.html#tk.rss_all)
 - [Nvidia GTC: Building the digital you](https://www.computerworld.com/article/3655068/nvidia-gtc-building-the-digital-you.html#tk.rss_all)
 - [10 easy steps to make Chrome faster and more secure](https://www.computerworld.com/article/3453843/easy-steps-to-make-chrome-faster-and-more-secure.html#tk.rss_all)
 - [The trouble with hybrid work](https://www.computerworld.com/article/3654214/the-trouble-with-hybrid-work.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple acquires UK fintech startup Credit Kudos](https://www.computerworld.com/article/3654908/apple-acquires-uk-fintech-startup-credit-kudos.html#tk.rss_all)
-- [Jamf introduces essential Apple admin tools for SMBs](https://www.computerworld.com/article/3654491/jamf-introduces-essential-apple-admin-tools-for-smbs.html#tk.rss_all)
-- [BrandPost: Security Priorities for 2022: What Small and Midsize Businesses Need to Know](https://www.computerworld.com/article/3654277/security-priorities-for-2022-what-small-and-midsize-businesses-need-to-know.html#tk.rss_all)
-- [BlueJeans enters virtual corporate learning space](https://www.computerworld.com/article/3654481/bluejeans-enters-the-virtual-corporate-learning-space.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

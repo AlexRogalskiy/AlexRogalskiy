@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mexico v USA: World Cup 2022 qualifying – live!](https://www.theguardian.com/football/live/2022/mar/24/mexico-v-usa-world-cup-2022-qualifying-live-score-soccer)
-- [Bangladesh v Australia: ICC Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/25/bangladesh-vs-australia-icc-womens-cricket-world-cup-2022-ban-v-aus-live-updates)
-- [Ukraine war latest news: Russia running out of precision guided missiles, Pentagon claims; Kyiv and Moscow exchange prisoners – live](https://www.theguardian.com/world/live/2022/mar/24/russia-ukraine-war-latest-news-zelenskiy-expects-meaningful-steps-at-nato-eu-and-g7-summits-live)
-- [US volunteers reach the frontline of the war in Ukraine](https://www.theguardian.com/world/2022/mar/25/us-volunteers-reach-the-frontline-of-the-war-in-ukraine)
-- [Man accused of smuggling 1,700 reptiles from Mexico and Hong Kong](https://www.theguardian.com/us-news/2022/mar/24/california-man-smuggled-1700-reptiles)
-- [I have been unhappy about a friendship of over 55 years. Why do I still put up with her? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/mar/25/i-have-been-unhappy-about-a-friendship-of-over-55-years-why-do-i-still-put-up-with-her)
-- [Emma Raducanu’s struggles continue with loss to Katerina Siniakova in Miami](https://www.theguardian.com/sport/2022/mar/24/emma-raducanus-struggles-continue-with-loss-to-katerina-siniakova-in-miami)
-- [Man dies after light aircraft crashes at airfield in north Suffolk](https://www.theguardian.com/uk-news/2022/mar/24/man-dies-after-light-aircraft-crashes-at-airfield-in-north-suffolk)
-- [North Korea confirms missile testing and says Kim Jong-un oversaw launch](https://www.theguardian.com/world/2022/mar/24/n-korea-confirms-missile-testing-ahead-of-long-confrontation-with-us)
-- [UK government vows 10-fold increase in electric car chargers by 2030](https://www.theguardian.com/politics/2022/mar/24/uk-government-vows-10-fold-increase-in-electric-car-chargers-by-2030)
+- [Russia-Ukraine war: Moscow hints at scaling back aims to focus on Donbas ‘liberation’ – live](https://www.theguardian.com/world/live/2022/mar/25/ukraine-war-latest-news-sanctions-a-little-late-zelenskiy-tells-european-council-biden-to-visit-poland-live)
+- [Russia-Ukraine war: what we know on day 31 of the invasion](https://www.theguardian.com/world/2022/mar/26/russia-ukraine-war-what-we-know-on-day-31-of-the-invasion)
+- [Grizzly bear suspected in man’s death near Yellowstone national park](https://www.theguardian.com/environment/2022/mar/25/grizzly-bear-suspected-mans-death-yellowstone-park)
+- [Raab says UK bill of rights will stop free speech being ‘whittled away by wokery’](https://www.theguardian.com/law/2022/mar/25/raab-says-uk-bill-of-rights-will-stop-free-speech-being-whittled-away-by-wokery)
+- [England players ‘shocked’ at Qatar human rights abuses, says Henderson](https://www.theguardian.com/football/2022/mar/25/england-players-shocked-at-qatar-human-rights-abuses-says-henderson)
+- [Italy’s World Cup nightmare reminds Gareth Southgate of England lows](https://www.theguardian.com/football/2022/mar/25/italys-world-cup-nightmare-reminds-gareth-southgate-of-england-lows)
+- [P&amp;O ferry detained over crew training concerns, says coastguard agency](https://www.theguardian.com/business/2022/mar/25/po-ferry-detained-over-crew-training-concerns-says-coastguard-agency)
+- [Joshua Da Silva stands firm to give West Indies narrow lead over England](https://www.theguardian.com/sport/2022/mar/25/resilient-joshua-da-silva-gives-west-indies-narrow-lead-over-england)
+- [Woman, 40, found stabbed to death in east London](https://www.theguardian.com/uk-news/2022/mar/25/woman-40-found-stabbed-to-death-in-east-london)
+- [Black entrepreneur stopped by Met police because he was ‘not dressed for the climate’](https://www.theguardian.com/uk-news/2022/mar/25/black-entrepreneur-stopped-by-met-police-because-he-was-not-dressed-for-the-climate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

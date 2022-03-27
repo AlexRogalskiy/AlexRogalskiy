@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Australian workplaces surveyed – only 7.2% going back to 100% in office](https://theaussiecorporate.com/wfhpolicies/)
-- [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
-- [Phantom OS](http://phantomos.org/)
-- [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
-- [Varieties of Mathematical Understanding](https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/)
-- [Mounting evidence for a 95 GeV Higgs boson](https://arxiv.org/abs/2203.13180)
-- [Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI](https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/)
-- [N2: Alternative Ninja Implementation](https://github.com/evmar/n2)
-- [API-0.core.keybaseapi.com has expired certificate](https://www.sslshopper.com/ssl-checker.html#hostname=https://api-0.core.keybaseapi.com)
-- [Why isn&#39;t there a Swagger/OpenAPI for binary formats?](http://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi)
+- [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
+- [Andrej Karpathy: TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
+- [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
+- [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
+- [A userspace WireGuard client that exposes itself as a proxy](https://github.com/octeep/wireproxy)
+- [A Freelancer&#39;s Forty-Three Years in the American Health-Care System](https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system)
+- [Fossil: Battery Included Git Alternative](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
+- [The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
+- [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
+- [Programmable Notes](https://maggieappleton.com/programmatic-notes)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

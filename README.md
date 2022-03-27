@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Limited wifi?](https://www.reddit.com/r/InformationTechnology/comments/tp21lw/limited_wifi/)
+- [Military IT?](https://www.reddit.com/r/InformationTechnology/comments/tp0xap/military_it/)
+- [alright im someone looking to get into the IT field but the thing is I dont know if these certifications help right now i currently have been doing Coursea courses and I currently have 2 course certificates but im wondering do course certificates have any meaning to get a starter IT job](https://www.reddit.com/r/InformationTechnology/comments/toxphz/alright_im_someone_looking_to_get_into_the_it/)
+- [Mueller Upgrading and Repairing PCs 23rd edition](https://www.reddit.com/r/InformationTechnology/comments/tonvul/mueller_upgrading_and_repairing_pcs_23rd_edition/)
 - [Generally speaking, which is the better solutions for remote users: VPN or Remote Desktop?](https://www.reddit.com/r/InformationTechnology/comments/tnxo20/generally_speaking_which_is_the_better_solutions/)
 - [How do you IT professionals deal with the never ending neck pain](https://www.reddit.com/r/InformationTechnology/comments/tntvbd/how_do_you_it_professionals_deal_with_the_never/)
 - [Once you have your Network+, A+, and Security+ certificates, what jobs are open to you? Salaries?](https://www.reddit.com/r/InformationTechnology/comments/tnla1k/once_you_have_your_network_a_and_security/)
 - [master&#39;s thesis presentation](https://www.reddit.com/r/InformationTechnology/comments/tnkj3t/masters_thesis_presentation/)
 - [High-school internship?](https://www.reddit.com/r/InformationTechnology/comments/tnk084/highschool_internship/)
 - [Is there a field of or any giants in the philosophy of information technology?](https://www.reddit.com/r/InformationTechnology/comments/tnarca/is_there_a_field_of_or_any_giants_in_the/)
-- [Should I stay in school/should I pursue a master&#39;s degree](https://www.reddit.com/r/InformationTechnology/comments/tn8tuh/should_i_stay_in_schoolshould_i_pursue_a_masters/)
-- [Certifications](https://www.reddit.com/r/InformationTechnology/comments/tn6g1r/certifications/)
-- [Has anyone here moved from an hourly position to a salaried role?](https://www.reddit.com/r/InformationTechnology/comments/tmxr7r/has_anyone_here_moved_from_an_hourly_position_to/)
-- [Recovery data software](https://www.reddit.com/r/InformationTechnology/comments/tllucv/recovery_data_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

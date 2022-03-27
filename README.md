@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Overcast Redesign: Part One](https://marco.org/2022/03/25/overcast-redesign-2022)
-- [How to inspect a Thread Dump like a pro](http://www.mastertheboss.com/java/how-to-inspect-a-thread-dump-like-a-pro/)
-- [UK Wants to Incarcerate Asylum Seekers “Offshore” on Abandoned Oil Rigs](https://truthout.org/articles/uk-wants-to-incarcerate-asylum-seekers-offshore-on-abandoned-oil-rigs/)
-- [Sorting by Review Done Right](https://convermax.com/blog/2019/10/1/sorting-by-review-done-right)
-- [CDC coding error led to overcount of 72,000 Covid deaths](https://www.theguardian.com/world/2022/mar/24/cdc-coding-error-overcount-covid-deaths)
-- [Jq Needs Contributors](https://github.com/stedolan/jq/issues/2305)
-- [Matter’s delay means you’ll have to wait longer for some new smart home products](https://www.theverge.com/2022/3/24/22994597/matter-delay-nanoleaf-essentials-eve-wemo)
-- [Russia&#39;s days as an energy superpower are coming to an end](https://lite.cnn.com/en/article/h_e0ae5372c07db819fea25a109d36b89b)
-- [Coinbase to Monitor Canadian Transactions Above 1k CAD](https://cryptobriefing.com/coinbase-to-monitor-canadian-transactions-above-1000-cad/)
-- [January 6 committee has text messages between Ginni Thomas and Mark Meadows](https://lite.cnn.com/en/article/h_005d545bc02e6b923c8ad6bb21d0b752)
+- [R2Home GPS Guided Parachute Recovery System](https://hackaday.io/project/176621-r2home)
+- [Contrasting Concepts of Harmony in Architecture – C. Alexander/Eisenman Debate](http://www.katarxis3.com/Alexander_Eisenman_Debate.htm)
+- [Ask HN: Switching Career from Indie Dev to Corporate Jobs](https://news.ycombinator.com/item?id=30817294)
+- [Show HN: Remote Docker commands with local directory mount](https://github.com/ITmaze/remote-docker)
+- [Show HN: How to create a network proxy with Pipy proxy](https://news.ycombinator.com/item?id=30817252)
+- [I Made my own Audio Bluetooth module](https://hackaday.io/project/184542-i-made-my-own-audio-bluetooth-module)
+- [AK-74](https://en.wikipedia.org/wiki/AK-74)
+- [609 Pages of Horse Shit](https://books.google.com/books/about/609_Pages_of_Horse_Shit.html?id=Pd2YDwAAQBAJ)
+- [What are some good resources to learn APIs?](https://news.ycombinator.com/item?id=30817189)
+- [How the sanctions on Russia were planned](https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

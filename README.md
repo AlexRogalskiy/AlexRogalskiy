@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
-- [Andrej Karpathy: TikTok is scary good. It&#39;s digital crack](https://twitter.com/karpathy/status/1507893647341142016)
-- [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
-- [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
-- [A userspace WireGuard client that exposes itself as a proxy](https://github.com/octeep/wireproxy)
-- [A Freelancer&#39;s Forty-Three Years in the American Health-Care System](https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system)
-- [Fossil: Battery Included Git Alternative](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
-- [The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
-- [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
-- [Programmable Notes](https://maggieappleton.com/programmatic-notes)
+- [What is money, anyway?](https://www.lynalden.com/what-is-money/)
+- [Lumber prices fall 30%; housing market cools](https://www.bnnbloomberg.ca/lumber-rally-cools-with-transport-snarls-easing-buyers-balking-1.1743093)
+- [Physicists Build Circuit That Generates Clean, Limitless Power from Graphene &lpar;2020&rpar;](https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
+- [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
+- [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
+- [The BITE Model of Authoritarian Control &lpar;2020&rpar;](https://www.proquest.com/docview/2476570146/)
+- [Show HN: I&#39;m writing a free book called Computer Networks from Scratch](https://www.networksfromscratch.com)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote API Engineers](https://www.easypost.com/careers)
+- [Marginalia Search: 1 Year](https://memex.marginalia.nu/log/49-marginalia-1-year.gmi)
+- [New type of ultraviolet light makes indoor air as safe as outdoors](https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

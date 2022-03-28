@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tips for running ethernet cable in a rental apartment?](https://www.reddit.com/r/InformationTechnology/comments/tpylhp/tips_for_running_ethernet_cable_in_a_rental/)
 - [Limited wifi?](https://www.reddit.com/r/InformationTechnology/comments/tp21lw/limited_wifi/)
 - [Military IT?](https://www.reddit.com/r/InformationTechnology/comments/tp0xap/military_it/)
 - [alright im someone looking to get into the IT field but the thing is I dont know if these certifications help right now i currently have been doing Coursea courses and I currently have 2 course certificates but im wondering do course certificates have any meaning to get a starter IT job](https://www.reddit.com/r/InformationTechnology/comments/toxphz/alright_im_someone_looking_to_get_into_the_it/)
@@ -423,7 +424,6 @@
 - [Once you have your Network+, A+, and Security+ certificates, what jobs are open to you? Salaries?](https://www.reddit.com/r/InformationTechnology/comments/tnla1k/once_you_have_your_network_a_and_security/)
 - [master&#39;s thesis presentation](https://www.reddit.com/r/InformationTechnology/comments/tnkj3t/masters_thesis_presentation/)
 - [High-school internship?](https://www.reddit.com/r/InformationTechnology/comments/tnk084/highschool_internship/)
-- [Is there a field of or any giants in the philosophy of information technology?](https://www.reddit.com/r/InformationTechnology/comments/tnarca/is_there_a_field_of_or_any_giants_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

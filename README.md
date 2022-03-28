@@ -369,6 +369,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [European Payments Initiative Project Pivots After 20 banks Depart](https://www.informationweek.com/fintech/european-payments-initiative-project-pivots-after-20-banks-depart)
 - [Dawn Foods Tries a Low-Code Recipe for QA Testing Automation](https://www.informationweek.com/devops/dawn-foods-tries-a-low-code-recipe-for-qa-testing-automation)
 - [Companies Are Adopting Cloud, but Do They Really Know Why?](https://www.informationweek.com/cloud/companies-are-adopting-cloud-but-do-they-really-know-why-)
 - [Supply Chain Strategies: 3D Printing Our Way Out of Russia’s War](https://www.informationweek.com/software/supply-chain-strategies-3d-printing-our-way-out-of-russia-s-war)
@@ -378,7 +379,6 @@
 - [The NetOps Struggle is Real](https://www.informationweek.com/it-life/the-netops-struggle-is-real)
 - [Converge Networking and Security with Zero-Trust Edge](https://www.informationweek.com/security-and-risk-strategy/converge-networking-and-security-with-zero-trust-edge)
 - [IT Talent Shortage: How to Put AI Scouting Systems to Work](https://www.informationweek.com/software/it-talent-shortage-how-to-put-ai-scouting-systems-to-work)
-- [The Restructuring CIO: Transforming How IT Works](https://www.informationweek.com/strategic-cio/the-restructuring-cio-transforming-how-it-works)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

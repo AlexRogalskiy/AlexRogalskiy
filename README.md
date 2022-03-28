@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England v Bangladesh: Women’s Cricket World Cup – live!](https://www.theguardian.com/sport/live/2022/mar/26/england-v-bangladesh-womens-cricket-world-cup-live)
-- [Russia-Ukraine war latest: Zelenskiy calls on west to supply planes, tanks; Biden says ‘butcher’ Putin cannot remain in power – live](https://www.theguardian.com/world/live/2022/mar/26/russia-ukraine-war-zelenskiy-hails-powerful-blows-by-ukrainian-army-as-russia-hints-at-scaling-back-offensive-live)
-- [Amnesty hits out at Tory plans to replace Human Rights Act with bill of rights](https://www.theguardian.com/law/2022/mar/27/amnesty-hits-out-at-tory-plans-to-replace-human-rights-act-with-bill-of-rights)
-- [Russia-Ukraine war: what we know on day 32 of the invasion](https://www.theguardian.com/world/2022/mar/27/russia-ukraine-war-what-we-know-on-day-32-of-the-invasion)
-- [Nuclear power is back in the game, but remains a distant prospect for UK](https://www.theguardian.com/business/2022/mar/27/nuclear-power-is-back-in-the-game-but-remains-a-distant-prospect-for-uk)
-- [UN condemns attacks by Yemen rebels and Saudi-led coalition](https://www.theguardian.com/world/2022/mar/26/un-condemns-attacks-by-yemen-rebels-and-saudi-led-coalition)
-- [‘Open the schools’: Afghan girls protest in Kabul for right to education](https://www.theguardian.com/world/2022/mar/26/open-the-schools-afghanistan-girls-protest-taliban-kabul-for-right-to-education)
-- [How to wear this season’s stripes](https://www.theguardian.com/fashion/2022/mar/26/how-to-wear-stripe-trend)
-- [Ministers to make school week a minimum of 32.5 hours in England](https://www.theguardian.com/education/2022/mar/26/ministers-to-make-school-week-a-minimum-of-325-hours-in-england)
-- [Shropshire maternity scandal: 300 babies died or left brain-damaged, says report](https://www.theguardian.com/society/2022/mar/26/shropshire-maternity-scandal-300-babies-died-or-left-brain-damaged-says-report)
+- [Will Smith appears to hit Chris Rock over joke about wife Jada Pinkett Smith – Oscars 2022 live!](https://www.theguardian.com/film/live/2022/mar/27/oscars-2022-news-winners-nominations-latest)
+- [Russia-Ukraine war latest news: Zelenskiy ‘looking for peace without delay’; Biden denies urging Putin removal – live](https://www.theguardian.com/world/live/2022/mar/27/russia-ukraine-war-latest-zelenskiy-calls-on-west-for-planes-and-tanks-biden-says-butcher-putin-cannot-remain-in-power-live)
+- [Myanmar’s military ruler vows to ‘annihilate’ resistance groups](https://www.theguardian.com/world/2022/mar/28/myanmars-military-ruler-vows-to-annihilate-resistance-groups)
+- [The race to mine the deep sea – podcast](https://www.theguardian.com/news/audio/2022/mar/28/the-race-to-mine-the-deep-sea-today-in-focus-podcast)
+- [William and Kate: what matters is better future for people of Commonwealth](https://www.theguardian.com/uk-news/2022/mar/27/william-and-kate-better-future-commonwealth-caribbean-tour)
+- [USA all but seal place at World Cup as Pulisic hat-trick fuels rout of Panama](https://www.theguardian.com/football/2022/mar/27/usa-panama-world-cup-2022-qualifier-usmnt-soccer)
+- [How Covid helped China tighten its hold on Hong Kong](https://www.theguardian.com/world/2022/mar/28/covid-china-hong-kong)
+- [Islamic State claims responsibility for killing of two Israeli police officers](https://www.theguardian.com/world/2022/mar/27/two-suspected-arab-gunmen-kill-two-people-in-israel)
+- [Oscars 2022: the red carpet – in pictures](https://www.theguardian.com/film/gallery/2022/mar/28/oscars-2022-pictures-red-carpet-looks)
+- [Shanghai to lock down millions for mass testing as China’s Covid cases surge](https://www.theguardian.com/world/2022/mar/28/shanghai-to-lock-down-millions-for-mass-testing-as-chinas-covid-cases-surge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

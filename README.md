@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [R2Home GPS Guided Parachute Recovery System](https://hackaday.io/project/176621-r2home)
-- [Contrasting Concepts of Harmony in Architecture – C. Alexander/Eisenman Debate](http://www.katarxis3.com/Alexander_Eisenman_Debate.htm)
-- [Ask HN: Switching Career from Indie Dev to Corporate Jobs](https://news.ycombinator.com/item?id=30817294)
-- [Show HN: Remote Docker commands with local directory mount](https://github.com/ITmaze/remote-docker)
-- [Show HN: How to create a network proxy with Pipy proxy](https://news.ycombinator.com/item?id=30817252)
-- [I Made my own Audio Bluetooth module](https://hackaday.io/project/184542-i-made-my-own-audio-bluetooth-module)
-- [AK-74](https://en.wikipedia.org/wiki/AK-74)
-- [609 Pages of Horse Shit](https://books.google.com/books/about/609_Pages_of_Horse_Shit.html?id=Pd2YDwAAQBAJ)
-- [What are some good resources to learn APIs?](https://news.ycombinator.com/item?id=30817189)
-- [How the sanctions on Russia were planned](https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy)
+- [How to Do Developer Segmentation Better](https://www.heavybit.com/library/blog/heres-how-to-do-segmentation-better/)
+- [Building SaaS Products Efficiently on AWS](https://caylent.com/blog/aws/building-saas-products-efficiently-on-aws)
+- [MIT used simulations to teach a robot to run, and the results are hilarious](https://bgr.com/science/mit-used-simulations-to-teach-a-robot-to-run-and-the-results-are-hilarious/)
+- [Five misconceptions about remote work](https://www.washingtonpost.com/business/2022/03/24/debunking-misconceptions-about-remote-work/)
+- [Indians reluctant to denounce Russian ‘brothers’ over Ukraine](https://www.theguardian.com/world/2022/mar/27/indians-reluctant-to-denounce-russian-brothers-over-ukraine)
+- [Show HN: Networking Library Using Go Generics](https://github.com/brendoncarroll/go-p2p)
+- [Kaspersky, China Telecom, China Mobile named &#39;threats to US national security&#39;](https://www.theregister.com/2022/03/28/fcc_kaspersky_china_telecom_china_mobile_national_security/)
+- [The Riskiest Bets in the Stock Market Are the Most Popular](https://www.wsj.com/articles/the-riskiest-bets-in-the-stock-market-are-the-most-popular-11648329082)
+- [Galvanize winds down data education programs &lpar;2021&rpar;](https://blog.galvanize.com/galvanize-winds-down-data-education-programs/)
+- [Graphical quadratic formula solver from 1915 &lpar;nomogram&rpar;](https://www.youtube.com/watch?v=swCy6pQSEpk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

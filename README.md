@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Alteryx Gears Up for the Analytics Cloud Future](https://www.informationweek.com/cloud/alteryx-gears-up-for-the-analytics-cloud-future)
+- [Enterprise Guide to Multi-Cloud Adoption](https://www.informationweek.com/cloud/enterprise-guide-to-multi-cloud-adoption)
 - [European Payments Initiative Project Pivots After 20 banks Depart](https://www.informationweek.com/fintech/european-payments-initiative-project-pivots-after-20-banks-depart)
 - [Dawn Foods Tries a Low-Code Recipe for QA Testing Automation](https://www.informationweek.com/devops/dawn-foods-tries-a-low-code-recipe-for-qa-testing-automation)
 - [Companies Are Adopting Cloud, but Do They Really Know Why?](https://www.informationweek.com/cloud/companies-are-adopting-cloud-but-do-they-really-know-why-)
@@ -377,8 +379,6 @@
 - [Walmart to Hire 5K as Tech Job Market Stays Tight](https://www.informationweek.com/strategic-cio/walmart-to-hire-5k-as-tech-job-market-stays-tight)
 - [Virtual Reality Transforms the Workplace](https://www.informationweek.com/big-data/virtual-reality-transforms-the-workplace)
 - [The NetOps Struggle is Real](https://www.informationweek.com/it-life/the-netops-struggle-is-real)
-- [Converge Networking and Security with Zero-Trust Edge](https://www.informationweek.com/security-and-risk-strategy/converge-networking-and-security-with-zero-trust-edge)
-- [IT Talent Shortage: How to Put AI Scouting Systems to Work](https://www.informationweek.com/software/it-talent-shortage-how-to-put-ai-scouting-systems-to-work)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

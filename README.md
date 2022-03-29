@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What is money, anyway?](https://www.lynalden.com/what-is-money/)
-- [Lumber prices fall 30%; housing market cools](https://www.bnnbloomberg.ca/lumber-rally-cools-with-transport-snarls-easing-buyers-balking-1.1743093)
-- [Physicists Build Circuit That Generates Clean, Limitless Power from Graphene &lpar;2020&rpar;](https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
-- [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
-- [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
-- [The BITE Model of Authoritarian Control &lpar;2020&rpar;](https://www.proquest.com/docview/2476570146/)
-- [Show HN: I&#39;m writing a free book called Computer Networks from Scratch](https://www.networksfromscratch.com)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote API Engineers](https://www.easypost.com/careers)
-- [Marginalia Search: 1 Year](https://memex.marginalia.nu/log/49-marginalia-1-year.gmi)
-- [New type of ultraviolet light makes indoor air as safe as outdoors](https://www.cuimc.columbia.edu/news/new-type-ultraviolet-light-makes-indoor-air-safe-outdoors)
+- [I Schizopost: What Schizoposting Is](https://thedayofthecollar.substack.com/p/why-i-schizopost-what-schizoposting)
+- [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
+- [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
+- [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
+- [FTB’s Schemes to Overcharge Taxpayers](https://gwsandiego.net/blog/?p=611)
+- [Swift on Mac OS 9 &lpar;2020&rpar;](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
+- [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
+- [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
+- [Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)
+- [The arXiv of the future will not look like the arXiv](https://ar5iv.labs.arxiv.org/html/1709.07020)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

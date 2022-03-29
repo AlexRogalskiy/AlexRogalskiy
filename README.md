@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [IT professionals wary of government campaign to limit end-to-end encryption](https://www.computerweekly.com/news/252515185/IT-professionals-wary-of-government-campaign-to-limit-end-to-end-encryption)
+- [Backup: N-able emerges from white box to aim at enterprise customers](https://www.computerweekly.com/news/252515191/Backup-N-able-emerges-from-white-box-to-aim-at-enterprise-customers)
+- [Public cloud giants fuel double-digit growth in datacentre hardware and software spend](https://www.computerweekly.com/news/252515193/Public-cloud-giants-fuel-double-digit-growth-in-datacentre-hardware-and-software-spend)
+- [NHS England deploys pilot AI tool to forecast A&amp;E admissions](https://www.computerweekly.com/news/252515189/NHS-England-deploys-pilot-AI-tool-to-forecast-AE-admissions)
+- [Babylon Health expands hybrid cloud infrastructure setup to include Google](https://www.computerweekly.com/news/252515184/Babylon-Health-expands-hybrid-cloud-infrastructure-setup-to-include-Google)
+- [Sajid Javid pushes digitisation of social care records](https://www.computerweekly.com/news/252515188/Sajid-Javid-pushes-digitisation-of-social-care-records)
+- [Industry clouds are all the rage, but are they driven by marketing or customer need?](https://www.computerweekly.com/feature/Industry-clouds-are-all-the-rage-but-are-they-driven-by-marketing-or-customer-need)
 - [US offers concessions on surveillance and privacy as EU and US agree successor to Privacy Shield](https://www.computerweekly.com/news/252515146/US-offers-concessions-on-surveillance-and-privacy-as-EU-and-US-agree-successor-to-Privacy-Shield)
 - [European Commission proposes new cyber security regulations](https://www.computerweekly.com/news/252515140/European-Commission-proposes-new-cyber-security-regulations)
 - [London police arrest seven in connection to Lapsus$](https://www.computerweekly.com/news/252515139/London-police-arrest-seven-in-connection-to-Lapsus)
-- [Telehouse’s takeover of Thomson Reuters Docklands datacentre brings more colo capacity to London](https://www.computerweekly.com/news/252515073/Telehouses-takeover-of-Thomson-Reuters-Docklands-datacentre-brings-more-colo-capacity-to-London)
-- [NHS advances digital trials with high-tech mobile health clinic](https://www.computerweekly.com/news/252515113/NHS-advances-digital-trials-with-high-tech-mobile-health-clinic)
-- [How Lapsus$ exploited the failings of multifactor authentication](https://www.computerweekly.com/news/252515111/How-Lapsus-exploited-the-failings-of-multifactor-authentication)
-- [More than 300 new hyperscale datacentres in development globally](https://www.computerweekly.com/news/252515075/More-than-300-new-hyperscale-datacentres-in-development-globally)
-- [Anonymous claims it has hacked the Central Bank of Russia](https://www.computerweekly.com/news/252515064/Anonymous-claims-it-has-hacked-the-Central-Bank-of-Russia)
-- [Ransomware demands and payments increase with use of leak sites](https://www.computerweekly.com/news/252515058/Ransomware-demands-and-payments-increase-with-use-of-leak-sites)
-- [Trainline readies for fresh challenges from launch of Great British Railways](https://www.computerweekly.com/news/252514967/Trainline-readies-for-fresh-challenges-from-launch-of-Great-British-Railways)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

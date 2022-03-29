@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Will Smith appears to hit Chris Rock over joke about wife Jada Pinkett Smith – Oscars 2022 live!](https://www.theguardian.com/film/live/2022/mar/27/oscars-2022-news-winners-nominations-latest)
-- [Russia-Ukraine war latest news: Zelenskiy ‘looking for peace without delay’; Biden denies urging Putin removal – live](https://www.theguardian.com/world/live/2022/mar/27/russia-ukraine-war-latest-zelenskiy-calls-on-west-for-planes-and-tanks-biden-says-butcher-putin-cannot-remain-in-power-live)
-- [Myanmar’s military ruler vows to ‘annihilate’ resistance groups](https://www.theguardian.com/world/2022/mar/28/myanmars-military-ruler-vows-to-annihilate-resistance-groups)
-- [The race to mine the deep sea – podcast](https://www.theguardian.com/news/audio/2022/mar/28/the-race-to-mine-the-deep-sea-today-in-focus-podcast)
-- [William and Kate: what matters is better future for people of Commonwealth](https://www.theguardian.com/uk-news/2022/mar/27/william-and-kate-better-future-commonwealth-caribbean-tour)
-- [USA all but seal place at World Cup as Pulisic hat-trick fuels rout of Panama](https://www.theguardian.com/football/2022/mar/27/usa-panama-world-cup-2022-qualifier-usmnt-soccer)
-- [How Covid helped China tighten its hold on Hong Kong](https://www.theguardian.com/world/2022/mar/28/covid-china-hong-kong)
-- [Islamic State claims responsibility for killing of two Israeli police officers](https://www.theguardian.com/world/2022/mar/27/two-suspected-arab-gunmen-kill-two-people-in-israel)
-- [Oscars 2022: the red carpet – in pictures](https://www.theguardian.com/film/gallery/2022/mar/28/oscars-2022-pictures-red-carpet-looks)
-- [Shanghai to lock down millions for mass testing as China’s Covid cases surge](https://www.theguardian.com/world/2022/mar/28/shanghai-to-lock-down-millions-for-mass-testing-as-chinas-covid-cases-surge)
+- [Russia-Ukraine war latest: Don’t push us into a corner, Kremlin warns; Zelenskiy tells world leaders ‘fear makes you an accomplice’](https://www.theguardian.com/world/live/2022/mar/28/russia-ukraine-war-latest-news-zelenskiy-putin-live-updates)
+- [Can P&amp;O be forced to reverse its mass sacking of workers? – podcast](https://www.theguardian.com/news/audio/2022/mar/29/has-p-and-o-ferries-got-away-with-sacking-uk-workforce-podcast)
+- [Will Smith apologizes to Chris Rock, Academy and viewers for onstage slap](https://www.theguardian.com/film/2022/mar/28/will-smith-apologizes-chris-rock-slap-oscars)
+- [US Capitol attack panel votes to recommend prosecution of Trump duo](https://www.theguardian.com/us-news/2022/mar/28/capitol-attack-committee-contempt-prosecution-vote-trump-aides)
+- [Russia-Ukraine war: what we know on day 34 of the Russian invasion](https://www.theguardian.com/world/2022/mar/29/russia-ukraine-war-what-we-know-on-day-34-of-the-russian-invasion)
+- [UK must seize chance to repair relations with EU, says thinktank head](https://www.theguardian.com/world/2022/mar/29/uk-must-seize-chance-to-repair-relations-with-eu-says-thinktank-head)
+- [Experts push for genetic testing to personalise drug prescriptions](https://www.theguardian.com/science/2022/mar/29/experts-push-for-genetic-testing-to-personalise-drug-prescriptions)
+- [Deliveroo extends its range adding new partner WH Smith’s products](https://www.theguardian.com/business/2022/mar/29/deliveroo-extends-its-range-adding-new-partner-wh-smith-products)
+- [Hotter nights increase risk of death from heart disease for men in early 60s](https://www.theguardian.com/society/2022/mar/28/hotter-nights-summer-increase-risk-death-heart-disease-men-early-60s)
+- [Winning Time: The Rise of the Lakers Dynasty review – Adam McKay’s basketball drama lacks magic](https://www.theguardian.com/tv-and-radio/2022/mar/28/winning-time-the-rise-of-the-lakers-dynasty-review-adam-mckays-basketball-drama-lacks-magic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

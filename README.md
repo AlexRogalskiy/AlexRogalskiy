@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I turned down my first 60k a year job offer](https://www.reddit.com/r/InformationTechnology/comments/tqmmbb/i_turned_down_my_first_60k_a_year_job_offer/)
+- [Which IT Certification or path to start?](https://www.reddit.com/r/InformationTechnology/comments/tqly62/which_it_certification_or_path_to_start/)
+- [Problem with Rufus](https://www.reddit.com/r/InformationTechnology/comments/tql3bw/problem_with_rufus/)
+- [Fun Question](https://www.reddit.com/r/InformationTechnology/comments/tqieg9/fun_question/)
+- [Infor Syteline Version 10, Reports not sending to Adobe](https://www.reddit.com/r/InformationTechnology/comments/tqfiw0/infor_syteline_version_10_reports_not_sending_to/)
+- [Iphone 6 Plus Cydia and Substitute Removal](https://www.reddit.com/r/InformationTechnology/comments/tq5quq/iphone_6_plus_cydia_and_substitute_removal/)
+- [what did you do as your college project?](https://www.reddit.com/r/InformationTechnology/comments/tq4k1s/what_did_you_do_as_your_college_project/)
 - [Tips for running ethernet cable in a rental apartment?](https://www.reddit.com/r/InformationTechnology/comments/tpylhp/tips_for_running_ethernet_cable_in_a_rental/)
 - [Limited wifi?](https://www.reddit.com/r/InformationTechnology/comments/tp21lw/limited_wifi/)
 - [Military IT?](https://www.reddit.com/r/InformationTechnology/comments/tp0xap/military_it/)
-- [alright im someone looking to get into the IT field but the thing is I dont know if these certifications help right now i currently have been doing Coursea courses and I currently have 2 course certificates but im wondering do course certificates have any meaning to get a starter IT job](https://www.reddit.com/r/InformationTechnology/comments/toxphz/alright_im_someone_looking_to_get_into_the_it/)
-- [Mueller Upgrading and Repairing PCs 23rd edition](https://www.reddit.com/r/InformationTechnology/comments/tonvul/mueller_upgrading_and_repairing_pcs_23rd_edition/)
-- [Generally speaking, which is the better solutions for remote users: VPN or Remote Desktop?](https://www.reddit.com/r/InformationTechnology/comments/tnxo20/generally_speaking_which_is_the_better_solutions/)
-- [How do you IT professionals deal with the never ending neck pain](https://www.reddit.com/r/InformationTechnology/comments/tntvbd/how_do_you_it_professionals_deal_with_the_never/)
-- [Once you have your Network+, A+, and Security+ certificates, what jobs are open to you? Salaries?](https://www.reddit.com/r/InformationTechnology/comments/tnla1k/once_you_have_your_network_a_and_security/)
-- [master&#39;s thesis presentation](https://www.reddit.com/r/InformationTechnology/comments/tnkj3t/masters_thesis_presentation/)
-- [High-school internship?](https://www.reddit.com/r/InformationTechnology/comments/tnk084/highschool_internship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

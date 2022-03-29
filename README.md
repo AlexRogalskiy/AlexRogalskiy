@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [On browsers and bugs](https://www.computerworld.com/article/3654954/on-browsers-and-bugs.html#tk.rss_all)
+- [Mural acquires LUMA and launches the Collaborative Intelligence System](https://www.computerworld.com/article/3654836/mural-acquires-luma-and-launches-the-collaborative-intelligence-system.html#tk.rss_all)
+- [BrandPost: Keeping Mac Users Safe: Security Tips for Small and Midsize Businesses](https://www.computerworld.com/article/3654953/keeping-mac-users-safe-security-tips-for-small-and-midsize-businesses.html#tk.rss_all)
+- [Apple Silicon, pandemic, drive Mac enterprise growth, admins say](https://www.computerworld.com/article/3655131/apple-silicon-pandemic-drive-mac-enterprise-growth-admins-say.html#tk.rss_all)
+- [With work-life ‘integration,’ say goodbye to the 9-5 workday](https://www.computerworld.com/article/3654950/does-work-life-integration-mean-the-end-of-work-life-balance.html#tk.rss_all)
 - [Artificial intelligence tackles the written word](https://www.computerworld.com/article/3654920/artificial-intelligence-tackles-the-written-word.html#tk.rss_all)
 - [EU targets big tech with new Digital Markets Act](https://www.computerworld.com/article/3654894/eu-targets-big-tech-with-new-digital-markets-act.html#tk.rss_all)
 - [Everything-as-a-service, Apple, and the future of business](https://www.computerworld.com/article/3655090/everything-as-a-service-apple-and-the-future-of-business.html#tk.rss_all)
 - [US, EU reach preliminary data privacy agreement](https://www.csoonline.com/article/3655076/u-s-eu-reach-preliminary-data-privacy-agreement.html#tk.rss_all)
 - [8 hidden Pixel features for smarter calling](https://www.computerworld.com/article/3614863/pixel-features-calling.html#tk.rss_all)
-- [Is Apple&#39;s macOS Monterey 12.3 beta haunted?](https://www.computerworld.com/article/3655088/is-apples-macos-monterey-123-beta-haunted.html#tk.rss_all)
-- [Nvidia GTC: Building the digital you](https://www.computerworld.com/article/3655068/nvidia-gtc-building-the-digital-you.html#tk.rss_all)
-- [10 easy steps to make Chrome faster and more secure](https://www.computerworld.com/article/3453843/easy-steps-to-make-chrome-faster-and-more-secure.html#tk.rss_all)
-- [The trouble with hybrid work](https://www.computerworld.com/article/3654214/the-trouble-with-hybrid-work.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

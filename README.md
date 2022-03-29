@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Do Developer Segmentation Better](https://www.heavybit.com/library/blog/heres-how-to-do-segmentation-better/)
-- [Building SaaS Products Efficiently on AWS](https://caylent.com/blog/aws/building-saas-products-efficiently-on-aws)
-- [MIT used simulations to teach a robot to run, and the results are hilarious](https://bgr.com/science/mit-used-simulations-to-teach-a-robot-to-run-and-the-results-are-hilarious/)
-- [Five misconceptions about remote work](https://www.washingtonpost.com/business/2022/03/24/debunking-misconceptions-about-remote-work/)
-- [Indians reluctant to denounce Russian ‘brothers’ over Ukraine](https://www.theguardian.com/world/2022/mar/27/indians-reluctant-to-denounce-russian-brothers-over-ukraine)
-- [Show HN: Networking Library Using Go Generics](https://github.com/brendoncarroll/go-p2p)
-- [Kaspersky, China Telecom, China Mobile named &#39;threats to US national security&#39;](https://www.theregister.com/2022/03/28/fcc_kaspersky_china_telecom_china_mobile_national_security/)
-- [The Riskiest Bets in the Stock Market Are the Most Popular](https://www.wsj.com/articles/the-riskiest-bets-in-the-stock-market-are-the-most-popular-11648329082)
-- [Galvanize winds down data education programs &lpar;2021&rpar;](https://blog.galvanize.com/galvanize-winds-down-data-education-programs/)
-- [Graphical quadratic formula solver from 1915 &lpar;nomogram&rpar;](https://www.youtube.com/watch?v=swCy6pQSEpk)
+- [Ready to fight: how a Russian uranium ban would threaten Native American tribes](https://www.theguardian.com/us-news/2022/mar/28/native-americans-ban-russian-uranium)
+- [When Nokia Pulled Out of Russia, a Vast Surveillance System Remained](https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html)
+- [How An Ivy League School Turned Against a Student](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
+- [We Can Do Better Than “Same, but Electric”](https://climateer.substack.com/p/better-than-fossil)
+- [How to Read Java: Understanding, debugging, and optimizing JVM applications](https://www.manning.com/books/how-to-read-java)
+- [Someone turns $300k into $1.35M with GameStop](https://old.reddit.com/r/wallstreetbets/comments/tql3zs/gme_yolo_300k135mil/)
+- [Everything and Nothing](https://www.imdb.com/title/tt2071460/)
+- [Ten Years of Red Blob Games](https://simblob.blogspot.com/2022/03/ten-years-of-red-blob-games.html)
+- [Ukraine is selling a timeline of the Russian invasion as NFTs](https://www.theverge.com/2022/3/25/22996168/ukraine-ministry-digital-transformation-nft-crypto-drop-fundraising-war-timeline)
+- [Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

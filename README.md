@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT Roles in your organization?](https://www.reddit.com/r/InformationTechnology/comments/trs1yj/it_roles_in_your_organization/)
+- [Looking for a IT solution](https://www.reddit.com/r/InformationTechnology/comments/trgwuw/looking_for_a_it_solution/)
+- [alright so i need to know this. how many times on average do you deal with the linux os while in IT](https://www.reddit.com/r/InformationTechnology/comments/tre152/alright_so_i_need_to_know_this_how_many_times_on/)
+- [Cloning Question](https://www.reddit.com/r/InformationTechnology/comments/trac4y/cloning_question/)
+- [Connecting 2 Networks?](https://www.reddit.com/r/InformationTechnology/comments/tr817h/connecting_2_networks/)
+- [Well Known Ports / Common Ports Explained](https://www.reddit.com/r/InformationTechnology/comments/tr6qfg/well_known_ports_common_ports_explained/)
 - [I turned down my first 60k a year job offer](https://www.reddit.com/r/InformationTechnology/comments/tqmmbb/i_turned_down_my_first_60k_a_year_job_offer/)
 - [Which IT Certification or path to start?](https://www.reddit.com/r/InformationTechnology/comments/tqly62/which_it_certification_or_path_to_start/)
-- [Problem with Rufus](https://www.reddit.com/r/InformationTechnology/comments/tql3bw/problem_with_rufus/)
 - [Fun Question](https://www.reddit.com/r/InformationTechnology/comments/tqieg9/fun_question/)
-- [Infor Syteline Version 10, Reports not sending to Adobe](https://www.reddit.com/r/InformationTechnology/comments/tqfiw0/infor_syteline_version_10_reports_not_sending_to/)
 - [Iphone 6 Plus Cydia and Substitute Removal](https://www.reddit.com/r/InformationTechnology/comments/tq5quq/iphone_6_plus_cydia_and_substitute_removal/)
-- [what did you do as your college project?](https://www.reddit.com/r/InformationTechnology/comments/tq4k1s/what_did_you_do_as_your_college_project/)
-- [Tips for running ethernet cable in a rental apartment?](https://www.reddit.com/r/InformationTechnology/comments/tpylhp/tips_for_running_ethernet_cable_in_a_rental/)
-- [Limited wifi?](https://www.reddit.com/r/InformationTechnology/comments/tp21lw/limited_wifi/)
-- [Military IT?](https://www.reddit.com/r/InformationTechnology/comments/tp0xap/military_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

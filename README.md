@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Overhaul of UK police tech needed to prevent abuse](https://www.computerweekly.com/news/252515236/Overhaul-of-UK-police-tech-needed-to-prevent-abuse)
+- [Rising energy costs blamed as UK arm of colocation firm Sungard AS enters administration](https://www.computerweekly.com/news/252515243/Rising-energy-costs-blamed-as-UK-arm-of-colocation-firm-Sungard-AS-enters-administration)
+- [NCSC: Not necessarily wise to ditch Kaspersky](https://www.computerweekly.com/news/252515246/NCSC-Not-necessarily-wise-to-ditch-Kaspersky)
+- [UK tech ecosystem reaches $1tn valuation](https://www.computerweekly.com/news/252515237/UK-tech-ecosystem-reaches-1tn-valuation)
+- [Wave of Log4j-linked attacks targeting VMware Horizon](https://www.computerweekly.com/news/252515229/Wave-of-Log4j-linked-attacks-targeting-VMware-Horizon)
+- [FCA reports 52% jump in security incidents](https://www.computerweekly.com/news/252515225/FCA-reports-52-jump-in-security-incidents)
+- [Spring Statement lays the foundation for a make-or-break Budget for business in the autumn](https://www.computerweekly.com/opinion/Spring-Statement-lays-the-foundation-for-a-make-or-break-Budget-for-business-in-the-autumn)
+- [Cabinet Office publishes playbook with rules for government digital projects](https://www.computerweekly.com/news/252515220/Cabinet-Office-publishes-playbook-with-rules-for-government-digital-projects)
+- [Ten years of the Raspberry Pi](https://www.computerweekly.com/ezine/Computer-Weekly/Ten-years-of-the-Raspberry-Pi)
 - [IT professionals wary of government campaign to limit end-to-end encryption](https://www.computerweekly.com/news/252515185/IT-professionals-wary-of-government-campaign-to-limit-end-to-end-encryption)
-- [Backup: N-able emerges from white box to aim at enterprise customers](https://www.computerweekly.com/news/252515191/Backup-N-able-emerges-from-white-box-to-aim-at-enterprise-customers)
-- [Public cloud giants fuel double-digit growth in datacentre hardware and software spend](https://www.computerweekly.com/news/252515193/Public-cloud-giants-fuel-double-digit-growth-in-datacentre-hardware-and-software-spend)
-- [NHS England deploys pilot AI tool to forecast A&amp;E admissions](https://www.computerweekly.com/news/252515189/NHS-England-deploys-pilot-AI-tool-to-forecast-AE-admissions)
-- [Babylon Health expands hybrid cloud infrastructure setup to include Google](https://www.computerweekly.com/news/252515184/Babylon-Health-expands-hybrid-cloud-infrastructure-setup-to-include-Google)
-- [Sajid Javid pushes digitisation of social care records](https://www.computerweekly.com/news/252515188/Sajid-Javid-pushes-digitisation-of-social-care-records)
-- [Industry clouds are all the rage, but are they driven by marketing or customer need?](https://www.computerweekly.com/feature/Industry-clouds-are-all-the-rage-but-are-they-driven-by-marketing-or-customer-need)
-- [US offers concessions on surveillance and privacy as EU and US agree successor to Privacy Shield](https://www.computerweekly.com/news/252515146/US-offers-concessions-on-surveillance-and-privacy-as-EU-and-US-agree-successor-to-Privacy-Shield)
-- [European Commission proposes new cyber security regulations](https://www.computerweekly.com/news/252515140/European-Commission-proposes-new-cyber-security-regulations)
-- [London police arrest seven in connection to Lapsus$](https://www.computerweekly.com/news/252515139/London-police-arrest-seven-in-connection-to-Lapsus)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

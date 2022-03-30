@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian Centre for Nonprofit Digital Resilience launches to help build a digitally-enabled nonprofit sector](https://www.itworldcanada.com/article/canadian-centre-for-nonprofit-digital-resilience-launches-to-help-build-a-digitally-enabled-nonprofit-sector/478319)
+- [Telus Health expands virtual care offerings with acquisition of Sprout Wellness Solutions](https://www.itworldcanada.com/article/telus-health-expands-virtual-care-offerings-with-acquisition-of-sprout-wellness-solutions/478300)
+- [Hydro One uses utility poles to deploy internet service in new pilot with the Ontario government](https://www.itworldcanada.com/article/hydro-one-uses-utility-poles-to-deploy-internet-service-in-new-pilot-with-the-ontario-government/478275)
+- [Meta announces new Canadian engineering hub in Toronto](https://www.itworldcanada.com/article/meta-announces-new-canadian-engineering-hub-in-toronto/478311)
+- [Rogers acquires Nova Scotia’s Cross Country TV](https://www.itworldcanada.com/article/rogers-acquires-nova-scotias-cross-country-tv/478242)
+- [New cloud solution to help SMBs meet Canadian cybersecurity standard](https://www.itworldcanada.com/article/new-cloud-solution-to-help-smbs-meet-canadian-cybersecurity-standard/478203)
+- [Coffee Briefing March 29, 2022 – HP to acquire Poly; Twitter Canada top 3 conversation trends 2022; Webex to launch two new datacentres in Canada; and more](https://www.itworldcanada.com/article/coffee-briefing-march-29-2022-hp-to-acquire-poly-twitter-canada-top-3-conversation-trends-2022-webex-to-launch-two-new-datacentres-in-canada-and-more/478163)
+- [Hashtag Trending March 29 – Remote work in the U.S.; misinformation hurts green energy adoption; Apple cuts back on iPhone SE production](https://www.itworldcanada.com/article/hashtag-trending-march-29-remote-work-in-the-u-s-misinformation-hurts-green-energy-adoption-apple-cuts-back-on-iphone-se-production/478136)
 - [Rogers launches its standalone 5G network, but it needs certified phones to work](https://www.itworldcanada.com/article/rogers-launches-its-standalone-5g-network-but-it-needs-certified-phones-to-work/478102)
 - [Canadian small businesses get another cybersecurity training resource](https://www.itworldcanada.com/article/canadian-small-businesses-get-another-cybersecurity-training-resource/478086)
-- [Many Canadian firms still ‘bury their heads in the sand’ over cyber risks, says expert](https://www.itworldcanada.com/article/many-canadian-firms-still-bury-their-heads-in-the-sand-over-cyber-risks-says-expert/477995)
-- [Cyber Security Today, March 28, 2022 – Kaspersky on US security threat list, malware found in NPM open source library, and more](https://www.itworldcanada.com/article/cyber-security-today-march-28-2022-kaspersky-on-us-security-threat-list-malware-found-in-npm-open-source-library-and-more/477957)
-- [Hashtag Trending March 26 – Kaspersky a security threat; subscription for iPhones; and sideloading apps on iPhones?](https://www.itworldcanada.com/article/hashtag-trending-march-26-kaspersky-a-security-threat-subscription-for-iphones-and-sideloading-apps-on-iphones/478015)
-- [Nine in ten Canadian nonprofits consider digital transformation efforts a top priority in updating business processes – report](https://www.itworldcanada.com/article/nine-in-ten-canadian-nonprofits-consider-digital-transformation-efforts-a-top-priority-in-updating-business-processes-report/477732)
-- [Cyber Security Today, Week in Review for Friday March 25, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-march-25-2022/477556)
-- [This week in ransomware](https://www.itworldcanada.com/article/this-week-in-ransomware/477716)
-- [Cyber Security Today, March 25, 2022 – More ransomware statistics, infected Excel files, a Chrome bug exploited and more](https://www.itworldcanada.com/article/cyber-security-today-march-25-2022-more-ransomware-statistics-infected-excel-files-a-chrome-bug-exploited-and-more/477694)
-- [Hashtag Trending March 25 – Uber is adding NYC yellow cabs to its app; Mercedes to accept legal responsibility when Drive Pilot mode is active; Netflix’s latest price hikes in the U.S.](https://www.itworldcanada.com/article/hashtag-trending-march-25-uber-is-adding-nyc-yellow-cabs-to-its-app-mercedes-to-accept-legal-responsibility-when-drive-pilot-mode-is-active-netflixs-latest-price-hikes-in-the-u-s/477709)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

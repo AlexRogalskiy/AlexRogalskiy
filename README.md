@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Don’t push us into a corner, Kremlin warns; Zelenskiy tells world leaders ‘fear makes you an accomplice’](https://www.theguardian.com/world/live/2022/mar/28/russia-ukraine-war-latest-news-zelenskiy-putin-live-updates)
-- [Can P&amp;O be forced to reverse its mass sacking of workers? – podcast](https://www.theguardian.com/news/audio/2022/mar/29/has-p-and-o-ferries-got-away-with-sacking-uk-workforce-podcast)
-- [Will Smith apologizes to Chris Rock, Academy and viewers for onstage slap](https://www.theguardian.com/film/2022/mar/28/will-smith-apologizes-chris-rock-slap-oscars)
-- [US Capitol attack panel votes to recommend prosecution of Trump duo](https://www.theguardian.com/us-news/2022/mar/28/capitol-attack-committee-contempt-prosecution-vote-trump-aides)
-- [Russia-Ukraine war: what we know on day 34 of the Russian invasion](https://www.theguardian.com/world/2022/mar/29/russia-ukraine-war-what-we-know-on-day-34-of-the-russian-invasion)
-- [UK must seize chance to repair relations with EU, says thinktank head](https://www.theguardian.com/world/2022/mar/29/uk-must-seize-chance-to-repair-relations-with-eu-says-thinktank-head)
-- [Experts push for genetic testing to personalise drug prescriptions](https://www.theguardian.com/science/2022/mar/29/experts-push-for-genetic-testing-to-personalise-drug-prescriptions)
-- [Deliveroo extends its range adding new partner WH Smith’s products](https://www.theguardian.com/business/2022/mar/29/deliveroo-extends-its-range-adding-new-partner-wh-smith-products)
-- [Hotter nights increase risk of death from heart disease for men in early 60s](https://www.theguardian.com/society/2022/mar/28/hotter-nights-summer-increase-risk-death-heart-disease-men-early-60s)
-- [Winning Time: The Rise of the Lakers Dynasty review – Adam McKay’s basketball drama lacks magic](https://www.theguardian.com/tv-and-radio/2022/mar/28/winning-time-the-rise-of-the-lakers-dynasty-review-adam-mckays-basketball-drama-lacks-magic)
+- [Australia v West Indies: ICC Women’s Cricket World Cup 2022 semi-final – live!](https://www.theguardian.com/sport/live/2022/mar/30/australia-vs-west-indies-icc-womens-cricket-world-cup-2022-semi-final-aus-v-windies-live-updates)
+- [Russia-Ukraine war latest: western officials urge caution over Russia’s peace talk promises – live](https://www.theguardian.com/world/live/2022/mar/29/russia-ukraine-war-latest-news-live-updates-putin-moscow-kremlin-zelenskiy-kyiv-russian-invasion)
+- [Ramzan Kadyrov: Putin’s ‘attack dog’ and Ukraine](https://www.theguardian.com/news/audio/2022/mar/30/ramzan-kadyrov-putins-attack-dog-and-ukraine)
+- [Russia-Ukraine war: what we know on day 35 of the Russian invasion](https://www.theguardian.com/world/2022/mar/30/russia-ukraine-war-what-we-know-on-day-35-of-the-russian-invasion)
+- [Ukraine has offered neutrality in talks with Russia – what would that mean?](https://www.theguardian.com/world/2022/mar/30/ukraine-offer-neutrality-meaning-constitution-russia-what-does-neutral-status-country-mean-how-would-it-work)
+- [Cherry blossom season blooms in Japan – in pictures](https://www.theguardian.com/world/gallery/2022/mar/30/cherry-blossom-season-blooms-in-japan-in-pictures)
+- [Cathay Pacific plans world’s longest passenger flight, avoiding Russia](https://www.theguardian.com/business/2022/mar/30/cathay-pacific-plans-worlds-longest-passenger-flight-avoiding-russia)
+- [1.5bn unused PPE items in England have passed expiry date, says audit office](https://www.theguardian.com/society/2022/mar/30/15bn-unused-ppe-items-in-england-have-passed-expiry-date-says-audit-office)
+- [UK’s low-income families to lose a fifth of their spare cash in 2022](https://www.theguardian.com/business/2022/mar/30/uks-low-income-families-to-lose-a-fifth-of-their-spare-cash-in-2022)
+- [Egyptian FA accuse Senegal fans of racism after World Cup playoff defeat](https://www.theguardian.com/football/2022/mar/29/african-world-cup-playoffs-senegal-egypt-nigeria-ghana-algeria-cameroon-morocco-dr-congo-tunisia-mali)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

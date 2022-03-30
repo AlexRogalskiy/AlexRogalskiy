@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Schizopost: What Schizoposting Is](https://thedayofthecollar.substack.com/p/why-i-schizopost-what-schizoposting)
-- [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
-- [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
-- [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
-- [FTB’s Schemes to Overcharge Taxpayers](https://gwsandiego.net/blog/?p=611)
-- [Swift on Mac OS 9 &lpar;2020&rpar;](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
-- [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
-- [Twilio employees, associates charged with insider trading by SEC](https://www.sec.gov/news/press-release/2022-55)
-- [Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)
-- [The arXiv of the future will not look like the arXiv](https://ar5iv.labs.arxiv.org/html/1709.07020)
+- [Zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
+- [100k Stars Chrome virtualization experiment](https://stars.chromeexperiments.com/)
+- [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/)
+- [Ubiquiti is suing Brian Krebs for his reporting on their breach](https://twitter.com/QuinnyPig/status/1508965090019577856)
+- [The Futility of Censorship](https://www.nybooks.com/articles/2022/04/07/the-futility-of-censorship-dangerous-ideas-eric-berkowitz/)
+- [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
+- [Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
+- [FTC sues Intuit for its deceptive TurboTax “free” filing campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
+- [GraphQL is now available on Supabase](https://supabase.com/blog/2022/03/29/graphql-now-available)
+- [Sergey Brin: The Facebook phenomenon is a problem &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1508851516387385346)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

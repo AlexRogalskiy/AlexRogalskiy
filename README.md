@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ready to fight: how a Russian uranium ban would threaten Native American tribes](https://www.theguardian.com/us-news/2022/mar/28/native-americans-ban-russian-uranium)
-- [When Nokia Pulled Out of Russia, a Vast Surveillance System Remained](https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html)
-- [How An Ivy League School Turned Against a Student](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
-- [We Can Do Better Than “Same, but Electric”](https://climateer.substack.com/p/better-than-fossil)
-- [How to Read Java: Understanding, debugging, and optimizing JVM applications](https://www.manning.com/books/how-to-read-java)
-- [Someone turns $300k into $1.35M with GameStop](https://old.reddit.com/r/wallstreetbets/comments/tql3zs/gme_yolo_300k135mil/)
-- [Everything and Nothing](https://www.imdb.com/title/tt2071460/)
-- [Ten Years of Red Blob Games](https://simblob.blogspot.com/2022/03/ten-years-of-red-blob-games.html)
-- [Ukraine is selling a timeline of the Russian invasion as NFTs](https://www.theverge.com/2022/3/25/22996168/ukraine-ministry-digital-transformation-nft-crypto-drop-fundraising-war-timeline)
-- [Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
+- [Wolfram Style Cellular Automata with Vim Macros](http://www.petecorey.com/blog/2020/04/03/wolfram-style-cellular-automata-with-vim-macros/)
+- [TspDB, a system to make highly accurate predictions on multi-time-series data](https://news.mit.edu/2022/tensor-predicting-future-0328)
+- [Looking Back on the Origin of Skip Intro Five Years Later](https://about.netflix.com/en)
+- [The Ingenious Design of the Jerrycan](https://www.youtube.com/watch?v=D_0YuaWrIRQ)
+- [The Irritant-Free Web](http://ht3.org/more)
+- [A Botanical Mystery Solved, After 146 Years](https://www.atlasobscura.com/articles/marianne-north-chassalia-northiana)
+- [Closures: A Deep Dive](https://www.humankode.com/javascript/javascript-closures-made-easy)
+- [Maintainable Rails](https://ryanbigg.com/2021/03/maintainable-rails)
+- [ClonePilot: A non-AI clone of Copilot which allows you to insert code from SO](https://github.com/Goel25/ClonePilotExtension)
+- [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

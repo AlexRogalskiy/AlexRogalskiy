@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wolfram Style Cellular Automata with Vim Macros](http://www.petecorey.com/blog/2020/04/03/wolfram-style-cellular-automata-with-vim-macros/)
-- [TspDB, a system to make highly accurate predictions on multi-time-series data](https://news.mit.edu/2022/tensor-predicting-future-0328)
-- [Looking Back on the Origin of Skip Intro Five Years Later](https://about.netflix.com/en)
-- [The Ingenious Design of the Jerrycan](https://www.youtube.com/watch?v=D_0YuaWrIRQ)
-- [The Irritant-Free Web](http://ht3.org/more)
-- [A Botanical Mystery Solved, After 146 Years](https://www.atlasobscura.com/articles/marianne-north-chassalia-northiana)
-- [Closures: A Deep Dive](https://www.humankode.com/javascript/javascript-closures-made-easy)
-- [Maintainable Rails](https://ryanbigg.com/2021/03/maintainable-rails)
-- [ClonePilot: A non-AI clone of Copilot which allows you to insert code from SO](https://github.com/Goel25/ClonePilotExtension)
-- [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
+- [The Delusions of Debian](https://unixsheikh.com/articles/the-delusions-of-debian.html)
+- [Ask HN: Could a fork of Java without modules succeed?](https://news.ycombinator.com/item?id=30863314)
+- [NYC cleared 239 homeless camps. Only 5 people moved to shelters](https://www.nytimes.com/2022/03/30/nyregion/nyc-homeless-eric-adams.html)
+- [Amateur Radio Antenna Is Made from a Single Tape Measure](https://www.hackster.io/news/this-amateur-radio-antenna-is-made-from-a-single-tape-measure-95a0020726ea)
+- [Nano ID Collision Calculator](https://zelark.github.io/nano-id-cc/)
+- [From Set Theory to Type Theory &lpar;2013&rpar;](https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html)
+- [Twitter&#39;s Probably Screwed](https://every.to/napkin-math/twitter-s-probably-screwed)
+- [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis&lpar;S&amp;P22&rpar;](https://news.ycombinator.com/item?id=30863270)
+- [Beewise pulls in $80m investment for robotic beehives](https://www.timesofisrael.com/israeli-bee-tech-startup-beewise-pulls-in-80m-investment-for-robotic-beehives/)
+- [Apple and Meta shared data with hackers pretending to be law enforcement](https://www.theverge.com/2022/3/30/23003600/apple-meta-shared-data-hackers-pretending-law-enforcement-officials)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

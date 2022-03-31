@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
-- [100k Stars Chrome virtualization experiment](https://stars.chromeexperiments.com/)
-- [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/)
-- [Ubiquiti is suing Brian Krebs for his reporting on their breach](https://twitter.com/QuinnyPig/status/1508965090019577856)
-- [The Futility of Censorship](https://www.nybooks.com/articles/2022/04/07/the-futility-of-censorship-dangerous-ideas-eric-berkowitz/)
-- [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
-- [Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
-- [FTC sues Intuit for its deceptive TurboTax “free” filing campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
-- [GraphQL is now available on Supabase](https://supabase.com/blog/2022/03/29/graphql-now-available)
-- [Sergey Brin: The Facebook phenomenon is a problem &lpar;2007&rpar;](https://twitter.com/TechEmails/status/1508851516387385346)
+- [Flexport is hiring software engineers](https://flexport.com/careers)
+- [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
+- [Hard to work with](https://lethain.com/hard-to-work-with/)
+- [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
+- [Idol Words](https://astralcodexten.substack.com/p/idol-words)
+- [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
+- [Spring Core on JDK9 is vulnerable to remote code execution](https://www.praetorian.com/blog/spring-core-jdk9-rce/)
+- [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
+- [Downpour: A game making tool for phones](https://v21.io/blog/announcing-downpour)
+- [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

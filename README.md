@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v West Indies: ICC Women’s Cricket World Cup 2022 semi-final – live!](https://www.theguardian.com/sport/live/2022/mar/30/australia-vs-west-indies-icc-womens-cricket-world-cup-2022-semi-final-aus-v-windies-live-updates)
-- [Russia-Ukraine war latest: western officials urge caution over Russia’s peace talk promises – live](https://www.theguardian.com/world/live/2022/mar/29/russia-ukraine-war-latest-news-live-updates-putin-moscow-kremlin-zelenskiy-kyiv-russian-invasion)
-- [Ramzan Kadyrov: Putin’s ‘attack dog’ and Ukraine](https://www.theguardian.com/news/audio/2022/mar/30/ramzan-kadyrov-putins-attack-dog-and-ukraine)
-- [Russia-Ukraine war: what we know on day 35 of the Russian invasion](https://www.theguardian.com/world/2022/mar/30/russia-ukraine-war-what-we-know-on-day-35-of-the-russian-invasion)
-- [Ukraine has offered neutrality in talks with Russia – what would that mean?](https://www.theguardian.com/world/2022/mar/30/ukraine-offer-neutrality-meaning-constitution-russia-what-does-neutral-status-country-mean-how-would-it-work)
-- [Cherry blossom season blooms in Japan – in pictures](https://www.theguardian.com/world/gallery/2022/mar/30/cherry-blossom-season-blooms-in-japan-in-pictures)
-- [Cathay Pacific plans world’s longest passenger flight, avoiding Russia](https://www.theguardian.com/business/2022/mar/30/cathay-pacific-plans-worlds-longest-passenger-flight-avoiding-russia)
-- [1.5bn unused PPE items in England have passed expiry date, says audit office](https://www.theguardian.com/society/2022/mar/30/15bn-unused-ppe-items-in-england-have-passed-expiry-date-says-audit-office)
-- [UK’s low-income families to lose a fifth of their spare cash in 2022](https://www.theguardian.com/business/2022/mar/30/uks-low-income-families-to-lose-a-fifth-of-their-spare-cash-in-2022)
-- [Egyptian FA accuse Senegal fans of racism after World Cup playoff defeat](https://www.theguardian.com/football/2022/mar/29/african-world-cup-playoffs-senegal-egypt-nigeria-ghana-algeria-cameroon-morocco-dr-congo-tunisia-mali)
+- [South Africa v England: Women’s Cricket World Cup semi-final 2022 – live!](https://www.theguardian.com/sport/live/2022/mar/31/south-africa-v-england-womens-cricket-world-cup-semi-final-2022-live)
+- [Russia-Ukraine war latest: GCHQ head says some Russian soldiers ‘refusing to carry out orders’; Putin ‘misled over Russian military performance’ – live](https://www.theguardian.com/world/live/2022/mar/30/russia-ukraine-war-latest-news-russian-troop-withdrawal-designed-to-mislead-says-ukrainian-military-live)
+- [Is Russia’s military strategy in Ukraine changing?](https://www.theguardian.com/news/audio/2022/mar/31/is-russias-military-strategy-in-ukraine-changing)
+- [Major jewellers to cease buying Russian-origin diamonds after increased scrutiny](https://www.theguardian.com/world/2022/mar/31/major-jewellers-to-cease-buying-russian-origin-diamonds-after-increased-scrutiny)
+- [Will Smith was asked to leave Oscars after slap but refused, Academy says](https://www.theguardian.com/film/2022/mar/30/will-smith-chris-rock-oscars-slap)
+- [Russia-Ukraine war: what we know on day 36 of the Russian invasion](https://www.theguardian.com/world/2022/mar/31/russia-ukraine-war-what-we-know-on-day-36-of-the-russian-invasion)
+- [Morbius review – ludicrously pointless Jekyll and Hyde vampire-monster yarn](https://www.theguardian.com/film/2022/mar/31/morbius-review-ludicrously-pointless-jekyll-and-hyde-vampire-monster-yarn)
+- [White House rebukes Trump after he calls on Putin to smear Hunter Biden](https://www.theguardian.com/us-news/2022/mar/30/white-house-trump-claim-putin-hunter-biden)
+- [Many of New Zealand’s glaciers could disappear in a decade, scientists warn](https://www.theguardian.com/environment/2022/mar/31/many-of-new-zealands-glaciers-could-disappear-in-a-decade-scientists-warn)
+- [Education union criticises ‘badly flawed’ evidence behind academy drive](https://www.theguardian.com/education/2022/mar/31/education-union-criticises-badly-flawed-evidence-behind-academy-drive)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [UnitedHealth to buy home health care provider LHC for $5.4B](https://www.computerworld.com/article/3654855/unitedhealth-to-buy-home-health-care-provider-lhc-for-54b.html#tk.rss_all)
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Boomerang takes the pain out of meeting scheduling](https://www.computerworld.com/article/3655310/boomerang-takes-the-pain-out-of-meeting-scheduling.html#tk.rss_all)
+- [Android tablets? Chromebook tablets? How Google thinks both can thrive](https://www.computerworld.com/article/3655309/android-tablets-chromebook-tablets.html#tk.rss_all)
+- [Amex GBT: Biz travel isn&#39;t dead, and now we need &#39;Chief Journey Officers&#39;](https://www.computerworld.com/article/3655099/amex-biz-travel-isnt-dead-and-now-we-need-chief-journey-officers.html#tk.rss_all)
+- [UnitedHealth to buy home healthcare provider LHC for $5.4B](https://www.computerworld.com/article/3654855/unitedhealth-to-buy-home-healthcare-provider-lhc-for-54b.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [At Enterprise Connect, IT pros set out their hybrid work strategies](https://www.computerworld.com/article/3655082/at-enterprise-connect-it-pros-set-out-their-hybrid-work-strategies.html#tk.rss_all)
 - [How not to upgrade your enterprise technology](https://www.computerworld.com/article/3654959/how-not-to-upgrade-your-enterprise-technology.html#tk.rss_all)
 - [Otter.ai overhauls its popular transcription platform](https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.html#tk.rss_all)
-- [HP to acquire Poly for $3.3B](https://www.computerworld.com/article/3654838/hp-to-acquire-poly-for-3-3b.html#tk.rss_all)
-- [As Omicron wanes, where does that leave working from home?](https://www.computerworld.com/article/3654917/as-omicron-wanes-where-does-that-leave-working-from-home.html#tk.rss_all)
-- [USB-C explained: How to get the most from it &lpar;and why it still keeps getting better&rpar;](https://www.computerworld.com/article/2488194/usb-c-explained-how-to-get-the-most-from-it-and-why-it-keeps-getting-better.html#tk.rss_all)
-- [On browsers and bugs](https://www.computerworld.com/article/3654954/on-browsers-and-bugs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

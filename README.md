@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Canadian Centre for Nonprofit Digital Resilience launches to help build a digitally-enabled nonprofit sector](https://www.itworldcanada.com/article/canadian-centre-for-nonprofit-digital-resilience-launches-to-help-build-a-digitally-enabled-nonprofit-sector/478319)
-- [Telus Health expands virtual care offerings with acquisition of Sprout Wellness Solutions](https://www.itworldcanada.com/article/telus-health-expands-virtual-care-offerings-with-acquisition-of-sprout-wellness-solutions/478300)
-- [Hydro One uses utility poles to deploy internet service in new pilot with the Ontario government](https://www.itworldcanada.com/article/hydro-one-uses-utility-poles-to-deploy-internet-service-in-new-pilot-with-the-ontario-government/478275)
-- [Meta announces new Canadian engineering hub in Toronto](https://www.itworldcanada.com/article/meta-announces-new-canadian-engineering-hub-in-toronto/478311)
-- [Rogers acquires Nova Scotia’s Cross Country TV](https://www.itworldcanada.com/article/rogers-acquires-nova-scotias-cross-country-tv/478242)
-- [New cloud solution to help SMBs meet Canadian cybersecurity standard](https://www.itworldcanada.com/article/new-cloud-solution-to-help-smbs-meet-canadian-cybersecurity-standard/478203)
-- [Coffee Briefing March 29, 2022 – HP to acquire Poly; Twitter Canada top 3 conversation trends 2022; Webex to launch two new datacentres in Canada; and more](https://www.itworldcanada.com/article/coffee-briefing-march-29-2022-hp-to-acquire-poly-twitter-canada-top-3-conversation-trends-2022-webex-to-launch-two-new-datacentres-in-canada-and-more/478163)
-- [Hashtag Trending March 29 – Remote work in the U.S.; misinformation hurts green energy adoption; Apple cuts back on iPhone SE production](https://www.itworldcanada.com/article/hashtag-trending-march-29-remote-work-in-the-u-s-misinformation-hurts-green-energy-adoption-apple-cuts-back-on-iphone-se-production/478136)
-- [Rogers launches its standalone 5G network, but it needs certified phones to work](https://www.itworldcanada.com/article/rogers-launches-its-standalone-5g-network-but-it-needs-certified-phones-to-work/478102)
-- [Canadian small businesses get another cybersecurity training resource](https://www.itworldcanada.com/article/canadian-small-businesses-get-another-cybersecurity-training-resource/478086)
+- [Torontonians arrested in international business email scammer sweep](https://www.itworldcanada.com/article/torontonians-arrested-in-international-business-email-scammer-sweep/478764)
+- [Apple launches $50 million Supplier Employee Development Fund](https://www.itworldcanada.com/article/apple-launches-50-million-supplier-employee-development-fund/478716)
+- [Global cloud backup and recovery firm Keepit opens its first two Canadian datacentres](https://www.itworldcanada.com/article/global-cloud-backup-and-recovery-firm-keepit-opens-its-first-two-canadian-datacentres/478722)
+- [Overcoming five key challenges of data analytics in a hybrid environment](https://www.itworldcanada.com/article/overcoming-five-key-challenges-of-data-analytics-in-a-hybrid-environment/478731)
+- [Newfoundland and Labrador health system attackers copied 200,000 patient and employee files](https://www.itworldcanada.com/article/newfoundland-and-labrador-health-system-attackers-copied-200000-patient-and-employee-files/478645)
+- [Hashtag Trending March 31 – Apple faces lawsuit; Activision Blizzard’s harassment settlement approved; Tech employees in China get laid off with a congratulations note](https://www.itworldcanada.com/article/hashtag-trending-march-31-apple-faces-lawsuit-activision-blizzards-harassment-settlement-approved-tech-employees-in-china-get-laid-off-with-a-congratulations-note/478669)
+- [Hackers still trying to compromise VMWare Horizon through Log4j bug, says Sophos](https://www.itworldcanada.com/article/hackers-still-trying-to-compromise-vmware-horizon-through-log4j-bug-says-sophos/478543)
+- [Offering customers a great and secure experience online](https://www.itworldcanada.com/article/offering-customers-a-great-and-secure-experience-online/478568)
+- [Palo Alto Networks launches new firewall service for AWS](https://www.itworldcanada.com/article/palo-alto-networks-launches-new-firewall-service-for-aws/478547)
+- [Canada, U.S. to negotiate treaty to speed up police data access requests](https://www.itworldcanada.com/article/canada-u-s-to-negotiate-treaty-to-speed-up-police-data-access-requests/478388)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

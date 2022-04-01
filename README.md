@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [If I run an application on my PC that throttles the download speed for incoming data requested by the application, is that application throttling the download speed of my entire network? Or just this link on the network? Or none of the above?](https://www.reddit.com/r/InformationTechnology/comments/tt79ka/if_i_run_an_application_on_my_pc_that_throttles/)
+- [Happy World Backup Day!](https://www.reddit.com/r/InformationTechnology/comments/tt5ndc/happy_world_backup_day/)
+- [Help creating a static IP address on a LTN8708K-P8 NVR](https://www.reddit.com/r/InformationTechnology/comments/tt3kxy/help_creating_a_static_ip_address_on_a_ltn8708kp8/)
+- [Software to simulate the Universe](https://www.reddit.com/r/InformationTechnology/comments/tt22ze/software_to_simulate_the_universe/)
+- [CASP+ Exam Prep Bundle](https://www.reddit.com/r/InformationTechnology/comments/tszff3/casp_exam_prep_bundle/)
+- [Network Admin working from home and leaves me &lpar;a Tier 1&rpar; at work alone](https://www.reddit.com/r/InformationTechnology/comments/tsr39b/network_admin_working_from_home_and_leaves_me_a/)
+- [When doing side work, when did you decide do make a sole proprieter/LLC and get insured?](https://www.reddit.com/r/InformationTechnology/comments/tsifau/when_doing_side_work_when_did_you_decide_do_make/)
+- [MSIS Admit, Fall 2022. Please suggest. UMCP MSIS or UFL MSISOM &lpar;Data Science concentration&rpar; or UTD MSITM &lpar;instate Fees&rpar;, International Student](https://www.reddit.com/r/InformationTechnology/comments/ts4d2z/msis_admit_fall_2022_please_suggest_umcp_msis_or/)
+- [How BI and ML Are Driving Digital Transformation](https://www.reddit.com/r/InformationTechnology/comments/trxo16/how_bi_and_ml_are_driving_digital_transformation/)
 - [IT Roles in your organization?](https://www.reddit.com/r/InformationTechnology/comments/trs1yj/it_roles_in_your_organization/)
-- [Looking for a IT solution](https://www.reddit.com/r/InformationTechnology/comments/trgwuw/looking_for_a_it_solution/)
-- [alright so i need to know this. how many times on average do you deal with the linux os while in IT](https://www.reddit.com/r/InformationTechnology/comments/tre152/alright_so_i_need_to_know_this_how_many_times_on/)
-- [Cloning Question](https://www.reddit.com/r/InformationTechnology/comments/trac4y/cloning_question/)
-- [Connecting 2 Networks?](https://www.reddit.com/r/InformationTechnology/comments/tr817h/connecting_2_networks/)
-- [Well Known Ports / Common Ports Explained](https://www.reddit.com/r/InformationTechnology/comments/tr6qfg/well_known_ports_common_ports_explained/)
-- [I turned down my first 60k a year job offer](https://www.reddit.com/r/InformationTechnology/comments/tqmmbb/i_turned_down_my_first_60k_a_year_job_offer/)
-- [Which IT Certification or path to start?](https://www.reddit.com/r/InformationTechnology/comments/tqly62/which_it_certification_or_path_to_start/)
-- [Fun Question](https://www.reddit.com/r/InformationTechnology/comments/tqieg9/fun_question/)
-- [Iphone 6 Plus Cydia and Substitute Removal](https://www.reddit.com/r/InformationTechnology/comments/tq5quq/iphone_6_plus_cydia_and_substitute_removal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

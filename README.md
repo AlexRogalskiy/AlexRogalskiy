@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Introducing InformationWeek’s ‘DOS Won’t Hunt’ Podcast](https://www.informationweek.com/strategic-cio/introducing-informationweek-s-dos-won-t-hunt-podcast)
+- [What Fortnite and World of Warcraft Can Teach Us About the Metaverse](https://www.informationweek.com/software/what-fortnite-and-world-of-warcraft-can-teach-us-about-the-metaverse)
+- [How AI is Making Smart Buildings Greener, More Sustainable](https://www.informationweek.com/it-strategy/how-ai-is-making-smart-buildings-greener-more-sustainable)
+- [Why to Consider Hiring IT Job Applicants Without College Degrees](https://www.informationweek.com/strategic-cio/why-to-consider-hiring-it-job-applicants-without-college-degrees)
+- [Addressing Diversity and Inclusion Separately in the Workplace](https://www.informationweek.com/strategic-cio/addressing-diversity-and-inclusion-separately-in-the-workplace)
+- [Wi-Fi 6 2022 Trends: Not Your Grandfather&#39;s Wi-Fi](https://www.informationweek.com/it-life/wi-fi-6-2022-trends-not-your-grandfather-s-wi-fi)
 - [Will Your Data Science Skills Take You Where You Want to Go?](https://www.informationweek.com/big-data/will-your-data-science-skills-take-you-where-you-want-to-go-)
 - [AI-Driven Satellite Connectivity Linking Up IoT, Edge Computing](https://www.informationweek.com/big-data/ai-driven-satellite-connectivity-linking-up-iot-edge-computing)
 - [5 IT Strategies to Support Post-COVID Revenue Demands](https://www.informationweek.com/strategic-cio/5-it-strategies-to-support-post-covid-revenue-demands)
 - [Alteryx Gears Up for the Analytics Cloud Future](https://www.informationweek.com/cloud/alteryx-gears-up-for-the-analytics-cloud-future)
-- [Enterprise Guide to Multi-Cloud Adoption](https://www.informationweek.com/cloud/enterprise-guide-to-multi-cloud-adoption)
-- [European Payments Initiative Project Pivots After 20 banks Depart](https://www.informationweek.com/fintech/european-payments-initiative-project-pivots-after-20-banks-depart)
-- [Dawn Foods Tries a Low-Code Recipe for QA Testing Automation](https://www.informationweek.com/devops/dawn-foods-tries-a-low-code-recipe-for-qa-testing-automation)
-- [Companies Are Adopting Cloud, but Do They Really Know Why?](https://www.informationweek.com/cloud/companies-are-adopting-cloud-but-do-they-really-know-why-)
-- [Supply Chain Strategies: 3D Printing Our Way Out of Russia’s War](https://www.informationweek.com/software/supply-chain-strategies-3d-printing-our-way-out-of-russia-s-war)
-- [How To Get Workers On Board With AI](https://www.informationweek.com/ai-or-machine-learning/how-to-get-workers-on-board-with-ai)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

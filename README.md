@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Overhaul of UK police tech needed to prevent abuse](https://www.computerweekly.com/news/252515236/Overhaul-of-UK-police-tech-needed-to-prevent-abuse)
-- [Rising energy costs blamed as UK arm of colocation firm Sungard AS enters administration](https://www.computerweekly.com/news/252515243/Rising-energy-costs-blamed-as-UK-arm-of-colocation-firm-Sungard-AS-enters-administration)
-- [NCSC: Not necessarily wise to ditch Kaspersky](https://www.computerweekly.com/news/252515246/NCSC-Not-necessarily-wise-to-ditch-Kaspersky)
-- [UK tech ecosystem reaches $1tn valuation](https://www.computerweekly.com/news/252515237/UK-tech-ecosystem-reaches-1tn-valuation)
-- [Wave of Log4j-linked attacks targeting VMware Horizon](https://www.computerweekly.com/news/252515229/Wave-of-Log4j-linked-attacks-targeting-VMware-Horizon)
-- [FCA reports 52% jump in security incidents](https://www.computerweekly.com/news/252515225/FCA-reports-52-jump-in-security-incidents)
-- [Spring Statement lays the foundation for a make-or-break Budget for business in the autumn](https://www.computerweekly.com/opinion/Spring-Statement-lays-the-foundation-for-a-make-or-break-Budget-for-business-in-the-autumn)
-- [Cabinet Office publishes playbook with rules for government digital projects](https://www.computerweekly.com/news/252515220/Cabinet-Office-publishes-playbook-with-rules-for-government-digital-projects)
-- [Ten years of the Raspberry Pi](https://www.computerweekly.com/ezine/Computer-Weekly/Ten-years-of-the-Raspberry-Pi)
-- [IT professionals wary of government campaign to limit end-to-end encryption](https://www.computerweekly.com/news/252515185/IT-professionals-wary-of-government-campaign-to-limit-end-to-end-encryption)
+- [EU Act ‘must empower those affected by AI systems to take action’](https://www.computerweekly.com/news/252515378/EU-Act-must-empower-those-affected-by-AI-systems-to-take-action)
+- [Spain’s La Liga looks to enleague data analytics with Databricks](https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks)
+- [Global upheaval shows cyber security isn’t good enough, says GCHQ director](https://www.computerweekly.com/news/252515375/Global-upheaval-shows-cyber-security-isnt-good-enough-says-GCHQ-director)
+- [Lapsus$ cyber crime spree continues despite arrests](https://www.computerweekly.com/news/252515369/Lapsus-cyber-crime-spree-continues-despite-arrests)
+- [Spring4Shell zero-day sprung on security teams](https://www.computerweekly.com/news/252515360/Spring4Shell-zero-day-sprung-on-security-teams)
+- [BCS Pride group calls for end to transphobia in tech](https://www.computerweekly.com/news/252515287/BCS-Pride-group-calls-for-end-to-transphobia-in-tech)
+- [British Airways passengers suffer flight delays due to another IT glitch affecting London Heathrow](https://www.computerweekly.com/news/252515311/British-Airways-passengers-suffer-flight-delays-due-to-another-IT-glitch)
+- [ODI sets up institution to promote public data sharing](https://www.computerweekly.com/news/252515306/ODI-sets-up-institute-to-promote-public-data-sharing)
+- [Acquisition of UK fintech Azimo will address home-working challenges for enterprises](https://www.computerweekly.com/news/252515289/Acquisition-of-UK-fintech-Azimo-will-address-home-working-challenges-for-enterprises)
+- [Lax money laundering controls lands N26 with ban from Italian central bank](https://www.computerweekly.com/news/252515296/Lax-money-laundering-controls-lands-N26-with-ban-from-Italian-central-bank)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

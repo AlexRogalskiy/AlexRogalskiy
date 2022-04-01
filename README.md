@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Delusions of Debian](https://unixsheikh.com/articles/the-delusions-of-debian.html)
-- [Ask HN: Could a fork of Java without modules succeed?](https://news.ycombinator.com/item?id=30863314)
-- [NYC cleared 239 homeless camps. Only 5 people moved to shelters](https://www.nytimes.com/2022/03/30/nyregion/nyc-homeless-eric-adams.html)
-- [Amateur Radio Antenna Is Made from a Single Tape Measure](https://www.hackster.io/news/this-amateur-radio-antenna-is-made-from-a-single-tape-measure-95a0020726ea)
-- [Nano ID Collision Calculator](https://zelark.github.io/nano-id-cc/)
-- [From Set Theory to Type Theory &lpar;2013&rpar;](https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html)
-- [Twitter&#39;s Probably Screwed](https://every.to/napkin-math/twitter-s-probably-screwed)
-- [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis&lpar;S&amp;P22&rpar;](https://news.ycombinator.com/item?id=30863270)
-- [Beewise pulls in $80m investment for robotic beehives](https://www.timesofisrael.com/israeli-bee-tech-startup-beewise-pulls-in-80m-investment-for-robotic-beehives/)
-- [Apple and Meta shared data with hackers pretending to be law enforcement](https://www.theverge.com/2022/3/30/23003600/apple-meta-shared-data-hackers-pretending-law-enforcement-officials)
+- [Google’s next US antitrust issue: Google Maps](https://arstechnica.com/gadgets/2022/03/googles-next-us-antitrust-issue-google-maps/)
+- [The awkward timing of Fedora and Go releases](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraAndGoTiming)
+- [The Unskippable Opening Credits for Severance](https://kottke.org/22/03/the-unskippable-opening-credits-for-severance)
+- [Modes of CTO Success and Failure](https://www.interna.com/post/cto-success-failure)
+- [Reliance Jio adds highest active users despite gross sub losses](https://economictimes.indiatimes.com/industry/telecom/telecom-news/reliance-jio-adds-highest-active-users-despite-gross-sub-losses-analysts/articleshow/90564164.cms?from=mdr)
+- [Why Mearsheimer’s Realist Take Is So Exasperating](https://tompepinsky.com/2022/03/03/heres-why-mearsheimers-realist-take-is-so-exasperating/)
+- [China&#39;s tech layoffs could become a self-inflicted headache for Xi](https://www.cnn.com/2022/03/31/tech/china-tech-unemployment-crisis-xi-challenge-intl-hnk/index.html)
+- [Forest Management Handbook for Small-Parcel Landowners Released](https://yubanet.com/regional/forest-management-handbook-for-small-parcel-landowners-released/)
+- [Largest Bay Area Employers](https://www.bizjournals.com/sanfrancisco/subscriber-only/2021/07/16/largest-bay-area-employers.html)
+- [Engineering Metrics: 12 Pitfalls](https://angelariggs.github.io/articles/twelve-pitfalls-engineering-metrics)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

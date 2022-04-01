@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Docker raises $105M funding round to fuel its focus on developers](https://www.infoworld.com/article/3654966/docker-raises-105m-funding-round-to-fuel-its-focus-on-developers.html#tk.rss_all)
+- [A quick guide to blockchain](https://www.infoworld.com/article/3653379/a-quick-guide-to-blockchain.html#tk.rss_all)
+- [React 18 arrives with concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_all)
+- [Solomon Hykes’ Dagger raises $20M and launches public beta](https://www.infoworld.com/article/3654963/solomon-hykes-dagger-raises-20m-and-launches-public-beta.html#tk.rss_all)
+- [WSO2 launches low-code, cloud-native PaaS for API development](https://www.infoworld.com/article/3654897/wso2-launches-low-code-cloud-native-paas-for-api-development.html#tk.rss_all)
+- [Azure Percept: A machine learning quick starter](https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html#tk.rss_all)
+- [Review: The 6 best JavaScript IDEs](https://www.infoworld.com/article/3192844/review-the-6-best-javascript-ides.html#tk.rss_all)
 - [Mozilla unveils vision for web evolution](https://www.infoworld.com/article/3654854/mozilla-unveils-vision-for-web-evolution.html#tk.rss_all)
 - [Optimize your cloud career](https://www.infoworld.com/article/3654834/optimize-your-cloud-career.html#tk.rss_all)
 - [Artificial intelligence really isn’t all that intelligent](https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html#tk.rss_all)
-- [Beyond SQL: 8 new languages for data querying](https://www.infoworld.com/article/3654909/beyond-sql-8-new-languages-for-data-querying.html#tk.rss_all)
-- [If you build it, it will run](https://www.infoworld.com/article/3655130/if-you-build-it-it-will-run.html#tk.rss_all)
-- [Managing the complexity of cloud strategies](https://www.infoworld.com/article/3655089/managing-the-complexity-of-cloud-strategies.html#tk.rss_all)
-- [Microsoft ends support for .NET 5.0](https://www.infoworld.com/article/3654921/microsoft-ends-support-for-net-50.html#tk.rss_all)
-- [PlanetScale introduces Rewind feature to &#39;undo&#39; bad schema migrations](https://www.infoworld.com/article/3654892/planetscale-introduces-rewind-feature-to-undo-bad-schema-migrations.html#tk.rss_all)
-- [Redis Stack outfits Redis for real-time apps](https://www.infoworld.com/article/3654915/redis-stack-outfits-redis-for-real-time-apps.html#tk.rss_all)
-- [Why governance is critical to cloud success](https://www.infoworld.com/article/3654911/why-governance-is-critical-to-cloud-success.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

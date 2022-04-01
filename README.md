@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Ukrainian IT industry says it’s still open for business](https://www.computerworld.com/article/3655933/ukrainian-it-industry-says-it-s-still-open-for-business.html#tk.rss_all)
+- [Podcast: iPhone 14 rumors and Apple’s hardware subscription service](https://www.computerworld.com/article/3655632/podcast-iphone-14-rumors-and-apples-hardware-subscription-service.html#tk.rss_all)
+- [Apple Business Essentials exits beta, adds AppleCare](https://www.computerworld.com/article/3655931/apple-business-essentials-exits-beta-adds-applecare.html#tk.rss_all)
+- [BCG shows how to use AI the right way](https://www.computerworld.com/article/3655948/bcg-shows-how-to-use-ai-the-right-way.html#tk.rss_all)
+- [Apple can support sideloading, while protecting the rest of us](https://www.computerworld.com/article/3655731/apple-can-support-sideloading-while-protecting-the-rest-of-us.html#tk.rss_all)
+- [Lawmakers join growing push to create a &#39;digital dollar&#39;](https://www.computerworld.com/article/3655728/lawmakers-join-growing-push-to-create-a-digital-dollar.html#tk.rss_all)
+- [Intel lays out its flexible working policy](https://www.computerworld.com/article/3655889/intel-lays-out-its-flexible-working-policy.html#tk.rss_all)
+- [How to stop worrying and love zero trust](https://www.computerworld.com/article/3654918/how-to-stop-worrying-and-love-zero-trust.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Boomerang takes the pain out of meeting scheduling](https://www.computerworld.com/article/3655310/boomerang-takes-the-pain-out-of-meeting-scheduling.html#tk.rss_all)
-- [Android tablets? Chromebook tablets? How Google thinks both can thrive](https://www.computerworld.com/article/3655309/android-tablets-chromebook-tablets.html#tk.rss_all)
-- [Amex GBT: Biz travel isn&#39;t dead, and now we need &#39;Chief Journey Officers&#39;](https://www.computerworld.com/article/3655099/amex-biz-travel-isnt-dead-and-now-we-need-chief-journey-officers.html#tk.rss_all)
-- [UnitedHealth to buy home healthcare provider LHC for $5.4B](https://www.computerworld.com/article/3654855/unitedhealth-to-buy-home-healthcare-provider-lhc-for-54b.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [At Enterprise Connect, IT pros set out their hybrid work strategies](https://www.computerworld.com/article/3655082/at-enterprise-connect-it-pros-set-out-their-hybrid-work-strategies.html#tk.rss_all)
-- [How not to upgrade your enterprise technology](https://www.computerworld.com/article/3654959/how-not-to-upgrade-your-enterprise-technology.html#tk.rss_all)
-- [Otter.ai overhauls its popular transcription platform](https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

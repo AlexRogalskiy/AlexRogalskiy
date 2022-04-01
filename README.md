@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flexport is hiring software engineers](https://flexport.com/careers)
-- [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
-- [Hard to work with](https://lethain.com/hard-to-work-with/)
-- [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
-- [Idol Words](https://astralcodexten.substack.com/p/idol-words)
-- [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
-- [Spring Core on JDK9 is vulnerable to remote code execution](https://www.praetorian.com/blog/spring-core-jdk9-rce/)
-- [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
-- [Downpour: A game making tool for phones](https://v21.io/blog/announcing-downpour)
-- [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
+- [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
+- [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
+- [Why Have Female Animals Evolved Such Wild Genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
+- [Magician&#39;s Own Book: Experiments in Electricity &lpar;1862&rpar;](https://archive.org/details/magiciansownbook00arno)
+- [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
+- [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
+- [Fast &lpar;2019&rpar;](https://patrickcollison.com/fast)
+- [Go mod’s lesser known features](https://verdverm.com/go-mods/)
+- [AltWinDirStat](https://github.com/ariccio/altWinDirStat)
+- [The singularity is close?](https://mkaic.substack.com/p/the-singularity-is-very-close)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

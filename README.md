@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Africa v England: Women’s Cricket World Cup semi-final 2022 – live!](https://www.theguardian.com/sport/live/2022/mar/31/south-africa-v-england-womens-cricket-world-cup-semi-final-2022-live)
-- [Russia-Ukraine war latest: GCHQ head says some Russian soldiers ‘refusing to carry out orders’; Putin ‘misled over Russian military performance’ – live](https://www.theguardian.com/world/live/2022/mar/30/russia-ukraine-war-latest-news-russian-troop-withdrawal-designed-to-mislead-says-ukrainian-military-live)
-- [Is Russia’s military strategy in Ukraine changing?](https://www.theguardian.com/news/audio/2022/mar/31/is-russias-military-strategy-in-ukraine-changing)
-- [Major jewellers to cease buying Russian-origin diamonds after increased scrutiny](https://www.theguardian.com/world/2022/mar/31/major-jewellers-to-cease-buying-russian-origin-diamonds-after-increased-scrutiny)
-- [Will Smith was asked to leave Oscars after slap but refused, Academy says](https://www.theguardian.com/film/2022/mar/30/will-smith-chris-rock-oscars-slap)
-- [Russia-Ukraine war: what we know on day 36 of the Russian invasion](https://www.theguardian.com/world/2022/mar/31/russia-ukraine-war-what-we-know-on-day-36-of-the-russian-invasion)
-- [Morbius review – ludicrously pointless Jekyll and Hyde vampire-monster yarn](https://www.theguardian.com/film/2022/mar/31/morbius-review-ludicrously-pointless-jekyll-and-hyde-vampire-monster-yarn)
-- [White House rebukes Trump after he calls on Putin to smear Hunter Biden](https://www.theguardian.com/us-news/2022/mar/30/white-house-trump-claim-putin-hunter-biden)
-- [Many of New Zealand’s glaciers could disappear in a decade, scientists warn](https://www.theguardian.com/environment/2022/mar/31/many-of-new-zealands-glaciers-could-disappear-in-a-decade-scientists-warn)
-- [Education union criticises ‘badly flawed’ evidence behind academy drive](https://www.theguardian.com/education/2022/mar/31/education-union-criticises-badly-flawed-evidence-behind-academy-drive)
+- [Russia-Ukraine war latest: Russia redeploying forces from Georgia, UK says; Germany rejects Putin’s gas supply ‘blackmail’ – live](https://www.theguardian.com/world/live/2022/mar/31/russia-ukraine-war-latest-news-ukraine-braces-for-attacks-in-east-us-says-putin-misled-by-advisers-live)
+- [Russians fled Chernobyl with radiation sickness, says Ukraine as IAEA investigates](https://www.theguardian.com/world/2022/apr/01/russians-fled-chernobyl-with-radiation-sickness-says-ukraine-as-iaea-investigates)
+- [Myanmar: the reporters risking everything to cover a forgotten conflict – podcast](https://www.theguardian.com/news/audio/2022/apr/01/myanmar-the-reporter-risking-everything-to-cover-a-forgotten-conflict-podcast)
+- [Unseeded Naomi Osaka rallies past Belinda Bencic to reach Miami final](https://www.theguardian.com/sport/2022/mar/31/naomi-osaka-miami-open-daniil-medvedev)
+- [The Bubble review – Judd Apatow’s star stuffed pandemic comedy runs out of puff](https://www.theguardian.com/film/2022/mar/30/the-bubble-review-judd-apatows-star-stuffed-pandemic-comedy-runs-out-of-puff)
+- [Russia-Ukraine war: what we know on day 37 of the Russian invasion](https://www.theguardian.com/world/2022/apr/01/russia-ukraine-war-what-we-know-on-day-37-of-the-russian-invasion)
+- [Sri Lanka: protesters try to storm president’s house as economic crisis deepens](https://www.theguardian.com/world/2022/apr/01/sri-lanka-protesters-try-to-storm-presidents-house-as-economic-crisis-deepens)
+- [Glasgow apologises for role in slave trade, saying its ‘tentacles’ are in every corner of city](https://www.theguardian.com/uk-news/2022/apr/01/glasgow-apologises-for-role-in-slave-trade-saying-its-tentacles-are-in-every-corner-of-city)
+- [Letting go: the decluttering obsession moves into the mind](https://www.theguardian.com/lifeandstyle/2022/apr/01/sweet-surrender-how-letting-go-became-a-self-help-phenomenon)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/01/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

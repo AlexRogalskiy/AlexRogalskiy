@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
-- [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
-- [Why Have Female Animals Evolved Such Wild Genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
-- [Magician&#39;s Own Book: Experiments in Electricity &lpar;1862&rpar;](https://archive.org/details/magiciansownbook00arno)
-- [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
-- [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
-- [Fast &lpar;2019&rpar;](https://patrickcollison.com/fast)
-- [Go mod’s lesser known features](https://verdverm.com/go-mods/)
-- [AltWinDirStat](https://github.com/ariccio/altWinDirStat)
-- [The singularity is close?](https://mkaic.substack.com/p/the-singularity-is-very-close)
+- [MIT-0 License](https://github.com/aws/mit-0)
+- [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
+- [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
+- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
+- [A database for 2022](https://tailscale.com/blog/database-for-2022/)
+- [Farewell, Elementary](https://cassidyjames.com/blog/farewell-elementary/)
+- [Show HN: Google Search results are below the fold](https://www.dropbox.com/s/xiprnqszu0ejsc6/google_ad.png?dl=0)
+- [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
+- [Show HN: Visualize your day as 144 rectangles](https://rectangles.app/)
+- [Using foot pedals for modifier keys in Linux &lpar;2014&rpar;](http://techtrickery.com/pedals.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

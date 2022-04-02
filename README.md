@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Russia redeploying forces from Georgia, UK says; Germany rejects Putin’s gas supply ‘blackmail’ – live](https://www.theguardian.com/world/live/2022/mar/31/russia-ukraine-war-latest-news-ukraine-braces-for-attacks-in-east-us-says-putin-misled-by-advisers-live)
-- [Russians fled Chernobyl with radiation sickness, says Ukraine as IAEA investigates](https://www.theguardian.com/world/2022/apr/01/russians-fled-chernobyl-with-radiation-sickness-says-ukraine-as-iaea-investigates)
-- [Myanmar: the reporters risking everything to cover a forgotten conflict – podcast](https://www.theguardian.com/news/audio/2022/apr/01/myanmar-the-reporter-risking-everything-to-cover-a-forgotten-conflict-podcast)
-- [Unseeded Naomi Osaka rallies past Belinda Bencic to reach Miami final](https://www.theguardian.com/sport/2022/mar/31/naomi-osaka-miami-open-daniil-medvedev)
-- [The Bubble review – Judd Apatow’s star stuffed pandemic comedy runs out of puff](https://www.theguardian.com/film/2022/mar/30/the-bubble-review-judd-apatows-star-stuffed-pandemic-comedy-runs-out-of-puff)
-- [Russia-Ukraine war: what we know on day 37 of the Russian invasion](https://www.theguardian.com/world/2022/apr/01/russia-ukraine-war-what-we-know-on-day-37-of-the-russian-invasion)
-- [Sri Lanka: protesters try to storm president’s house as economic crisis deepens](https://www.theguardian.com/world/2022/apr/01/sri-lanka-protesters-try-to-storm-presidents-house-as-economic-crisis-deepens)
-- [Glasgow apologises for role in slave trade, saying its ‘tentacles’ are in every corner of city](https://www.theguardian.com/uk-news/2022/apr/01/glasgow-apologises-for-role-in-slave-trade-saying-its-tentacles-are-in-every-corner-of-city)
-- [Letting go: the decluttering obsession moves into the mind](https://www.theguardian.com/lifeandstyle/2022/apr/01/sweet-surrender-how-letting-go-became-a-self-help-phenomenon)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/01/premier-league-10-things-to-look-out-for-this-weekend)
+- [Russia-Ukraine war latest: Russian troop withdrawal ‘noticeable’, says Zelenskiy; exchange of captured soldiers reported – live](https://www.theguardian.com/world/live/2022/apr/01/russia-ukraine-war-latest-news-germany-rejects-putins-gas-supply-blackmail-russia-drawing-on-forces-from-georgia-uk-says-live)
+- [Will Smith resigns from Academy, saying he betrayed its trust](https://www.theguardian.com/film/2022/apr/01/will-smith-resigns-academy-awards-slap-oscars)
+- [Sarah Palin announces run for US Congress in Alaska](https://www.theguardian.com/us-news/2022/apr/01/sarah-palin-congress-run-alaska)
+- [Scott Morrison defends trade pact with India after its refusal to condemn Russia’s invasion of Ukraine](https://www.theguardian.com/australia-news/2022/apr/02/scott-morrison-defends-trade-pact-with-india-after-its-refusal-to-condemn-russias-invasion-of-ukraine)
+- [Ghislaine Maxwell’s bid for new trial denied, judge rules](https://www.theguardian.com/us-news/2022/apr/01/ghislaine-maxwell-retrial-bid-denied-judge)
+- [Israel security forces kill three Palestinians in West Bank](https://www.theguardian.com/world/2022/apr/02/israel-security-forces-kill-three-palestinians-in-west-bank)
+- [Secondhand bong smoke worse than that from tobacco, study finds](https://www.theguardian.com/society/2022/apr/01/secondhand-bong-smoke-worse-tobacco-study)
+- [Prince Andrew facing calls to explain £1m payments linked to high court fraud case](https://www.theguardian.com/uk-news/2022/apr/01/prince-andrew-facing-calls-to-explain-1m-payments-linked-to-high-court-case)
+- [Open House: The Great Sex Experiment review – a horribly compelling peek at threesomes](https://www.theguardian.com/tv-and-radio/2022/apr/01/open-house-the-great-sex-experiment-channel-4-review)
+- [‘Absolutely amazing’: Lake Eyre dances with colour thanks to big La Niña rains](https://www.theguardian.com/environment/2022/apr/01/absolutely-amazing-lake-eyre-dances-with-colour-thanks-to-unprecedented-rain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

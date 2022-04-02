@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Halton Regional Police to now use what3words app to assist in locating people lost or in distress](https://www.itworldcanada.com/article/halton-regional-police-to-now-use-what3words-app-to-assist-in-locating-people-lost-or-in-distress/478952)
+- [What are QR codes and how do they work?](https://www.itworldcanada.com/article/what-are-qr-codes-and-how-do-they-work/475813)
+- [Cyber Security Today, Week in Review for April 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-1-2022/478799)
+- [Intel releases Arc discrete mobile graphics](https://www.itworldcanada.com/article/intel-releases-its-first-discrete-mobile-graphics/478744)
+- [Telus and Vector Institute launch Energy Optimization System for datacentres across Canada](https://www.itworldcanada.com/article/telus-and-vector-institute-launch-energy-optimization-system-for-datacentres-across-canada/478807)
+- [This week in ransomware – Friday, April 1, 2022: something old, something new](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-1-2022-something-old-something-new/478909)
+- [Cyber Security Today, April 1, 2022 – Spring Java framework needs patching, nation-state attackers take advantage of Ukraine war and a warning to student job seekers](https://www.itworldcanada.com/article/cyber-security-today-april-1-2022-spring-java-framework-needs-patching-nation-state-attackers-take-advantage-of-ukraine-war-and-a-warning-to-student-job-seekers/478796)
+- [Hashtag Trending April 1- Smartphone demand slows; Twitter user sentenced to community service after offensive tweet; Apple’s financial infrastructure](https://www.itworldcanada.com/article/hashtag-trending-april-1-smartphone-demand-slows-twitter-user-sentenced-to-community-service-after-offensive-tweet-apples-financial-infrastructure/478856)
 - [Torontonians arrested in international business email scammer sweep](https://www.itworldcanada.com/article/torontonians-arrested-in-international-business-email-scammer-sweep/478764)
-- [Apple launches $50 million Supplier Employee Development Fund](https://www.itworldcanada.com/article/apple-launches-50-million-supplier-employee-development-fund/478716)
-- [Global cloud backup and recovery firm Keepit opens its first two Canadian datacentres](https://www.itworldcanada.com/article/global-cloud-backup-and-recovery-firm-keepit-opens-its-first-two-canadian-datacentres/478722)
-- [Overcoming five key challenges of data analytics in a hybrid environment](https://www.itworldcanada.com/article/overcoming-five-key-challenges-of-data-analytics-in-a-hybrid-environment/478731)
-- [Newfoundland and Labrador health system attackers copied 200,000 patient and employee files](https://www.itworldcanada.com/article/newfoundland-and-labrador-health-system-attackers-copied-200000-patient-and-employee-files/478645)
-- [Hashtag Trending March 31 – Apple faces lawsuit; Activision Blizzard’s harassment settlement approved; Tech employees in China get laid off with a congratulations note](https://www.itworldcanada.com/article/hashtag-trending-march-31-apple-faces-lawsuit-activision-blizzards-harassment-settlement-approved-tech-employees-in-china-get-laid-off-with-a-congratulations-note/478669)
-- [Hackers still trying to compromise VMWare Horizon through Log4j bug, says Sophos](https://www.itworldcanada.com/article/hackers-still-trying-to-compromise-vmware-horizon-through-log4j-bug-says-sophos/478543)
-- [Offering customers a great and secure experience online](https://www.itworldcanada.com/article/offering-customers-a-great-and-secure-experience-online/478568)
-- [Palo Alto Networks launches new firewall service for AWS](https://www.itworldcanada.com/article/palo-alto-networks-launches-new-firewall-service-for-aws/478547)
-- [Canada, U.S. to negotiate treaty to speed up police data access requests](https://www.itworldcanada.com/article/canada-u-s-to-negotiate-treaty-to-speed-up-police-data-access-requests/478388)
+- [Calgary company helps women advance their tech careers with Career Pathing](https://www.itworldcanada.com/article/calgary-company-helps-women-advance-their-tech-careers-with-career-pathing/478762)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Two teenagers charged with Lapsus$ cyber attacks](https://www.computerweekly.com/news/252515441/Two-teenagers-charged-with-Lapsus-cyber-attacks)
+- [Four moves to ‘checkmate’ critical assets thanks to lax cloud security](https://www.computerweekly.com/news/252515431/Four-moves-to-checkmate-critical-assets-thanks-to-lax-cloud-security)
+- [Apple drops emergency patches for two zero-days](https://www.computerweekly.com/news/252515434/Apple-drops-emergency-patches-for-two-zero-days)
+- [Sungard UK in administration: How rising energy costs are impacting the datacentre market](https://www.computerweekly.com/news/252515435/Sungard-UK-in-administration-How-rising-energy-costs-are-impacting-the-datacentre-market)
+- [TechUK calls on government to seize post-Brexit data opportunities](https://www.computerweekly.com/news/252515388/TechUK-calls-on-government-to-seize-post-Brexit-data-opportunities)
 - [EU Act ‘must empower those affected by AI systems to take action’](https://www.computerweekly.com/news/252515378/EU-Act-must-empower-those-affected-by-AI-systems-to-take-action)
 - [Spain’s La Liga looks to enleague data analytics with Databricks](https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks)
 - [Global upheaval shows cyber security isn’t good enough, says GCHQ director](https://www.computerweekly.com/news/252515375/Global-upheaval-shows-cyber-security-isnt-good-enough-says-GCHQ-director)
 - [Lapsus$ cyber crime spree continues despite arrests](https://www.computerweekly.com/news/252515369/Lapsus-cyber-crime-spree-continues-despite-arrests)
 - [Spring4Shell zero-day sprung on security teams](https://www.computerweekly.com/news/252515360/Spring4Shell-zero-day-sprung-on-security-teams)
-- [BCS Pride group calls for end to transphobia in tech](https://www.computerweekly.com/news/252515287/BCS-Pride-group-calls-for-end-to-transphobia-in-tech)
-- [British Airways passengers suffer flight delays due to another IT glitch affecting London Heathrow](https://www.computerweekly.com/news/252515311/British-Airways-passengers-suffer-flight-delays-due-to-another-IT-glitch)
-- [ODI sets up institution to promote public data sharing](https://www.computerweekly.com/news/252515306/ODI-sets-up-institute-to-promote-public-data-sharing)
-- [Acquisition of UK fintech Azimo will address home-working challenges for enterprises](https://www.computerweekly.com/news/252515289/Acquisition-of-UK-fintech-Azimo-will-address-home-working-challenges-for-enterprises)
-- [Lax money laundering controls lands N26 with ban from Italian central bank](https://www.computerweekly.com/news/252515296/Lax-money-laundering-controls-lands-N26-with-ban-from-Italian-central-bank)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

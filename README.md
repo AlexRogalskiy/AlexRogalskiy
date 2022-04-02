@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [5 Pillars of Sustainable Digital Transformation](https://www.informationweek.com/strategic-cio/5-pillars-of-sustainable-digital-transformation)
+- [Upcoming Data Storage Technologies to Keep an Eye On](https://www.informationweek.com/big-data/upcoming-data-storage-technologies-to-keep-an-eye-on)
 - [Introducing InformationWeek’s ‘DOS Won’t Hunt’ Podcast](https://www.informationweek.com/strategic-cio/introducing-informationweek-s-dos-won-t-hunt-podcast)
 - [What Fortnite and World of Warcraft Can Teach Us About the Metaverse](https://www.informationweek.com/software/what-fortnite-and-world-of-warcraft-can-teach-us-about-the-metaverse)
 - [How AI is Making Smart Buildings Greener, More Sustainable](https://www.informationweek.com/it-strategy/how-ai-is-making-smart-buildings-greener-more-sustainable)
@@ -377,8 +379,6 @@
 - [Wi-Fi 6 2022 Trends: Not Your Grandfather&#39;s Wi-Fi](https://www.informationweek.com/it-life/wi-fi-6-2022-trends-not-your-grandfather-s-wi-fi)
 - [Will Your Data Science Skills Take You Where You Want to Go?](https://www.informationweek.com/big-data/will-your-data-science-skills-take-you-where-you-want-to-go-)
 - [AI-Driven Satellite Connectivity Linking Up IoT, Edge Computing](https://www.informationweek.com/big-data/ai-driven-satellite-connectivity-linking-up-iot-edge-computing)
-- [5 IT Strategies to Support Post-COVID Revenue Demands](https://www.informationweek.com/strategic-cio/5-it-strategies-to-support-post-covid-revenue-demands)
-- [Alteryx Gears Up for the Analytics Cloud Future](https://www.informationweek.com/cloud/alteryx-gears-up-for-the-analytics-cloud-future)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

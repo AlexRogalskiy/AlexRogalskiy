@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google’s next US antitrust issue: Google Maps](https://arstechnica.com/gadgets/2022/03/googles-next-us-antitrust-issue-google-maps/)
-- [The awkward timing of Fedora and Go releases](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraAndGoTiming)
-- [The Unskippable Opening Credits for Severance](https://kottke.org/22/03/the-unskippable-opening-credits-for-severance)
-- [Modes of CTO Success and Failure](https://www.interna.com/post/cto-success-failure)
-- [Reliance Jio adds highest active users despite gross sub losses](https://economictimes.indiatimes.com/industry/telecom/telecom-news/reliance-jio-adds-highest-active-users-despite-gross-sub-losses-analysts/articleshow/90564164.cms?from=mdr)
-- [Why Mearsheimer’s Realist Take Is So Exasperating](https://tompepinsky.com/2022/03/03/heres-why-mearsheimers-realist-take-is-so-exasperating/)
-- [China&#39;s tech layoffs could become a self-inflicted headache for Xi](https://www.cnn.com/2022/03/31/tech/china-tech-unemployment-crisis-xi-challenge-intl-hnk/index.html)
-- [Forest Management Handbook for Small-Parcel Landowners Released](https://yubanet.com/regional/forest-management-handbook-for-small-parcel-landowners-released/)
-- [Largest Bay Area Employers](https://www.bizjournals.com/sanfrancisco/subscriber-only/2021/07/16/largest-bay-area-employers.html)
-- [Engineering Metrics: 12 Pitfalls](https://angelariggs.github.io/articles/twelve-pitfalls-engineering-metrics)
+- [Vim Color Schemes](https://vimcolorschemes.com/)
+- [April Fools&#39; Day jokes present risks to businesses](https://www.axios.com/april-fools-day-jokes-business-93e546b2-0ffc-46df-82d6-7cab07005271.html)
+- [Court erred in Neo4j source license ruling, says Software Freedom Conservancy](https://www.theregister.com/2022/04/02/court_neo4j_ruling/)
+- [To Make Better Software, Do What Artists Do](https://www.lesswrong.com/posts/xmWfNDnEf36yQBLY9/to-make-better-software-do-what-artists-do)
+- [Stripe: Equity for Employees](https://stripe.com/guides/equity-for-employees)
+- [Show HN: NFTs for Starving Children](https://www.nftsforstarvingchildren.com/)
+- [Humans Infected with &#39;Mind-Altering&#39; Parasite Seen as More Attractive](https://www.realclearscience.com/articles/2022/03/28/humans_infected_with_mind-altering_parasite_seen_as_more_attractive_823945.html)
+- [SQL Is So Overrated](http://blog.planetnosql.com/2022/04/sql-is-so-overrated.html)
+- [Ask HN: Does anyone else click on HN links just to see them turn grey?](https://news.ycombinator.com/item?id=30885319)
+- [On Understanding](https://ma.tt/2017/11/adam-robinson-on-understanding/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

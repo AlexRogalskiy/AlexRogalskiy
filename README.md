@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Russian troop withdrawal ‘noticeable’, says Zelenskiy; exchange of captured soldiers reported – live](https://www.theguardian.com/world/live/2022/apr/01/russia-ukraine-war-latest-news-germany-rejects-putins-gas-supply-blackmail-russia-drawing-on-forces-from-georgia-uk-says-live)
-- [Will Smith resigns from Academy, saying he betrayed its trust](https://www.theguardian.com/film/2022/apr/01/will-smith-resigns-academy-awards-slap-oscars)
-- [Sarah Palin announces run for US Congress in Alaska](https://www.theguardian.com/us-news/2022/apr/01/sarah-palin-congress-run-alaska)
-- [Scott Morrison defends trade pact with India after its refusal to condemn Russia’s invasion of Ukraine](https://www.theguardian.com/australia-news/2022/apr/02/scott-morrison-defends-trade-pact-with-india-after-its-refusal-to-condemn-russias-invasion-of-ukraine)
-- [Ghislaine Maxwell’s bid for new trial denied, judge rules](https://www.theguardian.com/us-news/2022/apr/01/ghislaine-maxwell-retrial-bid-denied-judge)
-- [Israel security forces kill three Palestinians in West Bank](https://www.theguardian.com/world/2022/apr/02/israel-security-forces-kill-three-palestinians-in-west-bank)
-- [Secondhand bong smoke worse than that from tobacco, study finds](https://www.theguardian.com/society/2022/apr/01/secondhand-bong-smoke-worse-tobacco-study)
-- [Prince Andrew facing calls to explain £1m payments linked to high court fraud case](https://www.theguardian.com/uk-news/2022/apr/01/prince-andrew-facing-calls-to-explain-1m-payments-linked-to-high-court-case)
-- [Open House: The Great Sex Experiment review – a horribly compelling peek at threesomes](https://www.theguardian.com/tv-and-radio/2022/apr/01/open-house-the-great-sex-experiment-channel-4-review)
-- [‘Absolutely amazing’: Lake Eyre dances with colour thanks to big La Niña rains](https://www.theguardian.com/environment/2022/apr/01/absolutely-amazing-lake-eyre-dances-with-colour-thanks-to-unprecedented-rain)
+- [Australia v England: Women’s Cricket World Cup 2022 final – live!](https://www.theguardian.com/sport/live/2022/apr/03/australia-v-england-womens-cricket-world-cup-2022-final-aus-v-eng-live-updates)
+- [Russia-Ukraine war latest: Ukrainian troops retake entire Kyiv region as evidence emerges of execution of civilians – live](https://www.theguardian.com/world/live/2022/apr/02/russia-ukraine-war-latest-russian-troop-withdrawal-noticeable-says-zelenskiy-us-gives-kyiv-300m-more-in-live)
+- [Yemen: warring parties lay down weapons in first nationwide truce since 2016](https://www.theguardian.com/world/2022/apr/03/yemen-warring-parties-lay-down-weapons-in-first-nationwide-truce-since-2016)
+- [An Easter sunshine rush won’t ensure a bright future for BA](https://www.theguardian.com/business/2022/apr/03/an-easter-sunshine-rush-wont-ensure-a-bright-future-for-ba)
+- [Study to decide whether vitamin D should be added to food](https://www.theguardian.com/society/2022/apr/03/study-to-decide-whether-vitamin-d-should-be-added-to-food)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [‘I returned a changed man’: Prince Andrew deletes Falklands war post](https://www.theguardian.com/uk-news/2022/apr/02/i-returned-a-changed-man-prince-andrew-reflects-on-his-falklands-war-service)
+- [Five ways to wear wide-leg trousers this spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/02/five-ways-to-wear-wide-leg-trousers-this-spring-in-pictures)
+- [Rescuers search for light aircraft with two onboard missing in Channel](https://www.theguardian.com/world/2022/apr/02/rescuers-search-for-light-aircraft-with-two-onboard-missing-in-channel)
+- [Cronyism fears as businessman Sir Ian Cheshire is named head of Channel 4](https://www.theguardian.com/media/2022/apr/02/cronyism-fears-as-businessman-sir-ian-cheshire-is-named-head-of-channel-4)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

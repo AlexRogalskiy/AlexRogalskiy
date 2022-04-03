@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vim Color Schemes](https://vimcolorschemes.com/)
-- [April Fools&#39; Day jokes present risks to businesses](https://www.axios.com/april-fools-day-jokes-business-93e546b2-0ffc-46df-82d6-7cab07005271.html)
-- [Court erred in Neo4j source license ruling, says Software Freedom Conservancy](https://www.theregister.com/2022/04/02/court_neo4j_ruling/)
-- [To Make Better Software, Do What Artists Do](https://www.lesswrong.com/posts/xmWfNDnEf36yQBLY9/to-make-better-software-do-what-artists-do)
-- [Stripe: Equity for Employees](https://stripe.com/guides/equity-for-employees)
-- [Show HN: NFTs for Starving Children](https://www.nftsforstarvingchildren.com/)
-- [Humans Infected with &#39;Mind-Altering&#39; Parasite Seen as More Attractive](https://www.realclearscience.com/articles/2022/03/28/humans_infected_with_mind-altering_parasite_seen_as_more_attractive_823945.html)
-- [SQL Is So Overrated](http://blog.planetnosql.com/2022/04/sql-is-so-overrated.html)
-- [Ask HN: Does anyone else click on HN links just to see them turn grey?](https://news.ycombinator.com/item?id=30885319)
-- [On Understanding](https://ma.tt/2017/11/adam-robinson-on-understanding/)
+- [Researchers Used a Decommissioned Satellite to Broadcast Hacker TV](https://www.wired.com/story/satellite-hacking-anit-f1r-shadytel/)
+- [GameStop&#39;s stock price is skyrocketing again](https://www.gamedeveloper.com/business/gamestop-s-stock-price-is-skyrocketing-again)
+- [What I&#39;m Building in 2022](https://kowsheek.com/what-im-building-in-2022/)
+- [Moonless Earth Theory](https://en.wikipedia.org/wiki/Alexander_Abian)
+- [France’s Far Right Turn](https://www.nytimes.com/2022/03/31/magazine/new-french-right.html)
+- [How close is wireless power technology?](http://backreaction.blogspot.com/2022/04/how-close-is-wireless-power-technology.html)
+- [Reversible Jacket Pattern for web frontends and backends](https://barnabas.me/blog/2022/04/reversible-jacket/)
+- [Above Avalon: Apple Is in a League of Its Own](https://www.aboveavalon.com/notes/2022/3/25/apple-is-in-a-league-of-its-own)
+- [Great Raid of 2014](https://en.wikipedia.org/wiki/Great_Raid_of_2014)
+- [A Boy and His Atom: The Smallest Movie](https://www.youtube.com/watch?v=oSCX78-8-q0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

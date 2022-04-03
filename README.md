@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub Copilot available for Microsoft Visual Studio 2022](https://www.infoworld.com/article/3655991/github-copilot-available-for-microsoft-visual-studio-2022.html#tk.rss_all)
 - [Visual Studio Code 1.65 shines on JavaScript heap profiles, CSS formatting](https://www.infoworld.com/article/3655988/visual-studio-code-165-shines-on-javascript-heap-profiles-css-formatting.html#tk.rss_all)
 - [Is distributed data realistic?](https://www.infoworld.com/article/3655928/is-distributed-data-realistic.html#tk.rss_all)
 - [What is Git? Version control for collaborative programming](https://www.infoworld.com/article/3654955/what-is-git-version-control-for-collaborative-programming.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [Solomon Hykes’ Dagger raises $20M and launches public beta](https://www.infoworld.com/article/3654963/solomon-hykes-dagger-raises-20m-and-launches-public-beta.html#tk.rss_all)
 - [WSO2 launches low-code, cloud-native PaaS for API development](https://www.infoworld.com/article/3654897/wso2-launches-low-code-cloud-native-paas-for-api-development.html#tk.rss_all)
 - [Azure Percept: A machine learning quick starter](https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html#tk.rss_all)
-- [Review: The 6 best JavaScript IDEs](https://www.infoworld.com/article/3192844/review-the-6-best-javascript-ides.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

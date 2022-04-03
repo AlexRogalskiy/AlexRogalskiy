@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MIT-0 License](https://github.com/aws/mit-0)
-- [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
-- [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
-- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
-- [A database for 2022](https://tailscale.com/blog/database-for-2022/)
-- [Farewell, Elementary](https://cassidyjames.com/blog/farewell-elementary/)
-- [Show HN: Google Search results are below the fold](https://www.dropbox.com/s/xiprnqszu0ejsc6/google_ad.png?dl=0)
-- [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
-- [Show HN: Visualize your day as 144 rectangles](https://rectangles.app/)
-- [Using foot pedals for modifier keys in Linux &lpar;2014&rpar;](http://techtrickery.com/pedals.html)
+- [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
+- [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
+- [Employees Are Returning to the Office, Just to Sit on Zoom Calls](https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls)
+- [Albini pitching Nirvana: “I would like to be paid like a plumber” &lpar;1992&rpar;](https://news.lettersofnote.com/p/nirvana)
+- [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
+- [Cholesterol and mortality: Evidence of a U-shape Relationship](https://www.nature.com/articles/s41598-018-38461-y)
+- [Battleship](https://www.nulliq.dev/posts/battleship/)
+- [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html)
+- [Life’s preference for symmetry is like ‘a new law of nature’](https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html)
+- [Twin Anxieties of the Engineer/Manager Pendulum](https://charity.wtf/2022/03/24/twin-anxieties-of-the-engineer-manager-pendulum/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

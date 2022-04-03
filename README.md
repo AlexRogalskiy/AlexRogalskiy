@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/tut5q6/any_help_appreciated/)
+- [Internship help. Smaller company software engineer role vs bigger company cloud security role.](https://www.reddit.com/r/InformationTechnology/comments/turl1s/internship_help_smaller_company_software_engineer/)
 - [Is this a common occurrence](https://www.reddit.com/r/InformationTechnology/comments/ttnuv9/is_this_a_common_occurrence/)
 - [Capstone Thesis Project Help](https://www.reddit.com/r/InformationTechnology/comments/tthbdw/capstone_thesis_project_help/)
 - [If I run an application on my PC that throttles the download speed for incoming data requested by the application, is that application throttling the download speed of my entire network? Or just this link on the network? Or none of the above?](https://www.reddit.com/r/InformationTechnology/comments/tt79ka/if_i_run_an_application_on_my_pc_that_throttles/)
@@ -422,8 +424,6 @@
 - [Software to simulate the Universe](https://www.reddit.com/r/InformationTechnology/comments/tt22ze/software_to_simulate_the_universe/)
 - [CASP+ Exam Prep Bundle](https://www.reddit.com/r/InformationTechnology/comments/tszff3/casp_exam_prep_bundle/)
 - [Network Admin working from home and leaves me &lpar;a Tier 1&rpar; at work alone](https://www.reddit.com/r/InformationTechnology/comments/tsr39b/network_admin_working_from_home_and_leaves_me_a/)
-- [When doing side work, when did you decide do make a sole proprieter/LLC and get insured?](https://www.reddit.com/r/InformationTechnology/comments/tsifau/when_doing_side_work_when_did_you_decide_do_make/)
-- [MSIS Admit, Fall 2022. Please suggest. UMCP MSIS or UFL MSISOM &lpar;Data Science concentration&rpar; or UTD MSITM &lpar;instate Fees&rpar;, International Student](https://www.reddit.com/r/InformationTechnology/comments/ts4d2z/msis_admit_fall_2022_please_suggest_umcp_msis_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

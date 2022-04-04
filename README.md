@@ -385,7 +385,7 @@
 
 <!-- INFOWORLD-POST-LIST:START -->
 - [GitHub Copilot available for Microsoft Visual Studio 2022](https://www.infoworld.com/article/3655991/github-copilot-available-for-microsoft-visual-studio-2022.html#tk.rss_all)
-- [Visual Studio Code 1.65 shines on JavaScript heap profiles, CSS formatting](https://www.infoworld.com/article/3655988/visual-studio-code-165-shines-on-javascript-heap-profiles-css-formatting.html#tk.rss_all)
+- [Visual Studio Code 1.66 shines on JavaScript heap profiles, CSS formatting](https://www.infoworld.com/article/3655988/visual-studio-code-166-shines-on-javascript-heap-profiles-css-formatting.html#tk.rss_all)
 - [Is distributed data realistic?](https://www.infoworld.com/article/3655928/is-distributed-data-realistic.html#tk.rss_all)
 - [What is Git? Version control for collaborative programming](https://www.infoworld.com/article/3654955/what-is-git-version-control-for-collaborative-programming.html#tk.rss_all)
 - [Docker raises $105M funding round to fuel its focus on developers](https://www.infoworld.com/article/3654966/docker-raises-105m-funding-round-to-fuel-its-focus-on-developers.html#tk.rss_all)

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: Women’s Cricket World Cup 2022 final – live!](https://www.theguardian.com/sport/live/2022/apr/03/australia-v-england-womens-cricket-world-cup-2022-final-aus-v-eng-live-updates)
-- [Russia-Ukraine war latest: Ukrainian troops retake entire Kyiv region as evidence emerges of execution of civilians – live](https://www.theguardian.com/world/live/2022/apr/02/russia-ukraine-war-latest-russian-troop-withdrawal-noticeable-says-zelenskiy-us-gives-kyiv-300m-more-in-live)
-- [Yemen: warring parties lay down weapons in first nationwide truce since 2016](https://www.theguardian.com/world/2022/apr/03/yemen-warring-parties-lay-down-weapons-in-first-nationwide-truce-since-2016)
-- [An Easter sunshine rush won’t ensure a bright future for BA](https://www.theguardian.com/business/2022/apr/03/an-easter-sunshine-rush-wont-ensure-a-bright-future-for-ba)
-- [Study to decide whether vitamin D should be added to food](https://www.theguardian.com/society/2022/apr/03/study-to-decide-whether-vitamin-d-should-be-added-to-food)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [‘I returned a changed man’: Prince Andrew deletes Falklands war post](https://www.theguardian.com/uk-news/2022/apr/02/i-returned-a-changed-man-prince-andrew-reflects-on-his-falklands-war-service)
-- [Five ways to wear wide-leg trousers this spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/02/five-ways-to-wear-wide-leg-trousers-this-spring-in-pictures)
-- [Rescuers search for light aircraft with two onboard missing in Channel](https://www.theguardian.com/world/2022/apr/02/rescuers-search-for-light-aircraft-with-two-onboard-missing-in-channel)
-- [Cronyism fears as businessman Sir Ian Cheshire is named head of Channel 4](https://www.theguardian.com/media/2022/apr/02/cronyism-fears-as-businessman-sir-ian-cheshire-is-named-head-of-channel-4)
+- [Russia-Ukraine war latest: Zelenskiy calls Russian forces ‘butchers’ after civilian mass graves found around Kyiv – live](https://www.theguardian.com/world/live/2022/apr/03/russia-ukraine-war-latest-russian-retreat-from-kyiv-reveals-atrocities-against-civilians-say-ukrainians-live)
+- [Russia-Ukraine war: what we know on day 40 of the invasion, including the Bucha killings](https://www.theguardian.com/world/2022/apr/04/russia-ukraine-war-what-we-know-on-day-40-including-the-bucha-killings)
+- [How fentanyl flooded the US and sent opioid deaths soaring](https://www.theguardian.com/news/audio/2022/apr/04/how-fentanyl-flooded-the-us-and-sent-opioid-deaths-soaring-podcast)
+- [‘Massacre of innocents’: how the papers covered Russia’s atrocities in Bucha](https://www.theguardian.com/world/2022/apr/04/massacre-of-innocents-how-the-papers-covered-russias-atrocities-in-bucha)
+- [Jennifer Kupcho holds nerve at Chevron Championship to win her first major](https://www.theguardian.com/sport/2022/apr/03/jennifer-kupcho-holds-nerve-at-chevron-championship-to-win-her-first-major)
+- [Sri Lanka’s cabinet resigns as protesters’ anger grows over economic crisis](https://www.theguardian.com/world/2022/apr/04/sri-lankas-cabinet-resigns-as-protesters-anger-grows-over-economic-crisis)
+- [Tourists urged to avoid Myanmar as junta prepares to reopen to world](https://www.theguardian.com/world/2022/apr/04/everything-is-not-ok-here-tourists-urged-to-avoid-myanmar-as-junta-prepares-to-reopen-to-world)
+- [Grammy awards 2022: the full list of winners](https://www.theguardian.com/music/2022/apr/03/grammy-awards-2022-the-full-list-of-winners)
+- [Sacramento shooting: police hunt at least two suspects after six shot dead](https://www.theguardian.com/us-news/2022/apr/03/sacramento-shooting-dead-injured)
+- [Quarter of bus routes axed in England in last decade](https://www.theguardian.com/politics/2022/apr/04/quarter-of-bus-routes-axed-in-england-in-last-decade)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

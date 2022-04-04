@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Researchers Used a Decommissioned Satellite to Broadcast Hacker TV](https://www.wired.com/story/satellite-hacking-anit-f1r-shadytel/)
-- [GameStop&#39;s stock price is skyrocketing again](https://www.gamedeveloper.com/business/gamestop-s-stock-price-is-skyrocketing-again)
-- [What I&#39;m Building in 2022](https://kowsheek.com/what-im-building-in-2022/)
-- [Moonless Earth Theory](https://en.wikipedia.org/wiki/Alexander_Abian)
-- [France’s Far Right Turn](https://www.nytimes.com/2022/03/31/magazine/new-french-right.html)
-- [How close is wireless power technology?](http://backreaction.blogspot.com/2022/04/how-close-is-wireless-power-technology.html)
-- [Reversible Jacket Pattern for web frontends and backends](https://barnabas.me/blog/2022/04/reversible-jacket/)
-- [Above Avalon: Apple Is in a League of Its Own](https://www.aboveavalon.com/notes/2022/3/25/apple-is-in-a-league-of-its-own)
-- [Great Raid of 2014](https://en.wikipedia.org/wiki/Great_Raid_of_2014)
-- [A Boy and His Atom: The Smallest Movie](https://www.youtube.com/watch?v=oSCX78-8-q0)
+- [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/)
+- [Hibiki HTML – The front-end framework for back-end engineers &lpar;Console interview&rpar;](https://console.substack.com/p/console-99)
+- [The Investment Theory in Product Management](https://saurabhsaha.substack.com/p/the-investment-theory-in-product)
+- [Kids Posts Retrospective](https://www.jefftk.com/p/kids-posts-retrospective)
+- [Calibre Web – Browsing and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
+- [Great Resignation Isn’t Slowing and May Persist, Randstad Says](https://www.bloomberg.com/news/articles/2022-04-03/great-resignation-isn-t-slowing-and-may-persist-randstad-says)
+- [China&#39;s Grand Strategy and Boundary Settlements](https://chinaboundaries.com/)
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+- [University Project Cataloged 1,100 Ransomware Attacks on Critical Infrastructure](https://www.securityweek.com/university-project-cataloged-1100-ransomware-attacks-critical-infrastructure)
+- [Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

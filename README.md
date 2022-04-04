@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
-- [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
-- [Employees Are Returning to the Office, Just to Sit on Zoom Calls](https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls)
-- [Albini pitching Nirvana: “I would like to be paid like a plumber” &lpar;1992&rpar;](https://news.lettersofnote.com/p/nirvana)
-- [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
-- [Cholesterol and mortality: Evidence of a U-shape Relationship](https://www.nature.com/articles/s41598-018-38461-y)
-- [Battleship](https://www.nulliq.dev/posts/battleship/)
-- [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html)
-- [Life’s preference for symmetry is like ‘a new law of nature’](https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html)
-- [Twin Anxieties of the Engineer/Manager Pendulum](https://charity.wtf/2022/03/24/twin-anxieties-of-the-engineer-manager-pendulum/)
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+- [The Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
+- [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
+- [Alive](https://alive.salon)
+- [Why are 2D vector graphics so much harder than 3D? &lpar;2019&rpar;](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+- [“Can it run Doom” will never be the same, thanks to new ray-tracing mod](https://arstechnica.com/gaming/2022/04/doom-1-1993-gets-full-ray-tracing-dlss-support-in-fan-made-patch/)
+- [Some interesting malware I found](https://bobbiechen.com/blog/2022/4/3/some-interesting-malware)
+- [Due to failure in the IT system, it is not possible to run any trains today](https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html)
+- [Einstein versus the Physical Review](https://physicstoday.scitation.org/doi/10.1063/1.2117822)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

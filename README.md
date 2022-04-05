@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian government to offer affordable high-speed Internet to low-income families](https://www.itworldcanada.com/article/canadian-government-to-offer-affordable-high-speed-internet-to-low-income-families/479395)
+- [Alida wins Comparably’s award for Best Company Outlook](https://www.itworldcanada.com/article/alida-wins-comparablys-award-for-best-company-outlook/479371)
+- [Deloitte report: How Canadians with autism can help employers close the talent gap](https://www.itworldcanada.com/article/deloitte-report-how-canadians-with-autism-can-help-employers-close-the-talent-gap/479361)
+- [Cyber Security Today, April 4, 2022 – British teens face Lapsus$-related criminal charges, an MFA warning and updates needed for Github, Rockwell PLCs and Apple devices](https://www.itworldcanada.com/article/cyber-security-today-april-4-2022-british-teens-face-lapsus-related-criminal-charges-an-mfa-warning-and-updates-needed-for-github-rockwell-plcs-and-apple-devices/479240)
+- [Hashtag Trending April 4, 2022 – Apple’s iPhone hardware subscription service; Meta loses AI scientists; Amazon spent $4.3 million on anti-union consultants](https://www.itworldcanada.com/article/hashtag-trending-april-4-2022-apples-iphone-hardware-subscription-service-meta-loses-ai-scientists-amazon-spent-4-3-million-on-anti-union-consultants/479226)
 - [Halton Regional Police to now use what3words app to assist in locating people lost or in distress](https://www.itworldcanada.com/article/halton-regional-police-to-now-use-what3words-app-to-assist-in-locating-people-lost-or-in-distress/478952)
 - [What are QR codes and how do they work?](https://www.itworldcanada.com/article/what-are-qr-codes-and-how-do-they-work/475813)
 - [Cyber Security Today, Week in Review for April 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-1-2022/478799)
 - [Intel releases Arc discrete mobile graphics](https://www.itworldcanada.com/article/intel-releases-its-first-discrete-mobile-graphics/478744)
 - [Telus and Vector Institute launch Energy Optimization System for datacentres across Canada](https://www.itworldcanada.com/article/telus-and-vector-institute-launch-energy-optimization-system-for-datacentres-across-canada/478807)
-- [This week in ransomware – Friday, April 1, 2022: something old, something new](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-1-2022-something-old-something-new/478909)
-- [Cyber Security Today, April 1, 2022 – Spring Java framework needs patching, nation-state attackers take advantage of Ukraine war and a warning to student job seekers](https://www.itworldcanada.com/article/cyber-security-today-april-1-2022-spring-java-framework-needs-patching-nation-state-attackers-take-advantage-of-ukraine-war-and-a-warning-to-student-job-seekers/478796)
-- [Hashtag Trending April 1- Smartphone demand slows; Twitter user sentenced to community service after offensive tweet; Apple’s financial infrastructure](https://www.itworldcanada.com/article/hashtag-trending-april-1-smartphone-demand-slows-twitter-user-sentenced-to-community-service-after-offensive-tweet-apples-financial-infrastructure/478856)
-- [Torontonians arrested in international business email scammer sweep](https://www.itworldcanada.com/article/torontonians-arrested-in-international-business-email-scammer-sweep/478764)
-- [Calgary company helps women advance their tech careers with Career Pathing](https://www.itworldcanada.com/article/calgary-company-helps-women-advance-their-tech-careers-with-career-pathing/478762)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/)
-- [Hibiki HTML – The front-end framework for back-end engineers &lpar;Console interview&rpar;](https://console.substack.com/p/console-99)
-- [The Investment Theory in Product Management](https://saurabhsaha.substack.com/p/the-investment-theory-in-product)
-- [Kids Posts Retrospective](https://www.jefftk.com/p/kids-posts-retrospective)
-- [Calibre Web – Browsing and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web)
-- [Great Resignation Isn’t Slowing and May Persist, Randstad Says](https://www.bloomberg.com/news/articles/2022-04-03/great-resignation-isn-t-slowing-and-may-persist-randstad-says)
-- [China&#39;s Grand Strategy and Boundary Settlements](https://chinaboundaries.com/)
-- [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
-- [University Project Cataloged 1,100 Ransomware Attacks on Critical Infrastructure](https://www.securityweek.com/university-project-cataloged-1100-ransomware-attacks-critical-infrastructure)
-- [Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)
+- [Having less deaths leads to a higher win rate than getting more kills](https://old.reddit.com/r/leagueoflegends/comments/twees6/having_less_deaths_leads_to_a_higher_win_rate/)
+- [The IPCC says we already have the tech tools to stop climate change](https://www.protocol.com/climate/ipcc-renewable-technology-wind-solar)
+- [Review from Brian Castner: Malcolm Gladwell’s “The Bomber Mafia”](https://www.wrath-bearingtree.com/2022/04/new-review-from-brian-castner-malcolm-gladwells-the-bomber-mafia/)
+- [The Simple Solution to Night Driving](https://www.roadandtrack.com/car-culture/a39491907/the-simple-solution-to-night-driving/)
+- [Azure Virtual Machines with Ampere Altra Arm-Based Processors](https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+- [Sovereign Citizens Take Anti-Government Philosophy to the Roads](https://www.caranddriver.com/features/a30281693/sovereign-citizen-right-to-travel/)
+- [Remember your loved ones with Memori – Free for Ukrainians](https://memori.co.nz/)
+- [Show HN: View Weekly Insider transactions back to the beginning of the year](https://shareseer.com/weekly/insiders/largest)
+- [The guy who quit medical school to become an NBA referee](https://thehustle.co/the-guy-who-quit-medical-school-to-become-an-nba-referee/)
+- [Turing Up the Code](https://news.ycombinator.com/item?id=30914603)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

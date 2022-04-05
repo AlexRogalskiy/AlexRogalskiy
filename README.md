@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [General Catalyst’s Clark Talks Opportunistic Investing in Tech](https://www.informationweek.com/big-data/general-catalyst-s-clark-talks-opportunistic-investing-in-tech)
+- [Enterprise Guide to Data Privacy](https://www.informationweek.com/big-data/enterprise-guide-to-data-privacy)
+- [US Companies Must Deal with EU AI law, Like It or Not](https://www.informationweek.com/big-data/us-companies-must-deal-with-eu-ai-law-like-it-or-not)
 - [5 Pillars of Sustainable Digital Transformation](https://www.informationweek.com/strategic-cio/5-pillars-of-sustainable-digital-transformation)
 - [Upcoming Data Storage Technologies to Keep an Eye On](https://www.informationweek.com/big-data/upcoming-data-storage-technologies-to-keep-an-eye-on)
 - [Introducing InformationWeek’s ‘DOS Won’t Hunt’ Podcast](https://www.informationweek.com/strategic-cio/introducing-informationweek-s-dos-won-t-hunt-podcast)
@@ -376,9 +379,6 @@
 - [How AI is Making Smart Buildings Greener, More Sustainable](https://www.informationweek.com/it-strategy/how-ai-is-making-smart-buildings-greener-more-sustainable)
 - [Why to Consider Hiring IT Job Applicants Without College Degrees](https://www.informationweek.com/strategic-cio/why-to-consider-hiring-it-job-applicants-without-college-degrees)
 - [Addressing Diversity and Inclusion Separately in the Workplace](https://www.informationweek.com/strategic-cio/addressing-diversity-and-inclusion-separately-in-the-workplace)
-- [Wi-Fi 6 2022 Trends: Not Your Grandfather&#39;s Wi-Fi](https://www.informationweek.com/it-life/wi-fi-6-2022-trends-not-your-grandfather-s-wi-fi)
-- [Will Your Data Science Skills Take You Where You Want to Go?](https://www.informationweek.com/big-data/will-your-data-science-skills-take-you-where-you-want-to-go-)
-- [AI-Driven Satellite Connectivity Linking Up IoT, Edge Computing](https://www.informationweek.com/big-data/ai-driven-satellite-connectivity-linking-up-iot-edge-computing)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

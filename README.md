@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 adoption appears to be stagnating](https://www.computerworld.com/article/3655739/windows-11-adoption-appears-to-be-stagnating.html#tk.rss_all)
+- [When it comes to Windows, out with the old, in with the…what?](https://www.computerworld.com/article/3655738/when-it-comes-to-windows-out-with-the-old-in-with-thewhat.html#tk.rss_all)
+- [The Russian cyberattack threat might force a new IT stance](https://www.computerworld.com/article/3655972/the-russian-cyberattack-threat-might-force-a-new-it-stance.html#tk.rss_all)
+- [Will your company embrace AR for training?](https://www.computerworld.com/article/3655736/will-your-company-embrace-ar-for-training.html#tk.rss_all)
+- [Q&amp;A: Qwick CEO details his company&#39;s 4-day workweek trial](https://www.computerworld.com/article/3655640/qa-qwick-ceo-details-his-companys-4-day-workweek-trial.html#tk.rss_all)
+- [Lenovo commits to hiring 12,000 new R&amp;D staff by 2025](https://www.computerworld.com/article/3655970/lenovo-commits-to-hiring-12-000-new-randd-staff-by-2025.html#tk.rss_all)
+- [ClickUp adds Whiteboards to its collaboration platform](https://www.computerworld.com/article/3655692/clickup-adds-whiteboards-to-its-collaboration-platform.html#tk.rss_all)
+- [Blockchain firm Equideum and Nokia building exchange to let patients sell healthcare data](https://www.computerworld.com/article/3655950/blockchain-firm-equideum-and-nokia-building-exchange-to-let-patients-sell-healthcare-data.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Async video platform Loom gets collaborative ‘HQ’](https://www.computerworld.com/article/3655935/async-video-platform-loom-gets-collaborative-hq.html#tk.rss_all)
-- [When should the data breach clock start?](https://www.computerworld.com/article/3655691/when-should-the-data-breach-clock-start.html#tk.rss_all)
-- [Google Workspace rolls out updates to Meet, Chat and Voice](https://www.computerworld.com/article/3655635/google-workspace-rolls-out-updates-to-meet-chat-and-voice.html#tk.rss_all)
-- [Ukrainian IT industry says it’s still open for business](https://www.computerworld.com/article/3655933/ukrainian-it-industry-says-it-s-still-open-for-business.html#tk.rss_all)
-- [Podcast: iPhone 14 rumors and Apple’s hardware subscription service](https://www.computerworld.com/article/3655632/podcast-iphone-14-rumors-and-apples-hardware-subscription-service.html#tk.rss_all)
-- [Apple Business Essentials exits beta, adds AppleCare](https://www.computerworld.com/article/3655931/apple-business-essentials-exits-beta-adds-applecare.html#tk.rss_all)
-- [BCG shows how to use AI the right way](https://www.computerworld.com/article/3655948/bcg-shows-how-to-use-ai-the-right-way.html#tk.rss_all)
-- [Apple can support sideloading, while protecting the rest of us](https://www.computerworld.com/article/3655731/apple-can-support-sideloading-while-protecting-the-rest-of-us.html#tk.rss_all)
-- [Lawmakers join growing push to create a &#39;digital dollar&#39;](https://www.computerworld.com/article/3655728/lawmakers-join-growing-push-to-create-a-digital-dollar.html#tk.rss_all)
+- [Are augmented and virtual reality finally gaining traction?](https://www.computerworld.com/article/3655993/are-augmented-and-virtual-reality-finally-gaining-traction.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

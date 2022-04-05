@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Office WiFi may not cope with hybrid work](https://www.computerweekly.com/news/252515501/Office-WiFi-may-not-cope-with-hybrid-work)
+- [The time is now: Edge datacentres come of age](https://www.computerweekly.com/feature/The-time-is-now-Edge-datacentres-come-of-age)
 - [Two teenagers charged with Lapsus$ cyber attacks](https://www.computerweekly.com/news/252515441/Two-teenagers-charged-with-Lapsus-cyber-attacks)
 - [Four moves to ‘checkmate’ critical assets thanks to lax cloud security](https://www.computerweekly.com/news/252515431/Four-moves-to-checkmate-critical-assets-thanks-to-lax-cloud-security)
 - [Apple drops emergency patches for two zero-days](https://www.computerweekly.com/news/252515434/Apple-drops-emergency-patches-for-two-zero-days)
@@ -407,8 +409,6 @@
 - [EU Act ‘must empower those affected by AI systems to take action’](https://www.computerweekly.com/news/252515378/EU-Act-must-empower-those-affected-by-AI-systems-to-take-action)
 - [Spain’s La Liga looks to enleague data analytics with Databricks](https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks)
 - [Global upheaval shows cyber security isn’t good enough, says GCHQ director](https://www.computerweekly.com/news/252515375/Global-upheaval-shows-cyber-security-isnt-good-enough-says-GCHQ-director)
-- [Lapsus$ cyber crime spree continues despite arrests](https://www.computerweekly.com/news/252515369/Lapsus-cyber-crime-spree-continues-despite-arrests)
-- [Spring4Shell zero-day sprung on security teams](https://www.computerweekly.com/news/252515360/Spring4Shell-zero-day-sprung-on-security-teams)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

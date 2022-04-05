@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting Started](https://www.reddit.com/r/InformationTechnology/comments/twksva/getting_started/)
+- [*Sigh](https://www.reddit.com/r/InformationTechnology/comments/twdlb9/sigh/)
+- [Will moving from on-prem file server to cloud storage affect performance?](https://www.reddit.com/r/InformationTechnology/comments/tw6dj7/will_moving_from_onprem_file_server_to_cloud/)
+- [anybody know the easiest way to set up a tablet like in airport bathrooms with the only functionality being three buttons describing an experience?](https://www.reddit.com/r/InformationTechnology/comments/tw0opi/anybody_know_the_easiest_way_to_set_up_a_tablet/)
+- [an error keeps showing up](https://www.reddit.com/r/InformationTechnology/comments/tvyml7/an_error_keeps_showing_up/)
+- [How to uninstall Windows from a hard drive not detected in the install screen?](https://www.reddit.com/r/InformationTechnology/comments/tvxr3b/how_to_uninstall_windows_from_a_hard_drive_not/)
 - [Computer Vision Expert | Master the computer vision skills in robotics a...](https://www.reddit.com/r/InformationTechnology/comments/tvjmzq/computer_vision_expert_master_the_computer_vision/)
 - [Advice and help needed, I want to start a career in IT but I have no experience and degree, would it be unrealistic to expect a 6 month course helping me accept job offers at 80k a year? What&#39;s the best and quickest way to get a high paying job?](https://www.reddit.com/r/InformationTechnology/comments/tvcm6c/advice_and_help_needed_i_want_to_start_a_career/)
 - [any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/tut5q6/any_help_appreciated/)
 - [Is this a common occurrence](https://www.reddit.com/r/InformationTechnology/comments/ttnuv9/is_this_a_common_occurrence/)
-- [Capstone Thesis Project Help](https://www.reddit.com/r/InformationTechnology/comments/tthbdw/capstone_thesis_project_help/)
-- [If I run an application on my PC that throttles the download speed for incoming data requested by the application, is that application throttling the download speed of my entire network? Or just this link on the network? Or none of the above?](https://www.reddit.com/r/InformationTechnology/comments/tt79ka/if_i_run_an_application_on_my_pc_that_throttles/)
-- [Happy World Backup Day!](https://www.reddit.com/r/InformationTechnology/comments/tt5ndc/happy_world_backup_day/)
-- [Help creating a static IP address on a LTN8708K-P8 NVR](https://www.reddit.com/r/InformationTechnology/comments/tt3kxy/help_creating_a_static_ip_address_on_a_ltn8708kp8/)
-- [Software to simulate the Universe](https://www.reddit.com/r/InformationTechnology/comments/tt22ze/software_to_simulate_the_universe/)
-- [CASP+ Exam Prep Bundle](https://www.reddit.com/r/InformationTechnology/comments/tszff3/casp_exam_prep_bundle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

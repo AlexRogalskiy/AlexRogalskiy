@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy calls Russian forces ‘butchers’ after civilian mass graves found around Kyiv – live](https://www.theguardian.com/world/live/2022/apr/03/russia-ukraine-war-latest-russian-retreat-from-kyiv-reveals-atrocities-against-civilians-say-ukrainians-live)
-- [Russia-Ukraine war: what we know on day 40 of the invasion, including the Bucha killings](https://www.theguardian.com/world/2022/apr/04/russia-ukraine-war-what-we-know-on-day-40-including-the-bucha-killings)
-- [How fentanyl flooded the US and sent opioid deaths soaring](https://www.theguardian.com/news/audio/2022/apr/04/how-fentanyl-flooded-the-us-and-sent-opioid-deaths-soaring-podcast)
-- [‘Massacre of innocents’: how the papers covered Russia’s atrocities in Bucha](https://www.theguardian.com/world/2022/apr/04/massacre-of-innocents-how-the-papers-covered-russias-atrocities-in-bucha)
-- [Jennifer Kupcho holds nerve at Chevron Championship to win her first major](https://www.theguardian.com/sport/2022/apr/03/jennifer-kupcho-holds-nerve-at-chevron-championship-to-win-her-first-major)
-- [Sri Lanka’s cabinet resigns as protesters’ anger grows over economic crisis](https://www.theguardian.com/world/2022/apr/04/sri-lankas-cabinet-resigns-as-protesters-anger-grows-over-economic-crisis)
-- [Tourists urged to avoid Myanmar as junta prepares to reopen to world](https://www.theguardian.com/world/2022/apr/04/everything-is-not-ok-here-tourists-urged-to-avoid-myanmar-as-junta-prepares-to-reopen-to-world)
-- [Grammy awards 2022: the full list of winners](https://www.theguardian.com/music/2022/apr/03/grammy-awards-2022-the-full-list-of-winners)
-- [Sacramento shooting: police hunt at least two suspects after six shot dead](https://www.theguardian.com/us-news/2022/apr/03/sacramento-shooting-dead-injured)
-- [Quarter of bus routes axed in England in last decade](https://www.theguardian.com/politics/2022/apr/04/quarter-of-bus-routes-axed-in-england-in-last-decade)
+- [Russia-Ukraine war latest: Biden calls for Putin war crimes trial; Borodyanka worse than Bucha, says Ukrainian prosecutor](https://www.theguardian.com/world/live/2022/apr/04/russia-ukraine-war-latest-zelenskiy-calls-russian-forces-butchers-after-civilian-mass-graves-found-around-kyiv-live)
+- [Russia-Ukraine war: what we know on day 41 of the Russian invasion](https://www.theguardian.com/world/2022/apr/05/russia-ukraine-war-what-we-know-on-day-41-of-the-russian-invasion)
+- [Babies in bunkers: the surrogate mothers and infants trapped in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/apr/05/babies-in-bunkers-surrogate-mothers-infants-trapped-ukraine-podcast)
+- [Explainer: could Vladimir Putin be prosecuted for war crimes?](https://www.theguardian.com/world/2022/apr/04/putin-war-crimes-accusation-ukraine-icc)
+- [Thailand dreams of high-end cannabis tourism after marijuana is legalised](https://www.theguardian.com/world/2022/apr/05/thailand-dreams-of-high-end-cannabis-tourism-after-marijuana-is-legalised)
+- [Ever Forward ship still stuck in Chesapeake Bay after three weeks](https://www.theguardian.com/us-news/2022/apr/04/ever-forward-stuck-ship-chesapeake-bay)
+- [Two more Republicans back Ketanji Brown Jackson for supreme court](https://www.theguardian.com/us-news/2022/apr/04/ketanji-brown-jackson-supreme-court-senate-vote)
+- [IS terrorists who kidnapped James Foley ignored efforts to negotiate, court hears](https://www.theguardian.com/world/2022/apr/04/islamic-state-terrorists-trial-kidnap-murder-james-foley)
+- [‘This is inhumane’: the cost of zero Covid in Shanghai](https://www.theguardian.com/world/2022/apr/05/this-is-inhumane-the-cost-of-zero-covid-in-shanghai)
+- [UK politicians  request visa scheme for Ukrainian students and academics](https://www.theguardian.com/world/2022/apr/05/uk-politicians-request-visa-scheme-for-ukrainian-students-and-academics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

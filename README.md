@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
-- [The Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
-- [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
-- [Alive](https://alive.salon)
-- [Why are 2D vector graphics so much harder than 3D? &lpar;2019&rpar;](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
-- [“Can it run Doom” will never be the same, thanks to new ray-tracing mod](https://arstechnica.com/gaming/2022/04/doom-1-1993-gets-full-ray-tracing-dlss-support-in-fan-made-patch/)
-- [Some interesting malware I found](https://bobbiechen.com/blog/2022/4/3/some-interesting-malware)
-- [Due to failure in the IT system, it is not possible to run any trains today](https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html)
-- [Einstein versus the Physical Review](https://physicstoday.scitation.org/doi/10.1063/1.2117822)
+- [A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
+- [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
+- [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
+- [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
+- [DevCycle &lpar;YC W14&rpar; is hiring feature flag automation engineers](https://devcycle.com/company/careers)
+- [Tell HN: My kid&#39;s school installed spyware and I can&#39;t remove it](https://news.ycombinator.com/item?id=30911623)
+- [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html)
+- [Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”](https://theintercept.com/2022/04/04/amazon-union-living-wage-restrooms-chat-app/)
+- [Why DC May Replace AC &lpar;2019&rpar;](https://www.electricalindustry.ca/latest-news/1018-9-reasons-why-dc-may-replace-ac)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_
